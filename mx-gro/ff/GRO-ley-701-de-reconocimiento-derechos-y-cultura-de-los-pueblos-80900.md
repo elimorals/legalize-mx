@@ -4,7 +4,7 @@ identifier: "GRO-ley-701-de-reconocimiento-derechos-y-cultura-de-los-pueblos-809
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-08"
-last_updated: "2018-08-24"
+last_updated: "2022-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,13 @@ state: "GRO"
 ---
 # LEY 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDIGENAS Y AFROMEXICANAS, DEL ESTADO DE GUERRERO --ANTES -- LEY NUMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS INDIGENAS Y COMUNIDADES AFROMEXICANAS -- ANTES -- LEY NUMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. LA PRESENTE VERSIÓN CONTIENE EL DECRETO NÚMERO 217 POR EL QUE SE ACEPTA PARCIALMENTE LA OBSERVACIÓN TOTAL EMITIDA POR LA TITULAR DEL PODER EJECUTIVO DEL ESTADO DE GUERRERO, RESPECTO DEL DECRETO NÚMERO 183 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE GUERRERO.]</small>
+LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS, DEL ESTADO DE GUERRERO
 
-LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS INDÍGENAS Y COMUNIDADES AFROMEXICANAS DEL ESTADO DE GUERRERO
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de abril de 2011.
 
-LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE GUERRERO
+LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS, DEL ESTADO DE GUERRERO
 
 CARLOS ZEFERINO TORREBLANCA GALINDO, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes sabed
 
@@ -41,11 +39,9 @@ C O N S I D E R A N D O.
 
 Por lo anteriormente expuesto, y con fundamento en lo dispuesto por los artículos 47 fracciones I y XIX de la Constitución Política Local, y en el artículo 8º fracción I de la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 286, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA LA DENOMINACIÓN DE ESTE ORDENAMIENTO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2018)</small>
-
-LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS INDÍGENAS Y COMUNIDADES AFROMEXICANAS
+LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS, DEL ESTADO DE GUERRERO.
 
 (NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TÍTULO PRIMERO DE ESTE ORDENAMIENTO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -55,25 +51,21 @@ LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS INDÍGENAS 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y reglamentaria de la Sección II del Título Segundo de la Constitución Política del Estado Libre y Soberano de Guerrero, en concordancia con el artículo 2 de la Constitución Política del Estado Libre y Soberano de Guerrero, en concordancia con la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales de los que México es parte, y de aplicación y cumplimiento obligatorio en el Estado.
+La presente Ley es de orden público e interés social y reglamentaria de la Sección II del Título Segundo de la Constitución Política del Estado Libre y Soberano de Guerrero, en concordancia con el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales de los que México es parte, y de aplicación y cumplimiento obligatorio en el Estado.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 2.
 
 Son objetivos de la presente Ley:
 
-I. Reconocer los derechos y cultura de los pueblos originarios indígenas y comunidades afromexicanas del Estado y de las personas que los integran;
+I. Reconocer los derechos y cultura de los pueblos indígenas y comunidades afromexicanas del Estado y de las personas que los integran;
 
-II. Garantizar y promover el ejercicio de sus derechos civiles, económicos, sociales, culturales, ambientales y político- electorales, salvaguardando sus formas específicas de organización comunitaria, el respeto, uso y desarrollo de sus culturas, cosmovisión, conocimientos, lenguas, usos, tradiciones, costumbres, medicina tradicional y recursos; y
+II. Garantizar y promover el ejercicio de sus derechos civiles, económicos, sociales, culturales, ambientales y político-electorales, salvaguardando sus formas específicas de organización comunitaria, el respeto, uso y desarrollo de sus culturas, cosmovisión, conocimientos, lenguas, usos, tradiciones, costumbres, medicina tradicional y recursos; y
 
 III. Establecer las obligaciones del Gobierno del Estado y de los ayuntamientos para elevar la calidad de vida de los pueblos indígenas y comunidades afromexicanas.
 
@@ -119,25 +111,19 @@ La aplicación de esta Ley corresponde a las autoridades estatales y municipales
 
 Las personas indígenas y afromexicanos provenientes de cualquier otro Estado de la República u otro país que transiten o residan temporal o permanentemente dentro del territorio del Estado de Guerrero, gozarán de los beneficios de la presente Ley, respetando los usos, costumbres y tradiciones donde residan.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 5.
 
-EL ESTADO DE GUERRERO SUSTENTA SU IDENTIDAD MULTIÉTNICA, PLURILINGÜÍSTICA Y PLURICULTURAL SUSTENTADA ORIGINALMENTE EN SUS PUEBLOS ORIGINARIOS INDÍGENAS, PARTICULARMENTE LOS NAHUAS, MIXTECOS, TLAPANECOS Y AMUZGOS, ASÍ COMO EN SUS COMUNIDADES AFROMEXICANAS
+El Estado de Guerrero sustenta su identidad multiétnica, plurilingüística y pluricultural sustentada originalmente en sus pueblos y comunidades indígenas y afromexicanas y tendrán derecho a la libertad de expresión, a la protección de sus usos y costumbres, tradiciones, lengua, religión, indumentaria, rasgos culturales y educación.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+Esta Ley reconoce y protege como originarios del Estado de Guerrero a los pueblos y comunidades indígenas Nahuas, Náhualt (sic), Na savi o Mixteco, Me’phaa o Tlapaneco y Nn´anncue Ñonmdaa o Amuzgo, debiendo así ser identificados por parte de las instituciones gubernamentales.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+Reconoce y protege como fundador del Estado de Guerrero al pueblo y comunidades afromexicanas asentadas en su territorio, por lo que serán sujetos de los beneficios y obligaciones de esta Ley.
 
-ESTA LEY RECONOCE Y PROTEGE COMO ORIGINARIOS DEL ESTADO DE GUERRERO A LOS PUEBLOS INDÍGENAS NAHUA, NÁHUALT, NA SAVI O MIXTECO, ME’PHAA O TLAPANECO Y NN´ANNCUE ÑONMDAA O AMUZGO, ASENTADOS EN DIVERSAS REGIONES COMO LA CENTRO, NORTE, MONTAÑA Y COSTA CHICA DEL ESTADO EN LOS MUNICIPIOS DE: ACATEPEC, AHUACUOTZINGO, ALCOZAUCA DE GUERRERO, ATENANGO DEL RÍO, ATLAMAJALCINGO DEL MONTE, ATLIXTAC, AYUTLA DE LOS LIBRES, COCHOAPA EL GRANDE, COPALILLO, COPANATOYAC, CUALAC, CHILAPA DE ÁLVAREZ, HUAMUXTITLÁN, IGUALAPA, ILIATENCO, JOSÉ JOAQUÍN DE HERRERA, MALINALTEPEC, MÁRTIR DE CUILAPÁN, METLATÓNOC, OLINALÁ, OMETEPEC, QUECHULTENANGO, SAN LUIS ACATLÁN, TLACOACHISTLAHUACA, TLACOAPA, TLAPA DE COMONFORT, XALPATLÁHUAC, XOCHISTLAHUACA, ZAPOTITLÁN TABLAS Y ZITLALA, TODOS CON POBLACIÓN INDÍGENA SUPERIOR AL 40 POR CIENTO DE LA POBLACIÓN TOTAL. TAMBIÉN CUENTAN CON UNA PRESENCIA INDÍGENA IMPORTANTE LOS MUNICIPIOS DE ACAPULCO DE JUÁREZ, CHILPANCINGO DE LOS BRAVO, HUITZUCO DE LOS FIGUEROA, IGUALA DE LA INDEPENDENCIA, TAXCO DE ALARCÓN, TEPECOACUILCO DE TRUJANO, TIXTLA DE GUERRERO Y EDUARDO NERI
+Las personas indígenas o afromexicanas del Estado de Guerrero que residan temporal o permanentemente en otros estados del país o en el extranjero, mantendrán su calidad de guerrerenses y, por tanto, su condición de ciudadanos del Estado, en los términos que al respecto establece la Constitución Política del Estado.
 
-El Estado de Guerrero, también reconoce como fundadores del Estado a los pueblos y comunidades afromexicanas de Guerrero, por lo que serán sujetos de los beneficios y obligaciones de esta Ley y tendrán derecho a la protección de sus costumbres, usos, tradiciones, lengua, religión, indumentaria y rasgos culturales.
-
-Los indígenas procedentes de otra entidad federativa o de otro país, que transiten o residan temporal o permanentemente dentro del territorio estatal también podrán acogerse a las prerrogativas y obligaciones de esta Ley.
-
-Los indígenas de Guerrero que residan temporal o permanentemente en otros Estados de la República o en el extranjero, mantendrán su calidad de guerrerenses y, por tanto, su condición de ciudadanos del Estado, en los términos que al respecto establece la Constitución Política del Estado.
+Las personas indígenas o afromexicanas provenientes de cualquier otro Estado de la República u otro país que transiten o residan temporal o permanentemente dentro del territorio del Estado de Guerrero, podrán acogerse a las prerrogativas y obligaciones previstas en esta Ley, respetando los usos, costumbres y tradiciones del lugar donde residan.
 
 (NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -273,15 +259,13 @@ Los pueblos indígenas y comunidades afromexicanas podrán asociarse para los fi
 
 ### CAPÍTULO III. DE LOS DERECHOS ESPECÍFICOS DE LOS INDÍGENAS Y AFROMEXICANOS
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 15.
 
-Es indígena la persona que descienden (sic) de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan (sic) sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+Es indígena la persona que desciende de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias lenguas, instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. Identidad que deberá ser acreditada por medio de su cultura, cosmovisión, cosmología, lengua, tradiciones, costumbres, ceremonias, entre otros.
 
 (NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -293,15 +277,11 @@ LOS INTEGRANTES DE LOS PUEBLOS INDÍGENAS Y COMUNIDADES AFROMEXICANAS TIENEN DER
 
 De la misma manera se mantendrá, pronunciará y escribirá la toponimia de sus asentamientos.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 17.
 
-NINGUNA PERSONA INDÍGENA O AFROMEXICANA SERÁ DISCRIMINADA EN RAZÓN DE SU CONDICIÓN Y ORIGEN, POR LO QUE SE SANCIONARÁ CUALQUIER ACCIÓN O CAUSA, TENDIENTE A DENIGRAR A LOS INTEGRANTES DE LOS PUEBLOS INDÍGENAS Y COMUNIDADES AFROMEXICANAS, DE CONFORMIDAD CON LA LEY NÚMERO 214 PARA PREVENIR, COMBATIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE GUERRERO.
-
-Los órganos institucionales encargados de la aplicación de la presente Ley, respetarán la libertad de expresión y asociación de las comunidades indígenas.
+Ninguna persona indígena o afromexicana será discriminada en razón de su condición y origen, por lo que se sancionará cualquier acción o causa, tendiente a denigrar a los integrantes de los pueblos indígenas y comunidades afromexicanas, de conformidad con los tratados internacionales en la materia y a la legislación federal y local referente al combate y eliminación a la discriminación.
 
 ###### Artículo 18.
 
@@ -347,41 +327,35 @@ Cuando exista duda de su identidad, además de la de su comunidad de origen, se 
 
 ### CAPÍTULO I. DE LA AUTONOMÍA
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 25.
 
-En el marco del orden jurídico vigente, el Estado respetará los límites de los territorios de los pueblos indígenas y comunidades afromexicanas dentro de los cuales ejercerán la autonomía que ésta Ley les reconoce.
+En el marco del orden jurídico vigente, el Estado respetará los límites de los territorios de los pueblos indígenas y comunidades afromexicanas dentro de los cuales ejercerán la autonomía que esta Ley les reconoce.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 26.
 
-Esta Ley reconoce y garantiza el derecho de los pueblos indígena (sic) y las comunidades afromexicanas del Estado a la libre determinación y, en consecuencia, a la autonomía, para:
+Esta Ley reconoce y garantiza el derecho de los pueblos y comunidades indígenas y afromexicanas a la libre determinación y, en consecuencia, a la autonomía, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Guerrero, en particular aquellos relativos al respeto de los derechos humanos, para:
 
 I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural;
 
-II. Aplicar sus propios sistemas normativos internos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Guerrero, respetando los derechos humanos, de manera relevante, la dignidad e integridad de las mujeres.
+II. Aplicar sus sistemas normativos propios en la regulación y solución de sus conflictos internos, respetando los derechos humanos y, particularmente la dignidad e integridad de las niñas y mujeres;
 
-III. Elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a sus autoridades políticas o representantes, y garantizar la participación de las mujeres en condiciones de igualdad, estimulando su intervención y liderazgo en los asuntos públicos;
+III. Elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a sus autoridades comunitarias o representantes, y garantizar la participación de las mujeres en condiciones de igualdad sustantiva, respetando el principio de paridad de género, estimulando su intervención y liderazgo en los asuntos públicos;
 
-IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad;
+IV. Preservar y enriquecer sus lenguas y variantes, conocimientos y todos los elementos que constituyan su cultura e identidad;
 
 V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras;
 
-VI. Acceder al uso y disfrute colectivo de sus tierras, territorios y recursos naturales en la forma y con las modalidades prescritas en la Constitución Política de los Estados Unidos Mexicanos, sin que puedan ser objeto de despojo alguno, o de explotación mediante entidades públicas o privadas ajenas a los mismos sin la consulta y el consentimiento previo, libre e informado de la comunidad. En caso de consentimiento, tendrán derecho a una parte de los beneficios y productos de esas actividades.
+VI. Acceder al uso y disfrute colectivo de sus tierras, territorios y recursos naturales en la forma y con las modalidades prescritas en la Constitución Política de los Estados Unidos Mexicanos, sin que puedan ser objeto de despojo alguno, o de explotación mediante entidades públicas o privadas ajenas a los mismos sin la consulta y el consentimiento previo, libre e informado de la comunidad. En caso de consentimiento, tendrán derecho a una parte de los beneficios y productos de esas actividades;
 
-VII. Elegir, en los municipios y distritos con población indígena mayor al 40%, preferentemente representantes populares indígenas ante los ayuntamientos observando la igualdad.
-
-Para hacer efectivo este derecho se estará a lo dispuesto por los artículos 37 fracción V de la Constitución Política del Estado Libre y Soberano de Guerrero y 272 de la Ley número 483 de Instituciones y Procedimientos Electorales del Estado de Guerrero.
+VII. Registrar candidatos preferentemente indígenas en municipios y distritos en donde su población sea superior al cuarenta por ciento, y garantizar la participación política de las mujeres de manera paritaria, debiendo ser designados y aprobados por la Asamblea, y
 
 VIII. Acceder plenamente a la jurisdicción del Estado.
 
-Para garantizar este derecho, en todos los juicios y procedimientos en que los indígenas sean parte individual o colectivamente, se deberán tomar en cuenta, por las autoridades jurisdiccionales, sus costumbres y especificidades culturales.
+Para garantizar este derecho, en todos los juicios y procedimientos en los que las personas indígenas y afromexicanas sean parte individual o colectivamente, las autoridades jurisdiccionales y administrativas deberán tomar en cuenta, sus costumbres y especificidades culturales.
 
 Los indígenas tienen en todo tiempo el derecho a ser asistidos por traductores, intérpretes y defensores que tengan conocimiento de su lengua, cultura y tradiciones.
 
@@ -411,21 +385,17 @@ El Estado de Guerrero reconoce la validez de las normas internas de los pueblos 
 
 Los usos y costumbres que se reconocen legalmente validos y legítimos de los pueblos indígenas, por ningún motivo o circunstancia deberán contravenir la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Guerrero, las Leyes Estatales vigentes, ni vulnerar los derechos humanos ni de terceros.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 31.
 
-La Comisión de Derechos Humanos del Estado, en coordinación con la Secretaría de Asuntos Indígenas y Comunidades Afromexicanas vigilarán la eficaz protección de los derechos de los pueblos y comunidades indígenas y afromexicanas.
+El Estado, por conducto de la Comisión de Derechos Humanos del Estado, la Secretaría de Asuntos Indígenas y Afromexicanos, vigilará la eficaz protección de los derechos de los pueblos y comunidades indígenas y afromexicanas.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 32.
 
-Cuando en los procedimientos intervengan personas indígenas colectivas o individuales, las autoridades de administración, procuración e impartición de justicia, aplicarán las leyes estatales vigentes, tomando en cuenta las normas internas de cada pueblo y comunidad, que no se opongan a las primeras. Para ello, se basarán en la información que en diligencia formal les proporcione la autoridad comunitaria del pueblo o comunidad indígena correspondiente, buscando, en todo caso, la apropiada articulación entre dichas normas. Al resolver las controversias se procederá en los mismos términos.
+Cuando en los procedimientos intervengan personas colectivas o individuales indígenas o afromexicanas, las autoridades estatales, municipales, administrativas, de procuración y administración de justicia, Ministerio Público, las instancias encargadas de aplicar las infracciones administrativas, de la supervisión de medidas cautelares, de suspensión condicional, del procedimiento, de las responsables de la prisión preventiva y ejecución de penas, aplicarán las leyes estatales vigentes, tomando en cuenta las normas internas de cada pueblo y comunidad, que no se opongan a las primeras. Para ello, se basarán en la información que en diligencia formal les proporcione la autoridad comunitaria del pueblo o comunidad indígena o afromexicana correspondiente, buscando, en todo caso, la apropiada articulación entre dichas normas. En los mismos términos se procederá al resolver las controversias.
 
 En los conflictos de naturaleza penal las autoridades estatales deberán actuar conforme a lo previsto en el Código Nacional de Procedimientos Penales; la Ley Nacional de Mecanismos Alternativos de Solución de Controversias y la Constitución Estatal.
 
@@ -445,63 +415,75 @@ Los indígenas y afromexicanos que sean condenados a penas privativas de liberta
 
 El Estado y los municipios en los ámbitos de su competencia, implementarán programas de difusión dirigidos a las poblaciones indígenas y en general para dar a conocer las leyes federales y estatales vinculadas con el funcionamiento del sistema judicial y los sistemas normativos aplicables por los pueblos indígenas.
 
-## TÍTULO TERCERO. DE LA JUSTICIA INDÍGENA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2022)</small>
+
+## TÍTULO TERCERO. DE LA JUSTICIA INDÍGENA Y AFROMEXICANA
 
 ### CAPÍTULO I. DE LOS SISTEMAS NORMATIVOS
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 35.
 
-El Estado de Guerrero reconoce la existencia y la validez de sistemas normativos internos de los pueblos y comunidades indígenas, entendidos como el conjunto de normas jurídicas orales y escritas de carácter consuetudinario, que los pueblos indígenas reconocen como válidas y utilizan para regular sus actos públicos, organización, actividades y sus autoridades aplican para la resolución de sus conflictos, de acuerdo al pacto federal y la soberanía de los estados, que se han transmitido por generaciones, enriqueciéndose y adaptándose con el paso del tiempo, los cuales son aplicables también en el ámbito de las relaciones familiares, de la vida civil, de la vida comunitaria y, en general, para la prevención y solución de conflictos al interior de cada comunidad.
+En términos del artículo 14 de la Constitución Local, el estado de Guerrero reconoce las acciones de seguridad pública para la prevención del delito que implementen los pueblos y comunidades indígenas y afromexicanas a sus integrantes, con sujeción a sus sistemas normativos internos, prácticas tradicionales y reglamento interno de su comunidad, respetando las garantías constitucionales, los derechos humanos y, de manera relevante, la dignidad e integridad de los niños, niñas y mujeres, personas con discapacidad y adultos mayores.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+La aplicación de la justicia indígena es alterna a la vía jurisdiccional ordinaria y al fuero de los jueces del orden común, conforme a lo dispuesto por el Código Nacional de Procedimientos Penales y la Constitución Política de los Estados Unidos Mexicanos; los tratados internacionales; la Constitución Política del Estado Libre y Soberano de Guerrero, y las leyes de ellas emanadas.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 36.
 
-Para efectos de esta Ley se entiende por justicia indígena, el sistema conforme al cual se presentan, tramitan y resuelven las controversias jurídicas internas que se suscitan entre los miembros de los pueblos y comunidades indígenas, o entre éstos y terceros que no sean indígenas~ así como las formas y procedimientos que garantizan a sus integrantes, el pleno acceso a la jurisdicción del Estado, de acuerdo con las bases establecidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero, los Tratados Internacionales de la materia suscritos y ratificados por México, el Código Nacional de Procedimientos Penales, la Ley Nacional de Mecanismos Alternativos de Solución de Controversias, la Ley Nacional de Ejecución Penal y la Ley Nacional del Sistema Integral de Justicia para Adolescentes.
+Se reconoce en los pueblos y comunidades indígenas y afromexicanas, el conjunto de normas orales y escritas que se han transmitido por generaciones, enriqueciéndose y adaptándose con el paso del tiempo, de carácter consuetudinario que regulan sus relaciones familiares, comunitarias, la vida civil y la prevención y solución de conflictos al interior de cada pueblo o comunidad, entre sus integrantes.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 37.
 
-El Estado de Guerrero reconoce la existencia de los sistemas normativos indígenas internos, para todos los efectos legales a que haya lugar. Las leyes correspondientes establecerán las bases y características para la armonización de éstos, con la jurisdicción del Estado, respetando la integralidad y las modalidades de las funciones de los sistemas de seguridad pública, procuración, impartición y administración de justicia, conforme a las leyes de la materia.
+Las Autoridades del Estado de Guerrero mantendrá (sic) una relación de cooperación y comunicación con los pueblos y comunidades indígenas y afromexicanas, para garantizar que sus sistemas normativos internos sean adecuadamente conocidos por personas e instituciones ajenas a ellos, velando que no se contrapongan con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos; los tratados internacionales; la Constitución Política del Estado, y las leyes que de ella emanen.
 
-Tratándose de delitos que afecten bienes jurídicos propios de un pueblo o comunidad indígena o afromexicana, o bienes personales de alguno de sus miembros, se estará a lo dispuesto por la legislación nacional aplicable.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2022)</small>
+
+#### SECCIÓN PRIMERA. SISTEMA DE SEGURIDAD COMUNITARIO INDÍGENA Y AFROMEXICANO
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 38.
 
-Las decisiones tomadas por las autoridades de los pueblos y comunidades indígenas, con base en sus sistemas normativos internos, dentro de sus ámbitos jurisdiccionales, deberán ser respetadas por las autoridades estatales respectivas.
+El Sistema de Seguridad Comunitario Indígena y Afromexicano es el conjunto articulado de instituciones, autoridades, acciones, instrumentos y mecanismos que implementan los pueblos y comunidades indígenas y afromexicanas, de acuerdo a sus usos y costumbres dentro del Municipio, en la prevención del delito, sin vulnerar sus sistemas normativos, prácticas tradicionales, lo dispuesto por el Código Nacional de Procedimientos Penales, y la presente Ley.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 39.
 
-El Estado mantendrá comunicación constante con las autoridades de los pueblos y comunidades indígenas, para coadyuvar a que sus sistemas normativos internos sean adecuadamente reconocidos y respetados por personas e instituciones ajenas a ellos.
+El Sistema de Seguridad Comunitario Indígena y Afromexicano y el Sistema de Seguridad Pública Estatal constituirán una relación de cooperación en materia de seguridad pública, asentada en el reconocimiento pleno de los pueblos y comunidades indígenas y afromexicanas, el pluralismo jurídico y el respeto mutuo que garantice la prevención de los delitos e infracciones.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 40.
 
-Para la solución de los conflictos internos, las autoridades indígenas ancestrales, cumplirán las siguientes reglas:
+El órgano supremo del Sistema de Seguridad Comunitario Indígena y Afromexicano es la Asamblea General de cada pueblo o comunidad indígena o afromexicana.
 
-I. Conocerán primeramente la del lugar: en donde exista la disputa, conflicto o controversia; o se haya cometido la infracción o la falta; y
-
-II. Tratándose de bienes o cosas materia de controversia, la del lugar en donde se ubiquen dicho (sic) bienes.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 41.
 
-En los pueblos y comunidades indígenas, la distribución de funciones y la organización del trabajo comunal deberán respetar los usos, costumbres, tradiciones y los sistemas normativos internos de cada comunidad y tratándose de mujeres indígenas, la dignidad e integridad de las mismas.
+El Sistema de Seguridad Comunitario de los Pueblos Indígenas y Afromexicanos se ajustará a los mecanismos de cooperación establecidos por la Conferencia Estatal de Seguridad Pública.
+
+Las acciones de cooperación se llevarán a cabo a través del municipio y la policía comunitaria de cada pueblo y comunidad indígena y afromexicana.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 42.
 
-Las autoridades de los municipios y comunidades preservarán las faenas y el trabajo comunitario como expresión de solidaridad comunitaria, según los usos de cada pueblo y comunidad indígenas. Las faenas y el trabajo comunitario encaminados a la realización de obras de beneficio común y derivadas de los acuerdos de asamblea de cada pueblo y comunidad indígena, podrán ser consideradas como pago de aportación del beneficiario en la realización de obras públicas de la comunidad.
+En la solución de los conflictos internos que involucren a integrantes de los pueblos y comunidades indígenas y afromexicanas se observará lo dispuesto por el Código Nacional de Procedimientos Penales, conforme a las reglas siguientes:
+
+I. Conocerá primeramente la Autoridad del lugar en donde exista la disputa, conflicto, controversia; o se haya cometido o se siga cometiendo la infracción; y
+
+II. Tratándose de bienes o cosas materia de controversia, la del lugar en donde se ubiquen dichos bienes o cosas.
+
+Lo anterior, en observancia a lo dispuesto por el Código Nacional de Procedimientos Penales.
+
+Las personas no pertenecientes a los pueblos y comunidades indígenas y afromexicanas quedarán sujetas al sistema jurídico ordinario.
 
 (NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE ADICIONA EL CAPÍTULO II DEL TÍTULO TERCERO DE ESTE ORDENAMIENTO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -509,27 +491,85 @@ Las autoridades de los municipios y comunidades preservarán las faenas y el tra
 
 ### CAPÍTULO II. SISTEMA DE SEGURIDAD COMUNITARIO INDÍGENA
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 42 Bis.
 
-El Sistema de Seguridad Comunitario Indígena es un sistema auxiliar de las autoridades en materia de Seguridad Pública Estatal que contribuirá al mantenimiento del orden público y a la conservación de la paz social.
+El Sistema de Seguridad Indígena y Afromexicano llevará un registro de las personas que estén sujetas a su procedimiento, mismo que se informará de inmediato al Consejo Municipal de Seguridad Pública para integrarse al Registro Administrativo correspondiente.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE JULIO DE 2022)</small>
 
 ###### Artículo 42 Ter.
 
-El Sistema de Seguridad Comunitario Indígena estará integrado por una Asamblea de Autoridades Comunitarias, un Comité de la Policía Indígena y un Coordinador de Relaciones con el Sistema Estatal de Seguridad Pública, de conformidad con lo establecido en la Ley del Sistema de Seguridad Pública del Estado de Guerrero.
+En el marco de la cooperación de ambos Sistemas, y cuando por disposición judicial se establezca que una persona es sujeta de alguna violación que no sea competencia del Sistema de Seguridad Indígena y Afromexicano, el Estado solicitará el resguardo, custodia y, en su caso, entrega para que conforme al marco jurídico aplicable en la materia sea determinada su situación legal.
 
-(NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE JULIO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2018)</small>
+###### Artículo 42 Quáter.
 
-Artículo 42 Quarter (sic).- En el ámbito del Sistema de Seguridad Comunitario indígena, se regulará la Policía Comunitaria Indígena, como organización auxiliar de la seguridad pública estatal y municipal y funcionará únicamente en los pueblos y comunidades indígenas de conformidad con sus Sistemas Normativos Internos de acuerdo con las Bases establecidas en la Ley del Sistema de Seguridad Pública del Estado de Guerrero.
+Las autoridades indígenas y afromexicanas, así como su policía, dentro del Municipio, deberán respetar el libre ejercicio de la función de las autoridades de los tres órdenes de gobierno en materia de seguridad pública.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE JULIO DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. POLICÍA INDÍGENA Y AFROMEXICANA
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2022)</small>
+
+###### Artículo 42 Quinquies.
+
+La Policía Indígena y Afromexicana, tiene por objeto la prevención de los delitos e infracciones, se integrará por civiles elegidos conforme a lo dispuesto por el artículo 42 Septies de la presente Ley; su función es auxiliar al Sistema Estatal de Seguridad Pública y funcionará en su Municipio, acorde a sus sistemas normativos internos, a los mecanismos de cooperación mencionados en el artículo 41 y a las acciones señaladas en el artículo 42 Octies de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2022)</small>
+
+###### Artículo 42 Sexies.
+
+La Policía Indígena y Afromexicana cooperará en la función de seguridad pública municipal y estatal que se realizará en sus ámbitos de competencia por conducto de las instancias e instituciones reconocidas, de conformidad con sus sistemas normativos internos, esta Ley y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2022)</small>
+
+###### Artículo 42 Septies.
+
+La Policía Indígena y Afromexicana, se conformará y organizará de acuerdo con las bases generales siguientes:
+
+I. Por personas indígenas o afromexicanas mayores de edad sin antecedentes penales, conforme a lo dispuesto por esta Ley y demás normatividad aplicable;
+
+II. De acuerdo con sus usos y costumbres, sin contravenir lo establecido en la Constitución Federal, Tratados Internacionales, Constitución Estatal y demás leyes federales, estatales y municipales;
+
+III. Las personas integrantes de la policía Indígena y Afromexicana, se designarán en asamblea general;
+
+IV. Las personas que no tengan el carácter de indígena o afromexicana y que residan en alguna comunidad, sólo podrán formar parte, si la asamblea general así lo determina;
+
+V. El servicio que presten las personas integrantes de la Policía Indígena y Afromexicana será honorífico, voluntario, gratuito, propuesto por la asamblea y podrá objetarse conciencia para su ejercicio;
+
+VI. De acuerdo a sus usos y costumbres con pleno respeto de los derechos humanos y en observancia del marco jurídico Nacional, Internacional, Estatal y Municipal;
+
+VII. Su actuación se regirá por los principios constitucionales de legalidad, objetividad, eficiencia, honradez, además del respeto a los derechos humanos, a la no discriminación; a la igualdad, certeza, objetividad e imparcialidad;
+
+VIII. La adquisición, portación, conservación, y el uso de las armas, se sujetará al artículo 10 de la Constitución Federal y a las leyes secundarias aplicables;
+
+IX. Contar con un registro de identificación actualizado, que contenga mínimamente: fotografía, nombre, domicilio de los miembros de la policía, en su caso clave de credencial de identificación electoral.
+
+X. Las demás bases que prevea la presente Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2022)</small>
+
+###### Artículo 42 Octies.
+
+La Policía Indígena y Afromexicana en su Municipio, realizará las acciones siguientes:
+
+I. Se sujetará a sus usos y costumbres, así como a la reglamentación interna de su pueblo, comunidad indígena o afromexicana;
+
+II. Orientará y prestará los servicios de prevención del delito, vigilancia, auxilio y protección a los habitantes de su pueblo o comunidad indígena o afromexicana;
+
+III. Colaborará en auxilio y apoyo de las instituciones de seguridad pública, municipal, estatal o federal, con base en una instrucción institucional por parte de autoridad competente;
+
+IV. Colaborará y auxiliará a la autoridad de procuración e impartición de justicia, cuando sean requeridos en términos de ley.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2022)</small>
+
+###### Artículo 42 Nonies.
+
+La actuación de la Policía Indígena y Afromexicana, por su propia naturaleza y características, no generará ninguna relación y obligación laboral, ni podrá considerarse a ninguna autoridad como patrón, por considerarse honorífica, gratuita y constituir una tarea en beneficio de su comunidad, propuesta por la asamblea.
 
 (NOTA: EL 20 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 81/2018, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 778, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TÍTULO CUARTO DE ESTE ORDENAMIENTO, LA CUAL SURTIRÁ SUS EFECTOS A MÁS TARDAR A LOS DOCE MESES SIGUIENTES A LA PUBLICACIÓN DE ESTA SENTENCIA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -970,3 +1010,53 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 5 DE JULIO DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 217 QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Se acepta parcialmente la Observación Total emitida por la Titular del Poder Ejecutivo del Estado, al Decreto Número 183 por el que se reforman y adicionan diversas disposiciones de la Ley Número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero, en lo relativo a la estructura e integración del Decreto al cuerpo de la Ley referida, específicamente en lo que respecta a las denominaciones de las Secciones Primera y Segunda al Capítulo I, del Título Tercero de la Ley Número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Por cuanto al contenido y redacción total, se mantiene en los términos el Decreto Número 183 por el que se reforman y adicionan diversas disposiciones de la Ley Número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero, aprobado por el Pleno en sesión de fecha veinticuatro de mayo de dos mil veintidós, como resultado del proceso de consulta realizada a los pueblos y comunidades indígenas y afromexicanas.
+
+###### ARTÍCULO TERCERO.
+
+En términos de lo dispuesto en el tercer párrafo del artículo 290 de la Ley Orgánica del Poder Legislativo del Estado número 231, remítase de nueva cuenta el Decreto Número 183 por el que se reforman y adicionan diversas disposiciones de La Ley Número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero, al Ejecutivo del Estado, para su debida promulgación, mismo que deberá incluir la especificación respecto a su estructura en los siguientes términos:
+
+"… ARTÍCULO PRIMERO. Se reforman la denominación de la Ley 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero a Ley 701 de Reconocimiento Derechos y Cultura de los Pueblos y Comunidades Indígenas y Afromexicanas del Estado de Guerrero, y los artículos 1; 2; 5; 15; 17, 25; 26; 31; 32; la denominación del Título Tercero, los artículos 35; 36; 37; 38; 39; 40; 41 y 42 de la Ley 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero, para quedar en los siguientes términos: [...]
+
+"ARTÍCULO SEGUNDO. Se adiciona una Sección Primera al Capítulo I del Título Tercero conformada por los artículos 38, 39, 40, 41, 42, 42 Bis, 42 Ter, 42 Quatur; se adicionan los artículos 42 Bis; 42 Ter; 42 Quatur; una Sección Segunda al Capítulo I, del Título Tercero, 42 Quinque; 42 Sex Tempur (sic); 42 Septies; 42 Octies y 42 Novies, a la Ley Número 701 de Reconocimiento, Derechos y Cultura de los Pueblos y Comunidades Indígenas del Estado de Guerrero, para quedar en los siguientes términos ..."
+
+" ... TEXTO NORMATIVO Y RÉGIMEN TRANSITORIO
+
+DECRETO NÚMERO 183 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE GUERRERO."
+
+[...]
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 217 POR EL QUE SE ACEPTA PARCIALMENTE LA OBSERVACIÓN TOTAL, EMITIDA POR LA TITULAR DEL PODER EJECUTIVO DEL ESTADO DE GUERRERO, RESPECTO DEL DECRETO NÚMERO 183 POR QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Remítase al Titular del Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado, para el conocimiento general y efectos legales conducentes.
+
+P.O. 5 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 183 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 701 DE RECONOCIMIENTO, DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se derogan todas las disposiciones legales que contravengan al presente Decreto.
+
+TERCERO. Los procedimientos iniciados antes de la entrada en vigor del presente Decreto y que se contrapongan, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes antes del presente Decreto.
+
+CUARTO. Remítase a la Maestra Evelyn C. Salgado Pineda, Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+QUINTO. En vías de cumplimiento a la Resolución recaída a la Acción de Inconstitucionalidad 81/2018, remítase a la Suprema Corte de Justicia de la Nación para su conocimiento y efectos legales conducentes.
+
+SEXTO. Remítase al Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado, para su observancia y conocimiento general.
