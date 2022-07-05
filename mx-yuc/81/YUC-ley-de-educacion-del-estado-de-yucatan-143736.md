@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-143736"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2022-03-30"
+last_updated: "2022-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE JULIO DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 29 de julio de 2020.
 
@@ -125,7 +125,9 @@ I. Recibir una educación de excelencia.
 
 II. Ser respetados en su integridad, identidad, orientación sexual y dignidad, además de la protección contra cualquier tipo de agresión física o moral.
 
-III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad.
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2022)</small>
+
+III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad y los cambios físicos en su persona.
 
 IV. Ser respetados por su libertad de convicciones éticas, de conciencia y de religión.
 
@@ -143,9 +145,13 @@ IX. Participar en los Comités Escolares de Administración Participativa y en l
 
 X. Cursar sus estudios en planteles educativos dignos, seguros y que cuenten con la infraestructura necesaria e internet de banda ancha, para poder acceder a las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de recibir una educación de excelencia y con el uso de plataformas digitales.
 
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2022)</small>
+
+XI. Tener derecho de acceso a productos de higiene en general e higiene menstrual en las escuelas públicas pertenecientes al Sistema Educativo Estatal.
+
 > <small>(REFORMADA, D.O. 30 DE MARZO DE 2022)</small>
 
-XI. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Yucatán, la Ley General de Educación, esta Ley y en las demás disposiciones legales y normativas aplicables.
+XII. Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Yucatán, la Ley General de Educación, esta Ley y en las demás disposiciones legales y normativas aplicables.
 
 El estado, en la elaboración y aplicación de las políticas educativas en sus distintos tipos, modalidades y opciones, establecerá los mecanismos necesarios para desarrollar todas las potencialidades de los educandos de forma activa, transformadora y autónoma, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales.
 
@@ -293,6 +299,10 @@ V. Alentar la construcción de relaciones sociales, económicas y culturales con
 
 VI. Promover el establecimiento de una cultura de educación para la salud, a través de acciones sistemáticas que favorezcan la adquisición de hábitos de vida saludable.
 
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2022)</small>
+
+VII. Se fomentará, con perspectiva de género y respeto a los derechos humanos, acciones educativas enfocadas a dignificar el ciclo menstrual como parte del proceso natural de la vida.
+
 ###### Artículo 15.
 
 Bases de la educación
@@ -375,7 +385,13 @@ XXIX. Garantizar en las instituciones educativas públicas de nivel básico o me
 
 XXX. Proporcionar a los alumnos los elementos necesarios para la adquisición de los conocimientos, habilidades y actitudes para la gestión de su salud, tanto física como mental.
 
-XXXI. Todos aquellos que contribuyan al bienestar y desarrollo del individuo, del estado y del país.
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2022)</small>
+
+XXXI. Brindar talleres y pláticas informativas relativas a la menstruación, la correcta higiene menstrual, los cambios corporales y emocionales, con el objetivo de normalizar este proceso natural en el entorno sociocultural de las y los educandos, sin menoscabo de la libertad y del respeto absoluto a la dignidad y los derechos humanos.
+
+> <small>(REFORMADA, D.O. 5 DE JULIO DE 2022)</small>
+
+XXXII. Todo aquello que contribuyan (sic) al bienestar y desarrollo del individuo, del Estado y del País.
 
 Los fines anteriores se ajustarán a la edad y al nivel de desarrollo de los educandos, así como al tipo, nivel, modalidad y opción educativa que a estos se imparta.
 
@@ -908,6 +924,10 @@ XLIII. Las demás que establezca la ley general, esta ley y demás disposiciones
 > <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 XLIV. En los grados de preescolar y primaria, fomentar en los educandos hábitos de cepillado e higiene dental y, en general, todos los aspectos concernientes a la salud bucodental. Para este efecto, las autoridades educativas de la entidad podrán coordinarse con la Secretaría de Salud del Estado de Yucatán con la finalidad de llevar a cabo los programas en las modalidades y características que establece la Ley de Salud del Estado de Yucatán en su capítulo VI de su Título Séptimo.
+
+> <small>(ADICIONADA, D.O. 5 DE JULIO DE 2022)</small>
+
+XLV. Realizar las gestiones necesarias que permitan progresivamente el acceso gratuito a las personas que así lo requieran, a productos tales como toallas sanitarias, tampones y/o copas menstruales, jabón y papel higiénico, en las escuelas públicas pertenecientes al Sistema Educativo Estatal.
 
 Además de las atribuciones señaladas en esta ley, la Secretaría de Investigación, Innovación y Educación Superior, en el ámbito de sus competencias, tendrá las correspondientes en materia de educación superior que se establezcan en la Ley General de Educación Superior.
 
@@ -2602,3 +2622,21 @@ Las autoridades educativas competentes deberán emitir y adecuar los reglamentos
 Artículo Tercero. Partidas presupuestarias
 
 El Poder Ejecutivo del Estado de forma gradual desde la entrada en vigor de este decreto, preverá en su Presupuesto de Egresos del Estado las partidas presupuestales necesarias para cubrir con la infraestructura que se requiera a los planteles educativos, para dar cumplimiento a lo establecido en el mismo.
+
+D.O. 5 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 528/2022 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE MENSTRUACIÓN DIGNA".]
+
+Artículo Primero. Entrada en vigor.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Planeación y Programación
+
+La Secretaría de Educación Estatal deberá considerar acciones inmediatas en la planeación, programación y disponibilidad presupuestal priorizando iniciar en los centros educativos de las comunidades y pueblos indígenas, así como zonas de alta y muy alta marginación para que de forma gradual se vaya cumpliendo con lo dispuesto en este Decreto en el territorio Estatal, teniendo para ese efecto un plazo de dos años posteriores a la entrada vigor para lograr la cobertura total.
+
+La autoridad educativa local deberá rendir un informe de los avances en la aplicación de lo dispuesto en el presente decreto al Honorable Congreso del Estado de Yucatán, un informe del plazo de un año a partir de la entrada vigor de este decreto.
+
+Artículo Tercero. Derogación tácita.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto.
