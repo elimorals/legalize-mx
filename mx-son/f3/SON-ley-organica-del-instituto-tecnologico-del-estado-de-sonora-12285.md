@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-instituto-tecnologico-del-estado-de-sonora-122
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-10-02"
-last_updated: "2016-01-25"
+last_updated: "2022-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL INSTITUTO TECNOLÓGICO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE OCTUBRE DE 2003.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 25 DE ENERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE JULIO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 2 de octubre de 1976.
 
@@ -47,9 +45,11 @@ PERSONALIDAD Y FINES.
 
 El Instituto Tecnológico de Sonora se regirá por las disposiciones de la presente ley.
 
+> <small>(REFORMADO, B.O. 5 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 2o.
 
-El Instituto Tecnológico de Sonora es un organismo público descentralizado, de carácter universitario, con personalidad jurídica y patrimonio propios; autónomo en cuanto a que en el ejercicio de sus funciones de enseñanza, investigación y difusión, el Instituto dictará sus propios ordenamientos, organizará su funcionamiento y aplicará sus recursos económicos en la forma que estime conveniente. Su domicilio estará en Ciudad Obregón, Sonora.
+El Instituto Tecnológico de Sonora es una institución autónoma de servicio público, con personalidad jurídica y patrimonio propios, y con facultades para autogobernarse, organizar su funcionamiento, elaborar sus propios reglamentos y demás aspectos normativos, así como para adquirir y administrar sus bienes y recursos. Es una institución de educación superior y ejercerá la libertad de enseñanza, investigación y difusión de la cultura; aplicará sus recursos con sujeción a la normatividad relativa y, en general, cumplirá con las atribuciones que esta ley, el reglamento general y los demás reglamentos le confieran. Su domicilio estará en Ciudad Obregón, Sonora.
 
 ###### ARTICULO 3o.
 
@@ -482,3 +482,23 @@ La rectoría que inició funciones en el año 1999, ejercerá su encargo hasta e
 ###### ARTÍCULO CUARTO.
 
 Si al entrar en vigor el presente Decreto, una persona se encuentra desempeñando el cargo de Rector después de haberlo ejercido por más de dos periodos, convocará y realizará la elección que corresponda en los términos de la Ley dentro de un plazo no mayor de sesenta días naturales, sin que pueda participar en dicho proceso, ni aquél que llegare a ocupar el cargo de Rector provisionalmente.
+
+B.O. 5 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57, QUE REFORMA EL ARTÍCULO 2° DE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación y Cultura y la Secretaría de la Contraloría General deberán realizar las adecuaciones correspondientes a sus disposiciones para armonizarlas con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En el caso de requerirse adecuaciones presupuestales, la Secretaría de Hacienda, realizará las modificaciones para que surta sus efectos en el ejercicio fiscal 2023.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Tecnológico de Sonora, como institución de educación superior autónoma por Ley, armonizará progresivamente su normatividad conforme a las disposiciones legales aplicables, con el fin de consolidar la igualdad sustantiva, incluyendo la paridad de género.
