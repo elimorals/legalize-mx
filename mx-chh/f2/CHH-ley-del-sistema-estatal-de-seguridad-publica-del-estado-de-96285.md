@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2021-12-18"
+last_updated: "2022-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -1243,9 +1243,11 @@ El régimen de estímulos es el mecanismo por el cual las Instituciones de Segur
 
 Comprende las Recompensas, Condecoraciones, Menciones Honoríficas, Distintivos y Citaciones por medio de los cuales las Instituciones reconocen y promueven la actuación heroica, valiente, ejemplar, sobresaliente y demás actos meritorios de sus integrantes.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### Artículo 88.
 
-Los estímulos se otorgarán a los Integrantes conforme a la recomendación que emita la Comisión respectiva, sujetándose a los principios de justicia, equidad, proporcionalidad y conforme a las disposiciones presupuestales, en la inteligencia de que por una misma acción no se podrá otorgar más de un estímulo, ni sumarse para otorgar otro.
+Los estímulos podrán otorgarse a las personas integrantes de las instituciones de Seguridad Pública, a propuesta de cualquier integrante o por la Comisión respectiva, sujetándose a los principios de justicia, equidad, proporcionalidad y conforme a las disposiciones presupuestales, en la inteligencia de que por una misma acción no se podrá otorgar más de un estímulo, ni sumarse para otorgar otro.
 
 ###### Artículo 89.
 
@@ -4152,3 +4154,11 @@ Las y los servidores públicos que pasen a formar parte de otra área o dependen
 ###### ARTÍCULO UNDÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0254/2022 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 88 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
