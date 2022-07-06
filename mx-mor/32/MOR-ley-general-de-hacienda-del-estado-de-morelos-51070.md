@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2020-12-31"
+last_updated: "2022-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -5421,7 +5421,7 @@ Las utilidades por acciones y participaciones en sociedades o empresas, el rendi
 
 ###### Artículo 120.
 
-Por las publicaciones que lleve a cabo el Gobierno del Estado, se pagará lo siguiente tarifa:
+Por las publicaciones que lleve a cabo el Gobierno del Estado, se pagará lo (sic) siguiente tarifa:
 
 Tarifa en UMA
 
@@ -5514,6 +5514,10 @@ DE $1,030.00 POR PLANA: 0.05
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
 
 Quedarán exentas del pago para la publicación a que se refieren las fracciones I, inciso B), y II, inciso B), numeral 1, de este artículo, cuando se trate de actos administrativos de carácter general, no individual, tales como Leyes, Decretos, Declaratorias, Reglamentos, Estatutos, Bandos, Planes y Programas, Acuerdos, Circulares, Formatos para uso de particulares; Lineamientos, Criterios, Instructivos, Reglas, Manuales y disposiciones que expidan los Poderes Legislativo, Ejecutivo o Judicial, los Ayuntamientos del Estado y otras autoridades federales o locales que tengan por objeto establecer derechos u obligaciones a los particulares y aquellos que por tener naturaleza análoga a los actos previstos anteriormente, autorice la Secretaría. La Secretaría tendrá la facultad de resolver sobre la exención a que alude este artículo.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2022)</small>
+
+Los edictos, avisos, sentencias y demás documentos que se deban publicar en el periódico oficial "Tierra y Libertad", así como en el “Boletín Judicial” que deriven de procedimientos de Declaración Especial de Ausencia, quedarán en su totalidad exentos de cualquier derecho o impuesto, por lo que es obligación del titular del Poder Ejecutivo a través de la Secretarias de Gobierno y de Hacienda, del presidente del Poder Judicial y de la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado, cuidar y ordenar en el ámbito de su competencia sea publicado el o los documentos sin mayores dilaciones o cargas fiscales.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -6086,3 +6090,19 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2021, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS CINCUENTA Y SIETE.- POR EL QUE SE EXPIDE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL; DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS; DE LA LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS; DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en la presente Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Morelos y este decreto, en especial las contenidas en el Código Procesal Familiar para el Estado Libre y Soberano de Morelos.
+
+CUARTA. En el caso de la existencia previa de una declaratoria por presunción de muerte o de una declaratoria por ausencia conforme al Código Familiar para el Estado Libre y Soberano de Morelos, o bien, de aquellas que se encuentren en proceso, a solicitud de quien tenga interés legítimo, éstas podrán ser tramitadas como Declaración Especial de Ausencia, en los términos de la presente ley. La autoridad jurisdiccional, deberá sustanciar estos procedimientos mediante la aplicación de esta ley, incluida la posibilidad de corregir el estatus legal de la persona desaparecida.
+
+QUINTA. Las personas titulares del Tribunal Superior de Justicia del Estado de Morelos, el Poder Ejecutivo del Estado de Morelos, así como de los organismos autónomos a los que se refiere esta ley, contarán con un plazo de 180 días para adecuar las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente ley.
+
+SEXTA. Todas las autoridades que intervienen en la aplicación de la presente ley deberán capacitarse conforme a este procedimiento de Declaración Especial de Ausencia, para garantizar de manera adecuada una protección eficaz del derecho.
