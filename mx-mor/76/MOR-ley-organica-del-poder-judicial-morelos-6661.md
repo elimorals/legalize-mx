@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2021-10-06"
+last_updated: "2022-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -65,11 +65,11 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 La presente Ley tiene por objeto regular la organización, estructura y funcionamiento del Poder Judicial del Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 2.
 
-Corresponde al Poder Judicial del Estado, en los términos de la Constitución General de la República y la Constitución Política Local, la facultad de aplicar las leyes en asuntos civiles, familiares, mercantiles, laborales y penales del fuero común, lo mismo que en los asuntos de orden federal, en los casos en que expresamente los ordenamientos legales de esta materia les confieran jurisdicción, así como el de regular su administración.
+Corresponde al Poder Judicial del Estado, en los términos de la Constitución General de la República y la Constitución Política local, la facultad de aplicar las leyes en asuntos civiles, familiares, mercantiles, laborales, sobre declaración especial de ausencia y penales del fuero común, lo mismo que en los asuntos de orden federal, en los casos en que expresamente los ordenamientos legales de esta materia les confieran jurisdicción, así como el de regular su administración.
 
 ###### ARTICULO 3.
 
@@ -523,7 +523,9 @@ De no ser aceptada la propuesta de solución formulada por el ponente, uno de lo
 
 Las Salas Civiles conocerán de:
 
-I.- Los recursos de apelación, revisión, queja y demás que la ley conceda contra las resoluciones de los Jueces dictadas en los juicios y procedimientos del orden civil y mercantil;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2022)</small>
+
+I.- Los recursos de apelación, revisión, queja y demás que la ley conceda contra las resoluciones de los jueces dictadas en los juicios y procedimientos del orden civil, familiar, sobre declaración especial de ausencia y mercantil;
 
 II.- Los recursos de revocación contra los acuerdos que pronuncien el Magistrado ponente o la propia Sala en los casos de su competencia;
 
@@ -993,13 +995,17 @@ I.- Conocer de todos los asuntos de su competencia que se susciten en sus respec
 
 A).- Los asuntos que se tramiten en vía no contenciosa;
 
-B).- Juicios de naturaleza civil o mercantil, con excepción de aquellos a que se refiere el capítulo VII del Libro Quinto del Código Procesal Civil;
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
+B).- Juicios de naturaleza civil, familiar, sobre declaración especial de ausencia o mercantil;
 
 C).- Declaración de validez y ejecución de sentencias extranjeras; y
 
 D).- Cuestiones no patrimoniales.
 
-II.- En general, conocer en primera instancia de todos los asuntos civiles que correspondan a su jurisdicción; son excepción a esta regla, los casos de urgencia, los de excusas, los de recusación y aquellos asuntos civiles en que las partes se sometan expresamente a su jurisdicción;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2022)</small>
+
+II.- En general, conocer en primera instancia de todos los asuntos civiles, familiares y sobre declaración especial de ausencia que correspondan a su jurisdicción; son excepción a esta regla, los casos de urgencia, los de excusas, los de recusación y aquellos asuntos civiles y familiares en que las partes se sometan expresamente a su jurisdicción;
 
 III.- Habilitar al Secretario de acuerdos como Actuario, cuando las necesidades del servicio lo requieran; y
 
@@ -2974,3 +2980,19 @@ TERCERA.- La Junta de Administración, Vigilancia y Disciplina del Poder Judicia
 CUARTA.- Se derogan todas aquellas disposiciones de igual o menor jerarquía jurídica que se oponga al presente decreto.
 
 QUINTA.- El Tribunal Superior de Justicia y la Junta de Administración, Vigilancia y Disciplina del Poder Judicial del Estado de Morelos, a la entrada en vigor del presente decreto, tendrán un plazo de sesenta días naturales para realizar las adecuaciones y armonizaciones a su normatividad interna con relación a este decreto, así como para dar cumplimiento al principio de paridad de género en la integración de la Junta de Administración y Vigilancia.
+
+P.O. 6 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS CINCUENTA Y SIETE.- POR EL QUE SE EXPIDE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL; DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS; DE LA LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS; DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en la presente Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Morelos y este decreto, en especial las contenidas en el Código Procesal Familiar para el Estado Libre y Soberano de Morelos.
+
+CUARTA. En el caso de la existencia previa de una declaratoria por presunción de muerte o de una declaratoria por ausencia conforme al Código Familiar para el Estado Libre y Soberano de Morelos, o bien, de aquellas que se encuentren en proceso, a solicitud de quien tenga interés legítimo, éstas podrán ser tramitadas como Declaración Especial de Ausencia, en los términos de la presente ley. La autoridad jurisdiccional, deberá sustanciar estos procedimientos mediante la aplicación de esta ley, incluida la posibilidad de corregir el estatus legal de la persona desaparecida.
+
+QUINTA. Las personas titulares del Tribunal Superior de Justicia del Estado de Morelos, el Poder Ejecutivo del Estado de Morelos, así como de los organismos autónomos a los que se refiere esta ley, contarán con un plazo de 180 días para adecuar las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente ley.
+
+SEXTA. Todas las autoridades que intervienen en la aplicación de la presente ley deberán capacitarse conforme a este procedimiento de Declaración Especial de Ausencia, para garantizar de manera adecuada una protección eficaz del derecho.
