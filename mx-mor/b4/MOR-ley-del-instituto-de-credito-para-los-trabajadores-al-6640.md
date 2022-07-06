@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-credito-para-los-trabajadores-al-6640"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-04"
-last_updated: "2017-11-29"
+last_updated: "2022-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -859,6 +859,20 @@ III. Cualquier otra que proponga el Director General a la aprobación del Consej
 
 Las prestaciones sociales que brinde el Instituto estarán sujetas a lo dispuesto por la normativa aplicable.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JULIO DE 2022)</small>
+
+### CAPÍTULO VIII. DE LA SUSPENSIÓN DE PAGOS POR DECLARACIÓN ESPECIAL DE AUSENCIA
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2022)</small>
+
+###### Artículo 65.
+
+En caso de que el Trabajador o Pensionista, sea sujeto a una Declaración Especial de Ausencia en términos de la normatividad federal o local en la materia, el instituto congelará los adeudos que tuviera y no podrá ejercer acción de cobro alguno en contra de los bienes o derechos del afiliado o pensionista desaparecido o de quien aparezca o funja como aval en los créditos que hubiese solicitado.
+
+En caso de aparecer con vida los créditos se descongelarán y podrán iniciarse todos los procedimientos para su cobro y recuperación.
+
+En caso de constatar el fallecimiento del afiliado o pensionista con Declaración Especial de Ausencia, se procederá conforme a las disposiciones conducentes y lo pactado dentro de los créditos contratados.
+
 T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO.
@@ -986,3 +1000,19 @@ QUINTA. Los entes obligados deberán presupuestar para los ejercicios fiscales s
 SEXTA. La facultad conferida por virtud del presente Decreto a la Secretaría de Hacienda del Poder Ejecutivo Estatal en el artículo 42 Bis de la Ley del Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos, será aplicable a los casos que se generen a partir de la entrada en vigor del presente instrumento.
 
 SÉPTIMA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo en lo que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRESCIENTOS CINCUENTA Y SIETE POR EL QUE SE EXPIDE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL; DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS; DE LA LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS; DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículo 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en la presente Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Morelos y este decreto, en especial las contenidas en el Código Procesal Familiar para el Estado Libre y Soberano de Morelos.
+
+CUARTA. En el caso de la existencia previa de una declaratoria por presunción de muerte o de una declaratoria por ausencia conforme al Código Familiar para el Estado Libre y Soberano de Morelos, o bien, de aquellas que se encuentren en proceso, a solicitud de quien tenga interés legítimo, éstas podrán ser tramitadas como Declaración Especial de Ausencia, en los términos de la presente ley. La autoridad jurisdiccional, deberá sustanciar estos procedimientos mediante la aplicación de esta ley, incluida la posibilidad de corregir el estatus legal de la persona desaparecida.
+
+QUINTA. Las personas titulares del Tribunal Superior de Justicia del Estado de Morelos, el Poder Ejecutivo del Estado de Morelos, así como de los organismos autónomos a los que se refiere esta ley, contarán con un plazo de 180 días para adecuar las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente ley.
+
+SEXTA. Todas las autoridades que intervienen en la aplicación de la presente ley deberán capacitarse conforme a este procedimiento de Declaración Especial de Ausencia, para garantizar de manera adecuada una protección eficaz del derecho.
