@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2020-11-21"
+last_updated: "2022-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -1121,9 +1121,11 @@ El Gobierno del Estado realizará las acciones que permitan la creación de un b
 
 El Gobierno del Estado impulsará y desarrollará la capacitación y asistencia técnica, atendiendo la demanda de la población rural y de sus organizaciones, a través del Sistema Estatal de Capacitación, Asistencia Técnica y Extensionismo.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### Artículo 82.
 
-Los programas de capacitación, asistencia técnica y transferencia de tecnología, se formularán y ejecutarán bajo criterios de sustentabilidad, integralidad, inclusión y participación. Vinculándose a las fases del proceso de Desarrollo Rural Integral Sustentable, desde el diagnóstico, planeación, producción, organización, transformación, comercialización y desarrollo humano; incorporando, en todos los casos, a los productores y demás agentes del sector rural, atendiendo con prioridad a aquellos que se encuentran en zonas con mayor rezago económico y social.
+Los programas de capacitación, asistencia técnica y transferencia de tecnología, se formularán y ejecutarán bajo criterios de sustentabilidad, integralidad, inclusión y participación. Vinculándose a las fases del proceso de Desarrollo Rural Integral Sustentable, desde el diagnóstico, planeación, producción, organización, transformación, comercialización y desarrollo humano; incorporando, en todos los casos, a los productores y demás agentes del sector rural, atendiendo con prioridad a aquellos que se encuentran en zonas con mayor rezago económico y social, brindando para este efecto la oportunidad a las y los estudiantes de las diversas instituciones educativas especializadas en las áreas de acción, de participar de manera activa a lo largo de estos procesos.
 
 ###### Artículo 83.
 
@@ -1758,6 +1760,14 @@ El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o 
 P.O. 21 DE NOVIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0785/2020 I P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 5, 99 Y 103 DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0266/2022 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 82 DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
