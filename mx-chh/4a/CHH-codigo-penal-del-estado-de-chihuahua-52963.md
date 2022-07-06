@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2022-05-28"
+last_updated: "2022-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2347,11 +2347,11 @@ Las sanciones referidas en los artículos 176 y 176 Bis, se aumentarán en una m
 
 ### CAPÍTULO IV. ESTUPRO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### Artículo 177.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
-
-A quien tenga cópula con persona mayor de catorce y menor de dieciocho años, obteniendo su consentimiento por medio de cualquier tipo de engaño, se le impondrá de uno a cuatro años de prisión y multa de treinta a ochenta veces el valor diario de la Unidad de Medida y Actualización.
+A quien tenga cópula con persona mayor de catorce y menor de dieciocho años, obteniendo su consentimiento por medio de cualquier tipo de engaño, se le impondrá de dos a seis años de prisión y multa de treinta a ochenta veces el valor diario de la Unidad de Medida y Actualización.
 
 Este delito se perseguirá previa querella.
 
@@ -2525,9 +2525,9 @@ La educación o formación del menor no será en ningún caso considerada justif
 
 La pena se incrementará hasta en una mitad, cuando la conducta se ejecute en presencia de alguna niña, niño o adolescente.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
 
-La pena se incrementará en una mitad, cuando a sabiendas de que la mujer se encuentra embarazada, el agente ejecute la conducta descrita en el primer párrafo, o se realice la conducta en contra de una persona menor de 18 años.
+La pena se incrementará en una mitad, cuando a sabiendas de que la mujer se encuentra embarazada, el agente ejecute la conducta descrita en el primer párrafo; se realice la conducta en contra de una persona menor de 18 años; o en contra de una persona mayor en situación de vulnerabilidad.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 23 DE OCTUBRE DE 2021)</small>
 
@@ -5704,6 +5704,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0245/2022 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 238 BIS; Y SE ADICIONA AL ARTÍCULO 212, UN SEGUNDO PÁRRAFO; AMBOS DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFCOD/0263/2022 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 193, PÁRRAFO QUINTO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0264/2022 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 177, PRIMER PÁRRAFO, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
