@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2020-12-23"
+last_updated: "2022-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -315,9 +315,13 @@ V.- El desempeño de un cargo de elección popular y la obligación de realizar 
 
 VI.- La designación del trabajador como representante ante cualquier órgano de Gobierno;
 
-VII.- La falta de documentos que exijan las leyes y reglamentos, necesarios para la prestación de los servicios, cuando sea imputable al trabajador; y
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2022)</small>
 
-VIII.- Las previstas por otros ordenamientos aplicables e impuestas por la autoridad competente.
+VII.- La Declaración Especial de Ausencia del trabajador;
+
+VIII.- La falta de documentos que exijan las leyes y reglamentos, necesarios para la prestación de los servicios, cuando sea imputable al trabajador; y
+
+IX.- Las previstas por otros ordenamientos aplicables e impuestas por la autoridad competente.
 
 Los trabajadores que tengan a su cuidado manejo de fondos, podrán ser suspendidos desde luego, por el titular de la dependencia donde presten sus servicios, cuando apareciere alguna irregularidad en su gestión, hasta en tanto se resuelva definitivamente su situación por la autoridad competente.
 
@@ -1109,9 +1113,13 @@ La cuota mensual de la pensión a los familiares o dependientes económicos del 
 
 a).- Por fallecimiento del servidor público a causa o consecuencia del servicio, se aplicarán los porcentajes a que se refiere la fracción I, del artículo 58 de esta Ley, si así procede según la antigüedad del trabajador, en caso de no encontrarse dentro de las hipótesis referidas se deberá otorgar al 50% respecto del último sueldo, sin que la pensión sea inferior, al equivalente de 40 veces el salario mínimo general vigente en la entidad.
 
-b).- Por fallecimiento del servidor público por causas ajenas al servicio se aplicarán los porcentajes a que se refiere la fracción I del artículo 58 de esta Ley, si así procede, según la antigüedad del trabajador, en caso de no encontrarse dentro de las hipótesis referidas se deberá otorgar, el equivalente a 40 veces el salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
 
-c).- Por fallecimiento del servidor público pensionado, si la pensión se le había concedido por jubilación, cesantía en edad avanzada o invalidez, la última de que hubiere gozado el pensionado.
+b).- Por fallecimiento del servidor público por causas ajenas al servicio o por Declaración Especial de Ausencia se aplicarán los porcentajes a que se refiere la fracción I del artículo 58 de esta ley, si así procede, según la antigüedad del trabajador, en caso de no encontrarse dentro de las hipótesis referidas se deberá otorgar el equivalente a 40 veces el salario mínimo general vigente en la entidad.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
+c).- Por fallecimiento del servidor público pensionado o por Declaración Especial de Ausencia, si la pensión se le había concedido por Jubilación, Cesantía en Edad Avanzada o Invalidez, la última de que hubiere gozado el pensionado.
 
 (ADICIONADO, P.O. 11 DE ENERO DE 2002) (F. DE E., P.O. 11 DE ENERO DE 2002)
 
@@ -1804,3 +1812,19 @@ P.O. 23 DE DICIEMBRE DE 2020.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican los artículos 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 6 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS CINCUENTA Y SIETE POR EL QUE SE EXPIDE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL; DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS; DE LA LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS; DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en la presente Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Morelos y este decreto, en especial las contenidas en el Código Procesal Familiar para el Estado Libre y Soberano de Morelos.
+
+CUARTA. En el caso de la existencia previa de una declaratoria por presunción de muerte o de una declaratoria por ausencia conforme al Código Familiar para el Estado Libre y Soberano de Morelos, o bien, de aquellas que se encuentren en proceso, a solicitud de quien tenga interés legítimo, éstas podrán ser tramitadas como Declaración Especial de Ausencia, en los términos de la presente ley. La autoridad jurisdiccional, deberá sustanciar estos procedimientos mediante la aplicación de esta ley, incluida la posibilidad de corregir el estatus legal de la persona desaparecida.
+
+QUINTA. Las personas titulares del Tribunal Superior de Justicia del Estado de Morelos, el Poder Ejecutivo del Estado de Morelos, así como de los organismos autónomos a los que se refiere esta ley, contarán con un plazo de 180 días para adecuar las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente ley.
+
+SEXTA. Todas las autoridades que intervienen en la aplicación de la presente ley deberán capacitarse conforme a este procedimiento de Declaración Especial de Ausencia, para garantizar de manera adecuada una protección eficaz del derecho.
