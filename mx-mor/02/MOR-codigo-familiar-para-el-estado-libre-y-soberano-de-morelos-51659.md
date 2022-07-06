@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2022-03-09"
+last_updated: "2022-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1143,13 +1143,11 @@ III.- A solicitud de alguno de los cónyuges, cuando el consorte administrador h
 
 IV.- Por la disolución del matrimonio;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2022)</small>
 
-V.- Por la sentencia que declare la ausencia del cónyuge a menos que se haya pactado lo contrario en las capitulaciones matrimoniales o regrese el cónyuge ausente, y
+V.- Por la sentencia de Declaración Especial de Ausencia del cónyuge a menos que se haya pactado lo contrario en las capitulaciones matrimoniales o regrese el cónyuge ausente; y,
 
 VI.- Por muerte de uno de los cónyuges o por sentencia que declare la presunción de muerte.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 105.
 
@@ -1189,9 +1187,11 @@ CESIÓN PARCIAL DE BIENES ENTRE CÓNYUGES. Todo pacto que importe cesión de una
 
 PROHIBICIÓN A LA RENUNCIA ANTICIPADA DE GANANCIAS. No puede renunciarse anticipadamente a las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 110.
 
-EFECTOS DE LA AUSENCIA EN LA SOCIEDAD CONYUGAL. La sentencia que declare la ausencia de alguno de los cónyuges, modifica o termina la sociedad conyugal en los casos señalados por este Código.
+EFECTOS DE LA DECLARACIÓN ESPECIAL DE AUSENCIA EN LA SOCIEDAD CONYUGAL. La sentencia de Declaración Especial de Ausencia de alguno de los cónyuges, modifica o termina la sociedad conyugal en los casos señalados por este código.
 
 ###### ARTÍCULO 111.
 
@@ -1385,9 +1385,11 @@ UNICIDAD DEL PATRIMONIO FAMILIAR. Cada familia sólo puede constituir un patrimo
 
 UBICACIÓN DEL PATRIMONIO DE LA FAMILIA. Sólo puede constituirse el patrimonio de la familia con bienes sitos en el municipio en que esté domiciliado el que lo constituya.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 141.
 
-REPRESENTACIÓN DEL PATRIMONIO FAMILIAR. Los beneficiarios de los bienes afectos al patrimonio de la familia serán representados en sus relaciones con terceros, en todo lo que al patrimonio se refiere, por el que lo constituyó, o por el que nombre la mayoría en caso de incapacidad o ausencia de aquél declarados judicialmente.
+REPRESENTACIÓN DEL PATRIMONIO FAMILIAR. Los beneficiarios de los bienes afectos al patrimonio de la familia serán representados en sus relaciones con terceros, en todo lo que al patrimonio se refiere, por el que lo constituyó, o por el que nombre la mayoría en caso de incapacidad o de Declaración Especial de Ausencia de aquél declarados judicialmente.
 
 El representante tendrá también la administración de dichos bienes.
 
@@ -1777,9 +1779,11 @@ MEDIOS DE PRUEBA A FALTA O POR IRREGULARIDADES EN LAS ACTAS. A falta de actas o 
 
 Si uno solo de los registros faltare o estuviera inutilizado y existe el duplicado, de éste deberá tomarse la prueba, sin admitir la de otra clase.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 190.
 
-PRUEBA DE LA FILIACIÓN POR FALTA DE ACTA DE MATRIMONIO DE LOS PADRES. Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y mujer, y ambos hubieren fallecido, o por ausencia o por enfermedad les fuere imposible manifestar el lugar en que se casaron, no podrá disputarse a esos hijos haber nacido de matrimonio por sólo la falta de presentación del acta del enlace de sus padres, siempre que se pruebe que tiene la posesión de estado de hijos de ellos o que, por los medios de prueba que autoriza el artículo anterior, se demuestre la filiación y no esté contradicha por el acta de nacimiento.
+PRUEBA DE LA FILIACIÓN POR FALTA DE ACTA DE MATRIMONIO DE LOS PADRES. Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y mujer, y ambos hubieren fallecido, por Declaración Especial de Ausencia o por enfermedad les fuere imposible manifestar el lugar en que se casaron, no podrá disputarse a esos hijos haber nacido de matrimonio por sólo la falta de presentación del acta del enlace de sus padres, siempre que se pruebe que tiene la posesión de estado de hijos de ellos o que, por los medios de prueba que autoriza el artículo anterior, se demuestre la filiación y no esté contradicha por el acta de nacimiento.
 
 ###### ARTÍCULO 191.
 
@@ -2197,7 +2201,9 @@ SUSPENSIÓN DEL EJERCICIO DE LA PATRIA POTESTAD. El ejercicio de la patria potes
 
 I.- Por incapacidad declarada judicialmente;
 
-II.- Por la ausencia declarada en forma;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2022)</small>
+
+II.- Por la Declaración Especial de Ausencia declarada en forma;
 
 III.- Por la sentencia condenatoria que imponga como pena esta suspensión;
 
@@ -3143,7 +3149,9 @@ La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, re
 
 Si derivado de las visitas domiciliarias la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, advierte que la información rendida por la Familia de Acogida en cualquiera de los informes es falsa o viola los derechos de niñas, niños y adolescentes, revocará la certificación y determinará la medida de protección pertinente para salvaguardar la integridad física o psicológica de niñas, niños o adolescentes, previo derecho de audiencia, conforme en los dispuesto en los Manuales de Organización, y de Políticas y Procedimientos y demás lineamientos que se emitan para tal efecto. Sin perjuicio de otras sanciones en que pueda incurrir.
 
-# LIBRO QUINTO. DE LAS DECLARACIONES Y EFECTOS DE INTERDICCIÓN, AUSENCIA Y PRESUNCIÓN DE MUERTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2022)</small>
+
+# LIBRO QUINTO. DE LAS DECLARACIONES Y EFECTOS DE INTERDICCIÓN, DECLARACIÓN ESPECIAL DE AUSENCIA Y PRESUNCIÓN DE MUERTE
 
 ## TÍTULO PRIMERO. DE LA INTERDICCIÓN
 
@@ -3157,9 +3165,13 @@ NULIDAD DE LOS ACTOS ADMINISTRATIVOS EJECUTADOS Y LOS CONTRATOS CELEBRADOS POR I
 
 PERSONAS QUE PUEDEN ALEGAR LA NULIDAD POR ACTOS DEL INCAPAZ O DEL MENOR EMANCIPADO. La nulidad a que se refiere el artículo anterior sólo podrá ser alegada, sea como pretensión, sea como defensa, por el incapacitado a través de sus legítimos representantes, pero no por las personas con quienes contrató, ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ellas.
 
-## TÍTULO SEGUNDO. DE LA AUSENCIA Y DE LA PRESUNCIÓN DE MUERTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2022)</small>
 
-### CAPÍTULO I. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
+## TÍTULO SEGUNDO. DE LA DECLARACIÓN ESPECIAL DE AUSENCIA Y DE LA PRESUNCIÓN DE MUERTE
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2022)</small>
+
+### CAPÍTULO I. DE LAS MEDIDAS PROVISIONALES EN CASO DE DECLARACIÓN ESPECIAL DE AUSENCIA
 
 ###### ARTÍCULO 377.
 
@@ -3223,17 +3235,21 @@ OBLIGACIÓN DEL REPRESENTANTE DE PROMOVER LA PUBLICACIÓN DE EDICTOS. El represe
 
 ### CAPÍTULO II. DE LA DECLARACIÓN DE AUSENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 387.
 
-PLAZO PARA PEDIR LA DECLARACIÓN DE AUSENCIA. En caso de que el desaparecido haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia regulada por el artículo 543 del Código Procesal Familiar sino pasados tres años, que se contarán desde la desaparición del ignorado, si en este periodo no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+PLAZO PARA PEDIR LA DECLARACIÓN ESPECIAL DE AUSENCIA. En caso de que el desaparecido haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la Declaración Especial de Ausencia regulada por el artículo 543 del Código Procesal Familiar sino pasados tres meses, que se contarán desde la desaparición del ignorado, si en este periodo no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
 
 Lo dispuesto en el párrafo anterior se observará aun cuando el poder se haya conferido por más de tres años.
 
 Por causa de ausencia no se suspenden los términos que fija la Ley para la prescripción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 388.
 
-PERSONAS QUE PUEDEN SOLICITAR LA DECLARACIÓN DE AUSENCIA. Pueden pedir la declaración de ausencia:
+PERSONAS QUE PUEDEN SOLICITAR LA DECLARACIÓN ESPECIAL DE AUSENCIA. Pueden pedir la declaración de ausencia:
 
 I.- Los presuntos herederos del desaparecido;
 
@@ -3241,23 +3257,35 @@ II.- Los que tengan algún derecho u obligación que dependa de la vida, muerte 
 
 III.- El Ministerio Público.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 389.
 
-PETICIÓN DE GARANTÍA DEL REPRESENTANTE. Pasados dos años, que se contarán del modo establecido en el artículo 391 de este Código, el Ministerio Público y las personas que designa el artículo anterior pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere, se nombrará representante de acuerdo con lo dispuesto en los artículos 381 y 382 de este Código.
+PETICIÓN DE GARANTÍA DEL REPRESENTANTE. Pasados seis meses, que se contarán del modo establecido en el artículo 391 de este código, el ministerio público y las personas que designa el artículo anterior pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere, se nombrará representante de acuerdo con lo dispuesto en los artículos 381 y 382 de este código.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 390.
 
-SUPUESTO DE LA NO DECLARACIÓN DE AUSENCIA. Concluidos los términos a que se refiere el numeral 544 del Código Procesal Familiar. Si hubiere algunas noticias y oposición, el Juez no declarará la ausencia sin repetir las publicaciones legales, y hacer la averiguación por los medios que el oponente proponga y por los que el mismo Juez crea oportunos.
+SUPUESTO DE LA NO DECLARACIÓN ESPECIAL DE AUSENCIA. Concluidos los términos a que se refiere el numeral 544 del Código Procesal Familiar. Si hubiere algunas noticias y oposición, el Juez no declarará la ausencia sin repetir las publicaciones legales, y hacer la averiguación por los medios que el oponente proponga y por los que el mismo juez crea oportunos.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 391.
 
-PUBLICIDAD DE LA DECLARACIÓN DE AUSENCIA. La declaración de ausencia se publicará como lo ordena el artículo 544 del Código Procesal Familiar, remitiéndose a los Cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+PUBLICIDAD DE LA DECLARACIÓN ESPECIAL DE AUSENCIA. La declaración de ausencia se publicará como lo ordena el artículo 544 del Código Procesal Familiar, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
 
-### CAPÍTULO III. DE LOS EFECTOS DE LA DECLARACIÓN DE AUSENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2022)</small>
+
+### CAPÍTULO III. DE LOS EFECTOS DE LA DECLARACIÓN ESPECIAL DE AUSENCIA
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 392.
 
-DECLARACIÓN DE AUSENCIA Y EFECTOS SEGÚN HAYA O NO TESTAMENTO. Declarada la ausencia si hubiere testamento se procederá en acatamiento de los artículos 545, 546 y 547 del Código Procesal Familiar. Si no hubiere testamento, la declaración de ausencia dará derecho a los herederos legítimos para proceder en los términos de esos artículos procesales.
+DECLARACIÓN ESPECIAL DE AUSENCIA Y EFECTOS SEGÚN HAYA O NO TESTAMENTO. En caso de Declaración Especial de Ausencia si hubiere testamento se procederá en acatamiento de los artículos 545, 546 y 547 del Código Procesal Familiar.
+
+Si no hubiere testamento, la Declaración Especial de Ausencia dará derecho a los herederos legítimos para proceder en los términos de esos artículos procesales.
 
 ###### ARTÍCULO 393.
 
@@ -3303,9 +3331,11 @@ II.- El ascendiente que en ejercicio de la patria potestad administre bienes que
 
 PETICIÓN DE CUENTAS AL REPRESENTANTE DEL AUSENTE POR LOS QUE SE ENCUENTREN EN POSESIÓN PROVISIONAL. Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y dará las cuentas en los términos prevenidos en los Capítulos XI y XII del Título Tercero del Libro Cuarto de este Código. El plazo señalado en el artículo 341 se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 401.
 
-CONTINUACIÓN O NOMBRAMIENTO DE NUEVO REPRESENTANTE POR FALTA DE COMPARECENCIA DE HEREDEROS. Si hecha la declaración de ausencia no se presentaren herederos del ausente, el Ministerio Público pedirá la continuación del representante, o la elección de otro que en nombre de la Hacienda Pública entre en la posesión provisional, conforme a los artículos que anteceden.
+CONTINUACIÓN O NOMBRAMIENTO DE NUEVO REPRESENTANTE POR FALTA DE COMPARECENCIA DE HEREDEROS. Si hecha la Declaración Especial de Ausencia no se presentaren herederos del ausente, el ministerio público pedirá la continuación del representante, o la elección de otro que en nombre de la Hacienda Pública entre en la posesión provisional, conforme a los artículos que anteceden.
 
 ###### ARTÍCULO 402.
 
@@ -3317,17 +3347,23 @@ RECUPERACIÓN DE LA CONDICIÓN CIVIL DEL AUSENTE QUE REGRESA. Si el ausente se p
 
 ### CAPÍTULO IV. DE LA ADMINISTRACIÓN DE LOS BIENES DEL AUSENTE CASADO
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 404.
 
-INTERRUPCIÓN DE LA SOCIEDAD CONYUGAL CON LA DECLARACIÓN DE AUSENCIA. La declaración de ausencia no disuelve el matrimonio, pero sí interrumpe la sociedad conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
+INTERRUPCIÓN DE LA SOCIEDAD CONYUGAL CON LA DECLARACIÓN ESPECIAL DE AUSENCIA. La declaración de ausencia no disuelve el matrimonio, pero sí interrumpe la sociedad conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 405.
 
-INVENTARIO Y SEPARACIÓN DE BIENES DEL CONSORTE AUSENTE. Declarada la ausencia, se procederá con citación de los herederos presuntivos, al inventario de los bienes y a la separación de los que deban corresponder al cónyuge ausente.
+INVENTARIO Y SEPARACIÓN DE BIENES DEL CONSORTE AUSENTE. En caso de Declaración Especial de Ausencia, se procederá con citación de los herederos presuntivos, al inventario de los bienes y a la separación de los que deban corresponder al cónyuge ausente.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 406.
 
-LIBRE DISPOSICIÓN DE BIENES POR EL CONSORTE PRESENTE. El cónyuge presente recibirá desde luego los bienes que le correspondan, hecha la separación respecto de los bienes del ausente, hasta el día en que la declaración de ausencia haya causado ejecutoria de los cuales podrá disponer libremente.
+LIBRE DISPOSICIÓN DE BIENES POR EL CONSORTE PRESENTE. El cónyuge presente recibirá desde luego los bienes que le correspondan, hecha la separación respecto de los bienes del ausente, hasta el día en que la Declaración Especial de Ausencia haya causado ejecutoria de los cuales podrá disponer libremente.
 
 ###### ARTÍCULO 407.
 
@@ -3343,13 +3379,13 @@ RESTAURACIÓN DE LA SOCIEDAD CONYUGAL. Cuando el cónyuge ausente regrese o se p
 
 ### CAPÍTULO V. DE LA PRESUNCIÓN DE MUERTE DEL AUSENTE
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 410.
 
-DECLARACIÓN DE LA PRESUNCIÓN DE MUERTE. Cuando hayan transcurrido tres años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
+DECLARACIÓN DE LA PRESUNCIÓN DE MUERTE. Cuando hayan transcurrido tres años desde la Declaración Especial de Ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
-
-Respecto de las víctimas de desaparición forzada de personas, desaparecidos por secuestro, o por tomar parte en una guerra, o movimiento armado, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante; o por un accidente encontrándose a bordo de un vehículo terrestre, aéreo o acuático bastara que haya transcurrido un año contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero si se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título, la sentencia que declare la presunción de muerte disuelve el vínculo matrimonial.
+Respecto de las víctimas de desaparición forzada de personas, desaparecidos por secuestro, o por tomar parte en una guerra, o movimiento armado, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante; o por un accidente encontrándose a bordo de un vehículo terrestre, aéreo o acuático bastara que hayan (sic) transcurrido un año contado desde la Declaración Especial de Ausencia, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero si se tomarán las medidas provisionales autorizadas por el capítulo I de este título, la sentencia que declare la presunción de muerte disuelve el vínculo matrimonial.
 
 ###### ARTÍCULO 411.
 
@@ -3365,9 +3401,11 @@ RECUPERACIÓN DE BIENES POR REGRESO DEL AUSENTE DESPUÉS DE DECLARADA LA POSESI�
 
 Los poseedores definitivos darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, desde aquél en que por sentencia que cause ejecutoria se haya deferido la herencia.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 414.
 
-PRESENTACIÓN DE PRETENDIENTES A HEREDEROS QUE DEBAN SER PREFERIDOS. Cuando hecha la declaración de ausencia o la presunción de muerte de una persona, se hubieren aplicado sus bienes a los que por testamento o sin él se tuvieren por herederos, y después se presentaren otros pretendientes que deban ser preferidos en la herencia, y así se declare por sentencia que cause ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos en que, según los artículos 403 y 413 de este Código debiera hacerse al ausente si se presentara.
+PRESENTACIÓN DE PRETENDIENTES A HEREDEROS QUE DEBAN SER PREFERIDOS. Cuando hecha la Declaración Especial de Ausencia o la presunción de muerte de una persona, se hubieren aplicado sus bienes a los que por testamento o sin él se tuvieren por herederos, y después se presentaren otros pretendientes que deban ser preferidos en la herencia, y así se declare por sentencia que cause ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos en que, según los artículos 403 y 413 de este código debiera hacerse al ausente si se presentara.
 
 ###### ARTÍCULO 415.
 
@@ -3439,9 +3477,9 @@ Las actas del Registro Civil sólo pueden asentarse en los formatos a que se ref
 
 El Registro Civil además resguardará las inscripciones, por medios informativos o aquellos que el avance tecnológico ofrezca en una base de datos en la que se produzcan los datos contenidos en las actas asentadas en las formas del Registro Civil que permitan la conservación de los mismos y la certeza sobre su autenticidad.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
 
-Estará a cargo de los oficiales del Registro Civil autorizar los actos del estado civil y llevar por duplicado siete libros que contendrán: actas de nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio y defunción de los mexicanos y extranjeros residentes en el territorio del mismo; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte, el divorcio, la tutela, o que se ha perdido o limitado la capacidad legal para administrar bienes y las resoluciones que ordenen el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
+Estará a cargo de los oficiales del Registro Civil autorizar los actos del estado civil y llevar por duplicado siete libros que contendrán: actas de nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio y defunción de los mexicanos y extranjeros residentes en el territorio del mismo; así como inscribir las ejecutorias que contengan la Declaración Especial de Ausencia, la presunción de muerte, el divorcio, la tutela, o que se ha perdido o limitado la capacidad legal para administrar bienes siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables.
 
 El Estado Civil solo se comprueba con las constancias relativas del Registro Civil; ningún otro documento ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente aceptados por la ley.
 
@@ -3901,15 +3939,23 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado obser
 
 NOTIFICACIÓN DE LA RECUPERACIÓN DE LA CAPACIDAD LEGAL DEL PUPILO AL OFICIAL DEL REGISTRO CIVIL. Cuando se recobre la capacidad legal, se dará aviso al Oficial del Registro Civil que corresponda por conducto del interesado, mediante la copia certificada de resolución judicial que así lo determine, para efectos de cancelar la inscripción o inscripciones a que se refieren los artículos 481 y 482 de este Código.
 
-### CAPÍTULO III. DE LA INSCRIPCIÓN EN ACTAS DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD PARA ADMINISTRAR BIENES, DE LA DECLARACIÓN DE AUSENCIA Y DE LA PRESUNCIÓN DE MUERTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2022)</small>
+
+### CAPÍTULO III
+
+DE LA INSCRIPCIÓN EN ACTAS DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD PARA ADMINISTRAR BIENES, DE LA DECLARACIÓN ESPECIAL DE AUSENCIA Y DE LA PRESUNCIÓN DE MUERTE
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 484.
 
-PLAZO COMUN PARA REMITIR AL OFICIAL DEL REGISTRO CIVIL COPIA CERTIFICADA DE LA SENTENCIA EJECUTORIADA. Las autoridades judiciales que declaren la incapacidad legal de alguna persona para administrar bienes o su persona, la ausencia o la presunción de muerte, dentro del plazo de quince días remitirán al Oficial del Registro Civil que corresponda, copia certificada de la resolución ejecutoriada respectiva.
+PLAZO COMUN PARA REMITIR AL OFICIAL DEL REGISTRO CIVIL COPIA CERTIFICADA DE LA SENTENCIA EJECUTORIADA. Las autoridades judiciales que declaren la incapacidad legal de alguna persona para administrar bienes o su persona, la Declaración Especial de Ausencia o la presunción de muerte, dentro del plazo de quince días remitirán al oficial del Registro Civil que corresponda, copia certificada de la resolución ejecutoriada respectiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 485.
 
-CONTENIDO DEL ACTA QUE SE LEVANTE CON MOTIVO DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD PARA ADMINISTRAR BIENES O SU PERSONA; LA AUSENCIA; O LA PRESUNCIÓN DE MUERTE. El acta en que se asiente la ejecutoria que declare la incapacidad para administrar bienes o su persona, contendrá el nombre, apellidos, edad, estado civil y nacionalidad de la persona de que se trate, los puntos resolutivos de la sentencia, fecha de ésta y tribunal que la dictó.
+CONTENIDO DEL ACTA QUE SE LEVANTE CON MOTIVO DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD PARA ADMINISTRAR BIENES O SU PERSONA; LA DECLARACIÓN ESPECIAL DE AUSENCIA; O LA PRESUNCIÓN DE MUERTE. El acta en que se asiente la ejecutoria que declare la incapacidad para administrar bienes o su persona, contendrá el nombre, apellidos, edad, estado civil y nacionalidad de la persona de que se trate, los puntos resolutivos de la sentencia, fecha de ésta y tribunal que la dictó.
 
 El acta en donde se asiente la ejecutoria en que se declare la ausencia o la presunción de muerte contendrá los mismos requisitos exigidos en el párrafo anterior.
 
@@ -5517,9 +5563,11 @@ SUSPENSIÓN DE LA DIVISION DE LA HERENCIA. La división de la herencia se suspen
 
 ### CAPÍTULO II. DE LA APERTURA DE LA HERENCIA
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 750.
 
-APERTURA DE LA HERENCIA. La sucesión se abre en el día y hora de la muerte del autor de la herencia. En los casos de ausencia y presunción de muerte se estará a lo dispuesto por los artículos 542 a 547 del Código Procesal Familiar. Si apareciere el ausente, quedará sin efecto la apertura de la herencia que se hubiere hecho y, si se comprobare plenamente el día y hora de su muerte, los efectos consiguientes a la apertura de la herencia que se hubiere hecho en tiempo anterior, quedarán referidos a partir del momento de la muerte.
+APERTURA DE LA HERENCIA. La sucesión se abre en el día y hora de la muerte del autor de la herencia. En los casos de Declaración Especial de Ausencia y presunción de muerte se estará a lo dispuesto por los artículos 542 a 547 del Código Procesal Familiar. Si apareciere el ausente, quedará sin efecto la apertura de la herencia que se hubiere hecho y, si se comprobare plenamente el día y hora de su muerte, los efectos consiguientes a la apertura de la herencia que se hubiere hecho en tiempo anterior, quedarán referidos a partir del momento de la muerte.
 
 ###### ARTÍCULO 751.
 
@@ -5969,7 +6017,9 @@ III.- Por incapacidad legal declarada en forma, comprendiéndose en la misma los
 
 IV.- Por enfermedad o imposibilidad física que el Juez califique como impedimento bastante, tomando en cuenta el perjuicio que pudieren sufrir los herederos o legatarios;
 
-V.- Por ausencia declarada en forma, o cuando se ignore el paradero del albacea o interventor, o se ausenten de la República por más de seis meses;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2022)</small>
+
+V.- Por Declaración Especial de Ausencia declarada en forma, o cuando se ignore el paradero del albacea o interventor, o se ausenten de la República por más de seis meses;
 
 VI.- Por excusa que el Juez califique de legítima, con audiencia de los interesados;
 
@@ -6954,3 +7004,19 @@ PRIMERA.- Remítase al titular del Poder Ejecutivo del Estado, para su publicaci
 SEGUNDA.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente decreto.
+
+P.O. 6 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRESCIENTOS CINCUENTA Y SIETE POR EL QUE SE EXPIDE LA LEY PARA LA DECLARACIÓN ESPECIAL DE AUSENCIA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL; DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS; DE LA LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS; DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en la presente Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Morelos y este decreto, en especial las contenidas en el Código Procesal Familiar para el Estado Libre y Soberano de Morelos.
+
+CUARTA. En el caso de la existencia previa de una declaratoria por presunción de muerte o de una declaratoria por ausencia conforme al Código Familiar para el Estado Libre y Soberano de Morelos, o bien, de aquellas que se encuentren en proceso, a solicitud de quien tenga interés legítimo, éstas podrán ser tramitadas como Declaración Especial de Ausencia, en los términos de la presente ley. La autoridad jurisdiccional, deberá sustanciar estos procedimientos mediante la aplicación de esta ley, incluida la posibilidad de corregir el estatus legal de la persona desaparecida.
+
+QUINTA. Las personas titulares del Tribunal Superior de Justicia del Estado de Morelos, el Poder Ejecutivo del Estado de Morelos, así como de los organismos autónomos a los que se refiere esta ley, contarán con un plazo de 180 días para adecuar las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente ley.
+
+SEXTA. Todas las autoridades que intervienen en la aplicación de la presente ley deberán capacitarse conforme a este procedimiento de Declaración Especial de Ausencia, para garantizar de manera adecuada una protección eficaz del derecho.
