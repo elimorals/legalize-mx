@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "2020-11-30"
+last_updated: "2022-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2022.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -1511,13 +1511,31 @@ II.- El Director General.
 
 III.- La Comisión Ejecutiva del Fondo de la Vivienda.
 
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2022)</small>
+
 ###### Artículo 98.
 
-La Junta Directiva se compondrá de siete miembros: El primero designado directamente por el Gobernador del Estado con el cargo expreso de Director General del Instituto; tres nombrados por los poderes Ejecutivo, Legislativo y Judicial, uno por cada poder; y, los otros tres designados por la Federación de Sindicatos de Trabajadores al Servicio del Estado y Municipios de Sonora, en la inteligencia de que dos de ellos como máximo pertenecerán al Magisterio. El Director General fungirá como presidente de la Junta.
+La Junta Directiva a que se refiere el artículo anterior, será el órgano máximo y de mayor jerarquía donde se determinará (sic) las acciones y programas que se (sic) sujetará el Instituto, al cual se integrará por 8 miembros, siendo estos los siguientes:
+
+I.- El Titular del Poder Ejecutivo, quien fungirá como Presidente de la junta;
+
+II.- El Oficial Mayor del Gobierno del Estado;
+
+III.- El Secretario de Hacienda del Gobierno del Estado;
+
+IV.- Un representante del Poder Legislativo;
+
+V.- Un representante del Poder Judicial; y
+
+VI.- Tres designados por los Sindicatos de Trabajadores al Servicio del Estado y Municipios de Sonora, en la inteligencia de que dos de ellos como máximo pertenecerán al magisterio.
+
+El Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora será nombrado y removido libremente por el Titular del Poder Ejecutivo y fungirá como Secretario Técnico de la junta Directiva, con las atribuciones que establece la presente Ley y su reglamento.
+
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2022)</small>
 
 ###### Artículo 99.
 
-Por cada miembro propietario de la Junta Directiva, excepción hecha del Director General, se nombrará un suplente, el cual lo sustituirá en sus faltas temporales, en los términos del Reglamento.
+Por cada miembro propietario de la Junta Directiva, se nombrará un suplente, el cual lo sustituirá en sus faltas temporales, en los términos del reglamento. Para el caso del presidente de la Junta Directiva será su suplente, el Secretario de Gobierno del estado o quien éste último designe.
 
 ###### Artículo 100.
 
@@ -1533,7 +1551,9 @@ Para ser miembro de la Junta Directiva se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos;
 
-II.- No estar desempeñando cargo alguno de elección popular o sindical;
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2022)</small>
+
+II.- No estar desempeñando un cargo sindical; y
 
 III.- Ser de reconocida competencia y honorabilidad.
 
@@ -1567,11 +1587,13 @@ VII.- Conferir poderes generales o especiales de acuerdo con el Director, sin pe
 
 VIII.- Examinar para su aprobación o modificación los balances anuales, los presupuestos de ingresos y egresos y el plan de labores del Instituto;
 
-IX.- Otorgar gratificaciones y recompensas a los funcionarios y empleados del Instituto, de acuerdo con el Director;
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2022)</small>
+
+IX. Otorgar gratificaciones y recompensas a los funcionarios y empleados del Instituto;
 
 X.- Conceder licencias a los Consejeros;
 
-XI.- Proponer al Ejecutivo del Estado los proyectos de reforma a esta ley;
+XI. (DEROGADA, B.O. 7 DE JULIO DE 2022);
 
 > <small>(REFORMADA, B.O. 11 DE ENERO DE 1982)</small>
 
@@ -1623,7 +1645,9 @@ Las demás resoluciones de la Junta Directiva que afecten intereses particulares
 
 El Director del Instituto tendrá las obligaciones y facultades siguientes:
 
-I.- Representar al Instituto y a la Junta Directiva y ejecutar los acuerdos de la Junta;
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2022)</small>
+
+I. Representar al Instituto, y fungir como Secretario Técnico de la Junta Directiva, con todas las facultades y atribuciones que establece la presente Ley y su Reglamento, y ejecutar los acuerdos de la Junta;
 
 > <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2020)</small>
 
@@ -1639,9 +1663,7 @@ IV.- Firmar las escrituras y títulos de crédito en que el Instituto intervenga
 
 V.- Representar al Instituto en toda gestión judicial, extrajudicial y administrativa, sin perjuicio de los poderes otorgados al efecto.
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
-
-VI.- Conferir poderes generales y especiales, y resolver bajo su inmediata y directa responsabilidad los asuntos urgentes de la competencia de la Junta, a reserva de dar cuenta a la misma en la sesión inmediata siguiente.
+VI. (DEROGADA, B.O. 7 DE JULIO DE 2022);
 
 VII.- Formular y presentar para discusión y aprobación de la Junta, el balance, el presupuesto de ingresos y egresos y el plan de labores del Instituto, correspondientes a cada ejercicio anual;
 
@@ -1655,7 +1677,9 @@ XI.- Vigilar las labores del personal, exigiendo su debido cumplimiento, e impon
 
 XII.- Someter a la consideración de la Junta las reformas o adiciones que considere pertinentes a los reglamentos interiores, económicos y de servicios médicos del Instituto;
 
-XIII.- Convocar a sesiones ordinarias y extraordinarias a los miembros de la Junta Directiva cuando proceda o a su juicio existan razones suficientes;
+> <small>(REFORMADA, B.O. 7 DE JULIO DE 2022)</small>
+
+XIII. Convocar a sesiones ordinarias y extraordinarias a los miembros de la Junta Directiva cuando proceda o previa petición del Presidente de la Junta; y
 
 XIV.- Todas las demás que le fijen los reglamentos o le otorgue la Junta Directiva.
 
@@ -1663,9 +1687,11 @@ XIV.- Todas las demás que le fijen los reglamentos o le otorgue la Junta Direct
 
 Cuando el Director falte temporalmente al desempeño de sus funciones, el Gobernador del Estado determinará la persona que lo sustituya cuando el caso lo amerite.
 
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2022)</small>
+
 ###### Artículo 111.
 
-El Director General será auxiliado en sus funciones por los Sub-Directores que nombre la Junta Directiva del Instituto a propuesta del Director y quienes deberán reunir los requisitos exigidos por el artículo 102 de esta Ley.
+El Director será auxiliado en sus funciones por los subdirectores que nombre la Junta Directiva del Instituto, quienes deberán reunir los requisitos exigidos por el artículo 102 de esta Ley.
 
 > <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
 
@@ -1701,21 +1727,21 @@ V.- Proponer a la Junta Directiva las reglas para el otorgamiento de créditos, 
 
 VI.- Las demás que señale la Junta Directiva.
 
-> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE JULIO DE 2022)</small>
 
 ###### Artículo 111-D.
 
-La Comisión Ejecutiva del Fondo, estará integrada por siete miembros, uno de los cuales será el Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, que tendrá el carácter de Presidente, por el Secretario de Programación y Presupuesto, por el Tesorero General del Estado, por el Secretario de Desarrollo Urbano y Rural, por dos representantes designados por la Sección 54 del Sindicato Nacional de Trabajadores de la Educación y por un representante designado por el Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado de Sonora. Por cada miembro propietario se designará un suplente.
+La Comisión Ejecutiva del Fondo, estará integrada por siete miembros, uno de los cuales será el Presidente de la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, que tendrá el carácter de Presidente, por el Secretario de Hacienda, por el Oficial Mayor del Poder Ejecutivo, por el Secretario de Infraestructura y Desarrollo Urbano, por dos representantes designados por la Sección 54 del Sindicato Nacional de Trabajadores de la Educación y por un representante designado por el Sindicato Único de los Trabajadores de la Educación y por un representante designado por el Sindicato Único de los Trabajadores al Servicio de los Poderes del Estado de Sonora, por cada miembro propietario se designará un suplente.
 
 Los integrantes de la Comisión Ejecutiva excepto por lo que hace su Presidente, no podrán ser miembros de la Junta Directiva ni tener otro cargo dentro del Instituto.
 
 Los integrantes de la Comisión Ejecutiva deberán ser mexicanos por nacimiento, de reconocida honorabilidad y experiencia técnica y administrativa.
 
-> <small>(ADICIONADO, B.O. 11 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2022)</small>
 
-###### Artículo 111-E.
+###### ARTÍCULO 111-E.
 
-Para la atención de las labores Administrativas propias del funcionamiento del Fondo, el Presidente de la Comisión Ejecutiva designará un auxiliar que se denominará Vocal Ejecutivo de la Comisión.
+Para la atención de las labores administrativas propias del funcionamiento del Fondo, el Director General del Instituto será el Vocal Ejecutivo de la Comisión.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
 
@@ -2310,3 +2336,11 @@ B.O. 30 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 7 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 55, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
