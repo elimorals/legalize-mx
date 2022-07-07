@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2022-06-06"
+last_updated: "2022-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2022.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -2551,69 +2551,221 @@ La titular de la Unidad Técnica para la Igualdad de Género durará en su encar
 
 La titular de la Unidad estará obligada a rendir un informe anual de labores ante la Comisión para la Igualdad de Género del Congreso del Estado, en la fecha en que se lleve a cabo el parlamento de mujeres de mujeres (sic) que apruebe este Congreso o cada año lectivo de acuerdo a su respectivo nombramiento.
 
-## TÍTULO DÉCIMO PRIMERO. FALSEDAD
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2022)</small>
 
-### CAPÍTULO IV. SANCIONES EN LOS CASOS DE CONCURSOS
+## TÍTULO DÉCIMO SÉPTIMO. DE LA DIPUTADA Y DIPUTADO INFANTIL
 
-###### Artículo 215.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2022)</small>
 
-El Consejo Estatal para el Desarrollo Sustentable se integrará por:
+### CAPÍTULO ÚNICO. DE LA DIPUTADA Y DIPUTADO INFANTIL
 
-I. Las instituciones y organizaciones no gubernamentales, legalmente constituidas y registradas en el estado y que tengan relación con los asuntos ambientales, podrán nombrar un representante titular y un suplente ante el Consejo;
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2022)</small>
 
-II. Representantes de las dependencias y organismos federales y estatales cuyas actividades tengan implicaciones en la protección ambiental y en el aprovechamiento de recursos naturales, nombrando a un titular y a un suplente; en el caso de los municipios podrán participar los regidores que manejen las cuestiones ambientales;
+###### ARTÍCULO 215.
 
-III. El Congreso del Estado participará a través de un representante de la Comisión de Ecología;
+El evento de DIPUTADA Y DIPUTADO INFANTIL deberá realizarse anualmente, iniciando con la emisión de la Convocatoria en el mes de noviembre del año previo, para culminar con la sesión solemne de las y los diputados infantiles electos en el Salón de Plenos del Congreso del Estado, la cual se denominara "Diputada y Diputado Infantil" seguido del año en que se celebre la sesión, la cual deberá realizarse, preferentemente, en la penúltima sesión ordinaria del mes de abril de cada año, en la que deberán participar treinta y tres estudiantes del género masculino y femenino, menores de quince años de edad, que cursen el sexto grado de primaria en escuelas públicas o particulares en el Estado de Sonora.
 
-IV. El Presidente del Consejo Consultivo Estatal será electo por voto directo de los miembros del Consejo debidamente registrados y de la misma forma se hará para la elección del Secretario Técnico, y;
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2022)</small>
 
-V. El Consejo Consultivo Estatal regirá su funcionamiento de acuerdo a un reglamento interior que él mismo apruebe en un plazo no mayor a noventa días después de su formación. Asimismo, el Presidente podrá invitar a participar en las reuniones del Consejo a representantes de las dependencias y entidades de la administración pública federal en el Estado, así como de los ayuntamientos, cuando se traten asuntos que incidan en sus ámbitos de competencias o territorial.
+###### ARTÍCULO 216.
 
-Los integrantes del Consejo no tendrán relación laboral alguna con el Gobierno del Estado o con los Municipios, en virtud de que su encargo será de carácter honorífico, pudiendo designar a sus respectivos suplentes.
+Los actos previos a la sesión del Diputada y Diputado Infantil, se realizará (sic) con la participación de las siguientes instituciones:
 
-El funcionamiento del Consejo se especificará en el reglamento respectivo.
+I.- El Congreso del Estado, por conducto de la Comisión de Educación y Cultura;
 
-###### Artículo 216.
+II.- La Secretaría de Educación y Cultura;
 
-En cada Municipio se constituirá un Consejo Municipal de Ecología, que se integrarán (sic) y funcionarán (sic) en los términos que establezca el reglamento respectivo.
+III.- El Instituto Estatal Electoral y de Participación Ciudadana;
 
-###### Artículo 217.
+IV.- El Congreso del Estado podrá invitar a la Secretaría de Educación Pública y al Instituto Nacional Electoral, a que participen en el desarrollo del evento.
 
-La Secretaría, con la participación de los ayuntamientos, constituirá un Sistema Estatal de Información Ambiental y de Recursos Naturales que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental del Estado.
+Las instituciones participantes deberán firmar un convenio de colaboración a efecto de conformar una Comisión Estatal Electoral de la Diputada y Diputado Infantil, con un representante de cada institución, y definir las atribuciones que corresponden a cada una de las instituciones en el desarrollo del evento.
 
-El Sistema se integrará con la información siguiente:
+La Comisión de Educación y Cultura deberá designar a la persona que represente al Congreso del Estado dentro de la Comisión Estatal Electoral de la Diputada y Diputado Infantil, así como a la persona que la supla en caso de ausencia, de entre el personal del Poder Legislativo, debiendo recaer dicha designación en las personas que demuestren tener mayor conocimiento y experiencia en la organización del evento.
 
-I. Los inventarios de los recursos naturales existentes en el Estado;
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2022)</small>
 
-II. Los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo;
+###### ARTÍCULO 217.
 
-III. El registro de emisiones y transferencia de contaminantes;
+La Comisión Estatal Electoral de la Diputada y Diputado Infantil, que para efectos de este Capítulo y del Evento se conocerá como la Comisión Estatal Electoral, deberá aprobar y mantener actualizado un Manual de Procedimientos Electorales de la Diputada y Diputado Infantil, el cual reglamentará el desarrollo de las siguientes fases:
 
-IV. El ordenamiento ecológico estatal y municipal, y;
+I.- Emisión de la Convocatoria;
 
-V. La información correspondiente a las declaraciones, registros, programas y acciones que se realicen para la preservación del equilibrio ecológico y la protección del ambiente en el Estado.
+II.- Etapa de Escuela;
 
-La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas y de trabajos técnicos o de cualquier otra índole en materia ambiental y de preservación de recursos naturales, que se realicen en el Estado.
+III.- Etapa de Zona;
 
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+IV.- Etapa de Distrito,
 
-La Secretaría en coordinación con la Secretaría de Salud en el Estado, tendrán la obligación de difundir y hacer del conocimiento público a través de los medios de comunicación social que correspondan y con apoyo de los municipios en su caso, reportes de la información ambiental del Estado; así como de los riesgos a la salud y las recomendaciones a la sociedad civil en general, a fin de que se tomen medidas y cuidados adecuados necesarios para salvaguardar la salud.
+V.- Sesión Plenaria en el Congreso del Estado
 
-El Registro Estatal de Áreas Naturales Protegidas a que se refiere el artículo 79 de esta Ley formará parte del Sistema Estatal de Información Ambiental y de Recursos Naturales.
+VI.- Informe de Actividades Legislativas Infantiles.
 
-## TÍTULO DÉCIMO SEGUNDO. EXPLOTACIÓN DE MENORES O PERSONAS CON DISCAPACIDAD
+PRIMERA FASE: CONVOCATORIA:
 
-### CAPÍTULO V. PUNIBILIDAD PARA LA COMPLICIDAD, AUXILIO EN CUMPLIMIENTO DE PROMESA ANTERIOR Y AUTORÍA INDETERMINADA
+A).- Se invitará a todas las escuelas primarias del sistema estatal, federal, indígena, Consejo Nacional de Fomento Educativo, migrante y de educación especial, particulares e incorporadas, promoviendo la equidad de género, para que registren a alumnos de sexto grado interesados, sin distinción alguna, y que reúnan los siguientes requisitos:
 
-###### Artículo 218.
+1.- Tener un promedio aprobatorio.
 
-La Secretaría en coordinación con la Procuraduría, elaborará y publicará, cada tres años, un informe detallado de la situación general existente en el Estado en materia de equilibrio ecológico y protección al ambiente.
+2.- Buena conducta evaluada por el personal docente.
 
-Asimismo, la Secretaría editará una Gaceta en la que se publicarán las disposiciones jurídicas, normas oficiales mexicanas, criterios ecológicos, declaratorias, decretos, acuerdos y programas, así como información relacionada con las áreas naturales protegidas, la preservación y el aprovechamiento sustentable de los recursos naturales, y la que sea de interés general en materia ambiental.
+3.- Facilidad para comunicarse.
 
-###### Artículo 219.
+B).- El tema con el que participarán los alumnos inscritos será aprobado por la Comisión de Educación y Cultura del Congreso, de una terna de temas propuestos por la Comisión Estatal Electoral, que se refieran a los valores, a los derechos de la niñez o a temas fundamentales que se encuentren dentro de los planes y programas de estudio, que puedan generar una política pública en el Estado.
 
-Las personas a quienes la Secretaría entregue información ambiental del Sistema serán responsables de su adecuada utilización y deberán responder por los daños y perjuicios que se ocasionen por su indebido manejo.
+C).- Para el registro de participantes están facultados los profesores, directores, supervisores y jefes de sector de las diferentes zonas participantes en el Estado ante la Comisión Estatal Electoral; y en casos extraordinarios, el padre o tutor, cuando se trate de un Candidato Independiente. Entiéndase por candidato independiente a aquel alumno de sexto grado de las distintas modalidades y niveles de educación primaria y elemental que reúne los requisitos señalados en el inciso a) de esta primera fase, y que decide participar voluntariamente en la elección del evento, pero la escuela en la que cursa sus estudios no participa.
+
+Las instituciones participantes deberán habilitar un micrositio para la inscripción de participantes en sus respectivas páginas de internet oficiales. La Comisión Estatal Electoral definirá en el Manual de Procedimientos Electorales los datos que deberán registrarse para la inscripción de candidatos.
+
+La fecha de registro de los candidatos independientes será a partir de que concluya el registro de escuelas participantes y hasta concluir el periodo de elección de la etapa de escuela, y participarán por primera vez en la Etapa de Zona, ya que no representan a ninguna escuela.
+
+Los candidatos de educación Indígena, Migrante, y del Consejo Nacional de Fomento Educativo, participarán en la Etapa de Distrito sin pasar por la etapa de Zona, debido a que estos sistemas no corresponden a las zonas escolares especificadas por la autoridad educativa.
+
+En el caso de que los subsistemas de educación Indígena, Migrante, y del Consejo Nacional de Fomento Educativo, acrediten la participación mínima del 20% de la totalidad escolar de su subsistema, participarán en una elección regional equivalente a la Etapa de Distrito para la asignación de su diputación de representación proporcional (plurinominal).
+
+Los candidatos del sistema de Educación Especial participarán en una elección regional, equivalente a la Etapa de Distrito, para elegir a dos diputados de representación proporcional. La configuración de cada región, norte y sur, se determinará por el número de alumnos inscritos en los Centros de Atención Múltiple estatales y federales.
+
+D).- Para efectos de votación participarán todos los alumnos de los diferentes grados que integran la comunidad escolar de las distintas modalidades y niveles de educación primaria y elemental.
+
+SEGUNDA FASE: ETAPA DE ESCUELA
+
+A).- La Comisión Electoral de Escuela estará integrada por el Director del plantel, un docente y dos representantes de los alumnos. Estos últimos no podrán participar como candidatos.
+
+B).- El registro de candidatos se hará ante la Comisión Electoral de Escuela por un profesor del plantel, el cual deberá registrar a todos los participantes en la liga habilitada para tal fin en las páginas de internet oficiales de las instituciones participantes.
+
+C).- En esta etapa, cada candidato desarrollará el tema que marca la Convocatoria, en una exposición que deberá distinguirse por su investigación, contenido y propuesta, y que tendrá una duración de hasta cinco minutos. Las exposiciones que excedan ese límite no serán motivo de descalificación.
+
+D).- Los candidatos expondrán su trabajo ante todos los estudiantes de cada uno de los grupos que integran la escuela como parte de su campaña de proselitismo.
+
+E).- La comunidad escolar llevará a cabo la elección a través del voto universal, libre, secreto y directo, ejercido ante una mesa directiva de casilla, señalando en la Boleta de Votación que apruebe la Comisión Estatal Electoral, al candidato que a su juicio represente de la mejor manera a la escuela, observando para ello, las etapas propias de un proceso electoral descritas en el Manual de Procedimientos del Proceso Electoral en su Etapa de Escuela.
+
+F).- El proceso de elección se llevará a cabo en el espacio que las autoridades de la escuela respectiva asignen dentro del plantel, siendo de preferencia en tiempos curriculares, sin la presencia de padres de familia.
+
+G).- Esta Etapa se desarrollará en las fechas que establezca la Convocatoria.
+
+H).- En el supuesto de que en la escuela sólo se inscriba un participante, Candidato Único, deberá llevarse a cabo la elección conforme a lo señalado en la convocatoria, de lo contrario será eliminada su participación en la etapa de zona.
+
+I).- La fórmula que representará al plantel escolar en la segunda etapa estará integrada por el alumno que haya obtenido el primer lugar, y como suplente, el alumno que haya obtenido el segundo lugar, en el supuesto de que exista más de un candidato. Cuando se trate de un solo candidato, no se constituirá la fórmula.
+
+J).- La Comisión Electoral de Escuela expedirá la Constancia de Mayoría que determine la Comisión Estatal Electoral, que acredite la fórmula o al candidato único electo de esta etapa y el Director del plantel, efectuará el registro para la siguiente etapa en la liga habilitada para tal fin en las páginas electrónicas de las autoridades participantes.
+
+K).- A la escuela que no cumpla con lo señalado en el presente documento para la elección de su representante, le será cancelado el registro y por lo tanto no podrá participar en la etapa de zona.
+
+En caso de requerir algún material electoral para llevar a cabo la elección, urnas o mamparas, la escuela podrá solicitarlos al Instituto Estatal Electoral a través del representante de la Secretaría de Educación y Cultura.
+
+TERCERA FASE: ETAPA DE ZONA
+
+A).- La Comisión Electoral de Zona estará integrada por el supervisor de la zona escolar, dos directores de las escuelas participantes de la zona correspondiente y dos representantes de los alumnos seleccionados de la escuela en la que se realizará el evento y que no sean candidatos.
+
+B).- En esta etapa participarán los alumnos que hayan obtenido su constancia de mayoría en la Etapa de Escuela y hayan sido registrados por el Director del plantel, ante la Comisión Electoral (sic) Zona, así como los candidatos independientes que se hayan inscrito en la liga habilitada para tal fin en las páginas de internet de las instituciones participantes.
+
+C).- Los alumnos participantes expondrán el tema señalado en la Convocatoria, el cual tendrá una duración de hasta cinco minutos. Las exposiciones que excedan ese límite no serán motivo de descalificación.
+
+D).- La sede de esta etapa será definida por la Comisión Electoral de Zona. El representante de la Secretaría de Educación y Cultura ante la Comisión Estatal Electoral deberá informar a ésta en los tiempos establecidos en el calendario de actividad previos al inicio de la Etapa de Zona, de las sedes y fechas en las que se llevará a cabo cada una de las elecciones de esta etapa.
+
+E).- El proceso de elección se llevará a cabo a través del voto universal, libre, secreto, directo y personal de los alumnos participantes o candidatos ganadores de la Primera Etapa de Escuela, escribiendo en la Boleta de Votación el nombre del candidato de su preferencia, a quien consideren merecedor del primer, segundo y tercer lugar otorgando respectivamente diez, nueve y ocho puntos. Para llevar a cabo la elección deberán observar las etapas propias de un proceso electoral descritas en el Manual de Procedimientos del Proceso Electoral en su Etapa de Zona.
+
+Antes de iniciar la votación, un integrante de la Comisión Electoral (sic) Zona explicará a los participantes la importancia de que su voto sea por el candidato que consideren su mejor opción para que los represente en la siguiente etapa lo que incluye la posibilidad de votar por sí mismo.
+
+En el lugar en el que se lleve a cabo el evento solamente estarán presentes los integrantes de la Comisión Electoral (sic) Zona, los candidatos participantes y en su caso, representantes de la Comisión Estatal Electoral.
+
+En el caso de que por alguna razón se lleve a cabo una elección concurrente de dos o más zonas escolares en la misma sede y a la misma hora, se deberán conformar tantas comisiones electorales de zona como sea necesario, de tal manera que se garantice que la elección de cada una de las zonas se lleve a cabo con transparencia y total independencia.
+
+El participante que obtenga el mayor número de puntos en la votación será el ganador al nivel de zona y estará en condiciones de competir en la Tercera Etapa de Distrito, el suplente de la fórmula estará representado por el participante que haya obtenido el segundo lugar.
+
+F).- En caso de presentarse un empate por el primer o segundo lugar en la votación, se procederá a realizar una segunda vuelta en la cual se votará única y exclusivamente por aquellos alumnos que hayan obtenido el empate.
+
+Antes de iniciar la segunda ronda de votación, un integrante de la Comisión Electoral (sic) Zona explicará a los participantes la importancia de que su voto sea por el candidato que consideren su mejor opción para que los represente en la Etapa de Distrito, lo que incluye la posibilidad de votar por sí mismo, instándolos a que decidan con independencia y objetividad.
+
+En el supuesto de que esta situación continúe, la decisión se tomará a través de un procedimiento de insaculación.
+
+G).- Para el caso de las zonas escolares cuyas escuelas primarias estén ubicadas geográficamente en más de un distrito electoral local y tengan la posibilidad de participar en más de una elección de distrito, se deberán conformar tantas comisiones electorales como divisiones distritales tenga la zona escolar, de tal suerte que en el momento de la exposición del tema y la votación, los participantes estén en áreas físicas diferentes para que se garantice la legalidad de cada elección como si se tratase de zonas escolares diferentes.
+
+Asimismo, se procederá a registrar tantas fórmulas de candidatos como Distritos sean.
+
+En el supuesto de que solo una escuela esté ubicada en un distrito distinto y solo se presente un candidato de esa zona escolar, no se llevará a cabo la exposición del tema. La comisión levantará un acta que explique la situación y expedirá la Constancia de Mayoría al candidato único.
+
+H).- La Comisión Electoral de Zona expedirá la Constancia de Mayoría que acredite a la fórmula de candidatos o candidato único que resulten electos para la tercera y última etapa.
+
+I).- En Educación Especial en caso de que exista la participación de más de un plantel por zona escolar, deberá realizar el procedimiento como lo establece el Manual.
+
+J).- Esta etapa se desarrollará en las fechas que establezca la Convocatoria.
+
+CUARTA FASE: ETAPA DE DISTRITO
+
+A).- La Comisión Electoral de Distrito estará integrada por un representante del Instituto Estatal Electoral y de Participación Ciudadana o, en su caso, del Instituto Nacional Electoral, quien fungirá como presidente de la comisión; el Jefe de Sector o un Supervisor de Zona escolar, quien fungirá como secretario, y dos directores de las escuelas participantes en el distrito.
+
+En el caso de que por alguna razón se lleve a cabo una elección concurrente de dos o más distritos electorales en la misma sede y a la misma hora, se deberán conformar tantas comisiones electorales de distrito como sea necesario, de tal manera que se garantice que la elección de cada uno de los distritos se lleve a cabo con trasparencia y total independencia.
+
+B).- En esta etapa participarán los alumnos que hayan obtenido su constancia de mayoría en la Etapa de Zona y los alumnos de los subsistemas de educación Indígena, Migrante, y Consejo Nacional de Fomento Educativo que previamente hayan sido inscritos en el micrositio de las páginas de internet de las instituciones participantes.
+
+C).- Los alumnos participantes expondrán el tema señalado en la Convocatoria, el cual tendrá una duración de hasta cinco minutos. Las exposiciones que excedan ese límite no serán motivo de descalificación.
+
+D).- Las sedes serán definidas por la Comisión Estatal Electoral y deberán estar ubicadas en las cabeceras de los distritos locales.
+
+E).- El proceso de elección se llevará a cabo a través del voto universal, libre, secreto, directo y personal de los alumnos participantes electos en la Segunda Etapa de Zona, escribiendo en la Boleta de Votación, el nombre del candidato de su preferencia, a quien consideren merecedor del primer, segundo y tercer lugar otorgando respectivamente diez, nueve y ocho puntos. Para llevar a cabo la elección deberán observar las etapas propias de un proceso electoral descritas en el Manual de Procedimientos del Proceso Electoral en su Etapa de Distrito.
+
+F).- Se realizarán elecciones virtuales en los distritos que lo considere necesario la Comisión Estatal Electoral, cuando exista riesgo de la salud o la seguridad de las y los participantes del evento Diputada y Diputado Infantil, atendiendo las políticas de austeridad vigentes.
+
+G).- Quien obtenga el mayor número de puntos será considerado como la Diputada o Diputado Infantil y su suplente será el que haya obtenido el segundo lugar en dicha votación.
+
+H).- En el procedimiento de designación de las Diputadas y los Diputados de Representación Proporcional (Plurinominales) los subsistemas (educación especial, migrante, indígena, escuela de circo. Albergue y Consejo Nacional de Fomento Educativo) que tenga registrados mayor al 20% de la totalidad de escuelas del subsistema con alumnos de sexto grado, tendrá derecho a participar en una elección para la asignación de un plurinominal por cada 20% de participación.
+
+En los distritos que se elijan Diputados de Representación Proporcional o Plurinominales, serán elegidos los que hayan obtenido la segunda mayor votación. En este caso, los Diputados Suplentes serán los que hayan obtenido las votaciones subsecuentes de mayor a menor.
+
+En caso de presentarse un empate por el primer o segundo lugar en la votación, se procederá a realizar una segunda vuelta en la cual, se votará única y exclusivamente, por aquellos alumnos que hayan obtenido el empate.
+
+Antes de iniciar la segunda ronda de votación, un integrante de la Comisión Electoral para la Etapa de Distrito explicará a los participantes la importancia de que su voto sea por el candidato que consideren su mejor opción para que los represente en el Congreso del Estado, incluyendo la posibilidad de votar por sí mismo, instándolos a que decidan con independencia y objetividad.
+
+En el supuesto de que el empate continúe, la decisión se tomará a través de un proceso de insaculación.
+
+I).- En esta etapa se elegirá al Diputado Infantil por un Día que representará al Distrito correspondiente, considerando el número de diputados de la Legislatura, el número de escuelas y el número de alumnos de cada municipio y la delimitación distrital establecida por la Ley de Instituciones y Procedimientos Electorales para el Estado de Sonora.
+
+J).- Esta Etapa se desarrollará en las fechas que establezca la Convocatoria.
+
+K).- La Comisión Electoral de Distrito otorgará a la o las fórmulas electas, la Constancia de Mayoría que acredite su representación como Diputada Infantil o Diputado Infantil en el distrito lectoral (sic) correspondiente o de asignación de representación proporcional.
+
+El Instituto Estatal Electoral y de Participación Ciudadana y, en su caso, el Instituto Nacional Electoral, sancionarán todo el proceso de elección del evento, en sus diferentes etapas.
+
+QUINTA FASE: SESIÓN PLENARIA
+
+A).- La Comisión Estatal Electoral deberá definir en el Manual de Procedimientos Electorales, las actividades logísticas necesarias para el traslado, recepción, registro y capacitación de las Diputadas y Diputados Infantiles propietarios electos a la sede definida por el Congreso del Estado.
+
+B).- La Comisión Estatal Electoral podrá programar actividades previas y posteriores a la sesión plenaria del evento.
+
+C).- La Sesión Plenaria deberá realizarse el día que corresponda a la penúltima sesión ordinaria del mes de abril, en la cual, las Diputadas y Diputados Infantiles participarán en un debate con el propósito de llegar a la aprobación, en su caso, de un Punto de Acuerdo en relación con el tema publicado en la Convocatoria correspondiente.
+
+D).- Una vez concluido el evento, la Comisión Estatal Electoral evaluará el evento realizado con la finalidad de medir los conocimientos recibidos y la forma en que el ejercicio afecta en su entorno.
+
+SEXTA FASE: INFORME DE ACTIVIDADES LEGISLATIVAS INFANTILES
+
+A).- Las Diputadas y los Diputados Infantiles deberán presentar un informe de trabajo en los planteles de origen, presentando el punto de acuerdo aprobado que se realizó durante la Sesión Plenaria realizada.
+
+B).- La Comisión Estatal Electoral deberá definir en el Manual de Procedimientos Electorales, el procedimiento para la realización del informe de trabajo de las Diputadas y los Diputados Infantiles.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2022)</small>
+
+## TÍTULO DÉCIMO OCTAVO. DEL PARLAMENTO PARA LA INCLUSIÓN DE PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2022)</small>
+
+### CAPÍTULO ÚNICO. DEL PARLAMENTO PARA LA INCLUSIÓN DE PERSONAS CON DISCAPACIDAD
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2022)</small>
+
+###### ARTÍCULO 218.
+
+El Congreso del Estado en la primera semana del mes de diciembre de cada año, celebrará el Parlamento para la Inclusión de Personas con Discapacidad, a efecto de integrar una agenda legislativa que garantice el pleno ejercicio de los derechos de las personas con discapacidad en el Estado.
+
+Será la Comisión de Atención a Grupos Vulnerables de la Sociedad la encargada de elaborar y proponer a la Comisión de Régimen Interno y Concertación Política para su posterior aprobación, la Convocatoria y el Programa con el cual se desarrollará el Parlamento para la Inclusión de Personas con Discapacidad.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2022)</small>
+
+###### ARTÍCULO 219.
+
+La Convocatoria debe de emitirse en el mes de octubre de cada año; la cual establecerá los términos en que se desarrollará el Parlamento para la Inclusión de Personas con Discapacidad y deberá de publicarse en el portal oficial del Congreso del Estado de Sonora, así como en el Boletín Oficial del Gobierno del Estado.
+
+El desarrollo del Parlamento se realizará de conformidad a la disponibilidad presupuestaria del Congreso del Estado.
 
 ## TRANSITORIOS
 
@@ -3107,11 +3259,29 @@ B.O. 6 DE JUNIO DE 2022.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 255 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE ENRIQUECIMIENTO ILÍCITO”.]
+B.O. 7 DE JULIO DE 2022.
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 58, QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 28 DE MARZO DE 2023.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan el Decreto número 36 y el Decreto número 42, aprobados, respectivamente, en las sesiones celebradas el 24 de marzo y el 05 de abril de 2022.
+
+###### ARTÍCULO TERCERO.
+
+Se abrogan el Acuerdo número 42, de fecha 16 de abril de 1998, mediante el cual el Congreso del Estado creó e instituyó la figura de "Diputado Infantil por un Día", así como los diversos acuerdos 180 de fecha 20 de diciembre de 2001, 170 de fecha 16 de diciembre de 2005 y 196 de fecha 11 de diciembre de 2014, con los cuales se reformó el primer Acuerdo mencionado.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a diez días hábiles contados a partir de la entrada en vigor del presente Decreto, la Comisión de Educación y Cultura, deberá emitir un acuerdo para definir a la persona que represente al Congreso del Estado dentro de la Comisión Estatal Electoral del evento Diputada y Diputado Infantil, así como a su suplente, quienes deberán asumir esos encargos a partir de la aprobación del Acuerdo respectivo en todos los actos de dicho evento del año de su aprobación y años subsecuentes.
+
+###### ARTÍCULO QUINTO.
+
+El convenio de colaboración del 1 (sic) evento DIPUTADO INFANTIL POR UN DÍA, vigente al momento de la entrada en vigor del presente Decreto, continuará su vigencia hasta que la Comisión de Educación y Cultura considere que existen razones suficientes para renovarlo, para lo cual deberá convocar al resto de las instituciones participantes para suscribir un nuevo convenio. En caso de que se considere que no es necesario renovar dicho convenio todas las referencias al evento DIPUTADO INFANTIL POR UN DÍA, se entenderán hechas al evento DIPUTADA Y DIPUTADO INFANTIL, y en lo sucesivo las instituciones participantes deberán referirse a dicho evento con la nueva denominación que establece el presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE CONTAGIO SEXUAL O NUTRICIÓN”.]
 
