@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2021-03-16"
+last_updated: "2022-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2022.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -299,9 +299,11 @@ Queda prohibido acordar la entrega de numerario o bienes en especie al President
 
 Está prohibido incluir dentro del presupuesto anual de egresos de los municipios, la contratación de un seguro de vida o de gastos médicos privado para sus servidores públicos. Se exceptúan los elementos policiacos encargados de la seguridad pública municipal o, salvo que, por motivo de sus condiciones generales de trabajo u otro instrumento obligatorio, hayan convenido con sus trabajadores otorgar dicha prestación.
 
-###### Artículo 29.
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2022)</small>
 
-Los miembros del Ayuntamiento no podrán ser electos para el período inmediato, ni las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos.
+###### ARTÍCULO 29.
+
+Los presidentes municipales, síndicos y regidores de los ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para el período inmediato, en términos de lo dispuesto en los artículos 131 y 132 fracción VI de la Constitución Política del Estado Libe (sic) y Soberano de Sonora.
 
 ###### Artículo 30.
 
@@ -569,9 +571,17 @@ La citación a que se refiere el artículo anterior deberá efectuarla el Secret
 
 Cuando un Regidor suplente entre en funciones como propietario, deberá proporcionar al Secretario, un correo electrónico para que reciba las citaciones a que se refiere el artículo 51 de esta Ley, dentro de los 5 días hábiles siguientes en que entre en funciones.
 
-> <small>(REFORMADO, B.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2022)</small>
 
-La citación deberá realizarse con una anticipación de por lo menos cuarenta y ocho horas al día en que vaya a celebrarse, tratándose de sesiones ordinarias. La citación deberá contener el lugar, día y hora en que habrá de celebrarse la sesión, así como el orden del día, anexando, en todos los casos, la información y documentación necesaria para su desarrollo.
+La citación deberá realizarse con una anticipación de por lo menos cuarenta y ocho horas previas al día y hora en que vaya a celebrarse, tratándose de cualquiera de las que hace referencia el artículo 50 de la presente Ley. La citación deberá contener el lugar, día y hora en que habrá de celebrarse la sesión, así como el orden del día, anexando, en todos los casos, la información y documentación necesaria para su desarrollo.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2022)</small>
+
+No aplicará la regla de las cuarenta y ocho horas, referida en el párrafo anterior del presente artículo cuando, tratándose de sesiones extraordinarias, donde deban abordarse asuntos que, por su importancia o urgencia deben ser desahogados de manera inmediata, para lo cual, el ayuntamiento podrá convocar a sesión desde luego.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2022)</small>
+
+Para que sean válidas las sesiones ordinarias y/o extraordinarias en las que se traten asuntos relacionados con financiamientos, privatizaciones, concesiones o alianzas público privadas, deberán remitirse a los integrantes del ayuntamiento, los documentos y proyectos correspondientes con, por lo menos, cinco días previos a la citación respectiva, para el análisis correspondiente.
 
 ###### Artículo 53.
 
@@ -599,9 +609,11 @@ El miembro del Ayuntamiento que no hubiese sido citado a una sesión, podrá sol
 
 El miembro del Ayuntamiento que sin aviso y causa justificada falte a cualquier sesión, deberá ser sancionado de acuerdo con lo que establezca el Reglamento Interior.
 
-###### Artículo 56.
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2022)</small>
 
-Cada sesión se iniciará con la lectura del acta que contenga el o los acuerdos tomados en la sesión anterior. Después de la lectura, se procederá a suscribir el acta por todos los que intervinieron en la misma.
+###### ARTÍCULO 56.
+
+Cada sesión ordinaria y/o extraordinaria, se iniciará con la lectura del acta que contenga el o los acuerdos tomados en la sesión anterior. Después de la lectura, se procederá a suscribir el acta por todos los que intervinieron en la misma, procediendo a discutir el orden del día conforme a lo dispuesto en el reglamento interior del Ayuntamiento.
 
 ###### Artículo 57.
 
@@ -849,7 +861,9 @@ Los acuerdos del Congreso del Estado tendrán carácter vinculatorio para los se
 
 La respuesta de los servidores públicos a que se refiere el párrafo anterior deberá contener, al menos, un informe de las acciones llevadas a cabo y, en su caso, las que se realizarán, así como una fecha probable, para dar oportuno cumplimiento a los planteamientos contenidos en el acuerdo notificado. En caso de disentir del sentido del resolutivo emitido por el Congreso del Estado, el servidor público a quien se dirigió el exhorto emitirá la respuesta expresando las razones de su postura, caso en el cual deberá generarse un seguimiento al tema entre el o los diputados que presentaron la iniciativa con punto de acuerdo y los servidores públicos respectivos mediante la celebración de reuniones públicas o privadas que al efecto estimen pertinente.
 
-Será causa de responsabilidad administrativa y se entenderá actualizado el supuesto de incumplimiento previsto en el artículo 63, fracción XXVI de la ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante el Órgano de Control y Evaluación Gubernamental del ayuntamiento que corresponda, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso.
+> <small>(REFORMADO, B.O. 7 DE JULIO DE 2022)</small>
+
+Será causa de responsabilidad administrativa no grave, en términos de la ley en la materia, la falta de respuesta o seguimiento a que se refieren los párrafos anteriores, por parte del servidor público a quien se dirigió el contenido del acuerdo aprobado por el Congreso del Estado y dará lugar a que el Presidente de la Mesa Directiva del Congreso del Estado de Sonora interponga, ante el Órgano de Control y Evaluación Gubernamental del ayuntamiento que corresponda, la denuncia y seguimiento al procedimiento respectivo para lograr que se sancione al omiso.
 
 ### CAPITULO SEXTO. DE LAS ATRIBUCIONES DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
@@ -4612,6 +4626,14 @@ Para el debido cumplimiento de las disposiciones contenidas en la presente refor
 B.O. 16 DE MARZO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 187, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 7 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 59, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
 
 ###### ARTÍCULO ÚNICO.
 
