@@ -4,7 +4,7 @@ identifier: "SON-ley-de-los-derechos-de-las-personas-adultas-mayores-del-57046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-07"
-last_updated: "2020-03-05"
+last_updated: "2022-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2022.
 
 Ley publicada en la Edición Especial 14 al Boletín Oficial del Estado de Sonora, el viernes 7 de septiembre de 2007.
 
@@ -88,6 +88,28 @@ XI.- Atención médica.- Al conjunto de servicios integrales para la prevención
 > <small>(ADICIONADA, B.O. 5 DE MARZO DE 2020)</small>
 
 XII.- Situaciones de riesgo o desamparo: Cuando por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, requieran de asistencia y protección del Gobierno del Estado, de los Gobiernos Municipales y de la Sociedad civil Organizada.
+
+> <small>(ADICIONADA, B.O. 7 DE JULIO DE 2022)</small>
+
+XIII.- Violencia.- La violencia psicológica, la violencia física, la violencia patrimonial, la violencia económica, la violencia sexual y cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2022)</small>
+
+###### Artículo 5 Bis.
+
+Los tipos de violencia contra las Personas Adultas Mayores, son:
+
+I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, y
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS
 
@@ -296,6 +318,10 @@ II.- Promover la participación de los sectores público, social y privado en la
 III.- Comunicar a la autoridad competente los casos que sean de su directo conocimiento de situaciones de marginación, lesiones, abuso, explotación, maltrato, abandono, descuido o negligencia y, en general, cualquier acto que perjudique a los adultos mayores, y ejecutar las medidas necesarias para su adecuada protección, dentro del ámbito de su competencia;
 
 IV.- Recibir quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores, haciéndolo del conocimiento de las autoridades competentes y, de ser procedente conforme a su ámbito de competencias, ejercitar o promover las acciones legales correspondientes;
+
+> <small>(ADICIONADO, B.O. 7 DE JULIO DE 2022)</small>
+
+La defensoría de oficio del Estado de Sonora, brindará apoyo y asistencia legal a las personas denunciantes o victimas
 
 > <small>(REFORMADA, B.O. 4 DE ABRIL DE 2012)</small>
 
@@ -1552,6 +1578,14 @@ La Secretaría de Desarrollo Social velará por la inclusión en el Presupuesto 
 B.O. 5 DE MARZO DE 2020.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 102, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ADULTOS MAYORES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 7 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 43, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
