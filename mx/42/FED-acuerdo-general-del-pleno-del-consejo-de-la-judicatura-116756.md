@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-116756"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-10-07"
-last_updated: "2016-12-13"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116756&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-10-03"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO ANTE EL PROPIO CONSEJO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de octubre de 2016.
 
@@ -129,7 +129,7 @@ XXXII. Trigésimo Segundo Circuito: Un coordinador de magistrados de tribunales 
 
 Los coordinadores de magistrados y de jueces que sean designados conforme a este acuerdo serán el enlace con el Consejo. Cada coordinador contará con un suplente.
 
-El Consejo de la Judicatura Federal, a través de la Dirección General de Recursos Humanos, apoyará a los coordinadores con la comisión temporal de una plaza de secretaria ejecutiva SPS de la plantilla de plazas a disposición del Consejo durante el periodo de su encargo, para realizar funciones estrictamente vinculadas con la coordinación, siempre y cuando existan plazas disponibles para tal efecto.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO ANTE EL PROPIO CONSEJO, D.O.F. 8 DE JULIO DE 2022)</small>
 
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 1, 2, 3 Y 4 DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO ANTE EL PROPIO CONSEJO, D.O.F. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -141,15 +141,17 @@ El coordinador será designado para un periodo anual calendario que iniciará en
 
 Si durante el periodo en que deba desempeñar la función de coordinador, el magistrado o juez es cambiado de adscripción a otro órgano de distinta residencia o especialización, así como por su ausencia definitiva, concluirá su función y será sustituido por el suplente, quien concluirá el período. En este caso deberá elegirse un nuevo suplente en un plazo que no podrá exceder de quince días. El mismo procedimiento se seguirá en caso de ausencia del suplente.
 
-El coordinador hará del conocimiento durante el mes de enero su designación y la de su suplente a la Dirección General de la Presidencia del Consejo de la Judicatura Federal. En caso de omisión del aviso anterior, el titular que hubiese fungido como coordinador seguirá siendo considerado el coordinador responsable para todos los efectos legales.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO ANTE EL PROPIO CONSEJO, D.O.F. 8 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 1, 2, 3 Y 4 DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO ANTE EL PROPIO CONSEJO, D.O.F. 13 DE DICIEMBRE DE 2016)</small>
+La coordinadora o el coordinador harán del conocimiento durante el mes de enero su designación y la de su suplente a la Secretaría General de la Presidencia del Consejo de la Judicatura Federal. En caso de omisión del aviso anterior, la o el titular que hubiese fungido como coordinadora o coordinador seguirá siendo considerado la o el coordinador responsable para todos los efectos legales.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO ANTE EL PROPIO CONSEJO, D.O.F. 8 DE JULIO DE 2022)</small>
 
 ###### Artículo 3.
 
-La Dirección General de la Presidencia será el enlace con los coordinadores de magistrados y jueces designados en términos del artículo 1 de este acuerdo para su interacción con el Consejo de la Judicatura Federal. Para tal efecto, recibirá sus peticiones y les dará el trámite correspondiente, debiendo informar sobre ello a los propios coordinadores.
+La Secretaría General de la Presidencia del Consejo de la Judicatura Federal será el enlace con las y los coordinadores de magistradas y magistrados y juezas y jueces designados en términos del artículo 1 de este acuerdo para su interacción con el Consejo de la Judicatura Federal. Para tal efecto, recibirá sus peticiones y les dará el trámite correspondiente, debiendo informar sobre ello a las y los propios coordinadores.
 
-Para efectos de comunicación, la Dirección General de la Presidencia elaborará un directorio de los coordinadores de magistrados de Circuito y jueces de Distrito, el cual publicará por medios electrónicos en internet e intranet del Consejo de la Judicatura Federal.
+Para efectos de comunicación, la Secretaría General de la Presidencia del Consejo de la Judicatura Federal elaborará un directorio de las y los coordinadores de magistradas y magistrados de Circuito y juezas y jueces de Distrito, el cual publicará por medios electrónicos en internet e intranet del Consejo de la Judicatura Federal.
 
 Funciones del coordinador
 
@@ -165,9 +167,15 @@ Cuando el coordinador asista a reuniones o congresos nacionales o regionales con
 
 Cuando el coordinador se encuentre imposibilitado para realizar las funciones conferidas en este acuerdo con motivo de encontrarse ausente o de guardia, el suplente asumirá de inmediato sus funciones.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO ANTE EL PROPIO CONSEJO, D.O.F. 8 DE JULIO DE 2022)</small>
+
+Además de lo anterior, la coordinadora o el coordinador deberán cumplir las demás funciones que determine el Pleno del Consejo de la Judicatura Federal.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO ANTE EL PROPIO CONSEJO, D.O.F. 8 DE JULIO DE 2022)</small>
+
 ###### Artículo 5.
 
-El coordinador de magistrados de circuito y jueces de distrito no asume con su designación un nuevo cargo ni una remuneración adicional por el desempeño de su función. Tampoco tendrá nuevo personal a su cargo derivado de dicha designación, salvo lo dispuesto en el artículo 1 de este Acuerdo.
+La coordinadora o el coordinador de magistradas y magistrados de circuito y juezas y jueces de distrito no asumen con su designación un nuevo cargo ni una remuneración adicional por el desempeño de su función. Tampoco tendrá nuevo personal a su cargo derivado de dicha designación.
 
 De las reuniones de la coordinación
 
@@ -216,3 +224,15 @@ PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. La designación de los Coordinadores que entrarán en funciones en enero de dos mil diecisiete, podrá realizarse durante el mes de diciembre de dos mil dieciséis o la primera semana de enero de dos mil diecisiete.
+
+D.O.F. 8 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES SOBRE EL FUNCIONAMIENTO DE LAS COORDINACIONES DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO ANTE EL PROPIO CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes; así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Las plazas de Asistente Administrativo, seguirán perteneciendo a la Plantilla de Plazas a Disposición del Consejo, las cuales son administradas por la Dirección General de Recursos Humanos.
+
+CUARTO. Las comisiones temporales podrán continuar hasta en tanto los órganos competentes determinen el destino de las plazas.
