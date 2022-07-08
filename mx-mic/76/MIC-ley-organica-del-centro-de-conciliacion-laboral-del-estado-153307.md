@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1533
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-30"
-last_updated: "2022-03-23"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2022.
 
 Ley publicada en el Número 36 del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 30 de diciembre de 2021.
 
@@ -435,7 +435,9 @@ T R A N S I T O R I O S
 
 Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-Segundo. El Centro de Conciliación Laboral del Estado de Michoacán de Ocampo iniciará sus funciones el día 1 de mayo del año 2022.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2022)</small>
+
+Segundo. El Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, iniciará sus funciones a más tardar el 03 de octubre del año 2022.
 
 Tercero. El Poder Ejecutivo Estatal y el Congreso del Estado de Michoacán de Ocampo realizarán las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros en el ejercicio fiscal 2022, que permitan el cumplimiento del presente Decreto.
 
@@ -453,7 +455,9 @@ Séptimo. El Director General del Centro deberá de presentar en un plazo no may
 
 Octavo. El Director General del Centro, deberá previa aprobación de la Junta publicar las convocatorias para la selección del personal del Centro de Conciliación Laboral del Estado, las cuales serán de carácter abierto garantizando el derecho de participar en igualdad de oportunidades al personal de las Juntas de Conciliación y Arbitraje, respetando el principio de paridad de género.
 
-Noveno. Los asuntos que se encuentran en trámite ante la Junta Local de Conciliación y Arbitraje, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio, en un plazo no mayor a tres años contados a partir del 01 primero de mayo del año de (sic) 2022, debiendo generar la calendarización correspondiente a efecto de dar conclusión a los asuntos en trámite y la ejecución eficaz de los laudos.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2022)</small>
+
+Noveno. Los asuntos que se encuentran en trámite ante la Junta Local de Conciliación y Arbitraje, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio, en un plazo no mayor a tres años contados a partir del 03 tres de octubre del año de (sic) 2022, debiendo generar la calendarización correspondiente a efecto de dar conclusión a los asuntos en trámite y la ejecución eficaz de los laudos.
 
 El Centro de Conciliación Laboral del Estado de Michoacán, no admitirá a trámite solicitudes respecto de procedimientos que se estén sustanciando ante las Juntas Locales de Conciliación y Arbitraje.
 
@@ -478,3 +482,9 @@ P.O. 23 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 146 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO CUARTO TRANSITORIO DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 157 POR EL QUE "SE REFORMAN LOS ARTÍCULOS SEGUNDO Y NOVENO TRANSITORIOS DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
