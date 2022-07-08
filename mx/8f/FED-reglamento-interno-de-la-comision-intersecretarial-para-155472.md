@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-intersecretarial-para-155472"
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-02-15"
-last_updated: "2022-02-15"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155472&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2021-12-03"
 ---
 # REGLAMENTO INTERNO DE LA COMISION INTERSECRETARIAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JULIO DE 2022 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERNO DE LA COMISIÓN INTERSECRETARIAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 8 DE JULIO DE 2022.]</small>
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 15 de febrero de 2022.
 
@@ -309,7 +309,9 @@ La Secretaría de Gobernación publicará la convocatoria aprobada por la Comisi
 
 Para la selección de las tres organizaciones de la sociedad civil que se encuentren legalmente constituidas, deberán acreditar con evidencia documental, lo siguiente:
 
-I. Contar con experiencia, en el ámbito nacional y/o internacional, en actividades docentes e investigación en cualquiera de los temas de prevención, persecución, sanción o erradicación de los delitos en materia de trata de personas, así como en la protección y asistencia de las víctimas, ofendidos y testigos de estos delitos;
+> <small>(F. DE E., D.O.F. 8 DE JULIO DE 2022)</small>
+
+I. Contar con experiencia, en el ámbito nacional o internacional, en trabajos de protección y asistencia de las víctimas, ofendidos y testigos de los delitos en materia de trata de personas, así como en los ámbitos de prevención, persecución, sanción o erradicación de estos delitos;
 
 II. Acreditar que, a la presentación de su candidatura, se encuentran realizando actividades relativas a las señaladas en la fracción anterior, y
 
@@ -319,7 +321,9 @@ III. Contar con programas o proyectos en el tema de trata de personas.
 
 Para la selección de las tres personas expertas académicas, deberán acreditar con evidencia documental, lo siguiente:
 
-I. Contar con experiencia, en el ámbito nacional o internacional, en trabajos de protección y asistencia de las víctimas, ofendidos y testigos de los delitos en materia de trata de personas o en los ámbitos de prevención, persecución, sanción o erradicación de estos delitos;
+> <small>(F. DE E., D.O.F. 8 DE JULIO DE 2022)</small>
+
+I. Contar con experiencia, en el ámbito nacional o internacional, en actividades docentes e investigación en cualquiera de los temas de prevención, persecución, sanción o erradicación de los delitos en materia de trata de personas, así como en la protección y asistencia a las víctimas, ofendidos y testigos de estos delitos;
 
 II. Acreditar que, a la presentación de su candidatura, se encuentran realizando actividades relativas a las señaladas en la fracción anterior, y
 
