@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2022-06-28"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -101,11 +101,13 @@ Ninguna autoridad podrá ejercer mandamientos judiciales o administrativos sobre
 
 ### CAPITULO III. De la Instalación del Congreso
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 11.
 
-El Instituto Electoral y de Participación Ciudadana de Coahuila, enviará al Congreso del Estado copias certificadas de los documentos en los que se haga constar la declaración de validez de la elección de diputados y diputadas, así como la información relativa a quienes hayan sido electos para integrar la siguiente legislatura; acompañándose, asimismo, copias certificadas de las notificaciones de las sentencias definitivas que emita el órgano jurisdiccional electoral sobre la respectiva elección.
+El Instituto Electoral de Coahuila, enviará al Congreso del Estado copias certificadas de los documentos en los que se haga constar la declaración de validez de la elección de diputados y diputadas, así como la información relativa a quienes hayan sido electos para integrar la siguiente legislatura; acompañándose, asimismo, copias certificadas de las notificaciones de las sentencias definitivas que emita el órgano jurisdiccional electoral sobre la respectiva elección.
 
-Conforme a la información proporcionada por el Instituto Electoral y de Participación Ciudadana de Coahuila, el Congreso del Estado hará el registro correspondiente y elaborará la lista de las y los diputados electos para integrar la siguiente Legislatura.
+Conforme a la información proporcionada por el Instituto Electoral de Coahuila, el Congreso del Estado hará el registro correspondiente y elaborará la lista de las y los diputados electos para integrar la siguiente Legislatura.
 
 ###### ARTÍCULO 12.
 
@@ -3820,3 +3822,13 @@ P.O. 28 DE JUNIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 256.- SE REFORMA EL ARTÍCULO 11 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Estado.
