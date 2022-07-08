@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2022-06-17"
+last_updated: "2022-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2022.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -180,6 +180,10 @@ XI. Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley 
 > <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2019)</small>
 
 XII. Toda persona tiene derecho a que se respete su integridad personal. El Estado y los Municipios establecerán las medidas necesarias para protegerlas contra cualquier acto de desaparición forzada y desaparición cometida por particulares; y contra la tortura y otros tratos o penas crueles, inhumanos o degradantes.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2022)</small>
+
+XIII. Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -2571,7 +2575,9 @@ IV. Conceder licencias y admitir las renuncias de sus propios miembros y del per
 
 V. Con sujeción a las leyes federales y estatales relativas podrán:
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2022)</small>
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial;
 
 b) Participar en la creación y administración de sus reservas territoriales;
 
@@ -2619,11 +2625,11 @@ XII. Previa autorización del Congreso del Estado en términos de lo dispuesto p
 
 XIII. Las demás que les señalen las leyes.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2022)</small>
 
 ###### Art. 126.
 
-Cuando dos o más centros urbanos situados en territorios de dos o más Municipios formen o tiendan a formar una continuidad demográfica, el Ejecutivo del Estado y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a las leyes de la materia.
+Cuando dos o más centros urbanos situados en territorios de dos o más Municipios formen o tiendan a formar una continuidad demográfica, el Ejecutivo del Estado y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros, incluyendo criterios para la movilidad y seguridad vial, con apego a las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4660,3 +4666,9 @@ P.O. 17 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. El Congreso del Estado deberá expedir la Ley de Revocación de Mandato para el Estado de Sinaloa dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 8 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 164 DEL H. CONGRESO DEL ESTADO.- SE REFORMA EL INCISO A) DE LA FRACCIÓN V DEL ARTÍCULO 125 Y EL ARTÍCULO 126, Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 4° BIS B, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
