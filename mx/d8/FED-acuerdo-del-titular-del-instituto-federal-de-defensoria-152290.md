@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-152290"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-04"
-last_updated: "2021-12-10"
+last_updated: "2022-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-26"
 
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 4 de noviembre de 2021.
 
@@ -373,9 +373,25 @@ VI. Controlar la recepción, registro, guarda, custodia y conservación de la in
 
 VII. Concentrar, validar y poner a disposición la información necesaria para la integración de los informes periódicos que se requieran;
 
-VIII. Certificar documentos relacionados con la competencia y atribuciones de la unidad a su cargo, y
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 8 DE JULIO DE 2022)</small>
 
-IX. Las demás que les sean conferidas por las normas aplicables.
+VIII. Organizar, coordinar y dar seguimiento a los Observatorios ciudadanos en al menos las siguientes materias:
+
+a) Derechos de personas con discapacidad;
+
+b) Género y justicia;
+
+c) Derechos de personas privadas de libertad;
+
+d) Derechos de niñas, niños y adolescentes; y
+
+e) Derechos de personas en movilidad y sujetas a protección internacional.
+
+Las y los titulares de Unidad son responsables de que los Observatorios sesionen al menos dos veces al año, se levante un acta del desarrollo de cada sesión y se dé seguimiento a los acuerdos aprobados y los compromisos asumidos por el Instituto.
+
+IX. Certificar documentos relacionados con la competencia y atribuciones de la unidad a su cargo, y
+
+X. Las demás que les sean conferidas por las normas aplicables.
 
 #### SECCIÓN SEGUNDA. De la Unidad de Litigio Estratégico en Derechos Humanos
 
@@ -737,9 +753,13 @@ V. Coordinar acciones de monitoreo, documentación y difusión respecto de la to
 
 VI. Participar, por instrucción de la o el titular de la Dirección General, en espacios académicos e institucionales para promover el combate a la tortura y malos tratos;
 
-VII. La o el titular de la Secretaría y el personal adscrito a la misma, realizarán visitas a los centros de detención, cuando existan indicios de la posible comisión de actos de tortura o malos tratos en perjuicio de personas representadas por el Instituto, y
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 8 DE JULIO DE 2022)</small>
 
-VIII. Las demás funciones que determine la o el titular de la Dirección General y la normatividad aplicable.
+VII. Organizar, coordinar y dar seguimiento al Grupo de Trabajo de Combate a la Tortura. La o el titular de la Secretaría Técnica es responsable de que el Grupo de Trabajo sesione al menos dos veces al año, se levante un acta del desarrollo de cada sesión y se dé seguimiento a los acuerdos aprobados y los compromisos asumidos por el Instituto.
+
+VIII. La o el titular de la Secretaría y el personal adscrito a la misma, realizarán visitas a los centros de detención, cuando existan indicios de la posible comisión de actos de tortura o malos tratos en perjuicio de personas representadas por el Instituto, y
+
+IX. Las demás funciones que determine la o el titular de la Dirección General y la normatividad aplicable.
 
 ###### Artículo 23.
 
@@ -2064,3 +2084,11 @@ D.O.F. 10 DE DICIEMBRE DE 2021.
 PRIMERO. El presente Acuerdo y su ANEXO ÚNICO entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el transitorio siguiente.
 
 SEGUNDO. Las supervisiones cuya práctica se haya ordenado o se encuentren practicándose, antes de la publicación del presente Acuerdo, deberán llevarse a cabo y concluirse, conforme a lo dispuesto en las Bases Generales vigentes en ese momento.
+
+D.O.F. 8 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA”.]
+
+PRIMERO. El presente Acuerdo y su ANEXO ÚNICO entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el transitorio siguiente.
+
+SEGUNDO. Las y los Titulares de Unidad responsables de los observatorios que estén vigentes hasta la fecha en que se emite el presente acuerdo, presentarán un informe a la Junta Directiva en la última sesión ordinaria de 2022, a celebrarse el 26 de septiembre del presente año, en términos de la modificación aprobada en esta sesión ordinaria.
