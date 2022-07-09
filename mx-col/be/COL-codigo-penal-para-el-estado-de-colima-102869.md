@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2022-03-26"
+last_updated: "2022-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -2079,9 +2079,9 @@ Al que tenga cópula con persona menor de catorce años de edad, o con quien no 
 
 Según el caso, se impondrán las penas señaladas en los artículos anteriores, cuando se produzca un resultado análogo al de la violación, introduciendo cualquier objeto o instrumento diferente al miembro viril, si el activo tuvo o no el propósito de copular.
 
-### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL Y ACOSO LABORAL
+### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL, ACOSO LABORAL Y ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 148.
 
@@ -2091,31 +2091,19 @@ Sólo se procederá contra el activo, previa querella de la víctima u ofendido,
 
 ### CAPÍTULO V. VIOLENCIA DIGITAL
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2022)</small>
 
-ARTÍCULO 152 TER. Comete el delito de violencia digital:
+ARTÍCULO 152 TER. Comete el delito de acoso sexual, al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, será sancionado con seis meses a un año de prisión y multa de cincuenta a cien unidades de medida y actualización.
 
-I. Quien videograbe, audiograbe, fotografíe, filme o elabore, imágenes, audios o videos reales o simulados de contenido sexual íntimo, de una persona sin su consentimiento o mediante engaño; o
+Solamente será punible el acoso sexual cuando se cause daño o perjuicio.
 
-II. Quien exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos de contenido sexual íntimo de una persona, a sabiendas de que no existe consentimiento, mediante materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier medio tecnológico.
+Solo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el Procurador de Protección de Niñas, Niños y Adolescentes.
 
-A quien cometa este delito, se le impondrá una pena de cuatro a seis años de prisión y multa de quinientas a mil unidades de medida y actualización.
+Al responsable del delito de acoso sexual, cuando el pasivo sea menor de dieciocho años de edad, tenga alguna discapacidad, no tenga capacidad para comprender el significado del hecho o no tenga la capacidad para resistirlo, se le impondrá una pena de un año a un año seis meses de prisión y multa por el importe equivalente de cien a ciento cincuenta días de unidades de medida y actualización y en este caso de (sic) perseguirá de oficio.
 
-La pena de prisión será de seis a ocho años cuando:
+Se impondrá de ocho meses a año seis meses de prisión y multa de cien a ciento cincuenta unidades de medida y actualización al responsable de acoso sexual que, haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, requiera o comparta imágenes, audio o video del acoso sexual o solicite un encuentro sexual.
 
-I. La víctima sea persona menor de dieciocho años de edad, o no tenga capacidad de comprender el significado del hecho, o sea persona que no tenga capacidad para resistirlo;
-
-II. La víctima sea una persona ascendiente o descendiente en línea recta, hasta el tercer grado;
-
-III. Cuando exista o haya existido entre el activo y la víctima una relación de matrimonio, concubinato, sociedad de convivencia, noviazgo o cualquier otra relación sentimental o de hecho, de confianza, docente, educativo, laboral, de subordinación o superioridad;
-
-IV. Cuando aprovechando su condición de persona responsable o encargada de algún establecimiento de servicio al público, realice alguna de las conductas establecidas en el presente artículo;
-
-V. Sea cometido por alguna persona servidora pública o integrante de las instituciones de seguridad pública en ejercicio de sus funciones; o
-
-VI. Se cometa en contra de personas adultas mayores, con discapacidad, en situación de calle, afromexicanas o de identidad indígena.
-
-El Ministerio Público ordenará de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios, o videos relacionados con el delito.
+En caso de reincidencia las sanciones previstas en este artículo se incrementarán en una mitad.
 
 ###### ARTÍCULO 149.
 
@@ -2149,7 +2137,7 @@ IV.- Cuando fuere cometido por quien desempeñe un cargo o empleo público o eje
 
 V.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas, o hubiese sido cometido por ministros de culto religioso.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JULIO DE 2022)</small>
 
 ### CAPÍTULO I. DISPOSICIÓN INDEBIDA DE GAMETOS
 
@@ -2157,25 +2145,21 @@ V.- Cuando el delito fuere cometido dentro las instalaciones de alguna asociaci�
 
 ###### ARTÍCULO 152.
 
-A quien asedie, acose o solicite favores de naturaleza sexual, para sí o para un tercero, valiéndose o aprovechándose de una situación de superioridad o posición jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier otra índole que implique subordinación, con amenaza de causar a la víctima cualquier mal, daño o perjuicio relacionado con las legítimas expectativas que pueda tener en el ámbito de dichas relaciones, será sancionado con prisión de uno a tres años y multa por el importe equivalente de cien a quinientas unidades de medida y actualización.
+Comete el delito de hostigamiento sexual, a (sic) quien asedie mediante conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva o solicite favores de naturaleza sexual, para sí o para un tercero, valiéndose o aprovechándose de una situación de superioridad o posición jerárquica, derivada de relaciones laborales, docentes, domésticas, con motivo del ejercicio de culto religioso o dentro de las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas o de cualquier otra índole que implique subordinación, con amenaza de causar a la víctima cualquier mal, daño o perjuicio relacionado con las legítimas expectativas que pueda tener en el ámbito de dichas relaciones, será sancionado con prisión de dos a cuatro años y multa por el importe equivalente de doscientas a quinientas unidades de medida y actualización. Si se ocasionan daños, aumentará la pena de prisión en una mitad más.
 
-Si se ocasionan daños la pena aumentará de uno a tres años de prisión.
+Si el sujeto activo fuere servidor público, docente en alguna institución educativa pública o privada de cualquier nivel, o ministro de culto y utilizare los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento, además se le sancionará con la destitución e inhabilitación por un tiempo igual al de la pena corporal impuesta.
 
-Si el sujeto activo fuere servidor público y utilizare los medios o circunstancias que le proporciona su cargo, será privado para ocupar un empleo, cargo o comisión en el sector público.
+Solo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el Procurador de Protección de Niñas, Niños y Adolescentes.
 
-Solo se procederá contra el activo, previa querella de la víctima u ofendido, y tratándose de menores, por conducto de quienes ejerzan la patria potestad, tutores, representantes de hecho o de derecho y a falta de estos por el Procurador de la defensa del menor y la familia.
+Al responsable del delito de hostigamiento sexual, cuando el pasivo sea menor de dieciocho años de edad, tenga alguna discapacidad o no tenga capacidad para comprender el significado del hecho, se le impondrá una pena de tres a seis años de prisión y multa por el importe equivalente de ciento cincuenta a trescientos días de unidades de medida y actualización y en este caso de (sic) perseguirá de oficio.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+Se impondrá de cuatro a seis años de prisión y multa de quinientas a mil unidades de medida y actualización al responsable de hostigamiento sexual que, haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, requiera o comparta imágenes, audio o video de actividades sexuales explícitas, actos de connotación sexual o solicite un encuentro sexual.
 
-Al responsable del delito de hostigamiento sexual, cuando el pasivo sea menor de dieciocho años de edad o no tenga capacidad para comprender el significado del hecho, se le impondrá una pena de tres a seis años de prisión y multa por el importe equivalente de ciento cincuenta a trescientos días de unidades de medida y actualización.
+En caso de reincidencia las sanciones previstas en este artículo se incrementarán en una mitad.
 
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2022)</small>
 
-Se impondrá de cuatro a seis años de prisión y multa de quinientas a mil unidades de medida y actualización al responsable de hostigamiento sexual y acoso laboral que, haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, requiera o comparta imágenes, audio o video de actividades sexuales explícitas, actos de connotación sexual o solicite un encuentro sexual.
-
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
-
-ARTÍCULO 152 BIS. Se le impondrán de seis meses a tres años de prisión y multa de doscientas a quinientas unidades de medida y actualización, al que dentro del espacio u ámbito laboral de forma persistente infunda miedo, intimidación o angustia a un trabajador, jefe o superior jerárquico inmediato o mediato, un compañero de trabajo o un subalterno, causando perjuicio laboral, o induzca a la renuncia del mismo u ocasione un daño o perjuicio en la posición laboral de la víctima.
+ARTÍCULO 152 BIS. Comete el delito de acoso laboral, al que dentro del espacio u ámbito laboral de forma persistente infunda miedo, intimidación o angustia a un trabajador, jefe o superior jerárquico inmediato o mediato, un compañero de trabajo o un subalterno, causando perjuicio laboral, o induzca a la renuncia del mismo u ocasione un daño o perjuicio en la posición laboral de la víctima, será sancionado con prisión de seis meses a tres años de prisión y multa de doscientas a quinientas unidades de medida y actualización.
 
 Sin ser una enumeración restrictiva, el acoso laboral puede darse, entre otras, bajo las siguientes modalidades generales:
 
@@ -2189,7 +2173,9 @@ IV. Toda conducta cuyas características de reiteración o evidente arbitrarieda
 
 V. Toda acción tendiente a obstaculizar el cumplimiento de la labor o hacerla más gravosa o retardarla con perjuicio para el trabajador, como la privación, ocultación o inutilización de los insumos, documentos o instrumentos para la labor, la destrucción o pérdida de información, el ocultamiento de correspondencia o mensajes electrónicos.
 
-En caso de que el hostigador sea un servidor público además de la pena mencionada se le destituirá de su cargo, y se le inhabilitará para ocupar otro de carácter público.
+Se impondrá de un año a tres años de prisión y multa de doscientas cincuenta a seiscientas unidades de medida y actualización al responsable de acoso laboral que, haciendo uso de medios de radiodifusión, telecomunicaciones, informáticos o cualquier otro medio de transmisión de datos, requiera o comparta imágenes, audio o video del acoso laboral.
+
+En caso de que el acosador sea un servidor público además de la pena mencionada se le sancionará con la destitución e inhabilitación por un tiempo igual al de la pena corporal impuesta.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE MAYO DE 2020)</small>
 
@@ -4848,3 +4834,9 @@ P.O. 26 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "NÚM. 76.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 113.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMÁS, SE REFORMA EL ARTÍCULO 17, PÁRRAFO TERCERO DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
