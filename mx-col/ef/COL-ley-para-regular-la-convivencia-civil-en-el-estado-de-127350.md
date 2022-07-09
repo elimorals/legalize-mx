@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-convivencia-civil-en-el-estado-de-127350"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-24"
-last_updated: "2019-08-03"
+last_updated: "2022-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 24 de marzo de 2018.
 
@@ -217,9 +217,15 @@ VI. Llevar a cabo de forma periódica cursos formativos de cultura cívica a su 
 
 VII. Proporcionar al Juez Cívico y al Secretario del Juzgado, capacitación en métodos alternos de solución de conflictos, como la mediación y conciliación;
 
-VIII. Registrar, a través del Área de Seguridad Pública correspondiente, las detenciones y remisiones de probables infractores realizadas por los policías; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
 
-IX. Las demás que determine esta Ley y otros ordenamientos aplicables.
+VIII. Registrar, a través del Área de Seguridad Pública correspondiente, las detenciones y remisiones de probables infractores realizadas por los policías;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2022)</small>
+
+IX. Implementar, impulsar y ejecutar, a través de las dependencias que comprenden a la Administración Pública Municipal, capacitaciones y cursos formativos a sus trabajadores, respecto a la prevención del acoso sexual callejero; y
+
+X. Las demás que determine esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 12.
 
@@ -329,9 +335,17 @@ XI. Preservar el equipamiento y mobiliario urbano, así como los bienes de inter
 
 XII. Resguardar la flora y fauna en áreas verdes, de valor ambiental, naturales protegidas y de conservación del suelo del Estado;
 
-XIII. Denunciar o dar aviso a las autoridades de la comisión de cualquier infracción a las leyes o delitos, así como de cualquier actividad o hechos que causen daño a terceros o afecten la convivencia, y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
 
-XIV. Colaborar con las autoridades competentes en las acciones y programas que promuevan la seguridad ciudadana, la prevención del delito, el mejoramiento de la salud, la conservación del medio ambiente y la ecología, así como en las medidas en casos de siniestros y desastres para la prevención y protección civil.
+XIII. Denunciar o dar aviso a las autoridades de la comisión de cualquier infracción a las leyes o delitos, así como de cualquier actividad o hechos que causen daño a terceros o afecten la convivencia;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
+
+XIV. Colaborar con las autoridades competentes en las acciones y programas que promuevan la seguridad ciudadana, la prevención del delito, el mejoramiento de la salud, la conservación del medio ambiente y la ecología, así como en las medidas en casos de siniestros y desastres para la prevención y protección civil; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2022)</small>
+
+XV. Abstenerse de realizar la infracción establecida en la fracción IV del artículo 16 de la presente Ley.
 
 ## TÍTULO TERCERO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -351,9 +365,15 @@ II. Permitir a menores de edad el acceso a lugares a los que expresamente les es
 
 III. Golpear a una persona, en forma intencional y fuera de riña, sin causarle lesión; y
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
 
-IV. Manifestar expresiones verbales de connotación sexual a una persona que molesten y dañen su dignidad, y/ o realizar señales obscenas con intención lujuriosa.
+IV. El Acoso Sexual Callejero, es una forma de violencia unidireccional de connotación sexual ejercidas por una persona desconocida en el transporte público, espacios públicos y/o semipúblicos, generado un malestar en la víctima, manifestándose de manera enunciativa más no limitativa a través de las siguientes conductas:
+
+a) Miradas lascivas, expresiones verbales, silbidos, sonidos obscenos, burlas sobre el cuerpo y/o comentarios inapropiados.
+
+b) Tocamientos, manoseos, rozamientos y/o exhibicionismo.
+
+c) Toma de fotografías y/o videograbaciones del cuerpo o alguna parte del cuerpo sin consentimiento.
 
 ###### Artículo 17.
 
@@ -361,9 +381,13 @@ Las infracciones contra la dignidad de las personas establecidas en el artículo
 
 En caso de actualizarse lo dispuesto en la fracción I, se impondrá multa por el equivalente de 1 a 10 veces el valor diario de la Unidad de Medida y Actualización o arresto de 6 a 12 horas.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE JULIO DE 2022)</small>
 
 Las conductas señaladas en las fracciones II, III y IV, con multa por el equivalente de 10 a 20 veces el valor diario de la Unidad de Medida y Actualización o arresto de 12 a 24 horas.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2022)</small>
+
+En el caso de la conducta señalada en la fracción IV, además de las sanciones establecidas en el párrafo anterior, el infractor deberá asistir a un curso de formación cívica y nuevas masculinidades o de estereotipos sobre el rol social de las mujeres o perspectiva de género o su equivalente, por lo menos de 12 horas hasta 24 horas diferenciadas, impartido, según corresponda por el Instituto Colimense de las Mujeres o través de los Institutos Municipales de la Mujer.
 
 ###### Artículo 18.
 
@@ -942,3 +966,15 @@ P.O. 3 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 115 POR EL QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 16 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 17, Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 16, TODOS DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 9 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 112.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMAS, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA REGULAR LA CONVIVENVIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, TAMBIÉN SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 9 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 113.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMÁS, SE REFORMA EL ARTÍCULO 17, PÁRRAFO TERCERO DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+PRIMERO (SIC). El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
