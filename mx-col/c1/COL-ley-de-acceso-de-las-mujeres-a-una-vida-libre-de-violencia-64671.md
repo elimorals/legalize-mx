@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2020-05-02"
+last_updated: "2022-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -605,9 +605,53 @@ ARTÍCULO 30 QUINQUIES.- Las autoridades estatales, municipales, los organismos 
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2020)</small>
 
-###### ARTÍCULO 30 Sexies.
+ARTÍCULO 30 SEXIES.- Violencia Digital, es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico (sic), o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
 
-Violencia Digital, es cualquier acto realizado mediante el uso de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales, plataformas de internet, correo electrónico (sic), o cualquier medio tecnológico, por el que se obtenga, exponga, distribuya, difunda, exhiba, reproduzca, transmita, comercialice, oferte, intercambie y comparta imágenes, audios o videos reales o simulados de contenido sexual íntimo de una persona, sin su consentimiento; que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño psicológico, económico o sexual tanto en el ámbito privado como en el público, además de daño moral, tanto a ellas como a sus familias.
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2022)</small>
+
+ARTÍCULO 30 DECIES (SIC).- El Acoso Sexual Callejero, es una forma de violencia unidireccional de connotación sexual ejercidas por una persona desconocida en el transporte público, espacios públicos y/o semipúblicos, generado un malestar en la víctima, manifestándose de manera enunciativa más no limitativa a través de las siguientes conductas:
+
+a) Miradas lascivas, expresiones verbales, silbidos, sonidos obscenos, burlas sobre el cuerpo y/o comentarios inapropiados.
+
+b) Tocamientos, manoseos, rozamientos y/o exhibicionismo.
+
+c) Toma de fotografías y/o videograbaciones del cuerpo o alguna parte del cuerpo sin consentimiento.
+
+Dicha conducta, será sancionada conforme al artículo 16 fracción IV y su correlativo 17 de la Ley para Regular la Convivencia Civil en el Estado de Colima y sus Municipios.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE JULIO DE 2022)</small>
+
+#### SECCIÓN NOVENA. HOSTIGAMIENTO Y ACOSO SEXUAL
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2022)</small>
+
+ARTÍCULO 30 SEPTIES (SIC).- El hostigamiento sexual es el ejercicio del poder, de quien asedie mediante conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva o solicite favores de naturaleza sexual, para sí o para un tercero, valiéndose o aprovechándose de una situación de superioridad o posición jerárquica, derivada de relaciones laborales, docentes, domésticas con motivo del ejercicio de culto religioso o dentro de las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas o de cualquier otra índole que implique subordinación, con amenaza de causar a la víctima cualquier mal, daño o perjuicio relacionado con las legítimas expectativas que pueda tener en el ámbito de dichas relaciones.
+
+Dicha conducta será sancionada conforme al artículo 152 del Código Penal para el Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2022)</small>
+
+ARTÍCULO 30 OCTIES.- Para los efectos del hostigamiento sexual, el Estado y los Municipios deberán:
+
+I.- Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
+
+II.- Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
+
+III.- Crear procedimientos administrativos, protocolos o lineamientos claros y precisos en las escuelas y los centros laborales, para denunciar estos ilícitos, sancionarlos oportunamente en términos de las leyes aplicables e inhibir su comisión;
+
+IV.- Brindar la atención psicológica, asesoría legal, especializada y gratuita, así como el acompañamiento legal ante la Fiscalía General del Estado para iniciar la denuncia correspondiente; y
+
+V.- Con independencia de las sanciones de carácter penal, cuando la conducta se realice dentro del ejercicio del servicio público, el superior jerárquico del hostigador sexual deberá de inmediato hacer del conocimiento de a su Órgano Interno de Control, para el inicio de un procedimiento administrativo de responsabilidad previsto por la Ley General de Responsabilidades Administrativas.
+
+En ningún caso se hará público el nombre de la receptora para evitar su sobrevictimización, o que sea boletinada o presionada para abandonar la escuela o su centro de trabajo.
+
+Para los efectos del párrafo anterior, deberán sumarse las quejas anteriores que sean sobre el mismo hostigador, guardando públicamente el anonimato de las quejosas.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2022)</small>
+
+ARTÍCULO 30 NONIES.- El acoso sexual es una forma de violencia en la que, con fines lascivos se asedie a una mujer, si bien no existe subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima.
+
+Dicha conducta será sancionada conforme al artículo 152 TER del Código Penal para el Estado de Colima.
 
 #### SECCIÓN PRIMERA. DEL TITULAR DEL EJECUTIVO DEL ESTADO
 
@@ -636,8 +680,6 @@ VI.- Difundir las sentencias emitidas con perspectiva de género y derechos huma
 VII.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
 
 VIII.- Las demás que le atribuyan otros ordenamientos legales.
-
-#### SECCIÓN SEGUNDA. DE LA SECRETARÍA GENERAL DE GOBIERNO
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA
 
@@ -1045,7 +1087,7 @@ El Ejecutivo Estatal y los Ayuntamientos, en el ámbito de sus competencias, pro
 
 ### CAPÍTULO III. DE LAS COMPETENCIAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-#### SECCIÓN TERCERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
+#### SECCIÓN SEGUNDA. DE LA SECRETARÍA GENERAL DE GOBIERNO
 
 ###### ARTÍCULO 55.
 
@@ -1095,9 +1137,9 @@ XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
-#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
+#### SECCIÓN TERCERA. DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-#### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
+#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN
 
 ###### ARTÍCULO 57.
 
@@ -1135,6 +1177,30 @@ XV.- Celebrar convenios de coordinación y concertación con la participación q
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
+#### SECCIÓN QUINTA. DE LA SECRETARÍA DE SALUD Y BIENESTAR SOCIAL
+
+###### ARTÍCULO 58.
+
+La Secretaría de Desarrollo Social será la encargada de:
+
+I.- Participar en la elaboración del Programa Integral Estatal en coordinación, con las demás autoridades integrantes del Sistema Estatal;
+
+II.- Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+
+III.- Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
+
+IV.- Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
+
+V.- Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
+
+VI.- Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género;
+
+VII.- Impulsar políticas de prevención y atención de la Violencia contra las Mujeres;
+
+VIII.- Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+IX.- Las demás previstas en esta Ley y demás disposiciones aplicables.
+
 #### SECCIÓN QUINTA BIS. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
@@ -1166,56 +1232,6 @@ IX.- Reconocer e incentivar a las empresas que se abstengan de solicitar a las m
 X.- Orientar a las receptoras de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres; y
 
 XI.- Las demás que le señalen las disposiciones legales.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
-
-###### ARTÍCULO 58.
-
-La Secretaría de Desarrollo Social será la encargada de:
-
-I.- Participar en la elaboración del Programa Integral Estatal en coordinación, con las demás autoridades integrantes del Sistema Estatal;
-
-II.- Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
-
-III.- Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
-
-IV.- Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
-
-V.- Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
-
-VI.- Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género;
-
-VII.- Impulsar políticas de prevención y atención de la Violencia contra las Mujeres;
-
-VIII.- Celebrar convenios de cooperación, coordinación y concertación en la materia; y
-
-IX.- Las demás previstas en esta Ley y demás disposiciones aplicables.
-
-#### SECCIÓN QUINTA BIS 1. DE LA SECRETARÍA DE CULTURA
-
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
-
-ARTICULO 60 BIS 1.- Corresponde a la Secretaría de Cultura:
-
-I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
-
-II.- Promover a través de los programas y actividades culturales, los derechos humanos de las mujeres;
-
-III.- Promover que las mujeres dispongan de espacios para el esparcimiento, juegos y actividades recreativas, y participen en la vida cultural y artística;
-
-IV.- Desarrollar con otras dependencias y entidades, encargadas de promover la cultura campañas para prevenir la violencia contra las mujeres;
-
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
-
-V.- Podrá promover en coordinación con otras dependencias, programas culturales encaminados a la concientización de la violencia generada por el acoso sexual callejero, así como medidas para eliminarlo;
-
-VI.- Elaborar programas artísticos y culturales, que difundan y promuevan una cultura de la igualdad entre mujeres y hombres;
-
-VII.- Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres para su empoderamiento y desarrollo integral a través de las diferentes manifestaciones culturales y artísticas;
-
-VIII.- Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia en los centros de promoción de la cultura o en los espacios donde se desarrollen las actividades culturales y artísticas; y
-
-IX.- Las demás que les señalen las disposiciones legales aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
@@ -1267,39 +1283,33 @@ XVII.- Notificar en su calidad de garante en materia de violencia de género, a 
 
 XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN QUINTA BIS 2. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+#### SECCIÓN QUINTA BIS 1. DE LA SECRETARÍA DE CULTURA
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
 
-ARTÍCULO 60 BIS 2.- La Secretaría de Seguridad Pública deberá:
+ARTICULO 60 BIS 1.- Corresponde a la Secretaría de Cultura:
 
 I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
 
-II.- Elaborar e implementar en coordinación con la Procuraduría, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+II.- Promover a través de los programas y actividades culturales, los derechos humanos de las mujeres;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+III.- Promover que las mujeres dispongan de espacios para el esparcimiento, juegos y actividades recreativas, y participen en la vida cultural y artística;
 
-III.- Capacitar al personal de las diferentes instancias policiales en materia de derechos humanos y perspectiva de género, así como generar mecanismos de prevención, detección y canalización de las mujeres víctima (sic) de violencia;
+IV.- Desarrollar con otras dependencias y entidades, encargadas de promover la cultura campañas para prevenir la violencia contra las mujeres;
 
-IV.- Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-V.- Diseñar la política integral para la prevención de delitos violentos contra las mujeres;
+V.- Podrá promover en coordinación con otras dependencias, programas culturales encaminados a la concientización de la violencia generada por el acoso sexual callejero, así como medidas para eliminarlo;
 
-VI.- Realizar en coordinación con el Instituto Colimense de las Mujeres, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
+VI.- Elaborar programas artísticos y culturales, que difundan y promuevan una cultura de la igualdad entre mujeres y hombres;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+VII.- Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres para su empoderamiento y desarrollo integral a través de las diferentes manifestaciones culturales y artísticas;
 
-VII.- Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
+VIII.- Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia en los centros de promoción de la cultura o en los espacios donde se desarrollen las actividades culturales y artísticas; y
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+IX.- Las demás que les señalen las disposiciones legales aplicables.
 
-VIII.- Brindar, en coordinación con la Secretaría de Salud y Bienestar Social, atención médica obstétrico-ginecológica y pediátrica, durante el embarazo, parto y puerperio a las mujeres recluidas en centros penitenciarios;
-
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
-
-IX.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
-
-X.- Las demás que les señalen las disposiciones legales aplicables.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
 ###### ARTÍCULO 60.
 
@@ -1377,13 +1387,45 @@ XXIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE ENERO DE 2013)</small>
 
+#### SECCIÓN QUINTA BIS 2. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+
+ARTÍCULO 60 BIS 2.- La Secretaría de Seguridad Pública deberá:
+
+I.- Fomentar y difundir en el ámbito de su competencia una cultura libre de conductas misóginas, de roles y lenguaje sexista que atentan contra la dignidad de las mujeres;
+
+II.- Elaborar e implementar en coordinación con la Procuraduría, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+III.- Capacitar al personal de las diferentes instancias policiales en materia de derechos humanos y perspectiva de género, así como generar mecanismos de prevención, detección y canalización de las mujeres víctima (sic) de violencia;
+
+IV.- Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
+
+V.- Diseñar la política integral para la prevención de delitos violentos contra las mujeres;
+
+VI.- Realizar en coordinación con el Instituto Colimense de las Mujeres, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+VII.- Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+VIII.- Brindar, en coordinación con la Secretaría de Salud y Bienestar Social, atención médica obstétrico-ginecológica y pediátrica, durante el embarazo, parto y puerperio a las mujeres recluidas en centros penitenciarios;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2019)</small>
+
+IX.- Informar de inmediato a la víctima cuando la persona generadora de violencia recupere su libertad, a fin de que esté en condiciones de tomar las medidas pertinentes; y
+
+X.- Las demás que les señalen las disposiciones legales aplicables.
+
 #### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
 #### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
 
 #### SECCIÓN OCTAVA. DEL INSTITUTO
-
-#### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
 
 ###### ARTÍCULO 61.
 
@@ -1447,7 +1489,7 @@ XVIII.- Informar de inmediato a la víctima cuando la persona generadora de viol
 
 XIX.- Las demás que les señalen las disposiciones legales aplicables.
 
-#### SECCIÓN DÉCIMA. DEL CEPAVI
+#### SECCIÓN NOVENA. DIF ESTATAL Y MUNICIPALES
 
 ###### ARTÍCULO 62.
 
@@ -1485,7 +1527,7 @@ XV.- Proporcionar a los cuerpos policiacos capacitación y formación en materia
 
 XVI.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
+#### SECCIÓN DÉCIMA. DEL CEPAVI
 
 ###### ARTÍCULO 63.
 
@@ -1535,7 +1577,7 @@ XVI.- Celebrar convenios de colaboración, coordinación y concertación en la m
 
 XVII.- Las demás previstas para el cumplimiento de esta Ley.
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
+#### SECCIÓN DÉCIMA PRIMERA. DE LOS ORGANISMOS, DEPENDENCIAS E INSTANCIAS
 
 ###### ARTÍCULO 64.
 
@@ -1583,9 +1625,7 @@ XX.- Celebrar convenios de colaboración, coordinación y concertación en la ma
 
 XXI.- Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
-#### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE ABRIL DE 2019)</small>
+#### SECCIÓN DÉCIMA SEGUNDA. DE LAS CORPORACIONES POLICIACAS
 
 ###### ARTÍCULO 65.
 
@@ -1605,13 +1645,15 @@ VI.- Proveer la ayuda necesaria a las diversas instancias que lo soliciten, para
 
 VII.- Las demás que se establecen en la Ley para la Prevención y Atención de la Violencia Intrafamiliar.
 
-#### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
+#### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE ABRIL DE 2019)</small>
 
 ###### ARTÍCULO 66.
 
 Los organismos, dependencias e instancias, en el ámbito Estatal y Municipal, harán cumplir las disposiciones de la presente Ley y demás disposiciones aplicables en la materia, buscando en todo la protección de los derechos humanos de la mujer.
 
-#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
+#### SECCIÓN PRIMERA. DE LOS MODELOS DE PREVENCIÓN
 
 ###### ARTÍCULO 67.
 
@@ -1621,7 +1663,7 @@ Las corporaciones policiacas preventivas del Estado, y de los Municipios cumplir
 
 También integrarán una base de datos que contenga todos los aspectos relacionados con la violencia en contra de las mujeres.
 
-#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
+#### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
 
 ###### ARTÍCULO 69.
 
@@ -1791,7 +1833,7 @@ III.- Inscribirse ante la Secretaría Ejecutiva del Sistema Estatal previo regis
 
 ### CAPÍTULO II. DE LOS MODELOS
 
-#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
+#### SECCIÓN TERCERA. DE LOS MODELOS DE SANCIÓN
 
 ###### ARTÍCULO 78.
 
@@ -1836,6 +1878,8 @@ Podrán beneficiarse de las medidas establecidas en la presente Ley, además de 
 ###### ARTÍCULO 79.
 
 Se integrará a los modelos de prevención, la identificación de riesgo y de factores protectores por cada uno de los tipos y Modalidades de Violencia a partir del impacto que genera en las mujeres. Sin perjuicio de las estrategias de difusión y visibilización de la violencia de género y sus consecuencias individuales y colectivas, así como la información de las instancias de atención en el Estado.
+
+#### SECCIÓN CUARTA. DE LOS MODELOS DE ERRADICACIÓN
 
 ###### ARTÍCULO 80.
 
@@ -2128,3 +2172,15 @@ P.O. 2 DE MAYO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Poder Ejecutivo del Estado contará con un plazo de noventa días naturales a partir de la entrada en vigor del presente Decreto, para que lleve a cabo las reformas reglamentarias que se deriven de este.
+
+P.O. 9 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 112.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMÁS, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, TAMBIÉN SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 9 DE JULIO DE 2022.
+
+> <small>[N. DE E. DE TRANSITORIO DEL “DECRETO NÚM. 113.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMÁS, SE REFORMA EL ARTÍCULO 17, PÁRRAFO TERCERO DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]</small>
+
+PRIMERO (SIC). El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
