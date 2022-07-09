@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-ejecutivo-y-de-la-administracion-151621"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2022-03-05"
+last_updated: "2022-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
 
 Ley publicada en el Suplemento Número 2 del Número 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -597,9 +597,17 @@ XXI. Impulsar y respaldar la adopción de acciones afirmativas ante situaciones 
 
 XXII. Participar en los sistemas, instancias y mecanismos previstos en las leyes en materia de igualdad de género y derechos de las mujeres y apoyar la política pública que se genere;
 
-XXIII. Coordinar y orientar las actividades del Sistema para el Desarrollo Integral de la Familia del Estado de Colima; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
 
-XXIV. Las demás que le atribuyan las leyes, reglamentos y disposiciones jurídicas aplicables, así como aquellas que le encomiende la persona titular del Poder Ejecutivo en la materia.
+XXIII. Coordinar y orientar las actividades del Sistema para el Desarrollo Integral de la Familia del Estado de Colima;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2022)</small>
+
+XXIV. Establecer programas, estrategias y medidas necesarias en combate al acoso sexual callejero, en coordinación con la Administración Pública Estatal y los municipios; y
+
+(REUBICADA, P.O. 9 DE JULIO DE 2022)
+
+XXV. Las demás que le atribuyan las leyes, reglamentos y disposiciones jurídicas aplicables, así como aquellas que le encomiende la persona titular del Poder Ejecutivo en la materia.
 
 2. En materia de desarrollo de las personas jóvenes:
 
@@ -789,7 +797,9 @@ XIII. Planear y proponer proyectos de construcción de obras de transporte, vial
 
 XIV. Instruir y ejecutar programas, proyectos, estrategias y acciones para fomentar el uso de la bicicleta como medio de transporte sustentable en el Estado, promoviendo la construcción de ciclovías o ciclopistas adecuadas y su equipamiento;
 
-XV. Promover e impulsar una cultura de seguridad en el transporte y de respeto al medio ambiente;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
+
+XV. Promover e impulsar una cultura de seguridad en el transporte y de respeto al medio ambiente, así como la cultura de la prevención del acoso sexual callejero ejercido en el transporte público.
 
 XVI. Adoptar los lineamientos, directrices y medidas técnicas para establecer los requisitos y características generales que debe tener la infraestructura y equipamiento vinculado a la prestación del servicio público de transporte, así como lo relativo a los dispositivos, señales, símbolos y marcas que deben contar los caminos, puentes y vialidades para garantizar la seguridad de las personas;
 
@@ -1418,3 +1428,9 @@ P.O. 5 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 64.- POR EL QUE SE REFORMA EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, ASIMISMO, SE REFORMAN LOS ARTÍCULOS TERCERO Y CUARTO DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 9 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 112.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMÁS, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, TAMBIÉN SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
