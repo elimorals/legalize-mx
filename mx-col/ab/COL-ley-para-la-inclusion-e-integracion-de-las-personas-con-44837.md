@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2022-06-25"
+last_updated: "2022-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INCLUSIÓN E INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -597,13 +597,15 @@ XIII. Todas aquellas acciones que en su momento se consideren necesarias para la
 
 Corresponderá a la Secretaría de Salud y Bienestar Social y al DIF Estatal a través de sus centros de atención otorgar la valoración y diagnóstico, misma que tendrá por objeto determinar las condiciones de salud físicas, psicológicas, familiares y sociales en que se encuentre la persona para proceder a la rehabilitación, también elaborará un registro estatal de personas con discapacidad, en base a la clasificación nacional de discapacidades, el cual remitirá trimestralmente al INCODIS quien otorgará un certificado de reconocimiento y clasificación de discapacidad. Asimismo, desde el momento que se detecte la discapacidad en una persona, deberá tener un historial clínico para otorgarle un seguimiento adecuado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2022)</small>
+
 ###### Artículo 17.
 
-La valoración deberá realizarse por especialistas acreditados o certificados debidamente, preferentemente en este orden:
+La valoración deberá realizarse por especialistas acreditados, certificados debidamente o capacitados para tal fin, preferentemente en este orden:
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
 
-I. Médica, la cual se realizará para determinar profesionalmente el tipo y grado de discapacidad, el tratamiento y rehabilitación requeridos, y la necesidad en su caso, de prótesis, órtesis u otros elementos funcionales, misma que deberá ser realizada por especialistas en medicina física y rehabilitación;
+I. Médica, la cual se realizará para determinar profesionalmente el tipo y grado de discapacidad, el tratamiento y rehabilitación requeridos, y la necesidad en su caso, de prótesis, órtesis u otros elementos funcionales, misma que deberá ser realizada por especialistas en medicina física y rehabilitación o médicos capacitados para tal fin;
 
 II. Psicológica, incluyendo análisis de personalidad;
 
@@ -1454,3 +1456,9 @@ P.O. 25 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. El Poder Ejecutivo del Estado, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto, realizará las adecuaciones reglamentarias correspondientes.
+
+P.O. 9 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 114.- POR EL QUE SE REFORMA EL ARTÍCULO 17, PÁRRAFO PRIMERO Y LA FRACCIÓN I, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
