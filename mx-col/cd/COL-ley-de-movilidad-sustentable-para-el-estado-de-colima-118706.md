@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2020-08-29"
+last_updated: "2022-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -241,265 +241,275 @@ Glosario
 
 I. Accesibilidad: A la capacidad de llegar en condiciones adecuadas a los lugares de residencia, trabajo, formación, asistencia sanitaria, interés social, prestación de servicios u ocio, desde el punto de vista de la calidad y disponibilidad de las infraestructuras, redes de movilidad y servicios de transporte;
 
-II. Agente de Seguridad Pública, Tránsito y Vialidad Municipal: A la persona competente o habilitada por la autoridad competente para cumplir y hacer cumplir las leyes y los reglamentos para el control del tránsito, y en caso de percatarse de una infracción, levantar boletas de infracción e imponer multas;
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE JULIO DE 2022)</small>
 
-III. Apeadero: Al espacio físico en donde permanecen momentáneamente estacionados los vehículos, mientras se desocupan las posiciones de ascenso y descenso al inicio del servicio y cuyo propósito es evitar la saturación de las bahías en los centros de transferencia modal o bases;
+II. El Acoso Sexual Callejero, es una forma de violencia unidireccional de connotación sexual ejercidas por una persona desconocida en el transporte público, espacios públicos y/o semipúblicos, generado un malestar en la víctima, manifestándose de manera enunciativa más no limitativa a través de las siguientes conductas:
 
-IV. Área de espera para bicicletas: A la zona marcada en el pavimento que permite a los ciclistas aguardar la luz verde del semáforo en una posición adelantada de tal forma que sean visibles a quienes conducen vehículos motorizados;
+a) Miradas lascivas, expresiones verbales, silbidos, sonidos obscenos, burlas sobre el cuerpo y/o comentarios inapropiados.
 
-V. Área de transferencia para el transporte: A los espacios destinados a la conexión entre los diversos modos de transporte que permiten un adecuado funcionamiento del tránsito peatonal y vehicular;
+b) Tocamientos, manoseos, rozamientos y/o exhibicionismo.
 
-VI. Auditoría de Movilidad: A la evaluación de las operaciones y procesos generados en el transporte de pasajeros, de carga y particular en sus distintas modalidades, para verificar el cumplimiento de la normatividad y de los parámetros de buenas prácticas de operación y servicio, con el objeto de definir e instrumentar las medidas preventivas y correctivas necesarias para proteger a los peatones, ciclistas y a las personas que usan el transporte público;
+c) Toma de fotografías y/o videograbaciones del cuerpo o alguna parte del cuerpo sin consentimiento.
 
-VII. Auditoría de seguridad vial: Al examen formal de un proyecto vial o de tránsito, existente o futuro o de cualquier proyecto que tenga influencia sobre una vía, en la cual un grupo de profesionales calificados informa del riesgo potencial de accidentes y el comportamiento de seguridad de dicho proyecto;
+III. Agente de Seguridad Pública, Tránsito y Vialidad Municipal: A la persona competente o habilitada por la autoridad competente para cumplir y hacer cumplir las leyes y los reglamentos para el control del tránsito, y en caso de percatarse de una infracción, levantar boletas de infracción e imponer multas;
 
-VIII. Autorización: Al acto administrativo mediante el cual se autoriza a organismos, entidades y órganos político administrativos, la prestación del servicio público de transporte, o a personas físicas o morales la incorporación de infraestructura, elementos o servicios a la vialidad, o bien, el uso y aprovechamiento de estos últimos;
+IV. Apeadero: Al espacio físico en donde permanecen momentáneamente estacionados los vehículos, mientras se desocupan las posiciones de ascenso y descenso al inicio del servicio y cuyo propósito es evitar la saturación de las bahías en los centros de transferencia modal o bases;
 
-IX. Autorregulación: Al esquema voluntario que le permite a las empresas llevar a cabo la verificación técnica de los vehículos de carga en sus diferentes modalidades;
+V. Área de espera para bicicletas: A la zona marcada en el pavimento que permite a los ciclistas aguardar la luz verde del semáforo en una posición adelantada de tal forma que sean visibles a quienes conducen vehículos motorizados;
 
-X. Ayudas técnicas: A los dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
+VI. Área de transferencia para el transporte: A los espacios destinados a la conexión entre los diversos modos de transporte que permiten un adecuado funcionamiento del tránsito peatonal y vehicular;
 
-XI. Banco de proyectos: A la plataforma informática que permite almacenar, actualizar y consultar documentos técnicos referentes a estudios y proyectos en materia de movilidad y seguridad vial;
+VII. Auditoría de Movilidad: A la evaluación de las operaciones y procesos generados en el transporte de pasajeros, de carga y particular en sus distintas modalidades, para verificar el cumplimiento de la normatividad y de los parámetros de buenas prácticas de operación y servicio, con el objeto de definir e instrumentar las medidas preventivas y correctivas necesarias para proteger a los peatones, ciclistas y a las personas que usan el transporte público;
 
-XII. Base de Servicio: Al espacio físico autorizado a los prestadores del servicio de transporte público de pasajeros o de carga en todas sus modalidades, para el ascenso, descenso, transferencia de usuarios, carga y descarga de mercancía y, en su caso, contratación del servicio;
+VIII. Auditoría de seguridad vial: Al examen formal de un proyecto vial o de tránsito, existente o futuro o de cualquier proyecto que tenga influencia sobre una vía, en la cual un grupo de profesionales calificados informa del riesgo potencial de accidentes y el comportamiento de seguridad de dicho proyecto;
 
-XIII. Bases de inicio y cierre de circuito: Al espacio destinado para que las unidades que prestan el servicio de transporte público de pasajeros urbano, suburbano y metropolitano inicien y concluyan una ruta;
+IX. Autorización: Al acto administrativo mediante el cual se autoriza a organismos, entidades y órganos político administrativos, la prestación del servicio público de transporte, o a personas físicas o morales la incorporación de infraestructura, elementos o servicios a la vialidad, o bien, el uso y aprovechamiento de estos últimos;
 
-XIV. Bicicleta: Al vehículo no motorizado de propulsión humana a través de pedales;
+X. Autorregulación: Al esquema voluntario que le permite a las empresas llevar a cabo la verificación técnica de los vehículos de carga en sus diferentes modalidades;
 
-XV. Bici-estacionamiento: Al espacio físico y/o mobiliario urbano utilizado para sujetar, resguardar y/o custodiar bicicletas por tiempo determinado;
+XI. Ayudas técnicas: A los dispositivos tecnológicos y materiales que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad;
 
-XVI. Centro de Capacitación para la Movilidad: Al Organismo facultado por la Secretaría de Movilidad a través de una concesión para participar en el proceso de educación vial a los usuarios de los modos de transporte;
+XII. Banco de proyectos: A la plataforma informática que permite almacenar, actualizar y consultar documentos técnicos referentes a estudios y proyectos en materia de movilidad y seguridad vial;
 
-XVII. Centro de Transferencia Modal: Al espacio físico con infraestructura y equipamiento auxiliar de transporte, que sirve de conexión a los usuarios entre dos o más rutas o modos de transporte;
+XIII. Base de Servicio: Al espacio físico autorizado a los prestadores del servicio de transporte público de pasajeros o de carga en todas sus modalidades, para el ascenso, descenso, transferencia de usuarios, carga y descarga de mercancía y, en su caso, contratación del servicio;
 
-XVIII. Centros de Control: A los Centros de Control, Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en la presente Ley;
+XIV. Bases de inicio y cierre de circuito: Al espacio destinado para que las unidades que prestan el servicio de transporte público de pasajeros urbano, suburbano y metropolitano inicien y concluyan una ruta;
 
-XIX. Ciclista: A la Persona que conduce un vehículo de tracción humana a través de pedales. Se considera ciclista también a aquellas personas que conducen bicicletas asistidas por motores eléctricos, siempre y cuando ésta desarrolle velocidades de hasta 25 kilómetros por hora. Los menores de doce años de edad a bordo de un vehículo no motorizado serán considerados peatones;
+XV. Bicicleta: Al vehículo no motorizado de propulsión humana a través de pedales;
 
-XX. Ciclovías o Ciclorutas: A los espacios destinados al tránsito de vehículos no motorizados, pueden ser de tipos exclusivas o compartidas, siempre con preferencia sobre vehículos motorizados. Se componen de vías, intersecciones, puentes, túneles y cualquier elemento de infraestructura vial o dispositivos para el control del tránsito que permitan a los usuarios desplazarse en forma segura, eficiente y cómoda, creando una red que obedezca la atención de la demanda existente y/o de puntos de origen-destino. Pueden ser urbanas, interurbanas o recreativas, bidireccionales o unidireccionales, según las condiciones imperantes en los espacios donde estén insertos. Además deben garantizar el acceso a los destinos en forma continua y sin requerir que el ciclista realice maniobras que pongan en riesgo su integridad o la de otras personas;
+XVI. Bici-estacionamiento: Al espacio físico y/o mobiliario urbano utilizado para sujetar, resguardar y/o custodiar bicicletas por tiempo determinado;
 
-XXI. Ciclotaxi o bicitaxi: Al Servicio Público de Transporte Individual de Pasajeros en Bicicleta Adaptada consistente en vehículo de propulsión humana a pedales que puede contar con motor eléctrico para asistir su tracción con el propósito de brindar el servicio público de transporte individual de pasajeros, constituido por una estructura que cuenta con asientos para quien conduce y los pasajeros, que podrá contar con remolque. De uso destinado específicamente en zonas de baja velocidad vehicular (zonas 30);
+XVII. Centro de Capacitación para la Movilidad: Al Organismo facultado por la Secretaría de Movilidad a través de una concesión para participar en el proceso de educación vial a los usuarios de los modos de transporte;
 
-XXII. Cierre de Circuito: A los espacios físicos permitidos en los que, sin realizar base, se efectúa el despacho de las unidades destinadas al servicio público de transporte de pasajeros y de carga, para iniciar o terminar su itinerario; incluye maniobras de ascenso y descenso y en el que se controla el intervalo de salidas entre una y otra unidad;
+XVIII. Centro de Transferencia Modal: Al espacio físico con infraestructura y equipamiento auxiliar de transporte, que sirve de conexión a los usuarios entre dos o más rutas o modos de transporte;
 
-XXIII. Complementariedad: A la característica del Sistema Integrado de Transporte Público, en el que los diversos servicios de transporte de personas se estructuran para generar una sola red que permita a los usuarios tener diversas opciones para sus desplazamientos, teniendo como base el Sistema de Transporte Público;
+XIX. Centros de Control: A los Centros de Control, Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en la presente Ley;
 
-XXIV. Concesión: Al acto administrativo por virtud del cual, el Ejecutivo del Estado, con auxilio de la Secretaría de Movilidad, confiere a una persona física o moral, de nacionalidad mexicana, con residencia en el Estado, la operación y explotación temporal del servicio público local de transporte de pasajeros o de carga, y de los servicios auxiliares mediante la utilización de vías y/o bienes del dominio público o privado del Estado, con excepción de las personas físicas o morales que presten el servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas.
+XX. Ciclista: A la Persona que conduce un vehículo de tracción humana a través de pedales. Se considera ciclista también a aquellas personas que conducen bicicletas asistidas por motores eléctricos, siempre y cuando ésta desarrolle velocidades de hasta 25 kilómetros por hora. Los menores de doce años de edad a bordo de un vehículo no motorizado serán considerados peatones;
 
-XXV. Concesionario: A la persona física o moral que es titular de una concesión otorgada por el Ejecutivo del Estado;
+XXI. Ciclovías o Ciclorutas: A los espacios destinados al tránsito de vehículos no motorizados, pueden ser de tipos exclusivas o compartidas, siempre con preferencia sobre vehículos motorizados. Se componen de vías, intersecciones, puentes, túneles y cualquier elemento de infraestructura vial o dispositivos para el control del tránsito que permitan a los usuarios desplazarse en forma segura, eficiente y cómoda, creando una red que obedezca la atención de la demanda existente y/o de puntos de origen-destino. Pueden ser urbanas, interurbanas o recreativas, bidireccionales o unidireccionales, según las condiciones imperantes en los espacios donde estén insertos. Además deben garantizar el acceso a los destinos en forma continua y sin requerir que el ciclista realice maniobras que pongan en riesgo su integridad o la de otras personas;
 
-XXVI. Conductor: A la persona que lleva el dominio del movimiento de un vehículo;
+XXII. Ciclotaxi o bicitaxi: Al Servicio Público de Transporte Individual de Pasajeros en Bicicleta Adaptada consistente en vehículo de propulsión humana a pedales que puede contar con motor eléctrico para asistir su tracción con el propósito de brindar el servicio público de transporte individual de pasajeros, constituido por una estructura que cuenta con asientos para quien conduce y los pasajeros, que podrá contar con remolque. De uso destinado específicamente en zonas de baja velocidad vehicular (zonas 30);
 
-XXVII. Conductor de servicio público: A la persona que lleva el dominio del movimiento de un vehículo destinado al servicio público y especial de transporte, contando con la capacitación y autorización técnica y legal para conducir a lo largo de la vía pública;
+XXIII. Cierre de Circuito: A los espacios físicos permitidos en los que, sin realizar base, se efectúa el despacho de las unidades destinadas al servicio público de transporte de pasajeros y de carga, para iniciar o terminar su itinerario; incluye maniobras de ascenso y descenso y en el que se controla el intervalo de salidas entre una y otra unidad;
 
-XXVIII. Congestionamiento vial: A la afectación de la vialidad por condición de un flujo vehicular que se ve saturado, debido generalmente al exceso de aforo de las vías comúnmente en las horas de máxima demanda, o que dicho volumen excesivo de vehículos, se deba a alguna causa humana o natural, que impide la circulación normal de los vehículos, ocasionando la concentración de un número considerable de éstos a la vez, en un espacio determinado, produciendo incrementos en los tiempos de viaje, recorridos y consumo excesivo de combustible;
+XXIV. Complementariedad: A la característica del Sistema Integrado de Transporte Público, en el que los diversos servicios de transporte de personas se estructuran para generar una sola red que permita a los usuarios tener diversas opciones para sus desplazamientos, teniendo como base el Sistema de Transporte Público;
 
-XXIX. Corredor de Transporte: Al Corredor vial con características geométricas suficientes para permitir la operación de un sistema de transporte público de pasajeros semi-masivo o de alta capacidad; con operación regulada, controlada y con un recaudo centralizado, que opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados, que cuenta con paradas predeterminadas y con una infraestructura para el ascenso y descenso de pasajeros, estaciones ubicadas a lo largo del recorrido, con terminales en su origen y destino, con una organización para la prestación del servicio como personas morales;
+XXV. Concesión: Al acto administrativo por virtud del cual, el Ejecutivo del Estado, con auxilio de la Secretaría de Movilidad, confiere a una persona física o moral, de nacionalidad mexicana, con residencia en el Estado, la operación y explotación temporal del servicio público local de transporte de pasajeros o de carga, y de los servicios auxiliares mediante la utilización de vías y/o bienes del dominio público o privado del Estado, con excepción de las personas físicas o morales que presten el servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas.
 
-XXX. Costo social del transporte: A los efectos externos o conjunto de costos que el Sistema de Transporte no integra en sus precios de funcionamiento, compuestos por los costos de la congestión y de la contaminación atmosférica y acústica, y por los derivados de los siniestros y sus consecuencias, del uso del espacio público, del uso de la energía, de los recursos consumidos para la fabricación y disposición de un modo mecanizado de transporte y del impacto indirecto sobre el territorio y la biodiversidad;
+XXVI. Concesionario: A la persona física o moral que es titular de una concesión otorgada por el Ejecutivo del Estado;
 
-XXXI. Cotitularidad: Es la existencia de dos o más titulares de una misma concesión individual;
+XXVII. Conductor: A la persona que lleva el dominio del movimiento de un vehículo;
 
-XXXII. Delegado o su equivalente: Al funcionario público que tiene a su cargo la operación de alguna de las delegaciones estatales de la Secretaría;
+XXVIII. Conductor de servicio público: A la persona que lleva el dominio del movimiento de un vehículo destinado al servicio público y especial de transporte, contando con la capacitación y autorización técnica y legal para conducir a lo largo de la vía pública;
 
-XXXIII. Desplazamiento: Al itinerario, con origen y destino definidos, en el que se utilizan uno o varios medios de transporte y que se puede dividir en una o varias etapas;
+XXIX. Congestionamiento vial: A la afectación de la vialidad por condición de un flujo vehicular que se ve saturado, debido generalmente al exceso de aforo de las vías comúnmente en las horas de máxima demanda, o que dicho volumen excesivo de vehículos, se deba a alguna causa humana o natural, que impide la circulación normal de los vehículos, ocasionando la concentración de un número considerable de éstos a la vez, en un espacio determinado, produciendo incrementos en los tiempos de viaje, recorridos y consumo excesivo de combustible;
 
-XXXIV. Dictamen: Al resultado de la evaluación técnico-jurídica emitida por la autoridad competente, respecto de un asunto sometido a su análisis;
+XXX. Corredor de Transporte: Al Corredor vial con características geométricas suficientes para permitir la operación de un sistema de transporte público de pasajeros semi-masivo o de alta capacidad; con operación regulada, controlada y con un recaudo centralizado, que opera de manera exclusiva en una vialidad con carriles reservados para el transporte público, total o parcialmente confinados, que cuenta con paradas predeterminadas y con una infraestructura para el ascenso y descenso de pasajeros, estaciones ubicadas a lo largo del recorrido, con terminales en su origen y destino, con una organización para la prestación del servicio como personas morales;
 
-XXXV. Diseño Universal: Al diseño de productos, entornos, programas y servicios que pueda (sic) utilizar todas las personas en la mayor medida posible sin necesidad de adaptación ni diseño especializado, dicho diseño no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesite. Esta condición será esencial para el diseño de las vialidades y los servicios de transporte público con el fin de permitir su fácil uso y aprovechamiento por parte de las personas, independientemente de sus condiciones;
+XXXI. Costo social del transporte: A los efectos externos o conjunto de costos que el Sistema de Transporte no integra en sus precios de funcionamiento, compuestos por los costos de la congestión y de la contaminación atmosférica y acústica, y por los derivados de los siniestros y sus consecuencias, del uso del espacio público, del uso de la energía, de los recursos consumidos para la fabricación y disposición de un modo mecanizado de transporte y del impacto indirecto sobre el territorio y la biodiversidad;
 
-XXXVI. Dispositivo de movilidad asistida: Al elemento que permite el desplazamiento de personas con alguna discapacidad o con movilidad limitada, tales como sillas de ruedas, sillas de ruedas motorizadas con velocidades máximas de 10 km/h, andaderas, bastones y perros guía;
+XXXII. Cotitularidad: Es la existencia de dos o más titulares de una misma concesión individual;
 
-XXXVII. Dispositivos para el Control del Tránsito: Al conjunto de elementos que procuran el ordenamiento de los movimientos del tránsito; previenen y proporcionan información a los usuarios de la vía para garantizar su seguridad, permitiendo una operación efectiva del flujo peatonal y vehicular;
+XXXIII. Delegado o su equivalente: Al funcionario público que tiene a su cargo la operación de alguna de las delegaciones estatales de la Secretaría;
 
-XXXVIII. Educación Vial: Al proceso permanente de carácter interdisciplinario, orientado a la formación de la población para que reconozca valores, aclare conceptos y desarrolle las habilidades y actitudes necesarias para una convivencia armónica entre seres humanos, su cultura y su medio circundante;
+XXXIV. Desplazamiento: Al itinerario, con origen y destino definidos, en el que se utilizan uno o varios medios de transporte y que se puede dividir en una o varias etapas;
 
-XXXIX. Ejecutivo del Estado: Al Titular del Poder Ejecutivo del Estado;
+XXXV. Dictamen: Al resultado de la evaluación técnico-jurídica emitida por la autoridad competente, respecto de un asunto sometido a su análisis;
 
-XL. Equipamiento Auxiliar de Transporte: A los Accesorios directos e indirectos que resulten complementarios a la prestación del servicio público de transporte de pasajeros y de carga, que sean susceptibles de permiso por parte de la Secretaría de Movilidad;
+XXXVI. Diseño Universal: Al diseño de productos, entornos, programas y servicios que pueda (sic) utilizar todas las personas en la mayor medida posible sin necesidad de adaptación ni diseño especializado, dicho diseño no excluirá las ayudas técnicas para grupos particulares de personas con discapacidad cuando se necesite. Esta condición será esencial para el diseño de las vialidades y los servicios de transporte público con el fin de permitir su fácil uso y aprovechamiento por parte de las personas, independientemente de sus condiciones;
 
-XLI. Estación terminal de vehículos de transporte: Al lugar en donde se efectúa la salida y llegada de las unidades para el ascenso y descenso de pasajeros, tratándose de transporte de carga en general o especializada o de materiales para la construcción, en las que se efectúa la recepción, almacenamiento y despacho de bienes, el acceso, estacionamiento y la salida de los vehículos destinados a este servicio;
+XXXVII. Dispositivo de movilidad asistida: Al elemento que permite el desplazamiento de personas con alguna discapacidad o con movilidad limitada, tales como sillas de ruedas, sillas de ruedas motorizadas con velocidades máximas de 10 km/h, andaderas, bastones y perros guía;
 
-XLII. Estacionamiento: Al espacio físico o lugar utilizado para custodia y/o resguardo de un vehículo por tiempo determinado;
+XXXVIII. Dispositivos para el Control del Tránsito: Al conjunto de elementos que procuran el ordenamiento de los movimientos del tránsito; previenen y proporcionan información a los usuarios de la vía para garantizar su seguridad, permitiendo una operación efectiva del flujo peatonal y vehicular;
 
-XLIII. Estacionamiento en vía pública: Al espacio físico habilitado en la vialidad, que permite el alojamiento de los vehículos bajo responsabilidad propia de quien conduce por su custodia; cuando así lo disponga la autoridad se realizará el pago de una tarifa, donde el cobro será a través de dispositivos o instrumentos que se determinen para tal efecto;
+XXXIX. Educación Vial: Al proceso permanente de carácter interdisciplinario, orientado a la formación de la población para que reconozca valores, aclare conceptos y desarrolle las habilidades y actitudes necesarias para una convivencia armónica entre seres humanos, su cultura y su medio circundante;
 
-XLIV. Estacionamiento Privado: Al espacio físico por virtud del cual, se satisfacen las necesidades de estacionamiento propias para el resguardo y custodia de vehículos, o para satisfacer las necesidades de instituciones o empresas, siendo el servicio gratuito;
+XL. Ejecutivo del Estado: Al Titular del Poder Ejecutivo del Estado;
 
-XLV. Estacionamiento Público: Al espacio físico por virtud del cual se satisfacen las necesidades del público en general para el resguardo y custodia de sus vehículos, mediante el pago de una tarifa;
+XLI. Equipamiento Auxiliar de Transporte: A los Accesorios directos e indirectos que resulten complementarios a la prestación del servicio público de transporte de pasajeros y de carga, que sean susceptibles de permiso por parte de la Secretaría de Movilidad;
 
-XLVI. Externalidades: A los efectos indirectos que generan los desplazamientos de personas y bienes y que no se reflejan en los costos de los mismos. Los impactos positivos o negativos pueden afectar tanto aquellos que realizan el viaje como a la sociedad en su conjunto;
+XLII. Estación terminal de vehículos de transporte: Al lugar en donde se efectúa la salida y llegada de las unidades para el ascenso y descenso de pasajeros, tratándose de transporte de carga en general o especializada o de materiales para la construcción, en las que se efectúa la recepción, almacenamiento y despacho de bienes, el acceso, estacionamiento y la salida de los vehículos destinados a este servicio;
 
-XLVII. Funcionalidad de la vía pública: Al uso adecuado y eficiente de la vía pública, generado a través de la interacción de los elementos que la conforman y de la dinámica propia que en ella se desarrolla, para la óptima prestación de los servicios públicos urbanos, la movilidad y la imagen urbana, procurando la seguridad, comodidad y disfrute de todas las personas usuarias;
+XLIII. Estacionamiento: Al espacio físico o lugar utilizado para custodia y/o resguardo de un vehículo por tiempo determinado;
 
-XLVIII. Gafete de Chofer de Servicio Público: Al documento oficial que contiene los datos de quien conduce un vehículo de transporte de pasajeros en sus distintas modalidades que permite la conducción de un vehículo de esa naturaleza en el territorio del Estado;
+XLIV. Estacionamiento en vía pública: Al espacio físico habilitado en la vialidad, que permite el alojamiento de los vehículos bajo responsabilidad propia de quien conduce por su custodia; cuando así lo disponga la autoridad se realizará el pago de una tarifa, donde el cobro será a través de dispositivos o instrumentos que se determinen para tal efecto;
+
+XLV. Estacionamiento Privado: Al espacio físico por virtud del cual, se satisfacen las necesidades de estacionamiento propias para el resguardo y custodia de vehículos, o para satisfacer las necesidades de instituciones o empresas, siendo el servicio gratuito;
+
+XLVI. Estacionamiento Público: Al espacio físico por virtud del cual se satisfacen las necesidades del público en general para el resguardo y custodia de sus vehículos, mediante el pago de una tarifa;
+
+XLVII. Externalidades: A los efectos indirectos que generan los desplazamientos de personas y bienes y que no se reflejan en los costos de los mismos. Los impactos positivos o negativos pueden afectar tanto aquellos que realizan el viaje como a la sociedad en su conjunto;
+
+XLVIII. Funcionalidad de la vía pública: Al uso adecuado y eficiente de la vía pública, generado a través de la interacción de los elementos que la conforman y de la dinámica propia que en ella se desarrolla, para la óptima prestación de los servicios públicos urbanos, la movilidad y la imagen urbana, procurando la seguridad, comodidad y disfrute de todas las personas usuarias;
+
+XLIX. Gafete de Chofer de Servicio Público: Al documento oficial que contiene los datos de quien conduce un vehículo de transporte de pasajeros en sus distintas modalidades que permite la conducción de un vehículo de esa naturaleza en el territorio del Estado;
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-XLIX. Grupo Vulnerable: A los sectores de la población que por cierta característica puedan encontrar barreras para ejercer su derecho a la movilidad, tales como población de bajos ingresos, indígenas, personas con discapacidad, adultos mayores, mujeres en estado de gestación, y población infantil y demás personas que por su condición particular padezcan exclusión social;
+L. Grupo Vulnerable: A los sectores de la población que por cierta característica puedan encontrar barreras para ejercer su derecho a la movilidad, tales como población de bajos ingresos, indígenas, personas con discapacidad, adultos mayores, mujeres en estado de gestación, y población infantil y demás personas que por su condición particular padezcan exclusión social;
 
-L. Hecho de tránsito: Al evento producido por el tránsito vehicular, en el que interviene por lo menos un vehículo, causando lesiones o muerte de personas y/o daños materiales;
+LI. Hecho de tránsito: Al evento producido por el tránsito vehicular, en el que interviene por lo menos un vehículo, causando lesiones o muerte de personas y/o daños materiales;
 
-LI. Horario: A la autorización respecto del inicio y terminación de la prestación del servicio de transporte público, así como, en su caso, el señalamiento de la hora de arribo, continuación y terminación de las unidades en cada paradero o checadero;
+LII. Horario: A la autorización respecto del inicio y terminación de la prestación del servicio de transporte público, así como, en su caso, el señalamiento de la hora de arribo, continuación y terminación de las unidades en cada paradero o checadero;
 
-LII. Impacto de movilidad: A la influencia o alteración en los desplazamientos de personas y bienes que causa una obra privada en el entorno en el que se ubica;
+LIII. Impacto de movilidad: A la influencia o alteración en los desplazamientos de personas y bienes que causa una obra privada en el entorno en el que se ubica;
 
-LIII. Infracción: A la conducta que transgrede alguna disposición de la presente Ley, sus (sic) reglamento o demás disposiciones normativas aplicables y que tiene como consecuencia una sanción administrativa;
+LIV. Infracción: A la conducta que transgrede alguna disposición de la presente Ley, sus (sic) reglamento o demás disposiciones normativas aplicables y que tiene como consecuencia una sanción administrativa;
 
-LIV. Infraestructura Vial: A los conjuntos de elementos con que cuenta la vialidad y que constituyen los nexos o soportes de la movilidad y la accesibilidad, que tienen una finalidad de beneficio general, y su mejor funcionamiento e imagen urbana, que permite el desplazamiento de personas y bienes, así como el funcionamiento de los sistemas de transporte público;
+LV. Infraestructura Vial: A los conjuntos de elementos con que cuenta la vialidad y que constituyen los nexos o soportes de la movilidad y la accesibilidad, que tienen una finalidad de beneficio general, y su mejor funcionamiento e imagen urbana, que permite el desplazamiento de personas y bienes, así como el funcionamiento de los sistemas de transporte público;
 
-LV. Itinerario o Ruta: Al recorrido o trayecto que deben realizan las unidades de transporte público de pasajeros dentro de las vías públicas del Estado, entre puntos extremos e intermedios que fija la concesión o permiso;
+LVI. Itinerario o Ruta: Al recorrido o trayecto que deben realizan las unidades de transporte público de pasajeros dentro de las vías públicas del Estado, entre puntos extremos e intermedios que fija la concesión o permiso;
 
-LVI. Ley: A la Ley de Movilidad Sustentable para el Estado de Colima;
+LVII. Ley: A la Ley de Movilidad Sustentable para el Estado de Colima;
 
-LVII. Licencia de Conducir: Al documento oficial que contiene los datos de quien conduce un vehículo particular y que avala sus condiciones psicofísicas y aptitudes para conducir;
+LVIII. Licencia de Conducir: Al documento oficial que contiene los datos de quien conduce un vehículo particular y que avala sus condiciones psicofísicas y aptitudes para conducir;
 
-LVIII. Manifestación: A la concentración humana generalmente al aire libre, incluyéndose en esta la marcha y plantón;
+LIX. Manifestación: A la concentración humana generalmente al aire libre, incluyéndose en esta la marcha y plantón;
 
-LIX. Medio de transporte: Al conjunto de técnicas, instrumentos y dispositivos de características homogéneas en cuanto a la tecnología que se utilizan para el transporte de personas o bienes;
+LX. Medio de transporte: Al conjunto de técnicas, instrumentos y dispositivos de características homogéneas en cuanto a la tecnología que se utilizan para el transporte de personas o bienes;
 
-LX. Monto de Recaudo: A la tarifa que pagan las personas en general por la prestación del Servicio de Transporte Público de Pasajeros en el Estado;
+LXI. Monto de Recaudo: A la tarifa que pagan las personas en general por la prestación del Servicio de Transporte Público de Pasajeros en el Estado;
 
-LXI. Motocicleta: Al vehículo motorizado que utiliza manubrio para su conducción, con dos o más ruedas, que está equipado con motor eléctrico o de combustión interna, que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular;
+LXII. Motocicleta: Al vehículo motorizado que utiliza manubrio para su conducción, con dos o más ruedas, que está equipado con motor eléctrico o de combustión interna, que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular;
 
-LXII. Motociclista: A toda persona que conduce y se traslada de un lugar a otro a bordo (sic) de una motocicleta en cualquier (sic) de sus modalidades: motoneta, bicimoto, minimotos, motociclos, mototriciclo o cuatrimoto;
+LXIII. Motociclista: A toda persona que conduce y se traslada de un lugar a otro a bordo (sic) de una motocicleta en cualquier (sic) de sus modalidades: motoneta, bicimoto, minimotos, motociclos, mototriciclo o cuatrimoto;
 
-LXIII. Movilidad: Al conjunto de desplazamientos de las personas y los bienes a través de diversos modos y que deben hacerse por motivo laboral, formativo, sanitario, social, cultural, de ocio, o cualquier otro tipo;
+LXIV. Movilidad: Al conjunto de desplazamientos de las personas y los bienes a través de diversos modos y que deben hacerse por motivo laboral, formativo, sanitario, social, cultural, de ocio, o cualquier otro tipo;
 
-LXIV. Movilidad no motorizada: Al desplazamiento realizado a pie o a través de vehículos no motorizados;
+LXV. Movilidad no motorizada: Al desplazamiento realizado a pie o a través de vehículos no motorizados;
 
-LXV. Movilidad sostenible: A la movilidad que se satisface en un tiempo y con un costo razonable y que minimiza los efectos negativos sobre el entorno y la calidad de vida de las personas;
+LXVI. Movilidad sostenible: A la movilidad que se satisface en un tiempo y con un costo razonable y que minimiza los efectos negativos sobre el entorno y la calidad de vida de las personas;
 
-LXVI. Movilidad urbana: Al conjunto de desplazamientos de personas y bienes que se realizan para acceder a las oportunidades que ofrece la ciudad. Estos desplazamientos se efectúan mediante redes de comunicación y vehículos en el entorno urbano;
+LXVII. Movilidad urbana: Al conjunto de desplazamientos de personas y bienes que se realizan para acceder a las oportunidades que ofrece la ciudad. Estos desplazamientos se efectúan mediante redes de comunicación y vehículos en el entorno urbano;
 
-LXVII. Nomenclatura: Al conjunto de elementos y objetos visuales que se colocan en la vialidad para indicar los nombres de las colonias, pueblos, barrios, vías y espacios públicos de la Ciudad, con el propósito de su identificación;
+LXVIII. Nomenclatura: Al conjunto de elementos y objetos visuales que se colocan en la vialidad para indicar los nombres de las colonias, pueblos, barrios, vías y espacios públicos de la Ciudad, con el propósito de su identificación;
 
-LXVIII. Ordenamiento vial: A la regulación ambiental obligatoria respecto de los usos del suelo fuera del suelo urbano, del manejo de los recursos naturales y la realización de actividades para el suelo de conservación y barrancas integradas a los programas de desarrollo urbano;
+LXIX. Ordenamiento vial: A la regulación ambiental obligatoria respecto de los usos del suelo fuera del suelo urbano, del manejo de los recursos naturales y la realización de actividades para el suelo de conservación y barrancas integradas a los programas de desarrollo urbano;
 
-LXIX. Parque vehicular: Al conjunto de unidades vehiculares destinados a la prestación de servicios de transporte;
+LXX. Parque vehicular: Al conjunto de unidades vehiculares destinados a la prestación de servicios de transporte;
 
-LXX. Particular: A la persona física o moral que al amparo del registro correspondiente ante la Secretaría de Movilidad, satisface sus necesidades de transporte de pasajeros o de carga, siempre que tengan como fin, el desarrollo de sus actividades personales o el cumplimiento de su objeto social;
+LXXI. Particular: A la persona física o moral que al amparo del registro correspondiente ante la Secretaría de Movilidad, satisface sus necesidades de transporte de pasajeros o de carga, siempre que tengan como fin, el desarrollo de sus actividades personales o el cumplimiento de su objeto social;
 
-LXXI. Peatón: A la persona que transita por la vialidad a pie y/o que utiliza un dispositivo de movilidad asistida por su condición de movilidad limitada, así como en patines, patineta u otros vehículos recreativos;
+LXXII. Peatón: A la persona que transita por la vialidad a pie y/o que utiliza un dispositivo de movilidad asistida por su condición de movilidad limitada, así como en patines, patineta u otros vehículos recreativos;
 
-LXXII. Permisionario: A la persona física o moral que al amparo de un permiso otorgado por la Secretaría de Movilidad, realiza la prestación temporal del servicio público, privado, mercantil o particular de transporte de pasajeros o de carga, sujetándose a las disposiciones de la presente Ley;
+LXXIII. Permisionario: A la persona física o moral que al amparo de un permiso otorgado por la Secretaría de Movilidad, realiza la prestación temporal del servicio público, privado, mercantil o particular de transporte de pasajeros o de carga, sujetándose a las disposiciones de la presente Ley;
 
-LXXIII. Permiso: Al acto administrativo por virtud del cual, la Secretaría de Movilidad confiere a una persona física o moral la prestación temporal del servicio de transporte público, privado, mercantil y privado de pasajeros o de carga; así como la autorización temporal para la instalación y funcionamiento de sitios, bases de servicio y lanzaderas de transporte público y privado de pasajeros.
+LXXIV. Permiso: Al acto administrativo por virtud del cual, la Secretaría de Movilidad confiere a una persona física o moral la prestación temporal del servicio de transporte público, privado, mercantil y privado de pasajeros o de carga; así como la autorización temporal para la instalación y funcionamiento de sitios, bases de servicio y lanzaderas de transporte público y privado de pasajeros.
 
 Los permisos determinarán las condiciones a la que habrá de sujetarse la operación y funcionamiento de cada una de las modalidades de servicio, conforme lo refiere la presente Ley.
 
 El otorgamiento de un permiso, no implica preferencia ni exclusividad en la explotación del servicio, no crean derechos reales y conceden exclusivamente a sus titulares en forma temporal y condicionada el derecho de uso, aprovechamiento, explotación del servicio de acuerdo a la normatividad aplicable;
 
-LXXIV. Permiso para conducir: Al documento que concede la Secretaría de Movilidad a una persona física mayor de dieciséis y menor de dieciocho años de edad, que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en esta Ley y demás ordenamientos jurídicos y administrativos aplicables;
+LXXV. Permiso para conducir: Al documento que concede la Secretaría de Movilidad a una persona física mayor de dieciséis y menor de dieciocho años de edad, que lo autoriza para conducir un vehículo motorizado, previo cumplimiento de los requisitos establecidos en esta Ley y demás ordenamientos jurídicos y administrativos aplicables;
 
-LXXV. Persona con discapacidad: A la persona que padece temporal o permanentemente una disminución en sus facultades físicas, mentales o sensoriales;
+LXXVI. Persona con discapacidad: A la persona que padece temporal o permanentemente una disminución en sus facultades físicas, mentales o sensoriales;
 
-LXXVI. Personal de apoyo vial: Al elemento de la Secretaría de Movilidad responsable de brindar información vial, prestar apoyos a peatones y las personas que conducen vehículos, así como promover la cultura vial y auxiliar en contingencias causadas por accidentes o eventos públicos masivos;
+LXXVII. Personal de apoyo vial: Al elemento de la Secretaría de Movilidad responsable de brindar información vial, prestar apoyos a peatones y las personas que conducen vehículos, así como promover la cultura vial y auxiliar en contingencias causadas por accidentes o eventos públicos masivos;
 
-LXXVII. Personas con movilidad limitada: A las personas que de forma temporal o permanentemente, debido a enfermedad, edad, accidente o alguna otra condición, realizan un desplazamiento lento, difícil o desequilibrado. Incluye a población infantil, mujeres en periodo de gestación, personas adultas mayores, personas adultas que transitan con infantes, personas con discapacidad, personas con equipaje o paquetes;
+LXXVIII. Personas con movilidad limitada: A las personas que de forma temporal o permanentemente, debido a enfermedad, edad, accidente o alguna otra condición, realizan un desplazamiento lento, difícil o desequilibrado. Incluye a población infantil, mujeres en periodo de gestación, personas adultas mayores, personas adultas que transitan con infantes, personas con discapacidad, personas con equipaje o paquetes;
 
-LXXVIII. Política Pública: Al conjunto de estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el bienestar y calidad de vida para la sociedad;
+LXXIX. Política Pública: Al conjunto de estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el bienestar y calidad de vida para la sociedad;
 
-LXXIX. Práctica discriminatoria: A cualquier acto u omisión cometido por un servidor público, o institución pública de cualquier orden de gobierno que tienda a impedir el acceso y disfrute de las personas a las acciones o programas de movilidad y transporte de bienes;
+LXXX. Práctica discriminatoria: A cualquier acto u omisión cometido por un servidor público, o institución pública de cualquier orden de gobierno que tienda a impedir el acceso y disfrute de las personas a las acciones o programas de movilidad y transporte de bienes;
 
-LXXX. Promotor voluntario: Al ciudadano capacitado por la Secretaría que colabora a regular el tránsito en las inmediaciones de centros educativos para garantizar la seguridad vial de los escolares;
+LXXXI. Promotor voluntario: Al ciudadano capacitado por la Secretaría que colabora a regular el tránsito en las inmediaciones de centros educativos para garantizar la seguridad vial de los escolares;
 
-LXXXI. Promovente: A la persona física o moral, con personalidad jurídica, que solicita autorización del impacto de movilidad, y que somete a consideración de la Secretaría de Movilidad las solicitudes de factibilidad de movilidad, informe preventivo y las manifestaciones de impacto de movilidad que correspondan;
+LXXXII. Promovente: A la persona física o moral, con personalidad jurídica, que solicita autorización del impacto de movilidad, y que somete a consideración de la Secretaría de Movilidad las solicitudes de factibilidad de movilidad, informe preventivo y las manifestaciones de impacto de movilidad que correspondan;
 
-LXXXII. Redes de acceso a la gestión de la demanda: A los servicios que facilitan el acceso y vinculación entre la oferta y demanda para gestionar los comportamientos de viaje y aumentar la eficiencia de los sistemas de movilidad;
+LXXXIII. Redes de acceso a la gestión de la demanda: A los servicios que facilitan el acceso y vinculación entre la oferta y demanda para gestionar los comportamientos de viaje y aumentar la eficiencia de los sistemas de movilidad;
 
-LXXXIII. Registro: Al acto administrativo mediante el cual la Secretaría de Movilidad inscribe la situación jurídica de los vehículos, los titulares y el transporte local de pasajeros y carga que llevan a cabo las personas físicas o morales, así como los actos jurídicos que conforme a la presente ley deban registrarse;
+LXXXIV. Registro: Al acto administrativo mediante el cual la Secretaría de Movilidad inscribe la situación jurídica de los vehículos, los titulares y el transporte local de pasajeros y carga que llevan a cabo las personas físicas o morales, así como los actos jurídicos que conforme a la presente ley deban registrarse;
 
-LXXXIV. Reglamento o reglamentos: Al o los reglamentos que se deriven de la presente Ley;
+LXXXV. Reglamento o reglamentos: Al o los reglamentos que se deriven de la presente Ley;
 
-LXXXV. Reglamento de capacidades: Al reglamento sobre el peso, dimensiones y capacidad de los vehículos de autotransporte que transitan en las vialidades del Estado;
+LXXXVI. Reglamento de capacidades: Al reglamento sobre el peso, dimensiones y capacidad de los vehículos de autotransporte que transitan en las vialidades del Estado;
 
-LXXXVI. Reincidencia: A la comisión de dos o más infracciones establecidas en la presente Ley o sus reglamentos, en un periodo no mayor de seis meses;
+LXXXVII. Reincidencia: A la comisión de dos o más infracciones establecidas en la presente Ley o sus reglamentos, en un periodo no mayor de seis meses;
 
-LXXXVII. Remolque: Al vehículo no dotado de medios de propulsión y destinado a ser llevado por otro vehículo. Para efectos de esta Ley, los remolques y casas rodantes que dependan de un vehículo motorizado serán registrados como vehículos independientes;
+LXXXVIII. Remolque: Al vehículo no dotado de medios de propulsión y destinado a ser llevado por otro vehículo. Para efectos de esta Ley, los remolques y casas rodantes que dependan de un vehículo motorizado serán registrados como vehículos independientes;
 
-LXXXVIII. Revista vehicular: A la revisión documental y la inspección física y mecánica de las unidades, equipamiento auxiliar de las unidades de transporte público y privado de pasajeros y carga, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, seguridad, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
+LXXXIX. Revista vehicular: A la revisión documental y la inspección física y mecánica de las unidades, equipamiento auxiliar de las unidades de transporte público y privado de pasajeros y carga, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, seguridad, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio;
 
-LXXXIX. Secretaría: A la Secretaría de Movilidad del Gobierno del Estado;
+XC. Secretaría: A la Secretaría de Movilidad del Gobierno del Estado;
 
-XC. Secretariado Ejecutivo: Al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
+XCI. Secretariado Ejecutivo: Al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
-XCI. Secretario: Al titular de la Secretaría;
+XCII. Secretario: Al titular de la Secretaría;
 
-XCII. Seguridad Vial: Al conjunto de políticas y sistemas orientados a la prevención de hechos de tránsito;
+XCIII. Seguridad Vial: Al conjunto de políticas y sistemas orientados a la prevención de hechos de tránsito;
 
-XCIII. Señalamiento horizontal: A los elementos visuales como rayas, símbolos y letras que se aplican sobre la superficie de rodamiento o en obstáculos adyacentes a la misma, de carácter permanente y a base de pintura;
+XCIV. Señalamiento horizontal: A los elementos visuales como rayas, símbolos y letras que se aplican sobre la superficie de rodamiento o en obstáculos adyacentes a la misma, de carácter permanente y a base de pintura;
 
-XCIV. Señalamiento vertical: A los elementos visuales que mediante símbolos, leyendas o ambas, tiene por objeto prevenir a las personas sobre la existencia de situaciones de alerta, determinadas restricciones o prohibiciones que limiten su circulación sobre la vialidad, regulaciones sobre la superficie de rodamiento, así como proporcionarles la información necesaria para facilitar sus desplazamientos;
+XCV. Señalamiento vertical: A los elementos visuales que mediante símbolos, leyendas o ambas, tiene por objeto prevenir a las personas sobre la existencia de situaciones de alerta, determinadas restricciones o prohibiciones que limiten su circulación sobre la vialidad, regulaciones sobre la superficie de rodamiento, así como proporcionarles la información necesaria para facilitar sus desplazamientos;
 
-XCV. Señalización Vial: Al conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter que se colocan en la vialidad;
+XCVI. Señalización Vial: Al conjunto de elementos y objetos visuales de contenido informativo, indicativo, restrictivo, preventivo, prohibitivo o de cualquier otro carácter que se colocan en la vialidad;
 
-XCVI. Servicio de Transporte Público: A la actividad a través de la cual, el Ejecutivo del Estado, satisface las necesidades de transporte de pasajeros o carga en todas sus modalidades, por si, o a través de entidades, mediante el otorgamiento de concesiones o permisos en los casos que establece la presente Ley y que se ofrece en forma continua, uniforme, regular, permanente e ininterrumpida a persona indeterminada o al público en general, mediante diversos medios;
+XCVII. Servicio de Transporte Público: A la actividad a través de la cual, el Ejecutivo del Estado, satisface las necesidades de transporte de pasajeros o carga en todas sus modalidades, por si, o a través de entidades, mediante el otorgamiento de concesiones o permisos en los casos que establece la presente Ley y que se ofrece en forma continua, uniforme, regular, permanente e ininterrumpida a persona indeterminada o al público en general, mediante diversos medios;
 
-XCVII. Servicio Privado o Particular de Transporte: A la actividad por virtud de la cual, mediante el permiso otorgado por la Secretaría, las personas físicas o morales satisfacen sus necesidades de transporte de pasajeros o de carga, relacionadas directamente ya sea con el cumplimiento de su objeto social o con la realización de actividades comerciales o personales, sean éstas de carácter transitorio o permanente, que no se ofrece al público en general y en tanto no impliquen un fin lucrativo o de carácter comercial;
+XCVIII. Servicio Privado o Particular de Transporte: A la actividad por virtud de la cual, mediante el permiso otorgado por la Secretaría, las personas físicas o morales satisfacen sus necesidades de transporte de pasajeros o de carga, relacionadas directamente ya sea con el cumplimiento de su objeto social o con la realización de actividades comerciales o personales, sean éstas de carácter transitorio o permanente, que no se ofrece al público en general y en tanto no impliquen un fin lucrativo o de carácter comercial;
 
-XCVIII. Servicios Auxiliares o Conexos: A todos los bienes muebles o inmuebles de infraestructura que resulten complementarios a la prestación del servicio público de transporte, previstos por esta Ley y sus reglamentos y que son susceptibles de permiso o concesión a particulares;
+XCIX. Servicios Auxiliares o Conexos: A todos los bienes muebles o inmuebles de infraestructura que resulten complementarios a la prestación del servicio público de transporte, previstos por esta Ley y sus reglamentos y que son susceptibles de permiso o concesión a particulares;
 
-XCIX. Sistema de Cobro: A la normatividad, mecanismos e instrumentos de cobro de las tarifas por peaje mediante la implementación y operación de un sistema de prepago, recaudo y control, de acceso a través de un dispositivo electrónico;
+C. Sistema de Cobro: A la normatividad, mecanismos e instrumentos de cobro de las tarifas por peaje mediante la implementación y operación de un sistema de prepago, recaudo y control, de acceso a través de un dispositivo electrónico;
 
-C. Sistema de Movilidad: Al conjunto de elementos y recursos relacionados, cuya estructura e interacción permiten el desplazamiento de personas y bienes; y todos aquellos que se relacionen directa o indirectamente con la movilidad;
+CI. Sistema de Movilidad: Al conjunto de elementos y recursos relacionados, cuya estructura e interacción permiten el desplazamiento de personas y bienes; y todos aquellos que se relacionen directa o indirectamente con la movilidad;
 
-CI. Sistema de Transporte Individual en Bicicleta Pública: Al conjunto de elementos, que incluye bicicletas, estaciones, equipo tecnológico, entre otros, para prestar el servicio de transporte individual en bicicleta pública de uso compartido al que se accede mediante membresía. Este servicio funge como complemento al Sistema Integrado de Transporte Público para satisfacer la demanda de viajes cortos en las ciudades y localidades de manera eficiente;
+CII. Sistema de Transporte Individual en Bicicleta Pública: Al conjunto de elementos, que incluye bicicletas, estaciones, equipo tecnológico, entre otros, para prestar el servicio de transporte individual en bicicleta pública de uso compartido al que se accede mediante membresía. Este servicio funge como complemento al Sistema Integrado de Transporte Público para satisfacer la demanda de viajes cortos en las ciudades y localidades de manera eficiente;
 
-CII. Sistema Integrado de Transporte Público: Al conjunto de servicios de transporte público de pasajeros que están articulados de manera física, operacional, informativa, de imagen y que tienen un mismo medio de pago;
+CIII. Sistema Integrado de Transporte Público: Al conjunto de servicios de transporte público de pasajeros que están articulados de manera física, operacional, informativa, de imagen y que tienen un mismo medio de pago;
 
-CIII. Sostenibilidad: Al conjunto de directrices aplicadas a las políticas de desarrollo y orientadas a garantizar la satisfacción de las necesidades de las generaciones presentes sin poner en riesgo la capacidad de las futuras generaciones para satisfacer las suyas;
+CIV. Sostenibilidad: Al conjunto de directrices aplicadas a las políticas de desarrollo y orientadas a garantizar la satisfacción de las necesidades de las generaciones presentes sin poner en riesgo la capacidad de las futuras generaciones para satisfacer las suyas;
 
-CIV. Tarifa: Al importe previamente autorizado, que el usuario del servicio de transporte de pasajeros, público y concesionado, debe pagar como contraprestación del servicio recibido, ya sea en numerario con moneda de uso corriente o mediante tarjeta de prepago, debidamente autorizada por la Secretaría; dicha tarifa será publicada para conocimiento (sic) todas las personas usuarias en el Periódico Oficial "El Estado de Colima" y difundida en los medios de comunicación, cuando menos con cinco días de anticipación a su entrada en vigor;
+CV. Tarifa: Al importe previamente autorizado, que el usuario del servicio de transporte de pasajeros, público y concesionado, debe pagar como contraprestación del servicio recibido, ya sea en numerario con moneda de uso corriente o mediante tarjeta de prepago, debidamente autorizada por la Secretaría; dicha tarifa será publicada para conocimiento (sic) todas las personas usuarias en el Periódico Oficial "El Estado de Colima" y difundida en los medios de comunicación, cuando menos con cinco días de anticipación a su entrada en vigor;
 
-CV. Taxi: Al servicio de unidad vehicular de transporte público individual en todas las modalidades que permita esta Ley;
+CVI. Taxi: Al servicio de unidad vehicular de transporte público individual en todas las modalidades que permita esta Ley;
 
-CVI. Tecnologías sustentables: A las tecnologías que incluyen productos, dispositivos, servicios y procesos amigables con el medio ambiente que reducen o eliminan el impacto al entorno a través del incremento de la eficiencia en el uso de recursos, mejoras en el desempeño y reducción de emisiones contaminantes;
+CVII. Tecnologías sustentables: A las tecnologías que incluyen productos, dispositivos, servicios y procesos amigables con el medio ambiente que reducen o eliminan el impacto al entorno a través del incremento de la eficiencia en el uso de recursos, mejoras en el desempeño y reducción de emisiones contaminantes;
 
-CVII. Transferencia modal: Al cambio de un modo de transporte a otro, que realiza una persona para continuar con su desplazamiento;
+CVIII. Transferencia modal: Al cambio de un modo de transporte a otro, que realiza una persona para continuar con su desplazamiento;
 
-CVIII. Transporte Concesionado: Al traslado de personas en lo individual o de manera colectiva, que se realiza al amparo de una concesión para prestar el servicio o al vehículo destinado a esa actividad;
+CVIX (SIC). Transporte Concesionado: Al traslado de personas en lo individual o de manera colectiva, que se realiza al amparo de una concesión para prestar el servicio o al vehículo destinado a esa actividad;
 
-CIX. Transporte Privado: Al traslado de personas en lo individual o colectivamente, que se realiza sin cobro específico por lo que no se considera un servicio o al vehículo destinado a esa actividad;
+CX (SIC). Transporte Privado: Al traslado de personas en lo individual o colectivamente, que se realiza sin cobro específico por lo que no se considera un servicio o al vehículo destinado a esa actividad;
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2019)</small>
 
-CX. Transporte Privado asistido por aplicaciones tecnológicas: Al transporte de personas en lo individual o colectivamente, mediante contratos entre privados asistidos a través de aplicaciones móviles, que permite conectar la oferta privada con usuarios afiliados a sus servicios.
+CXI. Transporte Privado asistido por aplicaciones tecnológicas: Al transporte de personas en lo individual o colectivamente, mediante contratos entre privados asistidos a través de aplicaciones móviles, que permite conectar la oferta privada con usuarios afiliados a sus servicios.
 
-CXI. Transporte Público: Al conjunto de operaciones y medios a cargo del Estado, para trasladar a personas y bienes, a cambio del pago de una remuneración económica;
+CXII. Transporte Público: Al conjunto de operaciones y medios a cargo del Estado, para trasladar a personas y bienes, a cambio del pago de una remuneración económica;
 
-CXII. Usuarios: A todas las personas que realizan desplazamientos haciendo uso del Sistema de Movilidad, incluido el uso del servicio público de transporte de pasajeros o de carga, en cualquiera de sus modalidades, del equipamiento auxiliar de éstos y de las vialidades;
+CXIII. Usuarios: A todas las personas que realizan desplazamientos haciendo uso del Sistema de Movilidad, incluido el uso del servicio público de transporte de pasajeros o de carga, en cualquiera de sus modalidades, del equipamiento auxiliar de éstos y de las vialidades;
 
-CXIII. Vehículo: A todo medio autopropulsado que se usa para transportar personas o bienes;
+CXIV. Vehículo: A todo medio autopropulsado que se usa para transportar personas o bienes;
 
-CXIV. Vehículo de emergencia: A las unidades vehiculares que se requieren para atender sucesos inesperados en los que está en riesgo la seguridad de personas o bienes, protección civil, rescate, apoyo vial, bomberos, policía, ambulancia, entre otros;
+CXV. Vehículo de emergencia: A las unidades vehiculares que se requieren para atender sucesos inesperados en los que está en riesgo la seguridad de personas o bienes, protección civil, rescate, apoyo vial, bomberos, policía, ambulancia, entre otros;
 
-CXV. Vehículo de tracción animal: A los animales que son montados por una persona o remolques que son tirados por animales;
+CXVI. Vehículo de tracción animal: A los animales que son montados por una persona o remolques que son tirados por animales;
 
-CXVI. Vehículo motorizado: A aquellos que dependen de una máquina de combustión interna o eléctrica para su tracción, con excepción de los dispositivos de movilidad asistida que desarrollen velocidades menores a 10 km/h y bicicletas asistidas por motor que circulan a menos de 20 km/h. Se considerarán para efectos de esta ley como vehículos motorizados los remolques, casas rodantes u otros similares, que carezcan de propulsión propia pero que circulen por vías públicas;
+CXVII. Vehículo motorizado: A aquellos que dependen de una máquina de combustión interna o eléctrica para su tracción, con excepción de los dispositivos de movilidad asistida que desarrollen velocidades menores a 10 km/h y bicicletas asistidas por motor que circulan a menos de 20 km/h. Se considerarán para efectos de esta ley como vehículos motorizados los remolques, casas rodantes u otros similares, que carezcan de propulsión propia pero que circulen por vías públicas;
 
-CXVII. Vehículo no motorizado: A aquellos vehículos que utilizan tracción humana para su desplazamiento. Incluye bicicletas asistidas por motor que desarrollen velocidades máximas de 25 kilómetros por hora;
+CXVIII. Vehículo no motorizado: A aquellos vehículos que utilizan tracción humana para su desplazamiento. Incluye bicicletas asistidas por motor que desarrollen velocidades máximas de 25 kilómetros por hora;
 
-CXVIII. Vía ciclista: A las vías de circulación exclusivas de bicicletas, y se contemplan dos modalidades, las prioritarias y las generales;
+CXIX. Vía ciclista: A las vías de circulación exclusivas de bicicletas, y se contemplan dos modalidades, las prioritarias y las generales;
 
-CXIX. Vía de acceso controlado: A aquellas vías que cuentan con incorporación y desincorporación al cuerpo de flujo continuo mediante carriles de aceleración y desaceleración en puntos específicos; pueden contener intersecciones a desnivel; cuentan con carriles centrales y laterales separados por camellones. No estará permitido el estacionamiento sobre los carriles centrales o laterales de este tipo de vías y la velocidad máxima en este tipo de vialidades no será nunca mayor a 60 km/h;
+CXX. Vía de acceso controlado: A aquellas vías que cuentan con incorporación y desincorporación al cuerpo de flujo continuo mediante carriles de aceleración y desaceleración en puntos específicos; pueden contener intersecciones a desnivel; cuentan con carriles centrales y laterales separados por camellones. No estará permitido el estacionamiento sobre los carriles centrales o laterales de este tipo de vías y la velocidad máxima en este tipo de vialidades no será nunca mayor a 60 km/h;
 
-CXX. Vía peatonal: A aquella destinada a la circulación exclusiva o prioritaria de peatones y en la que el acceso a vehículos está restringida. Estas incluyen: cruces peatonales, aceras y rampas, camellones e isletas, plazas y parques, puentes peatonales, calles peatonales, andadores y calles de prioridad peatonal;
+CXXI. Vía peatonal: A aquella destinada a la circulación exclusiva o prioritaria de peatones y en la que el acceso a vehículos está restringida. Estas incluyen: cruces peatonales, aceras y rampas, camellones e isletas, plazas y parques, puentes peatonales, calles peatonales, andadores y calles de prioridad peatonal;
 
-CXXI. Vía primaria: A aquella que por su forma y función, permite desplazamientos entre distintas zonas de las ciudades y que posibilita un amplio volumen de tránsito vehicular;
+CXXII. Vía primaria: A aquella que por su forma y función, permite desplazamientos entre distintas zonas de las ciudades y que posibilita un amplio volumen de tránsito vehicular;
 
-CXXII. Vía pública: A todo espacio de uso común destinado al libre desarrollo de las actividades urbanas colectivas, entre ellas el tránsito, la prestación de servicios públicos y la instalación de infraestructura y mobiliario urbano; en lo referente a la vialidad se integra por un conjunto de elementos cuya función es permitir los desplazamientos peatonales y vehiculares, así como facilitar la comunicación entre las diferentes áreas de la ciudad;
+CXXIII. Vía pública: A todo espacio de uso común destinado al libre desarrollo de las actividades urbanas colectivas, entre ellas el tránsito, la prestación de servicios públicos y la instalación de infraestructura y mobiliario urbano; en lo referente a la vialidad se integra por un conjunto de elementos cuya función es permitir los desplazamientos peatonales y vehiculares, así como facilitar la comunicación entre las diferentes áreas de la ciudad;
 
-CXXIII. Vía secundaria: A aquella que permite la circulación al interior de las colonias, barrios o pueblos, destinada al acceso directo a los inmuebles;
+CXXIV. Vía secundaria: A aquella que permite la circulación al interior de las colonias, barrios o pueblos, destinada al acceso directo a los inmuebles;
 
-CXXIV. Vialidad: Al conjunto integrado de vías de uso común que conforman la traza urbana de la ciudad, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
+CXXV. Vialidad: Al conjunto integrado de vías de uso común que conforman la traza urbana de la ciudad, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
 
-CXXV. Vías de Comunicación Terrestre: Al conjunto de vialidades urbanas e interurbanas o regionales;
+CXXVI. Vías de Comunicación Terrestre: Al conjunto de vialidades urbanas e interurbanas o regionales;
 
-CXXVI. Zona de tránsito calmado: Al área delimitada al interior de colonias, barrios, o pueblos, cuyas vías se diseñan para reducir el volumen y velocidad del tránsito, de forma tal que peatones, ciclistas y quienes conducen vehículos motorizados circulen de manera segura; y
+CXXVII. Zona de tránsito calmado: Al área delimitada al interior de colonias, barrios, o pueblos, cuyas vías se diseñan para reducir el volumen y velocidad del tránsito, de forma tal que peatones, ciclistas y quienes conducen vehículos motorizados circulen de manera segura; y
 
-CXXVII. Zonas Metropolitanas: A los ámbitos geográficos conurbados intermunicipales, cuyos núcleos de población presentan vínculos económicos y sociales que hacen necesaria la planeación conjunta y la coordinación de acciones en materia de movilidad.
+CXXVIII. Zonas Metropolitanas: A los ámbitos geográficos conurbados intermunicipales, cuyos núcleos de población presentan vínculos económicos y sociales que hacen necesaria la planeación conjunta y la coordinación de acciones en materia de movilidad.
 
 ## TÍTULO II. POLÍTICA, PLANEACIÓN, FINANCIAMIENTO Y GOBERNANZA DE LA MOVILIDAD
 
@@ -757,9 +767,19 @@ LXIV. Ejecutar los acuerdos del Ejecutivo del Estado en todo lo que se refiere a
 
 LXV. Elaborar los proyectos de reglamentos necesarios para la observancia de la presente Ley y someterlos a la autorización del Ejecutivo del Estado;
 
-LXVI. Calificar las infracciones a la Ley y sus reglamentos, en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
 
-LXVII. Las demás facultades y obligaciones que le concedan la presente Ley, los reglamentos que de ella deriven, los acuerdos y órdenes del Ejecutivo del Estado y demás disposiciones jurídicas aplicables.
+LXVI. Calificar las infracciones a la Ley y sus reglamentos, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2022)</small>
+
+LXVII. Promover, en el ámbito de su competencia, las facilidades y acciones con otras dependencias para la prevención del acoso sexual callejero en el servicio de transporte público;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2022)</small>
+
+LXVIII. Impulsar en el ámbito de su competencia, cursos obligatorios a los prestadores de servicios del transporte público, con un enfoque de prevención y erradicación del acoso sexual callejero en el transporte público; y
+
+LXIX. Las demás facultades y obligaciones que le concedan la presente Ley, los reglamentos que de ella deriven, los acuerdos y órdenes del Ejecutivo del Estado y demás disposiciones jurídicas aplicables.
 
 2. El Secretario podrá delegar sus atribuciones a oficiales, supervisores, peritos, inspectores, verificadores, notificadores y al demás personal adscrito a su dependencia con el fin de dar cumplimiento de la presente Ley, además de las facultades y atribuciones que tienen conferidas en su nombramiento, gafete y oficio de comisión correspondiente.
 
@@ -1613,7 +1633,9 @@ II. Programas de capacitación para las personas que conduzcan vehículos motori
 
 Capacitación para la movilidad
 
-1. La Secretaría establecerá un programa de capacitación especial para las personas que conduzcan vehículos de transporte público, que deberán acreditar de manera obligatoria para acceder a los trámites para operar el servicio de transporte público.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2022)</small>
+
+1. La Secretaría establecerá un programa de capacitación especial para las personas que conduzcan vehículos de transporte público, que deberán acreditar de manera obligatoria para acceder a los trámites para operar el servicio de transporte público, mismo que deberá incluir un curso con enfoque de prevención y erradicación del acoso sexual callejero ejercido en el transporte público.
 
 2. La Secretaría deberá establecer programas permanentes de educación y capacitación a concesionarios y a las personas que conducen vehículos del servicio de transporte público y especial, con el objeto de que estos puedan ofrecer un viaje seguro y confortable.
 
@@ -2035,11 +2057,11 @@ XXII. Vigilar que el operador de la unidad preste el servicio con cortesía, ama
 
 XXIII. Respetar las tarifas, horarios, rutas e itinerarios autorizados, así como circular por las vialidades señaladas por la autoridad;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
 
-XXIV. Tratándose del transporte colectivo urbano, suburbano y foráneo, deberán destinarse para personas con discapacidad y adultos mayores cuando menos dos asientos por cada diez que tenga el vehículo, debiendo estar éstos situados cercanos a la puerta de acceso, los cuales deberán contener un emblema o leyenda para su identificación; preferentemente las mujeres en periodo de gestación tendrán derecho a utilizar cualquier asiento;
+XXIV. Tratándose del transporte colectivo urbano, suburbano y foráneo, para la atención y preferencia a las personas con discapacidad y adultas mayores, así como para la prevención del acoso sexual callejero ejercido en el transporte público y para el caso de mujeres acompañadas de sus menores hijos, deberán destinarse exclusivamente por lo menos 16 asientos, 8 por cada lado de la unidad, debiendo estar éstos situados cercanos a la puerta de acceso, los cuales deberán ser de color rosa o morado que distinga al resto de los asientos y una señalética para su identificación, así como garantizar el ascenso y descenso por la puerta delantera;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 9 DE JULIO DE 2022)</small>
 
 XXV. Cumplir de forma puntual con los protocolos establecidos en materia de salud por autoridad competente, a causa de brotes epidemiológicos o por motivos de salubridad general, así como las determinaciones administrativas aplicables; y
 
@@ -2157,9 +2179,19 @@ IX. Compartir con la Secretaría los planes de mejora continua de los servicios 
 
 X. Acreditar legalmente la representación ante la Secretaría;
 
-XI. Colaborar con la Secretaría en cualquier programa de verificación documental y vehicular para tener actualizados los registros correspondientes; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
 
-XII. Las demás que determine esta Ley y sus reglamentos.
+XI. Colaborar con la Secretaría en cualquier programa de verificación documental y vehicular para tener actualizados los registros correspondientes;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2022)</small>
+
+XII. Colaborar con la Secretaría para la capacitación de los conductores del transporte de uso particular mediante aplicaciones tecnológicas, respecto a la prevención y erradicación del acoso sexual callejero ejercido en el servicio de traslado que prestan;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2022)</small>
+
+XIII. Promover el registro de vehículos ante la Secretaría para el uso exclusivo de mujeres conductoras, mismas que deberán brindar servicio a mujeres y en su caso, acompañadas de sus hijos menores, adecuándose para su identificación de acuerdo a las características que indique la Secretaría; y
+
+XIV. Las demás que determine esta Ley y sus reglamentos.
 
 ###### Artículo 90.
 
@@ -3653,6 +3685,10 @@ Manual de Cromática para los Vehículos del Sistema de Transporte Público Cole
 
 1. La Secretaría emitirá los lineamientos para la cromática de los vehículos destinados al servicio de transporte público de pasajeros, ésta permanecerá vigente hasta por un periodo de diez años y sólo por causas justificadas se autorizará el cambio antes de este término, o cuando se emitan los lineamientos para la cromática del Sistema Integrado de Transporte Público.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2022)</small>
+
+2. La Secretaría formulará los lineamientos pertinentes para la cromática de los vehículos de transporte público que, en su caso, se destinen para el uso exclusivo de mujeres, identificándolos con un color distintivo y con señalética que permita al usuario reconocer que es para la prevención y erradicación del acoso sexual callejero; ésta permanecerá vigente hasta por un periodo de diez años y sólo por causas justificadas se autorizará el cambio antes de este término, o cuando se emitan los lineamientos para la cromática del Sistema Integrado de Transporte Público.
+
 ###### Artículo 205.
 
 Cobertura y operación del Sistema de Transporte Público
@@ -4020,6 +4056,10 @@ V. Taxi ecológico.
 Operación para el servicio de taxi público
 
 1. El servicio de taxi en todas sus modalidades, excepto en la modalidad de ejecutivo público, tiene como objeto trasladar personas y sus cosas en vehículos con operador, ya sea de forma libre en la vía pública o bien contratado previamente mediante el uso exclusivo de plataformas tecnológicas públicas o privadas y sus dispositivos electrónicos, caracterizándose por no estar sujeto a itinerarios, rutas, frecuencias ni horarios fijos.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2022)</small>
+
+2. La Secretaría impulsará que se destinen unidades del servicio de taxi en todas sus modalidades, para el uso exclusivo de mujeres conductoras, mismas que sólo deberán brindarlo a mujeres y en su caso acompañadas de sus hijos menores, los cuales deberán adecuarse para su identificación, de acuerdo con lo que indique la Secretaría.
 
 ###### Artículo 242.
 
@@ -5823,6 +5863,10 @@ Delegación de funciones de supervisión y vigilancia
 
 1. La Secretaría, por conducto de los oficiales supervisores, peritos y su personal autorizado, llevarán a cabo la inspección y verificación del cumplimiento de la presente Ley y sus reglamentos, y una vez que se conozca, se percate o se tenga pruebas contundentes de la comisión de infracciones o violaciones a la presente Ley y sus reglamentos, llevadas a cabo por los conductores, poseedores, pasajeros, propietarios, concesionarios o permisionarios, sean personas físicas o morales; en la explotación, conducción, uso u operación de los servicios de transporte público, mercantil o privado en todas sus modalidades, de personas y carga, así como los propietarios y conductores de vehículos particulares, en vías públicas en el Estado; levantarán la boleta de infracción correspondiente, de conformidad a las disposiciones de la Ley y su Reglamento respectivo.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2022)</small>
+
+2. La Secretaría, por conducto de los oficiales supervisores, peritos y su personal autorizado, llevará a cabo la inspección y verificación del cumplimiento del respeto a los lugares exclusivos para mujeres, así como que los taxis y vehículos de aplicaciones tecnológicas, de acceso y gestión de la demanda exclusivos para el sector referido, operen bajo las reglas establecidas en la presente ley.
+
 ###### Artículo 383.
 
 Facultad concurrente para sancionar
@@ -6208,3 +6252,9 @@ P.O. 29 DE AGOSTO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Titular del Poder Ejecutivo del Estado deberá adecuar las disposiciones reglamentarias correspondientes en un término no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 9 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 112.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMÁS, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, TAMBIÉN SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
