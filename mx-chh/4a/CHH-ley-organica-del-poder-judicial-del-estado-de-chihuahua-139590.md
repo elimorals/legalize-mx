@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-139590"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-28"
-last_updated: "2021-04-24"
+last_updated: "2022-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2019.
 
@@ -887,9 +887,7 @@ XXI. Llevar los libros que prevengan esta Ley, su Reglamento o determine el Plen
 
 XXII. Hacer las notificaciones que le encomienden el Pleno del Tribunal, su Presidencia o la ley, por conducto de su titular o de la o el actuario respectivo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2021)</small>
-
-XXIII. Integrar el Registro Estatal de Deudores Alimentarios del Poder Judicial del Estado y remitir la información que le sea solicitada por la autoridad correspondiente.
+XXIII. (DEROGADA, P.O. 9 DE JULIO DE 2022)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIII], P.O. 30 DE ENERO DE 2021)</small>
 
@@ -949,9 +947,9 @@ VI. Vigilar y mantener el orden, entre las o los funcionarios y las o los emplea
 
 VII. Autorizar a sus secretarios o secretarias para que realicen las diligencias que a ellos les correspondan, cuando el despacho de los asuntos del Tribunal así lo requiera.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2022)</small>
 
-VIII. Remitir a la Secretaría General, las resoluciones ejecutoriadas en materia de alimentos que hayan sido incumplidas y sean de su conocimiento, de acuerdo con la ley respectiva.
+VIII. Remitir a la Dirección General del Registro Civil del Estado de Chihuahua, las resoluciones ejecutoriadas en materia de alimentos, que hayan sido incumplidas y sean de su conocimiento, para la inscripción en el Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua, así como ordenar las cancelaciones en dicho registro cuando proceda, de acuerdo con la ley respectiva.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], P.O. 30 DE ENERO DE 2021)</small>
 
@@ -1081,7 +1079,13 @@ VII. Dictar sentencia en el procedimiento abreviado.
 
 VIII. Proveer e imponer, en la esfera de su competencia, dentro de la suspensión condicional del proceso a prueba, las condiciones necesarias e idóneas para disponer la rehabilitación de quienes, por primera vez, cometen un delito bajo el influjo de las drogas o el alcohol, a cambio de someterse a un tratamiento de desintoxicación, logrando su recuperación y reincorporación social de manera productiva.
 
-IX. Las demás atribuciones que les otorgue la ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2022)</small>
+
+IX. Ordenar de oficio a la Dirección General del Registro Civil del Estado de Chihuahua, la inscripción de la persona sentenciada en el Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua, cuando dicte una sentencia por el delito de incumplimiento a la obligación alimentaria y cause ejecutoria.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE JULIO DE 2022)</small>
+
+X. Las demás atribuciones que les otorgue la ley.
 
 ###### Artículo 96.
 
@@ -1091,7 +1095,13 @@ I. Conocer y juzgar los procesos sometidos a su conocimiento.
 
 II. Resolver todas las cuestiones que se presenten durante el juicio.
 
-III. Las demás facultades que les otorgue la ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2022)</small>
+
+III. Ordenar de oficio a la Dirección General del Registro Civil del Estado de Chihuahua, cuando dicte una sentencia por el delito de incumplimiento a la obligación alimentaria y cause ejecutoria, la inscripción de la persona sentenciada por incumplimiento de las obligaciones alimentarias, en el Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE JULIO DE 2022)</small>
+
+IV. Las demás facultades que les otorgue la ley.
 
 ###### Artículo 97.
 
@@ -1117,7 +1127,13 @@ IX. Practicar el cómputo de las penas, así como su acumulación en los términ
 
 X. Conocer los procedimientos penales iniciados con motivo de hechos cometidos previamente a la entrada en vigor, en los Distritos Judiciales respectivos, del Código de Procedimientos Penales del Estado aprobado en el año dos mil seis.
 
-XI. Las demás atribuciones que les otorgue la ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE JULIO DE 2022)</small>
+
+XI. Ordenar, a petición de parte, a la Dirección General del Registro Civil del Estado de Chihuahua, conforme a la Ley en la materia, la cancelación de la persona sentenciada por el delito de incumplimiento a la obligación alimentaria, en el Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE JULIO DE 2022)</small>
+
+XII. Las demás atribuciones que les otorgue la ley.
 
 ###### Artículo 98.
 
@@ -2391,9 +2407,9 @@ La Dirección estará a cargo de la persona que designe el Consejo, a propuesta 
 
 Los mecanismos alternos de solución de controversias en la materia mercantil, se llevarán a cabo en la Coordinación de Atención Temprana.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2022)</small>
 
-Artículo 200 BIS. El Instituto de Justicia Alternativa deberá remitir a la Secretaría General del Tribunal Superior de Justicia los acuerdos en materia de alimentos que hayan sido incumplidos y sean de su conocimiento.
+Artículo 200 BIS. El Instituto de Justicia Alternativa deberá remitir, a petición de parte, al Juzgado correspondiente los acuerdos en materia de alimentos que hayan sido incumplidos y sean de su conocimiento.
 
 ### CAPITULO QUINTO. DEL INSTITUTO DE SERVICIOS PREVIOS AL JUICIO
 
@@ -3492,3 +3508,33 @@ P.O. 24 DE ABRIL DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO N° LXVII/RFLEY/0253/2022 II P.O. POR EL QUE “SE REFORMAN LOS ARTÍCULOS 81, FRACCIÓN VIII; 95, FRACCIÓN IX; 96, FRACCIÓN III; 97, FRACCIÓN XI; Y 200 BIS; SE ADICIONAN A LOS ARTÍCULOS 95, LA FRACCIÓN X; 96, LA FRACCIÓN IV; Y 97, LA FRACCIÓN XII; Y SE DEROGA DEL ARTÍCULO 74, LA FRACCIÓN XXIII; TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección General del Registro Civil del Estado de Chihuahua, dependiente de la Secretaría General de Gobierno de la administración pública estatal, determinará dentro de su estructura orgánica y con el personal con que cuenta, el área encargada de llevar el Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua a que se refiere el presente Decreto.
+
+Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubiesen dictado durante el periodo existente entre la entrada en vigor del presente Decreto y la creación del REPDAM.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado realizará las adecuaciones necesarias en el Reglamento Interior del Registro Civil para el Estado de Chihuahua y demás disposiciones aplicables para el debido cumplimiento de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Una vez que el presente Decreto entre en vigor, el Registro Civil del Estado de Chihuahua contará con un plazo máximo de doscientos cuarenta días para:
+
+I. Proveer al Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua de los instrumentos técnicos, así como de los recursos materiales y humanos necesarios para su funcionamiento.
+
+II. Emitir los lineamientos correspondientes para regular la operatividad del Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
