@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2022-03-20"
+last_updated: "2022-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2022.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -283,6 +283,10 @@ Las actas del Registro Civil deberán asentarse en formatos especiales, que se d
 
 Con las actas del Registro Civil se integrará el apéndice respectivo, que estará constituido por todos los documentos relacionados con el acta que se asienta. Los documentos del apéndice estarán anotados y relacionados con el acta respectiva, al igual que las actas estarán de éstos.
 
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2022)</small>
+
+Tratándose de actas de nacimiento, la autoridad registral correspondiente deberá contar con formatos que permitan a los progenitores registrar a los menores en términos de los dispuesto en los artículos 66 y 71 del presente ordenamiento.
+
 ###### Artículo 41.
 
 Las actas del Registro Civil, sólo se pueden asentar en las formas de que habla el artículo anterior. La infracción de esta regla producirá nulidad del acta, además de la destitución del Oficial del Registro Civil.
@@ -371,11 +375,15 @@ La Coordinación Estatal del Registro Civil, o sus delegados, cuidará la legali
 
 Las declaraciones de nacimiento se harán presentando a la persona ante el Oficial del Registro Civil en su oficina, pudiendo acudir éste al lugar en que se encuentre, cuando sea necesario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2022)</small>
+
 ###### Artículo 59.
 
-Tienen obligación de declarar el nacimiento, el padre o la madre y, a falta de éstos, los abuelos por cualquier línea, dentro de los seis meses de ocurrido.
+Tienen obligación de declarar el nacimiento, el padre o la madre y, a falta de éstos, los abuelos por cualquier línea, dentro de los siete días naturales posteriores al nacimiento.
 
-Los médicos, cirujanos o parteras que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los quince días siguientes. La misma obligación tiene el jefe de familia en cuyo lugar se produjo el alumbramiento, si éste ocurrió fuera de la casa paterna.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
+
+Los médicos, cirujanos o parteras que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los siete días naturales siguientes al parto. La misma obligación tiene el jefe de familia en cuyo lugar se produjo el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
 Si el nacimiento hubiese tenido lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del director o de la persona encargada de la administración.
 
@@ -411,19 +419,15 @@ Las instituciones de salud públicas o privadas, los médicos, enfermeras, ó ma
 
 En las poblaciones en que no haya Oficial del Registro Civil, el niño será presentado a la persona que ejerza la autoridad municipal, quien expedirá la constancia respectiva para que los interesados la exhiban al Oficial del Registro Civil que corresponda, para que asiente el acta.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
+
 ###### Artículo 66.
 
-El acta de nacimiento deberá contener lugar y fecha del registro, hora, día, mes, año y lugar de nacimiento; el sexo, el nombre que se le imponga y los apellidos del padre y de la madre, cuando proceda, o los apellidos de la madre, cuando lo presente individualmente como hijo extramatrimonial; la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Única del Registro de Población que se asigne al registrado.
+El acta de nacimiento deberá contener lugar y fecha del registro, hora, día, mes, año y lugar de nacimiento; el sexo, el nombre que se le imponga y los apellidos de los progenitores en el orden de prelación que ellos convengan, o los apellidos de la madre, cuando lo presente individualmente como hijo extramatrimonial; la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Única del Registro de Población que se asigne al registrado.
 
-Contendrá además, nombre, edad, domicilio y nacionalidad de los padres y testigos; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos. Si la presentación la realiza persona distinta se anotará su nombre, edad, domicilio y parentesco con el registrado.
+El Juez del Registro Civil deberá especificar, de forma expresa, el orden de apellidos que acuerden los progenitores. El orden de apellidos convenido será considerado para los demás hijos e hijas del mismo vínculo.
 
-> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2017)</small>
-
-El Oficial del Registro Civil expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
-
-> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-Las copias certificadas de las actas de nacimiento expedidas por la autoridad competente no tendrán caducidad, por lo que se podrán utilizar en la realización de trámites ante cualquier ente público o privado, siempre que se encuentren legibles y no presenten alteraciones visibles en su contenido.
+Si se desconoce el nombre de los padres, el Juez del Registro Civil le pondrá el nombre y apellidos, haciendo constar esta circunstancia en el acta. Cuando no haya acuerdo entre los progenitores, el juez dispondrá el orden de los apellidos, atendiendo al que por orden alfabético corresponda. No se reputará de oficio el apellido paterno.
 
 ###### Artículo 67.
 
@@ -441,9 +445,11 @@ Cuando el menor sea presentado por persona distinta de los padres, se efectuará
 
 En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dichas notas se testarán de oficio por el encargado del Registro Civil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2022)</small>
+
 ###### Artículo 71.
 
-El nombre de las personas físicas se constituye con el nombre propio, primer apellido del padre y primer apellido de la madre.
+El nombre de las personas físicas se constituye con el nombre propio y los apellidos de los progenitores en el orden de prelación que ellos convengan.
 
 El nombre propio no se constituirá con palabras denigrantes o números que afecten la dignidad del registrado.
 
@@ -933,9 +939,33 @@ II. El cambio de nombre y género, no libera ni exime de las obligaciones o resp
 
 III. Los trámites relacionados con el proceso registral deben tender a ser lo menos gravosos posibles, sobre todo si el solicitante se encuentra en situación de pobreza y/o vulnerabilidad.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
+
 ###### Artículo 145.
 
-Para modificar el contenido de un acta del Registro Civil que implique una modificación del estado civil de las personas, afecte a terceros que no participaron en su levantamiento o para adecuarla a la realidad social, el interesado debe plantear su solicitud ante la autoridad judicial.
+La modificación del contenido de un acta del Registro Civil, deberá realizarse ante la autoridad judicial, cuando implique:
+
+I. Una modificación del estado civil de las personas;
+
+II. Afecte a terceros que no participaron en su levantamiento;
+
+III. La modificación o cambio del nombre propio o apellidos, para adecuarla a la realidad social, cuando el interesado demuestre que ha usado invariable y constantemente otro diverso en su vida social y jurídica al que aparece en su acta de nacimiento;
+
+(NOTA: EL 20 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 114/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+IV. EL CAMBIO DEL NOMBRE PROPIO, POR EL QUE TENGA REGISTRADO LE CAUSE AFRENTA, SEA INFAMANTE O LO EXPONGA AL RIDÍCULO; Y
+
+V. En caso de homonimia si le causa perjuicio moral o económico, podrá pedirse, se autorice transformar el primero de los apellidos de simple ha compuesto o de compuesto a simple.
+
+La modificación del acta que implique el cambio o modificación de nombre o apellidos de una persona, no a (sic) privan de sus derechos, no modifican ni se extinguen obligaciones; incluidos las provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados salvo en los casos de modificación de actas del registro civil derivadas de juicios de contradicción o investigación de paternidad.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2022)</small>
+
+###### Artículo 145 Bis.
+
+La sentencia que cause ejecutoria en el juicio de modificación de un acta del Registro Civil, se comunicará al Oficial del Registro Civil que corresponda para que haga las anotaciones en libro y acta correspondientes, además se deberá hacer referencia de ello, en las copias certificadas de las actas modificadas que al efecto se expidan, se podrá prescindir de esta referencia, cuando lo solicite expresamente el interesado al Oficial del Registro Civil.
+
+El Oficial del Registro Civil también comunicará oficiosamente la modificación del acta del registro civil a las representaciones en el Estado de las Secretarías de Gobernación, Hacienda y Crédito Público, Relaciones Exteriores e Instituto Nacional Electoral.
 
 ###### Artículo 146.
 
@@ -1055,7 +1085,7 @@ Son impedimentos para celebrar el matrimonio:
 
 I.- (DEROGADA, B.O. 30 DE JUNIO DE 2014)
 
-II.- La falta de consentimiento del que, o los que, ejerzan la patria potestad, del tutor o del Juez, en sus respectivos casos;
+II.- (DEROGADA, B.O. 10 DE JULIO DE 2022)
 
 III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos, medios hermanos y primos hermanos. En la colateral desigual, el impedimento se aplica solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -1083,7 +1113,7 @@ De estos impedimentos sólo es dispensable el parentesco de consanguinidad en l�
 
 ###### Artículo 165.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo o presente ante el Oficial del Registro Civil un certificado expedido por un centro de salud pública, en el cual conste que no se encuentra embarazada al momento de solicitar el matrimonio.
+(DEROGADO, B.O. 10 DE JULIO DE 2022)
 
 > <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
 
@@ -1461,7 +1491,7 @@ Las donaciones antenupciales son revocables y se entienden revocadas por el adul
 
 ###### Artículo 231.
 
-Los menores pueden hacer donaciones antenupciales, pero sólo con la intervención de sus padres o tutores, o con la aprobación judicial.
+(DEROGADO, B.O. 10 DE JULIO DE 2022)
 
 ###### Artículo 232.
 
@@ -1759,9 +1789,11 @@ El divorcio administrativo no surtirá efectos legales, si se comprueba que los 
 
 La nulidad absoluta del divorcio administrativo puede ser reclamada por cualquier interesado o por el Ministerio Público, ante el Juez competente.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
+
 ###### Artículo 283.
 
-Los cónyuges menores de edad, los que tengan hijos o que no hayan liquidado la sociedad conyugal, deberán recurrir al Juez de su domicilio para solicitar el divorcio voluntario, cumpliendo los requisitos previstos en el Código de Procedimientos Civiles.
+Los cónyuges que tengan hijos o no hayan liquidado la sociedad conyugal, deberán recurrir al Juez de su domicilio para solicitar el divorcio voluntario, cumpliendo los requisitos previstos en el Código de Procedimientos Civiles.
 
 ###### Artículo 284.
 
@@ -2927,11 +2959,21 @@ El derecho de recibir alimentos es de orden público, no es renunciable, ni pued
 
 Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para alimentar a los miembros de su familia con derecho a recibirlos, será responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2022)</small>
+
 ###### Artículo 473.
 
-El cónyuge que abandone al otro sigue obligado a cumplir con los gastos derivados de la asistencia familiar. En tal virtud, el que no haya dado lugar al abandono, podrá pedir al Juez competente, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación, en la misma proporción en que lo venía haciendo hasta antes de ésta y a que satisfaga los adeudos contraídos en los términos del artículo anterior.
+El cónyuge que abandone al otro sigue obligado a cumplir con los gastos derivados de la asistencia familiar. En tal virtud, el que no haya dado lugar al abandono, podrá pedir al Juez competente, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación y hasta en tanto se resuelva el monto de la pensión de alimentos definitiva, en la misma proporción en que lo venía haciendo hasta antes de ésta y a que satisfaga los adeudos contraídos en los términos del artículo anterior.
 
 Si dicha proporción no pudiera determinarse, el Juez, según las circunstancias del caso, fijará la suma quincenal que juzgue conveniente y dictará las medidas necesarias para asegurar su entrega, así como el pago de lo que se hubiese dejado de cubrir desde que se produjo la separación, siempre que no sean anteriores a dos años.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2022)</small>
+
+En todas las controversias de alimentos, cuando así lo solicite el acreedor, el juez, a la brevedad deberá acordar la orden de descuento de los alimentos y el informe solicitado deberá ser atendido de inmediato por la parte responsable de la fuente de trabajo, suministrando los datos exactos dentro del término de tres días, con el apercibimiento que de no hacerlo se le aplicará una multa de (sic) que va desde doscientas veces hasta quinientas del valor diario de la Unidad de Medida y Actualización, además de responder solidariamente por los daños y perjuicios que cause a la acreedora alimentaria por sus omisiones o informes falsos.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2022)</small>
+
+Durante la tramitación del juicio de divorcio o controversia de alimentos el deudor alimentario deberá informar de inmediato al Juez de lo Familiar y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia decretada. En caso de que se encuentra (sic) concluido el juicio de divorcio o la controversia de alimentos y decretada la pensión alimenticia definitiva, el deudor alimentario también deberá informar lo señalado en el presente párrafo al acreedor alimentario. En ambos casos, de no hacerlo, el deudor alimentario incurrirá en responsabilidad sancionada en los términos del párrafo anterior.
 
 ## TÍTULO DÉCIMO SEGUNDO. De la patria potestad
 
@@ -16132,3 +16174,11 @@ B.O. 20 DE MARZO DE 2022.
 PRIMERO. El presente decreto entrara en vigor al día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 10 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2767 SE REFORMAN LOS ARTÍCULOS 59, 66, 71, 145, 283 Y PRIMER PÁRRAFO DEL ARTÍCULO 473; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 40, UN ARTÍCULO 145 BIS Y LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 473, Y SE DEROGAN LA FRACCIÓN II DEL ARTÍCULO 163 Y LOS ARTÍCULOS 165 Y 231 TODOS DE CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
