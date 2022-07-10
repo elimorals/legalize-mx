@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111244"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2020-01-20"
+last_updated: "2022-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -315,7 +315,9 @@ XVII. Derecho a la intimidad;
 
 XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
-XIX. Derechos de niñas, niños y adolescentes migrantes, y
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2022)</small>
+
+XIX. Derechos de niñas, niños y adolescentes migrantes, refugiados acompañados y no acompañados y;
 
 XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet, en términos de la Ley Federal de Telecomunicaciones y Radiodifusión.
 
@@ -751,11 +753,17 @@ I. Diseñar, implementar y avaluar programas, políticas públicas, a través de
 
 II. Transversalizar la perspectiva (sic) género en todas sus actuaciones y procurar la utilización de un lenguaje incluyente en sus documentaciones oficiales;
 
-III. Implementar acciones específicas para procurar la eliminación de costumbres y tradiciones que sean perjudiciales para el acceso al mismo trato y oportunidades entre niñas, niños y adolescentes;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2022)</small>
+
+III. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad.
 
 IV. Desarrollar campañas encaminadas a promover la responsabilidad de preservar los derechos de niñas, niños y adolescentes dirigidas a los ascendientes, tutores o custodios para niñas, niños y adolescentes, y
 
 V. Establecer medidas expeditas, en los casos, en que niñas, niños y adolescentes no cuenten con un legítimo representante para el ejercicio de sus derechos.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2022)</small>
+
+VI. Establecer los mecanismos institucionales que orienten su actuar hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las niñas y adolescentes y serán factor de análisis prioritario las diferencias de género como causa de vulnerabilidad y discriminación en contra de las niñas y las adolescentes.
 
 ### CAPÍTULO SÉPTIMO. Del Derecho a No ser Discriminado
 
@@ -1328,6 +1336,14 @@ Está prohibido devolver, expulsar, deportar, retornar, rechazar en frontera o n
 En caso de que el Sistema Estatal DIF o los Sistemas Municipales DIF identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán a la Comisión Mexicana de Ayuda a Refugiados y al Instituto Nacional de Migración a fin de adoptar medidas de protección especial.
 
 El Sistema Estatal DIF, en coordinación con las instituciones competentes, deberá identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2022)</small>
+
+###### Artículo 78 Bis.
+
+Se adoptarán medidas adecuadas para lograr que la niña, niño o adolescente que trate de obtener el estatuto de refugiado o que sea considerado refugiado de conformidad con la legislación federal aplicable reciba, tanto si está solo como si está acompañado de quienes ejerzan la patria potestad, tutela o guarda y custodia o de cualquier otra persona, la protección y la asistencia humanitaria adecuadas para el disfrute de los derechos pertinentes enunciados en la presente Ley.
+
+A tal efecto, las autoridades estatales y municipales, de acuerdo a su competencia, protegerán y ayudarán a toda niña, niño o adolescente con estatuto de refugiado, en la localización de quienes ejerzan la patria potestad, tutela o guarda y custodia, a fin de obtener la información necesaria para que se reúna con los mismos. En los casos en que no se pueda localizar o por su circunstancia de seguridad o de refugiado, no pueda integrarse con ninguno ce (sic) quienes ejerzan la patria potestad, tutela o guarda y custodia, se concederá a la niña, niño o adolescente, la misma protección que a cualquier otro niño privado pemanente (sic) o temporalmente de su medio familiar por cualquier motivo, como se dispone en la presente Ley.
 
 ###### Artículo 79.
 
@@ -1951,6 +1967,8 @@ La Comisión Estatal de los Derechos Humanos en Baja California Sur, deberá est
 
 ### CAPÍTULO SEGUNDO. De los Sistemas Municipales de Protección
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
+
 ###### Artículo 114.
 
 Para asegurar una adecuada protección de los derechos de niñas, niños y adolescentes se crea el Sistema Estatal de Protección, como instancia encargada de establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes.
@@ -2079,7 +2097,9 @@ El o la titular de la Secretaría Ejecutiva, será nombrado (a) y removido (a) l
 
 I. Tener ciudadanía mexicana en pleno goce de sus derechos civiles y políticos;
 
-II. Tener más de 30 años de edad;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2022)</small>
+
+II. Tener más de 25 años de edad;
 
 III. Contar con título profesional de nivel licenciatura debidamente registrado;
 
@@ -2137,9 +2157,33 @@ XXI. Las demás que les otorguen otras disposiciones aplicables.
 
 ###### Artículo 121.
 
-Los Sistemas Municipales de Protección se integrarán de conformidad con las disposiciones reglamentarias que expida cada gobierno municipal, teniendo el deber de incorporar como bases mínimas las previstas en el artículo 138 de la Ley General.
+Los Sistemas Municipales de Protección se integrarán de conformidad con las disposiciones reglamentarias que expida cada gobierno municipal, teniendo el deber de incorporar como bases mínimas las previstas en el artículo 138 de la Ley General, y tendrán las atribuciones siguientes:
 
-En tales disposiciones reglamentarias se deberá determinar la integración de un órgano consultivo de apoyo al Sistema Municipal de Protección de que se trate, para la implementación y aplicación del Programa Municipal, en el cual participen autoridades municipales competentes y representantes de los sectores social y privado.
+I.- Elaborar su programa municipal y participar en el diseño del Programa Local;
+
+II.- Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos;
+
+III.- Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio;
+
+IV.- Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes;
+
+V.- Recibir quejas y denuncias por violaciones a los derechos contenidos en la presente Ley y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría Local de Protección que corresponda, sin perjuicio que ésta pueda recibirla directamente;
+
+VI.- Auxiliar a la Procuraduría Local de Protección competente en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+
+VII.- Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
+
+VIII.- Difundir y aplicar los protocolos específicos sobre niñas, niños y adolescentes que autoricen las instancias competentes de la federación y de las entidades federativas;
+
+IX.- Coordinarse con las autoridades de los órdenes de gobierno para la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley,
+
+X.- Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
+
+XI.- Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales, y
+
+XII.- Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y los Sistemas de las Entidades.
+
+En las disposiciones reglamentarias se deberá determinar la integración de un órgano consultivo de apoyo al Sistema Municipal de Protección de que se trate, para la implementación y aplicación del Programa Municipal, en el cual participen autoridades municipales competentes y representantes de los sectores social y privado.
 
 ### CAPÍTULO ÚNICO
 
@@ -2308,3 +2352,11 @@ B.O. 20 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2675 SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2848 SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente.
