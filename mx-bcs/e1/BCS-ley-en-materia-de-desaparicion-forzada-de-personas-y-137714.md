@@ -4,7 +4,7 @@ identifier: "BCS-ley-en-materia-de-desaparicion-forzada-de-personas-y-137714"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-16"
-last_updated: "2020-01-20"
+last_updated: "2022-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 16 de agosto de 2019.
 
@@ -269,6 +269,10 @@ Para efectos de lo previsto en esta Ley, se considerará grave el incumplimiento
 
 El Mecanismo Estatal de Coordinación tiene por objeto coordinar los esfuerzos de vinculación, operación, gestión, evaluación y seguimiento de las acciones entre las distintas autoridades estatales y municipales relacionadas con la búsqueda de personas, para dar cumplimiento a las determinaciones del Sistema Nacional y de la Comisión Nacional, así como lo establecido en la Ley General.
 
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2022)</small>
+
+Cuando por motivos de cambio de poderes, resultado del ejercicio democrático previsto en la Constitución Política del Estado Libre y Soberano de Baja California Sur, quien ocupe la titularidad de la Secretaría General de Gobierno, deberá instalar el Mecanismo Estatal de Coordinación, a más tardar, a los seis meses de iniciada la nueva administración.
+
 ###### Artículo 24.
 
 El Mecanismo Estatal de Coordinación se integra por:
@@ -297,15 +301,19 @@ Las personas integrantes del Mecanismo Estatal deben nombrar a sus respectivos s
 
 La persona que presida el Mecanismo Estatal podrá invitar a las sesiones respectivas a representantes de los órganos con autonomía constitucional del Estado, Presidentes municipales, así como organismos internacionales, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz pero sin voto.
 
-Las instancias y las personas que forman parte del Mecanismo Estatal están obligadas, en el marco de sus competencias, a cumplir con las acciones que deriven del ejercicio de las atribuciones de dicho órgano.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
+
+Las instancias y las personas que forman parte del Mecanismo Estatal están obligadas, en el marco de sus competencias, a cumplir con las acciones que deriven del ejercicio de las atribuciones de dicho órgano, sin que esto implique subordinación alguna y en pleno respeto a las facultades y a la autonomía otorgadas por la Constitución y las leyes a cada institución.
 
 ###### Artículo 25.
 
 El Mecanismo Estatal sesionará válidamente con la presencia de la mayoría de sus integrantes y sus resoluciones deben ser tomadas por mayoría de votos. El Presidente tiene voto dirimente en caso de empate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2022)</small>
+
 ###### Artículo 26.
 
-Las sesiones del Mecanismo Estatal deben celebrarse de manera ordinaria, por lo menos, cada tres meses por convocatoria de la Secretaría Ejecutiva del Mecanismo estatal, por instrucción de quien presida y de manera extraordinaria cuantas veces sea necesario a propuesta de un tercio de sus integrantes o a propuesta del Consejo Estatal Ciudadano.
+Las sesiones del Mecanismo Estatal deberán celebrarse de manera ordinaria, por lo menos, cada tres meses por convocatoria de la Secretaría Ejecutiva representada por el o la Titular de la Comisión estatal de Búsqueda, quien se encargará de dar seguimiento para la efectiva organización y conclusión de la convocatoria; y de manera extraordinaria, cuantas veces sea necesario, a propuesta de un tercio de sus integrantes o a propuesta del Consejo Estatal Ciudadano.
 
 Las convocatorias deben realizarse por oficio o por cualquier medio electrónico que asegure y deje constancia de su recepción, con al menos cinco días hábiles a la fecha de celebración de la sesión correspondiente, y dos días hábiles de anticipación para las sesiones extraordinarias. En ambos casos debe acompañarse el orden del día correspondiente.
 
@@ -413,6 +421,10 @@ VIII. El órgano técnico de consulta se disolverá luego de la publicación del
 
 IX. La Secretaria General de Gobierno hará público el nombramiento de la persona Titular de la Comisión Estatal de Búsqueda, acompañada de una exposición fundada y motivada sobre la idoneidad del perfil elegido.
 
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2022)</small>
+
+X. La Comisión Estatal de Búsqueda, se someterá a procesos de seguimiento y evaluación de sus funciones, obligaciones y atribuciones establecidas en esta Ley, a solicitud del Congreso estatal, el cual, derivado de los informes rendidos por la persona titular de la comisión del Comité para la evaluación y seguimiento del Consejo Ciudadano, podrá emitir un exhorto a quien ocupe la titularidad de la secretaria de Gobierno para su análisis.
+
 ###### Artículo 33.
 
 La Comisión Estatal de Búsqueda tiene las siguientes atribuciones:
@@ -428,6 +440,10 @@ IV. Solicitar el acompañamiento de las instancias policiales, cuando el persona
 V. Integrar, cada tres meses, un informe sobre los avances y resultados en el cumplimiento del Programa Nacional de Búsqueda, mismo que será enviado al Sistema Nacional de Búsqueda, haciendo del conocimiento del mismo al Mecanismo Estatal de Coordinación, de conformidad con lo previsto en el artículo 36 de esta Ley;
 
 VI. Rendir, cuando sean solicitados por la Comisión Nacional de Búsqueda, los informes sobre el cumplimiento del Programa Nacional de Búsqueda;
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2022)</small>
+
+Así mismo, a través de la Secretaría General de Gobierno, deberá rendir los informes detallados por escrito cuando sean requeridos por el Congreso del Estado, sobre el cumplimiento de sus funciones, atribuciones y obligaciones encomendadas.
 
 VII. Emitir y llevar a cabo los protocolos rectores que sean necesarios para el cumplimiento de sus funciones;
 
@@ -1272,3 +1288,9 @@ B.O. 20 DE ENERO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 10 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2847 SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 23; SE ADICIONA TEXTO AL ÚLTIMO PÁRRAFO DEL ARTÍCULO 24; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 26; SE ADICIONAN (SIC) LA FRACCIÓN X AL ARTÍCULO 32, SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 33 DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno de Baja California Sur.
