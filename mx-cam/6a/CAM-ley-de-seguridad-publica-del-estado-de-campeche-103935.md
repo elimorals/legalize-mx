@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-publica-del-estado-de-campeche-103935"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-01"
-last_updated: "2022-06-29"
+last_updated: "2022-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 1 de diciembre de 2014.
 
@@ -841,7 +841,7 @@ I. La policía estatal;
 
 II. Los elementos de seguridad y custodia penitenciaria;
 
-III. La Coordinación General de Seguridad Pública, Vialidad y Transporte del Estado;
+III. (DEROGADA, P.O. 11 DE JULIO DE 2022)
 
 IV. Agentes del Ministerio Público y servicios periciales;
 
@@ -2820,3 +2820,17 @@ P.O. 29 DE JUNIO DE 2022.
 Artículo Primero. El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 11 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 88 POR EL QUE SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 63 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá realizar las modificaciones necesarias al Reglamento de la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche, para la debida implementación del mencionado Decreto.
+
+De igual forma, realizará las modificaciones que correspondan en el Reglamento Interior de la Secretaría de Protección y Seguridad Ciudadana de la Administración Pública Estatal en un plazo no mayor a treinta días naturales contados a partir de la publicación del presente Decreto, tomando las previsiones presupuestales que correspondan.
+
+TERCERO.- Los Municipios deberán realizar las modificaciones que correspondan en sus ordenamientos para adecuarlos al contenido del presente Decreto, en un plazo no mayor a noventa días naturales contados a partir de la publicación del presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
