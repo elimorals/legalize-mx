@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2022-03-11"
+last_updated: "2022-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -1005,9 +1005,17 @@ e) La histología del tumor primario y su comportamiento.
 
 III. Información respecto al tratamiento aplicado al paciente y el seguimiento dado al mismo por parte de los médicos. Además, se incluirá información de curación y supervivencia;
 
-IV. La fuente de información utilizada para cada modalidad de diagnóstico y de tratamiento; y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2022)</small>
 
-V. Toda aquella información adicional que determine la Secretaría.
+IV. La fuente de información utilizada para cada modalidad de diagnóstico y de tratamiento;
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2022)</small>
+
+V. Toda aquella información adicional que determine la Secretaría de Salud; y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2022)</small>
+
+VI. Tendrá un rubro específico para la información del Registro Estatal de Cáncer en la Infancia y Adolescencia a que se refiere la Ley para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia del Estado de Sinaloa.
 
 La Secretaría, a través del Director General de los Servicios de Salud de Sinaloa, integrará la información demográfica del Registro Estatal de Cáncer de todo el territorio del Estado, dividido en regiones norte, centro y sur.
 
@@ -3650,3 +3658,13 @@ P.O. 11 DE MARZO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 11 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 186”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. En un término de seis meses, a partir del inicio de vigencia del presente Decreto, el Titular del Poder Ejecutivo del Estado deberá adecuar la normatividad reglamentaria respectiva derivado de la expedición del presente Decreto.
+
+TERCERO. La aplicación del presente Decreto se sujetará a la disponibilidad presupuestaria que el Titular del Poder Ejecutivo del Estado disponga en materia de salud para la prevención oportuna del cáncer en la Infancia y la Adolescencia del Estado de Sinaloa.
