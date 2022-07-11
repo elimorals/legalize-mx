@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2021-08-27"
+last_updated: "2022-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2022.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -3400,6 +3400,18 @@ En la elección e integración de los Ayuntamientos existirá la paridad de gén
 > <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 De la totalidad de solicitudes de registro, tanto de las candidaturas a diputaciones, así como a las planillas a Ayuntamientos que presenten los partidos políticos o las coaliciones ante el Instituto Estatal, deberán integrarse salvaguardando la paridad entre los géneros mandatada en la Constitución Federal.
+
+> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2022)</small>
+
+En el caso de elección de Gobernadora o Gobernador, para garantizar la paridad de género, los partidos políticos deberán alternar el género en la postulación en cada elección, para ello se tomará como referencia el género postulado por cada partido en la elección inmediata anterior.
+
+> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2022)</small>
+
+En el caso de coaliciones o candidaturas comunes, la referencia del género se hará tomando al partido político que encabece dicha alianza electoral, en términos del convenio correspondiente y apegados al contenido señalado por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México.
+
+> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2022)</small>
+
+Los partidos políticos deberán establecer los mecanismos que garanticen la convivencia del principio constitucional de paridad con la autodeterminación de los partidos y los derechos de las militancias.
 
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -7742,3 +7754,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Lo previsto en el presente Decreto no será aplicable a los procesos electorales pendientes o en trámite que no han sido concluidos.
+
+G.G. 11 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 76.- POR EL QUE SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 248 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Las controversias suscitadas por la presente reforma se someterán a la circunspección del Instituto Electoral del Estado de México.
+
+CUARTO. Para efectos de lo dispuesto en los párrafos octavo, noveno y décimo del artículo 248, los partidos políticos podrán postular libremente para el proceso electoral del año 2023 a un candidato o una candidata. Alternándose el género para las subsecuentes elecciones de Gobernador o Gobernadora.
