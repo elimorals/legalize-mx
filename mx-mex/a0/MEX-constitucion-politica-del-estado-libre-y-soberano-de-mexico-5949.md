@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2022-01-25"
+last_updated: "2022-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2022.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -439,11 +439,11 @@ La ley determinará las facultades y atribuciones que en materia de candidaturas
 
 El Instituto Electoral del Estado de México podrá convenir con el Instituto Nacional Electoral que se haga cargo de la organización de los procesos electorales locales, en los términos que disponga la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE JULIO DE 2022)</small>
 
 ###### Artículo 12.
 
-Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propio, con registro ante el Instituto Nacional Electoral y el Instituto Electoral del Estado de México, tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanas y ciudadanos, facilitarles el acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad de género en las candidaturas a Diputaciones Locales e integrantes de los Ayuntamientos, y a los demás cargos de elección popular, así como contribuir a la erradicación de la violencia política en razón de género. Su participación en los procesos electorales estará determinada por la ley. Es derecho de los partidos políticos solicitar el registro de las candidatas y candidatos a cargos de elección popular. Solo las ciudadanas y ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, sin la intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente a la creación de partidos y sin que medie afiliación corporativa.
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propio, con registro ante el Instituto Nacional Electoral y el Instituto Electoral del Estado de México, tienen como fin promover la participación del pueblo en la vida democrática, cumplir con el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanas y ciudadanos, facilitarles el acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la alternancia de género en las postulaciones para el cargo de Gobernador o Gobernadora, la paridad de género en las candidaturas a Diputaciones Locales e integrantes de los Ayuntamientos, y a los demás cargos de elección popular, así como contribuir a la erradicación de la violencia política en razón de género. Su participación en los procesos electorales estará determinada por la ley. Es derecho de los partidos políticos solicitar el registro de las candidatas y candidatos a cargos de elección popular. Solo las ciudadanas y ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos, sin la intervención de organizaciones civiles, sociales o gremiales, nacionales o extranjeras, o con objeto social diferente a la creación de partidos y sin que medie afiliación corporativa.
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2008)</small>
 
@@ -460,6 +460,10 @@ La coalición podrá ser total, parcial o flexible y deberá formalizarse, media
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
 Cada partido político en lo individual, independiente de participar coaligado, deberá garantizar la paridad de género, en las candidaturas locales correspondientes.
+
+> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2022)</small>
+
+Tratándose de la elección de Gobernador o Gobernadora, los partidos políticos deberán postular como candidato o candidata a una persona del género distinto a la registrada en la elección anterior.
 
 > <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1681,11 +1685,13 @@ VII. Cumplir con las obligaciones que le impongan la Legislatura y otras disposi
 
 El Poder Ejecutivo del Estado se deposita en un solo individuo que se denomina Gobernador del Estado de México.
 
-> <small>(REFORMADO, G.G. 6 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, G.G. 11 DE JULIO DE 2022)</small>
 
 ###### Artículo 66.
 
-La elección de Gobernador del Estado de México será mediante sufragio universal, libre, secreto y directo.
+La elección de Gobernador o Gobernadora del Estado de México será mediante sufragio universal, libre, secreto y directo.
+
+Se preservará el principio de paridad de género y la alternancia en la postulación que realicen los partidos políticos.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -5144,3 +5150,15 @@ TERCERO. El Poder Legislativo del Estado de México contará con un plazo de 30 
 CUARTO. Las reformas de este Decreto son aplicables a la “LXI” Legislatura y forman parte, en lo conducente, de su Primer Año de Ejercicio Constitucional.
 
 QUINTO. Se abrogan y/o derogan las disposiciones normativas de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 11 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 75.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 12 Y EL ARTÍCULO 66, Y SE ADICIONA UN PÁRRAFO SEXTO RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Para efectos de lo dispuesto en los párrafos primero y sexto del articulo 12; así como lo dispuesto en el párrafo segundo del artículo 66, los partidos políticos podrán postular libremente para el proceso electoral del año 2023 a un candidato o una candidata. Alternándose el género para las subsecuentes elecciones de Gobernador o Gobernadora.
+
+CUARTO. La designación de género de los partidos políticos para candidato o candidata en la elección de Gobernador o Gobernadora del Estado Libre y Soberano de México, no estará condicionada por la designación de género de otros candidatos o candidatas de otros Estados que concurran con la misma fecha de la elección del Estado Libre y Soberano de México.
