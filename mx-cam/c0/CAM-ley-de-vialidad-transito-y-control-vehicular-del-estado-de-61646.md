@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2022-06-07"
+last_updated: "2022-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2022.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -129,7 +129,9 @@ Para el cumplimiento de la presente Ley y los reglamentos que de ella emanen, la
 
 I. Garantizar el libre transito y la seguridad de las personas;
 
-II. Coordinar y ejercer el mando de los agentes de tránsito y demás elementos de la autoridad vial estatal, organizar y movilizar a los mismos, conforme a las necesidades y requerimientos que demande el interés público;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2022)</small>
+
+II. Coordinar y ejercer el mando de las y los policías estatales en materia de vialidad y tránsito, así como organizar y movilizar a los mismos, conforme a las necesidades y requerimientos que demande el interés público;
 
 III. Proveer en el ámbito de su competencia que la vialidad, su infraestructura, equipamiento auxiliar, servicios y elementos inherentes o incorporados a ella, se utilicen en forma adecuada conforme a su naturaleza, coordinándose en su caso, con las áreas correspondientes para lograr este objetivo;
 
@@ -339,9 +341,11 @@ Los peatones, usuarios y pasajeros están obligados al transitar por las vialida
 
 El reglamento de esta ley precisará las obligaciones de los peatones, usuarios y pasajeros de los servicios de transporte público y privado, considerando temas como el cruce de calles y avenidas, el uso de pasos y puentes peatonales, el uso de las vías de tránsito peatonal, el ascenso y descenso de las unidades de transporte público y privado solo en los lugares permitidos, obediencia a las señales y dispositivos de tránsito, uso de dispositivos de seguridad como cinturones y sillas especiales para niños en el asiento trasero del vehículo, y demás que se consideren necesarias.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
+
 ###### Artículo 30.
 
-Los agentes de tránsito tienen la obligación de brindar la información que les sea requerida por los peatones nacionales o extranjeros para la localización de calles, dependencias, sitios turísticos, hoteles o en su caso, carreteras o entronques de las mismas, que faciliten y agilicen su ubicación y tránsito dentro y fuera del Estado o Municipio.
+Las y los policías estatales y los cuerpos municipales de policía de tránsito tienen la obligación de brindar la información que les sea requerida por las y los peatones nacionales o extranjeros para la localización de calles, dependencias, sitios turísticos, hoteles o en su caso, carreteras o entronques de las mismas, que faciliten y agilicen su ubicación y tránsito dentro y fuera del Estado o Municipio.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS CONDUCTORES DE VEHÍCULOS
 
@@ -481,15 +485,19 @@ De la resolución que quede firme se tomará nota en los registros correspondien
 
 El uso indebido de licencias o permisos cancelados o suspendidos, hará acreedor al responsable de la imposición de las sanciones que para el caso establezcan las disposiciones de la legislación penal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2022)</small>
+
 ###### Artículo 45.
 
-El reglamento de esta Ley establecerá las obligaciones a las que se sujetarán los conductores de vehículos motorizados y de tracción humana o animal en su tránsito por las vialidades, considerando como mínimo los siguientes rubros:
+El reglamento de esta Ley establecerá las obligaciones a las que se sujetarán las y los conductores de vehículos motorizados y de tracción humana o animal en su tránsito por las vialidades, considerando como mínimo los siguientes rubros:
 
 I. Documentación necesaria para conducir un vehiculo;
 
 II. Uso de dispositivos como cinturones de seguridad y sillas especiales para niños, prohibiéndose el transporte de niños y mascotas en brazos del conductor o acompañantes;
 
-III. Indicaciones de los agentes de tránsito, así como de dispositivos electrónicos, gráficos, sonoros y de tiempo que regulan el tránsito por las vialidades;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2022)</small>
+
+III. Indicaciones de las y los policías estatales y los cuerpos municipales de policía de tránsito, así como de dispositivos electrónicos, gráficos, sonoros y de tiempo que regulan el tránsito por las vialidades;
 
 IV. Conocimiento del significado de las señalizaciones, así como su clasificación;
 
@@ -511,7 +519,9 @@ XI. Prohibición de instalar claxon, bocinas, escapes y en general dispositivos 
 
 XII. Todas las demás que se consideren necesarias.
 
-Las autoridades de tránsito implementarán programas para dar la debida difusión a estas obligaciones.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
+
+La Secretaría de Protección y Seguridad Ciudadana y los Municipios implementarán programas para dar la debida difusión a estas obligaciones.
 
 ### CAPÍTULO III. DE LAS MANIFESTACIONES PÚBLICAS EN LA VIALIDAD
 
@@ -571,17 +581,21 @@ VII. Las demás condiciones y especificaciones que resulten necesarias para el d
 
 Para que los Convenios citados en el presente artículo surtan efectos frente a terceros, deberán publicarse en el Periódico Oficial del Estado de Campeche.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
+
 ###### Artículo 51.
 
-Los agentes de tránsito deberán detener la marcha de cualquier vehículo cuando el conductor de éste se encuentre cometiendo alguna infracción a las disposiciones contenidas en esta Ley, su reglamento y demás disposiciones aplicables.
+Las y los policías estatales y los cuerpos municipales de policía de tránsito deberán detener la marcha de cualquier vehículo cuando la o el conductor de éste se encuentre cometiendo alguna infracción a las disposiciones contenidas en esta Ley, su reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2022)</small>
 
 ###### Artículo 52.
 
-La autoridad competente podrá, retirar los vehículos de circulación y asegurarlos en los depósitos vehiculares, autorizados o certificados por la Secretaría de Protección y Seguridad Ciudadana, en los supuestos previstos en las fracciones II, III, IV, VIII IX, XIII y XV de este artículo, así también la autoridad competente inmovilizará los vehículos para circular, como medida de seguridad para evitar afectación al orden público e interés social, cuando se traten de las hipótesis a que se refieren las fracciones I, V, VI, VII, X, XI, XII, XIV, XVI, XVII y XVIII de este numeral:
+Las y los policías estatales y los cuerpos municipales de policía de tránsito, en el ámbito de sus respectivas competencias, podrán retirar los vehículos de circulación y asegurarlos en los depósitos vehiculares, autorizados o certificados por la Secretaría de Protección y Seguridad Ciudadana, en los supuestos previstos en las fracciones II, III, IV, VIII, IX, XIII y XV de este artículo, así también las y los policías estatales y los cuerpos municipales de policía de tránsito inmovilizarán los vehículos para circular, como medida de seguridad para evitar afectación al orden público e interés social, cuando se traten de las hipótesis a que se refieren las fracciones I, V, VI, VII, X, XI, XII, XIV, XVI, XVII y XVIII de este numeral.
 
-I. A un conductor se le encuentre cometiendo violaciones a las disposiciones legales de tránsito y su comportamiento sea de agresividad física o verbal hacia el agente de tránsito;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2022)</small>
+
+I. A una o un conductor se le encuentre cometiendo violaciones a las disposiciones legales de tránsito y su comportamiento sea de agresividad física o verbal hacia las o los policías estatales o a los cuerpos municipales de policía de tránsito;
 
 II. Al ocurrir un accidente de tránsito y se produzcan hechos que puedan configurar un delito;
 
@@ -621,7 +635,9 @@ XVII. Por no portar en el parabrisas el engomado con chip de radiofrecuencia y n
 
 XVIII. En los demás casos que señale esta Ley y su Reglamento.
 
-Sin perjuicio de las responsabilidades que corresponda, si la infracción da lugar a un delito, el infractor será puesto a disposición del Ministerio Público por los agentes de tránsito que tengan conocimiento del caso.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
+
+Sin perjuicio de las responsabilidades que corresponda, si la infracción da lugar a un delito, la o el infractor será puesto a disposición del Ministerio Público por las o los policías estatales o los cuerpos municipales de policía de tránsito que tengan conocimiento del caso.
 
 ###### Artículo 53.
 
@@ -1329,11 +1345,13 @@ Las motocicletas solo podrán estacionarse en las áreas que (sic) tal fin se de
 
 En las zonas de carga y descarga, abasto y otras actividades que demanden los negocios comerciales e industriales, el tiempo máximo de estacionamiento será determinado por la autoridad de tránsito.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
+
 ###### Artículo 124.
 
-El funcionamiento de parquímetros será bajo vigilancia de los agentes de tránsito o vialidad.
+El funcionamiento de parquímetros será bajo vigilancia de las y los policías estatales y los cuerpos municipales de policía de tránsito.
 
-La autoridad, establecerá restricciones de estacionamiento en las vías de circulación, en las zonas que por sus características así lo ameriten, incentivando la creación de estacionamientos en las áreas aledañas a dichas vías.
+La autoridad estatal o municipal, en el ámbito de sus respectivas atribuciones, establecerán restricciones de estacionamiento en las vías de circulación, en las zonas que por sus características así lo ameriten, incentivando la creación de estacionamientos en las áreas aledañas a dichas vías.
 
 ### CAPÍTULO II. ESTACIONAMIENTOS
 
@@ -1365,13 +1383,17 @@ Las autoridades municipales podrán examinar en todo tiempo, que las instalacion
 
 ### CAPÍTULO I. EN MATERIA DE TRÁNSITO Y CONTROL VEHICULAR
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
+
 ###### Artículo 129.
 
-Para la imposición de las sanciones derivadas de la trasgresión de las disposiciones de la presente ley en materia de tránsito y control vehicular, los agentes de tránsito procederán en la forma que establezca el reglamento de esta ley.
+Para la imposición de las sanciones derivadas de la trasgresión de las disposiciones de la presente ley en materia de tránsito y control vehicular, las y los policías estatales y los cuerpos municipales de policía de tránsito procederán en la forma que establezca el reglamento de esta ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2022)</small>
 
 ###### Artículo 130.
 
-Las infracciones a la presente ley, en materia de tránsito y control vehicular serán sancionadas por la autoridad vial, dependiendo de su gravedad, mediante:
+Las infracciones a la presente ley, en materia de tránsito y control vehicular serán sancionadas por la autoridad vial estatal o municipal competente, dependiendo de su gravedad, mediante:
 
 I. Amonestación;
 
@@ -1381,11 +1403,17 @@ III. Sanción económica, por un importe de cuatro a cincuenta días de salario 
 
 IV. Cancelación o suspensión de la licencia o permiso para conducir.
 
-Tratándose de sanciones consistentes en la amonestación, retiro de la circulación de vehículos e imposición de sanciones económicas, serán impuestas por los agentes de tránsito que conozcan de las infracciones que den lugar a su imposición. Lo anterior, de conformidad con el Reglamento de esta ley o las disposiciones municipales correspondientes.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
 
-Cuando la sanción económica no pueda ser cubierta ni exista forma de asegurar su importe, se conmutará por arresto que no podrá exceder de treinta y seis horas. A propuesta del infractor, las autoridades en materia de tránsito podrán sustituir el arresto, por trabajos en beneficio de la comunidad, en los términos fijados por el Reglamento de la presente ley o los bandos municipales respectivos.
+Tratándose de sanciones consistentes en la amonestación, retiro de la circulación de vehículos e imposición de sanciones económicas, serán impuestas por las y los policías estatales y los cuerpos municipales de policía de tránsito que conozcan de las infracciones que den lugar a su imposición. Lo anterior, de conformidad con el Reglamento de esta ley o las disposiciones municipales correspondientes.
 
-La cancelación o suspensión del permiso o licencia para conducir, será impuesta por la autoridad vial, previa audiencia del infractor en los términos de esta ley.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
+
+Cuando la sanción económica no pueda ser cubierta ni exista forma de asegurar su importe, se conmutará por arresto que no podrá exceder de treinta y seis horas. A propuesta del infractor, las y los policías estatales o los cuerpos municipales de policía de tránsito podrán sustituir el arresto, por trabajos en beneficio de la comunidad, en los términos fijados por el Reglamento de la presente Ley o los bandos municipales respectivos.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
+
+La cancelación o suspensión del permiso o licencia para conducir, será impuesta por la autoridad vial estatal o municipal competente, previa audiencia del infractor en los términos de esta Ley.
 
 ###### Artículo 131.
 
@@ -1520,3 +1548,17 @@ OCTAVO.- El Ejecutivo Estatal y el H. Congreso del Estado deberán realizar las 
 NOVENO.- Conforme a lo dispuesto en el presente Decreto, el Ejecutivo Estatal cuenta con el plazo de cuarenta y cinco días hábiles, posteriores a la firma de los convenios a los que se hace referencia en los artículos 50 y 50 Bis, para la suscripción, actualización o modificación de los Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos celebrados por el Estado con los HH. Ayuntamientos.
 
 DÉCIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 11 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 88 POR EL QUE SE “SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 10; EL ARTÍCULO 30; EL PÁRRAFO PRIMERO, LA FRACCIÓN III Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 45; EL ARTÍCULO 51; EL PÁRRAFO PRIMERO, LA FRACCIÓN I Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 52; LOS ARTÍCULOS 124 Y 129 Y, LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 130, TODOS DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá realizar las modificaciones necesarias al Reglamento de la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche, para la debida implementación del mencionado Decreto.
+
+De igual forma, realizará las modificaciones que correspondan en el Reglamento Interior de la Secretaría de Protección y Seguridad Ciudadana de la Administración Pública Estatal en un plazo no mayor a treinta días naturales contados a partir de la publicación del presente Decreto, tomando las previsiones presupuestales que correspondan.
+
+TERCERO.- Los Municipios deberán realizar las modificaciones que correspondan en sus ordenamientos para adecuarlos al contenido del presente Decreto, en un plazo no mayor a noventa días naturales contados a partir de la publicación del presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
