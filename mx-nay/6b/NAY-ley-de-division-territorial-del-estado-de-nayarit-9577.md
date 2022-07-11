@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-division-territorial-del-estado-de-nayarit-9577"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-04"
-last_updated: "2018-04-20"
+last_updated: "2022-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DIVISIÓN TERRITORIAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de febrero de 1984.
 
@@ -143,11 +143,11 @@ El Municipio de Ahuacatlán colinda con los municipios de Jala, Ixtlán del Río
 
 El Municipio de Amatlán de Cañas colinda con los municipios de Ixtlán del Río, Ahuacatlán y con el Estado de Jalisco; se integra con las siguientes localidades: Amatlán de Cañas, Agua Escondida, Barranca del Oro, Copalillo, Cerritos, El Farito, Estancia de los López, El Naranjo, El Rosario, El Pilón, Jesús María, La Haciendita, La Máquina, Las Cuevas, La Lima, Los Agrios, Las Anonas, La Labor, Los Mezquites, Portezuelo, Pie de la Cuesta, San Blasito, San Valentín, Tepuzhuacán, Yerbabuena y las demás que en lo sucesivo sean creadas.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 14.
 
-El Municipio de Bahía de Banderas colinda con el municipio de Compostela y con el Estado de Jalisco; se integra con las siguientes localidades: Valle de Banderas, Agua Milpa, Brasiles, Bucerías, Corral del Risco, Destiladeras, El Coatante, El Colomo, El Guamúchil, El Porvenir, El Tizate, Fortuna de Vallejo, Fraccionamiento Playas de Huanacaxtle, Higuera Blanca, La Calera, La Cruz de Huanacaxtle, La Jarretadera, Las Lomas, Las Mesas, Lo de Marcos, Los Sauces, Mezcales, Mezcalitos, Nuevo Vallarta, Palmaritos, Punta del Burro, Punta de Mita, Punta Monterrey, Punta Pontoque, San Clemente, San Francisco, San Ignacio, San José del Valle, San Juan de Abajo, San Juan Papachula, San Quintín, Santa Rosa Tapachula, San Vicente y Sayulita y Valle de Banderas y las demás que en lo sucesivo sean creadas.
+El Municipio de Bahía de Banderas colinda con el municipio de Compostela y con el Estado de Jalisco; se integra con las siguientes localidades: Valle de Banderas, Agua Milpa, Brasiles, Bucerías, Corral del Risco, Destiladeras, El Coatante, El Colomo, El Guamúchil, El Porvenir, El Tizate, Fortuna de Vallejo, Fraccionamiento Playas de Huanacaxtle, Higuera Blanca, La Calera, La Cruz de Huanacaxtle, La Jarretadera, Las Lomas, Las Mesas, Lo de Marcos, Los Sauces, Mezcales, Mezcalitos, Nuevo Nayarit, Palmaritos, Punta del Burro, Punta de Mita, Punta Monterrey, Punta Pontoque, San Clemente, San Francisco, San Ignacio, San José del Valle, San Juan de Abajo, San Juan Papachula, San Quintín, Santa Rosa Tapachula, San Vicente y Sayulita y Valle de Banderas y las demás que en lo sucesivo sean creadas.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
 
@@ -416,3 +416,15 @@ P.O. 20 DE ABRIL DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 16 DE LA LEY DE DIVISIÓN TERRITORIAL DEL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 11 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 14 DE LA LEY DE DIVISIÓN TERRITORIAL DEL ESTADO DE NAYARIT.”]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de la localidad de Nuevo Vallarta, de la cual se reforma su denominación en virtud del presente Decreto, deberán entenderse referidas a Nuevo Nayarit.
+
+Todos los documentos públicos o privados que se hayan expedido previamente a la entrada en vigor del presente Decreto y que hagan referencia a la localidad de Nuevo Vallarta, deberán entenderse hechas a Nuevo Nayarit, por lo tanto, seguirán teniendo plena validez. Aquellos que se deban emitir posteriormente a la entrada en vigor del presente Decreto, deberán referirse expresamente a Nuevo Nayarit.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
