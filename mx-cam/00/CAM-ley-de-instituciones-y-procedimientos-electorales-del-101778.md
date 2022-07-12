@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-instituciones-y-procedimientos-electorales-del-101778"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2020-05-29"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 30 de junio de 2014.
 
@@ -176,6 +176,10 @@ XXII. Violencia Política contra las mujeres en razón de género: Es toda acci�
 ###### Artículo 5º.
 
 Votar en las elecciones constituye un derecho y una obligación de la ciudadanía campechana que se ejerce para integrar órganos del Estado de elección popular. También es derecho de la ciudadanía, y para los partidos políticos, la igualdad de oportunidades y la paridad entre mujeres y hombres para tener acceso a cargos de elección popular. El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2022)</small>
+
+Los derechos político-electorales de las y los campechanos, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación alguna por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -5307,6 +5311,10 @@ Recibida la comunicación que antecede, el Consejo Distrital decidirá si se rea
 
 Los electores votarán en el orden en que se presenten ante la Mesa Directiva de Casilla, debiendo mostrar su credencial para votar o en su caso, la resolución del Tribunal Electoral que les otorga el derecho de votar.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2022)</small>
+
+Si el elector tiene o padece alguna discapacidad tendrá derecho preferencial de emitir su voto, deberá solicitar su turno a la o el presidente o quien esté en funciones en ese momento en la casilla, para tal caso, deberán tomarse las medidas necesarias para que la persona pueda hacer efectivo su voto.
+
 Los presidentes de casilla permitirán emitir su voto a aquellos ciudadanos cuya credencial para votar contenga errores de seccionamiento, siempre que aparezcan en la Lista Nominal de Electores correspondiente a su domicilio.
 
 En el caso referido en el párrafo anterior, los presidentes de casilla, además de identificar a los electores en los términos de esta Ley de Instituciones, se cerciorarán de su residencia en la Sección Electoral correspondiente por el medio que estimen más efectivo.
@@ -6875,6 +6883,16 @@ El Tribunal Electoral, conforme a las disposiciones del presente ordenamiento, r
 
 Si así lo considera procedente el Magistrado instructor podrá ordenar la realización de cualquier diligencia para mejor proveer, que considere necesaria para la resolución de los asuntos que conozca.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2022)</small>
+
+###### Artículo 638 Bis.
+
+El Tribunal Electoral deberá garantizar en todos los asuntos de su competencia la figura del amicus curiae para posibilitar la participación ciudadana, así como la opinión y colaboración de los expertos y de la sociedad civil en la deliberación de las cuestiones de justicia a resolver.
+
+Cualquier persona puede actuar como amicus curiae, siempre y cuando se presente antes de la resolución del asunto, que no tenga el carácter de parte en el litigio, y tenga únicamente la finalidad o intención de aumentar el conocimiento del juzgador para resolver la cuestión planteada.
+
+Quien actúe como amicus curiae, podrá hacerlo a través de cualquiera de los medios autorizados por el Tribunal Electoral.
+
 ### CAPÍTULO SEGUNDO. DE LOS PLAZOS Y DE LOS TÉRMINOS
 
 ###### Artículo 639.
@@ -8058,3 +8076,19 @@ TERCERO.- Las modificaciones a las denominaciones y estructuras de las áreas y 
 CUARTO.- El segundo párrafo del artículo 641 relativo a la presentación de medios de impugnación vía electrónica, se aplicará hasta en tanto el Pleno del Tribunal Electoral emita los lineamientos respectivos y cuente con la capacidad presupuestal para su implementación.
 
 QUINTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
+
+P.O. 12 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 90 POR EL QUE “SE ADICIONA EL ARTÍCULO 638 BIS A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
+
+Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 12 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 95 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 5° Y UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 491 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
+
+Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
