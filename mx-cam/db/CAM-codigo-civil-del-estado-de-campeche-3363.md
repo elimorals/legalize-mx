@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2022-04-28"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -745,6 +745,10 @@ IV. Copia del acta de defunción del cónyuge fallecido, si alguno de los preten
 
 V. Testimonio o copia con firmas autógrafas de las capitulaciones matrimoniales, si el matrimonio se pretende celebrar bajo el régimen de sociedad conyugal.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2022)</small>
+
+Art. 109 bis.- Recibida la solicitud de matrimonio, el Oficial del Registro Civil deberá oficiosamente realizar el trámite correspondiente ante la Dirección del Registro del Estado Civil para obtener la expedición de un certificado que informe si alguno de los pretendientes se encuentra inscrito en el Registro de Deudores Alimentarios, en términos de los artículos 39 y 339 ter de este Código Civil, cuyo resultado se hará del conocimiento de los pretendientes por el Oficial del Registro Civil. La circunstancia de estar inscrito en el Registro de Deudores Alimentarios Morosos no constituirá un impedimento para contraer matrimonio.
+
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2016)</small>
 
 ###### Art. 110.
@@ -1145,7 +1149,9 @@ III. El parentesco de afinidad en línea recta, sin limitación alguna;
 
 IV. El atentado contra la vida de alguno de los cónyuges para contraer matrimonio con el que quede libre;
 
-V. La violencia física o psicológica para la celebración del matrimonio; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2022)</small>
+
+V. Ejercer cualquier tipo de violencia para la celebración del matrimonio en cualquiera de las modalidades en las que esta se pueda manifestar, de conformidad con lo previsto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Campeche; y
 
 VI. El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
@@ -1208,6 +1214,10 @@ Los cónyuges vivirán juntos en el domicilio conyugal. Los tribunales con conoc
 Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
 
 Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2022)</small>
+
+Art. 175 bis.- El desempeño del trabajo del hogar o el cuidado de las hijas y/o los hijos, se estimará como una contribución económica al sostenimiento del hogar. Se entenderá que el cónyuge que no trabaje fuera del hogar sin remuneración cumple con las cargas económicas familiares con una contribución no monetaria.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
 
@@ -16542,3 +16552,11 @@ El presente decreto entrará en vigor a los quince días después de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga cualquier disposición que contravenga la presente Ley.
+
+P.O. 12 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 89 POR EL QUE “SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 167 Y, SE ADICIONAN LOS ARTÍCULOS 109 BIS Y 175 BIS DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
