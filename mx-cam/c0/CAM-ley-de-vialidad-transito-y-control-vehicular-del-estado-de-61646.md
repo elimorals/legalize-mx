@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2022-07-11"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE VIALIDAD, TRANSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -371,9 +373,11 @@ I. Automovilistas: Estos son quienes cuentan con la licencia o permiso para cond
 
 II. Motociclistas: Estos son los conductores de vehículos de propulsión motriz, de dos, tres o cuatro ruedas, sin importar su capacidad, tamaño o cilindrada;
 
-III. Chóferes: Estos son los conductores de vehículos destinados a la prestación del servicio de transporte, mediante salario y que manejan a las órdenes de un patrón un vehículo de servicio particular; y
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2022)</small>
 
-IV. Chóferes de transporte público: estos son los conductores de cualquier tipo de vehículo destinado al servicio público de transporte colectivo o individual.
+III. Choferes: Estos son los conductores de vehículos destinados a la prestación del servicio de transporte, mediante salario y que manejan a las órdenes de un patrón un vehículo de servicio particular. Para efecto que los choferes puedan conducir vehículos del servicio público de transporte en el Estado, o mercantil y privado en la modalidad de pasajeros, deberán contar con la certificación y cumplir con los requisitos establecidos en el Título Décimo de la Ley de Transporte del Estado de Campeche.
+
+IV. (DEROGADA, P.O. 12 DE JULIO DE 2022)
 
 ###### Artículo 34.
 
@@ -381,9 +385,9 @@ El Reglamento de la presente ley, fijará los requisitos y datos que se exigirá
 
 Los requisitos que se exijan, tendrán como finalidad identificar adecuadamente al solicitante, recabar sus datos personales, verificar sus condiciones particulares de salud y su pericia en el manejo de vehículos motorizados.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2022)</small>
 
-En el caso de la licencia de chofer de transporte público, se deberá practicar adicionalmente exámenes toxicológicos y psicológicos, y establecer la obligación de tomar un curso de capacitación impartido por el área que la Secretaria de Protección y Seguridad Ciudadana determine, asimismo se exigirá para la renovación de dicha licencia la acreditación de no haber sido infraccionado en cinco ocasiones durante la vigencia de la licencia y de haber participado en los cursos de capacitación y evaluación que la Secretaría de Protección y Seguridad Ciudadana deberá impartir periódicamente.
+En el caso de la licencia de chofer que tenga como finalidad la conducción de vehículos del servicio público de transporte de pasajeros en cualquiera de sus modalidades, se atenderá a lo dispuesto en el artículo 130 de la Ley de Transporte del Estado de Campeche.
 
 ###### Artículo 35.
 
@@ -1562,3 +1566,13 @@ De igual forma, realizará las modificaciones que correspondan en el Reglamento 
 TERCERO.- Los Municipios deberán realizar las modificaciones que correspondan en sus ordenamientos para adecuarlos al contenido del presente Decreto, en un plazo no mayor a noventa días naturales contados a partir de la publicación del presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+P.O. 12 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 91 POR EL QUE "SE REFORMA LA FRACCIÓN III Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 33 Y, SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado hará las adecuaciones reglamentarias que correspondan en un plazo de noventa días contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
