@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-civil-prevencion-y-atencion-de-desastres-8403
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-18"
-last_updated: "2018-06-14"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1469 +21,1743 @@ state: "CAM"
 ---
 # LEY DE PROTECCION CIVIL, PREVENCION Y ATENCION DE DESASTRES DEL ESTADO DE CAMPECHE
 
-LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
+LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
 
-Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
+Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 18 de Noviembre de 2011.
 
-GOBIERNO DEL ESTADO DE HIDALGO
+FERNANDO EUTIMIO ORTEGA BERNES, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
 
-PODER EJECUTIVO
+Que el H. Congreso Constitucional del Estado Libre y Soberano de Campeche, me ha dirigido el siguiente:
 
-JOSÉ FRANCISCO OLVERA RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A SUS HABITANTES SABED:
+DECRETO
 
-QUE LA LXI LEGISLATURA DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+La LX Legislatura del Congreso del Estado de Campeche decreta:
 
-D E C R E T O NÚM. 34
-
-QUE CONTIENE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
-
-El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política de los Estados Unidos Mexicanos,
-
-D E C R E T A:
-
-A N T E C E D E N T E
-
-[...]
-
-Por lo que, en mérito de lo expuesto; y
-
-POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
-
-D E C R E T O
-
-QUE CONTIENE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
+Número 163
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+Se expide la
 
-P.O. 1 DE AGOSTO DE 2016.
+LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE
 
-## Titulo Primero. Disposiciones Generales
+## TÍTULO PRIMERO. DE LA PROTECCIÓN CIVIL
 
-### Capítulo I. Disposiciones Generales
+### CAPÍTULO ÚNICO. DE LAS AUTORIDADES
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y tendrán aplicación en el Estado de Hidalgo en materia de derechos humanos y combate a la Discriminación.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Campeche; tiene por objeto regular las acciones de Protección Civil, así como la organización, funcionamiento y coordinación de los Sistemas Estatal y Municipales en la materia, en el marco de las disposiciones relativas al Sistema Nacional de Protección Civil.
 
-La presente Ley será de aplicación a toda persona que se encuentre en el territorio hidalguense, en los términos del Artículo 1 de la Constitución Política de los Estados Unidos Mexicanos.
+###### ARTÍCULO 2.
 
-###### Artículo 2.
+La Protección Civil en el Estado es el conjunto de disposiciones, medidas y acciones realizadas por la Administración Pública Estatal y los gobiernos municipales, en sus respectivos ámbitos de competencia, en coordinación con los sectores social y privado, para proteger la vida de la población, sus bienes, servicios estratégicos y su entorno, frente a la eventualidad de un desastre provocado por agentes naturales o humanos a través de la prevención, el auxilio, la recuperación y el apoyo a la población.
 
-Los derechos humanos a que se refiere esta Ley, son los reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo y por las leyes que de ellas emanen, así como los contenidos en los instrumentos internacionales vigentes en la República Mexicana.
+###### ARTÍCULO 3.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+La aplicación y vigilancia de la presente Ley corresponden al Titular del Poder Ejecutivo del Estado, por conducto del Sistema Estatal de Protección civil, así como también a las dependencias, organismos y HH. Ayuntamientos, cuyas funciones se encuentren vinculadas a la materia.
 
-Los derechos humanos son universales, indivisibles, interdependientes y progresivos. Todos tienen el mismo rango y surten plenos efectos frente a autoridades y particulares.
+###### ARTÍCULO 4.
 
-###### Artículo 3.
+Para los efectos de esta Ley se entenderá por:
 
-Para los efectos de esta Ley, debe entenderse por:
+I. Agente afectable: Personas, bienes, infraestructura, servicios, planta productiva, el medio ambiente, que son propensos a ser afectados o dañados por un agente perturbador;
 
-I.- Ley. Ley de Derechos Humanos del Estado de Hidalgo;
+II. Agentes perturbadores: Los fenómenos de origen natural o antropogénico con potencial de producir efectos adversos sobre los agentes afectables;
 
-II.- Comisión. Comisión de Derechos Humanos del Estado de Hidalgo;
+III. Agente regulador: Lo constituyen las acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente, para reducir los riesgos, controlar y prevenir los efectos adversos de un agente perturbador;
 
-III.- Reglamento. Reglamento Interno de la Comisión de Derechos Humanos del Estado de Hidalgo;
+IV. Albergado: Persona que recibe asilo, amparo, alojamiento y resguardo ante la amenaza, inminencia u ocurrencia de un agente perturbador;
 
-IV.- Presidente. Presidente de la Comisión de Derechos Humanos del Estado de Hidalgo;
+V. Albergue: Instalación que se establece para brindar resguardo a las personas que se han visto afectadas por los efectos de fenómenos perturbadores y en donde permanecen hasta que se da la recuperación o reconstrucción de los bienes;
 
-V.- Visitadores Generales. Visitadores Generales de la Comisión de Derechos Humanos del Estado de Hidalgo;
+VI. Análisis de riesgos: Uso sistemático de la información disponible para identificar peligros y estimar el riesgo para individuos o poblaciones, propiedades o medio ambiente.
 
-VI.- Secretario Ejecutivo. Secretario Ejecutivo de la Comisión de Derechos Humanos del Estado de Hidalgo;
+VII. Atlas Estatal y Municipal de Riesgos: Sistema integral de información sobre los fenómenos naturales perturbadores y sus daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de los sistemas afectables. Se integra con la información en el nivel estatal, municipal y de localidades, según corresponda. Consta de información histórica, bases de datos, sistemas de información geográfica y herramientas para el análisis y la simulación de escenarios, así como la estimación de pérdidas por desastres. Por la naturaleza dinámica del riesgo, deberá mantenerse como un instrumento de actualización permanente;
 
-VII.- Gobernador. Gobernador Constitucional del Estado Libre y Soberano de Hidalgo;
+VIII. Atlas Estatal y Municipal de Peligros Naturales: Instrumento de análisis que permite la identificación espacial y temporal de los posibles efectos de los fenómenos perturbadores naturales, y que sirve para apoyar a las autoridades en la planeación del desarrollo urbano, social y en el diseño de estrategias de prevención de desastres;
 
-VIII.- Congreso. Congreso del Estado Libre y Soberano de Hidalgo;
+IX. Auxilio: respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
 
-IX.- Consejo. El Consejo Consultivo de la Comisión;
+X. Brigada: Grupo de personas capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate. Pudiendo ser designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el Programa Interno de Protección Civil del inmueble;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+XI. Cambio climático: Cambio en el clima, atribuible directa o indirectamente a la actividad humana, que altera la composición de la atmósfera mundial y que se suma a la variabilidad climática natural observada durante períodos comparables;
 
-X.- Ayuntamientos. Conjunto de autoridades que se encargan de la administración pública de los Municipios;
+XII. Cenecam: Centro Estatal de Emergencias;
 
-XI.- Poder Judicial. Todos los órganos que forman parte del Poder Judicial del Estado de Hidalgo.
+XIII. Centros Municipales: A los Centros Municipales de Emergencias, que son los organismos encargados de la verificación, organización, coordinación y atención de las emergencias, de los programas en materia de Protección Civil y de la operación del Sistema Estatal de Protección Civil, en su demarcación territorial;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+XIV. Centro de acopio: Lugar autorizado para recibir donaciones en especie, en apoyo a la población afectada y/o damnificada por una emergencia o desastre.
 
-XII.- Autoridades del Estado. Las dependencias, así como las entidades del Poder Ejecutivo, Legislativo y Judicial, Organismos Públicos Autónomos, descentralizados, desconcentrados y Ayuntamientos, a través de las y los servidores públicos.
+XV. Centro Estatal de Operaciones para la atención de Emergencias: es el organismo de planificación, organización, dirección, control y supervisión del Consejo Estatal de Protección Civil. Es responsable de mantener la coordinación y operación conjunta entre los diferentes niveles, jurisdicciones y funciones de las instituciones involucradas en la preparación y respuesta a emergencias y/o desastres.
 
-###### Artículo 4.
+XVI. Comité Científico Asesor: Órgano técnico de consulta del Sistema Estatal de Protección Civil en la Gestión Integral del Riesgo;
 
-En el Estado de Hidalgo, todas las personas gozarán, con plena igualdad y sin discriminación, de los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado, por las leyes que de ellas emanen, así como por los instrumentos internacionales vigentes en el País.
+XVII. Consejo: Al Consejo Estatal de Protección de Protección (sic) Civil;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+XVIII. Consejo Municipal: Al Consejo Municipal de Protección Civil;
 
-Toda persona tiene, en correspondencia con sus derechos humanos, deberes hacia la familia, la comunidad y la humanidad. Los derechos de cada persona están limitados por los derechos de los demás, por la seguridad de todos y por las justas exigencias del interés general, en una sociedad democrática.
+XIX. Continuidad de operaciones: Al proceso de planeación con el que se busca garantizar que el trabajo de las instituciones públicas y privadas, no sea interrumpido ante la ocurrencia de un desastre;
 
-###### Artículo 5.
+XX. Damnificado: Persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre;
 
-La protección de los derechos humanos, así como la educación, difusión y promoción de una cultura de conocimiento y respeto de los mismos, son políticas prioritarias en el Estado de Hidalgo.
+XXI. Declaratoria de Desastre: Documento mediante el cual el Gobernador del Estado declara formalmente en zona de desastre uno o varios municipios de la geografía estatal para poder tener acceso a los instrumentos financieros correspondientes, diseñados para la atención de la población;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+XXII. Declaratoria de Emergencia: Documento mediante el cual el Gobernador del Estado declara formalmente la alta probabilidad o inminencia de que se presente un fenómeno perturbador, que ponga en riesgo la seguridad e integridad de la población;
 
-En consecuencia, todas las autoridades, las y los servidores públicos, Estatales o Municipales, particulares y organizaciones de la sociedad civil, en el ámbito de sus respectivas responsabilidades, estarán obligados a promover, respetar, proteger y contribuir a la realización de los derechos humanos, así como prevenir sus violaciones. Las autoridades y servidores públicos deberán garantizarlos, sancionar y reparar cualquier vulneración a los mismos.
+XXIII. Desastre: Al resultado de la ocurrencia de uno o más agentes perturbadores severos y/o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+XXIV. Donativo: La aportación en especie o numerario que realizan las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio autorizados o las instituciones de crédito, para ayudar al Estado o Municipios en emergencia o desastre;
 
-###### Artículo 6.
+XXV. Emergencia: Situación anormal que puede causar un daño a la sociedad y propiciar un riesgo excesivo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
 
-Los planes, programas y presupuestos de las autoridades del Estado, deberán adoptar una perspectiva de pleno respeto y garantía de los derechos humanos y el combate de cualquier forma de discriminación.
+XXVI. Evacuado: Persona que con carácter preventivo y provisional, ante la posibilidad o certeza de una emergencia o desastre, se retira o es retirado de su lugar de alojamiento usual, para garantizar su seguridad y supervivencia;
 
-###### Artículo 7.
+XXVII. Fenómeno antropogénico: Agente perturbador producido por la actividad humana;
 
-La interpretación de todas las normas que contengan Derechos Humanos, así como la actuación de las autoridades que deben aplicarlas, será congruente con la Constitución Política de los Estados Unidos Mexicanos, con los instrumentos internacionales aplicables en la materia, así como con las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales especializados en el tema.
+XXVIII. Fenómeno Natural: Agente perturbador producido por la naturaleza;
 
-Cuando se presenten dos o más interpretaciones posibles de alguna norma de derechos humanos, se deberá preferir aquella que proteja con mayor eficacia a los titulares del derecho en cuestión o bien aquella que amplíe la esfera jurídicamente protegida por el mismo derecho.
+XXIX. Fenómeno geológico: Agente perturbador que tiene como causa directa las acciones y movimientos de la corteza terrestre. A esta categoría pertenecen los sismos, las erupciones volcánicas, los tsunamis o maremotos, la inestabilidad de laderas, flujos, caídos o derrumbes, hundimientos, subsidencia y agrietamientos;
 
-###### Artículo 8.
+XXX. Fenómeno hidrometeorológico: Agente perturbador que se genera por la acción de los agentes atmosféricos, tales como: ciclones tropicales, lluvias extremas, inundaciones pluviales, fluviales, costeras y lacustres, granizo, polvo y electricidad, heladas, sequías, ondas cálidas y gélidas, y tornados;
 
-Ninguna Ley, Reglamento o cualquier otra norma, ya sea de carácter Estatal o Municipal, puede ser interpretada en el sentido de permitir suprimir, limitar, excluir o coartar el goce y ejercicio de los derechos humanos, se debe optar por el sentido más favorable a la persona y atendiendo a su progresividad.
+XXXI. Fenómeno químico-tecnológico: Agente perturbador que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas, radiaciones y derrames;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
+XXXII. Fenómeno sanitario-ecológico: Agente perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando la muerte o la alteración de la salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
 
-## Título Segundo. De los Derechos Humanos y el combate a la Discriminación en el Estado de Hidalgo
+XXXIII. Fenómeno socio-organizativo: Agente perturbador que se genera con motivo de errores humanos o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: demostraciones de inconformidad social, concentración masiva de población, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres, e interrupción o afectación de los servicios básicos o de infraestructura estratégica;
 
-### Capítulo II. De los Derechos Humanos, Igualdad y Combate a la Discriminación en Planes, Programas y Políticas Públicas del Estado
+XXXIV. Gestión integral de riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+XXXV. Grupos voluntarios: Las personas morales o físicas, que se han acreditado ante las autoridades competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar de manera altruista y comprometida, sus servicios en acciones de protección civil;
 
-###### Artículo 9.
+XXXVI. Hospital seguro: Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
 
-El Poder Ejecutivo, deberá incluir en el Plan Estatal de Desarrollo, un apartado en materia de Derechos Humanos, Igualdad y combate a la discriminación. Las demás autoridades del Estado, incluyendo a las municipales, establecerán en sus programas un apartado en donde atiendan esos temas y acatarán lo que establezcan las Leyes.
+XXXVII. Identificación de riesgos: Es el reconocimiento y valoración de las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y su vulnerabilidad;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+XXXVIII. Infraestructura estratégica: Aquella que es indispensable para la provisión de bienes y servicios públicos, y cuya destrucción o inhabilitación es una amenaza en contra de la Seguridad Estatal o Nacional;
 
-###### Artículo 10.
+XXXIX. Instalaciones de riesgo: Son aquellas que no manejan, elaboran, almacenan o procesan materiales en estado sólido, liquido o vapor, pero que por la naturaleza de sus actividades pueden poner en peligro a sus trabajadores, clientes o población aledaña a sus instalaciones.
 
-Los lineamientos que en materia de derechos humanos, igualdad y combate a la discriminación, que sean incluidos en el Plan Estatal de Desarrollo, programas y políticas públicas de las autoridades del Estado, tendrán el carácter de enunciativos más no limitativos.
+XL. Instalaciones de alto riesgo: Son aquellas que por la naturaleza de sus actividades manejan, elaboran, almacenan o procesan materiales en estado sólido, liquido o vapor que por su composición química puedan producir explosiones, gases tóxicos, líquidos y sólidos flamables, oxidantes, venenos, material radiactivo o sustancias que puedan causar daño a la población a través del medio ambiente, impacto directo o indirecto, o la infraestructura.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+XLI. Instrumentos financieros de gestión de riesgos: Son aquellos programas y mecanismos de financiamiento y cofinanciamiento con el que cuenta el gobierno federal para apoyar a las instancias públicas federales y entidades federativas, en la ejecución de proyectos y acciones derivadas de la Gestión Integral de Riesgos, para la prevención y atención de situaciones de emergencia y/o desastre;
 
-###### Artículo 11.
+XLII. Mitigación: Es toda acción orientada a disminuir o eliminar el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
 
-Las autoridades del Estado deberán establecer políticas públicas a favor de los derechos humanos, la no discriminación y la igualdad jurídica de oportunidades y de trato. Asimismo, mecanismos permanentes de seguimiento para la instrumentación de las políticas públicas en materia Derechos Humanos y de no discriminación.
+XLIII. Organizaciones Civiles: Las asociaciones de personas que coadyuvan en las tareas de prevención, mitigación, auxilio y restablecimiento ante la presencia de un fenómeno perturbador, trabajando corresponsablemente con la autoridad.
 
-Las autoridades del Estado, obligadas por esta Ley, deberán adoptar las acciones que estén a su alcance para el cumplimiento de sus obligaciones, con indicadores objetivos y medibles, a favor de los Derechos Humanos, igualdad y la no discriminación.
+XLIV. Peligro: Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio dado;
 
-La observancia del cumplimiento de la Ley y de las políticas públicas para el cumplimiento y garantía de los derechos humanos, el derecho a la no discriminación y la igualdad de oportunidades y de trato, estará a cargo de la Comisión de Derechos Humanos del Estado de Hidalgo, sujetándose a las disposiciones de la Ley, en concordancia con la legislación nacional de la materia y los instrumentos internacionales aprobados por el Estado Mexicano.
+XLV. Preparación: Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
 
-###### Artículo 12.
+XLVI. Prevención: Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros y/o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos;
 
-La educación e información en el sistema escolar estatal, público y privado, serán consideradas prioritarias para la consecución de una cultura de conocimiento y respeto de los derechos humanos y el combate a la discriminación.
+XLVII. Previsión: Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
 
-La educación en derechos humanos debe orientarse hacia el pleno desarrollo de la personalidad humana y el sentido de la dignidad de todos, instruyendo a sus destinatarios en las capacidades necesarias para participar de forma efectiva en una sociedad democrática, favoreciendo la tolerancia y la autonomía personal dentro de la solidaridad.
+XLVIII. Programa Externo: El Programa Externo de Protección Civil se circunscribe al ámbito externo de una dependencia, entidad, institución u organismo, pertenecientes a los sectores público y privado, y se implementa como una extensión del Programa Interno, según sea el caso, en los inmuebles correspondientes, en coordinación con las autoridades involucradas en la materia, con el fin de establecer las acciones preventivas y de auxilio destinadas a salvaguardar la integridad física de la población, sus bienes, servicios estratégicos, y el entorno de la instalación.
 
-En todas las tareas de educación en derechos humanos se deberán privilegiar los principios de certeza jurídica, cultura de la legalidad y prevención del delito.
+XLIX. Programa Interno de Protección Civil: Instrumento de planeación y operación, circunscrito al ámbito de una dependencia, entidad, institución u organismo del sector público y privado; que se compone por el plan operativo para la Unidad Interna de Protección Civil, el plan para la continuidad de operaciones y el plan de contingencias, y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de alguna emergencia o desastre;
 
-Se procurará, por parte de las autoridades competentes, el fomento de actividades culturales, artísticas, deportivas y de cultura ambiental, como formas de expresión de la convivencia civil pacífica y del desarrollo armónico de la personalidad.
+L. Programa Nacional: Al Programa Nacional de Protección Civil;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+LI. Programa Estatal: Al Programa Estatal de Protección Civil;
 
-###### Artículo 13.
+LII. Protección Civil: Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural y/o antropogénico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público y privado en el marco del Sistema Estatal de Protección Civil, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes, la infraestructura, la planta productiva y el medio ambiente;
 
-La Secretaría de Educación Pública Estatal, en su ámbito de competencia y en coordinación con la Comisión, buscará la adecuación de los planes y programas de estudio con la finalidad de incluir el conocimiento de los Derechos Humanos y el combate a la discriminación de todos los niveles educativos. Dicha dependencia brindará todas las facilidades que sean necesarias para que la Comisión pueda dar cumplimiento a sus funciones, atribuciones y obligaciones, para lograr en los educandos una cultura en Derechos Humanos y no discriminación.
+LIII. Reconstrucción: La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurar la no generación de nuevos riesgos y mejorar las condiciones preexistentes;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+LIV. Recuperación: Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
 
-### Capítulo III. De la Educación en Derechos Humanos en el Estado
+LV. Reducción de riesgos: Intervención preventiva -de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación-, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
 
-###### Artículo 14.
+LVI. Refugio Temporal: La instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre.
 
-Los órganos de seguridad pública y de procuración e impartición de justicia, incorporarán en sus programas de formación y de capacitación, contenidos en materia de derechos humanos y no discriminación, para fomentar su conocimiento y respeto.
+LVII. Reglamento: Al Reglamento de esta ley;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
+LVIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
 
-###### Artículo 15.
+LIX. Riesgo o Contingencia: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
 
-El día diez de diciembre de cada año, conmemorando el aniversario de la aprobación de la Declaración Universal de los Derechos Humanos, se celebrará el "Día Estatal de los Derechos Humanos y Combate a la Discriminación", el cual se reforzará con actos de promoción y difusión.
+LX. Riesgo inminente: Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
 
-###### Artículo 16.
+LXI. Secretaría: La Secretaría de Gobierno;
 
-Se instituye “La Medalla al Mérito en la promoción y defensa de los derechos humanos”.
+LXII. Simulacro: Representación, mediante una simulación, de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una atención eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
 
-Dicha medalla será entregada anualmente por la Comisión, a la persona u organización que se haya destacado en la defensa y promoción de los derechos humanos y el combate a la discriminación.
+LXIII. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación que afecta a su población y equipo, con posible afectación a instalaciones circundantes;
 
-###### Artículo 17.
+LXIV. Sistema Afectable: Es todo sistema integrado por el hombre y por los elementos que éste necesita para su subsistencia, sobre el cual se pueden materializar los efectos de una emergencia o desastre.
 
-La Comisión de Derechos Humanos del Estado de Hidalgo es un organismo público, con personalidad jurídica y patrimonio propios, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y podrá decidir sobre su organización interna y funcionamiento en los términos que disponga la Ley, cuyo objeto es la protección, defensa, investigación, estudio, investigación (sic), promoción y difusión de los derechos humanos, así como el combate a toda forma de discriminación. También procurará la reparación del daño por las violaciones de estos derechos por parte de las autoridades o servidores públicos responsables.
+LXV. Sistema Estatal: Al Sistema Estatal de Protección Civil;
 
-###### Artículo 18.
+LXVI. Unidad Interna de Protección Civil: Es el órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, implementar y coordinar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público y privado;
 
-La Comisión en el desempeño de sus atribuciones, en el ejercicio de su autonomía y del ejercicio de su presupuesto anual, no recibirá instrucciones o indicaciones de institución o servidor público alguno.
+LXVII. Unidad Verificadora: Es la persona física o moral, avalada por la Unidad Mexicana de Acreditación A. C., por la Secretaría de Energía, por Petróleos Mexicanos o por otra instancia gubernamental, con la finalidad de realizar actividades de auditoría y responsabilidad en la seguridad de instalaciones. La acreditación, en ningún caso, constituye una certificación de productos, procesos o servicios; asimismo la acreditación no implica la aprobación, la cual deberá solicitarse ante la dependencia competente.
 
-Tampoco estarán supeditados a ninguna autoridad las actividades y criterios de sus directivos o de su personal.
+LXVIII. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales; y
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+LXIX. Zona de Desastre: La demarcación territorial, así como la población asentada en ella, que temporalmente es afectada por el impacto de un fenómeno perturbador, que causa daños, fallas y deterioro a su infraestructura y su funcionamiento normal.
 
-###### Artículo 19.
+###### ARTÍCULO 5.
 
-La Comisión será competente para conocer de quejas y denuncias por presuntas violaciones a los derechos humanos o cualquier tipo de discriminación, cuando éstas fueren atribuidas a alguna autoridad, servidora o servidor público, que desempeñe un empleo, cargo o comisión estatal o municipal en el Estado de Hidalgo.
+La prevención de riesgos y el auxilio a la población en casos de emergencia o desastre, constituye una función prioritaria de la Protección Civil; los órdenes de gobierno y la sociedad civil deberán actuar en forma conjunta y ordenada, en términos de lo dispuesto en la presente Ley y en los demás ordenamientos legales aplicables.
 
-También conocerá cuando algún particular que preste un servicio público permisionado o concesionado por alguna de las autoridades anteriormente señaladas, cometa un acto de discriminación.
+###### ARTÍCULO 6.
 
-###### Artículo 20.
+En caso de riesgo inminente, las autoridades estatales o municipales, de acuerdo a su competencia, podrán ejecutar las actividades que se requieran a fin de proteger la vida de la población, sus bienes, servicios estratégicos, la planta productiva y el medio ambiente, para evitar o mitigar los efectos del impacto y garantizar el funcionamiento de los servicios esenciales de la comunidad.
 
-Los procedimientos que se sigan ante la Comisión deberán ser breves y sencillos, y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los respectivos expedientes. Se seguirán de acuerdo con los principios de inmediatez, concentración y rapidez, procurando en la medida de lo posible el contacto directo con los quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones y de las resoluciones.
+###### ARTÍCULO 7.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+Las autoridades municipales serán el primer nivel de respuesta ante la presencia y los efectos de un agente perturbador. En caso de que supere su capacidad de respuesta acudirá a las autoridades estatales.
 
-Dichos procedimientos no podrán extenderse más allá de un plazo de cuatro meses, contados a partir del momento en que sea presentada la denuncia o queja. En casos excepcionales debido a la complejidad y naturaleza del asunto que se trate, el Presidente podrá acordar que dicho plazo se extienda, en los términos establecidos en la presente Ley.
+###### ARTÍCULO 8.
 
-Se procurará que los procedimientos que se sigan ante la Comisión se desahoguen en las instancias más próximas al domicilio de los denunciantes.
+Las políticas públicas en materia de protección civil se basarán en el Plan Nacional y Estatal de Desarrollo, y tendrán como objetivo la Gestión Integral del Riesgo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+## TÍTULO SEGUNDO. DE LAS ESTRUCTURAS DE PROTECCIÓN CIVIL
 
-### Capítulo IV. De la Conmemoración del Día Estatal de los Derechos Humanos
+### CAPÍTULO I. DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 9.
 
-###### Artículo 21.
+El Sistema Estatal es parte del Sistema Nacional de Protección Civil. El Sistema Estatal es el conjunto de estructuras, acciones, métodos y procedimientos que efectúan coordinadamente las dependencias de la Administración Pública Estatal entre sí, con las autoridades federales y municipales, así como las organizaciones de los diversos grupos voluntarios y los sectores social y privado, a fin de salvaguardar la integridad física de las personas, sus bienes, servicios estratégicos y su entorno frente a la eventualidad de un desastre.
 
-La Presidenta o el Presidente y las o los Visitadores tendrán fe pública en sus actuaciones para certificar la veracidad de los hechos en relación con las quejas o denuncias presentadas ante dicha Comisión.
+###### ARTÍCULO 10.
 
-Para los efectos de esta Ley, la fe pública consistirá en la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos funcionarios. Para ello, las declaraciones y hechos deberán constar en el acta circunstanciada que al efecto levantará el funcionario correspondiente.
+El Sistema Estatal tiene por objeto proteger a la población y su entorno ante la eventualidad de los riesgos y peligros provocados por agentes perturbadores naturales o antropogénicos, así como reducir la vulnerabilidad en el corto, mediano o largo plazo, a través de la gestión integral de riesgos y mediante acciones que eviten o reduzcan la pérdida de vidas humanas, la afectación de la planta productiva, la destrucción de bienes materiales y el daño a la naturaleza o la interrupción de sus funciones esenciales.
 
-Las actuaciones de la Comisión tendrán plenos efectos y serán consideradas como válidas por cualquier autoridad, bajo el principio de fe pública con el que actúan sus miembros, en los términos del presente Artículo.
+Los integrantes del Sistema Estatal tienen la obligación de poner a disposición del Centro Estatal de Emergencias, la información de carácter técnico y científico relativa a los sistemas y/o redes de alerta, detección, monitoreo, pronóstico y medición de riesgos, ya sea en formato impreso o electrónico, en tiempo real.
 
-###### Artículo 22.
+###### ARTÍCULO 11.
 
-Los trámites y procedimientos realizados en la Comisión serán gratuitos.
+El Sistema Estatal de Protección Civil estará integrado por:
 
-###### Artículo 23.
+I. El Gobernador del Estado;
 
-La Comisión de Derechos Humanos del Estado de Hidalgo estará integrada por:
+II. El Secretario de Gobierno;
 
-I.- El Presidente;
+III. El Consejo Estatal de Protección civil;
 
-II.- El Consejo;
+IV. El Centro Estatal de Emergencias (CENECAM);
 
-III.- Los Visitadores Generales;
+V. Los Sistemas Municipales de Protección civil;
 
-IV.- El Secretario Ejecutivo;
+VI. Los Consejos y Centros Municipales de Protección civil;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+VII. Las instituciones públicas y organizaciones privadas, civiles y académicas cuyo objetivo se vincule a la materia de protección civil; y
 
-V.- Las o los Visitadores; y
+VIII. En general, las dependencias, unidades administrativas, órganos descentralizados y desconcentrados de la administración pública estatal, así como la participación que corresponda a las dependencias y entidades de la administración pública federal.
 
-VI.- El personal profesional, técnico y administrativo necesario para el desarrollo de sus actividades.
+Las estructuras previstas en las fracciones I a IV del presente artículo tendrán el carácter de permanentes y como integrantes de las mismas no podrán participar los directivos de partidos y agrupaciones políticas para evitar que las acciones de protección civil se politicen.
 
-###### Artículo 24.
+La Coordinación Ejecutiva del Sistema Estatal de Protección Civil recae en el Secretario de Gobierno, quien para el cumplimiento de sus atribuciones contará con el Centro Estatal de Emergencias.
 
-La Comisión será competente para conocer de probables violaciones de derechos humanos o actos discriminatorios, cuando:
+###### ARTÍCULO 12.
 
-I.- Provengan de actos u omisiones de servidores de la Administración Pública Estatal o Municipal, así como de actos administrativos de cualquier otra autoridad que no sea del ámbito Federal; y
+El Sistema Estatal contará, para su adecuado funcionamiento, con los siguientes documentos:
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+I. El Plan Estatal de Desarrollo;
 
-II.- Sean originadas por actos de particulares, cuando alguna autoridad, servidora o servidor de la Administración Pública Estatal o Municipal, las propicien o toleren. En los casos en donde el agente generador de la violación a los derechos humanos o de los actos discriminatorios sea un particular, la Comisión, tomando en cuenta la gravedad y el daño social que el asunto pueda ocasionar, podrá implementar las acciones, solicitar las medidas y emitir el pronunciamiento que considere pertinente.
+II. Los Programas Estatal, Municipales, Internos y Especiales, de Protección Civil;
 
-###### Artículo 25.
+III. El Atlas de Peligros y Riesgos;
 
-La Comisión tendrá las siguientes atribuciones:
+IV. Los inventarios y directorios de recursos humanos y materiales;
 
-I.- Recibir quejas de presuntas violaciones a los derechos humanos o actos discriminatorios;
+V. Los documentos oficiales en los que se hagan constar las Normas Técnicas y la Normatividad sobre protección civil; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+VI. Los demás que apruebe el Consejo Estatal o el reglamento.
 
-II.- Conocer e investigar, a petición de parte o de oficio, presuntas violaciones de derechos humanos o actos discriminatorios, en los siguientes casos:
+###### ARTÍCULO 13.
 
-a).- Por actos u omisiones de índole administrativo de los servidores públicos o de las autoridades de carácter Estatal y Municipal y;
+Las autoridades de protección civil deberán actuar con base en los siguientes principios:
 
-b).- Cuando algún particular cometa ilícitos con la tolerancia o anuencia de algún servidor público o Autoridad Estatal o Municipal o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente tratándose de conductas que afecten la integridad física de las personas.
+I. Prioridad en la protección a la vida, la salud y la integridad de las personas;
 
-III.- Formular propuestas encaminadas a lograr una amigable composición entre el quejoso y los servidores públicos presuntos responsables, para la inmediata solución del conflicto planteado, cuando la naturaleza del caso lo permita;
+II. Inmediatez, equidad, profesionalismo, eficacia y eficiencia en la prestación del auxilio y entrega de recursos a la población en caso de emergencia o desastre;
 
-IV.- Formular recomendaciones públicas, autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas;
+III. Subsidiariedad, complementariedad, transversalidad y proporcionalidad en las funciones asignadas a las diversas instancias del Gobierno;
 
-V.- Solicitar a cualquier servidor público, la información que se requiera para el desempeño de sus funciones o para la determinación de su competencia;
+IV. Publicidad y participación social en todas las fases de la protección civil, pero particularmente en la de prevención;
 
-VI.- Proponer a las diversas autoridades estatales y municipales en el ámbito de su competencia, la formulación de las modificaciones a las disposiciones legislativas y reglamentarias, así como de prácticas administrativas que a juicio de la Comisión redunden en una mejor protección de los derechos humanos o el combate a la discriminación;
+V. Establecimiento y desarrollo de una cultura de la protección civil, con énfasis en la prevención en la población en general;
 
-VII.- Supervisar que se respeten los derechos humanos y no exista discriminación en las actividades de los servidores de la Administración Pública Estatal y Municipal;
+VI. Legalidad, control, eficacia, racionalidad, equidad, transparencia y rendición de cuentas en la administración de los recursos públicos.
 
-VIII.- Desarrollar programas e instrumentos jurídicos, administrativos, sociales, educativos y culturales, que tengan como propósito impulsar el respeto de los derechos humanos y el combate a la discriminación; para ello promoverá además el estudio, la enseñanza y la divulgación de los mismos;
+VII. Corresponsabilidad entre sociedad y gobierno;
 
-IX.- Elaborar e instrumentar programas preventivos en materia de derechos humanos y el combate a la discriminación en el Estado; para tal efecto se coordinará con las autoridades correspondientes. Con el mismo propósito concertará acciones con los sectores social y privado, así como con los ciudadanos en particular;
+VIII. Honradez; y
 
-X.- Expedir su Reglamento y su normatividad interna;
+IX. Respeto y protección de los Derechos Humanos.
 
-XI.- Realizar investigaciones a los centros de reclusión, detención o custodia, cuando existan indicios de posibles violaciones de derechos humanos. Para ello, podrá supervisar que se garantice la plena vigencia de los derechos de las personas privadas de la libertad, pudiendo solicitar el reconocimiento médico de reos o detenidos cuando se presuman malos tratos o torturas, comunicando a las autoridades competentes los resultados de las revisiones practicadas. El personal de la Comisión en el ejercicio de sus funciones, tendrá acceso inmediato e irrestricto a todos los centros de detención y de readaptación social del Estado, dependientes de la Procuraduría General de Justicia del Estado, de los Municipios, de la Secretaría de Seguridad Pública Estatal o de cualquier otra autoridad local;
+### CAPÍTULO II. DEL CONSEJO ESTATAL DE PROTECCIÓN CIVIL
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 14.
 
-XII.- Formular programas y proponer acciones en coordinación con las dependencias competentes, para impulsar el cumplimiento de los instrumentos de Derecho Internacional aprobados por el Estado Mexicano en materia de Derechos Humanos y no discriminación. Para ello, elaborará y actualizará de manera constante, una recopilación de dichos documentos, que divulgará de manera amplia entre la población;
+El Consejo Estatal es un órgano de consulta, opinión, planeación y coordinación de las acciones en la materia, en el que se integran en forma multidisciplinaria e interinstitucional los órganos del Gobierno del Estado, las organizaciones civiles e instituciones científicas, académicas y profesionales, cuyos fines, funciones o atribuciones se vinculan a las acciones de la protección civil y gestión de riesgos, teniendo a su cargo las funciones siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+I. Promover acciones de coordinación con los Sistemas Estatales de las Entidades Federativas y con el Sistema Nacional de Protección Civil;
 
-XIII.- Interponer demandas de acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, conforme a lo establecido por el Artículo 105, fracción II, inciso g), de la Constitución Política de los Estados Unidos Mexicanos;
+II. Convocar a los sectores público y privado a participar en las acciones de protección civil;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2018)</small>
 
-XIV.- Practicar visitas e inspecciones a los centros de asistencia social e instituciones de asistencia privada donde se presten servicios asistenciales como casas hogares, instituciones que trabajen con la niñez, con personas con discapacidad o con adultos mayores, centros de integración social, centros de salud, centros de rehabilitación contra las adicciones y demás establecimientos de asistencia social en el Estado de Hidalgo, en los que intervenga cualquier autoridad pública local, para cerciorarse del absoluto respeto a los derechos humanos;
+III. Promover desde la niñez una cultura de responsabilidad social dirigida a la protección civil con énfasis en la prevención y autoprotección respecto de los riesgos y peligros que representan los agentes perturbadores y su vulnerabilidad;
 
-XV.- Prestar apoyo y asesoría técnica a los órganos del Poder Público Estatal y Municipal, en materia de promoción y defensa de los derechos humanos y en el combate a la discriminación, cuando así lo soliciten;
+IV. Promover ante las autoridades educativas correspondientes, la inclusión de programas en materia de protección civil en todos los niveles escolares;
 
-XVI.- Colaborar como auxiliar de la Comisión Nacional de Derechos Humanos, los demás órganos de las entidades federativas encargados de la defensa de los derechos humanos y el Consejo Nacional para Prevenir la Discriminación, mediante el acopio y remisión de la información cuando éstos así lo soliciten o sea necesario;
+V. Promover campañas de difusión general en la materia;
 
-XVII.- Llevar a cabo las acciones conducentes para prevenir y eliminar la Discriminación;
+VI. Determinar las políticas y procedimientos necesarios para una eficiente comunicación social en la materia, tanto en situaciones normales como de emergencia;
 
-XVIII.- Formular y promover políticas públicas para la igualdad de oportunidades y de trato, en beneficio de las personas que se encuentren en el Estado;
+VII. Establecer y determinar las acciones, procedimientos y recursos necesarios para prevenir o hacer frente a situaciones de emergencia que puedan provocar un desastre;
 
-XIX.- Interponer demandas de acción colectiva, o sumarse a demandas de este tipo, presentadas por otros, contra cualquier forma de Discriminación o en lo relativo a los derechos que protegen el medio ambiente, el patrimonio cultural o el desarrollo urbano;
+VIII. Constituirse en sesión permanente cuando las circunstancias lo requieran;
 
-XX.- Coadyuvar con las dependencias y entidades del Poder Ejecutivo, Legislativo y Judicial, Organismos Autónomos y Presidencias Municipales en materia de prevención y eliminación de la Discriminación;
+IX. Promover la creación y funcionamiento de los grupos voluntarios;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+X. Integrar de entre sus miembros los comités o comisiones que sean necesarios;
 
-XXI.- Efectuar los contratos para la adquisición, enajenación y arrendamientos de bienes o servicios que le sean indispensables para la realización de sus actividades, de conformidad a la Ley de la materia;
+XI. Establecer las políticas para la creación y funcionamiento de los comités científicos asesores;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+XII. Evaluar anualmente el cumplimiento de los objetivos del Programa Estatal;
 
-XXII.- Llevar a cabo investigación científica en materia de derechos humanos y combate a la discriminación;
+XIII. Aprobar el Programa Estatal de Protección Civil y los programas especiales;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+XIV. Supervisar que se mantenga actualizado el Atlas Estatal de Peligros y Riesgos;
 
-XXIII.- Formular propuestas de solución y recomendaciones públicas, autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas; y
+XV. Recibir y administrar de manera transparente toda donación destinada a la protección civil y atención de desastres en el Estado;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+XVI. Declarar y publicar el estado de emergencia o desastre, cuando un fenómeno perturbador natural o humano ponga en riesgo a los habitantes de uno o varios municipios o a la entidad, así como sesionar para dar seguimiento y coordinar las actividades que la situación o la contingencia amerite;
 
-XXIV.- Las demás que le otorgue la presente Ley y otros ordenamientos legales y reglamentarios.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2018)</small>
 
-### Capítulo I. Disposiciones Generales
+XVII. Solicitar el apoyo a las autoridades federales competentes, para brindar una mejor atención a la población y fortalecer las acciones de respuesta del Estado;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2018)</small>
 
-###### Artículo 26.
+XVIII. Establecer un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en los dos órdenes de gobierno
 
-La Comisión no podrá conocer de los casos relativos a:
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2022)</small>
 
-I.- Actos y resoluciones de Organismos y autoridades electorales;
+XIX. Dar atención prioritaria a la población vulnerable;
 
-II.- Resoluciones de carácter jurisdiccional;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2022)</small>
 
-III.- Consultas formuladas por autoridades, particulares y otras entidades, sobre interpretación de preceptos constitucionales y de otros ordenamientos legales; y
+XX. Realizar actos de coordinación, en sus programas de Protección Civil, con los distintos órdenes de Gobierno para elaborar y actualizar los protocolos de actuación, términos de referencia o normatividad, para la atención de niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores en situaciones de emergencia, desastre o disturbio que se presenten en el Estado; y
 
-IV.- Actos u omisiones de autoridades o servidores públicos Federales.
+> <small>(ADICIONADA [REFORMADA Y REUBICADA ANTES FRACCIÓN XX], P.O. 12 DE JULIO DE 2022)</small>
 
-###### Artículo 27.
+XXI. Las demás que expresamente le señalen esta ley y otros ordenamientos legales aplicables, así como los reglamentos que de ellas deriven.
 
-Para los efectos de esta Ley se entiende por resoluciones de carácter jurisdiccional:
+###### ARTÍCULO 15.
 
-I.- Las sentencias o laudos definitivos que concluyan la instancia;
+El Consejo Estatal se integrará por:
 
-II.- Las sentencias interlocutorias que se emitan durante el proceso;
+I. El Gobernador del Estado, quien será el Presidente;
 
-III.- Los autos y acuerdos dictados por el juez o por el personal del órgano de impartición de justicia, para cuya expedición se haya realizado una valoración y determinación jurídica o legal; y
+II. El Secretario de Gobierno, quien será el Secretario Ejecutivo;
 
-IV.- En materia contencioso-administrativa, los análogos a los señalados en las fracciones anteriores.
+III. El Director General del Centro Estatal de emergencias, quien será el Secretario Técnico;
 
-Todos los demás actos u omisiones procedimentales diferentes a los señalados, serán considerados con el carácter de administrativos y por lo tanto susceptibles de ser reclamados ante la Comisión.
+IV. Los titulares de las dependencias de la Administración Pública Estatal;
 
-###### Artículo 28.
+V. Los representantes de las dependencias o entidades públicas federales, relacionadas con las acciones de protección civil, a invitación del presidente del consejo;
 
-La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo.
+VI. El Presidente del H. Congreso del Estado y del Poder Judicial, a invitación del presidente del consejo;
 
-###### Artículo 29.
+VII. Los H. Ayuntamientos a invitación del presidente del consejo; y
 
-El Presidente de la Comisión deberá reunir para su elección los siguientes requisitos:
+VIII. Los representantes de grupos voluntarios, organizaciones del sector privado e instituciones académicas, de investigación y colegios de profesionales en el Estado, con aprobación del presidente del Consejo.
 
-I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+IX. Los responsables de los Comités de trabajo que estime necesarios el Presidente del Consejo, el cual establecerá su integración o desintegración y sus atribuciones. Los Comités de trabajo que a continuación se señalan funcionarán permanentemente en las formas siguientes:
 
-II.- Tener cumplidos treinta años de edad, el día de su elección;
+A. Coordinación General de Emergencias: Se encargará de regular, administrar y distribuir adecuadamente el flujo de la información para la administración integral del desastre; constituirá el comité rector que tiene la autoridad máxima y mando principal del Gobierno del Estado; supervisará la ayuda a la población y el trabajo coordinado de las acciones de los demás comités, y reportará al Presidente del Consejo el desarrollo de la atención de la emergencia.
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+B. Rescate y Salvamento: Se encargará de implementar y coordinar las actividades que permitan la atención, búsqueda y rescate de damnificados, lesionados, atrapados o fallecidos, y controlar situaciones que representen riesgo a la población y control de la seguridad en la zona afectada.
 
-III.- Contar con experiencia profesional y prestigio en materia de derechos humanos, o actividades afines, reconocidas por las leyes mexicanas y los instrumentos jurídicos internacionales de por lo menos cinco años previos a la designación;
+C. Atención hospitalaria y salud: Se encargará de la atención de los damnificados, lesionados o pacientes a través de los servicios hospitalarios que les sean canalizados con motivo de la emergencia; de la atención médica o sanitaria en los refugios temporales o albergues habilitados, y de la prevención y control de enfermedades infecto-contagiosas que puedan surgir en la población como consecuencia del fenómeno perturbador.
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+D. Refugios temporales y servicios asistenciales: Se encargará de proporcionar los servicios básicos de alojamiento, alimentación, seguridad y la atención social de la población damnificada, desde que inicia la emergencia hasta que se cierran los refugios temporales o albergues.
 
-III.- Bis. No haber sido persona que haya violado o sido objeto de recomendación por alguna Comisión de Derechos Humanos atribuible de manera directa a su actuar, dentro de la República Mexicana, por acción u omisión en la violación de derechos humanos, así como que cuente con una resolución que lo haya confirmado como infractor de derechos humanos o que se encuentren bajo revisión, en su ejercicio profesional previo a la designación, de igual forma atribuible de manera directa a su actuar.
+E. Detección y evaluación de daños o pérdidas: Se encargará de realizar la inspección en forma inmediata en las zonas afectadas, mediante los mecanismos que sean necesarios, para obtener un reporte preliminar de daños en casas habitación, escuelas, hospitales, edificios, infraestructura, servicios o instalaciones estratégicas, vialidades o cualquier otro, así como la estimación de pérdidas de vidas humanas, heridos, fallecidos o damnificados. También se encargará de verificar las condiciones de los inmuebles para determinar su seguridad y funcionalidad.
 
-IV.- Haber residido al menos durante los cinco años anteriores al nombramiento, dentro del Estado de Hidalgo, y
+F. Rehabilitación y restablecimiento: Se encargará de rehabilitar y restablecer las instalaciones de agua potable, electricidad, energética, telecomunicaciones, comunicaciones aéreas, terrestres y marítimas, alumbrado público, servicios y edificaciones como hospitales, escuelas, inmuebles públicos o privados, entre otros, cuyo funcionamiento fuera afectado por el fenómeno perturbador, para la continuación de operaciones del Gobierno y de la sociedad.
 
-V.- Contar con título profesional, preferentemente de Licenciado en Derecho, expedido por una institución facultada para ello.
+G. Seguridad y vialidad: Se encargará de coordinar los cuerpos de seguridad y vialidad con el objeto de mantener el orden, otorgar protección a la población, resguardar bienes o instalaciones estratégicas, control de acceso a las zonas afectadas, vigilancia de rutas de emergencia, refugios temporales o albergues y centros de acopio, además de acciones de evacuación, fluidez de vialidades, entre otras, que sean necesarias para garantizar la seguridad de la funcionalidad de las operaciones del Gobierno y de la sociedad.
 
-###### Artículo 30.
+H. Adquisiciones de emergencia: Se encargará de suministrar bienes y servicios antes, durante y después de la emergencia, para la debida atención de la población y con el objeto de que los demás comités puedan continuar operando, a través de adquisiciones, arrendamientos, contrataciones, o utilizando los recursos financieros estatales o federales, o mediante donaciones en efectivo o en especie que se reciban, con estricto apego a la normatividad.
 
-No podrán ser Presidente de la Comisión:
+I. Abasto: Se encargará de coordinar los comercios, empresas, bancos, fábricas y cualquier otra actividad económica para que puedan continuar sus operaciones antes, durante y después de la emergencia con el objeto de que la población pueda acceder a los bienes y servicios indispensables para enfrentar el fenómeno perturbador.
 
-I.- Los representantes o candidatos a un cargo de elección popular;
+J. Donaciones y Centros de Acopio: Se encargará de supervisar que las donaciones privadas o apoyos públicos se hagan con absoluta transparencia e imparcialidad, y que los bienes lleguen directamente a las personas o comunidades que hayan sido afectadas por un fenómeno perturbador. Asimismo, se encargará administrativamente del funcionamiento de los centros de acopio.
 
-II.- Los miembros del Poder Judicial Federal o Estatal, que no cuenten con la licencia correspondiente en los términos de Ley;
+K. Comunicación Social: Se encargará de mantener informada a la sociedad, de manera clara y objetiva, de cualquier contingencia presente o futura, para que la población tome las medidas preventivas necesarias para evitar cualquier afectación.
 
-III.- Los dirigentes en activo de cualquier organización política o sindical; excepto los dirigentes de las organizaciones sociales o de profesionales;
+L. Apoyo Jurídico: Se encargará de proveer los servicios jurídicos de asesoría, asistencia y agilización de trámites a los afectados y representar jurídicamente al Gobierno del Estado y sus funcionarios en situaciones de controversia por el desempeño de sus funciones durante la emergencia.
 
-IV.- Quienes desempeñen o hayan desempeñado un puesto de elección popular o cargo de dirección en algún partido político, en los últimos tres años; y
+M. Sistemas Informáticos: Se encargará de suministrar y utilizar las herramientas informáticas para capturar la información generada durante la emergencia y reconstrucción, y procesará los datos y archivos creados para la toma de decisiones del Consejo Estatal de Protección Civil y su Presidente.
 
-V.- Quienes se hayan desempeñado como Gobernador, Secretario, Subsecretario, Procurador o Subprocurador del Gobierno de Hidalgo o su equivalente en el ámbito Federal, en los últimos tres años.
+N. De reconstrucción: Se encargará de dirigir la reconstrucción de los daños ocasionados por el fenómeno perturbador hasta establecer la normalidad y funcionalidad de los sistemas vitales del Estado y de la sociedad, y vigilar que las obras se realicen de tal manera que soporten la presencia de un fenómeno perturbador.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+El reglamento de esta ley determinará la integración de los Comités y sus responsables.
 
-###### Artículo 31.
+Los integrantes del Consejo mencionados en las fracciones I a IV tendrán voz y voto. Los integrantes mencionados en las fracciones V a IX fungirán como vocales y sólo tendrán derecho a voz.
 
-La Presidenta o él Presidente, será electo por el voto de las dos terceras partes de las y los Diputados integrantes del Congreso del Estado, mediante una Convocatoria que emitirá la Primera Comisión Permanente de Derechos Humanos y Atención a las personas con Discapacidad a las organizaciones de la sociedad civil, organismos públicos y privados, promotores o defensores de los derechos humanos y expertos en la materia.
+###### ARTÍCULO 16.
 
-La Convocatoria que expida el Congreso del Estado, se publicará con dos meses de anticipación a la fecha de conclusión del cargo de la Presidenta o Presidente en funciones, tendrá una vigencia de veintiún días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado y se le dará amplia difusión a través de los medios de comunicación.
+El Consejo se reunirá en sesiones ordinarias y extraordinarias, por Comités o en pleno, a convocatoria de su presidente, del secretario ejecutivo o técnico, en los plazos y formas que el propio consejo, la presente ley o el reglamento establezca.
 
-La Convocatoria, señalará las bases, requisitos y procedimiento para la recepción de la documentación de las y los aspirantes.
+La sesión ordinaria se deberá celebrar en el mes de enero de cada año, y las extraordinarias cuando la situación así lo requiera.
 
-Una vez que la Comisión, analice la documentación, emitirá Dictamen con hasta una terna de candidatas o candidatos, mismo que será presentado al Pleno, para su discusión, aprobación y elección.
+La convocatoria para la sesión ordinaria deberá hacerse del conocimiento de los miembros del Consejo cuando menos cinco días hábiles antes de su celebración.
 
-###### Artículo 32.
+Las sesiones podrán ser públicas o privadas, lo cual será acordado por el Presidente del Consejo. Al término de cada sesión se hará del conocimiento de la sociedad de los acuerdos tomados durante la misma, a través de los medios de comunicación.
 
-El Presidente de la Comisión de Derechos Humanos del Estado de Hidalgo durará en su encargo cinco años, sin posibilidad de ser reelecto.
+Además, se podrá constituir en sesión permanente cuando las circunstancias lo requieran o en situación de emergencia, a fin de determinar las acciones que procedan para garantizar el auxilio a la población afectada, su adecuada recuperación, la reconstrucción inicial y vuelta a la normalidad.
 
-###### Artículo 33.
+Las sesiones con carácter extraordinario o en situación de emergencia podrán convocarse en cualquier momento y por cualquier medio.
 
-El Presidente de la Comisión tendrá las siguientes facultades y obligaciones:
+El Consejo podrá sesionar de manera extraordinaria las veces que sea necesario hasta que la emergencia haya concluido. Para lo cual el Presidente del Consejo ordenará se levante la sesión.
 
-I.- Ejecutar, presidir, instrumentar y coordinar las actividades legalmente atribuidas a la Comisión;
+Cuando la Contingencia cause afectaciones graves a uno o varios municipios o al Estado en general, el Presidente del Consejo ordenará a los Comités que estime pertinentes, que sesionen para realizar un balance general de las afectaciones, y en base a ello, se puedan tomar las medidas necesarias para iniciar de forma ordenada la reconstrucción, debiéndose evaluar si es necesario solicitar los apoyos de la federación para la reconstrucción.
 
-II.- Ejercer la representación legal de la Comisión;
+Al término de la Reconstrucción se levantará la sesión del comité de reconstrucción.
 
-III.- Expedir el Reglamento Interno y formular los lineamientos generales a los que habrán de sujetarse las actividades administrativas de la Comisión;
+Los comités del Consejo tendrán la obligación de rendir un informe detallado por escrito, de las actividades que hayan realizado durante el ejercicio de sus funciones en una situación de emergencia. Estos informes deberán entregarse al Centro Estatal de Emergencias en un plazo no mayor de treinta días hábiles a partir del restablecimiento de la normalidad, pudiéndose otorgar una prórroga la cual no excederá de quince días hábiles. La omisión de los informes ameritará la sanción administrativa que establezca la ley o el reglamento.
 
-IV.- Establecer las políticas generales que en materia de derechos humanos habrá de seguir la Comisión ante los organismos nacionales e internacionales;
+###### ARTÍCULO 17.
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+El Consejo Estatal tomará las decisiones por mayoría de los votos de los miembros presentes. En caso de empate, su Presidente tendrá voto de calidad.
 
-V.- Nombrar, dirigir y coordinar a los Visitadores y al Secretario Ejecutivo, así como a los demás funcionarios y personal de la Comisión, apelando a los requisitos de elegibilidad, que, para cada cargo, la presente ley contemple.
+###### ARTÍCULO 18.
 
-VI.- Dictar las medidas específicas que estime idóneas para el adecuado desempeño de las actividades de la Comisión;
+Corresponde al Presidente del Consejo Estatal:
 
-VII.- Distribuir y delegar funciones a los Visitadores Generales y al Secretario Ejecutivo, en los términos del Reglamento Interno;
+I. Convocar y presidir las sesiones;
 
-VIII.- Presentar anualmente un informe general al Congreso del Estado, sobre las actividades de la Comisión y la situación de los derechos humanos en la entidad, así como comparecer ante dicho Poder;
+II. Designar los comités de trabajo que estime necesarios para el cumplimiento de los objetivos del Consejo;
 
-IX.- Promover las relaciones de la Comisión con organismos públicos, privados o sociales, nacionales e internacionales, en la materia de su competencia;
+III. Emitir las declaratorias de emergencia o de desastre, en los términos establecidos en esta ley y el reglamento;
 
-X.- Celebrar convenios de colaboración con autoridades y organizaciones de defensa de los derechos humanos y en el combate a la discriminación, así como con instituciones académicas y asociaciones culturales para el cumplimiento de los fines de la Comisión;
+IV. Solicitar al Gobierno Federal el apoyo necesario para fortalecer las acciones de respuesta del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+V. Vigilar el correcto funcionamiento del Sistema Estatal de Protección Civil y dictar los lineamientos generales para coordinar las labores de protección civil en beneficio de la población, sus bienes y entorno, promoviendo la participación de la sociedad civil;
 
-XI.- Aprobar y emitir, en su caso, las Propuestas de Solución y las Recomendaciones públicas, autónomas y no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración las o los Visitadores Generales, que resulten de las investigaciones efectuadas;
+VI. Incluir en el proyecto del presupuesto de egresos de cada ejercicio fiscal, recursos para el funcionamiento y operación de las instancias de protección civil estatal y del fondo de contingencias para que realicen acciones orientadas al trabajo preventivo, auxilio de la población en situación de emergencia y de atención de los daños provocados por los desastres;
 
-XII.- Poner a consideración del Consejo, para su aprobación, las Observaciones Generales y las propuestas conducentes a una mejor protección de los derechos humanos en el Estado de Hidalgo;
+VII. Supervisar, mediante las instancias de la administración pública estatal y conforme a las disposiciones legales aplicables, que no se autoricen asentamientos humanos en zonas de riesgo, y de ser el caso, se notifique a las autoridades competentes para que dentro de los términos legales, se proceda a su desocupación;
 
-XIII.- Elaborar el anteproyecto del presupuesto anual de egresos de la Comisión y el correspondiente informe sobre su ejercicio para ser presentado al Consejo;
+VIII. Promover y autorizar, bajo los lineamientos legales respectivos, la celebración de convenios o contratos con la Federación, Estados y municipios, así como instituciones educativas que tengan como objeto las actividades de protección civil;
 
-XIV.- Presidir el Consejo;
+IX. Celebrar convenios, acuerdos de colaboración y coordinación con autoridades federales, estatales y municipales, así como con personas físicas o morales, nacionales o extranjeras, de naturaleza pública o privada; y
 
-XV.- Convocar a los miembros del Consejo en los términos señalados en el Reglamento de manera ordinaria o extraordinaria, cuando así lo estime necesario;
+X. Las demás que se tomen en el seno del Consejo Estatal o expresamente le señalen esta ley y su reglamento.
 
-XVI.- Rendir informes públicos sobre asuntos especiales o sobre el acatamiento a las Recomendaciones;
+###### ARTÍCULO 19.
 
-XVII.- Presentar informes de las labores al Consejo, por lo menos una vez cada tres meses;
+Corresponde al Secretario Ejecutivo del Consejo Estatal:
 
-XVIII.- Determinar la reapertura de los casos que se encuentren concluidos, cuando así lo considere necesario;
+I. Integrar, coordinar y supervisar el Sistema Estatal de Protección Civil;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+II. Convocar y presidir, por instrucciones del Presidente, las sesiones del Consejo;
 
-XIX.- Ampliar de forma excepcional, el plazo en el que debe ser desahogada alguna prueba o cualquier procedimiento, debido a la complejidad y naturaleza del asunto;
+III. Suplir al Presidente en sus ausencias;
 
-XX.- Fomentar la educación, difusión y promoción de una cultura de conocimiento y respeto a los derechos humanos y el combate a la discriminación;
+IV. Emitir las declaratorias de emergencia o de desastre, en caso de ausencia del Presidente del Consejo;
 
-XXI.- Interponer, las demandas de acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, conforme a lo establecido por el Artículo 105 fracción II inciso g de la Constitución Política de los Estados Unidos Mexicanos;
+V. Resolver las consultas que se sometan a su consideración;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+VI. Coordinar la instalación del Centro Estatal de Operaciones;
 
-XXI BIS.- Emitir a nombre de la Comisión, la opinión o postura respecto de acontecimientos que, por su gravedad o trascendencia, sea de interés en la sociedad.
+VII. Proporcionar a la población la información que se genere en la materia;
 
-XXII.- Solicitar la intervención del Congreso del Estado, a fin de que analice las causas de incumplimiento de las autoridades que hayan recibido recomendaciones, de modo que su intervención asegure la efectividad y cumplimiento de las mismas;
+VIII. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo y aprobar el calendario de sesiones del mismo; y
 
-XXIII.- Presentar, dentro de un plazo de noventa días naturales contados a partir del inicio de su encargo, el Plan de Desarrollo Institucional;
+IX. Las demás que expresamente le señalen esta ley y su reglamento.
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+###### ARTÍCULO 20.
 
-XXIII BIS.- Recibir y conocer los informes que presente el Titular del Órgano Interno de Control; y
+Corresponde al Secretario Técnico del Consejo Estatal:
 
-XXIV.- Otras que le señale la presente Ley o el Reglamento Interno, y aquellas que sean necesarias para el debido desempeño de sus funciones.
+I. Suplir al Secretario Ejecutivo en sus ausencias;
 
-### Capítulo II. De la Integración
+II. Elaborar el orden del día y las actas de las sesiones del Consejo;
 
-###### Artículo 34.
+III. Llevar a cabo los trabajos y acciones que determine el Consejo;
 
-El cargo de Presidente de la Comisión será remunerado y recibirá las mismas prestaciones y percepciones que el Presidente del Tribunal Superior de Justicia.
+IV. Tramitar y dar seguimiento a los acuerdos emitidos por el Consejo;
 
-###### Artículo 35.
+V. Informar periódicamente al Secretario Ejecutivo del Consejo el cumplimiento de los acuerdos, funciones y actividades realizadas;
 
-El Consejo es el órgano colegiado de carácter consultivo de la Comisión, que está compuesto por el Presidente de la misma y por ocho personas que gocen de reconocido prestigio en la sociedad, ciudadanos mexicanos en pleno ejercicio de sus derechos ciudadanos, con una residencia mínima de cinco años anteriores al nombramiento, dentro del Estado de Hidalgo. El Consejo será integrado bajo el principio de paridad de género.
+VI. Promover la elaboración de estudios e investigaciones en materia de protección civil y gestión de riesgos;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+VII. Dar trámite a las solicitudes hechas al Consejo Estatal;
 
-Ninguno de sus integrantes podrá desempeñar otro cargo, empleo o comisión dentro del servicio público.
+VIII. Dar seguimiento a la declaratoria de emergencia hasta que concluya la misma;
 
-Los cargos de los miembros del Consejo serán honorarios.
+IX. Dar seguimiento y evaluar el funcionamiento del Programa Estatal, e informar al Consejo de sus avances;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+X. Celebrar convenios, acuerdos de colaboración y coordinación con autoridades federales, estatales y municipales, así como con personas físicas o morales, de naturaleza pública o privada; y
 
-###### Artículo 36.
+XI. Las demás que expresamente le señalen esta ley y su reglamento.
 
-La elección de las y los integrantes del Consejo, se llevara a cabo mediante convocatoria que emita la Primera Comisión Permanente de Derechos Humanos y Atención a las Personas con Discapacidad, en donde se establecerá el procedimiento que habrá de observarse, siguiendo los lineamientos contemplados para la elección de la o el Presidente, con excepción de la votación para su elección, que será de la mitad más uno de las y los Diputados integrantes del Congreso.
+### CAPÍTULO III. DEL SISTEMA MUNICIPAL DE PROTECCIÓN CIVIL
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 21.
 
-###### Artículo 37.
+Los Gobiernos Municipales en sus respectivos ámbitos de competencia, establecerán un Sistema Municipal de Protección Civil, que será organizado por el Presidente Municipal y es parte integrante del Sistema Estatal, teniendo como fin prevenir, proteger y auxiliar a las personas, su patrimonio y su entorno, ante la posibilidad de un desastre producido por causas de origen natural o humano.
 
-A excepción de su Presidenta o Presidente, cada año, serán sustituidos dos consejeros o consejeras de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+El Sistema Municipal de Protección Civil se integra por el conjunto de estructuras, acciones, métodos y procedimientos que actúan coordinadamente con los diversos grupos voluntarios y los sectores privados.
 
-Para el caso de que existan más de dos consejeras o consejeros con la misma antigüedad, será el propio Consejo quien proponga el orden cronológico que deba seguirse.
+Para el cumplimiento de lo dispuesto en el presente ordenamiento, los cuerpos de seguridad existentes en el Municipio, actuarán coordinadamente entre sí, de acuerdo a las directrices que marque el Sistema Municipal de Protección Civil.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 22.
 
-###### Artículo 38.
+Los Sistemas Municipales de Protección Civil, son el primer nivel de respuesta ante cualquier fenómeno perturbador que afecte a la población del municipio a que corresponda. Los Presidentes Municipales serán los responsables de proporcionar el auxilio requerido como primera autoridad de los Sistemas en el lugar.
 
-Los miembros del Consejo no estarán sujetos a autoridad alguna por lo que hace a sus funciones, serán libres de toda directriz externa y actuarán únicamente conforme a sus criterios y opiniones, las cuales serán inviolables.
+Los Sistemas Municipales, al término de la contingencia, deberán rendir un informe al Presidente del Consejo Estatal. Dicho informe incluirá, como mínimo, el tipo de fenómeno, acciones preventivas y de rescates realizados, los daños causados y las acciones de vuelta a la normalidad emprendidas. Lo anterior, con el objeto de llevar un registro histórico de los principales fenómenos perturbadores que han afectado a la entidad.
 
-La información producida por las y los Consejeros en el ejercicio de sus facultades y de carácter personal, que se encuentren bajo resguardo de la Comisión será de carácter confidencial por la naturaleza propia de sus funciones.
+###### ARTÍCULO 23.
 
-###### Artículo 39.
+El Sistema Municipal realizará acciones en materia de gestión de riesgos que tengan como objetivo evitar o reducir la pérdida de vidas humanas, la afectación de la planta productiva, la destrucción de bienes materiales, el daño a la naturaleza y la interrupción de las funciones esenciales de la población y su entorno en caso de una emergencia o desastre.
 
-El Presidente de la Comisión lo será también del Consejo.
+###### ARTÍCULO 24.
 
-### Capítulo III. De las Atribuciones de la Comisión
+Para operar los Sistemas Municipales, los HH. Ayuntamientos expedirán la reglamentación correspondiente de conformidad con las bases que establece la presente Ley, la Ley Orgánica de los Municipios y los lineamientos del Sistema Estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+Los Sistemas Municipales deberán incluir en el proyecto del presupuesto de egresos de cada ejercicio fiscal, recursos para el funcionamiento y operación de las instancias de protección civil municipal y del fondo de contingencias, para que realicen acciones orientadas al trabajo preventivo, auxilio de la población en situación de emergencia y de atención de los daños provocados por los desastres que afecte su jurisdicción.
 
-###### Artículo 40.
+###### ARTÍCULO 25.
 
-El Consejo tendrá las siguientes facultades:
+El Sistema Municipal se integrará por:
 
-I.- Establecer los lineamientos generales para las actividades de la Comisión, incluyendo aquellos que al presentarse en forma regular susciten controversia respecto a la competencia de la misma;
+I. El Consejo Municipal;
 
-II.- Opinar sobre el proyecto de Reglamento Interno de la Comisión que en su momento sea presentado por el Presidente, así como sobre las reformas al mismo;
+II. El Centro Municipal de Emergencias o de Protección Civil; y
 
-III.- Conocer y opinar sobre el proyecto de Presupuesto Anual de la Comisión que, en su momento, les haga llegar el Presidente;
+III. Los representantes de los sectores público y privado, los grupos voluntarios, instituciones educativas y expertos en diferentes áreas.
 
-IV.- Opinar sobre las demás normas de carácter interno relacionadas con la Comisión, cuando sea consultado por el Presidente;
+### CAPÍTULO IV. DEL CONSEJO MUNICIPAL DE PROTECCIÓN CIVIL
 
-V.- Opinar sobre el proyecto del informe anual que el Presidente de la Comisión debe rendir ante el Congreso, así como de otros asuntos que le someta el propio Presidente;
+###### ARTÍCULO 26.
 
-VI.- Pedir al Presidente información sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión;
+El Consejo Municipal es un órgano de consulta, de planeación y coordinación de los Gobiernos Municipales, para convocar, concertar, inducir e integrar las acciones de los Sistemas Municipales de Protección Civil.
 
-VII.- Conocer el informe del Presidente respecto al ejercicio presupuestal;
+###### ARTÍCULO 27.
 
-VIII.- Evaluar periódicamente el desempeño de la Comisión, así como el informe trimestral del Presidente de la misma;
+El Consejo Municipal se integra por:
 
-IX.- Solicitar al Presidente que convoque a sesión extraordinaria del Consejo;
+I. El Presidente Municipal, quien será el Presidente del Consejo;
 
-X.- Solicitar al Presidente que ejerza las facultades que le otorga el Artículo 105, fracción II, inciso G, de la Constitución Política de los Estados Unidos Mexicanos, a fin de resguardar debidamente los derechos humanos, mediante la interposición de una demanda de acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación; y
+II. El Secretario del H. Ayuntamiento, quien será el Secretario Ejecutivo;
 
-XI.- Las demás que le sean conferidas por los ordenamientos legales correspondientes.
+III. El titular del Centro Municipal de Emergencias o de Protección Civil, quien será el Secretario Técnico;
 
-###### Artículo 41.
+IV. Los regidores y síndicos del H. Ayuntamiento;
 
-El Consejo funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones por mayoría de votos de sus miembros presentes.
+V. Los delegados, agentes y comisarios municipales; y
 
-Las sesiones ordinarias se verificarán cuando menos una vez cada tres meses, conforme al calendario aprobado por el propio Consejo, a propuesta del Presidente.
+VI. Los titulares de las dependencias y entidades de la administración pública municipal cuyas funciones sean afines a los objetivos del Sistema Municipal de Protección Civil, así como los representantes de las dependencias públicas federales y estatales; de las organizaciones de los sectores privado, e instituciones académicas radicadas en el municipio y los grupos voluntarios, previa convocatoria del Presidente del Consejo.
 
-Las sesiones extraordinarias podrán convocarse por el Presidente de la Comisión o mediante solicitud que a éste formulen por lo menos tres miembros del Consejo, cuando se estime que hay razones de importancia para ello.
+VII. Los responsables de los Comités de trabajo que estime necesarios el Presidente del Consejo, señalando su integración o desintegración y sus atribuciones correspondientes, debiendo fungir en forma permanente los siguientes:
 
-###### Artículo 42.
+A. Coordinación General de Emergencias;
 
-Para que el Consejo pueda sesionar válidamente se requiere la presencia de por lo menos cinco de sus integrantes y del Presidente de la Comisión.
+B. Rescate y Salvamento;
 
-De forma extraordinaria, el Presidente podrá ser sustituido por algún Visitador General.
+C. Atención hospitalaria y salud;
 
-Los supuestos de los párrafos anteriores serán regulados por el reglamento de esta Ley.
+D. Refugios temporales y servicios asistenciales;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+E. Detección y evaluación de daños o pérdidas;
 
-###### Artículo 43.
+F. Rehabilitación y restablecimiento;
 
-El Consejo, por conducto de la Presidenta o del Presidente de la Comisión, solicitará al Congreso del Estado, la sustitución de los integrantes del Consejo de la Comisión que, de manera injustificada no asistan a tres sesiones, por alguna enfermedad que les impida asistir permanentemente a las mismas, renuncien al cargo o por fallecimiento.
+G. Seguridad y vialidad;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
+H. Adquisiciones de emergencia;
 
-### Capítulo IV. Del Presidente de la Comisión
+I. Abasto;
 
-###### Artículo 44.
+J. Donaciones;
 
-Los Visitadores Generales de la Comisión deberán reunir para su designación, los siguientes requisitos:
+K. Comunicación Social;
 
-I.- Ser ciudadano mexicano con amplio conocimiento de la problemática del Estado, en la materia y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+L. Apoyo Jurídico;
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+M. Sistemas Informáticos; y
 
-I Bis.- Contar con experiencia, prestigio o actividades afines de mínimo tres años en materia de derechos humanos, previos a la designación;
+N. De reconstrucción;
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+El reglamento municipal de protección civil determinará las instancias que integrarán los Comités y su responsable en las tareas de prevención y atención de la emergencia.
 
-I Ter.- No haber sido persona que haya violado o sido objeto de recomendación por alguna Comisión de Derechos Humanos atribuible de manera directa a su actuar, dentro de la República Mexicana, por acción u omisión en la violación de derechos humanos, así como que cuente con una resolución que lo haya confirmado como infractor de derechos humanos o que se encuentren bajo revisión, en su ejercicio profesional previo a la designación, de igual forma atribuible de manera directa a su actuar;
+Los integrantes del Consejo mencionados en las fracciones I a IV tendrán voz y voto. Los integrantes mencionados en las fracciones V a VII fungirán como vocales y sólo tendrán derecho a voz.
 
-II.- Haber residido al menos durante los cinco años anteriores al nombramiento, dentro del Estado de Hidalgo, y
+###### ARTÍCULO 28.
 
-III.- Ser mayor de treinta años de edad, el día de su nombramiento; y
+Corresponde al Consejo Municipal:
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+I. Dirigir el Sistema Municipal y establecer las políticas y acciones en la materia;
 
-IV.- Tener título de licenciatura en Derecho expedido legalmente, por institución facultada para ello, y acreditar cinco años de ejercicio profesional cuando menos.
+II. Convocar a los sectores público y privado a participar en las acciones de protección civil dentro del municipio;
 
-###### Artículo 45.
+III. Establecer mecanismos de coordinación del Sistema Municipal con los Sistemas Estatal y Nacional;
 
-Los Visitadores Generales tendrán las siguientes facultades y obligaciones:
+IV. Celebrar con el Gobierno del Estado y otros HH. Ayuntamientos, así como con organismos e instituciones públicas y privadas, los convenios y acuerdos que estime necesarios para la prevención y auxilio en caso de emergencia o desastres;
 
-I.- Recibir, admitir o rechazar las quejas e inconformidades presentadas por los afectados, sus representantes o los denunciantes ante la Comisión;
+V. Aprobar los lineamientos para el fomento de la cultura, el estudio, la investigación y la capacitación en la materia, en el municipio respectivo, así como los Programas Municipales de Protección Civil;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+VI. Difundir los programas y acciones federales, estatales y locales en materia de protección civil y gestión de riesgos;
 
-II.- Iniciar a petición de parte, la investigación de las quejas e inconformidades que le sean presentadas, y de oficio mediante acuerdo discrecional de la o del Presidente de la Comisión, aquéllas denuncias de violación a los derechos humanos o actos discriminatorios que aparezcan en los medios de comunicación o de cualquier forma tenga conocimiento;
+VII. Determinar los criterios para una eficiente comunicación social en materia de protección civil, tanto en situaciones de normalidad como de emergencia o desastre;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+VIII. Establecer las acciones y procedimientos necesarios para la prevención de situaciones de emergencia que puedan provocar un desastre;
 
-III.- Realizar las actividades necesarias para lograr por medio de la amigable composición, la solución inmediata de las presuntas violaciones de derechos humanos o actos de discriminación, que por su propia naturaleza así lo permita.
+IX. Formular el diagnóstico y realizar la evaluación de los daños provocados por un agente perturbador en el municipio;
 
-IV.- Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión para su consideración;
+X. Concurrir con las autoridades estatales en la determinación de normas sobre prevención, mitigación y restauración en casos de emergencia o desastre;
 
-V.- Solicitar a cualquier dependencia, autoridad o servidor público los informes o documentos que ayuden al esclarecimiento de los hechos de la investigación;
+XI. Proporcionar recursos humanos y materiales, en las tareas de detección, prevención y restauración en casos de emergencia o desastre;
 
-VI.- Determinar la reapertura de los casos que se encuentren concluidos, cuando así lo consideren necesario, previo acuerdo del Presidente;
+XII. Elaborar y actualizar el Atlas de Peligros y Riesgos del Municipio, el cual deberán entregar oportunamente una copia al Sistema Estatal de Protección Civil;
 
-VII.- Ejercer las funciones del Presidente de la Comisión en su ausencia, en los términos del Reglamento Interno y, en el caso de ausencias mayores a quince días, la delegación de funciones deberá ser aprobada por el Consejo; y
+XIII. Constituirse en sesión permanente cuando las circunstancias así lo requieran;
 
-VIII.- Las demás que le sean conferidas en otros ordenamientos legales, reglamentarios y por delegación del Presidente de la Comisión.
+XIV. Instalar el Centro Municipal de Operaciones para atender las emergencias;
 
-###### Artículo 46.
+XV. Solicitar el apoyo al Sistema Estatal de Protección Civil cuando sea superada la capacidad de respuesta;
 
-El cargo de Visitador General será remunerado y recibirá las mismas prestaciones y percepciones que el Presidente de una Sala del Tribunal Superior de Justicia del Estado.
+XVI. Supervisar las acciones que realice el Órgano Municipal;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
+XVII. Promover la creación, regulación y funcionamiento de los Grupos Voluntarios;
 
-#### Sección Segunda. De las Visitadoras y los Visitadores
+XVIII. Evaluar anualmente el cumplimiento de los objetivos del Programa Municipal;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+XIX. Proporcionar al Consejo Estatal de Protección Civil y al Centro Estatal de Emergencias, la información que le sea requerida en materia de protección civil, análisis de riesgos, y cualquier otra que sea necesaria para cumplimiento de las disposiciones del Consejo Estatal;
 
-## Título Tercero. De la Comisión de Derechos Humanos del Estado de Hidalgo
+XX. Asegurar el funcionamiento de los servicios públicos fundamentales en los lugares en donde ocurra un siniestro o desastre y procurar su restablecimiento inmediato;
 
-### Capítulo V. Del Consejo
+XXI. Crear un fondo para la atención de los desastres;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
+XXII. Promover las reformas a los reglamentos municipales para establecer un marco jurídico adecuado a las acciones de prevención, auxilio, apoyo y recuperación en casos de desastre; y
 
-###### Artículo 47.
+XXIII. Las demás que expresamente le confiera el Sistema Nacional de Protección Civil, el Sistema Estatal de Protección Civil, esta ley, los reglamentos que de ella deriven, y otros ordenamientos legales aplicables.
 
-Las y los Visitadores de la Comisión, deberán reunir para su designación los siguientes requisitos:
+###### ARTÍCULO 29.
 
-I.- Ser ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos.
+El Consejo Municipal se reunirá en sesiones ordinarias o extraordinarias, a convocatoria de su Presidente o del Secretario Ejecutivo.
 
-II.- Ser mayor de veinticinco años de edad, el día de su nombramiento; y
+Las sesiones ordinarias se deberán celebrar semestralmente.
 
-III.- Tener título profesional expedido legalmente.
+La primera sesión, que deberá celebrarse en el mes de febrero, tendrá por objeto revisar el Programa Municipal de Protección Civil que será presentado por el Secretario Técnico.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+La segunda sesión tendrá por objeto evaluar los alcances y logros del Programa Municipal de Protección Civil, a través del Programa Operativo Anual correspondiente y analizará el proyecto de presupuesto de egresos en materia de protección civil.
 
-###### Artículo 48.
+La convocatoria para las sesiones ordinarias se hará del conocimiento de los miembros del Consejo cuando menos cinco días hábiles antes de su celebración.
 
-Las o los Visitadores auxiliarán en sus funciones a las Visitadoras y/o los Visitadores Generales, en los términos que establezca el Reglamento interno.
+Las sesiones extraordinarias se realizarán cuando la situación así lo requiera, a propuesta del Presidente del Consejo Municipal o de su Secretario Ejecutivo o Técnico.
 
-#### Sección Tercera. Del alcance territorial de la Comisión
+Las convocatorias a sesiones de carácter extraordinario podrán hacerse en cualquier momento y por cualquier medio.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 30.
 
-###### Artículo 49.
+El Consejo Municipal tomará sus decisiones por mayoría de votos de los miembros presentes. En caso de empate, su Presidente tendrá voto de calidad.
 
-La Comisión podrá contar con Visitadoras o Visitadores de carácter territorial, o unidades desconcentradas, para una mejor atención y seguimiento de los asuntos de su competencia en los lugares que considere oportunos, según lo establezca su Reglamento interno.
+###### ARTÍCULO 31.
 
-###### Artículo 50.
+Corresponde al Presidente del Consejo Municipal:
 
-El Titular de la Secretaría Ejecutiva deberá reunir para su designación, los siguientes requisitos:
+I. Convocar y presidir las sesiones;
 
-I.- Ser ciudadano hidalguense en pleno ejercicio de sus derechos;
+II. Dirigir el Sistema Municipal;
 
-II.- Ser mayor de treinta años de edad, el día de su nombramiento; y
+III. Solicitar apoyo al Gobierno Estatal cuando la capacidad de respuesta del municipio sea rebasada;
 
-III.- Tener título profesional expedido legalmente.
+IV. Solicitar al Gobernador que declare al municipio zona de emergencia o desastre, cuando uno o más fenómenos perturbadores han causado daños severos;
 
-###### Artículo 51.
+V. Supervisar mediante las instancias de la administración pública municipal y conforme a las disposiciones legales aplicables, que no se autoricen asentamientos humanos en zonas de riesgo, y de ser el caso, se notifique a las autoridades competentes para que dentro de los términos legales se proceda a su desocupación; y
 
-El Secretario Ejecutivo tendrá las siguientes facultades y obligaciones:
+VI. Las demás que se tomen en el seno del Consejo Municipal o señalen las leyes y reglamentos en la materia.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 32.
 
-I.- Proponer al Consejo y a la persona titular de la Presidencia, las políticas generales y los programas que en materia de promoción y difusión de los Derechos Humanos y no discriminación habrá de seguir la Comisión;
+Corresponde al Secretario Ejecutivo del Consejo Municipal:
 
-II.- Promover y coordinar las relaciones con los organismos de derechos humanos, gubernamentales y no gubernamentales, nacionales e internacionales;
+I. Integrar, coordinar y supervisar el Sistema Municipal;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+II. Convocar y presidir, por instrucciones del Presidente, las sesiones del Consejo;
 
-III.- Elaborar programas formativos y preventivos en materia de Derechos Humanos y no discriminación, en los que se incluya a los miembros de la Administración Pública Estatal y Municipal;
+III. Solicitar al Gobernador del Estado las declaratorias de emergencia o de zona de desastre, en caso de ausencia del Presidente del Consejo Municipal;
 
-IV.- Coordinar y en su caso, dirigir las actividades de estudio, investigación, enseñanza, capacitación, promoción y divulgación de los derechos humanos;
+IV. Resolver las consultas que se sometan a su consideración;
 
-V.- Enriquecer y mantener la biblioteca y acervo documental de la Comisión;
+V. Dar seguimiento y evaluar el funcionamiento del Programa Municipal informando al Consejo;
 
-VI.- Fungir como Secretario de Acuerdos en la sesiones del Consejo de la Comisión;
+VI. Coordinar la instalación y funcionamiento del Centro Municipal de Operaciones;
 
-VII.- Elaborar el proyecto de informe que el Presidente de la Comisión deberá rendir anualmente;
+VII. Proporcionar a la población la información que se genere en la materia;
 
-VIII.- Ser el responsable de la comunicación social de la Comisión; y
+VIII. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo;
 
-IX.- Las demás que le sean conferidas por el Presidente, esta Ley o su Reglamento.
+IX. Elaborar y proponer al Consejo, su proyecto de Reglamento Interior; y
 
-###### Artículo 52.
+X. Las demás que expresamente le señalen esta ley y otros ordenamientos legales aplicables.
 
-El cargo de Secretario Ejecutivo será remunerado y recibirá las mismas prestaciones y percepciones que un Magistrado del Tribunal Superior de Justicia del Estado.
+###### ARTÍCULO 33.
 
-###### Artículo 53.
+Corresponde al Secretario Técnico del Consejo Municipal:
 
-La Presidenta o el Presidente, las y los Visitadores y la o el Secretario Ejecutivo serán inviolables, por lo que nunca podrán ser detenidos, multados, perseguidos o juzgados, en razón de las opiniones que manifiesten en el ejercicio de sus funciones, la Presidenta o el Presidente por las recomendaciones que emita.
+I. Suplir al Secretario Ejecutivo en sus ausencias;
 
-###### Artículo 54.
+II. Elaborar el orden del día y las actas de las sesiones del Consejo;
 
-El Presidente de la Comisión y Consejeros, cesaran en su cargo por alguna de las siguientes causas:
+III. Llevar a cabo los trabajos y las acciones que determine el Consejo;
 
-I.- Por renuncia justificada, presentada y aprobada por el Congreso local;
+IV. Registrar y dar seguimiento a los acuerdos tomados por el Consejo;
 
-II.- Por muerte, o enfermedad grave que le imposibilite seguir en forma adecuada el desempeño de sus funciones; y
+V. Informar periódicamente al Secretario Ejecutivo del Consejo, el cumplimiento de los acuerdos, funciones y actividades realizadas;
 
-III.- Por haber sido removido por el Congreso local, de conformidad con lo dispuesto en el título Décimo de la Constitución Política del Estado.
+VI. Enviar al Consejo Estatal o al Centro Estatal de Emergencias, copia simple de las actas levantadas de las diversas sesiones que realice el Consejo Municipal y del reporte de las acciones realizadas durante las contingencias que se presenten; y
 
-Vacante el cargo, se iniciará el procedimiento que la Ley establece para el nombramiento, y en tanto es designado, el Primer Visitador General asumirá en forma interina el cargo de Presidente de la Comisión, por un periodo no mayor a los noventa días hábiles.
+VII. Las demás que expresamente le señalen esta ley y otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+### CAPÍTULO V. DEL CENTRO ESTATAL DE EMERGENCIAS
 
-Entre el nombramiento de una nueva o nuevo Presidente y su toma de posesión, deberá existir un periodo no menor de ocho ni mayor de catorce días hábiles. Durante ese periodo la nueva o el nuevo Presidente se coordinará con quien culmine el cargo para lograr una oportuna entrega-recepción del organismo.
+###### ARTÍCULO 34.
 
-###### Artículo 55.
+El Centro Estatal de Emergencias, es la estructura técnico-operativa del Sistema Estatal de Protección Civil. Es un órgano desconcentrado de la Secretaría de Gobierno de la Administración Pública Estatal. Sus acciones las desplegará en coordinación con las dependencias, entidades, instituciones y organismos de los sectores público y privado, con los grupos voluntarios y la población en general. Tendrá funciones de autoridad en todo lo relativo a la prevención y mitigación ante las amenazas de los agentes perturbadores de origen geológico, hidrometeorológico, químico-tecnológico, sanitario- ecológico y socio-organizativo.
 
-Los cargos de Presidente, Visitador General, Visitador Adjunto y Secretario Ejecutivo de la Comisión, son incompatibles con el desempeño de actividades políticas, de cargos públicos, del ejercicio libre de la profesión y con las distinciones honorarias que no tengan una naturaleza netamente académica o de reconocimiento, exceptuando la actividad docente.
+Corresponde al Centro Estatal de Emergencias la ejecución de las políticas establecidas por el Titular del Poder Ejecutivo del Estado en materia de protección civil y gestión de riesgos, de conformidad con las disposiciones de esta ley y demás ordenamientos que sean aplicables.
 
-###### Artículo 56.
+En caso de una situación de emergencia ocasionada por un ente perturbador, las demás instancias de gobierno estatal y municipal, deberán de cumplir con las disposiciones ordenadas por el Centro Estatal de Emergencias para la atención de la contingencia y auxilio a la población.
 
-Toda persona podrá denunciar y presentar una queja por presuntas violaciones a los derechos humanos o actos de discriminación ante la Comisión, ya sea directamente o por medio de su representante.
+###### ARTÍCULO 35.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+El Titular del Consejo Estatal de Emergencias será designado por el Gobernador del Estado.
 
-### Capítulo VI. De las Visitadoras y los Visitadores
+###### ARTÍCULO 36.
 
-#### Sección Primera. De los Visitadores Generales
+Para ser Titular del Centro Estatal de Emergencias se requiere:
 
-###### Artículo 57.
+I. Ser mexicano en pleno goce de sus derechos civiles y políticos y vecino del Estado con residencia efectiva de tres años anteriores a la fecha de su designación;
 
-Podrán denunciar presuntas violaciones a los derechos humanos o actos de discriminación sin necesidad de representante, los niños, niñas u otras personas incapaces, cuando se ponga en peligro su vida, libertad o integridad física, sexual o psicológica. Cuando no estén en aptitud para presentar la queja, ésta podrá ser presentada por cualquier persona, la cual puede ser continuada de oficio.
+II. Ser mayor de 30 años;
 
-###### Artículo 58.
+III. Contar con título profesional;
 
-Cuando los interesados estén privados de su libertad o se desconozca su paradero, los hechos se podrán denunciar por cualquier persona, aun cuando sea menor de edad.
+IV. Tener conocimientos básicos relacionados con la Protección Civil; y
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de la libertad de más de un año de prisión; pero si se tratare de robo, fraude, peculado, falsificación, abuso de confianza u otro que lastime la buena imagen en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido el monto de la pena.
 
-###### Artículo 59.
+###### ARTÍCULO 37.
 
-Las organizaciones de la sociedad civil, legalmente constituidas, cuyo objeto principal sea la defensa de los Derechos Humanos o el combate a la discriminación, podrán acudir ante la Comisión para denunciar presuntas violaciones a los derechos humanos o actos discriminatorios.
+El Centro Estatal de Emergencias, en situaciones de normalidad, tendrá las siguientes atribuciones:
 
-### Capítulo VII. Del Secretario Ejecutivo
+I. Promover en los medios de comunicación social, los planes y programas de capacitación, difusión y divulgación en campañas permanentes sobre temas de protección civil, que contribuyan a la formación de una cultura en la materia;
 
-###### Artículo 60.
+II. Invitar a la población a participar activamente en acciones de protección civil y prevención de desastres;
 
-Todos los trámites, investigaciones y procedimientos que lleve a cabo la Comisión, por la naturaleza de su objeto, se desahogarán a la mayor brevedad, con la finalidad de que los quejosos o denunciantes puedan ver resarcidos sus derechos en el menor tiempo posible. Dichos trámites se desahogarán en las instancias más próximas al domicilio de los denunciantes, con la finalidad de evitar, en la medida de lo posible, su traslado.
+III. Promover la incorporación de contenidos temáticos de protección civil en los planes de estudio de todos los niveles escolares;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+IV. Promover el desarrollo de planes y programas para la formación de especialistas en la materia y la investigación de las causas y efectos de los desastres, en los planteles de educación superior y en los organismos dedicados a la investigación científica y tecnológica;
 
-Los procedimientos que lleve a cabo la Comisión no podrán extenderse más allá de un plazo de cuatro meses contados a partir del momento en que sea presentada la denuncia o queja. Excepcionalmente, debido a la complejidad o naturaleza del asunto que se trate, la o el Visitador General encargado del caso, podrá solicitar a la Presidenta o Presidente que amplíe dicho plazo. En caso de estar de acuerdo, la o el Presidente emitirá una autorización por escrito de su ampliación debidamente fundado y motivado.
+V. Integrar y mantener actualizada la base de datos de recursos humanos y materiales de las dependencias y entidades de los órdenes de Gobierno y del sector privado, susceptibles de movilizar en caso de desastre;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+VI. Promover la actualización de leyes y reglamentos que garanticen la seguridad de la población, así como la protección a sus bienes, servicios estratégicos y su entorno;
 
-###### Artículo 61.
+VII. Promover que las dependencias y entidades estatales y municipales, cuenten con la infraestructura, equipamiento y servicios necesarios en las zonas urbanas y rurales para evitar daños en los casos que proceda;
 
-La queja sólo podrá presentarse dentro del plazo de un año, a partir de que se hubieran iniciado los hechos que se estimen violatorios o discriminatorios, o de que la o el quejoso hubiese tenido conocimiento de los mismos. En casos excepcionales, y tratándose de violaciones a los derechos humanos o actos discriminatorios que hayan generado consecuencias graves, la Comisión podrá ampliar dicho plazo mediante una resolución razonada.
+VIII. Coadyuvar de manera permanente en los programas, planes de emergencia y capacitación que en la materia le soliciten;
 
-En casos de presuntas violaciones a los derechos a la vida, a la libertad y a la integridad física y psíquica de las personas o de lesa humanidad, no habrá límite temporal alguno para presentar la queja.
+IX. Establecer vínculos de coordinación y capacitación con entidades gubernamentales y privadas nacionales o extranjeras;
 
-###### Artículo 62.
+X. Promover ante autoridades de los tres órdenes de Gobierno, así como del sector privado, la adquisición del equipo requerido para la atención de emergencias;
 
-Para la presentación y atención de quejas y denuncias ante la Comisión, y en los casos que ésta considere urgentes, todos los días y horas son hábiles. Para estos efectos, designará personal de guardia, en los términos que señale el Reglamento.
+XI. Coordinarse con las dependencias y entidades federales, estatales, municipales y el sector privado, para dar respuesta oportuna en caso de emergencia o desastre;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+XII. Elaborar el Programa Estatal y los Programas Operativos Anuales de Protección Civil, para su aprobación, y en su caso, por el Consejo;
 
-###### Artículo 63.
+XIII. Celebrar con las entidades federativas y HH. Ayuntamientos, así como con organismos e instituciones públicas y privadas, los convenios y acuerdos que estime necesarios en materia de protección civil y gestión de riesgos;
 
-Las quejas se presentarán por escrito con firma o huella dactilar y datos de identificación de la persona que denuncia. En casos urgentes o cuando la o el quejoso no pueda escribir o sea menor de edad, podrán presentarse oralmente o por cualquier medio de comunicación electrónica, debiendo en este último caso ratificarse dentro de los cinco días naturales siguientes a su presentación.
+XIV. Tramitar y dar seguimiento a los acuerdos emitidos por el Consejo Estatal;
 
-En caso de que el quejoso no acuda a ratificarla, la denuncia será desechada, excepto en los casos en los que la Comisión considere adecuado actuar de oficio, por la naturaleza del asunto de que se trate.
+XV. Expedir las constancias de los registros que se otorguen a las empresas capacitadoras e instructores en materia de protección civil;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+XVI. Elaborar, operar y mantener actualizado el Atlas Estatal de Peligros y Riesgos;
 
-###### Artículo 64.
+XVII. Realizar visitas de inspección a los establecimientos mencionados en el artículo 43 fracción III de esta Ley, cuando lo considere pertinente, independientemente de la atribución similar de los Órganos Municipales, con el único objeto de cerciorarse que dichos inmuebles cuentan con la Unidad y el Programa Interno de Protección Civil, así como las medidas de seguridad necesarias para afrontar cualquier contingencia que pudiera presentarse;
 
-Cuando las quejosas o quejosos se encuentren privados de su libertad, sus escritos deberán ser remitidos a la Comisión por las personas encargadas de los centros de detención o de reinserción social, o por la o el servidor público de mayor jerarquía del lugar donde se encuentre; asimismo, podrán ser entregados directamente a las o los Visitadores. De igual modo podrán presentar su queja por vía telefónica.
+XVIII. Vigilar que las dependencias estatales, cuenten con sus programas internos de protección civil, y otorgar el documento respectivo una vez que hayan cumplido con la normatividad;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+XIX. Coordinarse y apoyarse con los Grupos Voluntarios y las Organizaciones Civiles que dentro de sus objetivos, fomenten la cultura de la Protección Civil;
 
-###### Artículo 65.
+XX. Organizar cursos de capacitación en materia de protección civil y gestión de riesgos a los integrantes del Sistema Estatal, integrantes de los diversos grupos voluntarios y organismos privados, los que deberán impartirse de forma descentralizada en el ámbito territorial del Estado, y cuando se soliciten, a efecto de que participen en ellos el mayor número de interesados;
 
-La formulación de quejas y denuncias, así como los acuerdos, propuestas de solución y recomendaciones que emita la Comisión, no afectarán el ejercicio de otros derechos y medios de defensa de las o los quejosos. Tampoco suspenderán ni interrumpirán los plazos de prescripción. Esta circunstancia deberá señalarse a las personas interesadas en el acuerdo de admisión de la queja.
+XXI. Apoyar dentro de sus posibilidades presupuestarias y cuando la situación lo amerite, a los ciudadanos organizados y participativos en la materia de protección civil;
 
-###### Artículo 66.
+XXII. Solicitar informes a las dependencias federales, estatales y municipales, así como a las instancias privadas, académicas o de investigación en materia de protección civil;
 
-Si durante la investigación se observan violaciones de derechos adicionales a las originalmente reclamadas, la Comisión las podrá integrar al expediente y podrán ser atendidas sin que sea necesaria una ampliación de la queja ni trámite suplementario alguno.
+XXIII. Solicitar los dictámenes en materia de protección civil a las dependencias federales, estatales y municipales, y a las instituciones académicas o de investigación para implementar acciones dispuestas en la presente ley o en los reglamentos que tengan por objeto conocer el peligro y vulnerabilidad de la población para tomar las medidas preventivas o de mitigación necesarias;
 
-La Comisión tiene todas las facultades para suplir y en su caso ampliar la queja o denuncia, siempre que de su ejercicio derive una mejor protección de los derechos humanos.
+XXIV. Elaborar, administrar y mantener actualizada la base de datos del registro de empresas de bienes y servicios;
 
-###### Artículo 67.
+XXV. Diseñar y operar los sistemas de alertamiento por fenómenos perturbadores que puedan afectar a la entidad;
 
-La Comisión orientará y apoyará a los quejosos sobre el contenido de la queja o denuncia. Tratándose de personas que no entiendan correctamente el idioma español, se les proporcionará un intérprete de forma gratuita. Lo mismo ocurrirá en el caso de quienes posean algún tipo de discapacidad que les dificulte una comunicación clara y precisa.
+XXVI. Realizar los dictámenes de análisis de riesgos que sustenten, en su caso, las medidas de mitigación del mismo, que soliciten las instancias de la administración pública;
 
-Adicionalmente, estarán a disposición de los quejosos formularios que faciliten el trámite.
+XXVII. Realizar de manera oficiosa los análisis de riesgo para emitir observaciones a las autoridades competentes que conlleven a la disminución de la vulnerabilidad y exposición de la población y sus bienes; y
 
-###### Artículo 68.
+XXVIII. Las demás que establezca esta Ley, su reglamento y el Consejo Estatal.
 
-La Comisión registrará las denuncias y las quejas que se presenten, expidiendo un acuse de recibo.
+###### ARTÍCULO 38.
 
-Cuando considere que la instancia es inadmisible por ser manifiestamente improcedente o infundada se rechazará mediante acuerdo fundado y motivado que emitirá en un plazo máximo de cinco días hábiles.
+El Centro Estatal de Emergencias, en situaciones de riesgo o contingencia, tendrá las siguientes atribuciones:
 
-###### Artículo 69.
+I. Convocar a los integrantes del Consejo Estatal y activar la sesión ordinaria o extraordinaria según corresponda, ante la presencia de un fenómeno perturbador;
 
-No se admitirán quejas o denuncias anónimas. Si llegasen a ser del conocimiento de la Comisión datos con tal carácter, serán estudiados para determinar si existen elementos para abrir procedimientos oficiosos.
+II. Establecer y coordinar el Centro Estatal de Operaciones para la atención de Emergencias que en el seno del Consejo Estatal de Protección Civil habilite para tal fin;
 
-###### Artículo 70.
+III. Administrar la atención de la emergencia a través del Comité de Coordinación General de Emergencias;
 
-Cuando la denuncia no sea competencia de la Comisión, el quejoso será orientado para que pueda acudir a la autoridad o servidor público al que corresponda resolver el asunto. En ese caso, la Comisión remitirá un oficio a la autoridad competente, la cual asimismo deberá contestar a la Comisión, dentro de un plazo máximo e improrrogable de quince días hábiles, el resultado de su actuación.
+IV. Solicitar a los integrantes del Consejo Estatal que nombren a un representante para que funja como enlace interinstitucional en las labores de operatividad y de gestión social para la atención de la emergencia;
 
-Cuando el caso lo amerite, el personal de la Comisión podrá darle especial seguimiento, para efecto de constatar que el solicitante sea atendido en los términos más favorables a sus intereses, de acuerdo a la normatividad aplicable.
+V. Implementar acciones conjuntas, aportación de recursos humanos y económicos, a través de los acuerdos y convenios correspondientes para establecer mecanismos de preparación y mitigación;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+VI. Coordinar y asesorar a los Consejos Municipales en la atención de la emergencia;
 
-### Capítulo VIII. De las Prerrogativas e Incompatibilidades
+VII. Activar el Plan de Contingencias y asegurar la adecuada coordinación de las acciones que realicen los participantes en el mismo. El Plan contemplará como mínimo los siguientes componentes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+a. Preparación: que será el conjunto de medidas y acciones encaminadas a reducir al mínimo la pérdida de vidas humanas y otros daños. Se puede ilustrar a través de actividades como inventario de recursos físicos, humanos y financieros, monitoreo y vigilancia de fenómenos, determinación de rutas de evacuación, habilitación de refugios temporales o albergues, elaboración de planes para la búsqueda, rescate, evacuación, socorro y asistencia de víctimas; y la realización de planes de contingencia o de procedimientos, según la naturaleza del riesgo y su grado de afectación.
 
-###### Artículo 71.
+b. Alerta: Declaración con el fin de tomar precauciones específicas, debido a la probable y cercana ocurrencia de una contingencia. No sólo se divulgará la cercanía del desastre, sino que se dictarán acciones que tanto las instituciones como la población deben realizar para disminuir las afectaciones.
 
-La Presidenta o el Presidente de la Comisión, de forma extraordinaria podrá excusarse de conocer de un determinado caso, si éste puede lesionar la autoridad moral o la autonomía suyas o de la Comisión.
+c. Respuesta: Acciones que se realizarán ante una emergencia y que tiene por objeto salvar vidas, reducir el riesgo humano y pérdidas en la propiedad, como son la búsqueda y rescate de personas afectadas, asistencia médica, evaluación y reconstrucción de daños, alojamiento temporal y suministro de alimentos, entre otros.
 
-###### Artículo 72.
+VIII. Formular el diagnóstico y evaluación inicial de la severidad y magnitud de la emergencia, y presentarla de inmediato al Consejo Estatal y al Sistema Nacional de Protección Civil;
 
-La Comisión garantizará la confidencialidad de las investigaciones, de las quejas, y de la información, datos y pruebas que obren en su poder, mientras dichas investigaciones se efectúan.
+IX. Establecer los mecanismos de comunicación tanto en situación de normalidad como de emergencia, con los integrantes del Consejo Estatal y el Sistema Nacional de Protección Civil;
 
-Únicamente de manera excepcional y justificada, decidirá si proporciona o no a autoridades o personas distintas a los denunciantes dicha información.
+X. Coordinar y dirigir técnica y operativamente la atención de la emergencia;
 
-Los denunciantes o quejosos, con el objeto de facilitar la mejor defensa de sus intereses, tienen derecho a que la Comisión les proporcione la información que obre en el expediente en el momento en que lo deseen.
+XI. Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de alerta y de emergencia;
 
-### Capítulo IX. Del Procedimiento
+XII. Supervisar el adecuado funcionamiento de los refugios temporales o albergues;
 
-#### Sección Primera. Disposiciones Generales
+XIII. Participar en el proceso de restablecimiento y vuelta a la normalidad, y en el proceso de reconstrucción, de acuerdo a la normatividad; y
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+XIV. Las demás que establezca esta Ley, su reglamento y el seno del Consejo Estatal.
 
-###### Artículo 73.
+###### ARTÍCULO 39.
 
-Una vez admitida, la denuncia se hará del conocimiento de las autoridades o servidores públicos señalados como presuntos responsables y del titular del órgano del que dependan. Para ello, podrá ser utilizado, en casos de urgencia, cualquier medio de comunicación.
+El Centro Estatal de Emergencias, para el adecuado funcionamiento, contará con el personal multidisciplinario técnico, operativo y administrativo que el presupuesto asignado le permita.
 
-A las autoridades involucradas, se les solicitará un informe escrito sobre los actos u omisiones que se les atribuyan en la queja o denuncia, el cual será rendido en un plazo de hasta diez días naturales, contados desde el momento de la notificación. Si a juicio de la Comisión la situación es urgente dicho plazo podrá reducirse.
+### CAPÍTULO VI. DE LOS ÓRGANOS MUNICIPALES DE PROTECCIÓN CIVIL
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 40.
 
-###### Artículo 74.
+Los HH. Ayuntamientos contarán con un Centro Municipal de Emergencias, que coordinará sus acciones con las dependencias, entidades, instituciones y organismos de los sectores público y privado, académico, grupos voluntarios y con la población en general, que tengan su residencia en el territorio del municipio correspondiente.
 
-En el informe mencionado en el artículo anterior, la autoridad señalada como presunta responsable debe hacer constar los antecedentes del asunto, los fundamentos y motivaciones de los actos u omisiones que se le imputan, así como las pruebas que considere necesarias.
+###### ARTÍCULO 41.
 
-### Capítulo X. De las Obligaciones y Responsabilidades de las Autoridades y los Servidores Públicos
+El titular del Centro Municipal de Emergencias será designado por el Presidente Municipal.
 
-###### Artículo 75.
+###### ARTÍCULO 42.
 
-La falta de rendición del informe o de la documentación que lo apoya, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva de la autoridad o servidor público involucrado, tendrá el efecto de que la Comisión presumirá como ciertos los hechos materia de la denuncia, salvo prueba en contrario.
+Para ser titular del Centro Municipal de Emergencias, se requiere:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+I. Ser mexicano en pleno goce de sus derechos civiles y políticos y vecino del municipio del que se trate, con residencia efectiva de tres años anteriores a la fecha de su designación;
 
-###### Artículo 76.
+II. Ser mayor de 25 años;
 
-La Presidenta o el Presidente de la Comisión o las Visitadoras o Visitadores podrán solicitar en cualquier momento a las autoridades competentes, que se tomen las medidas para evitar la consumación irreparable de las presuntas violaciones denunciadas o la producción de daños de difícil reparación a las personas afectadas, así como solicitar su modificación cuando cambien las situaciones que las justificaron. De considerarlo necesario, para hacer cesar la probable violación a los derechos humanos o la comisión de actos discriminatorios o para garantizar el cumplimiento de sus funciones, la Presidenta o el Presidente de la Comisión podrán solicitar el auxilio de la fuerza pública.
+III. Contar con certificado de educación media superior o similar;
 
-Dichas medidas pueden ser precautorias, de conservación o restitutorias, según lo requiera la naturaleza del asunto.
+IV. Tener conocimientos básicos relacionados con la Protección Civil; y
 
-###### Artículo 77.
+V. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de la libertad de más de un año de prisión; pero si se tratare de robo, fraude, peculado, falsificación, abuso de confianza u otro que lastime la buena imagen en el concepto público, lo inhabilitará para el cargo cualquiera que haya sido el monto de la pena.
 
-Admitida la queja o denuncia, la Comisión procurará la amigable composición entre las partes, siempre dentro del respeto a los derechos humanos que se consideren afectados. Si se logra la avenencia entre las partes, se archivará el expediente, una vez que la autoridad o servidor público acredite, dentro del término de quince días hábiles, haber dado cumplimiento a las medidas acordadas.
+###### ARTÍCULO 43.
 
-Dicho plazo podrá ser ampliado cuando así lo requiera la naturaleza del arreglo.
+Los Centro Municipales tendrán las atribuciones siguientes:
 
-###### Artículo 78.
+I. Establecer y mantener comunicación permanente con el Centro Estatal de Emergencias y operar coordinadamente con él;
 
-Cuando la queja no se resuelva por la vía de la amigable composición, la Comisión iniciará de forma inmediata las investigaciones para resolver el asunto. En ese caso, la Comisión podrá:
+II. Formular sus respectivos Programas Municipales de Protección Civil, en los cuales se deberán identificar las zonas y tipos de riesgo a que está expuesta la población de su jurisdicción; así también los subprogramas de prevención, auxilio y apoyo, indicando sus objetivos, metas y estrategias. Dichos programas deberán ser elaborados en los primeros noventa días de iniciado el ejercicio municipal, y deberán presentarlos para su registro en el Centro Estatal de Emergencias;
 
-I.- Pedir a las autoridades o servidores públicos a los que se imputen las violaciones de derechos humanos, la presentación de informes o documentos complementarios;
+III. Vigilar que las dependencias municipales, federales, empresas, comercios, fabricas, industrias, unidades habitacionales, clubes sociales, deportivos y de servicios, hospitales, teatros, cines, discotecas, sanatorios, terminales y estaciones de pasajeros y de carga, mercados, plazas comerciales, centrales de abasto, gaseras, gasolineras, almacenes, bodegas, talleres que manejen o almacenen sustancias peligrosas, y los inmuebles que por su uso y destino reciban afluencia de personas o concentraciones masivas, cuenten con sus programas internos de protección civil, otorgando el documento respectivo una vez que hayan cumplido con la normatividad;
 
-II.- Solicitar de otras autoridades, servidores públicos o particulares, todo tipo de documentos e informes relacionados con el asunto materia de la investigación;
+IV. Vigilar que las dependencias o los inmuebles señalados en la presente ley, cuenten con una póliza de seguros de cobertura amplia de responsabilidad civil y daños a terceros que amparen la eventualidad de un siniestro;
 
-III.- Practicar las visitas e inspecciones que considere convenientes;
+V. Establecer y operar los centros de acopio, refugios temporales y albergues para recibir y administrar ayuda a la población afectada por una emergencia o desastre; igualmente vigilar y verificar que la ayuda recibida se destine a la población afectada, estableciendo mecanismos ágiles de control en su recepción y distribución;
 
-IV.- Citar a las personas que deben comparecer como testigos o peritos; y
+VI. Promover la creación de paraderos vehiculares que cuenten con los servicios básicos para resguardar vehículos de transporte de carga y en especial para aquellos que transporten sustancias peligrosas;
 
-V.- Efectuar todas las demás acciones que juzgue convenientes para el mejor conocimiento del asunto.
+VII. Realizar inspecciones a los establecimientos que se mencionan en la fracción III de este artículo, y en su caso, aplicar las sanciones administrativas correspondientes;
 
-#### Sección Segunda. De las Pruebas
+VIII. Emitir los dictámenes en materia de protección civil que tengan por objeto la regulación de asentamientos humanos, empresas de nueva creación e infraestructura en general para la prevención de riesgos en la jurisdicción que le corresponde;
+
+IX. Formular y mantener actualizado su respectivo Atlas Municipal de Peligros y Riesgos, el cual remitirá al Sistema Estatal y al Centro Estatal de Emergencias;
+
+X. Promover en los medios de comunicación social, los planes y programas de capacitación, difusión y divulgación a través de campañas permanentes sobre temas de protección civil, que contribuyan a la formación de una cultura en la materia;
+
+XI. Promover cursos y campañas entre la población para que participe activamente en acciones de protección civil;
+
+XII. Llevar el registro de los Grupos Voluntarios y las Organizaciones Civiles coadyuvantes en la materia, radicados en su territorio;
+
+XIII. Integrar un catálogo de recursos humanos y materiales de las dependencias y entidades de su municipio y del sector privado susceptibles de ser movilizados en caso de emergencia o desastre, remitiendo una copia al Centro Estatal de Emergencias;
+
+XIV. Formular el Programa Operativo Anual de Protección Civil, para su aprobación ante el Consejo;
+
+XV. Tramitar y dar seguimiento a los acuerdos emitidos por el Consejo Municipal;
+
+XVI. Coordinarse y apoyar a las Organizaciones Civiles que dentro de sus objetivos fomenten la cultura de la protección civil;
+
+XVII. Participar junto con su personal en cursos, jornadas, reuniones, seminarios, talleres y otras actividades a las que convoque el Sistema Estatal y Nacional;
+
+XVIII. Rendir un informe bimestral de sus actividades al Consejo Municipal;
+
+XIX. Proporcionar la información que le sea requerida por el Sistema y el Centro Estatal de Emergencias;
+
+XX. Recibir, tramitar y resolver la acción civil que interpongan los ciudadanos ante el Centro Municipal de Emergencias; y
+
+XXI. Las demás que expresamente le señalen esta ley y otros ordenamientos legales aplicables, así como los reglamentos que de ellos deriven.
+
+### CAPÍTULO VII. DEL CENTRO ESTATAL DE OPERACIONES PARA LA ATENCIÓN DE EMERGENCIAS
+
+###### ARTÍCULO 44.
+
+En situación de emergencia o desastre en el Estado, el Presidente del Consejo Estatal de Protección Civil o el Secretario Ejecutivo, ordenarán al Centro Estatal de Emergencias instale el Centro Estatal de Operaciones para la atención de la contingencia, al que se integrarán los responsables o enlaces de las dependencias de la administración pública estatal, así como las instancias federales y municipales, que se encuentren establecidas en la entidad; y a invitación, el sector privado y grupos voluntarios, cuya participación sea necesaria para el auxilio y recuperación de la población de la zona afectada.
+
+El Centro Estatal de Operaciones para la atención de Emergencias estará a cargo del CENECAM y se instalará en el municipio o lugar que designe el Presidente del Consejo Estatal, de acuerdo a las necesidades de atención a la población.
+
+###### ARTÍCULO 45.
+
+Corresponde al Centro Estatal de Operaciones para la atención de Emergencias:
+
+I. Definir, orientar y coordinar técnica y operativamente la atención de las emergencias o desastres;
+
+II. Determinar el impacto del evento y establecer prioridades en la respuesta;
+
+III. Aplicar el Programa Estatal de Emergencias o los planes especiales en auxilio de los municipios, y coordinar las acciones de los organismos que participan;
+
+IV. Mantener una comunicación eficaz con todas las dependencias involucradas, a fin de recibir la información necesaria para la toma de decisiones; y
+
+V. Mantener informada a la población en general sobre la situación que guarda la emergencia o desastre, a través del comité que para tal fin sea instalado;
+
+VI. Implementar la gestión de riesgos, donde se dará prioridad a los grupos sociales vulnerables y de escasos recursos económicos;
+
+VII. Declarar los cambios en los estados de alerta de acuerdo a la evolución del evento;
+
+VIII. Identificar acciones para el proceso de rehabilitación o reconstrucción; y
+
+IX. Las demás que señale está ley, su reglamento y las que se acuerden en el seno del Consejo Estatal.
+
+###### ARTÍCULO 46.
+
+Cada Ayuntamiento deberá crear un Centro Municipal de Operaciones para la atención de Emergencias, que se organizará y funcionará de acuerdo con las disposiciones reglamentarias correspondientes que, con base en esta ley, expida el propio H. Ayuntamiento, sin perjuicio de realizar las que señala el artículo anterior en su respectivo ámbito de competencia.
+
+## TÍTULO TERCERO. DE LA PLANEACIÓN Y DE LA PREVENCIÓN
+
+### CAPÍTULO I. DE LOS PROGRAMAS DE PROTECCIÓN CIVIL
+
+###### ARTÍCULO 47.
+
+La política pública de Protección Civil en el Estado, se ajustará a los lineamientos del Plan Estatal de Desarrollo, del Programa Nacional de Protección Civil, y de los Planes Municipales de Desarrollo de cada municipio, según corresponda, con base en los cuales se elaborarán los programas y planes: Estatal, Especiales, Municipales e Internos de Protección Civil. El cumplimiento de estos programas será obligatorio para la Administración Pública Estatal y Municipal, las organizaciones civiles, el sector privado y para los habitantes del Estado.
+
+###### ARTÍCULO 48.
+
+Los Programas Estatal y Municipales de Protección Civil son el conjunto de objetivos, políticas, líneas de acción y metas que tienen por objeto proteger a la población, sus bienes, servicios estratégicos y su entorno así como asegurar su funcionamiento mediante las acciones específicas, coordinadas y delimitadas, que realicen los sectores público y privado en la materia, que estarán sustentados de acuerdo al Plan Estatal o Municipal de Desarrollo, según corresponda.
+
+Los Programas Estatal y Municipales, estarán basados en los principios que establece esta ley, la ley de planeación, la ley de Transparencia y Acceso a la Información Pública Estatal y demás normatividad en materia de planeación, transparencia y rendición de cuentas.
+
+###### ARTÍCULO 49.
+
+En la elaboración de los Programas de Protección Civil Estatal y Municipal, deberán considerarse las líneas generales que establezca el Plan Estatal de Desarrollo, así como las etapas consideradas en la gestión integral de riesgos y conforme lo establezca la normatividad local en materia de planeación, comprendiendo por lo menos:
+
+I. Descripción del Sistema Estatal o Municipal;
+
+II. Conocimiento del origen y naturaleza de los riesgos, además de los procesos de construcción social de los mismos, a que está expuesta la población del Estado o el Municipio;
+
+III. Identificación de peligros y vulnerabilidades, así como análisis, evaluación y escenarios de las posibles afectaciones;
+
+IV. Revisión de controles para la mitigación del impacto;
+
+V. Acciones y mecanismos para la prevención y mitigación de riesgos;
+
+VI. Desarrollo de programas de capacitación para una mayor comprensión y concientización de los riesgos;
+
+VII. Mecanismos de fortalecimiento y adaptación de la sociedad para reducir el impacto de un fenómeno perturbador;
+
+VIII. Los objetivos del programa;
+
+IX. Las estrategias;
+
+X. Los subprogramas de investigación, prevención y gestión de riesgos, auxilio y recuperación;
+
+XI. Las obligaciones de los participantes de los Sistemas Estatal y Municipales para el cumplimiento del programa;
+
+XII. Los antecedentes históricos de desastres en el Estado y en el Municipio;
+
+XIII. La naturaleza y dinámica del desarrollo urbano y económico;
+
+XIV. Los recursos materiales y financieros disponibles; y
+
+XV. Los mecanismos necesarios para su evaluación y seguimiento.
+
+###### ARTÍCULO 50.
+
+El subprograma de investigación, es el conjunto de acciones destinadas a sustentar los subprogramas anteriores, a través de la actualización de los ordenamientos legales en la materia, la investigación de los fenómenos y sus consecuencias, así como los mecanismos tecnológicos para el control y evaluación del mismo.
+
+###### ARTÍCULO 51.
+
+El subprograma de prevención y gestión de riesgos es el conjunto de acciones dirigidas a evitar riesgos, mitigar o reducir el impacto destructivo de los desastres naturales o humanos sobre la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente.
+
+###### ARTÍCULO 52.
+
+El subprograma de auxilio, es el conjunto de acciones destinadas a salvaguardar la vida de las personas, sus bienes, la planta productiva, la preservación, los servicios públicos y el medio ambiente, durante la presencia de un agente perturbador, mediante la aplicación de los Planes Estatal y Municipales de contingencias.
+
+###### ARTÍCULO 53.
+
+El subprograma de recuperación, es el conjunto de acciones destinadas a la rehabilitación y reconstrucción de los daños ocasionados por el fenómeno perturbador hasta la vuelta a la normalidad y funcionalidad de los sistemas vitales del Estado y de la sociedad.
+
+###### ARTÍCULO 54.
+
+El Programa Interno deberá contener, por lo menos:
+
+I. Los objetivos del Programa;
+
+II. Antecedentes históricos de los desastres y calamidades que se han presentado en la región; y
+
+III. Los subprogramas de prevención, auxilio y recuperación o vuelta a la normalidad.
+
+El reglamento de esta Ley determinará la guía para la elaboración del programa interno de protección civil.
+
+El Centro Estatal y Municipal de Emergencias implementarán Programas Especiales para atender de manera particular un evento o actividad que implique riesgos específicos.
+
+###### ARTÍCULO 55.
+
+Quienes elaboren los programas que se mencionan en el artículo 54 de esta Ley, contarán con la asesoría técnica gratuita de los Consejos Municipales de Emergencias. Estos programas también podrán ser elaborados por cualquier organización civil, grupos voluntarios, empresas capacitadoras, instructores independientes, empresas de consultoría y estudio de riesgo-vulnerabilidad, en cuyo caso, será necesario contar con el registro que expida el Centro Estatal de Emergencias.
+
+Los municipios que lo requieran, podrán solicitar por escrito la asesoría del Centro Estatal de Emergencias en la elaboración de sus programas municipales.
+
+###### ARTÍCULO 56.
+
+Los Programas Internos deberán ser revisados, analizados y autorizados por el Centro Municipal de Emergencias respecto de las empresas de bienes y servicios asentadas en su jurisdicción. No podrán otorgarse licencias de funcionamiento a las personas físicas o morales que no cuenten con su programa interno de protección civil autorizado por la instancia correspondiente.
+
+No se otorgará la licencia de funcionamiento, cuando las empresas clasificadas como de riesgo y de alto riesgo, no cuenten con el programa interno y con los programas externos de respuesta a emergencias.
+
+El Centro Estatal de Emergencias podrá realizar verificaciones para corroborar que se hayan autorizado los programas internos de acuerdo a lo señalado en la presente ley, su reglamento, las normas oficiales y demás disposiciones aplicables.
+
+Cuando el Centro Estatal de Emergencias detecte alguna irregularidad, la hará del conocimiento de la contraloría correspondiente y, en caso de presumirse alguna conducta delictiva, dará vista a la autoridad ministerial que corresponda.
+
+Una vez autorizados los Programas Internos por las autoridades municipales, se deberán clasificar y enviar, en formato electrónico, al Centro Estatal de Emergencias, quienes la integrarán a la base de datos del registro de empresas de bienes y servicios.
+
+### CAPÍTULO II. DE LA CULTURA DE LA PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS
+
+###### ARTÍCULO 57.
+
+Los Centros Estatales y Municipales de Emergencias, fomentarán la cultura de la protección civil y gestión de riesgos entre la población, mediante la participación individual y colectiva.
+
+###### ARTÍCULO 58.
+
+Para el fomento de la cultura de la protección civil y gestión de riesgos, las autoridades, dentro de sus respectivos ámbitos de competencia, deberán:
+
+I. Difundir entre la población, las medidas que le permitan identificar el grado de peligro, la preparación y mitigación del riesgo y la respuesta adecuada ante posibles emergencias como una cultura preventiva de autoprotección, resultante de los mecanismos de corresponsabilidad entre sociedad y gobierno;
+
+II. Promover la difusión de información que permita crear un consciente colectivo de los efectos del cambio climático y de las medidas implementadas para la adaptación al mismo;
+
+III. Impulsar un nuevo perfil preventivo de la población, por medio de la integración normada y regulada de los conocimientos básicos y especializados en materia de Protección Civil y de adaptación al cambio climático, en el sistema educativo estatal;
+
+IV. Elaborar los Programas y Planes de Protección Civil para todos los inmuebles públicos y privados donde exista afluencia masiva de gente, que conlleven a la capacitación del personal, equipamiento y ejecución de simulacros;
+
+V. Conformar programas de comunicación social de cobertura estatal para la gestión de riesgos, como una herramienta para la educación, capacitación y difusión de la información en materia de prevención de desastres y mitigación de los riesgos;
+
+VI. Implementar los planes de seguridad escolar en el Sistema Educativo Estatal y gestionar ante las autoridades correspondientes, la inclusión de contenidos educativos de la materia en todos los niveles escolares;
+
+VII. Capacitar, de manera sistemática y permanente, al personal que labora en tareas de Protección Civil a fin de profesionalizarlos;
+
+VIII. Impulsar el servicio civil de carrera en materia de Protección Civil para garantizar que, en las instancias de Protección Civil o inherentes a la misma, se cuente con personal calificado y adecuado para el desarrollo de las funciones;
+
+IX. Promover la creación y participación de comités vecinales, comunales y ciudadanos, entre otros;
+
+X. Promover la celebración de convenios con el sector público y privado, con el objeto de difundir la cultura de protección civil; y
+
+XI. Los demás programas o acciones que se acuerden en el seno del Consejo Estatal y Consejos Municipales de Protección Civil, o en los Centros Estatal y Municipales de Emergencias que tengan como objeto la promoción de la cultura de la protección civil y de la gestión de riesgos.
+
+###### ARTÍCULO 59.
+
+Con la finalidad de impulsar la cultura de protección civil, las autoridades llevarán a cabo proyectos, estudios e inversiones necesarias para ampliar y modernizar la cobertura de los sistemas de medición de los distintos fenómenos perturbadores naturales y humanos que puedan provocar daños a la población. Para la realización de tal fin, podrán solicitar la colaboración del Sistema Nacional de Protección Civil y de las instancias de investigación y académicas.
+
+Las instituciones académicas y centros de investigación realizarán en forma gratuita los dictámenes que solicite el Centro Estatal de Emergencias para conocer los peligros y vulnerabilidades a que se encuentre expuesta la población.
+
+### CAPÍTULO III. DE LA PREVENCIÓN
+
+###### ARTÍCULO 60.
+
+Las dependencias y entidades del sector público federal ubicadas dentro del territorio del Estado, así como del sector público estatal y municipal, los propietarios o poseedores de fábricas, industrias, comercios, oficinas, unidades habitacionales, clubes sociales, deportivos y de servicios, centros educativos, hospitales, teatros, cines, discotecas, sanatorios, terminales y estaciones de transporte de pasajeros y de carga, mercados, plazas comerciales, centrales de abasto, gaseras, gasolineras, almacenes, bodegas y talleres que manejen o almacenen sustancias peligrosas, y los inmuebles que por su uso y destino reciban afluencia de personas o concentraciones masivas, deberán contar con una Unidad Interna que implementará el Programa correspondiente, de conformidad con lo dispuesto en esta Ley, su reglamento, los lineamientos de los Programas Estatal y Municipales y lo establecido por los Centros Estatal y Municipales de Emergencias.
+
+###### ARTÍCULO 61.
+
+Todos los inmuebles que se mencionan en el artículo anterior de esta Ley, deberán contar con salidas de emergencia y, en el caso de los inmuebles de tres o más niveles, deberán contar con escaleras de emergencia; a su vez, los propietarios o poseedores de dichas edificaciones, deberán colocar en sitios visibles equipos de seguridad, señales informativas, preventivas, restrictivas y de obligación, conforme a las Normas Oficiales Mexicanas y Tratados Internacionales, luces de emergencia, instructivos y manuales para situaciones de emergencia, los cuales consignarán las reglas y orientaciones que deberán observarse en caso de una emergencia y señalarán las zonas de seguridad.
+
+Toda omisión a las disposiciones señaladas en el párrafo que antecede, se sancionará conforme a lo previsto en esta Ley y su reglamento.
+
+###### ARTÍCULO 62.
+
+Todos los entes a que se refiere el artículo 60 de esta Ley, deberán constituirse o integrarse en Comités Locales de Ayuda Mutua, y deberán registrarse ante el Centro Municipal de Emergencias correspondiente, y éste los remitirá al Centro Estatal de Emergencias para su supervisión.
+
+###### ARTÍCULO 63.
+
+Las empresas clasificadas como de riesgo y de alto riesgo, de acuerdo con las Normas Oficiales Mexicanas y los Tratados Internacionales, deberán contar con el Análisis de Riesgo y Vulnerabilidad para elaborar sus Programas Internos, en el que se señalen los peligros y riesgos a los que están expuestas las empresas y la población que pudiera resultar afectada por el tipo de sustancias o materiales que se manejen.
+
+Las empresas a que se refiere el párrafo anterior, implementarán su Programa Externo, en el que se establezcan los procedimientos a seguir si surge alguna emergencia que sobrepase sus niveles de actuación interna. Además, deberán contar con una póliza de seguros de cobertura amplia de responsabilidad civil y daños a terceros que ampare la eventualidad de un siniestro.
+
+###### ARTÍCULO 64.
+
+En caso de que las empresas señaladas en el artículo anterior usen materiales o residuos peligrosos, deberán informar semestralmente al Centro Municipal de Emergencias, quien a su vez, remitirá dicho informe al Centro Estatal para la correspondiente supervisión. El informe contendrá, como mínimo, lo siguiente:
+
+I. Nombre comercial del producto o del material;
+
+II. Fórmula o nombre químico y estado físico;
+
+III. Tipo de contenedor, en su caso;
+
+IV. Capacidad;
+
+V. De los cursos de capacitación al personal sobre el manejo de materiales peligrosos, debiendo proporcionar, además, una relación del equipo de seguridad con que cuentan para la atención de fugas, derrames, incendios y explosiones que pudieran presentarse; y
+
+VI. Los demás que señale el reglamento.
+
+###### ARTÍCULO 65.
+
+Las empresas clasificadas como de riesgo y de alto riesgo deberán observar, para el traslado de sus productos, el reglamento federal para el transporte terrestre de materiales y residuos peligrosos.
+
+###### ARTÍCULO 66.
+
+Los vehículos de transporte público y privado que usen gas natural o licuado de petróleo como carburante deberán contar con el dictamen aprobatorio, expedido por la Unidad Verificadora de la Secretaría de Energía o de Comunicaciones y Transportes, según corresponda. Los Centros Municipales de Emergencias y de vialidad vigilarán el estricto cumplimiento de esta disposición; en caso de incumplimiento, informarán y solicitarán la intervención de las autoridades estatales y federales correspondientes.
+
+El Centro Estatal de Emergencias podrá vigilar que los Centros Municipales cumplan con la inspección y vigilancia señalada en el párrafo anterior.
+
+Cuando el Centro Estatal de Emergencias detecte alguna irregularidad, la hará del conocimiento de la contraloría correspondiente, y en caso de presumirse alguna conducta delictiva, dará vista a la autoridad ministerial que corresponda.
+
+###### ARTÍCULO 67.
+
+Se prohíbe el transporte de cualquier tipo de contenedor con material peligroso en vehículos de transporte público de pasajeros con autorización estatal o municipal en el territorio Estatal. El Centro Estatal y Municipal de Emergencias que corresponda, podrán solicitar la intervención de las autoridades de vialidad, cuando observen la violación de esta disposición, quienes podrán asegurar el vehículo involucrado.
+
+###### ARTÍCULO 68.
+
+Toda actividad mercantil que use gas natural o licuado de petróleo como carburante, deberá contar con un dictamen aprobatorio de sus instalaciones practicado por la autoridad que corresponda.
+
+###### ARTÍCULO 69.
+
+Cuando una situación de riesgo inminente implique la posibilidad de una emergencia o desastre, los Centros Estatal y Municipales de Emergencias con el fin de salvaguardar a las personas, sus bienes y su entorno, podrán adoptar las siguientes medidas de prevención:
+
+I. El aislamiento temporal, parcial o total del área;
+
+II. La suspensión de trabajos, actividades y servicios;
+
+III. La evacuación de inmuebles o comunidades;
+
+IV. El cierre temporal, parcial o total de vialidades cercanas al lugar; y
+
+V. Las demás que sean necesarias y se acuerden en los Consejos Estatal o Municipales.
+
+Asimismo, podrán solicitar la ejecución de otras medidas preventivas y restrictivas ante la autoridad competente en los términos de las leyes correspondientes.
+
+###### ARTÍCULO 70.
+
+Las autoridades de la administración pública estatal y municipal, así como los particulares, deberán permitir el libre acceso a las instalaciones o lugar motivo de la emergencia o desastre al personal de protección civil para atender la emergencia.
+
+Los edificios públicos o privados que reúnan los requisitos mínimos podrán ser habilitados como refugios temporales. Además, los vehículos oficiales, de Transporte Público o concesionado y privado, deberán ponerse a disposición de los Centros Estatal o Municipales de Emergencia para el apoyo de la ciudadanía ante una situación de Emergencia o Desastre de manera gratuita.
+
+### CAPÍTULO IV. DE LA PREVENCIÓN EN LOS EVENTOS O ESPECTÁCULOS PÚBLICOS MASIVOS
+
+###### ARTÍCULO 71.
+
+En todos los eventos o espectáculos públicos masivos, los organizadores deberán:
+
+I. Presentar el programa de seguridad y protección civil de eventos o espectáculos públicos masivos que contendrá, cuando menos, la colocación de escenarios y demás medidas para salvaguardar la integridad física de las personas;
+
+II. Presentar los documentos que avalen la participación de, cuando menos, los cuerpos de bomberos, de servicios médicos pre hospitalarios, y de la participación de empresas de seguridad pública o privada;
+
+III. Copia del contrato de arrendamiento del inmueble o permiso del propietario, en su caso;
+
+IV. Dictámenes de estructura del lugar en donde se pretende llevar a cabo el evento y de aforo del lugar;
+
+V. Permiso para el empleo o uso de juegos o artificios pirotécnicos;
+
+VI. Póliza de seguros de responsabilidad civil, en su caso; y
+
+VII. Los demás que señale el reglamento de esta Ley o la autoridad de Protección civil.
+
+###### ARTÍCULO 72.
+
+Los Centros Municipales de Emergencias serán las instancias que autorizarán y supervisarán que se cumplan con las medidas descritas para la realización de los eventos o espectáculos públicos masivos. El Centro Estatal de Emergencias podrá vigilar que los Centros Municipales cumplan con la inspección y vigilancia.
+
+Cuando el Centro Estatal de Emergencias detecte alguna irregularidad, la hará del conocimiento de la contraloría correspondiente, y en caso de presumirse alguna conducta delictiva, dará vista a la autoridad ministerial que corresponda.
+
+### CAPÍTULO V. DE LA CONSTRUCCIÓN DE OBRAS
+
+###### ARTÍCULO 73.
+
+Toda obra habitacional, de infraestructura o de cualquier tipo que se pretenda construir, para obtener la licencia de construcción, uso de suelo o cualquier otro permiso similar, deberá de consultar y aplicar de forma obligatoria el atlas de peligros o de riesgos Estatal o Municipal.
+
+Las autoridades responsables de otorgar los permisos de construcción, uso de suelo o cualquier otro permiso similar, deberán solicitar el documento expedido por las instancias de protección civil, donde se dictamine el grado de peligro o riesgo del terreno derivado de la consulta al atlas correspondiente. En caso de que el terreno donde se pretenda realizar la obra sea considerado de peligro o riesgo, deberán solicitar las medidas de mitigación correspondientes cuando técnicamente sea procedente. La obra y las medidas de mitigación propuestas no deberán de derivar en la generación o incremento de peligros o riesgos en construcciones o centros de población aledaños.
+
+La autoridad, previo a la expedición de la licencia de construcción, valorará estas medidas de mitigación. En caso de que, a su criterio, no sean suficientes para salvaguardar la vida y los bienes de las personas, se negará dicho permiso.
+
+###### ARTÍCULO 74.
+
+El servidor público que autorice la construcción de obras de cualquier tipo sin que se haya consultado los atlas de peligros o de riesgos, será responsable administrativamente, independientemente de que su conducta pueda constituir un delito.
+
+### CAPÍTULO VI. DE LAS DECLARATORIAS DE EMERGENCIA Y DESASTRE
+
+###### ARTÍCULO 75.
+
+La declaratoria de emergencia es el acto mediante el cual, el Estado reconoce que uno o varios municipios se encuentran ante la inminencia, alta probabilidad o presencia de una situación anormal generada por un fenómeno perturbador que pone en riesgo la seguridad e integridad de la población.
+
+La declaratoria de emergencia se clasifica en emergencia preventiva o pre contingencia y de la atención de la emergencia o contingencia.
+
+Se emitirá la declaratoria de emergencia preventiva o pre contingencia cuando exista la inminencia o alta probabilidad de que suceda una situación anormal generada por un fenómeno perturbador de origen natural o antropogénico.
+
+Se emitirá la declaratoria de atención de la emergencia o contingencia cuando se esté ante la presencia de una situación anormal generada por un fenómeno perturbador de origen natural o antropogénico.
+
+La declaratoria de emergencia podrá subsistir aun ante la presencia de una declaratoria de desastre.
+
+###### ARTÍCULO 76.
+
+Para fortalecer las acciones de respuesta del Estado y atender los daños causados por un fenómeno perturbador, el Titular del Poder Ejecutivo Estatal podrá solicitar el apoyo del Gobierno Federal y emitirá para tal efecto la declaratoria de desastre.
+
+###### ARTÍCULO 77.
+
+La declaratoria de desastre es el acto por el cual el Gobierno del Estado declara en zona de desastre uno o varios municipios de la geografía estatal.
+
+###### ARTÍCULO 78.
+
+La declaratoria de emergencia a que se refiere este capítulo se publicará mediante boletín de comunicación social.
+
+La declaratoria de desastre se publicará en el Periódico Oficial del Estado. Podrá difundirse en los demás medios de comunicación.
+
+Las declaratorias podrán publicarse con posterioridad a la emisión de las mismas, sin que ello afecte su validez y efectos, procurando publicarlas lo antes posible.
+
+Se podrán emitir tantas declaratorias de emergencia o desastre como fenómenos perturbadores amenacen o afecten a la población, independientemente de si se dan en una misma temporalidad o afecten a uno o varios municipios.
 
 ## TÍTULO CUARTO. DE LA PARTICIPACIÓN CIUDADANA Y DE LOS GRUPOS VOLUNTARIOS
 
-### Capítulo XI. De las Observaciones Generales
+### CAPÍTULO I. DE LA PARTICIPACIÓN SOCIAL Y PRIVADA
 
-###### Artículo 79.
+###### ARTÍCULO 79.
 
-Con el fin de documentar debidamente las evidencias en un expediente de queja o denuncia por presuntas violaciones a derechos humanos, la Comisión podrá solicitar la rendición y desahogar todas aquellas pruebas que a juicio del Presidente o de los Visitadores, resulten indispensables; con la única limitación de que éstas se encuentren previstas como tales por la Legislación Mexicana.
+Los Consejos Estatal y Municipales promoverán la participación corresponsable de la población en la evaluación, formulación y ejecución de los programas y acciones de protección civil y gestión de riesgos.
 
-###### Artículo 80.
+###### ARTÍCULO 80.
 
-Las pruebas que se presenten tanto por los interesados como por los servidores públicos o bien que la Comisión recabe de oficio, serán valoradas en su conjunto, de acuerdo con los principios de la lógica, la experiencia y la legalidad, a fin de que puedan producir convicción sobre los hechos materia de la queja.
+Los habitantes podrán coadyuvar con las autoridades en las acciones de protección civil previstas en los planes y programas a que se refiere esta Ley u otros ordenamientos, mediante su organización libre, voluntaria y gratuita.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 81.
 
-###### Artículo 81.
+Toda persona debe informar a las autoridades municipales o estatales de Protección Civil, cualquier hecho, acto u omisión que cause o pueda causar situaciones de peligro o emergencia para la población.
 
-Las resoluciones del expediente, estarán basadas únicamente en la documentación y las pruebas que consten en el propio expediente.
+Las autoridades referidas, atenderán de manera permanente a la población y para ello utilizarán los medios de comunicación o cualquier otro para estar en contacto con la ciudadanía.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 82.
 
-#### Sección Tercera. De los Acuerdos, Propuestas de Solución y Recomendaciones
+En las acciones que promuevan las autoridades para la participación social en materia de protección civil y gestión de riesgos, se observará lo siguiente:
 
-###### Artículo 82.
+I. Convocarán a representantes de la población, instituciones educativas, públicas y privadas, así como a las organizaciones civiles, para que manifiesten su opinión y en su caso, formulen propuestas;
 
-La Comisión podrá dictar acuerdos y medidas durante el desahogo del trámite, que serán obligatorias para las autoridades y servidores públicos para que comparezcan o aporten información o documentación.
+II. Reconocerán los esfuerzos de los miembros de la población más destacados de la sociedad para promover la prevención y auxilio en caso de desastre; y
 
-Su incumplimiento acarreará las sanciones y responsabilidades señaladas en la legislación de responsabilidades de los funcionarios públicos.
+III. Concientizarán a la población en materia de protección civil y gestión de riesgos, mediante acciones conjuntas para la prevención y auxilio en caso de desastre.
 
-### Capítulo XII. De las Acciones Colectivas
+### CAPÍTULO II. DE LOS GRUPOS VOLUNTARIOS
 
-###### Artículo 83.
+###### ARTÍCULO 83.
 
-Concluida la investigación, la Comisión podrá, si así lo amerita el caso, emitir una propuesta de solución, dirigida a las partes involucradas. En dicho documento, se señalarán las medidas que procedan para la efectiva restitución de los derechos de los afectados y, si procede, la reparación de los daños y perjuicios que se hubieren ocasionado.
+Los Grupos Voluntarios deberán constituirse con personal debidamente capacitado por el Centro Estatal de Emergencias, para participar en cualquier contingencia de origen natural o humano.
 
-Si no es aceptado por alguna de las partes, dentro del improrrogable plazo de diez días naturales, se sujetará a lo dispuesto en los siguientes Artículos.
+###### ARTÍCULO 84.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+Los Grupos Voluntarios se clasificarán en:
 
-###### Artículo 84.
+a) Territoriales: Formados por ciudadanos de una colonia, zona o comunidad de un municipio;
 
-Concluida la investigación y rechazada la Propuesta de Solución, la o el Visitador General correspondiente formulará, en su caso, un proyecto de recomendación en el cual analizará los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas a fin de determinar si las autoridades o las o los servidores públicos han violado o no los derechos humanos de los afectados, al haber incurrido en actos u omisiones ilegales, irracionales, injustos, inadecuados o erróneos, o hubiesen dejado sin respuesta las solicitudes presentadas por las personas interesadas durante un período que exceda notoriamente los plazos fijados por las leyes.
+b) Profesionales o de Oficios: Constituidos de acuerdo a la profesión u oficio que tengan los voluntarios; y
 
-En el proyecto de recomendación, se señalarán las medidas que procedan para la efectiva restitución de los derechos de los afectados.
+c) De Actividad Específica: Conforme a las funciones establecidas en la operación de los Programas de protección civil.
 
-El proyecto antes mencionado será sometido a la Presidenta o el Presidente de la Comisión para su consideración y resolución final.
+###### ARTÍCULO 85.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+Los Consejos Estatal y Municipales promoverán la participación de los Grupos Voluntarios debidamente organizados, para que manifiesten sus propuestas y coadyuven en la elaboración de planes, programas y políticas en la materia.
 
-###### Artículo 85.
+###### ARTÍCULO 86.
 
-La Presidenta o el Presidente de la Comisión analizará los proyectos de Propuestas de Solución, de Recomendación, los Acuerdos de no Responsabilidad y de Conclusión presentados por las o los Visitadores Generales, elaborará las observaciones que considere pertinentes y en su caso, los suscribirá.
+Los Grupos Voluntarios podrán integrarse por municipios y celebrar convenios con otros entes privados a fin de prevenir y controlar situaciones de emergencia o desastre.
 
-Los procedimientos de queja podrán terminar con un acuerdo de no responsabilidad, un acuerdo de conclusión, la emisión de una propuesta de solución debidamente aceptada y cumplida, de una recomendación o la orientación a las personas quejosas.
+###### ARTÍCULO 87.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+Los Grupos Voluntarios y demás organismos sociales afines deberán registrarse ante el Centro Estatal de Emergencias, la que remitirá a los órganos municipales correspondientes una relación de los Grupos Voluntarios inscritos. Para la procedencia del registro será necesario lo siguiente:
 
-###### Artículo 86.
+I. Copia certificada del acta constitutiva o de asamblea;
 
-La propuesta de solución y la recomendación, no tendrán carácter vinculatorio para la autoridad o la persona del servicio público a los cuales se dirija. Por lo tanto, no podrán anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se haya presentado la queja o denuncia.
+II. Relación de recursos humanos y materiales con que cuenta; y
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+III. Constancia de capacitación y especialización en la materia.
 
-En todo caso, una vez recibida la resolución respectiva, la autoridad o servidor público de que se trate deberá informar dentro de los diez días hábiles siguientes a su notificación, si acepta dicha propuesta de solución o recomendación
+Lo anterior sin perjuicio del cumplimiento de los requisitos que se señalan en otras disposiciones legales.
 
-El plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo requiera.
+###### ARTÍCULO 88.
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 2 DE JULIO DE 2018)</small>
+Corresponde a los Grupos Voluntarios constituidos conforme a esta Ley:
 
-Cuando las recomendaciones emitidas no sean aceptadas o cumplidas, se procederá conforme a lo siguiente:
+I. Coordinarse con el Centro Estatal de Emergencias o los centros Municipales, para las tareas de prevención, auxilio y recuperación en caso de emergencia o desastre;
 
-a) La autoridad o servidor público de que se trate deberá fundar, motivar y hacer pública su negativa, y atender los llamados del Congreso del Estado Libre y Soberano de Hidalgo a comparecer, a efecto de que expliquen el motivo de su negativa.
+II. Cooperar en la elaboración y difusión de los planes y programas en la materia;
 
-b) La Comisión determinará, previa consulta con el órgano legislativo referido en el inciso anterior, en su caso, si la fundamentación y motivación presentadas por la autoridad o servidor público que se hubiese negado a aceptar o cumplir las recomendaciones emitidas, son suficientes, y hará saber dicha circunstancia por escrito a la propia autoridad o servidor público y, en su caso, a sus superiores jerárquicos, para los efectos del siguiente inciso.
+III. Comunicar al Centro Estatal de Emergencias o a los centros Municipales, la presencia de cualquier situación de riesgo, con el objeto de que se verifique la información y, en su caso, se tomen las medidas correspondientes;
 
-c) Las autoridades o servidores públicos, a quienes se les hubiese notificado la insuficiencia de la fundamentación y motivación de la negativa, informarán dentro de los quince días hábiles siguientes a la notificación del escrito referido en el inciso que antecede, si persisten o no en la posición de no aceptar o no cumplir la recomendación.
+IV. Participar en programas de capacitación a la población, para que pueda autoprotegerse en caso de emergencia o desastre;
 
-d) Si persiste la negativa, la Comisión podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda a los servidores públicos señalados en la recomendación como responsables.
+V. Participar en otras actividades de igual naturaleza que les sean requeridas y que estén en capacidad de resolver; y
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+VI. Observar lo establecido en el reglamento de esta ley, las Normas Oficiales u otros ordenamientos legales aplicables.
 
-###### Artículo 87.
+###### ARTÍCULO 89.
 
-Cuando de las recomendaciones o propuestas de solución emitidas por la Comisión resulte evidente la frecuencia y reiteración de ciertas violaciones de derechos humanos o actos discriminatorios, la Comisión estará facultada para investigar de oficio el área de actuación con que se relacionen dichas recomendaciones, para efectos de formular pronunciamientos generales dirigidos a prevenir su recurrencia e instrumentar las medidas idóneas para corregir dicha situación.
+Los servicios prestados por cualquier Grupo Voluntario serán gratuitos.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+### CAPÍTULO III. DEL REGISTRO DE LAS ORGANIZACIONES CIVILES Y EMPRESAS CAPACITADORAS
 
-###### Artículo 88.
+###### ARTÍCULO 90.
 
-Las propuestas de solución, recomendaciones, los acuerdos de no responsabilidad y de conclusión, se referirán a casos concretos, por lo que las autoridades no podrán aplicarlos a otros casos por analogía o mayoría de razón.
+El registro es el instrumento jurídico obligatorio que permitirá a las empresas capacitadoras e instructores independientes, así como a las empresas de consultoría y estudio de riesgo-vulnerabilidad, elaborar Programas Internos, Externos o Especiales de Protección Civil y dar capacitación en la materia a terceros. Sin perjuicio de la autorización que deban emitir las autoridades correspondientes en materia del Trabajo y Protección Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+El registro se expedirá de acuerdo a la modalidad del servicio que se vaya a proporcionar. El reglamento de esta ley lo clasificará de acuerdo a la especialidad.
 
-###### Artículo 89.
+###### ARTÍCULO 91.
 
-Cuando las personas quejosas o las autoridades a las que se dirija una resolución consideren que algún concepto, razonamiento, hecho o cualquier aspecto de alguna resolución no es claro, les genere confusión o requieran de complementación, podrán solicitar dentro de un plazo de cinco días hábiles y de forma excepcional, que la Comisión precise el sentido y alcance de dicha resolución.
+Los Programas Internos, Externos o Especiales de Protección Civil o cursos de capacitación que sean impartidos por personas físicas o morales que no cuenten con el registro, carecerán de valor jurídico.
 
-La Comisión tendrá un plazo de diez días para pronunciarse.
+###### ARTÍCULO 92.
 
-### Capítulo XIII. De la Educación, Promoción y Difusión de los Derechos Humanos
+Las personas físicas o morales que contraten a terceros para que elaboren los cursos o programas internos deben corroborar que tengan el registro referido en el artículo 90 de esta ley.
 
-###### Artículo 90.
+###### ARTÍCULO 93.
 
-Las actuaciones de la Comisión podrán ser revisadas en los términos establecidos por la normatividad que rige a la Comisión Nacional de los Derechos Humanos.
+Los registros que expida el Centro Estatal de Emergencias tendrán vigencia de un año y podrán prorrogarse hasta por tres años más. A la conclusión de este último plazo, deberá obtenerse un nuevo registro.
 
-#### Sección Cuarta. De las Notificaciones
+La persona física o moral deberá solicitar la prórroga del registro que le hubiese sido otorgado, veinte días hábiles previos a la expiración de éste. La prórroga podrá negarse cuando existan quejas previamente comprobadas por incumplimiento a las obligaciones y restricciones previstas en el reglamento de esta ley o en la autorización respectiva, así como las deficiencias en la prestación del servicio en el que el prestador hubiese incurrido.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 94.
 
-###### Artículo 91.
+Para obtener el registro para prestar servicios de consultoría y estudios de riesgo vulnerabilidad que se señala en este capítulo se requiere:
 
-La Comisión deberá notificar inmediatamente a las personas quejosas y/o agraviadas de los resultados de la investigación, la resolución que haya dirigido a las autoridades o las o los servidores públicos de las violaciones respectivas, la aceptación y la ejecución de la misma, y en su caso, el acuerdo de no responsabilidad.
+I. Presentar la solicitud por escrito al Centro Estatal de Emergencias;
 
-Las notificaciones que se considere deban realizarse de forma personal, si el domicilio de la persona quejosa no es localizado, se encontrare cerrado o en el mismo se negaren a recibirla, quien la notifique deberá dejar el documento por debajo o pegada en la puerta, en un buzón o en algún lugar, que a criterio del notificador, quede segura, elaborando la razón actuarial respectiva.
+II. Presentar acuse de solicitud de licencia municipal para otorgar el servicio;
 
-Las personas quejosas, reclamantes o quienes las reciban en su nombre, deberán firmar las notificaciones, si no saben firmar o no quisieren hacerlo, quien notifique asentará esa circunstancia. La persona encargada de realizar la notificación, de ser posible, deberá anotar el nombre, domicilio, y los datos de identificación de la persona que le atiende.
+III. Presentar original de registro federal de contribuyentes con el giro correspondiente;
 
-###### Artículo 92.
+IV. Realizar el pago de derechos ante la autoridad hacendaria que corresponda y exhibir el original del recibo;
 
-El Presidente de la Comisión deberá publicar en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión.
+V. Proporcionar en la solicitud, en caso de personas físicas, el nombre, domicilio, edad, nacionalidad, sexo, estudios, ocupación, y demás generales del solicitante, apoderado o instructores; en caso de personas morales, nombre o razón social, domicilio, representante legal, y las demás que señale el reglamento;
 
-En casos excepcionales podrá determinar si dichos dictámenes sólo deben comunicarse a los interesados, de acuerdo con las circunstancias particulares.
+VI. Presentar en original y copia para cotejo, acta de nacimiento, credencial de elector, cédula única de registro de población, fotografía del solicitante y fotografía de las instalaciones.
 
-###### Artículo 93.
+VII. Presentar relación y documentación de los instructores, consistente en: curriculum vitae con anexo de las constancias o diplomas de los cursos recibidos y expedidos por instancias oficiales, acta de nacimiento, credencial de elector, cédula única de registro de población, y en el caso, cedula profesional; y
 
-Las autoridades o servidores públicos que ejerzan censura a las comunicaciones dirigidas a la Comisión o escuchen o interfieran las conversaciones que se establezcan con sus funcionarios, serán sujetos de las responsabilidades establecidas en las Leyes correspondientes.
+VIII. Los demás que señale el reglamento.
 
-La correspondencia dirigida a la Comisión, desde cualquier centro de reclusión, detención o custodia, Estatal o Municipal, no podrá ser objeto de censura de ningún tipo por parte de los servidores públicos de dichos centros.
+###### ARTÍCULO 95.
 
-###### Artículo 94.
+Los servidores públicos de la administración pública estatal y municipal, organismos descentralizados o desconcentrados o que formen parte del Consejo Estatal o Municipal de Protección Civil, no pueden:
 
-Todas las autoridades y servidores públicos involucrados en asuntos de la competencia de la Comisión, inclusive aquellos que no hubiesen intervenido en los actos u omisiones reclamados pero que por razón de su competencia o actividad, puedan proporcionar información pertinente, deberán cumplir de inmediato con las solicitudes de la Comisión en tal sentido.
+I. Tener el carácter de accionistas o directivos de empresas que presten servicios de consultoría, capacitación, estudios de riesgo-vulnerabilidad o cualquier otro relacionado con la protección civil y gestión de riesgos;
 
-###### Artículo 95.
+II. Prestar servicios subordinados o bajo contrato civil o mercantil a prestadores de servicios de consultoría, capacitación, estudios de riesgo-vulnerabilidad o cualquier otro relacionado con la protección civil y gestión de riesgos a personas físicas o morales; y
 
-Cuando las autoridades o servidores públicos a los que se les solicite información o documentación afirmen que tienen carácter confidencial o reservado, lo comunicarán a la Comisión y expresarán las razones para considerarla así. En ese supuesto, los Visitadores Generales tendrán la facultad de hacer la calificación definitiva sobre la reserva, y solicitar que se les proporcione la información o documentación que se manejará en la más estricta confidencialidad.
+III. Prestar servicios independientes de consultoría, capacitación, estudios de riesgo-vulnerabilidad o cualquier otro relacionados con la protección civil y gestión de riesgos.
 
-La confidencialidad de la información que reciba la Comisión deberá sujetarse a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo.
+El incumplimiento de este artículo será causa de revocación del registro que se hubiese otorgado al prestador de los servicios antes mencionados, sin perjuicio de las responsabilidades de orden penal, civil o administrativo a que hubiere lugar.
 
-###### Artículo 96.
+El Centro Estatal de Emergencias, con el objeto de tener un mayor control de las empresas prestadoras de servicios en materia de protección civil, creará y administrará la base de datos correspondiente que contendrá, como mínimo, el nombre o razón social, el representante legal, domicilio, grado académico, constancias que avalen su capacitación, relación del personal directivo y administrativo conteniendo nombre completo y domicilio, información suficiente respecto a la trayectoria laboral del personal directivo de la empresa, planes y programas de capacitación, sanciones, vigencia, cancelación o suspensión del registro y las demás que señale el reglamento de esta ley o el Centro Estatal de Emergencias.
 
-Todas las autoridades y servidores públicos, están obligados a colaborar, dentro del ámbito de su competencia, con la Comisión.
+El Centro Estatal de Emergencias hará pública en los medios de comunicación, el nombre de las empresas o personas físicas que tengan el registro para prestar servicios de consultoría y estudios de riesgo vulnerabilidad.
 
-###### Artículo 97.
+###### ARTÍCULO 96.
 
-Las autoridades o servidores públicos serán responsables penal y administrativamente por los actos y omisiones indebidos en que incurran durante y con motivo de la tramitación de quejas y denuncias ante la Comisión, según lo establecido por las disposiciones constitucionales y legales de la materia.
+Transcurrida la vigencia de la autorización, el interesado deberá abstenerse de prestar el servicio antes mencionado, hasta en tanto sea expedida nueva autorización para tal efecto.
+
+Quien sin estar autorizado preste dicho servicio será sancionado conforme lo previsto en esta ley y su reglamento, sin perjuicio de las responsabilidades de orden civil y penal a que hubiere lugar.
+
+Las sanciones a imponer serán las siguientes:
+
+I. Amonestación, con difusión pública de la misma;
+
+II. Multa de cien a quinientas veces el salario mínimo general vigente en el Estado;
+
+III. Clausura del Establecimiento sin perjuicio de las demás sanciones que correspondan;
+
+IV. Suspensión temporal del registro hasta que se corrija el incumplimiento, con difusión pública de dicha suspensión; y
+
+V. Cancelación del registro, con difusión pública de dicha cancelación. En este caso, el acuerdo correspondiente se publicará en el Periódico Oficial del Estado.
+
+Las medidas anteriormente señaladas deberán aplicarse en orden sucesivo previo procedimiento que respete las garantías de legalidad y audiencia.
+
+El reglamento de esta ley, contemplará el procedimiento para la imposición de las sanciones.
+
+###### ARTÍCULO 97.
+
+En lo no previsto por este capítulo, se aplicará de manera supletoria la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche.
 
 ## TÍTULO QUINTO. DEL REGISTRO DE APOYO A LA PROTECCIÓN CIVIL
 
-### Capítulo XIV. Del Programa de Protección a Periodistas
+### CAPÍTULO I. DEL REGISTRO DE EMPRESAS DE BIENES Y SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
 
-###### Artículo 98.
+###### ARTÍCULO 98.
 
-Cuando persistan actitudes u omisiones que impliquen conductas evasivas o de entorpecimiento por parte de los servidores públicos que deban intervenir o colaborar en las investigaciones de la Comisión, no obstante los requerimientos que ésta les hubiere formulado, la Comisión podrá rendir un informe especial al respecto.
+La base de datos del registro de empresas de bienes y servicios en materia de protección civil estará a cargo del Centro Estatal de Emergencias. Esta base de datos tiene como objeto llevar un registro o control de verificaciones realizadas por las autoridades estatales y municipales de protección civil en el ámbito de su competencia.
 
-La Comisión denunciará ante los órganos competentes los presuntos delitos o faltas que hubiesen cometido las autoridades o servidores públicos de que se trate. Lo anterior también se aplicará en el caso de los particulares.
+La base de datos contendrá todas las acciones realizadas por las empresas, como son inspecciones, verificaciones, simulacros, cursos de capacitación y cualquier otra actividad relacionada con la protección civil. Además, se anotarán las observaciones realizadas en las inspecciones o verificaciones y su cumplimiento.
 
-###### Artículo 99.
+Las autoridades municipales de protección civil tendrán la obligación de informar al Centro Estatal de Emergencias de las inspecciones y verificaciones realizadas a las empresas de bienes y servicios, así como de las observaciones realizadas.
 
-La Comisión podrá dar seguimiento a las actuaciones y diligencias que se practiquen en las averiguaciones previas, procedimientos penales o administrativos que se instruyan con motivo de su intervención.
+Las empresas de bienes y servicios tendrán la obligación de informar de las acciones en materia de protección civil que se realicen y de entregar la documentación que solicite el Centro Estatal de Emergencias para la actualización de la base de datos. La empresa que se niegue a dar información o entregar la documentación, se le aplicarán las sanciones establecidas en esta Ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+Incurrirá en responsabilidad administrativa, el servidor público estatal o municipal que no cumpla con esta disposición, independientemente de que su conducta pueda constituir un delito.
 
-### Capítulo XV. De los Programas de Atención a Grupos Prioritarios
+###### ARTÍCULO 99.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+La base de datos deberá contener lo siguiente:
 
-###### Artículo 100.
+I. Nombre o razón social;
 
-La Comisión hará del conocimiento de las autoridades competentes, los actos u omisiones en que incurran autoridades y servidores públicos, durante y con motivo de las investigaciones que realiza dicha Comisión, para efectos de la aplicación de las sanciones administrativas que deban imponerse.
+II. Domicilio;
 
-La autoridad competente informará a la Comisión sobre las medidas o sanciones disciplinarias impuestas o en su caso las razones de su negativa.
+III. Nombre, domicilio y teléfono del representante legal;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+IV. Número de licencia de funcionamiento, vigencia y giro;
 
-###### Artículo 101.
+V. En su caso, el programa interno de protección civil autorizado por la autoridad municipal;
 
-El Congreso del Estado podrá citar a comparecer a toda autoridad o servidora o servidor público, Estatal o Municipal, para que informe las razones de su actuación cuando:
+VI. Los mapas o croquis de las instalaciones;
 
-I.- No acepte total o parcialmente una recomendación o si es omiso después de haber transcurrido el término que señala este ordenamiento para informar si acepta o no dicha recomendación; y
+VII. El número de empleados;
 
-II.- No cumpla total o parcialmente con la recomendación previamente aceptada en el plazo que señala la presente Ley.
+VIII. El nombre, domicilio y teléfono del gerente o administrador;
 
-###### Artículo 102.
+IX. El número de simulacros y cursos realizados;
 
-En el caso previsto en el Artículo anterior, la Comisión, por conducto de su Presidente o del funcionario que éste designe, podrá estar presente en la reunión de trabajo en la que se desahogue la comparecencia del servidor público, y podrá intervenir en ella para argumentar sobre la no aceptación o incumplimiento de la recomendación.
+X. Los eventos, accidentes o afectaciones naturales o antropogénicos;
 
-###### Artículo 103.
+XI. Las observaciones realizadas por la autoridad de protección civil y su cumplimiento;
 
-La Comisión podrá elaborar informes específicos u observaciones de carácter general sobre alguna de las materias objeto de su competencia.
+XII. Las sanciones y los procedimientos administrativos impuestos por la autoridad de protección civil; y
 
-Dicho informe u observación general contendrá un diagnóstico sobre el estado que guarda la materia en estudio, y de ser posible emitirá una serie de recomendaciones con la finalidad de corregir la situación imperante.
+XIII. Las demás que señale el reglamento de esta Ley o el Centro Estatal de Emergencias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+### CAPÍTULO II. DEL REGISTRO DE LOS ALBERGUES Y REFUGIOS TEMPORALES
 
-###### Artículo 104.
+###### ARTÍCULO 100.
 
-La Comisión podrá emitir informes específicos cuando se acredite que en las actividades del personal de alguna dependencia del sector público estatal o municipal, se incurra en irregularidades que se consideren violatorias de Derechos Humanos o discriminatorios.
+El Centro Estatal de Emergencias es la instancia oficial que llevará el registro de los albergues y refugios temporales en la entidad.
 
-Dichos informes podrán ser emitidos cuando por cualquier acontecimiento o circunstancia no relacionada con algún expediente de queja u orientación, se detecte alguna irregularidad en la prestación de un servicio público de la administración estatal o municipal.
+###### ARTÍCULO 101.
 
-###### Artículo 105.
+El Centro Estatal con apoyo de los Centros Municipales de Emergencia podrá realizar la verificación de los inmuebles que puedan funcionar como albergues y refugios temporales.
 
-La Comisión podrá emitir observaciones de carácter general, en donde se proponga a las diversas autoridades estatales y municipales en el ámbito de su competencia, la formulación de las modificaciones a las disposiciones legislativas y reglamentarias, así como de prácticas administrativas que a juicio de la Comisión redunden en una mejor protección de los derechos humanos o el combate a la discriminación.
+###### ARTÍCULO 102.
 
-### Capítulo XVI. Del Informe de Actividades
+El Comité de Refugios Temporales y Servicios Asistenciales del Consejo Estatal de Protección Civil, en coordinación con las autoridades municipales de protección civil, serán los responsables de la administración de los albergues y refugios temporales que se encuentren en su jurisdicción.
 
-###### Artículo 106.
+El Consejo Estatal de Protección Civil podrá solicitar a las autoridades que considere competentes, el apoyo para la administración de los albergues y refugios temporales.
 
-Los informes u observaciones generales serán enviados al Congreso del Estado, a los Titulares de los Poderes Ejecutivo y Judicial, así como a la autoridad responsable, para su conocimiento.
+###### ARTÍCULO 103.
 
-Las recomendaciones contenidas en dicho documento en ningún caso serán vinculantes u obligatorias.
+El Centro Estatal de Emergencias será el responsable de supervisar que el funcionamiento de los albergues o refugios temporales que se abran en cada municipio, cumplan con los requerimientos mínimos en materia de salud, seguridad y bienestar social.
 
-###### Artículo 107.
+El Centro Estatal de Emergencias podrá solicitar el apoyo de las instancias del Consejo Estatal de Protección Civil para realizar las labores de supervisión de los albergues o refugios temporales.
 
-La Comisión está facultada para interponer demandas de acción colectiva, o sumarse a demandas de este tipo, presentadas por otros, contra cualquier forma de Discriminación o en lo relativo a los derechos que protegen el medio ambiente, el patrimonio cultural o el desarrollo urbano, conforme lo dispuesto por las leyes de la materia.
+###### ARTÍCULO 104.
 
-###### Artículo 108.
+La base de datos del registro de albergues y refugios temporales contendrá como mínimo lo siguiente:
 
-La Comisión, en materia de educación, difusión y promoción de una cultura de conocimiento y respeto a los derechos humanos y combate a la discriminación, podrá:
+I. Nombre o razón social;
 
-I.- Celebrar convenios con el Estado a través de sus dependencias y órganos referidos en esta Ley tendientes a la divulgación, promoción, conocimiento y capacitación en materia de derechos humanos y combate a la discriminación;
+II. Nombre, domicilio y teléfono del responsable del albergue o refugio temporal;
 
-II.- Firmar convenios con el Estado a través de la Secretaría de Educación Pública Estatal y Federal con la finalidad de desarrollar programas que promuevan los derechos humanos en los diversos niveles educativos;
+III. Domicilio y teléfono del inmueble;
 
-III.- Desarrollar un programa de investigación y estudios sobre derechos humanos y combate a la discriminación;
+IV. Capacidad de albergados;
 
-IV.- Formular un programa editorial, procurando editar algunas de sus publicaciones en las principales lenguas indígenas que se hablen en la Entidad;
+V. Croquis y coordenadas geográficas de la ubicación del inmueble;
 
-V.- Elaborar material audiovisual y de cualquier otro tipo para dar a conocer sus funciones y actividades;
+VI. Tipo y distribución arquitectónica del inmueble; y
 
-VI.- Organizar campañas de sensibilización en temas como el respeto e integración de grupos vulnerables y contra la Discriminación y exclusión; y
+VII. Los demás que determine el reglamento de esta Ley o el Centro Estatal de Emergencias.
 
-VII.- Las demás que establezca su Reglamento Interno.
+Las autoridades federales, estatales y municipales de protección civil tendrán la obligación de informar por escrito al Centro Estatal de Emergencias de los albergues y refugios temporales que habiliten. Incurrirá en responsabilidad administrativa el servidor público que no cumpla con este artículo, independientemente de que su conducta pueda constituir un delito.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 105.
 
-###### Artículo 109.
+El reglamento de la presente Ley establecerá la administración de los albergues y refugios temporales.
 
-En la celebración de convenios con el Estado, se atenderán principalmente, aquellas áreas vinculadas a los Derechos Humanos, como la dependencia encargada de la seguridad pública, de los Centros de Reinserción Social y la Procuraduría General de Justicia del Estado.
+### CAPÍTULO III. DEL REGISTRO DE LAS BODEGAS PARA LA PROTECCIÓN CIVIL
 
-###### Artículo 110.
+###### ARTÍCULO 106.
 
-La Comisión tendrá acceso a los medios de comunicación social del Estado, en los términos de las Leyes respectivas, con la finalidad de divulgar sus actividades y para la promoción de una cultura de respeto a los derechos humanos y combate a la discriminación.
+El Centro Estatal de Emergencias es la instancia oficial que llevará el registro de las bodegas para la protección civil en la entidad.
 
-### Capítulo XVII. De la Transparencia y la Rendición de Cuentas
+El Centro Estatal con apoyo de los Centros Municipales de Emergencia podrá realizar la verificación de los inmuebles que puedan funcionar como bodegas para la protección civil.
 
-###### Artículo 111.
+###### ARTÍCULO 107.
 
-La Comisión desarrollará un Programa encaminado a la protección de la libertad de expresión y de los derechos humanos de los profesionales que ejercen el periodismo, por considerar que dicho colectivo es especialmente vulnerable debido a la naturaleza de su labor.
+Las bodegas para la protección civil son áreas destinadas para el almacenamiento y conservación de insumos para la atención en caso de desastres, de emergencias y reconstrucción.
 
-###### Artículo 112.
+Las bodegas para la protección civil podrán clasificarse por el tipo de insumos que resguarden:
 
-La Comisión adicionalmente a los (sic) dispuesto en el artículo anterior, desarrollará los programas de atención prioritaria a grupos especialmente vulnerables en materia de Derechos Humanos y no discriminación. También podrá establecer observatorios en los que se dé seguimiento a las políticas públicas implementadas en la materia, a los criterios nacionales e internacionales de los organismos encargados de su protección, así como a los puntos de vista y criterios doctrinales que se viertan en la materia.
+I. Bodegas mixtas: que serán aquellas que podrán almacenar cualquier tipo de insumo o producto;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+II. Bodegas para alimentación: que serán aquellas que sólo podrán almacenar despensas, agua o cualquier insumo o producto relacionado con la alimentación;
 
-###### Artículo 113.
+III. Bodegas para medicamentos: que serán aquellas que sólo almacenarán insumos o productos médicos, vacunas, material de curación o relacionados con la salud;
 
-Los programas de promoción y difusión mencionados en el artículo anterior, comprenderán por lo menos los siguientes temas:
+IV. Bodegas para la reconstrucción: que serán aquellas que sólo almacenarán material para la reparación y reconstrucción de viviendas, carreteras, escuelas y en general cualquier inmueble o tipo de infraestructura; y
 
-I.- Defensores civiles de los derechos humanos y combate a la discriminación;
+V. Bodegas provisionales: que serán aquellas que se habiliten para almacenar cualquier tipo de insumo o producto.
 
-II.- Víctimas del delito;
+###### ARTÍCULO 108.
 
-III.- Niñez;
+Las bodegas para la protección civil estarán ubicadas en bienes inmuebles de la propiedad o posesión legítima del Estado o de los Municipios.
 
-IV.- Personas adultas mayores;
+El Centro Estatal o Municipal de Emergencias tendrá la facultad de habilitar bodegas provisionales en bienes inmuebles públicos o de propiedad privada, previo acuerdo que se realice por escrito.
 
-V.- Personas con discapacidad;
+No podrán habilitarse como bodegas provisionales, los inmuebles privados que pertenezcan a algún servidor público o familiar de éste, ni a persona que ostente cargo en cualquier partido político.
 
-VI.- Protección a la familia;
+El incumplimiento de este artículo hará acreedor al servidor público al procedimiento de responsabilidad administrativa, independientemente de que su conducta constituya un delito.
 
-VII.- Miembros de pueblos y comunidades indígenas;
+###### ARTÍCULO 109.
 
-VIII.- Portadores de VIH;
+La base de datos del registro de bodegas para la protección civil contendrá lo siguiente:
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+I. Nombre o razón social;
 
-IX.- Personas discriminadas por su preferencia sexual;
+II. Nombre, domicilio y teléfono del responsable de la bodega;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+III. Domicilio y teléfono del inmueble;
 
-X.- Igualdad entre mujeres y hombres;
+IV. Capacidad de almacenamiento;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+V. Croquis y coordenadas geográficas de la ubicación del inmueble;
 
-XI.- Personas Migrantes o en tránsito;
+VI. Tipo de bodega y distribución arquitectónica del inmueble; y
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+VII. Los demás que determine el reglamento de esta Ley o el Centro Estatal de Emergencias.
 
-XII.- Personas en reclusión; y
+Las autoridades estatales y municipales de protección civil tendrán la obligación de informar por escrito al Centro Estatal de Emergencias de las bodegas para la protección civil que habiliten.
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2016)</small>
+Incurrirá en responsabilidad administrativa, el servidor público que no cumpla con este artículo, independientemente de que su conducta pueda constituir un delito.
 
-XIII.- Asuntos religiosos.
+###### ARTÍCULO 110.
 
-###### Artículo 114.
+El reglamento de la presente Ley establecerá la administración de las bodegas para la protección civil.
 
-El Presidente de la Comisión rendirá anualmente un informe de actividades ante el Poder Legislativo, en el cual se incluirá un diagnóstico de la situación que guardan los derechos humanos y el combate a la discriminación en el Estado.
+### CAPÍTULO IV. DEL REGISTRO DE LOS CENTROS DE ACOPIO
 
-El informe se debe presentar dentro de los treinta días siguientes a la fecha en que se cumpla cada año de haber sido nombrado. En el último año de gestión, el Presidente deberá presentar su informe con una antelación no menor a los quince días anteriores a la fecha en que cesará en el cargo.
+###### ARTÍCULO 111.
 
-El Presidente podrá ser llamado por el Congreso, con el objeto de ampliar o dar explicaciones de las materias contenidas en su informe. Sin embargo, en ningún caso dichas comparecencias podrán dar lugar a censura o reconvención alguna hacía la labor de la Comisión.
+El Centro Estatal de Emergencias es la instancia que llevará el registro oficial de los centros de acopio que se instalen en el Estado.
 
-###### Artículo 115.
+El Comité de Donaciones y Centros de Acopio es la instancia que autorizará y habilitará los lugares donde se instalarán los Centros de Acopio. Podrá auxiliarse para su supervisión de los Sistemas Municipales para el Desarrollo Integral de la Familia.
 
-El informe anual deberá contener una breve descripción del número y características de las quejas y denuncias recibidas, los resultados del proceso de amigable composición, las investigaciones realizadas, las recomendaciones emitidas y el estado en el que se encuentran, los acuerdos de no responsabilidad, las estadísticas de desempeño institucional, y en general los resultados logrados por la Comisión.
+###### ARTÍCULO 112.
 
-Se informará también sobre cada uno de los programas que la Comisión desarrolla.
+El Centro de Acopio es el lugar físico donde se reciben, almacenan y canalizan los suministros humanitarios que la sociedad y diversas organizaciones e instituciones entregan como donativo a favor de los Agentes Afectables por situaciones de emergencia o desastre causado por Agentes Perturbadores. Los suministros podrán realizarse en especie y en efectivo.
 
-###### Artículo 116.
+###### ARTÍCULO 113.
 
-Dicho informe se le hará llegar al Titular del Poder Ejecutivo y al Titular del Poder Judicial del Estado para su conocimiento, y para que pueda ser utilizado como referencia para la mejora de los derechos humanos y el combate a la discriminación, en sus respectivos ámbitos de actuación.
+Los centros de Acopio sólo podrán activarse en el momento que se presenta una situación de emergencia en el Estado, en cualquier entidad federativa del país o en el extranjero.
 
-Para ello, el informe podrá contener propuestas dirigidas a las autoridades para expedir o modificar disposiciones legislativas, así como para el mejoramiento de las tareas administrativas.
+###### ARTÍCULO 114.
 
-###### Artículo 117.
+Los Centros de Acopio podrán ser abastecidos de la siguiente manera:
 
-El informe de actividades será difundido de la manera más amplia posible, para el conocimiento general. Dicha difusión estará a cargo de la propia Comisión.
+I. Por suministros proporcionados por la Federación, el Estado o los Municipios;
 
-###### Artículo 118.
+II. Por suministros donados por la sociedad civil;
 
-Adicionalmente, el Presidente deberá presentar un informe de forma trimestral de las actividades realizadas, ante el Consejo, conforme a lo dispuesto en el Reglamento Interno.
+III. Por instituciones y organizaciones de ayuda humanitaria, o que colaboren con el traslado de los suministros a los lugares necesarios; y
 
-### Capítulo XVIII. Del Régimen Laboral
+IV. La ayuda internacional, cuando la emergencia o desastre es de tal magnitud que sobrepasa la capacidad de la entidad o del país para enfrentar la situación.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+El Comité de Donaciones y Centros de Acopio se reserva el derecho de seleccionar y rechazar los suministros humanitarios que lleguen a sus instalaciones.
 
-###### Artículo 119.
+###### ARTÍCULO 115.
 
-El personal de la Comisión deberá dar trato confidencial a la información o documentación relativa a los asuntos de su competencia, mientras se efectúan las investigaciones relativas a las quejas o denuncias de que conozca, sin perjuicio de lo establecido por la legislación sobre transparencia y rendición de cuentas del Estado.
+Para abrir un centro de acopio y registrarlo se requiere como mínimo:
 
-###### Artículo 120.
+I. Autorización por escrito del titular del Comité de Donaciones y Centros de Acopio, donde se indique el nombre de la persona física o moral que será el responsable;
 
-Las resoluciones, conclusiones o recomendaciones de la Comisión serán públicas y podrán ser publicadas en el Periódico Oficial del Estado de Hidalgo, cuando el Presidente lo estime necesario.
+II. Señalar el lugar donde serán enviados los insumos recolectados y el fenómeno perturbador que ocasionó el estado de emergencia o desastre;
 
-###### Artículo 121.
+III. Ubicación del área destinada para funcionar como Centro de Acopio;
 
-La Comisión está sujeta a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo, y contará con una unidad administrativa encargada de dicha materia. Sin embargo, en su Reglamento podrá establecer excepciones con la única finalidad de proteger la identidad de los quejosos o en el caso de que cierta información pueda comprometer el correcto desarrollo de sus actividades.
+IV. El domicilio y teléfono del responsable del Centro de Acopio;
 
-En todo caso, las disposiciones reglamentarias relativas a la transparencia y al acceso a la información aplicables a la Comisión, deberán tener el visto bueno del Instituto de Acceso a la Información Pública Gubernamental.
+V. El tipo de Centro de Acopio que se pretende abrir;
 
-###### Artículo 122.
+VI. El horario de funcionamiento;
 
-(DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
+VII. El tiempo en que se mantendrá funcionando el Centro de Acopio; y
 
-###### Artículo 123.
+VIII. Los demás requisitos que señalen el reglamento de esta Ley o el Comité de Donaciones y Centros de Acopio.
 
-El personal que preste sus servicios en la Comisión de Derechos Humanos del Estado de Hidalgo, estará regulado por las disposiciones establecidas en el apartado B del artículo 123 de la Constitución General de la República.
+###### ARTÍCULO 116.
 
-###### Artículo 124.
+Los Centros de Acopio deberán llevar un registro de ingresos en el cual se anotarán todos los insumos entregados en donación, ya sea en especie o en efectivo, para lo cual le darán un recibo a la persona donante.
 
-Todos los servidores públicos que integran la planta de la Comisión son trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña.
+Todos los insumos recolectados en los Centro de Acopio serán entregados al Sistema Estatal para el Desarrollo Integral de la Familia, quien los enviará a los lugares donde ocurrió la emergencia o el desastre. Los responsables que no entreguen los insumos oportunamente, se harán acreedores a las sanciones administrativas correspondientes, independientemente de que su conducta origine una sanción penal.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+Para cerrar un Centro de Acopio, se dará vista al órgano estatal o municipal de control que corresponda, a efecto de verificar que los suministros o insumos que fueron donados coincidan con los que aparecen en el libro de registros, y hayan sido entregados a las instancias correspondientes de acuerdo a esta Ley y su reglamento.
+
+###### ARTÍCULO 117.
+
+Los Centros de Acopio podrán ser auditados por la Secretaría de la Contraloría para su control.
+
+Los insumos que se recolecten en ningún caso deberán ser entregados a organismos políticos.
+
+###### ARTÍCULO 118.
+
+El Comité de Donaciones y Centros de Acopio notificará al Centro Estatal de Emergencias el número de Centros de Acopio autorizados para que se inscriban en el registro correspondiente. Asimismo, notificará cuando se haya decretado el cierre de algún Centro de Acopio.
+
+La Secretaría de la Contraloría notificará al Comité de Donaciones y Centros de Acopio y al Centro Estatal de Emergencias, que el Centro de Acopio fue auditado, y en su caso hará saber sobre alguna irregularidad detectada y la sanción aplicada.
+
+### CAPÍTULO V. DE LAS DONACIONES PARA AUXILIAR A LA POBLACIÓN
+
+###### ARTÍCULO 119.
+
+El Comité de Donaciones y Centros de Acopio establecerá las bases y lineamientos, con apego a lo establecido en la presente Ley y su reglamento, para emitir las convocatorias, recepción, administración, control y distribución de los donativos que se aporten con fines altruistas para la atención de emergencias o desastres.
+
+Las personas físicas o morales que deseen colaborar con la captación de donaciones en especie, deberán obtener la autorización del Comité de Donaciones y Centros de Acopio, conforme a los requisitos y criterios que establezca esta ley y su reglamento.
+
+###### ARTÍCULO 120.
+
+El Comité de Donaciones y Centros de Acopio establecerá un mecanismo ágil, transparente y efectivo, de control y coordinación, para que los recursos donados sean administrados y entregados en beneficio de la población en caso de emergencia o desastre.
+
+###### ARTÍCULO 121.
+
+El Comité de Donaciones y Centros de Acopio podrá gestionar y, en su caso, convenir con las instancias federales, estatales, municipales o privadas, la donación en especie para que sean distribuidos a la población vulnerable así como equipo relacionado con protección civil para las autoridades encargadas de la misma.
+
+###### ARTÍCULO 122.
+
+El Comité de Donaciones y Centros de Acopio es la única instancia autorizada para recibir los donativos en efectivo de las instituciones bancarias o financieras, cuando sean destinados a la población damnificada, y serán deducibles de impuestos para quienes realizan las aportaciones, no así para las instituciones que las reciban.
+
+###### ARTÍCULO 123.
+
+El Comité de Donaciones y Centros de Acopio deberá verificar que, en todo momento, las donaciones se apliquen estrictamente para beneficiar a la población afectada por la emergencia o desastre con nivel económico y social bajo.
+
+###### ARTÍCULO 124.
+
+El Centro Estatal de Emergencias deberá llevar un registro de las donaciones recibidas, las personas físicas o morales que las entregaron, y la población vulnerable o institución que fueron beneficiadas.
+
+El reglamento de la presente Ley establecerá el procedimiento para realizar las donaciones y el registro en la base de datos.
 
 ## TITULO SEXTO. DE LA PROFESIONALIZACIÓN DE LA PROTECCIÓN CIVIL
 
-### Capítulo XIX. Del Patrimonio y del Presupuesto de la Comisión
+### CAPÍTULO I. DE LA PROFESIONALIZACIÓN
 
-###### Artículo 125.
+###### ARTÍCULO 125.
 
-Se establecerá un servicio profesional de carrera que garantice el cumplimiento de los objetivos de la Comisión, de conformidad con lo que disponga el Reglamento interno.
+La profesionalización de los integrantes del Sistema Estatal de Protección Civil será permanente y tendrá por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos mediante la institucionalización de un servicio civil de carrera cuando se trate de servidores públicos estatales y municipales.
 
-La selección del personal jurídico, técnico y administrativo se llevará a cabo por concurso público abierto, mediante los lineamientos y requisitos que establezca la convocatoria correspondiente.
+###### ARTÍCULO 126.
 
-###### Artículo 126.
+El Sistema Estatal de Protección Civil se sujetará al Reglamento en materia del servicio civil de carrera, en el que se deberá regular el ingreso, formación, permanencia, promoción, evaluación y todos aquellos aspectos que se consideren pertinentes a la profesionalización y estímulos a sus miembros, conforme a las características que le son propias, y a los requerimientos de la sociedad y del Estado.
 
-El patrimonio de la Comisión se constituye con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Estado, así como por los ingresos que reciba por cualquier concepto, derivados de la aplicación de las disposiciones de esta Ley.
+###### ARTÍCULO 127.
 
-###### Artículo 127.
+El reglamento precisará y detallará todos los rubros que atañen al servicio civil de carrera.
 
-La Comisión tendrá la facultad de elaborar el anteproyecto de Presupuesto anual de Egresos, el cual remitirá al Gobernador del Estado, para que lo considere dentro del Proyecto de Presupuesto Estatal que debe enviarse al Congreso local.
+### CAPÍTULO II. DE LA ESCUELA DE PROTECCIÓN CIVIL Y PREVENCIÓN DE DESASTRES DEL ESTADO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 128.
 
-### Capítulo XX. De la Unidad Institucional para la Igualdad entre Mujeres y Hombres
+La Escuela de Protección Civil y Prevención de Desastres del Estado es una instancia dependiente del Centro Estatal de Emergencias, orientada a la formación sistemática e institucionalizada de capital humano a través de la capacitación, actualización y especialización de materias teóricas y prácticas, además del estudio, enseñanza, investigación, divulgación y difusión de la protección civil y la gestión de riesgos.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+Para el cumplimiento de sus atribuciones, la Escuela de Protección Civil y Prevención de Desastres del Estado contará con los órganos y unidades administrativas que determinen esta ley y su reglamento.
 
-###### Artículo 128.
+###### ARTÍCULO 129.
 
-La Unidad Institucional para la Igualdad entre Mujeres y Hombres tiene por objeto el establecimiento de la perspectiva de género mediante el diseño, la implementación y evaluación de políticas públicas y lineamientos en la materia.
+La Escuela de Protección Civil y Prevención de Desastres del Estado, por concepto de impartición de estudios, cursos y talleres, podrá recibir donativos o apoyos en especie y financieros provenientes de Instituciones Públicas y Privadas, Organizaciones No Gubernamentales y particulares, que serán destinados al fortalecimiento de las actividades que desarrolla.
 
-Estará a cargo de una persona designada por la o el titular de la Presidencia de quien dependerá desde el punto de vista jerárquico y funcional.
+La Escuela de Protección Civil del Estado y Prevención de Desastres, podrá tener ingresos, por concepto de aportaciones provenientes de su alumnado, para cubrir los gastos no contemplados en el presupuesto del Centro Estatal de Emergencias, derivados de la impartición de estudios, cursos y talleres.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2016)</small>
+###### ARTÍCULO 130.
 
-###### Artículo 129.
+En los casos expresamente convenidos, los miembros del Personal Académico de la Escuela de Protección Civil y Prevención de Desastres del Estado recibirán remuneraciones por concepto de honorarios, a razón de hora de clase impartida, entendiéndose que de esta relación no se deriva vinculación laboral alguna con este Órgano Académico ni con el Centro Estatal de Emergencias.
 
-A La Unidad Institucional para la Igualdad entre Mujeres y Hombres le corresponden las siguientes funciones:
+La Secretaría de Administración del Gobierno del Estado y el Centro Estatal de Emergencias, serán las instancias responsables para determinar el pago por concepto de honorarios y de las aportaciones provenientes del alumnado.
 
-I.- Fomentar e incorporar la perspectiva de género en las actividades de la Comisión;
+###### ARTÍCULO 131.
 
-II.- Asesorar a quien presida la Comisión para formular acciones, programas o proyectos en temas afines a la igualdad real entre mujeres y hombres y la eliminación de la violencia en contra de las personas;
-
-III.- Promover, difundir y publicar la información en materia de igualdad de género;
-
-IV.- Coadyuvar en la atención de los asuntos de discriminación por razones de género en las relaciones internas de la Comisión; y
-
-V.- Las demás que se establezcan en su Reglamento y los ordenamientos legales aplicables.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2017)</small>
-
-###### Artículo 130.
-
-La Comisión contará con un Órgano Interno de Control, dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, vigilará que los recursos públicos sean administrados y ejercidos de acuerdo con las normas establecidas para tal efecto, asimismo, fomentará la rendición de cuentas en el ejercicio de sus funciones y vigilará el cumplimiento de los objetivos institucionales.
-
-El Órgano Interno de Control tendrá un titular que lo representará y contará con Unidades de Investigación, Substanciación y Resolución, cuyos titulares no recaerán en una sola persona, de igual forma contará con los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objeto.
-
-En el desempeño de su cargo, el titular del Órgano Interno de Control se sujetará a los principios previstos en la legislación en materia de Responsabilidades Administrativas.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
-
-###### Artículo 131.
-
-El Titular del Órgano Interno de Control será designado por el Congreso del Estado, conforme al procedimiento establecido en su Ley Orgánica.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+El reglamento de esta ley precisará y detallará el funcionamiento de la Escuela de Protección Civil y Prevención de Desastres del Estado.
 
 ## TÍTULO SÉPTIMO. DE LAS INSPECCIONES, MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### Capítulo XXI. Del Órgano Interno de Control
+### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+###### ARTÍCULO 132.
 
-###### Artículo 132.
+Los Órganos Municipales, serán la instancia encargada de supervisar en su jurisdicción que las dependencias municipales, federales, empresas, comercios, fabricas, industrias, unidades habitacionales, clubes sociales, deportivos y de servicios, hospitales, teatros, cines, discotecas, sanatorios, terminales y estaciones de pasajeros y de carga, mercados, plazas comerciales, centrales de abasto, gaseras, gasolineras, almacenes, bodegas, talleres que manejen o almacenen sustancias peligrosas, y los inmuebles que por su uso y destino reciban afluencia de personas o concentraciones masivas, cuenten con sus programas internos de protección civil y con las medidas de seguridad necesarias para afrontar cualquier contingencia que pudiera presentarse.
 
-El Órgano Interno de Control tendrá las siguientes atribuciones:
+El Centro Estatal de Emergencias podrá hacer inspecciones en los municipios, cuando lo estime necesario, independientemente de las que realicen los Órganos Municipales.
 
-I. Verificar que el ejercicio del gasto de la Comisión se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados, para lo cual revisará el ingreso, egreso, manejo, custodia y aplicación de recursos públicos;
+###### ARTÍCULO 133.
 
-II. Prevenir, investigar, substanciar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos y ex servidores públicos de la Comisión, y sancionar aquellas faltas administrativas que sean calificadas como no graves;
+Los propietarios, ocupantes o encargados de inmuebles u obras están obligados a permitir las inspecciones en materia de protección civil, las cuales tienen el carácter de visitas domiciliarias, así como de proporcionar toda clase de información necesaria para el cumplimiento de las mismas.
 
-III. Presentar a la Comisión los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes de la Comisión, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado;
+###### ARTÍCULO 134.
 
-IV. Revisar que las operaciones presupuestales que realice la Comisión, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+Los Inspectores de protección civil, estatales o municipales, están autorizados para levantar las actas, notificaciones y aplicar clausuras de establecimientos o decomiso de materiales en caso de violación a los ordenamientos de la presente ley o su reglamento.
 
-V. Promover ante las instancias correspondientes, las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+###### ARTÍCULO 135.
 
-VI. Investigar en el ámbito de su competencia, los hechos u omisiones que puedan implicar alguna falta administrativa, irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de la Comisión;
+El titular del Centro Estatal y de los Centros Municipales de Emergencias podrá habilitar a su personal como inspectores para realizar labores de inspección y vigilancia, los cuales tendrán fe pública.
 
-VII. Presentar ante la Fiscalía Especializada en Delitos de Corrupción, las denuncias por hechos u omisiones que pudieran ser constitutivos de delito;
+Los inspectores designados o habilitados tendrán las siguientes atribuciones:
 
-VIII. Promover ante el Tribunal de Justicia Administrativa las acciones de responsabilidad por faltas administrativas calificadas como graves;
+I. Realizar visitas de inspección a los establecimientos que menciona esta Ley y su reglamento;
 
-IX. Evaluar los informes del avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que se determine;
+II. Solicitar el apoyo policiaco en el caso de oposición de parte del propietario, administrador, encargado u ocupantes, para que se cumplan con la diligencia de inspección o clausura por violación a la presente Ley y su reglamento; y
 
-X. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de la Comisión, empleando la metodología que se determine;
+III. Las demás que otorgue la presente Ley y su reglamento.
 
-XI. Recibir y substanciar directamente, las quejas o denuncias por hechos u omisiones en materia de responsabilidades administrativas, conforme a las leyes aplicables;
+###### ARTÍCULO 136.
 
-XII. Requerir información y efectuar visitas y auditorías a las áreas y órganos de la Comisión para el cumplimento de sus funciones;
+Si con motivo de la inspección se tuviese conocimiento de hechos, actos u omisiones que pudieran constituir violaciones a otros ordenamientos legales se deberá informar a las autoridades competentes.
 
-XIII. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en términos de la legislación en materia de Adquisiciones, Arrendamientos y Servicios del Sector Público; de Obras Públicas y Servicios Relacionados con las mismas, y sus Reglamentos;
+###### ARTÍCULO 137.
 
-XIV. Intervenir en los actos de entrega-recepción de los servidores públicos de la Comisión, en los términos de la normativa aplicable;
+Para realizar las inspecciones y verificaciones por las autoridades estatales y municipales de protección civil, se sujetarán al siguiente procedimiento:
 
-XV. Participar, conforme a las disposiciones vigentes, en los comités y subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+I. El inspector deberá contar con una orden por escrito expedida por el titular del Centro, que contendrá la fecha y ubicación del inmueble por inspeccionar, objeto y aspectos de la inspección, el fundamento legal de la misma, y el nombre del inspector.
 
-XVI. Atender las solicitudes de los diferentes órganos de la Comisión en los asuntos de su competencia;
+II. El inspector deberá identificarse ante el propietario, arrendatario, poseedor, administrador, representante legal o encargado del inmueble a inspeccionar, con la credencial vigente que para tal efecto expidan el Centro Estatal o Municipal de Emergencias, entregando copia legible de la orden de inspección, asentándose en todo caso la calidad, personalidad o carácter de quienes intervienen en la diligencia.
 
-XVII. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal y/o de recursos;
+Cuando las personas con quienes deba realizarse la diligencia de inspección no se encontraren, se les dejará citatorio para que estén presentes a una hora determinada del día señalado por la autoridad, apercibiéndolas que, de no encontrarse en el lugar señalado en el citatorio, se entenderá la misma con quien se encuentre presente.
 
-XVIII. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
+III. Los inspectores practicarán la visita cuando los inmuebles estén funcionando, independientemente de si es día hábil o inhábil.
 
-XIX. Presentar a la Comisión los informes semestral y anual de resultados de su gestión, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado, y comparecer ante la Comisión, cuando así lo requiera el Presidente;
+IV. Al inicio de la visita de inspección o verificación, el inspector deberá requerir al visitado para que designe a dos personas que funjan como testigos del desarrollo de la diligencia, advirtiéndole que en caso de no hacerlo, estos serán propuestos y nombrados por el propio inspector.
 
-XX. Presentar a la Comisión los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
+V. De toda la visita, se levantará acta circunstanciada por triplicado, en formas numeradas y foliadas, en las que se expresara: lugar, hora, fecha y nombre de la persona con quien se entienda la diligencia, de los testigos de asistencia propuestos por esta o nombrados por el inspector, en el caso de la fracción anterior. Si alguna de las personas que intervinieron en la diligencia se niega a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia altere el valor probatorio del documento.
 
-XXI. Ordenar y practicar de oficio, a partir de la denuncia o derivado de las auditorías realizadas, las investigaciones por presuntas faltas administrativas;
+VI. El inspector comunicará al visitado si existen omisiones o contravenciones en el cumplimiento de cualquier obligación a su cargo, especificando en todo caso en que consiste esta última, y cuál es la normatividad o regla técnica que la contiene, haciendo constar en el acta que cuenta con cinco días hábiles para manifestar su inconformidad por escrito ante la autoridad que haya ordenado la inspección, para exhibir las pruebas y alegatos que a su derecho convengan.
 
-XXII. Dictar los acuerdos y resoluciones que correspondan en términos de la legislación en materia de Responsabilidades Administrativas; y
-
-XXIII. Las que le señalen la legislación en materia de responsabilidades administrativas y demás atribuciones que le confieran otros ordenamientos.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
-
-###### Artículo 133.
-
-El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
-
-I. Ser ciudadano o ciudadana hidalguense en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos al día de la designación;
-
-II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
-
-III. Contar al momento de su designación con una experiencia de al menos tres años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
-
-IV. Contar al día de su designación, con título profesional con una antigüedad mínima de cinco años, relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
-
-V. Contar con reconocida solvencia moral;
-
-VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Comisión o haber fungido como consultor o auditor externo de la Comisión, en lo individual durante ese periodo;
-
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
-
-VIII. No haber sido Gobernador, Titular de alguna Dependencia Estatal, Procurador General de Justicia del Estado, Diputado Local o Presidente Municipal, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
-
-###### Artículo 134.
-
-La persona titular del Órgano Interno de Control durará en su encargo cuatro años y podrá ser designada por un solo periodo inmediato posterior al que se haya desempeñado, previa postulación y cumpliendo con los requisitos previstos en esta Ley y el procedimiento establecido en la Ley Orgánica del Poder Legislativo.
-
-Tendrá un nivel jerárquico igual al de Director General o su equivalente en la estructura orgánica de la Comisión, y mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado.
-
-El titular del Órgano Interno de Control rendirá un informe semestral y anual de actividades a la Comisión, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado, para los efectos correspondientes.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
-
-###### Artículo 135.
-
-El titular del Órgano Interno de Control de la Comisión será sujeto de responsabilidad administrativa y sancionado de conformidad con el procedimiento en términos de la legislación en materia de Responsabilidades Administrativas.
-
-Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control de la Comisión, serán sancionados por el titular del Órgano Interno de Control, o el servidor público en quien delegue la facultad, en términos de la legislación en materia de Responsabilidades Administrativas.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
-
-###### Artículo 136.
-
-El Órgano Interno de Control, inscribirá y mantendrá actualizada la información correspondiente de la evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de los servidores públicos de la Comisión, de conformidad con la Ley en materia de Anticorrupción, la legislación en materia de Responsabilidades Administrativas, así como la Ley en materia de Transparencia.
-
-El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro cargo, empleo, trabajo o comisión públicos o privados, con excepción de los de docencia.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
-
-###### Artículo 137.
-
-Los servidores públicos de la Comisión coadyuvarán con el titular del Órgano Interno de Control en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes de la Comisión y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones administrativas.
-
-T R A N S I T O R I O S
-
-Artículo Primero.- El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
-
-Artículo Segundo.- El Presidente y los integrantes del Consejo que están actualmente en funciones cumplirán su encargo durante todo el plazo para el que fueron nombrados, en los términos dispuestos por la anterior Ley Orgánica de la Comisión de Derechos Humanos del Estado de Hidalgo.
-
-Artículo Tercero.- Se abroga la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Hidalgo publicada en el Periódico Oficial del Estado, del 20 de julio de 1992.
-
-Artículo Cuarto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
-
-Artículo Quinto.- La Comisión Estatal de Derechos Humanos, deberá emitir el Reglamento de la Presente Ley a más tardar en un plazo de 180 días posteriores a (sic) Publicación de la entrada en vigor, del presente Decreto.
-
-AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCION POLÍTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS DIECISIETE DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL ONCE.
-
-PRESIDENTE
-
-DIP. ARTURO APARICIO BARRIOS.
-
-SECRETARIO
-
-DIP. JULIÁN MEZA ROMERO.
-
-SECRETARIO
-
-DIP. CHRISTIAN PULIDO ROLDÁN.
-
-EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
-
-DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTICUATRO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL ONCE.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
-
-LIC. JOSÉ FRANCISCO OLVERA RUIZ
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 22 DE OCTUBRE DE 2012.
+VII. Uno de los ejemplares elegibles del acta quedará en poder de la persona con quien se entendió la diligencia.
 
 ###### ARTÍCULO 138.
 
@@ -1703,33 +1977,23 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veintinueve días del mes de septiembre del año dos mil once.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 690 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO".]
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+P.O. 14 DE JUNIO DE 2018.
 
-SEGUNDO. Se deroga cualquier disposición que se oponga al contenido del presente Decreto.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 269 POR EL QUE “SE REFORMAN LAS FRACCIONES III, XVII, XVIII Y SE ADICIONAN LAS FRACCIONES XIX Y XX AL ARTÍCULO 14 DE LA LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE”.]
 
-P.O. 9 DE OCTUBRE DE 2017.
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 228 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS HUMANOS, DEL CÓDIGO ELECTORAL, DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA, TODAS DEL ESTADO DE HIDALGO”.]
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 12 DE JULIO DE 2022.
 
-SEGUNDO. El Congreso del Estado, iniciará los procesos de designación de los titulares de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 92 POR EL QUE “SE REFORMAN LAS FRACCIONES XIX Y XX Y SE ADICIONA UNA FRACCIÓN XXI AL ARTÍCULO 14 DE LA LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE”.]
 
-Los actuales titulares o responsables de las Contralorías o de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto podrán participar en el proceso de designación, siempre y cuando cumplan con los requisitos de elegibilidad previstos en este Decreto.
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-TERCERO. Cada Organismo Autónomo que se mencionan en el presente Decreto, tendrán un plazo de hasta 90 días, a partir de la publicación del presente Decreto, para armonizar su normatividad interna en los términos del presente Decreto.
-
-CUARTO. Cada Organismo Autónomo que se mencionan en el presente Decreto, a partir del ejercicio fiscal del 2018, destinará en su Presupuesto de Egresos, una partida específica que garantice los recursos necesarios para el cumplimiento de los objetivos de su Órgano Interno de Control.
-
-QUINTO. En caso de existir recursos humanos, financieros y materiales asignados a las Contralorías u Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, se entenderán asignados a los Órganos Internos de Control a que se refiere el presente Decreto.
-
-SEXTO. Los procedimientos administrativos iniciados por las autoridades correspondientes con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
-
-SÉPTIMO. Los actuales titulares o responsables de los Órganos Internos de Control de los Organismos Autónomos que se mencionan en el presente Decreto, continuarán como titulares o responsables hasta en tanto el Congreso del Estado realice las designaciones de los nuevos titulares, una vez hecho lo anterior, se deberá realizar la entrega recepción atendiendo al procedimiento establecido en la legislación aplicable.
-
-P.O. 2 DE JULIO DE 2018.
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 452.- QUE ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 86 DE LA LEY DE DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO".]
 
@@ -1742,9 +2006,3 @@ P.O. 1 DE ABRIL DE 2019.
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 P.O. 15 DE ABRIL DE 2019.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 179 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
