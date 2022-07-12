@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-uniformes-divisas-y-distintivos-para-la-102832"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-16"
-last_updated: "2014-10-16"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102832&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-10-13"
 
 REGLAMENTO DE UNIFORMES, DIVISAS Y DISTINTIVOS PARA LA ARMADA DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 16 de octubre de 2014.
 
@@ -61,9 +61,11 @@ La Secretaría de Marina proporcionará, de acuerdo a su presupuesto autorizado,
 
 Al personal que se encuentre dentro de las categorías de Almirantes, Capitanes y Oficiales no previstos en el párrafo anterior, se ministrarán los Uniformes en la proporción que lo permita dicho presupuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JULIO DE 2022)</small>
+
 ###### Artículo 4.
 
-Los Mandos a que se refiere el artículo 9 de la Ley Orgánica de la Armada de México, tendrán las siguientes obligaciones:
+Los mandos navales tendrán las obligaciones siguientes:
 
 I. Gestionar oportunamente la ministración de los Uniformes, Condecoraciones, Divisas y Distintivos para el personal adscrito a las unidades y establecimientos bajo su mando, de acuerdo a lo dispuesto en las directivas que emita la Oficialía Mayor de la Secretaría de Marina para tal efecto;
 
@@ -71,7 +73,9 @@ II. Supervisar que la presentación y uso de los Uniformes, Condecoraciones, Div
 
 III. Designar el Uniforme que el personal a su mando deberá usar en ceremonias y en cualquier otro acto del servicio, de acuerdo con la seguridad y condiciones meteorológicas imperantes, y
 
-IV. Supervisar que en los cambios de adscripción del personal de Clases y Marinería, éste lleve consigo los Uniformes que se le hayan ministrado.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+IV. Supervisar que, en los cambios de adscripción del personal naval, éste lleve consigo los Uniformes que se le hayan ministrado.
 
 ###### Artículo 5.
 
@@ -85,15 +89,19 @@ III. Mantener en buenas condiciones de presentación y limpieza sus Uniformes, d
 
 IV. Llevar consigo los Uniformes que se le hayan ministrado, cuando sea cambiado de adscripción, y
 
-V. Portar el Uniforme con distinción, así como observar lo dispuesto en los artículos 36, fracciones III y IV y 37, fracciones IX, X y XI de la Ley de Disciplina para el Personal de la Armada de México; 35, fracciones I, II, V, VIII y IX; 96, 108 y 148, fracciones III y IV del Reglamento General de Deberes Navales, el presente Reglamento, el Manual y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+V. Portar el Uniforme con marcialidad y distinción, como lo dispone la Ley de Disciplina para el Personal de la Armada de México, el presente Reglamento, el Reglamento General de Deberes Navales, el Manual y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 6.
 
 El personal naval que se encuentre en un país extranjero y requiera presentarse uniformado, portará el uniforme equivalente al que estén usando las fuerzas armadas del país anfitrión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JULIO DE 2022)</small>
+
 ###### Artículo 7.
 
-La clasificación e integración de los Uniformes, Divisas y Distintivos será conforme al presente Reglamento. Las características específicas, diseños gráficos, materiales e insumos para la elaboración y demás especificaciones para el uso de éstos se establecerán en el Manual que emita el Secretario de Marina.
+La clasificación e integración de los Uniformes, Divisas y Distintivos será conforme al presente Reglamento. Las características específicas, diseños gráficos, materiales e insumos para la elaboración y demás especificaciones para el uso de éstos se establecerán en el Manual que emita la persona titular de la Secretaría de Marina.
 
 La clasificación, características y demás especificaciones de las Condecoraciones, se regirán conforme a lo establecido en la Ley de Recompensas de la Armada de México, este Reglamento, el Manual y demás disposiciones jurídicas aplicables.
 
@@ -105,15 +113,19 @@ El personal naval que por sentencia dictada por tribunal competente sea destitui
 
 El personal naval tiene prohibido vender, cambiar, sustituir, empeñar u obsequiar los Uniformes, Divisas, Distintivos y Condecoraciones que se le hayan entregado.
 
-En caso de baja definitiva del servicio activo de la Armada de México, el personal naval de Clases y Marinería devolverá al Mando al que se encontraba adscrito los Uniformes y Divisas que se le hayan ministrado.
+> <small>(REFORMADO, D.O.F. 12 DE JULIO DE 2022)</small>
+
+En caso de baja definitiva del servicio activo de la Armada de México, el personal naval devolverá al Mando al que se encontraba adscrito los Uniformes y Divisas que se le hayan ministrado.
 
 ###### Artículo 10.
 
 El personal naval en situación de retiro o haciendo uso de licencia ilimitada, se sujetará además de lo establecido en el presente Reglamento, a lo dispuesto en el Reglamento General de Deberes Navales.
 
+> <small>(REFORMADO, D.O.F. 12 DE JULIO DE 2022)</small>
+
 ###### Artículo 11.
 
-El personal naval al hacer uso de su franquicia, podrá utilizar los Uniformes correspondientes de acuerdo con la Ley de Disciplina para el Personal de la Armada de México, el Reglamento General de Deberes Navales, el presente Reglamento, el Manual y las disposiciones del mando.
+El personal naval, al hacer uso de su franquicia, podrá portar los Uniformes, Divisas y equipo correspondientes conforme a lo establecido en la Ley de Disciplina para el Personal de la Armada de México, este Reglamento, el Manual y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 12.
 
@@ -175,11 +187,19 @@ V. Número CINCO: overol azul marino;
 
 VI. Número SEIS: overol verde de vuelo;
 
-VII. Número SIETE: campaña para selva;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
 
-VIII. Número OCHO: campaña para desierto, y
+VII. Número SIETE: campaña administrativo;
 
-IX. Número NUEVE: camarero.
+VIII. (DEROGADA, D.O.F. 12 DE JULIO DE 2022)
+
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+IX. Número NUEVE: camarero, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+X. Número DIEZ: táctico para unidades de superficie.
 
 Los Uniformes ordinarios a que se refiere el párrafo anterior se usarán conforme a lo dispuesto en el Manual.
 
@@ -221,13 +241,15 @@ III. Número TRES: bata clínica;
 
 IV. Número CUATRO: clínico;
 
-V. Número CINCO: quirófano;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
 
-VI. Número SEIS: afanador;
+V. Número CINCO: quirúrgico;
 
-VII. Número SIETE: camillero;
+VI. (DEROGADA, D.O.F. 12 DE JULIO DE 2022)
 
-VIII. Número OCHO: encamados;
+VII. (DEROGADA, D.O.F. 12 DE JULIO DE 2022)
+
+VIII. (DEROGADA, D.O.F. 12 DE JULIO DE 2022)
 
 IX. Número NUEVE: docentes en el Centro de Desarrollo Infantil Naval;
 
@@ -239,9 +261,47 @@ XII. Número DOCE: trabajos submarinos;
 
 XIII. Número TRECE: nadador de rescate;
 
-XIV. Número CATORCE: campaña táctico, y
+XIV. (DEROGADA, D.O.F. 12 DE JULIO DE 2022)
 
-XV. Número QUINCE: búsqueda y rescate.
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XV. Número QUINCE: búsqueda y rescate;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XVI. Número DIECISÉIS: campaña táctico de francotirador;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XVII. Número DIECISIETE: campaña táctico de contraterrorismo;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XVIII. Número DIECIOCHO: campaña táctico de infiltración aérea;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XIX. Número DIECINUEVE: campaña táctico de infiltración acuática;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XX. Número VEINTE: de proximidad;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXI. Número VEINTIUNO: overol de respuesta inmediata para plan marina;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXII. Número VEINTIDÓS: overol de trabajo con reflejantes;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXIII. Número VEINTITRÉS: administrativo para capacitación y academias, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXIV. Número VEINTICUATRO: Overol Breck #14.
 
 Los Uniformes especiales a que se refiere el párrafo anterior se usarán conforme a lo dispuesto en el Manual.
 
@@ -319,7 +379,9 @@ El vestuario complementario del Uniforme se usará dependiendo de las actividade
 
 I. Abrigo;
 
-II. Botas militares negras o color arena mojada;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+II. Botas;
 
 III. Chamarra negra tipo sport;
 
@@ -335,7 +397,9 @@ VIII. Gabardina;
 
 IX. Guantes;
 
-X. Impermeable;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+X. Impermeables;
 
 XI. Ropa de agua;
 
@@ -351,7 +415,7 @@ XVI. Pañolón;
 
 XVII. Calcetines y calcetas;
 
-XVIII. Guantes;
+XVIII. (DEROGADA, D.O.F. 12 DE JULIO DE 2022)
 
 XIX. Cinturón;
 
@@ -363,7 +427,9 @@ XXII. Palas;
 
 XXIII. Botonadura;
 
-XXIV. Coipas, y
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXIV. Coipas;
 
 XXV. Gorras y tocados:
 
@@ -373,7 +439,9 @@ b) Birrete de mal tiempo;
 
 c) Boina negra;
 
-d) Casco balístico negro con forro de camuflaje de selva o desierto;
+> <small>(REFORMADO, D.O.F. 12 DE JULIO DE 2022)</small>
+
+d) Casco balístico;
 
 e) Casco de vuelo;
 
@@ -387,17 +455,33 @@ i) Cuartelera blanca;
 
 j) Cuartelera caqui;
 
-k) Gorra de campaña camuflaje de selva o desierto;
+> <small>(REFORMADO, D.O.F. 12 DE JULIO DE 2022)</small>
+
+k) Gorra de campaña camuflaje;
 
 l) Gorra para personal masculino con funda blanca o caqui;
 
 m) Gorra negra de servicio tipo beisbolera;
 
-n) Sombrero de camuflaje de selva o desierto;
+n) (DEROGADO, D.O.F. 12 DE JULIO DE 2022)
 
 o) Tocado femenino con funda blanca o caqui, y
 
-p) La funda para protección de los tocados reglamentarios tanto masculino como femenino.
+> <small>(REFORMADO, D.O.F. 12 DE JULIO DE 2022)</small>
+
+p) La funda para protección de los tocados reglamentarios tanto masculino como femenino;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXVI. Chaleco ligero camuflaje;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXVII. Chaleco reflejante, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXVIII. Chaleco del Sistema de Comando de Incidentes.
 
 ###### Artículo 34.
 
@@ -431,7 +515,9 @@ XIII. Fornitura con pistolera;
 
 XIV. Fornitura para fusil;
 
-XV. Lentes para sol;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XV. Lentes de protección solar;
 
 XVI. Lentes negros para agua;
 
@@ -449,7 +535,9 @@ XXII. Sable;
 
 XXIII. Arneses;
 
-XXIV. Balaclava negra;
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXIV. Balaclava negra o camuflaje;
 
 XXV. Bolso de mano;
 
@@ -461,9 +549,33 @@ XXVIII. Equipo de banda de guerra, compuesto, entre otros, de tambor, clarín, v
 
 XXIX. Gafetes;
 
-XXX. Placas metálicas de identificación, y
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
 
-XXXI. Rabiza.
+XXX. Placas metálicas de identificación;
+
+> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXXI. Rabiza;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXXII. Traje antibombas EOD;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXXIII. Traje de desminado;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXXIV. Traje Nivel A y accesorios;
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXXV. Traje Nivel B y accesorios, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2022)</small>
+
+XXXVI. Traje Nivel C y accesorios.
 
 ## TRANSITORIOS
 
@@ -476,3 +588,15 @@ TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del pr
 CUARTO. La Secretaría de Marina emitirá el Manual de Uniformes, Divisas, Condecoraciones y Distintivos para la Armada de México en un plazo de ciento ochenta días contando a partir de la entrada en vigor del presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de octubre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Marina, Vidal Francisco Soberón Sanz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE UNIFORMES, DIVISAS Y DISTINTIVOS PARA LA ARMADA DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación correspondiente, por lo que no se requerirá de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
