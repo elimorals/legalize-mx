@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2020-04-07"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -1491,7 +1491,19 @@ Las funciones de proximidad tienen por objeto la posibilidad de habilitar mecani
 
 f) Las demás que se constituyan conforme a la legislación en la materia.
 
-II. La Policía Auxiliar, tendrá por objeto prestar el servicio de seguridad a empresas o particulares que lo requieran, siendo una función a cargo de la Secretaría, la Policía Auxiliar será un organismo público descentralizado sectorizado a la Secretaría, que se integrará con la estructura y funciones que se señalen en la normatividad vigente.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2022)</small>
+
+II. La Policía Auxiliar será un organismo público descentralizado sectorizado a la Secretaría, es una policía que auxiliará a la función de Seguridad Pública de forma complementaria y tendrá por objeto prestar servicios especializados de custodia, vigilancia, traslado, guardia y seguridad de personas, bienes, valores e inmuebles, a dependencias, entidades y órganos de los poderes Ejecutivo, Legislativo y Judicial; así como a instituciones públicas y privadas, órganos autónomos federales y locales; y, a todas aquellas personas físicas y morales que requieran de sus servicios.
+
+La prestación de servicios se proporcionará mediante la contratación de elementos de la corporación, mismos que deberán estar debidamente capacitados y certificados en el rubro contratado, recibiendo el pago de una contraprestación, digna y acorde a la prestación del servicio que realizan; quienes además gozarán de los derechos y prestaciones que les sean aplicables dentro de lo establecido en los artículos 123 y 139 de la presente Ley.
+
+Las personas morales que por el desempeño de su actividad sean susceptibles de riesgo ante actos delincuenciales, tales como empresas, corporativos, instituciones bancarias y financieras, comercios, instituciones públicas y privadas, casinos y empresas de valores, deberán contratar los servicios de elementos de seguridad de la Policía Auxiliar, mediante el pago de contraprestaciones, a efecto de contar con los servicios de custodia, vigilancia, guardia y seguridad.
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2022)</small>
+
+III. Las kuarichas, rondas y rondines comunales, o sus equivalentes de acuerdo a los sistemas normativos internos de los pueblos y comunidades indígenas, serán consideradas como cuerpos de seguridad comunal de aquellas comunidades indígenas que, de conformidad con la Ley Orgánica Municipal del Estado de Michoacán de Ocampo y demás normativa aplicable, hayan determinado su autogobierno, ejerzan su presupuesto directo y hayan sido reconocidas con ese carácter por las autoridades competentes.
+
+Para efectos de lo anterior, y atendiendo al principio de interculturalidad, la relación y colaboración que se establezca entre los cuerpos de seguridad pública y los de seguridad comunal se regirán en el marco del respeto a los derechos de autonomía y autogobierno que tienen las comunidades indígenas.
 
 ###### Artículo 105.
 
@@ -2352,3 +2364,15 @@ En cualquier caso, el cumplimiento de la obligación de suministrar y actualizar
 Esta disposición no exime de la obligación de las autoridades estatales y municipales de suministrar en todo momento la información sobre las detenciones realizadas ajustándose a los requisitos que marca la normativa vigente previo a la presente reforma, y las cuales serán aplicables hasta en tanto se hayan realizado los ajustes necesarios a los formatos de captura de la información sobre detenciones.
 
 CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva.
+
+P.O. 12 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 185. SE REFORMA LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 104 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en lo referente a la fracción II del artículo 104, de policía auxiliar; y por lo que respecta a la fracción III del citado artículo, su entrada en vigor será una vez que sea publicado en el Periódico Oficial del Gobierno Constitucional del Estado, el reglamento de las kuarichas, rondas o rondines comunales. Quienes deberán integrarse a la Secretaría de Seguridad Pública del Estado para efectos de coordinación, certificación y capacitación, debiendo cumplir con todos los requisitos aplicables a los entes sujetos de responsabilidades en materia de seguridad pública conforme a lo que dispone la Ley del Sistema Nacional de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública. Las kuarichas, rondas y rondines comunales, solo podrán realizar funciones de policía si cumplen con los requisitos que establece la Ley del Sistema Nacional de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública, asimismo, podrán ser cesados o sancionados en términos de las leyes referidas.
+
+SEGUNDO. La Secretaría de Seguridad Pública, el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y el Centro Estatal de Certificación, Acreditación y Control de Confianza, en un plazo de sesenta días hábiles, deberán realizar las adecuaciones reglamentarias y administrativas necesarias para el cumplimiento del presente Decreto.
+
+TERCERO. Todas aquellas autoridades estatales en materia de Seguridad Pública, dentro de su ámbito de competencia, deberán armonizar las disposiciones reglamentarias y administrativas que se opongan al presente Decreto, en un plazo de sesenta días hábiles.
+
+CUARTO. Notifíquese a la Fiscalía General del Estado de Michoacán de Ocampo para su conocimiento.
