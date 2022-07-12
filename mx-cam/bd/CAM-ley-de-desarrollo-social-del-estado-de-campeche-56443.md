@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-social-del-estado-de-campeche-56443"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2022-06-24"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 10 de julio de 2007.
 
@@ -256,6 +256,10 @@ VIII. Libre determinación y autonomía de los pueblos indígenas y sus comunida
 IX. Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia. Las autoridades del país garantizaran que la información gubernamental sea objetiva, oportuna, sistemática y veraz;
 
 X. Universalidad: la (sic) política de desarrollo social esta destinada para todos los habitantes del estado y tiene como propósito el acceso al ejercicio de los derechos sociales y a una creciente calidad de vida para la sociedad;
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2022)</small>
+
+X Bis. Perspectiva de género: Una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que plantea la equidad de género en el diseño y ejecución de las políticas públicas de desarrollo social, buscando generar condiciones de igualdad y oportunidades en lo laboral, económico, social, político y en cualquier otro ámbito de desarrollo.
 
 XI. Igualdad: constituye (sic) el objetivo principal del desarrollo social y se expresa en la mejora continua de la distribución de la riqueza, el ingreso y la propiedad, en el acceso a bienes y servicios públicos y el abatimiento de las grandes diferencias entre personas, familias, grupos sociales, comunidades;
 
@@ -1094,3 +1098,11 @@ P.O. 24 DE JUNIO DE 2022.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 12 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 94 QUE “ADICIONA UNA FRACCIÓN X BIS AL ARTÍCULO 13 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
