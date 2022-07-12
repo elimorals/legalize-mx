@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-civil-prevencion-y-atencion-de-desastres-8403
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-18"
-last_updated: "2018-06-14"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 18 de Noviembre de 2011.
 
@@ -341,13 +341,17 @@ XVII. Solicitar el apoyo a las autoridades federales competentes, para brindar u
 
 XVIII. Establecer un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en los dos órdenes de gobierno
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2022)</small>
 
-XIX. Dar atención prioritaria a la población vulnerable; y
+XIX. Dar atención prioritaria a la población vulnerable;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JULIO DE 2022)</small>
 
-XX. Las demás que expresamente le señalen esta ley y otros ordenamientos legales aplicables, así como los reglamentos que de ellas deriven
+XX. Realizar actos de coordinación, en sus programas de Protección Civil, con los distintos órdenes de Gobierno para elaborar y actualizar los protocolos de actuación, términos de referencia o normatividad, para la atención de niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores en situaciones de emergencia, desastre o disturbio que se presenten en el Estado; y
+
+> <small>(ADICIONADA [REFORMADA Y REUBICADA ANTES FRACCIÓN XX], P.O. 12 DE JULIO DE 2022)</small>
+
+XXI. Las demás que expresamente le señalen esta ley y otros ordenamientos legales aplicables, así como los reglamentos que de ellas deriven.
 
 ###### ARTÍCULO 15.
 
@@ -1982,3 +1986,11 @@ P.O. 14 DE JUNIO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 12 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 92 POR EL QUE “SE REFORMAN LAS FRACCIONES XIX Y XX Y SE ADICIONA UNA FRACCIÓN XXI AL ARTÍCULO 14 DE LA LEY DE PROTECCIÓN CIVIL, PREVENCIÓN Y ATENCIÓN DE DESASTRES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
