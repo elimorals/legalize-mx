@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-07-01"
+last_updated: "2022-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -307,7 +307,13 @@ Los entes públicos, estatales y municipales, en el ámbito de su competencia, l
 
 I. Garantizar la igualdad de acceso al sistema judicial, proporcionando la ayuda necesaria de acuerdo a sus características específicas, a los grupos y personas en situación de discriminación, y
 
-II. Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica gratuita; intérpretes y traductores a todas las personas que lo requieran, velando por los derechos de los grupos en situación de discriminación, en los procedimientos judiciales o administrativos en que sea procedente.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2022)</small>
+
+II. Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica gratuita; intérpretes y traductores a todas las personas que lo requieran, velando por los derechos de los grupos en situación de discriminación, en los procedimientos judiciales o administrativos en que sea procedente; y
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2022)</small>
+
+III. Proporcionar capacitación en materia de perspectiva de género, al personal de procuración de justicia, seguridad pública, salud y demás personas que atiendan a víctimas de violencia familiar, hostigamiento, acoso o abuso sexual, violación, estupro, incesto o cualquiera otra forma de violencia.
 
 ###### Artículo 20.
 
@@ -634,3 +640,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente después de su
 SEGUNDO.- Para los efectos que se deriven de este decreto, los entes públicos estatales y municipales adoptarán las medidas necesarias para su aplicación, procurando que éstas se realicen con sus previsiones presupuestales asignadas.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 12 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 96 POR EL QUE “SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 19 DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
