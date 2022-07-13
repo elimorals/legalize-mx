@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2022-06-30"
+last_updated: "2022-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -425,9 +425,9 @@ V. Remoción.
 
 Concepto y duración.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2022)</small>
 
-La prisión consiste en la privación de la libertad personal. Su duración no será menor de seis meses ni mayor de cincuenta años:
+La prisión consiste en la privación de la libertad personal. Su duración no será menor de seis meses ni mayor de sesenta años.
 
 En toda pena de prisión que se imponga se computará el tiempo de la detención.
 
@@ -4418,3 +4418,11 @@ P.O. 30 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 POR EL QUE "SE ADICIONA UN SEGUNDO Y UN TERCER PÁRRAFO AL ARTÍCULO 311 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 13 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 156 POR EL QUE “SE REFORMA EL ARTÍCULO 31 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
