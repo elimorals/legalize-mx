@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2022-06-13"
+last_updated: "2022-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -121,7 +121,9 @@ La Comisión de Gobierno podrá autorizar la celebración y desahogo de sesiones
 
 El recinto oficial será inviolable, toda fuerza pública estará impedida para tener acceso al mismo, salvo autorización previa del Presidente del Congreso; la Comisión de Gobierno a través de su presidente, o por acuerdo de la mayoría de los diputados que integran la Asamblea, la que invariablemente actuará bajo el mando de quien presida el Organo de Gobierno que hubiese emitido la autorización respectiva.
 
-Se podrá requerir el auxilio de la fuerza pública, para salvaguardar el fuero constitucional o inmunidad procesal de los diputados y la inviolabilidad del recinto legislativo.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2022)</small>
+
+Se podrá requerir el auxilio de la fuerza pública para garantizar la inviolabilidad del recinto legislativo.
 
 Ninguna autoridad judicial o administrativa podrá dictar mandamiento que afecte el patrimonio y los bienes del Congreso, ni ejercitar acto alguno sobre las personas o bienes de los diputados en el interior del recinto legislativo.
 
@@ -143,13 +145,11 @@ La Legislatura podrá organizar y participar en reuniones nacionales o regionale
 
 ### CAPÍTULO II. INSTALACIÓN DE LA LEGISLATURA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2022)</small>
 
 ###### Artículo 11.
 
-En el año de la elección ordinaria para la renovación del Congreso, la Mesa Directiva de la Diputación Permanente, se constituirá en Comisión Instaladora de la Legislatura que le sucederá, lo que deberá comunicar por escrito dentro de los primeros 10 días del mes de agosto al Consejo Local Electoral y a la Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado.
+En el año de la elección ordinaria para la renovación del Congreso, la Mesa Directiva de la Diputación Permanente, se constituirá en Comisión Instaladora de la Legislatura que le sucederá, lo que deberá comunicar por escrito dentro de los primeros 10 días del mes de agosto al Instituto Estatal Electoral y al Tribunal Estatal Electoral.
 
 ###### Artículo 12.
 
@@ -159,11 +159,9 @@ La Comisión Instaladora registrará las declaratorias de validez y las constanc
 
 Previo a la sesión de instalación la Comisión Instaladora deberá observar las siguientes formalidades:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2011)</small>
-
-I. Recibir los documentos mencionados en el artículo anterior entregados a cada diputado o partido político y demás documentación electoral que corresponda en los términos de la Ley Electoral del Estado y en su caso de las resoluciones de la Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado recaídas a los recursos de que haya conocido dentro del proceso electoral para diputados locales;
+I. Recibir los documentos mencionados en el artículo anterior entregados a cada diputado o partido político y demás documentación electoral que corresponda en los términos de la legislación electoral aplicable y en su caso de las resoluciones de la autoridad jurisdiccional electoral competente recaídas a los medios de impugnación que haya conocido dentro del proceso electoral para diputaciones locales;
 
 II. Entregar las credenciales de identificación y acceso a los diputados electos que integran la nueva Legislatura;
 
@@ -217,9 +215,11 @@ Cuando se trate de sesiones inaugurales de cada período, así como todas aquell
 
 ### CAPÍTULO III. DERECHOS Y OBLIGACIONES DE LOS DIPUTADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2022)</small>
+
 ###### Artículo 18.
 
-Los diputados entrarán en el ejercicio de sus cargos inmediatamente después de rendir la protesta de Ley, quedando al momento investidos del fuero constitucional o inmunidad procesal que protege las funciones inherentes al cargo.
+Los diputados entrarán en el ejercicio de sus cargos inmediatamente después de rendir la protesta de Ley, quedando al momento investidos de las prerrogativas que otorga la Constitución local.
 
 Entre los diputados existe igualdad, por ende entre ellos no habrá preeminencia alguna que diferencie su condición de representantes populares.
 
@@ -459,7 +459,9 @@ VII. Coadyuvar en la realización de las funciones del Congreso;
 
 VIII. Proponer ante la Asamblea el nombramiento de los integrantes de las comisiones ordinarias y especiales, y en su caso a los integrantes de la Diputación Permanente;
 
-IX. Resolver lo conducente sobre las licencias de los Diputados, del Secretario General, Oficial Mayor y titulares administrativos a su cargo;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2022)</small>
+
+IX. Resolver lo conducente sobre las licencias de las o los titulares de la Secretaría General, Oficialía Mayor, Contraloría Interna y titulares administrativos a su cargo;
 
 > <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
 
@@ -533,13 +535,17 @@ Todos los documentos que reciba la Mesa Directiva en el desahogo de las sesiones
 
 Corresponde a los integrantes de la Mesa Directiva, bajo la autoridad de su presidente, preservar la libertad de las deliberaciones en el recinto de las sesiones, cuidar la efectividad del trabajo legislativo y aplicar con imparcialidad y objetividad las disposiciones de esta ley, del reglamento y de los acuerdos del pleno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2022)</small>
+
 ###### Artículo 47.
 
-Son atribuciones y obligaciones del presidente de la Mesa Directiva:
+Son atribuciones y obligaciones del Presidente o Presidenta de la Mesa Directiva:
 
 I. Citar, abrir, presidir, suspender, declarar recesos, y clausurar las sesiones;
 
-II. Vigilar el estricto respeto al fuero constitucional o inmunidad procesal de los diputados y la inviolabilidad del recinto oficial;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2022)</small>
+
+II. Vigilar el estricto respeto e inviolabilidad del recinto oficial e inviolabilidad parlamentaria;
 
 III. Ordenar a los secretarios, verificar el quórum de las sesiones y dar lectura a las actas o documentos respectivos;
 
@@ -1467,9 +1473,11 @@ El Oficial Mayor propondrá a la Comisión de Gobierno, los lineamientos que reg
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2013)</small>
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2022)</small>
+
 ###### Artículo 104.
 
-El Servicio Profesional de Carrera se establecerá preferentemente para los trabajadores de confianza al que podrán agregarse los trabajadores de base, tomando en cuenta lo que establece al efecto el Estatuto Jurídico para los Trabajadores al Servicio del Estado, Municipios y Empresas Descentralizadas de Carácter Estatal.
+El Servicio Profesional de Carrera se establecerá preferentemente para los trabajadores de confianza al que podrán agregarse los trabajadores de base, tomando en cuenta lo que establece al efecto la Ley de Derechos y Justicia Laboral para los Trabajadores al Servicio del Estado de Nayarit y la legislación aplicable.
 
 ## TÍTULO SEXTO. FISCALIZACIÓN
 
@@ -1780,3 +1788,9 @@ P.O. 13 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
+
+P.O. 13 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
