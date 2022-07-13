@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2022-06-10"
+last_updated: "2022-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -45,6 +45,8 @@ LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 13 DE JULIO DE 2022)</small>
+
 ###### Artículo 1.
 
 La presente Ley es de orden público, interés social y de observancia general en el territorio del Estado de Puebla y tiene por objeto:
@@ -63,9 +65,9 @@ IV.- Establecer las bases de coordinación entre los diferentes niveles de gobie
 
 V.- Garantizar la igualdad de oportunidades y de trato entre mujeres y hombres, el pleno ejercicio de sus derechos, el desarrollo de su personalidad, aptitudes y capacidades, y
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2022)</small>
 
-VI.- Promover el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo.
+VI.- Promover el empoderamiento de las mujeres, la paridad de género y la lucha contra toda discriminación basada en el sexo.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -273,11 +275,11 @@ VII.- Las demás que esta Ley y otros ordenamientos aplicables le confieran.
 
 ### CAPÍTULO PRIMERO. DE LA POLÍTICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2022)</small>
 
 ###### Artículo 10.
 
-La Política Estatal en materia de igualdad entre mujeres y hombres deberá establecer las acciones tendientes a lograr la igualdad sustantiva en los ámbitos económico, político, social, deportivo y cultural.
+La Política Estatal en materia de igualdad entre mujeres y hombres deberá establecer las acciones tendientes a lograr la igualdad sustantiva en los ámbitos económico, político, saludable, social, deportivo y cultural.
 
 La Política Estatal que establezca el Gobierno del Estado deberá considerar los siguientes lineamientos:
 
@@ -285,7 +287,9 @@ I.- Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vid
 
 II.- Incluir en la planeación presupuestal las partidas necesarias para sustentar acciones que impulsen la perspectiva de género, apoye la transversalidad y aseguren el cumplimiento de los programas, proyectos y acciones para alcanzar la igualdad entre mujeres y hombres;
 
-III.- Generar los mecanismos necesarios para lograr una efectiva participación y representación política equilibrada entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2022)</small>
+
+III.- Generar los mecanismos necesarios para lograr una efectiva participación y representación política paritaria entre mujeres y hombres;
 
 IV.- Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
@@ -453,9 +457,17 @@ VIII.- Otorgar un reconocimiento a las empresas que se distingan por instrumenta
 
 IX.- Fomentar acciones encaminadas al reconocimiento progresivo del derecho de conciliación de la vida personal, laboral y familiar, así como establecer los medios y mecanismos tendientes a la convivencia sin menoscabo del pleno desarrollo humano;
 
-X.- Establecer los instrumentos y medidas necesarias que tiendan a lograr la erradicación del acoso sexual; y
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2022)</small>
 
-XI.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal y las que determinen las disposiciones aplicables.
+X.- Establecer los instrumentos y medidas necesarias que tiendan a lograr la erradicación del acoso sexual;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2022)</small>
+
+XI.- Dar seguimiento a la implementación del principio constitucional de paridad de género; y en tal virtud deberá presentar un informe anual de los avances en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JULIO DE 2022)</small>
+
+XII.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal y las que determinen las disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -537,11 +549,15 @@ En el seguimiento y evaluación de los resultados que se obtengan por la ejecuci
 
 ## TÍTULO IV. DE LOS DERECHOS DE MUJERES Y HOMBRES
 
-### CAPÍTULO PRIMERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JULIO DE 2022)</small>
+
+### CAPÍTULO PRIMERO. DE LA PARTICIPACIÓN y (SIC) REPRESENTACIÓN POLÍTICA PARITARIA
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2022)</small>
 
 ###### Artículo 29.
 
-La participación equitativa entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas será definida a través de los mecanismos de operación de la Política Estatal.
+La participación paritaria entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas será definida a través de los mecanismos de operación de la Política Estatal.
 
 ###### Artículo 30.
 
@@ -551,15 +567,23 @@ I.- Favorecer el trabajo parlamentario con la perspectiva de género;
 
 II.- Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación;
 
-III.- Evaluar por medio del área competente de la Comisión, la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2022)</small>
 
-IV.- Promover la participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos políticos;
+III.- Evaluar por medio del área competente de la Comisión, la participación paritaria entre mujeres y hombres en los cargos de elección popular;
 
-V.- Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos;
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2022)</small>
+
+IV.- Promover la participación y representación paritaria entre mujeres y hombres dentro de las estructuras de los partidos políticos;
+
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2022)</small>
+
+V.- Fomentar la participación paritaria de mujeres y hombres en altos cargos públicos;
 
 VI.- Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil; y
 
-VII.- Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los Poderes del Estado.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2022)</small>
+
+VII.- Fomentar la participación paritaria y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los Poderes del Estado.
 
 ### CAPÍTULO SEGUNDO. DE LA VIDA ECONÓMICA Y LABORAL
 
@@ -908,5 +932,13 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 4 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ACÁPITE Y LA FRACCIÓN VI DEL ARTÍCULO 1, EL PRIMER PÁRRAFO Y LA FRACCIÓN III DEL ARTÍCULO 10; LAS FRACCIONES 10 Y 11 DEL ARTÍCULO 21, LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO IV, EL ARTÍCULO 29 Y LAS FRACCIONES III, IV, V Y VII DEL ARTÍCULO 30; Y ADICIONA LA FRACCIÓN XII AL ARTÍCULO 21, TODOS LOS ANTERIORES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
