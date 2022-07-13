@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2021-12-02"
+last_updated: "2022-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1709,9 +1709,9 @@ Toda sentencia arbitral se ejecutará sin recurso, a menos que las partes se hay
 
 En el curso de los procesos penales no se emplearán con los acusados promesas, amenazas o violencias.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2022)</small>
 
-Las penas privativas de la libertad no podrán en ningún caso exceder de cincuenta años. Esta sanción podrá contemplarse como máxima para delitos calificados como graves por la ley y, también, en el caso de los concursos.
+Las penas privativas de la libertad no podrán en ningún caso exceder de sesenta años. Esta sanción podrá contemplarse como máxima para delitos calificados como graves por la Ley y, también, en el caso de los concursos.
 
 En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando lo requiera y, los demás que señalen las leyes.
 
@@ -2747,9 +2747,11 @@ La función conciliatoria en materia laboral estará a cargo del Centro de Conci
 
 El titular del organismo descentralizado a que se refiere el párrafo anterior, durará en su encargo por un período de seis años y podrá ser reelecto por una sola ocasión; sólo podrá ser removido por causa grave en los términos del Título Cuarto de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia.
 
+(NOTA: EL 27 DE SEPTIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 23/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE SEPTIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
-El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la Ley.
+El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación Y NO HAYA SIDO CONDENADO POR DELITO DOLOSO. Asimismo, deberá cumplir los requisitos que establezca la ley.
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2021)</small>
 
@@ -4072,3 +4074,11 @@ QUINTO. Una vez entrado en vigor el presente Decreto, se realizarán en su caso,
 SEXTO. En tanto se instituyan e inicien operaciones los juzgados laborales y el Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, la Junta Local de Conciliación y Arbitraje y, en su caso, la Secretaría de Gobierno, continuarán atendiendo las diferencias o conflictos que se presenten en materia laboral.
 
 Los asuntos que estuvieren en trámite al momento de iniciar sus funciones los juzgados o tribunales y el Centro de Conciliación Laboral del Estado de Michoacán de Ocampo, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
+
+P.O. 13 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 156.- PRIMERO. SE REFORMA EL ARTÍCULO 94 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO. SEGUNDO. SE REFORMA EL ARTÍCULO 31 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo,
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
