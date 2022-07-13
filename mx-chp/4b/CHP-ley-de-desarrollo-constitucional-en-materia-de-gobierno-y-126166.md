@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2022-04-27"
+last_updated: "2022-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -906,6 +906,10 @@ XVI.- De atención a los Derechos Humanos.
 > <small>(ADICIONADA, P.O. 8 DE MAYO DE 2019)</small>
 
 XVII.- De Población y Asuntos Migratorios.
+
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2022)</small>
+
+XVIII.- De Ciencia, Tecnología e Innovación.
 
 ###### Artículo 63.
 
@@ -2732,3 +2736,13 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero. La Instancia Municipal de las Mujeres deberá quedar integrada en los municipios del Estado de Chiapas, dentro de los noventa días posteriores a la publicación del presente Decreto.
+
+P.O. 13 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 153 DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 62 DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Los Ayuntamientos Municipales deberán integrar la Comisión De Ciencia, Tecnología e Innovación dentro de los 90 días posteriores a la publicación del presente Decreto.
