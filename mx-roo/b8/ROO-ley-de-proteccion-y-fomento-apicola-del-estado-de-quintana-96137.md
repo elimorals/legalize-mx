@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-fomento-apicola-del-estado-de-quintana-9613
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-06"
-last_updated: "2021-07-16"
+last_updated: "2022-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PROTECCION Y FOMENTO APICOLA DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 13 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022 (ABROGADA).
 
 Ley publicada en Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 6 de septiembre de 2013.
 
@@ -806,3 +808,17 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 13 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 243 POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE QUINTANA ROO”.]
+
+SEGUNDO (SIC). Se abroga la Ley de Protección y Fomento Apícola del Estado de Quintana Roo publicada en el Periódico Oficial del Estado de Quintana Roo, el día seis de septiembre del año dos mil trece.
+
+TERCERO. La persona Titular del Poder Ejecutivo del Estado, en coordinación con la Secretaría de Desarrollo Agropecuario, Rural y Pesca y la Secretaría de Ecología y Medio Ambiente, ambas del Estado de Quintana Roo, emitirán al reglamento de la presente ley en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la misma.
+
+CUARTO. Los Municipios en el ámbito de sus respectivas competencias deberán reglamentar las atribuciones otorgadas por la presente Ley en un término no mayor de ciento ochenta días naturales, contados a partir de la entrada en vigor de la misma.
+
+QUINTO. Las erogaciones que se llegaran a generar con motivo de la entrada en vigor de la presente Ley, se realizarán con cargo a la disponibilidad presupuestaría que se apruebe para tal fin a los ejecutores del gasto correspondiente en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes, debiendo quedar cumplimentado en su totalidad en el ejercicio fiscal 2024.
+
+SEXTO. Se derogan todas aquellas disposiciones normativas que contravengan a lo dispuesto en la presente Ley.
