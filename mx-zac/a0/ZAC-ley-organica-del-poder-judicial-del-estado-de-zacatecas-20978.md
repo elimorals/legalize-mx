@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-20978"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-04-04"
-last_updated: "2020-12-12"
+last_updated: "2022-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 13 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril del 2001.
 
@@ -2278,3 +2278,25 @@ Artículo Segundo. El Instituto Electoral del Estado de Zacatecas y el Tribunal 
 Artículo Tercero. Las dependencias del Poder Ejecutivo del Estado, los Ayuntamientos, los Organismos Autónomos y los demás Entes Públicos a los que este Decreto les señala alguna atribución u obligación, deberán armonizar su normatividad interna en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
 
 Artículo Cuarto. Se derogan todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. DE 13 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley Orgánica del Poder Judicial del Estado de Zacatecas, contenida en el Decreto número 253, publicada en el Suplemento al número 27 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 4 de abril de 2001.
+
+Tercero. Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto, el Pleno del Tribunal Superior de Justicia deberá expedir los reglamentos y acuerdos generales correspondientes.
+
+Cuarto. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con las disposiciones legales vigentes al momento de su inicio.
+
+Quinto. Los derechos laborales y de seguridad social que tengan la naturaleza de derechos adquiridos serán respetados y los reglamentos y acuerdos generales que, en su caso, se emitan, deberán observar las normas que les dieron origen.
+
+Sexto. Los recursos humanos, financieros y materiales que actualmente forman parte de la Escuela Judicial del Tribunal Superior del Estado de Zacatecas, pasarán a formar parte de la Escuela de Formación y Especialización Judicial como órgano auxiliar del Poder Judicial del Estado.
+
+La entrega recepción de dichos recursos se llevará a cabo de acuerdo con lo establecido en la Ley de Entrega-Recepción del Estado de Zacatecas.
+
+Séptimo. Dentro de los sesenta días siguientes a la entrada en vigor de este Decreto, se creará el Registro Único de Personas Servidoras Públicas de la Carrera Judicial.
+
+Octavo. Se derogan las disposiciones que se opongan al presente Decreto.
