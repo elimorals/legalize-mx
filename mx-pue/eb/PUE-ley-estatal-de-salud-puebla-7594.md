@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2021-11-04"
+last_updated: "2022-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -439,13 +439,17 @@ VI. Emitir un listado de productos con bajo o nulo valor nutricional, así como 
 
 VII. Vigilar que los establecimientos destinados a la venta y consumo de alimentos y/o bebidas que cuenten con más de dos sucursales, publiquen en un lugar visible el listado, carta o menú, las calorías que contiene cada alimento o bebida;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
 
-VIII. Promover acciones en materia de control sanitario de los establecimientos y servicios establecidos en la fracción V del apartado B del artículo 4º de la presente Ley, incluyendo la capacitación; y
+VIII. Promover acciones en materia de control sanitario de los establecimientos y servicios establecidos en la fracción V del apartado B del artículo 4° de la presente Ley, incluyendo la capacitación;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
 
-IX. Procurar suministrar de forma gratuita y permanente, métodos anticonceptivos y productos de higiene menstrual.
+IX. Procurar suministrar de forma gratuita y permanente, métodos anticonceptivos y productos de higiene menstrual; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2022)</small>
+
+X. Fomentar campañas de difusión sobre la importancia de la salud mental, como medio para garantizar el bienestar emocional, psicológico, físico y social de la persona.
 
 ###### ARTICULO 13.
 
@@ -3544,5 +3548,13 @@ P.O. 4 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VII Y VIII DEL APARTADO B, LAS FRACCIONES VII Y VIII DEL APARTADO C DEL ARTÍCULO 12 Y LA FRACCIÓN III DEL 130, Y ADICIONA LA FRACCIÓN IX DEL APARTADO B Y LA FRACCIÓN IX DEL APARTADO C AL ARTÍCULO 12, TODOS DE LA LEY ESTATAL DE SALUD".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VIII Y IX DEL APARTADO C DEL ARTÍCULO 12, Y ADICIONA LA FRACCIÓN X AL APARTADO C DEL ARTÍCULO 12 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
