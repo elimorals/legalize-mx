@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2022-06-13"
+last_updated: "2022-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2022.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -2881,33 +2881,55 @@ A quien cometa el delito de acoso sexual en vehículos destinados al transporte 
 
 Si el acosador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ocupar cualquier otro cargo público de uno a tres años.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JULIO DE 2022)</small>
 
-### CAPÍTULO V. DELITOS CONTRA LA INTIMIDAD PERSONAL
+### CAPÍTULO V. VIOLACIÓN A LA INTIMIDAD SEXUAL
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 297 Bis.
 
-Comete el delito contra la intimidad personal, quien o quienes, revelen, difundan, publiquen, expongan, divulguen, compartan, distribuyan, comercien, hagan circular, oferten o exhiban imágenes, audios o videos, de contenido real o manipulado o alterado de una persona, de contenido erótico, sexual o pornográfico, sin su consentimiento mediante correo electrónico, mensajes telefónicos, redes sociales o por cualquier otro medio electrónico, de almacenamiento o impreso, grabado o digital.
+Comete el delito de violación a la intimidad sexual, aquella persona que revele, difunda, exponga, divulgue, comparta, distribuya o publique imágenes, videos o audios de contenido real, manipulado o alterado, íntimo sexual, erótico o pornográfico, de una persona sin su consentimiento, su aprobación o su autorización, mediante correo electrónico, mensajes telefónicos, redes sociales o por cualquier otro medio electrónico, de almacenamiento o impreso, grabado o digital.
 
-A quien cometa el delito descrito en el párrafo anterior, se le impondrá prisión de dos a seis años y multa de mil a dos mil Unidades de Medida y Actualización.
+Así como quien videograbe, audiograbe, fotografíe, imprima o elabore, imágenes, audios o videos con contenido íntimo sexual, erótico o pornográfico, de una persona sin su consentimiento, sin su aprobación, o sin su autorización.
 
-La anterior sanción será aumentada hasta en una mitad, respecto de la que imponga el juzgador, cuando:
+Estas conductas se sancionarán con una pena de tres a seis años de prisión y una multa de mil a dos mil Unidades de Medida y Actualización.
 
-I. Cuando el sujeto activo del delito mantenga o haya mantenido con la víctima una relación de confianza, laboral, política, conyugal, de concubinato, afectiva o sentimental;
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
 
-II. Se cometa en contra de una persona que por su situación de discapacidad o incapacidad no comprenda el significado del hecho o no tenga capacidad para resistirlo;
+###### ARTÍCULO 297 Ter.
 
-III. Se cometa contra una persona en situación de vulnerabilidad social, por su pertenencia a algún pueblo originario o etnia;
+Se impondrán las mismas sanciones previstas en el artículo anterior, a la persona que revele, difunda, exponga, divulgue, comparta, distribuya, publique, videograbe, audiograbe, fotografíe, imprima o elabore imágenes, videos o audios de contenido manipulado o alterado, íntimo sexual, erótico o pornográfico, que no correspondan con la persona que es señalada o identificada en los mismos, realizado por medio de deepfake.
 
-IV. Cuando se cometa con menores de 18 años de edad;
+Para efectos punibles, se entiende como deepfake, a las imágenes, videos, audio o voz que son manipuladas utilizando software o tecnologías de inteligencia artificial, de manera que el resultado alterado luzca auténtico.
 
-V. Cuando un medio de comunicación impreso o digital reproduzca estos contenidos y los haga públicos, o
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
 
-VI. Cuando el objeto de la difusión sea con fines lucrativos.
+###### ARTÍCULO 297 Quáter.
 
-Este delito sólo será perseguido por querella del ofendido, salvo que se trate de los supuestos descritos en las fracciones anteriores, en cuyo caso se procederá de oficio.
+Las penas para los delitos previstos en este Capítulo se impondrán de cuatro a nueve años de prisión y multa de mil a dos mil Unidades de Medida y Actualización, cuando:
+
+I. El delito sea cometido por la o el cónyuge, concubinario o concubina, o por cualquier persona con la que la persona víctima tenga o haya tenido una relación de confianza, laboral, política, afectiva o sentimental;
+
+II. El delito sea cometido por una persona servidora pública en ejercicio de sus funciones;
+
+III. Se cometa contra una persona que no pueda comprender el significado del hecho o no tenga la capacidad para resistirlo, ya sea por ser una persona menor de dieciocho años o por encontrarse en estado de vulnerabilidad psicológica, psiquiátrica o estado de interdicción (de hecho, o declarado judicialmente);
+
+IV. Se cometa contra una persona en situación de vulnerabilidad social, por su pertenencia a algún pueblo originario;
+
+V. Se obtenga algún tipo de beneficio no lucrativo;
+
+VI. Se haga u obtengan fines lucrativos;
+
+VII. Aprovechando su condición de persona responsable o encargada de algún medio de comunicación impreso, grabado, digital, radiofónico o televisión, en cualquiera de sus modalidades, revele, difunda, exponga, divulgue, comparta, distribuya, publique o reproduzca material íntimo sexual, erótico o pornográfico, sin consentimiento de la persona agraviada, o
+
+VIII. A consecuencia de los efectos o impactos del delito, la víctima atente contra su integridad o contra su propia vida.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
+
+###### ARTÍCULO 297 Quinquies.
+
+Los delitos contemplados en los artículos 297 Bis y 297 Ter del presente Código Penal para el Estado de Nayarit, serán perseguidos por querella de la parte ofendida, salvo que se trate de las modalidades descritas en el artículo 297 Quáter, en cuyo caso se procederá de oficio.
 
 ### CAPÍTULO I. DE LA SUPOSICIÓN Y SUPRESIÓN DEL ESTADO CIVIL
 
@@ -4718,3 +4740,9 @@ P.O. 13 JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 14 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIOINES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE CIBERVIOLENCIA O VIOLENCIA A LA INTIMIDAD SEXUAL, ASÍ COMO EN SU MODALIDAD DE DEEPFAKE”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
