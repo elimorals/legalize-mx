@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-al-turismo-del-estado-de-nayarit-44839"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-04"
-last_updated: "2021-03-18"
+last_updated: "2022-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2022.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el miércoles 4 de mayo de 2005.
 
@@ -79,9 +79,9 @@ X. Establecer las medidas pertinentes para lograr que el gobierno del estado y l
 
 XI. Garantizar a las personas con discapacidad la igualdad de oportunidades dentro de los programas de desarrollo del sector turismo.
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
 
-XII. Elaborar los planes y programas de uso del suelo, ordenamiento urbano y territorial, y los demás que sean necesarios para el desarrollo turístico sustentable, por los niveles de gobierno a que corresponda.
+XII. Elaborar los planes y programas de uso del suelo, ordenamiento urbano y territorial, y los demás que sean necesarios para el desarrollo turístico rural y sustentable, por los niveles de gobierno a que corresponda.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
@@ -95,13 +95,17 @@ XV. Impulsar el desarrollo sustentable a través del Turismo de Naturaleza y cul
 
 XVI. Propugnar por la implantación de estilos arquitectónicos armónicos en las zonas y centros de atracción turística.
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
 
-XVII. Establecer la participación estatal y de los Ayuntamientos en la operación de las Zonas de Desarrollo Turístico Sustentable, y
+XVII. Establecer la participación estatal y de los Ayuntamientos en la operación de las Zonas de Desarrollo Turístico Sustentable.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
 
-XVIII. La capacitación de personas dedicadas a la prestación de servicios turísticos.
+XVIII. La capacitación de personas dedicadas a la prestación de servicios turísticos, y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2022)</small>
+
+XIX. Fomentar el turismo rural.
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -231,9 +235,9 @@ XIII. Proponer a los gobiernos municipales convenios de colaboración conjunta e
 
 XIV. Proporcionar asesoría y apoyo a los Prestadores de Servicios Turísticos, así como a los ayuntamientos que lo soliciten;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
 
-XV. Facilitar la integración de las comunidades rurales y serranas a proyectos turísticos sustentables, de acuerdo con las propuestas que presenten los gobiernos municipales;
+XV. Facilitar la integración de las comunidades rurales y serranas a proyectos turísticos rurales y sustentables, de acuerdo con las propuestas que presenten los gobiernos municipales y estatal;
 
 XVI. Promover la señalización turística en las vías públicas y las carreteras, así como la difusión de imágenes turísticas en los vehículos del servicio público;
 
@@ -263,9 +267,9 @@ XXIII. Participar en la regulación, administración y vigilancia de las Zonas d
 
 XXIV. Coadyuvar con el titular del Poder Ejecutivo del Estado en la aplicación de los instrumentos de política ambiental y de cambio climático, en materia de turismo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
 
-XXV. Colaborar con la Secretaría del Trabajo, Productividad y Desarrollo Económico en las acciones tendientes a fortalecer y promover las micro, pequeñas y medianas empresas turísticas;
+XXV. Colaborar con la Secretaría de Economía en las acciones tendientes a fortalecer y promover las micro, pequeñas y medianas empresas turísticas, incluyendo a su vez las de turismo rural y sustentable en sus diversas modalidades;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE DICIEMBRE DE 2016)</small>
 
@@ -687,15 +691,21 @@ XII. Procurar que los desarrollos turísticos contribuyan a la preservación del
 
 XIII. Establecer programas y acciones tendientes a garantizar la prestación de servicios de seguridad a favor del turismo.
 
-XIV. Intervenir en la solución de necesidades de carácter social en las zonas de influencia de desarrollos turísticos, y (sic)
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+XIV. Intervenir en la solución de necesidades de carácter social en las zonas de influencia de desarrollos turísticos;
 
-XV. Impulsar la actividad turística en las Zonas de Desarrollo Turístico Sustentable, mediante el fomento a la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales, históricos y culturales en beneficio de la población, y
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+XV. Impulsar la actividad turística en las Zonas de Desarrollo Turístico Sustentable, mediante el fomento a la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales, históricos y culturales en beneficio de la población;
 
-XVI. En general, todas aquellas que permitan la realización de su objeto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JULIO DE 2022)</small>
+
+XVI. Impulsar la actividad turística sustentable en las zonas rurales del Estado, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA], P.O. 14 DE JULIO DE 2022)</small>
+
+XVII. En general, todas aquellas que permitan la realización de su objeto.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
@@ -799,7 +809,9 @@ La Secretaría y los ayuntamientos tendrán la obligación de promover la educac
 
 b) Turismo de Aventura.- Son los viajes que tienen como fin realizar actividades recreativas, deportivas, asociadas a desafíos impuestos por la naturaleza y su conformación con diversas actividades agrupadas de acuerdo al espacio natural en que se desarrollan, y
 
-c) Turismo Rural.- Son los viajes que tienen como fin realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
+
+c) Turismo Rural.- Es un tipo de actividad turística en áreas no urbanas en el que la experiencia del visitante está relacionada con un amplio espectro de productos vinculados por lo general con las actividades de naturaleza, la agricultura, la pesca, las formas de vida y cultura de la comunidad.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2016)</small>
 
@@ -845,13 +857,51 @@ Las entidades y organismos descentralizados de la administración pública munic
 
 XI. Gran Turismo.- Es una categoría que se da en la clasificación hotelera siendo este el que se otorga con los estándares de la más alta calidad en el servicio y es reconocido en el ámbito nacional e internacional.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JULIO DE 2022)</small>
+
+### CAPÍTULO VI BIS. Del Turismo Rural
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
+
+ARTICULO 24 A.- La Secretaría podrá determinar las zonas y núcleos de población rural con potencial turístico, para impulsarlas y promoverlas como destinos turísticos del Estado.
+
+La Secretaría se coordinará con las autoridades municipales correspondientes, para elaborar y ejecutar planes de manejo y conservación de sus recursos naturales y socioculturales, en plena congruencia con los planes y programas correspondientes, en términos de las normas ambientales, de orden territorial, forestal, social y las demás que resulten aplicables.
+
+El procedimiento para llevar a cabo dicha determinación se regulará en el Reglamento de la Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
+
+ARTICULO 24 B.- La Secretaría en coordinación con otras dependencias y entidades de la administración pública estatal y municipal, impulsará acciones con los sectores social y privado para el fomento del turismo rural, a fin de promover la generación de ingresos adicionales a la economía rural, así como la conservación de los ambientes en los que habitan; asimismo, promoverá entre sus trabajadores el turismo rural.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
+
+ARTICULO 24 C.- La Secretaría en coordinación con las Secretarías de Economía y de Desarrollo Rural, promoverán mecanismos que permitan la elaboración, comercialización y promoción de los productos de las zonas turísticas rurales.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
+
+ARTICULO 24 D.- Los prestadores de servicios turísticos deberán implementar acciones que permitan la sustentabilidad de los recursos naturales que se explotan a través del turismo rural.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
+
+ARTICULO 24 E.- La Secretaría en conjunto con las dependencias y entidades de la administración pública estatal y los prestadores de servicios turísticos, promoverán la participación de los habitantes de las zonas donde se practique el turismo rural, con el fin de involucrarlos en el desarrollo, planificación, manejo y aprovechamiento sostenible de los recursos naturales de su entorno.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
+
+ARTICULO 24 F.- La Secretaría en colaboración con otras instancias, deberá procurar que los beneficios socioeconómicos obtenidos de la práctica del turismo rural, se distribuyan entre la población del núcleo de población donde se desarrolle.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
+
+ARTICULO 24 G.- La Secretaría impulsará la capacitación de los prestadores de servicios turísticos que se estén desempeñando en áreas que sean necesarias, para brindar los servicios turísticos amigables con el medio ambiente.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2022)</small>
+
+ARTICULO 24 H.- La Secretaría promoverá el desarrollo de infraestructura y equipamiento de las zonas rurales declaradas con potencial turístico, que contribuyan al fomento y desarrollo de la actividad turística; lo anterior estará sujeto a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos del Gobierno del Estado.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2012)</small>
 
 ### CAPÍTULO VII. Facultades de los Ayuntamientos en Materia Turística
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
-
-### CAPÍTULO VIII. Inversión Turística
 
 ###### ARTICULO 25.
 
@@ -873,7 +923,9 @@ VII. Establecer el Consejo Consultivo Municipal de Turismo que tendrá por objet
 
 VIII. Concertar con los sectores privado y social, las acciones tendientes a detonar programas a favor de la actividad turística;
 
-IX. Impulsar las actividades turísticas, en el ámbito de su competencia, en las zonas de desarrollo turístico sustentable, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2022)</small>
+
+IX. Impulsar las actividades turísticas, en el ámbito de su competencia, en las zonas rurales y de desarrollo turístico sustentable, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población;
 
 X. Participar en los programas locales de ordenamiento turístico del territorio;
 
@@ -923,7 +975,7 @@ Para que una extensión geográfica determinada, o una población o parte de és
 
 Los Ayuntamientos establecerán en sus Bandos Municipales, normas tendientes a la protección, conservación y mantenimiento de las poblaciones que sean declaradas culturalmente típicas que deberán referirse por lo menos a: anuncios, avisos, carteles, hilos telegráficos, telefónico, conductores de energía eléctrica, aparatos sonoros, establecimientos de garajes, sitios de automóviles, expendios de gasolinas y lubricantes, kioscos, templetes, juegos, puestos y toda construcción permanente o provisional que pueda demeritar la apariencia típica o tradicional del lugar.
 
-### CAPÍTULO IX. Registro Estatal de Turismo
+### CAPÍTULO VIII. Inversión Turística
 
 ###### ARTICULO 30.
 
@@ -969,9 +1021,7 @@ II. Simplificar y, en su caso, adecuar los trámites de procedimientos que incid
 
 III. Cuando dichos trámites deban cumplirse en varias unidades administrativas de una misma dependencia, ésta adoptará las medidas para establecer una sola ventanilla para su atención y despacho.
 
-### CAPÍTULO X. Protección al Turista
-
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+### CAPÍTULO IX. Registro Estatal de Turismo
 
 ###### ARTICULO 35.
 
@@ -982,6 +1032,10 @@ La Secretaría organizará el Registro Estatal de Turismo, como un instrumento p
 Los prestadores de servicios turísticos para poder recibir los apoyos y estímulos previstos en esta ley, tienen la obligación de inscribirse en el Registro Estatal de Turismo en los términos que prevea el reglamento respectivo, y cumplir con los requisitos para expedirle su cédula estatal de calidad turística. En el caso de inversionistas con nuevos proyectos turísticos que soliciten apoyos y estímulos, deberán registrarse y cumplir con las normas respectivas para extenderles la cédula de calidad turística.
 
 La inscripción es voluntaria para aquellos prestadores de servicios turísticos no sujetos a competencia federal.
+
+### CAPÍTULO X. Protección al Turista
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ### CAPÍTULO XI. De la Verificación
 
@@ -1168,3 +1222,9 @@ P.O. 18 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. A la entrada en vigor del presente Decreto, la Secretaría de Turismo del Estado de Nayarit será la encargada de realizar ante la autoridad federal en materia de propiedad industrial, los trámites concernientes a la renovación de la marca turística "Nayarit Enamora", cuando por el transcurso del tiempo sea necesario; así como del registro y renovación de aquellas otras que estimen convenientes para la promoción de la entidad en los mercados local, nacional e internacional.
+
+P.O. 14 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO AL TURISMO DEL ESTADO DE NAYARIT, EN MATERIA DE FOMENTO AL TURISMO RURAL”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
