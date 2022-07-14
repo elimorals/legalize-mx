@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-consejo-economico-y-social-del-estado-de-michoacan-8434
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-28"
-last_updated: "2016-04-22"
+last_updated: "2022-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2022.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Michoacán, el miércoles 28 de diciembre de 2011.
 
@@ -51,79 +51,101 @@ LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 Esta Ley es de orden público, interés social y de observancia general, la cual tiene por objeto establecer las bases para la integración, organización y funcionamiento del Consejo Económico y Social del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 2.
 
-El Consejo Económico y Social del Estado, es un órgano público autónomo con personalidad jurídica y patrimonio propio, con domicilio en la capital del Estado, de representación, participación social, incluyente, concertación y propuesta, de carácter consultivo y propositivo en la instrumentación de planes, proyectos y formulación de políticas públicas.
+El Consejo Económico y Social del Estado de Michoacán es un organismo especializado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión y financiera, con domicilio en la Capital del Estado.
 
-Su finalidad es proponer objetivos y metas comunes de desarrollo social y económico en el Estado.
+El Consejo estará integrado por una representación incluyente de todos los sectores sociales y económicos del Estado. Será de carácter consultivo, deliberativo, propositivo y coadyuvante en los procesos de planeación democrática, concertación social y económica, así como en la evaluación de las políticas y acciones públicas, de transparencia y de rendición de cuentas.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 3.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Asamblea General: La Asamblea General del Consejo;
+I. Asamblea General: Asamblea General del Consejo;
 
-II. Comisiones: Las Comisiones que creé el Consejo;
+II. Consejo: Consejo Económico y Social de Michoacán o CESMICH;
 
-III. Comité Directivo: El Comité Directivo del Consejo;
+III. Comité Directivo: Comité Directivo del Consejo;
 
-IV. Congreso: Al Congreso del Estado de Michoacán de Ocampo;
+IV. Comisiones: Comisiones que establezca el Consejo;
 
-V. Consejo: El Consejo Económico y Social del Estado de Michoacán de Ocampo;
+V. Congreso: Congreso del Estado de Michoacán de Ocampo;
 
-VI. Consultas: Las Consultas que realicen los poderes del Estado y los ayuntamientos al Consejo;
+VI. Gobernador: Gobernador del Estado de Michoacán de Ocampo;
 
-VII. Gobernador: Al Gobernador del Estado de Michoacán de Ocampo;
+VII. Grupos de trabajo: Ámbitos, regiones socioeconómicas, y/o sectores productivos, representativos de la sociedad michoacana previstos en esta Ley;
 
-VIII. Grupos: Los cuatro grupos representativos de la sociedad, previstos en esta Ley;
+VIII. La Presidencia: Presidente del Consejo;
 
-IX. La Presidencia: Al Presidente del Consejo;
+IX. Consejero: Los integrantes de la Asamblea General del Consejo;
 
-X. Opiniones o Recomendaciones: Las resoluciones que emita el Consejo, derivado de las consultas;
+X. Migrantes: Personas definidas como tales en la Ley para la Atención y Protección de los Migrantes y sus Familiares del Estado de Michoacán de Ocampo;
 
-XI. Reglamento: Al Reglamento del Consejo; y,
+XI. Opiniones o Recomendaciones: Las resoluciones que emita el Consejo;
 
-XII. Secretariado Ejecutivo: Al Secretario Ejecutivo del Consejo.
+XII. Reglamento: Al Reglamento del Consejo;
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
+XIII. Delegado Administrativo: Coordinador administrativo encargado de la administrar los recursos humanos y financieros del Consejo; y,
+
+XIV. Secretariado Técnico: Secretario Técnico del Consejo.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 4.
 
-El Consejo se integrará por cuarenta ciudadanos, emanados de las siguientes áreas:
+El Consejo se integrará por cincuenta ciudadanos, denominados consejeros, representativos de los siguientes ámbitos, regiones socioeconómicas y/o sectores productivos de la sociedad michoacana, o Grupos de Trabajo, de acuerdo con la siguiente proporcionalidad:
 
-I. Privado-empresarial;
+I. Cinco integrantes del sector privado productivo y de servicios;
 
-II. Gremial-Campesina;
+II. Cinco integrantes del sector agroalimentario: agropecuario, forestal, y pesquero;
 
-III. Sociedad civil y de la comunidad académica e investigadora; y,
+III. Cinco integrantes de la sociedad civil, considerando a los distintos grupos vulnerables;
 
-IV. Regiones socioeconómicas en que se divide el Estado, en términos de la ley en materia.
+IV. Cinco integrantes de la comunidad educativa, académica, científica y cultural;
 
-Los aspirantes deberán ser respaldados por al menos una organización representativa de las áreas a que refieren las fracciones I, II y III. Por cada área habrá diez consejeros, quienes detentarán el cargo de forma honorifica.
+V. Cinco integrantes sector logístico de servicios de transporte;
 
-Se deberá garantizar la proporcionalidad en la integración del Consejo, por lo que no podrá haber menos del sesenta por ciento de consejeros pertenecientes a un área.
+VI. Cinco integrantes del sector salud;
+
+VII. Cinco integrantes del Consejo Interreligioso de Michoacán;
+
+VIII. Cinco integrantes del sector ambiental;
+
+IX. Cinco integrantes de las comunidades originarias;
+
+X. Cinco integrantes de las comunidades de migrantes. Dos migrantes con domicilio jurídico en Michoacán y tres migrantes michoacanos con domicilios en país o países distintos a México, de acuerdo con la definición de migrantes en la Ley para la Atención de los Migrantes y sus Familias del Estado de Michoacán de Ocampo.
+
+Los consejeros detentarán el cargo de manera honorífica. Cada Consejero contará con un suplente que deberá proceder del mismo Grupo de Trabajo al que pertenece el titular. El Consejero suplente asumirá las atribuciones y responsabilidades en ausencia, temporal o definitiva, del Consejero titular. Se procurará que el Consejo esté integrado bajo el principio de la paridad de género.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 5.
 
-El Consejo tiene las siguientes obligaciones:
+El Consejo tiene las siguientes atribuciones:
 
-I. Promover el diálogo, la deliberación, la participación y la concertación entre los diferentes sujetos económicos y sociales, con el fin de impulsar la democracia, su consolidación y el fortalecimiento interinstitucional; el compromiso social, la productividad y la competitividad económica; así como el desarrollo Estatal en una política justa y equitativa;
+I. Promover el diálogo, la deliberación, la participación y la concertación entre los diferentes sujetos sociales y económicos del Estado, con el fin de impulsar la democracia, su consolidación y el fortalecimiento interinstitucional de los poderes del Estado;
 
-II. Ser un órgano de consulta de los poderes estatales y de los diferentes órdenes de gobierno, para el diseño, evaluación y seguimiento de políticas públicas, programas e instrumentos en materia económica y social;
+II. Ser un órgano de consulta de los poderes estatales y de los diferentes órdenes de gobierno, para el diseño, evaluación y seguimiento de políticas públicas, programas e instrumentos en materia económica, social, de transparencia y rendición de cuentas; impulsando la productividad y la competitividad en una economía formal, socialmente responsable y solidaria;
 
-III. Formular opiniones y recomendaciones para el diseño, elaboración, actualización, monitoreo y evaluación del Plan Estatal de Desarrollo y planes municipales, en lo relativo a los programas correspondientes en materias económica y social;
+III. Coadyuvar en la elaboración y evaluación del Plan Estatal de Desarrollo del Estado de Michoacán, y de los planes municipales;
 
-IV. Analizar los problemas generales de la situación económica y social del Estado y publicar trimestralmente informes al respecto;
+IV. Analizar trimestralmente la situación económica y social del Estado y, en su caso, formular recomendaciones que fortalezcan una política justa, incluyente y equitativa;
 
-V. Presentar ante el Congreso propuestas para la generación de iniciativas, respecto de sus opiniones y recomendaciones;
+V. Presentar ante el Congreso iniciativas ciudadanas o propuestas sobre proyectos de creación, modificación, derogación o abrogación de leyes respecto de la materia de su competencia, en los términos de esta Ley;
 
-VI. Opinar o recomendar sobre las consultas o iniciativas que le sean enviadas por los poderes del Estado y órdenes de gobierno;
+VI. Emitir opiniones o recomendaciones, cuando le sean solicitadas por los Poderes del Estado, sobre las consultas o iniciativas que le sean enviadas;
 
-VII. Proponer a las autoridades locales, opiniones y recomendaciones para promover el desarrollo económico y social;
+VII. Coadyuvar y asesorar a los organismos u organizaciones de la sociedad civil organizada, o ciudadanos en general, en el ejercicio de los mecanismos de participación ciudadana previstos en la ley, así como en la elaboración de iniciativas ciudadanas relacionados con el desarrollo económico y social del Estado;
 
-VIII. Elaborar investigaciones con visiones globales y de largo plazo; y,
+VIII. Promover la competitividad del Estado y la mejora regulatoria con la finalidad de retener talento y atraer inversión;
 
-IX. Coadyuvar y asesorar a los organismos y organizaciones de la sociedad civil organizada, en la elaboración de propuestas, evaluación y seguimiento de políticas públicas y programas que sean de interés general, relacionados con el desarrollo económico y social del Estado.
+IX. Incentivar, directamente o en coordinación con instancias públicas o privadas, la investigación científica aplicada, el desarrollo e innovación tecnológica y difundir sus resultados; y,
+
+X. Fomentar la transparencia, el acceso a la información pública, la protección de datos personales y rendición de cuentas en el Estado.
 
 ## TÍTULO SEGUNDO. DE LA INTEGRACIÓN Y FACULTADES DE LOS ÓRGANOS DEL CONSEJO
 
@@ -143,6 +165,8 @@ III. Las Comisiones.
 
 La Asamblea General constituye el órgano supremo de decisión del Consejo y estará integrada por la totalidad de los consejeros.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 8.
 
 La Asamblea General tendrá las siguientes facultades:
@@ -151,67 +175,41 @@ I. Formular opiniones y recomendaciones para el diseño y elaboración del Plan 
 
 II. Dar seguimiento y evaluar el cumplimiento del Plan Estatal de Desarrollo, así como de los programas y políticas públicas que se deriven de él;
 
-III. Emitir opinión o recomendación respecto de las iniciativas que en materia económica y social, sean presentadas ante el Congreso, y de aquellas que estén relacionadas con la presente Ley;
+III. Nombrar, por dos terceras partes de sus integrantes, al Presidente del Consejo en turno;
 
-IV. Aprobar con el voto de las dos terceras partes de sus integrantes, la propuesta de los Grupos para la integración del Consejo Directivo, que se someterá al Congreso para su ratificación de conformidad con esta Ley;
+IV. Aprobar la creación de Comisiones, permanentes o temporales, que se requieran para analizar los asuntos que competen al Consejo;
 
-V. Opinar o recomendar sobre las consultas que los Poderes del Estado le soliciten al Consejo;
+V. Conocer de las opiniones y recomendaciones que emitan las Comisiones del Consejo sobre los asuntos que le sean encomendados por el Presidente del Consejo y, en su caso, aprobarlas por mayoría de votos para convertirlas en resoluciones del Consejo;
 
-VI. Aprobar, por dos terceras partes de sus integrantes, las propuestas de iniciativas para ser presentadas al Congreso del Estado;
+VI. Aprobar, con el voto mayoritario de sus integrantes, la propuesta de los Grupos de Trabajo para la integración del Comité Directivo, e informarlo al Congreso del Estado;
 
-VII. Ratificar, por dos terceras partes de sus integrantes, al Presidente del Consejo en turno;
+VII. Conocer, y en su caso aprobar, el informe trimestral que presente el Presidente del Consejo;
 
-VIII. Conocer y en su caso aprobar semestralmente el informe que presente el Presidente del Consejo;
+VIII. Aprobar anualmente un plan de trabajo del Comité Directivo, que comprenda los temas prioritarios para el desarrollo económico y social del Estado;
 
-IX. Aprobar anualmente un plan de trabajo que comprenda los temas prioritarios para el desarrollo económico y social del Estado, que serán analizados y presentados ante el Gobernador o el Congreso, según sea el caso;
+IX. Aprobar el proyecto de presupuesto del Consejo, así como las modificaciones que se requieran;
 
-X. Aprobar las comisiones que se requieran para analizar los asuntos que se presenten al Consejo;
+X. Aprobar y emitir el Reglamento Interno del Consejo, para su buen funcionamiento; así como aprobar las reformas o modificaciones a dicho instrumento; mismo que será remitido al Congreso del Estado para su conocimiento; y,
 
-XI. Aprobar el proyecto de presupuesto del Consejo;
+XI. Las demás funciones que le otorgue la Ley.
 
-XII. Conocer de las opiniones y recomendaciones que emitan las comisiones del Consejo;
-
-XIII. Emitir el Reglamento Interno del Consejo, para su buen funcionamiento; así como aprobar las reformas o modificaciones a dicho instrumento; y,
-
-XIV. Las demás funciones que le otorgue la Ley.
-
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 22 DE ABRIL DE 2016, PÁGINA 2.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 9.
 
-La Asamblea General, se renovará al término del nombramiento de los consejeros, de conformidad al escalonamiento que garantizará la temporalidad de éstos.
+La Asamblea General se renovará al término del nombramiento de los consejeros.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2016)</small>
-
-La Asamblea General deberá emitir una convocatoria pública para su integración noventa días antes del término para el cual fue electa, garantizando el principio de no discriminación, en términos de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2016)</small>
+El Presidente del Consejo, en coordinación con la Comisión de Control y Vigilancia, deberá emitir, una vez que la Asamblea lo haya aprobado, una convocatoria pública para su nueva integración, noventa días antes del término para el cual fue electa; garantizando el principio de no discriminación, en términos de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Michoacán de Ocampo.
 
 Los candidatos deberán reunir y cumplir con los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
 I. Ser ciudadano de nacionalidad mexicana en pleno ejercicio de sus derechos;
 
-II. Ser avecindado en el Estado;
+II. Ser avecindado en el Estado, salvo tratándose de migrantes conforme al artículo 4 de esta Ley;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
+III. No ser parte de órganos directivos de algún partido político, cuando menos tres años antes de ser designado Consejero; y,
 
-III. Presentar Carta de no Antecedentes Penales, expedida por autoridad competente;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-IV. No ser parte de órganos directivos de algún partido político, cuando menos tres años antes de ser designado Consejero;
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-V. No ser servidor público o detentar cargo de elección popular en ningún orden de gobierno, cuando menos tres años antes de su postulación; y,
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2016)</small>
-
-VI. Las demás que señale la ley.
+IV. Las demás que señale la Ley.
 
 ###### ARTÍCULO 10.
 
@@ -259,21 +257,31 @@ La Asamblea General podrá sesionar en primera convocatoria, cuando concurran do
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL COMITÉ DIRECTIVO
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 15.
 
-El Comité Directivo es un órgano de representación del Consejo y está integrado por un Presidente, un Vicepresidente y un consejero vocal por grupo.
+El Comité Directivo es un órgano de representación del Consejo, cuyo titular será el Presidente, y estará integrado por un Consejero representante de cada uno de los diez Grupos de Trabajo señalados en el artículo 4 de la presente Ley, a quienes se les denominará Consejeros Ejecutivos.
+
+El Consejo también contará con un Secretario Técnico y un Delegado Administrativo.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 16.
 
-Para la elección de los Vicepresidentes y consejeros vocales a que se refiere el artículo anterior, cada uno de los Grupos, presentará una terna de candidatos para la vacante que le corresponde a la Asamblea General, de conformidad a lo establecido en el Reglamento y serán electos por las dos terceras partes de los miembros presentes de la Asamblea General. Durarán en su encargo cuatro años y por cada propietario se nombrará un suplente, que asumirá las funciones ante la ausencia del propietario.
+Para la elección de los Consejeros Ejecutivos a que se refiere el artículo anterior, cada uno de los Grupos de Trabajo determinará entre sus miembros y por mayoría de votos a su representante en el Comité Directivo, de conformidad a lo establecido en el Reglamento. Cada Consejero Ejecutivo contará con un suplente, quien provendrá del mismo Grupo de Trabajo que representa, quien asumirá sus funciones ante su ausencia temporal o definitiva.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 17.
 
-Para la elección del Comité Directivo, seis meses antes de la conclusión de su periodo, emitirá convocatoria pública a los cuatro Grupos, donde fijará los plazos para la entrega de propuestas, los requisitos que deberán reunir los aspirantes y el procedimiento que seguirá para su aprobación, así como la fecha en que, por acuerdo de las dos terceras partes de la Asamblea General, serán ratificados.
+Para la elección del Comité Directivo, seis meses antes de la conclusión de su periodo, emitirá convocatoria pública a los Grupos de Trabajo, donde fijará los plazos para la entrega de propuestas, los requisitos que deberán reunir los aspirantes y el procedimiento que seguirá para su aprobación, así como la fecha en que, por acuerdo de las dos terceras partes de la Asamblea General, serán ratificados.
 
-En caso de que la Asamblea General, rechace la propuesta, se deberá reponer el procedimiento.
+En caso de que la Asamblea General, rechace la propuesta, se deberaì (sic) reponer el procedimiento.
 
-Si concluyera el periodo para el cual fueron electos los integrantes del órgano directivo en funciones, sin la elección de sus sucesores, éstos continuarán en su encargo hasta en tanto la Asamblea General nombre, de conformidad con el Reglamento, a los nuevos integrantes.
+Si concluyera el periodo para el cual fueron electos los integrantes del órgano directivo en funciones, sin la elección de sus sucesores, eìstos (sic) continuarán en su encargo hasta en tanto la Asamblea General nombre, de conformidad con el Reglamento, a los nuevos integrantes.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 18.
 
@@ -281,53 +289,63 @@ Para ser integrante del Comité Directivo se requiere:
 
 I. Ser consejero en funciones; y,
 
-II. Ser propuesto como candidato por uno de los cuatro Grupos.
+II. Ser propuesto como candidato por uno de los Grupos de Trabajo.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 19.
 
-El Comité Directivo tendrá las siguientes facultades:
+El Comité Directivo tendrá las siguientes facultades y responsabilidades:
 
-I. Vigilar y garantizar la transparencia y la democracia en la elección de los consejeros;
+I. Sesionar, cuando menos, una vez cada mes, y garantizar la transparencia y la democracia en sus decisiones;
 
-II. Coordinar al personal técnico y administrativo al servicio del Consejo;
+II. Aprobar, por mayoría de votos, los nombramientos del Secretario Técnico y del Delegado Administrativo del Consejo;
 
-III. Proponer a la Asamblea General el nombramiento del Secretario Ejecutivo;
+III. Aprobar, por mayoría de votos, la gestión y administración que informe el Presidente;
 
-IV. Ratificar los nombramientos y contrataciones de las personas propuestas por el Presidente;
+IV. Aprobar la integración de las Comisiones, permanentes o temporales;
 
-V. Someter a consideración de la Asamblea General la integración de las comisiones permanentes y grupos de trabajo especiales;
+V. Conocer y aprobar, en su caso, el proyecto de presupuesto que se someterá a consideración de la Asamblea General para su aprobación; una vez que el Congreso del Estado haya aprobado la asignación respectiva dentro del Presupuesto de Egresos del Ejercicio Fiscal en turno;
 
-VI. Elaborar el proyecto de presupuesto y someterlo a consideración de la Asamblea General para su aprobación; una vez aprobado, presentarlo al Gobernador para que lo considere como parte del Presupuesto de Egresos para el Ejercicio de que se trate;
+VI. Conocer y aprobar las opiniones o recomendaciones de las Comisiones; y,
 
-VII. Conocer y aprobar las opiniones o recomendaciones; y,
-
-VIII. Presentar el informe anual de labores ante el Congreso.
+VII. Aprobar, por mayoría de votos, el Informe Anual de Labores del Presidente, para presentarlo a la Asamblea.
 
 ### CAPÍTULO TERCERO. DE LAS COMISIONES
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 20.
 
-Para cumplir con los objetivos del Consejo, se integrarán comisiones, integradas con un mínimo de tres y un máximo de cinco elementos. El Presidente del Consejo, nombrará en términos del Reglamento, a propuesta de los Grupos, los integrantes de éstas, de acuerdo con el programa anual de actividades y en correspondencia a los sectores, cadenas y regiones productivas del Estado, en razón de temas relevantes de la problemática social y de las consultas al Consejo que realicen los poderes y órdenes de gobierno.
+Para cumplir con los objetivos del Consejo, se constituirán Comisiones, permanentes o temporales, a propuesta del Presidente, mismas que deberán ser aprobadas por el Comité Directivo, de acuerdo a los términos del Reglamento. Serán integradas con un mínimo de tres y un máximo de cinco consejeros, y una vez conformadas se informará a la Asamblea de su integración y objetivos.
 
-Las comisiones que determine el Consejo, estarán integradas de manera plural, a fin de garantizar la participación de todos los sectores representados en el Consejo. Los miembros de las mismas nombrarán a un Presidente, quien tendrá voto de calidad y contará con la asistencia de un Secretario Técnico.
+Se deberá procurar que las comisiones que determine el Comité Directivo estén integradas de manera plural, a fin de garantizar la participación de todos los Grupos de Trabajo representados en el Consejo. Los miembros de las mismas nombrarán a un Presidente, quien tendrá voto de calidad y, durante las sesiones, contará con el apoyo del Secretario Técnico del Consejo. A las sesiones de las Comisiones se podrá invitar a participar a servidores públicos, legisladores o profesionistas independientes especialistas del tema a tratar, aun cuando no sean integrantes de los Grupos de trabajo que constituyen el Consejo.
 
-Las comisiones serán responsables de analizar y resolver los asuntos que le sean turnados por el Presidente, así como presentar las opiniones o recomendaciones a la Asamblea General, para su aprobación.
+Las Comisiones serán responsables de analizar y resolver los asuntos que le sean turnados por el Presidente, de acuerdo con lo que haya dispuesto sobre el particular el Comité Directivo.
+
+Las opiniones o recomendaciones que emitan las Comisiones serán presentadas al Comité Directivo, para que este órgano las apruebe en su caso, o por su trascendencia se informe a la Asamblea General para su aprobación.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 21.
 
-Se conforma la comisión de control y vigilancia integrada por un representante de cada uno de los Grupos que no pertenezcan al Comité Directivo y tendrá las siguientes funciones:
+Se conforma la Comisión de Control y Vigilancia del Consejo cuyo Presidente será un consejero electo por la Asamblea General y estará integrada por un representante de cada uno de los Grupos de Trabajo, y que no pertenezcan al Comité Directivo, la que tendrá las siguientes funciones:
 
-I. Supervisar el cumplimiento de las obligaciones establecidas en la presente Ley y su Reglamento;
+I. Vigilar el desempeño de la administración del Consejo que recaerá en el Delegado Administrativo; constatando que las actividades y acciones que realice se ejecutan en apego a las disposiciones legales aplicables en la materia del tema de que se trate, así como a las obligaciones establecidas en la presente Ley y su Reglamento;
 
-II. Sancionar el incumplimiento de la Ley y su Reglamento; y,
+II. Sancionar el incumplimiento de esta Ley y su Reglamento; y,
 
-III. Organizar y desarrollar la renovación del Consejo.
+III. Organizar y desarrollar, en coordinación con el Presidente, la renovación del Consejo.
 
 ### CAPÍTULO CUARTO. DE LA PRESIDENCIA
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 22.
 
-La Asamblea General, elegirá a propuesta de los Grupos, al Presidente, quien ejercerá sus funciones por un período de cuatro años.
+La Asamblea General elegirá, a propuesta de los Grupos de Trabajo, al Presidente, quien deberá ser ratificado por el Congreso y ejercerá sus funciones por un período de cuatro años.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 23.
 
@@ -335,29 +353,27 @@ Son facultades del Presidente:
 
 I. Tener la representación legal del Consejo;
 
-II. Convocar y presidir las sesiones de la Asamblea General y del Comité Directivo;
+II. Convocar y presidir las sesiones del Comité Directivo y de la Asamblea General;
 
-III. Presentar a los Poderes del Estado y a los ayuntamientos, según sea el caso, las opiniones o recomendaciones que emita el Consejo;
+III. Presentar, con el aval de los demás integrantes del Consejo Directivo, al Ejecutivo del Estado y a los Ayuntamientos, según sea el caso, las opiniones o recomendaciones que emita el Consejo;
 
 IV. Publicar las opiniones y recomendaciones del Consejo;
 
-V. Invitar a las sesiones de Pleno de la Asamblea General, a los representantes de los Poderes del Estado y de los ayuntamientos;
+V. Invitar a las sesiones de Comité Directivo o del Pleno de la Asamblea General, a los representantes de los Poderes del Estado y de los Ayuntamientos, cuando se considere conveniente;
 
-VI. Otorgar los nombramientos a los integrantes de las diferentes comisiones;
+VI. Firmar los nombramientos de los integrantes de las diferentes Comisiones, en los términos aprobados por el Comité Directivo;
 
-VII. Publicitar, en los términos del Reglamento, las actas de las sesiones de la Asamblea General;
+VII. Presentar, con el aval de los demás integrantes del Consejo Directivo, a la Asamblea General el informe anual sobre las actividades del Consejo Directivo;
 
-VIII. Presentar a la Asamblea General, un informe anual sobre las actividades del Consejo;
+VIII. Informar trimestralmente a la Asamblea sobre el proceso de gestión y administración del patrimonio del Consejo,
 
-IX. Administrar el patrimonio del Consejo;
+IX. Proponer al Comité Directivo, para su aprobación y contratación en su caso, los nombramientos del Secretario Técnico y del Delegado Administrativo del Consejo;
 
-X. Someter las actas de las sesiones de la Asamblea General a la consideración de la misma para su aprobación;
+X. Aprobar la contratación y, en su caso, remover libremente al personal de apoyo que requiera la operación eficaz del Consejo, de acuerdo con el Presupuesto aprobado por la Asamblea General, lo que se deberá informar oportunamente al Comité Directivo y a la Asamblea;
 
-XI. Proponer al Comité Directivo para su ratificación y a la Asamblea General para su conocimiento, los nombramientos y contrataciones del Secretario Ejecutivo y las personas que requiera para ser auxiliado en el eficaz ejercicio de sus funciones;
+XI. Tener voto de calidad, en caso de empate, en las decisiones que acuerde el Comité Directivo o la Asamblea General; y
 
-XII. Tener voto de calidad en caso de empate en las sesiones de la Asamblea General y del Comité Directivo; y,
-
-XIII. Las demás que le confiera la presente Ley, su Reglamento y normatividad aplicable.
+XII. Las demás que le confiera la presente Ley, su Reglamento y la normatividad aplicable.
 
 ###### ARTÍCULO 24.
 
@@ -371,23 +387,21 @@ La ausencia del Presidente por más de sesenta días, será considerada como def
 
 ###### ARTÍCULO 26.
 
-Cada uno de los Grupos nombrará a un Vicepresidente, quien los representará en el Comité Directivo.
+(DEROGADO, P.O. 14 DE JULIO DE 2022).
 
 ###### ARTÍCULO 27.
 
-Las ausencias temporales que no excedan de sesenta días del Presidente, serán cubiertas por un Vicepresidente, según la rotación que corresponda, en términos del Reglamento.
+(DEROGADO, P.O. 14 DE JULIO DE 2022).
 
 ### CAPÍTULO SEXTO. DEL SECRETARIADO EJECUTIVO
 
 ###### ARTÍCULO 28.
 
-El Secretario Ejecutivo auxiliará al Presidente y a las Comisiones, en el desarrollo de sus funciones y tendrá las responsabilidades que el Reglamento de esta Ley y disposiciones afines establezcan.
-
-Coordinará además el trabajo de los consultores externos, cuando sean requeridos por el Consejo.
+(DEROGADO, P.O. 14 DE JULIO DE 2022).
 
 ###### ARTÍCULO 29.
 
-El Secretario Ejecutivo será contratado por el Presidente a partir del día de su ratificación y durará en su encargo mientras esté en funciones el Presidente que lo propuso.
+(DEROGADO, P.O. 14 DE JULIO DE 2022).
 
 ## TÍTULO TERCERO. DE LAS CONSULTAS, OPINIONES Y RECOMENDACIONES
 
@@ -429,9 +443,11 @@ El Consejo podrá contar con la asesoría de consultores externos, de acuerdo a 
 
 ## TÍTULO CUARTO. DEL PATRIMONIO Y PRESUPUESTO DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 36.
 
-El Consejo contará con patrimonio propio. El Presupuesto de Egresos del Estado deberá prever los recursos financieros que aseguren su eficaz funcionamiento y cumplimiento de sus objetivos.
+El Consejo contará con patrimonio propio, con capacidad para decidir sobre su presupuesto y determinar su organización interna y funcionamiento. El Presupuesto de Egresos del Estado deberá prever los recursos financieros a través de una unidad programática presupuestal (UPP) que aseguren su eficaz funcionamiento y cumplimiento de sus objetivos.
 
 ###### ARTÍCULO 37.
 
@@ -480,3 +496,15 @@ P.O. 22 DE ABRIL DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 192.- SE REFORMAN LOS ARTÍCULO 2, 3, 4, 5, 8, 9, 15, 16, 17, 18, 19, 20, 21, 22, 23 Y 36; Y SE DEROGAN LOS ARTÍCULOS 26, 27, 28 Y 29, TODOS DE LA LEY DEL CONSEJO ECONÓMICO Y SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor una vez que sea publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Respecto al nombramiento del Presidente del Consejo, se estará a lo dispuesto por el artículo transitorio quinto del Presupuesto de Egresos del Gobierno del Estado de Michoacán de Ocampo, para el Ejercicio Fiscal 2022, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el día 27 de diciembre del año 2021.
+
+TERCERO. El Consejo, una vez integrado, contará con ciento veinte días para elaborar su Reglamento, el que será enviado al Congreso para su conocimiento, antes de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+CUARTO. Notifíquese el presente Decreto al Gobernador para su conocimiento y fines conducentes.
