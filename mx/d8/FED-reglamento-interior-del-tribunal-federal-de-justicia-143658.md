@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-143658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-07-17"
-last_updated: "2021-04-14"
+last_updated: "2022-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-07-08"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2022.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de julio de 2020.
 
@@ -853,7 +855,9 @@ X. Centro III, que comprende los municipios de: Acámbaro, Apaseo el Alto, Apase
 
 XI. Norte-Este del Estado de México, que comprende los municipios de: Acolman, Aculco, Amecameca, Apaxco, Atenco, de la Llave; Atizapán de Zaragoza, Atlautla, Axapusco, Ayapango, Coacalco de Berriozábal, Cocotitlán, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chalco, Chapa de Mota, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatepec de Morelos, Ecatzingo, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Ixtapaluca, Jaltenco, Jilotepec, Jilotzingo, Juchitepec, La Paz, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nezahualcóyotl, Nicolás Romero, Nopaltepec, Otumba, Ozumba, Papalotla, Polotitlán, San Martín de las Pirámides, Soyaniquilpan de Juárez, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco, Tonanitla, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Valle de Chalco Solidaridad, Villa del Carbón y Zumpango;
 
-XII. Oriente, que comprende el Estado de Puebla;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+XII. Oriente, que comprende los Estados de Puebla y Tlaxcala.
 
 XIII. Golfo, que comprende el Estado de Veracruz de Ignacio de la Llave;
 
@@ -885,7 +889,7 @@ XXVI. Tabasco, que comprende el Estado de Tabasco;
 
 XXVII. Hidalgo, que comprende el Estado de Hidalgo;
 
-XXVIII. Tlaxcala, que comprende el Estado de Tlaxcala;
+XXVIII. (DEROGADA, D.O.F. 14 DE JULIO DE 2022)
 
 XXIX. Sur del Estado de México, que comprende los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
 
@@ -917,9 +921,13 @@ X. Región del Centro III: Una Sala que se denominará, “Sala Regional del Cen
 
 XI. Región Norte-Este del Estado de México: Dos Salas que se denominarán, “Primera Sala Regional Norte-Este del Estado de México” y “Segunda Sala Regional Norte-Este del Estado de México”, con sede en Tlalnepantla, Estado de México;
 
-XII. Región de Oriente: Dos Salas que se denominaran, “Primera Sala Regional de Oriente” y “Segunda Sala Regional de Oriente”, con sede en el municipio de San Andrés Cholula, Estado de Puebla;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
 
-XIII. Región del Golfo: Una Sala que se denominará “Sala Regional del Golfo”, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave;
+XII. Región de Oriente: Tres Salas que se denominarán, “Primera Sala Regional de Oriente”, “Segunda Sala Regional de Oriente” y “Tercera Sala Regional de Oriente”, con sede en el municipio de San Andrés Cholula, Estado de Puebla;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+XIII. Región del Golfo: Dos Salas que se denominarán, “Primera Sala Regional del Golfo” y “Tercera Sala Especializada en Materia de Comercio Exterior y Segunda Sala Regional del Golfo”, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave.
 
 XIV. Región del Pacífico: Una Sala que se denominará “Sala Regional del Pacífico”, con sede en la Ciudad de Acapulco, Estado de Guerrero;
 
@@ -951,7 +959,7 @@ XXVI. Región de Tabasco: Una Sala que se denominará “Sala Regional de Tabasc
 
 XXVII. Región Hidalgo: Una Sala que se denominará “Sala Regional de Hidalgo” con sede en la Ciudad de Pachuca, Estado de Hidalgo;
 
-XXVIII. Región Tlaxcala: Una Sala que se denominará “Sala Regional de Tlaxcala”, con sede en el Municipio de Apetatitlán de Antonio Carvajal, Estado de Tlaxcala;
+XXVIII. (DEROGADA, D.O.F. 14 DE JULIO DE 2022)
 
 XXIX. Región Sur del Estado de México: Una Sala que se denominará “Sala Regional Sur del Estado de México”, con sede en la Ciudad de Toluca, Estado de México, y
 
@@ -963,7 +971,11 @@ El Tribunal tendrá Salas Regionales Especializadas cuya denominación, sede, co
 
 I. Una Sala Especializada en Materia de Propiedad Intelectual, con sede en la Ciudad de México y competencia material para tramitar y resolver, en todo el territorio nacional, los juicios que se promuevan en la vía tradicional o en línea, contra las resoluciones definitivas a que se refiere el artículo 3, fracciones I, IV, XII, XIII, XV, y último párrafo de la Ley, dictadas en aplicación de la Ley de la Propiedad Industrial, la Ley Federal del Derecho de Autor, la Ley Federal de Variedades Vegetales, así como de otros ordenamientos jurídicos nacionales o internacionales que regulen a dicha materia de Propiedad Intelectual, o por las autoridades encargadas de aplicar y de observar dichas normas, así como aquellos juicios en los que se controviertan, o que tengan alguna injerencia, derechos derivados de la citada materia;
 
-II. Una Sala Especializada en Juicios en Línea, con sede en la Ciudad de México, con competencia exclusiva para tramitar y resolver, en todo el territorio nacional, los juicios en línea o bien el que conforme a la Ley Federal de Procedimiento Contencioso Administrativo se deba tramitar de manera simultánea en línea y en la vía tradicional, que se promuevan en los supuestos señalados en los artículo 3 de la Ley, sin perjuicio de que la Sala Especializada en Materia de Propiedad Intelectual conozca de los juicios de su competencia que se tramiten en cualquiera de las vías señaladas;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+II. Una Sala Especializada Mixta en Juicios en Línea y en Materia Ambiental y de Regulación, con sede en la Ciudad de México, con competencia exclusiva para tramitar y resolver, en todo el territorio nacional, los juicios tramitados en el Sistema de Justicia en Línea versión 1.
+
+De igual forma, conocerá de los juicios promovidos respecto de resoluciones definitivas, actos administrativos y procedimientos que encuadren en la fracción III del presente artículo.
 
 III. Una Sala Especializada en Materia Ambiental y de Regulación, con sede en la Ciudad de México, que tendrá competencia material en todo el territorio nacional para:
 
@@ -1005,7 +1017,9 @@ a) La Primera Sala Especializada en Comercio Exterior, con sede en la Ciudad de 
 
 b) La Segunda Sala Especializada en Comercio Exterior, con sede en el Municipio de San Pedro Garza García, en el Estado de Nuevo León, que tendrá competencia territorial limitada a los Estados de Coahuila, Nuevo León, Tamaulipas y Zacatecas, y
 
-c) La Tercera Sala Especializada en Comercio Exterior, que será también la Quinta Sala Auxiliar, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave, que tendrá competencia territorial limitada a los Estados de Campeche, Tabasco, Veracruz de Ignacio de la Llave.
+> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2022)</small>
+
+c) La Tercera Sala Especializada en Comercio Exterior, que será también la Segunda Sala Regional del Golfo, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave, que en su carácter de especializada tendrá competencia territorial limitada a los Estados de Campeche, Tabasco y Veracruz de Ignacio de la Llave; sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Ordinaria, conforme al artículo 49, fracción XIII, de este Reglamento.
 
 V. Salas Especializadas en materia de Responsabilidades Administrativas, que tendrán competencia material para imponer sanciones a los servidores públicos y particulares que intervengan en actos vinculados con faltas administrativas graves y tramitar y resolver los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 38 de la Ley.
 
@@ -1045,9 +1059,7 @@ c) Sala Regional Sur del Estado de México y Auxiliar, con sede en la Ciudad de 
 
 d) Sala Especializada en Materia del Juicio de Resolución Exclusiva de Fondo y Primera Sala Auxiliar, con sede en la Ciudad de México, sin perjuicio de la competencia que le corresponde como Sala Auxiliar Metropolitana en términos de la fracción II de este mismo artículo, así como de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 50, fracción VI, de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 4 DE MARZO DE 2021)</small>
-
-e) Tercera Sala Especializada en Materia de Comercio Exterior y Auxiliar, con sede en la Ciudad de Xalapa-Enríquez, en el Estado de Veracruz de Ignacio de la Llave, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 50, fracción IV, inciso c), de este Reglamento.
+e) (DEROGADO, D.O.F. 14 DE JULIO DE 2022)
 
 > <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2021)</small>
 
@@ -1089,9 +1101,7 @@ n) Sala Regional del Pacífico y Auxiliar, con sede en la Ciudad de Acapulco, Es
 
 ñ) Sala Regional del Pacífico-Centro y Auxiliar, con sede en la Ciudad de Morelia, Estado de Michoacán, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXI, y 49, fracción XXI, de este Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 14 DE ABRIL DE 2021)</small>
-
-o) Sala Regional de Tlaxcala y Auxiliar, con sede en el Municipio de Apetatitlán de Antonio Carvajal, Estado de Tlaxcala, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 48, fracción XXXVIII, y 49, fracción XXVIII, de este Reglamento.
+o) (DEROGADO, D.O.F. 14 DE JULIO DE 2022)
 
 > <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2021)</small>
 
@@ -1167,7 +1177,9 @@ I. Recabar la información conducente que permita identificar contradicciones en
 
 II. Convocar a reuniones de trabajo a los Presidentes y Magistrados de las Salas, con el fin de proponer soluciones a los asuntos administrativos comunes, así como fijar los criterios aplicables para la resolución de trámites y gestiones a su cargo;
 
-III. Dirigir y supervisar operativamente a las Delegaciones Administrativas, a la Actuaría, Oficialía de Partes y al archivo común, quienes se encuentran funcionalmente a su cargo;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+III. Dirigir y supervisar operativamente a la Actuaría, Oficialía de Partes y al archivo de concentración, quienes se encuentran funcionalmente a su cargo;
 
 IV. Realizar ante la Junta y las áreas administrativas del Tribunal las gestiones y trámites administrativos que correspondan, en términos de las disposiciones jurídicas aplicables;
 
@@ -1599,7 +1611,9 @@ IX. Permitir, bajo su más estricta responsabilidad, la consulta de expedientes 
 
 X. Supervisar el uso de los sellos de la Sala, que estén bajo su cargo;
 
-XI. Vigilar la correcta depuración de los expedientes de la mesa correspondiente a la ponencia de su adscripción, y en el caso de los Secretarios de Acuerdos de Salas Regionales con sede en la Ciudad de México, verificar que los expedientes en papel tramitados en la vía tradicional que se encuentren totalmente concluidos, se remitan al Archivo de Concentración conforme a la normativa aplicable;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+XI. Supervisar que los procesos de gestión documental de los expedientes de la mesa correspondiente a la ponencia de su adscripción, se realicen conforme la normatividad aplicable;
 
 XII. Certificar la fecha en que haya quedado firme una sentencia emitida por la Sala Regional, cuando deba cumplirse en el plazo a que se refiere el artículo 52 de la Ley Federal de Procedimiento Contencioso Administrativo;
 
@@ -1781,19 +1795,27 @@ III. Registrar en el Sistema de Control y Seguimiento de Juicios o en el Sistema
 
 Se recibirán promociones en las Oficialías de Partes durante los días que determine el calendario oficial en el horario de 8:30 a 24:00 horas, salvo los días y horas que de manera excepcional autorice el Pleno General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2022)</small>
+
 ###### Artículo 88.
 
-Corresponde al Jefe de Archivo de Trámite de la Sala Superior, en el ámbito de su competencia:
+Corresponde al Jefe de Archivo de Trámite de la Sala Superior, así como a los Archivistas adscritos a las Secciones, en el ámbito de su competencia:
 
-I. Guardar y custodiar físicamente los expedientes impresos en trámite;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
 
-II. Identificar de entre los expedientes concluidos para su resguardo, el plazo de conservación y el periodo de clasificación de la información, de conformidad con el reporte que arroje el Sistema y el catálogo de disposición documental, atendiendo a los lineamientos que expida la Junta;
+I. Integrar y organizar física y electrónicamente los expedientes a su cargo para asegurar su localización y consulta;
 
-III. Elaborar los inventarios de transferencia primaria, a efecto de remitir estos al Secretario General de Acuerdos y a los Secretarios Adjuntos de Acuerdos en la Sección respectiva, en el ámbito de su competencia, para su revisión y autorización;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
 
-IV. Identificar los expedientes definitivamente concluidos para su envío al archivo de concentración y aquellos que tengan valor histórico o documental, para efectos de su selección y envío al Archivo Histórico, conforme a los criterios que al respecto emita la Junta;
+II. Resguardar los expedientes y la información que haya sido clasificada de acuerdo con la legislación en materia de transparencia y acceso a la información pública, en tanto conserve tal carácter;
 
-V. Elaborar los inventarios de transferencia secundaria y baja documental de los expedientes radicados bajo su custodia, previa revisión y autorización del Secretario General de Acuerdos y a los Secretarios Adjuntos de Acuerdos en la Sección respectiva, en el caso del Pleno Jurisdiccional de la Sala Superior;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+III. Elaborar los inventarios de transferencia primaria, a efecto de remitir estos al Secretario General de Acuerdos y a los Secretarios Adjuntos de Acuerdos en la Sección respectiva, en el ámbito de su competencia, para su revisión y autorización, identificando en su caso, aquellos que pudieran tener valores históricos;
+
+IV. (DEROGADA, D.O.F. 14 DE JULIO DE 2022)
+
+V. (DEROGADA, D.O.F. 14 DE JULIO DE 2022)
 
 VI. Transferir los expedientes listados al archivo de concentración y coadyuvar en su cotejo;
 
@@ -1801,17 +1823,23 @@ VII. Atender las solicitudes de las áreas autorizadas, de servicios de consulta
 
 VIII. Cumplir con los lineamientos y otras disposiciones que emita la Junta en materia de administración y operación de archivos, y
 
-IX. Remitir a la brevedad, los expedientes que les sean solicitados por el Pleno Jurisdiccional de la Sala Superior y las Secciones, que no hayan sido destruidos.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+IX. Remitir a la brevedad, los expedientes que les sean solicitados por el Pleno Jurisdiccional de la Sala Superior y las Secciones, que no hayan sido dados de baja documental.
 
 ###### Artículo 89.
 
 Corresponde al Encargado del Archivo de Concentración:
 
-I. Recibir para su custodia los expedientes en papel de asuntos concluidos de la Sala Superior, del Pleno Jurisdiccional, de las Secciones, de las Salas Regionales con sede en la Ciudad de México, así como aquellos expedientes que le remitan la Presidencia del Tribunal; relacionarlos y mantener su orden, conforme a las disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+I. Recibir para su custodia los expedientes en papel de asuntos concluidos de la Sala Superior, del Pleno Jurisdiccional, de las Secciones, de las Salas Regionales con sede en la Ciudad de México, así como aquellos expedientes que le remitan la Presidencia del Tribunal, la Junta, las Secretarías y sus unidades administrativas, direcciones generales, y coordinaciones, así como el Centro de Estudios; relacionarlos y mantener su orden, conforme a las disposiciones legales y reglamentarias aplicables;
 
 II. Llevar a cabo la administración, organización y resguardo del archivo de concentración con sede en la Ciudad de México, así como atender las solicitudes de las áreas autorizadas, de servicios de consulta, préstamo, reproducción y reenvió de los expedientes al archivo de trámite e informar a la Dirección General de Archivos la reclasificación del expediente;
 
-III. Llevar a cabo las gestiones conducentes para la destrucción de los expedientes o archivos que se encuentran bajo su resguardo, conforme a los acuerdos de la Junta;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+III. Promover la baja documental de los expedientes que integran las series documentales que hayan cumplido su vigencia documental y, en su caso, plazos de conservación y que no posean valores históricos, conforme a las disposiciones jurídicas aplicables;
 
 IV. Tener a su cargo la administración del Archivo Histórico, donde recibirá y cotejará los expedientes con valor histórico conforme a los inventarios autorizados, así como organizar, conservar y permitir la consulta de los documentos bajo su custodia;
 
@@ -1839,17 +1867,27 @@ VI. Resguardar y custodiar bajo su responsabilidad, los expedientes físicos que
 
 VII. Abstenerse de prestar expedientes;
 
-VIII. Identificar de entre los expedientes concluidos para su resguardo, el plazo de conservación y el periodo de clasificación de la información, de conformidad con el reporte que arroje el Sistema y el catálogo de disposición documental, atendiendo a los lineamientos que expida la Junta;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
 
-IX. Elaborar los inventarios de transferencia primaria, a efecto de remitir estos a los Magistrados titulares de las Ponencias y los Secretarios de Acuerdos respectivos, para su revisión y autorización;
+VIII. Resguardar los expedientes y la información que haya sido clasificada de acuerdo con la legislación en materia de transparencia y acceso a la información pública, en tanto conserve tal carácter;
 
-X. Depurar periódicamente el archivo a su cargo, identificando aquéllos que tengan valor histórico o documental para efectos de su selección y envío al archivo histórico del Tribunal; así como listar los expedientes terminados que constituyan baja documental, por tratarse de asuntos definitivamente concluidos y, en el caso de las Salas Regionales con sede en la Ciudad de México, enviarlos al Archivo de Concentración y coadyuvar en su cotejo;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
 
-XI. Elaborar los inventarios de transferencia secundaria y baja documental de los expedientes radicados bajo su custodia, previa revisión y autorización del Magistrado titular de la Ponencia y el Secretario de Acuerdos respectivo;
+IX. Elaborar los inventarios de transferencia primaria, a efecto de remitir estos a los Magistrados titulares de las Ponencias y los Secretarios de Acuerdos respectivos, para su revisión y autorización, identificando en su caso, aquellos que pudieran tener valores históricos;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+X. Transferir los expedientes definitivamente concluidos al archivo de concentración. Tratándose de las Salas Regionales con sede en la Ciudad de México, coadyuvar con el Archivo de Concentración para realizar dicho proceso;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+XI. En las Salas Regionales con sede distinta a la Ciudad de México, elaborar los inventarios de transferencia secundaria y baja documental de los expedientes radicados bajo su custodia, previa revisión y autorización del Magistrado titular de la Ponencia y el Secretario de Acuerdos respectivo;
 
 XII. Atender las solicitudes de las áreas autorizadas, de servicios de consulta, reproducción y reenvío de los expedientes al archivo de concentración e informar a la Dirección General de Archivos la reclasificación del expediente;
 
-XIII. Coordinarse con la Dirección General de Archivos para la destrucción de los expedientes dictaminados para baja documental, en los casos de las Salas Regionales con sede fuera de la Ciudad de México;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+XIII. Coordinarse con la Delegación Administrativa y la Dirección General de Archivos para concluir la baja documental autorizada, en los casos de las Salas Regionales con sede fuera de la Ciudad de México;
 
 XIV. Cumplir con los lineamientos y otras disposiciones que emita la Junta en materia de administración y operación de archivos;
 
@@ -1863,9 +1901,11 @@ XVII. Realizar las demás tareas que les encomiende el Magistrado Instructor a c
 
 Los responsables de cada una de las áreas del Tribunal, deberán guardar la más estricta reserva y confidencialidad respecto de los datos e información, impresa o electrónica, contenidos en los expedientes que se encuentren en sus Salas y de los demás que tengan conocimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2022)</small>
+
 ###### Artículo 92.
 
-Los responsables de cada una de las áreas del Tribunal, que reciban o envíen documentación con valores administrativos deberán ejecutar las acciones necesarias para la administración de sus archivos y gestión documental, a fin de garantizar su organización, disponibilidad, localización, integridad, conservación y depuración.
+Los responsables de cada una de las áreas del Tribunal deberán ejecutar las acciones necesarias para la administración de sus archivos y gestión documental, a fin de garantizar su organización, conservación, disponibilidad, integridad y localización expedita.
 
 Asimismo, deberán cumplir con los lineamientos y otras disposiciones que emita la Junta en materia de administración y operación de archivos.
 
@@ -2275,13 +2315,19 @@ El Titular de la Dirección General de Archivos será nombrado por la Junta y pa
 
 Corresponde a la Dirección General de Archivos:
 
-I. Proponer a la Junta el Plan Anual de Desarrollo Archivístico y formular criterios en materia de administración y concentración de archivos;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+I. Elaborar y proponer a la Junta el Programa Anual de Desarrollo Archivístico, así como formular criterios y recomendaciones en materia de organización y conservación de archivos;
 
 II. Elaborar los instrumentos de control y consulta archivística para someterlos a la aprobación de la Junta;
 
-III. Revisar que los inventarios de transferencia secundaria y baja documental, así como las fichas técnicas y las declaratorias de prevaloración de archivos estén debidamente requisitados;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
 
-IV. Verificar los procedimientos de valoración y destino final de la documentación atendiendo a los lineamientos que expida la Junta;
+III. Revisar que los inventarios de transferencia primaria, transferencia secundaria y baja documental, así como las fichas técnicas y las declaratorias de prevaloración de archivos estén debidamente requisitados;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+IV. Coordinar los procedimientos de valoración y destino final de la documentación atendiendo a los lineamientos que expida la Junta;
 
 V. Comunicar a los órganos jurisdiccionales y áreas administrativas los dictámenes de transferencia secundaria y baja documental;
 
@@ -2393,7 +2439,9 @@ IX. Tramitar, en coordinación con las áreas administrativas requirentes, los c
 
 X. Gestionar el trámite de pago a proveedores de bienes, arrendamientos y servicios, así como de obra pública, previa validación y autorización del área requirente, y en su caso, por el Administrador del respectivo contrato, en términos de los compromisos adquiridos y demás disposiciones jurídicas aplicables;
 
-XI. Mantener actualizado el inventario físico de bienes muebles, su afectación y disposición final, así como controlar el almacén central y el archivo administrativo de la Secretaría Operativa de Administración;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+XI. Mantener actualizado el inventario físico de bienes muebles, su afectación y disposición final, a excepción de los bienes informáticos, así como controlar el almacén central;
 
 XII. Realizar el aseguramiento de los bienes patrimoniales del Tribunal, y ejecutar las acciones conducentes en los casos de siniestro;
 
@@ -2923,7 +2971,9 @@ XI. Instruir los procedimientos, resolver los recursos, así como representar le
 
 XII. Supervisar que las inconformidades que presenten los particulares derivadas de los procedimientos de licitación de adquisiciones, arrendamientos, servicios diversos y obra pública que realice el personal del Tribunal, se atiendan conforme a las disposiciones jurídicas aplicables;
 
-XIII. Dirigir las actividades sobre la vigilancia en el cumplimiento de la declaración de situación patrimonial a que están obligados todos los servidores públicos adscritos a las dependencias y organismos del gobierno federal y estatal. De la realización de análisis aleatorio sobre la evaluación patrimonial de algunos servidores públicos y las aclaraciones que se lleven a cabo para su justificación y transparencia y en su caso, determinar la presunta responsabilidad, así como coordinar la debida integración del Padrón de servidores públicos obligados adscritos a este Tribunal:
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+XIII. Realizar análisis aleatorio sobre la evolución patrimonial de algunos de los servidores públicos a que se refieren las fracciones XII a XIV y último párrafo, del artículo 42 de la Ley, con independencia de las facultades que tiene la Junta de Gobierno y Administración del Tribunal respecto de los funcionarios previstos en las fracciones I a XI del último artículo en cita; así como las aclaraciones que se llevan a cabo para su justificación y transparencia y en su caso, determinar la presunta responsabilidad, así como coordinar la debida integración del padrón de servidores públicos obligados adscritos a este Tribunal.
 
 XIV. Supervisar el debido cumplimiento de las obligaciones que establecen las Leyes de Transparencia a sujetos obligados y en la atención de solicitudes de información pública;
 
@@ -3269,7 +3319,9 @@ VIII. En el caso de faltas temporales, los Presidentes de Sala Regional serán s
 
 IX. La falta temporal del Secretario General de Acuerdos, será suplida por los Secretarios Adjuntos de Acuerdos de la Primera y Segunda Sección, alternativamente, y la de éstos por aquél;
 
-X. Las ausencias temporales del titular de la Secretaría Operativa de Administración, serán suplidas por los titulares de la Dirección General de Programación y Presupuesto; Dirección General de Recursos Humanos; Dirección General de Recursos Materiales y Servicios Generales, y de la Dirección General de Delegaciones Administrativas, en el orden indicado, y en caso de ausencia de estos últimos, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2022)</small>
+
+X. Las ausencias temporales del titular de la Secretaría Operativa de Administración, serán suplidas por los titulares de la Dirección General de Programación y Presupuesto; Dirección General de Recursos Humanos; Dirección General de Recursos Materiales y Servicios Generales, de la Dirección General de Delegaciones Administrativas, y de la Dirección General de Archivos, en el orden indicado, y en caso de ausencia de estos últimos, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
 
 XI. Las ausencias temporales del titular de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, serán suplidas por los titulares de la Dirección General de Infraestructura Tecnológica, y de la Dirección General de los Sistemas de Información, en el orden indicado, y en caso de ausencia de estos últimos, serán suplidos por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
 
@@ -3305,9 +3357,13 @@ En caso de que dicha persona se negare a efectuar la aclaración o a acudir a en
 
 Asimismo, si el servidor público que ingrese al Tribunal no procediera de conformidad con el párrafo anterior, asumirá las responsabilidades correspondientes en los términos de la ley en comento.
 
-En el caso de que el servidor público que deje el cargo por cualquier motivo no formalice el Acta de Entrega - Recepción en el plazo de quince días hábiles aludido, el superior jerárquico deberá informar tal situación al Órgano Interno de Control para que proceda conforme a sus facultades.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, D.O.F. 14 DE JULIO DE 2022)</small>
 
-En este supuesto, el servidor público que deba recibir el informe de los asuntos y de los recursos correspondientes, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los expedientes, asuntos y los recursos asignados, haciéndolo del conocimiento del Órgano Interno de Control y, en su caso, del superior jerárquico para los efectos legales que correspondan.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 14 DE JULIO DE 2022)</small>
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2022)</small>
+
+Para el caso de que el servidor público deje el cargo por cualquier motivo, la Secretaría Operativa de Administración, por conducto de la Dirección General de Recursos Humanos, deberá remitir al superior jerárquico del servidor público copia de la constancia de baja del mismo, y en caso de que no se haya formalizado el acta de entrega-recepción, el superior jerárquico lo hará del conocimiento del Órgano Interno de Control.
 
 ## TRANSITORIOS.
 
@@ -3380,3 +3436,27 @@ Primero. La presente reforma entrará en vigor al día siguiente de su publicaci
 Segundo. Respecto de los juicios que se encontraban en la Décimo Tercera Sala Regional Metropolitana, en el momento de la entrada en vigor de esta reforma, continuará dicha Sala con su instrucción hasta su total resolución, en aquellos en que la resolución impugnada sea alguno de los siguientes actos: los relacionados con la materia administrativa sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Federal; los que nieguen la indemnización o que por su monto, no satisfagan al reclamante y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos de la Ley Federal de Responsabilidad Patrimonial del Estado o de las leyes administrativas federales que contengan un régimen especial de responsabilidad patrimonial del Estado; las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades, y las que decidan los recursos administrativos previstos en dicho ordenamiento; las resoluciones definitivas por las que se impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable y las que decidan los recursos administrativos previstos en dichos ordenamientos; los relacionados con la materia de pensiones civiles y los que en su carácter de Sala Auxiliar, en otras materias, determine la Junta de Gobierno y Administración.
 
 Los demás juicios se returnarán de manera aleatoria a las otras Salas Metropolitanas, a efecto de que continúen con la instrucción de los mismos hasta su resolución definitiva.
+
+D.O.F. 14 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SS/9/2022 POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA".]
+
+Primero.- Publíquese el presente Acuerdo en la página oficial del Tribunal y en el Diario Oficial de la Federación.
+
+Segundo.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en los siguientes transitorios.
+
+Tercero.- La Tercera Sala Regional de Oriente iniciará funciones el 01 de agosto de 2022; por lo que se suspenden las labores de la Sala Regional de Tlaxcala y Auxiliar y no correrán los plazos los días del 11 al 14 de julio de 2022, para llevar a cabo las acciones necesarias y realizar la transferencia electrónica de los expedientes.
+
+Cuarto.- Los juicios que se encuentren en trámite en la Sala Regional de Tlaxcala y Auxiliar que se transforma, al momento de la entrada en vigor de esta reforma, continuarán su substanciación en la ahora Tercera Sala Regional de Oriente hasta su total resolución, incluidas las etapas posteriores al juicio, como serían la instancia de Queja, Aclaración de Sentencia, Amparo o Revisión.
+
+Quinto.- En términos de lo señalado por el artículo 23, fracciones I y II de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, la Junta de Gobierno y Administración determinará la distribución de los expedientes en trámite de la Sala Regional de Tlaxcala y Auxiliar, a la Tercera Sala Regional de Oriente.
+
+Sexto.- El personal jurisdiccional que actualmente se encuentra adscrito a la Sala Regional de Tlaxcala y Auxiliar, con sede en el municipio de Apetatitlán de Antonio Carvajal, Estado de Tlaxcala, cambiará de adscripción a la Tercera Sala Regional de Oriente con sede en el Municipio de San Andrés Cholula, Estado de Puebla, para el respeto de sus derechos y garantías laborales.
+
+Séptimo.- La Tercera Sala Especializada en Materia de Comercio Exterior y Segunda Sala Regional del Golfo iniciará funciones el 15 de agosto de 2022.
+
+Octavo.- La reforma relativa a la Sala Especializada Mixta en Juicios en Línea y en Materia Ambiental y de Regulación, surtirá efectos a partir del primer día hábil de octubre de 2022.
+
+Noveno.- La Sala Especializada Mixta en Juicios en Línea y en Materia Ambiental y de Regulación, y la Tercera Sala Especializada en Materia de Comercio Exterior y Segunda Sala Regional del Golfo comenzarán a recibir asuntos respecto de su nueva competencia, una vez que entre en vigor la reforma respectiva, en términos de los presentes Transitorios.
+
+Décimo.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
