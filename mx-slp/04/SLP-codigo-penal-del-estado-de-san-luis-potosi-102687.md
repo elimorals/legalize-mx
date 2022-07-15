@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2022-06-08"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3931,7 +3931,9 @@ VII. Autorice transportar cualquier residuo considerado como peligroso por sus c
 
 VIII. Preste sus servicios como auditor técnico, especialista o perito o especialista en materia de impacto ambiental, forestal, en vida silvestre, pesca u otra materia ambiental, y falte a la verdad provocando con ello que se cause un daño a los recursos naturales; a la flora; la fauna; los ecosistemas; la calidad del agua; o al ambiente.
 
-Los delitos previstos en el presente capítulo se perseguirán de oficio y en su caso, por la denuncia o querella que presente la Secretaria de Ecología y Gestión Ambiental.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
+Los delitos previstos en el presente capítulo se perseguirán de oficio y, en su caso, por la denuncia o querella que presente la Secretaría de Ecología y Gestión Ambiental, así como cualquier persona o autoridad.
 
 ### CAPÍTULO VIII. Tráfico de Influencia
 
@@ -4001,9 +4003,11 @@ VII. Realice obras, o edificaciones en suelos destinados a, vialidades; áreas v
 
 Para los efectos de los capítulos, I, II, III, y V, del presente Título, se estará a las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección Ambiental; la Ley Ambiental del Estado de San Luis Potosí; y la Ley Estatal de Protección a los Animales; así como las determinadas en los ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 310.
 
-Los delitos previstos en los capítulos I a III del presente Título se perseguirán por querella; salvo que el daño ambiental ocasionado sea irreversible, en cuyo caso se perseguirán de oficio.
+Los delitos previstos en los capítulos I a III del presente Título se perseguirán por denuncia o querella interpuesta por cualquier persona o autoridad, salvo que el daño ambiental ocasionado sea irreversible, en cuyo caso, se perseguirán de oficio.
 
 ###### ARTÍCULO 311.
 
@@ -5798,3 +5802,11 @@ P.O. 8 DE JUNIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0362.- SE REFORMAN LOS ARTÍCULOS 109 EN SU FRACCIÓN IV Y 175 EN SU PÁRRAFO PRIMERO; Y ADICIONA EL ARTÍCULO 175 BIS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 305 EN SU PÁRRAFO ÚLTIMO Y 310, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
