@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2022-05-23"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -3257,6 +3257,10 @@ Los vicios o defectos a que haya lugar en las Actas del Registro del Estado Fami
 
 La corrección de los vicios o defectos de carácter genérico o específico que contengan las Actas del Estado Familiar, será realizada por el oficial que corresponda en base a la resolución que emita el Director del Registro del Estado Familiar.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+La persona titular del Acta, o la que demuestre tener interés jurídico directo, podrá presentar la solicitud de corrección de Actas ante la Dirección del Registro del Estado Familiar, través del o la, Oficial del Registro del Estado Familiar del municipio que corresponda y, además, podrá recibir con autorización de la persona solicitante, la resolución que emita aquella.
+
 ###### Artículo 477.
 
 La resolución a que se refiere el Artículo anterior, se hará por triplicado, siendo una copia de ésta para la Dirección del Registro del Estado Familiar, otra para Oficialía del Registro del Estado Familiar que levantó el Acta original, y la otra para el promovente, debiendo consignarse en las actas correspondientes.
@@ -3450,3 +3454,9 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 190 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 220 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 476 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
