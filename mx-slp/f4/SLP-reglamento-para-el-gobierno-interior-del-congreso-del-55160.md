@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2022-05-24"
+last_updated: "2022-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -701,11 +701,11 @@ i) Mensaje institucional a la ciudadanía.
 
 ### CAPITULO I. DE LAS FORMALIDADES DE LAS INICIATIVAS DE LEY
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 61.
 
-Quienes propongan al Congreso iniciativas de, leyes, decretos, acuerdos administrativos o económicos, así como puntos de acuerdo, en uso de las atribuciones que les otorgan la Constitución, y la Ley Orgánica, los presentarán por escrito y en dispositivo de almacenamiento de datos, con las formalidades y procedimientos que establece el presente reglamento.
+Quienes propongan al Congreso iniciativas, así como puntos de acuerdo, en uso de las atribuciones que les otorgan la Constitución, y la Ley Orgánica, los presentarán con las formalidades y procedimientos que establece el presente Reglamento.
 
 ###### ARTICULO 62.
 
@@ -759,9 +759,9 @@ En la exposición de motivos de una iniciativa habrán de explicarse los anteced
 
 Las iniciativas de decretos se sujetarán a lo siguiente:
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-I. Deberán presentarse por escrito y en dispositivo de almacenamiento de datos; harán referencia en su planteamiento a la búsqueda de una solución relativa en un determinado tiempo y espacio, para los poderes, Ejecutivo, y Judicial del Estado, ayuntamientos, organismos descentralizados, organismos constitucionales autónomos, corporaciones, establecimientos o personas;
+I. Deberán presentarse por escrito en formato de procesador de texto, mediante el Sistema de Mensajería del Congreso, harán referencia en su planteamiento a la búsqueda de una solución relativa en un determinado tiempo y espacio, para los poderes, Ejecutivo, y Judicial del Estado, ayuntamientos, organismos descentralizados, organismos constitucionales autónomos, corporaciones, establecimientos o personas;
 
 II. El planteamiento explicará con argumentos y razonamientos su justificación;
 
@@ -819,39 +819,31 @@ Sólo aquellos puntos de acuerdo cuya materia no sea de urgente y obvia resoluci
 
 ### CAPITULO VI. DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 75.
 
-El procedimiento que seguirán las iniciativas presentadas al Congreso, será el siguiente:
+El procedimiento de las iniciativas presentadas al Congreso, será el siguiente:
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+I. Se enviarán con las formalidades que establece el artículo 131 de la Ley Orgánica, con por lo menos setenta y dos horas de anticipación a la sesión en que las conozca el Pleno;
 
-I. Serán recibidas en la oficialía de partes con por lo menos setenta horas de anticipación a la sesión en que las conozca el Pleno, además de su dispositivo de almacenamiento de datos, en original y una copia que será firmada de recibido y devuelta al proponente;
+II. Se registrarán mediante el Sistema de Mensajería del Congreso;
 
-II. La Oficialía Mayor las turnará a la Directiva del Congreso para su registro;
+III. El registro de las iniciativas se hará del conocimiento del Pleno, y la diputada o diputado que presida la Directiva las turnará mediante el Sistema de Mensajería del Congreso, a las comisiones correspondientes para su análisis y dictamen;
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2012)</small>
+IV. El dictamen de las comisiones se discutirá en el Pleno luego de su lectura, la cual podrá ser dispensada por acuerdo del Pleno, siempre que se haya publicado con la debida antelación en la Gaceta Parlamentaria;
 
-III. El registro de las iniciativas se hará del conocimiento del Pleno, y el Presidente las turnará por escrito y en dispositivo de almacenamiento de datos, a las comisiones correspondientes para su análisis y dictamen;
+V. La dispensa de trámites en el procedimiento de las iniciativas sólo será posible por acuerdo expreso de las dos terceras partes de las diputadas y los diputados presentes.
 
-IV. El dictamen de las comisiones se discutirá en el Pleno luego de su lectura; ésta podrá ser dispensada por acuerdo del Pleno, siempre que se haya publicado con la debida antelación en la Gaceta Parlamentaria;
+No podrán presentarse iniciativas en la Sesión si éstas no fueron previamente incluidas en la Gaceta Parlamentaria, excepto la dispensa enunciada en la fracción precedente.
 
-V. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2011)
-
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
-
-VI. La dispensa de trámites en el procedimiento de las iniciativas sólo será posible por acuerdo expreso de las dos terceras partes de los diputados presentes.
-
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
-
-No podrán presentarse iniciativas en la sesión si éstas no fueron previamente incluidas en la Gaceta Parlamentaria, a excepción de la dispensa enunciada en la fracción precedente.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 76.
 
-Las propuestas de iniciativas de las y los diputados, deberán estar firmadas y serán presentadas al Presidente por escrito y en dispositivo de almacenamiento de datos; podrá leer en la sesión respectiva un extracto de la misma. La iniciativa será turnada a la comisión correspondiente en los términos establecidos en la fracción III del artículo 75 de este mismo Ordenamiento.
+Las propuestas de iniciativas de las diputadas y los diputados, deberán estar firmadas y serán presentadas a quien presida la Directiva, con las formalidades que establece el artículo 131 de la Ley Orgánica; la o el iniciante podrá leer en la Sesión respectiva un extracto de la misma. La iniciativa será turnada a la comisión o comisiones correspondientes, en los términos establecidos en la fracción III del artículo 75 de este mismo Ordenamiento.
 
-El derecho de adhesión a una iniciativa deberá ser ejercido a través de la Directiva a petición del solicitante, que únicamente procederá previa consulta y aceptación del promovente, una vez que haya concluido su presentación ante el Pleno. Las adhesiones deberán asentarse en el acta de la sesión.
+El derecho de adhesión a una iniciativa se ejercerá a través de la Directiva a petición de la o el diputado solicitante; y únicamente procederá previa consulta y aceptación de la o el promovente, una vez que haya concluido su presentación ante el Pleno. Las adhesiones deberán asentarse en el acta de la Sesión.
 
 ###### ARTICULO 77.
 
@@ -1195,11 +1187,13 @@ III. El secretario dará a conocer el resultado a la Presidencia del Congreso, s
 
 IV. Si al conocerse los resultados de la votación económica en voz de la Presidencia, algún diputado solicita que se cuenten los votos, el Presidente, los secretarios y todos los diputados volverán a ponerse de pie; en primer término los que hayan votado por la afirmativa y, posteriormente, los que se hayan manifestado por la negativa.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 117.
 
-Previamente a su inclusión en la Gaceta Parlamentaria, el texto de los dictámenes aprobados por las comisiones deberá ser revisado en cuanto a redacción y estilo por la Coordinación General de Servicios Parlamentarios, la que de encontrar observaciones que trasciendan su sentido, lo comunicará por escrito a los presidentes de las comisiones de origen, a efecto de que se tomen las medidas pertinentes. El dictamen se publicará en la Gaceta hasta que lo ordenen las propias comisiones.
+Los dictámenes expedidos por las comisiones se enviarán a la Coordinación General de Servicios Parlamentarios mediante el Sistema de Mensajería del Congreso.
+
+Previamente a su inclusión en la Gaceta Parlamentaria, el texto de los dictámenes aprobados por las comisiones deberá ser revisado en cuanto a redacción y estilo, por la Coordinación señalada en el párrafo anterior, la que de encontrar observaciones que trasciendan su sentido, lo comunicará por la misma vía a las diputadas o los diputados que presidan de las comisiones de origen, para que se tomen las medidas pertinentes. El dictamen se publicará en la Gaceta hasta que lo ordenen las propias comisiones.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -1279,11 +1273,11 @@ La Junta celebrará una reunión ordinaria cada semana; por causa extraordinaria
 
 Las reuniones extraordinarias se realizarán cuando sean convocadas por el Presidente de este órgano de dirección, o cuando así lo soliciten los integrantes de esta Junta, cuyo voto ponderado en conjunto represente, al menos, más del cincuenta por ciento de los diputados que componen la Legislatura.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 123.
 
-A las reuniones ordinarias de la Junta se citará con por lo menos cuarenta y ocho horas de anticipación; en el caso de aquellas, que deban llevarse a cabo bajo la modalidad de sesiones no presenciales, mediante video conferencias, trabajo a distancia, o medios virtuales análogos que permitan la comunicación y deliberación simultánea, el citatorio se entregará mediante correo electrónico o cualquier otro medio digital. Al citatorio se deberá acompañar el orden del día propuesto, mismo que se sujetará a la aprobación de la Junta.
+A las reuniones ordinarias de la Junta se citará con por lo menos cuarenta y ocho horas de anticipación; en el caso de aquellas que deban llevarse a cabo bajo la modalidad de reuniones no presenciales, mediante video conferencias, trabajo a distancia, o medios virtuales análogos que permitan la comunicación y deliberación simultánea, el citatorio se hará llegar mediante el Sistema de Mensajería del Congreso. En el citatorio deberá incluirse el orden del día propuesto, mismo que se sujetará a la aprobación de la Junta.
 
 ###### ARTICULO 124.
 
@@ -1447,47 +1441,37 @@ De considerarlo conveniente y mediando causas que lo justifiquen, el Congreso pu
 
 #### Sección Quinta. De las Facultades de los Miembros de las Comisiones y Comités del Congreso del Estado
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 146.
 
-El Presidente de cada comisión, o comité para el desempeño de las funciones de su cargo, tendrá las siguientes atribuciones y responsabilidades:
+La diputada o el diputado que presida comisión o comité, para el desempeño de las funciones de su cargo, tendrá las siguientes atribuciones y responsabilidades:
 
-I. Instalar legalmente la comisión o comité que presida, dentro de la semana siguiente a la constitución de la misma;
+I. Instalar legalmente la comisión o comité que presida, a más tardar la semana siguiente a la constitución de la misma;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2013)</small>
+II. Presentar con oportunidad para su aprobación, el proyecto de plan anual de trabajo a que se refiere el artículo 138 de este Reglamento, el cual deberá estar homologado con la agenda legislativa;
 
-II. Presentar con oportunidad para su aprobación, el proyecto de plan anual de trabajo a que se refiere el artículo 138 de este Reglamento, el cual deberá ser congruente con la agenda legislativa;
+III. Elaborar el citatorio y el orden del día de las reuniones de la comisión o comité respectivo. Por lo que hace al orden del día, y a los citatorios, incluso en el caso de aquellas que se lleven a cabo en forma no presencial, mediante video conferencia, éste deberá ser enviado mediante el Sistema de Mensajería del Congreso a la dirección de correo electrónico que expresamente cada diputada y diputado haya autorizado para tal efecto ante quien presida, debiendo adjuntar digitalmente, en su caso, el acta de la reunión anterior; la lista de los asuntos turnados; así como la totalidad de los dictámenes y documentos que vayan a ser tratados; se enviará copia a la o el legislador cuya iniciativa se haya dictaminado y se enliste en el orden del día;
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2020)</small>
+IV. Citar a los integrantes de su comisión o comité para el desempeño de su cometido, en los términos del artículo 151 de este Reglamento;
 
-III. Elaborar el citatorio y el orden del día de las reuniones de la comisión o comité respectivo. Por lo que hace al orden del día, y a los citatorios, incluso en el caso de aquellas que se lleven a cabo en forma no presencial, mediante video conferencia, éste deberá ser enviado a la dirección de correo electrónico que expresamente cada diputado haya autorizado para tal efecto ante quien presida, debiendo adjuntar digitalmente la totalidad de los dictámenes y documentos que vayan a ser tratados; para ello marcará copia al presidente o la presidenta, a efecto de hacer constar la remisión de los documentos correspondientes;
+V. Llevar el control mensual de las asistencias de las diputadas y los diputados que integran la comisión o comité; y reportar en su caso, las faltas a la Presidencia de la Directiva, para que proceda conforme a la ley y el Reglamento;
 
-IV. Citar a los integrantes de su comisión o comité para el desempeño de su cometido;
+VI. Llevar el control del número de reuniones;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+VII. Recibir la acreditación del nombramiento de las personas que llevarán la asesoría, y el secretariado técnico de la comisión o comité, que designe la Junta;
 
-V. Llevar el control mensual de las asistencias de las diputadas y los diputados que integran la comisión o comité; y reportar, en su caso, las faltas injustificadas a la presidenta o presidente de la Directiva, para que proceda conforme a la ley;
+VIII. Ser responsable de los expedientes, y de los documentos desde el momento de recibirlos, y hasta la fecha de devolución al Pleno con el dictamen correspondiente, a través de la Coordinación General de Servicios Parlamentarios, cuando se trate de comisiones de dictamen legislativo ésta última lo dará de baja sin mayor trámite;
 
-VI. Llevar el control trimestral del número de reuniones;
+IX. Firmar el libro de registro que para tal efecto debe mantener actualizado la Oficialía Mayor, a través de la oficialía de partes, respecto de los documentos recibidos;
 
-VII. Recibir la acreditación del nombramiento del asesor y del secretario técnico de la comisión o comité que designe la Junta;
+X. Suscribir los requerimientos de información, y documentación, así como la correspondencia de la comisión;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+XI. Enlistar los expedientes que tenga en su poder y que no hayan sido resueltos al término del periodo de sesiones, y entregarlo a la Directiva, y
 
-VIII. Ser responsable de los expedientes y de los documentos desde el momento de recibirlos, y hasta la fecha de devolución al Pleno con el dictamen correspondiente, a través de la Coordinación General de Servicios Parlamentarios, cuando se trate de comisiones de dictamen legislativo ésta última lo dará de Baja sin mayor trámite;
+XII. Calificar las inasistencias de las diputadas y los diputados a las reuniones de comisión o comité, conforme a los supuestos establecidos en la Ley Orgánica, y reportar sus faltas a la Presidencia de la Directiva, para que proceda conforme a la ley, y
 
-IX. Firmar el libro de registro que para tal efecto debe mantener actualizado la Oficialía Mayor, a través de la oficialía de partes, sobre los documentos recibidos;
-
-X. Firmar los requerimientos de información y documentación, así como la correspondencia de la comisión;
-
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
-
-XI. Enlistar los expedientes que tenga en su poder y se encuentren sin resolución al término del periodo de sesiones, y entregarlo a la Directiva;
-
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2022)</small>
-
-XII. Calificar las inasistencias de las diputadas y los diputados a las reuniones de comisión o comité, conforme a los supuestos establecidos en la Ley Orgánica, y reportar sus faltas a la presidenta o presidente de la Directiva, para que proceda conforme a la ley, y
-
-XIII. Las demás que le atribuya la ley y este Reglamento.
+XIII. Las demás que le atribuya la Ley Orgánica y este Reglamento.
 
 ###### ARTICULO 147.
 
@@ -1535,17 +1519,15 @@ En la votación de los dictámenes, acuerdos o resoluciones, los diputados deber
 
 Cuando un diputado tenga un voto particular sobre un dictamen, deberá hacerlo del conocimiento del presidente de la comisión y presentarlo por escrito, a fin de adjuntarlo al dictamen previo a su entrega a la Secretaría del Congreso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 151.
 
-El presidente de la comisión o comité deberá citar a las reuniones ordinarias con por lo menos cuarenta y ocho horas de anticipación, y enviará, el orden del día; y los proyectos de dictámenes o asuntos que vayan a discutirse, en medio digital a la dirección de correo electrónico de cada uno de sus integrantes, los que se entenderán como documentos anexos al citatorio respectivo; recabando en éste el acuse de recibo correspondiente.
+La presidenta o presidente de la comisión o comité, deberá citar a las reuniones ordinarias con por lo menos cuarenta y ocho horas de anticipación, y adjuntará, el orden del día; el acta de la reunión anterior; la lista de asuntos turnados; los proyectos de dictámenes o asuntos que vayan a discutirse, a través del Sistema de Mensajería del Congreso, a la dirección de correo electrónico o cualquier medio electrónico, a cada diputada y diputado integrante, así como a las y los diputados promoventes de las iniciativas o puntos de acuerdo, cuyo dictamen se vaya a discutir, salvo en caso de reunión extraordinaria.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2017)</small>
+Cuando así lo acuerden, podrán obviar este trámite y determinar la fecha y hora de la reunión siguiente al final de cada reunión, asentándolo en el acta respectiva; no obstante, se deberá enviar toda la documentación que vaya a someterse a discusión, en los mismos términos y con la anticipación que señala el párrafo anterior.
 
-Cuando así lo acuerden, podrán obviar este trámite y determinar la fecha y hora de la reunión siguiente al final de cada reunión, asentándolo en el acta respectiva; no obstante, se deberá entregar el orden del día y documentos que vayan a someterse a discusión, en los mismos términos y con la anticipación que señala el párrafo anterior.
-
-Para las reuniones extraordinarias, cuando la urgencia del caso lo amerite, bastará con que el presidente o algún otro integrante, en atención a la trascendencia del caso a tratar, lo hagan del conocimiento inmediato de los diputados localizables.
+Para las reuniones extraordinarias, cuando la urgencia del caso lo amerite, bastará con que la diputada o el diputado que preside o algún otro integrante, en atención a la trascendencia del caso a tratar, lo hagan del conocimiento inmediato de las y los legisladores localizables.
 
 #### Sección Séptima. Del Desarrollo de las Reuniones de Comisiones y Comités
 
@@ -1715,11 +1697,11 @@ El turno que no siendo iniciativa o punto de acuerdo, y que tenga como propósit
 
 Las comisiones y comités resolverán los asuntos que se les turnen, conforme al orden cronológico en que hayan sido turnados, la urgencia, obvia resolución y factibilidad de resolverse.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 157.
 
-El presidente de cada comisión dará cuenta a los integrantes de la misma, de los asuntos que hayan sido turnados a ésta a partir de la última reunión de la comisión, proporcionándoles a los diputados que lo soliciten, copias digitalizadas en archivo electrónico que contenga los expedientes relativos; asimismo, previo acuerdo con los integrantes de la misma, determinará:
+La presidenta o el presidente de cada comisión dará cuenta a los integrantes de la misma, de los asuntos que hayan sido turnados a ésta a partir de la última reunión de la comisión, proporcionándoles a las y los diputados que lo soliciten, copias digitalizadas en archivo electrónico que contenga los expedientes relativos; asimismo, previo acuerdo con los integrantes de la misma, determinará:
 
 I. Si únicamente se toma conocimiento, caso en el que la comisión o comité deberá remitir al promovente acuse de recibo, en un término no mayor de diez días hábiles de la fecha de turno;
 
@@ -1727,9 +1709,9 @@ II. Si son para su atención y expediente respectivo, caso en el que la comisió
 
 III. Si son para estudio y dictamen, en este caso, cuando se trate de iniciativas de reformas, adiciones, derogaciones o abrogación de leyes, éstas deberán ser resueltas en un término no mayor de seis meses contados a partir de la fecha de turno; respecto a las iniciativas de nuevos ordenamientos, podrán solicitarse a la Directiva hasta dos prórrogas de tres meses cada una, cuando por la naturaleza de las mismas, la comisión estime fundado llevar a cabo, consultas, foros, realizar análisis comparativos o investigaciones de cualquier otra naturaleza; pero en ningún caso el término deberá exceder de un año.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-Una vez firmados por los integrantes de la comisión, los dictámenes deberán entregarse a la Secretaría de la Directiva, en original y copia, adjuntando el dispositivo de almacenamiento de datos correspondiente, a través de la Coordinación General de Servicios Parlamentarios, para que sean publicados en la Gaceta Parlamentaria, dentro del término que establece la ley; la copia deberá ser firmada y sellada de recibida por el área correspondiente en el momento de su recepción, y devuelta al Presidente de la comisión respectiva. En caso de que el asunto haya sido dictaminado por dos o más comisiones, la copia firmada y sellada de recibida, será devuelta al Presidente de la comisión en primer turno.
+Una vez firmados por las y los integrantes de la comisión, los dictámenes deberán enviarse en formato de procesador de texto, mediante el Sistema de Mensajería del Congreso a la Secretaría de la Directiva, a través de la Coordinación General de Servicios Parlamentarios, para que sean publicados en la Gaceta Parlamentaria, dentro del término que establece la ley. En caso de que el asunto haya sido dictaminado por dos o más comisiones, el trámite se llevará a cabo por la o el Presidente de la comisión en primer turno.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -2045,11 +2027,15 @@ I. Coordinar el uso de los recursos de informática y computación en las activi
 
 II. Utilizar los recursos informáticos del Congreso para el desarrollo de los trabajos legislativos, técnicos y administrativos, mediante la consulta de bases de datos y el acceso a sistemas de información interna y externa;
 
-III. Desarrollar un sistema eficaz de comunicación y transmisión de información en formato electrónico, mediante la integración de recursos telefónicos, internet, correo electrónico, y de otros medios disponibles;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+III. Desarrollar un sistema eficaz de comunicación y transmisión de información en formato digital, mediante la integración de recursos telefónicos, de telecomunicación, internet, correo electrónico, y de otros medios disponibles;
 
 IV. Asesorar y dar opiniones técnicas en relación a la adquisición y contratación de equipo y programas de cómputo, así como sugerir las políticas y los estándares apropiados para el desarrollo de un sistema de computación e informática integral del Poder Legislativo del Estado;
 
-V. Proporcionar el apoyo técnico para el diseño y la actualización de la página de internet del Congreso;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+V. Proporcionar el apoyo técnico para el diseño, funcionamiento y actualización de la página de internet del Congreso;
 
 VI. Implementar las medidas necesarias para que los integrantes de la Legislatura, así como el personal técnico y administrativo del Congreso, utilicen los recursos tecnológicos básicos de computación e informática disponibles;
 
@@ -2065,9 +2051,17 @@ XI. Asesorar a las autoridades competentes del Congreso del Estado, en lo relati
 
 XII. Proponer al área correspondiente, contenidos temáticos de informática para que sean incluidos en los cursos de capacitación del personal del Congreso;
 
-XIII. Coordinarse con el Instituto de Investigaciones Legislativas, para la correcta administración de la base de datos que contiene la legislación del Estado, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-XIV. Las demás que le asignen la Oficialía, Mayor y la Junta de Coordinación Política.
+XIII. Coordinarse con el Instituto de Investigaciones Legislativas, para la correcta administración de la base de datos que contiene la legislación del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2022)</small>
+
+XIV. Implementar, administrar, actualizar, y dar mantenimiento al Sistema de Mensajería de Congreso, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JULIO DE 2022)</small>
+
+XV. Las demás que le asignen la Junta, y la Oficialía Mayor.
 
 ### CAPITULO VI. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
@@ -2131,7 +2125,9 @@ IV. Al momento de su nombramiento no prestar sus servicios profesionales en la a
 
 Corresponde a la Coordinación General de Servicios Parlamentarios:
 
-I. Recibir de la oficialía de partes del Congreso, las iniciativas, la correspondencia, asuntos, y expedientes que se presenten a la Legislatura; consignarlos en los registros respectivos y entregarlos a la Directiva para su presentación al Pleno; así como llevar la secuencia de los trámites y las resoluciones sobre los mismos;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+I. Recibir, a través del software denominado Mensajería del Congreso, las iniciativas, la correspondencia, asuntos, y expedientes que se presenten a la Legislatura; consignarlos en los registros respectivos y entregarlos a la Directiva para su presentación;
 
 II. Organizar, bajo las instrucciones de la Directiva, las sesiones, el orden del día, las actas, y preparar los documentos que vayan a tratarse en las mismas, a fin de que puedan desarrollarse de conformidad con lo establecido en la Ley Orgánica, y este Reglamento;
 
@@ -2235,23 +2231,29 @@ VI. Instrumentar programas continuos de capacitación y actualización para los 
 
 VII. Las demás que le atribuya la ley y este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 189.
 
-A los asesores corresponde:
+A las y los asesores corresponde:
 
 I. Elaborar los proyectos de dictámenes sobre los asuntos que les sean turnados, conforme a los lineamientos que establezca la comisión respectiva;
 
 II. Elaborar pronunciamientos, posicionamientos, opiniones jurí dicas (sic) o técnicas, según corresponda; y demás proyectos de resolución sobre asuntos que le sean encomendados por la coordinación;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-III. Coordinarse cuando así lo requieran, con el personal administrativo y cuerpo de investigadores del Instituto de Investigaciones Legislativas, para la obtención de antecedentes, estudios comparativos, documentos y demás elementos que le permitan elaborar adecuadamente los dictámenes que se le encomienden, y
+III. Coordinarse cuando así lo requieran, con el personal administrativo y cuerpo de investigadores del Instituto de Investigaciones Legislativas, para la obtención de antecedentes, estudios comparativos, documentos y demás elementos que le permitan elaborar adecuadamente los dictámenes que se le encomienden;
 
-IV. Las demás que le asignen los presidentes de las comisiones, o le encomiende la coordinación, en relación con los dictámenes a su cargo.
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2010)</small>
+IV. Enviar a las y los diputados integrantes de la comisión mediante el Sistema de Mensajería del Congreso, el citatorio que deberá incluir el orden del día, así como los documentos que se habrán de analizar en la reunión que corresponda, y
 
-Para ser asesor de comisiones se requiere contar con título y cédula profesional legalmente expedidos; acreditar conocimientos en la materia que trate la comisión a la que se le asigne; y contar, preferentemente, con estudios de posgrado que solventen su especialidad.
+V. Las demás que le asignen los presidentes de las comisiones, o le encomiende la coordinación, en relación con los dictámenes a su cargo.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
+Para ser asesor o asesora de comisiones se requiere contar con título y cédula profesional legalmente expedidos; acreditar conocimientos en la materia que trate la comisión a la que se le asigne; y contar, preferentemente, con estudios de posgrado que solventen su especialidad.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2010)</small>
 
@@ -2990,5 +2992,13 @@ P.O. 24 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0323.- SE REFORMA EL ARTÍCULO 165, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 3° EN SU FRACCIÓN XII, DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS DEL CONGRESO DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0363.- SE REFORMAN LOS ARTÍCULOS 67 Y 131; Y SE ADICIONA EN LOS ARTÍCULOS 67, 131 Y EN EL TÍTULO DÉCIMO EL CAPÍTULO VII “DEL SOFTWARE INCRUSTADO DENOMINADO SISTEMA DE MENSAJERÍA DEL CONGRESO”, CON LOS ARTÍCULOS 146, 147 Y 148 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 61, 67, 75, 76, 117, 123, 146, 151, 157, 183, 186 Y 189; Y SE ADICIONA EN LOS ARTÍCULOS 183 Y 189, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor noventa días posteriores a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
