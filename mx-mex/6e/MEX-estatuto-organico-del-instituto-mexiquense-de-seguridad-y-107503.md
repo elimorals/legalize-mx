@@ -4,7 +4,7 @@ identifier: "MEX-estatuto-organico-del-instituto-mexiquense-de-seguridad-y-10750
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-04-21"
-last_updated: "2015-04-21"
+last_updated: "2022-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO MEXIQUENSE DE SEGURIDAD Y JUSTICIA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD MEXIQUENSE DE SEGURIDAD, PUBLICADO EN LA G.G. DE 15 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO MEXIQUENSE DE SEGURIDAD Y JUSTICIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JULIO DE 2022 (ABROGADO).
 
 Estatuto publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 21 de abril de 2015.
 
@@ -560,3 +562,17 @@ Mtro. Miguel Eduardo Rivas Hernández
 Director General del Instituto Mexiquense de Seguridad y Justicia y secretario de la Junta de Gobierno
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA UNIVERSIDAD MEXIQUENSE DE SEGURIDAD”.]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta de Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
+
+CUARTO. Se abroga el Reglamento Interno del Instituto de Profesionalización de la Agencia de Seguridad Estatal, publicado en el Periódico Oficial “Gaceta del Gobierno” el 5 de septiembre de 2008 y el Estatuto Orgánico del Instituto Mexiquense de Seguridad y Justicia, publicado en el Periódico Oficial “Gaceta del Gobierno” el 21 de abril de 2015.
