@@ -4,7 +4,7 @@ identifier: "HID-ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad-143820
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2022-05-31"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Decreto publicado en el Alcance Núm. 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -439,7 +439,9 @@ X.- Que sean entrevistados por un intérprete que pueda entenderlos, en caso de 
 
 XI.- Presentar denuncias y quejas, ante las instancias correspondientes, por el incumplimiento de esta Ley;
 
-XII.- Tratándose de niña, niño o adolescente migrante no acompañado, corresponderá al Sistema Estatal para el Desarrollo Integral de la Familia, garantizar la asistencia adecuada del menor atendiéndose en todo momento elinterés (sic) superior de la niña, niño y adolescente y su situación de vulnerabilidad; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+XII.- Tratándose de niña, niño o adolescente migrante no acompañado, corresponderá al Sistema Estatal para el Desarrollo Integral de la Familia, garantizar la asistencia adecuada del menor atendiéndose en todo momento el interés superior de la niña, niño y adolescente y su situación de vulnerabilidad, además deberá darse vista a la Procuraduría de Protección de Niñas, Niños y Adolescentes y la Familia del Estado de Hidalgo; y
 
 XIII.- Los demás que les reconozcan y confieran las normas jurídicas aplicables.
 
@@ -522,6 +524,12 @@ La Secretaría, en coordinación con dependencias federales y municipales, fomen
 ###### Artículo 20.
 
 Los requisitos para participar en la reunificación familiar, así como el procedimiento de selección, características, montos de apoyo, derechos, obligaciones y causas de suspensión de personas beneficiarias, estarán previstos en el reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+###### Artículo 20 Bis.
+
+La Secretaría podrá implementar programas para atender los impactos de la emigración en las comunidades de origen dentro del Estado de Hidalgo, especialmente en lo relacionado con la problemática de la desintegración familiar y con la atención de personas en situación de vulnerabilidad.
 
 #### SECCIÓN CUARTA. OBRA PÚBLICA Y PROYECTOS PRODUCTIVOS
 
@@ -742,5 +750,11 @@ RÚBRICA
 P.O. 31 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL " DECRETO NÚM. 202 QUE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 7 Y EL ARTÍCULO 19 BIS A LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 222 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, Y DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
