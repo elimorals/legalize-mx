@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2020-12-11"
+last_updated: "2022-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -43,9 +43,9 @@ La justicia se imparte en nombre del pueblo y se administra por el Estado a trav
 
 El ejercicio de la potestad jurisdiccional en todo tipo de procesos, corresponde exclusivamente a los órganos del Poder Judicial en los negocios que les encomienden las leyes, según los procedimientos que las mismas establezcan.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-El Tribunal Electoral, con excepción de lo dispuesto en el artículo 158 de la Constitución Política del Estado, el Tribunal de Conciliación y Arbitraje y el Tribunal de Apelación Especializado en materia de Adolescentes, serán máximas autoridades jurisdiccionales en la materia y órganos especializados del Poder Judicial; los dos primeros en los términos que establece el artículo 136 de dicha Constitución y el último por imperativo del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos; así como por lo dispuesto en las demás leyes aplicables.
+El Tribunal de Conciliación y Arbitraje, será máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial; en los términos que establece el artículo 136 de la Constitución Política de los Estados Unidos Mexicanos; así como por lo dispuesto en las demás leyes aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -57,13 +57,13 @@ I.- El Tribunal Superior de Justicia;
 
 II.- Tribunales especializados, que por razón de la materia serán:
 
-a). El Tribunal Electoral,
+a). (DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 b). (DEROGADO, P.O. 11 DE AGOSTO DE 2017)
 
 c). El Tribunal de Conciliación y Arbitraje, y
 
-d). El Tribunal de Apelación Especializado en Materia de Adolescentes;
+d). (DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 III.- Tribunales Distritales;
 
@@ -84,6 +84,10 @@ e) Mixtos, cuando deban conocer de dos o más materias;
 f) (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2015)
 
 g) (DEROGADO, P.O. 26 DE ABRIL DE 2013) (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2015)
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+
+IV BIS.-Tribunales Laborales
 
 V.- Juzgados Letrados, que en razón de la materia serán:
 
@@ -431,9 +435,9 @@ XI.- Recibir las quejas motivadas por demoras o faltas en el despacho de los neg
 
 XII.- Dar cuenta al Pleno del Tribunal de las demandas de responsabilidad civil que se presenten en contra de los Magistrados del Tribunal Superior, así como al Consejo de la Judicatura respecto de aquéllas, así como de las que se presenten en contra de los demás servidores públicos del Poder Judicial;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-XIII.- Conceder licencias económicas con goce de sueldo, por causa justificada hasta por quince días, a los Magistrados Distritales, a los Jueces y a los demás empleados del Poder Judicial que no dependan de las Salas, del Tribunal Electoral, del Tribunal de Conciliación y Arbitraje o del Tribunal de Apelación Especializado en materia de Adolescentes. Esta facultad podrá delegarse al Oficial Mayor del Poder Judicial, con excepción de las relativas a las licencias que correspondan a los Magistrados y Jueces.
+XIII.- Conceder licencias económicas con goce de sueldo, por causa justificada hasta por quince días, a los Magistrados Distritales, a los Jueces y a los demás empleados del Poder Judicial que no dependan de las Salas o del Tribunal de Conciliación y Arbitraje. Esta facultad podrá delegarse al Oficial Mayor del Poder Judicial, con excepción de las relativas a las licencias que correspondan a los Magistrados y Jueces.
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
@@ -595,9 +599,13 @@ XIV.- Las demás que le encomienden esta Ley y otros ordenamientos aplicables.
 
 Corresponde a las Salas del Tribunal, en lo general:
 
-I.- Calificar los impedimentos, recusaciones y excusas de los magistrados de los Tribunales Unitarios de Distrito, en asuntos de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-II.- Dirimir los conflictos de competencia que se susciten entre los magistrados de los Tribunales Unitarios; los que surgieren entre los demás órganos judiciales subalternos, que correspondan a jurisdicciones de distintos Tribunales Unitarios de Distrito; en estos casos, atendiendo a la materia que tenga asignada cada Sala;
+I.- Calificar los impedimentos, recusaciones y excusas de los magistrados de los Tribunales Distritales, en asuntos de sus respectivas competencias;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+II.- Dirimir los conflictos de competencia que se susciten entre los magistrados de los Tribunales Distritales; los que surgieren entre los demás órganos judiciales subalternos, que correspondan a jurisdicciones de distintos Tribunales Distritales; en estos casos, atendiendo a la materia que tenga asignada cada Sala;
 
 III.- Elegir al Presidente de la Sala;
 
@@ -635,13 +643,13 @@ II.- De los recursos de Apelación contra resoluciones que se dicten en los asun
 
 III.- En primera instancia de las causas civiles en que el Estado sea parte;
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 1991)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-IV.- En única instancia, de las demandas de responsabilidad civil presentadas contra los Magistrados de los Tribunales Unitarios de Distrito y Jueces de Primera Instancia;
+IV.- En única instancia, de las demandas de responsabilidad civil presentadas contra los Magistrados de los Tribunales Distritales y Jueces de Primera Instancia;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-V.- De los negocios que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y
+V.- De los negocios que deba conocer el Tribunal Distrital, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 1996)</small>
 
@@ -661,13 +669,17 @@ VIII.- De los demás asuntos que le encomiende la ley.
 
 La Sala en Materia Penal conocerá de los siguientes asuntos, siempre que no correspondan a la Sala Regional con jurisdicción en los distritos judiciales de Torreón y San Pedro de las Colonias:
 
-I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los jueces de Primera Instancia, en Materia Penal;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-II.- En única instancia, de las demandas de responsabilidad civil presentadas en contra de los magistrados de los Tribunales Unitarios de Distrito y jueces, derivadas de su actuación en procesos penales;
+I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los jueces de Primera Instancia, en Materia Penal y Materia Penal de adolescentes. Conforme a la ley nacional en la materia, quienes resuelvan los asuntos en segunda instancia en materia de justicia penal para adolescentes, deberán estar formados y especializados en el sistema integral de justicia penal para adolescentes;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-III.- De los negocios que deba conocer el Tribunal de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite;
+II.- En única instancia, de las demandas de responsabilidad civil presentadas en contra de los magistrados de los Tribunales Distritales y jueces, derivadas de su actuación en procesos penales;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+III.- De los negocios que deba conocer el Tribunal Distrital, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 1999)</small>
 
@@ -729,143 +741,33 @@ Para el desempeño de sus funciones cada Sala tendrá los secretarios de acuerdo
 
 ### CAPITULO IV BIS. EL TRIBUNAL ELECTORAL
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
 ###### ARTICULO 25-A.
 
-El Tribunal Electoral es un órgano especializado del Poder Judicial, dotado de autonomía, independencia y plena jurisdicción, en los términos que establece el artículo 136 de la Constitución Política del Estado y demás disposiciones aplicables.
-
-El Tribunal Electoral contará con un Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal que se requiera para el servicio, de acuerdo con el presupuesto de egresos correspondiente.
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 ###### ARTICULO 25-B.
 
-Corresponde al Pleno del Tribunal Electoral, en lo general:
-
-I.- Conocer y resolver de los asuntos de su competencia en los términos previstos por el artículo 136 de la Constitución Política del Estado y demás leyes aplicables;
-
-II.- Dictar, en la esfera de su competencia, las providencias necesarias para que la administración de la justicia electoral sea eficaz, pronta y expedita;
-
-III.- Calificar los impedimentos, las recusaciones y las excusas de los magistrados del Tribunal Electoral, en los asuntos de su respectiva competencia;
-
-IV.- Elegir, en escrutinio secreto, al Presidente del Tribunal Electoral;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-V.- Proponer al Consejo de la Judicatura la designación del personal del tribunal, en los términos de las disposiciones aplicables.
-
-La propuesta de los secretarios de estudio y cuenta la harán los magistrados a los que hayan de estar adscritos, de entre la lista que figure en la reserva judicial de su materia;
-
-VI.- Proponer al Consejo de la Judicatura el personal judicial que se haga acreedor a recibir estímulos y recompensas;
-
-VII.- Conceder licencias económicas al personal de su adscripción, con goce de sueldo o sin él, de más de cinco y hasta por quince días. Toda solicitud de licencia requiere causa justificada y las de los Secretarios de Estudio y Cuenta además, autorización del magistrado al cual estén adscritos;
-
-VIII.- Proponer al Consejo de la Judicatura, el proyecto del Reglamento Interior del Tribunal Electoral y demás acuerdos generales para regular su organización y funcionamiento interno;
-
-IX.- Las demás que le confiera esta ley u otras disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 ###### ARTICULO 25-C.
 
-Corresponde al Presidente del Tribunal Electoral:
-
-I.- Representar legalmente al Tribunal Electoral ante toda clase de autoridades federales, estatales y municipales, para el cumplimiento de sus funciones, con todas las facultades, aún las que requieran cláusula especial;
-
-II.- Distribuir por turnos, los asuntos de la competencia del Tribunal Electoral entre los magistrados que lo integran, para que los instruyan hasta ponerlos en estado de resolución con el proyecto respectivo.
-
-Los proveídos y acuerdos de los magistrados instructores, podrán ser reclamados ante el Pleno del Tribunal Electoral, dentro del término de veinticuatro horas siguientes contadas a partir de que surta efectos la notificación de la resolución de que se trate, siempre que la reclamación se presente por alguna de las partes con motivo fundado. Dicha reclamación se resolverá de plano;
-
-III.- Presidir las sesiones, dirigir la discusión de los negocios sometidos al conocimiento del Tribunal Electoral, ponerlos a votación cuando declare cerrado el debate y conservar el orden durante las audiencias;
-
-IV.- Dar a la Secretaría General de Acuerdos, los puntos que comprendan las disposiciones resolutivas votadas y aprobadas;
-
-V.- Llevar la correspondencia del Tribunal autorizándola con su firma;
-
-VI.- Aprobar las cuentas de los gastos de oficina, dando razón pormenorizada de ello cada mes al Consejo de la Judicatura del Estado;
-
-VII.- Vigilar que los Secretarios, Actuarios y demás personal adscrito al Tribunal Electoral, cumplan con sus deberes y dar cuenta al Pleno del Tribunal Electoral de los casos de inobservancia;
-
-VIII.- Conceder permisos económicos, con goce de sueldo o sin él, al personal del Tribunal Electoral hasta por cinco días. Los permisos a los Secretarios de Estudio y Cuenta, requerirán autorización del magistrado al cual se encuentren adscritos;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-IX.- Rendir por escrito al Consejo de la Judicatura un informe mensual de las labores desarrolladas por el Tribunal Electoral;
-
-X.- Llevar el turno de los magistrados supernumerarios del Tribunal Electoral, haciendo las designaciones correspondientes para suplir las faltas temporales o definitivas de los magistrados numerarios, según lo acuerde el Pleno del Tribunal Electoral;
-
-XI.- Autorizar con su firma, en unión a la del Secretario General de Acuerdos, los proveídos que emita y las actas de las sesiones del Tribunal Electoral;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-XII.- Expedir los nombramientos del personal del tribunal que acuerde el Consejo de la Judicatura, de conformidad con las disposiciones establecidas en esta ley en materia de carrera judicial;
-
-XIII.- Seleccionar y enviar mensualmente al Presidente del Tribunal Superior de Justicia, los criterios jurisprudenciales o aislados que apruebe el Tribunal Electoral, en los términos que establece esta ley, para su publicación en el Boletín de Información Judicial;
-
-XIV.- Comunicar a las autoridades correspondientes la iniciación y conclusión del proceso electoral;
-
-XV.- Formar parte del Consejo de la Judicatura del Estado con voz y voto, únicamente para los asuntos relacionados con el Tribunal Electoral;
-
-XVI.- Acordar y dar a conocer al público en general por medio de los estrados del Tribunal Electoral, el nombre y domicilio de los funcionarios autorizados para recibir documentos relativos a los medios de impugnación previstos en la ley de la materia, fuera del horario ordinario del Tribunal Electoral;
-
-XVII.- Las demás que le encomienden esta ley u otras disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 ###### ARTICULO 25-D.
 
-El Tribunal Electoral funcionará en Pleno conforme a las bases siguientes:
-
-I.- De entre los tres magistrados que lo integran, elegirán por voto secreto al Presidente del Tribunal Electoral, que durará en el cargo tres años y podrá ser reelecto por igual término;
-
-II.- Las sesiones en donde tenga verificativo la resolución de un asunto de su competencia, se sujetarán a las bases siguientes:
-
-1.- Serán públicas, excepto cuando sus integrantes determinen que deban ser secretas por que estimen que se afecta la moral o el orden público;
-
-2.- Abierta la sesión pública por el Presidente del Tribunal Electoral, el Secretario General de Acuerdos verificará el quórum legal;
-
-3.- Enseguida, el magistrado ponente hará una síntesis del asunto a tratar y explicará las consideraciones que fundamentan el proyecto de resolución;
-
-4.- A continuación, los magistrados procederán analizar y, en su caso, discutir el proyecto presentado por el magistrado ponente. En su caso, se dará lectura a determinadas constancias cuando así lo requiera alguno de los magistrados;
-
-5.- Cuando el Presidente del Tribunal estime suficientemente discutido el proyecto, lo someterá a votación. El Secretario General de Acuerdos certificará la votación;
-
-6.- El magistrado que disienta de la mayoría podrá formular observaciones o un voto particular, que se agregará a la resolución sí así lo solicita y lo presenta por escrito dentro de las cuarenta y ocho horas siguientes;
-
-7.- Cuando el proyecto sea rechazado, deberá ser presentado nuevamente a más tardar dentro de las cuarenta y ocho horas siguientes, con las observaciones o modificaciones acordadas, para su nueva discusión y, en su caso, aprobación;
-
-8.- En casos extraordinarios el Tribunal Electoral podrá diferir la resolución de un asunto listado para ser resuelto en la sesión siguiente;
-
-9.- El Secretario General de Acuerdos levantará el acta de cada sesión que contendrá una síntesis de los asuntos aprobados;
-
-10.- Al día siguiente de la sesión, el Secretario General de Acuerdos publicará en los estrados la lista de los asuntos resueltos;
-
-III.- Las sesiones ordinarias tendrán verificativo por lo menos un día hábil de cada semana, sin perjuicio de las sesiones extraordinarias que al efecto convoque el Presidente. Para la celebración de las sesiones se requerirá la presencia de los tres magistrados; en consecuencia, si algún magistrado numerario se encuentra ausente, deberá llamarse de inmediato al supernumerario que corresponda para que lo supla en la sesión;
-
-IV.- Las resoluciones serán tomadas por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar sino por impedimento, excusa o recusación, que previamente calificará el propio Tribunal Electoral. En este caso, el Presidente llamará al magistrado supernumerario que corresponda, para que supla la ausencia temporal del magistrado numerario de que se trate.
-
-Cada magistrado será ponente de los asuntos que le sean turnados;
-
-V.- Las resoluciones definitivas llevarán la firma de los magistrados presentes en la sesión y del Secretario General de Acuerdos del Tribunal Electoral. Los acuerdos de trámite y sustanciación llevarán sólo la firma del magistrado instructor y la del Secretario General de Acuerdos;
-
-VI.- Los votos particulares y las observaciones por escrito deberán ser firmadas por el magistrado que los formule y, en su caso, formarán parte de la resolución que corresponda.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 ###### ARTICULO 25-E.
 
-Las disposiciones previstas en esta ley en materia disciplinaria, responsabilidades administrativas y carrera judicial, serán aplicables al personal del Tribunal Electoral.
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 ###### ARTICULO 25-F.
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
 ###### ARTICULO 25-G.
 
-Además de lo dispuesto en este capítulo, son aplicables al Tribunal Electoral, a sus magistrados y demás servidores públicos adscritos a él, las disposiciones que establece esta ley en todo lo que resulte conducente.
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE AGOSTO DE 2017)</small>
 
@@ -1061,95 +963,25 @@ VI. Los votos particulares y las observaciones por escrito deberán ser firmadas
 
 ### CAPITULO IV QUARTER. DEL TRIBUNAL DE APELACION ESPECIALIZADO EN MATERIA DE ADOLESCENTES
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
 ###### ARTICULO 25-P.
 
-El Tribunal de Apelación Especializado en materia de Adolescentes es un órgano especializado del Poder Judicial, dotado de autonomía, independencia y plena jurisdicción, en los términos que establece esta ley y demás disposiciones aplicables.
-
-El Tribunal de Apelación Especializado en materia de Adolescentes estará integrado por un Magistrado numerario y un Magistrado supernumerario y tendrá su residencia en la capital del Estado. Contará con un Secretario General de Acuerdos y los Secretarios, Actuarios y demás personal necesario para el cumplimiento de sus funciones, de acuerdo con el presupuesto de egresos correspondiente.
-
-El Magistrado numerario y el Magistrado supernumerario serán designados por el Consejo de la Judicatura del Estado, los que deberán reunir los requisitos que para ser Magistrados Unitarios de Distrito establece esta ley, además de contar con conocimientos en la materia penal y en la prevención y tratamiento de la conducta de los adolescentes.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 ###### ARTICULO 25-Q.
 
-Corresponde al Tribunal de Apelación Especializado en materia de Adolescentes, en lo general:
-
-I. Conocer y resolver de los asuntos de su competencia en los términos previstos por la Ley de Justicia para Adolescentes del Estado y demás leyes aplicables.
-
-II. Dictar, en la esfera de su competencia, las providencias necesarias para que la administración de la justicia en materia de adolescentes sea eficaz, pronta y expedita.
-
-III. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2015)
-
-IV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2015)
-
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
-
-V. Resolver de manera definitiva e inatacable los recursos que se presenten en contra de las resoluciones que dicten los Jueces de Primera Instancia en materia Penal, cuando actúen como órganos auxiliares en materia de adolescentes, en los términos que para el efecto determine la ley de la materia.
-
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
-
-VI. Compilar los criterios que emanen de las resoluciones que dicte en asuntos de su conocimiento. Cuando en tres resoluciones ininterrumpidas por otra en contrario se sostenga el mismo criterio constituirán jurisprudencia obligatoria para los Jueces de Primera Instancia en materia Penal, cuando actúen como órganos auxiliares en materia de adolescentes
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-VII.- Proponer al Consejo de la Judicatura la designación del personal del tribunal, en los términos de las disposiciones aplicables.
-
-La propuesta de los secretarios de estudio y cuenta la hará el magistrado, de entre la lista que figure en la reserva judicial de su materia.
-
-VIII. Proponer al Consejo de la Judicatura el personal judicial que se haga acreedor a recibir estímulos y recompensas.
-
-IX. Conceder licencias económicas al personal de su adscripción, con goce de sueldo o sin él, de más de cinco y hasta por quince días. Toda solicitud de licencia requiere causa justificada.
-
-X. Proponer al Consejo de la Judicatura el proyecto del Reglamento Interior del Tribunal de Apelación Especializado en materia de Adolescentes y demás acuerdos generales para regular su organización y funcionamiento interno.
-
-XI. Las demás que le confiera esta ley u otras disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 ###### ARTICULO 25-R.
 
-Corresponde al Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes:
-
-l. Representar legalmente al Tribunal ante toda clase de autoridades federales, estatales y municipales, para el cumplimiento de sus funciones, con todas las facultades, aún las que requieran cláusula especial.
-
-II. Instruir los asuntos de su competencia hasta ponerlos en estado de resolución.
-
-III. Dar a la Secretaría General de Acuerdos, los puntos que comprendan a las resoluciones definitivas dictadas, para los efectos correspondientes.
-
-IV. Llevar la correspondencia del Tribunal autorizándola con su firma.
-
-V. Aprobar las cuentas de los gastos de oficina, dando razón pormenorizada de ello cada mes al Consejo de la Judicatura del Estado.
-
-VI. Vigilar que los Secretarios, Actuarios y demás personal adscrito al Tribunal, cumplan con sus deberes.
-
-VII. Conceder permisos económicos, con goce de sueldo o sin él, al personal del Tribunal.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-VIII.- Rendir por escrito al Consejo de la Judicatura, un informe mensual de las labores desarrolladas por el Tribunal de Apelación Especializado en materia de Adolescentes.
-
-IX. Autorizar con su firma, en unión a la del Secretario General de Acuerdos, los proveídos que emita.
-
-X. Enviar mensualmente al Presidente del Tribunal Superior de Justicia, las tesis en materia de adolescentes que serán aplicables en el Estado, para su publicación en el Boletín de Información Judicial.
-
-XI. Formar parte del Consejo de la Judicatura del Estado con voz y voto, únicamente para los asuntos relacionados con el Tribunal de Apelación Especializado en materia de Adolescentes.
-
-XII. Las demás que le encomienden esta ley u otras disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 ###### ARTICULO 25-S.
 
-Las disposiciones previstas en esta ley en materia disciplinaria, responsabilidades administrativas y carrera judicial, serán aplicables al personal del Tribunal de Apelación Especializado en materia de Adolescentes.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 ###### ARTICULO 25-T.
 
-Además de lo dispuesto en este capítulo, son aplicables al Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes y demás servidores públicos adscritos a él, las disposiciones que establece esta ley en todo lo que resulte conducente.
+(DEROGADO, P.O. 15 DE JULIO DE 2022)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1199,15 +1031,19 @@ VI. De los impedimentos, excusas y recusaciones de los Jueces de Primera Instanc
 
 VII. De los conflictos de competencia que se susciten entre los diversos órganos judiciales de su adscripción;
 
-VIII. De la resolución de las denuncias, quejas y acusaciones por faltas administrativas que se presenten en contra del personal del Tribunal Unitario;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+VIII. De la resolución de las denuncias, quejas y acusaciones por faltas administrativas que se presenten en contra del personal del Tribunal Distrital;
 
 IX. De la compilación de los criterios que emanen de las resoluciones que dicten en asuntos de su conocimiento. Cuando en tres resoluciones ininterrumpidas sostengan el mismo criterio, deberán enviar la tesis a la Sala que corresponda para que ésta fije la jurisprudencia por declaración, que confirmará o modificará el criterio; y
 
 X. De los demás asuntos que le señalen esta ley y demás disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 28.
 
-Al magistrado titular del Tribunal Unitario corresponde:
+Al Magistrado Titular del Tribunal Distrital corresponde:
 
 I.- Nombrar y remover al personal del Tribunal, en los términos que señale la Ley;
 
@@ -1221,11 +1057,11 @@ V.- Vigilar el debido desempeño de las labores del personal, tomando las medida
 
 VI.- Las demás que le confiera la Ley y el Pleno del Tribunal.
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 29.
 
-Cada Tribunal Unitario de Distrito tendrá, además del magistrado titular, los secretarios de acuerdos, de estudio y cuenta, actuarios y demás personal que requieran las necesidades del servicio y autorice el Presupuesto de Egresos.
+Cada Tribunal Distrital tendrá, además del magistrado titular, los secretarios de acuerdos, de estudio y cuenta, actuarios y demás personal que requieran las necesidades del servicio y autorice el Presupuesto de Egresos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1239,11 +1075,13 @@ En los distritos judiciales del Estado habrá los Juzgados de Primera Instancia 
 
 Los Juzgados tendrán la residencia y jurisdicción territorial que acuerde el propio Consejo.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 31.
 
-Cuando funcionen en un mismo lugar varios Juzgados de Primera Instancia en materia Civil, Mercantil o de lo Familiar, el Consejo de la Judicatura acordará el sistema de recepción, turnos y distribución de demandas entre los mismos.
+Cuando funcionen en un mismo lugar varios Juzgados de Primera Instancia en materia Civil, Mercantil, y Familiar, el Consejo de la Judicatura acordará el sistema de recepción, turnos y distribución de demandas entre los mismos. Lo mismo hará en cuanto a los Tribunales Laborales establecidos en el Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 Los Juzgados Penales conocerán por riguroso turno semanal, con excepción de aquéllos a los que en forma auxiliar se les asigne el conocimiento de diversa materia, en los que se observará lo dispuesto en el primer párrafo del presente artículo.
 
@@ -1387,7 +1225,9 @@ II. Remitir cada mes al Tribunal Superior de Justicia, por conducto de la Direcc
 
 Los Jueces de Primera Instancia deberán rendir al Consejo de la Judicatura, un informe estadístico mensual de asuntos iniciados, en trámite y concluidos, en los primeros cinco días de cada mes, uno anual en la fecha que les señale el Consejo, y los demás que le sean solicitados;
 
-III. Practicar las diligencias que el Pleno o las Salas del Tribunal, los Tribunales Unitarios, el Tribunal de Apelación Especializado en materia de Adolescentes o los Jueces del Estado, les soliciten en auxilio judicial, así como las que con el mismo carácter les sean solicitadas por los Tribunales de la Federación y de otras entidades de la República;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+III. Practicar las diligencias que el Pleno o las Salas del Tribunal, los Tribunales Distritales, o los Jueces del Estado, les soliciten en auxilio judicial, así como las que con el mismo carácter les sean solicitadas por los Tribunales de la Federación y de otras entidades de la República;
 
 IV. Administrar los recursos económicos que se asignen para el funcionamiento del juzgado, conforme a los lineamientos que acuerde el Consejo de la Judicatura;
 
@@ -1451,23 +1291,33 @@ Los Jueces Letrados Mixtos conocerán de los asuntos a que se refieren los artí
 
 Son facultades y obligaciones de los Jueces Letrados, en la esfera de su competencia, las establecidas en el artículo 38 fracciones III, V, VI, VII y VIII de esta ley.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2022)</small>
 
-### CAPITULO VIII
+### CAPITULO VIII. DE LOS TRIBUNALES LABORALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 47.
 
-(DEROGADO, P.O. 20 DE MARZO DE 2001)
+La función jurisdiccional en materia laboral en el Estado, se ejerce por los Tribunales Laborales que contarán con la competencia señalada en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, así como en la Ley Federal del Trabajo y demás disposiciones aplicables.
+
+Serán uniinstanciales y se integrarán por jueces laborales designados por el Consejo de la Judicatura, en términos de lo dispuesto por la Constitución Política del Estado de Coahuila de Zaragoza y los artículos 30, 83 y 84 de esta ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 48.
 
-(DEROGADO, P.O. 20 DE MARZO DE 2001)
+Los Tribunales Laborales tendrán el número de secretarias y secretarios instructores que determine el Consejo de la Judicatura, quienes deberán cubrir los requisitos previstos en el artículo 89 de esta ley, además de contar con experiencia en materia laboral.
+
+También contarán con el personal jurisdiccional y administrativo que considere necesario el Consejo de la Judicatura atendiendo a las necesidades de servicio y de disponibilidad presupuestaria.
 
 ### CAPITULO IX. DE LOS SECRETARIOS, OFICIAL MAYOR, ACTUARIOS Y DEMAS EMPLEADOS DE LA ADMINISTRACION DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 49.
 
-Los Secretarios de acuerdos y los actuarios, tendrán fe pública en todo lo relativo al ejercicio de su cargo. Igual fe tendrán los demás empleados de la administración de justicia que en cada caso autorice la ley, el Tribunal Superior de Justicia, Sala, Tribunal Unitario o juez de Primera Instancia, para desempeñar funciones secretariales.
+Los Secretarios de Acuerdos y los actuarios, tendrán fe pública en todo lo relativo al ejercicio de su cargo. Igual fe tendrán los demás empleados de la administración de justicia que en cada caso autorice la Ley, el Tribunal Superior de Justicia, Sala, Tribunal Distrital o Juez de Primera Instancia, para desempeñar funciones secretariales.
 
 ###### ARTICULO 50.
 
@@ -1477,11 +1327,15 @@ I.- Recibir los escritos que se les presenten, anotando al calce: la razón del 
 
 II.- Dar cuenta diariamente al Superior de quien dependa, bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la de su presentación, con los escritos, oficios, promociones y demás documentos que se reciban;
 
-III.- Autorizar los despachos, exhortos, requisitorias, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Tribunal Superior, Sala, Tribunal Unitario o juez correspondiente;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+III.- Autorizar los despachos, exhortos, requisitorias, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Tribunal Superior, Sala, Tribunal Distrital o juez correspondiente;
 
 IV.- Hacer constar en los expedientes, el día en que comienzan a correr los términos y aquel en que deban concluir; cuidando que los procedimientos se desarrollen en los términos y plazos que establece la Ley;
 
-V.- Asistir a las diligencias de prueba que se reciban en el Pleno del Tribunal, la Sala, el Tribunal Unitario o el Juez, en su caso;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+V.- Asistir a las diligencias de prueba que se reciban en el Pleno del Tribunal, la Sala, el Tribunal Distrital o el Juez, en su caso;
 
 VI.- Expedir y autorizar las copias que la ley determine o que deban darse a las partes por decreto judicial;
 
@@ -1501,7 +1355,9 @@ XII.- Evacuar las audiencias y practicar las diligencias que se les encomienden;
 
 XIII.- Remitir los expedientes al Archivo Judicial, a la Superioridad o al substituto legal, previa anotación en el libro de control;
 
-XIV.- Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del Tribunal Superior, de la Sala, Tribunal Unitario de Distrito o Juzgado, según corresponda;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+XIV.- Ordenar y vigilar que se despachen sin demora los asuntos y correspondencia del Tribunal Superior, de la Sala, Tribunal Distrital o Juzgado, según corresponda;
 
 XV.- Tener a su cargo, bajo su responsabilidad, los libros pertenecientes a la oficina, designando, entre los servidores subalternos, al que deba llevarlos;
 
@@ -1579,9 +1435,9 @@ Los pasantes de cada dependencia deberán llevar un libro y cumplir con las obli
 
 El Consejo de la Judicatura es el órgano del Poder Judicial del Estado, que tendrá como funciones la administración, vigilancia y disciplina de los órganos jurisdiccionales en los términos de esta ley. La administración de las dependencias del Pleno, la Presidencia y las Salas, estará a cargo del Presidente del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán seleccionados en cada periodo entre los de mayor antigüedad en el ejercicio de los respectivos cargos, en la última sesión que se celebre con los consejeros que concluyan en sus funciones. El Presidente del Tribunal Electoral, el Presidente del Tribunal de Conciliación y Arbitraje y el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes únicamente formarán parte del Consejo, cuando se traten asuntos relativos al Tribunal que presiden.
+El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán seleccionados en cada periodo entre los de mayor antigüedad en el ejercicio de los respectivos cargos, en la última sesión que se celebre con los consejeros que concluyan en sus funciones. El Presidente del Tribunal de Conciliación y Arbitraje únicamente formará parte del Consejo, cuando se traten asuntos relativos al Tribunal respectivo.
 
 Los consejeros deberán reunir los requisitos exigidos para ser magistrado y, salvo el Presidente, durarán tres años en su cargo. Por cada uno de los consejeros, habrá un suplente.
 
@@ -1617,9 +1473,9 @@ V.- Su funcionamiento interno se regirá por los reglamentos o acuerdos generale
 
 Son atribuciones del Consejo de la Judicatura las siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-I.- Nombrar y remover en los términos que señale la ley a los Magistrados del Tribunal de Apelación Especializado en materia de Adolescentes, a los Magistrados Distritales, a los Jueces de Primera Instancia, Jueces Letrados y demás personal del Poder Judicial que no dependa del Pleno y de la Presidencia del Tribunal Superior de Justicia;
+I.- Nombrar y remover en los términos que señale la ley a los Magistrados Distritales, a los Jueces de Primera Instancia, Jueces Letrados y demás personal del Poder Judicial que no dependa del Pleno y de la Presidencia del Tribunal Superior de Justicia;
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -1633,13 +1489,13 @@ III.- A propuesta de su Presidente, señalar o cambiar la adscripción de los ti
 
 IV.- Discutir, aprobar y/o modificar, según proceda, el proyecto del Presupuesto de Egresos que proponga el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura, con excepción del que corresponde al Tribunal Superior de Justicia y sus Salas.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-En todo caso el proyecto de presupuesto de egresos, deberá contener las partidas suficientes para el funcionamiento del Tribunal Electoral, del Tribunal de Conciliación y Arbitraje y del Tribunal de Apelación Especializado en materia de Adolescentes como órganos jurisdiccionales especializados;
+En todo caso el proyecto de presupuesto de egresos, deberá contener las partidas suficientes para el funcionamiento del Tribunal de Conciliación y Arbitraje como órgano jurisdiccional especializado;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-V.- Ordenar, por conducto del Presidente del Consejo, que la Visitaduría Judicial realice las auditorias especiales, o las visitas de inspección ordinarias o extraordinarias al Tribunal Electoral, al Tribunal de Conciliación y Arbitraje, al Tribunal de Apelación Especializado en materia de Adolescentes, a los Tribunales Distritales, a los Juzgados de Primera Instancia y a los Jueces Letrados, con objeto de proveer una mejor administración de justicia. En aquellos casos que a juicio del Presidente del Consejo sean urgentes, éste podrá ordenar las visitas extraordinarias que estime necesarias, por medio de la Visitaduría, debiendo informar de ello al Consejo de la Judicatura en la sesión más próxima. En el caso de los Juzgados Letrados, la práctica de visitas también podrá encomendarse a los Magistrados Distritales o a los Jueces de Primera Instancia.
+V.- Ordenar, por conducto del Presidente del Consejo, que la Visitaduría Judicial realice las auditorias especiales, o las visitas de inspección ordinarias o extraordinarias al Tribunal de Conciliación y Arbitraje, a los Tribunales Distritales, a los Juzgados de Primera Instancia y a los Juzgados Letrados, con objeto de proveer una mejor administración de justicia. En aquellos casos que a juicio del Presidente del Consejo sean urgentes, éste podrá ordenar las visitas extraordinarias que estime necesarias, por medio de la Visitaduría, debiendo informar de ello al Consejo de la Judicatura en la sesión más próxima. En el caso de los Juzgados Letrados, la práctica de visitas también podrá encomendarse a los Magistrados Distritales o a los Jueces de Primera Instancia.
 
 VI.- Conferir a los magistrados supernumerarios, cuando no estén en funciones, las comisiones y representaciones que juzgue pertinentes, en beneficio de la administración de justicia, con excepción de aquellas que sean competencia del Pleno del Tribunal Superior de Justicia;
 
@@ -1673,9 +1529,9 @@ XIV.- Integrar Comisiones dentro del Consejo y señalarles su duración, objeto 
 
 XV.- Dictar las bases generales de organización y funcionamiento del Instituto Estatal de Defensoría Pública de Coahuila de Zaragoza.
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-XVI.- Nombrar, a propuesta de su Presidente, al director, subdirectores, delegados y defensores de oficio de la Defensoría Jurídica Integral del Estado de Coahuila de Zaragoza.
+XVI.- Nombrar, a propuesta de su Presidente, al director, subdirectores, delegados y defensores de oficio del Instituto Estatal de Defensoría Pública de Coahuila de Zaragoza.
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1689,7 +1545,9 @@ El Consejo de Judicatura sesionará cuando menos una vez al mes, y cuando se con
 
 Para que haya quórum legal en sus sesiones, se requerirá la asistencia de su Presidente y de la mayoría de sus integrantes. A falta del primero, el quórum legal será de las dos terceras partes de sus integrantes. Sus acuerdos se tomarán por mayoría de los votos de los presentes. Cuando haya empate, tendrá calidad el sentido en que haya votado el Presidente.
 
-El Consejo de la Judicatura, por conducto del Presidente del Tribunal Superior de Justicia, podrá solicitar el auxilio de los Magistrados del Tribunal Superior de Justicia, de los Magistrados de los Tribunales Unitarios de Distrito y de los jueces, cualquiera que sea su denominación, para el mejor cumplimiento de sus funciones.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
+El Consejo de la Judicatura, por conducto del Presidente del Tribunal Superior de Justicia, podrá solicitar el auxilio de los Magistrados del Tribunal Superior de Justicia, de los Magistrados Distritales, de los Magistrados del Tribunal de Conciliación y Arbitraje, así como de los jueces de primera instancia, cualquiera que sea su denominación, para el mejor cumplimiento de sus funciones.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1705,11 +1563,11 @@ Los defensores en materia penal y de adolescentes se organizarán en un área es
 
 Sus funciones son de orden público, sus servicios serán gratuitos y se prestarán bajo los principios de probidad, honradez, profesionalismo, calidad y de manera obligatoria y las desarrollará en el territorio del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 58.
 
-Cuando deban designarse Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de Conciliación y Arbitraje el Consejo propondrá al Gobernador del Estado, las respectivas listas de candidatos, en los términos de lo dispuesto por el artículo 146 de la Constitución Política del Estado.
+Cuando deban designarse Magistrados del Tribunal Superior de Justicia, y del Tribunal de Conciliación y Arbitraje, el Consejo propondrá al Gobernador del Estado, las respectivas listas de candidatos, en los términos de lo dispuesto por el artículo 146 de la Constitución Política del Estado.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1737,17 +1595,17 @@ Las condiciones para el ingreso, formación, permanencia, ascenso y retiro del p
 
 I.- El Consejo de la Judicatura vigilará e implementará los sistemas de selección, ingreso, formación, ascenso y retiro del servicio de la judicatura;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-II.- El Consejo de la Judicatura, por conducto de la Oficialía Mayor, formará un cuerpo de aspirantes que se integrará con los abogados que deseen ingresar a la carrera judicial y que reúnan los requisitos para ocupar los cargos de entrada en las especializaciones civil, mercantil, familiar y penal, conforme a la reglamentación que se expida para las admisiones;
+II.- El Consejo de la Judicatura, por conducto de la Oficialía Mayor, formará un cuerpo de aspirantes que se integrará con los abogados que deseen ingresar a la carrera judicial y que reúnan los requisitos para ocupar los cargos de entrada en las especializaciones civil, mercantil, familiar, laboral y penal, conforme a la reglamentación que se expida para las admisiones.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 III.- El ingreso a la carrera judicial presupone la aprobación del examen de méritos, consistente en la evaluación de conocimientos, así como de los indicadores de capacidad profesional, aptitud y actitud para el cargo, conducta profesional, fama pública y antecedentes laborales; los que serán evaluados por el Consejo de la Judicatura, mediante los mecanismos que se estimen pertinentes;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-IV.- La carrera judicial se inicia en el puesto de Actuario de Juzgado Letrado y termina en el de Magistrado de Tribunal Unitario;
+IV.- La carrera judicial se inicia en el puesto de Actuario de Juzgado Letrado y termina en el de Magistrado de Tribunal Distrital.
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1757,9 +1615,9 @@ V.- Los ascensos del escalafón sólo podrán hacerse con la voluntad del intere
 
 VI.- El Consejo de la Judicatura será la única autoridad facultada para formalizar el examen de méritos y acordar nombramientos y ascensos en los términos que establece esta ley;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-VII.- Todos los Magistrados de los Tribunales Distritales, el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes; los Jueces, los Secretarios y Actuarios serán numerados en los escalafones correspondientes a sus especialidades, civil, mercantil, familiar, penal y de adolescentes;
+VII.- Todos los Magistrados de los Tribunales Distritales, los jueces de primera instancia, los jueces laborales, los Secretarios y Actuarios serán numerados en los escalafones correspondientes a sus especialidades, civil, mercantil, familiar, penal y laboral.
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1781,25 +1639,25 @@ XI.- Las promociones escalafonarias serán públicas, para que soliciten su asce
 
 XII.- Los servidores de la administración de justicia de carrera, disfrutarán de sueldos iguales cuando estén comprendidos en la misma categoría;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-XIII.- Para los efectos de la carrera judicial electoral, contenciosa-administrativa, de conciliación y arbitraje y de adolescentes se tomarán las bases establecidas en este artículo y lo que disponga en particular el Consejo de la Judicatura;
+XIII.- Para los efectos de la carrera judicial de conciliación y arbitraje se tomarán las bases establecidas en este artículo y lo que disponga en particular el Consejo de la Judicatura.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-XIV.- Los servidores públicos del Tribunal Electoral, del Tribunal de Conciliación y Arbitraje y del Tribunal de Apelación Especializado en materia de Adolescentes, podrán participar en las promociones escalafonarias de los demás órganos jurisdiccionales, pero deberán demostrar conocimientos en la materia para la que deseen concursar.
+XIV.- Los servidores públicos del Tribunal de Conciliación y Arbitraje, podrán participar en las promociones escalafonarias de los demás órganos jurisdiccionales, pero deberán demostrar conocimientos en la materia para la que deseen concursar.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-XV.- Los servidores públicos del Poder Judicial que deseen integrarse a la carrera judicial electoral, contenciosa-administrativa, de conciliación y arbitraje y/o de adolescentes, podrán hacerlo en la categoría equivalente o en una superior, siempre que demuestren conocimientos suficientes en las materias electoral, contenciosa administrativa, de conciliación y arbitraje y/o de adolescentes, en los respectivos concursos y en los términos que acuerde el Consejo de la Judicatura;
+XV.- Los servidores públicos del Poder Judicial que deseen integrarse a la carrera judicial de conciliación y arbitraje, podrán hacerlo en la categoría equivalente o en una superior, siempre que demuestren conocimientos suficientes en la materia, en los respectivos concursos y en los términos que acuerde el Consejo de la Judicatura.
 
 XVI.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 63.
 
-Las vacantes o nuevas plazas que se registren en los cargos de Magistrados del Tribunal de Apelación Especializado en materia de Adolescentes, de Tribunales Distritales, Jueces de Primera Instancia, Jueces Letrados, así como Secretarios, cualquiera que sea su categoría, y demás servidores públicos de la Administración de Justicia, serán cubiertas de acuerdo con el turno correspondiente y, en su caso, por escalafón, teniendo en cuenta los siguientes aspectos:
+Las vacantes o nuevas plazas que se registren en los cargos de Magistrados de Tribunales Distritales, Jueces de Primera Instancia, Jueces Letrados, así como Secretarios, cualquiera que sea su categoría, y demás servidores públicos de la Administración de Justicia, serán cubiertas de acuerdo con el turno correspondiente y, en su caso, por escalafón, teniendo en cuenta los siguientes aspectos:
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1837,13 +1695,13 @@ a).- Actuario de Juzgado Letrado;
 
 b).- Actuario de Juzgado de Primera Instancia;
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-c).- Actuario del Tribunal Unitario de Distrito o del Tribunal de Apelación Especializado en materia de Adolescentes;
+c).- Actuario del Tribunal Distrital;
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-d).- Actuario de las Salas del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de Conciliación y Arbitraje;
+d).- Actuario de las Salas del Tribunal Superior de Justicia, y del Tribunal de Conciliación y Arbitraje;
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1851,23 +1709,23 @@ e).- Secretario de Acuerdo y Trámite, y Secretario de Estudio y Cuenta de Juzga
 
 f).- Secretario de Acuerdo y Trámite, y de Estudio y Cuenta de Juzgado de Primera Instancia;
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-g).- Secretario de Acuerdo y Trámite, y de Estudio y Cuenta del Tribunal Unitario de Distrito o Secretario General de Acuerdos del Tribunal de Apelación Especializado en materia de Adolescentes;
+g).- Secretario de Acuerdo y Trámite, y de Estudio y Cuenta del Tribunal Distrital;
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-h).- Secretario de Estudio y Cuenta de las Salas del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de Conciliación y Arbitraje;
+h).- Secretario de Estudio y Cuenta de las Salas del Tribunal Superior de Justicia o del Tribunal de Conciliación y Arbitraje;
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-i).- Secretario de Acuerdo y Trámite de las Salas del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de Conciliación y Arbitraje;
+i).- Secretario de Acuerdo y Trámite de las Salas del Tribunal Superior de Justicia o del Tribunal de Conciliación y Arbitraje;
 
 j).- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-k).- Secretario General de Acuerdos del Tribunal Electoral o del Tribunal de Conciliación y Arbitraje;
+k).- Secretario General de Acuerdos del Tribunal de Conciliación y Arbitraje;
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1877,9 +1735,9 @@ l).- Secretario General del Pleno del Tribunal Superior de Justicia;
 
 m).- Juez de Primera Instancia o Juez Letrado;
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-n).- Magistrado del Tribunal Distrital, Magistrado del Tribunal de Apelación Especializado en Materia de Adolescentes y Magistrado de Sala Especial del Tribunal de Conciliación y Arbitraje.
+n).- Magistrado del Tribunal Distrital y Magistrado de Sala Especial del Tribunal de Conciliación y Arbitraje.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1951,23 +1809,23 @@ Cumplida la provisión de vacantes, los nombres de los aspirantes aprobados y no
 
 El Consejo de la Judicatura y el Pleno del Tribunal Superior de Justicia, deberán ser informados oportunamente del resultado general del examen, de los aspirantes aprobados y de aquellos que hubieren sido designados, así como de quienes integrarán la reserva judicial.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 73.
 
-Inmediatamente que ocurra una vacante, el titular del órgano jurisdiccional, con excepción del Presidente del Tribunal Superior de Justicia, los de las Salas, el del Tribunal Electoral y el del Tribunal de Conciliación y Arbitraje dará aviso a la Presidencia del Consejo de la Judicatura, para que se haga la designación correspondiente de entre los aspirantes que figuren en la lista de reserva.
+Inmediatamente que ocurra una vacante, el titular del órgano jurisdiccional, con excepción del Presidente del Tribunal Superior de Justicia, los de las Salas, y el del Tribunal de Conciliación y Arbitraje dará aviso a la Presidencia del Consejo de la Judicatura, para que se haga la designación correspondiente de entre los aspirantes que figuren en la lista de reserva.
 
-Los titulares de las Salas, del Tribunal Electoral y del Tribunal de Conciliación y Arbitraje harán las designaciones correspondientes respetando en todo caso el orden que corresponda en las listas de reserva, en los términos que establece esta ley.
+Los titulares de las Salas, y del Tribunal de Conciliación y Arbitraje harán las designaciones correspondientes respetando en todo caso el orden que corresponda en las listas de reserva, en los términos que establece esta ley.
 
 ###### ARTICULO 74.
 
 Cuando no haya aspirantes aprobados para cubrir una vacante porque no se registren solicitudes, o se hubiere declarado desierto el examen de méritos, podrá prescindirse provisionalmente de este requisito y hacerse designación discrecional, con carácter interino, mientras se satisface. En tal caso no se producirá ascenso en el escalafón, ni permanencia en el cargo, más allá del tiempo necesario para que se cubra dicha formalidad.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 75.
 
-Los titulares de las Salas comunicarán a la Presidencia del Tribunal Superior de Justicia la designación que hagan, a más tardar dentro del tercer día. Los presidentes del Tribunal Electoral y del Tribunal de Conciliación y Arbitraje harán lo propio ante el Presidente del Consejo de la Judicatura.
+Los titulares de las Salas comunicarán a la Presidencia del Tribunal Superior de Justicia la designación que hagan, a más tardar dentro del tercer día. El Presidente del Tribunal de Conciliación y Arbitraje hará lo propio ante el Presidente del Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -1989,11 +1847,11 @@ Los servidores públicos de base del Poder Judicial, tendrán derecho a ascensos
 
 Los nombramientos de los magistrados y jueces integrantes del Poder Judicial serán hechos, preferentemente, entre aquellas personas que hayan prestado su servicio con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 80.
 
-Para ser nombrado Magistrado del Tribunal Superior de Justicia, del Tribunal Electoral, o del Tribunal de Conciliación y Arbitraje se requiere:
+Para ser nombrado Magistrado del Tribunal Superior de Justicia o del Tribunal de Conciliación y Arbitraje se requiere:
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2025,11 +1883,11 @@ Los nombramientos de los Magistrados deberán recaer preferentemente entre aqué
 
 ARTICULO 80 BIS.- (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 81.
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de Conciliación y Arbitraje serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, el que la otorgará o negará, dentro del improrrogable término de cinco días.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, el que la otorgará o negará, dentro del improrrogable término de cinco días.
 
 La lista de candidatos podrá ser rechazada por el Ejecutivo por una sola ocasión, en cuyo caso el Consejo de la Judicatura someterá a su consideración una nueva para que formule nombramiento.
 
@@ -2037,11 +1895,11 @@ Cuando el Congreso no resuelva dentro del término que se señala para el efecto
 
 En el caso de que el Congreso del Estado no apruebe un nombramiento, el Gobernador del Estado hará una nueva designación dentro de las propuestas, que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación del propio Congreso en el siguiente período ordinario de Sesiones. En este período de sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o desaprobar el nombramiento, y si lo aprueba o nada resuelve, el magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, se reiterará el procedimiento, cesando desde luego el magistrado provisional.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 82.
 
-Para ser designado Magistrado de Tribunal Distrital o Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, se requieren los mismos requisitos que para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado, más el haber sustentado y aprobado el examen de méritos correspondiente.
+Para ser designado Magistrado de Tribunal Distrital, se requieren los mismos requisitos que para ser nombrado Magistrado del Tribunal Superior de Justicia del Estado, más el haber sustentado y aprobado el examen de méritos correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2065,11 +1923,11 @@ V.- Sustentar y aprobar el examen de méritos.
 
 Los Jueces de Primera Instancia en materia de Adolescentes deberán de contar, además, con conocimientos en la materia penal y en la prevención y tratamiento de la conducta de los adolescentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 84.
 
-Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera Instancia y los Jueces Letrados, serán nombrados por el Consejo de la Judicatura, con base en el procedimiento y requisitos que establezca la ley y demás disposiciones aplicables.
+Los Magistrados de los Tribunales Distritales, los Jueces de Primera Instancia y los Jueces Letrados, serán nombrados por el Consejo de la Judicatura, con base en el procedimiento y requisitos que establezca la ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
@@ -2095,9 +1953,9 @@ La lista de los turnos por especialidades y el estado en que se encuentren se ll
 
 Cuando los turnos estén vacantes, hasta en tanto se acuerde o realice debido procedimiento de selección y en caso de cargo vacante o plaza nueva, se designará a un interino.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-Se procederá de la misma forma señalada en los párrafos anteriores, tratándose de nombramientos de Secretarios de Tribunales Unitarios y de Juzgados de Primera Instancia, así como para los nombramientos de Secretarios de Juzgados Letrados.
+Se procederá de la misma forma señalada en los párrafos anteriores, tratándose de nombramientos de Secretarios de Tribunales Distritales y de Juzgados de Primera Instancia, así como para los nombramientos de Secretarios de Juzgados Letrados.
 
 ###### ARTICULO 85.
 
@@ -2151,15 +2009,15 @@ IV.- Sustentar y aprobar el examen de méritos.
 
 (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2001)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 92.
 
-Los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de Conciliación y Arbitraje al iniciar el ejercicio de su cargo, rendirán la protesta de Ley ante el Congreso del Estado, y en sus recesos, ante la Diputación Permanente.
+Los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje al iniciar el ejercicio de su cargo, rendirán la protesta de Ley ante el Congreso del Estado, y en sus recesos, ante la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-Los Magistrados de Distrito, los Jueces de Primera Instancia y Letrados, lo harán ante el Consejo de la Judicatura o su Presidente.
+Los Magistrados Distritales, los Jueces de Primera Instancia y Letrados, y los jueces laborales, lo harán ante el Consejo de la Judicatura o su Presidente.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -2185,11 +2043,11 @@ El periodo constitucional de los integrantes del Poder Judicial será:
 
 I.- De quince años, para los Magistrados del Tribunal Superior de Justicia;
 
-II.- De diez años, para los Magistrados del Tribunal Electoral;
+II.- (DEROGADA, P.O. 15 DE JULIO DE 2022)
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-III.- De seis años en el primer ejercicio del encargo para el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, para los Magistrados del Tribunal de Conciliación y Arbitraje y de los Tribunales Distritales, que se contará a partir de la fecha de su designación. Al término del citado período podrán ser designados nuevamente, por única vez, por un período de nueve años.
+III.- De seis años en el primer ejercicio del encargo para los Magistrados del Tribunal de Conciliación y Arbitraje y de los Tribunales Distritales, que se contará a partir de la fecha de su designación. Al término del citado período podrán ser designados nuevamente, por única vez, por un período de nueve años.
 
 Los Jueces de Primera Instancia y los Jueces Letrados durarán en el ejercicio de su cargo seis años, podrán ser reelectos, y si lo fueren, no podrán ser removidos sin previo juicio político o disciplinario, en los términos previstos por la Constitución Política del Estado, la ley de la materia y este ordenamiento.
 
@@ -2217,11 +2075,11 @@ Los magistrados numerarios, aún cuando gocen de licencia, no podrán ejercer su
 
 Para ningún cargo de la administración de justicia podrá designarse a personas que sean ascendientes, descendientes, cónyuges o colaterales, dentro del cuarto grado, por consanguinidad, segundo por afinidad, o civil, del servidor público que intervenga en la designación.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 100.
 
-No podrán formar parte de la plantilla de personal de la Presidencia, de una misma Sala, del Tribunal Electoral, del Tribunal de Conciliación y Arbitraje, del Tribunal de Apelación Especializado en materia de Adolescentes, de un Tribunal Distrital o de un Juzgado, dos o más personas que sean cónyuges o parientes entre sí, en los mismos grados a que alude el artículo anterior.
+No podrán formar parte de la plantilla de personal de la Presidencia, de una misma Sala, del Tribunal de Conciliación y Arbitraje, de un Tribunal Distrital o de un Juzgado, dos o más personas que sean cónyuges o parientes entre sí, en los mismos grados a que alude el artículo anterior.
 
 ### CAPITULO VI. DE LA TERMINACION DEL CARGO
 
@@ -2317,11 +2175,13 @@ En los casos sujetos a decisión, el presidente propondrá el acuerdo y lo somet
 
 ### CAPITULO III. DE LAS SALAS, DE LOS TRIBUNALES ESPECIALIZADOS, DE LOS TRIBUNALES DISTRITALES Y DE LOS JUZGADOS
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 111.
 
-El Poder Judicial laborará todos los días del año, excepción hecha de los sábados, domingos y aquellos días que las leyes declaren festivos, o en los que el Pleno del Tribunal acuerde que no haya actuaciones judiciales. En el año en que tengan verificativo procesos electorales, para el Tribunal Electoral todos los días y horas son hábiles para la presentación, sustanciación y resolución de los medios de impugnación, en los términos que establezca la ley de la materia y demás disposiciones aplicables.
+El Poder Judicial laborará todos los días del año, excepción hecha de los sábados, domingos y aquellos días que las leyes declaren festivos, o en los que el Pleno del Tribunal acuerde que no haya actuaciones judiciales.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
 El despacho diario del Poder Judicial se efectuará en los horarios que acuerde el Consejo de la Judicatura, previa opinión del Pleno del Tribunal y atendiendo a las necesidades del servicio.
 
@@ -2353,13 +2213,13 @@ VII.- Ejercer la supervisión y control sobre todos los servidores de su adscrip
 
 Las audiencias serán públicas, a menos que por la naturaleza del asunto, el titular del órgano considere que deben ser privadas.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-Serán presididas por el Presidente del Tribunal Superior de Justicia, el Magistrado instructor en los asuntos del Pleno, el Presidente de la Sala, el Magistrado Presidente del Tribunal Electoral, el Magistrado Presidente del Tribunal de Conciliación y Arbitraje, el Magistrado del Tribunal Distrital o el Juez. En su caso, y bajo su vigilancia, podrán delegar su dirección a un Secretario.
+Serán presididas por el Presidente del Tribunal Superior de Justicia, el Magistrado instructor en los asuntos del Pleno, el Presidente de la Sala, el Magistrado Presidente del Tribunal de Conciliación y Arbitraje, el Magistrado del Tribunal Distrital o el Juez. En su caso, y bajo su vigilancia, podrán delegar su dirección a un Secretario.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-Las audiencias del Tribunal de Apelación Especializado en materia de Adolescentes se llevarán a cabo conforme lo determina el ordenamiento que regula la justicia para adolescentes.
+Las audiencias en materia de justicia penal para adolescentes se llevarán a cabo conforme lo determina el ordenamiento que regula la justicia penal para adolescentes.
 
 ###### ARTICULO 114.
 
@@ -2389,9 +2249,9 @@ V.- De asistencia del personal;
 
 VI.- De inventario de bienes;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-VII.- Libro de medios de impugnación, en el que se registre la fecha de presentación de cualquier medio de impugnación; en su caso, la de remisión de los expedientes enviados a la Segunda Instancia y la de recepción de los expedientes provenientes de las Salas, Tribunales Unitarios u otras autoridades;
+VII.- Libro de medios de impugnación, en el que se registre la fecha de presentación de cualquier medio de impugnación; en su caso, la de remisión de los expedientes enviados a la Segunda Instancia y la de recepción de los expedientes provenientes de las Salas, Tribunales Distritales u otras autoridades.
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -2477,11 +2337,11 @@ VI.- A las personas autorizadas por el Titular, para fines docentes o de investi
 
 La vigilancia judicial tiene por objeto velar por que la justicia se administre oportuna y eficazmente, y conlleva al examen de la conducta de los servidores de la Administración de Justicia y puntual desempeño de sus deberes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 120.
 
-La Visitaduría Judicial General es el órgano auxiliar del Consejo de la Judicatura competente para inspeccionar el funcionamiento del Tribunal Electoral, del Tribunal de Conciliación y Arbitraje, del Tribunal de Apelación Especializado en materia de Adolescentes, de los Tribunales Distritales, de los Juzgados de Primera Instancia y Letrados, así como para supervisar las conductas de los integrantes de estos órganos.
+La Visitaduría Judicial General es el órgano auxiliar del Consejo de la Judicatura competente para inspeccionar el funcionamiento del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los Juzgados de Primera Instancia y Letrados, así como para supervisar las conductas de los integrantes de estos órganos.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -2577,11 +2437,13 @@ Si la excusa del magistrado es para no conocer de un asunto de Sala, la suplenci
 
 Si todos los magistrados de una Sala estuvieren impedidos para conocer, pasará el asunto al conocimiento de la Sala que siga en número.
 
-Si un magistrado del Tribunal Unitario de Distrito dejare de conocer de un asunto por impedimento, recusación o excusa, pasará el negocio al Tribunal Unitario de Distrito más cercano.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+Si un magistrado del Tribunal Distrital dejare de conocer de un asunto por impedimento, recusación o excusa, pasará el negocio al Tribunal Distrital más cercano.
 
-Los impedimentos, excusas o recusaciones de los Magistrados del Tribunal Electoral, del Tribunal de Conciliación y Arbitraje o del Tribunal de Apelación Especializado en materia de Adolescentes serán suplidos en los términos previstos en las leyes que regulan su funcionamiento.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
+Los impedimentos, excusas o recusaciones de los Magistrados del Tribunal de Conciliación y Arbitraje serán suplidos en los términos previstos en las leyes que regulan su funcionamiento.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2593,27 +2455,41 @@ I.- Cuando se trate de jueces civiles, los asuntos que dejaren de conocer pasar�
 
 Si todos los jueces civiles de un distrito dejaren de conocer, el asunto pasará al Juez Primero de Primera Instancia en Materia Mercantil del mismo distrito; en caso de que estuviere impedido, pasará al siguiente Juez de la misma Instancia y materia en el propio distrito, si lo hubiere.
 
-En caso de que los jueces mercantiles estuvieren impedidos, pasará al conocimiento del Juez Primero de Primera Instancia de lo Familiar en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez familiar en el propio distrito, si lo hubiere. Si todos los jueces familiares estuvieren impedidos, el asunto se remitirá al Juez Primero de Primera Instancia en materia penal, en caso de que estuviere impedido, pasará al siguiente Juez de la misma Instancia y materia en el propio distrito, si lo hubiere. Si todos los jueces penales estuvieren impedidos, pasará al juzgado civil del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
+En caso de que los jueces mercantiles estuvieren impedidos, pasará al conocimiento del Juez Primero de Primera Instancia de lo Familiar en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez familiar en el propio distrito, si lo hubiere. Si todos los jueces familiares estuvieren impedidos, el asunto se remitirá al Juez Primero de Primera Instancia en materia penal, en caso de que estuviere impedido, pasará al siguiente Juez de la misma Instancia y materia en el propio distrito, si lo hubiere. Si todos los jueces penales estuvieren impedidos, pasará al juzgado laboral en el mismo distrito, si lo hubiere. Si todos los jueces laborales estuvieren impedidos, pasará al juez civil del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
 
 II.- Cuando se trate de jueces mercantiles, los asuntos que dejaren de conocer, pasarán al juzgado de la misma materia en el propio distrito judicial, atendiendo a su número ordinal.
 
 Si todos los jueces mercantiles de un distrito dejaren de conocer, el asunto pasará al Juez Primero de Primera Instancia en materia civil del mismo distrito; en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere.
 
-En caso de que los jueces civiles estuvieren impedidos, pasará al conocimiento del Juez Primero de Primera Instancia de lo Familiar en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez familiar en el propio distrito, si lo hubiere. Si todos los jueces familiares estuvieren impedidos, el asunto se remitirá al Juez Primero de Primera Instancia en materia penal, en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere. Si todos los jueces penales estuvieren impedidos, pasará al juzgado mercantil del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
+En caso de que los jueces civiles estuvieren impedidos, pasará al conocimiento del Juez Primero de Primera Instancia de lo Familiar en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez familiar en el propio distrito, si lo hubiere. Si todos los jueces familiares estuvieren impedidos, el asunto se remitirá al Juez Primero de Primera Instancia en materia penal, en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere. Si todos los jueces penales estuvieren impedidos, pasará al juzgado laboral en el mismo distrito, si lo hubiere. Si todos los jueces laborales estuvieren impedidos, pasará al juzgado mercantil del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
 
 III.- Cuando se trate de jueces familiares, los asuntos que dejaren de conocer pasarán al juzgado de la misma materia en el propio distrito judicial, atendiendo a su número ordinal.
 
 Si todos los jueces familiares de un distrito dejaren de conocer, el asunto pasará al Juez Primero de Primera Instancia en materia civil del mismo distrito; en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere.
 
-En caso de que los jueces civiles estuvieren impedidos, pasará al conocimiento del Juez Primero de Primera Instancia en materia mercantil en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez mercantil en el propio distrito, si lo hubiere. Si todos los jueces mercantiles estuvieren impedidos, el asunto se remitirá al Juez Primero de Primera Instancia en materia penal, en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere. En caso de que todos los jueces penales estuvieren impedidos, pasará al juez familiar del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
+En caso de que los jueces civiles estuvieren impedidos, pasará al conocimiento del Juez Primero de Primera Instancia en materia mercantil en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez mercantil en el propio distrito, si lo hubiere. Si todos los jueces mercantiles estuvieren impedidos, el asunto se remitirá a un Juez de Primera Instancia en materia penal de acuerdo al turno, en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere. En caso de que todos los jueces penales estuvieren impedidos, pasará al juzgado laboral en el mismo distrito, si lo hubiere. Si todos los jueces laborales estuvieren impedidos o no hubiere en el distrito judicial respectivo, pasará al juez familiar del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
 
 IV.- Cuando se trate de jueces penales, los asuntos que dejaren de conocer pasarán al juzgado de la misma materia en el propio distrito judicial, atendiendo a su número ordinal.
 
 Si todos los jueces penales de un distrito dejaren de conocer, el asunto pasará al Juez Primero de Primera Instancia en materia civil del mismo distrito; en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere.
 
-En caso de que los jueces civiles estuvieren impedidos pasará al conocimiento del Juez Primero de Primera Instancia en materia mercantil en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez mercantil en el propio distrito, si lo hubiere. Si todos los jueces mercantiles estuvieren impedidos, el asunto se remitirá al Juez Primero de Primera Instancia en Materia Familiar, en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere. Si todos los jueces familiares estuvieren impedidos, pasará al Juez de Primera Instancia en Materia Penal del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-V.- (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2015)
+En caso de que los jueces civiles estuvieren impedidos pasará al conocimiento del Juez Primero de Primera Instancia en materia mercantil en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez mercantil en el propio distrito, si lo hubiere. Si todos los jueces mercantiles estuvieren impedidos, el asunto se remitirá al Juez Primero de Primera Instancia en Materia Familiar, en caso de que estuviere impedido, pasará al siguiente Juez de la misma instancia y materia en el propio distrito, si lo hubiere. Si todos los jueces familiares estuvieren impedidos, pasará al juzgado laboral en el mismo distrito, si lo hubiere. Si todos los jueces laborales estuvieren impedidos, pasará al Juez de Primera Instancia en Materia Penal del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2022)</small>
+
+V.- Cuando se trate de jueces laborales, los asuntos que dejaren de conocer pasarán a otro juez de la misma materia en el propio distrito judicial, atendiendo al orden de turnos.
+
+Si todos los jueces laborales de un distrito dejaren de conocer, el asunto pasará al Juez Primero de Primera Instancia en materia civil del mismo distrito; en caso de que estuviere impedido, pasará al siguiente Juez de la misma Instancia y materia en el propio distrito, si lo hubiere.
+
+En caso de que los jueces civiles estuvieren impedidos, pasará al conocimiento del Juez Primero de Primera Instancia de materia mercantil en el mismo distrito; y en caso de impedimento de éste, pasará al siguiente juez mercantil en el propio distrito, si lo hubiere. Si todos los jueces mercantiles estuvieren impedidos, el asunto se remitirá al Juez Primero de Primera Instancia en materia familiar, en caso de que estuviere impedido, pasará al siguiente Juez de la misma Instancia y materia en el propio distrito, si lo hubiere. Si todos los jueces familiares estuvieren impedidos, pasará a un juez penal, de acuerdo al turno, del distrito judicial más próximo, quien, en su caso, atenderá a las reglas señaladas en este artículo.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -2647,9 +2523,9 @@ El Archivo Judicial del Estado tendrá sus oficinas centrales en la Capital del 
 
 Se depositarán en el Archivo General y en los archivos distritales regionales:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-I.- Todos los expedientes del orden civil, mercantil, de lo familiar, penal y de adolescentes totalmente concluidos, tanto por el Tribunal Superior de Justicia como por los Tribunales Distritales, del Tribunal de Apelación Especializado en materia de Adolescentes, Juzgados de Primera Instancia y demás órganos jurisdiccionales;
+I.- Todos los expedientes del orden civil, mercantil, de lo familiar, laboral, penal y de adolescentes totalmente concluidos, tanto por el Tribunal Superior de Justicia como por los Tribunales Distritales, Juzgados de Primera Instancia y demás órganos jurisdiccionales.
 
 II.- Los expedientes aún no concluidos en los que haya habido inactividad procesal de las partes por más de un año;
 
@@ -2657,11 +2533,11 @@ III.- Cualesquiera otros expedientes concluidos que conforme a la ley deban inte
 
 IV.- Los demás documentos y objetos que las leyes y el Tribunal Superior determinen.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 133.
 
-Habrá en el Archivo seis departamentos: uno de ellos corresponderá al ramo civil, otro al mercantil, otro al familiar, otro a adolescentes, otro al penal y otro al administrativo.
+Habrá en el Archivo siete departamentos: uno de ellos corresponderá al ramo civil, otro al mercantil, otro al familiar, otro a adolescentes, otro al penal, otro al laboral y otro al administrativo.
 
 ###### ARTICULO 134.
 
@@ -2697,13 +2573,15 @@ Cualquier defecto o irregularidad que advierta el jefe del archivo en los expedi
 
 ### CAPITULO II. DEL INSTITUTO DE ESPECIALIZACION JUDICIAL
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 141.
 
-Se crea el Instituto de Especialización Judicial con el propósito de preparar y capacitar al personal del Poder Judicial del Estado y a quienes deseen ingresar a la carrera judicial.
+Se crea el Instituto de Especialización Judicial como órgano rector de la profesionalización en la administración de justicia, con el objetivo de generar líneas de investigación, realizar publicaciones académicas, capacitar, formar, actualizar, evaluar y certificar al personal del Poder Judicial del Estado, a quienes deseen ingresar a la carrera judicial o ser ascendidos y al público en general, a través de la implementación de diplomados, talleres, cursos, coloquios, conferencias, seminarios y estudios superiores de posgrado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 1997)</small>
+El Instituto de Especialización Judicial, desarrollará los diseños curriculares, planes y programas académicos de estudios de nivel posgrado, especialización y educación continua, de acuerdo con los lineamientos establecidos por las leyes de la materia.
 
-Cuando se valoren los méritos para acceder a un cargo dentro del Poder Judicial, en condiciones iguales o análogas, se dará preferencia a quién haya cursado y aprobado en el Instituto disciplinas relacionadas con el escalafón o con la materia del cargo que corresponda. A menos que quién no lo haya hecho, acredite haber aprobado otras análogas, o cursado un grado académico superior al de Licenciado en Derecho, relacionado con la materia del cargo al que pretende acceder.
+Cuando se valoren los méritos para acceder a un cargo dentro del Poder Judicial, en condiciones iguales o análogas, se dará preferencia a quién haya cursado y aprobado en el Instituto disciplinas relacionadas con el escalafón o con la materia del cargo que corresponda.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -2711,9 +2589,9 @@ Cuando se valoren los méritos para acceder a un cargo dentro del Poder Judicial
 
 La Dirección del Instituto de Especialización Judicial, estará a cargo de la persona que designe Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-El Instituto tendrá un Consejo Académico, integrado por el Presidente del Tribunal Superior de Justicia, quien lo presidirá, un Magistrado de cada Sala del Tribunal, un Magistrado del Tribunal Electoral, un Magistrado del Tribunal de Conciliación y Arbitraje, el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, el Magistrado del Tribunal Distrital del Primer Distrito, un Juez de Primera Instancia de cada materia de la Capital del Estado y un Juez Letrado del Distrito Judicial de Saltillo.
+El Instituto tendrá un Consejo Académico, integrado por el Presidente del Tribunal Superior de Justicia, quien lo presidirá, y quienes determine el Consejo de la Judicatura.
 
 El Consejo Académico será un órgano consultivo que tendrá como función principal la evaluación y autorización de los planes y programas de estudios que proponga el director del Instituto.
 
@@ -2835,11 +2713,11 @@ III.- Informes de la Presidencia; y
 
 IV.- Efemérides del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 154.
 
-El Consejo Editorial del Boletín se integrará con el Presidente del Tribunal, quien fungirá como Director, los Magistrados de las Salas, un Magistrado del Tribunal Electoral, un Magistrado del Tribunal de Conciliación y Arbitraje, el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, el Magistrado del Tribunal Distrital del Primer Distrito, un Juez de Primera Instancia en cada materia, un Secretario de Redacción y un administrador, que será el Oficial Mayor del Poder Judicial.
+El Consejo Editorial del Boletín se integrará con el Presidente del Tribunal, quien fungirá como Director, y quienes determine el Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2927,21 +2805,17 @@ Las faltas temporales de los Presidentes del Tribunal y de las Salas, cuando no 
 
 Si la ausencia excede de treinta días, la sustitución se hará por acuerdo del Pleno, y en igual forma se suplirá la ausencia definitiva, en cuyo caso el designado concluirá el período legal respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 166.
 
-Las faltas temporales y absolutas de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de Conciliación y Arbitraje, serán suplidas por el Magistrado Supernumerario que corresponda, en el orden respectivo y de acuerdo con el turno que lleve el Presidente del Tribunal de que se trate. En caso de falta absoluta, el Magistrado Supernumerario actuará hasta en tanto se realice la nueva designación, para lo cual el Presidente del órgano colegiado de que se trate, inmediatamente que aquella ocurra, dará cuenta al Consejo de la Judicatura quien atenderá al procedimiento establecido en esta ley.
+Las faltas temporales y absolutas de los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, serán suplidas por el Magistrado Supernumerario que corresponda, en el orden respectivo y de acuerdo con el turno que lleve el Presidente del Tribunal de que se trate. En caso de falta absoluta, el Magistrado Supernumerario actuará hasta en tanto se realice la nueva designación, para lo cual el Presidente del órgano colegiado de que se trate, inmediatamente que aquella ocurra, dará cuenta al Consejo de la Judicatura quien atenderá al procedimiento establecido en esta ley.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-Las faltas absolutas y temporales del Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes serán suplidas conforme al ordenamiento que regula la justicia para adolescentes.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 167.
 
-Las faltas temporales de los Magistrados de los Tribunales Unitarios de Distrito, de los Jueces de Primera Instancia y de los Jueces Letrados, serán suplidas por los respectivos Secretarios de Acuerdo y Trámite que corresponda. Si las faltas exceden de quince días o son absolutas, continuarán los secretarios supliendo a los titulares en tanto se hace nueva designación interina o definitiva, según el caso.
+Las faltas temporales de los Magistrados de los Tribunales Distritales, de los Jueces de Primera Instancia y de los Jueces Letrados, así como de los jueces laborales, serán suplidas por los respectivos Secretarios de Acuerdo y Trámite que corresponda. Si las faltas exceden de quince días o son absolutas, continuarán los secretarios supliendo a los titulares en tanto se hace nueva designación interina o definitiva, según el caso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2977,11 +2851,11 @@ Los Secretarios, Actuarios y demás personal del Juzgado de Primera Instancia en
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 172.
 
-Para los efectos de las responsabilidades a que se refiere este título se reputarán como servidores públicos de la administración de justicia: a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal Electoral; a los Magistrados del Tribunal de Conciliación y Arbitraje; al Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, a los Magistrados de los Tribunales Distritales; a los Jueces de primera instancia; a los Jueces letrados; y en general a toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial.
+Para los efectos de las responsabilidades a que se refiere este título se reputarán como servidores públicos de la administración de justicia: a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal de Conciliación y Arbitraje; a los Magistrados de los Tribunales Distritales; a los Jueces de primera instancia; a los Jueces letrados; a los jueces laborales y en general a toda persona que desempeña un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial.
 
 ###### ARTICULO 173.
 
@@ -3005,11 +2879,11 @@ Todo ciudadano o persona moral por conducto de sus órganos de representación, 
 
 ### CAPITULO II. DEL JUICIO POLITICO
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 175.
 
-Son sujetos de juicio político: los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal Electoral; los Magistrados del Tribunal de Conciliación y Arbitraje, el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes, los Magistrados de los Tribunales Distritales; y los Jueces de Primera Instancia, cualquiera que sea su denominación.
+Son sujetos de juicio político: los Magistrados del Tribunal Superior de Justicia; los Magistrados del Tribunal de Conciliación y Arbitraje, los Magistrados de los Tribunales Distritales; los Jueces de Primera Instancia, cualquiera que sea su denominación, así como los jueces laborales.
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
@@ -3023,11 +2897,11 @@ El procedimiento de juicio político sólo podrá iniciarse durante el período 
 
 ### CAPITULO III. DE LA DECLARACION DE PROCEDENCIA EN MATERIA DE RESPONSABILIDAD PENAL
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 178.
 
-Para proceder penalmente contra los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral o del Tribunal de Conciliación y Arbitraje, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar, mediante resolución de las dos terceras partes del total de sus miembros, si ha lugar o no a proceder contra el inculpado.
+Para proceder penalmente contra los Magistrados del Tribunal Superior de Justicia o del Tribunal de Conciliación y Arbitraje, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar, mediante resolución de las dos terceras partes del total de sus miembros, si ha lugar o no a proceder contra el inculpado.
 
 ###### ARTICULO 179.
 
@@ -3061,9 +2935,9 @@ II.- Desintegrar sin motivo justificado, el quórum de los Plenos, una vez comen
 
 III.- Dictar acuerdos o providencias que contengan decisiones generales sobre interpretación de las leyes;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-IV.- Llevar a su conocimiento los negocios en trámite ante los Tribunales Unitarios de Distrito, Jueces de Primera Instancia y demás órganos jurisdiccionales, a menos que se trate de una investigación; y
+IV.- Llevar a su conocimiento los negocios en trámite ante los Tribunales Distritales, Jueces de Primera Instancia y demás órganos jurisdiccionales, a menos que se trate de una investigación; y
 
 V.- Violar las normas que regulan el procedimiento para llevar a cabo los nombramientos que le competan.
 
@@ -3307,9 +3181,9 @@ La jurisdicción disciplinaria, se ejercerá en única instancia:
 
 I.- Por el Tribunal Pleno, cuando se trate de quejas en contra de su Presidente o de los magistrados de las Salas;
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-II.- Por el Consejo de la Judicatura, cuando se trate de quejas en contra de los servidores públicos judiciales integrantes de las Salas del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de Conciliación y Arbitraje, del Tribunal de Apelación Especializado en materia de Adolescentes, de los Tribunales Distritales y de los Juzgados del Poder Judicial;
+II.- Por el Consejo de la Judicatura, cuando se trate de quejas en contra de los servidores públicos judiciales integrantes de las Salas del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los juzgados de primera instancia y de los Tribunales Laborales del Poder Judicial;
 
 III.- Por el Presidente del Tribunal Superior de Justicia, cuando se trate de quejas en contra de personal de la Presidencia o de sus dependencias;
 
@@ -3581,11 +3455,11 @@ El Pleno del Tribunal integrará el cuerpo de auxiliares y colaboradores de la J
 
 El Pleno del Tribunal dividirá la lista general por distritos judiciales, teniendo en cuenta el lugar de residencia del seleccionado. La lista de cada distrito judicial se ordenará, procurando incluir en ella por lo menos un auxiliar para cada cargo, y por lo que toca a los peritos, uno por cada especialidad. En las listas así formadas, las personas en ellas comprendidas avocadas a los distintos cargos y especialidades, se colocarán en orden alfabético por apellidos.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 234.
 
-Las listas se harán llegar oportunamente a las Salas del Tribunal Superior de Justicia, al Tribunal Electoral, al Tribunal de Conciliación y Arbitraje, al Tribunal de Apelación Especializado en materia de Adolescentes, a los Tribunales Distritales y a los Juzgados, debiendo ser publicadas en los estrados, donde permanecerán a la vista del público, durante todo el año.
+Las listas se harán llegar oportunamente a las Salas del Tribunal Superior de Justicia, al Tribunal de Conciliación y Arbitraje, a los Tribunales Distritales, a los Juzgados de primera instancia y a los Tribunales Laborales, debiendo ser publicadas en los estrados, donde permanecerán a la vista del público, durante todo el año.
 
 ###### ARTICULO 235.
 
@@ -3769,11 +3643,11 @@ DE LA JURISPRUDENCIA LOCAL
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 261.
 
-La jurisprudencia local que emane de los Tribunales del Poder Judicial del Estado es una garantía jurisdiccional. El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal Electoral, el Tribunal de Conciliación y Arbitraje, el Tribunal de Apelación Especializado en materia de Adolescentes y los Tribunales Distritales, están facultados para formar jurisprudencia en los términos que dispone esta ley.
+La jurisprudencia local que emane de los Tribunales del Poder Judicial del Estado es una garantía jurisdiccional. El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal de Conciliación y Arbitraje y los Tribunales Distritales, están facultados para formar jurisprudencia en los términos que dispone esta ley.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3807,15 +3681,15 @@ II.- Fijen en contradicción de criterios el que debe prevalecer;
 
 III.- Exista declaración de confirmación o modificación del criterio emanado de un tribunal unitario de distrito.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-ARTICULO 263 BIS.- El Tribunal Electoral, el Tribunal de Conciliación y Arbitraje y el Tribunal de Apelación Especializado en materia de Adolescentes formarán jurisprudencia cuando sustenten el mismo criterio en tres resoluciones ininterrumpidas.
+ARTICULO 263 BIS.- El Tribunal de Conciliación y Arbitraje formará jurisprudencia cuando sustenten el mismo criterio en tres resoluciones ininterrumpidas.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 264.
 
-Los tribunales unitarios de distrito cuando sostengan el mismo criterio en tres resoluciones ininterrumpidas, deberán enviarlo a la Sala que corresponda para que realice la declaratoria de jurisprudencia en los términos que señala esta ley.
+Los Tribunales Distritales cuando sostengan el mismo criterio en tres resoluciones ininterrumpidas, deberán enviarlo a la Sala que corresponda para que realice la declaratoria de jurisprudencia en los términos que señala esta ley.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3835,37 +3709,25 @@ III.- Exista declaración de confirmación o modificación del criterio discipli
 
 Las tesis de jurisprudencia no afectarán las situaciones jurídicas concretas derivadas de las resoluciones dictadas con motivo del proceso o procesos en que se hubiese generado la reiteración, la contradicción o la declaración.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 267.
 
-Cuando las partes invoquen la existencia de una jurisprudencia local deberán expresarlo por escrito identificando claramente su fuente, rubro y tesis. En todo caso, la autoridad judicial deberá revisar la existencia de la jurisprudencia por medio del Boletín o el Periódico Oficial del Gobierno del Estado.
+Cuando las partes invoquen la existencia de una jurisprudencia local deberán expresarlo por escrito identificando claramente su fuente, rubro y tesis. En todo caso, la autoridad judicial deberá revisar la existencia de la jurisprudencia por medio del Boletín, el Periódico Oficial del Gobierno del Estado o en el portal de internet que para esos efectos exista.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+El Pleno, el Consejo o las Salas por sí o por conducto de sus presidencias, enviarán copia certificada de las tesis de jurisprudencias aprobadas a todos los tribunales y Jueces del Poder Judicial, asimismo se publicarán por los medios digitales que determine la normatividad aplicable.
 
-El Pleno, el Consejo o las Salas por sí o por conducto de sus presidencias, enviarán copia certificada de las tesis de jurisprudencias aprobadas a todos los tribunales y Jueces del Poder Judicial.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-El Tribunal Electoral, por conducto de su Presidencia, enviará copia certificada de las tesis de jurisprudencia aprobadas, al Instituto Electoral y de Participación Ciudadana de Coahuila para su inmediata observancia obligatoria.
-
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
-
-El Tribunal de Conciliación y Arbitraje, por conducto de su Presidencia, enviarán copia certificada de las tesis de jurisprudencia aprobadas a las Salas Distritales o Especiales, según corresponda.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-El Tribunal de Apelación Especializado en materia de Adolescentes, por conducto de su Magistrado, enviará copia certificada de las tesis aprobadas a los Jueces de Primera Instancia en materia de adolescentes.
+El Tribunal de Conciliación y Arbitraje, por conducto de su Presidencia, enviarán copia certificada de las tesis de jurisprudencia aprobadas a las Salas Distritales o Especiales, según corresponda, asimismo se publicarán por los medios digitales que determine la normatividad aplicable.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
 ### CAPITULO II. DE LA JURISPRUDENCIA POR REITERACION, CONTRADICCION O DECLARACION
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 268.
 
-La jurisprudencia por reiteración que emane del Pleno y de las Salas del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de Conciliación y Arbitraje, del Tribunal de Apelación Especializado en materia de Adolescentes o del Consejo de la Judicatura, deberá estar debidamente glosada en tesis y aprobadas para su debida publicación.
+La jurisprudencia por reiteración que emane del Pleno y de las Salas del Tribunal Superior de Justicia, del Tribunal de Conciliación y Arbitraje, o del Consejo de la Judicatura, deberá estar debidamente glosada en tesis y aprobadas para su debida publicación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -3895,13 +3757,11 @@ IV.- Cuando la denuncia de contradicción se refiera a criterios sustentados exc
 
 La jurisprudencia de las Salas por contradicción se regirá de acuerdo al procedimiento que en lo conducente señalan las fracciones I, II y III del artículo anterior. Mas la denuncia por contradicción se presentará ante el secretario de acuerdos de la Sala que corresponda; y versará sobre criterios sustentados por los Tribunales Distritales o los jueces del Poder Judicial, o entre unos u otros, procurando su uniformidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
-ARTICULO 270 BIS.- La jurisprudencia de los Tribunales Electoral y de Conciliación y Arbitraje por contradicción de tesis se regirá de acuerdo al procedimiento que señalan las fracciones I, II y III del artículo 269 de esta ley, pero la denuncia por contradicción se presentará ante el Secretario de Acuerdos del Tribunal que corresponda. Tratándose del último tribunal la jurisprudencia versará sobre criterios sustentados por las Salas Distritales o Especiales, según el caso, procurando su uniformidad.
+ARTICULO 270 BIS.- La jurisprudencia del Tribunal de Conciliación y Arbitraje por contradicción de tesis se regirá de acuerdo al procedimiento que señalan las fracciones I, II y III del artículo 269 de esta ley, pero la denuncia por contradicción se presentará ante el Secretario de Acuerdos del propio Tribunal de Conciliación y Arbitraje. La jurisprudencia versará sobre criterios sustentados por las Salas Distritales o Especiales, según el caso, procurando su uniformidad.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-Tendrá calidad el sentido en que hayan votado la mayoría de los Magistrados de la materia que corresponda.
+Tendrá calidad el sentido en que hayan votado la mayoría de los Magistrados.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -3927,43 +3787,35 @@ En toda resolución que emane de una denuncia de criterios contradictorios se de
 
 La jurisprudencia por declaración se regirá de acuerdo al procedimiento siguiente:
 
-I.- El tribunal unitario de distrito que sostenga el mismo criterio en tres resoluciones ininterrumpidas, deberá enviar la tesis debidamente glosada a la Sala que corresponda por razón de la materia en que prevalentemente consista el criterio, o al Consejo si se trata de un criterio disciplinario. Todo conflicto o duda sobre la competencia de la Sala será resuelta de plano por el Pleno;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-II.- El tribunal unitario anexara original o copia autorizada de las resoluciones que dieron lugar al criterio materia de la declaración;
+I.- El Tribunal Distrital que sostenga el mismo criterio en tres resoluciones ininterrumpidas, deberá enviar la tesis debidamente glosada a la Sala que corresponda por razón de la materia en que prevalentemente consista el criterio, o al Consejo si se trata de un criterio disciplinario. Todo conflicto o duda sobre la competencia de la Sala será resuelta de plano por el Pleno.
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+II.- El Tribunal Distrital anexará original o copia autorizada de las resoluciones que dieron lugar al criterio materia de la declaración.
 
 III.- La Presidencia de la Sala o del Consejo, según el caso, deberán encargar en estricto turno la ponencia respectiva a un magistrado que integra la misma o un consejero. Dentro de los treinta días siguientes, la Sala o el Consejo resolverá la declaratoria de jurisprudencia debidamente glosada para mandarla a publicar;
 
-IV.- La declaratoria de jurisprudencia podrá confirmar o sustentar un criterio distinto al señalado por el tribunal unitario. En todo caso, el criterio fijado por la Sala o el Consejo es el que formará jurisprudencia obligatoria.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JULIO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+IV.- La declaratoria de jurisprudencia podrá confirmar o sustentar un criterio distinto al señalado por el Tribunal Distrital. En todo caso, el criterio fijado por la Sala o el Consejo es el que formará jurisprudencia obligatoria.
 
-El Tribunal de Apelación Especializado en materia de Adolescentes solo deberá observar este procedimiento, cuando los tres criterios que sustente en el mismo sentido, en forma ininterrumpida, se ocupen de la interpretación de disposiciones de las leyes penales o de la aplicación de normas que establezcan medidas disciplinarias. Los criterios que establezca en la materia de su especialidad, distintos a los señalados, formarán jurisprudencia sin necesidad de la declaración a que se refiere este artículo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MAYO DE 1999)</small>
 
 ### CAPITULO III. DE LA OBLIGATORIEDAD DE LA JURISPRUDENCIA
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 274.
 
-La jurisprudencia que pronuncie el Pleno del Tribunal Superior de Justicia tendrá observancia obligatoria para las Salas, los tribunales unitarios de distrito y los juzgados del Poder Judicial, así como para todas las autoridades del estado.
+La jurisprudencia que pronuncie el Pleno del Tribunal Superior de Justicia tendrá observancia obligatoria para las Salas, los Tribunales Distritales y los juzgados de primera instancia del Poder Judicial, así como para todas las autoridades del estado.
 
-La jurisprudencia que pronuncien las Salas del Tribunal Superior de Justicia tendrá observancia obligatoria para los tribunales unitarios de distrito y los juzgados del Poder Judicial, así como para todas las autoridades del estado.
+La jurisprudencia que pronuncien las Salas del Tribunal Superior de Justicia tendrá observancia obligatoria para los Tribunales Distritales y los juzgados del Poder Judicial, así como para todas las autoridades del estado.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-La jurisprudencia que pronuncie el Tribunal Electoral tendrá observancia obligatoria para el Instituto Electoral y de Participación Ciudadana, para los partidos políticos y para todas las autoridades del estado, con excepción del Tribunal Superior de Justicia.
-
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
-
-La jurisprudencia que pronuncie del Tribunal (sic) Conciliación y Arbitraje tendrá observancia obligatoria para las Salas Distritales y las Salas Especiales, según el caso, y para todas las autoridades del Estado.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-La jurisprudencia que pronuncie el Tribunal de Apelación Especializado en materia de Adolescentes tendrá observancia obligatoria para los Juzgados de Primera Instancia en materia de Adolescentes.
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+La jurisprudencia que pronuncie el Tribunal de Conciliación y Arbitraje tendrá observancia obligatoria para las Salas Distritales y las Salas Especiales, según el caso, y para todas las autoridades del Estado.
 
 La jurisprudencia que en materia disciplinaria pronuncien el Pleno o las Salas sólo tendrán efectos obligatorios para ellos.
 
@@ -3983,39 +3835,27 @@ La obligatoriedad de la jurisprudencia local surtirá sus efectos al día siguie
 
 ### CAPITULO IV. DE LA INTERRUPCION Y MODIFICABILIDAD DE LA JURISPRUDENCIA
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 277.
 
-La interrupción de la jurisprudencia tendrá como consecuencia que deje de surtir sus efectos de obligatoriedad. El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal Electoral, el Tribunal de Conciliación y Arbitraje, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo de la Judicatura, estarán facultados para interrumpir su jurisprudencia sólo en los casos y bajo las condiciones que establece este capítulo.
+La interrupción de la jurisprudencia tendrá como consecuencia que deje de surtir sus efectos de obligatoriedad. El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal de Conciliación y Arbitraje y el Consejo de la Judicatura, estarán facultados para interrumpir su jurisprudencia sólo en los casos y bajo las condiciones que establece este capítulo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 278.
 
-La jurisprudencia por reiteración o por contradicción que emane del Pleno y de las Salas del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de Conciliación y Arbitraje o del Tribunal de Apelación Especializado en materia de Adolescentes, según el caso, se interrumpirá por otras en contrario de ellas, según corresponda, siempre y cuando:
-
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 1999)</small>
+La jurisprudencia por reiteración o por contradicción que emane del Pleno y de las Salas del Tribunal Superior de Justicia o del Tribunal de Conciliación y Arbitraje, según el caso, se interrumpirá por otras en contrario de ellas, según corresponda, siempre y cuando:
 
 I.- Tratándose del Pleno, la interrupción se apruebe por lo menos por las dos terceras partes de los magistrados y existan dos resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Pleno.
 
 Si se trata de una jurisprudencia por reiteración de una de las Salas, es necesario que existan tres resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
-
-Si se trata del Tribunal Electoral o del Tribunal de Conciliación y Arbitraje, que la interrupción se apruebe por lo menos por dos Magistrados y existan dos resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Pleno de esos Tribunales.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-Si se trata de una jurisprudencia por reiteración del Tribunal de Apelación Especializado en materia de Adolescentes, es necesario que existan tres resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+Si se trata del Tribunal de Conciliación y Arbitraje, que la interrupción se apruebe por lo menos por dos Magistrados y existan dos resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Pleno del mismo.
 
 En todos los casos, en la primera ejecutoria que se pronuncie deberán expresarse las razones en que se apoye la interrupción, las cuales se referirán a las que se obtuvieron en consideración para establecer la jurisprudencia relativa.
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 1999)</small>
-
-II.- Si se trata de una jurisprudencia por contradicción, además de la jurisprudencia por reiteración, el Pleno o las Salas, según el caso; podrán interrumpirla sólo con base en las propuestas que hagan valer las Salas o cualquiera de los tribunales unitarios de distrito o los jueces sobre la necesaria interrupción de la tesis jurisprudencial en cuestión por su inaplicabilidad en los casos concretos sometidos a su consideración.
+II.- Si se trata de una jurisprudencia por contradicción, además de la jurisprudencia por reiteración, el Pleno o las Salas, según el caso; podrán interrumpirla sólo con base en las propuestas que hagan valer las Salas o cualquiera de los Tribunales Distritales o los jueces sobre la necesaria interrupción de la tesis jurisprudencial en cuestión por su inaplicabilidad en los casos concretos sometidos a su consideración.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -4025,19 +3865,21 @@ La jurisprudencia por reiteración o contradicción que emane del Consejo, se in
 
 I.- Si se trata de una jurisprudencia por reiteración, es necesario que existan tres resoluciones subsecuentes en contrario que se dicten de manera ininterrumpida por parte del Consejo;
 
-II.- Si se trata de una jurisprudencia por contradicción, además de la jurisprudencia por reiteración, el Consejo sólo podrá interrumpirla con base en las propuestas que hagan valer los tribunales unitarios de Distrito o los jueces sobre la necesaria interrupción de la tesis jurisprudencial en cuestión por su inaplicabilidad en los casos concretos sometidos a su consideración.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+II.- Si se trata de una jurisprudencia por contradicción, además de la jurisprudencia por reiteración, el Consejo sólo podrá interrumpirla con base en las propuestas que hagan valer los Tribunales Distritales o los jueces sobre la necesaria interrupción de la tesis jurisprudencial en cuestión por su inaplicabilidad en los casos concretos sometidos a su consideración.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 280.
 
-El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal Electoral, el Tribunal de Conciliación y Arbitraje, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo de la Judicatura estarán facultados para modificar su jurisprudencia, señalando en todo caso las razones fundadas para hacerlo. Es necesario que exista pronunciamiento previo de una resolución en un caso concreto para modificar la jurisprudencia, observándose las mismas reglas establecidas en esta ley para su formación.
+El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal de Conciliación y Arbitraje y el Consejo de la Judicatura estarán facultados para modificar su jurisprudencia, señalando en todo caso las razones fundadas para hacerlo. Es necesario que exista pronunciamiento previo de una resolución en un caso concreto para modificar la jurisprudencia, observándose las mismas reglas establecidas en esta ley para su formación.
 
-El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal de Conciliación y Arbitraje, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo de la Judicatura, por sí mismos, o bien por conducto de las propuestas que realicen los Tribunales Distritales o los Jueces, en su caso, podrán modificar la jurisprudencia en la forma prevista en el párrafo anterior.
+El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal de Conciliación y Arbitraje y el Consejo de la Judicatura, por sí mismos, o bien por conducto de las propuestas que realicen los Tribunales Distritales o los Jueces, en su caso, podrán modificar la jurisprudencia en la forma prevista en el párrafo anterior.
 
-En los casos de las propuestas de las Salas Distritales, Salas Especiales, Tribunales Distritales o los Jueces se harán por vía de denuncia ante el Pleno y las Salas del Tribunal Superior de Justicia el Tribunal de Conciliación y Arbitraje, el Tribunal de Apelación Especializado en materia de Adolescentes o el Consejo de la Judicatura, según el caso, para que éstos determinen si ha lugar o no a modificar el criterio. La propuesta de modificación deberá identificar la tesis jurisprudencial en cuestión, las razones que motiven la denuncia y, en su caso, las constancias necesarias que sirvan de base para fundamentar que en los casos concretos es justificada la modificación propuesta.
+En los casos de las propuestas de las Salas Distritales, Salas Especiales, Tribunales Distritales o los Jueces se harán por vía de denuncia ante el Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal de Conciliación y Arbitraje, o el Consejo de la Judicatura, según el caso, para que éstos determinen si ha lugar o no a modificar el criterio. La propuesta de modificación deberá identificar la tesis jurisprudencial en cuestión, las razones que motiven la denuncia y, en su caso, las constancias necesarias que sirvan de base para fundamentar que en los casos concretos es justificada la modificación propuesta.
 
-El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal de Conciliación y Arbitraje, el Tribunal de Apelación Especializado en materia de Adolescentes o el Consejo de la Judicatura podrán modificar sus tesis de jurisprudencia sin que estén vinculados por la denuncia de modificación.
+El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal de Conciliación y Arbitraje o el Consejo de la Judicatura podrán modificar sus tesis de jurisprudencia sin que estén vinculados por la denuncia de modificación.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -4049,9 +3891,7 @@ I.- Exista jurisprudencia en contrario de la Suprema Corte de Justicia de la Nac
 
 II.- Exista jurisprudencia de alguno de los tribunales colegiados del circuito federal exactamente aplicable;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-III.- Exista jurisprudencia en contrario del Tribunal Electoral del Poder Judicial de la Federación que sea obligatoria para las autoridades del estado, exactamente aplicable;
+III.- (DEROGADA, P.O. 15 DE JULIO DE 2022)
 
 IV. Por nueva disposición constitucional o legal aplicables.
 
@@ -4065,27 +3905,27 @@ IV. Por nueva disposición constitucional o legal aplicables.
 
 El Presidente del Tribunal Superior de Justicia emitirá las circulares bajo las cuales se formularán, depurarán y glosarán las tesis aisladas o de jurisprudencia.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 283.
 
-El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal Electoral, el Tribunal de Conciliación y Arbitraje, el Tribunal de Apelación Especializado en materia de Adolescentes y el Consejo de la Judicatura formularán sus tesis de jurisprudencia y ordenarán que se publiquen dentro de los sesenta días siguientes al que se aprueben. En cualquier caso, se deberá enviar para su publicación la tesis de jurisprudencia al Boletín de Información Judicial o al Periódico Oficial del Gobierno del Estado, quince días antes de que venza el plazo anterior.
+El Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal de Conciliación y Arbitraje y el Consejo de la Judicatura formularán sus tesis de jurisprudencia y ordenarán que se publiquen dentro de los sesenta días siguientes al que se aprueben. En cualquier caso, se deberá enviar para su publicación la tesis de jurisprudencia al Boletín de Información Judicial o al Periódico Oficial del Gobierno del Estado, quince días antes de que venza el plazo anterior.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 284.
 
-En todo caso, el Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal Electoral, el Tribunal de Conciliación y Arbitraje, el Tribunal de Apelación Especializado en materia de Adolescentes, el Consejo de la Judicatura, los Tribunales Distritales y los Jueces del Poder Judicial, según corresponda, deberán remitir mensualmente a la Presidencia las tesis que contengan jurisprudencia, mencionando esta circunstancia; o los criterios debidamente formulados que estimen relevantes, sustentados en las resoluciones dictadas en los procesos en que hayan conocido.
+En todo caso, el Pleno y las Salas del Tribunal Superior de Justicia, el Tribunal de Conciliación y Arbitraje, el Consejo de la Judicatura, los Tribunales Distritales y los Jueces del Poder Judicial, según corresponda, deberán remitir mensualmente a la Presidencia las tesis que contengan jurisprudencia, mencionando esta circunstancia; o los criterios debidamente formulados que estimen relevantes, sustentados en las resoluciones dictadas en los procesos en que hayan conocido.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 1999)</small>
 
 La Presidencia del Tribunal depurará y compilará las tesis, los criterios o acuerdos relevantes para ser publicados.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 285.
 
-La Presidencia del Tribunal publicará semestralmente en el Boletín de Información Judicial del Estado los criterios enviados, así como las tesis de jurisprudencia por reiteración, contradicción o declaración.
+La Presidencia del Tribunal publicará las tesis y jurisprudencias por reiteración, contradicción o declaración, en la página de Internet del Poder Judicial, en el apartado que para tales efectos se establezca, así como en el Periódico Oficial del Gobierno del Estado y en el Boletín de Información Judicial.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -4956,3 +4796,21 @@ P.O. 11 DE DICIEMBRE DE 2020.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 241.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Consejo de la Judicatura adoptará en el ámbito de su competencia las medidas correspondientes para el cumplimiento del presente Decreto, en términos de las disposiciones legales y administrativas aplicables.
+
+CUARTO.- Los Tribunales Laborales iniciarán sus funciones en la fecha y términos que para tal efecto se determinen en la Declaratoria que emita el Senado de la República.
+
+QUINTO.- El Consejo de la Judicatura emitirá mediante acuerdo las disposiciones reglamentarias que especifiquen la estructura y funcionamiento de los Tribunales Laborales, de conformidad con la legislación vigente aplicable.
+
+SEXTO.- Los procedimientos en materia laboral que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al haberse iniciado, ante las Juntas de Conciliación y Arbitraje hasta su debida conclusión.
+
+SÉPTIMO.- La selección y nombramiento de los jueces laborales y demás personal jurisdiccional y administrativo adscrito a los Tribunales Laborales, será de conformidad a la normatividad vigente o que se expida para este efecto.
