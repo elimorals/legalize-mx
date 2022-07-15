@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2022-02-25"
+last_updated: "2022-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -135,9 +135,13 @@ g) Tribunales de Juicio Oral.
 
 h) Juzgados de Ejecución de Sentencia.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
 i) Tribunales laborales, y
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+j) Juzgado Especializado en Órdenes de Protección de Emergencia y Preventivas en Favor de las Mujeres y de Procedimientos no Controvertidos, y
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -209,33 +213,19 @@ V. Si el dictamen del Ejecutivo propone la ratificación del Magistrado, el Cong
 
 Los magistrados que sean ratificados en su encargo, gozarán de inamovilidad en términos de lo dispuesto en la Constitución Política del Estado, y sólo podrán ser removidos conforme a lo que establece la propia Constitución, la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2015)</small>
-
-###### ARTICULO 9°.
-
-El haber por retiro a que se refiere el artículo 97 de la Constitución Política del Estado, consiste en un único pago equivalente a un año de salario, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que correspondan. Este pago se cubrirá con base en el último salario percibido, cuando el Magistrado:
-
-I. No haya sido ratificado en el cargo;
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
-
-II. El primero se retire del desempeño del cargo por haber cumplido quince años en el mismo, o bien, cualquiera de ellos haya cumplido setenta y tres años de edad, o
-
-III. Padezca incapacidad física o mental permanente para el desempeño de su cargo.
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 9º.
 
-El haber por retiro a que se refieren los artículos 97 y 102 de la Constitución Política del Estado, consiste en un único pago equivalente a tres meses de salario, más doce días por cada año de servicios, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que les correspondan. Este pago se cubrirá cuando el Magistrado o Juez:
+El haber por retiro a que se refieren los artículos, 97, y 102, de la Constitución Política del Estado, consiste en un único pago equivalente a un año de salario, sin perjuicio del pago de aguinaldo y vacaciones proporcionales que correspondan. Este pago se cubrirá con base en el último salario percibido, cuando la Magistrada o el Magistrado; la Juez o el Juez:
 
-I. No haya sido ratificado en el cargo;
+I. No haya sido ratificada o ratificado en el cargo;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2015)</small>
+II. Cuando la Magistrada o Magistrado se retire del desempeño del cargo por haber cumplido quince años en el mismo, o bien, cualquiera de ellos haya cumplido setenta y tres años de edad;
 
-II. El primero se retire del desempeño del cargo por haber cumplido quince años en el mismo, o bien, cualquiera de ellos haya cumplido setenta y tres años de edad, o
+III. Padezca incapacidad física o mental permanente para el desempeño de su cargo, o
 
-III. Padezca incapacidad física o mental permanente para el desempeño de su cargo.
+IV. Se retire del desempeño del cargo por haber cumplido los años de servicio y proceda su jubilación, en términos de lo dispuesto por el artículo 60 de la Ley de Pensiones y Prestaciones Sociales para los Trabajadores al Servicio del Estado de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
@@ -575,6 +565,34 @@ En cada Distrito o Región Judicial habrá el número de Tribunales y Juzgados q
 
 Las Regiones Judiciales podrán comprender el ámbito territorial de más de un Distrito Judicial.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+ARTICULO 50 BIS. Las y los jueces Especializados en Órdenes de Protección, y de Procedimientos no Controvertidos, tendrán competencia en el Primer Distrito Judicial; conocerán, tramitarán y resolverán:
+
+I. Juicios de divorcio voluntario, en los que no exista controversia;
+
+II. Autorizaciones para salir del país, siempre que no se deba citar a persona alguna;
+
+III. Cambios de régimen patrimonial, cuando se presenten todos los documentos que acrediten la propiedad de los bienes, y se presente el proyecto de partición de bienes;
+
+IV. Ratificaciones de convenio, cuando comparezcan en forma personal los solicitantes;
+
+V. Procedimientos de jurisdicción voluntaria, para acreditar concubinato, y dependencia económica;
+
+VI. Declaración de ausencia, siempre que se acredite con documental el interés de promover la declaración de ausencia;
+
+VII. Presunción de muerte; siempre y cuando se presenten las copias certificadas de la declaración de presunción de ausencia;
+
+VIII. La expedición de órdenes de protección de conformidad con lo previsto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí;
+
+IX. Los asuntos derivados del Centro de Justicia para Mujeres del Estado, relativos a:
+
+a) Alimentos; guarda y custodia; y, en su caso, conclusión, transmisión, pérdida, o suspensión de la patria potestad.
+
+b) Divorcios; y disolución de concubinatos; las demás que le otorga la ley, y los Acuerdos Generales respectivos, y
+
+X. Las demás que les encomienden las leyes.
+
 ###### ARTICULO 51.
 
 Son atribuciones y obligaciones de los jueces de Primera Instancia:
@@ -593,9 +611,15 @@ VI. Proponer los nombramientos de sus secretarios de acuerdos, y de estudio y cu
 
 VII. Conceder permisos sin goce de sueldo hasta por cinco días a sus subordinados, dando aviso al Consejo de la Judicatura;
 
-VIII. Asesorar a los jueces menores y jueces auxiliares, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-IX. Las demás que les encomienden las leyes.
+VIII. Asesorar a los jueces menores y jueces auxiliares;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+
+IX. Dictar las órdenes de protección orientadas a la salvaguarda de la víctima en función de su interés superior, en los términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí, y
+
+X. Las demás que les encomienden las leyes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2013)</small>
 
@@ -627,9 +651,15 @@ V. De las diligencias de consignación en todo lo relativo al derecho familiar;
 
 VI. De los exhortos, suplicatorios y despachos, relacionados con el derecho familiar;
 
-VII. De las cuestiones relativas a los asuntos que afecten los derechos de los menores o incapacitados, y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-VIII. En general de todas las cuestiones familiares que reclamen la intervención judicial.
+VII. De las cuestiones relativas a los asuntos que afecten los derechos de los menores o incapacitados;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+
+VIII. De dictar las órdenes de protección orientadas a la salvaguarda de la víctima en función de su interés superior, en los términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí, y
+
+IX. En general de todas las cuestiones familiares que reclamen la intervención judicial.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
@@ -2800,5 +2830,21 @@ P.O. 25 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0268.- SE ADICIONA AL ARTÍCULO 94 UNA FRACCIÓN, ÉSTA COMO XLI, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0364.- SE REFORMAN LOS ARTÍCULOS 4° EN SU FRACCIÓN III, 51 EN SU FRACCIÓN VIII Y 53 EN SU FRACCIÓN VII; Y ADICIONA A LOS ARTÍCULOS 4° EN SU FRACCIÓN III EL INCISO J), EL ARTÍCULO 50 BIS, 51 UNA FRACCIÓN, ÉSTA COMO IX Y 53 UNA FRACCIÓN, ÉSTA COMO VIII, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0366.- SE REFORMA EL ARTÍCULO 9º DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil veintitrés, previa su publicación en el Periódico Oficial del Estado "Plan de San Luis”; tratándose de las y los jueces que estén en la hipótesis del retiro, se deberá hacer la represupuestación correspondiente.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
