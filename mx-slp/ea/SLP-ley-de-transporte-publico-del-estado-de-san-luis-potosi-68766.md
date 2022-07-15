@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2021-08-05"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -2221,6 +2221,10 @@ El Gobierno del Estado podrá indemnizar a los concesionarios afectados, previo 
 
 Corresponde a la Secretaría por sí, o a través de su Dirección General, o de la Dirección General de Transporte Colectivo Metropolitano, controlar, regular, vigilar, inspeccionar y vigilar la prestación del servicio público de transporte, imponiendo las medidas de seguridad y sanciones en los términos que establece la presente Ley, por el incumplimiento de las disposiciones que ésta y su reglamento establecen.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+ARTICULO 112 BIS. La Secretaría implementará inspecciones y revisiones mecánicas, de manera aleatoria, para verificar que las unidades operen bajo los esquemas pertinentes de seguridad para los usuarios. En un periodo de un año deberá inspeccionar al menos un cinco por ciento del total de las unidades que prestan servicio.
+
 ###### ARTICULO 113.
 
 Los concesionarios, permisionarios y operadores, están obligados a proporcionar a los inspectores, o al personal habilitado para tal efecto por la Secretaría, previa acreditación como tales, los informes y datos que sean necesarios para el ejercicio de sus funciones.
@@ -3282,5 +3286,13 @@ P.O. 5 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1227.- SE REFORMA EL ARTÍCULO 79 EN SU FRACCIÓN I, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0367.- SE ADICIONA EL ARTÍCULO 112 BIS, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
