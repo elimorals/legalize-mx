@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2021-12-09"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1935,9 +1935,9 @@ II. De limpieza y control de los predios baldíos, para evitar que se transforme
 
 III. Cualquier otro tendiente a prevenir y controlar la contaminación originada por estos residuos, así como a rehabilitar sitios contaminados;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-IV. De concientización y organización ciudadana vecinal para promover la cultura, educación y capacitación ambientales, para la eliminación del uso de bolsas de plástico, y
+IV. De concientización y organización ciudadana vecinal para promover la cultura, educación y capacitación ambientales, para la eliminación del uso de bolsas, envases, cucharas, cuchillos, tenedores, popotes y desechables todos de plástico, así como desechables de unicel, y
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2021)</small>
 
@@ -3017,13 +3017,19 @@ Las conductas constitutivas de delitos en materia ambiental, se sancionaran de c
 
 Se impondrá de uno a cuatro años de prisión, y sanción pecuniaria de cien a cuatrocientos días del valor de la Unidad de Medida y Actualización, a quien se ostente, sin serlo, como representante de cualquier autoridad, con el objeto de verificar cualquier dato relacionado a lo dispuesto en el artículo 104 fracción V inciso c), de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 175.
 
-La SEGAM deberá presentar denuncia o querella, según proceda, respecto de los delitos en materia ambiental de los que tenga conocimiento.
+La SEGAM o cualquier autoridad deberán presentar denuncia o querella, y en el caso de las personas lo podrán hacer, según proceda, respecto de los delitos de materia ambiental de los que se tenga conocimiento.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
 Tratándose de delitos ambientales, como autoridad en la materia, la SEGAM deberá coadyuvar con el Ministerio Público del fuero común.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+ARTICULO 175 BIS. La SEGAM proporcionará en la materia de su competencia, los dictámenes técnicos que le soliciten la Fiscalía General del Estado o las autoridades judiciales, con motivo de las denuncias o querellas presentadas por la comisión de delitos en contra del medio ambiente.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -3746,5 +3752,13 @@ P.O. 9 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0139.- SE REFORMA LOS ARTÍCULOS 1°, 7°, 8°, 23, 26, 32, 38, 41, 44, 45, 47, 48, 61, 68, 69, 70, 98, 110; Y ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XXVII BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0362.- SE REFORMAN LOS ARTÍCULOS 109 EN SU FRACCIÓN IV Y 175 EN SU PÁRRAFO PRIMERO; Y ADICIONA EL ARTÍCULO 175 BIS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 305 EN SU PÁRRAFO ÚLTIMO Y 310, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
