@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-periodico-oficial-del-estado-de-campeche-109521"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-06"
-last_updated: "2020-12-28"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109521&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DEL PERIODICO OFICIAL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 6 de agosto de 2015.
 
@@ -94,6 +96,10 @@ Es obligación del Poder Ejecutivo publicar en el Periódico Oficial del Estado 
 El Periódico Oficial del Estado contará con una estructura orgánica encabezada por una Dirección, subordinada jerárquicamente a la Secretaría General de Gobierno, la cual tendrá las atribuciones que se señalen en su Reglamento Interior.
 
 Esta Dirección será responsable de la operatividad del portal web del Periódico Oficial del Estado y se encargará de publicar electrónicamente los ordenamientos y las disposiciones a que se refiere el artículo 4 de esta Ley, para su búsqueda, consulta y descarga.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+El portal web del Periódico Oficial del Estado deberá contar con las herramientas tecnológicas necesarias que garanticen la accesibilidad de la versión electrónica de la información a personas con discapacidad visual y/o auditiva.
 
 ### CAPÍTULO III. DE LA DIRECCIÓN DE LOS TALLERES GRÁFICOS
 
@@ -186,6 +192,10 @@ El Periódico Oficial del Estado podrá ser publicado todos los días del año y
 El Periódico Oficial del Estado será editado electrónicamente con las medidas de seguridad correspondientes encaminadas a garantizar la autenticidad; para efectos de evidencia documental física, se imprimirán dos ejemplares con idénticas características y contenido, así como para garantizar la publicación en los casos en que resulte imposible acceder a su edición electrónica por causas de fuerza mayor.
 
 De los ejemplares impresos uno quedará en custodia del Periódico Oficial del Estado y el otro en el Archivo General del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+Adicionalmente se podrá editar una versión física del Periódico Oficial del Estado en Braille, la cual estará disponible en el Archivo General del Estado para su consulta, así como estará disponible el archivo audiovisual.
 
 ###### Art. 15.
 
@@ -338,3 +348,13 @@ SEGUNDO.- Para el caso de los ejemplares impresos emitidos antes de la entrada e
 TERCERO.- Con la entrada en vigor se deberán de realizar las adecuaciones legales y administrativas al marco jurídico estatal, para armonizarlo con lo dispuesto en el presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 98 POR EL QUE "SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 6 Y UN PÁRRAFO CUARTO AL ARTÍCULO 14 DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero.- El presente decreto entrará en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Secretaría de Gobierno de la administración pública estatal adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio correspondiente.
+
+Artículo Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
