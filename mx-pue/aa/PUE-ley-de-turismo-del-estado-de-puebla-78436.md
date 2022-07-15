@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2021-11-03"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,153 +21,207 @@ state: "PUE"
 ---
 # LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-REGLAMENTO DEL ARCHIVO GENERAL DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
+LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
-Reglamento publicado en el Suplemento del Periódico Oficial, el sábado 22 de septiembre del 2001.
+Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
-PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
+DECRETO del Honorable Congreso del Estado, que expide la LEY DE TURISMO DEL ESTADO DE PUEBLA.
 
-FELIPE BORREGO, Magistrado Presidente del Tribunal Superior de Justicia, con fundamento en el artículo 13 fracciones I y IX de la Ley Orgánica del Poder Judicial, hago saber, que el Pleno de este Órgano Colegiado, en sesión ordinaria celebrada el día 30 de agosto del 2001, emitió el siguiente Reglamento:
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
 
-EXPOSICIÓN DE MOTIVOS
+LICENCIADO MARIO P. MARÍN TORRES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
 
-Mediante Decreto número 253, publicado en suplemento al número 27 del Periódico Oficial del Gobierno del Estado, correspondiente al día 4 de abril del año 2001, la LVI Legislatura del Estado expidió una nueva Ley Orgánica para el Poder Judicial del Estado.
+Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
-En los artículos 11 fracción IX, 13 fracción XXV y 24 fracción XII del citado cuerpo de leyes se estableció la obligación de organizar y controlar el Archivo General del Poder Judicial.
+EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-La mencionada unidad de apoyo a la función jurisdiccional es la responsable de la guarda, custodia y conservación de los expedientes tanto jurisdiccionales, como administrativos concluidos y demás documentación relacionada con la actividad del Poder Judicial del Estado de Zacatecas. También esta área coadyuva para que los distintos archivos de Segunda Instancia y de los Juzgados de Primera Instancia se encuentren desahogados a efecto de que tengan un manejo ágil y expedito, permitiendo que en él se guarden los expedientes civiles, mercantiles y familiares en los cuales se haya dejado de actuar por más de un año.
+CONSIDERANDO
 
-Tan importante función requiere, para un mejor servicio, estar debidamente normada, por ello, con fundamento en el artículo 11 fracciones VIII y X de la Ley Orgánica del Poder judicial se emite el siguiente:
+[...]
 
-REGLAMENTO DEL ARCHIVO GENERAL DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS.
+Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y XIV, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 24 fracciones I y XIV y 93 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
+
+LEY DE TURISMO DEL ESTADO DE PUEBLA
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO I. GENERALIDADES
 
-###### ARTÍCULO 1.
+###### Artículo 1.
 
-El Archivo General del Poder Judicial es la unidad de apoyo a la función jurisdiccional responsable de la guarda, custodia y conservación de los expedientes tanto jurisdiccionales, como administrativos y demás documentación relacionada con la actividad del Poder Judicial del Estado de Zacatecas.
+La presente Ley es de orden público e interés social, su aplicación corresponde al Titular del Ejecutivo del Estado a través de la Secretaría de Turismo y a los Ayuntamientos en el ámbito de su competencia.
 
-El Archivo General del Poder Judicial contará con el espacio físico que para su debido funcionamiento que autorice el Pleno del Tribunal Superior de Justicia.
+###### Artículo 2.
 
-###### ARTÍCULO 2.
+La presente Ley tiene como objetivos los siguientes:
 
-Se depositarán en el Archivo General del Poder Judicial:
+I.- Establecer las bases para la planeación, programación y evaluación de las políticas públicas en materia turística en el Estado y sus Municipios, bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado a corto, mediano y largo plazo, así como la participación de los sectores social y privado;
 
-I. Los expedientes y tocas del orden civil, mercantil, familiar y penal concluidos por las autoridades judiciales del Estado;
+II.- Fomentar la creación de las Zonas de Desarrollo Turístico Sustentable, su operación y las facultades concurrentes que de manera coordinada, ejercerán el Ejecutivo Estatal y Municipios, con base en las reglas y procedimientos emitidos por las instancias legalmente competentes y disposiciones normativas aplicables;
 
-II. Provisionalmente, los expedientes y tocas en los que se haya dejado de promover por más de un año;
+III.- Estimular y promover la inversión pública, privada y social de capitales nacionales y extranjeros;
 
-III. Los expediente concluidos cuyo trámite corresponda al Pleno del Tribunal;
+IV.- Impulsar en forma sostenida nuevas fuentes de empleo y conservar las ya existentes, elevando el nivel de vida económica, social y cultural de los habitantes del Estado;
 
-IV. Los expedientes administrativos relativos a los servidores públicos del Poder Judicial, cuando hayan dejado de prestar sus servicios;
+V.- Determinar los derechos y obligaciones de los usuarios y prestadores de los servicios turísticos a que se refiere la presente Ley;
 
-V. Los legajos de correspondencia y constancias que emita el Tribunal Superior de Justicia; y
+VI.- Promover la creación, conservación, mejoramiento, protección y aprovechamiento de los recursos y atractivos turísticos del Estado, preservando el equilibrio ecológico, el cuidado del medio ambiente, y el desarrollo urbano, rural y social;
 
-VI. Los documentos y libros que las leyes determinen o el Pleno acuerde por considerar que su conservación resulta conveniente.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2021)</small>
 
-###### ARTÍCULO 3.
+VII.- Determinar los mecanismos e instrumentos para la conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos, pueblos mágicos y atractivos turísticos estatales y municipales, preservando el patrimonio natural, histórico, arquitectónico y cultural, con base en los criterios determinados por las leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos turísticos, en apego al marco jurídico vigente;
 
-La organización del Archivo, será en los siguientes ramos:
+VIII.- Fomentar las acciones de planeación, coordinación, promoción, programación, capacitación, concertación, verificación y vigilancia del desarrollo turístico entre la Federación, el Estado y los Municipios en el ámbito de sus respectivas competencias y los sectores social y privado;
 
-I. Pleno;
+IX.- Determinar los lineamientos que impulsen el turismo bajo bases y principios que permitan la planeación, programación, capacitación, promoción y concertación de las autoridades responsables y de los prestadores de servicios;
 
-II. Presidencia;
+X.- Fomentar y desarrollar acciones para diversificar la actividad turística, en el marco del desarrollo estatal de manera integral, apoyando el aprovechamiento de las actividades propias de las comunidades;
 
-III. Salas;
+XI.- Establecer los lineamientos para facilitar a las personas con discapacidad las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a la actividad turística;
 
-IV. Secretaría General de Acuerdos;
+XII.- Considerar los principios que garantizan a las personas con discapacidad y a los adultos mayores, la igualdad de oportunidades dentro de los programas de desarrollo del sector turístico;
 
-V. Oficialía Mayor;
+XIII.- Fomentar la accesibilidad al turismo en beneficio de todos los grupos sociales, sin hacer distinción;
 
-VI. Juzgados de Primera Instancia;
+XIV.- Promover y vigilar el desarrollo del turismo social, propiciando el acceso de toda la ciudadanía al descanso y recreación mediante esta actividad; y
 
-VII. Juzgados Municipales; y
+XV.- Determinar las líneas de acción que estimulen la calidad y competitividad en los servicios turísticos.
 
-VIII. Varios
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-Los ramos señalados, a su vez, se dividirán por materia, en las siguientes secciones: Civil, Mercantil, Familiar, Penal, Administrativa y varios.
+###### Artículo 3.
 
-###### ARTÍCULO 4.
+Para los efectos de esta ley, se entenderá por:
 
-Las diferentes dependencias del Poder Judicial, remitirán al archivo los expedientes para su control, custodia y reguardo, acompañados de una relación donde consten: los ramos y secciones a que correspondan, el número de expediente o toca; la clase de juicio, nombres del actor y demandado o, acusado y ofendido, según la naturaleza del mismo, situación actual del proceso y el motivo que origina la remisión.
+I.- Accesibilidad: combinación de elementos constructivos y operativos que permiten a cualquier persona con discapacidad entrar, desplazarse, salir, orientarse, ser atendido y comunicarse de manera segura, autónoma y cómoda en los espacios de uso público, con o sin ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte;
 
-###### ARTÍCULO 5.
+II.- Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de descanso, entretenimiento u otros motivos;
 
-Los ingresos de los expedientes y documentos del archivo se registrarán en archivo magnético conforme el orden y número de registro que les haya correspondido en la dependencia remitente y, arreglados convenientemente, se colocarán en el ramo y sección que les corresponda.
+III.- Centro de Desarrollo Turístico: La infraestructura diseñada con fines de promoción y fomento de productos y actividades turísticas regionales y municipales;
 
-###### ARTÍCULO 6.
+IV.- Consejo Consultivo: Consejo Consultivo de Turismo del Estado de Puebla;
 
-Los expedientes y tocas concluidos sólo podrán ser extraídos del Archivo Judicial por orden del Presidente del Tribunal Superior, los Presidentes de las Salas o determinación de la Secretaría General de Acuerdos, de lo cual se tomará razón registrándose en un libro especial que se denominará de salidas, anotándose los datos relativos a la instrucción, así como las características del expediente o documento respectivo.
+V.- Estado: Estado Libre y Soberano de Puebla;
+
+VI.- Ley: Ley de Turismo del Estado de Puebla;
+
+VII.- Ordenamiento Turístico del Territorio: Instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y desarrollo urbano;
+
+VIII.- Prestadores de Servicios Turísticos: Las personas físicas o jurídicas que ofrezcan, proporcionen o contraten con el turista, la prestación de los servicios a que se refiere esta Ley;
+
+IX.- Región Turística: Es un espacio geográfico homogéneo que puede abarcar el territorio de dos o más Municipios y en el que, por la cercana distancia de los atractivos y servicios, se complementan;
+
+X.- Reglamento: Reglamento de la Ley de Turismo del Estado de Puebla;
+
+XI.- Secretaría: La Dependencia de la Administración Pública Estatal competente en materia de turismo;
+
+XII.- Sector: El conjunto de organismos públicos, privados y sociales que por su naturaleza y en función de sus objetivos atienden actividades turísticas;
+
+XIII.- Servicios Turísticos: Los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
+
+XIV.- Turismo Sustentable: Aquel que cumple con las siguientes directrices:
+
+a) Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos, utilizando plantas de tratamiento de aguas residuales, generación de energía, proceso de separación de basura y reciclado;
+
+b) Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos; y
+
+c) Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
+
+XV.- Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley;
+
+XVI.- Turismo: Actividad que se presenta cuando uno o más individuos se trasladan a uno o más sitios distintos de su residencia habitual con el propósito de recreación, salud, descanso, cultura, placer y esparcimiento, creando con esto beneficios económicos para la región turísitica (sic), al consumir bienes y servicios;
+
+XVII.- Turismo Accesible: Es aquel que brinda servicios que tienen las características para ser usados por personas con diferentes grados de habilidad, tomando en cuenta diferentes tipos de discapacidad;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
+
+XVIII.- Zonas de Desarrollo Turístico Prioritario: Son aquellos municipios, regiones o lugares que por sus características geográficas, sociales, históricas o culturales, constituyen un atractivo turístico y son susceptibles de proporcionarles el apoyo para su desarrollo turístico preferente;
+
+XIX.- Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal claramente ubicadas y delimitadas geográficamente, que por sus características naturales o culturales, constituyen un atractivo turístico así declarado mediante Decreto.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+
+XX.- Turismo Médico y Salud: Actividad generada por las personas que se trasladan fuera de su lugar de residencia con el propósito de rehabilitarse o para mejorar su estado de salud a través de servicios terapéuticos, de recreación, relajación, servicios y tratamientos médicos relacionados con la salud; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2013)</small>
+
+XXI.- Prestadores de Servicios relacionados con el Turismo de Salud: Todos aquéllos que a criterio de la Secretaría de Salud del Estado y de los Servicios de Salud del Estado de Puebla, brinden servicios terapéuticos como: Spa, masajes, medicina alópata y aguas termales. Estos Prestadores de Servicios deberán ser previamente certificados conjuntamente por la Secretaría, la Secretaría de Salud del Estado y por los Servicios de Salud del Estado de Puebla.
+
+Las certificaciones correspondientes se tramitarán de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXII.- Congresos: Toda reunión profesional que tiene por objeto realizar una discusión y un intercambio profesional y/o académico en torno a un tema de interés. La iniciativa de realizar el Congreso puede ser Gremial o Institucional, la convocatoria es abierta y la participación voluntaria;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXIII.- Convenciones: Toda reunión gremial o empresarial cuyo objetivo es el tratar asuntos comerciales entre los participantes en torno a un mercado, producto o marca. La iniciativa suele ser empresarial, la convocatoria es cerrada (limitada a un público personalizado y relacionado con el tema) y la participación suele ser por invitación;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXIV.- Ferias y Exposiciones: Son muestras o exhibiciones públicas que organizan profesionalmente empresas, asociaciones o individuos y cuya finalidad es la venta de productos o servicios de un sector determinado de la economía;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXV.- Viajes de Incentivo: Es una estrategia moderna gerencial utilizada para lograr metas empresariales fuera de lo común al premiar a los participantes con una experiencia extraordinaria de viaje, una vez lograda esa parte que les corresponde a las metas fuera de lo común;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXVI.- Reuniones de Negocios Grupal: Es el tipo de turismo en donde el destino es seleccionado por un mercado o producto que es el principal interés del negocio a realizar. Este tipo de turismo tiene la posibilidad de seleccionar el destino turístico donde se realice un congreso, convención o viaje de incentivos, siempre y cuando cumpla con los requisitos para su organización;
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+
+XXVII.- Reuniones de Negocios Individual: Se entiende por la persona que se desplaza y visita un destino turístico específico, en función de las actividades laborales y profesionales que desarrolla, además de realizar actividades basadas en el negocio por el cual viaja, frecuentemente llamados viajeros de negocios.
+
+###### Artículo 4.
+
+Los servicios turísticos que se prestan en el Estado se ajustarán a las disposiciones de la presente Ley, sin perjuicio de la aplicación de las disposiciones federales, estatales y municipales.
+
+###### Artículo 5.
+
+En la prestación de servicios turísticos queda prohibida toda discriminación motivada por origen étnico o racial, nacionalidad, género, edad, discapacidades, condición social, religión, salud, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+No se considerarán prácticas discriminatorias en contra de las personas, las tarifas y precios para el uso, consumo o disfrute, de los bienes o servicios ofertados, ni los requisitos de edad o las restricciones para el uso de instalaciones turísticas, cuando sean de carácter general y guarden relación directa con la especialización que el prestador de servicios turísticos decida otorgar, y siempre que las mismas no sean violatorias de otras leyes.
+
+###### Artículo 6.
+
+La calidad y clasificación de los servicios turísticos es materia exclusiva de la legislación federal aplicable.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES EN MATERIA DE TURISMO
 
-###### ARTÍCULO 7.
+###### Artículo 7.
 
-Los expedientes que se encuentren provisionalmente archivados o en reserva, sólo se regresarán a la dependencia de su origen a solicitud escrita de los titulares de éstas.
+El Ejecutivo del Estado a través de la Secretaría y los Ayuntamientos serán responsables del cumplimiento de esta Ley en el ámbito de competencia que les corresponda, con apego a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, los tratados internacionales ratificados por el Estado Mexicano y la legislación aplicable.
 
-###### ARTÍCULO 8.
+###### Artículo 8.
 
-El Archivero del Poder Judicial del Estado está facultado para expedir mediante orden judicial o acuerdo del Presidente del Tribunal Superior de Justicia, copias certificadas de los expedientes y documentos que se encuentren bajo su custodia.
+La Secretaría promoverá y participará en los acuerdos y convenios que celebre el Gobierno del Estado con el Gobierno Federal, los Municipios, los prestadores de servicios turísticos y personas interesadas en el desarrollo turístico del Estado.
 
-###### ARTÍCULO 9.
+###### Artículo 9.
 
-La revisión o examen de expedientes, libros o documentos del archivo, sólo se permitirá a las partes o sus abogados patronos en presencia de un servidor judicial y, previo acuerdo del Pleno, a investigadores de instituciones oficiales o de docencia.
+El Estado se coordinará con la Federación para integrar y consolidar la política en materia de turismo adoptando las medidas y acciones necesarias para la planeación, programación y evaluación de la actividad turística, en términos de la legislación aplicable.
 
-###### ARTÍCULO 10.
+###### Artículo 10.
 
-La falta de remisión al archivo de los expedientes que lo ameriten, será sancionada disciplinariamente en términos de la Ley Orgánica del Poder Judicial.
+El Ejecutivo Estatal por conducto de la Secretaría, podrá suscribir convenios y acuerdos de coordinación, con el objeto de que la Federación, el Estado y sus Municipios coadyuven en el ejercicio de sus atribuciones en lo siguiente:
 
-###### ARTÍCULO 11.
+I.- Administrar y supervisar las Zonas de Desarrollo Turístico Sustentable, conforme a lo establecido por la legislación aplicable y los programas de ordenamiento turístico del territorio;
 
-La dirección de la unidad de apoyo a la función jurisdiccional, materia del presente reglamento, estará a cargo del Archivero del Poder Judicial, los subdirectores y secretarios auxiliares que se requieran y permita el presupuesto.
+II.- Elaborar y ejecutar programas de desarrollo de la actividad turística; y
 
-###### ARTÍCULO 12.
+III.- Realizar acciones operativas que complementen los fines previstos en este ordenamiento.
 
-Son obligaciones del Archivero del Poder Judicial:
+###### Artículo 11.
 
-I. Tener a su cargo y bajo su responsabilidad el Archivo General del Poder Judicial;
+En los convenios o acuerdos de coordinación a que se refiere el artículo anterior se podrán establecer las políticas y acciones que habrán de instrumentar los gobiernos Federal, Estatal y Municipal, para fomentar las inversiones y propiciar el desarrollo integral y sustentable en beneficio de los habitantes de la Zona de que se trate; así como los compromisos que asumen dichos órdenes de gobierno para coordinar sus acciones dentro de éstas.
 
-II. Cuidar que los expedientes y demás documentos que se le remitan a su custodia se conserven y mantengan íntegros;
+Corresponde a la Secretaría evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo.
 
-III. Disponer que los expedientes y documentos se encuentren debidamente ordenados;
+###### Artículo 12.
 
-IV. Ordenar se mantengan debidamente actualizados los libros de registro que se mencionan en los artículos 5 y 6 de este Reglamento;
-
-V. Acordar el ingreso y salida de expedientes y documentos;
-
-VI. Proponer al Pleno del Tribunal la remisión, al Archivo Histórico de los expedientes y documentos que tengan más de 30 años de ingreso al archivo;
-
-VII. Sugerir la destrucción de documentos que no representen ninguna utilidad jurisdiccional o histórica o que puedan ser conservados mediante sistemas de microfilmación o informáticos;
-
-VIII. Integrar y presentar informes mensuales al Tribunal Superior de Justicia, respecto de las actividades de la dependencia; y
-
-IX. Las demás que le imponga la ley o el Pleno del Tribunal Superior de Justicia.
-
-Transitorios (sic)
-
-ÚNICO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
-
-Dado en el Salón de Plenos del H. Tribunal Superior de Justicia del Estado de Zacatecas a los treinta días del mes de agosto del dos mil uno.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN
-
-ZACATECAS, ZAC., SEPTIEMBRE 10 DEL 2001
-
-EL MAGISTRADO PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
-
-LIC. FELIPE BORREGO.
-
-(Rúbrica)
-
-EL SECRETARIO GENERAL DE ACUERDOS
-
-LIC. JUAN VÍCTOR M. GONZÁLEZ CARRETÓN.
-
-(Rúbrica)
+La Secretaría promoverá la participación del Estado en los programas turísticos que contemplen a varias Entidades Federativas, proponiendo para tal efecto al Ejecutivo del Estado la suscripción de los convenios necesarios.
 
 ### CAPÍTULO III. DEL EJECUTIVO ESTATAL
 
@@ -479,13 +533,25 @@ VII.- Turismo Social y de Naturaleza;
 
 VIII.- Turismo Accesible y de adultos mayores;
 
-IX.- Atención y facilitación de la actividad turística;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-X.- Capacitación a los prestadores de servicios turísticos;
+IX.- Turismo Virtual;
 
-XI.- Mecanismos de estímulo y financiamiento a la actividad turística; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
-XII.- Mecanismos de coordinación y participación con los sectores público, social y privado para el impulso y fomento de la actividad turística.
+X.- Atención y facilitación de la actividad turística;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+XI.- Capacitación a los prestadores de servicios turísticos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+XII.- Mecanismos de estímulo y financiamiento a la actividad turística; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+XIII.- Mecanismos de coordinación y participación con los sectores público, social y privado para el impulso y fomento de la actividad turística.
 
 ###### Artículo 30.
 
@@ -905,9 +971,11 @@ De la misma forma promoverá ante las autoridades correspondientes la instrument
 
 La Secretaría gestionará en coordinación con la Secretaría de Desarrollo Económico del Estado, la creación de empresas dedicadas a la actividad turística, identificando las posibilidades de inversión con factibilidad económica y financiera, buscando un balance entre las necesidades específicas de las zonas, la protección y conservación de los recursos naturales, culturales y el patrimonio histórico.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### Artículo 70.
 
-Se promoverán incentivos o estímulos fiscales a los prestadores que cumplan con los ordenamientos, normas oficiales y lineamientos en materia de turismo, así como aquellos que fomenten el empleo, la accesibilidad en beneficio de las personas con discapacidad y en materia de protección al medio ambiente, de conformidad con las Leyes de Ingresos y de Egresos del Estado para el ejercicio fiscal que corresponda y las demás leyes en la materia.
+Se promoverán incentivos o estímulos fiscales a los prestadores de servicios turísticos que cumplan con los ordenamientos, normas oficiales y lineamientos en materia de turismo, así como aquellos que fomenten el empleo, la accesibilidad en beneficio de las personas con discapacidad y en materia de protección al medio ambiente y turismo sustentable de conformidad con las Leyes de Ingresos y de Egresos del ejercicio fiscal que corresponda y las demás leyes en la materia.
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
@@ -1163,7 +1231,9 @@ III.- Fomentar cursos de capacitación turística para el personal de los servic
 
 IV.- Participar coordinadamente con dependencias y entidades públicas y con los sectores social y privado en actividades de capacitación turística;
 
-V.- Capacitar a sus trabajadores y empleados en materia de accesibilidad, trato preferencial a personas con discapacidad y adultos mayores;
+> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+
+V.- Capacitar a sus trabajadores y empleados en materia de accesibilidad, respeto a los Derechos Humanos, igualdad de género y, trato preferencial a personas con discapacidad y adultos mayores;
 
 VI.- Intervenir en programas de capacitación a guías de turistas; y
 
@@ -1298,3 +1368,27 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo Estatal deberá realizar las modificaciones al Reglamento de la presente Ley, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IX, X, XI, XII, DEL ARTÍCULO 29 Y ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 29 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 92 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 70 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
