@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-para-el-estado-de-122912
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-21"
-last_updated: "2021-07-09"
+last_updated: "2022-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 21 de julio de 2017.
 
@@ -376,6 +376,10 @@ El instituto establecerá los lineamientos necesarios para asegurar que la infor
 La información pública de oficio deberá de actualizarse en los medios electrónicos disponibles por lo menos una vez al mes. En todos los casos se deberá de indicar en el medio electrónico la fecha de actualización por cada rubro de información.
 
 La información publicada por los sujetos obligados en términos del presente ordenamiento no constituye propaganda gubernamental, por lo que deberá mantenerse accesible, incluso dentro de los procesos electorales.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+Toda la información y documentos contenidos en los medios electrónicos señalados en la presente ley constituyen hechos notorios, y sus alcances y eficacia probatoria serán los que determinen las leyes y los criterios de las autoridades administrativas y jurisdiccionales aplicables a cada caso.
 
 ###### Artículo 20.
 
@@ -3056,3 +3060,9 @@ En un plazo de noventa días naturales, los sujetos obligados deberán publicar 
 ###### ARTÍCULO TERCERO.
 
 La obligación contenida en la fracción LII del artículo 21, en su primera aplicación, deberá cumplirse con la información recabada durante los últimos 6 años.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 243.- SE ADICIONA EL TERCER PÁRRAFO DEL ARTÍCULO 19 DE LA LEY DE ACCESO, A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
