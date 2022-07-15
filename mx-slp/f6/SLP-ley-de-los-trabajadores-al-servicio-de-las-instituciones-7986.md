@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2021-12-09"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -631,7 +631,9 @@ Las instituciones públicas de gobierno, podrán cesar al trabajador, sin incurr
 
 I.- Incurra en faltas de probidad u honradez o en actos de violencia, amagos, injurias o malos tratos contra sus jefes, compañeros o familiares de unos u otros durante el servicio, salvo que medie provocación o legitima defensa; si son tan graves que hagan imposible la relación de trabajo;
 
-II.- Tenga más de tres faltas de asistencia consecutivas en un período de treinta días, sin mediar permiso por escrito del titular de su área de trabajo o causa justificada;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+II.- Tenga más de tres faltas de asistencia en un periodo de treinta días, sin permiso por escrito del titular de su área de trabajo o sin causa justificada;
 
 III.- Sin previo aviso preste sus servicios para otro patrón o dependencia o cuando siendo para la misma u otra institución pública de gobierno, exista incompatibilidad de horarios u otra causa suficiente que así lo amerite;
 
@@ -1180,6 +1182,10 @@ IV.- Una relación explícita de los hechos en que se funda la demanda, sin que 
 V.- La indicación del lugar donde se puedan obtener las pruebas que el reclamante no pudiera aportar directamente y que tiendan a demostrar los hechos en que se funda la demanda; así como las diligencias cuya práctica solicite con el mismo fin.
 
 En la demanda se ofrecerán y acompañarán las pruebas de que se disponga y los documentos que acrediten la personalidad del representante, en su caso.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+En lo referente a las fracciones I y II de este artículo, el actor, además de los datos como nombre oficial de la vialidad, numeración oficial que le corresponda y colonia o fraccionamiento, podrá proporcionar datos complementarios que faciliten la identificación del domicilio como lo son, código postal de conformidad con las asignaciones del Servicio Postal Mexicano, y descripción de la ubicación, es decir, las calles entre las que se localiza el domicilio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2020)</small>
 
@@ -2194,6 +2200,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE DICIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0141.- SE REFORMA EL ARTÍCULO 162 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0361.- SE REFORMA EL ARTÍCULO 55 EN SU FRACCIÓN II, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0365.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 119, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
