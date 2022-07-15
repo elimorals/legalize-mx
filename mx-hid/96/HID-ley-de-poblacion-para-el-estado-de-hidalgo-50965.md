@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2019-10-14"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -201,9 +201,15 @@ VII.- Promover la plena integración de la mujer, al proceso productivo, políti
 
 VIII.- Contemplar políticas públicas especiales y diferenciadas para atender a la Población infantil, con discapacidad, indígenas y de la tercera edad;
 
-IX.- Extender la política de Población a los grupos indígenas de la Entidad, con pleno respeto a sus formas de organización, cultura y tradiciones;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+IX.- Extender la política de Población a los grupos indígenas de la Entidad, con pleno respeto a sus formas de organización, cultura, tradiciones y derechos lingüísticos;
 
 X.- Procurar la planificación ordenada de los centros de Población urbanos, para asegurar una eficaz prestación de los servicios públicos;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+
+X Bis.- Promover políticas, planes y programas con un enfoque integral acorde con la complejidad de la movilidad nacional e internacional de personas, que atienda las diversas manifestaciones de migración en México como país de origen, tránsito, destino y retorno de migrantes, considerando sus causas estructurales y sus consecuencias inmediatas y futuras.
 
 XI.- Contribuir a controlar la expansión del crecimiento urbano sobre terrenos agrícolas. productivos y fomentar la creación de centros rurales, que concentren los servicios públicos básicos;
 
@@ -243,6 +249,10 @@ VII.- Las estrategias y acciones para su difusión, información, educación y c
 
 VIII.- Los mecanismos y fuentes de financiamiento de los programas;
 
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+
+VIII Bis.- Las acciones para atender causas estructurales de migración, para evitar que personas en situación de vulnerabilidad emigren;
+
 IX.- Los mecanismos de vinculación de los Programas Estatales, con los del Gobierno Federal, Estatal y Municipal, a fin de impulsar el mejoramiento de las condiciones de vida de la Población; y
 
 X.- Las demás que sean necesarias para conseguir que la Población del Estado, se desarrolle y distribuya de manera racional.
@@ -263,23 +273,37 @@ Los planes y programas que contempla esta Ley, serán obligatorios para las Depe
 
 Los planes y programas que contempla esta Ley, tendrán una duración igual al periodo Constitucional Estatal o Municipal en que se expidan, los cuales deberán ser Publicados en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### Artículo 19.
 
-En la formulación de los planes y programas se considerarán los elementos demográficos, culturales, económicos, productivos y sociales, permitiendo que su aplicación promueva el desarrollo integral de la población. Sin perjuicio de lo que disponga la normatividad en la materia, los Programas Estatales serán desarrollados con perspectiva intercultural y de respeto a toda forma de diversidad y deberán considerar como mínimo para su elaboración:
+En la formulación de los planes y programas se considerarán los elementos demográficos, culturales, económicos, productivos y sociales, permitiendo que su aplicación promueva el desarrollo integral de la población. Sin perjuicio de lo que disponga la normatividad en la materia, los Programas Estatales serán desarrollados con perspectiva intercultural y de género, así como, el interés superior de las niñas, niños y adolescentes y de respeto a toda forma de diversidad y deberán considerar como mínimo para su elaboración.
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
 
 I.- Marco normativo;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+
 II.- Diagnóstico;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
 
 III.- Alineación a metas estatales, municipales o delegacionales, según corresponda;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+
 IV.- Objetivos;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
 
 V.- Estrategias;
 
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+
 VI.- Líneas de acción, y
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
 
 VII.- Criterios e Indicadores de evaluación.
 
@@ -451,13 +475,25 @@ III.- Políticos;
 
 IV.- Tradicionales; y
 
-V.- Sociales.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+V.- Sociales;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+
+VI.- Perspectiva de género e intercultural; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+
+VII.- El interés superior de las niñas, niños y adolescentes.
 
 ###### Artículo 30.
 
 El CONSEJO, en coordinación con las Dependencias, Entidades Federales y Estatales competentes y los Ayuntamientos, proporcionarán servicios a la Población abierta sobre orientación y gestión de trámites, en materia de registro civil, derechos humanos, migración y servicio exterior, entre otros.
 
-Los migrantes que carezcan de cualquier medio legal de identificación, podrán hacerlo en el Estado, con la Matrícula Consular que se les haya expedido.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
+Las personas migrantes que carezcan de cualquier medio legal de identificación, podrán hacerlo en el Estado, con la Matrícula Consular que se les haya expedido.
 
 ###### Artículo 31.
 
@@ -532,3 +568,9 @@ P.O. 14 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 214 QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 11; LA DENOMINACIÓN DEL CAPÍTULO VI DE LA SALUD SEXUAL, REPRODUCTIVA Y LA PLANIFICACIÓN FAMILIAR; EL ARTÍCULO 25; Y SE ADICIONA EL ARTÍCULO 25 BIS DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 222 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, Y DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
