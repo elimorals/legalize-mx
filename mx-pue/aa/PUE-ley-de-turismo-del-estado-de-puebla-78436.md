@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2021-11-03"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -971,9 +971,11 @@ De la misma forma promoverá ante las autoridades correspondientes la instrument
 
 La Secretaría gestionará en coordinación con la Secretaría de Desarrollo Económico del Estado, la creación de empresas dedicadas a la actividad turística, identificando las posibilidades de inversión con factibilidad económica y financiera, buscando un balance entre las necesidades específicas de las zonas, la protección y conservación de los recursos naturales, culturales y el patrimonio histórico.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### Artículo 70.
 
-Se promoverán incentivos o estímulos fiscales a los prestadores que cumplan con los ordenamientos, normas oficiales y lineamientos en materia de turismo, así como aquellos que fomenten el empleo, la accesibilidad en beneficio de las personas con discapacidad y en materia de protección al medio ambiente, de conformidad con las Leyes de Ingresos y de Egresos del Estado para el ejercicio fiscal que corresponda y las demás leyes en la materia.
+Se promoverán incentivos o estímulos fiscales a los prestadores de servicios turísticos que cumplan con los ordenamientos, normas oficiales y lineamientos en materia de turismo, así como aquellos que fomenten el empleo, la accesibilidad en beneficio de las personas con discapacidad y en materia de protección al medio ambiente y turismo sustentable de conformidad con las Leyes de Ingresos y de Egresos del ejercicio fiscal que corresponda y las demás leyes en la materia.
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
@@ -1378,6 +1380,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 92 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 70 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
