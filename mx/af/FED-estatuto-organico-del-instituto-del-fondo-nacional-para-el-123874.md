@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-para-el-1238
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-10-16"
-last_updated: "2017-10-16"
+last_updated: "2022-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123874&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-07-28"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 15 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2022 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de octubre de 2017.
 
@@ -1534,3 +1536,15 @@ PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día hábil siguie
 SEGUNDO.- Solicítese la inscripción del presente Estatuto en el Registro Público de Organismos Descentralizados, de conformidad con lo establecido en los artículos 15 y 25 fracción I, de la Ley Federal de las Entidades Paraestatales.
 
 Ciudad de México, a 28 de julio de 2017.- El Director General del Instituto del Fondo Nacional para el Consumo de los Trabajadores, César Alberto Martínez Baranda.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES”.]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día hábil siguiente en que se publique en el Diario Oficial de la Federación, abrogándose ese mismo día el Estatuto Orgánico del Instituto del Fondo Nacional para el Consumo de los Trabajadores, publicado en el Diario Oficial de la Federación, el 16 de octubre de 2017.
+
+SEGUNDO.- Solicítese al/a (sic) la Abogado/a General la inscripción del presente Estatuto en el Registro Público de Organismos Descentralizados, de conformidad con lo establecido en los artículos 15 y 25 fracción I, de la Ley Federal de las Entidades Paraestatales.
+
+TERCERO.- Se deroga la normatividad interna del Instituto en lo que se oponga al presente Estatuto Orgánico.
