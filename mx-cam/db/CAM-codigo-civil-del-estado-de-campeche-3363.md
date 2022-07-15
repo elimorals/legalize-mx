@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2022-07-12"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -429,15 +429,17 @@ Art. 66 bis.- En todos los casos comprendidos en el presente capítulo, en los q
 
 De las actas de nacimiento.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### Art. 67.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en el lugar en que hubiere nacido.
+Las declaraciones de nacimiento se harán presentando al niño o niña ante el Oficial del Registro Civil, en su oficina o en el lugar en que hubiere nacido, durante los primeros sesenta días de ocurrido el nacimiento.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2019)</small>
+El registro extemporáneo es aquel que se declara después de sesenta días de ocurrido el nacimiento.
 
-El Oficial del Registro Civil, para garantizar el derecho a la identidad de niñas y niños, realizará de manera gratuita la expedición de la primera copia certificada del acta de nacimiento con motivo del registro.
+Los registros extemporáneos de nacimiento se realizarán conforme al procedimiento previsto en las disposiciones reglamentarias correspondientes.
+
+El Oficial del Registro Civil, para garantizar el derecho a la identidad de las personas, realizará de manera gratuita la expedición de la primera copia certificada del acta de nacimiento con motivo del registro, incluyendo los casos en que el registro sea extemporáneo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2019)</small>
 
@@ -16560,3 +16562,13 @@ P.O. 12 DE JULIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 99 POR EL QUE "SE REFORMA EL ARTÍCULO 67 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- En un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones normativas necesarias para el debido cumplimiento de este decreto.
+
+Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
