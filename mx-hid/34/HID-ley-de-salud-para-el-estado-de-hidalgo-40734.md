@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2022-06-27"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -1581,7 +1581,9 @@ II. La prevención de la transmisión del VIH/Sida y otras infecciones de transm
 
 III. La atención del niño y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas;
 
-IV. La aplicación del tamiz neonatal ampliado;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+IV. La aplicación de las pruebas de, tamiz neonatal ampliado y, tamiz cardiológico neonatal por oximetría de pulso;
 
 V. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera; y,
 
@@ -2426,5 +2428,11 @@ P.O. 23 DE MAYO DE 2022.
 P.O. 27 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 216 QUE ADICIONA EL ARTÍCULO 202 TER AL CAPÍTULO ÚNICO DEL TÍTULO SEXTO BIS, DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 142 SEXTIES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 221 QUE REFORMA LA FRACCIÓN IV, DEL ARTÍCULO 142 UNDECIES 6 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
