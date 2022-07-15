@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vivienda-para-el-estado-de-puebla-68344"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-17"
-last_updated: "2019-07-26"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de abril de 2009.
 
@@ -65,9 +65,11 @@ Las políticas y programas, así como los instrumentos y apoyos a la vivienda a 
 
 Las dependencias, entidades de la administración pública estatal y municipios que lleven a cabo u otorguen financiamiento para programas o acciones de vivienda, quedan sujetas a las disposiciones de esta Ley y demás ordenamientos que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta Ley, se entenderá por:
+Para efectos de esta ley, se entenderá por:
 
 I. Beneficiarios.- Los sujetos favorecidos de una acción de vivienda o de un crédito de vivienda;
 
@@ -87,61 +89,73 @@ V. Espacios Habitables.- El lugar de la vivienda donde se desarrollan actividade
 
 VI. Habitabilidad.- Se refiere a las condiciones de las características físicas de la vivienda en cuanto a su tamaño, calidad y durabilidad de sus materiales así como los servicios básicos y las características psicosociales de la familia como hábitos, conductas o maneras de ser adquiridas en el transcurso del tiempo;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2022)</small>
 
-VII. Ley.- Ley de Vivienda para el Estado de Puebla;
+VII. Asequibilidad.- La disponibilidad de una vivienda de acuerdo a los ingresos de los adquirientes o usuarios, permitiendo el disfrute de otros derechos;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2022)</small>
 
-VIII. Marginación.- Situación de aislamiento y exclusión de un individuo;
+VIII. Accesibilidad.- El diseño y materialidad de la vivienda considerando las necesidades de los grupos desfavorecidos, marginados y de las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2022)</small>
 
-IX. Población Vulnerable.- La constituida por los adultos mayores y personas discapacitadas, jefas de hogar, madres solteras, población indígena, población con empleo temporal y/o informal de bajos recursos económicos;
+IX. Mejoramiento de la vivienda.- La acción tendiente a consolidar o renovar las viviendas deterioradas física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda digna y decorosa;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
-X. Pobreza.- Circunstancia económica en la que una persona carece de los ingresos suficientes para acceder a una vivienda;
+X. Ley.- Ley de Vivienda para el Estado de Puebla;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
-XI. Registro.- Registro de Información Estatal de Vivienda;
+XI. Marginación.- Situación de aislamiento y exclusión de un individuo;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-XII. Secretaría.- Secretaría de Desarrollo Social;
+XII. Población Vulnerable.- La constituidas (sic) por los adultos mayores y personas discapacitadas, jefas de hogar, madres solteras, población indígena, población con empleo temporal y/o informal de bajos recursos económicos;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
-XIII. Sistema.- Sistema Estatal de Vivienda;
+XIII. Pobreza.- Circunstancia económica en la que una persona carece de los ingresos suficientes para acceder a una vivienda;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
-XIV. Vivienda.- Área construida que cuenta con el conjunto de satisfactores y servicios propios de la habitación;
+XIV. Registro.- Registro de Información Estatal de Vivienda;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
-XV. Vivienda Ecológica.- Aquella en la que se aplican criterios ecológicos y eco-tecnologías para promover una mejor calidad de vida para el usuario o usuarios sin deteriorar la calidad del medio ambiente;
+XV. Secretaría.- Secretaría de Desarrollo Social;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
-XVI. Vivienda Popular.- Aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por diez el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
+XVI. Sistema.- Sistema Estatal de Vivienda;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
-XVII. Vivienda Progresiva.- Aquella que se construye en etapas de acuerdo a los recursos del beneficiario;
+XVII. Vivienda.- Área construida que cuenta con el conjunto de satisfactores y servicios propios de la habitación;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
-XVIII. Sector Privado.- Toda persona física o moral que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro;
+XVIII. Vivienda Ecológica.- Aquella en la que se aplican criterios ecológicos y eco-tecnologías para promover una mejor calidad de vida para el usuario o usuarios sin deteriorar la calidad del medio ambiente;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
-XIX. Sector Público.- Toda dependencia, entidad u organismos de la administración pública, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda; y
+XIX. Vivienda Popular.- Aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por diez el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
 
-XX. Sector Social.- Toda persona física o moral, familia o grupo social, aún sin personalidad jurídica que sin fines preponderantes de lucro, realicen acciones o procesos habitacionales en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda popular.
+XX. Vivienda Progresiva.- Aquella que se construye en etapas de acuerdo a los recursos del beneficiario;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
+
+XXI. Sector Privado.- Toda persona física o moral que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JULIO DE 2022)</small>
+
+XXII. Sector Público.- Toda dependencia, entidad u organismo de la administración pública, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
+
+XXIII. Sector Social.- Toda persona física o moral, familia o grupo social, aún sin personalidad jurídica que sin fines preponderantes de lucro, realicen acciones o procesos habitacionales en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda popular.
 
 ###### Artículo 5.
 
@@ -199,13 +213,17 @@ XVII.- Fomentar la integración de redes de productores y distribuidores de mate
 
 XVIII.- Promover la investigación tecnológica a la innovación y promoción de sistemas constructivos socialmente apropiados;
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-XIX.- Promover y estimular la producción y distribución de materiales y elementos para la construcción de vivienda de carácter innovador a afecto (sic) de reducir costos; y
+XIX.- Promover y estimular la producción y distribución de materiales y elementos para la construcción de vivienda de carácter innovador a efecto de reducir costos;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-XX.- Fomentar la calidad de la vivienda y orientar los criterios mínimos de los espacios habitables y auxiliares.
+XX.- Fomentar la calidad de la vivienda y orientar los criterios mínimos de los espacios habitables y auxiliares; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+
+XXI.- Fomentar la accesibilidad y asequibilidad de la vivienda.
 
 ###### Artículo 8.
 
@@ -895,11 +913,11 @@ Este derecho se ejercerá ante la Secretaría, quien oirá previamente a los int
 
 Los servidores públicos que intervengan en los programas de vivienda que utilicen indebidamente su posición para beneficiarse de los procesos de producción y adquisición de vivienda, construcción de obras de infraestructura o en operaciones inmobiliarias, serán sancionados conforme a lo dispuesto en la Ley de Responsabilidades de Servidores Públicos del Estado de Puebla y demás disposiciones relativas.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### Artículo 73.
 
-La Secretaría informará de los procedimientos y requisitos necesarios para producir y adquirir vivienda, mediante la difusión de sus programas y reglas de operación a todos los promotores y productores sociales y privados, y al público en general; de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado.
+La Secretaría informará de los procedimientos y requisitos necesarios para producir, adquirir y mejorar la vivienda, mediante la difusión de sus programas y reglas de operación a todos los promotores y productores sociales y privados, y al público en general; de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
 ### CAPÍTULO XV. DEL RECURSO DE REVOCACIÓN
 
@@ -1044,6 +1062,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 26 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VII A XX DEL ARTÍCULO 4, LAS FRACCIONES XIX Y XX DEL ARTÍCULO 7 Y EL ARTÍCULO 73, Y ADICIONA LAS FRACCIONES XXI, XXII Y XXIII AL ARTÍCULO 4 Y LA FRACCIÓN XXI AL ARTÍCULO 7, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
