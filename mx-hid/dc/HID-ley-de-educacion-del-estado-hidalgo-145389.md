@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2022-06-09"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -128,6 +128,10 @@ Toda persona tiene derecho a la educación, la cual es un medio para adquirir, a
 Con el ejercicio de este derecho, inicia un proceso permanente centrado en el aprendizaje del educando, que contribuye a su desarrollo humano integral y a la transformación de la sociedad; es factor determinante para la adquisición de conocimientos significativos y la formación integral para la vida de las personas con un sentido de pertenencia social basado en el respeto de la diversidad, y es medio fundamental para la construcción de una sociedad equitativa y solidaria.
 
 La Secretaría ofrecerá a las personas las mismas oportunidades de aprendizaje, así como de acceso, tránsito, permanencia, avance académico y, en su caso, egreso oportuno en el Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las instituciones educativas con base en las disposiciones aplicables. Toda persona gozará del derecho fundamental a la educación bajo el principio de la intangibilidad de la dignidad humana.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+Artículo 8 BIS. La Secretaría aplicará inmediatamente la normatividad que permita dar continuidad a la impartición de clases, cuando ocurra una emergencia sanitaria o cualquiera otra situación de caso fortuito o de fuerza mayor que impida la asistencia presencial a las mismas.
 
 ###### Artículo 9.
 
@@ -2138,5 +2142,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 205 QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 14 Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 14, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE, Y UNA FRACCIÓN II BIS AL ARTÍCULO 116, AMBOS DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 219 POR EL QUE SE ADICIONA EL ARTÍCULO 8 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
