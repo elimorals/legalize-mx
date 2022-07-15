@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2022-06-17"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -179,11 +179,15 @@ d. A participar en la vida cultural, deportiva y recreativa de su comunidad; y
 
 e. A tener posibilidades de acceso, para formar parte de los diversos órganos de representación y consulta ciudadana.
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 15 DE JULIO DE 2022)</small>
+
 VII. De acceso y desplazamiento:
 
-a. Disfrutar, preferentemente de los servicios públicos de estacionamiento vehicular; y
+a) Disfrutar, preferentemente de los servicios públicos de estacionamiento vehicular;
 
-b. A facilitar el acceso y desplazamiento en el interior de espacios laborales, comerciales y recreativos.
+b) Facilitar el acceso y desplazamiento en el interior de espacios laborales, comerciales y recreativos; y
+
+c) Contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2018)</small>
 
@@ -802,3 +806,11 @@ P.O. 17 DE JUNIO DE 2022.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 97 POR EL QUE “SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
