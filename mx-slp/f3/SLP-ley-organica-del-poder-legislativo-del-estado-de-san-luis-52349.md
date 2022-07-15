@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2022-06-29"
+last_updated: "2022-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -837,11 +837,15 @@ VIII. Proponer al Pleno la designación, y la remoción en su caso, del Coordina
 
 IX. Cuidar que el trabajo legislativo se realice con efectividad;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-X. Emitir a petición de algún diputado o diputada, la excitativa correspondiente por la omisión de alguna comisión, de dictaminar algún asunto al concluir la primer prórroga, y
+X. Emitir a petición de algún diputado o diputada, la excitativa correspondiente por la omisión de alguna comisión, de dictaminar algún asunto al concluir la primer prórroga;
 
-XI. Las demás que le atribuyen esta Ley, el Reglamento y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+
+XI. Vigilar que la Coordinación de Informática implemente correctamente el software incrustado, denominado Sistema de Mensajería del Congreso, y
+
+XII. Las demás que le atribuyen esta Ley, el Reglamento y otras disposiciones legales aplicables.
 
 ###### ARTICULO 68.
 
@@ -2109,11 +2113,11 @@ Los titulares de los órganos de soporte técnico y de apoyo del Congreso, deben
 
 El derecho de iniciar leyes corresponde a los diputados, al Gobernador, al Supremo Tribunal de Justicia y a los ayuntamientos, así como a los ciudadanos del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 131.
 
-Las iniciativas se presentarán por escrito al Congreso del Estado y deberán acompañarse de su dispositivo de almacenamiento de datos; podrán ser:
+Las iniciativas se presentarán por escrito en formato de procesador de texto, mediante el software incrustado denominado Sistema de Mensajería del Congreso; y podrán ser:
 
 I. De ley: cuando contengan un proyecto de resolución por el que se otorguen derechos o impongan obligaciones a todas las personas en general;
 
@@ -2122,6 +2126,10 @@ II. De decreto: cuando se trate de un proyecto de resolución por el que se otor
 III. De acuerdo administrativo: cuando se trate de una iniciativa que se refiera a resoluciones del Congreso del Estado, que por su naturaleza requieran de la sanción y promulgación del Ejecutivo, y
 
 IV. De acuerdo económico: cuando la determinación del Congreso del Estado tiene efectos internos en la administración de sus órganos, dependencias y comisiones.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+Tratándose de iniciativas ciudadanas éstas podrán presentarse también de forma escrita y en dispositivo de datos, ante la oficialía de partes del Congreso, la cual le dará el trámite correspondiente en el Sistema de Mensajería del Congreso.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -2320,6 +2328,36 @@ La antelación de la publicación de la Gaceta podrá ser dispensada, en los cas
 La falta de publicación de un dictamen en la Gaceta, no será obstáculo para que el mismo se discuta en la sesión respectiva, siempre y cuando haya sido enviado, vía electrónica, a los diputados, con por lo menos cuarenta y ocho horas de anticipación.
 
 No podrán publicarse en la Gaceta los asuntos tratados en las sesiones privadas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 2022)</small>
+
+### Capítulo VII. Del Software Incrustado denominado Sistema de Mensajería del Congreso
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+###### ARTICULO 146.
+
+El Congreso del Estado contará con el software incrustado denominado Sistema de Mensajería del Congreso, en adelante Sistema de Mensajería del Congreso, tendrá la función de recibir, notificar, clasificar, ordenar, registrar, organizar, gestionar, centralizar, digitalizar y controlar la información relativa al trabajo parlamentario del Congreso.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+###### ARTICULO 147.
+
+La Coordinación General de Servicios Parlamentarios; la Coordinación de Asesoría y Secretariado Técnico de Comisiones; y la Unidad de Informática Legislativa; y en su caso, la Oficialía de Partes, proveerán la información que corresponda, al Sistema de Mensajería del Congreso.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+###### ARTICULO 148.
+
+A través del Sistema de Mensajería del Congreso se podrá realizar lo siguiente:
+
+I. Enviar los citatorios correspondientes para notificar a las diputadas y los diputados, así como al personal del Congreso, sobre las reuniones de Pleno, de la Diputación Permanente; reuniones de comisiones, comités, así como cualquier otra actividad oficial de los órganos precitados;
+
+II. Presentar iniciativas, conforme las formalidades que establecen, la Constitución; la presente Ley; el Reglamento, y demás ordenamientos aplicables;
+
+III. Publicar la Gaceta Parlamentaria; las iniciativas; los puntos de acuerdo, así como los decretos y acuerdos aprobados, y
+
+IV. Registrar la asistencia de las diputadas y los diputados a las sesiones del Pleno.
 
 ## TRANSITORIOS
 
@@ -2964,5 +3002,13 @@ P.O. 29 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0353.- SE REFORMAN LOS ARTÍCULOS 18 EN SU FRACCIÓN VI Y 109 EN SU FRACCIÓN X; Y DEROGA DEL ARTÍCULO 18 LA FRACCIÓN V, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0363.- SE REFORMAN LOS ARTÍCULOS 67 Y 131; Y SE ADICIONA EN LOS ARTÍCULOS 67, 131 Y EN EL TÍTULO DÉCIMO EL CAPÍTULO VII “DEL SOFTWARE INCRUSTADO DENOMINADO SISTEMA DE MENSAJERÍA DEL CONGRESO”, CON LOS ARTÍCULOS 146, 147 Y 148 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 61, 67, 75, 76, 117, 123, 146, 151, 157, 183, 186 Y 189; Y SE ADICIONA EN LOS ARTÍCULOS 183 Y 189, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor noventa días posteriores a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
