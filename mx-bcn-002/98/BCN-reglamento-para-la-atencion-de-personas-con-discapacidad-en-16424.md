@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-atencion-de-personas-con-discapacidad-en-164
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-18"
-last_updated: "2022-02-11"
+last_updated: "2022-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 18 de febrero de 2000.
 
@@ -49,31 +49,93 @@ REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEX
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto normar las políticas y acciones de competencia municipal, que contribuyan al desarrollo integral de las personas con discapacidad en el Municipio de Mexicali, Baja California.
+El presente Reglamento es de orden público, de interés social y de observancia general en todo el Municipio de Mexicali, Baja California; tiene por objeto regular las políticas y acciones de competencia municipal para el respeto, protección y cumplimiento de las medidas que contribuyan al desarrollo integral de las personas con discapacidad, procurando su bienestar, igualdad de oportunidades y el respeto a sus derechos humanos, conforme a lo establecido en las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### Artículo 2.
 
-Para los efectos de éste reglamento se entiende por:
+Para los efectos de éste Reglamento se entiende por:
 
-I.- Discapacidad.- Toda restricción o ausencia (debido a una deficiencia) de la capacidad para realizar una actividad en la forma o dentro del margen que se considera normal para un ser humano en función de su edad, sexo, o factores sociales y culturales;
+I.- Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
-II.- Discapacidad Auditiva.- La originada por una deficiencia sensorial congénita o adquirida, caracterizada por la pérdida severa de la capacidad de percepción de las formas acústicas, producida ya sea por una alteración del órgano de la audición o bien de la vía auditiva, y que por la carencia de la agudeza auditiva se limita o impide la comunicación oral;
+II.- Ajustes Razonables: Se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-III.- Discapacidad Mental.- A la presencia de un desarrollo mental detenido o incompleto, derivado de lesiones o deficiencias en los procesos cerebrales, adquiridos de forma prenatal, perinatal, natal o posnatal, que afectan a nivel global la inteligencia, las funciones cognitivas, las del lenguaje, las motrices y la socialización, incluidos los trastornos del neurodesarrollo;
+III.- Ayudas técnicas: Aquellos dispositivos tecnológicos que ayudan a la movilidad comunicación y vida cotidiana de las personas con discapacidad;
 
-IV.- Discapacidad Motriz.- Al Conjunto de alteraciones y deficiencias congénitas o adquiridas, que en distintos grados, afectan la ejecución y control de movimientos, la postura del cuerpo y la motricidad en general de la persona, independientemente de la causa o hecho desencadenante;
+IV.- Barreras físicas: Todos aquellos obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento en lugares públicos o privados, exteriores, interiores o el uso de servicios comunitarios;
 
-V.- Discapacidad Múltiple.- A la presencia de dos o más discapacidades en una persona;
+V.- Credencial: La credencial que se expide a las personas con discapacidad, por dependencias o entidades facultadas por las disposiciones legales de la materia, ya sea de carácter nacional, estatal o municipal, mediante la cual se identifican y acreditan su condición de discapacidad;
 
-VI.- Discapacidad Visual.- A la derivada de una deficiencia sensorial del sentido de la vista, que se caracteriza por la carencia o disminución de la agudeza o campo visual, cuando esto represente una barrera insuperable, la cual impacte o restrinja la capacidad para realizar una actividad o función necesaria dentro del rol normal de la persona
+VI.- Discapacidad: Toda restricción o ausencia (debido a una deficiencia) de la capacidad para realizar una actividad en la forma o dentro del margen que se considera normal para un ser humano en función de su edad, sexo, o factores sociales y culturales;
 
-VII.- Ayudas técnicas.-Aquellos dispositivos tecnológicos que ayudan a la movilidad, comunicación y vida cotidiana de las personas con discapacidad;
+VII.- Discapacidad Auditiva: La originada por una deficiencia sensorial congénita o adquirida, caracterizada por la pérdida severa de la capacidad de percepción de las formas acústicas, producida ya sea por una alteración del órgano de la audición o bien de la vía auditiva, y que por la carencia de la agudeza auditiva se limita o impide la comunicación oral;
 
-VIII.- Barreras físicas.-Todos aquellos obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento en lugares públicos o privados, exteriores, interiores o el uso de servicios comunitarios.
+VIII.- Discapacidad Mental: A la presencia de un desarrollo mental detenido o incompleto, derivado de lesiones o deficiencias en los procesos cerebrales, adquiridos de forma prenatal, perinatal, natal o posnatal, que afectan a nivel global la inteligencia, las funciones cognitivas, las de lenguaje, las motrices y la socialización, incluidos los trastornos del neurodesarrollo;
+
+IX.- Discapacidad Motriz: Al conjunto de alteraciones y deficiencias congénitas o adquiridas, que en distintos grados, afectan la ejecución y control de movimientos, la postura del cuerpo y la motricidad en general de la persona, independientemente de la causa o hecho desencadenante;
+
+X.- Discapacidad Múltiple: A la presencia de dos o más discapacidades en una persona;
+
+XI.- Discapacidad Visual: A la derivada de una deficiencia sensorial del sentido de la vista, que se caracteriza por la carencia o disminución de la agudeza o campo visual, cuando esto represente una barrera insuperable, la cual impacte o restrinja la capacidad para realizar una actividad o función necesaria dentro del rol normal de la persona;
+
+XII.- Discriminación por motivo de discapacidad: Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluye todas las formas de discriminación, entre ellas la denegación de ajustes razonables;
+
+XIII.- Ley General: La Ley General para la Inclusión de las Personas con Discapacidad;
+
+XIV.- Ley Estatal: Ley para las Personas con Discapacidad en el Estado de Baja California; y
+
+XV.- Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+###### Artículo 2 Bis.
+
+Conforme a lo señalado en la Ley General y en la Ley Estatal, rige en la materia lo previsto en el artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, estableciendo que se deberá promover, proteger y asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales de las personas con discapacidad, asegurando su plena inclusión a la sociedad en un marco de respeto, igualdad y equiparación de oportunidades; así como lo dispuesto en la Convención sobre los Derechos de las Personas con Discapacidad.
+
+De manera enunciativa y no limitativa, este Reglamento reconoce a las personas con discapacidad sus derechos humanos y mandata el establecimiento de las políticas públicas municipales que coadyuven a su ejercicio.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+###### Artículo 2 Ter.
+
+Los principios que rigen el presente Reglamento y que deberán observar las políticas públicas municipales en la materia, son:
+
+I.- El respeto a la dignidad inherente al ser humano;
+
+II.- La autonomía, incluida la libertad de tomar las propias decisiones, y la independencia de las personas con discapacidad;
+
+III.- La no discriminación;
+
+IV.- La igualdad de oportunidades;
+
+V.- La equidad;
+
+VI.- La accesibilidad;
+
+VII.- La participación e inclusión, plenas y efectivas en la sociedad;
+
+VIII.- La aceptación de las personas con discapacidad como parte de la diversidad y la condición humana;
+
+IX.- El reconocimiento de las diferencias de las personas con alguna discapacidad, con el objetivo de eliminar o minimizar las barreras que los mantienen en su discapacidad; y
+
+X.- El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+###### Artículo 2 Quater.
+
+Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico mexicano, sin distinción de origen étnico, nacional, género, edad, o un trastorno de talla, condición social, económica o de salud, religión, opiniones, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otro motivo u otra característica propia de la condición humana o que atente contra su dignidad. Las medidas contra la discriminación tienen como finalidad prevenir o corregir que una persona con discapacidad sea tratada de una manera directa o indirecta menos favorable que otra que no lo sea, en una situación comparable.
+
+Las medidas contra la discriminación consisten en la prohibición de conductas que tengan como objetivo o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
+
+Las acciones afirmativas positivas consisten en apoyos de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida política, económica, social y cultural.
+
+La Administración Pública Municipal, de conformidad con su ámbito de competencia, impulsará el derecho a la igualdad de oportunidades de las personas con discapacidad, a través del establecimiento de medidas contra la discriminación y acciones afirmativas positivas que permitan la integración social de las personas con discapacidad. Será prioridad de la Administración Pública Municipal adoptar medidas de acción afirmativa positiva para aquellas personas con discapacidad que sufren un grado mayor de discriminación, como son las mujeres, las personas con discapacidad con grado severo, las que viven en el área rural, o bien, no pueden representarse a sí mismas.
 
 ###### Artículo 3.
 
@@ -109,6 +171,24 @@ VIII.- La construcción de vivienda; y,
 
 IX.- Institucionalizar la creación de programas deportivos, recreativos y culturales.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+###### Artículo 4 Bis.
+
+Los servidores públicos municipales en el ámbito de sus atribuciones observarán las disposiciones contenidas en el presente Reglamento, debiendo garantizar en todo momento los derechos humanos de las personas con discapacidad, cumplir con las obligaciones y aplicar las acciones afirmativas positivas que establece este ordenamiento.
+
+El incumplimiento a lo anterior, por falta de diligencia, negligencia o en su caso incurrir en acto o actos de discriminación, incluyendo actos u omisiones, respecto a persona o personas con discapacidad será causal de responsabilidad administrativa que corresponderá conocer y resolver a la Sindicatura Municipal conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+###### Artículo 4 Ter.
+
+Los adultos mayores con condiciones de salud que implique una discapacidad serán también sujetos de las disposiciones del presente Reglamento.
+
+Por ningún motivo se descartará la presencia de una condición de salud que implique una discapacidad a falta de que la persona cuente con la evidencia médica documentada. En dado caso, Servicios Médicos Municipales le proporcionara la valoración médica correspondiente para emitir el certificado de salud o discapacidad.
+
+Los servicios de consulta médica y de expedición de certificado de discapacidad, en caso de proceder, se encontrarán exentos de pago para los adultos mayores.
+
 ### CAPÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE PERSONAS CON DISCAPACIDAD EN LA PLANEACIÓN DEL DESARROLLO MUNICIPAL
 
 ###### Artículo 5.
@@ -121,17 +201,31 @@ Las normas relativas a la integración, organización y funcionamiento de la Com
 
 ### CAPÍTULO TERCERO. DE LOS MEDIOS DE IDENTIFICACIÓN PARA LAS PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### Artículo 7.
 
-El Departamento de Servicios Médicos Municipales, expedirá los medios de identificación para las personas con discapacidad que los requieran, a través de las oficinas o módulos habilitados para dicho fin en diversos puntos de la localidad.
+El Departamento de Servicios Médicos Municipales, expedirá medios de identificación para las personas con discapacidad que los requieran, a través de las oficinas o módulos habilitados para dicho fin en diversos puntos del Municipio.
+
+Para tal efecto, el Departamento de Servicios Médicos Municipales contará con oficinas o módulos para la expedición de dichos medios de identificación, tanto en la cabecera municipal, como en las principales delegaciones municipales del Valle de Mexicali.
+
+Sin perjuicio a lo establecido en el párrafo anterior, conforme a la disponibilidad de recursos en el ejercicio fiscal que corresponda, en las brigadas de servicios que organicen las dependencias o entidades del gobierno municipal, o en su caso los Regidores, en las delegaciones municipales, deberán integrar en las mismas a los Servicios Médicos Municipales para que brinden los servicios y la atención respectiva a las personas con discapacidad, conforme a lo previsto en este Reglamento.
 
 Los medios de identificación serán de dos tipos:
 
-I.- Credencial Municipal para Personas con Discapacidad; y,
+I.-·Credencial Municipal para Personas con Discapacidad; y,
 
 II.- Tarjeta para Vehículo en el que Viajen Personas con Discapacidad.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+###### Artículo 7 Bis.
+
+En el ámbito municipal se reconoce como medio de identificación para las personas con discapacidad, la credencial emitida por las dependencias o entidades federales o estatales competentes, conforme a lo previsto en la Ley General, o la Ley Estatal, respectivamente.
+
+Así mismo, dicha credencial también será aceptada para que la persona con discapacidad pueda acreditar su condición, y obtenga los beneficios que se le conceden en leyes, reglamentos o acuerdos de carácter municipal.
+
+Por lo anterior, no se requerirá a la persona con discapacidad que cuente con la credencial a que se refiere el primer párrafo de este artículo, la Credencial Municipal para Personas con Discapacidad. En este caso, el trámite de la credencial municipal será voluntario y optativo.
 
 ###### Artículo 8.
 
@@ -147,17 +241,23 @@ El gobierno municipal promoverá con los demás órdenes de gobierno, empresas e
 
 La credencial municipal para personas con discapacidad tendrá al momento de su emisión el carácter de permanente.
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE JULIO DE 2022)</small>
 
 ###### Artículo 10 Bis.
 
 La tarjeta para vehículo para personas con discapacidad, tendrá al momento de su emisión, las siguientes vigencias:
 
-I.- Por tres años en caso de discapacidad permanente.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+I.- Por seis años en caso de discapacidad permanente; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
 
 II.- Tres, seis, nueve o doce meses tratándose de discapacidad temporal.
 
-En ambos casos la vigencia de estos documentos se contará a partir del mes en que se expidan.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
+La vigencia a que alude la fracción II de este artículo, no será discrecional para el servidor público municipal que conozca del trámite respectivo, sino que deberá corresponder a la condición de la persona con discapacidad, debiendo otorgarse la más favorable a su dignidad y derechos, aplicando las acciones afirmativas positivas que señala el Artículo 2 QUATER de este Reglamento.
 
 ###### Artículo 11.
 
@@ -165,41 +265,57 @@ Los requisitos que deberán cumplir las personas con discapacidad para obtener l
 
 I.- Mostrar una identificación con fotografía si se trata de adultos. En el caso de menores, deberán presentarse con sus padres o tutores a realizar el trámite;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-II.- Presentar resumen clínico expedido por el médico tratante especificando si es permanente o temporal, o exámenes que demuestren las alteraciones que originen la discapacidad, solo cuando ésta no sea evidente;
+II.- Presentar resumen clínico expedido por el médico tratante como lo son exámenes, diagnósticos o cualquier documentación de índole médica el cual será apoyo para la valoración médica de Servicios Médicos Municipales para reconfirmar el estado permanente o temporal de la discapacidad atendiendo estrictamente a la naturaleza del padecimiento o condición de salud. Solo cuando la discapacidad no sea evidente, se deberá presentar los exámenes que demuestren las alteraciones que origina la discapacidad.
 
-III.- Presentarse el solicitante en las oficinas que indique el departamento de Servicios Médicos Municipales, a fin de someterse a exámen médico para la emisión del certificado correspondiente, así como para tomarle la fotografía necesaria para la credencial;
+No se requerirá mayores estudios o documentación de índole médica sino es estrictamente necesario.
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+No se distinguirá entre documentación que venga de instituciones de salud privadas y públicas siempre y cuando corresponda a la situación clínica del paciente.
 
-IV.- Éste trámite será gratuito para los solicitantes con discapacidad permanente. Sólo se aplicará el pago de derechos a los solicitantes con discapacidad temporal, según lo indique la Ley de Ingresos Municipal; y,
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2019)</small>
+III.- Presentarse el solicitante en las oficinas que indique el departamento de Servicios Médicos Municipales, a fin de someterse a valoración o consulta médica según corresponda y la toma de la fotografía en caso de ser procedente.
 
-V.- En el caso de que se solicite tarjeta para vehículo, deberá presentarse original vigente y copia de la tarjeta de circulación de vehículo en el que habitualmente se transporte la persona con discapacidad.
+En el supuesto que la persona no presente alguno de los documentos mencionados en el párrafo anterior, se le realizará la consulta médica y de acreditarse la discapacidad, se le expedirá el certificado correspondiente.
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-Cuando se trate de vehículo extranjero, además de presentar tarjeta de circulación vigente en la fecha de la solicitud, deberá acreditarse que la persona con discapacidad tiene su domicilio permanente o principal en el Municipio de Mexicali, exhibiendo para ello identificación oficial vigente con fotografía, así como recibos de servidos públicos de los últimos tres meses. De igual manera, deberá acreditarse la estancia legal del vehículo en los Estados Unidos Mexicanos, para lo cual el propietario del vehículo deberá exhibir los documentos expedidos por autoridad competente, en los que conste su doble nacionalidad, su nacionalidad extranjera o el permiso migratorio respectivo, que sustenten su capacidad para conducir el vehículo de procedencia extranjera en territorio nacional.
+IV.- En atención a los principios que deben observarse en materia de atención a las personas con discapacidad, tales como equidad, justicia social, igualdad de oportunidades, entre otros, éste trámite será gratuito para todos los solicitantes, ya sea discapacidad permanente o temporal. La Ley de Ingresos Municipal preverá dichas exenciones, tanto en la expedición de la credencial municipal, de la tarjeta para vehículo, y en su caso del certificado médico de discapacidad para la persona con discapacidad que lo solicite, y
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+
+V.- En el caso de que se solicite tarjeta para vehículo, deberá presentarse original y copia de la tarjeta de circulación de vehículo en el que habitualmente se transporte la persona con discapacidad.
+
+Cuando se trate de vehículo extranjero, además de presentar tarjeta de circulación vigente en la fecha de la solicitud, deberá acreditarse que la persona con discapacidad tiene su domicilio permanente o principal en el Municipio de Mexicali, exhibiendo para ello identificación oficial vigente con fotografía, así como recibos de servicios públicos de los últimos tres meses. De igual manera, deberá acreditarse la estancia legal del vehículo en los Estados Unidos Mexicanos, para lo cual el propietario del vehículo deberá exhibir los documentos expedidos por autoridad competente, en los que conste su doble nacionalidad, su nacionalidad extranjera o el permiso migratorio respectivo, que sustenten su capacidad para conducir el vehículo de procedencia extranjera en territorio nacional.
 
 Para la revalidación de la tarjeta de vehículo, deberán entregarse los originales de la credencial y tarjeta vencidos, en caso de no hacerlo el titular de estos documentos, se hará acreedor a la multa de una UMA.
 
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 15 DE JULIO DE 2022)</small>
 
-En caso de extravío de la tarjeta de vehículo, se deberá presentar la constancia de extravío emitida por la Autoridad competente.
+En caso de extravió de la tarjeta de vehículo, se deberá presentar la constancia de extravío emitida por la Autoridad competente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2022)</small>
+
+Lo previsto en las fracciones II y III de este artículo, no serán requeridos cuando el solicitante cuente con la credencial federal o estatal que lo acredite como discapacitado, o en su caso cuente con la certificación de condición de discapacidad, ya sea permanente o temporal, en los términos de las disposiciones legales federales o estatales en su caso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2022)</small>
+
+La certificación de condición de discapacidad que emita la autoridad municipal, a efecto de determinar si esta es permanente o temporal, se efectuará conforme a lo establecido en la Clasificación Nacional de Discapacidad, y lo previsto en las disposiciones de la Ley General y la Ley Estatal en materia de discapacidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### Artículo 12.
 
-La tarjeta para vehículo en el que viajen personas con discapacidad, será expedido (sic) junto con la credencial, a quien lo solicite.
+La tarjeta para vehículo en el que viajen personas con discapacidad, será expedida junto con la credencial, a quien así lo solicite. Podrá expedirse únicamente el tarjetón cuando la persona con discapacidad o sus representantes así lo soliciten, y cuenten con la credencial nacional o estatal en su caso.
 
 Esta tarjeta servirá para que el vehículo en el que se transporte la persona con discapacidad que la obtenga, pueda estacionarse en los lugares reservados de la vía pública y de los estacionamientos de establecimientos que conforme a la reglamentación correspondiente deban contar con los mismos.
 
 La tarjeta deberá colocarse en un lugar visible del vehículo cuando éste se estacione en un lugar reservado para personas con discapacidad.
 
-Se podrá exigir a quien ocupe un lugar reservado para personas con discapacidad, que exhiba adicionalmente a la tarjeta, la credencial municipal para personas con discapacidad.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+
+Se podrá exigir a quien ocupe un lugar reservado para personas con discapacidad, que exhiba adicionalmente a la tarjeta, la credencial municipal para personas con discapacidad, o bien la credencial nacional o estatal para personas con discapacidad con que cuente dicha persona en su caso.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2019)</small>
 
@@ -498,3 +614,17 @@ P.O. 11 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 32 FRACCIÓN VII Y 38 BIS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA; ASIMISMO SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LAS REFORMAS A LOS ARTÍCULOS 1, 2, 7, 10 BIS, 11 Y 12; ASIMISMO SE ADICIONAN LOS ARTÍCULOS 2 BIS, 2 TER, 2 QUATER, 4 BIS, 4 TER Y 7 BIS; TODOS DEL REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+PRIMERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja california, con excepción de los casos previstos en los presentes artículos transitorios.
+
+SEGUNDO: Los Titulares de la Oficialía Mayor, así como de las entidades paramunicipales denominadas Bienestar Social Municipal, así como Desarrollo Integral de la Familia de Mexicali, deberán difundir y capacitar en las presentes reformas al personal encargado de la observancia y aplicación de este Reglamento, a efecto de cumplir con sus fines.
+
+TERCERO: La exención en el pago de derechos a que alude el artículo 4 TER y la fracción IV del artículo 11 de las presentes reformas entrará en vigor a partir del ejercicio fiscal 2023, debiendo preverse en dichos términos en la Iniciativa de Ley de Ingresos respectiva.
+
+CUARTO: La Secretaría del Ayuntamiento en coordinación con la Tesorería Municipal y la Oficialía Mayor, deberá impulsar y efectuar las medidas legales idóneas a efecto de garantizar la exención del pago de derechos a que alude la fracción IV del artículo 11 de las presentes reformas.
+
+QUINTO: Los Titulares de las dependencias y entidades paramunicipales referidas en los artículos Segundo y Cuarto Transitorios del presente acuerdo de reformas, deberán informar a este XXIV Ayuntamiento de Mexicali, órgano de gobierno municipal, del cumplimiento de las medidas y acciones ordenadas en dichos artículos transitorios, dentro de los sesenta días naturales posteriores a la entrada en vigor de las presentes reformas.
