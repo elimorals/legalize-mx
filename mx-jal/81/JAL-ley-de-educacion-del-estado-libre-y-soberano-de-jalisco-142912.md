@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2022-04-21"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -283,6 +283,8 @@ X. Será de excelencia, orientada al mejoramiento permanente de los procesos for
 
 Acciones de la autoridad educativa estatal
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 15.
 
 Para propiciar el desarrollo de sus comunidades la autoridad educativa estatal impulsará la educación extraescolar a través de las siguientes acciones:
@@ -309,13 +311,17 @@ IX. Programas de educación bilingüe intercultural, en Lengua de Señas Mexican
 
 X. Acciones de colaboración y coordinación con el Sistema de Salud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-XI. Programas de robótica preferentemente mediante alternativas del uso de material reciclado o que no afecte al medio ambiente como materia prima de los proyectos, pudiendo elegir la metodología que facilite la aplicación de esta; y
+XI. Programas de robótica preferentemente mediante alternativas del uso de material reciclado o que no afecte al medio ambiente como materia prima de los proyectos, pudiendo elegir la metodología que facilite la aplicación de esta;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
 
-XII. Las demás que tiendan al bienestar individual y social.
+XII. Programas de fomento a la educación financiera; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2022)</small>
+
+XIII. Las demás que tiendan al bienestar individual y social.
 
 Facultades del Poder Ejecutivo Estatal
 
@@ -2438,3 +2444,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El cumplimiento del presente decreto para el ejercicio fiscal 2022 se realizará con la suficiencia presupuestal establecida en el programa presupuestario 811 Fomento de la salud de los alumnos de Educación Básica en su indicador nivel componente identificado como 19 Total de alumnas de educación básica y media superior atendidas.
 
 TERCERO. El Poder Ejecutivo deberá considerar los recursos necesarios para el cumplimiento de este decreto en los ejercicios fiscales subsecuentes.
+
+P.O. 16 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 28795/LXIII/22 QUE REFORMA EL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
