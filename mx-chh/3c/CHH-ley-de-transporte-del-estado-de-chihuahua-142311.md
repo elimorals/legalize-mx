@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transporte-del-estado-de-chihuahua-142311"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-21"
-last_updated: "2020-03-21"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JULIO DE 2022 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRANSPORTE DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 21 de marzo de 2020.
 
@@ -73,9 +75,11 @@ c. Las carreteras de jurisdicción federal.
 
 II. Los puentes ya construidos o que se construyan en los caminos a que se refiere la fracción anterior.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 4.
 
-Son parte integrante de las vías de comunicación: los servicios auxiliares, obras, construcciones, el derecho de vía y elementos asociados; entre los cuales se encuentran de manera enunciativa, mas no limitativa: carriles exclusivos, terminales, paraderos y estaciones destinados al establecimiento y mantenimiento de los servicios y obras mencionados. La Secretaría fijará la extensión de los espacios necesarios para tales objetos.
+Son parte integrante de las vías de comunicación: los servicios auxiliares, obras, construcciones, el derecho de vía y elementos asociados; entre los cuales se encuentran de manera enunciativa, mas no limitativa: carriles exclusivos, terminales, paraderos y estaciones destinados al establecimiento y mantenimiento de los servicios y obras mencionados. La Subsecretaría fijará la extensión de los espacios necesarios para tales objetos.
 
 ###### Artículo 5.
 
@@ -101,7 +105,9 @@ I. El traslado de pasajeros en vehículos propiedad de las personas físicas o m
 
 II. El transporte de carga privado que realicen las personas físicas y morales legalmente constituidas, en vehículos de su propiedad que cumplan con la normatividad y especificaciones técnicas aplicables al objeto transportado, para trasladar sus insumos o productos.
 
-Tratándose de transporte de carga privado con dimensiones extraordinarias o con bienes de gran peso o volumen, que rebasen lo establecido en el Reglamento o acuerdo correspondiente, el transportista deberá obtener previamente permiso temporal especial de la Dirección.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Tratándose de transporte de carga privado con dimensiones extraordinarias o con bienes de gran peso o volumen, que rebasen lo establecido en el Reglamento o acuerdo correspondiente, el transportista deberá obtener previamente permiso temporal especial de la Subsecretaría.
 
 III. El transporte de carga ligera que se realice en vehículos de uso privado para transportar determinados bienes muebles o enseres de su propiedad.
 
@@ -117,7 +123,7 @@ III. Código Fiscal del Estado de Chihuahua.
 
 IV. Código de Procedimientos Civiles del Estado de Chihuahua.
 
-V. Ley de Desarrollo Urbano Sostenible del Estado de Chihuahua.
+V. (DEROGADA, P.O. 16 DE JULIO DE 2022)
 
 VI. Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua.
 
@@ -159,7 +165,9 @@ II. Cromática.- Estandarización del color de las unidades con las que se prest
 
 III. Comité Asesor.- Órgano colegiado mixto de carácter especializado en las materias de transporte público, tránsito y vialidad, con las competencias, atribuciones, integración, organización y funcionamiento que se establezca en la presente Ley y las disposiciones que de ella emanen.
 
-IV. Competencia Ruinosa.- Cuando se presten los servicios de transporte fuera de las zonas que les fueron autorizadas en la Concesión o permiso otorgado, sin la autorización de la Dirección, en detrimento de algún operador, permisionario o concesionario legalmente autorizado.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IV. Competencia Ruinosa.- Cuando se presten los servicios de transporte fuera de las zonas que les fueron autorizadas en la concesión o permiso otorgado, sin la autorización de la Subsecretaría, en detrimento de algún operador, permisionario o concesionario legalmente autorizado.
 
 V. Concesión.- Acto administrativo por virtud del cual el Ejecutivo, por conducto de la Secretaría, confiere a una persona física o moral autorización para la prestación del servicio público de transporte por el plazo que le otorgue la Secretaría conforme con lo dispuesto en esta Ley y su Reglamento según la modalidad, por medio de concurso. Su otorgamiento y las condiciones que se establezcan se consideran de utilidad pública y de interés general.
 
@@ -173,9 +181,13 @@ IX. Conductor.- Persona encargada de la conducción de un vehículo, con el Regi
 
 X. Consejo Consultivo de Transporte.- Órgano colegiado de consulta, auxiliar del Ejecutivo en materia de transporte.
 
-XI. Departamento.- Departamentos de Transporte dependientes de la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-XII. Dirección.- La Dirección de Transporte de la Secretaría.
+XI. Áreas.- Unidades orgánicas dependientes de la Subsecretaría, con la jerarquía y atribuciones en materia de transporte señaladas en esta ley, sus reglamentos y el Reglamento Interior de la Secretaría.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XII. Subsecretaría.- La Subsecretaría de Transporte de la Secretaría; unidad orgánica de la Secretaría con atribuciones en materia de transporte, de conformidad con lo previsto en esta Ley, sus reglamentos y el Reglamento Interior de la Secretaría.
 
 XIII. Especificaciones técnicas de los vehículos.- Características físicas, de diseño, pintura, condiciones mecánicas y de carrocería, colores, elementos de seguridad y demás aspectos materiales con las que deben cumplir los vehículos destinadas (sic) a prestar los servicios de transporte, conforme a lo establecido en esta Ley, sus reglamentos y demás disposiciones aplicables.
 
@@ -223,15 +235,21 @@ XXXIV. Permiso.- Acto administrativo por virtud del cual la Secretaría confiere
 
 XXXV. Permisionario.- Persona física o moral que cuenta con un Permiso otorgado por la Secretaría, para la prestación del Servicio de Transporte, conforme a la modalidad que así lo requiera.
 
-XXXVI. Permiso Temporal.- Acto administrativo por virtud del cual la Dirección confiere una autorización provisional para prestar un servicio de transporte conforme a las excepciones previstas en la Ley.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XXXVI. Permiso Temporal.- Acto administrativo por virtud del cual la Subsecretaría confiere una autorización provisional para prestar un servicio de transporte conforme a las excepciones previstas en la Ley.
 
 XXXVII. Registro.- Registro Estatal de Transporte.
 
 XXXVIII. Reglamento.- El o los reglamentos que se expidan derivados de la presente Ley.
 
-XXXIX. Ruta.- Recorrido determinado por un origen y destino, con estaciones o paradas intermedias, que uno o varios vehículos afectos a un servicio de transporte realicen sobre una vialidad específica, sujeta a las condiciones definidas de servicio que fije la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-XL. Secretaría.- Secretaría de Desarrollo Urbano y Ecología del Gobierno del Estado de Chihuahua.
+XXXIX. Ruta.- Recorrido determinado por un origen y destino, con estaciones o paradas intermedias, que uno o varios vehículos afectos a un servicio de transporte realicen sobre una vialidad específica, sujeta a las condiciones definidas de servicio que fije la Subsecretaría.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XL. Secretaría.- Secretaría General de Gobierno.
 
 XLI. Servicios Auxiliares.- Todos aquellos, tanto directos como indirectos, que resulten complementarios a la prestación del servicio de transporte público, conforme a lo contemplado en la presente Ley.
 
@@ -245,7 +263,9 @@ XLV. Taxímetro.- Dispositivo electrónico digital obligatorio en los taxis, con
 
 XLVI. Terminal.- Espacio físico dotado de equipamiento y la infraestructura técnica y logística que permita la operación del transporte público de manera integral.
 
-XLVII. Transporte Especializado.- El servicio que se presta en las modalidades previstas en el artículo 43 fracción II de esta Ley, las cuales estarán sujetas a permiso y las condiciones de operación autorizadas por la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XLVII. Transporte Especializado.- El servicio que se presta en las modalidades previstas en el artículo 43, fracción II de esta Ley, las cuales estarán sujetas a permiso y las condiciones de operación autorizadas por la Subsecretaría.
 
 XLVIII. Transporte Metropolitano.- Servicio de Transporte Público que se presta en donde concurren los centros de población, ubicados en el territorio de dos o más municipios que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia.
 
@@ -273,17 +293,29 @@ LVI. Vía Pública.- Espacio terrestre de dominio público o uso común destinad
 
 Son autoridades en materia de transporte:
 
-I. El titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-II. El titular de la Secretaría de Desarrollo Urbano y Ecología.
+I. La persona titular del Poder Ejecutivo del Estado.
 
-III. El titular de la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-IV. Los titulares de las Delegaciones Regionales.
+II. La persona titular de la Secretaría General de Gobierno.
 
-V. El Comité Asesor.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-VI. Los Jefes de Departamento de la Dirección.
+III. La persona titular de la Subsecretaría.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IV. Las personas titulares de las Delegaciones Regionales de transporte.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+V. El Comité Asesor, con carácter de auxiliar.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VI. Las personas titulares de las áreas de la Subsecretaría.
 
 VII. El cuerpo de inspección y vigilancia.
 
@@ -299,7 +331,9 @@ XI. Las demás a las que esta Ley y otros ordenamientos legales y reglamentarios
 
 Corresponden a la Secretaría, las siguientes facultades:
 
-I. Tramitar y resolver el recurso de inconformidad.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+I. Ejercer las atribuciones conferidas por esta Ley, por conducto de la Subsecretaría y sus áreas, de conformidad con la distribución de funciones prevista en el Reglamento Interior de la Secretaría y el reglamento de esta Ley.
 
 II. Planear, formular y conducir las políticas y programas de movilidad y transporte, así como el desarrollo orientado al transporte y sus servicios auxiliares para garantizar el cumplimiento de los principios rectores en la materia.
 
@@ -309,15 +343,17 @@ IV. Ejecutar los Acuerdos de la persona titular del Poder Ejecutivo del Estado e
 
 V. Otorgar las Concesiones y Permisos a que se refiere esta Ley, vigilar su cumplimiento y resolver sobre su cancelación o terminación, en su caso.
 
-VI. Instruir a la Dirección las medidas necesarias para garantizar el cumplimiento de la presente Ley y sus normas reglamentarias.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-VII. Convocar a sesiones del Consejo Consultivo de Transporte, del Comité de Transporte y demás órganos creados en virtud de esta Ley y sus reglamentos.
+VI. Instruir a la Subsecretaría las medidas necesarias para garantizar el cumplimiento de la presente Ley y sus normas reglamentarias.
 
-VIII. Autorizar la creación, estatutos y reformas de personas morales que presten servicios de transporte objeto de la presente Ley.
+VII. (DEROGADA, P.O. 16 DE JULIO DE 2022)
+
+VIII. (DEROGADA, P.O. 16 DE JULIO DE 2022)
 
 IX. Declarar la suspensión de los servicios de transporte público y especializado en todas sus modalidades de acuerdo con lo que establece el capítulo respectivo del presente ordenamiento.
 
-X. Autorizar de manera temporal a personas físicas o morales la prestación del servicio de Transporte Público, en casos de suspensión del servicio por causas de caso fortuito, fuerza mayor, intervención, interés social o utilidad pública.
+X. (DEROGADA, P.O. 16 DE JULIO DE 2022)
 
 XI. Formular y poner a consideración del Ejecutivo el Programa Estatal de Transporte.
 
@@ -331,9 +367,11 @@ XV. Celebrar convenios y contratos con otras autoridades y con particulares, rel
 
 XVI. Las demás a las que esta Ley y otros ordenamientos legales y reglamentarios reconozcan ese carácter.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 13.
 
-La Dirección tendrá las siguientes facultades:
+La Subsecretaría tendrá las siguientes facultades:
 
 I. Establecer lineamientos, instrumentos, objetivos, indicadores, metas, estrategias, estudios y políticas públicas sistemáticas, continuas y evaluables para cumplir con los fines de esta Ley y promover la inversión y el uso del Transporte Público como medio de transporte.
 
@@ -393,7 +431,9 @@ XXVIII. Integrar los expedientes administrativos para proponer a la Secretaría 
 
 XXIX. Requerir a los titulares de las concesiones y permisos, la aplicación periódica de exámenes físicos, psicológicos y toxicológicos a los Conductores de los vehículos a los servicios de transporte.
 
-XXX. Autorizar y modificar horarios de servicio, itinerarios y derroteros, ubicación de paradas, bases o sitios.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XXX. Autorizar y modificar horarios de servicio, itinerarios y derroteros, ubicación de paradas, bases o sitios y su denominación.
 
 XXXI. Restringir o sujetar a horarios y derroteros específicos el tránsito de vehículos de transporte de carga, conforme a la naturaleza de las vías, el peso y la dimensión de la unidad.
 
@@ -409,7 +449,25 @@ XXXVI. Regular y autorizar la publicidad en los vehículos de transporte públic
 
 XXXVII. Asesorar y vigilar sobre la forma y bases de constitución de sociedades que se organicen para la prestación del servicio público de transporte.
 
-XXXVIII. Las demás a las que esta Ley y otros ordenamientos legales y reglamentarios reconozcan ese carácter.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
+
+XXXVIII. Promover en conjunto con los concesionarios y la iniciativa privada, el diseño e implementación de una plataforma tecnológica exclusiva para prestadores del servicio de transporte de taxi, con las mismas características que aquellas plataformas utilizadas por las Empresas de redes de transporte, que permita impulsar la competitividad del servicio de transporte de taxi.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XXXIX. Convocar a sesiones del Consejo Consultivo de Transporte, del Comité de Transporte y demás órganos creados en virtud de esta Ley y sus reglamentos, por instrucción del presidente del órgano correspondiente.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XL. Autorizar la creación, estatutos y reformas de personas morales que presten servicios de transporte objeto de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XLI. Autorizar de manera temporal a personas físicas o morales la prestación del servicio de Transporte Público, en casos de suspensión del servicio por causas de caso fortuito, fuerza mayor, intervención, interés social o utilidad pública.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXVIII], P.O. 16 DE JULIO DE 2022)</small>
+
+XLII. Las demás a las que esta Ley y otros ordenamientos legales y reglamentarios reconozcan ese carácter.
 
 ### CAPÍTULO II. DEL MUNICIPIO Y LAS AUTORIDADES DE VIALIDAD Y TRÁNSITO
 
@@ -423,7 +481,9 @@ Los Municipios y, en su caso, las Autoridades de Vialidad y Tránsito, en materi
 
 I. Proponer a la Secretaría, programas de Transporte Público.
 
-II. Coadyuvar con la Dirección en las áreas de inspección y vigilancia, mediante convenio de colaboración.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+II. Coadyuvar con la Subsecretaría en las áreas de inspección y vigilancia, mediante convenio de colaboración.
 
 III. Diseñar e instrumentar programas de recuperación y habilitación progresiva de espacios urbanos, para el desplazamiento peatonal.
 
@@ -431,7 +491,9 @@ IV. En materia de movilidad urbana, llevar a cabo la construcción y mantenimien
 
 V. Opinar sobre las características y ubicación de los elementos que integren el equipamiento urbano del servicio de transporte, a través de los planes y programas de desarrollo urbano que le corresponda aplicar.
 
-VI. Autorizar, a solicitud de la Dirección, la ubicación en la vía pública de sitios para taxi.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VI. Autorizar, a solicitud de la Subsecretaría, la ubicación en la vía pública de sitios para taxi.
 
 ###### Artículo 16.
 
@@ -443,9 +505,11 @@ La interconexión de la base de datos de las Autoridades de Vialidad y Tránsito
 
 ### CAPÍTULO III. DEL REGISTRO ESTATAL DE TRANSPORTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 17.
 
-El Registro está a cargo de la Dirección y tiene por objeto el desempeño de la función registral en todos los aspectos en materia de transporte, de acuerdo con esta ley y demás disposiciones aplicables.
+El Registro está a cargo de la Subsecretaría y tiene por objeto el desempeño de la función registral en todos los aspectos en materia de transporte, de acuerdo con esta ley y demás disposiciones aplicables.
 
 El Registro llevará las siguientes secciones:
 
@@ -487,9 +551,11 @@ El Registro, por conducto de su titular, será el depositario de la fe pública 
 
 De toda información, registro, folio, certificación que realice el Registro Estatal del Transporte, deberá expedirse constancia debidamente firmada por el servidor público competente en el Registro, ya sea de manera autógrafa o por firma electrónica autorizada, previa exhibición y entrega del comprobante del pago de derechos que por este concepto realice el interesado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 20.
 
-El Registro estará obligado a implementar, operar y mantener actualizado un sistema informático de administración del mismo y de la Dirección, así como a establecer los mecanismos y criterios para hacer público el acceso a la información contenida en las bases de datos correspondientes, en términos de la legislación aplicable en materia de transparencia.
+El Registro estará obligado a implementar, operar y mantener actualizado un sistema informático de administración del mismo y de la Subsecretaría, así como a establecer los mecanismos y criterios para hacer público el acceso a la información contenida en las bases de datos correspondientes, en términos de la legislación aplicable en materia de transparencia.
 
 Para estos efectos, el Registro deberá:
 
@@ -529,7 +595,9 @@ Los recursos del fondo serán administrados por un Comité Técnico, órgano col
 
 I. Presidente: la persona titular de la Secretaría.
 
-II. Secretario: la persona titular de la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+II. Secretario: la persona titular de la Subsecretaría.
 
 III. La persona titular de la Secretaría de Hacienda del Estado.
 
@@ -565,9 +633,13 @@ I. La persona titular de la Secretaría o el representante que designe.
 
 II. La persona titular de la Secretaría de Hacienda o el representante que designe.
 
-III. La persona titular de la Secretaría General de Gobierno o el representa (sic) que designe.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-IV. La persona titular de la Dirección.
+III. La persona titular de la Secretaría de Desarrollo Urbano y Ecología o el representante que designe.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IV. La persona titular de la Subsecretaría.
 
 V. La persona titular de la regiduría que presida la Comisión relacionada con el transporte, del Ayuntamiento correspondiente, que participará en aquellas sesiones en las que se trate de asuntos correspondientes al Municipio que represente.
 
@@ -589,9 +661,11 @@ g. Dos representantes del gremio de concesionarios de transporte público de la 
 
 h. Un representante del gremio de permisionarios de transporte especializado.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 26.
 
-El Consejo Consultivo será presidido por la persona titular de la Secretaría o su representante designado y el Director fungirá como Secretario del Consejo.
+El Consejo Consultivo será presidido por la persona titular de la Secretaría o su representante designado y la persona titular de la Subsecretaría fungirá como Secretario del Consejo.
 
 ###### Artículo 27.
 
@@ -601,9 +675,11 @@ I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
 II. No ser funcionario, empleado o servidor público, salvo aquellos que integran el Consejo en virtud de su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 28.
 
-El Consejo Consultivo sesionará en forma ordinaria por lo menos dos veces al año y extraordinariamente cuando convoque el titular de la Secretaría o sea solicitado al mismo por la mayoría de sus miembros.
+El Consejo Consultivo sesionará en forma ordinaria por lo menos dos veces al año y extraordinariamente cuando convoque la persona titular de la Subsecretaría a instrucción del Presidente o sea solicitado al mismo por la mayoría de sus miembros.
 
 Habrá quórum con la asistencia de más de la mitad de sus miembros. Los acuerdos se tomarán por mayoría de los presentes y en caso de empate, el Presidente tendrá voto de calidad.
 
@@ -629,9 +705,11 @@ La Secretaría deberá implementar un Sistema Integrado de Transporte, con exten
 
 El Sistema Integrado de Transporte progresivamente realizará la integración y coordinación de las diferentes modalidades y Rutas de servicio de Transporte Público, facilitando al usuario una movilidad con el menor número de interrupciones posibles, que supere las diferentes competencias administrativas y propicie la máxima calidad que la tecnología de transporte puede ofrecer.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 31.
 
-El Sistema Integrado de Transporte integrará la estructura administrativa de la Dirección, asistida por el Comité Asesor del SIT. Asimismo, administrará a través de un organismo de gestión o fideicomiso, a los Organismos del Sistema Integrado de Transporte y a las entidades que formen parte de este.
+El Sistema Integrado de Transporte integrará la estructura administrativa de la Subsecretaría, asistida por el Comité Asesor del SIT. Asimismo, administrará a través de un organismo de gestión o fideicomiso, a los Organismos del Sistema Integrado de Transporte y a las entidades que formen parte de este.
 
 ###### Artículo 32.
 
@@ -649,7 +727,9 @@ II. Emitir recomendaciones en materia de interoperabilidad e interconexión de s
 
 III. Recomendar lineamientos de carácter general para el acceso y, en su caso, uso compartido de la infraestructura activa y pasiva, en los casos que establece esta Ley.
 
-IV. Proponer a la Dirección la implementación de las acciones necesarias para contribuir a la mejora del servicio de Transporte Público.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IV. Proponer a la Subsecretaría la implementación de las acciones necesarias para contribuir a la mejora del servicio de Transporte Público.
 
 V. Revisar anualmente las Rutas y su cobertura social.
 
@@ -665,15 +745,21 @@ X. Conocer de la conformación e integración de las empresas operadoras.
 
 XI. Emitir recomendaciones para la eficiencia de los sistemas de supervisión, inspección y vigilancia.
 
-XII. Emitir su opinión sobre los programas de trabajo e informes que los Organismos del Sistema Integrado de Transporte presenten a la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XII. Emitir su opinión sobre los programas de trabajo e informes que los Organismos del Sistema Integrado de Transporte presenten a la Subsecretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 34.
 
-El Comité Asesor estará integrado por once miembros honorarios, que deberán tener conocimiento y experiencia en materia de desarrollo urbano, transporte y movilidad. El Comité Asesor se conformará por:
+El Comité Asesor estará integrado por doce miembros honorarios, cuyos integrantes del sector privado deberán tener conocimiento y experiencia en materia de desarrollo urbano, transporte y movilidad. El Comité Asesor se conformará por:
 
-I. La persona titular de la Secretaría, quien presidirá el Comité.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-II. La persona titular de la Dirección, quien fungirá como Secretario Técnico.
+II. La persona titular de la Subsecretaría, quien fungirá como Secretario Técnico.
+
+II. La persona titular de la Subsecretaría, quien fungirá como Secretario Técnico.
 
 III. Cuatro personas nombradas por la persona titular de la Secretaría, que deberán ser académicos de Instituciones de Educación Superior, dos de los cuales serán nombrados por un período de tres años y los otros, por cinco años.
 
@@ -683,19 +769,27 @@ V. Un representante del Instituto Municipal de Planeación que participará en l
 
 VI. Un representante Técnico del área de Desarrollo Urbano Municipal que participará en los asuntos correspondientes al Municipio que represente.
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VII. Una persona representante de la Secretaría de Desarrollo Urbano y Ecología.
+
 Los miembros del Comité contarán con voz y voto, con excepción del Secretario Técnico quien solo tendrá voz.
 
 En caso de renuncia de alguno de los miembros del Comité, este será reemplazado por alguien que cumpla con los requisitos establecidos en este artículo, hasta por el remanente del plazo que tenga el miembro sustituido.
 
 No podrá ser miembro del Comité, quien, directa o indirectamente tenga o haya tenido, 3 años antes de su nombramiento, alguna concesión o permiso para la prestación de servicios de transporte en el Estado o preste, servicios de asesoría o proveeduría a Concesionarios o Permisionarios de servicios de transporte.
 
-El Comité Asesor no contará con estructura ni presupuesto propios, por lo que, para el ejercicio de sus atribuciones, se auxiliará del personal adscrito a la Secretaría. Los actos jurídicos que acuerde el Comité se formalizarán por medio de su Presidente, por acuerdo de sus integrantes y que al efecto señale el propio Comité.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+El Comité Asesor no contará con estructura ni presupuesto propios, por lo que, para el ejercicio de sus atribuciones, se auxiliará del personal adscrito a la Subsecretaría. Los actos jurídicos que acuerde el Comité se formalizarán por medio de su Presidente o del Secretario Técnico, por acuerdo de sus integrantes y que al efecto señale el propio Comité.
 
 ### CAPÍTULO VIII. DE LA ESTRUCTURA ADMINISTRATIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 35.
 
-La estructura administrativa del Sistema Integrado de Transporte estará integrada por personal adscrito a la Dirección y se integrará al menos por las siguientes áreas:
+La estructura administrativa del Sistema Integrado de Transporte estará conformada por personal adscrito a la Subsecretaría y se integrará por al menos las siguientes áreas:
 
 I. Administración y finanzas.
 
@@ -703,9 +797,11 @@ II. Planeación y Diseño Operacional.
 
 III. Inspección y Vigilancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 36.
 
-Sin perjuicio de las funciones inherentes a la Secretaría y a la Dirección, la estructura administrativa, según corresponda, tendrá las siguientes funciones dentro del Sistema Integrado de Transporte:
+Sin perjuicio de las funciones inherentes a la Secretaría y a la Subsecretaría, la estructura administrativa, según corresponda, tendrá las siguientes funciones dentro del Sistema Integrado de Transporte:
 
 I. Promover la eficiencia del Sistema Integrado de Transporte.
 
@@ -741,9 +837,11 @@ XV. Las demás que establezcan las disposiciones aplicables.
 
 Las autoridades en materia de transporte del Estado, en el ámbito de sus competencias, realizarán, las acciones legales, administrativas y de operación necesarias para la integración al SIT de los Concesionarios y Permisionarios de transporte de pasajeros que califiquen y que opten por su incorporación al Sistema Integrado de Transporte.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 38.
 
-La autoridad competente determinará los esquemas financieros y las propuestas tecnológicas que permitan una recaudación centralizada del pago de la tarifa por medios electrónicos, una cámara de compensación y demás elementos necesarios en un modelo integrado, multimodal e interoperable de transporte. Asimismo, determinará los lineamientos y procesos de integración de las soluciones y sistemas para los efectos anteriores. La Dirección tomará en cuenta las recomendaciones que emita el Comité Asesor en el ejercicio de sus funciones.
+La autoridad competente determinará los esquemas financieros y las propuestas tecnológicas que permitan una recaudación centralizada del pago de la tarifa por medios electrónicos, una cámara de compensación y demás elementos necesarios en un modelo integrado, multimodal e interoperable de transporte. Asimismo, determinará los lineamientos y procesos de integración de las soluciones y sistemas para los efectos anteriores. La Subsecretaría tomará en cuenta las recomendaciones que emita el Comité Asesor en el ejercicio de sus funciones.
 
 ### CAPÍTULO IX. DEL FIDEICOMISO U ORGANISMO DE GESTIÓN
 
@@ -757,11 +855,17 @@ Las facultades de los fideicomisos u organismos de gestión serán las siguiente
 
 I. Contratar y mantener actualizados los servicios de recaudo proveniente de las tarifas, mantenimiento y seguridad.
 
-II. Administrar y distribuir los recursos provenientes del sistema de recaudo del Sistema Integrado de Transporte, en base a las reglas de operación sancionadas por la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-III. Dar seguimiento a la programación del servicio entre las empresas concesionarias, autorizada por la dirección de transporte.
+II. Administrar y distribuir los recursos provenientes del sistema de recaudo del Sistema Integrado de Transporte, con base en las reglas de operación sancionadas por la Subsecretaría.
 
-IV. Aplicar las bonificaciones y deducciones autorizadas por la Dirección a las empresas concesionarias.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+III. Dar seguimiento a la programación del servicio entre las empresas concesionarias, autorizada por la Subsecretaría.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IV. Aplicar las bonificaciones y deducciones autorizadas por la Subsecretaría a las empresas concesionarias.
 
 V. Aplicar su reglamento interno de operación.
 
@@ -785,7 +889,9 @@ III. Contratar y mantener actualizados los servicios de recaudo de tarifas y dis
 
 IV. Contar con su Sistema de Posicionamiento Global actualizado compatible con el sistema administrado por el Sistema Integrado de Transporte y demás recursos tecnológicos y humanos requeridos para el cumplimiento de sus funciones.
 
-V. Presentar los informes que se definan en el Reglamento a la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+V. Presentar los informes que se definan en el Reglamento a la Subsecretaría.
 
 VI. Asegurar la veracidad de los datos del kilometraje recorrido en servicio por el parque vehicular.
 
@@ -893,7 +999,9 @@ Las diferentes modalidades del servicio público de transporte se regularán por
 
 Las modalidades señaladas en este capítulo requieren del otorgamiento de Concesión, salvo aquel que se preste en vehículos no motorizados o micro-vehículos, en cuyo caso estará sujeto al otorgamiento de Permiso.
 
-El servicio estará sujeto a las condiciones de operación autorizadas por la Dirección.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+El servicio estará sujeto a las condiciones de operación autorizadas por la Subsecretaría.
 
 ###### Artículo 45.
 
@@ -945,7 +1053,9 @@ El transporte de personal es el destinado al traslado de personas de sus domicil
 
 Este servicio se prestará por parte de una persona física o moral que cuente con un Permiso otorgado por la Secretaría para tales efectos. El servicio podrá estar sujeto a derrotero e itinerario.
 
-Los vehículos que presten este servicio deberán contar con Sistema de Posicionamiento Global que comparta su geolocalización y demás información con el sistema de geolocalización operado por el Sistema Integrado de Transporte o la Dirección, de manera estable, continua y en tiempo real, para lo cual deberá de cumplir las especificaciones técnicas que establezca la Dirección.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Los vehículos que presten este servicio deberán contar con Sistema de Posicionamiento Global que comparta su geolocalización y demás información con el sistema de geolocalización operado por el Sistema Integrado de Transporte o la Subsecretaría, de manera estable, continua y en tiempo real, para lo cual deberá de cumplir las especificaciones técnicas que establezca la Subsecretaría.
 
 Las unidades y permisos de dicha modalidad, en ningún caso podrán superar a aquellas destinadas al Transporte Público Colectivo; asimismo, ninguna persona física o moral podrá ser titular de más del diez por ciento de los vehículos destinados a dicha modalidad de transporte.
 
@@ -985,9 +1095,11 @@ El transporte de materiales pétreos para la construcción estará sujeto a las 
 
 Requerirán permiso los vehículos cuya capacidad de carga sea superior a tres toneladas y que presten un servicio de transporte público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 60.
 
-El transporte de carga de materiales, bienes, productos, residuos, remanentes y sustancias peligrosas que circulen por caminos de jurisdicción estatal será regulado por la Dirección conforme a las siguientes bases:
+El transporte de carga de materiales, bienes, productos, residuos, remanentes y sustancias peligrosas que circulen por caminos de jurisdicción estatal será regulado por la Subsecretaría conforme a las siguientes bases:
 
 I. La capacidad, dimensiones, peso bruto vehicular y presión de llantas para el tipo de vehículo será conforme a lo establecido en las normas reglamentarias que para tal efecto expida el Ejecutivo.
 
@@ -995,13 +1107,19 @@ II. Las dimensiones de los vehículos descritos en este capítulo cumplirán con
 
 III. Se cumplirá con las condiciones y periodicidad que se establezcan para el control técnico de condiciones físico mecánicas de las unidades de transporte.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 61.
 
-La Dirección podrá establecer puntos de revisión sobre la red carretera estatal para desarrollar la inspección del transporte de carga. Dicha verificación deberá realizarse cumpliendo las condiciones mínimas de seguridad vial y procurando que no se creen congestionamientos viales durante el despliegue de la revisión.
+La Subsecretaría podrá establecer puntos de revisión sobre la red carretera estatal para desarrollar la inspección del transporte de carga.
+
+Dicha verificación deberá realizarse cumpliendo las condiciones mínimas de seguridad vial y procurando que no se creen congestionamientos viales durante el despliegue de la revisión.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 62.
 
-El servicio de transporte de carga con exceso de dimensiones es el transporte de equipo, maquinaria o bienes cuyas dimensiones, peso y características exceden los estándares normales y, en su caso, la capacidad y normatividad de las vías de comunicación, por lo que requiere Permiso Temporal de la Dirección.
+El servicio de transporte de carga con exceso de dimensiones es el transporte de equipo, maquinaria o bienes cuyas dimensiones, peso y características exceden los estándares normales y, en su caso, la capacidad y normatividad de las vías de comunicación, por lo que requiere Permiso Temporal de la Subsecretaría.
 
 ###### Artículo 63.
 
@@ -1011,23 +1129,29 @@ Las personas físicas o morales que contraten el servicio de transporte de carga
 
 El servicio de grúas es el adaptado para transportar o remolcar cualquier clase de objetos, maquinaria u otros vehículos. No estará sujeto a itinerario ni horario determinado y las tarifas en cada una de las modalidades señaladas serán fijadas de conformidad con las disposiciones reglamentarias respectivas.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 65.
 
-El servicio de carga riesgosa o de residuos es aquel que transporta materiales clasificados como tóxicos o peligrosos, sólidos urbanos no peligrosos, material infectocontagioso o de manejo especial, de acuerdo con las normas técnicas en la materia. En función de sus dimensiones, peso, características y niveles de riesgo del material transportado, este podrá estar sujeto a itinerario, horario, y demás especificaciones técnicas que al efecto expida la Secretaría o las autoridades competentes en la materia.
+El servicio de carga riesgosa o de residuos es aquel que transporta materiales clasificados como tóxicos o peligrosos, sólidos urbanos no peligrosos, material infectocontagioso o de manejo especial, de acuerdo con las normas técnicas en la materia. En función de sus dimensiones, peso, características y niveles de riesgo del material transportado, este podrá estar sujeto a itinerario, horario, y demás especificaciones técnicas que al efecto expida la Subsecretaría o las autoridades competentes en la materia.
 
 ###### Artículo 66.
 
 El servicio de carga especial de transporte de valores se prestará en vehículos acondicionados o que cuenten con equipo adicional para garantizar el transporte seguro de valores. Este servicio no tendrá itinerario, pero deberá sujetarse a la reglamentación aplicable.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 67.
 
-El servicio de transporte de carga especial publicitario es el que utiliza vehículos acondicionados con paneles de publicidad para fines mercantiles o de mensajes promocionales. Este servicio estará sujeto a horario determinado y Permiso de la Dirección de transporte.
+El servicio de transporte de carga especial publicitario es el que utiliza vehículos acondicionados con paneles de publicidad para fines mercantiles o de mensajes promocionales. Este servicio estará sujeto a horario determinado y Permiso de la Subsecretaría.
 
 ###### Artículo 68.
 
 El servicio de transporte de agua para consumo humano se deberá prestar en vehículos que reúnan las condiciones de higiene y salubridad, certificadas por las autoridades del ramo. Este servicio requerirá el Permiso de transporte correspondiente.
 
-El transporte de agua con fines distintos al consumo humano requerirá de Permiso de la Dirección y se deberá prestar en vehículos que reúnan las características necesarias que se establezcan en el Reglamento. Estos servicios no estarán sujetos a itinerario u horario determinado.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+El transporte de agua con fines distintos al consumo humano requerirá de Permiso de la Subsecretaría y se deberá prestar en vehículos que reúnan las características necesarias que se establezcan en el Reglamento. Estos servicios no estarán sujetos a itinerario u horario determinado.
 
 ### CAPÍTULO V. DEL SERVICIO DE TRANSPORTE MIXTO
 
@@ -1057,7 +1181,9 @@ Para la prestación del transporte público de pasajeros se requiere de Concesi�
 
 Se requerirá Permiso para la prestación del servicio de:
 
-I. Transporte especializado en las modalidades de escolar, de personal, turístico y publicitario.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+I. Transporte especializado en las modalidades de escolar, de personal, turístico, publicitario y de personas con discapacidad.
 
 II. Transporte de carga, en las modalidades de:
 
@@ -1085,7 +1211,9 @@ II. La clase de servicio para el que se otorga.
 
 III. La descripción del tipo de vehículo con el que ha de prestar el servicio.
 
-IV. El número económico asignado por la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IV. El número económico asignado por la Subsecretaría.
 
 V. La vigencia.
 
@@ -1099,15 +1227,19 @@ IX. En el caso de grúas y depósito, el domicilio del espacio que se ha de dest
 
 X. Las condiciones en las que se debe prestar el servicio.
 
-XI. La prohibición de variar las condiciones de la concesión o permiso, sin la previa autorización de la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XI. La prohibición de variar las condiciones de la concesión o permiso, sin la previa autorización de la Subsecretaría.
 
 XII. Las causas por las que proceda su cancelación.
 
 XIII. Las obligaciones económicas que deberán enterarse a la Secretaría de Hacienda por el uso, aprovechamiento o explotación de la concesión o permiso correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 75.
 
-Para el otorgamiento de concesiones, se realizará un concurso entre las personas físicas o morales interesadas, en los términos de las condiciones que establezca la presente Ley y demás disposiciones legales aplicables.
+El otorgamiento de concesiones se podrá realizar mediante un concurso entre las personas físicas o morales interesadas, o bien, mediante adjudicación directa de la Subsecretaría, previo cumplimiento de los requisitos previstos en el artículo 81 de esta Ley, y en los términos de las condiciones que establezca el presente ordenamiento y demás disposiciones legales aplicables.
 
 La convocatoria para el concurso se publicará en el Periódico Oficial y en las redes digitales del Gobierno del Estado, con por lo menos quince días hábiles de anticipación a la fecha fijada para la celebración del concurso.
 
@@ -1127,7 +1259,9 @@ V. Metas de atracción de pasajeros comprometidas.
 
 VI. La posible entrada de nuevos competidores al mercado.
 
-VII. El historial de cumplimiento o incumplimiento de requisitos de operación de transporte en otras concesiones que tenga o en las que participe el concursante, así como el historial de las multas y sanciones de vialidad y tránsito a sus conductores y vehículos en las concesiones o permisos que tengan.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VII. El historial de cumplimiento o incumplimiento de requisitos de operación de transporte en otras concesiones que tenga o en las que participe el concursante, así como el historial de las multas y sanciones de transporte, vialidad y tránsito a sus conductores y vehículos en las concesiones o permisos que tengan.
 
 ###### Artículo 76.
 
@@ -1143,7 +1277,9 @@ IV. Plazo de presentación de las propuestas.
 
 V. Los demás requisitos que prevea esta ley o las disposiciones que de ella emanen.
 
-Serán nulas de pleno derecho las Concesiones otorgadas fuera del procedimiento de Concurso y sin cumplir con los requisitos establecidos en esta Ley, con la excepción de aquellas transmitidas por sucesión.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Serán nulas de pleno derecho las Concesiones otorgadas fuera del procedimiento correspondiente y sin cumplir con los requisitos establecidos en esta Ley, con las excepciones previstas en esta.
 
 ###### Artículo 77.
 
@@ -1173,9 +1309,11 @@ Los titulares de (sic) Concesión o Permiso deberán ser de nacionalidad mexican
 
 Las personas morales titulares de (sic) Concesión o Permiso deberán estar constituidas conforme a las leyes del país y contener en sus estatutos cláusula de exclusión de extranjeros. Los concesionarios o permisionarios deberán incluir en su objeto social una actividad preponderantemente relacionada con el transporte de personas o bienes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 81.
 
-El interesado en obtener Concesión o Permiso, deberá presentar la solicitud ante la Dirección y cumplir los siguientes requisitos:
+El interesado en obtener Concesión o Permiso, deberá presentar la solicitud ante la Subsecretaría y cumplir los siguientes requisitos:
 
 I. Tratándose de personas físicas:
 
@@ -1205,25 +1343,33 @@ VII. En su caso, tarifa propuesta para una operación eficiente y útil.
 
 VIII. Las demás que se establezcan en el Reglamento y en las bases de licitación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 82.
 
-Una vez presentada la solicitud con todos los documentos necesarios, la Dirección se abocará al estudio de la misma, tomando en cuenta el cumplimiento de los requisitos exigidos por esta Ley, en los términos previstos por el Reglamento.
+Una vez presentada la solicitud con todos los documentos necesarios, la Subsecretaría se abocará al estudio de la misma, tomando en cuenta el cumplimiento de los requisitos exigidos por esta Ley, en los términos previstos por el Reglamento.
 
-La Dirección analizará y evaluará la documentación que se presente con la solicitud a que se refiere el presente artículo dentro de un plazo de treinta días naturales, dentro del cual podrá requerir a los interesados información adicional, cuando esta sea necesaria para acreditar los requisitos de forma y trámite.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+La Subsecretaría analizará y evaluará la documentación que se presente con la solicitud a que se refiere el presente artículo, dentro de un plazo de treinta días naturales, dentro del cual podrá requerir a los interesados información adicional, cuando esta sea necesaria para acreditar los requisitos de forma y trámite.
 
 Se otorgará la Concesión a quien presente las mejores condiciones para la prestación del servicio conforme a los lineamientos establecidos en el artículo 75 de la presente Ley.
 
 La concesión se inscribirá en el Registro Estatal de Transporte y se hará disponible en el portal institucional correspondiente dentro de los quince días hábiles siguientes a su otorgamiento.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 83.
 
-En caso del fallecimiento o declaración de ausencia de una persona física, titular de una concesión de transporte público colectivo, la Concesión o concesiones en cuestión deberán ser sometidas a Concurso en los términos de este Capítulo. No obstante lo anterior, el fallo del proceso deberá dar preferencia, en igualdad de circunstancias derivado de la evaluación de las propuestas, a las personas beneficiarias que designe el Concesionario por virtud de lista previamente inscritas ante la Dirección, la cual se deberá limitar a las personas sujetas a sucesión legítima, en los términos de la legislación civil aplicable.
+En caso del fallecimiento o declaración de ausencia de una persona física, titular de una concesión o permiso, la Concesión o permiso en cuestión podrá ser otorgada mediante el proceso a que se refiere el artículo 120 de esta Ley.
 
-Para la continuidad en la prestación del servicio objeto de las Concesiones en cuestión la Dirección expedirá los Permisos Temporales necesarios para desempeñar el servicio durante el proceso de Concurso descrito en el párrafo anterior.
+Para la continuidad en la prestación del servicio objeto de las Concesiones o Permiso en cuestión, la Subsecretaría expedirá los Permisos Temporales necesarios para desempeñar el servicio durante el proceso correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 84.
 
-La Dirección, en el fallo del proceso para el otorgamiento de una Concesión, deberá observar lo siguiente:
+La Subsecretaría, en el fallo del proceso para el otorgamiento de una Concesión, deberá observar lo siguiente:
 
 I. Tratándose de la modalidad de Taxi se preferirá, en igualdad de circunstancias, a los que con mayor antigüedad se hayan dedicado, en primer lugar, a la conducción de vehículos de transporte público; en segundo lugar, a quienes tengan mayor antigüedad como concesionarios en esta modalidad y en tercero, a los solicitantes que estén domiciliados en el lugar en que haya de prestarse el servicio.
 
@@ -1249,7 +1395,9 @@ No se podrán otorgar concesiones o permisos a funcionarios públicos durante el
 
 El fallo del concurso para la asignación de Concesiones deberá incluir la lista con el orden de prelación que se obtuvo de los solicitantes, conforme a la evaluación que se hizo de los mismos.
 
-Emitido el fallo de la Concesión, la persona física o moral a quien se otorgue tendrá un plazo máximo de treinta días naturales para acreditar los requisitos previstos en la presente Ley, de manera enunciativa mas no limitativa:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JULIO DE 2022)</small>
+
+Emitido el fallo de la Concesión, se publicarán los puntos resolutivos del mismo en el Periódico Oficial del Estado, y la persona física o moral a quien se otorgue tendrá un plazo máximo de treinta días naturales para acreditar los requisitos previstos en la presente Ley, de manera enunciativa mas no limitativa:
 
 I. Póliza de seguro con la cobertura exigida en el Reglamento.
 
@@ -1281,13 +1429,47 @@ Las Concesiones o Permisos en materia de transporte en ningún caso otorgan dere
 
 El acuerdo por virtud del cual se concede una Concesión o Permiso será el único documento válido para acreditar su existencia. Las placas de circulación de los vehículos destinados a la prestación de los servicios de transporte público por sí mismas, no tienen ningún efecto jurídico y administrativo.
 
-Las placas de circulación para las modalidades aplicables, solo serán expedidas si el interesado obtiene autorización correspondiente que expida la Dirección.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Las placas de circulación para las modalidades aplicables, solo serán expedidas si el interesado obtiene autorización correspondiente que expida la Subsecretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 91.
 
-La Concesión o Permiso que se otorgue es personalísima, intransferible, inalienable e inembargable. Solo podrá hacer uso de ella la persona física o moral a quien se hubiere otorgado, con excepción de lo señalado en el Título IV, Capítulos XI y XII, referente a la intervención de las Concesiones y la sucesión.
+La Concesión o Permiso que se otorgue es personal, intransferible, inalienable e inembargable. Solo podrá hacer uso de ella la persona física o moral a quien se hubiere otorgado, con excepción de lo señalado en el Título IV, Capítulos XI y XII, referente a la intervención de las Concesiones y la sucesión.
 
 No podrá prestarse el servicio de transporte público por intermediación, excepto en el supuesto de Operadores o Conductores que se contraten para su prestación y sean autorizados e inscritos ante el Registro por la autoridad competente. Cualquier acto jurídico en contravención del presente precepto será nulo de pleno derecho, sin necesidad de pronunciamiento expreso por autoridad jurisdiccional.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+La concesión o el permiso serán transferibles únicamente en los casos previstos en la presente Ley, una vez satisfechos los requisitos establecidos.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+###### Artículo 91 Bis.
+
+La Concesión o el Permiso podrán cederse con autorización de la Subsecretaría, para lo cual los interesados deberán concurrir personalmente ante la Subsecretaría a ratificar la solicitud correspondiente y acreditar los requisitos previstos en el artículo 81 de esta Ley.
+
+La cesión podrá efectuarse a las siguientes personas:
+
+I. Cónyuge.
+
+II. Descendientes en primer grado.
+
+III. Concubina o concubinario; que se acreditará con la resolución judicial correspondiente.
+
+IV. Ascendentes en primer grado.
+
+Además de las personas enumeradas con anterioridad, las concesiones y permisos serán transmisibles a través de la Subsecretaría, que podrá autorizar la cesión siempre y cuando el titular la haya explotado adecuadamente durante un año y el adquirente garantice igual o mejor prestación del servicio que el titular anterior.
+
+Una vez presentada la solicitud con todos los documentos necesarios, la Subsecretaría se abocará al estudio de la misma, tomando en cuenta el cumplimiento de los requisitos exigidos por esta Ley, en los términos previstos por el Reglamento.
+
+La Subsecretaría analizará y evaluará la documentación que se presente con la solicitud a que se refiere el presente artículo, dentro de un plazo de treinta días naturales, dentro del cual podrá requerir a los interesados información adicional, cuando esta sea necesaria para acreditar los requisitos de forma y trámite.
+
+En caso de acordar la procedencia y el cumplimiento de los requisitos, se otorgará al solicitante un plazo máximo de treinta días naturales para acreditar los requisitos previstos en el artículo 88 de esta Ley.
+
+Serán improcedentes las cesiones efectuadas ante fedatario público o cualquier instancia diversa a la autoridad de transporte.
 
 ###### Artículo 92.
 
@@ -1295,7 +1477,9 @@ El Permiso Temporal es el acto administrativo que concede la prestación del ser
 
 I. En caso de la prestación eventual de un servicio especial, hasta por una ocasión en el periodo de un año, por el plazo que justifique la causa generadora sin que ella pueda exceder de quince días.
 
-II. En caso de sustitución temporal de vehículos, hasta por un plazo de noventa días en un periodo de un año, contados a partir de la solicitud del primer Permiso; excepto en el caso de transporte público colectivo, en cuyo caso solo podrá sustituirse por unidades registradas. En ningún caso se podrá autorizar la sustitución temporal de vehículos para la modalidad de taxi.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+II. En caso de sustitución temporal de vehículos, hasta por un plazo de noventa días en un periodo de un año, contados a partir de la solicitud del primer Permiso; excepto en el caso de transporte público colectivo, en cuyo caso solo podrá sustituirse por unidades registradas.
 
 III. En casos de extrema urgencia y hasta por un plazo máximo de siete días, renovable por una sola ocasión en el periodo de un año.
 
@@ -1305,9 +1489,53 @@ V. El transporte de objetos o maquinaria de gran peso o volumen.
 
 VI. Intervención por parte de la Secretaría.
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VII. En el desarrollo de un procedimiento administrativo con motivo de modificación de concesiones o permisos, presentado ante la Subsecretaría.
+
 La expedición de permisos temporales fuera de los casos de excepción establecidos en este precepto será causa de destitución del funcionario o empleado, sin perjuicio de las responsabilidades administrativas y penas por la comisión de delitos a que haya lugar, especialmente de tipo penal de abuso de autoridad.
 
 Lo mismo se observará cuando alguna autoridad, sin tener facultades para ello, expida concesiones o permisos, o cuando estando facultada los expida sin cumplir con los requisitos exigidos por esta ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Artículo 92 bis.- En caso de fallecimiento de conductores del servicio de taxi, cuya muerte ocurra como consecuencia directa de un percance acontecido durante la prestación del servicio, podrá ser otorgada una concesión para el servicio de transporte en la modalidad de taxi, de conformidad con lo siguiente:
+
+I. El conductor fallecido deberá estar inscrito en el Registro de forma previa al percance.
+
+II. El percance deberá haber ocurrido durante la prestación del servicio en un vehículo sujeto a una concesión de transporte vigente en la modalidad de taxi.
+
+III. La persona beneficiaria del conductor fallecido deberá presentar la solicitud correspondiente, ante la autoridad en materia de transporte, dentro de los noventa días siguientes al fallecimiento del conductor.
+
+En caso de que la persona beneficiaria carezca de la resolución judicial que acredite el concubinato, podrá presentar el documento en que conste que ha dado inicio al procedimiento para obtenerla, con lo cual la autoridad de transporte dará trámite a la solicitud y resolverá una vez presentada la declaratoria judicial señalada.
+
+A la solicitud se acompañarán todos los elementos de prueba que acrediten que el fallecimiento ocurrió durante la prestación del servicio de taxi, el vínculo con el conductor fallecido, en su caso, y los demás requisitos establecidos en el reglamento.
+
+De igual forma, la autoridad podrá requerir la colaboración de otras personas o instituciones para allegarse de elementos que permitan determinar que el fallecimiento ocurrió durante la prestación del servicio de taxi.
+
+IV. Una vez acreditado lo dispuesto en la fracción anterior, el beneficiario del conductor fallecido deberá cumplir con los requisitos exigidos para el otorgamiento de la concesión previstos en el artículo 81 de esta Ley, dentro de los noventa días siguientes a la presentación de la solicitud ante la autoridad en materia de transporte, quien resolverá lo conducente de conformidad con el procedimiento señalado en el artículo 82 de esta Ley.
+
+V. En caso de acordar la procedencia y el cumplimiento de los requisitos, se otorgará al solicitante un plazo máximo de treinta días naturales para acreditar los requisitos previstos en el artículo 88 de esta Ley.
+
+VI. La concesión objeto del presente artículo podrá ser otorgada:
+
+a) A la persona beneficiaria que este haya designado por virtud de lista previamente inscrita ante la Subsecretaría, la cual se deberá limitar a las personas sujetas a sucesión legítima en los términos de la legislación civil aplicable;
+
+b) De no existir lista inscrita, a una persona en el siguiente orden preferente:
+
+i. Cónyuge supérstite;
+
+ii. Descendientes en primer grado;
+
+iii. Concubina o concubinario; que se acreditará con la resolución judicial correspondiente; o
+
+iv. Ascendentes en primer grado.
+
+c) Se extinguirá la concesión en caso de no haber lista inscrita, cuando todos los beneficiarios de la lista inscrita o del inciso b) estuvieren imposibilitados para recibir la concesión respectiva.
+
+(NOTA: EL 13 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII.1 Y VII.3, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ENERO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+No procederá el otorgamiento de la concesión a que se refiere el presente artículo, cuando EXISTAN INDICIOS DE QUE el fallecimiento del conductor hubiere acontecido con motivo de la conducción del vehículo en estado de ebriedad, bajo los influjos de otras sustancias estupefacientes o en incumplimiento de normas viales.
 
 ### CAPÍTULO II. DE LA DURACIÓN DE CONCESIONES Y PERMISOS
 
@@ -1319,21 +1547,27 @@ Las Concesiones y Permisos otorgados a personas físicas o morales tendrán una 
 
 Se exceptúan de lo establecido en el artículo anterior las Concesiones de Transporte Urbano Masivo que se encuentren integradas al Sistema Integrado de Transporte, las cuales podrán tener una vigencia de hasta quince años. Lo anterior, en el entendido que en ningún caso podrán utilizar vehículos de modelo de más de diez años en su operación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 95.
 
-Las Concesiones y Permisos podrán renovarse por una ocasión hasta por el mismo periodo que fueron otorgados; siempre y cuando estén al corriente con las obligaciones impuestas por esta Ley, y no hayan violado reiteradamente los preceptos de la misma.
+Las Concesiones y Permisos podrán renovarse hasta por el mismo periodo que fueron otorgados; siempre y cuando estén al corriente con las obligaciones impuestas por esta Ley, y no hayan violado reiteradamente los preceptos de la misma.
 
 La renovación se realizará en los términos que se establezcan en el Reglamento y en cumplimiento de los mismos requisitos que se señalen para su otorgamiento. Una vez agotado el periodo de renovación se procederá, en su caso, a un nuevo concurso en el cual podrá participar quien haya sido titular de la concesión extinta.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 96.
 
-La solicitud de renovación de Concesiones y Permisos deberá presentarse a la Dirección por escrito al menos un año previo a su vencimiento de lo contrario esta se cancelará de manera definitiva quedando dicho acto asentado en el Registro.
+La solicitud de renovación de Concesiones y Permisos deberá presentarse a la Subsecretaría, por escrito, de forma previa a su vencimiento; de no presentarse tal solicitud, la concesión o el permiso se extinguirá.
 
 ###### Artículo 97.
 
 La solicitud de renovación será objeto de evaluación de procedencia, conforme a los esquemas establecidos en el Reglamento de la presente Ley, en función del desempeño en la prestación del servicio y el cumplimiento de sus obligaciones.
 
-En ningún caso se otorgará Concesión o Permiso a los que, habiendo sido titulares de alguno, se les hubiere extinguido por cualquiera de las causas señaladas en el Capítulo VII de este Título.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+En ningún caso se renovará la Concesión o Permiso a los que, habiendo sido titulares de alguno, se les hubiere extinguido por cualquiera de las causas señaladas en el Capítulo VII de este Título.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES DE CONCESIONARIOS Y PERMISIONARIOS
 
@@ -1353,23 +1587,31 @@ V. Vigilar que sus Conductores y personal relacionado con el servicio que presta
 
 VI. Prestar el servicio de manera obligatoria, bajo las condiciones que establezca el Poder Ejecutivo del Estado, en casos de emergencia, riesgo, desastre u otras circunstancias extraordinarias que afecten a la población, con arreglo a las disposiciones de esta Ley.
 
-VII. Sujetarse a los itinerarios, horarios, áreas de cobertura, tarifas, sitios, terminales, frecuencias del servicio, especificaciones de las unidades y de sus equipos en lo que se refiere a las condiciones de comodidad, higiene y seguridad; portando los vehículos en este último caso: equipos, sistemas, dispositivos y demás accesorios que determine la Dirección y el Comité Asesor, en los casos que corresponda.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VII. Sujetarse a los itinerarios, horarios, áreas de cobertura, tarifas, sitios, terminales, frecuencias del servicio, especificaciones de las unidades y de sus equipos en lo que se refiere a las condiciones de comodidad, higiene y seguridad; portando los vehículos en este último caso: equipos, sistemas, dispositivos y demás accesorios que determine la Subsecretaría y el Comité Asesor, en los casos que corresponda.
 
 VIII. Permitir la intervención del Gobierno del Estado en la administración del servicio, en los casos en que el concesionario se niegue generalizada, sistemática o permanentemente a prestarlo o exista una causa de utilidad pública, caso fortuito o fuerza mayor.
 
-IX. Responder solidariamente por las fallas en que incurran por sí mismo, o por sus conductores, así como vigilar que su personal relacionado con el servicio que presta cumpla con las disposiciones legales; en particular, portar en lugar visible de las unidades de transporte el tarjetón de identificación expedido por la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IX. Responder solidariamente por las fallas en que incurran por sí mismo, o por sus conductores, así como vigilar que su personal relacionado con el servicio que presta cumpla con las disposiciones legales; en particular, portar en lugar visible de las unidades de transporte el tarjetón de identificación expedido por la Subsecretaría.
 
 X. Proporcionar en todo momento y tiempo, los datos, informes o documentos que le sean solicitados por autoridades competentes, a los que se encuentren obligados legalmente y que se relacionen con la operación de la concesión o permiso.
 
 XI. Otorgar las facilidades necesarias para la realización de las visitas de verificación e inspección.
 
-XII. Registrar y mantener actualizado el Registro de sus Conductores y de los vehículos afectos a la Concesión o Permiso de los que sean titulares, ante la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XII. Registrar y mantener actualizado el Registro de sus Conductores y de los vehículos afectos a la Concesión o Permiso de los que sean titulares, ante la Subsecretaría.
 
 XIII. Abstenerse de contratar conductores que se encuentren inhabilitados para tales efectos en el Registro.
 
 XIV. Renovar los vehículos que rebasen la antigüedad máxima permitida, de acuerdo con lo señalado en la presente Ley y en su Reglamento.
 
-XV. Mostrar la tarifa en los lugares autorizados, colocando el distintivo que para tal efecto expida la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XV. Mostrar la tarifa en los lugares autorizados, colocando el distintivo que para tal efecto expida la Subsecretaría.
 
 XVI. Prestar el servicio con vehículos que reúnan las condiciones de peso, dimensión, capacidad y demás especificaciones técnicas obligatorias.
 
@@ -1383,7 +1625,9 @@ XX. Abstenerse de colocar en los cristales del vehículo, rótulos, carteles y t
 
 XXI. Llevar la bitácora de mantenimiento de los vehículos destinados al servicio público en los términos del Reglamento.
 
-XXII. Notificar a la Dirección, con al menos cuarenta y cinco días naturales de anticipación, la decisión de dejar de operar una concesión o permiso.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XXII. Notificar a la Subsecretaría, con al menos cuarenta y cinco días naturales de anticipación, la decisión de dejar de operar una concesión o permiso.
 
 XXIII. Someter las unidades destinadas a la prestación del servicio público de transporte a verificación periódica, a efecto de controlar la emisión de contaminantes a la atmósfera, de acuerdo con lo que establezca la legislación aplicable en materia ambiental.
 
@@ -1399,7 +1643,9 @@ XXVIII. Resarcir a los pasajeros usuarios y a los terceros por los daños físic
 
 XXIX. Otorgar capacitación permanente a los Conductores como mínimo una vez al año.
 
-XXX. Abstenerse de sustituir de forma temporal o definitiva los vehículos registrados para otorgar el servicio, aún y cuando sea por períodos cortos con motivo del mantenimiento preventivo y correctivo, si no es con la autorización por escrito de la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XXX. Abstenerse de sustituir de forma temporal o definitiva los vehículos registrados para otorgar el servicio, aun y cuando sea por períodos cortos con motivo del mantenimiento preventivo y correctivo, si no es con la autorización por escrito de la Subsecretaría.
 
 XXXI. No hacer uso de la vía pública para el establecimiento de terminales, sitios o estacionamientos, salvo autorización expresa de la autoridad competente.
 
@@ -1409,11 +1655,15 @@ XXXIII. Proporcionar al Conductor de Transporte Público el uniforme reglamentar
 
 XXXIV. No permitir que viajen personas en los lugares destinados a la carga o en sitios que resulten riesgosos.
 
-XXXV. Presentar la unidad para la inspección vehicular en las formas, procedimientos y términos que la Dirección determine, debiendo pagar los derechos correspondientes.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XXXV. Presentar la unidad para la inspección vehicular en las formas, procedimientos y términos que la Subsecretaría determine, debiendo pagar los derechos correspondientes.
 
 XXXVI. Someter anualmente a las unidades destinadas a la prestación del servicio público de transporte a verificación para efectos ambientales de acuerdo con lo que establezca la legislación aplicable en materia ambiental.
 
-XXXVII. Realizar de manera anual y aleatoria exámenes de antidopaje a sus Conductores debiendo informar los resultados de los mismos a la Dirección. Así como permitir a las autoridades correspondientes la realización de dichos exámenes.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XXXVII. Realizar de manera anual y aleatoria exámenes de antidopaje a sus Conductores debiendo informar los resultados de los mismos a la Subsecretaría. Así como permitir a las autoridades correspondientes la realización de dichos exámenes.
 
 XXXVIII. Aplicar las exenciones de pago, tarifas preferenciales y otros beneficios en favor del usuario en los casos previstos por esta Ley.
 
@@ -1427,7 +1677,9 @@ XLI. Las demás que señalen esta Ley y demás disposiciones legales, reglamenta
 
 Para el otorgamiento de una Concesión o Permiso a personas jurídicas, además de cumplir con los requisitos de esta Ley y sus reglamentos, estas deberán estar constituidas conforme a los lineamientos de los estatutos y actas constitutivas que al efecto se establezcan en el Reglamento.
 
-Las personas morales titulares de Concesiones o Permisos deberán autorizar previamente y registrar ante la Dirección cualquier modificación de accionistas, apoderados y de sus estatutos, en el entendido que no podrán realizar modificaciones a sus estatutos que contravengan lo dispuesto por la normatividad aplicable o que no estén autorizadas por la Dirección.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Las personas morales titulares de Concesiones o Permisos deberán autorizar previamente y registrar ante la Subsecretaría cualquier modificación de accionistas, apoderados y de sus estatutos, en el entendido que no podrán realizar modificaciones a sus estatutos que contravengan lo dispuesto por la normatividad aplicable o que no estén autorizadas por la Subsecretaría.
 
 ### CAPÍTULO IV. DE LOS CONDUCTORES DE TRANSPORTE
 
@@ -1447,7 +1699,9 @@ V. Mantener una higiénica y correcta presentación, sobre todo tratándose de T
 
 VI. Respetar en su caso los derroteros e itinerarios, así como circular por las vialidades en los términos que señalen las Autoridades de Transporte y de Vialidad y Tránsito.
 
-VII. Portar a la vista el tarjetón de identidad vigente del Conductor de Transporte Público que en ese momento conduzca la unidad, con los elementos que permitan su identificación, expedido por la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VII. Tramitar ante la autoridad de transporte competente y portar a la vista el tarjetón de identidad vigente del Conductor de Transporte Público que en ese momento conduzca la unidad, con los elementos que permitan su identificación, expedido por la Subsecretaría.
 
 VIII. Tratar con respeto, cortesía y atención a las personas que utilicen sus servicios y a la población en general.
 
@@ -1459,13 +1713,17 @@ XI. Abstenerse de cargar combustible con pasajeros a bordo.
 
 El incumplimiento a las obligaciones señaladas en las fracciones IX, X y XI de este artículo, se consideran faltas graves, siendo facultad de la Secretaría suspender temporal o definitivamente al Conductor para la prestación del servicio de transporte.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 101.
 
-Sin perjuicio de lo establecido en la Ley de Vialidad y Tránsito del Estado de Chihuahua, la Dirección expedirá una pre-autorización para la emisión de la licencia de transporte público respectiva, para lo cual se deberá cumplir con la capacitación que para tales efectos establezca la Dirección.
+Sin perjuicio de lo establecido en la Ley de Vialidad y Tránsito del Estado de Chihuahua, la Subsecretaría expedirá una pre-autorización para la emisión de la licencia de transporte público respectiva, para lo cual se deberá cumplir con la capacitación que para tales efectos establezca la Subsecretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 102.
 
-La Dirección verificará que las personas con movilidad limitada cuenten con las habilidades y aptitudes necesarias para conducir cualquiera de los automotores comprendidos en la clasificación contenida en esta Ley, por lo que tendrán derecho a que se les expida la licencia para conducir correspondiente, cumpliendo previamente con los requisitos señalados para tal efecto.
+La Subsecretaría verificará que las personas con movilidad limitada cuenten con las habilidades y aptitudes necesarias para conducir cualquiera de los automotores comprendidos en la clasificación contenida en esta Ley, por lo que tendrán derecho a que se les expida la licencia para conducir correspondiente, cumpliendo previamente con los requisitos señalados para tal efecto.
 
 Cuando la licencia autorice a una persona con discapacidad el manejo de vehículos con adaptaciones especiales, se indicarán en la licencia para conducir las placas de identificación correspondientes a la unidad autorizada.
 
@@ -1505,25 +1763,31 @@ VII. Cuando se acredite su responsabilidad en una agresión física o maltrato d
 
 ### CAPÍTULO V. DE LA CAPACITACIÓN DE CONDUCTORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 105.
 
-La Dirección establecerá o certificará los programas de capacitación de carácter teórico-práctico para los Conductores en todas sus modalidades, estableciendo las siguientes disposiciones:
+La Subsecretaría establecerá o certificará los programas de capacitación de carácter teórico-práctico para los conductores en todas sus modalidades, estableciendo las siguientes disposiciones:
 
 I. Lineamientos y mecanismos de verificación del cumplimiento de la capacitación.
 
 II. Programas de capacitación impartidos, evaluados y acreditados por las instituciones públicas o privadas de educación y capacitación tecnológica y superior, facultadas por virtud de la suscripción de convenios con el Estado y los concesionarios para su impartición.
 
-III. La Dirección evaluará y supervisará la correcta impartición de los programas de capacitación a los que se refiere este artículo.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+II. (SIC) La Subsecretaría evaluará y supervisará la correcta impartición de los programas de capacitación a los que se refiere este artículo.
 
 ### CAPÍTULO VI. DE LA INFRAESTRUCTURA Y EQUIPAMIENTO PARA EL TRANSPORTE
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 106.
 
-La Dirección fomentará la celebración de convenios entre Concesionarios para la coubicación y el uso compartido de infraestructura, proponiendo las condiciones de uso, la división de espacio, así como la tarifa correspondiente, siempre y cuando exista capacidad. La Dirección podrá verificar en cualquier momento las condiciones de los convenios de compartición, a fin de valorar su impacto sobre el servicio a los usuarios del Transporte.
+La Subsecretaría fomentará la celebración de convenios entre Concesionarios para la coubicación y el uso compartido de infraestructura, proponiendo las condiciones de uso, la división de espacio, así como la tarifa correspondiente, siempre y cuando exista capacidad. La Subsecretaría podrá verificar en cualquier momento las condiciones de los convenios de compartición, a fin de valorar su impacto sobre el servicio a los usuarios del Transporte.
 
-Se considera de interés y utilidad públicos la instalación, operación y mantenimiento de infraestructura destinada al transporte público, la Secretaría procurará que los bienes a que se refiere este artículo, cuando las condiciones técnicas, de seguridad y operación lo permitan, se destinen a promover el desarrollo y la competencia en materia del Servicio de Transporte, de acuerdo con los objetivos de la presente ley. La Secretaría, emitirá recomendaciones a los gobiernos municipales, para el desarrollo de infraestructura, obra pública, desarrollo territorial y bienes inmuebles, que fomenten la libre concurrencia y cobertura del servicio de Transporte.
+Se considera de interés y utilidad públicos la instalación, operación y mantenimiento de infraestructura destinada al transporte público. La Subsecretaría procurará que los bienes a que se refiere este artículo, cuando las condiciones técnicas, de seguridad y operación lo permitan, se destinen a promover el desarrollo y la competencia en materia del Servicio de Transporte, de acuerdo con los objetivos de la presente ley. La Subsecretaría, emitirá recomendaciones a los gobiernos municipales, para el desarrollo de infraestructura, obra pública, desarrollo territorial y bienes inmuebles, que fomenten la libre concurrencia y cobertura del servicio de Transporte.
 
-La ubicación de los paraderos, patios de resguardo y demás equipamiento relacionado con los servicios de transporte, serán autorizados por la Secretaría, previa opinión del Ayuntamiento respectivo y vecinos afectados, fijándolos en lugares donde no se entorpezca el tránsito de vehículos.
+La ubicación de los paraderos, patios de resguardo y demás equipamiento relacionado con los servicios de transporte, serán autorizados por la Subsecretaría, previa opinión del Ayuntamiento respectivo y vecinos afectados, fijándolos en lugares donde no se entorpezca el tránsito de vehículos.
 
 ###### Artículo 107.
 
@@ -1537,7 +1801,9 @@ La infraestructura, estaciones y terminales de pasajeros, pasarán al Estado lib
 
 Las Concesiones y Permisos se extinguirán por las causas siguientes:
 
-I. Expiración del plazo por el que se hubiere otorgado o, si procediere, por no solicitar en tiempo y forma la renovación conforme a lo dispuesto en esta Ley y su reglamento.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+I. Expiración del plazo por el que se hubiere otorgado, siempre y cuando no se hubiere solicitado en tiempo y forma la renovación conforme a lo dispuesto en esta Ley y su reglamento.
 
 II. Suspender la prestación del servicio sin notificación a la autoridad o causa justificada por más de quince días consecutivos o por más de 90 días en un período de 12 meses.
 
@@ -1553,7 +1819,9 @@ VII. Nulidad del acuerdo de otorgamiento de Concesión o Permiso, o sus renovaci
 
 VIII. Disolución de la persona moral titular.
 
-IX. Por muerte, incapacidad permanente que impida el cumplimiento de sus obligaciones o ausencia declarada judicialmente del titular, con excepción de las Concesiones sujetas a lo establecido en el Capítulo IX del presente Título.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IX. Por muerte, incapacidad permanente que impida el cumplimiento de sus obligaciones o ausencia declarada judicialmente del titular, salvo en los casos de excepción previstos en esta Ley.
 
 X. Por utilizar los vehículos afectos a la prestación del servicio para realizar cualquier actividad ilícita con conocimiento, autorización o tolerancia del titular.
 
@@ -1571,7 +1839,9 @@ II. No contar con póliza de seguro vehicular vigente con la cobertura exigida e
 
 III. Cuando se demuestre que el conductor conduzca un vehículo sujeto a una Concesión o Permiso, bajo la influencia de bebidas alcohólicas, estupefacientes o psicotrópicos.
 
-IV. Cuando la unidad en la que se presta el servicio de transporte no reúna las condiciones físicas, interiores y exteriores, mecánicas y eléctricas, o exista cualquier anomalía imputable a su responsabilidad que evite prestar un servicio eficiente al usuario, a juicio de la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IV. Cuando la unidad en la que se presta el servicio de transporte no reúna las condiciones físicas, interiores y exteriores, mecánicas y eléctricas, o exista cualquier anomalía imputable a su responsabilidad que evite prestar un servicio eficiente al usuario, a juicio de la Subsecretaría.
 
 V. En casos de declaratoria de intervención en términos de esta ley.
 
@@ -1581,7 +1851,9 @@ V. En casos de declaratoria de intervención en términos de esta ley.
 
 Son causas de cancelación las siguientes:
 
-I. No iniciar la prestación del servicio dentro de los treinta días naturales siguientes al otorgamiento, salvo caso fortuito o fuerza mayor, debidamente acreditado y autorizado por la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+I. No iniciar la prestación del servicio dentro de los treinta días naturales siguientes al otorgamiento, salvo caso fortuito o fuerza mayor, debidamente acreditado y autorizado por la Subsecretaría.
 
 II. Por intervención, cuando las causas de utilidad pública que le dieron origen no se subsanen, una vez transcurridos ciento veinte días naturales, conforme a la resolución que dicte la autoridad.
 
@@ -1591,9 +1863,13 @@ IV. No cumplir con las condiciones establecidas en el artículo 98 de esta Ley.
 
 V. No contar con las capacidades necesarias para prestar el servicio o prestarlo con vehículos no autorizados.
 
-VI. Ceder, enajenar o de cualquier manera transferir la Concesión o Permiso, o alguno de los derechos inherentes a los mismos.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-VII. No acatar las disposiciones relativas a la prestación del servicio de transporte y sus modificaciones, según establezca la Secretaría.
+VI. Ceder o de cualquier manera transferir la Concesión o Permiso, o alguno de los derechos inherentes a los mismos, sin llevar a cabo los procedimientos establecidos en la presente Ley y en su reglamento ante la autoridad de transporte. O bien, enajenar la Concesión o Permiso, o alguno de los derechos inherentes a los mismos.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VII. No acatar las disposiciones relativas a la prestación del servicio de transporte y sus modificaciones, según establezca la Subsecretaría.
 
 VIII. Violación reiterada de la tarifa autorizada.
 
@@ -1609,11 +1885,17 @@ XIII. Omitir el pago de derechos, productos o aprovechamientos relacionados con 
 
 XIV. No realizar la verificación y revalidación anual a que se refiere la presente Ley.
 
-XV. Participar, el Conductor, en dos o más accidentes viales de gravedad en un lapso de un año, a juicio de la Dirección y se acredite su responsabilidad.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-XVI. Tener los Conductores o los vehículos afectos a la prestación del servicio de la Concesión o Permiso, más de cinco infracciones de vialidad o tránsito en el mismo año, en los términos establecidos en el Reglamento.
+XV. Participar, el Conductor, en dos o más accidentes viales de gravedad en un lapso de un año, a juicio de la Subsecretaría y se acredite su responsabilidad.
 
-XVII. Incumplir de manera reiterada con los estándares de calidad técnica, operativa, administrativa y de servicio exigidos por la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XVI. Tener los Conductores o los vehículos afectos a la prestación del servicio de la Concesión o Permiso, más de cinco infracciones graves de vialidad o tránsito en el mismo año, en los términos establecidos en el Reglamento.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XVII. Incumplir de manera reiterada con los estándares de calidad técnica, operativa, administrativa y de servicio exigidos por la Subsecretaría.
 
 XVIII. Ser titular por sí o por interpósita persona, de más Concesiones o Permisos de los que se encuentren permitidos para cualquiera de las modalidades de servicio.
 
@@ -1663,9 +1945,11 @@ III. Causa justificada de interés público que motiva la intervención.
 
 La declaratoria de la intervención de Concesiones o Permisos se publicará en el Periódico Oficial del Estado y se deberá notificar personalmente a los Concesionarios y Permisionarios afectados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 116.
 
-Como consecuencia de la intervención, la Secretaría, por medio de la Dirección podrá requisar los vehículos afectos a la Concesión y operar la misma en dichos vehículos hasta por un plazo de treinta días naturales, prorrogables hasta por noventa días naturales con base en la subsistencia de las causas que le dieron origen.
+Como consecuencia de la intervención, la Secretaría, por medio de la Subsecretaría podrá requisar los vehículos afectos a la Concesión y operar la misma en dichos vehículos hasta por un plazo de treinta días naturales, prorrogables hasta por noventa días naturales con base en la subsistencia de las causas que le dieron origen.
 
 Si al término de la intervención no se resuelven las causas que le dieron origen en términos satisfactorios para la Secretaría, esta convocará, de ser necesario, a un nuevo concurso para el otorgamiento de una nueva Concesión.
 
@@ -1683,39 +1967,63 @@ Los inconformes con la intervención deberán interponer el recurso de inconform
 
 ### CAPÍTULO XII. DE LA SUCESIÓN DE CONCESIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 120.
 
-Únicamente los derechos y obligaciones inherentes a una Concesión en modalidad de taxi, cuyo titular sea una persona física, podrán ser sujetos de transmisión por sucesión.
+Los derechos y obligaciones inherentes a una Concesión o Permiso, cuyo titular sea una persona física, podrán ser sujetos de transmisión por sucesión. La Concesión o el Permiso podrán transmitirse a la persona beneficiaria que designe el concesionario o permisionario en la lista previamente inscrita ante el Registro Estatal de Transporte, la cual se deberá limitar a las personas sujetas a sucesión legítima en los términos de la legislación civil aplicable.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Se extinguirá la concesión en caso de no haber lista inscrita, o cuando todos los beneficiarios de la lista inscrita estuvieren imposibilitados para recibir la concesión respectiva.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Para la continuidad en la prestación del servicio objeto de la sucesión en cuestión, la Subsecretaría expedirá los permisos temporales necesarios para desempeñar el servicio durante el proceso referido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 121.
 
-La sucesión de concesiones estará sujeta a que el concesionario cuente con una lista de sucesión, con orden de prelación de los beneficiarios registrada ante la Dirección.
+La sucesión de concesiones o permisos estará sujeta a que el concesionario o permisionario cuente con una lista de sucesión, con orden de prelación de los beneficiarios registrada ante la Subsecretaría.
 
 Dicha lista se deberá limitar a personas sujetas de sucesión legítima.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 122.
 
-La lista de sucesión estará inscrita en el Registro y podrá ser actualizada por el concesionario durante el término de la vigencia de la Concesión.
+La lista de sucesión estará inscrita en el Registro y podrá ser actualizada por el concesionario o permisionario durante el término de la vigencia de la Concesión o Permiso.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 123.
 
-La lista de sucesión inscrita ante el Registro será la base para la transmisión de la Concesión, la cual solamente podrá realizarse en una única ocasión, sin perjuicio de cualquier juicio sucesorio.
+La lista de sucesión inscrita ante el Registro será la base para la transmisión de la Concesión o Permiso, la cual solamente podrá realizarse en una única ocasión, sin perjuicio de cualquier juicio sucesorio.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 124.
 
-La transmisión de una concesión por sucesión deberá tramitarse ante la Dirección en un término de ciento veinte días naturales contados a partir de la fecha de fallecimiento del concesionario.
+La transmisión de una Concesión o Permiso por sucesión deberá tramitarse ante la Subsecretaría en un término que no deberá exceder de seis meses contados a partir de la fecha de fallecimiento del concesionario o permisionario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 125.
 
-Para tramitar la transmisión de la concesión por causa de sucesión, se deberá presentar la solicitud correspondiente en conjunto con los siguientes requisitos:
+Para tramitar la transmisión de la concesión o permiso por causa de sucesión, se deberá presentar la solicitud correspondiente en conjunto con los siguientes requisitos:
 
 I. Acta de defunción.
 
-II. Acreditar personalidad y parentesco del beneficiario en términos de la lista registrada ante la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+II. Acreditar personalidad y parentesco del beneficiario en términos de la lista registrada ante la Subsecretaría.
 
 III. Manifestar la voluntad de adoptar las obligaciones y derechos relativos a la prestación del servicio o en su caso manifestar la renuncia en forma expresa a los mismos en beneficio del siguiente sucesor en orden de prelación en la lista de sucesión registrada.
 
-IV. Acreditar la titularidad de la unidad de transporte afecta a la Concesión o el derecho a la misma en el juicio sucesorio.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IV. Acreditar la titularidad de la unidad de transporte afecta a la Concesión o Permiso, o el derecho a la misma en el juicio sucesorio.
 
 V. Acreditar la capacidad técnica, económica y aptitud para prestar el servicio.
 
@@ -1731,9 +2039,11 @@ La prestación del servicio transmitido por sucesión deberá desempeñarse en t
 
 Se requerirá una autorización para la prestación del servicio de transporte especializado en la modalidad de Empresas de redes de transporte
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 128.
 
-Las autorizaciones serán otorgadas por la Dirección a las empresas de redes de transporte por un plazo de cinco años, pudiendo ser prorrogadas por plazos iguales, y serán inscritas en el Registro. Las autorizaciones estarán sujetas a la celebración de los convenios de colaboración y al pago de derechos o aportaciones que resulten de los mismos.
+Las autorizaciones serán otorgadas por la Subsecretaría a las empresas de redes de transporte por un plazo de cinco años, pudiendo ser prorrogadas por plazos iguales, y serán inscritas en el Registro. Las autorizaciones estarán sujetas a la celebración de los convenios de colaboración y al pago de derechos o aportaciones que resulten de los mismos.
 
 Las Empresas de redes de transportes que suscriban el convenio, realizarán la aportación del 1.5 por ciento del monto efectivamente cobrado por cada viaje iniciado en el Estado, cuyo recurso se destinará al Fondo de Movilidad establecido en la presente Ley.
 
@@ -1741,7 +2051,9 @@ Las Empresas de redes de transportes que suscriban el convenio, realizarán la a
 
 Se otorgará autorización a las Empresas de Redes de Transporte que cumplan con los siguientes requisitos:
 
-I. Solicitud de inscripción ante la Dirección, acompañada de la documentación siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JULIO DE 2022)</small>
+
+I. Solicitud de inscripción ante la Subsecretaría, acompañada de la documentación siguiente:
 
 a. Acta constitutiva de la empresa legalmente constituida para operar en los Estados Unidos Mexicanos. con cláusula de admisión de extranjeros; cuyo objeto social incluya, entre otros, el desarrollo de programas de cómputo o prestación de servicios tecnológicos de su propiedad.
 
@@ -1825,9 +2137,11 @@ V. Hora de inicio y hora de finalización del viaje.
 
 VI. Nombre y fotografía del conductor.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 134.
 
-Las Empresas de redes de transporte deberán informar mensualmente a la Dirección, el registro de sus Conductores y vehículos con los que se presta el servicio, así como la información general de viajes en los términos que para tal efecto establezca la autoridad.
+Las Empresas de redes de transporte deberán informar mensualmente a la Subsecretaría, el registro de sus Conductores y vehículos con los que se presta el servicio, así como la información general de viajes en los términos que para tal efecto establezca la autoridad.
 
 ###### Artículo 135.
 
@@ -1871,7 +2185,9 @@ La afiliación de un vehículo a las Empresas de redes de transporte requerirá:
 
 I. Identificación oficial de la persona física o del representante legal de la persona moral propietaria del vehículo.
 
-II. El tarjetón con vigencia anual que expedirá la autoridad de transporte, como identificación del vehículo que deberá colocarse de manera visible de acuerdo a las especificaciones de la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+II. El tarjetón con vigencia anual que expedirá la autoridad de transporte, como identificación del vehículo que deberá colocarse de manera visible de acuerdo a las especificaciones de la Subsecretaría.
 
 III. Póliza de seguro vigente, con el recibo de pago o certificado correspondiente, que satisfaga los requisitos que al efecto establezca el Reglamento u otras disposiciones aplicables.
 
@@ -1931,21 +2247,27 @@ La vigencia del registro de ambulancias, funerarias, escuela de manejo, de autos
 
 ### CAPÍTULO I. LAS CARACTERÍSTICAS DE LAS UNIDADES DE TRANSPORTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 144.
 
-La Dirección propondrá a la Secretaría el diseño de la imagen de las unidades de transporte con base en las normas reglamentarias correspondientes, mismas que incluirán señalética y cromática.
+La Subsecretaría propondrá a la Secretaría el diseño de la imagen de las unidades de transporte con base en las normas reglamentarias correspondientes, mismas que incluirán señalética y cromáticas.
 
 La imagen y diseño gráfico de los vehículos destinados a la prestación del transporte público no podrá contener imágenes religiosas ni discriminatorias.
 
 El diseño de imagen de los vehículos que se utilicen para la prestación del servicio público de transporte no deberá contener colores cuya combinación, diseño de conjunto o leyendas complementarias, impliquen la promoción expresa o implícita de partidos políticos u organizaciones sindicales.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 145.
 
-Queda estrictamente prohibida la colocación de cualquier clase de polarizado en los vidrios de las unidades, permitiéndose el entintado bajo las condiciones que determine la Dirección.
+Queda estrictamente prohibida la colocación de cualquier clase de polarizado en los vidrios de las unidades, permitiéndose el entintado bajo las condiciones que determine la Subsecretaría.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 146.
 
-Los concesionarios y permisionarios no podrán instalar publicidad en el exterior de las unidades del servicio de transporte.
+Los concesionarios y permisionarios podrán instalar publicidad en las unidades del servicio de transporte. Queda prohibida la colocación de anuncios cuyo contenido haga referencia a ideas, imágenes, contextos o figuras que inciten la violencia, al consumo de drogas, que sean contrarias a la moral o a las buenas costumbres, promuevan la discriminación de cualquier tipo.
 
 ###### Artículo 147.
 
@@ -1955,9 +2277,11 @@ Las características de imagen, así como la ubicación y dimensiones del área 
 
 El concesionario no obtendrá un beneficio económico por la colocación y difusión de esa publicidad, pero los gastos vinculados a su diseño, autorización, colocación, retiro y reparación de daños en su caso, correrán por cuenta de la autoridad solicitante.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 148.
 
-El procedimiento para obtener la autorización para la instalación de publicidad deberá ajustarse a lo dispuesto por las normas reglamentarias que determine la Dirección.
+El procedimiento para obtener la autorización para la instalación de publicidad deberá ajustarse a lo dispuesto por las normas reglamentarias que determine la Subsecretaría.
 
 ###### Artículo 149.
 
@@ -1975,13 +2299,19 @@ I. Masivo, no superior a quince años.
 
 II. Colectivo, en sus clasificaciones de urbano, conurbado o metropolitano, suburbano, mixto y foráneo, no superior a diez años.
 
-III. Vehículos no motorizados; la determinada por la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+III. Vehículos no motorizados; la determinada por la Subsecretaría.
 
 IV. El transporte de características especiales; la determinada por la Dirección con base en el Estudio Técnico y/o especificaciones con garantía del fabricante.
 
 V. Taxi, no superior a siete años.
 
-En centros de población menores a treinta mil habitantes, la Dirección podrá autorizar la utilización de vehículos para la modalidad de taxi de una antigüedad de hasta diez años, y para las demás modalidades de transporte de pasajeros y mixto de hasta quince años atendiendo a las revisiones físico- mecánicas, excepto por los que sean parte de una zona conurbada o metropolitana.
+(NOTA: EL 13 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII.1 Y VII.3, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ENERO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+En centros de población menores a ciento cincuenta mil habitantes, la Subsecretaría podrá autorizar la utilización de vehículos para la modalidad de taxi DE UNA ANTIGÜEDAD DE HASTA DIEZ AÑOS, y para las demás modalidades de transporte de pasajeros y mixto DE HASTA QUINCE AÑOS atendiendo a las revisiones físico-mecánicas, excepto por los que sean parte de una zona conurbada o metropolitana.
 
 ###### Artículo 151.
 
@@ -1989,13 +2319,17 @@ Los vehículos que sean utilizados para el servicio de Transporte Especializado 
 
 I. Diez años para transporte escolar, de personas con discapacidad, de personal y turístico.
 
-Tratándose de transporte de personal, la Dirección podrá autorizar la utilización de vehículos de una antigüedad de hasta quince años, atendiendo a la revisión físico mecánica que para tal efecto se practique.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
 II. Cinco años para autos de arrendamiento.
 
-III. Siete años para Empresas de Redes de Transporte, con excepción de los vehículos eléctricos o híbridos, cuya antigüedad máxima la establecerá la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-IV. La determinada por la Dirección, en función de las condiciones físico- mecánicas del vehículo, para los siguientes casos:
+III. Siete años para Empresas de Redes de Transporte, con excepción de los vehículos eléctricos o híbridos, cuya antigüedad máxima la establecerá la Subsecretaría.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE JULIO DE 2022)</small>
+
+IV. La determinada por la Subsecretaría, en función de las condiciones físico-mecánicas del vehículo, para los siguientes casos:
 
 a. Transporte de Carga en general.
 
@@ -2097,11 +2431,15 @@ El Consejo Consultivo podrá opinar sobre los elementos que computen para la det
 
 Las tarifas para el transporte de pasajeros en sus modalidades de masivo y colectivo en todas sus especies, son las siguientes:
 
-I. Tarifa General: La que se paga en forma ordinaria por los usuarios, en efectivo o mediante el sistema de cobro que autorice la Dirección, la cual podrá ser diferenciada conforme a los requisitos que para tal efecto se establezcan.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+I. Tarifa General: La que se paga en forma ordinaria por los usuarios, en efectivo o mediante el sistema de cobro que autorice la Subsecretaría, la cual podrá ser diferenciada por ciudad o zona conurbada.
 
 II. Tarifa Preferencial: La que cubren los usuarios que gozan de descuento por encontrarse en alguna de las condiciones particulares o personales a que se refiere esta Ley. El porcentaje de descuento para esta tarifa será del cincuenta por ciento de la tarifa general y deberá aplicarse de manera constante.
 
-III. Tarifa Especial: Aquella que se podrá autorizar para determinados horarios nocturnos y días domingos o festivos, así como para períodos de baja demanda, y áreas geográficas específicas a criterio de la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+III. Tarifa Especial: Aquella que se podrá autorizar para determinados horarios nocturnos y días domingos o festivos, así como para períodos de baja demanda, y áreas geográficas específicas a criterio de la Subsecretaría.
 
 IV. Tarifa Integrada: Es la contraprestación que paga el usuario del servicio en el sistema de rutas integradas, la cual le permite realizar transbordos entre las rutas del Sistema Integrado de Transporte durante un mismo viaje.
 
@@ -2123,25 +2461,31 @@ Los beneficiarios a que hace referencia este artículo deberán contar con los d
 
 Los niños menores de cinco años no pagarán tarifa alguna; asimismo, los concesionarios están obligados a transportar gratuitamente en los vehículos destinados al servicio público a los inspectores nombrados por la Secretaría, en servicio y previa identificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 160.
 
-La tarifa del transporte público deberá revisarse dentro del tercer trimestre de cada año, previo estudio y evaluación de la Dirección y del Consejo Consultivo de Transporte. Sin perjuicio de lo anterior, la Secretaría podrá modificar fuera dicho periodo la tarifa, excepcionalmente, por causas de interés público.
+La tarifa del transporte público deberá revisarse dentro del tercer trimestre de cada año, previo estudio y evaluación de la Subsecretaría y del Consejo Consultivo de Transporte. Sin perjuicio de lo anterior, la Secretaría podrá modificar fuera de dicho periodo la tarifa, excepcionalmente, por causas de interés público.
 
 La tarifa autorizada por la Secretaría deberá publicarse a más tardar dentro de los quince días posteriores al plazo previsto para su revisión en el Periódico Oficial del Estado, en los medios electrónicos que estime la Secretaría y en cualquier otro medio que se estime oportuno.
 
 La Secretaría podrá en cualquier tiempo modificar los itinerarios y horarios por razón de interés público, de conformidad con los principios generales establecidos en la presente Ley.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 161.
 
-La tarifa para la modalidad de transporte público de Taxi es la que se paga en forma ordinaria por los usuarios, en efectivo o mediante soluciones tecnológicas que autorice la Dirección, la cual podrá ser diferenciada conforme a los requisitos que para tal efecto se establezcan por ciudad o zona conurbada.
+La tarifa para la modalidad de transporte público de Taxi es la que se paga en forma ordinaria por los usuarios, en efectivo o mediante soluciones tecnológicas que autorice la Subsecretaría, la cual podrá ser diferenciada conforme a los requisitos que para tal efecto se establezcan por ciudad o zona conurbada.
 
 ## TÍTULO VIII. DE LA INSPECCIÓN Y VIGILANCIA
 
 ### CAPÍTULO I. DE LAS DIRECTRICES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 162.
 
-Corresponde al personal de inspección adscrito a la Dirección lo siguiente:
+Corresponde al personal de inspección adscrito a la Subsecretaría lo siguiente:
 
 I. Portar la identificación y uniforme correspondiente.
 
@@ -2159,7 +2503,9 @@ VII. Practicar visitas de inspección en las bases y terminales de los vehículo
 
 VIII. Requerir los documentos, datos técnicos y estadísticos que se estimen necesarios acerca de la operación del servicio de transporte.
 
-IX. Supervisar, en coordinación con los talleres autorizados para tales efectos de la Dirección, que las condiciones físico mecánicas de los vehículos sean las óptimas para la prestación del servicio de transporte.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IX. Supervisar, en coordinación con los talleres autorizados para tales efectos de la Subsecretaría, que las condiciones físicas mecánicas de los vehículos sean las óptimas para la prestación del servicio de transporte.
 
 X. Retirar de la circulación los vehículos del servicio público de transporte en los casos que se determinen en este ordenamiento y demás disposiciones legales en la materia.
 
@@ -2169,17 +2515,23 @@ XII. Practicar a los conductores de servicios de transporte, por conducto de equ
 
 XIII. Las demás facultades que les sean conferidas.
 
-Las autoridades de Vialidad y Tránsito correspondientes tendrán el carácter de Inspectores Auxiliares de la Dirección, en los términos establecidos en los Convenios que se suscriban entre la Secretaría y las autoridades involucradas.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Las autoridades de Vialidad y Tránsito correspondientes tendrán el carácter de Inspectores Auxiliares de la Subsecretaría, en los términos establecidos en los Convenios que se suscriban entre la Secretaría y las autoridades involucradas.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 163.
 
-La Dirección realizará inspecciones de los bienes muebles e inmuebles afectos al servicio para verificar el cumplimiento de la normatividad aplicable, la calidad del servicio ofertado y condiciones físicas y mecánicas de dichos bienes.
+La Subsecretaría realizará inspecciones de los bienes muebles e inmuebles afectos al servicio para verificar el cumplimiento de la normatividad aplicable, la calidad del servicio ofertado y condiciones físicas y mecánicas de dichos bienes.
 
-La Dirección deberá realizar verificaciones sobre las quejas acumuladas sobre una concesión o permiso. Dichas verificaciones, con la información que lo justifique, se anunciarán al público con antelación para transparentar la acción gubernamental.
+La Subsecretaría deberá realizar verificaciones sobre las quejas acumuladas sobre una concesión o permiso. Dichas verificaciones, con la información que lo justifique, se anunciarán al público con antelación para transparentar la acción gubernamental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 164.
 
-La Dirección aplicará sanciones a los concesionarios, permisionarios, conductores y vehículos, de acuerdo con las disposiciones de esta Ley.
+La Subsecretaría aplicará sanciones a los concesionarios, permisionarios, conductores y vehículos, de acuerdo con las disposiciones de esta Ley.
 
 Es incompatible el cargo de inspector con cualquier comisión o empleo otorgado por los concesionarios o permisionarios. Los inspectores tampoco podrán celebrar ningún contrato con los mismos ni recibir sueldos, emolumentos, gratificaciones o pagos de cualquier género.
 
@@ -2227,7 +2579,9 @@ V. Conducir la unidad de transporte utilizando gorra o no portar el uniforme reg
 
 VI. Prestar el servicio que corresponda en condiciones de desaseo de la unidad.
 
-VII. No aceptar tarjetas con tarifa preferencial o aquellas autorizadas por la Dirección.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VII. No aceptar tarjetas con tarifa preferencial o aquellas autorizadas por la Subsecretaría.
 
 VIII. Circular sin tarjetón de identificación del conductor o no portarlo en lugar visible.
 
@@ -2347,43 +2701,95 @@ LXIII. Utilizar radio portátil de comunicación, teléfono celular o aparatos a
 
 Las infracciones citadas en el artículo anterior serán sancionadas de entre 2 y 120 veces el valor de la Unidad de Medida y Actualización vigente, de la siguiente manera:
 
-I. De 2 a 7 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones VII y XXVI.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-II. De 2 a 8 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones IV, V, LXI y LXII.
+I. De 2 a 3 veces el valor diario de la Unidad de Medida y Actualización las contempladas en la fracción IV.
 
-III. De 3 a 6 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XXXI, XXXII y XXXIII.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-IV. De 3 a 78 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XI, XVIII, XXIX y XXX.
+II. De 2 a 6 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones V, VII, VIII y XXVI.
 
-V. De 3 a 9 veces el valor diario de la Unidad de Medida y Actualización la contemplada en la fracción VI.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-VI. De 4 a 11 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones IX, X, XIV, XXXV y XXXVII.
+III. De 3 a 6 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones VI, IX, XI, XIX, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII y XXXIII.
 
-VII. De 5 a 10 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XIX, XXXIV, XXXVIII, XXXIX y XL.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-VIII. De 6 a 12 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XLI y XLII.
+IV. De 4 a 6 veces el valor diario de la Unidad de Medida y Actualización las contempladas en la fracción XLIII.
 
-IX. De 7 a 12 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones VIII, XLIII y XLIV.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-X. De 8 a 13 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XIII y XLV.
+V. De 4 a 8 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones X, XIV, XVIII, XXXV, XXXVII y LXI.
 
-XI. De 10 a 15 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XII, XX, XXII, XXIV, XXVIII y XLVI.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-XII. De 10 a 30 veces el valor diario de la Unidad de Medida y Actualización la contemplada en la fracción XV.
+VI. De 1 a 10 veces el valor diario de la Unidad de Medida y Actualización las contempladas en la fracción LXII.
 
-XIII. De 15 a 20 veces el valor diario de la Unidad de Medida y Actualización la contemplada en la fracción LIX.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-XIV. De 16 a 21 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XXV, XXVII, XLVII, XLVIII y XLIX.
+VII. De 5 a 10 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XII, XIII, XXI, XXIII, XXIV, XXXIV, XXXVI, XXXVIII, XXXIX y XL.
 
-XV. De 20 a 25 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones L, LIII y LXIII.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-XVI. De 30 a 35 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XXXVI, LI y LIV.
+VIII. De 6 a 12 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones III, XXII, XLI y XLII.
 
-XVII. De 40 a 45 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones LII, LV, LVI y LVIII.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-XVIII. De 50 a 60 veces el valor diario de la Unidad de Medida y Actualización la contemplada en la fracción XVI.
+IX. De 7 a 12 veces el valor diario de la Unidad de Medida y Actualización la contemplada en la fracción XLIV.
 
-XIX. De 100 a 120 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones I, II, III, XVII, XXI, XXIII, LVII y LX.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+X. De 7 a 14 veces el valor diario de la Unidad de Medida y Actualización las contempladas en la fracción XX.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XI. De 8 a 13 veces el valor diario de la Unidad de Medida y Actualización la contemplada en la fracción XLV.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XII. De 10 a 15 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XV, XLVI y XLVIII.
+
+XIII. De 16 a 21 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones XXV, XLVII y XLIX.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XIV. De 20 a 25 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones L y LIII.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XV. De 20 a 40 veces el valor diario de la Unidad de Medida y Actualización la contemplada en la fracción LVI.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XVI. De 30 a 35 veces el valor diario de la Unidad de Medida y Actualización la contemplada en las fracciones LI y LIV.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XVII. De 30 a 50 veces el valor diario de la Unidad de Medida y Actualización las contempladas en la fracción LVIII.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XVIII. De 40 a 45 veces el valor diario de la Unidad de Medida y Actualización la contemplada en las fracciones LII y LV.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XIX. De 50 a 60 veces el valor diario de la Unidad de Medida y Actualización la contemplada en la fracción XVI.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XX. De 50 a 80 veces el valor diario de la Unidad de Medida y Actualización la contemplada en la fracción LVII.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XXI. De 50 a 100 veces el valor diario de la Unidad de Medida y Actualización las contempladas en las fracciones I, XVII, LIX y LX.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XXII. De 100 a 120 veces el valor diario de la Unidad de Medida y Actualización la contemplada en la fracción II.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XXIII. De 100 a 120 veces el valor diario de la Unidad de Medida y Actualización las contempladas en la fracción LXIII.
 
 ###### Artículo 170.
 
@@ -2421,109 +2827,67 @@ Los operadores o concesionarios podrán abstenerse de prestar el servicio corres
 
 ## TÍTULO X. DE LOS MEDIOS DE DEFENSA
 
-### CAPÍTULO ÚNICO. DEL RECURSO DE INCONFORMIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE JULIO DE 2022)</small>
+
+### CAPÍTULO ÚNICO. DE SU REGULACIÓN
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 174.
 
-Las resoluciones dictadas con motivo de aplicación de esta Ley, su Reglamento y disposiciones que de ella emanen, podrán ser recurridas por los interesados en el término de quince días hábiles siguientes a la fecha de su notificación.
+Las resoluciones dictadas con motivo de aplicación de esta Ley, su Reglamento y disposiciones que de ella emanen, podrán ser impugnadas de conformidad con lo dispuesto en la Ley de Procedimiento Administrativo del Estado de Chihuahua.
 
 ###### Artículo 175.
 
-El recurso de inconformidad se interpondrá por escrito ante el Titular de la Unidad Administrativa que hubiere dictado la resolución recurrida, personalmente o por correo certificado con acuse de recibo en cuyo caso se tendrá como fecha de presentación la del día en que el escrito correspondiente sea depositado en el Servicio Postal Mexicano.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 176.
 
-En el escrito en el que se interponga el recurso inconformidad deberá indicarse:
-
-I. El nombre y domicilio del recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando debidamente la personalidad con la que comparece si esta no se tenía debidamente autorizada ante la autoridad que conozca del asunto.
-
-II. Bajo protesta de decir verdad, la fecha en el que el recurrente tuvo conocimiento de la resolución recurrida.
-
-III. El acto o resolución que se impugna.
-
-IV. Los agravios que, a juicio del recurrente, le cause la resolución o el acto impugnado.
-
-V. La mención de la autoridad que haya dictado la resolución u ordenado o ejecutado el acto.
-
-VI. Los documentos que el recurrente ofrezca como prueba, que tenga relación inmediata o directa con la resolución o acto impugnado y que por causas supervinientes no hubiere estado en posibilidad de ofrecer al oponer sus defensas en el escrito. Dichos documentos deberán acompañarse al escrito a que se refiere el presente artículo.
-
-VII. Las pruebas que el recurrente ofrezca en relación con el acto o la resolución impugnada, acompañando los documentos que se relacionen con este. No podrá ofrecerse como prueba la confesión de la autoridad.
-
-VIII. La solicitud de suspensión del acto o resolución impugnada previa la comprobación de haber garantizado, en su caso, debidamente el importe de la multa o multas impuestas.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 177.
 
-Al recibir el recurso, la autoridad del conocimiento verificará si este fue interpuesto en tiempo y forma, admitiéndolo a trámite o desechándolo.
-
-Para el caso de que lo admita, decretará la suspensión en un término no mayor a veinticuatro horas si fuese procedente, y desahogará las pruebas que procedan en un plazo que no exceda de quince días hábiles contados a partir del día hábil siguiente al de la notificación del proveído de admisión.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 178.
 
-La ejecución de la resolución impugnada se podrá suspender cuando se cumplan los siguientes requisitos:
-
-I. Lo solicite el interesado.
-
-II. No se afecte al interés general.
-
-III. No se trate de infracciones reincidentes.
-
-IV. Que de ejecutarse la resolución, pueda causar daños de imposible reparación para el recurrente.
-
-V. Se garantice el importe de las multas impuestas.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 179.
 
-Transcurrido el término para el desahogo de las pruebas, si las hubiere, dispondrá el recurrente de tres días para alegar de su derecho y agotados estos se dictará resolución dentro de los treinta días hábiles siguientes, en la que se confirme, modifique o revoque la resolución recurrida o el acto combatido.
-
-Dicha resolución se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 180.
 
-Además de lo indicado en el artículo 176 de la Ley, el escrito en el que se interponga el recurso inconformidad deberá indicarse los actos que por no haberse resuelto en tiempo se entiendan negados, deberá acompañarse el escrito de iniciación del procedimiento.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 181.
 
-La interposición del recurso suspenderá la ejecución del acto impugnado, siempre y cuando se cumplan lo siguiente:
-
-I. Sea procedente el recurso.
-
-II. No se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable con alguna de las modalidades previstas en la Ley.
-
-La autoridad deberá acordar, en su caso, la suspensión o la negación de la suspensión dentro de las veinticuatro horas siguientes a su interposición, en cuyo defecto se entenderá otorgada la suspensión.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 182.
 
-El recurso se tendrá por no interpuesto y se desechará cuando:
-
-I. Se presente fuera del plazo establecido.
-
-II. No se haya acompañado la documentación que acredite la personalidad del recurrente.
-
-III. No aparezca suscrito por quien deba hacerlo, a menos que se firme antes del vencimiento del plazo para interponerlo.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 183.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
-
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo no mayor de tres meses.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 184.
 
-No se podrán revocar o modificar los actos administrativos en la parte no impugnada por el recurrente.
-
-La resolución expresará con claridad los actos que se modifiquen o revoquen si la modificación es parcial, se precisará esta.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 185.
 
-Cuando hayan de tenerse en cuenta nuevos hechos o documentos que no obren en el expediente original derivado del acto impugnado, se hará de conocimiento a los interesados para que, en un plazo no inferior a cinco días hábiles ni superior a diez, formulen sus alegatos y presenten los documentos que estimen procedentes.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 186.
 
-No se tomarán en cuenta la resolución del recurso hechos, documentos o alegatos del recurrente cuando habiendo podido portarlos durante el procedimiento administrativo, no lo hayan hecho.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ###### Artículo 187.
 
-Las resoluciones administrativas que pongan fin a los procedimientos que se dicten con motivo de la aplicación de la Ley y su Reglamento y demás disposiciones que de ellos emanen, podrán ser impugnados ante el Tribunal Estatal de Justicia Administrativa.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -2596,3 +2960,45 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecinueve días del mes de marzo del año dos mil veinte.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. LXVII/RFLEY/0286/2022 III P.E. PO EL QUE “SE REFORMAN LOS ARTÍCULOS 4; 7, FRACCIÓN II, SEGUNDO PÁRRAFO; 10, FRACCIONES IV, XI, XII, XXXVI, XXXIX, XL Y XLVII; 11, FRACCIONES I, II, III, IV, V Y VI; 12, FRACCIONES I Y VI; 13, PRIMER PÁRRAFO Y SUS FRACCIONES XXX Y XXXVIII; 15, FRACCIONES II Y VI; 17, PRIMER PÁRRAFO; 20, PRIMER PÁRRAFO; 23, FRACCIÓN II; 25, FRACCIONES III Y IV; 26; 28, PRIMER PÁRRAFO; 31; 33, FRACCIONES IV Y XII; 34, PRIMER PÁRRAFO, FRACCIÓN II, Y ÚLTIMO PÁRRAFO; 35, PRIMER PÁRRAFO; 36, PRIMER PÁRRAFO; 38; 40, FRACCIONES II, III Y IV; 42, FRACCIÓN V; 44, SEGUNDO PÁRRAFO; 52, TERCER PÁRRAFO; 60, PRIMER PÁRRAFO; 61; 62; 65; 67; 68, SEGUNDO PÁRRAFO; 72, FRACCIÓN I; 74, FRACCIONES IV Y XI; 75, PRIMER PÁRRAFO, Y LA FRACCIÓN VII DEL CUARTO PÁRRAFO; 76, SEGUNDO PÁRRAFO; 81, PRIMER PÁRRAFO; 82, PRIMER Y SEGUNDO PÁRRAFOS; 83; 84, PRIMER PÁRRAFO; 88, SEGUNDO PÁRRAFO; 90, SEGUNDO PÁRRAFO; 91, PRIMER PÁRRAFO; 92, FRACCIÓN II; 95, PRIMER PÁRRAFO; 96; 97, SEGUNDO PÁRRAFO; 98, FRACCIONES VII, IX, XII, XV, XXII, XXX, XXXV Y XXXVII; 99, SEGUNDO PÁRRAFO; 100, FRACCIÓN VII; 101; 102, PRIMER PÁRRAFO; 105, PRIMER PÁRRAFO Y FRACCIÓN III; 106; 108, FRACCIONES I Y IX; 109, FRACCIÓN IV; 110, FRACCIONES I, VI, VII, XV, XVI Y XVII; 116, PRIMER PÁRRAFO; 120, PRIMER PÁRRAFO; 121, PRIMER PÁRRAFO; 122; 123; 124; 125 PRIMER PÁRRAFO Y FRACCIONES II Y IV; 128, PRIMER PÁRRAFO; 129, FRACCIÓN I; 134; 139, FRACCIÓN II; 144, PRIMER PÁRRAFO; 145; 146; 148; 150, FRACCIÓN III Y SEGUNDO PÁRRAFO; 151, FRACCIONES III Y IV; 158, FRACCIONES I Y III; 160, PRIMER PÁRRAFO; 161; 162, PRIMER PÁRRAFO, FRACCIÓN IX, Y SEGUNDO PÁRRAFO; 163; 164, PRIMER PÁRRAFO; 168, FRACCIÓN VII; 169, FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII Y XIX; LA DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO X; Y EL ARTÍCULO 174; SE ADICIONAN LAS FRACCIONES XXXIX, XL, XLI Y XLII, AL ARTÍCULO 13; LA FRACCIÓN VII AL ARTÍCULO 34; UN TERCER PÁRRAFO AL ARTÍCULO 91; EL ARTÍCULO 91 BIS; LA FRACCIÓN VII AL ARTÍCULO 92; EL ARTÍCULO 92 BIS; UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 120; LAS FRACCIONES XX, XXI, XXII Y XXIII AL ARTÍCULO 169; Y SE DEROGAN LA FRACCIÓN V DEL ARTÍCULO 8; LAS FRACCIONES VII, VIII Y X DEL ARTÍCULO 12; EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 151; ASÍ COMO LOS ARTÍCULOS 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186 Y 187; TODOS DE LA LEY DE TRANSPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales y reglamentarias contrarias a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones administrativas y reglamentarias expedidas en esta materia, vigentes al momento de la entrada en vigor de este Decreto, se seguirán aplicando en todo lo que no se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las funciones, facultades, derechos y obligaciones relativas al transporte, establecidos a cargo de la Secretaría de Desarrollo Urbano y Ecología en cualquier ordenamiento o instrumento legal, incluidos contratos, convenios o acuerdos, serán asumidos por la Secretaría General de Gobierno a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Desarrollo Urbano y Ecología, se entenderá citada a la Secretaría General de Gobierno, siempre que sea relativa a las atribuciones que se transfieren en virtud del presente Decreto. De igual forma, se entenderá citada a la Subsecretaría de Transporte cuando se haga referencia a la Dirección de Transporte.
+
+###### ARTÍCULO SEXTO.
+
+Se transfieren a la Secretaría General de Gobierno los bienes, archivos, documentos y, en general, los recursos humanos, materiales y financieros en materia de transporte que formen parte de la Secretaría de Desarrollo Urbano y Ecología. Para tales efectos, deberán realizarse los trámites para la entrega-recepción correspondiente, en términos de la normatividad aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se faculta al Ejecutivo del Estado para realizar las transferencias y ajustes presupuestales necesarios para el funcionamiento y operación de las unidades administrativas que se reasignan en virtud del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos en litigio en materia de transporte que se encuentren en trámite ante la Secretaría de Desarrollo Urbano y Ecología, serán transferidos y tramitados por la Secretaría General de Gobierno a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Las concesiones otorgadas conforme a la ley anterior fenecerán al termino señalado en su otorgamiento, al concluir su vigencia, el titular podrá solicitar a la Secretaría General de Gobierno la revalidación de su permiso o concesión sin sujetarse al procedimiento de concurso señalado por esta Ley, siempre y cuando cumpla con los demás requisitos exigidos para su expedición y su solicitud sea presentada dentro de los sesenta días hábiles anteriores a su vencimiento. Si no hace uso de este derecho dentro del término concedido, la concesión será cancelada definitivamente.
