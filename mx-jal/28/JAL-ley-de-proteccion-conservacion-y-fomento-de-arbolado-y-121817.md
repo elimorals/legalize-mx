@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-conservacion-y-fomento-de-arbolado-y-121817"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-06"
-last_updated: "2019-10-08"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN, CONSERVACIÓN Y FOMENTO DE ARBOLADO Y ÁREAS VERDES URBANAS PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
 
 Ley publicada en la Sección II del Número 40 del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 2017.
 
@@ -271,9 +271,11 @@ Cuando se pierda masa vegetal por la realización de trasplante o derribo de ár
 
 Los árboles y palmas deberán ser mantenidos mediante podas correctivas, preventivas o de formación, para mejorar su condición estética, sanitaria y estructural, prevenir o controlar daños a bienes inmuebles o estructurales, el control de plagas o enfermedades, o represente un riesgo material o hacia la seguridad de las personas.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 16.
 
-Será responsabilidad de quien realice los trabajos de poda, limpieza, trasplante o derribo de arbolado y palmas, retirar y gestionar los residuos a efecto de no obstruir el tránsito vehicular o peatonal.
+Será responsabilidad de quien realice los trabajos de poda, limpieza, trasplante o derribo de arbolado y palmas, retirar y gestionar los residuos a efecto de no obstruir el tránsito vehicular o peatonal, garantizando la seguridad de personas y cosas.
 
 ### CAPÍTULO SEXTO. Del trasplante y derribo de árboles y palmas
 
@@ -335,9 +337,11 @@ El responsable que realice el derribo de árbol o palma, o un trasplante no exit
 
 La restitución se realizará en el sitio donde se derribe el árbol o palma, o en un radio menor a un kilómetro desde éste, donde cauce mayor beneficio a consideración de la dependencia municipal.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 23.
 
-Cuando no sea posible realizar la restitución de la masa arbórea, se determinarán restituciones económicas.
+Cuando no sea posible realizar la restitución de la masa arbórea, se determinarán restituciones económicas. Dicha restitución podrá ser entregada en especie, siempre que los insumos, obras o productos entregados tengan utilidad de forma íntegra para restaurar el daño ambiental generado por las acciones sancionadas o para la conservación y reposición de las áreas verdes y arbolado urbano, previa autorización de la autoridad municipal.
 
 ### CAPÍTULO NOVENO. De las prohibiciones y sanciones
 
@@ -357,9 +361,11 @@ V. Presente características típicas de falla como cuerpos fructíferos y corte
 
 VI. Las unidades de Protección Civil lo determinen.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 25.
 
-Las autoridades municipales recibirán reportes ciudadanos por causa de riesgo en árboles y palmas, y en su caso las derivará a la autoridad correspondiente.
+Las autoridades municipales recibirán reportes ciudadanos por causa de riesgo en árboles y palmas, debiendo dar respuesta inmediata en casos de peligro a la integridad de las personas, y en su caso las derivará a la autoridad correspondiente.
 
 ###### Artículo 26.
 
@@ -385,9 +391,9 @@ VIII. Arborizar con especies exóticas invasoras.
 
 En caso de dañar un área verde, árbol o palma, el responsable deberá restaurar el área afectada o restituir el árbol o palma en los términos de esta Ley.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
 
-En caso de que el daño realizado sea irreparable o severo, el responsable deberá pagar una compensación económica equivalente al daño causado valorado conforme a estudio que realice la autoridad correspondiente.
+En caso de que el daño realizado sea irreparable o severo, el responsable deberá pagar una compensación económica equivalente al daño causado, valorada conforme a estudio que realice la autoridad correspondiente, destinándose el importe íntegro para la conservación y reposición de las áreas verdes, y arbolado urbano.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
@@ -454,3 +460,11 @@ P.O. 8 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO 27344/LXII/19 QUE REFORMA LOS ARTÍCULOS 3°, 4°, 5°, 7°, 8°, 21, Y 28 DE LA LEY DE PROTECCIÓN, CONSERVACIÓN Y FOMENTO DE ARBOLADO Y ÁREAS VERDES URBANAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 16 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28797/LXIII/22 QUE REFORMA LOS ARTÍCULOS 16, 23, 25 Y ADICIONA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 27, DE LA LEY DE PROTECCIÓN, CONSERVACIÓN Y FOMENTO DE ARBOLADO Y ÁREAS VERDES URBANAS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Para el correcto cumplimiento de lo dispuesto por el segundo párrafo del artículo 27, los municipios tendrán 90 días naturales para hacer las adecuaciones propias a sus leyes de ingresos, presupuestos y disposiciones reglamentarias aplicables.
