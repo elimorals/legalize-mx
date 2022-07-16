@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-universidad-autonoma-de-chihuahua-56223"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-06-27"
-last_updated: "2016-04-23"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 27 de junio de 2007.
 
@@ -99,13 +99,21 @@ V. Gestionar y allegarse recursos para su sostenimiento, así como determinar lo
 
 VI. Establecer los criterios, requisitos y procedimientos para la admisión, permanencia y egreso de sus alumnos, mediante los reglamentos respectivos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-VII. Administrar unidades médicas y prestar servicios médicos y hospitalarios con sentido social, privilegiando la docencia, la investigación y el extensionismo; y
+VII. Administrar unidades médicas y prestar servicios médicos y hospitalarios con sentido social, privilegiando la docencia, la investigación y el extensionismo;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
 
-VIII. Las demás que se deriven de su naturaleza y de sus fines, así como las que otras leyes establezcan.
+VIII. Establecer las aportaciones de cooperación y recuperación por los servicios que presta.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2022)</small>
+
+IX. Crear instancias y sociedades enfocadas a realizar programas generadores de recursos complementarios.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2022)</small>
+
+X. Las demás que se deriven de su naturaleza y de sus fines, así como las que otras leyes establezcan.
 
 ## TÍTULO II. ESTRUCTURA DE LA UNIVERSIDAD
 
@@ -138,6 +146,10 @@ II. El Rector;
 III. Los Consejos Técnicos de las Unidades Académicas;
 
 IV. En general quienes, conforme a esta Ley y sus Reglamentos, tengan facultades de decisión en sus respectivas áreas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+En la elección y/o designación de las mismas, se deberá de tomar en cuenta el principio de paridad de género.
 
 ### CAPÍTULO II. DEL CONSEJO UNIVERSITARIO
 
@@ -197,9 +209,17 @@ XV. Conferir menciones y reconocimientos honoríficos;
 
 XVI. Hacer comparecer a cualquier miembro de la comunidad universitaria cuando lo juzgue conveniente;
 
-XVII. En general, conocer de cualquier otro asunto que no esté expresamente reservado a otra autoridad universitaria; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
 
-XVIII. Las demás que le otorgue esta Ley.
+XVII. Designar a la persona titular del Órgano Interno de Control de la Universidad, conforme al procedimiento previsto en esta Ley.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+XVIII. Conocer, en general, de cualquier otro asunto que no esté expresamente reservado a otra autoridad universitaria.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2022)</small>
+
+XIX. Las demás que le otorgue esta Ley.
 
 ###### ARTÍCULO 10.
 
@@ -257,15 +277,23 @@ III. Poseer como mínimo el grado de Licenciatura;
 
 IV. Gozar de fama pública como persona honorable y no haber sido condenado por delito doloso a una pena de más de un año de prisión; pero si se trata de peculado, enriquecimiento ilícito, robo, fraude, administración fraudulenta, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, lo inhabilitarán para el cargo, cualquiera que haya sido la pena;
 
-V. Haber prestado servicios docentes o de investigación a la Universidad, por lo menos en los últimos cinco años anteriores a la elección;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-VI. No haber ocupado el cargo de Rector, con cualquier carácter que haya fungido. El encargado del despacho no será considerado Rector para los efectos de la elección;
+V. Haber prestado servicios docentes o de investigación a la Universidad, por lo menos durante tres años.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VI. No haber sido titular de la Rectoría por elección. Esta disposición no aplicará a quien haya ocupado el cargo de manera interina, en sustitución o en encargo del despacho, por un período menor a un año.
 
 VII. No ser ministro de algún culto religioso;
 
 VIII. No ocupar en el momento de la elección, cargo público o de dirigente de partido político; y
 
 IX. No estar en servicio activo en el Ejército.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Para ocupar el cargo de titular de la Secretaría General, el requisito previsto en la fracción V de este artículo será el haber prestado servicios docentes o de investigación a la Universidad por al menos dos años.
 
 ###### ARTÍCULO 21.
 
@@ -375,6 +403,10 @@ En cada Unidad Académica la máxima autoridad es el Consejo Técnico integrado 
 
 El Consejo Técnico, además, contará con un secretario que será designado por el Director de la Unidad Académica de que se trate, de entre los Secretarios de Área de la misma, quien tendrá derecho a voz, pero sin voto.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+En caso de extensiones, deberá adicionarse a los Consejos Técnicos una o un Consejero Maestro y una o un Consejero Alumno, con sus respectivas suplencias, quienes deberán pertenecer a la extensión o tener adscripción a la misma, siempre y cuando representen al quince por ciento del total del alumnado inscrito en los programas académicos.
+
 ###### ARTÍCULO 28.
 
 Los Consejeros Técnicos Maestros y Alumnos serán nombrados por sus bases. Su nombramiento podrá ser revocado con el acuerdo de la mayoría de la totalidad de sus representados.
@@ -455,9 +487,13 @@ III. Gozar de fama pública como persona honorable y no haber sido condenado por
 
 IV. Tener como mínimo el grado de Licenciatura o su equivalente;
 
-V. Haber sido maestro de la Unidad Académica por lo menos los últimos cinco años anteriores a la elección, salvo que sea un plantel de nueva creación;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-VI. No haber ocupado el cargo de Director de ese Plantel. El encargado del despacho no será considerado Director para los efectos de elección;
+V. Tener por lo menos tres años como maestra o maestro de la Unidad Académica, salvo que sea un plantel de nueva creación.
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VI. No haber sido titular de la Dirección por elección de ese Plantel. Esta disposición no aplicará a quien haya ocupado el cargo de manera interina, en sustitución o encargo del despacho, por un periodo menor a un año.
 
 VII. No ser ministro de algún culto religioso;
 
@@ -551,7 +587,9 @@ III. Firmar conjuntamente con el Rector, títulos, grados, diplomas y otros docu
 
 IV. Participar como Secretario del Consejo Universitario, turnando y dando seguimiento a los asuntos que se presenten ante dicha autoridad, así como levantar y firmar las actas de las sesiones y llevar el archivo del mismo;
 
-V. Expedir copias certificadas de documentos existentes en los archivos de la Universidad; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+V. Expedir copias certificadas de documentos, electrónicos, digitales y en general de toda la información contenida en los sistemas informáticos existentes en la Universidad y/o medios de almacenamiento.
 
 VI. Las demás que le señalen esta Ley y sus reglamentos.
 
@@ -565,9 +603,11 @@ En la Universidad operarán las cinco Áreas siguientes: Académica, de Investig
 
 Cada Área se integra por un Director y un Consejo Consultivo. El Director será designado y removido por el Rector, ante quien será responsable del correcto desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 48.
 
-Para ser Director de Área se requiere tener el grado mínimo de Licenciatura o su equivalente, y una antigüedad no menor de tres años de prestar servicios administrativos, académicos o de investigación en la Universidad.
+Para ser Director de Área se requiere tener el grado mínimo de Licenciatura o su equivalente, y una preparación académica afín a la Dirección propuesta.
 
 ###### ARTÍCULO 49.
 
@@ -921,6 +961,10 @@ El Rector, al rendir anualmente ante el Consejo Universitario sus informes finan
 
 El Rector, al presentar ante el Consejo Universitario el Proyecto de Presupuesto de Ingresos y Egresos de la Universidad, hará mención de su relación con los objetivos y prioridades del Plan de Desarrollo Universitario y sus programas.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+El Presupuesto de Egresos deberá acompañarse de los tabuladores que contengan los sueldos y salarios de las personas al servicio de la Universidad, mismo que deberá cumplir con lo establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ### CAPÍTULO III. DE LOS PLANES DE DESARROLLO DE LAS UNIDADES ACADÉMICAS
 
 ###### ARTÍCULO 87.
@@ -944,6 +988,10 @@ El Director de cada Unidad Académica, al rendir anualmente ante el Consejo Téc
 ###### ARTÍCULO 91.
 
 El Director, al presentar ante el Consejo Técnico el Anteproyecto de Presupuesto de Ingresos y Egresos de la Unidad Académica, hará mención de su relación con los objetivos y prioridades del Plan de Desarrollo de la Unidad Académica y sus programas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+El Presupuesto de Egresos deberá acompañarse de los tabuladores que contengan los sueldos y salarios de las personas al servicio de la Universidad, mismo que deberá cumplir con lo establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ## TÍTULO VI. DEL PATRIMONIO DE LA UNIVERSIDAD
 
@@ -1019,6 +1067,76 @@ V. Expulsión definitiva.
 
 La sanción será impuesta por la autoridad competente mediante un procedimiento en que se respete la garantía de audiencia y de acuerdo a lo que establezca el reglamento respectivo.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2022)</small>
+
+## TÍTULO VIII. ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2022)</small>
+
+### CAPÍTULO I. REQUISITOS PARA OCUPAR LA TITULARIDAD DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+###### ARTÍCULO 102.
+
+La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Tener la ciudadanía mexicana, y estar en pleno goce de sus derechos civiles y políticos.
+
+II. Gozar de buena reputación y no haber recibido condena por delito doloso que amerite pena de prisión.
+
+III. Contar al momento de su designación con experiencia de alguna de las materias relativas al control, manejo o fiscalización de: recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública o adquisiciones, arrendamientos y servicios del sector público.
+
+IV. Contar con título y cédula profesional relacionados con las materias a que se refiere la fracción anterior, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de cinco años.
+
+V. No haber prestado servicios de consultoría o auditoría a la Universidad, en lo individual o como integrante de despachos externos, en los cinco años anteriores a su designación.
+
+VI. No haber recibido inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público.
+
+VII. No haber desempeñado cargo con atribuciones directivas de algún partido político, ni haberse postulado para cargo de elección popular en los cinco años anteriores a la propia designación.
+
+VIII. Encontrarse libre de conflicto de interés.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2022)</small>
+
+### CAPÍTULO II. DEL PROCEDIMIENTO DE DESIGNACIÓN
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2022)</small>
+
+###### ARTÍCULO 103.
+
+La designación de la persona titular del Órgano Interno de Control se llevará a cabo de conformidad con el procedimiento siguiente:
+
+I. El Consejo Universitario integrará una Comisión Especial acorde con lo previsto en el artículo 50 del Reglamento de los Consejos Universitario y Técnicos de la Universidad Autónoma de Chihuahua, conformada por cuatro integrantes del propio Consejo y una persona especialista en materia de fiscalización.
+
+II. La Comisión Especial emitirá una convocatoria pública dirigida a la sociedad en general, en la que se establezcan los requisitos, el procedimiento y los plazos para la selección, con base en lo siguiente:
+
+a) La documentación requerida.
+
+b) Plazos para la inscripción y entrega de documentación.
+
+c) Plazos y procedimiento para la evaluación del perfil curricular.
+
+d) Criterios de ponderación.
+
+e) Fecha para la celebración de las entrevistas.
+
+III. En la evaluación del perfil de las personas aspirantes se le otorgará mayor ponderación al desempeño en las entrevistas, conforme a los parámetros que acuerde la Comisión Especial.
+
+IV. Concluido el plazo para la inscripción, dentro de los tres días naturales siguientes, la Comisión Especial publicará la lista de personas inscritas y la versión pública del perfil curricular, en el portal de internet oficial de la Universidad.
+
+V. Después de publicada la lista referida en la fracción anterior, la Comisión Especial, en un plazo que no podrá exceder de los diez días naturales siguientes, llevará a cabo, al menos, una entrevista a quienes cumplieron con los requisitos previstos en la convocatoria.
+
+Dicha entrevista tendrá por objeto evaluar el perfil y experiencia profesional, habilidades directivas y conocimientos en temas de control, manejo o fiscalización de: recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública o adquisiciones, arrendamientos y servicios del sector público.
+
+La Comisión Especial acordará el formato y los horarios de las entrevistas, las cuales serán públicas y podrán ser transmitidas en vivo a través de los medios electrónicos de los cuales disponga la propia Universidad.
+
+VI. Una vez concluida la etapa referida en la fracción anterior, dentro de los cinco días naturales siguientes, integrará un informe que contenga los resultados de la evaluación curricular y de las entrevistas.
+
+De igual manera, dentro de los cinco días naturales siguientes conformará las ternas, mismas que las remitirá al Consejo Universitario, quien hará la designación de la persona titular del Órgano Interno de Control.
+
+VII. Una vez recibidas las ternas y la propuesta referidas, el Consejo Universitario, en un plazo que no excederá de diez días hábiles, designará, con el voto de al menos las dos terceras partes de sus integrantes presentes, a la persona que ocupará el cargo de titular del Órgano Interno de Control de la Universidad, por un período de siete años.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -1056,3 +1174,19 @@ P.O. 23 DE ABRIL DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0282/2022 III P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente do su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la designación de la persona titular del Órgano Interno de Control y su debido funcionamiento, deberá preverse la suficiencia presupuestal respectiva.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos de lo previsto en el último párrafo del artículo 7, dicha disposición entrará en vigor a los 180 días naturales, contados a partir de la publicación del presente Decreto, en el Periódico Oficial del Estado.
