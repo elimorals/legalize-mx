@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-vivienda-del-estado-de-jalisco-100675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-09"
-last_updated: "2016-10-11"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE VIVIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 9 de mayo de 2014.
 
@@ -193,9 +191,9 @@ XXVI. Vivienda progresiva: la acción destinada a satisfacer las necesidades hab
 
 XXVII. Vivienda de interés social: la vivienda cuyo precio máximo de venta al público al término de su edificación, no exceda de la cantidad de cinco mil cuatrocientos veinticinco veces el valor diario de la Unidad de Medida y Actualización que resulte de multiplicar por quince el salario al término de su edificación, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-XXVIII. Vivienda popular: la vivienda cuyo valor al término de su edificación y cual precio de venta al público, es superior de quince veces el valor anual de la Unidad de Medida y Actualización, y no excede de la cantidad de nueve mil ciento veinticinco veces el valor anual de la Unidad de Medida y Actualización vigente, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta; y
+XXVIII. Vivienda popular: la vivienda cuyo valor al término de su edificación y cual precio de venta al público, es superior de quince veces el valor anual de la Unidad de Medida y Actualización, y no excede de la cantidad de nueve mil ciento veinticinco veces el valor diario de la Unidad de Medida y Actualización vigente, considerando las acciones urbanísticas, permisos y trámites que se deriven de ésta; y
 
 XXIX. Vivienda terminada: la acción habitacional que se realiza en un proceso continuo y único de construcción.
 
@@ -291,11 +289,25 @@ VI. Prestar, en términos de las disposiciones jurídicas aplicables, los servic
 
 VII. Promover obras de infraestructura en las reservas territoriales de uso habitacional, para fomentar el crecimiento urbano ordenado en los términos y modalidades de la legislación urbanística aplicable;
 
-VIII. Coordinar acciones con el Gobierno del Estado con la finalidad de recibir apoyo para la planeación, gestión de recursos, operación de programas y ejecución de acciones en materia de suelo y vivienda;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
 
-IX. Coordinar acciones en materia de suelo y vivienda con municipios colindantes; y
+VIII. Promover con participación de los sectores público, social y privado, la oferta de vivienda de interés social en zonas consolidadas.
 
-X. Las demás que establezcan otros ordenamientos legales en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
+
+IX. Implementar las medidas a su alcance a fin de garantizar la simplificación de los trámites administrativos, respecto a la ejecución de acciones de vivienda.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2022)</small>
+
+X. Coordinar acciones con el Gobierno del Estado con la finalidad de recibir apoyo para la planeación, gestión de recursos, operación de programas y ejecución de acciones en materia de suelo y vivienda;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2022)</small>
+
+XI. Coordinar acciones en materia de suelo y vivienda con municipios colindantes; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2022)</small>
+
+XII. Las demás que establezcan otros ordenamientos legales en la materia.
 
 #### SECCIÓN SEGUNDA. DE LA COORDINACIÓN
 
@@ -1130,3 +1142,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 16 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28796/LXIII/22 QUE REFORMA LOS ARTÍCULOS 8 Y 16 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO Y ARTÍCULO 10 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
