@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2022-05-31"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -724,6 +724,10 @@ Para que los permisos o licencias se concedan es requisito previo la solicitud p
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2016)</small>
 
 En caso de que un servidor público sea llamado a comparecer por autoridad competente, la entidad otorgará el permiso o justificará la falta, previa demostración del requerimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JULIO DE 2022)</small>
+
+A las y los servidores públicos se les podrá otorgar el permiso con goce de sueldo o justificar la falta, en caso de requerir tramitar o acudir a diligencias ministeriales, judiciales o análogas, relacionadas con los casos en que sean víctimas de violencia en razón de género, siempre que justifiquen tal situación.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3204,3 +3208,9 @@ P.O. 31 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28778/LXIII/22 QUE MEDIANTE EL CUAL SE RESUELVEN LAS OBSERVACIONES FORMULADAS POR EL TITULAR DEL PODER EJECUTIVO A LA MINUTA DEL DECRETO 28736/LXIII/22 Y SE MODIFICAN LOS ARTÍCULOS 16 Y 22 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 16 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28801/LXIII/22 QUE ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 42 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará eh vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
