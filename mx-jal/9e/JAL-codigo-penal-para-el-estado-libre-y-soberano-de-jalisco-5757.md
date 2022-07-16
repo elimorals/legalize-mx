@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2022-05-17"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE JALISCO EL 17 DE MAYO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2095,25 +2093,33 @@ I. De uno a cuatro años de prisión, cuando la víctima tenga entre doce y meno
 
 II. De tres a seis años de prisión, cuando la víctima sea menor de doce años de edad.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
-Art. 142 M. A quien tenga cópula o cópula equiparada, con una persona menor de edad o en una persona que no tenga la capacidad de comprender el significado de las cosas o de resistir el hecho, se le impondrá una pena de:
+###### Art. 142-M.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE NOVIEMBRE DE 2020)</small>
+A quien tenga cópula o cópula equiparada, con una niña, niño o adolescente, se le impondrá una pena de:
 
-I. Tres meses a cinco años de prisión, cuando la víctima tenga entre quince y menos de dieciocho años de edad y el acto se realice con su consentimiento por medio de la seducción, la cual se presume salvo prueba en contrario, o por medio del engaño;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+I. Tres meses a cinco años de prisión, cuando la víctima tenga entre quince y menos de dieciocho años de edad y el acto se realice con su consentimiento obtenido por medio de engaño;
 
-II. Ocho a quince años de prisión, cuando la víctima tenga entre quince y menos de dieciocho años de edad y el acto se realice sin su consentimiento, o cuando sea una persona que no tenga la capacidad de comprender el significado de las cosas o de resistir el hecho; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+II. Ocho a veinte años de prisión, cuando la víctima tenga entre quince y menos de dieciocho años de edad y el acto se realice sin su consentimiento; y
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
 III. Doce a veinticinco años de prisión, cuando la víctima sea menor de quince años de edad.
 
-El delito señalado en la fracción I del párrafo anterior, se perseguirá por querella de la parte ofendida o de su legítimo representante.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
 
-Se entiende por cópula, la introducción total o parcial del miembro viril, en el cuerpo de la víctima, por vía vaginal en su caso, oral o anal.
+Los delitos contemplados en este artículo se perseguirán de oficio.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+Se entiende por cópula, la introducción, total o parcial con o sin eyaculación del miembro viril en el cuerpo de la víctima de cualquier sexo, sea por vía vaginal, oral o anal.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 Se entiende por cópula equiparada, la introducción total o parcial de cualquier objeto distinto al miembro viril, en el cuerpo de la víctima, por vía vaginal en su caso o anal, con fines eróticos sexuales.
 
@@ -2171,11 +2177,11 @@ En los supuestos que establecen las fracciones II y III, de éste artículo, cua
 
 El autor del delito en cualquiera de las circunstancias en que lo haya estará obligado como una parte de la reparación del daño a cubrir los gastos por las terapias psicológicas que la víctima requiera por indicaciones del profesional en la materia.
 
-> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
 
-###### Artículo 142-O.
+###### Art. 142-O.
 
-A quien tenga con la víctima lazos consanguíneos o parentesco, lazos afectivos, una posición de confianza, de autoridad, respeto, influencia o de dependencia y tenga conocimiento y no acuda a la autoridad competente para denunciar cualquiera de los delitos señalados en este capítulo, será castigado de dos a cinco años de prisión.
+A quien tenga con la víctima lazos consanguíneos o de parentesco, lazos afectivos, una posición de confianza, de autoridad, respeto, influencia o de dependencia y tenga conocimiento y no acuda a la autoridad competente para denunciar cualquiera de los delitos señalados en este capítulo, será castigado de dos a cinco años de prisión. Además, el juez decretará la pérdida de la patria potestad en los términos del presente Código.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -3417,11 +3423,11 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 ### CAPITULO III. Violación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Art. 175.
 
-Se impondrán de ocho a veinte años de prisión al que, por medio de la violencia física o moral, tenga cópula con persona cualquiera que sea su sexo.
+Se impondrán de ocho a veinte años de prisión al que, por medio de la violencia física o moral, tenga cópula con una persona cualquiera que sea su sexo. Se aplicará la misma sanción, a quien tenga cópula con una persona que carezca de capacidad para comprender el significado de las cosas o de resistir el hecho.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3435,9 +3441,9 @@ Cuando el autor del delito tuviere derechos de tutela, patria potestad o a hered
 
 La violación del padrastro al hijastro y la ejecutada por éste a su padrastro, la del amasio al hijo de su amasia, la del tutor a su pupilo, la efectuada entre ascendientes o descendientes naturales o adoptivos o entre hermanos, la cometida entre cónyuges, concubinos o cualquier otra relación de pareja o persona con cualquier relación de parentesco, será sancionada de nueve a veinticinco años. En estos supuestos, se perderán los derechos de la patria potestad o tutela cuando la ejerciere sobre la víctima.
 
-(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020) (F. DE E., P.O. 15 DE ABRIL DE 2021)
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
 
-Se equipara a la violación, la introducción por vía vaginal o anal con fines eróticos sexuales de cualquier objeto o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido, al responsable de este delito se le impondrá las penas señaladas en este artículo.
+Se equipara a la violación, la introducción por vía vaginal o anal con fines eróticos sexuales de cualquier objeto o instrumento distinto del miembro viril, por medio de la violencia física o moral, o realice estos actos en una persona que carezca de capacidad para comprender el significado de las cosas o de resistir el hecho, sea cual fuere el sexo del ofendido. Al responsable de este delito se le impondrá la pena señalada en el primer párrafo de este artículo.
 
 (REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020) (F. DE E., P.O. 15 DE ABRIL DE 2021)
 
@@ -3665,7 +3671,7 @@ El incesto entre ascendientes con descendientes se castigará con prisión de un
 
 ###### Art. 182.
 
-Se impondrán de quince días a dos años de prisión al hombre o mujer que tengan entre sí relaciones sexuales, bien sea en el domicilio conyugal o causando escándalo, sabiendo que uno de ellos o los dos están casados con otra u otras personas. Este delito se sancionará por querella del ofendido, pero el perdón del último beneficiará a ambos responsables, siempre que se otorgue hasta antes de dictar sentencia.
+(DEROGADO, P.O. 16 DE JULIO DE 2022)
 
 ### CAPITULO I. Delitos en materia de inhumaciones y exhumaciones
 
@@ -7184,3 +7190,9 @@ P.O. 28 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 28760/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 289 Y SE ADICIONA EL ARTÍCULO 289 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación el periódico oficial "El Estado de Jalisco".
+
+P.O. 16 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28798/LXIII/22 QUE REFORMA LOS ARTÍCULOS 142-M, 142-O Y 175; Y DEROGA EL ARTÍCULO 182 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
