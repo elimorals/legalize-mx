@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2022-05-28"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JULIO DE 2022 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -487,11 +489,13 @@ XVI.- Ejercer las funciones que la ley determina en materia de cultos, iglesias,
 
 XVII.- En los términos de la Ley respectiva, expedir las licencias definitivas a los negocios donde se expendan, distribuyan o consuman bebidas alcohólicas, y vigilar la correcta aplicación de las disposiciones en esta materia;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de Gobernación, Registral de la Propiedad y Notariado, Registral Civil, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores y de acuerdo con los ordenamientos legales aplicables.
+XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación con las funciones de gobernación, registral de la propiedad y notariado, registral civil y transporte, así como vigilar la organización y el funcionamiento de las unidades orgánicas que ejerzan las atribuciones anteriores y de acuerdo con los ordenamientos legales aplicables.
 
-XIX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
+
+XIX.- Aprobar las tarifas de transporte y tramitar las solicitudes para el otorgamiento de concesiones, permisos, autorizaciones o registros, y demás actos jurídicos y administrativos en materia de transporte y vías de comunicación de competencia estatal, de conformidad con la ley en la materia.
 
 XX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2021)
 
@@ -1121,13 +1125,11 @@ a. En apoyo al fortalecimiento técnico, financiero y fiscal de los municipios, 
 
 b. Integrar y mantener actualizado el catastro estatal, con los datos que proporcionen los municipios y aquellos que obtenga el propio Estado, tales como la información geográfica y la cartografía básica y, en general, ejercer las atribuciones que al Gobierno del Estado correspondan de conformidad con la Ley de Catastro.
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-IV. Dirigir y vigilar el cumplimiento de las leyes y reglamentos con relación a las funciones de transporte, desarrollo urbano, ecología, catastro y ordenamiento territorial, así como vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores.
+IV. Dirigir y vigilar el cumplimiento de las leyes y reglamentos en relación con las funciones de desarrollo urbano, ecología, catastro y ordenamiento territorial, así como vigilar la organización y funcionamiento de las unidades orgánicas que ejerzan las atribuciones anteriores.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2020)</small>
-
-V. Aprobar las tarifas de transporte y tramitar las solicitudes para el otorgamiento de concesiones, permisos, autorizaciones o registros, y demás actos jurídicos y administrativos en materia de transporte y vías de comunicación de competencia estatal, de conformidad con la ley en la materia.
+V. (DEROGADA, P.O. 16 DE JULIO DE 2022)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE MARZO DE 2020)</small>
 
@@ -3550,3 +3552,43 @@ Los asuntos que se encuentren en trámite a la entrada en vigor del presente Dec
 ###### ARTÍCULO OCTAVO.
 
 El Poder Ejecutivo del Estado deberá realizar las adecuaciones necesarias a los reglamentos interiores de las dependencias que modifican sus atribuciones en virtud del presente Decreto.
+
+P.O. 16 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFLEY/0286/2022 III P.E.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales y reglamentarias contrarias a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones administrativas y reglamentarias expedidas en esta materia, vigentes al momento de la entrada en vigor de este Decreto, se seguirán aplicando en todo lo que no se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las funciones, facultades, derechos y obligaciones relativas al transporte, establecidos a cargo de la Secretaría de Desarrollo Urbano y Ecología en cualquier ordenamiento o instrumento legal, incluidos contratos, convenios o acuerdos, serán asumidos por la Secretaría General de Gobierno a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Desarrollo Urbano y Ecología, se entenderá citada a la Secretaría General de Gobierno, siempre que sea relativa a las atribuciones que se transfieren en virtud del presente Decreto. De igual forma, se entenderá citada a la Subsecretaría de Transporte cuando se haga referencia a la Dirección de Transporte.
+
+###### ARTÍCULO SEXTO.
+
+Se transfieren a la Secretaría General de Gobierno los bienes, archivos, documentos y, en general, los recursos humanos, materiales y financieros en materia de transporte que formen parte de la Secretaría de Desarrollo Urbano y Ecología. Para tales efectos, deberán realizarse los trámites para la entrega-recepción correspondiente, en términos de la normatividad aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se faculta al Ejecutivo del Estado para realizar las transferencias y ajustes presupuestales necesarios para el funcionamiento y operación de las unidades administrativas que se reasignan en virtud del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Los asuntos en litigio en materia de transporte que se encuentren en trámite ante la Secretaría de Desarrollo Urbano y Ecología, serán transferidos y tramitados por la Secretaría General de Gobierno a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Las concesiones otorgadas conforme a la ley anterior fenecerán al termino señalado en su otorgamiento, al concluir su vigencia, el titular podrá solicitar a la Secretaría General de Gobierno la revalidación de su permiso o concesión sin sujetarse al procedimiento de concurso señalado por esta Ley, siempre y cuando cumpla con los demás requisitos exigidos para su expedición y su solicitud sea presentada dentro de los sesenta días hábiles anteriores a su vencimiento. Si no hace uso de este derecho dentro del término concedido, la concesión será cancelada definitivamente.
