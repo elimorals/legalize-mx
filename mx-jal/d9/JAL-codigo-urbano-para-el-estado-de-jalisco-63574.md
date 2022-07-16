@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2021-10-30"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -839,13 +839,25 @@ LXII. Validar ante la Secretaría de Medio Ambiente y Desarrollo Territorial del
 
 LXIII. Establecer las normas aplicables del control de la edificación a que deberán sujetarse las intervenciones en inmuebles sujetos al patrimonio cultural urbano del municipio, para lo cual tomará en cuenta los inventarios estatales y Federales;
 
-> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
 
-LXIV. La creación de consejos municipales de vivienda; y
+LXIV. Promover con participación de los sectores público, social y privado, la oferta de vivienda de interés social y asequible en zonas consolidadas.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
 
-LXV. Las demás que le atribuyan este Código y disposiciones aplicables.
+LXV. Implementar las medidas a su alcance a fin de garantizar la simplificación de los trámites administrativos, respecto a la ejecución de acciones de vivienda.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2022)</small>
+
+LXVI. Propiciar con acciones y apoyos fiscales que alienten en su favor, al sector privado y social, que invierta en proyectos de vivienda de interés social y popular en zonas consolidadas.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2022)</small>
+
+LXVII. La creación de consejos municipales de vivienda; y
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+LXVIII. Las demás que le atribuyan este Código y disposiciones aplicables
 
 #### Sección Segunda. De Las Atribuciones del Presidente Municipal
 
@@ -6562,3 +6574,9 @@ P.O. 30 DE OCTUBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 24488/LXII/21 QUE MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 106 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 16 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28796/LXIII/22 QUE REFORMA LOS ARTÍCULOS 8 Y 16 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO Y ARTÍCULO 10 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
