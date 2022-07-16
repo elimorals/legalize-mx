@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-144155
 country: "mx"
 rank: "ley"
 publication_date: "2020-09-19"
-last_updated: "2020-09-19"
+last_updated: "2022-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144155&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
 
 Ley publicada en la Sección III al Número 5 del Periódico Oficial del Estado de Jalisco, el sábado 19 de septiembre de 2020.
 
@@ -59,9 +59,13 @@ La presente Ley tiene por objeto:
 
 I. Proteger la salud de la población de los efectos nocivos del tabaco;
 
-II. Proteger los derechos de los no fumadores a vivir y convivir en espacios 100% libres de humo de tabaco;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-III. Establecer las bases para la protección contra el humo de tabaco;
+II. Proteger los derechos de los no fumadores a vivir y convivir en espacios 100% libres de humo de tabaco y emisiones;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+III. Establecer las bases para la protección contra el humo de tabaco y emisiones;
 
 IV. Instituir medidas para reducir el consumo de tabaco y para que los menores de edad no se inicien en el mismo;
 
@@ -69,7 +73,9 @@ V. Fomentar la promoción, la educación para la salud, así como la difusión d
 
 VI. Promover la cultura de espacios 100% libres del humo del tabaco, con el objeto de proteger auténticamente a los no fumadores y fumadores, y persuadir a estos últimos a dejar de fumar;
 
-VII. Determinar atribuciones de las autoridades estatales y municipales para vigilar el cumplimiento de normas, leyes y reglamentos relacionados con el consumo del tabaco; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VII. Determinar atribuciones de las autoridades estatales y municipales para vigilar el cumplimiento de normas, leyes y reglamentos relacionados con el consumo del tabaco y el control de las emisiones; y
 
 VIII. Las demás que sean necesarias para el cumplimiento de sus objetivos.
 
@@ -91,9 +97,13 @@ IV. Espacio al aire libre para fumar: Es aquel que no tienen (sic) techo ni est�
 
 V. Denuncia ciudadana: Notificación hecha a la autoridad competente por cualquier persona respecto de actos o hechos que pudieran constituir infracciones a las disposiciones contenidas en esta ley;
 
-VI. Emisión de humo: Es la sustancia producida y liberada cuando un producto del tabaco esté encendido;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
 
-VII. Espacio 100% libre de humo del tabaco: Aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público en donde por razones de orden público e interés social la presente Ley prohíbe fumar, consumir o tener encendido cualquier producto de tabaco;
+VI. Emisiones: Son las sustancias producidas y liberadas cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de productos del tabaco para uso oral sin humo, se entiende como todas las sustancias liberadas durante el proceso de mascado o chupado y en el caso de productos del tabaco para uso nasal, son todas las sustancias liberadas durante el proceso de inhalación o aspiración;
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+VII. Espacio 100% libre de humo del tabaco y emisiones: Aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público en donde por razones de orden público e interés social la presente Ley prohíbe fumar, consumir o tener encendido cualquier producto de tabaco;
 
 VIII. Fumador activo: Persona que inhala y exhala, intencionalmente, el humo generado por la combustión del tabaco;
 
@@ -183,9 +193,11 @@ La Secretaría, a través del CECAJ, podrá realizar acciones de control y fomen
 
 De los espacios protegidos a la exposición contra el humo de tabaco.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 12°.
 
-Dentro del territorio del estado de Jalisco se considerarán como espacios 100% libres de humo de tabaco a las áreas físicas cerradas con acceso al público, los lugares de trabajo, las puertas de acceso a los interiores, los vehículos de transporte público y los sitios de concurrencia colectiva, por lo que se prohíbe fumar, consumir o mantener encendido cualquier producto del tabaco o cualquier dispositivo electrónico similar que contenga o no nicotina, lo anterior en los términos de la presente Ley y su Reglamento.
+Dentro del territorio del estado de Jalisco se considerarán como espacios 100% libres de humo de tabaco y emisiones a las áreas físicas cerradas con acceso al público, los lugares de trabajo, las puertas de acceso a los interiores, los vehículos de transporte público y los sitios de concurrencia colectiva, por lo que se prohíbe fumar, consumir o mantener encendido cualquier producto del tabaco o cualquier dispositivo electrónico similar que contenga o no nicotina, lo anterior en los términos de la presente Ley y su Reglamento.
 
 ###### Artículo 13°.
 
@@ -209,15 +221,21 @@ En los espacios 100% libres de humo de tabaco y en los espacios al aire libre pa
 
 De las obligaciones.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 17°.
 
-Tienen obligación los propietarios, poseedores, responsables, empleados, autoridades y usuarios en general de los espacios 100% libres de humo de tabaco y de los espacios al aire libre para fumar, de vigilar el cumplimiento de la presente ley.
+Tienen obligación los propietarios, poseedores, responsables, empleados, autoridades y usuarios en general de los espacios 100% libres de humo de tabaco, emisiones y de los espacios al aire libre para fumar, de vigilar el cumplimiento de la presente ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
 
 ###### Artículo 18°.
 
-Para asegurar el derecho a la protección de la salud de las personas, será obligación del propietario, poseedor, administrador, responsable o quien obtenga provecho de un espacio 100% libre de humo de tabaco, incluidos los mercantiles, lugares de trabajo y los de concurrencia colectiva, cuando una persona esté fumando o utilizando dispositivos electrónicos de vapor aromático con o sin nicotina, en alguno de estos espacios, en primera instancia, pedirle que deje de fumar y apague el producto de tabaco, de no hacer caso a la indicación, solicitarle se traslade al espacio al aire libre donde se permita fumar, de contar con él y, si continúa en su negativa, suspenderle el servicio y pedirle que se retire de las instalaciones; si opone resistencia, se deberá dar aviso a la fuerza pública a efecto de que ponga al infractor a disposición de la autoridad competente.
+Para asegurar el derecho a la protección de la salud de las personas, será obligación del propietario, poseedor, administrador, responsable o quien obtenga provecho de un espacio 100% libre de humo de tabaco y emisiones, incluidos los mercantiles, lugares de trabajo y los de concurrencia colectiva, cuando una persona esté fumando o utilizando dispositivos electrónicos de vapor aromático con o sin nicotina, en alguno de estos espacios, en primera instancia, pedirle que deje de fumar y apague el producto de tabaco, de no hacer caso a la indicación, solicitarle se traslade al espacio al aire libre donde se permita fumar, de contar con él y, si continúa en su negativa, suspenderle el servicio y pedirle que se retire de las instalaciones; si opone resistencia, se deberá dar aviso a la fuerza pública a efecto de que ponga al infractor a disposición de la autoridad competente.
 
-La responsabilidad de los propietarios, administradores o responsables, o quien obtenga provecho del uso de los espacios 100% libres de humo de tabaco a que se refiere el presente artículo terminará en el momento en que el propietario o titular del local o establecimiento dé aviso a la fuerza pública y le sea entregado por ésta el número de reporte respectivo.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2022)</small>
+
+La responsabilidad de los propietarios, administradores o responsables, o quien obtenga provecho del uso de los espacios 100% libres de humo de tabaco y emisiones a que se refiere el presente artículo terminará en el momento en que el propietario o titular del local o establecimiento dé aviso a la fuerza pública y le sea entregado por ésta el número de reporte respectivo.
 
 Los mecanismos y procedimientos que garanticen la eficacia en la aplicación de la medida referida en el párrafo anterior quedarán establecidos en el reglamento respectivo que al afecto se expida.
 
@@ -249,7 +267,9 @@ De la participación ciudadana.
 
 La Secretaría promoverá la participación de la sociedad civil en la prevención del tabaquismo y el control de los productos del tabaco en las siguientes acciones:
 
-I. Promoción de los espacios 100 % libres de humo de tabaco;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+
+I. Promoción de los espacios 100 % libres de humo de tabaco y emisiones;
 
 II. Promoción de la salud individual, familiar y comunitaria, incluyendo la prevención y el abandono del tabaquismo;
 
@@ -331,9 +351,11 @@ III. Permita que fumen en zonas prohibidas; o
 
 IV. No haga, en su caso, la denuncia correspondiente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2022)</small>
+
 ###### Artículo 33°.
 
-Se sancionará con multa equivalente de 500 a 1000 Unidades de Medida y Actualización, al titular, responsable, o poseedor de establecimientos mercantiles con espacios 100% libres de humo, cuando:
+Se sancionará con multa equivalente de 500 a 1000 Unidades de Medida y Actualización, al titular, responsable, o poseedor de establecimientos mercantiles con espacios 100% libres de humo, y emisiones cuando:
 
 I. No coloque la señalética correspondiente o se encuentre incompleta;
 
@@ -402,3 +424,13 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28800/LXIII/22 QUE REFORMA LOS ARTÍCULOS 2 FRACCIONES II, III Y VII, 4 FRACCIÓN VI Y VII, 12, 17, 18 PÁRRAFOS PRIMERO Y SEGUNDO, 23 FRACCIÓN I Y 33 PÁRRAFO PRIMERO DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO PARA EL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. En términos de lo dispuesto por los artículos 12 y 17 del presente decreto, los propietarios, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas, deberán ubicar las zonas exclusivas para fumar en espacios no interiores al aire libre en un plazo no mayor a 120 días naturales posteriores a la publicación del presente decreto en el periódico oficial "El Estado de Jalisco".
