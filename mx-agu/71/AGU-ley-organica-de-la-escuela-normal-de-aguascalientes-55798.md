@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-escuela-normal-de-aguascalientes-55798"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-06-04"
-last_updated: "2007-06-04"
+last_updated: "2022-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA ESCUELA NORMAL DE AGUASCALIENTES
 
-LEY ORGANICA DE LA ESCUELA NORMAL DE AGUASCALIENTES
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ESCUELA NORMAL DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 18 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY ORGÁNICA DE LA ESCUELA NORMAL DE AGUASCALIENTES
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022 (ABROGADA).
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 4 de junio de 2007.
 
@@ -376,3 +378,59 @@ Luis Armando Reynoso Femat,
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 156.- SE EXPIDE LA LEY ORGÁNICA DE LA ESCUELA NORMAL DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente ordenamiento entrará en vigencia al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Escuela Normal de Aguascalientes, publicada en la Primera Sección del Periódico Oficial del Estado Número 23, Tomo LXX, de fecha 4 de junio de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Seguirá vigente el Decreto Número 32 publicado en el Periódico Oficial del Estado de Aguascalientes Número 32, Tomo XLI, de fecha 6 de agosto de 1978, por medio del cual el H. Congreso del Estado declara como “ILUSTRE Y BENEMÉRITA” a la Escuela Normal de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Directivo de la Escuela Normal de Aguascalientes, deberá instalarse en los términos del presente Decreto, dentro de los treinta días siguientes a su entrada en vigor.
+
+###### ARTÍCULO SEXTO.
+
+El Consejo Directivo expedirá el Reglamento Interior de la Escuela Normal de Aguascalientes, dentro del plazo de 90 días contados a partir de su instalación.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto se expidan las disposiciones reglamentarias del presente Decreto serán aplicables las disposiciones que no se opongan a la Ley y al Reglamento vigente.
+
+###### ARTÍCULO OCTAVO.
+
+Los recursos humanos, materiales, financieros y presupuéstales con que cuenta la Escuela Normal de Aguascalientes seguirán formando parte de la misma y no se verán afectados con la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Con la entrada en vigor del presente Decreto, la Escuela Normal de Aguascalientes seguirá respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables.
+
+Los derechos laborales de los trabajadores serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, y demás normatividad aplicable.
+
+###### ARTÍCULO DÉCIMO.
+
+El Consejo Directivo de la Escuela Normal de Aguascalientes deberá realizar las adecuaciones necesarias a la demás normatividad interna aplicable a este Organismo Descentralizado, con motivo de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, el Consejo Interior de la Entidad Paraestatal que nos ocupa deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de su publicación.
+
+###### ARTÍCULO DUODÉCIMO.
+
+La persona titular de la Dirección General de la Escuela Normal de Aguascalientes deberá solicitar la inscripción del presente Decreto en el Registro Público de la Propiedad y del Comercio en el libro correspondiente a las Entidades Paraestatales, en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
