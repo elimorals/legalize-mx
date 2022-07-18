@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2021-11-05"
+last_updated: "2022-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -927,7 +927,23 @@ V.- Participar en las instancias de planeación democrática municipal, en la fo
 
 VI.- Los demás que le señalen esta Ley y disposiciones aplicables.
 
-#### SECCIÓN I. DE LA ELECCIÓN E INTEGRACIÓN DE LOS AYUNTAMIENTOS
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE JULIO DE 2022)</small>
+
+#### SECCIÓN I. DEL ACCESO A LA CULTURA
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2022)</small>
+
+ARTÍCULO 43 BIS.- Los Ayuntamientos fomentarán e impulsarán la investigación y difusión de las manifestaciones culturales en el Municipio.
+
+Organizarán actos cívicos en las fechas históricas tradicionales y desarrollar (sic) eventos o actividades que tiendan a fomentar la educación cívica y la superación cultural de sus habitantes.
+
+Promoverán la protección y desarrollo de sus manifestaciones culturales, artes, expresiones musicales, fiestas tradicionales y literatura oral y escrita.
+
+Lo anterior, de acuerdo con sus atribuciones y capacidad presupuestal.
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2022)</small>
+
+ARTÍCULO 43 TER.- Los Ayuntamientos promoverán que en las bibliotecas públicas municipales se brinden servicios culturales mediante la impartición de exposiciones, conferencias, talleres o cursos de geografía, historia, literatura, poesía, música, filosofía, idiomas, fotografía, arte en sus distintas manifestaciones, así como aquellos que dispongan las Autoridades Municipales, los cuales se dirijan a promover el desarrollo cultural.
 
 ### CAPÍTULO IV. DE LAS COMUNIDADES INDÍGENAS
 
@@ -943,9 +959,7 @@ Los Planes de Desarrollo Municipal, deberán incluir programas de acción tendie
 
 ### CAPÍTULO V. DEL GOBIERNO DE LOS MUNICIPIOS
 
-#### SECCIÓN II. DE LA INSTALACIÓN DEL AYUNTAMIENTO
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
+#### SECCIÓN I. DE LA ELECCIÓN E INTEGRACIÓN DE LOS AYUNTAMIENTOS
 
 ###### ARTÍCULO 46.
 
@@ -1005,7 +1019,9 @@ VII.- Las personas que durante el periodo inmediato anterior, por elección popu
 
 VIII.- Los que sean proveedores o prestadores de servicios directos o indirectos del Municipio de que se trate, a menos que dejen de serlo noventa días antes de la jornada electoral.
 
-#### SECCIÓN III. DE LA ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+#### SECCIÓN II. DE LA INSTALACIÓN DEL AYUNTAMIENTO
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 50.
 
@@ -1185,9 +1201,7 @@ El Concejo Municipal tendrá las mismas facultades que el Ayuntamiento. Los miem
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE OCTUBRE DE 2020)</small>
 
-#### SECCIÓN IV. DE LAS SESIONES DEL AYUNTAMIENTO
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
+#### SECCIÓN III. DE LA ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 65.
 
@@ -1209,9 +1223,9 @@ El Concejo Municipal tendrá las mismas facultades que el Ayuntamiento. Los miem
 
 (DEROGADO, P.O. 2 DE OCTUBRE DE 2020)
 
-#### SECCIÓN I. DEL SISTEMA Y DEL PROCESO DE PLANEACIÓN MUNICIPAL
+#### SECCIÓN IV. DE LAS SESIONES DEL AYUNTAMIENTO
 
-> <small>(REFORMADO [N. DE E. Y REUBICADO, ANTES ARTÍCULO 102], P.O. 5 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2020)</small>
 
 ###### ARTÍCULO 70.
 
@@ -1967,9 +1981,9 @@ XVIII.- Las demás que les confieran las leyes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-#### SECCIÓN II. DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
+#### SECCIÓN I. DEL SISTEMA Y DEL PROCESO DE PLANEACIÓN MUNICIPAL
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. Y REUBICADO, ANTES ARTÍCULO 102], P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 101.
 
@@ -2153,7 +2167,9 @@ Para garantizar la libre determinación y autonomía de los pueblos y comunidade
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
-#### SECCIÓN I. DE LA ORGANIZACIÓN
+#### SECCIÓN II. DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO MUNICIPAL
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 114.
 
@@ -2217,7 +2233,7 @@ IX. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 ### CAPÍTULO XII. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-#### SECCIÓN II. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
+#### SECCIÓN I. DE LA ORGANIZACIÓN
 
 ###### ARTÍCULO 118.
 
@@ -2239,7 +2255,7 @@ Las dependencias y entidades de la Administración Pública Municipal ejercerán
 
 Para ser titular de las dependencias o entidades de la Administración Pública Municipal, se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos, preferentemente habitante del Municipio, de reconocida honorabilidad y aptitud para desempeñar el cargo, y en su caso, reunir los requisitos establecidos para el Servicio Civil de Carrera.
 
-#### SECCIÓN III. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DESCENTRALIZADA
+#### SECCIÓN II. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
 ###### ARTÍCULO 122.
 
@@ -2248,6 +2264,8 @@ Para el estudio y despacho de los diversos ramos de la Administración Pública 
 ###### ARTÍCULO 123.
 
 La Presidencia Municipal, la Secretaría del Ayuntamiento, la Tesorería y la Contraloría Municipal, así como las demás dependencias del Ayuntamiento, formarán parte de la Administración Pública Municipal Centralizada.
+
+#### SECCIÓN III. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DESCENTRALIZADA
 
 ###### ARTÍCULO 124.
 
@@ -4442,5 +4460,13 @@ P.O. 5 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO G) DE LA FRACCIÓN XLV DEL ARTÍCULO 78, LA FRACCIÓN VII DEL ARTÍCULO 80 Y LA FRACCIÓN XLI DEL ARTÍCULO 91, TODOS DE LA LEY ORGÁNICA MUNICIPAL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA SECCIÓN I DENOMINADA “DEL ACCESO A LA CULTURA”, CON LOS ARTÍCULOS 43 BIS Y 43 TER, AL CAPÍTULO III DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
