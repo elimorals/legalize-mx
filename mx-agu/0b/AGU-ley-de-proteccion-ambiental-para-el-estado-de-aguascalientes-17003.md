@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2021-11-22"
+last_updated: "2022-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -2801,6 +2801,10 @@ Queda prohibida la circulación de automotores que emitan gases, humos o polvos,
 
 Los propietarios o poseedores de vehículos automotores en circulación, en los términos del Reglamento correspondiente, deberán obtener el certificado de baja emisión en el que se señale que se cumple con los límites máximos permisibles establecidos en las normas oficiales mexicanas.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2022)</small>
+
+Los plazos, costos, exenciones y en general toda disposición que regule la verificación vehicular y la emisión del certificado de baja emisión deberá respetar el derecho humano de igualdad y legalidad sin distinción alguna con independencia de que los vehículos automotores objeto de la misma, se encuentren matriculados en el Estado de Aguascalientes o en diversa Entidad Federativa.
+
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 146.
@@ -2871,19 +2875,41 @@ II. Autorización de la autoridad federal competente para el uso, transmisión y
 
 III. Croquis del predio indicando el lugar preciso de la instalación de la fuente fija o estación base, la cual no podrá estar a menos de 300 metros de instalaciones de carácter educativo o escuelas de ningún tipo, de carácter asistencial, emergencia, guarderías, hospitalarios o de salud.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2022)</small>
+
+ARTÍCULO 149 BIS.- Los decibeles que se generen por la contaminación por ruido, se medirán de acuerdo a lo establecido en la Norma Oficial Mexicana NOM-081-ECOL-1994, conforme a los límites del nivel sonoro en Ponderación A, emitido por fuentes fijas, desde el exterior de cualquiera de los inmuebles vecinos a aquel en que se genere el ruido, o bien en el área pública; atendiendo las indicaciones para ello especificadas en las normas, los respectivos reglamentos y atendiendo los lineamientos técnicos de los equipos.
+
+Las autoridades estatales y municipales responsables en la materia deberán contar con un sistema de atención, disponible las 24 horas, para recibir y atender reportes de contaminación acústica, debiendo acudir a verificar los decibeles y levantar constancia para en caso de que el nivel sonoro rebase la norma.
+
+En los casos de competencia municipal, cuando la infracción se cometa en casa habitación o propiedad privada sin giro comercial, la autoridad municipal deberá acudir al domicilio y entregará apercibimiento que de no cesar el ruido en un plazo de 30 minutos podrá imponerse arresto administrativo hasta por 36 horas o citarlo para que acuda en día y hora específica con un juez calificador para que determine la naturaleza y monto de la sanción correspondiente.
+
+Queda prohibida la detonación de artículos de pirotecnia que generen ruido excesivo fuera del horario de las ocho a las veintiuna horas del día, salvo autorización previa de la autoridad competente.
+
+Las violaciones al presente artículo constituyen infracción y serán sancionadas por los gobiernos municipales en asuntos de sus respectivas competencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 150.
 
-Los Municipios, en el ámbito de sus competencias, restringirán la emisión de ruidos, vibraciones, energía térmica y lumínica, olores y radiaciones electromagnéticas, temporal o permanente en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales, establecimientos dedicados al tratamiento y recuperación de la salud, y sitios análogos, cuando se rebasen los límites máximos de emisión establecidos en las normas oficiales mexicanas.
+Los Municipios, en el ámbito de sus competencias, restringirán la emisión de ruidos, vibraciones, energía térmica y lumínica, olores y radiaciones electromagnéticas, temporal o permanente de acuerdo a la zonificación que para tal efecto expidan considerando la prohibición en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales, establecimientos dedicados al tratamiento y recuperación de la salud, y sitios análogos, cuando se rebasen los límites máximos de emisión establecidos en las normas oficiales mexicanas.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 Para la protección y control de la contaminación producida por las radiaciones electromagnéticas, los municipios además deberán:
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 I. Integrar y mantener actualizados inventarios de las fuentes fijas que puedan ocasionar algún tipo de contaminación electromagnética como antenas de radiocomunicación, antenas de transmisión y retransmisión de señales de telefonía celular, antenas de transmisión o retransmisión de señales de radio, antenas de transmisión o retransmisión de señales de televisión, así como todo dispositivo emisor de radiación electromagnética. El inventario contendrá información descriptiva y técnica sobre los dispositivos clasificándolos por tipo de fuente, potencia radiada efectiva y tipo de radiación emitida;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 II. Otorgar autorización de los proyectos de construcción, instalación o montaje de las fuentes fijas que le sean presentadas, las cuales deberán ajustarse a la potencia radiada máxima para que no exceda los límites establecidos en las normas oficiales mexicanas;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 III. Realizar inspecciones periódicas para verificar que las fuentes fijas autorizadas, no excedan los límites máximos de potencia radiada establecidos en las normas oficiales mexicanas.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 Asimismo, los Municipios en el ámbito de su competencia restringirán en sus bandos, códigos y reglamentos, las edificaciones y obras, así como las actividades o anuncios de carácter publicitario y promocional, a fin de crear una imagen agradable del paisaje rural y urbano, y evitar la contaminación visual del mismo.
 
@@ -2895,7 +2921,13 @@ Los responsables de las fuentes de emisión deberán:
 
 I. Aplicar la tecnología disponible, realizar las acciones necesarias para reducir y controlar emisiones para evitar y mitigar los efectos sobre el ambiente y la salud;
 
-II. Instalar equipos o sistemas de control para mantener sus emisiones por debajo de los niveles máximos permisibles que establezcan las normas oficiales mexicanas y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
+
+II. Instalar equipos o sistemas de control para mantener sus emisiones por debajo de los niveles máximos permisibles que establezcan las normas oficiales mexicanas y demás disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2022)</small>
+
+III. En el caso de los responsables de fuentes fijas de contaminación acústica deberán contar con un sistema de monitoreo y medición de decibeles que muestre a los usuarios los niveles de emisión sonora a que están expuestos.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -4032,3 +4064,17 @@ En un plazo que no excederá de 90 días naturales, contados a partir del inicio
 ###### ARTICULO CUARTO.
 
 En un plazo que no exceda de treinta días naturales a partir de la entrada en vigor del presente Decreto, se harán los ajustes necesarios al "Programa de sustitución de Plástico No Biodegradable por materia Biodegradable".
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 153.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 145 DE LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El Gobierno del Estado deberá expedir, modificar y eliminar toda disposición contenida en el Reglamento respectivo contraria a la presente reforma en un plazo no mayor a 30 días a la entrada en vigor del presente Decreto.
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 158.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 150 Y LA FRACCIÓN II DEL ARTÍCULO 151, ASÍ MISMO SE ADICIONAN EL ARTÍCULO 149 BIS Y LA FRACCIÓN III DEL ARTÍCULO 151 A LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO. - La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
