@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-derechos-y-justicia-laboral-para-los-trabajadores-al-158
 country: "mx"
 rank: "ley"
 publication_date: "2022-05-28"
-last_updated: "2022-05-28"
+last_updated: "2022-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE DERECHOS Y JUSTICIA LABORAL PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE JULIO DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE DERECHOS Y JUSTICIA LABORAL PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JULIO DE 2022.]</small>
 
 Ley publicada en la Sección Segunda del Número 098 del Periódico Oficial del Estado de Nayarit, el sábado 28 de mayo de 2022.
 
@@ -571,7 +571,9 @@ I. Cuando el trabajador manifieste su oposición para realizar los trabajos extr
 
 II. Cuando cambien las condiciones laborales que originaron el pago de la compensación.
 
-Cuando se esté en el caso de la fracción I del presente artículo y el superior jerárquico del trabajador de base, requiera, por las necesidades específicas del servicio, la realización de la actividad extraordinaria a que se refiere el artículo 61 de esta Ley, podrá solicitar a la unidad administrativa correspondiente, la sustitución y cambio de adscripción del trabajador, sin que ello afecte su correspondiente situación laboral.
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
+Cuando se esté en el caso de la fracción I del presente artículo y el superior jerárquico del trabajador de base, requiera, por las necesidades específicas del servicio, la realización de la actividad extraordinaria a que se refiere el artículo 59 de esta Ley, podrá solicitar a la unidad administrativa correspondiente, la sustitución y cambio de adscripción del trabajador, sin que ello afecte su correspondiente situación laboral.
 
 ###### Artículo 61.
 
@@ -759,7 +761,9 @@ XV. Por incumplimiento reiterado de alguna o algunas de las Condiciones Generale
 
 XVI. Por sentencia ejecutoriada que condene a pena de prisión por un delito intencional, por más de cinco años. Si la sentencia condenatoria fuera por éste o por menor tiempo, una vez que el trabajador obtenga su libertad, o conmutara la sentencia, deberá reincorporarse a su adscripción dentro de los cinco días siguientes, so pena de considerar su omisión como abandono de empleo;
 
-XVII. Ejercer actividades profesionales ajenas a sus funciones en horario de trabajo, sin autorización expresa y por escrito de su superior jerárquico, y
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
+XVII. Ejercer actividades profesionales ajenas a sus funciones en horario de trabajo, sin autorización expresa y por escrito de su superior jerárquico, e
 
 XVIII. Incurrir, en horas de trabajo, en actos de acoso laboral, o acoso u hostigamiento sexual, debiéndose entender por estos como:
 
@@ -795,7 +799,9 @@ Pago de prestaciones. En cualquier estado del procedimiento el demandado podrá 
 
 En el primer supuesto se dará por terminado el juicio liberando al Ente Público de la acción principal y sus accesorias.
 
-En el segundo supuesto de que la cantidad exhibida la cantidad por indemnizaciones y sus prestaciones accesorias la Sala correspondiente aprobará la consignación de pago y pondrá a disposición del trabajador la cantidad depositada a su favor, apercibiéndolo que en el supuesto de no aceptar la cantidad base de su reclamación, los salarios vencidos dejarán de generarse; en caso contrario, se ordenará el archivo del expediente como asunto total y definitivamente concluido.
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
+En el segundo supuesto, de que la cantidad exhibida por indemnizaciones y sus prestaciones accesorias, la Sala correspondiente aprobará la consignación de pago y pondrá a disposición del trabajador la cantidad depositada a su favor, apercibiéndolo que en el supuesto de no aceptar la cantidad base de su reclamación, los salarios vencidos dejarán de generarse; en caso contrario, se ordenará el archivo del expediente como asunto total y definitivamente concluido.
 
 ###### Artículo 77.
 
@@ -815,9 +821,11 @@ II. Que se haya suprimido la plaza y se compruebe ante la Sala Laboral correspon
 
 III. Los demás previstos y contemplados en las leyes de la materia.
 
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
 ###### Artículo 80.
 
-Indemnización. Cuando se actualice alguno de los supuestos del artículo precedente el Ente Público deberá pagar al trabajador una indemnización equivalente a tres meses de salario base más veinte días por cada año de servicios en términos de esta ley, así como las prestaciones a que tenga derecho y los salarios vencidos desde la fecha del despido hasta por un periodo máximo de doce meses, independientemente del tiempo que dure el proceso, debiendo exhibir la totalidad de la cantidad liquida de referencia, en moneda nacional o mediante cheque certificado al momento de manifestar la negativa de reinstalar al actor.
+Indemnización. Cuando se actualice alguno de los supuestos del artículo precedente el Ente Público deberá pagar al trabajador una indemnización equivalente a tres meses de salario base más veinte días por cada año de servicios en términos de esta ley, así como las prestaciones a que tenga derecho y los salarios vencidos desde la fecha del despido hasta por un periodo máximo de doce meses, independientemente del tiempo que dure el proceso, debiendo exhibir la totalidad de la cantidad líquida de referencia, en moneda nacional o mediante cheque certificado al momento de manifestar la negativa de reinstalar al actor.
 
 ###### Artículo 81.
 
@@ -1005,9 +1013,11 @@ Para los efectos de esta fracción, dichos titulares deberán formar la comisió
 
 II. Para cubrir las bases que correspondan a los niveles dos o superiores, previstas en el reglamento de escalafón, solo podrán participar los trabajadores de base de conformidad con las correspondientes disposiciones escalafonarias.
 
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
 ###### Artículo 104.
 
-Verificación de los requisitos. En los concursos, las comisiones verificarán las pruebas a que se sometan los concursantes y a calificar los factores establecidos en la convocatoria, tomando en consideración los documentos, constancias o hechos que los comprueben, de acuerdo con la valuación fijada en los reglamentos.
+Verificación de los requisitos. En los concursos, las comisiones verificarán las pruebas a que se sometan los concursantes y calificarán los factores establecidos en la convocatoria, tomando en consideración los documentos, constancias o hechos que los comprueben, de acuerdo con la valuación fijada en los reglamentos.
 
 ###### Artículo 105.
 
@@ -1023,7 +1033,9 @@ Para cubrir el primer nivel, el titular del Ente Público correspondiente nombra
 
 Escalafón derivado de plazas transitorias. Las plazas transitorias mayores de seis meses serán ocupadas por riguroso escalafón a partir de los niveles dos y subsecuentes.
 
-Para cubrir el primer nivel se aplicará lo dispuesto por el artículo 104 de la presente ley.
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
+Para cubrir el primer nivel se aplicará lo dispuesto por el artículo 103 de la presente ley.
 
 En ambos casos, los trabajadores serán nombrados con el carácter de eventuales, de tal modo que si el titular de la base reingresara al servicio, automáticamente se correrá en forma inversa el escalafón y el trabajador eventual de la última categoría correspondiente dejará de prestar sus servicios sin responsabilidad para el Ente Público.
 
@@ -1981,7 +1993,9 @@ Cuando el Director General funja como especialista deberá someterse a las dispo
 
 Causas de destitución de especialistas. Son causas de destitución de los especialistas:
 
-I. Haber cometido alguna de las faltas establecidas en el artículo 187 de esta ley;
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
+I. Haber incumplido alguna de las obligaciones establecidas en el artículo 187 de esta ley;
 
 II. Dejar de asistir por más de tres días consecutivos a sus labores sin causa justificada; ausentarse con frecuencia durante las horas de trabajo, e incumplir reiteradamente las obligaciones inherentes al cargo, y
 
@@ -2635,9 +2649,11 @@ VII. Hará saber a las partes las consecuencias de las decisiones que se tomen d
 
 Partes. Son partes en el proceso laboral burocrático, la persona trabajadora y el Ente Público.
 
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
 ###### Artículo 263.
 
-Representación y personería. Los trabajadores podrán comparecer por sí o por representantes acreditados mediante simple carta poder. Los Entes Públicos deberán ser representados en términos de su legislación orgánica o disposición reglamentaria, sin perjuicio de hacerse representar a través de apoderados o de designar delegados dentro del procedimiento.
+Representación y personería. Los trabajadores podrán comparecer por sí o por representantes acreditados mediante carta poder firmada por dos testigos. Los Entes Públicos deberán ser representados en términos de su legislación orgánica o disposición reglamentaria, sin perjuicio de hacerse representar a través de apoderados o de designar delegados dentro del procedimiento.
 
 ###### Artículo 264.
 
@@ -2687,15 +2703,19 @@ De no contestar la demanda se le tendrá por formulada en sentido afirmativo y p
 
 Si el demandado no señala domicilio para recibir notificaciones en el lugar de residencia del Instituto las notificaciones que deban hacérsele se practicarán por estrados.
 
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
 ###### Artículo 269.
 
-Inasistencia de las partes a la audiencia. Si cualquiera de las partes no comparece a la audiencia de demanda y contestación y de admisión de pruebas se le tendrá por ratificado su escrito inicial y por ofrecidos los medios de convicción que en el mismo se hubieren aportado, así como por prelucido su derecho a objetar las pruebas de la contraria.
+Inasistencia de las partes a la audiencia. Si cualquiera de las partes no comparece a la audiencia de demanda y contestación y de admisión de pruebas se le tendrá por ratificado su escrito inicial y por ofrecidos los medios de convicción que en el mismo se hubieren aportado, así como por precluido su derecho a objetar las pruebas de la contraria.
 
 ###### Artículo 270.
 
 Contenido de la contestación. En su contestación, el demandado deberá señalar domicilio en el lugar de residencia del Instituto para recibir notificaciones y en su caso persona o personas autorizadas para ello. Asimismo, opondrá sus excepciones y defensas, debiéndose referir a todos los hechos contenidos en la demanda, afirmándolos o negándolos, o bien expresando los que no le sean propios; agregando, si así lo estimare conveniente, las explicaciones necesarias.
 
-El silencio y las evasivas harán que se tengan por admitidos aquellos hechos sobre los que no se suscite controversia y no podrá admitirse prueba en contrario. La negación pura y simple del derecho importa la confesión de los hechos. La confesión de los hechos no necesariamente implica la aceptación del derecho.
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
+El silencio y las evasivas harán que se tengan por admitidos aquellos hechos sobre los que no se suscite controversia y no podrá admitirse prueba en contrario. La negación pura y simple del derecho, implica la confesión de los hechos. La confesión de estos no necesariamente implica la aceptación del derecho.
 
 Se deberán ofrecer en la misma contestación las pruebas en los términos de la fracción V del artículo 265 de esta ley.
 
@@ -3413,7 +3433,9 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 SEGUNDO. Se abroga la Ley Laboral Burocrática del Estado de Nayarit, publicada el 31 de mayo de 2019 y demás disposiciones legales y reglamentarias que se opongan a la presente ley.
 
-TERCERO. Los recursos materiales, humanos y financieros, y en general, el patrimonio con que actualmente cuenta el Instituto creado al amparo de la ley que se abroga conforme al transitorio segundo, pasarán de manera automática a formar para (sic) del patrimonio del Instituto creado conforme a esta ley.
+> <small>(F. DE E., P.O. 18 DE JULIO DE 2022)</small>
+
+TERCERO. Los recursos materiales, humanos y financieros, y en general, el patrimonio con que actualmente cuenta el Instituto creado al amparo de la ley que se abroga conforme al transitorio segundo, pasarán de manera automática a formar parte del patrimonio del Instituto creado conforme a esta ley.
 
 Los órganos, unidades y demás áreas administrativas que actualmente se encuentren en funciones y que modifiquen su configuración orgánica interna con la entrada en vigor de la presente ley, seguirán desarrollando sus funciones y atribuciones hasta en tanto se emita el Reglamento Interior.
 
