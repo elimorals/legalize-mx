@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2022-05-16"
+last_updated: "2022-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1029,13 +1029,21 @@ d) Traición; o
 
 e) Brutal ferocidad;
 
-II. La víctima sea menor de 15 años de edad; o
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
 
-III. La víctima se dedique al ejercicio de las labores periodísticas, y el resultado se provoque con motivo del ejercicio de su profesión;
+II. La víctima sea menor de 15 años de edad;
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
 
-En los casos a que se refieren las Fracciones I a la III, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.
+III. La víctima se dedique al ejercicio de las labores periodísticas, y el resultado se provoque con motivo del ejercicio de su profesión; o
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2022)</small>
+
+IV. El hecho se haya cometido aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello.
+
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
+
+En los casos a que se refieren las Fracciones I a IV, se aplicará al responsable de 20 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.
 
 ###### ARTÍCULO 98.
 
@@ -1047,9 +1055,11 @@ I. En vindicación próxima de una ofensa grave causada al responsable, a su có
 
 II. Por móviles de piedad, mediante súplicas notorias y reiteradas de la víctima, ante la inutilidad de todo auxilio para salvar su vida.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 99.
 
-Homicidio Doloso agravado. Cuando el Homicidio Doloso se cometa por motivo de tortura, violación, robo, después de concluida una rebelión, en el interior de casa habitación o sus dependencias a la que el responsable haya penetrado de manera furtiva, con engaño, con violencia o sin permiso de la persona autorizada para otorgarlo, o cuando la víctima presente signos de violencia sexual previos o contemporáneos a la realización del homicidio, se aplicarán al responsable de 20 a 40 años de prisión y de 50 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, atendiendo en este caso, además, las reglas del concurso.
+Homicidio Doloso agravado. Cuando el Homicidio Doloso se cometa por motivo de tortura, violación, robo, después de concluida una rebelión, en el interior de casa habitación o sus dependencias a la que el responsable haya penetrado de manera furtiva, con engaño, con violencia o sin permiso de la persona autorizada para otorgarlo, cuando la víctima presente signos de violencia sexual previos o contemporáneos a la realización del homicidio, o el hecho se haya cometido aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello, se aplicarán al responsable de 20 a 40 años de prisión y de 50 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, atendiendo en este caso, además, las reglas del concurso.
 
 ###### ARTÍCULO 100.
 
@@ -1387,13 +1397,17 @@ I.- En una mitad en sus mínimos y sus máximos, tratándose de violación, viol
 
 a) Los hechos descritos sean cometidos a nivel de coautoría;
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
 
-b) Los hechos descritos sean cometidos por servidores públicos con motivo del ejercicio de sus funciones; o
+b) Los hechos descritos sean cometidos por servidores públicos con motivo del ejercicio de sus funciones;
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
 
-c) Los hechos descritos sean cometidos por ascendiente contra su descendiente, el hermano con su colateral, el tutor con su pupilo o el padrastro o amasio de la madre con el hijastro, el maestro con el alumno o el guía religioso con su asesorado;
+c) Los hechos descritos sean cometidos por ascendiente contra su descendiente, el hermano con su colateral, el tutor con su pupilo o el padrastro o amasio de la madre con el hijastro, el maestro con el alumno o el guía religioso con su asesorado; o
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2022)</small>
+
+d) Los hechos descritos sean cometidos aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello.
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
 
@@ -1615,17 +1629,23 @@ III. Comercialice o trafique de cualquier manera con uno o más vehículos robad
 
 IV. A QUIEN ADQUIERA, COMERCIALICE O ESTÉ EN POSESIÓN DE UNO O MÁS DISPOSITIVOS ELECTRÓNICOS CON CAPACIDAD DE CONECTARSE A INTERNET DE MANERA INALÁMBRICA POR MEDIO DE CUALQUIER TIPO DE RED, QUE TENGA DENUNCIA DE ROBO ANTE LA AUTORIDAD COMPETENTE; O
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
 
-V. A quien adquiera, comercialice o tenga la posesión de uno o más bienes muebles que sean producto de robo, según se haya acreditado denuncia ante la autoridad competente.
+V. Adquiera, comercialice o tenga la posesión de uno o más bienes muebles que sean producto de robo a sabiendas de ello, según se haya acreditado con denuncia ante la autoridad competente; o
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2022)</small>
+
+VI. Adquiera, comercialice o tenga la posesión sin derecho de una o más tapas de registro o rejillas de alcantarillado propiedad del Estado, de algún Municipio o del titular de la concesión del servicio público de que se trate, a sabiendas de que son producto de robo.
 
 Al responsable de Robo Equiparado se le aplicarán de 2 a 4 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando se cometa en el supuesto de la Fracción I.
 
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VI, P.O. 18 DE JULIO DE 2022.]</small>
+
 Se aplicarán de 4 a 6 años de prisión y de 200 a 400 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando se cometa en cualquiera de los supuestos de las Fracciones II y III.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
 
-Se aplicarán de 2 a 4 años de prisión y de 100 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la unidad de medida y actualización; y de 6 meses a 2 años y de 50 a 150 días de multa cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la unidad de medida y actualización, cuando se cometa en cualquiera de los supuestos previstos en la (sic) Fracciones IV y V.
+Se aplicarán de 2 a 4 años de prisión y de 100 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la unidad de medida y actualización; y de 6 meses a 2 años y de 50 a 150 días de multa cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la unidad de medida y actualización, cuando se cometa en cualquiera de los supuestos previstos en las Fracciones IV, V y VI.
 
 ###### ARTÍCULO 142.
 
@@ -1641,7 +1661,9 @@ III. Se cometa en lugar cerrado o en edificio, vivienda, aposento o cuarto que e
 
 IV. Se cometa aprovechando la falta de vigilancia, el desorden o confusión que se produzcan por un incendio, inundación o accidentes en el tránsito de vehículos o aeronaves, u otros siniestros;
 
-V. El objeto material del apoderamiento sean tubos, conexiones, tapas de registro o cualesquiera otros implementos de un servicio público u otros objetos que estén bajo la salvaguarda pública;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
+
+V. El objeto material del apoderamiento sean tubos, conexiones, tapas de registro, rejillas de alcantarillado o cualesquiera otros implementos de un servicio público u otros objetos que estén bajo la salvaguarda pública;
 
 VI. Se lleve a cabo con destrucción o deterioro de bienes muebles o inmuebles;
 
@@ -2849,15 +2871,23 @@ Al responsable de Atentados al Equilibrio Ecológico Doloso previsto en la Fracc
 
 ### CAPÍTULO XIX. Tipos Penales Protectores de la Dignidad de las Personas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 192.
 
-Discriminación. La Discriminación consiste en:
+Discriminación. Comete el delito de discriminación quien por razón de raza, origen étnico, nacionalidad, idioma o lengua, sexo, género, origen o situación familiar, edad, discapacidad, condición social, condiciones de salud, embarazo, religión, opiniones, preferencias sexuales, estado civil, antecedentes penales, apariencia física, trabajo o profesión, o de cualquier otro motivo que atente contra la dignidad humana, anule o menoscabe los derechos humanos y libertades de las personas mediante la realización de una de las siguientes conductas:
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
 
-I. Provocar o incitar al odio o a la violencia, o negar o restringir derechos laborales, por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, carácter físico, discapacidad o estado de salud; o
+I. Provocar o incitar al odio o a la violencia, negar o restringir derechos laborales;
 
-II. Vejar o excluir a alguna persona o grupo de personas cuando dichas conductas tengan por resultado un daño material o moral;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
+
+II. Vejar o excluir a alguna persona o grupo de personas cuando dichas conductas tengan por resultado un daño material o moral; y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2022)</small>
+
+III. Negar o restringir a una persona un servicio una prestación a la que tenga derecho.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
@@ -3586,3 +3616,31 @@ P.O. 16 DE MAYO DE 2022.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 155.- "SE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y II, Y SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 192 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 160.- SE REFORMAN LAS FRACCIONES II Y III DEL PÁRRAFO SEXTO Y EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 97-A; EL ARTÍCULO 99; LOS INCISOS B) Y C) DE LA FRACCIÓN I DEL ARTÍCULO 124; Y SE ADICIONA UNA FRACCIÓN IV AL PÁRRAFO SEXTO DEL ARTÍCULO 97-A Y UN INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 124 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los hechos que pudieran encuadrar en las modificaciones aprobadas, se enjuiciarán y sentenciarán conforme a las leyes que les eran aplicables al momento de su comisión, sin que les resulten aplicables las disposiciones contenidas en el presente Decreto.
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 161.- SE REFORMA LA FRACCIÓN V Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 141, AL CUAL TAMBIÉN SE LE ADICIONA UNA FRACCIÓN VI; Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 142, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de supublicación (sic) en el Periódico Oficial del Estado de Aguascalientes.
