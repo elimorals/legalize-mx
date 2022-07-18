@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2022-06-13"
+last_updated: "2022-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,211 +21,81 @@ state: "AGU"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY DE GASTO PUBLICO
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
-Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
+TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-AURELIO L. GONZALEZ, Gobernador Constitucional del Estado libre y soberano de Aguascalientes, a sus habitantes, sabed:
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-Que por el Congreso del Estado se me ha comunicado lo siguiente:
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-El Congreso Constituyente del Estado libre y soberano de Aguascalientes, en uso de sus facultades, previos los requisitos señalados en el artículo 1° del decreto de fecha 8 de mayo del año en curso, reforma en los siguientes términos la Constitución Política del Estado, expedida el 18 de octubre de 1868.
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+D E C R E T O No. 611
 
-### CAPITULO PRIMERO
+LEY DE GASTO PUBLICO
 
-Declaraciones.
+### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2006)</small>
 
-###### Artículo 1o.
+###### ARTICULO 1º.
 
-El Estado de Aguascalientes es parte integrante de los Estados Unidos Mexicanos; en consecuencia, acatará las disposiciones del Pacto Federal, siendo autónomo en su régimen interno.
+El gasto público estatal es un instrumento jurídico de la administración pública que contiene la aplicación de los recursos públicos del Estado para el cumplimiento de las metas y objetivos del gobierno en apego a las disposiciones constitucionales y legales aplicables; el que se compone de las siguientes fases: planeación, programación, presupuestación, ejecución, control, evaluación e información y transparencia; mismas que se norman y se regulan por las disposiciones previstas en la presente ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2022)</small>
+###### ARTICULO 2º.
 
-###### Artículo 2o.
+La presente ley será aplicada en el ámbito de su competencia, por la Secretaría de Finanzas y por los órganos que determinen las leyes orgánicas de los Poderes Legislativo y Judicial del Estado.
 
-En el Estado de Aguascalientes el respeto a la dignidad humana es la base de los derechos humanos. Todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en el Derecho Internacional en materia de Derechos Humanos, en las leyes generales expedidas por el Congreso de la Unión, la presente Constitución y en las leyes locales, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la propia Constitución Federal establece.
+###### ARTICULO 3º.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+Esta ley será aplicable a las siguientes entidades:
 
-Las normas relativas a los derechos humanos se interpretarán siempre de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales de la materia y con la presente Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
+I.- El Poder Legislativo;
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2021)</small>
+II.- El Poder Judicial del Estado;
 
-Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+III.- El Poder Ejecutivo del Estado;
 
-(NOTA: EL 10 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 72/2021 Y SU ACUMULADA 74/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+IV.- Los Organismos Descentralizados del Estado, y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE MARZO DE 2021)</small>
+V.- Los Fideicomisos públicos en los que la administración pública o sus organismos descentralizados participen como fideicomitentes.
 
-Para los efectos de esta Constitución y de las leyes que de ella emanen, persona es todo ser humano DESDE SU CONCEPCIÓN HASTA SU MUERTE NATURAL. El Estado le garantizará el pleno goce y ejercicio de todos sus derechos.
+###### ARTICULO 4º.
 
-> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2021)</small>
+La Secretaría de Finanzas regulará lo correspondiente a la presupuestación del gasto público del Estado, en el ámbito de los objetivos, políticas, estrategias y metas del Plan Estatal de Desarrollo.
 
-Toda persona tiene derecho al reconocimiento de su personalidad jurídica. Ninguna ley podrá atentar contra la esencial unidad y dignidad de la naturaleza humana.
+###### ARTICULO 5º.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE MARZO DE 2021)</small>
+Corresponde a la Secretaría de Finanzas, entre otras atribuciones las siguientes:
 
-Toda persona tiene los deberes y las obligaciones correlativas a los derechos que esta Constitución y demás leyes les reconocen. Por ende, toda persona está llamada a contribuir al cumplimiento de las tareas comunitarias y de labor social, en la medida de sus capacidades y posibilidades, como el medio para el pleno desarrollo de su personalidad.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2002)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2022)</small>
+I.- Elaborar el anteproyecto de Presupuesto de Egresos del Estado;
 
-Queda prohibida toda discriminación motivada por el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+II.- Programar el egreso;
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2021)</small>
+III.- Controlar el ejercicio presupuestal;
 
-Artículo 2o A.- El Estado de Aguascalientes reconoce y comparte la composición pluricultural, pluriétnica y plurilingüe de la Nación Mexicana. En tal tenor, esta Constitución asume a plenitud todos los derechos, prerrogativas y obligaciones de los pueblos y comunidades indígenas, así como las obligaciones de las instituciones públicas establecidas en la Constitución Federal y Tratados Internaciones (sic) celebrados por el Ejecutivo de la Unión con aprobación del Senado.
+IV.- Efectuar los pagos que correspondan;
 
-Las comunidades indígenas procedentes de otros Estados de la República y que residan temporal o permanentemente dentro del territorio del Estado de Aguascalientes quedan protegidos por los derechos señalados en esta Constitución y la ley local respectiva.
+V.- Realizar la contabilidad, seguimiento y evaluación del ejercicio del gasto público del Estado;
 
-La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta Constitución y leyes de la materia.
+VI.- Integrar la cuenta pública del Ejecutivo, a fin de someterla a consideración del Gobernador para su presentación al Congreso del Estado en los términos de ley; y
 
-El Poder Ejecutivo, el Poder Judicial, el Poder Legislativo y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, tienen a su cargo la salvaguarda de los derechos colectivos aquí señalados, a fin de asegurar su respeto y aplicación de la ley a favor de los pueblos y comunidades indígenas que se encuentren en el Estado de Aguascalientes.
+VII. Dictar las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
 
-Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación, en los términos del Artículo 2o de la Constitución Federal. Lo cual será efectivo, una vez que su permanencia en el Estado sea reconocida como tal por el Instituto Nacional de Pueblos Indígenas o la autoridad federal competente.
+###### ARTICULO 6º.
 
-Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos, en los términos del artículo segundo constitucional y la ley de la materia.
+En cada una de las dependencias y entidades de la administración pública, los titulares serán los responsables del avance de los programas o ejercicio del gasto, siendo los encargados de las áreas corresponsables de esta obligación.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
+###### ARTICULO 7º.
 
-###### Artículo 3o.
-
-El Poder Público solamente puede actuar en uso de facultades expresas mientras que los particulares pueden hacer todo lo que las Leyes federales y locales no les prohíban. La violación de este principio dará lugar a las consecuencias jurídicas que determine la ley.
-
-En el cumplimiento de la ley, si la autoridad requiere afectar o intervenir un derecho, deberá observar los principios de justicia, racionalidad, necesidad, idoneidad y proporcionalidad para hacerlo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
-
-###### Artículo 4o.
-
-La familia es la base fundamental de la sociedad, y tiene derecho a la protección de la sociedad y del Estado. Cualquier doctrina o credo que en alguna forma mine sus cimientos se considerará atentatoria de la integridad misma del Estado. La Ley garantizará su protección, organización y desarrollo sin discriminación alguna.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
-
-Por la misma razón, la familia y, particularmente, niñas, niños, adolescentes, personas con discapacidad, personas adultas mayores y cualquier otra persona en situación de vulnerabilidad, serán sujetos de especial protección por parte de las autoridades. Toda medida o disposición protectoras de la familia se considerarán de orden público. El Estado deberá reconocer, fomentar, promover e impulsar valores sociales y políticas públicas destinadas a fortalecer el desarrollo armónico de la familia como núcleo de la sociedad.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
-
-En todas las decisiones y actuaciones del Estado se velará por el principio del interés superior de la niñez y se cumplirá con el mismo, garantizando de manera plena sus derechos. Los niños, las niñas y los adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
-
-Los ascendientes, tutores y custodios, tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
-
-El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
-
-Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-El hombre y la mujer son iguales ante la Ley, por lo que ésta deberá prever mecanismos, instituciones y políticas que garanticen la igualdad de oportunidades en condiciones de equidad.
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 10 DE DICIEMBRE DE 2018)</small>
-
-Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado garantizará el acceso a los programas y acciones públicas en la materia.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
-
-Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
-
-Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
-
-Toda persona tiene derecho a la salud y al acceso a los servicios de salud conforme a los criterios de universalidad, igualdad e inclusión. La Ley establecerá la concurrencia, bases y modalidades para la participación del Estado y sus Municipios.
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
-
-Toda familia tiene derecho a disfrutar de una vivienda digna, decorosa, habitable y sustentable. Las leyes establecerán los instrumentos y apoyos necesarios a fin de que se propicie que las viviendas cumplan con una infraestructura y servicios públicos básicos adecuados y de calidad, contemplando los lineamientos que establecen los derechos fundamentales reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, así como en los Tratados Internacionales que el Estado Mexicano sea parte.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
-
-Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, comodidad, inclusión e igualdad, que permita el libre desplazamiento de todas las personas dentro del territorio estatal para la satisfacción de sus necesidades y pleno desarrollo; y a una jerarquía de movilidad, otorgando siempre prioridad a los peatones, personas con discapacidad y conductores de vehículos no motorizados, viendo siempre por una cultura de movilidad sustentable.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
-
-Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, particularmente en el uso equitativo del espacio vial, el cual será adecuado a las necesidades sociales y ambientales de la ciudad.
-
-> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
-
-Toda persona tiene derecho a ser protegida por el Estado y sus Municipios ante desastres naturales o emergencias sanitarias. El Estado y sus Municipios serán responsables de llevar a cabo políticas públicas de prevención, atención y de cuidado inmediato.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-###### Artículo 5o.
-
-La propiedad privada se respetará y garantizará en el Estado, con las modalidades que a su ejercicio, como función social, le impongan las leyes.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 1997)</small>
-
-###### Artículo 6o.
-
-La educación es un derecho de todas las personas que atiende a las necesidades de su desarrollo y un proceso colectivo de interés general y público.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
-
-Es deber jurídico del Estado y sus Municipios impartir la educación preescolar, primaria, secundaria y media superior de conformidad con los principios de universalidad, gratuidad y laicidad.
-
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
-
-El Estado deberá además, promover y atender la educación superior y otras modalidades educativas; como la formación y capacitación para el trabajo, la educación de adultos, la educación especial y la educación inicial.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
-
-Los fines de la Educación que imparta o promueva el Estado, de manera corresponsable con la sociedad, tenderá a desarrollar armónicamente las facultades del ser humano, y le fomentará la democracia como forma de vida, el respeto a los derechos humanos en el marco de la libertad y la justicia, la conciencia de solidaridad comunitaria y convivencia social pacífica, la colaboración en el trabajo, el desarrollo de personas libres y autónomas como ciudadanos con capacidad de juicio para la toma de decisiones responsables, el impulso del desarrollo nacional y estatal, el respeto a la pluralidad cultural, de género, social y política, el fomento a la ética, la rectitud, la verdad y la solidaridad y, con peculiaridad cuidado, la participación en el avance de la ciencia, la tecnología y a las humanidades.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
-
-La Ley, garantizará la educación sobre esta Constitución y sobre la Constitución Política de los Estados Unidos Mexicanos, los derechos humanos en todos los niveles escolares y promoverá los medios pacíficos de solución de conflictos.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
-
-Las autoridades municipales, educativas y escolares colaborarán para que los padres o tutores cumplan con la obligación de enviar a sus hijos o pupilos a la educación básica y media superior.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
-
-Además del acceso, el Estado deberá garantizar a quienes asistan a la educación básica y media superior, la permanencia y el egreso oportuno de cada uno de los niveles educativos; por ende, existirán acciones compensatorias de las desigualdades para hacer efectivo en cada caso el derecho universal a la educación en términos de este mismo Artículo.
-
-Los resultados de todo el proceso educativo, así como los factores que inciden en él, deberán evaluarse por el Estado e informar a la sociedad de la situación que guarde el sistema educativo.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
-
-La atención a la demanda social de la educación superior en el Estado será una prioridad de las instituciones públicas y por ello, se ampliará el acceso a esos niveles para garantizar el debido fomento al desarrollo económico y social de la región a la vez que el arraigo local de los jóvenes.
-
-Toda educación que realicen los particulares en el territorio del Estado será supervisada y evaluada en los términos del presente Artículo por las autoridades competentes, con estricto apego a las leyes vigentes aplicables.
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2016)</small>
-
-El Estado y los Municipios garantizarán el derecho de acceso libre a internet, para tal efecto, establecerán los mecanismos y políticas públicas necesarias para asegurar progresiva y de manera gradual la efectividad de este derecho
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
-
-###### Artículo 7o.
-
-Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de protegerlo y conservarlo. Todas las autoridades en la esfera de sus atribuciones velarán por la conservación y fomento de los recursos naturales del Estado.
-
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
-
-El Estado promoverá las condiciones para el desarrollo rural integral sostenible, con el propósito de generar empleo y garantizar a la población rural el bienestar y su participación e incorporación en el desarrollo estatal, y fomente la actividad agropecuaria y forestal para el óptimo uso de la tierra, mediante la implementación de planes, programas, acciones, órganos, sistemas, servicios y fondos que promuevan obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica.
-
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2018)</small>
-
-El Estado debe proveer los elementos necesarios para el desarrollo rural integral y sostenible mediante el mejoramiento de las condiciones de vida de la población rural y urbana, garantizando el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
+El Titular del Ejecutivo del Estado autorizará, por conducto de la Secretaría de Finanzas, la participación estatal en las empresas, sociedades civiles, sociedades mercantiles o asociaciones civiles, ya sea en su creación, para aumentar su capital o patrimonio o adquisición total o parte de estos.
 
 ###### Artículo 7o.
 
@@ -249,239 +119,61 @@ La Ley determinará las formas de participación de estas organizaciones, y la d
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
-### CAPITULO SEGUNDO
+### CAPITULO II. DE LA PLANEACION Y PROGRAMACION
 
-De la forma de Gobierno.
+###### ARTICULO 8º.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2018)</small>
+Sólo se podrán constituir o incrementar fideicomisos de los mencionados en la fracción V del artículo 3 de esta ley con la autorización del Titular del Ejecutivo, quien propondrá la modificación o disolución de los mismos, cuando así convenga al interés público.
 
-###### Artículo 8o.
+### CAPITULO III. DE LA PRESUPUESTACION
 
-El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo, Democrático, Laico y Popular, bajo un sistema de división de poderes, pluralismo político y participación social; teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre.
+###### ARTICULO 9º.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+La planeación del gasto público es el proceso mediante el cual se establecen directrices, se definen estrategias y seleccionan alternativas y cursos de acción en función de objetivos y metas económicas, sociales y políticas; tomando en consideración la disponibilidad de recursos reales y potenciales, lo que permite establecer un marco de referencia necesario para concretar planes y acciones específicas a realizar.
 
-El titular del Poder Ejecutivo del Estado y los Municipios observarán y velarán el principio de Paridad de Género en los nombramientos que expidan respecto de las personas titulares de las dependencias de la Administración Pública Centralizada, de igual manera procederán con los nombramientos que expidan para los titulares de las entidades paraestatales y paramunicipales respectivamente.
+A través de la planeación se fijarán objetivos, metas, estrategias y prioridades; se asignarán recursos, responsabilidades y tiempos de ejecución y se evaluarán resultados.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+###### ARTÍCULO 10.
 
-En los Poderes Legislativo, Judicial, así como en los Organismos Constitucionales Autónomos, el Principio de Paridad de Género, deberá ser observado para conformar los cargos donde exista la facultad de elección o designación.
+El titular del Ejecutivo conducirá la planeación del desarrollo de la entidad, debiendo comunicar al Congreso del Estado del cumplimiento del Plan Estatal de Desarrollo y los programas o ejercicio del gasto que de él se deriven, al momento de rendir el informe sobre el estado y perspectivas de la administración pública y de integrar la cuenta pública.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+### CAPITULO IV. DE LA DEUDA PUBLICA
 
-### CAPITULO TERCERO
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-Del Territorio del Estado.
+###### ARTICULO 11.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1992)</small>
+El Comité de Planeación para el Desarrollo del Estado de Tamaulipas (COPLADET) y las entidades públicas, verificarán periódicamente la relación que guarden los programas y presupuestos de las entidades públicas, así como los resultados de su ejecución, con los objetivos y prioridades del Plan Estatal de Desarrollo y sus programas, a fin de adoptar las medidas preventivas y correctivas que sean necesarias.
 
-###### Artículo 9o.
+###### ARTICULO 12.
 
-El territorio del Estado es el que de hecho y por derecho le pertenece, dentro de los límites establecidos por el Pacto Federal. Se divide en los Municipios de Aguascalientes, Rincón de Romos, Calvillo, Jesús María, Asientos, Tepezalá, Cosío, San José de Gracia, Pabellón de Arteaga, San Francisco de los Romo y El Llano.
+La Contraloría Gubernamental ejercerá el control, vigilancia e inspección del ejercicio del gasto, en congruencia con el presupuesto de egresos y la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+###### ARTICULO 13.
 
-###### Artículo 10.
+La programación del gasto público que realice la Secretaría de Finanzas, será lo suficientemente explícita y detallada, que permita conocer y analizar tanto la racionalidad de los programas que integran el presupuesto, como su congruencia con los objetivos y metas de los planes de mediano y largo plazo, acorde al Plan Estatal de Desarrollo.
 
-La ley que en materia municipal expida el Congreso del Estado determinará los requisitos necesarios para la creación de Municipios.
+### CAPITULO V. DEL EJERCICIO DEL GASTO PUBLICO
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+###### ARTICULO 14.
 
-### CAPITULO CUARTO
+La Secretaría de Finanzas realizará la programación del gasto con apego al Presupuesto de Egresos, debiendo prever que la documentación correspondiente tenga la autorización de la dependencia que ejerce el egreso y se haga de conformidad con la disponibilidad del saldo.
 
-De los Habitantes del Estado.
+### CAPITULO VI. DE LA CONTABILIDAD
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+###### ARTICULO 15.
 
-###### Artículo 11.
+El Presupuesto de Egresos del Estado, es el documento jurídico contable y de política económica, aprobado por el Congreso a iniciativa del titular del Ejecutivo, en el que se consigna de acuerdo a su naturaleza y cuantía el gasto público que ejercerán las dependencias y entidades públicas, en cumplimiento de sus funciones, entre el 1 de enero y el 31 de diciembre de cada año.
 
-Son habitantes del Estado, las personas que residen en su territorio.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-La residencia no se pierde por ausencia en el desempeño de cargos públicos de elección popular o de comisiones oficiales del Estado de Aguascalientes.
+###### ARTICULO 16.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE ENERO DE 2018)</small>
+El Presupuesto de Egresos del Estado contendrá las actividades, obras, servicios públicos previstos en los programas a cargo de las entidades que en el mismo se señalen. A su vez, considerará los proyectos de desarrollo cuya realización hubiere requerido de previsiones presupuesta les posteriores al ejercicio en el cual se contemplaron por primera vez.
 
-###### Artículo 12.
+###### ARTICULO 17.
 
-Son derechos de los ciudadanos del Estado:
-
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
-
-I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
-
-II.- Poder ser votado para todos los cargos de elección popular teniendo las calidades que establezca la ley. El derecho a solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, cuya selección de candidatos deberá cumplir con los principios de equidad y paridad de género; y a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación;
-
-Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la ley;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2018)</small>
-
-III.- Asociarse para constituir partidos políticos locales o asociaciones políticas locales; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2018)</small>
-
-IV.- Hacer uso de los instrumentos de participación ciudadana, previstos en la ley de la materia.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-###### Artículo 13.
-
-Son obligaciones de los habitantes del Estado:
-
-I.- Si son mexicanos, las que se detallan en el artículo 31 de la Constitución Federal.
-
-II.- Si son ciudadanos, las contenidas en el artículo 36 de la misma Constitución; y
-
-III.- Si son extranjeros, contribuir para los gastos públicos de la manera que dispongan las leyes, obedecer y respetar las Instituciones, Leyes y Autoridades del Estado; sujetarse a los fallos y sentencias de los Tribunales, sin poder intentar otros recursos que los que se conceden a los mexicanos.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-### CAPITULO QUINTO
-
-De la División de los Poderes.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-###### Artículo 14.
-
-El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en un sólo individuo o corporación, ni depositarse el Legislativo en una persona.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-### CAPITULO SEXTO
-
-Del Poder Legislativo.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-###### Artículo 15.
-
-El Poder Legislativo se deposita en una corporación denominada Congreso del Estado. Éste se regirá bajo los principios del modelo de parlamento abierto, por lo que deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas. La ley establecerá los mecanismos a los que hace referencia este Artículo.
-
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
-
-###### Artículo 16.
-
-El Congreso se integrará con representantes del pueblo que residan en el territorio del Estado, electos en su totalidad cada tres años y que se denominarán Diputados.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-Por cada Diputado Propietario se elegirá un Suplente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
-
-###### Artículo 17.
-
-En el Estado la renovación de los Poderes Legislativo y Ejecutivo, así como los Ayuntamientos se verificarán por medio de elecciones democráticas, libres auténticas y periódicas, a través del ejercicio del sufragio universal, libre, secreto, directo e intransferible.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-A. El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa mediante el sistema de Distritos electorales uninominales y nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida en la elección de que se trate. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-La asignación de los Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular determine la Ley en materia electoral:
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-I. El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos catorce de los dieciocho distritos uninominales;
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-II. Las diputaciones por el principio de representación proporcional, se otorgarán a todo partido político que obtenga por lo menos el tres por ciento de la votación válida emitida; y
-
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-III. La Ley de la materia determinará la fórmula y el procedimiento que se observará en dicha asignación.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-Los Diputados por mayoría relativa y de representación proporcional, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-Las obligaciones de los Diputados consisten en el ejercicio de las funciones, legislativa, de representación popular, fiscalización, nombramiento, presupuestal, de control, jurisdiccional, sanción y demás que establezcan las leyes; y desempeñarán sus funciones en el Pleno del Congreso del Estado, Diputación Permanente, Gran Jurado, Comisiones y Comités del Poder Legislativo.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-B. El Sistema Estatal Electoral se regirá por los principios rectores de certeza, imparcialidad, independencia, legalidad, máxima publicidad, definitividad y objetividad.
-
-La organización de las elecciones en el Estado, así como del fomento del modelo de vida democrático, de participación y representación es una función pública que se ejerce a través de un organismo público local electoral denominado Instituto Estatal Electoral.
-
-El Instituto Estatal Electoral podrá asumir las atribuciones que en su caso le delegue el Instituto Nacional Electoral, así como celebrar convenios a fin de que éste se haga cargo de la organización de los procesos electorales locales y de otros aspectos previstos en la ley.
-
-El Instituto Estatal Electoral, como ente de interés público, será autoridad en la materia, actuará con autonomía en su funcionamiento, en el ejercicio de su presupuesto y con independencia en sus decisiones, y contará con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
-
-El Consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Los consejeros electorales deberán ser originarios del Estado o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley. En caso de que ocurra una vacante de Consejero Electoral, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos del Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo período.
-
-Los consejeros electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley.
-
-Los consejeros electorales estatales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
-
-El Instituto Estatal Electoral contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
-
-La Ley de la materia determinará la organización del Instituto Estatal Electoral, sus facultades y estructura orgánica, debiendo contar con un órgano auxiliar para la fiscalización de los recursos y programas del citado Instituto, dotado con autonomía técnica y de gestión. El titular de este órgano auxiliar será electo por el Congreso del Estado mediante el voto de la mayoría de los diputados presentes. La fiscalización de los recursos de los Partidos Políticos podrá realizarse por dicho órgano en términos de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, las leyes, acuerdos y convenios que, en su caso, celebre el Instituto Nacional Electoral con el Instituto Estatal Electoral.
-
-Los servidores públicos de los órganos ejecutivos y técnicos del Instituto Estatal Electoral formarán parte del Servicio Profesional Electoral Nacional.
-
-En todo caso, la duración de las campañas será de sesenta días para la elección de gobernador, de cuarenta y cinco días para la elección de diputados locales y de treinta a sesenta días para la elección de ayuntamientos en términos de lo que disponga la ley; las precampañas no podrán durar más de dos terceras partes de las respectivas campañas electorales.
-
-Las elecciones ordinarias deberán celebrase, el primer domingo de junio del año de la elección.
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
-
-Los partidos políticos acreditados en el Estado, podrán participar en las elecciones para gobernador, diputados y ayuntamientos, debiendo respetar las reglas para garantizar la paridad horizontal y en su caso vertical entre los géneros en candidaturas a diputaciones locales y de los ayuntamientos, en términos de las leyes aplicables; asimismo, estarán facultados para participar en la vida política del Estado, para lo cual tendrán acceso al financiamiento público en términos de la ley de la materia. Los partidos políticos locales garantizarán la paridad de género en la integración de sus órganos de dirección.
-
-La participación de candidatos independientes en procesos electorales locales, se sujetará a lo que disponga la ley. Al igual que los partidos políticos, las fórmulas de las candidaturas independientes deberán integrarse por personas del mismo género.
-
-El Tribunal Electoral será el órgano jurisdiccional local especializado en materia electoral, gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones; se regirá por los principios de certeza, imparcialidad, objetividad, legalidad, probidad, definitividad y máxima publicidad; estará integrado por tres magistrados los cuales serán elegidos por el Senado de la República. Su funcionamiento, atribuciones y demás estructura orgánica se regirán por lo que disponga la Ley. Durante los dos años siguientes a la fecha de su retiro, quienes hayan ocupado el cargo de Magistrados del Tribunal Electoral, quedarán impedidos para actuar como patronos, abogados o representantes en todo tipo de procedimientos tramitados ante este órgano jurisdiccional.
-
-Las impugnaciones en contra de los actos que, conforme a la base V del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la ley.
-
-La Ley General en Materia de Delitos Electorales, determinará los tipos penales así como las sanciones aplicables.
-
-El Sistema Estatal Electoral, estará regulado por la ley de la materia, y deberá garantizar en todo momento los derechos y obligaciones establecidos en los Artículos 41 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 29 DE ENERO DE 2018)</small>
-
-C. En el Estado se reconoce la democracia directa y participativa, entendida como el derecho de las personas a incidir en las decisiones públicas y el control de la función pública, a través de los siguientes instrumentos de participación ciudadana:
-
-a) Plebiscito;
-
-b) Referéndum;
-
-c) Iniciativa Ciudadana;
-
-d) Consulta de Revocación de Mandato;
-
-e) Presupuesto Participativo;
-
-f) Cabildo Abierto;
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-g) Consulta Ciudadana;
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-h) Comités Ciudadanos; y
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-i) Parlamento Abierto.
-
-> <small>[N. DE E. PERTENECE AL APARTADO C, P.O. 29 DE ENERO DE 2018]</small>
-
-El Instituto Estatal Electoral será autoridad en la materia de instrumentos de participación ciudadana, teniendo por objeto establecer, fomentar y promover los instrumentos que permitan la organización y funcionamiento de la participación ciudadana.
-
-> <small>[N. DE E. PERTENECE AL APARTADO C, P.O. 29 DE ENERO DE 2018]</small>
-
-La ley regulará los instrumentos de participación ciudadana, los plazos, términos, medios de impugnación, publicidad, los procedimientos para su solicitud y los mecanismos para llevarlos a cabo; así como las materias de aplicación. Misma Ley que sólo podrá ser reformada, adicionada, derogado (sic) o abrogada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado.
+El Presupuesto de Egresos del Estado deberá integrarse con la estrategia señalada en el Plan Estatal de Desarrollo.
 
 ###### Artículo 17 Bis.
 
@@ -489,279 +181,85 @@ La ley regulará los instrumentos de participación ciudadana, los plazos, térm
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-###### Artículo 18.
+###### ARTICULO 18.
 
-Los diputados podrán ser electos hasta por dos periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+El presupuesto por objeto del gasto, se integrará al menos con los siguientes rubros:
 
-Las suplencias de diputados se regirán por lo establecido en la ley de la materia.
+I.- Servicios personales;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 1978)</small>
+II.- Materiales y suministros;
 
-###### Artículo 19.
+III.- Servicios generales;
 
-Para ser Diputado se requiere:
+IV.- Subsidios y transferencias;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
+V.- Bienes muebles e inmuebles;
 
-I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
+VI.- Inversión pública;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2009)</small>
 
-II.- Tener veintiún años cumplidos el día de la elección;
+VII.- Participaciones de ingresos federales a los Municipios; o
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2009)</small>
 
-III.- Haber nacido en el Estado o tener una residencia efectiva en él, no menor de cuatro años inmediatamente anteriores al día de la elección.
+VIII.- Pagos de Obligaciones que constituyan deuda pública.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2009)</small>
 
-###### Artículo 20.
+Las obligaciones de pago a cargo de las dependencias y entidades de la administración pública estatal derivadas de los proyectos para prestación de servicios, regulados por la Ley de Asociaciones Público-Privadas en Proyectos para la Prestación de Servicios del Estado de Tamaulipas tendrán el carácter de obligaciones preferentes en el presupuesto de gasto corriente y se incluirán en un rubro especial para cada contrato que celebren las dependencias y entidades conforme a dicha ley.
 
-No pueden ser electos Diputados:
+###### ARTICULO 19.
 
-I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
+El proyecto de Presupuesto de Egresos del Estado, se podrá clasificar conforme a los siguientes criterios:
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+I.- Clasificación administrativa, en la que el presupuesto será asignado por dependencia, a nivel secretaría o equivalente;
 
-II.- Los Magistrados, tanto del Supremo Tribunal de Justicia como de la Sala Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado.
+II.- Clasificación según el objeto del gasto, en la que se permita identificar su tipo, ya sean servicios personales, servicios generales, bienes de capital, transferencias y servicio de financiamiento crediticio;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+III.- Clasificación económica, en la que se muestre, según su naturaleza, las erogaciones destinadas al gasto corriente, a la inversión pública, participaciones a municipios y deuda pública; y
 
-III.- Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
+IV. Clasificación programática, en la que se describan claramente los objetivos, metas y unidades responsables de su ejecución; así como la valuación estimada por programa.
 
-IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
+###### ARTICULO 20.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+Deberán expresarse las cantidades totales por concepto de gasto social, que comprenderá las erogaciones destinadas a satisfacer las necesidades de la comunidad, que tiendan a mejorar el nivel de vida de los particulares, a través de la prestación de servicios públicos en general, así como mediante el otorgamiento de subvenciones o cualquier tipo de apoyo específico a instituciones de beneficencia o particulares.
 
-Los ciudadanos comprendidos en las Fracciones I y II de este Artículo, podrán ser electos diputados, si se separan de sus cargos o empleos noventa días antes de la elección salvo que esta Constitución establezca otro término.
+###### ARTICULO 21.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 1994)</small>
+Deberá señalarse el monto total a erogarse por concepto de gasto de administración, el cual comprenderá las erogaciones efectuadas para satisfacer las necesidades internas que requiere el funcionamiento de las entidades públicas.
 
-###### Artículo 21.
+###### ARTICULO 22.
 
-Los Diputados son inviolables por la manifestación de sus ideas en ejercicio de sus funciones y jamás podrán ser reconvenidos ni juzgados por ello, sin embargo, serán responsables de los delitos que cometan durante el tiempo de su encargo, pero no podrá ejercitarse acción penal en su contra hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los tribunales.
+El gasto de inversión, además de comprender las erogaciones destinadas a proporcionar o mantener la infraestructura pública en el Estado, incluirá la adquisición de bienes muebles e inmuebles, así como la inversión en valores, acciones y partes sociales de sociedades civiles y mercantiles.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-El Presidente del Congreso o de la Diputación Permanente, en su caso, velará por el respeto al fuero constitucional de los integrantes del mismo, y, por la inviolabilidad del Recinto donde se reúnan a sesionar.
+###### ARTICULO 23.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+Estas clasificaciones no serán restrictivas. Las erogaciones de gasto público no comprendidas en los rubros anteriores, así como aquéllas comprendidas en dos o más de ellos, se incluirán, para efectos de presupuestación y contabilización, en el rubro que corresponda según su finalidad primordial.
 
-###### Artículo 22.
+###### ARTICULO 24.
 
-El cargo de Diputado Propietario o Suplente en ejercicio, es incompatible con cualquier otro cargo o empleo federal, del Estado o del Municipio, por el que se disfrute remuneración, exceptuándose los de instrucción pública.
+El Presupuesto de Egresos del Estado incluirá las erogaciones que realicen los Poderes Judicial, Legislativo y Ejecutivo, para su funcionamiento y el cumplimiento de sus programas; señalándose además el monto de las transferencias y del servicio del financiamiento crediticio, formulándose con base en los principios de equilibrio presupuestal, unidad, programación, anualidad, universalidad, especificación, claridad, uniformidad, publicidad y transparencia.
 
-La infracción de esta disposición será sancionada con la pérdida de la investidura de Diputado.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+###### ARTICULO 25.
 
-###### Artículo 23.
+En consecuencia, el proyecto de Presupuesto de Egresos del Estado se elaborará en función a que los egresos sean equivalentes a los ingresos factibles de ser percibidos en el mismo periodo; estará contenido en un solo cuerpo presupuestario, sin perjuicio de que posteriormente pueda ser modificado en los términos de ley.
 
-El Congreso del Estado se instalará cada tres años, el 15 de septiembre del año de la elección.
+(REFORMADO, P.O. 2 DE OCTUBRE DE 2002) (F. DE E., P.O. 9 DE OCTUBRE DE 2002)
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2020)</small>
+###### ARTICULO 26.
 
-###### Artículo 24.
+El Presupuesto de Egresos se clasificará en términos de esta ley; tendrá una vigencia de un año de calendario; amparará la totalidad del gasto público de las entidades a que se refiere el artículo 24; especificará los montos a ejercer en cada uno de los conceptos que lo integran; guardará un esquema que identifique el destino de los fondos públicos; se basará en el catálogo de partidas establecido para tal efecto en cada uno de los programas y subprogramas y, una vez aprobado por el Congreso del Estado, se publicará íntegramente en el Periódico Oficial del Estado.
 
-El Congreso del Estado tendrá en el año dos periodos ordinarios de sesiones. El primero comenzará a partir del 15 de septiembre y no podrá prolongarse sino hasta el 31 de diciembre, el segundo comenzará a partir del 1° de marzo y no podrá prolongarse sino hasta el 30 de junio. El año de la Instalación de la Legislatura el primer periodo deberá comenzar siempre el 15 de septiembre.
+### CAPITULO VII. EVALUACION DEL GASTO PUBLICO
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
+###### ARTICULO 27.
 
-###### Artículo 25.
-
-El Congreso, fuera del período ordinario que señala el artículo anterior, celebrará sesiones extraordinarias cuando para ello fuere convocado por la Diputación Permanente, pero se limitará a conocer de los asuntos comprendidos en la convocatoria.
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2009)</small>
-
-###### Artículo 26.
-
-El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros.
-
-Los Diputados deben presentarse al Recinto Oficial el día señalado por la Ley o la Convocatoria, los que no se presenten serán conminados para que concurran dentro de un término de diez días, bajo el apercibimiento de cesar en sus cargos, previa declaración del Congreso de vacante del puesto, a menos que exista causa justificada que certificará el propio Congreso. En la hipótesis prevista serán llamados los suplentes, los que deberán presentarse en un plazo igual, a quienes podrá aplicarse la misma sanción si no concurren.
-
-La vacante de diputado propietario y suplente del Congreso local que se presente al inicio de la Legislatura, como las que ocurran durante su ejercicio, se cubrirán de la siguiente forma: por el principio de mayoría relativa, la Legislatura en funciones convocará a elecciones extraordinarias; la vacante de miembros electos por el principio de representación proporcional, será cubierta por la fórmula de candidatos del mismo partido que siga en el orden de prelación de la lista de representación proporcional respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
-
-En el caso de vacantes de diputados por el principio de mayoría relativa el Congreso del Estado, deberá expedir convocatoria, dentro del término de 30 días a partir de que se declare la vacante del puesto, para elecciones extraordinarias que deberán celebrarse dentro de los 90 días siguientes, salvo que la vacante ocurra dentro del año final del ejercicio constitucional de la Legislatura correspondiente.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-### CAPITULO SEPTIMO
-
-De las Facultades del Congreso.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-###### Artículo 27.
-
-Son facultades del Congreso:
-
-I.- Legislar para el Estado, sobre todas las materias que no sean de la competencia exclusiva de la Federación.
-
-II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
-
-Las contribuciones, además de ser medios para obtener los recursos necesarios para el sostenimiento de los gastos públicos, podrán servir como instrumentos de la política económica general y atender a la realización de los principios y fines contenidos en esta Constitución.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-El Congreso tomará en cuenta las propuestas que hagan los Ayuntamientos relativos a las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y la tabla de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sin dejar de establecer las tasas adicionales que se fijen sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-III.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, en el que no podrá haber partidas secretas, tomando en cuenta la Iniciativa enviada por el titular del Poder Ejecutivo, a la cual el Congreso, en su caso, podrá hacer modificaciones.
-
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
-
-Dentro del Presupuesto de Egresos del Estado, se incluirán las partidas plurianuales necesarias para cumplir con las obligaciones contraídas bajo la modalidad de Proyectos de Prestación de Servicios o Asociaciones Público-Privadas, que hayan sido previamente aprobados por el Pleno, en los términos que prevé esta Constitución y las disposiciones de la Ley de la materia.
-
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
-
-La aprobación del establecimiento de compromisos plurianuales deberá hacerse siempre y cuando no se cause perjuicio a la viabilidad financiera del Estado y Municipios ni se modifiquen ramos, programas y proyectos prioritarios.
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
-
-Los Poderes Estatales Legislativo, Ejecutivo y Judicial, incluyendo las entidades paraestatales, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación de los presupuestos de egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-IV.- Autorizar al Ejecutivo y a los Ayuntamientos para contraer empréstitos, fijando las bases sobre las cuales deben celebrarse.
-
-Los empréstitos que solicite el Estado y los municipios sólo se autorizarán cuando se destinen a inversiones públicas productivas inclusive las que contraigan organismos descentralizados y empresas públicas, conforme a las bases que establezca la Ley que para el efecto expedirá el Congreso del Estado y por los conceptos y hasta por los montos que las mismas fijen anualmente en los respectivos presupuestos. El Ejecutivo del Estado y los Ayuntamientos informarán su ejercicio al rendir la Cuenta Pública.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-V.- Revisar la Cuenta Pública del año anterior, que deberán presentarle a más tardar el 28 de febrero de cada año los titulares de los Poderes del Estado, los Ayuntamientos de la Entidad, las dependencias definidas como tales en la Ley Orgánica de la Administración Pública y en la Ley Municipal, los organismos paraestatales o paramunicipales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada de Gobierno del Estado y de los Ayuntamientos.
-
-La revisión de la Cuenta Pública la realizará el Congreso a través de la Entidad de Fiscalización Superior del Estado, denominada Órgano Superior de Fiscalización del Estado de Aguascalientes, para tal efecto, la Cuenta Pública se turnará al Órgano Superior de Fiscalización, por conducto de la Comisión de Vigilancia, a fin de que fiscalice los resultados de la gestión financiera, compruebe que los ingresos estén de acuerdo a la Ley de Ingresos del Estado, que las partidas gastadas estén justificadas y que son conforme con las normas de ejecución de los presupuestos de egresos y el cumplimiento de los objetivos contenidos en los programas.
-
-Si del examen que el Órgano Superior de Fiscalización del Estado realice, aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha entidad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)</small>
-
-El Congreso del Estado, concluirá la revisión de la Cuenta Pública en los términos que establece la Ley, con base en el análisis de su contenido y en las conclusiones técnicas del informe del resultado del Órgano Superior de Fiscalización del Estado, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por el Órgano Superior de Fiscalización del Estado, sigan su curso.
-
-Asimismo, los Poderes del Estado, los Municipios y los entes públicos estatales y municipales, rendirán al Congreso del Estado, a más tardar el día 20 de los meses de abril, julio y octubre del año en que se ejerza el presupuesto respectivo, Informe de Avance de Gestión Financiera como parte integrante de las Cuentas Públicas, sobre los resultados físicos y financieros de los programas a su cargo, por los períodos correspondientes al primer, segundo y tercer trimestre del año. Lo anterior, a fin de que el Órgano Superior de Fiscalización del Estado fiscalice el trámite y la conclusión de los procesos correspondientes, los ingresos y egresos; el manejo, la custodia y la aplicación de sus fondos y recursos; y en su caso, emita las recomendaciones en cuanto al cumplimiento de los objetivos contenidos en los programas respectivos.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2020)</small>
-
-VI.- Autorizar al Ejecutivo para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado, en los términos de la ley en la materia.
-
-VII.- Conocer de los convenios que el Gobernador celebre con los Estados vecinos respecto a las cuestiones de límites, y en caso de aprobarlos, someterlos a la aprobación del Congreso de la Unión.
-
-VIII.- Fijar la división territorial y política, administrativa y judicial del Estado.
-
-IX.- Crear y suprimir cargos públicos.
-
-X.- Convocar a elecciones conforme a la Ley.
-
-XI.- Para erigirse en Colegio Electoral en términos de lo dispuesto por los Artículos 42 y 44 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
-
-XII.- Designar en los términos que prevé esta Constitución, al ciudadano que deba suplir al Gobernador en sus faltas absolutas, así como conceder licencia al Gobernador para salir del territorio del Estado por más de veinte días, así como para separarse del cargo hasta por noventa días;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
-
-XIII.- Decidir sobre la renuncia del cargo de Gobernador;
-
-XIV.- (DEROGADA, P.O. 17 DE AGOSTO DE 2015)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
-
-XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2012)</small>
-
-Los nombramientos de los Magistrados deberán recaer en aquellas personas seleccionadas por el Consejo de la Judicatura Estatal; que podrán ser tanto elementos del Poder Judicial del Estado, peritos en derecho de otras dependencias del Estado y sus Municipios, o miembros del foro local que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades;
-
-XVII.- Conceder licencia a los Diputados para separarse de sus cargos, llamando inmediatamente a los respectivos suplentes.
-
-XVIII.- Intervenir, erigido en Gran Jurado y de acuerdo con las prevenciones de esta Constitución, en los procedimientos relativos a ilícitos oficiales o del orden común en contra de los servidores públicos que gocen de fuero.
-
-XIX.- Cambiar provisionalmente la residencia de los Poderes del Estado.
-
-XX.- Fijar y modificar la extensión del territorio que corresponda a los Municipios, por voto de las dos terceras partes de sus integrantes. Con esa misma mayoría crear nuevos Municipios con la intervención de los Municipios afectados.
-
-XXI.- Dirimir las controversias que no siendo de carácter judicial, ni sean de las previstas en el último párrafo de la fracción II del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos se susciten entre los Ayuntamientos.
-
-XXII.- Conceder amnistía con aprobación de las dos terceras partes de los Diputados presentes.
-
-XXIII.- Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna Ley o acto de Gobierno Federal constituya un ataque a la soberanía del Estado, o a la Constitución General, por el que resulte afectado éste.
-
-XXIV.- Investir al Gobernador de facultades extraordinarias en caso de calamidad pública.
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2013)</small>
-
-XXV.- Premiar a las personas que hayan prestado eminentes servicios públicos al Estado; o a los hijos de éste que los hayan prestado a la Patria o a la humanidad y recompensar a los buenos servidores de la Administración Pública, sin perjuicio de lo que dispone la parte final de la Fracción XIII del Artículo 46 de esta Constitución.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-XXVI.- Expedir la Ley que regulará su estructura y funcionamiento interno, así como la Ley que regule la organización del Órgano Superior de Fiscalización del Estado, las cuales serán aprobadas por las dos terceras partes de sus integrantes.
-
-La Ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-Estas Leyes no podrán ser vetadas ni necesitarán de promulgación del Ejecutivo Estatal para tener vigencia.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-XXVII.- Nombrar y remover a los servidores públicos de sus dependencias, así como al Auditor Superior del Estado.
-
-XXVIII.- Legislar en materia de responsabilidades de los servidores públicos.
-
-XXIX.- Expedir las leyes que regulen las relaciones del Estado y de los Municipios con sus trabajadores.
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
-
-XXX.- Citar a solicitud de las dos terceras partes de sus miembros, al Gobernador del Estado, a los titulares de las Secretarías que dependen del Poder Ejecutivo, así como de sus Organismos Descentralizados del Estado o de Empresas de Participación Estatal, cuantas veces fuere necesario para que informen sobre el estado que guardan los asuntos a su cargo y demás aspectos relacionados con el cumplimiento de sus atribuciones, cuando se discuta una ley que sea de su incumbencia, se estudie un negocio relativo a sus actividades o, cuando así lo consideren los legisladores para tratar asuntos de interés público.
-
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2011)</small>
-
-Citar, a solicitud de la Comisión Estatal de Derechos Humanos, a las autoridades o servidores públicos que no acepten o incumplan las recomendaciones de dicha Comisión, esto a fin de que comparezcan ante el Pleno Legislativo en sesión Pública, a explicar el motivo de su negativa.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-XXXI.- Aprobar, mediante el voto de la mayoría de los diputados presentes, el convenio y el programa de gobierno de coalición que, en su caso, celebre el Gobernador con uno o varios partidos políticos representados en el Congreso del Estado;
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-XXXII.- Elegir y nombrar al Fiscal General del Estado, y formular objeción a la remoción que del mismo haga el Ejecutivo Estatal, de conformidad con lo establecido en el Artículo 59 de esta Constitución;
-
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2007)</small>
-
-XXXIII.- Nombrar a los miembros del Consejo de la Judicatura Estatal en los términos del artículo 55 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2018)</small>
-
-XXXIV.- Autorizar al Estado, los Municipios y sus entidades públicas, previo análisis de sus capacidades de pago, la contratación y los montos máximos para los Proyectos de Prestación de Servicios o de Asociaciones Público-Privadas, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas. De igual manera se requerirá de dicha autorización respecto a las modificaciones por el aumento en el plazo y monto de los pagos plurianuales y la garantía de pago.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2008)</small>
-
-XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones del Órgano Superior de Fiscalización del Estado, en los términos que disponga la Ley; y
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-XXXVI.- Expedir leyes que instituyan la justicia de lo contencioso - administrativo dotando de plena autonomía para dictar sus fallos, y que tenga a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal, con los particulares; estableciendo las normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
-
-XXXVII.- Elegir a los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, mediante el voto de las dos terceras partes de los diputados presentes en el Pleno, previa convocatoria que emita la Junta de Coordinación Política a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos;
-
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2022)</small>
-
-XXXVIII.- Designar, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos con autonomía reconocida en ésta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado previa convocatoria que emita la Junta de Coordinación Política a fin de realizar una consulta a la sociedad para recibir propuestas de candidatos, lo anterior con excepción del Titular del Órgano Interno de Control del Tribunal Electoral; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2018)</small>
-
-XXXIX.- Las demás que le concede esta Constitución y la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2008)</small>
+Las entidades mencionadas en las fracciones I, II, IV y V del artículo 3 de esta ley, así como cada una de las dependencias que constituyen el Poder Ejecutivo contarán con un área encargada de elaborar su anteproyecto de presupuesto con base en los programas respectivos, así como dar seguimiento al avance de los mismos.
 
 #### SECCION UNICA
 
@@ -855,35 +353,13 @@ De la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
-###### Artículo 28.
+###### ARTICULO 28.
 
-Durante el receso del Congreso funcionará una Diputación Permanente, integrada por cinco Diputados con el carácter de propietarios y tres como suplentes, nombrados la víspera de la clausura de los períodos ordinarios de sesiones, en la forma y términos que fije la Ley que regula su estructura y funcionamiento interno.
+El titular del Ejecutivo del Estado, a través de la Secretaría de Finanzas, determinará los lineamientos y políticas de gasto en la que deberán basarse las entidades para la formulación de su anteproyecto de presupuesto.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
+###### ARTICULO 29.
 
-###### Artículo 29.
-
-La Diputación Permanente, tendrá las siguientes facultades:
-
-I.- Admitir las iniciativas de Ley o de Decreto que se le presenten para que el Congreso les dé curso en el período ordinario de sesiones correspondiente.
-
-II.- Despachar los asuntos de mero trámite.
-
-III.- Convocar al Congreso a sesiones extraordinarias, cuando lo juzgue necesario o el Poder Ejecutivo lo solicite.
-
-IV.- Cambiar temporalmente la residencia de los Poderes del Estado, en casos de suma urgencia, mediante la aprobación del Ejecutivo.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MARZO DE 2003)</small>
-
-V.- Recibir durante el receso del Congreso del Estado las iniciativas de Ley o proposiciones y turnarlas para dictamen a las comisiones del Congreso que por razón de su competencia les corresponda, a fin de que se despachen en el inmediato periodo de sesiones.
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2011)</small>
-
-VI.- Ejercer las mismas funciones que el Congreso en los casos de las Fracciones XIV, XVI, XVII, XVIII y XXX párrafo segundo, del Artículo 27 de esta Constitución; y
-
-VII.- Las demás que le confiere esta Constitución.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+Todas las entidades comprendidas en las fracciones de la III a la V del artículo 3 de esta ley, así como las dependencias del Ejecutivo, remitirán sus anteproyectos de presupuesto a la Secretaría de Finanzas durante la segunda quincena del mes de septiembre de cada año, con sujeción a las normas y montos que el Ejecutivo del Estado establezca por medio de la propia Secretaría.
 
 ### CAPITULO NOVENO
 
@@ -891,79 +367,33 @@ De la Iniciativa y Formación de las Leyes.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
-###### Artículo 30.
+###### ARTICULO 30.
 
-La iniciativa de las leyes corresponde:
+Los órganos competentes de los Poderes Legislativo y Judicial, atendiendo a las previsiones del ingreso y del gasto público estatal que realice la Secretaría de Finanzas, formularán sus respectivos proyectos de presupuesto y los enviarán durante la segunda quincena del mes de octubre de cada año al Gobernador del Estado, para que éste ordene su incorporación al proyecto de Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
+###### ARTICULO 31.
 
-I.- A los Diputados al Congreso del Estado;
+El titular del Ejecutivo del Estado seleccionará los programas que deban incluirse en el proyecto de Presupuesto de Egresos del Estado basándose en su prioridad o jerarquía, su factibilidad y su beneficio económico y social, de acuerdo al Plan Estatal de Desarrollo y procurando en todo caso promover el desarrollo regional
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
+###### ARTICULO 32.
 
-II.- Al Gobernador del Estado;
+La Secretaría de Finanzas podrá solicitar y obtener de las entidades comprendidas en las fracciones de la III a la V del artículo 3 de esta ley, toda la información que se requiera para que el Ejecutivo del Estado tenga todos los elementos necesarios para decidir sobre la elección de los programas a incluir en el proyecto de Presupuesto de Egresos.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
+###### ARTICULO 33.
 
-III.- Al Supremo Tribunal de Justicia, en asuntos de su ramo;
+La Secretaría de Finanzas queda facultada para formular el proyecto de presupuesto de las entidades cuando no le sea presentado en los plazos que señala la presente ley, de conformidad con los datos históricos y a las prioridades que se determinen en el Plan Estatal de Desarrollo.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2002)</small>
 
-IV.- A los Ayuntamientos, en los asuntos de su competencia; y
+###### ARTICULO 34.
 
-> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2018)</small>
+El anteproyecto de Presupuesto de Egresos del Estado deberá ser presentado por la Secretaría de Finanzas al Gobernador durante la segunda quincena del mes de noviembre anterior al inicio del nuevo ejercicio fiscal, a fin de que se envíe oportunamente al Congreso el proyecto de Presupuesto de Egresos del Estado.
 
-V.- A los ciudadanos que en términos de esta Constitución y la ley de la materia, presenten una Iniciativa Ciudadana.
+###### ARTICULO 35.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+Las proposiciones que hagan los miembros del Congreso del Estado para modificar el proyecto de Presupuesto de Egresos presentado por el Ejecutivo, serán sometidas al trámite que establezca el Reglamento para el Gobierno Interior del Congreso del Estado, debiendo prever en todo caso los ingresos necesarios para cubrir los egresos que se aprueben.
 
-###### Artículo 31.
-
-Toda iniciativa, pasará, sin otro trámite que su lectura, a la Comisión respectiva para que dictamine. Cuando la iniciativa corresponda a algún Municipio o se refiera a materias municipales, deberá oírse la opinión de los Ayuntamientos, en los trabajos de las Comisiones. El modo, forma y término para las discusiones y votaciones se establecerán en la Ley Orgánica y Reglamento del Congreso del Estado.
-
-En los mismos términos se procederá respecto de las iniciativas que se refieran a los ámbitos de competencia de los Poderes Ejecutivo y Judicial.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2003)</small>
-
-###### Artículo 32.
-
-Aprobada una iniciativa de Ley o Decreto por el Congreso del Estado, pasará al Ejecutivo, quien, si no tuviere observaciones qué hacer o transcurrido el plazo sin haberlas hecho, lo publicará dentro de los diez días hábiles siguientes. En caso contrario, el Congreso del Estado ordenará su publicación.
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1995)</small>
-
-Se reputará sancionada por el Poder Ejecutivo toda Ley o Decreto no devuelto con observaciones al Congreso del Estado, dentro de los siguientes veinte días hábiles en que se recibió; a no ser que corriendo este término hubiere cerrado el Congreso sus sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
-
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2003)</small>
-
-La iniciativa de Ley o Decreto vetada total o parcialmente por el Ejecutivo, será devuelta con sus observaciones al Congreso del Estado, quien deberá discutirlo de nuevo y si fuere confirmado o aceptadas las observaciones por el voto de las dos terceras partes del número total de los Diputados, la iniciativa será Ley o Decreto y volverá al Ejecutivo para su publicación dentro de los diez días hábiles siguientes al de su recepción; de no hacerlo, el Congreso del Estado ordenará su publicación.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-Las votaciones serán nominales.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1953)</small>
-
-El Ejecutivo del Estado no podrá vetar las resoluciones del Congreso cuando éste actúe como Colegio Electoral o como Gran Jurado. Tampoco podrá hacerlo respecto de los Decretos que expida la Diputación Permanente convocando al Congreso a períodos extraordinarios de sesiones.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
-
-###### Artículo 33.
-
-La iniciativa que sea desechada por el Congreso, no podrá volver a presentarse sino hasta el siguiente período ordinario.
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
-
-###### Artículo 34.
-
-En casos urgentes a juicio del Congreso, sin omitir ningún trámite, las resoluciones sobre las iniciativas se darán en razón de la premura indicada.
-
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
-
-###### Artículo 35.
-
-Para su observancia, las Leyes y Decretos deberán publicarse en el Periódico Oficial del Estado y entrarán en vigor al día siguiente de su publicación. Cuando en la Ley o Decreto se fije la fecha en que debe empezar a regir, su publicación se hará por lo menos tres días antes de aquélla.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO DECIMO
 
@@ -971,225 +401,87 @@ Del Poder Ejecutivo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
-###### Artículo 36.
+###### ARTICULO 36.
 
-El ejercicio del Poder Ejecutivo se deposita en un sólo individuo que se denominará Gobernador del Estado.
+En caso de que la discusión y votación del dictamen de la Ley de Ingresos y del Presupuesto de Egresos del Estado no se realice para el 31 de diciembre del año anterior en que deban regir, se estará a lo dispuesto por el artículo 69 de la Constitución Política del Estado, a efecto de que la administración pública cumpla con los programas y servicios que deban ser proporcionados a la comunidad.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+###### ARTICULO 37.
 
-###### Artículo 37.
+La Secretaría de Finanzas incluirá en el anteproyecto de su propio presupuesto, las previsiones de la amortización y pago del servicio de la deuda pública en el programa específico que al efecto formule.
 
-Para ser Gobernador del Estado, se requiere:
+###### ARTICULO 38.
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+Las entidades públicas, en los términos de la Ley de Deuda Pública Estatal y Municipal, podrán:
 
-I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él no menor de diez años inmediatamente anteriores al día de la elección.
+I.- Contraer deuda pública, con las limitantes de endeudamiento autorizadas por el Congreso del Estado, cuidando que ésta se destine a inversiones públicas productivas, o para mejorar la estructura de endeudamiento público;
 
-II.- Estar en pleno ejercicio de sus derechos; y
+II.- Obtener créditos que excedan las limitantes referidas en la fracción anterior, en los casos que, previa aprobación del Comité Técnico de Financiamiento, se encuentren en alguno de los siguientes supuestos:
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2009)</small>
+a).- Se apruebe la solicitud hecha al Congreso del Estado, por conducto del Ejecutivo Estatal para ejercer montos de endeudamiento adicionales a los incluidos en las Leyes de Ingresos Estatal y Municipales, por circunstancias extraordinarias que así lo exijan; y
 
-III.- Tener cuando menos treinta años cumplidos al día de la elección.
+b).- Se contraten créditos directos a corto plazo cuyos montos no se consideren de deuda pública y se contraten bajo las condiciones que prevé la ley de la materia; y
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+III.- Emitir bonos y otros títulos de deuda.
 
-###### Artículo 38.
+###### ARTICULO 39.
 
-No puede ser Gobernador:
+La Secretaría de Finanzas estará facultada para aplicar y vigilar el debido cumplimiento de las acciones derivadas de las obligaciones cuantificables en efectivo, directas, indirectas o contingentes derivadas de financiamientos crediticios y a cargo del Poder Ejecutivo.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+###### ARTICULO 40.
 
-I. El ministro de culto religioso, salvo que dejare de ser ministro de culto con la anticipación y en la forma que establece la Ley Reglamentaria del Artículo 130 de la Constitución General de la República;
+Los titulares de las dependencias públicas serán responsables del estricto cumplimiento de las disposiciones legales y de las directrices de contratación señaladas por el Comité Técnico de Financiamiento, en relación a la deuda pública que contraten.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión; durante la extinción de una pena corporal; por resolución o sentencia ejecutoria que imponga como pena la suspensión de los derechos o prerrogativas de los ciudadanos; o por tener una sentencia que haya causado estado por Faltas Administrativas Graves, en términos de la Ley de Responsabilidades Administrativas del Estado;
+###### ARTICULO 41.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+Sólo se podrán concertar créditos para financiar programas incluidos en los presupuestos de las entidades a que se refieren las fracciones III a la V del artículo 3º de esta ley, que en forma previa hayan sido aprobados expresamente por la Secretaría de Finanzas y que cumplan con las disposiciones de la Ley de Deuda Pública Estatal y Municipal.
 
-III. El que haya desempeñado con anterioridad ese cargo por elección popular; y
+###### ARTICULO 42.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JULIO DE 2009)</small>
+Los créditos que contraten las entidades públicas, así como las garantías que el Estado otorgue, deberán estar inscritos en el Registro Estatal de Deuda Pública.
 
-IV. El servidor público sea cual fuere el origen de su designación a menos que se separe de su cargo 90 días antes de la elección.
+###### ARTICULO 43.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+En ningún caso se autorizarán créditos que generen obligaciones que excedan de la capacidad de pago.
 
-###### Artículo 39.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-El ciudadano que hubiere ocupado el cargo de Gobernador Provisional o Interino, o aquél que bajo cualquier denominación supla las faltas temporales del Gobernador; así como el ciudadano que con el carácter de Gobernador Sustituto supla la falta definitiva del Gobernador, no podrá ser electo o designado como Gobernador en cualquiera de sus formas, si no han trascurrido dos años de que cesó en sus funciones.
+###### ARTICULO 44.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+En los casos que el Gobierno del Estado otorgue su aval a entidades estatales o a los Municipios para la contratación de empréstitos, si éstos no son cubiertos por el solicitante, el Gobierno del Estado podrá fincar, en su caso, los créditos fiscales correspondientes para recuperar el monto que en esta virtud haya erogado.
 
-###### Artículo 40.
+###### ARTICULO 45.
 
-No podrá ser electo Gobernador para el período inmediato, el ciudadano que haya desempeñado ese cargo por designación distinta a la de elección popular.
+Para el ejercicio del gasto público del Estado, las entidades deberán de sujetarse a las previsiones de esta ley y se observarán las disposiciones que al efecto expida la Secretaría de Finanzas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+###### ARTICULO 46.
 
-###### Artículo 41.
+El ejercicio del gasto público comprende el manejo y aplicación de los recursos financieros, así como su justificación, comprobación y pago, con base en el presupuesto de egresos correspondientes.
 
-El Gobernador del Estado será electo directamente por el pueblo, en los términos de la Ley Electoral; durará en su encargo seis años y empezará a ejercer sus funciones el día primero de octubre del año de la elección, previa protesta que rendirá ante el Congreso, en los siguientes términos:
+###### ARTICULO 47.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE AMBAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO; Y SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
-
-###### Artículo 42.
-
-En caso de falta absoluta de Gobernador, ocurrida dentro de los dos primeros años del período respectivo, el Secretario General de Gobierno será el encargado del despacho del Poder Ejecutivo. El Congreso expedirá dentro de los veinte días siguientes la Convocatoria para la elección de Gobernador que debe concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho. La persona así elegida asumirá el cargo de Gobernador en un plazo no mayor de dos meses contados a partir de que sea electo.
-
-Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo, en tanto el Congreso se erige en Colegio Electoral y nombra por mayoría absoluta al Gobernador Sustituto que deberá concluir el período.
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
-
-###### Artículo 43.
-
-En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo el Secretario General de Gobierno como encargado del Despacho.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-###### Artículo 44.
-
-Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el primero de octubre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el ciudadano que designe el Congreso, o en su receso, con el carácter de Provisional, el que designe la Diputación Permanente, observándose lo dispuesto en los Artículos 42 y 43 de esta Constitución.
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
-
-###### Artículo 45.
-
-En los casos en que el Gobernador se ausente legalmente del territorio del Estado, sin separarse de su cargo, el Secretario General de Gobierno quedará encargado del Despacho, y se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-###### Artículo 46.
-
-Son facultades y obligaciones del Gobernador:
-
-I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-II.- Presentar cada año al Congreso del Estado a más tardar el 31 de octubre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, excepto cuando el Gobernador inicie su encargo en la fecha prevista en el Artículo 41, en cuyo caso el Gobernador entrante entregará los proyectos a más tardar el 15 de noviembre, mismos que deberán incluir: los ingresos que de sus actividades generen las dependencias definidas como tales en la Ley Orgánica de la Administración Pública del Estado, los organismos paraestatales, organismos autónomos, empresas de participación mayoritaria y fideicomisos pertenecientes a la Administración Pública Descentralizada del Gobierno del Estado; los presupuestos de egresos de cada uno de éstos y sus programas, debiendo comparecer el Secretario de Finanzas ante el Pleno y Comisiones a dar cuenta del mismo, y si lo considera conveniente la Comisión de Vigilancia, también deberán comparecer ante ésta, los responsables del gasto de los Poderes del Estado, así como de los organismos y dependencias;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-III.- Solicitar al Congreso la autorización para realizar los Proyectos de Prestación de Servicios, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en las Fracciones III y XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
-
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
-
-IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 y el 30 de septiembre, sobre el estado general que guarde la administración pública estatal.
-
-V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia.
-
-VI.- Reconocer, cuando después de una elección se instale más de un Cuerpo Legislativo, cuál es el que representa la legalidad; y cuando estuviere dividido el Congreso en varios grupos, al que tenga quórum legal.
-
-VII.- Celebrar convenios:
-
-a).- De coordinación con las Secretarías de Estado y con los Municipios.
-
-b).- Sobre límites con los Estados vecinos previa aprobación del Congreso.
-
-c).- Respecto de cualquier otra materia de su competencia, con los demás Estados de la República; y
-
-d).- En general, con las personas de derecho privado.
-
-VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 27 de esta Constitución.
-
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2020)</small>
-
-IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, en los términos de la ley en la materia.
-
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
-
-X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal; así como ejercer las facultades en la designación y remoción del Fiscal General del Estado en términos de lo establecido en el Artículo 59 de esta Constitución;
-
-XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
-
-XII.- Solicitar de la Diputación Permanente que convoque al Congreso a sesiones extraordinarias cuando fuere necesario.
-
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2013)</small>
-
-XIII.- Expedir títulos profesionales respecto de estudios realizados en instituciones dependientes del Estado, así como otorgar el premio Aguascalientes conforme al decreto que el propio ejecutivo emita.
-
-XIV.- Conceder, conforme a la Ley, indulto, reducción y conmutación de penas.
-
-XV.- Decretar la expropiación, por causa de utilidad pública, con los requisitos y formalidades que establezca la Ley de la materia.
-
-XVI.- Disponer de la Policía Preventiva Municipal en los casos que juzgue como de fuerza mayor o alteración grave del orden público.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-XVII.- Proponer al Congreso del Estado las ternas para nombrar Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa, en términos del Artículo 54, y de acuerdo a las disposiciones del Artículo 27, Fracción XV de esta Constitución.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-XVIII.- Ejercer las facultades que en materia de Vialidad Estatal le asignen las Leyes;
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-XIX.- En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por la mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición;
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
-
-XX.- Objetar, en su caso, el nombramiento de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, designados por el Congreso del Estado, conforme a lo dispuesto por la Ley de la materia;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
-
-XXI.- Promover el desarrollo rural integral sostenible del Estado, en los términos que le asignen las Leyes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2019)</small>
-
-XXII.- Fomentar, promover e impulsar valores sociales y políticas públicas destinadas a fortalecer el desarrollo armónico de la familia como núcleo de la sociedad; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE NOVIEMBRE DE 2019)</small>
-
-XXIII.- Las demás que esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, y otras disposiciones jurídicas le confieren.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-###### Artículo 47.
-
-El cargo de Gobernador solo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2015)</small>
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá ampliar automáticamente las partidas aprobadas para el ejercicio fiscal realizando las erogaciones adicionales a las autorizadas hasta por el total de los ingresos ordinarios y extraordinarios que correspondan a ese ejercicio.
 
 ### CAPITULO UNDECIMO. Del Secretario General de Gobierno
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
-###### Artículo 48.
+###### ARTICULO 48.
 
-Para el Despacho de los negocios de la Administración Pública del Estado, habrá un Secretario General de Gobierno, quien deberá reunir los siguientes requisitos:
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá efectuar reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestados, así como las que se deriven de la aplicación de medidas de austeridad, racionalidad y atención a renglones prioritarios.
 
-I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él, no menor de cinco años inmediatamente anteriores al día de la designación;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-II.- Estar en pleno ejercicio de sus derechos; y
+###### ARTICULO 49.
 
-III.- Ser mayor de 30 años.
+El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá asignar los recursos que se obtengan con exceso de lo previsto en la Ley de Ingresos del Estado, a los programas que considere prioritarios y autorizará las transferencias de partidas cuando estas sean procedentes, dándoles la participación que corresponda a las entidades interesadas.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2019)</small>
+Las entidades, en su caso, deberán informar a la Secretaría de Finanzas, la forma en que las modificaciones financieras que afecten un programa o las metas establecidas para el mismo.
 
-###### Artículo 49.
+###### ARTICULO 50.
 
-Todos los despachos del Gobernador deberán ser firmados por el Secretario General de Gobierno.
-
-El Decreto promulgatorio de leyes, será refrendado únicamente por el Secretario General de Gobierno.
-
-Los Decretos, acuerdos y reglamentos que el Gobernador del Estado promulgue, para que sean obligatorios, deberán estar refrendados por el Secretario General de Gobierno y por el encargado del ramo según corresponda, de conformidad con la ley de la materia.
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
-
-###### Artículo 50.
-
-Las ausencias del Secretario General de Gobierno serán suplidas conforme la normatividad reglamentaria, en cuyo caso la persona que lo supla deberá firmar los despachos del Gobernador.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+De los movimientos que se efectúen en los términos de los artículos 47, 48 y 49 de esta ley, el Ejecutivo informará al Congreso del Estado al rendir la cuenta pública.
 
 ### CAPITULO DUODECIMO
 
@@ -1203,195 +495,41 @@ De la Inviolabilidad de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
-###### Artículo 51.
+###### ARTICULO 51.
 
-El Poder Judicial es el encargado de impartir justicia, aplicando las Leyes con plena independencia en el ejercicio de sus atribuciones jurisdiccionales y para la administración de su presupuesto.
+Las asignaciones establecidas en el presupuesto de egresos, determinadas conforme a los artículos 47, 48 y 49 de la presente Ley, señalan el límite máximo de las erogaciones; el cual no podrán excederse, pero tampoco será necesario agotarlo si ello no fuese necesario, pues cuando sea posible se buscarán economías para el erario estatal, cancelándose al cierre del ejercicio del presupuesto los saldos no utilizados ni comprometidos.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2009)</small>
 
-El Poder Judicial del Estado está conformado por el Supremo Tribunal de Justicia del Estado, la Sala Administrativa, los Juzgados y el Consejo de la Judicatura Estatal, que tiene a su cargo la carrera judicial.
+La Secretaría de Finanzas, previo acuerdo del titular del Ejecutivo, realizará las transferencias de gasto que correspondan en virtud de la economía del erario estatal, dentro de los importes aprobados. Los recursos asignados en materia de seguridad pública o procuración de justicia no podrán, bajo ninguna circunstancia, ser transferidos o utilizados con propósitos diversos a los de su objeto. En caso de trasferencias de recursos para la seguridad pública o la procuración de justicia, no podrá aplicarse a ninguna materia distinta a la que motivó esa reasignación.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
+###### ARTICULO 52.
 
-Las condiciones para el ingreso, formación y permanencia, en los diversos órganos jurisdiccionales que conforman al Poder Judicial, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, la Ley Orgánica del Poder Judicial y demás legislación aplicable.
+El Titular del Ejecutivo del Estado, los respectivos Ayuntamientos y las entidades paraestatales podrán celebrar convenios de coordinación para el más eficiente uso, destino y aprovechamiento de los recursos; los cuales deberán estar acordes a los respectivos presupuestos de egresos y al contenido de la legislación aplicable.
 
-La representación del Poder Judicial de Aguascalientes corresponde al Supremo Tribunal de Justicia del Estado, por conducto de su Presidente.
+###### ARTICULO 53.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+Los pagos con cargo al presupuesto de egresos serán justificados y comprobados con los documentos originales respectivos. La Secretaría de Finanzas estará facultada para verificar la autenticidad de los mismos, y rechazarlos en caso de tener dudas fundadas de su proveniencia o que su formulación no esté de acuerdo con los lineamientos legales aplicables.
 
-Artículo 51 A.- En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en el Primer Párrafo del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+###### ARTICULO 54.
 
-Siempre que no afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
+Se entenderá por justificantes, las disposiciones y los documentos legales que determinen la obligación de hacer un pago.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
+###### ARTICULO 55.
 
-###### Artículo 52.
+Se entenderán por comprobantes, los documentos debidamente requisitados que demuestren la entrega de la suma de dinero correspondiente.
 
-El Supremo Tribunal de Justicia del Poder Judicial del Estado estará conformado por siete Magistrados y funcionará en pleno o en sus dos distintas salas: la civil y la penal, integradas por tres Magistrados cada una.
+###### ARTICULO 56.
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado, reunidos en pleno, elegirán de entre sus integrantes a su Presidente, quien ostentará el cargo cuatro años y podrá ser reelecto para el período inmediato posterior.
+Los egresos y gastos derivados del ejercicio de la función o la representación, así como los comprobantes de los mismos, deberán sujetarse a los criterios y políticas de uso y destino que la Secretaría de Finanzas y la Contraloría Gubernamental determine en el manual correspondiente.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+###### ARTICULO 57.
 
-La Sala Administrativa será un órgano jurisdiccional que gozará de plena autonomía para dictar sus fallos y que estará adscrito al Poder Judicial del Estado, se integrará por tres Magistrados sin que formen parte del Pleno del Supremo Tribunal de Justicia, asimismo tendrá entre sus facultades, dirimir las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades del Estado, de los Municipios y sus Organismos Descentralizados o con otras personas en funciones de autoridad.
+El Gobernador del Estado, podrá disponer que los fondos excedentes y los disponibles correspondientes a las entidades citadas en las fracciones IV y V del artículo 3º incluidas en la Ley de Egresos del Estado se manejen concentrados en la Secretaría de Finanzas en los términos de esta ley.
 
-> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+###### ARTICULO 58.
 
-El órgano jurisdiccional referido en el párrafo anterior, también será competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o de los Municipios.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-###### Artículo 53.
-
-Para ser Magistrado se requiere:
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
-
-I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de tres años inmediatamente anteriores a la fecha de la designación.
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
-
-II.- Poseer Título de Licenciado en Derecho con una antigüedad mínima de diez años el día de la designación.
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
-
-III.- Tener cuando menos 35 años cumplidos el día de la designación.
-
-IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
-
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
-
-V.- No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Diputado Federal o Local o dirigente de Partido Político durante el año previo al día de su designación.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
-
-###### Artículo 54.
-
-Los Magistrados del Supremo Tribunal de Justicia del Estado y la Sala Administrativa, se elegirán de la forma siguiente:
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-El Consejo de la Judicatura Estatal, encabezado por el Presidente del Supremo Tribunal de Justicia del Estado, siguiendo el procedimiento de selección que su propia Ley establezca, propondrá cinco candidatos por cada cargo a Magistrado remitiendo los expedientes correspondientes al titular del Ejecutivo del Estado, quien de entre ellos formulará una terna por cada magistratura vacante, la cual enviará al Congreso del Estado para que designe a un Magistrado con la aprobación de la mayoría de los diputados que integren la legislatura.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-Las ausencias temporales de los Magistrados del Supremo Tribunal de Justicia del Estado y la Sala Administrativa, se suplirán como lo establezca la Ley Orgánica del Poder Judicial del Estado de Aguascalientes.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-Si dentro del término de siete días hábiles de haber sometido la terna para Magistrado a la consideración del Congreso del Estado, éste nada resolviere, el derecho pasará al Ejecutivo del Estado, quien nombrará al Magistrado y lo comunicará al Consejo de la Judicatura Estatal.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-Si dentro del término referido el Congreso del Estado rechaza la terna propuesta por el Ejecutivo del Estado, éste propondrá una nueva terna de entre la cual el Congreso del Estado deberá elegir al Magistrado en un término de cinco días hábiles.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2021)</small>
-
-###### Artículo 55.
-
-Los Juzgados estarán a cargo de los jueces que nombrará el Consejo de la Judicatura Estatal, en número, categoría y especialidad que éste y la Ley Orgánica del Poder Judicial determinen; los aspirantes a ocupar los cargos referidos, deberán cumplir con los requisitos establecidos en el Artículo 53 de esta Constitución, a excepción de la edad y experiencia profesional que se fijarán en la Ley Orgánica del Poder Judicial, debiendo acreditar, además, conocimientos en la materia y cumplir con aquellos que la legislación aplicable exija.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE FEBRERO DE 2021)</small>
-
-El Consejo de la Judicatura Estatal se integrará por siete miembros, y estará conformado de la siguiente manera:
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2021)</small>
-
-I.- El Presidente del Supremo Tribunal de Justicia del Estado que fungirá también como Presidente del Consejo;
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2021)</small>
-
-II.- Un juez nombrado por los jueces en materia Penal y Laboral, electo entre ellos mismos;
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2021)</small>
-
-III.- Un juez nombrado por los jueces en materia Civil, Mercantil, Mixta y Familiar, electo de entre ellos mismos;
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2021)</small>
-
-IV.- Dos representantes nombrados por el Congreso del Estado, los cuales no podrán ser Diputados Propietarios o Suplentes; y
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2021)</small>
-
-V.- Dos representantes nombrados por el Ejecutivo Estatal.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-Los Consejeros deberán reunir los requisitos que la Ley determine y durarán en su encargo tres años, y serán sustituidos en forma escalonada por sextas partes; el Presidente durará el mismo tiempo que dure en su encargo como Presidente del Supremo Tribunal de Justicia.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-El Consejo estará facultado para expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley, así como para coadyuvar en la elaboración del presupuesto de egresos del Poder Judicial del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2021)</small>
-
-###### Artículo 56.
-
-Los Jueces deberán ser nombrados mediante un concurso de oposición, aplicado por el Consejo de la Judicatura Estatal, como se disponga en la Ley Orgánica del Poder Judicial.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado y la Sala Administrativa, durarán en su encargo quince años; sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos. Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa percibirán la remuneración y prestaciones que establezca el Presupuesto de Egresos del ejercicio fiscal correspondiente, las cuales deberán ser iguales para todos los Magistrados.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-Durante los dos años siguientes a la fecha de su retiro, las personas que hayan ocupado el cargo de Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa quedarán impedidos para actuar como patronos, abogados o representantes, en todo tipo de procedimientos tramitados ante los órganos del Poder Judicial del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
-
-Los Jueces, salvo que sean removidos por causa de mala conducta debidamente comprobada, conforme a los lineamientos conducentes del segundo párrafo de este Artículo, durarán diez años en el ejercicio de su encargo al término de los cuales, atendiendo a los procedimientos de evaluación establecidos en la Ley Orgánica del Poder Judicial, podrán ser ratificados o ascendidos en la carrera judicial.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2021)</small>
-
-Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa podrán ser ratificados en los términos que establezca la Ley Orgánica del Poder Judicial del Estado.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia percibirán un haber por retiro al concluir el período para el que fueron designados; los de la Sala Administrativa tendrán el mismo derecho siempre y cuando no continúen con la carrera judicial, lo anterior conforme a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes y el Presupuesto de Egresos respectivo.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa, serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-###### Artículo 57.
-
-Corresponde al Supremo Tribunal de Justicia del Estado:
-
-I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
-
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
-
-II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Fiscal General del Estado, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
-
-III.- Declarar si ha lugar a formación de causa en contra de los jueces, por ilícitos oficiales o del orden común.
-
-IV.- Conocer del nombramiento y remoción de los servidores públicos del Poder Judicial en los términos señalados por los Artículos 55 y 56 de esta Constitución y del Reglamento del Consejo de la Judicatura Estatal.
-
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2016)</small>
-
-V.- Conceder licencia a sus Magistrados en funciones para separarse de sus cargos, en términos de lo previsto en (sic) Ley Orgánica del Poder Judicial del Estado de Aguascalientes;
-
-VI.- Formular su Reglamento Interior y de los Juzgados, los cuales deberán ser sancionados por dicho Consejo.
-
-VII.- Nombrar de entre sus Magistrados a Visitadores de los Juzgados a fin de vigilar permanentemente su buen funcionamiento; y
-
-VIII.- Las demás facultades que le concede esta Constitución y las que establezca la ley que regule su estructura y funcionamiento, así como las que le confieran otros ordenamientos legales aplicables.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-###### Artículo 58.
-
-Los Magistrados, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley, ante el Congreso o la Diputación Permanente.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-CAPÍTULO DECIMOTERCERO
-
-De los Órganos Constitucionales Autónomos
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+Todas las dependencias del Ejecutivo Estatal, en el ejercicio de sus asignaciones presupuestales, se sujetarán estrictamente a los calendarios que les apruebe la Secretaría de Finanzas, la que en su caso y según las disponibilidades podrá autorizar modificaciones a los mismos.
 
 ###### Artículo 58 Bis.
 
@@ -1499,465 +637,123 @@ Artículo 58 F.- Toda persona imputada de un hecho punible, y toda víctima u of
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
-###### Artículo 59.
+###### ARTICULO 59.
 
-El Ministerio Público se organizará en una Fiscalía General del Estado como órgano autónomo con personalidad jurídica y patrimonio propio, misma que ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con apego a los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, responsabilidad, honradez y respeto a los derechos humanos, en los términos que disponga la ley.
+Solamente podrán hacerse pagos con cargos al presupuesto de egresos del año anterior por los conceptos efectivamente devengados en ese ejercicio, siempre que la Secretaría de Finanzas tenga conocimiento oportuno y lo autorice.
 
-El Fiscal General del Estado deberá reunir los mismos requisitos que se requieren para ser Magistrado del Supremo Tribunal de Justicia de acuerdo con el Artículo 53 de esta Constitución.
+###### ARTICULO 60.
 
-El Fiscal General del Estado durará en su cargo seis años y será designado y removido conforme a lo siguiente:
+En casos excepcionales y debidamente justificados, la Secretaría de Finanzas podrá autorizar que se celebren contratos de obra pública, de adquisiciones o de otra índole que rebasen las asignaciones presupuestales aprobadas para el año del ejercicio respectivo, pero en esos casos, los compromisos excedentes no cubiertos quedarán sujetos para los fines de su ejecución o de pago, a la disponibilidad presupuestal de los años subsecuentes.
 
-I.- Treinta días antes de concluir el período para el cual fue designado el Fiscal General del Estado, o en su caso, a partir de su ausencia definitiva, el Congreso del Estado tendrá quince días naturales para integrar una lista de cinco candidatos aprobada por las dos terceras partes de los diputados que integran el Congreso del Estado, misma que enviará al Poder Ejecutivo.
+Esto deberá hacerse mención especial al presentar el proyecto de Presupuesto de Egresos al Congreso del Estado.
 
-II.- Recibida la lista a que se refiere la Fracción anterior, el Poder Ejecutivo formulará una terna y la remitirá al Congreso del Estado en un plazo no mayor a cinco días naturales contados a partir de que haya recibido la lista de candidatos;
+###### ARTICULO 61.
 
-Si el Poder Ejecutivo no recibe la lista en el plazo señalado en la Fracción I, enviará libremente al Congreso del Estado una terna;
+Quedan facultadas la Secretaría de Finanzas y la Contraloría Gubernamental para dictar las normas que deben observar el personal del Poder Ejecutivo que opere gasto público, a efecto de garantizar su correcto ejercicio.
 
-III.- Recibida la terna por el Congreso del Estado, se turnará a la Comisión de Justicia para que, previa comparecencia de las personas propuestas, rinda el informe respectivo y el Pleno designe al Fiscal General del Estado con el voto de las dos terceras partes de los diputados que integran el Congreso. La designación deberá realizarse dentro del plazo de ocho días naturales contados a partir de que el Congreso reciba la terna.
+###### ARTICULO 62.
 
-En caso de que el Poder Ejecutivo no envíe la terna al Congreso del Estado, éste tendrá cinco días para designar al Fiscal General del Estado de entre los candidatos de la lista que señala la Fracción I.
+La Secretaría de Finanzas, dentro del ámbito de su competencia, tendrá a su cargo el registro y control del ejercicio del Presupuesto de Egresos del Estado y en coordinación con la Contraloría Gubernamental podrá verificar que la aplicación de los recursos aprobados se realicen conforme a los programas autorizados.
 
-Si el Congreso del Estado no hace la designación en el plazo establecido, el Poder Ejecutivo, en un término no mayor a cinco días naturales, designará al Fiscal General del Estado de entre los candidatos que integren la lista referida en la Fracción I, o en su caso de la terna respectiva.
+###### ARTICULO 63.
 
-IV.- El Fiscal General del Estado podrá ser removido por el Ejecutivo Estatal por las causas graves que establezcan las Leyes. La remoción podrá ser objetada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado dentro de un plazo de diez días naturales, previo informe que para el efecto emita la Comisión de Justicia, en cuyo caso el Fiscal General del Estado será restituido en el ejercicio de sus funciones. Si el Congreso del Estado no se pronuncia al respecto, se entenderá que no existe objeción a la remoción;
+Quienes ejerzan gasto público en las dependencias del Poder Ejecutivo del Estado, estarán obligados a proporcionar a la Secretaría de Finanzas la información que se les solicite.
 
-V.- En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a período extraordinario para la designación o formulación de objeción a la remoción del Fiscal General del Estado.
+La Contraloría Gubernamental realizará la práctica de visitas para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
 
-VI.- Las ausencias temporales del Fiscal General del Estado serán suplidas en los términos que determine la ley. En caso de ausencia definitiva, quien sea designado únicamente desempeñará el cargo hasta completar el período para el cual fue elegido el anterior Fiscal General del Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-Quien se haya desempeñado como Fiscal General del Estado, no podrá ser reelecto en el cargo.
+###### ARTICULO 64.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+La Contraloría Gubernamental estará facultada para realizar programas de inspección, auditorías y evaluaciones, así como para contratar auditores y asesoría técnica para efectuar revisiones a las dependencias del Ejecutivo, y a las entidades señaladas en las fracciones IV y V del artículo 3 de esta ley, con objeto de verificar la evaluación y el cumplimiento de los programas, así como para proveer lo necesario en los casos de incumplimiento de los mismos.
 
-###### Artículo 60.
+###### ARTICULO 65.
 
-El Ministerio Público estará sujeto a lo siguiente:
+La contabilidad del gasto público se establecerá conforme a los sistemas que apruebe el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, la cual incluirá las cuentas para registrar tanto los activos, pasivos, patrimonio, ingresos, costos y egresos, así como las asignaciones, compromisos y ejercicio correspondiente a los programas y partidas de su propio presupuesto.
 
-I.- La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuáles actuarán bajo la conducción y mando de aquél en el ejercicio de esta función;
+###### ARTICULO 66.
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+La Secretaría de Finanzas deberá:
 
-II.- El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial. El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley;
+I.- Girar instrucciones sobre la forma y términos en que las entidades deban llevar registros presupuestales y contables;
 
-III.- El Ministerio Público procurará que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, pedir la aplicación de las penas e intervenir en todos los negocios que la Ley determine;
+II.- Expedir los catálogos de cuenta que aplicarán las dependencias del Ejecutivo; y
 
-IV.- El Ministerio Público deberá garantizar la protección de las víctimas, ofendidos, testigos y en general de todos los sujetos que intervengan en el proceso. Los jueces deberán vigilar el cumplimiento de esta obligación;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2007)</small>
 
-V.- La Ley establecerá los casos en que proceda la impugnación de las resoluciones del Ministerio Público del Estado, así como las sanciones aplicables a aquellas personas que las interpongan de manera dolosa; y
+III.- Autorizar, en coordinación con la Auditoría Superior del Estado, los catálogos de cuenta de las demás entidades a que se refiere el artículo 3º de esta ley.
 
-VI.- Los agentes del Ministerio Público estarán sujetos a un sistema profesional de carrera en los términos de la normativa que al efecto se expida.
+Los catálogos de cuentas de los Poderes Legislativo y Judicial serán los que estos mismos se aprueben, procurando homologarlos a los del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+###### ARTICULO 67.
 
-###### Artículo 61.
+La contabilidad de las entidades se llevará con base acumulativa para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos y metas en las unidades responsables de su ejecución.
 
-Las instituciones de seguridad públicas serán de carácter civil, disciplinado y profesional. El Ministerio Público, las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública que estará sujeto a las siguientes bases:
+###### ARTICULO 68.
 
-I.- Sus integrantes deberán coordinarse con las instituciones policiales federales, en los términos de la legislación aplicable;
+El sistema de contabilidad se debe diseñar y operar en forma que facilite la fiscalización de los activos, pasivos, ingresos, costos, egresos avances en la ejecución de programas y en general de manera que permita medir la eficiencia del gasto público del Estado, en el momento en que sea requerido.
 
-II.- Los integrantes de las instituciones de seguridad pública estatal estarán sujetos a un sistema de desarrollo policial que comprenderá los esquemas de servicio de carrera, profesionalización, certificación y su régimen disciplinario en los términos de la Ley de la materia;
+###### ARTICULO 69.
 
-III.- Se deberá (sic) integrar y mantener actualizadas permanentemente las bases de datos criminalísticos y del personal de las instituciones de seguridad pública;
+Los fines de la contabilidad gubernamental serán:
 
-IV.- Se garantizará la formulación y ejecución de políticas públicas tendientes a prevenir la comisión de delitos, así como la participación social en los procesos de evaluación de dichas políticas de prevención del delito; y
+I.- Registrar el gasto público;
 
-V.- Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+II.- Proporcionar información sobre la aplicación de los fondos públicos a fin de coadyuvar en la toma de decisiones;
 
-Las autoridades estatales y municipales fortalecerán el sistema se seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes mediante un sistema complementario de seguridad social y de reconocimientos.
+III.- Detectar desviaciones si las hubiere, a efecto de corregirlas o delimitar responsabilidades e informar al órgano de control correspondiente;
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)</small>
+IV.- Servir de información para la evaluación de los programas y para la planeación y programación futura; y
 
-###### Artículo 62.
+V.-Informar al Congreso del Estado el destino y manejo del gasto público, a través de la cuenta pública.
 
-La Comisión Estatal de Derechos Humanos es el órgano garante de la protección de los derechos humanos en el Estado de Aguascalientes; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios; conocerá de las quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público estatal que viole derechos humanos; así mismo, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+###### ARTICULO 70.
 
-Toda autoridad o servidor público estatal tiene la obligación de responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos.
+La Secretaría de Finanzas será la responsable de formular la cuenta pública estatal y someterla a la consideración del Gobernador del Estado, para su presentación al Congreso del Estado, en los términos de las leyes respectivas vigentes.
 
-Cuando dichas recomendaciones no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. La Comisión Estatal de Derechos Humanos podrá solicitar al Congreso del Estado que llame a comparecer a las autoridades o servidores públicos responsables para que expliquen el motivo de su negativa.
+Los organismos del sector paraestatal deberán remitir su cuenta pública a la Secretaría de Finanzas en los términos de la ley de la materia, a efecto de que sea enviada para su revisión al Congreso del Estado.
 
-Este organismo no será competente tratándose de asuntos electorales y jurisdiccionales.
+###### ARTICULO 71.
 
-Para ser electo como titular de la Comisión Estatal de Derechos Humanos se deberá acreditar experiencia y amplios conocimientos en materia de derechos humanos y demás requisitos que señale la Ley.
+La evaluación deberá tender a medir la eficiencia y eficacia del gasto público a fin de apreciar sus efectos antes, durante y después de realizadas las erogaciones, creando y permitiendo la continuidad del proceso presupuestario.
 
-El titular de la Comisión Estatal de Derechos Humanos durará un período de cuatro años y podrá ser reelecto por una sola vez.
+###### ARTICULO 72.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2015)</small>
+La Secretaría de Finanzas establecerá los mecanismos adecuados para evaluar el gasto público del Estado.
 
-La Comisión Estatal de Derechos Humanos contará con un Consejo Consultivo integrado por cinco personas con carácter honorífico. Los consejeros para ser electos, además de los requisitos que establezca la Ley, deberán demostrar conocimiento en diversas materias técnicas, científicas y humanistas, para la resolución de casos en que requieran su pericia. Los consejeros ocuparán el cargo por cuatro años sin posibilidad de reelección en el período inmediato.
+###### ARTICULO 73.
 
-La elección del titular de la Comisión Estatal de Derechos Humanos, así como de los integrantes del Consejo Consultivo, se sujetará a un procedimiento de consulta pública transparente en los siguientes términos:
+En la evaluación del gasto público operativo se considerará el logro de los objetivos, el cumplimiento de las metas establecidas en el Plan Estatal de Desarrollo y sus programas y el análisis de los efectos económicos que originen las inversiones realizadas por las entidades y dependencias del Gobierno del Estado.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+###### ARTICULO 74.
 
-I. El Congreso del Estado expedirá la convocatoria respectiva y recibirá las propuestas de aspirantes que formulen asociaciones civiles que estén legalmente constituidas y cuyo objeto esté vinculado con la difusión y protección de los derechos humanos, así como colegios de profesionistas e instituciones de educación superior en el Estado, en la forma y términos que señale la ley;
+La Secretaría de Finanzas llevará a cabo el seguimiento del ejercicio del gasto público y de las metas que se vayan alcanzando periódicamente en los programas aprobados por el Comité de Planeación para el Desarrollo del Estado de Tamaulipas, así como de la eficiencia en el cumplimiento de los objetivos y metas establecidos en dichos programas, analizará también el impacto del gasto público estatal.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+###### ARTICULO 75.
 
-II. El Congreso del Estado verificará cuáles aspirantes cumplen con los requisitos constitucionales y legales y formulará una lista de candidatos para ocupar la presidencia y otra de candidatos para integrar el Consejo Consultivo. Si el titular del organismo al concluir su primer periodo hace valer su expectativa de derecho a ser reelecto, formará parte de la lista correspondiente;
+La Secretaría de Administración evaluará el ejercicio del gasto, de conformidad con lo dispuesto por los artículos 11, 18 fracción I y 19 fracción III de esta ley.
 
-III. El Congreso del Estado someterá las listas formuladas a una consulta pública, en la forma y términos que determine la ley;
+###### ARTICULO 76.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2015)</small>
+Internamente las entidades y las dependencias del Ejecutivo deberán evaluar en forma permanente sus programas, con objeto de mejorar la eficiencia y eficacia de la utilización de los recursos empleados y controlar los avances y desviaciones, a fin de instrumentar con oportunidad las medidas correctivas que racionalicen la aplicación del gasto.
 
-IV. El Pleno del Congreso del Estado elegirá al titular de este organismo con el voto de las dos terceras partes de los Diputados presentes; y a los miembros del Consejo Consultivo con el voto de la mayoría de los Diputados que integran el Congreso del Estado;
+###### ARTICULO 77.
 
-V. El Congreso del Estado llamará a los electos para que rindan la protesta de ley.
+Para efectos de evaluación del Presupuesto de Egresos, las dependencias y entidades del Ejecutivo, deberán proporcionar a la Secretaría de Finanzas, la información trimestralmente sobre el grado de avance físico y financiero de los programas, así como de las metas realizadas.
 
-La Ley establecerá las bases del servicio profesional en el organismo.
+La información señalada en el párrafo anterior será proporcionada conforme a los lineamientos que para el efecto determine la Secretaría de Finanzas.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+###### ARTICULO 78.
 
-Artículo 62 A.- Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión. El derecho a la información será garantizado por el Estado.
+En los casos en que las dependencias y entidades a que se refiere el artículo anterior, no proporcionen la información solicitada por los medios establecidos, la Secretaría de Finanzas tendrá la facultad de obtener dicha información en los términos del artículo 79 de esta ley, y podrá solicitar la intervención de la Contraloría Gubernamental.
 
-El Instituto de Transparencia del Estado de Aguascalientes es un órgano autónomo, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica y de gestión; responsable de garantizar el cumplimiento del derecho de acceso a la información pública y la protección de los datos personales en posesión de los sujetos obligados conforme a los principios, bases y procedimientos establecidos en el Artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley local de la materia y demás disposiciones aplicables; regirá su funcionamiento de acuerdo a los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
-Toda autoridad y servidor público estará obligado a coadyuvar con el Instituto para el buen desahogo de sus funciones. Para asegurar el cumplimiento de sus determinaciones, el Instituto podrá imponer las medidas de apremio que prevea la ley.
+###### ARTICULO 79.
 
-El Instituto se integrará por tres Comisionados nombrados por el Congreso del Estado privilegiándose la experiencia en materia de acceso a la información pública y protección de datos personales, así como la igualdad de género en su conformación. Los requisitos para ser Comisionado se especificarán en la Ley de la materia.
+La Secretaría de Finanzas está facultada para suspender la asignación de los egresos autorizados a los programas, cuando no se proporcione la información que solicite en los términos del artículo 77 de esta ley o cuando por conducto de la Contraloría Gubernamental se detecten desviaciones en las metas o en el destino del gasto, salvo en el supuesto de los recursos destinados al servicio de la deuda contratada en términos de la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
 
-El Gobernador del Estado podrá objetar los nombramientos de Comisionados conforme a lo previsto en esta Constitución y en la Ley de la materia.
-
-El Congreso del Estado llamará a quien haya sido designado Comisionado para que rinda la protesta de ley.
-
-Los Comisionados durarán en su encargo un período de siete años, sin derecho a reelegirse.
-
-El Comisionado Presidente del Instituto será designado por los propios comisionados mediante mayoría de votos, durará en su encargo tres años pudiendo ser reelecto para un periodo igual, siempre y cuando la duración de su nombramiento lo permita.
-
-El Instituto contará con un Consejo Consultivo cuya conformación, funcionamiento y designación de sus integrantes se regulará en la Ley.
-
-La Ley de la materia y las disposiciones reglamentarias respectivas, establecerán las bases y principios del servicio civil de carrera en el Instituto.
-
-> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOCUARTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
-
-CAPITULO DECIMOQUINTO
-
-De la Hacienda Pública.
-
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
-
-###### Artículo 63.
-
-La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decreta. Su administración estará a cargo del Ejecutivo y de la Secretaría de Finanzas, y de los Poderes Legislativo y Judicial, quienes serán responsables de su manejo en el ámbito de sus competencias.
-
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2007)</small>
-
-###### Artículo 64.
-
-No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por Ley posterior, salvo en el caso de las partidas de pago plurianuales aprobadas por el Congreso, en términos del Artículo 27 fracciones III y XXXIV de esta Constitución.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-###### Artículo 65.
-
-Si al iniciarse un año fiscal no hubiere sido aprobado el presupuesto general correspondiente, se ejercerá la iniciativa presentada por el titular del Poder Ejecutivo o los Ayuntamientos, con carácter de temporal por el lapso que determine la Ley Orgánica del Poder Legislativo del Estado.
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2011)</small>
-
-El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley; en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la Ley que estableció el empleo. En todo caso, dicho señalamiento deberá respetar las bases previstas en el Artículo 70 de esta Constitución y en las leyes que en la materia expida el Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 2007)</small>
-
-Tratándose de las partidas plurianuales aprobadas por el Congreso en términos de las Fracciones III y XXXIV del Artículo 27 de esta Constitución, éstas se ejercerán de acuerdo a lo establecido en el Decreto correspondiente, expedido por el Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
-
-Los servidores públicos del Estado de Aguascalientes y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
-
-Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
-
-I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
-
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente y este a su vez no podrá percibir un ingreso mayor al del Presidente de la República en términos de lo establecido en el Artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
-
-III. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado (sic) así lo requieran.
-
-IV. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
-
-V. El Congreso del Estado expedirá las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este Artículo.
-
-> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOQUINTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
-
-CAPITULO DECIMOSEXTO
-
-Del Municipio.
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
-
-###### Artículo 66.
-
-El Municipio es la institución jurídica política y social de carácter público, con autoridades propias funciones específicas y con libre administración de su hacienda con personalidad jurídica y patrimonio propios, cuya finalidad consiste en organizar a una comunidad en la gestión de sus intereses, proteger y fomentar los valores de la convivencia local y prestar los servicios básicos que ésta requiera. Asimismo tiene la potestad para normar directa y libremente las materias de su competencia.
-
-El Municipio es libre en su régimen interior, será gobernado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-Los Ayuntamientos se integrarán por un Presidente Municipal, Regidores y Síndicos que serán electos por el sistema de mayoría relativa y residirán en las cabeceras de los Municipios; además se elegirán regidores de representación proporcional que serán asignados a los partidos políticos, entre los cuales no debe figurar el que haya obtenido mayoría de votos, de acuerdo al procedimiento establecido en la Ley.
-
-El Presidente Municipal presidirá el Ayuntamiento y representará a éste y al Municipio política y administrativamente.
-
-Los Regidores de mayoría relativa y los de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
-
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
-
-Cada Municipio será gobernado por un Ayuntamiento integrado por representantes electos por los principios de mayoría relativa y de representación proporcional, de la siguiente manera:
-
-I. Se elegirán bajo el principio de mayoría relativa:
-
-a) Un Presidente Municipal;
-
-b) Siete regidores y dos síndicos para el Municipio de Aguascalientes;
-
-c) Cuatro regidores y un Síndico para los municipios que tengan más de treinta mil habitantes, un año antes del día de la elección; y
-
-d) Tres regidores y un síndico para cada uno de los demás municipios.
-
-II. Se elegirán por el principio de representación proporcional:
-
-a) Siete regidores para el Municipio de Aguascalientes;
-
-b) Cuatro regidores para los municipios que tengan más de treinta mil habitantes, un año antes del día de la elección; y
-
-c) Tres regidores para cada uno de los demás municipios.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-Los Ayuntamientos se renovarán en su totalidad cada tres años, salvo el caso de que sean elegidos para un período más, e iniciarán sus funciones el quince de octubre del año de la elección. Se elegirá un suplente por el Presidente Municipal y por cada Regidor y Síndico para que cubra las faltas temporales o absolutas del propietario correspondiente, serán cubiertas conforme a lo dispuesto por la Ley que en materia municipal emita el Congreso del Estado.
-
-El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
-
-En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura del Estado designará, entre los vecinos, a los consejos municipales que concluirán los períodos respectivos; estos concejos estarán integrados por el número de miembros que determine la Ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores.
-
-Para ser Presidente Municipal, Regidor o Síndico de un Ayuntamiento se requiere:
-
-I.- Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos.
-
-II.- Tener 18 años cumplidos el día de la elección; y
-
-III.- Ser originario del Municipio o tener una residencia en él no menor de dos años, inmediatamente anteriores al día de la elección.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-No pueden ser electos Presidente Municipal, Regidor o Síndico:
-
-I. Las personas que desempeñen cargos públicos de elección popular, sean de la Federación o del Estado;
-
-II. Los Magistrados, tanto del Supremo Tribunal de Justicia, como de la Sala Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
-
-III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya caudado (sic) estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
-
-IV. Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto.
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
-
-Los ciudadanos comprendidos en las Fracciones I y II del párrafo anterior, podrán ser electos Presidente Municipal, Regidor o Síndico, si se separan de sus cargos o empleos noventa días antes de la elección, salvo que esta Constitución establezca otro termino.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-###### Artículo 67.
-
-Los Municipios gozan de personalidad jurídica para todos los efectos legales. En asuntos jurisdiccionales, serán representados por los Síndicos o por aquellos que se designen de conformidad con lo que establezca la Ley que en materia municipal emita el Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
-
-###### Artículo 68.
-
-Los Ayuntamientos tendrán facultades para aprobar, de acuerdo con las Leyes Estatales, los Bandos de Policía y Gobierno, los Reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia; y aseguren la participación ciudadana y vecinal.
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2009)</small>
-
-Para cualquier tipo de concesión de los servicios públicos municipales considerados como áreas estratégicas, los Ayuntamientos deberán recabar, la autorización del Congreso del Estado, para lo cual, se requerirá la aprobación de las dos terceras partes de sus integrantes.
-
-El objeto de las Leyes de competencia municipal, será establecer:
-
-I.- Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
-
-II.- Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento.
-
-III.- Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del Artículo 115, como el segundo párrafo de la fracción VII del Artículo 116, de la Constitución Política de los Estados Unidos Mexicanos.
-
-IV.- El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la Legislatura Estatal considere que el Municipio de que se trate esté imposibilitado para ejercerlo o prestarlo; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
-
-V.- Las disposiciones aplicables en los Municipios que no cuenten con los Bandos o Reglamentos correspondientes.
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
-
-###### Artículo 69.
-
-Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
-
-I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
-
-II.- Alumbrado público.
-
-III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos.
-
-IV.- Mercados y centrales de abasto.
-
-V.- Panteones.
-
-VI.- Rastro.
-
-VII.- Calles, parques, jardines y su equipamiento.
-
-VIII.- Seguridad pública, en los términos del Artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito; y
-
-IX.- Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de cada Municipio, así como su capacidad administrativa y financiera.
-
-Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los Municipios observarán lo dispuesto por las Leyes Federales y Estatales.
-
-Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de Municipios del Estado con uno o más Municipios de otra u otras Entidades Federativas, deberán contar con la aprobación del Congreso.
-
-Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Gobierno del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2020)</small>
-
-Los Municipios se regirán por el principio de Gobierno Abierto, por lo cual tienen la obligación de ejercer una administración pública transparente, favorecer la participación ciudadana y vecinal y la rendición de cuentas con carácter receptivo, eficaz y eficiente, de tal manera que garantice a toda persona el derecho a recibir los servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad y calidad. Las Autoridades conformarán un sistema de índices de calidad de los servicios públicos, basado en criterios técnicos y acorde a dichos principios.
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
-
-###### Artículo 70.
-
-Los Municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor, y en todo caso:
-
-I.- Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
-
-Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
-
-II.- Las participaciones federales que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado.
-
-III.- Los ingresos derivados de la prestación de servicios públicos a su cargo.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
-
-El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base a sus ingresos disponibles y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los presidentes municipales, síndicos, regidores y los demás servidores públicos municipales, sujetándose a lo dispuesto en el artículo 65 de esta Constitución. Asimismo, las asignaciones para el desempeño de la función deberán sujetarse a los criterios de racionalidad, austeridad y disciplina presupuestaria.
-
-Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos, o bien por quien ellos autoricen, conforme a la Ley.
-
-Las Leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III, a favor de personas físicas o morales ni de instituciones oficiales o privadas. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-Los Municipios, con la aprobación de las dos terceras partes de los integrantes del Ayuntamiento, podrán realizar Proyectos de Prestación de Servicios que tengan por objeto crear infraestructura pública, debiendo solicitar al Congreso la autorización, así como de las partidas plurianuales a incluirse en el Presupuesto de Egresos con cargo a las cuales se harán los pagos plurianuales, las cantidades máximas a pagar anualmente, el plazo de duración del proyecto, en su caso la afectación patrimonial, y el otorgamiento de garantías requeridas para cubrir los gastos correspondientes a las obligaciones contraídas, de conformidad a lo establecido en la Fracción XXXIV del Artículo 27 de esta Constitución y las disposiciones de la Ley de la materia.
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
-
-###### Artículo 71.
-
-Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para:
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2021)</small>
-
-I.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial.
-
-II.- Participar en la creación y administración de sus reservas territoriales.
-
-III.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional deberán asegurar la participación de los Municipios.
-
-IV.- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales.
-
-V.- Intervenir en la regularización de la tenencia de la tierra urbana.
-
-VI.- Otorgar licencias y permisos para construcciones.
-
-VII.- Participar en la creación y administración de zonas de reservas ecológicas, y en la elaboración y aplicación de programas de ordenamiento en esta materia.
-
-VIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial.
-
-IX.- Celebrar convenios para la administración y custodia de las zonas federales.
-
-En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
-
-X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y someterlas a la aprobación del Congreso, para que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria; y
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
-
-XI.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la Ley del Sistema Estatal de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos en que éste juzgue como de fuerza mayor o alteración grave del orden público y cuando así se disponga en los convenios o en las normas correspondientes.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-###### Artículo 72.
-
-Se establece la elección consecutiva para el mismo cargo de presidentes municipales, regidores y síndicos, por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
-
-> <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOSEXTO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
-
-CAPITULO DECIMOSEPTIMO
-
-De la Responsabilidad de los Servidores Públicos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-###### Artículo 73.
-
-Para los efectos de las responsabilidades a que alude este Capítulo se reputarán como servidores públicos a los representantes de elección popular, a los integrantes del Poder Judicial y a sus funcionarios y empleados, así como a los Consejeros Electorales que integran el Consejo General del Instituto Estatal Electoral y el personal que labore para el mismo, a los Comisionados del Instituto de Transparencia del Estado y al personal de éste, y en general a quien desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, así como en los Organismos Descentralizados, Empresas de Participación Estatal o Municipal Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y de Fideicomisos Públicos y a los órganos u organismos autónomos quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
-
-Todos los servidores públicos son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las leyes federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios, de los delitos del orden común que cometan durante el tiempo de su encargo, así como en actividades administrativas irregulares, en que incurran en el ejercicio de sus cargos, y estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de intereses y fiscal ante las autoridades competentes, en los términos que determine la ley.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
-
-La Ley de Responsabilidades de los Servidores Públicos del Estado determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones, las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, además de las que señalen las leyes.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
-
-La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
-
-###### Artículo 74.
-
-Serán sujetos de responsabilidad política los servidores públicos que en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, así como, violaciones a la Constitución Política de los Estados Unidos Mexicanos, a las Leyes Federales, a esta Constitución y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios.
-
-No procede el juicio político por el sólo hecho de la manifestación de ideas.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-Serán sujetos de Juicio Político el Gobernador, los Diputados a la Legislatura Local, los Magistrados del Poder Judicial, los miembros del Consejo de la Judicatura del Poder Judicial, los Titulares de las Dependencias del Poder Ejecutivo, el Fiscal General del Estado, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes, los titulares de los organismos públicos descentralizados, los titulares de los organismos autónomos y los directores generales de las empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
-
-Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
-
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso del Estado por conductas que impliquen una responsabilidad política de los sujetos a que se refiere este artículo, y previo trámite que señale la Ley de Responsabilidades de los Servidores Públicos, el Congreso por el voto de las dos terceras partes de sus miembros determinará si es culpable, en cuyo caso será destituido del cargo e inhabilitado para desempeñar una función, cargo o comisión dentro del servicio público.
-
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
-
-###### Artículo 75.
-
-Serán sujetos de responsabilidad penal los servidores públicos que tengan fuero y cometan hechos delictivos del orden común en los términos de la normatividad penal, durante el tiempo de su encargo y, por el enriquecimiento ilícito por sí o por interpósita persona que aumente sustancialmente su patrimonio, adquiera bienes o se conduzcan como dueños sobre ellos, cuya procedencia licita no pudiesen justificar.
-
-Para proceder penalmente en contra de los Diputados Locales, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo de la Judicatura, del Poder Judicial, el Secretario General de Gobierno, el Fiscal General del Estado, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos, así como el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de los diputados, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará automáticamente separado de su cargo y sujeto a la acción de los tribunales comunes.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
-
-###### Artículo 76.
-
-El Gobernador del Estado, durante el tiempo de su encargo sólo podrá ser acusado por violaciones a esta Constitución y delitos graves del orden común, además será responsable en los términos del Artículo 110, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, conforme al procedimiento establecido en el mismo.
-
-Para proceder penalmente en contra de los jueces del Poder Judicial, se requiere declaratoria del Pleno del Supremo Tribunal de Justicia que dé ha lugar a formación de causa.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
-
-###### Artículo 77.
-
-Las resoluciones del Congreso del Estado en materia de responsabilidad política y penal son inatacables.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
-
-###### Artículo 78.
-
-La declaración de haber lugar a formación de causa se requiere, en cuanto a los servidores públicos de elección popular, desde la fecha en que sean electos, y respecto a los demás, desde que entren en ejercicio de sus cargos, aún por delitos cometidos con anterioridad.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
-
-###### Artículo 79.
-
-Los sujetos de responsabilidad penal a que se refiere el Artículo 75 de este ordenamiento y que se encuentren separados de su cargo no gozarán del fuero constitucional.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2010)</small>
+T R A N S I T O R I O S
 
 ###### Artículo 80.
 
@@ -2403,65 +1199,27 @@ P.O. 17 DE ABRIL DE 1977.
 
 ###### ARTICULO TERCERO.
 
-El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+Las disposiciones reglamentarias y las prácticas administrativas en uso a la fecha de entrada en vigor de la presente ley seguirán teniendo aplicación en lo que no se les oponga.
 
-P.O. 18 DE JUNIO DE 1978.
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.-Cd. Victoria, Tam., a 12 de Diciembre del Año 2001.- Diputado Presidente LIC. REYNALDO JAVIER GARZA ELIZONDO.- Rúbrica.- Diputado Secretario MAURO PATRICIO LONGORIA MARTINEZ.- Rúbrica.- Diputado Secretario C. UBALDO GUZMAN QUINTERO.- Rúbrica.
 
-UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-P.O. 3 DE FEBRERO DE 1980.
+Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los trece días del mes de diciembre de año dos mil uno.-
 
-UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO ENCARGADO DEL DESPACHO POR MINISTERIO DE LEY.- BLADIMIR MARTINEZ RUIZ.- Rúbrica.
 
-P.O. 10 DE ENERO DE 1982.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
-P.O. 25 DE SEPTIEMBRE DE 1983.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
-P.O. 9 DE OCTUBRE DE 1983.
-
-PRIMERO.- La H. LII Legislatura del Estado ejercerá su encargo del 16 de septiembre de 1983, al 31 de octubre de 1986.
-
-SEGUNDO.- Dentro del término de un año contado a partir de la iniciación de vigencia del presente Decreto, deberán reformarse las leyes secundarias que provean al exacto cumplimiento de este Decreto.
-
-P.O. 29 DE ENERO DE 1984.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
-P.O. 2 DE JUNIO DE 1985.
-
-DECRETO NÚMERO 54, QUE REFORMA EL ARTÍCULO 68 FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
-P.O. 2 DE JUNIO DE 1985.
-
-DECRETO NÚMERO 55, QUE REFORMA EL ARTÍCULO 52 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
-
-Unico.- El Supremo Tribunal de Justicia, sin perjuicio de lo dispuesto en el Artículo 30, Fracciones I y II de la Constitución Política del Estado, deberá promover dentro del plazo de nueve meses contados a partir de la vigencia del presente Decreto, la reforma de la Ley Orgánica del Poder Judicial en la parte conducente para proveer al exacto cumplimiento del presente Decreto. Mientras transcurre dicho plazo el Supremo Tribunal de Justicia acordará sobre la forma de su funcionamiento.
-
-P.O. 16 DE JULIO DE 1989.
+P.O. 2 DE OCTUBRE DE 2002
 
 ###### ARTICULO PRIMERO.
 
-Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y serán dadas a conocer mediante Bando Solemne simultáneamente en todas las Cabeceras Municipales del Estado.
+La presente Ley entrará en vigor el día 1° de enero del año 2002.
 
 ###### ARTICULO SEGUNDO.
 
-El ejercicio constitucional de la H. LIII Legislatura del Estado, concluirá al instalarse legalmente la H. LIV Legislatura.
-
-P.O. 11 DE MARZO DE 1990.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
-P.O. 26 DE AGOSTO DE 1990.
-
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
-
-P.O. 24 DE FEBRERO DE 1991.
+Se derogan todas las disposiciones que se opongan a lo dispuesto por la presente ley.
 
 ###### ARTICULO PRIMERO.
 
@@ -2573,9 +1331,9 @@ P.O. 20 DE AGOSTO DE 1995.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 27 DE SEPTIEMBRE DE 1995.
+P.O. 20 DE JUNIO DE 2006.
 
 ###### ARTICULO PRIMERO.
 
@@ -2589,9 +1347,9 @@ P.O. 26 DE NOVIEMBRE DE 1995.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
 
-P.O. 22 DE FEBRERO DE 1997.
+P.O. 27 DE DICIEMBRE DE 2007.
 
 ###### ARTICULO PRIMERO.
 
@@ -2695,61 +1453,29 @@ DECRETO NÚMERO 88, QUE REFORMA EL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DE
 
 ###### ARTICULO UNICO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 28 DE ABRIL DE 2003.
+P.O. 30 DE ABRIL DE 2009.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 21 DE JULIO DE 2003.
-
-DECRETO NÚMERO 99, QUE MODIFICA EL NOMBRE DEL CAPITULO XVI Y ADICIONA EL ARTICULO 73 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
-
-PRIMERO.- El presente Decreto entrará en vigor el 31 de diciembre del 2003.
-
-SEGUNDO.- El Estado y los Municipios contarán con el período comprendido entre la publicación del presente Decreto y su entrada en vigor, para proveer el debido cumplimiento del mismo, así como para incluir en sus respectivos presupuestos, una partida para hacer frente a su responsabilidad patrimonial.
-
-La aprobación de la reforma constitucional implicará necesariamente la adecuación a las disposiciones jurídicas secundarias estatales, conforme a los criterios siguientes:
-
-a) El pago de la indemnización se efectuaría después de seguir los procedimientos para determinar que al particular efectivamente le corresponde dicha indemnización; y
-
-b) El pago de la indemnización estará sujeto a la disponibilidad presupuestal.
-
-P.O. 21 DE JULIO DE 2003.
-
-DECRETO NÚMERO 101 QUE REFORMA LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 32 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.
-
-UNICO.- El presente Decreto entrará en vigencia el día primero de enero del año 2004.
-
-P.O. 25 DE AGOSTO DE 2003.
-
-PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- La aprobación de la reforma constitucional implicará necesariamente la adecuación a la Ley Orgánica del Poder Judicial del Estado.
-
-P.O. 29 DE SEPTIEMBRE DE 2003.
-
-UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 21 DE MARZO DE 2005.
+DECRETO No. LX-565, POR EL QUE SE REFORMA EL ARTICULO 18 DE LA LEY DE GASTO PUBLICO DEL ESTADO.
 
 ###### ARTICULO UNICO.
 
-El presente decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 4 DE ABRIL DE 2005.
+P.O. 30 DE ABRIL DE 2009.
+
+DECRETO No. LX-566, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 51 DE LA LEY DE GASTO PUBLICO DEL ESTADO.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 28 DE MAYO DE 2007.
+P.O. 20 DE ENERO DE 2010.
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE NOVIEMBRE DE 2008.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
