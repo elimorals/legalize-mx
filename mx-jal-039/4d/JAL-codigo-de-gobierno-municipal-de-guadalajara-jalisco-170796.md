@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-05-31"
+last_updated: "2022-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 31 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 18 DE JULIO DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -4695,7 +4695,9 @@ XV. Asegurarse de que en todo momento se mantengan activos los canales de recepc
 
 XVI. Orientar y concientizar a la ciudadanía sobre la importancia de generar solicitudes de servicios sobre asuntos que sean responsabilidad del Municipio.
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Evaluación y Seguimiento, Planeación Institucional, Atención Ciudadana, Gestión de Coordinación Metropolitana, de Creación y Revisión de Contenidos, de Mejora Regulatoria, y de Servicios Médicos Municipales.
+> <small>(REFORMADO, G.M. 18 DE JULIO DE 2022)</small>
+
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Evaluación y Seguimiento, Planeación Institucional, Atención Ciudadana, Gestión de Coordinación Metropolitana, de Creación y Revisión de Contenidos, y de Mejora Regulatoria.
 
 Se encuentra sectorizado a la Jefatura de Gabinete el Organismo Público Descentralizado de la Administración Pública Municipal denominado Sistema para el Desarrollo Integral de la Familia de Guadalajara.
 
@@ -4831,37 +4833,13 @@ IV. Diseñar y coordinar el proceso de revisión y aprobación de contenidos; y
 
 V. Monitorear y medir regularmente los contenidos, y proponer recomendaciones para mejorar el rendimiento.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 18 DE JULIO DE 2022)</small>
 
 #### Sección Sexta. Dirección de Servicios Médicos Municipales
 
-> <small>(ADICIONADO, G.M. 1 DE OCTUBRE DE 2021)</small>
-
 ###### Artículo 210 Octies.
 
-La Dirección de Servicios Médicos Municipales, tiene las siguientes atribuciones:
-
-I. Participar en la construcción del modelo metropolitano, con énfasis en la educación para la salud, la prevención y el autocuidado, con las dependencias competentes;
-
-II. Ser eje rector en la colaboración, coordinación y operación con las dependencias correspondientes para planear, asesorar y dirigir los programas que se instrumenten en el Municipio en materia de salud;
-
-III. Mejorar la cobertura de servicio prehospitalario y urgencias médicas quirúrgicas;
-
-IV. Colaborar en la promoción de programas de activación física y servicios de salud en lugares públicos, para impulsar la medicina preventiva y estilos de vida sana, en coordinación con las dependencias competentes;
-
-V. Operar un sistema sanitario de atención, con vinculación y coordinación funcional de todas las instituciones del sector salud que actúan en el Municipio;
-
-VI. Proponer las acciones de mejora del sistema de salud, basado en las necesidades de la ciudadanía;
-
-VII. Implementar los protocolos de intervención específica para los padecimientos de alta prevalencia;
-
-VIII. Colaborar en coordinación con las dependencias competentes en la implementación de medidas para el saneamiento y preservación de los entornos habitacionales, escolares y laborales, favoreciendo en la generación de entornos saludables para las personas;
-
-IX. Autorizar, apoyar y evaluar el desarrollo y cumplimiento de los programas de enseñanza, educación continua y adiestramiento en el servicio de salud;
-
-X. Coadyuvar y asesorar a las dependencias y entidades de la administración pública municipal para que las oficinas y edificios públicos del Municipio obtengan la certificación como entornos favorables a la salud, así como para que conserven dicha certificación; y
-
-XI. Asesorar y colaborar, en coordinación con la dependencia municipal de Protección Civil, a la Administración pública en la implementación y operación de sus respectivas Comisiones de Seguridad e Higiene.
+(DEROGADO, G.M. 18 DE JULIO DE 2022)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -5295,9 +5273,9 @@ Asimismo, para la consecución de sus fines, debe coordinarse con las demás ins
 
 La Coordinación General de Construcción de Comunidad, es la instancia integradora de las áreas destinadas al diseño y ejecución de estrategias para la formación ciudadana, la construcción de comunidades y el fortalecimiento del tejido social; encargada de fomentar la participación de la población en el diseño y gestión de la ciudad. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
-> <small>(REFORMADO, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, G.M. 18 DE JULIO DE 2022)</small>
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Cultura, Educación, Protección Animal, Centros Colmena, Capacitación y Oferta Educativa, y de Apoyo a la Niñez.
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Cultura, Educación, Protección Animal, Centros Colmena, Capacitación y Oferta Educativa, de Apoyo a la Niñez, y de Servicios Médicos Municipales.
 
 Asimismo, para la consecución de sus fines, debe coordinarse con las demás instancias de gobierno y de la sociedad.
 
@@ -5572,6 +5550,40 @@ VI. Impulsar proyectos y programas que mejoren las condiciones de los entornos r
 VII. Impulsar que los espacios públicos del municipio cuenten con las condiciones necesarias que estimulen su uso y disfrute por parte niñas, niños y adolescentes; y
 
 VIII. Promover que los programas y proyectos municipales incorporen el principio de igualdad sustantiva entre niñas y niños.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 18 DE JULIO DE 2022)</small>
+
+Subsección X
+
+Dirección de Servicios Médicos Municipales
+
+> <small>(ADICIONADO, G.M. 18 DE JULIO DE 2022)</small>
+
+###### Artículo 225 Quinquies.
+
+La Dirección de Servicios Médicos Municipales, tiene las siguientes atribuciones:
+
+I. Participar en la construcción del modelo metropolitano, con énfasis en la educación para la salud, la prevención y el autocuidado, con las dependencias competentes;
+
+II. Ser eje rector en la colaboración, coordinación y operación con las dependencias correspondientes para planear, asesorar y dirigir los programas que se instrumenten en el Municipio en materia de salud;
+
+III. Mejorar la cobertura de servicio prehospitalario y urgencias médicas quirúrgicas;
+
+IV. Colaborar en la promoción de programas de activación física y servicios de salud en lugares públicos, para impulsar la medicina preventiva y estilos de vida sana, en coordinación con las dependencias competentes;
+
+V. Operar un sistema sanitario de atención, con vinculación y coordinación funcional de todas las instituciones del sector salud que actúan en el Municipio;
+
+VI. Proponer las acciones de mejora del sistema de salud, basado en las necesidades de la ciudadanía;
+
+VII. Implementar los protocolos de intervención específica para los padecimientos de alta prevalencia;
+
+VIII. Colaborar en coordinación con las dependencias competentes en la implementación de medidas para el saneamiento y preservación de los entornos habitacionales, escolares y laborales, favoreciendo en la generación de entornos saludables para las personas;
+
+IX. Autorizar, apoyar y evaluar el desarrollo y cumplimiento de los programas de enseñanza, educación continua y adiestramiento en el servicio de salud;
+
+X. Coadyuvar y asesorar a las dependencias y entidades de la administración pública municipal para que las oficinas y edificios públicos del Municipio obtengan la certificación como entornos favorables a la salud, así como para que conserven dicha certificación; y
+
+XI. Asesorar y colaborar, en coordinación con la dependencia municipal de Protección Civil, a la Administración pública en la implementación y operación de sus respectivas Comisiones de Seguridad e Higiene.
 
 > <small>(REFORMADA DENOMINACIÓN, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -8002,3 +8014,13 @@ Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación 
 Tercero. Por única ocasión, se instruye a la Coordinación General de Combate a la Desigualdad para que en un plazo no mayor a 30 días hábiles siguientes a la publicación del presente ordenamiento en la Gaceta Municipal de Guadalajara, realice la convocatoria para elegir a la persona titular de la Dirección de Diversidad Sexual.
 
 Cuarto. Una vez publicadas las presentes disposiciones, remítanse mediante oficio un tanto al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las aludidas reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
