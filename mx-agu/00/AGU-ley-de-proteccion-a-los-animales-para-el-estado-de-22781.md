@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2022-06-20"
+last_updated: "2022-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -933,9 +933,11 @@ En los procedimientos de control y supervisión en empresas o cualquier establec
 
 ### CAPITULO VIII. De las Prohibiciones y Obligaciones
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 41.
 
-El propietario, poseedor o encargado de animales será responsable de éstos y de los daños y perjuicios que ocasione. Las indemnizaciones correspondientes serán exigidas mediante el procedimiento que señalen las leyes aplicables, sin perjuicio de las sanciones que correspondan conforme a esta Ley.
+El propietario, poseedor o encargado de animales será responsable de éstos y de los daños y perjuicios que ocasionen, aún y cuando el animal haya sido abandonado. Las indemnizaciones correspondientes serán exigidas mediante el procedimiento que señalen las leyes aplicables, sin perjuicio de las sanciones que correspondan conforme a ésta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2016)</small>
 
@@ -1688,3 +1690,11 @@ P.O. 20 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 154.- SE REFORMA EL ARTÍCULO 41 DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
