@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2022-06-13"
+last_updated: "2022-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -505,9 +505,9 @@ Para ser Diputado se requiere:
 
 I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
 
-II.- Tener veintiún años cumplidos el día de la elección;
+II.- Tener dieciocho años cumplidos el día de la elección;
 
 > <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
 
@@ -3568,3 +3568,11 @@ Una vez cubiertos los extremos legales que establece el Artículo 94 de la Const
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 118.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO)”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
