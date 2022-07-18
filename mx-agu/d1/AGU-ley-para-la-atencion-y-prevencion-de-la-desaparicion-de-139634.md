@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-139634"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2019-12-30"
+last_updated: "2022-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de diciembre de 2019.
 
@@ -281,9 +281,23 @@ Todas las autoridades, en el ámbito de sus competencias, están obligadas a col
 
 La Comisión deberá de coordinarse con la Comisión Nacional de Búsqueda y las demás autoridades involucradas conforme a sus correspondientes facultades y competencias.
 
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 23.
 
-La Comisión estará a cargo de una persona titular a quien se denominará Comisionado de la Comisión Estatal de Búsqueda del Estado de Aguascalientes, quien será nombrado y removido por el Gobernador a propuesta del Secretario General de Gobierno.
+La Comisión estará a cargo de una persona titular a quien se denominará Comisionado de la Comisión Estatal de Búsqueda del Estado de Aguascalientes, quien será nombrado y removido por la persona titular del Poder Ejecutivo a propuesta de la Secretaria General de Gobierno. En este nombramiento debe garantizarse el respeto a los principios que prevé esta Ley, especialmente los de enfoque transversal de género, diferencial y de no discriminación.
+
+Para el nombramiento, la Secretaría General de Gobierno realizará una consulta pública previa a los colectivos de víctimas, personas expertas y organizaciones de la sociedad civil especializadas en la materia.
+
+Para la consulta pública a la que se hace referencia en el párrafo anterior, la Secretaría General de Gobierno deberá observar, como mínimo, las siguientes bases:
+
+I. Generar un mecanismo a través del cual la sociedad civil presente a las y los candidatos;
+
+II. Publicar toda la información disponible sobre el perfil de las y los candidatos registrados;
+
+III. Entre las y los candidatos registrados a ocupar el cargo, se seleccionarán tres perfiles idóneos, los cuales serán propuestos por la Secretaría General de Gobierno, a la persona Titular del Poder Ejecutivo quien realizara la elección de uno de los perfiles; y
+
+IV. Hacer público el nombramiento sobre la persona titular de la Comisión, acompañada de una exposición fundada y motivada sobre la idoneidad del perfil elegido.
 
 ###### ARTÍCULO 24.
 
@@ -808,3 +822,13 @@ ERICA PALOMINO BERNAL
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 26 de diciembre de 2019.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 157.- SE REFORMA EL ARTÍCULO 23 DE LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
