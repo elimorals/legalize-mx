@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2021-05-14"
+last_updated: "2022-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -3169,7 +3169,9 @@ Cuando la iniciativa no cumpla con los requisitos señalados en las fracciones I
 
 La iniciativa popular atenderá el siguiente procedimiento:
 
-I. El Presidente de la Mesa Directiva, dará cuenta de ella y solicitará de inmediato al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, la verificación de que haya sido suscrita en un número equivalente, a por lo menos el 0.2% de los ciudadanos inscritos en el padrón electoral del Estado de Guerrero, dentro de un plazo no mayor a treinta días naturales contados a partir de la recepción del expediente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JULIO DE 2022)</small>
+
+I.- El Presidente de la Mesa Directiva, dará cuenta de ella y solicitará de inmediato al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, la verificación de que haya sido suscrita en un número equivalente, a por lo menos el 0.2%, de la lista nominal de electores vigente en el Estado de Guerrero, dentro de un plazo no mayor a treinta días naturales contados a partir de la recepción del expediente.
 
 El Instituto, dentro del plazo a que se refiere el párrafo anterior, verificará que los nombres de quienes hayan suscrito la iniciativa ciudadana, aparezcan en la lista nominal de electores correspondiente al Estado de Guerrero y que la suma corresponda en un número equivalente, a cuando menos el 0.2 % de la lista nominal de electores.
 
@@ -4239,6 +4241,12 @@ Si se tratara de la sesión solemne en la que el Gobernador del Estado deba rend
 
 En el momento de rendir protesta el Gobernador del Estado, los Diputados, incluyendo al Presidente de la Mesa Directiva y demás asistentes a la sesión, deberán estar de pie.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2022)</small>
+
+ARTÍCULO 349 BIS. Una vez realizada la toma de Protesta de la persona que asuma la titularidad del Poder Ejecutivo, deberá emitir un pronunciamiento donde establecerá las posturas ideológicas, políticas y administrativas, que conducirán el ejercicio gubernamental en el periodo de su mandato.
+
+Posteriormente, las Representaciones y Grupos Parlamentarios que integren la Legislatura, deberán fijar postura respecto a la conducción ideológica, política y administrativa del Poder Ejecutivo en el periodo gubernamental de que se trate.
+
 ###### ARTÍCULO 350.
 
 Se designará una Comisión de Cortesía, para introducir al recinto y acompañar posteriormente a su lugar o fuera del mismo, a las personas en los supuestos que a continuación se mencionan:
@@ -4728,3 +4736,19 @@ PRIMERO.- La reforma a la Ley Orgánica del Poder Legislativo del Estado de Guer
 SEGUNDO.- La reforma a la Ley Orgánica de la Administración Pública del Estado de Guerrero, Número 08, contenida en este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento y efectos conducentes.
+
+P.O. 19 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUMERO 212 POR EL QUE SE ADICIONA EL ARTICULO 349 BIS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 231".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso del Estado de Guerrero.
+
+SEGUNDO. Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales en internet.
+
+P.O. 19 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 214 POR EL QUE SE APRUEBA LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 238 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NUMERO 231”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Publíquese en el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales en internet.
