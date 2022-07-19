@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-07-01"
+last_updated: "2022-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2022.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -2493,49 +2493,45 @@ XV. Por reposición de la tarjeta de circulación y por el trámite de la solici
 
 XVI. Por la expedición de permiso provisional de circulación para el servicio particular, seis veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JULIO DE 2022)</small>
 
-XVII. Por la expedición de licencia de conducir para:
+XVII.- Por la expedición o reposición de licencia de conducir para:
 
 > <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 1.- Chofer particular:
 
-a).- Vigencia de 2 años, diez veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
 
-b).- Vigencia de 3 años, quince veces el valor diario de la Unidad de Medida y Actualización; y
+a).- Vigencia Permanente, quince veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+b).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
-c).- Vigencia de 5 años, veinticinco veces el valor diario de la Unidad de Medida y Actualización.
+c).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 2.- Automovilista:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
 
-a).- Vigencia de 2 años, ocho veces el valor diario de la Unidad de Medida y Actualización;
+a).- Vigencia Permanente, doce veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+b).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
-b).- Vigencia de 3 años, doce veces el valor diario de la Unidad de Medida y Actualización; y
+c).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-c).- Vigencia de 5 años, veinte veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 3.- Motociclista:
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
 
-a).- Vigencia de 2 años, ocho veces el valor diario de la Unidad de Medida y Actualización;
+a).- Vigencia Permanente, doce veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+b).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
-b).- Vigencia de 3 años, doce veces el valor diario de la Unidad de Medida y Actualización; y
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-c).- Vigencia de 5 años, veinte veces el valor diario de la Unidad de Medida y Actualización.
+c).- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -4308,3 +4304,11 @@ SEGUNDO. En un plazo de 30 días, la Fiscalía General de Justicia del Estado, d
 TERCERO. La Secretaría de Finanzas realizará los ajustes conducentes que deriven del presente Decreto, a los ordenamientos legales correspondientes.
 
 CUARTO. Los recursos que se obtengan por el cobro del derecho relativo a la expedición de la Constancia de Antecedentes de No Corrupción se destinarán al fortalecimiento de las atribuciones, facultades y obligaciones propias de la Fiscalía Especializada en Combate a la Corrupción.
+
+P.O. 19 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-133 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
