@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ingresos-del-estado-de-tamaulipas-para-el-ejercicio-1533
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-31"
-last_updated: "2021-12-31"
+last_updated: "2022-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCICIO FISCAL 2022
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE JULIO DE 2022 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE TAMAULIPAS PARA EL EJERCIO FISCAL 2022.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE JULIO DE 2022.]</small>
 
 Ley publicada en la Edición Vespertina Extraordinario Número 32 del Periódico Oficial del Estado de Tamaulipas, el viernes 31 de diciembre de 2021.
 
@@ -661,7 +661,9 @@ Previo análisis del destino y de la capacidad de pago del Gobierno del Estado d
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2021, EN LA PÁGINA 10.]</small>
 
-Los instrumentos derivados y/u operaciones de cobertura de tasa de interés, deberán contratarse por un plazo mínimo de tres años, en el entendido de que dichos mecanismos de respaldo compartirán la fuente de pago del crédito a respaldar, dicha fuente de pago consiste en las participaciones presentes y futuras que en ingresos federales le corresponden al Estado del Fondo General de Participaciones.
+> <small>(F. DE E., P.O. 19 DE JULIO DE 2022)</small>
+
+Los instrumentos derivados y/u operaciones de cobertura de tasa de interés, deberán contratarse por un plazo máximo de tres años, en el entendido de que dichos mecanismos de respaldo compartirán la fuente de pago del crédito a respaldar, dicha fuente de pago consiste en las participaciones presentes y futuras que en ingresos federales le corresponden al Estado del Fondo General de Participaciones.
 
 La autorización inherente al presente artículo, a fin de llevar a cabo la mejora de la tasa de interés de la obligación de pago contratada por el Estado de Tamaulipas, se aprobó por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previo análisis del destino y la capacidad de pago de la Entidad contratante y/o del Poder Ejecutivo del Gobierno del Estado, según corresponda, así como también se observó lo establecido en el artículo 16 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
