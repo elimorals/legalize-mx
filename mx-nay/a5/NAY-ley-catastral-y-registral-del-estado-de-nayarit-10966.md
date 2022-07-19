@@ -4,7 +4,7 @@ identifier: "NAY-ley-catastral-y-registral-del-estado-de-nayarit-10966"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-25"
-last_updated: "2002-09-28"
+last_updated: "2022-07-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "NAY"
 ---
 # LEY CATASTRAL Y REGISTRAL DEL ESTADO DE NAYARIT
 
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CATASTRO PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 19 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY CATASTRAL Y REGISTRAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2022 (ABROGADA).
 
 Ley Publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit el Miércoles 25 de Diciembre de 1996.
 
@@ -926,3 +930,53 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 19 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL REGISTRO PÚBLICO DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley Catastral y Registral del Estado de Nayarit, publicada el 25 de diciembre de 1996 en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit, así como su Reglamento, y se derogan todas las disposiciones contrarias a esta ley.
+
+Los asuntos o procedimientos generados ante la Dirección del Registro Público antes de la entrada en vigor de la presente Ley, serán sustanciados conforme a las disposiciones de la Ley Catastral y Registral del Estado de Nayarit, vigentes al momento de su inicio, y a la que se hace referencia en el párrafo que antecede.
+
+TERCERO. La Secretaría de Administración y Finanzas, deberá realizar las adecuaciones presupuestarias correspondientes para que a partir del Presupuesto de Egresos para el Ejercicio Fiscal 2023 el Registro Público esté en aptitud de llevar a cabo sus procedimientos conforme a lo dispuesto en la presente Ley.
+
+CUARTO. Las disposiciones aplicables al uso de medios digitales por los servidores públicos y demás trámites y servicios registrales, se implementarán gradualmente conforme a las bases y lineamientos que publique la Dirección General de Catastro y Registro Público, de conformidad con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica, en un plazo no mayor a dieciocho meses contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. El titular del Poder Ejecutivo en los plazos previstos en los transitorios que preceden deberá instruir que se realicen las adecuaciones normativas, administrativas y técnicas para que el Registro Público cumpla con los fines del presente Decreto.
+
+SEXTO. El Sistema Registral establecido en esta Ley, se instaurará de manera progresiva, de conformidad con los plazos previstos en los artículos transitorios que preceden. Para tal efecto, la Dirección del Registro Público deberá promover acciones de migración masiva de inscripciones registrales realizadas conforme a sistemas anteriores, atendiendo a la suficiencia presupuestaria.
+
+Asimismo, realizados dichos procesos, se determinará la fecha a partir de la cual se pondrá en práctica el Sistema Registral establecido en esta Ley, lo que se publicará con anticipación mínima de sesenta días hábiles a la fecha antes señalada, en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit y en el Portal Electrónico Oficial del Registro Público.
+
+SÉPTIMO. Los procesos de migración de inscripciones y anotaciones, al Sistema Registral, se llevarán a cabo oficiosamente mediante migración masiva o unitaria, en los casos previstos en esta Ley y los titulares registrales no tendrán la obligación de iniciarlos y sus derechos quedarán a salvo y conforme a las inscripciones o registros existentes antes de la iniciación de la vigencia de esta Ley. Lo anterior sin perjuicio del derecho de dichos titulares registrales, de solicitar, en caso de considerarlo conveniente, la señalada migración.
+
+OCTAVO. El titular del Poder Ejecutivo deberá expedir el Reglamento de la presente ley en un plazo de 180 días hábiles, contados a partir de la entrada en vigor de la presente ley.
+
+NOVENO. El diseño del Boletín Registral, deberá estar concluido en un plazo no mayor a doce meses, contados a partir de la fecha de entrada en vigor de la presente Ley.
+
+DÉCIMO. Se derogan las disposiciones legales de igual o menor jerarquía jurídica, que se opongan a lo establecido en esta Ley.
+
+P.O. 19 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE CATASTRO PARA EL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, bajo las modalidades previstas en los artículos subsecuentes.
+
+SEGUNDO. Se abroga la Ley Catastral y Registral del Estado de Nayarit, publicada el 25 de diciembre de 1996 en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit, así como todas las menciones a dicho ordenamiento, contenidas en leyes, disposiciones y actos administrativos, se entenderán referidas a esta Ley.
+
+Los asuntos o procedimientos generados ante la Dirección y los Catastros Municipales que se encuentren en trámite a la entrada en vigor del presente Decreto, serán sustanciados hasta su total conclusión conforme a las disposiciones de la Ley Catastral y Registral del Estado de Nayarit y demás normatividad vigente al momento de su presentación.
+
+TERCERO. Las disposiciones aplicables al uso de medios digitales por las autoridades catastrales estales (sic) y municipales que señala la presente Ley y el uso del Sistema Catastral se implementarán gradualmente en los Ayuntamientos conforme a las bases y lineamientos que publique la Dirección de acuerdo con la suficiencia presupuestal y las capacidades para desarrollar la infraestructura tecnológica en el Estado y los municipios, dichos lineamientos deberán de publicarse en un plazo no mayor a dieciocho meses a partir de la entrada en vigor de la presente Ley.
+
+CUARTO. Las autoridades catastrales estatales y municipales, a partir del inicio de la vigencia de esta Ley comenzarán a realizar las adecuaciones normativas, administrativas, técnicas y presupuestarias, para que el Catastro Estatal y municipales, estén en aptitud de llevar a cabo sus procedimientos conforme a lo dispuesto en la presente Ley.
+
+QUINTO. El titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas para el ejercicio fiscal 2023 deberá realizar las adecuaciones presupuestales que resulten necesarias, a fin de dotar de los recursos materiales y financieros a la Dirección para el cumplimiento de esta Ley.
+
+SEXTO. En un plazo que no exceda de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo deberá expedir el Reglamento de la presente Ley.
+
+En tanto se expide el Reglamento, seguirá vigente (sic) las disposiciones normativas que no se oponga (sic) al presente ordenamiento.
+
+SÉPTIMO. Se derogan las disposiciones legales de igual o menor jerarquía jurídica, que se opongan a lo establecido en esta Ley.
