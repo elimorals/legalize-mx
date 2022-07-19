@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2022-07-01"
+last_updated: "2022-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE JULIO DE 2022 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 19 DE JULIO DE 2022 NO APLICA AL ARTICULADO DEL DECRETO 65-183 PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2022.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -697,8 +697,6 @@ IX. Someter a la consideración del Fiscal General, el proyecto de rotación y s
 
 X. Las que le otorguen la persona titular de la Fiscalía General, esta Ley, su Reglamento y demás disposiciones aplicables.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL ARTÍCULO TERCERO DEL DECRETO NO. 65-183 PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2022, PÁGINA 5.]</small>
-
 ###### Artículo 27.
 
 La persona titular de la Fiscalía Especializada en Combate a la Corrupción, tendrá las siguientes facultades:
@@ -763,7 +761,7 @@ XXVII. Promover la extinción de dominio de los bienes de los imputados o senten
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-XXVIII. Dar intervención a la unidad administrativa en materia de servicios pericialesy ciencias forenses, para dar trámite y desahogo a los peritajes solicitados en el término que al efecto establezca el Ministerio Público y que resulten acordes con la complejidad del peritaje a realizar;
+XXVIII. Dar intervención a la unidad administrativa en materia de servicios periciales y ciencias forenses, para dar trámite y desahogo a los peritajes solicitados en el término que al efecto establezca el Ministerio Público y que resulten acordes con la complejidad del peritaje a realizar;
 
 XXIX. Presentar anualmente al Fiscal General un informe sobre actividades sustantivas y de resultados, el cual será público en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y demás disposiciones aplicables. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso;
 
