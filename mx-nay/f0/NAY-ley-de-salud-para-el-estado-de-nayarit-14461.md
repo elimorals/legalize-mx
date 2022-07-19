@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2021-03-30"
+last_updated: "2022-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NAY"
 ---
 # LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE AGOSTO DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -99,13 +101,15 @@ Corresponde a los Servicios de Salud de Nayarit:
 
 A) En materia de salubridad general;
 
-I.- La atención médica, preferentemente en beneficio de grupos vulnerables;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+I.- La atención médica, preferentemente en beneficio de grupos en situación de vulnerabilidad;
 
 II.- La atención materno infantil;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-III.- La prestación de servicios de salud sexual, salud reproductiva y planificación familiar;
+III.- La prestación de servicios de salud sexual y reproductiva;
 
 IV.- La salud mental;
 
@@ -119,7 +123,9 @@ VIII.- La información relativa a las condiciones, recursos y servicios de salud
 
 IX.- La educación para la salud;
 
-X.- La orientación y vigilancia en materia de nutrición;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+X.- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad y otros trastornos de la conducta alimentaria; enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
 
 XI.- La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
@@ -127,11 +133,13 @@ XII.- La salud ocupacional en los términos del Artículo 123 de la Constitució
 
 XIII.- La prevención y el control de enfermedades transmisibles;
 
-XIV.- La prevención y el control de las enfermedades no transmisibles y accidentes;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+XIV.- La prevención y el control de las enfermedades no transmisibles, sindemias y accidentes;
 
-XV.- La rehabilitación de los discapacitados;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+XV.- La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
 XVI.- La asistencia social;
 
@@ -223,7 +231,9 @@ SISTEMA ESTATAL DE SALUD.
 
 El sistema estatal de salud está constituido por las dependencias y entidades públicas y sociales y las personas físicas o morales de los sectores social y privado que prestan servicios de salud en el Estado, así como por los mecanismos de coordinación de acciones a fin de dar cumplimiento al derecho o a la protección de la salud en el Estado de Nayarit.
 
-El sistema estatal de salud, con la intervención que corresponda al comité de planeación para el desarrollo del Estado de Nayarit, definirán los mecanismos de coordinación y colaboración en materia de planeación, de los servicios de salud en el Estado de conformidad con las disposiciones de esta ley y las que al respecto sean aplicables.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
+
+El sistema estatal de salud, con la intervención que corresponda al Instituto de Planeación del Estado de Nayarit, definirán los mecanismos de coordinación y colaboración en materia de planeación, de los servicios de salud en el Estado de conformidad con las disposiciones de esta ley y las que al respecto sean aplicables.
 
 ###### ARTICULO 6o.
 
@@ -235,17 +245,41 @@ I.- Proporcionar, servicios de salud universal en el Estado a todas las personas
 
 II.- Contribuir el desarrollo demográfico armónico del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-III.- Colaborar al bienestar de la población del Estado de Nayarit mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y discapacitados, para fomentar su protección y propiciar su incorporación a una vida equilibrada en lo económico y social;
+III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores y personas adultas mayores en estado de abandono o desamparados y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
 V.- Apoyar al mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propician el desarrollo satisfactorio de la vida;
 
-VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud, y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
+VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+VIII.- Promover el conocimiento y desarrollo de la medicina tradicional y su práctica en condiciones adecuadas;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+IX.- Promover, en el ámbito estatal, el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones, para ampliar la cobertura y mejorar la calidad de atención a la salud;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+X.- Proporcionar orientación a la población del Estado , respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+XI.- Diseñar y ejecutar políticas públicas, que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria en el Estado, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+XII.- Acorde a las demás disposiciones legales aplicables, promover la creación de programas de atención integral para la atención de las víctimas y victimarios de acoso y violencia escolar, en coordinación con las autoridades educativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -293,13 +327,21 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Coadyuvar con la Secretaría de Salud Federal en la ejecución del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, mismo que será obligatorio en todos los establecimientos a cargo del Sistema, en términos de los mecanismos de coordinación y colaboración;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-XVII. Promover e impulsar que las instituciones del Sistema Estatal de Salud implementen programas dirigidos a brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas, y
+XVII.- Promover e impulsar que las instituciones del Sistema Estatal de Salud implementen programas dirigidos a brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
 
-> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2022)</small>
 
-XVIII. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
+XVIII.- Promover e impulsar programas y campañas de información, en el ámbito estatal, sobre los buenos hábitos alimenticios, una buena nutrición y la activación física para contrarrestar el sobrepeso, la obesidad y los trastornos de la conducta alimentaria;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+XIX.- Promover e incorporar enfoques con perspectiva de género a las estrategias, campañas de información, y demás programas en el marco de sus atribuciones, para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud. Incluyendo neoplasias que afectan la salud sexual y reproductiva del hombre y de la mujer, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2022)</small>
+
+XX.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2021)</small>
 
@@ -335,9 +377,11 @@ IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan l
 
 La competencia de las autoridades sanitarias de la planeación, regulación, organización y funcionamiento del sistema estatal de salud, se regirá por las disposiciones de esta ley y demás normas generales aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 11.
 
-El gobierno del Estado, con la participación que corresponda al comité de planeación de desarrollo estatal, elaborara el programa estatal de salud, tomando en cuenta las prioridades y los Servicios Estatales de Salud.
+El Gobierno del Estado, con la participación que corresponda al Instituto de Planeación del Estado de Nayarit, elaborará el programa estatal de salud, tomando en cuenta las prioridades y los Servicios Estatales de Salud.
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
@@ -481,43 +525,43 @@ II.- De salud pública, y;
 
 III.- De asistencia social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 27.
 
-Conforme a las prioridades del Sistema Estatal de Salud y a los convenios de coordinación, se garantizará la extensión progresiva, universal, cuantitativa y cualitativa de los servicios de salud, particularmente para la atención integral de la población que se encuentra en el país que no cuenta con seguridad social, así como a los grupos vulnerables.
+Conforme a las prioridades del Sistema Estatal de Salud y a los convenios de coordinación, se garantizará la extensión progresiva, universal, cuantitativa y cualitativa de los servicios de salud, particularmente para la atención integral de la población que se encuentra en el país que no cuenta con seguridad social, así como a los grupos sociales en situación de vulnerabilidad.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
 
-Se entiende por grupos vulnerables los integrados por las siguientes personas:
+Se entiende por grupos sociales en situación de vulnerabilidad a aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida, y por lo tanto, requieren de la atención e inversión del Gobierno para lograr su bienestar.
 
-I.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+I.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-II.- Menores infractores, en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
+II.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-III.- Alcoholismo, farmacodependencia e individuos en condiciones de vagancia;
+III.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-IV.- Mujeres en periodo de gestación o lactancia;
+IV.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-V.- Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato;
+V.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-VI.- Discapacitados;
+VI.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-VII.- Indigentes;
+VII.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-VIII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
+VIII.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-IX.- Víctimas de la comisión de delitos en estado de abandono;
+IX.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-X.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
+X.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-XI.- Habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia;
+XI.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-XII.- Personas afectadas por desastres;
+XII.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-XIII.- Quien resulte afectado a través de la violencia intrafamiliar; y
+XIII.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
-XIV.- Los jornaleros agrícolas expuestos a plaguicidas.
+XIV.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
 
@@ -533,7 +577,9 @@ Para los efectos del derecho a la protección de la salud se consideran servicio
 
 I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
-II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes, sindemias y de los accidentes;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
@@ -545,13 +591,15 @@ En el caso de las personas sin seguridad social, deberá garantizarse la prestac
 
 IV.- La atención materno-infantil;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-V.- La salud sexual, salud reproductiva y la planificación familiar;
+V.- La salud sexual y reproductiva;
 
 VI.- La salud mental;
 
-VII.- La prevención y el control de las enfermedades buco dentales;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+VII.- La prevención y el control de las enfermedades bucodentales;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
@@ -561,9 +609,9 @@ VIII.- La disponibilidad y otorgamiento de medicamentos y material de curación 
 
 IX.- La promoción de un estilo de vida saludable;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-X.- La asistencia social a los grupos más vulnerables y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas;
+X.- La asistencia social a los grupos sociales en situación de vulnerabilidad y, de éstos, de manera especial, a los pertenecientes a las comunidades indígenas;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
@@ -585,13 +633,13 @@ El Gobierno del Estado convendrá con el Gobierno Federal, los términos en que 
 
 El gobierno del Estado coadyuvará con las autoridades federales competentes para:
 
-I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos, y;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+I.- Que se garantice a la población del Estado la disponibilidad y otorgamiento de medicamentos y material de curación según corresponda al nivel de atención de la unidad prestadora de servicio, con base en el Compendio Nacional de Insumos para la Salud, elaborado por el Consejo de Salubridad General aplicable al Sector Salud; así como estar incluidos en los catálogos de la institución proveedora del servicio;
 
 II.- Que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajustan a los preceptos legales aplicables
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2021)</small>
-
-ARTICULO 31 BIS.- El Gobierno del Estado coadyuvará con las autoridades federales competentes para que se garantice a la población del Estado la disponibilidad y otorgamiento de medicamentos y material de curación según corresponda al nivel de atención de la unidad prestadora de servicio, con base en el Compendio Nacional de Insumos para la Salud elaborado por el Consejo de Salubridad General aplicable al Sector Salud, así como estar incluidos en los catálogos de la institución proveedora del servicio.
+ARTICULO 31 BIS.- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
 ### CAPITULO II. ATENCION MEDICA
 
@@ -599,29 +647,41 @@ ARTICULO 31 BIS.- El Gobierno del Estado coadyuvará con las autoridades federal
 
 Se entiende por atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restaurar su salud.
 
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2022)</small>
+
+Para efectos del párrafo anterior, los prestadores de servicios de salud podrán apoyarse en las Guías de Práctica Clínica y los medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto emita la Secretaría de Salud del Gobierno Federal.
+
 ###### ARTICULO 33.
 
 Las actividades de atención médica son:
 
 I.- Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II.- Curativas, que tienen como fin efectuar diagnóstico temprano y proporcionar tratamiento oportuno, y;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+II.- Curativas, que tienen como fin efectuar diagnóstico temprano y proporcionar tratamiento oportuno;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-III.- De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad física y mental, así como la reconstrucción mamaria derivada de la realización de una mastectomía como tratamiento del cáncer de seno.
+III.- De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad física y mental, así como la reconstrucción mamaria derivada de la realización de una mastectomía como tratamiento del cáncer de seno, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+IV.- Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales, por parte de un equipo profesional multidisciplinario.
 
 ### CAPITULO III. PRESTADORES DE SERVICIOS DE SALUD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 34.
 
-Para los efectos de esta ley, los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican:
+Para los efectos de esta Ley, los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican en:
 
 I.- Servicios públicos a la población en general;
 
-II.- Servicios a derechohabientes de la institución encargada de ofrecer servicios de seguridades (sic) social a los servidores públicos del Estado y a los municipios;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+II.- Servicios a derechohabientes de instituciones públicas de seguridad social o los que con sus propios recursos o por encargo del Poder Ejecutivo Estatal, presten las mismas instituciones a otros grupos de usuarios;
 
 III.- Servicios sociales y privados sea cual fuera la forma en que se contraten, y;
 
@@ -645,9 +705,15 @@ Para la determinación de las cuotas de recuperación se tomarán en cuenta el c
 
 Las cuotas de recuperación se fundarán en principios de solidaridad social y guardaran relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del gobierno del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 37.
 
-Son servicios a derechohabientes, los prestados por la institución a que se refiere la fracción II del Artículo 34 de esta ley a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus leyes y a sus beneficiarios, los que con sus propios recursos o por el encargo del Ejecutivo Estatal preste dicha institución a otros grupos usuarios.
+Son servicios a derechohabientes, los prestados por las instituciones a que se refiere la fracción II del Artículo 34 de esta ley a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus leyes y a sus beneficiarios, los que con sus propios recursos o por el encargo del Ejecutivo Estatal preste dicha institución a otros grupos usuarios.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2022)</small>
+
+Dichos servicios, en los términos de esta Ley y sin perjuicio de lo que prevenga la Ley General de Salud y demás disposiciones en la materia, comprenderán la atención médica, la atención materno-infantil, la planificación familiar, la salud mental, la promoción de la formación de recursos humanos, la salud ocupacional y la prevención y control de enfermedades no transmisibles, sindemias y accidentes.
 
 ###### ARTICULO 38.
 
@@ -775,11 +841,11 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 52.
 
-Los Servicios de Salud de Nayarit y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de maltrato infantil, de la violencia intrafamiliar, de enfermedades, accidentes y de rehabilitación de discapacitados.
+Los Servicios de Salud de Nayarit y demás instituciones de salud estatales, promoverán y apoyaran la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva , así como en los de prevención de maltrato infantil, de la violencia intrafamiliar, de enfermedades, accidentes, de prevención de la discapacidad y de rehabilitación de personas con discapacidad, así como en los cuidados paliativos.
 
 ###### ARTICULO 53.
 
@@ -797,41 +863,59 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. ATENCION MATERNO-INFANTIL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 56.
 
-La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
+La protección materno-infantil y la promoción de la salud materna, abarca las etapas que inician en el embarazo, parto, post-parto y puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer y el producto.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JULIO DE 2022)</small>
+
+La atención materno-infantil tiene carácter prioritario y comprende, entre otras, las siguientes acciones:
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 I.- La atención humanizada a las mujeres, sin violencia ni discriminación y con perspectiva de derechos humanos durante el embarazo, el parto y el puerperio;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
+II.- La atención de la niñez y vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal; así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso, atención que incluya la aplicación de la prueba del tamiz ampliado, así como la salud visual;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-III.- La promoción de la integración y del bienestar familiar, fomentando la responsabilidad de los padres en el desarrollo físico e intelectual de sus hijos;
+III.- La aplicación del tamiz neonatal para la detección (sic) alteraciones del metabolismo, de cardiopatías congénitas graves o críticas, se realizará antes del alta hospitalaria, de conformidad con la Norma Oficial Mexicana en la materia;
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-IV.- La detección de padecimientos de tipo congénito o metabólico mediante la aplicación del tamiz neonatal, así como su tratamiento correspondiente;
+IV.- La revisión de retina y tamiz auditivo al prematuro;
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-V.- La detección, atención y tratamiento de los problemas auditivos y enfermedades visuales en los infantes en los primeros días de su nacimiento, y
+V.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-VI.- La prevención de la transmisión materno infantil del VIH - Sida y la sífilis congénita mediante el ofrecimiento de pruebas de detección, confidenciales y gratuitas a las mujeres embarazadas, así como proporcionar la atención médica que se requiera.
+VI.- El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-VII.- Los procedimientos de aplicación obligatoria con el fin de que toda mujer embarazada esté en compañía en todo momento por una persona de su confianza o elección en el transcurso del trabajo de parto, parto o cesárea y puerperio, y
+VII.- La atención y previsión de la transmisión del VIH/Sida y otras infecciones de transmisión sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-VIII.- La detección, diagnóstico, tratamiento y control de la diabetes mellitus tipo 1, un programa de acción específico y actividades de seguimiento, vigilancia y evaluación de esta enfermedad, en términos de lo dispuesto por la presente Ley.
+VIII.- Los procedimientos de aplicación obligatoria con el fin de que toda mujer embarazada esté en compañía en todo momento por una persona de su confianza o elección en el transcurso del trabajo de parto, parto o cesárea y puerperio;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+IX.- La detección, diagnóstico, tratamiento y control de la diabetes mellitus tipo 1, un programa de acción específico y actividades de seguimiento, vigilancia y evaluación de esta enfermedad, en términos de lo dispuesto por la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+X.- La atención de la niñez y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2022)</small>
+
+ARTICULO 56 BIS.- Toda mujer embarazada, tiene derecho a obtener servicios de salud en los términos a que se refiere el Capítulo IV del Título Tercero de esta Ley y con estricto respeto de sus derechos humanos.
 
 ###### ARTICULO 57.
 
@@ -847,29 +931,37 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-II.- Acciones de orientación, vigilancia institucional, capacitación, fomento para la lactancia materna y amamantamiento, sin discriminar a las mujeres que lo realicen en vías y espacios públicos, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complemento hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+II.- Acciones de orientación, vigilancia institucional, capacitación, fomento para la lactancia materna y amamantamiento, sin discriminar a las mujeres que lo realicen en vías y espacios públicos, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complemento hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, además de impulsar, la instalación de lactarios en los centros de trabajo de los sectores público y privado de conformidad con lo establecido en la Ley para la Protección, Apoyo y Promoción a la Lactancia Materna del Estado de Nayarit;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2014)</small>
 
 III.- Acciones de promoción para la creación de bancos de leche humana en los establecimientos de salud que cuenten con servicios neonatales;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-IV.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años de edad, y
+IV.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años de edad;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-V.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio.
+V.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+VI.- Acciones de diagnóstico y atención temprana de la displasia en el desarrollo de cadera, durante el crecimiento y desarrollo de los menores de 5 años.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2022)</small>
+
+ARTICULO 59 BIS.- Los Servicios de Salud de Nayarit, impulsarán la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil. Para tal efecto, promoverá la creación de redes de apoyo a la salud materno-infantil en el ámbito estatal, con la finalidad de facilitar el acceso a las mujeres embarazadas a información relativa a la prestación de servicios de atención medica en esta materia, y en su caso, brindarles apoyo para el acceso a ellos.
 
 ###### ARTICULO 60.
 
 Las autoridades sanitarias estatales, educativas y laborales, en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-I.- Los programas para padres destinados a promover su paternidad y la maternidad responsables; así como la atención materno-infantil;
+I.- Los programas para progenitores destinados a promover la atención materno-infantil;
 
 II.- Las actividades respectivas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
@@ -885,9 +977,11 @@ V.- Los programas de prevención de maltrato infantil y de la violencia intrafam
 
 VI.- Las demás que coadyuven a la salud materno-infantil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 61.
 
-En materia de higiene escolar, corresponde al gobierno del Estado, establecer las normas para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado, las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
+En materia de higiene escolar, las autoridades educativas y sanitarias estatales establecerán acciones de coordinación para la aplicación de las normas oficiales mexicanas que se dicten en términos de lo dispuesto por la Ley General de Salud, para proteger la salud del educando y de la comunidad escolar, así como establecer acciones que promuevan una alimentación nutritiva y la realización de actividad física.
 
 Las prestaciones de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que establezcan entre las autoridades sanitarias estatales y educativas competentes.
 
@@ -1071,7 +1165,9 @@ VI. Contar con un representante que cuide en todo momento sus intereses. Para es
 
 VII. A que se informe al padre, madre, tutor o representante legal con veracidad de la condición y el posible efecto del programa, campaña o tratamiento que reciba la persona usuaria, en caso de que sea menor de edad o incapaz.
 
-Lo anterior es aplicable a toda la población, incluida aquella que se encuentra en unidades médicas de reclusorios y comunidades para adolescentes, así como a grupos vulnerables;
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
+
+Lo anterior es aplicable a toda la población, incluida aquella que se encuentra en unidades médicas de reclusorios y comunidades para adolescentes, así como a grupos sociales en situación de vulnerabilidad;
 
 VIII. A que se le apliquen exámenes de valoración, confiables y actualizados que consideren su entorno social o característica a estudiar y a conocer los alcances y las limitaciones de las evaluaciones realizadas;
 
@@ -1309,13 +1405,13 @@ III.- Los convenios que al efecto se suscriban entre el gobierno del Estado y la
 
 IV.- Las disposiciones de esta ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 72.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o diplomas de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, farmacia, odontología, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología, y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o diplomas de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-> <small>(F. DE E., P.O. 7 DE SEPTIEMBRE DE 1994)</small>
-
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes, para las personas que ejercen la medicina tradicional indigenista, sólo se requiere constancia expedida de manera conjunta por las autoridades tradicionales indígenas y el Instituto Nacional Indigenista.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la atención médica prehospitalaria, de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, optometría, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes. Para las personas que ejercen la medicina tradicional, sólo se requiere constancia expedida de manera conjunta por las autoridades tradicionales del pueblo originario de que se trate y el Instituto Nacional de los Pueblos Indígenas.
 
 ###### ARTICULO 73.
 
@@ -1435,11 +1531,17 @@ IV.- Se deberá contar con el consentimiento por escrito del sujeto en quien se 
 
 V.- Sólo podrá realizarse por profesionales de la salud en instituciones médicas que actúen bajo la vigilancia de las autoridades sanitarias competentes;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, discapacidad o muerte del sujeto en quien se realice la investigación, y
+VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, discapacidad o muerte del sujeto en quien se realice la investigación;
 
-VII.- Las demás que establezcan esta ley y la correspondiente reglamentación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2022)</small>
+
+VII.- Es responsabilidad de la institución de atención a la salud proporcionar atención medica al sujeto que sufra algún daño, si estuviere relacionado directamente con la investigación, sin perjuicio de la indemnización que legalmente corresponda, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2022)</small>
+
+VIII.- Las demás que establezcan esta ley y la correspondiente reglamentación.
 
 ###### ARTICULO 88.
 
@@ -1455,27 +1557,31 @@ INFORMACION PARA LA SALUD.
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 90.
 
-Los Servicios de Nayarit, de conformidad con la Ley de Información, Estadística y Geografía y con los criterios de carácter general que emita el Ejecutivo Federal captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los sistemas nacional y estatal de salud, así como sobre el estado y evolución de la salud pública de la entidad.
+Los Servicios de Salud de Nayarit, en su ámbito de competencias y de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica y la Ley del Sistema de Geografía, Estadística y Evaluación del Estado de Nayarit, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los sistemas nacional y estatal de salud, así como sobre el estado y evolución de la salud pública de la entidad.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 La información se referirá fundamentalmente a los siguientes aspectos:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-I.- Estadísticas de natalidad, mortalidad, morbolidad y discapacidad;
+I.- Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
 
 II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud, y
 
 III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población y su utilización.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
 
-Dicha información deberá incluir datos desagregados por edad y sexo, y todos aquellos que lleven a atender debidamente a los grupos vulnerables a que se refiere el artículo 27 de esta Ley.
+Dicha información deberá incluir datos desagregados por edad y sexo, y todos aquellos que lleven a atender debidamente a los grupos sociales en situación de vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2022)</small>
+
+La información que sea procesada por las autoridades sanitarias, deberá ser tratada de conformidad con lo establecido en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Nayarit.
 
 ###### ARTICULO 91.
 
@@ -1497,11 +1603,17 @@ La promoción de la salud comprende:
 
 I.- Orientación y educación para la salud;
 
-II.- Nutrición;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-III.- Control de los efectos nocivos del ambiente en la salud;
+II.- Alimentación nutritiva, actividad física y nutrición;
 
-IV.- Salud ocupacional; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+III.- Control de los efectos nocivos del ambiente en la salud, adoptando medidas y promoviendo estrategias de mitigación y de adaptación a los efectos del cambio climático ;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+IV.- Salud ocupacional;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2012)</small>
 
@@ -1525,11 +1637,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-III.- Orientar y capacitar a la población preferentemente en materias de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos en embarazos tempranos y de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de servicios de salud, prevención de accidentes, prevención y rehabilitación de discapacidad y detección oportuna de enfermedades;
+III.- Orientar y capacitar a la población preferentemente en materias de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos en embarazos tempranos, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención y rehabilitación de discapacidad y detección oportuna de enfermedades, así como la prevención, diagnóstico y control de las enfermedades cardiovasculares;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1559,9 +1669,11 @@ La educación ambiental, se integrará a los programas de enseñanza preescolar,
 
 El Gobierno del Estado, formulará y desarrollará programas de nutrición estatales, promoviendo la participación de los mismos de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores social y privados.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 97.
 
-En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionan con la producción de alimentos.
+En los programas a que se refiere el artículo anterior, se promoverá la alimentación nutritiva y deberán considerar las necesidades nutricionales de la población. Por lo que, se propondrán acciones para reducir la malnutrición y promover el consumo de alimentos adecuados a las necesidades nutricionales de la población; y evitar otros elementos que representen un riesgo potencial para la salud. Asimismo, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionan con la producción de alimentos.
 
 ### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
@@ -1585,27 +1697,39 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 Los Servicios de Salud de Nayarit, en coordinación con las Autoridades Federales y Municipales competentes y con la Autoridad Estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 102.
 
-Corresponde a los Servicios de Salud en Nayarit:
+En el ámbito de su competencia Estatal, corresponde a los Servicios de Salud en Nayarit:
 
 I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
 
 II.- Vigilar y certificar la calidad del agua para uso y consumo humano;
 
-III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación para uso médico sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación para uso médico sin perjuicio de la intervención que corresponda a otras autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+IV.- Formular programas para la atención y control de los efectos nocivos del ambiente en la salud que consideren, entre otros, aspectos del cambio climático, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+V.- Disponer y verificar que se cuente con información toxicológica actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 103.
 
-Los Servicios de Salud en Nayarit, se coordinarán con las dependencias federales, para la prestación de lo (sic) servicios a que se refiere este capítulo.
+Los Servicios de Salud en Nayarit, se coordinarán con las dependencias federales, para la prestación de los servicios a que se refiere este capítulo.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+(REUBICADO, P.O. 19 DE JULIO DE 2022)
 
 ### CAPITULO V. SALUD OCUPACIONAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 104.
 
@@ -1797,23 +1921,39 @@ Las autoridades sanitarias determinarán los casos en que se deba proceder a la 
 
 ### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 121.
 
-Las autoridades sanitarias del Estado, realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades sanitarias determinen.
+Las autoridades sanitarias del Estado, realizarán actividades de prevención y control de las enfermedades no transmisibles y sindemias que las propias autoridades sanitarias determinen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 122.
 
-El ejercicio de la acción de prevención y control de las enfermedades no transmisibles, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
+El ejercicio de la acción de prevención y control de las enfermedades no transmisibles y sindemias, comprenderá una o más de las siguientes medidas, según el caso de que se trate:
 
-I.- La detección oportuna de las enfermedades no transmisibles y la evaluación del riesgo de contraerlas;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+I.- La detección oportuna de las enfermedades no transmisibles, sindemias y la evaluación del riesgo de contraerlas;
 
 II.- La divulgación de medidas higiénicas para el control de los padecimientos;
 
-III.- La prevención específica en cada caso y la vigilancia de su cumplimiento.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-IV.- La realización de estudios epidemiológicos, y
+III.- La prevención específica en cada caso y la vigilancia de su cumplimiento;
 
-V.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+IV.- La realización de estudios epidemiológicos;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+V.- La difusión permanente de las dietas, hábitos alimenticios y procedimientos que conduzcan al consumo efectivo de los minimos de nutrimentos por la población general y no exceder los máximos de azúcares, grasas saturadas, grasas trans y sodio, con base en lo recomendado por la propia Secretaría de Salud del Gobierno Federal, y
+
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+
+VI.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -1829,9 +1969,11 @@ Se promoverá la creación de un programa que implemente campañas de informaci�
 
 En la realización de las actividades preventivas, de tratamiento y control de la diabetes, y para asegurar el pleno cumplimiento de los derechos de las niñas, niños y adolescentes que establece la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los cuales nuestro país forme parte, la Ley General de Salud, esta Ley y demás disposiciones, podrán participar las diferentes organizaciones en materia de derechos humanos.
 
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 123.
 
-Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
+Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles y sindemias, en los términos de los reglamentos que al efecto se expidan.
 
 ### CAPITULO IV. ACCIDENTES
 
@@ -1859,9 +2001,9 @@ Para la mayor eficacia de las acciones a que se refiere este artículo, se crear
 
 Dicho consejo se coordinará con el consejo nacional para la prevención de accidentes, dentro del marco de los sistemas nacional y estatal de salud.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2022)</small>
 
-## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE DISCAPACITADOS
+## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCIÓN DE LA DISCAPACIDAD Y REHABILITACIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
 ### CAPITULO UNICO
 
@@ -1873,21 +2015,21 @@ Para los efectos de esta ley, se entiende por asistencia social el conjunto de a
 
 Son actividades básicas de asistencia social:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-I.- La atención a personas que, por sus carencias socioeconómicas o por problemas de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+I.- La atención a personas que, por sus carencias socioeconómicas o por su condición de discapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-II.- La atención en establecimientos especializados de menores y ancianos en estado de abandono o desamparo, de discapacitados sin recursos y de mujeres maltratadas;
+II.- La atención en establecimientos especializados de menores y personas adultas mayores en estado de abandono o desamparo, de personas con discapacidad sin recursos y de mujeres maltratadas;
 
 III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
 IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-V.- La prestación de servicios de asistencia jurídica de orientación social especialmente a madres de familia, menores, ancianos, discapacitados e incapaces sin recursos;
+V.- La prestación de servicios de asistencia jurídica de orientación social especialmente a madres de familia, menores, personas adultas mayores, personas con discapacidad e incapaces sin recursos;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -1969,37 +2111,53 @@ Los servicios y acciones que presten y realicen las instituciones de asistencia 
 
 Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaboraran para proporcionar atención rehabilitatoria, cuando así se requiera.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 143.
 
-Los Servicios de Salud de Nayarit, en coordinación con otras instituciones públicas, promoverá en los lugares en que se presten servicios públicos se dispongan facilidades para las personas inválidas.
+Los Servicios de Salud de Nayarit, en coordinación con otras instituciones públicas, promoverá en los lugares en que se presten servicios públicos se dispongan facilidades para las personas con discapacidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 144.
 
-(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2000)
+Para los efectos de esta Ley, se entiende por discapacidad a la consecuencia de la presencia de una deficiencia o limitación en una persona, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás.
 
 ###### ARTICULO 145.
 
 Para los efectos de esta ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por si misma actividades necesarias para el desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica o social.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 146.
 
-La atención en materia de prevención de discapacidad y rehabilitación de discapacitados comprende:
+La atención en materia de prevención de la discapacidad y rehabilitación de las personas con discapacidad comprende:
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 I.- La investigación de las causas de la discapacidad y de los factores que los condicionan;
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+
 II.- La promoción de la participación de la comunidad en la prevención y control de las causas condicionantes de la discapacidad;
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 III.- La identificación temprana y la atención oportuna de procesos físicos, mentales o sociales que puedan causar discapacidad;
 
-IV.- La orientación educativa en materia de rehabilitación a la colectividad en general y en particular a las familias que cuenten con algún discapacitado promoviendo al efecto la solidaridad social;
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
-V.- La atención integral de los discapacitados incluyendo la adaptación de las prótesis, órtesis y ayuda funcional que requieran;
+IV.- La orientación educativa en materia de rehabilitación a la colectividad en general y en particular a las familias que cuenten con alguna persona con discapacidad promoviendo al efecto la solidaridad social;
 
-VI.- Promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los discapacitados; y
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+V.- La atención integral de las personas con discapacidad incluyendo la adaptación de las prótesis, órtesis y ayuda funcional que requieran;
+
+> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+
+VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad, y
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 VII.- La promoción de la educación y capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
@@ -2018,6 +2176,10 @@ El Gobierno del Estado a través del organismo a que se refiere el artículo 131
 ###### ARTICULO 149.
 
 El organismo del gobierno estatal previsto en el artículo 131 de esta ley, tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidad y participar en programas de rehabilitación y educación especial.
+
+> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2022)</small>
+
+ARTICULO 149 BIS.- El Gobierno del Estado y los Municipios, en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con discapacidad.
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
@@ -3462,3 +3624,11 @@ P.O. 30 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Los establecimientos que presten los servicios materia de la presente reforma deberán atender lo conducente para dar cumplimiento a los requisitos previstos en la presente reforma y en la Ley General de Salud para su debido funcionamiento.
+
+P.O. 19 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Estado de Nayarit.
+
+SEGUNDO.- La aplicación del tamiz neonatal para la detección de alteraciones del metabolismo, cardiopatías congénitas graves o críticas, estará sujeta a la disponibilidad presupuestaria de la Secretaría de Salud y los Servicios de Salud de Nayarit, así como a la publicación de la Norma Oficial Mexicana que para tal efecto hará la Secretaría de Salud del Gobierno Federal, de conformidad con el transitorio segundo del Decreto por el que se adiciona una fracción II Bis al artículo 61 de la Ley General de Salud, publicado en el Diario Oficial de la Federación el 1 de junio de 2021.
