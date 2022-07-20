@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-07-18"
+last_updated: "2022-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 18 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 20 DE JULIO DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -1159,7 +1159,9 @@ IV. Cultura, Espectáculos, Festividades y Conmemoraciones Cívicas;
 
 V. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-VI. Derechos Humanos e Igualdad de Género;
+> <small>(REFORMADA, G.M. 20 DE JULIO DE 2022)</small>
+
+VI. Derechos Humanos, Igualdad de Género y Respeto a la Diversidad;
 
 VII. Desarrollo Social, Humano y Participación Ciudadana;
 
@@ -1343,7 +1345,9 @@ q) Planear y promover espectáculos y festividades que tiendan a la elevación d
 
 V. (DEROGADA, G.M. 1 DE OCTUBRE DE 2021)
 
-VI. Derechos Humanos e Igualdad de Género:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 20 DE JULIO DE 2022)</small>
+
+VI. Derechos Humanos, Igualdad de Género y Respeto a la Diversidad:
 
 a) Vigilar el cumplimiento de los acuerdos que en materia de derechos humanos en general, y en específico de las mujeres, comunidades indígenas y otros grupos en condiciones de vulnerabilidad apruebe el Ayuntamiento;
 
@@ -1369,13 +1373,21 @@ g) Vigilar que las políticas públicas y programas municipales que implemente e
 
 h) Solicitar a las dependencias competentes, la elaboración de diagnósticos que permitan conocer la situación actual de las mujeres en relación con los ejes rectores establecidos en el Plan Municipal de Desarrollo y Gobernanza Guadalajara;
 
-> <small>(ADICIONADO, G.M. 9 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, G.M. 20 DE JULIO DE 2022)</small>
 
-i) Vigilar la adecuada difusión y publicación de normas, planes y programas que guarden relación con la Igualdad de Género; y
+i) Vigilar la adecuada difusión y publicación de normas, planes y programas que guarden relación con la Igualdad de Género;
 
-> <small>(ADICIONADO, G.M. 9 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, G.M. 20 DE JULIO DE 2022)</small>
 
-j) Proponer y dictaminar las iniciativas en materia de perspectiva de género, así como formular los lineamientos generales para garantizar la igualdad y el respeto a la diversidad e inclusión.
+j) Proponer y dictaminar las iniciativas en materia de perspectiva de género, así como formular los lineamientos generales para garantizar la igualdad y el respeto a la diversidad e inclusión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE JULIO DE 2022)</small>
+
+k) Vigilar que el diseño e implementación de políticas, programas, proyectos del Gobierno Municipal se incorporen pronunciamientos específicos en favor de las personas de grupos vulnerables bajo un enfoque transversal de igualdad y no discriminación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 20 DE JULIO DE 2022)</small>
+
+l) Apoyar y promover la capacitación en materia de atención a la discriminación y respeto a la diversidad, a todo el personal que labora en la Administración Pública Municipal, especialmente a los relacionados con la prestación de servicios públicos municipales en las áreas de salud y seguridad pública.
 
 VII. Desarrollo Social, Humano y Participación Ciudadana:
 
@@ -6241,9 +6253,9 @@ XLIII. Llevar a cabo la producción y desarrollo de plantas ornamentales y árbo
 
 XLIV. Establecer mecanismos de sanidad vegetal, para controlar y evitar la diseminación de plagas, enfermedades y plantas parásitas, que pongan en riesgo las áreas verdes y los recursos forestales del Municipio;
 
-> <small>(REFORMADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.M. 20 DE JULIO DE 2022)</small>
 
-XLV. Analizar y determinar la factibilidad de las solicitudes de poda, trasplante o derribo de árboles, emitiendo el dictamen técnico respectivo;
+XLV. Analizar y determinar la factibilidad de las solicitudes de poda, trasplante, derribo de árboles o cualquier otro previsto en los ordenamientos municipales, emitiendo el dictamen técnico respectivo.
 
 XLVI. Crear, fomentar, rehabilitar y conservar las áreas verdes, en coordinación con las dependencias competentes;
 
@@ -8024,3 +8036,25 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las aludidas reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 20 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL MUNICIPIO DE GUADALAJARA; AL REGLAMENTO PARA LA IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 20 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO DE ÁREAS VERDES Y RECURSOS FORESTALES DEL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquese el presente ordenamiento municipal en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento municipal entrará en vigor el día siguiente al de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente ordenamiento municipal remítase un tanto del mismo al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Cuarto. Notifíquese el presente ordenamiento a la Titular de la Dirección de Medio Ambiente del Municipio, para su conocimiento y efectos legales a que haya lugar.
