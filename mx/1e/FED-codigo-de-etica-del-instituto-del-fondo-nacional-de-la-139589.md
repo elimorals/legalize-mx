@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-del-instituto-del-fondo-nacional-de-la-139589"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-24"
-last_updated: "2022-06-01"
+last_updated: "2022-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-12-06"
 ---
 # CODIGO DE ETICA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JULIO DE 2022 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, EL CUAL CONTIENE LAS ADECUACIONES APROBADAS POR LA ASAMBLEA GENERAL DEL INSTITUTO EN SU SESIÓN ORDINARIA NÚMERO 119, CELEBRADA EL DÍA 6 DE DICIEMBRE DE 2019
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2021.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 20 DE JULIO DE 2022.]</small>
 
 Código publicado en el Diario Oficial de la Federación, el martes 24 de diciembre de 2019.
 
@@ -493,4 +493,6 @@ D.O.F. 1 DE JUNIO DE 2022.
 
 Primero. Se instruye al Director General la expedición de las presentes modificaciones al Código de Ética y su publicación en el Diario Oficial de la Federación.
 
-Segundo. Las presentes modificaciones al Código de Ética del Instituto del Fondo Nacional de la Vivienda para los Trabajadores que consideran las actualizaciones publicadas en el Diario Oficial de la Federación el 22 de mayo de 2020 y 10 de marzo de 2021, aprobadas por la Asamblea General del Instituto adoptadas en sus sesiones ordinarias número 119 y 122, celebradas el 6 de diciembre de 2019 y 11 de diciembre de 2020, entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+> <small>(F. DE E., D.O.F. 20 DE JULIO DE 2022)</small>
+
+Segundo. Las presentes modificaciones al Código de Ética del Instituto del Fondo Nacional de la Vivienda para los Trabajadores que consideran las actualizaciones publicadas en el Diario Oficial de la Federación el 24 de diciembre de 2019 y 10 de marzo de 2021, aprobadas por la Asamblea General del Instituto adoptadas en sus sesiones ordinarias número 119 y 122, celebradas el 6 de diciembre de 2019 y 11 de diciembre de 2020, entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
