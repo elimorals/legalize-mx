@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2022-07-10"
+last_updated: "2022-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2022.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -15533,6 +15533,14 @@ Las anotaciones preventivas, cualquiera que sea su origen caducarán a los tres 
 
 La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; pero cualquier interesado podrá solicitar en este caso que se registre la cancelación de dicho asiento.
 
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2022)</small>
+
+Con la solicitud de caducidad que reciba la autoridad registral, se deberá otorgar la garantía de audiencia a la parte interesada en que subsista la medida, así como dar vista a la autoridad que la ordeno, para que manifiesten lo que a su derecho convenga.
+
+> <small>(ADICIONADO, B.O. 20 DE JULIO DE 2022)</small>
+
+Tratándose de embargos precautorios y embargos, ambos relacionados con créditos laborales, no operará la caducidad. Estas anotaciones sólo se extinguirán por mandamiento de la autoridad que haya ordenado la inscripción.
+
 ###### Artículo 2946.
 
 Cancelado un asiento, se presume extinguido el derecho a que dicho asiento se refiere.
@@ -16182,3 +16190,11 @@ B.O. 10 DE JULIO DE 2022.
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+B.O. 20 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2833 SE ADICIONAN UN TERCER PÁRRAFO Y UN CUARTO PÁRRAFO AL ARTÍCULO 2945 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
