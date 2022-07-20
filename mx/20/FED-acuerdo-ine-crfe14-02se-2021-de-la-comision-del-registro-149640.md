@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-crfe14-02se-2021-de-la-comision-del-registro-149640
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-06-02"
-last_updated: "2021-10-29"
+last_updated: "2022-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-05-03"
 
 EXTRACTO DEL ACUERDO INE/CRFE14/02SE/2021 DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL PLAN DE TRABAJO DEL PROYECTO DE LA DISTRITACIÓN NACIONAL 2021-2023
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE JULIO DE 2022.
 
 Extracto publicado en el Número 2 del Diario Oficial de la Federación, el miércoles 2 de junio de 2021.
 
@@ -108,3 +108,43 @@ DOF:
 www.dof.gob.mx/2021/INE/Acuerdo-INE-CRFE40-04SE-2021.pdf
 
 Ciudad de México, a 24 de agosto de 2021.- Director Ejecutivo del Registro Federal de Electores, René Miranda Jaimes.- Rúbrica.
+
+D.O.F. 20 DE JULIO DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “EXTRACTO DEL ACUERDO INE/CRFE26/04SE/2022 DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS AJUSTES AL PLAN DE TRABAJO DEL PROYECTO DE LA DISTRITACIÓN NACIONAL 2021-2023, APROBADO Y MODIFICADO MEDIANTE ACUERDOS INE/CRFE14/02SE/2021 E INE/CRFE40/04SE/2021, RESPECTIVAMENTE”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+EXTRACTO DEL ACUERDO INE/CRFE26/04SE/2022 DE LA COMISIÓN DEL REGISTRO FEDERAL DE ELECTORES DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS AJUSTES AL PLAN DE TRABAJO DEL PROYECTO DE LA DISTRITACIÓN NACIONAL 2021-2023, APROBADO Y MODIFICADO MEDIANTE ACUERDOS INE/CRFE14/02SE/2021 E INE/CRFE40/04SE/2021, RESPECTIVAMENTE
+
+ANTECEDENTES
+
+[...]
+
+ACUERDOS
+
+PRIMERO. Se aprueban los ajustes al PTDN21-23, aprobado y modificado en los acuerdos INE/CRFE14/02SE/2021 e INE/CRFE40/04SE/2021, respectivamente, de conformidad con el anexo que acompaña al presente acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se aprueba autorizar a la DERFE, con el apoyo del Comité Técnico para el Seguimiento y Evaluación de los Trabajos de Distritación Nacional (CTD), así como con el previo conocimiento y, en su caso, opinión de la Comisión Nacional de Vigilancia (CNV), a realizar, de ser necesario, los ajustes al PTDN21-23, de lo cual deberá informar a esta CRFE, en la medida en que las modificaciones no resulten sustantivas y permitan una mejor instrumentación o, en su caso, para someter a su consideración lo conducente.
+
+TERCERO. Hágase del conocimiento de la JGE la aprobación de este acuerdo y su anexo, para los efectos conducentes.
+
+CUARTO. Hágase del conocimiento de la CNV y del CTD lo aprobado por esta CRFE.
+
+QUINTO. El presente acuerdo y su anexo entrará en vigor el día de su aprobación por esta CRFE. [...]
+
+El presente acuerdo fue aprobado en la cuarta sesión extraordinaria de la CRFE, celebrada el día 26 de mayo de 2022, por la votación unánime del Consejero Electoral Uuc-kib Espadas Ancona, la Consejera Electoral Carla Astrid Humphrey Jordan, el Consejero Electoral Jaime Rivera Velázquez, el Consejero Electoral José Roberto Ruiz Saldaña, y el Consejero Electoral Ciro Murayama Rendón, Presidente de la Comisión.
+
+El Presidente de la Comisión del Registro Federal de Electores y Consejero Electoral, Dr. Ciro Murayama Rendón.- Rúbrica.- El Secretario Técnico de la Comisión del Registro Federal de Electores y Director Ejecutivo del Registro Federal de Electores, Ing. René Miranda Jaimes.- Rúbrica.
+
+El acuerdo y su anexo que forma parte integral del mismo, pueden ser consultados en las siguientes direcciones electrónicas:
+
+Acuerdo:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/135791/Acuerdo%20INE-CRFE26-04SE-2022.pdf?sequence=4&isAllowed=y
+
+Anexo:
+
+https://repositoriodocumental.ine.mx/xmlui/bitstream/handle/123456789/135791/crfe-4se-2022-05-26-p4-2-informe.pdf?sequence=2&isAllowed=y
+
+DOF: www.dof.gob.mx/2022/INE/Acuerdo-INE-CRFE26-04SE-2022.pdf
+
+Ciudad de México, a 26 de mayo de 2022.- Director Ejecutivo del Registro Federal de Electores, René Miranda Jaimes.- Rúbrica.
