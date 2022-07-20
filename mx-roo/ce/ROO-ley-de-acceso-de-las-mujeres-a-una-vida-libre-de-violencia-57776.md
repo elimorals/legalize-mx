@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2021-10-21"
+last_updated: "2022-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2022.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -757,6 +757,10 @@ El Programa Estatal deberá considerar los programas que señalan las fracciones
 
 El Ejecutivo del Estado propondrá en el Proyecto de Presupuesto de Egresos del Estado asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema Estatal y del Programa Estatal.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2022)</small>
+
+Para efectos del párrafo anterior, dentro de la propuesta correspondiente, deberá contemplarse, necesariamente, la asignación de recursos presupuestales suficientes, para la instalación, operación y mantenimiento, de al menos 1 refugio por cada 400 mil habitantes, con capacidad para la atención de al menos 10 usuarias cada uno, para la atención de mujeres víctimas de violencia, a los que se refiere la presente Ley, correspondiendo al Poder Legislativo del Estado, en el ámbito de su competencia, realizar los ajustes conducentes, para su debido cumplimiento.
+
 ### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### ARTÍCULO 38.
@@ -1193,7 +1197,9 @@ V. Apoyar la creación de programas de reeducación integral para los agresores;
 
 VI. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
 
-VII. Apoyar la creación de refugios seguros para las víctimas, así como su resguardo físico cuando así se requiera;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2022)</small>
+
+VII. Apoyar, en la medida de sus posibilidades, la creación, operación y fortalecimiento de refugios seguros para las víctimas, sus hijas e hijos, así como su resguardo físico cuando así se requiera, de acuerdo a las condiciones establecidas en la presente Ley;
 
 VIII. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
 
@@ -1275,7 +1281,11 @@ V. Promover ante la Legislatura del Estado, las propuestas e iniciativas generad
 
 VI. Promover reformas legislativas en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-VIII (SIC). Elaborar, promover y conducir el trabajo legislativo de armonización del marco normativo estatal o municipal con el fin de actualizar cada uno de sus preceptos para eliminar las desigualdades, y la discriminación mediante la perspectiva de género;
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2022)</small>
+
+VII. Participar, a través de la persona que presida la Comisión, en los procesos legislativos concernientes a la asignación y fiscalización de recursos presupuestales, relacionados al cumplimiento de los objetivos contemplados en la presente Ley, debiéndose tomar en cuenta, en el dictamen correspondiente, la opinión que se emita sobre el particular, en la votación que se realice para tales efectos;
+
+VIII. Elaborar, promover y conducir el trabajo legislativo de armonización del marco normativo estatal o municipal con el fin de actualizar cada uno de sus preceptos para eliminar las desigualdades, y la discriminación mediante la perspectiva de género;
 
 IX. Fungir como integrante en la Mesa de Armonización del Sistema Estatal, y
 
@@ -1441,7 +1451,9 @@ El agresor debe participar obligatoriamente en los tratamientos psicoterapéutic
 
 Corresponde a los refugios, desde la perspectiva de género:
 
-I. Aplicar el Programa Estatal;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2022)</small>
+
+I. Aplicar el Programa Estatal y, en su caso, lo dispuesto en el Programa Nacional.
 
 II. Velar por la seguridad de las mujeres que se encuentren en ellos;
 
@@ -1626,3 +1638,15 @@ P.O. 21 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Los Ayuntamientos deberán emitir las disposiciones reglamentarias para dar cumplimiento a lo establecido en el presente decreto, en un plazo no mayor a 180 días naturales posteriores a la entrada en vigor del mismo.
+
+P.O. 20 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 252 POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 48 Y LA FRACCIÓN I DEL ARTÍCULO 52; Y SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 37 Y LA FRACCIÓN VII AL ARTÍCULO 48-QUÁTER, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas, por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal del que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
+
+La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
