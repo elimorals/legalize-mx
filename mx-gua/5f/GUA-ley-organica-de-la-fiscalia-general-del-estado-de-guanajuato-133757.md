@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-de-la-fiscalia-general-del-estado-de-guanajuato-13
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-02-15"
-last_updated: "2019-02-15"
+last_updated: "2022-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
 
 Ley publicada en la Tercera Parte al Número 34 del Periódico Oficial del Estado de Guanajuato, el viernes 15 de febrero de 2019.
 
@@ -721,7 +721,9 @@ Competencia e integración
 
 El Consejo Externo de Consulta será el organismo colegiado para el establecimiento de recomendaciones o propuestas de pautas, directrices, objetivos y procedimientos con carácter técnico o social, que auxiliará a la Fiscalía General en el ejercicio de sus funciones.
 
-Se integrará por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución en materia de procuración de justicia, investigación criminal y derechos humanos, quienes durarán en su encargo tres años y podrán ser removidos previamente por inasistencias reiteradas injustificadas a las sesiones del Consejo, por divulgar información reservada o confidencial, por alguna causa justificada que afecte su probidad y prestigio o por alguna de las causas establecidas en la normativa a los actos de particulares vinculadas con faltas administrativas graves.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Se integrará por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución en materia de procuración de justicia, investigación criminal y derechos humanos, sin que en ningún caso puedan ser más de tres personas del mismo género, a fin de garantizar el principio de paridad de género. Quienes integren el Consejo durarán en su encargo tres años y podrán ser removidos previamente por inasistencias reiteradas injustificadas a las sesiones del Consejo, por divulgar información reservada o confidencial, por alguna causa justificada que afecte su probidad y prestigio o por alguna de las causas establecidas en la normativa a los actos de particulares vinculadas con faltas administrativas graves.
 
 Los cargos de los integrantes del Consejo serán honoríficos.
 
@@ -1954,3 +1956,13 @@ EL SECRETARIO DE GOBIERNO
 LUIS ERNESTO AYALA TORRES
 
 DIEGO SINHUE RODRÍGUEZ VALLEJO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 80 MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 43 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. Para dar cumplimiento al presente decreto la integración y designación paritaria de géneros habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
