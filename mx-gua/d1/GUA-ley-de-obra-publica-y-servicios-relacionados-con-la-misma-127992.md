@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-12799
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-20"
-last_updated: "2018-09-21"
+last_updated: "2022-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
 
 Ley publicada en la Cuarta Parte al Número 80 del Periódico Oficial del Estado de Guanajuato, el viernes 20 de abril de 2018.
 
@@ -369,6 +369,10 @@ XIII. Toda instalación pública deberá asegurar la accesibilidad con criterios
 
 XIV. Las investigaciones, asesorías, consultorías, gerenciamiento y estudios que se requieran, incluyendo los proyectos arquitectónicos y de ingeniería necesarios; y
 
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
+
+XIV-1. Los estudios de costos y de mercadeo que realice la Unidad Estatal de Costos; y
+
 XV. Los demás requerimientos técnicos y características de los trabajos.
 
 Actividad previa a contratar
@@ -421,9 +425,35 @@ XI. La posibilidad de incrementar las metas programadas al existir economías o 
 
 XII. Los trabajos de conservación y mantenimiento preventivo y correctivo de la infraestructura y de los bienes inmuebles a su cargo;
 
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
+
+XII-1. Los análisis, consideraciones o dictámenes que realicen la Unidad Estatal de Costos o la Unidad Estatal de Proyectos;
+
 XIII. La coordinación que sea necesaria para resolver posibles interferencias y evitar duplicidad de trabajos o interrupción de servicios públicos; y
 
 XIV. Las constancias que aseguren la legítima propiedad o posesión de los inmuebles en que se va a ejecutar la obra pública.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Unidad Estatal de Costos
+
+###### Artículo 21
+
+1. La Unidad Estatal de Costos es la unidad técnico normativa encargada de analizar y supervisar los estudios de costos y de mercadeo que sean la base para asegurar las mejores condiciones para la contratación de la obra pública en el Estado, así como de elaborar y actualizar un tabulador de costos a partir del mercadeo regional de costos de los insumos de la construcción en general que sirva como referencia a los ejecutores de obra pública y servicios relacionados con la misma, así como a las dependencias y entidades de la administración pública estatal que convengan con otros entes públicos la ejecución de programas y recursos de inversión.
+
+La Unidad Estatal de Costos será presidida por quien sea titular de la Secretaría y estará integrada por las dependencias y entidades de la administración pública estatal ejecutoras de obra pública y servicios relacionados con la misma, la cual podrá contar con invitados atendiendo a la naturaleza de los temas a tratar en el desarrollo de las sesiones.
+
+Los trabajos de esta unidad serán coordinados por un área técnica especializada de la Secretaría y contará además con un consejo consultivo que fungirá como órgano de asesoría y consulta. La organización y funcionamiento de dicha unidad, así (sic) de su consejo consultivo, se establecerán en los lineamientos que emita quien sea titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Unidad Estatal de Proyectos
+
+###### Artículo 21
+
+2. La Secretaría establecerá y operará la Unidad Estatal de Proyectos, lo cual será una unidad especializada encargada de gestionar y coordinar una cartera de proyectos en materias de infraestructura, movilidad y conectividad en el Estado.
+
+La Unidad Estatal de Proyectos registrará y realizará el seguimiento a la preparación técnica de todos los proyectos previamente a ejecutarse, con el fin de contar con un banco de información para mejorar la planeación y ejecución de las obras públicas y servicios relacionados con la misma.
 
 Previsión para la programación y presupuestación
 
@@ -491,15 +521,35 @@ Previsión de las medidas de mitigación ambiental
 
 Los entes públicos deberán supervisar el cumplimiento en sus procedimientos de contratación, de las medidas de mitigación contempladas en las resoluciones de impacto ambiental, de conformidad con la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato.
 
-### Capítulo Único. Regulación del Padrón Único de Contratistas para el Estado y los Municipios
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE JULIO DE 2022)</small>
 
-Obligatoriedad de la inscripción en el Padrón
+### Capítulo IV. Portal Estatal Electrónico de Obra Pública
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Portal Estatal Electrónico de obra pública
+
+###### Artículo 30
+
+1. La Secretaría establecerá, operará y actualizará el Portal Estatal Electrónico de Obra Pública, el cual será una herramienta de información digital accesible y pública que permita recopilar, sistematizar, analizar y monitorear la información relacionada con las etapas de la contratación de la obra pública y de los servicios relacionados con la misma.
+
+El portal deberá contener además los datos relativos al padrón único de contratistas; así como la normatividad actualizada y vigente relativa a la obra pública y servicios relacionados con la misma.
+
+Toda la información que genere la Secretaría en los procedimientos de contratación de obra será pública, con excepción de aquella información que sea de naturaleza reservada o confidencial de conformidad con la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Procedimientos de contratación a través de medios electrónicos
+
+###### Artículo 30
+
+2. Los trámites relativos a los procedimientos de contratación previstos por esta ley podrán llevarse a cabo en lo conducente por medios electrónicos, a través del Portal Estatal Electrónico de Obra Pública en los términos establecidos en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, el reglamento de la Ley y demás legislación aplicable.
 
 ## Título Tercero. Padrón Único de Contratistas para el Estado y los Municipios
 
-### Capítulo Único. Requisitos para convocar y adjudicar
+### Capítulo Único. Regulación del Padrón Único de Contratistas para el Estado y los Municipios
 
-Formas de realizar obra pública y servicios relacionados con la misma
+Obligatoriedad de la inscripción en el Padrón
 
 ###### Artículo 31.
 
@@ -659,9 +709,9 @@ II. Se trate de trabajos que requieran fundamentalmente, de mano de obra campesi
 
 ## Título Cuarto. Procedimientos para la contratación de la obra pública y servicios relacionados con la misma
 
-### Capítulo I. Licitaciones públicas
+### Capítulo Único. Requisitos para convocar y adjudicar
 
-Modalidades de las licitaciones públicas
+Formas de realizar obra pública y servicios relacionados con la misma
 
 ###### Artículo 43.
 
@@ -733,9 +783,9 @@ Los entes públicos publicarán, a través de los medios de difusión electróni
 
 ## Título Quinto. Licitación pública
 
-### Capítulo II. Requisitos de la convocatoria
+### Capítulo I. Licitaciones públicas
 
-Requisitos de la convocatoria a la licitación pública
+Modalidades de las licitaciones públicas
 
 ###### Artículo 49.
 
@@ -765,9 +815,9 @@ Podrá negarse la participación a extranjeros, cuando no se tenga celebrado un 
 
 Se entiende por tratado, el definido como tal en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.
 
-### Capítulo III. Bases de la licitación
+### Capítulo II. Requisitos de la convocatoria
 
-Contenido de las bases
+Requisitos de la convocatoria a la licitación pública
 
 ###### Artículo 53.
 
@@ -811,9 +861,9 @@ XVIII. La indicación de que no podrán participar quienes se encuentren dentro 
 
 Para la participación, contratación o adjudicación de obra pública y servicios relacionados con la misma, no se podrán exigir requisitos distintos a los señalados en la convocatoria, las bases de licitación o los derivados de la o las juntas de aclaraciones.
 
-### Capítulo IV. Términos de la licitación
+### Capítulo III. Bases de la licitación
 
-Procedimiento de las licitaciones
+Contenido de las bases
 
 ###### Artículo 54.
 
@@ -881,9 +931,9 @@ Proyectos integrales
 
 Cuando se trate de proyectos integrales, los entes públicos establecerán los estudios e ingenierías que deberán ser elaborados por los participantes, asumiendo éstos bajo su total responsabilidad, las cantidades de obra cuantificadas.
 
-### Capítulo V. Procedimiento de la licitación pública
+### Capítulo IV. Términos de la licitación
 
-Desahogo del acto de presentación y apertura
+Procedimiento de las licitaciones
 
 ###### Artículo 57.
 
@@ -923,9 +973,9 @@ Cuando la proposición ganadora de la licitación haya sido presentada en forma 
 
 En el caso de las proposiciones presentadas por medios electrónicos el sobre será generado mediante el uso de tecnologías que resguarden la confidencialidad de la información de tal forma que sea inviolable, conforme a las disposiciones técnicas que al efecto establezca el órgano interno de control.
 
-### Capítulo VI. Propuestas técnica y económica
+### Capítulo V. Procedimiento de la licitación pública
 
-Contenido de la propuesta técnica
+Desahogo del acto de presentación y apertura
 
 ###### Artículo 59.
 
@@ -967,9 +1017,9 @@ No serán objeto de evaluación las condiciones establecidas por los entes públ
 
 Cuando el ente público convocante tenga necesidad de solicitar al licitador las aclaraciones pertinentes, o aportar información adicional para realizar la correcta evaluación de las proposiciones, dicha comunicación se realizará según lo indicado por el reglamento de esta Ley, siempre y cuando no implique alteración alguna a la parte técnica o económica de su proposición.
 
-### Capítulo VII. Evaluación de las propuestas
+### Capítulo VI. Propuestas técnica y económica
 
-Dictamen de evaluación
+Contenido de la propuesta técnica
 
 ###### Artículo 61.
 
@@ -1033,11 +1083,9 @@ IV. El cargo por utilidad. El cual será fijado por el licitador, mediante la ap
 
 No se podrán solicitar cargos adicionales ni diferentes a los aquí señalados.
 
-### Capítulo VIII. Emisión del fallo
+### Capítulo VII. Evaluación de las propuestas
 
-Diferimiento y suspensión del fallo
-
-> <small>(F. DE E., P.O. 4 DE MAYO DE 2018)</small>
+Dictamen de evaluación
 
 ###### Artículo 64.
 
@@ -1101,9 +1149,11 @@ En caso de que dos o más propuestas cumplan con los criterios a que se refiere 
 
 En el supuesto de que las propuestas a que se refiere este artículo, sean de participantes del Estado, se elegirá a la contratista del Municipio donde se ejecutará la obra o servicio.
 
-### Capítulo I. Disposiciones comunes
+### Capítulo VIII. Emisión del fallo
 
-Procedimientos de contratación diversos a la licitación pública
+Diferimiento y suspensión del fallo
+
+> <small>(F. DE E., P.O. 4 DE MAYO DE 2018)</small>
 
 ###### Artículo 68.
 
@@ -1161,9 +1211,9 @@ Si transcurrido dicho plazo, no se firma el contrato respectivo, por causas impu
 
 ## Título Sexto. Procedimientos de licitación simplificada y de adjudicación directa
 
-### Capítulo II. Procedimiento de licitación simplificada
+### Capítulo I. Disposiciones comunes
 
-Etapas del procedimiento de licitación simplificada
+Procedimientos de contratación diversos a la licitación pública
 
 ###### Artículo 73.
 
@@ -1179,9 +1229,9 @@ En estos casos, el titular del área responsable de la contratación de los trab
 
 Cuando por excepción se adjudique un contrato rebasando el rango de contratación de la adjudicación directa, a la información que se remita al órgano interno de control correspondiente, deberá agregarse además, la justificación técnica y legal de dicha contratación.
 
-### Capítulo III. Adjudicación directa
+### Capítulo II. Procedimiento de licitación simplificada
 
-Procedencia de la contratación por adjudicación directa
+Etapas del procedimiento de licitación simplificada
 
 ###### Artículo 74.
 
@@ -1207,9 +1257,9 @@ El fallo deberá dictarse en junta pública y se notificará por escrito a la co
 
 Será aplicable para el procedimiento de licitación simplificada en lo conducente, lo relativo al procedimiento de licitación pública.
 
-### Capítulo Único. Garantías y anticipos
+### Capítulo III. Adjudicación directa
 
-Garantías a otorgarse
+Procedencia de la contratación por adjudicación directa
 
 ###### Artículo 76.
 
@@ -1255,9 +1305,9 @@ En los supuestos anteriormente señalados, el ente público deberá acreditar lo
 
 ## Título Séptimo. Forma de garantizar la ejecución de la obra pública y los servicios relacionados con la misma
 
-### Capítulo Único. Administración directa
+### Capítulo Único. Garantías y anticipos
 
-Obra pública o servicios en la modalidad de administración directa
+Garantías a otorgarse
 
 ###### Artículo 78.
 
@@ -1371,9 +1421,9 @@ En los casos referidos en este artículo, no se otorgará porcentaje alguno de a
 
 ## Título Octavo. Obra pública o servicios por administración directa
 
-### Capítulo I. Contratación
+### Capítulo Único. Administración directa
 
-Contenido de los contratos de obra pública y de servicios relacionados con la misma
+Obra pública o servicios en la modalidad de administración directa
 
 ###### Artículo 87.
 
@@ -1403,9 +1453,9 @@ Formará parte integrante del acuerdo, la descripción pormenorizada de la obra 
 
 ## Título Noveno. Contratación y ejecución de la obra pública y servicios relacionados con la misma
 
-### Capítulo II. Terminación de los contratos
+### Capítulo I. Contratación
 
-Causas para terminar un contrato
+Contenido de los contratos de obra pública y de servicios relacionados con la misma
 
 ###### Artículo 89.
 
@@ -1529,9 +1579,9 @@ Las dependencias y entidades, bajo su responsabilidad, podrán contratar obras p
 
 En estos casos la dependencia o entidad podrá adjudicar el contrato al licitador que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la proposición que inicialmente hubiere resultado ganadora no sea superior al diez por ciento. Tratándose de procedimientos de contratación en los que se hayan considerado puntos y porcentajes como método para la evaluación de las proposiciones, se podrá adjudicar a la proposición que siga en calificación a la del ganador.
 
-### Capítulo III. Ejecución
+### Capítulo II. Terminación de los contratos
 
-Periodo de ejecución
+Causas para terminar un contrato
 
 ###### Artículo 97.
 
@@ -1591,9 +1641,9 @@ V. De resultar procedente, el ente público contratante realizará los trámites
 
 De considerarlo conveniente, el ente público contratante podrá conservar a la o las subcontratistas que en el momento de la rescisión del contrato, estuvieren trabajando en la obra, a fin de no entorpecer el avance de los trabajos.
 
-### Capítulo IV. Modificación de los contratos
+### Capítulo III. Ejecución
 
-Modificación en tiempo, volumen de la obra y costo
+Periodo de ejecución
 
 ###### Artículo 101.
 
@@ -1651,9 +1701,9 @@ Los pagos en exceso que haya recibido la contratista y los intereses que generen
 
 No se considerará pago en exceso cuando las diferencias que resulten a cargo de la contratista, sean compensadas en la estimación siguiente o en el finiquito.
 
-### Capítulo V. Ajuste de costos
+### Capítulo IV. Modificación de los contratos
 
-Supuesto para el ajuste de los costos
+Modificación en tiempo, volumen de la obra y costo
 
 ###### Artículo 107.
 
@@ -1683,9 +1733,9 @@ Las modificaciones al plazo serán independientes a las modificaciones al monto,
 
 Si de la modificación al monto del contrato, resulta necesaria la modificación al plazo de ejecución, su formalización podrá integrarse en un solo documento.
 
-### Capítulo VI. Entrega-recepción
+### Capítulo V. Ajuste de costos
 
-Obligaciones de la contratista
+Supuesto para el ajuste de los costos
 
 ###### Artículo 108.
 
@@ -1729,9 +1779,9 @@ VI. En relación con los costos de mano de obra, los incrementos o decrementos s
 
 El factor de salario real permanecerá fijo hasta la terminación de los trabajos contratados, incluyendo convenios, debiendo considerar los ajustes a las prestaciones que para tal efecto determine la Ley del Seguro Social, dándoles un trato similar a un ajuste de costos.
 
-### Capítulo VII. Procedimiento de Conclllación (sic)
+### Capítulo VI. Entrega-recepción
 
-Conciliación
+Obligaciones de la contratista
 
 ###### Artículo 110.
 
@@ -1817,9 +1867,9 @@ Para tal efecto, una vez concluida la obra o parte utilizada de la misma, los en
 
 La operación de la obra pública genera la responsabilidad de los entes públicos que la tienen a su cargo, de asignar presupuesto anual para su operación y constante mantenimiento, de conformidad a lo señalado en el párrafo anterior.
 
-### Capítulo Único. Información y verificación
+### Capítulo VII. Procedimiento de Conclllación (sic)
 
-Conservación y disposición de la documentación
+Conciliación
 
 ###### Artículo 120.
 
@@ -1827,9 +1877,9 @@ En cualquier momento los entes públicos y las contratistas, podrán presentar a
 
 ## Título Décimo. Información y verificación
 
-### Capítulo Único. Infracciones y sanciones
+### Capítulo Único. Información y verificación
 
-Infracciones por incumplimiento de contrato
+Conservación y disposición de la documentación
 
 ###### Artículo 121.
 
@@ -1857,9 +1907,9 @@ En caso de que el resultado del dictamen arroje irregularidades, el órgano inte
 
 ## Título Undécimo. Infracciones y sanciones
 
-### Capítulo Único. Notificaciones
+### Capítulo Único. Infracciones y sanciones
 
-Plazo para efectuar las notificaciones
+Infracciones por incumplimiento de contrato
 
 ###### Artículo 125.
 
@@ -1913,9 +1963,9 @@ Las sanciones y responsabilidades a que se refiere esta Ley, serán independient
 
 ## Título Duodécimo. Notificaciones
 
-### Capítulo I. Recurso de revocación
+### Capítulo Único. Notificaciones
 
-Procedencia del recurso de Revocación
+Plazo para efectuar las notificaciones
 
 ###### Artículo 131.
 
@@ -1979,9 +2029,9 @@ Las notificaciones en la dirección electrónica de la contratista deberán prac
 
 ## Título Décimo Tercero. Recurso de revocación y suspensión
 
-### Capítulo II. Suspensión
+### Capítulo I. Recurso de revocación
 
-Trámite de suspensión
+Procedencia del recurso de Revocación
 
 ###### Artículo 135.
 
@@ -2044,6 +2094,10 @@ En el auto de radicación, si hubiere sido solicitada, se resolverá sobre la su
 Si la naturaleza de las pruebas lo permite, en un plazo que no excederá de quince días hábiles contados a partir del auto que admita el recurso, se emitirá la resolución correspondiente.
 
 De no ser posible lo anterior, a partir del día siguiente a aquél en que haya concluido el desahogo de la última prueba admitida, se computarán los quince días hábiles para emitir la resolución.
+
+### Capítulo II. Suspensión
+
+Trámite de suspensión
 
 ###### Artículo 141.
 
@@ -2126,3 +2180,15 @@ Artículo Octavo. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Noveno. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 21 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 87 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XIV-1 AL ARTÍCULO 18; LA FRACCIÓN XII-1 AL ARTÍCULO 21; EL ARTÍCULO 21-1; EL ARTÍCULO 21-2; Y UN CAPÍTULO IV AL TÍTULO SEGUNDO, DENOMINADO PORTAL ESTATAL ELECTRÓNICO DE OBRA PÚBLICA, INTEGRADO CON LOS ARTÍCULOS 30-1 Y 30-2, TODOS DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Reglamentación
+
+Artículo Segundo. El titular del Poder Ejecutivo deberá actualizar los reglamentos y demás disposiciones a que se refiere el presente Decreto, dentro de los ciento ochenta días posteriores a su entrada en vigor.
