@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-del-estado-de-guanajuato-para-el-ejercicio-1533
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-31"
-last_updated: "2021-12-31"
+last_updated: "2022-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Parte del Número 261 del Periódico Oficial del Estado de Guanajuato, el viernes 31 de diciembre de 2021.
 
@@ -2839,7 +2839,9 @@ Artículo Quinto. Las personas residentes del municipio de Guanajuato; que hayan
 
 Transferencia de supuestos de cobro y tarifa
 
-Artículo Sexto. Una vez que entre en vigencia las reformas, en las que se transfieren las atribuciones en materia de expedición de licencias, permisos para conducir y la expedición de constancias de movilidad y reconocimiento en materia de tránsito, de las secretarías de Gobierno a la de Seguridad Pública del Estado, y se concluya el proceso de entrega recepción, los cobros de los derechos previstos en los artículos 24, 25 y 26 de la presente Ley se entenderán conferidos a la Secretaría de Seguridad Pública.
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Artículo Sexto. Una vez que entren en vigencia las reformas, en las que se transfieren las atribuciones en materia de expedición de licencias y permisos para conducir y la expedición de constancias de movilidad y reconocimiento en materia de tránsito, de las secretarías de Gobierno a la de Seguridad Pública del Estado, y se concluya el proceso de entrega recepción, los cobros de los derechos previstos en los artículos 24 y 26 de la presente Ley se entenderán conferidos a la Secretaría de Seguridad Pública.
 
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 16 DE DICIEMBRE DE 2021 ARMANDO RANGEL HERNÁNDEZ.- DIPUTADO PRESIDENTE.- CUAUHTÉMOC BECERRA GONZÁLEZ.- DIPUTADO VICEPRESIDENTE.- NOEMÍ MÁRQUEZ MÁRQUEZ.- DIPUTADA SECRETARIA.- JANET MELANIE MURILLO CHÁVEZ.- DIPUTADA SECRETARIA.-RÚBRICAS.
 
@@ -2854,3 +2856,11 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 LA SECRETARIA DE GOBIERNO
 
 LIBIA DENNISE GARCÍA MUÑOZ LEDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 81 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2022”.]
+
+Artículo Primero. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
