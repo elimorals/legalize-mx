@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2022-04-07"
+last_updated: "2022-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -509,7 +509,9 @@ III. Formar y especializar en los términos de la presente Ley, al personal de l
 
 IV. Implementar acciones de prevención y erradicación de los delitos sexuales y trata de personas contra las mujeres;
 
-V. Auxiliar y supervisar en su caso la implementación en la ejecución de las órdenes de protección preventivas y emergentes;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2022)</small>
+
+V. Auxiliar y supervisar en su caso la implementación en la ejecución de las órdenes de protección;
 
 VI. Realizar, en coordinación con el IMUG, campañas de prevención del delito, en función de los factores de riesgo que atañen a las mujeres; y
 
@@ -887,6 +889,8 @@ En ningún caso se podrán mantener a las víctimas en los refugios en contra de
 
 ### Capítulo X. Órdenes de protección
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
+
 Órdenes de protección
 
 ###### Artículo 37.
@@ -949,7 +953,31 @@ Incumplimiento de la Ley
 
 ###### Artículo 42.
 
-Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares, podrán otorgarse de oficio o a petición de parte, según sea el caso, a través del Ministerio Público, las autoridades administrativas, o por los órganos jurisdiccionales competentes, conforme al momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Estatal Electoral de Guanajuato y el Instituto Electoral del Estado de Guanajuato, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Principios de las órdenes de protección
+
+###### Artículo 42 Bis.
+
+Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+
+I. Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
+
+II. Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+
+III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
+
+IV. Principio de oportunidad y eficacia: Las órdenes de protección deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+
+V. Principio de accesibilidad: Se deberá articular un procedimiento sencillo que facilite a las víctimas obtener la protección inmediata que requiere su situación;
+
+VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática; y
+
+VII. Principio pro-persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla el interés superior de la niñez en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de dieciocho años de edad.
 
 Fundamentación y motivación
 
@@ -957,111 +985,227 @@ Fundamentación y motivación
 
 Todas las órdenes de protección que se dicten deberán ser fundadas y motivadas.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
+
 Tipos y temporalidad de las órdenes de protección
 
 ###### Artículo 44.
 
 Las órdenes de protección son personalísimas e intransferibles y podrán ser:
 
-I. De emergencia;
+I. Administrativas: Son las emitidas por el Ministerio Público y las autoridades administrativas.
 
-II. Preventivas; y
+II. De naturaleza jurisdiccional: Son las emitidas por los órganos encargados de la impartición de justicia.
 
-III. De naturaleza civil.
+Las mismas podrán consistir en una o varias de las previstas en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+Deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan.
 
-Las órdenes de protección de emergencia y preventivas, tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las ocho horas siguientes al conocimiento de los hechos que las generan.
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
 
-A quien desacate una orden de protección de emergencia o preventiva, le serán aplicables los medios de apremio establecidos en la legislación procesal penal vigente en el Estado.
+Autoridades Administrativas
 
-Órdenes de protección de emergencia
+###### Artículo 44 Bis.
+
+Las órdenes de protección administrativas, además del Ministerio Público, podrán ser emitidas por las siguientes autoridades administrativas:
+
+I. Secretaría de Gobierno;
+
+II. Instituto para las Mujeres Guanajuatenses;
+
+III. Instituciones de seguridad pública municipales; e
+
+IV. Instancias municipales de atención a la mujer;
+
+De ser necesario, dichas autoridades deberán coordinarse para garantizar el cumplimiento, monitoreo y ejecución de las órdenes de protección administrativas.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Información en las órdenes de protección
+
+###### Artículo 44 Ter.
+
+Cuando una mujer o niña víctima de violencia soliciten una orden de protección a las autoridades administrativas, ministeriales o judiciales, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+
+La autoridad deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
+
+El Ministerio Público que reciba una denuncia anónima de mujeres y niñas víctimas de violencia, decretará las órdenes de protección correspondientes.
 
 ###### Artículo 45.
 
-Son órdenes de protección de emergencia las siguientes:
-
-I. Prohibición al probable agresor de acercarse al domicilio, lugar de trabajo, de estudios, y del domicilio de las y los ascendientes y descendientes;
-
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DEL 2020)</small>
-
-II. Prohibición de intimidar o molestar por cualquier medio a la víctima en su entorno social, así como a cualquier integrante de su familia;
-
-III. Depósito de la víctima y de sus hijas e hijos en un refugio que garantice su integridad personal;
-
-IV. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad de la víctima;
-
-V. Desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo; y
-
-VI. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad.
-
-Órdenes de protección preventivas
+(DEROGADO, P.O. 21 DE JULIO DE 2022)
 
 ###### Artículo 46.
 
-Son órdenes de protección preventivas las siguientes:
-
-I. La retención y aseguramiento de armas de fuego propiedad del agresor o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia.
-
-Es aplicable lo anterior a las armas punzo cortantes y punzo contundentes o cualquiera otra que, independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
-
-II. La realización de un inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
-
-III. Garantizar el uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
-
-IV. Permitir el acceso al domicilio en común, de autoridades policiacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
-
-V. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos; y
-
-VI. Auxilio policiaco a favor de la víctima con autorización expresa de ésta de ingreso al domicilio donde se localice o se encuentre.
-
-Autoridad competente para órdenes de emergencia y preventivas
+(DEROGADO, P.O. 21 DE JULIO DE 2022)
 
 ###### Artículo 47.
 
-El Ministerio Público es la autoridad competente para expedir órdenes de protección de emergencia y preventivas. Los cuerpos policiacos estarán obligados a auxiliarlo para el cumplimiento de éstas.
-
-Órdenes de protección de naturaleza civil
+(DEROGADO, P.O. 21 DE JULIO DE 2022)
 
 ###### Artículo 48.
 
-Son órdenes de protección de naturaleza civil las siguientes:
-
-I. Custodia de menores, la que implicaría la suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes, cuando la víctima se encuentre en un refugio;
-
-II. Embargo de bienes suficientes del agresor para garantizar el cumplimiento de la obligación alimentaria; y
-
-III. Las demás contenidas en la legislación civil.
-
-Autoridad competente para órdenes de protección civil
+(DEROGADO, P.O. 21 DE JULIO DE 2022)
 
 ###### Artículo 49.
 
-Las órdenes de protección de naturaleza civil serán otorgadas por los jueces de partido en materia civil.
+(DEROGADO, P.O. 21 DE JULIO DE 2022)
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
 
 Consideraciones generales para el otorgamiento de órdenes
 
 ###### Artículo 50.
 
-Para otorgar las órdenes de protección, las autoridades competentes deberán tomar en consideración:
+Para emitir las órdenes de protección, las autoridades competentes deberán tomar en consideración:
 
-I. El riesgo o peligro existente;
+I. Los hechos relatados por la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o por quien lo haga del conocimiento a la autoridad;
 
-II. La seguridad de la víctima;
+II. Las peticiones explícitas de la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o de quien informe sobre el hecho;
 
-III. Los antecedentes del agresor; y
+III. Las medidas que ella considere oportunas, una vez informada de cuáles pueden ser esas medidas. Tratándose de niñas, las medidas siempre serán determinadas conforme al principio del interés superior de la niñez;
 
-IV. Los elementos con los que se cuente.
+IV. Las necesidades que se deriven de su situación particular analizando su identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, así como cualquier otra condición relevante;
+
+V. La persistencia del riesgo aún después de su salida de un refugio temporal; y
+
+VI. La manifestación de actos o hechos previos de cualquier tipo de violencia que hubiese sufrido la víctima.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Principios para la protección necesaria
+
+###### Artículo 50 Bis.
+
+Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente, deberán ordenar la protección necesaria, considerando:
+
+I. Los principios establecidos en esta ley;
+
+II. Que sea adecuada, oportuna y proporcional;
+
+III. Que los sistemas normativos propios basados en usos y costumbres no impidan la garantía de los derechos de las mujeres reconocidos en la Constitución Política para el Estado de Guanajuato; la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales ratificados por el Estado Mexicano;
+
+IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión o cualquiera otra, que las coloque en una situación de mayor riesgo; y
+
+V. Las necesidades expresadas por la mujer o niña solicitante.
+
+El Ministerio Público determinará las órdenes de protección para denuncias anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución
+
+###### Artículo 50 Ter.
+
+Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las órdenes de protección, realizarán las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegarán de los recursos materiales y humanos, conforme a la disponibilidad presupuestal; asimismo, podrán solicitar la colaboración de las demás autoridades competentes.
+
+En el caso de las órdenes de protección administrativas podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Púbico (sic) o el órgano jurisdiccional competente, siempre procurando la mayor protección a la víctima.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Competencia
+
+###### Artículo 50 Quáter.
+
+Las órdenes de protección podrán solicitarse en el estado de Guanajuato, al Ministerio Público o al órgano jurisdiccional competente, aun cuando los hechos hayan ocurrido en otra entidad federativa, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud.
+
+Para efectos del párrafo anterior, las autoridades competentes celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres y las niñas conforme a los principios rectores de las órdenes de protección.
+
+Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Lineamientos
+
+###### Artículo 50 Quinquies.
+
+Las autoridades competentes deberán de establecer los lineamientos básicos para la implementación de las órdenes de protección en coordinación con las instancias responsables de atenderlas e implementarlas.
+
+En los casos donde presuntamente exista conexidad con delitos de competencia federal, se procederá conforme a lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Integralidad
+
+###### Artículo 50 Sexies.
+
+La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad.
+
+No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas para garantizar la seguridad y bienestar de la mujer o niña en situación de violencia y en su caso de las víctimas indirectas.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Obligaciones de las autoridades
+
+###### Artículo 50 Septies.
+
+Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que se detecten irregularidades o incumplimiento, se sustanciará la comunicación correspondiente a los órganos internos de control de las dependencias y entidades involucradas.
+
+Previo a la suspensión de las órdenes de protección decretadas, las autoridades competentes, deberán asegurarse bajo su responsabilidad que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Retiro del arma
+
+###### Artículo 50 Octies.
+
+En los casos donde la persona agresora pertenezca a los cuerpos policiacos o de seguridad, ya sea de corporaciones públicas o privadas, la autoridad deberá retirar el arma de cargo o cualquier otra.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Dictaminación de órdenes de protección
+
+###### Artículo 50 Nonies.
+
+Al momento de dictarse sentencia las autoridades judiciales competentes determinarán las órdenes de protección y medidas similares que deban dictarse de manera temporal o durante el tiempo que dure la sentencia.
+
+Las órdenes de protección podrán ser dictadas de oficio o a solicitud de la mujer en situación de violencia, de su representante legal o del Ministerio Público.
+
+Tratándose de niñas víctimas de un delito, la autoridad judicial se encuentra obligada a hacer la determinación del interés superior de la niñez, a fin de dictar órdenes de protección, aun cuando no exista una solicitud.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Notificación responsabilidad exclusiva de la autoridad
+
+###### Artículo 50 Decies.
+
+Por ninguna circunstancia las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional notificará de sus actuaciones a la persona agresora a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad.
+
+Las autoridades que intervengan en el cumplimiento de una orden también serán las responsables de informar a la autoridad ordenadora sobre su implementación de forma periódica.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Situación migratoria
+
+Artículo 50 Undecies. A ninguna mujer y sus hijas e hijos o niña, en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y a su protección.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Registro de órdenes de protección
+
+Artículo 50 Duodecies. Las órdenes de protección deberán ser registradas en el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
 
 Órdenes de protección para menores de edad
 
 ###### Artículo 51.
 
-El Ministerio Público podrá de manera oficiosa otorgar órdenes de protección cuando la víctima sea menor de dieciocho años.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa.
 
-Las órdenes de protección preventivas podrán ser solicitadas por cualquier persona que tenga conocimiento del riesgo en que se encuentre una mujer.
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Desacato de una orden de protección
+
+###### Artículo 51 Bis.
+
+A quien desacate una orden de protección le serán aplicables las medidas de apremio conforme a lo establecido en el Código Nacional de Procedimientos Penales.
+
+Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
 
 ###### Artículo 52.
 
@@ -1398,3 +1542,15 @@ P.O. 7 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 71, MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN II, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 21 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 86 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 19, FRACCIÓN V, 42, 44, 50 Y 51; SE ADICIONAN LOS ARTÍCULOS 42 BIS, 44 BIS, 44 TER, 50 BIS, 50 TER, 50 QUÁTER, 50 QUINQUIES, 50 SEXIES, 50 SEPTIES, 50 OCTIES, 50 NONIES, 50 DECIES, 50 UNDECIES, 50 DUODECIES, Y 51 BIS; Y SE DEROGAN LOS ARTÍCULOS 45, 46, 47, 48 Y 49, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Dentro de un término que no exceda de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las conducentes adecuaciones reglamentarias o normativas diversas para la debida organización y consecución del presente Decreto.
+
+Artículo Tercero. Las autoridades correspondientes deberán desarrollar los programas de capacitación necesarios para dar cumplimiento al presente Decreto.
+
+Artículo Cuarto. Las autoridades correspondientes deberán integrar de manera progresiva en su presupuesto, los recursos para el cumplimiento del presente Decreto.
