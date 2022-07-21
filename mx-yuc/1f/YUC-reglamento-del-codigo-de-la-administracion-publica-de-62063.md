@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2022-03-03"
+last_updated: "2022-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "YUC"
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 7/2018 PUBLICADO EN EL D.O. DE 27 DE NOVIEMBRE DE 2018 SE ABROGA EL DECRETO 661/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE LA CONTRALORÍA GENERAL PUBLICADO EN EL D.O. EL 28 DE SEPTIEMBRE DE 2018.]
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JULIO DE 2022 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE JULIO DE 2022.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -3123,7 +3125,9 @@ IV. Subconsejería de Servicios Legales y Vinculación Institucional:
 
 a) Dirección de Contratos, Licitaciones y Procedimientos;
 
-b) (DEROGADO, D.O. 9 DE SEPTIEMBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE JULIO DE 2022)</small>
+
+b) Dirección de Asuntos Notariales y Servicios Legales;
 
 > <small>(F. DE E., D.O. 15 DE MARZO DE 2019)</small>
 
@@ -3155,6 +3159,8 @@ VIII. Dirección de Administración y Finanzas.
 
 La Consejería Jurídica contará con el organismo desconcentrado denominado Instituto de Defensa Pública del Estado de Yucatán, con la estructura orgánica y funciones que establezca la normatividad específica del propio organismo.
 
+> <small>(REFORMADO, D.O. 21 DE JULIO DE 2022)</small>
+
 ###### Artículo 71.
 
 El Consejero Jurídico tendrá las siguientes facultades y obligaciones:
@@ -3177,19 +3183,73 @@ VIII. Revisar y, en su caso, aprobar con su rúbrica todos los contratos, acuerd
 
 IX. Representar al Gobernador del Estado y, en su caso, delegar la representación, con las facultades y atribuciones necesarias, ante toda clase de autoridades judiciales o administrativas de los ámbitos federal, estatal o municipal, para que en su nombre, el representante intervenga en los actos y suscriba los documentos jurídicos relacionados con las controversias que se susciten con las personas físicas y morales;
 
-> <small>(REFORMADA, D.O. 12 DE FEBRERO DE 2019)</small>
-
 X. Constituirse, en representación del Gobernador del estado, en coadyuvante del Ministerio Público y otorgar el perdón en los casos previstos en la legislación aplicable;
-
-> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
 
 XI. Supervisar el funcionamiento del archivo notarial del estado;
 
-> <small>(ADICIONADA, D.O. 12 DE FEBRERO DE 2019)</small>
+XII. Brindar apoyo a las Dependencias y Entidades de la Administración Pública estatal en la aplicación de las leyes general y estatal en materia de transparencia, acceso a la información pública y protección de datos personales, y en la implementación de las políticas públicas relacionadas con estas materias;
 
-XII. Brindar apoyo a las Dependencias y Entidades de la Administración Pública estatal en la aplicación de las leyes general y estatal en materia de transparencia, acceso a la información pública y protección de datos personales, y en la implementación de las políticas públicas relacionadas con estas materias, y
+XIII. Vigilar el cumplimiento de las disposiciones legales y normativas en materia notarial, en el ámbito de su competencia, incluyendo la organización, vigilancia, inspección, autorización, conciliación y sanción de las actividades de los notarios públicos, así como del archivo notarial;
 
-XIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+XIV. Emitir lineamientos, manuales y otras disposiciones de carácter general para el ejercicio de las atribuciones que las leyes otorgan a la Consejería Jurídica, entre otras, en materia de vigilancia, inspección, conciliación y sanción de la actividad notarial en el estado;
+
+XV. Ordenar el control y vigilancia de la actividad notarial en el estado;
+
+XVI. Someter al conocimiento del titular del Poder Ejecutivo del estado, trimestralmente, la distribución entre los notarios públicos del estado de las actas notariales y escrituras públicas que las dependencias y entidades de la administración pública estatal y municipal requieran;
+
+XVII. Conocer y, en su caso validar u observar, y someter a la aprobación del titular del Poder Ejecutivo del estado la propuesta de arancel para el pago de honorarios por los servicios notariales que las dependencias y entidades de la administración pública estatal y municipal requieran;
+
+XVIII. Determinar los sistemas electrónicos o informáticos para que los notarios públicos puedan realizar la presentación de los informes a que se refiere el artículo 14 bis de la Ley del Notariado del Estado de Yucatán;
+
+XIX. Emitir la validación respecto a la acreditación del cumplimiento de los requisitos previstos en la Ley del Notariado del Estado de Yucatán para presentar el examen para obtener la patente de aspirante a notario público;
+
+XX. Fijar el lugar, día y hora para el examen de aspirante a notario público o de notario público y notificarlo al titular del Poder Ejecutivo, al Tribunal Superior de Justicia y al Colegio Notarial de Yucatán;
+
+XXI. Validar y mandar a publicar en el Diario Oficial del Gobierno del Estado de Yucatán o, en su caso, emitir observaciones respecto a la propuesta de temario para el examen para obtener la patente de aspirante a notario público;
+
+XXII. Validar o, en su caso, emitir observaciones respecto a la propuesta de cuestionario para el examen para obtener la patente de aspirante a notario público o la patente de notario público;
+
+XXIII. Comunicar al titular del Poder Ejecutivo del estado los nombres de quienes hayan obtenido una calificación aprobatoria en el examen para obtener la patente de aspirante a notario público y de notario público y remitirle la propuesta de patente de aspirante a notario público y de notario público;
+
+XXIV. Comunicar al titular del Poder Ejecutivo cuando tenga conocimiento de una notaría pública vacante;
+
+XXV. Autorizar las permutas y aprobar los convenios de asociación entre notarios públicos;
+
+XXVI. Remitir al titular del Poder Ejecutivo la propuesta de convocatoria para ocupar notarías públicas vacantes;
+
+XXVII. Informar al Colegio Notarial de Yucatán respecto a los nuevos notarios públicos, así como los que hayan firmado convenios de suplencia, asociación y permuta;
+
+XXVIII. Informar al titular Poder Ejecutivo respecto al cumplimiento de los notarios públicos de la obligación de contratar un seguro de responsabilidad civil profesional, o el medio de garantía que utilicen para garantizar las responsabilidades en que pudieren incurrir, en términos de la Ley del Notariado del Estado de Yucatán;
+
+XXIX. Resolver el diferendo que se presente entre los notarios públicos del estado por motivo de sus convenios de suplencia;
+
+XXX. Designar al notario público que se hará cargo interinamente de la notaría pública de los notarios públicos separados de sus funciones por responsabilidad o por incapacidad temporal y que no pueda elegir a su suplente o que este esté imposibilitado, para terminar con los negocios que haya iniciado el notario público que se encuentre en los supuestos referidos;
+
+XXXI. Hacer del conocimiento del titular del Poder Ejecutivo la evidencia de alguna condición que pudiera generar imposibilidad temporal o definitiva del ejercicio de la función notarial que haya encontrado derivado de una visita especial o cuando tenga conocimiento de este hecho;
+
+XXXII. Emitir el dictamen de suspensión del notario público por posible incapacidad mental o por imposibilidad física, en términos de la Ley del Notariado del Estado de Yucatán;
+
+XXXIII. Visar y remitir al titular del Poder Ejecutivo el dictamen de revocación de la patente de aspirante a notario público o de la patente de notario público derivado de una sentencia ejecutoria de interdicción;
+
+XXXIV. Fijar los requisitos de seguridad que deberán cubrir las hojas del protocolo de los notarios públicos;
+
+XXXV. Autorizar y hacer del conocimiento del titular del Poder Ejecutivo el programa anual de visitas de inspección ordinarias a las notarías públicas del estado;
+
+XXXVI. Aplicar los medios de apremio previstos en la Ley del Notariado del Estado de Yucatán;
+
+XXXVII. Emitir el acuerdo de admisión, desechamiento o prevención de quien interponga la queja, en términos de la Ley del Notariado del Estado de Yucatán;
+
+XXXVIII. Emitir la orden de visita especial a una notaría pública en términos de la Ley del Notariado del Estado de Yucatán;
+
+XXXIX. Emitir el acuerdo de suspensión o reanudación del procedimiento de trámite de la queja a que se refiere la Ley del Notariado del Estado de Yucatán;
+
+XL. Emitir el acuerdo de cierre de la etapa de investigación derivada del trámite de la queja, en términos de la Ley del Notariado del Estado de Yucatán;
+
+XLI. Emitir la resolución del trámite de la queja, y, en caso de que se trate de una sanción de revocación de la patente de aspirante a notario público o de notario público, le remitirá al titular del Poder Ejecutivo el dictamen que haya elaborado, junto las constancias que integren el expediente, para los efectos correspondientes;
+
+XLII. Presentar mensualmente al titular del Poder Ejecutivo un informe sobre las quejas presentadas en términos de la Ley del Notariado del Estado de Yucatán y, en general, sobre el resultado de las acciones en materia de vigilancia, inspección, conciliación y sanción de la actividad notarial en el estado, así como de todas aquellas acciones relevantes ejecutadas en la materia, y
+
+XLIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE MAYO DE 2021)</small>
 
@@ -3365,19 +3425,17 @@ El director del Diario Oficial del Gobierno del Estado tendrá las facultades y 
 
 (DEROGADO, D.O. 22 DE JUNIO DE 2018)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, D.O. 21 DE JULIO DE 2022)</small>
 
 ###### Artículo 75.
 
 Al Subconsejero de Servicios Legales y Vinculación Institucional le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
-
 I. Emitir opinión y resolver las consultas que en materia jurídica le sean planteadas por el Consejero Jurídico y por las dependencias y entidades de la Administración Pública o por los municipios del Estado;
 
 II. Ser conducto para la coordinación de las distintas áreas jurídicas de las dependencias y entidades;
 
-III. Estudiar y analizar la integración de las áreas jurídicas de las dependencias y entidades de la Administración Pública, así como coordinar la organización y funcionamiento de la misma;
+III. Estudiar y analizar la integración de las áreas jurídicas de las dependencias y entidades de la Administración Pública, así como coordinar la organización y funcionamiento de esta;
 
 IV. Formular los proyectos de convenios, contratos o acuerdos que celebre el Poder Ejecutivo con la Federación, con las entidades federativas, el Distrito Federal y los municipios del Estado;
 
@@ -3387,47 +3445,97 @@ VI. Revisar y someter a la consideración del Consejero Jurídico los proyectos 
 
 VII. Apoyar al Consejero Jurídico en las acciones acordadas por la Comisión de Estudios Jurídicos de la Administración Pública;
 
-VIII. Dar cuenta al Titular de la Consejería acerca de los estudios, opiniones y dictámenes derivados de las consultas formuladas por las dependencias y entidades de la Administración Pública, y
-
-> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+VIII. Dar cuenta al Titular de la Consejería acerca de los estudios, opiniones y dictámenes derivados de las consultas formuladas por las dependencias y entidades de la Administración Pública;
 
 IX. Legalizar las firmas de los documentos que, de acuerdo con las disposiciones legales aplicables, deba hacer el Consejero Jurídico;
 
-> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
-
 X. Vigilar el adecuado funcionamiento de la Dirección del Registro Civil, y brindar el apoyo y la asesoría técnica que requiera para tal efecto;
-
-> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
 XI. Representar legalmente al Poder Ejecutivo y a su titular ante los tribunales estatales o federales en los procedimientos laborales y en los juicios de amparo en materia laboral en los que sea parte o tenga interés jurídico, a través del ofrecimiento de todas las pruebas o medios de convicción a su alcance y que sean procedentes; la intervención en las audiencias de conciliación, de demanda y excepciones, y de pruebas y alegatos; la interposición y ejecución de los incidentes, recursos legales y medios de impugnación que procedan; y, en general, la realización de toda clase de trámites y actuaciones que correspondan a la adecuada defensa de sus intereses;
 
-> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
-
-XII. Determinar lineamientos y criterios homólogos para la atención de los juicios laborales que se presenten, así como de gestionar ante las dependencias y entidades de la Administración Pública estatal la información relacionada que considere pertinente;
-
-> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+XII. Determinar lineamientos y criterios homólogos para la atención de los juicios laborales que se presenten, así como estionar (sic) ante las dependencias y entidades de la Administración Pública estatal la información relacionada que considere pertinente;
 
 XIII. Emitir opinión en relación con las solicitudes de pensión de los familiares o dependientes económicos de los empleados pensionados y jubilados del Poder Ejecutivo, así como coordinarse con el área competente del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán, para el desarrollo de los trámites de otorgamiento y pago de las pensiones correspondientes;
 
-> <small>(ADICIONADA, D.O. 9 DE SEPTIEMBRE DE 2016)</small>
+XIV. Opinar sobre las liquidaciones o finiquitos que, por concepto de pago de prestaciones, deban cubrirse a los trabajadores de la Consejería Jurídica por terminación o rescisión de la relación laboral, de conformidad con lo dispuesto en la legislación aplicable;
 
-XIV. Opinar sobre las liquidaciones o finiquitos que, por concepto de pago de prestaciones, deban cubrirse a los trabajadores de la Consejería Jurídica por terminación o rescisión de la relación laboral, de conformidad con lo dispuesto en la legislación aplicable, y
+XV. Vigilar la debida presencia notarial en el territorio del Estado de Yucatán;
 
-XV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+XVI. Vigilar el adecuado ejercicio de la función notarial;
+
+XVII. Validar la integración del registro de la distribución entre las notarías públicas del estado de las actas notariales y escrituras públicas que requieran las dependencias y entidades y verificar que sea equitativa;
+
+XVIII. Aprobar la propuesta de arancel para el pago de honorarios por los servicios notariales que las dependencias y entidades de la administración pública estatal y municipal requieran;
+
+XIX. Supervisar la integración y actualización del registro de los notarios públicos que han presentado los informes a que se refiere el artículo 14 bis de la Ley del Notariado del Estado de Yucatán y hacerlo del conocimiento del Consejero Jurídico y establecer aspectos administrativos para mejorar su gestión;
+
+XX. Vigilar el correcto funcionamiento y acceso a los sistemas electrónicos o informáticos para que los notarios públicos puedan realizar la presentación de los informes a que se refiere el artículo 14 bis de la Ley del Notariado del Estado de Yucatán;
+
+XXI. Autorizar la entrega de nuevas hojas del protocolo al notario público que se encuentre al día en la presentación de sus informes semestrales, se haya recertificado y cumpla los demás requisitos previstos en la Ley del Notariado del Estado de Yucatán; y, en caso de que tenga uno o más informes atrasados, no se haya recertificado o incumpla algún otro de los requisitos previstos en la Ley del Notariado del Estado de Yucatán, informarle la negativa de la autorización de nuevas hojas del protocolo y el motivo de esta;
+
+XXII. Emitir su opinión al Consejero Jurídico respecto al cumplimiento de los requisitos previstos en la Ley del Notariado del Estado de Yucatán por parte de quienes soliciten presentar el examen para obtener la patente de aspirante a notario público;
+
+XXIII. Validar, con las autoridades competentes, su disponibilidad respecto a la hora, día y lugar para la presentación del examen para obtener la patente de aspirante a notario público;
+
+XXIV. Proponer al Consejero Jurídico el temario y formular la propuesta de cuestionario del examen de aspirante a notario Público, pudiendo apoyarse en colegios, universidades y en el Colegio Notarial de Yucatán;
+
+XXV. Validar o, en su caso, emitir observaciones a la propuesta de patente de aspirante a notario público y de notario público;
+
+XXVI. Opinar sobre la autorización de permutas y la aprobación de los convenios de asociación entre notarios públicos, a efecto de que el Consejero Jurídico esté en mejor aptitud de resolver al respecto;
+
+XXVII. Validar o, en su caso, emitir observaciones respecto a la propuesta de convocatoria para ocupar notarías públicas vacantes;
+
+XXVII. Emitir el documento que acredite que los aspirantes a notario público y los notarios públicos tomaron los cursos necesarios para recertificarse y actualizarse, en términos de las disposiciones aplicables;
+
+XXVIII. Validar o, en su caso, emitir observaciones respecto a la propuesta de informe que se remita al Colegio de Notarios sobre los nuevos notarios públicos, aquellos que hayan firmado convenios de suplencia, asociación o permuta;
+
+XXIX. Verificar la correcta integración del registro que dé seguimiento a la obligación de los notarios públicos de contratar un seguro de responsabilidad civil profesional, o el medio de garantía que utilicen para garantizar las responsabilidades en que pudieren incurrir, en términos de la Ley del Notariado del Estado de Yucatán e integrar un informe con base en este;
+
+XXX. Revisar y, en su caso validar u observar, la propuesta de solución de controversias entre dos notarios públicos por motivo de sus convenios de suplencia y plantear la propuesta de solución al Consejero Jurídico;
+
+XXXI. Aprobar o, en su caso, emitir observaciones respecto a la propuesta de dictamen de suspensión de la patente de notario público por posible incapacidad mental o por imposibilidad física;
+
+XXXII. Validar o, en su caso, emitir observaciones respecto a la propuesta de dictamen de revocación de la patente de aspirante a notario público o de la patente de notario público derivado de una sentencia ejecutoria de interdicción;
+
+XXXIII. Supervisar la operación del sistema informático por medio del cual los notarios públicos alojen documentos e instrumentos electrónicos, en términos de las disposiciones vigentes;
+
+XXXIV. Validar o, en su caso, emitir observaciones respecto a la propuesta de programa anual de visitas de inspección ordinarias a las notarías públicas del estado;
+
+XXXV. Analizar el supuesto de incumplimiento y proponer al consejero jurídico la aplicación de los medios de apremio previstos en la Ley del Notariado del Estado de Yucatán;
+
+XXXVI. Informar al Consejero Jurídico de las quejas recibidas, así como de cualquier indicio de incumplimiento a la normativa aplicable por parte de los notarios públicos, para que este ejercite las acciones que correspondan conforme a lo previsto en la Ley del Notariado del Estado de Yucatán;
+
+XXXVII. Verificar la correcta integración del registro de las quejas presentadas en términos de la Ley del Notariado del Estado de Yucatán, el estado de su substanciación, si fueron sometidas al proceso de conciliación y su resultado, y el sentido de su resolución;
+
+XXXVIII. Validar o, en su caso, emitir observaciones sobre el acuerdo de admisión, desechamiento o prevención de quien interponga la queja, en términos de la Ley del Notariado del Estado de Yucatán;
+
+XXXIX. Aprobar o, en su caso, emitir sus observaciones sobre la propuesta de orden de visita especial por presuntas violaciones a la Ley del Notariado del Estado de Yucatán y demás disposiciones aplicables;
+
+XL. Validar o, en su caso, emitir observaciones sobre el acuerdo de suspensión o reanudación del procedimiento de trámite de la queja a que se refiere la Ley del Notariado del Estado de Yucatán;
+
+XLI. Actuar como conciliador en los procedimientos de responsabilidad de los notarios públicos y de los aspirantes a notario público y comunicar su resultado al consejero jurídico;
+
+XLII. Revisar y, en caso de no tener observaciones, validar la propuesta de acuerdo de cierre de la etapa de investigación de la queja presentada, en términos de la Ley del Notariado del Estado de Yucatán;
+
+XLIII. Revisar y, en caso de no tener observaciones, validar la propuesta de resolución del procedimiento del trámite de la queja, en términos de la Ley del Notariado del Estado de Yucatán;
+
+XLIV. Validar o, en su caso, emitir observaciones sobre el informe mensual que contenga los datos sobre las quejas que se presenten en términos de la Ley del Notariado del Estado de Yucatán, y
+
+XLV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 76.
 
 Al Director de Contratos, Licitaciones y Procedimientos le corresponde el despacho de los siguientes asuntos:
 
-I. Legalizar las firmas de los documentos que, de acuerdo a las disposiciones legales aplicables, deba hacer el Consejero Jurídico;
+I. (DEROGADA, D.O. 21 DE JULIO DE 2022)
 
-II. Preparar la apostilla de documentos para la firma del Secretario General de Gobierno, en los términos de las disposiciones legales aplicables;
+II. (DEROGADA, D.O. 21 DE JULIO DE 2022)
 
 III. Elaborar los dictámenes que debe suscribir el Gobernador del Estado, en términos de lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos, en la Ley Federal de Juegos y Sorteos y en sus respectivos reglamentos;
 
 IV. (DEROGADA, D.O. 20 DE AGOSTO DE 2012)
 
-V. Llevar el registro y control de las plicas de los trabajadores jubilados y pensionados del Gobierno del Estado;
+V. (DEROGADA, D.O. 21 DE JULIO DE 2022)
 
 VI. Resolver las dudas que presenten las áreas jurídicas de las dependencias y entidades en materia de contratos y licitaciones;
 
@@ -3469,9 +3577,149 @@ XXII. Disponer la notificación de los asuntos que se tramiten en la Consejería
 
 XXIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, D.O. 21 DE JULIO DE 2022)</small>
+
 ###### Artículo 77.
 
-(DEROGADO, D.O. 9 DE SEPTIEMBRE DE 2016)
+Al Director de Asuntos Notariales y Servicios Legales le corresponde el despacho de los siguientes asuntos:
+
+I. Fungir como enlace con los diferentes notarios públicos y aspirantes a notario público del estado;
+
+II. Llevar un registro de la distribución entre las notarías públicas del estado, de las actas notariales y escrituras públicas que requieran las dependencias y entidades;
+
+III. Elaborar la propuesta de arancel para el pago de honorarios por los servicios notariales que las dependencias y entidades de la Administración Pública estatal y municipal requieran;
+
+IV. Recibir y llevar un registro de los avisos de pérdida, extravío o robo de cualquier instrumento notarial que le presenten los notarios públicos del estado;
+
+V. Recibir, revisar y resguardar los informes semestrales que presenten los notarios públicos en términos del artículo 14 bis de la Ley del Notariado del Estado de Yucatán;
+
+VI. Integrar y actualizar un registro de los notarios públicos que han presentado los informes a que se refiere el artículo 14 bis de la Ley del Notariado del Estado de Yucatán;
+
+VII. Administrar y controlar el acceso a los sistemas electrónicos o informáticos para que los notarios públicos puedan realizar la presentación de los informes a que se refiere el artículo 14 bis de la Ley del Notariado del Estado de Yucatán;
+
+VIII. Crear y controlar los usuarios correspondientes a cada notario público para que accedan a los sistemas electrónicos o informáticos a que se refiere el artículo 14 bis de la Ley del Notariado del Estado de Yucatán;
+
+IX. Recibir las solicitudes de nuevas hojas del protocolo por parte de los notarios públicos;
+
+X. Verificar el cumplimiento de la presentación de los informes a que se refiere la Ley del Notariado del Estado de Yucatán;
+
+XI. Elaborar la propuesta de autorización de hojas del protocolo para los notarios públicos solicitantes y, en caso de que el notario público no esté al día en la presentación de sus informes, no se haya recertificado o incumpla algún otro de los requisitos previstos en la Ley del Notariado del Estado de Yucatán, elaborar la propuesta de respuesta negativa a la autorización de nuevas hojas del protocolo;
+
+XII. Recibir la solicitud de los interesados en presentar el examen para obtener la patente de aspirante a notario público y sus anexos e integrar un expediente por cada una de ellos;
+
+XIII. Verificar el cumplimiento de los requisitos previstos en la Ley del Notariado del Estado de Yucatán para presentar el examen para obtener la patente de aspirante a notario público por parte de quienes lo soliciten;
+
+XIV. Proponer la fecha, hora y lugar para aplicar el examen para obtener la patente de aspirante a notario público a los interesados;
+
+XV. Recibir el aviso de inicio y terminación de las prácticas notariales que realicen los interesados en obtener la patente de aspirante a notario público;
+
+XVI. Llevar un registro de la fecha de presentación de los avisos de inicio, terminación, en su caso, interrupción y continuación de las prácticas notariales que realicen los interesados en obtener la patente de aspirante a notario público;
+
+XVII. Verificar con la notaría pública respectiva que quien presentó el aviso de inicio o terminación de sus prácticas notariales efectivamente haya iniciado o terminado la realización de estas y emitir la respuesta respectiva;
+
+XVIII. Notificar a los solicitantes que cubran los requisitos previstos en la Ley del Notariado del Estado de Yucatán la designación del sínodo, la fecha, hora y lugar aprobadas para presentar el examen para obtener la patente de aspirante a notario público o la patente de notario público o, en caso de que no hayan cubierto los requisitos necesarios para presentarlo, informarles los motivos de la negativa de acceso al examen;
+
+XIX. Formular la propuesta de temario para el examen de aspirante a notario público;
+
+XX. Elaborar la propuesta de patente de aspirante a notario público y de notario público;
+
+XXI. Recibir y verificar el cumplimiento de los requisitos previstos en la Ley del Notariado del Estado de Yucatán y su reglamento respecto a las solicitudes de permuta, así como de los convenios de asociación entre notarios públicos;
+
+XXII. Elaborar la convocatoria para ocupar notarías públicas vacantes;
+
+XXIII. Verificar el cumplimiento de los requisitos previstos en la Ley del Notariado del Estado de Yucatán de los aspirantes a notario público que presenten la solicitud para presentar el examen de oposición a que se refiere el artículo 40 de la referida ley;
+
+XXIV. Notificar a los sustentantes la calificación que obtuvieron en la prueba teórica del examen para obtener la patente de notario público y convocar a aquellos que hayan obtenido una calificación aprobatoria, en términos de la Ley del Notariado del Estado de Yucatán, a que presenten la prueba práctica, comunicándoles la fecha, hora y lugar en que se llevará a cabo esta;
+
+XXV. Recibir y resguardar los sobres sellados que le presenten quienes presenten el examen práctico para obtener la patente de aspirante a notario público y de notario público;
+
+XXVI. Convocar a los integrantes del sínodo del examen para obtener la patente de notario público a la sesión de calificación a puerta cerrada de las pruebas prácticas que hayan presentado los sustentantes;
+
+XXVII. Implementar cursos y capacitaciones en materia de actualización y recertificación notarial;
+
+XXVIII. Llevar el registro de los aspirantes a notario público y de los notarios públicos que hayan tomado los cursos y capacitaciones de recertificación y actualización que implemente la Consejería Jurídica;
+
+XXIX. Integrar un registro de las patentes de aspirante a notario público, de las patentes, sellos y firmas de los notarios públicos, así como de los convenios de suplencia, asociación o permuta que firmen los notarios públicos e integrar los informes sobre estos;
+
+XXX. Llevar un registro del cumplimiento de los notarios públicos de la obligación de contratar un seguro de responsabilidad civil profesional, o el medio de garantía que utilicen para garantizar las responsabilidades en que pudieren incurrir, en términos de la Ley del Notariado del Estado de Yucatán;
+
+XXXI. Recibir las solicitudes de solución de controversias entre dos notarios públicos por motivo de sus convenios de suplencia y plantear la propuesta de solución;
+
+XXXII. Recibir el aviso respecto a los notarios públicos que a causa de fallecimiento, ausencia definitiva, imposibilidad parcial o total o por cualquier otro motivo ya no puedan continuar prestando sus servicios, así como la información respecto al notario público que se ocupará de resguardar la documentación, información, libros y protocolos del notario público impedido;
+
+XXXIII. Recibir el aviso de la ausencia por separación temporal de sus funciones en términos de la Ley del Notariado del Estado de Yucatán, que presenten los notarios públicos y llevar un registro de estos;
+
+XXXIV. Verificar que los notarios públicos resuman el ejercicio de sus funciones en la fecha fijada en el aviso de separación temporal de sus funciones;
+
+XXXV. Recibir el comunicado y la documentación que acredite la justificación del notario público que no haya reanudado sus funciones en términos de la Ley del Notariado del Estado de Yucatán;
+
+XXXVI. Recibir el aviso de inicio de la actuación de dos notarios públicos conforme a un convenio de asociación y llevar un registro de estos;
+
+XXXVII. Elaborar el dictamen de suspensión de la patente de notario público por posible incapacidad mental o por imposibilidad física;
+
+XXXVIII. Elaborar el proyecto de dictamen de revocación de la patente de aspirante a notario público o de la patente de notario público derivado de una sentencia ejecutoria de interdicción;
+
+XXXIX. Recibir el aviso del registro civil respecto a la defunción de un notario público y actualizar sus registros administrativos;
+
+XL. Recibir la notificación del Poder Judicial respecto a las medidas provisionales dictadas en un procedimiento de interdicción contra algún notario público que se encuentre en ejercicio de sus funciones o cuando se dicte un auto de vinculación a proceso con medida cautelar de prisión preventiva;
+
+XLI. Llevar un registro de los proveedores de hojas del protocolo de notarios públicos que cubren los requisitos de seguridad fijados por la Consejería Jurídica;
+
+XLII. Operar el sistema informático, junto con los notarios públicos del estado, para alojar documentos e instrumentos electrónicos, así como el protocolo electrónico, en términos de la Ley del Notariado del Estado de Yucatán y su reglamento;
+
+XLIII. Dar aviso al Ministerio Público sobre la posible vulneración de la confidencialidad, integralidad o disponibilidad de los mensajes de datos o parte de estos, de los sistemas o plataformas informáticas que administre;
+
+XLIV. Respaldar la información de los sistemas y plataformas informáticas que administre, al menos, de manera mensual;
+
+XLV. Restaurar la información que se haya perdido con motivo de la posible vulneración de la confidencialidad, integralidad o disponibilidad de los mensajes de datos o parte de estos de los sistemas o plataformas informáticas que administre;
+
+XLVI. Elaborar la propuesta del programa anual de visitas de inspección ordinarias a las notarías públicas del estado;
+
+XLVII. Instruir a los visitadores adscritos a su dirección la realización de las visitas ordinarias conforme al programa anual de visitas de inspección ordinarias aprobado, así como las especiales que ordene el consejero jurídico;
+
+XLVIII. Notificar a los notarios públicos y aspirantes a notario público las órdenes de visitas ordinarias y especiales, en términos de la Ley del Notariado del Estado de Yucatán;
+
+XLIX. Hacer del conocimiento de su superior jerárquico el incumplimiento de las determinaciones tomadas por el gobernador del estado o por la Consejería Jurídica y proponer la aplicación de los medios de apremio previstos en la Ley del Notariado del Estado de Yucatán;
+
+L. Recibir las quejas contra los notarios públicos o aspirantes a notario público que se interpongan en términos de la Ley del Notariado del Estado de Yucatán, informarlas a su superior;
+
+LI. Llevar un registro de las quejas presentadas en términos de la Ley del Notariado del Estado de Yucatán, el estado de su substanciación, si fueron sometidas al proceso de conciliación y su resultado, y el sentido de su resolución;
+
+LII. Revisar la queja que haya recibido por el incumplimiento de disposiciones por parte de los aspirantes a notario público o de los notarios públicos del estado, y elaborar el acuerdo por el que se admite, desecha o se previene a quien interponga la queja por haber omitido alguno de los datos para su presentación;
+
+LIII. Notificar a quien interponga la queja el acuerdo de admisión, desechamiento o prevención de la queja que haya presentado, en términos de la Ley del Notariado del Estado de Yucatán;
+
+LIV. Notificar al notario público o aspirante a notario público el acuerdo de admisión de la queja que se haya presentado en su contra, en términos de la Ley del Notariado del Estado de Yucatán;
+
+LV. Recibir el informe y las pruebas que el notario público o el aspirante a notario público presente dentro del procedimiento de queja, en términos de la Ley del Notariado del Estado de Yucatán;
+
+LVI. Elaborar la propuesta de orden de visita especial por la presunta violación de las disposiciones de la Ley del Notariado del Estado de Yucatán y demás disposiciones aplicables;
+
+LVII. Solicitar la asistencia del personal de la Agencia de Administración Fiscal de Yucatán a la visita especial en caso de que el motivo de la queja se encuentre relacionado con disposiciones fiscales; o la asistencia de otras autoridades en caso de que las disposiciones presuntamente infringidas se encuentren dentro del ámbito de su competencia;
+
+LVIII. Requerir, a cualquier dependencia o entidad la información adicional que requiera durante el procedimiento de investigación de los motivos de la queja, así como recabar las pruebas necesarias y llevar a cabo las diligencias pertinentes en términos de la Ley del Notariado del Estado de Yucatán;
+
+LIX. Informar a quien haya interpuesto la queja sobre la posibilidad de llevar a cabo un procedimiento para la reparación del daño, en términos de la Ley del Notariado del Estado de Yucatán;
+
+LX. Elaborar el acuerdo de suspensión o reanudación del procedimiento de trámite de la queja conforme a lo previsto en la Ley del Notariado del Estado de Yucatán;
+
+LXI. Notificar a quien haya interpuesto la queja y al notario público o aspirante a notario público el acuerdo de suspensión o reanudación del procedimiento de trámite de la queja conforme a la Ley del Notariado del Estado de Yucatán;
+
+LXII. Notificar a las partes del procedimiento de conciliación la fecha, hora y lugar en que se llevará a cabo la o las audiencias de conciliación, en términos de la Ley del Notariado del Estado de Yucatán;
+
+LXIII. Levantar el acta circunstanciada del procedimiento de conciliación a que se refiere la Ley del Notariado del Estado de Yucatán;
+
+LXIV. Elaborar la propuesta de acuerdo de cierre de la etapa de investigación e integrar el expediente con los resultados de la investigación realizada respecto a la queja presentada, en términos de la Ley del Notariado del Estado de Yucatán;
+
+LXV. Notificar a las partes el acuerdo de cierre de la etapa de investigación y poner a su disposición el expediente con los resultados de la investigación realizada respecto a la queja presentada, en términos de la Ley del Notariado del Estado de Yucatán;
+
+LXVI. Recibir los alegatos y pruebas que presenten las partes con posterioridad a la puesta a disposición del expediente con los resultados de la investigación, analizarlos y elaborar la propuesta de resolución del procedimiento del trámite de la queja, en términos de la Ley del Notariado del Estado de Yucatán;
+
+LXVII. Integrar, dentro de los primeros cinco días de cada mes, un informe sobre las quejas presentadas en términos de la Ley del Notariado del Estado de Yucatán y, en general, sobre el resultado de las acciones en materia de vigilancia, inspección, conciliación y sanción de la actividad notarial en el estado, así como de todas aquellas acciones relevantes ejecutadas en la materia;
+
+LXVIII. Capacitar en materia notarial al cuerpo de visitadores adscritos a su dirección, y
+
+LXIX. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2012)</small>
 
@@ -3497,7 +3745,19 @@ V. Revisar, a solicitud de los secretarios de actas, los proyectos de actas de l
 
 VI. (DEROGADA, D.O. 20 DE MAYO DE 2016)
 
-VII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+VII. Legalizar las firmas de los documentos que, de acuerdo con las disposiciones legales aplicables, deba hacer el Consejero Jurídico;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+VIII. Preparar la apostilla de documentos para la firma del Secretario General de Gobierno, en los términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+IX. Llevar el registro y control de las plicas de los trabajadores jubilados y pensionados del Gobierno del Estado, y
+
+X. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 79.
 
@@ -3525,9 +3785,15 @@ II. Archivar los libros que contienen las actas del estado civil de las personas
 
 III. Colaborar con las autoridades federales correspondientes para la adopción de la Clave Única del Registro de Población;
 
-IV. Autorizar, con la supervisión de la Dirección de Administración y Finanzas, el otorgamiento de las concesiones para el uso a perpetuidad de lotes y bóvedas en los cementerios de jurisdicción Estatal, y
+> <small>(REFORMADA, D.O. 21 DE JULIO DE 2022)</small>
 
-V. Las demás que le encomienden, el Código del Registro Civil, el Código Civil, ambos del Estado de Yucatán, este Reglamento y otras disposiciones legales aplicables.
+IV. Autorizar, con la supervisión de la Dirección de Administración y Finanzas, el otorgamiento de las concesiones para el uso a perpetuidad de lotes y bóvedas en los cementerios de jurisdicción Estatal;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+V. Comunicar de manera inmediata al Titular del Poder Ejecutivo del Estado, al Consejero Jurídico y al Director del Archivo Notarial cuando se levante el acta de defunción de un notario público, y
+
+VI. Las demás que le encomienden, el Código del Registro Civil, el Código Civil, ambos del Estado de Yucatán, este Reglamento y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3547,13 +3813,87 @@ V. Resguardar los avisos de disposición testamentaria;
 
 VI. Dar respuesta a jueces y notarios públicos con respecto a la existencia o inexistencia de testamento de los autores de sucesiones que conozca en el ejercicio de sus funciones;
 
-VII. Recibir las solicitudes e implementar el curso de capacitación y el examen previo al nombramiento de escribanos públicos;
+VII. (DEROGADA, D.O. 21 DE JULIO DE 2022)
 
-VIII. Asesorar a los escribanos públicos en el ejercicio de sus funciones;
+VIII. (DEROGADA, D.O. 21 DE JULIO DE 2022)
 
-IX. Expedir primeros y ulteriores testimonios así como copias certificadas de los instrumentos jurídicos que obren en el archivo notarial, de conformidad con la normatividad aplicable, y
+> <small>(REFORMADA, D.O. 21 DE JULIO DE 2022)</small>
 
-X. Las demás que le confieran otras disposiciones legales y normativas aplicables.
+IX. Expedir primeros y ulteriores testimonios así como copias certificadas de los instrumentos jurídicos que obren en el archivo notarial, de conformidad con la normativa aplicable;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+X. Llevar el registro de las personas designadas por los notarios públicos para que realicen trámites ante las oficinas del Instituto de Seguridad Jurídica Patrimonial de Yucatán y la Dirección del Archivo Notarial del estado;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XI. Recibir el aviso de la ausencia por separación temporal de sus funciones en términos de la Ley del Notariado del Estado de Yucatán, que presenten los notarios públicos;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XII. Recibir la constancia de cierre del tomo y el tomo de los notarios públicos que se encuentren en los supuestos previstos en el artículo 69, fracciones I o III, de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XIII. Notificar a la persona titular del Poder Ejecutivo toda falta definitiva que ocurra en alguna de las notarías públicas, en términos de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XIV. Recibir, revisar y certificar las constancias de cierre de tomo de los notarios públicos;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XV. Emitir observaciones o comentarios en la certificación de las constancias de cierre de tomo respecto del contenido de las escrituras públicas o sus anexos, y darle el debido seguimiento a la atención que le den los notarios públicos a las observaciones;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XVI. Dar vista a la Agencia de Administración Fiscal de Yucatán en el caso de detectar posibles violaciones a las disposiciones fiscales;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XVII. Participar en el asentamiento de la constancia de cierre extraordinario del tomo del notario público que se separe de su notaría pública, en términos del artículo 87 ter de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XVIII. Operar el sistema informático, junto con los notarios públicos del estado, para alojar documentos e instrumentos electrónicos, así como el protocolo electrónico, en términos de la Ley del Notariado del Estado de Yucatán y su reglamento;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XIX. Administrar y controlar el acceso a los sistemas informáticos para que los notarios públicos puedan alojar documentos e instrumentos electrónicos, así como el protocolo electrónico en términos del artículo 89 bis de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XX. Crear y controlar los usuarios correspondientes a cada notario público para que accedan a los sistemas informáticos a que se refiere el artículo 89 bis de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XXI. Dar aviso al Ministerio Público sobre la posible vulneración de la confidencialidad, integralidad o disponibilidad de los mensajes de datos o parte de estos, de los sistemas o plataformas informáticas que administre;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XXII. Respaldar la información de los sistemas y plataformas informáticas que administre, al menos, de manera mensual;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XXIII. Restaurar la información que se haya perdido con motivo de la posible vulneración de la confidencialidad, integralidad o disponibilidad de los mensajes de datos o parte de estos de los sistemas o plataformas informáticas que administre;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XXIV. Vigilar que los notarios públicos cuenten con sellos que revistan las características previstas por la normativa aplicable, así como autorizar la adquisición de nuevos sellos a costa del notario público solicitante;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XXV. Llevar un registro digital de los avisos notariales de las actas que contengan testamentos y poderes generales;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XXVI. Llevar el Registro de notarios públicos y aspirantes a notario público en términos de la Ley del Notariado del Estado de Yucatán y de su reglamento;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
+XXVII. Asentar la razón de conclusión en los protocolos de notarios públicos, así como efectuar la entrega-recepción y destruir sellos en los casos de permutas, y
+
+XXVIII. Las demás que le confieran otras disposiciones legales y normativas aplicables.
 
 > <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -14946,3 +15286,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Adecuaciones presupuestales y administrativas
 
 La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas en la Secretaría General de Gobierno como resultado de este decreto.
+
+D.O. 21 DE JULIO DE 2022.
+
+> <small>[N. DE E. TRANSITOROS DEL "DECRETO 533/2022 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA CONSEJERÍA JURÍDICA".]</small>
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo previsto en el artículo 83 Bis, fracción VIII, que lo hará el 31 de diciembre de 2025.
+
+Segundo. Adecuaciones presupuestales y administrativas
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas en la Consejería Jurídica o como resultado de este decreto.
