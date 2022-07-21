@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-contrataciones-publicas-para-el-estado-de-guanajuato-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2017-06-16"
+last_updated: "2022-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE CONTRATACIONES PÚBLICAS PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
 
 Ley publicada en la Décima Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 26 de diciembre de 2014.
 
@@ -531,9 +531,15 @@ III. Las personas físicas deberán presentar copia certificada de identificaci�
 
 IV. Acreditar que es productor, prestador de servicios o comerciante legalmente establecido;
 
-V. Demostrar su solvencia económica y capacidad para la producción o suministro de bienes muebles y en su caso para el arrendamiento de éstos o la prestación de servicios; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2022)</small>
 
-VI. Proporcionar la información complementaria que se les solicite, en términos de la presente ley.
+V. Demostrar su solvencia económica y capacidad para la producción o suministro de bienes muebles y en su caso para el arrendamiento de estos o la prestación de servicios;
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
+
+VI. Proporcionar la georreferenciación del domicilio de la persona solicitante, así como fotografías o cualquier otro medio que permita identificar el interior y exterior del inmueble en que lleve a cabo sus actividades; y
+
+VII. Proporcionar la información complementaria que se les solicite, en términos de la presente ley.
 
 Resolución sobre inscripción en el padrón
 
@@ -571,9 +577,9 @@ Cancelación de registro
 
 Se cancelará el registro de un proveedor cuando:
 
-I. Se compruebe que hubiese incurrido en falsedad en la información proporcionada;
+I. (DEROGADA, P.O. 21 DE JULIO DE 2022)
 
-II. Los sujetos de la ley le hubieren rescindido algún contrato;
+II. (DEROGADA, P.O. 21 DE JULIO DE 2022)
 
 III. Fallecimiento en el caso de las personas físicas;
 
@@ -586,6 +592,10 @@ Alegatos y pruebas del proveedor
 ###### Artículo 41.
 
 Previamente a decretar la suspensión o cancelación del registro, deberá concederse al proveedor un término de diez días hábiles para que alegue lo que a su interés jurídico convenga y aporte las pruebas que para ello tuviere. La autoridad competente emitirá la resolución definitiva en un plazo máximo de diez días hábiles, la cual deberá notificarse al proveedor dentro de los cinco días hábiles siguientes a su emisión.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+El procedimiento para decretar la cancelación del registro sólo será instaurado cuando se actualice el supuesto previsto en el artículo 40, fracción V de esta ley.
 
 ## Título Quinto. Requisitos para Contratar
 
@@ -601,9 +611,11 @@ I. Aquéllas que tengan con el servidor público que intervenga un interés pers
 
 Habrá intereses en conflicto cuando las actividades personales, familiares, profesionales o de negocios del servidor público puedan influir en su imparcialidad, independencia o lealtad en el desempeño o ejercicio de las atribuciones o funciones propias de su empleo, cargo o comisión;
 
-II. Aquellos proveedores a los que se les hubiere rescindido administrativamente un contrato;
+II. (DEROGADA, P.O. 21 DE JULIO DE 2022)
 
-III. Aquéllas que hubieren proporcionado información que resulte falsa o que hayan actuado con dolo o mala fe en alguna etapa del procedimiento para la adjudicación de un contrato, en su celebración, durante su vigencia o en la presentación o desahogo de algún medio de defensa;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2022)</small>
+
+III. Aquellas que hubieren proporcionado información que resulte falsa o que hayan actuado con dolo o mala fe en alguna etapa del procedimiento para la adjudicación de un contrato;
 
 IV. Las que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con la legislación tributaria local y federal;
 
@@ -748,6 +760,16 @@ Procedimientos de contratación a través de medios electrónicos
 ###### Artículo 52.
 
 Los trámites relativos a los procedimientos de contratación previstos por esta ley, podrán llevarse a cabo en lo conducente, a través de medios electrónicos en los términos establecidos en la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica para el Estado de Guanajuato y sus Municipios, y demás legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+Notificaciones electrónicas
+
+###### Artículo 52 Bis.
+
+Las notificaciones de los actos derivados de la ejecución de los contratos celebrados al amparo de esta ley, así como aquellos que deriven de los procedimientos sancionatorios, rescisorios, y de cancelación y suspensión del Padrón de Proveedores, podrán realizarse a través de medios electrónicos en armonía con lo señalado en el artículo anterior, con base a lo que al efecto normen los sujetos de esta ley en los correspondientes reglamentos.
+
+Las notificaciones que se practiquen por esta vía, se desahogarán en días y horas hábiles, y se tendrán por realizadas con el acuse de recibo electrónico que genere el correspondiente sistema electrónico. El acuse de recibo electrónico deberá certificarse y agregarse al expediente, y la certificación hará las veces de notificación.
 
 Arrendamiento de bienes muebles
 
@@ -1175,25 +1197,37 @@ Corresponde a la Secretaría o al órgano de administración correspondiente, la
 
 La Secretaría podrá asignar a las dependencias o entidades los bienes muebles del gobierno del estado.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
+
 Enajenación de bienes muebles
 
 ###### Artículo 84.
 
-Corresponde a los comités, la enajenación de los bienes del patrimonio mobiliario, que no sean ya adecuados para el servicio o resulte incosteable seguirlos utilizando en el mismo.
+Corresponde a los comités, en los términos de esta ley, la enajenación a título oneroso o gratuito de los bienes del patrimonio mobiliario.
+
+La enajenación podrá realizarse cuando se actualice cualquiera de los siguientes supuestos:
+
+I. Los bienes ya no sean adecuados para la prestación del servicio o resulte incosteable seguirlos utilizando;
+
+II. Previo dictamen que determine que no es recomendable la rehabilitación de los bienes o sea más costeable su enajenación por el estado en que se encuentren;
+
+III. Se actualice alguna de las hipótesis previstas en las fracciones V y VII del artículo 86 de esta ley.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
 
 Baja de bienes muebles
 
 ###### Artículo 85.
 
-Los bienes del patrimonio mobiliario que resulten inútiles, incosteables u obsoletos, deberán ser dados de baja a través del dictamen formulado por la Secretaría u órgano de administración correspondiente y podrán ser enajenados a título oneroso o gratuito en los términos de esta ley.
-
-En los supuestos no previstos en el párrafo anterior, por causa justificada y mediante acuerdo del sujeto de esta ley que corresponda, podrán ser enajenados a título gratuito los bienes del patrimonio mobiliario a favor de particulares en situación de vulnerabilidad o cuando se trate de programas sociales estatales, o a favor de municipios, instituciones educativas, de beneficencia, de la Federación o de otras entidades federativas, observando las demás disposiciones legales que resulten aplicables.
+Los bienes del patrimonio mobiliario que resulten inútiles, incosteables u obsoletos deberán ser dados de baja a través del dictamen formulado por la Secretaría u órgano de administración correspondiente.
 
 Excepciones a la subasta pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2022)</small>
+
 ###### Artículo 86.
 
-En los casos que de acuerdo al dictamen respectivo no sea recomendable la rehabilitación de un bien del patrimonio mobiliario o sea más costeable su enajenación en el estado en que se encuentre, se determinará como destino su venta a través de subasta pública, a excepción de los siguientes supuestos:
+En los casos que se determine la enajenación de los bienes del patrimonio mobiliario, se procederá a su venta a través de subasta pública, con excepción de que se actualice alguno de los siguientes supuestos:
 
 I. Cuando la subasta se considere inconveniente por razones de interés público, justificando plenamente dicho interés;
 
@@ -1203,11 +1237,15 @@ III. Cuando sea más costosa la realización del procedimiento de enajenación q
 
 IV. Cuando se rescinda un contrato adjudicado conforme a este procedimiento; en tal supuesto, conforme al criterio de adjudicación, el comité adjudicará el nuevo contrato de enajenación al postor que resulte más aceptable de los que participaron en la subasta;
 
-V. Cuando el destino de los bienes del patrimonio mobiliario sea la donación conforme a lo establecido en el segundo párrafo del artículo 85 de esta ley;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2022)</small>
+
+V. Cuando el destino de los bienes del patrimonio mobiliario sea su enajenación a título gratuito a favor de particulares en situación de vulnerabilidad o cuando se trate de programas sociales estatales, o a favor de municipios, instituciones educativas, de beneficencia, de la Federación o de otras entidades federativas, mediante acuerdo del sujeto de esta ley que corresponda, observando las demás disposiciones legales que resulten aplicables;
 
 VI. Cuando se pacte el pago en especie de una obligación y esto represente una ventaja o ahorro económico pare el Estado; y
 
-VII. Cuando se autorice la venta de bienes del patrimonio mobiliario a los servidores públicos que los tengan bajo su resguardo, considerando su naturaleza, valor comercial e utilidad, así como la responsabilidad que haya tenido el servidor público solicitante en el cuidado de los mismos durante su resguardo y la conveniencia de la venta, de conformidad con lo que se establezca en los reglamentos de esta ley.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2022)</small>
+
+VII. Cuando se autorice la venta de bienes del patrimonio mobiliario a los servidores públicos que los tengan bajo su resguardo, considerando su naturaleza, valor comercial o utilidad, así como la responsabilidad que haya tenido el servidor público solicitante en el cuidado de los mismos durante su resguardo, de conformidad con lo que se establezca en los reglamentos de esta ley.
 
 En los supuestos señalados, se podrán enajenar directamente los bienes, siempre y cuando, tratándose de enajenación a título oneroso, el interesado pague el precio mínimo determinado para esos efectos por el comité respectivo.
 
@@ -1619,9 +1657,31 @@ IV. No formalizar el contrato que se ha adjudicado;
 
 V. No sostener sus ofertas o posturas presentadas;
 
-VI. Omitir presentar las garantías en los términos de ley y contrato; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2022)</small>
 
-VII. Negarse a reponer las mercancías que no reúnan los requisitos de calidad o a responder por los vicios ocultos de las mismas durante el periodo establecido en el contrato.
+VI. Omitir presentar las garantías en los términos de ley y contrato;
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2022)</small>
+
+VII. Negarse a reponer las mercancías que no reúnan los requisitos de calidad o a responder por los vicios ocultos de las mismas durante el periodo establecido en el contrato;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE JULIO DE 2022)</small>
+
+VIII. Proporcionar información falsa o actuar con dolo o mala fe:
+
+a) En el registro o actualización del padrón de proveedores;
+
+b) En alguna etapa del procedimiento para la adjudicación de un contrato;
+
+c) En la celebración de un contrato;
+
+d) Durante la vigencia de un contrato; o
+
+e) En la presentación o desahogo de algún medio de defensa; y
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
+
+IX. Haber sido sujeto de determinación de rescisión administrativa conforme a lo previsto en el artículo 117 de esta ley.
 
 Causas por las que no se sanciona al infractor
 
@@ -1631,19 +1691,29 @@ No se impondrán sanciones cuando se haya incurrido en infracción por causa de 
 
 ### Capítulo II. Sanciones
 
-Multa e inhabilitación
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+Multa e inhabilitación
 
 ###### Artículo 127.
 
-Los licitantes, postores o proveedores que cometan las infracciones contenidas en el artículo 125 de esta ley, serán sancionados con una multa por un importe equivalente de veinte a quinientas veces la Unidad de Medida y Actualización diaria elevada al mes, e inhabilitación temporal para participar en los procedimientos de contratación y celebrar contratos por el periodo de tres meses a cinco años. Lo sanción que se imponga deberá ser proporcional al costo de la prestación contratada.
+Los licitantes, postores o proveedores que cometan las infracciones contenidas en el artículo 125 de esta Ley, serán sancionados conforme a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2017)</small>
+I. Las infracciones contenidas en las fracciones I, II, III, V, VI y VII del artículo 125 de esta ley, serán sancionadas con una multa por un importe equivalente de veinte a quinientas veces la Unidad de Medida y Actualización diaria elevada al mes, vigente al momento de la infracción, e inhabilitación temporal para participar en los procedimientos de contratación y celebrar contratos por el periodo de tres meses a cinco años;
 
-Cuando los licitantes, postores o proveedores, injustificadamente y por causas imputables a los mismos, no formalicen contratos cuyo monto no exceda de cincuenta veces la Unidad de Medida y Actualización diaria elevada al mes, serán sancionados con una multa por un importe equivalente de diez hasta cuarenta y cinco veces la Unidad de Medida y Actualización diaria elevada al mes vigente al momento de la infracción.
+II. La infracción contenida en la fracción IV será sancionada con una multa por un importe equivalente de veinte a quinientas veces la Unidad de Medida y Actualización diaria elevada al mes, vigente al momento de la infracción, e inhabilitación temporal para participar en los procedimientos de contratación y celebrar contratos, la cual no será menor de un año ni mayor de dos.
+
+Cuando los licitantes, postores o proveedores, injustificadamente y por causas imputables a los mismos, no formalicen contratos cuyo monto no exceda de cincuenta veces la Unidad de Medida y Actualización diaria elevada al mes, serán sancionados con una multa por un importe equivalente de diez hasta cuarenta y cinco veces la Unidad de Medida y Actualización diaria elevada al mes vigente al momento de la infracción, lo anterior, sin demérito de la inhabilitación temporal señalada en el párrafo anterior;
+
+III. La infracción contenida en la fracción VIII será sancionada con una multa por un importe equivalente de veinte a quinientas veces la Unidad de Medida y Actualización diaria elevada al mes, vigente al momento de la infracción, e inhabilitación temporal para participar en los procedimientos de contratación y celebrar contratos, la cual no será menor de tres años y hasta cinco años;
+
+IV. La infracción contenida en la fracción IX será sancionada únicamente con inhabilitación temporal, la cual no será menor de tres años y hasta cinco.
+
+Las sanciones que se impongan deberán ser proporcionales al costo de la prestación contratada.
 
 Tratándose de reincidencia se impondrá una multa por un monto de hasta el doble de la impuesta con anterioridad, sin perjuicio de la inhabilitación antes referida.
+
+Si al día en que se cumpla el plazo de inhabilitación a que se refieren las fracciones anteriores, el sancionado no ha pagado la multa que hubiera sido impuesta, la mencionada inhabilitación subsistirá hasta que se realice el pago correspondiente.
 
 Cuantificación de sanciones
 
@@ -1686,6 +1756,10 @@ II. Transcurrido el término a que se refiere la fracción anterior, se resolver
 III. Si dentro del plazo que se señala en la fracción que precede, el proveedor manifiesta por escrito la aceptación de la sanción, se resolverá de plano, sin que sea necesario que medie notificación de la resolución de mérito al proveedor para que se efectúe la deducción correspondiente; y
 
 IV. La resolución será fundada y motivada, comunicándose por escrito al afectado en un plazo máximo de quince días naturales.
+
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2022)</small>
+
+En el caso de la infracción prevista en la fracción IX del artículo 125 de esta ley, la sanción de inhabilitación se impondrá en la resolución del procedimiento de rescisión administrativa.
 
 Denuncia de infracciones
 
@@ -2078,3 +2152,15 @@ P.O. 16 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192, APROBADO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 127, RECORRIÉNDOSE EL ACTUAL SEGUNDO PÁRRAFO PARA QUEDAR COMO PÁRRAFO TERCERO DE LA LEY DE CONTRATACIONES PÚBLICAS PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 83 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 36, FRACCIÓN V; 42, FRACCIÓN III; 84; 85; 86 PRIMER PÁRRAFO Y FRACCIONES V Y VII; 125, FRACCIONES VI Y VII; Y 127; SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 36, QUEDANDO LA ACTUAL FRACCIÓN VI COMO FRACCIÓN VII; UN SEGUNDO PÁRRAFO AL ARTÍCULO 41; UN ARTÍCULO 52 BIS; LAS FRACCIONES VIII Y IX AL ARTÍCULO 125; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 130; Y SE DEROGAN LAS FRACCIONES I Y II DEL ARTÍCULO 40; Y LA FRACCIÓN II DEL ARTÍCULO 42 DE LA LEY DE CONTRATACIONES PÚBLICAS PARA EL ESTADO DE GUANAJUATO".]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Término para armonizar la reglamentación
+
+Artículo Segundo. Los sujetos de esta ley en un término no mayor de 90 días hábiles deberán armonizar los reglamentos y disposiciones administrativas derivadas de la ley a las disposiciones contenidas en el presente decreto.
