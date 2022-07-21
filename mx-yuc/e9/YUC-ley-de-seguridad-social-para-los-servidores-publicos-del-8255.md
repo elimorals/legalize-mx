@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "2021-03-11"
+last_updated: "2022-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 21 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE JULIO DE 2022 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 10 de septiembre de 1976.
 
@@ -603,6 +605,8 @@ Solo se concederán préstamos hipotecarios sobre inmuebles ubicados en el estad
 
 ### CAPITULO OCTAVO. Jubilaciones y Pensiones
 
+(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA REVIVISCENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 ###### Artículo 61.
 
 Jubilación es la relevación de la obligación del servidor público de seguir desempeñando su empleo en razón de edad, de su tiempo de servicios o por imposibilidad física o mental, con derecho a percibir en calidad de pensión el total o parte de su último sueldo. El Instituto está obligado a pagar las pensiones por jubilación y de otra índole que se consignen en la presente Ley.
@@ -612,6 +616,8 @@ Jubilación es la relevación de la obligación del servidor público de seguir 
 ###### Artículo 62.
 
 La jubilación o pensión se tramitará a solicitud escrita del interesado, y se resolverá dentro de los 60 días hábiles siguientes de iniciado el expediente. El Instituto podrá ampliar este plazo en los casos en que el interesado no haya satisfecho los requisitos legales a que está obligado para obtener su jubilación o pensión.
+
+(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA REVIVISCENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
@@ -748,6 +754,8 @@ IV.- Al día siguiente de que el hijo o el menor de edad dependiente económico 
 a).- Los incapacitados en forma total; y
 
 b).- Los que comprueben, a satisfacción del Consejo Directivo, que les es necesaria la pensión para continuar sus estudios profesionales o técnicos. La pensión no podrá extenderse en ningún caso después de los 25 años de edad.
+
+(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 118/2022 Y SU ACUMULADA 121/2022, DECLARÓ LA REVIVISCENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 13 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1504,3 +1512,211 @@ D.O. 11 DE MARZO DE 2021.
 Artículo único. Entrada en vigor.
 
 Este decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 21 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 532/2022 POR EL QUE SE EMITE LA LEY DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+Se abroga la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 10 de septiembre de 1976.
+
+Tercero. Patrimonio, derechos, obligaciones, recursos humanos, materiales y financieros del instituto
+
+El patrimonio del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán se encuentra constituido conforme a las disposiciones establecidas en este decreto; los derechos y obligaciones que tuviese antes de la entrada en vigor de este decreto continuarán siendo ejercidos por este; los recursos humanos, materiales y financieros, así como los derechos y obligaciones que de estos se deriven serán asumidos por el propio Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán.
+
+Cuarto. Personas pensionadas o con derecho a pensión
+
+Las personas servidoras públicas que estén disfrutando una pensión a la fecha de entrada en vigor de este decreto la mantendrán en los términos y condiciones en que la obtuvieron. Lo mismo aplicará para las personas servidoras públicas que hubieran cumplido con los requisitos para el acceso a la jubilación voluntaria o jubilación necesaria reguladas por las fracciones I y II del artículo 63 de la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal que se abroga hasta antes de la entrada en vigor del presente ordenamiento.
+
+Quinto. Pensiones en curso de pago
+
+Para el caso de las pensiones en curso de pago otorgadas por el Gobierno del estado cuyo origen no fuera la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal que se abroga así como sus pensiones derivadas o bien que a la fecha de la entrada en vigor del presente ordenamiento sean pagados con recursos de la Secretaría de Administración y Finanzas del Gobierno del Estado, se seguirán pagando con recursos provenientes de la Secretaría de Administración y Finanzas del Gobierno del Estado.
+
+Sexto. Personas servidoras públicas en transición
+
+Las personas servidoras públicas que se hayan afiliado al Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán, con fecha anterior a la entrada en vigor de este decreto y que no estén en el supuesto de su artículo cuarto transitorio, serán consideradas como personas servidoras públicas en transición, a las cuales les aplicarán las excepciones descritas en los siguientes artículos transitorios.
+
+Séptimo. Salario regulador de las personas servidoras públicas en transición
+
+Tratándose de las personas servidoras públicas en transición, el salario regulador a que se refiere la fracción XXI del artículo 3 de esta ley, será un porcentaje del promedio ponderado de los últimos salarios de cotización que hubiera percibido la persona servidora pública, previa actualización con base en el Índice Nacional de Precios al Consumidor, dependiendo de los años que a la fecha de entrada en vigor de este decreto le falten para cumplir treinta años de cotización conforme a la siguiente tabla:
+
+Años que faltan para Número de meses Porcentaje
+
+cumplir 30 años de a promediar
+
+cotización al momento
+
+de la entrada en vigor
+
+de esta ley
+
+0 24 100.00%
+
+1 y 2 24 95.00%
+
+3 y 4 36 93.00%
+
+5 y 6 48 91.00%
+
+7 o más 60 90.00%
+
+Octavo. Cuotas de las personas servidoras públicas en transición
+
+Tratándose de las personas servidoras públicas en transición, las cuotas a que se refiere la fracción I del artículo 20 de esta ley, serán de un porcentaje de su salario de cotización establecido en el artículo séptimo transitorio de este decreto, de acuerdo con la siguiente tabla:
+
+Año Porcentaje
+
+2022 6.00%
+
+2023 7.00%
+
+2024 8.00%
+
+2025 9.00%
+
+2026 10.00%
+
+2027 11.00%
+
+2028 12.00%
+
+2029 en adelante 13.00%
+
+Las cuotas a que se refiere la fracción II del artículo 20 de esta ley, serán del 2.00% del salario de cotización del servidor público en transición.
+
+Las personas servidoras públicas en transición que perciban por jornada normal de trabajo únicamente el salario mínimo, quedan relevados del pago de las cuotas que se fijan en este artículo transitorio, las cuales serán cubiertas por la entidad pública en donde presten sus servicios.
+
+Noveno. Aportaciones de las entidades públicas con personas servidoras públicas en transición
+
+Las aportaciones a cargo de las entidades públicas establecidas en la fracción I del artículo 21 de esta ley, serán de un porcentaje del salario de cotización establecido en el artículo séptimo transitorio de este decreto, de cada persona servidora pública en transición de acuerdo con la siguiente tabla:
+
+Año Porcentaje
+
+2022 7.75%
+
+2023 8.75%
+
+2024 9.75%
+
+2025 10.75%
+
+2026 11.75%
+
+2027 12.75%
+
+2028 14.75%
+
+2029 en adelante 15.75%
+
+Las cuotas a que se refiere la fracción II del artículo 21 de esta ley, serán del 6.00% del salario de cotización de cada persona servidora pública en transición.
+
+Décimo. Pensión por jubilación de las personas servidoras públicas en transición
+
+Tratándose de las personas servidoras públicas en transición tendrán derecho a una pensión por jubilación a que se refiere el artículo 110 de esta ley, cuando tengan al menos una antigüedad conforme a la siguiente tabla:
+
+Años que faltan para Antigüedad requerida
+
+cumplir 30 años de
+
+cotización al momento
+
+de la entrada en vigor
+
+de esta ley
+
+0 y 1 30
+
+2 y 3 31
+
+4 y 5 32
+
+6 y 7 33
+
+8 y 9 34
+
+10 o más 35
+
+El monto de la pensión será del cien por ciento del salario regulador.
+
+Décimo primero. Pensión por vejez de las personas servidoras públicas en transición
+
+Tratándose de las personas servidoras públicas en transición tendrán derecho a la pensión por vejez a que se refiere el artículo 112 de esta ley, la cual se otorgará cuando la persona afiliada tenga al menos quince años de antigüedad en el servicio y una edad de acuerdo con la siguiente tabla:
+
+Año Edad requerida
+
+2022 – 2023 55
+
+2024 – 2025 56
+
+2026 – 2027 57
+
+2028 – 2029 58
+
+2030 – 2031 59
+
+2032 – 2033 60
+
+2034 – 2035 61
+
+2036 – 2037 62
+
+2038 – 2039 63
+
+2040 – 2041 64
+
+2042 o posterior 65
+
+El monto de la pensión será el resultado de la multiplicación del salario regulador por el factor D en función de los años de cotización al momento de la solicitud de acuerdo con la siguiente tabla:
+
+Años de cotización Factor D Años de cotización Factor D
+
+15 0.5000 23 0.7550
+
+16 0.5300 24 0.7900
+
+17 0.5600 25 0.8250
+
+18 0.5900 26 0.8600
+
+19 0.6200 27 0.8950
+
+20 0.6500 28 0.9300
+
+21 0.6800 29 0.9650
+
+22 0.7200 30 o más 1.0000
+
+Décimo segundo. Pensión por retiro anticipado en edad avanzada de las personas servidoras públicas en transición
+
+Tratándose de las personas servidoras públicas en transición, podrán acceder a la pensión por retiro anticipado en edad avanzada a que se refiere el artículo 113 de esta ley a partir de los sesenta años de edad, el monto de esta pensión se reducirá un cinco por ciento con respecto al beneficio que le hubiere correspondido en la pensión descrita en el artículo décimo primero transitorio de este decreto, por cada año que le falte para cumplir con la edad descrita en estos.
+
+Décimo tercero. Pensión por invalidez por causas ajenas al trabajo de las personas servidoras públicas en transición
+
+Tratándose de las personas servidoras públicas en transición, el monto de la pensión por invalidez por causas ajenas al trabajo a que se refiere el artículo 119 de esta ley, será el resultado de la multiplicación del salario regulador establecido en el artículo séptimo transitorio de este decreto por el factor E en función de los años de cotización al momento de la invalidez de acuerdo con la siguiente tabla:
+
+Años de cotización Factor E Años de cotización Factor E
+
+5 a 15 0.5000 23 0.7550
+
+16 0.5300 24 0.7900
+
+17 0.5600 25 0.8250
+
+18 0.5900 26 0.8600
+
+19 0.6200 27 0.8950
+
+20 0.6500 28 0.9300
+
+21 0.6800 29 0.9650
+
+22 0.7200 30 o más 1.0000
+
+Décimo cuarto. Pensión por fallecimiento por causas ajenas al trabajo de las personas servidoras públicas en transición
+
+Tratándose de las personas servidoras públicas en transición, el monto de la pensión por fallecimiento por causas ajenas al riesgo de trabajo a que se refiere el artículo 127 de esta ley, será el resultado de la multiplicación del salario regulador por el factor E señalado en el artículo décimo tercero transitorio de este decreto.
