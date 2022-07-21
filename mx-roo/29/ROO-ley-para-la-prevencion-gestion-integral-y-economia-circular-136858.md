@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-la-prevencion-gestion-integral-y-economia-circular-136
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-18"
-last_updated: "2019-06-18"
+last_updated: "2022-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 18 de junio de 2019.
 
@@ -239,6 +239,22 @@ XXIII. Normas Técnicas Ambientales en materia de Residuos: Circular expedida po
 
 XXIV. Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables e involucra a productores, importadores, exportadores, distribuidores, comerciantes, consumidores, usuarios de subproductos y grandes generadores de residuos, según corresponda, así como a los tres niveles de gobierno.
 
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
+
+XXIV Bis. Plástico: Material que contiene como ingrediente principal un polímero de origen natural o sintético y que en algún momento de su procesamiento permite ser moldeado, por su característica de fluido, en productos terminados.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
+
+XXIV Bis I. Plástico de un solo uso: Producto plástico destinado a ser usado por una sola vez.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
+
+XXIV. Bis II. Plástico biodegradable: Cualquier material Plástico que cumpla las especificaciones mínimas que demuestren ser susceptibles de degradarse conforme a los procesos descritos en las normas internacionales y a falta de éstas, en las normas oficiales mexicanas.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2022)</small>
+
+XXIV. Bis III. Plástico compostable: Cualquier material plástico que cumpla las especificaciones mínimas que demuestren ser susceptibles de recuperación orgánica a través de composteo, conforme a los procesos descritos en las normas internacionales y a falta de éstas, en las normas oficiales mexicanas.
+
 XXV. Plan de Responsabilidad Extendida: Instrumento de gestión integral, que contiene el conjunto de acciones, así como los procedimientos para la disminución progresiva de la generación de residuos a través de los instrumentos aplicables a los productores, comercializadores, importadores, exportadores y/o distribuidores de productos que al consumirse se convierten en residuos dentro de procesos de aprovechamiento.
 
 XXVI. Planta de Tratamiento: Instalación donde se lleva a cabo cualquier proceso de tratamiento de los residuos para valorizarlos o disponerlos finalmente.
@@ -285,7 +301,9 @@ XXXVII. Residuo: Cualquier material orgánico o inorgánico generado en los proc
 
 XXXVIII. Responsabilidad Compartida: Principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social.
 
-XXXIX. Responsabilidad Extendida: Régimen especial de gestión integral de residuos, conforme al cual los productores, envasadores, comercializadores, importadores, exportadores y/o distribuidores de los productos que al desecharse se conviertan en residuos de competencia estatal y que se encuentran listados como productos prioritarios en este ordenamiento, sus Reglamentos, normas técnicas o normas oficiales mexicanas en su caso; son responsables de la organización y financiamiento de la gestión y manejo integral de los mismos.
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2022)</small>
+
+XXXIX. Responsabilidad Extendida: Régimen especial de gestión integral de residuos, conforme al cual los productores, comercializadores, transformadores, envasadores y distribuidores de los productos que al desecharse se conviertan en residuos de competencia estatal y que se encuentran listados como productos prioritarios en este ordenamiento, con el objetivo de disminuir la generación, revalorizarlos y reincorporarlos a los procesos productivos bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social.
 
 XL. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación.
 
@@ -379,7 +397,9 @@ XXI. Coordinar acciones para fortalecer la economía circular, la gestión y man
 
 XXII. Promover la comunicación para la educación y participación social, así como la capacitación ambiental continua de personas y grupos u organizaciones de todos los sectores de la sociedad, para el fortalecimiento de la economía circular para la gestión integral de los residuos;
 
-XXIII. Incentivar el fortalecimiento del aprovechamiento energético de los residuos y el mercado del reciclado, remanufactura, reacondicionamiento, a partir de residuos y el desarrollo de tecnologías económicamente factibles y ambientalmente adecuadas para su valorización y recuperación de componentes, materiales, sustancias y con la participación de inversionistas y representantes de los sectores sociales interesados;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2022)</small>
+
+XXIII. Incentivar el fortalecimiento del aprovechamiento energético de los residuos y el mercado del reciclado, remanufactura, reacondicionamiento, a partir de residuos y el desarrollo de tecnologías económicamente factibles y ambientalmente adecuadas para su valorización y recuperación de componentes y materiales, con la participación de inversionistas y representantes de los sectores sociales interesados, así como el otorgamiento, a través de la Secretaría de Finanzas y Planeación del Estado, de estímulos fiscales a los sujetos obligados.
 
 XXIV. Elaborar, publicar y vigilar el cumplimiento de las normas técnicas ambientales, respecto del manejo integral de los residuos, estableciendo las condiciones de seguridad, requisitos y limitaciones en su manejo, que prevengan riesgos y contingencias ambientales;
 
@@ -663,37 +683,23 @@ XVII. Las demás que establezca el Reglamento de esta Ley.
 
 #### Sección II. De las Prohibiciones de los Productos que se Convierten en Residuos
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
+
 ###### Artículo 22.
 
-Se prohíbe en el Estado y sus zonas de exclusión previstas en esta Ley, el uso, comercialización y distribución de los productos siguientes:
+Se prohíbe en el Estado y sus zonas de exclusión previstas en esta Ley, el uso, comercialización y distribución de plásticos de un solo uso y de aquellos productos derivados del poliestireno expandido.
 
-I. Popotes de plástico;
-
-II. Envases para bebidas, platos, vasos, tazas, copas, charolas y cubiertos desechables de plástico;
-
-III. Los productos derivados del poliestireno expandido;
-
-IV. Bolsas de plástico desechables, para traslado de mercancías de mercados, supermercados, tiendas de servicio y autoservicio, tiendas de conveniencia, farmacias, restaurantes y similares, y
-
-V. Los anillos de plástico para envases.
-
-Se exceptúan de las anteriores prohibiciones, los (sic) siguientes:
-
-a) Los utilizados para fines médicos;
-
-b) En el caso de la fracción I, aquellos adheridos a los productos de presentación Tetrapak, para la conservación e inocuidad de alimentos, mismos que tendrán una regulación específica de sustitución gradual en el reglamento de esta ley;
-
-c) En el caso de la fracción III, en el supuesto del manejo de equipos y usos para la industria de la construcción y los empaques de mercancías, y
-
-d) En el caso de la fracción IV, aquellas usadas para el manejo de residuos.
+Quedan exceptuados aquellos que, por motivos de salud, uso médico, cosmético, preservación de alimentos, higiene o inocuidad conforme a la normatividad sanitaria y de manejo aplicable e industrial, que no pueden ser sustituidos por otros materiales por no contar con una alternativa ambientalmente viable, para lo cual se trabajará con los responsables de su introducción para identificar aquellos que puedan ser susceptibles de valoración, priorizando el ecodiseño de sus empaques para disminuir la generación de residuos y desarrollando programas para la recuperación de sus productos, con el objetivo de que se les brinde un proceso de revalorización o en su caso, disposición final alineada a la normatividad ambiental.
 
 ## Título Tercero. De la Responsabilidad Extendida y Compartida
 
 ### Capítulo I. De la Responsabilidad Extendida y Compartida
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2022)</small>
+
 ###### Artículo 23.
 
-La Secretaría deberá establecer las metas de recolección, recuperación y valorización a corto, mediano y largo plazo que se deben alcanzar en los residuos y productos listados como prioritarios en este ordenamiento y sus reglamentos.
+La Secretaría deberá establecer las metas de recolección, recuperación y valorización a corto, mediano y largo plazo que se deben alcanzar en los residuos y productos listados como prioritarios en armonía con lo establecido en el presente ordenamiento, sus reglamentos, lineamientos y demás leyes en la materia, en concordancia a los sistemas de gestión individual de los sujetos obligados; en su caso, al sistema de gestión colectivo al que se hayan adherido.
 
 ###### Artículo 24.
 
@@ -1746,3 +1752,19 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS CUATRO DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL DIECINUEVE.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, LIC. FRANCISCO XAVIER LÓPEZ MENA, RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 257 POR EL QUE SE REFORMAN LA FRACCIÓN XXXIX DEL ARTÍCULO 8, LA FRACCIÓN XXIII DEL ARTÍCULO 10, EL ARTÍCULO 22 Y EL ARTICULO 23 Y SE ADICIONAN LAS FRACCIONES XXIV BIS, XXIV BIS I, XXIV BIS II, XXIV BIS III AL ARTÍCULO 8, TODOS DE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes al día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo no mayor a 180 días naturales, la Secretaría deberá actualizar toda normatividad y reglamentación secundaria que se requiera, a efectos de atender lo establecido en el presente Decreto.
+
+Los reglamentos y lineamientos de la materia que al efecto expida la Secretaría, establecerán los plazos en que los sujetos obligados deberán cumplir con la disminución y sustitución de los productos a que se refiere el artículo 22 de la presente Ley.
+
+TERCERO. En tanto la Secretaría no emita los criterios correspondientes para el registro del Plan de Manejo estatal, los interesados podrán suscribir ante esta dependencia, de manera extraordinaria, el registro del Plan de Responsabilidad Extendida individual o colectivo que se establece en el artículo 28 de la presente ley.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
