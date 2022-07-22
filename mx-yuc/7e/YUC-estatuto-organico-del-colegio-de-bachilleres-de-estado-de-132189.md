@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-colegio-de-bachilleres-de-estado-de-13218
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-12-28"
-last_updated: "2018-12-28"
+last_updated: "2022-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # ESTATUTO ORGANICO DEL COLEGIO DE BACHILLERES DE ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 22 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2022 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2018.
 
@@ -990,3 +992,21 @@ Vocal
 Lic. Jerónimo Fernando Escalante Pavía
 
 Secretario Ejecutivo
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 22 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, previa aprobación por la Junta de Gobierno del Colegio de Bachilleres del Estado de Yucatán.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este acuerdo, se abroga el Acuerdo 01/2015 por el que se aprueba el Estatuto Orgánico del Colegio de Bachilleres de Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 28 de diciembre de 2018.
+
+Tercero. Inscripción en el registro de entidades paraestatales
+
+La persona titular de la dirección general del Colegio de Bachilleres del Estado de Yucatán deberá realizar la inscripción de las modificaciones de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes, contados a partir de la entrada en vigor de este acuerdo.
