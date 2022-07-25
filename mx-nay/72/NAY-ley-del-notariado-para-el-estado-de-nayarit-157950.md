@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-para-el-estado-de-nayarit-157950"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-29"
-last_updated: "2022-04-29"
+last_updated: "2022-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE JULIO DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL NOTARIADO PARA EL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE JULIO DE 2022.]</small>
 
 Ley publicada en la Sección Tercera del Número 078 del Periódico Oficial del Estado de Nayarit, el viernes 29 de abril de 2022.
 
@@ -1327,7 +1327,9 @@ Al entregarse definitivamente la decena de libros al Archivo de Notarías se aco
 
 El libro de registro de cotejos es el conjunto de los folios encuadernados, con su respectivo apéndice de cotejos.
 
-Cuando se trate del cotejo de un documento con su copia, se presentarán ambos a la persona titular de la Notaría quien hará constar al calce, al reverso o en hoja anexa de la copia mediante certificación firmada y sellada, que es fiel reproducción del original. El documento original será devuelto por la persona titular de la Notaría sellado y rubricado asentando en él la fecha del cotejo. Por rúbrica se debe entender un rasgo de puño y letra de la persona titular de la Notaría que puede coincidir con su firma o con parte de ésta.
+> <small>(F. DE E., P.O. 25 DE JULIO DE 2022)</small>
+
+Cuando se trate del cotejo de un documento con su copia, se presentarán ambos a la persona titular de la Notaría quien hará constar al calce, al reverso o en hoja anexa de la copia mediante certificación firmada y sellada, que es fiel reproducción del original, debiendo asentar la fecha del cotejo. El documento original será devuelto por la persona titular de la Notaría. Por rúbrica se debe entender un rasgo de puño y letra de la persona titular de la Notaría que puede coincidir con su firma o con parte de ésta.
 
 ###### Artículo 109.
 
@@ -1847,9 +1849,11 @@ La persona titular de la Notaría en funciones expedirá los testimonios de los 
 
 Expedido un testimonio no podrá testarse ni entrerrenglonarse, aunque se adviertan en él errores de copia o transcripción del instrumento original asentado en el protocolo. En ese caso, el solicitante lo presentará a la persona titular de la Notaría, quien una vez constatado el error, hará mención de ello en nota complementaria que consignará en el original y asentará una certificación en el testimonio, haciendo constar la discrepancia y el texto correcto que corresponda en lugar del erróneo.
 
+> <small>(F. DE E., 25 DE JULIO DE 2022)</small>
+
 ###### Artículo 173.
 
-Cuando se trate del cotejo de un documento con su copia, se presentarán ambos a la persona titular de la Notaría quien hará constar al calce, al reverso o en hoja anexa de la copia mediante certificación firmada y sellada, que es fiel reproducción del original. El documento original será devuelto por la persona titular de la Notaría sellado y rubricado asentando en él la fecha del cotejo. Por rúbrica se debe entender un rasgo de puño y letra de la persona titular de la Notaría que puede coincidir con su firma o con parte de ésta.
+Cuando se trate del cotejo de un documento con su copia, se presentarán ambos a la persona titular de la Notaría quien hará constar al calce, al reverso o en hoja anexa de la copia mediante certificación firmada y sellada, que es fiel reproducción del original, debiendo asentar la fecha del cotejo. El documento original será devuelto por la persona titular de la Notaría. Por rúbrica se debe entender un rasgo de puño y letra de la persona titular de la Notaría que puede coincidir con su firma o con parte de ésta.
 
 ###### Artículo 174.
 
