@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-de-la-secretaria-ejecutiva-del-sistema-144037"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-09-07"
-last_updated: "2020-09-07"
+last_updated: "2022-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE ÉTICA DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 7 de septiembre de 2020.
 
@@ -75,9 +75,13 @@ IV. Comité de Ética: El Comité de Ética, que al interior de la Secretaría E
 
 V. Comité de Participación Ciudadana: El Comité de participación Ciudadana del Sistema Estatal Anticorrupción de Guanajuato.
 
-VI. Compromiso: El ingreso a la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato implica, para las personas servidoras públicas, tomar conocimiento del presente Código de Ética y asumir el compromiso de su debido cumplimiento.
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
 
-VII. Difusión: El Comité de Ética dará la más amplia difusión al Código de Ética entre las personas servidoras públicas de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato.
+VI. Compromiso: El deber que asumen las personas servidoras públicas a su ingreso a la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato para tomar conocimiento y cumplir lo que mandata el presente Código de Ética.
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
+
+VII. Difusión: El conjunto de estrategias que, a través de diversos medios, implementará el Comité de Ética para comunicar el Código de Ética a las personas servidoras públicas de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato.
 
 VIII. Ética: Disciplina Filosófica que determina y distingue las buenas de las malas costumbres de actuación de los funcionarios públicos en el cumplimiento de sus responsabilidades legales y administrativas.
 
@@ -221,19 +225,31 @@ VI. Elaborar, aprobar y ejecutar su Programa Anual de Trabajo;
 
 VII. Analizar y opinar sobre los asuntos que le sean sometidos a su consideración;
 
-VIII. Dictar las medidas necesarias para su mejor funcionamiento, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
 
-IX. Integrar comisiones de trabajo entre sus integrantes para la realización de tareas específicas.
+VIII. Dictar las medidas necesarias para su mejor funcionamiento, así como expedir los instrumentos para la atención, control y seguimiento de los asuntos que sean de su competencia, y
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
+
+IX. Constituir comisiones de trabajo entre sus integrantes para la realización de tareas específicas.
 
 ### CAPÍTULO II. INTEGRACIÓN DEL COMITÉ DE ÉTICA
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
+
 ###### Artículo 10.
 
-El Comité de Ética se integrará por el titular de cada una de las unidades administrativas que conforman la estructura de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato, señaladas en el Artículo 32 del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato.
+El Comité de Ética contará con doce integrantes, de los cuales once serán personas de los distintos niveles jerárquicos de las unidades administrativas que conforman la estructura de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, señaladas en el artículo 12 del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Guanajuato. Todos ellos tendrán derecho a voz y voto.
 
-Asimismo formará parte del Comité de Ética un integrante del Comité de Participación Ciudadana, recayendo tal representación en el segundo representante que forme parte del Comité Coordinador del Sistema Estatal Anticorrupción de Guanajuato.
+El doceavo miembro que formará parte del Comité de Ética será un integrante del Comité de Participación Ciudadana, el cual fungirá como Testigo Ciudadano, recayendo tal figura en el segundo representante que forme parte del Comité Coordinador del Sistema Estatal Anticorrupción de Guanajuato, mismo que tendrá derecho a voz y será el vínculo con las organizaciones sociales y académicas, además podrá emitir opiniones, propuestas, observar, colaborar y conocer el seguimiento de las acciones emprendidas por el Comité de Ética de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
 
-Los integrantes tendrán derecho a voz y voto.
+La Presidencia del Comité de Ética y la Secretaría Ejecutiva se renovarán con el cambio de titulares en sus unidades administrativas.
+
+El Testigo Ciudadano será sustituido al tiempo que se asuma la participación como segundo representante en el Comité Coordinador del Sistema Estatal Anticorrupción de Guanajuato.
+
+Los representantes de las unidades administrativas integrantes del Comité de Ética, durarán en su encargo tres años, y podrán ser designados por un periodo consecutivo.
+
+En caso de ausencia temporal o definitiva de algún integrante del Comité de Ética, el Presidente designará por escrito a quien deba suplirlo, con excepción del Testigo Ciudadano.
 
 ###### Artículo 11.
 
@@ -243,13 +259,17 @@ Los cargos de los integrantes del Comité (sic) Ética serán honoríficos, por 
 
 A las sesiones del Comité de Ética se podrá invitar a participar a personas u organismos públicos o privados, quienes tendrán únicamente derecho a voz.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
+
 ###### Artículo 13.
 
-El cargo de presidente del Comité de Ética recaerá en (sic) representante del Comité de Participación Ciudadana y el cargo de Secretario Ejecutivo recaerá en el Titular del Órgano Interno de Control.
+El cargo de Presidente recaerá en el integrante del Comité de Ética que ocupe la titularidad de la Secretaría Técnica y el cargo de Secretario Ejecutivo, en el Titular del Órgano Interno de Control.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
 
 ###### Artículo 14.
 
-En la primera sesión del año se instalará la Presidencia del Comité y se presentará el Programa Anual de Trabajo del Comité de Ética para su aprobación.
+En la primera sesión del año se presentará el Programa Anual de Trabajo del Comité de Ética y el calendario de sesiones, para su aprobación.
 
 ### CAPÍTULO III. ATRIBUCIONES DE LOS INTEGRANTES DEL COMITÉ DE ÉTICA
 
@@ -259,7 +279,9 @@ El Presidente del Comité de Ética tendrá las siguientes atribuciones:
 
 I. Presidir, representar y dirigir el Comité de Ética;
 
-II. Someter a aprobación del Comité de Ética, el Programa Anual de Trabajo y el calendario de sesiones;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
+
+II. Someter a aprobación del Comité de Ética el Programa Anual de Trabajo, el calendario de sesiones, las actas y todos los asuntos de su competencia que así lo requieran.
 
 III. Convocar y dirigir las sesiones del Comité de Ética, y
 
@@ -279,15 +301,21 @@ IV. Verificar el quórum, antes del inicio de cada sesión;
 
 V. Tomar la votación de los integrantes del Comité de Ética, con respecto a los asuntos sometidos a su consideración, haciendo constar el resultado de las mismas en el acta respectiva;
 
-VI. Presentar a los integrantes del Comité de Ética, en cada sesión ordinaria, los avances y resultados del Programa Anual de Trabajo;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
+
+VI. Integrar, con la participación de los miembros del Comité de Ética, el informe de avances y resultados del Programa Anual de Trabajo y presentarlo en cada sesión ordinaria.
 
 VII. Elaborar las actas de las sesiones del Comité de Ética y recabar la firma de los asistentes;
 
 VIII. Integrar el archivo del Comité de Ética;
 
-IX. Dar seguimiento a la ejecución de los acuerdos tomados por el Comité de Ética e informar al Presidente de su resultado, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2022)</small>
 
-X. Las demás que le asigne el Comité de Ética.
+X. Informar al Comité de Ética sobre la operación del mecanismo y protocolo para la atención y seguimiento de quejas y denuncias, en los términos del Protocolo para la recepción y atención de quejas y/o denuncias derivadas de presuntos incumplimientos al Código de Ética.
+
+> <small>(ADICIONADA [REUBICADA ANTES FRACCIÓN X], P.O. 26 DE JULIO DE 2022)</small>
+
+XI. Las demás que le asigne el Comité de Ética.
 
 ###### Artículo 17.
 
@@ -295,27 +323,35 @@ Los integrantes del Comité de Ética tendrán las siguientes atribuciones:
 
 I. Asistir a las sesiones del Comité de Ética y desempeñar las comisiones que en el mismo se acuerden;
 
-II. Incorporarse a las comisiones de trabajo que se integren para la realización de tareas específicas determinadas por el Comité de Ética;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
+
+II. Incorporarse a las comisiones de trabajo que se integren para la realización de tareas específicas determinadas por el Comité de Ética y dar cuenta de los resultados durante las sesiones ordinarias;
 
 III. Cumplir con los acuerdos derivados de las sesiones del Comité de Ética;
 
 IV. Difundir los acuerdos generados en el Comité de Ética entre el personal a su cargo, así como las acciones establecidas en el Programa Anual de Trabajo;
 
-V. Participar en la elaboración y aprobación del Programa Anual de Trabajo, y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
+
+V. Participar en la elaboración y aprobación del Programa Anual de Trabajo, así como en la integración del Informe de avances y resultados, y
 
 VI. Las demás que les asigne el Presidente del Comité de Ética.
 
 ### CAPÍTULO IV. SESIONES DEL COMITÉ DE ÉTICA
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
+
 ###### Artículo 18.
 
 El Comité de Ética celebrará sesiones ordinarias y extraordinarias. Las ordinarias serán trimestrales conforme al calendario que se apruebe en la primera sesión del año del Comité de Ética y las extraordinarias cuando la importancia del asunto así lo amerite.
 
-Las sesiones se llevarán a cabo en el lugar, día y hora que se indiquen en la convocatoria respectiva.
+Las sesiones se llevarán a cabo en la modalidad, espacio físico o remoto, día y hora que se indiquen en la convocatoria respectiva.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
 
 ###### Artículo 19.
 
-Se convocará a las sesiones ordinarias al menos con cinco días hábiles de anticipación y a las sesiones extraordinarias al menos con dos días hábiles de anticipación, anexándose el orden del día.
+Se convocará a las sesiones ordinarias al menos con dos días hábiles de anticipación y a las sesiones extraordinarias al menos con un día hábil de anticipación, anexándose el orden del día y la documentación para la discusión de los temas, en su caso.
 
 ###### Artículo 20.
 
@@ -333,13 +369,17 @@ De cada sesión deberá levantarse acta que será aprobada y firmada por los int
 
 ### CAPÍTULO V. COMISIONES DE TRABAJO
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
+
 ###### Artículo 23.
 
-El Comité de Ética podrá funcionar en comisiones de trabajo, en ellas los titulares o suplentes del Comité de Ética participarán para coadyuvar en el cumplimiento de sus atribuciones.
+El Comité de Ética podrá integrar comisiones de trabajo en las cuales sus miembros participarán para coadyuvar en el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
 
 ###### Artículo 24.
 
-Las Comisiones de Trabajo llevarán a cabo las actividades encomendadas por el Comité de Ética e informarán los resultados que se generen. Asimismo, designarán a un representante para las intervenciones en las sesiones del Comité de Ética.
+Las comisiones de trabajo llevarán a cabo las actividades encomendadas por el Comité de Ética e informarán los resultados que se generen en los términos del artículo 17 del presente Código de Ética. Asimismo, designarán a un representante para las intervenciones en las sesiones del Comité de Ética.
 
 ###### Artículo 25.
 
@@ -349,9 +389,11 @@ En las comisiones de trabajo podrá invitarse a personas u organismos públicos 
 
 ### CAPÍTULO PRIMERO. RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
+
 ###### Artículo 26.
 
-El Órgano Interno de Control, vigilarán (sic) la observancia del presente Código de Ética.
+El Órgano Interno de Control, vigilará la observancia del presente Código de Ética.
 
 ###### Artículo 27.
 
@@ -361,9 +403,11 @@ Las personas servidoras públicas de la Secretaría Ejecutiva del Sistema Estata
 
 Cualquier persona puede hacer del conocimiento del Órgano Interno de Control y del Comité de Ética, de los presuntos incumplimientos al presente Código de Ética.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
+
 ###### Artículo 29.
 
-En el supuesto de que los hechos sean denunciados ante el Comité de Ética, éste turnará inmediatamente a las autoridades competentes, las denuncias recibidas, para el deslinde de responsabilidades correspondientes.
+En el supuesto de que los hechos sean denunciados ante el Comité de Ética, este turnará inmediatamente a las autoridades competentes las denuncias recibidas, para el deslinde de responsabilidades correspondientes, de conformidad con el Protocolo para la recepción y atención de quejas y/o denuncias derivadas de presuntos incumplimientos al Código de Ética.
 
 ### CAPÍTULO SEGUNDO. INTERPRETACIÓN Y APLICACIÓN
 
@@ -412,3 +456,15 @@ Dado en la sede del Órgano Interno de Control de la Secretaría Ejecutiva del S
 Gabriel Tadeo Camacho Echeverría
 
 Titular del Órgano Interno de Control de la Secretaría Ejecutiva Del Sistema Estatal Anticorrupción de Guanajuato
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “PRIMERA MODIFICACIÓN AL CÓDIGO DE ÉTICA DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO”.]
+
+Artículo Primero.- La presente modificación al Código de Ética entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo.- Se instruye al Órgano Interno de Control realice las acciones correspondientes ante la Coordinación de Asuntos Jurídicos para su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Tercero.- Dentro de los quince días hábiles siguientes a la entrada en vigor de la Primera modificación al Código de Ética, el Órgano Interno de Control realizará las gestiones necesarias para la reestructuración del Comité de Ética.
