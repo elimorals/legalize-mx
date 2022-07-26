@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-148-de-ingresos-para-el-municipio-de-iguala-de-15442
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-31"
-last_updated: "2021-12-31"
+last_updated: "2022-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,17 +25,17 @@ state: "GRO"
 
 LEY NÚMERO 148 DE INGRESOS PARA EL MUNICIPIO DE IGUALA DE LA INDEPENDENCIA, GUERRERO, PARA EL EJERCICIO FISCAL 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
 
 Ley publicada en el Alcance VIII al No. 105 del Periódico Oficial del Estado de Guerrero, el viernes 31 de diciembre de 2021.
 
 > <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-(NOTA: EL 17 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2022 Y SUS ACUMULADAS 15/2022, 19/2022, 24/2022 Y 26/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 18 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 13.
 
-Con fines de fomento educativo y asistencia social, se causará una sobre tasa de 0.5 UMA’s sobre el producto de los siguientes conceptos:
+Con fines de fomento educativo y asistencia social, se causará una sobre tasa anual sobre el producto de los siguientes conceptos:
 
 I. Impuesto predial.
 
@@ -45,11 +45,43 @@ III. Derechos por servicios de tránsito.
 
 IV. Derechos por los servicios de agua potable.
 
-(NOTA: EL 17 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2022 Y SUS ACUMULADAS 15/2022, 19/2022, 24/2022 Y 26/2022, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 18 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+La sobre tasa se pagará conforme a las necesidades y clasificación que se presenten respecto de las fracciones I, II, III y IV antes señaladas.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 14.
 
-Con el propósito de fomentar la construcción de caminos, se aplicará en las zonas del Municipio en cuestión, una sobre tasa de 0.5 UMA’s pro-caminos sobre el producto de los conceptos mencionados en las fracciones I y II del artículo 13 de esta ley. Y en aquellas zonas del Municipio consideradas como turísticas, además de la sobre tasa referida de 0.5 UMA’s pro-educación y asistencia social, se causará una sobre tasa de 0.5 UMA’s pro-turismo sobre el producto recaudado por los conceptos mencionados en las fracciones I y II del artículo 13 de esta ley. Por los derechos de consumo de agua potable establecidos en el presente ordenamiento se causará una sobre tasa de 0.5 UMA’s pro-redes, para el mantenimiento, conservación y ampliación de las redes de abastecimiento del propio servicio, con excepción de las tarifas domésticas, este impuesto adicional será recaudado por las oficinas correspondientes del Municipio, las que rendirán cuentas y concentrarán lo recaudado a la caja general de la Secretaría de Finanzas y Administración Municipal; así como también y con el objeto de apoyar el programa de recuperación del equilibrio ecológico forestal de los municipios, se causará y pagará una sobre tasa de 0.5 UMA’s, sobre el monto de los derechos por los servicios prestados por las autoridades de tránsito establecidos en la presente Ley, cuya recaudación deberá ser enterada y concentrada a la caja general de la Secretaria de Finanzas y Administración Municipal. En el pago de impuestos y derechos, se cobrará una sobre tasa de 0.5 UMA’s por concepto de contribución estatal, excepto sobre los impuestos predial, adquisición de inmuebles, los derechos por servicios catastrales, por servicios de tránsito y por los servicios de agua potable.
+Con el propósito de fomentar la construcción de caminos, se aplicará en las zonas del Municipio de Iguala de la Independencia, sobre el producto de los conceptos mencionados en las fracciones I y II del artículo 13 de esta Ley, una sobre tasa anual pro-caminos de acuerdo con la clasificación siguiente:
+
+TIPO DE PREDIO CLASIFICACIÓN UMA’s
+
+INTERÉS SOCIAL 1
+
+HABITACIONAL INTERÉS MEDIO 3
+
+DOMESTICA
+
+RESIDENCIAL 5
+
+DE LUJO 8
+
+PEQUEÑA 3
+
+COMERCIAL
+
+Y DE MEDIANA 5
+
+SERVICIOS
+
+GRANDE 8
+
+PEQUEÑA 4
+
+INDUSTRIAL MEDIANA 5
+
+GRANDE 8
+
+En aquellas zonas del Municipio consideradas como turísticas, además de una sobre tasa anual de pro-educación y asistencia social, se causará adicionalmente una sobre tasa anual de pro-turismo sobre el producto recaudado por los conceptos mencionados en las fracciones I y II del artículo 13 de esta ley, de acuerdo a la clasificación mencionada en el párrafo anterior. Por los derechos de consumo de agua potable establecidos en el presente ordenamiento se causará una sobre tasa anual pro-redes, para el mantenimiento, conservación y ampliación de las redes de abastecimiento del propio servicio, con excepción de las tarifas domésticas, este impuesto adicional será recaudado por las oficinas correspondientes del Municipio, las que rendirán cuentas y concentrarán lo recaudado a la caja general de la Secretaría de Finanzas y Administración Municipal; así como también y con el objeto de apoyar el programa de recuperación del equilibrio ecológico forestal de los municipios, se causará y pagará una sobre tasa anual, sobre el monto de los derechos por los servicios prestados por las autoridades de tránsito establecidos en la presente Ley, cuya recaudación deberá ser enterada y concentrada a la caja general de la Secretaria de Finanzas y Administración Municipal. En el pago de impuestos y derechos, se cobrará una sobre tasa anual por concepto de contribución estatal, excepto sobre los impuestos predial, adquisición de inmuebles, los derechos por servicios catastrales, por servicios de tránsito y por los servicios de agua potable.
 
 Para los efectos de este artículo, se consideran zonas turísticas aquellas que se encuentren publicadas en las correspondientes gacetas municipales.
 
