@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2022-07-16"
+last_updated: "2022-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -801,13 +801,17 @@ Características de la educación para personas adultas
 
 La educación para personas adultas será considerada una educación a lo largo de la vida y está destinada a la población de quince años o más que no haya cursado o concluido la educación primaria y secundaria; además de fomentar su inclusión a la educación media superior y superior. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
 
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2022)</small>
+
 Acreditación de los conocimientos adquiridos
 
 ###### Artículo 52.
 
 Las personas beneficiarias de la educación referida en este Capítulo podrán acreditar los conocimientos adquiridos, mediante evaluaciones parciales o globales, conforme a los procedimientos a que aluden los artículos 83 y 145 de la Ley General de Educación. Cuando al presentar una evaluación no acrediten los conocimientos, habilidades, capacidades y destrezas, recibirán un informe que indique las asignaturas y unidades de aprendizaje en las que deban profundizar y tendrán derecho a presentar nuevas evaluaciones hasta lograr la acreditación respectiva.
 
-La autoridad educativa organizará servicios permanentes de promoción y asesoría de educación para personas adultas. Promoverá ante las instancias competentes, se otorguen las facilidades necesarias a trabajadores y sus familiares para estudiar y acreditar la educación primaria, secundaria y media superior.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
+
+La autoridad educativa organizará servicios permanentes de promoción y asesoría de educación para personas adultas; fomentará la participación e inclusión de personas migrantes o repatriadas en rezago educativo; promoverá ante las instancias competentes, se otorguen las facilidades necesarias a trabajadores y sus familiares para estudiar y acreditar la educación primaria, secundaria y media superior.
 
 Quienes participen voluntariamente proporcionando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
@@ -2450,3 +2454,9 @@ P.O. 16 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 28795/LXIII/22 QUE REFORMA EL ARTÍCULO 15 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 26 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28799/LXIII/22 QUE REFORMA EL ARTÍCULO 52 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
