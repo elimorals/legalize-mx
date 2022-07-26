@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2020-03-04"
+last_updated: "2022-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -121,9 +121,9 @@ XXIII. Organizaciones. Todas aquéllas organizaciones sociales constituidas lega
 
 XXIV. Perro Guía o Animal de Servicio. Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
 
-XXV. Persona con Discapacidad. Todo (sic) persona que, por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, talla pequeña, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+XXV. Persona con Discapacidad. Todo (sic) persona que, por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, o un trastorno de talla, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
 
 XXVI. Política Pública. Todos aquellos planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
 
@@ -215,7 +215,9 @@ Todas las dependencias y entidades de la administración pública estatal y muni
 
 Son derechos de las personas con discapacidad:
 
-I. Todos los que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, así como los Tratados Internacionales ratificados por el Estado mexicano, sin distinción de origen étnico, nacional, género, edad, condición social, económica o de salud, religión, ideología, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otra característica propia de la condición humana;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
+
+I. Todos los que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, así como los Tratados Internacionales ratificados por el Estado mexicano, sin distinción de origen étnico, nacional, género, edad, o un trastorno de talla, condición social, económica o de salud, religión, ideología, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otra característica propia de la condición humana o que atente contra su dignidad. Las medidas contra la discriminación tienen como finalidad prevenir o corregir que una persona con discapacidad sea tratada de una manera directa o indirecta menos favorable que otra que no lo sea, en una situación comparable;
 
 II. Recibir un trato digno y apropiado en los procedimientos administrativos y judiciales de que sean parte, así como asesoría y representación jurídica gratuita en dichos procedimientos, bajo los términos que establezcan las leyes respectivas;
 
@@ -864,3 +866,11 @@ P.O. 4 DE MARZO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 103 POR EL QUE “SE REFORMA LA FRACCIÓN XXV DEL ARTÍCULO 2 Y LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
