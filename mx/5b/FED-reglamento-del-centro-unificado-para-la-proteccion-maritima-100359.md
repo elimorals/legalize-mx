@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-centro-unificado-para-la-proteccion-maritima-100
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-04-21"
-last_updated: "2014-04-21"
+last_updated: "2022-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100359&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-04-15"
 ---
 # REGLAMENTO DEL CENTRO UNIFICADO PARA LA PROTECCION MARITIMA Y PORTUARIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CENTRO UNIFICADO PARA LA PROTECCIÓN MARÍTIMA Y PORTUARIA, PUBLICADO EN EL D.O.F. DE 26 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL CENTRO UNIFICADO PARA LA PROTECCIÓN MARÍTIMA Y PORTUARIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JULIO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 21 de abril de 2014.
 
@@ -226,3 +228,15 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Se derogan las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a quince de abril de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Marina, Vidal Francisco Soberón Sanz.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Gerardo Ruiz Esparza.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.]</small>
+
+D.O.F. 26 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DEL CENTRO UNIFICADO PARA LA PROTECCIÓN MARÍTIMA Y PORTUARIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Centro Unificado para la Protección Marítima y Portuaria publicado el 21 de abril de 2014 en el Diario Oficial de la Federación y se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, se realizarán con cargo al presupuesto autorizado para la Secretaría de Marina, con movimientos compensados, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
