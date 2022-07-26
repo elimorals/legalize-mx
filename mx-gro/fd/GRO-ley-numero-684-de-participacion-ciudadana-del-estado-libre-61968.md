@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-684-de-participacion-ciudadana-del-estado-libre-6196
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2022-03-18"
+last_updated: "2022-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 684 DE PARTICIPACIÓN CIUDADANA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 4 de julio de 2008.
 
@@ -495,7 +495,9 @@ Para que una Iniciativa Popular pueda ser admitida para su estudio, dictamen y v
 
 I. Escrito de presentación de Iniciativa Popular dirigido al Congreso del Estado;
 
-II. Ser firmada por un mínimo del 0.2% de los ciudadanos inscritos en el Padrón Electoral vigente en el Estado;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
+
+II. Ser firmada por un mínimo del 0.2% de la lista nominal de electores vigente en el Estado de Guerrero.
 
 III. Nombrar a un Comité integrado por tres personas que funjan como representantes comunes de la iniciativa, con domicilio para oír y recibir toda clase de notificaciones;
 
@@ -1470,3 +1472,11 @@ Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, pa
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general
+
+P.O. 26 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUMERO 213 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 35 DE LA LEY NÚMERO 684 DE PARTICIPACIÓN CIUDADANA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Publíquese en el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales en internet.
