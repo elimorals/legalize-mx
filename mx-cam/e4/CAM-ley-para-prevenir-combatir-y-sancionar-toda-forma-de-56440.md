@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-07-12"
+last_updated: "2022-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -101,11 +101,13 @@ XII. Persona en situación de calle: Todo ser humano quien sin contar con un esp
 
 XIII. Pueblos indígenas: Aquellos grupos que se consideren así por el hecho de descender de poblaciones que habitaban en el país y que, cualquiera que sea su situación jurídica, conservan sus instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2022)</small>
 
 ###### Artículo 6.
 
-Se considerará como discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, así como la igualdad real de oportunidades de las personas, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la talla pequeña, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
+Se considerará como discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, así como la igualdad real de oportunidades de las personas, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la talla pequeña, la condición social, económica, de salud física o mental, jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
 También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia.
 
@@ -188,6 +190,14 @@ V. Limitar el acceso a los programas de capacitación y de formación profesiona
 VI. Negar o limitar información y acceso a los derechos reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas;
 
 VII. Negar, obstaculizar o condicionar los servicios de atención médica, o impedir la participación en las decisiones sobre tratamiento médico o terapéutico dentro de las posibilidades y medios de las personas;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2022)</small>
+
+VII Bis. Difundir sin consentimiento de la persona agraviada información sobre su condición y antecedentes de salud física o mental, o sobre cualquier otro dato personal sensible;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2022)</small>
+
+VII Ter. Negar la prestación de servicios financieros a personas con discapacidad y personas de edad avanzada o por motivo de la condición de salud física o mental;
 
 VIII. Impedir la participación en condiciones de equidad en asociaciones civiles, políticas o de cualquier índole;
 
@@ -644,6 +654,14 @@ TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opo
 P.O. 12 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 96 POR EL QUE “SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 19 DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 102 "SE REFORMA EL ARTÍCULO 6 Y SE ADICIONAN LAS FRACCIONES VII BIS Y VII TER AL ARTÍCULO 15 DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE".]
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
