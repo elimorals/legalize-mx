@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2022-05-10"
+last_updated: "2022-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1745,21 +1745,19 @@ III.- Si existe relación de autoridad, de parentesco o de amistad, entre el age
 
 IV.- Se hubiera administrado a la víctima alguna sustancia tóxica que afecte su comportamiento.
 
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
-
-V.- Si la víctima fuere menor de edad;
+V. (DEROGADA, P.O. 26 DE JULIO DE 2022).
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 En los supuestos precedentes este delito se perseguirá por querella de parte.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
 
-A quien cometa el delito de abuso sexual en una niña, niño o adolescente con discapacidad o en persona que por sus condiciones físicas o mentales no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y multa de trescientas a quinientas Unidades de Medida y Actualización.
+A quien cometa el delito de abuso sexual en una niña, niño o adolescente; con alguna discapacidad o, en persona que por sus condiciones físicas o mentales no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y multa de trescientas a quinientas Unidades de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
 
-Dicha penalidad se aumentará en una mitad en su mínimo y en su máximo, si se hiciera uso de violencia en la niña, niño o adolescente con discapacidad o en persona que por sus condiciones físicas o mentales no tenga la capacidad de comprender el significado del hecho, o exista una relación sentimental entre el sujeto activo y la víctima, o cuando el agresor aproveche su posición de autoridad, o se encuentre ejerciendo la patria potestad, tutela o curatela, se fijará de manera expresa y obligatoria la suspensión de la convivencia entre la víctima y su agresor, y a éste se le destituirá del cargo o comisión de los que pudo valerse, así como la pérdida de la patria potestad, tutela o curatela que estuviere ejerciendo sobre la víctima.
+Dicha penalidad se aumentará en una mitad en su mínimo y en su máximo, si se hiciera uso de violencia en la niña, niño o adolescente; con alguna discapacidad o, en persona que por sus condiciones físicas o mentales no tenga la capacidad de comprender el significado del hecho, o exista una relación sentimental entre el sujeto activo y la víctima, o cuando el agresor aproveche su posición de autoridad, o se encuentre ejerciendo la patria potestad, tutela o curatela, se fijará de manera expresa y obligatoria la suspensión de la convivencia entre la víctima y su agresor, y a éste se le destituirá del cargo o comisión de los que pudo valerse, así como la pérdida de la patria potestad, tutela o curatela que estuviere ejerciendo sobre la víctima.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
@@ -4742,3 +4740,11 @@ P.O. 10 DE MAYO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 100. SE DEROGA LA FRACCIÓN V Y SE REFORMAN LOS PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 169 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE.”]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
