@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2022-07-12"
+last_updated: "2022-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -106,6 +106,10 @@ VI. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado 
 VII. Certificado de Idoneidad: El documento expedido por el Sistema Estatal para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección, o por la autoridad central del país de origen de los adoptantes, en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
 VIII. Comisión Estatal: La Comisión de Derechos Humanos del Estado de Campeche;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2022)</small>
+
+VIII Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, todo en un marco de respeto a sus derechos, a cargo de las personas que tienen bajo su responsabilidad a niñas, niños y adolescentes derivado de la patria potestad, tutela, guarda y custodia, la enseñanza, la educación, la salud, acogimiento residencial o cualquier otro encargo de orientación, educación, cuidado o crianza;
 
 IX. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que, al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
@@ -1167,7 +1171,9 @@ III. Asegurar que cursen la educación obligatoria, participar en su proceso edu
 
 IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a las niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
 
-V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2022)</small>
+
+V. Asegurar y ofrecer un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad, mediante la crianza positiva basada en el cuidado y en las relaciones respetuosas y participativas;
 
 VI. Fomentar en las niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
@@ -1438,6 +1444,10 @@ XXI. Celebrar convenios de cooperación, coordinación y concertación en la mat
 XXII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de niñas, niños y adolescentes;
 
 XXIII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones a los mismos sean atendidas de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias;
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2022)</small>
+
+XXIII Bis. Implementar medidas de capacitación de crianza positiva a las madres, padres, quienes ejerzan la patria potestad, tutela, guarda, custodia o cualquier persona que tenga relación con niñas, niños y adolescentes, observando el principio del interés superior de la niñez y de la adolescencia, garantizando en la máxima medida posible el ejercicio pleno de sus derechos, con el fin de erradicar las prácticas de castigo corporal, castigo humillante o denigrante, o cualquier tipo o forma de violencia;
 
 XXIV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene; y
 
@@ -2076,3 +2086,11 @@ P.O. 12 DE JULIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 26 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 101 POR EL QUE “SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 99 Y SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 4, Y LA FRACCIÓN XXIII BIS AL ARTÍCULO 113, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
