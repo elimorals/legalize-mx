@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-05-23"
+last_updated: "2022-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -1033,9 +1033,101 @@ Lo relativo a la organización y funcionamiento del Consejo Consultivo será reg
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
+### CAPÍTULO ÚNICO. DEL PREMIO
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
 ###### Artículo 80.
 
 El incumplimiento de las disposiciones contenidas en esta Ley por parte de los servidores públicos responsables de su aplicación, se sancionará conforme a la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2022)</small>
+
+## TÍTULO SEXTO. DEL PREMIO ESTATAL DE LA JUVENTUD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Artículo 81.
+
+El Premio Estatal de la Juventud, se entregará a personas entre doce y veintinueve años de edad, cuya conducta, dedicación y desarrollo humano, al trabajo, estudio y crecimiento profesional, cause entusiasmo, admiración y sea motivante de superación personal entre sus contemporáneos y pueda considerarse ejemplo de buenas prácticas en el ámbito social y comunitario.
+
+Se concederá en las siguientes categorías:
+
+I. Actividades Académicas;
+
+II. Actividades Productivas;
+
+III. Actividades Artísticas;
+
+IV. Méritos Cívicos;
+
+V. Labor Social y derechos humanos;
+
+VI. Protección al Ambiente y Protección Animal;
+
+VII. Igualdad de Género y Diversidad Sexual; y
+
+VIII. Fortalecimiento a la cultura indígena.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Artículo 82.
+
+El Premio Estatal de la Juventud se entregará anualmente, de acuerdo con las bases contenidas en la convocatoria que emita el Instituto Hidalguense de la Juventud previo trámite que realice el Consejo Técnico de Premiación.
+
+El Premio consistirá de una Medalla y diploma, pudiendo incluir adicionalmente, la entrega de recursos financieros por el monto determinado en el Presupuesto de Egresos del Estado.
+
+El Consejo Técnico de Premiación estará integrado por la persona titular del Instituto Hidalguense de la Juventud como Presidente, la persona titular del Instituto Hidalguense de Educación como Secretario y las personas consejeras serán los titulares de las dependencias y entidades directamente vinculadas con la materia de la categoría sujeta a premiación.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Artículo 83.
+
+Las categorías previstas en el artículo 81 de esta Ley, consistirán en lo siguiente:
+
+I. Actividades Académicas.
+
+Dirigida a las personas jóvenes que destaquen con una trayectoria académica ejemplar de acuerdo a la categoría considerando la trayectoria en la investigación y/o divulgación de estudios, trabajos científicos, innovación tecnológica, publicación de libros o artículos académicos, conferencias impartidas, ponencias en intercambios científicos y distinciones recibida; actividades, aportaciones o innovación en los procesos de enseñanza aprendizaje en favor de la comunidad, que trasciendan las responsabilidades docentes.
+
+II. Actividades Productivas.
+
+Dirigida a las personas jóvenes con liderazgo emprendedor en las cadenas productivas, espíritu y liderazgo emprendedor para la creación de fuentes de trabajo económicamente sustentables, formación y consolidación de procesos de producción y comercialización de bienes y servicios; aplicación de proyectos que por su innovación tecnológica fomenten la productividad y propicien nuevos productos y servicios; desarrollo de habilidades, capacitación y desarrollo de capital humano, desarrollo, difusión y promoción de una cultura emprendedora.
+
+III. Actividades Artísticas.
+
+Dirigida a las personas jóvenes que trasciendan en el trabajo y desempeño como creadores, ejecutantes o intérpretes, quienes por su trayectoria y calidad artística, contribuyen a enriquecer el acervo cultural en las siguientes disciplinas:
+
+a) Artes visuales (plástica, cine, video, fotografía, multimedia y arte urbano).
+
+b) Literatura.
+
+c) Música.
+
+d) Artes escénicas (danza y teatro).
+
+e) Arte popular (cerámica, madera, textil, metales, piel, fibras, papel y material reciclado).
+
+f) Preservación, recate (sic) y conservación de la identidad cultural.
+
+IV. Méritos Cívicos.
+
+Dirigida a las personas jóvenes cuyas acciones y resultados concretos en la promoción de valores cívicos permita la integración social, incidan, impacten y beneficien a la comunidad; quienes aporten en la construcción de acciones para que la sociedad pueda ejercer sus derechos, su trabajo a favor de una sociedad más participativa, impulso a las prácticas responsables, promoción y tolerancia al diálogo, reconocimiento a la pluralidad y la resolución pacífica de los conflictos, así como a la observancia y al cumplimiento de la Ley.
+
+V. Labor Social y derechos humanos.
+
+Dirigida a las personas jóvenes que destaquen por sus actividades en sentido solidario y que se traducen en un crecimiento de las condiciones de vida de la sociedad en general, en la colaboración en situaciones de desastre o emergencias, proyectos para mejorar el bienestar, la salud física, vivienda, economía solidaria o infraestructura en las comunidades, prevención de cualquier tipo de violencia y organización comunitaria para la autogestión; asimismo a las personas jóvenes que contribuyan a la promoción y defensa de los derechos humanos de sus contemporáneos y de la población en general.
+
+VI. Protección al Ambiente y Protección Animal.
+
+Dirigida a las personas jóvenes que realicen actividades relevantes en el rescate, protección, aprovechamiento racional y desarrollo sustentable de los ecosistemas, prácticas para el desarrollo ambiental, manejo y disposición final adecuado de los residuos sólidos urbanos y quienes promuevan proyectos sustentables enlazados a la incorporación de tecnologías limpias, acordes con las leyes y los reglamentos aplicables en la materia, así como trabajo de rescate, protección y defensa de los derechos de los animales.
+
+VII. Igualdad de Género y Diversidad Sexual.
+
+Dirigida a las personas jóvenes con liderazgo que promuevan la igualdad de derechos y combatan la discriminación de forma activa, las desigualdades y/o estigmatización de grupos vulnerables, que busquen reducir la brecha salarial existente por razones de discriminación y de género, la violencia en razón de género, el respeto y difusión de los derechos humanos, los litigios estratégicos; incluyendo trabajo a favor de los colectivos que promuevan los derechos relacionados con la orientación sexual, la identidad y/o la expresión de género así como, el combate contra el estigma, la discriminación, la violencia y la exclusión por esos motivos.
+
+VIII. Fortalecimiento a la cultura indígena.
+
+Dirigida a las personas jóvenes que promuevan la preservación de la identidad y desarrollo de los pueblos y comunidades indígenas; que realicen iniciativas individuales o colectivas que fortalezcan el sentido de pertenencia a una comunidad o pueblo indígena, mismas que pueden traducirse en las siguientes vertientes: permanencia lingüística; defensa y promoción de su cultura y derechos ancestrales; para preservar, enseñar, intercambiar y aplicar conocimientos tradicionales para proteger y mejorar la salud de las y los miembros de las comunidades o pueblos indígenas; elaboren y desarrollen proyectos productivos en beneficio de las comunidades o pueblo (sic) indígenas, en materia de mejoramiento y conservación ambiental, para la aplicación de tecnologías alternativas para el aprovechamiento de los recursos naturales y actividades de capacitación y educación en materia ambiental en los pueblos y comunidades.
 
 ## TRANSITORIOS
 
@@ -1120,3 +1212,9 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 189 POR EL QUE SE REFORMAN LAS FRACCIONES VIII Y IX, DEL ARTÍCULO 21; LA FRACCIÓN II, DEL ARTÍCULO 57 Y, LA FRACCIÓN XXIV DEL ARTÍCULO 58; Y SE ADICIONA LA FRACCIÓN X, AL ARTÍCULO 21 Y, LA FRACCIÓN XXV AL ARTÍCULO 58; TODOS DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 229, QUE ADICIONA UN TÍTULO SEXTO, DENOMINADO, DEL PREMIO ESTATAL DE LA JUVENTUD; INTEGRADO POR UN CAPÍTULO ÚNICO, DENOMINADO, DEL PERMIO; QUE CONTIENEN LOS ARTÍCULOS 81, 82 Y 83 DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
