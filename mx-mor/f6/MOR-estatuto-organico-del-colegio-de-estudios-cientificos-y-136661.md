@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-colegio-de-estudios-cientificos-y-136661"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-04-17"
-last_updated: "2019-04-17"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 ESTATUTO ORGÁNICO DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
 
 Estatuto publicado al Número 5698 del Periódico Oficial del Estado de Morelos, el miércoles 17 de abril de 2019.
 
@@ -117,9 +117,15 @@ II. La Dirección Administrativa;
 
 III. La Dirección de Vinculación;
 
-IV. La Subdirección de Planeación, y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2022)</small>
 
-V. Las Direcciones de Planteles.
+IV. La Subdirección de Planeación;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2022)</small>
+
+V. La Subdirección Jurídica; y,
+
+VI. Las Direcciones de Planteles.
 
 Todas las Unidades Administrativas estarán adscritas directamente a la Dirección General del Colegio.
 
@@ -377,9 +383,53 @@ XII. Fungir como Secretario Técnico del Comité de Transparencia del Colegio, d
 
 XIII. Elaborar, analizar e implementar programas de certificación de calidad para la mejora continua y evaluación institucional que permita de manera objetiva conocer el nivel de logro de las metas planteadas.
 
-#### SECCIÓN SEXTA. DE LAS ATRIBUCIONES ESPECÍFICAS DE LOS DIRECTORES DE PLANTEL
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE JULIO DE 2022)</small>
 
-#### SECCIÓN PRIMERA. DE LAS AUSENCIAS TEMPORALES
+#### SECCIÓN QUINTA BIS. DE LAS ATRIBUCIONES ESPECÍFICAS DE LA SUBDIRECCIÓN JURÍDICA
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Artículo 17 Bis.
+
+Corresponde a la persona titular de la Subdirección Jurídica las siguientes atribuciones:
+
+I. Representar al Colegio en los asuntos judiciales en los que el mismo sea parte, previo mandato que al efecto se le otorgue por parte del director general;
+
+II. Asesorar a la Dirección General, direcciones y subdirecciones de área, así como a las direcciones y subdirecciones de los planteles en los asuntos de índole jurídica;
+
+III. Atender los asuntos de índole jurídica del Colegio;
+
+IV. Implementar las estrategias jurídicas con la finalidad de salvaguardar los intereses del Colegio, así como ejercer las acciones legales que correspondan en defensa del patrimonio del mismo;
+
+V. Elaborar y proponer los anteproyectos de los distintos instrumentos jurídicos relacionados con el ámbito de competencia del Colegio, así como sus reformas o modificaciones, y efectuar los trámites que correspondan ante las autoridades competentes para su aprobación, tramitación y, en su caso publicación;
+
+VI. Fungir como titular de la Unidad de Transparencia con las facultades y bajo los términos establecidos en la normatividad aplicable vigente;
+
+VII. Inspeccionar el cumplimiento de las obligaciones en materia de transparencia de las áreas responsables de generar y actualizar la información pública en la Plataforma Nacional de Transparencia, mediante la revisión de dicha actualización en tal plataforma;
+
+VIII. Atender las solicitudes de información recibidas, conforme a la información proporcionada por las unidades administrativas correspondientes, ello con la finalidad de dar cumplimiento a las obligaciones en materia de transparencia;
+
+IX. Formular los convenios que, conforme a la normativa laboral y velando por los intereses del Colegio, extingan las relaciones laborales del mismo, así como realizar la atención de las controversias o litigios que se susciten con motivo de la relación entre las autoridades del Colegio y sus servidores públicos;
+
+X. Coadyuvar en la revisión de actas de constancias de hechos y actas administrativas que hayan sido levantadas en los distintos centros de trabajo a los trabajadores que incurran en alguna acción u omisión de sus atribuciones, conforme a la normatividad aplicable;
+
+XI. Formular, revisar y validad los acuerdos, convenios y contratos que celebre el Colegio;
+
+XII. Mantener estrecha vinculación, comunicación y coordinación con la Consejería Jurídica para la gestión de los asuntos que requieran de su intervención;
+
+XIII. Acatar, cumplir y hacer cumplir las determinaciones, lineamientos y encomiendas que emita la Consejería Jurídica, en el ámbito de su respectiva competencia;
+
+XIV. Formular y presentar ante la autoridad competente las denuncias correspondientes para la oportuna defensa del Colegio cuando se presuma la comisión de un delito en contra de los intereses del mismo;
+
+XV. Elaborar los proyectos de informes previos y justificados que en materia de amparo deba rendir el director general;
+
+XVI. Rendir los informes que en materia de derechos humanos le requieran al Colegio tanto a la Comisión Nacional de los Derechos Humanos, como la Comisión de Derechos Humanos del Estado de Morelos;
+
+XVII. Validar los convenios y contratos de adquisición de bienes y prestación de servicios sujetos a la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos, en apego a la normatividad vigente; y,
+
+XVIII. Elaborar en conjunto con la Dirección de vinculación, los convenios de colaboración celebrados por el Colegio, salvaguardando los intereses jurídicos del Colegio en apego a la normatividad vigente.
+
+#### SECCIÓN SEXTA. DE LAS ATRIBUCIONES ESPECÍFICAS DE LOS DIRECTORES DE PLANTEL
 
 ###### Artículo 18.
 
@@ -483,7 +533,9 @@ III. Una persona representante del Comité, que será el Secretario Ejecutivo;
 
 IV. Dos vocales, que serán las personas titulares de la Dirección Académica y la Subdirección de Planeación, designadas permanentemente por la persona que presida el Subcomité, y
 
-V. Dos invitados permanentes, que serán el Órgano Interno de Control y del área que, en su caso, desempeñe funciones jurídicas del Colegio.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2022)</small>
+
+V. Dos invitados permanentes, que serán el Órgano Interno de Control y la persona titular de la Subdirección Jurídica del Colegio.
 
 Todos los integrantes de los Subcomités tendrán voz y voto, con excepción de los invitados permanentes quienes solo tendrán derecho a voz. Así también podrán designar por escrito a sus respectivos suplentes, los que deberán tener el nivel jerárquico inmediato inferior.
 
@@ -493,7 +545,7 @@ Las funciones, forma de sesionar y demás operatividad del Subcomité se realiza
 
 ### CAPÍTULO X. DE LAS SUPLENCIAS
 
-#### SECCIÓN SEGUNDA. DE LA AUSENCIA ABSOLUTA
+#### SECCIÓN PRIMERA. DE LAS AUSENCIAS TEMPORALES
 
 ###### Artículo 26.
 
@@ -503,13 +555,15 @@ Las ausencias temporales hasta por noventa días del Director General del Colegi
 
 Las personas titulares de las Unidades Administrativas serán suplidas en su ausencia temporal hasta por noventa días por el servidor público que para tal efecto designe el Director General, sin que por ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original, operando la figura de suplencia por ausencia.
 
-#### SECCIÓN TERCERA. DE LOS ENCARGADOS DE DESPACHO
+#### SECCIÓN SEGUNDA. DE LA AUSENCIA ABSOLUTA
 
 ###### Artículo 28.
 
 En caso de ausencia absoluta del Director General, será facultad del Gobernador nombrar un encargado de despacho, por el tiempo que se estime necesario; sin perjuicio de la designación definitiva que realice al efecto, de conformidad con lo dispuesto por la Ley Orgánica.
 
 Ante la ausencia absoluta de cualquier otro servidor público del Colegio, es facultad del Director General hacer la designación definitiva.
+
+#### SECCIÓN TERCERA. DE LOS ENCARGADOS DE DESPACHO
 
 ###### Artículo 29.
 
@@ -548,3 +602,21 @@ Lic. Yanet Farías Peralta, Directora General Jurídica, con fundamento en los a
 Conste.
 
 Cuernavaca, Morelos; quince de julio del dos mil diecinueve.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MORELOS".]
+
+PRIMERA. El presente decreto entrará en vigor a los 05 días hábiles siguientes de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que contravengan lo dispuesto en el presente decreto.
+
+TERCERA. Dentro del término de 120 días hábiles, contados a partir del día siguiente a la entrada en vigor del presente decreto, el Colegio deberá realizar las adecuaciones necesarias a los Manuales Administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan a lo dispuesto en el estatuto orgánico.
+
+Dentro de un plazo de 15 días hábiles posteriores a la emisión de los Manuales Administrativos, el Colegio deberá gestionar su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+CUARTA. Los conflictos que se susciten por la aplicación e interpretación administrativa del presente decreto, serán resueltos por la persona titular de la Dirección General del Colegio de Estudios Científicos y Tecnológicos del Estado de Morelos.
+
+QUINTA. Inscríbase el presente decreto en el Registro Público de los organismos descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 76, penúltimo párrafo, 83 y 84, fracción II de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
