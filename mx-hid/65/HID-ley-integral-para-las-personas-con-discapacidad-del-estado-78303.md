@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2021-07-28"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2022.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -45,7 +45,9 @@ SEGUNDO.- El asunto de mérito, se registró en el Libro de Gobierno de la Prime
 
 Por lo que, en atención a lo expuesto; y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -262,6 +264,12 @@ La calificación de la discapacidad en materia laboral es competencia según cor
 ###### Artículo 8.
 
 Las personas con discapacidad, previa obtención del informe a que se refiere el Artículo 7 de la presente Ley, podrán inscribirse o ser inscritas en el registro estatal de personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2022)</small>
+
+###### Artículo 8 Bis.
+
+Las personas que ejerzan el cuidado temporal, permanente, profesional o no profesional de personas con discapacidad, deberán inscribirse o ser inscritas en el Padrón Estatal de Personas Cuidadoras.
 
 ###### Artículo 9.
 
@@ -797,6 +805,10 @@ VII.- Difundir e implementar mecanismos que permitan la difusión de los derecho
 
 VIII.- Integrar el Registro Estatal de Personas con Discapacidad, a fin de contar con un banco Estatal de datos que contenga la relación del número, tipo de discapacidad, edad, sexo, etnia, escolaridad, entre otros datos, de las personas con discapacidad que residen en el Estado de Hidalgo;
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2022)</small>
+
+VIII Bis.- Integrar el Padrón Estatal de Personas Cuidadoras así como, determinar la información que este deba incorporar;
+
 IX.- Efectuar el seguimiento, evaluación y control de las políticas públicas, programas, acciones, campañas, destinadas a personas con discapacidad o a la difusión de sus derechos;
 
 X.- Revisar y proponer la armonización legislativa en materia de derechos humanos de las personas con discapacidad;
@@ -854,6 +866,12 @@ El Sistema Estatal para la Integración Social de las Personas con Discapacidad,
 ###### Artículo 89.
 
 El Registro Estatal de las Personas con Discapacidad tendrá como objetivo contar con un padrón actualizado que permita a las autoridades obtener datos reales de personas con discapacidad en el Estado de Hidalgo. Así mismo (sic), los datos que éste genere contribuirán a la planificación, ejecución y control de las políticas públicas.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2022)</small>
+
+###### Artículo 89 Bis.
+
+El Padrón Estatal de Personas Cuidadoras tiene como objetivo contar con información actualizado (sic) que permita a las autoridades obtener datos reales de quienes se encuentren al cuidado de personas con discapacidad en el Estado de Hidalgo. Así mismo, los datos que éste genere contribuirán a la planificación, ejecución y control de las políticas públicas.
 
 ###### Artículo 90.
 
@@ -1148,5 +1166,11 @@ P.O. 14 DE OCTUBRE DE 2019.
 P.O. 28 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 726 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 225 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
