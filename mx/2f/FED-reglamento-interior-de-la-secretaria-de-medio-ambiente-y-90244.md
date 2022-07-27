@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-medio-ambiente-y-90244"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-26"
-last_updated: "2014-10-31"
+last_updated: "2022-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90244&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-11-14"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES, PUBLICADO EN EL D.O.F. DE 27 DE JULIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE JULIO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 26 de noviembre de 2012.
 
@@ -4526,3 +4528,31 @@ Las demás reformas, adiciones y derogaciones contenidas en el presente Decreto,
 SEGUNDO. El personal, los recursos, los expedientes en trámite, el archivo, el mobiliario y, en general, el equipo que las unidades administrativas a que se refiere este Decreto, hubieren utilizado en el ejercicio de sus atribuciones, deberán trasladarse a las unidades administrativas que se crean en el mismo, debiendo distribuirse, en su caso, de conformidad con las atribuciones que a cada una de ellas correspondan y de acuerdo con los lineamientos que emita la Oficialía Mayor.
 
 TERCERO. Los asuntos pendientes de resolución a la entrada en vigor de este Decreto, que conforme al mismo deban pasar de la Agencia, se suspenderán conforme a los términos y plazos previstos en la Ley de la Agencia Nacional de Seguridad Industrial, Seguridad Operativa y Protección Ambiental del Sector Hidrocarburos y serán resueltos por dicho órgano administrativo desconcentrado.
+
+D.O.F. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Medio Ambiente y Recursos Naturales, publicado el 26 de noviembre de 2012 en el Diario Oficial de la Federación.
+
+Las disposiciones que derivan del Reglamento que se abroga, continuarán vigentes en lo que no se opongan con lo previsto en este ordenamiento.
+
+TERCERO. Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO. Los manuales de Organización General, de organización específicos, de procedimientos y de servicios al público, deberán ser actualizados en un plazo no mayor a ciento ochenta días naturales, contado a partir de la publicación del presente Reglamento.
+
+QUINTO. Las transferencias de atribuciones y funciones, así como de recursos humanos, materiales y financieros, serán coordinadas y vigiladas por la Unidad de Administración y Finanzas de la Secretaría de Medio Ambiente y Recursos Naturales.
+
+El personal, los recursos, los expedientes en trámite, el archivo, el mobiliario y, en general, el equipo de las unidades administrativas que estaban a cargo de la Subsecretaría de Gestión para la Protección Ambiental o las direcciones generales que desaparecen o se fusionan, que hubieren utilizado en el ejercicio de sus atribuciones, deberán trasladarse a las unidades administrativas que se crean por virtud del presente Reglamento, debiendo distribuirse, en su caso, de conformidad con las atribuciones que a cada una de ellas correspondan y de acuerdo con los lineamientos que emita la Unidad de Administración y Finanzas de la Secretaría de Medio Ambiente y Recursos Naturales. Únicamente será trasladado el personal de las unidades administrativas que previamente haya sido autorizado de conformidad con la Ley Federal de Austeridad Republicana, en un máximo de noventa días hábiles posteriores a la entrada en vigor del presente ordenamiento.
+
+Estas transferencias incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como a las de recursos humanos y de activos patrimoniales, según corresponda, mismas que, en su caso, deberán realizarse conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de la Secretaría de Medio Ambiente y Recursos Naturales.
+
+SEXTO. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas a las que este ordenamiento les atribuya la competencia respectiva.
+
+SÉPTIMO. Las referencias y atribuciones que se hagan y se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Secretaría de Medio Ambiente y Recursos Naturales que desaparecen o cambien de denominación por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme a este ordenamiento.
+
+OCTAVO. Las autorizaciones que se hubieren expedido por las autoridades competentes, a la fecha de entrada en vigor de este Reglamento, continuarán vigentes en los términos y condiciones en que fueron expedidas.
+
+NOVENO. Cuando en términos del último párrafo del artículo 83 de este Reglamento, el auxilio que proporcione la Secretaría de Medio Ambiente y Recursos Naturales al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 30 de noviembre de 2018 en el Diario Oficial de la Federación.
