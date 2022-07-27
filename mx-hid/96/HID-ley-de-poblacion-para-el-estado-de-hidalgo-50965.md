@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2022-07-15"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -137,13 +137,17 @@ VII.- La protección del entorno ecológico de los núcleos de Población;
 
 VIII.- La transparencia y la rendición de cuentas;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2022)</small>
 
-IX.- La corresponsabilidad de los distintos órdenes de gobierno en materia de población; y
+IX.- La corresponsabilidad de los distintos órdenes de gobierno en materia de población;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2022)</small>
 
-X.- La promoción de la participación de la sociedad en su desarrollo.
+X.- La promoción de la participación de la sociedad en su desarrollo; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2022)</small>
+
+XI.- Igualdad y no discriminación.
 
 ###### Artículo 9.
 
@@ -193,9 +197,9 @@ V.- Influir en la dinámica de Población a través de los sistemas educativos y
 
 VI.- Promover la incorporación de contenidos de educación sexual y salud reproductiva, en los planes y programas de educación básica;
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2022)</small>
 
-VII.- Promover la plena integración de la mujer, al proceso productivo, político, educativo, social y cultural, logrando una igualdad de género;
+VII.- Promover, proteger y respetar, la plena integración de la mujer, al proceso productivo, político, educativo, social y cultural, logrando una igualdad sustantiva de género;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
 
@@ -572,5 +576,11 @@ P.O. 14 DE OCTUBRE DE 2019.
 P.O. 15 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 222 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, Y DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 227, POR EL QUE SE REFORMAN LAS FRACCIONES IX Y X, Y SE ADICIONA LA FRACCIÓN XI, DEL ARTÍCULO 8, Y SE REFORMA LA FRACCIÓN VII, DEL ARTÍCULO 11, TODOS DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
