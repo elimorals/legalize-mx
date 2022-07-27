@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2021-10-28"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -500,6 +500,10 @@ II. La protección del desarrollo de su familia.
 III. Recibir los servicios de seguridad social.
 
 IV. La satisfacción de los derechos económicos, sociales y culturales, propios de su dignidad para el desarrollo de su personalidad.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario, que propicien su inclusión en el ámbito político, social, económico y cultural.
 
 V. Al trabajo; a su libre elección y desarrollo en condiciones equitativas y satisfactorias, y a la protección contra el desempleo para garantizar su subsistencia digna y la de su familia.
 
@@ -1013,7 +1017,13 @@ Además, examinará y emitirá opinión sobre la evaluación anual del nivel de 
 
 V. Conceder al Ejecutivo por un tiempo limitado y con la aprobación de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en caso de invasión, alteración o peligro públicos, o requerirlo así la administración general del Estado. El Ejecutivo deberá dar cuenta del uso que haga de las facultades conferidas, en el siguiente periodo ordinario de sesiones.
 
-VI. Examinar, discutir y aprobar anualmente el Presupuesto de Egresos y fijar, las contribuciones con que haya de ser cubierto, en vista de los proyectos que el Ejecutivo presente. Al aprobar el Presupuesto de Egresos no podrá dejar de señalar la retribución que corresponda a un empleo establecido por la ley, y en caso de que por cualquier circunstancia se omita fijar la remuneración, se entenderá señalada la que hubiere tenido el presupuesto anterior o en la ley que estableció el empleo.
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JULIO DE 2022)</small>
+
+VI. Examinar, discutir y aprobar a más tardar el 15 de diciembre del año respectivo, la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos del Estado que serán aplicables para el ejercicio fiscal siguiente. Al aprobar el Presupuesto de Egresos no podrá dejar de señalar la retribución que corresponda a un empleo establecido por la ley, y en caso de que por cualquier circunstancia se omita fijar la remuneración, se entenderá señalada la que hubiere tenido el presupuesto anterior o en la ley que estableció el empleo.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Cuando el Gobernador del Estado inicie su encargo en la fecha prevista en el artículo 53 de esta Constitución; y en cumplimiento a lo dispuesto por el segundo párrafo de la fracción XX, del artículo 59 de esta Constitución, el Congreso del Estado aprobará la Ley de Ingresos y el Presupuesto de Egresos del Estado a más tardar el 31 de diciembre del año en que se verifique dicho suceso.
 
 El presupuesto anual de egresos deberá construirse con perspectiva de género, equidad y no discriminación.
 
@@ -1423,7 +1433,13 @@ XIX. Presentar al Congreso del Estado y, en sus recesos, a la Comisión Permanen
 
 El ejercicio en el que proceda la renovación sexenal del Poder Ejecutivo, la cuenta pública que contemplen los tres primeros trimestres del año, podrá ser presentada a más tardar el día 7 de diciembre de ese mismo año, encargándose la siguiente administración de entregar la correspondiente al último trimestre.
 
-XX. Presentar al Congreso del Estado, en el último cuatrimestre del año respectivo, el Presupuesto de Egresos del año siguiente; en el caso de que la presentación en el cuatrimestre mencionado no corresponda con el periodo ordinario de sesiones, se convocará al Congreso del Estado, a sesión extraordinaria.
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 27 DE JULIO DE 2022)</small>
+
+XX. Presentar anualmente al H. Congreso del Estado, a más tardar el 30 de noviembre, para su examen, discusión y aprobación, la iniciativa de Ley de Ingresos y proyecto de Presupuesto de Egresos del Estado que deberán regir en el año fiscal inmediato siguiente.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Cuando inicie una administración gubernamental estatal en la fecha prevista en el artículo 53 de esta Constitución, el Gobernador del Estado, por única ocasión, hará llegar al H. Congreso del Estado la iniciativa de la Ley de Ingresos y el proyecto de Presupuesto de Egresos del Estado a más tardar el 15 de diciembre del año en el que inicie el período constitucional para el cual fue electo.
 
 XXI. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones.
 
@@ -4818,3 +4834,19 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. El Congreso del Estado, dentro del plazo de 90 días siguientes a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones normativas correspondientes a la Legislación Electoral, de conformidad con lo previsto en el presente Decreto.
 
 Artículo Cuarto. El Instituto de Elecciones y Participación Ciudadana y el Tribunal Electoral del Estado, en un plazo de 90 días siguientes a la entrada en vigor del presente Decreto, dictarán los acuerdos necesarios para hacer efectivas las disposiciones previstas en el presente Decreto, y deberán realizar las acciones necesarias para ajustar el mismo a cada una de sus normativas.
+
+P.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 166 DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN MATERIA DE JUVENTUD".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 167 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
