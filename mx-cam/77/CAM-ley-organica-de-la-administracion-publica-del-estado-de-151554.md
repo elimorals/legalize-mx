@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-151554"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-14"
-last_updated: "2021-09-14"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Número 1519 del Periódico Oficial del Estado de Campeche, el martes 14 de septiembre de 2021.
 
@@ -262,6 +262,10 @@ Los Organismos Centralizados señalados en el presente artículo tendrán iguald
 Sin perjuicio de lo anterior, la Secretaría de Gobierno, mediante acuerdo delegatorio emitido por parte de la Gobernadora o el Gobernador del Estado, podrá coordinar y supervisar los asuntos encomendados a los demás Organismos Centralizados y a las Entidades Paraestatales.
 
 De conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, en la designación de las personas titulares de las Secretarías a que se refiere este artículo deberá tomarse en consideración el principio de paridad de género.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Las y los titulares de las Secretarías y Dependencias comparecerán bajo protesta de decir verdad, ante el Congreso en términos de lo establecido por el artículo 43 de la Constitución Política del Estado de Campeche.
 
 ###### Artículo 23.
 
@@ -1746,3 +1750,15 @@ Que la LXIII Legislatura del H. Congreso del Estado Libre y Soberano de Campeche
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los diez días del mes de septiembre del año dos mil veintiuno.
 
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- EL SECRETARIO GENERAL DE GOBIERNO, DR. JORGE DE JESÚS ARGÁEZ URIBE.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 105 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del decreto de reformas y adiciones de los artículos 43 y 72 de la Constitución Política del Estado, previa su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Una vez que entre en vigor lo establecido en el Artículo Primero Transitorio que antecede, el Congreso del Estado deberá expedir en un plazo que no podrá exceder de 30 días naturales, el Reglamento que regule el desarrollo de las comparecencias de las y los titulares de la administración pública centralizada.
+
+Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
