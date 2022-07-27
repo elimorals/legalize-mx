@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2021-03-16"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -761,11 +761,13 @@ El Congreso tendrá tres periodos ordinarios de sesiones; el primero comenzará 
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por el Ejecutivo del Estado o por la Diputación Permanente; pero en tales casos no podrá ocuparse más que del asunto o asuntos que fueren sometidos a su conocimiento, y los cuales se expresarán en la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2022)</small>
 
-###### ARTICULO 43.
+###### ARTÍCULO 43.
 
-A la apertura de sesiones ordinarias al Congreso podrá asistir el Gobernador del Estado. También asistirá el Gobernador si lo juzga necesario, a la apertura de sesiones extraordinarias convocadas por él, a fin de exponer verbalmente las razones o causas que hicieron necesaria su convocación y el asunto o asuntos que ameriten una resolución perentoria. El Gobernador del Estado en la sesión extraordinaria que fije el Congreso previa convocatoria al efecto de la Diputación Permanente o que acuerde el Pleno, o dentro del primer período que corresponda de sesiones ordinarias del Congreso, y en la fecha que éste señale cuando menos con quince días de anticipación, deberá presentar un informe por escrito sobre el estado general que guarde la administración pública de la Entidad, que podrá abarcar las actividades realizadas hasta por dos años.
+A la apertura de sesiones ordinarias al Congreso podrá asistir la Gobernadora o el Gobernador del Estado. También asistirá la Gobernadora o el Gobernador si lo juzga necesario, a la apertura de sesiones extraordinarias convocadas por él, a fin de exponer verbalmente las razones o causas que hicieron necesaria su convocación y el asunto o asuntos que ameriten una resolución perentoria. La Gobernadora o el Gobernador del Estado, por sí o por medio de la persona que designe, en la sesión extraordinaria que fije el Congreso previa convocatoria al efecto de la Diputación Permanente o que acuerde el Pleno, o dentro del primer período que corresponda de sesiones ordinarias del Congreso, y en la fecha que éste señale cuando menos con quince días de anticipación, deberá presentar un informe por escrito sobre el estado general que guarde la administración pública de la Entidad, que podrá abarcar las actividades realizadas hasta por dos años.
+
+El Congreso del Estado, a través de las comisiones del ramo, analizarán el informe, para que de manera posterior las y los titulares de la administración pública centralizada comparezcan en términos del calendario que fije la Junta de Gobierno y Administración. Concluidas estas, podrán previo acuerdo solicitar a la Gobernadora o al Gobernador, ampliar la información mediante pregunta por escrito, pudiendo ser respondida por las o los titulares de las secretarías, dependencias, organismo o área que correspondan, en un término no mayor a 15 días naturales a partir de su recepción.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -1436,6 +1438,10 @@ Para el despacho de los asuntos que correspondan al Ejecutivo del Estado, habrá
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2009)</small>
 
 Las Secretarías que integren la Administración Pública Estatal y las Dependencias señaladas conforme al párrafo anterior aprovecharán óptimamente los recursos a su alcance, los cuales se administrarán con eficiencia, eficacia, economía, transparencia, y honradez para satisfacer los objetivos a los que están destinados. Los resultados del ejercicio de los recursos serán evaluados por las instancias técnicas competentes, de conformidad con la legislación aplicable, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos señalados.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Derivado del informe que señala el artículo 43 de esta Constitución, las y los titulares de la administración pública centralizada comparecerán ante el Congreso bajo protesta de decir verdad.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -3258,3 +3264,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Congreso del Estado de Campeche, deberá adecuar la legislación secundaria correspondiente en un plazo máximo de 90 días contados a partir de la entrada en vigor del presente decreto.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 104.- SE REFORMA EL ARTÍCULO 43 Y, SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 72, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
