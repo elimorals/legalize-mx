@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2018-05-03"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -670,6 +672,10 @@ Las comisiones ordinarias ejercerán sus funciones exclusivamente en los lapsos 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 Al concluir el último periodo de receso del tercer año de la Legislatura, la Diputación Permanente entregará, bajo inventario, a la primera Mesa Directiva de la siguiente Legislatura los documentos o expedientes que obren en su poder, en el estado en que se encuentren.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Sin perjuicio de lo previsto en el presente artículo, las comisiones ordinarias quedarán permanentemente habilitadas para analizar el informe anual presentado por la Gobernadora o el Gobernador del Estado, así como para desahogar las comparecencias de las y los titulares de la administración pública centralizada.
 
 #### Sección Tercera. De las Comisiones Especiales
 
@@ -2087,7 +2093,7 @@ Diputado Secretario
 
 ###### Art. 161.
 
-Rendido el informe que indica el artículo 43 de la Constitución Política del Estado, el Congreso se abocará, a través de las comisiones especiales que al efecto se integren, al análisis de dicho informe, pudiendo hacer que comparezcan ante ellas, en los términos del acuerdo que al efecto se expida, los titulares de las dependencias y entidades de la Administración Pública Estatal, con la finalidad de que informen con mayor amplitud sobre las labores atinentes a los ramos de su competencia.
+(DEROGADO, P.O. 27 DE JULIO DE 2022)
 
 ###### Art. 162.
 
@@ -2148,6 +2154,64 @@ Las comisiones ordinarias y especiales, cuando así lo requieran, para el óptim
 ###### Art. 171.
 
 Las disposiciones de esta ley sólo podrán ser reformadas, adicionadas o derogadas por el voto de las dos terceras partes de los diputados que integran el Congreso del Estado.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2022)</small>
+
+### CAPÍTULO VIGÉSIMO SEGUNDO. DE LA COMPARENCIA DE PERSONAS SERVIDORAS PÚBLICAS CON MOTIVO DE LA GLOSA DEL INFORME ANUAL DEL PODER EJECUTIVO
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE JULIO DE 2022)</small>
+
+#### SECCIÓN PRIMERA. DEL TURNO, ANÁLISIS Y CONVOCATORIA
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Art. 172.
+
+Una vez que el Congreso reciba el informe por escrito sobre el estado general que guarda la administración pública estatal presentado por la Gobernadora o el Gobernador, la Diputación Permanente lo turnará a las comisiones ordinarias para que procedan al análisis correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Art. 173.
+
+La Junta de Gobierno y Administración, dentro del plazo de 5 días naturales siguientes a la recepción del informe a que se refiere el artículo anterior, acordará el calendario de comparecencias de las y los titulares de la administración pública centralizada. Estas se realizarán en el lugar que aquella determine.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE JULIO DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Art. 174.
+
+Las comparecencias de las o los titulares de las Secretarías y Dependencias se realizarán bajo protesta de decir verdad y serán presididas por las comisiones del ramo que les competa, en las que podrán participar con derecho a voz los demás integrantes de la Legislatura y cuyo objeto será ampliar la información sobre el estado que guardan las entidades a su cargo, con motivo del informe presentado por la Gobernadora o el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Art. 175.
+
+Una vez agotadas las comparecencias, si existieran dudas de lo expuesto, la Junta de Gobierno y Administración, podrá enviar por escrito las preguntas a la Gobernadora o Gobernador del Estado que no hayan sido atendidas, debiendo ser respondidas por las y los titulares del ramo que corresponda, en un plazo no mayor a 15 días naturales a partir de su recepción.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE JULIO DE 2022)</small>
+
+#### SECCIÓN TERCERA. DE LA PUBLICIDAD, ACCESO Y DESARROLLO
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Art. 176.
+
+Las comparecencias serán públicas. La Junta de Gobierno y Administración establecerá las medidas correspondientes para salvaguardar la salud, la seguridad de los asistentes y el buen desarrollo de las mismas.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Art. 177.
+
+El procedimiento en que deban desarrollarse las comparecencias de las personas que ocupen la titularidad de las Secretarías y Dependencias, se establecerá en el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Art. 178.
+
+Las Diputadas y Diputados que intervengan en las comparecencias deberán ser concisos en sus preguntas, de forma tal que sea posible responder a ellas en el tiempo concedido para los comparecientes, mismas que deberán circunscribirse al ámbito de la competencia que se trate, así como evitar toda referencia a asuntos personales.
 
 ## TRANSITORIOS
 
@@ -2258,3 +2322,13 @@ P.O. 3 DE MAYO DE 2018.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 105 POR EL QUE “SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 44; UN CAPÍTULO VIGÉSIMO SEGUNDO DENOMINADO “DE LA COMPARECENCIA DE PERSONAS SERVIDORAS PÚBLICAS CON MOTIVO DE LA GLOSA DEL INFORME ANUAL DEL PODER EJECUTIVO”, CON SUS RESPECTIVAS SECCIÓN PRIMERA DENOMINADA “DEL TURNO, ANÁLISIS Y CONVOCATORIA”, SECCIÓN SEGUNDA DENOMINADA “DEL OBJETO” Y SECCIÓN TERCERA DENOMINADA “DE LA PUBLICIDAD, ACCESO Y DESARROLLO” Y SUS CORRESPONDIENTES ARTÍCULOS 172, 173, 174, 175, 176, 177 Y 178 Y, SE DEROGA EL ARTÍCULO 161, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE“.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del decreto de reformas y adiciones de los artículos 43 y 72 de la Constitución Política del Estado, previa su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Una vez que entre en vigor lo establecido en el Artículo Primero Transitorio que antecede, el Congreso del Estado deberá expedir en un plazo que no podrá exceder de 30 días naturales, el Reglamento que regule el desarrollo de las comparecencias de las y los titulares de la administración pública centralizada.
+
+Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
