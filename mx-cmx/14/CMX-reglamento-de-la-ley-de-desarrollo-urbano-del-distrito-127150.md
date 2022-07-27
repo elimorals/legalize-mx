@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-127150"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-03-15"
-last_updated: "2022-05-05"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127150&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-03-05"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE JULIO DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 15 de marzo de 2018.
 
@@ -424,7 +424,27 @@ No se podrá expedir Certificado de Uso del Suelo por Reconocimiento de Activida
 
 En el Certificado de Uso del Suelo por Reconocimiento de Actividad se indicará que el uso del suelo autorizado no se considera inherente al inmueble ni es transferible y que su titularidad corresponde únicamente a la persona que lo tramitó para ser ejercido en el inmueble señalado en el propio certificado, por lo que no da origen a la acreditación de derechos adquiridos.
 
-La Secretaría publicará en la Gaceta Oficial el listado de actividades, servicios o industrias de bajo impacto que podrán tramitar el Certificado de Uso del Suelo por Reconocimiento de Actividad, con base en el Sistema de Clasificación Industrial de América del Norte (SCIAN). Dicha actualización podrá consultarse en la plataforma digital dispuesta para ese efecto, así como en la página oficial de la Secretaría. No podrán incluirse los giros de “Comercio al por menor en supermercados” ni “Comercio al por menor en minisúpers”, conforme a la clasificación mencionada, ni cualquiera relativo a planteles educativos o de alto impacto social.
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2022)</small>
+
+La Secretaría publicará en la Gaceta Oficial de la Ciudad de México el listado de actividades, servicios o industrias de bajo impacto que podrán tramitar el Certificado de Uso del Suelo por Reconocimiento de Actividad, con base en el Sistema de Clasificación Industrial de América del Norte (SCIAN). Dicha actualización podrá consultarse en la plataforma digital dispuesta para dicho efecto, así como en el portal oficial de la Secretaría. No podrán incluirse los giros de “Comercio al por menor en supermercados” ni “Comercio al por menor en minisúper”, conforme a la clasificación mencionada, ni cualquiera de alto impacto social.
+
+> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2022)</small>
+
+Para el caso de los usos del suelo de centros de desarrollo infantil y/o estancias infantiles (antes guarderías), jardines de niños, escuelas especializadas en atención a condiciones de discapacidad, escuelas primarias, secundarias, escuelas de educación media superior y de educación superior, procederá el Certificado de Uso del Suelo por Reconocimiento de Actividad previsto en el presente artículo en predios con hasta 4,000 metros cuadrados de construcción, siempre y cuando, se encuentren en funcionamiento. Para ello, la persona interesada deberá, bajo protesta de decir verdad, manifestar la superficie construida en la que se ejercen los usos respectivos, así como presentar, además de lo establecido en las fracciones I, II, III, IV, V y VI de este artículo, lo siguiente:
+
+a) Documento vigente emitido por la autoridad educativa competente, en el que se haga constar el Acuerdo de Incorporación para impartir los servicios educativos en el inmueble respectivo.
+
+Tratándose de escuelas particulares de educación media superior y de educación superior, se deberá hacer constar el Reconocimientos de Validez Oficial de Estudios del tipo Superior (RVOES) o su incorporación a una Universidad Autónoma según corresponda.
+
+b) Constancia de Seguridad Estructural o cualquier documento que acredite que se encuentra en proceso la revisión de la seguridad estructural, de conformidad con los Lineamientos Técnicos para la Revisión de la Seguridad Estructural de Planteles Educativos en la Ciudad de México después de un Sismo;
+
+c) Visto Bueno de Seguridad y Operación de las Instalaciones, y
+
+d) Copia simple de la boleta predial.
+
+> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2022)</small>
+
+El certificado emitido conforme a lo dispuesto en el párrafo inmediato anterior tendrá vigencia de un año y no exime del cumplimiento de las obligaciones en materia de seguridad estructural, protección civil y demás aplicables; asimismo, será prorrogable siempre y cuando se presenten los siguientes documentos vigentes: Constancia de Seguridad Estructural, el Visto Bueno de Seguridad y Operación de las Instalaciones y el Programa Interno de Protección Civil. Dichos documentos deberán ser presentados dentro de los 10 días posteriores a su emisión o en su caso al momento de solicitar su renovación.
 
 ### CAPÍTULO II. DEL REGISTRO DE LOS PLANES Y PROGRAMAS
 
@@ -2561,3 +2581,13 @@ G.O. 5 DE MAYO DE 2022.
 PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 15 BIS DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Certificado de Uso del Suelo por Reconocimiento de Actividad de usos de suelo de centros de desarrollo infantil y/o estancias infantiles (antes guarderías), jardines de niños, escuelas especializadas en atención a condiciones de discapacidad, escuelas primarias, secundarias, escuelas de educación media superior y de educación superior, procederá únicamente para aquellos centros educativos que cuenten con registro vigente a la fecha de entrada en vigor del presente Decreto.
