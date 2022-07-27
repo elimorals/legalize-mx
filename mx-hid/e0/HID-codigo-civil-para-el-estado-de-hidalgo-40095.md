@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "2018-08-01"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -13235,6 +13235,48 @@ El poder supremo de las asociaciones reside en la asamblea general. El director 
 
 La asamblea general se reunirá en la época fijada en los estatutos o cuando sea convocada por la dirección. Esta deberá citar a asamblea cuando para ello fuere requerida por los menos por el cinco por ciento de los asociados, o si no lo hiciere, en su lugar lo hará el Juez de Primera Instancia en materia Civil a petición de dichos asociados.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Los asociados podrán celebrar asambleas por medio de videoconferencia, que permita la comunicación en tiempo real, siempre y cuando la convocatoria señale el medio electrónico por el cual se celebrará, indicando la dirección electrónica o número de la reunión y, en su caso, la contraseña.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+La reunión deberá grabarse y conservarse por la dirección de la asociación y una copia de la grabación se agregará al acta respectiva. Podrá levantarse por escrito o en documento electrónico y será firmada por el director y el secretario de manera autógrafa o con su Firma Electrónica Avanzada.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Asimismo, los asociados podrán adoptar resoluciones tomadas fuera de asamblea, las cuales serán válidas siempre que se tomen por unanimidad y se confirmen por escrito en documento físico o electrónico, ya sea con la firma autógrafa o con la firma electrónica avanzada de la totalidad de los asociados.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2666 BIS.- La convocatoria para la asamblea general debe hacerse con una anticipación de quince días naturales antes de la fecha señalada para su desahogo.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2666 TER.- La convocatoria a asamblea general deberá contener la orden del día y será firmada por la dirección o, en su caso, por el Juez de Primera Instancia en materia Civil.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2666 QUATER.- Las resoluciones tomadas por la asamblea en contravención de lo que disponen los dos artículos anteriores no surtirán efecto alguno, salvo que en el momento de la votación hayan estado presentes la totalidad de los asociados.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2666 QUINQUIES.- Las asambleas generales estarán legalmente reunidas cuando se encuentren presentes, por lo menos, la mitad más uno del número total de asociados.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2666 SEXTIES.- Si la asamblea no pudiere celebrarse el día y hora señalado para su desahogo, podrá convocarse nuevamente hasta por dos ocasiones consecutivas bajo el mismo orden del día, expresando la causa que generó la imposibilidad para desahogarla y, para que se lleve a cabo se requerirá el número mínimo de asociados previsto en el artículo anterior.
+
+Cuando la causa de la imposibilidad para desahogar una asamblea el día y hora señalados en primera convocatoria sea la ausencia del número mínimo de asociados requeridos, podrá convocarse por una segunda ocasión bajo el mismo orden del día, expresando esta circunstancia y, para que se lleve a cabo la asamblea no se requerirá un número mínimo de asociados.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2666 SEPTIES.- Las asambleas generales, serán presididas por la dirección pero podrá designar a algún asociado que, en su ausencia lo represente, salvo que varios asociados ejerzan la dirección en cuyo caso cualquiera de ellos podrá presidir la asamblea.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2666 OCTIES.- Los asociados que deban fungir como Secretario y, como Escrutador en las asambleas, serán designados conforme a lo establecido en los estatutos de la asociación y, a falta de esta previsión, la dirección designará de entre los asociados presentes en la asamblea a quienes deban ejercer tales funciones.
+
 ###### Art. 2667.
 
 La asamblea general resolverá:
@@ -13249,11 +13291,13 @@ IV.- Sobre la revocación de los nombramientos hechos;
 
 V.- Sobre los demás asuntos que le encomienden los estatutos.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2022)</small>
+
 ###### Art. 2668.
 
 Las asambleas generales sólo se ocuparán de los asuntos contenidos en la respectiva orden del día.
 
-Sus decisiones serán tomadas a mayoría de votos de los miembros presentes.
+Sus decisiones serán tomadas por mayoría de votos de los miembros presentes, incluyendo los de aquellos que hayan atendido la asamblea por videoconferencia y participado en la misma.
 
 ###### Art. 2669.
 
@@ -13295,9 +13339,17 @@ III.- Por haberse vuelto incapaces de realizar el fin para que fueron fundadas;
 
 IV.- Por resolución dictada por autoridad competente.
 
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2022)</small>
+
+V.- Por bloqueo de resoluciones corporativas que produce conflicto irreconciliable entre los asociados.
+
 ###### Art. 2677.
 
 En caso de disolución, los bienes de la asociación se aplicarán conforme a lo que determinen los estatutos y a falta de disposición de éstos, según lo que determine la asamblea general. En este caso la asamblea sólo podrá atribuir a los asociados la parte del activo social que equivalga a sus aportaciones. Los demás bienes se aplicarán a otra asociación o fundación de objeto similar a la extinguida.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Lo dispuesto en este artículo no será aplicable cuando la disolución de la asociación se realice conforme al procedimiento del artículo 2731 SEPTIES de este Código.
 
 ###### Art. 2678.
 
@@ -13411,6 +13463,42 @@ Ningún socio puede ser excluído de la sociedad sino por el acuerdo unánime de
 
 El socio excluído es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2699 BIS.- La asamblea general de socios es el órgano supremo de la sociedad; podrá acordar y ratificar todos los actos y operaciones de ésta y sus resoluciones podrán ser ejecutadas por el socio que en ellas se señale, o a falta de esto, por el socio administrador único o por los socios administradores.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2699 TER.- La asamblea general de socios sólo se ocupará de los asuntos contenidos en la respectiva orden del día. Sus decisiones serán tomadas por mayoría de votos de los miembros presentes, incluyendo los de aquellos que hayan atendido la asamblea por videoconferencia y participado en la misma, en proporción a su participación en el capital social, salvo los casos previstos en los artículos 2689, 2696, 2698 y 2702 del presente Código.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2699 QUATER.- La convocatoria para las asambleas de socios debe hacerse con una anticipación de quince días naturales antes de la fecha señalada para su desahogo. Durante este lapso, estará a disposición de los asociados, en las oficinas de la dirección, el informe por medio del cual, el o los directores deban rendir cuentas de manera anual.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2699 QUINQUIES.- La convocatoria a las asambleas generales de socios deberá contener la orden del día y será firmada (sic) el socio o socios que tengan a su cargo la administración de la sociedad.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2699 SEXTIES.- Las resoluciones tomadas por la asamblea en contravención de lo que disponen los dos artículos anteriores no surtirán efecto alguno, salvo que en el momento de la votación hayan estado presentes la totalidad de los asociados.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2699 SEPTIES.- Las asambleas generales de socios estarán legalmente reunidas cuando se encuentren presentes, por lo menos, por lo menos (sic) los socios que representen la mitad del capital social.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2699 OCTIES.- Si la asamblea no pudiere celebrarse el día y hora señalado para su desahogo, se hará una segunda convocatoria bajo el mismo orden del día, expresando la causa que generó la imposibilidad para desahogarla y, se llevará a cabo cualquiera que sea el número de partes sociales representadas.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2699 NONIES.- Las asambleas de socios, serán presididas por el socio administrador único o por el presidente de los socios administradores, pero podrán designar a algún socio que, en su ausencia lo o los represente.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2699 DECIES.- Los socios que deban fungir como Secretario y, como Escrutador en las asambleas, serán designados conforme a lo establecido en los estatutos de la sociedad y, a falta de esta previsión, el socio administrador único o el presidente de los socios administradores designarán de entre los socios presentes en la asamblea a quienes deban ejercer tales funciones.
+
 ### CAPITULO III.
 
 De la Administración de la Sociedad.
@@ -13418,6 +13506,22 @@ De la Administración de la Sociedad.
 ###### Art. 2700.
 
 La administración de la sociedad puede conferirse a uno o más socios. Habiendo socios especialmente encargados de la administración, los demás no podrán contrariar ni entorpecer las gestiones de aquéllos, ni impedir sus efectos. Si la administración no se hubiere limitado a alguno de los socios, se observará lo dispuesto en el artículo 2710.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2700 BIS.- Salvo pacto en contrario, será presidente de los socios administradores el primeramente nombrado, y a falta de éste el que le siga en el orden de la designación.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2700 TER.- La convocatoria para las sesiones (sic) socios administradores deberá hacerse con anticipación de quince días naturales antes de la fecha señalada para la reunión.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2700 QUATER.- Cualquiera que sea el número que le corresponda a la convocatoria, para que la sesión de socios administradores funcione legalmente, deberá asistir por lo menos la mitad más uno de sus miembros, y sus resoluciones serán válidas cuando sean tomadas por mayoría de los presentes. En caso de empate el Presidente del Consejo de Socios Administradores decidirá con voto de calidad.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2700 QUINQUIES.- Cuando los socios administradores sean tres o más, la minoría de socios que represente la cuarta parte del capital social nombrará cuando menos uno de ellos.
 
 ###### Art. 2701.
 
@@ -13442,6 +13546,18 @@ III.- Para tomar capitales prestados.
 ###### Art. 2704.
 
 Las facultades que no se hayan concedido a los administradores, serán ejercitadas por todos los socios, resolviéndose los asuntos por mayoría de votos. La mayoría se computará por cantidades, pero cuando una sola persona represente el mayor interés y se trate de sociedades de más de tres socios, se necesita por lo menos el voto de la tercera parte de los socios.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Los socios podrán celebrar asambleas por medio de videoconferencia, que permita la comunicación en tiempo real, siempre y cuando la convocatoria señale el medio electrónico por el cual se celebrará, indicando la dirección electrónica o número de la reunión y, en su caso, la contraseña.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+La reunión deberá grabarse y conservarse por el socio administrador único u órgano colegiado de administración de la sociedad y una copia de la grabación se agregará al acta respectiva. Se levantará por escrito o en documento electrónico y será firmada por el presidente y el secretario de manera autógrafa o firma electrónica avanzada.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Asimismo, los socios podrán adoptar resoluciones tomadas fuera de asamblea, las cuales serán válidas siempre que se tomen por unanimidad y se confirmen por escrito en documento físico o electrónico, con la firma autógrafa o electrónica avanzada de la totalidad de los socios.
 
 ###### Art. 2705.
 
@@ -13497,6 +13613,10 @@ VI.- Por la renuncia de uno de los socios, cuando se trate de sociedades de dura
 
 VII.- Por resolución judicial.
 
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2022)</small>
+
+VIII.- Por bloqueo de resoluciones corporativas que produce conflicto irreconciliable entre los socios.
+
 Para que la disolución de la sociedad surta efecto contra tercero, es necesario que se haga constar en el Registro de Sociedades.
 
 ###### Art. 2714.
@@ -13528,6 +13648,10 @@ De la Liquidación de la Sociedad.
 Disuelta la sociedad, se pondrá inmediatamente en liquidación, la cual se practicará dentro del plazo de seis meses, salvo pacto en contrario.
 
 Cuando la sociedad se ponga en liquidación, deben agregarse a su nombre las palabras: "en liquidación".
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Lo dispuesto en este capítulo quinto no será aplicable cuando la liquidación de la sociedad se realice conforme al procedimiento del artículo 2731 SEPTIES de este Código.
 
 ###### Art. 2720.
 
@@ -13593,13 +13717,103 @@ II.- Que tienen representante domiciliado en el lugar donde van a operar, sufici
 
 Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el Registro los estatutos de las asociaciones y sociedades extranjeras.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 2022)</small>
+
+### CAPÍTULO VI BIS. CONFLICTO IRRECONCILIABLE DE INTEGRANTES DE PERSONAS MORALES CIVILES
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2731 BIS.- Para los efectos de este código se entiende por Bloqueo de Resoluciones Corporativas cualquiera de los supuestos siguientes:
+
+I.- Los asociados o socios de una persona moral civil reunidos en asamblea no pueden adoptar en tres ocasiones consecutivas resolución alguna con independencia de su naturaleza;
+
+II.- En tres ocasiones consecutivas por falta de asistencia mínima para reunirse en asamblea, no hubiere sido posible instalar y celebrar asamblea general convocada de acuerdo con este ordenamiento;
+
+III.- Si la persona moral está administrada por un órgano colegiado, éste no puede adoptar en tres sesiones consecutivas resolución alguna con independencia de su naturaleza; y
+
+IV.- En tres eventos consecutivos por falta de asistencia mínima para reunirse en asamblea no hubiere sido posible instalar y celebrar sesión del órgano colegiado de administración convocada para tal efecto.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2731 TER.- Se entiende por Conflicto Irreconciliable entre asociados o socios la institución que reconoce que con motivo del bloqueo de resoluciones corporativas, no subsiste la voluntad de varios asociados o socios, según sea el caso, de mantenerse en asociación o sociedad y que el elemento de confianza y colaboración no permanece, por lo que tampoco hay voluntad de continuar reunidos para realizar un fin común, ya sea de carácter preponderantemente económico o no y procede la liquidación de la persona moral de que se trate.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2731 QUATER.- La declaratoria de conflicto irreconciliable entre integrantes de persona moral civil se hará a solicitud de cualquiera de ellos en el momento en que se levante la certificación respectiva.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2731 QUINQUIES.- La liquidación que produce el conflicto irreconciliable entre asociados o socios es un mecanismo de solución de controversias para evitar mayor desgaste emocional, físico, económico y patrimonial en las esferas de las personas involucradas dotando de certeza y seguridad jurídica a las inversiones que se hacen en el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2731 SEXTIES.- El reconocimiento de la existencia de conflicto irreconciliable entre integrantes de persona moral civil debe reunir los requisitos siguientes:
+
+I.- Se hará a solicitud de cualquiera de los asociados o socios;
+
+II.- Determinará con precisión los tres hechos que dieron lugar a bloqueo de resoluciones corporativas debiendo acompañar una certificación por cada uno de ellos;
+
+III.- Declarará que existe conflicto irreconciliable entre asociados o socios;
+
+IV.- Pondrá a la persona moral en disolución e iniciará su proceso de liquidación en los términos del presente título, la cual se practicará dentro del plazo improrrogable de seis meses;
+
+V.- Se agregará a la denominación o razón social de la persona moral las palabras: “en liquidación”;
+
+VI.- Contendrá el nombramiento del o los liquidadores, así como el otorgamiento de sus facultades y poderes;
+
+VII.- Se asentará en el libro de actas de asamblea que para tal efecto lleva la persona moral; y
+
+VIII.- Será firmada por quienes hayan fungido como presidente, secretario y escrutador en la tercera reunión.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2731 SEPTIES.- El conflicto irreconciliable entre integrantes de personas morales civiles solo produce el efecto de pedir su liquidación conforme a las bases siguientes:
+
+I.- La liquidación estará a cargo de uno o más liquidadores, quienes serán representantes legales de la persona moral y responderán por los actos que ejecuten excediéndose de los límites de su encargo;
+
+II.- La designación de liquidador o liquidadores deberá hacerse en el mismo acto en que se reconozca el conflicto irreconciliable;
+
+III.- Cuando sean varios los liquidadores, estos deberán obrar conjuntamente;
+
+IV.- Hecho el nombramiento del o los liquidadores, el órgano de administración les entregará todos los bienes, libros y documentos de la persona moral, levantándose en todo caso un inventario del activo y pasivos sociales;
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2731 OCTIES.- El o los liquidadores tendrán las facultades siguientes:
+
+I.- Concluir las operaciones sociales que hubieren quedado pendientes al tiempo de la disolución;
+
+II.- Cobrar lo que se deba a la persona moral y pagar lo que ella deba;
+
+III.- Liquidar a cada integrante su haber social en los términos del artículo siguiente del presente Código;
+
+IV.- En su caso vender a valor comercial los bienes de la persona moral para distribuir su producto entre los integrantes;
+
+V.- Practicar el balance final de la liquidación;
+
+VI.- Aprobado el balance final procederán a pagar a los asociados o socios su haber social, cumpliendo con las formalidades para su válida transmisión atendiendo a la naturaleza de los bienes de que se trate y en su caso firmar la escritura respectiva; y
+
+VII.- Obtener del Registro Público de la Propiedad la cancelación de la inscripción de la persona moral una vez concluida la liquidación.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2731 NONIES.- Si después de cubiertas las deudas sociales existe haber social que distribuir entre los integrantes deben observarse como normas mínimas protectoras, sin que valga pacto en contrario, las siguientes:
+
+I.- Se deben formar lotes de bienes o derechos que serán aplicados exclusivamente a cada uno de los integrantes cuyo valor equivalga al haber social a que tenga derecho en la distribución;
+
+II.- La aplicación de los lotes de bienes o derechos en ningún caso producirá estado de indivisión entre los integrantes;
+
+III.- En el supuesto de que los bienes o derechos que constituyen el patrimonio de la persona moral no admitan cómoda división por su naturaleza o por disposición de ley se procederá a su venta a valor comercial en almoneda pública y se aplicará a cada integrante el producto de la venta en proporción al valor de sus derechos sociales; y
+
+IV.- Siendo válido que el integrante que tenga posibilidades económicas participe como postor en la almoneda pública, siempre y cuando pague de contado el precio de los bienes o derechos cuya venta se propone y sumando sus derechos sociales pendientes de cubrir consolide la propiedad o titularidad plena del bien o derecho objeto de venta pública.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+Art. 2731 DECIES.- El o los liquidadores mantendrán en depósito durante diez años después de la fecha en que concluya la liquidación los libros, papeles y registros de la persona moral.
+
 ### CAPITULO VII.
 
 De la Aparcería Rural.
-
-### CAPITULO I.
-
-Del Juego y de la Apuesta.
 
 ###### Art. 2732.
 
@@ -13735,9 +13949,9 @@ TITULO DECIMOSEGUNDO.
 
 DE LOS CONTRATOS ALEATORIOS.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De la Renta Vitalicia.
+Del Juego y de la Apuesta.
 
 ###### Art. 2757.
 
@@ -13781,9 +13995,9 @@ Las loterías o rifas, cuando se permitan, serán regidas, las primeras, por las
 
 El contrato celebrado entre los compradores de billetes y las loterías autorizadas en país extranjero, no será válido en el Estado de Hidalgo, a menos que la venta de esos billetes haya sido permitida por la autoridad correspondiente.
 
-### CAPITULO III.
+### CAPITULO II.
 
-De la Compra de Esperanza.
+De la Renta Vitalicia.
 
 ###### Art. 2767.
 
@@ -13857,9 +14071,9 @@ El pensionista sólo puede demandar las pensiones, justificando su supervivencia
 
 Si el que paga la renta vitalicia ha causado la muerte del acreedor o la de aquél sobre cuya vida había sido constituída, debe devolver el capital al que la constituyó o a sus herederos.
 
-### CAPITULO I.
+### CAPITULO III.
 
-De la Fianza en General.
+De la Compra de Esperanza.
 
 ###### Art. 2785.
 
@@ -13875,9 +14089,9 @@ TITULO DECIMOTERCERO.
 
 DE LA FIANZA.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De los Efectos de la Fianza entre el Fiador y el Acreedor.
+De la Fianza en General.
 
 ###### Art. 2787.
 
@@ -13953,9 +14167,9 @@ No tendrá lugar la responsabilidad del artículo anterior, si el que dió la ca
 
 Quedan sujetas a las disposiciones de este Título, las fianzas otorgadas por individuos o compañías accidentalmente en favor de determinadas personas, siempre que no las extiendan en forma de póliza; que no las anuncien públicamente por la prensa o por cualquier otro medio, y que no empleen agentes que las ofrezcan.
 
-### CAPITULO III.
+### CAPITULO II.
 
-De los Efectos de la Fianza entre el Fiador y el Deudor.
+De los Efectos de la Fianza entre el Fiador y el Acreedor.
 
 ###### Art. 2805.
 
@@ -14037,9 +14251,9 @@ La transacción entre el acreedor y el deudor principal, aprovecha al fiador, pe
 
 Si son varios los fiadores de un deudor por una sola deuda, responderá cada uno de ellos por la totalidad de aquélla, no habiendo convenio en contrario; pero si sólo uno de los fiadores es demandado, podrá hacer citar a los demás para que se defiendan juntamente, y en la proporción debida estén a las resultas del juicio.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-De los Efectos de la Fianza entre los Cofiadores.
+De los Efectos de la Fianza entre el Fiador y el Deudor.
 
 ###### Art. 2821.
 
@@ -14095,9 +14309,9 @@ IV.- Si se obligó a relevarlo de la fianza en tiempo determinado, y éste ha tr
 
 V.- Si la deuda se hace exigible por el vencimiento del plazo.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-De la Extinción de la Fianza.
+De los Efectos de la Fianza entre los Cofiadores.
 
 ###### Art. 2830.
 
@@ -14133,9 +14347,9 @@ El fiador que pide el beneficio de división, sólo responde por la parte del fi
 
 El que fía al fiador, en el caso de insolvencia de éste, es responsable para con los otros fiadores, en los mismos términos en que lo sería el fiador fiado.
 
-### CAPITULO VI.
+### CAPITULO V.
 
-De la Fianza Legal o Judicial.
+De la Extinción de la Fianza.
 
 ###### Art. 2835.
 
@@ -14169,9 +14383,9 @@ El fiador que se ha obligado por tiempo determinado, queda libre de su obligaci�
 
 Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, cuando la deuda principal se vuelva exigible, de pedir al acreedor que promueva judicialmente, dentro del plazo de un mes, el cumplimiento de la obligación. Si el acreedor no ejercita sus derechos dentro del plazo mencionado, o si en el juicio entablado deja de promover, sin causa justificada, por más de tres meses, el fiador quedará libre de su obligación.
 
-### CAPITULO I.
+### CAPITULO VI.
 
-De la Hipoteca en General.
+De la Fianza Legal o Judicial.
 
 ###### Art. 2843.
 
@@ -14449,9 +14663,9 @@ TITULO DECIMOSEXTO.
 
 DE LA HIPOTECA.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De la Hipoteca Voluntaria.
+De la Hipoteca en General.
 
 ###### Art. 2899.
 
@@ -14589,9 +14803,9 @@ La acción hipotecaria prescribirá a los diez años, contados desde que pueda e
 
 La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios y en el caso del artículo 2907; y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
 
-### CAPITULO IV.
+### CAPITULO II.
 
-De la Extinción de las Hipotecas.
+De la Hipoteca Voluntaria.
 
 ###### Art. 2926.
 
@@ -14701,9 +14915,9 @@ Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen 
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2941, no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 3001, fracción I, salvo lo dispuesto en el Capítulo IX, del título IX, del libro primero.
 
-### CAPÍTULO IV BIS. De la Hipoteca Inversa
+### CAPITULO IV.
 
-ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)
+De la Extinción de las Hipotecas.
 
 ###### Art. 2946.
 
@@ -14737,9 +14951,9 @@ En los casos del artículo anterior, si el registro hubiere sido ya cancelado, r
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO I.
+### CAPÍTULO IV BIS. De la Hipoteca Inversa
 
-Disposiciones Generales.
+ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)
 
 ###### Artículo 2949 Bis.
 
@@ -14925,9 +15139,9 @@ TERCERA PARTE.
 
 DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De los Créditos Hipotecarios y Pignoraticios y de algunos otros Privilegiados.
+Disposiciones Generales.
 
 ###### Art. 2970.
 
@@ -15009,9 +15223,9 @@ Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados e
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
-### CAPITULO III.
+### CAPITULO II.
 
-De algunos Acreedores Preferentes sobre Determinados Bienes.
+De los Créditos Hipotecarios y Pignoraticios y de algunos otros Privilegiados.
 
 ###### Art. 2986.
 
@@ -15077,9 +15291,9 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro 
 
 Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-Acreedores de Primera Clase.
+De algunos Acreedores Preferentes sobre Determinados Bienes.
 
 ###### Art. 2999.
 
@@ -15105,9 +15319,9 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX.- Los créditos anotados en el Registro de la Propiedad, en virtud del mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-Acreedores de Segunda Clase.
+Acreedores de Primera Clase.
 
 ###### Art. 3000.
 
@@ -15125,9 +15339,9 @@ V.- El crédito por alimentos fiados al deudor para su subsistencia y la de su f
 
 VI.- La responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de cosa ajena, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPITULO VI.
+### CAPITULO V.
 
-Acreedores de Tercera Clase.
+Acreedores de Segunda Clase.
 
 ###### Art. 3001.
 
@@ -15139,17 +15353,17 @@ II.- Los créditos del erario que no estén comprendidos en el artículo 2986, y
 
 III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-Acreedores de Cuarta Clase.
+Acreedores de Tercera Clase.
 
 ###### Art. 3002.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPITULO I.
+### CAPITULO VII.
 
-De su Organización.
+Acreedores de Cuarta Clase.
 
 ###### Art. 3003.
 
@@ -15167,9 +15381,9 @@ DEL REGISTRO PUBLICO.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-De los Títulos Sujetos a Registro y de los Efectos Legales del Registro.
+De su Organización.
 
 ###### Art. 3005.
 
@@ -15197,9 +15411,9 @@ De los Títulos Sujetos a Registro y de los Efectos Legales del Registro.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
-### CAPITULO III.
+### CAPITULO II.
 
-Del Registro de la Propiedad Inmueble y de los Títulos Inscribibles y Anotables.
+De los Títulos Sujetos a Registro y de los Efectos Legales del Registro.
 
 ###### Art. 3011.
 
@@ -15391,9 +15605,9 @@ De la Extinción de Asientos.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
-### CAPITULO IV.
+### CAPITULO III.
 
-Del Registro de Operaciones sobre Bienes Muebles.
+Del Registro de la Propiedad Inmueble y de los Títulos Inscribibles y Anotables.
 
 ###### Art. 3054.
 
@@ -15529,9 +15743,9 @@ Del Sistema Registral.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
-### CAPITULO V.
+### CAPITULO IV.
 
-Del Registro de Personas Morales.
+Del Registro de Operaciones sobre Bienes Muebles.
 
 ###### Art. 3081.
 
@@ -15542,6 +15756,10 @@ Del Registro de Personas Morales.
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014).
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
+
+### CAPITULO V.
+
+Del Registro de Personas Morales.
 
 ###### Art. 3083.
 
@@ -15796,3 +16014,29 @@ P.O. 1 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 479 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 226 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO”.]
+
+Primero. Vigencia. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Asuntos en Trámite. Las convocatorias, las asambleas y las reuniones de órganos colegiados de administración que se encuentren en trámite, serán concluidas de conformidad con las disposiciones vigentes al momento de su publicación.
+
+Tercero. Asuntos iniciados con posterioridad al Decreto. Las convocatorias, las asambleas de asociados o socios, así como las sesiones de sus órganos colegiados de administración, cumplirán con los requisitos formales y materiales previstos en el presente Decreto.
+
+Cuarto. Implementación de Tecnologías de la Información. Las asociaciones o sociedades civiles, deberán contar con los sistemas electrónicos para garantizar que los procedimientos a su cargo sean ágiles y efectivos.
+
+Quinto. Mecanismo de Solución de Controversias tratándose de personas morales previamente constituidas. Las personas morales constituidas con anterioridad a la entrada en vigor del presente decreto, podrán instalar y celebrar asamblea de asociados o socios sujetándose por única ocasión al quórum de instalación y quórum de votación previstos en los artículos 2666 QUINQUIES, 2666 SEXTIES y 2668 (para el caso de asociaciones civiles) y en los artículos 2699 TER, 2699 SEPTIES y 2699 OCTIES (para el caso de sociedades civiles), siempre que reúnan los requisitos siguientes:
+
+I.- Se hubiese convocado a Asamblea en tres ocasiones consecutivas;
+
+II.- Dicha asamblea no se ha instalado por falta de quórum;
+
+III.- No media (sic) declaración de existencia de conflicto irreconciliable entre sus integrantes;
+
+IV.- Sus estatutos sociales determinan quórum de instalación mayor y quórum de votación mayor a los previstos en el presente decreto; y
+
+V.- Pretenden desahogar orden del día en materia de Gobierno Corporativo y/o rendición de cuentas y/o información financiera. Previa certificación que al efecto se levante se podrá convocar por cuarta ocasión a Asamblea bajo el mismo orden del día, con el único propósito de dotarla de representantes legales y/o recursos económicos-materiales para continuar operando y desarrollando su objeto social.
+
+Sexto. Derogación explícita y tácita de preceptos incompatibles. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
