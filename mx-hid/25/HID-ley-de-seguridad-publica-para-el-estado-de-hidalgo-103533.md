@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2022-06-09"
+last_updated: "2022-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -1294,6 +1296,22 @@ XII. Participar en la Carrera Policial;
 XIII. Sugerir las medidas que estimen pertinentes para el mejoramiento del servicio de carrera policial de que formen parte; y
 
 XIV. Los demás que les confieran las leyes y reglamentos de la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2022)</small>
+
+###### Artículo 50 Bis.
+
+El régimen de Seguridad Social al que tengan acceso los integrantes de las Instituciones Policiales debe contener cuando menos:
+
+I. Fondo de ahorro;
+
+II. Seguro de vida;
+
+III. Crédito hipoterios (sic) y de corto plazo;
+
+IV. Pago de gastos funerarios, en caso de fallecimiento por motivo de ejercicio de sus funciones; y
+
+V. Seguro educativo, para dependientes económicos, por muerte y/o incapacidad total o permanente.
 
 #### SECCIÓN CUARTA. DE LOS ASCENSOS
 
@@ -3164,3 +3182,11 @@ P.O. 9 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 207 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 56 Y IX DEL ARTÍCULO 163; Y ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 108 Y LA FRACCIÓN XI DEL ARTÍCULO 163 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 230 QUE ADICIONA EL ARTÍCULO 50 BIS A LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el 01 de enero del año 2023 luego de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Dentro de los dos ejercicios fiscales posteriores al inicio de la vigencia de este Decreto; los gobiernos, estatal y municipales, deberán realizar los ajustes presupuestales necesarios para implementar su contenido, contemplando en ellos, una partida presupuestaria específica para tales efectos.
