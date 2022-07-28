@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2022-07-21"
+last_updated: "2022-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "YUC"
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 7/2018 PUBLICADO EN EL D.O. DE 27 DE NOVIEMBRE DE 2018 SE ABROGA EL DECRETO 661/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE LA CONTRALORÍA GENERAL PUBLICADO EN EL D.O. EL 28 DE SEPTIEMBRE DE 2018.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JULIO DE 2022 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE JULIO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL ESTADO DE YUCATÁN EL 28 DE JULIO DE 2022.]</small>
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -3229,7 +3229,9 @@ XXXI. Hacer del conocimiento del titular del Poder Ejecutivo la evidencia de alg
 
 XXXII. Emitir el dictamen de suspensión del notario público por posible incapacidad mental o por imposibilidad física, en términos de la Ley del Notariado del Estado de Yucatán;
 
-XXXIII. Visar y remitir al titular del Poder Ejecutivo el dictamen de revocación de la patente de aspirante a notario público o de la patente de notario público derivado de una sentencia ejecutoria de interdicción;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XXXIII. Visar y remitir al Poder Ejecutivo el dictamen de revocación de la patente de notario público por sentencia ejecutoriada de interdicción o cuando esté imposibilitado físicamente conforme a la Ley del Notariado del Estado de Yucatán;
 
 XXXIV. Fijar los requisitos de seguridad que deberán cubrir las hojas del protocolo de los notarios públicos;
 
@@ -3425,7 +3427,7 @@ El director del Diario Oficial del Gobierno del Estado tendrá las facultades y 
 
 (DEROGADO, D.O. 22 DE JUNIO DE 2018)
 
-> <small>(REFORMADA, D.O. 21 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, D.O. 21 DE JULIO DE 2022)</small>
 
 ###### Artículo 75.
 
@@ -3485,43 +3487,81 @@ XXVI. Opinar sobre la autorización de permutas y la aprobación de los convenio
 
 XXVII. Validar o, en su caso, emitir observaciones respecto a la propuesta de convocatoria para ocupar notarías públicas vacantes;
 
-XXVII. Emitir el documento que acredite que los aspirantes a notario público y los notarios públicos tomaron los cursos necesarios para recertificarse y actualizarse, en términos de las disposiciones aplicables;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
 
-XXVIII. Validar o, en su caso, emitir observaciones respecto a la propuesta de informe que se remita al Colegio de Notarios sobre los nuevos notarios públicos, aquellos que hayan firmado convenios de suplencia, asociación o permuta;
+XXVIII. Emitir el documento que acredite que los aspirantes a notario público y los notarios públicos tomaron los cursos necesarios para recertificarse y actualizarse, en términos de las disposiciones aplicables;
 
-XXIX. Verificar la correcta integración del registro que dé seguimiento a la obligación de los notarios públicos de contratar un seguro de responsabilidad civil profesional, o el medio de garantía que utilicen para garantizar las responsabilidades en que pudieren incurrir, en términos de la Ley del Notariado del Estado de Yucatán e integrar un informe con base en este;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
 
-XXX. Revisar y, en su caso validar u observar, la propuesta de solución de controversias entre dos notarios públicos por motivo de sus convenios de suplencia y plantear la propuesta de solución al Consejero Jurídico;
+XXIX. Validar o, en su caso, emitir observaciones respecto a la propuesta de informe que se remita al Colegio Notarial de Yucatán sobre los nuevos notarios públicos y aquellos que hayan firmado convenios de suplencia, asociación o permuta;
 
-XXXI. Aprobar o, en su caso, emitir observaciones respecto a la propuesta de dictamen de suspensión de la patente de notario público por posible incapacidad mental o por imposibilidad física;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
 
-XXXII. Validar o, en su caso, emitir observaciones respecto a la propuesta de dictamen de revocación de la patente de aspirante a notario público o de la patente de notario público derivado de una sentencia ejecutoria de interdicción;
+XXX. Verificar la correcta integración del registro que dé seguimiento a la obligación de los notarios públicos de contratar un seguro de responsabilidad civil profesional, o el medio de garantía que utilicen para garantizar las responsabilidades en que pudieren incurrir, en términos de la Ley del Notariado del Estado de Yucatán e integrar un informe con base en este;
 
-XXXIII. Supervisar la operación del sistema informático por medio del cual los notarios públicos alojen documentos e instrumentos electrónicos, en términos de las disposiciones vigentes;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
 
-XXXIV. Validar o, en su caso, emitir observaciones respecto a la propuesta de programa anual de visitas de inspección ordinarias a las notarías públicas del estado;
+XXXI. Revisar y, en su caso validar u observar, la propuesta de solución de controversias entre dos notarios públicos por motivo de sus convenios de suplencia y plantear la propuesta de solución al Consejero Jurídico;
 
-XXXV. Analizar el supuesto de incumplimiento y proponer al consejero jurídico la aplicación de los medios de apremio previstos en la Ley del Notariado del Estado de Yucatán;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
 
-XXXVI. Informar al Consejero Jurídico de las quejas recibidas, así como de cualquier indicio de incumplimiento a la normativa aplicable por parte de los notarios públicos, para que este ejercite las acciones que correspondan conforme a lo previsto en la Ley del Notariado del Estado de Yucatán;
+XXXII. Aprobar o, en su caso, emitir observaciones respecto a la propuesta de dictamen de suspensión de la patente de notario público por posible incapacidad mental o por imposibilidad física;
 
-XXXVII. Verificar la correcta integración del registro de las quejas presentadas en términos de la Ley del Notariado del Estado de Yucatán, el estado de su substanciación, si fueron sometidas al proceso de conciliación y su resultado, y el sentido de su resolución;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
 
-XXXVIII. Validar o, en su caso, emitir observaciones sobre el acuerdo de admisión, desechamiento o prevención de quien interponga la queja, en términos de la Ley del Notariado del Estado de Yucatán;
+XXXIII. Validar u observar la propuesta de dictamen de revocación de la patente notarial por sentencia ejecutoriada de interdicción o cuando el notario público esté imposibilitado físicamente conforme a las disposiciones aplicables;
 
-XXXIX. Aprobar o, en su caso, emitir sus observaciones sobre la propuesta de orden de visita especial por presuntas violaciones a la Ley del Notariado del Estado de Yucatán y demás disposiciones aplicables;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
 
-XL. Validar o, en su caso, emitir observaciones sobre el acuerdo de suspensión o reanudación del procedimiento de trámite de la queja a que se refiere la Ley del Notariado del Estado de Yucatán;
+XXXIV. Supervisar la operación del sistema informático por medio del cual los notarios públicos alojen documentos e instrumentos electrónicos, en términos de las disposiciones vigentes;
 
-XLI. Actuar como conciliador en los procedimientos de responsabilidad de los notarios públicos y de los aspirantes a notario público y comunicar su resultado al consejero jurídico;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
 
-XLII. Revisar y, en caso de no tener observaciones, validar la propuesta de acuerdo de cierre de la etapa de investigación de la queja presentada, en términos de la Ley del Notariado del Estado de Yucatán;
+XXXV. Validar o, en su caso, emitir observaciones respecto a la propuesta de programa anual de visitas de inspección ordinarias a las notarías públicas del estado;
 
-XLIII. Revisar y, en caso de no tener observaciones, validar la propuesta de resolución del procedimiento del trámite de la queja, en términos de la Ley del Notariado del Estado de Yucatán;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
 
-XLIV. Validar o, en su caso, emitir observaciones sobre el informe mensual que contenga los datos sobre las quejas que se presenten en términos de la Ley del Notariado del Estado de Yucatán, y
+XXXVI. Analizar el supuesto de incumplimiento y proponer al Consejero Jurídico la aplicación de los medios de apremio previstos en la Ley del Notariado del Estado de Yucatán;
 
-XLV. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XXXVII. Informar al Consejero Jurídico de las quejas recibidas, así como de cualquier indicio de incumplimiento a la normativa aplicable por parte de los notarios públicos, para que este ejercite las acciones que correspondan conforme a lo previsto en la Ley del Notariado del Estado de Yucatán;
+
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XXXVIII. Verificar la correcta integración del registro de las quejas presentadas en términos de la Ley del Notariado del Estado de Yucatán, el estado de su substanciación, si fueron sometidas al proceso de conciliación y su resultado, y el sentido de su resolución;
+
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XXXIX. Validar o, en su caso, emitir observaciones sobre el acuerdo de admisión, desechamiento o prevención de quien interponga la queja, en términos de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XL. Aprobar o, en su caso, emitir sus observaciones sobre la propuesta de orden de visita especial por presuntas violaciones a la Ley del Notariado del Estado de Yucatán y demás disposiciones aplicables;
+
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XLI. Validar o, en su caso, emitir observaciones sobre el acuerdo de suspensión o reanudación del procedimiento de trámite de la queja a que se refiere la Ley del Notariado del Estado de Yucatán;
+
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XLII. Actuar como conciliador en los procedimientos de responsabilidad de los notarios públicos y de los aspirantes a notario público y comunicar su resultado al Consejero Jurídico;
+
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XLIII. Revisar y, en caso de no tener observaciones, validar la propuesta de acuerdo de cierre de la etapa de investigación de la queja presentada, en términos de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XLIV. Revisar y, en caso de no tener observaciones, validar la propuesta de resolución del procedimiento del trámite de la queja, en términos de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XLV. Validar o, en su caso, emitir observaciones sobre el informe mensual que contenga los datos sobre las quejas que se presenten en términos de la Ley del Notariado del Estado de Yucatán, y
+
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XLVI. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 76.
 
@@ -3657,7 +3697,9 @@ XXXVI. Recibir el aviso de inicio de la actuación de dos notarios públicos con
 
 XXXVII. Elaborar el dictamen de suspensión de la patente de notario público por posible incapacidad mental o por imposibilidad física;
 
-XXXVIII. Elaborar el proyecto de dictamen de revocación de la patente de aspirante a notario público o de la patente de notario público derivado de una sentencia ejecutoria de interdicción;
+> <small>(F. DE E., D.O. 28 DE JULIO DE 2022)</small>
+
+XXXVIII. Elaborar el proyecto de dictamen de revocación de la patente notarial por sentencia ejecutoriada de interdicción o cuando el notario público esté imposibilitado físicamente conforme a las disposiciones aplicables;
 
 XXXIX. Recibir el aviso del registro civil respecto a la defunción de un notario público y actualizar sus registros administrativos;
 
@@ -3829,9 +3871,9 @@ X. Llevar el registro de las personas designadas por los notarios públicos para
 
 XI. Recibir el aviso de la ausencia por separación temporal de sus funciones en términos de la Ley del Notariado del Estado de Yucatán, que presenten los notarios públicos;
 
-> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+(ADICIONADA, D.O. 21 DE JULIO DE 2022) (F. DE E., D.O. 28 DE JULIO DE 2022)
 
-XII. Recibir la constancia de cierre del tomo y el tomo de los notarios públicos que se encuentren en los supuestos previstos en el artículo 69, fracciones I o III, de la Ley del Notariado del Estado de Yucatán;
+XII. Recibir la constancia de cierre del tomo, este y las notarías de los notarios públicos que se encuentren en los supuestos previstos en el artículo 69, fracciones I o III, de la Ley del Notariado del Estado de Yucatán;
 
 > <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
