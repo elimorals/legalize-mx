@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-de-defensoria-publica-del-estado-de-98703"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-22"
-last_updated: "2022-06-16"
+last_updated: "2022-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 22 de noviembre de 2013.
 
@@ -685,6 +685,10 @@ VI.- Los indígenas; y
 
 VII.- Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
 
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2022)</small>
+
+VIII.- Las personas adultas mayores.
+
 ###### Artículo 30.
 
 Para determinar si el solicitante de los servicios en estas materias reúne los requisitos establecidos para que se le otorgue el servicio, se requerirá de un estudio socioeconómico, que será aplicado por el Instituto o por el órgano auxiliar que determine el Consejo de la Judicatura.
@@ -1272,3 +1276,15 @@ SEGUNDO. En un plazo que no exceda los ciento ochenta días naturales posteriore
 TERCERO. El Poder Judicial del Estado de Quintana Roo incluirá, en su Proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2023, los recursos necesarios para la ejecución de lo establecido en el presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 255 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUINTANA ROO, DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Legislativo del Estado aprobará los recursos necesarios en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo, para el ejercicio fiscal 2023.
+
+TERCERO. El Poder Ejecutivo del Estado y los Municipios llevarán a cabo la entrega de los recursos que resulten de la presente reforma, con base en la información, registro, padrón o cualquier otra base de datos que tengan a su disposición de personas adultas mayores.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
