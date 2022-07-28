@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-derechos-de-las-personas-adultas-mayores-del-56582"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2021-07-16"
+last_updated: "2022-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUINTANA ROO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2022.
 
 Ley publicada en el Número 52 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el martes 7 de agosto de 2007.
 
@@ -107,25 +107,61 @@ Son derechos que esta Ley reconoce y protege a favor de las personas adultas may
 
 I.- Ser tratados sin ningún tipo de discriminación en razón de su condición de personas adultos mayores y sin distinción de raza, lengua, condición social, costumbre o demás circunstancias análogas;
 
-II.- Permanecer en el núcleo familiar y recibir los alimentos y cuidados adecuados de quien tenga el deber de proporcionárselos, de acuerdo a lo dispuesto en esta Ley y demás ordenamientos legales aplicables;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2022)</small>
 
-III.- Disfrutar en el mayor grado posible de buena salud;
+II.- A ser protegidos contra toda forma de explotación;
 
-IV.- Tener acceso a los medios de subsistencia establecidos en esta Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2022)</small>
 
-V.- Disfrutar de los beneficios de seguridad social, en sus diferentes modalidades y de acuerdo a lo establecido en la legislación respectiva;
+III.- Permanecer en el núcleo familiar y recibir los alimentos y cuidados adecuados de quien tenga el deber de proporcionárselos, de acuerdo a lo dispuesto en esta Ley y demás ordenamientos legales aplicables;
 
-VI.- Tener acceso a todas las actividades, programas o servicios que permitan el desarrollo de sus capacidades físicas, mentales, sociales y culturales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2022)</small>
 
-VII.- Tener acceso a la educación en los niveles, programas y modalidades que por sus circunstancias particulares requieran;
+IV.- Disfrutar en el mayor grado posible de buena salud;
 
-VIII.- Formar o integrar asociaciones, sociedades o agrupaciones para la defensa de sus derechos y para la realización de actividades que les beneficien;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2022)</small>
 
-IX.- Practicar el libre ejercicio de sus derechos civiles y políticos;
+V.- A vivir en entornos seguros, dignos y decorosos, que satisfagan sus necesidades y requerimientos, donde ejerzan libremente sus derechos;
 
-X.- Disfrutar y participar de las actividades culturales, deportivas y recreativas; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2022)</small>
 
-XI.- Los demás que señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Quintana Roo y demás ordenamientos aplicables.
+VI.- Tener acceso a los medios de subsistencia establecidos en esta Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2022)</small>
+
+VII.- Disfrutar de los beneficios de seguridad social, en sus diferentes modalidades y de acuerdo a lo establecido en la legislación respectiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2022)</small>
+
+VIII.- A gozar de oportunidades para acceder a opciones de trabajo y a recibir la capacitación adecuada que les permita obtener un ingreso propio;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2022)</small>
+
+IX.- Tener acceso a todas las actividades programas o servicio (sic) que permitan el desarrollo de sus capacidades físicas, mentales, sociales y culturales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2022)</small>
+
+X.- Tener acceso a la educación en los niveles, programas y modalidades que por sus circunstancias particulares requieran;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2022)</small>
+
+XI.- Formar o integrar asociaciones, sociedades o agrupaciones para la defensa de sus derechos y para la realización de actividades que les beneficien;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2022)</small>
+
+XII.- Practicar el libre ejercicio de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2022)</small>
+
+XIII.- Recibir el apoyo de las instituciones gubernamentales, en el ejercicio y respeto de sus derechos; así como a recibir asesoría jurídica gratuita en los procedimientos administrativos o judiciales en los que sean parte;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JULIO DE 2022)</small>
+
+XIV.- Disfrutar y participar de las actividades culturales, deportivas y recreativas, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JULIO DE 2022)</small>
+
+XV.- Los demás que señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y demás ordenamientos aplicables.
 
 Además de los derechos enunciados, las personas adultas mayores de setenta años de edad en adelante, gozarán de un apoyo económico equivalente a la mitad del salario mínimo mensual vigente en el Estado, el cual se otorgará con base en las condiciones y requisitos previstos en el reglamento que al efecto expida el Titular del Poder Ejecutivo del Estado.
 
@@ -647,13 +683,19 @@ El Titular del Poder Ejecutivo del Estado otorgará estímulos y reconocimientos
 
 ### CAPÍTULO VII. DE LA SIMPLIFICACIÓN DE TRÁMITES ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 68.
 
-Las personas adultas mayores que requieran de los servicios de atención al público que proporcionen las dependencias, entidades y organismos de la Administración Pública Estatal, tendrán derecho a contar con todo tipo de facilidades y preferencias para acceder a los servicios que éstas presten.
+Las personas adultas mayores que requieran de los servicios de atención al público que proporcionen las dependencias, entidades y organismos de la Administración Pública Estatal, así como los municipios en el ámbito de sus respectivas competencias y jurisdicción, tendrán derecho a contar con todo tipo de facilidades y preferencias para acceder a los servicios que éstas presten.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 69.
 
-Sin perjuicio de lo dispuesto en otros ordenamientos legales, las dependencias y entidades de la Administración Pública Estatal, implementarán los mecanismos necesarios que permitan la simplificación de los trámites o diligencias que ante ellas tengan que realizar las personas adultas mayores.
+Sin perjuicio de lo dispuesto en otros ordenamientos legales, las dependencias y entidades de la Administración Pública Estatal, así como los municipios en el ámbito de sus respectivas competencias y jurisdicción, implementarán los mecanismos necesarios que permitan la simplificación de los trámites o diligencias que ante ellas tengan que realizar las personas adultas mayores.
+
+Para ello, deberán adecuarse espacios e implementarse mecanismos que, durante el tiempo de espera, garanticen su descanso como: sillas, bancas, sillones, sillas de ruedas, así como mecanismos para la atención inmediata e instalación de ventanillas preferentes o filas especiales que deberán estar adecuadamente señaladas para su fácil identificación y acceso, debiéndose de implementar acciones o estrategias que garanticen que por cada persona menor de sesenta años que se atienda, se le brinde preferencia de atención a cuando menos dos Personas Adultas Mayores.
 
 ## TÍTULO SEXTO. INFRACCIONES, SANCIONES Y RECURSOS DE RECONSIDERACIÓN
 
@@ -872,3 +914,15 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 28 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 255, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUINTANA ROO, DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Legislativo del Estado aprobará los recursos necesarios en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo, para el ejercicio fiscal 2023.
+
+TERCERO. El Poder Ejecutivo del Estado y los Municipios llevarán a cabo la entrega de los recursos que resulten de la presente reforma, con base en la información, registro, padrón o cualquier otra base de datos que tengan a su disposición de personas adultas mayores.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
