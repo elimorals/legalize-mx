@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2021-07-16"
+last_updated: "2022-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -1402,6 +1402,10 @@ Las tarifas deberán revisarse durante el tercer trimestre de cada año. En el c
 ###### Artículo 98.
 
 Tomando en cuenta las circunstancias particulares de los usuarios, las situaciones de interés general, la conveniencia de eficientar o acreditar el Servicio Público de Transporte, el Instituto, podrá autorizar el establecimiento de tarifas especiales, promociónales, o preferenciales, así como exenciones del pago de tarifa, que se aplicaran de manera general, abstracta e impersonal a sectores específicos de la población.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2022)</small>
+
+El Instituto a través de su junta directiva, a su consideración, privilegiará el establecimiento de tarifas preferenciales a beneficio de la economía de las personas adultas mayores cuando hagan uso del Servicio Público de Transporte de Pasajeros.
 
 Los Ayuntamientos de los Municipios del Estado podrán exentar o determinar una tarifa preferencial en el pago del Servicio Público de Transporte de Pasajeros de Autobuses Urbanos a personas con discapacidad, así como a estudiantes y adultos mayores que acrediten tal calidad con la credencial o identificación oficial correspondiente.
 
@@ -3532,3 +3536,15 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 28 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 255, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUINTANA ROO, DE LA LEY DEL INSTITUTO DE DEFENSORIA PÚBLICA DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Legislativo del Estado aprobará los recursos necesarios en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo, para el ejercicio fiscal 2023.
+
+TERCERO. El Poder Ejecutivo del Estado y los Municipios llevarán a cabo la entrega de los recursos que resulten de la presente reforma, con base en la información, registro, padrón o cualquier otra base de datos que tengan a su disposición de personas adultas mayores.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
