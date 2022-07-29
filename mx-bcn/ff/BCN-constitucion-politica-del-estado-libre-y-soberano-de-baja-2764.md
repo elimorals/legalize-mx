@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2022-01-25"
+last_updated: "2022-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1031,17 +1031,21 @@ En los tres períodos ordinarios, la Legislatura del Estado estudiará y votará
 
 En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica, así como de las iniciativas que el Gobernador del Estado haya señalado con ese carácter conforme a esta Constitución.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2022)</small>
 
-APARTADO B. De la Glosa del Informe anual del Gobernador.
+APARTADO B. De la Glosa del Informe anual de la persona titular del Poder Ejecutivo del Estado.
 
-Durante el Primer Período Ordinario de Sesiones, concluida la Glosa del Informe, el Congreso del Estado podrá solicitar durante los siguientes 15 días al Gobernador ampliar la información mediante el procedimiento de Pregunta Parlamentaria, misma que se hará por escrito y tendrá un plazo de 30 días para su respuesta. Los titulares de las dependencias del Poder Ejecutivo o de las entidades paraestatales, al comparecer ante el congreso rendirán sus informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+Una vez rendido el informe correspondiente, deberá desarrollarse la glosa del mismo, la cual concluirá dentro del primer período ordinario de sesiones. El Congreso del Estado podrá solicitar dentro de los siguientes 15 días a la conclusión de la glosa a la persona titular del Poder Ejecutivo ampliar la información mediante el procedimiento de Pregunta Parlamentaria, misma que se hará por escrito y tendrá un plazo de 30 días para su respuesta, salvo que se trate del último año de gestión, caso en el cual dentro de los 5 días siguientes de concluida la glosa, el Congreso podrá formular la Pregunta Parlamentaria, a la que se deberá dar respuesta antes de que concluya el mandato constitucional. Las personas titulares de las dependencias del Poder Ejecutivo o de las entidades paraestatales, al comparecer ante el Congreso rendirán sus informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
 
-Adicionalmente a lo dispuesto en el párrafo anterior, los Titulares de las Dependencias del Ejecutivo Estatal, incluido el Secretario General de Gobierno y el Fiscal General del Estado, el Fiscal Especializado en Combate a la Corrupción, el Fiscal Especializado para la Atención de Delitos Electorales, así como los titulares e integrantes de Consejos Municipales, Directores Generales o sus equivalentes de las entidades paraestatales, estarán obligados a acudir a comparecer, bajo protesta de decir verdad, ante el Pleno o las Comisiones respectivas, cuando así lo acuerde el Congreso, por votación mayoritaria de sus integrantes.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
 
-El Gobernador del Estado tendrá voz en el Congreso del Estado por sí o a través del Secretario General de Gobierno, para presentar iniciativas, informes o responder a preguntas, mediando solicitud para hacerlo o por invitación del Congreso del Estado, en los términos de esta Constitución y en las leyes que de ella emanen.
+Adicionalmente a lo dispuesto en el párrafo anterior, las personas titulares de las Dependencias del Ejecutivo Estatal, de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía Especializada para la Atención de Delitos Electorales, así como las personas titulares e integrantes de Consejos Municipales, Direcciones Generales o sus equivalentes de las entidades paraestatales, estarán obligadas a comparecer, bajo protesta de decir verdad, ante el Pleno o las Comisiones respectivas, cuando así lo acuerde el Congreso, por votación mayoritaria de sus integrantes.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
+La persona titular del Poder Ejecutivo del Estado tendrá voz en el Congreso del Estado por sí o a través de la persona titular de la Secretaría General de Gobierno, para presentar iniciativas, informes o responder a preguntas, mediando solicitud para hacerlo o por invitación del Congreso del Estado, en los términos de esta Constitución y en las leyes que de ella emanen.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -1699,15 +1703,13 @@ Todos los acuerdos y disposiciones que el Gobernador diere en uso de sus faculta
 
 ### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 49.
 
-Son facultades y obligaciones del Gobernador:
+Son facultades y obligaciones de la persona titular del Poder Ejecutivo del Estado:
 
 I.- Promulgar, ejecutar y hacer que se cumplan las leyes, decretos y demás disposiciones que tengan vigencia en el Estado;
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, PUBLICADO EN EL P.O. 7 DE OCTUBRE DE 2011, LA PRESENTE FRACCIÓN INICIA SU VIGENCIA EL 1 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -1721,15 +1723,9 @@ III.- Velar por la conservación del orden, tranquilidad y seguridad del Estado,
 
 IV.- Presentar cada año al Congreso, a más tardar el día primero de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal siguiente;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
 
-V.- Rendir un informe general, por escrito, del estado que guarde la Administración Pública, remitiéndolo al Congreso a la apertura del primer periodo de sesiones ordinarias; sin perjuicio de lo anterior, podrá emitir un mensaje ante el Congreso, bajo protesta de decir verdad, en cuyo caso cada grupo parlamentario tendrá derecho a expresar su opinión sobre el contenido del mismo. Tanto el Gobernador del Estado, como los grupos parlamentarios, tendrán por una sola ocasión, derecho de réplica.
-
-(NOTA: EL 6 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IV, SUBAPARTADO B, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2020 Y SU ACUMULADA 120/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2020)</small>
-
-EL GOBERNADOR DEL ESTADO PODRÁ SER INVITADO POR LA MAYORÍA DE LOS DIPUTADOS DEL CONGRESO PARA QUE RINDA UN INFORMA (SIC) PARCIAL DE ACTIVIDADES CUANDO ÉSTOS LO CONSIDEREN CONVENIENTE. CON EXCEPCIÓN DE LOS SUPUESTOS PREVISTOS EN EL ARTÍCULO 100 DE ESTA CONSTITUCIÓN, ASÍ COMO LAS DISPOSICIONES EN MATERIA ELECTORAL, EL TITULAR DEL PODER EJECUTIVO PODRÁ INFORMAR MENSUALMENTE A LA POBLACIÓN A TRAVÉS DE LOS MEDIOS DE COMUNICACIÓN Y REDES SOCIALES, LOS AVANCES Y RESULTADOS EN LA SOLUCIÓN DE LA PROBLEMÁTICA DE LA ENTIDAD. DE LA MISMA FORMA, EL GOBERNADOR DEL ESTADO PODRÁ EJERCER LAS FACULTADES CONTENIDAS EN LA PRESENTE FRACCIÓN EN UNO O VARIOS DE LOS MUNICIPIOS DE BAJA CALIFORNIA.
+V.- Rendir anualmente un informe general, por escrito, del estado que guarde la Administración Pública, remitiéndolo al Congreso dentro de los primeros siete días siguientes al término de cada año de gestión de labores, con excepción del último año del ejercicio constitucional, el cual se rendirá dentro de los primeros siete días del mes de la conclusión del cargo. Sin perjuicio de lo anterior, podrá emitir un mensaje ante el Congreso, bajo protesta de decir verdad, en cuyo caso cada grupo parlamentario tendrá derecho a expresar su opinión sobre el contenido del mismo. Tanto a la persona titular del Poder Ejecutivo, como los grupos parlamentarios, tendrán por una sola ocasión, derecho de réplica.
 
 VI.- Pedir y dar informes al Congreso y al Tribunal Superior de Justicia;
 
@@ -5564,3 +5560,13 @@ PRIMERO. Una vez aprobada la presente reforma, túrnese a los ayuntamientos del 
 SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional respectiva.
 
 TERCERO. La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 119 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22 Y 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO. Aprobada la presente reforma por el Pleno del Congreso, túrnese a los Ayuntamientos para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo y de obtener la aprobación de la mayoría de los Ayuntamientos, emítase la declaratoria de incorporación constitucional correspondiente, remitiéndose al titular del Poder Ejecutivo para su Publicación en el Periódico Oficial del Estado.
+
+TERCERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
