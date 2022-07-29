@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2022-06-10"
+last_updated: "2022-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -115,81 +115,85 @@ XI. Fiscal Anticorrupción: al titular de la Fiscalía Especializada en el Comba
 
 XII. Fiscalía Anticorrupción: a la Fiscalía Especializada en el Combate a la Corrupción de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XIII. Fiscalía Especializada en Desaparición de Personas: La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares de la Fiscalía General del Estado de Querétaro;
+XIII. Fiscalía Especializada en Delitos de Tortura: a la Fiscalía Especializada en la Investigación y Persecución de delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XIV. Fiscal General: al titular de la Fiscalía General del Estado de Querétaro;
+XIV. Fiscalía Especializada en Desaparición de Personas: a la Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición Cometida por Particulares de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XV. Fiscalía General: al organismo constitucional autónomo denominado Fiscalía General del Estado de Querétaro;
+XV. Fiscal General: al titular de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XVI. Instituto: al Instituto del Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
+XVI. Fiscalía General: al organismo constitucional autónomo denominado Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XVII. Ley: a la Ley Orgánica de la Fiscalía General del Estado de Querétaro;
+XVII. Instituto: al Instituto del Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XVIII. Ley General del Sistema: a la Ley General del Sistema Nacional de Seguridad Pública;
+XVIII. Ley: a la Ley Orgánica de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XIX. Perito: a los integrantes de los cuerpos de investigación técnica y científica de la Fiscalía General del Estado de Querétaro;
+XIX. Ley General del Sistema: a la Ley General del Sistema Nacional de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XX. Personal Sustantivo: a los Fiscales, Peritos y Policías de Investigación, que se encuentran sujetos al Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
+XX. Perito: a los integrantes de los cuerpos de investigación técnica y científica de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXI. Policía de Investigación: a los integrantes del cuerpo de Policía de Investigación del Delito de la Fiscalía General del Estado de Querétaro;
+XXI. Personal Sustantivo: a los Fiscales, Peritos y Policías de Investigación, que se encuentran sujetos al Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXII. Reglamento: al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Querétaro;
+XXII. Policía de Investigación: a los integrantes del cuerpo de Policía de Investigación del Delito de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXIII. Reglamento del Centro: al Reglamento del Centro de Evaluación de Control de Confianza de la Fiscalía General del Estado de Querétaro;
+XXIII. Reglamento: al Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXIV. Servicio Profesional: al Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
+XXIV. Reglamento del Centro: al Reglamento del Centro de Evaluación y Control de Confianza de la Fiscalía General del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXV. SIU: Sistema Informático Único que permite la comunicación entre el personal operativo facultado para el uso legal de la fuerza pública y la Fiscalía General del Estado de Querétaro;
+XXV. Servicio Profesional: al Servicio Profesional de Carrera de la Fiscalía General del Estado de Querétaro;
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXVI. UMA: a la Unidad de Medida y Actualización;
+XXVI. SIU: al Sistema Informático Único que permite la comunicación entre el personal operativo facultado para el uso legal de la fuerza pública y la Fiscalía General del Estado de Querétaro;
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXVII. Unidad de Análisis: La Unidad de Análisis Criminal de la Fiscalía General del Estado de Querétaro;
+XXVII. UMA: a la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXVIII. Unidad de Asuntos Internos: La Unidad de Asuntos Internos de la Fiscalía General del Estado de Querétaro;
+XXVIII. Unidad de Análisis: a la Unidad de Análisis Criminal de la Fiscalía General del Estado de Querétaro;
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXIX. Unidad de Extinción de Dominio: La Unidad Especializada en materia de Extinción de Dominio de la Fiscalía General del Estado de Querétaro;
+XXIX. Unidad de Asuntos Internos: a la Unidad de Asuntos Internos de la Fiscalía General del Estado de Querétaro;
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXX. Unidad de Inteligencia: La Unidad de Inteligencia Patrimonial y Económica de la Fiscalía Especializada en el Combate a la Corrupción de la Fiscalía General del Estado de Querétaro, y
+XXX. Unidad de Extinción de Dominio: a la Unidad Especializada en materia de Extinción de Dominio de la Fiscalía General del Estado de Querétaro;
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2022)</small>
 
-XXXI. Unidad de Transparencia: La Unidad de Transparencia de la Fiscalía General del Estado de Querétaro.
+XXXI. Unidad de Inteligencia: a la Unidad de Inteligencia Patrimonial y Económica de la Fiscalía Especializada en el Combate a la Corrupción de la Fiscalía General del Estado de Querétaro; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 29 DE JULIO DE 2022)</small>
+
+XXXII. Unidad de Transparencia: a la Unidad de Transparencia de la Fiscalía General del Estado de Querétaro.
 
 ### Capítulo Segundo. De las funciones de la Fiscalía General del Estado de Querétaro
 
@@ -301,13 +305,17 @@ XV. La Dirección de Administración;
 
 XVI. La Contraloría;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
 
-XVII. El Centro de Evaluación y Control de Confianza; y
+XVII. El Centro de Evaluación y Control de Confianza;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
 
-XVIII. La Fiscalía Especializada en la Investigación de Delitos de Desaparición Forzada de Personas y la Cometida por Particulares.
+XVIII. La Fiscalía Especializada en la Investigación de Delitos de Desaparición Forzada de Personas y la Cometida por Particulares; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2022)</small>
+
+XIX. La Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
 ###### Artículo 8.
 
@@ -649,9 +657,51 @@ Contará con el personal y recursos necesarios para el cumplimiento de sus funci
 
 El Fiscal General realizará la designación y remoción del titular de la Fiscalía Especializada en Desaparición de Personas y el personal adscrito a ésta deberá cumplir con los requisitos establecidos en las disposiciones aplicables.
 
-### Capítulo Cuarto. De los Vice Fiscales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2022)</small>
 
-### Capítulo Quinto. De la Vice Fiscalía de Investigación y Persecución del Delito
+### Capítulo Tercero Quáter. De la Fiscalía Especializada en la Investigación y Persecución de delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Artículo 13 octies. La Fiscalía Especializada en Delitos de Tortura tendrá autonomía técnica y operativa, su objeto es la investigación y persecución de los delitos de tortura, tratos o penas crueles, inhumanos o degradantes y vinculados, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Artículo 13 nonies. La Fiscalía Especializada en Delitos de Tortura, además de las obligaciones y facultades previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, tendrá las siguientes:
+
+I. Investigar y perseguir los delitos de tortura, tratos o penas crueles, inhumanos o degradantes y vinculados, conforme lo previsto en el Código Nacional, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, el Protocolo Homologado para la investigación y persecución del delito de tortura y demás normatividad aplicable a la materia;
+
+II. Solicitar a las autoridades y unidades administrativas de la Fiscalía General competentes, información y colaboración para la investigación y persecución de los delitos de su competencia;
+
+III. Decretar medidas de protección a favor de víctimas de los delitos de tortura, tratos o penas crueles, inhumanos o degradantes y vinculados;
+
+IV. Solicitar las medidas cautelares aplicables al imputado por los delitos de tortura, tratos o penas crueles, inhumanos o degradantes y vinculados;
+
+V. Ejercer la acción penal ante el órgano jurisdiccional por delitos de su competencia;
+
+VI. Notificar, en caso de que la víctima sea una persona extranjera, a la autoridad competente del país al que pertenezca y coadyuvar para garantizar el derecho a la asistencia consular;
+
+VII. Mantener permanente coordinación con la Dirección de Servicios Periciales para la aplicación por parte de los peritos profesionistas en medicina y psicología, del Dictamen Médico Psicológico Especializado para casos de posible Tortura u otros Tratos o Penas Crueles, Inhumanos o Degradantes; así como para la intervención pericial de las especialidades que resulten necesarias para el esclarecimiento de los hechos;
+
+VIII. Dar intervención a la Comisión Estatal de Víctimas a fin de procurar el acceso a los apoyos y garantizar derechos que por su condición les corresponde a las víctimas de los delitos de tortura, tratos o penas crueles, inhumanos o degradantes y vinculados;
+
+IX. Orientar a los Fiscales de otras Unidades de Investigación sobre las diligencias mínimas a realizar en caso de que den inicio a una carpeta de investigación por delitos de su competencia;
+
+X. Aplicar los Protocolos y la normatividad relativa a la investigación de los delitos de tortura, tratos o penas crueles, inhumanos o degradantes y vinculados;
+
+XI. Suministrar la información correspondiente en el Registro Nacional del Delito de Tortura, conforme los lineamientos expedidos para ese efecto por la autoridad competente, y demás bases de datos estadísticos necesarios, y
+
+XII. Las demás que se establezcan en la normatividad aplicable
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Artículo 13 decies. La Fiscalía Especializada en Delitos de Tortura, contará con un Titular, Fiscales Especializados, Peritos Profesionistas como mínimo en las materias de psicología y medicina, Policías de Investigación y el personal técnico y administrativo necesario para el cumplimiento de sus funciones.
+
+Contará con los recursos financieros tecnológicos y materiales necesarios conforme a la suficiencia presupuestal autorizada.
+
+El personal de la Fiscalía Especializada en Delitos de Tortura deberá cumplir con los requisitos establecidos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes y demás disposiciones aplicables, para ser integrante y permanecer en ella, cuya designación y remoción estará a cargo del Fiscal General.
+
+### Capítulo Cuarto. De los Vice Fiscales
 
 ###### Artículo 14.
 
@@ -679,7 +729,7 @@ VI. Proponer al Fiscal General para su autorización y aprobación sus manuales 
 
 VII. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
 
-### Capítulo Sexto. De la Vice Fiscalía de Investigación Científica y Policial
+### Capítulo Quinto. De la Vice Fiscalía de Investigación y Persecución del Delito
 
 ###### Artículo 15.
 
@@ -729,7 +779,7 @@ XI. Las demás contenidas en las disposiciones aplicables.
 
 Para la ejecución de sus atribuciones, contará con la Unidad de Fiscales Analistas, la Unidad de Control y Seguimiento de Mandatos, la Unidad de Extinción de Dominio, los departamentos, áreas y demás personal que el servicio requiera conforme a la disponibilidad presupuestal, cuyas funciones están reguladas en el Reglamento.
 
-### Capítulo Séptimo. De la Vice Fiscalía de Derechos Humanos y Desarrollo Institucional
+### Capítulo Sexto. De la Vice Fiscalía de Investigación Científica y Policial
 
 ###### Artículo 16.
 
@@ -771,7 +821,7 @@ Artículo 16 bis. Los analistas de la Unidad de Análisis son expertos en la mat
 
 El personal sustantivo de la Unidad de Análisis, por la naturaleza de las funciones que desempeña, permanecerá bajo el régimen del Servicio Profesional de Carrera para todos los efectos a que haya lugar.
 
-### Capítulo Primero. Disposiciones generales
+### Capítulo Séptimo. De la Vice Fiscalía de Derechos Humanos y Desarrollo Institucional
 
 ###### Artículo 17.
 
@@ -797,13 +847,13 @@ V. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos le
 
 Para la ejecución de sus atribuciones, contará con la Unidad de Transparencia, departamentos, áreas y demás personal que el servicio requiera conforme a la disponibilidad presupuestal, cuyas funciones están reguladas en el Reglamento y la normatividad en la materia.
 
-### Capítulo Segundo. De la Dirección de Investigación de la Fiscalía General
+### Capítulo Primero. Disposiciones generales
 
-### Capítulo Tercero. De la Dirección de Acusación de la Fiscalía General
+### Capítulo Segundo. De la Dirección de Investigación de la Fiscalía General
 
 ## Título Tercero. De las atribuciones de las Direcciones
 
-### Capítulo Cuarto. De la Dirección de Policía de Investigación del Delito
+### Capítulo Tercero. De la Dirección de Acusación de la Fiscalía General
 
 ###### Artículo 18.
 
@@ -849,7 +899,7 @@ XI. Las demás que se establezcan en las disposiciones legales aplicables.
 
 En el reglamento se establecerán las funciones específicas que desempeñarán los titulares de las Direcciones.
 
-### Capítulo Quinto. De la Dirección de Servicios Periciales
+### Capítulo Cuarto. De la Dirección de Policía de Investigación del Delito
 
 ###### Artículo 19.
 
@@ -927,7 +977,7 @@ XIX. Realizar las tareas de certificación del personal en materia de los Mecani
 
 XX. Las demás contenidas en las disposiciones aplicables.
 
-### Capítulo Sexto. De la Dirección de Tecnologías
+### Capítulo Quinto. De la Dirección de Servicios Periciales
 
 ###### Artículo 20.
 
@@ -987,7 +1037,7 @@ XVI. Realizar el cobro de derechos por los servicios de expedición de documento
 
 XVII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Séptimo. De la Dirección de Derechos Humanos
+### Capítulo Sexto. De la Dirección de Tecnologías
 
 ###### Artículo 21.
 
@@ -1027,7 +1077,7 @@ XIII. Coadyuvar en el ámbito de su competencia bajo el enfoque de proximidad; y
 
 XIV. Las demás que le confieran las disposiciones legales aplicables y su reglamento.
 
-### Capítulo Octavo. De la Dirección Jurídica y de Vinculación Institucional
+### Capítulo Séptimo. De la Dirección de Derechos Humanos
 
 ###### Artículo 22.
 
@@ -1053,7 +1103,7 @@ V. Dirigir y controlar el Servicio Médico Forense;
 
 VI. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Noveno. Del Instituto del Servicio Profesional de Carrera
+### Capítulo Octavo. De la Dirección Jurídica y de Vinculación Institucional
 
 ###### Artículo 23.
 
@@ -1085,7 +1135,7 @@ VI. Ejecutar las acciones de apoyo técnico que garanticen la seguridad de la in
 
 VII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Décimo. De la Dirección de Administración
+### Capítulo Noveno. Del Instituto del Servicio Profesional de Carrera
 
 ###### Artículo 24.
 
@@ -1105,9 +1155,7 @@ IV. Atender, conforme a la normatividad aplicable, las quejas, propuestas de con
 
 V. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Noveno (sic). De la Contraloría
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+### Capítulo Décimo. De la Dirección de Administración
 
 ###### Artículo 25.
 
@@ -1132,6 +1180,38 @@ IV. Desarrollar acciones de vinculación con instituciones públicas o entes pri
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
 V. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+
+### Capítulo Noveno (sic). De la Contraloría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+
+###### Artículo 26.
+
+El Instituto del Servicio Profesional de Carrera tiene las siguientes facultades:
+
+I. Implementar el Servicio Profesional de Carrera de la Fiscalía General;
+
+II. Desarrollar los planes y programas para la profesionalización del personal de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III. Llevar a cabo los procesos de formación, capacitación, especialización o certificación del personal de la Fiscalía General, así como de su cuerpo docente;
+
+IV. Expedir constancias de capacitación, diplomas, títulos, reconocimientos y cualquier otro documento académico en los procesos de profesionalización;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+V. Coordinarse con instancias federales, estatales, municipales, instituciones académicas de enseñanza superior o especializada, sean públicas o privadas para el cumplimiento de sus fines, proponiendo al Fiscal General la suscripción de convenios;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VI. Brindar servicios de profesionalización a instituciones públicas y entes privados, con base en las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII. Realizar el cobro de derechos por los servicios de profesionalización que se imparta a instituciones públicas o privadas, expedición de documentos académicos y evaluación de nivel de conocimientos y habilidades al personal de instituciones públicas o privadas; y
+
+VIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
 ### Capítulo Noveno Bis. Del Centro de Evaluación y Control de Confianza
 
@@ -1211,36 +1291,6 @@ Artículo 28 duodecies. El Centro será el encargado de emitir el Certificado en
 
 Artículo 28 terdecies. El Centro realizará el cobro de derechos por los servicios de evaluación en materia de control de confianza.
 
-###### Artículo 26.
-
-El Instituto del Servicio Profesional de Carrera tiene las siguientes facultades:
-
-I. Implementar el Servicio Profesional de Carrera de la Fiscalía General;
-
-II. Desarrollar los planes y programas para la profesionalización del personal de la Fiscalía General;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-III. Llevar a cabo los procesos de formación, capacitación, especialización o certificación del personal de la Fiscalía General, así como de su cuerpo docente;
-
-IV. Expedir constancias de capacitación, diplomas, títulos, reconocimientos y cualquier otro documento académico en los procesos de profesionalización;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-V. Coordinarse con instancias federales, estatales, municipales, instituciones académicas de enseñanza superior o especializada, sean públicas o privadas para el cumplimiento de sus fines, proponiendo al Fiscal General la suscripción de convenios;
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-VI. Brindar servicios de profesionalización a instituciones públicas y entes privados, con base en las disposiciones aplicables;
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-VII. Realizar el cobro de derechos por los servicios de profesionalización que se imparta a instituciones públicas o privadas, expedición de documentos académicos y evaluación de nivel de conocimientos y habilidades al personal de instituciones públicas o privadas; y
-
-VIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
-
-### Capítulo Primero. Del personal
-
 ###### Artículo 27.
 
 La Dirección de Administración tiene las siguientes atribuciones:
@@ -1285,7 +1335,7 @@ Artículo 27 bis. El titular de la Contraloría será designado por la Legislatu
 
 El titular de la Contraloría o en su caso el encargado, tendrán las atribuciones establecidas en esta Ley y su Reglamento.
 
-### Capítulo Segundo. De la designación del personal
+### Capítulo Primero. Del personal
 
 ###### Artículo 28.
 
@@ -1421,11 +1471,11 @@ XXXII. Las demás que le confieran las disposiciones aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
-### Capítulo Tercero. Del Servicio Profesional de Carrera
+### Capítulo Segundo. De la designación del personal
 
 ## Título Cuarto. Del régimen del personal
 
-### Capítulo Cuarto. De las excusas e incompatibilidades
+### Capítulo Tercero. Del Servicio Profesional de Carrera
 
 ###### Artículo 29.
 
@@ -1455,9 +1505,7 @@ V. No haber sido condenado por delito doloso; y
 
 VI. Ser de notoria buena conducta, honradez y probidad.
 
-### Capítulo Quinto. De las responsabilidades de los servidores públicos
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+### Capítulo Cuarto. De las excusas e incompatibilidades
 
 ###### Artículo 32.
 
@@ -1474,6 +1522,10 @@ El ingreso, promoción, estímulo, evaluación y separación del personal de con
 ###### Artículo 35.
 
 El personal sustantivo está sujeto al Servicio Profesional, en términos de los artículos 21 y 123, apartado B, fracción XIII, de la Constitución Federal, la Constitución Local, el Reglamento Interior y el Reglamento del Servicio Profesional de Carrera de la Fiscalía General.
+
+### Capítulo Quinto. De las responsabilidades de los servidores públicos
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 36.
 
@@ -1974,3 +2026,17 @@ El Director General del organismo público descentralizado denominado Centro de 
 ###### ARTÍCULO SÉPTIMO.
 
 La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
+
+P.O. 29 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY POR LA QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. La Fiscalía Especializada en la Investigación y Persecución de delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, conocerá de aquellas denuncias en trámite relativas a delitos de tortura, tratos o penas crueles, inhumanos o degradantes y vinculados, de las cuales conocían los Fiscales Especializados en la Investigación de Delitos cometidos por Servidores Públicos de la Fiscalía General del Estado, a quienes se les otorgó la atribución de investigar y perseguir estos hechos, a partir del 24 de septiembre de 2017. Lo anterior de conformidad con el artículo Cuarto Transitorio del Acuerdo por el que se crea la Unidad Especializada en la Investigación y Persecución de Delitos de Tortura y otros tratos o penas crueles, inhumanos o degradantes, y establece sus atribuciones, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", el día 14 de mayo de 2021.
+
+Artículo Cuarto. Se autoriza a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, realizar las adecuaciones presupuestales necesarias con motivo de la entrada en funciones de la Fiscalía Especializada en la Investigación y Persecución de delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, a fin de que la Fiscalía General del Estado de Querétaro cuente con los recursos humanos, financieros, materiales y demás necesarios para su adecuada operación.
+
+Artículo Quinto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
