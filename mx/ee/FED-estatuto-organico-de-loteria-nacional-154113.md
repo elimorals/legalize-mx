@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-loteria-nacional-154113"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-01-18"
-last_updated: "2022-01-18"
+last_updated: "2022-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154113&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-12-24"
 
 ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JULIO DE 2022.
 
 Estatuto publicado en el Diario Oficial de la Federación, el martes 18 de enero de 2022.
 
@@ -811,7 +811,11 @@ CUARTO.- Los asuntos que al momento de la entrada en vigor del presente Estatuto
 
 QUINTO.- Los procesos, procedimientos, actos, actividades, asuntos, impugnaciones y recursos iniciados antes de la entrada en vigor del presente estatuto, por el Órgano Interno de Control en Lotería Nacional para la Asistencia Pública en proceso de desincorporación, por fusión, seguirán tramitándose hasta su conclusión por el Órgano Interno de Control en Lotería Nacional, como entidad fusionante, así mismo se continuará realizando todo lo inherente a la defensa jurídica ante las diversas instancias jurisdiccionales.
 
-SEXTO.- Todas las áreas administrativas y sustantivas de la Entidad deberán actualizar la normatividad interna, en congruencia con el presente Estatuto, en un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente.
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2022)</small>
+
+SEXTO.- Todas las áreas administrativas y sustantivas de la Entidad deberán actualizar la normatividad interna, en congruencia con el presente Estatuto, a más tardar el 31 de diciembre de 2022.
+
+En este sentido la normatividad interna de Lotería Nacional y de la Lotería Nacional para la Asistencia Pública seguirá vigente, en tanto concluyen los procesos administrativos relacionados con la estructura orgánica y la normatividad interna por parte de las autoridades competentes.
 
 SÉPTIMO.- Las unidades administrativas cuya denominación o adscripción sea modificada, o se extingan en virtud de la entrada en vigor del presente Estatuto, dispondrán de lo necesario para que todos los documentos de archivo e instrumentos de consulta y control archivístico sean clasificados y trasladados a los archivos que correspondan, con el apoyo del área coordinadora de archivos de la Entidad, de conformidad con la normatividad en materia archivística y demás disposiciones jurídicas aplicables.
 
@@ -824,3 +828,11 @@ Directora General de Lotería Nacional
 Lic. Margarita González Saravia Calderón
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE MODIFICA EL TRANSITORIO SEXTO DEL ESTATUTO ORGÁNICO DE LOTERÍA NACIONAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN, EL DÍA 18 DE ENERO DE 2022".]
+
+Único.- La presente modificación al Estatuto Orgánico de Lotería Nacional entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
