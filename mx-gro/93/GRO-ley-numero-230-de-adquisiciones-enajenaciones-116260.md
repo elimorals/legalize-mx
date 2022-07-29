@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-230-de-adquisiciones-enajenaciones-116260"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-02"
-last_updated: "2016-09-02"
+last_updated: "2022-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 230 DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2022.
 
 Ley publicada en el Alcance I al Número 71 del Periódico Oficial del Estado de Guerrero, el viernes 2 de septiembre de 2016.
 
@@ -87,25 +87,35 @@ V. Comité: El Comité de Adquisiciones, Enajenaciones, Arrendamientos, Prestaci
 
 VI. Proveedor: La persona física o moral que celebre contratos de adquisiciones, arrendamientos o servicios que lleven a cabo los entes públicos mencionados en el artículo 1 de esta Ley;
 
-VII. Licitante: La persona que participe en cualquier procedimiento de licitación pública o de invitación a cuando menos tres personas;
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2022)</small>
 
-VIII. Municipio: Ente territorial de carácter político y administrativo que cuenta con un órgano de gobierno electo democráticamente denominado Ayuntamiento, los que integran el Estado de Guerrero, señalados en el artículo 27 de la Constitución Política del Estado Libre y Soberano de Guerrero;
+VII. Proveedor Local: Persona física o moral inscrita tanto en el servicio de administración tributaria, como en el padrón de proveedores, con domicilio fiscal en el Estado de Guerrero;
 
-IX. Convocante: Todos los entes públicos regulados por el artículo 1 de esta Ley que instrumenten cualquier procedimiento de adjudicación en materia de adquisición, enajenación de bienes o contratación de servicios, en la cual se convoca o invita a personas físicas o morales con interés y capacidad de presentar propuestas;
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2022)</small>
 
-X. Adquisición: Acto jurídico o administrativo por medio del cual se adquiere el dominio o propiedad de un bien mueble o inmueble;
+VIII. Proveedor Foráneo: Persona física o moral inscrita tanto en el servicio de administración tributaria, como en el padrón de proveedores, con domicilio fiscal fuera del Estado de Guerrero;
 
-XI. Dirección general: A la Dirección General de Adquisiciones y Servicios Generales dependiente de la Subsecretaría de Administración;
+IX. Licitante: La persona que participe en cualquier procedimiento de licitación pública o de invitación a cuando menos tres personas;
 
-XII. Licitación Pública: Procedimiento administrativo mediante el cual se convoca a participar públicamente con sus propuestas técnicas y económicas en cualquier adquisición de algún bien mueble, inmueble o servicio a contratar por parte de cualquier ente público;
+X. Municipio: Ente territorial de carácter político y administrativo que cuenta con un órgano de gobierno electo democráticamente denominado Ayuntamiento, los que integran el Estado de Guerrero, señalados en el artículo 27 de la Constitución Política del Estado Libre y Soberano de Guerrero.
 
-XIII. Invitación a cuando menos tres personas: Excepción al procedimiento de licitación pública por medio del cual los entes públicos adquieren bienes y contratan servicios en el cual se obtengan las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes;
+XI. Convocante: Todos los entes públicos regulados por el artículo 1 de esta Ley que instrumenten cualquier procedimiento de adjudicación en materia de adquisición, enajenación de bienes o contratación de servicios, en la cual se convoca o invita a personas físicas o morales con interés y capacidad de presentar propuestas;
 
-XIV. Adjudicación directa: Procedimiento adquisitivo de excepción a la licitación pública, mediante el cual la convocante designa al proveedor de bienes o servicios con base en las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes;
+XII. Adquisición: Acto jurídico o administrativo por medio del cual se adquiere el dominio propiedad de un bien mueble o inmueble;
 
-XV. Órganos Autónomos: Los entes de carácter público independientes de la administración pública estatal y de los demás poderes del estado con personalidad jurídica y patrimonio propios, señalados en el título octavo de la Constitución Política del Estado Libre y Soberano de Guerrero; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
 
-XVI. Pedido y/o contrato: Acto jurídico bilateral que genera la convocante, en el que se describe las características y especificaciones de los bienes muebles, inmuebles o servicios asignados y detalla las condiciones establecidas en las bases de licitación.
+XIII. Dirección general: A la Dirección General de Adquisiciones y Servicios Generales dependiente de la Subsecretaría deAdministración (sic).
+
+XIV. Licitación Pública: Procedimiento administrativo mediante el cual se convoca a participar públicamente con sus propuestas técnicas y económicas en cualquier adquisición de algún bien mueble, inmueble o servicio a contratar por parte de cualquier ente público;
+
+XV. Invitación a cuando menos tres personas: Excepción al procedimiento de licitación pública por medio del cual los entes públicos adquieren bienes y contratan servicios en el cual se obtengan las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes;
+
+XVI. Adjudicación directa: Procedimiento adquisitivo de excepción a la licitación pública, mediante el cual la convocante designa al proveedor de bienes o servicios con base en las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes;
+
+XVII. Órganos Autónomos: Los entes de carácter público independientes de la administración pública estatal y de los demás poderes del estado con personalidad jurídica y patrimonio propios, señalados en el título octavo de la Constitución Política del Estado Libre y Soberano de Guerrero; y
+
+XVIII. Pedido y/o contrato: Acto jurídico bilateral que genera la convocante, en el que se describe las características y especificaciones de los bienes muebles, inmuebles o servicios asignados y detalla las condiciones establecidas en las bases de licitación.
 
 ### CAPÍTULO II. ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
@@ -241,7 +251,11 @@ VI. Los plazos estimados de suministro, y los avances tecnológicos incorporados
 
 VII. De ser el caso, lo (sic) planos, especificaciones y programas y calendarios de ejecución, cuando se trate de adquisiciones de bienes muebles de fabricación especial o para obras públicas;
 
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
+
 VIII. Preferir la utilización de los bienes o servicios que se produzcan en el Estado y en el País, sobre los extranjeros, con especial atención a los sectores económicos cuya promoción, fomento y desarrollo estén comprendidos en los objetivos y prioridades del Plan Estatal de Desarrollo y en los Programas de Desarrollo respectivos;
+
+En las mismas condiciones de competencia, servicio, calidad, precio, entrega y las dispuestas en licitaciones, arrendamientos, servicios o invitaciones, se deberá contratar a proveedores locales en al menos el 30% de ellas; salvo que las adquisiciones, la materia prima o proveedores no existan, en el Estado, serán suministrados por proveedores foráneos nacionales o, en su caso, extranjeros.
 
 IX. Los requerimientos de conservación y mantenimiento preventivo y correctivo o de restauración de los bienes muebles a su cargo; y
 
@@ -256,6 +270,10 @@ La Secretaría, o sus equivalentes en los demás entes sujetos a esta Ley, será
 Con el objeto de obtener las mejores condiciones en cuanto a precio, calidad, tiempos de entrega y financiamiento y apoyar en condiciones de competencia a las áreas prioritarias de desarrollo en el Estado, los programas anuales referidos en el artículo anterior, servirán de base a la secretaría o sus equivalentes en los demás entes públicos que se establecen en el artículo 1, de esta Ley, para planear, programar y licitar públicamente las compras y contratación de servicios en forma consolidada, para obtener mejores beneficios en la adquisición de bienes y contratación de servicios de uso recurrente.
 
 Las dependencias y entidades se sujetarán a los calendarios de licitaciones consolidadas que determine la Secretaría, a través del Comité y, de ser necesario, modificarán sus programas anuales. El titular de la dependencia o entidad, deberá justificar por escrito ante la Secretaría, los motivos para realizar las compras y contratación de servicios de acuerdo con su propio programa.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+En las mismas condiciones de competencia, servicio, calidad, precio, entrega y las dispuestas en licitaciones, arrendamientos, servicios o invitaciones, las dependencias y entidades, deberán contratar a proveedores locales en al menos el 30% de ellas, salvo que las adquisiciones, la materia prima o los proveedores no existan en el Estado, serán suministrados por proveedores nacionales o, en su caso, extranjeros.
 
 ###### Artículo 20.
 
@@ -395,13 +413,25 @@ II. Invitación a Cuando Menos Tres Personas; y
 
 III. Adjudicación Directa.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 218, PUBLICADO EN EL P.O. DE 29 DE JULIO DE 2022, PÁGINA 33.]</small>
+
 ###### Artículo 33.
 
 Las adquisiciones, arrendamientos, servicios y enajenaciones de bienes muebles por regla general se realizarán a través de licitaciones públicas, mediante convocatoria correspondiente, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente a fin de asegurar al Estado, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
 
-Cuando las licitaciones, no sean idóneas para asegurar las mejores condiciones disponibles, el Comité, la Secretaría y las dependencias y entidades bajo su responsabilidad y en los términos de esta Ley, podrán adquirir, arrendar, contratar servicios y enajenar bienes muebles, a través del procedimiento de adjudicación por invitación a cuando menos tres personas o por adjudicación directa, según proceda, de conformidad con los montos que establezca el presupuesto de egresos del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Cuando las licitaciones, no sean idóneas para asegurar las mejores condiciones disponibles, el Comité, la Secretaría y las dependencias y entidades bajo su responsabilidad y en los términos de esta Ley, podrán adquirir, arrendar, contratar servicios y enajenar bienes muebles, a través del procedimiento de adjudicación por invitación a cuando menos tres personas o por adjudicación directa según proceda, se dará preferencia a personas físicas o morales con domicilio fiscal registrado en el Estado de Guerrero, de conformidad con los montos que establezca el presupuesto de egresos del Gobierno del Estado.
 
 La opción que las dependencias, entidades y demás entes públicos ejerzan en términos de los párrafos anteriores, deberá fundarse según las circunstancias que concurran en cada caso, en criterios de economía, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+... (SIC)
+
+I a IV... (SIC)
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Las adquisiciones del Estado, en al menos un 30%, procederán de proveedores y locales.
 
 ###### Artículo 34.
 
@@ -435,9 +465,11 @@ Solamente se realizarán licitaciones públicas de carácter internacional cuand
 
 Podrá negarse la participación de proveedores extranjeros en licitaciones internacionales cuando su país de origen no conceda trato recíproco a los proveedores nacionales de bienes o servicios mexicanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFP, P.O. 29 DE JULIO DE 2022)</small>
+
 ###### Artículo 38.
 
-En las adquisiciones, arrendamientos y servicios que se lleven a cabo, no podrá solicitarse una marca específica o una empresa determinada, salvo que existan razones técnicas debidamente fundadas.
+En las adquisiciones, arrendamientos y servicios que se lleven a cabo, no podrá solicitarse una marca específica o una empresa determinada, salvo que existan razones técnicas debidamente fundadas o que el proveedor sea guerrerense.
 
 En las licitaciones de adquisiciones, arrendamientos y servicios se asegurará que a los empresarios del Estado, se les otorgue el 6% del monto licitado, a efecto de crear empleo y desarrollar la economía del Estado, siempre y cuando cumplan con lo establecido en la convocatoria.
 
@@ -1420,3 +1452,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DE “DECRETO NÚMERO 218 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 230 DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE GUERRERO”.]
+
+ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
