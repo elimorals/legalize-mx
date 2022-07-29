@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-111371"
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-08"
-last_updated: "2019-12-13"
+last_updated: "2022-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 8 de enero de 2016.
 
@@ -75,9 +75,13 @@ III. Beneficiario, a la persona que la Dirección de Pensiones le reconozca tal 
 
 IV. Sueldo Integrado o Total de Percepciones, a todos los ingresos que el trabajador reciba por su trabajo de conformidad con el artículo 84 de la Ley Federal del Trabajo.
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2022)</small>
 
-V. Sueldo regulador, sueldo actualizado sobre el que hubiera aportado el trabajador a la Dirección de Pensiones, en los términos de ésta ley y sus artículos transitorios correspondientes.
+IV BIS. Sueldo Pensionable, al sueldo mensual sobre el que hubiera aportado el trabajador a la Dirección de Pensiones que se utilizará para el cálculo del sueldo regulador. Este último se integrará por el salario tabular más la prima de antigüedad o quinquenio.
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
+
+V. Sueldo regulador, promedio del sueldo pensionable actualizado, en los términos de esta ley y sus artículos transitorios correspondientes.
 
 VI. Junta de Gobierno, al órgano máximo de gobierno de la Dirección de Pensiones, compuesta por siete miembros.
 
@@ -85,7 +89,9 @@ VII. Presidente de la Junta de Gobierno, a aquel que presida la Junta de Gobiern
 
 VIII. Director General, el o la Titular de la Dirección General, que será electo por mayoría de votos de los integrantes de la Junta de Gobierno.
 
-IX. Comités de Administración, aquéllos encargados de la supervisión y vigilancia de cada una de las Cuentas Institucionales.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
+
+IX. Comités de Administración, aquellos encargados de la supervisión y vigilancia de cada una de las Cuentas Institucionales.
 
 X. Cuenta Institucional, las cuentas autónomas e independientes entre sí, integradas con todas y cada una de las aportaciones que esta ley establece por cada entidad u organismo, en el monto que corresponda a ellas conforme a su plantilla de trabajadores afiliados y pensionados a la Sección 38 del SNTE, a la Universidad Autónoma de Coahuila y a la Universidad Autónoma Agraria "Antonio Narro", respectivamente.
 
@@ -209,13 +215,17 @@ La falta del entero, dentro del plazo señalado, causará un cargo en contra de 
 
 Todas las cuotas y aportaciones deberán depositarse en el fondo de prestaciones económicas de las respectivas Cuentas Institucionales y serán administradas de conformidad con el último párrafo de la fracción IV de este artículo, para lo cual la Dirección de Pensiones deberá constituir por cada una de las cuentas institucionales un fideicomiso ante institución fiduciaria autorizada por la ley de la materia, sin perjuicio de que se lleve un registro de cada una de las cuotas y aportaciones a la Cuenta Individual del trabajador.
 
-Sólo podrán egresar del fondo fideicomitido los recursos necesarios para el pago de los beneficios consignados en esta ley y para el pago de gastos de administración de la Dirección de Pensiones. Los gastos de administración se harán con cargo al fondo global de cada una de las Cuentas Institucionales, respectivamente.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Sólo podrán egresar del fondo fideicomitido los recursos necesarios para el pago de los beneficios consignados en esta ley y para el pago de gastos de administración de la Dirección de Pensiones. Los gastos de administración de la Dirección de Pensiones se harán con cargo al fondo global de cada una de las Cuentas Institucionales, respectivamente.
 
 IV. El patrimonio de la Dirección de Pensiones que se forme en los términos previstos en las fracciones que anteceden, se dividirá en tres Cuentas Institucionales independientes y autónomas entre sí, en los términos de la presente ley.
 
 Estas Cuentas Institucionales se integrarán con todas y cada una de las aportaciones que establece esta ley por cada entidad u organismo, en el monto que corresponda a ellas conforme a su plantilla de trabajadores afiliados y pensionados a la Sección 38 del SNTE, a la Universidad Autónoma de Coahuila y a la Universidad Autónoma Agraria "Antonio Narro", respectivamente. Para todos los efectos legales, las instituciones que se comprendan en la fracción IV del artículo 2º de la presente ley, se entenderán integradas dentro de la Cuenta Institucional de la Sección 38 del SNTE.
 
-Cada Cuenta Institucional deberá ser destinada únicamente a cubrir las pensiones y demás prestaciones y beneficios a los trabajadores afiliados y pensionados de cada una de las entidades u organismos aportantes, según corresponda, sin que, por ningún motivo, puedan ser destinados los recursos que integren cada Cuenta Institucional a otros fines o propósitos distintos a los señalados por esta ley. En su caso, los gastos que se ocasionen por la administración de las Cuentas Institucionales correrán a cargo de su fondo global respectivo.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Cada Cuenta Institucional deberá ser destinada únicamente a cubrir las pensiones y demás prestaciones y beneficios a los trabajadores afiliados y pensionados de cada una de las entidades u organismos aportantes, así como a los gastos de administración de la Dirección de Pensiones, según corresponda, sin que, por ningún motivo, puedan ser destinados los recursos que integren cada Cuenta Institucional a otros fines o propósitos distintos a los señalados por esta ley. En su caso, los gastos que se ocasionen por la administración de las Cuentas Institucionales correrán a cargo de su fondo global respectivo.
 
 La administración, disposición y control, de las Cuentas Institucionales estará a cargo de la Junta de Gobierno con la colaboración del Director General, la supervisión a cargo de Comités de Administración; se integrará un Comité por cada una de las Cuentas Institucionales, en los términos previstos por el artículo 28 de esta ley.
 
@@ -223,11 +233,13 @@ La administración, disposición y control, de las Cuentas Institucionales estar
 
 ARTÍCULO 11 BIS. Respecto a las prestaciones de que trata el artículo 46 de la presente ley, las entidades, los organismos y los trabajadores afiliados al régimen de cuentas individuales de la Dirección de Pensiones, aportarán obligatoriamente a ésta, las cantidades siguientes:
 
-I. Para el financiamiento de la pensión de retiro por edad y antigüedad en el servicio, las entidades y organismos previstos en las fracciones I y IV del artículo 2º de esta ley, aportarán el 9% del sueldo tabular, quinquenio, en su caso riesgo profesional, para los trabajadores de la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación que dependen de ellas; la entidad a que se refieren la fracción II del artículo señalado aportarán el 9% del sueldo base y prima de antigüedad de los trabajadores que dependen de ellas; por lo que hace la entidad a que se refiere la fracción III del citado artículo cotizarán el 9 % del sueldo base.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
 
-Así mismo, para financiar esta pensión, los trabajadores aportarán el 6.5% de sus percepciones totales. Estas cuotas y aportaciones, tanto de los trabajadores como de las entidades y organismos, integran la Cuenta Individual del trabajador.
+I. Para el financiamiento de la pensión de retiro por edad y antigüedad en el servicio, así como para la pensión por retiro anticipado, las entidades y organismos previstos en las fracciones I y IV del artículo 2° de esta ley, aportarán el 10% del sueldo tabular, quinquenio, en su caso riesgo profesional, para los trabajadores de la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación que dependen de ellas; la entidad a que se refiere la fracción II del artículo señalado aportará el 10% del sueldo base y prima de antigüedad de los trabajadores que dependen de ellas; por lo que hace la entidad a que se refiere la fracción III del citado artículo cotizará el 10% del sueldo base. Así mismo, para financiar esta pensión, los trabajadores aportarán el 10% de sus percepciones totales. Estas cuotas y aportaciones, tanto de los trabajadores como de las entidades y organismos, integran la subcuenta de aportaciones obligatorias del trabajador.
 
-II. Para el financiamiento de las pensiones complementarias por inhabilitación física o mental, fallecimiento, por retiro anticipado, pensión mínima garantizada, y de las demás prestaciones que se establezcan en la ley, las entidades y organismos previstas en las fracciones I y IV del artículo 2° de esta ley, aportarán el 13% del sueldo tabular, quinquenio, en su caso riesgo profesional, para los trabajadores que dependen de ellas; la entidad a que se refieren la fracción II del artículo señalado, aportarán el 13% del sueldo base y prima de antigüedad de los trabajadores que dependen de ellas; por lo que hace la entidad a que se refiere la fracción III del citado artículo cotizarán el 13 % del sueldo base. Estas aportaciones integran el fondo global de las Cuentas Institucionales e incrementarán el patrimonio.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
+
+II. Para el financiamiento de las pensiones garantizadas por retiro por edad y antigüedad en el servicio, retiro anticipado, inhabilitación física o mental, fallecimiento y de las demás prestaciones que se establezcan en la ley, las entidades y organismos previstas en las fracciones I y IV del artículo 2° de esta ley, aportarán el 17% del sueldo tabular, quinquenio, y en su caso, riesgo profesional, para los trabajadores que dependen de ellas; la entidad a que se refiere la fracción II del artículo señalado, aportará el 17% del sueldo base y prima de antigüedad de los trabajadores que dependen de ella; por lo que hace la entidad a que se refiere la fracción III del citado artículo cotizará el 17% del sueldo base. Estas aportaciones integran el fondo global de las Cuentas Institucionales e incrementarán el patrimonio.
 
 III. Además efectuarán cotizaciones a la Dirección de Pensiones adicionales a las que se refiere la fracción I del presente artículo, las entidades y organismos previstas en las fracciones I y IV del artículo 2° de esta ley, aportarán el 43.75% del sueldo tabular, quinquenio, en su caso riesgo profesional, para los trabajadores que dependen de ellas; la entidad a que se refieren la fracción II del artículo señalado, aportarán el 43.75% del sueldo base y prima de antigüedad de los trabajadores que dependen de ellas; por lo que hace la entidad a que se refiere la fracción III del citado artículo cotizarán el 43.75 % del sueldo base. Estas aportaciones integran el fondo global de las Cuentas Institucionales e incrementarán el patrimonio. Dichas aportaciones se incrementarán en términos de esta ley.
 
@@ -239,9 +251,11 @@ La Dirección de Pensiones se considera de acreditada solvencia y no está oblig
 
 No se podrá disponer, en ningún caso y por ninguna autoridad, del patrimonio de la Dirección de Pensiones, ni a título de préstamo reintegrable, para fines o propósitos distintos a los previstos por esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 14.
 
-Las entidades y organismos que se mencionan en el artículo 2° de esta ley no adquirirán derecho alguno, ni individual, ni colectivo, sobre el fondo global o patrimonio de la Dirección de Pensiones. El trabajador sólo adquirirá derechos sobre su Cuenta Individual y sólo podrá hacer uso de ella en los términos de esta ley.
+Las entidades y organismos que se mencionan en el artículo 2° de esta ley no adquirirán derecho alguno, ni individual, ni colectivo, sobre el fondo global o patrimonio de la Dirección de Pensiones. El trabajador sólo adquirirá derechos a recibir los beneficios, así como sobre su Cuenta Individual en los términos de esta ley.
 
 En ningún caso, y bajo ninguna circunstancia las Cuentas Institucionales de cada uno de los organismos o entidades aportantes responderán de manera solidaria por los compromisos u obligaciones financieras, jurisdiccionales o cualquier otra, en las que incurran las demás.
 
@@ -252,6 +266,10 @@ En ningún caso, y bajo ninguna circunstancia las Cuentas Institucionales de cad
 Las aportaciones de las entidades y organismos y las cuotas de los trabajadores previstas en el artículo 11 y 11 BIS, serán entregadas al Director General, dentro de los cinco días siguientes a la fecha del pago de los sueldos de los trabajadores, sin perjuicio de lo previsto en el último párrafo de la fracción IV del artículo 11 de esta ley.
 
 Una vez recibidas las aportaciones el Director General dará aviso de inmediato a la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Los gastos de administración de la Dirección de Pensiones se tomarán de las Cuentas Institucionales una vez que sean enteradas a dichas Cuentas Institucionales, las cuotas y aportaciones referidas en este artículo de acuerdo con lo establecido en la presente Ley.
 
 ###### ARTÍCULO 16.
 
@@ -291,11 +309,11 @@ La Dirección de Pensiones estará obligada a efectuar los descuentos derivados 
 
 #### SECCIÓN TERCERA. DE LA INVERSIÓN Y GASTOS DE LA DIRECCIÓN DE PENSIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 21.
 
-Serán a cargo de la Dirección de Pensiones los sueldos de su personal y gastos ordinarios y extraordinarios entre los que se incluye la adquisición y mantenimiento de bienes muebles y la conservación de bienes inmuebles que acuerde su Junta de Gobierno como parte de su patrimonio. El monto de los gastos ordinarios y extraordinarios deberá ser el equivalente al 1.5% de la nómina integrada del personal activo afiliado a la Dirección de Pensiones. Este porcentaje se destinará a los gastos de mantenimiento de la Dirección de Pensiones.
+La Dirección de Pensiones ejercerá, con cargo a las Cuentas Institucionales en la proporción que corresponda, los sueldos de su personal y gastos ordinarios y extraordinarios entre los que se incluye la adquisición de materiales y suministros, servicios generales, la adquisición y mantenimiento de bienes intangibles, muebles e inmuebles y la conservación o construcción de bienes intangibles, muebles e inmuebles que acuerde su Junta de Gobierno como parte de su patrimonio. Para cada cuenta institucional el monto de los gastos ordinarios y extraordinarios no deberá exceder del equivalente al máximo entre el 1.5% de la nómina integrada del personal activo afiliado y el 1.5% de la nómina de pensionados a cargo de cada cuenta institucional de la Dirección de Pensiones. Este porcentaje se destinará a los gastos de operación de la Dirección de Pensiones.
 
 Cuando las aportaciones para gastos de administración descritos en el párrafo anterior resulten insuficientes, la Dirección de Pensiones podrá solicitar un estudio financiero y contable para determinar la fórmula más equitativa del reparto de dichos gastos, tomando en cuenta la población afiliada y pensionada. Esta fórmula deberá someterse a la aprobación de la Junta de Gobierno.
 
@@ -303,9 +321,9 @@ Cuando las aportaciones para gastos de administración descritos en el párrafo 
 
 Las reservas para cuentas individuales y demás prestaciones económicas, se deben constituir con las cantidades que resulten de las diferencias entre los ingresos por cuotas y aportaciones y los egresos por pago de pensiones, gastos ordinarios y extraordinarios y por todas las demás prestaciones económicas contenidas en este ordenamiento, excepto préstamos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
 
-Las referidas reservas podrán destinarse a las pensiones en curso de pago, siempre que no se afecte el pago de las cuentas individuales cuando éstas sean exigibles, con un interés superior a la inflación, sin que pueda exceder de dos veces el promedio de la Tasa de Interés Interbancaria de Equilibrio (TIIE) correspondiente al mes en el cual las cuotas y aportaciones fueron enteradas y registradas en la Dirección de Pensiones.
+Las referidas reservas podrán destinarse a las pensiones en curso de pago, siempre que no se afecte el pago de las cuentas individuales cuando éstas sean exigibles. La disposición de estos recursos para tales efectos generará un interés equivalente a dos puntos porcentuales por arriba de la Tasa de Interés Interbancaria de Equilibrio (TIIE) vigente durante el plazo en que se utilicen y será con cargo a las entidades patronales que hayan dispuesto de ellos.
 
 ###### ARTÍCULO 23.
 
@@ -759,6 +777,10 @@ II. Pensión por retiro anticipado;
 
 III. Pensión por Inhabilitación Física o Mental;
 
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2022)</small>
+
+III BIS. Pensión por fallecimiento del Trabajador o Pensionado;
+
 IV. Préstamos; y
 
 V. Los demás que se establezcan en esta ley.
@@ -809,13 +831,13 @@ Los beneficios que establece esta ley se proporcionarán de acuerdo con las posi
 
 En caso de que la Dirección de Pensiones reciba solicitudes para gozar de los beneficios que esta ley establece, excepción hecha de las relativas a pensiones y gastos de funeral, y no esté en condiciones financieras de concederlas, acordadas que sean de conformidad dichas peticiones, se sujetará su otorgamiento cuando ello sea posible, al orden en que fueron presentadas.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 51.
 
-En caso de que los recursos del fondo global de la Dirección de Pensiones no bastaren para cubrir los beneficios que esta ley establece, el déficit, cualquier que sea su monto, será cubierto por las entidades u organismos donde presten o prestaron sus servicios los trabajadores descritos en el artículo 2 de esta Ley, en la proporción que a cada uno corresponda, de acuerdo con la plaza que hubiere desempeñado el trabajador y que originó el beneficio de la pensión.
+En caso de que los recursos del fondo global de la Dirección de Pensiones no bastaren para cubrir los beneficios que esta ley establece, el déficit, cualquier que sea su monto incluidos los gastos de administración, será cubierto por las entidades u organismos donde presten o prestaron sus servicios los trabajadores descritos en el artículo 2 de esta Ley, en la proporción que a cada uno corresponda, de acuerdo con la plaza que hubiere desempeñado el trabajador y que originó el beneficio de la pensión.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-Las aportaciones antes referidas deberán ser enteradas a la Dirección de Pensiones dentro de los cinco días siguientes a que ésta informe el costo de la nómina de los pensionados sujetos al fondo global.
+Las aportaciones antes referidas deberán ser enteradas a la Dirección de Pensiones dentro de los cinco días siguientes a que ésta informe el costo de la nómina de los pensionados y, en su caso, de los gastos de administración, con cargo al fondo global.
 
 (NOTA: EL 9 DE JULIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2016 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -873,9 +895,9 @@ Es nula toda enajenación, cesión o gravamen de las pensiones que esta ley esta
 
 La Dirección de Pensiones, podrá deducir descuentos derivados de adeudos contraídos por el pensionado con dicha entidad o por pagos hechos en exceso o indebidos por ésta, distintos a los préstamos, siempre y cuando estos no sobrepasen el 30% del monto mensual de las pensiones.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
 
-Se podrán hacer retenciones, descuentos o deducciones de las pensiones, por adeudos contraídos por quienes las perciban con las entidades y organismos referidos al del artículo 2 de esta ley, de las cantidades excedentes del 30% referido en el párrafo anterior, siempre y cuando se salvaguarde de la pensión el equivalente al salario mínimo general vigente elevado al mes.
+Se podrán hacer retenciones, descuentos o deducciones de las pensiones, por adeudos contraídos por quienes las perciban con las entidades y organismos referidos en el artículo 2 de esta ley, de las cantidades excedentes del 30% referido en el párrafo anterior, siempre y cuando se salvaguarde de la pensión el equivalente al salario mínimo general vigente elevado al mes.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -901,7 +923,9 @@ Para efectos de esta ley se entenderá por capital constitutivo, el cálculo act
 
 Una parte del capital constitutivo deberá depositarse en el fondo global de la Dirección de Pensiones y otra parte en la Cuenta Individual del trabajador.
 
-La parte del capital constitutivo que deberá depositarse en la subcuenta obligatoria de la Cuenta Individual, será equivalente al resultado de multiplicar los años de antigüedad a reconocer por la suma de porcentajes establecidos en el artículo 11, fracción, I, inciso a), y por la percepción anual del trabajador a la fecha de afiliación a la Dirección de Pensiones.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
+La parte del capital constitutivo que deberá depositarse en la subcuenta obligatoria de la Cuenta Individual, será equivalente al resultado de multiplicar los años de antigüedad a reconocer por la suma de porcentajes establecidos en el artículo 11 BIS, fracción I y por la percepción anual del trabajador a la fecha de afiliación a la Dirección de Pensiones.
 
 La parte del capital constitutivo que deberá depositarse en el fondo global será equivalente a la diferencia que exista entre el propio capital constitutivo y la parte a depositar en la Cuenta Individual a que se hace mención en el párrafo anterior.
 
@@ -971,11 +995,11 @@ Las pensiones serán cobradas mensualmente a la Dirección de Pensiones por los 
 
 En este último caso, los apoderados deberán presentar la documentación que les acredite con este carácter, la cual deberá ser renovada cada seis meses.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 67.
 
-El monto de las pensiones bajo el régimen de cuentas individuales se incrementará anualmente en el mismo porcentaje en que aumente la Unidad de Medida y Actualización.
+El monto de las rentas vitalicias provenientes de las cuentas individuales se incrementará anualmente en el mismo porcentaje en que aumente la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -991,133 +1015,161 @@ Cuando el trabajador desempeñe simultáneamente varios empleos, el cómputo se 
 
 #### SECCIÓN SEGUNDA. DE LAS PENSIONES DE RETIRO POR EDAD Y ANTIGUEDAD EN EL SERVICIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 70.
 
-Tienen derecho a recibir la pensión de retiro por edad y antigüedad en el servicio aquellos trabajadores cuya edad y antigüedad sumen al menos 94 años.
+Tienen derecho a recibir la pensión de retiro por edad y antigüedad en el servicio aquellos trabajadores que cuenten con al menos 30 años de servicio y 65 años de edad.
 
-Cuando el trabajador desempeñe simultáneamente dos o más empleos sujetos al régimen de cotización de la Dirección de Pensiones, deberá darse de baja en todos para ejercer los derechos a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 71.
 
-El monto de la pensión de retiro por edad y antigüedad en el servicio será el resultado del cálculo actuarial individual que se efectúe a la fecha de la solicitud de pensión, tomando en consideración el saldo acumulado en la subcuenta de aportaciones obligatorias a que se refiere el artículo 88, y su disposición estará sujeta a lo establecido en el artículo 91, de esta ley.
+El monto de la pensión de retiro por edad y antigüedad en el servicio será la renta vitalicia que se calcule a la fecha de la solicitud de pensión, tomando en consideración el saldo acumulado en la subcuenta de aportaciones obligatorias a que se refiere el artículo 88, y sujeta a lo establecido en el artículo 91, de esta ley.
 
-Si el resultado del monto de la pensión a que se refiere el párrafo anterior es inferior al de la pensión garantizada que este artículo señala, la Dirección de Pensiones, con cargo al fondo global de la Cuenta Institucional correspondiente, complementará la diferencia que resulte, siempre que el aportante haya cumplido con los supuestos del artículo 70, y aportado durante treinta años o más a la Dirección de Pensiones.
+En caso de que el trabajador hubiera cumplido con los requisitos del artículo 70 y la renta vitalicia resultante de la cuenta individual fuera inferior a la pensión garantizada que este artículo señala, la subcuenta de aportaciones obligatorias pasará a formar parte del Fondo Global de la Cuenta Institucional que corresponda. El pago de la pensión garantizada se realizará con cargo a esta última.
 
-Para efectos de comparación entre la pensión que resulte de la subcuenta de aportaciones obligatorias señalada en el primer párrafo de este artículo y la pensión garantizada, se procederá a elaborar el cálculo actuarial individual considerando la pensión vitalicia del trabajador y la de sus beneficiarios con todas sus prestaciones incluyendo la gratificación de fin de año, en los términos de esta ley.
+Para efectos de comparación entre la pensión que resulte de la subcuenta de aportaciones obligatorias señalada en el primer párrafo de este artículo y la pensión garantizada por retiro por edad y antigüedad en el servicio, se procederá a elaborar el cálculo actuarial individual considerando la pensión vitalicia del trabajador y la de sus beneficiarios con todas sus prestaciones incluyendo la gratificación de fin de año, en los términos de esta ley.
 
-El monto de la pensión garantizada se calculará en base al sueldo regulador.
+El monto de la pensión garantizada por retiro por edad y antigüedad en el servicio, se calculará en base al sueldo regulador. Este último se calculará como el promedio ponderado de los sueldos pensionables de los últimos 5 años de servicio, previa actualización mediante el índice Nacional de Precios al Consumidor.
 
-El sueldo regulador no podrá ser mayor que la última percepción neta devengada por el trabajador.
+El sueldo regulador mensual no podrá ser mayor que el último sueldo pensionable mensual devengado por el trabajador ni mayor a 20 Unidades de Medida y Actualización.
 
-Para determinar el monto de la pensión garantizada, se deberá efectuar el cálculo que permita establecer la equivalencia del sueldo regulador en salarios mínimos, en base al salario mínimo general vigente en el Estado a la fecha de la solicitud.
-
-El sueldo regulador en los términos del párrafo anterior será ubicado dentro de los límites mínimo y máximo de la tabla contenida en este artículo; al excedente del límite inferior se le aplica el porcentaje indicado y el resultado se adiciona a la pensión base correspondiente, obteniéndose así la pensión garantizada.
-
-NUMERO DE VECES DEL SALARIO PORCENTAJE A APLICARSE
-
-MÍNIMO GENERAL VIGENTE EN SOBRE EL EXCEDENTE
-
-EL ESTADO DEL LÍMITE INFERIOR
-
-LÍMITE LÍMITE PENSIÓN
-
-INFERIOR SUPERIOR BASE
-
-1 1.99 1 90 %
-
-2 2.99 1.8 80 %
-
-3 3.99 2.6 70 %
-
-4 4.99 3.3 60 %
-
-5 5.99 3.9 50 %
-
-6 en adelante 4.4 40 %
+La pensión garantizada por retiro por edad y antigüedad en el servicio será el 90% del sueldo regulador descrito en este artículo.
 
 #### SECCIÓN TERCERA. DE LAS PENSIONES POR RETIRO ANTICIPADO
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 72.
 
-Los trabajadores que tengan cuando menos 63 años de edad y al menos 25 años de cotizar al sistema pensionario previsto en esta ley, tienen derecho a recibir la pensión por retiro anticipado, en el momento en que ésta ocurra.
+Los trabajadores que tengan cuando menos 60 años de edad y al menos 15 años de cotizar al sistema pensionario previsto en esta ley, tendrán derecho a recibir la pensión por retiro anticipado.
 
-El monto de la pensión por retiro anticipado será el resultado del cálculo actuarial individual que se efectúe a la fecha de la solicitud de pensión, considerando el saldo acumulado en la subcuenta de aportaciones obligatoria a que se refiere el artículo 88, estando sujeta su disposición a lo establecido por el artículo 91 de esta ley.
+El monto de la pensión por retiro anticipado será la renta vitalicia que se calcule a la fecha de la solicitud de pensión, considerando el saldo acumulado en la subcuenta de aportaciones obligatoria a que se refiere el artículo 88, estando sujeta a lo establecido por el artículo 91 de esta ley.
 
-La pensión a que se refiere el presente artículo es incompatible con las pensiones previstas en esta ley. El trabajador que solicite esta pensión, perderá automáticamente los derechos referentes a la pensión mínima garantizada prevista en el artículo 71 de esta ley.
+Cuando la renta vitalicia resultante de la cuenta individual fuera inferior a la pensión garantizada por retiro anticipado que este artículo señala, la subcuenta de aportaciones obligatorias pasará a formar parte del Fondo Global de la Cuenta Institucional que corresponda. El pago de la pensión garantizada se realizará con cargo a esta última.
+
+Para efectos de comparación entre la pensión que resulte de la subcuenta de aportaciones obligatorias señalada en el segundo párrafo de este artículo y la pensión garantizada por retiro anticipado, se procederá a elaborar el cálculo actuarial individual considerando la pensión vitalicia del trabajador y la de sus beneficiarios con todas sus prestaciones incluyendo la gratificación de fin de año, en los términos de esta ley.
+
+El monto de la pensión garantizada por retiro anticipado se calculará en base al sueldo regulador. Este último será el promedio ponderado de los sueldos pensionables de los últimos 5 años de servicio, previa actualización mediante el índice Nacional de Precios al Consumidor.
+
+El sueldo regulador mensual no podrá ser mayor que el último sueldo pensionable mensual devengado por el trabajador ni mayor a 20 Unidades de Medida y Actualización.
+
+La pensión garantizada por retiro anticipado será el resultado de la multiplicación del sueldo regulador por el factor A y por el factor B descritos en las siguientes tablas:
+
+Factor A.
+
+Edad Porcentaje
+
+60 0.75
+
+61 0.80
+
+62 0.85
+
+63 0.90
+
+64 0.95
+
+65 o más 1.00
+
+Factor B
+
+Antigüedad Porcentaje
+
+15 0.5000
+
+16 0.5250
+
+17 0.5500
+
+18 0.5750
+
+19 0.6000
+
+20 0.6250
+
+21 0.6500
+
+22 0.6750
+
+23 0.7000
+
+24 0.7250
+
+25 0.7500
+
+26 0.7800
+
+27 0.8100
+
+28 0.8400
+
+29 0.8700
+
+30 o más 0.9000
 
 #### SECCIÓN CUARTA. DE LAS PENSIONES POR INHABILITACION FÍSICA O MENTAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 73.
 
 El trabajador que sea inhabilitado física o mentalmente tendrá derecho a recibir una pensión por inhabilitación, la cual podrá derivar de una:
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+I. Incapacidad total y permanente;
 
-I. Incapacidad total y permanente
+II. Invalidez definitiva.
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+El derecho al pago de la pensión comenzará a partir de la fecha en que sea declarada la incapacidad total y permanente o invalidez definitiva del trabajador y ésta sea aprobada por la Junta de Gobierno, causando baja de la entidad u organismo de su adscripción. El monto de la pensión será la renta vitalicia que se calcule a la fecha de la solicitud de pensión, tomando en consideración el saldo acumulado en la subcuenta de aportaciones obligatorias a que se refiere el artículo 88, estando sujeta a lo establecido por el artículo 91 de esta ley.
 
-II. Invalidez definitiva
+Cuando la renta vitalicia resultante de la cuenta individual fuera inferior a la pensión garantizada por inhabilitación que este artículo señala, la subcuenta de aportaciones obligatorias pasará a formar parte del Fondo Global de la Cuenta Institucional que corresponda. El pago de la pensión garantizada se realizará con cargo a esta última.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+La pensión garantizada por inhabilitación será un porcentaje de la última percepción base de cotización de acuerdo con la siguiente tabla:
 
-El derecho al pago de la pensión comenzará a partir de la fecha en que sea declarada la incapacidad total y permanente o invalidez definitiva del trabajador y ésta sea aprobada por la Junta de Gobierno, causando baja de la entidad u organismo de su adscripción. El monto de la pensión será el resultado del cálculo actuarial individual que se efectúe a la fecha de la solicitud de pensión, tomando en consideración el saldo acumulado en la subcuenta de aportaciones obligatorias a que se refiere el artículo 88 de esta ley.
-
-Para efectos del cálculo a que se refiere el párrafo anterior deberá considerarse la pensión vitalicia del trabajador y la pensión de sus beneficiarios con todas sus prestaciones en los términos del artículo 91 de esta ley.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-Cuando el monto de la pensión a que se refieren los párrafos anteriores, resulte inferior al de la pensión obtenida como resultado de aplicar a la última percepción base de cotización los porcentajes señalados en la tabla contenida en este artículo, la Dirección de Pensiones, con cargo al fondo global de la Cuenta Institucional correspondiente, complementará la diferencia que resulte para efectos de otorgar la pensión de conformidad a la tabla de referencia.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-ANTIGÜEDAD EN EL SERVICIO PORCENTAJE DEL SUELDO
+ANTIGÜEDAD EN EL PORCENTAJE DEL SUELDO
 
 HOMBRE MUJER
 
-De 1 a 5 años 25 % 25 %
+De 1 a 5 años 25% 25%
 
-De 5 años un día a 10 años 35 % 35 %
+De 5 años un día a 10 años 35% 35%
 
-De 10 años un día a 15 años 45 % 45 %
+De 10 años un día a 15 años 45% 45%
 
-De 15 años un día a 16 años 50 % 50 %
+De 15 años un día a 16 años 50% 50%
 
-De 16 años un día a 20 años 55 % 55 %
+De 16 años un día a 20 años 55% 55%
 
-De 20 años un día a 21 años 58 % 58 %
+De 20 años un día a 21 años 58% 58%
 
-De 21 años un día a 22 años 61 % 61 %
+De 21 años un día a 22 años 61% 61%
 
-De 22 años un día a 23 años 64 % 64 %
+De 22 años un día a 23 años 64% 64%
 
-De 24 años un día a 25 años 67 % 67 %
+De 24 años un día a 25 años 67% 67%
 
-De 25 años un día a 26 años 70 % 70 %
+De 25 años un día a 26 años 70% 70%
 
-De 26 años un día a 27 años 73 % 73 %
+De 26 años un día a 27 años 73% 73%
 
-De 27 años un día a 28 años 76 % 76 %
+De 27 años un día a 28 años 76% 76%
 
-De 28 años un día a 29 años 79 % 79 %
+De 28 años un día a 29 años 79% 79%
 
-De 29 años un día a 30 años 82 % 82 %
+De 29 años un día a 30 años 82% 82%
 
-De 30 años un día a 31 años 85 % 85 %
+De 30 años un día a 31 años 85% 85%.
 
-De 31 años un día a 32 años 88 % 88 %
+De 31 años un día a 32 años 88% 88%
 
-De 32 años un día a 33 años 91 % 91 %
+De 32 años un día a 33 años 91% 91%
 
-De 33 años un día a 34 años 94 % 94 %
+De 33 años un día a 34 años 94% 94%
 
-De 34 años un día a 35 años 97 % 100 %
+De 34 años un día a 35 años 97% 100%
 
-De 36 años en adelante 100 % 100 %
+De 36 años en adelante 100% 100%
 
 Cuando el trabajador tenga un saldo acumulado en la subcuenta de aportaciones obligatorias de su Cuenta Individual que sea mayor al necesario para otorgar la pensión resultante de la aplicación de la tabla anterior, éste podrá optar por lo siguiente:
 
@@ -1207,7 +1259,13 @@ Los familiares del trabajador fallecido, en el orden que establece el artículo 
 
 Para efectos del cálculo a que se refiere el párrafo anterior, deberá considerarse la pensión total de los familiares beneficiarios con todas sus prestaciones en los términos del artículo 91.
 
-Cuando el monto de la pensión a que se refieren los párrafos anteriores, resulte inferior al de la pensión obtenida como resultado de aplicar a la última percepción base de cotización la tabla de porcentajes contenida en el artículo 73 de esta ley, la Dirección de Pensiones complementará, con cargo al fondo global de la Cuenta Institucional correspondiente, la diferencia para otorgar la pensión a que, de conformidad a la tabla de referencia, tienen derecho los beneficiarios, considerando que el monto de las pensiones establecidas en el artículo 72 irá disminuyendo como se indica en la siguiente tabla:
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Cuando la renta vitalicia resultante de la cuenta individual fuera inferior a la pensión garantizada por fallecimiento que este artículo señala, la subcuenta de aportaciones obligatorias pasará a formar parte del Fondo Global de la Cuenta Institucional que corresponda. El pago de la pensión garantizada se realizará con cargo a esta última.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2022)</small>
+
+La pensión garantizada por fallecimiento será un porcentaje de la última percepción base de cotización de acuerdo con la tabla descrita en el artículo 73°, misma que irá disminuyendo como se indica en la siguiente tabla:
 
 Primer Año se recibirá el 100 %
 
@@ -1229,9 +1287,9 @@ I. Retirar la suma excedente de su Cuenta Individual en una sola exhibición; o
 
 II. Aplicar el excedente para incrementar el monto de su pensión.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
 
-En caso de fallecimiento de un pensionado por edad y antigüedad en el servicio, por retiro anticipado o por inhabilitación física o mental, sus beneficiarios gozarán de una pensión igual a la que percibía el titular a la fecha de su fallecimiento, lo cual debe considerarse para efectos del cálculo actuarial a que se refieren los artículos 71, 72, 73 y 81 de esta ley.
+En caso de fallecimiento de un pensionado por edad y antigüedad en el servicio, por retiro anticipado o por inhabilitación física o mental, sus beneficiarios gozarán de una pensión igual a la que percibía el titular a la fecha de su fallecimiento, la cual considerará la reducción descrita en el presente artículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -1313,9 +1371,11 @@ La inversión de los recursos de la Cuenta Individual, deberá hacerse en las me
 
 Los trabajadores en cualquier momento, podrán solicitar a la Dirección de Pensiones su estado de Cuenta Individual.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2022)</small>
+
 ###### ARTÍCULO 91.
 
-El trabajador que adquiera el derecho a disfrutar una pensión de retiro por edad y antigüedad en el servicio o cualquier otra prestación señalada en esta ley, previo cumplimiento de los requisitos establecidos para estos efectos, recibirá una renta vitalicia, que es el contrato por el cual la Dirección, a cambio de recibir los recursos acumulados en la Cuenta Individual, se obliga a pagar periódicamente, de conformidad al cálculo actuarial, una pensión durante la vida del pensionado y/o para sus beneficiarios en la forma y términos a que se refiere esta ley.
+El trabajador que adquiera el derecho a disfrutar una pensión de retiro por edad y antigüedad en el servicio o cualquier otra prestación señalada en esta ley, previo cumplimiento de los requisitos establecidos para estos efectos, recibirá una renta vitalicia, que es el contrato por el cual la Dirección, a cambio de recibir los recursos acumulados en la Cuenta Individual, se obliga a pagar periódicamente, de conformidad al cálculo actuarial, una pensión durante la vida del pensionado y/o para sus beneficiarios con todas sus prestaciones incluyendo la gratificación de fin de año en la forma y términos a que se refiere esta ley.
 
 Previa solicitud del trabajador, el monto constitutivo de la subcuenta de aportaciones voluntarias se podrá retirar en una sola exhibición o bien aplicarlo para incrementar los importes de la renta vitalicia.
 
@@ -2084,3 +2144,123 @@ P.O. 13 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 244.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Para los efectos de las pensiones por edad y antigüedad en el servicio y pensiones por retiro anticipado, los trabajadores que ingresaron al servicio con fecha a partir del 1 de enero de 2001 y hasta la fecha de entrada en vigor del presente decreto, podrán optar por las condiciones que establece el artículo cuarto transitorio del presente decreto o bien por apegarse a lo establecido en los artículos 70°, 71 y 72 de la presente Ley.
+
+TERCERO. El trabajador que se encuentre en las condiciones del artículo transitorio anterior y desee apegarse a lo establecido en los artículos 70°, 71 y 72 de la presente Ley, deberá manifestarlo por escrito de acuerdo con los mecanismos que para tal efecto implemente la Dirección de Pensiones.
+
+Para manifestar su decisión el trabajador tendrá noventa días naturales contados a partir de la entrada en vigor del presente decreto. En caso de no manifestar su decisión dentro del plazo establecido, se entenderá que el trabajador opta por lo establecido en el artículo cuarto transitorio del presente decreto.
+
+CUARTO. Los trabajadores que no hubieran manifestado apegarse a lo establecido en los artículos 70°, 71 y 72 de esta Ley, en los términos del artículo tercero transitorio del presente decreto, se les aplicarán las siguientes modalidades:
+
+I. Para los efectos de la pensión por retiro por edad y antigüedad en el servicio a que se refieren los artículos 70° y 71 de la presente Ley, se regirán por lo que se señala a continuación:
+
+a. Tendrán derecho a recibir la pensión aquellos trabajadores cuya edad y antigüedad sumen al menos 94 años.
+
+Cuando el trabajador desempeñe simultáneamente dos o más empleos sujetos al régimen de cotización de la Dirección de Pensiones, deberá darse de baja en todos para ejercer los derechos a que se refiere el párrafo anterior.
+
+b. El monto de la pensión será la renta vitalicia que se calcule a la fecha de la solicitud de pensión, tomando en consideración el saldo acumulado en la subcuenta de aportaciones obligatorias a que se refiere el artículo 88, y su disposición estará sujeta a lo establecido en el artículo 91, de esta ley.
+
+En caso de que el trabajador hubiera cotizado durante 30 años o más a la Dirección de Pensiones, cumplido con los requisitos del inciso anterior y la renta vitalicia resultante de la cuenta individual fuera inferior a la pensión garantizada que este inciso señala, la subcuenta de aportaciones obligatorias pasará a formar parte del Fondo Global de la Cuenta Institucional que corresponda. El pago de la pensión garantizada por retiro por edad y antigüedad en el servicio se realizará con cargo a esta última.
+
+Para efectos de comparación entre la pensión que resulte de la subcuenta de aportaciones obligatorias señalada en el primer párrafo de este inciso y la pensión garantizada, se procederá a elaborar el cálculo actuarial individual considerando la pensión vitalicia del trabajador y la de sus beneficiarios con todas sus prestaciones incluyendo la gratificación de fin de año, en los términos de esta ley.
+
+El monto de la pensión garantizada se calculará en base al sueldo regulador. Este último se calculará como el promedio ponderado de los sueldos pensionables de los últimos 30 años de servicio, previa actualización mediante el índice Nacional de Precios al Consumidor.
+
+El sueldo regulador no podrá ser mayor que la última percepción neta devengada por el trabajador.
+
+Para determinar el monto de la pensión garantizada, se deberá efectuar el cálculo que permita establecer la equivalencia del sueldo regulador en salarios mínimos diarios, en base al salario mínimo general vigente en el Estado a la fecha de la solicitud.
+
+El sueldo regulador en los términos del párrafo anterior será ubicado dentro de los límites mínimo y máximo de la tabla contenida en este artículo; al excedente del límite inferior se le aplica el porcentaje indicado y el resultado se adiciona a la pensión base correspondiente, obteniéndose así la pensión garantizada por retiro por edad y antigüedad en el servicio.
+
+NÚMERO DE VECES DEL SALARIO PORCENTAJE A APLICARSE
+
+MÍNIMO GENERAL SOBRE EL EXCEDENTE
+
+VIGENTE EN EL ESTADO DEL LÍMITE INFERIOR
+
+LÍMITE LÍMITE PENSIÓN
+
+INFERIOR SUPERIOR BASE
+
+1 1.99 1 90%
+
+2 2.99 1.8 80%
+
+3 3.99 2.6 70 %
+
+4 4.99 3.3 60 %
+
+5 5.99 3.9 50%
+
+6 en adelante 4.4 40 %
+
+II. Para los efectos de la pensión por retiro anticipado a que se refiere el artículo 72 de la presente Ley, se regirán por lo que se señala a continuación:
+
+a. Los trabajadores que tengan cuando menos 63 años de edad y al menos 25 años de cotización, tienen derecho a recibir la pensión por retiro anticipado.
+
+b. El monto de la pensión será la renta vitalicia que se calcule a la fecha de la solicitud de pensión, considerando el saldo acumulado en la subcuenta de aportaciones obligatoria a que se refiere el artículo 88, estando sujeta a lo establecido por el artículo 91 de esta ley.
+
+La pensión a que se refiere la presente fracción es incompatible con las pensiones previstas en esta ley. El trabajador que solicite esta pensión perderá automáticamente los derechos referentes a la pensión garantizada prevista en la fracción I del presente artículo.
+
+QUINTO. Tratándose de las aportaciones para el financiamiento de la pensión por retiro por edad y antigüedad en el servicio, así como de la pensión por retiro anticipado de los trabajadores que eligieron apegarse a lo establecido en el artículo cuarto transitorio del presente decreto, referidas en la fracción I del artículo 11 BIS, serán como se señala a continuación:
+
+Las entidades y organismos previstos en las fracciones I y IV del artículo 2° de esta ley, aportarán el 9% del sueldo tabular, quinquenio, en su caso riesgo profesional, para los trabajadores de la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación que dependen de ellas; la entidad a que se refiere la fracción II del artículo señalado aportará el 9% del sueldo base y prima de antigüedad de los trabajadores que dependen de ellas; por lo que hace la entidad a que se refiere la fracción III del citado artículo cotizará el 9% del sueldo base.
+
+Así mismo, los trabajadores aportarán el 6.5% de sus percepciones totales. Estas cuotas y aportaciones, tanto de los trabajadores como de las entidades y organismos, integran la subcuenta de aportaciones obligatorias del trabajador.
+
+SEXTO. Las aportaciones para el financiamiento de las pensiones garantizadas por retiro por edad y antigüedad en el servicio, retiro anticipado, inhabilitación física o mental, fallecimiento, y de las demás prestaciones que se establezcan en la ley de los trabajadores que eligieron apegarse a lo establecido en el artículo cuarto transitorio del presente decreto, referidas en la fracción II del artículo 11 BIS, serán como se señala a continuación:
+
+Las entidades y organismos previstas en las fracciones I y IV del artículo 2° de esta ley, aportarán el 13% del sueldo tabular, quinquenio, en su caso riesgo profesional, para los trabajadores que dependen de ellas; la entidad a que se refiere la fracción II del artículo señalado, aportará el 13% del sueldo base y prima de antigüedad de los trabajadores que dependen de ella; por lo que hace la entidad a que se refiere la fracción III del citado artículo, cotizará el 13% del sueldo base. Estas aportaciones integran el fondo global de las Cuentas Institucionales e incrementarán el patrimonio.
+
+SÉPTIMO. Las aportaciones para el financiamiento de la pensión por retiro por edad y antigüedad en el servicio, así como de la pensión por retiro anticipado, de los trabajadores que manifestaron apegarse a lo establecido en los artículos 70°, 71 y 72 de la presente Ley, referidas en la fracción I del artículo 11 BIS, serán como se señala a continuación:
+
+Durante el año 2022, las entidades y organismos previstos en las fracciones I y IV del artículo 2° de esta ley, aportarán el 9% del sueldo tabular, quinquenio, y en su caso riesgo profesional, para los trabajadores de la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación que dependen de ellas; la entidad a que se refiere la fracción II del artículo señalado aportará el 9% del sueldo base y prima de antigüedad de los trabajadores que dependen de ella; por lo que hace la entidad a que se refiere la fracción III del citado artículo cotizará el 9% del sueldo base. A partir del año 2023, las aportaciones serán como lo establece el primer párrafo de la fracción I del artículo 11 BIS de esta Ley.
+
+Así mismo, los trabajadores aportarán un porcentaje de sus percepciones totales como se indica a continuación:
+
+Año Porcentaje
+
+2022 6.50%
+
+2023 7.00%
+
+2024 7.50%
+
+2025 8.00%
+
+2026 8.50%
+
+2027 9.00%
+
+2028 9.50%
+
+A partir del año 2029, las aportaciones de los trabajadores serán como lo establece el segundo párrafo de la fracción I del artículo 11 BIS de esta Ley.
+
+OCTAVO. Tratándose de las aportaciones para el financiamiento de las pensiones garantizadas por retiro por edad y antigüedad en el servicio, retiro anticipado, inhabilitación física o mental, fallecimiento, y de las demás prestaciones que se establezcan en la ley, de los trabajadores que manifiesten apegarse a lo establecido en los artículos 70°, 71 y 72 de la presente Ley, referidas en la fracción II del artículo 11 BIS, serán como se señala a continuación:
+
+Las entidades y organismos previstas en las fracciones I y IV del artículo 2° de esta ley, aportarán sobre el sueldo tabular, quinquenio, en su caso riesgo profesional, para los trabajadores que dependen de ellas; la entidad a que se refiere la fracción II del artículo señalado, aportará sobre el sueldo base y prima de antigüedad de los trabajadores que dependen de ella; por lo que hace la entidad a que se refiere la fracción III del citado artículo cotizará sobre el sueldo base. El porcentaje de aportación se describe en la siguiente tabla:
+
+Año Porcentaje
+
+2022 13.00%
+
+2023 14.00%
+
+2024 15.00%
+
+2025 16.00%
+
+A partir del año 2026, las aportaciones serán como lo establece la fracción II del artículo 11 BIS de esta Ley.
+
+NOVENO. A aquellos trabajadores que durante el periodo de 1995 a 2010 hubieran ingresado al programa de inglés en primaria sin contar con plaza que implicara una afiliación al Sistema de Pensiones establecido en la presente Ley, sus años de cotización, para efecto del cálculo de las pensiones que establece el presente ordenamiento, se computarán incluyendo los años de servicio prestados en dicho programa.
+
+El reconocimiento de los años de cotización a que se refiere el párrafo anterior, estará sujeto a que los mismos queden debidamente acreditados de acuerdo con los mecanismos y en los plazos que para tal efecto determine la Dirección de Pensiones.
+
+DÉCIMO. Se deroga lo establecido en el artículo sexto transitorio del decreto 1176 publicado en el periódico oficial número 103, de fecha 26 de diciembre de 2017.
