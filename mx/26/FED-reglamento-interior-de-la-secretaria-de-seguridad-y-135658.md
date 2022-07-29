@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-seguridad-y-135658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-30"
-last_updated: "2020-12-11"
+last_updated: "2022-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2019-04-25"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JULIO DE 2022.
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 30 de abril de 2019
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 30 de abril de 2019.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -55,7 +55,9 @@ IV. Reglamento: al presente ordenamiento.
 
 Al frente de la Secretaría habrá un Secretario, quien para el despacho de los asuntos de su competencia, se auxiliará de servidores públicos, unidades administrativas, Órganos Administrativos Desconcentrados y unidades subalternas siguientes:
 
-A. Servidores públicos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE JULIO DE 2022)</small>
+
+A. La persona servidora pública titular de la Subsecretaría de Seguridad Pública;
 
 I. Subsecretario de Seguridad Pública, y
 
@@ -151,9 +153,11 @@ VII. Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, y
 
 D. Unidades subalternas, las que figuren en su estructura autorizada, cuya adscripción y funciones serán establecidas en el Manual de Organización General de la Secretaría y, en su caso, en los manuales de organización específicos de sus unidades administrativas y Órganos Administrativos Desconcentrados.
 
-Asimismo contará con los directores generales, directores generales adjuntos, directores, subdirectores, jefes de departamento, y demás servidores públicos que se requiera para el ejercicio de sus funciones y que sean autorizados en su presupuesto.
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2022)</small>
 
-La Secretaría contará con un Órgano Interno de Control, que se regirá conforme a lo dispuesto en el artículo 69 del Reglamento.
+Asimismo, contará con direcciones generales, coordinaciones, direcciones de área, subdirecciones de área, jefaturas de departamento, y demás personas servidoras públicas que se requieran para el ejercicio de sus funciones y que sean autorizados en su presupuesto.
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 29 DE JULIO DE 2022)</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2020)</small>
 
@@ -257,11 +261,15 @@ XXXIX. Las demás que con carácter no delegable le confieran otras disposicione
 
 No se considerará delegación de facultades cuando opere el régimen de suplencias previsto en el Reglamento, ni cuando se ejerzan facultades atribuidas por el Reglamento a servidores públicos subalternos que por su naturaleza deban concurrir al debido desempeño de las conferidas al Secretario.
 
-### Capítulo III. De las Facultades Genéricas de los Subsecretarios
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE JULIO DE 2022)</small>
+
+### Capítulo III. De las Facultades Genéricas de la persona titular de la Subsecretaría de Seguridad Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JULIO DE 2022)</small>
 
 ###### Artículo 7.
 
-Los Subsecretarios tienen las facultades genéricas siguientes:
+La persona titular de la Subsecretaría de Seguridad Pública tiene las facultades genéricas siguientes:
 
 I. Acordar con el Secretario los asuntos relevantes de su competencia, de las unidades administrativas y de los Órganos Administrativos Desconcentrados que tengan adscritos;
 
@@ -281,7 +289,9 @@ VIII. Proponer al Secretario la delegación de facultades en servidores público
 
 IX. Someter a la aprobación del Secretario los estudios y proyectos, así como las propuestas de modernización, desconcentración funcional y simplificación administrativa que se elaboren en las unidades administrativas bajo su adscripción;
 
-X. Suscribir los anexos técnicos o de ejecución, de asignación o transferencia de recursos federales a celebrarse con los gobiernos de las entidades federativas o de los municipios; los convenios o bases de colaboración con otras dependencias o entidades de la Administración Pública Federal y organismos autónomos, así como los convenios de concertación con los sectores social y privado. En caso de que el acto jurídico incluya asuntos que correspondan a varias subsecretarías, deberá firmarse por los Subsecretarios respectivos;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2022)</small>
+
+X. Suscribir los anexos técnicos o de ejecución, de asignación o transferencia de recursos federales a celebrarse con los gobiernos de las entidades federativas o de los municipios; los convenios o bases de colaboración con otras dependencias o entidades de la Administración Pública Federal y organismos autónomos, así como los convenios de concertación con los sectores social y privado;
 
 XI. Coordinar sus acciones con otros servidores públicos de la Secretaría, para el ejercicio de las labores que les hayan sido encomendadas;
 
@@ -309,9 +319,11 @@ XXII. Las demás que le confieran las disposiciones jurídicas, así como aquell
 
 ### Capítulo IV. De las Facultades Genéricas de los Titulares de las Unidades Administrativas
 
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2022)</small>
+
 ###### Artículo 8.
 
-Los titulares de las unidades administrativas a que se refiere el apartado B del artículo 3 del Reglamento, podrán auxiliarse para el ejercicio de sus atribuciones, por los directores generales adjuntos, directores, subdirectores de área, jefes de departamento o sus similares y demás servidores públicos que se requieran para cubrir las necesidades del servicio y figuren en su estructura autorizada, conforme a las disposiciones jurídicas aplicables.
+Las personas titulares de las unidades administrativas a que se refiere el apartado B del párrafo primero del artículo 3 del Reglamento podrán auxiliarse, para el ejercicio de sus atribuciones, por las coordinaciones, direcciones de área, subdirecciones de área, jefaturas de departamento o sus similares y demás personas servidoras públicas que se requieran para cubrir las necesidades del servicio y figuren en su estructura autorizada, conforme a las disposiciones jurídicas aplicables.
 
 ###### Artículo 9.
 
@@ -357,9 +369,11 @@ XIX. Autorizar y vigilar el ejercicio del presupuesto asignado a la unidad admin
 
 XX. Las demás que le confieran el Reglamento y otras disposiciones jurídicas, así como aquellas funciones que le encomiende su superior jerárquico dentro del ámbito de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JULIO DE 2022)</small>
+
 ###### Artículo 10.
 
-Los titulares de las direcciones y subdirecciones de área, jefaturas de departamento o equivalentes, en el ámbito de su competencia, tienen las atribuciones genéricas siguientes:
+Las personas titulares de las coordinaciones, direcciones de área, subdirecciones de área, jefaturas de departamento o equivalentes, en el ámbito de sus competencias, tienen las atribuciones genéricas siguientes:
 
 I. Auxiliar a su superior jerárquico en el ejercicio de las atribuciones que tengan encomendadas;
 
@@ -719,7 +733,9 @@ VII. Diseñar y promover mecanismos de evaluación respecto al cumplimiento de l
 
 VIII. Las demás que le encomiende el Secretario.
 
-### Capítulo VI. De las Unidades Administrativas adscritas al Subsecretario de Planeación, Prevención, Protección Civil y Construcción de Paz
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE JULIO DE 2022)</small>
+
+### Capítulo VI. De las Unidades Administrativas Adscritas al Secretario
 
 #### Sección I. De la Unidad de Prevención de la Violencia y el Delito, y de sus Unidades Administrativas Adscritas
 
@@ -867,7 +883,9 @@ XII. Promover que las autoridades competentes de los distintos órdenes de gobie
 
 XIII. Coordinar la instrumentación de un Subsistema de Información de Riesgos, Peligros y Vulnerabilidades, que permita mantener informada a la población con precisión y oportunidad;
 
-XIV. Someter a aprobación del Subsecretario las disposiciones administrativas de carácter general relacionadas con instrumentos financieros de riesgos, que no se encuentren reservadas a servidor público o unidad administrativa diversa de la Secretaría en materia de protección civil;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2022)</small>
+
+XIV. Someter a aprobación del Secretario las disposiciones administrativas de carácter general relacionadas con instrumentos financieros de riesgos, que no se encuentren reservadas a una persona servidora pública o unidad administrativa diversa de la Secretaría en materia de protección civil.
 
 XV. Coordinar la integración del Atlas Nacional de Riesgos y su acceso fácil para la población, en colaboración con otras dependencias e instituciones que realicen funciones semejantes, afines o complementarias, así como supervisar a través del Centro Nacional de Prevención de Desastres la correcta integración del mismo;
 
@@ -999,9 +1017,13 @@ II. Participar en la integración y proponer indicadores al Programa Nacional de
 
 III. Coordinar la integración y actualización del sistema de información, estadística y evaluación de seguridad pública federal;
 
-IV. Proponer al Subsecretario de Planeación, Prevención, Protección Civil y Construcción de Paz, estrategias para la recolección, análisis, explotación y suministro de información para fines estadísticos y de prospectiva en relación con la seguridad pública federal, incluyendo la prevención y el combate de delitos federales;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2022)</small>
 
-V. Proponer al Subsecretario de Planeación, Prevención, Protección Civil y Construcción de Paz, mecanismos de intercambio de información estadística con instituciones nacionales y extranjeras, a fin de realizar estudios comparados en materia de seguridad pública;
+IV. Proponer al Secretario, estrategias para la recolección, análisis, explotación y suministro de información para fines estadísticos y de prospectiva en relación con la seguridad pública federal, incluyendo la prevención y el combate de delitos federales;
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2022)</small>
+
+V. Proponer al Secretario, mecanismos de intercambio de información estadística con instituciones nacionales y extranjeras, a fin de realizar estudios comparados en materia de seguridad pública;
 
 VI. Coordinar el procesamiento de información que generen las unidades administrativas y Órganos Administrativos Desconcentrados de la Secretaría, así como establecer parámetros para la generación de indicadores de gestión de los sistemas de información que se utilicen en materia de seguridad y protección civil;
 
@@ -1139,7 +1161,9 @@ XI. Dirigir la elaboración e implementación de programas de capacitación y ac
 
 XII. Coordinar el seguimiento de las medidas que se establezcan respecto de amenazas o riesgos que atenten contra las libertades de la población, el orden y la paz públicos, a fin de elaborar proyectos para su prevención, disuasión, contención y desactivación.
 
-#### Sección I. De la Unidad de Administración y Finanzas, y sus Unidades Administrativas Adscritas
+(REUBICADA CON SUS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN I DEL CAPÍTULO VII], D.O.F. 29 DE JULIO DE 2022)
+
+#### Sección V. De la Unidad de Administración y Finanzas, y sus Unidades Administrativas Adscritas
 
 ###### Artículo 31.
 
@@ -1349,7 +1373,9 @@ XIV. Evaluar conjuntamente con las unidades administrativas adscritas a la Unida
 
 XV. Proporcionar asesoría a las unidades administrativas y Órganos Administrativos Desconcentrados de la Secretaría.
 
-#### Sección II. De la Unidad General de Asuntos Jurídicos y Transparencia, y sus Unidades Administrativas Adscritas
+(REUBICADA CON SUS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN II DEL CAPÍTULO VII], D.O.F. 29 DE JULIO DE 2022)
+
+#### Sección VI. De la Unidad General de Asuntos Jurídicos y Transparencia, y sus Unidades Administrativas Adscritas
 
 ###### Artículo 35.
 
@@ -1383,7 +1409,9 @@ Asimismo, celebrar previa autorización del Secretario, convenios propuestos par
 
 XIII. Supervisar la representación del Secretario en los juicios de amparo;
 
-XIV. Suscribir en ausencia del Secretario, Subsecretarios, y Titular de la Unidad de Administración y Finanzas, escritos, y desahogar los trámites que correspondan relativos a plazos, interposición de recursos y recepción de toda clase de notificaciones;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2022)</small>
+
+XIV. Suscribir escritos en ausencia del Secretario, así como de las personas titulares de la Subsecretaría de Seguridad Pública, y de la Unidad de Administración y Finanzas, y desahogar los trámites que correspondan relativos a plazos, interposición de recursos y recepción de toda clase de notificaciones;
 
 XV. Delegar, previo acuerdo del Secretario, las atribuciones indispensables para la adecuada atención de las funciones que tiene encomendadas y establecer los criterios que sean necesarios para el trámite y la resolución de los asuntos que le correspondan, mediante acuerdo publicado en el Diario Oficial de la Federación;
 
@@ -1477,7 +1505,9 @@ VII. Revisar los ordenamientos jurídicos de carácter laboral y administrativo 
 
 VIII. Representar a la Secretaría ante los tribunales federales y del fuero común y ante toda autoridad en los trámites jurisdiccionales y cualquier otro asunto de carácter legal en que tenga interés e injerencia la Secretaría, sin perjuicio de las atribuciones que correspondan a la Consejería Jurídica del Ejecutivo Federal, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, presentar juicio de amparo, y los recursos previstos por las leyes aplicables y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos de la Secretaría, así como para designar representantes en términos de la ley aplicable;
 
-IX. Suscribir, en ausencia del Secretario, Subsecretarios, Titular de la Unidad de Administración y Finanzas y Titular de la Unidad General de Asuntos Jurídicos y Transparencia, escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones y cualquier clase de actuaciones, incluyendo lo relacionado con la fracción VIII del artículo 6 de este Reglamento;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2022)</small>
+
+IX. Suscribir, en ausencia del Secretario y de las personas titulares de la Subsecretaría de Seguridad Pública, de la Unidad de Administración y Finanzas y de la Unidad General de Asuntos Jurídicos y Transparencia, escritos, así como desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones y cualquier clase de actuaciones, incluyendo lo relacionado con la fracción VIII del artículo 6 del Reglamento;
 
 X. Participar en las acciones que en materia jurídica lleva a cabo la Secretaría, a fin de prevenir y atender posibles conflictos normativos, cuando se trate de normas jurídicas en materia de juicios y procedimientos constitucionales;
 
@@ -1583,7 +1613,9 @@ XXXVIII. Organizar y fomentar programas y actividades de sensibilización, difus
 
 XXXIX. Coordinar las acciones necesarias para garantizar el óptimo acceso a la información emitida por las unidades administrativas y Órganos Administrativos Desconcentrados de la Secretaría.
 
-#### Sección III. De la Unidad de Análisis Estratégicos y Vinculación Interinstitucional, y de sus Unidades Administrativas Adscritas
+(REUBICADA CON SUS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN III DEL CAPÍTULO VII], D.O.F. 29 DE JULIO DE 2022)
+
+#### Sección VII. De la Unidad de Análisis Estratégicos y Vinculación Interinstitucional, y de sus Unidades Administrativas Adscritas
 
 ###### Artículo 39.
 
@@ -1693,7 +1725,9 @@ VI. Organizar, clasificar y sistematizar el acervo de información y documentaci
 
 VII. Proponer los mecanismos de coordinación con las autoridades de los tres órdenes de gobierno y con la sociedad civil para el intercambio de información sobre la política de drogas.
 
-#### Sección IV. De la Dirección General de Comunicación Social
+(REUBICADA CON SUS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN IV DEL CAPÍTULO VII], D.O.F. 29 DE JULIO DE 2022)
+
+#### Sección VIII. De la Dirección General de Comunicación Social
 
 ###### Artículo 44.
 
@@ -1720,6 +1754,8 @@ IX. Planear, diseñar y evaluar las campañas de difusión de interés de la Sec
 X. Evaluar los resultados de la estrategia de vinculación y comunicación de la Secretaría, y
 
 XI. Las demás que le confieran otras disposiciones jurídicas y aquellas funciones que le encomiende el Secretario.
+
+> <small>(DEROGADA SU DENOMINACIÓN, D.O.F. 29 DE JULIO DE 2022)</small>
 
 ### Capítulo VII. De las Unidades Administrativas Adscritas al Secretario
 
@@ -2007,17 +2043,23 @@ Las ausencias de los titulares del Órgano Interno de Control, de las áreas de 
 
 ### Capítulo X. De la Suplencia de los Servidores Públicos de la Secretaría
 
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2022)</small>
+
 ###### Artículo 71.
 
-El Secretario será suplido en sus ausencias por el Subsecretario de Seguridad Pública y el Subsecretario de Planeación, Prevención, Protección Civil y Construcción de Paz, en el orden mencionado.
+El Secretario será suplido en sus ausencias por la persona titular de la Subsecretaría de Seguridad Pública.
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2022)</small>
 
 ###### Artículo 72.
 
-Las ausencias de los Subsecretarios, serán suplidas por los titulares de unidad y directores generales que de ellos dependan, según sea el caso, en los asuntos de sus respectivas competencias.
+Las ausencias de la persona titular de la Subsecretaría de Seguridad Pública serán suplidas por las personas titulares de unidad y direcciones generales que le estén adscritas, en los asuntos de sus respectivas competencias.
+
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2022)</small>
 
 ###### Artículo 73.
 
-Las ausencias de los titulares de la Coordinación Nacional de Protección Civil, de las unidades, direcciones generales, Órganos Administrativos Desconcentrados, direcciones generales adjuntas, direcciones y subdirecciones de área, así como jefaturas de departamento, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
+Las ausencias de las personas titulares de la Coordinación Nacional de Protección Civil, de las unidades, direcciones generales, Órganos Administrativos Desconcentrados, coordinaciones, direcciones de área, subdirecciones de área y jefaturas de departamento, serán suplidas por las personas servidoras públicas del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
 ## TRANSITORIOS
 
@@ -2048,3 +2090,15 @@ D.O.F. 11 DE DICIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+D.O.F. 29 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO.- Las referencias y atribuciones que se hagan y se otorguen respectivamente en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas que desaparezcan o cambien de denominación por virtud del presente Decreto, se entenderán hechas o conferidas, en su caso, a las unidades administrativas competentes de conformidad con el presente ordenamiento.
+
+CUARTO.- Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella a la que este ordenamiento le atribuya la competencia respectiva.
