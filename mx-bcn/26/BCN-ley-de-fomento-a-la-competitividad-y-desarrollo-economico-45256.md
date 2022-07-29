@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2021-12-30"
+last_updated: "2022-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -148,6 +148,10 @@ a) Vocaciones Razonables: Actividades productivas cuya participación en el valo
 b) Vocaciones por Impulsar: Actividades productivas con amplio potencial de desarrollo, cuya participación en el valor del producto interno bruto del Estado resulta menor a la media nacional y mayor a 1%;
 
 c) Vocaciones por Incubar: Actividades productivas con amplio potencial de desarrollo y de incipiente proceso de explotación, cuya participación en el valor del producto interno bruto del Estado resulta igual o menor a 1%.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2022)</small>
+
+XXII.- IEMBC: Instituto del Emprendimiento de Baja California.
 
 ###### Artículo 4.
 
@@ -1095,6 +1099,62 @@ Los afectados por la cancelación de un Estímulo no fiscal u otros actos defini
 
 Los actos relacionados con los estímulos fiscales, podrán ser combatidos a través de los medios de defensa previstos en las disposiciones fiscales aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JULIO DE 2022)</small>
+
+### CAPÍTULO XIII. DEL INSTITUTO DEL EMPRENDIMIENTO DE BAJA CALIFORNIA
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+###### Artículo 49.
+
+El Instituto del Emprendimiento de Baja California, IEMBC, es una plataforma de la administración pública centralizada perteneciente a la Secretaría de Economía e Innovación, con el propósito (sic) instrumentar una Política de Emprendimiento para Baja California, mismo que deberá diseñar, ejecutar y coordinar programas que fomenten la productividad empresarial, así como de apoyo incluyente a personas emprendedoras y MIPYMES en el Estado, impulsando su diseño, formalización, innovación, competitividad y proyección en los mercados estatales, nacionales e internacionales para aumentar su contribución al desarrollo económico y bienestar social.
+
+Para el desarrollo de proyectos de emprendimiento, el IEMBC operará con una ventanilla de atención ciudadana a través de la plataforma digital que para tal efecto se establezca.
+
+El IEMBC promoverá la integración de una red de instituciones y organizaciones de fomento al emprendimiento como un espacio plural de expresión para la ciudadanía que apoya a las personas emprendedoras.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+###### Artículo 50.
+
+Para el cumplimiento de su objeto, y conforme a lo señalado en el Reglamento Interno de la Secretaría, el IEMBC tendrá los fines siguientes:
+
+I. Impulsar la creación de nuevas empresas y el fortalecimiento de las que se encuentran en operación, brindando información, orientación y asesoría;
+
+II. Fungir como un enlace entre las personas emprendedoras y las instancias de apoyo;
+
+III. Desarrollar los programas que promuevan el emprendimiento de nuevos negocios y el apoyo a los ya existentes, brindando información, orientación, asesoría mediante el uso de aplicaciones tecnológicas, así como asistencia técnica, financiamiento, enlace a instancias de apoyo, gestoría de trámites ante diversos entes públicos, fomento a integración a cadenas productivas y exportación, a red de incubadoras y aceleradoras y acceso a red de las y los mentores;
+
+IV. El Instituto del Emprendimiento de Baja California, podrá establecer vínculos de colaboración, a través de convenios o acuerdos de colaboración, con las dependencias gubernamentales, incubadoras, organismos empresariales y educativos, dedicados al fortalecimiento de los procesos de incubación y desarrollo empresarial en el Estado;
+
+V. Incorporar nuevas herramientas tecnológicas para el impulso y fortalecimiento de nuevas empresas y de las que ya se encuentran en funcionamiento;
+
+VI. Realizar, fomentar y participar en actividades que den como resultado el surgimiento de nuevas empresas y fortalezcan las que se encuentran en operación, tales como foros, cursos de capacitación, asistencia técnica, exposiciones especializadas, misiones comerciales, encuentros de negocios dentro del ámbito nacional e internacional;
+
+VII. Impulsar y promover políticas públicas, en favor del emprendimiento, desarrollo y fortalecimiento, con perspectiva de género, interculturalidad, juventudes e inclusión;
+
+VIII. Orientar a las y los nuevos emprendedores, en materia normativa, para iniciar sus proyectos, a través de acciones enfocadas a la formalidad de las actividades económicas e integración de las empresas a la economía formal;
+
+IX. Las demás que se establezcan en los distintos ordenamientos aplicables a esta materia.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+###### Artículo 51.
+
+El IEMBC funcionará con los recursos con los que cuenta la Secretaría.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+###### Artículo 52.
+
+El Titular de la Secretaría designará a la persona encargada de la operación del IEMBC, quien, a su vez, realizará las acciones necesarias para su implementación y quien tendrá las facultades y obligaciones previstas en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2022)</small>
+
+###### Artículo 53.
+
+La operación del IEMBC se sujetará a las mismas disposiciones y revisiones del Órgano Interno de Control de la Secretaría.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1248,3 +1308,9 @@ P.O. 30 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 40 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 3, 4, 10, 13, 15, 16, 25, 32 Y 40 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 118 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 3 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO, ASÍ COMO LA ADICIÓN DE UN CAPÍTULO XIII DENOMINADO DEL INSTITUTO DEL EMPRENDIMIENTO DE BAJA CALIFORNIA Y EN SU INTERIOR LOS ARTÍCULOS DE NUEVA CREACIÓN 49, 50, 51, 52 Y 53”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
