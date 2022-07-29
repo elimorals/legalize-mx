@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2022-01-25"
+last_updated: "2022-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,721 +21,2201 @@ state: "BCN"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 17 de noviembre de 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2022.
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA.
+Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
-A N T E C E D E N T E S
+Alfonso García González,
 
-I. Mediante decreto No. 577-08 I O.P. publicado en el Periódico Oficial de el Estado el día 11 de febrero de 2009, se reforman los artículos 27, 27 bis, 36 y 37 de la Constitución Política del Estado.
+GOBERNADOR PROVISIONAL DEL ESTADO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 
-II. Con fecha doce de septiembre de dos mil nueve se publica en el Periódico Oficial del Estado de Chihuahua, el Decreto No. 733/09 VI PE por el que se expide la nueva Ley Electoral del Estado de Chihuahua y por la cual se abroga la Ley Electoral del Estado de mil novecientos noventa y cuatro.
+QUE LA H. LEGISLATURA CONSTITUYENTE DEL ESTADO SE HA SERVIDO DIRIGIRME LA SIGUIENTE:
 
-C O N S I D E R A N D O.
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
-Visto lo anterior, se propone al Consejo General del Instituto Estatal Electoral, para que en ejercicio de sus atribuciones constitucionales y legales, tenga a bien emitir el siguiente:
+## TITULO PRIMERO
 
-A C U E R D O.
+### CAPITULO I.. DEL ESTADO Y SU TERRITORIO
 
-PRIMERO.- Se aprueba el Reglamento de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto Estatal Electoral de Chihuahua conforme a los antecedentes y consideraciones señaladas en el cuerpo de este proveído, quedando como a la letra se transcribe:
+###### ARTICULO 1.
 
-REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA
+El Estado de Baja California es parte integrante e inseparable de la Federación constituida por los Estados Unidos Mexicanos.
 
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+###### ARTICULO 2.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+La porción de territorio nacional que corresponde al Estado, es la que le ha sido reconocida en la Constitución Política de los Estados Unidos Mexicanos.
 
-###### Artículo 1.
+###### ARTICULO 3.
 
-Este Reglamento es de carácter administrativo interno y tiene por objeto establecer las normas conforme a las cuales se deben llevar a cabo las adquisiciones, los arrendamientos y la contratación de servicios del Instituto Estatal Electoral de Chihuahua.
+La base de la división territorial y de la organización política y administrativa del Estado, es el Municipio Libre.
 
-En lo no previsto por este Reglamento se atenderá a lo establecido en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua, siempre y cuando no se oponga a la naturaleza jurídica, funciones y atribuciones del Instituto, ni se encuentre en contravención a lo dispuesto por la Ley Electoral del Estado de Chihuahua.
+### CAPITULO II.. DE LA SOBERANIA DEL ESTADO
 
-###### Artículo 2.
+###### ARTICULO 4.
 
-Para los efectos de este Reglamento, se entenderá por:
+El Estado es Libre y Soberano en todo lo concerniente a su régimen interior, sin más limitaciones que las que establece la Constitución Política de los Estados Unidos Mexicanos.
 
-I. Reglamento: Reglamento de Adquisiciones, Arrendamientos y Contratación (sic) Servicios del Instituto Estatal Electoral de Chihuahua.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
 
-II. Instituto: Instituto Estatal Electoral de Chihuahua.
+###### ARTICULO 5.
 
-III. Comité: El Comité de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto Estatal Electoral de Chi­huahua.
+Todo poder público dimana del pueblo y se instituye para beneficio de éste.
 
-IV. Presidente: El Presidente del Comité de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto Estatal Electoral de Chihuahua.
+La renovación de los poderes Legislativo, Ejecutivo y de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas.
 
-V. Secretario: El Secretario del Comité de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto Estatal Electoral de Chihuahua.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-VI. Secretario Técnico: El Secretario Técnico del Comité de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto Estatal Electoral de Chihuahua.
+Cuando las campañas tengan como finalidad elegir gobernador, diputados y ayuntamientos en forma simultánea, la duración será de sesenta días para el caso de gobernador y cuarenta y cinco días para diputados y ayuntamientos; cuando solo se elija diputados y ayuntamientos, las campañas tendrán una duración (sic) cuarenta y cinco días; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
-VII. Órganos: El Consejo General, las Comisiones permanentes y temporales del mismo, la Presidencia, las Coordinaciones: General, de Administración, Prerrogativas y Financiamiento; de Capacitación Electoral y Educación Cívica; y, de Or­ganización Electoral; las Direcciones; las Oficinas Regionales; y las Asambleas Distritales y Municipales, mismos que forman la estructura del Instituto Estatal Electoral de Chihuahua, según los artículos 82, 84 y 100 de la Ley Electoral del Estado de Chihuahua.
+Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del estado, como de los municipios, entidades paraestatales, organismos constitucionales autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-VIII. Proveedor: La persona física o moral que suministra ó arrienda bienes ó presta servicios al Instituto.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
-IX. Procedimientos de Contratación:
+El proceso electoral dará inicio el primer domingo de diciembre del año anterior a la elección. La jornada electoral para elecciones ordinarias deberá celebrarse el primer domingo de junio del año que corresponda.
 
-a. Licitación Pública: Aquella mediante la cual se convoca, selecciona, se designa y se contrata al proveedor, desarrollando lo que se establece en la Sección Primera, del Capítulo Segundo, del Título Segundo, de este Reglamento.
+La Ley establecerá los supuestos, condiciones y reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
 
-b. Invitación Restringida: Aquella mediante la cual se selecciona, designa y contrata al proveedor con la participación de cuando menos tres proveedores y que requiere aprobación del Comité.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-c. Adjudicación Directa: Aquella mediante la cual, la Coordinación de Administración, Prerrogativas y Financiamiento, selecciona, designa y contrata al proveedor en forma directa, a través del Departamento de Recursos Materiales.
+La Ley electoral establecerá las faltas y sanciones administrativas, que se deriven de su incumplimiento o inobservancia.
 
-X. Coordinador: El Coordinador de Administración, Prerrogativas y Financiamiento del Instituto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-###### Artículo 3.
+APARTADO A.- Los Partidos Políticos:
 
-El Comité del Instituto, para llevar a cabo los procedimientos de contratación materia de éste Reglamento mediante licitaciones públicas, por invitación restringida y por adjudicación directa, para la adquisición, arrendamiento y contratación de servicios, que sean requeridos por el Instituto y sus órganos.
+Los partidos políticos son entidades de interés público. La Ley determinará las formas específicas de su intervención en el proceso electoral.
 
-### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL COMITÉ DE ADQUISICIONES
+Los Partidos Políticos Nacionales tendrán derecho a participar en las elecciones estatales y municipales en los términos que establezca la Ley.
 
-###### Artículo 4.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto, directo, personal e intransferible. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-El Comité será responsable de definir, conducir y aplicar los lineamientos en materia de adquisiciones, contratos y arrendamientos a que se refiere el artículo 1 de este Reglamento, garantizando se determine, con base en la propuesta del Secretario del Comité, los bienes de uso generalizado que se contratarán en forma consolidada, con el objeto de que obtengan las mejores condiciones en cuanto a precio, calidad, oportunidad, garantía y servicio.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-Se deberán considerar preferentemente los bienes o servicios de procedencia nacional, así como aquellos propios del Estado. Asimismo, se deberán incluir los insumos, material, equipo, sistemas y servicios que tenga incorporada tecnología nacional.
+En los términos de las leyes electorales, los partidos políticos tienen el derecho para solicitar el registro de candidatos a cargos de elección popular, y podrán hacerlo de manera unipartidista o mediante las figuras de coaliciones totales, parciales o flexibles.
 
-###### Artículo 5.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
-El Comité de Adquisiciones se integra de la siguiente forma:
+Los partidos políticos deberán garantizar las reglas para cumplir con la paridad entre los géneros en candidaturas a diputados y en planillas de candidatos a munícipes en cada Ayuntamiento, tanto propietarios como suplentes.
 
-I. Presidente del Comité.- El Consejero Presidente del Instituto.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-II. Secretario del Comité.- El Coordinador de Administración, Prerrogativas y Financiamiento.
+Los candidatos a ocupar un cargo de elección popular, deberán registrar por lo menos con quince días de anticipación a la celebración de la jornada electoral, sus compromisos de campaña ante el Instituto Estatal Electoral, el cual tendrá la obligación de registrarlos para efectos de su posterior consulta por cualquier interesado. El Instituto, en año no electoral, dará seguimiento de los compromisos de campaña mediante la emisión de informes anuales, debiendo remitirlos al Congreso del Estado.
 
-III. Secretario Técnico: El Jefe del Departamento de Recursos Materiales.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-IV. Vocales:
+Los candidatos a ocupar un cargo de elección popular, deberán presentar ante el Instituto Estatal Electoral, por lo menos con quince días de anticipación a la celebración de la jornada electoral, los resultados del examen para la detección de drogas de abuso, que deberán practicarse dentro de los treinta días anteriores a su presentación; para efectos de su posterior consulta por cualquier interesado.
 
-a) El Secretario Ejecutivo del Instituto;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-b) El Coordinador de Organización Electoral;
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley.
 
-V. Asesor Técnico.- El encargado del área que solicite el bien o servicio.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-Los integrantes del Comité, tendrán voz y voto en las decisiones y los acuerdos a que se llegue, exceptuando al Asesor Técnico, que solo tendrá derecho voz.
+El acceso de los partidos políticos y de los candidatos independientes a los tiempos en radio y televisión se estará a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y leyes aplicables.
 
-### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ DE ADQUISICIONES
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-###### Artículo 6.
+Los partidos políticos de acuerdo a las disponibilidades presupuestales, recibirán en forma equitativa, financiamiento público para la realización de sus fines.
 
-El Comité tendrá las siguientes facultades:
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-I. Aprobar las políticas y criterios y proponer al Consejo General por conducto del Presidente, las normas conforme a las cuales, se deberán realizar las operaciones y conducir la Coordinación de Administración, Prerrogativas y Financiamiento al adquirir ó arrendar bienes y contratar servicios.
+La ley garantizará que los partidos políticos, cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que el financiamiento público prevalezca sobre el de origen privado.
 
-II. Proponer las políticas internas, bases, límites de montos de acuerdo al Presupuesto de Egresos del Estado y lineamientos en materia de adquisiciones, arrendamientos y servicios, así como autorizar los supuestos no previstos en estos.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-III. Examinar y aprobar, en su caso, el proyecto del Programa Anual de Adquisiciones, Arrendamientos y Contratación de Servicios que para cada ejercicio presupuestal le presente el Secretario del Comité.
+El financiamiento para los partidos políticos que conserven su registro después de cada elección, se compondrá de financiamiento público permanente para el sostenimiento de sus actividades ordinarias, las de campaña electoral tendientes a la obtención del voto y las de carácter específico, relativas a la educación, capacitación, investigación socioeconómica y política, así como las tareas editoriales en los términos de la Ley.
 
-IV. Revisar los presupuestos y disponibilidad de los recursos, previamente a la contratación de adquisiciones, arrendamientos y servicios.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-V. Dictaminar sobre la procedencia de celebrar licitaciones públicas, así como los casos en que no se celebren por encon­trarse en alguno de los supuestos de excepción, previstos en este Reglamento.
+La Ley determinará los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes.
 
-VI. Aprobar la selección y designación de los proveedores de bienes y servicios a los que se adjudicarán los contratos, derivados de las licitaciones o procedimientos de compra por invitación restringida que se desarrollen y adjudicaciones directas, en su caso.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
 
-VII. Analizar y aprobar, en su caso, los informes que trimestralmente que debe rendir el Secretario del Comité;
+El partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo, le será cancelado el registro.
 
-VIII. Hacer cumplir lo dispuesto en el presente Reglamento y en las disposiciones que se deriven del mismo, y;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
 
-IX. Las demás que le otorgue este Reglamento y otras disposiciones normativas aplicables.
+El procedimiento para la liquidación de los partidos políticos estatales que pierdan su registro y el destino de sus bienes y remanentes, se hará en los términos que establezca la Ley.
 
-### CAPÍTULO CUARTO. DEL FUNCIONAMIENTO DEL COMITÉ DE ADQUISICIONES
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
 
-###### Artículo 7.
+El incumplimiento de las normas que regulen la comprobación de ingresos, egresos, topes de gastos y aportaciones, así como la liquidación de los partidos políticos, serán sancionados en los términos de las leyes correspondientes.
 
-El Secretario del Comité será el ejecutor respecto de las actividades establecidas por el presente Reglamento.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+APARTADO B.- Del Instituto Estatal Electoral.
 
-###### Artículo 8.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
-Las resoluciones del Comité se tomarán por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate, debiendo participar invariablemente como mínimo cuatro miembros del Comité con derecho a voto, dentro de los cuales deben estar presentes el Presidente y el Secretario, salvo cuando el Presidente del Comité no pueda asistir a las sesiones, será el Secretario Ejecutivo del Instituto quien cubra dicho cargo.
+La organización de las elecciones estatales y municipales es una función pública que se realiza a través de un organismo público autónomo e independiente denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, a cuya integración concurren los ciudadanos y los partidos políticos, según lo disponga la Ley. En el ejercicio de esta función pública, serán principios rectores la certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y austeridad.
 
-###### Artículo 9.
+El Instituto Estatal Electoral podrá convenir con el Instituto Nacional Electoral se haga cargo de la organización de los procesos electorales locales, cuando exista causa justificada para ello, y en los términos que disponga la Ley.
 
-El Comité sesionará en forma ordinaria, con el calendario que acuerde durante enero de cada año. Además podrá sesionar en forma extraordinaria, pudiendo ser convocado por el Secretario del Comité, cuantas veces se requiera.
+El Instituto Estatal Electoral ejercerá sus atribuciones en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, de conformidad con la distribución de competencia que establecen las leyes de la materia, así como los convenios que suscriban, y agrupará para su desempeño, en forma integral y directa las siguientes actividades:
 
-El Secretario del Comité convocará para las sesiones con una anticipación de cuando menos un día hábil, debiéndose señalar la orden del día a que se sujetará la sesión.
+I.- Desarrollar y Ejecutar los programas de educación cívica;
 
-###### Artículo 10.
+II.- Garantizar los derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
 
-El Presidente tendrá las siguientes funciones:
+III.- Imprimir los documentos y producir los materiales electorales;
 
-I. Presidir y dirigir las sesiones del Comité;
+IV.- Preparar de (sic) la Jornada Electoral;
 
-II. Planear y dirigir la ejecución de los trabajos a desarrollar por el Comité;
+V.- Efectuar el escrutinio y cómputo total de las elecciones;
 
-III. Vigilar que los acuerdos del Comité se cumplan fielmente.
+VI.- Declarar la validez de las elecciones de Gobernador, Diputados y Ayuntamientos;
 
-IV. Las demás que le asigne el Comité, y le confiera este Reglamento.
+VII.- Expedir las constancias de mayoría y las de asignación de las fórmulas de representación proporcional;
 
-## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN DE LAS ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
+VIII.- Realizar los procesos de Consulta Popular, Plebiscito y Referéndum;
 
-### CAPÍTULO SEGUNDO. DE LOS PROCEDIMIENTOS Y CONTRATOS
+IX.- Ejercer la función de oficialía electoral respecto de los actos o hechos exclusivamente de naturaleza electoral;
 
-#### SECCIÓN PRIMERA. GENERALIDADES
+X.- Implementar y verificar el cumplimiento de los criterios generales que emita el Instituto Nacional Electoral; y
 
-###### Artículo 11.
+XI.- Las demás que determinen las leyes aplicables.
 
-El Secretario del Comité tendrá las siguientes funciones, mismas que ejercerá con el auxilio del Secretario Técnico:
+El Instituto Estatal Electoral será autoridad en la materia, autónomo en su funcionamiento e independiente en sus decisiones y profesional en su desempeño; contará en su estructura con un órgano de dirección, ejecutivos, técnicos, de vigilancia y fedatarios para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán regulados por la Ley. La Ley determinará las reglas para la organización y funcionamiento de los órganos del Instituto, así como las relaciones de mando entre éstos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para el ejercicio de sus atribuciones.
 
-I. Elaborar el Programa Anual de Adquisiciones, Arrendamientos y Servicios con base en la información proporcionada por los órganos, y someterlo a la consideración del Comité;
+El órgano de dirección superior denominado Consejo General Electoral, se integrará por un Consejero Presidente y seis consejeros electorales, con derecho a voz y voto, contará además con un Secretario Ejecutivo. Los representantes de los partidos políticos, así como el Secretario Ejecutivo concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
 
-II. Formular y proponer al Comité, los criterios y lineamientos que en materia de planeación, programación y control de adquisiciones, arrendamientos y prestación de servicios, se requieran.
+El Consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Ley General correspondiente. Los consejeros electorales estatales deberán ser originarios del Estado o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley.
 
-III. Proponer la orden del día que se ventilará para las sesiones del Comité;
+Los consejeros electorales estatales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley respectiva.
 
-I (SIC). Proponer al Comité las adquisiciones de bienes de uso generalizado, que por sus características, sean susceptibles de adquirirse en forma consolidada, apegado al programa anual de adquisiciones, arrendamientos y servicios;
+Los consejeros electorales estatales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-II. Proponer al Comité, los proveedores de bienes y servicios que ofrezcan mejores condiciones de compra, para la adjudi­cación de pedidos o contratos derivados de los procedimientos de compra por invitación restringida.
+El Secretario Ejecutivo investido de fe pública para actos de naturaleza electoral, será nombrado en los términos de ley, por el órgano de dirección superior a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de sus integrantes, durará en su encargo cuatro años y podrá ser reelecto una sola vez; en el supuesto de que transcurridas dos rondas de votación, el aspirante propuesto no alcanzare la votación requerida, la designación se hará por mayoría simple del Consejo General Electoral.
 
-III. Seleccionar y designar al proveedor de bienes o servicios, la adjudicación de contratos en las operaciones de compra por el procedimiento de adjudicación directa, en relación con el artículo 16 del presente Reglamento;
+Los Consejos Distritales son órganos operativos del Instituto Estatal Electoral, que se integrarán por cinco Consejeros Electorales Distritales nombrados por las dos terceras partes de los integrantes del órgano de dirección superior del cual dependen; así como por representantes acreditados por los partidos políticos, con voz pero sin voto, en la forma que establezca la Ley y, un Secretario Fedatario nombrado mediante votación de las dos terceras partes de los Consejos Distritales a propuesta de cada uno de los Consejeros Presidentes, la Ley establecerá los requisitos que deberán reunir para su designación.
 
-IV. Diseñar o modificar en su caso, los formatos necesarios para cubrir el proceso de las operaciones que regula este Reglamento;
+Los trabajadores incorporados al Servicio Profesional Electoral Nacional, regirán sus relaciones laborales por las disposiciones aplicables.
 
-V. Analizar y opinar en torno a los programas y presupuestos anuales que los órganos presenten en relación a las adquisiciones y servicios;
+La selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina de los servidores públicos en el Servicio Profesional Electoral Nacional, será en los términos en que se regule por el Instituto Nacional Electoral.
 
-VI. Revisar que los contratos de adquisiciones y servicios en su caso, estén apegados a los lineamientos emitidos en la materia;
+Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la Ley.
 
-VII. Intervenir en la recepción de los bienes, así como en la verificación de sus especificaciones, calidad y cantidad, y en su caso, hacer las reclamaciones pertinentes;
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2017)</small>
 
-VIII. Solicitar a los proveedores del Instituto, cotizaciones de sus productos y servicios, considerando precio, calidad, oportunidad, garantía y servicio.
+El Instituto Estatal Electoral contará con un Órgano Interno de Control con autonomía técnica y de gestión que tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto, el cual mantendrá la coordinación técnica necesaria con la Auditoría Superior del Estado, mismo que será designado de conformidad con la Ley de la materia.
 
-IX. Preparar y organizar las licitaciones que se celebren en relación con la materia de este Reglamento;
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 28 DE JULIO DE 2017)</small>
 
-X. Formular y proponer al Comité los procedimientos adecuados para optimizar las adquisiciones, arrendamiento y contratación de servicios que se requieran;
+La Ley fijará el régimen de responsabilidades a que estarán sujetos los servidores públicos del Instituto Estatal Electoral.
 
-XI. Registrar las operaciones que se realicen respecto a las materias previstas en el artículo 1, de este Reglamento;
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-XII. Cumplir y hacer cumplir los acuerdos del Comité.
+APARTADO C. Participación Ciudadana.
 
-XIII. En un análisis estadístico del gasto de los órganos, revisará las ministraciones de los bienes materiales y servicios que se adquieran o surtan, bajo los lineamientos de disciplina, racionalidad y austeridad presupuestal;
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-XIV. Rendir al Comité los informes que le sean requeridos;
+Los instrumentos y mecanismos de participación ciudadana serán la Consulta Popular, el Plebiscito, el Referéndum, la Iniciativa Ciudadana y el Presupuesto Participativo.
 
-XV. Analizar el ejercicio del presupuesto en base a los principios marcados por el artículo 6 del presente Reglamento, y en su caso proponer lo conducente, y;
+La Ley fomentará, impulsará, promoverá y consolidará los instrumentos y mecanismos de participación ciudadana; igualmente establecerá las reglas que permitan regular el proceso democrático de participación ciudadana en el ámbito de competencia del Estado y de los Ayuntamientos, sujetándose a las bases que establece esta Constitución.
 
-XVI. Las demás que le asigne el Comité, le confiera este Reglamento y otras disposiciones aplicables.
+Los principios rectores de la participación ciudadana serán la libertad, la democracia, la justicia, la corresponsabilidad, la solidaridad, la subsidiariedad, la legalidad, la sustentabilidad, la tolerancia y la equidad.
 
-### CAPÍTULO TERCERO. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-###### Artículo 12.
+Tratándose de Plebiscito, Referéndum, Consulta Popular y Presupuesto Participativo, la participación ciudadana podrá realizarse a través de medios electrónicos, en los términos que determine la Ley.
 
-El Comité podrá revisar y actualizar los montos y rangos conforme a los cuales se llevarán a cabo los procedimientos de compra o contratación, de adquisiciones, arrendamientos mensuales o anuales y servicios externos, establecidos en el artículo 16 de este Reglamento, considerando los montos y rangos que para el efecto se fijen en el Presupuesto de Egresos del Estado y sin sobrepasar los mismos.
+La Consulta Popular se realizará sobre temas de amplio interés estatal, siempre que así lo acuerde el Congreso, a solicitud de cuando menos las dos terceras partes de sus integrantes, del Gobernador, o de por lo menos el dos por ciento de los ciudadanos inscritos en la lista nominal de electores.
 
-## TÍTULO TERCERO
+Cuando la participación en la Consulta Popular corresponda, al menos, al veinte por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los Poderes del Estado y demás autoridades competentes.
 
-### CAPÍTULO ÚNICO. DE LA INFORMACIÓN Y VERIFICACIÓN
+No podrán ser objeto de Consulta Popular la materia electoral; los ingresos, egresos o el régimen interno y de organización de la administración pública del Estado; la seguridad pública; los actos de expropiación o limitación a la propiedad particular; y los demás cuya realización sea obligatoria en los términos de la Ley.
 
-###### Artículo 13.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-Los órganos planearán sus adquisiciones, arrendamientos y contratación de servicios, sujetándose a:
+El Instituto Estatal Electoral tendrá a su cargo la organización, desarrollo, cómputo y declaración de resultados de la Consulta Popular. Asimismo, tratándose de la solicitud ciudadana, verificará que se acompañe de las firmas correspondientes, a solicitud del Congreso, realizando la certificación respectiva.
 
-I. Los objetivos, prioridades, políticas y previsiones establecidos en el Programa Operativo Anual del Instituto;
+La Consulta Popular, Plebiscito y Referéndum, que se celebren en años electorales, deberán realizarse el mismo día de la jornada electoral para la celebración de elecciones ordinarias en el Estado.
 
-II. Los objetivos, metas, previsiones y recursos establecidos en el presupuesto de egresos aprobado para el ejercicio de que se trate;
+La Iniciativa Ciudadana es el mecanismo mediante el cual los ciudadanos del Estado podrán presentar propuestas para crear, modificar, reformar, adicionar, derogar o abrogar leyes o decretos, con las excepciones y demás requisitos que contemple la Ley. La Iniciativa Ciudadana podrá presentarse por escrito ante el Congreso del Estado, siempre que se acompañe de los nombres y firmas de por los (sic) menos quinientos ciudadanos incluidos en la lista nominal de electores del Estado.
 
-III. Las demás disposiciones legales y reglamentarias que rijan las acciones u operaciones que prevé este reglamento.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
 
-###### Artículo 14.
+APARTADO D. De las Candidaturas independientes.
 
-Los Órganos deberán formular sus programas operativos anuales, con base en sus necesidades reales y presentarlos al Secretario del Comité el quince de septiembre de cada año, para integrar el Proyecto de Presupuesto Anual de Egresos, debiendo integrar en el programa:
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-I. Las especificaciones de los bienes y servicios requeridos;
+Es derecho de los ciudadanos residentes en el Estado, poder ser votado para los cargos de elección popular por el principio de mayoría relativa, pudiendo solicitar su registro de manera independiente siempre y cuando cumplan con los requisitos, condiciones y términos que determinen las disposiciones constitucionales, legales y reglamentarias establecidas al efecto.
 
-II. Las normas de calidad de los bienes;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-III. Los calendarios de requerimientos de materiales, para su oportuno suministro;
+De conformidad con el procedimiento que se establezca en la Ley, los ciudadanos tendrán derecho a ser registrados como candidatos independientes dentro de un proceso electoral local para ocupar los cargos de Gobernador, Munícipes, así como el de Diputados por el principio de mayoría relativa.
 
-IV. Los requerimientos para la conservación y mantenimiento de los bienes muebles e inmuebles.
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
 
-###### Artículo 15.
+Los candidatos independientes registrados al cargo de Diputados por el principio de mayoría relativa, en ningún caso, serán asignados por el principio de representación proporcional.
 
-El Instituto, bajo su responsabilidad, podrá contratar adquisiciones, arrendamientos y servicios, mediante los procedimientos que a continuación se señalan:
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-I. Por licitación pública;
+Los candidatos independientes tendrán derecho al financiamiento público de campaña en los términos de Ley.
 
-II. Por invitación restringida, a cuando menos tres proveedores; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
 
-III. Por adjudicación directa.
+APARTADO E.- Justicia Electoral y sistema de nulidades.
 
-###### Artículo 16.
+Para garantizar el principio de legalidad de los actos y resoluciones electorales se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación; este sistema deberá observar la garantía de audiencia y los principios de publicidad, gratuidad, economía, prontitud y concentración procesal.
 
-Las adquisiciones, arrendamientos y contratación de servicios, se adjudicarán a través de los procedimientos establecidos en el artículo anterior conforme a lo siguiente:
+En materia electoral, la interposición de los medios de impugnación constitucionales y legales no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
-I. Se adjudicarán directamente cuando el monto de la operación no exceda de treinta y cinco veces el salario mínimo general elevado al año;
+La ley establecerá el sistema de nulidades de las elecciones por violaciones graves, dolosas y determinantes en los siguientes casos:
 
-II. Se adjudicará mediante el procedimiento de invitación restringida, a cuando menos tres proveedores, cuando el monto de la operación se ubique entre más de treinta y cinco y hasta ciento veinte veces el salario mínimo elevado al año.
+a).- Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
 
-III. Se adjudicará mediante el procedimiento de licitación pública, cuando el monto de la operación exceda a ciento veinte veces el salario mínimo elevado al año.
+b).- Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
 
-En los montos anteriores no se incluirá el Impuesto al Valor Agregado.
+c).- Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
 
-Las operaciones no se podrán fraccionar para quedar comprendidas en los supuestos diferentes a la licitación pública.
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
-El salario mínimo general vigente (SMGV) será el que corresponda a la zona económica donde se ubique el domicilio del Instituto, de conformidad con la resolución de la Comisión Nacional de Salarios Mínimos.
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
-###### Artículo 17.
+Los actos o resoluciones dictados con motivo del desarrollo de los instrumentos y mecanismos de participación ciudadana relativos a la Consulta Popular, Plebiscito o Referéndum, podrán ser impugnados ante el Tribunal de Justicia Electoral del Estado, en los términos que señale la Ley.
 
-Las adquisiciones, arrendamientos y contratación de servicios, que se adjudicarán a través de licitaciones públicas, deberán ser mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobres cerrados, que serán abiertos públicamente, a fin de asegurar al Instituto las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece el presente Reglamento.
+### CAPITULO III.. DE LOS SIMBOLOS OFICIALES
 
-###### Artículo 18.
+###### ARTICULO 6.
 
-Las convocatorias, que podrán referirse a uno o más bienes y servicios, se publicarán en el Periódico Oficial del Estado, en uno de los diarios de mayor circulación local y en la Página Web del Instituto, y contendrán:
+La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en todo el Estado, pero éste tendrá además su propio escudo. No habrá otras banderas, otros himnos ni escudos de carácter oficial. El uso de los símbolos nacionales se sujetará a lo dispuesto por los ordenamientos federales.
 
-I. El nombre del Instituto y fecha de expedición.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
-II. Identificación de la licitación o procedimiento correspondiente.
+### CAPITULO IV.. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-III. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones de la licitación y, en su caso, el costo y forma de pago de las mismas. Los interesados podrán revisar tales documentos previamente al pago de dicho costo, el cual será requisito para participar en la licitación;
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 275, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2021, PÁGINA 4. SE SUGIERE CONSULTAR LA CRONOLOGÍA DEL PRESENTE ARTÍCULO.]</small>
 
-IV. La fecha, hora y lugar de celebración de la junta de aclaraciones, del acto de recepción y apertura de proposiciones y el acto de fallo;
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE AGOSTO DE 2021)</small>
 
-V. La indicación de la fecha, lugar y hora en que se llevará a cabo la visita al sitio de la instalación del bien y/o prestación del servicio;
+###### ARTICULO 7.
 
-VI. La información sobre los porcentajes a otorgar por concepto de anticipos;
+El Estado de Baja California acata plenamente y asegura a todos sus habitantes los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como las garantías para su protección, y los demás derechos que reconoce esta Constitución, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que establece la Constitución Política de los Estados Unidos Mexicanos; de igual manera esta norma fundamental tutela el derecho a la vida, desde el momento en que un individuo es concebido, entra bajo la protección de la Ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural o no inducida.
 
-VII. La descripción general, cantidad y unidad de medida de los bienes o servicios que sean objeto de la licitación;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE AGOSTO DE 2021)</small>
 
-VIII. Lugar, plazo de entrega y condiciones de pago; y
+Las personas titulares de los Poderes Públicos, de los Órganos Constitucionales Autónomos del Estado, así como de los Ayuntamientos, deberán publicar dentro de la primera semana del mes de julio de cada año, en sus páginas oficiales de internet, un informe en el que se señalen las acciones, programas y resultados de la promoción, respeto, protección y garantía de los derechos humanos, conforme lo establezcan las leyes respectivas.
 
-IX. En el caso de arrendamiento, la indicación de si éste es con o sin opción a compra.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2015)</small>
 
-###### Artículo 19.
+APARTADO A. De la promoción, respeto, protección y garantía de los Derechos Humanos.
 
-Las bases para las licitaciones públicas, se pondrán a disposición de los interesados a partir de la fecha de publicación de la convocatoria, y hasta cinco días naturales previos al acto de presentación y apertura de proposiciones, y contendrán, como mínimo, lo siguiente:
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
-I. Nombre, denominación o razón social del Instituto;
+Las normas relativas a los Derechos Humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
 
-I (SIC). Fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; fecha, hora y lugar para la celebración del acto de presentación y apertura de las proposi­ciones, garantías, comunicación del fallo y firma del contrato;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-II. Señalamiento de que será causa de descalificación, el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación;
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-III. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los proveedores, podrán ser negociadas;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-IV. Descripción completa de los bienes o servicios; información específica sobre el mantenimiento, asistencia técnica y capacitación redactada en idioma español; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; especificaciones y normas que, en su caso, sean aplicables; dibujos; cantidades; muestras; pruebas que se realizarán y, de ser posible, métodos para ejecutarlas; periodo de garantía y, en su caso, otras opciones adicionales de cotización;
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado y los Municipios deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes.
 
-V. Plazo, lugar y condiciones de entrega;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Requisitos que deberán cumplir quienes deseen participar.
+Esta Constitución asume a plenitud todos los derechos, prerrogativas de los pueblos y comunidades indígenas; así como las obligaciones de las instituciones públicas establecidas en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos. Por tanto, reconoce los derechos colectivos, a los siguientes pueblos indígenas autóctonos: Kiliwas, Kumiai, Pai pai, Cucapá y Cochimí, así como a las comunidades que conforman estos pueblos.
 
-VII. Condiciones de precio y pago;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-VIII. La indicación de si se otorgará anticipo, en cuyo caso deberá señalarse el porcentaje respectivo, el que no podrá exceder del cincuenta por ciento del monto total del contrato;
+Las comunidades indígenas pertenecientes a cualquier otro pueblo indígena, procedentes de otro Estado de la República y que residan temporal o permanentemente dentro del territorio del Estado de Baja California, quedan protegidos por los derechos señalados en esta Constitución y la ley respectiva. La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta Constitución y Leyes de la materia.
 
-IX. La indicación de si la adjudicación de los bienes o servicios será por la totalidad o bien por partida o concepto de los mismos;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-X. En el caso de los contratos abiertos, la información que corresponda del artículo 32 de este Reglamento;
+Sin poner en riesgo la unidad estatal, esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación y, en consecuencia a su autonomía. Sin perjuicio de lo anterior, también se reconoce el derecho de las mujeres y los hombres indígenas residentes en el Estado, a participar en la elección de Diputaciones y de Munícipes para integrar los Ayuntamientos del Estado, en los términos que determine la Ley.
 
-XI. Señalamiento de que será causa de descalificación la comprobación de que algún proveedor ha acordado con otro u otros elevar los precios de los bienes y servicios;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Penas convencionales por atraso en las entregas, la no entrega de los bienes, la no prestación del servicio, los defectos y vicios ocultos de los bienes y la calidad de los servicios, así como cualquier incumplimiento a los contratos que se celebren;
+Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los Municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos.
 
-XIII. Instrucciones para elaborar y entregar las propuestas y garantías; y
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-XIV. Registro actualizado en el Padrón de Proveedores de Gobierno del Estado; y
+Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación; la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles inicial, preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
-XV. Acreditar el cumplimiento de las obligaciones de registro y actualización en el Sistema de Información Empresarial Mexicano, de conformidad con las normas aplicables y encontrarse al corriente en el cumplimiento de sus obligaciones fiscales.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-###### Artículo 20.
+El acceso al agua para consumo personal y doméstico es un derecho que tiene toda persona. La Ley garantizará su distribución y saneamiento; las autoridades en la materia tienen la obligación de respetar, proteger y cumplir con la prestación de este servicio en los términos de la Ley.
 
-Todo interesado que satisfaga los requisitos de la convocatoria y las bases de la licitación tendrá derecho a presentar su proposición. Para tal efecto, no podrán exigirse requisitos adicionales a los previstos por este Reglamento. Asimismo, se proporcionará a todos los interesados igual acceso a la información relacionada con la licitación, a fin de evitar favorecer a algún participante.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-El plazo para la presentación y apertura de proposiciones no podrá ser inferior a quince días naturales contados a partir de la fecha de publicación de la convocatoria, salvo que, por razones de urgencia justificadas y siempre que ello no tenga por objeto limitar el número de participantes, no pueda observarse dicho plazo, en cuyo caso éste no podrá ser menor a cinco días naturales contados a partir de la fecha de publicación de la convocatoria. La reducción del plazo será autorizada por el Comité.
+Toda persona tiene el derecho de adquirir y disfrutar una vivienda digna, decorosa y adecuada a las necesidades del hogar. El Estado y los Municipios promoverán los instrumentos, políticas y apoyos necesarios para la inversión, construcción, financiamiento y adquisición de viviendas con la participación de los sectores privado y social, a fin de alcanzar un nivel de vida adecuado.
 
-###### Artículo 21.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2021)</small>
 
-El Comité, siempre que ello no tenga por efecto limitar el número de participantes, podrán modificar los plazos u otros aspectos establecidos en la convocatoria o en las bases de la licitación, cuando menos con cinco días naturales de anticipación a la fecha señalada para la presentación y apertura de proposiciones, en los siguientes casos:
+El disfrute de una movilidad segura en las vialidades del Estado es un derecho que tiene toda persona. La ley establecerá las bases y programas para garantizar la seguridad vial del peatón, conductor y pasajero, en las distintas modalidades del transporte público o privado, incluyendo el no motorizado.
 
-I. Tratándose de la convocatoria, las modificaciones se harán del conocimiento de los interesados a través de los mismos medios utilizados para su publicación o comunicación; y
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2021)</small>
 
-II. En el caso de las bases de la licitación, se publique un aviso en uno de los diarios de mayor circulación local y en la Página Web del Instituto, a fin de que los interesados concurran ante el Instituto para conocer, de manera específica, la o las modificaciones respectivas.
+Toda persona tiene el derecho humano a la seguridad ciudadana y a vivir libre de corrupción.
 
-No será necesario hacer la publicación del aviso a que se refiere esta fracción, cuando las modificaciones deriven de las juntas de aclaraciones, siempre que, a más tardar en el plazo señalado en este artículo, se entregue copia del acta respectiva a cada uno de los participantes que hayan adquirido las bases de la correspondiente licitación.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE ABRIL DE 2015)</small>
 
-Las modificaciones de que trata este artículo no podrán consistir en la variación sustancial de los bienes o servicios convocados originalmente, o bien, en la adición de otros distintos.
+APARTADO B. De la Comisión Estatal de los Derechos Humanos.
 
-###### Artículo 22.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
-Quienes participen en las licitaciones a que se refiere este Reglamento deberán garantizar por medio de caución suficiente a satisfacción del Instituto:
+Corresponde a la Comisión Estatal de los Derechos Humanos, la protección, observancia, y promoción de los derechos humanos que amparan las disposiciones jurídicas. Será un organismo público autónomo, con personalidad jurídica y patrimonio propio, contará con autonomía de gestión y presupuestaria, de reglamentación interna y de decisión.
 
-I. La seriedad de las proposiciones en los procedimientos de licitación pública; el Instituto, en su caso, conservará en cus­todia las garantías de que se trate hasta la fecha del fallo, en que serán devueltas a los licitantes salvo las de aquél o aquéllos a quienes se hubiere adjudicado el contrato, la que retendrá hasta el momento en que el proveedor constituya la garantía de cumplimiento del contrato correspondiente;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-II. Los anticipos que, en su caso, reciban. Esta garantía deberá constituirse por la totalidad del monto del anticipo;
+Estará a cargo de un Presidente o Presidenta, que será electa por mayoría calificada del Congreso del Estado, por un periodo de cuatro años, dentro del cual solo podrá ser removido por las causas que se señalan en ésta Constitución y la Ley. No podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-III. El cumplimiento de los contratos; y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-IV. El saneamiento para el caso de evicción, vicios ocultos y daños y perjuicios.
+El procedimiento para la elección del Presidente o Presidenta de la Comisión Estatal de los Derechos Humanos, se ajustará a una consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
 
-Cuando el Instituto celebre contratos en los casos señalados en el artículo 44 de este Reglamento, bajo su responsabilidad, podrán exceptuar al proveedor, según corresponda, de presentar la garantía de cumplimiento del contrato respectivo.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 10 DE ABRIL DE 2015)</small>
 
-###### Artículo 23.
+La Comisión Estatal de los Derechos Humanos contará con las siguientes funciones:
 
-Las garantías que deban otorgarse se constituirán a favor del Instituto Estatal Electoral.
+I. Conocer e investigar a petición de parte, o de oficio, presuntas violaciones de derechos humanos en los siguientes casos:
 
-###### Artículo 24.
+a) Por actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público que tengan carácter estatal o municipal, que violen derechos humanos. Este órgano no será competente tratándose de asuntos electorales y jurisdiccionales.
 
-Se podrán rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del proveedor. Asimismo, se podrán dar por terminados anticipadamente los contratos por razones de interés general fundadas, dando aviso al proveedor, cuando menos con cinco días naturales de anticipación.
+b) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente le correspondan en relación con dichos ilícitos, particularmente en tratándose de conductas que afecten la integridad física de las personas.
 
-###### Artículo 25.
+II. Formulará recomendaciones públicas no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que le presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
 
-El Instituto se abstendrá de recibir propuestas o celebrar contrato alguno en las materias a que se refiere este Reglamento con las personas físicas o morales siguientes:
+III. Podrá solicitar al Congreso del Estado, la comparecencia de las autoridades o servidores públicos responsables que incumplan con las obligaciones mencionadas en la fracción anterior, para que acudan ante el Pleno del Congreso, y expliquen el motivo de su negativa, en los términos que señale la Ley.
 
-I. Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato, tenga interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad, o para terceros con los que tengan relaciones profesion­ales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+IV. Promoverá las acciones de inconstitucionalidad en contra de disposiciones jurídicas, emitidas por el Poder Legislativo y publicadas en el periódico oficial del estado que vulneren derechos humanos.
 
-II. Aquellos proveedores a quienes, por causas imputables a ellos mismos, se les hubiere rescindido en la vía administrativa un contrato, dentro de un lapso de dos años calendario contado a partir de la rescisión;
+V. Aprobará por medio de su Consejo Consultivo, las disposiciones reglamentarias internas para su eficaz funcionamiento, y ejercerá las demás atribuciones que establezca la ley.
 
-III. Aquellas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en algún proceso para la adjudicación de un contrato, en su celebración, durante su vigencia o bien en la promoción o medio de defensa legal;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-IV. Las que no hubieren cumplido sus obligaciones contractuales respecto de las materias de este Reglamento, por causas imputables a ellas y que, como consecuencia de ello, haya sido perjudicado gravemente el Instituto;
+La Comisión Estatal de los Derechos Humanos, contará con un Consejo Consultivo integrado por seis consejeras y consejeros honoríficos predominantemente de ciudadanas o ciudadanos sin cargo público y con reconocido prestigio en la sociedad los cuales deberán ser ratificados por el Poder Legislativo. En la conformación del consejo se deberá garantizar el principio de paridad de género. Asimismo, contará con una Secretaria o Secretario Ejecutivo y hasta cinco Visitadores Generales, de conformidad con los procedimientos y los requisitos que señale la Ley.
 
-V. Los proveedores que se encuentren en situación de atraso en las entregas de los bienes o servicios por causas imputables a ellos mismos y hayan afectado con ello a algún ente público;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-VI. Aquellas a las que se les declare en estado de quiebra o suspensión de pagos o, en su caso, sujetas a concurso de acreedores; y
+La Comisión Estatal de los Derechos Humanos, por conducto de su presidencia, quien lo será también del Consejo Consultivo, presentará anualmente, por escrito, a los Poderes del Estado, un informe de sus actividades. Al efecto, comparecerá ante el Pleno del Poder Legislativo en los términos que disponga la ley.
 
-VII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición del presente Reglamento, las leyes y ordenamientos que resulten aplicables.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2016)</small>
 
-#### SECCIÓN SEGUNDA. DE LOS PROCEDIMIENTOS Y CONTRATOS DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
+APARTADO C. De la Transparencia y Acceso a la Información Pública.
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES, SANCIONES Y DEL PROCEDIMIENTO PARA LA APLICACIÓN DE SANCIONES
+El derecho humano de acceso a la información, comprende solicitar, investigar, difundir, buscar y recibir información. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
 
-###### Artículo 26.
+Para el ejercicio del derecho de acceso a la información, deberán atenderse las siguientes bases:
 
-El acto de presentación y apertura de proposiciones, en el que sólo podrán participar los licitantes que hayan cubierto el costo de las bases de la licitación, se llevará a cabo conforme a lo siguiente:
+I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por las razones de interés público en los términos que fije la Ley.
 
-I. Los licitantes entregarán sus proposiciones por escrito, en sobres cerrados en forma inviolable: en uno se presentará la propuesta técnica y en otro la propuesta económica; se procederá a la apertura de las propuestas técnicas y se desecharán las que hubieren omitido alguno de los requisitos exigidos, las que serán devueltas por el convocante, transcurridos quince días naturales contados a partir de la fecha en que se dé a conocer el fallo de la licitación.
+II.- Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. La Ley determinará los supuestos específicos en que procederá la declaración de inexistencia de la información.
 
-II. A continuación, se procederá a la apertura de los sobres que contengan las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieren sido desechadas, incluyendo la garantía de seriedad de las propuestas, y se dará lectura en voz alta al importe de las proposiciones que contengan los documentos y cubran los requisitos exigidos.
+III.- La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la Ley.
 
-III. Los participantes rubricarán todas las proposiciones presentadas y el convocante fijará la fecha de fallo. Durante este período efectuará un análisis detallado de las proposiciones aceptadas en el acto de apertura.
+IV.- Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación, cancelación y oposición al tratamiento de éstos en los términos que establezca la Ley.
 
-IV. De lo anterior, el convocante levantará el acta correspondiente, en la que hará constar las proposiciones aceptadas y sus importes, así como aquellas que hubiesen sido rechazadas y las causas que lo motivaron. El acta será firmada por los participantes y se les entregará copia de la misma;
+Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución.
 
-I (SIC). En el acta se señalará la fecha, hora y lugar en el que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los veinte días naturales contados a partir de la fecha del acto de apertura, y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de diez días naturales, contados a partir del plazo establecido originalmente;
+V.- Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
-II. En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, el convocante podrá optar por comunicar por escrito el fallo de la licitación a cada uno de los licitantes.
+VI.- La Ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-III. En el mismo acto de fallo o adjunta a la comunicación referida en el párrafo anterior, el convocante proporcionará por escrito a los licitantes, la información acerca de las razones por las cuales su proposición, en su caso, no fue elegida; asimismo, se levantará el acta del fallo de la licitación, que firmarán los participantes, a quienes se entregará copia de la misma.
+VII.- La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la Ley.
 
-IV. El convocante hará del conocimiento general al participante ganador.
+El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, es el organismo constitucional autónomo especializado, imparcial y colegiado al que corresponderá garantizar el acceso a la información pública y la protección de datos personales en poder de los sujetos obligados; fomentar la cultura de transparencia y estimular la participación ciudadana; emitir políticas de transparencia proactiva; coadyuvar en la implementación de políticas y mecanismos de gobierno abierto y resolver los recursos de revisión en los términos que establezca la Ley. El Instituto estará dotado de personalidad jurídica y patrimonio propio, contará con plena autonomía técnica, de gestión y de decisión sobre el ejercicio de su presupuesto, así como de determinación de su organización interna.
 
-V. De acuerdo a la complejidad para evaluar la proposición y de ser conveniente, el fallo podrá efectuarse en la misma fecha del acto de presentación y apertura de proposiciones.
+El Instituto contará con un presupuesto que cada año deberá ser incrementado en un porcentaje mayor al índice inflacionario. Para estos efectos no se considerarán las ampliaciones presupuestales que se hubiesen realizado en el ejercicio fiscal anterior.
 
-###### Artículo 27.
+En su funcionamiento el Instituto se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
-El Comité, para hacer la evaluación de las proposiciones, deberá verificar que las mismas incluyan la información, documentos y requisitos solicitados en las bases de la licitación.
+La Ley establecerá aquella información que se considere reservada o confidencial.
 
-Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará a la persona que, de entre los licitantes, reúna las condiciones legales, técnicas y económicas requeridas por el Instituto, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE RESCISIÓN ADMINISTRATIVA
+El Instituto se integrará por tres personas Comisionadas Propietarios que formarán parte del Pleno y una Comisionada o Comisionado Suplente que cubrirán las ausencias de aquellos, en los términos previstos en la Ley. Las y los Comisionados durarán en su encargo cinco años, sin posibilidad de ser ratificados y serán designados de conformidad con las bases siguientes:
 
-###### Artículo 28.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Si resultare que dos o más proposiciones son solventes y, por tanto, satisfacen la totalidad de los requerimientos del Instituto, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo.
+a.- Inmediatamente que exista una o varias vacantes o ciento veinte días naturales antes si la misma fuere previsible; el Comité Ciudadano el cual estará integrado por siete ciudadanas y ciudadanos nombrados en términos de la ley y dos representantes del Poder Ejecutivo, deberá expedir la convocatoria que debe ser publicada en el Periódico Oficial del Estado y dos diarios de mayor circulación en el Estado.
 
-###### Artículo 29.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-El Comité emitirá el dictamen que servirá de base al fallo, en el que hará constar el análisis de las proposiciones admitidas y se hará mención de las proposiciones desechadas.
+b.- El Comité Ciudadano deberá elaborar una lista de personas que contenga una opinión de los méritos, trayectoria, experiencia y resultados de las entrevistas de cada una de las personas que se inscribieron en términos de la convocatoria señalada en el inciso anterior. La opinión deberá ser enviada al Congreso del Estado, dentro de los sesenta días naturales siguientes contados a partir de la publicación de la convocatoria.
 
-###### Artículo 30.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Contra la resolución que contenga el fallo procederá el recurso previsto en el Título Sexto, Capítulo Único, del presente Reglamento.
+c.- El Pleno del Congreso del Estado en un término no mayor a treinta días naturales contados a partir de que recibió la opinión del Comité Ciudadano, por mayoría calificada de sus integrantes, deberá realizar el nombramiento respectivo. La Presidencia del Congreso dentro de los tres días naturales siguientes al nombramiento respectivo, deberá remitirlo al Gobernador del Estado.
 
-###### Artículo 31.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-La licitación se declarará desierta cuando las posturas presentadas no reúnan los requisitos de sus bases o los precios no fueren aceptables, y podrá expedirse una nueva convocatoria.
+d.- El Gobernador, por una sola vez, podrá objetar de manera fundada y motivada el nombramiento en un término no mayor a cinco días naturales contados a partir del momento en que lo reciba del Congreso. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionada o Comisionado la persona nombrada por el Congreso.
 
-Tratándose de licitaciones en las que una o varias partidas se declaren desiertas por no haberse recibido posturas satisfactorias, se podrá proceder, solo por esas partidas, en los términos del párrafo anterior.
+e.- En caso de que el Gobernador objetara el nombramiento, el Congreso Local realizará un nuevo nombramiento por una votación de mayoría calificada, tomando en consideración las personas que forman parte de la lista a la que alude el inciso b.
 
-###### Artículo 32.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Previa autorización del Comité, podrán celebrarse contratos abiertos conforme a lo siguiente:
+f.- En todas las etapas del proceso de nombramiento de Comisionadas y Comisionados a cargo del Comité Ciudadano y del Congreso del Estado, deberán observarse los principios de transparencia y participación ciudadana.
 
-I. Se establecerá la cantidad mínima y máxima de bienes por adquirir o arrendar, o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición o el arrendamiento.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-En el caso de servicios, se establecerá el plazo mínimo y máximo para la prestación, o bien, el presupuesto mínimo y máximo que podrá ejercerse;
+Las y los Comisionados deberán reunir los requisitos que señalan las fracciones I, V, VI, VII y VIII del artículo 60 de la Constitución Local. Además poseer en ese momento título profesional con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y haber realizado por lo menos durante tres años anteriores a su nombramiento, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación relacionadas con la transparencia y acceso a la Información pública. En la conformación del Pleno del Instituto se deberá garantizar el principio de paridad de género.
 
-II. Se hará una descripción completa de los bienes o servicios relacionada con sus correspondientes precios unitarios;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-III. En la solicitud y entrega de los bienes se hará referencia al contrato celebrado; y
+Las y los Comisionados no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-IV. Como máximo, cada treinta días naturales se hará el pago de los bienes entregados o de los servicios prestados en tal período.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-###### Artículo 33.
+El Instituto contará con un Consejo Consultivo, integrado de manera paritaria por seis Consejeras y Consejeros honoríficos, designados por mayoría calificada del Congreso del Estado. Las y los Consejeros deberán reunir los mismos requisitos que las y los Comisionados, pero tendrán que poseer título profesional con antigüedad mínima de tres años y provenir de organizaciones de la sociedad civil y de la academia. Las y los Consejeros durarán tres años en el encargo con posibilidad de ser ratificados y serán designados conforme a lo que establezca la Ley.
 
-Los contratos que deban formalizarse como resultado de su adjudicación, deberán suscribirse en un término no mayor de diez días naturales contados a partir de la fecha en que se hubiere notificado al proveedor el fallo correspondiente.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-En los pedidos y contratos se estipularán las condiciones, precio, calidad, tiempo de entrega, forma de pago, anticipos, financiamiento, garantías, infracciones, multas o penas, asesoría y en su caso, la capacitación del personal que utilice los bienes u opere los equipos que se adquieran o arrienden.
+El Instituto contará con un Órgano Interno de Control, cuyo titular será designado por mayoría calificada del Congreso del Estado. El procedimiento de designación y requisitos serán establecidos en la Ley.
 
-El proveedor a quien se hubiera adjudicado el contrato como resultado de una licitación perderá en favor del Instituto, la garantía que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo a que se refiere este artículo, pudiéndose adjudicar el contrato al participante que haya presentado la segunda proposición solvente cuyo precio sea el más bajo, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora, en todo caso, no sea superior al diez por ciento.
+La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
 
-El proveedor a quien se hubiera adjudicado el contrato no estará obligado a suministrar los bienes o prestar el servicio, si el Instituto, por causas no imputables al mismo proveedor, no firmara el contrato dentro del plazo establecido en este artículo, en cuyo caso se le reembolsarán los gastos no recuperables en que hubiere incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2021)</small>
 
-###### Artículo 34.
+APARTADO D. De los Juicios Orales, Medios Alternativos y Justicia Laboral.
 
-El atraso del Instituto en la formalización de los contratos respectivos, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
-###### Artículo 35.
+Las leyes señalarán aquellos casos en que los juicios serán predominantemente orales, así como su procedimiento.
 
-Los derechos y obligaciones que se deriven de los contratos de adquisiciones, arrendamientos o servicios, no podrán cederse en forma parcial ni total en favor de cualquiera otra persona física o moral, con excepción de los derechos de cobro, en cuyo caso se deberá contar con la conformidad previa del Instituto.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2015)</small>
 
-###### Artículo 36.
+Las personas tendrán derecho a acceder a los medios alternativos de justicia para resolver sus controversias, en la forma y términos establecidos por las leyes respectivas.
 
-En las adquisiciones, arrendamientos y servicios, deberá pactarse preferentemente la condición de precio fijo.
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-En casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula que determine previamente el Instituto en las bases de la licitación. En ningún caso procederán ajustes que no hubieran sido considerados en las propias bases de la licitación.
+En el Estado de Baja California, la resolución de las diferencias o conflictos entre trabajadores y patrones de competencia local, estará a cargo de los tribunales laborales del Poder Judicial del Estado.
 
-Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-### CAPÍTULO ÚNICO. DE LOS RECURSOS
+Los trabajadores y patrones deberán asistir a la instancia conciliatoria para la resolución de sus diferencias o conflictos, como requisito previo a someterlo al conocimiento de los órganos jurisdiccionales competentes.
 
-###### Artículo 37.
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-El precio estipulado en el contrato deberá pagarse al proveedor, a más tardar dentro de los treinta días naturales siguientes, contados a partir de la fecha en que se haga exigible la obligación de pago.
+La función conciliatoria estará a cargo de un organismo especializado descentralizado de la administración pública con personalidad jurídica y patrimonio propio, dotado de autonomía técnica, operativa, presupuestaria, de decisión y gestión, cuya actuación se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento, así como los requisitos y procedimiento para la designación de su titular, se regirán par (sic) lo dispuesto en esta Constitución, y las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2018)</small>
+
+APARTADO E.- De las Víctimas.
+
+> <small>[N. DE E. PERTENECE AL APARTADO E, P.O. 19 DE ENERO DE 2018]</small>
+
+Esta constitución reconoce y garantiza los Derechos de la víctima o del ofendido derivadas (sic) de las acciones u omisiones que contravengan lo dispuesto por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos. Este derecho y su garantía será exigido por medio de los preceptos jurídicos y a través de los órganos jurisdiccionales correspondientes en los términos que dispongan las leyes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+APARTADO F.- De la Paridad de Género en Órganos Constitucionales Autónomos.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+El Congreso del Estado, en la designación de las personas Titulares de los Órganos Constitucionales Autónomos a que se refiere esta Constitución, cuando estos sean de integración colegiada deberá garantizar el principio de paridad de género. Cuando la designación tenga por objeto cubrir una vacante por terminación anticipada, el nombramiento se deberá realizar en persona del mismo género.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+En los casos, donde la integración sea impar, en las nuevas designaciones se deberá alternar el género mayoritario.
+
+### CAPITULO V.. DE LOS HABITANTES DEL ESTADO Y DE SUS DERECHOS Y OBLIGACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2020)</small>
+
+###### ARTICULO 8.
+
+Son derechos de los habitantes del Estado:
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+I.- Si son mexicanos, los que conceda la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanen y los Tratados Internacionales de los que el Estado Mexicano sea parte.
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+II.- Ejercer el derecho de petición de manera respetuosa y pacífica, teniendo la autoridad la obligación de contestar en breve término; en materia política sólo ejercerán este derecho los ciudadanos mexicanos;
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2018)</small>
+
+III.- Si son extranjeros, gozaran de los derechos humanos y las garantías establecidas en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte, la presente y en las disposiciones legales que de ellas emanen. En ningún caso los extranjeros gozarán de derechos políticos; y,
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
+IV.- Si además de ser mexicanos, son ciudadanos tendrán los siguientes:
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+a).- Votar en las elecciones para integrar los órganos de elección popular de la entidad;
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+b) Participar en los términos de esta Constitución y de la ley, en los procesos de Consulta Popular, Referéndum, Iniciativa Ciudadana, Plebiscito, Revocación de Mandato y Presupuesto Participativo;
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+
+c) Ser votados siempre que reúnan los requisitos que determina esta Constitución y las leyes. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley;
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+d).- Desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando la persona reúna las condiciones que exija la Ley para cada caso; y
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+e).- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado; así como al partido político de su preferencia o asociación de que se trate.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+
+f).- Decidir sobre la donación, trasplante de sus órganos, tejidos, células con fines terapéuticos y sobre el destino final de sus restos mortales; siempre que se apegue a las disposiciones legales establecidas en materia de salud.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1999)</small>
+
+V.- En su condición de padres, deben ser asistidos en la forma que la Legislación lo disponga para la protección y cuidado de los hijos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+
+VI.- Si son personas menores de dieciocho años de edad, tendrán los siguientes derechos:
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2014)</small>
+
+a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, la formación integral en el amor a la nación, en la democracia como sistema de vida fundada en el respeto a la dignidad humana y en el principio de la solidaridad social, así como a ser protegidos y asistidos contra cualquier forma de sustracción del seno de la familia sin el debido proceso, maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad. Para lo cual el Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+
+b) Que el Estado les garantice de manera subsidiaria la protección nutricional a través de programas en los que se establezcan los apoyos y lineamientos necesarios a cargo de las instituciones públicas, en los términos que determine la ley. Las niñas y niños en Baja California tendrán acceso a una alimentación sana y de calidad mediante un desayuno caliente diario en escuelas públicas de nivel básico del Estado.
+
+c) Si son menores de doce años que hayan realizado una conducta prevista como delito en la Ley, sólo serán sujetos a rehabilitación y asistencia social.
+
+d) Si son adolescentes que se encuentran entre doce años de edad y menores (sic) dieciocho años, sujetos a un procedimiento por la comisión de conductas tipificadas como delito, se observará la garantía del debido proceso legal en instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para ellos, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin su reintegración social y familiar, así como el pleno desarrollo de su persona y capacidades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE FEBRERO DE 2015)</small>
+
+e).- Tienen derecho a la identidad y a ser registrados de manera inmediata a su nacimiento, para lo cual las autoridades garantizarán el cumplimiento de estos derechos y expedirán gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+
+El Estado en todas sus decisiones y actuaciones, proveerá lo necesario, expedirá leyes y normas en materia de derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+VII.- Las personas adultas mayores en el Estado, tendrán acceso a los servicios de salud, alimentación, cultura, protección de su patrimonio, asistencia y seguridad social e igualdad de oportunidades que les propicie mayor bienestar y una mejor calidad de vida, en los términos y condiciones que dispongan las leyes.
+
+El Ejecutivo Estatal y los Ayuntamientos, deberán prever en sus Planes de Desarrollo las políticas públicas que brinden una atención integral a las personas adultas mayores.
+
+> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES IDÉNTICO AL SEGUNDO PÁRRAFO DE LA FRACCIÓN VI DE ESTE ARTÍCULO, VÉASE P.O. DE 19 DE OCTUBRE DE 2012.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE FEBRERO DE 2015)</small>
+
+El Estado en todas sus decisiones y actuaciones, proveerá lo necesario, expedirá leyes y normas en materia de derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+VIII.- A ser informados periódicamente, con información veraz y objetiva, por las autoridades del Estado, sobre las actividades que realicen en beneficio de la población, incluyendo de manera enunciativa, pero no limitativa, el acceso a la información a la salud en el caso de emergencias sanitarias.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+IX.- Tener acceso gratuito a internet en las plazas y edificios públicos.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+X.- A tener acceso a una justicia pronta, expedita y eficaz; el Ministerio Público implementará la utilización de medios digitales para facilitar el acceso de la víctima a una denuncia accesible.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XI.- Acceso de programas de apoyo que ofrezca el Estado de acuerdo con el presupuesto aprobado.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XII.- En el caso de los Bajacalifornianos, a que se les apoye con un mínimo indispensable para vivir, cuando se decrete por el Ejecutivo Estatal una emergencia sanitaria, de desastre o cualquier otra prevista por la ley.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XIII.- Al libre acceso al agua y a la protección de la salud.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XIV.- Al acceso a la cultura, al tiempo libre y al ocio, para lo cual las autoridades tomarán las medidas necesarias para el pleno disfrute de estos.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XV.- A vivir en ciudades seguras y libres de contaminación.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XVI.- A los Bajacalifornianos que se les apoye con un mínimo indispensable para vivir de acuerdo con el presupuesto del Estado, cuando sean familias de escasos recursos o caigan en la indigencia.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XVII.- A que se les indemnice en los términos de la ley de la materia, cuando las autoridades estatales y municipales no actúen con diligencia y precaución en la realización de obras públicas.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XVIII.- Las víctimas de un delito a que se les atienda y a la reparación del daño en los términos de la ley y el presupuesto del Estado.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XIX.- A que se aplique el principio de la paridad de género en la integración del gabinete legal y ampliado y en los puestos de la administración pública Estatal y Municipal.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XX.- A que el Estado dicte las medidas necesarias para evitar que se ejerza violencia de género, entre ellas la digital. Cuando las autoridades ministeriales o judiciales no tomen las medidas necesarias para garantizar la integridad de la mujer, serán sancionadas conforme a la ley de la materia.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XXI.- Recibir un trato igualitario y respetuoso, sin preferencias o discriminación de ningún tipo motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2020)</small>
+
+XXII.- A que el Estado les proporcione el servicio de defensoría pública gratuita en los términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2018)</small>
+
+###### ARTICULO 9.
+
+Son obligaciones de los habitantes del Estado:
+
+I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución Política de los Estados Unidos Mexicanos y en la presente.
+
+Tratándose de la obligación de contribución al gasto público, el Estado y Municipios deberán promover los derechos humanos de los contribuyentes en las disposiciones fiscales en el ámbito estatal y municipal. En dichas normas y en el actuar de las autoridades fiscales deberá respetarse siempre el derecho al mínimo vital.
+
+II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos, las que señala la presente Constitución y las que establezca la Ley.
+
+III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado.
+
+IV.- Sin (sic) son padres de familia, tienen la obligación de educar, proteger y alimentar a sus hijos brindando las condiciones necesarias para garantizar el acceso pleno a sus derechos humanos, propiciando un ambiente familiar armónico y afectivo, que garantice su desarrollo integral.
+
+V.- Cuidar y conservar el medio ambiente para mejorar las condiciones de vida de la población.
+
+###### ARTICULO 10.
+
+Los derechos de ciudadanos se pierden y suspenden, respectivamente, en los casos previstos en los artículos 37 y 38 de la Constitución Política de los Estados Unidos Mexicanos.
+
+## TITULO SEGUNDO
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO I.. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO ESTATAL Y MUNICIPAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2017)</small>
+
+###### ARTICULO 11.
+
+La forma de Gobierno del Estado es republicana, representativa, democrática, laica y popular.
+
+El Gobierno del Estado se divide, para su ejercicio, en tres poderes: el Legislativo, el Ejecutivo y el Judicial, los cuales actúan separada y libremente, pero cooperando en forma armónica a la realización de los fines del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2011)</small>
+
+No pueden reunirse dos o más poderes en una sola persona o corporación ni depositarse el Legislativo en un sólo individuo.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2012)</small>
+
+Corresponde al Gobierno del Estado la rectoría del desarrollo estatal, garantizando que éste sea integral y sustentable, asegurando de manera simultánea, el crecimiento económico, la equidad, la sustentabilidad ambiental y la competitividad.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2012)</small>
+
+La competitividad es el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2016)</small>
+
+Las leyes facultarán al Ejecutivo a establecer los procedimientos de participación y consulta popular en el sistema estatal de planeación del desarrollo; y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. La planeación será democrática y deliberativa. Mediante los mecanismos de participación que establezca la ley, recogerá las aspiraciones y demandas de la sociedad para incorporarlas a los planes y los programas de desarrollo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2011)</small>
+
+El Municipio es el orden de gobierno representativo de la voluntad de los ciudadanos.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Las relaciones entre el Municipio y el Gobierno del Estado, se conducirán por los principios de subsidiariedad y equidad, en los términos de esta Constitución, con el propósito de lograr el desarrollo social y humano tendientes a mejorar la calidad de vida de los habitantes del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2012)</small>
+
+La planeación estatal del desarrollo es un medio para el eficiente y eficaz desempeño de la responsabilidad del Gobierno del Estado y de los Gobiernos Municipales con relación al desarrollo integral de la entidad y tenderá a alcanzar los fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado de Baja California.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+El Gobierno del Estado y los Gobiernos Municipales en el ámbito de sus respectivas competencias proveerán las medidas necesarias para el ordenamiento territorial de los asentamientos humanos, estableciendo adecuadas provisiones, usos, reservas y destino de tierras, aguas y bosques de jurisdicción estatal, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población y las ciudades, con el objeto de garantizar un desarrollo urbano sustentable para elevar el nivel y la calidad de vida de la población urbana y rural, en los términos del párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+Corresponde al Ejecutivo del Estado, así como a los Gobiernos Municipales, en los términos que dispongan las leyes, coordinarse con el Consejo Nacional de Evaluación de la Política de Desarrollo Social a efecto de dar seguimiento a las recomendaciones en los rubros de medición de la pobreza y evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social. El Ejecutivo del Estado y los Gobiernos Municipales crearán los órganos de coordinación que correspondan para la evaluación de las políticas de desarrollo social en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2018)</small>
+
+El Ejecutivo del Estado, en los términos que dispongan la Constitución Política de los Estados Unidos Mexicanos así como las leyes relacionadas con el Desarrollo Social y la producción de alimentos, promoverá políticas públicas, reconociendo que la producción de alimentos, su distribución y procesamiento para el consumo humano, se consideran como una actividad de carácter estratégico. Por tanto, el Ejecutivo del Estado establecerá una coordinación efectiva con el gobierno federal para contribuir a la soberanía y seguridad alimentaria de la nación, mediante el impulso a la producción agropecuaria.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+
+A fin de contribuir al cumplimiento de los objetivos señalados en los párrafos cuarto, quinto, sexto, octavo, noveno, décimo y undécimo de este artículo, las autoridades tanto del orden estatal como municipal en el ámbito de sus respectivas competencias, deberán implementar políticas públicas de mejora regulatoria para la simplificación de trámites, servicios y demás objetivos que establezcan la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+### CAPITULO II.. DE LA REVOCACION DE MANDATO
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+###### ARTÍCULO 12.
+
+Es revocable el mandato de los servidores públicos de elección popular, en los términos que dispone esta Constitución y las leyes de la materia, a través de los mecanismos siguientes:
+
+I.- Por los ciudadanos, por responsabilidad política, mediante el juicio político, que podrá interponer cualquier ciudadano;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+II.- Por responsabilidad penal, cuando la autoridad competente así lo determine;
+
+III.- Por la incapacidad total y permanente para ejercer el cargo; que será declarada por autoridad judicial y ratificada por el Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+IV.- De conformidad con lo dispuesto en la fracción I, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, suspender o revocar el mandato de alguno de los miembros de los ayuntamientos por causa grave que determine la Ley, siempre y cuando el afectado haya tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+V.- En los casos en que lo acuerde o solicite la Suprema Corte de Justicia de la Nación, conforme a las disposiciones aplicables.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2015)</small>
+
+VI.- Tratándose de Diputados, la revocación de mandato procederá mediante sufragio universal que emitan los ciudadanos, en términos de las disposiciones que resulten aplicables.
+
+## TITULO TERCERO
+
+### CAPITULO I.. DEL PODER LEGISLATIVO
+
+###### ARTICULO 13.
+
+El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 14.
+
+El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años; electos mediante sufragio universal, libre, secreto, directo, personal e intransferible; diecisiete serán electos en forma directa mediante el principio de mayoría relativa, uno por cada Distrito Electoral en que se divida el territorio del Estado, y en su caso, hasta ocho Diputados electos por el principio de representación proporcional en una circunscripción estatal. Por cada Diputado Propietario se elegirá un Suplente.
+
+(NOTA: EL 3 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2015 Y SUS ACUMULADAS 43/2015 Y 44/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+CADA MUNICIPIO QUE INTEGRA EL ESTADO, DEBERÁ TENER POR LO MENOS UN DISTRITO ELECTORAL EN SU DEMARCACIÓN TERRITORIAL.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+Todos los Diputados tendrán idéntica categoría e igualdad de obligaciones y gozarán de las mismas prerrogativas.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+Los Diputados, como representantes del pueblo, podrán auxiliar a sus representados y a las comunidades del Estado en sus demandas sociales y de orden administrativo de interés general, a fin de lograr su oportuna solución, por lo que las autoridades administrativas del Estado y los Ayuntamientos deberán atender su intervención y ver por la oportuna resolución de sus promociones.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+###### ARTICULO 15.
+
+La asignación de diputaciones por el principio de representación proporcional que le correspondan a cada partido político, se hará por el Instituto Estatal Electoral de acuerdo con el procedimiento que se establezca en la Ley, y atendiendo lo siguiente:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2020)</small>
+
+I.- Para que los partidos políticos tengan este derecho deberán:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+a) Participar con candidaturas a diputaciones por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales, y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+b) Haber obtenido por lo menos el tres por ciento de la votación válida emitida en la elección de diputaciones por el principio de representación proporcional.
+
+c) (DEROGADO, P.O. 24 DE JULIO DE 2020) (REPUBLICADA SU DEROGACIÓN, P.O. 2 DE SEPTIEMBRE DE 2020)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+II.- El Instituto Estatal Electoral una vez verificados los requisitos de la fracción anterior, asignará una diputación a cada partido político que tenga derecho a ello. Las asignaciones corresponderán solo a las candidaturas que tengan mayor porcentaje de votación válida en el distrito y que no hayan obtenido constancia de mayoría; En el caso de coaliciones, la primera asignación a cada partido político deberá determinarse además, con base en el convenio de coalición registrado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+En caso de que el número de partidos políticos sea mayor que el de diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+III.- Si después de asignadas las diputaciones señaladas en la fracción anterior, aún quedasen diputaciones por asignar, se otorgarán a los partidos políticos, en los siguientes términos:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+a) Se obtendrá el porcentaje de votación de los partidos políticos que reúnan los requisitos que señala la fracción I de este artículo, mediante el siguiente procedimiento:
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+1.- Realizará la sumatoria de los votos obtenidos por los partidos políticos o coaliciones, en la elección de diputaciones por el principio de representación proporcional, que reúnan los requisitos, y
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+2.- La votación de cada partido se dividirá entre la sumatoria obtenida en el numeral anterior y se multiplicará por cien.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+b) Se procederá a multiplicar el porcentaje de la votación obtenido por los partidos políticos, en la elección de diputaciones por el principio de representación proporcional de cada partido político, por veinticinco;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+c) Al resultado obtenido en el inciso anterior se le restarán las diputaciones obtenidas de mayoría y la asignada conforme a la fracción anterior;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+d) Se asignará una diputación de representación proporcional por cada número entero que se haya obtenido en la operación señalada en el inciso anterior, procediendo en estricto orden de prelación conforme al porcentaje obtenido, de cada partido político, en los términos del párrafo segundo de la fracción II de este artículo e inciso a) de esta fracción, y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+e) Hechas las asignaciones anteriores, si aún existieren diputaciones por asignar, éstas se otorgarán a los que conserven los restos mayores, una vez deducidas las que se asignaron en el inciso d) anterior.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+IV.- Ningún partido político podrá tener más de diecisiete diputaciones por ambos principios.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+V.- En ningún caso, un partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. Esta fórmula se aplicará una vez que le sea asignado una diputación por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+VI.- La asignación de diputaciones por el principio de representación proporcional que le corresponda a cada partido político, la hará el Instituto Estatal Electoral, en los términos que señale la Ley.
+
+> <small>(REFORMADO PRIMER PÁRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+###### ARTICULO 16.
+
+Las diputaciones se elegirán cada tres años y podrán ser electos de manera consecutiva de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, con independencia de que hayan accedido al cargo como candidaturas independientes o sido postulados por algún partido político o coalición.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Cuando las diputaciones hayan sido postuladas por algún partido político o coalición, la postulación para su elección consecutiva sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Para ser electo para una diputación de manera consecutiva, no será necesario que el funcionario interesado, solicite licencia para separarse del cargo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Durante los periodos de campaña respectiva, quien pretenda reelegirse de manera consecutiva, debe ponderar los siguientes supuestos:
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+I.- No podrá recibir emolumentos o salarios, dietas, apoyos para gestión social o cualquier otra que se le asimile, independientemente de la obligación de continuar en el desempeño del cargo para el cual ha decidido participar en elección consecutiva.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+II.- No podrá utilizar recursos públicos que les correspondan por el ejercicio de su encargo para promover o influir de manera alguna en el voto a su favor o en contra de algún candidato.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+III.- No podrá ocupar al personal adscrito a la nómina del Congreso del Estado durante su horario laboral para realizar actos de campaña.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+IV.- No podrá estar presente en actos públicos relacionados con la entrega de beneficios derivados de programas sociales promovidos en su encargo.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+V.- No podrá condicionar la entrega de recursos provenientes de programas públicos en ninguna circunstancia.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+VI.- No podrá promocionar o publicar las acciones de beneficio social realizadas en el periodo que comprende, desde el inicio de las campañas hasta la conclusión de la jornada electoral.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+VII.- Las demás prohibiciones o limitaciones que determinen las leyes aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+Los partidos políticos en la determinación de los criterios para garantizar la paridad de género en sus métodos de selección de candidaturas deberán respetar el principio de paridad de género en su aspecto cualitativo y cuantitativo.
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+
+Los Diputados que pretendan contender para la elección consecutiva, ya sean emanados del régimen de partidos políticos o a través de la vía independiente, deberán contender por el mismo distrito por el que resultaron electos o, en su caso, por su equivalente cuando la conformación de dichos distritos se haya modificado. En caso de que resulten equivalentes diversos distritos, el aspirante deberá manifestar en cuál de ellos pretende contender.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
+
+###### ARTICULO 17.
+
+Para ser electo Diputado Propietario o Suplente, se requiere:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e hijo de madre o padre mexicanos.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
+
+Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, conforme a la Ley de Nacionalidad vigente a la fecha de la expedición del certificado.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+II.- Tener 18 años de edad.
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+III.- Tener vecindad en el Estado con residencia efectiva, de por lo menos cinco años inmediatos anteriores al día de la elección.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de partido político, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2018)</small>
+
+Estos mismos requisitos serán necesarios tratándose de la elección consecutiva a que refiere el artículo 16 de esta Constitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+###### ARTICULO 18.
+
+No pueden ser electas para ocupar alguna diputación, las siguientes personas:
+
+I.- El Gobernador del Estado, sea Provisional, Interino o Encargado del Despacho durante todo el período de su ejercicio; aún cuando se separe de su cargo;
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+II.- LOS MAGISTRADOS Y JUECES DEL ESTADO, EL SECRETARIO GENERAL DE GOBIERNO, EL FISCAL GENERAL DEL ESTADO, EL FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN, EL FISCAL ESPECIALIZADO PARA LA ATENCIÓN DE DELITOS ELECTORALES Y LOS SECRETARIOS DEL PODER EJECUTIVO, SALVO QUE SE SEPAREN DE SUS CARGOS, EN FORMA DEFINITIVA, NOVENTA DÍAS ANTES DEL DÍA DE LA ELECCIÓN;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+III.- Los Diputados y Senadores del Congreso de la Unión, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+IV.- Los militares en servicio activo o las personas que tengan mando de policía, a menos que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+V.- Los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, salvo que se separen de sus cargos en forma provisional, noventa días antes del día de la elección;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+
+VI.- Quienes tengan cualquier empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional noventa días antes del día de la elección.
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+VII.- Los ministros de cualquier culto religioso, a menos que se separen en los términos que establece la Ley de la materia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+
+VIII.- Las personas condenadas mediante sentencia firme por los delitos de violencia política contra las mujeres en razón de género o violencia familiar.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### ARTICULO 19.
+
+El Congreso se renovará totalmente cada tres años y se instalará el día primero de Agosto posterior a la elección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### ARTICULO 20.
+
+El Instituto Estatal Electoral de acuerdo con lo que establezca la Ley, otorgará las constancias de mayoría a las fórmulas de candidatos que la hayan obtenido y hará la asignación de Diputados por el principio de representación proporcional, de acuerdo con el procedimiento que para tal efecto establece el Artículo 15 de esta Constitución y la Ley.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+El otorgamiento de las constancias de mayoría y la asignación de Diputados de representación proporcional que se mencionan en el párrafo anterior, podrán ser impugnadas ante el Tribunal de Justicia Electoral, en los términos que señale la Ley.
+
+###### ARTICULO 21.
+
+(DEROGADO, P.O. 17 DE OCTUBRE DE 2014)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### ARTICULO 22.
+
+El Congreso del Estado tendrá cada año tres períodos de Sesiones ordinarias, el Primer Período inicia a partir del primero de agosto al último día de noviembre de cada año, el Segundo Período comprende del primero de diciembre al último día de marzo de cada año, y el Tercer Período será a partir del primero de abril al último día de julio de cada año.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
+
+APARTADO A. De los Periodos de Sesiones.
+
+En los tres períodos ordinarios, la Legislatura del Estado estudiará y votará los dictámenes de las cuentas públicas y modificaciones presupuestales, que sean presentados a su consideración, así como las iniciativas de Leyes, decretos o acuerdos económicos; y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
+
+En cada Período de Sesiones Ordinarias el Congreso se ocupará de manera preferente de los asuntos que señale su Ley Orgánica, así como de las iniciativas que el Gobernador del Estado haya señalado con ese carácter conforme a esta Constitución.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE JULIO DE 2022)</small>
+
+APARTADO B. De la Glosa del Informe anual de la persona titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Una vez rendido el informe correspondiente, deberá desarrollarse la glosa del mismo, la cual concluirá dentro del primer período ordinario de sesiones. El Congreso del Estado podrá solicitar dentro de los siguientes 15 días a la conclusión de la glosa a la persona titular del Poder Ejecutivo ampliar la información mediante el procedimiento de Pregunta Parlamentaria, misma que se hará por escrito y tendrá un plazo de 30 días para su respuesta, salvo que se trate del último año de gestión, caso en el cual dentro de los 5 días siguientes de concluida la glosa, el Congreso podrá formular la Pregunta Parlamentaria, a la que se deberá dar respuesta antes de que concluya el mandato constitucional. Las personas titulares de las dependencias del Poder Ejecutivo o de las entidades paraestatales, al comparecer ante el Congreso rendirán sus informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
+Adicionalmente a lo dispuesto en el párrafo anterior, las personas titulares de las Dependencias del Ejecutivo Estatal, de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Fiscalía Especializada para la Atención de Delitos Electorales, así como las personas titulares e integrantes de Consejos Municipales, Direcciones Generales o sus equivalentes de las entidades paraestatales, estarán obligadas a comparecer, bajo protesta de decir verdad, ante el Pleno o las Comisiones respectivas, cuando así lo acuerde el Congreso, por votación mayoritaria de sus integrantes.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2022)</small>
+
+La persona titular del Poder Ejecutivo del Estado tendrá voz en el Congreso del Estado por sí o a través de la persona titular de la Secretaría General de Gobierno, para presentar iniciativas, informes o responder a preguntas, mediando solicitud para hacerlo o por invitación del Congreso del Estado, en los términos de esta Constitución y en las leyes que de ella emanen.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+APARTADO C.- De las Leyes de Ingresos, los Presupuestos de Egresos y las Cuentas Públicas.
+
+En el Segundo Período Ordinario, antes de concluir el año, examinará, discutirá, y en su caso, modificará y aprobará las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, correspondiente al siguiente Ejercicio Fiscal, en los términos de la ley de la materia. Si al iniciarse el año fiscal correspondiente, el Congreso del Estado no hubiese aprobado las leyes de ingresos del Estado y de los Municipios, así como los presupuestos de Egresos correspondientes, en tanto sean expedidas, continuará rigiendo el Presupuesto que hubiere estado vigente el año anterior.
+
+En el Tercer Período Ordinario de cada año, el Congreso deberá concluir la revisión, análisis, dictaminación y, en su caso, aprobación o no aprobación, de las Cuentas Públicas recibidas en el ejercicio anterior, que hayan sido fiscalizadas en los términos de la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2014)</small>
+
+APARTADO D. De las Remuneraciones de los Servidores Públicos.
+
+Los poderes Ejecutivo, Legislativo y Judicial, así como los Organismos Públicos Autónomos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos y deberán observar el mismo procedimiento para la aprobación del presupuesto de egresos, previsto en esta Constitución y en las demás Leyes aplicables en la materia.
+
+El Congreso del Estado, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la remuneración que corresponda a un empleo que este establecido por la ley; y en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.
+
+En todo caso, dicho señalamiento deberá respetar las bases previstas en los artículos 97 y demás relativos de esta Constitución, así como las leyes que en la materia expida el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+###### ARTICULO 23.
+
+El Congreso solo podrá sesionar con la asistencia de mas de la mitad del número total de sus miembros.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+###### ARTICULO 24.
+
+Si el día señalado para la instalación del Congreso, no se presentaren todos los Diputados electos; o si una vez instalado no hubiere quórum para la celebración de las sesiones, los que estuvieren presentes compelerán a los ausentes, para que concurran a la próxima sesión, la que no deberá rebasar el término de cinco días a la fecha de la instalación o de la sesión, apercibiéndolos hasta en dos ocasiones, de que en caso de que dejaren de comparecer injustificadamente se llamará a los suplentes. Si estos incurrieren en la misma omisión, se declarará vacante el puesto, obligándose inmediatamente a convocar a elecciones extraordinarias, conforme a la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+
+###### ARTICULO 25.
+
+Las sesiones del Congreso serán públicas, a excepción de aquellas que, por la naturaleza de los negocios que van a tratarse, deban ser privadas.
+
+### CAPITULO II.. DE LAS PRERROGATIVAS DE LOS DIPUTADOS Y DE LAS FACULTADES DEL CONGRESO
+
+###### ARTICULO 26.
+
+Los diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y jamás podrán ser reconvenidos por ellas.
+
+###### ARTICULO 27.
+
+Son facultades del Congreso:
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
+
+I.- Legislar sobre todos los ramos que sean de la competencia del Estado y reformar, abrogar y derogar las leyes y decretos que expidieren, así como participar en las reformas a esta Constitución, observando para el caso los requisitos establecidos;
+
+II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como proponer la reforma o derogación de unas y de otras;
+
+III.- Facultar al Ejecutivo con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda;
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+En caso de que el Gobernador del Estado, dentro de los noventa días siguientes a la instalación de cada legislatura constitucional, opte por un Gobierno de Coalición, acordará las políticas públicas convenidas, turnándolas para su registro y seguimiento al Congreso del Estado.
+
+IV.- Fijar la división territorial, política, administrativa y judicial del Estado;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2014)</small>
+
+V.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la Administración, así como aumentar o disminuir los emolumentos de que éstos gocen, teniendo en cuenta lo establecido en el artículo 97 y demás relativos de esta Constitución, las condiciones de la Hacienda Pública y los demás ordenamientos legales aplicables en la materia;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+VI.- Dar las bases para que el Ejecutivo del Estado y los Municipios celebren empréstitos, con las limitaciones que establece la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos y reconocer y autorizar el pago de las deudas que contraiga el Estado;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+VII.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo que hubiere hecho el Instituto Estatal Electoral;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+VIII.- Expedir el Bando Solemne para dar a conocer en el Municipio respectivo la declaración de munícipes electos que hubiere hecho el Instituto Estatal Electoral;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+
+XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
+
+XII.- Revisar, analizar y auditar por medio de la Auditoria Superior del Estado, las cuentas anuales de las Entidades fiscalizables, y dictaminar la aprobación o no aprobación de las mismas, en los términos de la Ley de la materia. Asimismo, podrá solicitar y revisar, de manera concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, pero exclusivamente cuando el proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
+
+XIII.- Vigilar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión; el funcionamiento y desempeño de la Auditoría Superior del Estado. Al efecto, le podrá requerir informe sobre la evolución de sus trabajos en materia de fiscalización, por medio de la Comisión que determine la Ley;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+XIV.- Nombrar y remover al Auditor Superior del Estado, por el voto de las dos terceras partes de sus miembros; en la forma y términos establecidos en esta Constitución y por la Ley de la materia.
+
+Para efecto del procedimiento relativo a la designación del Auditor Superior del Estado, funcionará la Comisión Especial en los términos que determine el Congreso del Estado.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+XV.- NOMBRAR POR MAYORÍA CALIFICADA A LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA Y RESOLVER RESPECTO A SU RATIFICACIÓN O NO RATIFICACIÓN;
+
+XVI.- Designar, en los términos que previene esta Constitución, al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
+
+XVII.- Convocar a elecciones, cuando fuere necesario conforme a lo establecido en la Ley;
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+XVIII.- RESOLVER ACERCA DE LAS LICENCIAS DEFINITIVAS DE LOS DIPUTADOS Y DEL GOBERNADOR; ASÍ COMO RESPECTO A LAS RENUNCIAS Y REMOCIONES DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+XIX.- Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos; y a los Magistrados del Poder Judicial cuando ésto sea por más de dos meses;
+
+XX.- Aprobar o reprobar los convenios que el Gobrenador (sic) celebre con las vecinas Entidades de la Federación respecto a la cuestión de límites, y someter tales convenios a la ratificación del Congreso de la Unión;
+
+XXI.- Cambiar provisionalmente, y por causa justificada, la residencia de los Poderes del Estado;
+
+XXII.- Resolver las competencias y dirimir las controversias que se susciten entre el Ejecutivo y el Tribunal Superior salvo lo prevenido en los Artículos 76 Fracción VI y 105 de la Constitución General de la República;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
+
+XXIII.- Elegir a los Magistrados del Tribunal Estatal de Justicia Administrativa; determinar su adscripción a Pleno o a Salas y resolver respecto a su ratificación o no ratificación, ausencias definitivas, renuncias y remociones; en la forma y términos que esta Constitución y la Ley determinen;
+
+> <small>(REFORMADA, P.O. 26 DE MAYO DE 2017)</small>
+
+XXIV.- Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra estos se instauren;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+
+XXVI.- Crear o suprimir municipios, fijar, delimitar y modificar la extensión de sus territorios, autorizar mediante Decreto los convenios amistosos que sobre sus respectivos límites celebren los municipios; así como dirimir de manera definitiva las controversias o diferencias que se susciten sobre límites territoriales intermunicipales, modificando en su caso el Estatuto Territorial. Lo previsto en esta fracción se sujetará, a la emisión del voto aprobatorio de las dos terceras partes de los Diputados integrantes del Congreso;
+
+XXVII.- Conceder amnistía por delitos de carácter político de la competencia de los tribunales del Estado, cuando la pena no exceda de tres años de prisión, no se trate de reincidentes y siempre que sea acordada por dos tercias partes de los diputados presentes;
+
+XXVIII.- Otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado;
+
+XXIX.- Conceder pensiones a los familiares de quienes hayan prestado servicios eminentes al Estado, siempre que su situación económica lo justifique;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1984)</small>
+
+XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Asimismo, legislar respecto a los conflictos entre trabajadores y patrones, a efecto de lograr su conciliación o resolución por la vía jurisdiccional, con base en lo dispuesto en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2019)</small>
+
+XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que el Gobernador haga del Secretario de Integración y Bienestar Social y del Secretario de la Honestidad y la Función Pública. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2011)</small>
+
+El Congreso podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Cuando el Gobernador opte por el Gobierno de Coalición, ratificará a los Titulares de las Dependencias del Poder Ejecutivo, en los términos que dispongan esta Constitución y las leyes que de ella emanen.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2001)</small>
+
+XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2011)</small>
+
+XXXIV.- Erigirse en Asamblea de Transición por medio de la Mesa Directiva del Congreso a fin de preparar y cumplir con el proceso de entrega recepción de una Legislatura a otra, en los términos que disponga la Ley;
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2004)</small>
+
+XXXV.- Elaborar y aprobar el Plan de Desarrollo Legislativo en los términos de esta Constitución y de lo que disponga la Ley;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2011)</small>
+
+XXXVI.- Expedir la Ley que regulará la estructura y funcionamiento interno del Congreso, su Reglamento Interior, y demás acuerdos que resulten necesarios para la adecuada organización administrativa del Congreso;
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN XXXVII DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2020)</small>
+
+XXXVII.- CITAR A LOS SECRETARIOS DEL RAMO, FISCAL GENERAL DEL ESTADO, AL FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN, AL FISCAL ESPECIALIZADO PARA LA ATENCIÓN DE DELITOS ELECTORALES, A LOS TITULARES O ADMINISTRADORES DE LOS ORGANISMOS DESCENTRALIZADOS ESTATALES O DE LAS EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA, ASÍ COMO AL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA, A LOS TITULARES DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS, PARA QUE INFORMEN CUANDO SE DISCUTE UNA LEY, SE REALICE LA GLOSA DEL INFORME QUE RINDAN EL TITULAR DEL EJECUTIVO DEL ESTADO O DEL PODER JUDICIAL O CUANDO SE ESTUDIE UN ASUNTO CONCERNIENTE A SUS RESPECTIVOS RAMOS O ACTIVIDADES. PARA LOS EFECTOS DE LA CITACIÓN DEL FISCAL GENERAL DEL ESTADO SE ESTARÁ A LO DISPUESTO EN EL ARTÍCULO 70 DE ESTA CONSTITUCIÓN.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+
+Los funcionarios a que se refiere el párrafo anterior, estarán obligados a acudir a las sesiones correspondientes; así como a dar respuesta formal, atendiendo a los puntos de acuerdo o exhortos remitidos por el Congreso, en un plazo prudente que no exceda de 30 días naturales.
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+XXXVIII.- Examinar y en su caso aprobar el Plan Estatal de Desarrollo que le remita el Ejecutivo;
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XXXIX.- Elegir por mayoría calificada, al titular de la Comisión Estatal de los Derechos Humanos, o realizar su remoción por la misma votación, solo por las causas previstas en esta Constitución y la Ley, relativas a responsabilidad de servidores públicos. Así como aprobar las propuestas de nombramientos de los integrantes del Consejo Consultivo.
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
+
+XL.- A solicitud del Presidente de la Comisión Estatal de Derechos Humanos, citar a las autoridades o servidores públicos responsables, que no acepten o incumplan las recomendaciones de la Comisión Estatal de Derechos Humanos, para que comparezcan ante el Congreso del Estado, a efecto de que expliquen el motivo de su negativa; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2017)</small>
+
+XLI.- Expedir conforme a las bases normativas aplicables los siguientes ordenamientos:
+
+1. La Ley que regula la organización y facultades de la Auditoría Superior del Estado y las demás que normen la gestión, control y evaluación de los entes públicos estatales, municipales y organismos con autonomía, así como de las paraestatales y paramunicipales.
+
+2. La Ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción;
+
+3. La Ley que crea el Tribunal Estatal de Justicia Administrativa, el cual, deberá estar dotado de plena autonomía para dictar sus fallos, y en la que se deberá establecer su organización, funcionamiento y los recursos para impugnar sus resoluciones;
+
+4. La Ley que desarrolle las competencias, a cargo de las autoridades locales y municipales que determine la legislación general en materia de responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2017)</small>
+
+XLII.- Designar al Titular de la Fiscalía Especializada en Combate a la Corrupción, mediante convocatoria pública y conforme al procedimiento que establezca la Ley.
+
+La convocatoria pública, a que hace referencia el párrafo anterior, deberá darse amplia publicidad en los periódicos de mayor circulación del Estado y en la página oficial del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2017)</small>
+
+XLIII.- Designar por mayoría calificada, a los titulares de los órganos internos de control de los organismos con autonomía reconocidos por esta Constitución, con excepción de los relacionados con órganos electorales, mediante convocatoria pública y conforme al procedimiento que establezca la Ley, los cuales durarán en su cargo cuatro años y podrán ser reelectos por una sola ocasión. Solo podrán ser removidos por faltas graves, en la forma y términos establecidos en la Ley de la materia;
+
+La convocatoria pública a que hace referencia el párrafo anterior, deberá darse amplia publicidad en los periódicos de mayor circulación del Estado y en la página oficial del Congreso del Estado;
+
+Para efecto del procedimiento relativo a la designación de los titulares de los órganos internos de control a que hace referencia esta fracción, funcionara la Comisión Especial en los términos a que alude el artículo 70 párrafo VIII de esta Constitución.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JULIO DE 2017)</small>
+
+XLIV.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, a los Poderes del Estado de Baja California.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JULIO DE 2017)</small>
+
+XLV.- Legislar en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano sustentable de los centros de población, atendiendo a las facultades concurrentes previstas en la Constitución Política de los Estados Unidos Mexicanos, en la presente Constitución y en las leyes aplicables.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE OCTUBRE DE 2019)</small>
+
+XLVI.- Designar al Fiscal General del Estado, al Fiscal Especializado en Combate a la Corrupción y al Fiscal Especializado para la Atención de Delitos Electorales, por mayoría calificada de conformidad con las reglas contenidas en esta Constitución.
+
+### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
+
+###### ARTICULO 28.
+
+La iniciativa de las leyes y decretos corresponde:
+
+I.- A los diputados;
+
+II.- Al Gobernador;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+III.- Al Tribunal Superior en asuntos relacionados con la organización y funcionamiento de la administración de Justicia; así como al Tribunal de Justicia Electoral en asuntos inherentes a la materia electoral;
+
+IV.- A los Ayuntamientos.
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+V.- Al Instituto Estatal Electoral exclusivamente en materia electoral, y
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+VI.- A los ciudadanos residentes en el Estado, a las Organizaciones de la Sociedad Civil del Estado en los asuntos relativos al objeto para el cual fueron constituidas y a las Instituciones de Educación Superior del Estado en los términos que establezca la Ley.
+
+###### ARTICULO 29.
+
+Las iniciativas de ley o decreto deberán sujetarse a los trámites siguientes:
+
+I.- Dictamen de Comisiones;
+
+II.- Discusión;
+
+III.- Votación.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DEL 2001)</small>
+
+###### ARTICULO 30.
+
+Las comisiones de dictamen legislativo anunciarán al Ejecutivo del Estado, cuando menos con cinco días de anticipación, la fecha de la sesión cuando haya de discutirse un proyecto, a fin de que pueda enviar un representante que, sin voto tome parte en los trabajos.
+
+El mismo procedimiento se seguirá con:
+
+I.- El Poder Judicial, cuando la iniciativa se refiere a asuntos relativos a la organización, funcionamiento y competencia del ramo de la Administración de Justicia; y
+
+II.- Los ayuntamientos, cuando la Iniciativa se refiera a los asuntos de carácter municipal, en los términos de esta Constitución.
+
+###### ARTICULO 31.
+
+En los casos de urgencia notoria calificada por mayoría de votos, de los diputados presentes, el Congreso puede dispensar los trámites reglamentarios para la aprobación de las leyes y decretos.
+
+###### ARTICULO 32.
+
+Desechada una iniciativa no podrá volver a presentarse en el mismo período de sesiones.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+
+En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
+
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2011) (F. DE E., P.O. 15 DE ABRIL DE 2011)
+
+###### ARTICULO 33.
+
+Las iniciativas adquirirán el carácter de ley cuando sean aprobadas por el Congreso y Promulgadas por el Ejecutivo, salvo lo previsto en el artículo 34 de esta Constitución.
+
+> <small>(F. DE E., P.O. 8 DE JULIO DE 2011)</small>
+
+Si la ley no fija el día en que deba comenzar a observarse, será obligatoria en todo el Estado tres días después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 34.
+
+Si el Ejecutivo juzga conveniente hacer observaciones a un proyecto aprobado por el Congreso, podrá negarle su sanción y devolverlo con sus observaciones a este Poder dentro de los quince días siguientes a aquel en que se le haga saber, o para que tomadas en consideración, se examine y se discuta de nuevo.
+
+A. Se reputará aprobado por el Ejecutivo todo proyecto que no se devuelva con observaciones al Congreso dentro de los mencionados términos. Vencido el plazo a que se refiere el párrafo anterior, el Ejecutivo dispondrá de diez días para promulgar y publicar la ley o decreto. Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente del Congreso ordenará dentro de los quince días siguientes su publicación en el Periódico Oficial del Estado, sin que se requiera refrendo.
+
+B. El proyecto de decreto o de ley al que se hubieren hecho observaciones, será promulgado y publicado si el Congreso en un plazo de treinta días contados a partir del día siguiente a que reciba las observaciones, vuelve a aprobarlo por dos tercios del número total de sus miembros. Vencido este plazo, se tendrá por no ratificado el proyecto de que se trate.
+
+Los proyectos de decreto o de ley que hubieren sido objetados por el Ejecutivo, conforme a esta Constitución, y que hayan sido ratificados por el Congreso en el plazo indicado en el párrafo anterior, deberán ser promulgados y publicados en un término que no exceda de cinco días, contados a partir de la fecha en que hayan sido remitidos nuevamente al Ejecutivo.
+
+C. Los proyectos de ley y los decretos aprobados por el Congreso, se remitirán al Ejecutivo firmados por el Presidente y el Secretario del Congreso, en un plazo máximo de diez días a su aprobación. En un plazo similar, se deberán remitir a los Ayuntamientos, las iniciativas de adición o reforma a esta Constitución, que haya sido aprobada por acuerdo de las dos tercias partes del número total de Diputados, para los efectos previstos en el artículo 112 de esta Constitución.
+
+Las leyes, ordenamientos y disposiciones de observancia general que hayan sido aprobados por el Congreso del Estado y sancionadas por el Ejecutivo deberán ser promulgados y publicados en el Periódico Oficial del Estado.
+
+D. Si los reglamentos, circulares y demás disposiciones de observancia general, no fijan el día en que deben comenzar a observarse, serán obligatorias tres días después de su publicación en el Periódico Oficial del Estado.
+
+E. Las leyes que expida el Congreso del Estado, excepto las de índole tributario o fiscal, podrán ser sometidas a Referéndum, conforme lo disponga la Ley.
+
+F. Los asuntos que sean materia de acuerdo, se sujetarán a los trámites que fije la Ley.
+
+G. El Gobernador del Estado no podrá hacer observaciones sobre los decretos que manden abrir o cerrar sesiones del Congreso, los emitidos por éste cuando actúe en funciones de Jurado de Sentencia y las reformas constitucionales aprobadas en los términos del artículo 112 de esta Constitución.
+
+H. El Congreso del Estado tendrá facultades plenas para expedir, reformar, adicionar o abrogar la ley que regulará su estructura y funcionamiento internos. Esta Ley o las reformas a la misma no podrán ser sujetas a observaciones, ni necesitarán de sanción, promulgación y publicación del Ejecutivo del Estado para tener vigencia.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 35.
+
+Cuando en esta Constitución o en la Ley, se señale que una atribución que ejerza el Congreso del Estado debe ser aprobada por mayoría calificada o por dos terceras partes de sus integrantes, se entenderá que se requieren por lo menos diecisiete votos de los Diputados.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+###### ARTICULO 36.
+
+El día de la apertura de cada periodo de sesiones ordinarias del Congreso del Estado, el Gobernador podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter alguna que hubiere presentado en periodos anteriores y no hayan sido votadas en el Pleno del Congreso. Asimismo deberá sustentar las razones por las que otorga dicho carácter a cada iniciativa.
+
+Cada iniciativa deberá ser discutida y votada en las Comisiones de dictamen legislativo que corresponda, así como en el Pleno del Congreso, durante el periodo de sesiones ordinarias en que se presente. Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la última sesión de dicho periodo.
+
+La Ley Orgánica del Poder Legislativo del Congreso regulará el trámite legislativo de las iniciativas que el Gobernador presente o señale con carácter preferente, así como las sanciones aplicables a los Diputados que infrinjan los plazos y términos previstos en esta Constitución, por el ejercicio de esta facultad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2017)</small>
+
+### CAPITULO IV.. DE LA AUDITORIA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2017)</small>
+
+###### ARTÍCULO 37.
+
+El Congreso del Estado contará con un órgano de fiscalización denominado Auditoría Superior del Estado, con autonomía técnica y de gestión en ejercicio de sus atribuciones para decidir sobre su organización interna, recursos, funcionamiento y resoluciones, el cual se sujetará a lo siguiente:
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
+
+I.- La Auditoría Superior del Estado será administrado (sic) y dirigido (sic) por un Auditor Superior del Estado, quien actuará con plena independencia e imparcialidad y responderá solo al mandato de la Ley.
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+II.- Para su designación y remoción será necesaria la aprobación de las dos terceras partes de los Diputados presentes, en la sesión de Pleno del Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
+
+III.- La Ley determinará el procedimiento para la designación del Auditor Superior del Estado. Podrá ser removido, exclusivamente, por las causas graves que la Ley señale o por las causas y conforme a los procedimientos previstos en el Título Octavo de esta Constitución.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
+
+IV.- El nombramiento de Auditor Superior del Estado será por un periodo de siete años, sin que proceda la ratificación.
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+V.- Durante el ejercicio de su encargo no podrá ocupar cargo de dirigente de algún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los remunerados en asociaciones científicas, docentes, artistas o de beneficencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2017)</small>
+
+VI.- Para ser nombrado Auditor Superior del Estado se requiere:
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+a).- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+b).- Tener cuando menos 35 años cumplidos el día de la designación;
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+c).- Haber residido en el Estado durante los diez años anteriores al día de su designación;
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+d).- Poseer Título profesional de Contador Público, o Titulo afín;
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+
+e).- Tener reconocido prestigio profesional y experiencia técnica de por lo menos diez años en materia de administración pública, así como de control, auditoría financiera y de responsabilidades;
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
+f).- Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; y
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+
+g).- No haber ocupado cargo de elección popular, ni haber sido titular de los Poderes Ejecutivo, Legislativo y Judicial, Municipios y Organismos Públicos Autónomos, así como titular de sus respectivas Entidades, Dependencias y Unidades Administrativas equivalentes, durante los tres años previos al día de la designación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+
+h).- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal, en algún partido político, durante los tres años anteriores al día de la designación;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+
+i).- No haber sido candidato a algún cargo de elección popular, durante los tres años anteriores al día de la designación;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+
+j).- Presentar sus declaraciones de intereses, patrimonial y fiscal, previo a su designación;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+
+k).- Haber destacado por su contribución en materia de fiscalización, de rendición de cuentas, prevención, investigación, detección y combate a la corrupción;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+
+l).- Las demás que determinen las Leyes.
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
+
+VII.- La Auditoría Superior del Estado, ejercerá las atribuciones de fiscalización, las que se desarrollarán conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+
+La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
+
+Además de lo anterior, ejercerá las siguientes atribuciones:
+
+a).- Desarrollar los trabajos de planeación de las auditorías, pudiendo solicitar información del ejercicio en curso respecto de los procesos concluidos y no concluidos;
+
+b).- Fiscalizar la administración, manejo, custodia y aplicación de fondos, subsidios y recursos de los poderes del Estado y de las entidades públicas estatales, incluyendo a los municipios, organismos dotados de autonomía y particulares, cuando manejen recursos de origen público, que incluirá auditoría de desempeño, eficiencia, economía y cumplimiento;
+
+c).- Coadyuvar con la Auditoría Superior de la Federación, en la fiscalización de las participaciones federales, en términos de la normatividad aplicable;
+
+d).- Solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas gubernamentales. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, solo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
+
+Sin perjuicio de lo previsto por este artículo, en las situaciones que determine la Ley, derivado de denuncias, la Auditoría Superior del Estado, previa autorización de su titular, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones que correspondan ante al (sic) Tribunal Estatal de Justicia Administrativa, la Fiscalía Especializada en combate a la Corrupción o las autoridades competentes;
+
+e).- Efectuar visitas domiciliarias en los términos que señale La Ley;
+
+f).- Proponer las bases para la determinación de daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal, o al Patrimonio de las Entidades Públicas Estatales y Municipales; así como para las indemnizaciones y sanciones pecuniarias correspondientes a los responsables, haciéndolo del conocimiento del Congreso quien procederá conforme a la Ley;
+
+g).- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, custodia y aplicación de los fondos y recursos públicos, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos;
+
+h) Promover, derivado de sus investigaciones, las responsabilidades que sean procedentes ante el Tribunal Estatal de Justicia Administrativa y la Fiscalía Especializada en combate a la Corrupción del Estado, o demás autoridades competentes para la imposición de las sanciones que correspondan a los servidores públicos o a los particulares, en los términos de las disposiciones legales aplicables;
+
+Los Poderes del Estado y los sujetos de fiscalización proporcionarán auxilio a la Auditoría Superior del Estado para el ejercicio de sus funciones.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2017)</small>
+
+VIII.- La Auditoría Superior del Estado entregará los informes de resultados de las revisiones de las Cuentas Públicas al Congreso del Estado en los términos y plazos que establece la Ley de la materia, mismos que tendrán carácter público y tendrán el contenido que determine la Ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+
+La Auditoría Superior del Estado dará a conocer a las entidades fiscalizadas, de manera previa a la presentación de los informes individuales de auditoría, la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los informes individuales de auditoría, para este efecto, se sujetará a las siguientes bases:
+
+a).- Enviará a las entidades fiscalizadas, par (sic) conducto del Auditor Superior del Estado, los informes individuales de auditoría que les corresponda (sic), a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en (sic) Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal Estatal de Justicia Administrativa, las cuales se sujetarán a los procedimientos y términos que establezca la Ley;
+
+b).- Deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas par (sic) las entidades fiscalizadas, en caso de no hacerlo, se tendrán par (sic) atendidas las recomendaciones y acciones promovidas;
+
+c).- En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia;
+
+d).- Entregará al Congreso del Estado, en los plazos y términos que señale la Ley, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría Superior del Estado incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal Estatal de Justicia Administrativa.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+
+La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2014)</small>
 
 ### CAPITULO V.. DE LA PLANEACION Y EVALUACION LEGISLATIVA
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-###### Artículo 38.
+###### ARTICULO 38.
 
-Dentro del presupuesto aprobado y disponible, el Instituto bajo su responsabilidad y notificando al Comité, podrán acordar el incremento en la cantidad de bienes solicitados mediante modificaciones a sus contratos vigentes, dentro de los seis meses posteriores a su firma, siempre que el monto total de las modificaciones no rebase, en conjunto, el treinta por ciento de los conceptos y volúmenes establecidos originalmente en los mismos y el precio de los bienes no exceda en un cinco por ciento al pactado originalmente.
+El Plan de Desarrollo Legislativo se aprobará en el segundo período de sesiones del inicio de una Legislatura y deberá contener la Agenda Legislativa Básica, la cual se elaborará bajo los principios de economía funcional, eficiencia y democrático.
 
-Igual porcentaje se aplicará a las modificaciones o prórrogas que se hagan respecto de la vigencia de los contratos de arrendamientos o servicios.
+El Plan de Desarrollo Legislativo se elaborará, controlará y coordinará conforme a los procedimientos y plazos que establezca la Ley.
 
-###### Artículo 39.
+El Plan de Desarrollo Legislativo, se elaborará sin perjuicio del derecho contenido en el Artículo 28 de esta Constitución.
 
-Cualquier modificación a los contratos deberá formalizarse por escrito.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
-Los entes públicos se abstendrán de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor comparadas con las establecidas originalmente.
+###### ARTICULO 39.
 
-## TÍTULO CUARTO
+El Congreso del Estado contará con sistemas y mecanismos de evaluación de la función legislativa.
+
+La evaluación de la función legislativa contará con criterios de medición de la eficacia e impacto de los procesos de formación de leyes y decretos, dictaminación de cuentas públicas, gestión en auxilio a sus representados y desarrollo institucional del Poder Legislativo.
+
+La Ley determinará las bases, instancias, mecanismos de participación ciudadana, criterios y procedimientos necesarios para su cumplimiento.
+
+## TITULO CUARTO
 
 ### CAPITULO I.. DEL PODER EJECUTIVO
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 40.
+###### ARTICULO 40.
 
-Podrán pactarse penas convencionales a cargo del proveedor por atraso en el cumplimiento de los contratos. En las operaciones en que se pactare ajuste de precios, la penalización se calculará sobre el precio ajustado.
+El Ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado.
 
-Tratándose de incumplimiento del proveedor por la no entrega de los bienes o de la prestación del servicio, éste deberá reintegrar los anticipos más los intereses correspondientes, conforme a una tasa que será igual a la establecida, según corresponda, por la Ley de Ingresos del Estado para los casos de prórroga en el pago de créditos fiscales. Dichos conceptos se calcularán sobre el monto del anticipo no amortizado y se computarán por días calendario, desde la fecha de su entrega hasta la fecha en que se pongan efectivamente las cantidades a disposición el Instituto.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 41.
+El Gobernador del Estado conducirá la Administración Pública Estatal, que será Centralizada y Paraestatal, conforme a la Ley Orgánica que expida el Congreso, que distribuirá los asuntos del orden administrativo del Gobierno del Estado, que estarán a cargo de la Secretaría General de Gobierno, Secretaría de Hacienda, las Secretarías y las Direcciones del Ramo, y definirá las bases de creación de las entidades Paraestatales, la intervención del Gobernador en su operación y las relaciones entre éstas y la Secretaría General de Gobierno, Secretaría de Hacienda, las Secretarías y las Direcciones del Ramo.
 
-Los proveedores quedarán obligados a responder de los defectos y vicios ocultos de los bienes y de la calidad de los servicios, del saneamiento para el caso de evicción así como de cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en el contrato respectivo y en el Código Civil del Estado de Chihuahua.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 42.
+La administración de las entidades paraestatales estará a cargo del titular de la entidad, y por un órgano de gobierno integrado con no menos de cinco ni más de trece integrantes propietarios, de los cuales la mayoría deberá pertenecer a la administración pública.
 
-Los proveedores cubrirán las cuotas compensatorias a que, conforme a la ley de la materia, pudiere estar sujeta la importación de bienes objeto de un contrato, y en estos casos no procederán incrementos a los precios pactados, ni cualquier otra modificación al contrato.
+###### ARTICULO 41.
 
-###### Artículo 43.
+Para ser Gobernador del Estado se requiere:
 
-El Instituto estará obligado a mantener los bienes adquiridos o arrendados en condiciones apropiadas de operación, así como vigilar su mantenimiento y conservación y que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-Para ello, en los actos o contratos de adquisiciones, arrendamientos o servicios, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; el aseguramiento del bien o bienes de que se trate para garantizar su integridad hasta el momento de su entrega y, en caso de ser necesario, la capacitación del personal que operará los equipos.
+I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.
 
-###### Artículo 44.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2011)</small>
 
-El Instituto, bajo su responsabilidad y previo el dictamen del comité podrán contratar adquisiciones, arrendamientos o servicios a través de un procedimiento de invitación restringida o adjudicación directa, cuando:
+Aquellos ciudadanos candidatos a Gobernador del Estado cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, conforme a la Ley de Nacionalidad vigente a la fecha de la expedición del certificado.
 
-I. El contrato sólo pueda celebrarse con una determinada persona por tratarse de derechos exclusivos;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2002)</small>
 
-II. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado o del país, como consecuencia de desastres producidos por fuerza mayor, o existan circun­stancias que puedan provocar pérdidas o costos adicionales importantes, o cuando existan condiciones o circunstancias extraordinarias o imprevisibles que traigan como consecuencia las eventualidades señaladas;
+II.- Tener treinta años cumplidos el día de la elección;
 
-III. Se trate de trabajos cuya ejecución requiera de la aplicación de sistemas y procedimientos de tecnología avanzada; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-IV. Se realicen dos licitaciones sin que en ambas se hubiesen recibido proposiciones solventes.
+III.- Tener vecindad en el Estado con residencia efectiva, de por lo menos quince años inmediatos anteriores al día de la elección.
 
-I (SIC). Existan razones justificadas para la adquisición y arrendamiento de bienes de marca determinada;
+La vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de partido político, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado.
 
-II. Se trate de adquisición de bienes o servicios de consultoría cuya difusión pudiera afectar al interés público o comprometer información de naturaleza confidencial para el Instituto;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
-III. Se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo o determinar las especificaciones cor­respondientes;
+IV.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia.
 
-III. Se trate de equipo, máquinas, sistemas o programas de cómputo e informáticos, siempre que por cuestiones técnicas o de diseño, sean parte integrante o componentes de los sistemas y equipos con que a su vez ya cuente el Instituto
+V.- Estar en pleno goce de sus derechos Políticos.
 
-V. Cuando no existan por lo menos tres proveedores, arrendadores o prestadores de servicio idóneos, previa investigación del mercado que al efecto se hubiere realizado;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
-VI. Cuando se hubiere rescindido el contrato o pedido respectivo. En este caso, el Instituto verificará previamente, si existe otra proposición que resulte aceptable, en cuyo caso, el pedido o contrato se celebrará con el proveedor respectivo;
+VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional, noventa días antes del día de la elección.
 
-VII. Se trate de servicios profesionales, de investigación. consultoría y asesoría; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-VIII. La contratación de servicios profesionales contratada con Gobierno del Estado se harán siempre en forma directa, independientemente de su monto.
+###### ARTICULO 42.
 
-Tratándose de material y documentación electoral, en caso de cualquier tipo de incumplimiento por parte del proveedor, se procederá de inmediato a la cancelación del pedido o contrato, procediendo a convocar a una nueva licitación pública. En caso de que los plazos para llevar a cabo la nueva licitación pública comprometan la buena marcha o pongan en riesgo la realización del proceso electoral en tiempo y forma, el Comité adjudicará de manera directa a la segunda o ulterior empresa o proveedor que en orden de prelación, hubiese cotizado los bienes o servicios requeridos, en un término improrrogable de cuarenta y ocho horas, contados a partir de la citada cancelación inmediata.
+No podrán ser electos Gobernadora o Gobernador del Estado:
 
-En caso de que en términos del artículo anterior, no exista segunda o ulterior empresa o proveedor que en orden de prelación, hubiese cotizado los bienes o servicios requeridos, dentro del término de cuarenta y ocho horas, contados a partir de la citada cancelación inmediata, el Comité asignará directamente el contrato a una empresa o proveedor distinto.
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-###### Artículo 45.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
 
-Los procedimientos de licitación restringida se sujetarán a lo siguiente:
+EL SECRETARIO GENERAL DE GOBIERNO, LOS MAGISTRADOS Y JUECES DEL ESTADO, EL FISCAL GENERAL DEL ESTADO, FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN, EL FISCAL ESPECIALIZADO PARA LA ATENCIÓN DE DELITOS ELECTORALES, LOS SECRETARIOS Y DIRECTORES DEL PODER EJECUTIVO, SALVO QUE SE SEPAREN DE SUS CARGOS EN FORMA DEFINITIVA, NOVENTA DÍAS ANTES DEL DÍA DE LA ELECCIÓN.
 
-I. La apertura de los sobres podrá hacerse sin la presencia de los correspondientes licitantes;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2011)</small>
 
-II. Para llevar a cabo la evaluación, se deberá contar con el mínimo de tres proposiciones;
+Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
-III. En las solicitudes de cotización se indicarán, como mínimo, la cantidad y descripción de los bienes o servicios requeridos y los aspectos que correspondan del Artículo 19 de este Reglamento;
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-IV. Los plazos para la presentación de las proposiciones se fijarán en cada operación atendiendo al tipo de bienes o servicios requeridos, así como a la complejidad para elaborar la propuesta y llevar a cabo su evaluación; y
+Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
-V. A las demás disposiciones que resulten aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-###### Artículo 46.
+Las personas condenadas mediante sentencia firme por los delitos de violencia política contra las mujeres en razón de género o violencia familiar.
 
-El Secretario conservará en forma ordenada y sistemática toda la documentación comprobatoria de los actos y contratos a que se refiere este Reglamento, cuando menos por un lapso de seis años, contados a partir de la fecha en que se hubiere recibido los bienes o prestado el servicio.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
 
-###### Artículo 47.
+###### ARTICULO 43.
 
-Las infracciones a las disposiciones contenidas en este Reglamento, serán sancionadas con multa. Las sanciones se impondrán por el Comité, previa sustanciación del Procedimiento para la Aplicación de Sanciones por el Secretario y presentación del proyecto de resolución por el Presidente.
+Los impedimentos para volver a ocupar el cargo de Gobernador son los que consigna el Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-La multa será equivalente a la cantidad de diez a mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-###### Artículo 48.
+###### ARTICULO 44.
 
-A los servidores públicos que infrinjan las disposiciones de este Reglamento, se les aplicarán las sanciones correspondientes, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+El Gobernador será electo cada seis años, mediante el sufragio universal, libre, secreto, directo, personal e intransferible y entrará a ejercer sus funciones el día primero del mes de septiembre posterior a la elección.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 45.
+
+El Gobernador podrá ausentarse del territorio del Estado o separarse de sus funciones hasta 30 días, dando aviso al Congreso y en esos casos el Secretario General de Gobierno se hará cargo del despacho con las atribuciones que establezca la Ley Orgánica de la Administración Pública del Estado de Baja California.
+
+###### ARTICULO 46.
+
+En las faltas temporales que excedan de treinta días el Congreso nombrará un Gobernador Interino.
+
+El nombramiento de Gobernador Interino lo hará el Congreso en escrutinio secreto y por mayoría absoluta de votos.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+
+Son causas de falta absoluta del Gobernador del Estado, las siguientes:
+
+I.- La muerte;
+
+II.- La incapacidad total y permanente para ejercer el cargo; que será declarada por autoridad judicial y ratificada por el Congreso del Estado;
+
+III.- La renuncia expresa por causa grave que será calificada por el Congreso del Estado;
+
+IV.- La separación del cargo por declaratoria de autoridad competente;
+
+V.- Si transcurridos seis meses y convocado por el Congreso, el Gobernador ausente o separado de sus funciones no se presenta, sin causa justificada, a asumir el ejercicio de su cargo;
+
+VI.- Las demás que establezca expresamente esta Constitución.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
+
+En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso designará por mayoría absoluta de votos un Gobernador Provisional que convoque a elecciones dentro de los dos meses siguientes, debiendo verificar éstas en un término no mayor de cuatro meses posteriores a la convocatoria.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+
+La persona que sea designada Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+
+Si la falta absoluta ocurriere después de los dos primeros años, el Congreso designará por mayoría absoluta y en un término no mayor de ocho días, un Gobernador Sustituto que termine el ejercicio constitucional del Ejecutivo; caso en el cual el Secretario General de Gobierno se hará cargo del despacho, de conformidad con lo dispuesto por el Artículo 45 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
+
+El ciudadano que sea designado para suplir al Titular del Poder Ejecutivo como Gobernador Interino, Provisional o Sustituto, deberá reunir los requisitos establecidos en el Artículo 41 de esta Constitución con excepción de lo dispuesto por la fracción VI.
+
+###### ARTICULO 47.
+
+Si al comenzar un período constitucional no se presentare el Gobernador electo o la elección no estuviere hecha o declarada, cesará sin embargo el Gobernador cuyo período hubiere concluido, y se designará por el Congreso a un provisional que se haga cargo del despacho hasta en tanto se presente el titular.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 48.
+
+Todos los acuerdos y disposiciones que el Gobernador diere en uso de sus facultades, deberán para su validez ser autorizados con la firma del Secretario General de Gobierno o de quien conforme a la Ley haga sus veces.
 
 ### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2022)</small>
 
-###### Artículo 49.
+###### ARTICULO 49.
 
-Las sanciones se impondrán conforme a los siguientes criterios:
+Son facultades y obligaciones de la persona titular del Poder Ejecutivo del Estado:
 
-I. Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de eliminar prácticas tendientes a infringir, en cualquier forma, las disposiciones de este Reglamento o las que se dicten con base en ella;
+I.- Promulgar, ejecutar y hacer que se cumplan las leyes, decretos y demás disposiciones que tengan vigencia en el Estado;
 
-II. Cuando sean varios los responsables, cada uno será sancionado con el total de la multa que se imponga; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
 
-III. Tratándose de reincidencia, se impondrá otra sanción o multa mayor dentro de los límites señalados en el artículo 47 de este Reglamento o se duplicará la multa anterior que se hubiere impuesto.
+II.- Iniciar ante el Congreso leyes y decretos que redunden en beneficio del pueblo.
+
+Dentro de los noventa días siguientes a la instalación de cada legislatura constitucional, podrá optar por el Gobierno de Coalición, en cuyo caso y sin perjuicio de lo anterior, acordará las políticas públicas convenidas, turnándolas para su registro y seguimiento al Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1999)</small>
+
+III.- Velar por la conservación del orden, tranquilidad y seguridad del Estado, así como el garantizar a toda persona residente en el mismo, el real disfrute de un medio ambiente adecuado para su desarrollo, bienestar y mejor calidad de vida.
+
+IV.- Presentar cada año al Congreso, a más tardar el día primero de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal siguiente;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
+
+V.- Rendir anualmente un informe general, por escrito, del estado que guarde la Administración Pública, remitiéndolo al Congreso dentro de los primeros siete días siguientes al término de cada año de gestión de labores, con excepción del último año del ejercicio constitucional, el cual se rendirá dentro de los primeros siete días del mes de la conclusión del cargo. Sin perjuicio de lo anterior, podrá emitir un mensaje ante el Congreso, bajo protesta de decir verdad, en cuyo caso cada grupo parlamentario tendrá derecho a expresar su opinión sobre el contenido del mismo. Tanto a la persona titular del Poder Ejecutivo, como los grupos parlamentarios, tendrán por una sola ocasión, derecho de réplica.
+
+VI.- Pedir y dar informes al Congreso y al Tribunal Superior de Justicia;
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+VII.- SOMETER A CONSIDERACIÓN DEL CONGRESO DEL ESTADO, LA TERNA PARA QUE SE REALICEN LOS NOMBRAMIENTOS DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA Y LOS SEÑALADOS EN EL TITULO CUARTO DE ESTA CONSTITUCIÓN. SE EMITIRÁ UNA TERNA POR VACANTE.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
+
+VIII.- Visitar los Municipios del Estado, cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo, dando cuenta al Congreso, o al Tribunal Superior, de las faltas que notare y cuyo remedio corresponda a dichos Poderes, y solicitar al Congreso del Estado la suspensión de Ayuntamientos, que declare que éstos han desaparecido y la suspensión o revocación del mandato de alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, proponiendo al Congreso en su caso los nombres de los vecinos, para que designe a los integrantes de los Concejos Municipales, en los términos de esta Constitución y las Leyes respectivas.
+
+IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2019)</small>
+
+X.- Nombrar y remover libremente a los secretarios y demás funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad. Los nombramientos del Secretario de Integración y Bienestar Social, y del Secretario de la Honestidad y la Función Pública, estarán sujetos a la ratificación del Congreso conforme lo señala esta Constitución;
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Cuando opte por el Gobierno de Coalición, someterá a cada uno de los Titulares de las Dependencias del Ejecutivo Estatal, por separado a ratificación del Congreso del Estado por mayoría simple de los miembros presentes. Si en el primer nombramiento no se alcanzara la mayoría de votos, el Gobernador del Estado hará un segundo nombramiento distinto, que deberá ser votado en los mismos términos y condiciones que el primero; si el segundo nombramiento no alcanzara la mayoría de votos, el Gobernador del Estado hará el nombramiento definitivo;
+
+XI.- Cuidar la recaudación y correcta inversión de los caudales del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2008)</small>
+
+XII.- Fomentar, impulsar y promover el desarrollo sustentable de la pesca y acuacultura en el Estado, considerando la participación del sector social y privado, así como coordinarse con la Federación y los Municipios de nuestra Entidad, cuando su intervención sea requerida para el ejercicio de las atribuciones que en esta materia les competan de conformidad con la presente Constitución y las leyes que correspondan.
+
+XIII.- Expedir los títulos profesionales con arreglo a las leyes y reconocer la validez de los que se expidan, en otras Entidades de la Federación, observando lo dispuesto en la fracción V del Artículo 121 de la Constitución de los Estados Unidos Mexicanos;
+
+XIV.- Conceder, conforme a la Ley, conmutación de penas;
+
+XV.- Celebrar convenios sobre límites del Estado sometiéndolos a la aprobación del Congreso para los efectos del artículo 27 fracción XX de esta Constitución;
+
+XVI.- Formular y expedir los reglamentos para el buen despacho de la administración pública;
+
+XVII.- Decretar expropiación de bienes por causas de utilidad pública, en la forma que determinen las leyes;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1998)</small>
+
+XVIII.- Tener el mando directo de la fuerza pública de los municipios cuando el Congreso del Estado suspenda o declare desaparecidos a los Ayuntamientos, y tomar en caso de invasión o de trastornos interiores, medidas extraordinarias para hacer respetar la soberanía del Estado y reestablecer el orden con la aprobación del Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
+
+XIX.- Conceder licencias de acuerdo a la Ley del Servicio Civil y demás disposiciones aplicables en la materia y aceptar las renuncias de los funcionarios y empleados del Ejecutivo;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+
+XX.- Proveer a la ejecución de las obras públicas y dictar las medidas necesarias para el ordenamiento territorial de los asentamientos humanos y el desarrollo urbano sustentable, así como participar en coordinación con los Municipios, en la planeación y regulación de las zonas de conurbación, en los términos que establezcan las leyes aplicables.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 19 DE SEPTIEMBRE DE 2008)</small>
+
+XXI.- Fomentar el turismo, el desarrollo industrial, agrícola, ganadero y el aprovechamiento de las fuentes renovables de energía.
+
+XXII.- Celebrar convenios con la Federación sobre participación de impuestos y coordinar sus esfuerzos en el Estado, a efecto de atender lo relativo a educación, salubridad y asistencia pública y para la construcción de caminos vecinales, así como en aquellas obras cuya ejecución pueda llevarse a cabo en cooperación con el Gobierno Federal y sujetándose el Ejecutivo Local a lo dispuesto por las Leyes respectivas;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+XXIII.- Presentar ternas al Congreso del Estado para la designación del Fiscal General del Estado, el Fiscal Especializado en Combate a la Corrupción, y para el Fiscal Especializado para la Atención de Delitos Electorales;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+XXIV.- Solicitar la remoción de los Fiscales a los que se refiere la fracción anterior en términos de esta Constitución;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
+
+XXV.- Planear y conducir el desarrollo integral del Estado en la esfera de su competencia, establecer procedimientos de participación y de consulta popular en el Sistema de Planeación Democrática, coordinar la ejecución del Plan Estatal de Desarrollo, integrando a este los planes municipales que formulen los Ayuntamientos y con la participación de los grupos sociales organizados; de conformidad con las disposiciones legales que emita el Congreso del Estado, y
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+XXVI.- Intervenir mediante el organismo de la administración pública paraestatal que determine la Ley, en la formulación y aplicación de programas de movilidad, priorizando el respeto a la dignidad humana y el transporte público, así como en la prestación y regulación de dicho servicio, conforme a la Ley de la materia.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+XXVII.- Promover y fomentar el derecho a la movilidad, garantizando la seguridad vial del peatón, conductor, pasajero, así como el acceso a un transporte público y privado de calidad para los habitantes del Estado.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+XXVIII.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2019)</small>
 
 ### CAPITULO III. DEL SECRETARIO GENERAL DE GOBIERNO
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 50.
+###### ARTICULO 50.
 
-No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor, de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando sea el Comité quien descubra la omisión, o medie requerimiento, inspección, excitativa o cualquier otra gestión efectuada por el mismo.
+Para el despacho de los negocios del Poder Ejecutivo habrá un funcionario que se denominará Secretario General de Gobierno.
 
-###### Artículo 51.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
-En el procedimiento para la aplicación de las sanciones a que se refiere este Capítulo, se observarán las siguientes reglas:
+###### ARTICULO 51.
 
-I. Se comunicarán por escrito al presunto infractor los hechos constitutivos de la infracción que oficiosamente detecte el Comité o los contenidos en la queja formulada por quien tenga interés jurídico en el asunto, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días naturales, exponga lo que a su derecho convenga, aporte las pruebas que estime pertinentes y formule alegatos en una audiencia que se realizará para tales efectos; y
+Para ser Secretario General de Gobierno se requiere reunir los mismos requisitos que para ser Gobernador del Estado.
 
-II. El Comité, pronunciará su resolución, debidamente fundada y motivada, en un término que no excederá de veinte días naturales, y la notificará personalmente, por escrito al infractor, en términos del Capítulo XI, Título Segundo, del Libro Séptimo, de la Ley Electoral del Estado de Chihuahua.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 52.
+###### ARTICULO 52.
 
-Los servidores públicos, que en el ejercicio de sus funciones tengan conocimiento de infracciones a este Reglamento o a las disposiciones de la materia con él relacionadas o del mismo deriven, deberán comunicarlo de inmediato y por escrito al Comité por conducto de su Presidente, Secretario o Secretario Técnico.
+Son atribuciones del Secretario General de Gobierno:
 
-La omisión a lo dispuesto en el párrafo anterior será sancionada conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
+I.- Autorizar con su firma las Leyes y Decretos que promulgue el Ejecutivo, así como las disposiciones y acuerdos que éste dicte en el uso de sus facultades;
 
-###### Artículo 53.
+II.- Substituir al Gobernador en los casos que esta Constitución indique;
 
-Las responsabilidades a que se refiere el presente Reglamento son independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1985)</small>
+
+III.- Las demás que le confiera la Ley Orgánica de la Administración Pública del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 53.
+
+El Secretario General de Gobierno no podrá desempeñar otro puesto o empleo público o privado, con excepción de los docentes, ni ejercer profesión alguna durante el ejercicio de sus funciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2021)</small>
+
+Las faltas de la persona titular de la Secretaría General de Gobierno, serán suplidas por el o por la titular de la Secretaría de Hacienda.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2021)</small>
 
 ### CAPITULO IV.. DE LA SECRETARIA DE SEGURIDAD CIUDADANA Y DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2021)</small>
 
-###### Artículo 54.
+###### ARTICULO 54.
 
-El Comité podrá rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del proveedor, en cuyo caso el procedimiento deberá iniciarse dentro de los cinco días naturales siguientes al requerimiento por escrito que le hagan los órganos del Instituto. Si previamente a la determinación de dar por rescindido el contrato, se hiciere entrega de los bienes o se prestaren los servicios, el procedimiento iniciado quedará sin efecto.
+Las atribuciones que corresponden al Estado en materia de seguridad ciudadana, se ejercerán por conducto de la Secretaría de Seguridad Ciudadana dependiente del Poder Ejecutivo del Estado.
 
-El procedimiento de rescisión se llevará a cabo conforme a lo siguiente:
+La seguridad ciudadana tendrá como fines salvaguardar la integridad y derechos de las personas, preservar las libertades, el orden y la paz pública; comprende la prevención especial y general de los delitos, así como la prevención social de las violencias con una perspectiva de género, y enfoque diferencial; la inteligencia preventiva y la reinserción social, en un marco de respeto a los derechos humanos y con la participación de la ciudadanía.
 
-I.- Se iniciará a partir de que al proveedor le sea comunicado por escrito el incumplimiento en que haya incurrido, para que en un término de diez días naturales exponga lo que a su derecho convenga y aporte, en su caso, las pruebas y exprese los alegatos que estime pertinentes;
+La titularidad de la Secretaría de Seguridad Ciudadana recaerá en la persona que designe el Titular del Poder Ejecutivo del Estado, y contará con un Secretariado Ejecutivo, como órgano desconcentrado con autonomía técnica y de gestión, que ejercerá las atribuciones que determine la ley.
 
-II.- Transcurrido el término a que se refiere la fracción anterior, el Comité resolverá considerando los argumentos y pruebas que hubiere hecho valer, en un término que no excederá de veinte días naturales;
+El Sistema Estatal de Seguridad Ciudadana se integrará y funcionará en los términos que establezca la ley.
 
-III.- La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada, motivada y comunicada al proveedor dentro de los cinco días naturales siguientes a lo señalado en la fracción II de este artículo; y
+## TITULO QUINTO
 
-IV.- Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al patrimonio del Instituto. En estos supuestos el Instituto reembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
-
-## TÍTULO QUINTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2017)</small>
 
 ### CAPITULO I.. DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
 
-###### Artículo 55.
+###### ARTICULO 55.
 
-Cuando proceda la rescisión, se harán efectivas las garantías o fianzas otorgadas y se exigirá el reintegro de los anticipos o pagos efectuados.
+El Tribunal Estatal de Justicia Administrativa tendrá el carácter de órgano constitucional autónomo, y contará con plena autonomía jurisdiccional, administrativa, financiera y presupuestal e independencia en sus decisiones para el dictado de sus fallos y para el establecimiento de su organización y funcionamiento; estará dotado de personalidad jurídica y patrimonio propio y poseerá plena jurisdicción e imperio suficiente para hacer cumplir sus resoluciones.
+
+APARTADO A.- De la Competencia del Tribunal Estatal de Justicia Administrativa.
+
+El Tribunal resolverá las controversias de carácter administrativo y fiscal que se susciten entre los particulares y la administración pública estatal, municipal, paraestatal y paramunicipal, así como entre el fisco estatal y los fiscos municipales sobre preferencia de créditos fiscales.
+
+Así también, estará facultado para la imposición de sanciones a los servidores públicos por las responsabilidades administrativas graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias, que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o municipal, y al patrimonio de los entes públicos estatales o municipales.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2020)</small>
+
+APARTADO B.- DE LA INTEGRACIÓN DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+EL TRIBUNAL FUNCIONARÁ EN PLENO Y EN SALAS. EL PLENO SE INTEGRARÁ POR TRES MAGISTRADOS Y CADA UNA DE LAS SALAS, POR UN MAGISTRADO DE SALA. LOS MAGISTRADOS SERÁN ELECTOS POR MAYORÍA CALIFICADA DE LOS INTEGRANTES DEL CONGRESO DE CONFORMIDAD CON LO ESTABLECIDO EN ESTA CONSTITUCIÓN.
+
+Habrá una Sala Especializada en combate a la Corrupción, que resolverá sobre las sanciones a que se refiere el párrafo tercero del apartado A de este artículo.
+
+Para ser electo Magistrado deberán cumplirse los requisitos previstos en el artículo 60 de esta Constitución, además de los señalados en la Ley.
+
+Los Magistrados del Tribunal desempeñarán su cargo por seis años, al término de los cuales podrán ser ratificados para otro período de seis años, en ningún caso, un Magistrado, sea cual fuere su adscripción, podrá desempeñar sus funciones por un periodo mayor de doce años.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+PARA EFECTO DEL PROCEDIMIENTO RELATIVO A LA DESIGNACIÓN DEL MAGISTRADO DE LA SALA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN A QUE SE HACE REFERENCIA EN ESTE ARTÍCULO, EL CONGRESO DEL ESTADO CONFORMARÁ UNA COMISIÓN ESPECIAL.
+
+Sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
+
+a) Al cumplir setenta años de edad.
+
+b) Al cumplir doce años en el cargo de Magistrado del Tribunal.
+
+c) Por incapacidad física o mental que impida el buen desempeño de sus funciones.
+
+d) En los demás casos que establezca esta Constitución y la Ley de la materia.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO OCTAVO DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+SEIS MESES ANTES DE QUE CONCLUYA EL PERIODO DE SEIS AÑOS PARA EL QUE FUE ELECTO EL MAGISTRADO, LA COMISIÓN ESPECIAL INSTITUIDA POR EL CONGRESO, PROCEDERÁ A ELABORAR UN DICTAMEN DE EVALUACIÓN RELATIVO A SU REELECCIÓN O NO REELECCIÓN, REMITIENDO AL TITULAR DEL EJECUTIVO PARA SU CONSIDERACIÓN; DEBIENDO RESOLVER EL CONGRESO TRES MESES ANTES DE QUE CONCLUYA EL CARGO DEL MISMO. LA EVALUACIÓN DEL DESEMPEÑO DEL MAGISTRADO DEBERÁ SUJETARSE PREFERENTEMENTE A CRITERIOS OBJETIVOS RELATIVOS A LA EXCELENCIA PROFESIONAL, HONESTIDAD Y BUENA REPUTACIÓN, EN LOS TÉRMINOS DE LA LEY.
+
+El proceso de evaluación del desempeño del Magistrado deberá de sujetarse a las etapas y criterios objetivos relativos a la excelencia profesional, honestidad y buena reputación, en los términos de la Ley.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+EN TRATÁNDOSE DE RENUNCIAS, AUSENCIAS DEFINITIVAS O REMOCIONES DE LOS MAGISTRADOS, EL CONGRESO DEL ESTADO, INFORMARÁ AL TITULAR DEL EJECUTIVO PARA QUE ÉSTE REMITA LA TERNA CON LAS PROPUESTAS RESPECTIVAS, PARA CUBRIR LA VACANTE DENTRO DE UN PLAZO NO MAYOR DE SESENTA DÍAS. EL CONGRESO DEL ESTADO DEBERÁ TOMAR EN CUENTA LA EQUIDAD DE GÉNERO EN EL NOMBRAMIENTO E INTEGRACIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+
+APARTADO C.- Del Funcionamiento del Tribunal Estatal de Justicia Administrativa.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL APARTADO C DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+EL PRESIDENTE DEL TRIBUNAL TENDRÁ LA REPRESENTACIÓN DEL MISMO Y SERÁ DESIGNADO EN LOS TÉRMINOS SEÑALADOS POR LA LEY; DICHA DESIGNACIÓN SE REALIZARÁ DE ENTRE LOS MAGISTRADOS QUE INTEGRAN EL PLENO POR UNA DURACIÓN DE DOS AÑOS, CON LA POSIBILIDAD DE SER REELECTO POR UN PERIODO ADICIONAL.
+
+El Pleno del Tribunal elaborará su presupuesto de egresos por grupos y partidas presupuestales, el cual deberá remitir por conducto de su presidente al titular del Poder Ejecutivo del Estado para su inclusión en el Proyecto del Presupuesto de Egresos del Estado. El proyecto del Tribunal no podrá ser modificado por el titular del Poder Ejecutivo, pero si por el Congreso del Estado. El presupuesto del Tribunal no podrá ser inferior al aprobado por el Congreso del Estado para el ejercicio anual anterior; para estos efectos no se considerarán las ampliaciones presupuestales.
+
+La Ley desarrollara en los términos que señala esta Constitución, la carrera jurisdiccional en sus dimensiones de formación, promoción y permanencia, bajo los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2018)</small>
+
+El Tribunal Estatal de Justicia Administrativa contará con un órgano interno de control con autonomía técnica y de gestión que tendrá a su cargo la vigilancia, disciplina y fiscalización del Tribunal, el titular de dicho órgano, deberá reunir los requisitos y sujetarse al procedimiento que determine la ley. El tribunal establecerá mecanismos que transparenten y propicien la rendición de cuentas de su función jurisdiccional, en los términos de las leyes.
 
 ### CAPITULO II.. DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 1988)</small>
 
-###### Artículo 56.
+###### ARTICULO 56.
 
-Los proveedores que no presenten cinco cotizaciones consecutivas, o en su caso carta de disculpas, serán suspendidos por tres meses, de la participación en los procedimientos para la adquisición de bienes o prestación de servicios.
+Ninguna persona puede hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
-###### Artículo 57.
+Toda persona tiene derecho a que se le administre justicia por Tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
-Los proveedores que no cumplan o no cumplan en tiempo con la entrega de los bienes adjudicados, le (sic) será aplicada la sanción equivalente a la retención del cinco por ciento del monto total adjudicado sin considerar el impuesto al valor agregado, por cada día de atraso.
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-Tratándose de material y documentación electoral, en caso de cualquier tipo de incumplimiento por parte del proveedor, se procederá de inmediato a la cancelación del pedido o contrato, procediendo a convocar a una nueva licitación pública. En caso de que los plazos para llevar a cabo la nueva licitación pública comprometan la buena marcha o pongan en riesgo la realización del proceso electoral en tiempo y forma, el Comité adjudicará de manera directa a la segunda o ulterior empresa o proveedor que en orden de prelación, hubiese cotizado los bienes o servicios requeridos, en un término improrrogable de cuarenta y ocho horas, contados a partir de la citada cancelación inmediata.
+Las audiencias serán públicas, excepto aquellas que la moral o el interés colectivo exija que sean secretas.
 
-En caso de que en términos del artículo anterior, no exista segunda o ulterior empresa o proveedor que en orden de prelación, hubiese cotizado los bienes o servicios requeridos, dentro del término de cuarenta y ocho horas, contados a partir de la citada cancelación inmediata, el Comité asignará directamente el contrato a una empresa o proveedor distinto.
+Las Corporaciones Policíacas, están obligadas a garantizar la plena ejecución de las resoluciones judiciales.
 
-###### Artículo 58.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-El proveedor o prestador de servicio que no respete los costos y características ofertadas en su cotización, les será aplicado la sanción equivalente a la retención del cinco por ciento del monto total adjudicado sin considerar el impuesto al valor agregado.
+###### ARTICULO 57.
 
-###### Artículo 59.
+El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados en Materia Laboral, Juzgados de Paz y Jurados.
 
-Los servidores públicos, que en el ejercicio de sus funciones tengan conocimiento de infracciones a este Reglamento o a las disposiciones de la materia con él relacionadas o del mismo deriven y que tengan por efecto la Rescisión Administrativa de un contrato asignado por alguna de las vías contempladas en el presente ordenamiento, deberán comunicarlo de inmediato y por escrito al Comité por conducto de su Presidente, Secretario o Secretario Técnico.
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-La omisión a lo dispuesto en el párrafo anterior será sancionada conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2020)</small>
 
-###### Artículo 60.
+EL PODER JUDICIAL DEL ESTADO SE EJERCERÁ POR EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, QUIEN A TRAVÉS DE UNA JUNTA DE ADMINISTRACIÓN, VIGILANCIA Y DISCIPLINA, EJERCITARÁ LAS ATRIBUCIONES DE ADMINISTRACIÓN, DISCIPLINA Y CONTROL DE LA CARRERA JUDICIAL, DICHA JUNTA ESTARÁ INTEGRADA POR:
 
-Las responsabilidades a que se refiere el presente Título son independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-###### Artículo 61.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
 
-En contra de las resoluciones que se dicten en el Procedimiento para la Aplicación de Sanciones, en el Procedimiento de Rescisión Administrativa y en la tramitación de Inconformidades, procederá el Recurso de Revisión contemplado en la Ley Electoral del Estado de Chihuahua.
+I.- EL PRESIDENTE EN FUNCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, QUIEN TAMBIÉN LO SERÁ DE LA JUNTA;
 
-## TRANSITORIOS.
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-PRIMERO.- Este Reglamento iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
 
-SEGUNDO.- A fin de hacer del pleno conocimiento de la ciudadanía en general el presente acuerdo, se ordena su publicación en el Periódico Oficial del Estado de Chihuahua.
+II.- UN MAGISTRADO ELECTO POR EL PLENO DEL TRIBUNAL, QUIEN DURARÁ EN SU ENCARGO TRES AÑOS, SIN QUE PUEDA SER ELECTO PARA PERIODOS CONSECUTIVOS.
 
-TERCERO.- Tómense las previsiones conducentes para que la normatividad contenida en la Página Web del Instituto Estatal Electoral se actualice con la expedición del presente reglamento.
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Así lo acordó el Consejo General del Instituto Estatal Electoral por unanimidad de votos de los Consejeros Electorales que lo conforman, en la Primera Sesión Ordinaria de fecha once de octubre del año dos mil doce. Firmando para constancia el Consejero Presidente y el Secretario Ejecutivo ante quien da fe. DOY FE.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2020)</small>
 
-CONSEJERO PRESIDENTE.
+III.- UN INTEGRANTE DESIGNADO POR LA MAYORÍA CALIFICADA DEL CONGRESO DEL ESTADO, MEDIANTE CONVOCATORIA PÚBLICA, QUIEN DURARÁ EN SU ENCARGO TRES AÑOS, QUIEN NO PODRÁ OCUPAR DE NUEVO ESE PUESTO.
 
-DR. FERNANDO ANTONIO HERRERA MARTÍNEZ.
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Rúbrica.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
 
-SECRETARIO EJECUTIVO.
+EN LA INTEGRACIÓN DE LA JUNTA SE OBSERVARÁ EL PRINCIPIO DE PARIDAD DE GÉNERO.
 
-LIC. SAÚL EDUARDO RODRÍGUEZ CAMACHO.
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Rúbrica.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
 
-En la ciudad de Chihuahua, Chih., a los once días del mes de octubre del dos mil doce, el suscrito Secretario Ejecutivo del Instituto Estatal Electoral, certifica que el presente acuerdo fue aprobado por el Consejo General del Instituto Estatal Electoral por unanimidad de votos de los Consejeros Electorales que lo conforman, en la Primera Sesión Ordinaria de fecha once de octubre de dos mil doce. Se expide la presente, con fundamento en lo dispuesto por el artículo 99, numeral 1 inciso g) y h) de la Ley Electoral del Estado.
+LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO FIJARÁ LAS ATRIBUCIONES DE LOS TRIBUNALES Y JUZGADOS, Y ESTABLECERÁ LOS PROCEDIMIENTOS A QUE DEBEN SUJETARSE EN LA IMPARTICIÓN DE JUSTICIA.
 
-SECRETARIO EJECUTIVO.
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-LIC. SAÚL EDUARDO RODRÍGUEZ CAMACHO.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
 
-Rúbrica.
+LA INDEPENDENCIA DE LOS MAGISTRADOS Y JUECES EN EL EJERCICIO DE SUS ATRIBUCIONES DEBERÁN ESTAR GARANTIZADAS POR ESTA CONSTITUCIÓN Y LA LEY ORGÁNICA RESPECTIVA, LAS CUALES ESTABLECERÁN LAS CONDICIONES PARA EL INGRESO, FORMACIÓN Y PERMANENCIA DE QUIENES SIRVAN AL PODER JUDICIAL DEL ESTADO; EJERCERÁN LAS ATRIBUCIONES JURISDICCIONALES Y SU EJECUCIÓN CON AUTONOMÍA ABSOLUTA, CON APEGO A LOS PRINCIPIOS RECTORES DE LA CARRERA JUDICIAL COMO LO SON LA EXCELENCIA, OBJETIVIDAD, IMPARCIALIDAD, PROFESIONALISMO E INDEPENDENCIA.
 
-CONSTANCIA.- Publicado el día _15_ de octubre de 2012, a las _10:00_ horas, en los estrados de este Instituto Estatal Electoral, con fundamento en lo dispuesto por el artículo 332, numeral 1, inciso a) y b) de la Ley Electoral del Estado de Chihuahua. DOY FE.
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-SECRETARIO EJECUTIVO.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2020)</small>
 
-LIC. SAÚL EDUARDO RODRÍGUEZ CAMACHO.
+LA REPRESENTACIÓN DEL PODER JUDICIAL ESTARÁ A CARGO DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, EL CUAL SE ELEGIRÁ Y DESEMPEÑARÁ SUS FUNCIONES DE ACUERDO A LO QUE SEÑALE LA LEY.
 
-Rúbrica.
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+
+EL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA, EL SEGUNDO JUEVES DEL MES DE OCTUBRE, REMITIRÁ AL CONGRESO DEL ESTADO UN INFORME GENERAL, POR ESCRITO, DEL ESTADO QUE GUARDE LA ADMINISTRACIÓN DE JUSTICIA EN LA ENTIDAD.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+
+LAS SESIONES DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, DEBERÁN SER PÚBLICAS; TRANSMITIDAS A TRAVÉS DE SU PORTAL DE INTERNET; TRANSCRITAS LITERALMENTE EN VERSIONES TAQUIGRÁFICAS; GRABADAS EN AUDIO Y VIDEO Y SER CONSIDERADAS TANTO LAS VERSIONES TAQUIGRÁFICAS Y LAS GRABACIONES COMO INFORMACIÓN DE OFICIO PARA EFECTOS DE LA LEY, RESPETANDO EN TODO MOMENTO LA PROTECCIÓN DE DATOS PERSONALES Y EL PRINCIPIO DE CONFIDENCIALIDAD.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO NOVENO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+
+EL PODER JUDICIAL EMITIRÁ UN PLAN DE DESARROLLO JUDICIAL CADA TRES AÑOS. EL PRESIDENTE DEL TRIBUNAL LO REMITIRÁ AL CONGRESO PARA SU CONOCIMIENTO; Y A SU VEZ LO DARÁ A CONOCER A LA POBLACIÓN MEDIANTE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO Y POR CUALQUIER OTRO MEDIO QUE ESTIME PERTINENTE. DICHO PLAN SE ELABORARÁ, INSTRUMENTARÁ Y EVALUARÁ EN LOS TÉRMINOS QUE SE SEÑALAN EN ESTA CONSTITUCIÓN Y LA LEY.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+LA LEY GARANTIZARÁ LA INDEPENDENCIA DE LOS MAGISTRADOS Y JUECES EN EL EJERCICIO DE SUS ATRIBUCIONES, ASÍ COMO LA PLENA EJECUCIÓN DE SUS RESOLUCIONES.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+LA REMUNERACIÓN DE LOS MAGISTRADOS Y JUECES DEL PODER JUDICIAL, NO PODRÁ SER DISMINUIDA DURANTE EL TIEMPO DE SU GESTIÓN. DEBIÉNDOSE ENTENDER COMO TIEMPO DE SU GESTIÓN QUE SE ENCUENTREN ACTIVOS DESEMPEÑANDO EL CARGO, POR LO QUE QUIENES SE ENCUENTREN EN PARÁMETROS DE LICENCIAS, PERMISOS, INCAPACIDADES O CUALQUIER OTRA FORMA DE AUSENCIA EN EL CARGO, YA SEA DE CARÁCTER PERSONAL O MÉDICAS, DEBERÁN SUJETARSE A LOS TÉRMINOS Y CONDICIONES QUE ESTABLECE PARA TAL EFECTO LA LEY ORGÁNICA DEL PODER JUDICIAL.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+LOS MAGISTRADOS Y JUECES DEL PODER JUDICIAL, NO SERÁN CONSIDERADOS TRABAJADORES PARA EFECTOS DE LA LEY ESPECIAL DE LA MATERIA.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+DURANTE SU ENCARGO, LOS MAGISTRADOS Y JUECES DEL PODER JUDICIAL, SÓLO PODRÁN SER REMOVIDOS EN LOS TÉRMINOS QUE SE SEÑALAN EN ESTA CONSTITUCIÓN Y LA LEY.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+###### ARTICULO 58.
+
+EL TRIBUNAL SUPERIOR DE JUSTICIA ESTARÁ INTEGRADO CUANDO MENOS POR DIECISIETE MAGISTRADOS, PUDIENDO AUMENTAR SU NÚMERO DE ACUERDO A LAS NECESIDADES DE LA ADMINISTRACIÓN DE JUSTICIA A PROPUESTA DEL GOBERNADOR DEL ESTADO Y ACTUARÁ EN LOS TÉRMINOS QUE DISPONGA LA LEY.
+
+(NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO NOVENO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+EL CONGRESO DEL ESTADO ESTA FACULTADO PARA RESOLVER SOBERANA Y DISCRECIONALMENTE RESPECTO A LOS NOMBRAMIENTOS, RATIFICACIÓN O NO RATIFICACIÓN Y REMOCIÓN DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA. EN LOS MISMOS TÉRMINOS RESOLVERÁ SOBRE LA DESIGNACIÓN Y REMOCIÓN DE LOS INTEGRANTES DEL CONSEJO DE LA JUDICATURA. DICHAS RESOLUCIONES SERÁN DEFINITIVAS E INATACABLES, POR LO QUE NO PROCEDERÁ JUICIO, RECURSO O MEDIO DE DEFENSA ORDINARIO O EXTRAORDINARIO ALGUNO EN CONTRA DE LAS MISMAS.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+La Ley establecerá sistemas permanentes de evaluación del desempeño de los Magistrados del Tribunal Superior de Justicia y Jueces del Poder Judicial, para garantizar que quienes ocupen dichos cargos, durante el tiempo que los ejerzan, cumplan de manera continua y permanente con los requisitos y principios que esta Constitución señala para su nombramiento o su ratificación.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+
+SEIS MESES ANTES DE QUE CONCLUYA EL PERIODO DE LOS MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA, EL CONGRESO DEL ESTADO, POR EL VOTO DE LAS DOS TERCERAS PARTES DE SUS INTEGRANTES, PROCEDERÁ A REALIZAR LOS NUEVOS NOMBRAMIENTOS ENTRE LOS ASPIRANTES QUE INTEGREN LA TERNA QUE REMITA EL TITULAR DEL PODER EJECUTIVO EN LOS TÉRMINOS ESTABLECIDOS EN LA PRESENTE CONSTITUCIÓN Y LA LEY.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2020)</small>
+
+EL NOMBRAMIENTO DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA SE EFECTUARÁ BAJO EL SIGUIENTE PROCEDIMIENTO:
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+I.- INMEDIATAMENTE QUE EXISTA UNA O VARIAS VACANTES DE MAGISTRADOS O SEIS MESES ANTES SI LA MISMA FUERE PREVISIBLE, EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, DEBERÁ HACER DEL CONOCIMIENTO AL CONGRESO DEL ESTADO Y AL TITULAR DEL EJECUTIVO, EN TÉRMINOS DEL ARTÍCULO 27 FRACCIONES XV Y XVIII DE ESTA CONSTITUCIÓN;
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+II.- EL CONGRESO DEL ESTADO, RESOLVERÁ POR MAYORÍA CALIFICADA DE SUS INTEGRANTES, DENTRO DE LOS TREINTA DÍAS NATURALES SIGUIENTES A QUE RECIBA LA TERNA ENVIADA (SIC) TITULAR DEL PODER EJECUTIVO, SOBRE LOS NOMBRAMIENTOS DE LOS MAGISTRADOS, DEBIENDO TOMAR EN CUENTA EL PRINCIPIO DE PARIDAD DE GÉNERO EN EL NOMBRAMIENTO E INTEGRACIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA;
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+III.- EN CASO DE QUE EL CONGRESO DEL ESTADO NO APROBARA EL NOMBRAMIENTO O NOMBRAMIENTOS, O SOLO CUBRIERE ALGUNAS DE LAS VACANTES DE MAGISTRADOS, O FUERA OMISO EN EL TÉRMINO PREVISTO EN LA FRACCIÓN ANTERIOR, EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA SOLICITARÁ AL TITULAR DEL EJECUTIVO LAS NUEVAS PROPUESTAS Y LAS REMITIRÁ AL CONGRESO DEL ESTADO, DENTRO DE LOS TREINTA DÍAS NATURALES SIGUIENTES, Y
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+IV.- RECIBIDA LA SEGUNDA TERNA, EL CONGRESO DEL ESTADO, TENDRÁ HASTA TREINTA DÍAS NATURALES PARA NOMBRAR POR MAYORÍA CALIFICADA DE SUS INTEGRANTES AL MAGISTRADO O MAGISTRADOS, Y SI NO LO HICIESE EN DICHO TERMINO, OCUPARAN LOS CARGOS DE MAGISTRADOS LAS PERSONAS QUE SE ENCUENTREN EN LOS PRIMEROS LUGARES DE LA TERNA, EN TÉRMINOS DEL ARTÍCULO 27 FRACCIONES XV Y XVIII DE ESTA CONSTITUCIÓN.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+Los Magistrados del Tribunal Superior de Justicia durarán en su cargo seis años, contados a partir de la fecha en que rindan protesta de Ley, al término de los cuales podrán ser ratificados y, si lo fueren, sólo podrán ser privados de su cargo en cualquiera de los siguientes supuestos:
+
+a) Al cumplir setenta años de edad.
+
+b) Al cumplir quince años en el cargo de Magistrado del Tribunal Superior de Justicia.
+
+c) Por incapacidad física o mental que impida el buen desempeño de sus funciones.
+
+d) En los demás casos que establezca esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+TRATÁNDOSE DE LOS INCISOS A) Y B) DE ESTE ARTÍCULO EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, NOTIFICARÁ AL MAGISTRADO, A MÁS TARDAR SEIS MESES ANTES, LA FECHA EN QUE CONCLUIRÁ EN DEFINITIVA SU ENCARGO, SEÑALANDO LA CAUSA EN QUE SE FUNDA LA PRIVACIÓN DE SU PUESTO. EL SUPUESTO PREVISTO EN EL INCISO C), SE TENDRÁ POR ACREDITADO EN LOS TÉRMINOS DE LAS DISPOSICIONES LEGALES APLICABLES.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+UN AÑO ANTES DE QUE CONCLUYA EL PERIODO PARA EL QUE FUE NOMBRADO EL MAGISTRADO, EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, PROCEDERÁ A ELABORAR UN DICTAMEN TÉCNICO DE EVALUACIÓN EN EL QUE ANALICE MINUCIOSAMENTE SU ACTUACIÓN Y DESEMPEÑO Y EMITA UNA OPINIÓN AL RESPECTO. EL DICTAMEN, ASÍ COMO EL EXPEDIENTE DEL MAGISTRADO, DEBERÁ SER REMITIDO AL CONGRESO DEL ESTADO Y AL TITULAR DEL PODER EJECUTIVO, DENTRO DE LOS NOVENTA DÍAS NATURALES SIGUIENTES, DEBIENDO CONTENER TODOS AQUELLOS ELEMENTOS OBJETIVOS Y REQUISITOS QUE SEÑALE LA LEY Y QUE DEN A CONOCER SI EL MAGISTRADO SUJETO A PROCESO DE RATIFICACIÓN, DURANTE SU DESEMPEÑO, HA EJERCIDO EL CARGO CON EXCELENCIA PROFESIONAL, HONESTIDAD, DILIGENCIA Y QUE GOZA DE BUENA REPUTACIÓN Y BUENA FAMA EN EL CONCEPTO PÚBLICO, ADEMÁS DE PRECISAR SI CONSERVA LOS REQUISITOS REQUERIDOS PARA SU NOMBRAMIENTO PREVISTOS EN EL ARTÍCULO 60 DE ESTA CONSTITUCIÓN.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+El Congreso con base en lo anterior, y una vez que escuche al Magistrado sujeto a proceso de ratificación, resolverá sobre su ratificación o no ratificación, mediante mayoría calificada de sus integrantes, a más tardar seis meses antes de que el Magistrado concluya su encargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+
+Si el Congreso resuelve la no ratificación, el Magistrado cesará en sus funciones a la conclusión del periodo para el que fue nombrado y se procederá a realizar un nuevo nombramiento en los términos de este artículo.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+###### ARTICULO 59.
+
+Los Tribunales del Poder Judicial resolverán las controversias que en el ámbito de su competencia se les presenten.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+La competencia del Tribunal Superior de Justicia, su funcionamiento en pleno y en salas colegiadas unitarias y metropolitanas, de los Juzgados y Jueces de Primera Instancia, Juzgados en Materia Laboral, Juzgados de Paz, Jurados, se regirán por lo que dispongan la Ley Orgánica del Poder Judicial y, de conformidad con las bases que esta Constitución establece.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+
+Las salas unitarias, deberán ubicarse en todo territorio del Estado, y las metropolitanas donde acuerde el pleno, su competencia se preverá en la ley orgánica.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
+
+###### ARTICULO 60.
+
+Para ser nombrado Magistrado del Poder Judicial, se requiere como mínimo:
+
+I.- Ser ciudadano Mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+
+II.- Tener cuando menos treinta y cinco, y no mas de sesenta y cinco años de edad, al día de su nombramiento;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+
+III.- Poseer el día de su nombramiento, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho o Abogado, expedido por autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+
+IV.- Haber realizado por lo menos durante diez años, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación de normas jurídicas;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+
+V.- Haber residido en el Estado durante los diez años anteriores al día de su nombramiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2007)</small>
+
+VI.- No haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2007)</small>
+
+VII.- Gozar de buena reputación y buena fama en el concepto público. La Ley determinará los procedimientos y términos en los que se realizarán consultas públicas, para acreditar dicha calidad, y
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+VIII.- NO HABER OCUPADO CARGO DE ELECCIÓN POPULAR, NI HABER OCUPADO CARGO DE DIRIGENCIA DE ALGÚN PARTIDO POLÍTICO, O HABER SIDO TITULAR DE UNA DEPENDENCIA O ENTIDAD DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, ESTATAL O MUNICIPAL DURANTE EL AÑO PREVIO A LA FECHA EN QUE DEBA SER NOMBRADO.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+
+###### ARTICULO 61.
+
+Cuando ocurra la falta absoluta de un Magistrado del Tribunal Superior de Justicia se estará a lo dispuesto por el artículo 58 de esta Constitución.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2020)</small>
+
+LOS SECRETARIOS DE ESTUDIO Y CUENTA ADSCRITOS A LA (SIC) SALAS QUE CORRESPONDAN, CUBRIRÁN LAS FALTAS TEMPORALES DE LOS MAGISTRADOS, QUE NUNCA PODRÁ EXCEDER MÁS DE SEIS MESES, QUIENES FUNGIRÁN COMO SECRETARIOS EN FUNCIONES DE MAGISTRADO Y REALIZARÁN EXCLUSIVAMENTE FUNCIONES JURISDICCIONES DE INTEGRACIÓN DE SALA UNITARIA Y NO INTEGRARÁN PLENO DEL TRIBUNAL.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
+
+EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DETERMINARÁ LOS MECANISMOS PARA CUBRIR LAS AUSENCIAS TEMPORALES DE LOS SECRETARIOS DE ESTUDIO Y CUENTA QUE FUNJAN TEMPORALMENTE COMO SECRETARIOS EN FUNCIONES DE MAGISTRADO, ASÍ COMO LAS FALTAS ABSOLUTAS DE LOS MISMOS HASTA EN TANTO EL CONGRESO DEL ESTADO, EFECTÚE EL NOMBRAMIENTO CORRESPONDIENTE DE LA MAGISTRATURA VACANTE, DE ACUERDO A LO QUE ESTABLECE ESTA CONSTITUCIÓN Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO.
+
+(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 62.
 
@@ -1051,7 +2531,9 @@ La Ley fijará las atribuciones y deberes inherentes a la Defensoría Pública, 
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-## TÍTULO SEXTO
+## TITULO SEXTO. DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 ### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
 
@@ -2775,9 +4257,9 @@ QUINTO.- Las reformas contenidas en el inciso b) del artículo 58 de la Constitu
 
 SEXTO.- La limitante prevista en el articulo 60 fracción VIII de estas reformas en relación a que para ser Magistrado se requiere no haber sido Consejero de la Judicatura durante el año previo a la fecha en que deba ser nombrado, no será aplicable al Juez que actualmente integra el Consejo de la Judicatura.
 
-SEPTIMO.- Los Jueces en funciones durarán en su cargo el término para el que fueron designados, previa evaluación podrán ser ratificados en los términos del artículo 62 de estas reformas, pudiendo ejercer el cargo hasta por quince años previas las ratificaciones respectivas, pero en ningún caso podrán ejercer su cargo por mas de quince años, los cuales se computarán a partir de la entrada en vigor de estas reformas.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
 
-En su caso, el último periodo para el que sean ratificados deberá ajustarse al término máximo permitido para ocupar el cargo, por lo que dicho periodo podrá ser menor a cinco años.
+SÉPTIMO. La reforma contenida en el artículo 62 de la Constitución Política del Estado Libre y Soberano de Baja California, solo serán aplicables a los jueces que con posterioridad al día 2 de febrero de 2007 hayan sido nombrados.
 
 (NOTA: EL 20 DE ENERO DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 32/2007, DECLARÓ LA INVALIDEZ DEL ARTÍCULO OCTAVO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -4068,3 +5550,23 @@ Artículo Primero.- Aprobadas que sean las presentes reformas, túrnese a los Ay
 Artículo Segundo.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
 
 Artículo Tercero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 25 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 70 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO 274, PUBLICADO EL 2 DE FEBRERO DE 2007, EN EL PERIÓDICO OFICIAL DEL ESTADO”.]
+
+PRIMERO. Una vez aprobada la presente reforma, túrnese a los ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional respectiva.
+
+TERCERO. La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 119 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 22 Y 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO. Aprobada la presente reforma por el Pleno del Congreso, túrnese a los Ayuntamientos para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo y de obtener la aprobación de la mayoría de los Ayuntamientos, emítase la declaratoria de incorporación constitucional correspondiente, remitiéndose al titular del Poder Ejecutivo para su Publicación en el Periódico Oficial del Estado.
+
+TERCERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
