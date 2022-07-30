@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-tratamiento-y-control-de-las-49482"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-18"
-last_updated: "2022-03-19"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en el Suplemento No 4 del Periódico Oficial del Estado de Colima, el sábado 18 de febrero de 2006.
 
@@ -513,13 +513,15 @@ El tratamiento para la rehabilitación que realicen los Gobiernos Estatal y Muni
 
 ### CAPÍTULO II. DE LOS CENTROS DE TRATAMIENTO Y REHABILITACIÓN
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 67.
 
 Los programas de rehabilitación para los adictos serán con internamiento o de manera externa o mixta, considerando el nivel de atención, tipo de servicio, y la disposición de infraestructura con que cuente dicho centro de tratamiento.
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
-
 Tratándose de menores de edad, los programas de rehabilitación serán obligatorios, siempre atendiendo a su condición de personas en desarrollo y, asimismo, podrán ser con internamiento o de manera externa o mixta.
+
+Tratándose de internamiento, los Centros de Tratamiento y Rehabilitación darán aviso de inmediato al momento del ingreso de la persona o cuando esta sea intervenida por el personal adscrito a dichos Centros, a la Dirección de Seguridad Municipal o su equivalente, como autoridad de primer contacto, a efecto de generar certeza y seguridad jurídica de su internamiento.
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
 
@@ -541,6 +543,14 @@ Al tercer reporte del Ministerio Público en este sentido, el adicto estará obl
 
 Los sectores social y privado podrán prestar los servicios de tratamiento y rehabilitación de adictos, para lo cual deberán tramitar la autorización y el registro de funcionamiento de dicho centro ante la Secretaría de Salud de Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+Así como obtener la licencia o permiso del ayuntamiento respectivo para su funcionamiento. Los Ayuntamientos, de conformidad a la Ley del Municipio Libre del Estado de Colima, sus reglamentos y demás instrumentos jurídicos aplicables, cancelarán las licencias o permisos temporal o definitivamente que hayan otorgado, cuando se acredite el mal uso de ellos.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+En el entendido de que, primeramente, debe hacerse el trámite ante el Ayuntamiento para la observación y aplicaciones de las disposiciones reglamentarias del inmueble y sus instalaciones, obtenida la licencia o permiso, se tramitará el registro de funcionamiento de dicho centro ante la Secretaría de Salud de Gobierno del Estado, lo que conlleva a tener una comunicación estrecha entre estos entes, a efecto de proporcionar la información necesaria para este servicio.
+
 ###### ARTICULO 69.
 
 Para operar un centro de tratamiento contra las adicciones en nuestra entidad, independientemente de que prescriban las Leyes General de Salud y Estatal de Salud, así como la Norma Oficial Mexicana para la prevención, tratamiento y control de las adicciones, éste deberá cumplir los siguientes requisitos:
@@ -560,6 +570,10 @@ VI.- Las demás que establezca ésta Ley.
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 Para determinar la ubicación de los centros de tratamiento, atención y rehabilitación contra las adicciones, la Secretaría de Salud deberá realizar estudios rigurosos sobre el impacto de las adicciones en todo el territorio Estatal.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+Los titulares de los centros de tratamiento, atención y rehabilitación contra las adicciones serán los responsables hacer (sic) conservar el orden al interior y exterior de los mismos, para evitar afectaciones cuando se encuentren dentro de centros urbanos.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -593,13 +607,19 @@ Los centros de tratamiento para la rehabilitación de los adictos de los sectore
 
 El Consejo podrá celebrar convenios de colaboración con instituciones y organismos del sector público, así como con el sector privado y social, para realizar cursos de capacitación, que induzcan al empleo y al autoempleo de los rehabilitados de los centros de tratamiento contra las adicciones, en los casos que los centros de tratamiento y rehabilitación no cuenten con la infraestructura y el personal requerido para su funcionamiento, hasta en tanto dispongan de la capacidad para ello.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2022)</small>
+
 ###### ARTICULO 74.
 
-El sector salud a través del área correspondiente, deberá permanentemente inspeccionar las áreas físicas de los centros de tratamiento y verificar la implementación de los programas de tratamiento, supervisando la rehabilitación de los adictos.
+En los centros de tratamiento, atención y rehabilitación contra las adicciones de los sectores privado o social que operen en el Estado se deberá garantizar el trato adecuado y respetuoso de los individuos que reciban sus servicios, teniendo como base de actuación la dignidad humana y la protección de sus derechos humanos, salvaguardando en todo momento su integridad física, psicológica y social.
+
+El sector salud a través del área correspondiente, deberá permanentemente inspeccionar las áreas físicas de los centros de tratamiento, verificar la implementación de los programas de tratamiento, supervisando la rehabilitación de los adictos, así como el trato que se les esté otorgando, y en caso de detectar violaciones a sus derechos humanos, podrá realizar las denuncias penales o de cualquier otra índole que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2022)</small>
 
 ###### ARTÍCULO 75.
 
-La Secretaría de Salud a solicitud del Consejo, podrá efectuar observaciones, o la clausura de los centros de tratamiento y rehabilitación contra las adicciones que no cumplan con lo dispuesto en la presente Ley, independientemente de las sanciones que disponga la normatividad aplicable para el caso, para ello se observarán las siguientes disposiciones:
+La Secretaría de Salud a solicitud del Consejo, o de cualquier persona, podrá efectuar observaciones, o la clausura de los centros de tratamiento, atención y rehabilitación contra las adicciones que no cumplan con lo dispuesto en la presente Ley, independientemente de las sanciones que disponga la normatividad aplicable para el caso, para ello se observarán las siguientes disposiciones:
 
 I.- El personal de inspección levantará acta circunstanciada de la irregularidad que se detecte por quienes presten los servicios, o realicen funciones de tratamiento y rehabilitación contra las adicciones, concediéndole el derecho de audiencia correspondiente; y
 
@@ -676,3 +696,11 @@ P.O. 19 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “ DECRETO NÚM. 66.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE ADCCIONES EN EL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 122.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- En un plazo no mayor a ciento ochenta días posteriores a la publicación del presente Decreto, los Ayuntamientos de la Entidad, realizarán las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas funciones que resultan de las reformas materia del presente Decreto.
