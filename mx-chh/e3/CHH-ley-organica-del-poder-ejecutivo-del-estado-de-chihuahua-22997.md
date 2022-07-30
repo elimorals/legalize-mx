@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2022-07-16"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JULIO DE 2022 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE JULIO DE 2022 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE JULIO DE 2022.]</small>
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
