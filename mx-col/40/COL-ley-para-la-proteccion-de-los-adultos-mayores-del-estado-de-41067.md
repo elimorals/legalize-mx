@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2019-08-31"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -913,6 +913,90 @@ Las solicitudes de pensión, trámites, verificación de requisitos y demás pro
 
 El Instituto deberá considerar en su proyecto de presupuesto anual el monto que servirá para el pago de esta prestación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2022)</small>
+
+### CAPÍTULO VIII BIS. Alerta Plateada
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+###### Artículo 67 Bis.
+
+(Sic) La alerta plateada es el mecanismo institucional que permite la coordinación de esfuerzos de los tres órdenes de gobierno comprometidos en la promoción y ejecución de actividades conducentes para la localización de personas adultas mayores con reporte de extravío o en estado de abandono.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+###### Artículo 67 Ter.
+
+La alerta plateada tiene como objetivo llevar a cabo la búsqueda inmediata, para la localización de personas adultas mayores extraviadas o en estado de abandono, con el fin de proteger su vida, libertad personal e integridad, mediante un plan de atención y coordinación entre las autoridades de los tres niveles de gobierno, que involucren a medios de comunicación, sociedad civil, organismos públicos y privados, en todo el territorio mexicano.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+###### Artículo 67 Quater.
+
+La operatividad de la Alerta Plateada, estará a cargo de la Procuraduría de la defensa del Adulto Mayor, dependiente del Instituto para la Atención de los Adultos Mayores quienes contribuirán con la Fiscalía General del Estado a la localización de la persona adulta mayor.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+###### Artículo 67 Quinquies.
+
+Para que la Alerta Plateada sea activada por parte de la Procuraduría de la Defensa del Adulto Mayor, deberán considerarse los siguientes criterios:
+
+I. Que se trate de una persona adulta mayor, considerada como tal para los efectos del presente protocolo a quienes tengan 60 o más años de edad cumplidos;
+
+II. Que se encuentre en riesgo de sufrir un daño a su integridad personal, por motivo de ausencia, extravío o por haber sido localizada una persona adulta mayor que desconozca o no recuerde los datos de identificación de familiares o amistades; y
+
+III. Que se tenga información suficiente de la persona adulta mayor en la que se incluya nombre, fecha de nacimiento, edad, género, media filiación (estatura, cabello, color de ojos, peso), nacionalidad, señas particulares, padecimientos o discapacidades, fotografía o retrato hablado, vestimenta, fecha de la última vez en que fue vista y cualquier otra información que se considere relevante para su localización.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+###### Artículo 67 Sexies.
+
+En el supuesto de que una persona adulta mayor se extravíe, sus familiares, personas allegadas o cuidadoras deberán realizar las siguientes acciones:
+
+I. Acudir ante la Procuraduría de la Defensa del Adulto Mayor, perteneciente al Instituto para la Atención de los Adultos Mayores, con la finalidad de reportar el extravió de la persona adulta mayor, en donde se realizará la entrevista correspondiente para obtener los datos con los que se alimentará la ficha de búsqueda que se adjunta al presente protocolo, así mismo deberá proporcionar una fotografía reciente de la persona que reportará como extraviada.
+
+II. La Procuraduría de la Defensa del Adulto Mayor difundirá la ficha de búsqueda en la página del Instituto para la Atención de los Adultos Mayores, en el apartado de Alerta Plateada, así mismo la remitirá a las instituciones públicas o privadas con las que haya celebrado convenio de colaboración con el objetivo de sumarse a la difusión de la Alerta Plateada.
+
+III. La Procuraduría de la Defensa del Adulto Mayor, llevará el registro de las personas adultas mayores reportadas como extraviadas, con datos desagregados por sexo, edad, condición física, padecimientos médicos, fecha de extravió, estatus de la búsqueda, fecha de localización, de la que se deberá emitir un informe anual a las instituciones con quienes se haya establecido la coordinación.
+
+IV. Dará vista inmediata con la ficha de búsqueda a la Fiscalía General del Estado de Colima, para que se inicien las diligencias ministeriales correspondientes de acuerdo a los protocolos de búsqueda aplicables.
+
+V. En caso de que la persona adulta mayor sea localizada, la Procuraduría de la Defensa del Adulto Mayor, deberá descartar que no sea víctima de violencia y en su caso indagar respeto (sic) al origen de su extravío.
+
+VI. En caso de que, de la intervención que se realice por parte de la Procuraduría de la Defensa del Adulto Mayor se adviertan necesidades de naturaleza asistencial para la persona adulta mayor localizada, se deberá realizar un plan de intervención en colaboración con las instituciones públicas o privadas con las que se haya establecido coordinación.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+###### Artículo 67 Septies.
+
+Cuando el reporte de extravío de una persona adulta mayor se dé a conocer primero a las Instituciones de seguridad pública a través del 911, la autoridad estatal o municipal que atienda el reporte, deberá hacerlo del conocimiento de la Procuraduría de la Defensa del Adulto Mayor, debiendo proporcionar toda la información necesaria de la persona adulta mayor extraviada, que se requiere para emitir la ficha de búsqueda, o en su caso, canalizar a las reportantes que acudan ante la citada dependencia a proporcionar la media filiación, así como fotografía de identificación.
+
+En caso de que, la institución de seguridad pública estatal o municipal atienda el reporte de localización de una persona adulta mayor extraviada o en estado de abandono, deberá acudir al lugar de localización, dar aviso a la Procuraduría de la Defensa del Adulto Mayor, y encargarse del resguardo de la persona adulta mayor en tanto la Procuraduría de la Defensa del Adulto Mayor le canaliza a un lugar seguro.
+
+Si no se cuenta con la información necesaria para la emisión de la ficha de búsqueda de Alerta Plateada, la Procuraduría de la Defensa del Adulto Mayor deberá contactar con la familia o reportantes con la finalidad de allegarse de ésta.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+###### Artículo 67 Octies.
+
+Al localizarse la persona, se deberá desactivar la alerta plateada, lo que se deberá hacer del conocimiento de las instituciones públicas o privadas que participaron en la difusión de la ficha de búsqueda.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+###### Artículo 67 Nonies.
+
+Cuando una persona adulta mayor se encuentre en situación de extravío y no ubique, desconozca o no recuerde su domicilio, habitación, así como la identidad de familiares, amistades o personas allegadas, se deberá reportar al Instituto para la Atención de los Adultos Mayores, quien a su vez dará vista a la Procuraduría de la Defensa del Adulto Mayor, para que se emita la Alerta Plateada, para efecto de la localización de familiares de la persona adulta mayor con la finalidad de reintegrarle a su núcleo familiar.
+
+Cuando el reporte de localización de persona adulta mayor extraviada se inicie en los Sistemas para el Desarrollo de la Familia Estatal o Municipal, deberán dar aviso de su localización a la Procuraduría de la Defensa del Adulto Mayor, así mismo se encargará de su resguardo en tanto la Procuraduría de la Defensa del Adulto Mayor le canaliza a un lugar seguro.
+
+En estos casos, la Procuraduría de la Defensa del Adulto Mayor, deberá llevar a cabo las acciones establecidas en las fracciones II a la VI del artículo 67 Sexies.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+###### Artículo 67 Decies.
+
+El Instituto para la Atención de los Adultos Mayores, deberá contar un directorio general que incluya domicilio, datos de contacto y servicios que brindan las instituciones que otorguen servicios a personas adultas mayores, o aquellas que puedan contribuir con su bienestar. El directorio deberá actualizarse cada seis meses.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
 ### CAPÍTULO IX. De la Atención Preferencial
@@ -925,14 +1009,6 @@ Será obligación de las dependencias y entidades de la administración pública
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPÍTULO I. De la Orientación Ocupacional
-
-###### Artículo 67 Bis 2.
-
-Cualquier estacionamiento, encierro o pensión, público y privado, deberá disponer de por lo menos el 10% de cajones para personas adultas mayores debidamente identificadas con calcomanía oficial. Este espacio para personas adultas mayores deberá compartirse para personas con discapacidad.
-
-El Instituto dispondrá los lineamientos y características de las calcomanías oficiales con logotipo para la identificación de las personas adultas mayores, así como el procedimiento para su expedición.
-
 ###### Artículo 67 Bis 1.
 
 El Gobierno del Estado por conducto de las dependencias correspondientes fomentará que la atención preferencial para las personas adultas mayores sea prestada también en las tiendas de autoservicio y otras empresas mercantiles.
@@ -943,11 +1019,15 @@ Todas las instituciones de orden público y privado del Estado, garantizarán qu
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
+###### Artículo 67 Bis 2.
+
+Cualquier estacionamiento, encierro o pensión, público y privado, deberá disponer de por lo menos el 10% de cajones para personas adultas mayores debidamente identificadas con calcomanía oficial. Este espacio para personas adultas mayores deberá compartirse para personas con discapacidad.
+
+El Instituto dispondrá los lineamientos y características de las calcomanías oficiales con logotipo para la identificación de las personas adultas mayores, así como el procedimiento para su expedición.
+
 ## TÍTULO CUARTO. DE LA VALORACIÓN DE CAPACIDADES Y APTITUDES
 
-### CAPÍTULO II. De la Integración a la Vida Productiva
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
+### CAPÍTULO I. De la Orientación Ocupacional
 
 ###### Artículo 68.
 
@@ -963,7 +1043,9 @@ II.- La ubicación de acuerdo con la aptitud y actitud ante el trabajo.
 
 La orientación ocupacional tendrá en cuenta las potencialidades reales de los adultos mayores, tomando como base la educación escolar recibida, la capacitación laboral o profesional y las perspectivas de empleo existentes en cada caso; asimismo, la atención a sus motivaciones, aptitudes y preferencias vocacionales.
 
-### CAPÍTULO I. De las Reglas para la Imposición de Sanciones
+### CAPÍTULO II. De la Integración a la Vida Productiva
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 ###### Artículo 70.
 
@@ -975,7 +1057,7 @@ La asignación y el desempeño de la actividad laboral en los términos del art�
 
 ## TÍTULO QUINTO. DE LAS SANCIONES
 
-### CAPÍTULO II. De las Responsabilidades y Sanciones
+### CAPÍTULO I. De las Reglas para la Imposición de Sanciones
 
 ###### Artículo 72.
 
@@ -988,6 +1070,8 @@ II.- La capacidad económica del infractor;
 III.- La magnitud del daño ocasionado; y
 
 IV.- La reincidencia del infractor.
+
+### CAPÍTULO II. De las Responsabilidades y Sanciones
 
 ###### Artículo 73.
 
@@ -1226,3 +1310,13 @@ P.O. 31 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 130 POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 64, DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 121.- POR EL QUE SE ADICIONA EL CAPÍTULO VIII BIS DENOMINADO “ALERTA PLATEADA” AL TÍTULO TERCERO “DE LAS FACULTADES Y OBLIGACIONES” DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA; ADEMÁS, SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 8 DE LA LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima “.
+
+SEGUNDO. En un plazo no mayor a ciento ochenta días posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Estado realizará las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas funciones que resultan de las reformas materia del presente Decreto, entre estas el protocolo de actuación definitivo de la alerta plateada que de manera específica regule y garantice el desarrollo y ejecución de dicha alerta.
+
+TERCERO. El Instituto para la Atención de los Adultos Mayores deberá realizar los convenios de coordinación necesarios para establecer la operatividad de la alerta plateada.
