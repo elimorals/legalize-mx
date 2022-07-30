@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2022-05-07"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -2063,7 +2063,9 @@ Los miembros de los ayuntamientos podrán ser suspendidos de los cargos para los
 
 a) Incumplimiento reiterado de sus facultades y obligaciones sin causa justificada;
 
-b) Inasistencia consecutiva a cinco sesiones de cabildo sin causa justificada;
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2022)</small>
+
+b) Inasistencia consecutiva a tres sesiones de cabildo sin causa justificada;
 
 c) Incapacidad física o legal permanente; y
 
@@ -3952,6 +3954,12 @@ P.O. 7 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 79.- POR EL QUE SE REFORMA EL ARTÍCULO 97, PÁRRAFO TERCERO Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XIV DEL ARTÍCULO 2, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 117.- POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 90, FRACCIÓN I, PÁRRAFO DÉCIMO PRIMERO, INCISO B), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 ###### ARTÍCULO ÚNICO.
 
