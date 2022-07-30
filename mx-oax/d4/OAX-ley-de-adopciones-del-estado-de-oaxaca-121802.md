@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-adopciones-del-estado-de-oaxaca-121802"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-12"
-last_updated: "2021-12-04"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ADOPCIONES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el viernes 12 de mayo de 2017.
 
@@ -93,29 +93,33 @@ IX. FAMILIA EXTENSA O AMPLIADA: Aquella compuesta por los ascendientes en línea
 
 X. FAMILIA DE ACOGIMIENTO PRE-ADOPTIVO: Aquella distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XI. FAMILIA DE ORIGEN: Aquella compuesta por titulares de la patria potestad o tutela, que respecto de niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado de conformidad por lo establecido en el Código Civil de Oaxaca;
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2022)</small>
 
-XII. INFORME DE ADOPTABILIDAD: Documento expedido por quien corresponda de la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+XI. FAMILIA DE ACOGIDA: Aquella que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XIII. INTERÉS SUPERIOR DE LA NIÑEZ: Es un principio central para la protección y restitución de los derechos humanos de niñas, niños y adolescentes como derecho sustantivo, como principio jurídico interpretativo y como norma de procedimiento, que permita alcanzar el máximo bienestar personal, familiar y social posible, mismo que deberá promover y garantizar el Estado;
+XII. FAMILIA DE ORIGEN: Aquella compuesta por titulares de la patria potestad o tutela, que respecto de niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado de conformidad por lo establecido en el Código Civil de Oaxaca;
 
-XIV. JUEZ: El Juez Familiar de Primera Instancia competente para intervenir en los asuntos relativos a la adopción;
+XIII. INFORME DE ADOPTABILIDAD: Documento expedido por quien corresponda de la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XV. LEY: La Ley de Adopciones del Estado de Oaxaca;
+XIV. INTERÉS SUPERIOR DE LA NIÑEZ: Es un principio central para la protección y restitución de los derechos humanos de niñas, niños y adolescentes como derecho sustantivo, como principio jurídico interpretativo y como norma de procedimiento, que permita alcanzar el máximo bienestar personal, familiar y social posible, mismo que deberá promover y garantizar el Estado;
 
-XVI. NIÑA Y NIÑO: Toda persona menor de doce años;
+XV. JUEZ: El Juez Familiar de Primera Instancia competente para intervenir en los asuntos relativos a la adopción;
 
-XVII. NIÑA, NIÑO O ADOLESCENTE ABANDONADO: Persona cuyo origen se conoce, que es colocado en una situación de desamparo por quienes conforme a la Ley están obligados a su custodia, protección y cuidado;
+XVI. LEY: La Ley de Adopciones del Estado de Oaxaca;
 
-XVIII. NIÑA, NIÑO O ADOLESCENTE EXPÓSITOS: Persona cuyo origen se desconoce, que es colocado en una situación de desamparo por quienes conforme a la Ley están obligados a su custodia, protección y cuidado;
+XVII. NIÑA Y NIÑO: Toda persona menor de doce años;
 
-XIX. PRINCIPIO DE SUBSIDIARIEDAD: Corresponde a la procedencia de adopción internacional de una niña, niño y adolescente de nacionalidad mexicana cuando se haya constatado que esta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional;
+XVIII. NIÑA, NIÑO O ADOLESCENTE ABANDONADO: Persona cuyo origen se conoce, que es colocado en una situación de desamparo por quienes conforme a la Ley están obligados a su custodia, protección y cuidado;
 
-XX. PROCURADURÍA: La Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca;
+XIX. NIÑA, NIÑO O ADOLESCENTE EXPÓSITOS: Persona cuyo origen se desconoce, que es colocado en una situación de desamparo por quienes conforme a la Ley están obligados a su custodia, protección y cuidado;
 
-XXI. REGLAMENTO: El Reglamento de la Ley de Adopciones del Estado de Oaxaca; y
+XX. PRINCIPIO DE SUBSIDIARIEDAD: Corresponde a la procedencia de adopción internacional de una niña, niño y adolescente de nacionalidad mexicana cuando se haya constatado que esta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional;
 
-XXII. SISTEMA: El Sistema para el Desarrollo Integral de la Familia en el Estado de Oaxaca.
+XXI. PROCURADURÍA: La Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca;
+
+XXII. REGLAMENTO: El Reglamento de la Ley de Adopciones del Estado de Oaxaca; y
+
+XXIII. SISTEMA: El Sistema para el Desarrollo Integral de la Familia en el Estado de Oaxaca.
 
 ## TÍTULO SEGUNDO
 
@@ -443,7 +447,17 @@ Corresponde al Sistema DIF Estatal y a los Sistemas DIF Municipales, así como a
 
 I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
 
-II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional.
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
+
+II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2022)</small>
+
+III. Desarrollar campañas permanentes que socialicen y promuevan la Adopción y la constitución de Familias de Acogida de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2022)</small>
+
+IV. Contar con un sistema de información y registro, permanentemente actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Federal. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
 
 ###### ARTICULO 28.
 
@@ -644,3 +658,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca.
 
 TERCERO.- El Poder Ejecutivo realizara las adecuaciones reglamentarias respectivas.
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 620 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II; Y SE ADICIONA LA FRACCIÓN III RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 33 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA; Y SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 27; Y SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 4 RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, Y LAS FRACCIONES III Y IV AL ARTÍCULO 27 DE LA LEY DE ADOPCIONES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
