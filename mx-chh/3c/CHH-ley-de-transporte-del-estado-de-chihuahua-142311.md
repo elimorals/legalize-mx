@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transporte-del-estado-de-chihuahua-142311"
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-21"
-last_updated: "2022-07-16"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE TRANSPORTE DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JULIO DE 2022 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPORTE DEL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE JULIO DE 2022.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 21 de marzo de 2020.
 
@@ -1773,9 +1773,9 @@ I. Lineamientos y mecanismos de verificación del cumplimiento de la capacitaci�
 
 II. Programas de capacitación impartidos, evaluados y acreditados por las instituciones públicas o privadas de educación y capacitación tecnológica y superior, facultadas por virtud de la suscripción de convenios con el Estado y los concesionarios para su impartición.
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2022)</small>
+(REFORMADA, P.O. 16 DE JULIO DE 2022) (F. DE E., P.O. 30 DE JULIO DE 2022)
 
-II. (SIC) La Subsecretaría evaluará y supervisará la correcta impartición de los programas de capacitación a los que se refiere este artículo.
+III. La Subsecretaría evaluará y supervisará la correcta impartición de los programas de capacitación a los que se refiere este artículo.
 
 ### CAPÍTULO VI. DE LA INFRAESTRUCTURA Y EQUIPAMIENTO PARA EL TRANSPORTE
 
