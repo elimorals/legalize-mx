@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2022-06-04"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -91,7 +91,9 @@ Vigilancia y aplicación de la ley y glosario
 
 I. Autoridad educativa federal, a la Secretaría de Educación Pública de la Administración Pública Federal;
 
-II. Autoridad educativa estatal, a la persona titular del Poder Ejecutivo del Estado de Colima, por conducto de la Secretaría de Educación y la Coordinación de los Servicios Educativos del Estado, y las demás instancias que, en su caso, se establezcan para el ejercicio de la función social educativa;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
+
+II. Autoridad educativa estatal, a la persona titular del Poder Ejecutivo del Estado de Colima, por conducto de la Secretaría de Educación y Cultura y la Coordinación de los Servicios Educativos del Estado, y las demás instancias que, en su caso, se establezcan para el ejercicio de la función social educativa;
 
 III. Autoridad educativa municipal, al Ayuntamiento de cada Municipio del Estado de Colima;
 
@@ -107,7 +109,9 @@ VIII. Particulares, a las instituciones educativas que cuentan con autorización
 
 IX. Personal docente, al profesional que asume ante el Estado y la sociedad la corresponsabilidad del aprendizaje de los educandos en la escuela, considerando sus capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje y, en consecuencia, contribuye al proceso de enseñanza aprendizaje como promotor, coordinador, guía, facilitador, investigador y agente directo del proceso educativo;
 
-X. Secretaría, a la Secretaría de Educación como dependencia de la Administración Pública Centralizada del Poder Ejecutivo del Estado de Colima, y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
+
+X. Secretaría, a la Secretaría de Educación y Cultura como dependencia de la Administración Pública Centralizada del Poder Ejecutivo del Estado de Colima; y
 
 XI. Trabajador de la educación, al personal con funciones docente, técnico docente, de asesoría técnico pedagógica, de dirección y supervisión; así como administrativa o de apoyo y asistencia en el proceso educativo, cuya nómina es con cargo al presupuesto de egresos de la Federación y del Gobierno del Estado de Colima.
 
@@ -190,6 +194,10 @@ II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la j
 III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
 IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida sostenibles, y
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+Se deberán incluir acciones encaminadas a la separación, reutilización y reciclado de los residuos de conformidad con la Ley General para la Prevención y Gestión Integral de los Residuos; así como promover la educación ambiental en los educandos para controlar y separar los residuos desde la casa.
 
 V. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del Estado de Colima.
 
@@ -349,7 +357,9 @@ XIV. Los Comités Escolares de Administración Participativa que se conformen de
 
 XV. Todos los actores que participen en la prestación del servicio público de educación en el Estado de Colima.
 
-2. La persona titular de la Secretaría de Educación presidirá el Sistema Educativo Estatal.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2022)</small>
+
+2. La persona titular de la Secretaría de Educación y Cultura, presidirá el Sistema Educativo Estatal.
 
 ###### Artículo 19.
 
@@ -1099,7 +1109,9 @@ IX. Elaborar y difundir materiales educativos para la prevención y atención de
 
 Protocolos para el fomento de la cultura de la paz y no violencia
 
-1. La autoridad educativa estatal, en el ámbito de su respectiva competencia, cumplirá con los protocolos de actuación que sean necesarios para el cumplimiento del artículo 80 de esta Ley. Entre los protocolos que emita, deberán encontrarse para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2022)</small>
+
+1. La autoridad educativa estatal, en el ámbito de su respectiva competencia, cumplirá con los protocolos de actuación que sean necesarios para el cumplimiento del artículo 80 de esta Ley. Entre los protocolos que emita, deberán encontrarse para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa. Protocolos que deberán ser actualizados cada sexenio y deberán vincularse con el Plan Estatal de Desarrollo para el Estado de Colima.
 
 ###### Artículo 82.
 
@@ -1175,7 +1187,9 @@ Inducción del personal.
 
 Prestaciones de seguridad social y reconocimiento de derechos.
 
-1. Las prestaciones sociales y de seguridad social que se otorguen a los trabajadores dependientes de la Dirección de Educación Pública de la Secretaría de Educación serán proporcionadas por el Gobierno del Estado y las autoridades educativas, como lo establece la Ley de Pensiones de los Servidores Públicos del Estado de Colima, así como, la normatividad que al efecto resulte aplicable, sea de índole Constitucional, de legalidad o aquella que se derive de las Condiciones Generales de Trabajo al efecto aplicables.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2022)</small>
+
+1. Las prestaciones sociales y de seguridad social que se otorguen a los trabajadores dependientes de la Dirección de Educación Pública de la Secretaría de Educación y Cultura, serán proporcionadas por el Gobierno del Estado y las autoridades educativas, como lo establece la Ley de Pensiones de los Servidores Públicos del Estado de Colima, así como, la normatividad que al efecto resulte aplicable, sea de índole Constitucional, de legalidad o aquella que se derive de las Condiciones Generales de Trabajo al efecto aplicables.
 
 2. Los trabajadores de la Coordinación, mantendrán, sin interrupción alguna las prestaciones de seguridad social que otorga el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
@@ -1549,7 +1563,9 @@ XVIII. Desarrollará programas con perspectiva de género, para otorgar producto
 
 Consejo Nacional de Autoridades Educativas
 
-1. La Secretaría de Educación del Estado participará en el Consejo Nacional de Autoridades Educativas para acordar las acciones y estrategias que garanticen el ejercicio del derecho a la educación, así como el cumplimiento a los fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 2022)</small>
+
+1. La Secretaría de Educación y Cultura del Estado participará en el Consejo Nacional de Autoridades Educativas para acordar las acciones y estrategias que garanticen el ejercicio del derecho a la educación, así como el cumplimiento a los fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
 
 ## Título Noveno. Del Financiamiento a la Educación
 
@@ -2186,3 +2202,11 @@ P.O. 4 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria que a afecto se determine en el Ejercicio Fiscal 2023.
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 120.- POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO EN LA FRACCIÓN IV, APARTADO 1, DEL ARTÍCULO 11, Y SE REFORMAN LAS FRACCIONES II Y X, NUMERAL 2 DEL ARTÍCULO 4; NUMERAL 2 DEL ARTÍCULO 18; NUMERAL 1 DEL ARTÍCULO 89; NUMERAL 1 DEL ARTÍCULO 113; ARTÍCULO 81, DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
