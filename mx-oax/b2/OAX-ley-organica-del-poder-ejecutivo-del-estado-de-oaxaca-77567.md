@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2022-04-09"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -1089,9 +1089,9 @@ XX. Establecer acuerdos y convenios de colaboración y coordinación para llevar
 
 XXI. Promover, adoptar y ejecutar las medidas y programas correspondientes para preservar, proteger y desarrollar la propiedad intelectual, colectiva e individual, con relación al patrimonio cultural, material e inmaterial de los pueblos y comunidades indígenas y afromexicanas;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
 
-XXII. Realizar programas, proyectos y acciones para el rescate, conservación, fortalecimiento y revitalización de las lenguas indígenas del Estado, en coordinación con las instancias competentes, y promover las acciones afirmativas necesarias para que éstas garanticen los servicios de traducción e interpretación que permita a la población indígena el ejercicio efectivo de sus derechos;
+XXII. Realizar programas, proyectos y acciones para el rescate, conservación, fortalecimiento y revitalización de las lenguas indígenas del Estado, coadyuvando en la edición, elaboración y difusión de material educativo en estas lenguas, en coordinación con las instancias competentes y promoviendo las acciones afirmativas necesarias para que estas garanticen los servicios de traducción e interpretación que permita a la población indígena el ejercicio efectivo de sus derechos.
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -3376,5 +3376,13 @@ P.O. 9 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 578.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y EL PÁRRAFO TERCERO DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 618.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 43 DE LA LEY ORGÁNICA DE PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
