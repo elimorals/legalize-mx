@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-procuraduria-de-la-defensa-del-adulto-mayor-para-9584
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-07"
-last_updated: "2021-07-17"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 7 de septiembre de 2013.
 
@@ -155,29 +155,33 @@ XII. Asesorar por la vía de los métodos alternos para la prevención y la solu
 
 XIII. Promover ante la autoridad competente cualquier trámite, querella, denuncia o demanda cuando el adulto mayor por falta de medios económicos o por impedimento físico no pueda valerse por sí misma y requiera apoyo para llevar a cabo dichos actos;
 
-XIV. Emitir sugerencias a las dependencias y entidades de la administración pública estatal y municipal, con el propósito de promover el cumplimiento de la legislación respectiva, así como para la ejecución de las acciones procedentes derivadas de la falta de aplicación o incumplimiento de la Ley para los Adultos y demás ordenamientos que de ella se deriven;
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2022)</small>
 
-XV. Citar con el auxilio de la autoridad competente, la presentación de los involucrados en los asuntos de su competencia;
+XIV. La operatividad de la Alerta Plateada, que tiene como objetivo llevar a cabo la búsqueda inmediata, para la localización de personas adultas mayores extraviadas o en estado de abandono, con el fin de proteger su vida, libertad personal e integridad. En los términos del Capítulo VIII Bis del Título Tercero de la Ley Para la Protección de los Adultos Mayores del Estado de Colima;
 
-XVI. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto en plenitud, firmándola con asistencia de dos testigos;
+XV. Emitir sugerencias a las dependencias y entidades de la administración pública estatal y municipal, con el propósito de promover el cumplimiento de la legislación respectiva, así como para la ejecución de las acciones procedentes derivadas de la falta de aplicación o incumplimiento de la Ley para los Adultos y demás ordenamientos que de ella se deriven;
+
+XVI. Citar con el auxilio de la autoridad competente, la presentación de los involucrados en los asuntos de su competencia;
+
+XVII. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto en plenitud, firmándola con asistencia de dos testigos;
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-XVII. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto mayor, firmándola con asistencia de dos testigos;
+XVIII. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto mayor, firmándola con asistencia de dos testigos;
 
-XVIII. Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio o sanciones que establece la presente Ley;
+XIX. Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio o sanciones que establece la presente Ley;
 
-XIX. Promover para que mediante una institución pública o privada se les proporcione refugio temporal a los adultos mayores abandonados, maltratados, o víctimas de violencia Intrafamiliar;
+XX. Promover para que mediante una institución pública o privada se les proporcione refugio temporal a los adultos mayores abandonados, maltratados, o víctimas de violencia Intrafamiliar;
 
-XX. Vigilar que ninguna Institución que preste servicios de salud niegue el derecho a recibir atención médica, a los adultos mayores;
+XXI. Vigilar que ninguna Institución que preste servicios de salud niegue el derecho a recibir atención médica, a los adultos mayores;
 
-XXI. Asesorar a los diferentes Sistemas Municipales para el Desarrollo Integral de la Familia;
+XXII. Asesorar a los diferentes Sistemas Municipales para el Desarrollo Integral de la Familia;
 
-XXII. Realizar visitas a los diferentes albergues públicos y privados del Estado para verificar el estado físico de los adultos mayores, así como la atención que se les brinda y que las instalaciones sean las apropiadas, tomando nota de cualquier anomalía y, en su caso, emitir alguna recomendación, determinar alguna medida de apremio o denunciar ante la autoridad que corresponda;
+XXIII. Realizar visitas a los diferentes albergues públicos y privados del Estado para verificar el estado físico de los adultos mayores, así como la atención que se les brinda y que las instalaciones sean las apropiadas, tomando nota de cualquier anomalía y, en su caso, emitir alguna recomendación, determinar alguna medida de apremio o denunciar ante la autoridad que corresponda;
 
-XXIII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables; y
+XXIV. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas y administrativas aplicables; y
 
-XXIV. Las demás que le confieran esta Ley y otros ordenamientos legales.
+XXV. Las demás que le confieran esta Ley y otros ordenamientos legales.
 
 ### CAPITULO III. DE LA ESTRUCTURA DE LA PROCURADURÍA
 
@@ -586,3 +590,13 @@ P.O. 17 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 469.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA; ADEMÁS, SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA Y AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 121.- POR EL QUE SE ADICIONA EL CAPÍTULO VIII BIS DENOMINADO “ALERTA PLATEADA” AL TÍTULO TERCERO “DE LAS FACULTADES Y OBLIGACIONES” DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA; ADEMÁS, SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 8 DE LA LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima “.
+
+SEGUNDO. En un plazo no mayor a ciento ochenta días posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Estado realizará las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas funciones que resultan de las reformas materia del presente Decreto, entre estas el protocolo de actuación definitivo de la alerta plateada que de manera específica regule y garantice el desarrollo y ejecución de dicha alerta.
+
+TERCERO. El Instituto para la Atención de los Adultos Mayores deberá realizar los convenios de coordinación necesarios para establecer la operatividad de la alerta plateada.
