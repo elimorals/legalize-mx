@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2022-05-21"
+last_updated: "2022-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -751,11 +751,17 @@ Corresponde al Sistema DIF Estatal y los Sistemas DIF Municipales, en coordinaci
 
 I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
 
-II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional, y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
+
+II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2022)</small>
+
+III. Desarrollar campañas permanentes que socialicen y promuevan la Adopción y la constitución de Familias de Acogida de niñas, niños y adolescentes; y
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2020)</small>
 
-III. Contar con un sistema de información y registro, permanentemente actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Federal. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
+IV. Contar con un sistema de información y registro, permanentemente actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Federal. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
 
 ### CAPÍTULO VII. DEL DERECHO A LA IGUALDAD SUSTANTIVA
 
@@ -2546,5 +2552,13 @@ P.O. 21 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 540.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SÉPTIMO Y SE ADICIONA LA FRACCIÓN III RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 118 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 620.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II; Y SE ADICIONA LA FRACCIÓN III RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 33 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA; Y SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 27; Y SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 4 RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, Y LAS FRACCIONES III Y IV AL ARTÍCULO 27 DE LA LEY DE ADOPCIONES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
