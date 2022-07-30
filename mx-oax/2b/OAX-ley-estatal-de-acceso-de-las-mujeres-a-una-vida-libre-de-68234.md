@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2021-11-13"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -209,9 +209,9 @@ VIII. La violencia simbólica: Es la que se ejerce a través de patrones estereo
 
 IX. Violencia digital: Acción que mediante el uso de tecnologías de la información y comunicación, redes sociales, páginas web, correo electrónico, blogs, mensajes de texto, videos, o cualquiera otra, lesionen, afecten o dañen la dignidad, seguridad, libertad e integridad de las mujeres en cualquier ámbito de su vida.
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
 
-X. La violencia obstétrica: Es toda acción u omisión por parte del personal de salud, público o privado, que atenta contra el derecho a la salud sexual, los derechos reproductivos de las mujeres durante el embarazo, el parto y el puerperio y su autonomía de los procesos naturales, trayendo consigo la pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y su sexualidad, daño físico, psicológico, o la muerte de la madre o del producto por negligencia o impericia, y
+X. Violencia Obstétrica: Es toda acción u omisión de profesionales y personal de la salud en el ámbito público y privado, que cause daño físico o psicológico a la mujer, durante el embarazo, parto o puerperio, que se exprese en la falta de acceso a servicio de salud sexual o reproductiva, trato cruel, inhumano o degradante, abuso de la medicalización en los procesos biológicos naturales, la practica innecesaria o no autorizada de intervenciones o procedimientos quirúrgicos, la manipulación o negociación de información; y en general, en cualquier situación que implique la pérdida o disminución de su autonomía y la capacidad de decidir de manera libre e informada, a lo largo de dichas etapas.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -2662,3 +2662,11 @@ P.O. 13 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 621.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 7 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
