@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2022-04-02"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -1353,7 +1353,9 @@ Las Instituciones de Seguridad Pública del Estado y de los Municipios, generar�
 
 Las Academias e Institutos serán responsables de aplicar los Programas Rectores de Profesionalización que tendrán, entre otras, las siguientes funciones:
 
-I. Aplicar los procedimientos homologados del Sistema Estatal;
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
+
+I. Aplicar los procedimientos homologados del Sistema, impulsando una doctrina policial civil en la que la formación y el desempeño de los integrantes de las Instituciones Policiales se rijan por el servicio a la sociedad, la disciplina, el respeto a los derechos humanos, al imperio de la ley, al mando superior, y en lo conducente, a la perspectiva de género;
 
 II. Capacitar en materia de investigación científica y técnica a los servidores públicos;
 
@@ -3532,3 +3534,11 @@ P.O. 2 DE ABRIL DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 623.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 62 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
