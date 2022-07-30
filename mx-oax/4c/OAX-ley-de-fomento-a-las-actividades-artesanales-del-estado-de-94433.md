@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2022-05-14"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -133,11 +133,15 @@ VI. Fomentar la celebración de ferias, eventos, exposiciones y demás foros int
 
 VII. Difundir y promover todas aquellas actividades para el rescate, preservación, fomento y mejoramiento de las actividades artesanales en el Estado;
 
-> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
 
-VIII. Impulsar la investigación y la adopción de técnicas y metodologías relacionadas con la producción artesanal para el mejoramiento de dicha actividad; y
+VIII. Impulsar la investigación y la adopción de técnicas y metodologías relacionadas con la producción artesanal para el mejoramiento de dicha actividad;
 
-IX. Las demás que le confieran esta Ley u otros ordenamientos.
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2022)</small>
+
+IX. Procurar apoyos económicos para impulsar la elaboración de las artesanías, mismos que serán entregados de manera directa a las personas artesanas; y
+
+X Las demás que le confieran esta Ley u otros ordenamientos.
 
 ### CAPÍTULO II. DEL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS
 
@@ -610,3 +614,11 @@ P.O. 14 DE MAYO DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 619.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII; Y SE ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE LA SUBSECUENTE FRACCIÓN AL ARTICULA 6 DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
