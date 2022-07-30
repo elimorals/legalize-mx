@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2021-08-07"
+last_updated: "2022-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -991,6 +991,10 @@ Las dependencias y entidades de los Gobiernos estatal y municipales, así como l
 
 En sus procesos de adquisiciones de bienes y servicios, dichas dependencias, entidades y órganos autónomos optarán por productos amigables con el ambiente, elaborados preferentemente por artesanas y artesanos, mujeres, jóvenes, personas con discapacidad y empresas locales. La Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable vigilará el cumplimiento de ello.
 
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2022)</small>
+
+Así mismo, las dependencias y entidades de los Gobiernos estatal y municipales, así como los órganos autónomos deberán donar, a título gratuito, el papel usado que desechen para ser reciclado en la producción de libros o materiales educativos a instituciones públicas de imprenta. Para tal efecto, la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable deberá implementar un sistema para la recuperación, recolección y almacenamiento de dicho material.
+
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2019)</small>
 
 Artículo 68 bis.
@@ -1682,3 +1686,11 @@ P.O. 7 DE AGOSTO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 622.- MEDIANTE EL CUAL SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 68 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
