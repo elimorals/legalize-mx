@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2022-06-30"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,11 @@ issue_date: "2019-01-02"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2022 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2022.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -78,19 +80,23 @@ IV. Nombrar y remover libremente a las personas que ocupen las Direcciones Ejecu
 
 ### CAPÍTULO II. DE LA ADSCRIPCIÓN DE LAS UNIDADES ADMINISTRATIVAS, Y ÓRGANOS DESCONCENTRADOS, A LA JEFATURA DE GOBIERNO Y A SUS DEPENDENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE AGOSTO DE 2022)</small>
 
-###### Artículo 6°.
+###### Artículo 6º.
 
-La Jefatura de Gobierno de la Ciudad de México para el estudio, planeación y despacho de los asuntos que le competen contará con Unidades de Asesoría, de Apoyo Técnico, Jurídico, de Coordinación y de Planeación del Desarrollo, para lo que se le adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
+La Jefatura de Gobierno de la Ciudad de México para el estudio, planeación y despacho de los asuntos que le competen contará con Unidades de Asesoría, de Apoyo Técnico, Jurídico, de Coordinación y de Planeación del Desarrollo, se le adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE AGOSTO DE 2022)</small>
 
-A) Secretaría Particular, a la que queda adscrita la:
+A) Secretaría Particular de la Jefatura de Gobierno;
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2022)</small>
 
-1. Dirección General de Resolución a la Demanda Ciudadana;
+1. Coordinación General de Relaciones Interinstitucionales;
+
+> <small>(ADICIONADO, G.O. 1 DE AGOSTO DE 2022)</small>
+
+2. Dirección General de Atención y Gestión a la Demanda Ciudadana;
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -111,52 +117,6 @@ D) Coordinación General de Asesores y Asuntos Internacionales, a la que queda a
 1. Dirección General de Relaciones Internacionales y Cooperación.
 
 2. (DEROGADO, G.O. 30 DE JUNIO DE 2022)
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
-
-E) Comisión para la Reconstrucción de la Ciudad de México, a la que quedan adscritas:
-
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
-
-1. Dirección General de Atención a Personas Damnificadas;
-
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
-
-2. Dirección General Operativa.
-
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
-
-Asimismo, se le adscriben los Órganos Desconcentrados denominados Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5); la Agencia Digital de Innovación Pública de la Ciudad de México; y la Junta de Asistencia Privada.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2022)</small>
-
-###### Artículo 6º.
-
-La Jefatura de Gobierno de la Ciudad de México para el estudio, planeación y despacho de los asuntos que le competen contará con Unidades de Asesoría, de Apoyo Técnico, Jurídico, de Coordinación y de Planeación del Desarrollo, se le adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
-
-A) Secretaría Particular, a la que queda adscrita la:
-
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
-
-1. Dirección General de Resolución a la Demanda Ciudadana;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-B) Coordinación General del Gabinete de Seguridad Ciudadana y Procuración de Justicia;
-
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
-
-C) Dirección General de Organización Técnica e Institucional, a la que queda adscrita la:
-
-1. (DEROGADO, G.O. 14 DE JUNIO DE 2019)
-
-D) Coordinación General de Asesores y Asuntos Internacionales, a la que quedan adscritas:
-
-1. Dirección Ejecutiva de Cooperación Internacional; y
-
-2. Dirección Ejecutiva de Representación Institucional.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
 
@@ -2178,11 +2138,17 @@ XVIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y 
 
 Corresponde a la Secretaría Particular:
 
-I. Organizar las actividades de la agenda, derivada de los compromisos y asuntos oficiales de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
 
-II. Agendar las actividades institucionales y eventos públicos de la persona Titular de la Jefatura de Gobierno de la Ciudad de México; y en su caso, comunicar a la persona servidora pública designada para que asista en representación de aquella;
+I. Participar en la organización de las actividades, compromisos y asuntos oficiales de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
-III. Coordinar la actualización de la agenda de actividades públicas e institucionales de la persona Titular de la Jefatura de Gobierno, así como las actividades para la integración del Informe de Gobierno correspondiente;
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
+
+II. Colaborar en la preparación y coordinación de las actividades institucionales y eventos públicos de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
+
+III. Coadyuvar en la integración del Informe de Gobierno correspondiente;
 
 IV. Realizar conjuntamente con otras Unidades Administrativas y/o Unidades Administrativas de Apoyo Técnico Operativo las acciones y estrategias que sean necesarias para salvaguardar la integridad física de la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
@@ -2202,7 +2168,13 @@ XI. Remitir documentos para su atención a las Dependencias, Órganos Desconcent
 
 XII. Establecer un vínculo de coordinación entre la persona Titular de la Jefatura de Gobierno de la Ciudad de México y las personas Titulares de las Alcaldías de la Ciudad de México;
 
-XIII. Dar seguimiento a los acuerdos tomados en las sesiones de Gabinete, presididas por la persona Titular de la Jefatura de Gobierno de la Ciudad de México; y
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
+
+XIII. Dar seguimiento a los acuerdos tomados en las sesiones de Gabinete, presididas por la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 1 DE AGOSTO DE 2022)</small>
+
+XIII Bis. Coordinar el cumplimiento de las obligaciones de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de la Jefatura de Gobierno de la Ciudad de México; y
 
 XIV. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
 
@@ -2274,43 +2246,51 @@ XXVIII. Las demás que resulten necesarias para el debido cumplimiento de sus at
 
 Corresponde a la Coordinación General del Gabinete de Seguridad Ciudadana y Procuración de Justicia:
 
-I. Coordinar y convocar a las reuniones matutinas de Seguridad Ciudadana y Procuración de Justicia que encabezará la persona Titular de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+I. Coordinar, convocar y participar en las reuniones del Gabinete de Seguridad Ciudadana y Procuración de Justicia que encabezará la persona Titular de la Jefatura de Gobierno de la Ciudad de México, llevando las minutas correspondientes;
 
-II. Convocar y coordinar los trabajos de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, a través de las personas representantes de la Jefatura de Gobierno de la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+II. Dar seguimiento a los Gabinetes de Seguridad en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, a través de las personas representantes de la Jefatura de Gobierno de la Ciudad de México, independientemente de la Dependencia a la que se encuentren orgánicamente adscritas;
 
-III. Coordinar la participación de las personas representantes de la Jefatura de Gobierno de la Ciudad de México en los Gabinetes Matutinos Regionales del Gobierno Federal que se realizarán en las 16 Alcaldías de la Ciudad de México;
+III. (DEROGADA, G.O. 1 DE AGOSTO DE 2022)
 
-IV. Coordinar la recepción, procesamiento, análisis y evaluación de la información que se genere en materia de seguridad ciudadana y procuración de justicia para la elaboración de estadísticas que permitan dar seguimiento puntual a los avances logrados; así como tomar las decisiones necesarias para realizar los ajustes correspondientes;
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+IV. Coordinar la recepción, procesamiento, análisis y evaluación de la información que se genere en materia de seguridad ciudadana y procuración de justicia para la elaboración de estadísticas que permitan dar seguimiento a los avances logrados y la toma de decisiones para realizar los ajustes necesarios;
 
-V. Planear, programar, organizar, coordinar y evaluar el desempeño de las personas representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia;
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
+
+V. Planear, programar, organizar, coordinar y evaluar el desempeño de las personas representantes de la Jefatura de Gobierno en los Gabinetes de Seguridad en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia;
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
 VI. Proponer el nombramiento y remoción de las personas representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia;
 
-VII. Emitir lineamientos y establecer procedimientos para el mejor desempeño de las personas representantes de la Jefatura de Gobierno en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia;
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
 
-VIII. Elaborar un sistema de evaluación del desempeño basado en competencias de las personas representantes de la Jefatura de Gobierno asignados a las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, bajo criterios claros y transparentes;
+VII. Emitir lineamientos, así como establecer procedimientos para el mejor desempeño de las personas representantes de la Jefatura de Gobierno;
 
-IX. Someter a consideración y aprobación de la persona Titular de la Jefatura de Gobierno, las propuestas para otorgar reconocimientos a las personas integrantes de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia con base en las estadísticas y los resultados;
+VIII. (DEROGADA, G.O. 1 DE AGOSTO DE 2022)
 
-X. Definir las directrices generales que garanticen la operatividad interinstitucional de los órganos de Gobierno en el Gabinete de Seguridad Ciudadana y en cada una de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia establecidas;
+IX. (DEROGADA, G.O. 1 DE AGOSTO DE 2022)
 
-XI. Determinar y asegurar la ejecución de acciones y estrategias generales orientadas a fortalecer la organización, representación y participación de la ciudadanía en los programas de seguridad Ciudadana de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia;
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
 
-XII. Establecer y controlar la ejecución de planes, programas y estrategias generales que bajo un enfoque integral y de manera coordinada con las instancias de Gobierno presentes en cada una de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia, coadyuven a reducir la incidencia delictiva y lograr una mejor procuración de justicia, apoyadas en la incursión de una política social de alto impacto;
+X. Participar en la operatividad interinstitucional de los órganos de Gobierno en el Gabinete de Seguridad Ciudadana y Procuración de Justicia y en cada una de las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia establecidas;
 
-XIII. Implementar un sistema de información y análisis estadístico que proporcione elementos, indicadores, así como herramientas precisas, fidedignas y actualizadas para garantizar el cumplimiento de las tareas encomendadas al Gabinete de Seguridad Ciudadana y Procuración de Justicia, el seguimiento de los acuerdos y la evaluación de los resultados obtenidos;
+XI. (DEROGADA, G.O. 1 DE AGOSTO DE 2022)
 
-XIV. Asistir a las reuniones del Gabinete de Seguridad Ciudadana y Procuración de Justicia y llevar las minutas correspondientes;
+XII. (DEROGADA, G.O. 1 DE AGOSTO DE 2022)
 
-XV. Someter a consideración de la persona Titular de la Jefatura de Gobierno proyectos, convenios, informes, acuerdos y documentos relativos a las responsabilidades propias de esta Coordinación General, que por su importancia e impacto requieran atención especial;
+> <small>(REFORMADA, G.O. 1 DE AGOSTO DE 2022)</small>
+
+XIII. Participar y/o coadyuvar en el desarrollo e implementación del o los sistemas de información y análisis estadístico que proporcionen elementos, indicadores, así como herramientas precisas, fidedignas y actualizadas para garantizar el cumplimiento de las tareas encomendadas al Gabinete de Seguridad Ciudadana y Procuración de Justicia, el seguimiento de los acuerdos y la evaluación de los resultados obtenidos;
+
+XIV. (DEROGADA, G.O. 1 DE AGOSTO DE 2022)
+
+XV. (DEROGADA, G.O. 1 DE AGOSTO DE 2022)
 
 XVI. Presentar de manera periódica informes y reportes a la persona Titular de la Jefatura de Gobierno, que contribuyan al análisis integral de las acciones realizadas en el Gabinete de Seguridad Ciudadana y en las Coordinaciones Territoriales de Seguridad Ciudadana y Procuración de Justicia para el logro de los objetivos establecidos; y
 
@@ -2508,13 +2488,41 @@ XVII. Apoyar en la programación, desarrollo y seguimiento de las tareas de inve
 
 XVIII. Las demás que le señalen las disposiciones jurídicas y/o administrativas, y/o las que le instruyan las personas titulares de la Coordinación General de Asesores y Asuntos Internacionales, y/o de la Jefatura de Gobierno de la Ciudad de México.
 
+> <small>(ADICIONADO, G.O. 1 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 48.
 
-(DEROGADO, G.O. 30 DE JUNIO DE 2022)
+Corresponde a la Coordinación General de Relaciones Interinstitucionales:
+
+I. Acordar con la persona titular de la Secretaría Particular el despacho de los asuntos de su ámbito de competencia en materia de relaciones interinstitucionales de la Jefatura de Gobierno de la Ciudad de México;
+
+II. Coordinar en auxilio de la Secretaría Particular las relaciones interinstitucionales de la Jefatura de Gobierno de la Ciudad de México y de sus Unidades Administrativas, con los sectores público, privado y social;
+
+III. Apoyar a la Secretaría Particular, en su representación ante los sectores público, privado y/o social, en ejercicio de las relaciones interinstitucionales de la Jefatura de Gobierno de la Ciudad de México;
+
+IV. Dirigir la elaboración de instrumentos que faciliten las relaciones interinstitucionales que correspondan a la Secretaría Particular y someterlos a la aprobación de la persona titular de la Jefatura de Gobierno de la Ciudad de México;
+
+V. Representar a la Secretaría Particular en consejos, comités, comisiones, juntas de gobierno y demás órganos colegiados, así como en reuniones, ternas y trabajos que indique o correspondan a la persona titular de la Jefatura de Gobierno de la Ciudad de México;
+
+VI. Coordinar y participar en la planeación, realización y desarrollo de foros y eventos que instruya la persona titular de la Secretaría Particular;
+
+VII. Acordar con la persona titular de la Secretaría Particular el despacho de los asuntos que guarden relación con la Federación, o las Entidades Federativas, así como con los sectores privado o social que correspondan a su ámbito de competencia;
+
+VIII. Representar a la Secretaria Particular ante los diversos mecanismos de coordinación con los sectores público, privado y/o social, en términos de lo dispuesto por este Reglamento, los convenios y demás instrumentos jurídicos;
+
+IX. Proponer a la persona titular de la Secretaría Particular, en coordinación con las personas titulares de las dependencias, alcaldías, federación, estados y municipios, la suscripción de convenios u otros instrumentos jurídicos para la constitución, integración y funcionamiento de relaciones interinstitucionales;
+
+X. Proponer a la persona titular de la Secretaría Particular la construcción y fortalecimiento de relaciones interinstitucionales con las Alcaldías de la Ciudad de México;
+
+XI. Auxiliar a la Secretaría Particular en la implementación de mecanismos para la recepción, control, gestión y seguimiento de temas y documentos dirigidos a la persona Titular de la Jefatura de Gobierno; y
+
+XII. Las demás que se deriven de otras disposiciones legales o administrativas aplicables, así como las que le asignen la persona titular de la Secretaría Particular y de la Jefatura de Gobierno de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 49.
 
-Corresponde a la Dirección General de Resolución a la Demanda Ciudadana:
+Corresponde a la Dirección General de Atención y Gestión a la Demanda Ciudadana:
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2019)</small>
 
@@ -15229,3 +15237,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Los asuntos que con la entrada en vigor del presente Decreto, se encuentren en trámite en las Unidades Administrativas respecto de las cuales se adicionen o deroguen sus atribuciones, serán atendidos y resueltos por aquellas que asuman sus atribuciones que se transfieran en virtud del mismo, en el ámbito de sus respectivas competencias.
 
 CUARTO. Las referencias hechas en este Reglamento, así como las de manera enunciativa más no limitativa que se hagan en otras leyes, reglamentos, decretos, acuerdos, manuales y demás disposiciones administrativas, incluyendo contratos, convenios y/o demás instrumentos convencionales, a las Unidades Administrativas que mediante el presente Decreto se hayan modificado o derogado, se entenderán hechas a aquellas que las sustituyan o asuman sus atribuciones.
+
+G.O. 1 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publiquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entra en vigor el día de su publicación.
