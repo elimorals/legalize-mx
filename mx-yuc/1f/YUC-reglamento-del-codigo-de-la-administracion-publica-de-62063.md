@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2022-07-28"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE JULIO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL ESTADO DE YUCATÁN EL 28 DE JULIO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE AGOSTO DE 2022.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -1619,11 +1617,15 @@ El presidente de la Junta Local de Conciliación y Arbitraje será nombrado y re
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, la Secretaría de Administración y Finanzas, contará con la siguiente estructura:
 
+> <small>(REFORMADA, D.O. 1 DE AGOSTO DE 2022)</small>
+
 I. Tesorería General del Estado:
 
-a) Dirección General de Ingresos, y
+a) Dirección General de Ingresos;
 
-b) Dirección General de Egresos.
+b) Dirección General de Egresos, y
+
+c) Dirección de Planeación Financiera.
 
 II. Subsecretaría de Presupuesto y Control del Gasto:
 
@@ -1631,13 +1633,15 @@ a) Dirección de Presupuesto, y
 
 b) Dirección de Control del Gasto.
 
+> <small>(REFORMADA, D.O. 1 DE AGOSTO DE 2022)</small>
+
 III. Subsecretaría de Administración y Recursos Humanos:
 
-a) Dirección de Recursos Humanos;
+a) Dirección General de Administración;
 
-b) Dirección de Armonización Administrativa de Entidades, y
+b) Dirección de Recursos Humanos, y
 
-c) Dirección de Servicios Internos.
+c) Dirección de Armonización Administrativa de Entidades.
 
 IV. Subsecretaría de Adquisiciones:
 
@@ -1689,7 +1693,9 @@ X. Dirección General de Control Patrimonial, Inmobiliario y Almacenes;
 
 XI. Dirección de Transparencia y Coordinación de Archivos;
 
-XII. Dirección Jurídica;
+> <small>(REFORMADA, D.O. 1 DE AGOSTO DE 2022)</small>
+
+XII. Dirección General Jurídica;
 
 XIII. Unidad de Asesores, y
 
@@ -1841,9 +1847,9 @@ VII. Participar en la concertación y contratación de empréstitos y créditos 
 
 VIII. Suscribir títulos de crédito en los términos de la legislación aplicable, por acuerdo del Secretario;
 
-> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, D.O. 1 DE AGOSTO DE 2022)</small>
 
-IX. Formular, en coordinación con la Secretaría Técnica de Planeación y Evaluación, el anteproyecto de ley de ingresos del estado, y someterlo a la aprobación del secretario;
+IX. Revisar y aprobar el anteproyecto de ley de ingresos del estado y someterlo a la aprobación del secretario;
 
 X. Participar en los estudios que se lleven a cabo con el fin de establecer los precios y tarifas de los bienes y servicios de las dependencias para integrarlos al proyecto de ley correspondiente;
 
@@ -1996,6 +2002,30 @@ XIX. Elaborar y someter a la aprobación del Secretario el procedimiento y los l
 XX. Administrar, actualizar y difundir el padrón de proveedores de bienes y servicios del Poder Ejecutivo, de conformidad con las disposiciones legales y normativas aplicables, y
 
 XXI. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 1 DE AGOSTO DE 2022)</small>
+
+###### Artículo 62 Bis.
+
+Al Director de Planeación Financiera le corresponde el despacho de los siguientes asuntos:
+
+I. Coordinar el cumplimiento de las funciones asignadas al Tesorero General del Estado en materia de planeación financiera;
+
+II. Formular, en coordinación con la Secretaría Técnica de Planeación y Evaluación, el anteproyecto de ley de ingresos del estado y someterlo a la aprobación del Tesorero General del Estado;
+
+III. Participar en la elaboración de los lineamientos generales para la formulación de los programas financieros de las entidades paraestatales e integrarlos en el anteproyecto de Ley de Ingresos del Estado;
+
+IV. Participar conjuntamente con el Tesorero General del Estado en los análisis sobre las fórmulas de distribución de los recursos federales;
+
+V. Participar en la definición de medidas para mejorar el Sistema de Coordinación Fiscal del Estado;
+
+VI. Analizar las estimaciones y procesar la información sobre los montos de las participaciones que le correspondan al estado en los ingresos federales y los fondos de aportaciones federales;
+
+VII. Coadyuvar en la definición e instrumentación de los mecanismos para la implementación de los proyectos especiales en materia de recaudación;
+
+VIII. Realizar propuestas para la administración de los recursos financieros de la Administración Pública centralizada, de conformidad con los lineamientos establecidos en la legislación y los acuerdos aplicables, y
+
+IX. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -2161,7 +2191,7 @@ X. Programar, coordinar y ejecutar los trabajos en materia de servicios generale
 
 XI. Coadyuvar en la implementación de los programas de organización, modernización, simplificación, desconcentración y descentralización administrativa así como mantener actualizados los manuales administrativos de uso interno;
 
-XII. Implementar, mantener y supervisar el Programa Institucional de Control Interno de la Secretaría;
+XII. (DEROGADA, D.O. 1 DE AGOSTO DE 2022)
 
 XIII. Validar y autorizar la contratación de los prestadores de servicios asimilados al salario y de los prestadores de servicios de honorarios profesionales de las Dependencias del Poder Ejecutivo;
 
@@ -2209,77 +2239,17 @@ XXXIII. Aplicar y vigilar el cumplimiento de las políticas en materia de contro
 
 XXXIV. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
+> <small>(ADICIONADO, D.O. 1 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 64 Bis.
 
-Al Director de Recursos Humanos le corresponde el despacho de los siguientes asuntos:
-
-I. Elaborar y someter a aprobación del Subsecretario los movimientos de altas, bajas, transferencias y cualquier otro movimiento de los servidores públicos de las Dependencias del Poder Ejecutivo del Estado;
-
-II. Elaborar y someter a la aprobación del Subsecretario los requerimientos y movimientos del personal de las Dependencias del Poder Ejecutivo;
-
-III. Elaborar, administrar y supervisar el Programa de Evaluación del Desempeño de los servidores públicos de las Dependencias y Entidades de la Administración Pública estatal;
-
-IV. Establecer y vigilar la aplicación de las normas y políticas del programa de seguridad e higiene en las Dependencias y Entidades del Poder Ejecutivo;
-
-V. Elaborar y mantener actualizados los tabuladores de sueldos generales del Poder Ejecutivo;
-
-VI. Llevar el registro y liberación de la prestación del servicio social en las Dependencias y Entidades de la Administración Pública estatal;
-
-VII. Someter a consideración del Subsecretario la autorización del pago de finiquitos y laudos de los empleados del Poder Ejecutivo;
-
-VIII. Vigilar que las Dependencias y Entidades del Poder Ejecutivo del Estado, mantengan actualizados sus organigramas;
-
-IX. Administrar y procesar la nómina de los servidores públicos de las Dependencias del Poder Ejecutivo, así como la de los jubilados de la zona henequenera, jubilados y pensionados del Gobierno del estado;
-
-X. Actualizar y resguardar los expedientes personales de los servidores públicos de las Dependencias y Entidades del Poder Ejecutivo;
-
-XI. Coadyuvar con la Dirección General de Contabilidad Gubernamental en la emisión de las constancias de retenciones del impuesto sobre la renta de los servidores públicos de las Dependencias del Poder Ejecutivo;
-
-XII. Coordinar los dictámenes relativos a la administración, autorización y ejercicio del presupuesto asignado para remuneraciones y prestaciones del personal y prestadores de servicios de todas las Dependencias y Entidades del Poder Ejecutivo;
-
-XIII. Supervisar y ejecutar el proceso de escalafón de los servidores públicos de las Dependencias y Entidades del Poder Ejecutivo;
-
-XIV. Reclutar y seleccionar al personal para las dependencias del Poder Ejecutivo, mediante la promoción y operación de la bolsa de trabajo;
-
-XV. Coordinar y verificar las contrataciones de los prestadores de servicios asimilados a salarios de todas las Dependencias y Entidades del Poder Ejecutivo;
-
-XVI. Coordinar las solicitudes de mejoras en los sistemas y programas a fin de mantener actualizadas las herramientas aplicables en la administración de recursos humanos, y
-
-XVII. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
-
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
-
-###### Artículo 64 Ter.
-
-Al Director de Armonización Administrativa de Entidades le corresponde el despacho de los siguientes asuntos:
-
-I. Coadyuvar con la normalización y operación de las direcciones administrativas o equivalentes en las entidades paraestatales;
-
-II. Establecer los programas de trabajo para armonizar las normas, políticas, lineamientos, programas y manuales que establece la Secretaría para la óptima administración de los recursos materiales de las Entidades Paraestatales;
-
-III. Mantener actualizada y administrar la información relativa a los contratos o convenios del Gobierno del estado con los proveedores que otorguen préstamos o créditos a los empleados;
-
-IV. Coordinar la operación de los programas de trabajo en materia de recursos materiales, de las Entidades de la Administración Pública estatal;
-
-V. Elaborar y someter a la aprobación del Subsecretario los criterios y lineamientos en materia de adquisiciones no consolidadas;
-
-VI. Asesorar a los directores de administración u homólogos de las Entidades de la Administración Pública en materia de adquisiciones no consolidadas, y
-
-VII. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
-
-> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
-
-###### Artículo 64 Quater.
-
-Al Director de Servicios Internos le corresponde el despacho de los siguientes asuntos:
+Al Director General de Administración le corresponde el despacho de los siguientes asuntos:
 
 I. Administrar y procesar la nómina de los servidores públicos de la Secretaría;
 
 II. Planear y supervisar la ejecución de las normas y políticas del programa de seguridad e higiene en la Secretaría;
 
-III. Vigilar que las Subsecretarias, Direcciones Generales y Direcciones de la Secretaría, mantengan actualizados sus organigramas;
+III. Vigilar que las Subsecretarias, Direcciones Generales y Direcciones de la Secretaría mantengan actualizados sus organigramas;
 
 IV. Actualizar y resguardar los expedientes de los servidores públicos de la Secretaría;
 
@@ -2321,11 +2291,71 @@ XXII. Participar en los eventos de licitación de la Secretaría, cuando se requ
 
 XXIII. Dar seguimiento al cumplimiento de los contratos de los proveedores de la Secretaría;
 
-XXIV. Coordinar la implementación y funcionamiento del Sistema de Control Interno Institucional en las actividades de la Secretaría;
+XXIV. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
 
-XXV. Implementar mecanismos de detección, prevención y control en los procesos administrativos de la Secretaría, y
+> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
-XXVI. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
+###### Artículo 64 Ter.
+
+Al Director de Recursos Humanos le corresponde el despacho de los siguientes asuntos:
+
+I. Elaborar y someter a aprobación del Subsecretario los movimientos de altas, bajas, transferencias y cualquier otro movimiento de los servidores públicos de las Dependencias del Poder Ejecutivo del Estado;
+
+II. Elaborar y someter a la aprobación del Subsecretario los requerimientos y movimientos del personal de las Dependencias del Poder Ejecutivo;
+
+III. Elaborar, administrar y supervisar el Programa de Evaluación del Desempeño de los servidores públicos de las Dependencias y Entidades de la Administración Pública estatal;
+
+IV. Establecer y vigilar la aplicación de las normas y políticas del programa de seguridad e higiene en las Dependencias y Entidades del Poder Ejecutivo;
+
+V. Elaborar y mantener actualizados los tabuladores de sueldos generales del Poder Ejecutivo;
+
+VI. Llevar el registro y liberación de la prestación del servicio social en las Dependencias y Entidades de la Administración Pública estatal;
+
+VII. Someter a consideración del Subsecretario la autorización del pago de finiquitos y laudos de los empleados del Poder Ejecutivo;
+
+VIII. Vigilar que las Dependencias y Entidades del Poder Ejecutivo del Estado, mantengan actualizados sus organigramas;
+
+IX. Administrar y procesar la nómina de los servidores públicos de las Dependencias del Poder Ejecutivo, así como la de los jubilados de la zona henequenera, jubilados y pensionados del Gobierno del estado;
+
+X. Actualizar y resguardar los expedientes personales de los servidores públicos de las Dependencias y Entidades del Poder Ejecutivo;
+
+XI. Coadyuvar con la Dirección General de Contabilidad Gubernamental en la emisión de las constancias de retenciones del impuesto sobre la renta de los servidores públicos de las Dependencias del Poder Ejecutivo;
+
+XII. Coordinar los dictámenes relativos a la administración, autorización y ejercicio del presupuesto asignado para remuneraciones y prestaciones del personal y prestadores de servicios de todas las Dependencias y Entidades del Poder Ejecutivo;
+
+XIII. Supervisar y ejecutar el proceso de escalafón de los servidores públicos de las Dependencias y Entidades del Poder Ejecutivo;
+
+XIV. Reclutar y seleccionar al personal para las dependencias del Poder Ejecutivo, mediante la promoción y operación de la bolsa de trabajo;
+
+XV. Coordinar y verificar las contrataciones de los prestadores de servicios asimilados a salarios de todas las Dependencias y Entidades del Poder Ejecutivo;
+
+XVI. Coordinar las solicitudes de mejoras en los sistemas y programas a fin de mantener actualizadas las herramientas aplicables en la administración de recursos humanos, y
+
+XVII. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
+
+###### Artículo 64 Quáter.
+
+Al Director de Armonización Administrativa de Entidades le corresponde el despacho de los siguientes asuntos:
+
+I. Coadyuvar con la normalización y operación de las direcciones administrativas o equivalentes en las entidades paraestatales;
+
+II. Establecer los programas de trabajo para armonizar las normas, políticas, lineamientos, programas y manuales que establece la Secretaría para la óptima administración de los recursos materiales de las Entidades Paraestatales;
+
+III. Mantener actualizada y administrar la información relativa a los contratos o convenios del Gobierno del estado con los proveedores que otorguen préstamos o créditos a los empleados;
+
+IV. Coordinar la operación de los programas de trabajo en materia de recursos materiales, de las Entidades de la Administración Pública estatal;
+
+V. Elaborar y someter a la aprobación del Subsecretario los criterios y lineamientos en materia de adquisiciones no consolidadas;
+
+VI. Asesorar a los directores de administración u homólogos de las Entidades de la Administración Pública en materia de adquisiciones no consolidadas, y
+
+VII. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento, y otras disposiciones legales aplicables.
+
+###### Artículo 64 Quinquies.
+
+(DEROGADO, D.O. 1 DE AGOSTO DE 2022)
 
 > <small>(REFORMADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3015,17 +3045,25 @@ II. Supervisar, normar y coordinar la implementación del Sistema Institucional 
 
 III. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaria de Administración y Finanzas, este reglamento y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 69 Decies.
 
-Al Director Jurídico le corresponde el despacho de los siguientes asuntos:
+Al Director General Jurídico le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, D.O. 20 DE JULIO DE 2017)</small>
 
 I. Atender, coordinadamente con la Consejería Jurídica, los asuntos legales que tenga esta Secretaría con las demás dependencias y con las entidades de la Administración Pública del estado, así como con las entidades federativas, el gobierno federal y los municipios;
 
+> <small>(REFORMADA, D.O. 20 DE JULIO DE 2017)</small>
+
 II. Asesorar y orientar a las demás direcciones de la Secretaría de Administración y Finanzas;
 
+> <small>(REFORMADA, D.O. 20 DE JULIO DE 2017)</small>
+
 III. Conocer los procedimientos administrativos que sean competencia de esta Secretaría y someter a consideración y aprobación de su titular, los proyectos de resolución de estos; y
+
+> <small>(REFORMADA, D.O. 20 DE JULIO DE 2017)</small>
 
 IV. Las contenidas en el artículo 15 de este Reglamento, en el Manual de Organización General de la Secretaría de Administración y Finanzas, y otras disposiciones legales aplicables.
 
@@ -3079,9 +3117,15 @@ XVII. Expedir certificaciones de las inscripciones y registro de las entidades p
 
 XVIII. Publicar anualmente en el Diario Oficial del Gobierno del Estado de Yucatán, dentro de los primeros quince días hábiles del mes de enero, la relación de entidades paraestatales registradas que obren en el Registro de Entidades Paraestatales;
 
-XIX. Representar al Secretario, de manera permanente o temporal, ante comisiones, grupos de trabajo, órganos de gobierno de entidades paraestatales y otros órganos colegiados, previa designación expresa, y
+> <small>(REFORMADA, D.O. 1 DE AGOSTO DE 2022)</small>
 
-XX. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría de Administración y Finanzas, este Reglamento, y otras disposiciones legales aplicables.
+XIX. Representar al Secretario, de manera permanente o temporal, ante comisiones, grupos de trabajo, órganos de gobierno de entidades paraestatales y otros órganos colegiados, previa designación expresa;
+
+> <small>(ADICIONADA, D.O. 1 DE AGOSTO DE 2022)</small>
+
+XX. Coordinar la implementación, supervisión y evaluación del Sistema de Control Interno de la Secretaría, y
+
+XXI. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría de Administración y Finanzas, este Reglamento, y otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO, D.O. 20 DE JULIO DE 2017)</small>
 
@@ -3125,9 +3169,9 @@ IV. Subconsejería de Servicios Legales y Vinculación Institucional:
 
 a) Dirección de Contratos, Licitaciones y Procedimientos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 21 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, D.O. 1 DE AGOSTO DE 2022)</small>
 
-b) Dirección de Asuntos Notariales y Servicios Legales;
+b) Dirección General de Asuntos Notariales y Servicios Legales;
 
 > <small>(F. DE E., D.O. 15 DE MARZO DE 2019)</small>
 
@@ -3617,83 +3661,157 @@ XXII. Disponer la notificación de los asuntos que se tramiten en la Consejería
 
 XXIII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 21 DE JULIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 77.
 
-Al Director de Asuntos Notariales y Servicios Legales le corresponde el despacho de los siguientes asuntos:
+Al Director General de Asuntos Notariales y Servicios Legales le corresponde el despacho de los siguientes asuntos:
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 I. Fungir como enlace con los diferentes notarios públicos y aspirantes a notario público del estado;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 II. Llevar un registro de la distribución entre las notarías públicas del estado, de las actas notariales y escrituras públicas que requieran las dependencias y entidades;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 III. Elaborar la propuesta de arancel para el pago de honorarios por los servicios notariales que las dependencias y entidades de la Administración Pública estatal y municipal requieran;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 IV. Recibir y llevar un registro de los avisos de pérdida, extravío o robo de cualquier instrumento notarial que le presenten los notarios públicos del estado;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 V. Recibir, revisar y resguardar los informes semestrales que presenten los notarios públicos en términos del artículo 14 bis de la Ley del Notariado del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 VI. Integrar y actualizar un registro de los notarios públicos que han presentado los informes a que se refiere el artículo 14 bis de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 VII. Administrar y controlar el acceso a los sistemas electrónicos o informáticos para que los notarios públicos puedan realizar la presentación de los informes a que se refiere el artículo 14 bis de la Ley del Notariado del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 VIII. Crear y controlar los usuarios correspondientes a cada notario público para que accedan a los sistemas electrónicos o informáticos a que se refiere el artículo 14 bis de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 IX. Recibir las solicitudes de nuevas hojas del protocolo por parte de los notarios públicos;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 X. Verificar el cumplimiento de la presentación de los informes a que se refiere la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XI. Elaborar la propuesta de autorización de hojas del protocolo para los notarios públicos solicitantes y, en caso de que el notario público no esté al día en la presentación de sus informes, no se haya recertificado o incumpla algún otro de los requisitos previstos en la Ley del Notariado del Estado de Yucatán, elaborar la propuesta de respuesta negativa a la autorización de nuevas hojas del protocolo;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XII. Recibir la solicitud de los interesados en presentar el examen para obtener la patente de aspirante a notario público y sus anexos e integrar un expediente por cada una de ellos;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XIII. Verificar el cumplimiento de los requisitos previstos en la Ley del Notariado del Estado de Yucatán para presentar el examen para obtener la patente de aspirante a notario público por parte de quienes lo soliciten;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XIV. Proponer la fecha, hora y lugar para aplicar el examen para obtener la patente de aspirante a notario público a los interesados;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XV. Recibir el aviso de inicio y terminación de las prácticas notariales que realicen los interesados en obtener la patente de aspirante a notario público;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XVI. Llevar un registro de la fecha de presentación de los avisos de inicio, terminación, en su caso, interrupción y continuación de las prácticas notariales que realicen los interesados en obtener la patente de aspirante a notario público;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XVII. Verificar con la notaría pública respectiva que quien presentó el aviso de inicio o terminación de sus prácticas notariales efectivamente haya iniciado o terminado la realización de estas y emitir la respuesta respectiva;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XVIII. Notificar a los solicitantes que cubran los requisitos previstos en la Ley del Notariado del Estado de Yucatán la designación del sínodo, la fecha, hora y lugar aprobadas para presentar el examen para obtener la patente de aspirante a notario público o la patente de notario público o, en caso de que no hayan cubierto los requisitos necesarios para presentarlo, informarles los motivos de la negativa de acceso al examen;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XIX. Formular la propuesta de temario para el examen de aspirante a notario público;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XX. Elaborar la propuesta de patente de aspirante a notario público y de notario público;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XXI. Recibir y verificar el cumplimiento de los requisitos previstos en la Ley del Notariado del Estado de Yucatán y su reglamento respecto a las solicitudes de permuta, así como de los convenios de asociación entre notarios públicos;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XXII. Elaborar la convocatoria para ocupar notarías públicas vacantes;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XXIII. Verificar el cumplimiento de los requisitos previstos en la Ley del Notariado del Estado de Yucatán de los aspirantes a notario público que presenten la solicitud para presentar el examen de oposición a que se refiere el artículo 40 de la referida ley;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XXIV. Notificar a los sustentantes la calificación que obtuvieron en la prueba teórica del examen para obtener la patente de notario público y convocar a aquellos que hayan obtenido una calificación aprobatoria, en términos de la Ley del Notariado del Estado de Yucatán, a que presenten la prueba práctica, comunicándoles la fecha, hora y lugar en que se llevará a cabo esta;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XXV. Recibir y resguardar los sobres sellados que le presenten quienes presenten el examen práctico para obtener la patente de aspirante a notario público y de notario público;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XXVI. Convocar a los integrantes del sínodo del examen para obtener la patente de notario público a la sesión de calificación a puerta cerrada de las pruebas prácticas que hayan presentado los sustentantes;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XXVII. Implementar cursos y capacitaciones en materia de actualización y recertificación notarial;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XXVIII. Llevar el registro de los aspirantes a notario público y de los notarios públicos que hayan tomado los cursos y capacitaciones de recertificación y actualización que implemente la Consejería Jurídica;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XXIX. Integrar un registro de las patentes de aspirante a notario público, de las patentes, sellos y firmas de los notarios públicos, así como de los convenios de suplencia, asociación o permuta que firmen los notarios públicos e integrar los informes sobre estos;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XXX. Llevar un registro del cumplimiento de los notarios públicos de la obligación de contratar un seguro de responsabilidad civil profesional, o el medio de garantía que utilicen para garantizar las responsabilidades en que pudieren incurrir, en términos de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XXXI. Recibir las solicitudes de solución de controversias entre dos notarios públicos por motivo de sus convenios de suplencia y plantear la propuesta de solución;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XXXII. Recibir el aviso respecto a los notarios públicos que a causa de fallecimiento, ausencia definitiva, imposibilidad parcial o total o por cualquier otro motivo ya no puedan continuar prestando sus servicios, así como la información respecto al notario público que se ocupará de resguardar la documentación, información, libros y protocolos del notario público impedido;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XXXIII. Recibir el aviso de la ausencia por separación temporal de sus funciones en términos de la Ley del Notariado del Estado de Yucatán, que presenten los notarios públicos y llevar un registro de estos;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XXXIV. Verificar que los notarios públicos resuman el ejercicio de sus funciones en la fecha fijada en el aviso de separación temporal de sus funciones;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XXXV. Recibir el comunicado y la documentación que acredite la justificación del notario público que no haya reanudado sus funciones en términos de la Ley del Notariado del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XXXVI. Recibir el aviso de inicio de la actuación de dos notarios públicos conforme a un convenio de asociación y llevar un registro de estos;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XXXVII. Elaborar el dictamen de suspensión de la patente de notario público por posible incapacidad mental o por imposibilidad física;
 
@@ -3701,65 +3819,127 @@ XXXVII. Elaborar el dictamen de suspensión de la patente de notario público po
 
 XXXVIII. Elaborar el proyecto de dictamen de revocación de la patente notarial por sentencia ejecutoriada de interdicción o cuando el notario público esté imposibilitado físicamente conforme a las disposiciones aplicables;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XXXIX. Recibir el aviso del registro civil respecto a la defunción de un notario público y actualizar sus registros administrativos;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XL. Recibir la notificación del Poder Judicial respecto a las medidas provisionales dictadas en un procedimiento de interdicción contra algún notario público que se encuentre en ejercicio de sus funciones o cuando se dicte un auto de vinculación a proceso con medida cautelar de prisión preventiva;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XLI. Llevar un registro de los proveedores de hojas del protocolo de notarios públicos que cubren los requisitos de seguridad fijados por la Consejería Jurídica;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XLII. Operar el sistema informático, junto con los notarios públicos del estado, para alojar documentos e instrumentos electrónicos, así como el protocolo electrónico, en términos de la Ley del Notariado del Estado de Yucatán y su reglamento;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XLIII. Dar aviso al Ministerio Público sobre la posible vulneración de la confidencialidad, integralidad o disponibilidad de los mensajes de datos o parte de estos, de los sistemas o plataformas informáticas que administre;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XLIV. Respaldar la información de los sistemas y plataformas informáticas que administre, al menos, de manera mensual;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XLV. Restaurar la información que se haya perdido con motivo de la posible vulneración de la confidencialidad, integralidad o disponibilidad de los mensajes de datos o parte de estos de los sistemas o plataformas informáticas que administre;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XLVI. Elaborar la propuesta del programa anual de visitas de inspección ordinarias a las notarías públicas del estado;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XLVII. Instruir a los visitadores adscritos a su dirección la realización de las visitas ordinarias conforme al programa anual de visitas de inspección ordinarias aprobado, así como las especiales que ordene el consejero jurídico;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 XLVIII. Notificar a los notarios públicos y aspirantes a notario público las órdenes de visitas ordinarias y especiales, en términos de la Ley del Notariado del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 XLIX. Hacer del conocimiento de su superior jerárquico el incumplimiento de las determinaciones tomadas por el gobernador del estado o por la Consejería Jurídica y proponer la aplicación de los medios de apremio previstos en la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 L. Recibir las quejas contra los notarios públicos o aspirantes a notario público que se interpongan en términos de la Ley del Notariado del Estado de Yucatán, informarlas a su superior;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 LI. Llevar un registro de las quejas presentadas en términos de la Ley del Notariado del Estado de Yucatán, el estado de su substanciación, si fueron sometidas al proceso de conciliación y su resultado, y el sentido de su resolución;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 LII. Revisar la queja que haya recibido por el incumplimiento de disposiciones por parte de los aspirantes a notario público o de los notarios públicos del estado, y elaborar el acuerdo por el que se admite, desecha o se previene a quien interponga la queja por haber omitido alguno de los datos para su presentación;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 LIII. Notificar a quien interponga la queja el acuerdo de admisión, desechamiento o prevención de la queja que haya presentado, en términos de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 LIV. Notificar al notario público o aspirante a notario público el acuerdo de admisión de la queja que se haya presentado en su contra, en términos de la Ley del Notariado del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 LV. Recibir el informe y las pruebas que el notario público o el aspirante a notario público presente dentro del procedimiento de queja, en términos de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 LVI. Elaborar la propuesta de orden de visita especial por la presunta violación de las disposiciones de la Ley del Notariado del Estado de Yucatán y demás disposiciones aplicables;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 LVII. Solicitar la asistencia del personal de la Agencia de Administración Fiscal de Yucatán a la visita especial en caso de que el motivo de la queja se encuentre relacionado con disposiciones fiscales; o la asistencia de otras autoridades en caso de que las disposiciones presuntamente infringidas se encuentren dentro del ámbito de su competencia;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 LVIII. Requerir, a cualquier dependencia o entidad la información adicional que requiera durante el procedimiento de investigación de los motivos de la queja, así como recabar las pruebas necesarias y llevar a cabo las diligencias pertinentes en términos de la Ley del Notariado del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 LIX. Informar a quien haya interpuesto la queja sobre la posibilidad de llevar a cabo un procedimiento para la reparación del daño, en términos de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 LX. Elaborar el acuerdo de suspensión o reanudación del procedimiento de trámite de la queja conforme a lo previsto en la Ley del Notariado del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 LXI. Notificar a quien haya interpuesto la queja y al notario público o aspirante a notario público el acuerdo de suspensión o reanudación del procedimiento de trámite de la queja conforme a la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 LXII. Notificar a las partes del procedimiento de conciliación la fecha, hora y lugar en que se llevará a cabo la o las audiencias de conciliación, en términos de la Ley del Notariado del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 LXIII. Levantar el acta circunstanciada del procedimiento de conciliación a que se refiere la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 LXIV. Elaborar la propuesta de acuerdo de cierre de la etapa de investigación e integrar el expediente con los resultados de la investigación realizada respecto a la queja presentada, en términos de la Ley del Notariado del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 LXV. Notificar a las partes el acuerdo de cierre de la etapa de investigación y poner a su disposición el expediente con los resultados de la investigación realizada respecto a la queja presentada, en términos de la Ley del Notariado del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 LXVI. Recibir los alegatos y pruebas que presenten las partes con posterioridad a la puesta a disposición del expediente con los resultados de la investigación, analizarlos y elaborar la propuesta de resolución del procedimiento del trámite de la queja, en términos de la Ley del Notariado del Estado de Yucatán;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 LXVII. Integrar, dentro de los primeros cinco días de cada mes, un informe sobre las quejas presentadas en términos de la Ley del Notariado del Estado de Yucatán y, en general, sobre el resultado de las acciones en materia de vigilancia, inspección, conciliación y sanción de la actividad notarial en el estado, así como de todas aquellas acciones relevantes ejecutadas en la materia;
 
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+
 LXVIII. Capacitar en materia notarial al cuerpo de visitadores adscritos a su dirección, y
+
+> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
 LXIX. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
@@ -15340,3 +15520,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Adecuaciones presupuestales y administrativas
 
 La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas en la Consejería Jurídica o como resultado de este decreto.
+
+D.O. 1 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 538/2022 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE REESTRUCTURACIÓN LEGAL Y ADMINISTRATIVA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuaciones presupuestales y administrativas
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas como resultado de este decreto.
