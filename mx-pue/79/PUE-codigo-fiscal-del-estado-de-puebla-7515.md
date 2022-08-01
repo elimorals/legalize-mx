@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2019-12-06"
+last_updated: "2022-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO FISCAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2022.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -348,6 +348,10 @@ Las Autoridades Fiscales para la práctica de visitas domiciliarias, del procedi
 (ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993) (F. DE E., P.O. 18 DE MARZO DE 2011)
 
 La práctica de diligencias deberá efectuarse en días y horas hábiles, considerándose como tales las comprendidas entre las 7:30 y las 18:00 horas.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2022)</small>
+
+Las Autoridades Fiscales podrán suspender los plazos por fuerza mayor o caso fortuito. Dicha suspensión deberá darse a conocer mediante disposiciones de carácter general que para tal efecto dicte y publique la Secretaría de Planeación y Finanzas.
 
 ###### ARTICULO 17.
 
@@ -767,7 +771,9 @@ III.- No se encuentren inscritos en el Registro Federal de Contribuyentes, y en 
 
 IV.- Habiendo vencido el plazo para presentar alguna declaración, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada.
 
-La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2022)</small>
+
+La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las Autoridades Fiscales en los términos que este Código establece para cubrir a plazos, ya sea diferido o en parcialidades, los adeudos fiscales que tengan a su cargo.
 
 Para estos efectos, en el convenio se establecerá que las Dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco para el pago de los adeudos correspondientes.
 
@@ -929,9 +935,9 @@ Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualqu
 
 En el caso de que se paguen contribuciones mediante cheque, éste sólo podrá aplicarse a un solo contribuyente, debiendo librarse a cargo de cualquier institución de crédito ubicada dentro del territorio del Estado en la que el contribuyente tenga su cuenta.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2022)</small>
 
-El cheque mediante el cual se paguen las contribuciones y demás cantidades que tenga derecho a percibir el Estado, así como sus accesorios, deberá expedirse a nombre de la Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla, además deberá tener la inscripción '"para abono en cuenta". Dicho cheque no será negociable.
+El cheque mediante el cual se paguen las contribuciones y demás cantidades que tenga derecho a percibir el Estado, así como sus accesorios, deberá expedirse a nombre del Gobierno del Estado de Puebla, además de tener la inscripción '"para abono en cuenta". Dicho cheque no será negociable.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1319,11 +1325,11 @@ XV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991)
 
 XVI.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2022)</small>
 
-XVII.- Conocer y resolver las solicitudes de condonación o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios.
+XVII.- Conocer y resolver las solicitudes de condonación, reducción o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios.
 
-La solicitud de condonación o exención en los términos de esta fracción, no constituirá instancia y las resoluciones que emitan las autoridades fiscales competentes al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+La solicitud de condonación, reducción o exención en los términos de esta fracción, no constituirá instancia y las resoluciones que emitan las Autoridades Fiscales competentes al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -1375,19 +1381,9 @@ Si el contribuyente o responsable solidario presenta la declaración omitida ant
 
 Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la Autoridad, éste se disminuirá del importe que se tenga que pagar con la declaración que se presente.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2022)</small>
 
-II.- Imponer la multa que corresponda en los términos de este Código, por cada requerimiento no atendido.
-
-Para efectos del párrafo anterior, se estará a lo siguiente:
-
-La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
-
-Para la presentación del documento omitido, se otorgarán los siguientes plazos:
-
-a).- Quince días para el primer requerimiento.
-
-b).- Seis días para el segundo y tercer requerimiento.
+II.- Imponer la multa que corresponda en los términos de este Código y requerir hasta en tres ocasiones el cumplimiento de la obligación omitida, otorgando al contribuyente un plazo de quince días para el cumplimiento de cada requerimiento. Por cada requerimiento no atendido, se impondrán las multas correspondientes que, tratándose de declaraciones, será una multa por cada obligación omitida.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1579,11 +1575,17 @@ II.- Cuando el monto de los créditos fiscales represente más del 60% del total
 
 La autorización de la condonación parcial referida en este artículo, deberá sujetarse a la normatividad que para tal efecto se emita.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2022)</small>
 
 ###### ARTICULO 41-I.
 
-El Ejecutivo del Estado, mediante resoluciones de carácter general podrá condonar o eximir, total o parcialmente, el pago de contribuciones estatales y sus accesorios, productos y aprovechamientos, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en caso de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+El Ejecutivo del Estado, mediante resoluciones de carácter general podrá condonar, reducir o eximir, total o parcialmente, el pago de contribuciones estatales y sus accesorios, productos y aprovechamientos, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en caso de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2022)</small>
+
+###### ARTICULO 41-J.
+
+Las Autoridades Fiscales podrán revocar y/o dejar sin efectos las resoluciones o actos jurídicos, emitidos por sí o por las Autoridades Fiscales de su adscripción, siempre que no se encuentren firmes, se haya interpuesto medio de defensa en su contra, se hayan emitido en contravención a las disposiciones fiscales y medie solicitud de la Procuraduría Fiscal de la Secretaría de Planeación y Finanzas, de conformidad con la legislación, normatividad y lineamientos aplicables.
 
 ### CAPITULO II. DE LOS ACTOS DE VERIFICACION
 
@@ -1771,9 +1773,13 @@ IV.- Que son ingresos que forman parte de la base gravable del contribuyente los
 
 Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos quince días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE AGOSTO DE 2022)</small>
 
-Se tendrán por no desvirtuados los hechos u omisiones consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad.
+Los visitadores tendrán la facultad para realizar la valoración de los documentos o informes obtenidos de terceros en el desarrollo de la visita, así como de los documentos, libros o registros que presente el contribuyente dentro de los plazos establecidos en el párrafo anterior para desvirtuar los hechos u omisiones mencionados en la última acta parcial. La valoración comprenderá la idoneidad y alcance de los documentos, libros, registros o informes de referencia, como resultado del análisis, la revisión, la comparación, la evaluación o la apreciación, realizadas en lo individual o en su conjunto, con el objeto de desvirtuar o no los citados hechos u omisiones.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 1 DE AGOSTO DE 2022)</small>
+
+Se tendrán por no desvirtuados o consentidos los hechos u omisiones consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
@@ -1873,7 +1879,9 @@ II.- Se realizó o debió realizarse el pago o entero de contribuciones, cuando 
 
 III.- Se hubiere cometido la infracción a las disposiciones fiscales. Si la infracción fuere de carácter continuo o continuado, el término correrá a partir del día siguiente al en que hubiere cesado la consumación o se hubiese realizado la última conducta o hecho, respectivamente;
 
-IV.- Se levante el acta de incumplimiento de la obligación garantizada, en un plazo que no excederá de cuatro meses, contado a partir del día siguiente al de la exigibilidad de las fianzas a favor del Estado constituidas para garantizar el interés fiscal, la cual será notificada a la afianzadora; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2022)</small>
+
+IV.- Se levante el acta de incumplimiento de la obligación garantizada, en un plazo que no excederá de cuatro meses, contado a partir del día siguiente al de la exigibilidad de las fianzas a favor del Estado, constituidas para garantizar el interés fiscal, la cual será notificada a la institución de fianzas de que se trate; y
 
 V.- Resulte insuficiente la garantía del interés fiscal, en los casos de responsabilidad solidaria a que se refieren las fracciones XII y XIII del artículo 20 de este Código.
 
@@ -2605,13 +2613,11 @@ II.- Por correo ordinario cuando se trate de actos distintos a los señalados en
 
 III.- Por estrados cuando la persona a quien deba notificarse no se localice en el domicilio que haya manifestado al fisco estatal o en el lugar que manifieste ante las autoridades fiscales federales, se ignore su domicilio o el de su representante, desaparezca o se oponga a la diligencia de notificación o se coloque en el supuesto previsto en la fracción IV del artículo 75-D.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
 IV.- Por edictos en el caso de que la persona a quien deba notificarse, hubiera fallecido y no se conozca al representante de la sucesión.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2022)</small>
 
-V.- Por instructivo, solamente en los casos y las formalidades a que se refiere el último párrafo del artículo 78 de este Código.
+V.- Por instructivo, solamente en los casos y con las formalidades a que se refiere el último párrafo del artículo 78 de este Código.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2643,23 +2649,21 @@ Toda notificación personal, realizada con quien deba entenderse, será legalmen
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad equivalente a dos veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se realice la notificación de que se trate. Respecto a estos gastos de notificación, la autoridad fiscal los determinará conjuntamente con la propia notificación y se pagarán al cumplir con el requerimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2022)</small>
 
-###### ARTÍCULO 78.
+###### ARTICULO 78.
 
-Cuando la notificación deba efectuarse personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio, mismo en el que se señalará la hora en que se entrega, para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse dentro del plazo de seis días a las oficinas de las autoridades fiscales.
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior que se señale en el mismo; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y de ello, el notificador levantará una constancia.
 
-Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y si la persona citada o su representante legal no esperasen, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino.
+El día y hora de la cita, el notificador tendrá que constituirse en el domicilio del interesado, y deberá requerir nuevamente la presencia del destinatario y notificarlo, pero si la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuntre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por cualquiera de los medios previstos en el artículo 76 de este Código.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los honorarios que establezca la Ley de Ingresos del Estado de Puebla del ejercicio fiscal que corresponda, a cargo de quien incurrió en el incumplimiento.
 
-En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia, para dar cuenta a la oficina Recaudadora y de Asistencia al Contribuyente que corresponda.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2022)</small>
 
 ###### ARTICULO 79.
 
-Las notificaciones por estrados se harán fijando durante quince días consecutivos el documento que se pretenda notificar, en un sitio abierto al público de las oficinas de la autoridad fiscal que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. La autoridad deberá dejar constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados se harán fijando durante diez días consecutivos el documento que se pretenda notificar, en un sitio abierto al público de las oficinas de la autoridad fiscal que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las Autoridades Fiscales. La autoridad deberá dejar constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del decimoprimer día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -2689,9 +2693,9 @@ Si el otorgamiento de la garantía a que se refiere esta fracción consiste en h
 
 III.- Fianza otorgada por Institución autorizada, la que no gozará de los beneficios de orden y excusión; debiendo ser otorgada a favor de la Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2022)</small>
 
-Para efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica avanzada o el sello digital de la afianzadora.
+Para efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica avanzada o el sello digital de la institución de fianzas;
 
 IV.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
 
@@ -2699,7 +2703,9 @@ IV.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solv
 
 Para que un tercero asuma la obligación solidaria de garantizar el interés fiscal, deberá manifestar su voluntad, mediante escrito firmado ante Fedatario Público, o comparecer ante la autoridad fiscal que tenga encomendado el cobro del crédito fiscal con la presencia de dos testigos; debiendo señalar detalladamente en dicho escrito los bienes sobre los cuales recaerá la obligación solidaria asumida.
 
-V.- Embargo en la vía administrativa.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE AGOSTO DE 2022)</small>
+
+V.- Embargo en la vía administrativa de bienes muebles tangibles e inmuebles, excepto predios rústicos, así como negociaciones;
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2913,6 +2919,24 @@ II.- A embargar negociaciones con todo lo que de hecho y por derecho les corresp
 
 Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, el deudor deberá efectuar el pago dentro de los seis días hábiles siguientes a la fecha en que surta sus efectos la notificación del requerimiento, de lo contrario la autoridad fiscal continuará con el procedimiento administrativo de ejecución.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2022)</small>
+
+###### ARTICULO 88-A.
+
+La autoridad fiscal, tratándose de créditos exigibles, podrá llevar a cabo el embargo de bienes, por estrados o edictos, siempre que se trate de los siguientes:
+
+I. Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo;
+
+II. Acciones, bonos, cupones vencidos, valores mobiliarios y en general créditos de inmediato y fácil cobro a cargo de entidades o dependencias del Estado y Municipios y de instituciones o empresas de reconocida solvencia;
+
+III. Bienes inmuebles; y
+
+IV. Bienes intangibles.
+
+Para tal efecto la autoridad fiscal previamente emitirá declaratoria de embargo en la que detallará los bienes afectados, misma que hará del conocimiento del deudor por estrados o por edictos, según corresponda.
+
+Una vez que surta efectos la notificación del embargo, se continuará con el procedimiento administrativo de ejecución.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 89.
@@ -2931,9 +2955,9 @@ El ejecutor designado por la Autoridad Fiscal, se constituirá en el domicilio d
 
 Si el embargo recayere en bienes muebles, el ejecutor podrá hacer la extración (sic) de los mismos o en su caso nombrar depositario en términos de lo dispuesto por este Código.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2022)</small>
 
-Si durante el embargo, la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas señalados para la traba o en los que se presuma que existen bienes muebles embargables, el ejecutor previo acuerdo fundado del jefe de la oficina ejecutora, hará que ante dos testigos sean rotas las cerraduras que fuere necesario, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
+Si durante el embargo, la persona con quien se entienda la diligencia no abriere las puertas del inmueble señalado para la traba o en los que se presuma que existen bienes muebles embargables, el ejecutor previo acuerdo fundado del jefe de la oficina ejecutora, hará que ante dos testigos sean rotas las cerraduras que fuere necesario, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -3103,17 +3127,25 @@ Cuando los bienes señalados para la traba estuvieran ya embargados por otras au
 
 El depositario nombrado estará obligado:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2022)</small>
 
-I.- A vigilar que los bienes embargados, se conserven en el lugar señalado para su depósito y en el estado en que fueron depositados.
+I.- A vigilar que los bienes embargados, se trasladen al lugar señalado para su depósito.
 
 II.- A vigilar que los bienes embargados no sean distraídos para evadir el cumplimiento del crédito fiscal.
 
 III.- A manifestar a la oficina su domicilio, así como los cambios que haga sobre el particular.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2022)</small>
 
-IV.- A remitir a la oficina ejecutora el inventario de bienes muebles e inmuebles objeto del embargo, así como los bienes muebles embargados, al día hábil siguiente de efectuada la diligencia.
+IV.- A remitir a la oficina ejecutora el inventario de bienes muebles e inmuebles objeto del embargo, así como los bienes muebles embargados.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2022)</small>
+
+El dinero, metales preciosos, alhajas y valores mobiliarios embargados, se entregarán dentro de un plazo que no excederá de veinticuatro horas; tratándose de los demás bienes, el plazo será de cinco días contados a partir de aquel en que fue hecho el requerimiento para tal efecto.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2022)</small>
+
+En el inventario a que se refiere esta fracción, se deberá manifestar de común acuerdo con el embargado, el estado actual que guarden los bienes embargados.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
 
@@ -3387,15 +3419,21 @@ La autoridad ejecutora fincará el remate a favor de quien haya hecho la mejor p
 
 Una vez fincado el remate se comunicará el resultado del mismo a través de medios electrónicos a los postores que hubieren participado en él, remitiendo el acta que al efecto se levante.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2022)</small>
 
 ###### ARTICULO 116.
 
-Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las obligaciones que contraiga y las que este Código señala, perderá el importe del depósito que hubiera constituido y éste se aplicará de plano por la Autoridad Fiscal, a favor del erario estatal.
+Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las obligaciones que contraiga y las que este Código señala, perderá el importe del depósito que hubiera constituido como garantía, y la autoridad ejecutora lo aplicará de inmediato en favor del erario estatal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 La autoridad exactora podrá adjudicar el bien al postor que haya presentado la segunda postura de compra más alta y así sucesivamente, siempre que dicha postura sea mayor o igual al precio base de enajenación fijado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 Al segundo o siguientes postores les serán aplicables los mismos plazos para el cumplimiento de las obligaciones del postor ganador.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 En caso de incumplimiento de los postores, se iniciará nuevamente la almoneda en la forma y plazos que les señalan los artículos respectivos.
 
@@ -3473,9 +3511,9 @@ Si tampoco se fincare el remate en la segunda almoneda, se considerará que el b
 
 La adjudicación se tendrá por formalizada una vez que la autoridad ejecutora firme el acta de adjudicación correspondiente.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2022)</small>
 
-Cuando la traslación de bienes se deba inscribir en el Registro Público de la Propiedad, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho Registro.
+Cuando la adjudicación de los bienes se deba inscribir en el Registro Público de la Propiedad, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho Registro.
 
 ###### ARTICULO 124.
 
@@ -4118,5 +4156,13 @@ P.O. 6 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24-E; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 33; LA FRACCIÓN XVII DEL ARTÍCULO 41; LA FRACCIÓN II DEL ARTÍCULO 41-A; EL ARTÍCULO 41-I; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 46; LA FRACCIÓN IV DEL ARTÍCULO 47; LA FRACCIÓN V DEL ARTÍCULO 76; LOS ARTÍCULOS 78, 79; EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III Y EL PRIMER PÁRRAFO DE LA FRACCIÓN V DEL ARTÍCULO 81; EL TERCER PÁRRAFO DEL ARTÍCULO 90; LA FRACCIÓN I Y EL PRIMER PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 98; EL PRIMER PÁRRAFO DEL ARTÍCULO 116 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 123 Y, SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16; EL ARTÍCULO 41-J; UN TERCER PÁRRAFO AL ARTÍCULO 46; EL ARTÍCULO 88-A, Y LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN IV DEL ARTÍCULO 98, TODOS DEL CÓDIGO FISCAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
