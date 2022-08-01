@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-conducta-para-las-personas-servidoras-publicas-138873
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-23"
-last_updated: "2019-10-23"
+last_updated: "2022-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138873&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-10-09"
 ---
 # CODIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PUBLICAS ADSCRITAS A LA PROCURADURIA GENERAL DE JUSTICIA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 1 DE AGOSTO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS A LA PROCURADURÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE AGOSTO DE 2022 (ABROGADO).
 
 Código publicado en el No. 205 de la Gaceta Oficial de la Ciudad de México, el miércoles 23 de octubre de 2019.
 
@@ -311,3 +313,15 @@ EXPIDEN EN LA CIUDAD DE MÉXICO, A LOS SEIS DIAS DEL MES DE NOVIEMBRE DEL AÑO D
 DIRECTOR DE ESTUDIOS LEGISLATIVOS Y TRÁMITES INMOBILIARIOS
 
 LIC. GUILLERMO CRUCES PORTUGUEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Código de Conducta en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga el Acuerdo A/012/2019 por el que se emite el Código de Conducta para las Personas Servidoras Públicas adscritas a la Procuraduría General de Justicia de la Ciudad de México.
