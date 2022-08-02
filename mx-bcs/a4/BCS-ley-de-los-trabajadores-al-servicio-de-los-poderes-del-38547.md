@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2022-06-23"
+last_updated: "2022-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE AGOSTO DE 2022.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -439,6 +439,20 @@ X.- En caso de fallecimiento de un trabajador en servicio activo, los Poderes de
 
 XI.- Cuando un trabajador de acuerdo con la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, tenga necesidad de iniciar los trámites para obtener su jubilación o pensión, los Poderes del Estado y Municipios le concederán una licencia de treinta días con goce de sueldo para que pueda atender los trámites correspondientes. Cuando el trabajador reciba la aprobación de su jubilación o pensión, disfrutará de cuatro meses recibiendo su salario íntegro, a partir de la fecha en que sé de por terminada la relación de trabajo. Lo anterior, para que pueda sostenerse en tanto se inicia el pago de su pensión o jubilación.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], B.O. 2 DE AGOSTO DE 2022)</small>
+
+XII.- Abstenerse de desplegar o permitir actos de violencia de género, hostigamiento y/o acoso sexual en contra de cualquier trabajador o trabajadora.
+
+Para efectos de la presente Ley, se entiende por:
+
+a).- Hostigamiento, el ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas; y
+
+b).- Acoso sexual, una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+XIII.- Implementar, en acuerdo con los trabajadores, un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual.
+
 ###### ARTICULO 45.
 
 Son obligaciones de los trabajadores:
@@ -517,7 +531,9 @@ b) Cuando faltare por más de tres días consecutivos a sus labores o por acumul
 
 c).- Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas, archivo y demás objetos relacionados con el trabajo.
 
-d).- Por cometer actos inmorales durante el trabajo.
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+d).- Por cometer actos inmorales o de hostigamiento y/o acoso sexual contra cualquier persona durante el trabajo.
 
 e).- Por revelar los asuntos secretos o reservados de que tuviere conocimiento con motivo de su trabajo.
 
@@ -1608,3 +1624,11 @@ B.O. 23 DE JUNIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 2 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2840 SE REFORMA EL INCISO D) FRACCIÓN V DEL ARTÍCULO 47; Y SE ADICIONAN LAS FRACCIONES XII Y XIII AL ARTÍCULO 44 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
