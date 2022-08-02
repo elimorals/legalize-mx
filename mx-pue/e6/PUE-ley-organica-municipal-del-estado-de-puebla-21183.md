@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2022-07-18"
+last_updated: "2022-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1625,11 +1625,11 @@ Durante la votación no se admitirá discusión alguna, salvo para la aclaració
 
 La promulgación y posterior publicación en el Periódico Oficial del Estado de un ordenamiento aprobado, constituyen requisitos de validez, vigencia y legalidad que serán insustituibles y obligatorios.
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 88 Bis.
 
-Los Ayuntamientos deberán aprobar y publicar dentro de los 90 días siguientes a su toma de posesión su Bando de Policía y Gobierno o, en su caso, ratificar o actualizar el vigente.
+Los Ayuntamientos deberán aprobar y publicar dentro de los 90 días siguientes a su toma de posesión su Bando de Policía y Gobierno, así como el Reglamento Interior de Cabildo, o en su caso, ratificar o actualizar el vigente.
 
 ###### ARTÍCULO 89.
 
@@ -4466,6 +4466,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA SECCIÓN I DENOMINADA “DEL ACCESO A LA CULTURA”, CON LOS ARTÍCULOS 43 BIS Y 43 TER, AL CAPÍTULO III DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 88 BIS DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
