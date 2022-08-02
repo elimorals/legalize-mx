@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-del-deporte-de-la-ciudad-de-137
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-08-02"
-last_updated: "2021-09-01"
+last_updated: "2022-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137392&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-07-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE AGOSTO DE 2022.
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el viernes 2 de agosto de 2019.
 
@@ -614,7 +614,7 @@ III. Dirigir los Programas y estrategias asignados a la Dirección;
 
 IV. Coordinar con los Órganos Políticos Administrativos y con los sectores Sociales y Privados, la operación de las estrategias de actividad física comunitaria, deporte comunitario y recreación comunitaria y paralímpicos;
 
-V. Expedir las constancias del Registro de cultura física y deporte de la Ciudad de México;
+V. (DEROGADA, G.O. 2 DE AGOSTO DE 2022)
 
 VI. Generar estrategias que permitan la difusión y enseñanza de las diferentes modalidades del deporte paralímpico;
 
@@ -652,7 +652,13 @@ XI. Emitir los certificados y constancias médico deportivas que acrediten la co
 
 XII. Proponer los lineamientos para la integración del registro de las personas deportistas destacados de la Ciudad de México;
 
-XIII. Las demás que le confieren otras disposiciones legales y aquellas que le establezca el Director General.
+> <small>(REFORMADA, G.O. 2 DE AGOSTO DE 2022)</small>
+
+XIII. Expedir las constancias del Registro de cultura física y deporte de la Ciudad de México y
+
+> <small>(ADICIONADA, G.O. 2 DE AGOSTO DE 2022)</small>
+
+XIV. Las demás que le confieren otras disposiciones legales y aquellas que le establezca el Director General.
 
 ### CAPÍTULO VIII. DE LA DIRECCIÓN DE ORGANIZACIÓN DE EVENTOS
 
@@ -692,7 +698,9 @@ XIII. Las demás que le confieren otras disposiciones legales y aquellas que le 
 
 La Dirección de Infraestructura Deportiva tendrá las siguientes atribuciones:
 
-I. Coordinar la operación de los Centros Deportivos asignados al Instituto;
+> <small>(REFORMADA, G.O. 2 DE AGOSTO DE 2022)</small>
+
+I. Coordinar la operación de los Centros Deportivos asignados al Instituto, así como Formalizar, evaluar la conveniencia y dar seguimiento a los convenios y permisos por el uso, aprovechamiento y explotación de los espacios asignados al Instituto;
 
 II. Elaborar la propuesta de los estudios necesarios, de las cuotas de recuperación de los espacios deportivos, por el uso y explotación de estos, considerando el costo y beneficios en cuanto al mantenimiento y servicios que el Instituto debe pagar por cuenta propia y presentarla a la Dirección General del Instituto;
 
@@ -774,7 +782,9 @@ XII. Preparar la información de todos los recursos captados para el informe que
 
 XIII. Coordinar el levantamiento, avaluó y actualización de los inventarios de conformidad con la normatividad aplicable vigente;
 
-XIV. Formalizar, evaluar la conveniencia y dar seguimiento a los convenios y permisos por el uso, aprovechamiento y explotación de los espacios asignados al Instituto;
+> <small>(REFORMADA, G.O. 2 DE AGOSTO DE 2022)</small>
+
+XIV. Firmar los convenios y permisos por el uso, aprovechamiento y explotación de los espacios asignados al Instituto;
 
 XV. Las demás que le confieran otras disposiciones legales y aquéllas que establezca el Director General.
 
@@ -893,3 +903,11 @@ G.O. 1 DE SEPTIEMBRE DE 2021.
 PRIMERO. – Publíquese la presente reforma en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. – El presente acuerdo de reforma entrará en vigor al día siguiente de su publicación.
+
+G.O. 2 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 19; SE REFORMA LA FRACCIÓN XIII Y SE ADICIONA LA FRACCIÓN XV DEL ARTÍCULO 20; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 22; Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 24, TODOS ELLOS DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL DEPORTE DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese la presente reforma en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente acuerdo de reforma entrará en vigor al día siguiente de su publicación.
