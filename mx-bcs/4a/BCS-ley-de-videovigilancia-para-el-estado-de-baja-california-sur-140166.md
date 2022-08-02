@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-videovigilancia-para-el-estado-de-baja-california-sur-14
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-20"
-last_updated: "2020-01-20"
+last_updated: "2022-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE AGOSTO DE 2022.
 
 Ley publicada en el Número 2 del Boletín Oficial del Gobierno del Estado de Baja California Sur, el lunes 20 de enero de 2020
 
@@ -51,7 +51,9 @@ LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 La presente ley es de orden público e interés social y de observancia general en el Estado de Baja California Sur.
 
-Tiene por objeto regular la ubicación, instalación, utilización y operación de videocámaras y sistemas de videovigilancia, para grabar o captar imágenes con o sin sonido en lugares públicos o privados abiertos a la sociedad, así como su posterior tratamiento de manera exclusiva por las instituciones de seguridad pública, por otras autoridades en los inmuebles a su disposición, por empresas prestadoras del servicio de seguridad privada o por personas físicas o morales que en su caso firmen convenio de colaboración respectivo con el Gobierno del Estado.
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+Tiene por objeto regular la adquisición, ubicación, instalación, utilización y operación de videocámaras y sistemas de videovigilancia y equipos tecnológicos complementarios, para grabar o captar imágenes con o sin sonido en lugares públicos o privados abiertos a la sociedad, así como su posterior tratamiento de manera exclusiva por las instituciones de seguridad pública, por otras autoridades en los inmuebles a su disposición, por empresas prestadoras del servicio de seguridad privada, establecimientos mercantiles, y personas físicas o morales que en su caso firmen convenio de colaboración respectivo con la Secretaría de Seguridad Pública.
 
 ###### Artículo 2.
 
@@ -59,21 +61,27 @@ La videovigilancia en materia de seguridad pública estará a cargo de la Secret
 
 El Gobierno del Estado, a través de la Secretaría de Seguridad Pública, dotará al Centro de Control, Comando, Comunicación y Cómputo, de la infraestructura, recurso humano, financiero y material necesario para el manejo de la información obtenida de los sistemas de videovigilancia instalados en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 3.
 
-Así mismo, son sujetos de esta regulación, los particulares que dispongan de sistemas de video vigilancia en los espacios privados, pero con alcance a espacios de uso público.
+Así mismo, podrán ser sujetos de esta regulación, conforme los convenios que al efecto suscriban en términos del artículo primero, las personas físicas o morales, las empresas de seguridad privada y establecimientos mercantiles, que dispongan de sistemas de videovigilancia en los espacios privados, pero con alcance a espacios de uso público.
 
 Los particulares, empresas de seguridad privada y establecimientos mercantiles, se sujetarán a lo previsto en la presente ley en lo referente a la instalación y utilización de los sistemas tecnológicos de video vigilancia.
 
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 4.
 
-El Estado garantizará y velará por la integridad de los ciudadanos, a efecto de que mediante la aplicación de la presente Ley y el Reglamento respectivo, no resulten lesionados en sus derechos personales y en total respeto a los derechos fundamentales de los ciudadanos en las fases de grabación y uso de las imágenes y sonidos obtenidos, conjunta o separadamente, por el sistema de videovigilancia.
+El Estado garantizará y velará por la integridad de las personas que se vean involucradas por la aplicación de esta Ley y su Reglamento, respetando y salvaguardando sus derechos humanos en las fases de grabación, respaldo y uso de las imágenes y sonidos obtenidos, conjunta o separadamente, por las cámaras y sistemas de videovigilancia de las Instituciones de seguridad pública, así como por empresas prestadoras del servicio de seguridad privada, establecimientos mercantiles o por personas físicas o morales que, en su caso, firmen convenio de colaboración respectivo con la Secretaría de Seguridad Pública.
 
 ###### Artículo 5.
 
 Para efectos de esta ley se entenderá por:
 
-I. Botón de Alerta: Dispositivo tecnológico instalado en establecimientos mercantiles, enlazado con el C4, el cual podrá ser activado en caso de que se suscite una situación de emergencia para que sea atendida por personal de la Secretaría de Seguridad Publica en el ámbito de su competencia;
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+I. Botón de Alerta: Dispositivo tecnológico instalado en establecimientos mercantiles, enlazado con el C4, el cual podrá ser activado en caso de que se suscite una situación de emergencia para que sea atendida por personal de la Secretaría de Seguridad Publica en el ámbito de su competencia. Dicho dispositivo podrá estar enlazado al C4, físicamente o a través de aplicaciones tecnológicas móviles o de escritorio;
 
 II. Centro de Control: Centro de Control, Comando, Comunicación y Cómputo (C4) dependiente de la Secretaría de Seguridad Pública;
 
@@ -107,7 +115,9 @@ XVI. Registro de Cadena de Custodia: El documento oficial donde se asienta la ob
 
 XVII. Secretaría: La Secretaría de Seguridad Pública del Estado de Baja California Sur;
 
-XVIII. Secretaría Ejecutiva: la Secretaría Ejecutiva del Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+XVIII. Secretario: El titular de la Secretaría de Seguridad Pública.
 
 XIX. Secretario Ejecutivo: El titular de la Secretaría General del Gobierno del Poder Ejecutivo del Estado de Baja California Sur;
 
@@ -119,9 +129,21 @@ XXI. Sistemas y equipos tecnológicos complementarios: Los componentes físicos 
 
 XXII. Sistema Estatal de Videovigilancia: Conjunto de elementos físicos, normativos, procedimentales e institucionales en materia de seguridad pública que interactúan en la videovigilancia urbana del territorio del Estado;
 
-XXIII. Videocámara: Cámaras fijas o móviles, equipos de grabación o bien, todo medio técnico análogo, digital, óptico o electrónico y en general cualquier sistema que permita captar o grabar imágenes con o sin sonido; y
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-XXIV. Videovigilancia: Captación o grabación de imágenes con o sin sonido por los cuerpos de seguridad pública o privada que se realicen en términos de la presente ley.
+XXIII. Videocámara: Cámaras fijas o móviles, equipos de grabación o bien, todo medio técnico análogo, digital, óptico o electrónico y en general cualquier sistema que permita captar o grabar imágenes con o sin sonido;
+
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+XXIV. Videovigilancia: Captación o grabación de imágenes con o sin sonido por las instituciones policiales, de procuración de justicia, prestadores de servicios de seguridad privada, establecimientos mercantiles y cualquier persona física o moral que se realicen en términos de la presente Ley;
+
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+XXV. Código Penal: Código Penal para el Estado Libre y Soberano de Baja California Sur; y
+
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+XXVI. Inteligencia para la Prevención: Conocimiento obtenido a partir del acopio, procesamiento, diseminación y aprovechamiento de información para la toma de decisiones en materia de seguridad pública Estatal y, en su caso, Municipal.
 
 ### CAPITULO II. PRINCIPIOS
 
@@ -140,6 +162,10 @@ IV. Riesgo razonable: las cámaras de videovigilancia se instalarán en los espa
 V. Peligro concreto: las cámaras móviles de videovigilancia se utilizarán para dar seguimiento a hechos específicos que pongan en inminente riesgo la seguridad pública.
 
 VI. No afectación de la intimidad personal: las autoridades no podrán utilizar videocámaras para grabar o captar imágenes y sonidos al interior de viviendas u otros bienes inmuebles privados, salvo consentimiento del propietario o de quien tenga la posesión, u orden judicial para ello, ni en cualquier otro sitio, cuando tengan como propósito obtener información personal o familiar o cuando se afecte de forma directa y grave la intimidad de las personas. Se prohíbe grabar conversaciones de naturaleza estrictamente privada. Las imágenes y sonidos obtenidos accidentalmente en los casos señalados deberán ser destruidas inmediatamente por quien las haya grabado y tenga la responsabilidad de su custodia.
+
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+VII. Legalidad: Por virtud del cual la actuación de las Instituciones de Seguridad Pública se hará conforme a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su respectivo empleo, cargo o comisión, respetándose los derechos humanos en todo momento.
 
 ###### Artículo 7.
 
@@ -165,29 +191,45 @@ La Secretaria de Seguridad Pública del Estado en materia de videovigilancia ten
 
 I. Desempeñar la función pública de videovigilancia, de conformidad con lo dispuesto en esta ley.
 
-II. Instalar, administrar, operar y vigilar el adecuado funcionamiento de las cámaras fijas y móviles de videovigilancia y de los sistemas y equipos tecnológicos complementarios bajo su control.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+II. Instalar, administrar, operar, dar mantenimiento, vigilar el adecuado funcionamiento y, en su caso, retirar las cámaras fijas y móviles de videovigilancia y de los sistemas y equipos tecnológicos complementarios bajo su control.
 
 III. Expedir lineamientos o criterios para la estandarización y homologación de las cámaras fijas y móviles de videovigilancia y los sistemas y equipos tecnológicos complementarios de las instituciones de seguridad pública.
 
 IV. Mantener estrecha coordinación con las autoridades federales, estatales y municipales, para la comunicación de los asuntos de su competencia que deriven del uso de cámaras fijas y móviles de videovigilancia.
 
-V. Celebrar convenios con instituciones de los sectores público, privado y social para la instalación de cámaras fijas y móviles de videovigilancia u otros sistemas o equipos tecnológicos complementarios en bienes de su propiedad, así como para, en su caso, la transferencia o el intercambio de la información que de ellos provenga.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-VI. Elaborar los dictámenes necesarios para la adquisición o el retiro de cámaras fijas y móviles de videovigilancia.
+V. Celebrar convenios con personas e instituciones de los sectores público, privado y social para la instalación de cámaras fijas y móviles de videovigilancia u otros sistemas o equipos tecnológicos complementarios en bienes de su propiedad, así como para, en su caso, la transferencia o el intercambio de la información que de ellos provenga para el cumplimiento del objeto de esta Ley;
 
-VII. Resguardar, clasificar y custodiar la información que provenga de las cámaras fijas y móviles de videovigilancia bajo su control.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-VIII. Proporcionar la información obtenida mediante las cámaras fijas y móviles de videovigilancia bajo su control que le sea solicitada por la Procuraduría, los órganos jurisdiccionales o cualquier otra autoridad competente, para el adecuado ejercicio de sus respectivas atribuciones.
+VI. Elaborar los dictámenes necesarios para la adquisición o el retiro de cámaras fijas y móviles de videovigilancia de las solicitudes que, conforme su competencia, realicen las instituciones públicas de carácter federal, estatal y municipal, así como a empresas de seguridad privada, establecimientos mercantiles y personas físicas o morales;
 
-IX. Resolver sobre las solicitudes de acceso, rectificación, cancelación u oposición de tratamiento de datos personales que le realicen los particulares, en términos de la legislación aplicable en materia de protección de datos personales.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+VII. Resguardar, clasificar y custodiar la información que provenga de las cámaras fijas y móviles de videovigilancia bajo su control y, en general procesar la información obtenida por el Sistema Estatal de Videovigilancia para su mejor uso y resguardo.
+
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+VIII. Proporcionar, en términos de la normativa aplicable, la información obtenida mediante las cámaras fijas y móviles de videovigilancia bajo su control que le sea solicitada por la Procuraduría, los órganos jurisdiccionales o cualquier otra autoridad competente, para el adecuado ejercicio de sus respectivas atribuciones.
+
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+IX. Resolver sobre las solicitudes de acceso, rectificación, cancelación u oposición de tratamiento de datos personales que le realicen los particulares, de conformidad a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California Sur.
 
 X. Coadyuvar con la Secretaría General de Gobierno en la integración de la información y la estadística que derive del uso de cámaras fijas y móviles de videovigilancia.
 
 XI. Garantizar la inviolabilidad e inalterabilidad de las cámaras fijas y móviles de videovigilancia y de los sistemas y equipos tecnológicos complementarios bajo su control, así como de los registros y las bases de datos que integren la información que de ellos provenga.
 
-XII. Autorizar las solicitudes de instalación de cámaras fijas y móviles de videovigilancia realizadas por instituciones de los sectores público, privado o social, o por la comunidad en general.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-XIII. Autorizar la conexión de cámaras fijas y móviles de videovigilancia privadas a la red que disponga para tal efecto.
+XII. Recibir, procesar y autorizar las solicitudes de instalación de cámaras fijas y móviles de videovigilancia realizadas por instituciones públicas de carácter federal, estatal y municipal, así como a empresas de seguridad privada, establecimientos mercantiles y personas físicas o morales, en espacios de jurisdicción local.
+
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+XIII. Autorizar la conexión de cámaras fijas y móviles de videovigilancia de empresas de seguridad privada, establecimientos mercantiles, personas físicas o morales que, en su caso, suscriban convenio de colaboración con el Gobierno del Estado, a la red que disponga para tal efecto.
 
 XIV. Integrar, administrar y mantener actualizado el registro estatal o los registros y bases de datos que sirvan para el desarrollo de este, según corresponda.
 
@@ -195,27 +237,53 @@ XV. Requerir a las autoridades competentes y, en su caso, a las empresas de segu
 
 XVI. Operar Sistemas de Aeronaves Pilotadas a Distancia para labores de videovigilancia, con el fin de garantizar la seguridad pública en el estado. En términos de lo que dispongan las circulares y normas que emita la autoridad federal competente en materia de aeronáutica.
 
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+XVII. Recabar las grabaciones realizadas por las Instituciones de Seguridad Pública, por otras autoridades de carácter Estatal y Municipal, según corresponda, así como por las empresas de seguridad privada o personas físicas o morales, cuando sean solicitadas por una autoridad competente y de acuerdo a las formalidades necesarias;
+
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+XVIII. Las demás que sean necesarias para el cumplimiento de la presente Ley.
+
 ###### Artículo 10.
 
 Para el auxilio de sus facultades, la Secretaría de Seguridad Pública contara con una Comisión Técnica de Videovigilancia que contará con independencia técnica para emitir sus resoluciones, la cual estará integrada por:
 
-I. El Secretario de Seguridad Pública del Estado, quien será su Presidente;
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-II. El Procurador General de Justicia en el Estado;
+I. El Secretario de Seguridad Pública del Estado, quien será su Presidente Ejecutivo;
 
-III. El presidente de la Comisión de Seguridad Pública en el H. Congreso del Estado;
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-IV. El director del C-4 Estatal;
+II. Un Secretario Técnico, que será nombrado por el Secretario de Seguridad Pública;
 
-IX (SIC). Un representante de la Asociación de Empresas de Seguridad Privada;
+III. El Procurador General de Justicia en el Estado;
 
-X. El Presidente del Instituto de Transparencia y Acceso a la Información Pública del Estado;
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-XI. Un representante de la Sociedad Civil Organizada, que represente el interés de la mayoría de las Cámaras, Colegios y Asociaciones empresariales de cada municipio, que tenga probada dedicación y conocimiento sobre temas de tecnología e historial en la participación en temas de seguridad.
+IV. El Presidente y/o la Presidenta de la Comisión de Seguridad Pública en el H. Congreso del Estado;
 
-Así mismo, la Comisión contará con un representante de los municipios que cuenten con sistema de video vigilancia, quienes fungirán como vocales y ejercerán las atribuciones que les confiere esta ley y su reglamento.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-El Presidente se encargará del seguimiento de sesiones, llevará las actas y registros, documentará los trabajos y archivos en actas circunstanciadas, así como las demás funciones que señale el reglamento.
+V. El Director del C4 Estatal;
+
+VI. Un representante de la Asociación de Empresas de Seguridad Privada;
+
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+VII. El Presidente y/o la Presidenta del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+VIII. Un representante de la Sociedad Civil Organizada, que represente el interés de la mayoría de las Cámaras, Colegios y Asociaciones empresariales de cada municipio, que tenga probada dedicación y conocimiento sobre temas de tecnología e historial en la participación en temas de seguridad;
+
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+Así mismo, la Comisión contará con un representante de los municipios que cuenten con sistema de videovigilancia, quienes fungirán como vocales y tendrán derecho a voz y voto, ejerciendo las atribuciones que les confiere esta ley y su reglamento.
+
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+El secretario técnico se encargará de auxiliar al presidente ejecutivo en el desahogo de las sesiones, llevará las actas y registros; levantará, certificará, dará seguimiento y archivará, las actas, los acuerdos y resoluciones tomados en el seno de la comisión; suplirá al presidente en las sesiones, así como las demás funciones que señale el reglamento.
 
 Los integrantes de la Comisión Técnica de Videovigilancia tendrán suplentes que ellos mismos designarán de manera oficial para su debido registro ante la misma Comisión, quienes los suplirán en sus ausencias y acudirá (sic) a las sesiones con voz y voto, a efecto que las sesiones no se interrumpan por falta de quórum.
 
@@ -261,11 +329,17 @@ IV. Las demás que señale la ley y su reglamento.
 
 Los ayuntamientos en materia de videovigilancia, por conducto de sus instituciones policiales, tendrán las siguientes atribuciones:
 
-I. Solicitar y, en su caso, acordar con la Secretaria de Seguridad Pública la instalación de cámaras fijas y móviles de videovigilancia o sistemas o equipos tecnológicos complementarios, o la conexión de estos, cuando sean propiedad de los ayuntamientos, a la red que disponga esta dependencia para tal efecto.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+I. Solicitar y, en su caso, acordar a través de convenios de colaboración con la Secretaría de Seguridad Pública la instalación de cámaras fijas y móviles de videovigilancia o sistemas o equipos tecnológicos complementarios, o la conexión de estos, cuando sean propiedad de los ayuntamientos, a la red que disponga la Secretaría de Seguridad Pública para tal efecto.
 
 II. Procurar la estandarización y homologación de las cámaras fijas y móviles de videovigilancia y sistemas y equipos tecnológicos complementarios de su propiedad, así como de los registros y las bases de datos que integren la información que de ellos provenga, para lograr la compatibilidad con aquellos que se establezcan en el marco de los sistemas nacional y estatal de seguridad pública.
 
 III. Proporcionar la información que les sea solicitada para la integración y el desarrollo del registro estatal.
+
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+IV. Desempeñar, en el ámbito de sus respectivas competencias, las atribuciones previstas en el artículo 9 de esta Ley, con excepción de las contenidas en las fracciones III, VI, XII, XIII, XIV, XV Y XVI.
 
 ###### Artículo 15.
 
@@ -281,7 +355,9 @@ IV. Resguardar, clasificar y custodiar la información que provenga de las cáma
 
 V. Proporcionar la información obtenida mediante las cámaras fijas y móviles de videovigilancia de su propiedad que le sea solicitada por la Procuraduría, los órganos jurisdiccionales o cualquier otra autoridad competente, para el adecuado ejercicio de sus respectivas atribuciones, acompañada del reporte correspondiente.
 
-No tendrán la obligación prevista en la fracción V de este artículo las empresas de seguridad privada que con sus cámaras fijas y móviles de videovigilancia o sistemas o equipos tecnológicos complementarios capten hechos posiblemente delictivos perseguibles solo por querella de parte ofendida, salvo que se trate de un requerimiento jurisdiccional.
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+No tendrán la obligación prevista en la fracción V de este artículo las empresas de seguridad privada que con sus cámaras fijas y móviles de videovigilancia o sistemas o equipos tecnológicos complementarios capten hechos posiblemente delictivos perseguibles solo por querella de parte ofendida, salvo que se trate de un requerimiento jurisdiccional o ministerial.
 
 ### CAPITULO IV. DE LA INSTALACION DE VIDEOCAMARAS
 
@@ -301,23 +377,37 @@ II. Se determine el deterioro físico que imposibilite su adecuado funcionamient
 
 III. Cuando no se encuentre información relativa a la autorización otorgada para la instalación de equipos en la vía pública.
 
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+IV. Cuando se trate del cumplimiento a una orden judicial, emanada de autoridad jurisdiccional competente.
+
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 18.
 
-Queda prohibida la colocación de propaganda, lonas, mantas, carteles, espectaculares, estructuras, o cualquier tipo de señalización que impida, distorsione, obstruya o limite el cumplimiento de las funciones de los equipos.
+Queda prohibida la colocación de propaganda, lonas, mantas, carteles, espectaculares, estructuras, o cualquier tipo de señalización que impida, distorsione, obstruya o limite el cumplimiento de las funciones de los sistemas o cámaras de videovigilancia.
 
-###### Articulo 19.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE AGOSTO DE 2022)</small>
 
-Para la instalación de los equipos en bienes del dominio púbico, se deberá tomar en consideración los siguientes criterios:
+###### Artículo 19.
 
-I. Lugares determinados como zonas peligrosas.
+Para la instalación de sistemas o cámaras de videovigilancia en bienes del dominio púbico (sic), se deberá tomar en consideración los siguientes criterios:
 
-II. Áreas públicas de zonas y colonias y otros lugares de concentración, afluencia o tránsito personas que se cataloguen como de mayor incidencia delictiva.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+I. Lugares determinados como zonas peligrosas o en riesgo razonable, por las autoridades competentes, conforme la normativa en materia de seguridad.
+
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+II. Áreas públicas de zonas y colonias y otros lugares de concentración, afluencia o tránsito de personas que se cataloguen como de mayor incidencia delictiva de acuerdo al Sistema Nacional de Seguridad Pública y los registros en el Estado.
 
 III. Colonias, manzanas, calles o avenidas que registran los delitos de mayor impacto para la sociedad.
 
 IV. Intersecciones o cruceros viales más conflictivos o de alta comisión de delitos, de acuerdo a la información de las áreas correspondientes.
 
-V. Zonas escolares, recreativas, turísticas, comercios, instituciones bancarias, casinos, estacionamientos públicos, y lugares de alta afluencia de personas.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+V. Zonas escolares, plazas comerciales, comercios e instituciones bancarias, zonas recreativas, turísticas, casinos y estacionamientos públicos, eventos masivos, mítines, así como lugares de alta afluencia de personas.
 
 VI. Las zonas registradas con mayor incidencia de infracciones administrativas.
 
@@ -335,7 +425,9 @@ Las instituciones públicas, las asociaciones civiles, los particulares o la com
 
 La propuesta que se realice a la Secretaría de Seguridad Publica para la instalación de cámaras fijas o móviles de videovigilancia se hará por escrito y deberá justificar plenamente los motivos que ameritan el acto respectivo.
 
-La Secretaría revisará las propuestas recibidas determinará lo conducente, considerando, en su caso, su disponibilidad presupuestal, su capacidad técnica y lo previsto en esta ley.
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+La Secretaría revisará las propuestas recibidas, determinará lo conducente, considerando, en su caso, su disponibilidad presupuestal, su capacidad técnica y lo previsto en esta ley. La determinación de la Secretaría respecto de las propuestas no admitirá medio de impugnación alguno.
 
 ### CAPITULO V. DE LA INSTALACION DE VIDEOCAMARAS EN DESARROLLOS INMOBILIARIOS
 
@@ -343,17 +435,27 @@ La Secretaría revisará las propuestas recibidas determinará lo conducente, co
 
 Los fraccionamientos y condominios, deberán contar mínimamente con una cámara de videovigilancia en las vías terrestres de acceso y salida si las tuvieren, o en su caso en la vía de mayor circulación vehicular o afluencia de personas, para contribuir al fortalecimiento de las condiciones de seguridad pública y convivencia pacífica.
 
+> <small>(ADICIONADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+Para tal efecto, el Gobierno del Estado y los Ayuntamientos reglamentarán esta disposición para que, sea un requisito en las autorizaciones y/o permisos que emitan para la construcción de estos fraccionamientos y condominios.
+
 ###### Artículo 23.
 
 La Secretaria de Seguridad Pública del Estado podrá suscribir convenios de colaboración con desarrolladores de fraccionamientos y condominios para tal propósito, y emitirá los lineamientos en los que se establezcan, como mínimo, el criterio que determine el número de cámaras de videovigilancia a instalar en los desarrollos inmobiliarios de tipo fraccionamiento y condominios, sus características técnicas y los procedimientos en la materia para dar cumplimiento a lo previsto en el artículo anterior de esta ley.
 
+> <small>(ADICIONADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+La Secretaría facilitará a los establecimientos mercantiles las listas de las compañías de seguridad privada que están autorizadas para instalar equipos de videovigilancia.
+
 ### CAPITULO VI. DE LA INSTALACION DE VIDEOCAMARAS Y BOTON DE ALERTA EN ESTABLECIMIENTOS MERCANTILES
 
-###### Articulo 24.
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
 
-Los propietarios y/o representantes legales de los establecimientos mercantiles, deberán adquirir e instalar equipos y sistemas de videovigilancia fijos, así como de implementar el botón de alerta, para la atención de situaciones de emergencia, con el objeto de prevenir la comisión de probables conductas delictivas que pongan en riesgo a sus propietarios, trabajadores y clientes, a fin de que la Secretaria de Seguridad Pública del Estado pueda implementar acciones de inteligencia en el ámbito de sus atribuciones para el combate a la delincuencia.
+###### Artículo 24.
 
-La Secretaría, determinará en el reglamento de la presente Ley las especificaciones técnicas que deberán tener los sistemas de botón de alerta que bajo su costo, quieran implementar los establecimientos mercantiles, como parte de las acciones preventivas de conductas contrarias a la Ley.
+Los propietarios y/o representantes legales de los establecimientos mercantiles, cuando celebren convenio en términos del artículo tercero de la presente Ley, deberán adquirir e instalar cámaras o sistemas de videovigilancia fijos, así como de implementar el botón de alerta, para la atención de situaciones de emergencia, con el objeto de prevenir la comisión de probables conductas delictivas que pongan en riesgo a sus propietarios, trabajadores y clientes, a fin de que la Secretaría de Seguridad Pública del Estado pueda implementar acciones de inteligencia en el ámbito de sus atribuciones para el combate a la delincuencia, los cuales estarán interconectados a los sistemas de videovigilancia del C4.
+
+La Secretaría, determinará en el reglamento de la presente Ley, las especificaciones técnicas mínimas que deberán tener las cámaras o los sistemas de videovigilancia, así como el botón de alerta implementados en los establecimientos mercantiles, como parte de las acciones preventivas de conductas contrarias a la Ley. Asimismo, facilitará a los establecimientos mercantiles, las listas de las compañías de seguridad privada y de alarmas que están autorizadas para instalar equipos de videovigilancia y botones de alerta.
 
 ###### Artículo 25.
 
@@ -369,15 +471,21 @@ IV. Contar con personal debidamente capacitado en caso de que se suscite una eme
 
 V. Participar con la Secretaría en la implementación de campañas para la prevención del delito para la seguridad del público, dependientes y sociedad en general;
 
-VI. Homologar las especificaciones técnicas del sistema de videovigilancia de los establecimientos mercantiles en los términos que señale la Secretaría, de conformidad con el Reglamento;
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-VII. Proporcionar a la Secretaría la base de datos de su plantilla de personal, con sus datos de identidad, mismos que estarán bajo su resguardo, de conformidad con lo dispuesto en la presente Ley y su Reglamento, la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, y la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur;
+VI. Homologar las especificaciones técnicas del sistema de videovigilancia de los establecimientos mercantiles en los términos que señale la Secretaría, de conformidad con el Reglamento y de acuerdo a las posibilidades económicas de cada establecimiento;
+
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+VII. Proporcionar a la Secretaría la base de datos de su plantilla de personal relacionado con la operación de las cámaras fijas o móviles, con sus datos de identidad, mismos que estarán bajo su resguardo, de conformidad con lo dispuesto en la presente Ley y su Reglamento, la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California Sur, y la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y demás leyes aplicables;
 
 VIII. Respetar y dar cumplimiento a las diversas disposiciones jurídicas aplicables para mantener el orden público; y
 
 IX. Implementar el uso de botón de alerta, el cual deberá estar debidamente enlazado con la Secretaría, de acuerdo a su capacidad técnica y presupuestal, para efectos de brindar atención forma inmediata;
 
-X. Las imágenes y sonido que se capten por los sistemas de vigilancia, mínimamente deberán estar resguardados durante sesenta días naturales, salvo disposición en contrario de la Secretaria de Seguridad Pública Estatal; y
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+X. Las imágenes y sonido que se capten por los sistemas de vigilancia, deberán estar resguardados mínimamente por treinta días naturales, contados a partir de la fecha de su captación, salvo disposición en contrario de la Secretaría de Seguridad Pública Estatal; y
 
 XI. Las demás que señalen los diversos ordenamientos legales.
 
@@ -387,7 +495,9 @@ Los propietarios y/o representantes legales de establecimientos mercantiles, ade
 
 l. Dar aviso ante una situación de emergencia al Centro de Control, a través del número de Emergencia 911, quien será la autoridad responsable de atender la situación o canalizarla a la instancia correspondiente;
 
-II. Brindar acceso al personal de la Secretaría y Procuraduría a los sistemas de videovigilancia;
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+II. Brindar acceso al personal de la Secretaría y Procuraduría a los sistemas de videovigilancia, cuando exista convenio para ese efecto o existiera un mandamiento judicial, ministerial o administrativo;
 
 III. Proporcionar las videograbaciones de los probables hechos delictivos a la Secretaría y Procuraduría o a las autoridades competentes;
 
@@ -403,21 +513,33 @@ Los propietarios, responsables o representantes legales de los establecimientos 
 
 I. Asesoría para la adquisición e instalación de sistemas de videovogilancia (sic) y equipos tecnológicos complementarios mencionados en esta ley;
 
-II. Orientación en la implementación del uso del botón de alerta y el enlace correspondiente;
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+II. Orientación en la implementación del uso del botón de alerta y el enlace correspondiente el cual podrá estar enlazado físicamente o a través de aplicaciones tecnológicas móviles o de escritorio;
 
 III. Directrices para la implementación de los protocolos en materia de seguridad; y
 
-IV. Orientación y capacitación para la actualización y la buena operación de los equipos y sistemas tecnológicos.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+IV. Orientación y capacitación para la actualización, modernización y la buena operación de los equipos y sistemas tecnológicos. La capacitación estará dirigida a propietarios y al personal operador de los sistemas, a quienes se les podrá orientar para elaborar lineamientos generales para el buen uso de sus sistemas, y las implicaciones legales por un uso inadecuado. Las empresas de seguridad privada podrán coadyuvar en esa capacitación.
+
+> <small>(ADICIONADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+La Secretaría y el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur brindarán asesoría para la implementación de los avisos de privacidad a que se refiere el artículo 3, fracción II de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California Sur.
 
 ### CAPÍTULO VII. DE LA CONSERVACIÓN DE LA INFORMACIÓN
 
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 28.
 
-Las instituciones de seguridad pública, empresas de seguridad privada y establecimientos mercantiles deberán, para el adecuado manejo de la información que se obtenga de las cámaras fijas y móviles de videovigilancia bajo su control, estandarizar y homologar sus sistemas y equipos tecnológicos y de información, a efecto de lograr la compatibilidad con aquellos que se establezcan en el marco de los sistemas nacional y estatal de seguridad pública.
+Las instituciones de seguridad pública, empresas de seguridad privada, establecimientos mercantiles y personas físicas o morales deberán, para el adecuado manejo de la información que se obtenga de las cámaras fijas y móviles de videovigilancia bajo su control, estandarizar y homologar sus sistemas y equipos tecnológicos y de información, a efecto de lograr la compatibilidad con aquellos que se establezcan en el marco de los sistemas nacional y estatal de seguridad pública. Par (sic) el caso de los establecimientos mercantiles, personas físicas y morales, se estará a la disposición presupuestal de los mismos. Lo que no impide a que instalen sistemas con estándares mínimos de videovigilancia para su seguridad.
+
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 29.
 
-La información generada u obtenida por las cámaras fijas y móviles de videovigilancia de las instituciones de seguridad pública, empresas de seguridad privada y establecimientos mercantiles deberá ser integrada, sistematizada y resguardada en los registros y las bases de datos, y de conformidad con los plazos que para tal efecto se establezcan en el marco de los Sistemas Nacional y Estatal de Seguridad pública. Debiéndose garantizar un plazo mínimo de sesenta días naturales para el resguardo de la información, por quien las capte y grabe.
+La información generada u obtenida por las cámaras fijas y móviles de videovigilancia de las instituciones de seguridad pública, empresas de seguridad privada, establecimientos mercantiles y personas físicas o morales deberá ser integrada, sistematizada y resguardada en los registros y las bases de datos. Debiéndose garantizar un plazo mínimo de treinta días naturales, para el resguardo de la información contados a partir de la fecha de su captación, debiendo cumplir con las especificaciones técnicas establecidas en el reglamento, por quien las capte y grabe.
 
 ###### Artículo 30.
 
@@ -453,41 +575,57 @@ V. Peritajes de accidentes de tránsito en los que se presente controversia o se
 
 La información a que se refiere esta ley no podrá obtenerse, clasificarse, custodiarse, o utilizarse como medio de prueba en los siguientes casos:
 
-I. Cuando se clasifique, analice, custodie o utilice en contravención de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-II. Cuando se obtenga del interior de un domicilio sin consentimiento del titular o se violente el derecho a la vida privada de las personas, con excepción de la comisión de un delito o por mandato judicial.
+I. Cuando se clasifique, analice, custodie o utilice en contravención de la Constitución Política de los Estados Unidos Mexicanos, del Código Nacional de Procedimientos Penales, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California Sur, de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y demás leyes aplicables.
+
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+II. Cuando se obtenga del interior de un domicilio sin consentimiento del titular o se violente el derecho a la vida privada de las personas, con excepción de la comisión de un delito, cuando medie mandato judicial, ministerial o emitido por autoridad administrativa.
+
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
 
 ###### Articulo 34.
 
-La información recabada por las instituciones de seguridad pública mediante cámaras fijas o móviles de videovigilancia solo podrá ser suministrada o intercambiada con instituciones de seguridad pública de los órdenes federal, estatal o municipal, o con empresas de seguridad privada con las que se tenga convenio, y a través de los registros o las bases de datos determinados para tal efecto, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur.
+La información recabada por las instituciones de seguridad pública mediante cámaras fijas o móviles de videovigilancia solo podrá ser suministrada o intercambiada con instituciones de seguridad pública de los órdenes federal, estatal o municipal, o con empresas de seguridad privada con las que se tenga convenio, y a través de los registros o las bases de datos determinados para tal efecto, en los casos en que convengan los Titulares de las Dependencias, de los Gobiernos y de los Ayuntamientos, mediando Convenio de Colaboración y de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur, el Código Nacional de Procedimientos Penales, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California Sur, la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y demás leyes aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 35.
 
-El Gobierno del Estado y los Ayuntamientos, por conducto de la institución de seguridad pública que corresponda, podrán convenir con las instituciones competentes de los tres órdenes de gobierno o, en su caso, con las empresas de seguridad privada, establecimientos mercantiles o los particulares, la instalación o el uso compartido de cámaras fijas o móviles de videovigilancia o sistemas o equipos tecnológicos complementarios, así como el intercambio de la información que de ellos provenga.
+El Gobierno del Estado y los Ayuntamientos, por conducto de la institución de seguridad pública que corresponda, podrán convenir con las instituciones competentes de los tres órdenes de gobierno o, en su caso, con las empresas de seguridad privada, establecimientos mercantiles o personas físicas o morales, la instalación o el uso compartido de cámaras fijas o móviles de videovigilancia o sistemas o equipos tecnológicos complementarios, así como el intercambio de la información que de ellos provenga.
 
 La institución de seguridad pública que suscriba el convenio respectivo deberá cerciorarse de que sus términos se ajustan a lo dispuesto en esta Ley con respecto a las cámaras fijas o móviles de videovigilancia y los sistemas y equipos tecnológicos complementarios, así como a la información que de ellos derive.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 36.
 
-Las empresas de seguridad privada, los particulares y los establecimientos mercantiles podrán solicitar, por escrito, a la Secretaria la conexión de sus cámaras fijas o móviles de videovigilancia a la red de que dispongan para tal efecto, siempre y cuando exista la capacidad técnica y presupuestal de la Secretaria, con el propósito de prevenir y facilitar la reacción ante la comisión de hechos posiblemente delictivos o de infracciones administrativas.
+Las empresas de seguridad privada, las personas físicas o morales y los establecimientos mercantiles que suscriban el convenio respectivo, deberán solicitar, por escrito a la Secretaría, la conexión de sus cámaras fijas o móviles de videovigilancia a la red de que dispongan para tal efecto, siempre y cuando exista la capacidad técnica y presupuestal de la Secretaría, con el propósito de prevenir y facilitar la reacción ante la comisión de hechos posiblemente delictivos, de infracciones a reglamentos administrativos o a bandos gubernativos municipales y prevención de desastres de origen natural o humano.
 
 En el reglamento de la presente Ley se establecerán los requisitos formales y tecnológicos para que se permita tal conexión.
 
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 37.
 
-La Secretaría autorizará en su caso, la conexión de las cámaras fijas o móviles de videovigilancia particulares a sus redes, de conformidad con su capacidad presupuestal, técnica y los lineamientos y requisitos que establezcan para ello. Toda información que provenga de las cámaras fijas o móviles de videovigilancia particulares conectado a la red deberá recibir el tratamiento establecido en esta ley.
+La Secretaría autorizará en su caso, la conexión de las cámaras fijas o móviles de videovigilancia particulares a sus redes, de conformidad con su capacidad presupuestal, técnica y los lineamientos y requisitos que establezcan para ello. Toda información que provenga de las cámaras fijas o móviles de videovigilancia de empresas de seguridad privada, establecimientos mercantiles y personas físicas o morales, conectadas a la red deberá recibir el tratamiento establecido en esta ley, su reglamento y demás disposiciones aplicables.
 
 ###### Artículo 38.
 
 Los permisionarios de servicios de seguridad privada que utilicen videocámaras o sistemas con tecnología a través de la cual se capte o grabe imágenes con o sin sonido en términos de la presente ley, deberán inscribir estos servicios de conformidad con la Ley Federal de Seguridad Privada, la Ley del Sistema de Seguridad Pública de Baja California Sur y por el reglamento que rige esta actividad.
 
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 39.
 
-Los particulares tienen las obligaciones y limitaciones en la utilización de equipos o sistemas de videovigilancia, así como en la obtención, análisis, custodia y difusión de información captada por ellos, establecidas en la Constitución Política de los Estados Unidos Mexicanos, así como en las leyes aplicables.
+Los particulares que suscriban el convenio respectivo tienen las obligaciones y limitaciones en la utilización de equipos o sistemas de videovigilancia, así como en la obtención, análisis, custodia y difusión de información captada por ellos, establecidas en la Constitución Política de los Estados Unidos Mexicanos, así como en las leyes aplicables.
+
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 40.
 
-En caso de que un particular detecte por su sistema de videovigilancia la comisión de un posible hecho punible o falta administrativa relacionada con la seguridad pública, deberá dar parte a las autoridades de forma inmediata, poniendo a su disposición copia de las grabaciones.
+En caso de que una empresa de seguridad privada, establecimiento mercantil y persona física o moral detecte por su sistema de videovigilancia la comisión de un posible hecho punible o falta administrativa relacionada con la seguridad pública, deberá dar parte a las autoridades de forma inmediata, poniendo a su disposición copia de las grabaciones.
 
 ###### Artículo 41.
 
@@ -521,15 +659,19 @@ IV. Señalar expresamente que la información remitida no sufrió modificación 
 
 V. Firma del servidor público autorizado para ello por acuerdo de la Secretaria, mismo que debe ser publicado en el Boletín Oficial del Gobierno del Estado.
 
-###### Articulo 46.
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
 
-La Secretaría a través del área competente, deberá remitir la información obtenida por los equipos y sistemas de videovigilancia regulados en este (sic) ley, en el menor tiempo posible a través de sobre lacrado con la leyenda “CONFIDENCIAL”, cuando le sea requerida por la Procuraduría, autoridad judicial o autoridad administrativa que ventile procedimiento, seguido en forma de juicio, establecido en la normatividad respectiva, de conformidad con la ley aplicable al caso.
+###### Artículo 46.
+
+La Secretaría a través del área competente, deberá remitir la información obtenida por los equipos y sistemas de videovigilancia regulados en esta ley, en el menor tiempo posible a través de sobre lacrado con la leyenda "CONFIDENCIAL", cuando le sea requerida por la Procuraduría, autoridad judicial o autoridad administrativa que ventile procedimiento, seguido en forma de juicio, establecido en la normatividad respectiva, de conformidad con la ley aplicable al caso.
 
 ###### Artículo 47.
 
 La Secretaría y, en su caso, las instituciones policiales municipales deberán emitir lineamientos que establezcan las normas y procedimientos para la imposición de sanciones por infracciones administrativas captadas o grabadas mediante cámaras de videovigilancia, garantizando la legalidad del acto y certeza jurídica para la comunidad.
 
-En la imposición de sanciones por infracciones administrativas en materia de tránsito y vialidad, se deberán observar las formalidades y los procedimientos previstos en la Ley de la materia.
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+En la imposición de sanciones por infracciones administrativas en materia de tránsito y vialidad, se deberán observar las formalidades y los procedimientos previstos en la Ley y reglamentos de la materia y/o en su caso bandos gubernativos municipales.
 
 ### CAPITULO X. DE LOS DERECHOS DE LOS PARTICULARES
 
@@ -537,7 +679,9 @@ En la imposición de sanciones por infracciones administrativas en materia de tr
 
 Toda persona interesada podrá ejercer los derechos de información sobre las grabaciones en que razonablemente considere que figura, o que existen datos referentes a una afectación que haya sufrido en sus bienes o derechos, siempre y cuando se acredite el interés jurídico y la solicitud se encuentre encaminada a ser parte de un proceso jurisdiccional.
 
-El ejercicio de estos derechos podrá ser denegado por quien guarde y custodie las imágenes y sonidos, cuando se trate de información confidencial o reservada, en función de los peligros que pudieran derivarse, para la seguridad pública del Estado y municipios, así como para la protección de los derechos y libertades de terceros o la secrecía de las investigaciones que se estén llevando a cabo.
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+En lo relativo al tratamiento de las videograbaciones captadas mediante cámaras fijas o móviles de videovigilancia, correspondiente a niños, niñas y adolescentes, se privilegiará su interés superior, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Baja California Sur, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Baja California Sur y demás disposiciones aplicables.
 
 ###### Artículo 49.
 
@@ -545,19 +689,27 @@ Toda grabación en la que aparezca una persona identificada o identificable se c
 
 Se exceptúa de la presente disposición, las grabaciones en las que se presuma la comisión de hechos punibles o faltas administrativas relacionadas con la seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 50.
 
-Toda persona tiene derecho a que se le informe en qué lugares se realizan actividades de video vigilancia y qué autoridad o prestador de servicio de seguridad privada las realiza, para tal efecto, se deberán colocar anuncios pictográficos que contengan la leyenda “este lugar es video vigilado”, el nombre de la autoridad o prestador de servicio de seguridad privada que realiza dicha actividad y, en caso de realizar grabaciones, el término en que se destruirán, así como indicar los derechos de acceso, rectificación y oposición que se pueden ejercer en términos de esta Ley, para lo cual deberán expresar nombre y razón social del responsable de la vigilancia, domicilio, teléfono o email de contacto y finalidades de la vigilancia.
+Toda persona tiene derecho a que se le informe en qué lugares se realizan actividades de videovigilancia y qué autoridad o prestador de servicio de seguridad privada las realiza, para tal efecto, se deberán colocar anuncios pictográficos que contengan la leyenda "este lugar es video vigilado", el nombre de la autoridad o prestador de servicio de seguridad privada que realiza dicha actividad y, en caso de realizar grabaciones, el término en que se destruirán, así como indicar los derechos de acceso, rectificación, cancelación y oposición que se pueden ejercer en términos de esta Ley, para lo cual deberán expresar nombre y razón social del responsable de la vigilancia, domicilio, teléfono o email de contacto y finalidades de la vigilancia.
 
 No será necesario señalar el lugar específico en que se ubica el equipo de grabación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 51.
 
-Toda persona que figure en una grabación o que razonablemente considere que en ella existen datos personales, podrá solicitar acceso a dicha grabación y, en su caso, a la rectificación, cancelación u oposición al tratamiento de su información, de conformidad con lo dispuesto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+Toda persona interesada podrá ejercer los derechos de acceso a la información y protección de datos personales sobre las grabaciones en que razonablemente considere que figura, o que existen datos referentes a una afectación que haya sufrido en sus bienes o derechos, siempre y cuando se acredite el interés jurídico, la solicitud se encuentre encaminada a ser parte de un proceso jurisdiccional o se ajuste a la legislación en materia de transparencia, acceso a la información y protección de datos personales.
 
-Para tal efecto, la persona interesada deberá solicitar a la institución policial responsable de la grabación el acceso a ella y, en su caso, la rectificación, cancelación u oposición correspondiente. La solicitud deberá estar acompañada de la copia de alguna identificación oficial del interesado.
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
 
-La Secretaría deberá responder justificadamente sobre la procedencia de la solicitud y, en su caso, dar a la persona interesada acceso a la grabación correspondiente, en un plazo máximo de cinco días hábiles, contado a partir del requerimiento.
+Para tal efecto, la persona interesada deberá solicitar a la institución policial responsable de la grabación el acceso a ella y, en su caso, la rectificación, cancelación u oposición correspondiente. La solicitud deberá presentarse de conformidad con lo dispuesto en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
+La Secretaría deberá responder justificadamente sobre la procedencia de la solicitud y, en su caso, dar a la persona interesada acceso a la grabación correspondiente en los plazos que dispone la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California Sur, contado a partir del requerimiento.
 
 En tanto no exista una resolución firme sobre el acceso a una grabación, esta no podrá ser destruida.
 
@@ -573,21 +725,27 @@ La cancelación de grabaciones obtenidas mediante cámaras fijas o móviles de v
 
 La oposición al tratamiento de datos personales será procedente cuando la grabación en que consten se haya realizado sin que existieran motivos fundados para ello, o bien, en contravención de lo dispuesto en esta ley, y traerá como consecuencia borrar totalmente las imágenes, secuencias de imágenes o sonidos de que se trate.
 
-###### Articulo 55.
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
 
-El ejercicio de los derechos de acceso, rectificación, cancelación u oposición al tratamiento de datos personales con respecto a las grabaciones y la información obtenidas mediante cámaras de videovigilancia no será procedente cuando concurra alguno de los supuestos previstos en los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos o 55 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
+###### Artículo 55.
+
+El ejercicio de los derechos de acceso, rectificación, cancelación u oposición al tratamiento de datos personales con respecto a las grabaciones y la información obtenidas mediante cámaras de videovigilancia no será procedente cuando concurra alguno de los supuestos previstos en los artículos 16 de la Constitución Política de los Estados Unidos Mexicanos o 58 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California Sur.
 
 ### CAPITULO XI. DEL REGISTRO ESTATAL DE VIDEOVIGILANCIA
 
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 56.
 
-El registro estatal tiene por objeto integrar información sobre las cámaras fijas y móviles de videovigilancia y los sistemas y equipos tecnológicos complementarios que, para el adecuado ejercicio de sus funciones, utilicen las instituciones de seguridad pública, las empresas de seguridad privada y los establecimientos mercantiles en el Estado.
+El registro estatal tiene por objeto integrar información sobre las cámaras fijas y móviles de videovigilancia, así como los sistemas y equipos tecnológicos complementarios que, para el adecuado ejercicio de sus funciones, utilicen las instituciones de seguridad pública, las empresas de seguridad privada, los establecimientos mercantiles en el Estado; así como personas físicas o morales que celebren convenio de colaboración respectivo.
+
+> <small>(REFORMADO, B.O. 2 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 57.
 
-La Secretaría será la encargada de recolectar, sistematizar, procesar, consultar, analizar, actualizar periódicamente y, en su caso, intercambiar, a través del registro estatal, la información sobre las cámaras fijas y móviles de videovigilancia y los sistemas y equipos tecnológicos complementarios que en el ejercicio de sus respectivas funciones generen las demás instituciones de seguridad pública, las empresas de seguridad privada y los establecimientos mercantiles.
+La Secretaría será la encargada de recolectar, sistematizar, procesar, consultar, analizar, actualizar periódicamente y, en su caso, intercambiar, a través del registro estatal, la información sobre las cámaras fijas y móviles de videovigilancia y los sistemas y equipos tecnológicos complementarios que en el ejercicio de sus respectivas funciones generen las demás instituciones de seguridad pública, las empresas de seguridad privada y los establecimientos mercantiles; así como personas físicas o morales que celebren convenio de colaboración respectivo.
 
-Para tal efecto, las instituciones de seguridad pública y las empresas de seguridad privada tendrán la obligación de proporcionar y compartir a la Secretaría, en tiempo y forma, la información que en la materia generen y que obre en sus registros y bases de datos, de conformidad con los lineamientos que determine al respecto.
+Para tal efecto, las instituciones de seguridad pública, las empresas de seguridad privada, los establecimientos mercantiles, así como personas físicas o morales que celebren convenio de colaboración respectivo, tendrán la obligación de proporcionar y compartir a la Secretaría, en tiempo y forma, la información que en la materia generen y que obre en sus registros y bases de datos, de conformidad con los lineamientos que determine al respecto.
 
 ###### Artículo 58.
 
@@ -595,11 +753,23 @@ El registro estatal estará integrado, al menos, por la siguiente información:
 
 I. La denominación de la cámara de fija o móvil videovigilancia o del sistema o equipo tecnológico complementario instalado, así como su modelo, su año de fabricación y sus principales funciones.
 
-II. La institución de seguridad pública, empresa de seguridad privada o establecimiento mercantil propietaria de la cámara fija o móvil de videovigilancia o del sistema o equipo tecnológico complementario instalado.
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
 
-III. El bien en donde se ubica la cámara fija o móvil de videovigilancia o el sistema o equipo tecnológico complementario instalado, el nombre del propietario de dicho bien y la fecha de instalación, exceptuándose de esta disposición las Aeronaves Pilotadas a Distancia que realizan labores de video vigilancia.
+II. La institución de seguridad pública, empresa de seguridad privada o establecimiento mercantil y personas físicas o morales que celebren convenio de colaboración respectivo, propietaria de la cámara fija o móvil de videovigilancia o del sistema o equipo tecnológico complementario instalado.
+
+> <small>(REFORMADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+III. El bien en donde se ubica la cámara fija o móvil de videovigilancia o el sistema o equipo tecnológico complementario instalado, el nombre del propietario de dicho bien y la fecha de instalación, exceptuándose de esta disposición las Aeronaves Pilotadas a Distancia que realizan labores de video vigilancia en materia de seguridad pública.
 
 IV. La autorización, en su caso, del propietario del bien en donde se haya instalado la cámara fija o móvil de videovigilancia o el sistema o equipo tecnológico complementario.
+
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+V. El número de cámaras fijas o móviles de videovigilancia instaladas, especificando cuantas corresponden a dispositivo (sic) fijos y cuantos a móviles.
+
+> <small>(ADICIONADA, B.O. 2 DE AGOSTO DE 2022)</small>
+
+VI. El uso y destino del material grabado, particularmente del lugar donde se resguarda la cámara fija o móvil de videovigilancia o del sistema o equipo tecnológico complementario instalado.
 
 ### CAPITULO XII. DE LAS SANCIONES
 
@@ -696,3 +866,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ÁLVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 2 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2843 SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
