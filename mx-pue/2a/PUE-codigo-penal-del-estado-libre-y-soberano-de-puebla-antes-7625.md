@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2022-07-01"
+last_updated: "2022-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -4795,17 +4795,17 @@ II.- El sobreseimiento a que se refiere la fracción anterior se dictará sin pe
 
 CAPITULO DECIMOSEPTIMO.- DELITOS CONTRA EL HONOR Y LA DIGNIDAD
 
-#### SECCION PRIMERA.- GOLPES Y OTRAS VIOLENCIAS FISICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE AGOSTO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2020)</small>
+#### SECCION PRIMERA.- GOLPES Y OTRAS VIOLENCIAS FISICAS Y PSICOLOGICAS
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 355.
 
-Se impondrán de tres meses a tres años de prisión y multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, al autor de golpes y violencias físicas, si el ofendido fuere ascendiente del ofensor.
+Se impondrán de tres meses a tres años de prisión y multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, a la persona autora de golpes y violencias físicas o psicológicas o de ambas, si la persona ofendida fuere ascendiente o descendiente menor de edad de la persona ofensora.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
-
-Si el ofendido fuere mayor de sesenta años o persona con discapacidad, la sanción se aumentará hasta en un tercio.
+Si la persona ofendida fuere menor de edad o mayor de sesenta años o persona con discapacidad, la sanción se aumentará hasta en una mitad.
 
 ###### Artículo 356.
 
@@ -7664,6 +7664,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA, Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA DENOMINACIÓN DE LA SECCIÓN PRIMERA, DEL CAPÍTULO DÉCIMO SÉPTIMO, DEL LIBRO SEGUNDO "GOLPES Y OTRAS VIOLENCIAS FÍSICAS" Y EL ARTÍCULO 355, DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
