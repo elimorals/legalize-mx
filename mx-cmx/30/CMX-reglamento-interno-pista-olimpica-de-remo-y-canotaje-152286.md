@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-pista-olimpica-de-remo-y-canotaje-152286"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-11-01"
-last_updated: "2021-11-01"
+last_updated: "2022-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152286&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2021-10-06"
 ---
 # REGLAMENTO INTERNO PISTA OLIMPICA DE REMO Y CANOTAJE "VIRGILIO URIBE"
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://indeporte.cdmx.gob.mx/storage/app/media/2021/reglamento/1/REGLAMENTO%20INTERNO%20PISTA%20OLIMPICA%20DE%20REMO%20Y%20CANOTAJE%20VIRGILIO%20URIBE_.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL CUAL SE DA A CONOCER EL ENLACE DIGITAL, QUE CONTIENE EL REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE "VIRGILIO URIBE" Y TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE ''VIRGILIO URIBE", PUBLICADO EN LA G.O. DE 3 DE AGOSTO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE”
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2022 (ABROGADO).
 
 Reglamento publicado en el Número 716 en la Gaceta Oficial de la Ciudad de México, el lunes 1 de noviembre de 2021.
 
@@ -325,3 +325,47 @@ En caso de incumplimiento de cualquiera de los puntos, el usuario se hará acree
 C. Roberto Victoria Arellanes
 
 Director de Infraestructura Deportiva
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE AGOSTO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL “AVISO POR EL CUAL SE DA A CONOCER EL ENLACE DIGITAL, QUE CONTIENE EL REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE”, PUBLICADO EN LA G.O. DE 3 DE AGOSTO DE 2022, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+“AVISO POR EL CUAL SE DA A CONOCER EL ENLACE DIGITAL, QUE CONTIENE EL REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE”.
+
+PRIMERO.- Para la consulta del enlace digital, que contiene el Reglamento Interno para el correcto funcionamiento y uso de las instalaciones de la Pista Olímpica de Remo y Canotaje “Virgilio Uribe”, se deberá remitir al siguiente enlace:
+
+https://indeporte.cdmx.gob.mx/storage/app/media/2022/R/reglamento-interno-de-la-pista-olimpica-de-remo-y-canotaje-virgilio-uribe.pdf
+
+SEGUNDO.- La responsable del seguimiento al cumplimiento del reglamento mencionado, es Ameyalli Sánchez Meza, Directora de Infraestructura Deportiva del Instituto del Deporte de la Ciudad de México, número de contacto telefónico 55- 56-01-01-18.
+
+TERCERO.- El área responsable de mantener el enlace digital en la página web del Instituto del Deporte de la Ciudad de México, es el titular de la Coordinación de Comunicación y Alianzas Estratégicas a cargo de Carlos Ochoa Aranda, teléfono 55-56-04-87-30.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL CUAL SE DA A CONOCER EL ENLACE DIGITAL, QUE CONTIENE EL REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE “VIRGILIO URIBE”.]
+
+PRIMERO.- Publíquese el presente aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente aviso entrara en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento Interno para el correcto funcionamiento y uso de las instalaciones de la Pista Olímpica de Remo y Canotaje "Virgilio Uribe" contenido en el enlace digital que fue publicado el día 1 de noviembre de 2021, en el número 716 de la Gaceta Oficial de la Ciudad de México.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA EN EL ENLACE DIGITAL https://indeporte.cdmx.gob.mx/storage/app/media/2022/R/reglamento-interno-de-la-pista-olimpica-de-remo-y-canotaje-virgilio-uribe.pdf]</small>
+
+REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE ''VIRGILIO URIBE”
+
+[...]
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO PARA EL CORRECTO FUNCIONAMIENTO Y USO DE LAS INSTALACIONES DE LA PISTA OLÍMPICA DE REMO Y CANOTAJE ''VIRGILIO URIBE”.]
+
+PRIMERO. El presente reglamento entrará en vigor a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se abroga el Reglamento Interno para el correcto funcionamiento y uso de las instalaciones de la Pista Olímpica de Remo y Canotaje "Virgilio Uribe", contenido en el enlace digital que fue publicado el día 1º de noviembre de 2021 en el número 716, de la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. La Administración tendrá la facultad de restringir el servicio, de impedir el acceso o solicitar la salida de cualquier deportista y/o usuario que no cumpla con los lineamientos señalados en el presente reglamento.
+
+CUARTO. El personal del Centro Deportivo no se hace responsable de los daños, lesiones y accidentes que ocurran a los visitantes, usuarios y deportistas asistentes.
+
+QUINTO. Los casos no previstos en este reglamento serán analizados y resueltos por las autoridades del Instituto del Deporte de la Ciudad de México y los funcionarios públicos encargados de la Administración del Centro Deportivo.
+
+En caso de incumplimiento por parte de los usuarios de cualquiera de los artículos del presente reglamento, serán acreedores de una amonestación por escrito y en caso de reincidencia causarán baja de manera inmediata, con las excepciones estipuladas en el presente reglamento.
