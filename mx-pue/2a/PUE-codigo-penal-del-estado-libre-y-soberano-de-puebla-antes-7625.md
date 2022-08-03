@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2022-08-02"
+last_updated: "2022-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3794,6 +3794,10 @@ A quien cometa el delito de violencia familiar, se le impondrán de dos a ocho a
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2022)</small>
 
 La penalidad descrita en el párrafo anterior se aumentará hasta en una mitad, en caso de que la víctima sea mayor de setenta años, niña, niño o adolescentes, personas con discapacidad, o mujer en periodo de gestación.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2022)</small>
+
+Independientemente de lo establecido en el párrafo anterior, la pena podrá incrementarse hasta en un tercio, cuando de cometerse en contra de una niña, niño o adolescente, se realice utilizándoles como instrumento para causar daño a la madre.
 
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -7676,3 +7680,11 @@ P.O. 2 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, A LA LEY DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE PUEBLA, A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, AL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE VIOLENCIA VICARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
