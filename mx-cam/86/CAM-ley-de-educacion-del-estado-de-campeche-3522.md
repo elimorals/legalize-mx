@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2022-06-07"
+last_updated: "2022-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -649,8 +649,6 @@ IV.- Establecimiento de centros de desarrollo social y ocupacional, acorde a las
 
 V.- Establecimiento de centros culturales y recreativos, en las comunidades que así lo requieran.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 22
@@ -676,6 +674,10 @@ VIII.- Promover la radiodifusión y televisión educativas con cobertura regiona
 IX.- Apoyar a los educandos de bajo rendimiento escolar, con problemas familiares, escolares y sociales, mediante atención especializada.
 
 X.- Promover campañas permanentes de orientación para el cuidado y protección de la salud y medio ambiente, prevención de enfermedades y mejoramiento comunitario.
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2022)</small>
+
+X Bis.- Promover programas que fortalezcan la educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental;
 
 XI.- Promover la educación para padres de los alumnos del nivel básico.
 
@@ -1468,3 +1470,11 @@ P.O. 7 DE JUNIO DE 2022.
 Artículo Primero. El presente decreto entrará en vigor a los quince días siguientes después de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 3 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 106 POR EL QUE "SE ADICIONA UNA FRACCIÓN X BIS AL ARTÍCULO 22-4 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
