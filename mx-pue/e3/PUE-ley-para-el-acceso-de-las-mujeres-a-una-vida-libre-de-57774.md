@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2021-11-03"
+last_updated: "2022-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2022.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -319,11 +319,17 @@ IV.- Violencia patrimonial.- Es cualquier acto u omisión que afecta la superviv
 
 V.- Violencia sexual.- Es cualquier acto que degrade, dañe o lesione el cuerpo y/o la sexualidad de la víctima, por tanto atenta contra su integridad física, libertad y/o dignidad. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE AGOSTO DE 2022)</small>
 
-VI. Cualquier otro tipo análogo que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+VI.- Violencia Vicaria.- Es todo acto u omisión intencional, con el objeto de causar daño a la víctima a través del perjuicio, maltrato, descuido y/o manipulación de las hijas y los hijos; así como el daño o menoscabo del vínculo filial con la víctima.
 
-VII.- (DEROGADA, P.O. 2 DE OCTUBRE DE 2020)
+Es una manifestación de violencia por parte de quien mantiene o mantuvo una relación afectiva o sentimental de pareja con la víctima, que por sí o por interpósita persona, utiliza a las hijas y los hijos de la víctima como instrumento para causarle daño.
+
+Se considera como violencia vicaria equiparada la que se realice hacia un, ascendiente directo por consanguinidad o afinidad hasta el tercer grado, dependiente económico de la víctima, o un adulto mayor que se encuentre al cuidado de la víctima, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE AGOSTO DE 2022)</small>
+
+VII.- Cualquier otro tipo análogo que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 #### SECCIÓN PRIMERA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO FAMILIAR
 
@@ -332,6 +338,10 @@ VII.- (DEROGADA, P.O. 2 DE OCTUBRE DE 2020)
 ###### ARTÍCULO 11.
 
 La violencia contra las mujeres en el ámbito familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, obstétrica o cualquier otra de naturaleza análoga a las mujeres, dentro o fuera del domicilio familiar, cuando el agresor tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, cualquier otra relación de afectividad, convivencia conjunta, encauzada o que tenga como resultado constituir una relación de matrimonio o concubinato.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2022)</small>
+
+Sin perjuicio de lo anterior y tratándose de violencia vicaria se estará a lo que establece esta Ley y las demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2116,3 +2126,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La persona Titular del Poder Ejecutivo, en un término no mayor a sesenta días naturales deberá realizar las adecuaciones al Reglamento de la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla, en materia del presente dictamen, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, A LA LEY DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE PUEBLA, A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, AL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE VIOLENCIA VICARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
