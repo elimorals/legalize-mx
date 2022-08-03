@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2021-03-26"
+last_updated: "2022-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -1703,13 +1703,25 @@ Cada progenitor debe procurar el respeto y el acercamiento constante de las y lo
 
 III.- Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, así como su orientación sexual y, en su caso, su identidad de género autopercibida, de manera que no se afecten su sano desarrollo individual ni su plena incorporación al núcleo social;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE AGOSTO DE 2022)</small>
 
-IV.- Todas las personas están obligadas a evitar las conductas que generen violencia familiar, entendiéndose por ésta, la agresión física o moral, así como la omisión, que de manera intencional, individual, o reiterada, se ejercita en contra de un miembro de la familia por el cónyuge, la cónyuge, concubino, concubina, pariente consanguíneo en línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado, adoptante; madrastra, padrastro; hijastra, hijastro; pupilo, pupila; curador, curadora, tutor o tutora; o por persona que habite el mismo domicilio o con la cual haya tenido algún vínculo familiar o afectivo, con afectación a la integridad física, psicoemocional, sexual o cualquiera de éstas, independientemente de que pueda producir afectación orgánica.
+IV. Todas las personas están obligadas a evitar las conductas que generen violencia familiar, entendiéndose por ésta, la agresión física o moral, así como la omisión, que de manera intencional, individual, o reiterada, se ejercita en contra de un miembro de la familia por el cónyuge, la cónyuge, concubino, concubina, pariente consanguíneo en la línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado, adoptante; madrastra, padrastro; hijastra, hijastro; pupilo, pupila; curador, curadora, tutor o tutora; o persona que habite el mismo domicilio o con el cual haya tenido algún vínculo familiar o afectivo, con afectación a la integridad física, psicoemocional, sexual o cualquiera de éstas, independientemente de que pueda producir afectación orgánica.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 Por violencia contra las mujeres en el ámbito familiar se entiende el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, ejercida por cualquier persona que tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una situación de hecho.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2022)</small>
+
+Como violencia contra las mujeres en el ámbito familiar, se contempla la violencia vicaria, entendida como todo acto u omisión intencional, con el objeto de causar daño a la víctima a través del perjuicio, maltrato, descuido y/o manipulación de las hijas y los hijos; así como el daño o menoscabo del vínculo filial con la víctima. Es una manifestación de violencia por parte de quien mantiene o mantuvo una relación afectiva o sentimental de pareja con la víctima, que por sí o por interpósita persona, utiliza a las hijas y los hijos de la víctima como instrumento para causarle daño.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2022)</small>
+
+Se considera como violencia vicaria equiparada la que se realice hacia un, ascendiente directo por consanguinidad o afinidad hasta el tercer grado, dependiente económico de la víctima, o un adulto mayor que se encuentre al cuidado de la víctima.
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2022)</small>
+
+Para efectos de la violencia vicaria se entenderá como víctima a la mujer, en términos de la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla.
 
 > <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -4117,11 +4129,19 @@ III.- Por sentencia condenatoria que imponga como pena esta suspensión, y
 
 IV.- Por incurrir en conductas de violencia familiar previstas en el artículo 291 de este Código, que no impliquen la comisión de algún delito en contra de las personas sobre las cuales la ejerza.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 634.
 
-El Juez puede en beneficio de los menores modificar el ejercicio de la patria potestad o custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, cuando quien la ejerce realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan reconocido judicialmente su derecho a la misma.
+El Juez puede en beneficio de las niñas, niños y adolescentes modificar el ejercicio de la patria potestad o custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, en los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2022)</small>
+
+I. Cuando quien la ejerce realice conductas reiteradas para evitar la convivencia de las niñas, niños y adolescentes con la persona o personas que tengan reconocido judicialmente su derecho a la misma; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2022)</small>
+
+II. Cuando se acredite que las niñas, niños y adolescentes han sido víctimas indirectas de violencia vicaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
@@ -20730,3 +20750,11 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Secretaría de Gobernación contará con sesenta días hábiles para la adecuación de la reglamentación aplicable, en términos del presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, A LA LEY DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE PUEBLA, A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, AL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE VIOLENCIA VICARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
