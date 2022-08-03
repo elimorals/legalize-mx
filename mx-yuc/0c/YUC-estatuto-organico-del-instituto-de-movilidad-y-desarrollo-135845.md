@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-movilidad-y-desarrollo-13584
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-04-25"
-last_updated: "2021-10-26"
+last_updated: "2022-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE AGOSTO DE 2022.
 
 Estatuto publicado en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el jueves 25 de abril de 2019.
 
@@ -417,9 +417,7 @@ XXIX. Realizar la contratación del personal que requiera el instituto y observa
 
 XXX. Coordinar el servicio social y las prácticas profesionales que se realicen en el instituto.
 
-> <small>(ADICIONADA, D.O. 26 DE OCTUBRE DE 2021)</small>
-
-XXXI. Administrar y operar de manera adecuada y transparente el fideicomiso que se constituya para el funcionamiento del Sistema Metropolitano de Movilidad Amable y Sostenible.
+XXXI. (DEROGADA, D.O. 3 DE AGOSTO DE 2022)
 
 XXXII. Las demás que le confiera el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
@@ -797,7 +795,11 @@ XXIX. Solicitar, fundada y motivadamente, a autoridades, concesionarios o permis
 
 XXX. Vigilar el cumplimiento de los acuerdos relacionados con el Sistema Metropolitano de Movilidad Amable y Sostenible, y verificar que los planes y acciones que deriven de este se vinculen con los objetivos de la planeación nacional, del plan estatal de desarrollo vigente y de los demás instrumentos de planeación aplicables.
 
-XXXI. Las demás que le confieran el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 3 DE AGOSTO DE 2022)</small>
+
+XXXI. Administrar y operar de manera adecuada y transparente el fideicomiso que se constituya para el funcionamiento del Sistema Metropolitano de Movilidad Amable y Sostenible.
+
+XXXII. Las demás que le confieran el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 En el ejercicio de sus facultades y obligaciones, el director del Sistema Metropolitano de Movilidad Amable y Sostenible deberá sujetarse a las instrucciones e indicaciones que emita el director general.
 
@@ -894,6 +896,18 @@ El director general del Instituto de Movilidad y Desarrollo Urbano Territorial, 
 D.O. 26 DE OCTUBRE DE 2021.
 
 > <small>[N. DE E. TRANSITORIOS “POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL”.]</small>
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto de Movilidad y Desarrollo Urbano Territorial, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá inscribir en el Registro de Entidades Paraestatales las modificaciones efectuadas por este acuerdo al Estatuto orgánico del Instituto de Movilidad y Desarrollo Urbano Territorial.
+
+D.O. 3 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IMDUT 07/2022 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE MOVILIDAD Y DESARROLLO URBANO TERRITORIAL”.]
 
 Primero. Entrada en vigor
 
