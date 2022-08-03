@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-prevencion-atencion-y-sancion-de-la-violencia-21336"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-06"
-last_updated: "2017-12-29"
+last_updated: "2022-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PREVENCION, ATENCION Y SANCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2022.
 
 Ley publicada en la tercera sección del Periódico Oficial del Estado de Puebla, el viernes 6 de abril de 2001.
 
@@ -113,9 +113,29 @@ V.- Maltrato verbal: Todo acto de agresión intencional, ejecutado a través del
 
 VI.- Maltrato patrimonial: Todo acto o agresión realizado a la víctima de violencia familiar, con el fin de intimidar o causar daño en sus bienes destinados a satisfacer las necesidades de subsistencia y desarrollo de los integrantes de la familia;
 
-VII.- Receptora o receptor de violencia familiar: El individuo o grupo de individuos que sean sujetos de cualquier acto constitutivo de violencia familiar; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2022)</small>
 
-VIII.- Violencia familiar: Es el acto u omisión intencional recurrente o cíclico que entrañe el uso de la fuerza física o moral, realizado con el propósito de dominar, someter, controlar o agredir a cualquier integrante de la familia o persona que habite el mismo domicilio, independientemente de que le pueda producir o no lesión.
+VII.- Receptora o receptor de violencia familiar: El individuo o grupo de individuos que sean sujetos de cualquier acto constitutivo de violencia familiar;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2022)</small>
+
+VIII.- Violencia familiar: Es el acto u omisión intencional recurrente o cíclico que entrañe el uso de la fuerza física o moral, realizado con el propósito de dominar, someter, controlar o agredir a cualquier integrante de la familia o persona que habite el mismo domicilio, independientemente de que le pueda producir o no lesión, y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2022)</small>
+
+IX.- Violencia Vicaria. Es todo acto u omisión intencional, con el objeto de causar daño a la víctima a través del perjuicio, maltrato, descuido y/o manipulación de las hijas y los hijos; así como el daño o menoscabo del vínculo filial con la víctima.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 3 DE AGOSTO DE 2022]</small>
+
+Es una manifestación de violencia por parte de quien mantiene o mantuvo una relación afectiva o sentimental de pareja con la víctima, que por sí o por interpósita persona, utiliza a las hijas y los hijos de la víctima como instrumento para causarle daño.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 3 DE AGOSTO DE 2022]</small>
+
+Se considera como violencia vicaria equiparada la que se realice hacia un, ascendiente directo por consanguinidad o afinidad hasta el tercer grado, dependiente económico de la víctima, o un adulto mayor que se encuentre al cuidado de la víctima.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 3 DE AGOSTO DE 2022]</small>
+
+Para efectos de esta fracción, se entenderá como víctima a la mujer, en términos de la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla.
 
 No se considerará maltrato psicoemocional aquellos actos que tengan por objeto responder o reconvenir a las o los menores de edad, siempre que aquéllos sean realizados por la madre, el padre o quienes participen en la formación y educación de los mismos, con el consentimiento de los padres o madres de la o del menor y se demuestre que están encaminados a su sano desarrollo.
 
@@ -626,3 +646,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 3 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, A LA LEY DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE PUEBLA, A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, AL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE VIOLENCIA VICARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
