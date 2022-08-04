@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-politicas-y-administrativas-del-123515
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-26"
-last_updated: "2021-12-16"
+last_updated: "2022-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección VI del No. 38 del Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2017.
 
@@ -703,35 +703,39 @@ XII. Respetar el derecho de petición de los particulares en los términos del a
 
 XIII. Abstenerse de imponer condiciones, prestaciones u obligaciones que no estén previstas en las leyes, reglamentos o presupuestos respectivos;
 
-XIV. Abstenerse de utilizar los vehículos propiedad del ente público o que tengan en posesión bajo cualquier título, fuera del horario de trabajo del servidor público o en actividades distintas a las que requiere la naturaleza del empleo, cargo o comisión respectivos;
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2022)</small>
 
-XV. Atender la colaboración, requerimientos y apercibimientos fundados y motivados que les hagan las dependencias estatales, federales, municipales y organismos públicos descentralizados;
+XIV. Abstenerse de realizar las gestiones necesarias para que el vehículo oficial que tenga asignado o bajo su resguardo cumpla con la verificación vehicular;
 
-XVI. Respetar y hacer respetar el derecho a la formulación de quejas y denuncias o evitar que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para la no presentación de quejas y denuncias, o que, con motivo de ello realice cualquier conducta injusta u omita una justa y debida conducta que lesione los intereses legítimos de quienes las presenten;
+XV. Abstenerse de utilizar los vehículos propiedad del ente público o que tengan en posesión bajo cualquier título, fuera del horario de trabajo del servidor público o en actividades distintas a las que requiere la naturaleza del empleo, cargo o comisión respectivos;
 
-XVII. Responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa;
+XVI. Atender la colaboración, requerimientos y apercibimientos fundados y motivados que les hagan las dependencias estatales, federales, municipales y organismos públicos descentralizados;
+
+XVII. Respetar y hacer respetar el derecho a la formulación de quejas y denuncias o evitar que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para la no presentación de quejas y denuncias, o que, con motivo de ello realice cualquier conducta injusta u omita una justa y debida conducta que lesione los intereses legítimos de quienes las presenten;
+
+XVIII. Responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa;
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2021)</small>
 
-XVIII. Observar, respetar y aplicar las reglas para el ahorro, gasto eficiente, racional y honesto de los recursos públicos, señalados en la Ley de Austeridad y Ahorro del Estado de Jalisco.
+XIX. Observar, respetar y aplicar las reglas para el ahorro, gasto eficiente, racional y honesto de los recursos públicos, señalados en la Ley de Austeridad y Ahorro del Estado de Jalisco.
 
-XIX. Rendir cuentas sobre el ejercicio de sus funciones, en términos de las normas aplicables;
+XX. Rendir cuentas sobre el ejercicio de sus funciones, en términos de las normas aplicables;
 
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2019)</small>
 
-XX. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
+XXI. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2020)</small>
 
-XXI. Observar el código de ética que emitan los respectivos órganos internos de control;
+XXII. Observar el código de ética que emitan los respectivos órganos internos de control;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2020)</small>
 
-XXII. Cometer actos y omisiones en el ejercicio de su encargo, considerados como tipos o modalidades de violencia en razón de género, previstas en las leyes aplicables; y
+XXIII. Cometer actos y omisiones en el ejercicio de su encargo, considerados como tipos o modalidades de violencia en razón de género, previstas en las leyes aplicables; y
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2020)</small>
 
-XXIII. Realizar, tolerar o permitir actos de acoso u hostigamiento laboral, independientemente del nivel jerárquico en que se encuentre la persona responsable, como quien lo resienta.
+XXIV. Realizar, tolerar o permitir actos de acoso u hostigamiento laboral, independientemente del nivel jerárquico en que se encuentre la persona responsable, como quien lo resienta.
 
 ###### Artículo 49.
 
@@ -1226,3 +1230,21 @@ P.O. 16 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28728/LXIII/21 QUE REFORMA LOS ARTÍCULOS 31, 33, 34, 37, 40 Y 45; Y ADICIONA LOS ARTÍCULOS 30 BIS, 30 BIS 1, 30 BIS 2, 30 BIS 3, 30 BIS 4, 30 BIS 5, 30 BIS 6, 30 BIS 7, 30 BIS 8, 30 BIS 9, 30 BIS 10, 30 BIS 11, 30 BIS 12, 30 BIS 13 Y 30 BIS 14, Y SE CAMBIA LA DENOMINACIÓN DEL TÍTULO SEGUNDO, TODOS DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIAS (SIC) DEL ESTADO DE JALISCO; Y REFORMA AL ARTÍCULO 196 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO, Y REFORMA EL ARTÍCULO 97 FRACCIÓN III DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28804/LXIII/22 DEL CONGRESO DEL ESTADO, QUE REFORMA LAS FRACCIONES I, IV Y IX DE LAS BASES DEL PROGRAMA DE VERIFICACIÓN VEHICULAR DEL ESTADO DE JALISCO, APROBADAS MEDIANTE EL DECRETO 27260/LXII/2019; LOS ARTÍCULOS 72 FRACCIÓN VII Y 72 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE; 5 FRACCIÓN XII, 44 Y 52 FRACCIÓN VII DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; Y ADICIONA LA FRACCIÓN XIV, RECORRIÉNDOSE LAS ACTUALES FRACCIONES EN SU ORDEN SUBSECUENTE AL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Las Secretarías de Administración, de la Hacienda Pública y la de Medio Ambiente y Desarrollo Territorial deberán gestionar y concretar la modificación del contrato con el proveedor del paquete tecnológico para el equipamiento, operación, mantenimiento, administración y control de los establecimientos de verificación de emisiones vehiculares, conforme a lo establecido en el presente decreto, en un plazo de sesenta días contados a partir de la entrada en vigor del presente decreto.
+
+Tercero. La Secretaría de Medio Ambiente y Desarrollo Territorial, en un plazo de treinta días contados a partir de la entrada en vigor del presente Decreto, deberá emitir las adecuaciones correspondientes al programa de verificación vehicular y remitirlo para su publicación en el periódico oficial "El Estado Jalisco".
+
+Cuarto. Se solicita al Titular del Poder Ejecutivo del Estado de Jalisco que contemple en su Proyecto de Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal 2023 queden contemplados al menos los siguientes incentivos fiscales para las personas que cumplan con la verificación vehicular:
+
+I. 10% de descuento en el pago de derechos por refrendo vehicular y tarjeta de circulación, adicional a los que se otorguen por pronto pago y a los pagos efectuados a través de Internet, ventanillas bancarias y tiendas de conveniencia, a quienes verifiquen en el Ejercicio Fiscal 2022; y
+
+II. 20% de descuento en el derecho por dotación de placas a los vehículos foráneos que cumplieron con la verificación vehicular y deseen contar con placas del Estado de Jalisco, a quienes verifiquen en el Ejercicio Fiscal 2022.
+
+Quinto. La Secretaría de Medio Ambiente y Desarrollo Territorial en coordinación con la Contraloría del Estado, deberán comunicar y realizar campañas de difusión en todos los entes públicos respecto de sus obligaciones derivadas de este decreto en materia de verificación vehicular.
