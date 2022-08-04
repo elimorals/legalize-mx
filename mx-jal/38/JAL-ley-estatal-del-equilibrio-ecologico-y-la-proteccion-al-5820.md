@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2020-12-03"
+last_updated: "2022-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1831,33 +1831,59 @@ V. Establecerán y operarán sistemas de verificación de emisiones de fuentes f
 
 VI. Establecerán y operarán con el apoyo técnico, en su caso, de la federación, sistemas de monitoreo de la calidad del aire. Dichos sistemas deberán contar con dictamen técnico previo de la autoridad federal. Asimismo, aportarán los reportes locales del monitoreo a la información nacional, cuya integración está a cargo de la federación;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE AGOSTO DE 2022)</small>
 
-VII. Establecerán programas de verificación de emisiones contaminantes con carácter de obligatorio para los vehículos que circulen en el Estado de Jalisco.
+VII. Establecerán programas de verificación de emisiones contaminantes con carácter de obligatorio para los vehículos que se encuentren registrados o los de estancia permanente en las áreas metropolitanas, zonas metropolitanas o municipios, de más de cien mil habitantes en el Estado de Jalisco, que cuenten con centros de verificación vehicular, así como para los vehículos oficiales de todos los entes públicos en el estado que se encuentren registrados en el Estado;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE ABRIL DE 2019)</small>
 
 Corresponden a la Secretaría de Medio Ambiente y Desarrollo Territorial, las siguientes atribuciones:
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
 a) Establecer, conducir y coordinar la política para la verificación vehicular en el Estado de Jalisco, como parte de los instrumentos de control de las emisiones contaminantes de los vehículos automotores;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 b) Promover otros instrumentos de política para que de manera conjunta con la verificación vehicular fortalezcan el control de la contaminación atmosférica;
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
 c) Proponer instrumentos de política y programas para el mejoramiento del parque vehicular;
 
-d) Contratar el servicio para la implementación de tecnología para la verificación vehicular;
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2022)</small>
+
+d) Contratar en coordinación con la Secretaría de Administración, el servicio para la implementación de tecnología para la verificación vehicular;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 e) Planear la distribución de los establecimientos de verificación vehicular conforme a las reglas, criterios y lineamientos que se establezcan en las disposiciones del reglamento en la materia;
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
 f) Emitir el programa de verificación vehicular conforme a las disposiciones del reglamento en la materia;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 g) Certificar la factibilidad y autorizar la instalación de los establecimientos de verificación vehicular, así como resolver sobre su modificación, revocación, cesión o prórroga;
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
 h) Proponer la tarifa de la verificación vehicular del programa de verificación vehicular la cual se establecerá en la Ley de Ingresos del Estado de Jalisco;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 i) Determinar el monto que se deberá enterar por cada línea de verificación que se instale en los establecimientos de verificación vehicular;
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
 j) Aprobar los contratos para suministrar la tecnología a establecimientos que presten el servicio de verificación vehicular;
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
+
 k) Promover la participación de los municipios en la constitución de esquemas asociativos para la instalación y operación de establecimientos de verificación vehicular; y
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2019)</small>
 
 l) En coordinación con la Secretaría de la Hacienda Pública y la Secretaria de Planeación y Participación Ciudadana, evaluar y procurar la rentabilidad y retorno de inversiones para la operación del programa de verificación vehicular por parte de los particulares.
 
@@ -1884,6 +1910,14 @@ XII. Ejercerán las demás facultades que les confieran las disposiciones legale
 ###### Artículo 72 Bis.
 
 Los propietarios o poseedores de vehículos automotores, deberán pagar los derechos correspondientes del programa de verificación vehicular conforme a la Ley de Ingresos del Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE AGOSTO DE 2022)</small>
+
+Los entes públicos deberán realizar las previsiones presupuestales necesarias para que su parque vehicular cumpla con el programa de verificación vehicular.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE AGOSTO DE 2022)</small>
+
+Será responsabilidad del servidor público que tenga asignado o bajo su resguardo un vehículo oficial, que éste cumpla con el programa de verificación vehicular.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -3358,3 +3392,21 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Medio Ambiente y Desarrollo Territorial deberá de emitir, en un plazo de noventa días hábiles contados a partir de la publicación del presente, un dictamen técnico en el que establezca la necesidad o no de revisar el Ordenamiento Ecológico Regional del Territorio del Estado actualmente en vigor y en todo caso, dar inicio con el procedimiento para la revisión del mismo. Una vez concluida (sic) el proceso de revisión del Ordenamiento Ecológico Regional del Territorio del Estado de Jalisco, la Secretaría del Medio Ambiente y Desarrollo Territorial del Estado de Jalisco, deberá de iniciar con el proceso establecido en el Código Urbano para la revisión del Plan Estatal en apoyo de las autoridades necesarias e involucradas en la materia.
 
 TERCERO. La Secretaría del Medio Ambiente y Desarrollo Territorial deberá de emitir el Reglamento de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente del Estado de Jalisco, en materia de Ordenamiento Ecológico Regional y Local del Territorio, dentro de los ciento ochenta días naturales siguientes a la publicación del presente decreto en el periódico oficial "El Estado de Jalisco".
+
+P.O. 4 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28804/LXIII/22 DEL CONGRESO DEL ESTADO, QUE REFORMA LAS FRACCIONES I, IV Y IX DE LAS BASES DEL PROGRAMA DE VERIFICACIÓN VEHICULAR DEL ESTADO DE JALISCO, APROBADAS MEDIANTE EL DECRETO 27260/LXII/2019; LOS ARTÍCULOS 72 FRACCIÓN VII Y 72 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE; 5 FRACCIÓN XII, 44 Y 52 FRACCIÓN VII DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; Y ADICIONA LA FRACCIÓN XIV, RECORRIÉNDOSE LAS ACTUALES FRACCIONES EN SU ORDEN SUBSECUENTE AL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Las Secretarías de Administración, de la Hacienda Pública y la de Medio Ambiente y Desarrollo Territorial deberán gestionar y concretar la modificación del contrato con el proveedor del paquete tecnológico para el equipamiento, operación, mantenimiento, administración y control de los establecimientos de verificación de emisiones vehiculares, conforme a lo establecido en el presente decreto, en un plazo de sesenta días contados a partir de la entrada en vigor del presente decreto.
+
+Tercero. La Secretaría de Medio Ambiente y Desarrollo Territorial, en un plazo de treinta días contados a partir de la entrada en vigor del presente Decreto, deberá emitir las adecuaciones correspondientes al programa de verificación vehicular y remitirlo para su publicación en el periódico oficial "El Estado Jalisco".
+
+Cuarto. Se solicita al Titular del Poder Ejecutivo del Estado de Jalisco que contemple en su Proyecto de Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal 2023 queden contemplados al menos los siguientes incentivos fiscales para las personas que cumplan con la verificación vehicular:
+
+I. 10% de descuento en el pago de derechos por refrendo vehicular y tarjeta de circulación, adicional a los que se otorguen por pronto pago y a los pagos efectuados a través de Internet, ventanillas bancarias y tiendas de conveniencia, a quienes verifiquen en el Ejercicio Fiscal 2022; y
+
+II. 20% de descuento en el derecho por dotación de placas a los vehículos foráneos que cumplieron con la verificación vehicular y deseen contar con placas del Estado de Jalisco, a quienes verifiquen en el Ejercicio Fiscal 2022.
+
+Quinto. La Secretaría de Medio Ambiente y Desarrollo Territorial en coordinación con la Contraloría del Estado, deberán comunicar y realizar campañas de difusión en todos los entes públicos respecto de sus obligaciones derivadas de este decreto en materia de verificación vehicular.
