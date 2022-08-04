@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2022-04-21"
+last_updated: "2022-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -191,9 +191,9 @@ X. Constancia o póliza de seguro: documento expedido por una persona jurídica 
 
 XI. Foto infracción: las infracciones a la ley o a sus reglamentos que sean detectados a través de equipos o sistemas electrónicos;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2019.)</small>
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2022)</small>
 
-XII. Comprobante de verificación vehicular: constancia, calcomanía, holograma, formato o cualquier instrumento tecnológico, con características de seguridad e identificación, que autorice la Secretaría de Medio Ambiente y Desarrollo Territorial y que sirve para comprobar el cumplimiento con la verificación vehicular;
+XII. Comprobante de verificación vehicular: constancia, calcomanía, holograma, formato o cualquier instrumento tecnológico, con características de seguridad e identificación, que autorice la Secretaría de Medio Ambiente y Desarrollo Territorial y que sirve para comprobar el cumplimiento con la verificación vehicular, con la vigencia que determine el Programa de Verificación Vehicular previsto en la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
@@ -1205,9 +1205,9 @@ Dichos documentos deberán permanecer inalterables e inmodificables, así como e
 
 Los vehículos de transporte público en sus distintas modalidades, además de los documentos antes señalados, deberán portar los rótulos y colores que los identifiquen como prestadores del servicio de que se trate, en caso de que la presente Ley, Reglamentos y normas técnicas, así lo exijan para su modalidad.
 
-> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2022)</small>
 
-Los vehículos eléctricos quedarán exentos de portar y contar con el comprobante de verificación vehicular.
+Los vehículos híbridos-eléctricos y eléctricos quedarán exentos de portar y contar con el comprobante de verificación vehicular.
 
 Todo conductor deberá portar la licencia o permiso para conducir vigente, de acuerdo al tipo de vehículo de que se trate y conforme a la clasificación establecida en la presente ley y su reglamento.
 
@@ -1269,7 +1269,9 @@ V. Si el vehículo es de procedencia extranjera, acreditar su legal importación
 
 VI. Presentar solicitud por escrito conforme al Reglamento de esta ley, y
 
-VII. Acreditar haber cumplido con el programa de verificación vehicular que emita la Secretaría de Medio Ambiente y Desarrollo Territorial de acuerdo con el calendario oficial de verificación vigente en el Estado.
+> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2022)</small>
+
+VII. Acreditar haber cumplido con el programa de verificación vehicular que emita la Secretaría de Medio Ambiente y Desarrollo Territorial, en caso de ser de estancia permanente y contar con registro en las áreas metropolitanas, zonas metropolitanas o municipios obligados, así como ser de uso oficial de los entes públicos en el Estado, conforme al calendario oficial de verificación vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
@@ -4690,3 +4692,21 @@ P.O. 21 DE ABRIL DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El titular del Poder Ejecutivo del Estado de Jalisco, dispondrá de 30 días naturales para realizar las modificaciones reglamentarias que deriven del presente decreto.
+
+P.O. 4 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28804/LXIII/22 DEL CONGRESO DEL ESTADO, QUE REFORMA LAS FRACCIONES I, IV Y IX DE LAS BASES DEL PROGRAMA DE VERIFICACIÓN VEHICULAR DEL ESTADO DE JALISCO, APROBADAS MEDIANTE EL DECRETO 27260/LXII/2019; LOS ARTÍCULOS 72 FRACCIÓN VII Y 72 BIS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE; 5 FRACCIÓN XII, 44 Y 52 FRACCIÓN VII DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; Y ADICIONA LA FRACCIÓN XIV, RECORRIÉNDOSE LAS ACTUALES FRACCIONES EN SU ORDEN SUBSECUENTE AL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES POLÍTICAS Y ADMINISTRATIVAS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Las Secretarías de Administración, de la Hacienda Pública y la de Medio Ambiente y Desarrollo Territorial deberán gestionar y concretar la modificación del contrato con el proveedor del paquete tecnológico para el equipamiento, operación, mantenimiento, administración y control de los establecimientos de verificación de emisiones vehiculares, conforme a lo establecido en el presente decreto, en un plazo de sesenta días contados a partir de la entrada en vigor del presente decreto.
+
+Tercero. La Secretaría de Medio Ambiente y Desarrollo Territorial, en un plazo de treinta días contados a partir de la entrada en vigor del presente Decreto, deberá emitir las adecuaciones correspondientes al programa de verificación vehicular y remitirlo para su publicación en el periódico oficial "El Estado Jalisco".
+
+Cuarto. Se solicita al Titular del Poder Ejecutivo del Estado de Jalisco que contemple en su Proyecto de Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal 2023 queden contemplados (sic) al menos los siguientes incentivos fiscales para las personas que cumplan con la verificación vehicular:
+
+I. 10% de descuento en el pago de derechos por refrendo vehicular y tarjeta de circulación, adicional a los que se otorguen por pronto pago y a los pagos efectuados a través de Internet, ventanillas bancarias y tiendas de conveniencia, a quienes verifiquen en el Ejercicio Fiscal 2022; y
+
+II. 20% de descuento en el derecho por dotación de placas a los vehículos foráneos que cumplieron con la verificación vehicular y deseen contar con placas del Estado de Jalisco, a quienes verifiquen en el Ejercicio Fiscal 2022.
+
+Quinto. La Secretaría de Medio Ambiente y Desarrollo Territorial en coordinación con la Contraloría del Estado, deberán comunicar y realizar campañas de difusión en todos los entes públicos respecto de sus obligaciones derivadas de este decreto en materia de verificación vehicular.
