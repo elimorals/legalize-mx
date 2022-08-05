@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-accion-de-cambio-climatico-en-el-estado-de-quintana-8864
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-29"
-last_updated: "2022-06-30"
+last_updated: "2022-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DE ACCION DE CAMBIO CLIMATICO EN EL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE AGOSTO DE 2022 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ACCIÓN DE CAMBIO CLIMÁTICO EN EL ESTADO DE QUINTANA ROO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE AGOSTO DE 2022.]</small>
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de marzo de 2012.
 
@@ -1070,6 +1070,38 @@ La Secretaría, en coordinación con la Comisión, desarrollará y publicará el
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
 
 Artículo 42 Sexties.- En materia de adaptación, la evaluación se realizará respecto de los objetivos siguientes:
+
+> <small>(F. DE E., P.O 5 DE AGOSTO DE 2022)</small>
+
+I. Reducir la vulnerabilidad de la sociedad, las cuencas hidrológicas, la biodiversidad y los ecosistemas naturales y humanos frente a los efectos adversos del cambio climático;
+
+> <small>(F. DE E., P.O 5 DE AGOSTO DE 2022)</small>
+
+II. Fortalecer la resiliencia de los sistemas naturales y humanos;
+
+> <small>(F. DE E., P.O 5 DE AGOSTO DE 2022)</small>
+
+III. Minimizar riesgos e impactos, considerando los escenarios actuales y futuros del cambio climático;
+
+> <small>(F. DE E., P.O 5 DE AGOSTO DE 2022)</small>
+
+IV. Desarrollar y aplicar de manera eficaz los instrumentos específicos de diagnóstico, planeación y monitoreo necesario para enfrentar el cambio climático;
+
+> <small>(F. DE E., P.O 5 DE AGOSTO DE 2022)</small>
+
+V. Establecer mecanismos de atención en zonas impactadas o en riesgo ante los efectos del cambio climático como parte de los planes y acciones de gestión integral de riesgos;
+
+> <small>(F. DE E., P.O 5 DE AGOSTO DE 2022)</small>
+
+VI. Facilitar y fomentar la seguridad alimentaria, ha productividad agrícola y pecuaria, la preservación de los ecosistemas y de los recursos naturales;
+
+> <small>(F. DE E., P.O 5 DE AGOSTO DE 2022)</small>
+
+VII. La conservación, protección y aprovechamiento sustentable de la biodiversidad, y
+
+> <small>(F. DE E., P.O 5 DE AGOSTO DE 2022)</small>
+
+VIII. Los demás que determine la Comisión o la Secretaría.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
 
