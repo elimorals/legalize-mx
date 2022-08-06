@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2022-07-30"
+last_updated: "2022-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -345,13 +345,17 @@ XXIII. Derechos de niñas y adolescentes madres o padres;
 
 XXIV. Derechos de Niñas, Niños y Adolescentes con Madre o Padre Privado de su Libertad;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2022)</small>
 
-XXV. Derecho de acceso a las tecnologías de información y comunicación; y
+XXV. Derecho de acceso a las tecnologías de información y comunicación;
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2022)</small>
 
-XXV (SIC). Derechos de Niñas, Niños y Adolescentes en situación de calle.
+XXVI. Derechos de Niñas, Niños y Adolescentes en situación de calle; y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2022)</small>
+
+XXVII. Derecho a la protección contra el trabajo infantil.
 
 Las autoridades estatal y municipal, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -795,6 +799,16 @@ IV. Desarrollar campañas permanentes de difusión, promoción, conocimiento, se
 
 Niñas, niños y adolescentes tienen derecho a no ser sujetos de distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: origen étnico o nacional, color de piel, cultura, sexo, género, edad, discapacidades, condición social, económica, de salud o jurídica, religión, apariencia física, características genéticas, situación migratoria, embarazo, lengua, opiniones, preferencias sexuales, identidad o filiación política, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
+
+###### Artículo 35 Bis.
+
+Las autoridades estales y municipales, en el ámbito de sus respectivas competencias, deberán:
+
+I. Establecer políticas de actuación de sus servidores públicos, con la finalidad de adoptar una cultura institucional de respeto para prevenir actos de discriminación contra niñas, niños y adolescentes, en el servicio público, así como llevar a cabo acciones especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto, en los términos previstos por la Ley General.
+
+II. Implementar un Programa Integral, que establezca de manera clara acciones para garantizar la igualdad entre niñas, niños y adolescentes, y que erradique usos, costumbres o prácticas culturales que promuevan cualquier tipo de discriminación, como lo establece la Ley General.
+
 ### CAPÍTULO IX. DEL DERECHO A VIVIR EN CONDICIONES DE BIENESTAR Y A UN SANO DESARROLLO INTEGRAL
 
 ###### Artículo 36.
@@ -844,6 +858,12 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### Artículo 38 Bis.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar medidas, elaborar protocolos de atención y políticas públicas, tendentes a prevenir y erradicar el castigo corporal o físico y cualquier otra forma degradante o humillante de castigo hacia las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
+
+###### Artículo 38 Ter.
+
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán adoptar medidas, elaborarán protocolos de atención y políticas públicas, para prevenir y erradicar el trabajo infantil y la protección en el trabajo de adolescentes mayores de quince años que puedan perjudicar su salud, su educación y que impidan su desarrollo físico o mental, enmarcados en la Constitución Política, la Ley Federal del Trabajo y de las demás disposiciones aplicables.
 
 ### CAPÍTULO XI. DEL DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
@@ -1011,9 +1031,21 @@ XII. Asegurar que la aplicación de los conocimientos adquiridos en la escuela g
 
 XIII. Fomentar el respeto hacia sus padres, maestros y compañeros, a su cultura, medio ambiente, idioma y valores; y a los valores nacionales, en un marco de tolerancia y respeto;
 
-XIV. Propiciar el desarrollo de un pensamiento autónomo, crítico y creativo, y
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2022)</small>
 
-XV. Educar con perspectiva de género, con el fin de erradicar la discriminación sexual.
+XIV. Propiciar el desarrollo de un pensamiento autónomo, crítico y creativo;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2022)</small>
+
+XV. Educar con perspectiva de género, con el fin de erradicar la discriminación sexual;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2022)</small>
+
+XVI. Fomentar en niñas, niños y adolescentes el respeto y cuidado de la vida de los animales; y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2022)</small>
+
+XVII. Propiciar y concientizar sobre el cuidado del medio ambiente.
 
 ###### Artículo 50.
 
@@ -2558,6 +2590,38 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 30 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 620.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II; Y SE ADICIONA LA FRACCIÓN III RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 33 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA; Y SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 27; Y SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 4 RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, Y LAS FRACCIONES III Y IV AL ARTÍCULO 27 DE LA LEY DE ADOPCIONES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 625.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 38 TER A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 638.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 35 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 639.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XIV Y XV; Y SE ADICIONAN LAS FRACCIONES XVI Y XVII AL ARTÍCULO 49 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 640.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XXV Y XXVI, Y SE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 13 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
