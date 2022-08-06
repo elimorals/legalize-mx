@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2021-12-18"
+last_updated: "2022-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -1511,6 +1511,14 @@ Tratándose de solicitudes de expedición de licencias para el funcionamiento de
 
 Cuando no se cuente con la autorización de la Comisión antes citada, se negará la expedición de licencia, además de notificar de lo anterior a la Comisión Nacional Bancaria y de Valores para los efectos legales que correspondan.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
+
+Tratándose de expedición de licencias o refrendo para el funcionamiento de establecimientos que se dediquen a la purificación, embotellamiento y comercialización de agua o hielo para consumo humano, además de lo señalado en el primer párrafo, el solicitante deberá acompañar a su solicitud el Certificado Sanitario para purificadoras de agua o fábricas de hielo emitido por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
+
+Cuando no se cuente con el Certificado antes citado, se negará la expedición de licencia o refrendo para su funcionamiento, y procederá a la suspensión del establecimiento.
+
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
 XX.- Otorgar licencias a establecimientos que expendan bebidas alcohólicas, las que de concederse tendrán siempre el carácter de temporales, previa autorización del Cabildo, con apego a la Ley Estatal de Salud.
@@ -1679,9 +1687,13 @@ XX.- Atender los requerimientos de información del Contralor Interno Municipal 
 
 XXI.- Informar a la población, sobre las acciones realizadas en el marco de sus atribuciones, en la sesión pública solemne a que hace referencia el artículo 68 Fracción VIII de esta Ley.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
+
+XXII.- Emitir las órdenes de protección idóneas, para salvaguardar la integridad de las mujeres y niñas que se encuentren viviendo cualquier tipo de violencia de género, y realizar las gestiones necesarias para garantizar su cumplimiento y ejecución de conformidad con lo dispuesto en la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género; y
+
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2021)</small>
 
-XXII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
+XXIII.- Las demás que le señalen las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 72.
 
@@ -2005,7 +2017,13 @@ IV.- Dar fe de los actos del Cabildo, autorizar, expedir y certificar las copias
 
 V.- Llevar y conservar los libros de actas, obteniendo las firmas de los asistentes a las sesiones;
 
-VI.- Expedir constancias de origen y de vecindad que le sean solicitadas, previa acreditación indubitable de la misma;
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 6 DE AGOSTO DE 2022)</small>
+
+VI.- Expedir las constancias de identidad o de origen y vecindad, que le sean solicitadas por los habitantes del Municipio, previa acreditación indubitable de las mismas, y tendrá efectos únicamente para la autoridad administrativa solicitante.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
+
+La constancia de identidad deberá contener como mínimo fotografía reciente entre sellada, el nombre completo de la persona interesada, lugar y fecha de nacimiento, nombre de los progenitores, domicilio actual dentro del Municipio, nacionalidad, y autoridad administrativa solicitante.
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
 
@@ -2027,9 +2045,13 @@ XII.- Tener a su cargo los libros de registro de bienes municipales y bienes mos
 
 Los Libros a que se refiere el párrafo anterior deberán ser foliados y autorizados en su primera y última hoja con las firmas y sellos del Secretario Municipal, y;
 
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2022)</small>
+
+XIII.- La supervisión de la Gaceta y el Estrado. Este certificará cuando se requiera la razón de la fijación y retiro de los documentos en el Estrado y el cumplimiento del plazo señalado.
+
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XIII.- Las demás que establezca esta Ley, los reglamentos municipales y las que acuerden (sic) el Ayuntamiento.
+XIV.- Las demás que establezca esta Ley, los reglamentos municipales y las que acuerden (sic) el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
@@ -2787,9 +2809,15 @@ IX.- Que incluyan un capítulo sobre recursos de inconformidad que permita a los
 
 En la medida que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas, transformación de las condiciones políticas y múltiples aspectos de la vida comunitaria, el Ayuntamiento deberá adecuar sus ordenamientos, con el fin de preservar su autoridad institucional y propiciar el desarrollo armónico de la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 136.
 
-El Ayuntamiento contará con una Gaceta Municipal, para realizar la publicación oficial de sus determinaciones, la supervisión de la Gaceta corresponde al Secretario del Ayuntamiento. De todas las publicaciones realizadas en la Gaceta Municipal, se enviará un ejemplar a los Poderes del Estado y al Archivo General del Estado.
+El Ayuntamiento deberá contar con una Gaceta Municipal, para realizar la publicación oficial de sus determinaciones. De todas las publicaciones realizadas en la Gaceta Municipal, se enviará un ejemplar a los Poderes del Estado y al Archivo General del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
+
+Igualmente deberá contar en las instalaciones del palacio municipal con un espacio visible y de fácil acceso para los habitantes de la comunidad, denominado Estrado, para fijar todas las publicaciones realizadas en la Gaceta Municipal, así como cualquier otro documento que determine el Ayuntamiento, la Presidencia Municipal o cualquier autoridad administrativa o jurisdiccional competente.
 
 ###### ARTÍCULO 137.
 
@@ -4622,3 +4650,29 @@ P.O. 18 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 628.- MEDIANTE EL CUAL ADICIONA UNA FRACCIÓN XXII, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 71 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 629.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO ÚNICO DE LA FRACCIÓN VI DEL ARTÍCULO 92 Y DEL ARTÍCULO 136; SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 92 Y AL ARTÍCULO 136, ASÍ COMO LA FRACCIÓN XIII, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL DEL ARTÍCULO 92 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Los Ayuntamientos contarán con el plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto para establecer sus Estrados municipales.
+
+TERCERO. El Congreso del Estado deberá comunicar a todos los Ayuntamientos Municipales del Estado de Oaxaca.
+
+P.O. 6 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 630.- MEDIANTE EL CUAL ADICIONA LOS PÁRRAFOS CUARTO Y QUINTO A LA FRACCIÓN XIX DEL ARTÍCULO 68 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
