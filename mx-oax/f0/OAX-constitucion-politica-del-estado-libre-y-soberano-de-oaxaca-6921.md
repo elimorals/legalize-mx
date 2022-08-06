@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2022-04-09"
+last_updated: "2022-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2022.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2075,9 +2075,13 @@ LXXIV. Expedir leyes que establezcan la concurrencia del Gobierno del Estado y d
 
 LXXV. Designar por el voto de las dos terceras partes de sus miembros a los Titulares de Órganos de Control Interno de los Órganos Autónomos reconocidos en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado.
 
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2022)</small>
+
+LXXVI. Emitir declaratorias de patrimonio del Estado de Oaxaca en materia de cultura, gastronomía, medio ambiente y lingüística.
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-LXXVI. Todas aquellas que deriven a su favor de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federales, esta Constitución Política y las que sean necesarias para hacer efectivas sus facultades y atribuciones.
+LXXVII. Todas aquellas que deriven a su favor de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federales, esta Constitución Política y las que sean necesarias para hacer efectivas sus facultades y atribuciones.
 
 ###### ARTICULO 60.
 
@@ -6308,5 +6312,13 @@ P.O. 9 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 578.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y EL PÁRRAFO TERCERO DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 627.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN LXXVI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
