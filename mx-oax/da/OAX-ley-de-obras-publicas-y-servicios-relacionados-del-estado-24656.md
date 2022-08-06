@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2022-05-14"
+last_updated: "2022-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -1021,9 +1021,9 @@ II.- En caso de rescisión del contrato por causas imputables al contratista, la
 
 III.- Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, el contratista podrá suspender la obra. En este supuesto, si opta por la terminación anticipada del contrato, deberá presentar su solicitud a la Dependencia, Entidad o Ayuntamiento, quien resolverá dentro de los veinte días naturales siguientes a la recepción de la misma; en caso de negativa será necesario que el contratista obtenga de la autoridad judicial la declaratoria correspondiente.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2022)</small>
 
-En los casos de las fracciones anteriores, los titulares de las Dependencias y Entidades o el Presidente Municipal, en el caso de los Ayuntamientos, mediante acuerdo debidamente fundado y motivado resolverán lo procedente; dicho acuerdo deberá ser notificado al contratista, informando del mismo a la Secretaría y a la Contraloría en el caso de las Dependencias y Entidades; los Ayuntamientos lo harán del conocimiento del Órgano Interno de Control y del OSFE.
+En todos los casos de las fracciones anteriores, los titulares de las Dependencias y Entidades o el Presidente Municipal, en el caso de los Ayuntamientos, mediante acuerdo debidamente fundado y motivado resolverán lo procedente; dicho acuerdo deberá ser notificado al contratista, informando del mismo a la Secretaría y a la Contraloría en el caso de las Dependencias y Entidades; los Ayuntamientos lo harán del conocimiento del Órgano Interno de Control y del OSFE; lo mismo, se aplicará para la reanudación de la obra que haya sido suspendida y todas aquellas actuaciones que modifiquen las condiciones originales del contrato.
 
 ## TITULO QUINTO. DE LA EJECUCION DE LA OBRA
 
@@ -1682,6 +1682,14 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 14 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 615.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 20 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del H. Congreso del Estado y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 641.- MEDIANTE EL CUAL REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 59 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
