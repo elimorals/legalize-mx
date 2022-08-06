@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2021-10-23"
+last_updated: "2022-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -3009,6 +3009,10 @@ Toda edificación dispondrá de lugares de estacionamiento de vehículos en la c
 
 Tratándose de actividades comerciales, el uso de cajones de estacionamiento a que se refiere el párrafo anterior, deberá ser sin costo para el usuario, a excepción de las que su actividad directa sea exclusiva de este servicio.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
+
+Los centros comerciales, plazas, supermercados y tiendas de autoservicio, procuraran la instrumentación de mobiliario exclusivo para el estacionamiento de bicicletas en el edificio que ocupan sin costo para el usuario.
+
 ### CAPÍTULO SEXTO.. DEL PROYECTISTA, DEL DIRECTOR RESPONSABLE DE OBRA Y DEL CORRESPONSABLE
 
 #### Sección I. Proyectista
@@ -3474,3 +3478,11 @@ P.O. 23 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 6 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 642.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 198, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del H. Congreso del Estado y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
