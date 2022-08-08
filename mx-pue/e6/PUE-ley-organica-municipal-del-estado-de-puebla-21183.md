@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2022-08-02"
+last_updated: "2022-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1347,7 +1347,9 @@ XXVI.- Designar a aquél de sus integrantes que dará contestación al informe q
 
 XXVII.- Conceder licencias y resolver sobre las renuncias que formulen los integrantes del mismo Ayuntamiento o los de las Juntas Auxiliares en términos de esta ley, dando aviso al Congreso del Estado;
 
-XXVIII.- Proponer al Pleno del Tribunal Superior de Justicia, la terna correspondiente para la designación de jueces menores y de paz, de conformidad con lo establecido en la Ley de la materia;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2022)</small>
+
+XXVIII.- Proponer al Pleno del Tribunal Superior de Justicia, la terna correspondiente para la designación de jueces municipales y de paz, de conformidad con lo establecido en la Ley de la materia;
 
 XXIX.- Aceptar renuncias y conceder licencias cuando excedan del término de diez días, a los servidores públicos del Ayuntamiento, así como sancionar las faltas en que los mismos incurran;
 
@@ -3343,13 +3345,17 @@ Por ser el Municipio base de la organización política y administrativa del Est
 
 Los Ayuntamientos, en todo momento, deberán de contribuir, de acuerdo a las necesidades y sus posibilidades, con recursos económicos para el sostenimiento de las instancias de justicia municipal.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 215.
 
-La justicia municipal se ejercerá por los juzgados menores, juzgados de paz, juzgados calificadores y agentes subalternos del Ministerio Público, en los términos y plazos que establezcan, además de la presente Ley, las disposiciones legales aplicables.
+La justicia municipal se ejercerá por los juzgados municipales, juzgados de paz y los juzgados calificadores en los términos y plazos que establezcan, además de la presente ley, las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 216.
 
-La organización, funcionamiento y atribuciones de los juzgados menores se sujetará a lo dispuesto por la Ley Orgánica del Poder Judicial del Estado, al igual que el nombramiento de su titular y demás servidores públicos adscritos a ellos, y lo relativo a sus suplencias, permisos, licencias, suspensión, renuncia y remoción.
+La organización, funcionamiento y atribuciones de los Juzgados Municipales se sujetará a lo dispuesto por la Ley Orgánica del Poder Judicial del Estado de Puebla, al igual que el nombramiento de su titular y demás servidores públicos adscritos a ellos, y lo relativo a sus suplencias, permisos, licencias, suspensión, renuncia y remoción.
 
 ###### ARTÍCULO 217.
 
@@ -3357,7 +3363,7 @@ La forma de nombramiento, organización y competencia de los jueces y juzgados c
 
 ###### ARTÍCULO 218.
 
-El nombramiento y atribuciones de los agentes subalternos del Ministerio Público, se regulará conforme a lo dispuesto por la Ley Orgánica de la Procuraduría General de Justicia del Estado.
+(DEROGADO, P.O. 8 DE AGOSTO DE 2022)
 
 ### CAPÍTULO XXV. DEL SERVICIO CIVIL DE CARRERA
 
@@ -3603,11 +3609,11 @@ Las Juntas Auxiliares son órganos desconcentrados de la administración públic
 
 Las Juntas Auxiliares estarán integradas por un Presidente o Presidenta y cuatro miembros propietarios, y sus respectivos suplentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 225.
 
-Las Juntas Auxiliares serán electas en plebiscito, que se efectuará de acuerdo con las bases que establezca la convocatoria que se expida por el Ayuntamiento, dicha convocatoria deberá atender el principio de paridad de género, y deberá ser publicada por lo menos quince días antes de la celebración del mismo, y con la intervención del Presidente o Presidenta Municipal o su representante, así como del Agente Subalterno del Ministerio Público.
+Las Juntas Auxiliares serán electas en plebiscito, que se efectuará de acuerdo con las bases que establezca la convocatoria que se expida por el Ayuntamiento, dicha convocatoria deberá atender el principio de paridad de género, y deberá ser publicada por lo menos quince días antes de la celebración del mismo, y con la intervención del Presidente o Presidenta Municipal o su representante, y demás autoridades competentes.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -4474,6 +4480,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 88 BIS DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXVIII DEL ARTÍCULO 78, EL 215, EL 216, EL PRIMER PÁRRAFO DEL 225; Y SE DEROGA EL ARTÍCULO 218, TODOS DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
