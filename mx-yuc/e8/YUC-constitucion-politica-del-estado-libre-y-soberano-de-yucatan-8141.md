@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2022-05-04"
+last_updated: "2022-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE AGOSTO DE 2022.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -126,6 +126,14 @@ Se establecerá un organismo que definirá, ejecutará y evaluará las política
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
 El Estado garantizará al pueblo maya el acceso a la justicia y la aplicación de sus propias formas de regulación para la solución de conflictos internos, como medio alternativo para la solución de controversias; sujetándose a los principios jurídicos de oralidad, publicidad, inmediación, contradicción, economía y concentración, con pleno respeto a sus derechos y garantías y de manera relevante, la dignidad de las mujeres, sin contravenir las leyes vigentes.
+
+> <small>(ADICIONADO, D.O. 8 DE AGOSTO DE 2022)</small>
+
+El derecho a la ciudad permite garantizar el ejercicio pleno de los derechos humanos, la función social de la ciudad, su gestión democrática y asegurar la justicia territorial, la inclusión social, la movilidad y la distribución equitativa de bienes públicos y la prestación de servicios públicos considerando la participación de la ciudadanía.
+
+> <small>(ADICIONADO, D.O. 8 DE AGOSTO DE 2022)</small>
+
+El Estado garantizará el derecho a la ciudad que consiste en el uso y el usufructo pleno y equitativo de los asentamientos humanos, fundado en principios de justicia social, democracia, participación ciudadana, igualdad, sustentabilidad, sostenibilidad, respeto a la diversidad en todas sus formas de expresión, a la naturaleza y al ambiente, de acuerdo a la legislación aplicable.
 
 > <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2005)</small>
 
@@ -5046,3 +5054,15 @@ El Pleno del Consejo de la Judicatura implementará en forma gradual el sistema 
 Artículo Décimo Tercero. Derogación Tácita
 
 Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 8 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 539/2022 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE INCLUSIÓN DEL DERECHO A LA CIUDAD".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
