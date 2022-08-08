@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2022-02-14"
+last_updated: "2022-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2022.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -863,9 +863,9 @@ Las Comisiones del Congreso serán Permanentes, Especiales y de Protocolo y Cort
 
 Las Comisiones Permanentes tendrán la competencia que se deriva de su denominación y las especiales las de los asuntos que motivaron su integración.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2022)</small>
 
-Es obligación de las Comisiones permanentes y especiales, publicar su programa anual de trabajo, así como las convocatorias, orden del día y documentos de apoyo, con 24 horas de anticipación de cada sesión.
+Es obligación de las comisiones permanentes y especiales publicar su programa anual de trabajo, que incluirá la contribución que en los mismos se proponga para el cumplimiento de los Objetivos de Desarrollo Sostenible, desde el enfoque de la Agenda 2030, así como las convocatorias, órdenes del día y documentos de apoyo, con veinticuatro horas de anticipación a cada sesión.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 22 DE MARZO DE 2017)</small>
 
@@ -2036,5 +2036,13 @@ G.O. 14 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 229 QUE REFORMA EL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 238 REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 38 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; EL PÁRRAFO PRIMERO DEL ARTÍCULO 65 Y LA FRACCIÓN II DEL ARTÍCULO 102 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO, AMBOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
