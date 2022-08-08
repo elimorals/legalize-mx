@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2022-02-14"
+last_updated: "2022-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2022.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -787,11 +787,13 @@ En el área de su competencia, las comisiones permanentes ejercerán las funcion
 
 (DEROGADO, G.O. 6 DE FEBRERO DE 2017)
 
-> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 65.
 
-Los dictámenes, que podrán ser en sentido negativo o positivo, deberán señalar los fundamentos jurídicos que los motiven; los antecedentes de los asuntos materia de los mismos; un apartado con las consideraciones que los integrantes de las comisiones estimen necesarias para justificar la procedencia o improcedencia de lo propuesto; y el proyecto de resolución que corresponda.
+Los dictámenes, que podrán ser en sentido negativo o positivo, deberán señalar los fundamentos jurídicos que los motiven; los antecedentes de los asuntos materia de los mismos; un apartado con las consideraciones que los integrantes de las comisiones estimen necesarias para justificar la procedencia o improcedencia de lo propuesto; y el proyecto de resolución que corresponda. Los dictámenes relativos a iniciativas de ley o decreto, así como los referentes a iniciativas ante el Congreso de la Unión, preferentemente enunciarán, de ser el caso, en el apartado de consideraciones, la contribución de lo propuesto al cumplimiento de los Objetivos de Desarrollo Sostenible, desde el enfoque de la Agenda 2030.
+
+> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
 Los dictámenes podrán referirse a dos o más iniciativas de ley o decreto que se encuentren relacionadas o a asuntos de naturaleza similar, lo que habrá de consignarse en el apartado de antecedentes y de analizarse en la parte considerativa del dictamen correspondiente.
 
@@ -1135,7 +1137,9 @@ Las iniciativas que se presenten al Congreso, deberán contener:
 
 I. El fundamento constitucional que precise la facultad del Congreso para legislar en la materia;
 
-II. Las razones en que se funden las propuestas de adición, reforma, derogación o abrogación de una ley o decreto;
+> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2022)</small>
+
+II. Las razones en las que se funden las propuestas de adición, reforma o derogación de disposiciones de un ordenamiento jurídico o de expedición o abrogación de una ley. En las iniciativas presentadas por integrantes del Congreso se incluirá también, en su caso, una mención a la contribución de lo propuesto al cumplimiento de los Objetivos de Desarrollo Sostenible, desde el enfoque de la Agenda 2030.
 
 III. Los antecedentes que sirven de base a la propuesta;
 
@@ -1970,5 +1974,13 @@ G.O. 14 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230 QUE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 61 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 8 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 238 QUE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 38 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, EL PÁRRAFO PRIMERO DEL ARTÍCULO 65 Y LA FRACCIÓN II DEL ARTÍCULO 102 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO, AMBOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
