@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2022-05-19"
+last_updated: "2022-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -322,6 +322,12 @@ Toda investigación biomédica se orientará preferentemente a aliviar las enfer
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2015)</small>
 
 11.- Todo individuo tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. Las autoridades garantizarán el cumplimiento de estos derechos, para lo cual registrarán y expedirán gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2022)</small>
+
+12.- Es derecho de todas las personas en el Estado de Nayarit el acceso a las tecnologías de información y comunicación, así como al internet.
+
+El Estado procurará las acciones necesarias para proporcionar a todas las personas el acceso a internet en espacios públicos.
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2012)</small>
 
@@ -2881,7 +2887,21 @@ V.- El Poder Ejecutivo, en los términos de la ley, someterá a la consulta de l
 
 Asimismo, promoverá la participación de la sociedad en el seguimiento y evaluación de las políticas públicas, a través del Sistema Estatal de Información Estadística y Geográfica;
 
-VI.- Se establece la política pública de mejora regulatoria con carácter de obligatoria para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia, la cual buscará promover la eficacia y eficiencia de su gobierno, impulsar las áreas prioritarias del desarrollo, alentar la actividad económica de los particulares, fomentar la transparencia, el desarrollo socioeconómico y la competitividad del Estado; todo a través de la simplificación y claridad de regulaciones, normas, trámites, procedimientos, servicios y demás elementos que se consideren esenciales, de conformidad con lo que establezca la ley de la materia, y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE AGOSTO DE 2022)</small>
+
+VI.- Se establecen las políticas de mejora regulatoria y de Gobierno Digital con carácter de obligatorio para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia, la cual buscará promover la eficacia y eficiencia de su gobierno, impulsar las áreas prioritarias del desarrollo, alentar la actividad económica de los particulares, fomentar la transparencia, el desarrollo socioeconómico y la competitividad del Estado; todo a través de la simplificación y claridad de regulaciones, normas, trámites, procedimientos, servicios y demás elementos que se consideren esenciales, de conformidad con lo que establezca la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2022)</small>
+
+El Estado y los municipios, a través de sus instituciones, promoverán de manera permanente, continua y coordinada las normas, políticas públicas y demás acciones relativas al uso de las tecnologías de la información y la comunicación para impulsar el desarrollo económico del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2022)</small>
+
+Se establecerá la inclusión de las tecnologías de la información y comunicación en todos los trámites y servicios de la administración pública en el ámbito estatal y municipal.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2022)</small>
+
+Para lo anterior, se atenderán los principios de igualdad, legalidad, conservación, transparencia, accesibilidad, proporcionalidad, responsabilidad y adecuación tecnológica; las disposiciones normativas relativas a la protección de datos personales y acceso a la información pública; así como la suficiencia presupuestaria y técnica, y
 
 VII.- Los sectores social y privado, sujetarán sus acciones para la explotación y uso del territorio y los recursos naturales, a las normas y procedimientos del Sistema Estatal de Planeación, a fin de garantizar su aprovechamiento sustentable.
 
@@ -4462,3 +4482,13 @@ SEGUNDO.- La integración de los órganos públicos estatales y áreas administr
 TERCERO.- Dentro de los 180 días naturales posteriores a la publicación oficial del presente Decreto, los Ayuntamientos de la Entidad deberán emitir o adecuar los reglamentos municipales y adoptar las medidas que resulten necesarias para garantizar el cumplimiento del mismo.
 
 CUARTO.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
+
+P.O. 9 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 7 Y 134 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que las instituciones del Estado y sus municipios realicen de manera paulatina la armonización de los ordenamientos normativos en su ámbito competencial, así como para que implementen las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones en materia de Gobierno Digital, de conformidad con lo establecido en el presente Decreto.
+
+TERCERO. Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
