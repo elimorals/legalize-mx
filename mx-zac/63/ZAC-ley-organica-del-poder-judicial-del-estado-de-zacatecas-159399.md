@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-judicial-del-estado-de-zacatecas-159399"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-07-13"
-last_updated: "2022-07-13"
+last_updated: "2022-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE AGOSTO DE 2022 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE AGOSTO DE 2022.]</small>
 
 Ley publicada en el Suplemento del Número 56 del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de julio del 2022.
 
@@ -1021,9 +1021,11 @@ IX. Las demás que le confieran las leyes, reglamentos y acuerdos generales.
 
 El Juzgado de Control y Enjuiciamiento Especializado en Justicia Penal para Adolescentes, conocerá de los asuntos previstos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes; de las soluciones alternas y formas de terminación anticipada, de los procedimientos para adolescentes inimputables y los especiales previstos en el Código Nacional de Procedimientos Penales; así como de los hechos del orden federal en los que exista competencia concurrente.
 
+> <small>(F. DE E., P.O. 10 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 74.
 
-El Juzgado de Control y Enjuiciamiento Especializado en Justicia Penal para Adolescentes, conocerá del control y supervisión de la legalidad en la ejecución de las medidas de sanción y de internamiento preventivo y de los incidentes que se presenten durante la ejecución de las mismas, previstos en Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás leyes de aplicación supletoria.
+El juzgado de ejecución especializado en Justicia Penal para Adolescentes, conocerá del control y supervisión de la legalidad en la ejecución de las medidas de sanción y de internamiento preventivo y de los incidentes que se presenten durante la ejecución de las mismas, previstos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y demás leyes de aplicación supletoria.
 
 ## TÍTULO CUARTO. ÓRGANOS AUXILIARES
 
