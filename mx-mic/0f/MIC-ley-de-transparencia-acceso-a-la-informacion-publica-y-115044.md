@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transparencia-acceso-a-la-informacion-publica-y-115044"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2019-10-14"
+last_updated: "2022-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de mayo de 2016.
 
@@ -659,7 +659,9 @@ X. Convenios de coordinación con la Federación, Estados y Municipios; y de con
 
 XI. Las estadísticas de los tribunales y juzgados, de cuando menos los últimos tres años, donde se señale cuando menos el número de asuntos ingresados y resueltos, así como los porcentajes de asuntos en trámite según las clasificaciones por tipo de asunto y las que determine el Poder Judicial;
 
-XII. Las versiones públicas de las sentencias que sean de interés público;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2022)</small>
+
+XII. Las versiones públicas de todas las sentencias emitidas, en su portal de internet;
 
 XIII. Las versiones estenográficas de las sesiones públicas; y,
 
@@ -2394,3 +2396,9 @@ P.O. 14 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 151.- ARTÍCULO ÚNICO.- SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER Y CUARTO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 71; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCERO AL ARTÍCULO 72; SE REFORMAN LAS FRACCIONES I Y IV DEL ARTÍCULO 109 Y LOS ARTÍCULOS 136 Y 161, TODOS DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 10 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 169 POR EL QUE “SE REFORMA EL ARTÍCULO 38, FRACCIÓN XII DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
