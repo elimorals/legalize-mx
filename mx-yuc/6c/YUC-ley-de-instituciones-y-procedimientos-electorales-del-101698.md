@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2022-06-07"
+last_updated: "2022-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE AGOSTO DE 2022.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -3597,17 +3597,43 @@ Se asegurará la paridad horizontal, esto es, que los partidos políticos deber�
 
 Para el caso de las planillas de candidatos a regidurías de los ayuntamientos, el criterio de paridad horizontal será mediante la conformación de 3 bloques de alta, media y baja votación, en la que participen la totalidad de los municipios del estado de la siguiente forma:
 
-a) El bloque de alta votación estará integrado por 36 ayuntamientos de los cuales 18 serán encabezados por candidatas y los otros 18 por candidatos.
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 10 DE AGOSTO DE 2022)</small>
 
-b) Respecto al segundo bloque considerado de media votación se integrará por 35 ayuntamientos de los cuales 18 serán encabezados por candidatas y los otros 17 por candidatos.
+1. El bloque de alta votación estará integrado por 36 ayuntamientos de los cuales 18 serán encabezados por candidatas y los otros 18 por candidatos.
 
-c) El tercer bloque considerado de baja votación se integrará por 35 ayuntamientos de los cuales 18 serán encabezados por candidatos y los otros 17 por candidatas.
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 10 DE AGOSTO DE 2022)</small>
+
+2. Respecto al segundo bloque considerado de media votación se integrará por 35 ayuntamientos de los cuales 18 serán encabezados por candidatas y los otros 17 por candidatos.
+
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 10 DE AGOSTO DE 2022)</small>
+
+3. El tercer bloque considerado de baja votación se integrará por 35 ayuntamientos de los cuales 18 serán encabezados por candidatos y los otros 17 por candidatas.
 
 En tratándose de aquellos partidos políticos o coaliciones que no postularon candidatos o candidatas a regidores en alguno o algunos de los municipios del Estado en la elección inmediata anterior, para la elección en la que participen, se entenderá que lo harán en el bloque de baja votación.
 
 Los partidos políticos nacionales y locales que participen por primera vez en alguna elección, concluidos sus procesos internos de selección de candidatos o candidatas de acuerdo con su normatividad interna, deberán enviar al Instituto las listas de sus candidatos o candidatas a diputados o diputadas por el principio de mayoría relativa, así como a regidores o regidoras, señalando los bloques en los que desean ser considerados.
 
 El Consejo General del instituto deberá emitir, mediante acuerdo, lineamientos para observar lo dispuesto en el presente inciso de este artículo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], D.O. 10 DE AGOSTO DE 2022)</small>
+
+Asimismo, y con la finalidad de darle mayor impulso a la paridad cualitativa que permita incrementar la presencia de mujeres en cargos de elección popular en los municipios con mayor población en el Estado, los partidos políticos observarán lo siguiente:
+
+1. De los 30 municipios con mayor población en el Estado, tomando como base el último censo poblacional realizado por el Instituto Nacional de Estadística y Geografía con anterioridad al proceso electoral de que se trate, al menos en 15 de estos, los partidos políticos deberán postular candidatas o candidatos de géneros distintos, de acuerdo a sus procedimientos internos y al principio de auto determinación de los partidos políticos.
+
+Para el cumplimiento de lo dispuesto en el párrafo anterior, los 30 municipios con mayor población en el Estado se ajustarán a los criterios de competitividad establecidos en los párrafos anteriores, quedando considerados en los bloques de alta, media o baja votación que les corresponda, de conformidad con los resultados electorales de la elección inmediata anterior, por lo que el Instituto no podrá establecer nuevos bloques de municipios diversos a los ya contemplados en el presente inciso.
+
+2. Los partidos políticos garantizarán que no exista un sesgo evidente en la postulación de candidaturas que ponga en desventaja a las mujeres candidatas, por encontrarse dentro del bloque de baja competitividad.
+
+3. En caso de que algún partido político postule un número menor a 30 candidaturas en los municipios de mayor población en el Estado, el número de candidaturas a postular deberá ser siempre cumpliendo con el principio de paridad de género, procurando que la diferencia mínima esté garantizada en la postulación de una candidatura del género femenino.
+
+> <small>(ADICIONADO, D.O. 10 DE AGOSTO DE 2022)</small>
+
+De igual manera, al inicio de cada proceso electoral ordinario, el Instituto emitirá una lista de municipios en donde se tenga registro de que nunca han sido gobernados por una mujer, con la finalidad de que los partidos políticos garanticen la postulación de candidaturas del género femenino en cuando menos la mitad de dichos municipios.
+
+> <small>(ADICIONADO, D.O. 10 DE AGOSTO DE 2022)</small>
+
+El Consejo General del Instituto deberá emitir, mediante acuerdo, lineamientos para observar lo dispuesto en el presente inciso de este artículo. Dichos lineamientos deberán ser emitidos por el Consejo General del Instituto, dentro de los diez días posteriores al inicio del proceso electoral ordinario de que se trate. Para el caso de que los lineamientos no sean emitidos en el plazo establecido, se utilizarán los lineamientos del proceso electoral ordinario inmediato anterior aprobados por el Consejo General del Instituto, para que surtan efectos en el proceso electoral de que se trate.
 
 d) Ninguna persona podrá ser registrada como candidato o candidata a distintos cargos de elección popular o postulado simultáneamente como candidato o candidata de mayoría relativa y representación proporcional, en el mismo proceso electoral.
 
@@ -6864,3 +6890,23 @@ De igual manera, cuando las leyes de la Administración Pública estatal y sus r
 Artículo Décimo segundo. Plazo para la integración del temario
 
 Por única ocasión, la Consejería Jurídica formulará el temario a que se refiere el artículo 27 de la Ley del Notariado del Estado de Yucatán, y lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro del plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 10 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 542/2022 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, EN MATERIA DE FORTALECIMIENTO DE LA REPRESENTACIÓN DEMOCRÁTICA Y PARIDAD CUALITATIVA EN CARGOS DE ELECCIÓN POPULAR EN LOS MUNICIPIOS CON MAYOR POBLACIÓN EN EL ESTADO”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Notificación al Instituto Nacional Electoral
+
+Artículo segundo. El Congreso del Estado, notificará el presente Decreto al Consejo General del Instituto Nacional Electoral, a fin de que observe el mismo en el ejercicio de sus atribuciones y facultades.
+
+Demarcación territorial
+
+Artículo tercero. El Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán realizará las adecuaciones y gestiones necesarias en el marco de sus atribuciones y facultades para garantizar que en el proceso electoral 2023-2024 se observe y aplique tanto la geografía electoral, como el diseño y determinación que derive de los 21 distritos electorales locales a que se refiere este Decreto.
+
+Clausula derogatoria
+
+Artículo cuarto. Se derogan todas las disposiciones que se opongan a este decreto.
