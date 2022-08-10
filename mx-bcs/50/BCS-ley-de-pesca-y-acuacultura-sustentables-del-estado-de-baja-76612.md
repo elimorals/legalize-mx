@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-baja-7661
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-01"
-last_updated: "2019-10-10"
+last_updated: "2022-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE AGOSTO DE 2022.
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el domingo 1 de agosto de 2010.
 
@@ -1147,9 +1147,11 @@ La Secretaría apoyará la realización de proyectos de investigación especiali
 
 Para estos efectos, la Secretaría promoverá la elaboración de programas de ordenamiento y planes de manejo pesquero que aseguren la sustentabilidad de los recursos reservados a la pesca deportivo-recreativa y que eviten conflictos derivados de su interacción con otras pesquerías.
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 75.
 
-La Secretaría gestionará que en el convenio en materia de inspección y vigilancia que el Estado suscriba con el Gobierno Federal, queden incorporados y precisados los métodos y acciones que el personal comisionado por la Secretaría y los Municipios podrá desarrollar para apoyar eficazmente el cumplimiento de la normatividad en materia de protección de las especies destinadas en forma exclusiva a la pesca deportivo-recreativa, así como para inhibir los actos de comercialización de las capturas de estas especies que se encuentren prohibidos por la Ley General y las disposiciones que de ella emanen.
+La Secretaría gestionará que en el convenio en materia de inspección y vigilancia que el Estado suscriba con el Gobierno Federal, queden incorporados y precisados los métodos y acciones que el personal comisionado por la Secretaría y los Municipios podrá (sic) desarrollar para apoyar eficazmente el cumplimiento de la normatividad en materia de protección de las especies destinadas en forma exclusiva a la pesca deportivo-recreativa, así como para inhibir y combatir los actos de comercialización de las capturas de estas especies que se encuentren prohibidos por la Ley General y las disposiciones que de ella emanen.
 
 ### CAPÍTULO TERCERO. DEL FOMENTO A LA ACUACULTURA SUSTENTABLE
 
@@ -1401,7 +1403,9 @@ En el marco del convenio que suscriba con la Federación el Ejecutivo del Estado
 
 I. Participar en forma coordinada con la Federación y los Municipios, para apoyar las funciones de inspección y vigilancia pesquera y acuícola, en el marco del instrumento que al efecto suscriba;
 
-II. Proponer y fomentar acciones para prevenir y disuadir la realización de actividades pesqueras y acuícolas ilícitas en la entidad;
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2022)</small>
+
+II.- Proponer y fomentar acciones para prevenir, disuadir y combatir la realización de actividades pesqueras y acuícolas ilícitas en la entidad;
 
 III. Fomentar la utilización en las labores de inspección y vigilancia, de todos aquellos instrumentos que aporten los descubrimientos científicos y tecnológicos, cuya utilización no se encuentre restringida o prohibida por la ley;
 
@@ -1546,3 +1550,11 @@ a) Las reformas y adiciones al artículo 18, entraran en vigor el primero de ene
 b) Las reformas y adiciones al último párrafo del artículo 41, entrara en vigor el primero de octubre de dos mil diecinueve.
 
 TERCERO.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 10 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2841 SE REFORMA EL ARTÍCULO 75 Y LA FRACCIÓN II DEL ARTÍCULO 101 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
