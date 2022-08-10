@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sistema-nacional-de-investigadores-144156"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-21"
-last_updated: "2022-04-15"
+last_updated: "2022-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144156&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-09-07"
 ---
 # REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES, PUBLICADO EN EL D.O.F. DE 10 DE AGOSTO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE AGOSTO DE 2022 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 21 de septiembre de 2020.
 
@@ -1142,3 +1144,17 @@ D.O.F. 15 DE ABRIL DE 2022.
 ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Se derogan todas las disposiciones que se opongan al presente.
+
+D.O.F. DE 10 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SISTEMA NACIONAL DE INVESTIGADORES”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento del Sistema Nacional de Investigadores publicado en el Diario Oficial de la Federación el 21 de septiembre de 2020, así como sus reformas. Asimismo, quedan sin efecto todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento se resolverán conforme a la normativa vigente en la fecha en que se originaron.
+
+CUARTO. En un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente Reglamento, el Consejo General del SNI deberá emitir los lineamientos a los que se refiere el presente instrumento.
+
+El presente Reglamento fue aprobado por la Junta de Gobierno del Consejo Nacional de Ciencia y Tecnología, mediante Acuerdo 02-07/2022 de fecha 22 de junio de 2022, tomado en su Segunda Sesión Ordinaria 2022.
