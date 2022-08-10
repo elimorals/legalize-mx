@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2022-08-08"
+last_updated: "2022-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE AGOSTO DE 2022.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -523,11 +523,11 @@ Cuando en esta Constitución se haga referencia a que las o los diputados se enc
 
 ### CAPITULO II. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 10 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 20.
 
-El Congreso del Estado de Yucatán se compondrá de veinticinco Diputadas y Diputados, observando el principio de paridad de género conforme a las normas aplicables, que serán electos popularmente cada tres años, de los cuales, quince serán electos por el principio de mayoría relativa y los restantes, por el de representación proporcional, mediante el procedimiento que la Ley establezca. Por cada Diputada o Diputado Propietario de mayoría relativa, se elegirá un Suplente.
+El Congreso del Estado de Yucatán se compondrá de treinta y cinco diputadas y diputados, observando el principio de paridad de género conforme a las normas aplicables, que serán electos popularmente cada tres años, de los cuales, veintiuno serán electos por el principio de mayoría relativa y los restantes, por el de representación proporcional, mediante el procedimiento que la ley establezca. Por cada Diputada o Diputado propietario de mayoría relativa, se elegirá un suplente.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -559,9 +559,9 @@ I.- Deberá acreditar que participa con candidatos en la totalidad de los distri
 
 II.- Los principios de pluralidad, representatividad y equidad, y
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O. 10 DE AGOSTO DE 2022)</small>
 
-III.- La obtención del 2% o más de la votación emitida en el Estado
+III.- La obtención del 3% o más de la votación emitida en el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
 
@@ -1459,13 +1459,19 @@ XXII Bis.- disponer lo necesario, en los términos de la ley respectiva, para ga
 
 XXIII.- elaborar y remitir el Plan Estatal de Desarrollo, sus actualizaciones, los programas mencionados en la fracción XXII de este Artículo, así como los criterios que le sirven de base al Congreso del Estado para su conocimiento y consideración al ejercer sus atribuciones constitucionales;
 
-> <small>(REFORMADA, D.O. 28 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, D.O. 10 DE AGOSTO DE 2022)</small>
 
-XXIV.- Presentar la cuenta pública con la documentación respectiva, en los términos y las formas que fijen las leyes en la materia, y
+XXIV.- Presentar la cuenta pública con la documentación respectiva, en los términos y las formas que fijen las leyes en la materia;
 
-> <small>(ADICIONADA, D.O. 31 DE MARZO DE 1988)</small>
+> <small>(ADICIONADA, D.O. 10 DE AGOSTO DE 2022)</small>
 
-XXV.- las demás que le confieren esta Constitución y otras Leyes.
+XXV.- Optar, en cualquier momento, por la conformación de un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
+
+En el caso de que opte por un gobierno de coalición, éste se regulará por el convenio, el programa de gobierno y la agenda legislativa respectivos, los cuales deberán ser aprobados por mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las bases para su conformación, causas de la disolución del gobierno de coalición, programa de gobierno y la agenda legislativa donde se establezca el programa de trabajo legislativo.
+
+> <small>(REFORMADA, D.O. 10 DE AGOSTO DE 2022)</small>
+
+XXVI.- Las demás que le confieren esta Constitución y otras Leyes.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -5066,3 +5072,23 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Cláusula derogatoria
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 10 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 542/2022 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN, EN MATERIA DE FORTALECIMIENTO DE LA REPRESENTACIÓN DEMOCRÁTICA Y PARIDAD CUALITATIVA EN CARGOS DE ELECCIÓN POPULAR EN LOS MUNICIPIOS CON MAYOR POBLACIÓN EN EL ESTADO".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Notificación al Instituto Nacional Electoral
+
+Artículo segundo. El Congreso del Estado, notificará el presente Decreto al Consejo General del Instituto Nacional Electoral, a fin de que observe el mismo en el ejercicio de sus atribuciones y facultades.
+
+Demarcación territorial
+
+Artículo tercero. El Consejo General del Instituto Electoral y de Participación Ciudadana de Yucatán realizará las adecuaciones y gestiones necesarias en el marco de sus atribuciones y facultades para garantizar que en el proceso electoral 2023-2024 se observe y aplique tanto la geografía electoral, como el diseño y determinación que derive de los 21 distritos electorales locales a que se refiere este Decreto.
+
+Clausula derogatoria
+
+Artículo cuarto. Se derogan todas las disposiciones que se opongan a este decreto.
