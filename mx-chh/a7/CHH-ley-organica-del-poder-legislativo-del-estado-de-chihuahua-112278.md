@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2022-01-29"
+last_updated: "2022-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2022.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1715,9 +1715,9 @@ XXVII.- Coordinarse con la Secretaría de Administración para la ejecución de 
 
 XXVIII.- Llevar a cabo gestiones y medidas de vinculación ciudadana, en asuntos de su competencia.
 
-> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2022)</small>
 
-XXIX.- Recibir, revisar y registrar los documentos presentados al Congreso del Estado por conducto de su Oficialía de Partes, así como su distribución a los órganos e instancias de este, según la naturaleza que corresponda.
+XXIX.- Recibir, revisar y registrar los documentos presentados al Congreso del Estado por conducto de su Oficialía de Partes, así como su distribución a los órganos e instancias de este, según la naturaleza que corresponda. Así mismo, informar a las personas legisladoras, de manera digital, de la respuesta obtenida de los órganos o dependencias de acuerdo a los asuntos planteados por las mismas.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE ENERO DE 2019)</small>
 
@@ -3312,3 +3312,11 @@ P.O. 29 DE ENERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a los 90 días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0280/2022 III P.E., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 130, FRACCIÓN XXIX, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
