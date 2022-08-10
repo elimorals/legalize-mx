@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2022-07-13"
+last_updated: "2022-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2022.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1905,13 +1905,17 @@ V. Fuere cometido el hecho al encontrarse la víctima a bordo de un vehículo pa
 
 VI. Fuere cometido el hecho en despoblado o lugar solitario;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2022)</small>
 
-VII. Un embarazo no deseado; y,
+VII. Un embarazo no deseado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2022)</small>
 
-VIII. Una enfermedad incurable.
+VIII. Una enfermedad incurable; y,
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2022)</small>
+
+IX. Cuando la víctima fuere vulnerable, por razón de alguna discapacidad cuya situación la coloque en estado de indefensión.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE MARZO DE 2017)</small>
 
@@ -4426,3 +4430,11 @@ P.O. 13 DE JULIO DE 2022.
 PRIMERO. Remítase el presente Decreto a los Ayuntamientos del Estado, así como al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 10 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 171 POR EL QUE "SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 168, DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
