@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2021-11-18"
+last_updated: "2022-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE AGOSTO DE 2022.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -358,6 +358,12 @@ I. Los nacidos en el territorio del Estado; y
 > <small>(REFORMADA, G.O. 20 DE JUNIO DE 2014)</small>
 
 II. Los hijos de padre o madre nativos del Estado, nacidos en el territorio nacional o en el extranjero.
+
+(NOTA: EL 31 DE ENERO DE 2023 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 125/2022 Y SUS ACUMULADAS 127/2022 Y 128/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, G.O. 11 DE AGOSTO DE 2022)</small>
+
+III. Las o los mexicanos nacidos fuera del territorio del estado, CON HIJOS VERACRUZANOS O con una residencia efectiva de cinco años en territorio veracruzano.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -4062,3 +4068,11 @@ G.O. 18 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado deberá expedir la normatividad procedimental en materia de revocación de mandato a que se refieren los artículos 15 fracción VI inciso j) y 17 párrafo tercero; así mismo emitirá las adecuaciones a la legislación que resulten necesarias a efecto de armonizar el contenido del presente Decreto al orden jurídico veracruzano.
+
+G.O. 11 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 240 POR EL QUE SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
