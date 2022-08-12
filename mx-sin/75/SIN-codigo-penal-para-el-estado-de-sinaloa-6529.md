@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2022-05-27"
+last_updated: "2022-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO PENAL PARA EL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2022.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2067,7 +2069,7 @@ Cuando la violación o su equiparación sea cometida por dos o más personas, se
 
 ### CAPITULO III. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2022)</small>
 
 ###### ARTICULO 182.
 
@@ -2083,13 +2085,29 @@ La pena se aumentará hasta en una mitad más, si la inseminación se hace en un
 
 ###### ARTICULO 183.
 
-Comete el delito de abuso sexual el que ejecute, haga que ejecute u obligue a observarle un acto sexual, sin el propósito directo e inmediato de llegar a la cópula, con un menor de edad o con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo. Se le impondrá una pena de uno a tres años de prisión y multa de hasta doscientos días, cuando el sujeto pasivo sea un menor de edad.
+Comete el delito de abuso sexual quien ejecute en una persona, sin su consentimiento expreso, voluntario, genuino y deseado, o la obligue a ejecutar para sí o en otra persona, actos sexuales sin el propósito de llegar a la cópula.
 
-Si el sujeto pasivo es menor de doce años de edad o persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, se le aplicará una pena de dos a ocho años de prisión y multa de hasta quinientos días.
+A quien cometa este delito se le impondrá una pena de seis a diez años de prisión y multa de hasta doscientos días.
 
-Cuando se empleare la violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
+También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
 
-El delito previsto en el presente artículo se perseguirá de oficio.
+Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2022)</small>
+
+ARTICULO 183 BIS. Al que con o sin el consentimiento expreso, voluntario, genuino y deseado de una persona menor de quince años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula o lo obligue a observar cualquier acto sexual, se le aplicarán de diez a dieciocho años de prisión y de cien a quinientos días multa.
+
+Si se hiciere uso de la violencia física o moral o se realice la conducta a que se refiere este artículo de manera reiterada, la pena se aumentará en una mitad más en su mínimo y máximo.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2022)</small>
+
+ARTICULO 183 BIS A. Al responsable del delito de abuso sexual cometido en contra de una persona menor de dieciocho años de edad y mayor de quince años de edad sin su consentimiento expreso, voluntario, genuino y deseado, se le impondrá una pena de nueve a quince años de prisión y de doscientos a trescientos cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2022)</small>
+
+ARTICULO 183 BIS B. Para efectos del artículo 183 Bis, se entiende por actos sexuales la acción dolosa con fines lascivos consistente en los tocamientos, manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen al sujeto pasivo a representarlos y que se ejerzan en caso de menores de 15 años con o sin el consentimiento de este con el elemento intencional del sujeto activo de satisfacer un deseo sexual.
+
+En el caso de los artículos 183 y 183 Bis A, se entenderá por acto sexual lo referido en el párrafo que antecede, con la salvedad de que las conductas se deberán realizar por el sujeto activo sin el consentimiento expreso, voluntario, genuino y deseado del sujeto pasivo.
 
 ### CAPITULO V. HOSTIGAMIENTO Y ACOSO SEXUAL
 
@@ -2169,7 +2187,7 @@ ARTICULO 185 BIS B.- Los delitos previstos en el presente Capítulo se perseguir
 
 ### CAPITULO VI. DISPOSICIONES COMUNES DE ESTE TITULO
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2022)</small>
 
 ### CAPÍTULO I. DISCRIMINACIÓN
 
@@ -2183,7 +2201,9 @@ ARTICULO 189 BIS.- Comete el delito de acoso laboral, a quien en el entorno de t
 
 ###### ARTICULO 186.
 
-Sólo se perseguirá por querella de parte ofendida o de sus legítimos representantes los delitos de abuso sexual, sancionado en el artículo 183, párrafo segundo; y estupro.
+Los delitos de abuso sexual sancionados en los artículos 183, 183 Bis y 183 Bis A se perseguirán de oficio.
+
+Solo se perseguirá por querella de parte ofendida o de sus legítimos representantes el delito de estupro previsto y sancionado en el artículo 184.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2012)</small>
 
@@ -2191,23 +2211,37 @@ Sólo se perseguirá por querella de parte ofendida o de sus legítimos represen
 
 Cuando se trate de los delitos de violación, su equiparación, o la prevista en el artículo 181 de este Código, inseminación artificial ilegal o abuso sexual, las sanciones se aumentarán hasta una tercera parte en cualquiera de los siguientes casos:
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2022)</small>
 
-I.- Tener el agente parentesco consanguíneo, por afinidad o civil con el ofendido;
+I. Cuando fuere cometido por persona que tenga relación de parentesco por consanguinidad, afinidad o civil, con el ofendido, además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que le ejerciere sobre la víctima, así como los derechos sucesorios con respecto del ofendido;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2022)</small>
 
-II.- Cuando se realice aprovechando el agente su cargo de servidor público o la autoridad que ejerza sobre el ofendido, o fuere su maestro o ministro de culto religioso; o
+II. Cuando fuere cometido por quien desempeñe un cargo o empleo público o por ministro de culto religioso, utilizando los medios o circunstancias que ellos le proporcionen; además de la pena de prisión el sentenciado será destituido del cargo o empleo e inhabilitado para ejercer otro de la misma naturaleza, o en el caso de los ministros para que profese la religión por el término igual al de la pena de prisión;
 
-III.- Cuando se cometa el delito aprovechándose de las circunstancias de que el agente es profesional de la medicina o de sus disciplinas auxiliares, además de la pena de prisión la autoridad judicial podrá determinar la suspensión del ejercicio profesional por el término de hasta cinco años.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+III. Se cometa el delito aprovechándose de las circunstancias de que el agente es profesionista, además de la pena de prisión la autoridad judicial podrá determinar la suspensión del ejercicio profesional por el término igual al de la pena de prisión;
 
-En el caso de la fracción I de este artículo, además de la pena prevista, se le privará al sujeto activo del ejercicio de la patria potestad, tutela o custodia que pudiere tener en relación con el sujeto pasivo.
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+IV. Fuere cometido por persona que tenga al ofendido, bajo su custodia, guarda o aproveche la confianza en él depositada;
 
-En el caso de la fracción II de este artículo, además de la pena prevista, se le privará del empleo, cargo o profesión e inhabilitará para ejercer otro empleo o cargo de la misma naturaleza hasta por cinco años.
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2022)</small>
+
+V. Fuere cometido dentro las instalaciones de alguna asociación religiosa u organismo de la sociedad civil, cuyo objeto social consista en prestar auxilio, refugio o tratamiento psicológico o físico a otras personas;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2022)</small>
+
+VI. Fuere cometido a bordo de un vehículo de servicio público; y
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2022)</small>
+
+VII. Fuere cometido en lugar despoblado y solitario.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE AGOSTO DE 2022)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE AGOSTO DE 2022)</small>
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
 
@@ -2365,13 +2399,17 @@ VII.- Recayendo sobre equipaje o valores de viajeros en cualquier lugar durante 
 
 VIII.- Recayendo sobre vales o cualquier dispositivo electrónico en forma de tarjeta plástica, emitidos por personas morales, destinados al canje de bienes y servicios;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2022)</small>
 
-IX.- Recayendo sobre bienes muebles de cualquier institución educativa pública, o privada con autorización o reconocimiento de validez oficial de estudios; o
+IX. Recayendo sobre bienes muebles de cualquier institución educativa pública, o privada con autorización o reconocimiento de validez oficial de estudios;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2022)</small>
 
-X.- Respecto de bienes, productos, frutos cosechados o por cosechar, semillas, materiales, equipo, maquinaria, implementos, insumos, aditamentos o cualquier cosa relacionada, destinada, utilizada o propia de la actividad agrícola.
+X. Respecto de bienes, productos, frutos cosechados o por cosechar, semillas, materiales, equipo, maquinaria, implementos, insumos, aditamentos o cualquier cosa relacionada, destinada, utilizada o propia de la actividad agrícola; o
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2022)</small>
+
+XI. Respecto de camarón, mojarra, tilapia, ostiones y cualquier otro producto originado de la actividad acuícola y pesquera.
 
 ###### ARTICULO 205.
 
@@ -2389,13 +2427,17 @@ IV.- Por dos o más personas;
 
 V.- De noche o en despoblado o en cualquier otro lugar solitario en que la víctima no pueda encontrar a quien pedir auxilio.
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2022)</small>
 
-VI.- Sobre embarcaciones, artes de pesca o cosas que se encuentren en aquéllas; o
+VI. Sobre embarcaciones, artes de pesca o cosas que se encuentren en aquéllas;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2022)</small>
 
-VII.- En caminos o carreteras de jurisdicción estatal.
+VIII. En caminos o carreteras de jurisdicción estatal; o
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2022)</small>
+
+VIII. En instalaciones acuícolas, de cultivo, almacenamiento, procesamiento, empaque y transportación de productos como camarón, mojarra, tilapia, ostiones y cualquier otro producto originado de la actividad acuícola y pesquera.
 
 ###### ARTICULO 206.
 
@@ -2769,15 +2811,13 @@ Si antes de dictarse sentencia en primera instancia y con los mismos requisitos 
 
 Lo dispuesto en este artículo, no será aplicable tratándose de delitos en que el agente sea un servidor público, si se aprovecha del cargo para cometerlo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2014)</small>
-
 ###### ARTICULO 237.
 
 Los delitos previstos en este Título se perseguirán por querella de parte.
 
-Se exceptúan de lo anterior, los de robo con violencia física o moral sobre las personas o material sobre las cosas, previstos en los artículos 204, fracciones I y II; 205 fracciones I, II y III; 207; 207 Bis, fracciones I, II, III, IV y V; y, 210; extorsión y encubrimiento por receptación, los cuales se perseguirán de oficio.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2022)</small>
+
+Se exceptúan de lo anterior, los de robo con violencia física o moral sobre las personas o material sobre las cosas, previstos en los artículos 204, fracciones I y II; 205 fracciones I, II, III, VI y VIII; 207; 207 Bis, fracciones I, II, III, IV y V; y, 210; extorsión y encubrimiento por receptación, los cuales se perseguirán de oficio.
 
 ###### ARTICULO 238.
 
@@ -5138,3 +5178,19 @@ QUINTO. En tanto inicia sus funciones el Instituto, continuará funcionando la U
 SEXTO. El Titular del Poder Ejecutivo del Estado realizará las adecuaciones reglamentarias correspondientes que deriven del presente Decreto y abrogará el Acuerdo por el que se crea la Unidad Estatal de Protección para Personas Defensoras de Derechos Humanos y Periodistas, publicado en el Periódico Oficial No. 141 “El Estado de Sinaloa”, de fecha 10 de noviembre de 2017.
 
 SÉPTIMO. El Titular del Poder Ejecutivo del Estado realizará las adecuaciones presupuestales necesarias para el funcionamiento del Instituto que se crea mediante el presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Sinaloa.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 245 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
