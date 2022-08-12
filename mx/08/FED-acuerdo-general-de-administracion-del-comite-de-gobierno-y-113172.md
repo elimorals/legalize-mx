@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-del-comite-de-gobierno-y-1131
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-12-03"
-last_updated: "2015-12-03"
+last_updated: "2022-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113172&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-12-03"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION [DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL OTORGAMIENTO Y TRAMITE DEL APOYO Y DE LA AYUDA DE ANTEOJOS EN ESTE ALTO TRIBUNAL]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE ONCE DE JULIO DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA OTORGAR EL APOYO PARA LA ADQUISICIÓN DE ANTEOJOS EN ESTE ALTO TRIBUNAL, PUBLICADO EN GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN DE 12 DE AGOSTO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRES DE DICIEMBRE DE DOS MIL QUINCE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL OTORGAMIENTO Y TRÁMITE DEL APOYO Y DE LA AYUDA DE ANTEOJOS EN ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 12 DE AGOSTO DE 2022 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo IV, Enero de 2016, páginas de la 3517 a la 3528.
 
@@ -282,3 +284,17 @@ CERTIFICA:
 Que esta copia del "ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRES DE DICIEMBRE DE DOS MIL QUINCE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL OTORGAMIENTO Y TRAMITE DEL APOYO Y DE LA AYUDA DE ANTEOJOS EN ESTE ALTO TRIBUNAL" consta de diez fojas útiles, concuerda fiel y exactamente con su original que obra en esta Secretaría Jurídica y se certifica para el trámite correspondiente. México, Distrito Federal, a veintisiete de enero de dos mil dieciséis.
 
 Nota: El Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación y el Acuerdo General de Administración III/2006, del diez de abril de dos mil seis, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regula el Plan de Prestaciones Médicas Complementarias y la Ayuda para Lentes Graduados de los Trabajadores de este Alto Tribunal citados, aparecen publicados en la Gaceta del Semanario Judicial de la Federación, Décima Época, Libro 18, Tomo III, mayo de 2015, página 2432 y en el Semanario Judicial de la Federación y su Gaceta, Novena Época, Tomo XXIII, abril de 2006, página 1261.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.S.J. 12 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO V/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE ONCE DE JULIO DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA OTORGAR EL APOYO PARA LA ADQUISICIÓN DE ANTEOJOS EN ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración del tres de diciembre de dos mil quince, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se emiten los Lineamientos para el otorgamiento y trámite del apoyo y de la ayuda de anteojos en este Alto Tribunal, así como todas aquellas disposiciones que se opongan al presente Acuerdo General de Administración.
+
+TERCERO. Las personas servidoras públicas de este Alto Tribunal que se encuentren realizando el trámite para obtener el apoyo para la adquisición de anteojos a la entrada en vigor del presente Acuerdo General de Administración, continuarán realizando las actividades correspondientes con base en la normativa vigente a dicha fecha, hasta su conclusión.
+
+CUARTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción 1, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
