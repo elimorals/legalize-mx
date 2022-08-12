@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2022-08-10"
+last_updated: "2022-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE AGOSTO DE 2022.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -601,11 +601,17 @@ VII.- No ser ministro de culto religioso alguno, salvo que se haya separado defi
 
 VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
 
-IX.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 12 DE AGOSTO DE 2022)</small>
 
-> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+IX.- No ser deudor alimentario moroso;
 
-X.- Estar inscrito en Registro Federal de Electores y contar con Credencial para Votar vigente.
+> <small>(ADICIONADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+X.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio, y
+
+> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+XI.- Estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar vigente.
 
 > <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 1979)</small>
 
@@ -1281,11 +1287,17 @@ X.- No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de Justici
 
 XI.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, Consejero, Secretario Ejecutivo o sus equivalentes, de los órganos electorales locales o nacionales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;
 
-XII.- (DEROGADA, D.O. 24 DE MAYO DE 2006)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 12 DE AGOSTO DE 2022)</small>
 
-> <small>(ADICIONADA, D.O. 16 DE DICIEMBRE DE 1994)</small>
+XII.- No ser deudor alimentario moroso;
 
-XIII.- estar inscrito en el Registro Federal del (sic) Electores y contar con Credencial para Votar vigente.
+> <small>(ADICIONADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+XIII.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio, y
+
+> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+XIV.- Estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar vigente.
 
 > <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 1974)</small>
 
@@ -1739,13 +1751,17 @@ IV.- Cumplir con lo dispuesto en la fracción IV del Artículo 95 de la Constitu
 
 V.- Tener cuando menos treinta y cinco años cumplidos el día de la designación y menos de sesenta y cinco;
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
 
-VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación, y
+VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación;
 
-> <small>(REFORMADA, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
 
-VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación.
+VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación, y
+
+> <small>(ADICIONADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+VIII.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
 
 > <small>(REFORMADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1913,7 +1929,9 @@ El Consejo de la Judicatura es el órgano del Poder Judicial del Estado, dotado 
 
 El Consejo de la Judicatura se integrará por cinco miembros de los cuales, uno será la Presidenta o Presidente del Tribunal Superior, quien también lo será del Consejo y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por el titular del Poder Ejecutivo. No podrá haber más de tres miembros del mismo género.
 
-Para ser Consejero se requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 12 DE AGOSTO DE 2022)</small>
+
+Para ser Consejera o Consejero del Consejo de la Judicatura del Poder Judicial del Estado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, y tener, además, la calidad de ciudadano yucateco;
 
@@ -1925,9 +1943,21 @@ IV.- Cumplir con lo dispuesto en la fracción IV del Artículo 95 de la Constitu
 
 V.- Tener cuando menos treinta y cinco años cumplidos el día de la designación y menos de sesenta y cinco;
 
-VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación, y
+> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
 
-VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación.
+VI.- Haber residido en el Estado durante los dos años anteriores al día de la designación;
+
+> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+VII.- No haber sido titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local, Presidente Municipal o ministro de culto, durante un año previo al día de la designación;
+
+> <small>(ADICIONADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+VIII.- No ser deudor alimentario moroso, y
+
+> <small>(ADICIONADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+IX.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
 
 Todos los Consejeros deberán ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades.
 
@@ -2297,15 +2327,23 @@ VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucat
 
 IX.- No ser Consejero ciudadano electoral, local o federal, a menos que se separe de sus funciones tres años antes de la fecha de la elección;
 
+> <small>(REFORMADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+X.- Estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar vigente.
+
+Los cargos de Presidente Municipal y Síndico son incompatibles con cualquier otro u otra, comisión o empleo público del Estado o la Federación;
+
+> <small>(ADICIONADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+XI.- No ser deudor alimentario moroso;
+
+> <small>(ADICIONADA, D.O. 12 DE AGOSTO DE 2022)</small>
+
+XII.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio, y
+
 > <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
 
-X.- Estar inscrito en el Registro Federal del (sic) Electores y contar con Credencial para Votar vigente.
-
-Los cargos de Presidente Municipal y Síndico son incompatibles con cualquier otro u otra, comisión o empleo público del Estado o la Federación, y
-
-> <small>(REFORMADA, D.O. 26 DE MAYO DE 2005)</small>
-
-XI.- Para ser Síndico se requiere, además de lo anterior:
+XIII.- Para ser Síndico se requiere, además de lo anterior:
 
 a) Contar al día de la elección con el nivel escolar que establezca la ley, en cada caso, y
 
@@ -5092,3 +5130,11 @@ Artículo tercero. El Consejo General del Instituto Electoral y de Participació
 Clausula derogatoria
 
 Artículo cuarto. Se derogan todas las disposiciones que se opongan a este decreto.
+
+D.O. 12 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 543/2022 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA DE GÉNERO Y DEUDORES ALIMENTARIOS”.]
+
+Entrada en Vigor.
+
+Artículo único. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
