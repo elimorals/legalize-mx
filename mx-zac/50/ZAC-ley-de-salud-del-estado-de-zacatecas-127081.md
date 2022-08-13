@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2021-02-06"
+last_updated: "2022-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -466,6 +466,10 @@ III. La atención del niño y la vigilancia de su crecimiento, desarrollo integr
 IV. La revisión de retina y tamiz auditivo al prematuro;
 
 V. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2022)</small>
+
+V. BIS El tamiz cardiológico se realizará en el recién nacido durante las primeras 24 horas, no excediendo de las 48 horas de vida donde haya medios para su detección oportuna o, en su defecto, se referirá en ese periodo a la unidad hospitalaria más cercana cuando existan factores de riesgo o sospechosos de cardiopatía congénita;
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
@@ -2518,3 +2522,9 @@ P.O. 6 DE FEBRERO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 109.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
