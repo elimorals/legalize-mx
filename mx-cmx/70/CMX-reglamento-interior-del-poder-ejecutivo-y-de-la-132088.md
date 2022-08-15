@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2022-08-01"
+last_updated: "2022-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2019-01-02"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE AGOSTO DE 2022 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 15 DE AGOSTO DE 2022.]</small>
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -90,13 +90,13 @@ La Jefatura de Gobierno de la Ciudad de México para el estudio, planeación y d
 
 A) Secretaría Particular de la Jefatura de Gobierno;
 
-> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2022)</small>
+> <small>(F. DE E., G.O. 15 DE AGOSTO DE 2022)</small>
 
 1. Coordinación General de Relaciones Interinstitucionales;
 
-> <small>(ADICIONADO, G.O. 1 DE AGOSTO DE 2022)</small>
+> <small>(F. DE E., G.O. 15 DE AGOSTO DE 2022)</small>
 
-2. Dirección General de Atención y Gestión a la Demanda Ciudadana;
+1.1. Dirección General de Atención y Gestión a la Demanda Ciudadana;
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -15245,3 +15245,11 @@ G.O. 1 DE AGOSTO DE 2022.
 PRIMERO. Publiquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entra en vigor el día de su publicación.
+
+G.O. 15 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "NOTA ACLARATORIA AL DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, NUMERO 906 BIS DEL DÍA PRIMERO DE AGOSTO DE DOS MIL VEINTIDÓS".]
+
+PRIMERO.- Publíquese la Nota Aclaratoria en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- La presente la (sic) Nota Aclaratoria entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
