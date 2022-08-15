@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2022-07-04"
+last_updated: "2022-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -279,9 +279,13 @@ XIX. Proporcionar información a la ciudadanía para enfrentar los problemas der
 
 XX. Apoyar la organización, sistematización y el intercambio de experiencias exitosas, investigación académica y aplicación práctica de conocimientos basados en evidencias en el combate al delito;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE AGOSTO DE 2022)</small>
 
-XXI. Las demás atribuciones específicas que se establezcan en esta Ley.
+XXI. Ejecutar los acuerdos del Consejo de manera inmediata, respecto de las solicitudes de medidas de seguridad y protección establecidas en el artículo 61 de la Constitución Política del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE AGOSTO DE 2022)</small>
+
+XXII. Las demás atribuciones específicas que se establezcan en esta Ley.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2022)</small>
 
@@ -437,13 +441,17 @@ XXI. Integrar un sistema de seguimiento y evaluación de las actividades realiza
 
 XXII. Crear comisiones o grupos de trabajo para el apoyo de sus funciones;
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2022)</small>
 
-XXIII. Establecer como política pública específica, el Mando Único, respetando en todo momento lo preceptuado en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; la Ley General del Sistema Nacional de Seguridad Pública y demás ordenamientos aplicables en la materia; y
+XXIII. Establecer como política pública específica, el Mando Único, respetando en todo momento lo preceptuado en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; la Ley General del Sistema Nacional de Seguridad Pública y demás ordenamientos aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE AGOSTO DE 2022)</small>
 
-XXIV. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
+XXIV. Conocer, analizar y resolver las solicitudes de medidas de seguridad y protección establecidas en el artículo 61 de la Constitución Política del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE AGOSTO DE 2022)</small>
+
+XXV. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
 
 ###### Artículo 15.
 
@@ -2624,3 +2632,19 @@ P.O. 4 DE JULIO DE 2022.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 159.- SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO), Y SE REFORMAN LOS ARTÍCULOS 7° FRACCIÓN XXI Y 14 FRACCIONES XXIII Y XXIV; Y SE ADICIONA UNA FRACCIÓN XXII DEL ARTÍCULO 7° Y LA FRACCIÓN XXV AL ARTÍCULO 14 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+
+###### ARTICULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el Articulo 94 de la Constitución Política del Estado de Aguascalientes, el presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Tratándose de las reformas y adiciones realizadas a la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, las medidas de seguridad y protección a que hace referencia el párrafo tercero del artículo 61 de la Constitución, deberán ser decretadas por el Consejo del Sistema Estatal de Seguridad Pública, cuando menos 15 días antes de la finalización del encargo ostentado por el servidor público de que se trate.
+
+###### ARTICULO TERCERO.
+
+El Consejo del Sistema Estatal de Seguridad Publica deberá emitir, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la normatividad necesaria para dar cumplimiento al mismo.
