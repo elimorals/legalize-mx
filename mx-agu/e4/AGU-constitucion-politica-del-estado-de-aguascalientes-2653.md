@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2022-07-18"
+last_updated: "2022-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -1547,23 +1547,47 @@ V.- La Ley establecerá los casos en que proceda la impugnación de las resoluci
 
 VI.- Los agentes del Ministerio Público estarán sujetos a un sistema profesional de carrera en los términos de la normativa que al efecto se expida.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 61.
 
-Las instituciones de seguridad públicas serán de carácter civil, disciplinado y profesional. El Ministerio Público, las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública que estará sujeto a las siguientes bases:
+Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público, las instituciones policiales del Estado y los Municipios deberán coordinarse entre sí para cumplir con los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y estará sujeto a las siguientes bases:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 I.- Sus integrantes deberán coordinarse con las instituciones policiales federales, en los términos de la legislación aplicable;
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 II.- Los integrantes de las instituciones de seguridad pública estatal estarán sujetos a un sistema de desarrollo policial que comprenderá los esquemas de servicio de carrera, profesionalización, certificación y su régimen disciplinario en los términos de la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 III.- Se deberá (sic) integrar y mantener actualizadas permanentemente las bases de datos criminalísticos y del personal de las instituciones de seguridad pública;
 
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 IV.- Se garantizará la formulación y ejecución de políticas públicas tendientes a prevenir la comisión de delitos, así como la participación social en los procesos de evaluación de dichas políticas de prevención del delito; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 V.- Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del Estado y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+
 Las autoridades estatales y municipales fortalecerán el sistema se seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes mediante un sistema complementario de seguridad social y de reconocimientos.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2022)</small>
+
+Es de interés público preservar la vida e integridad física de las personas titulares del Poder Ejecutivo Estatal, de la Fiscalía General del Estado, así como de las Presidencias Municipales del Estado, para lo cual se garantizarán, a través de las autoridades competentes, las medidas de seguridad y protección adecuadas y suficientes que determine el Consejo del Sistema Estatal de Seguridad Pública, durante el tiempo que duren en el encargo y por un periodo igual al tiempo en que se desempeñó el mismo. Las medidas de seguridad y protección a exfuncionarios podrán ser renunciables.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2022)</small>
+
+Para el caso de los demás funcionarios públicos que realicen actividades relacionadas con la seguridad pública, procuración e impartición de justicia, que asuman riesgos en el desempeño de sus atribuciones, el Consejo del Sistema Estatal de Seguridad Pública deberá considerar las medidas de seguridad y protección adecuadas y suficientes para su protección, ya sea de forma temporal o por todo el período que se permanezca en el ejercicio de su función, según las circunstancias del caso y respecto de la solicitud hecha por el funcionario público interesado.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2022)</small>
+
+Ningún servidor público podrá tener protección por dos cargos diversos, por lo tanto, cesará la protección si se es nombrado en uno nuevo que sea sujeto de protección.
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2011)</small>
 
@@ -3576,3 +3600,19 @@ P.O. 18 DE JULIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 159.- SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL Y DECRETO), Y SE REFORMAN LOS ARTÍCULOS 7° FRACCIÓN XXI Y 14 FRACCIONES XXIII Y XXIV; Y SE ADICIONA UNA FRACCIÓN XXII DEL ARTÍCULO 7° Y LA FRACCIÓN XXV AL ARTÍCULO 14 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el Articulo 94 de la Constitución Política del Estado de Aguascalientes, el presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Tratándose de las reformas y adiciones realizadas a la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, las medidas de seguridad y protección a que hace referencia el párrafo tercero del artículo 61 de la Constitución, deberán ser decretadas por el Consejo del Sistema Estatal de Seguridad Pública, cuando menos 15 días antes de la finalización del encargo ostentado por el servidor público de que se trate.
+
+###### ARTICULO TERCERO.
+
+El Consejo del Sistema Estatal de Seguridad Publica deberá emitir, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la normatividad necesaria para dar cumplimiento al mismo.
