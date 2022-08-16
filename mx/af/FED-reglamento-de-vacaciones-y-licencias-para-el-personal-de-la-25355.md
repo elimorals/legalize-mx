@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-vacaciones-y-licencias-para-el-personal-de-la-253
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-17"
-last_updated: "2018-07-17"
+last_updated: "2022-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25355&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-07-15"
 
 REGLAMENTO DE VACACIONES Y LICENCIAS PARA EL PERSONAL DE LA ARMADA DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 17 de julio de 2002.
 
@@ -53,7 +53,13 @@ I. Certificado de Vacaciones, Licencias y Operatividad: El documento expedido po
 
 II. Detall o Coordinación Administrativa: A las áreas adscritas en cada unidad o establecimiento naval autorizada en términos de las disposiciones jurídicas aplicables para expedir, entre otros documentos, los Oficios de Vacaciones, y Licencias y el Certificado de Vacaciones, Licencias y Operatividad;
 
-III. Días de Destaque: Son los días en que el personal naval permanece fuera de su puerto base, a fin de cumplir con una Orden de Operaciones;
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
+
+III. Destaque Operativo: Son los días en que el personal naval permanece realizando sus funciones, a fin de cumplir con una Orden de Operaciones;
+
+> <small>(ADICIONADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
+
+III Bis. Destaque Técnico: Son los días en que el Personal Comisionado, en apoyo al cumplimiento de las Órdenes de Operaciones, se encuentra realizando, entre otras actividades, la construcción, reparación, renovación y actualización de infraestructura; las obras de ingeniería; de investigación hidrográfica y meteorológica; de protección y preservación del medio ambiente marino, y de inspección, supervisión, fiscalización y auditoría de recursos humanos, materiales y financieros;
 
 IV. Días Hábiles: De lunes a viernes, sin considerar sábados, domingos y días festivos señalados por el calendario oficial;
 
@@ -67,7 +73,11 @@ En el Oficio de Licencia se anotará el tiempo autorizado y la fecha en que empi
 
 VIII. Oficio de Vacaciones: El documento expedido por el Detall o la Coordinación Administrativa y firmado por el Mando o titular de la unidad o establecimiento naval correspondiente, mediante el cual se autoriza al personal naval disfrutar de vacaciones y deberá señalar las fechas de inicio, término y lugar o lugares en que disfrutará el citado beneficio, así como la obligación del personal naval de proporcionar un medio de comunicación para su localización;
 
-IX. Operatividad: Es el tiempo en que el personal naval se encuentra realizando sus funciones en unidades operativas a que se refiere el artículo 20 de la Ley Orgánica de la Armada de México para el cumplimiento de las Órdenes de Operaciones, a través de Singladuras, Días de Destaque, horas de vuelo y horas de inmersión. Para estos efectos, la comprobación, cómputo y certificación de dicho tiempo será con base en las directivas que para tal efecto emita el Jefe del Estado Mayor General de la Armada por acuerdo del Secretario de Marina y no podrán ser acumulables de un Semestre a otro;
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
+
+IX. Operatividad: Es el tiempo en que el personal naval se encuentra realizando las actividades de Singladuras, Destaque Operativo, Destaque Técnico, horas de vuelo y de inmersión y en Unidades Navales de Protección Portuaria.
+
+Para efectos del párrafo anterior, la comprobación, cómputo y certificación de dicho tiempo será con base en las directivas que para tal efecto emita, conforme a la Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México, la persona titular de la Jefatura del Estado Mayor General de la Armada por acuerdo de la persona titular de la Secretaría de Marina;
 
 X. Orden de Operaciones: Son aquellas que ejecuta el personal naval para el cumplimiento de la misión y atribuciones de la Armada de México;
 
@@ -75,7 +85,9 @@ XI. Personal Administrativo: El que presta sus servicios en unidades y estableci
 
 XII. Personal Comisionado: Al personal naval que se encuentra prestando temporalmente sus servicios en una unidad o establecimiento naval, distinto al que se encuentra adscrito, así como en otra dependencia o institución federal, estatal, municipal o en el extranjero;
 
-XIII. Personal Operativo: Al personal naval que se encuentra adscrito o comisionado en las unidades operativas a que se refiere el artículo 20 de la Ley Orgánica de la Armada de México;
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
+
+XIII. Personal Operativo: Al personal naval que se encuentra adscrito o comisionado en las unidades operativas a que se refiere la Sección I del Capítulo III del Título Segundo de la Ley Orgánica de la Armada de México, y el artículo 3, fracción IV, del Reglamento Interior de la Secretaría de Marina;
 
 XIV. Semestre: Del 1 de enero al 30 de junio, o del 1 de julio al 31 de diciembre, según corresponda, y
 
@@ -119,25 +131,41 @@ El personal naval podrá disfrutar del número de días de vacaciones a que teng
 
 El personal naval podrá disfrutar de vacaciones de enero a diciembre en los siguientes términos:
 
-I.- Por el tiempo de servicio prestado en la Armada de México:
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
-A. 20 días por 1 a 19 años;
+I.- De acuerdo con su tiempo en el servicio activo de la Armada de México, conforme a lo siguiente:
 
-B. 21 días por 20 a 24 años;
+a) Al que le sea otorgada la condecoración de perseverancia de sexta clase, se le concederán dos días adicionales de vacaciones a los veinte días que por ley le corresponden disfrutar, y estos serán de manera permanente, y
 
-C. 22 días por 25 a 29 años;
+b) Después de los diez años de servicio y cada que cumpla un quinquenio adicional en el servicio activo de la Armada de México y le sea otorgada la condecoración por perseverancia correspondiente a sus años de servicio, le será adicionado un día de vacaciones de manera permanente por cada cinco años hasta cumplir los cuarenta años en el servicio activo, salvo lo previsto en el numeral 2 del párrafo segundo de este inciso que serán dos días adicionales.
 
-D. 23 días por 30 a 34 años, y
+Con base en lo anterior, los días autorizados a que tendrá derecho el personal naval para disfrutar de vacaciones quedarán de la manera siguiente:
 
-E. 24 días por 35 o más años;
+1. Veinte días de vacaciones a partir de uno a nueve años;
+
+2. Veintidós días de vacaciones a partir de los diez años de servicio activo y hasta los catorce años;
+
+3. Veintitrés días de vacaciones por quince años de servicio activo y hasta los diecinueve años;
+
+4. Veinticuatro días de vacaciones por veinte años de servicio activo y hasta los veinticuatro años;
+
+5. Veinticinco días de vacaciones por veinticinco años de servicio activo y hasta los veintinueve años;
+
+6. Veintiséis días de vacaciones por treinta años de servicio activo y hasta los treinta y cuatro años;
+
+7. Veintisiete días de vacaciones por treinta y cinco años de servicio activo y hasta los treinta y nueve años, y
+
+8. Veintiocho días por cuarenta o más años de servicio activo;
 
 II. (DEROGADA, D.O.F. 17 DE JULIO DE 2018)
 
 III. (DEROGADA, D.O.F. 17 DE JULIO DE 2018)
 
-> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
-IV. El personal naval que cause alta en el servicio activo de la Armada de México, al cumplir 6 meses y menos de un año, podrá disfrutar de 10 días de vacaciones y al cumplir el año disfrutará de otros 10 días de vacaciones, de acuerdo al inciso A de la fracción I de este artículo, y
+IV. El personal naval que cause alta en el servicio activo de la Armada de México, al cumplir seis meses y menos de un año, podrá disfrutar de diez días de vacaciones y al cumplir el año disfrutará de otros diez días de vacaciones.
+
+Asimismo, el personal naval que tenga más de un año de servicio activo en la Armada de México y no se encuentre en los supuestos previstos en la fracción I de este artículo, podrá disfrutar de veinte días de vacaciones por año de servicio activo, y
 
 > <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2018)</small>
 
@@ -177,15 +205,15 @@ II.- El rol de vacaciones para el año siguiente se formule durante los primeros
 
 III.- La organización y autorización de los periodos de vacaciones no afecte la capacidad operativa o administrativa de su unidad o establecimiento.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 13.
 
-El Alto Mando autorizará disfrutar de vacaciones al Subsecretario, Oficial Mayor, Inspector y Contralor General de Marina, Jefe del Estado Mayor General de la Armada, Mandos Superiores en Jefe, así como a los miembros de la Junta de Almirantes y Junta Naval.
+La persona titular del Alto Mando autorizará disfrutar de vacaciones a la persona titular de la Subsecretaría, a la persona titular de la Oficialía Mayor, a la persona titular de la Inspección y Contraloría General de Marina, a la persona titular de la Jefatura del Estado Mayor General de la Armada, a las personas titulares de los respectivos Mandos Superiores en Jefe, así como a las personas titulares que integran la Junta de Almirantes y la Junta Naval.
 
-Los agregados navales y personal naval que se encuentre en el extranjero, podrán disfrutar de vacaciones previa autorización del Jefe del Estado Mayor General de la Armada.
+Las personas titulares de las agregadurías navales y al personal naval que se encuentre en el extranjero, podrán disfrutar de vacaciones previa autorización de la persona titular de la Jefatura del Estado Mayor General de la Armada.
 
-El personal naval que se encuentre efectuando cursos y especialidades en el extranjero se sujetará al calendario escolar de sus respectivos planteles y hará uso de este beneficio con autorización del Jefe del Estado Mayor General de la Armada.
+El personal naval que se encuentre efectuando cursos y especialidades en el extranjero se sujetará al calendario escolar de sus respectivos establecimientos educativos y hará uso de este beneficio con autorización de la persona titular de la Jefatura del Estado Mayor General de la Armada, debiendo observar las disposiciones que, en su caso, emita la autoridad educativa naval.
 
 ###### Artículo 14.
 
@@ -193,9 +221,9 @@ Las vacaciones para el personal de los establecimientos educativos navales se co
 
 I.- Al personal directivo, docente y de servicios, de acuerdo a las disposiciones del presente Reglamento, y
 
-> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
-II.- Al personal de cadetes, alumnos de los diferentes niveles educativos, y becarios, conforme al calendario escolar que corresponda.
+II.- Los discentes de los diferentes niveles educativos, y becarios conforme al calendario escolar que corresponda. Únicamente en casos excepcionales, se autorizarán vacaciones fuera del calendario escolar, siempre y cuando sea justificado y se apruebe por la Universidad Naval.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
@@ -211,17 +239,29 @@ Las vacaciones podrán suspenderse por necesidades del servicio a juicio del Alt
 
 ### CAPÍTULO III. DE LAS LICENCIAS
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 17.
 
-Las Licencias que se conceden al personal naval son las establecidas en la Ley Orgánica de la Armada de México.
+Las Licencias que se conceden al personal naval conforme a la Ley Orgánica de la Armada de México, son las siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+I. Menor;
+
+II. Ordinaria;
+
+III. Extraordinaria;
+
+IV. Por enfermedad;
+
+V. Por edad límite, y
+
+VI. Ilimitada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 18.
 
-La Licencia menor se concede en términos de la Ley Orgánica de la Armada de México y será autorizada por el Mando o titular de la unidad o establecimiento al que pertenezca el personal naval, conforme a lo siguiente:
+La Licencia menor es aquella que el personal naval podrá solicitar anualmente, conforme a las fracciones de este artículo, en periodos de 24 a 72 horas como máximo cada vez que se solicite, con el fin de resolver asuntos personales inmediatos y se contabilizarán en Días Naturales. Esta Licencia será autorizada por las personas titulares de los Mandos, de las direcciones y de las unidades o establecimientos al que pertenezca o se encuentre destacado o comisionado el personal naval. Los días que podrán autorizarse para la Licencia menor serán conforme a lo siguiente:
 
 I.- Hasta 6 días para clases y marinería;
 
@@ -231,13 +271,17 @@ III.- Hasta 12 días para capitanes, y
 
 IV.- Hasta 15 días para almirantes.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 19.
 
-La Licencia ordinaria es aquella que se concede conforme lo establece la Ley Orgánica de la Armada de México y estará sujeta a las siguientes reglas:
+La Licencia ordinaria es aquella que se concede a partir de las 96 horas y hasta por seis meses, a solicitud del interesado, para resolver asuntos personales que requieren mayor tiempo que el que se concede para la Licencia menor, pero sin separarse del servicio activo y estará sujeta a lo siguiente:
 
-I.- De 96 horas hasta por 15 días será autorizada por el Alto Mando, Subsecretario, Oficial Mayor, Inspector y Contralor General de Marina, Jefe del Estado Mayor General de la Armada, Mandos Superiores en Jefe y Mandos Superiores a su personal subordinado;
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
+
+I.- De 96 horas hasta por 15 días será autorizada por el Alto Mando y las personas titulares de la Subsecretaría, de la Oficialía Mayor, de la Inspección y Contraloría General de Marina, de la Jefatura del Estado Mayor General de la Armada, de los Mandos Superiores en Jefe y de los Mandos Superiores a su personal subordinado;
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
 II.- De 16 días hasta por 6 meses será concedida por la Oficialía Mayor, a través de la Dirección General de Recursos Humanos.
 
@@ -255,81 +299,139 @@ C. Para el personal de Clases y Marinería con más de 2 años de servicios en l
 
 D. Para el personal contemplado en el inciso anterior que tenga menos de 2 años de servicios en la Armada de México 5 días;
 
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
+
 IV.- El personal naval femenino tendrá derecho a disfrutar de un mes anterior a la fecha probable del parto que se fijará de acuerdo con la consulta prenatal, y de dos meses posteriores al mismo para la atención del infante, sin perjuicio de los derechos establecidos en las fracciones anteriores. Esta Licencia podrá disfrutarse en donde la interesada lo solicite para lo cual se preverá lo necesario.
 
 > <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
 
 Este supuesto será autorizado por los servidores públicos mencionados en la fracción I de este artículo;
 
-V.- El personal naval masculino tendrá derecho a disfrutar de diez días hábiles con el fin de apoyar y acompañar a su cónyuge o concubina con motivo de la fecha probable del parto, sin perjuicio de los derechos establecidos en las fracciones anteriores.
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
+V.- El personal naval masculino tendrá derecho a disfrutar de diez Días Hábiles de Licencia con el fin de apoyar y acompañar a su cónyuge o concubina con motivo de la fecha probable del parto, o inmediatamente posterior a este; sin perjuicio de los derechos establecidos en las fracciones anteriores.
 
-Este supuesto será autorizado por los servidores públicos mencionados en la fracción I de este artículo, y
+Esta Licencia será autorizada por las personas servidoras públicas a que se refiere la fracción I de este artículo.
 
-> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2018)</small>
+La solicitud de la Licencia prevista en esta fracción deberá presentarse con un plazo de tres meses de anticipación a la fecha probable de parto, anexando a dicha solicitud el resumen clínico expedido por el establecimiento médico correspondiente.
 
-VI.- Al personal naval, sin perjuicio de los derechos establecidos en las fracciones anteriores, se le podrá conceder cinco Días Naturales por Semestre a quien acredite un mínimo de Operatividad en el Semestre anterior al que solicita esta Licencia, de acuerdo con lo siguiente:
+Si el personal naval no puede hacer uso de esta Licencia de forma inmediata debido a necesidades del servicio, se le otorgará una vez que haya desaparecido la causa que motivo su impedimento;
 
-A. Sesenta Singladuras;
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
-B. Días de Destaque:
+VI.- Al personal naval, sin perjuicio de los derechos establecidos en las fracciones anteriores, se le otorgarán cinco Días Naturales por Semestre, a quien acredite un mínimo de Operatividad de acuerdo con lo siguiente:
 
-1. Sesenta Días Naturales fuera de plaza, siempre y cuando no goce de franquicia, y
+a) Cuarenta Singladuras;
 
-2. Noventa Días Naturales fuera de plaza, cuando se encuentre sujeto a rutina normal de labores, y
+b) Por Destaque Operativo o Destaque Técnico:
 
-C. Noventa horas de vuelo o de inmersión.
+1. Cuarenta Días Naturales, siempre y cuando no goce de franquicia, y
 
-El tiempo de Operatividad previsto en los incisos del párrafo anterior no será acumulable para el siguiente Semestre y podrá otorgarse de manera individual o acumularse con los días de vacaciones que le correspondan.
+2. Sesenta Días Naturales fuera de plaza, cuando se encuentre sujeto a rutina normal de labores y disfrute de franquicia;
 
-> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 2018)</small>
+c) Sesenta horas de vuelo o de inmersión, y
 
-Al término de las Licencias a que se refieren las fracciones III, IV y V de este artículo, el personal naval, en un plazo no mayor a diez Días Hábiles, deberá entregar al Mando o titular de la unidad o establecimiento naval al que se encuentra adscrito, la documentación jurídica que acredita los supuestos previstos en dichas fracciones.
+d) Sesenta días naturales operando en Unidades Navales de Protección Portuaria. Para efectos de este inciso, las comandancias de dichas Unidades Navales serán las encargadas de elaborar los Certificados de Operatividad correspondientes considerando los roles y fatigas de servicios.
+
+Los cinco días de Licencia ordinaria por Operatividad se podrán conceder de manera individual o en conjunto con los días de vacaciones que le correspondan, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
+
+VII.- En todos los casos señalados en las fracciones anteriores, el personal naval, respecto de sus percepciones económicas, quedará sujeto a las consideraciones siguientes:
+
+a) Hasta por un mes, percibirá haberes, sobre haberes y demás percepciones económicas;
+
+b) Hasta por tres meses, percibirá únicamente haberes, y
+
+c) En las licencias mayores de tres meses, no percibirá haberes, sobre haberes, compensaciones, ni demás percepciones económicas.
+
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2022)</small>
+
+Al término de las Licencias a que se refieren las fracciones III y IV de este artículo, el personal naval, en un plazo no mayor a diez Días Hábiles, deberá entregar al Mando o persona titular de la unidad o establecimiento naval al que se encuentra adscrito, la documentación jurídica que acredita los supuestos previstos en dichas fracciones.
 
 > <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 2018)</small>
 
 Los días que se conceden para las Licencias previstas en este artículo se computarán en Días Naturales, con excepción de la Licencia a que se refiere la fracción V del primer párrafo, los cuales serán en Días Hábiles.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 20.
 
-La Licencia extraordinaria se concede en los términos de la Ley Orgánica de la Armada de México y será autorizada por el Alto Mando.
+La Licencia extraordinaria es aquella que se concede al personal para separarse temporalmente del servicio por un periodo de seis meses y un día hasta un año, y será autorizada por el Alto Mando.
 
-Al personal naval que se encuentre haciendo uso de esta Licencia para atender asuntos personales, se le deducirá el tiempo que dure tal situación de la antigüedad en el grado que ostente, por lo que a su término será reubicado en el escalafón a que pertenezca y quedará sujeto a lo previsto por la Ley de Ascensos de la Armada de México.
+Al personal naval que se le haya otorgado esta Licencia, se le deducirá el tiempo que dure tal situación de la antigüedad en el grado que ostente, por lo que a su término será reubicado en el escalafón a que pertenezca y quedará sujeto a lo previsto en la Ley de Ascensos de la Armada de México.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+La Licencia extraordinaria podrá otorgarse al personal naval por el tiempo que sea necesario, siempre y cuando sea para el desempeño de cargos de elección popular.
+
+El personal naval que solicite esta Licencia no percibirá haberes, sobre haberes, compensaciones, ni demás percepciones económicas, ni será ascendido mientras se encuentre gozando de la misma.
+
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 21.
 
-La Licencia por enfermedad se concede en los términos de la Ley Orgánica de la Armada de México.
+La Licencia por enfermedad se concederá cuando el personal naval requiere tratamiento médico o tiempo para recuperar su salud por presentar una enfermedad que le impida desempeñar su servicio de acuerdo al dictamen de la autoridad médica competente, hasta por seis meses y será concedida por la Oficialía Mayor, a través de la Dirección General de Recursos Humanos de la Secretaría.
 
-Esta Licencia será concedida por la Oficialía Mayor a través de la Dirección General de Recursos Humanos.
+La Licencia por enfermedad se dará por terminada cuando la persona interesada sea dada de alta o hasta que se expida el certificado de incapacidad permanente en términos de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
-> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+A quien se le conceda la Licencia por enfermedad únicamente percibirá haberes y sobre haberes.
+
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 21 Bis.
 
-La Licencia por edad límite se concede en los términos que establece la Ley Orgánica de la Armada de México y conforme a los lineamientos siguientes:
+La Licencia por edad límite es la que se concede al personal naval con veinte o más años de servicios efectivos, que estén próximos a ser colocados en situación de retiro por edad límite a que se refiere el artículo 25 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente:
 
-I.- El personal naval que requiera hacer uso de esta Licencia lo solicitará a la Oficialía Mayor, a través de la Dirección General de Recursos Humanos, con 30 días de antelación a la fecha de inicio que le corresponda;
+Años de Servicio
 
-II.- Si la petición se realiza de forma extemporánea, sólo hará uso del tiempo que le reste para cumplir la edad límite;
+Almirantes, Capitanes Clases y Marinería Duración de la Licencia
 
-III.- Será concedida por una sola ocasión y no interrumpirá su tiempo de servicios, y
+y Oficiales
 
-IV.- El que esté haciendo uso de este beneficio no será considerado para ascenso.
+25 AÑOS 20 AÑOS 3 MESES
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+26 AÑOS 22 AÑOS 4 MESES
+
+28 AÑOS 24 AÑOS 5 MESES
+
+30 AÑOS 25 AÑOS 6 MESES
+
+32 AÑOS 26 AÑOS 7 MESES
+
+34 AÑOS 27 AÑOS 8 MESES
+
+36 AÑOS 28 AÑOS 9 MESES
+
+38 AÑOS 29 AÑOS 10 MESES
+
+40 AÑOS 30 AÑOS 11 MESES
+
+42 O MÁS AÑOS 31 O MÁS AÑOS 12 MESES
+
+La Licencia por edad límite, además de lo previsto en el párrafo anterior, se sujetará a lo siguiente:
+
+I.- El personal naval que requiera hacer uso de esta Licencia lo solicitará a la Oficialía Mayor, a través de la Dirección General de Recursos Humanos de la Secretaría, con treinta días de antelación a la fecha de inicio que le corresponda;
+
+II.- Si la solicitud se realiza de forma extemporánea, sólo hará uso del tiempo que le reste para cumplir la edad límite;
+
+III.- Será concedida por una sola ocasión con goce de las percepciones que esté recibiendo el personal naval y no interrumpirá su tiempo de servicios, y
+
+IV.- El personal naval que esté haciendo uso de este beneficio no será considerado para ascenso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 22.
 
-La Licencia ilimitada se concede en los términos que establece la Ley Orgánica de la Armada de México, previa solicitud del interesado. Será autorizada por el Alto Mando conforme a las necesidades del servicio y de acuerdo a lo siguiente:
+La Licencia ilimitada es aquella que se concede para separarse del servicio activo por tiempo indefinido, previa solicitud del interesado y será autorizada por el Alto Mando conforme a las necesidades del servicio y de acuerdo a lo siguiente:
 
-I.- Ser de la milicia permanente, y
+I. (DEROGADA, D.O.F. 16 DE AGOSTO DE 2022)
+
+> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2014)</small>
 
 II.- Para el personal que haya efectuado estudios en establecimientos de la Armada de México o por cuenta de la misma en centros educativos nacionales o extranjeros, haber cumplido con el tiempo obligatorio de servicio que establece la Ley Orgánica de la Armada de México.
+
+> <small>(ADICIONADA, D.O.F. 16 DE AGOSTO DE 2022)</small>
+
+III.- Al personal naval que le sea concedida no percibirá haberes, sobre haberes, compensaciones, ni demás percepciones.
 
 ###### Artículo 23.
 
@@ -353,11 +455,11 @@ VI.- No haber transcurrido un periodo mayor de cinco años desde la fecha de su 
 
 VII.- Contar con la aprobación del Mando Supremo, cuando se trate de personal del grado de Capitán de Navío hasta Almirante.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 24.
 
-Las Licencias para los cadetes, becarios y alumnos de los diferentes niveles educativos de los establecimientos de educación naval, se concederán de acuerdo a lo dispuesto en el reglamento interno del plantel al que pertenezcan.
+Las Licencias para los cadetes, becarios y alumnos de los diferentes niveles educativos, se concederán de acuerdo con las disposiciones aplicables al establecimiento educativo naval al que pertenezcan. Asimismo, deberán observar las disposiciones extraordinarias que, en su caso, emita la autoridad educativa naval.
 
 ###### Artículo 25.
 
@@ -406,3 +508,13 @@ Las erogaciones que se generen con motivo de la entrada en vigor del presente De
 ###### ARTÍCULO TERCERO.
 
 El personal naval que previo a la entrada en vigor del presente Decreto cumplió o está cumpliendo con su Operatividad, tendrá derecho a disfrutar de la Licencia correspondiente, en términos del artículo 19, fracción VI del presente Decreto.
+
+D.O.F. 16 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE VACACIONES Y LICENCIAS PARA EL PERSONAL DE LA ARMADA DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación correspondiente, por lo que no se requerirán de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
+
+TERCERO. El personal naval que previo a la entrada en vigor del presente Decreto haya cumplido o esté cumpliendo con su Operatividad, tendrá derecho a disfrutar de la Licencia correspondiente, en términos del artículo 19, fracción VI, del presente Decreto.
