@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-organico-de-la-universidad-virtual-del-estado-de-84272
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-27"
-last_updated: "2018-09-25"
+last_updated: "2022-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84272&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2022.
 
 Estatuto publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el martes 27 de diciembre de 2011.
 
@@ -175,9 +175,7 @@ Participación de los Integrantes
 
 Tienen derecho a participar con voz y voto en las sesiones del Consejo todos sus integrantes o sus respectivos suplentes cuando los primeros no asistan.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
-
-Los miembros del Consejo a que se refieren las fracciones VI y VII del artículo 9 del Decreto de Creación, serán nombrados por el Gobernador a propuesta del Presidente del Consejo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE AGOSTO DE 2022)</small>
 
 Convocatoria de las sesiones
 
@@ -1794,3 +1792,17 @@ Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al
 Extensión de los efectos de nombramientos
 
 Artículo Segundo. Por única ocasión, acorde a lo estipulado en el presente Decreto Gubernativo, los nombramientos de los ciudadanos Presidente del Consejo Directivo y de los representantes de los sectores productivo y social del Estado, se amplían a cuatro años, contados a partir de la fecha de expedición de su último nombramiento.
+
+P.O. 16 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO 123, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE SIETE DECRETOS GUBERNATIVOS 30, 40, 58, 48, 127, 182 Y 193, A FIN DE HOMOLOGAR LAS PRESIDENCIAS DE LOS CONEJOS DIRECTIVOS EN LOS ORGANISMOS DESCENTRALIZADOS”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Instrumentación
+
+Artículo Segundo. A partir del inicio de vigencia, las personas consejeras ciudadanas que a la fecha presidían los Consejos Directivos del Instituto para las Mujeres Guanajuatenses, de Radio Televisión de Guanajuato, del Museo Iconográfico del Quijote, de la Universidad Virtual del Estado de Guanajuato, de la Comisión Estatal de Conciliación y Arbitraje Médico, y de la empresa de participación estatal del Gobierno del Estado de Guanajuato denominada «Parque Agro Tecnológico Xonotli», se integrarán como vocales en los respectivos consejos directivos y consejo de administración, hasta concluir el periodo por el que fueron designados.
+
+Se realizarán las designaciones que a fin de atender al artículo 48 párrafo segundo de la Ley Orgánica del Poder Ejecutivo, se determinan en el presente Decreto Gubernativo.
