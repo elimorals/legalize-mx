@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2022-08-08"
+last_updated: "2022-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1411,7 +1411,9 @@ XLIV.- Implementar medidas de seguridad sanitaria tendientes al control de la fa
 
 XLV.- Formular, conducir y evaluar la política ambiental municipal, en las que deberán incluirse:
 
-a) La creación y administración de zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por la legislación local;
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2022)</small>
+
+a) La creación y administración de zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por la legislación local, privilegiando el reúso y aprovechamiento de aguas residuales en el riego de los parques y jardines;
 
 b) La formulación y expedición de los programas de ordenamiento ecológico local del territorio, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos programas;
 
@@ -4488,6 +4490,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXVIII DEL ARTÍCULO 78, EL 215, EL 216, EL PRIMER PÁRRAFO DEL 225; Y SE DEROGA EL ARTÍCULO 218, TODOS DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO A) DE LA FRACCIÓN XLV DEL ARTÍCULO 78 DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
