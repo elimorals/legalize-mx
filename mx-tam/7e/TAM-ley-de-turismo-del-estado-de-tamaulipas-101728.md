@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2021-07-14"
+last_updated: "2022-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -879,13 +879,17 @@ VIII. Optimizar el uso del agua y energéticos en sus instalaciones, así como d
 
 IX. Inscribirse en el Registro Estatal de la Actividad Turística;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O.17 DE AGOSTO DE 2022)</small>
 
-X. Proporcionar a la Secretaría y demás autoridades en materia de turismo, la información y datos que se les requiera, con motivo del desempeño de sus funciones. Así mismo, deberá proporcionar a las autoridades estatales en materia de seguridad pública y procuración de justicia la información descrita en el artículo 72 BIS de esta Ley; y
+X. Proporcionar a la Secretaría y demás autoridades en materia de turismo, la información y datos que se les requiera, con motivo del desempeño de sus funciones. Así mismo, deberá proporcionar a las autoridades estatales en materia de seguridad pública y procuración de justicia la información descrita en el artículo 72 BIS de esta Ley;
+
+> <small>(ADICIONADA, P.O.17 DE AGOSTO DE 2022)</small>
+
+XI. Mantener actualizadas sus páginas electrónicas, con la finalidad de que contengan de manera detallada su ubicación, los servicios, costos, restricciones y demás aspectos que sean de interés para el turista; y
 
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XI. Las demás que se señalen en esta Ley y en la demás normatividad aplicable.
+XII. Las demás que se señalen en esta Ley y en la demás normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -1080,3 +1084,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O.17 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-177 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 72, FRACCIÓN X Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 72, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XI PARA SER XII DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
