@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2018-06-12"
+last_updated: "2022-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
 
@@ -123,13 +123,29 @@ VII.- Sustentabilidad: Preservación del equilibrio ecológico, protección del 
 
 VIII.- Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquiera otra, para superar toda condición de discriminación y promover un desarrollo con igualdad y respeto a las diferencias;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
 
-IX.- Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia; y
+IX.- Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
 
-X.- Perspectiva de género: Metodología que permite identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de mujeres y hombres, que se pretende justificar con base en las diferencias biológicas o culturales entre ambos.
+X.- Perspectiva de género: Metodología que permite identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de mujeres y hombres, que se pretende justificar con base en las diferencias biológicas o culturales entre ambos;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+XI.- Interés superior de la niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes, en los tratados internacionales aplicables de los que el Estado Mexicano sea parte, la Constitución Política del Estado de Tamaulipas y la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+XII.- Igualdad de oportunidades: La cual se refiere al acceso que deben tener todas las personas, para que puedan gozar de las mismas condiciones, posibilidades y oportunidades en los programas que se desprendan de las políticas públicas implementadas en materia de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+XIII.- Corresponsabilidad: Misma que guarda relación con la participación y responsabilidad que comparten, tanto las personas servidoras públicas como las personas beneficiarias, derivado de la ejecución de acciones enfocadas al desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+XIV.- Cohesión social: Se refiere a las relaciones de cooperación, organización y solidaridad que se fomentan, a través de acciones de desarrollo social, entre las personas y los diferentes grupos sociales, en especial, aquellos que son más vulnerables.
 
 ###### ARTICULO 6°.
 
@@ -822,3 +838,11 @@ P.O. 12 DE JUNIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No.65-174 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X; Y SE ADICIONAN LAS FRACCIONES XI, XII, XIII Y XIV AL ARTÍCULO 5 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
