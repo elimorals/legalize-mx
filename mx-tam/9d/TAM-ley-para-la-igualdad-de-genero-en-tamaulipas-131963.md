@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-131963"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-06"
-last_updated: "2018-12-06"
+last_updated: "2022-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
 
 Ley publicada al Número 147 del Periódico Oficial del Estado de Tamaulipas, el jueves 6 de diciembre de 2018.
 
@@ -255,7 +255,21 @@ c) Proporcionar información sobre el derecho de toda persona a decidir sobre el
 
 d) Promover la adopción de programas en las instituciones públicas estatales y municipales para lograr una mayor incorporación de las mujeres al trabajo remunerado y proyectos productivos, así como que en igualdad de oportunidades para su acceso al empleo, se aliente su contratación en aras de alcanzar el equilibrio entre géneros;
 
-e) Impulsar en las instituciones y organizaciones de los sectores público, social y privado, donde el número de mujeres trabajadoras sea menor al de los hombres, el derecho preferente de aquéllas a los beneficios de becas para la capacitación laboral, tanto en el Instituto Tamaulipeco de Capacitación para el Empleo como en cualquier otro que se establezca con recursos públicos;
+> <small>[N. DE E. VÉASE LA LITERALIDAD DE LA PUBLICACIÓN EN EL P.O. DE 17 DE AGOSTO DE 2022, PÁGINA 5.]</small>
+
+> <small>(ADICIONADO CON SUS FRACCIONES [N. DE E. REFORMADO], P.O. 17 DE AGOSTO DE 2022)</small>
+
+e) Se promoverá el otorgamiento anual de estímulos y certificados de igualdad a las empresas que desarrollen buenas prácticas de igualdad en contratación y asignaciones salariales.
+
+Para la expedición del certificado de igualdad a empresas se observará lo siguiente:
+
+I) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento;
+
+II) La integración de la plantilla laboral cuando ésta se componga de al menos el cuarenta por ciento de un mismo género, y el diez por ciento del total corresponda a mujeres que ocupen puestos directivos;
+
+III) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal; y
+
+IV) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
 
 f) Promover el ascenso y la contratación de mujeres para el desempeño de funciones de carácter directivo, con base en su preparación profesional, a fin de reflejar la igualdad de género en ese ámbito laboral;
 
@@ -974,3 +988,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los cinco días del mes de diciembre del año dos mil dieciocho.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-170 POR EL QUE SE ADICIONA EL INCISO E) AL PÁRRAFO 3 DEL ARTÍCULO 12 Y SE RECORREN LOS INCISOS SUBSECUENTES EN SU ORDEN NATURAL DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
