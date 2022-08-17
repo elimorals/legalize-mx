@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-atencion-de-los-zacatecanos-migrantes-y-sus-130413"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-29"
-last_updated: "2022-06-08"
+last_updated: "2022-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130413&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA ATENCIÓN DE LOS ZACATECANOS MIGRANTES Y SUS FAMILIAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el miércoles 29 de agosto de 2018.
 
@@ -129,7 +129,9 @@ Los presentes derechos se harán extensivos a las familias de los migrantes.
 
 Los migrantes y sus familiares, además de los derechos ya referidos, podrán:
 
-I. Acceder a los programas de desarrollo humano, social y económico;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+I. Acceder de manera oportuna y efectiva a los programas de desarrollo humano, social y económico; así mismo ejercer el derecho de participar en los programas para obtener recursos económicos que den impulso a sus comunidades de origen;
 
 II. Hacer uso de los servicios públicos que presta la Administración Pública Estatal y Municipal;
 
@@ -159,7 +161,9 @@ I. Atender las causas que originan la migración;
 
 II. Prevenir cualquier tipo de violación a los derechos humanos de los migrantes y sus familias;
 
-III. Fortalecer los lazos culturales y familiares entre la población migrante y sus comunidades de origen;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+III. Fortalecer, promover y respetar los valores y la diversidad cultural de los migrantes, sus familias y sus comunidades de origen; así como promover la interculturalidad;
 
 IV. Garantizar el acceso de la población migrante a los servicios básicos de salud, educación y demás que sean necesarios, a fin de que accedan a un desarrollo integral;
 
@@ -546,3 +550,11 @@ P.O. 8 DE JUNIO DE 2022.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan al presente Decreto
+
+P.O. 17 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 116.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 6 Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 7 DE LA LEY PARA LA ATENCIÓN DE LOS ZACATECANOS MIGRANTES Y SUS FAMILIAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
