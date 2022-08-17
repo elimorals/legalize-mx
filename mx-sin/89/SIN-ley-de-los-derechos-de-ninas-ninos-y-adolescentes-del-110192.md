@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2019-09-27"
+last_updated: "2022-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -649,11 +649,19 @@ El Gobierno del Estado incluirá en la iniciativa de Ley de Ingresos y Presupues
 
 VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia;
 
-VII. Establecer Acciones Afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria, orfandad o discapacidad de los padres o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
 
 VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
 
-IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes o que se encuentren en las situaciones de vulnerabilidad señaladas en la fracción VII del presente artículo.
+
+Las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, están obligadas a notificar a la Procuraduría de Protección, los casos de asistencia irregular, abandono o deserción escolar que se identifica respecto de los alumnos que cursen educación básica y media superior en los centros educativos del estado.
+
+Ante dicha notificación será aplicable el procedimiento establecido en el artículo 102 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes;
 
 X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
@@ -1780,3 +1788,11 @@ El Reglamento de dicha Ley incluirá como mínimo, los lineamientos y reglas de 
 CUARTO. La entrega de los uniformes, calzado deportivo y útiles escolares a que se refiere la Ley para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares del Estado de Sinaloa, aplicará a partir del ciclo escolar 2020-2021.
 
 Para garantizar la entrega de uniformes y útiles escolares del ciclo escolar 2019-2020 se estará a lo dispuesto por el Programa de Uniformes y Útiles Escolares emitido por el Poder Ejecutivo del Estado.
+
+P.O. 17 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO: 232 POR EL QUE “SE REFORMAN LAS FRACCIONES VII Y IX DEL ARTÍCULO 51, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
