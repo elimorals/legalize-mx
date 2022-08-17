@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-del-estado-y-municipios-de-zacatecas-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-14"
-last_updated: "2018-03-14"
+last_updated: "2022-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de marzo de 2018.
 
@@ -473,9 +473,15 @@ XXXVI. Certificar copia de los archivos generados por esta Coordinación Estatal
 
 XXXVII. Emitir opiniones de riesgo o no riesgo sobre desarrollos urbanos o cualquier construcción;
 
-XXXVIII. Revocar programas internos de Protección Civil autorizados por las Coordinaciones Municipales que hayan sido autorizados contradiciendo esta Ley y su Reglamento, y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
 
-XXXIX. Las demás que le atribuyan esta Ley y demás ordenamientos aplicables.
+XXXVIII. Revocar programas internos de Protección Civil autorizados por las Coordinaciones Municipales que hayan sido autorizados contradiciendo esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+XXXIX. Fungir como instancia de consulta para las dependencias y entidades de la administración pública estatal y municipales y, en su caso, para los sectores público y privado, que realicen programas relacionados con la protección civil y la gestión integral de riesgos, y
+
+XL. Las demás que le atribuyan esta Ley y demás ordenamientos aplicables.
 
 ### Capítulo V. Comité Estatal de Emergencias y Desastres de Protección Civil
 
@@ -1025,9 +1031,15 @@ VII. La promoción en los medios de comunicación y campañas de difusión sobre
 
 VIII. La creación de acervos de información técnica sobre problemáticas o riesgos específicos, que permitan a la población un conocimiento de los mismos;
 
-IX. La celebración de convenios, en materia de protección civil, con los sectores públicos, social, privado y académico, y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
 
-X. Las demás que señalen la presente Ley y su Reglamento.
+IX. La celebración de convenios, en materia de protección civil, con los sectores públicos, social, privado y académico;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+X. El impulso de programas dirigidos a la población en general que le permita conocer de forma clara mecanismos de prevención y autoprotección, y
+
+XI. Las demás que señalen la presente Ley y su Reglamento.
 
 ###### Artículo 74.
 
@@ -1530,3 +1542,13 @@ DADO en la Sala de Sesiones de la Honorable Legislatura del Estado, a los treint
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el despacho del Poder Ejecutivo del Estado, a los veintidós días del mes de febrero del año dos mil dieciocho. GOBERNADOR DEL ESTADO DE ZACATECAS.- ALEJANDRO TELLO CRISTERNA. SECRETARIA GENERAL DE GOBIERNO.- FABIOLA GILDA TORRES RODRÍGUEZ. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 103.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LE (SIC) LEY DE PROTECCIÓN CIVIL DEL ESTADO Y MUNICIPIOS DE ZACATECAS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
