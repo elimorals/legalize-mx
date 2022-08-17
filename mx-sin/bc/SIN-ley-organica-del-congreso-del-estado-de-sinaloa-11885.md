@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2021-10-04"
+last_updated: "2022-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SIN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -745,6 +747,10 @@ El informe solo podrá ser aprobado con el voto de las dos terceras partes de lo
 
 La Junta de Coordinación Política vigilará que la información presupuestal a que se refieren los numerales anteriores sea actualizada mensualmente.
 
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+
+VIII Bis. Solicitar a la Auditoría Superior del Estado la realización de auditorías específicas en términos de lo establecido en la Ley de la Auditoría Superior del Estado de Sinaloa;
+
 IX. Dirigir y vigilar la prestación de los servicios internos necesarios para el eficaz cumplimiento de las funciones del Congreso;
 
 X.- Conducir, coordinar, controlar y evaluar las funciones de la Secretaría General;
@@ -941,17 +947,29 @@ Las Comisiones Permanentes, además de lo establecido en el artículo anterior, 
 
 I.- La Comisión de Puntos Constitucionales y Gobernación atenderá todos los asuntos correspondientes a las reformas constitucionales, a la seguridad pública, así como los relacionados con la expedición de Leyes;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE AGOSTO DE 2022)</small>
 
 II.- La Comisión de Fiscalización, en los términos que establece la Ley de la Auditoría Superior del Estado:
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
+
 a) Atenderá lo relacionado a la revisión y fiscalización de las cuentas públicas;
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
 b) Propondrá el nombramiento del Auditor Superior del Estado y revisará su informe anual así como su programa de trabajo;
 
-c) Establecerá los criterios generales para la organización y el funcionamiento de la Auditoría Superior del Estado; y
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2022)</small>
 
-d) Conocerá de procedimientos de responsabilidades que instruya el órgano fiscalizador.
+c) Establecerá los criterios generales para la organización y el funcionamiento de la Auditoría Superior del Estado;
+
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2022)</small>
+
+d) Conocerá de procedimientos de responsabilidades que instruya el órgano fiscalizador; y
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2022)</small>
+
+e) Solicitar a la Auditoría Superior del Estado la realización de auditorías específicas en términos de lo establecido en la Ley de la Auditoría Superior del Estado de Sinaloa;
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
 
@@ -2666,3 +2684,23 @@ P.O. 4 DE OCTUBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 231 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA AUDITORÍA SUPERIOR Y LEY ORGÁNICA DEL CONGRESO, AMBAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 2023, previa su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos iniciados por las autoridades de la Auditoría Superior del Estado con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio, salvo lo relativo al ejercicio fiscal del año 2021 cuyos informes general (sic) e informes individuales deberán ser presentados el día 30 de septiembre de 2022 y el Congreso del Estado, por única ocasión deberá terminar la revisión de dicha cuenta pública, a más tardar, el día 31 de enero del año 2023, de conformidad con los artículos segundo y tercero transitorio del Decreto 197, por el que se reforman y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de fiscalización.
+
+###### ARTÍCULO CUARTO.
+
+La Auditoría Superior del Estado deberá realizar las modificaciones pertinentes a su Reglamento Interior y demás normatividad aplicable derivadas del presente Decreto a más tardar el día primero de enero de 2023.
