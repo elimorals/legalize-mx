@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2022-06-08"
+last_updated: "2022-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1221,13 +1221,9 @@ Igual pena se impondrá a las partes interesadas en un negocio civil que de com�
 
 ### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+167.- (DEROGADO, P.O. 17 DE AGOSTO DE 2022)
 
-167.- Al que dolosamente cometa un delito en contra de un funcionario público o agente de la autoridad en el acto de ejercer sus funciones o con motivo de ellas, se le aplicarán de uno a tres años de prisión y multa de veinte a cuarenta cuotas, además de las sanciones que le correspondan por el delito o los delitos cometidos.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-168.- Los ultrajes hechos a la Legislatura, al Tribunal Superior de Justicia o algún cuerpo colegiado de la administración de justicia o a cualquiera institución pública, se sancionarán con prisión de uno a tres años y multa de cincuenta a cien cuotas.
+168.- (DEROGADO, P.O. 17 DE AGOSTO DE 2022)
 
 ### CAPITULO V. TERRORISMO
 
@@ -2353,9 +2349,9 @@ Para los efectos del párrafo anterior, el Ministerio Público se pronunciará, 
 
 ### CAPITULO VIII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2022)</small>
 
-254 Bis.- Violencia familiar es el uso del poder, de la fuerza física o moral, así como la omisión grave, de manera reiterada, en contra de un miembro de la familia por otro integrante de la misma, con la intención de someterla a su dominio, o de dañar su integridad física, psíquica, sexual, económica o patrimonial, independientemente de que pueda o no causar lesiones, o de que resulte cualquier otro delito.
+254 Bis.- Violencia familiar es el uso del poder, de la fuerza física o moral, así como la omisión grave, en contra de un miembro de la familia por otro integrante de la misma, con la intención de someterla a su dominio, o de dañar su integridad física, psíquica, sexual, económica o patrimonial, independientemente de que pueda o no causar lesiones, o de que resulte cualquier otro delito.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -4234,5 +4230,13 @@ P.O. 8 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 798.- SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
 
 Artículo primero. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 114.- SE REFORMAN Y DEROGAN ALGUNOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
