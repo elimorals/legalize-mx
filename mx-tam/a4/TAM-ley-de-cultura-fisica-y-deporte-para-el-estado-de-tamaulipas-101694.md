@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2020-12-17"
+last_updated: "2022-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -140,6 +140,90 @@ XII. La no discriminación de los deportistas con discapacidad, siempre que las 
 > <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
 
 XIII. Fortalecer la interacción e integración de la sociedad para el desarrollo de aptitudes físicas e intelectuales que fomenten los valores y principios.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 4 BIS.
+
+Son derechos de los deportistas en el Estado:
+
+I. Practicar los deportes de su elección, utilizando adecuadamente las instalaciones deportivas propiedad del Estado o de los municipios, en los términos de esta Ley;
+
+II. Defender sus derechos en la práctica del deporte, mediante la libre asociación;
+
+III. Recibir, en los términos de la presente Ley y su reglamento, las facilidades para su reconocimiento, incorporación y promoción en los diversos niveles y modalidades del sistema educativo estatal, tratándose de talentos deportivos o deportistas de alto rendimiento;
+
+IV. Recibir asistencia médica y entrenamiento deportivo en competencias, juegos o eventos deportivos reglamentarios u oficiales, tratándose de seleccionados estatales;
+
+V. Participar responsablemente en competencias, juegos o eventos deportivos reglamentarios u oficiales, respectivamente, en el marco del Sistema;
+
+VI. Utilizar, con los accesos y adecuaciones pertinentes, las instalaciones y equipos deportivos, tratándose de personas con discapacidad y adultos mayores;
+
+VII. Participar en las consultas a que se convoque para la elaboración del Programa, así como de los programas y reglamentos de su especialidad;
+
+VIII. Desempeñar los cargos para los que hayan sido elegidos en asambleas de clubes, ligas, consejos deportivos, asociaciones o federaciones deportivas legalmente constituidas;
+
+IX. Solicitar y recibir, en su caso, estímulos, becas, premios, reconocimientos y recompensas en dinero o en especie;
+
+X. Solicitar y recibir, en su caso, autorización o permiso de la autoridad educativa para ausentarse temporalmente de sus actividades académicas para realizar la práctica deportiva, siempre y cuando no obstaculice de manera irreparable su desempeño académico; y
+
+XI. Recibir, en los términos de la presente Ley y su reglamento, un seguro de gastos médicos mayores, tratándose de seleccionados estatales; y
+
+XII. Los demás derechos que le otorgue la presente Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 4 TER.
+
+Para efecto de esta Ley, se consideran deportistas con discapacidad a aquellas personas que practican algún deporte y que viven con alguna deficiencia anatómica, cognitiva, fisiológica o sensorial, de carácter permanente o temporal, que puede ser agravada por el entorno económico y social y que limita su capacidad para ejercer una o más actividades esenciales de la vida cotidiana.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 4 QUÁTER.
+
+Son derechos de deportistas con discapacidad los siguientes:
+
+I. Ser tratados de manera igualitaria y con respeto a los demás deportistas;
+
+II. Tener acceso a las actividades recreativas y deportivas, además de fomentar el desarrollo de sus capacidades;
+
+III. Recibir acondicionamiento y entrenamiento libre en condiciones culturales, sociales y de infraestructura básica;
+
+IV. Acceder con igualdad y equidad a capacitación, entrenamiento y acondicionamiento deportivo en los diversos rubros y categorías deportivas;
+
+V. Tener garantizada la igualdad de oportunidades y apoyo para la participación en procesos de selección deportiva y competitividad en el deporte adaptado;
+
+VI. Desarrollar plenamente sus aptitudes deportivas y a gozar de una vida digna en su desarrollo personal y desempeño deportivo;
+
+VII. Ejercer con responsabilidad el desempeño de su actividad deportiva, con base en los lineamientos en la materia;
+
+VIII. Ser sujetos y beneficiarios de los programas de desarrollo deportivo, asistencia social y humano (sic) por medio de las autoridades responsables en el ámbito deportivo;
+
+IX. Contar con la accesibilidad que les permita desplazarse libremente y con seguridad; y
+
+X. Las demás que establezcan las normas jurídicas aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 4 QUINQUIES.
+
+Son obligaciones de los deportistas en el Estado:
+
+I. Desempeñar atendiendo a sus capacidades la actividad física y deportiva de su preferencia;
+
+II. Cumplir cabalmente con los estatutos y reglamentos de su deporte o especialidad;
+
+III. Asistir a las competencias deportivas de su especialidad, en los casos que sea requerido, tratándose de deportistas registrados;
+
+IV. Comunicar inmediatamente y por escrito al Instituto, cuando tenga interés de formar parte de las organizaciones o clubes deportivos profesionales, de conformidad con el reglamento respectivo;
+
+V. Representar a su municipio, estado y país, en los eventos deportivos a que sea convocado;
+
+VI. Cuidar y procurar la conservación y el mantenimiento de las instalaciones y equipo relacionados con su deporte;
+
+VII. Fomentar la práctica del deporte y especialización, así como la promoción del deporte adaptado en todas sus formas y medios a su alcance; y
+
+VIII. Las demás obligaciones que le señale la presente Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -1514,3 +1598,11 @@ P.O. 17 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-169 MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 4 BIS; 4 TER; 4 QUÁTER; 4 QUINQUIES, A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
