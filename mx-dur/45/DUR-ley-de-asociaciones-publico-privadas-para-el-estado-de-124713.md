@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-asociaciones-publico-privadas-para-el-estado-de-124713"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-23"
-last_updated: "2017-11-23"
+last_updated: "2022-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de noviembre de 2017.
 
@@ -119,17 +119,29 @@ XVI.- Promotor: Toda persona física o moral que promocionen un proyecto de Asoc
 
 XVII.- UMA: Unidad de Medida y Actualización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 3.
 
-Esquemas de las Asociaciones Público Privadas.
+Esquema de las Asociaciones Público Privadas.
 
-Para los efectos de la presente ley, entre las Asociaciones Público Privadas quedan comprendidos los siguientes esquemas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE AGOSTO DE 2022)</small>
+
+Para los efectos de la presente ley, entre las Asociaciones Público Privadas quedan comprendidos, entre otros, los siguientes esquemas:
 
 I.- La prestación de servicios mediante una relación contractual de largo plazo entre instancias del sector público y el privado, que involucren recursos de varios ejercicios fiscales, y en los que se utilice infraestructura proporcionada total o parcialmente por el sector privado con el objetivo de aumentar el bienestar social y los niveles de inversión en el Estado o sus Municipios;
 
 II.- Las asociadas a proyectos de infraestructura que impliquen inversión a largo plazo y amortización programada, en los cuales el contratista se obligue desde la ejecución de la obra, su puesta en marcha, mantenimiento y operación de la misma, y
 
 III.- Las realizadas para desarrollar proyectos de Inversión pública productiva, investigación aplicada y/o de innovación tecnológica.
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2022)</small>
+
+IV.- Las asociaciones público privadas reguladas en esta Ley, pueden adoptar la modalidad de aprovechamiento de activos, esquema en el que se pacta que un determinado bien inmueble o conjunto de éstos, afectos o no a la prestación de un servicio público, podrán ser aportados por el Ente Público Contratante para el desarrollo de un proyecto a cambio de un aprovechamiento, y respecto de los cuales el Desarrollador adquiere la obligación de equiparlos, rehabilitarlos, mantenerlos o acondicionarlos, por lo que recibirá a cambio una contraprestación por el pago de los servicios y amortización del equipamiento y rehabilitación, conforme a lo que se establezca en el contrato respectivo. Los proyectos que se formulen bajo esta modalidad podrán abarcar la prestación de servicios, en cuyo caso se tratará de esquemas mixtos; y
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2022)</small>
+
+V.- Esquemas mixtos, que implican una combinación de dos o más de los esquemas anteriores.
 
 Los proyectos de Asociación Público Privada deberán estar plenamente justificados a través del Análisis Costo Beneficio correspondiente.
 
@@ -389,6 +401,26 @@ Condiciones para la prestación del servicio.
 
 Los permisos, licencias o concesiones que, en su caso, sea necesario otorgar para un proyecto conforme a la fracción II del artículo anterior, contendrán las condiciones indispensables que conforme a las disposiciones que los regulen, permitan al Desarrollador prestar el servicio objeto del proyecto.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE AGOSTO DE 2022)</small>
+
+Asimismo, cuando en un proyecto de asociación público privada el uso o explotación de bienes públicos o la prestación de los servicios por parte del Desarrollador requiera de permisos, concesiones u otras autorizaciones estatales, éstos se otorgarán conforme a las disposiciones estatales que los regulen, con las salvedades siguientes:
+
+> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2022)</small>
+
+I. Su otorgamiento se realizará mediante el procedimiento de licitación previsto en la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 18 DE AGOSTO DE 2022)</small>
+
+II. La vigencia de cada una de las autorizaciones para la prestación de los servicios se sujetará a lo siguiente:
+
+a) Cuando el plazo inicial máximo que establezca la ley que regula la autorización sea menor o igual al plazo de cuarenta años, aplicará este último;
+
+b) Cuando la ley que rige la autorización establezca un plazo inicial máximo mayor al de cuarenta años, aplicará el plazo mayor;
+
+c) Cuando la ley que rige la autorización no establezca un plazo mínimo o máximo, aplicará el plazo previsto en el artículo 94 de la presente Ley; e
+
+d) Independientemente del plazo inicial por el que se otorgue la autorización, su duración, con las prórrogas que en su caso se otorguen conforme a la ley de la materia, no podrá exceder el plazo máximo señalado por dicha ley.
+
 ###### Artículo 31.
 
 Contratación de los trabajos o servicios.
@@ -484,6 +516,18 @@ Los efectos del Registro Público Único son solamente declarativos e informativ
 Condición de la inscripción.
 
 El inicio del servicio de construcción u operación del proyecto de Asociación Pública Privada correspondiente, estará condicionado a la inscripción de dichas obligaciones en el Registro Público Único.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2022)</small>
+
+###### Artículo 38 Bis.
+
+Modificación de la Inscripción de las obligaciones.
+
+En los supuestos en los que el Ente Público Contratante requiera hacer modificaciones al contrato conforme a lo señalado en la presente Ley, deberá solicitar previamente la autorización del Congreso para llevar a cabo dichas modificaciones en caso de que las mismas involucren recursos presupuestales adicionales a los previamente autorizados, o bien, dichas modificaciones tengan como consecuencia algún incremento en el monto o plazo, cambio de destino de los recursos, o con relación a la afectación de participaciones, aportaciones federales o ingresos locales como fuente de pago directa, alterna o garantía, previamente autorizados por el Congreso.
+
+En el caso de incremento en el monto de la contraprestación o plazo del contrato no se requerirá realizar un nuevo proceso competitivo, siempre y cuando, se demuestre que, continuar con el contrato respectivo representa las mejores condiciones de mercado en términos de la presente Ley y su Reglamento, entendiéndose como mejores condiciones de mercado el costo financiero más bajo de acuerdo a la metodología que determine la Secretaría de Finanzas y de Administración del Estado en el respectivo Reglamento. En el caso del incremento de la contraprestación también se deberá cumplir con lo establecido en el artículo 91 de esta Ley.
+
+Realizadas las modificaciones correspondientes al contrato, el Ente Público Contratante deberá solicitar la modificación de la obligación previamente inscrita en el Registro Estatal de Deuda Pública y en el Registro Público Único, en términos de lo dispuesto en la Ley de Deuda del Estado de Durango y sus Municipios, así como en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VIII. COMITÉ DE ANÁLISIS Y EVALUACIÓN
 
@@ -1121,7 +1165,9 @@ El Desarrollador será el responsable de realizar directamente o por conducto de
 
 La realización de esas actividades, su programa, características y especificaciones técnicas no constituirán el objeto del contrato, pero serán regulados en el mismo a fin de asegurar que el servicio contratado sea prestado con la oportunidad, calidad, suficiencia y demás condiciones pactadas.
 
-En los términos y condiciones establecidos en las bases de la licitación, el Ente Público Contratante podrá aportar, en bienes, derechos, capital o cualquier otra forma, recursos para la ejecución de la obra y la prestación de los servicios.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2022)</small>
+
+El ente público contratante podrá aportar, en bienes, derechos, capital o cualquier otra forma, recursos para la ejecución de la obra y la prestación de los servicios.
 
 El Contrato establecerá claramente cuáles de esas actividades serán responsabilidad exclusiva del Desarrollador, y cuales estarán a cargo del Ente Público Contratante, así como aquéllas que serán compartidas por ambas partes.
 
@@ -1158,6 +1204,28 @@ La adquisición correspondiente quedará sujeta a las disposiciones legales y pr
 Bienes y derechos.
 
 Los bienes y derechos incorporados a la infraestructura, o los necesarios para la prestación de los servicios del proyecto, no podrán ser enajenados, hipotecados, gravados o de cualquier manera afectarse, sin previa autorización expresa y por escrito del Ente Público Contratante, la cual no podrá negarse salvo por causa justificada.
+
+> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2022)</small>
+
+###### Artículo 83 Bis.
+
+Prestaciones Exigibles.
+
+En caso de que así lo permita la rentabilidad del proyecto durante su estructuración o su ejecución, el Ente Público Contratante podrá exigir al Desarrollador, con independencia de lo que señalen otras disposiciones aplicables, alguna o algunas de las prestaciones siguientes:
+
+I. El reembolso del valor de los inmuebles, bienes y derechos aportados por las Dependencias o Entidades del sector público, utilizados en el proyecto o bien el pago de una contraprestación por la aportación de dichos activos;
+
+II. El reembolso de las cantidades por concepto de remanentes y otros rubros en la forma y términos que se establezcan en el contrato;
+
+III. El pago de derechos por la supervisión y vigilancia de la ejecución de la obra o de la prestación de los servicios, previstos en las disposiciones legales aplicables; o
+
+IV. Cualquier otra que las partes estipulen en el contrato.
+
+Los seguros que el Desarrollador deberá contratar y mantener vigentes cubrirán, por lo menos, los riesgos a que estén expuestos los usuarios, la infraestructura y todos los bienes afectos al servicio, así como los de responsabilidad civil.
+
+Para estos efectos, el Desarrollador contratará con una empresa especializada, previamente aprobada por el Ente Público Contratante, la elaboración de un estudio de riesgos, coberturas, indemnizaciones, montos mínimos, vigencia y demás términos y condiciones de los seguros.
+
+Dicho estudio servirá de base para que las partes acuerden las características y alcances de tales seguros.
 
 ### CAPÍTULO IV. DE LA RESCISIÓN Y TERMINACIÓN ANTICIPADA
 
@@ -1287,15 +1355,19 @@ Toda modificación a un proyecto de asociación público privada deberá constar
 
 En casos de urgencia o aquellos en que se ponga en riesgo la seguridad de los usuarios, el Ente Público Contratante podrá solicitar por escrito al Desarrollador que lleve a cabo las acciones que correspondan, aún antes de la formalización de las modificaciones respectivas.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 94.
 
-Prórroga.
+Plazos y Prórrogas.
 
-Previo al vencimiento de la vigencia original del contrato, las partes podrán acordar prórrogas y, en su caso, revisar las condiciones del contrato.
+Los plazos de los contratos, con sus prórrogas, no deberán exceder, en su conjunto, de cuarenta años, salvo lo dispuesto por el artículo 30, fracción II, de esta Ley.
 
-Para efectos del otorgamiento de las prórrogas el Ente Público deberá considerar cualquier cambio en las condiciones materiales, tecnológicas y económicas, bajo las cuales se lleva a cabo la prestación de los servicios, a fin de determinar si es pertinente el otorgamiento de la prórroga, o en su caso la convocatoria a una nueva licitación.
+Previo al vencimiento de la vigencia original del contrato, las partes podrán acordar ampliaciones de plazo o prórrogas y, en su caso, revisar las condiciones del contrato. En los supuestos establecidos en el artículo 38 Bis, se requerirá previamente la autorización del Congreso.
 
-En dicho plazo también podrán solicitarse las prórrogas a los permisos, licencias o concesiones para la prestación de los servicios relativos al proyecto de asociación público privada, independientemente de lo que señalen las disposiciones que los regulen.
+Para efectos del otorgamiento de las ampliaciones de plazo o prórrogas, el Ente Público Contratante deberá considerar cualquier cambio en las condiciones materiales, tecnológicas y económicas, bajo las cuales se lleva a cabo la prestación de los servicios, a fin de determinar si es pertinente el otorgamiento de la ampliación o prórroga, o en su caso la convocatoria a una nueva licitación. En caso de que el Ente Público Contratante opte por no realizar un nuevo proceso de licitación, deberá demostrar que esta decisión representa las mejores condiciones de mercado, es decir, el costo financiero más bajo, en términos de la presente Ley y demás disposiciones aplicables.
+
+En dicho plazo también podrán solicitarse las ampliaciones de plazo o prórrogas a los permisos, licencias o concesiones para la prestación de los servicios relativos al proyecto de asociación público privada, conforme a lo señalado en el artículo 30 de la presente Ley.
 
 ### CAPÍTULO VI. DE LOS DERECHOS DE INTERVENCIÓN
 
@@ -1529,7 +1601,9 @@ IV.- Las controversias que puedan ser objeto de arbitraje, podrán someterse a c
 
 PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Durango.
 
-SEGUNDO.- Se abroga la Ley de Proyectos de Inversión y de Prestación de Servicios para el Estado de Durango, publicada en el Periódico Oficial del Estado el 29 de junio de 2006. Los proyectos que se hayan iniciado bajo la vigencia de dicha ley podrán continuar rigiéndose por las disposiciones de la misma, previo acuerdo de los que en ellos intervienen que podrán modificarse para adecuarse a los términos de la presente ley.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2022)</small>
+
+SEGUNDO.- Se abroga la Ley de Proyectos de Inversión y de Prestación de Servicios para el Estado de Durango, publicada en el Periódico Oficial del Estado el 29 de junio de 2006.
 
 TERCERO.- El Ejecutivo del Estado expedirá el reglamento de la presente ley en un plazo no mayor a 180 días naturales, contados a partir del día siguiente en el que entre en vigor el presente ordenamiento.
 
@@ -1562,3 +1636,21 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 160 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Los proyectos de inversión y prestación de servicios que a la fecha de entrada en vigor de esta Ley, fueron celebrados y que se rigen con base en los términos y condiciones establecidos por la Ley de Proyectos de Inversión y de Prestación de Servicios para el Estado de Durango, podrán continuar basándose en dicho ordenamiento o podrán, previa autorización del Congreso Local, sujetarse a los procedimientos e instrumentos estableciso en esta Ley, en cuyo caso podrán modificarse los contratos de largo plazo respectivos para reflejar los términos y condiciones de esta Ley.
+
+Las modificaciones que se celebren a los contratos de largo plazo al amparo del presente transitorio serán a fin de cambiar el régimen jurídico de la ley aplicable a los mismos, con el objeto de dar mayor certeza y seguridad jurídica a las partes, aprovechando el nuevo marco jurídico para regular proyectos de asociación público privada, mas no para realizar modificaciones en su objeto que implique una transferencia de riesgos de una de las partes a la otra, en términos distintos a los pactados en el contrato original bajo la Ley de Proyectos de Inversión y de Prestación de Servicios para el Estado de Durango.
+
+Lo anterior en el entendido de que los proyectos de inversión y prestación de servicios que hayan sido licitados conforme a la Ley de Proyectos de Inversión y de Prestación de Servicios para el Estado de Durango y la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Durango, previo a la entrada en vigor de la presente Ley, no serán sujetos de un nuevo procedimiento de licitación previsto en la presente Ley, siempre y cuando se acredite las mejores condiciones de mercado en términos de lo establecido en dicho ordenamiento y su Reglamento, ni deberán realizarse de nueva cuenta los estudios, análisis y dictámenes de autorización previos al inicio de dicho procedimiento de adjudicación.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. El Ejecutivo del Estado realizará las modificaciones que correspondan al Reglamento de la presente ley en un plazo no mayor a 180 días naturales, contados a partir del día siguiente en el que entre en vigor el presente Decreto.
