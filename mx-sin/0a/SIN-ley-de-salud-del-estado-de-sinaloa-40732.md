@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2022-07-11"
+last_updated: "2022-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -91,7 +91,9 @@ II Bis 1. La salud bucodental;
 
 III. La prestación de servicios de planificación familiar;
 
-IV. La salud mental;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2022)</small>
+
+IV. La salud mental, incluida la prevención y atención de la depresión y el suicidio;
 
 V. La organización, coordinación y vigilancia del ejercicio de las actividades profesionales; técnicas y auxiliares para la salud;
 
@@ -249,9 +251,17 @@ III. Formular y desarrollar programas locales de salud en el marco de los Sistem
 
 IV. Celebrar con la Federación los acuerdos de coordinación en materia de salubridad general concurrente y los convenios en los que, en los términos de la fracción VII del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, asuma el ejercicio de sus funciones, la ejecución y operación de obras, y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario;
 
-V. Vigilar y coordinar, en su caso, la sanidad en los límites con otras entidades federativas; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2022)</small>
 
-VI. Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley General de Salud, de esta ley y de otras disposiciones legales aplicables.
+V. Vigilar y coordinar, en su caso, la sanidad en los límites con otras entidades federativas;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2022)</small>
+
+VI. Implementar políticas públicas para la prevención de la depresión y atención del suicidio enfocadas a niñas, niños y adolescentes y adultos; y
+
+(REUBICADA, P.O. 19 DE AGOSTO DE 2022)
+
+VII. Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley General de Salud, de esta ley y de otras disposiciones legales aplicables.
 
 B). En materia de salubridad local:
 
@@ -423,6 +433,10 @@ XV. Promover e impulsar la participación de la población del Estado, en el cui
 
 XVI. Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
 
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2022)</small>
+
+XVI Bis. Coordinarse con las instituciones federales, estatales y municipales y con la sociedad civil, para promover y apoyar la investigación de las causas del suicidio y de la conducta que lo origina, así como diseñar, proponer, desarrollar y aplicar acciones de prevención del suicidio, dirigidas particularmente a niñas, niños y adolescentes, así como a la población en general;
+
 XVII. Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
 
 XVIII. Las demás atribuciones que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones legales aplicables.
@@ -501,7 +515,9 @@ VI. La interrupción del embarazo;
 
 VII. La salud reproductiva;
 
-VIII. La salud mental;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2022)</small>
+
+VIII. La salud mental, incluida la prevención y tratamiento de la depresión y el suicidio;
 
 IX. Prevención y control de las enfermedades bucodentales;
 
@@ -1155,9 +1171,11 @@ En la realización de acciones tendientes a la prevención de la mortalidad mate
 
 En los establecimientos hospitalarios en que se presten servicios de atención médica materno-infantil se formarán los comités hospitalarios que determinen las Normas Oficiales Mexicanas aplicables, especialmente los destinados a prevenir la mortalidad materna y perinatal.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 79.
 
-La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad, el Estado y la sociedad en general.
+La protección de la salud física y mental de las niñas, niños y adolescentes es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad, el Estado y la sociedad en general, por lo que procurarán su atención inmediata cuando presenten alteraciones de salud y tendencias suicidas.
 
 ###### Artículo 80.
 
@@ -3668,3 +3686,15 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. En un término de seis meses, a partir del inicio de vigencia del presente Decreto, el Titular del Poder Ejecutivo del Estado deberá adecuar la normatividad reglamentaria respectiva derivado de la expedición del presente Decreto.
 
 TERCERO. La aplicación del presente Decreto se sujetará a la disponibilidad presupuestaria que el Titular del Poder Ejecutivo del Estado disponga en materia de salud para la prevención oportuna del cáncer en la Infancia y la Adolescencia del Estado de Sinaloa.
+
+P.O. 19 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 243 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. La Secretaría de Salud del Poder Ejecutivo del Estado contará con un plazo de seis meses, contados a partir de la entrada en vigor del presente decreto, para celebrar los convenios, protocolos y adecuaciones necesarias para ejercer las atribuciones previstas en el artículo 6 de esta Ley.
+
+TERCERO. Se deroga cualquier disposición que se oponga a lo señalado en este Decreto.
+
+CUARTO. Las acciones que las dependencias y entidades de la Administración Pública Estatal deban realizar para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada para tal fin en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el Ejercicio Fiscal correspondiente.
