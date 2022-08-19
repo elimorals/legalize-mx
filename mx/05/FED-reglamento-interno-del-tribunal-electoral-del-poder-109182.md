@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2022-05-23"
+last_updated: "2022-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-08-03"
 ---
 # REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE AGOSTO DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -37,7 +39,9 @@ Las disposiciones de este ordenamiento son de observancia general en el Tribunal
 
 Para los efectos de este Reglamento, se entenderá por:
 
-I. Centro: El Centro de Capacitación Judicial Electoral.
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+I. Escuela Judicial: La Escuela Judicial Electoral.
 
 II. Comisión de Administración: La Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación;
 
@@ -51,9 +55,9 @@ VI. Consejo: El Consejo de la Judicatura Federal;
 
 VII. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2022)</small>
 
-VIII. Defensoría Electoral: La Defensoría Pública Electoral para Pueblos y Comunidades Indígenas del Tribunal;
+VIII. Defensoría Electoral: La Defensoría Pública Electoral del Tribunal;
 
 IX. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman el procedimiento de un medio de impugnación en materia electoral o un procedimiento administrativo, independientemente de que sea texto, imagen, audio o video, identificado por una clave específica;
 
@@ -2551,9 +2555,9 @@ La integración del Centro se orientará por el principio de paridad y contará 
 
 ###### Artículo 185.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE AGOSTO DE 2022)</small>
 
-La persona titular del Centro tendrá las facultades siguientes:
+La persona titular de la Escuela Judicial tendrá las facultades siguientes:
 
 I. Coordinar el desarrollo de las actividades del Centro;
 
@@ -2570,6 +2574,12 @@ V. Promover intercambio académico con universidades e instituciones afines naci
 VI. Interactuar en el ámbito de su competencia, con las diversas coordinaciones de Presidencia y órganos del Tribunal Electoral, para el desarrollo de trabajos conjuntos que impliquen esa vinculación; y,
 
 VII. Solicitar el cobro de becas en los casos establecidos por la normativa aplicable.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+VIII. Apoyar el desarrollo de los subsistemas del Servicio Civil de Carrera Administrativa del Tribunal Electoral o de cualquier otro esfuerzo de profesionalización del Tribunal Electoral, mediante asesoría técnica, el uso de plataformas educativas tecnológicas, instalaciones, y de cursos ofertados de carácter transversal de formación, de entre otras tareas, en los términos legales y de los acuerdos generales que resulten aplicables.
+
+La Escuela Judicial Electoral deberá integrar al Plan Anual de Capacitación Jurisdiccional y Administrativa del Tribunal, el Programa de Capacitación y Sensibilización en materia de Defensoría Pública, en apoyo a las funciones de la Defensoría Pública Electoral.
 
 ###### Artículo 186.
 
@@ -2637,87 +2647,259 @@ SECCIÓN 6ª
 
 De la Defensoría Electoral
 
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 188 Bis.
 
-La Defensoría Electoral es el órgano auxiliar de la Comisión de Administración con independencia técnica y autonomía operativa, encargado de prestar gratuitamente los servicios de defensa y asesoría electorales en favor de los pueblos, comunidades indígenas y personas que los integren, ante las Salas del Tribunal Electoral.
+La Defensoría Electoral es el órgano auxiliar de la Comisión de Administración, encargado de prestar los servicios en materia electoral de orientación, asesoría, representación jurídica y coadyuvar en los servicios de mediación en aquellos casos que así lo prevean las leyes.
 
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+Para el desempeño de sus funciones, la Defensoría Electoral contará con autonomía técnica y operativa, entendiéndose por autonomía técnica la especialización de su personal en el ejercicio de sus funciones, cuya ejecución será independiente, imparcial y objetiva, y por autonomía operativa la capacidad para emitir sus protocolos de actuación y de administrar los recursos que le sean asignados de manera libre de presiones externas e influencias contrarias a la protección de los derechos político electorales de sus usuarios; cuya ejecución será bajo los principios de imparcialidad, independencia, legitimidad, profesionalismo, calidad, eficiencia eficacia, economía, transparencia y honradez.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 188 Ter.
 
-La Defensoría Electoral se integra por el personal siguiente:
+Los servicios de la Defensoría Electoral serán gratuitos y se proporcionarán a petición de parte. La solicitud de servicio se deberá presentar en alguno de los canales institucionales que para tal efecto se establezcan en el protocolo de actuación respectivo.
 
-I. Una persona titular de la Defensoría Electoral, nombrada por la Comisión de Administración a propuesta de su Presidencia, quien durará en su encargo cuatro años, con la posibilidad de prorrogarse en igual tiempo por una sola ocasión por acuerdo de la Comisión de Administración.
-
-La designación se hará sobre la persona que, además de cumplir los requisitos señalados en el artículo 188 Quintus del presente Reglamento, acredite satisfactoriamente los exámenes de ingreso y los cursos que al efecto se implementen, de conformidad con las bases establecidas por el Centro.
-
-II. Defensoras y Defensores, nombrados por la Comisión de Administración, de entre las y los aspirantes que obtengan los mejores resultados en los exámenes de ingreso y los concursos de oposición que al efecto se realicen, de conformidad con las bases y convocatorias establecidas por el Centro. Para ello se deberá observar, en lo que resulte aplicable, lo dispuesto en el artículo 65 del presente Reglamento.
-
-La designación de Defensora o Defensor se hará sobre las personas que, además de satisfacer lo señalado en el párrafo anterior, cumplan los requisitos establecidos en el artículo 188 Quintus del presente Reglamento.
-
-III. La Defensoría Electoral contará con el personal necesario para el adecuado desempeño de sus funciones, de conformidad con el presupuesto de egresos autorizado.
-
-La integración de la Defensoría Electoral se orientará por el principio de paridad de género.
-
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 188 Quáter.
 
-La persona titular de la Defensoría Electoral tendrá las facultades siguientes:
+Los servicios de la Defensoría Electoral para la atención de las personas solicitantes son los siguientes:
 
-I. Administrar, coordinar, vigilar y dar seguimiento a los asuntos y servicios de la Defensoría Electoral;
+I. Representación jurídica, en aquellos asuntos de competencia exclusiva de las Salas del Tribunal Electoral;
 
-> <small>(REFORMADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+II. Asesoría jurídica, en aquellos asuntos en materia político-electoral, que sean competencia de las autoridades jurisdiccionales locales y de las autoridades administrativas;
 
-II. Diseñar e implementar, en conjunto con la Dirección General de Comunicación Social, el programa anual de difusión de los servicios;
+III. Coadyuvancia para la mediación, en los asuntos contemplados en la Ley; y
 
-III. Elaborar y difundir, con el apoyo de la Coordinación de Información, Documentación y Transparencia, estudios y documentos que brinden a los pueblos, comunidades indígenas o alguna de las personas que los integren, información sobre sus derechos político-electorales;
+IV. Orientación, en aquellas consultas que no requieran de los otros servicios.
 
-IV. Emitir dictámenes fundados y motivados en los que se justifique la prestación o no de los servicios;
+La Defensoría Electoral prestará sus servicios con perspectiva de género, interseccional e intercultural.
 
-V. Emitir opiniones sobre los temas que se le formulen en el ámbito de su competencia;
-
-VI. Gestionar y solicitar el apoyo de peritos, intérpretes, traductores y profesionales bilingües que contribuyan al cumplimiento de las funciones de la Defensoría Electoral y proponer a la Comisión de Administración, para su autorización, la lista de personas que pueden fungir como tales;
-
-VII. Implementar programas de formación, capacitación y sensibilización dirigidos al personal de la Defensoría Electoral;
-
-VIII. Organizar y participar en foros académicos, conferencias, seminarios y reuniones, con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos político-electorales de los pueblos, comunidades indígenas y las personas que los integren;
-
-IX. Organizar, controlar y dirigir los servicios que presta la Defensoría Electoral;
-
-X. Promover y gestionar la celebración de convenios con instituciones públicas, sociales y privadas, que puedan contribuir al correcto cumplimiento de las funciones de la Defensoría Electoral;
-
-XI. Autorizar las adscripciones y readscripciones de las Defensoras y los Defensores en las Salas del Tribunal Electoral, de acuerdo con las necesidades del servicio;
-
-XII. Proponer ante las instancias competentes la creación o modificación de acuerdos generales u otros instrumentos normativos relacionados con las atribuciones de la Defensoría Electoral;
-
-XIII. Proponer a la Comisión de Administración las medidas que estime convenientes para lograr el cumplimiento y mejoramiento de las funciones de la Defensoría Electoral;
-
-XIV. Realizar visitas periódicas a los pueblos y comunidades indígenas para llevar a cabo análisis y diagnósticos sobre sus sistemas normativos internos y la situación que impera en relación con el respeto de los derechos político-electorales de sus integrantes, previa autorización de la Comisión de Administración, y
-
-XV. Rendir informes semestrales ante la Comisión de Administración sobre el funcionamiento, resultados y servicios que presta la Defensoría Electoral.
-
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE AGOSTO DE 2022)</small>
 
 Artículo 188 Quintus.
 
-Sin perjuicio de lo establecido en el artículo 174 del presente Reglamento, la persona titular de la Defensoría Electoral deberá cumplir con los siguientes requisitos para ocupar el cargo correspondiente:
+Los servicios se prestarán tratándose de los derechos político-electorales de las personas que pertenezcan a algunos de los siguientes grupos en situación de vulnerabilidad o desventaja histórica, en procesos electorales y mecanismos de democracia directa:
 
-I. Contar con título y cédula profesionales de Licenciatura en Derecho, expedidos legalmente con una antigüedad de cinco años y tener, preferentemente, algún grado académico de especialista, maestría o doctorado en área afín a los derechos humanos;
+I. Mujeres en casos de paridad y de violencia política de género;
 
-II. No desempeñar ni haber desempeñado algún cargo de dirección, mando o representación reconocido en los sistemas normativos internos, en los tres años inmediatos anteriores a la designación; y
+II. Personas, comunidades y pueblos indígenas y equiparables;
 
-III. Contar con experiencia probada de cuando menos cinco años en el desempeño de actividades propias del cargo.
+III. Residentes en el extranjero;
 
-Para ser Defensora o Defensor se requiere, además de los requisitos señalados en las fracciones I, II, III, V y VI del artículo 174 del presente Reglamento, contar con título y cédula profesionales de Licenciatura en Derecho expedidos legalmente con una antigüedad mínima de tres años y con experiencia comprobable en cargos similares por igual plazo.
+IV. Afromexicanas;
 
-> <small>(ADICIONADO, D.O.F. 4 DE MARZO DE 2016)</small>
+V. Con discapacidad;
+
+VI. Niñas, niños y adolescentes;
+
+VII. Juventudes;
+
+VIII. Personas adultas mayores;
+
+IX. De la diversidad sexual y de género;
+
+X. Personas en prisión preventiva; u
+
+XI. Otras que lo justifiquen al solicitar los servicios de la Defensoría Pública Electoral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE AGOSTO DE 2022)</small>
 
 Artículo 188 Sextus.
 
-La organización y funcionamiento de la Defensoría Electoral se regularán por los Acuerdos Generales que al efecto emita la Comisión de Administración.
+Para la prestación de los servicios de la Defensoría Electoral se requiere que:
+
+I. La parte interesada solicite el apoyo de la Defensoría Electoral;
+
+II. La solicitud se entregue en alguno de los canales institucionales que se habiliten para ello; y
+
+III. La materia de la controversia, respecto a la que se dará alguno de los servicios, se circunscriba a la competencia de la Defensoría Electoral.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+Artículo 188 Septimus.
+
+La Defensoría Electoral se abstendrá de proporcionar sus servicios cuando estos:
+
+I. No se encuentren dentro de sus facultades;
+
+II. Sean solicitados por una persona que tenga el carácter de servidor público, excepto en casos de violencia política de género y comunidades indígenas, entendiéndose por persona servidora pública quienes desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito federal o local, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos;
+
+III. Sean solicitados por autoridades responsables;
+
+IV. El solicitante cuente con representación legal al momento de solicitar el servicio, y
+
+V. Los servicios se le estén brindado a la contraparte en una controversia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+Artículo 188 Octavus.
+
+La Defensoría Electoral se integra por:
+
+I. Una persona titular de la Defensoría Electoral, quien durará en su encargo cuatro años, con la posibilidad de que la Comisión de Administración la pueda volver a nombrar en ese puesto hasta por un período adicional consecutivo;
+
+II. Personas defensoras, quienes darán los servicios de representación jurídica, asesoría y, en su caso, coadyuvarán en los procesos de mediación.
+
+Dichas personas formarán parte de un servicio profesional de carrera, cuyas características, alcances y lineamientos serán definidos en acuerdos generales que emita la Comisión de Administración. Las personas defensoras serán seleccionadas con base en los resultados de los exámenes de los concursos de oposición correspondientes, y participarán en los programas de capacitación y diversos subsistemas que contemple el mencionado servicio profesional de carrera, de entre los que deberán estar, además del ingreso y la capacitación, los relativos a la adscripción y nombramiento, evaluación del desempeño, promoción de la carrera profesional, permanencia, estímulos, disciplina y separación.
+
+La Escuela Judicial Electoral, en los términos de este Reglamento y de los acuerdos generales correspondientes, participará en los subsistemas de ingreso, promoción, capacitación u otros que sean establecidos como parte del sistema de servicio profesional de carrera referido; y
+
+III. El demás personal que se requiera para el adecuado desempeño de sus funciones, de acuerdo con el presupuesto de egresos autorizado.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+Artículo 188 Nonus.
+
+Respecto del nombramiento a que se refiere la fracción I del anterior artículo, aplicará invariablemente el siguiente procedimiento de concurso público, bajo los principios de transparencia, objetividad, mérito e idoneidad, para lo cual:
+
+I. La Comisión de Administración emitirá una convocatoria pública para la participación de aspirantes con una sólida trayectoria, competencias idóneas y experiencia probada para dirigir la Defensoría Pública Electoral. Uno de los requisitos que se exigirá a las o los postulantes a la posición es la presentación de un programa de trabajo para la dirección y gestión de la Defensoría; también se podrán contemplar evaluaciones u otros mecanismos de selección;
+
+II. Las bases de la convocatoria deberán considerar estándares mínimos que permitan la participación de personas con sensibilidad y trayectoria en la atención y servicio a los grupos en situación de vulnerabilidad y desventaja histórica que atiende la Defensoría;
+
+III. A partir de esa convocatoria, se llevará a cabo el proceso de selección cuya evaluación ponderará aspectos cualitativos (como la trayectoria y la sensibilidad por la protección y tutela de los derechos de grupos en situación de vulnerabilidad) que garanticen, además del conocimiento, habilidades técnicas y capacidades idóneas para desempeñarse como persona titular de la Defensoría Pública Electoral; y
+
+IV. La Comisión de Administración, a propuesta de su presidencia, nombrará como titular de la Defensoría Pública Electoral, a la persona que haya obtenido la evaluación más alta en el concurso, conforme a lo dispuesto en el artículo 190, fracción XVI, de la Ley Orgánica del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+Artículo 188 Decimus.
+
+La persona titular de la Defensoría Electoral, adicionalmente a lo establecido en el presente Reglamento, deberá cumplir con los siguientes requisitos:
+
+I. Contar con título y cédula profesionales de Licenciatura en Derecho, expedidos legalmente con una antigüedad de cinco años y tener, preferentemente, algún grado académico de especialista, maestría o doctorado en área afín a los derechos humanos;
+
+II. Comprobar tener las competencias para el desempeño del cargo; y
+
+III. Participar en el concurso público de oposición, que para su efecto se convoque.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+Artículo 188 Undecimus.
+
+La persona titular de la Defensoría Electoral tendrá las facultades siguientes:
+
+I. Administrar, coordinar, dirigir, vigilar y dar seguimiento a los asuntos y servicios de la Defensoría Electoral;
+
+II. Emitir los protocolos para proporcionar cada uno de los servicios que otorga;
+
+III. Emitir dictámenes fundados y motivados en los que se justifique la prestación o no de los servicios;
+
+IV. Emitir opiniones para áreas internas del Tribunal e instituciones, públicas o privadas, cuyo objeto se relacione con el ámbito de la competencia de la Defensoría Electoral;
+
+V. Autorizar las adscripciones y readscripciones del personal, de acuerdo con las necesidades del servicio en los términos de los acuerdos generales aplicables;
+
+VI. Generar mecanismos de acceso a la justicia a disposición y de uso fácil para las personas en desventaja histórica;
+
+VII. Gestionar y solicitar a otras autoridades y organizaciones colaboración para el desarrollo de las funciones de la Defensoría Electoral;
+
+VIII. Gestionar y coordinar con otras áreas del Tribunal Electoral la elaboración de análisis, diagnósticos, estudios especializados, artículos de difusión y publicaciones, con la finalidad de aprovechar los recursos humanos, materiales y presupuestales con los que cuenta el Tribunal Electoral, observando las medidas de racionalidad, austeridad, disciplina presupuestal y modernización de la gestión del PJF para el ejercicio fiscal de que se trate;
+
+IX. Gestionar la colaboración necesaria con otras áreas del Tribunal Electoral para el cumplimiento de sus funciones, objetivos y metas institucionales;
+
+X. Coordinar con la Dirección General de Comunicación Social el diseño e implementación del programa anual de comunicación para la difusión de los servicios de la Defensoría Electoral;
+
+XI. Brindar el apoyo que corresponda a la Escuela Judicial Electoral y las instancias responsables de coordinar el servicio profesional de carrera en la Defensoría Electoral, para desahogar los procesos de reclutamiento, ingreso y promoción, así como en los programas de formación, capacitación y sensibilización dirigidos al personal de la Defensoría Electoral, de conformidad con el presente Reglamento y los acuerdos generales aplicables;
+
+XII. Organizar y participar en foros académicos, conferencias, seminarios y reuniones, con la finalidad de difundir las funciones y trabajos realizados por la Defensoría Electoral;
+
+XIII. Proponer a la Comisión de Administración las medidas que estime convenientes para lograr el cumplimiento y mejora de las funciones de la Defensoría Electoral;
+
+XIV. Proponer ante las instancias competentes la creación o modificación de instrumentos normativos relacionados con las atribuciones de la Defensoría Electoral;
+
+XV. Suscribir convenios de colaboración con instituciones electorales jurisdiccionales y administrativas, asociaciones y con organismos afines, nacionales e internacionales, relacionados con funciones de defensoría de derechos en beneficio de grupos en situación de vulnerabilidad o desventaja histórica, que permitan el intercambio de experiencias y conocimientos en la materia.
+
+En los convenios que impliquen acciones de colaboración para brindar atención a las personas usuarias de los servicios de la Defensoría, se establecerán las actividades de monitoreo que permitan garantizar la calidad del servicio, el cumplimiento del Código de Ética, la perspectiva de género, interseccional e intercultural;
+
+XVI. Rendir un informe anual en el mes de enero siguiente al ejercicio del que se trate, ante la Comisión de Administración sobre el funcionamiento, resultados y servicios que presta la Defensoría Electoral;
+
+XVII. Denunciar inmediatamente ante el Ministerio Público los hechos que la ley señale como delito, de los que haya tenido conocimiento en el ejercicio de sus funciones.
+
+XVIII. Gestionar y solicitar el apoyo de peritos, interpretes, traductores y profesionales bilingües que contribuyan al cumplimiento de las funciones de la Defensoría Electoral; y
+
+XIX. Realizar visitas a los grupos beneficiarios de la Defensoría Electoral para llevar a cabo análisis y diagnósticos en relación con los derechos político-electorales de sus integrantes, previa autorización de la Comisión de Administración.
+
+Las demás inherentes a las actividades propias de la Defensoría Electoral y de su cargo, así como las que le confieran otras disposiciones legales o le encomiende la Comisión de Administración.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+Artículo 188 Duodecimus.
+
+Para su ingreso y permanencia, las personas defensoras públicas deberán cumplir con los siguientes requisitos:
+
+I. Tener pleno ejercicio de sus derechos políticos y civiles;
+
+II. No haber sido condenada o condenado por un delito que amerite pena corporal de más de un año de prisión; si se tratare de robo, fraude, falsificación o abuso de confianza, no podrá desempeñar el cargo, cualquiera que haya sido la pena; así como no haber sido sancionado con inhabilitación temporal para desempeñar algún empleo o cargo público o haber sido destituido del mismo, como consecuencia de una sanción administrativa por conductas graves;
+
+III. Contar con título y cédula profesional de licenciatura en derecho;
+
+IV. Tener como mínimo tres años de experiencia profesional en las materias relacionadas con la prestación de sus servicios;
+
+V. Aprobar los exámenes de ingreso correspondientes, que para tal efecto se implementen;
+
+VI. Acreditar que se cuenta con las competencias para brindar los servicios de la Defensoría Electoral; y
+
+VII. Acreditar los demás requisitos que, por integrar el servicio profesional de carrera, sean establecidos en los acuerdos generales correspondientes, especialmente relacionados con la capacitación y la evaluación del desempeño.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+Artículo 188 Tertius decimus.
+
+Las personas defensoras públicas están obligadas a:
+
+I. Prestar los servicios de la Defensoría Electoral a la parte solicitante;
+
+II. Asistir jurídicamente a la parte solicitante, darle a conocer sus derechos y estar presente en audiencias o cualquier acto del procedimiento en el que se requiera su participación;
+
+III. Representar y ejercer ante las autoridades competentes los intereses y los derechos de la parte representada o asistida;
+
+IV. Procurar la continuidad y uniformidad en los criterios de la defensa;
+
+V. Promover incidentes, medios de impugnación o realizar cualquier trámite o gestión que proceda conforme a Derecho y que resulte necesario para una defensa adecuada;
+
+VI. Evitar la indefensión de la parte representada;
+
+VII. Vigilar el respeto de los derechos humanos de la parte representada;
+
+VIII. Llevar un registro y un expediente de control de todos los procedimientos o asuntos en que intervengan, desde que se les asignen hasta que termine su intervención;
+
+IX. Prestar sus servicios con diligencia, responsabilidad e iniciativa;
+
+X. Cumplir los deberes propios del cargo y con el Código de Ética, su incumplimiento podrá ser materia de procedimiento de responsabilidad administrativa; y
+
+XI. Las demás que se deriven de la naturaleza de sus funciones, de las disposiciones legales aplicables y del Código de Ética del Tribunal Electoral.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+Artículo 188 Quartus decimus.
+
+A las personas defensoras públicas les queda prohibido:
+
+I. Desempeñar otro empleo, cargo o comisión en alguno de los tres órdenes de Gobierno u organismos autónomos, salvo el desempeño de actividades docentes no remuneradas;
+
+II. El ejercicio particular de la profesión de la abogacía, salvo que se trate de causa propia, la de su cónyuge o su concubina, concubinario, así como parientes consanguíneos en línea recta sin limitación de grado, y colaterales hasta el cuarto grado, por afinidad o civil; y
+
+III. Realizar cualquier otra actividad cuando esta sea incompatible con sus funciones o genere un conflicto de interés.
+
+Asimismo, estarán sujetas a los impedimentos señalados en el artículo 126 de la Ley Orgánica del Poder Judicial de la Federación.
+
+Las personas servidoras públicas del Tribunal Electoral, incluidas quienes ocupan alguna magistratura en cualquiera de sus Salas, se abstendrán de realizar, por sí o por interpósita persona, cualquier conducta que entrañe corrupción, favor, presión, recomendaciones, promoción, dirección, consejo o asesoría hacia quienes puedan acudir ante la misma Defensoría.
+
+Esta restricción también conlleva la prohibición para que se realice alguna conducta que pueda tener alguno de dichos efectos ante la Defensoría o su personal, o que directa o indirectamente afecte los principios que rigen la función judicial y los de la misma Defensoría. La vulneración de dichas prohibiciones dará lugar a las infracciones administrativas o penales que, expresamente, estén tipificadas en la ley.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+Artículo 188 Quintus decimus.
+
+En la integración de la Defensoría Electoral se observará el principio de paridad de género.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 19 DE AGOSTO DE 2022)</small>
+
+Artículo 188 Sextus decimus.
+
+La organización y funcionamiento de la Defensoría Electoral estará regulada por el presente Reglamento, los protocolos, los Acuerdos Generales e instrumentos normativos que emita la Comisión de Administración.
 
 ### CAPÍTULO IV. De los Comités de la Comisión de Administración
 
@@ -4036,3 +4218,21 @@ PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publi
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a las presentes reformas.
 
 TERCERO. Publicar las reformas al Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RELATIVA A LA CREACIÓN DE LA NUEVA DEFENSORÍA PÚBLICA ELECTORAL”.]
+
+PRIMERO. La reforma entrará en vigor el 1° de enero de 2023.
+
+SEGUNDO. A partir de la entrada en vigor de la presente reforma al Reglamento, la Defensoría Pública Electoral deberá modificar y actualizar sus procesos, lineamientos, protocolos e instrumentos normativos, que le permitan ampliar y prestar sus servicios a los distintos grupos en situación de vulnerabilidad, previstos en el artículo 188 Quintus de este Reglamento.
+
+TERCERO. La Defensoría Pública Electoral para Pueblos y Comunidades Indígenas, presentará la propuesta de reestructura organizacional de la nueva Defensoría Electoral ante la Secretaría Administrativa, para que a través de sus áreas de apoyo, se emitan los dictámenes correspondientes, aprovechando al máximo los recursos con que cuenta actualmente, y en caso de que se requiera un mayor número de plazas para su implementación, la reestructura se realice en estricta observancia al Acuerdo General del Comité Coordinador para Homologar criterios en Materia Administrativa e Interinstitucional del Poder Judicial de la Federación (PJF), que establece las medidas de racionalidad, austeridad, disciplina presupuestal y modernización de la gestión del PJF para el ejercicio fiscal dos mil veintidós.
+
+CUARTO. Las personas que al momento de la entrada en vigor de la presente reforma al Reglamento laboren en la actual Defensoría Pública Electoral para Pueblos y Comunidades Indígenas deberán acreditar un curso de actualización para su permanencia en la Defensoría Electoral. El ingreso de los defensores y las defensoras a las nuevas plazas será acorde a las reglas establecidas por el sistema de carrera de la Defensoría Pública Electoral.
+
+El funcionamiento de los diversos subsistemas del respectivo servicio profesional de carrera para el personal de la defensoría pública seguirá la lógica y los tiempos de implementación que hayan sido previstos en los acuerdos generales que correspondan.
+
+QUINTO. La persona que al momento de la entrada en vigor de la presente reforma al Reglamento se encuentre ocupando la titularidad de la Defensoría Pública Electoral para Pueblos y Comunidades Indígenas (DPEPCI) seguirá desempeñando las facultades y funciones conferidas a la nueva Defensoría Pública Electoral hasta la conclusión del periodo para el que fue designada.
+
+SEXTO. La Defensoría Pública Electoral, en el anteproyecto de Presupuesto 2023, considerará los recursos indispensables para ejercer sus atribuciones en el marco de esta reforma. La implementación de esta reforma deberá realizarse con cargo a los recursos aprobados en el presupuesto del Tribunal Electoral y en observancia a los principios constitucionales de eficiencia, eficacia, economía, transparencia y honradez.
