@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2022-08-01"
+last_updated: "2022-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE AGOSTO DE 2022.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -9175,13 +9175,27 @@ c) Dirección de Promoción y Ferias Especializadas.
 
 d) (DEROGADO, D.O. 21 DE MAYO DE 2021)
 
-> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O. 19 DE AGOSTO DE 2022)</small>
 
-III. Dirección Jurídica.
+III. Dirección Jurídica;
 
-IV. Dirección de Administración y Finanzas, y
+> <small>(REFORMADA, D.O. 19 DE AGOSTO DE 2022)</small>
 
-V. Secretaría Técnica.
+IV. Dirección General de Administración y Finanzas;
+
+> <small>(REFORMADA, D.O. 19 DE AGOSTO DE 2022)</small>
+
+V. Secretaría Técnica, y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 19 DE AGOSTO DE 2022)</small>
+
+VI. Oficina de Congresos y Visitantes:
+
+a) Dirección de Mercado Asociativo y Corporativo;
+
+b) Dirección de Segmentos Especiales y Prioritarios, y
+
+c) Dirección de Vinculación y Atención a Eventos.
 
 ###### Artículo 491.
 
@@ -9205,9 +9219,9 @@ V. Proponer, en términos del Plan Estatal de Desarrollo, la zonificación turí
 
 VI. Suscribir, con la aprobación del Titular del Poder Ejecutivo, acuerdos y convenios de colaboración en materia de desarrollo y promoción turística, para la implementación de proyectos y programas turísticos estatales y regionales;
 
-> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 19 DE AGOSTO DE 2022)</small>
 
-VII. Coadyuvar con el Fideicomiso Público para el Desarrollo del Turismo de Reuniones en Yucatán en el diseño e instrumentación de acciones que impulsen la promoción y el fortalecimiento del segmento de reuniones, congresos, convenciones, exposiciones, viajes de incentivo y, en general, el desarrollo del turismo de reuniones en el Estado;
+VII. Diseñar e instrumentar acciones que impulsen la promoción y el fortalecimiento del segmento de reuniones, congresos, convenciones, exposiciones, viajes de incentivo y, en general, el desarrollo del turismo de reuniones en el Estado;
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -9501,9 +9515,11 @@ VIII. Coordinar con la Consejería Jurídica las actuaciones de la Secretaría d
 
 IX. Las demás que le otorguen este Reglamento y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 496.
 
-El Director de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
+El Director General de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
 
 > <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
@@ -9633,11 +9649,115 @@ XVIII. Definir las normas para el uso de los bienes informáticos y para el apro
 
 XIX. Desarrollar e instrumentar los mecanismos de evaluación y seguimiento permanente de las acciones de capacitación, operación y modernización de la infraestructura turística del estado;
 
-> <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O. 19 DE AGOSTO DE 2022)</small>
 
-XX. Establecer la coordinación que se requiera con otras autoridades e instituciones para auxiliar a los turistas en casos de emergencia o desastres, y
+XX. Establecer la coordinación que se requiera con otras autoridades e instituciones para auxiliar a los turistas en casos de emergencia o desastres;
 
-XXI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+> <small>(ADICIONADA, D.O. 19 DE AGOSTO DE 2022)</small>
+
+XXI. Coordinar con las diversas unidades administrativas adscritas a la dependencia, las acciones estratégicas de planeación y difusión de la conectividad aérea y marítima de los destinos turísticos del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 19 DE AGOSTO DE 2022)</small>
+
+XXII. Apoyar al Titular de la Dependencia para lograr la vinculación permanente con los representantes de los sectores público, privado, académico y social para la operación del Consejo Consultivo Estatal de Turismo y demás comités o agrupaciones con los que se requiera mantener comunicación;
+
+> <small>(ADICIONADA, D.O. 19 DE AGOSTO DE 2022)</small>
+
+XXIII. Generar, revisar, actualizar y difundir el Sistema Estatal de Información Turística, y
+
+XXIV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 19 DE AGOSTO DE 2022)</small>
+
+###### Artículo 497 Bis.
+
+El Director General de la Oficina de Congresos y Visitantes tendrá las siguientes facultades y obligaciones:
+
+I. Promover al Estado de Yucatán como destino turístico, enfocándose primordialmente en el turismo de congresos, convenciones, reuniones, exposiciones, seminarios y viajes de incentivos, así como en los demás tipos de turismo especial que determine el Titular de la Dependencia;
+
+II. Fungir como enlace de la Dependencia con los prestadores de servicios turísticos especializados en turismo de reuniones, a través de la difusión de los servicios que proporcionan en los eventos, foros y reuniones en que se participe;
+
+III. Diseñar, elaborar y ejecutar el Programa Anual de Trabajo de la unidad administrativa a su cargo para atraer eventos a los destinos turísticos del Estado de Yucatán;
+
+IV. Posicionar al Estado de Yucatán entre los principales mercados emisores de turismo de reuniones a nivel nacional e internacional;
+
+V. Representar a la Dependencia en las ferias y en los eventos especializados en turismo de reuniones que se determinen;
+
+VI. Administrar los apoyos institucionales para atraer al Estado de Yucatán eventos de turismo de reuniones, particularmente aquellos en los que participen visitantes internacionales;
+
+VII. Coadyuvar con los prestadores de servicios locales en la coordinación de los comités organizadores de eventos de turismo de reuniones, así como de otros tipos de turismo especial;
+
+VIII. Desarrollar una estrategia para encabezar la lista de solicitudes de sedes para eventos de turismo de reuniones, con la representación del Gobierno del Estado;
+
+IX. Supervisar los viajes de familiarización que se ofrezcan a operadores turísticos o comités de organizadores de eventos para dar a conocer el turismo de reuniones;
+
+X. Coadyuvar en la integración y actualización del directorio de prestadores y proveedores de servicios de turismo de reuniones;
+
+XI. Proporcionar asesoría y apoyo a los organizadores de eventos, ante los organismos públicos o privados, en la gestión de los diversos permisos o trámites que se requieran para la realización de los eventos;
+
+XII. Implementar las campañas de promoción del turismo de reuniones en los medios que se determinen, conjuntamente con la Dirección de Mercadotecnia, y
+
+XIII. Las demás que establezca este Reglamento y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 19 DE AGOSTO DE 2022)</small>
+
+###### Artículo 497 Ter.
+
+El Director de Mercado Asociativo y Corporativo tendrá las siguientes facultades y obligaciones:
+
+I. Establecer estrategias y acciones eficientes, competitivas e innovadoras para atraer la realización de congresos, convenciones, ferias, exposiciones, viajes de incentivos y eventos especiales en el Estado;
+
+II. Promocionar las atracciones turísticas del Estado y cierres de eventos nacionales e internacionales;
+
+III. Implementar las presentaciones promocionales de destino ante la industria de reuniones nacional e internacional;
+
+IV. Organizar eventos nacionales e internacionales para promocionar al Estado como sede de eventos, así como participar en estos;
+
+V. Brindar asesoría a los organizadores y grupos de visitantes sobre la realización de posibles eventos en el Estado;
+
+VI. Gestionar el otorgamiento de incentivos para los organizadores de congresos, convenciones y exposiciones y participantes;
+
+VII. Consolidar acciones con los organismos públicos, privados, no gubernamentales, cámaras y asociaciones, para atraer eventos;
+
+VIII. Organizar y fomentar visitas de inspección y viajes de familiarización con organizadores de eventos, a través de medios especializados, y
+
+IX. Las demás que establezca este Reglamento y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 19 DE AGOSTO DE 2022)</small>
+
+###### Artículo 497 Quater.
+
+El Director de Segmentos Especiales y Prioritarios tendrá las siguientes facultades y obligaciones:
+
+I. Establecer las acciones para atraer eventos deportivos, religiosos, educativos, gastronómicos, sociales y estrategias de promoción para segmentos especiales como retirados, jubilados, sindicatos, grupos de afinidad, entre otros;
+
+II. Promocionar en el Estado de Yucatán y en las ciudades donde se ubiquen mercados relativos a los segmentos especiales y prioritarios, la realización de eventos nacionales e internacionales;
+
+III. Gestionar incentivos para los organizadores y participantes en eventos deportivos, religiosos, educativos, gastronómicos, así como en otros segmentos dirigidos a retirados, jubilados, sindicatos, grupos de afinidad, entre otros, y
+
+IV. Las demás que establezca este Reglamento y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 19 DE AGOSTO DE 2022)</small>
+
+###### Artículo 497 Quinquies.
+
+El Director de Vinculación y Atención a Eventos tendrá las siguientes facultades y obligaciones:
+
+I. Realizar el inventario de los recintos, salones y escenarios que pueden ser utilizados para eventos y que formen parte de la oferta del Estado;
+
+II. Generar un inventario de productos turísticos del Estado que se promocionen en los diferentes eventos;
+
+III. Establecer relaciones públicas con los diferentes organismos del gobierno estatal o municipal para promocionar la realización de sus eventos en los diversos destinos turísticos del Estado de Yucatán;
+
+IV. Proporcionar apoyo logístico para el desarrollo de los eventos que se realicen en el Estado;
+
+V. Conducir las visitas de inspección, los viajes de familiarización y los recorridos logísticos con organizadores de eventos;
+
+VI. Capacitar a los prestadores de servicios de la especialidad de turismo de reuniones;
+
+VII. Generar enlaces comerciales y propiciar la vinculación a fin de promover la oferta turística del Estado, y
+
+VIII. Las demás que establezca este Reglamento y otras disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -15532,3 +15652,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Adecuaciones presupuestales y administrativas
 
 La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas como resultado de este decreto.
+
+D.O. 19 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 546/2022 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE FOMENTO TURÍSTICO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuaciones presupuestales y administrativas
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas en este decreto.
