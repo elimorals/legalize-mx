@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2022-07-09"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -3207,7 +3207,17 @@ Condiciones para la operación del transporte privado por arrendamiento a travé
 
 4. Los conductores de este servicio deberán portar el permiso para las inspecciones que realice la Secretaría.
 
-5. El servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas podrá prestarse en todas las vías públicas del Estado, sin importar el punto de origen o de destino, debiendo contar el permisionario con un lugar sede como principal asiento de la prestación del servicio, en cualquiera de los municipios de la entidad.
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+5. Los vehículos del Transporte Privado por Arrendamiento a través de Aplicaciones Tecnológicas, deberán contar con un gafete que a efecto proporcione la Subsecretaria de Movilidad en el que obre un código QR de identificación, donde dicho código no solo sea visible en el parabrisas, sino también al interior del vehículo, al alcance del usuario con el objeto de que éste, a través de su celular, pueda escanear dicho código.
+
+La plataforma de la información del código QR en cita, arrojara los datos del vehículo, de su propietario y datos del chofer, generando con ello, certeza y seguridad para el usuario al verificar la información de un transporte seguro, así como que dicha plataforma, pueda fungir como una receptoría de quejas en caso de que la hubiera.
+
+6. El servicio de transporte privado por arrendamiento a través de aplicaciones tecnológicas podrá prestarse en todas las vías públicas del Estado, sin importar el punto de origen o de destino, debiendo contar el permisionario con un lugar sede como principal asiento de la prestación del servicio, en cualquiera de los municipios de la entidad.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+Para las obligaciones previstas en (sic) punto 5 de este artículo, su aplicabilidad será gradual y deberá contar con disponibilidad presupuestaria la Subsecretaria de Movilidad, dentro del Presupuesto de Egresos del ejercicio fiscal 2023.
 
 ###### Artículo 171.
 
@@ -4092,6 +4102,14 @@ Seguridad para el usuario
 1. Los vehículos del Sistema de Transporte Individual Motorizado, deberán contar con un sistema de seguridad pública, bajo los lineamientos que la Secretaría en coordinación con la Secretaría de Seguridad Pública emitan con finalidad de ofrecer condiciones de seguridad a los usuarios.
 
 2. Adicionalmente, todos los vehículos del Sistema deberán ser equipados con dispositivos de seguridad básicos como frenos ABS, bolsas de aire frontales, control electrónico de estabilidad “ESP” y en versiones más equipadas, bolsas de aire frontales y traseras. Con cinturones de seguridad en todas las modalidades de servicio.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+3. Los vehículos del Sistema de Transporte Individual Motorizado, deberán contar con un gafete que afecto proporcione la Subsecretaria de Movilidad en el obre un código QR de identificación, donde dicho código no solo sea visible en el parabrisas, sino también al interior del vehículo, al alcance del usuario con el objeto de que este, a través de su celular, pueda escáner dicho código.
+
+La plataforma de la información del código QR en cita, arrojará los datos del vehículo, de su propietario y datos del chofer, generando con ello, certeza y seguridad para el usuario al verificar la información de un transporte seguro, así como que dicha plataforma, pueda fungir como una receptoría de quejas en caso de que la hubiera.
+
+Para las obligaciones previstas en punto 3 de este artículo, su aplicabilidad será gradual y sujeta a la disponibilidad presupuestaria de la Subsecretaria de Movilidad.
 
 ###### Artículo 247.
 
@@ -6258,3 +6276,13 @@ P.O. 9 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 112.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMÁS, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, TAMBIÉN SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 127.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA.”]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las obligaciones que se generan en el punto 5 del artículo 170 y punto 3 del arábigo 246, con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria en la Subsecretaria de Movilidad, dentro del Presupuesto de Egresos 2023.
+
+TERCERO. La Subsecretaria desarrollara la plataforma digital, software o aplicación que contengan los datos del vehículo, de su propietario y datos del chofer, del Sistema de Transporte Individual Motorizado y del Transporte Privado por Arrendamiento a través de Aplicaciones Tecnológicas, proporcionando a concesionarios y permisionarios un gafete que contenga un código único de QR, para ponerlo a disposición de los usuarios y puedan éstos verificar la información de un transporte seguro, así como que dicha plataforma, cuente con apartado de receptoría de quejas.
