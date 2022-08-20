@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ciencia-tecnologia-e-innovacion-para-el-estado-de-61073"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-12"
-last_updated: "2021-10-16"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de abril de 2008.
 
@@ -59,7 +59,9 @@ II. COCITel Consejo Oaxaqueño de Ciencia, Tecnología e Innovación.
 
 III. CONACyT. Consejo Nacional de Ciencia y Tecnología;
 
-IV. IES. Instituciones de Educación Superior;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+IV. Instituciones Educativas: Las instituciones de educación de los niveles básico, media superior y superior, ya sea públicas o privadas, en el Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2017)</small>
 
@@ -105,7 +107,9 @@ V. Establecer los mecanismos para vincular la investigación científica y tecno
 
 VI. Estimular y reconocer la actividad científica y tecnológica, así como los conocimientos comunitarios;
 
-VII. Generar mecanismos de vinculación entre los sectores productivos y sociales con la actividad científica y tecnológica de las instituciones de educación superior y centros de investigación, públicos y privados.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VII. Generar mecanismos de vinculación entre los sectores productivos y sociales con la actividad científica y tecnológica de las instituciones educativas y centros de investigación, públicos y privados.
 
 > <small>(ADICIONADA, P.O. 20 DE MAYO DE 2017)</small>
 
@@ -143,7 +147,9 @@ III. La toma de decisiones, desde la determinación de políticas generales y pr
 
 IV. Los instrumentos de apoyo a la ciencia y tecnología, deberán procurar el desarrollo sistémico de la potencialidad científica y tecnológica del Estado, buscando el crecimiento y la consolidación de las comunidades científica y académica en beneficio del medio ambiente, el desarrollo económico y social de la entidad;
 
-V. Las políticas, instrumentos y criterios con los que se fomente y apoye la investigación científica, el desarrollo y la innovación tecnológica, deberán buscar el mayor efecto benéfico de estas actividades en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación, particularmente de la educación superior, así como motivar la participación y desarrollo de las nuevas generaciones de investigadores y tecnólogos;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+V. Las políticas, instrumentos y criterios con los que se fomente y apoye la investigación científica, el desarrollo y la innovación tecnológica, deberán buscar el mayor efecto benéfico de estas actividades en la enseñanza y el aprendizaje de la ciencia y la tecnología, en la calidad de la educación de todas las instituciones educativas, así como motivar la participación y desarrollo de las nuevas generaciones de investigadores y tecnólogos;
 
 VI. La concurrencia de aportaciones de recursos públicos y privados, nacionales e internacionales, para la generación, ejecución y divulgación de programas y proyectos de enseñanza e investigación científica, desarrollo e innovación tecnológica, así como el fomento y formación de personal especializado en estas materias, se procurará conforme a las necesidades de desarrollo o consolidación que demande el Estado;
 
@@ -275,21 +281,33 @@ IV. Promover mediante la investigación científica e innovación tecnológica l
 
 V. Promover la capacitación, especialización y actualización de conocimientos en ciencia y tecnología, aprovechando al máximo los recursos de las instituciones de educación superior y centros de investigación en el Estado;
 
-VI. Promover y gestionar el otorgamiento de becas para estudios de educación superior en áreas científicas y tecnológicas en el país y en el extranjero;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VI. Promover y gestionar el otorgamiento de becas para estudios de todas las instituciones educativas en áreas científicas y tecnológicas en el país y en el extranjero;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
 VII. Promover, crear y otorgar reconocimientos y estímulos de investigación, a personas físicas, morales o pueblos y comunidades indígenas que se distingan por su excelente desempeño sobresaliente en la materia, así como aquellas que contribuyan al rescate y a la protección del medio ambiente;
 
-VIII. Fomentar y fortalecer la investigación científica y tecnológica, promoviendo acciones concertadas entre los sectores público y privado, instituciones de educación superior y centros de investigación;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VIII. Fomentar y fortalecer la investigación científica y tecnológica, promoviendo acciones concertadas entre los sectores público y privado, instituciones educativas y centros de investigación;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VIII Bis. Implementar programas de difusión y promoción para impulsar la participación el interés de las niñas, niños, adolescentes y jóvenes en la ciencia, la tecnología y la innovación;
 
 IX. Promover la creación, fortalecimiento y adecuada operación de laboratorios y centros de investigación de desarrollo tecnológico, a fin de que coadyuven con la certificación de la calidad, la normatividad y las especificaciones técnicas que establece la legislación aplicable;
 
 X. Fomentar el desarrollo de la ciencia y la tecnología, apoyando aquellos proyectos de investigación de personas físicas o morales, preferentemente del Estado, que reúnan los requisitos que establece el reglamento, debiendo destinar recursos dentro de su disponibilidad presupuestal que le apruebe el Congreso y mediante otras fuentes de financiamiento;
 
-XI. Promover la vinculación entre las instituciones de educación superior y centros de investigación y de éstas con los usuarios de los sectores público, privado y social, preferentemente del Estado;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
 
-XII. Asesorar en la obtención de recursos para la realización de proyectos de ciencia y tecnología, a instituciones de educación superior, centros de investigación, Ayuntamientos y quien lo solicite;
+XI. Promover la vinculación entre las instituciones educativas y centros de investigación y de éstas con los usuarios de los sectores público, privado y social, preferentemente del Estado;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+XII. Asesorar en la obtención de recursos para la realización de proyectos de ciencia y tecnología, a instituciones educativas, centros de investigación, Ayuntamientos y quien lo solicite;
 
 XIII. Coordinar y convenir con dependencias y organismos de la Administración Pública Federal, Estatal o Municipal, instituciones u organismos nacionales y extranjeros, para el cumplimiento de sus objetivos;
 
@@ -307,7 +325,9 @@ XVIII. Gestionar y proponer la protección de áreas geográficas del Territorio
 
 XIX. Aprobar el proyecto de presupuesto correspondiente, así como autorizar la estructura administrativa necesaria para el cumplimiento de sus funciones, con apego a los principios generales de austeridad, racionalidad y control presupuestal;
 
-XX. Asesorar al Ejecutivo y Legislativo del Estado en materia de política de inversiones, destinada a proyectos de investigación científica y tecnológica, educación técnica y superior, y en general, para el desarrollo de la ciencia y la tecnología;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+XX. Asesorar al Ejecutivo y Legislativo del Estado en materia de política de inversiones, destinada a proyectos de investigación científica y tecnológica de las instituciones educativas, y en general, para el desarrollo de la ciencia y la tecnología;
 
 XXI. Auxiliar y asesorar a las instituciones de educación y centros de investigación, en la elaboración de programas, intercambio de profesores e investigadores, sistemas de información y documentación;
 
@@ -321,7 +341,9 @@ XXIV. Aprobar el proyecto de reglamento que regule su funcionamiento y operació
 
 XXV. Establecer las condiciones necesarias y suficientes para la permanencia en el Estado del capital humano formado con los recursos económicos del COCyT;
 
-XXVI. Promover incentivos fiscales y/o económicos que faciliten la vinculación entre los diversos sectores productivos con las instituciones de educación superior del Estado, con el fin de propiciar la investigación y el desarrollo tecnológico, así como la transferencia de tecnología; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+XXVI. Promover incentivos fiscales y/o económicos que faciliten la vinculación entre los diversos sectores productivos con las instituciones educativas del Estado, con el fin de propiciar la investigación y el desarrollo tecnológico, así como la transferencia de tecnología;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2010)</small>
 
@@ -471,11 +493,11 @@ Para los efectos de financiamiento de las actividades científicas y tecnológic
 
 El titular del Poder Ejecutivo del Estado dispondrá la inclusión del Director General del COCITel como Secretario Administrativo, Técnico o figura equivalente, en los fideicomisos u otros instrumentos jurídicos que se instituyan con relación al financiamiento de la ciencia y la tecnología.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 17.
 
-El COCITel podrá celebrar convenios de colaboración con sus similares de las otras Entidades Federativas, con los Municipios del Estado, con instituciones de educación superior, sociales, productivas, fundaciones y asociaciones de profesionales nacionales e internacionales a fin de destinar fondos para proyectos de investigación científica y tecnológica que redunden en beneficio de las partes.
+El COCITel podrá celebrar convenios de colaboración con sus similares de las otras Entidades Federativas, con los Municipios del Estado, con las instituciones educativas, sociales, productivas, fundaciones y asociaciones de profesionales nacionales e internacionales a fin de destinar fondos para proyectos de investigación científica y tecnológica que redunden en beneficio de las partes.
 
 ###### ARTÍCULO 18.
 
@@ -555,9 +577,11 @@ Por acuerdo del COCITel y cuando así se considere necesario, las solicitudes de
 
 ### CAPÍTULO PRIMERO. DEL PROGRAMA DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 27.
 
-El Programa será elaborado con objetivos de corto, mediano y largo plazo con base en las propuestas que presenten las dependencias, organismos públicos de la administración pública estatal y municipal; los organismos del sector privado, productivo y social; las comunidades académica, científica y tecnológica; las instituciones de educación superior públicas y privadas, los centros de investigación públicos y privados, y las personas físicas y morales que apoyen o realicen investigación científica y desarrollo tecnológico.
+El Programa será elaborado con objetivos de corto, mediano y largo plazo con base en las propuestas que presenten las dependencias, organismos públicos de la administración pública estatal y municipal; los organismos del sector privado, productivo y social; las comunidades académica, científica y tecnológica; las instituciones educativas, los centros de investigación públicos y privados, y las personas físicas y morales que apoyen o realicen investigación científica y desarrollo tecnológico.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
 
@@ -675,7 +699,9 @@ VI. Los proyectos de investigación científica, desarrollo e innovación tecnol
 
 VII. Las fuentes de financiamiento a los programas y proyectos que estén dentro de las líneas de investigación científica, desarrollo e innovación tecnológica prioritarias;
 
-VIII. Los servicios proporcionados por los organismos, dependencias, instituciones de educación superior y centros de investigación y divulgación de la ciencia y la tecnología;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VIII. Los servicios proporcionados por los organismos, dependencias, instituciones educativas y centros de investigación y divulgación de la ciencia y la tecnología;
 
 IX. El gasto en programas y proyectos de investigación, desarrollo, innovación y divulgación, que se realicen en la Entidad; y
 
@@ -841,11 +867,11 @@ V. Las demás que de acuerdo con el Programa se requiera realizar.
 
 ### CAPÍTULO CUARTO. DE LA VINCULACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 53.
 
-Las dependencias y entidades de la Administración Pública Estatal, instituciones de educación superior, así como centros de ciencia y tecnología, en sus respectivos ámbitos de competencia, promoverán el desarrollo y la innovación tecnológica. Para tal efecto, el COCITel deberá establecer mecanismos eficientes y funcionales para vincularse con los sectores productivos y de servicios.
+Las dependencias y entidades de la Administración Pública Estatal, instituciones educativas, así como centros de ciencia y tecnología, en sus respectivos ámbitos de competencia, promoverán el desarrollo y la innovación tecnológica. Para tal efecto, el COCITel deberá establecer mecanismos eficientes y funcionales para vincularse con los sectores productivo y de servicios.
 
 ###### ARTÍCULO 54.
 
@@ -972,3 +998,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 645.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IV DEL ARTÍCULO 2; LA FRACCIÓN VII DEL ARTÍCULO 3, LA FRACCIÓN V DEL ARTÍCULO 5; LAS FRACCIONES VI, VIII, XI, XII, XX Y XXVI DEL ARTÍCULO 8; EL ARTÍCULO 17; EL PÁRRAFO PRIMERO DEL ARTÍCULO 27; LA FRACCIÓN VIII DEL ARTÍCULO 34; Y EL ARTÍCULO 53; Y SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 8 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan y contravengan el presente Decreto.
