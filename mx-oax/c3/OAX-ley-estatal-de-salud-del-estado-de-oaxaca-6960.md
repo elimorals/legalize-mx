@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2022-08-06"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -1695,7 +1695,57 @@ V.- La atención de los padecimientos que se produzcan como consecuencia de ello
 
 VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
 
-Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la prevención de accidentes, del que formarán parte representantes de los sectores públicos, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la prevención de accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2022)</small>
+
+Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, el cual estará integrado por las siguientes instituciones:
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+I.- La persona titular de la Secretaría de Salud, quien fungirá como presidente o presidenta del Consejo;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+II.- La persona titular de la Secretaría General de Gobierno;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+III.- La persona titular de la Secretaría de Movilidad;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+IV.- La persona titular de la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+V.- La persona titular de la Secretaría de Finanzas;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VI.- La persona titular de la Secretaría de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VII.- La persona titular de la Fiscalía General del Estado de Oaxaca; y,
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VIII.- Una persona que fungirá como secretario o secretaria técnica del Consejo, quien estará a cargo de la responsabilidad operativa del Consejo, misma que será designada por la o el titular de la Secretaría de Salud.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+La presidencia del Consejo Estatal deberá convocar a los municipios, así como al sector social y privado, para que participen de manera permanente en el Consejo, pudiendo también invitar a dependencias, entidades e instituciones públicas y privadas con el fin de informar sus determinaciones. Todos los integrantes e invitados del Consejo se desempeñarán a título honorario.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+El Consejo deberá sesionar de forma ordinaria de manera trimestral y de forma extraordinaria las veces que sean necesarias.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+La presidencia del Consejo deberá instalar el Observatorio Estatal de Lesiones, en el que deberán tener participación los municipios, instituciones de la administración pública estatal y federal, así como representantes de los sectores asistencial, social y privado.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+El Consejo Estatal se coordinará con el Consejo Nacional para la prevención de accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2015)</small>
 
@@ -3916,3 +3966,15 @@ P.O. 6 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 659.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 125 Y SE ADICIONAN LAS FRACCIONES I, II, III, IV, V, VI, VII Y VIII AL SEGUNDO PÁRRAFO DEL ARTÍCULO 125 Y LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO AL ARTÍCULO 125 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El Ejecutivo del Estado contará con 180 días naturales posteriores a la entrada en vigor del presente Decreto para instalar el Consejo Estatal para la Prevención de Accidentes.
+
+CUARTO. La Secretaría de Salud del Estado de Oaxaca deberá emitir las Reglas de Operación del Consejo Estatal para la Prevención de Accidentes a más tardar 30 días naturales posteriores a su instalación.
