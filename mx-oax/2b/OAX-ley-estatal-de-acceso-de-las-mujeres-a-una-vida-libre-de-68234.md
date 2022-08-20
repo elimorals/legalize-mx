@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2022-07-30"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -205,9 +205,7 @@ Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley
 
 VIII. La violencia simbólica: Es la que se ejerce a través de patrones estereotipados, mensajes, valores, iconos o signos que trasmiten y reproducen dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad, implica una reproducción en cubierta y sistemática difícil de distinguir y percibir.
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
-
-IX. Violencia digital: Acción que mediante el uso de tecnologías de la información y comunicación, redes sociales, páginas web, correo electrónico, blogs, mensajes de texto, videos, o cualquiera otra, lesionen, afecten o dañen la dignidad, seguridad, libertad e integridad de las mujeres en cualquier ámbito de su vida.
+IX. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
 > <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
 
@@ -447,13 +445,41 @@ V. Proporcionar atención psicológica, psiquiátrica y legal, especializada y g
 
 VI. Implementar e imponer sanciones administrativas en el ámbito de sus competencias, a los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y/o dar curso a una queja.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2022)</small>
+
+### Capítulo Tercero Bis. De la Violencia Digital y Mediática
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+###### Artículo 17 Bis.
+
+Violencia digital es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida y su imagen.
+
+Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+Se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+###### Artículo 17 Ter.
+
+Violencia mediática es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+
+La violencia mediática se ejerce por cualquier persona física o moral, que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atentan contra la igualdad.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+###### Artículo 17 Quater.
+
+Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, las autoridades administrativas, la o el Ministerio Público, o los órganos jurisdiccionales competentes, ordenarán de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
+
+En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
+
+La autoridad que ordene las medidas de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo a las características del mismo.
+
+Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
+
 ### Capítulo Cuarto. En el Ámbito Social o en la Comunidad
-
-### Capítulo Cuarto Bis. De la Violencia Feminicida
-
-> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL DE LA FRACCIÓN VI DEL ARTÍCULO 7, P.O. 10 DE NOVIEMBRE DE 2018]</small>
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 18.
 
@@ -481,9 +507,11 @@ II. El diseño de un sistema de monitoreo, mismo que deberá ser instaurado por 
 
 > <small>(ADICIONADO [N. DE E. COMPRENDE LOS ARTÍCULOS DEL 19 BIS AL 23], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-### Capítulo Quinto. De las Ordenes de Protección a favor de la Víctima
+### Capítulo Cuarto Bis. De la Violencia Feminicida
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL DE LA FRACCIÓN VI DEL ARTÍCULO 7, P.O. 10 DE NOVIEMBRE DE 2018]</small>
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 19 Bis.
 
@@ -561,7 +589,7 @@ El Estado y los Municipios, impulsarán programas para difundir la cultura de de
 
 Alerta de violencia de género es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia de género en un Municipio o región determinada, ya sea ejercida por personas o por la propia comunidad. Tendrá como objetivo fundamental garantizar la seguridad de las mismas, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación, acciones o política pública, usos o costumbres que agravien sus derechos humanos, se solicitará y estará conforme lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-### Capítulo Sexto. Del Protocolo Alba
+### Capítulo Quinto. De las Ordenes de Protección a favor de la Víctima
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -853,7 +881,9 @@ Las personas mayores de doce años de edad podrán solicitar a las autoridades c
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
-### Capítulo Primero. Del Sistema
+### Capítulo Sexto. Del Protocolo Alba
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 31 Bis.
 
@@ -941,9 +971,7 @@ Al encontrar a la mujer o niña desaparecida y/o ausente, por parte de las autor
 
 ## TÍTULO III. DEL SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### Capítulo Segundo. De la integración y atribuciones del Sistema
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+### Capítulo Primero. Del Sistema
 
 ###### Artículo 32.
 
@@ -995,7 +1023,9 @@ Toda persona física o moral, podrá efectuar aportaciones de recursos al Sistem
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-### Capítulo Tercero. Del Programa
+### Capítulo Segundo. De la integración y atribuciones del Sistema
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ###### Artículo 38.
 
@@ -1039,35 +1069,39 @@ XI. La Secretaría de Administración;
 
 XII. La Secretaría de Pueblos Indígenas y Afromexicano;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+XIII. La Secretaría de Movilidad;
+
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XIII. La Defensoría de los Derechos Humanos del Pueblo de Oaxaca;
+XIV. La Defensoría de los Derechos Humanos del Pueblo de Oaxaca;
 
-XIV. El Instituto Estatal de Educación Pública de Oaxaca;
+XV. El Instituto Estatal de Educación Pública de Oaxaca;
 
 > <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
 
-XIV Bis. La Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología;
+XV Bis. La Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología;
 
-XV. La Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+XVI. La Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
-XVI. La Corporación Oaxaqueña de Radio y Televisión;
-
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
-
-XVII. El Consejo Estatal para la Prevención y Control del Sida;
+XVII. La Corporación Oaxaqueña de Radio y Televisión;
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XVIII. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca;
+XVIII. El Consejo Estatal para la Prevención y Control del Sida;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+
+XIX. El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca;
 
 > <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XIX. La Comisión para atender, prevenir y eliminar la discriminación en el Estado de Oaxaca, y
+XX. La Comisión para atender, prevenir y eliminar la discriminación en el Estado de Oaxaca, y
 
 > <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
 
-XX. Los organismos o dependencias instituidos en el ámbito municipal por acuerdo del Cabildo, para el desarrollo integral de las mujeres.
+XXI. Los organismos o dependencias instituidos en el ámbito municipal por acuerdo del Cabildo, para el desarrollo integral de las mujeres.
 
 El desempeño de estas funciones será de manera honoraria y gratuita.
 
@@ -1289,9 +1323,9 @@ VII. Informar periódicamente al Secretario Ejecutivo del Sistema, el cumplimien
 
 VIII. Las demás que le confieran el Sistema, su Presidencia, la Secretaría Ejecutiva y los ordenamientos jurídicos aplicables.
 
-### Capítulo Cuarto. De la Distribución de Competencias
+### Capítulo Tercero. Del Programa
 
-### Capítulo Primero. De la prevención de la violencia y las Unidades de Atención Integral
+### Capítulo Cuarto. De la Distribución de Competencias
 
 ###### Artículo 49.
 
@@ -1365,7 +1399,7 @@ V. Las unidades administrativas responsables de su ejecución.
 
 El programa deberá establecer los mecanismos de monitoreo, seguimiento y evaluación, así como el alcance derivado de su implementación. Además, establecerá las competencias entre las instancias estatales y municipales y los mecanismos de coordinación.
 
-### Capítulo Segundo. De los Refugios para la Atención a Mujeres Víctimas de Violencia
+### Capítulo Primero. De la prevención de la violencia y las Unidades de Atención Integral
 
 ###### Artículo 53.
 
@@ -2039,6 +2073,20 @@ IX. Sancionar, de acuerdo con la normatividad aplicable, las conductas que const
 
 X. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+###### Artículo 69 Ter.
+
+Corresponde a la Secretaría de Movilidad:
+
+I. Elaboración de políticas públicas que prevengan la violencia contra las mujeres en el transporte público;
+
+II. Generar mecanismos de detección y canalización de las mujeres que sean víctimas de violencia en el transporte público;
+
+III. Realizar con otras dependencias, campañas de prevención de la violencia contra las mujeres en el transporte público; y
+
+IV. La (sic) demás que le confiera esta Ley y otros ordenamientos aplicables.
+
 ###### Artículo 70.
 
 Corresponde a los Municipios de la Entidad:
@@ -2085,7 +2133,7 @@ XII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ## TÍTULO IV. DE LA PREVENCIÓN DE LA VIOLENCIA, ATENCIÓN INTEGRAL A SUS VÍCTIMAS Y REEDUCACIÓN A LOS AGRESORES
 
-### Capítulo Tercero. De los Centros de Reeducación para Agresores
+### Capítulo Segundo. De los Refugios para la Atención a Mujeres Víctimas de Violencia
 
 ###### Artículo 71.
 
@@ -2244,6 +2292,8 @@ IX. Acceder a procedimientos expeditos y accesibles de procuración y administra
 X. A la protección de su identidad e intimidad y la de sus hijas e hijos.
 
 XI. Los demás previstos por esta Ley.
+
+### Capítulo Tercero. De los Centros de Reeducación para Agresores
 
 ###### Artículo 85.
 
@@ -2668,5 +2718,21 @@ P.O. 30 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 621.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 7 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 647.- MEDIANTE EL CUAL ADICIONA EL CAPÍTULO TERCERO BIS "DE LA VIOLENCIA DIGITAL Y MEDIÁTICA", QUE CONTIENE LOS ARTÍCULOS 17 BIS, 17 TER Y 17 QUATER, AL TÍTULO II "DE LAS MODALIDADES DE LA VIOLENCIA", Y SE DEROGA LA FRACCIÓN IX DEL ARTÍCULO 7 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 656.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XIII Y SE RECORREN LAS SUBSECUENTES AL ARTÍCULO 39; Y EL ARTÍCULO 69 TER DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
