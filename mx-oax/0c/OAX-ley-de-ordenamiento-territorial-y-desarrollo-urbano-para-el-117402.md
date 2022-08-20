@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2022-08-06"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -517,11 +517,15 @@ XXVI. Proponer y ejecutar acciones para prevenir y mitigar el riesgo de los asen
 
 XXVII. Formular y ejecutar acciones específicas de promoción y protección a los espacios públicos, debiendo asegurarse, previamente a la expedición de las autorizaciones para el uso, edificación o aprovechamiento urbano, del cumplimiento de las normas para uso de suelo y custodia del Espacio público, en particular, las afectaciones y Destinos para la construcción de infraestructura vial, equipamientos y otros servicios de carácter urbano y metropolitano de carácter público;
 
-XXVIII. Conservar los expedientes y brindar acceso a la información en materia de Ordenamiento territorial, Desarrollo urbano y demás procedimientos relacionados, su ejecución y evaluación, ya sea de forma física, electrónica o a través de sitios web;
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
 
-XXIX. Recibir y dar el trámite correspondiente a las denuncias ciudadanas, así como promover observatorios ciudadanos, y
+XXVIII. Dotar a la cabecera municipal, Agencias, Núcleos Rurales, colonias y comunidades de su jurisdicción; de cámaras de video vigilancia, botones de pánico y altavoces en las vías públicas aledañas a escuelas, parques públicos, mercados, centros de servicios financieros, rutas de transporte, centros de servicios estratégicos, puntos de incidencia delictiva y lugares de mayor afluencia;
 
-XXX. Las demás que le otorguen la presente Ley, su Reglamento y demás disposiciones jurídicas en la materia.
+XXIX. Conservar los expedientes y brindar acceso a la información en materia de Ordenamiento territorial, Desarrollo urbano y demás procedimientos relacionados, su ejecución y evaluación, ya sea de forma física, electrónica o a través de sitios web;
+
+XXX. Recibir y dar el trámite correspondiente a las denuncias ciudadanas, así como promover observatorios ciudadanos, y
+
+XXXI. Las demás que le otorguen la presente Ley, su Reglamento y demás disposiciones jurídicas en la materia.
 
 ## TÍTULO SEGUNDO.. DEL ORDENAMIENTO TERRITORIAL Y EL DESARROLLO URBANO
 
@@ -3482,6 +3486,14 @@ SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 P.O. 6 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 642.- MEDIANTE EL CUAL ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 198, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del H. Congreso del Estado y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 646.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XXVIII, RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 8 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
