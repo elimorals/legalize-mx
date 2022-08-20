@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-archivos-para-el-estado-de-chihuahua-148050"
 country: "mx"
 rank: "ley"
 publication_date: "2021-02-27"
-last_updated: "2021-02-27"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2021.
 
@@ -1071,11 +1071,15 @@ Al frente del Archivo General del Estado estará un director general quien conta
 
 El Archivo General del Estado tendrá su domicilio en la ciudad de Chihuahua, sin perjuicio de establecer otras sedes para el mejor desempeño de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 82.
 
-Para el cumplimiento de su objeto, el Archivo General del Estado, a través de la persona que ocupe el cargo de Director, tiene las siguientes atribuciones:
+Para el cumplimiento de su objeto, el Archivo General del Estado tiene las siguientes atribuciones:
 
-I. Presidir el Consejo Estatal y designar al Secretario Técnico del mismo.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+I. Fungir, por conducto de la persona titular de la Dirección General, como Presidencia del Consejo Estatal y designar a la Secretaría Técnica del mismo.
 
 II. Organizar, conservar y difundir el acervo documental, gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas y las disposiciones jurídicas aplicables.
 
@@ -1163,17 +1167,17 @@ III. Órgano Interno de Control.
 
 IV. Comité Técnico.
 
-V. Secretaría técnica.
+V. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
-VI. Área de Capacitación Estatal e Investigación Archivística.
+VI. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
-VII. Área de Asuntos Jurídicos y Transparencia.
+VII. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
-VIII. Área de Tecnologías de la Información.
+VIII. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
-IX. Área de Archivos Municipales.
+IX. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
-X. Área de Archivo Histórico y Conservación Documental.
+X. (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
 (NOTA: EL 2 DE ABRIL DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2021 Y SU ACUMULADA 55/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -1209,7 +1213,9 @@ El Director General del Archivo General del Estado, será nombrado por el Gobern
 
 I. Tener la Ciudadanía Mexicana.
 
-II. Contar con experiencia mínima de cinco años en materia archivística.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+II. Contar, preferentemente, con experiencia mínima de un año en materia archivística.
 
 III. Contar con estudios de licenciatura y/o posgrado.
 
@@ -1550,3 +1556,25 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciséis días del mes de febrero del año dos mil veintiuno.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/EXLEY/0281/2022 III P.E., MEDIANTE EL CUAL SE CREA EL ARCHIVO GENERAL DEL ESTADO DE CHIHUAHUA Y SE EXPIDE LA LEY DEL ARCHIVO GENERAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las disposiciones previstas en el presente Decreto entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Órgano de Gobierno deberá emitir su estatuto orgánico en un plazo que no exceda los noventa días naturales a partir de la entrada en vigor del presente Decreto. En tanto se expida, el citado cuerpo colegiado resolverá lo necesario para el despacho de los asuntos de la Entidad.
+
+###### ARTÍCULO TERCERO.
+
+Inscríbase el presente Decreto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
