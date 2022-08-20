@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2022-07-09"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -79,9 +79,11 @@ La aplicación de la presente Ley corresponde a la Administración Pública Esta
 
 Toda acción que se desprenda de la aplicación e interpretación de esta Ley tenderá a la prevención, atención y erradicación de usos y prácticas de ejercicio de la Violencia contra las Mujeres, así como a su correspondiente sanción, en su caso, sea con base en sus disposiciones o en cualesquiera otras de carácter administrativo, civil o penal tendentes a dichos objetivos.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 6.
 
-Se aplicará supletoriamente a esta Ley, la Ley para la Prevención y Atención a la Violencia Intrafamiliar, la Ley que Previene, Combate y Elimina la Discriminación en el Estado de Colima, la Ley Orgánica de la Comisión de los Derechos Humanos del Estado de Colima, el Código Civil para el Estado de Colima, el Código de Procedimientos Civiles para el Estado de Colima, el Código Penal para el Estado de Colima y el Código de Procedimientos Penales para el Estado de Colima.
+Se aplicará supletoriamente a esta Ley, la Ley para la Prevención y Atención a la Violencia Familiar, la Ley que Previene, Combate y Elimina la Discriminación en el Estado de Colima, la Ley Orgánica de la Comisión de los Derechos Humanos del Estado de Colima, el Código Civil para el Estado de Colima, el Código de Procedimientos Civiles para el Estado de Colima, el Código Penal para el Estado de Colima y el Código de Procedimientos Penales para el Estado de Colima.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
@@ -125,7 +127,9 @@ IV.- DIF Estatal.- al Sistema para el Desarrollo Integral de la Familia en el Es
 
 V.- DIF Municipal.- al Sistema para el Desarrollo Integral de la Familia del municipio que corresponda;
 
-VI.- CEPAVI.- al Consejo Estatal para la Prevención y Atención de Violencia Intrafamiliar;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VI.- CEPAVI.- al Consejo Estatal para la Prevención y Atención de Violencia Familiar;
 
 VII.- Organizaciones Sociales.- a las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres receptoras de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
 
@@ -255,15 +259,21 @@ La integración de la Comisión de Monitoreo y Evaluación, así como sus funcio
 
 ### CAPÍTULO I. DE LAS MODALIDADES
 
-#### SECCIÓN PRIMERA. VIOLENCIA INTRAFAMILIAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2022)</small>
+
+#### SECCIÓN PRIMERA. VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 12.
 
-La violencia intrafamiliar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera verbal, física, psicológica, sexual, económica o patrimonial a cualquier miembro de la familia, dentro o fuera del domicilio familiar y que tiene el propósito de causar daño y cuya persona generadora de violencia tenga o haya tenido relación de parentesco, por consanguinidad, afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+La violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera verbal, física, psicológica, sexual, económica o patrimonial a cualquier miembro de la familia, dentro o fuera del domicilio familiar y que tiene el propósito de causar daño y cuya persona generadora de violencia tenga o haya tenido relación de parentesco, por consanguinidad, afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 13.
 
-La violencia intrafamiliar también incluye:
+La violencia familiar también incluye:
 
 I.- La selección nutricional a favor de un solo género;
 
@@ -755,9 +765,11 @@ Para prever cualquier Agravio Comparado, el Sistema Estatal, por conducto de la 
 
 Las Órdenes de Protección son personalísimas e intransferibles, de urgente aplicación para proteger a las mujeres de la violencia de género. Deberán otorgarse por la autoridad judicial competente inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen Violencia contra las Mujeres, consecuentemente no dictan ni causan estado sobre los bienes o derechos de los probables responsables o infractores, y durarán por el tiempo que determine la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 38.
 
-Las órdenes de protección deberán otorgarse en los términos de la Ley para la Prevención y Atención a la Violencia Intrafamiliar del Estado.
+Las órdenes de protección deberán otorgarse en los términos de la Ley para la Prevención y Atención a la Violencia Familiar del Estado.
 
 > <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
 
@@ -903,9 +915,9 @@ g).- De Seguridad Pública.
 
 IV.- El Secretario Ejecutivo del Consejo de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
 
-V.- Titular de la Procuraduría General de Justicia del Estado;
+V.- Titular de la Fiscalía General del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2016)</small>
 
@@ -949,7 +961,9 @@ II.- Subsistema de Acción.- Conformado por los Titulares de las Secretarías de
 
 III.- Subsistema de Armonización.- Conformado por dos mesas, la legislativa y la judicial, coordinadas por el Congreso y Poder Judicial del Estado, respectivamente; y
 
-IV.- Subsistema de Violencia Intrafamiliar.- Integrado por el CEPAVI, en los términos de la legislación aplicable.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+IV.- Subsistema de Violencia Familiar.- Integrado por el CEPAVI, en los términos de la legislación aplicable.
 
 Las funciones de operación y atribuciones de los susbsistemas (sic) serán determinadas por el Reglamento de esta Ley.
 
@@ -1317,7 +1331,9 @@ Corresponde a la Secretaría de Salud y Bienestar Social:
 
 I.- En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de sensibilización y formación continua en la prevención y atención de la violencia en su contra;
 
-II.- Favorecer la prevención médica de la violencia de género en sus diferentes modalidades, en especial la violencia intrafamiliar y sexual;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+II.- Favorecer la prevención médica de la violencia de género en sus diferentes modalidades, en especial la violencia familiar y sexual;
 
 III.- Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género, sin demérito de lo que dispongan las normas de protección a las receptoras;
 
@@ -1351,7 +1367,9 @@ d).- Los efectos causados por la violencia en las mujeres; y
 
 e).- Los recursos erogados en la atención de las receptoras.
 
-XIV.- Presentar las denuncias penales respectivas por los ilícitos de violencia intrafamiliar o sexual de las que tengan conocimiento;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+XIV.- Presentar las denuncias penales respectivas por los ilícitos de violencia familiar o sexual de las que tengan conocimiento;
 
 XV.- Establecer programas temáticos sobre discriminación y violencia de género; y
 
@@ -1363,9 +1381,9 @@ XVI.- Crear programas de capacitación y sensibilización para el personal del s
 
 XVII.- Erradicar del personal del área de salud, cualquier prejuicio que evite el ejercicio de los derechos reproductivos, así como cualquier práctica que lleve a la imposición coercitiva de métodos anticonceptivos;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
 
-XVIII.- Presentar las denuncias penales respectivas por los ilícitos de violencia intrafamiliar o sexual de las que tengan conocimiento, así como de aquellos ilícitos que sean consecuencia de la violencia obstétrica;
+XVIII.- Presentar las denuncias penales respectivas por los ilícitos de violencia familiar o sexual de las que tengan conocimiento, así como de aquellos ilícitos que sean consecuencia de la violencia obstétrica;
 
 > <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
 
@@ -1421,7 +1439,11 @@ IX.- Informar de inmediato a la víctima cuando la persona generadora de violenc
 
 X.- Las demás que les señalen las disposiciones legales aplicables.
 
-#### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2022)</small>
+
+#### SECCIÓN SEXTA. DE LA FISCALÍA GENERAL DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2022)</small>
 
 #### SECCIÓN SÉPTIMA. DEL SECRETARIO EJECUTIVO DEL CONSEJO DE SEGURIDAD PÚBLICA
 
@@ -1429,7 +1451,7 @@ X.- Las demás que les señalen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 61.
 
-Corresponde a la Procuraduría General de Justicia del Estado, en materia de violencia en contra de las mujeres:
+Corresponde a la Fiscalía General del Estado, en materia de violencia en contra de las mujeres:
 
 I.- Diseñar la política en materia de procuración de justicia para la prevención, atención y erradicación de la Violencia contra las Mujeres en el marco de la política integral con perspectiva de género;
 
@@ -1457,7 +1479,9 @@ VII.- Asesorar a la receptora de violencia, a efecto de dimensionar la trascende
 
 VIII.- Proporcionar a las receptoras, de cualquier tipo o modalidad de violencia, orientación y asesoría para su eficaz atención y protección;
 
-IX.- Crear unidades especializadas para la atención de las mujeres receptoras de delitos sexuales y de violencia intrafamiliar, sin prácticas de mediación o conciliación;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+IX.- Crear unidades especializadas para la atención de las mujeres receptoras de delitos sexuales y de violencia familiar, sin prácticas de mediación o conciliación;
 
 X.- Establecer un programa de capacitación permanente sobre discriminación, violencia de género y perspectiva de género, al personal encargado de la atención de mujeres receptoras de delito;
 
@@ -1593,7 +1617,9 @@ IV.- Realizar acciones y programas que promueva el respeto a los derechos humano
 
 V.- Apoyar a las autoridades encargadas de efectuar investigaciones en materia de Violencia contra las Mujeres, proporcionando la información y datos estadísticos que requieran para el debido cumplimiento;
 
-VI.- Coadyuvar con la Procuraduría General de Justicia del Estado en la atención, sanción y erradicación de la Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VI.- Coadyuvar con la Fiscalía General del Estado en la atención, sanción y erradicación de la Violencia contra la (sic) Mujeres;
 
 VII.- Colaborar con las instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención a receptoras en los refugios;
 
@@ -1643,7 +1669,9 @@ V.- Impulsar la cultura de la denuncia de la Violencia contra las Mujeres, en el
 
 VI.- Proveer la ayuda necesaria a las diversas instancias que lo soliciten, para preservar la integridad física de las mujeres; y
 
-VII.- Las demás que se establecen en la Ley para la Prevención y Atención de la Violencia Intrafamiliar.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VII.- Las demás que se establecen en la Ley para la Prevención y Atención de la Violencia Familiar.
 
 #### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -1664,6 +1692,8 @@ Las corporaciones policiacas preventivas del Estado, y de los Municipios cumplir
 También integrarán una base de datos que contenga todos los aspectos relacionados con la violencia en contra de las mujeres.
 
 #### SECCIÓN SEGUNDA. DE LOS MODELOS DE ATENCIÓN
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 69.
 
@@ -1883,7 +1913,7 @@ Se integrará a los modelos de prevención, la identificación de riesgo y de fa
 
 ###### ARTÍCULO 80.
 
-En la modalidad de violencia intrafamiliar, se estará a lo dispuesto en la Ley para la Prevención y Atención a la Violencia Intrafamiliar.
+En la modalidad de violencia familiar, se estará a lo dispuesto en la Ley para la Prevención y Atención a la Violencia Familiar.
 
 ###### ARTÍCULO 81.
 
@@ -1983,9 +2013,11 @@ La Secretaría Ejecutiva del Sistema Estatal, buscará establecer las bases de c
 
 ### CAPÍTULO ÚNICO. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 89.
 
-La infracción de las disposiciones contenidas en la presente Ley, serán sancionadas administrativamente. Se considerarán infracciones o faltas, la realización de cualquier tipo de violencia establecidos en el artículo 31 de éste Ordenamiento, así como cualquiera de las Modalidades de Violencia contra las Mujeres establecidas en esta Ley, exceptuando la violencia intrafamiliar, casos en los cuales se aplicará por principio de especialidad la Ley de Prevención y Atención a la Violencia Intrafamiliar.
+La infracción de las disposiciones contenidas en la presente Ley, serán sancionadas administrativamente. Se considerarán infracciones o faltas, la realización de cualquier tipo de violencia establecidos en el artículo 31 de éste ordenamiento, así como cualquiera de las Modalidades de Violencia contra la (sic) Mujeres establecidas en esta Ley, exceptuando la violencia familiar, casos en los cuales se aplicará por principio de especialidad la Ley de Prevención y Atención a la Violencia Familiar.
 
 Las sanciones administrativas consignadas en este Título, se impondrán sin perjuicio de la responsabilidad, penal o administrativa prevista en la Ley Estatal de Responsabilidad de los Servidores Públicos y en las demás leyes aplicables.
 
@@ -2184,3 +2216,9 @@ P.O. 9 DE JULIO DE 2022.
 > <small>[N. DE E. DE TRANSITORIO DEL “DECRETO NÚM. 113.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMÁS, SE REFORMA EL ARTÍCULO 17, PÁRRAFO TERCERO DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]</small>
 
 PRIMERO (SIC). El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 128.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA; ADEMÁS, SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
