@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2022-07-30"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -691,9 +691,9 @@ Concluidas las intervenciones de los legisladores, la Gobernadora o Gobernador d
 
 Enseguida, la Presidenta o Presidente de la Mesa Directiva emitirá un mensaje respecto del informe del Ejecutivo y al término de éste declarará concluida la Sesión.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
-Posteriormente, el Congreso realizará el análisis del informe, acordará solicitar al Ejecutivo del Estado la ampliación de la información por escrito y citará a comparecer a las Secretarias y Secretarios de la Administración Pública, a la Consejera o Consejero Jurídico y al Fiscal General del Estado para el mismo propósito.
+Posteriormente, el Congreso realizará el análisis del informe, acordará solicitar al Poder Ejecutivo del Estado la ampliación de la información por escrito y citará a comparecer a las Secretarias y Secretarios de la Administración Pública, a la Consejera o Consejero Jurídico y a la persona titular de la Contraloría General del Estado para el mismo propósito.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -839,7 +839,9 @@ XXV. Elegir al titular del Órgano Superior de Auditoría y Fiscalización Guber
 
 XXVI. Nombrar a persona o personas idóneas que representen al Estado en las controversias que se susciten con motivo de leyes o actos de la autoridad o poderes federales que vulneren o restrinjan la soberanía del Estado;
 
-XXVII. Nombrar y remover libremente a los empleados de la Oficialía Mayor del Congreso;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+XXVII. Nombrar y remover libremente a los empleados de la Secretaría General del Congreso;
 
 XXVIII. Recibir la protesta de los servidores públicos a que se refieren las fracciones VII, XXI a XXIV y XXVII del presente artículo, así como al Auditor Superior del Estado, en los términos del artículo 133 de esta Constitución;
 
@@ -851,7 +853,9 @@ XXXI. Dirimir las competencias y resolver las controversias que se susciten entr
 
 XXXII. Erigirse en jurado de acusación en los casos que señala el artículo 121 de esta Constitución; y
 
-XXXIII. Conceder amnistía por los delitos políticos que correspondan a la jurisdicción de los tribunales del Estado.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+XXXIII. Conceder amnistía por delitos cuyo conocimiento corresponda a la jurisdicción de los Tribunales del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -2073,7 +2077,9 @@ d) Cuando se susciten entre ellos conflictos que impidan el cumplimiento de los 
 
 El mandato otorgado a alguno de los miembros del Ayuntamiento sólo podrá ser revocado cuando no reúna los requisitos de elegibilidad previstos para tal caso; cuando se le imponga como sanción la inhabilitación por sentencia judicial que haya causado estado, o cuando la pena impuesta exceda del término de su ejercicio.
 
-Si alguno de los miembros del cabildo o del Concejo Municipal deja de desempeñar su cargo por cualquier causa, será sustituido por su suplente y, en caso de impedimento o falta absoluta de éste, el cabildo designará por mayoría calificada a uno de los demás suplentes.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+Si alguno de los miembros del cabildo o del Concejo Municipal deja de desempeñar su cargo por cualquier causa, será sustituido por su suplente y, en caso de impedimento o falta absoluta de éste, el cabildo designará por mayoría calificada a quien cubrirá la vacante entre las y los restantes suplentes electos, correspondientes a las demás fórmulas asignadas al Partido Político de que se trate, quien deberá ser del mismo género de a quien sustituye. En el caso de las regidurías de representación proporcional la vacante se cubrirá conforme al procedimiento establecido en la legislación de la materia.
 
 Las faltas temporales del Presidente Municipal, hasta por quince días, serán suplidas por el Secretario del Ayuntamiento, conforme al procedimiento que establezca la ley reglamentaria. En las faltas definitivas se llamará en primer lugar a su suplente y sólo en el caso de impedimento o falta absoluta de éste, el cabildo, por mayoría de cuando menos las dos terceras partes de sus miembros, nombrará para sustituirlo a un munícipe en funciones.
 
@@ -2273,7 +2279,9 @@ Artículo 95
 
 Los ayuntamientos estarán obligados a remitir anualmente al Congreso del Estado, para su aprobación, sus proyectos de ley de ingresos, a más tardar el 31 de octubre, y hasta el 15 de noviembre en el año en que haya cambio de gobierno municipal.
 
-Asimismo, presentarán al Congreso su cuenta pública anual, conjuntamente con el dictamen de revisión de los resultados correspondientes, aprobado por el cabildo, a más tardar el último día de febrero del ejercicio siguiente, para los efectos del artículo 36 de esta Constitución.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+Asimismo, presentarán al Congreso su cuenta pública anual, conjuntamente con el dictamen de revisión de los resultados correspondientes, aprobado por el cabildo, a más tardar el último día de abril del año siguiente al que corresponda la cuenta pública anual, para los efectos del artículo 36 de esta Constitución.
 
 La aprobación del dictamen de revisión por el cabildo no impide que, en su caso, el Congreso finque responsabilidades a los servidores públicos que hayan incurrido en ellas.
 
@@ -3960,6 +3968,16 @@ P.O. 30 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 117.- POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 90, FRACCIÓN I, PÁRRAFO DÉCIMO PRIMERO, INCISO B), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 125.- POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 31, PÁRRAFO QUINTO, 34, FRACCIONES XXVII Y XXXIII, 95, PÁRRAFO SEGUNDO Y 90, FRACCCIÓN I, PÁRRAFO DÉCIMO TERCERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA.”]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, en términos de los transitorios anteriores, se derogan todas las disposiciones legales que contravengan o se opongan a lo dispuesto por el presente Decreto.
+
+TERCERO. Dentro de los 180 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado de Colima deberá emitir la Ley relativa a regular el procedimiento para conceder amnistía por delitos cuyo conocimiento corresponda a la jurisdicción de los Tribunales del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
