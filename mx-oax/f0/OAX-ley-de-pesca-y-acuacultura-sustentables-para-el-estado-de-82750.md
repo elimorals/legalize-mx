@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-82750
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2021-08-28"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el día jueves 18 del año 2011.
 
@@ -122,6 +122,10 @@ VIII. Aviso de cosecha: Al documento en el que se reporta a la autoridad compete
 IX. Aviso de producción: Al documento en el que se reporta a la autoridad competente, la producción obtenida en laboratorio acuícola;
 
 X. Aviso de recolección: Al documento en el que se reporta a la autoridad competente el número de organismos colectados del medio natural, al amparo de un permiso;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+X Bis. Bienestar Social: La satisfacción de las necesidades materiales y culturales de la población, incluidas entre otras, la seguridad social, vivienda, educación, salud, empleo e infraestructura de servicios básicos;
 
 XI. Bitácora de pesca: Al documento de registro y control del quehacer pesquero abordo de una embarcación, por medio del cual la autoridad competente recibe del pescador el reporte de la actividad que se le ha concesionado o permitido;
 
@@ -243,6 +247,10 @@ III. Establecer las medidas administrativas y de control a que deban sujetarse l
 
 IV. Concertar acuerdos y ejecutar programas de cooperación técnica en materia pesquera y acuícola con instituciones públicas y privadas locales, nacionales e internacionales en el ámbito de su competencia y en observancia a la legislación de la materia;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+IV Bis. Impulsar y concertar mediante convenios con la Federación y los Municipios, una adecuada integración de los factores de bienestar social como son: salud, seguridad social, educación, alimentación, vivienda, la cultura, la recreación y la infraestructura básica necesaria para los pescadores y sus familias;
+
 V. Proponer el aprovechamiento responsable y sustentable de la flora y fauna acuáticas;
 
 VI. Impulsar la conservación de los recursos pesqueros y la repoblación de las áreas de pesca en coordinación con las autoridades competentes;
@@ -330,6 +338,10 @@ IV.- El ordenamiento territorial y la sanidad de los desarrollos acuícolas;
 V.- La realización de acciones operativas tendientes a cumplir con los fines previstos en esta Ley; y
 
 VI.- La inspección y vigilancia en cumplimiento de esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VII. Promover y favorecer el bienestar social y económico de los pescadores y de sus familias.
 
 ###### Artículo 11.
 
@@ -431,6 +443,10 @@ XV. El impulso del estado equilibrado y equitativo, que priorice el desarrollo d
 
 XVI. Financiamiento para el desarrollo e innovación tecnológica y científica, modernización de la flota pesquera, unidades de cultivo, técnicas ecoeficientes, plantas procesadoras, métodos y artes de captura.
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+XVII. Promover y favorecer el bienestar social y económico de los pescadores y de sus familias.
+
 ###### Artículo 18.
 
 Los municipios, en el ámbito de sus respectivas competencias, observarán y aplicarán los principios a que se refiere el artículo anterior.
@@ -472,6 +488,10 @@ XII. Programas que impulsen el desarrollo de la investigación científica y tec
 XIII. Programas que promuevan la acuacultura rural e industrial, así como la reconversión productiva como una alternativa de desarrollo; y
 
 XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca ilegal.
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+XV. El bienestar social y económico de los pescadores y de sus familias.
 
 ###### Artículo 21.
 
@@ -1244,3 +1264,11 @@ P.O. 28 DE AGOSTO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 644.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 5, LA FRACCIÓN IV BIS AL ARTÍCULO 9, LA FRACCIÓN VII AL ARTÍCULO 10, LA FRACCIÓN XVII AL ARTÍCULO 17 Y LA FRACCIÓN XV AL ARTÍCULO 20 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
