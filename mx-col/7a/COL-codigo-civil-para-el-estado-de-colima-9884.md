@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2021-08-28"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -997,7 +997,9 @@ ART. 61.- Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, p
 
 ART. 62.- (DEROGADO, P.O. 20 DE JULIO DE 2019)
 
-ART. 63.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso ni a petición de persona alguna, podrá el oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+ART. 63.- Cuando el hijo nazca de una mujer casada que viva con su marido, podrá el oficial del Registro asentar como padre a otro que no sea el mismo marido, cuando dicha paternidad se pruebe por cualquiera de los medios ordinarios.
 
 ART. 64.- (DEROGADO, P.O. 20 DE JULIO DE 2019)
 
@@ -1069,9 +1071,9 @@ En el caso de lo dispuesto por las fracciones I, II y III de este artículo, la 
 
 ART. 79.- Lo dispuesto en el Artículo anterior se observará también, cuando se haya omitido la presentación para el registro del nacimiento del hijo, o esa presentación se haya hecho después del término de Ley.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
-ART. 80.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al encargado del Registro, dentro del término de quince días, en original o copia certificada del documento firmado en forma autógrafa o con la firma electrónica certificada que lo compruebe. En el acta se insertará la parte relativa de dicho documento en el que se omitirá cualesquiera de las menciones prohibidas por los artículos 58, 60, 63, 78 y 370, observándose las demás prescripciones contenidas en este capítulo y en el IV del título séptimo de este libro.
+ART. 80.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al encargado del Registro, dentro del término de quince días, en original o copia certificada del documento firmado en forma autógrafa o con la firma electrónica certificada que lo compruebe. En el acta se insertará la parte relativa de dicho documento en el que se omitirá cualesquiera de las menciones prohibidas por los artículos 58, 60, 78 y 370, observándose las demás prescripciones contenidas en este capítulo y en el IV del título séptimo de este libro.
 
 ART. 81.- La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
 
@@ -1585,45 +1587,21 @@ ART. 138.- La sentencia ejecutoria que ordene la rectificación del Acta del Est
 
 ## TITULO QUINTO. De las relaciones matrimoniales
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2022)</small>
 
-### CAPITULO I. De los esponsales y relaciones matrimoniales
+### CAPITULO I. De las relaciones matrimoniales
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+ART. 139.- (DEROGADO, P.O. 20 DE AGOSTO DE 2022)
 
-ART. 139.- La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales.
+ART. 140.- (DEROGADO, P.O. 20 DE AGOSTO DE 2022)
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+ART. 141.- (DEROGADO, P.O. 20 DE AGOSTO DE 2022)
 
-ART. 140.- Solo pueden celebrar esponsales las personas que han cumplido dieciocho años.
+ART. 142.- (DEROGADO, P.O. 20 DE AGOSTO DE 2022)
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+ART. 143.- (DEROGADO, P.O. 20 DE AGOSTO DE 2022)
 
-ART. 141.- Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 142.- El que sin causa grave, a juicio del juez, rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiera hecho con motivo de la promesa de matrimonio proyectada.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-En la misma responsabilidad incurrirá el prometido que diere motivo grave para el rompimiento de los esponsales.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando, por la duración del noviazgo la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad de la celebración del matrimonio u otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-La indemnización será prudentemente fijada en cada caso por el juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 143.- Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración de la promesa del matrimonio.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-ART. 144.- Si el matrimonio no se celebra, tienen derecho los prometidos a exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contando desde el rompimiento de los esponsales.
+ART. 144.- (DEROGADO, P.O. 20 DE AGOSTO DE 2022)
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -2315,9 +2293,9 @@ ART. 281.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
 ART. 282.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2022)</small>
 
-ART. 283.- Durante el procedimiento el juez, de oficio o a petición de parte interesada, dictará las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir conductas de violencia intrafamiliar, debiéndose allegar los elementos necesarios para ello. En todo caso estará obligado a escuchar a ambos progenitores y a los hijos mayores de 14 años. Salvo que exista peligro para el menor, el juez hará respetar el derecho de convivencia con los padres. Las medidas podrán ser suspendidas o modificadas en los términos del artículo 94 del Código de Procedimientos Civiles vigente en el Estado.
+ART. 283.- Durante el procedimiento el juez, de oficio o a petición de parte interesada, dictará las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir conductas de violencia familiar, debiéndose allegar los elementos necesarios para ello. En todo caso estará obligado a escuchar a ambos progenitores y a los hijos mayores de 14 años. Salvo que exista peligro para el menor, el juez hará respetar el derecho de convivencia con los padres. Las medidas podrán ser suspendidas o modificadas en los términos del artículo 94 del Código de Procedimientos Civiles vigente en el Estado.
 
 > <small>(ADICIONADO, P.O. 17 DE JULIO DE 2021)</small>
 
@@ -2355,25 +2333,23 @@ II. En caso de divorcio voluntario por vía judicial, cualquiera de los cónyuge
 
 El juez en la sentencia de divorcio, resolverá atendiendo a las circunstancias especiales de cada caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2022)</small>
 
-ART. 287 BIS.- En la demanda de divorcio los cónyuges podrán demandar del otro, una indemnización y hasta el 50% del valor de los bienes que hubiera adquirido, durante el matrimonio, siempre que:
+ART. 287 BIS.- En la demanda de divorcio los cónyuges podrán demandar del otro, una indemnización por compensación y hasta el 50% del valor de los bienes que hubieran adquirido, siempre que se haya dedicado en el lapso en que duró el matrimonio, preponderantemente al desempeño del trabajo del hogar y al cuidado de los hijos si hubiere, o en su caso, al sostenimiento de los mismos.
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2007)</small>
+I.- (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
-I.- Hayan estado casados por el régimen de separación de bienes durante un periodo mayor de diez años;
+II.- (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
-
-II.- El demandante se haya dedicado en el lapso en que duró el matrimonio, preponderantemente al desempeño del trabajo del hogar y al cuidado de los hijos o, en su caso, al sostenimiento de los mismos; y
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
-
-III.- Durante el matrimonio el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente inferiores a los de la contraparte.
+III.- (DEROGADA, P.O. 20 DE AGOSTO DE 2022)
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2007)</small>
 
 El juez en la sentencia de divorcio, resolverá atendiendo a las circunstancias especiales de cada caso.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+En el mismo sentido, los concubinos podrán demandar del otro, una indemnización por compensación y hasta el 50% del valor de los bienes que hubiera adquirido durante el concubinato.
 
 ART 288.- (DEROGADO, P.O. 17 DE JULIO DE 2021)
 
@@ -2419,7 +2395,9 @@ ART. 300.- En la línea transversal los grados se cuentan por el número de gene
 
 ART. 300 BIS.- Los integrantes de la familia en particular, niñas, niños y adolescentes, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con objeto de contribuir a su sano desarrollo para una plena incorporación y participación en el núcleo social. Al efecto, contarán con la asistencia y protección de las instituciones públicas de acuerdo con las leyes vigentes.
 
-Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar. Entendiendo como violencia intrafamiliar y como miembros de la familia, lo establecido en el artículo 25 de la Ley para la Prevención y Atención a la Violencia Intrafamiliar para el Estado de Colima.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar. Entendiendo como violencia familiar y como miembros de la familia, lo establecido en el artículo 25 de la Ley para la Prevención y Atención a la Violencia Familiar para el Estado de Colima.
 
 ### CAPITULO II. De los alimentos
 
@@ -2753,6 +2731,20 @@ ART. 359.- Pueden gozar también de ese derecho los hijos no nacidos, si el padr
 
 ART. 360.- La filiación de los hijos nacidos fuera del matrimonio, sólo se establece por el reconocimiento voluntario hecho por los progenitores o por una sentencia que así lo declare.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2022)</small>
+
+ART. 360 BIS.- Cuando proceda judicialmente el reconocimiento de los hijos, podrá condenarse al progenitor a cubrirse los gastos del parto y el pago de alimentos retroactivos desde su nacimiento a quien tiene la obligación de otorgarla.
+
+Para los efectos del párrafo anterior, para determinar la cantidad que deberá pagarse en su caso de manera retroactiva, deberán tomarse en cuenta los siguientes aspectos:
+
+I. Si existió o no conocimiento previo del nacimiento o del embarazo de la reclamante;
+
+II. La buena o mala fe del deudor alimentario durante el procedimiento;
+
+III. Considerar que en el progenitor recae la carga de probar la existencia de razones justificadas por las que deba ser relevado de la obligación de contribuir al sostenimiento del menor a partir de la fecha de nacimiento; y
+
+IV. La capacidad económica del deudor alimentario.
+
 ART. 361.- Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
 
 ART. 362.- El menor de edad no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de ésta, sin la autorización judicial.
@@ -2825,9 +2817,11 @@ II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la v
 
 ART. 384.- La posesión de estado, para los efectos de la fracción II del artículo 382, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre o por su familia como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
 
-ART. 385.- Está permitido al hijo nacido fuera de matrimonio y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios, pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
-ART. 386.- No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o criminal.
+ART. 385.- Está permitido al hijo nacido fuera de matrimonio y a sus descendientes investigar la maternidad y la paternidad, las cuales pueden probarse por cualquiera de los medios ordinarios.
+
+ART. 386.- (DEROGADO, P.O. 20 DE AGOSTO DE 2022)
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
@@ -3439,9 +3433,9 @@ VI.- Cuando el que la ejerza sea condenado por delito grave;
 
 VII.- Ante el Incumplimiento de la obligación alimentaria por más de noventa días sin causa justificada;
 
-> <small>(ADICIONADA, P.O. 25 DE MARZO DEL 2000)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2022)</small>
 
-VIII.- Cuando los menores hayan presenciado conductas recurrentes de violencia intrafamiliar, que les hayan provocado o puedan provocar un daño en su desarrollo integral.
+VIII.- Cuando los menores hayan presenciado conductas recurrentes de violencia familiar, que les hayan provocado o puedan provocar un daño en su desarrollo integral.
 
 ART. 445.- La madre o abuela que pase a segundas nupcias no pierde por este hecho la patria potestad.
 
@@ -3697,9 +3691,9 @@ Se considera expósito al menor que es colocado en una situación de desamparo p
 
 ART. 493.- Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban expósitos o abandonados, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso, no es necesario el discernimiento del cargo.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2022)</small>
 
-ART. 494.- Los responsables de casa de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de violencia intrafamiliar, tendrán el cuidado de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso lo informarán al Ministerio Público y a quien corresponda el ejercicio de la patria potestad, siempre que éste último no resulte ser el responsable del evento de violencia intrafamiliar.
+ART. 494.- Los responsables de las casas de asistencia ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de violencia familiar, tendrán el cuidado de éstos en los términos que prevengan las leyes o los estatutos de la institución. En todo caso lo informarán al ministerio público y a quien corresponda el ejercicio de la patria potestad, siempre que éste último no resulte ser el responsable del evento de violencia familiar.
 
 ### CAPITULO VI. De la tutela dativa
 
@@ -7845,9 +7839,7 @@ ART. 1817.- En los casos previstos por los artículos 1,814, 1,815 y 1,816, el q
 
 ART. 1818.- El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2011)</small>
-
-ART. 1819.- El Estado tiene obligación de responder de los daños causados por sus funcionarios en el ejercicio de las funciones que les estén encomendadas. Esta responsabilidad es objetiva y directa y sólo podrá hacerse efectiva contra el Estado.
+ART. 1819.- (DEROGADO, P.O. 20 DE AGOSTO DE 2022)
 
 ART. 1820.- El dueño de un animal pagará el daño causado por éste, si no probare alguna de estas circunstancias:
 
@@ -11848,3 +11840,29 @@ P.O. 28 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 485.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 128.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA; ADEMÁS, SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 129.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 63, 80 Y 385, Y SE DEROGA EL ARTÍCULO 386, DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 130.- POR EL QUE SE EXPIDE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE COLIMA Y SE DEROGA EL ARTÍCULO 1819 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se abroga la Ley de Responsabilidad Patrimonial del Estado de Colima contenida en el Decreto número 223 publicado en el Periódico Oficial “El Estado de Colima” el día veintidós de junio del año dos mil dos, junto con todas sus adiciones y reformas.
+
+TERCERO. Se derogan en lo conducente todas las disposiciones jurídicas en lo que se opongan al contenido del presente Decreto.
+
+CUARTO. Los juicios o procedimientos de responsabilidad patrimonial iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán tramitándose hasta su conclusión conforme al ordenamiento jurídico vigente aplicable al momento de su inicio.
+
+QUINTO. El Tribunal y las autoridades administrativas llevarán a cabo campañas de divulgación de la Ley contenida en el presente Decreto.
