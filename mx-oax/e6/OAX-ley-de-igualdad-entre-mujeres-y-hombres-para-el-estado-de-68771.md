@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-68771
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2021-11-13"
+last_updated: "2022-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 25 de abril de 2009.
 
@@ -454,6 +454,10 @@ IV. Establecimiento de medidas para garantizar el acceso de las mujeres al emple
 > <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2019)</small>
 
 V. Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+
+VI. Diseñar, promover, fomentar, difundir y ejecutar políticas públicas, programas y acciones de desarrollo empresarial, industrial, comercial y artesanal, en favor del empoderamiento igualitario entre mujeres y hombre, priorizando la atención a las comunidades indígenas y afromexicanas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -898,3 +902,11 @@ P.O. 13 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 658.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN VI AL ARTÍCULO 25 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
