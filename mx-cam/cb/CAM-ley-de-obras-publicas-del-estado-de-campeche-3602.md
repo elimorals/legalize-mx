@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obras-publicas-del-estado-de-campeche-3602"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-31"
-last_updated: "2020-03-06"
+last_updated: "2022-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
 
@@ -127,9 +127,15 @@ VI. Las demás construcciones, reconstrucciones, ampliaciones, mantenimientos, c
 
 El gasto de la obra pública se sujetará a lo previsto en los correspondientes presupuestos de egresos del Gobierno del Estado y de los gobiernos municipales, así como, en su caso, a las disposiciones de la ley de Control Presupuestal y Gasto Público del Estado.
 
-###### ARTICULO 4o.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2022)</small>
 
-Estarán sujetos también a las disposiciones de esa Ley, en los términos que la misma establece, los contratos de servicios relacionados con la obra pública, que requieran celebrar las dependencias y entidades mencionadas en el artículo 1o. de esta Ley.
+###### ARTÍCULO 4.
+
+Estarán sujetos también a las disposiciones de esa Ley, en los términos que la misma establece, los contratos de servicios relacionados con la obra pública, que requieran celebrar, las Secretarías, Dependencias y Entidades mencionadas en el artículo 1° de esta Ley.
+
+Los convenios o contratos relacionados con procedimientos y servicios previstos por este ordenamiento celebrados entre secretarías, dependencias o entidades estatales, o bien, los que se lleven a cabo con alguna dependencia o entidad de la administración pública federal o de alguna otra entidad federativa, no estarán dentro del ámbito de aplicación de esta Ley.
+
+Las personas de derecho público de carácter federal con autonomía derivada de la Constitución, aplicarán los criterios y procedimientos previstos en esta Ley, en lo que no se contraponga a los ordenamientos legales que los rigen, sujetándose a sus propios órganos de control.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
 
@@ -309,9 +315,11 @@ En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá de
 
 ### CAPITULO IV. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
 
-###### ARTICULO 22.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2022)</small>
 
-Las dependencias y entidades podrán contratar servicios relacionados con las obras públicas, siempre que se trate de servicios profesionales de investigación y consultoría y asesoría especializadas, estudios y proyectos para cualquiera de las fases de la obra pública, así como de dirección o supervisión.
+###### ARTÍCULO 22.
+
+Las secretarías, dependencias y entidades podrán contratar servicios relacionados con las obras públicas, siempre que se trate de servicios profesionales de investigación y consultoría y asesorías especializadas, estudios y proyectos para cualquiera de las fases de la obra pública, así como de dirección o supervisión. Asimismo, podrán celebrar convenios de colaboración con algún otro ente de la administración pública federal o de alguna otra entidad federativa, siempre y cuando se trate del mismo tipo de servicios.
 
 Los contratos a que se refiere este Artículo podrán adjudicarse directamente bajo la responsabilidad de la dependencia o entidad, quedando en lo (sic) demás sujetos a las disposiciones de esta Ley y a las que de ella se deriven.
 
@@ -832,3 +840,13 @@ P.O. 6 DE MARZO DE 2020.
 Primero. El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado de Campeche.
 
 Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 122 ÚNICO.- SE REFORMAN EL ARTÍCULO 4 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 22 DE LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, el Ejecutivo Estatal deberá armonizar las disposiciones reglamentarias que sean necesarias para la debida implementación del mencionado decreto.
+
+TERCERO.- Se deroga cualquier disposición que contravenga la presente ley.
