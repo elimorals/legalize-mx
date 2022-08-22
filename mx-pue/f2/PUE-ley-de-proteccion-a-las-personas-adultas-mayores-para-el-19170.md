@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-personas-adultas-mayores-para-el-19170"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-29"
-last_updated: "2021-11-04"
+last_updated: "2022-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 29 de diciembre de 2000.
 
@@ -189,9 +189,9 @@ I.- Tener acceso a toda la información gerontológica disponible, para incremen
 
 II.- Recibir de manera oportuna orientación jurídica y social, por parte de los "SEDIF" o "SMDIF" quienes, en forma conjunta con otros organismos públicos y privados, implementarán programas de atención para las personas adultas mayores y proporcionarán la información adecuada para realizar los trámites de su jubilación;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2022)</small>
 
-III.- Vivir con decoro, honor y respeto, libres de cualquier forma de violencia física, verbal o económica que ponga en peligro su vida, salud y/o patrimonio;
+III.- Vivir con decoro, honor y respeto, libres de cualquier forma de violencia física, verbal, económica o psicológica que ponga en peligro su vida, salud y/o patrimonio;
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -231,9 +231,21 @@ XV.- Prestar labor social, sin que esto implique que puedan ser obligados a real
 
 XVI.- Disfrutar del respeto a su integridad física, psicoemocional y sexual; y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2022)</small>
 
-XVII.- Los demás previstos en la presente Ley y otras disposiciones aplicables.
+XVII.- Ser sujetos de acciones y políticas públicas de parte de las instituciones estatales y municipales, a efecto de fortalecer su plena integración social;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2022)</small>
+
+XVIII.- Participar en la planeación integral del desarrollo social, a través de la formulación y aplicación de las decisiones que afecten directamente a su bienestar, en su barrio, calle, colonia, junta auxiliar o municipio;
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2022)</small>
+
+XIX.- Tener una atención preferente en los establecimientos públicos y privados que prestan servicios al público en los términos que establece el artículo 39 de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XVII], P.O. 22 DE AGOSTO DE 2022)</small>
+
+XX.- Los demás previstos en la presente Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2015)</small>
 
@@ -698,6 +710,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES IX Y X DEL ARTÍCULO 3, LA FRACCIÓN XIV DEL ARTÍCULO 3 BIS, LAS FRACCIONES II, VI Y XII DEL 4, Y LA FRACCIÓN I DEL 33 Y ADICIONA LA FRACCIÓN XI AL 3 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III Y XVII DEL ARTÍCULO 4; Y ADICIONA LAS FRACCIONES XVIII, XIX Y XX AL ARTÍCULO 4 DE LA LEY DE PROTECCIÓN A LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
