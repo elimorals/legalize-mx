@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2020-10-13"
+last_updated: "2022-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -119,11 +119,11 @@ VIII.- Plan Estratégico: Al Plan Estratégico para el Desarrollo Integral de la
 
 IX.- Sistema: Al Sistema Estatal de la Juventud.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 5.
 
-Corresponderá a las autoridades de la Administración Pública Estatal y Municipal, así mismo a las organizaciones sociales que así lo decidan, crear y promover, dentro del ámbito de sus respectivas competencias, los programas preventivos y de atención, sociales, culturales, políticos y productivos para motivar a personas jóvenes a participar en dichas actividades, procurando que tengan como finalidad el servicio a la sociedad, la vida responsable, el bienestar, la solidaridad, el respeto, la justicia, la formación integral de personas jóvenes y la libre participación política.
+Corresponderá a las autoridades de la Administración Pública Estatal y Municipal, así mismo a las organizaciones sociales que así lo decidan, crear y promover, dentro del ámbito de sus respectivas competencias, los programas preventivos y de atención, sociales, culturales, políticos y productivos para motivar a personas jóvenes a participar en dichas actividades, procurando que tengan como finalidad el servicio a la sociedad, la vida responsable, el bienestar, la solidaridad, el respeto, la justicia, una vida libre de violencia en cualquiera de sus formas, la formación integral de jóvenes y la libre participación política.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
 
@@ -226,6 +226,10 @@ Los Gobiernos Estatal y Municipales adoptarán medidas específicas de prevenci�
 ###### Artículo 12.
 
 Los Gobiernos Estatal y Municipales establecerán políticas públicas para promover la recuperación física y psicológica, así como la reintegración social de toda persona joven que haya sido víctima de violencia, acoso escolar, delito contra la intimidad sexual, ciberacoso, explotación, abuso emocional, físico, sexual, secuestro, uso de drogas, enervantes, psicotrópicos, y cualquier otra que lesione o dañe su integridad o libertad.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2022)</small>
+
+Asimismo, se fomentarán políticas públicas para la prevención de la violencia, con énfasis en la prevención de la violencia feminicida.
 
 #### SECCIÓN TERCERA. DERECHO A LA JUSTICIA, A LA LIBERTAD Y A LA SEGURIDAD PERSONAL
 
@@ -1012,3 +1016,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto dentro del presente Decreto.
+
+P.O. 23 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 5; Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
