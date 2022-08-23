@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-de-inspeccion-del-trabajo-y-aplicacion-10142
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-06-17"
-last_updated: "2014-06-17"
+last_updated: "2022-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101423&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-06-02"
 
 REGLAMENTO GENERAL DE INSPECCIÓN DEL TRABAJO Y APLICACIÓN DE SANCIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE AGOSTO DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de junio de 2014.
 
@@ -41,25 +41,45 @@ El presente ordenamiento rige en todo el territorio nacional y tiene por objeto 
 
 Las disposiciones conducentes de la Ley Federal de Procedimiento Administrativo y las leyes que regulen el procedimiento administrativo de las entidades federativas, se aplicarán a los procedimientos previstos en este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 2.
 
-Para los efectos de este Reglamento, se entenderá por:
+Para efectos del presente Reglamento, se entenderá por:
 
-I. Autoridad del Trabajo: Las dependencias o unidades administrativas, federales, estatales o del Distrito Federal, que cuentan con facultades para vigilar el cumplimiento de la legislación laboral y aplicar las sanciones en los casos que procedan;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+I. Autoridad del Trabajo: Las dependencias o unidades administrativas federales, estatales o de la Ciudad de México, que cuentan con facultades para vigilar el cumplimiento de la legislación laboral y aplicar las sanciones en los casos que procedan;
 
 II. Centro de Trabajo: Todo aquel lugar, cualquiera que sea su denominación, en el que se realicen actividades de producción, distribución de bienes o prestación de servicios, o en el que laboren personas que estén sujetas a una relación de trabajo, en términos del Apartado “A” del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y de la Ley;
 
-III. Inspección: Acto de la Autoridad del Trabajo competente mediante el cual se realiza la promoción y la vigilancia del cumplimiento a la legislación laboral, o bien se asiste y asesora a los trabajadores y patrones en el cumplimiento de la misma. Su desahogo se realiza de manera presencial en el Centro de Trabajo, a través de los servidores públicos facultados y autorizados para ello, o bien, mediante el uso de las tecnologías de la información, requerimientos documentales y análogos;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-IV. Inspector del Trabajo: El servidor público designado por la Autoridad del Trabajo para practicar visitas en los Centros de Trabajo;
+III. Inspección: Acto de la Autoridad del Trabajo competente, mediante el cual se realiza la promoción y la vigilancia del cumplimiento a la legislación laboral, o bien se asiste y asesora a los trabajadores y patrones en el cumplimiento de la misma. Su desahogo se realiza de manera presencial en el Centro de Trabajo, a través de las personas servidoras públicas facultadas y autorizadas para ello, o bien mediante el uso de tecnologías de la información y comunicaciones, o con requerimientos documentales y análogos;
+
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+IV. Inspector del Trabajo: La persona servidora pública autorizada por la Autoridad del Trabajo para practicar visitas en los Centros de Trabajo;
 
 V. Ley: La Ley Federal del Trabajo;
 
-VI. Mecanismos Alternos a la Inspección: Los esquemas que las Autoridades del Trabajo ponen a disposición de los patrones para que informen o acrediten el cumplimiento de la normatividad laboral, incluidos los utilizados por los organismos privados para la evaluación de la conformidad, debidamente acreditados y aprobados, así como las acciones de concertación y colaboración a través de convenios;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-VII. Normas Oficiales Mexicanas: Las relacionadas con la materia de Seguridad y Salud en el Trabajo, expedidas por la Secretaría u otras dependencias de la Administración Pública Federal, conforme a lo dispuesto en la Ley Federal sobre Metrología y Normalización y su Reglamento;
+VI. Mecanismos Alternos a la Inspección: Los esquemas que las Autoridades del Trabajo ponen a disposición de los patrones para que informen o acrediten el cumplimiento de las disposiciones laborales, siendo los siguientes:
 
-VIII. Peligro o Riesgo Inminente: Aquél que tiene una alta probabilidad de materializarse en un futuro inmediato y supone un daño para la seguridad y salud o la pérdida de la vida de los trabajadores, o provocar daños graves al Centro de Trabajo, que se genera por la correlación directa de alta peligrosidad de un agente físico, químico, biológico o condición física, por exposición con los trabajadores;
+a) Los programas de cumplimiento voluntario que establezca la Secretaría;
+
+b) Los procedimientos alternativos para el cumplimiento de las disposiciones laborales, incluidos los emitidos por los organismos de evaluación de la conformidad debidamente acreditados y aprobados, conforme a la Ley de Infraestructura de la Calidad, y
+
+c) Las acciones de concertación y colaboración que la Secretaría determine a través de la celebración de convenios;
+
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VII. Normas Oficiales Mexicanas: Las relacionadas con la materia de Seguridad y Salud en el Trabajo expedidas por la Secretaría u otras dependencias y entidades de la Administración Pública Federal, conforme a lo dispuesto en la Ley de Infraestructura de la Calidad y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VIII. Peligro o Riesgo Inminente: Aquel que tiene una alta probabilidad de materializarse en un futuro inmediato y supone un daño para la Seguridad y Salud en el Trabajo o la pérdida de la vida de los trabajadores, o provocar daños graves al Centro de Trabajo, que se genera por la correlación directa de alta peligrosidad de un agente físico, químico, biológico o condición física, por exposición con los trabajadores, o de una emergencia o contingencia sanitaria;
 
 IX. Programas de Inspección: Documentos que describen las acciones encaminadas a planear, organizar y controlar la promoción, aplicación y vigilancia del cumplimiento de la legislación laboral con base al capital humano, recursos presupuestarios y materiales con los que cuenta la Autoridad del Trabajo. Incluye, entre otros elementos, el protocolo o lineamiento de Inspección, los criterios rectores, así como los plazos y metas;
 
@@ -67,9 +87,11 @@ X. Secretaría: La Secretaría del Trabajo y Previsión Social, y
 
 XI. Seguridad y Salud en el Trabajo: Todos aquellos aspectos relacionados con la prevención de accidentes y enfermedades de trabajo, y que están referidos en otros ordenamientos a materias tales como: seguridad e higiene; seguridad e higiene industrial; seguridad y salud; seguridad, salud y medio ambiente de trabajo; seguridad, higiene y medio ambiente de trabajo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 3.
 
-La Secretaría, los gobiernos de los estados y del Distrito Federal, podrán celebrar convenios para establecer la coordinación, auxilio y unificación de criterios, programas, sistemas y procedimientos de Inspección y aplicación de sanciones que permitan la adecuada vigilancia y cumplimiento de los preceptos jurídicos en materia de trabajo.
+La Secretaría y los gobiernos de las entidades federativas podrán celebrar convenios para establecer la coordinación, auxilio y unificación de criterios, programas, sistemas y procedimientos de Inspección y aplicación de sanciones que permitan la adecuada vigilancia y cumplimiento de los preceptos jurídicos en materia de trabajo.
 
 Las Autoridades del Trabajo de las entidades federativas, remitirán a la Secretaría la documentación y las actas en las que se hagan constar presuntas violaciones a la legislación laboral, cuando corresponda a las autoridades federales conocer de dichos asuntos, en términos de las disposiciones legales aplicables.
 
@@ -89,17 +111,29 @@ Las notificaciones de las actuaciones que se realicen para la práctica de Inspe
 
 Serán objeto de notificación personal o mediante oficio entregado por mensajero, o correo certificado con acuse de recibo o a través de medios electrónicos, en términos de las disposiciones de este Reglamento o de la ley que regule el procedimiento administrativo que resulte aplicable, lo siguiente:
 
-I. Las comunicaciones por virtud de las cuales se concedan plazos a los patrones, para que adopten las medidas procedentes respecto de violaciones a la legislación laboral en materia de Seguridad y Salud en el Trabajo y capacitación y adiestramiento de los trabajadores;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-II. Los requerimientos que tengan por objeto comprobar el cumplimiento de las obligaciones derivadas de la Ley y demás disposiciones aplicables en la materia;
+I. Las comunicaciones por virtud de las cuales se concedan plazos a los patrones para que adopten las medidas de seguridad de aplicación inmediata necesarias para prevenir o corregir la situación de Peligro o Riesgo Inminente procedentes, respecto de violaciones a la legislación laboral en materia de Seguridad y Salud en el Trabajo;
 
-III. Los emplazamientos a los presuntos infractores, a efecto de que concurran a la audiencia o, en su caso, comparezcan al procedimiento administrativo para la aplicación de sanciones;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-IV. Los acuerdos dictados dentro del procedimiento administrativo para la aplicación de sanciones;
+II. Las notificaciones a los presuntos infractores, a efecto de que comparezcan al procedimiento administrativo para la aplicación de sanciones;
+
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+III. Los acuerdos dictados dentro de los procedimientos administrativos tanto de Inspección como para la aplicación de sanciones;
+
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+IV. El acuerdo en el que se dicte la terminación del procedimiento administrativo de Inspección;
 
 V. Las resoluciones en las que se imponga la sanción correspondiente;
 
 VI. Las resoluciones absolutorias;
+
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VI Bis. Los acuerdos dictados respecto a la determinación del registro al padrón a que se refiere el artículo 15, párrafo quinto, de la Ley, así como los relativos a la negativa o cancelación de dicho registro;
 
 VII. Las resoluciones que se emitan con motivo de la sustanciación de los recursos administrativos, y
 
@@ -117,9 +151,11 @@ Los plazos de las notificaciones realizadas a través de medios electrónicos em
 
 Para ser Inspector del Trabajo se requiere satisfacer los requisitos que señala la Ley y aprobar los exámenes correspondientes de aptitud que apliquen las Autoridades del Trabajo, en el ámbito de sus respectivas jurisdicciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 8.
 
-Los Inspectores del Trabajo tendrán las siguientes obligaciones:
+Los Inspectores del Trabajo, además de las obligaciones previstas en la Ley, tienen las siguientes:
 
 I. Actuar con legalidad, honradez, lealtad, imparcialidad y eficiencia;
 
@@ -127,15 +163,33 @@ II. Vigilar y promover, en el ámbito de sus respectivas jurisdicciones, el cump
 
 III. Cumplir puntualmente las instrucciones que reciban de sus superiores jerárquicos en relación con el ejercicio de sus funciones, así como ceñir su actuación a las disposiciones normativas, lineamientos, protocolos, criterios o alcances de los Programas de Inspección;
 
-IV. Levantar las actas en las que se asiente el resultado de las Inspecciones efectuadas o aquéllas en las que se hagan constar los hechos que las impidieron, cuando la causa sea la negativa del patrón o de su representante, así como rendir los informes en los que se hagan constar las circunstancias que impidieron la práctica de una Inspección por causas ajenas a la voluntad del patrón o de su representante u otras causas. En las actas se harán constar los requisitos que señala el presente Reglamento y aquéllos que señale la ley que regule el procedimiento administrativo que resulte aplicable;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-V. Turnar a sus superiores inmediatos, dentro de un plazo de tres días hábiles, contados a partir del día siguiente a la fecha en que se concluyó la Inspección, las actas que hubieren levantado y la documentación correspondiente, salvo los casos de excepción previstos en el presente Reglamento;
+IV. Levantar las actas en las que se asienten los hechos o circunstancias que hayan ocurrido durante la práctica de las Inspecciones, así como el resultado de dichas Inspecciones;
 
-VI. Realizar las diligencias de notificación relacionadas con la práctica de Inspecciones y la aplicación de sanciones por violaciones a la legislación laboral;
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+IV Bis. Instrumentar y notificar por instructivo los requerimientos administrativos señalados en la orden de Inspección, cuando el patrón o su representante no permita la Inspección y vigilancia por parte de las Autoridades del Trabajo, de conformidad con el artículo 1004-A de la Ley;
+
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+V. Turnar a sus superiores inmediatos en un plazo de tres días hábiles, contado a partir del día hábil siguiente a la fecha en que se concluyó la Inspección, las actas que hubieren levantado y la documentación correspondiente, salvo los casos de excepción previstos en el presente Reglamento, o que por casos fortuitos o de fuerza mayor resulte imposible atender dicho plazo;
+
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VI. Realizar las diligencias de notificación relacionadas con los procedimientos de Inspección y para la aplicación de sanciones por violaciones a la legislación laboral;
+
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VI Bis. Notificar los acuerdos relacionados con la substanciación de los procedimientos de Inspección iniciados con motivo del desahogo de las visitas de Inspección;
 
 VII. Verificar los estallamientos y subsistencias de huelga en los Centros de Trabajo;
 
 VIII. Vigilar que las agencias de colocación de trabajadores cuenten con la autorización y el registro correspondientes, otorgados en los términos del Reglamento aplicable;
+
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VIII Bis. Realizar las gestiones necesarias para la actualización de los directorios, padrones o sistemas de registro empresarial, que para tales efectos las Autoridades del Trabajo tengan implementados, conforme a lo asentado en las actas de Inspección o informes;
 
 IX. Verificar que el servicio para la colocación de los trabajadores sea gratuito para éstos;
 
@@ -145,7 +199,9 @@ XI. Sugerir la adopción de medidas de Seguridad y Salud en el Trabajo cuando de
 
 XII. Decretar, previa consulta y autorización a la Dirección General de Inspección Federal del Trabajo, las medidas de restricción de acceso en áreas de riesgo o limitar la operación de actividades, cuando ello implique un peligro o riesgo inminente, y
 
-XIII. Las demás que establezcan otros ordenamientos jurídicos.
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+XIII. Las demás que establezcan este Reglamento u otros ordenamientos jurídicos.
 
 ###### ARTÍCULO 9.
 
@@ -189,15 +245,23 @@ I. Participación de los trabajadores en las utilidades de las empresas;
 
 II. Enteros de los descuentos al Instituto del Fondo Nacional para el Consumo de los Trabajadores;
 
-III. Generadores de vapor o calderas y recipientes sujetos a presión;
+III. (DEROGADA, D.O.F. 23 DE AGOSTO DE 2022)
 
 IV. Accidentes de trabajo;
 
 V. Trabajos en las minas;
 
-VI. Agencias de colocación de trabajadores, en términos de los ordenamientos aplicables, y
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-VII. Materias y trabajos especiales que por su especificidad así lo requieran.
+VI. Agencias de colocación de trabajadores, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VII. Materias y trabajos especiales que por su especificidad así lo requieran, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VIII. Estrategias y operativos que establezcan las unidades administrativas en materia de Inspección de la Secretaría, encaminados a la vigilancia del cumplimiento de las condiciones generales del trabajo, la capacitación y adiestramiento y la Seguridad y Salud en el Trabajo, así como la vigilancia de las disposiciones en materia de subcontratación.
 
 Las Autoridades del Trabajo, en el ámbito de sus respectivas competencias, podrán comisionar a los Inspectores del Trabajo a otras regiones, de acuerdo a las necesidades del servicio.
 
@@ -231,9 +295,13 @@ Para la elaboración de los Programas de Inspección, se deberá convocar a las 
 
 En el ámbito de su competencia, la Comisión Consultiva Nacional de Seguridad y Salud en el Trabajo y las Comisiones Estatales de Seguridad y Salud en el Trabajo, podrán opinar sobre los criterios rectores y prioridades de los Programas de Inspección.
 
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 14.
 
-El cumplimiento de las Normas Oficiales Mexicanas en los Centros de Trabajo podrá acreditarse en los términos que establezca la Ley Federal sobre Metrología y Normalización, el presente Reglamento, el Reglamento en materia de Seguridad y Salud en el Trabajo, así como otras leyes o reglamentos aplicables. Lo anterior, sin perjuicio de las facultades de las Autoridades del Trabajo para realizar las Inspecciones correspondientes.
+El cumplimiento de las Normas Oficiales Mexicanas en los Centros de Trabajo podrá acreditarse en los términos que establezca la Ley de Infraestructura de la Calidad, el presente Reglamento, el Reglamento Federal de Seguridad y Salud en el Trabajo, así como otras leyes o reglamentos aplicables.
+
+Lo anterior, sin perjuicio de las facultades de las Autoridades del Trabajo para realizar las Inspecciones correspondientes.
 
 ###### ARTÍCULO 15.
 
@@ -255,9 +323,11 @@ Los hechos certificados por los Inspectores del Trabajo en las actas que levante
 
 #### SECCIÓN SEGUNDA. DE LA ASESORÍA Y ASISTENCIA TÉCNICA
 
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 18.
 
-Las Autoridades del Trabajo podrán, a solicitud de parte o en ejecución de los Programas de Inspección, realizar Inspecciones de asesoría y asistencia técnica con la finalidad de fomentar entre trabajadores y patrones, entre otros aspectos, el cumplimiento de la normatividad laboral, el trabajo digno o decente, la inclusión laboral, el impulso a la creación de empleos formales, elevar la capacitación y la productividad y promover una cultura de la prevención de riesgos de trabajo, salvaguardando en todo momento los derechos humanos laborales.
+Las Autoridades del Trabajo podrán, a solicitud de parte o en ejecución de los Programas de Inspección o programas de cumplimiento voluntario o convenios de colaboración, realizar Inspecciones de asesoría y asistencia técnica con la finalidad de fomentar entre trabajadores y patrones, entre otros aspectos, el cumplimiento de las disposiciones laborales, el trabajo digno o decente, la inclusión laboral, el impulso a la creación de empleos formales, elevar la capacitación y la productividad y promover una cultura de la prevención de riesgos de trabajo, para salvaguardar en todo momento los derechos humanos laborales.
 
 ###### ARTÍCULO 19.
 
@@ -281,21 +351,33 @@ La determinación de competencia administrativa deberá emitirse dentro de los t
 
 En el caso de que se determine que la empresa debe estar sujeta a la competencia de una Autoridad del Trabajo distinta a la que practicó la Inspección, se deberá hacer el desglose de la información correspondiente y turnar dentro de las siguientes setenta y dos horas, las constancias respectivas a la autoridad que deba conocer, a efecto de que haga las anotaciones conducentes en los padrones de Centros de Trabajo, y en su momento, practique las Inspecciones procedentes.
 
-#### SECCIÓN CUARTA. DE LA SUPERVISIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+#### SECCIÓN CUARTA. DE LA SUPERVISIÓN Y VERIFICACIÓN
+
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 22.
 
-La Autoridad del Trabajo, con arreglo a lo dispuesto en el artículo 29 de este Reglamento, podrá realizar Inspecciones de supervisión con la finalidad de:
+La Autoridad del Trabajo, con base en lo dispuesto en el artículo 29 de este Reglamento, podrá realizar Inspecciones de verificación o supervisión con la finalidad de:
 
-I. Constatar la información proporcionada por los patrones o sus representantes en los Mecanismos Alternos a la Inspección, y
+I. Verificar la información proporcionada por los patrones o sus representantes en los programas de cumplimiento voluntario;
 
-II. Corroborar la veracidad de los hechos asentados por los Inspectores del Trabajo en los documentos, informes o actas generadas con motivo de las Inspecciones.
+II. Corroborar la información y los hechos asentados por los organismos de evaluación de la conformidad directamente en los Centros de Trabajo, y
+
+III. Corroborar la veracidad de los hechos asentados por los Inspectores del Trabajo en los documentos, informes o actas generadas con motivo de las Inspecciones realizadas.
+
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 23.
 
-En las Inspecciones de supervisión a empresas incorporadas a los Mecanismos Alternos a la Inspección en las que se detecte que la información proporcionada es falsa o que se condujeron con dolo, mala fe o violencia, se dará de baja al Centro de Trabajo del mecanismo correspondiente y se ordenará la práctica de inspecciones extraordinarias en el Centro de Trabajo.
+En las Inspecciones de verificación a empresas incorporadas a programas de cumplimiento voluntario en las que se detecte que la información proporcionada es falsa o que se condujeron con dolo, mala fe o violencia, se dará de baja al Centro de Trabajo del programa de cumplimiento voluntario que corresponda y se ordenará la práctica de Inspecciones extraordinarias en el Centro de Trabajo.
 
 De comprobarse la falsedad de la información proporcionada por el patrón, se presumirá como una conducta intencional, y de no acreditar lo contrario, será considerada al determinar el monto de la sanción aplicable, sin perjuicio de la vista que se deba dar al Ministerio Público competente.
+
+Si en las Inspecciones de supervisión a los Centros de Trabajo que pretendan dar cumplimiento a las disposiciones laborales con información emitida por organismos de evaluación de la conformidad se detecta que la información es falsa o distinta con lo observado por el Inspector del Trabajo al momento de la visita, se dará vista a la autoridad competente para que inicie el procedimiento establecido en los ordenamientos que regulan el funcionamiento de dichos organismos.
+
+Sin perjuicio de lo anterior, si el Inspector del Trabajo durante la visita de supervisión a los Centros de Trabajo señalados en el párrafo tercero del presente artículo, detecta una situación de Peligro o Riesgo Inminente podrá determinar las medidas precautorias que estime pertinentes de conformidad con lo establecido en el presente Reglamento, para salvaguardar la vida, la integridad física o la salud de los trabajadores.
 
 ###### ARTÍCULO 24.
 
@@ -313,19 +395,37 @@ La supervisión de las actividades de los Inspectores del Trabajo, podrá realiz
 
 Si derivado de la supervisión se detectan hechos, actos u omisiones que pudieran contravenir la normatividad, se dará vista a la autoridad competente con las constancias que motiven la denuncia, para que determine lo que en derecho corresponda.
 
-#### SECCIÓN QUINTA. DE LAS INSPECCIONES ORDINARIAS Y EXTRAORDINARIAS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+#### SECCIÓN QUINTA. DEL PROCEDIMIENTO ADMINISTRATIVO DE INSPECCIÓN
 
 ###### ARTÍCULO 27.
 
 Las Autoridades del Trabajo deberán practicar en los Centros de Trabajo Inspecciones ordinarias, mismas que deberán efectuarse en días y horas hábiles y serán las siguientes:
 
-I. Iniciales: Las que se realizan por primera vez a los Centros de Trabajo, o por ampliación o modificación de éstos;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+I. Iniciales: Las que se realizan por primera vez a los Centros de Trabajo, o por ampliación o modificación de estos.
+
+El alcance de las Inspecciones a que se refiere esta fracción deberá sujetarse a lo establecido en los Lineamientos Operativos de Inspección Federal del Trabajo;
 
 II. Periódicas: Las que se efectúan con intervalos de doce meses, plazo que podrá ampliarse o disminuirse de acuerdo con la evaluación de los resultados que se obtengan derivados de Inspecciones anteriores, tomando en consideración la rama industrial, la naturaleza de las actividades que realicen, su grado de riesgo, número de trabajadores y ubicación geográfica.
 
-La programación de estas Inspecciones se hará por actividad empresarial y rama industrial en forma periódica, estableciendo un sistema aleatorio para determinar anualmente el turno en que deban ser inspeccionados los Centros de Trabajo. La autoridad competente en materia de responsabilidades de los servidores públicos verificará el correcto funcionamiento de dicho sistema, y
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-III. De comprobación: Las que se realizan cuando se requiere constatar el cumplimiento de las medidas emplazadas u ordenadas previamente por las Autoridades del Trabajo en materia de Seguridad y Salud en el Trabajo. La Autoridad del Trabajo podrá habilitar el desahogo de este tipo de visitas en días y horas inhábiles.
+La programación de estas Inspecciones se hará por actividad empresarial y rama industrial en forma periódica, estableciendo un sistema aleatorio para determinar anualmente el turno en que deban ser inspeccionados los Centros de Trabajo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+Para las Inspecciones a que se refiere la presente fracción, la Autoridad del Trabajo deberá emitir la orden de Inspección únicamente sobre las Normas Oficiales Mexicanas que le resulten aplicables al Centro de Trabajo. Para efectos de determinar dichas Normas Oficiales Mexicanas, la Autoridad del Trabajo solo deberá considerar los antecedentes de las Inspecciones que se hayan realizado al Centro de Trabajo y las características propias de este, y
+
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+III. De comprobación: Las que se realizan cuando se requiere constatar el cumplimiento de las medidas ordenadas previamente por las Autoridades del Trabajo en materia de Seguridad y Salud en el Trabajo. La Autoridad del Trabajo podrá habilitar el desahogo de este tipo de visitas en días y horas inhábiles.
+
+> <small>(ADICIONADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+Si con motivo de la actuación del Inspector del Trabajo se advierte la inobservancia a las disposiciones señaladas en el presente artículo y, en particular en los alcances de las órdenes de Inspección o en la aplicación en exceso o incorrecta de las Normas Oficiales Mexicanas aplicables a los Centros de Trabajo, se iniciarán las acciones a que se refieren los artículos 548 y 549 de la Ley, sin perjuicio de las acciones en materia de responsabilidades administrativas de las personas servidoras públicas.
 
 ###### ARTÍCULO 28.
 
@@ -343,11 +443,29 @@ V. En el desahogo de una Inspección previa o en la presentación de documentos 
 
 VI. Se detecten actas de Inspección o documentos que carezcan de los requisitos establecidos en las disposiciones jurídicas aplicables, o en aquéllas de las que se desprendan elementos para presumir que el Inspector del Trabajo incurrió en conductas irregulares;
 
-VII. Se realice la supervisión a que se refiere la Sección Cuarta de este Capítulo;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-VIII. Se verifique que los Centros de Trabajo hayan suspendido sus labores, con motivo de una declaratoria de contingencia sanitaria emitida por la autoridad correspondiente, y
+VII. Se realice la supervisión y verificación a que se refiere la Sección Cuarta de este Capítulo;
 
-IX. Se requiera constatar que el escrito de objeciones a la declaración de los patrones previsto en el artículo 121 de la Ley, para efectos de la participación de los trabajadores en las utilidades de las empresas, fue presentado por la mayoría de los trabajadores de la empresa.
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VIII. Se verifique que los Centros de Trabajo hayan suspendido sus labores, con motivo de una declaratoria de contingencia sanitaria emitida por la autoridad correspondiente;
+
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+IX. Se requiera constatar que el escrito de objeciones a la declaración de los patrones previsto en el artículo 121 de la Ley, para efectos de la participación de los trabajadores en las utilidades de las empresas, fue presentado por la mayoría de los trabajadores de la empresa;
+
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+X. Cuando deriven de una estrategia específica del Programa de Inspecciones, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+XI. Con la finalidad de corroborar el cumplimiento de medidas que se hayan dictado en las resoluciones derivadas de un procedimiento de Inspección.
+
+> <small>(ADICIONADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+En las Inspecciones extraordinarias que sean motivadas por los supuestos previstos en las fracciones I, II, III, IV y V del presente artículo, la orden de Inspección tendrá por objeto verificar el cumplimiento de las Normas Oficiales Mexicanas que se presuman incumplidas, así como los posibles incumplimientos señalados en las quejas o denuncias, los incumplimientos identificados por la Autoridad del Trabajo como un Peligro o Riesgo Inminente, o las causas que originaron el accidente de trabajo.
 
 ###### ARTÍCULO 29.
 
@@ -357,27 +475,39 @@ En caso de que la Autoridad del Trabajo, por alguna circunstancia, no le fuera p
 
 Las Inspecciones extraordinarias serán practicadas por los Inspectores del Trabajo sin que medie citatorio previo, a fin de satisfacer su objetivo primordial de detectar en forma inmediata la situación que prevalece en el Centro de Trabajo inspeccionado.
 
-Al inicio de las Inspecciones ordinarias o extraordinarias, el Inspector del Trabajo deberá entregar al patrón o a su representante o a la persona con quien se entienda la diligencia, el original de la orden escrita respectiva, con firma autógrafa del servidor público facultado para ello, así como una guía que contenga los principales derechos y obligaciones del inspeccionado. Dichas órdenes de Inspección deberán precisar el Centro de Trabajo a inspeccionar, su ubicación, el objeto y alcance de la diligencia, su fundamento legal, así como los números telefónicos a los que el patrón podrá comunicarse para constatar los datos de la orden correspondiente.
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+Al inicio de las Inspecciones ordinarias o extraordinarias, el Inspector del Trabajo deberá entregar al patrón o a su representante o a la persona con quien se entienda la diligencia, el original de la orden escrita respectiva, con firma autógrafa de la persona servidora pública facultada para ello, así como una guía que contenga los principales derechos y obligaciones de la persona inspeccionada. Dichas órdenes de Inspección deberán precisar el Centro de Trabajo a inspeccionar, su ubicación, el objeto y alcance de la diligencia, su fundamento legal, así como los números telefónicos a los que el patrón podrá comunicarse para constatar los datos de la orden correspondiente, con lo cual, se considerará legalmente iniciado el procedimiento administrativo de Inspección.
 
 El Inspector del Trabajo deberá exhibir credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función. Las credenciales de los Inspectores del Trabajo deberán contener, de manera clara y visible, la siguiente leyenda: “Esta credencial no autoriza a su portador a realizar Inspección alguna, sin la orden correspondiente”.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 30.
 
-Al momento de llevarse a cabo una Inspección, tanto el patrón como sus representantes, están obligados a permitir el acceso del Inspector del Trabajo y, en su caso, de los expertos en la materia habilitados para tal efecto, al Centro de Trabajo y a otorgar todo tipo de facilidades, apoyos y auxilios, incluyendo los de carácter administrativo, para que la Inspección se practique y para el levantamiento del acta respectiva, así como proporcionar la información y documentación que les sea requerida por el Inspector del Trabajo y a que obliga la Ley, sus reglamentos, las Normas Oficiales Mexicanas y demás disposiciones aplicables en la materia.
+Al momento de llevarse a cabo una Inspección, el patrón, su representante o la persona que atienda la Inspección, están obligados a permitir el acceso del Inspector del Trabajo y, en su caso, de los expertos en la materia habilitados para tal efecto, al Centro de Trabajo, y a otorgar todo tipo de facilidades, apoyos y auxilios, incluyendo los de carácter administrativo, para que la Inspección se practique, y para el levantamiento del acta respectiva, así como proporcionar la información y documentación que les sea requerida por el Inspector del Trabajo y a que obliga la Ley, sus reglamentos, las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables.
 
-De toda Inspección se levantará acta circunstanciada, con la intervención del patrón o su representante, así como la de los trabajadores, en presencia de dos testigos propuestos por la parte patronal, o bien, designados por el propio Inspector del Trabajo si aquélla se hubiere negado a proponerlos.
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-En caso de que el patrón o su representante se opongan a la práctica de la Inspección ordenada, el Inspector del Trabajo lo hará constar en el acta correspondiente. La Autoridad del Trabajo, previo acuerdo de su titular, lo hará del conocimiento del Ministerio Público competente para los efectos legales procedentes, independientemente de la sanción administrativa que proceda.
+De toda Inspección se levantará acta circunstanciada, con la intervención del patrón, su representante o la persona que atienda la Inspección, así como la de los trabajadores, en presencia de dos testigos propuestos por la parte patronal, o bien, designados por el propio Inspector del Trabajo si el patrón se hubiere negado a proponerlos.
+
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+En caso de que el patrón, su representante o la persona que atienda la Inspección se opongan a la práctica de la Inspección ordenada, el Inspector del Trabajo lo hará constar en el acta correspondiente.
 
 Cuando por causas ajenas al patrón no se pueda llevar a cabo la diligencia de Inspección, el Inspector del Trabajo hará constar el hecho y su descripción en un acta de la cual deberá dejar una copia en el Centro de Trabajo y recabar la firma de la persona con quien se entienda la diligencia, con el objeto de reprogramar la visita, en los términos de los Programas de Inspección correspondientes.
 
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 31.
 
-Si durante la práctica de una Inspección ordinaria se detecta que el Centro de Trabajo emplea quince o menos trabajadores y la empresa en su conjunto no tiene más establecimientos o sucursales que el lugar visitado, el Inspector del Trabajo deberá señalar dicha circunstancia en el acta y desahogar la visita en los términos que establece la Sección Segunda de este Capítulo.
+Si durante la práctica de una Inspección ordinaria se detecta que el Centro de Trabajo emplea treinta o menos trabajadores, que la empresa en su conjunto no tiene más establecimientos o sucursales que el lugar visitado, que su prima de riesgo del trabajo es menor a la clase III a que se refiere la Ley del Seguro Social, que no se desarrollan actividades de transformación o de manufactura de materias primas, o que no se empleen sustancias peligrosas, el Inspector del Trabajo deberá señalar dicha circunstancia en el acta y desahogar la visita en los términos que establece la Sección Segunda de este Capítulo.
+
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 32.
 
-El Inspector del Trabajo, atento al objeto de la Inspección deberá, solicitar el auxilio de los integrantes de las comisiones existentes en el Centro de Trabajo y del personal de mayor experiencia del mismo. Cuando se requiera, podrá hacerse acompañar de expertos o peritos en la rama comercial, industrial o de servicios que se inspecciona o por servidores públicos federales, estatales o del Distrito Federal, designados previamente al efecto por las Autoridades del Trabajo. Dicha designación deberá estar contenida en la orden de Inspección respectiva.
+El Inspector del Trabajo, atento al objeto de la Inspección, deberá solicitar el auxilio de los integrantes de las comisiones existentes en el Centro de Trabajo y del personal de mayor experiencia de este. Cuando se requiera, podrá hacerse acompañar de expertos o peritos en la rama comercial, industrial o de servicios que se inspecciona o por personas servidoras públicas federales, estatales o de la Ciudad de México, designadas previamente al efecto por las Autoridades del Trabajo. Dicha designación deberá estar contenida en la orden de Inspección respectiva.
 
 ###### ARTÍCULO 33.
 
@@ -403,17 +533,15 @@ Asimismo, deberá hacer del conocimiento del patrón o su representante el derec
 
 El Inspector del Trabajo invitará a las personas que hayan intervenido en la diligencia a que procedan a firmar y recibir el acta correspondiente; en caso de negativa, se harán constar tales hechos, sin que esto afecte la validez de la misma. El Inspector del Trabajo deberá entregar copia del acta al patrón o a su representante, así como al de los trabajadores y, en su caso, a la comisión de seguridad e higiene del Centro de Trabajo, haciendo constar en el propio documento tal circunstancia.
 
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 36.
 
-Con excepción de lo dispuesto en el artículo 40 de este Reglamento, el Inspector del Trabajo, en todas las visitas que realice, otorgará plazos a los patrones que podrán ir desde la aplicación inmediata y observancia permanente, hasta noventa días hábiles para corregir las deficiencias e incumplimientos que se identifiquen para que se realicen las modificaciones necesarias y, en su caso, se exhiba la documentación con que se acredite el cumplimiento de las obligaciones en cualquiera de las materias a que hace referencia el artículo 10 del presente Reglamento. Dichos plazos se fijarán tomando en consideración la rama industrial, tipo y escala económica, grado de riesgo, número de trabajadores, el riesgo que representan para los trabajadores y la dificultad para subsanarlas. En ninguna circunstancia el plazo será menor a treinta días hábiles, salvo en los casos de Peligro o Riesgo Inminente.
+Con excepción de lo dispuesto en el artículo 40 de este Reglamento, en las Inspecciones en materia de Seguridad y Salud, además del plazo a que se refiere el párrafo tercero del artículo 35 de este Reglamento, se podrá otorgar un plazo que irá desde la aplicación inmediata y observancia permanente hasta no mayor de treinta días hábiles para corregir las deficiencias e incumplimientos que se identifiquen. Para fijar dicho plazo, la Autoridad del Trabajo deberá considerar la rama industrial, tipo y escala económica, grado de riesgo, número de trabajadores, el riesgo que representan para los trabajadores y la dificultad para subsanarlas.
 
-Los plazos otorgados podrán prorrogarse, en una sola ocasión, hasta por un plazo igual al originalmente concedido, siempre y cuando no se ponga en riesgo la vida, seguridad y salud de los trabajadores, y medie petición mediante escrito libre de la parte interesada antes del vencimiento del plazo otorgado, en la cual se deberá acompañar la justificación en la que se señalen los motivos por los cuales no le es posible dar cumplimiento en el plazo señalado.
+El plazo otorgado podrá prorrogarse de manera excepcional, siempre y cuando el patrón o el representante legal justifiquen fehacientemente que el origen de las irregularidades detectadas corresponde a causas ajenas al Centro de Trabajo. Dicha prórroga en ninguna circunstancia podrá extenderse a más de los treinta días hábiles que se establecen en el párrafo primero del presente artículo.
 
-De resultar procedentes las medidas de Seguridad y Salud en el Trabajo sugeridas por el Inspector del Trabajo, se emitirá emplazamiento técnico, señalando los plazos en que deban cumplirse dichas medidas, asimismo en el caso de los incumplimientos en otras materias, deberá emitirse un emplazamiento documental, en el cual se señalará el plazo dentro del cual deberán exhibir la documentación que acredite el cumplimiento de sus obligaciones, debiendo en ambos casos notificarse personalmente al patrón.
-
-Las modificaciones ordenadas deberán realizarse en condiciones seguras sin poner en riesgo a los trabajadores o al Centro de Trabajo.
-
-En caso de que se constate el incumplimiento de las medidas ordenadas, o bien, no se acredite documentalmente el cumplimiento de la normatividad laboral dentro de los plazos otorgados en términos del presente artículo, se solicitará al área competente de las Autoridades del Trabajo, se inicie el procedimiento administrativo sancionador.
+Para las demás materias a que se refiere el artículo 10 del presente Reglamento, el patrón o el representante legal contarán con el plazo de cinco días a que se refiere el párrafo tercero del artículo 35 de este ordenamiento, sin que medie prórroga alguna, con el objeto de formular observaciones y ofrecer pruebas en relación con los hechos consignados en el acta de Inspección correspondiente.
 
 ###### ARTÍCULO 37.
 
@@ -421,9 +549,11 @@ Cuando la Autoridad del Trabajo tenga conocimiento, por cualquier conducto, de l
 
 Con la información proporcionada se integrará un expediente secundario en el que se agregará una copia del acta de Inspección, en la que conste que se fijó en lugar visible del establecimiento donde prestaba sus servicios el trabajador fallecido, la convocatoria para que sus beneficiarios comparezcan ante la Junta de Conciliación y Arbitraje competente, dentro de un término de treinta días a ejercitar sus derechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 38.
 
-La Autoridad del Trabajo podrá acordar el archivo definitivo de las actas de Inspección cuando:
+La Autoridad del Trabajo podrá acordar el cierre del procedimiento administrativo de Inspección, y ordenará el archivo definitivo de las actas de Inspección, cuando:
 
 I. No contengan los requisitos establecidos en las disposiciones jurídicas aplicables, ordenando se practique nuevamente la Inspección;
 
@@ -459,17 +589,23 @@ b) La actividad o actividades a limitar, así como el área o áreas a restringi
 
 c) Las medidas de seguridad de aplicación inmediata necesarias para prevenir o corregir la situación de Peligro o Riesgo Inminente.
 
-Los superiores jerárquicos de los Inspectores del Trabajo, deberán hacer del conocimiento del titular de la Autoridad del Trabajo local o de la Delegación Federal del Trabajo, según corresponda, las medidas adoptadas;
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+Los superiores jerárquicos de los Inspectores del Trabajo, deberán hacer del conocimiento de la persona titular de la Autoridad del Trabajo local o de la Oficina de Representación Federal del Trabajo, según corresponda, las medidas adoptadas;
 
 III. Ordenar en el acta las medidas de seguridad de aplicación inmediata, una vez autorizado por la Dirección General de Inspección Federal del Trabajo, asimismo decretar la restricción de acceso o limitación de la operación en las áreas de riesgo detectadas, y
 
 IV. Entregar al patrón una copia del acta de inspección, en la que conste la determinación de restringir el acceso o limitación de operaciones en las áreas de riesgo detectadas.
 
-El titular de la Dirección General de Inspección Federal del Trabajo podrá allegarse de los elementos que estime convenientes para determinar, dentro de las veinticuatro horas siguientes a la recepción de la consulta, la procedencia o no de autorizar la restricción de acceso, limitación de operaciones o de ambas, lo que deberá hacerse del conocimiento del Inspector del Trabajo, así como del titular de la Autoridad del Trabajo local o del Delegado Federal del Trabajo, que corresponda.
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+La persona titular de la Dirección General de Inspección Federal del Trabajo podrá allegarse de los elementos que estime convenientes para determinar, dentro de las veinticuatro horas siguientes a la recepción de la consulta, la procedencia o no de autorizar la restricción de acceso, limitación de operaciones o de ambas, lo que deberá hacerse del conocimiento del Inspector del Trabajo, así como de la persona titular de la Autoridad del Trabajo local o de la Oficina de Representación Federal del Trabajo, que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 41.
 
-Cuando se haya decretado la restricción de acceso o limitación de operaciones, el Inspector del Trabajo deberá realizar un informe detallado por escrito bajo su más estricta responsabilidad dentro de las veinticuatro horas siguientes a dicha determinación, mismo que se entregará al patrón, así como a la unidad administrativa de la Secretaría que corresponda a la circunscripción territorial en donde se ubique el Centro de Trabajo. Los superiores jerárquicos de los Inspectores del Trabajo adscritos a los estados o al Distrito Federal enviarán dicho informe a la Secretaría.
+Cuando se haya decretado la restricción de acceso o limitación de operaciones, el Inspector del Trabajo deberá realizar un informe detallado por escrito bajo su más estricta responsabilidad dentro de las veinticuatro horas siguientes a dicha determinación, y este informe se entregará al patrón, así como a la unidad administrativa de la Secretaría que corresponda a la circunscripción territorial en donde se ubique el Centro de Trabajo. Los superiores jerárquicos de los Inspectores del Trabajo adscritos a los estados enviarán dicho informe a la Secretaría.
 
 El informe deberá contener, por lo menos, lo siguiente:
 
@@ -493,17 +629,23 @@ IX. Medidas de seguridad ordenadas por el Inspector del Trabajo, y
 
 X. Nombre y firma del Inspector del Trabajo.
 
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 42.
 
-Las Delegaciones Federales del Trabajo o la Dirección General de Inspección Federal del Trabajo, en ejercicio de la facultad de atracción, llevará a cabo el análisis del informe presentado por los Inspectores del Trabajo, dentro de las veinticuatro horas siguientes a su recepción o, en su caso, de las pruebas o manifestaciones que ofrezcan los particulares.
+Las Oficinas de Representación Federal del Trabajo o la Dirección General de Inspección Federal del Trabajo en ejercicio de la facultad de atracción, llevará a cabo el análisis del informe presentado por los Inspectores del Trabajo, dentro de las veinticuatro horas siguientes a su recepción o, en su caso, de las pruebas o manifestaciones que ofrezcan los particulares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 43.
 
-El Delegado Federal del Trabajo, previa consulta y opinión de la Dirección General de Inspección Federal del Trabajo, una vez concluido el análisis del informe y, en su caso, de las pruebas o manifestaciones presentadas dentro del término de setenta y dos horas computadas a partir del cierre del acta, determinará si se levanta la restricción de acceso o la limitación de operaciones en las áreas de riesgo detectadas o, decreta la ampliación de estas acciones, hasta en tanto se cumplan con las medidas de seguridad ordenadas por el Inspector del Trabajo para la correcta operación del Centro de Trabajo.
+La Oficina de Representación Federal del Trabajo, previa consulta y opinión de la Dirección General de Inspección Federal del Trabajo, una vez concluido el análisis del informe y, en su caso, de las pruebas o manifestaciones presentadas, dentro del término de setenta y dos horas computadas a partir del cierre del acta, determinará si se levanta la restricción de acceso o la limitación de operaciones en las áreas de riesgo detectadas o, decreta la ampliación de estas acciones, hasta en tanto se cumplan con las medidas de seguridad ordenadas por el Inspector del Trabajo para la correcta operación del Centro de Trabajo, lo cual no excederá el término establecido en el artículo 36 de este Reglamento.
 
 Lo anterior, sin perjuicio de que la Dirección General de Inspección Federal del Trabajo decida ejercer la facultad de atracción, para efecto de emitir la resolución referida en el párrafo anterior, en los términos previstos en éste.
 
-En contra de la resolución que determine mantener o levantar la restricción de acceso o limitación de operaciones emitida por el Delegado Federal del Trabajo, se podrá interponer el recurso de revisión previsto por la Ley Federal de Procedimiento Administrativo, que será resuelto por el titular de la Dirección General de Inspección Federal del Trabajo. En caso de que la resolución hubiese sido emitida por este último, en ejercicio de su facultad de atracción, el recurso de revisión será resuelto por su superior jerárquico.
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+En contra de la resolución que determine mantener o levantar la restricción de acceso o limitación de operaciones emitida por la Oficina de Representación Federal del Trabajo, se podrá interponer el recurso de revisión previsto por la Ley Federal de Procedimiento Administrativo, que será resuelto por la persona titular de la Dirección General de Inspección Federal del Trabajo. En caso de que la resolución hubiese sido emitida por este último, en ejercicio de su facultad de atracción, el recurso de revisión será resuelto por su superior jerárquico.
 
 ###### ARTÍCULO 44.
 
@@ -520,6 +662,14 @@ La restricción de acceso o limitación de operaciones a que se refiere el prese
 Las Autoridades del Trabajo podrán comprobar el cumplimiento de las disposiciones jurídicas en materia laboral, a través de Mecanismos Alternos a la Inspección del trabajo, que podrán ser entre otros, avisos de funcionamiento, cuestionarios, evaluaciones o requerimientos análogos para que los patrones o sus representantes, los trabajadores o sus representantes y los integrantes de las comisiones a que se refiere la Ley, proporcionen la información requerida.
 
 Para la implementación y funcionamiento de Mecanismos Alternos a la Inspección, se podrá hacer uso de las tecnologías de la información.
+
+> <small>(ADICIONADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+Los Centros de Trabajo que estén inscritos y cumplan con los requisitos de los programas de cumplimiento voluntario de Inspección que la Secretaría determine, no serán objeto de visitas ordinarias de Inspección.
+
+> <small>(ADICIONADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+Los lineamientos de cada programa de cumplimiento voluntario señalarán los plazos para la realización de visitas de asesoría y asistencia técnica, y para el cumplimiento de las disposiciones laborales.
 
 ###### ARTÍCULO 47.
 
@@ -551,13 +701,23 @@ Las Autoridades del Trabajo levantarán actas circunstanciadas, con el propósit
 
 Dichas actas deberán acompañarse de las copias certificadas del soporte documental relacionado con los presuntos actos irregulares u omisiones, de los que se pudieran derivar las responsabilidades.
 
-## TÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA APLICACIÓN DE SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+## TÍTULO TERCERO. DEL CIERRE DEL PROCEDIMIENTO ADMINISTRATIVO DE INSPECCIÓN Y DEL INICIO DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA APLICACIÓN DE SANCIONES
 
 ### CAPÍTULO PRIMERO. DE LA INICIACIÓN DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 51.
 
-Si de la valoración de las actas, expedientes o documentación ofrecida por cualquier otra autoridad, o del acta de Inspección y de las pruebas presentadas por el patrón o su representante, no se desvirtúa el incumplimiento de la normatividad laboral, el área de Inspección, solicitará al área competente de las Autoridades del Trabajo, se inicie el procedimiento administrativo sancionador.
+Si derivado de la sustanciación del procedimiento administrativo de Inspección y como resultado de la valoración de las actas, expedientes o documentación ofrecida por cualquier autoridad, o del acta de Inspección y de las pruebas presentadas por el patrón o su representante no se desvirtúa el incumplimiento de las disposiciones laborales, el área de Inspección emitirá un acuerdo de cierre de instrucción del procedimiento administrativo de Inspección, en el cual se establecerá de manera expresa la solicitud al área competente de las Autoridades del Trabajo, se inicie el procedimiento administrativo sancionador.
+
+Dicho acuerdo deberá ser notificado de manera personal al patrón o representante legal, para los efectos legales a que haya lugar.
+
+Cuando no se haya permitido la Inspección a la Autoridad del Trabajo, de acuerdo con lo establecido en el artículo 1004-A de la Ley, emitirá el acuerdo de cierre de instrucción a que se refiere el párrafo primero de este artículo, por los incumplimientos a la normatividad laboral y por la negativa al desahogo de la Inspección.
+
+Para los casos en los que como resultado de la valoración de las actas, expedientes o documentación ofrecida por cualquier autoridad, o del acta de Inspección y de las pruebas presentadas por el patrón o su representante acredita, durante los plazos establecidos en los artículos 35 o 36, párrafo primero, del presente ordenamiento, haber dado cumplimiento a la normatividad y a los requerimientos administrativos solicitados por la Autoridad del Trabajo, se emitirá el acuerdo de archivo correspondiente.
 
 ###### ARTÍCULO 52.
 
@@ -643,7 +803,9 @@ VII. Disposiciones legales en que se funde la competencia de la autoridad que la
 
 VIII. Puntos resolutivos;
 
-IX. Apercibimiento para el cumplimiento de las normas violadas;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+IX. En su caso, las medidas correspondientes de Seguridad y Salud en el Trabajo que los Centros de Trabajo deberán implementar para salvaguardar la vida, la integridad física o la salud de los trabajadores. Lo anterior, sin perjuicio de la imposición de sanciones a que se refiere el presente Capítulo;
 
 X. Mención del derecho que tiene el infractor para promover los medios de defensa correspondientes, y
 
@@ -651,9 +813,11 @@ XI. Nombre y firma del servidor público que la dicte.
 
 Las resoluciones se deberán dictar dentro de los diez días hábiles siguientes a aquél en que se haya cerrado la instrucción del procedimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 60.
 
-Para la cuantificación de las sanciones, las Autoridades del Trabajo, en el ámbito de sus respectivas jurisdicciones, se sujetarán a las disposiciones aplicables de la ley que regule el procedimiento administrativo aplicable y, cuando resulte procedente, a las del reglamento en materia de Seguridad y Salud en el Trabajo, a las del Título Sexto de la Ley Federal sobre Metrología y Normalización, o bien, a las disposiciones de los Mecanismos Alternos a la Inspección, tomando en consideración:
+Para la cuantificación de las sanciones, las Autoridades del Trabajo, en el ámbito de sus respectivas jurisdicciones, se sujetarán a las disposiciones de la ley que regule el procedimiento administrativo aplicable y, cuando resulte procedente, a las del Reglamento Federal de Seguridad y Salud en el Trabajo, a la Ley de Infraestructura de la Calidad, o bien, a las disposiciones de los Mecanismos Alternos a la Inspección, y considerarán lo siguiente:
 
 I. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
 
@@ -687,9 +851,15 @@ Las sanciones se impondrán sin perjuicio de las penas que correspondan a los de
 
 Cuando del contenido de las actuaciones se desprenda la posible comisión de un delito, las Autoridades del Trabajo formularán denuncia de hechos ante el Ministerio Público competente.
 
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 63.
 
-La imposición de sanciones no libera a los infractores del cumplimiento de los actos u omisiones que las motivaron.
+La imposición de sanciones no libera a las personas infractoras del cumplimiento de los actos u omisiones que las motivaron.
+
+Asimismo, con la finalidad de salvaguardar la vida, la integridad física o la salud de los trabajadores, las Autoridades del Trabajo en el ámbito de sus respectivas jurisdicciones en un plazo que no exceda de sesenta días hábiles contado a partir de la fecha en que se haya notificado la sanción, deberá acudir al Centro de Trabajo a corroborar que se hayan implementado las medidas de seguridad dictadas.
+
+En caso de persistir el incumplimiento por parte del Centro de Trabajo se considerará reincidente en términos del artículo 61, fracción V, del presente Reglamento.
 
 ###### ARTÍCULO 64.
 
@@ -714,3 +884,15 @@ TERCERO. Los procedimientos de Inspección y de aplicación de sanciones que se 
 CUARTO. Continuarán en vigor las disposiciones administrativas vigentes, en lo que no se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dos de junio de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 23 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO GENERAL DE INSPECCIÓN DEL TRABAJO Y APLICACIÓN DE SANCIONES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los procedimientos administrativos de Inspección y de aplicación de sanciones que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, serán resueltos conforme a las disposiciones vigentes al momento de su inicio.
+
+TERCERO. La entrada en vigor del presente Decreto, no implicará erogaciones adicionales, por lo que las unidades administrativas competentes de la Secretaría del Trabajo y Previsión Social deberán ajustarse a su presupuesto autorizado para el ejercicio fiscal correspondiente, y no incrementar su presupuesto regularizable.
