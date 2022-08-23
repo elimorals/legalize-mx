@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-acuerdo-regional-no-2-de-6931
 country: "mx"
 rank: "otro"
 publication_date: "2000-08-23"
-last_updated: "2020-12-27"
+last_updated: "2022-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69316&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2000-08-11"
 
 ACUERDO POR EL QUE SE DAN A CONOCER LAS PREFERENCIAS ARANCELARIAS DEL ACUERDO REGIONAL NO. 2 DE APERTURA DE MERCADOS A FAVOR DE LA REPÚBLICA DEL ECUADOR
 
-Acuerdo publicado en el Diario Oficial de la Federación, el domingo 27 de diciembre de 2020.
+Acuerdo publicado en el Diario Oficial de la Federación, el martes 23 de agosto de 2022.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- ECONOMÍA (SIC).- Secretaría de Economía.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- ECONOMÍA.- Secretaría de Economía.
 
 Con fundamento en los artículos 133 de la Constitución Política de los Estados Unidos Mexicanos; 34, fracción XXXIII de la Ley Orgánica de la Administración Pública Federal; 5o., fracción X de la Ley de Comercio Exterior; 5, fracción XVII del Reglamento Interior de la Secretaría de Economía, y
 
@@ -37,26 +37,28 @@ Que en el Acuerdo Regional No. 2, las Partes pactaron otorgar en forma unilatera
 
 Que el 31 de mayo de 1993 los Estados Unidos Mexicanos negociaron la Nómina de Apertura de Mercados en favor de la República del Ecuador, en la que se otorgó para algunos productos la exención del pago de los aranceles de importación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.
 
-Que el 27 de junio de 2014 la Organización Mundial de Aduanas adoptó la Sexta Enmienda al Sistema Armonizado de Designación y Codificación de Mercancías que incluye, entre otras, modificaciones a las notas legales, la eliminación de partidas o subpartidas que describen productos que han reportado escaso movimiento comercial, así como la creación o restructuración de otras para identificar productos nuevos en el comercio mundial.
+Que el 28 de junio de 2019 la Organización Mundial de Aduanas adoptó la Séptima Enmienda al Sistema Armonizado de Designación y Codificación de Mercancías, con el fin de actualizarlo tomando en consideración los avances tecnológicos y patrones del comercio internacional actual, reconociendo los nuevos flujos de mercancías y las cuestiones ambientales y sociales de interés mundial.
 
-Que el 1 de julio de 2020 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación, y se reforman y adicionan diversas disposiciones de la Ley Aduanera, en virtud del cual, en las disposiciones referentes a la Ley de los Impuestos Generales de Importación y de Exportación se establece la Tarifa con los aranceles aplicables a la importación y exportación de mercancías en el territorio nacional y se adoptan las modificaciones de la Sexta Enmienda antes señalada.
+Que el 7 de junio de 2022 se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación (Decreto), en virtud del cual, se establece la Tarifa con los aranceles aplicables a la importación y exportación de mercancías en el territorio nacional y se adoptan las modificaciones de la Séptima Enmienda antes señalada.
 
-Que de conformidad con las disposiciones transitorias del referido Decreto, los artículos 1o. y 2o., fracciones I y II, reglas 1ª, 2ª y 4ª a 9ª de la Ley de los Impuestos Generales de Importación y de Exportación entrarán en vigor a los 180 días naturales siguientes al de su publicación en el Diario Oficial de la Federación, es decir, a partir del 28 de diciembre de 2020.
+Que de conformidad con el Transitorio Primero del Decreto, éste entrará en vigor a los diez días hábiles siguientes a aquél en el que el Servicio de Administración Tributaria, mediante disposiciones de carácter general, determine que los sistemas utilizados en las operaciones de comercio exterior se encuentran listos para operar conforme a la Ley de los Impuestos Generales de Importación y de Exportación, lo cual deberá suceder dentro de los 180 días siguientes a su publicación.
 
-Que en razón de lo anterior, y siendo necesario dar a conocer a los operadores y autoridades aduaneras las preferencias acordadas en el Acuerdo Regional No. 2, se expide el siguiente:
+Que en razón de lo anterior, y siendo necesario dar a conocer a los operadores y autoridades aduaneras las preferencias arancelarias acordadas en el Acuerdo Regional No. 2, se expide el siguiente:
 
-ACUERDO POR EL QUE SE DAN A CONOCER LAS PREFERENCIAS ARANCELARIAS DEL ACUERDO REGIONAL No. 2 DE APERTURA DE MERCADOS A FAVOR DE LA REPÚBLICA DEL ECUADOR
+ACUERDO POR EL QUE SE DAN A CONOCER LAS PREFERENCIAS ARANCELARIAS DEL ACUERDOU REGIONAL No. 2 DE APERTURA DE MERCADOS A FAVOR DE LA REPÚBLICA DEL ECUADOR
 
 Primero.- Los Estados Unidos Mexicanos otorgarán a la República del Ecuador la exención del pago de los aranceles de importación de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, de conformidad con la siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 27 DE DICIEMBRE DE 2020, PÁGINAS DE LA 1031 A LA 1044.]</small>
+TABLA DE LOS PRODUCTOS INCLUIDOS EN LA NÓMINA DE APERTURA DE MERCADOS EN FAVOR DE LA REPÚBLICA DEL ECUADOR, EN EL ACUERDO REGIONAL NO. 2 DE APERTURA DE MERCADOS EN FAVOR DE ECUADOR, QUE ESTAN EXENTOS DEL PAGO DE LOS ARANCELES DE IMPORTACIÓN DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN.
 
-Segundo.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de medidas de regulación y restricción no arancelarias en los términos de lo dispuesto en los tratados de libre comercio celebrados por México, la Ley de Comercio Exterior, la Ley Aduanera y las demás disposiciones aplicables.
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 23 DE AGOSTO DE 2022, PÁGINAS DE LA 62 A LA 75.]</small>
 
-## TRANSITORIOS
+Segundo.- Lo dispuesto en el presente Acuerdo no libera del cumplimiento de medidas de regulación y restricción no arancelarias en los términos de lo dispuesto en los tratados de libre comercio celebrados por los Estados Unidos Mexicanos, la Ley de Comercio Exterior, la Ley Aduanera y las demás disposiciones aplicables.
 
-PRIMERO.- El presente Acuerdo entrará en vigor el 28 de diciembre de 2020.
+## TRANSITORIO
 
-SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer las preferencias arancelarias del Acuerdo Regional No. 2 de Apertura de Mercados a favor de la República del Ecuador, publicado en el Diario Oficial de la Federación el 29 de junio de 2012.
+PRIMERO.- El presente Acuerdo entrará en vigor el mismo día en el que la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, entre en vigor, conforme a lo previsto en el Transitorio Primero del Decreto por el que se expide la misma.
 
-Ciudad de México, a 24 de diciembre de 2020.- La Secretaria de Economía, Graciela Márquez Colín.- Rúbrica.
+SEGUNDO.- Se abroga el Acuerdo por el que se dan a conocer las preferencias arancelarias del Acuerdo Regional No. 2 de Apertura de Mercados a favor de la República del Ecuador, publicado en el Diario Oficial de la Federación el 27 de diciembre de 2020.
+
+Ciudad de México, a 20 de julio de 2022.- La Secretaria de Economía, Tatiana Clouthier Carrillo.- Rúbrica.
