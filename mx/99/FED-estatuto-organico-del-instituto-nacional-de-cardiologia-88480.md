@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-cardiologia-88480"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-04"
-last_updated: "2021-05-14"
+last_updated: "2022-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88480&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-04-03"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CARDIOLOGIA IGNACIO CHAVEZ
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE AGOSTO DE 2022.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 4 de julio de 2012.
 
@@ -59,7 +61,9 @@ III. Promover y realizar reuniones de intercambio científico, de carácter naci
 
 IV. Formar recursos humanos en su área de especialización, así como en aquellas que le sean afines;
 
-V. Formular y ejecutar programas de estudio y cursos de capacitación, enseñanza, especialización y actualización de personal profesional, técnico y auxiliar, en el área de los padecimientos cardiovasculares, así como evaluar y reconocer el aprendizaje;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+V. Formular y ejecutar programas de estudio y cursos de capacitación, educación, especialización y actualización de personal profesional, técnico y auxiliar, en el área de los padecimientos cardiovasculares, así como evaluar y reconocer el aprendizaje;
 
 VI. Otorgar constancias, diplomas, reconocimientos y certificados de estudios, grados y títulos, en su caso, de conformidad con las disposiciones aplicables;
 
@@ -71,7 +75,9 @@ IX. Asesorar y formular opiniones a la Secretaría cuando sea requerido para ell
 
 X. Actuar como órgano de consulta, técnica y normativa, de las dependencias y entidades de la Administración Pública Federal en el área de los padecimientos cardiovasculares, así como prestar consultorías a título oneroso a personas físicas o morales;
 
-XI. Asesorar a los centros especializados de investigación, enseñanza o atención médica de las entidades federativas y, en general, a cualquiera de sus instituciones públicas de salud;
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+XI. Asesorar a los centros especializados de investigación, educación o atención médica de las entidades federativas y, en general, a cualquiera de sus instituciones públicas de salud;
 
 XII. Promover acciones para la protección de la salud en lo relativo a los padecimientos cardiovasculares;
 
@@ -99,6 +105,8 @@ b) Consejo Asesor Externo
 
 c) Consejo Técnico de Administración y Programación
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 III. UNIDADES ADMINISTRATIVAS Y SUSTANTIVAS:
 
 1) Dirección Médica
@@ -113,11 +121,15 @@ a) Subdirección de Investigación Básica y Tecnológica
 
 b) Subdirección de Investigación Clínica
 
-3) Dirección de Enseñanza
+> <small>(REFORMADO [N. DE E. CON SU INCISO], D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-a) Subdirección de Coordinación de la Enseñanza
+3) Dirección de Educación
+
+a) Subdirección de Educación Médica
 
 4) Dirección de Enfermería
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 5) Dirección de Administración
 
@@ -127,11 +139,13 @@ b) Subdirección de Finanzas
 
 c) Subdirección de Recursos Materiales
 
-d) Subdirección de Planeación
+d) Subdirección de Servicios Generales
 
-e) Subdirección de Servicios Generales
+e) Subdirección de Informática
 
-f) Subdirección de Informática
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+6) Subdirección de Planeación
 
 Asimismo, el Instituto contará con las unidades subalternas necesarias para el ejercicio de sus funciones, previa autorización de las Secretarías de Hacienda y Crédito Público y de la Función Pública.
 
@@ -263,9 +277,11 @@ El Director General del Instituto durará en su cargo cinco años y podrá ser r
 
 ### CAPITULO IV. DEL PATRONATO
 
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTICULO 15o.
 
-El Patronato será un órgano de apoyo, asesoría y consulta, que tiene por objeto apoyar las labores de investigación, enseñanza y atención médica del Instituto, principalmente con la obtención de recursos de origen externo.
+El Patronato será un órgano de apoyo, asesoría y consulta, que tiene por objeto apoyar las labores de investigación, educación y atención médica del Instituto, principalmente con la obtención de recursos de origen externo.
 
 ###### ARTICULO 16o.
 
@@ -323,9 +339,11 @@ El funcionamiento del Consejo Asesor Externo y la duración de sus miembros en s
 
 ### CAPITULO VI. DEL CONSEJO TECNICO DE ADMINISTRACION Y PROGRAMACION
 
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTICULO 25o.
 
-El Instituto contará con un Consejo Técnico de Administración y Programación, como órgano de coordinación para incrementar su eficacia, que estará integrado por el Director General del Instituto, quien lo presidirá, por los titulares de las direcciones Médica, de Investigación, Enseñanza, Administración, y Enfermería del Instituto, y por un Secretario Técnico designado por el Director General.
+El Instituto contará con un Consejo Técnico de Administración y Programación, como órgano de coordinación para incrementar su eficacia, que estará integrado por el Director General del Instituto, quien lo presidirá, por los titulares de las direcciones Médica, de Investigación, Educación, Administración, y Enfermería del Instituto, y por un Secretario Técnico designado por el Director General.
 
 ###### ARTICULO 26o.
 
@@ -365,7 +383,9 @@ IV. Coordinar y dirigir la aplicación de los mecanismos y procesos establecidos
 
 V. Coordinar el intercambio de información y experiencias con instituciones nacionales y extranjeras dedicadas a la atención médica en materia de cardiología.
 
-VI. Coordinar con las Direcciones de Enseñanza e Investigación la participación de las áreas médicas en el desarrollo de los programas docentes y de los proyectos de investigación que lleven a cabo el Instituto.
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VI. Coordinar con las Direcciones de Educación e Investigación la participación de las áreas médicas en el desarrollo de los programas docentes y de los proyectos de investigación que lleven a cabo el Instituto.
 
 VII. Coordinar la elaboración e instrumentación de los programas dirigidos a mantener y mejorar la calidad de los servicios de atención médica que se proporcionan en el Instituto.
 
@@ -391,7 +411,9 @@ I. Coordinar y supervisar las actividades desarrolladas por la farmacia, la cons
 
 II. Supervisar que los servicios a su cargo apliquen los mecanismos y procesos implementados para el diagnóstico y tratamiento médico de los pacientes, para la programación de las intervenciones quirúrgicas y hemodinámicas, y para el manejo previo y posterior a las intervenciones.
 
-III. Supervisar la participación de las áreas a su cargo en los programas docentes que se lleven a cabo en el Instituto, con base en los lineamientos que establezca la Dirección de Enseñanza.
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+III. Supervisar la participación de las áreas a su cargo en los programas docentes que se lleven a cabo en el Instituto, con base en los lineamientos que establezca la Dirección de Educación.
 
 IV. Promover y fomentar la participación de las áreas a su cargo en el desarrollo de las líneas de investigación que les sean propias, con base en los lineamientos que para tal efecto establezcan la Dirección de Investigación y la Dirección General.
 
@@ -431,7 +453,9 @@ III. Supervisar que los médicos especialistas de los servicios a su cargo, prop
 
 IV. Supervisar el aprovisionamiento, clasificación, preparación y almacenamiento de sangre y sus derivados, así como su distribución a solicitud de los distintos servicios del Instituto.
 
-V. Supervisar la participación de las áreas a su cargo en los programas docentes que se lleven a cabo en el Instituto, con base en los lineamientos que establezca la Dirección de Enseñanza.
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+V. Supervisar la participación de las áreas a su cargo en los programas docentes que se lleven a cabo en el Instituto, con base en los lineamientos que establezca la Dirección de Educación.
 
 VI. Promover y fomentar la participación de las áreas a su cargo en el desarrollo de las líneas de investigación que les sean propias, con base en los lineamientos que para tal efecto establezcan la Dirección de Investigación y la Dirección General.
 
@@ -469,7 +493,9 @@ I. Planear, organizar, coordinar y dirigir todas las actividades que se llevan a
 
 II. Establecer los vínculos de coordinación para el intercambio de experiencias con instituciones nacionales y extranjeras dedicadas a la investigación.
 
-III. Promover la difusión de la información técnica y científica generada en el Instituto, mediante la exposición en reuniones científicas y su publicación en revistas nacionales y extranjeras.
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+III. Promover la difusión de la información técnica y científica generada en el Instituto, mediante la exposición en reuniones científicas y su publicación en revistas nacionales y extranjeras, así como supervisar la edición de la revista del Instituto.
 
 IV. Participar en el ámbito de su competencia, en el desarrollo de los programas docentes y de asistencia que lleve a cabo el Instituto.
 
@@ -519,7 +545,9 @@ VII. Supervisar que la operación del Bioterio se realice de acuerdo a las norma
 
 VIII. Promover el desarrollo científico y técnico del personal de la Subdirección, a fin de favorecer el desarrollo de las investigaciones.
 
-IX. Coordinar y supervisar la participación de las áreas a su cargo en los programas docentes que se lleven a cabo en el Instituto o que sean apoyados por éste, con base en los lineamientos que establezcan las direcciones de Investigación y Enseñanza.
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+IX. Coordinar y supervisar la participación de las áreas a su cargo en los programas docentes que se lleven a cabo en el Instituto o que sean apoyados por éste, con base en los lineamientos que establezcan las direcciones de Investigación y Educación.
 
 X. Avalar las necesidades de reposición o adquisición de equipo con alto grado de desarrollo tecnológico que permita la optimización de las actividades de investigación y el cumplimiento de los proyectos a su cargo.
 
@@ -547,6 +575,10 @@ IV. Realizar conforme a la normatividad vigente y a las políticas internas esta
 
 V. Mantener estrecha comunicación con la Subdirección de Investigación Básica y Tecnológica y con la Dirección Médica, para afinar los mecanismos que agilicen y favorezcan el desarrollo de los proyectos de investigación clínica.
 
+> <small>(ADICIONADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+V bis. Aplicar los mecanismos y procesos establecidos para la integración, impresión y distribución de la revista del Instituto.
+
 VI. Establecer y promover relaciones con grupos de investigación clínica nacionales y extranjeros.
 
 VII. Organizar conforme a la norma respectiva, el archivo y la custodia de la documentación relacionada con sus funciones, para preparar y proporcionar la información que institucionalmente le sea requerida.
@@ -559,9 +591,11 @@ IX. Realizar los trabajos especiales que dentro del ámbito de su competencia, l
 
 X. Supervisar que la fabricación de bioprótesis se realice de acuerdo a las normas, políticas y lineamientos establecidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTICULO 35o.
 
-La Dirección de Enseñanza tendrá las siguientes funciones:
+La Dirección de Educación tendrá las siguientes funciones:
 
 I. Coordinar la operación de los mecanismos y procesos establecidos para que los cursos de las especialidades y subespecialidades que se imparten en el Instituto, se lleve a cabo conforme a los programas de estudio que les sean propios, realizando conforme a la normatividad en la materia, las gestiones necesarias para el registro y la certificación de los programas de estudio, alumnos y egresados de las mismas.
 
@@ -573,11 +607,15 @@ IV. Coordinar la operación de los mecanismos y procesos establecidos para que l
 
 V. Coordinar la integración, el análisis y la evaluación de las propuestas para incorporar a los programas de formación que se imparten, los cursos de especialidades o subespecialidades que respondan a los avances tecnológicos diagnósticos y terapéuticos en cardiología y ramas afines.
 
-VI. Fomentar y promover las relaciones académicas y el intercambio de experiencias con instituciones de enseñanza superior, tanto nacionales como extranjeras.
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VI. Fomentar y promover las relaciones académicas y el intercambio de experiencias con instituciones de educación superior, tanto nacionales como extranjeras.
 
 VII. Supervisar el desarrollo del programa anual de capacitación y actualización, así como la ejecución de los programas de pregrado.
 
-VIII. Coordinar y dirigir la aplicación de los mecanismos y procesos establecidos para la integración, edición, impresión y distribución de la revista del Instituto; así como para el resguardo, actualización, disposición y conservación del acervo bibliográfico del Instituto, supervisando que se realicen conforme a las normas, lineamientos y políticas establecidas.
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VIII. Coordinar y dirigir el resguardo, actualización, disposición y conservación del acervo bibliográfico del Instituto, supervisando que se realicen conforme a las normas, lineamientos y políticas establecidas.
 
 IX. Representar al Instituto en los foros que le sean propios; así como organizar, coordinar y participar en los comités que le sean designados.
 
@@ -591,9 +629,11 @@ XI. Expedir y certificar las copias de los documentos o constancias que existan 
 
 XII. Realizar los trabajos especiales, que dentro del ámbito de su competencia, le sean solicitados por la Dirección General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
 ###### ARTICULO 36o.
 
-La Subdirección de Coordinación de la Enseñanza tendrá las siguientes funciones:
+La Subdirección de Educación Médica tendrá las siguientes funciones:
 
 I. Coordinar la operación de los mecanismos y procesos establecidos para seleccionar los temas o áreas de interés que integrarán los programas de capacitación y actualización que se imparten en el Instituto; así como para el diseño del programa, la selección de los ponentes y la obtención de los patrocinadores.
 
@@ -609,7 +649,9 @@ VI. Coordinar la operación de los mecanismos y procesos establecidos para reali
 
 VII. Apoyar los procesos de reclutamiento y selección de los candidatos que pretendan cursar alguna de las especialidades o subespecialidades que se imparten en el Instituto; así como la integración de las plantillas del personal docente que las imparte.
 
-VIII. Apoyar la promoción y el mantenimiento de las relaciones académicas y el intercambio de experiencias con instituciones de enseñanza superior, tanto nacionales como extranjeras.
+> <small>(REFORMADA, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+VIII. Apoyar la promoción y el mantenimiento de las relaciones académicas y el intercambio de experiencias con instituciones de educación superior, tanto nacionales como extranjeras.
 
 IX. Operar los mecanismos y proceso establecidos para que las áreas administrativas y de apoyo le suministren y proporcionen los insumos y servicios que les sean propios.
 
@@ -801,29 +843,7 @@ XIV. Las demás funciones que le asignen las autoridades del Instituto dentro de
 
 ###### ARTICULO 42o.
 
-La Subdirección de Planeación tendrá las siguientes funciones:
-
-I. Supervisar y vigilar que las actividades inherentes a la integración, autorización, seguimiento y evaluación de las metas programáticas e indicadores de gestión, se realicen de acuerdo a los lineamientos establecidos y a la normatividad en la materia.
-
-II. Supervisar y vigilar que las actividades inherentes a la evaluación de los resultados obtenidos por las áreas que realizan funciones sustantivas y la integración de los informes de evaluación, se realicen en tiempo y forma, de acuerdo con la normatividad vigente y a las políticas internas establecidas.
-
-III. Supervisar la elaboración y entrega oportuna de los informes periódicos y reportes especiales que se deriven de la información institucional, vigilando que cumplan con el marco normativo vigente.
-
-IV. Supervisar el análisis, instrumentación, ejecución, seguimiento, evaluación y control, de los programas que soliciten las dependencias globalizadoras, verificando que se realicen en apego al marco normativo aplicable y a los lineamientos internos establecidos.
-
-V. Supervisar la edición de los proyectos y/o actualización de los manuales de organización y procedimientos que sean elaborados por las áreas del Instituto, así como validar los proyectos y/o actualización de manuales, reglamentos instructivos y programas inherentes a las funciones que le sean propias, verificando que cumplan con la normatividad establecida.
-
-VI. Supervisar el funcionamiento de los sistemas y procesos implementados para la operación y el mantenimiento del Sistema de Costos Unitarios.
-
-VII. Supervisar la recolección e integración de la información estadística y cualitativa, que permite analizar y evaluar los resultados obtenidos por las áreas que realizan funciones sustantivas, así como definir las metas programáticas y los indicadores de gestión, vigilando que se realice en los tiempos y términos establecidos.
-
-VIII. Supervisar, vigilar y organizar conforme a la norma respectiva, el archivo y la custodia de la documentación e informes relacionados con sus funciones.
-
-IX. Supervisar y vigilar el desarrollo de las auditorías que se practiquen en dicha subdirección.
-
-X. Participar en los diversos comités que le sean designados por las autoridades del Instituto.
-
-XI. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro del ámbito de su competencia le soliciten las autoridades del Instituto, se proporcionen en tiempo y forma.
+(DEROGADO, D.O.F. 23 DE AGOSTO DE 2022)
 
 ###### ARTICULO 43o.
 
@@ -893,21 +913,47 @@ XIV. Representar al Instituto en los foros relacionados con Informática y Telec
 
 XV. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro del ámbito de su competencia le soliciten las autoridades del Instituto, se proporcionen en tiempo y forma.
 
+> <small>(ADICIONADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+ARTICULO 44o BIS. La Subdirección de Planeación tendrá las siguientes funciones:
+
+I. Supervisar y vigilar que las actividades inherentes a la integración, autorización, seguimiento y evaluación de las metas programáticas, indicadores de gestión y registro en cartera de programas y proyectos de Inversión se realicen de acuerdo a los lineamientos establecidos y a la normatividad en la materia.
+
+II. Supervisar y vigilar que las actividades inherentes a la evaluación de los resultados obtenidos por las áreas que realizan funciones sustantivas y la integración de los informes de evaluación, se realicen en tiempo y forma, de acuerdo con la normatividad vigente y a las políticas internas establecidas.
+
+III. Supervisar la elaboración y entrega oportuna de los informes periódicos y reportes especiales que se deriven de la información institucional, vigilando que cumplan con el marco normativo vigente.
+
+IV. Supervisar el análisis, instrumentación, ejecución, seguimiento, evaluación y control, de los programas que soliciten las dependencias globalizadoras, verificando que se realicen en apego al marco normativo aplicable y a los lineamientos internos establecidos.
+
+V. Supervisar la edición de los proyectos y/o actualización de los manuales de organización y procedimientos que sean elaborados por las áreas del Instituto, así como validar los proyectos y/o actualización de manuales, reglamentos instructivos y programas inherentes a las funciones que le sean propias, verificando que cumplan con la normatividad establecida.
+
+VI. Supervisar el funcionamiento de los sistemas y procesos implementados para la operación y el mantenimiento del Sistema de Costos Unitarios.
+
+VII. Supervisar la recolección e integración de la información estadística y cualitativa, que permite analizar y evaluar los resultados obtenidos por las áreas que realizan funciones sustantivas, así como definir las metas programáticas y los indicadores de gestión, vigilando que se realice en los tiempos y términos establecidos.
+
+VIII. Supervisar, vigilar y organizar conforme a la norma respectiva, el archivo y la custodia de la documentación e informes relacionados con sus funciones.
+
+IX. Supervisar y vigilar el desarrollo de las auditorías que se practiquen en dicha subdirección.
+
+X. Participar en los diversos comités que le sean designados por las autoridades del Instituto.
+
+XI. Elaborar y/o supervisar y vigilar que los trabajos especiales, que dentro del ámbito de su competencia le soliciten las autoridades del Instituto, se proporcionen en tiempo y forma.
+
 ### CAPITULO VIII. DE LAS COMISIONES Y COMITES
 
 ###### ARTICULO 45o.
 
 Se podrán crear e instaurar las Comisiones, Comités y Subcomités necesarios, para el óptimo cumplimiento de las diferentes metas y objetivos del Instituto.
 
-###### ARTICULO 45o.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-bis. El Instituto cuenta con las Comisiones, Comités y Subcomités que a continuación se mencionan:
+ARTICULO 45o BIS. El Instituto cuenta con las Comisiones, Comités y Subcomités que a continuación se mencionan:
 
 > <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2021)</small>
 
 Comisión Central de Seguridad, Higiene y Medio Ambiente en el Trabajo, tendrá las funciones que le señalan el Reglamento de Seguridad e Higiene de la Secretaría de Salud, así como las referidas en las Condiciones Generales de Trabajo y las Normas Oficiales Mexicanas.
 
-> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 Comisión Auxiliar de Seguridad, Higiene y Medio Ambiente en el Trabajo tendrá las funciones que le señalan el artículo 17 del Reglamento de Seguridad e Higiene de la Secretaría de Salud, así como las referidas en las Condiciones Generales de Trabajo y las Normas Oficiales Mexicanas.
 
@@ -917,7 +963,7 @@ Comisión Evaluadora de Premios, Estímulos y Recompensas Civiles, tendrá las f
 
 > <small>(DEROGADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 Comisión Central Mixta de Vestuario y Equipo, tendrá las funciones establecidas en el artículo 13 del Reglamento de Vestuario y Equipo de la Secretaría de Salud y demás relativas y aplicables.
 
@@ -975,13 +1021,21 @@ Comité para la Detección y Control de las Infecciones Nosocomiales, tendrá la
 
 Comité de Obras Públicas y Servicios relacionados con las mismas, tendrá las funciones que le señalan el artículo 25 de la Ley de obras públicas y servicios relacionados con las mismas y el Capítulo Segundo del Reglamento de la misma, Manual administrativo de aplicación general en materia de obras públicas y servicios relacionados con las mismas, y las Políticas, Bases y Lineamientos en materia de obras públicas y servicios relacionados con las mismas del Instituto Nacional de Cardiología Ignacio Chávez actualizadas en su caso y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-Comité de Farmacia y Terapéutica, tendrá las funciones que le señalan el numeral 5.1.2. del Capítulo XVII de la Farmacopea de los Estados Unidos Mexicanos.
+Comité de Farmacia y Terapéutica, tendrá las funciones que señala el numeral 5.1.2. del Capítulo XVII de la Farmacopea de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
 
-Comité de Bienes Muebles, tendrá las funciones que le señalan el artículo 141 de la Ley General de Bienes Nacionales.
+Comité de prevención de la mortalidad materna e infantil, tendrá las funciones que señala el artículo 62 de la Ley General de Salud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+Comité de Mortalidad Hospitalaria tendrá las funciones que señala su Manual de Integración y Funcionamiento.
+
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
+
+Comité de Bienes Muebles, tendrá las funciones que le señalan el artículo 141 de la Ley General.
 
 > <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
@@ -1065,11 +1119,11 @@ Subcomité Revisor de Convocatorias, tendrá la función de vigilar que las mism
 
 Con el propósito de brindar atención especializada de una determinada patología cardiovascular, el Instituto podrá crear e instaurar clínicas de atención.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 ###### ARTICULO 47o.
 
-La misión de las clínicas es mantener el liderazgo en el campo de la cardiología, con respeto y presencia nacional e internacional en la enseñanza, investigación y docencia.
+La misión de las clínicas es mantener el liderazgo en el campo de la cardiología, con respeto y presencia nacional e internacional en la educación, investigación y docencia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -1207,11 +1261,13 @@ El Órgano Interno de Control forma parte de la estructura del Instituto y tiene
 
 Las ausencias del Director General del Instituto serán suplidas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
 
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2022)</small>
 
 ###### ARTICULO 59o.
 
-Las ausencias de los titulares de las Direcciones Médica, de Investigación, Enseñanza, Administración, y Enfermería serán cubiertas por las personas servidoras públicas de la jerarquía inmediata inferior, según la naturaleza de los asuntos a su cargo. Las suplencias por ausencia deberán ser notificadas por oficio al Director General.
+Las ausencias de los titulares de las Direcciones Médica, de Investigación, Educación, Administración, y Enfermería serán cubiertas por las personas servidoras públicas de la jerarquía inmediata inferior, según la naturaleza de los asuntos a su cargo. Las suplencias por ausencia deberán ser notificadas por oficio al Director General.
+
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 2021)</small>
 
 Suplirán las funciones de los Subdirectores de Área las personas servidoras públicas de la jerarquía inmediata inferior, según la naturaleza de los asuntos a su cargo; éstas deberán ser notificadas por oficio al Director de Área y al Director General.
 
@@ -1316,3 +1372,9 @@ D.O.F. 31 DE MARZO DE 2021.
 D.O.F. 14 DE MAYO DE 2021.
 
 > <small>[N. DE E. LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 23 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CARDIOLOGÍA IGNACIO CHÁVEZ".]
+
+ÚNICO.- La reforma a los artículos 32, fracción III; 35, fracción VIII y 45 bis, y la adición de la fracción V bis al artículo 34, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, las demás reformas, adiciones y derogaciones entrarán en vigor a partir de que sea aprobada la estructura orgánica del Instituto Nacional de Cardiología Ignacio Chávez, con el cambio de denominación de la Dirección de Educación y el cambio de adscripción de la Subdirección de Planeación.
