@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2022-04-08"
+last_updated: "2022-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -338,6 +338,30 @@ La publicación deberá hacerse en la lengua de la comunidad donde radiquen los 
 ###### Artículo 20.
 
 Los programas, fondos y recursos estatales destinados al Desarrollo Social son prioritarios y de interés público, por lo que serán objeto de seguimiento, control y evaluación de acuerdo con esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2022)</small>
+
+###### Artículo 20 Bis.
+
+Son prioritarios y de interés público:
+
+I. Los programas de educación obligatoria;
+
+II. Las campañas de prevención y control de enfermedades transmisibles y los programas de atención médica;
+
+III. Los programas dirigidos a las personas en condiciones de pobreza, marginación o en situación de vulnerabilidad;
+
+IV. Los programas dirigidos a zonas de atención prioritaria;
+
+V. Los programas y acciones públicas para asegurar la alimentación nutritiva y de calidad y nutrición materno-infantil;
+
+VI. Los programas de abasto social de productos básicos;
+
+VII. Los programas de vivienda, los instrumentos y apoyos para que toda familia pueda disfrutar de una vivienda digna y decorosa;
+
+VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía, y
+
+IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano.
 
 ###### Artículo 21.
 
@@ -862,6 +886,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 2 BIS; Y SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 2 BIS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 20 BIS A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
