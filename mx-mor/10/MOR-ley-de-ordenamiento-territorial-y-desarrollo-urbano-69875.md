@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2020-08-12"
+last_updated: "2022-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-(NOTA: EL 30 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO VI Y APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 258/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO SEISCIENTOS NOVENTA Y SIETE, POR EL QUE EL QUE EXPIDE LA LEY DE VIDEOVIGILANCIA PARA EL ESTADO DE MORELOS Y SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS Y DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOCE DE AGOSTO DE DOS MIL VEINTE, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
-
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -437,13 +435,11 @@ IV. Un Secretario Técnico; que será el Subsecretario de Desarrollo Urbano y Vi
 
 V. Un Representante del Consejo de Desarrollo Metropolitano;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
 
-VI. El Presidente de la Comisión de Desarrollo Metropolitano y Zonas Conurbadas del Congreso del Estado;
+VI. El presidente de la Comisión de Planeación para Desarrollo Social, Metropolitano, Zonas Conurbadas y Asentamientos Humanos del Congreso del Estado de Morelos;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-VII. El Presidente de la Comisión de Planeación para el Desarrollo y Asentamientos Humanos del Congreso del Estado;
+VII. (DEROGADA, P.O. 24 DE AGOSTO DE 2022)
 
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
@@ -2358,3 +2354,13 @@ OCTAVA. En tanto se emiten los lineamientos previstos en el artículo transitori
 NOVENA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
 
 DÉCIMA. Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente decreto.
+
+P.O. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS TRECE POR EL QUE SE REFORMA LA FRACCIÓN VI Y SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 13 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
