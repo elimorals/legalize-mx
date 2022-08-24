@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-cultura-y-organizacion-indigena-del-estado-1201
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-31"
-last_updated: "2017-07-04"
+last_updated: "2022-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DERECHOS, CULTURA Y ORGANIZACIÓN INDÍGENA DEL ESTADO DE QUINTANA ROO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de Julio de 1998.
 
@@ -49,33 +49,27 @@ LEY DE DERECHOS, CULTURA Y ORGANIZACION INDIGENA DEL ESTADO DE QUINTANA ROO.
 
 Esta Ley es de orden público e interés social y reglamentaria del artículo 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en lo relativo a los derechos del pueblo maya y las comunidades indígenas, por tanto, es obligación de las autoridades estatales, municipales y de la sociedad en general, observar y cumplir sus preceptos.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 2.
 
-La presente Ley tiene por objeto el reconocimiento, preservación y defensa de los derechos y cultura de los indígenas del Estado de Quintana Roo, así como el establecimiento de las obligaciones de la administración pública estatal y municipal, en la construcción de las relaciones con el pueblo maya y las comunidades indígenas y elevar el bienestar social de sus integrantes, promoviendo el desarrollo a través de programas y presupuestos específicos.
+La presente Ley tiene por objeto el reconocimiento, preservación y defensa de los derechos y cultura de los indígenas del Estado de Quintana Roo, así como el establecimiento de las obligaciones de la administración pública estatal y municipal, así como de los órganos públicos autónomos reconocidos en la Constitución Política del Estado Libre y Soberano de Quintana Roo, en la construcción de las relaciones con las comunidades indígenas y afromexicanas, y elevar el bienestar social de sus integrantes, promoviendo el desarrollo a través de programas y presupuestos específicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 3.
 
-El Poder Ejecutivo, el Poder Judicial, la Fiscalía General del Estado, y los Ayuntamientos del Estado en el ámbito de sus respectivas competencias, tienen a su cargo la aplicación de la presente ley, a fin de asegurar el respeto de los derechos sociales del pueblo maya y las comunidades Indígenas, así como de toda comunidad equiparable a aquellos, de los indígenas pertenecientes a otras comunidades o pueblos, o que procedentes de otra entidad federativa residan temporal o permanentemente dentro del territorio del Estado.
+Los poderes del Estado, los Ayuntamientos y los Órganos Públicos Autónomos reconocidos en la Constitución Política del Estado Libre y Soberano de Quintana Roo, en el ámbito de sus respectivas competencias, tienen a su cargo la aplicación de la presente ley, a fin de asegurar el respeto de los derechos sociales de las comunidades indígenas y afromexicanas, así como de toda comunidad equiparable a aquellos, de los indígenas pertenecientes a otras comunidades o pueblos, o que procedentes de otra entidad federativa residan temporal o permanentemente dentro del territorio del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+Al aplicar las disposiciones del presente ordenamiento y especialmente las relativas al ejercicio de la autonomía de la población indígena, en el ámbito de su competencia, los poderes del Estado, los ayuntamientos y los órganos públicos autónomos reconocidos en la Constitución Política del Estado Libre y Soberano de Quintana Roo, deberán:
 
-Al aplicar las disposiciones del presente ordenamiento y especialmente las relativas al ejercicio de la autonomía de la población indígena, se observará lo siguiente:
+I. Reconocer, proteger y respetar los sistemas normativos internos, los valores culturales, religiosos y espirituales propios de dicha población;
 
-I.- Los Poderes Ejecutivo y Judicial, así como los Ayuntamientos deberán:
+II. Adoptar, con la participación y cooperación de la población indígena, medidas encaminadas a mejorar sus condiciones de vida y trabajo;
 
-Reconocer, proteger y respetar los sistemas normativos internos, los valores culturales, religiosos y espirituales propios de dicha población;
+III. Mediante procedimientos de consulta previa, conforme a la Ley correspondiente, promover su participación en la elaboración del Plan Estatal de Desarrollo y de los Municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen, y
 
-Adoptar, con la participación y cooperación de la población indígena, medidas encaminadas a mejorar sus condiciones de vida y trabajo.
-
-II.- El Poder Ejecutivo y los Ayuntamientos deberán:
-
-Mediante procedimientos de consulta, a través de sus autoridades o representantes tradicionales, promover su participación en la elaboración del Plan Estatal de Desarrollo y de los Municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen;
-
-Promover mediante los procedimientos de consulta, a través de las autoridades o representantes tradicionales, su participación en la definición y desarrollo de los programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia.
+IV. Promover mediante los procedimientos de consulta previa, conforme a la ley correspondiente, su participación en la definición y desarrollo de los programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -547,7 +541,9 @@ IV. Fomentar el desarrollo sustentable para el uso racional de los recursos natu
 
 V. Elaborar con perspectiva de género las políticas, programas y acciones que lleve a cabo la Administración Pública Estatal y Municipales para la promoción de la participación, respeto, equidad y oportunidades plenas para las mujeres y hombres indígenas;
 
-VI. Consultar al pueblo maya y las comunidades indígenas cada vez que el Ejecutivo Estatal promueva reformas jurídicas y actos administrativos, programas de desarrollo o proyectos que impacten sus condiciones de vida y su entorno, y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+VI. Fungir como órgano técnico en las consultas previas al pueblo maya, las comunidades indígenas y afromexicanas conforme a la Ley correspondiente, respecto de actos de naturaleza administrativa y legislativas que pudiera depararles alguna afectación a sus derechos, o bien la regulación de los mismos, y
 
 VII. Las demás que le confieran su órgano de gobierno u otras disposiciones legales.
 
@@ -567,7 +563,9 @@ IV. Realizar investigaciones y estudios para promover el desarrollo integral del
 
 V. Coadyuvar al ejercicio de la libre determinación y autonomía del pueblo maya y las comunidades indígenas en el marco de las disposiciones constitucionales;
 
-VI. Consultar al Pueblo Maya y las Comunidades Indígenas, a través de las autoridades tradicionales, cada vez que el Poder Ejecutivo, Legislativo, Judicial y los Gobiernos Municipales, promuevan reformas jurídicas y actos administrativos;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+VI. Fungir como órgano técnico en las consultas previas al pueblo maya, las comunidades indígenas y afromexicanas, de conformidad con la ley correspondiente, cada vez que los Poderes del Estado, los Ayuntamientos y los Órganos Públicos Autónomos reconocidos en la Constitución Política del Estado Libre y Soberano de Quintana Roo, promuevan actos de naturaleza administrativa y legislativas que pudiera depararles alguna afectación a los derechos de las comunidades indígenas, o bien la regulación de los mismos;
 
 VII. Realizar tareas de colaboración con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, las cuales deberán consultar al Instituto para el Desarrollo del Pueblo Maya y las Comunidades Indígenas del Estado de Quintana Roo en las políticas y acciones vinculadas con el desarrollo y protección de su cultura;
 
@@ -1066,3 +1064,17 @@ DÉCIMO. El Gobierno del Estado deberá efectuar las previsiones presupuestales 
 DÉCIMO PRIMERO. El Consejo Consultivo del Instituto para el Desarrollo del Pueblo Maya y las Comunidades Indígenas del Estado de Quintana Roo deberá estar instalado dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
 
 DÉCIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 246 POR EL QUE SE EXPIDE LA LEY DE CONSULTA A LOS PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS, CULTURA Y ORGANIZACIÓN INDÍGENA DEL ESTADO DE QUINTANA ROO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. El Titular del Poder Ejecutivo del Estado de Quintana Roo, dispondrá que el texto íntegro de la presente Ley que se expide se traduzca a las lenguas indígenas del Estado de Quintana Roo y ordenará su difusión en sus comunidades, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir dicha traducción en la totalidad de las lenguas indígenas existentes en el territorio estatal.
+
+Tercero. Los demás Poderes del Estado y los Órgano Públicos Autónomos del Estado de Quintana Roo, armonizarán su marco normativo interno con lo establecido en la presente Ley que se expide, en un plazo de seis meses.
+
+Cuarto. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+Quinto. Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto, no darán lugar a un incremento en el presupuesto autorizado de los ejecutores de gasto responsables, para el presente ejercicio fiscal.
