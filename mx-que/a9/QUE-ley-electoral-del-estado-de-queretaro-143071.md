@@ -4,7 +4,7 @@ identifier: "QUE-ley-electoral-del-estado-de-queretaro-143071"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-01"
-last_updated: "2021-10-08"
+last_updated: "2022-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY ELECTORAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
 
 Ley publicada en el Número 46 del Periódico Oficial del Estado de Querétaro, el lunes 1 de junio de 2020.
 
@@ -741,9 +739,11 @@ VIII. Organizar los ejercicios de participación ciudadana en los términos de l
 
 El patrimonio del Instituto se integra con los bienes muebles, inmuebles y derechos que se destinen al cumplimiento de su objeto. La Legislatura aprobará el presupuesto, el cual se aplicará conforme a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, así como las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 55.
 
-El Instituto tiene su domicilio en la capital del Estado y ejercerá sus funciones en todo el territorio del mismo, contando con órganos de dirección y operativos, dentro de la siguiente estructura:
+El Instituto tiene su domicilio en la Zona Metropolitana de Querétaro y ejercerá sus funciones en todo el territorio del Estado de Querétaro, contando con órganos de dirección y operativos, dentro de la siguiente estructura:
 
 I. Consejo General;
 
@@ -3616,3 +3616,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 55 DE LA LEY ELECTORAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
