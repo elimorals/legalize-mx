@@ -4,7 +4,7 @@ identifier: "FED-estatuto-general-instituto-tecnologico-autonomo-de-mexico-13010
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-27"
-last_updated: "2018-08-27"
+last_updated: "2022-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130105&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-08-17"
 
 ESTATUTO GENERAL DEL INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2022.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de agosto de 2018.
 
@@ -31,25 +31,37 @@ En la Sesión de la Junta de Gobierno de 15 de junio de 2018 se aprobaron reform
 
 ESTATUTO GENERAL
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 1º.
 
 El Instituto Tecnológico Autónomo de México es una escuela libre universitaria. Goza de personalidad jurídica propia de acuerdo con lo ordenado en el Decreto Presidencial del 10 de abril de 1962, publicado en el Diario Oficial del 19 de enero de 1963, y, a los estudios que imparte, la Secretaría de Educación Pública les reconoce validez oficial conforme a la normatividad aplicable.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 2º.
 
 El Instituto Tecnológico Autónomo de México reconoce como organismo fundador y patrocinador a la Asociación Mexicana de Cultura, A.C., la que en ningún caso tendrá derecho a recuperar sus aportaciones.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 3º.
 
 El régimen legal al que se sujeta el ITAM es el dispuesto en el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Ley para la Coordinación de la Educación Superior, el Reglamento para la Revalidación de Grados y Títulos otorgados por las Escuelas Libres Universitarias, el Decreto Presidencial antes mencionado, el presente Estatuto y cualquier otro ordenamiento aplicable.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 4º.
 
 El Instituto Tecnológico Autónomo de México está formado por sus órganos de gobierno y administración, el personal académico, administrativo, técnico y de servicio, y por los alumnos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 5º.
 
 Su domicilio queda establecido en la Ciudad de México, pero podrá señalar domicilios convencionales para actos jurídicos concretos, sin perjuicio de establecer escuelas u oficinas en otro lugar de la República Mexicana, así como organizar cursos permanentes o temporales en cualquier otro lugar del territorio nacional o del extranjero.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 6º.
 
@@ -60,6 +72,8 @@ Primero.- La autonomía universitaria, entendida como su autodeterminación en l
 Segundo.- La libertad de cátedra, con la responsabilidad que le es correlativa, como medio indispensable para el cumplimiento de sus funciones universitarias.
 
 Tercero.- El sentido comunitario de toda institución educativa, conforme al cual todos sus miembros se unen en la búsqueda en común de sus objetivos y del mejoramiento de su casa de estudios.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 7º.
 
@@ -109,31 +123,45 @@ El ITAM establecerá becas escolares a las que podrán acceder los estudiantes q
 
 Asimismo, el ITAM procurará, en la medida de su capacidad financiera, la atención a requerimientos básicos de subsistencia en materia de alimentación, vestido o vivienda, mediante el otorgamiento de becas de manutención a sus estudiantes con beca escolar y que se encuentren en situación de escasos recursos, sean indígenas o padezcan problemas de discapacidad.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 8º.
 
 Para realizar sus objetivos, el Instituto Tecnológico Autónomo de México podrá elaborar libremente sus planes de estudio, programas y métodos de enseñanza; fijar los estudios previos necesarios como requisito de ingreso, el mínimo de materias profesionales, la duración de los cursos y el número de horas de clase para cada asignatura; actuar con libertad, respecto de todas las cuestiones administrativas que le conciernan; establecer carreras; abrir cursos complementarios o superiores de las carreras que ofrece o lleguen a establecer, incluyendo los de enseñanza media superior; otorgar y expedir certificados, diplomas, títulos profesionales y otros grados académicos, previo el cumplimiento de los requisitos necesarios; sujetándose en todo lo anterior a las disposiciones de su régimen legal, dispuesto según el Artículo Tercero de este Estatuto General. Podrá, asimismo, organizar y dirigir toda clase de cursos de capacitación y extensión; organizar toda clase de actividades culturales y educacionales; editar y distribuir toda clase de publicaciones relacionadas con sus fines; otorgar becas; conceder distinciones honoris causa; celebrar toda clase de contratos y convenios relacionados con sus fines con personas físicas y morales nacionales y extranjeras.
 
 El ITAM podrá participar en la operación de Sociedades que se orienten a actividades de fomento de la educación, financiamiento de estudiantes de educación superior y difusión de la cultura y cualquier otro que consolide los logros institucionales, sea acorde con sus objetivos y desarrolle sus ventajas comparativas, y cuenten con autorización para recibir donativos deducibles en términos de la Ley del Impuesto Sobre la Renta.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 9º.
 
 Para su funcionamiento el Instituto Tecnológico Autónomo de México podrá recurrir a donativos, en efectivo o en especie, legados, en efectivo o en especie, patrocinios, cuotas, productos de bienes y de servicios, rifas y sorteos, dar en arrendamiento espacios en los inmuebles propios o que haya recibido en comodato a personas físicas o morales para que desarrollen en ellos alguna actividad siempre que ésta sea lícita, prestar servicios que pueden incluir la alimentación, cobrar regalías o derechos de autor respecto de los bienes intelectuales de los que sea titular o co-titular y, en general, a cualquier otro medio lícito de obtención de recursos.
 
-En todo caso la totalidad de su patrimonio deberá ser destinada únicamente a la operación normal del ITAM y a la realización del propósito para el cual fue creado no pudiendo otorgar beneficios sobre el remanente distribuible a persona física o moral alguna, salvo que se trate de la remuneración de servicios efectivamente recibidos. Podrá otorgar donativos a donatarias autorizadas por las autoridades fiscales para recibir donativos deducibles en términos de la Ley del Impuesto sobre la Renta. Ésta es una disposición de carácter irrevocable.
+El patrimonio de la organización, se destinará exclusivamente a los fines propios de su objeto social por el cual hayan sido autorizadas para recibir donativos deducibles del Impuesto sobre la Renta, no pudiendo otorgar beneficios sobre el remanente distribuible a persona física alguna o a sus integrantes personas físicas o morales, salvo que se trate, en este último caso de alguna persona moral autorizada para recibir donativos deducibles en términos de la Ley del Impuesto sobre la Renta o se trate de la remuneración de servicios efectivamente recibidos. Lo estipulado en la presente disposición es de carácter irrevocable.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 10º.
 
 Los órganos de gobierno y administración del Instituto Tecnológico Autónomo de México son: la Junta de Gobierno, el Rector y las direcciones, subdirecciones y jefaturas de departamento y centros que sean necesarios para el logro de los objetivos señalados en el Artículo Séptimo de este Estatuto.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 De la Junta de Gobierno
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 11º.
 
 El órgano supremo del Instituto Tecnológico Autónomo de México es la Junta de Gobierno y sus resoluciones serán obligatorias para todos los órganos y personas dentro del Instituto.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 12º.
 
 La Junta de Gobierno se compondrá del número de miembros que la Asociación Mexicana de Cultura, A.C. determine.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 13º.
 
@@ -147,13 +175,19 @@ Para ser miembro de la Junta de Gobierno son necesarios los siguientes requisito
 
 4.- No ser miembro del personal académico de tiempo completo o medio tiempo o del personal administrativo y técnico.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 14º.
 
 La Junta de Gobierno tendrá un Presidente, siendo vocales el resto de los miembros. Tendrá, además, un Secretario quien puede ser o no miembro de la Junta.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 15º.
 
 El Presidente y los vocales de la Junta de Gobierno serán nombrados y sustituidos por la Asamblea de la Asociación Mexicana de Cultura, A.C.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 16º.
 
@@ -183,23 +217,35 @@ Son facultades de la Junta de Gobierno:
 
 12.- En general, toda resolución o acuerdo para la marcha del Instituto Tecnológico Autónomo de México.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 17º.
 
-El Presidente tendrá por el hecho de su nombramiento la representación del Instituto Tecnológico Autónomo de México, por lo cual actuará como apoderado general para pleitos y cobranzas y actos de administración y dominio y podrá suscribir títulos de crédito en los términos de la Ley General de Títulos y Operaciones de Crédito y del Código Civil, con inclusión de todas las facultades generales y especiales, aun aquellas que requieran mención o cláusula expresa. El Presidente podrá nombrar, de entre los miembros de la Junta de Gobierno, a un Vicepresidente, delegarle funciones, y atribuciones y otorgarle poderes generales o especiales; así como delegar funciones, atribuciones y otorgar poderes generales o especiales a otros miembros de la Junta de Gobierno o al Rector del ITAM.
+El Presidente tendrá por el hecho de su nombramiento la representación del Instituto Tecnológico Autónomo de México, por lo cual actuará como apoderado general para pleitos y cobranzas y actos de administración y dominio y podrá suscribir títulos de crédito en los términos de la Ley General de Títulos y Operaciones de Crédito y del Código Civil, con inclusión de todas las facultades generales y especiales, aún aquellas que requieran mención o cláusula expresa. El Presidente podrá nombrar, de entre los miembros de la Junta de Gobierno, a un Vicepresidente, delegarle funciones, y atribuciones y otorgarle poderes generales o especiales; así como delegar funciones, atribuciones y otorgar poderes generales o especiales a otros miembros de la Junta de Gobierno o al Rector del ITAM.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 18º.
 
 La Junta de Gobierno deberá reunirse cuando menos tres veces al año. La convocatoria podrá hacerla su Presidente o quien funja como su Secretario, y lo hará antes de la fecha en que deba reunirse, señalando el día, la hora y el lugar en que tendrá efecto. Todo acuerdo de la Junta de Gobierno deberá ser tomado en las sesiones de la misma, por mayoría simple de votos del total de los miembros. En caso de empate el Presidente tendrá voto de calidad.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 19º.
 
 El Rector deberá asistir a todas las reuniones de la Junta a que sea convocado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 Del Rector
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 20º.
 
 El Instituto Tecnológico Autónomo de México tendrá un Rector nombrado por la Junta de Gobierno, quien será la máxima autoridad dentro de la institución y decidirá respecto de las actividades académicas que se le encomienden y establezcan.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 21º.
 
@@ -223,39 +269,61 @@ Son facultades del Rector:
 
 9.- Las demás inherentes o derivadas de su autoridad y responsabilidades.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 De los Funcionarios Académicos
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 22º.
 
 Los Funcionarios Académicos (Director Académico, Directores Divisionales, Directores de Programa, Directores de Centros Académicos y Jefes de Departamento) del Instituto Tecnológico Autónomo de México serán nombrados y removidos por la Junta de Gobierno escuchando la opinión y propuestas del Rector. Su base de contratación será la de profesor de tiempo completo, en el grupo y la categoría que le correspondan. El nombramiento de un nuevo Funcionario Académico con carácter de titular llevará implícita la remoción de quien hasta ese momento haya ocupado el cargo, quien quedará en la situación laboral que corresponda a su base de contratación, consideradas las modificaciones que se hayan producido por antigüedad o adquisición de grado académico.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 23º.
 
 Las funciones de los Funcionarios Académicos son las que se enumeran en el Manual de Organización y Operación del Instituto.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 De los Funcionarios no Académicos
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 24º.
 
 Los Funcionarios no Académicos del Instituto Tecnológico Autónomo de México serán nombrados y removidos por la Junta de Gobierno a propuesta del Rector.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 25º.
 
 Las funciones de los Funcionarios no Académicos son las que se enumeran en el Manual de Organización y Operación del Instituto.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 De la Junta de Coordinación Académica
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 26º.
 
 Los directores cuyas funciones, atribuciones y responsabilidades sean substancialmente académicas serán miembros de la Junta de Coordinación Académica. También podrán ser miembros otros funcionarios designados por la Junta de Gobierno o el Rector.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 27º.
 
 La Junta de Coordinación Académica será presidida por el Rector.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 28º.
 
 La Junta será un cuerpo colegiado que conjuntamente colaborará con el Rector en las decisiones que éste tome respecto a la organización académica del Instituto, a sus objetivos y políticas académicas y otros asuntos que, a juicio de aquél, tengan la importancia suficiente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 29º.
 
@@ -265,23 +333,35 @@ La Junta tendrá las funciones siguientes:
 
 2.- En lo concerniente a aspectos administrativos, escolares, financieros y de relaciones externas, la Junta de Coordinación Académica actuará a nivel de asesoría.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 30º.
 
 Para el cumplimiento de sus atribuciones podrá integrar comités permanentes y provisionales, en los cuales podrán participar funcionarios, maestros y estudiantes, empleados y ex-alumnos del Instituto, así como personas externas que por su reconocida idoneidad contribuyan a la mejor realización de su cometido.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 31º.
 
 La definición de personal académico del ITAM, así como sus relaciones con el propio Instituto se rigen por las disposiciones del Estatuto del Personal Académico del Instituto Tecnológico Autónomo de México y sus Reglamentos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 De la Junta de Facultad
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 32º.
 
 Los profesores de tiempo completo y medio tiempo forman parte de la Junta de Facultad, la cual se regirá por su propio Reglamento.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 33º.
 
 Son funciones de la Junta de Facultad el análisis y la discusión de cuestiones de carácter institucional, académico, escolar, administrativo y de interés general del propio Instituto y, en su caso, la formulación de recomendaciones que considere convenientes, a los órganos de gobierno y administración.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 34º.
 
@@ -289,17 +369,25 @@ Es personal Administrativo y de Servicio del ITAM aquel cuya colaboración esté
 
 Es personal Técnico aquel cuya colaboración esté fundada en un contrato de trabajo, que permita el desarrollo de las actividades estrictamente técnicas y de dirección del Centro de Cómputo del ITAM.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 35º.
 
 Las relaciones del Instituto con el personal administrativo, técnico y de servicio, se regirán por la Ley Federal del Trabajo y Leyes complementarias, así como por los Reglamentos que al efecto establezca el ITAM.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 36º.
 
 Es alumno del Instituto Tecnológico Autónomo de México toda persona inscrita en alguno de sus programas de docencia.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 37º.
 
 Todos los alumnos están obligados a cumplir el Reglamento de Alumnos del Instituto Tecnológico Autónomo de México.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 38º.
 
@@ -309,29 +397,35 @@ El Comisario y el Auditor externo tendrán a su cargo la vigilancia de las cuest
 
 El Comisario tendrá las más amplias facultades para efectuar las investigaciones y verificaciones que estime pertinente dentro y fuera del Instituto, así como para revisar los libros, las cuentas y los documentos que sean necesarios para realizar su dictamen anual.
 
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 39º.
 
-El Instituto Tecnológico Autónomo de México se rige por las disposiciones señaladas en el Artículo 3º de este Estatuto en lo general y, en lo particular, por los Estatutos y Reglamentos que a continuación se enumeran y por cualquier otro que apruebe la Junta de Gobierno conforme a lo dispuesto por la fracción 5a. de las señaladas en el Artículo 16º.
+El Instituto Tecnológico Autónomo de México se rige por las disposiciones señaladas en el Artículo 3° de este Estatuto en lo general y, en lo particular, por los Estatutos y Reglamentos que a continuación se enumeran y por cualquier otro que apruebe la Junta de Gobierno conforme a lo dispuesto por la fracción 5a. de las señaladas en el Artículo 16°: Estatuto del Personal Académico y sus reglamentos, Reglamento de Estudios Profesionales, Reglamento de Estudios de Posgrado y Normatividad del Personal Administrativo
 
-Estatuto del Personal Académico y sus reglamentos
-
-Reglamentos de Estudios Profesionales
-
-Reglamento de Estudios de Posgrado
-
-Normatividad del Personal Administrativo
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 40º.
 
-El Instituto tendrá el patrimonio que requiera para el cumplimiento de sus fines y objetivos. En caso de disolución, cesación de actividades o cambio de residencia fiscal al extranjero, el total de su patrimonio se transferirá a la Asociación Mexicana de Cultura, A.C., en tanto conserve el carácter de entidad autorizada para recibir donativos deducibles, o en su defecto a una Asociación o Institución que al igual que la Asociación Mexicana de Cultura, A.C. deberá ser en todo caso una Asociación cuyo objeto no sea lucrativo y cuyos fines sean la enseñanza, la investigación científica o la asistencia social, y que cumpla, además, con los requisitos dispuestos por la Ley de Impuesto sobre la Renta y tenga el carácter de entidad autorizada para recibir donativos deducibles. Lo anterior se entiende como una disposición irrevocable.
+El Instituto tendrá el patrimonio que requiera para el cumplimiento de sus fines y objetivos.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 41º.
 
-En caso de que la autorización para recibir donativos deducibles otorgada al Instituto sea revocada o cuando su vigencia haya concluido y no se haya obtenido nuevamente o renovado la misma, dentro de los doce meses siguientes a la fecha en que surtió efectos la notificación correspondiente, deberá acreditar que los donativos recibidos fueron utilizados para los fines propios de su objeto social, y respecto de los donativos que no fueron destinados para esos fines, los transmitirá a la Asociación Mexicana de Cultura, A.C., siempre y cuando conserve su carácter de donataria conforme a lo dispuesto por la Ley del Impuesto sobre la Renta; en caso contrario lo transmitirá a otras entidades autorizadas para recibir donativos deducibles, dentro de los 6 meses siguientes contados a partir de que concluyó el plazo para obtener nuevamente la autorización cuando fue revocada o la renovación de la misma en el caso de conclusión de su vigencia. Lo estipulado en el presente artículo es de carácter irrevocable.
+El Instituto al momento de su liquidación o cambio de residencia para efectos fiscales, destinará la totalidad de su patrimonio a personas morales autorizadas para recibir donativos deducibles del Impuesto sobre la Renta.
 
-###### ARTÍCULO 42°.
+En caso de que la autorización para recibir donativos deducibles otorgada al Instituto, sea revocada, su vigencia haya concluido o se haya solicitado su cancelación y no se haya obtenido nuevamente o renovado la misma, dentro de los doce meses siguientes a la fecha en que ocurran dichos eventos, se deberá destinar la totalidad de su patrimonio a otras entidades autorizadas para recibir donativos deducibles, dentro de los 6 meses siguientes contados a partir de que concluyó el plazo para obtener nuevamente la autorización.
 
-En caso de que el Instituto fuese disuelto, la Junta de Gobierno, desde el momento en que la disolución sea decretada y en cualquier tiempo durante el proceso de liquidación, y después de consumado éste, será la única facultada para decidir y decidirá a cuál o cuáles entidades autorizadas para recibir donativos deducibles deberán traspasarse gratuitamente los donativos que no fueron destinados para los fines propios del objeto social del Instituto.
+Lo estipulado en el presente artículo es de carácter irrevocable.
+
+> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 42º.
+
+En relación con los supuestos señalados en el artículo anterior, relacionados con la liquidación, cambio de residencia, revocación, cancelación o la no renovación de la autorización para recibir donativos deducibles del Impuesto sobre la Renta, la Junta de Gobierno del Instituto será la única facultada para decidir y decidirá a cuál o cuáles entidades autorizadas para recibir donativos deducibles del Impuesto sobre la Renta deberá destinar la totalidad de su patrimonio. En estos casos, la Junta de Gobierno del Instituto dará preferencia a la Asociación Mexicana de Cultura, A.C. y/o a la Fundación Alberto Bailléres, A.C., siempre y cuando a la fecha en que se materialice alguno de dichos supuestos, tengan vigente la autorización de donatarias conforme a lo dispuesto por la Ley del Impuesto sobre la Renta.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 43º.
 
@@ -360,3 +454,25 @@ Representante Legal del Instituto Tecnológico Autónomo de México
 Mónica de Lourdes Arrieta Blanco
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS Y ADICIONES AL ESTATUTO GENERAL DEL INSTITUTO TECNOLÓGICO AUTÓNOMO DE MÉXICO".]
+
+###### ARTÍCULO 1°.
+
+Las modificaciones hechas al presente Estatuto y que fueron aprobadas en la sesión de la Junta de Gobierno del 21 de septiembre de 1994, entrarán en vigor el día 22 de septiembre de 1994.
+
+###### ARTÍCULO 2°.
+
+Las modificaciones hechas al presente Estatuto y que fueron aprobadas en la sesión de la Junta de Gobierno del 22 de Junio de 2004, entrarán en vigor el día 23 de junio de 2004.
+
+###### ARTÍCULO 3°.
+
+Las modificaciones hechas al presente Estatuto y que fueron aprobadas en la Sesión de la Junta de Gobierno de esta fecha, 15 de junio de 2018, y entrarán en vigor el día de su aprobación.
+
+###### ARTÍCULO 4°.
+
+Las modificaciones hechas al presente Estatuto General en sus artículos Noveno, Cuadragésimo, Cuadragésimo Primero y Cuadragésimo Segundo, fueron aprobadas en la sesión de la Junta de Gobierno del 16 de junio de 2022, y entrarán en vigor el día siguiente.
