@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2020-02-05"
+last_updated: "2022-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -489,7 +489,11 @@ XXIII. Avalar los eventos o competiciones oficiales que se encuentren contemplad
 
 XXIV. Apoyar, asesorar y dar las directrices mínimas a los ayuntamientos del estado que así lo soliciten en la elaboración de sus programas del Deporte y Cultura Física; y
 
-XXV. Las demás que sean afines a las anteriores y contribuyan a la realización del objeto del Instituto.
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+XXV. Fomentar el desarrollo de las y los deportistas de alto rendimiento en el estado, creando y ejecutando políticas públicas de impacto, las cuales orienten el fomento, el desarrollo y empoderamiento de las y los deportistas morelenses para que representen a Morelos en competencias oficiales nacionales e internacionales.
+
+XXVI. Las demás que sean afines a las anteriores y contribuyan a la realización del objeto del Instituto.
 
 ### CAPÍTULO TERCERO. DEL PATRIMONIO DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
@@ -2050,3 +2054,11 @@ QUINTA. Durante el presente ejercicio fiscal, el presupuesto asignado al Institu
 SEXTA. El Congreso del Estado tomara las previsiones necesarias para que, en el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal del 1 de enero al 31 de diciembre de 2020, se asignen recursos suficientes al Instituto del Deporte como Organismo Público Descentralizado de la Secretaría de Educación.
 
 SÉPTIMA. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SIETE.- POR EL QUE SE ADICIONA LA FRACCIÓN XXV RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 28 DE LA LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
