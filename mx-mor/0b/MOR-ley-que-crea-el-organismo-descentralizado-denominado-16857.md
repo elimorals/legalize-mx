@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-organismo-descentralizado-denominado-16857"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-21"
-last_updated: "2015-09-09"
+last_updated: "2022-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de julio de 1999.
 
@@ -59,7 +59,9 @@ I. Coadyuvar a la consolidación del Sistema Estatal de Salud, enfocando su acti
 
 II. Ejecutar los programas sectoriales de salud dirigidos a la niñez morelense, fundamentalmente a la de escasos recursos económicos;
 
-III. Proporcionar los servicios médicos de alta especialidad a los niños morelenses, impulsando los estudios, proyectos, programas e investigaciones inherentes a su ámbito de competencia, abarcando los aspectos preventivo, curativo y de rehabilitación;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+III. Proporcionar los servicios médicos de alta especialidad a las personas menores de edad, impulsando los estudios, proyectos, programas e investigaciones inherentes a su ámbito de competencia, abarcando los aspectos preventivos, curativos y de rehabilitación;
 
 IV. Proporcionar consulta externa y atención hospitalaria a la población infantil que requiera de estos servicios; las cuotas de recuperación por los servicios que se presten deberán atender a criterios fundados en las condiciones socioeconómicas de los usuarios, sin que estas desvirtúen la función social del hospital;
 
@@ -93,11 +95,11 @@ VII. Celebrar los actos jurídicos necesarios para el cumplimiento de su objeto 
 
 VIII. Las demás que por su objeto y naturaleza le corresponda o le sean asignadas por el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 5.
 
-El "Hospital del Niño Morelense" regirá sus actividades conforme a las disposiciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley Orgánica de la Administración Pública del Estado de Morelos, la Ley General de Salud y su Reglamento, la Ley de Salud del Estado de Morelos y su Reglamento, la presente Ley, el Estatuto Orgánico y demás ordenamientos legales aplicables a esta Entidad Pública.
+El “Hospital del Niño Morelense” regirá sus actividades conforme a las disposiciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, la Ley General de Salud, la Ley de Salud del Estado de Morelos, la presente ley, el Estatuto Orgánico y demás ordenamientos legales aplicables a esta Entidad Pública.
 
 ## TÍTULO III. DEL PATRIMONIO
 
@@ -147,11 +149,15 @@ IV. La persona titular de la Secretaría de Administración;
 
 V. La persona titular de la Secretaría de la Contraloría;
 
-VI. La persona titular de la Subsecretaría de Salud de la Secretaría de Salud;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
 
-VII. La persona titular de la Dirección General Jurídica de la Secretaría de Salud, y
+VI. La persona titular de la Unidad de Enlace Jurídico de la Secretaría de Salud, y
 
-VIII. La persona titular de la Dirección General de la Coordinación Administrativa de la Secretaría de Salud.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+VII. La persona titular de la Unidad de Enlace Financiero Administrativo de la Secretaría de Salud.
+
+VIII. (DEROGADA, P.O. 24 DE AGOSTO DE 2022)
 
 El Comisario Público del "Hospital del Niño Morelense", participará en las sesiones de la Junta Directiva con voz pero sin voto.
 
@@ -171,9 +177,9 @@ El quórum se integrará por el cincuenta por ciento más uno del número total 
 
 La Junta Directiva podrá invitar a sus sesiones, con derecho a voz, pero sin voto, a representantes de instituciones y personas vinculadas con las actividades de asistencia médica, enseñanza e investigación del Hospital, cuando los temas a tratar así lo requieran.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2022)</small>
 
-Las sesiones de la Junta Directiva, se ajustarán a lo dispuesto por el Acuerdo que establece los Lineamientos para la Convocatoria y Desarrollo de las Sesiones Ordinarias y Extraordinarias de los Órganos de Gobierno Colegiados de la Administración Central y de los Organismos Auxiliares que integran el sector paraestatal del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 4009, de fecha veintiuno de octubre de mil novecientos noventa y nueve, o en su caso, al ordenamiento legal que en lo futuro regule tales actividades.
+Las sesiones de la Junta Directiva se ajustarán a los acuerdos y lineamientos para la celebración de sesiones de los distintos Órganos Colegiados que actúan y participan en la Administración Pública del Estado de Morelos vigentes, que regulen tales actividades.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
@@ -187,7 +193,9 @@ II. Aprobar los programas y presupuestos del "Hospital del Niño Morelense", as�
 
 III. Proponer el monto de las cuotas de recuperación y demás servicios que preste el "Hospital del Niño Morelense", excepto aquellos que sean determinados por acuerdo del Gobernador del Estado;
 
-IV. Aprobar anualmente, con base en el informe de los comisarios y dictamen de los auditores externos, los estados financieros del "Hospital del Niño Morelense" y autorizar la publicación de los mismos;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+IV. Aprobar anualmente, con base en el informe del comisario y un dictamen de auditoría externo, los estados financieros del “Hospital del Niño Morelense” y autorizar la publicación de los mismos;
 
 V. Atender en los términos de esta Ley y demás legislación aplicable, las políticas, bases y programas generales que regulen las obras públicas, adquisiciones, arrendamientos y prestación de servicios en relación con bienes muebles e inmuebles que requiera el "Hospital del Niño Morelense";
 
@@ -197,9 +205,13 @@ VII. Presentar, por conducto de la Secretaría de Salud, al titular del Poder Ej
 
 VIII. Autorizar la creación de unidades administrativas necesarias para agilizar las actividades del "Hospital del Niño Morelense";
 
-IX. Autorizar la plantilla de los servidores públicos y sus modificaciones de acuerdo con las necesidades y los servicios que se presten, considerando las prestaciones de éstos, atendiendo las solicitudes del Gobernador del Estado, la persona titular de la Secretaría de Salud y del Director General del "Hospital del Niño Morelense";
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
 
-X. Designar y cambiar a propuesta del Director General del "Hospital del Niño Morelense" a los funcionarios de mandos medios, aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración, y las demás establecidas en su Estatuto Orgánico, así como concederles las licencias que procedan;
+IX. Autorizar, previo acuerdo con el gobernador y el coordinador de sector, la plantilla de los servidores públicos y sus modificaciones de conformidad con las necesidades y los servicios que se presten, considerando las prestaciones de éstos, con base en el informe de los estados financieros y la disponibilidad presupuestaria;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+X. Designar y cambiar, a propuesta del director general del “Hospital del Niño Morelense”, a los servidores públicos de mandos medios y los demás que se determinen, aprobar sus sueldos y prestaciones en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración, y las demás establecidas en el Estatuto Orgánico, así como concederles las licencias que procedan;
 
 XI. Designar y cambiar, a propuesta del Presidente, al Secretario Técnico de la Junta Directiva, entre personas ajenas al "Hospital del Niño Morelense", el cual podrá ser integrante o no de la Junta Directiva;
 
@@ -211,61 +223,105 @@ XIV. Decidir los donativos o pagos extraordinarios, con base en las disposicione
 
 XV. Establecer las normas y bases para hacer la cancelación de adeudos a favor del "Hospital del Niño Morelense" a cargo de terceros; en los casos de notoria imposibilidad práctica de su cobro, con la prevención de que cuando proceda la citada cancelación, se someterá a la aprobación de la Secretaría de Hacienda y de la Secretaría de Salud.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 12.
 
-El Gobernador del Estado nombrará libremente al Director General del "Hospital del Niño Morelense", de conformidad con lo dispuesto en el artículo 83 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+El Gobernador del Estado nombrará al titular o director general, previo acuerdo con el coordinador del sector, dicha designación quedará a cargo del órgano de gobierno del “Hospital del Niño Morelense”, de conformidad con lo dispuesto en el artículo 81 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
 
-Para ser Director General del “Hospital del Niño Morelense”, además de los requisitos que establece el citado artículo 83 de la Ley Orgánica de la Administración Pública del Estado de Morelos, se deben satisfacer los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2022)</small>
+
+Para ser director general del “Hospital del Niño Morelense”, además de los requisitos que establecen las fracciones I a la III del citado artículo 81 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, se deben satisfacer los siguientes:
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
 I. Ser médico especialista en pediatría, con título y cédula profesional, expedidos por la autoridad competente;
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
 II. Ser mayor de 35 años y menor de 60 años;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
 III. Estar reconocido por el Consejo Mexicano de Pediatría, y
 
-IV. Contar con reconocida solvencia moral.
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
-Cuando exista cambio de titular del Poder Ejecutivo, procederá el nombramiento de un nuevo Director General, en virtud de que carece, al igual que los mandos medios del Organismo, de estabilidad en la función que desempeña, excepto en el caso de que, quien se encuentre en el cargo, sea nombrado de nueva cuenta por un nuevo período, de acuerdo con los requisitos a que se refiere el presente artículo.
+IV. Contar con reconocida solvencia moral.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
+Cuando exista cambio de titular del Poder Ejecutivo, procederá el nombramiento de un nuevo Director General, en virtud de que carece, al igual que los mandos medios del Organismo, de estabilidad en la función que desempeña, excepto en el caso de que, quien se encuentre en el cargo, sea nombrado de nueva cuenta por un nuevo período, de acuerdo con los requisitos a que se refiere el presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 13.
 
-El Director General del "Hospital del Niño Morelense”, además de las atribuciones que se señalan en los artículos 66 y 84 de la Ley Orgánica de la Administración Pública del Estado de Morelos, tendrá las siguientes:
+El director general del “Hospital del Niño Morelense”, además de las atribuciones que se señalan en los artículos 64 y 82 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, tendrá las siguientes:
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
 I. Administrar y representar legalmente al "Hospital del Niño Morelense”;
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
 II. Elaborar los programas institucionales de corto, mediano y largo plazo, y los correspondientes presupuestos del "Hospital del Niño Morelense" para presentarlos a la aprobación de la Junta Directiva; si el Director General no diere cumplimiento a esta obligación dentro de los plazos previstos, la Junta Directiva procederá a la integración y desarrollo de dichos requisitos, sin perjuicio de la responsabilidad que corresponda al servidor público omiso;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
 III. Elaborar y presentar los programas de organización a la aprobación de la Junta Directiva;
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
 IV. Establecer los mecanismos que permitan el aprovechamiento óptimo de los bienes muebles e inmuebles del "Hospital del Niño Morelense";
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
 V. Aplicar las medidas adecuadas a efecto de que las funciones del "Hospital del Niño Morelense" se realicen de manera organizada, congruente, eficaz y eficiente;
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
 VI. Fijar los controles necesarios para asegurar la calidad de los suministros y programas de recepción, que garanticen la continuidad de la prestación de los servicios de salud a la infancia morelense;
 
-VII. Someter a la aprobación de la Junta Directiva, los nombramientos, cambios y licencias de los funcionarios de mandos medios, así como sus sueldos y demás prestaciones de acuerdo con las asignaciones globales de presupuesto de gasto corriente aprobado por la misma Junta Directiva;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+VII. Someter a la aprobación de la Junta Directiva, los nombramientos, cambios de licencias de los servidores públicos de mandos medios y de los que se determinen en Estatuto Orgánico, así como de sus sueldos y demás prestaciones, de acuerdo con las asignaciones globales de presupuesto de gasto corriente aprobado por la misma Junta Directiva;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
 VIII. Recopilar la información y elementos estadísticos que muestren el estado de las funciones del "Hospital del Niño Morelense", para estar en posibilidad de mejorar la gestión del mismo;
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
 IX. Estructurar y operar los sistemas de control adecuados para alcanzar los objetivos y metas programados;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
 X. Rendir en forma bimestral a la Junta Directiva, el informe del desarrollo de las actividades del "Hospital del Niño Morelense" e incluir en el mismo el ejercicio de los presupuestos de ingresos y egresos y los correspondientes estados financieros. En el informe y en los documentos de apoyo se cotejarán las metas programadas y compromisos asumidos por la dirección con las realizaciones que se lograron;
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
 XI. Estructurar y aplicar los mecanismos de evaluación que hagan sobresalir la eficiencia y eficacia con las cuales desarrolla sus actividades el "Hospital del Niño Morelense", y presentar a la Junta Directiva, cuando menos dos veces al año, la evaluación de gestión en la forma detallada que haya acordado con la propia Junta Directiva y escuchando al Comisario Público;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
 XII. Cumplir con los acuerdos que dicte la Junta Directiva;
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
 XIII. Otorgar, sustituir y revocar poderes generales y especiales, con todas las facultades, aun las que requieran cláusula especial;
+
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
 
 XIV. Suscribir, cuando así lo requiera el régimen laboral del propio "Hospital del Niño Morelense", los contratos individuales y colectivos que rijan las relaciones de trabajo de éste con sus trabajadores, y
 
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2013)</small>
+
 XV. Las demás que le asignen otras Leyes, Reglamentos, Acuerdos y Disposiciones Administrativas aplicables.
 
-El Director General del "Hospital del Niño Morelense" tendrá además a su cargo la representación legal de éste último, que lo faculta para llevar a cabo el ejercicio de las facultades establecidas en el artículo 84 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2022)</small>
+
+El director general del “Hospital del Niño Morelense” tendrá además a su cargo la representación legal de este último, que lo faculta para llevar a cabo el ejercicio de las facultades establecidas en el artículo 82 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2015)</small>
 
@@ -319,21 +375,15 @@ VI. Elaborar y someter a consideración de la Junta Directiva el proyecto de Reg
 
 VII. Las demás que le encomiende la Junta Directiva o la Dirección General.
 
-## TÍTULO V. DEL ÓRGANO DE VIGILANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2013)</small>
+## TÍTULO V. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 18.
 
-El "Hospital del Niño Morelense" contará con un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría.
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
-
-Las funciones del Comisario Público serán las de evaluar, vigilar y dar seguimiento a las actividades administrativas del organismo, realizar los estudios sobre la eficiencia con la cual se ejerzan los recursos financieros de la Institución, para ello solicitará a la Dirección General o a las unidades administrativas correspondientes la información correspondiente; en caso de negativa o resistencia de poner a su disposición la información y documentación necesaria, lo hará del conocimiento de la Junta Directiva, a fin de tomar las medidas pertinentes y conducentes para su entrega al Comisario, sin menoscabo de las tareas específicas que le asigne la Secretaría de la Contraloría.
-
-La Junta Directiva y el Director General deberán proporcionar la información que solicite el Comisario, a efecto de que pueda cumplir con sus funciones.
-
-El Comisario participará en las sesiones de la Junta Directiva con voz pero sin voto.
+El “Hospital del Niño Morelense” contará con un Comisario Público, designado por la Secretaría de la Controlaría, quien formará parte de la estructura orgánica de dicha secretaría.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
 
@@ -361,17 +411,17 @@ Las relaciones laborales entre el "Hospital del Niño Morelense" y su personal m
 
 El Director General, los Coordinadores, los Directores y Subdirectores de Área, Jefes de Departamento, el de manejo de fondos, supervisores, almacenistas, administradores, secretarios particulares y sus auxiliares de unos y otros, son empleados de confianza y constituyen el personal de mandos medios y superiores, los cuales no tendrán estabilidad en el empleo y podrán ser removidos en cualquier tiempo sin responsabilidad para el "Hospital del Niño Morelense".
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 23.
 
-Los integrantes de la Junta Directiva y todo el personal del "Hospital del Niño Morelense", que incurran en acciones u omisiones previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, serán sujetos a procedimientos administrativos; y, en caso de responsabilidad penal, se estará a lo dispuesto por el Código Penal para el Estado Morelos y su correspondiente legislación adjetiva aplicable.
+Los integrantes de la Junta Directiva y todo el personal del "Hospital del Niño Morelense", que incurran en acciones u omisiones previstas en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas para el Estado de Morelos, serán sujetos a procedimientos administrativos, y en caso de responsabilidad penal, se estará a lo dispuesto por el Código Penal para el Estado de Morelos y su correspondiente legislación adjetiva aplicable.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 24.
 
-Los supuestos no previstos en la Ley Orgánica de la Administración Pública del Estado de Morelos, en esta Ley o en el Estatuto Orgánico serán resueltos por la Junta Directiva, en términos de los demás ordenamientos legales aplicables.
+Los supuestos no previstos en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, en esta ley o en el Estatuto Orgánico serán resueltos por la Junta Directiva, en términos de los demás ordenamientos legales aplicables.
 
 ## TRANSITORIOS
 
@@ -464,3 +514,15 @@ P.O. 9 DE SEPTIEMBRE DE 2015.
 PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los fines que indica la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS NUEVE.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO “HOSPITAL DEL NIÑO MORELENSE”.]
+
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas (sic) disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+CUARTO.- El Estatuto Orgánico del Hospital del Niño Morelense, el Reglamento Interior de Trabajo, el Manual de Organización y demás disposiciones jurídicas aplicables, de ser necesario deberán ajustarse al presente decreto, en un plazo no mayor a 120 días hábiles, contados a partir de la publicación que se haga en el Periódico Oficial “Tierra y Libertad”.
