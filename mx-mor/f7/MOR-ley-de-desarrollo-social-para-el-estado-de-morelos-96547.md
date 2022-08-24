@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-social-para-el-estado-de-morelos-96547"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-06"
-last_updated: "2020-02-12"
+last_updated: "2022-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de noviembre de 2013.
 
@@ -477,7 +477,9 @@ II. Los Titulares de las Secretarías de Gobierno, de Desarrollo Social, de Econ
 
 III. Tres Presidentes Municipales de la Entidad, designados por el órgano de gobierno del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, en función de la regionalización del Estado que se determine;
 
-IV. Los Diputados Presidentes de las Comisiones de Desarrollo Social y Hacienda, Presupuesto y Cuenta Pública, y de Participación Ciudadana del Congreso del Estado;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+IV. Los diputados presidentes de las Comisiones de Planeación para Desarrollo Social, Metropolitano, Zonas Conurbadas y Asentamientos Humanos; Hacienda, Presupuesto y Cuenta Pública; y Participación Ciudadana y Reforma Política del Congreso del Estado;
 
 V. El Titular de la Comisión Estatal de Evaluación del Desarrollo Social; y
 
@@ -856,3 +858,13 @@ P.O. 12 DE FEBRERO DE 2020.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS CATORCE POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 40 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
