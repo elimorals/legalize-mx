@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-de-transporte-colectivo-57338"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-11-06"
-last_updated: "2018-07-06"
+last_updated: "2022-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57338&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -19,11 +19,13 @@ scjn_last_update: "2024-09-17"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
-> <small>[N. DE E. LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO, EXPEDIDO POR LA SECRETARÍA DE MOVILIDAD DEL GOBIERNO DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 6 DE JULIO DE 2018, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+NOTA 1: [N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL PREÁMBULO DEL “AVISO POR EL QUE SE EXPIDE EL NUEVO ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO Y SE ABROGA EL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, EL 6 DE NOVIEMBRE DEL 2007, Y EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 6 DE JULIO DE 2018”, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DE 24 DE AGOSTO DE 2022; EL NUEVO ESTATUTO ORGÁNICO ENTRA EN VIGOR EL 29 DE AGOSTO DE 2022.]
+
+NOTA 2: [N. DE E. INFORMACIÓN OBTENIDA DE: https://www.metro.cdmx.gob.mx/organismo/marco-normativo/estatuto-de-stc]
 
 ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 6 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 24 DE AGOSTO DE 2022 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el martes 6 de noviembre de 2007.
 
@@ -2118,5 +2120,29 @@ G.O. 6 DE JULIO DE 2018.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Estatuto Orgánico del Sistema de Transporte Colectivo entrará en vigor al siguiente día de su publicación.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan a lo previsto en el presente Estatuto Orgánico del Sistema de Transporte Colectivo.
+
+G.O. 24 DE AGOSTO DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL AVISO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+“AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO PARA CONSULTAR EL NUEVO ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO Y SE ABROGA EL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, EL 6 DE NOVIEMBRE DEL 2007, Y EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 6 DE JULIO DE 2018”.
+
+Único.- Se da a conocer el enlace electrónico para consultar el Estatuto Orgánico del Sistema de Transporte Colectivo, mismo que se encuentra disponible para su consulta en la página electrónica: https://www.metro.cdmx.gob.mx/organismo/marco-normativo/estatuto-de-stc
+
+## TRANSITORIOS
+
+PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Aviso entrará en vigor el día veintinueve de agosto del año en curso.
+
+TERCERO.- Los responsables del enlace electrónico es Dr. Silvano Soto Hernández, con el cargo de Encargado de Despacho de la Coordinación de Comunicación y Lic. Juan Cienfuegos Hernández, operador del sitio web del Sistema de Transporte Colectivo, teléfono 555709.1133 ext. 4647.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Estatuto Orgánico del Sistema de Transporte Colectivo entrará en vigor el día 29 de agosto de 2022.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan a lo previsto en el presente Estatuto Orgánico del Sistema de Transporte Colectivo.
