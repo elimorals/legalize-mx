@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2017-12-06"
+last_updated: "2022-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -256,6 +256,10 @@ II. Atender las recomendaciones que formulen las dependencias competentes en mat
 III. Proporcionar la información y documentación oficial que tanto la Secretaría como las autoridades competentes le requieran en todo lo relativo a los servicios que presten;
 
 IV. Anunciar en los lugares visibles de acceso al establecimiento, sus precios y tarifas y los servicios que éstos incluyen. Cuando se trate de la prestación de servicios de guías de turistas, al momento de la contratación del servicio informarán su tarifa y lo que ésta incluye;
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+IV BIS. Mantener actualizadas sus páginas web, redes sociales y toda forma de contacto, con el fin de brindar información actual y detallada de los servicios que prestan, los costos, su ubicación, las medidas sanitarias, las posibles restricciones y demás aspectos e información que sean de interés para el visitante.
 
 V. Resaltar el idioma nacional en las leyendas en que anuncien al público su razón social, denominación o los servicios que prestan, sin perjuicio del uso de otros idiomas;
 
@@ -839,7 +843,9 @@ La Secretaría solicitará a las autoridades de educación pública del Estado u
 
 ###### Artículo 57.
 
-La Secretaría promoverá el establecimiento de programas de vinculación escuela-empresa con el fin de coadyuvar en la adecuación de los planes y programas de estudio de los centros de enseñanza turística, con las necesidades del mercado y de los prestadores de servicios turísticos, fomentando la concientización turística en todos los niveles educativos. En los citados programas se deberá contemplar la capacitación respecto a la atención de las personas con capacidades diferentes.
+La Secretaría promoverá el establecimiento de programas de vinculación escuela-empresa con el fin de coadyuvar en la adecuación de los planes y programas de estudio de los centros de enseñanza turística, con las necesidades del mercado y de los prestadores de servicios turísticos, fomentando la concientización turística en todos los niveles educativos.
+
+En los citados programas se deberá contemplar la capacitación respecto a la atención de las personas con capacidades diferentes.
 
 ###### Artículo 58.
 
@@ -1234,3 +1240,13 @@ PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano del Gobierno del Estado de Morelos.
 
 TERCERA.- El Ejecutivo del Estado contará con un plazo de sesenta días hábiles para realizar las modificaciones correspondientes al Reglamento de la presente Ley.
+
+P.O. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS DOCE.- POR EL QUE SE ADICIONA LA FRACCIÓN IV BIS, AL ARTÍCULO 9 DE LA LEY DE TURISMO DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA (SIC).- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
