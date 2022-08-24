@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2021-10-06"
+last_updated: "2022-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -861,6 +861,10 @@ El personal médico que acceda a los datos del expediente clínico en el ejercic
 
 Los prestadores de servicios de salud tomarán las medidas administrativas pertinentes para proteger los datos personales contenidos en el expediente clínico a efecto de prevenir el acceso, alteración, comunicación, difusión o cualquier otro manejo indebido o no autorizado respecto de la referida información.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2022)</small>
+
+11.- En el caso de personas embarazadas, a que se designe a persona de su confianza, que le acompañe y represente en el acto de consentimiento bajo información del expediente clínico de los procedimientos de atención del parto y puerperio, así como en los casos del procedimiento quirúrgico de alumbramiento por cesárea.
+
 ###### Artículo 57.
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
@@ -1079,7 +1083,7 @@ II.- Desarrollo de programas de comunicación educativa dirigidos a la comunidad
 
 III.- Salvaguardar la dignidad del adulto y del adulto mayor, y, en la medida de lo posible, garantizar una vida de calidad a través de los cuidados y atenciones médicas geriátricas;
 
-REFORMADA, P.O. 6 DE OCTUBRE DE 2021)
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
 
 IV.- Apoyo y fomento de la investigación en materia de enfermedades crónicodegenerativas;
 
@@ -1195,33 +1199,53 @@ Artículo 88 Sexties.- La Secretaría de Salud del Estado podrá auxiliarse para
 
 El objeto del presente Capítulo, es la protección materno-infantil y la promoción de la salud maternal, que abarca el período que va del embarazo, parto y puerperio, en razón de la condición de vulnerabilidad en que se encuentran la mujer y el recién nacido.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 24 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 88 Octies.
 
-Toda mujer embarazada tiene derecho a obtener servicios de salud, en los términos a que se refiere esta Ley y con estricto respeto a sus derechos humanos.
+Toda persona embarazada tiene derecho a obtener servicios de salud bajo los criterios de calidad y seguridad del paciente, en los términos a que se refiere esta ley y con estricto respeto a sus derechos humanos.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 88 Nonies.
 
-Durante el embarazo la mujer gozará de los siguientes derechos:
+Durante el embarazo la persona embarazada gozará de los siguientes derechos:
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
 I. Recibir información sobre los métodos de parto y las diferentes instituciones del Sistema Estatal de Salud que tienen la capacidad profesional para su atención;
 
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
+
 II. Recibir información sobre los beneficios y riesgos de los procedimientos, fármacos y pruebas que se utilicen durante el embarazo, el parto y el puerperio;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
 III. Elegir métodos no farmacológicos de alivio del dolor, debiendo recurrirse a los analgésicos o anestésicos, sólo si son requeridos por decisión médica, para atender la exigencia del caso;
 
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
+
 IV. Conocer el nombre y la preparación profesional o técnica de quien le administre un medicamento o le realice un procedimiento durante la gestación, el parto y el puerperio;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
 V. Recibir información sobre eventuales afecciones que se conozca, o se sospeche que padece el producto del embarazo o el recién nacido;
 
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
+
 VI. Recibir atención sensible, acorde con su sistema de valores y creencias;
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
 
 VII. Ser informada sobre los procedimientos de orientación y quejas con relación a los servicios de salud; y,
 
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
+
 VIII. Ser informada y acceder al examen del Virus de Inmunodeficiencia Humana, a fin de prevenir la salud de los infantes y del producto de la concepción, debiendo asegurar la confidencialidad de los resultados.
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2022)</small>
+
+IX. A designar a una persona de su confianza para que le acompañe y represente en el acto de consentimiento bajo información del expediente clínico de los procedimientos de atención del parto y puerperio, así como en los casos del procedimiento quirúrgico de alumbramiento por cesárea.
 
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
 
@@ -1245,13 +1269,13 @@ VI. La prevención de la trasmisión materno-infantil del Virus de Inmunodeficie
 
 Artículo 88 Undecies.- En los servicios de salud, se promoverá la organización institucional de los Comités de Prevención de la Mortalidad Materna e Infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2022)</small>
 
-Artículo 88 Duodecies.- En la organización y operación de los servicios de salud, destinados a la atención materno infantil, la autoridad competente establecerá:
+Artículo 88 Duodecies.- En la organización y operación de los servicios de salud, destinados a la atención materno-infantil, la autoridad competente establecerá:
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2022)</small>
 
-I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
+(SIC) Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios; incluido el acompañamiento de una persona, de confianza de la paciente quien, conforme al acto de consentimiento bajo información del expediente clínico para la atención del parto y puerperio así como en los casos del procedimiento quirúrgico de alumbramiento por cesárea, y en los casos en que la infraestructura y las medidas de asepsia lo permitan, se autorice el acompañamiento físico de esa persona de confianza en el acto médico.
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2020)</small>
 
@@ -2785,6 +2809,14 @@ Los Servicios de Salud de Morelos y los Ayuntamientos, en el ámbito de sus resp
 
 Los vendedores, locatarios y personas, cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y en el ejercicio de sus actividades se sujetarán a lo que dispongan esta Ley, los reglamentos respectivos, y otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2022)</small>
+
+###### Artículo 228 Bis.
+
+Se prohíbe la compra y venta de carne de animales destinada al consumo humano que no haya sido sacrificada conforme lo establecido en la ley y demás normatividad aplicable; en cuyo caso, se aplicarán las sanciones establecidas en los artículos 382, 385 y 391 de esta ley.
+
+Los comerciantes y locatarios, cuya actividad esté vinculada con la venta de carne de animales destinada al consumo humano, estarán obligados a verificar y observar que los animales hayan sido sacrificados de conformidad con los requisitos sanitarios establecidos en esta ley y demás normatividad aplicable.
+
 ### CAPÍTULO III. AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 229.
@@ -3911,11 +3943,11 @@ V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
 Se sancionará con multa de hasta 1,000 veces el valor diario de la Unidad de Medida y Actualización la violación de las disposiciones contenidas en los artículos 43, 60, 61, 92, 107, 130, 131, 132, 144, 170, 195, 217, 226, 298, 342, 353 y 354 de esta Ley.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 385.
 
-Se sancionará con multa de 1,000 hasta 4,000 mil veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los Artículos 119, 134, 140, 189, 233, 240, 241, 296, 340, 343, y 378 de esta Ley.
+Se sancionará con multa de 1,000 hasta 4,000 mil veces el valor diario de la unidad de medida y actualización, la violación de las disposiciones contenidas en los artículos 119, 134, 140, 189, 228 Bis, 233, 240, 241, 296, 340, 343, y 378 de esta ley.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2017)</small>
 
@@ -4802,3 +4834,21 @@ PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS OCHO POR EL QUE SE ADICIONA UN ARTÍCULO 228 BIS Y SE REFORMA EL ARTÍCULO 385 DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 24 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS DIEZ POR EL QUE SE REFORMA EL ARTÍCULO 56 CON ADICIÓN DEL NUMERAL 11; SE ADICIONA AL (SIC) ARTÍCULO 88 OCTIES; SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 88 NONIES, Y SE REFORMA EL ARTÍCULO 88 DUODECIES DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
