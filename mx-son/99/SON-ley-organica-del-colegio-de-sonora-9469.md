@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-colegio-de-sonora-9469"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-08-08"
-last_updated: "1985-08-08"
+last_updated: "2022-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY ORGANICA DEL COLEGIO DE SONORA
 
-LEY ORGANICA DEL COLEGIO DE SONORA
+LEY ORGÁNICA DEL COLEGIO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE AGOSTO DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 8 de agosto de 1985.
 
@@ -41,9 +41,11 @@ ORGANICA DEL COLEGIO DE SONORA.
 
 ### CAPITULO I. DE LA DENOMINACION, OBJETO, FINALIDADES Y DOMICILIO
 
+> <small>(REFORMADO, B.O. 25 DE AGOSTO DE 2022)</small>
+
 ###### ARTICULO 1o.
 
-Se crea El Colegio de Sonora, como una Institución Pública organismo descentralizado del Estado para la investigación científica y la educación superior, dotado de plena capacidad jurídica y patrimonio propios, autónomo en el ejercicio de sus funciones académico científicas, que dictará sus propios ordenamientos, organizará su funcionamiento y aplicará sus recursos económicos en la forma que estime conveniente. Al efecto, el Estado proveerá los recursos necesarios para la operación de sus actividades y el incremento de su patrimonio independientemente de los recursos que éste perciba por otros medios.
+El Colegio de Sonora es una institución pública autónoma dedicada a la investigación y la educación superior, dotado de plena capacidad jurídica y patrimonio propios, que ejercerá sus funciones académico científicas, dictará sus propios ordenamientos, organizará su funcionamiento y aplicará sus recursos económicos en la forma que estime conveniente. Al efecto, el Estado proveerá los recursos necesarios para la operación de sus actividades y el incremento de su patrimonio independientemente de los recursos que éste perciba por otros medios.
 
 ###### ARTICULO 2o.
 
@@ -380,3 +382,17 @@ Dr. Samuel Ocaña García.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 25 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 56 QUE REFORMA EL ARTÍCULO 1 DE LA LEY ORGÁNICA DEL COLEGIO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El principio de paridad de género se observará en la integración de la Junta de Gobierno, la Junta de Coordinación y el Comité Académico, en forma progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la Ley Orgánica del Colegio de Sonora.
