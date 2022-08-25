@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2021-10-02"
+last_updated: "2022-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -339,9 +339,17 @@ XVII. Emitir opinión de los proyectos de desarrollo de la cultura física y dep
 
 XVIII. Implementar las medidas necesarias para el acceso a los estímulos que establecen esta ley y su reglamento en igualdad de condiciones y circunstancias a deportistas y entrenadores en todas las modalidades del deporte;
 
-XIX. Crear, administrar y mantener actualizado el registro estatal en los términos de esta ley, y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2022)</small>
 
-XX. Las demás que le otorguen la presente ley y otras disposiciones jurídicas aplicables.
+XIX. Crear, administrar y mantener actualizado el registro estatal en los términos de esta ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE AGOSTO DE 2022)</small>
+
+XX. Realizar anualmente la edición de la Copa Jalisco de Futbol; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE AGOSTO DE 2022)</small>
+
+XXI. Las demás que le otorguen la presente ley y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 23.
 
@@ -555,7 +563,9 @@ V. Organizar y coordinar las actividades de cultura física y deporte en las col
 
 VI. Promover la identificación y desarrollo de talentos deportivos pertenecientes a su municipio;
 
-VII. Gestionar la integración de las representaciones deportivas municipales para participar en las competencias regionales y estatales respectivas;
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2022)</small>
+
+VII. Gestionar la integración de las representaciones deportivas municipales para participar en la edición anual de la Copa Jalisco; así como en las competencias regionales y estatales respectivas;
 
 VIII. Asignar los recursos necesarios para el logro de los fines anteriormente señalados;
 
@@ -1144,3 +1154,11 @@ P.O. 2 DE OCTUBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Los ayuntamientos dispondrán de un plazo de 60 días naturales para adecuar sus reglamentos y dar así cumplimiento al presente decreto.
+
+P.O. 25 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28806 (SIC)/LXIII/22 QUE REFORMA LOS ARTÍCULOS 22 Y 47 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
