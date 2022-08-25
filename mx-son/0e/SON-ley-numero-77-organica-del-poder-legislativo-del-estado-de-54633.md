@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2022-07-07"
+last_updated: "2022-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -945,7 +945,9 @@ XI.- De Obras y Servicios Públicos;
 
 XII.- De Bienestar Social;
 
-XIII.- De Asuntos Fronterizos;
+> <small>(REFORMADA, B.O. 25 DE AGOSTO DE 2022)</small>
+
+XIII.- De Asuntos Fronterizos y Atención a Migrantes;
 
 XIV.- De Fomento Económico y Turismo;
 
@@ -983,7 +985,7 @@ XXX.- Transparencia;
 
 XXXI.- Anticorrupción;
 
-XXXII.- Atención a migrantes;
+XXXII.- (DEROGADA, B.O. 25 DE AGOSTO DE 2022)
 
 XXXIII.- Comisión de Desarrollo Productivo Regional; y
 
@@ -3283,11 +3285,13 @@ En un plazo no mayor a diez días hábiles contados a partir de la entrada en vi
 
 El convenio de colaboración del 1 (sic) evento DIPUTADO INFANTIL POR UN DÍA, vigente al momento de la entrada en vigor del presente Decreto, continuará su vigencia hasta que la Comisión de Educación y Cultura considere que existen razones suficientes para renovarlo, para lo cual deberá convocar al resto de las instituciones participantes para suscribir un nuevo convenio. En caso de que se considere que no es necesario renovar dicho convenio todas las referencias al evento DIPUTADO INFANTIL POR UN DÍA, se entenderán hechas al evento DIPUTADA Y DIPUTADO INFANTIL, y en lo sucesivo las instituciones participantes deberán referirse a dicho evento con la nueva denominación que establece el presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE CONTAGIO SEXUAL O NUTRICIÓN”.]
+B.O. 25 DE AGOSTO DE 2022.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 66 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
-P.O. 28 DE MARZO DE 2023.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 312 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA POR EXTENSIÓN".]
 
