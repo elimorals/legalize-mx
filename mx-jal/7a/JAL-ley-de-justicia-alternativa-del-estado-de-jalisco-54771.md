@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2021-10-02"
+last_updated: "2022-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -137,11 +137,13 @@ XIV. Accesibilidad: Toda persona sin distinciones de origen étnico, sexo, edad,
 
 XV. Alternatividad: Procurará el conciliador proponer diversas soluciones al conflicto de manera que las partes tengan opción de escoger alguna alternativa conveniente para solucionar el conflicto.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 5.
 
-Los métodos alternos serán aplicables a todos los asuntos del orden civil susceptibles de convenio o transacción. Cuando el procedimiento pueda afectar intereses de terceros, éstos deberán ser llamados para la salvaguarda de sus derechos.
+Los métodos alternos serán aplicables a todos los asuntos del orden civil susceptibles de convenio o transacción, con excepción de lo concerniente a la violencia familiar o violencia en razón de género. Cuando el procedimiento pueda afectar intereses de terceros, éstos deberán ser llamados para la salvaguarda de sus derechos.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
 Lo relacionado con los mecanismos alternativos en materia penal se regirá por lo dispuesto en el Código Nacional de Procedimientos Penales, y en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, y en su caso, en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
@@ -1424,3 +1426,9 @@ P.O. 2 DE OCTUBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Instituto de Justicia Alternativa deberá realizar las adecuaciones presupuestales necesarias a efecto de que se encuentre en total operación la reforma implementada en un plazo no mayor a 180 días después de la entrada en vigor del presente decreto.
+
+P.O. 25 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28806/LXIII/22 QUE REFORMA EL ARTÍCULO 5° DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO, CON EL OBJETO DE ESTABLECER QUE, EN LOS CASOS DE VIOLENCIA FAMILIAR O EN RAZÓN DE GÉNERO, NO SERÁN APLICABLES LA MEDIACIÓN NI LA CONCILIACIÓN".]
+
+ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial “El Estado de Jalisco”
