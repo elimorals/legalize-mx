@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2022-04-21"
+last_updated: "2022-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -1485,7 +1485,13 @@ Para determinar la permanencia y conocer la condición de las víctimas en los c
 
 Las órdenes de protección son medidas de protección integral de las mujeres ante la violencia de género, de urgente aplicación en función del interés de la mujer víctima de violencia y son de carácter temporal, precautorio y cautelar.
 
-Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de hechos que impliquen violencia contra las mujeres y que comprometan su integridad y seguridad personal.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2022)</small>
+
+Deberán otorgarse por la autoridad competente, inmediatamente, o a más tardar dentro de las 4 horas siguientes, al conocimiento de hechos que impliquen violencia contra las mujeres o niñas y que comprometan su integridad y seguridad personal.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2022)</small>
+
+Las autoridades competentes que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes, privilegiando la integridad y la seguridad de las víctimas de violencia.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -1621,7 +1627,9 @@ II. La seguridad de la víctima; o
 
 III. Los elementos con que se cuente.
 
-Deberán ser expedidas dentro de las ocho horas siguientes de que se tenga conocimiento del acto que la motiva; debiéndola notificar a la brevedad, la autoridad competente dictará los términos diferenciados de duración de cada medida otorgada, teniendo una duración mínima de setenta y dos horas y hasta por el plazo máximo que determine el juez, estas podrán ser prorrogables entre tanto subsista el riesgo.
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2022)</small>
+
+Deberán ser expedidas inmediatamente, o a más tardar dentro de las 4 horas siguientes de que se tenga conocimiento del acto que la motiva; debiéndola notificar a la brevedad, la autoridad competente dictará los términos diferenciados de duración de cada medida otorgada, teniendo una duración mínima de setenta y dos horas y hasta por el plazo máximo que determine el juez, estas podrán ser prorrogables entre tanto subsista el riesgo.
 
 La mujer que lo solicite, deberá ser escuchada para determinar la duración.
 
@@ -1928,3 +1936,11 @@ P.O. 21 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28771/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY ESTATAL PARA LA IGUALDAD ENTRE LAS MUJERES Y HOMBRES; LEY ORGÁNICA DEL PODER EJECUTIVO; LEY ORGÁNICA DEL PODER JUDICIAL; Y LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS, TODAS LEYES DEL ESTADO DE JALISCO, EN MATERIA DE IGUALDAD SALARIAL, NO DISCRIMINACIÓN Y VIOLENCIA LABORAL CONTRA LAS MUJERES”.]
 
 ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco”
+
+P.O. 25 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28813/LXIII/22 QUE REFORMA LOS ARTÍCULOS 56 Y 57 D, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA."]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos tendrán un término de 180 días hábiles contados a partir de la publicación del presente, para reformar sus reglamentos respectivos, conforme (sic) disposiciones del presente decreto.
