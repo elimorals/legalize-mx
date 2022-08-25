@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2021-12-14"
+last_updated: "2022-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -65,9 +65,11 @@ El ejercicio constitucional de una Legislatura es de tres años.
 
 La nomenclatura cambiará de manera ascendente, según corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 3.
 
-Al Congreso del Estado le corresponde el ejercicio de las facultades que le confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, la presente ley y demás disposiciones legales en vigor. Asimismo, está facultado para realizar funciones de consulta, promoción y gestoría, encaminadas a satisfacer las necesidades sociales de la población de la Entidad.
+Al Congreso del Estado le corresponde el ejercicio de las facultades que le confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, la presente ley y demás disposiciones legales en vigor. De igual forma, está facultado para realizar funciones de consulta, promoción y gestoría, encaminadas a satisfacer las necesidades sociales de la población de la Entidad. Asimismo, al quedar firme el resultado de la elección, expedirá el bando solemne para dar a conocer en el Estado de Durango, la declaración del titular del Poder Ejecutivo, para el periodo al que esa persona haya sido electa, el cual, de manera pronta deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -3632,3 +3634,15 @@ QUINTO. Los ciudadanos Secretario General y Secretario de Servicios Parlamentari
 SEXTO. Para los efectos de integrar el Libro de Prácticas Parlamentarias, la Comisión de Régimen, Reglamento y Prácticas Parlamentarias, mandará recabar los acuerdos parlamentarios aprobados por el Pleno, a efecto de su registro legal, quedando el mismo bajo la custodia de la Secretaría de Servicios Legislativos.
 
 SÉPTIMO. Las y los integrantes de la Mesa Directiva electos el 31 de agosto de 2021 durarán en su encargo hasta el 31 de agosto de 2022.
+
+P.O. 25 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 159.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
