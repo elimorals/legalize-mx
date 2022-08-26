@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-para-el-desarrollo-y-138468"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-09-18"
-last_updated: "2019-09-18"
+last_updated: "2022-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA EL DESARROLLO Y CERTIFICACIÓN DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA Y ELÉCTRICA DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE AGOSTO DE 2022.
 
 Estatuto publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 18 de septiembre de 2019.
 
@@ -53,11 +53,15 @@ Este estatuto orgánico tiene por objeto regular la organización y el funcionam
 
 Para efectos de este estatuto orgánico, se entenderá por instituto al Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa y Eléctrica de Yucatán, y por decreto al Decreto 283/2015 por el que se regula el Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa y Eléctrica de Yucatán.
 
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 2.
 
 Naturaleza y objeto del instituto
 
-El instituto, en términos del artículo 3 del decreto, es un organismo público descentralizado de la Administración Pública estatal, con personalidad jurídica y patrimonio propios, que tiene por objeto construir, equipar, dar mantenimiento, preventivo o emergente, supervisar, certificar, rehabilitar, reforzar, reconstruir y habilitar inmuebles e instalaciones destinados al servicio de la educación, conforme a las propuestas que le dirijan la Secretaría de Educación, las instituciones educativas de todos los niveles, los municipios y los particulares; así como planear, programar, presupuestar, ejecutar, modernizar, conservar y dar mantenimiento a la infraestructura eléctrica y recreativa en el estado, conforme a los programas convenidos.
+El instituto, en términos del artículo 3 del decreto, es un organismo público descentralizado de la Administración Pública estatal, con personalidad jurídica y patrimonio propios, que tiene por objeto construir, equipar, dar mantenimiento preventivo o emergente, supervisar, certificar, rehabilitar, reforzar, reconstruir y habilitar inmuebles e instalaciones destinados al servicio de la educación o cualquier otro, conforme a las propuestas que le dirijan la Secretaría de Educación, las instituciones educativas de todos los niveles, las dependencias o entidades de la Administración Pública estatal, los municipios e, incluso los particulares, respectivamente; así como planear, programar, presupuestar, ejecutar, modernizar, conservar y dar mantenimiento a la infraestructura eléctrica y recreativa en el estado, conforme a los programas convenidos o los proyectos que le sean solicitados.
+
+Asimismo, el instituto tendrá por objeto el desarrollo de las actividades de apoyo relacionadas con la atención de emergencias, desastres naturales o áreas prioritarias; o con la elaboración o manufactura de bienes que se desarrollen a solicitud de las dependencias o entidades de la Administración Pública estatal o de los municipios, previo convenio o acuerdo con el Gobierno del estado, cuando así fuese procedente.
 
 ### Capítulo II. Atribuciones y organización del instituto
 
@@ -183,11 +187,17 @@ Carácter de los cargos
 
 Los cargos de los integrantes de la junta de gobierno son de carácter honorífico, por tanto, quienes los ocupen no recibirán retribución alguna por su desempeño.
 
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 12.
 
 Sesiones
 
 La junta de gobierno del instituto sesionará de manera ordinaria, por lo menos, cuatro veces al año y en forma extraordinaria cuando así lo considere su presidente, o quien lo supla, o lo solicite, al menos, un tercio de sus integrantes.
+
+Conforme a lo dispuesto en el artículo 619 del Reglamento del Código de la Administración Pública de Yucatán, las sesiones de la junta de gobierno se celebrarán, por regla general, bajo la modalidad presencial, o en línea, en casos extraordinarios, independientemente de su tipo.
+
+Las sesiones de la junta de gobierno que se celebren bajo la modalidad en línea, previa determinación del presidente mediante oficio debidamente motivado, y los acuerdos que en estas se tomen serán válidos, siempre y cuando se observen las formalidades establecidas en este estatuto orgánico y en el Reglamento del Código de la Administración Pública de Yucatán.
 
 ###### Artículo 13.
 
@@ -195,7 +205,9 @@ Convocatorias
 
 El presidente, a través del secretario de actas y acuerdos, convocará por escrito a cada uno de los integrantes de la junta de gobierno con una anticipación de, por lo menos, cinco días hábiles a la fecha en que habrán de celebrarse las sesiones ordinarias y veinticuatro horas en el caso de las sesiones extraordinarias.
 
-Las convocatorias de las sesiones se realizarán mediante oficio y deberán señalar, por lo menos, el número de la sesión, la especificación de si es ordinaria o extraordinaria y el día, la hora y el lugar de su celebración y se les anexará el orden del día. Las convocatorias a las sesiones ordinarias llevarán adjuntas, además, la documentación correspondiente.
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 2022)</small>
+
+Las convocatorias de las sesiones se realizarán mediante oficio y deberán señalar, por lo menos, el número de la sesión, la especificación de si es ordinaria o extraordinaria y el día, la hora y el lugar de su celebración. Adicionalmente, se les anexará, en formato físico o electrónico, según la modalidad, el orden del día y la documentación correspondiente.
 
 En todo caso, el secretario de actas y acuerdos deberá verificar que se cumplan los requisitos que para cada una de las sesiones establecen el Código de la Administración Pública de Yucatán, su reglamento y demás disposiciones legales y normativas aplicables.
 
@@ -214,6 +226,10 @@ En caso de que no sea posible reunir a la junta de gobierno del instituto por un
 Orden del día
 
 Los temas que serán analizados y discutidos en las sesiones ordinarias serán referentes a los asuntos del período comprendido entre una sesión ordinaria y otra. En el caso de las sesiones extraordinarias, solo podrán abordarse los temas contenidos en el orden del día.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 26 DE AGOSTO DE 2022)</small>
+
+Dentro del orden del día de las sesiones ordinarias de la junta de gobierno se deberá considerar un apartado que establezca el seguimiento de los acuerdos adoptados en sesiones anteriores. Los acuerdos que impliquen una acción posterior también serán incluidos en este apartado. El secretario de actas y acuerdos será el responsable de presentar el seguimiento de los acuerdos, para lo cual solicitará a las unidades administrativas o a los responsables de su cumplimiento, que notifiquen, por escrito o correo electrónico, el estatus de cada acuerdo, hasta su conclusión.
 
 ###### Artículo 16.
 
@@ -357,7 +373,9 @@ III. Suscribir los documentos relativos al ejercicio de sus funciones y de aquel
 
 IV. Formular el anteproyecto del presupuesto anual de la dirección a su cargo y remitirlo a la Dirección de Administración para su integración y posterior autorización.
 
-V. Proporcionar asesoría y asistencia a las dependencias, entidades y municipios en las materias de su competencia.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+V. Proporcionar asesoría y asistencia a las dependencias, entidades y municipios, que lo soliciten, en las materias de su competencia.
 
 VI. Coordinarse con los responsables de las demás direcciones, jefaturas o unidades administrativas del instituto para el mejor despacho de los asuntos de su competencia.
 
@@ -367,7 +385,21 @@ VIII. Dar respuesta a las solicitudes de acceso a la información pública que s
 
 IX. Verificar que los expedientes que tengan información reservada o confidencial, se encuentren debidamente clasificados previa autorización del comité de transparencia del instituto.
 
-X. Expedir certificaciones de constancias que obren en los expedientes relativos a los asuntos de su competencia.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+X. Verificar que los expedientes de obra y de adquisiciones se integren de conformidad con la normativa aplicable y, que los expedientes relativos al mantenimiento emergente y a las actividades de apoyo, contengan la solicitud de autorización presupuestal, el contrato, la memoria fotográfica, los documentos que acrediten la realización de los trabajos, el finiquito y la entrega-recepción a la dependencia, entidad, municipio o particular solicitante.
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XI. Elaborar y contratar en su caso, proyectos que comprendan la planeación, presupuestación, programación, incluyendo la realización de proyectos integrales desde el diseño de la obra hasta su conclusión, así como concebir, diseñar y calcular los elementos que integran un proyecto.
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XII. Atender los asuntos que le sean encomendados por el director general.
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XIII. Las demás que les confiere el Reglamento del Código de la Administración Pública de Yucatán; este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 28.
 
@@ -381,11 +413,15 @@ Facultades y obligaciones del director de Proyectos
 
 El director de Proyectos tendrá las siguientes facultades y obligaciones:
 
-I. Revisar y autorizar los estudios y proyectos ejecutivos en materia de infraestructura física educativa.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+I. Revisar o elaborar en su caso, y autorizar los estudios y proyectos ejecutivos en materia de infraestructura física educativa, así como aquellos que le instruya el director general, relacionados con el objeto del instituto.
 
 II. Revisar y validar la evaluación de los costos y presupuestos de las obras y adquisiciones, cuidando que su calidad y economía se apeguen a la normativa vigente.
 
-III. Programar los procesos de contratación en cumplimiento de los convenios firmados con otras dependencias o entidades.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+III. Programar los procesos de adjudicación en cumplimiento de los convenios firmados con otras dependencias o entidades o en atención a las solicitudes que se le envíen, previa autorización del director general.
 
 IV. Autorizar y validar los procesos de adjudicación de obra, de mantenimiento preventivo; adquisiciones y de servicios relacionados con la obra pública.
 
@@ -411,7 +447,9 @@ II. Llevar el consecutivo de claves de obras, para el control y el registro de l
 
 III. Elaborar el dictamen de excepción a la licitación cuando fuere procedente y suscribirlo junto con el director de Proyectos.
 
-IV. Realizar los procesos de adjudicación de obra, de mantenimiento preventivo; adquisiciones y de servicios relacionados con la obra pública.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+IV. Realizar los procesos de adjudicación de obra, de mantenimiento preventivo; de adquisiciones y de servicios relacionados con la obra pública o de aquellos que le soliciten las dependencias o entidades de la Administración Pública estatal o los municipios, en cumplimiento del objeto del instituto.
 
 V. Redactar las bases de los concursos con apego a las disposiciones normativas específicas, según la obra o servicio de que se trate y remitirlas al director de Proyectos para su visto bueno y, en su caso, publicación.
 
@@ -511,11 +549,15 @@ Facultades y obligaciones del director de Construcción
 
 El director de Construcción tendrá las siguientes facultades y obligaciones:
 
-I. Ejecutar el programa general de obras.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+I. Ejecutar las obras y acciones que le encomiende el director general en cumplimiento del objeto del instituto.
 
 II. Realizar la supervisión técnica de las obras con apego a los proyectos, normas y especificaciones vigentes.
 
-III. Validar la factibilidad técnica de las propuestas de obra de infraestructura educativa.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+III. Validar la factibilidad técnica de las propuestas de obra de infraestructura educativa y de aquellas obras que se le encomienden, diferentes a la infraestructura eléctrica.
 
 IV. Informar a las instancias correspondientes sobre los avances físicos y financieros de las obras.
 
@@ -525,7 +567,9 @@ VI. Verificar o, en su caso, llevar al cabo la ejecución, terminación y entreg
 
 VII. Solicitar los servicios relacionados con la obra pública en aquellas que por la naturaleza del terreno, o por su naturaleza, lo requieran.
 
-VIII. Realizar los diagnósticos de los planteles que conforman la infraestructura física educativa del estado de Yucatán.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+VIII. Realizar los diagnósticos de los planteles que conforman la infraestructura física educativa del estado de Yucatán, así como de aquellos que sean necesarios para el cumplimiento del objeto del instituto.
 
 IX. Determinar y remitir a la Dirección Jurídica, los importes que sustentarán los convenios de ampliación de obra.
 
@@ -539,9 +583,13 @@ XIII. Autorizar la aplicación de penas convencionales y multas derivado de los 
 
 XIV. Recibir y evaluar los reportes de las necesidades de mantenimiento emergente.
 
-XV. Validar el levantamiento de los trabajos de mantenimiento de la infraestructura física educativa solicitados, presupuestarlos y someterlos a la autorización del director general.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
 
-XVI. Supervisar la ejecución de los trabajos de mantenimiento de la infraestructura física educativa del estado.
+XV. Validar el levantamiento de los trabajos de mantenimiento de la infraestructura física educativa y aquellos relacionados con el objeto del instituto que le soliciten, así como presupuestarlos y someterlos a la autorización del director general.
+
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XVI. Supervisar la ejecución de los trabajos de mantenimiento de la infraestructura física educativa del estado y de todos aquellos que se le encomienden, en cumplimiento del objeto del instituto.
 
 XVII. Verificar y autorizar la documentación comprobatoria de la ejecución de los trabajos, para su pago.
 
@@ -581,13 +629,23 @@ XII. Formalizar la entrega-recepción de las obras contratadas, ante las autorid
 
 XIII. Realizar los finiquitos de obra.
 
-XIV. Formalizar la entrega física el espacio educativo contratado.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XIV. Formalizar la entrega física del espacio educativo contratado.
 
 XV. Comunicar al Director de Construcción de todas aquellas circunstancias que conozcan en el ejercicio o cumplimiento de sus facultades y obligaciones que pudieran representar el incumplimiento de alguna norma o contrato, en perjuicio del instituto o que puedan poner en riesgo la seguridad de los usuarios o el patrimonio del estado.
 
 XVI. Calcular e informar al director de Construcción el importe de las multas y penas convencionales aplicables a los contratistas por el incumplimiento de la fecha acordada para la terminación de la obra, de conformidad con lo establecido en las cláusulas del contrato.
 
 XVII. Verificar los términos pactados en el contrato y notificar el proceso de rescisión a la Dirección Jurídica, en caso de detectarse incumplimiento.
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XVIII. Ejecutar el levantamiento de los trabajos de mantenimiento de (sic) relacionados con el objeto del instituto distintos de infraestructura eléctrica y recreativa solicitados, presupuestarlos y someterlos a la revisión del director de Construcción.
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XIX. Las demás que sean necesarias para el eficaz cumplimiento del objeto del instituto.
 
 ###### Artículo 35.
 
@@ -597,11 +655,17 @@ El jefe del Departamento de Mantenimiento tendrá las siguientes facultades y ob
 
 I. Atender los reportes de las necesidades de mantenimiento.
 
-II. Ejecutar el levantamiento de los trabajos de mantenimiento de infraestructura física educativa solicitados, presupuestarlos y someterlos a la revisión del director de Construcción.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
 
-III. Verificar que los trabajos de mantenimiento se ejecuten en tiempo, calidad y costo, de conformidad con lo establecido en los contratos respectivos y en la normativa vigente y cuando no fuere así comunicarlo inmediatamente al director de Construcción.
+II. Ejecutar el levantamiento de los trabajos de mantenimiento relacionados con el objeto del instituto, distintos a los de infraestructura eléctrica y recreativa solicitados, así como presupuestarlos y someterlos a la revisión del director de Construcción.
 
-IV. Distribuir adecuadamente los trabajos de mantenimiento dentro de la plantilla de supervisores, de acuerdo con la naturaleza de los trabajos de mantenimiento y sus características.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+III. Verificar que los trabajos de mantenimiento se ejecuten en tiempo, calidad y costo, de conformidad con lo establecido en los contratos respectivos y en la normativa vigente y cuando no fuere así, comunicarlo inmediatamente al director de Construcción o al director del área que corresponda.
+
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+IV. Distribuir adecuadamente entre la plantilla de supervisores las diversas actividades de supervisión de los trabajos de mantenimiento de acuerdo con su naturaleza y sus características.
 
 V. Verificar que los supervisores de los trabajos de mantenimiento cuenten con las herramientas y los instrumentos necesarios para supervisar de manera eficiente y eficaz la ejecución y cumplimiento de los contratos.
 
@@ -769,13 +833,17 @@ I. Representar legalmente al instituto cuando el director general así lo dispon
 
 II. Gestionar y coordinar la obtención y utilización de los recursos financieros, materiales y humanos necesarios para la consecución del objeto de (sic) instituto.
 
-III. Administrar el presupuesto que le sea asignado para la ejecución de los programas y objetivos del instituto.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+III. Administrar el presupuesto que le sea asignado para la ejecución de los trabajos relacionados con el objeto del instituto; así como realizar todas aquellas gestiones ante las autoridades competentes que le encomiende el director general que sean necesarias para el cumplimiento del objeto del instituto.
 
 IV. Coordinar, supervisar y evaluar la organización y el funcionamiento del instituto.
 
 V. Elaborar los manuales de organización y procedimientos del instituto.
 
-VI. Verificar la suficiencia presupuestal para la contratación y ejecución de los trabajos de desarrollo y mantenimiento de obras de infraestructura.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+VI. Verificar la suficiencia presupuestal para la contratación y ejecución de los trabajos de desarrollo y mantenimiento de obras de infraestructura educativa, eléctrica y recreativa, así como para la contratación de las adquisiciones o de las actividades de apoyo.
 
 VII. Elaborar el programa financiero del instituto previo acuerdo con el director general.
 
@@ -820,6 +888,10 @@ XXVI. Tener a su cargo la oficialía de partes del instituto.
 XXVII. Proporcionar a la Dirección Jurídica dentro de los plazos señalados por la ley, la información que se requiere para la presentación de los estados financieros a la junta de gobierno.
 
 XXVIII. Comunicar al director jurídico, todas aquéllas circunstancias que conozca en el ejercicio o cumplimiento de sus facultades y obligaciones que pudieran representar el incumplimiento de alguna norma o contrato, en perjuicio del instituto o que puedan poner en riesgo la seguridad de los usuarios o el patrimonio del estado.
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XXIX. Autorizar la realización y supervisión de los trabajos que le encomiende al Departamento de Servicios Generales relacionados con el objeto del instituto.
 
 ###### Artículo 40.
 
@@ -901,9 +973,13 @@ II. Informar mensualmente las variaciones de inventario al Departamento de Conta
 
 III. Resguardar los materiales y suministros que se requieren para la fabricación de la infraestructura recreativa.
 
-IV. Mantener y conservar en óptimas condiciones de uso y funcionamiento las instalaciones, mobiliario, equipo y, en general, los bienes del instituto.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
 
-V. Cerciorarse de que los bienes adquiridos propiedad del instituto o en cumplimiento de los contratos de adquisiciones cumplan con los términos pactados.
+IV. Rehabilitar, mantener y conservar en óptimas condiciones de uso y funcionamiento las instalaciones, mobiliario, equipo y, en general, los bienes del instituto; así como aquellos bienes que deban ser atendidos, previa solicitud de las dependencias y entidades de la Administración Pública estatal o de los municipios que le soliciten.
+
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+V. Verificar que los bienes adquiridos y que pasen a formar parte de la propiedad del instituto cumplan con los requerimientos solicitados.
 
 VI. Verificar, en coordinación con el jefe del Departamento de Concursos, que la entrega del mobiliario y equipo para el desarrollo y mantenimiento de la infraestructura, cumpla con las especificaciones contratadas.
 
@@ -915,7 +991,17 @@ IX. Dotar de los materiales necesarios a cada una de las direcciones del institu
 
 X. Actualizar los resguardos de los bienes muebles.
 
-XI. Realizar los trabajos autorizados para la fabricación e instalación de equipamiento recreativo.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XI. Realizar los trabajos autorizados para la fabricación e instalación de equipamiento recreativo o aquellos que se le encomienden en cumplimiento del objeto del instituto.
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XII. Fabricar los bienes muebles que le sean solicitados por el director general en cumplimiento de los convenios o en atención a las solicitudes que le formulen las dependencias o entidades de la Administración Pública estatal o los municipios, en términos de lo dispuesto en el decreto y en este estatuto orgánico.
+
+> <small>(ADICIONADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+XIII. Ejecutar el levantamiento de los trabajos de infraestructura recreativa y de aquellos relacionados con el objeto del instituto que le soliciten, así como presupuestarlos y someterlos a la autorización del director de Administración.
 
 ###### Artículo 44.
 
@@ -923,15 +1009,21 @@ Facultades y obligaciones del director jurídico
 
 El director jurídico tendrá las siguientes facultades y obligaciones:
 
-I. Representar legalmente al instituto y al director general en todos los actos, contratos y comités en los que se requiera, cuando el director general así lo disponga.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+I. Representar legalmente al instituto y al director general en todos los actos, contratos y comités en los que se requiera, de conformidad con las disposiciones legales y normativas aplicables, o cuando el director general lo disponga.
 
 II. Fungir como apoderado general para pleitos y cobranzas, actos de administración y de dominio, limitados estos dos últimos en los términos de esta fracción, por lo que podrá comparecer ante toda clase de tribunales civiles, penales, administrativos y del trabajo, así como cualquier otra autoridad jurisdiccional o administrativa del trabajo, tanto del orden común como del fuero federal, para presentar y contestar demandas y reconvenciones; asistir a toda clase de diligencias judiciales o extrajudiciales; presentar las pruebas permitidas y autorizadas por las leyes aplicables; articular y absolver posiciones; reconocer firmas; interponer toda clase de recursos y juicios, inclusive el juicio de amparo, y desistirse de ellos; presentar denuncias y querellas de carácter penal, ratificarlas y constituirse en coadyuvante del Ministerio Público, así como otorgar perdón; exigir el pago de la responsabilidad civil y la reparación del daño; celebrar transacciones judiciales y extrajudiciales, y realizar cuantos actos sean procedentes en defensa de los intereses del instituto.
 
 III. Proporcionar asesoría y asistencia jurídica al director general y a los demás directores del instituto, previa solicitud.
 
-IV. Elaborar los anteproyectos de decretos, acuerdos, convenios y demás instrumentos jurídicos relacionados con la competencia del instituto y enviarlos a la Consejería Jurídica para su validación.
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
 
-V. Elaborar los contratos de obra pública, de adquisiciones y de convenios con las dependencias, y entidades de los diferentes órdenes de gobierno y llevar su registro y control.
+IV. Elaborar los anteproyectos de decretos, acuerdos, convenios y demás instrumentos jurídicos relacionados con la competencia del instituto y enviarlos a la Consejería Jurídica para su validación, cuando sea procedente.
+
+> <small>(REFORMADA, D.O. 26 DE AGOSTO DE 2022)</small>
+
+V. Elaborar los convenios y contratos necesarios para el cumplimiento del objeto del instituto y llevar su registro y control.
 
 VI. En los casos de ausencia del director general, firmar promociones, interponer recursos, acudir a las audiencias y expedir certificaciones de documentos que obren en los archivos del instituto.
 
@@ -1074,3 +1166,17 @@ DIRECTOR GENERAL
 (RÚBRICA)
 
 C. LUIS JORGE MONTALVO DUARTE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO".]</small>
+
+D.O. 26 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO IDEFEEY 01/2022 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO PARA EL DESARROLLO Y CERTIFICACIÓN DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA Y ELÉCTRICA DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+La persona titular de la Dirección General del Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa y Eléctrica de Yucatán deberá realizar la inscripción de las modificaciones a este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este acuerdo.
