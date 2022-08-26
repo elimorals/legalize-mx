@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-14410
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-15"
-last_updated: "2021-07-23"
+last_updated: "2022-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144105&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-09-09"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE AGOSTO DE 2022.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 15 de septiembre de 2020.
 
@@ -117,6 +117,10 @@ XXXIII. (DEROGADA, D.O.F. 23 DE JULIO DE 2021)
 
 XXXIV. Dirección General de Gestión Sectorial y Enlace Interinstitucional;
 
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2022)</small>
+
+XXXIV Bis. Dirección General @prende.mx;
+
 XXXV. Dirección General de Profesiones;
 
 XXXVI. Dirección General de Actualización Normativa, Cultura de la Legalidad y Transparencia;
@@ -143,7 +147,7 @@ V. Universidad Abierta y a Distancia de México;
 
 VI. Unidad del Sistema para la Carrera de las Maestras y los Maestros;
 
-VII. Coordinación General @prende.mx;
+VII. (DEROGADA, D.O.F. 26 DE AGOSTO DE 2022)
 
 VIII. Tecnológico Nacional de México, y
 
@@ -1119,7 +1123,9 @@ XI. Brindar la asesoría necesaria para el desarrollo de capacidades técnicas d
 
 XII. Colaborar, en coordinación con las autoridades educativas de los Estados, de la Ciudad de México y las unidades administrativas y órganos administrativos desconcentrados competentes de la Secretaría, así como con las demás dependencias y entidades de la Administración Pública Federal, en la implementación, seguimiento y evaluación de estrategias para el uso de materiales educativos y fomento a la lectura, y
 
-XIII. Proponer a la Coordinación General @prende.mx el uso de materiales educativos con componentes digitales vinculados a los procesos pedagógicos de enseñanza y aprendizaje de la educación básica y especial.
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2022)</small>
+
+XIII. Proponer a la Dirección General @prende.mx el uso de materiales educativos con componentes digitales vinculados a los procesos pedagógicos de enseñanza y aprendizaje de la educación básica y especial.
 
 ###### ARTÍCULO 24.
 
@@ -1765,6 +1771,36 @@ VI. Proponer a la persona Titular de la Jefatura de Oficina de la Secretaría la
 
 Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus facultades, la persona Titular de la Dirección General de Gestión Sectorial y Enlace Interinstitucional se auxiliará, entre otras, por la Coordinación Sectorial de Operación y Gestión, así como por las direcciones y subdirecciones de área, y jefaturas de departamento que se le adscriban.
 
+> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 39 Bis.
+
+La Dirección General @prende.mx tiene las atribuciones siguientes:
+
+I. Formular, proponer y promover políticas y normas a la persona titular de la Jefatura de Oficina de la Secretaría para la elaboración de planes, programas, iniciativas y proyectos orientados al desarrollo, aprovechamiento e implantación de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital y lo relacionado a ellas, en todos los tipos, niveles, modalidades y opciones educativas, en coordinación con las unidades administrativas de la Secretaría o instancias competentes, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Producir, gestionar, preservar, transmitir, difundir y distribuir materiales educativos audiovisuales y digitales en apoyo a los planes y programas de estudio, así como los proyectos orientados al aprovechamiento de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital de la educación, en coordinación con las unidades administrativas competentes de la Secretaría;
+
+III. Proponer a la persona titular de la Jefatura de Oficina de la Secretaría, en coordinación con las unidades administrativas competentes de la Secretaría, políticas orientadas al desarrollo de planes, programas y proyectos para preservar, sistematizar y facilitar el aprovechamiento de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para todos los tipos, niveles, modalidades y opciones educativas;
+
+IV. Proponer y promover a la persona titular de la Jefatura de Oficina de la Secretaría, los medios, plataformas y herramientas tecnológicas educativas para la distribución y aprovechamiento de los materiales educativos audiovisuales y digitales, de conformidad con las disposiciones jurídicas aplicables;
+
+V. Supervisar y dar seguimiento al uso y aprovechamiento de los medios, plataformas, herramientas tecnológicas educativas y materiales educativos audiovisuales y digitales, para hacer más eficientes los procesos de ejecución de los programas objeto de la Agenda Digital Educativa;
+
+VI. Administrar y supervisar el funcionamiento de la Red Edusat, en coordinación con las unidades administrativas competentes de la Secretaría, y deberá considerar la opinión de las autoridades educativas locales para el diseño, programación y transmisión de los materiales educativos audiovisuales y digitales en los canales de televisión y plataformas digitales al servicio del Estado, de conformidad con las disposiciones jurídicas aplicables;
+
+VII. Asesorar en el desarrollo de programas y proyectos de capacitación a docentes para la aplicación de los materiales educativos audiovisuales y digitales en todos los tipos, niveles, modalidades y opciones educativas, en coordinación con las unidades administrativas de la Secretaría o instancias competentes, de conformidad con las disposiciones jurídicas aplicables;
+
+VIII. Promover la capacitación de profesionales de la producción audiovisual en el uso de los medios audiovisuales para fines educativos y en materia de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital;
+
+IX. Realizar evaluaciones en coordinación con la Dirección General de Política Educativa, Mejores Prácticas y Cooperación, respecto de las mejores prácticas en función de los resultados de los programas, modelos y estrategias apoyadas con las tecnologías de la información, comunicación, conocimiento y aprendizaje digital y los ejes rectores de la Agenda Digital Educativa; la capacitación de docentes u otras figuras educativas, así como el uso de aplicaciones, plataformas y demás herramientas tecnológicas promovidas por la propia Dirección General @prende.mx;
+
+X. Atender los requerimientos audiovisuales y digitales que en materia educativa emprenda la Secretaría;
+
+XI. Analizar y aplicar las mejores prácticas en el ámbito internacional en materia de uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, para fortalecer la política educativa nacional, y
+
+XII. Asesorar a la Secretaría y entidades paraestatales sectorizadas a ésta que así lo soliciten, en el desarrollo de programas y proyectos de innovación en materia de comunicación educativa, así como en la aplicación de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en función de los ejes rectores de la Agenda Digital Educativa.
+
 ###### ARTÍCULO 40.
 
 La Dirección General de Profesiones tiene las atribuciones siguientes:
@@ -1973,7 +2009,7 @@ V. Universidad Abierta y a Distancia de México;
 
 VI. Unidad del Sistema para la Carrera de las Maestras y los Maestros;
 
-VII. Coordinación General @prende.mx;
+VII. (DEROGADA, D.O.F. 26 DE AGOSTO DE 2022)
 
 VIII. Tecnológico Nacional de México, y
 
@@ -2060,3 +2096,23 @@ TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del p
 CUARTO.- La Secretaría de Educación Pública, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones correspondientes a los acuerdos secretariales, manuales y demás disposiciones administrativas que le corresponde emitir conforme a lo previsto en el presente Decreto.
 
 QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas, a la unidad administrativa de la Secretaría de Educación Pública que desaparece por virtud del presente Decreto, se entenderán hechas o conferidas a la unidad administrativa que resulte competente conforme al mismo. Las dudas que se pudieran suscitar, respecto de la unidad administrativa que asume la competencia, serán resueltas por la persona Titular de la Secretaría de Educación Pública.
+
+D.O.F. 26 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Decreto por el que se crea la Coordinación General @prende.mx, como órgano administrativo desconcentrado de la Secretaría de Educación Pública, publicado el 31 de octubre de 2014 en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
+
+CUARTO.- Los asuntos en trámite que son atendidos por la Coordinación General @prende.mx que desaparece en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por la Dirección General @prende.mx prevista en este ordenamiento.
+
+Los recursos humanos, financieros, materiales, bienes muebles e inmuebles, archivos, documentación y acervos bibliográficos de la Coordinación General @prende.mx que desaparece a partir de la entrada en vigor del presente Decreto, serán transferidos a la Dirección General @prende.mx que asume sus atribuciones, lo cual se llevará a cabo de manera ordenada y con la intervención del Órgano Interno de Control en la Secretaría de Educación Pública, en un plazo no mayor a treinta días hábiles contado a partir de la entrada en vigor del presente Decreto, para lo cual se deberán observar todas las disposiciones legales aplicables y con respeto a los derechos laborales de los trabajadores.
+
+QUINTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Educación Pública en el ejercicio fiscal correspondiente.
+
+SEXTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales, circulares, lineamientos y demás disposiciones administrativas a la Coordinación General @prende.mx que desaparece se entenderán hechas o conferidas a la Dirección General @prende.mx.
+
+SÉPTIMO.- La Secretaría de Educación Pública, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones correspondientes a los acuerdos secretariales, manuales y demás disposiciones administrativas que le corresponde emitir conforme a lo previsto en el presente Decreto.
