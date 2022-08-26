@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-110063"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-10-05"
-last_updated: "2017-06-01"
+last_updated: "2022-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110063&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-09-25"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE AGOSTO DE 2022.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 5 de octubre de 2015.
 
@@ -191,9 +191,13 @@ Los magistrados de Circuito y jueces de Distrito a los que el ISSSTE, diagnostiq
 
 Los beneficiarios de los servidores públicos que reciban esta pensión se regirán por lo previsto en los artículos 3 y 14 de este Acuerdo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, EN RELACIÓN CON LA PENSIÓN A BENEFICIARIOS, D.O.F. 26 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 11.
 
-En caso de que un magistrado de Circuito o juez de Distrito fallezca durante el ejercicio de su cargo, se equiparará al caso de jubilación forzosa a que se refiere la fracción I del artículo 9 de este Acuerdo, por lo que sus beneficiarios tendrán derecho a recibir la pensión complementaria prevista en el artículo 13 del mismo.
+En caso de que una magistrada o magistrado de Circuito o jueza o juez de Distrito fallezca durante el ejercicio de su cargo, los familiares contemplados en las fracciones II y III del artículo 3 de este Acuerdo, tendrán derecho a recibir una pensión complementaria, la cual sumada a la pensión del ISSSTE, deberá representar una cantidad equivalente al 80% del ingreso mensual bruto que venía percibiendo la referida persona servidora pública en activo al momento de su fallecimiento.
+
+En ningún caso, la pensión complementaria podrá ser menor al 25% del salario mensual bruto que perciban las magistradas o magistrados de Circuito o juezas o jueces de Distrito en activo.
 
 ###### Artículo 12.
 
@@ -708,3 +712,13 @@ PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se instruye a las áreas operativas que en el presente ejercicio fiscal, se omita contratar el estudio actuarial a que se refiere la presente modificación en consideración a que durante el ejercicio fiscal dos mil dieciséis, se realizó el mismo.
+
+D.O.F. 26 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, EN RELACIÓN CON LA PENSIÓN A BENEFICIARIOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las solicitudes de pensión complementaria presentadas por beneficiarios de Magistradas o Magistrados de Circuito y Juezas o Jueces de Distrito que hayan fallecido en el ejercicio de su encargo, que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo, deberán concluirse conforme a lo aquí previsto.
