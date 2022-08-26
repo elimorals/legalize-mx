@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2022-05-19"
+last_updated: "2022-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2022.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -2053,21 +2053,63 @@ Las normas ambientales estatales, no tendrán como finalidad, una sobre regulaci
 
 II. Considerar las condiciones necesarias para el bienestar de la población, la conservación y manejo sustentable del patrimonio ambiental;
 
-III. Estimular o inducir a los agentes económicos para reorientar sus procesos y tecnologías a la protección del medio ambiente y al desarrollo sustentable;
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2022)</small>
 
-IV. Inducir a los agentes económicos a asumir los Principios de Política Ambiental del Estado que considera la presente Ley, en todas sus actividades; y,
+III. Los requisitos, condiciones o límites permisibles en la operación, recolección, transporte, almacenamiento, reciclaje, tratamiento, industrialización o disposición final de residuos sólidos;
 
-V. Regular las actividades productivas en un marco de eficiencia y sustentabilidad.
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+IV. Los requisitos, condiciones, parámetros y límites permisibles para el tratamiento y aprovechamiento de aguas residuales provenientes de actividades domésticas, industriales, comerciales, agrícolas, acuícolas, pecuarias o de cualquier otra actividad humana y que, por el uso recibido, se les hayan incorporado contaminantes;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+V. Las condiciones de seguridad, requisitos y limitaciones en el manejo de residuos sólidos que presenten riesgo para el ser humano, para el equilibrio ecológico, para la fauna, todo ser vivo o para el ambiente;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+VI. Los requisitos, condiciones, parámetros y límites permisibles para la protección, el manejo, el aprovechamiento y la restauración de los recursos naturales en suelo de conservación;
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+VII. Los requisitos, condiciones, parámetros y límites permisibles para la protección, el manejo, el aprovechamiento y la restauración de los recursos naturales en las Áreas Naturales Protegidas de competencia del Estado de Michoacán;
+
+VIII. Estimular o inducir a los agentes económicos para reorientar sus procesos y tecnologías a la protección del medio ambiente y al desarrollo sustentable;
+
+IX. Inducir a los agentes económicos a asumir los Principios de Política Ambiental del Estado que considera la presente Ley, en todas sus actividades; y,
+
+X. Regular las actividades productivas en un marco de eficiencia y sustentabilidad.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 175.
 
-Las instituciones de investigación y educación superior, las organizaciones empresariales, los integrantes del sector social, las entidades y dependencias de la Administración Pública Estatal y los ciudadanos en general, podrán proponer la creación de las Normas Ambientales Estatales.
+Las instituciones de investigación y educación superior, las organizaciones empresariales, los integrantes del sector social, las entidades y dependencias de la Administración Pública Estatal y los ciudadanos en general, podrán proponer la creación de las Normas Ambientales Estatales, en los términos señalados en el Reglamento que al efecto se expida.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 176.
 
 El procedimiento para proponer, someter a consulta y formular Normas Ambientales Estatales, se establecerá en el Reglamento de la presente Ley y las mismas deberán publicarse en el Periódico Oficial del Estado y serán de observancia obligatoria.
 
-En dicha consulta, se deberá contemplar durante todo el proceso de elaboración a las asociaciones de empresarios, cámaras de comercio, industriales, comerciantes y en general, a todos aquellos involucrados en un ejercicio de parlamento abierto.
+En dicho procedimiento deberá observarse lo siguiente:
+
+I. La Secretaría en conjunto con el Consejo Estatal de Ecología coordinarán el proceso de emisión de normas ambientales;
+
+II. La Secretaría y el Consejo Estatal de Ecología convocará con oportunidad y mediante los medios de comunicación correspondientes, a la conformación de grupos de trabajo en donde se contemplará a las asociaciones de empresarios, cámaras de comercio, industriales, comerciantes, académicos y en general, a todos aquellos interesados para que colaboren en el diseño de las normas;
+
+III. Una vez concluidos los trabajos, la Secretaría publicará el proyecto de norma o de su modificación en estrados de la Secretaría, del Consejo y en sus respectivas páginas de internet, a efecto de que los interesados presenten sus comentarios dentro de los treinta días naturales siguientes;
+
+IV. Al término del plazo a que se refiere la fracción anterior, la Secretaría estudiará los comentarios recibidos y, en su caso, procederá a modificar el proyecto de norma ambiental y emitir la norma definitiva;
+
+V. La Secretaría deberá responder por escrito a los interesados las razones fundadas por las cuales los comentarios a que se refiere la fracción III de este artículo no fueron tomados en consideración dentro del proyecto de norma ambiental, pudiendo los afectados interponer el recurso de inconformidad a que se refiere esta Ley en contra de la respuesta que emita la Secretaría a los comentarios recibidos; y,
+
+VI. Transcurridos los plazos anteriores, la Secretaría publicará las normas ambientales para el Estado de Michoacán o sus posibles modificaciones en el Periódico Oficial. Las normas ambientales para el Estado de Michoacán, señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
+###### Artículo 176 Bis.
+
+En casos de emergencia que pongan en riesgo la integridad de las personas, del ambiente, la fauna o cualquier ser vivo, la Secretaría, de acuerdo al Reglamento, podrá publicar en el Periódico Oficial las normas ambientales del Estado de Michoacán sin sujetarse al procedimiento establecido en los artículos anteriores. Estas normas tendrán una vigencia máxima de seis meses. En ningún caso se podrá expedir más de dos veces consecutivas la misma norma en los términos de este artículo.
 
 ## TÍTULO SEXTO. DE LA PARTICIPACIÓN SOCIAL EN LA GESTIÓN AMBIENTAL
 
@@ -2285,27 +2327,31 @@ IV. Promover la participación de los distintos sectores de la sociedad, en mate
 
 V. Elaborar propuestas en materia de políticas públicas, programas, estudios, obras y acciones específicas en materia ambiental y de desarrollo sustentable que contribuyan a fortalecer la visión de la sustentabilidad ambiental;
 
-VI. Promover la investigación y difusión de los avances científicos y tecnológicos que existan sobre la protección del medio ambiente y los ecosistemas;
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2022)</small>
 
-VII. Promover la creación de Consejos Municipales de Ecología, con el objeto de fomentar la participación ciudadana en la protección, restauración y conservación de los ecosistemas y recursos naturales, así como de los bienes y servicios con el fin de propiciar su aprovechamiento y desarrollo sustentable en el ámbito municipal;
+VI. Participar en la formulación de normas ambientales para establecer requisitos, especificaciones, condiciones, parámetros y límites permisibles en materia de competencia local;
 
-VIII. Organizar y participar en eventos y foros municipales, estatales, nacionales e internacionales donde se analice la protección al ambiente, el equilibrio ecológico, el patrimonio natural, el patrimonio ambiental y el desarrollo sustentable;
+VII. Promover la investigación y difusión de los avances científicos y tecnológicos que existan sobre la protección del medio ambiente y los ecosistemas;
 
-IX. Asesorar al Ejecutivo del Estado y a los Ayuntamientos en el diseño, ejecución y evaluación de acciones, programas y políticas públicas en materia ambiental, de protección al patrimonio ambiental para el desarrollo sustentable del Estado;
+VIII. Promover la creación de Consejos Municipales de Ecología, con el objeto de fomentar la participación ciudadana en la protección, restauración y conservación de los ecosistemas y recursos naturales, así como de los bienes y servicios con el fin de propiciar su aprovechamiento y desarrollo sustentable en el ámbito municipal;
 
-X. Elaborar recomendaciones para mejorar el marco jurídico ambiental vinculado con el medio ambiente, el patrimonio ambiental y el aprovechamiento sustentable de los recursos naturales en el Estado;
+IX. Organizar y participar en eventos y foros municipales, estatales, nacionales e internacionales donde se analice la protección al ambiente, el equilibrio ecológico, el patrimonio natural, el patrimonio ambiental y el desarrollo sustentable;
 
-XI. Promover y llevar a cabo mecanismos de consulta y participación ciudadana en materia de medio ambiente, recursos naturales y desarrollo sustentable, que fomente el ejercicio de los derechos ciudadanos en esta materia;
+X. Asesorar al Ejecutivo del Estado y a los Ayuntamientos en el diseño, ejecución y evaluación de acciones, programas y políticas públicas en materia ambiental, de protección al patrimonio ambiental para el desarrollo sustentable del Estado;
 
-XII. Coordinarse con organismos homólogos de carácter estatal, regional, nacional e internacional, a fin de intercambiar experiencias, acciones y estrategias que puedan resultar mutuamente beneficiosas;
+XI. Elaborar recomendaciones para mejorar el marco jurídico ambiental vinculado con el medio ambiente, el patrimonio ambiental y el aprovechamiento sustentable de los recursos naturales en el Estado;
 
-XIII. Canalizar a las autoridades competentes las denuncias ciudadanas presentadas ante el Consejo;
+XII. Promover y llevar a cabo mecanismos de consulta y participación ciudadana en materia de medio ambiente, recursos naturales y desarrollo sustentable, que fomente el ejercicio de los derechos ciudadanos en esta materia;
 
-XIV. Recibir financiamiento público y privado de instituciones nacionales e internacionales para el logro de sus fines;
+XIII. Coordinarse con organismos homólogos de carácter estatal, regional, nacional e internacional, a fin de intercambiar experiencias, acciones y estrategias que puedan resultar mutuamente beneficiosas;
 
-XV. Presentar el Proyecto de Presupuesto del Consejo al Titular de la Secretaría, para que pueda ser incluido en el Proyecto de Presupuesto de Egresos del Estado de cada año; y,
+XIV. Canalizar a las autoridades competentes las denuncias ciudadanas presentadas ante el Consejo;
 
-XVI. Las demás que sean necesarias para la consecución de sus fines, del objeto de esta Ley, y las demás previstas en otros ordenamientos aplicables.
+XV. Recibir financiamiento público y privado de instituciones nacionales e internacionales para el logro de sus fines;
+
+XVI. Presentar el Proyecto de Presupuesto del Consejo al Titular de la Secretaría, para que pueda ser incluido en el Proyecto de Presupuesto de Egresos del Estado de cada año; y,
+
+XVII. Las demás que sean necesarias para la consecución de sus fines, del objeto de esta Ley, y las demás previstas en otros ordenamientos aplicables.
 
 ### CAPÍTULO V. DE LA DENUNCIA CIUDADANA
 
@@ -2886,3 +2932,13 @@ P.O. 19 DE MAYO DE 2022.
 PRIMERO. En un término de 60 días naturales los 112 ayuntamientos y el Consejo Mayor de Cheran deberán emitir el reglamento correspondiente.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 183 POR EL QUE "SE ADICIONAN LAS FRACCIONES III, IV, V, VI Y VII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 174; SE REFORMAN LOS ARTÍCULOS 175 Y 176; SE ADICIONA EL ARTÍCULO 176 BIS Y LA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 194, TODOS DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. La Secretaría del Medio Ambiente del Poder Ejecutivo del Estado, deberá expedir el Reglamento para el proceso de emisión de normas ambientales, dentro de los ciento ochenta días naturales posteriores a la publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Consejo Estatal de Ecología deberá adecuar su Reglamento para el proceso de emisión de normas ambientales, dentro de los treinta días naturales posteriores a la publicación en el Periódico Oficial de Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno Constitucional del Estado de Michoacán de Ocampo.
