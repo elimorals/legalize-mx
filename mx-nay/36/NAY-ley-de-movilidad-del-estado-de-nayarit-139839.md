@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-movilidad-del-estado-de-nayarit-139839"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-07"
-last_updated: "2022-05-11"
+last_updated: "2022-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE SEPTIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección quinta del Número 003 del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020.
 
@@ -117,6 +119,10 @@ XI. Estudio de evaluación de la movilidad: el estudio que evalúa la influencia
 
 XII. Estudio técnico: el diagnóstico, análisis de evaluación o, en su caso análisis estadístico, del cual se determinarán las necesidades de movilidad, así como las propuestas que permitan atender y mejorar las condiciones de movilidad;
 
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+XII Bis. Estudio de factibilidad, rentabilidad y viabilidad: es el documento de apoyo técnico, económico y científico, elaborado por la Dirección de Movilidad e Imagen Urbana de la Secretaría de Movilidad, con base en las evaluaciones en materia de población, vivienda, protección civil, medio ambiente, desarrollo económico, comunicaciones, movilidad y uso de transporte público, a través de instrumentos como aforos, evidencia fotográfica, muestreo y visitas de campo;
+
 XIII. Externalidades: a los efectos indirectos que generan los desplazamientos de personas y bienes y que no se reflejan en los costos de los mismos. Los impactos positivos o negativos pueden afectar tanto aquellos que realizan el viaje como a la sociedad en su conjunto, a la infraestructura o al medio ambiente;
 
 XIV. IPLANAY: el Instituto de Planeación del Estado de Nayarit,
@@ -139,13 +145,15 @@ XXII. Permisionario: el titular de un permiso en materia de esta Ley;
 
 XXIII. Permiso: el acto jurídico administrativo en virtud del cual la autoridad competente autoriza de forma temporal a una persona física o moral para la prestación de un Servicio Especial de Transporte; también se otorgan permisos para bases de encierro, sitios de taxi, paraderos o cualquier otro elemento de movilidad;
 
-XXIV. Policía Estatal de Caminos: servidor público dependiente de la Secretaria de Seguridad y Protección Ciudadana que tiene a su cargo la vigilancia e inspección de la operación de los servicios de autotransporte estatal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación estatales, para fines de seguridad pública, así como el levantamiento de las infracciones e imposición de las sanciones por violaciones a las disposiciones legales y reglamentarias relativas al tránsito en los caminos y puentes estatales;
+XXIV. (DEROGADA, P.O. 26 DE AGOSTO DE 2022)
 
 XXV. Policía vial: servidor público dependiente de la instancia municipal de seguridad pública y protección ciudadana, que tiene a su cargo las funciones técnicas y operativas en materia de prevención tanto de accidentes viales, como de infracciones a las normas de tránsito que determina esta Ley;
 
 XXVI. Programas Integrales de Movilidad Urbana Sustentable: instrumentos de planeación que establecen las estrategias y programas de todos los componentes del transporte, la vialidad y la movilidad no motorizada, pudiendo ser de aplicación urbana, metropolitana, regional o estatal, según sea el territorio de aplicación;
 
-XXVII. Promovente: a la persona física o moral, con personalidad jurídica, que solicita autorización del impacto de movilidad, y que somete a consideración de la Secretaría de Movilidad las solicitudes de factibilidad de movilidad, informe preventivo y las manifestaciones de evaluación de la movilidad que correspondan;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+XXVII. Promovente: la persona física o moral, que solicita autorización del impacto de movilidad, y que somete a consideración de la Secretaría de Movilidad las solicitudes de factibilidad de movilidad, informe preventivo y los estudios de evaluación de la movilidad que correspondan;
 
 XXVIII. REPUMO: Registro Público de Movilidad del Estado;
 
@@ -311,7 +319,9 @@ El Estado y los Municipios en el ámbito de sus competencias, deberán emitir o 
 
 I. La cortesía y precaución en la conducción de vehículos;
 
-II. El respeto a los policías estatales de caminos y policías viales;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+II. El respeto a los agentes de movilidad y policías viales;
 
 III. La protección a los peatones, personas con discapacidad y ciclistas;
 
@@ -343,7 +353,9 @@ VII. Cuando los peatones transiten en comitivas organizadas o filas escolares, y
 
 VIII. Cuando los peatones transiten por los espacios habilitados para ello cuando la acera se encuentre afectada por la ejecución de un trabajo o evento que modifique de forma transitoria las características del área de circulación peatonal.
 
-Todos los usuarios de la movilidad y el espacio público deberán obedecer las indicaciones de los policías estatales de caminos y policías viales en el ámbito de su competencia y las señales de tránsito, así como las determinaciones emitidas en los reglamentos de tránsito de los municipios.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
+Todos los usuarios de la movilidad y el espacio público deberán obedecer las indicaciones de los agentes de movilidad y policías viales en el ámbito de su competencia, las señales de tránsito, así como las determinaciones emitidas en los reglamentos de tránsito de los municipios.
 
 ###### Artículo 18.
 
@@ -357,7 +369,9 @@ III. Utilizar los puentes, pasos peatonales a desnivel o rampas especiales para 
 
 IV. Tomar las precauciones necesarias en caso de no existir semáforo;
 
-V. Obedecer las indicaciones de los policías estatales de caminos, policías viales y las señales de tránsito, y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+V. Obedecer las indicaciones de los agentes de movilidad, policías viales y las señales de tránsito, y
 
 VI. Acatar lo señalado por el semáforo.
 
@@ -987,7 +1001,7 @@ La Secretaría determinará un sistema de indicadores de Movilidad del Estado pa
 
 ### CAPÍTULO VI. DE LOS ESTUDIOS DE MODELOS DE FLUJOS EN REDES DE TRANSPORTE
 
-### CAPÍTULO VII. DEL DICTAMEN DE FACTIBILIDAD DE LA MOVILIDAD Y LAS OPINIONES TÉCNICAS
+### CAPÍTULO VII. DEL ESTUDIO DE FACTIBILIDAD, RENTABILIDAD Y VIABILIDAD, DEL DICTAMEN DE LA MOVILIDAD Y DEL DICTAMEN TÉCNICO
 
 ###### Artículo 55.
 
@@ -1151,6 +1165,8 @@ Dichos análisis deberán incluir, encuestas para determinar usuarios potenciale
 
 Dentro del desarrollo de los estudios deberá incluirse la aplicación de nuevas tecnologías, páginas web para el procesamiento de solicitudes, quejas y acciones de mejora o aplicaciones para teléfonos inteligentes donde aparezca en tiempo real la información de líneas, horarios y autobuses.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2022)</small>
+
 ### CAPÍTULO III. DEL SERVICIO DE ESTACIONAMIENTO PÚBLICO
 
 ###### Artículo 73.
@@ -1210,6 +1226,18 @@ III. Medidas de integración: Son las acciones que permiten que la obra se incor
 El dictamen del estudio de evaluación de la movilidad tendrá una vigencia de dos años, si el proyecto no hubiere sido modificado sustancialmente y no hubiere cambiado la situación del entorno urbano de la zona en donde se pretenda ubicar, la Secretaría a través de la dependencia correspondiente podrá prorrogar el dictamen hasta por un año más; en caso contrario, el estudio debe ser nuevamente presentado para ser evaluado por la Secretaría.
 
 El promovente debe solicitar la prórroga por escrito a la Secretaría, dentro de los quince días hábiles, previos a la conclusión de la vigencia del dictamen.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
+###### Artículo 78 Bis.
+
+La Secretaría a través de la Dirección de Movilidad e Imagen Urbana determinará en el estudio de factibilidad, rentabilidad y viabilidad lo siguiente:
+
+I. Si es favorable, la procedencia para el establecimiento de nuevos sitios, rutas o cambios de modalidad del transporte público conforme los principios que establece esta Ley, o
+
+II. Si no es favorable, la improcedencia para el establecimiento de nuevos sitios, rutas o cambios de modalidad del transporte público en el Estado de Nayarit.
+
+La Secretaría emitirá el estudio de factibilidad, rentabilidad y viabilidad a que se refiere este artículo a petición de la Comisión Técnica de Movilidad.
 
 ### CAPÍTULO IV. DE LAS ÁREAS DE TRANSFERENCIA INTERMODAL
 
@@ -1557,7 +1585,9 @@ II. La libre circulación sobre las aceras de las vías públicas y en las zonas
 
 III. La preferencia al cruzar las vías públicas, cuando el señalamiento de tránsito permita el paso simultáneo de vehículos y peatones;
 
-IV. La orientación, que se traduce en la obligación a cargo de los policías estatales de caminos y policías viales en el ámbito de su competencia, de proporcionar la información que soliciten los peatones, sobre señalamiento vial, ubicación de calles y nominativas que regulen el tránsito de personas;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+IV. La orientación, que se traduce en la obligación a cargo de los agentes de movilidad y policías viales en el ámbito de su competencia, de proporcionar la información que soliciten los peatones, sobre señalamiento vial, ubicación de calles y nominativas que regulen el tránsito de personas;
 
 V. La asistencia, que se traduce en la obligación de los ciudadanos y policías viales de ayudar a los peatones menores de diez años, a los adultos mayores y a quienes requieran el auxilio para cruzar las calles, gozando de prioridad en el paso. En estos casos los policías viales deberán acompañar a las personas hasta que completen el cruzamiento;
 
@@ -1723,6 +1753,8 @@ VIII. En el caso de vehículos de carga pesada en general o de contenido peligro
 
 ### CAPÍTULO II. DE LA LICENCIA DE CONDUCIR
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 128.
 
 Los vehículos se clasifican en automotores, de propulsión humana, y de tracción animal. En este último caso sus conductores se abstendrán de transitarlos en las zonas urbanas de profusa circulación.
@@ -1860,6 +1892,8 @@ Los conductores de vehículos automotores deben otorgar al menos la distancia de
 El Gobierno del Estado y los Ayuntamientos instalarán y/o autorizarán a los particulares, la colocación de módulos para resguardo de bicicletas, dando prioridad a los lugares de concentración masiva de personas, como escuelas, parques, plazas públicas, teatros, centros comerciales, oficinas públicas y fábricas, entre otros.
 
 ### CAPÍTULO I. DEL TRANSPORTE PÚBLICO
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 142.
 
@@ -2029,13 +2063,21 @@ V. Los vehículos automotores utilizarán sistemas de retención infantil o asie
 
 El Reglamento de esta Ley establecerá los procedimientos que permitan asegurar el cumplimiento de las disposiciones de este artículo.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 155.
 
 Queda prohibido conducir vehículos por la vía pública, bajo los efectos del alcohol o el influjo de drogas enervantes, estupefacientes o cualquier otra substancia tóxica.
 
-Los miembros del personal autorizado para realizar las pruebas necesarias referidas en el párrafo anterior, serán considerados como peritos oficiales y fungirán como auxiliares del Ministerio Público. Consecuentemente, dichas pruebas serán incluidas en la averiguación previa que en su caso se integre.
+Los agentes de movilidad o la policía vial, en el ámbito de su competencia, realizarán de manera permanente el respectivo control de alcoholimetría mediante el método aprobado por la Secretaría de Salud Federal.
 
-Los policías estatales de camino o la policía vial en el ámbito de su competencia pueden detener la marcha de un vehículo, cuando las autoridades competentes establezcan y lleven a cabo programas para conductores de vehículos de control de ingestión de alcohol o de narcóticos para la prevención de accidentes. Esto siempre que los programas referidos hayan sido previamente publicados en el periódico oficial del Estado.
+Para tal efecto queda prohibido conducir con una alcoholemia superior a 0.25 mg/L en aire espirado o 0.05 g/dL en sangre, salvo las siguientes consideraciones:
+
+I. Para las personas que conduzcan motocicletas queda prohibido hacerlo con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/dL en sangre, y
+
+II. Para vehículos destinados al transporte de pasajeros y de carga, queda prohibido conducir con cualquier concentración de alcohol por espiración o litro de sangre.
+
+Los agentes de movilidad o la policía vial autorizados en el ámbito de su competencia para realizar las pruebas necesarias referidas en este artículo, serán considerados como peritos oficiales, previo cumplimiento de los requisitos de Ley, y fungirán como auxiliares del Ministerio Público. Consecuentemente, dichas pruebas podrán ser incluidas en la carpeta de investigación que en su caso se integre.
 
 Cuando se imponga un arresto administrativo, se comunicará la resolución a la autoridad competente para que lo ejecute. En el caso de que el arresto sea impuesto por la autoridad estatal, se notificará al encargado de prevención social o de los lugares donde se ejecuten los arrestos administrativos del municipio donde resida el infractor para su ejecución. El lugar del arresto deberá ser exclusivo para tales efectos.
 
@@ -2059,7 +2101,7 @@ Las autoridades estatales o municipales, de vialidad y tránsito, no están facu
 
 ###### Artículo 159.
 
-Para conducir todo tipo de vehículo automotor, se deberá tener y llevar consigo la correspondiente licencia vigente expedida por la autoridad competente. Es obligación de los conductores presentar su licencia a la policía estatal de caminos o a la policía vial en ámbito de su competencia, cuando se les solicite.
+Para conducir todo tipo de vehículo automotor, se deberá tener y llevar consigo la correspondiente licencia vigente expedida por la autoridad competente. Es obligación de los conductores presentar su licencia a los agentes de movilidad o a la policía vial en ámbito de su competencia, cuando se les solicite.
 
 ###### Artículo 160.
 
@@ -2283,7 +2325,7 @@ V. Cuando así lo ordene la autoridad Judicial o Administrativa competentes.
 
 ###### Artículo 182.
 
-Corresponde al Titular del Poder Ejecutivo la facultad de disponer la prestación del servicio público de transporte y podrá, asimismo concesionarlo a particulares sin que ello constituya un derecho preexistente, en los casos, condiciones y modalidades que esta Ley señala.
+Corresponde al Titular del Poder Ejecutivo la facultad de disponer la prestación del servicio público de transporte y podrá, asimismo concesionarlo a particulares a través de la persona titular de la Secretaría sin que ello constituya un derecho preexistente, en los casos, condiciones y modalidades que esta Ley señala.
 
 ###### Artículo 183.
 
@@ -2799,7 +2841,11 @@ I. Determinar los tipos, parámetros y metodologías para la fijación de tarifa
 
 II. Emitir las tarifas a que deba sujetarse la prestación del servicio público de transporte, del servicio de arrastre y salvamento, estacionamientos y depósito de vehículos;
 
-III. Elaborar los dictámenes técnicos que se relacionen con el otorgamiento, modificación, revocación o transmisión de permisos y concesiones del servicio público y especializado de transporte en sus respectivas modalidades;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+III. Elaborar los dictámenes con base en el estudio de factibilidad, rentabilidad y viabilidad que se relacionen con el otorgamiento, modificación, revocación o transmisión de permisos y concesiones del servicio público y especializado de transporte en sus respectivas modalidades.
+
+Cualquier modificación definitiva a una concesión deberá contar con el estudio de factibilidad, rentabilidad y viabilidad emitido por la Secretaría a través de la Dirección de Movilidad e Imagen Urbana;
 
 IV. Elaborar los dictámenes de Suspensión temporal de expedición de nuevas concesiones para el servicio de transporte público;
 
@@ -3147,6 +3193,8 @@ La Secretaría vigilará que la forma y bases de constitución de las personas m
 
 ### CAPÍTULO I. DE LAS CONCESIONES
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 302.
 
 Los concesionarios podrán instalar publicidad en los vehículos del servicio de transporte previa autorización de la Secretaría y previo pago de los derechos correspondientes y cumplimiento de las especificaciones de ubicación, diseño y tamaño que establezcan las normas reglamentarias que de esta Ley se deriven.
@@ -3241,6 +3289,8 @@ b. En zonas de baja densidad, en ocasiones, no se ocupa plenamente el estacionam
 
 ### CAPÍTULO III. DE LA VIGENCIA DE LAS CONCESIONES
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 311.
 
 El Registro Público de Movilidad, estará a cargo de la Secretaría y tiene como objeto el desempeño de la función registral en todos sus órdenes, de acuerdo con esta Ley y demás disposiciones jurídicas y administrativas aplicables llevadas a cabo en el Estado de Nayarit.
@@ -3311,7 +3361,7 @@ XI. De infracciones, sanciones y delitos relacionados con el transporte;
 
 XII. De operadores del transporte público;
 
-XIII. De las listas de sucesión de las concesiones, y
+XIII. (DEROGADA, P.O. 26 DE AGOSTO DE 2022)
 
 XIV. Las demás que sean necesarias a juicio de la Secretaría.
 
@@ -3483,17 +3533,27 @@ Los vehículos de propulsión humana y los de tracción animal deberán satisfac
 
 ###### Artículo 341.
 
-La prestación del servicio de transporte corresponde originariamente al Poder Ejecutivo del Estado, quien lo podrá prestar de manera directa o a través de concesiones o permisos otorgados a personas físicas o morales constituidas con sujeción a las Leyes del país.
+La prestación del servicio de transporte corresponde originariamente al titular del Poder Ejecutivo del Estado, quien lo podrá prestar de manera directa o a través de concesiones o permisos otorgados a personas físicas o morales constituidas con sujeción a las Leyes del país.
 
-El Ejecutivo del Estado, para la más eficaz prestación del servicio de transporte podrá celebrar convenios de coordinación o asociación con los gobiernos federal, estatales o municipales en los términos de las Leyes respectivas.
+El titular del Poder Ejecutivo del Estado, para la más eficaz prestación del servicio de transporte podrá celebrar convenios de coordinación o asociación con el gobierno federal, estatales o municipales en los términos de las Leyes respectivas.
+
+Las concesiones o permisos de transporte público son inembargables, imprescriptibles, inalienables e intransferibles ya sea a título oneroso o gratuito y no serán materia de transmisión por causa de muerte, por donación, herencia o legado.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 342.
 
-Las personas físicas o morales, para participar en la prestación del servicio público de transporte colectivo, requerirán obtener concesión según corresponda, expedida por el Ejecutivo del Estado por conducto de su Titular y estarán limitadas, cuando así convenga a las necesidades de la prestación del servicio, cumpliendo con los requisitos que esta Ley señala.
+Las personas físicas o morales, para participar en la prestación del servicio público de transporte colectivo, requerirán obtener concesión según corresponda, expedida por el titular del Poder Ejecutivo del Estado por conducto de la Secretaría y estarán limitadas al número que esta determine, de conformidad a las necesidades de la prestación del servicio una vez que se hayan realizado el estudio de factibilidad, rentabilidad y viabilidad.
+
+No se podrán expedir concesiones o permisos de transporte público sin el dictamen técnico emitido por la Comisión Técnica de Movilidad.
+
+Previo a la expedición de una concesión o permiso, la persona titular de la Secretaría analizará el expediente en un plazo de quince días hábiles a partir de su recepción, para determinar si se encuentra integrado de manera completa y expedir la concesión o permiso según corresponda.
+
+En caso de que el expediente se encuentre incompleto, la persona titular de la Secretaría deberá de remitirlo a la Comisión Técnica de Movilidad para subsanar lo faltante.
 
 Las personas físicas o morales que cuenten con una concesión, permiso o cualquier otra autorización, deberán estar registradas en la Secretaría.
 
-Para el caso de renovación de concesión para el transporte colectivo de pasajeros, la persona física o moral, deberá solicitarlo por escrito seis meses previos a su vencimiento, acompañando la documentación requerida en los términos de Ley.
+Para el caso de renovación de concesión para el transporte colectivo de pasajeros, la persona física o moral, deberá solicitarlo por escrito seis meses previos a su vencimiento, acompañando la documentación requerida en los términos de Ley; en caso de no realizar la solicitud en el término establecido será causa de extinción, además de las señaladas en esta Ley.
 
 Las concesiones únicamente se otorgarán a personas de nacionalidad mexicana, físicas o morales, según el servicio de que se trate, constituidas conforme a las Leyes del país.
 
@@ -3513,7 +3573,9 @@ V. Las concesiones para la prestación del servicio público de taxi en todas su
 
 VI. Las concesiones para la prestación del servicio público de transporte colectivo en cualquiera de sus modalidades amparan un vehículo para la operación de una ruta determinada;
 
-VII. No podrá otorgarse más de tres concesiones o permisos de taxi y de transporte carga, en cualquiera de sus modalidades, a personas físicas; no se limitará el número de concesiones de las demás modalidades de transporte público a personas físicas o morales;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+VII. No podrá otorgarse más de tres concesiones en cualquiera de sus modalidades a personas físicas o morales;
 
 VIII. Los derechos derivados de una concesión podrán otorgarse en garantía, sólo con objeto de renovar o modernizar la unidad, inclusive a través de fideicomiso de garantía, previa la autorización de la Secretaría de Movilidad;
 
@@ -3521,33 +3583,49 @@ IX. El otorgamiento en garantía de los derechos derivados de una concesión y l
 
 X. Las concesiones sólo serán transmisibles conforme a las condiciones y cumpliendo con los requisitos que se especifican en la presente Ley;
 
-XI. La Secretaría certificará a quién corresponde la titularidad de las concesiones, sus modalidades y los actos que se hayan realizado respecto de las mismas;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+XI. La Secretaría certificará y registrará por medio del REPUMO a quién corresponde la titularidad de las concesiones sus modalidades y los actos que se hayan realizado respecto de las mismas;
 
 XII. La participación de personas físicas y morales en el servicio público de transporte en las vías públicas de comunicación local, se sujetará a los requisitos y condiciones previstos en la Ley, y
 
-XIII. Cualquier determinación de la Comisión Técnica de Movilidad, relacionada con cuestiones de una concesión, de transporte colectivo, que puedan impactar el tránsito o el equipamiento vial sobre las vías de comunicación correspondientes, deberá contar con la autorización de la Secretaría.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
 
-En los casos de las autorizaciones de matriz o sitio, se requerirá del dictamen técnico que emita la Secretaría.
+XIII. Cualquier determinación de la Comisión Técnica de Movilidad, relacionada con cuestiones de una concesión, de transporte colectivo, que puedan impactar el tránsito o el equipamiento vial sobre las vías de comunicación correspondientes, deberá contar con la autorización de la Secretaría, por medio de estudios de factibilidad, rentabilidad y viabilidad que emita la Dirección de Movilidad e Imagen Urbana.
 
-Las disposiciones de este artículo no le serán aplicables al servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles que se regulará por las disposiciones particulares de esta Ley, su Reglamento y normas técnicas correspondientes.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
+En los casos de las autorizaciones de matriz o sitio, se requerirá de los estudios de factibilidad, rentabilidad y viabilidad que emita la Dirección de Movilidad e Imagen Urbana.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
+Las disposiciones de este artículo no le serán aplicables al servicio privado de pasajeros a través de aplicaciones móviles, el cual se regulará por las disposiciones particulares de esta Ley, su Reglamento y normas técnicas correspondientes.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 344.
 
-El titular de una concesión, al término de ésta, podrá solicitar su prórroga o renovación en los términos y condiciones que se establezcan para la misma, si acredita ante la Secretaría que cumplió con todos y cada uno de los requisitos de esta Ley.
+El titular de una concesión, al término de ésta, podrá solicitar su prórroga en los términos y condiciones que se establezcan para la misma, si acredita ante la Secretaría que cumplió con todos y cada uno de los requisitos de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 345.
 
-A fin de obtener la prórroga o renovación de la concesión, su titular deberá:
+A fin de obtener la prórroga de la concesión, su titular deberá:
 
-I. Presentar solicitud por escrito dentro de los seis meses anteriores del vencimiento de la concesión, ante la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+I. Presentar solicitud por escrito seis meses antes del vencimiento de la concesión, ante la Secretaría;
 
 II. Acreditar su cumplimiento de los requisitos correspondientes en la forma que precise el Reglamento, y
 
 III. Comprobar que está al corriente en el pago de las contribuciones relacionadas con los vehículos, conductores y demás elementos del servicio o, en su caso, haber asegurado el interés fiscal.
 
-La falta de solicitud de prórroga en el plazo previsto en este artículo, será sancionado de veinte a cincuenta veces el valor diario de la Unidad de Medida y Actualización. Si pasados diez días hábiles de que, a través del registro de la Secretaría, se haya impuesto legalmente la sanción mencionada, no se tramita la prórroga, se considerará como renuncia a ésta; en consecuencia, ocasionará la extinción de la concesión y de los derechos que de ellas se deriven.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
 
-La autoridad deberá comunicar al interesado lo resuelto a su solicitud, así como informar el contenido de su resolución al registro de la Secretaría y a la Secretaría de Administración y Finanzas. Si presentada en tiempo y forma la solicitud, ésta no es contestada por la autoridad dentro de un plazo de noventa días naturales, se entenderá favorable la misma al interesado.
+Presentada en tiempo y forma la solicitud, la autoridad deberá comunicar al interesado lo resuelto a su solicitud; así como el contenido de su resolución al registro de la Secretaría de Administración y Finanzas en un plazo de noventa días naturales.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 346.
 
@@ -3625,9 +3703,13 @@ El Ejecutivo estatal, otorgará las concesiones a las personas físicas o morale
 
 I. Previo diagnóstico elaborado por la Comisión Técnica de Movilidad, que sustente que existen concesiones vacantes o la necesidad de expedir nuevas, indicando su objeto, modalidad y requisitos;
 
-II. La persona interesada en obtener del titular del Poder Ejecutivo un Concesión, deberá presentar su solicitud a través del formato establecido y expedido por la Secretaría conforme al artículo 359 de la presente ley;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
 
-III. Recibida la solicitud para obtener concesión de servicio público de transporte, la Secretaría la turnará para su dictamen a la Comisión Técnica de Movilidad;
+II. La persona interesada en obtener una Concesión, deberá presentar su solicitud a través del formato establecido y expedido por la Secretaría conforme al artículo 359 de la presente ley;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+III. Recibida la solicitud para obtener concesión de servicio público de transporte, la Secretaría la turnará para su dictamen a la Comisión Técnica de Movilidad; previa emisión del estudio de factibilidad, rentabilidad y viabilidad que emite la Dirección de Movilidad e Imagen Urbana de la Secretaría de Movilidad;
 
 IV. Una vez recibido por la Comisión Técnica de Movilidad, el expediente de referencia, está deberá pronunciarse mediante Dictamen en cuyos resolutivos determinó que la parte interesada agotó debidamente el procedimiento necesario y satisfizo los requisitos exigidos para tal efecto por la ley, sobre la factibilidad o no de conceder o renovar la Concesión solicitada;
 
@@ -3731,85 +3813,31 @@ XIV. Designar libremente, en caso de ser persona física el concesionario, a qui
 
 ###### Artículo 362.
 
-La duración ordinaria de las concesiones será conforme a lo siguiente:
+La duración ordinaria de las concesiones en el caso del servicio público de pasajeros en cualquiera de sus modalidades será por diez años, y podrá prorrogarse a petición de sus titulares por periodos de igual tiempo, siempre que aquéllos acrediten haber cumplido con las condiciones que para tal efecto se impongan, y previo pago de derechos que establezcan las leyes aplicables. Esto sin perjuicio del derecho de los titulares de las concesiones a concursar por la concesión para las rutas correspondientes, para cuando hayan concluido los períodos de prórroga respectivos.
 
-I. De diez años, en el caso del servicio público de pasajeros en el caso de taxi en cualquiera de sus modalidades, y
-
-II. De diez años, en el caso del servicio público de transporte o colectivo de pasajeros en cualquiera de sus modalidades.
-
-A petición de sus titulares, las concesiones para los servicios públicos de pasajeros de taxi en cualquiera de sus respectivas modalidades, podrán prorrogarse por periodos de igual tiempo, siempre que aquéllos acrediten haber cumplido con las condiciones que para tal efecto se impongan, y previo el pago que establezcan las Leyes aplicables;
-
-Las concesiones para el servicio público de transporte colectivo de pasajeros en cualquiera de sus modalidades, podrán prorrogarse, a petición de sus titulares, por un período de diez años, siempre que aquéllos acrediten haber cumplido con las condiciones que para tal efecto se impongan, y previo el pago de los derechos correspondientes. Esto, sin perjuicio del derecho de los titulares de las concesiones a concursar por la concesión para las rutas correspondientes, para cuando hayan concluido los períodos de prórroga respectivos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2022)</small>
 
 ### CAPÍTULO VIII. DE LOS PERMISOS PARA PRESTAR EL SERVICIO DE TRANSPORTE PRIVADO Y LOS SERVICIOS ESPECIALIZADOS
 
 ###### Artículo 363.
 
-La concesión por su naturaleza es inembargable, en caso de ser persona física el concesionario, después de tres años de haberse otorgado, así como los derechos en él conferidos, será susceptibles de transmisión a terceros, mismos que deberán sujetarse previamente a las siguientes prescripciones:
-
-I. En caso de trasmisión:
-
-a. La transmisión del permiso no interrumpe el plazo previsto en el artículo 362 de la presente ley;
-
-b. Cumplir con lo previsto en las fracciones II, III, IV, V, VI, VII Y VIII del artículo 356 de la presente ley, y
-
-c. Protocolizar en escritura pública la transmisión mediante el pago del derecho correspondiente.
-
-II. En caso de sucesión:
-
-a. La Secretaría formulará una lista de sucesión en la que consten los nombres de las personas y el orden de preferencia que se respetará al hacer la adjudicación de derechos a su fallecimiento;
-
-b. La lista de sucesión deberá ser depositada en el registro de la Secretaría formalizada ante notario público; en este último caso, el fedatario estará obligado a verificar el depósito de la lista en el REPUMO.
-
-c. Con las mismas formalidades, la lista de sucesión podrá ser modificada por el propio concesionario, cuando así lo determine, en cuyo caso será válida la de fecha posterior, y
-
-d. A falta de lista de sucesión, en el caso de fallecimiento de su titular, los derechos se transmitirán conforme a las disposiciones en materia de sucesiones, establecidas en la legislación civil.
-
-En caso de sucesión no es necesario que haya transcurrido el periodo de tres años que refiere el presente artículo.
-
-Satisfechos los requisitos anteriores, el adquirente deberá tramitar el título de concesión que correspondiente que alude esta Ley.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2022)
 
 ###### Artículo 364.
 
-Si fallece el titular, la concesión deberá actualizarse en los términos de su vigencia, a favor de la persona que tenga derecho, conforme a lo dispuesto en la fracción XIV del artículo 361 de la presente Ley.
-
-Para hacer valer el derecho como sucesor, el interesado deberá presentar la solicitud correspondiente ante la Secretaría, en un plazo que no deberá exceder de sesenta días hábiles, a partir de la fecha del fallecimiento del titular de la concesión que dé origen a esta transmisión.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2022)
 
 ###### Artículo 365.
 
-Las concesiones y los derechos derivados de las mismas sólo podrán ser transmitidos o cedidos:
-
-I. Por vía sucesoria, única y exclusivamente cuando se trate de personas físicas; y
-
-II. En los supuestos que en forma expresa y restrictiva establece esta Ley para cada modalidad del servicio público de transporte.
-
-A excepción de las autorizaciones temporales, las cuales no podrán ser transmitidas o cedidas en ningún supuesto.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2022)
 
 ###### Artículo 366.
 
-Son requisitos para que opere la transmisión de una concesión y la cesión de los derechos derivados de la misma los siguientes:
-
-I. Que el concesionario acredite la titularidad de la concesión y sus elementos, mediante certificado expedido por el registro de la Secretaría, dentro de los treinta días anteriores a la celebración del contrato;
-
-II. Que el concesionario compruebe estar al corriente en el pago de los impuestos y derechos correspondientes y haber cumplido todas las obligaciones a su cargo que deriven de la concesión;
-
-III. Realizar el pago de los derechos que se establecen en la Ley de Ingresos del Estado para el ejercicio fiscal correspondiente;
-
-IV. Que el adquirente sea persona física o moral, y sea calificada y registrada por la Secretaría, y
-
-V. Que la cesión o transmisión de los derechos no esté en contravención a lo dispuesto en esta Ley.
-
-El incumplimiento de cualquiera de estos requisitos implicará la nulidad de pleno derecho del acto, independientemente de las sanciones que resulten aplicables al concesionario.
-
-También se puede transmitir cuando la concesión se hubiere otorgado en garantía en los términos del artículo 343 fracción X de esta Ley.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2022)
 
 ###### Artículo 367.
 
-Las concesiones otorgadas y los derechos que de las mismas se deriven, serán susceptibles de transmisión conforme a las siguientes condiciones:
-
-I. Para ceder o traspasar sus derechos, el concesionario deberá obtener autorización previa de la Secretaría, y
-
-II. El adquirente deberá reunir los requisitos que se establezcan en el Reglamento correspondiente.
+(DEROGADO, P.O. 26 DE AGOSTO DE 2022)
 
 ### CAPÍTULO IX. DE LOS PERMISOS EXTRAORDINARIOS
 
@@ -4117,13 +4145,23 @@ II. Extinción, disolución, liquidación, quiebra o concurso de la persona mora
 
 III. Renuncia del titular, admitida por la Secretaría;
 
-IV. Transmisión del derecho, sin autorización de la Secretaría;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+IV. Transmisión de la concesión, a título gratuito u oneroso;
 
 V. La omisión del pago de las contribuciones relacionadas con las autorizaciones, concesión y permisos;
 
-VI. Revocación, y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
 
-VII. Las demás que se deriven de la presente Ley y/o que se establezcan en su Reglamento.
+VI. Revocación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2022)</small>
+
+VII. Mediante dictamen técnico que emita la Comisión Técnica de Movilidad, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE AGOSTO DE 2022)</small>
+
+VIII. Las demás que se deriven de la presente Ley y/o que se establezcan en su Reglamento.
 
 ###### Artículo 399.
 
@@ -4133,7 +4171,9 @@ I. Que el titular de la autorización, concesión o del permiso, por sí mismo o
 
 II. Cuando se compruebe por la autoridad competente y en última instancia que la aplicación tecnológica o el vehículo que se utilice para prestar el servicio de transporte a través de aplicaciones móviles, ha sido instrumento para la comisión de algún delito, por el titular de la autorización, concesión o permiso, algún miembro operador, conductor o partícipe de la autorización, concesión o permiso;
 
-III. Por utilidad pública, y
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2022)</small>
+
+III. Por utilidad pública, mediante dictamen técnico que emita la Comisión Técnica de Movilidad, y
 
 IV. Las demás que establezca la presente Ley y su Reglamento.
 
@@ -4281,17 +4321,23 @@ Los usuarios tienen interés legítimo y en consecuencia el derecho de denunciar
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 411.
 
 La Secretaría tendrá a su cargo la supervisión, vigilancia y control del servicio de transporte público en cualquiera de sus modalidades para garantizar el cumplimiento de esta Ley, los reglamentos que de ella deriven, y demás disposiciones legales aplicables. Le corresponde aplicar las disposiciones administrativas y las sanciones de acuerdo con la normatividad, así como vigilar la aplicación de sanciones, detención, retiro y depósito vehicular del transporte, por violación de las disposiciones de esta Ley y sus respectivos reglamentos, en que incurran los concesionarios, permisionarios y operadores del servicio de transporte público, mercantil y privado, así como los propietarios y conductores de vehículos particulares, en vías públicas en el Estado.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 412.
 
-La Secretaría, por conducto de los oficiales supervisores, peritos y su personal autorizado, llevarán a cabo la inspección y verificación del cumplimiento de la presente Ley y sus reglamentos, y una vez que se conozca, se percate o se tenga pruebas contundentes de la comisión de infracciones o violaciones a la presente Ley y sus reglamentos, llevadas a cabo por los conductores, poseedores, pasajeros, propietarios, concesionarios o permisionarios, sean personas físicas o morales; en la explotación, conducción, uso u operación de los servicios de transporte público, mercantil o privado en todas sus modalidades, de personas y carga, así como los propietarios y conductores de vehículos particulares, en vías públicas en el Estado; levantarán la boleta de infracción correspondiente, de conformidad a las disposiciones de la Ley y su Reglamento respectivo.
+La Secretaría, por conducto de los oficiales supervisores, agentes de movilidad, peritos e inspectores, llevarán a cabo la inspección y verificación del cumplimiento de la presente Ley y sus reglamentos, y una vez que se conozca, se percate o se tenga pruebas contundentes de la comisión de infracciones o violaciones a la presente Ley y sus reglamentos, llevadas a cabo por los conductores, poseedores, pasajeros, propietarios, concesionarios o permisionarios, sean personas físicas o morales; en la explotación, conducción, uso u operación de los servicios de transporte público, mercantil o privado en todas sus modalidades, de personas y carga, así como los propietarios y conductores de vehículos particulares, en vías públicas en el Estado; levantarán la boleta de infracción correspondiente, de conformidad a las disposiciones de la Ley y su Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 413.
 
-La Secretaría por conducto de su personal autorizado y los cuerpos de seguridad vial municipales, en el ámbito de sus competencias y de acuerdo a las necesidades operativas, trabajarán de forma coordinada para atender adecuadamente eventos que impacten en la operación y seguridad vial, tomando en cuenta los elementos básicos de la movilidad que se incluyen en la presente Ley.
+La Secretaría por conducto de los oficiales supervisores, peritos e inspectores y los cuerpos de seguridad vial municipales, en el ámbito de sus competencias y de acuerdo a las necesidades operativas, trabajarán de forma coordinada para atender adecuadamente eventos que impacten en la operación y seguridad vial, tomando en cuenta los elementos básicos de la movilidad que se incluyen en la presente Ley.
 
 ###### Artículo 414.
 
@@ -4341,7 +4387,9 @@ IV. Los solicitantes para obtener licencia de conducir, y
 
 V. Los usuarios, peatones y ciclistas.
 
-Los agentes de tránsito están obligados al conocimiento de esta Ley y se les impartirán, en forma programada y permanente, cursos de actualización en materia de educación vial.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
+Los policías viales y los agentes de movilidad están obligados al conocimiento de esta Ley y su Reglamento, se les impartirán en forma programada y permanente cursos de actualización en materia de educación vial.
 
 ###### Artículo 420.
 
@@ -4417,7 +4465,7 @@ Los proyectos de infraestructura para crear ciclovías en las vialidades nuevas 
 
 ###### Artículo 429.
 
-Las infracciones en materia de movilidad y transporte, serán sancionadas administrativamente, se harán constar por medio de cédula de notificación de infracción por conducto de la policía vial, en los términos de esta ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción. El monto de las sanciones se determina en unidades de medida y actualización.
+Las infracciones en materia de movilidad y transporte, serán sancionadas administrativamente, se harán constar por medio de cédula de notificación de infracción por conducto de los policías viales o de los agentes de movilidad respectivamente, en los términos de esta ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción. El monto de las sanciones se determina en unidades de medida y actualización.
 
 ###### Artículo 430.
 
@@ -4621,13 +4669,17 @@ c) Huir con o sin vehículo del lugar del accidente;
 
 d) Por conducir un vehículo automotor utilizando aparatos electrónicos de comunicación o cualquier otro análogo que representen un distractor para la conducción segura; exceptuando a los conductores que operen aparatos de radio frecuencia por motivo de su trabajo, así como, los vehículos de seguridad pública y ambulancias, y
 
-e) A quien conduzca cualquier vehículo de los señalados en las fracciones I y III del artículo 130 de esta Ley, bajo los efectos de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas o tengan una cantidad de alcohol en la sangre superior a 0.8 gramos por litro, en la orina 1.3 miligramos de alcohol por mililitro o de alcohol en aire expirado superior a 0.4 miligramos por litro, así como, arresto inconmutable de entre veinte y treinta y seis horas y de una a tres jornadas de trabajo a favor de la comunidad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE AGOSTO DE 2022)</small>
+
+e) A quien conduzca cualquier vehículo bajo los efectos de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas o se encuentren en los supuestos del tercer párrafo del artículo 155 de esta Ley, así como arresto inconmutable de entre veinte y treinta y seis horas y de una a tres jornadas de trabajo a favor de la comunidad.
 
 Para los efectos de esta Ley las jornadas de trabajo en favor de la comunidad consistirán en la prestación de servicios no remunerados, en instituciones públicas, educativas, de asistencia o servicio social, en instituciones privadas de asistencia no lucrativas, que la ley respectiva regule o en actividades provechosas de diversa índole que beneficien a la población.
 
 Las jornadas de trabajo a favor de la comunidad se realizarán en períodos distintos al horario de las labores que represente la fuente de ingresos para la subsistencia del sentenciado y la de su familia, sin que pueda exceder de la jornada extraordinaria que determina la ley laboral, y
 
-f) A quien conduzca cualquier vehículo de los señalados en las fracciones I y III del artículo 130 de esta Ley, bajo los efectos del alcohol, en cantidades menores al inciso inmediato anterior; así como, arresto inconmutable de entre doce y veinticuatro horas y de una a tres jornadas de trabajo a favor de la comunidad.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
+f) A quien conduzca cualquier vehículo particular bajo los efectos del alcohol, en cantidades menores a las establecidas en el artículo 155 de esta Ley; así como, arresto inconmutable de entre doce y veinticuatro horas y de una a tres jornadas de trabajo a favor de la comunidad.
 
 VI. Se aplicará de ochenta hasta cien veces la UMA por:
 
@@ -4635,11 +4687,15 @@ a) El cambio de carrocería del vehículo, serie o cualquier elemento que altere
 
 b) A quien oferte o preste el servicio público de transporte concesionado, sin la respectiva concesión;
 
-c) A quien conduzca unidades destinadas al servicio público concesionado bajo los efectos de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas o tengan una cantidad de alcohol en la sangre superior a 0.8 gramos por litro en la orina 1.3 miligramos de alcohol por mililitro o de alcohol en aire expirado superior a 0.4 miligramos por litro, así como, arresto inconmutable de entre veinte y treinta y seis horas y de una a tres jornadas de trabajo a favor de la comunidad;
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
 
-d) Si la infracción a que se refiere el inciso c) de la presente fracción, se comete prestando el servicio, la multa aumentará de cien a ciento veinte días de la UMA;
+c) A quien conduzca unidades de transporte de pasajeros o de carga bajo los efectos de sustancias psicotrópicas, estupefacientes o cualquier otra que altere el comportamiento de las personas o bajo los efectos del alcohol en los términos del artículo 155 de esta Ley, así como arresto inconmutable de entre veinte y treinta y seis horas y de una a tres jornadas de trabajo a favor de la comunidad.
 
-e) A quien conduzca unidades destinadas al servicio público concesionado bajo los efectos del alcohol en cantidades menores a las establecidas en el inciso c) de la presente fracción; así como, arresto inconmutable de entre doce y veinticuatro horas y de una a tres jornadas de trabajo a favor de la comunidad;
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2022)</small>
+
+d) Si la infracción a que se refiere el inciso c) de la presente fracción, se comete prestando el servicio público de transporte concesionado, la multa aumentará de cien a ciento veinte días de la UMA;
+
+e) (DEROGADO, P.O. 26 DE AGOSTO DE 2022)
 
 f) Por conducir un vehículo automotor destinado al servicio público y especializado utilizando aparatos electrónicos de comunicación o cualquier otro análogo que representen un distractor para la conducción segura; exceptuando a los conductores que operen aparatos de radio frecuencia por motivo de su trabajo.
 
@@ -4810,3 +4866,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los Ayuntamientos deberán armonizar sus respectivos reglamentos en materia de tránsito y movilidad en lo referente al presente Decreto dentro de los noventa días contados a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 TERCERO. Durante el periodo de 90 días naturales posteriores a la entrada en vigor del presente Decreto, los Ayuntamientos emprenderán campañas de información, concientización y respeto al ciclista; así mismo, durante el mismo plazo, las autoridades viales solo podrán amonestar a los infractores.
+
+P.O. 26 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT, EN MATERIA DE CONCESIONES O PERMISOS DE TRANSPORTE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. En un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones reglamentarias.
