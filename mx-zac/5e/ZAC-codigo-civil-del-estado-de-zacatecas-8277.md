@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "2022-05-04"
+last_updated: "2022-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2022.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -327,7 +327,11 @@ VI.- La nacionalidad.
 
 43.- La capacidad de ejercicio para celebrar actos jurídicos, cumplir obligaciones y hacer valer derechos, se reconoce por este Código a los mayores de edad en pleno uso de sus facultades mentales y a los menores emancipados, en los casos declarados expresamente.
 
-44.- La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por esta ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+(NOTA: EL 4 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 136/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2022)</small>
+
+44.- El estado de interdicción y las demás condiciones de discapacidad establecidas por este Código, deberán ser valoradas en cada caso para decidir qué tipo de ajustes razonables se requieren a fin de que las decisiones que tengan relevancia jurídica y afecten la vida de las personas en tal situación puedan ser válidas y acordes con sus derechos humanos; las personas con discapacidad pueden ejercitar sus derechos o contraer obligaciones mediante el apoyo de sus representantes, sin que las decisiones que, en su caso, tomen estos sean contrarias a su voluntad, atenten contra su dignidad humana o socaven sus derechos.
 
 45.- No pueden crearse incapacidades por contrato, aquéllas sólo emanan de la naturaleza de las personas o de esta ley.
 
@@ -5953,9 +5957,9 @@ Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que con
 
 1938.- El mandato puede ser general o especial: son generales los contenidos en los tres primeros párrafos del artículo siguiente; cualquiera otro mandato tendrá el carácter de especial.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2022)</small>
 
-Ningún poder se otorgará por una duración mayor a tres años, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque.
+El mandato deberá contener el plazo por el que se confiere, de no hacerlo se presume que ha sido otorgado por tres años, salvo que antes de que se cumpla ese tiempo, el mandante lo revoque.
 
 1939.- En todos los poderes generales para pleitos y cobranzas bastará que se diga que se otorga con todas las facultades generales y especiales que requieran cláusulas especiales conforme a la ley para que se entiendan conferidos sin limitación alguna.
 
@@ -8324,6 +8328,14 @@ Artículo segundo. Se derogan las disposiciones que contravengan el presente Dec
 P.O. 4 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 97.- SE REFORMA UN DISPOSITIVO DEL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 27 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 113.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE ZACATECAS".]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
