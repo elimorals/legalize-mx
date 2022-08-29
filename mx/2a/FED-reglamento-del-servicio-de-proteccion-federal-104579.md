@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-servicio-de-proteccion-federal-104579"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-01-16"
-last_updated: "2015-01-16"
+last_updated: "2022-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104579&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-01-13"
 ---
 # REGLAMENTO DEL SERVICIO DE PROTECCION FEDERAL
 
-REGLAMENTO DEL SERVICIO DE PROTECCIÓN FEDERAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO DE PROTECCIÓN FEDERAL, PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DEL SERVICIO DE PROTECCIÓN FEDERAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de enero de 2015.
 
@@ -1506,3 +1508,27 @@ NOVENO.- Los procedimientos relativos al incumplimiento de los requisitos de per
 DÉCIMO.- La Secretaría de Gobernación realizará las acciones necesarias para que la implementación de este Reglamento, se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementará su presupuesto regularizable.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a trece de enero de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DEL SERVICIO DE PROTECCIÓN FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Servicio de Protección Federal publicado el 16 de enero de 2015 en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan las disposiciones administrativas que se opongan al presente Decreto.
+
+CUARTO.- La Dirección General de Administración del Servicio de Protección Federal deberá realizar las gestiones y trámites administrativos correspondientes ante las autoridades competentes para la incorporación de los Guardias que cumplan con los requisitos establecidos en las disposiciones jurídicas aplicables.
+
+QUINTO.- Los asuntos que se encuentren en trámite en las unidades administrativas del Servicio de Protección Federal, previo a la fecha de entrada en vigor del presente Decreto, se resolverán de conformidad con las disposiciones al momento de iniciar dichos asuntos.
+
+SEXTO.- Las Estaciones del Servicio de Protección Federal que previamente se hayan establecido a la entrada en vigor del presente Decreto, continuarán ejerciendo sus atribuciones, en los términos y bajo las condiciones en que se vienen realizando, hasta en tanto se elaboren y aprueben los manuales de organización del Servicio de Protección Federal, de conformidad con el presente ordenamiento.
+
+SÉPTIMO.- Los requisitos de antigüedad en el servicio y jerarquía, previstos en el artículo 35 del presente ordenamiento, serán aplicables a las personas servidoras públicas de la Institución que se incorporen al Servicio de Protección Federal posterior a la fecha de entrada en vigor del presente Decreto.
+
+OCTAVO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, así como las modificaciones a las atribuciones conferidas a la estructura orgánica del Servicio de Protección Federal, deberán cubrirse con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
+
+NOVENO.- Cuando en términos del artículo 102 de este Reglamento, el auxilio que proporcione el Servicio de Protección Federal al Órgano Interno de Control, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforma, adiciona y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 30 de noviembre de 2018 en el Diario Oficial de la Federación.
