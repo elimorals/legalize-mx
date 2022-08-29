@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-imagen-institucional-del-estado-de-quintana-roo-130911"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-17"
-last_updated: "2018-10-17"
+last_updated: "2022-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE IMAGEN INSTITUCIONAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 17 de octubre de 2018.
 
@@ -211,21 +211,25 @@ Para determinar las sanciones administrativas para los servidores públicos que 
 
 ## TRANSITORIOS
 
-PRIMERO. Las disposiciones contenidas en el presente decreto, previa su publicación en el Periódico Oficial del Estado de Quintana Roo, entrarán en vigor en los plazos y formas siguientes:
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 29 DE AGOSTO DE 2022)</small>
 
-a) La imagen institucional de los Municipios del Estado, será exigible en los términos del presente decreto a partir del inicio de las administraciones públicas municipales 2018 – 2021 y su cumplimiento total tendrá como plazo el mes de agosto del año en que culmine la administración pública municipal.
+PRIMERO. Las disposiciones contenidas en el presente Decreto, previa su publicación en el Periódico Oficial del Estado de Quintana Roo, entrarán en vigor en los plazos y formas siguientes:
 
-b) La imagen institucional del Poder Legislativo del Estado de Quintana Roo será exigible en términos de la presente ley y deberá cumplirse en su totalidad, teniendo como plazo para tal efecto, el mes de agosto del año 2019, en que culmine la H. XV Legislatura del Estado.
+a) La imagen institucional de los Municipios del Estado, será exigible en los términos del presente Decreto a partir del inicio de las Administraciones Públicas Municipales 2021-2024 y su cumplimiento total tendrá como plazo el mes de agosto del año en que culmine la Administración Pública Municipal.
 
-c) La imagen institucional del Poder Ejecutivo, deberá cumplir en su totalidad con las disposiciones contenidas en el presente decreto, teniendo como plazo fatal para su cumplimiento el primer día del mes de agosto del año 2022.
+b) La imagen institucional del Poder Legislativo del Estado de Quintana Roo, será exigible en términos de la presente ley y deberá cumplirse en su totalidad, teniendo como plazo para tal efecto, el mes de agosto del año 2024, en que culmine la H. XVII Legislatura del Estado.
 
-d) En el caso del Poder Judicial serán aplicables las disposiciones del presente decreto a partir del primer día del mes de enero del año 2020.
+c) La imagen institucional del Poder Ejecutivo, deberá cumplir en su totalidad con las disposiciones contenidas en el presente Decreto, teniendo como plazo fatal para su cumplimiento el primer día del mes de agosto del año 2024.
 
-e) Las disposiciones contenidas en el presente decreto, orientadas a regular la imagen institucional de los órganos autónomos del Estado serán aplicables a partir del primero de enero del año 2022.
+d) En el caso del Poder Judicial serán aplicables las disposiciones del presente Decreto a partir del primer día del mes de enero del año 2024.
+
+e) Las disposiciones contenidas en el presente Decreto, orientadas a regular la imagen institucional de los órganos autónomos del Estado serán aplicables a partir del primer día del mes de agosto del año 2024.
 
 SEGUNDO. De forma independiente a los plazos de cumplimiento establecidos en el numeral anterior, los entes públicos obligados por las disposiciones que componen el presente ordenamiento deberán mantener vigente el cumplimiento de las obligaciones en materia de imagen institucional en lo subsecuente.
 
-TERCERO. Los Ayuntamientos de los Municipios del Estado que gobiernen durante el periodo 2018 – 2021, en tanto les es exigible el contenido del presente ordenamiento, deberán abstenerse de identificar bienes muebles e inmuebles con eslóganes, imágenes y colores que tengan relación directa con los emblemas de los partidos políticos nacionales o locales, o asociación política.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2022)</small>
+
+TERCERO. Los Ayuntamientos de los Municipios del Estado que gobiernen durante el periodo 2021-2024, en tanto les es exigible el contenido del presente ordenamiento, deberán abstenerse de identificar bienes muebles e inmuebles con eslóganes, imágenes y colores que tengan relación directa con los emblemas de los partidos políticos nacionales o locales, o asociación política.
 
 CUARTO. Se derogan todas las disposiciones legales que contravengan lo dispuesto por el presente Decreto.
 
@@ -256,3 +260,11 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 RUBRICA
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 262 POR EL QUE SE REFORMAN LOS TRANSITORIOS PRIMERO Y TERCERO DE LA LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
