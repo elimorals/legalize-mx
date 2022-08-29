@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2022-08-10"
+last_updated: "2022-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2022.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2709,6 +2709,8 @@ A quien se coloque en estado de insolvencia, con el objeto de eludir las obligac
 
 ### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 224.
 
 Extorsión
@@ -2867,15 +2869,23 @@ El sentenciado por los delitos de abuso de confianza, fraude e insolvencia fraud
 
 ###### Artículo 236.
 
-Operaciones con recursos de procedencia ilícita
+Operaciones con recurso (sic) de procedencia ilícita. A quien por sí o a través de otra persona adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera dentro del territorio estatal, recursos, derechos o bienes de cualquier naturaleza, cuanto tenga conocimiento de que proceden o representan el producto de una actividad ilícita; u, oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita, se le impondrá de cinco a quince años de prisión y una multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
 
-A quien por sí o a través de otra persona adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera recursos o bienes de cualquier naturaleza que procedan de una actividad ilícita se le impondrá de cinco a diez años de prisión.
+Para efectos de este capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando provengan directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 237.
 
 Operaciones con recursos de procedencia ilícita agravados
 
-Las penas previstas en el artículo anterior se agravarán en un tercio, cuando el delito se cometa por un servidor público. En este caso, se impondrá la destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por el doble del término de la pena de prisión impuesta.
+Las penas previstas en el artículo anterior se aumentarán desde un tercio hasta en una mitad, cuando:
+
+I. El sujeto activo tenga el carácter de consejero, administrador, funcionario, empleado, apoderado o prestador de servicios de cualquier persona jurídica sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita, en el ámbito de competencia estatal; y,
+
+II. La conducta sea cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales. Además se impondrá la destitución e inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual del término de la pena de prisión que se imponga. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
+
+En las conductas previstas en el artículo anterior, la pena de prisión, se aumentará en una mitad cuando sean utilizadas personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tienen capacidad para resistirlo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -3705,11 +3715,15 @@ II. Interrumpa o dificulte el servicio público local de comunicación o de tran
 
 Se impondrá de veinte a cincuenta días multa al dueño y al encargado de la vigilancia y custodia, de una o más cabezas de ganado, que deambulen en cualquier vía terrestre de comunicación. Se entiende que deambulan cuando se encuentren en las vías de comunicación o las atraviesan sin estar vigilados por personas que las conduzcan de acuerdo con las disposiciones legales relativas y con las debidas precauciones, de modo que no constituyan peligro a los usuarios de las vías terrestres de comunicación.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2022)</small>
+
 ###### Artículo 290.
 
-Agravantes
+Si alguno de los hechos a que se refiere este capítulo, se ejecuta:
 
-Si alguno de los hechos a que se refiere este capítulo se ejecuta por medio de violencia, la pena se aumentará hasta en cinco años de prisión.
+I. Por medio de violencia, la pena se aumentará hasta en cinco años de prisión; y,
+
+II. Con el objeto de favorecer la comisión de ilícitos y la acción delincuencial, la pena será de cinco a diez años de prisión y una multa de trescientas a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2017)</small>
 
@@ -3755,9 +3769,33 @@ No se procederá contra quien, en ejercicio de la patria potestad, tutela o cust
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
+### CAPÍTULO V. FALSIFICACIÓN Y USO INDEBIDO DE INSIGNIAS Y UNIFORMES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2022)</small>
+
+Artículo 301 ter. A quien cometa el delito de falsificación de uniformes e insignias de las instituciones de seguridad pública, se le impondrá de uno a seis años de prisión y multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Comete el delito de falsificación de uniformes e insignias, quien:
+
+I. Elabore, fabrique, confeccione, produzca, imprima, almacene, distribuya o comercialice, insignias, uniformes, placas, gafetes, distintivos, escudos o cualquier otra identificación de las instituciones de seguridad pública, sin contar con la autorización de la institución correspondiente; y,
+
+II. Contando con autorización de la institución de seguridad pública para elaborar, fabricar, confeccionar, producir, imprimir, pintar, almacenar y distribuir sus placas, divisas, medallas, distintivos, gafetes, escudos, insignias, uniformes o cualquier otra identificación, de cualquier forma entregue o distribuya dichos objetos a personas físicas o morales distintas a las autorizadas para tal fin.
+
+Para los efectos de este artículo, se entiende por insignias, uniformes, placas, gafetes, distintivos, escudos o cualquier otra identificación de las instituciones de seguridad pública, los señalados en las disposiciones aplicables de las instituciones de Seguridad Pública del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2022)</small>
+
+Artículo 301 quáter. Se impondrá de uno a seis años de prisión y multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización, a quien:
+
+I. Utilice insignias, uniformes, placas, gafetes, distintivos, escudos o siglas de instituciones de seguridad pública, a las que no tenga derecho o cualquier identificación que se asemeje a las anteriores, con el propósito de cometer un acto ilícito; y,
+
+II. Utilice vehículos pertenecientes a instituciones de seguridad pública a los que no tenga derecho, o cualquier otro vehículo con balizaje, colores o equipamiento que se asemeje a los utilizados por instituciones de seguridad pública, con el propósito de cometer un acto ilícito.
+
+Para efectos del presente Capítulo, se entiende por instituciones de Seguridad Pública a la Fiscalía General del Estado, a la Secretaría de Seguridad Pública, a la Policía Auxiliar del Estado de Michoacán de Ocampo, a la Coordinación del Sistema Penitenciario del Estado de Michoacán de Ocampo, a las Policías del Estado de Michoacán de Ocampo y a las Policías Municipales del Estado.
+
+También se entiende por instituciones de seguridad pública, exclusivamente para efectos del presente Capítulo, a las personas físicas o morales que prestan servicios de seguridad privada o comunitaria, y que cuentan con autorización de la Secretaría de Seguridad Pública del Estado.
+
+Las sanciones previstas en este capítulo se impondrán, con independencia de las que correspondan por otros delitos.
 
 ###### Artículo 295.
 
@@ -3769,7 +3807,9 @@ A quien revele, divulgue o utilice, información o imágenes obtenidas en una in
 
 ## TÍTULO VIGÉSIMO SEGUNDO. DELITOS CONTRA LA FE PÚBLICA
 
-### CAPÍTULO II. DELITOS DE VIOLENCIA CONTRA ANIMALES
+### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 296.
 
@@ -3793,7 +3833,7 @@ VII. A quien utilice indebidamente información confidencial o reservada de la i
 
 VIII. Produzca, imprima, enajene, distribuya, altere o falsifique vales utilizados para canjear bienes y servicios.
 
-### CAPÍTULO ÚNICO. DELITOS CONTRA LA DEMOCRACIA ELECTORAL
+### CAPÍTULO II. DELITOS DE VIOLENCIA CONTRA ANIMALES
 
 ###### Artículo 297.
 
@@ -3807,7 +3847,7 @@ II. Use los objetos falsificados o alterados señalados en la fracción anterior
 
 Las penas señaladas se aumentarán hasta en una mitad, cuando el objeto falsificado o alterado sea público.
 
-### CAPÍTULO I. REBELIÓN
+### CAPÍTULO ÚNICO. DELITOS CONTRA LA DEMOCRACIA ELECTORAL
 
 ###### Artículo 298.
 
@@ -3819,7 +3859,7 @@ Las mismas penas se impondrán a quien utilice, adquiera o enajene cualquiera de
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO II. SABOTAJE
+### CAPÍTULO I. REBELIÓN
 
 ###### Artículo 299.
 
@@ -3865,11 +3905,13 @@ Artículo 301 bis. Usurpación de Identidad.
 
 Se impondrán de dos a cinco años de prisión y de doscientos a quinientos días de multa, a quien sin la autorización previa de quien pueda otorgarla, utilice datos personales, para realizar actos jurídicos o de cualquier otra índole, con la finalidad de obtener beneficios para sí o para otro o con el fin de perjudicar de algún modo al usurpado.
 
-### CAPÍTULO III. MOTÍN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2022)</small>
+
+### CAPÍTULO II. SABOTAJE
 
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA EL AMBIENTE Y LA FAUNA
 
-### CAPÍTULO IV. SEDICIÓN
+### CAPÍTULO III. MOTÍN
 
 ###### Artículo 302.
 
@@ -3996,6 +4038,8 @@ Delito contra el desarrollo urbano calificado
 Se impondrá de cuatro a diez años de prisión y multa de mil a tres mil veces el valor diario de la Unidad de Medida y Actualización, al funcionario o servidor público que autorice un asentamiento humano irregular.
 
 La misma sanción se impondrá al fedatario público que en ejercicio de sus funciones dolosamente intervenga en un asentamiento humano irregular.
+
+### CAPÍTULO IV. SEDICIÓN
 
 ###### Artículo 309.
 
@@ -4438,3 +4482,9 @@ P.O. 10 DE AGOSTO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 187 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 236, 237 Y 290; Y, SE ADICIONA EL CAPÍTULO V AL TÍTULO VIGÉSIMO SEGUNDO DEL LIBRO SEGUNDO, LOS ARTÍCULOS 301 TER Y 301 QUÁTER, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
