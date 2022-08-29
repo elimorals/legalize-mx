@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2022-06-30"
+last_updated: "2022-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -201,9 +201,9 @@ V. QUINTO CIRCUITO:
 
 2. Seis tribunales unitarios con sede en Hermosillo.
 
-> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 58/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE ENERO DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 14/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2022)</small>
 
-3. Trece Juzgados de Distrito en el Estado de Sonora: siete con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
+3. Trece Juzgados de Distrito en el Estado de Sonora: ocho con sede en Hermosillo, dos con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
 
 VI. SEXTO CIRCUITO:
 
@@ -427,9 +427,9 @@ XXII. VIGESIMO SEGUNDO CIRCUITO:
 
 2. Un tribunal unitario con sede en Querétaro.
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 16/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 15/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2022)</small>
 
-3. Nueve juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos de Procesos Penales Federales y de Amparo y siete de Amparo y Juicios Federales.
+3. Nueve juzgados de Distrito especializados en el Estado de Querétaro, con residencia en la ciudad del mismo nombre: dos en materia penal y siete en materia de amparo civil, administrativo y de trabajo y de juicios federales.
 
 XXIII. VIGESIMO TERCER CIRCUITO:
 
@@ -8818,3 +8818,31 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. Las (sic) Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Cuarto de Distrito en Materia Administrativa en el Estado de Nuevo León, con residencia en Monterrey, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Cuarto de Distrito en Materia Administrativa en el Estado de Nuevo León, con residencia en Monterrey.
+
+D.O.F. 29 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 14/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO DECIMOCUARTO DE DISTRITO EN EL ESTADO DE SONORA, CON RESIDENCIA EN HERMOSILLO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; Y QUE REFORMA Y DEROGA EL ACUERDO GENERAL 5/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA DE FORMA TEMPORAL LA DILIGENCIACIÓN DE COMUNICACIONES OFICIALES DE PROCESOS PENALES FEDERALES, QUE IMPLIQUEN AFECTACIÓN DE LA SITUACIÓN JURÍDICA DEL PROCESADO, EN LOS JUZGADOS DE DISTRITO EN LOS ESTADOS DE SONORA, CON RESIDENCIA EN HERMOSILLO; VERACRUZ, CON SEDE EN VILLA ALDAMA; TAMAULIPAS, CON RESIDENCIA EN MATAMOROS Y NAYARIT, CON SEDE EN LA LOCALIDAD DE "EL RINCÓN" Y EN LA CIUDAD DE TEPIC; ASÍ COMO EN LA LAGUNA, CON RESIDENCIA EN TORREÓN, COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Decimocuarto de Distrito en el Estado de Sonora, con residencia en Hermosillo, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Decimocuarto de Distrito en el Estado de Sonora, con residencia en Hermosillo.
+
+D.O.F. 29 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 15/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA MODIFICACIÓN DE LA ESPECIALIZACIÓN DE LOS JUZGADOS DE DISTRITO EN EL ESTADO DE QUERÉTARO, CON RESIDENCIA EN QUERÉTARO; A LAS OFICINAS DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁN SERVICIO; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO REFERIDOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información realizarán de manera oportuna todas las acciones necesarias para la ejecución del presente Acuerdo.
+
+CUARTO. Los Juzgados de Distrito en Materia Penal en el Estado de Querétaro y los Juzgados de Distrito en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, conservarán la competencia necesaria para seguir actuando, hasta su conclusión y archivo definitivo, en los juicios de amparo que les fueron turnados previamente al 1 de septiembre de 2022.
+
+QUINTO. Las audiencias, diligencias o notificaciones que deban llevar a cabo los Juzgados de Distrito en Materia Penal en el Estado de Querétaro, conforme a la legislación de la materia, podrán desahogarse por videoconferencia, medios electrónicos o de manera presencial. Para efectos de la videoconferencia, se estará a lo previsto en el Acuerdo General 12/2020, del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite del expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo.
+
+Se autoriza el uso de las instalaciones del Centro de Justicia Penal Federal en el Estado de Querétaro por parte de los Juzgados de Distrito en Materia Penal en el Estado de Querétaro, en caso de que su titular lo considere necesario. Las personas titulares de los órganos jurisdiccionales referidos se coordinarán para ello con el personal del Centro, el que debe facilitar el espacio físico necesario para el desarrollo de la actuación de que se trate.
