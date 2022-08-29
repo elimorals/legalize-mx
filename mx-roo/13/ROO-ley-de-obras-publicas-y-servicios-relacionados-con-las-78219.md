@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-obras-publicas-y-servicios-relacionados-con-las-78219"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-10"
-last_updated: "2021-12-21"
+last_updated: "2022-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de diciembre de 2010.
 
@@ -143,7 +143,9 @@ VI.- La planeación y el diseño, incluyendo los trabajos que tengan por objeto 
 
 VII.- Los trabajos de preparación de especificaciones de construcción, presupuestación, programación o la elaboración de cualquier otro documento o trabajo para la adjudicación del contrato de obra correspondiente;
 
-VIII.- Los trabajos de coordinación, dirección o supervisión y control de obra; de laboratorio de análisis y control de calidad; de laboratorio de geotecnia, de resistencia de materiales y radiografías industriales;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2022)</small>
+
+VIII.- Los trabajos de coordinación, dirección o supervisión y control de obra, incluyendo los servicios que deberán ser proporcionados por los Peritos Responsables de Obra y Corresponsables en términos de lo dispuesto por la Ley de Acciones Urbanísticas del Estado de Quintana Roo, de laboratorio de análisis y control de calidad; de laboratorio de geotecnia, de resistencia de materiales y radiografías industriales;
 
 IX.- Los trabajos de organización, informática, comunicaciones, cibernética y sistemas aplicados a las materias que regula esta ley;
 
@@ -241,7 +243,9 @@ VII.- Las investigaciones, asesorías, consultorías y estudios que se requieran
 
 VIII.- La regularización y adquisición de la tenencia de la tierra, así como la obtención de los permisos, licencias, dictámenes, derechos sobre bancos de materiales de construcción necesarios, así como la propiedad o los derechos de propiedad, incluyendo los derechos de vía y expropiación de los inmuebles sobre los cuales se ejecutará la obra; en las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista;
 
-IX.- La ejecución, que deberá incluir el costo directo estimado de la obra que se realice por contrato o por administración directa, incluyéndose la supervisión, las pruebas de control de calidad, las pruebas de funcionamiento y puesta en servicio, así como los costos indirectos de la obra y la previsión para ajuste de costos;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2022)</small>
+
+IX.- La ejecución, que deberá incluir el costo directo estimado de la obra que se realice por contrato o por administración directa, incluyéndose la supervisión, las pruebas de control de calidad, las pruebas de funcionamiento y puesta en servicio, así como los costos indirectos de la obra y la previsión para ajuste de costos; incluyéndose también los servicios que deberán ser proporcionados por los Peritos Responsables de Obra y Corresponsables en términos de lo dispuesto por la Ley de Acciones Urbanísticas del Estado de Quintana Roo;
 
 X.- Los trabajos de conservación y mantenimiento preventivo y correctivo de los bienes inmuebles a su cargo;
 
@@ -441,7 +445,9 @@ XVII.- La forma en que los licitantes acreditarán su experiencia y capacidad t�
 
 XVIII.- Proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables, en el caso de las especificaciones particulares, deberán ser firmadas por el responsable del proyecto;
 
-XIX.- Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado, y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionales que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2022)</small>
+
+XIX.- Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado, y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionales que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico, incluyendo a los Peritos Responsables de Obra y Corresponsables en términos de lo dispuesto por la Ley de Acciones Urbanísticas del Estado de Quintana Roo;
 
 XX.- Relación de materiales y equipo de instalación permanente que, en su caso, proporcione la convocante, debiendo acompañar los programas de suministro correspondientes;
 
@@ -817,9 +823,11 @@ El contratista que no reintegre el saldo por amortizar en el plazo señalado cub
 
 La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo, y la dependencia, entidad o ayuntamiento contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deban llevarse a cabo. El incumplimiento de la instancia convocante prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. La entrega deberá constar por escrito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 49.
 
-Las instancias convocantes establecerán la residencia de obra con anterioridad a la iniciación de las mismas, la cual deberá recaer en un servidor público designado por la misma instancia, quien fungirá como su representante ante el contratista y será el responsable directo de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por los contratistas. La residencia de obra deberá estar ubicada en el sitio de ejecución de los trabajos o, cuando por las características de las obras se justifique que la residencia de obra se encuentre a cargo de más de una obra, se deberá localizar en la zona cercana a ellas.
+Las instancias convocantes establecerán la residencia de obra con anterioridad a la iniciación de las mismas, la cual deberá recaer en un servidor público designado por la misma instancia, quien fungirá como su representante ante el contratista y será el responsable directo de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por los contratistas, así también toda obra en ejecución deberá contar con un perito responsable de obra corresponsable, quien estará a cargo, junto con el promotor del proyecto, de que las obras se realicen conforme a lo autorizado en términos de lo dispuesto por la Ley de Acciones Urbanísticas del Estado de Quintana Roo.
 
 Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones para efectos de pago deberá ser autorizada por la residencia de obra de la instancia convocante. Los contratos de supervisión con terceros, deberán ajustarse a los lineamientos que para tal efecto determine el Órgano de Control.
 
@@ -961,13 +969,17 @@ Quedarán a salvo los derechos de las instancias convocantes para exigir el pago
 
 En las casos señalados en el artículo 39 fracciones IX y X, de esta Ley, el servidor público que haya firmado el contrato, bajo su responsabilidad, podrá exceptuar a los contratistas de presentar la garantía a que se refiere este artículo.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 63.
 
-El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección ecológica y de medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto le señale la instancia convocante. Las responsabilidades y los daños y perjuicios que resultaren por su inobservancia serán a cargo del contratista.
+El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, urbanización, desarrollo urbano, protección ecológica y de medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto le señale la instancia convocante. Las responsabilidades y los daños y perjuicios que resultaren por su inobservancia serán a cargo del contratista.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 64.
 
-Una vez concluida la obra o parte utilizable de la misma, las dependencias, entidades y ayuntamientos vigilarán que la unidad que debe operarla reciba oportunamente el inmueble en condiciones de operación, los planos correspondientes a la construcción final, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación y mantenimiento correspondientes y los certificados de garantía de calidad y funcionamiento de los bienes instalados.
+Una vez concluida la obra o parte utilizable de la misma, las dependencias, entidades y ayuntamientos vigilarán que la unidad que debe operarla reciba oportunamente el inmueble en condiciones de operación, los planos correspondientes a la construcción final, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación y mantenimiento correspondientes y los certificados de garantía de calidad y funcionamiento de los bienes instalados, incluyendo las cuestiones relativas contempladas en la Ley de Acciones Urbanísticas del Estado de Quintana Roo.
 
 ###### ARTÍCULO 65.
 
@@ -1462,3 +1474,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 29 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 256 POR EL QUE SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 4, LA FRACCIÓN IX DEL ARTÍCULO 14, LA FRACCIÓN XIX DEL ARTÍCULO 28, EL PRIMER PÁRRAFO DEL ARTÍCULO 49, EL ARTÍCULO 63 Y EL ARTÍCULO 64 TODOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
