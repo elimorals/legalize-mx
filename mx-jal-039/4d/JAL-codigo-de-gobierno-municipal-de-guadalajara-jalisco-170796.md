@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-07-20"
+last_updated: "2022-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 20 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 29 DE AGOSTO DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -731,17 +731,35 @@ El orden del día de las sesiones ordinarias del Ayuntamiento debe contener, por
 
 I. Lista de asistencia y verificación del Quórum;
 
-II. Lectura, en su caso debate, y aprobación del acta de la sesión anterior;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE AGOSTO DE 2022)</small>
 
-III. Lectura y turno de las comunicaciones recibidas;
+II. Lectura y, en su caso, aprobación del orden del día;
 
-IV. Presentación de iniciativas;
+> <small>(REFORMADA, G.M. 29 DE AGOSTO DE 2022)</small>
 
-V. Lectura, en su caso debate y aprobación de dictámenes; y
+III. Lectura, en su caso debate y aprobación del acta de la sesión anterior;
 
-VI. Asuntos varios.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 29 DE AGOSTO DE 2022)</small>
+
+IV. Lectura y turno de las comunicaciones recibidas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 29 DE AGOSTO DE 2022)</small>
+
+V. Presentación de iniciativas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 29 DE AGOSTO DE 2022)</small>
+
+VI. Lectura, en su caso debate y aprobación de dictámenes; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.M. 29 DE AGOSTO DE 2022)</small>
+
+VII. Asuntos varios.
 
 Las sesiones extraordinarias se realizan para tratar exclusivamente asuntos de fuerza mayor, los relacionados con la prestación de las funciones y los servicios públicos indispensables para la población, para designar a la Presidenta o el Presidente Municipal interino o sustituto, o para aprobar modificaciones al Presupuesto de Egresos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 29 DE AGOSTO DE 2022)</small>
+
+Las sesiones deben sujetarse al orden del día propuesto, salvo que el Ayuntamiento apruebe su modificación.
 
 ###### Artículo 66.
 
@@ -8058,3 +8076,15 @@ Segundo. El presente ordenamiento municipal entrará en vigor el día siguiente 
 Tercero. Una vez publicado el presente ordenamiento municipal remítase un tanto del mismo al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
 
 Cuarto. Notifíquese el presente ordenamiento a la Titular de la Dirección de Medio Ambiente del Municipio, para su conocimiento y efectos legales a que haya lugar.
+
+G.M. 29 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA Y AL REGLAMENTO DEL CONSEJO CIUDADANO EN MATERIA DE SEGURIDAD DEL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las aludidas reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley de Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Cuarto. Por única ocasión, los Consejeros electos en cumplimiento de lo dispuesto por los artículos 7, 8 y 9 del Reglamento del Consejo Ciudadano en materia de Seguridad del Municipio de Guadalajara, ocuparán su cargo hasta el 30 de junio del segundo año de la administración municipal en curso.
