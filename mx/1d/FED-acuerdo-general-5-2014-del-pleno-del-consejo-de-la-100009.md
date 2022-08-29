@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2014-del-pleno-del-consejo-de-la-100009"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-03-31"
-last_updated: "2015-03-30"
+last_updated: "2022-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100009&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,19 +19,17 @@ issue_date: "2014-03-21"
 ---
 # ACUERDO GENERAL 5/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA DE MANERA TEMPORAL LA DILIGENCIACION DE COMUNICACIONES OFICIALES DE PROCESOS PENALES FEDERALES QUE IMPLIQUEN AFECTACION DE LA SITUACION JURIDICA DE LA PERSONA BAJO PROCESO, EN DIVERSOS JUZGADOS DE DISTRITO] -- ANTES -- ACUERDO GENERAL 5/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA DE FORMA TEMPORAL LA DILIGENCIACION DE COMUNICACIONES OFICIALES DE PROCESOS PENALES FEDERALES, QUE IMPLIQUEN AFECTACION DE LA SITUACION JURIDICA DEL PROCESADO, EN LOS JUZGADOS DE DISTRITO EN LOS ESTADOS DE SONORA, CON RESIDENCIA EN HERMOSILLO; VERACRUZ, CON SEDE EN VILLA ALDAMA; TAMAULIPAS, CON RESIDENCIA EN MATAMOROS Y NAYARIT, CON SEDE EN LA LOCALIDAD DE "EL RINCON" Y EN LA CIUDAD DE TEPIC; ASI COMO EN LA LAGUNA, RESIDENCIA EN TORREON, COAHUILA DE ZARAGOZA] -- ANTES -- ... ACUERDO GENERAL 5/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA DE FORMA TEMPORAL LA DILIGENCIACION
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ACUERDO GENERAL 5/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA DE MANERA TEMPORAL LA DILIGENCIACIÓN DE COMUNICACIONES OFICIALES DE PROCESOS PENALES FEDERALES QUE IMPLIQUEN AFECTACIÓN DE LA SITUACIÓN JURÍDICA DE LA PERSONA BAJO PROCESO, EN DIVERSOS JUZGADOS DE DISTRITO
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
-
-ACUERDO GENERAL 5/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA DE FORMA TEMPORAL LA DILIGENCIACIÓN DE COMUNICACIONES OFICIALES DE PROCESOS PENALES FEDERALES, QUE IMPLIQUEN AFECTACIÓN DE LA SITUACIÓN JURÍDICA DEL PROCESADO, EN LOS JUZGADOS DE DISTRITO EN LOS ESTADOS DE SONORA, CON RESIDENCIA EN HERMOSILLO; VERACRUZ, CON SEDE EN VILLA ALDAMA; TAMAULIPAS, CON RESIDENCIA EN MATAMOROS Y NAYARIT, CON SEDE EN LA LOCALIDAD DE “EL RINCÓN” Y EN LA CIUDAD DE TEPIC; ASÍ COMO EN LA LAGUNA, CON RESIDENCIA EN TORREÓN, COAHUILA DE ZARAGOZA
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: D.O.F. 30 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación¸ el lunes 31 de marzo de 2014.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno y de la Presidencia.
 
-ACUERDO GENERAL 5/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA DE FORMA TEMPORAL LA DILIGENCIACIÓN DE COMUNICACIONES OFICIALES DE PROCESOS PENALES FEDERALES, QUE IMPLIQUEN AFECTACIÓN DE LA SITUACIÓN JURÍDICA DEL PROCESADO, EN LOS JUZGADOS DE DISTRITO EN LOS ESTADOS DE SONORA, CON RESIDENCIA EN HERMOSILLO; VERACRUZ, CON SEDE EN VILLA ALDAMA; TAMAULIPAS, CON RESIDENCIA EN MATAMOROS Y NAYARIT, CON SEDE EN LA LOCALIDAD DE “EL RINCÓN” ASÍ COMO EN LA CIUDAD DE TEPIC.
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 14/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2022)</small>
+
+ACUERDO GENERAL 5/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA DE MANERA TEMPORAL LA DILIGENCIACIÓN DE COMUNICACIONES OFICIALES DE PROCESOS PENALES FEDERALES QUE IMPLIQUEN AFECTACIÓN DE LA SITUACIÓN JURÍDICA DE LA PERSONA BAJO PROCESO, EN DIVERSOS JUZGADOS DE DISTRITO
 
 CONSIDERANDO
 
@@ -55,37 +53,47 @@ Por lo anterior, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 14/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2022)</small>
+
+PRIMERO. La diligenciación de las comunicaciones oficiales de procesos penales federales que se reciban en los juzgados de Distrito ubicados en Villa Aldama, Veracruz; Matamoros, Tamaulipas; en la localidad de “El Rincón” y en la ciudad de Tepic, Nayarit; así como en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, se desahogarán en los siguientes términos:
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
-
-PRIMERO. La diligenciación de las comunicaciones oficiales de procesos penales federales que se reciban en los juzgados de Distrito ubicados en Hermosillo, Sonora; Villa Aldama, Veracruz; Matamoros, Tamaulipas; en la localidad de “El Rincón” y en la Ciudad de Tepic, Nayarit; así como en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, se desahogarán en los siguientes términos:
 
 El juez exhortante, por medio de videoconferencia, debe desahogar la etapa de preinstrucción, o de instrucción; incluyendo lo relativo a las audiencias de desahogo de pruebas que resulten necesarias, las cuales también se desahogaran por videoconferencia.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
+
 En caso de que por la naturaleza de la diligencia o por algún obstáculo técnico o material se impida el uso de la videoconferencia, las diligencias las realizará el juez de Distrito exhortado, para no entorpecer el proceso y especialmente por la perentoriedad de los plazos constitucionales.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
 
 Asimismo, los jueces exhortados deberán auxiliar a los exhortantes en todas las diligencias que sean necesarias en la circunscripción territorial de los primeros, hasta que se dicte la resolución de plazo constitucional y su notificación, en ese tipo de comunicaciones oficiales.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
+
 En lo relativo a las resoluciones de término constitucional, una vez recibido el exhorto, por el juez de Distrito exhortado, esa comunicación oficial queda abierta hasta que se cumplan las situaciones descritas en la parte final del párrafo anterior, pero esto no debe ser obstáculo para que, entre ese servidor público y el exhortante, se remitan las constancias necesarias para la realización de las diligencias inherentes a cada caso particular.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
 
 En las resoluciones indicadas en el párrafo que antecede, el apoyo del juez exhortante no se debe limitar únicamente al tiempo en que desahoga las diligencias procesales de declaración preparatoria y de pruebas inherentes a la misma, realizadas por medio de videoconferencia; porque se requeriría un nuevo exhorto para cada diligencia posterior, lo que no es posible por la perentoriedad de los términos constitucionales, y porque la carga de trabajo de comunicaciones oficiales se magnificaría, en contravención al objetivo fundamental de este Acuerdo General.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
+
 Una vez cumplimentada la diligencia solicitada, el juez exhortado devolverá de inmediato la comunicación oficial al órgano jurisdiccional exhortante, por los medios más expeditos disponibles, como son el fax, correo electrónico, etcétera; para que provea lo conducente y continúe con el trámite de la causa penal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 14/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2022)</small>
+
+SEGUNDO. El uso de la videoconferencia como un método alternativo para el desahogo de las diligencias judiciales, se realizará de conformidad con lo establecido en el Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite del expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales de los órganos jurisdiccionales a cargo del propio Consejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 14/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2022)</small>
+
+TERCERO. Durante la vigencia de la presente medida se adicionará de forma temporal la plantilla laboral a los juzgados de Distrito ubicados en Villa Aldama, Veracruz; Matamoros, Tamaulipas; así como en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, incorporándose una persona con plaza de Secretaria o Secretario de Juzgado y una persona con plaza de Oficial Judicial “C” más por cada órgano jurisdiccional, a fin de que puedan atender de forma suficiente las diligencias derivadas de comunicaciones oficiales y preferentemente las que se celebren por videoconferencia.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
-
-SEGUNDO. El uso de la videoconferencia como un método alternativo para el desahogo de las diligencias judiciales, se realizará de conformidad con lo establecido en el Acuerdo General 74/2008 del Pleno del Consejo de la Judicatura Federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
-
-TERCERO. Durante la vigencia de la presente medida, se adicionará de forma temporal la plantilla laboral a los juzgados de Distrito ubicados en Hermosillo, Sonora; Villa Aldama, Veracruz; Matamoros, Tamaulipas; así como en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, incorporándose un secretario de juzgado y un oficial administrativo más por cada órgano jurisdiccional, a fin de que puedan atender de forma suficiente las diligencias derivadas de comunicaciones oficiales y preferentemente las que se celebren por videoconferencia.
 
 El oficial administrativo que se incorpore de forma temporal a la plantilla laboral de cada uno de los órganos jurisdiccionales indicados, deberá cubrir el perfil requerido por la Dirección General de Tecnologías de la Información, a fin de garantizar la adecuada operación del equipo de videoconferencia para la celebración de diligencias judiciales.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
 
 Asimismo, la propia Dirección General de Tecnologías de la Información capacitará al personal adicional señalado en el primer párrafo de este punto TERCERO.
 
@@ -101,11 +109,7 @@ CUARTO. La Secretaría Ejecutiva de Administración, conjuntamente con sus área
 
 QUINTO. La Comisión de Creación de Nuevos Órganos, con base en los estudios que presente a su consideración la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, podrá disponer la conclusión de la medida ordenada en el presente Acuerdo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 13/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE MARZO DE 2015)</small>
-
-SEXTO. Los juzgados de Distrito ubicados en Hermosillo, Sonora; Villa Aldama, Veracruz; Matamoros, Tamaulipas; en la localidad de “El Rincón” y en la Ciudad de Tepic, Nayarit, así como en La Laguna, Torreón, Coahuila de Zaragoza; rendirán a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, en forma trimestral, un informe en el formato que les proporcionará la misma Secretaría Ejecutiva.
+SEXTO. (DEROGADO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 14/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2022)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -138,3 +142,15 @@ SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y
 TERCERO. Los juzgados de Distrito en los Estados de Sonora, con residencia en Hermosillo; Veracruz, con sede en Villa Aldama; Tamaulipas, con residencia en Matamoros; Nayarit, con sede en la localidad de “El Rincón” y en la Ciudad de Tepic, seguirán con la diligenciación a que se refiere este Acuerdo hasta nuevo aviso.
 
 Tratándose de los juzgados de Distrito en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, la diligenciación a que se refiere este Acuerdo empezará a partir de la fecha indicada en el Transitorio PRIMERO.
+
+D.O.F. 29 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 14/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL JUZGADO DECIMOCUARTO DE DISTRITO EN EL ESTADO DE SONORA, CON RESIDENCIA EN HERMOSILLO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL ESTADO Y RESIDENCIA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; Y QUE REFORMA Y DEROGA EL ACUERDO GENERAL 5/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA DE FORMA TEMPORAL LA DILIGENCIACIÓN DE COMUNICACIONES OFICIALES DE PROCESOS PENALES FEDERALES, QUE IMPLIQUEN AFECTACIÓN DE LA SITUACIÓN JURÍDICA DEL PROCESADO, EN LOS JUZGADOS DE DISTRITO EN LOS ESTADOS DE SONORA, CON RESIDENCIA EN HERMOSILLO; VERACRUZ, CON SEDE EN VILLA ALDAMA; TAMAULIPAS, CON RESIDENCIA EN MATAMOROS Y NAYARIT, CON SEDE EN LA LOCALIDAD DE "EL RINCÓN" Y EN LA CIUDAD DE TEPIC; ASÍ COMO EN LA LAGUNA, CON RESIDENCIA EN TORREÓN, COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán al Juzgado Decimocuarto de Distrito en el Estado de Sonora, con residencia en Hermosillo, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Juzgado Decimocuarto de Distrito en el Estado de Sonora, con residencia en Hermosillo.
