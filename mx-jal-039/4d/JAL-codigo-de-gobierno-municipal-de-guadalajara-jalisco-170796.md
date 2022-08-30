@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-08-29"
+last_updated: "2022-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 29 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 30 DE AGOSTO DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -5303,9 +5303,9 @@ Asimismo, para la consecución de sus fines, debe coordinarse con las demás ins
 
 La Coordinación General de Construcción de Comunidad, es la instancia integradora de las áreas destinadas al diseño y ejecución de estrategias para la formación ciudadana, la construcción de comunidades y el fortalecimiento del tejido social; encargada de fomentar la participación de la población en el diseño y gestión de la ciudad. Mediante las atribuciones específicas conferidas a las dependencias a su cargo.
 
-> <small>(REFORMADO, G.M. 18 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, G.M. 30 DE AGOSTO DE 2022)</small>
 
-Para la atención de los asuntos de su competencia, cuenta con las áreas de Cultura, Educación, Protección Animal, Centros Colmena, Capacitación y Oferta Educativa, de Apoyo a la Niñez, y de Servicios Médicos Municipales.
+Para la atención de los asuntos de su competencia, cuenta con las áreas de Cultura, Educación, Protección Animal, Centros Colmena, Capacitación y Oferta Educativa, de Apoyo a la Niñez, de Servicios Médicos Municipales y de Difusión Artística en Barrios de Guadalajara.
 
 Asimismo, para la consecución de sus fines, debe coordinarse con las demás instancias de gobierno y de la sociedad.
 
@@ -5614,6 +5614,28 @@ IX. Autorizar, apoyar y evaluar el desarrollo y cumplimiento de los programas de
 X. Coadyuvar y asesorar a las dependencias y entidades de la administración pública municipal para que las oficinas y edificios públicos del Municipio obtengan la certificación como entornos favorables a la salud, así como para que conserven dicha certificación; y
 
 XI. Asesorar y colaborar, en coordinación con la dependencia municipal de Protección Civil, a la Administración pública en la implementación y operación de sus respectivas Comisiones de Seguridad e Higiene.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 30 DE AGOSTO DE 2022)</small>
+
+Subsección XI
+
+Dirección de Difusión Artística en Barrios de Guadalajara
+
+> <small>(ADICIONADO, G.M. 30 DE AGOSTO DE 2022)</small>
+
+###### Artículo 225 Sexies.
+
+La Dirección de Difusión Artística en Barrios de Guadalajara tiene las siguientes atribuciones:
+
+I. Formular, proponer y ejecutar actividades que integren a la sociedad en dinámicas recreativas a través de la música;
+
+II. Promover, coordinar y organizar presentaciones, eventos y conciertos musicales, así como la búsqueda de talentos;
+
+III. Proporcionar espacios para que por medio de conciertos y diversas convocatorias se dé a conocer el talento musical;
+
+IV. Implementar actividades de carácter musical en los núcleos de población, que fomentan el sentido de comunidad y las relaciones interpersonales; y
+
+V. Promover los grupos musicales pertenecientes al Municipio.
 
 > <small>(REFORMADA DENOMINACIÓN, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -8088,3 +8110,13 @@ Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación 
 Tercero. Una vez publicadas las aludidas reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley de Gobierno y la Administración Pública Municipal del Estado de Jalisco.
 
 Cuarto. Por única ocasión, los Consejeros electos en cumplimiento de lo dispuesto por los artículos 7, 8 y 9 del Reglamento del Consejo Ciudadano en materia de Seguridad del Municipio de Guadalajara, ocuparán su cargo hasta el 30 de junio del segundo año de la administración municipal en curso.
+
+G.M. 30 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA Y AL REGLAMENTO PARA LOS ESPECTÁCULOS DEL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
