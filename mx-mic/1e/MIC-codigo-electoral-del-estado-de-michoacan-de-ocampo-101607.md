@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2021-08-02"
+last_updated: "2022-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -258,6 +258,24 @@ A ninguna persona podrá registrársele como candidato a distintos cargos de ele
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 Tampoco podrá ser candidato para un cargo estatal o municipal de elección popular y simultáneamente para un cargo de elección federal. En este supuesto, si el registro para el cargo de la elección estatal o municipal ya estuviere hecho, se procederá a la cancelación automática del registro respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 13 BIS. No podrán ser postulados como aspirantes a cargos de elección popular quienes hayan sido condenados o sancionados mediante resolución o sentencia firme en los siguientes supuestos:
+
+I. Por violencia familiar, doméstica, política en razón de género o cualquier agresión de género en el ámbito privado o público o que se encuentre vigente en algún padrón o registro de personas sancionadas por violencia;
+
+II. Por delitos sexuales, contra la libertad sexual o la intimidad corporal o que se encuentre vigente en algún padrón o registro de personas sancionadas por delitos sexuales; o,
+
+III. Como deudor alimentario moroso que atenten contra las obligaciones alimentarias o que se encuentre vigente en algún padrón o registro de deudores alimentarios morosos.
+
+Cumplida la sentencia o la sanción que se haya aplicado en cada caso, las personas podrán ser postuladas para cargos de elección popular conforme lo establecido en la normatividad aplicable.
+
+Atendiendo al principio de presunción de inocencia, no se considerará a las personas estar en los supuestos mencionados por manifestaciones públicas o privadas, escritas o verbales por cualquier medio que sea.
+
+Cualquier persona física o moral, podrá hacer del conocimiento al Instituto mediante denuncia con los elementos de prueba de aquella o aquellas personas que se encuentran comprendidas dentro de los supuestos señalados en las fracciones del presente artículo.
+
+Los aspirantes a cargos de elección popular, podrán acreditar no encontrarse en ninguno de los supuestos en los términos que determine la autoridad o la legislación aplicable.
 
 ###### ARTÍCULO 14.
 
@@ -6458,3 +6476,13 @@ P.O. 2 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese el presente Decreto al Tribunal Electoral del Estado de Michoacán para su conocimiento; a efecto de que en un plazo no mayor a cinco días naturales se emita la convocatoria para la designación del Titular del Órgano Interno de Control del Tribunal Electoral del Estado de Michoacán, e inicie el procedimiento correspondiente de conformidad con el artículo 94 bis, de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, así como los artículos 64 fracción XIV, 69 a), 69 b) y 69 c) del Código Electoral del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 180 POR EL QUE “SE ADICIONA EL ARTÍCULO 13 BIS AL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+TERCERO. Hágase saber al Instituto Electoral, al Tribunal Electoral, los 112 Ayuntamientos y Concejo Mayor de Cherán, paras (sic) los efectos pertinentes.
