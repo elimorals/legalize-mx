@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-45669"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-16"
-last_updated: "2012-12-17"
+last_updated: "2022-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de julio de 2005.
 
@@ -691,9 +691,17 @@ IV. Reglamentar, de acuerdo a los dispositivos contenidos en esta Ley, el uso ad
 
 V. Organizar campañas de difusión de los lineamientos que se deben seguir para lograr un adecuado uso del fuego;
 
-VI. Impartir cursos de capacitación a los productores forestales, a los propietarios de terrenos forestales y a los ciudadanos en general, sobre las medidas preventivas que deben tomar para evitar incendios; y,
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2022)</small>
 
-VII. Publicar un boletín de prevención de incendios y conservación de los recursos forestales para distribuirse entre los visitantes de los bosques y reservas ecológicas.
+VI. Impartir cursos de capacitación a los productores forestales, a los propietarios de terrenos forestales y a los ciudadanos en general, sobre las medidas preventivas que deben tomar para evitar incendios;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2022)</small>
+
+VII. Publicar un boletín de prevención de incendios y conservación de los recursos forestales para distribuirse entre los visitantes de los bosques y reservas ecológicas, y
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2022)</small>
+
+VIII. Realizar campañas permanentes de difusión, sensibilización y concientización en los medios que considere pertinentes para informar a los habitantes acerca de las medidas preventivas para evitar incendios forestales.
 
 ###### Artículo 62.
 
@@ -806,3 +814,9 @@ Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Const
 P.O. 17 DE DICIEMBRE DE 2012.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 30 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LAS FRACCIONES VI Y VII; Y ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 61 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
