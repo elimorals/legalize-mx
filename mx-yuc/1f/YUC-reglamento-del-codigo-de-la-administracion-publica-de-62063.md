@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2022-08-19"
+last_updated: "2022-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE AGOSTO DE 2022.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -1093,13 +1093,17 @@ V. El Instituto de Desarrollo Regional y Municipal, que deberá coordinarse con 
 
 VI. La Representación del Gobierno del Estado de Yucatán en la Ciudad de México, que deberá coordinarse con el Secretario General de Gobierno;
 
-> <small>(REFORMADA, D.O. 22 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 30 DE AGOSTO DE 2022)</small>
 
-VII. La Junta Local de Conciliación y Arbitraje, y
+VII. La Junta Local de Conciliación y Arbitraje;
 
-> <small>(ADICIONADA, D.O. 22 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 30 DE AGOSTO DE 2022)</small>
 
-VIII. El Centro de Atención y Reeducación para Hombres que Ejercen Violencia de Género, que deberá coordinarse con la Subsecretaría de Prevención y Reinserción Social.
+VIII. El Centro de Atención y Reeducación para Hombres que Ejercen Violencia de Género, que deberá coordinarse con la Subsecretaría de Prevención y Reinserción Social, y
+
+> <small>(ADICIONADA, D.O. 30 DE AGOSTO DE 2022)</small>
+
+IX. La Comisión de Búsqueda de Personas del Estado de Yucatán, que deberá coordinarse con la Subsecretaría de Gobierno y Desarrollo Político.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -1333,15 +1337,21 @@ XI. Las demás que le encomienden otras disposiciones normativas aplicables.
 
 El Instituto de Desarrollo Regional y Municipal tendrá las atribuciones que le confieren su decreto de regulación y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, D.O. 30 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 51 Bis.
 
-La Representación del Gobierno del Estado de Yucatán en la Ciudad de México tendrá las atribuciones que le confieren su decreto de regulación y otras disposiciones legales y normativas aplicables.
+La Comisión de Búsqueda de Personas del Estado de Yucatán, tendrá las atribuciones que le confiere su decreto de regulación, y otras disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 3 DE MARZO DE 2022)</small>
+(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 51 BIS], D.O. 30 DE AGOSTO DE 2022)
 
 ###### Artículo 51 Ter.
+
+La Representación del Gobierno del Estado de Yucatán en la Ciudad de México tendrá las atribuciones que le confieren su decreto de regulación y otras disposiciones legales y normativas aplicables.
+
+(ADICIONADO, D.O. 3 DE MARZO DE 2022) (REUBICADO [N. DE E. ANTES ARTÍCULO 51 TER], D.O. 30 DE AGOSTO DE 2022)
+
+###### Artículo 51 Quater.
 
 Al Subsecretario de Asuntos Agrarios le corresponde el despacho de los siguientes asuntos:
 
@@ -12823,7 +12833,13 @@ I. Dirección General de Educación Superior:
 
 a) Dirección de Servicio Profesional.
 
-II. Dirección General de Investigación e Innovación; y
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 30 DE AGOSTO DE 2022)</small>
+
+II. Dirección General de Investigación e Innovación:
+
+> <small>(ADICIONADO, D.O. 30 DE AGOSTO DE 2022)</small>
+
+a) Dirección de Desarrollo e Innovación Tecnológica, y
 
 III. Dirección de Administración.
 
@@ -12951,9 +12967,7 @@ XXVI. Sustanciar, conjuntamente con las unidades administrativas respectivas, el
 
 XXVII. Establecer los mecanismos operativos que garanticen el cumplimiento, por parte de los particulares, de los requisitos legales y pedagógicos establecidos para el funcionamiento de planes y programas de estudio de nivel superior público y los incorporados a la secretaría;
 
-> <small>(REFORMADA, D.O. 21 DE MAYO DE 2021)</small>
-
-XXVIII. Emitir los lineamientos para el ingreso y permanencia de las instituciones de educación superior, centros de investigación y empresas de base tecnológica en el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán y en el Parque Científico y Tecnológico de Yucatán;
+XXVIII. (DEROGADA, D.O. 30 DE AGOSTO DE 2022)
 
 > <small>(ADICIONADA, D.O. 21 DE MAYO DE 2021)</small>
 
@@ -13033,7 +13047,9 @@ XVI. Vigilar el cumplimiento de las normas de control escolar correspondientes a
 
 XVII. Verificar durante el proceso de registro de los alumnos, y a solicitud de las instancias respectivas de la propia secretaría o ajenas a ella, la autenticidad de los documentos presentados por los alumnos, correspondientes a estudios anteriores que hayan cursado en escuelas oficiales o con reconocimiento de validez oficial;
 
-XVIII. Denunciar ante la autoridad ministerial las conductas delictivas relacionadas con la autenticidad de documentos académicos oficiales;
+> <small>(REFORMADA, D.O. 30 DE AGOSTO DE 2022)</small>
+
+XVIII. Dar parte a la autoridad competente las conductas delictivas relacionadas con la autenticidad de documentos académicos oficiales;
 
 XIX. Mantener actualizado el registro de las instituciones de educación superior;
 
@@ -13069,7 +13085,9 @@ X. Coadyuvar a impulsar y fomentar la creación, el fortalecimiento y la consoli
 
 XI. Organizar los premios Yucatán de Ciencia, Tecnología, Innovación y Vinculación; Yucatán Ciencia Juvenil; y Yucatán Creatividad Infantil, de acuerdo con la normatividad vigente;
 
-XII. Proponer al secretario los lineamientos que rijan el ingreso y permanencia de las instituciones de educación superior, centros de investigación y empresas de base tecnológica en el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán y en el Parque Científico y Tecnológico de Yucatán;
+> <small>(REFORMADA, D.O. 30 DE AGOSTO DE 2022)</small>
+
+XII. Proponer al secretario y emitir los lineamientos que rijan el ingreso y permanencia de las instituciones de educación superior, centros de investigación y empresas de base tecnológica en el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán y en el Parque Científico y Tecnológico de Yucatán;
 
 XIII. Realizar los estudios necesarios para proponer al secretario las áreas prioritarias para la formación de recursos humanos en materia de investigación científica y desarrollo tecnológico;
 
@@ -13112,6 +13130,64 @@ XXXI. Impulsar y otorgar apoyos, con base en los criterios establecidos por el s
 XXXII. Gestionar apoyos económicos y materiales ante las distintas instancias públicas y privadas que le permitan apoyar de manera creciente las actividades de formación y las de desarrollo científico y tecnológico, innovación y vinculación e informar al secretario de los resultados obtenidos, y
 
 XXXIII. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 30 DE AGOSTO DE 2022)</small>
+
+###### Artículo 557 Bis.
+
+El Director de Desarrollo e Innovación Tecnológica tendrá las siguientes facultades y obligaciones:
+
+I. Ejecutar las acciones que le indique el secretario relacionadas con los convenios que celebre el Ejecutivo del estado con la Administración Pública federal, referentes al desarrollo tecnológico e innovación;
+
+II. Promover el fortalecimiento de las capacidades de los centros de investigación en el estado para el desarrollo tecnológico;
+
+III. Asesorar a las dependencias y entidades de los tres órdenes de gobierno, y a las personas físicas o morales que lo soliciten, sobre asuntos relacionados con la ciencia, la tecnología, y la innovación;
+
+IV. Operar, consultar y dar seguimiento a las acciones relacionadas a la aplicación de las tecnologías de la información y la comunicación para acercar los servicios públicos a la ciudadanía a través de la innovación;
+
+V. Impulsar el desarrollo del parque científico y tecnológico de Yucatán; del Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán; y del Sistema Estatal de Investigadores, Tecnólogos, Inventores y Vinculadores;
+
+VI. Coordinar y administrar los sistemas de información relacionados con la planeación y programación de las actividades de investigación e innovación; y elaborar y publicar sus estadísticas;
+
+VII. Organizar y determinar las vías para el desarrollo de las plataformas digitales sobre las capacidades del Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación, y fomentar su acceso; y el Padrón Estatal de Investigadores, Tecnólogos, Inventores y Vinculadores; en los términos de la Ley de Fomento al Desarrollo Científico, Tecnológico y a la Innovación del Estado de Yucatán;
+
+VIII. Realizar programas de apoyo para la creación y desarrollo empresarial en áreas de tecnología;
+
+IX. Identificar las áreas y temas prioritarios relacionados con desarrollo tecnológico basados en las necesidades sociales, económicas y ambientales que requieren atención mediante la vinculación de instituciones de educación superior y centros de investigación con empresas tecnológicas y las dependencias y entidades del estado en colaboración con la Dirección de Vinculación;
+
+X. Definir los mecanismos que favorezcan la implementación, medición y seguimiento de los indicadores de desarrollo y desempeño, en materia de investigación científica y desarrollo tecnológico e innovación en el estado, así como en las instituciones públicas y privadas, orientando las acciones de los proyectos para mejorar el desarrollo regional y bienestar social;
+
+XI. Promover la vinculación del sector académico con el productivo por medio de la realización de estancias de profesores, investigadores y tecnólogos en empresas de base tecnológica con el objetivo de establecer mecanismos de cooperación y colaboración en proyectos de investigación, desarrollo tecnológico e innovación;
+
+XII. Desarrollar redes de colaboración entre instituciones educativas, centros de investigación y empresas en el estado para fortalecer sus capacidades para el desarrollo científico y tecnológico y la innovación;
+
+XIII. Colaborar con los centros de investigación y las instituciones de educación superior, en el cumplimiento de metas y compromisos trazados en materia de investigación científica y desarrollo tecnológico, en el Plan Estatal de Desarrollo, para el logro de las mismas;
+
+XIV. Llevar un portafolio de los proyectos innovadores o desarrollos tecnológicos factibles de ser implementados por el sector productivo estatal, en coordinación con otras áreas de la Secretaria;
+
+XV. Diseñar y analizar estudios de factibilidad económica con base a las necesidades actuales que den sustento a la viabilidad de las innovaciones y desarrollos tecnológicos;
+
+XVI. Proponer al Director General de Investigación e Innovación, normas y criterios para la elaboración de programas que tengan por objeto la formación, actualización y capacitación de recursos humanos en las diversas áreas del conocimiento científico y tecnológico definidas como prioritarias en el Plan Estatal de Desarrollo y en los programas sectoriales correspondientes;
+
+XVII. Crear y administrar los mecanismos que faciliten la obtención de información sobre la investigación científica y tecnológica que se desarrolla en el Estado;
+
+XVIII. Analizar y determinar las problemáticas y necesidades con el objetivo de mejorar la infraestructura relacionada con las tecnologías de la información en el estado, así como su uso y aplicación en todos los órdenes de gobierno, las instituciones educativas y la población del estado;
+
+XIX. Promover la generación de infraestructura científica y tecnológica que impulsen sectores productivos de acuerdo al plan estatal de desarrollo del estado, así como los programas sectoriales o especiales en la materia;
+
+XX. Coordinar las actividades de fomento a la cultura de respeto y protección de la propiedad intelectual;
+
+XXI. Identificar las necesidades del estado en materia de desarrollo e innovación tecnológica, especialmente del área productiva, para fomentar el desarrollo económico y social del estado;
+
+XXII. Identificar, analizar y evaluar empresas o instituciones privadas dedicadas al desarrollo de proyectos tecnológicos que sean candidatas a estímulos y exenciones;
+
+XXIII. Ejecutar las acciones que coadyuven a la participación de las comunidades científicas y tecnológicas del estado en la toma de decisiones relativas al impulso y al desarrollo científico y tecnológico, la innovación y la vinculación;
+
+XXIV. Identificar las necesidades en materia de ciencia, tecnología e innovación en el estado, y determinar la realización de proyectos de corto, mediano y largo plazo;
+
+XV. Gestionar apoyos económicos y materiales ante las distintas instancias públicas y privadas que le permitan apoyar de manera creciente las actividades de formación y las de desarrollo tecnológico, y
+
+XXVI. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
 
 > <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
@@ -15664,3 +15740,15 @@ Este decreto entrará en vigor el día de su publicación en el Diario Oficial d
 Segundo. Adecuaciones presupuestales y administrativas
 
 La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas en este decreto.
+
+D.O. 30 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 549/2022 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA GENERAL DE GOBIERNO Y LA SECRETARÍA DE INVESTIGACIÓN, INNOVACIÓN Y EDUCACIÓN SUPERIOR".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuaciones presupuestales y administrativas
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas como resultado de este decreto.
