@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2021-12-21"
+last_updated: "2022-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -351,13 +351,17 @@ d) Asistencia médica y medicinas para los familiares del trabajador en los tér
 
 VI. Impartir cursos de capacitación y adiestramiento para el trabajo, así como de sensibilización para el respeto a los derechos humanos de los ciudadanos, especialmente en los temas de discapacidad, asuntos indígenas, cultura de la igualdad y la no discriminación, así como el respeto a la equidad de género y la preferencia sexual conforme la orientación sexual e identidad de género;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2022)</small>
 
-VII. Conceder licencia o permiso a sus trabajadores, en los términos que se estipulen en las Condiciones Generales de Trabajo y lo dispuesto en el artículo 22 de la presente Ley; y,
+VII. Conceder licencia o permiso a sus trabajadores, en los términos que se estipulen en las Condiciones Generales de Trabajo y lo dispuesto en el artículo 22 de la presente Ley;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2022)</small>
 
-VIII. Respetar y vigilar que se cumplan los derechos humanos del personal a su cargo, cuidando en especial manera que no se vulneren, ni violenten los derechos del personal con discapacidad, personas de la tercera edad, indígenas y aquellos trabajadores con preferencias sexuales conforme su orientación sexual o identidad de género, generando las condiciones necesarias para un entorno laboral libre de violencia, acoso o discriminación.
+VIII. Respetar y vigilar que se cumplan los derechos humanos del personal a su cargo, cuidando en especial manera que no se vulneren, ni violenten los derechos del personal con discapacidad, personas de la tercera edad, indígenas y aquellos trabajadores con preferencias sexuales conforme su orientación sexual o identidad de género, generando las condiciones necesarias para un entorno laboral libre de violencia, acoso o discriminación; y,
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2022)</small>
+
+IX. Conceder permiso para que las y los trabajadores al servicio del Estado y sus Municipios, acudan a las instituciones educativas, para atender los asuntos relacionados con temas escolares de sus hijos, por lo menos una vez cada trimestre del ciclo escolar.
 
 ### CAPITULO VII. OBLIGACIONES DE LOS TRABAJADORES
 
@@ -1250,3 +1254,9 @@ P.O. 21 DE DICIEMBRE DE 2021.
 PRIMERO. Para efectos de lograr lo dispuesto en el artículo 53, segundo párrafo, del presente Decreto, los sindicatos deben implementar de forma permanente, un programa de sensibilización de sus agremiados, para que a través de cursos, pláticas u otras diversas, se resalte la importancia de la participación activa de las mujeres en cargos directivos, buscando eliminar estereotipos que conduzcan a la permanencia de los hombres en los mismos, como condición natural.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 182 POR EL QUE "SE REFORMAN LAS FRACCIONES VII Y VIII; Y, SE ADICIONAN LA FRACCIÓN IX AL ARTÍCULO 35 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS".]
+
+Único. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
