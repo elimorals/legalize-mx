@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2022-02-18"
+last_updated: "2022-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2022.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -937,6 +937,26 @@ IV. El Gobernador del Estado deberá asignar los recursos presupuestales necesar
 
 V. Hacer del conocimiento público el motivo de la alerta de violencia de género, y la zona territorial que abarcan las medidas a implementar.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 59 BIS. El Poder Legislativo, a través de la Comisión de Igualdad Sustantiva y de Género, crea el Observatorio para dar seguimiento al Programa de Trabajo que atiende las Alertas de Violencia de Género contra las Mujeres en el Estado de Michoacán de Ocampo, el cual estará integrado por:
+
+I. Las diputadas y los diputados integrantes de la Comisión de Igualdad Sustantiva y de Género del Congreso del Estado de Michoacán, quienes lo presidirán y tendrán la facultad de convocatoria;
+
+II. La persona titular de la Secretaría de Gobierno o representante con nivel inmediato inferior;
+
+III. La persona titular de la Fiscalía General de Michoacán o representante con nivel inmediato inferior;
+
+IV. La persona titular de la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas o representante con nivel inmediato inferior;
+
+V. La persona titular de la Secretaría de Seguridad Pública o representante con nivel inmediato inferior; y,
+
+VI. Dos representantes de la sociedad civil, con reconocimiento público en materia de violencia de género.
+
+Dicho Observatorio tiene como objetivo dar seguimiento al avance del programa de trabajo mencionado en este artículo, para lo cual se reunirá semestralmente de manera ordinaria, y extraordinaria cuando sea necesario, a consideración de la Comisión de Igualdad Sustantiva y de Género del Congreso del Estado de Michoacán. Asimismo, podrá generar investigaciones sociales y territoriales que permitan al Estado avanzar en el cumplimiento de las Alertas de Violencia de Género, de acuerdo a su Reglamento.
+
+El Observatorio tendrá un Secretario Técnico, que será el mismo que funja como tal en la Comisión de Igualdad Sustantiva y de Género del Congreso del Estado de Michoacán, quien se encargará de atender e informar sobre los trabajos de este órgano a dicha comisión, misma que, a su vez, dará cuenta al Pleno del Congreso del Estado de Michoacán de Ocampo, a más tardar a los treinta días hábiles posteriores a las sesiones celebradas por el Observatorio.
+
 ### CAPÍTULO X. ÓRDENES DE PROTECCIÓN
 
 ###### ARTÍCULO 60.
@@ -1202,3 +1222,15 @@ P.O. 18 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 62 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 9 FRACCIÓN X Y 10 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entraraì (sic) en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 172 POR EL QUE “SE ADICIONA EL ARTÍCULO 59 BIS A LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Comisión de Igualdad Sustantiva y de Género contará con treinta días hábiles para instalar el Observatorio para dar seguimiento al Programa de Trabajo que atiende las Alertas de Violencia de Género contra las Mujeres en el Estado de Michoacán de Ocampo.
+
+TERCERO. La Comisión de Igualdad Sustantiva y de Género contará con hasta ciento ochenta días naturales para la creación del Reglamento Interno del Observatorio para dar seguimiento al Programa de Trabajo que atiende las Alertas de Violencia de Género contra las Mujeres en el Estado de Michoacán de Ocampo.
+
+CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
