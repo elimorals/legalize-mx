@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-centro-de-rehabilitacion-integral-xoxotla-22269
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-02"
-last_updated: "2011-09-01"
+last_updated: "2022-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY QUE CREA EL CENTRO DE REHABILITACION INTEGRAL "XOXOTLA" COMO ORGANISMO DESCENTRALIZADO ESTATAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 460, PUBLICADO EN EL PERIÓDICO OFICIAL DE 31 DE AGOSTO DE 2022, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
+
 LEY QUE CREA EL CENTRO DE REHABILITACION INTEGRAL XOXOTLA COMO ORGANISMO DESCENTRALIZADO ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 2 de febrero de 1994.
 
@@ -280,3 +282,19 @@ SEGUNDO.- El organismo descentralizado contará con un plazo de 90 días hábile
 TERCERO.- Previo el aval del titular de ejecutivo, el organismo descentralizado deberá realizar los convenios respectivos ante la institución de seguridad social que corresponda.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SESENTA.- POR EL QUE SE ABROGA LA LEY QUE CREA EL CENTRO DE REHABILITACIÓN INTEGRAL “XOXOTLA” COMO ORGANISMO DECENTRALIZADO ESTATAL”.]
+
+PRIMERO. Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. - El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Cualquier asunto relacionado con el Organismo Descentralizado Estatal, denominado Centro de Rehabilitación Integral “Xoxotla”, derivado de actos o situaciones suscitadas antes de la entrada en vigor del presente decreto, será atendido hasta su total conclusión por la Coordinación de Atención a la Discapacidad del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO NO. 460 POR EL CUAL SE ABROGA EL PRESENTE ORDENAMIENTO.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley que crea el Centro de Rehabilitación Integral “Xoxotla” como organismo descentralizado estatal, publicada el 02 de febrero de 1994, en el Periódico Oficial “Tierra y Libertad”, número 3677.
