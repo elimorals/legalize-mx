@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2020-12-04"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -505,9 +507,15 @@ XXII. Programar y ejecutar permanentemente en coordinación con instituciones u 
 
 XXIII. Realizar las adecuaciones necesarias en cada una de las instalaciones educativas de la Entidad, a fin de garantizar el libre acceso y tránsito de los estudiantes y docentes con discapacidad; colocar señales, letreros de fácil comprensión y donde sea necesario en sistema braille;
 
-XXIV. Proporcionar a los estudiantes con discapacidad mobiliario, materiales y ayudas técnicas que apoyen su rendimiento académico, procurando equipar los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes certificados de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas con discapacidad visual y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad, incluyendo el material necesario en la lengua indígena de la región; y,
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-XXV. Las demás que dispongan otros ordenamientos.
+XXIV. Proporcionar a los estudiantes con discapacidad mobiliario, materiales y ayudas técnicas que apoyen su rendimiento académico, de manera obligatoria, tiene que gestionar y facilitar equipos a los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes certificados de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas con discapacidad visual y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad, incluyendo el material necesario en la lengua indígena de la región;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXV. Desarrollar bajo el principio de inclusión, programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad, de los pueblos originarios y con aptitudes sobresalientes, que tengan por objeto brindar una educación inclusiva y libre de discriminación, en términos de lo dispuesto por la Ley; y,
+
+XXVI. Las demás que dispongan otros ordenamientos.
 
 ###### Artículo 34.
 
@@ -1212,3 +1220,11 @@ P.O. 4 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 178 POR EL QUE "SE MODIFICA LA FRACCIÓN XXIV Y SE ADICIONA UNA FRACCIÓN XXV RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 33 DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Primero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. El presente Decreto entrará en vigor a los noventa días de su publicación, mientras tanto el Gobierno del Estado, asignará los recursos necesarios, para cumplir lo estipulado en el mismo.
