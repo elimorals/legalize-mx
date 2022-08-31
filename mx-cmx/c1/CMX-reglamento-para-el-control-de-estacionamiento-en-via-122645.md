@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-control-de-estacionamiento-en-via-122645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-02"
-last_updated: "2017-08-02"
+last_updated: "2022-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-08-01"
 ---
 # REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN VIA PUBLICA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN VÍA PÚBLICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 31 DE AGOSTO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN VÍA PÚBLICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE AGOSTO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 2 de agosto de 2017.
 
@@ -513,3 +515,23 @@ SÉPTIMO.- Se abroga el ACUERDO POR EL QUE SE ESTABLECE EL PROGRAMA PARA LA REHA
 OCTAVO.- La Secretaría contará con sesenta días naturales, a partir de la vigencia del presente Reglamento, para emitir los lineamientos a que se refiere el presente.
 
 Dado en la residencia oficial del Jefe de Gobierno de la Ciudad de México, a los un días (sic) del mes de agosto de dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, DR. MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTÉS.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN VÍA PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al siguiente día de su publicación.
+
+TERCERO. Dentro de los 180 días hábiles posteriores a la publicación del presente, la Secretaría de Movilidad emitirá los lineamientos y demás disposiciones de carácter administrativo en materia de sistemas de control de estacionamiento de vehículos en la vía pública que resulten aplicables con motivo de su implementación; los cuales, para su debida observancia, aplicación y conocimiento en general, se publicarán en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. Los títulos de concesión e instrumentos jurídicos mediante los cuales fue otorgada la administración, operación y supervisión de un polígono del sistema de control de estacionamiento en vía pública de la Ciudad de México continuarán siendo válidos durante su vigencia, bajo los términos en que fueron emitidos; sin perjuicio que, en todo momento, los terceros autorizados podrán implementar, de manera voluntaria, las medidas establecidas en el presente Reglamento y los lineamientos que la Secretaría emita.
+
+Los títulos de concesión e instrumentos que se emitan con posterioridad a la emisión del presente deberán de observar lo establecido en este Reglamento y los lineamientos que sean emitidos por la Secretaría.
+
+QUINTO. A partir de la entrada en vigor del presente Reglamento, se abroga el Reglamento para el control de Estacionamiento en Vía Pública de la Ciudad de México publicado el 02 de agosto de 2017, en la Gaceta Oficial de la Ciudad de México no. 124, así como los demás lineamientos y/o disposiciones administrativas que contravengan lo dispuesto en el presente.
+
+SEXTO. En un plazo de 60 días hábiles posteriores a la entrada en vigor del presente Reglamento, la Agencia Digital de Innovación Pública de la Ciudad de México realizará las adecuaciones correspondientes a la Plataforma Digital con la finalidad de dar cumplimiento a lo establecido en el Reglamento. Posteriormente, brindará a la Secretaría las llaves de acceso y demás mecanismos para su operación.
