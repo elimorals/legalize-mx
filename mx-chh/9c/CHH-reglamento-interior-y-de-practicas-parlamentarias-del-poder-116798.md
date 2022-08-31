@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-y-de-practicas-parlamentarias-del-poder-116
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-01"
-last_updated: "2022-05-25"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 1 de octubre de 2016.
 
@@ -79,7 +79,9 @@ VII. Presidencia: La Presidencia de la Mesa Directiva del Congreso del Estado.
 
 VIII. Presidencia de la Junta: La Diputada o Diputado que presida la Junta de Coordinación Política del Congreso.
 
-IX. Punto de Acuerdo: Iniciativa que presentan las y los legisladores, a efecto de que el Pleno del Congreso o la Diputación Permanente emitan la resolución con carácter de Acuerdo.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+IX. Proposición con carácter de Punto de Acuerdo: Son los asuntos que las personas legisladoras ponen a consideración del Congreso, que no constituyen iniciativas de ley o decreto, sino pronunciamientos sobre asuntos políticos, culturales, económicos o sociales para formular alguna posición, exhorto o recomendación a nombre del Poder Legislativo.
 
 X. Reglamento: El Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
 
@@ -87,9 +89,19 @@ X. Reglamento: El Reglamento Interior y de Prácticas Parlamentarias del Poder L
 
 XI. Sesiones y reuniones mediante acceso remoto o virtual: Son aquellas realizadas por videoconferencia, que permiten a las diputadas y diputados interactuar desde cualquier lugar fuera del Recinto Legislativo, por medio de la utilización de una tablet o computadora; usando programas informáticos en la nube, para trabajar en forma colaborativa a través de la transmisión de video, voz y datos.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 2 DE MAYO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2022)</small>
 
-XII. Voto ponderado: Porcentaje que representa cada miembro de la Junta de Coordinación Política y se obtiene de dividir el número de integrantes que corresponda a cada grupo, coalición, representación parlamentarios (sic) o independiente, entre el número total de miembros de la Legislatura.
+XII. Solicitudes de gestión o de información gubernamental: Aquellas que realizan las personas legisladoras encaminadas a facilitar u orientar algún trámite, o bien, obtener datos de su interés.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2022)</small>
+
+XIII. Voto ponderado: Porcentaje que representa cada miembro de la Junta de Coordinación Política y se obtiene de dividir el número de integrantes que corresponda a cada grupo, coalición, representación parlamentarios o independiente, entre el número total de miembros de la Legislatura.
+
+> <small>[N. DE E. PERTENECE AL SEGUNDO PÁRRAFO DEL ARTÍCULO, P.O. 31 DE AGOSTO DE 2022]</small>
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+Para efectos de lo contemplado en las fracciones IX y XII, la persona legisladora podrá elegir la vía en que presentará su asunto.
 
 ###### ARTÍCULO 3.
 
@@ -279,9 +291,15 @@ La integración, fusión, cambio de nombre o disolución de un grupo parlamentar
 
 Las y los diputados que abandonen el grupo parlamentario al que pertenezcan, podrán, por única ocasión, integrarse a otro ya constituido, pero no podrán conformar un nuevo grupo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 16.
 
-Las y los diputados que dejen de pertenecer a un grupo parlamentario, sin integrarse a otro existente, serán considerados como independientes y tendrán las mismas atribuciones, derechos y obligaciones que para las y los legisladores señala la normatividad aplicable.
+La diputada o diputado independiente es quien haya sido electo por el sistema de candidatura independiente, y tendrá las atribuciones, derechos y obligaciones que para las personas legisladoras señala la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+La diputada o diputado sin partido es quien ha dejado de pertenecer a un Grupo Parlamentario o a una Representación Parlamentaria, y tendrá las atribuciones, derechos y obligaciones que para las personas legisladoras señala la normatividad aplicable.
 
 ###### ARTÍCULO 17.
 
@@ -447,13 +465,25 @@ Quienes hayan sido electos para integrar la Mesa Directiva del segundo y tercer 
 
 Quien presida la Mesa Directiva en funciones, invitará a las diputadas y los diputados integrantes de la Mesa Directiva correspondiente, se pongan de pie, a fin de tomarles la protesta bajo el protocolo previsto en el artículo 20 de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 38.
 
-La Mesa Directiva requerirá para su funcionamiento la presencia de la o el Presidente y de quienes ocupen las secretarías.
+La Mesa Directiva requerirá para su funcionamiento la presencia de por lo menos cinco de sus integrantes y se reunirá previamente a la realización de la sesión del Pleno o de la Diputación Permanente, en cualquiera de sus modalidades.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+En caso de que, para llevar a cabo alguna reunión, se requiera modificar, suprimir o agregar un horario o días distintos a los señalados en el párrafo anterior, la Presidencia de la Mesa Directiva, a través de la Secretaría de Asuntos Legislativos y Jurídicos, formulará la convocatoria correspondiente y la enviará, por correo electrónico, a las y los integrantes de la misma, por lo menos con doce horas previas a que se lleve a cabo dicha reunión.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+Si se requiere celebrar alguna reunión de manera urgente, la Presidencia hará la convocatoria y la comunicará a las y los integrantes de la Mesa Directiva, a través de cualquier medio que esté a su alcance, sustentando debidamente la petición y sin que resulte obligatorio para ello considerar las doce horas previas a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 39.
 
-Las inasistencias de los miembros de la Mesa Directiva serán cubiertas de la siguiente manera:
+Las inasistencias de quienes integran la Mesa Directiva serán cubiertas de la siguiente manera:
 
 I.- Las de quien presida, por las o los Vicepresidentes o, en su defecto, por quienes ocupen las Secretarías, en ambos casos, en el orden que señala el artículo 34 de este Reglamento.
 
@@ -597,9 +627,11 @@ Las ausencias de las y los vocales no podrán ser cubiertas.
 
 Tratándose del Comité de Adquisiciones, Arrendamientos y Servicios, cada integrante designará por escrito a su respectiva persona suplente, quien deberá pertenecer al mismo órgano que su titular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 56.
 
-Las reuniones de comisión se desarrollarán de conformidad con el orden del día, el cual deberá adjuntarse a la convocatoria respectiva y contendrá, entre otros, lo siguiente:
+Las reuniones de comisión se transmitirán en vivo de acuerdo con la disponibilidad tecnológica y en su totalidad se publicarán en la página oficial del Congreso, con excepción de las de carácter privado, y se desarrollarán de conformidad con el orden del día, el cual deberá adjuntarse a la convocatoria respectiva y contendrá, entre otros, lo siguiente:
 
 I.- Pase de lista de asistencia y declaración de quórum, en su caso.
 
@@ -857,6 +889,14 @@ Tratándose de las iniciativas que se presenten en los términos de las fraccion
 
 En el caso de las iniciativas referidas en la fracción I, con la finalidad de ilustrar la exposición de motivos, el Diputado o Diputada exponente podrá solicitar la proyección de videos e imágenes.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+En todo caso, el texto completo de las iniciativas, asuntos o cualquier otro documento, que habrán de desahogarse en el orden del día de la Sesión del Pleno o de la Diputación Permanente, deberán ser enviados a la Secretaría de Asuntos Legislativos y Jurídicos, a través de la plataforma tecnológica o por medio de correo electrónico, a más tardar a las 15:00 horas, del día hábil previo a la celebración de la Sesión.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+De no enviarse las iniciativas, asuntos o cualquier otro documento en los términos descritos, estos no serán incluidos en el orden del día correspondiente, salvo que el iniciador o iniciadora lo solicite por escrito a la Presidencia de la Mesa Directiva, adjuntando el documento respectivo, para que a juicio de la Mesa Directiva se apruebe su inclusión en el orden del día.
+
 ###### ARTÍCULO 78.
 
 Una iniciativa presentada, solamente puede ser retirada por quien o por unanimidad de quienes la hayan presentado, antes de haber sido dictaminada, bajo el siguiente procedimiento:
@@ -879,7 +919,13 @@ En caso de presentarse una iniciativa que ya ha sido resuelta en sentido negativ
 
 Los dictámenes son documentos que contienen el análisis pormenorizado y la propuesta de resolución de las iniciativas que le fueron turnadas a las comisiones.
 
-Los dictámenes habrán de ser dirigidos al Honorable Congreso del Estado y serán impresos en hojas oficiales que contengan el nombre de la comisión o, en su caso, el de las comisiones Unidas, el que deberá de obrar en el margen superior derecho del documento.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+Los dictámenes habrán de ser dirigidos al Honorable Congreso del Estado y serán impresos en hojas oficiales que contengan el nombre de la Comisión o, en su caso, el de las Comisiones Unidas, el que deberá obrar en el margen superior derecho del documento y seguirán, en lo que les corresponda, las reglas previstas en los párrafos cuarto y quinto del artículo 77 de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+Se entenderá por dictámenes en sentido positivo aquellos que la o las Comisiones, o Comité respectivo, hayan resuelto su viabilidad y procedencia, pudiendo contener modificaciones al planteamiento original de la iniciativa que se trate; serán dictámenes en sentido negativo aquellos que se haya (sic) determinado, por el órgano competente, su inviabilidad, improcedencia o que hayan quedado sin materia. En este último supuesto, se hará la aclaración si dicha determinación fue como consecuencia de alguna causa no imputable a la parte iniciadora.
 
 ###### ARTÍCULO 81.
 
@@ -973,6 +1019,10 @@ Las convocatorias a sesiones Solemnes se ajustarán a las formalidades previstas
 
 La sesión se sujetará a lo dispuesto por la Ley, se desahogará de conformidad con el orden del día y para su desarrollo se seguirán las formalidades previstas en este Capítulo.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+Para los efectos previstos en este Reglamento, se considerará el día previo a la Sesión, el día hábil anterior a la que esta habrá de celebrarse.
+
 ###### ARTÍCULO 91.
 
 Reunidos en el Recinto Oficial, en el día y la hora indicada para la celebración de la sesión, quien presida la Mesa Directiva hará sonar la campana y declarará su inicio formal.
@@ -1049,9 +1099,35 @@ Si alguno de los legisladores manifestara objeción en cuanto a los turnos propu
 
 Hecho lo anterior, la Presidencia ratificará el turno de los asuntos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 100.
 
-Para el desahogo de los asuntos enlistados en el orden del día aprobado, la Presidencia concederá el uso de la palabra, en riguroso turno, a quienes les darán lectura.
+Para el desahogo de los asuntos enlistados en el orden del día aprobado, la Presidencia concederá el uso de la palabra, en riguroso turno, a quienes les darán lectura. En el caso de los dictámenes, se atenderá a lo siguiente:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE AGOSTO DE 2022)</small>
+
+I. Los dictámenes cuya resolución se proponga en sentido negativo, se agruparán y se someterán a votación en su conjunto, sin discusión ni debate, sin que ello implique una limitación a lo establecido en el artículo 193, fracción VII de la Ley.
+
+Cuando alguna de las personas iniciadoras manifieste su deseo de que sea excluido de este grupo el dictamen correspondiente a su iniciativa, se le dará el trámite siguiente:
+
+a) En primer término, se votarán aquellos que no fueron excluidos.
+
+b) A continuación, se le concederá la palabra a quien solicitó la exclusión del dictamen, para presentar, de viva voz desde la tribuna, sus argumentos, hasta por diez minutos.
+
+c) Después, se abrirá una ronda de personas oradoras a favor y en contra, o en un mismo sentido, en su caso, hasta por diez minutos cada una, observando la pluralidad y equidad en el debate de los asuntos.
+
+d) Concluida esta ronda, la Presidencia declarará si se considera suficientemente discutido. Si es así, se someterá a votación, de forma inmediata, el dictamen reservado.
+
+e) En caso contrario, se abrirá otra ronda de personas oradoras en términos de lo antes señalado. La Presidencia declarará si el asunto está suficientemente discutido; de ser el caso, se someterá a votación, de forma inmediata.
+
+f) El Pleno, por mayoría, determinará si procede abrir más rondas de discusión, bajo los mismos términos expuestos en la presente fracción.
+
+Si el dictamen no alcanzare la votación requerida para su aprobación, se devolverá a la Comisión de origen, a efecto de que, atendiendo a los argumentos que dieron motivo a la negativa, lo presente, de nueva cuenta, a la consideración del Pleno, en un plazo que no excederá de quince días hábiles, contados a partir de la referida remisión. En caso de que el dictamen de que se trate, no reúna nuevamente los votos requeridos para su aprobación, este se desechará y se ordenará se archive como asunto concluido.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+II. Aquellos cuya resolución sea en sentido positivo, se concederá la palabra, hasta por veinte minutos, para su lectura, desde la tribuna y se desahogarán en riguroso turno y conforme al procedimiento señalado en el artículo 116 de este Reglamento.
 
 ###### ARTÍCULO 101.
 
@@ -1069,9 +1145,9 @@ II.- Si el asunto requiere de pronunciamiento por parte del Pleno, lo someterá 
 
 III.- En caso de que las y los diputados manifiesten interés de participar para exponer su opinión respecto al asunto que se esté desahogando, se abrirá la discusión en los términos que establece el Capítulo V de este Título.
 
-IV.- Una vez agotada la discusión del asunto, o cuando a juicio de la Presidencia se considere lo suficientemente discutido, ordenará se abra el sistema de voto electrónico, a efecto de que las y los integrantes presentes en el Pleno registren su voto de esa manera y levantando la mano.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-La Presidencia otorgará un espacio de tiempo suficiente para tal efecto.
+IV.- Una vez agotada la discusión del asunto, la Presidencia ordenará se abra el sistema de voto electrónico, a efecto de que las y los integrantes presentes en el Pleno registren su voto de esa manera y levantando la mano, La Presidencia otorgará un espacio de tiempo suficiente para tal efecto.
 
 V.- Cerrada la votación, una de las Secretarías dará cuenta del resultado de la misma.
 
@@ -1099,17 +1175,7 @@ En este caso, y para efectos estadísticos, el consentimiento para la adhesión 
 
 ###### ARTÍCULO 106.
 
-Para los efectos del artículo 174 de la Ley, las y los diputados podrán presentar iniciativas con carácter urgente, siendo aplicable, en lo conducente, lo previsto en este Capítulo, y además se observará lo siguiente:
-
-I.- Al término de la lectura de la iniciativa, la o el iniciador declarará que dada la urgencia del tema, se hace necesario resolverla, en ese momento.
-
-II.- La Presidencia pondrá a consideración del Pleno o de la Diputación Permanente si dicha iniciativa tiene el carácter de urgente; de ser así, se procederá a su votación en los términos previstos en el presente Capítulo.
-
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2019)</small>
-
-III.- La Presidencia instruirá a la Secretaría de Asuntos Legislativos y Jurídicos para que elabore la minuta que corresponda y lo envíe a las instancias competentes.
-
-IV.- Si no fuere aprobado el carácter de urgente, la iniciativa se turnará a la comisión u órgano correspondiente, para su análisis y posterior dictamen.
+(DEROGADO, P.O. 31 DE AGOSTO DE 2022)
 
 ###### ARTÍCULO 107.
 
@@ -1197,15 +1263,29 @@ I.- Discusión y votación en lo general.- Concluida la lectura del dictamen y l
 
 a. Las y los diputados podrán intervenir para expresar opiniones respecto del dictamen referido en el párrafo anterior, reiterando que es en cuanto a las generalidades del mismo y no a una disposición en lo particular.
 
-b. La Presidencia concederá el uso de la palabra hasta por veinte minutos, en el orden en que se solicite.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+b) La Presidencia concederá el uso de la palabra hasta por diez minutos, en el orden en que se solicite. Se podrán conceder cinco minutos adicionales a solicitud de la persona oradora.
 
 c. La Presidencia por sí o por conducto de las Secretarías elaborará un listado de oradores, señalando quiénes a favor y quiénes en contra, con el propósito de establecer un orden y límite en las intervenciones.
 
-d. A partir de esta determinación, podrán enlistarse hasta seis oradores en cada sentido, quienes harán uso de la palabra alternadamente y hasta por el tiempo señalado en el inciso b), de esta fracción, iniciando por el primer inscrito en contra.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE AGOSTO DE 2022)</small>
+
+d) A partir de esta determinación, podrán enlistarse personas oradoras en cada sentido, o en un mismo sentido, en su caso, quienes harán uso de la palabra alternadamente y hasta por el tiempo señalado en el inciso b), de esta fracción, iniciando por la primera inscrita en contra, observando los principios de pluralidad y equidad en el debate de los asuntos.
 
 Si quien haya solicitado la palabra no estuviere presente en el recinto oficial cuando le corresponda intervenir, perderá su derecho a ello.
 
-e. Agotadas las intervenciones, la Presidencia ordenará se abra el sistema de voto electrónico, a efecto de que las y los integrantes presentes en el Pleno registren su voto de esa manera y levantando la mano.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE AGOSTO DE 2022)</small>
+
+e) Agotadas las intervenciones, la Presidencia declarará si se considera suficientemente discutido. Si es así, se someterá a votación de forma inmediata y ordenará se abra el sistema de voto electrónico, a efecto de que las y los integrantes presentes en el Pleno registren su voto de esa manera y levantando la mano.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+En caso contrario, se abrirá otra ronda de personas oradoras en términos de lo dispuesto en este artículo. La Presidencia declarará si el asunto está suficientemente discutido, de ser el caso, se someterá a votación de forma inmediata.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+El Pleno, por mayoría, determinará si procede abrir más rondas de discusión bajo los mismos términos expuestos en el presente inciso.
 
 f. La Secretaría que corresponda informará a la Presidencia el resultado de la votación y esta hará la declaratoria correspondiente.
 
@@ -1225,11 +1305,15 @@ a. Las y los diputados podrán intervenir para expresar su desacuerdo respecto d
 
 En caso de no presentar propuestas alternas, dicha reserva se tendrá por no formulada.
 
-b. La Presidencia concederá el uso de la palabra, hasta por quince minutos, a las y los diputados que lo soliciten para que expongan sus argumentos sobre las propuestas presentadas.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+b) La Presidencia concederá el uso de la palabra, hasta por diez minutos, a las diputadas y diputados que lo soliciten para que expongan sus argumentos sobre las propuestas presentadas.
 
 c. La Presidencia por sí o por conducto de las Secretarías elaborará un listado de oradores, señalando quiénes a favor y quiénes en contra, con el propósito de establecer un orden y límite en las intervenciones.
 
-d. A partir de esta determinación, podrán enlistarse hasta seis oradores en cada sentido, quienes harán uso de la palabra alternadamente y hasta por el tiempo señalado en el inciso b), de esta fracción, iniciando por quien se haya anotado en primer lugar en contra.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE AGOSTO DE 2022)</small>
+
+d) A partir de esta determinación, podrán enlistarse personas oradoras en cada sentido, o en un mismo sentido, en su caso, quienes harán uso de la palabra alternadamente y hasta por el tiempo señalado en el inciso b), de esta fracción, iniciando por la primera inscrita en contra, observando los principios de pluralidad y equidad en el debate de los asuntos.
 
 Si quien haya solicitado la palabra no estuviere presente en el salón de sesiones cuando le corresponda intervenir, perderá su derecho a ello.
 
@@ -1243,7 +1327,9 @@ Las votaciones sobre cada uno de los artículos reservados podrán realizarse al
 
 f. Una de las Secretarías informará a la Presidencia el resultado de la votación y esta hará la declaratoria correspondiente.
 
-Las reservas aprobadas se incorporarán al dictamen o documento de que se trate, cuando se elabore la minuta correspondiente.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+Las reservas aprobadas se incorporarán a la resolución respectiva, cuando se elabore la minuta correspondiente.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1267,11 +1353,29 @@ Una vez concluidas las votaciones en lo general y en lo particular, la Presidenc
 
 Tratándose de asuntos distintos a los contemplados en la sección anterior, se observará el procedimiento ahí previsto, con las siguientes particularidades:
 
-I.- Intervendrán un máximo de tres oradores a favor o en contra del documento puesto a consideración de la Asamblea.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-II.- Dichas intervenciones tendrán una duración de 10 minutos cada una.
+I. Se abrirá una ronda de personas oradoras, hasta por diez minutos cada intervención, alternando las participaciones y observando los principios de pluralidad y equidad en el debate de los asuntos.
 
-III.- Cuando la naturaleza del asunto lo demande, la discusión y votación tanto en lo general como en lo particular se llevará en su conjunto.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+II. Concluida esta ronda, la Presidencia declarará si se considera suficientemente discutido el tema. De ser así, se someterá a votación de forma inmediata.
+
+En caso contrario se abrirá otra ronda de personas oradoras en los términos señalados; al concluir dicha ronda, la Presidencia declarará si el asunto está suficientemente discutido; de ser el caso, se someterá a votación de forma inmediata.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2022)</small>
+
+III. De no considerarse suficientemente discutido, el Pleno, por mayoría, determinará si procede abrir más rondas de discusión, bajo los mismos términos expuestos en el presente artículo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2022)</small>
+
+IV. Cuando la naturaleza del asunto lo demande, la discusión y votación tanto en lo general como en lo particular se llevará en su conjunto.
+
+> <small>[N. DE E. PERTENECE AL SEGUNDO PÁRRAFO DEL ARTÍCULO, P.O. 31 DE AGOSTO DE 2022]</small>
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+Cuando se trate de Proposiciones con carácter de Punto de Acuerdo no procederán las reservas. Sin embargo, las personas legisladoras podrán presentar una moción para hacer modificaciones, sin que estas cambien la intención de la propuesta, de así aprobarse por el Pleno o por la Diputación Permanente.
 
 ### CAPÍTULO VI. PREVENCIONES GENERALES Y MOCIONES
 
@@ -1300,6 +1404,10 @@ Quedan prohibidas las imputaciones falsas y las alusiones irrespetuosas tanto a 
 ###### ARTÍCULO 123.
 
 La Presidencia no permitirá la interrupción a las y los diputados durante su intervención, a menos que la o el orador lo consienta para atender una pregunta o hacer una precisión, siempre y cuando aquella así lo autorice y no se trate de una discusión en forma de diálogo.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+La persona oradora tendrá un máximo de cinco minutos para dar su respuesta y reanudará su intervención. No se computará el tiempo que la oradora u orador emplee para responder la pregunta.
 
 ###### ARTÍCULO 124.
 
@@ -1894,3 +2002,13 @@ El presente Decreto entrará en vigor el mismo día en que lo haga el Decreto No
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFLEY/0279/2022 III P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las iniciativas con carácter de Punto de Acuerdo que se encuentren en estudio en las diversas Comisiones y Comités, a la entrada en vigor de este Decreto, que tengan como propósito las solicitudes de gestión y de información a una dependencia gubernamental, se les dará el tratamiento aludido en el presente Decreto, en el entendido que se tendrán que turnar y dar por atendidas en los términos presentados, mediante acuerdo de trámite, previa consulta y manifestación expresa de la persona iniciadora o, en su caso, del Grupo Parlamentario que se trate.
+
+TERCERO.- La observancia del principio de paridad de género a que se refiere el artículo 126 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, será aplicable en las próximas designaciones y nombramientos que se realicen.
