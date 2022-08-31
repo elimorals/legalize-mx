@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2021-02-27"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -395,11 +395,17 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de o
 
 ## TITULO CUARTO. DEL NOMBRE
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTICULO 47.
 
 De las personas físicas
 
-El nombre de las personas físicas se forma por el nombre propio y los apellidos paternos de sus progenitores.
+El nombre de las personas físicas se forma por el nombre propio y los apellidos de los padres en el orden de prelación que ellos convengan.
+
+Los padres, al momento del registro decidirán el orden de los apellidos asentándolo en el formato respectivo ante el Oficial del Registro Civil; el orden de los apellidos acordado entre padre y madre se considerará para los demás hijos o hijas de la misma filiación.
+
+Cuando no haya acuerdo entre los padres respecto al orden que deben seguir los apellidos del hijo o hija, el Oficial del Registro Civil los exhortará a convenir expresamente el crden (sic) de los apellidos, si persiste el desacuerdo, en atención al interés superior de la niñez se asentará en el acta el primer apellido del padre seguido del primer apellido de la madre.
 
 ###### ARTICULO 48.
 
@@ -707,11 +713,13 @@ Obligación de dar aviso
 
 Los médicos, cirujanos, comadronas u otras personas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil de la localidad, dentro de los diez días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna. Si el nacimiento tuviere lugar en un sanatorio, la obligación a que se refiere el párrafo anterior estará a cargo del director o de la persona encargada de la administración.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTICULO 89.
 
 Contenido
 
-El acta de nacimiento contendrá el día, mes, año, hora y lugar de nacimiento, el sexo, la impresión digital del presentado, el nombre que le corresponda, sin que por motivo alguno puedan omitirse; la expresión de si es presentado vivo o muerto; el nombre, edad, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos y, si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en el artículo siguiente.
+El acta de nacimiento contendrá el día, mes, año, hora y lugar de nacimiento, el sexo, la impresión digital del presentado, el nombre y los apellidos que le correspondan, indistintamente el orden de estos, a manifestación expresa de los padres, sin que por motivo alguno puedan omitirse; la expresión de si es presentado vivo o muerto; el nombre, edad, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, apellidos, edad, domicilio y nacionalidad de los testigos y, si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en el artículo siguiente.
 
 ###### ARTICULO 90.
 
@@ -25868,3 +25876,11 @@ P.O. 27 DE FEBRERO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 070 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 47 EN SU INTEGRIDAD Y 89 DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
