@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2022-08-30"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -4919,9 +4919,11 @@ c) Constituyan actos anticipados de precampaña o campaña;
 
 d) Violenten el ejercicio del derecho de réplica;
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
-e) Constituyan violencia política por razones de género; o,
+e) Constituyan violencia política, excepto la violencia política contra la mujer en razón de género.
+
+Se entenderá por Violencia Política lo establecido en el artículo 230, fracción I, inciso m) del presente Código;
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -5061,9 +5063,223 @@ a) Declarar la inexistencia de la violación objeto de la queja o denuncia y, en
 
 b) Imponer las sanciones que resulten procedentes en términos de lo dispuesto en este Código.
 
-### CAPÍTULO CUARTO. DE LAS MEDIDAS CAUTELARES EN MATERIA ELECTORAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2022)</small>
 
-### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO TERCERO BIS. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LA MUJER EN RAZÓN DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 264 Bis.
+
+Los hechos relacionados con violencia política contra la mujer en razón de género, serán sustanciados y resueltos mediante el procedimiento especial sancionador regulado en el presente capítulo, antes, durante y después de los procesos electorales.
+
+Para la tramitación, sustanciación y resolución del procedimiento regulado en este capítulo se aplicarán las reglas generales, así como las reglas del procedimiento especial sancionador que establece este Código, salvo disposición en contrario.
+
+La autoridad competente para tramitar y sustanciar el procedimiento lo será el Instituto por conducto de la Secretaría Ejecutiva.
+
+El Tribunal será el competente para resolver el procedimiento, con base en las reglas que establezca la normativa aplicable y en su caso, las sanciones y medidas de reparación correspondientes.
+
+El Instituto, por conducto del área competente, deberá brindar asesoría legal a las víctimas.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 264 Ter.
+
+Para la debida tramitación y sustanciación del procedimiento, el Instituto por conducto de la Secretaría Ejecutiva, deberá agotar todas las líneas de investigación necesarias y requerir información a cualquier autoridad, persona física o moral.
+
+En todo caso, podrá apercibirse a los requeridos con las siguientes medidas de apremio:
+
+I. Amonestación pública;
+
+II. Multa que va desde las cincuenta hasta las cinco mil Unidades de Medida y Actualización (UMA); y,
+
+III. Auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 264 Quater.
+
+Podrán ser sujetos de responsabilidad de violencia política contra la mujer en razón de género los mismos sujetos a los que se refiere el presente Código, con excepción de lo establecido en la Constitución Local.
+
+Las sanciones que podrán imponerse a los infractores serán las mismas a las que se refiere este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 264 Quinquies.
+
+Las quejas o denuncias deberán ser presentadas por escrito a instancia de parte, o de forma oral ante el Instituto por conducto del Órgano Central o sus Desconcentrados y deberán ser ratificadas en el mismo acto.
+
+El escrito inicial de queja o denuncia deberá contener los requisitos siguientes:
+
+I. Nombre de la persona promovente, con firma autógrafa o huella dactilar;
+
+II. Correo electrónico o domicilio para oír y recibir notificaciones en la capital del Estado de Michoacán, así como número telefónico, y en su caso, personas autorizadas para tal efecto;
+
+III. Los documentos necesarios e idóneos para acreditar la personería, en su caso;
+
+IV. Nombre de quien se denuncia y domicilio, en su caso;
+
+V. Narración expresa y clara de los hechos en que base su queja o denuncia y, de ser posible, los preceptos presuntamente violados, precisando circunstancias de modo, tiempo y lugar;
+
+VI. Ofrecer y aportar las pruebas con que cuente, o en su caso, mencionar las que habrán de requerirse, cuando la parte promovente acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. La parte denunciante deberá relacionar las pruebas que ofrezca con cada uno de los hechos narrados en su escrito inicial de queja o denuncia; y,
+
+VII. En su caso, las medidas cautelares o de protección que soliciten.
+
+Ante la omisión de los requisitos señalados la Secretaría Ejecutiva prevendrá a la persona denunciante para que, en un plazo improrrogable de tres días, contados a partir de su notificación, los subsane o aclare. En caso de no hacerlo, se desechará de plano la queja o denuncia.
+
+Ante la omisión del requisito establecido en la fracción II, se prevendrá a la persona denunciante para que, en el mismo plazo de tres días, contados a partir de su notificación, señale domicilio para oír y recibir notificaciones, con el apercibimiento que, de no hacerlo, las subsecuentes notificaciones se harán por estrados, aún las de carácter personal.
+
+En caso de que la queja se presente por un tercero, el Instituto notificará a la víctima para efectos de ser ratificada, en un plazo no mayor a cuarenta y ocho horas, y una vez notificada, esta contará con el mismo término para ratificarla. Este último supuesto podrá acreditarse mediante cualquier elemento que genere certeza a la autoridad instructora de la voluntad de la víctima de dar inicio al procedimiento, como poder notarial, comparecencia ante cualquier órgano del Instituto dotado de fe pública, o en su caso, el Instituto podrá disponer de personal debidamente acreditado para realizar la certificación de ratificación del escrito inicial en el domicilio que solicite la víctima bajo causa justificada.
+
+En caso de no presentarse ningún elemento que permita corroborar el consentimiento de la víctima, la autoridad instructora podrá requerirla en un plazo de cuarenta y ocho horas, para que, en el plazo concedido para tal efecto, manifieste si es o no su intención dar inicio al procedimiento correspondiente, otorgándole la facultad de presentar los elementos de prueba que estime pertinentes. En el supuesto de que no se cuente con los referidos elementos, se tendrá por desechada de plano la queja o denuncia.
+
+Cuando se presenten ante el Instituto, vistas ordenadas por cualquier autoridad, se haya ordenado la escisión de un procedimiento o juicio diverso, o se remita al Instituto una queja o denuncia presentada ante instancia diversa por la posible comisión de hechos o conductas que puedan constituir violencia política contra las mujeres en razón de género se deberá prevenir a las presuntas víctimas para que en el plazo de tres días hábiles acudan ante los órganos del Instituto a fin de que manifiesten si es su deseo presentar queja y en su caso lo lleven a cabo, en los términos señalados en este capítulo.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 264 Sexies.
+
+La queja o denuncia será improcedente, se desechará o se sobreseerá por la Secretaría Ejecutiva, sin prevención alguna, en los siguientes casos:
+
+I. Son causales de improcedencia:
+
+a) La persona denunciante que no aporte ni ofrezca prueba alguna de sus dichos y la autoridad, a partir de la realización y desahogo de todas las diligencias que tenga a su alcance, no las pueda obtener;
+
+b) La queja o denuncia sea evidentemente frívola y notoriamente improcedente;
+
+c) Aquellas que se refieran a hechos que no configuren el tipo de violencia política contra las mujeres en razón de género; y,
+
+d) Cuando verse sobre presuntos hechos constitutivos de violencia política contra las mujeres en razón de género al interior de un partido político, ya que estas se atenderán a través del mecanismo que se establezca en la Ley General de Partidos Políticos; debiendo en estos casos remitir a la instancia competente.
+
+El acuerdo de desechamiento respectivo deberá ser dictado por la Secretaría Ejecutiva dentro del plazo de veinticuatro horas posteriores a la recepción de la queja y deberá de notificarse a la parte denunciante dentro del plazo de doce horas contadas a partir de su emisión.
+
+II. Son causales de sobreseimiento cuando:
+
+a) La persona denunciante presente escrito de desistimiento ratificado personalmente dentro del término correspondiente. Siempre y cuando lo exhiba antes de remitir el expediente al Tribunal para su resolución.
+
+Cuando la parte quejosa se desista de la queja, la Secretaría Ejecutiva notificará personalmente a la parte quejosa para que ratifique su escrito personalmente en un plazo de tres días, apercibida de que, en caso de no hacerlo, se le tendrá por no desistida y se continuará con el procedimiento; y,
+
+b) El sujeto a quién atribuir la conducta denunciada haya fallecido.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 264 Septies.
+
+Además de las pruebas a las que se refiere el presente capítulo, en el procedimiento especial sancionador regulado en el presente Código, se podrán ofrecer las pruebas relativas al reconocimiento o inspección ocular, así como la prueba pericial.
+
+La Secretaría Ejecutiva podrá ordenar el desahogo de reconocimientos o inspecciones oculares, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen determinantes para el esclarecimiento de los hechos denunciados, tomando en consideración los principios de expedités (sic) y debido proceso. El desahogo de los reconocimientos e inspecciones oculares atenderá a lo siguiente:
+
+a) Del reconocimiento e inspección ocular se elaborará acta en que se asiente los hechos que generaron la denuncia presentada, circunstancias de tiempo, modo y lugar, y observaciones que realicen los que en ella intervinieron, debiendo identificarse y firmar el acta. Cuando fuere preciso se harán planos o se tomarán vistas fotográficas del lugar u objeto inspeccionado, o cualquier otro medio de reconocimiento.
+
+El acta de inspección ocular deberá contener cuando menos:
+
+I. Los medios por los que se cercioró que efectivamente se constituyó en los lugares indicados;
+
+II. Las características o rasgos distintivos de los lugares en donde se actuó;
+
+III. Los elementos que se observaron en relación con los hechos objeto de la inspección;
+
+IV. Los medios en que se registró la información; y,
+
+V. Los nombres de las personas a las que, en su caso, se entrevistó y la información que éstas proporcionaron respecto de los hechos materia de inspección o reconocimiento.
+
+La quejosa podrá solicitar la colaboración de los Notarios Públicos.
+
+Para el desahogo de la prueba pericial, se deberán seguir las reglas siguientes:
+
+I. Señalar el nombre completo, domicilio y teléfono de la persona perita que se proponga y acreditar que cuenta con título profesional que acredite su capacidad técnica para desahogar la pericial;
+
+II. Acordar la aceptación del cargo de la persona perita y llevar a cabo la protesta de su legal desempeño;
+
+III. Formular el cuestionario al que será sometido la persona perita, integrado por las preguntas específicas y concretas que considere pertinentes;
+
+IV. Dar vista con el referido cuestionario tanto a la persona denunciante como a la persona denunciada, para que, por una sola ocasión, adicionen las preguntas que consideren necesarias a dicho cuestionario;
+
+V. Tras lo anterior, previa calificación de la autoridad que desahogue el procedimiento integrará las preguntas formuladas por las partes al cuestionario que será sometido a la persona perita; y,
+
+VI. Una vez respondido el cuestionario, dar vista del mismo a las partes, la denunciante y la denunciada, para que expresen lo que a su derecho convenga, lo cual ocurrirá en audiencia oral el mismo día, estando presentes las partes intervinientes.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 264 Octies.
+
+Las medidas cautelares serán dictadas por la Titular de la Secretaría a petición de parte o de forma oficiosa y deberán presumir, la apariencia del buen derecho y el peligro en la demora para otorgarlas, de lo contrario se negarán.
+
+Las medidas cautelares que podrán ser ordenadas son las siguientes:
+
+I. De emergencia;
+
+a) Prohibición de acercarse o comunicarse con la víctima;
+
+b) Limitación para asistir o acercarse al domicilio de la víctima o al lugar donde se encuentre; y,
+
+c) La prohibición de realizar conductas de intimidación o molestia a la víctima o a personas relacionados con ella.
+
+II. Preventivas;
+
+a) Protección policial de la víctima; y,
+
+b) Vigilancia policial en el domicilio de la víctima.
+
+III. Realizar análisis de riesgos y un plan de seguridad;
+
+IV. Retirar la campaña violenta contra la víctima, haciendo públicas las razones, a través de los medios que mejor se consideren para tal efecto, como podrán ser, entre otros, la publicación de un extracto de tal determinación a través de la página oficial del Instituto o de las autoridades electorales del ámbito territorial donde se haya cometido la posible infracción, o bien, por los mismos medios en que se cometió;
+
+V. Ordenar la suspensión temporal del registro de cualquier candidatura, de la persona presuntamente agresora; y,
+
+VI. Cuando la conducta sea reiterada, suspender el uso de las prerrogativas asignadas a la persona presuntamente agresora.
+
+Además de las anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la persona en situación de violencia.
+
+Para su dictado se seguirán las reglas establecidas en el presente Código.
+
+Cuando las medidas de protección sean competencia de otra autoridad, el Instituto dará vista de inmediato para que proceda a otorgarlas conforme a sus facultades y competencias.
+
+En las sentencias que dicte el Tribunal, se podrán dictar las siguientes medidas de reparación, además de las sanciones ya existentes:
+
+a) Indemnización de la víctima;
+
+b) Restitución inmediata de sus derechos político-electorales;
+
+c) Disculpa pública; y,
+
+d) Medidas de no repetición.
+
+Las autoridades vinculadas en las medidas deberán dar cumplimiento en sus términos a las medidas que se dicten en los procedimientos y en caso de incumplimiento se impondrá una medida de apremio.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 264 Nonies.
+
+La admisión, el emplazamiento y el desahogo de la audiencia de pruebas, alegatos, así como su remisión al Tribunal se seguirá conforme a lo establecido en el presente Código.
+
+En caso de que la parte denunciante comparezca de manera presencial al órgano en que se desahogará la audiencia de pruebas y alegatos, hasta antes de su inicio, podrá solicitar que la misma se lleve a cabo de manera virtual, en plena observancia a los derechos de la víctima u ofendida, para tal efecto la Secretaría Ejecutiva podrá dictar las medidas respectivas.
+
+El Tribunal, recibirá del Instituto el expediente original formado con motivo de la denuncia y el informe circunstanciado respectivo. Recibido el expediente en el Tribunal, el Presidente lo turnará a la Magistratura Ponente que corresponda, quién deberá:
+
+a) Radicar la denuncia, procediendo a verificar el cumplimiento, por parte del Instituto, de los requisitos previstos en este Código;
+
+b) Cuando advierta omisiones o deficiencias en la integración del expediente o en su tramitación, así como violación a las reglas establecidas en este Código, realizar, o en su caso, ordenar al Instituto la realización de diligencias para mejor proveer, determinando las que deban realizarse y el plazo para llevarlas a cabo, las cuales deberá desahogar en la forma más expedita;
+
+c) De persistir la violación procesal, la Magistratura Ponente podrá imponer las medidas de apremio necesarias para garantizar los principios de inmediatez y de exhaustividad en la tramitación del procedimiento. Lo anterior con independencia de la responsabilidad administrativa que en su caso pudiera exigirse a los funcionarios electorales;
+
+d) Una vez que se encuentre debidamente integrado el expediente, la Magistratura Ponente dentro de las cuarenta y ocho horas siguientes contadas a partir de su turno, deberá poner a consideración del pleno del Tribunal, el proyecto de sentencia que resuelva el procedimiento sancionador. El plazo establecido en este inciso podrá duplicarse, siempre y cuando el caso lo amerite, previo acuerdo de la Ponencia Instructora; y,
+
+e) El Pleno en sesión pública, resolverá el asunto en un plazo de cuarenta y ocho horas contadas a partir de que se haya distribuido el proyecto de resolución.
+
+Las sentencias que resuelva el procedimiento especial sancionador regulado en este artículo, podrán tener los efectos siguientes:
+
+a) Declarar la inexistencia de la violación objeto de la queja o denuncia y, en su caso, revocar las medidas cautelares y de protección que se hubieren impuesto; o,
+
+b) Imponer las sanciones y medidas de reparación que resulten procedentes en términos de lo dispuesto en este Código.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+###### ARTÍCULO 264 Decies.
+
+Las personas sentenciadas por la comisión de hechos de violencia política contra la mujer en razón de género deberán ser registradas en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política Contra las Mujeres en Razón de Género, así como en el Registro que para tal efecto establezca el Instituto.
+
+### CAPÍTULO CUARTO. DE LAS MEDIDAS CAUTELARES EN MATERIA ELECTORAL
 
 ###### ARTÍCULO 265.
 
@@ -5111,7 +5327,7 @@ En caso que la ejecución de las medidas cautelares genere gastos, y el infracto
 
 ## TÍTULO CUARTO. DEL PERSONAL DEL INSTITUTO ELECTORAL DE MICHOACÁN
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### ARTÍCULO 268.
 
@@ -5121,7 +5337,7 @@ La Contraloría del Instituto, su titular y el personal adscrito a la misma, cua
 
 A falta de disposición expresa en el presente Título, serán de aplicación supletoria, en lo conducente, las reglas de sustanciación y resolución del procedimiento sancionador previsto en la normatividad de Responsabilidades de los Servidores Públicos en el Estado y la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo.
 
-### CAPÍTULO PRIMERO. DE LOS MICHOACANOS EN EL EXTRANJERO
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### ARTÍCULO 269.
 
@@ -5209,7 +5425,7 @@ La Contraloría, además de imponer la sanción respectiva, requerirá al infrac
 
 ## TÍTULO PRIMERO. DEL VOTO DE LOS MICHOACANOS EN EL EXTRANJERO
 
-### CAPÍTULO SEGUNDO. DEL REGISTRO Y DE LA LISTA DE VOTANTES MICHOACANOS EN EL EXTRANJERO
+### CAPÍTULO PRIMERO. DE LOS MICHOACANOS EN EL EXTRANJERO
 
 ###### ARTÍCULO 274.
 
@@ -5265,7 +5481,7 @@ III. Un instructivo para votar, donde se indique el carácter secreto, personal 
 
 IV. Dos sobres; uno de resguardo en que el ciudadano introducirá la boleta sufragada y otro de envío en el que remitirá el sobre anterior, por correo postal. Este último tendrá impreso un código de barras con la clave del elector remitente, así como el domicilio del Instituto que determine la Junta Estatal Ejecutiva.
 
-### CAPÍTULO TERCERO. DEL VOTO POSTAL
+### CAPÍTULO SEGUNDO. DEL REGISTRO Y DE LA LISTA DE VOTANTES MICHOACANOS EN EL EXTRANJERO
 
 ###### ARTÍCULO 279.
 
@@ -5303,7 +5519,7 @@ Los partidos políticos tendrán derecho a designar un representante por cada me
 
 En caso de ausencia de los funcionarios de las mesas directivas de casilla, el Consejo General, a propuesta de la Junta Estatal Ejecutiva, determinará el procedimiento para la designación del personal del Instituto que los supla y adoptará las medidas necesarias para asegurar la integración y funcionamiento de las mesas de escrutinio y cómputo.
 
-### CAPÍTULO CUARTO. DISPOSICIONES GENERALES
+### CAPÍTULO TERCERO. DEL VOTO POSTAL
 
 ###### ARTÍCULO 284.
 
@@ -5361,7 +5577,7 @@ Las actas de escrutinio y cómputo de cada mesa serán conjuntadas y sumados sus
 
 El Consejo General, el miércoles siguiente al día de la elección, realizará la suma de los resultados consignados en las actas de escrutinio y cómputo de las mesas, para obtener el cómputo de la votación estatal recibida del extranjero, lo cual se hará constar en acta que será firmada por sus integrantes y por los representantes.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO CUARTO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 291.
 
@@ -5387,7 +5603,7 @@ Son aplicables, en todo lo que no contravenga a las normas del presente Libro, l
 
 ## TÍTULO SEGUNDO. DE LAS CANDIDATURAS INDEPENDIENTES
 
-### CAPÍTULO SEGUNDO. DEL PROCESO DE SELECCIÓN
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 295.
 
@@ -5445,7 +5661,7 @@ De aprobarse el registro de candidatos independientes, el Instituto dará aviso 
 
 El Consejo General pondrá a consideración del Instituto Nacional una propuesta de distribución, tomando en consideración el número de candidatos registrados para cada cargo de elección popular, debiendo prever la asignación de propuestas de pautado de los respectivos candidatos en base a zonas regionales de cobertura del Estado.
 
-### CAPÍTULO TERCERO. DEL REGISTRO
+### CAPÍTULO SEGUNDO. DEL PROCESO DE SELECCIÓN
 
 ###### ARTÍCULO 301.
 
@@ -5741,9 +5957,7 @@ Los aspirantes a candidatos independientes que tengan derecho a registrarse como
 
 Los candidatos independientes que hayan participado en una elección ordinaria que haya sido anulada, tendrán derecho a participar en las elecciones extraordinarias correspondientes; siempre que no la hayan provocado.
 
-### CAPÍTULO CUARTO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+### CAPÍTULO TERCERO. DEL REGISTRO
 
 ###### ARTÍCULO 317.
 
@@ -5789,7 +6003,9 @@ II. Cuando la solicitud de registro se haya presentado fuera de los plazos que s
 
 III. Cuando no se haya satisfecho cualquiera de los requisitos para la procedencia del registro a que se refiere este título y los demás que establezca este Código, ni siquiera con posterioridad al requerimiento que en su caso haya formulado el Instituto, o cuando el desahogo a este último se haya presentado de manera extemporánea.
 
-### CAPÍTULO QUINTO. DEL FINANCIAMIENTO Y PROCEDIMIENTOS DE FISCALIZACIÓN
+### CAPÍTULO CUARTO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 ###### ARTÍCULO 321.
 
@@ -5805,7 +6021,7 @@ IV. Realizar actos de campaña y difundir propaganda electoral en los términos 
 
 V. Designar representantes ante los órganos del Consejo; para tal efecto, el candidato independiente a Gobernador podrá nombrar representantes ante el Consejo General del Instituto, y la totalidad de los Consejos Distritales Electorales y mesas directivas de casilla; los candidatos independientes a diputados, y a los ayuntamientos, solo podrán hacerlo ante el Consejo Distrital o Consejo Municipal Electoral, respectivamente, y las mesas directivas de casilla.
 
-### CAPÍTULO ÚNICO. DEL PROCESO
+### CAPÍTULO QUINTO. DEL FINANCIAMIENTO Y PROCEDIMIENTOS DE FISCALIZACIÓN
 
 ###### ARTÍCULO 322.
 
@@ -5893,9 +6109,7 @@ Los candidatos independientes que incumplan con la normatividad electoral que le
 
 ## TÍTULO TERCERO. DEL PROCESO DE LOS PUEBLOS INDÍGENAS, Y SU DERECHO A ELEGIR AUTORIDADES BAJO EL RÉGIMEN DE USOS Y COSTUMBRES
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
+### CAPÍTULO ÚNICO. DEL PROCESO
 
 ###### ARTÍCULO 330.
 
@@ -5917,7 +6131,7 @@ DEL CUMPLIMIENTO DEL PRINCIPIO DE PARIDAD DE GÉNERO EN LA POSTULACIÓN DE CANDI
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO SEGUNDO. DE LA PARIDAD DE GÉNERO EN CANDIDATURAS INDEPENDIENTES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -5969,7 +6183,7 @@ Las candidaturas independientes tienen la obligación de garantizar la paridad d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO TERCERO. DE LA PARIDAD DE GÉNERO EN LOS PROCESOS DE SELECCIÓN INTERNA DE LOS PARTIDOS POLÍTICOS
+### CAPÍTULO SEGUNDO. DE LA PARIDAD DE GÉNERO EN CANDIDATURAS INDEPENDIENTES
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -6005,7 +6219,7 @@ Si la planilla la encabeza una mujer, la fórmula para Sindicatura deberá estar
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO CUARTO. REGISTRO DE CANDIDATURAS
+### CAPÍTULO TERCERO. DE LA PARIDAD DE GÉNERO EN LOS PROCESOS DE SELECCIÓN INTERNA DE LOS PARTIDOS POLÍTICOS
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -6023,7 +6237,7 @@ IV. La ponderación para garantizar cualitativa y cuantitativamente el principio
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO QUINTO. METODOLOGÍA PARA GARANTIZAR LA PARIDAD DE GÉNERO
+### CAPÍTULO CUARTO. REGISTRO DE CANDIDATURAS
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -6047,7 +6261,7 @@ En los distritos y municipios en que los Partidos Políticos no hubiesen registr
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO SEXTO. ELECCIÓN DE DIPUTACIONES
+### CAPÍTULO QUINTO. METODOLOGÍA PARA GARANTIZAR LA PARIDAD DE GÉNERO
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -6085,7 +6299,7 @@ a) (SIC) El Instituto verificará en todos los casos el bloque de votación más
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO SÉPTIMO. ELECCIÓN DE AYUNTAMIENTOS
+### CAPÍTULO SEXTO. ELECCIÓN DE DIPUTACIONES
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -6121,7 +6335,7 @@ Por lo que ve a las candidaturas de Diputados por el principio de Representació
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO OCTAVO. EN LAS COALICIONES Y CANDIDATURAS COMUNES
+### CAPÍTULO SÉPTIMO. ELECCIÓN DE AYUNTAMIENTOS
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -6147,7 +6361,7 @@ En la verificación del principio de paridad que realice el Instituto de las fó
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO NOVENO. VERIFICACIÓN DEL CUMPLIMIENTO DEL PRINCIPIO DE PARIDAD DE GÉNERO
+### CAPÍTULO OCTAVO. EN LAS COALICIONES Y CANDIDATURAS COMUNES
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -6207,7 +6421,7 @@ VII. Si los partidos políticos en la elección pasada fueron en coalición o ca
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 2020)</small>
 
-### CAPÍTULO DÉCIMO. ELECCIONES EXTRAORDINARIAS
+### CAPÍTULO NOVENO. VERIFICACIÓN DEL CUMPLIMIENTO DEL PRINCIPIO DE PARIDAD DE GÉNERO
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
@@ -6230,6 +6444,10 @@ En caso de que el partido político no modifique su postulación o dicha modific
 En las sustituciones, los partidos políticos tienen la obligación de cumplir con las reglas de paridad en sus diversas vertientes; en caso de que no lo hicieren, el Instituto los prevendrá y requerirá para que desahoguen los requerimientos correspondientes.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE ABRIL DE 2020)</small>
+
+### CAPÍTULO DÉCIMO. ELECCIONES EXTRAORDINARIAS
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2020)</small>
 
 ###### ARTÍCULO 357.
 
@@ -6486,3 +6704,27 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
 
 TERCERO. Hágase saber al Instituto Electoral, al Tribunal Electoral, los 112 Ayuntamientos y Concejo Mayor de Cherán, paras (sic) los efectos pertinentes.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 194 POR EL QUE “SE REFORMA EL ARTÍCULO 254 INCISO E), Y SE ADICIONA EL CAPÍTULO TERCERO BIS «DEL PROCEDIMIENTO ESPECIAL SANCIONADOR EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LA MUJER EN RAZÓN DE GÉNERO», CON LOS ARTÍCULOS 264 BIS, 264 TER, 264 QUATER, 264 QUINQUIES, 264 SEXIES, 264 SEPTIES, 264 OCTIES, 264 NONIES Y 264 DECIES, TODOS DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo, al Instituto Electoral de Michoacán y al Tribunal Electoral del Estado de Michoacán, para conocimiento y efectos procedentes y cúmplase.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos sancionadores que se hayan iniciado de forma previa al inicio de vigencia de este Decreto se seguirán conforme a la normativa con las que se iniciaron.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Electoral de Michoacán deberá adecuar su normativa interna en la materia en el plazo no mayor de sesenta días naturales a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Una vez entrado en vigor el presente Decreto, el Instituto deberá actualizar el Registro Estatal de Personas Sancionadas por Violencia Política contra las Mujeres en Razón de Género.
