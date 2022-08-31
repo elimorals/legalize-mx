@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2022-08-30"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -231,25 +231,45 @@ IV. Disfrutar de 90 días de descanso posteriores al parto con goce de sueldo, a
 
 V. Durante el período de lactancia tendrán dos descansos por día, de media hora cada uno, para amamantar a sus hijos;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE AGOSTO DE 2022)</small>
 
 VI. Solicitar permisos económicos con goce de sueldo:
 
 a) Cuando requieran atender a sus hijos enfermos;
 
-b) Cuando sean víctimas de violencia y asistir a laborar, no les permita salvaguardar su integridad o ponga en riesgo su seguridad, o la de sus menores hijos, en caso de tenerlos; lo anterior, será verificable por el patrón, cuando el trabajador entregue copia simple de la denuncia o de la orden de protección emitida por la autoridad correspondiente, por cualquier medio fehaciente por el que la víctima pueda contactarse con él, si fuera por vía distinta de la física, cuando haya pasado el peligro o la situación que la pone en riesgo o a sus hijos, deberá entregar al patron dicha constancia, para su expediente. El anterior permiso podrá ser de hasta quince días; y,
+b) Cuando sean víctimas de violencia y asistan a laborar, no les permita salvaguardar su integridad o ponga en riesgo su seguridad, o la de sus menores hijos, en caso de tenerlos; lo anterior, será verificable por el patrón, cuando el trabajador entregue copia simple de la denuncia o de la orden de protección emitida por la autoridad correspondiente, por cualquier medio fehaciente por el que la víctima pueda contactarse con él, si fuera por vía distinta de la física, cuando haya pasado el peligro o la situación que la pone en riesgo o a sus hijos, deberá entregar al patrón dicha constancia, para su expediente. El anterior permiso podrá ser de hasta quince días;
 
-VII. Regresar al puesto que desempeñaban, computándose en su antigüedad los períodos de descanso que por razón de embarazo se le hayan otorgado.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+VII. Regresar al puesto que desempeñaban, computándose en su antigüedad los periodos de descanso que por razón de embarazo se la hayan otorgado; y,
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+VIII. Las dependencias, entidades, organismos autónomos y demás entes públicos, estatales y municipales, en el ámbito de sus competencias, promoverán y otorgarán las autorizaciones para que las trabajadoras acudan anualmente a las instituciones de salud a realizarse estudios para la detección temprana del cáncer de mama y cervicouterino. Dicha autorización será con goce de sueldo y sin perjuicio de sus prestaciones.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTECE A LA FRACCIÓN VIII]</small>
+
+Atendiendo a la naturaleza de las actividades que desempeñen, las autorizaciones se otorgarán gradualmente. Para tal efecto, las trabajadoras deberán dar aviso con al menos cinco días hábiles de anticipación. Además, una vez realizados los exámenes clínicos, deberán presentar el certificado médico correspondiente.
 
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ARTICULO 22 BIS. Los hombres trabajadores esposos o concubinos tendrán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-I. Disfrutar a partir del nacimiento de sus hijos e hijas, de 20 días naturales de permiso con goce de sueldo para asistir a su esposa o concubina en el puerperio, así como para convivir con el recién nacido; este permiso aumentará hasta en 60 días hábiles en caso de que la madre fallezca durante el parto, o derivado de éste se origine un daño grave en su salud; y,
+I. Disfrutar a partir del nacimiento de sus hijos e hijas, de 20 días naturas (sic) de permiso con goce de sueldo para asistir a su esposa o concubina en el puerperio, así como para convivir con el recién nacido; este permiso aumentará hasta en 60 días hábiles en caso de que la madre fallezca durante el parto o derivado de éste se origine un daño en su salud;
 
-II. Regresar al puesto que desempeñaban, computándose en su antigüedad los períodos de descanso que por razón del nacimiento de su hijo o hija se le hayan otorgado.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+II. Regresar al puesto que desempeñaban, computándose en su antigüedad los períodos de descanso que por razón del nacimiento de su hijo o hija se le hayan otorgado; y,
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+III. Las dependencias, entidades, organismos autónomos y demás entes públicos, estatales y municipales, en el ámbito de sus competencias, promoverán y otorgarán las autorizaciones para que los trabajadores acudan anualmente a las instituciones de salud a realizarse estudios para la detección temprana de cáncer de próstata. Dicha autorización será con goce de sueldo y sin perjuicio de sus prestaciones.
+
+> <small>(N. DE E. ESTE PÁRRAFO PERTENE A LA FRACCIÓN III)</small>
+
+Atendiendo a la naturaleza de las actividades que desempeñan, las autorizaciones se otorgarán gradualmente. Para tal efecto, los trabajadores deberán dar aviso con al menos cinco días hábiles de anticipación. Además, una vez realizados los exámenes clínicos, deberán presentar el certificado médico correspondiente.
 
 ###### ARTICULO 23.
 
@@ -1260,3 +1280,9 @@ P.O. 30 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 182 POR EL QUE "SE REFORMAN LAS FRACCIONES VII Y VIII; Y, SE ADICIONAN LA FRACCIÓN IX AL ARTÍCULO 35 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS".]
 
 Único. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 186 POR EL QUE "SE REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 22; Y, SE REFORMAN LAS FRACCIONES I Y II Y SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 22 BIS, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
+
+ÚNICO. La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
