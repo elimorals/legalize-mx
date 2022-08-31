@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-procuraduria-federal-de-la-defensa-del-103140"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-29"
-last_updated: "2014-10-29"
+last_updated: "2022-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-10-27"
 ---
 # REGLAMENTO DE LA PROCURADURIA FEDERAL DE LA DEFENSA DEL TRABAJO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA PROCURADURÍA FEDERAL DE LA DEFENSA DEL TRABAJO, PUBLICAD0 EN EL D.O.F. DE 31 DE AGOSTO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA PROCURADURÍA FEDERAL DE LA DEFENSA DEL TRABAJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE AGOSTO DE 2022 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de octubre de 2014.
 
@@ -732,3 +734,19 @@ TERCERO.- Continuarán en vigor las disposiciones administrativas vigentes, en l
 CUARTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento, se atenderán por las unidades administrativas hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veintisiete de octubre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA PROCURADURÍA FEDERAL DE LA DEFENSA DEL TRABAJO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Procuraduría Federal de la Defensa del Trabajo, publicado en el Diario Oficial de la Federación el 29 de octubre de 2014.
+
+TERCERO. Continuarán en vigor las disposiciones administrativas vigentes, en lo que no se opongan al presente Reglamento.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento, se atenderán por las unidades administrativas hasta su conclusión, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento deberán cubrirse con cargo al presupuesto autorizado a la Secretaría en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se requerirá de recursos adicionales y no se incrementará su presupuesto regularizable, durante el presente ejercicio fiscal ni subsecuentes.
