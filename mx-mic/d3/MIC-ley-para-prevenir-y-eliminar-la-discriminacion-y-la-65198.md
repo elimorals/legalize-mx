@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-y-eliminar-la-discriminacion-y-la-65198"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-02"
-last_updated: "2021-04-05"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 2 de enero de 2009.
 
@@ -278,6 +278,10 @@ XLIV. Estigmatizar y negar derechos a personas con el Virus de la Inmunodeficien
 XLV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas; y,
 
 XLVI. En general cualquier acto u omisión discriminatoria en términos de la normatividad internacional, nacional y estatal.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XLVII. Se prohíba o restrinja a una mujer, el derecho a lactar, en cualquier espacio público.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -988,3 +992,9 @@ Considerando que la pandemia es una situación delicada y que por tanto es injus
 CUARTO. Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, deberán concluirse y ejecutarse conforme las disposiciones vigentes antes de la entrada en vigor de éste último.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 179 POR E QUE “SE ADICIONA LA FRACCIÓN XLVII AL ARTÍCULO 7 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
