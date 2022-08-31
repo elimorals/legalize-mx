@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-tribunal-estatal-electoral-de-145705"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-12-22"
-last_updated: "2021-12-16"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
 
 Reglamento publicado en la Sección Tercera del Número 115 en el Periódico Oficial del Estado de Nayarit, el martes 22 de diciembre de 2020.
 
@@ -1505,7 +1505,7 @@ La Presidenta o Presidente deberá llamar al orden a la Magistrada o Magistrado 
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 ###### Artículo 83.
 
@@ -1557,7 +1557,7 @@ Por cuanto hace a los órganos electorales y autoridades responsables, así como
 
 ###### Artículo 89.
 
-Las Magistradas o Magistrados numerarios que hayan concluido su encargo por el cual fueron designados por el Senado de la República, disfrutarán de un haber por retiro a partir del día inmediato siguiente a su conclusión, por un monto equivalente a una cuarta parte del tiempo en que hayan ejercido su función; del mismo monto al que se establezca y reciban los Magistrados en activo. Así como a una gratificación anual por concepto de aguinaldo correspondiente a dos meses del salario señalado. En el último periodo del haber de retiro, se pagará la parte proporcional de aguinaldo.
+Las Magistradas o Magistrados numerarios que hayan concluido su encargo por el cual fueron designados por el Senado de la República, disfrutarán de un haber por retiro a partir del día inmediato siguiente a su conclusión, que consistirá en el pago íntegro de las percepciones que correspondan a los Magistrados en activo durante un año, así como una gratificación anual por concepto de aguinaldo correspondiente a dos meses del salario señalado.
 
 El pago de las prestaciones establecidas en el párrafo anterior se realizará con la ministración correspondiente de cada quincena, del mes y del año que corresponda. Con excepción del relativo al mes de diciembre que se pagará el día 15 del citado mes, en el cual se cubrirá el pago del aguinaldo y el mes completo correspondiente.
 
@@ -1618,3 +1618,9 @@ P.O. 16 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN AL ARTÍCULO 89, DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL".]
 
 Primera. La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN DEL ARTÍCULO 89 DEL REGLAMENTO INTERIOR DEL TRIBUNAL ESTATAL ELECTORAL".]
+
+Única. La reforma es aplicable tanto para los Magistrados en activo como para los Magistrados que actualmente gozan del pago del haber de retiro y entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
