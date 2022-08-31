@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-residuos-solidos-y-de-economia-circular-antes-ley-de-572
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-17"
-last_updated: "2020-01-17"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 17 de octubre de 2007.
 
@@ -53,11 +53,15 @@ LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS.
 
 La presente Ley es de observancia general en el Estado de Morelos, sus disposiciones son de orden público e interés social y tiene por objeto garantizar el derecho de toda persona a un ambiente sano mediante la regulación, la prevención de la generación, aprovechamiento y gestión integral de los residuos sólidos urbanos y de manejo especial, los peligrosos de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos; así como la prevención de la contaminación y la remediación de suelos contaminados con residuos sólidos urbanos y de manejo especial; a fin de propiciar la economía circular y el desarrollo sustentable en la Entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 2.
 
-Para la prevención de la generación, manejo y disposición final de residuos sólidos urbanos y de manejo especial en el Estado de Morelos, además de las bases que señala la Ley General para la Prevención y Gestión Integral de los Residuos, se establecen las siguientes:
+Para la prevención de la generación, manejo y disposición final de residuos sólidos urbanos y de manejo especial en el estado de Morelos, además de las bases que señala la Ley General para la Prevención y Gestión Integral de los Residuos, se establecen las siguientes:
 
-I. Fortalecer la capacidad de los Gobiernos Estatal y Municipales para realizar, de manera coordinada, las funciones relacionadas con el manejo y gestión integral de los residuos;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+I. Fortalecer la capacidad de los gobiernos estatal y municipales para realizar, de manera coordinada, las funciones relacionadas con el manejo y gestión integral de los residuos;
 
 II. Establecer la responsabilidad compartida de los generadores, productores, importadores, exportadores, comercializadores, consumidores, empresas de servicios y de manejo de residuos; así como de las autoridades de los tres órdenes de gobierno y los tres poderes de gobierno por la generación de residuos y definir las responsabilidades aplicando programas de separación, valorización, acopio y traslado de residuos;
 
@@ -73,19 +77,25 @@ VII. Crear mecanismos para la participación responsable, activa y efectiva de t
 
 VIII. Establecer indicadores de desempeño para evaluar la adecuada aplicación de la presente ley; y
 
-IX. Las medidas de seguridad, sanciones, reparación del daño y recursos de inconformidad.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+IX. Establecer las medidas de seguridad, sanciones, reparación del daño y recursos de inconformidad.
 
-X. La transición paulatina al uso de materiales reutilizables, y con esto prohibir gradualmente el uso y distribución gratuita u onerosa de los plásticos de un solo uso, en cualquier establecimiento mercantil para prestar sus servicios ubicado en territorio del estado de Morelos;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2020)</small>
+X. Fomentar la transición paulatina al uso de materiales reutilizables, y con esto prohibir gradualmente el uso y distribución gratuita u onerosa de los plásticos de un solo uso, en cualquier establecimiento mercantil para prestar sus servicios ubicado en territorio del estado de Morelos; y,
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XI. Crear mecanismos que incentiven el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía.
 
 ###### ARTÍCULO 3.
 
-En la formulación y conducción de la política en materia de prevención, valorización y gestión integral de los residuos a que se refiere esta Ley, la expedición de disposiciones jurídicas y la emisión de actos que de ella deriven, así como en la generación y manejo integral de residuos, según corresponda, se observarán los principios que establecen la Ley General para la Prevención y Gestión Integral de los Residuos, así como los siguientes:
+En la formulación y conducción de la política en materia de prevención, valorización y gestión integral de los residuos a que se refiere esta ley, la expedición de disposiciones jurídicas y la emisión de actos que de ella deriven, así como en la generación y manejo integral de residuos, según corresponda, se observarán los principios que establecen la Ley General para la Prevención y Gestión Integral de los Residuos, así como los siguientes:
 
-I. Reincorporar al ciclo productivo de materiales o sustancias reutilizables así como desarrollar las acciones de educación y capacitación para una gestión de los residuos sólidos eficiente y eficazmente sostenible;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+I. Reincorporar al ciclo productivo de materiales o sustancias reutilizables, así como desarrollar las acciones de educación y capacitación para una gestión de los residuos sólidos eficiente y eficazmente sostenible;
 
 II. Depositar en forma ambientalmente adecuada las sustancias o materiales no reutilizables;
 
@@ -121,11 +131,17 @@ XVI. Establecer congruencia entre las políticas de ordenamiento territorial, or
 
 XVII. Fomentar la generación, sistematización y difusión de información para la toma de decisiones y el mejoramiento del manejo integral de los residuos sólidos;
 
-XVIII. Definir planes, programas, estrategias y acciones para el manejo de residuos sólidos, conjugando las variables económicas, sociales, culturales, técnicas, sanitarias y ambientales;
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-XIX. Asegurar que las tasas o tarifas que se cobren por la prestación de servicios de residuos sólidos se fijen, en función de su costo real, calidad y eficiencia; y
+XVIII. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía.
 
-XX. Establecer acciones contundentes a evitar la contaminación del agua, eliminando el arrojo de residuos sólidos en cuerpos o cursos de este elemento natural.
+XIX. Definir planes, programas, estrategias y acciones para el manejo de residuos sólidos, conjugando las variables económicas, sociales, culturales, técnicas, sanitarias y ambientales;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XX. Asegurar que las tasas o tarifas que se cobren por la prestación de servicios de residuos sólidos se fijen, en función de su costo real, calidad y eficiencia; y,
+
+XXI. Establecer acciones contundentes a evitar la contaminación del agua, eliminando el arrojo de residuos sólidos en cuerpos o cursos de este elemento natural.
 
 ###### ARTÍCULO 4.
 
@@ -247,9 +263,13 @@ Corresponde al Ejecutivo Estatal, a través de la Secretaría, las siguientes at
 
 I. La formulación y conducción de la política de residuos sólidos del Estado de Morelos;
 
-II. La aplicación de los instrumentos de política de residuos sólidos previstos en la presente Ley;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-III. La atención de los asuntos que se generen entre dos o más Municipios, así como entre el Estado de Morelos y una o más entidades federativas en coordinación con la Federación, y aquéllos entre el Estado de Morelos y la Federación;
+II. La aplicación de los instrumentos de política de residuos sólidos previstos en la presente ley;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+III. La atención de los asuntos que se generen entre dos o más municipios, así como entre el estado de Morelos y una o más entidades federativas en coordinación con la Federación, y aquéllos entre el Estado de Morelos y la Federación;
 
 IV. Expedir las normas ambientales para el Estado de Morelos en materia de reducción, manejo, tratamiento, reuso y disposición final de residuos sólidos;
 
@@ -269,9 +289,13 @@ XI. Llevar un registro y control de empresas y particulares dedicados al manejo 
 
 XII. Ofrecer apoyo tecnológico como nuevas opciones y alternativas al manejo de residuos sólidos;
 
-XIII. La vigilancia de las normas oficiales mexicanas expedidas por la Federación a las que deberán sujetarse los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la disposición final de los residuos sólidos;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-XIV. La celebración de convenios con la Federación y con las entidades federativas en lo establecido en el Artículo 138 de la Ley General;
+XIII. La vigilancia de las normas oficiales mexicanas expedidas por la Federación a las que deberán sujetarse los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la disposición final de los residuos sólidos urbanos para el aprovechamiento de la materia orgánica en proceso de generación de energía;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XIV. La celebración de convenios con la Federación y con las entidades federativas en lo establecido en el artículo 138 de la ley general;
 
 XV. La prevención y control de la contaminación del suelo generada por residuos sólidos, así como su limpieza, restauración y, en su caso, recuperación;
 
@@ -281,7 +305,9 @@ XVII. El ejercicio de las funciones que en materia de residuos de baja peligrosi
 
 XVIII. La formulación, ejecución y evaluación del Programa General de residuos sólidos;
 
-XIX. La atención de los demás asuntos que en materia de residuos sólidos le conceda esta Ley y otros ordenamientos en concordancia con ella y que no están expresamente atribuidos a la Federación;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XIX. La atención de los demás asuntos que en materia de residuos sólidos le conceda esta ley y otros ordenamientos en concordancia con ella y que no están expresamente atribuidos a la Federación;
 
 XX. Establecer el registro de planes de manejo y programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a los lineamientos establecidos en la presente ley y las normas oficiales mexicanas que al efecto se emitan, en el ámbito de su competencia;
 
@@ -301,25 +327,29 @@ XXV. Elaborar, difundir y aplicar programas mediante los cuales se informe de a 
 
 XXVI. Establecer y publicar criterios de sustentabilidad para el consumo de productos plásticos, los que se elaborarán con la participación de la academia;
 
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXVII. Promover que los establecimientos mercantiles y unidades económicas que otorguen de manera gratuita u onerosa plásticos de un solo uso cumplan con las disposiciones establecidas en la presente ley;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXVIII. Establecer y fomentar estrategias administrativas y de gestión para la transición paulatina al uso de materiales reutilizables, así como para la prohibición gradual de materiales reutilizables, así como para la prohibición gradual del uso de plásticos de un solo uso en cualquier establecimiento mercantil para prestar sus servicios ubicado en territorio del estado de Morelos;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXIX. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía en coordinación con los municipios; y,
+
 > <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
 
-XXVII. Promover que los establecimientos mercantiles y unidades económicas que otorguen de manera gratuita u onerosa plásticos de un solo uso cumplan con las disposiciones establecidas en la presente Ley;
-
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
-
-XXVIII. Establecer y fomentar estrategias administrativas y de gestión para la transición paulatina al uso de materiales reutilizables, así como para la prohibición gradual de materiales reutilizables, así como para la prohibición gradual del uso de plásticos de un solo uso en cualquier establecimiento mercantil para prestar sus servicios ubicado en territorio del estado de Morelos; y
-
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
-
-XXIX. Promover la investigación y el desarrollo de tecnologías y acciones que permitan prevenir, controlar y reducir la contaminación por la utilización de bolsas de plásticos de uso único, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final.
+XXX. Promover la investigación y el desarrollo de tecnologías y acciones que permitan prevenir, controlar y reducir la contaminación por la utilización de bolsas de plásticos de uso único, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final.
 
 ###### ARTÍCULO 9.
 
 Corresponde a los Gobiernos Municipales el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-I. La formulación, conducción y evaluación de la política de residuos sólidos en el ámbito Municipal con base en la política que expida el Ejecutivo Estatal, a través de su instancia responsable que en este caso será la Secretaría;
+I. La formulación, conducción y evaluación de la política de residuos sólidos en el ámbito Municipal con base en la política que expida el Ejecutivo Estatal, a través de su instancia responsable que en este caso será la secretaría;
 
 II. La aplicación de los instrumentos de política de residuos sólidos, en el ámbito de su competencia;
 
@@ -339,15 +369,21 @@ IX. Atender oportunamente las quejas del público y dictar las medidas necesaria
 
 X. Establecer rutas, horarios y frecuencias en que debe prestarse el servicio público de limpia pudiendo, una vez escuchada la opinión de los vecinos al respecto, modificarlos de acuerdo a las necesidades de dicho servicio;
 
-XI. Aplicar las sanciones que correspondan por violaciones a la presente Ley y ordenamientos que de ella se derivan;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XI. Aplicar las sanciones que correspondan por violaciones a la presente ley y ordenamientos que de ella se derivan;
 
 XII. La participación en la atención de los asuntos sobre residuos sólidos que afecten a los Municipios correspondientes y que involucren a dos o más;
 
-XIII. La vigilancia del cumplimiento de las normas ambientales para el Estado de Morelos y demás disposiciones de la presente Ley, con la participación de la sociedad;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XIII. La vigilancia del cumplimiento de las normas ambientales para el Estado de Morelos y demás disposiciones de la presente ley, con la participación de la sociedad;
 
 XIV. La formulación y conducción de la política municipal de información y difusión en materia de residuos sólidos;
 
-XV. Concesionar el Servicio público de limpia de su competencia de acuerdo a las disposiciones establecidas en la presente Ley, la Ley Orgánica de la Administración Pública del Estado de Morelos y demás ordenamientos jurídicos aplicables;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XV. Concesionar el Servicio público de limpia de su competencia de acuerdo a las disposiciones establecidas en la presente ley, la Ley Orgánica de la Administración Pública del Estado de Morelos y demás ordenamientos jurídicos aplicables;
 
 XVI. Realizar controles sobre las concesiones para garantizar la competencia y la transparencia en la concesión y evitar monopolios;
 
@@ -355,9 +391,11 @@ XVII. La prestación del servicio público de limpia con excepción de aquellas 
 
 XVIII. Dar mantenimiento a los contenedores de residuos sólidos del ámbito de su competencia;
 
-XIX. La formulación, ejecución y evaluación del programa municipal de residuos sólidos con base en el programa general de residuos sólidos que al efecto expida el Ejecutivo Estatal; y
+XIX. La formulación, ejecución y evaluación del programa municipal de residuos sólidos con base en el programa general de residuos sólidos que al efecto expida el Ejecutivo Estatal; y,
 
-XX. La atención de los demás asuntos que en materia de residuos sólidos le conceda esta Ley y otros ordenamientos jurídicos aplicables;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XX. La atención de los demás asuntos que en materia de residuos sólidos le conceda esta ley y otros ordenamientos jurídicos aplicables;
 
 XXI. Asignar y determinar los lugares de servicios de recolección o a centros de acopio municipales, de conformidad con lo que establezcan los programas y planes de manejo integral de los residuos, en cada municipio;
 
@@ -365,11 +403,21 @@ XXII. Organizar y promover de acuerdo a su competencia, actividades de comunicac
 
 XXIII. Promover de acuerdo a su competencia la integración, operación y funcionamiento de organismos consultivos en los que participen representantes de los sectores industrial, comercial y de servicios, académico, de investigación y desarrollo tecnológico, asociaciones profesionales y de consumidores, y organizaciones no gubernamentales relacionadas con el tema, para que tomen parte en los procesos destinados a clasificar los residuos, evaluar las tecnologías para su prevención, valorización y tratamiento, planificar el desarrollo de la infraestructura para su manejo y desarrollar las propuestas técnicas de instrumentos normativos y de otra índole que ayuden a lograr los objetivos en la materia;
 
-XXIV. Organizar e implantar los esquemas administrat0ivos (sic) requeridos para recabar el pago por los servicios de recolección, transporte, tratamiento y disposición final de los residuos sólidos que no estén expresamente atribuidos a la Federación y la aplicación de los recursos resultantes al fortalecimiento de los sistemas de limpia, así como hacerlos del conocimiento público;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-XXV. Llevar un registro y control de empresas y particulares concesionarios dedicados a la prestación del servicio de limpia de su competencia; y
+XXIV. Organizar e implantar los esquemas administrativos requeridos para recabar el pago por los servicios de recolección, transporte, tratamiento y disposición final de los residuos sólidos que no estén expresamente atribuidos a la federación y la aplicación de los recursos resultantes al fortalecimiento de los sistemas de limpia, así como hacerlos del conocimiento público;
 
-XXVI. Establecer el registro de planes de manejo de residuos sólidos urbanos, así como programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a los lineamientos establecidos en la presente Ley, las Normas Oficiales Mexicanas y las Normas Técnicas Ambientales que al efecto se emitan, en el ámbito de su competencia.
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXV. Controlar los residuos sólidos urbanos y en coordinación con el Ejecutivo Estatal, aprovechar la materia orgánica en procesos de generación de energía.
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXVI. Llevar un registro y control de empresas y particulares concesionarios dedicados a la prestación del servicio de limpia de su competencia; y,
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXVII. Establecer el registro de planes de manejo de residuos sólidos urbanos, así como programas para la instalación de sistemas destinados a su recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final, conforme a los lineamientos establecidos en la presente ley, las Normas Oficiales Mexicanas y las Normas Técnicas Ambientales que al efecto se emitan, en el ámbito de su competencia.
 
 ###### ARTÍCULO 10.
 
@@ -1602,3 +1650,15 @@ SEXTO. Los establecimientos mercantiles, tiendas departamentales, centros comerc
 SÉPTIMO. Las Dependencias y Entidades de los tres poderes del Estado, así como los Organismos Autónomos del Estado, los Gobiernos Municipales y sus Órganos Descentralizados en relación (sic) artículo 27 bis 2, deberán cumplir inmediatamente con dicha disposición.
 
 OCTAVO. Se derogan todas las disposiciones de igual o menos rango que se opongan a la presente Reforma.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+[N. DE. E TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y NUEVE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se oponga a lo dispuesto en el presente decreto.
+
+CUARTO.- En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo del Gobierno del Estado de Morelos, así como los municipios armonizarán las legislaciones de su competencia en materia de residuos con su contenido.
