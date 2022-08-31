@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2022-06-30"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -3673,11 +3673,11 @@ La construcción de vivienda multifamiliar o edificios habitacionales dentro de 
 
 Las construcciones en los desarrollos en condominio, además de cumplir con lo dispuesto en el párrafo anterior, deberán respetar lo previsto en este Código, en cuanto a las densidades y características de las obras, continuidad de vialidades existentes y las previstas en los programas de desarrollo urbano, así como a la extensión de las áreas libres, de estacionamiento y de uso común.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 297.
 
-Las áreas de donación en los conjuntos habitacionales, fraccionamientos habitacionales de cualquier tipo, condominios con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial, industrial y cementerios, en ningún caso podrán ser objeto de enajenación.
+Las áreas de donación en los desarrollos o desarrollos en condominio, en ningún caso podrán ser objeto de enajenación.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JULIO DE 2013)</small>
 
@@ -3685,19 +3685,17 @@ Las áreas de donación deberán destinarse a la dotación de equipamiento urban
 
 Las características que deberán cumplir las áreas de donación para equipamiento urbano son las siguientes:
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-I. Ubicarse dentro del conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial, industrial o cementerio;
+I. Ubicarse dentro del desarrollo o desarrollo en condominio de que se trate, a excepción de los supuestos establecidos en este Código;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-II. Entregarse en una misma superficie las que correspondan al Gobierno Municipal, igualmente las que correspondan al Gobierno del Estado, pero además, ambas superficies deberán quedar integradas en un solo polígono.
+II. Entregarse en una misma superficie las que correspondan al Gobierno Municipal, igualmente las que correspondan al Gobierno del Estado, pero, además, ambas superficies deberán quedar integradas en un solo polígono y destinarse a infraestructura pública para servicios de asistencia social, educación, salud, cultura o deporte. Para el caso de predios menores a cinco hectáreas, la totalidad de las áreas de donación referidas se entregarán en una misma superficie exclusivamente al Gobierno Municipal y deberán destinarse a los mismos servicios señalados. En aquéllos supuestos en que las áreas de donación deban entregarse en lugar distinto al del desarrollo o desarrollo en condominio, deberán cumplir con las características aplicables establecidas en el presente artículo;
 
-En aquéllos supuestos de que las áreas de donación deban entregarse en lugar distinto al fraccionamiento, igualmente serán integradas en un solo polígono las áreas de donación en favor del Gobierno Municipal y las áreas de donación en favor del Gobierno Estatal. Estos terrenos deberán destinarse a servicios de asistencia social, educación, salud, cultura o deporte;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
-
-III. Quedar al centro geométrico del conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, los de uso comercial o industrial;
+III. Ubicarse en un lugar que haga viable y funcional su destino;
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
 
@@ -3745,7 +3743,9 @@ VIII. Contar con construcción de banqueta perimetral e interior, con facilidade
 
 IX. Contar con instalación de alumbrado perimetral e interior;
 
-X. Contar con instalación de toma de agua pará riego, limpieza y jardinería favoreciendo el uso de ecotecnias;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+X. Contar con instalación de toma de agua para riego, limpieza y jardinería favoreciendo el uso de ecotecnias;
 
 XI. Contar con instalación de bancas, una por cada 250- doscientos cincuenta metros cuadrados de terreno y juegos infantiles; y,
 
@@ -3759,9 +3759,11 @@ Para los efectos de la fracción que antecede, los ayuntamientos que no cuenten 
 
 Los espacios jardinados que conforman una sección vial, tanto en andadores, camellones y banquetas, no se pueden considerar como área de donación para área verde, a excepción de aquellos casos en que el diseño de estas áreas cumpla con las características y condiciones anteriormente señaladas.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 298.
 
-En los Desarrollos o desarrollos en condominio la caseta de vigilancia será considerada como parte de la superficie que el fraccionador está obligado a donar al Ayuntamiento, adicional a los porcentajes o cantidades previstas para tal fin, en el presente Código. El Ayuntamiento fijará sus especificaciones, dimensiones y ubicación. Es obligación del fraccionador construir la caseta.
+En los desarrollos la caseta de vigilancia será considerada como parte de la superficie que el fraccionador está obligado, a su cargo, a entregar al Ayuntamiento mediante escritura pública en donación o comodato vitalicio, adicional a los porcentajes o cantidades previstas para donación en el presente Código, excepto en los desarrollos en condominio, donde formará parte del área común conforme a la Ley Sobre el Régimen de Propiedad en Condominio. El Ayuntamiento fijará sus especificaciones, dimensiones y ubicación. Es obligación del fraccionador construir la caseta.
 
 ###### ARTÍCULO 299.
 
@@ -3965,9 +3967,9 @@ l. Caseta de vigilancia.
 
 Los Fraccionamientos Habitacionales Urbanos tipo interés social, son aquellos que se ubican en áreas cuya densidad de población puede ser mayor de 301 habitantes por hectárea pero no mayor de 500 habitantes por hectárea, y deberán tener como mínimo las características siguientes.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE AGOSTO DE 2022)</small>
 
-I. Lotificación: Sus lotes no podrán tener una superficie menor de 126 metros cuadrados; sus frentes serán de 8.00 metros, cuando se ubiquen sobre vialidades colectoras y principales y de 7.00 metros, cuando tengan frente a vialidades secundarias y su fondo mínimo será de 18 metros;
+I. Lotificación: Sus lotes no podrán tener una superficie menor de 80 metros cuadrados; sus frentes serán de 6.00 metros, cuando se ubiquen sobre vialidades colectoras y principales y de 5.00 metros, cuando tengan frente a vialidades secundarias y su fondo mínimo será de 16 metros;
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
@@ -4209,7 +4211,9 @@ Previo a la autorización de fraccionamientos Industriales por parte del Ayuntam
 
 Para obtener la autorización definitiva de un conjunto habitacional, fraccionamiento habitacional de cualquier tipo, condominio con uso habitacional de estructura horizontal, vertical o mixto, de uso comercial, industrial en un predio o para cementerios, las personas físicas o morales tendrán la obligación de donar en los términos del artículo 297 del presente Código y conforme a lo siguiente:
 
-I. En los fraccionamientos habitacionales urbanos. Las áreas que se destinen a vías públicas, el tres por ciento del área total del desarrollo para el Gobierno del Estado y el cinco por ciento del área total para el Ayuntamiento, para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde a favor del Ayuntamiento;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+I. En los fraccionamientos habitacionales urbanos las áreas que se destinen a vías públicas, el ocho por ciento del área total del desarrollo deberá destinarse para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
 
 II. En los conjuntos habitacionales urbanos de cualquier tipo. Las áreas que se destinen a vías públicas, el cinco por ciento del área total para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
 
@@ -4223,21 +4227,29 @@ b. (DEROGADO, P.O. 16 DE JULIO DE 2013)
 
 V. En los cementerios. Las áreas destinadas a vías públicas y el diez por ciento del área total del terreno a fraccionar o lo que estipule el contrato de concesión correspondiente a favor del Ayuntamiento;
 
-VI. En los fraccionamientos habitacionales urbanos tipo popular las áreas que se destinen a vías públicas, el tres por ciento del área total del desarrollo para el Gobierno del Estado, el cinco por ciento del área total para el Ayuntamiento para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde a favor del Ayuntamiento;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+VI. En los fraccionamientos habitacionales urbanos tipo popular las áreas que se destinen a vías públicas, el cinco por ciento del área total del desarrollo a favor del Ayuntamiento y el tres por ciento a favor del Estado, para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde. En excepción a lo anterior, cuando los predios sean menores a cinco hectáreas, se donarán las áreas que se destinen a vías públicas, el ocho por ciento del área total del desarrollo para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y el cinco por ciento del área total del desarrollo como área verde, todo a favor del Ayuntamiento;
 
 VII. En el caso de condominios habitacionales y comerciales de estructura horizontal, vertical o mixta en predios, el promovente deberá donar a favor del Ayuntamiento, el cinco por ciento del área total para el Ayuntamiento para establecer única y exclusivamente obras o instalaciones para equipamiento urbano y un cinco por ciento del área total del desarrollo como área verde a favor del Ayuntamiento; y,
 
 VIII. En el caso de condominios industriales de estructura horizontal, vertical o mixta en predios, el promovente deberá donar a favor del Ayuntamiento, el ocho por ciento del área total del desarrollo.
 
-Quedan exentos de las donaciones señaladas en las fracciones anteriores los casos señalados en el artículo 330 del presente Código.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
-Las superficies de donación para equipamiento urbano y para áreas verdes, estatales o municipales, se entregarán en los lugares y áreas que de acuerdo al tipo de fraccionamiento o condominio autorizado le sean señalados, debidamente urbanizadas y mediante escritura pública inscrita en el Registro Público de la Propiedad Raíz y del Comercio que costeará el interesado.
+Quedan exentos de las donaciones señaladas en las fracciones anteriores los casos señalados en el artículo 330 del presente Código y los desarrollos de uso comercial o industrial que, después de diez años en operación, requieran cambiar su régimen al de propiedad en condominio.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+Las superficies de donación para equipamiento urbano y para áreas verdes se entregarán en los lugares y áreas que de acuerdo al tipo de fraccionamiento o condominio autorizado le sean señalados, debidamente urbanizadas y mediante escritura pública inscrita en el Registro Público de la Propiedad Raíz y del Comercio que costeará el interesado a favor del Municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 330.
 
-En el caso de nuevos condominios habitacionales, comerciales o industriales de estructura horizontal, vertical o mixto en lotes de fraccionamientos que sean compatibles, que hayan sido establecidos con anterioridad, que cumplieron con la obligación de donar terrenos para equipamiento urbano o de donar terrenos para áreas verdes y que se ajusten a las determinaciones sobre el uso y la densidad habitacional del suelo que señalen los programas de desarrollo urbano vigentes para cada caso, no están obligados a hacer las donaciones a que se refiere el artículo precedente. La comprobación de haber satisfecho lo anterior, será acreditada por la autoridad estatal o municipal, por medios fehacientes y verificables.
+En el caso de nuevos condominios habitacionales, comerciales o industriales de estructura horizontal, vertical o mixto, o nuevas lotificaciones o subdivisiones en fraccionamientos, que sean compatibles, que hayan sido establecidos con anterioridad, que cumplieron con la obligación de donar terrenos para equipamiento urbano o de donar terrenos para áreas verdes y que se ajusten a las determinaciones sobre el uso y la densidad habitacional del suelo que señalen los programas de desarrollo urbano vigentes para cada caso, no están obligados a hacer las donaciones a que se refiere el artículo precedente. La comprobación de haber satisfecho lo anterior, será acreditada por la autoridad estatal o municipal, por medios fehacientes y verificables. Para efectos del presente artículo, en el caso de las nuevas lotificaciones en fraccionamientos, éstas no podrán superar el 50% de la superficie total del propio fraccionamiento y quedarán exentas en una sola ocasión.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
 
 En los supuestos de que no existan las áreas de donación para equipamiento urbano, en razón de que en su momento no se acreditó ese requisito, se deberán de entregar estos terrenos en un lugar distinto del mismo.
 
@@ -4977,11 +4989,17 @@ Cuando se suspenda o cancele el registro al Director Responsable de Obra el frac
 
 ### Capítulo IX. De la Municipalización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 407.
 
-La municipalización es el acto formal mediante el cual se realiza la entrega por parte del fraccionador al Ayuntamiento de los bienes inmuebles, áreas de donación, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un Desarrollo, y en su caso, desarrollo en condominio, que cumpliendo con lo dispuesto en la autorización definitiva, se encuentren en posibilidad de operar suficiente y adecuadamente, permitiendo al Ayuntamiento en la esfera de su competencia, prestar los servidos públicos necesarios.
+La municipalización es el acto formal mediante el cual se realiza la entrega por parte del fraccionador al Ayuntamiento y sus dependencias o entidades, de los bienes inmuebles, áreas de donación, equipo e instalaciones destinados a los servicios públicos y de las obras de urbanización de un Desarrollo, y en su caso, desarrollo en condominio, cuando se encuentren en posibilidad de operar suficiente y adecuadamente, y por ende sea posible que el Ayuntamiento y sus dependencias o entidades en la esfera de su competencia, presten los servicios públicos necesarios.
 
 En el caso de los servicios de suministro de energía eléctrica, agua potable y alcantarillado sanitario y pluvial, las instalaciones se entregarán directamente a las dependencias correspondientes.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+La municipalización a que se refieren los dos párrafos anteriores se realizará inmediatamente después de que las obras para operar se hayan concluido, independientemente del porcentaje de habitabilidad o de las posibles ventas realizadas. La autoridad municipal respectiva tendrá un plazo máximo de dos meses para concluir dicha municipalización.
 
 ###### ARTÍCULO 408.
 
@@ -5141,15 +5159,27 @@ I. La división de un terreno con superficie hasta de 1,000 metros cuadrados;
 
 II. Las relotificaciones en fraccionamientos habitacionales de cualquier tipo y/o modalidad establecidos que hayan hecho ya las donaciones respectivas, debiendo acreditarlo el interesado mediante copia certificada de la escritura pública debidamente inscrita en el Registro Público de la Propiedad y del Comercio, que demuestre el hecho, o en su caso copia cotejada del comprobante de pago a la Secretaría de Finanzas y Administración o la Tesorería Municipal correspondiente;
 
-III. Las divisiones de terrenos rústicos, cuando todas y cada una de las porciones resultantes queden con una superficie superior a una hectárea; y,
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-IV. Las parcelaciones que se realicen por causa de herencia, donación, compra-venta o permuta entre parientes en línea recta dentro del primero y segundo grados o cónyuges o herederos y legatarios.
+III. Las divisiones de terrenos, cuando todas y cada una de las porciones resultantes queden con una superficie superior a una hectárea;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+IV. Las parcelaciones que se realicen por causa de herencia, donación, compraventa o permuta entre parientes en línea recta dentro del primero y segundo grados o cónyuges o herederos y legatarios; y,
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+V. Cuando sea necesaria la subdivisión de un predio por disolución de una copropiedad.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
 
 ###### ARTÍCULO 429.
 
 Las subdivisiones de predios mayores a 1,000 metros cuadrados, estarán sujetas a una donación obligatoria a favor del Ayuntamiento correspondiente del tres por ciento única y exclusivamente de la fracción o fracciones a separar y aprovechar respecto al predio de origen.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+A solicitud del propietario y exclusivamente cuando cada área de donación a que se refiere el párrafo anterior sea menor a 1,500 metros cuadrados, se procederá a determinar el valor comercial de dicha donación a efecto de que la pague a la Tesorería Municipal correspondiente, teniendo que calcularse mediante avalúo conforme al valor más alto, entre el valor catastral y el valor comercial. Este recurso deberá ser destinado a la adquisición de reserva territorial del municipio, o al cumplimiento de los objetivos materia del presente Código, teniendo que incluirse dicho concepto en la Ley de Ingresos Municipal que corresponda.
 
 ###### ARTÍCULO 430.
 
@@ -5598,3 +5628,11 @@ P.O. 30 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NUMERO 161.- ARTÍCULO PRIMERO.- SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 147; SE REFORMA EL ARTÍCULO 199, LA FRACCIÓN VI DEL ARTÍCULO 281; SE ADICIONA EL ARTÍCULO 346 BIS, EL PÁRRAFO SEGUNDO AL ARTÍCULO 348; SE REFORMA LA FRACCIÓN X Y SE DEROGA EL INCISO G) DE LA FRACCIÓN XII DEL ARTÍCULO 351 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 4°, LOS ARTÍCULOS 41 Y 42; Y, SE ADICIONAN LAS FRACCIONES I BIS Y XVI BIS, AL ARTÍCULO 45 DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 193 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO, LAS FRACCIONES I, II Y III DEL TERCER PÁRRAFO Y LA FRACCIÓN X DEL CUARTO PÁRRAFO, DEL ARTÍCULO 297; EL ARTÍCULO 298; LAS FRACCIONES I Y VI DEL PRIMER PÁRRAFO Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 329; EL PRIMER PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 316; EL PRIMER PÁRRAFO DEL ARTÍCULO 330; EL PÁRRAFO PRIMERO DEL ARTÍCULO 407; LAS FRACCIONES III Y IV DEL ARTÍCULO 428; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 407; UNA FRACCIÓN V AL ARTÍCULO 428; Y, UN PÁRRAFO AL ARTÍCULO 429; TODOS DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Para efectos de lo dispuesto en la reforma al artículo 429 contenida en el presente Decreto, los municipios incorporarán a sus leyes de ingresos correspondientes al ejercicio fiscal 2023 y subsecuentes el concepto destinado a la adquisición de reserva territorial. Para el presente ejercicio fiscal, los municipios dispondrán lo necesario, incluidas las modificaciones presupuestales correspondientes, en caso de tener ingresos por este concepto.
