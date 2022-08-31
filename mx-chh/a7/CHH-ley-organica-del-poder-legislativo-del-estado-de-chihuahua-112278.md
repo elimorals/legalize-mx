@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2022-08-10"
+last_updated: "2022-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -523,15 +523,23 @@ I.- Presentar iniciativas en conjunto.
 
 II.- Establecer e impulsar puntos comunes de agenda legislativa.
 
-### CAPÍTULO III. DE LAS REPRESENTACIONES PARLAMENTARIAS Y DIPUTACIONES INDEPENDIENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2022)</small>
+
+### CAPÍTULO III. DE LAS REPRESENTACIONES PARLAMENTARIAS, DIPUTACIONES INDEPENDIENTES Y SIN PARTIDO
 
 ###### ARTÍCULO 58.
 
 La representación parlamentaria será aquella formada por una diputada o diputado que pertenezca a un partido político, y tendrá las atribuciones, derechos y obligaciones previstas en esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 59.
 
-La diputada o diputado independiente, es aquel que no representa a partido político alguno y tendrá las atribuciones, derechos y obligaciones que para las y los legisladores señala la normatividad aplicable.
+La diputada o diputado independiente, es quien haya sido electo por el sistema de candidatura independiente, y tendrá las atribuciones, derechos y obligaciones que para las personas legisladoras señala la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 59 BIS. La diputada o diputado sin partido es quien ha dejado de pertenecer a un Grupo Parlamentario o a una Representación Parlamentaria y tendrá las atribuciones, derechos y obligaciones que para las personas legisladoras señala la normatividad aplicable.
 
 ### CAPÍTULO IV. DE LA JUNTA DE COORDINACIÓN POLÍTICA
 
@@ -635,7 +643,31 @@ XX.- Crear subcomisiones de carácter temporal, en casos extraordinarios.
 
 XXI.- Poner a consideración del Pleno, para su aprobación, la integración de la Mesa Directiva para el segundo y tercer año de ejercicio de la Legislatura.
 
-XXII.- Ejercer las demás atribuciones que le asignen esta Ley, sus reglamentos y otros ordenamientos legales aplicables.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXII. Aprobar su calendario de reuniones, antes del inicio de cada periodo ordinario de sesiones, mismo que podrá ser modificado, en caso de ser necesario.
+
+Igualmente, la planeación de las actividades de los órganos del Congreso y del Pleno para el desahogo de la Agenda Legislativa común de la Legislatura.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXIII. Impulsar el diálogo y acuerdos necesarios a efecto de garantizar los principios de pluralidad, debate, representación democrática, respeto, perspectiva de género y tolerancia en la presentación y discusión de los asuntos ante el Pleno.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXIV. Elaborar, antes de la conclusión del primer periodo ordinario de sesiones del primer año de ejercicio, el Acuerdo de programación de las iniciativas de Ley y Decreto, o de Proposiciones con carácter de Punto de Acuerdo, que cada Grupo Parlamentario, Representaciones y Coaliciones Parlamentarias, personas legisladoras independientes y sin partido presentarán para el desahogo de la Agenda Legislativa del Congreso, atendiendo a los principios de pluralismo y representación democrática. Lo anterior, sin menoscabo del derecho que tienen las personas legisladoras de presentar iniciativas y Proposiciones con carácter de Punto de Acuerdo.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXV. Impulsar el consenso y acuerdos necesarios, a fin de que las agendas legislativas de cada Grupo Parlamentario, Representaciones y Coaliciones Parlamentarias, personas legisladoras independientes y sin partido sean priorizadas en la presentación de iniciativas ante el Pleno, tomando en consideración los principios de pluralismo y representación democrática.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XXVI. Ejercer las demás atribuciones que le asignen esta Ley, sus reglamentos y otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 66 BIS. Los Grupos Parlamentarios, Representaciones y Coaliciones Parlamentarias, personas legisladoras independientes y sin partido podrán realizar cada año legislativo, si así lo consideran, actualizaciones fundadas y motivadas a la Agenda Legislativa común del Congreso, mismas que se someterán a consideración de la Junta de Coordinación Política, quien a su vez las presentará al Pleno del Congreso para su aprobación, antes de la conclusión del mes de septiembre dentro del período ordinario de sesiones del año correspondiente. Cada Grupo Parlamentario, Representaciones y Coaliciones Parlamentarias, personas legisladoras independientes y sin partido podrán actualizar su Agenda particular en cualquier momento, de estimarlo conveniente.
 
 ### CAPÍTULO V. DE LA MESA DIRECTIVA
 
@@ -697,7 +729,11 @@ III.- Asistir con voz a las reuniones de la Junta de Coordinación Política.
 
 IV.- Formular la Declaratoria correspondiente para la constitución, disolución o fusión de los grupos o coaliciones parlamentarios, así como el cambio de integrantes de estos.
 
-V.- Elaborar, de manera coordinada con los(as) secretarios(as), el orden del día de las sesiones.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+V. Poner a consideración de las Diputadas y Diputados integrantes de la Mesa Directiva, la propuesta de orden del día para cada sesión, elaborada por la Secretaría de Asuntos Legislativos y Jurídicos, tomando en cuenta el Acuerdo de programación de las iniciativas de Ley y Decreto o de Proposiciones con carácter de Punto de Acuerdo que le haga saber la Junta de Coordinación Política. Lo anterior, sin menoscabo del derecho que tienen las personas legisladoras de presentar iniciativas y Proposiciones con carácter de Punto de Acuerdo.
+
+Deberá establecerse también, en cada sesión, el orden en que las personas legisladoras harán uso de la tribuna, conforme se hayan registrado.
 
 VI.- Citar, abrir, levantar, prorrogar, declarar recesos y clausurar las sesiones del Pleno, así como declarar la existencia o inexistencia del quórum.
 
@@ -715,7 +751,9 @@ XI.- Declarar el sentido de las votaciones que se emitan en los asuntos sometido
 
 XII.- Hacer uso del voto de calidad, en los casos de empate en las votaciones.
 
-XIII.- Turnar las iniciativas a la Comisión, Comisiones o Comités, en un plazo de tres días hábiles, contados a partir de que fueron presentadas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE AGOSTO DE 2022)</small>
+
+XIII. Turnar las iniciativas y las Proposiciones de Punto de Acuerdo a la Comisión, Comisiones o Comités, así como remitir las solicitudes de gestión o de información gubernamental a la Mesa Directiva, en un plazo de tres días hábiles, contados a partir de que fueron presentadas.
 
 No obstante lo anterior, como casos de excepción, podrá hacer turnos simplificados de las iniciativas, inmediatamente después de su presentación, cuando la naturaleza de las mismas así lo amerite.
 
@@ -817,7 +855,9 @@ Son atribuciones de quienes encabecen las secretarías de la Mesa Directiva:
 
 I.- Auxiliar a la Presidencia en el desempeño de sus funciones.
 
-II.- Elaborar, conjuntamente con la Presidencia, el orden del día de las sesiones.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+II. Someter a votación de las Diputadas y Diputados integrantes de la Mesa Directiva, la propuesta de orden del día para cada sesión, enviada previamente por la Secretaría de Asuntos Legislativos y Jurídicos.
 
 III.- Verificar, al inicio de cada sesión y durante las votaciones, la existencia del quórum.
 
@@ -912,6 +952,10 @@ Las iniciativas que se refieran a reformas o adiciones a la Constitución Polít
 ###### ARTÍCULO 90.
 
 Para los efectos del artículo anterior, las comisiones legislativas determinarán si existe la necesidad de someter a consulta la iniciativa turnada y, de ser afirmativo, deberán cumplir con lo previsto en esta Ley y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+La Comisión que reciba una iniciativa de Ley o Decreto que involucre, utilice o modifique recursos económicos, infraestructura o implique un gasto público podrá solicitar, de ser el caso, la opinión de la Comisión de Programación, Presupuesto y Hacienda Pública de este Congreso, la cual se emitirá con base en la información que esta recabe de las instancias competentes, misma que deberá ser de carácter técnico y de no recibirse, se continuará con el proceso respectivo.
 
 ###### ARTÍCULO 91.
 
@@ -1069,9 +1113,9 @@ Se constituirán, a más tardar, en la cuarta sesión posterior a la de instalac
 
 Tratándose de la Comisión Jurisdiccional se constituirá en la misma sesión referida en el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
-Las Comisiones Ordinarias de dictamen legislativo estarán constituidas con un mínimo de tres integrantes y un máximo de cinco; las contempladas en las fracciones I, III, IV, VIII y XXII del artículo 96 de esta Ley, estarán conformadas con un mínimo de cinco integrantes y un máximo de siete.
+Las Comisiones Ordinarias de dictamen legislativo estarán constituidas con un mínimo de tres integrantes y un máximo de cinco; las contempladas en las fracciones I, III, IV, VIII, XIX y XXII del artículo 96 de esta Ley, estarán conformadas con un mínimo de cinco integrantes y un máximo de siete.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1123,7 +1167,9 @@ IV.- Coordinar, con el apoyo de la Secretaría de Asuntos Legislativos y Jurídi
 
 V.- Solicitar, previo acuerdo de la Comisión, la presencia de las o los servidores públicos para que participen en la discusión de los asuntos turnados, siempre y cuando tengan relación con las funciones que estos desempeñan.
 
-El desarrollo de estas comparecencias se llevará a cabo en los términos que se señalen en el Reglamento Interior y de Prácticas Parlamentarias.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+El desarrollo de estas comparecencias se llevará a cabo en los términos que se señalen en el Reglamento Interior y de Prácticas Parlamentarias, preferentemente en un término que no exceda de quince días hábiles, a partir de que haya sido aprobado el acuerdo por la Comisión, tomando en consideración la relevancia del asunto que se trate.
 
 VI.- Hacer uso del voto de calidad en la aprobación de dictámenes, informes o documentos que elaboren las Comisiones.
 
@@ -1155,11 +1201,11 @@ Las Comisiones, para el desempeño de sus funciones, podrán crear subcomisiones
 
 En este caso, presidirá los trabajos de la subcomisión la o el diputado nombrado por aquella, quien tendrá el carácter de coordinador.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 105.
 
-Para el estudio y análisis de los asuntos turnados podrán realizarse mesas técnicas, reuniones informativas, reuniones de trabajo, solicitudes de opinión o foros, invitando a participar, de considerarse pertinente, a especialistas en el tema que se trate.
+Para el estudio y análisis de los asuntos turnados podrán realizarse mesas técnicas, reuniones informativas, reuniones de trabajo, solicitudes de opinión o foros, invitando a participar, de considerarse pertinente, a especialistas en el tema que se trate. También deberá convocarse a quien o quienes suscriban la iniciativa que vaya a ser motivo de escrutinio.
 
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2022)</small>
 
@@ -1489,9 +1535,11 @@ Tratándose del nombramiento de quien ocupe la titularidad del Órgano Interno d
 
 Por lo que se refiere al nombramiento de quien ocupe la titularidad de la Auditoría Superior del Estado, se sujetará al procedimiento establecido en la Constitución Política del Estado y al Capítulo V del Título Sexto de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 126.
 
-Los nombramientos a que se refiere el artículo 124 de esta Ley, deberán realizarse en los siguientes términos:
+Los nombramientos a que se refiere el artículo 124 de esta Ley, deberán observar el principio de paridad de género, y realizarse en los siguientes términos:
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1867,7 +1915,9 @@ I.- Funcionar como órgano de consultoría del Congreso del Estado, así como ó
 
 II.- Planear, desarrollar y ejecutar los servicios de investigación, estudio y capacitación en apoyo a las comisiones legislativas.
 
-III.- (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2022)</small>
+
+III. Promover la celebración de convenios de colaboración con instituciones de educación superior, con barras y colegios de profesionistas y sociedad civil organizada para la evaluación posterior a la emisión de las Leyes y Decretos vigentes en el Estado.
 
 > <small>(F. DE E., P.O. 16 DE JULIO DE 2016)</small>
 
@@ -2301,13 +2351,47 @@ II.- Lectura y aprobación en su caso del acta de la sesión anterior. En caso d
 
 III.- Correspondencia, que contendrá entre otros, comunicaciones y demás documentación enviada y recibida, relativa a las atribuciones y actividades del Congreso.
 
-IV.- Turnos a Comisiones de las iniciativas y demás documentos relacionados con las actividades de dichos cuerpos colegiados.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2022)</small>
 
-V.- Lectura, discusión y aprobación, en su caso, de los dictámenes, informes o cualquier documento elaborados y presentados por las Comisiones y los Comités.
+IV. Informe de solicitudes de gestión o de información gubernamental.
 
-VI.- Presentación de iniciativas de Ley, Decreto o Punto de Acuerdo.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2022)</small>
 
-VII.- Asuntos Generales.
+V. Turnos a Comisiones de las iniciativas y demás documentos relacionados con las actividades de dichos cuerpos colegiados.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2022)</small>
+
+VI. Lectura, discusión y aprobación, en su caso, de los dictámenes, informes o cualquier documento elaborados y presentados por las Comisiones y los Comités.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 31 DE AGOSTO DE 2022)</small>
+
+VII. Presentación de iniciativas:
+
+a) De Ley.
+
+b) De Decreto.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+VIII. Presentación de Proposiciones con carácter de Punto de Acuerdo.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE AGOSTO DE 2022)</small>
+
+IX. Asuntos Generales, Posicionamientos y Efemérides.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 165 BIS. Para el desahogo del orden del día se atenderá a lo siguiente:
+
+I. Las sesiones del Pleno durarán el tiempo necesario para el desahogo del orden del día. De así requerirse, se podrán declarar los recesos que resulten pertinentes, previa consulta y aprobación del Pleno, a propuesta de la Presidencia.
+
+Se establecerá la hora de inicio de la sesión, y en caso de que no se hubieren concluido los asuntos enlistados, los que hubieran quedado pendientes se podrán agendar para una próxima sesión.
+
+II. Para la presentación de los dictámenes se priorizarán aquellos que, atendiendo a los plazos constitucionales, legales y reglamentarios deban desahogarse.
+
+III. Tratándose de iniciativas de Ley o Decreto y Proposiciones con carácter de Punto de Acuerdo, se enlistarán aquellas que acuerde la Junta de Coordinación Política, a petición de los Grupos Parlamentarios, Coaliciones y Representaciones Parlamentarias, y las que se enlisten por las personas legisladoras en lo individual.
+
+IV. Tratándose de Asuntos Generales, que son aquellos que por su naturaleza no es posible incorporarlos en los otros apartados del orden del día, les será aplicable lo previsto en la fracción anterior.
 
 ###### ARTÍCULO 166.
 
@@ -2339,15 +2423,37 @@ VI.- Al Gobernador electo, una vez que adquiera oficialmente ese carácter y hay
 
 VII. A la ciudadanía chihuahuense, mediante iniciativa signada, cuando menos por el cero punto uno por ciento de las personas inscritas en el listado nominal.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 168.
 
-Las iniciativas y proposiciones que presenten las diputadas y diputados podrán ser de viva voz ante el Pleno o la Diputación Permanente; en Oficialía de Partes; a través de Oficialía de Partes Digital; o por medio de la Secretaría de Asuntos Legislativos y Jurídicos, en los términos del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
+Las iniciativas que presenten las diputadas y diputados podrán ser de viva voz ante el Pleno o la Diputación Permanente; en Oficialía de Partes; a través de Oficialía de Partes Digital; o por medio de la Secretaría de Asuntos Legislativos y Jurídicos, en los términos del Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+Las solicitudes de gestión y de información a una dependencia gubernamental no serán consideradas como Proposiciones con carácter de Punto de Acuerdo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE AGOSTO DE 2022)</small>
+
+Estas únicamente se presentarán en Oficialía de Partes u Oficialía de Partes Digital, y se les otorgará el trámite siguiente:
+
+I. Una vez presentadas o recibidas, deberá informarse de su recepción en el orden del día de la sesión.
+
+II. Se remitirán por la Mesa Directiva, mediante el acuerdo de trámite que emita, a la autoridad competente para su tramitación, lo cual no implica que fue aprobada por el Pleno y no tendrá el carácter de vinculante.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 168 BIS. En la presentación de iniciativas se concederá el uso de la palabra desde la tribuna hasta por veinte minutos. Se podrán conceder cinco minutos adicionales a petición de la persona oradora.
+
+Cuando se trate de una iniciativa presentada en lo individual, solo la persona iniciadora podrá darle lectura en la Sesión del Pleno o de la Diputación Permanente, las que se presenten a nombre de varias personas legisladoras, la lectura estará a cargo de quien ellas acuerden.
+
+En las iniciativas de Ley o Decreto, las demás personas legisladoras podrán hacer uso de la palabra para manifestar su adhesión a la misma desde su curul, sin mediar debate o posicionamiento alguno.
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 ###### ARTÍCULO 169.
 
-La presentación de iniciativas con carácter de Punto de Acuerdo corresponde, exclusivamente, a las diputadas y diputados.
+La presentación de Proposiciones con carácter de Punto de Acuerdo corresponde, exclusivamente, a las diputadas y diputados, las que se harán únicamente desde la tribuna, para lo cual se concederá la palabra hasta por veinte minutos.
 
 ###### ARTÍCULO 170.
 
@@ -2379,19 +2485,39 @@ Si las iniciativas no fueren atendidas en dicho plazo, la Junta de Coordinación
 
 Solo podrán someterse a consideración del Pleno o de la Diputación Permanente, en su caso, para su resolución, las iniciativas y demás asuntos que a través de un dictamen o documento elabore y apruebe una comisión o cualquier otro órgano del Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 174.
 
-Se exceptúan de lo anterior aquellos asuntos que, a juicio del Pleno o de la Diputación Permanente, tengan el carácter de urgente y deba emitirse la resolución respectiva al momento de su presentación, sin que se requiera su turno a alguna Comisión u otro órgano del Congreso facultado para ello, y que versen únicamente sobre:
+Se exceptúan de lo anterior aquellos asuntos que, en sesión del Pleno o de la Diputación Permanente, deba emitirse la resolución respectiva al momento de su presentación, sin que se requiera su turno a alguna Comisión u otro órgano del Congreso facultado para ello, y que versen únicamente sobre:
 
-I.- Iniciativas de Punto de Acuerdo.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+I. Proposiciones con carácter de Punto de Acuerdo.
 
 II.- Solicitudes de licencia.
 
 III.- Nombramientos, salvo en los casos en que la normatividad que los regula disponga un procedimiento especial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 175.
 
-Cuando se discuta una propuesta de las referidas en el artículo anterior y no fuere aprobado el carácter urgente por el Pleno o la Diputación Permanente, en su caso, quien presida la Mesa Directiva la turnará a comisión u órgano correspondientes, para su análisis y posterior dictamen.
+Las proposiciones con carácter de Punto de Acuerdo se someterán en una única votación del Pleno o de la Diputación Permanente para su aprobación. Salvo que se presente una moción para que sea turnada a Comisión y esta se apruebe.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE AGOSTO DE 2022)</small>
+
+En su caso, podrá mediar el debate respecto del contenido del asunto, conforme al siguiente procedimiento:
+
+I. Se abrirá una ronda de personas oradoras a favor y en contra, o en un mismo sentido, en su caso, hasta por diez minutos cada intervención, alternando las participaciones, y observando la pluralidad y equidad en el debate de los asuntos.
+
+II. Concluida esta ronda, la Presidencia declarará si se considera suficientemente discutido el tema. De ser así, se someterá a votación de forma inmediata.
+
+En caso contrario, se abrirá otra ronda de personas oradoras en los términos señalados; al concluir dicha ronda, la Presidencia declarará si el asunto está suficientemente discutido; de ser el caso, se someterá a votación de forma inmediata.
+
+III. De no considerarse suficientemente discutido, el Pleno o la Diputación Permanente, por mayoría, determinará si procede abrir más rondas de discusión, bajo los mismos términos expuestos en el presente artículo.
+
+IV. De no alcanzar la votación, se desechará y se tendrá como concluido.
 
 ###### ARTÍCULO 176.
 
@@ -2513,6 +2639,16 @@ VIII.- Quien presida la Mesa Directiva, si así lo considera, declarará suficie
 
 IX.- Las y los integrantes de la Comisión Dictaminadora podrán emitir votos particulares o, en su caso, podrán hacerse propuestas alternativas de redacción y contenido de uno o varios artículos del dictamen.
 
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 192 BIS. Durante la presentación y discusión de los asuntos en tribuna no podrá haber diálogos personales, solo se podrán realizar preguntas a la oradora u orador, siempre y cuando acepte, en cuyo caso, se concederá la palabra desde su curul, hasta por tres minutos, para formular la pregunta, y cinco minutos a la oradora u orador para responderla.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 192 TER. Cuando la oradora u orador realice alusiones personales a las diputadas y diputados presentes, y si la persona legisladora aludida lo solicita, se le concederá la palabra hasta por cinco minutos desde su curul, pero no podrá haber alusiones sobre alusiones.
+
+Igualmente, se concederá la palabra hasta por cinco minutos, desde su curul, para rectificación de hechos, en cuyo caso deberá ser respecto al asunto en discusión.
+
 ### CAPÍTULO VI. DE LAS MOCIONES
 
 ###### ARTÍCULO 193.
@@ -2531,13 +2667,25 @@ V.- Solicitar prioridad en el tratamiento de determinado asunto.
 
 VI.- Diferir el análisis de algún asunto.
 
-VII.- Devolver un dictamen a Comisiones.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+VII. Devolver un dictamen a Comisiones, previo a su votación en el Pleno o en la Diputación Permanente.
 
 VIII.- Solicitar la inclusión en el orden del día de algún asunto especial o urgente.
 
 IX.- Solicitar que, cuando quien presida haya otorgado la dispensa de la lectura de dictámenes y documentos, se lean estos por la importancia del asunto.
 
-X. Hacer proposiciones análogas a las anteriores.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2022)</small>
+
+X. Solicitar que se someta a consideración del Pleno o de la Diputación Permanente, para que sea turnada a Comisión una Proposición con carácter de Punto de Acuerdo.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
+
+XI. Solicitar modificaciones a las Proposiciones con carácter de Punto de Acuerdo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2022)</small>
+
+XII. Hacer proposiciones análogas a las anteriores.
 
 ###### ARTÍCULO 194.
 
@@ -2593,7 +2741,7 @@ Se exceptúa de lo anterior, tratándose de las votaciones por cédula.
 
 La votación nominal es aquella mediante la cual, cada una de las diputadas o diputados expresan de viva voz el sentido de su voto.
 
-La votación será solicitada por las o los Secretarios, iniciando por el lado derecho de las curules.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE AGOSTO DE 2022).
 
 Al concluir la votación, las y los Secretarios, harán del conocimiento de la Presidencia de la Mesa Directiva el resultado de la misma, quien finalmente hará la declaratoria respectiva.
 
@@ -2615,9 +2763,11 @@ III.- Quienes se abstengan.
 
 Posteriormente, harán del conocimiento de la Presidencia de la Mesa Directiva el resultado de la votación, quien finalmente hará la declaratoria respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+
 ###### ARTÍCULO 203.
 
-La votación de los asuntos se hará en forma económica, salvo aquellos casos en que la propia ley prevea una forma distinta.
+La votación del orden del día y de las actas de las sesiones se hará en forma económica, salvo aquellos casos en que la propia ley prevea una forma distinta.
 
 Las y los Secretarios efectuarán el cómputo, lo harán del conocimiento de la Presidencia de la Mesa Directiva, quien finalmente hará la declaratoria respectiva.
 
@@ -2641,11 +2791,31 @@ En caso necesario, quien presida la Mesa Directiva podrá solicitar por sí, o a
 
 Las características particulares y el procedimiento para emitir las votaciones serán reguladas en los términos del Reglamento Interior y de Prácticas Parlamentarias.
 
-### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2022)</small>
+
+### CAPÍTULO VIII. DE LOS ASUNTOS GENERALES
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 208 BIS. La presentación de Asuntos Generales se hará desde la tribuna hasta por veinte minutos, de existir participaciones se atenderá a lo siguiente:
+
+I. Se abrirá una ronda de personas oradoras garantizando los principios de pluralidad y equidad, hasta por diez minutos cada intervención, alternando las participaciones.
+
+II. Concluida esta ronda, la Presidencia declarará si se considera suficientemente discutido el tema.
+
+En caso contrario, se abrirá otra ronda de personas oradoras en los términos señalados; al concluir dicha ronda, la Presidencia declarará si el asunto está suficientemente discutido.
+
+III. De no considerarse suficientemente discutido, el Pleno o la Diputación Permanente, por mayoría, determinará si procede abrir más rondas de discusión, bajo los mismos términos expuestos en el presente artículo.
+
+En la presentación de efemérides no habrá debate.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+
+ARTÍCULO 208 TER. No podrán presentarse en Asuntos Generales aquellos que requieran una votación.
 
 ## TÍTULO NOVENO. DEL SERVICIO CIVIL
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE ACCESO A LA INFORMACIÓN
+### CAPÍTULO ÚNICO. DEL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
 
 ###### ARTÍCULO 209.
 
@@ -2661,7 +2831,7 @@ Las normas y procedimientos del Servicio Civil de Carrera Parlamentaria, se plas
 
 ## TÍTULO DÉCIMO. TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO I. DEL PROCEDIMIENTO JURISDICCIONAL
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES EN MATERIA DE ACCESO A LA INFORMACIÓN
 
 ###### ARTÍCULO 212.
 
@@ -2693,7 +2863,7 @@ Cuando se presente el caso, el(la) Titular del Sujeto obligado, tendrá que nomb
 
 ## TÍTULO UNDÉCIMO. DEL JUICIO POLÍTICO, DECLARACIÓN DE PROCEDENCIA Y RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPÍTULO I. DEL PROCEDIMIENTO JURISDICCIONAL
 
 ###### ARTÍCULO 218.
 
@@ -2701,7 +2871,7 @@ Las solicitudes de denuncia de Juicio Político y de Declaración de Procedencia
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2021)</small>
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTÍCULO 219.
 
@@ -2713,7 +2883,7 @@ Las solicitudes de denuncia de Juicio Político y de Declaración de Procedencia
 
 ## TÍTULO DUODÉCIMO. DE LA ELECCIÓN DE SERVIDORES PÚBLICOS
 
-### CAPÍTULO ÚNICO. DE LAS FORMAS DEL CEREMONIAL
+### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE ELECCIÓN
 
 ###### ARTÍCULO 221.
 
@@ -2729,9 +2899,7 @@ TÍTULO DECIMOTERCERO
 
 DEL CEREMONIAL
 
-### CAPÍTULO I. DE LAS Y LOS SERVIDORES PÚBLICOS OBLIGADOS
-
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
+### CAPÍTULO ÚNICO. DE LAS FORMAS DEL CEREMONIAL
 
 ###### ARTÍCULO 223.
 
@@ -2783,7 +2951,9 @@ DE LA DECLARACIÓN PATRIMONIAL
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2020)</small>
 
-### CAPÍTULO II. DE LAS DENUNCIAS
+### CAPÍTULO I. DE LAS Y LOS SERVIDORES PÚBLICOS OBLIGADOS
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
 
 ###### ARTÍCULO 234.
 
@@ -2819,7 +2989,7 @@ La información relacionada con las declaraciones de situación patrimonial, de 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2021)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LAS DENUNCIAS
 
 ###### ARTÍCULO 242.
 
@@ -2836,6 +3006,8 @@ La información relacionada con las declaraciones de situación patrimonial, de 
 TÍTULO DECIMOQUINTO
 
 DEL RÉGIMEN PATRIMONIAL DEL CONGRESO
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 245.
 
@@ -3320,3 +3492,13 @@ P.O. 10 DE AGOSTO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLEY/0279/2022 III P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO.- Las iniciativas con carácter de Punto de Acuerdo que se encuentren en estudio en las diversas Comisiones y Comités, a la entrada en vigor de este Decreto, que tengan como propósito las solicitudes de gestión y de información a una dependencia gubernamental, se les dará el tratamiento aludido en el presente Decreto, en el entendido que se tendrán que turnar y dar por atendidas en los términos presentados, mediante acuerdo de trámite, previa consulta y manifestación expresa de la persona iniciadora o, en su caso, del Grupo Parlamentario que se trate.
+
+TERCERO.- La observancia del principio de paridad de género a que se refiere el artículo 126 de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, será aplicable en las próximas designaciones y nombramientos que se realicen.
