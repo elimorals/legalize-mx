@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2021-10-06"
+last_updated: "2022-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMA DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 1 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2022 (ABROGADO).
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -3138,3 +3140,21 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- El titular del Poder Ejecutivo del Estado de Morelos, por conducto del secretario de Desarrollo Sustentable, podrá otorgar directamente concesión a aquellos particulares que actualmente cuentan con una autorización, siempre y cuando no se encuentren suspendidos, revocados y/o sujetos a algún procedimiento administrativo o judicial que impida la prestación del servicio, por el plazo que actualmente cuenta su autorización, servicios públicos estatales de verificación de emisiones contaminantes de la atmósfera provocada por vehículos automotores que circulan en el estado de Morelos.
 
 CUARTO.- En caso de duda sobre la aplicación del presente decreto será la Consejería Jurídica del Ejecutivo estatal la facultada para resolver en términos de lo previsto por el artículo 36, fracción X de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+P.O. 1 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS”.]
+
+PRIMERA. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano oficial del Gobierno del Estado.
+
+SEGUNDA. El Ejecutivo del Estado deberá expedir y modificar los reglamentos correspondientes en un plazo de ciento veinte días hábiles a partir de la vigencia de la presente ley. Mismo plazo tendrán el resto de autoridades competentes para la emisión de los instrumentos normativos administrativos que correspondan conforme a sus respectivos ámbitos de competencia.
+
+TERCERA. En tanto se expidan las disposiciones reglamentarias que se deriven de la presente ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
+
+CUARTA. Los ayuntamientos deberán expedir o en su caso actualizar, los reglamentos correspondientes en un plazo de ciento ochenta días hábiles a partir de la publicación de la presente Ley.
+
+QUINTA. Los actos, procedimientos y recursos administrativos interpuestos o iniciados bajo la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos que se abroga, se homologarán a las disposiciones de la presente ley.
+
+SEXTA. La Secretaría de Hacienda del Estado de Morelos realizará la planeación y adecuaciones correspondientes para implementar presupuestos transversales para la ejecución de las políticas en materia de medio ambiente dispuestas en esta ley, así como las medidas necesarias para el establecimiento del Fondo Verde Morelos para el Estado de Morelos.
+
+SÉPTIMA. Se abroga la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, publicada en el Periódico Oficial número 4022, Sección Segunda, de fecha 22 de diciembre de 1999.
