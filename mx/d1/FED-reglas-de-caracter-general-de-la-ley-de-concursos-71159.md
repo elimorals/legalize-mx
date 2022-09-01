@@ -4,7 +4,7 @@ identifier: "FED-reglas-de-caracter-general-de-la-ley-de-concursos-71159"
 country: "mx"
 rank: "reglas"
 publication_date: "2009-12-18"
-last_updated: "2021-11-30"
+last_updated: "2022-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71159&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2009-11-26"
 ---
 # REGLAS DE CARACTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-> <small>[N. DE E. EL "ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE ESPECIALISTAS DE CONCURSOS MERCANTILES POR EL QUE SE ORDENA LA PUBLICACIÓN DEL ACUERDO POR EL CUAL SE MODIFICAN, ADICIONAN Y DEROGAN DISTINTAS DISPOSICIONES DE LAS REGLAS DE CARÁCTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES PUBLICADAS EL DIECIOCHO DE DICIEMBRE DE DOS MIL NUEVE", PUBLICADO EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2021, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE ESPECIALISTAS DE CONCURSOS MERCANTILES POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS NUEVAS REGLAS DE CARÁCTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES, PUBLICADO EN EL D.O.F. DE 1 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAS DE CARÁCTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE SEPTIEMBRE DE 2022 (ABROGADAS).
 
 Reglas publicadas en la Primera Sección del Diario Oficial de la Federación, el viernes 18 de diciembre de 2009.
 
@@ -1162,3 +1162,17 @@ Quinto.- El Instituto emitirá en un plazo no mayor de seis meses contados a par
 Sexto.- El Instituto expedirá el sistema electrónico para el cumplimiento de los "Mecanismos de Supervisión de los servicios que prestan los Especialistas designados en un concurso mercantil" en un plazo de seis meses contados a partir de la entrada en vigor de las presentes Reglas.
 
 Séptimo.- El Instituto expedirá el sistema de bitácoras electrónicas y los lineamientos para su revisión a que hace referencia la regla 53, en un plazo de seis meses contados a partir de la entrada en vigor de las presentes Reglas, hasta en tanto se emitan los lineamientos lo (sic) visitadores continuarán presentando las bitácoras en el formato aprobado por la Junta Directiva en sesión extraordinaria celebrada el tres de noviembre de dos mil veinte.
+
+D.O.F. 1 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE ESPECIALISTAS DE CONCURSOS MERCANTILES POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS NUEVAS REGLAS DE CARÁCTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES".]
+
+Primero.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor del presente Acuerdo, se abrogan las Reglas de Carácter General de la Ley de Concursos Mercantiles, publicadas en el Diario Oficial de la Federación, el 18 de diciembre de 2009 y sus modificaciones y adiciones.
+
+Tercero.- Los honorarios de los Especialistas que se encuentren en funciones al inicio de la vigencia del presente Acuerdo, se calcularán y cobrarán en los términos del presente, salvo aquellos casos en los que ya exista una resolución firme reconociendo los mismos y ordenando su pago.
+
+Cuarto.- El Instituto expedirá el sistema electrónico para el cumplimiento de los "Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles” en un plazo de diez meses contados a partir de la entrada en vigor del presente Acuerdo.
+
+Quinto.- El Instituto expedirá la “Metodología para la obtención de información en integración del cuadro diagnóstico de evaluación para la categorización de los Especialistas (etapa de quiebra)” en un plazo de seis meses contado a partir de la entrada en vigor del presente Acuerdo.
