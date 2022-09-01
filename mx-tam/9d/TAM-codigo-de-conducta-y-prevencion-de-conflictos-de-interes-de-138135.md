@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-138
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-15"
-last_updated: "2019-08-15"
+last_updated: "2022-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DE LA COMISION DE ENERGIA DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA COMISIÓN DE ENERGÍA DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 1 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA COMISIÓN DE ENERGÍA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2022 (ABROGADO).
 
 Código publicado al Número 99 del Periódico Oficial del Estado de Tamaulipas, el jueves 15 de agosto de 2019.
 
@@ -632,3 +634,17 @@ El presente Código de Conducta y Prevención de Conflictos de Interés de la Co
 Cd. Victoria, Tam., a 27 de febrero de 2019
 
 ATENTAMENTE.- COMISIONADO DE ENERGÍA DE TAMAULIPAS.- LIC. ANDRÉS ALEJANDRO FUSCO CLYNES.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA COMISIÓN DE ENERGÍA DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés de la Comisión de Energía de Tamaulipas, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de la Comisión de Energía de Tamaulipas, publicado en el Periódico Oficial del Estado, el día 15 de agosto del 2019.
