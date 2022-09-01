@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-rural-sustentable-del-estado-de-morelos-67318
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-04"
-last_updated: "2021-10-06"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de marzo de 2009.
 
@@ -279,9 +279,17 @@ VI. Expedir los reglamentos que se deriven de esta Ley, para el logro de los obj
 
 VII. Prever los fondos contingentes para apoyo e indemnización de daños generados por siniestros naturales, daño ambiental y causas ajenas a las actividades productivas, que afecten al sector rural del Estado;
 
-VIII. Contribuir al fomento y conservación de la biodiversidad, al mejoramiento de la calidad de los recursos naturales con la participación activa de sus poseedores, mediante su aprovechamiento sustentable, de conformidad con las disposiciones normativas en la materia; y
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Las demás que le otorguen la presente Ley, reglamentos; normatividad aplicable en materia rural.
+VIII. Contribuir a la Soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria del estado;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Contribuir al fomento y conservación de la biodiversidad, al mejoramiento de la calidad de los recursos naturales con la participación activa de sus poseedores, mediante su aprovechamiento sustentable, de conformidad con las disposiciones normativas en la materia; y,
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
+
+X. Las demás que le otorguen la presente ley, reglamentos; normatividad aplicable en materia rural.
 
 ## TÍTULO SEGUNDO. DE LA POLÍTICA, PLANEACIÓN Y COORDINACIÓN DEL DESARROLLO RURAL
 
@@ -321,9 +329,17 @@ XI. Promover la coordinación entre los tres ámbitos de gobierno y la concertac
 
 XII. Promover la capitalización del sector mediante obras de infraestructura básica y productiva, y de servicios a la producción así como a través de apoyos directos a los productores, que les permitan realizar las inversiones necesarias para incrementar la eficiencia de sus unidades de producción, mejorar sus ingresos y fortalecer su competitividad;
 
-XIII. Promover ante la sociedad la cultura que permita dignificar la actividad del campesino, como base del sustento social que genera los alimentos que esta consume; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
 
-XIV. Diseñar e implementar los apoyos directos, estímulos fiscales, créditos, fianzas, seguros, fondos, fideicomisos, o cualquier otro instrumento económico que permitan el desarrollo de la infraestructura productiva a lo largo de las cadenas, así como el fortalecimiento de esquemas modernos de comercialización y mercado, que permitan el fortalecimiento y la defensa del productor.
+XIII. Promover ante la sociedad la cultura que permita dignificar la actividad del campesino, como base del sustento social que genera los alimentos que esta consume;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
+
+XIV. Diseñar e implementar los apoyos directos, estímulos fiscales, créditos, fianzas, seguros, fondos, fideicomisos, o cualquier otro instrumento económico que permitan el desarrollo de la infraestructura productiva a lo largo de las cadenas, así como el fortalecimiento de esquemas modernos de comercialización y mercado, que permitan el fortalecimiento y la defensa del productor; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE SEPTIEMBRE DE 2022)</small>
+
+XV. Contribuir a la Soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria del estado.
 
 ###### Artículo 12.
 
@@ -335,7 +351,7 @@ El análisis y planeación de los productos agroalimentarios se realizará con b
 
 ###### Artículo 14.
 
-Contribuir a la soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria del Estado.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2022)
 
 ### CAPÍTULO II. DE LA PLANEACIÓN PARA EL DESARROLLO RURAL
 
@@ -745,9 +761,17 @@ X. Garantizar la amplia inclusión, representación y participación en los Cons
 
 XI. Concurrir con apoyos adicionales que requieran los productores para el debido cumplimiento de sus programas y proyectos;
 
-XII. Participar activamente en los Consejos Regionales de Desarrollo Rural Sustentable, y
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
 
-XIII. Las demás que conforme a la presente Ley, les correspondan.
+XII. Contribuir a la Soberanía y seguridad alimentaria, mediante el impulso de la producción agropecuaria del estado;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
+
+XIII. Participar activamente en los consejos regionales de Desarrollo Rural Sustentable; y,
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
+
+XIV. Las demás que conforme a la presente ley, les correspondan.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2019)</small>
 
@@ -1698,3 +1722,13 @@ P.O. 6 DE OCTUBRE DE 2021.
 PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial “Tierra y Libertad” órgano oficial de difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado de Morelos.
+
+P.O. 1 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA Y TRES POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo.
