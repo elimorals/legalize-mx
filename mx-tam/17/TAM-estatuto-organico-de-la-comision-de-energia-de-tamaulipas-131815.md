@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-de-la-comision-de-energia-de-tamaulipas-13181
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-11-01"
-last_updated: "2018-11-01"
+last_updated: "2022-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DE LA COMISION DE ENERGIA DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN DE ENERGÍA DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 1 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN DE ENERGÍA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2022 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 01 de noviembre de 2018.
 
@@ -619,3 +621,21 @@ Transitorios (sic)
 Primero. El presente Estatuto Orgánico entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ATENTAMENTE.- EL TITULAR DE LA COMISIÓN DE ENERGÍA DE TAMAULIPAS.- LIC. ANDRÉS A. FUSCO CLYNES.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA COMISIÓN DE ENERGÍA DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor al día siguiente al de su expedición.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Estatuto Orgánico deberá inscribirse en el Registro Estatal de Organismos Descentralizados, de conformidad al artículo 23, fracción I de la Ley de Entidades Paraestatales del Estado de Tamaulipas.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Estatuto Orgánico de la Comisión de Energía de Tamaulipas, publicado en el Periódico Oficial del Estado No. 132 de fecha 01 de noviembre de 2018.
