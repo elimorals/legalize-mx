@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-14121
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2022-04-27"
+last_updated: "2022-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -287,13 +287,17 @@ VII. Considerar la tecnología aplicable en función de la naturaleza de las obr
 
 VIII. Tomar en cuenta preferentemente, el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Prever los efectos y consecuencias sobre el medio ambiente que pueda causar la ejecución de la obra pública, con sustento en los estudios de manifestación de impacto ambiental previstos por la Ley Ambiental para el Desarrollo Sustentable del Estado. Los proyectos deberán incluir las obras necesarias para que se preserven y restauren las condiciones ambientales cuando éstas pudieran deteriorarse, y se dará la intervención que corresponda a las dependencias y entidades que tengan atribuciones en la materia; y,
+IX. Prever los efectos y consecuencias sobre el medio ambiente que pueda causar la ejecución de la obra pública, con sustento en los estudios de manifestación de impacto ambiental previstos por la Ley Ambiental para el Desarrollo Sustentable del Estado. Los proyectos deberán incluir las obras necesarias para que se preserven y restauren las condiciones ambientales cuando éstas pudieran deteriorarse, y se dará la intervención que corresponda a las dependencias y entidades que tengan atribuciones en la materia;
 
-> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
 
-X. Prever que toda instalación pública asegure la accesibilidad, evacuación y libre tránsito sin barreras arquitectónicas, para todas las personas; y deberán cumplir con las normas oficiales vigentes de diseño y de señalización, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con discapacidad.
+X. Prever que toda instalación pública asegure la accesibilidad, evacuación y libre tránsito sin barreras arquitectónicas, para todas las personas; y deberán cumplir con las normas oficiales vigentes de diseño y de señalización, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con discapacidad; y,
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Realizar estudios de impacto social en obras públicas de nueva creación y de alto impacto, cuyo monto asignado sea superior a las doscientas mil Unidades de Medida y Actualización; dicho estudio se entiende como el proceso de evaluación sobre las consecuencias sociales que pueden derivar de la obra pública, a efecto de mitigarlas en favor de las personas o comunidades que pudieren resultar afectadas.
 
 ###### Artículo 11.
 
@@ -1517,10 +1521,18 @@ La Secretaría en un término no mayor de sesenta días hábiles, elaborará y p
 
 P.O. 27 DE ABRIL DE 2022.
 
-[N. DE E DECRETO NÚMERO 139 POR EL QUE “SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 7° DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.].
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 139 POR EL QUE “SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 7° DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.].
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado contará con 30 días hábiles para reformar la normatividad interna de la Secretaría de Comunicaciones y Obras Públicas a lo mandatado en el presente Decreto.
 
 TERCERO. Los recursos destinados a las Obras por Cooperación, independientemente de su origen, si es Federal, Estatal, Municipal o de los beneficiarios, se sujetarán a lo establecido en la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado de Michoacán de Ocampo y sus Municipios en materia de transparencia y rendición de cuentas, así como a los lineamientos específicos emitidos por la Secretaría del ramo, mismos que serán explícitos en materia de las responsabilidades que asumen las autoridades y los beneficiarios.
+
+P.O. 1 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 196 POR EL QUE “SE REFORMAN LAS FRACCIONES IX Y X; Y, SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 10 DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría, tendrá un plazo de noventa días para reformar en su caso, el Reglamento de la presente Ley, así como emitir los lineamientos o guías de elaboración de los estudios de impacto social, para dar cumplimiento con lo establecido en el presente Decreto.
