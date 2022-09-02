@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-127150"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-03-15"
-last_updated: "2022-07-27"
+last_updated: "2022-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127150&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-03-05"
 
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE SEPTIEMBRE DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 15 de marzo de 2018.
 
@@ -400,27 +400,45 @@ X. Concluido el trámite la Secretaría lo notificará al Órgano Político Admi
 
 En los Programas Parciales de Desarrollo Urbano se establecerán los casos en que no podrá aplicarse el procedimiento a que se refiere este artículo.
 
-> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 15 Bis.
 
-Las personas que ejerzan actividades en micro o pequeños comercios, servicios o industrias de bajo impacto, en inmuebles de hasta 200 m2 de superficie construida podrán tramitar ante la Secretaría el Certificado de Uso del Suelo por Reconocimiento de Actividad en la plataforma digital dispuesta para ese efecto, de acuerdo con el siguiente procedimiento:
+Las personas que ejerzan actividades en micro o pequeños comercios, servicios o industrias de bajo impacto, en inmuebles de hasta 200 m2 de superficie construida podrán tramitar ante la Secretaría el Certificado de Uso del Suelo por Reconocimiento de Actividad en la plataforma digital dispuesta para dicho efecto, de acuerdo con el siguiente procedimiento:
+
+> <small>(ADICIONADA, G.O. 27 DE JULIO DE 2021)</small>
 
 I. La persona interesada proporcionará los datos y presentará en archivo digital los documentos de identificación personal y del inmueble correspondiente, así como la descripción precisa de la actividad que se ejerce y área del inmueble destinada a ésta de acuerdo con el formulario.
 
+> <small>(ADICIONADA, G.O. 27 DE JULIO DE 2021)</small>
+
 II. Tratándose de inmuebles que funcionen bajo el régimen de propiedad en condominio, deberá presentarse en archivo digital la escritura del régimen y del acta de asamblea donde los condóminos otorgan su consentimiento por mayoría simple para la realización de la actividad correspondiente.
+
+> <small>(ADICIONADA, G.O. 27 DE JULIO DE 2021)</small>
 
 III. Tratándose de inmuebles afectos al patrimonio cultural, histórico, artístico y/o urbano, la Secretaría recabará opinión técnica de la unidad administrativa interna correspondiente, del Instituto de (sic) Nacional de Bellas Artes y Literatura o del Instituto Nacional de Antropología e Historia y las incorporará en el expediente electrónico correspondiente.
 
+> <small>(ADICIONADA, G.O. 27 DE JULIO DE 2021)</small>
+
 IV. En caso de que la solicitud no contenga los requisitos o no se acompañe de los documentos previstos en las fracciones anteriores, se prevendrá a la persona interesada a través de la plataforma digital y por una sola vez, para que dentro del término de cinco días hábiles siguientes a la notificación de dicha prevención subsane la falta. En el supuesto de que en el término señalado no se subsane la irregularidad se tendrá por no presentada la solicitud en la plataforma, quedando a salvo el derecho de volver a presentarla.
+
+> <small>(ADICIONADA, G.O. 27 DE JULIO DE 2021)</small>
 
 V. La Secretaría emitirá el dictamen correspondiente dentro de los siguientes cinco días a la presentación de la solicitud o de la recepción de la opinión señalada en la fracción III y lo notificará a través de la plataforma.
 
+> <small>(ADICIONADA, G.O. 27 DE JULIO DE 2021)</small>
+
 VI. En caso de ser positivo el dictamen, se requerirá el recibo de pago para la expedición del Certificado de Uso del Suelo por Reconocimiento de Actividad y se entregará mediante la propia plataforma digital.
+
+> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2021)</small>
 
 La vigencia del Certificado de Uso del Suelo por Reconocimiento de Actividad será temporal hasta en tanto se realice el cambio de uso del suelo dispuesto en el artículo 15 del presente Reglamento, o se actualice la zonificación en el programa correspondiente, siempre que no hubieren cambiado las condiciones en que fue expedido. Su costo será el mismo que el correspondiente al del Certificado Único de Zonificación de Uso del Suelo.
 
+> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2021)</small>
+
 No se podrá expedir Certificado de Uso del Suelo por Reconocimiento de Actividad en zonificación de área verde o en Áreas Naturales Protegidas, Áreas de Valor Ambiental, Áreas de Producción Rural-Agroindustrial, Áreas de Preservación Ecológica y Áreas de Rescate Ecológico, conforme al Programa General de Ordenamiento Ecológico del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 27 DE JULIO DE 2021)</small>
 
 En el Certificado de Uso del Suelo por Reconocimiento de Actividad se indicará que el uso del suelo autorizado no se considera inherente al inmueble ni es transferible y que su titularidad corresponde únicamente a la persona que lo tramitó para ser ejercido en el inmueble señalado en el propio certificado, por lo que no da origen a la acreditación de derechos adquiridos.
 
@@ -445,6 +463,28 @@ d) Copia simple de la boleta predial.
 > <small>(ADICIONADO, G.O. 27 DE JULIO DE 2022)</small>
 
 El certificado emitido conforme a lo dispuesto en el párrafo inmediato anterior tendrá vigencia de un año y no exime del cumplimiento de las obligaciones en materia de seguridad estructural, protección civil y demás aplicables; asimismo, será prorrogable siempre y cuando se presenten los siguientes documentos vigentes: Constancia de Seguridad Estructural, el Visto Bueno de Seguridad y Operación de las Instalaciones y el Programa Interno de Protección Civil. Dichos documentos deberán ser presentados dentro de los 10 días posteriores a su emisión o en su caso al momento de solicitar su renovación.
+
+> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
+El Certificado de Uso del Suelo por Reconocimiento de Actividad será aplicable para los establecimientos que estén considerados como de impacto vecinal, en términos de la Ley de Establecimientos Mercantiles de la Ciudad de México (salones de fiestas, restaurantes, establecimientos de hospedaje, clubes privados, salas de cine con o sin venta de bebidas alcohólicas, teatros y auditorios), en la superficie total en la que se ejerzan, siempre y cuando la persona interesada acredite tener más de cinco años ejerciendo de forma continua el giro mercantil en el predio en donde se ubique y éste no se encuentre en alguno de los supuestos establecidos en el párrafo tercero de este artículo.
+
+> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
+Las personas interesadas en obtener el Certificado para los usos del suelo señalados en el párrafo anterior ingresarán su solicitud a través de la Plataforma Digital y proporcionarán los datos que se requieran, además se presentarán en archivo digital los documentos de identificación personal, la descripción precisa de la actividad que ejerce y el área del inmueble destinada a ésta, de acuerdo con el formulario que se encuentra en la plataforma digital, así como los siguientes documentos:
+
+a) Boletas del impuesto predial y de derechos por el suministro de agua de los últimos 5 años, así como sus respectivos comprobantes de pago;
+
+b) Documento con el que se acredite la propiedad o posesión legal del inmueble;
+
+c) Documentos con los que se acredite tener más de cinco años ejerciendo de forma continua el Uso del Suelo respectivo: licencia sanitaria, licencia ambiental única, licencia o manifestación de construcción, aviso de terminación de obra y autorización de uso y ocupación, licencias de funcionamiento, escrituras y/o cualquier otro documento válido por la Secretaría.
+
+d) Reporte fotográfico a color que contenga al menos cinco imágenes del interior y tres del exterior del establecimiento como se encuentra actualmente, así como cualquier otro medio de prueba; y
+
+e) Tratándose de inmuebles que funcionen bajo el régimen de propiedad en condominio, copia simple de la escritura pública del régimen y del acta de la sesión donde los condóminos otorgan su anuencia.
+
+> <small>(ADICIONADO, G.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
+El Certificado de Uso del Suelo por Reconocimiento de Actividad, emitido para los usos de suelo de impacto vecinal, indicará que el uso del suelo autorizado no se considera inherente al inmueble, ni es transferible y su titularidad corresponde únicamente a la persona que lo tramitó para ser ejercido en el inmueble señalado en el propio certificado, por lo que no dará origen a la acreditación de derechos adquiridos. Su vigencia será de un año y será prorrogable hasta en tanto se actualice la zonificación en el programa correspondiente, siempre que no hubieren cambiado las condiciones en que fue expedido. Su costo será el mismo que el correspondiente al Certificado Único de Zonificación de Uso del Suelo.
 
 ### CAPÍTULO II. DEL REGISTRO DE LOS PLANES Y PROGRAMAS
 
@@ -2591,3 +2631,13 @@ PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. El Certificado de Uso del Suelo por Reconocimiento de Actividad de usos de suelo de centros de desarrollo infantil y/o estancias infantiles (antes guarderías), jardines de niños, escuelas especializadas en atención a condiciones de discapacidad, escuelas primarias, secundarias, escuelas de educación media superior y de educación superior, procederá únicamente para aquellos centros educativos que cuenten con registro vigente a la fecha de entrada en vigor del presente Decreto.
+
+G.O. 2 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 15 BIS DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Las personas interesadas en obtener el Certificado de Uso del Suelo por Reconocimiento de Actividad para los usos de suelo de impacto vecinal contarán con el término de 1 año contado a partir de la entrada en vigor del presente Decreto para ingresar su solicitud.
