@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-integral-a-las-personas-adultas-mayores-91829
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-24"
-last_updated: "2021-07-22"
+last_updated: "2022-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el jueves 24 de enero de 2013.
 
@@ -111,11 +111,15 @@ c) Dependiente absoluto: Aquella con una enfermedad crónica o degenerativa por 
 
 d) En situación de riesgo o desamparo: Aquellas que, por problemas de salud, abandono, carencia de apoyos económicos, familiares, contingencias ambientales o desastres naturales, requieren de asistencia y protección del Estado, a través de cualquiera de sus autoridades o de la sociedad organizada.
 
-XX. Subsidio. Prestación pública asistencial de carácter económico y de duración determinada;
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
 
-XXI. Tanatología. Disciplina que se encarga de los estudios encaminados a procurar una muerte digna con cuidados, paliativos biológicos, psicológicos y sociales;
+XX. Procuraduría: La Procuraduría de la Defensa y Representación del Adulto Mayor;
 
-XXII. Violencia. Acto abusivo de acción u omisión intencional, realizado por alguna persona física o moral, hacia una persona adulta mayor, dirigido a dominar, someter, controlar o agredir de manera física, verbal, y/o psicológica que puede presentarse en cualquiera de las siguientes formas:
+XXI. Subsidio. Prestación pública asistencial de carácter económico y de duración determinada;
+
+XXII. Tanatología. Disciplina que se encarga de los estudios encaminados a procurar una muerte digna con cuidados, paliativos biológicos, psicológicos y sociales;
+
+XXIII. Violencia. Acto abusivo de acción u omisión intencional, realizado por alguna persona física o moral, hacia una persona adulta mayor, dirigido a dominar, someter, controlar o agredir de manera física, verbal, y/o psicológica que puede presentarse en cualquiera de las siguientes formas:
 
 a) Violencia económica. Toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
@@ -693,6 +697,74 @@ XXXII. Vigilar que las instituciones públicas y privadas presten a las personas
 
 XXXIII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN X (SIC). PROCURADURÍA DE LA DEFENSA Y REPRESENTACIÓN DEL ADULTO MAYOR
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 19 Bis.
+
+La Procuraduría de la Defensa y Representación del Adulto Mayor, es un órgano especializado del DIF, contará con autonomía técnica y de gestión, tendrá como objetivo, la atención a las personas adultas mayores en situación de riesgo o desamparo, sus atribuciones son:
+
+I. Impulsar y promover el reconocimiento y ejercicio pleno de los derechos políticos, económicos y sociales de las personas adultas mayores;
+
+II. Promover ante la autoridad competente cualquier trámite, querella, denuncia o demanda, en la vía civil, familiar, mercantil, administrativa, penal y laboral, cuando la persona adulta mayor no tenga los medios económicos o por impedimento físico no pueda valerse por sí misma;
+
+III. Coadyuvar con la fiscalía, tribunales laborales y tribunal de justicia en la representación de los elementos y pruebas para la protección de los derechos de los adultos mayores;
+
+IV. Dar seguimiento a los programas de prevención y maltrato al adulto mayor;
+
+V. Representar gratuitamente a los adultos mayores en los procedimientos penales, administrativos, civiles, familiares, mercantiles y laborales o en cualquier asunto legal en que la persona adulta mayor tenga un interés jurídico. Investigar y en su caso denunciar ante la autoridad competente cuando se tenga conocimiento de casos de discriminación, lesiones, abandono, violencia, explotación o cualquier acto que cause perjuicio al adulto mayor;
+
+VI. Gestionar y vigilar las dependencias gubernamentales que garanticen los derechos a la alimentación, seguridad social, recreación y esparcimiento;
+
+VII. Elaborar el padrón de personas adultas mayores;
+
+VIII. Establecer programas de prevención y protección para las personas adultas mayores en situación de riesgo o desamparo para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
+
+IX. Asistir a las personas adultas mayores en situación de violencia o vulnerabilidad con estancias temporales;
+
+X. Procurar servicios de albergues y estancias, con el objeto de satisfacer las necesidades básicas de aquellas personas adultas mayores que carecen de hogar y de familia o con graves problemas de integración familiar;
+
+XI. Proporcionar protección jurídica y psicológica a las personas adultas mayores que hayan sido afectadas por medio de violencia física, sexual, psicológica o patrimonial;
+
+XII. Tomar las medidas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo;
+
+XIII. Organizar y difundir campañas de orientación e información nutricional de acuerdo con las condiciones físicas de este sector;
+
+XIV. Fomentar la creación de grupos de convivencia en el Estado;
+
+XV. Promover la creación de establecimientos destinados al cuidado, atención, enseñanza y entretenimiento;
+
+XVI. Establecer convenios con instituciones públicas y privadas dedicadas a la comunicación masiva, para la difusión de una cultura de aprecio y respeto hacia las personas adultas mayores;
+
+XVII. Rehabilitar a las personas adultas mayores con discapacidad en los centros especializados;
+
+XVIII. Diseñar y aplicar en coordinación con la Secretaría de Salud del Estado, los programas de asistencia social;
+
+XIX. Coordinar con la Secretaría de Educación en el Estado, la difusión de los programas que tiendan a promover una cultura de respeto y consideración hacia las personas adultas mayores;
+
+XX. Proporcionar la asistencia social en conjunto con el DIF a nivel municipal, previa la celebración de los convenios respectivos con la Delegación Estatal del INAPAM, para proporcionar esta asistencia a aquellas personas adultas mayores en situación de riesgo o desamparo;
+
+XXI. Realizar campañas de sensibilización en coordinación con la Delegación Estatal del INAPAM, para la prevención de la violencia, abandono y auto abandono; y,
+
+XXII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 19 Ter.
+
+El titular de la Procuraduría, será nombrado y removido por el Gobernador del Estado y tendrá las siguientes atribuciones:
+
+I. Dirigir, ordenar y dar seguimiento a las labores de las áreas operativas de la Procuraduría;
+
+II. Representar a las personas adultas mayores ante cualquier autoridad, organismo descentralizado, federal, estatal o municipal;
+
+III. Rendir un informe anual a la Junta de Gobierno del DIF; y,
+
+IV. Las demás que determine el Reglamento Interior.
+
 #### SECCIÓN X. DE LA COMISIÓN ESTATAL DE CULTURA FÍSICA Y DEPORTE
 
 ###### ARTÍCULO 20.
@@ -751,9 +823,13 @@ VIII. Incluir dentro del presupuesto de egresos municipal los recursos necesario
 
 IX. Vigilar en la esfera de su competencia, el cumplimiento de la presente Ley, así como de las demás disposiciones legales y reglamentarias aplicables en esta materia.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 23.
 
-Cada Gobierno Municipal dentro del DIF, podrá contar con un CEMAIPAM, el cual en su estructura orgánica tendrá una Dirección, un área de atención médica, psicológica y jurídica.
+Cada Gobierno Municipal dentro del DIF, deberá contar con un CEMAIPAM, el cual en su estructura orgánica tendrá una Dirección, un área de atención médica, psicológica, jurídica y de orientación para la asistencia social.
+
+El CEMAIPAM, fungirá como Unidad de atención de la Procuraduría en los Municipios.
 
 ###### ARTÍCULO 24.
 
@@ -773,9 +849,27 @@ VI. Realizar pláticas, talleres o conferencias dirigidas a los adultos mayores 
 
 VII. Movilizar trimestralmente el personal adscrito al CEMAIPAM con el objeto de difundir sus servicios, brindar atención médica, psicológica y jurídica a las personas adultas mayores de dichas comunidades;
 
-VIII. Cada Gobierno Municipal emitirá el reglamento respectivo para la operación de los CEMAIPAM; y,
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Las demás que le confiera esta Ley y otras disposiciones aplicables.
+VIII. Brindar asesoría y orientación para acceder a los programas de asistencia social diseñados para la atención de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Fungir como órgano de consulta y asesoría para que las personas adultas mayores puedan acceder a programas de prevención de la discapacidad y rehabilitación;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
+X. Promover la inclusión laboral de las personas adultas mayores en conjunto con la Secretaría de Desarrollo Económico;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Cada Gobierno Municipal, emitirá el Reglamento respectivo para la operación de los CEMAIPAM;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Las atribuciones que se establecen para la Procuraduría de Protección y Representación del Adulto Mayor; y,
+
+XIII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2021)</small>
 
@@ -1404,3 +1498,23 @@ Asimismo y con la finalidad de dar claridad y certeza en relación a la prestaci
 TERCERO. A partir de la publicación del presente Decreto, la Junta de Asistencia Privada, en un plazo no mayor a sesenta días naturales, rendirá un informe por escrito ante la Comisión de Derechos Humanos del Congreso del Estado, en donde se precisen las necesidades en materia de recursos humanos y económicos, de las estancias, casas hogar, albergues y centros de atención integral.
 
 CUARTO. Hágase del conocimiento de la Comisión Estatal de los Derechos Humanos, el contenido del presente Decreto en la parte que la implica, por medio de su Presidente o Encargado de Despacho, según corresponda.
+
+P.O. 2 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 173 POR EL QUE “SE ADICIONA LA FRACCIÓN XX, RECORRIÉNDOSE EN SU ORDEN LA NUMERACIÓN SUBSECUENTE DEL ARTÍCULO 2, LA SECCIÓN X, PROCURADURÍA DE LA DEFENSA Y REPRESENTACIÓN DEL ADULTO MAYOR, LOS ARTÍCULOS 19 BIS Y 19 TER, UN SEGUNDO PÁRRAFO AL ARTÍCULO 23, LAS FRACCIONES IX, X, XI Y XII AL ARTÍCULO 24, RECORRIÉNDOSE LA NUMERACIÓN SUBSECUENTE; SE REFORMAN LOS ARTÍCULOS 23 Y LA FRACCIÓN VIII DEL ARTÍCULO 24 DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presupuesto designado a la Procuraduría de Protección y Representación del Adulto Mayor, deberá incluirse a partir del siguiente ejercicio presupuestal.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal y los Gobiernos Municipales contarán con noventa días a partir de la entrada en vigor del presente Decreto, para nombrar al titular de la Procuraduría de Protección y Representación del Adulto Mayor y al Director del CEMAIPAM respectivamente.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto deberá hacerse de conocimiento de las comisiones de Desarrollo Social, así como a la de Fortalecimiento Municipal y Límites Territoriales, de este Poder Legislativo, para efectos de la armonización de lo aquí dictaminado en lo que concierne a sus respectivas competencias.
