@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-la-auditoria-superior-del-estado-de-sinaloa-60836"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-23"
-last_updated: "2022-08-17"
+last_updated: "2022-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SIN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE SEPTIEMBRE DE 2022.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 23 de abril de 2008.
 
@@ -289,13 +289,13 @@ V. Verificar que las entidades fiscalizadas que hubieren recaudado, manejado, ad
 
 VI. Verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con sus Presupuestos de Egresos, la Ley de Ingresos y Presupuesto de Egresos del Estado, las Leyes de Ingresos Municipales, la Ley de Presupuesto y Responsabilidad Hacendaria, la Ley de Deuda Pública, la Ley Orgánica de la Administración Pública, la Ley Orgánica del Congreso, la Ley de Gobierno Municipal, la Ley Orgánica del Poder Judicial, todas del Estado de Sialoa (sic), la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás disposiciones legales y administrativas aplicables a estas materias;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+(REFORMADA, P.O. 17 DE AGOSTO DE 2022) (F. DE E., P.O. 2 DE SEPTIEMBRE DE 2022)
 
-VII. Entregar a la Comisión de Fiscalización, el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública del Estado y Municipios, y los Informes Individuales de las mismas, así como los Informes Generales e Individuales de las auditorías de los estados financieros anuales de los organismos paraestatales o paramunicipales y órganos constitucionales autónomos, y demás entes públicos revisados o auditados;
+VII. Entregar a la Comisión de Fiscalización, el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública del Estado y Municipios, y los informes individuales de las mismas, así como los Informes Generales e individuales de las auditorías de los estados financieros anuales de los organismos paraestatales o paramunicipales y órganos constitucionales autónomos, y demás entes públicos revisados o auditados;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(F. DE E., P.O. 2 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. Solicitar, obtener y tener acceso a toda la información y documentación, a través de medios físicos o electrónicos mediante herramientas tecnológicas, necesaria para el cumplimiento de sus funciones, atendiendo a las disposiciones legales que para el efecto consideren dicha información como de carácter reservado;
+VIII. Verificar obras, bienes adquiridos y servicios contratados, para comprobar si las inversiones y gastos autorizados a los Poderes del Estado, municipios y demás entidades fiscalizadas se han aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados contenidos en la estructura programática vigente;
 
 IX. Contratar los servicios, de despachos contables reconocidos, para el cumplimiento de su programa anual de auditorías;
 
@@ -303,7 +303,9 @@ X. Requerir, en su caso, a terceros que hubieran contratado bienes o servicios m
 
 XI. Promover ante las autoridades competentes la sanción que corresponda por el incumplimiento de la obligación de los terceros de proporcionar información solicitada por la Auditoria Superior;
 
-XII. Solicitar toda la información necesaria para el cumplimiento de sus funciones, atendiendo a las disposiciones legales que para el efecto consideren dicha información como de carácter reservado;
+(REFORMADA, P.O. 17 DE AGOSTO DE 2022) (F. DE E., P.O. 2 DE SEPTIEMBRE DE 2022)
+
+XII. Solicitar, obtener y tener acceso a toda la información y documentación, a través de medios físicos o electrónicos mediante herramientas tecnológicas, necesaria para el cumplimiento de sus funciones, atendiendo a las disposiciones legales que para el efecto consideren dicha información como de carácter reservado;
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -353,7 +355,7 @@ XIV. Investigar los actos u omisiones que impliquen alguna irregularidad o condu
 
 Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal y la Fiscalía Especializada, para la imposición de las sanciones que correspondan a los servidores públicos de los entes fiscalizados, así como a personas físicas y morales;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+(ADICIONADA, P.O. 17 DE AGOSTO DE 2022) (F. DE E., P.O. 2 DE SEPTIEMBRE DE 2022)
 
 XIV Bis. Realizar auditorías financieras, sobre el desempeño, forenses, específicas y de cualquier otro tipo establecida en la presente Ley o su Reglamento;
 
@@ -2437,9 +2439,11 @@ P.O. 17 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE LA AUDITORÍA SUPERIOR Y LEY ORGÁNICA DEL CONGRESO, AMBAS DEL ESTADO DE SINALOA”.]
 
+> <small>(F. DE E., P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día primero de enero de 2023, previa su publicación en el Periódico Oficial "El Estado de Sinaloa".
+El presente entrará en vigor el segundo día hábil de enero de 2023, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO SEGUNDO.
 
