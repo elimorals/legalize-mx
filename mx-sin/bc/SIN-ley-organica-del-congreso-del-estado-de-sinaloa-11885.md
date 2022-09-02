@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2022-08-17"
+last_updated: "2022-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "SIN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE SEPTIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE SEPTIEMBRE DE 2022.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -2689,9 +2689,11 @@ P.O. 17 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 231 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA AUDITORÍA SUPERIOR Y LEY ORGÁNICA DEL CONGRESO, AMBAS DEL ESTADO DE SINALOA”.]
 
+> <small>(F. DE E., P.O. 2 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día primero de enero de 2023, previa su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+El presente Decreto entrará en vigor el segundo día hábil de enero de 2023, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO SEGUNDO.
 
