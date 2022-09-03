@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2022-08-20"
+last_updated: "2022-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -3009,7 +3009,9 @@ Las obras que estén a cargo del Gobierno del Estado o de los municipios, deber�
 
 El Municipio correspondiente y la Secretaría, en el ámbito de sus competencias, supervisarán y vigilarán, en todo momento, que las obras y actividades realizadas estén de acuerdo con el proyecto autorizado y demás lineamientos señalados por la presente Ley, sus reglamentos respectivos y los programas de ordenamiento territorial y de desarrollo urbano vigentes.
 
-Toda edificación dispondrá de lugares de estacionamiento de vehículos en la cantidad que señalen los programas de desarrollo urbano, así como el Reglamento de ésta Ley.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+Toda edificación dispondrá de lugares de estacionamiento de vehículos en la cantidad que señalen los programas de desarrollo urbano, así como el Reglamento de esta Ley, por lo que respecta a aquellas con estacionamientos en espacios abiertos, serán arborizados con un espaciado de por lo menos cada cinco cajones.
 
 Tratándose de actividades comerciales, el uso de cajones de estacionamiento a que se refiere el párrafo anterior, deberá ser sin costo para el usuario, a excepción de las que su actividad directa sea exclusiva de este servicio.
 
@@ -3498,3 +3500,11 @@ P.O. 20 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del H. Congreso del Estado y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 663.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 198 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
