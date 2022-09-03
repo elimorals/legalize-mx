@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2022-08-20"
+last_updated: "2022-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -139,7 +139,9 @@ IX. Víctima: mujer que individual o colectivamente haya sufrido daños, inclusi
 
 Se entiende como víctima también a los familiares, personas a cargo que tengan relación inmediata con la víctima directa y a las personas que hayan sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización.
 
-X. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+X. Agresor: La persona que inflige cualquier tipo y modalidad de violencia contra las mujeres;
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2020)</small>
 
@@ -166,6 +168,10 @@ XVII. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en acto
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
 XVIII. Protocolo Alba: Es el mecanismo institucional que permite la coordinación inmediata de los ámbitos de competencia y responsabilidades de los tres órdenes de gobierno en la promoción y ejecución de actividades conducentes para la localización de mujeres con denuncia o reporte de desaparición, extravío o no localización.
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+XIX. Trabajo reeducativo con agresores: El proceso mediante el cual se trabaja de manera individual y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican, y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades; a través de programas integrales y gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres, con el objeto de la reinserción social del agresor. Este proceso deberá basarse y orientarse a la prevención de la violencia contra las mujeres, a través de procesos educativos y socioculturales, orientados a erradicar y garantizar la no repetición de la violencia contra las mujeres.
 
 ###### Artículo 7.
 
@@ -363,6 +369,12 @@ II. Erradicar las practicas, prejuicios o costumbres de las y los funcionarios p
 
 III. Capacitar a las y los funcionarios públicos sobre los derechos humanos de las mujeres y la violencia de género.
 
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 11 Quáter.
+
+Los tres niveles de gobierno deberán desarrollar procesos de trabajo educativo y reeducativo con personas agresoras, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+
 ### Capítulo Tercero. En el Ámbito Laboral y Docente
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
@@ -501,9 +513,15 @@ Queda prohibida la asignación de recursos públicos, publicidad oficial, subsid
 
 El Estado y los Municipios deben garantizar a las mujeres la erradicación de la violencia social o en la comunidad, a través de:
 
-I. La educación libre de estereotipos, prejuicios o costumbres que impidan el ejercicio de los derechos de las mujeres, así como la información que dé cuenta del riesgo que enfrentan las mujeres derivada de la discriminación y la violencia que prevalezca en la sociedad, y;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+I. La educación y reeducación libre de estereotipos, prejuicios o costumbres que impidan el ejercicio de los derechos de las mujeres, así como la información que dé cuenta, del riesgo que enfrentan las mujeres derivado de la discriminación y la violencia que prevalezca en la sociedad;
 
 II. El diseño de un sistema de monitoreo, mismo que deberá ser instaurado por el Sistema Estatal de Seguridad Pública, sobre violencia contra las mujeres en la comunidad.
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+III. La creación de programas de trabajo reeducativo con agresores basados en la perspectiva de género, el respeto a los derechos humanos de las mujeres y la erradicación de la violencia.
 
 > <small>(ADICIONADO [N. DE E. COMPRENDE LOS ARTÍCULOS DEL 19 BIS AL 23], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -604,6 +622,10 @@ El Síndico Municipal, una vez que emita las órdenes de protección o emergenci
 Las órdenes de protección, podrán ser de naturaleza colectiva a fin de prevenir un daño irreparable contra las mujeres debido a su vínculo con una organización, grupo o comunidad de personas determinadas o determinables.
 
 En materia de violencia política contra las mujeres en razón de género, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y el Tribunal Electoral del Estado de Oaxaca, podrán solicitar a las autoridades competentes el otorgamiento de las órdenes o medidas de protección y reparación, contenidas en el artículo 341 BIS y 341 TER de la Ley de Instituciones y Procedimientos Electorales de Oaxaca y esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+Las autoridades competentes incluirán el trabajo reeducativo con agresores de carácter obligatorio como parte de las medidas de prevención, órdenes de protección y sanciones a determinar.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -1261,9 +1283,9 @@ IV. Administrar y sistematizar los instrumentos de información del Sistema, as�
 
 V. Coordinar y dar seguimiento a las comisiones de trabajo que se conformen dentro del Sistema;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
-VI. Elaborar el informe anual de actividades que deberá presentar el Presidente ante el Sistema;
+VI. Elaborar el informe anual de actividades que presentará el Presidente ante el Sistema, el cual deberá contener la metodología utilizada, antecedentes, resumen ejecutivo, presupuesto destinado con los resultados y evidencias de su aplicación, las metas de cumplimiento, los obstáculos y desafíos identificados, así como los anexos que correspondan.
 
 VII. Estandarizar los procesos de prevención de la violencia de género contra las mujeres, de atención a sus víctimas y de reeducación de individuos que ejercen violencia de género;
 
@@ -1375,9 +1397,13 @@ XIII. Publicar y difundir mensualmente la información general y estadística so
 
 XIV. Generar la estadística estatal para integrar el Banco Estatal de Datos e Información Sobre Casos de Violencia Contra las Mujeres;
 
-XV. Evaluar el cumplimiento de los objetivos propuestos en el propio Programa; y
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
-XVI. Promover en la comunidad la cultura de denuncia de la violencia contra las mujeres.
+XV. Elaborar un modelo integral de atención y capacitación relativo al trabajo reeducativo con agresores que deberán instrumentar instituciones u organizaciones dedicadas a ofrecer esos servicios;
+
+XVI. Evaluar el cumplimiento de los objetivos propuestos en el propio Programa; y
+
+XVII. Promover en la comunidad la cultura de denuncia de la violencia contra las mujeres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -1427,7 +1453,9 @@ VII. Asegurar la difusión y promoción de los derechos de las mujeres indígena
 
 VIII. Vigilar que los usos y costumbres de toda la sociedad no atenten los derechos humanos de las mujeres;
 
-IX. Aplicar los programas de reeducación y reinserción social con perspectiva de género para agresores;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Implementar programas de reeducación con agresores y reinserción social con perspectiva de género;
 
 X. Realizar campañas de información con énfasis en la protección integral de los derechos humanos de las mujeres, el conocimiento de las leyes, medidas y programas que las protegen, así como de las instancias y recursos que las asisten;
 
@@ -1465,13 +1493,17 @@ IV. Proporcionar la información necesaria sobre los procedimientos judiciales e
 
 V. Sensibilizar y capacitar en materia de violencia contra las mujeres a los Magistrados, Jueces, Visitadores, Secretarios Judiciales de Acuerdo, de Estudio y Cuenta, Ejecutores de Sala y Juzgados, así como los demás servidores públicos;
 
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Incluir el trabajo reeducativo con agresores de carácter obligatorio como parte de las medidas de prevención, órdenes de protección y sanciones a determinar.
+
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-VI. Informar a la Fiscalía General del Estado de Oaxaca de las órdenes de protección que otorgue para que esta les pueda dar vigilancia e integre el registro correspondiente; y
+VII. Informar a la Fiscalía General del Estado de Oaxaca de las órdenes de protección que otorgue para que esta les pueda dar vigilancia e integre el registro correspondiente; y
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-VII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+VIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 56.
 
@@ -1639,13 +1671,17 @@ XV. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 XVI. Coadyuvar en la formación de liderazgos políticos de las mujeres, impulsar mecanismos de promoción, protección y respeto de los derechos políticoelectorales de las mujeres;
 
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+XVII. Participar en el diseño, la creación, implementación, evaluación y mejora de programas de reeducación con agresores y reinserción social con perspectiva de género;
+
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XVII. Coadyuvar y participar en la operación, ejecución y evaluación del "Protocolo Alba" en el territorio del Estado, y
+XVIII. Coadyuvar y participar en la operación, ejecución y evaluación del "Protocolo Alba" en el territorio del Estado, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XVIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+XIX. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 59.
 
@@ -1765,13 +1801,17 @@ X. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" en 
 
 XI. Colaborar con la Fiscalía General del Estado de Oaxaca, en la vigilancia del cumplimiento de las órdenes de protección que otorgue esta o los jueces y tribunales;
 
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Coordinar el diseño, la creación, implementación, evaluación y mejora de programas de reeducación con agresores y reinserción social con perspectiva de género que ofrezca el Estado y los Municipios;
+
 > <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-XII. Establecer áreas especializadas con personal capacitado y perspectiva de género para la atención de las mujeres víctimas de violencia de género, y;
+XIII. Establecer áreas especializadas con personal capacitado y perspectiva de género para la atención de las mujeres víctimas de violencia de género, y;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-XIII. Las demás previstas para el cumplimiento de la presente Ley.
+IX (SIC). Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 62.
 
@@ -2257,9 +2297,13 @@ V. Evitar que la atención que reciban las víctimas sea proporcionada por perso
 
 VI. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
 
-VII. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos; y
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. Las demás previstas en esta Ley.
+VII. Brindar y promover programas reeducativos integrales, con perspectiva de género, a las y los agresores, que han ejercido violencia contra las mujeres;
+
+VIII. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos; y
+
+IX. Las demás previstas en esta Ley.
 
 ###### Artículo 84.
 
@@ -2736,3 +2780,19 @@ P.O. 20 DE AGOSTO DE 2022.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 666.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 46 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GENERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 667.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 6; LA FRACCIÓN I DEL ARTÍCULO 19; LA FRACCIÓN IX DEL ARTÍCULO 54; Y SE ADICIONA LA FRACCIÓN XIX AL ARTÍCULO 6; EL ARTÍCULO 11 QUÁTER; LA FRACCIÓN III AL ARTÍCULO 19; EL PÁRRAFO SEXTO AL ARTÍCULO 24; LA FRACCIÓN XV RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 51; LA FRACCIÓN VI RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 55; LA FRACCIÓN XVII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 58, LA FRACCIÓN XII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 61; Y LA FRACCIÓN VII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 83 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
