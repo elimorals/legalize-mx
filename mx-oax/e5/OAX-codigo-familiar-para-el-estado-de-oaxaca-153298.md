@@ -4,7 +4,7 @@ identifier: "OAX-codigo-familiar-para-el-estado-de-oaxaca-153298"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-04"
-last_updated: "2021-12-04"
+last_updated: "2022-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Décima Primera Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -1567,11 +1567,15 @@ II. A recibir alimentos;
 
 III. A percibir la porción hereditaria que fije la ley.
 
-### CAPÍTULO II. DE LA ADOPCIÓN PLENA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO II. DE LA ADOPCIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 250.
 
-La adopción plena es el acto jurídico por el cual una persona en ejercicio de sus derechos, acepta a uno o más menores o incapacitados como hijas o hijos, adquiriendo respecto de él o ellos todos los derechos que los padres tienen y contrayendo todas las responsabilidades que el mismo reporta respecto de la persona de un hijo o hija.
+La adopción es el acto jurídico por el cual la niña, niño y adolescente, carente de cuidados parentales adquiere de manera plena e irrevocable el vínculo de filiación con quien no lo tiene de forma originaria, restituyéndole su derecho a vivir, crecer y desarrollarse de manera integral, en el seno de una familia. El vínculo de filiación entre el adoptado y el adoptante se constituye solo por sentencia judicial.
 
 El acto de adopción produce efectos legales entre los adoptantes y adoptados, así como entre éstos y la familia de los primeros, como si se tratara de un hijo consanguíneo, quedando extinguida la filiación entre el adoptado y sus progenitores; subsisten, sin embargo, los impedimentos para contraer matrimonio.
 
@@ -5688,3 +5692,13 @@ TERCERO. - Se derogan todas las disposiciones legales y reglamentarias del marco
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 22 de Octubre de 2021,- Dip. Arsenio Lorenzo Mejía García, Presidente.- Dip. Arcelia López Hernández, Vicepresidenta.- Dip. Rocío Machuca Rojas, Secretaria.- Dip. Maritza Escarlet Vásquez Guerra, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento Palacio de Gobierno, Centro, Oax., a 05 de Noviembre de 2021. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno, Ing. Francisco Javier García López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 662.- MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II, DEL TÍTULO TERCERO “DE LA FILIACIÓN” DEL LIBRO PRIMERO “DE LA FAMILIA”, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 250 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
