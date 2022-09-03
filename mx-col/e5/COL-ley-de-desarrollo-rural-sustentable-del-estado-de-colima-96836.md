@@ -4,7 +4,7 @@ identifier: "COL-ley-de-desarrollo-rural-sustentable-del-estado-de-colima-96836"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2019-08-03"
+last_updated: "2022-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 07 de diciembre de 2013.
 
@@ -1507,15 +1507,21 @@ Los apoyos que se otorguen para la reconversión productiva deberán ser conside
 
 La sustentabilidad será criterio rector en el fomento a las actividades productivas, a fin de lograr el manejo eficiente de los recursos naturales, su preservación y mejoramiento, al igual que la viabilidad económica, política y cultural mediante sistemas productivos socialmente aceptables.
 
-Quienes hagan uso productivo de las tierras deberán seleccionar técnicas y cultivos que garanticen la conservación del suelo y faciliten el incremento de la productividad, de acuerdo con la aptitud de las tierras y las condiciones socioeconómicas de los productores, y considerando los principios que se establecen en el programa estatal de potencial productivo, y en el caso del uso de tierras de pastoreo, se deberán observar las recomendaciones oficiales de los índices de agostaderos.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+Quienes hagan uso productivo de las tierras deberán seleccionar técnicas agroecológicas y cultivos que garanticen la conservación del suelo y faciliten el incremento de la productividad, de acuerdo con la aptitud de las tierras y las condiciones socioeconómicas de los productores, y considerando los principios que se establecen en el programa estatal de potencial productivo, y en el caso del uso de tierras de pastoreo, se deberán observar las recomendaciones oficiales de los índices de agostaderos.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 137.
 
-El Gobierno Estatal y Municipal fomentará el uso adecuado del suelo de acuerdo con sus características y potencial productivo, así como la tecnología para la conservación y mejoramiento de las tierras y el agua.
+El Gobierno Estatal y Municipal fomentará el uso adecuado del suelo de acuerdo con sus características y potencial productivo, así como la tecnología agroecológica para la conservación y mejoramiento de las tierras y el agua.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 138.
 
-Quienes se dediquen a las actividades agrícolas deberán seleccionar cultivos, técnicas y sistemas de manejo que favorezcan la integridad física, económica y biológica de la tierra, su capacidad de infiltración hídrica, el ahorro de agua y la protección de los acuíferos.
+Quienes se dediquen a las actividades agrícolas deberán seleccionar cultivos, técnicas agroecológicas y sistemas de manejo que favorezcan la integridad física, económica y biológica de la tierra, su capacidad de infiltración hídrica, el ahorro de agua y la protección de los acuíferos.
 
 Las dependencias de la administración pública, dentro de su ámbito de competencia, fomentarán la adopción de las medidas señaladas anteriormente.
 
@@ -1523,27 +1529,33 @@ El Consejo Estatal, promoverá un programa tendiente a la formación de una cult
 
 Los programas para la tecnificación del riego darán atención prioritaria a las regiones en las que se registre sobreexplotación de los recursos hidráulicos subterráneos o degradación de la calidad de las aguas, en correspondencia con los compromisos de organizaciones de productores de procurar el aprovechamiento de este recurso garantizando la sustentabilidad de la producción.
 
-> <small>(REFORMADO P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 139.
 
-El Gobierno Estatal, a través de los programas de fomento productivo estimulará a los prestadores de bienes y servicios para la adopción de tecnologías que optimicen el uso del agua y la energía, incrementen la productividad sustentable y contribuyan a la mitigación y adaptación a los efectos del cambio climático.
+El Gobierno Estatal, a través de los programas de fomento productivo estimulará a los prestadores de bienes y servicios para la adopción de técnicas y tecnologías agroecológicas que optimicen el uso del agua y la energía, incrementen la productividad sustentable y contribuyan a la mitigación y adaptación a los efectos del cambio climático.
 
 ###### Artículo 140.
 
 El Gobierno Estatal, con la participación del Consejo Estatal delimitará las regiones de reconversión productiva que deberán atenderse de manera prioritaria cuando la fragilidad, la degradación o sobreexplotación de los recursos naturales así lo amerite.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 141.
 
-El Gobierno Estatal, en coordinación con los Gobiernos federal y municipal apoyarán de manera prioritaria a los productores de las regiones de reconversión delimitadas, especialmente a las ubicadas en las partes altas de las cuencas, a fin de que lleven a cabo la transformación de sus actividades productivas con base en el óptimo uso del suelo y agua mediante prácticas agropecuarias que permitan asegurar una producción sustentable, así como la reducción de los siniestros, la pérdida de vidas humanas y de bienes por desastres naturales.
+El Gobierno Estatal, en coordinación con los Gobiernos federal y municipal apoyarán de manera prioritaria a los productores de las regiones de reconversión delimitadas, especialmente a las ubicadas en las partes altas de las cuencas, a fin de que lleven a cabo la transformación de sus actividades productivas con base en el óptimo uso del suelo y agua mediante prácticas agroecológicas y agropecuarias que permitan asegurar una producción sustentable, así como la reducción de los siniestros, la pérdida de vidas humanas y de bienes por desastres naturales.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 142.
 
-Las políticas y programas de fomento a la producción agropecuaria atenderán prioritariamente el criterio de sustentabilidad en relación con el aprovechamiento de los recursos naturales, ajustando a las oportunidades de mercado, basándose en la normatividad vigente, así como los planteamientos de los productores en cuanto a la adopción de las prácticas y tecnologías para la producción.
+Las políticas y programas de fomento a la producción agropecuaria atenderán prioritariamente el criterio agroecológico y de sustentabilidad en relación con el aprovechamiento de los recursos naturales, ajustando a las oportunidades de mercado, basándose en la normatividad vigente, así como los planteamientos de los productores en cuanto a la adopción de las prácticas y tecnologías para la producción.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 143.
 
-En atención al criterio de sustentabilidad, el Gobierno del Estado en coordinación con el Gobierno Federal promoverá la reestructuración de unidades de producción rural en el marco previsto por la legislación aplicable en la materia, con objeto de que el tamaño de las unidades productivas resultantes, permita una explotación rentable mediante la utilización de técnicas productivas adecuadas a la conservación de los recursos naturales, conforme a la aptitud de los suelos y a consideraciones de mercado.
+En atención al criterio agroecológico y de sustentabilidad, el Gobierno del Estado en coordinación con el Gobierno Federal promoverá la reestructuración de unidades de producción rural en el marco previsto por la legislación aplicable en la materia, con objeto de que el tamaño de las unidades productivas resultantes, permita una explotación rentable mediante la utilización de técnicas productivas adecuadas a la conservación de los recursos naturales, conforme a la aptitud de los suelos y a consideraciones de mercado.
 
 ###### Artículo 144.
 
@@ -1672,3 +1684,9 @@ P.O. 3 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 110 POR EL QUE SE REFORMAN LOS ARTÍCULOS 2 FRACCIONES IV Y V, 5 PÁRRAFO PRIMERO, 6 FRACCIÓN VI, 8 FRACCIÓN IV, 11, 16 FRACCIÓN IX, 59 FRACCIÓN XI, 67 FRACCIÓN I, 69 FRACCIÓN III, 72 FRACCIONES XI Y XII, 85 FRACCIÓN VI, 92 Y 139, Y SE; ADICIONAN UNA FRACCIÓN VI AL ARTÍCULO 2, LAS FRACCIONES III, IX, XX Y XXVII AL ARTÍCULO 4 CON EL CORRIMIENTO SUBSECUENTE, UNA FRACCIÓN V AL ARTÍCULO 8 CON EL CORRIMIENTO DE LA SUBSECUENTE, UNA FRACCIÓN XIII AL ARTÍCULO 44 CON EL CORRIMIENTO SUBSECUENTE, UNA FRACCIÓN XII AL ARTICULO 59 CON EL CORRIMIENTO SUBSECUENTE, UNA FRACCIÓN XIII AL ARTICULO 72 Y UN· PÁRRAFO SEGUNDO AL ARTÍCULO 148; TODOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 134.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 136 SEGUNDO PÁRRAFO, 137, 138 PRIMER PÁRRAFO, 139, 141, 142 Y 143 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
