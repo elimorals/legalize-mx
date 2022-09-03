@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2022-04-27"
+last_updated: "2022-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -1237,9 +1237,19 @@ La Mesa Directiva de la Legislatura se integrará por un Presidente, un Vicepres
 
 La elección se realizará el último día de sesión del período, por voto en cédula, secreto y directo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 107.
 
-La Mesa Directiva permanecerá en su cargo un período ordinario y sus miembros estarán impedidos para ser electos para los mismos cargos en el período siguiente.
+La Mesa Directiva permanecerá en su cargo un período de dos meses y sus miembros podrán ser electos para los mismos cargos en el período siguiente, quienes se elegirán por mayoría relativa de votos.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+Las mesas directivas del periodo ordinario de sesiones, podrán ser electas en un mismo proceso electivo.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
+
+Sin perjuicio de lo previsto en los párrafos anteriores, podrán elegirse sus miembros por dos periodos consecutivos en un mismo proceso electivo.
 
 Cuando se convoque a periodo extraordinario, la Comisión Permanente citará a los diputados a sesión previa para elegir la Mesa Directiva que fungirá por dicho periodo.
 
@@ -2814,3 +2824,13 @@ Artículo segundo. Se derogan las disposiciones que se opongan al presente Decre
 Artículo tercero. La organización y procedimientos de la legislatura se actualizarán inmediatamente después de la publicación del presente Decreto, pudiendo armonizar los reglamentos y manuales internos a más tardar el 31 de diciembre de 2022.
 
 Artículo cuarto. Hasta en tanto no se actualicen al presente Decreto los manuales y reglamentos internos, se entenderá por Comisión de Régimen Interno y Concertación Política a la Junta de Coordinación Política y, por Comisión de Planeación Patrimonio y Finanzas, al Órgano de Administración y Finanzas.
+
+P.O. 3 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 118.- SE REFORMA EL ARTÍCULO 107 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS Y EL NUMERAL 23 DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día de su aprobación.
+
+Artículo segundo. En su oportunidad, publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo tercero. Se derogan las disposiciones legales que se opongan al presente Decreto.
