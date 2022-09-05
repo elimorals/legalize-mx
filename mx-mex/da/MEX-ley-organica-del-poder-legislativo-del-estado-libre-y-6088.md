@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2022-03-25"
+last_updated: "2022-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -750,6 +750,10 @@ La Junta de Coordinación Política contará para su buen funcionamiento con un 
 ###### Artículo 61.
 
 El Presidente, los Vicepresidentes y el Secretario duraran un año, al término del cual, la Asamblea elegirá, en la segunda sesión ordinaria del primer período de sesiones del año que corresponda, de entre los integrantes de la Junta de Coordinación Política a quienes deberán ocupar dichos cargos.
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2022)</small>
+
+El Presidente de la Junta de Coordinación Política, por acuerdo de los integrantes de la misma, podrá solicitar a la Asamblea la modificación en la integración de los cargos previstos en el párrafo anterior, durante el periodo que corresponda.
 
 (REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004) (REPUBLICADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DE 2016)
 
@@ -2508,3 +2512,13 @@ Para el cumplimiento del presente Decreto, la Directiva de la Legislatura o de l
 ###### ARTÍCULO CUARTO.
 
 Con base en sus atribuciones, la Junta de Coordinación Política hará los ajustes y propuestas para la integración de comisiones legislativas y comités que garantice el cumplimiento del presente decreto.
+
+G.G. 5 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 78.- POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 61 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- El Presidente, los Vicepresidentes y el Secretario de la Junta de Coordinación Política designados en el primer período de sesiones del segundo año de ejercicio de la “LXI” Legislatura, concluirán su periodo el 05 de marzo del dos mil veintitrés.
