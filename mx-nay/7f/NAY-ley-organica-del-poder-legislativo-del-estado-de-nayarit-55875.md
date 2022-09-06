@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2022-07-13"
+last_updated: "2022-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -281,9 +281,11 @@ XVII. Contar con una cuenta de correo electrónico oficial, y
 
 XVIII. Los demás que contemple la Constitución General, la Constitución Local, esta Ley y el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 22.
 
-Son obligaciones de los diputados:
+Son obligaciones de las y los diputados:
 
 I. Rendir la protesta de ley y tomar posesión de su cargo;
 
@@ -291,7 +293,13 @@ II. Asistir puntualmente a las sesiones del pleno, así como a las reuniones de 
 
 III. Asistir y cumplir en los términos que determine la Asamblea u otro órgano de gobierno las tareas de representación y de trabajo que les sean encomendados;
 
-IV. Presentar por escrito al pleno de la Asamblea los informes y memorias correspondientes al desempeño de sus actividades legislativas o de gestión social, en los términos que al efecto establece la Constitución Local;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Presentar por escrito al Pleno del Congreso las memorias en los términos que al efecto establece la Constitución Local.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2022)</small>
+
+Asimismo, deberán presentar un informe anual sobre sus labores legislativas y de gestión social a más tardar en el mes de septiembre de cada año; a excepción del último año legislativo, el informe se presentará en los primeros diez días del mes de agosto. Dicho informe estará disponible en el portal oficial del Honorable Congreso del Estado;
 
 V. Respetar y cumplir las resoluciones que dicte el Congreso, e informar por escrito el cumplimiento y resultado de las comisiones especiales encomendadas;
 
@@ -1794,3 +1802,11 @@ P.O. 13 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE INFORME ANUAL DE LABORES DE LAS Y LOS DIPUTADOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Por única ocasión la presentación del informe anual de labores legislativas y de gestión social de las Diputadas y los Diputados será potestativa para el año 2022.
