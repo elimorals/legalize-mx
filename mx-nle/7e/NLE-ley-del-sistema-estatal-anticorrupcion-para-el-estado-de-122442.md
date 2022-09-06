@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-estatal-anticorrupcion-para-el-estado-de-122442
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-06"
-last_updated: "2022-05-20"
+last_updated: "2022-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 6 de julio de 2017.
 
@@ -257,25 +257,17 @@ Los integrantes del Comité de Selección serán nombrados conforme al siguiente
 
 El Pleno del Congreso del Estado emitirá una convocatoria para constituir un Comité de Selección, por un período de tres años, el cual estará integrado por nueve ciudadanos nuevoleonés, de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2022)</small>
 
-I. Convocará a instituciones de educación superior y de investigación en el Estado, para proponer candidatos que integren el Comité de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la Constitución del Estado, esta Ley y la convocatoria, en un plazo no mayor a quince días, para seleccionar a cinco miembros basándose en los elementos decisorios que se hayan plasmado en la convocatoria y al procedimiento establecido en la Ley, tomándose en cuenta entre otros requisitos que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción. Para garantizar la paridad de género al seleccionar a los cinco miembros, no podrá seleccionarse a más de tres miembros del mismo género;
+I. Convocará a las instituciones de educación superior y de investigación, para proponer candidatos a fin de integrar el Comité de Selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la Convocatoria, en un plazo no mayor a quince días, para seleccionar a cinco miembros basándose en los elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción. Para garantizar la paridad de género al seleccionar a los cinco miembros, no podrá seleccionarse a más de tres miembros del mismo género.
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2021)</small>
 
 II. Convocará a organizaciones de la sociedad civil legalmente constituidas y agrupaciones profesionales en el Estado especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos del inciso anterior, garantizando el principio de paridad de género;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2022)</small>
 
-III. La Comisión Anticorrupción del Congreso del Estado será la encargada de llevar a cabo el análisis de los candidatos, el desahogo de las entrevistas, y evaluación de los perfiles, con el fin de que de manera fundada y motivada elijan nueve propuestas de hasta tres candidatos cada una que cumplan con los requisitos constitucionales, legales y contenidos en la convocatoria, garantizando la paridad de género en los términos señalados en las fracciones anteriores; hecho lo anterior, remitirá la lista de las propuestas a la Oficialía Mayor del Congreso del Estado, a fin de que se publique en el portal de internet del Poder Legislativo, por lo menos dos días antes de ser remitidas al Pleno del Congreso del Estado;
-
-Para el cumplimiento de lo anterior, la convocatoria establecerá el procedimiento para que la Comisión Anticorrupción del Congreso del Estado, cuente con el apoyo técnico de un grupo ciudadano de acompañamiento.
-
-Dicho grupo, será seleccionado por el Pleno del Congreso del Estado mediante una amplia convocatoria a Universidades, Cámaras Empresariales, Organizaciones Profesionales, Gremios, Sindicatos y Organizaciones de la Sociedad Civil. La convocatoria deberá contener los requisitos específicos para cada una de las categorías.
-
-Este grupo estará conformado por siete ciudadanos que deberán cumplir los mismos requisitos señalados para los integrantes del Comité de Selección, tendrán voz y carácter de observador permanente durante las sesiones de la Comisión Anticorrupción convocadas para el desahogo de todas las etapas del proceso de designación del Comité de Selección.
-
-El grupo ciudadano de acompañamiento, tendrá acceso a la información necesaria para llevar a cabo su función de apoyo de la Comisión de Anticorrupción en la designación del Comité de Selección.
+III. La Comisión Anticorrupción del Congreso del Estado será la encargada de llevar a cabo el análisis de los candidatos, el desahogo de las entrevistas, y evaluación de los perfiles, con el fin de que de manera fundada y motivada elijan nueve propuestas de hasta tres candidatos cada una que cumplan con los requisitos contenidos en la convocatoria, garantizando la paridad de género en los términos señalados en las fracciones anteriores; hecho lo anterior, remitirá la lista de las propuestas a la Oficialía Mayor del Congreso del Estado, a fin de que se publique en el portal de internet del Poder Legislativo, por lo menos dos días antes de ser remitidas al Pleno del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2021)</small>
 
@@ -307,31 +299,9 @@ I. Elaborar una convocatoria, con el objeto de realizar una amplia consulta púb
 
 II. Enviar al Congreso del Estado la lista de candidatos que cumplan con los requisitos constitucionales y legales para elegir a quienes ocuparán los cargos de Auditor General del Estado, Fiscal General de Justicia del Estado, Fiscal Especializado en Combate a la Corrupción, Fiscal Especializado en Delitos Electorales y Magistrado de la Sala Especializada en Materia de Responsabilidad Administrativa, quienes serán nombrados en los términos que establece la Constitución del Estado, esta Ley y las que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 18.
-
-Para ser designado integrante del Comité de Selección se deberán reunir los siguientes requisitos.
-
-I. Ser nuevoleonés y estar en pleno goce y ejercicio de sus derechos civiles;
-
-II. Experiencia verificable en materias de transparencia, fiscalización, rendición de cuentas o combate a la corrupción o en otras que se consideren relevantes;
-
-III. Poseer al día de la convocatoria, con antigüedad mínima de diez años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionada con la materia de esta Ley que le permitan el desempeño de sus funciones;
-
-IV. Gozar de buena reputación y no haber sido condenado por algún delito doloso;
-
-V. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular, durante los últimos diez años previos a la fecha de la convocatoria;
-
-VI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político, durante los últimos diez años previos a la fecha de la convocatoria;
-
-VII. No haber sido miembro, adherente o afiliado a algún partido político, durante los últimos diez años previos a la fecha de la convocatoria;
-
-VIII. No desempeñar ni haber desempeñado cargo de Coordinador Ejecutivo de la Administración Pública del Estado, Secretario o Subsecretario de alguna dependencia del Gobierno Estatal, Fiscal General de Justicia, Gobernador, Consejero de la Judicatura, Magistrado o Juez, durante los últimos diez años previos a la fecha de la convocatoria;
-
-IX. No haber sido titular de los órganos constitucionalmente autónomos, estatales o federales, durante los últimos diez años previos a la fecha de la convocatoria; y
-
-X. No tener parentesco consanguíneo o de afinidad hasta el tercer grado con quienes sean integrantes de la Legislatura.
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2021)</small>
 
 Una vez conformado el Comité de Selección este se reunirá en Pleno y elegirá por mayoría simple a su Presidente y Secretario. Al realizar cambios en la Presidencia del Comité de Selección, se garantizará la alternancia de género. El Comité de Selección sesionará al menos cada seis meses, teniendo la oportunidad de convocar de manera extraordinaria las veces que sea necesario, siempre y cuando así lo requiera y apruebe la mayoría de sus integrantes.
 
@@ -948,3 +918,15 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, los municipios deberán realizar las adecuaciones normativas correspondientes.
 
 TERCERO.- Quedan derogadas todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 176. SE REFORMAN LOS ARTÍCULOS 16 Y 18 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. La Convocatoria emitida por esta Septuagésima Sexta Legislatura del H. Congreso del Estado de Nuevo León, mediante Acuerdo número 030 de fecha 27 de octubre de 2021 a efecto de ocupar el cargo de integrante del Grupo Ciudadano de Acompañamiento, quedará sin materia una vez iniciada la vigencia señalada en el Segundo de los transitorios.
+
+CUARTO. Se dejan a salvo los derechos de los aspirantes registrados que se encuentren participando en procesos de selección del Sistema Estatal Anticorrupción, lo anterior, para los efectos de que puedan volver a participar en las nuevas convocatorias que se emitan en el futuro.
