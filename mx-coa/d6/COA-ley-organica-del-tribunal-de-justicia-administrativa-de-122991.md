@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-tribunal-de-justicia-administrativa-de-122991"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-08-11"
-last_updated: "2020-01-10"
+last_updated: "2022-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 11 de agosto de 2017.
 
@@ -577,9 +577,11 @@ El sistema abarcará las fases de ingreso, promoción, permanencia y retiro de d
 
 Con base en lo previsto en este artículo, el Tribunal establecerá y regulará, mediante disposiciones generales, el sistema de carrera de los servidores públicos previstos en las fracciones VII a IX del artículo 16 de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 26.
 
-El Presidente del Tribunal será electo por el Pleno en la primera sesión del año siguiente a aquél en que concluya el periodo del Presidente en funciones. Durará en su cargo cinco años y no podrá ser reelecto para ningún otro periodo y no integrará Sala Unitaria.
+La o el Presidente del Tribunal será electo por el Pleno en la última sesión que lleve a cabo, previa a la terminación del periodo de la presidencia en turno, iniciando funciones una vez concluida esta. Durará en su cargo cinco años, no podrá ser reelecto para ningún otro periodo y no integrará Sala Unitaria.
 
 Serán elegibles los magistrados de Sala Superior cuyos nombramientos cubran el periodo antes señalado.
 
@@ -860,3 +862,15 @@ P.O. 10 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 397.- SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 5 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 267.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 26 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda vez que el treinta y uno de agosto pasado, concluyó el periodo de gestión de la titular de la presidencia del Tribunal de Justicia Administrativa, por única ocasión, el Pleno deberá elegir a la o el Presidente de dicho Tribunal conforme a su normativa, en la siguiente sesión que lleve a cabo, una vez que entre en vigor el presente decreto.
