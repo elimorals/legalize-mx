@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2022-03-23"
+last_updated: "2022-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2022.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -3883,13 +3883,13 @@ El contrato de compraventa sólo puede celebrarse entre los cónyuges cuando el 
 
 Los cónyuges, durante el matrimonio, no podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 717.
 
-Cualquier disensión que surja entre los cónyuges con motivo del ejercicio de los derechos a que se refieren los artículos 705 y 706 o en cualquiera otra situación similar, el Juez de primera instancia del lugar del domicilio conyugal, con excepción de los casos de violencia familiar, deberá remitir, la controversia al Centro de Justicia Alternativa, en observancia a lo dispuesto por el capítulo primero del título sexto del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo. En este caso, se dará vista de inmediato al Ministerio Público.
+Cualquier disensión que surja entre los cónyuges con motivo del ejercicio de los derechos a que se refieren los artículos 705 y 706 o en cualquiera otra situación similar, la persona juzgadora de primera instancia del lugar del domicilio conyugal, con excepción de los casos de violencia familiar y/o violencia vicaria, deberá remitir la controversia al Centro de Justicia Alternativa, en observancia a lo dispuesto por el capítulo primero del título sexto del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo. En este caso, se dará vista de inmediato al Ministerio Público.
 
-En ningún caso se favorecerá que existan prácticas de sumisión y dependencia de un género hacia otro, o prácticas de obediencia entre los cónyuges, y sí existiera violencia familiar deberá, de manera inmediata, y a más tardar en un plazo no mayor de 24 horas contados a partir de que tome conocimiento de la petición, dictar las medidas precautorias y órdenes de protección que correspondan.
+En ningún caso se favorecerá que existan prácticas de sumisión y dependencia de un género hacia otro, o prácticas de obediencia entre los cónyuges, y sí existiera violencia familiar y/o violencia vicaria, deberá, de manera inmediata, y a más tardar en un plazo no mayor de 24 horas contados a partir de que tome conocimiento de la petición, dictar las medidas precautorias y órdenes de protección que correspondan.
 
 ###### Artículo 718.
 
@@ -4431,11 +4431,11 @@ En estos casos, el Juez, con conocimiento de causa, podrá decretar esa suspensi
 
 La reconciliación de los cónyuges pone fin al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoriada y en este caso, los interesados deberán denunciar su reconciliación al Juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 813.
 
-El cónyuge que haya recibido violencia familiar, podrá acreditarla mediante el ofrecimiento de las denominadas pruebas preconstituidas que se encuentran en su poder, o bien aquellas que obren en instrumentales públicas de instituciones o dependencias que hayan atendido dicha problemática con antelación, para ser tomadas en cuenta por el Juzgador, en los términos del artículo 287 del Código Procedimental de la materia.
+El cónyuge que haya recibido violencia familiar y/o violencia vicaria, podrá acreditarla mediante el ofrecimiento de las denominadas pruebas preconstituidas que se encuentran en su poder, o bien aquellas que obren en instrumentales públicas de Institucionales (sic) o dependencias que hayan atendido dicha problemática con antelación para ser tomadas en cuenta por el Juzgador, en los términos del artículo 287 del Código Procedimental de la materia.
 
 Artículo 813 BIS.- (DEROGADO, P.O. 4 DE JULIO DE 2017)
 
@@ -4445,7 +4445,9 @@ Artículo 813 BIS.- (DEROGADO, P.O. 4 DE JULIO DE 2017)
 
 Al admitirse la demanda de divorcio, se dictarán, sin necesidad de audiencia previa o vista a las partes, las medidas provisionales pertinentes, mismas que subsistirán sólo mientras dure el juicio, conforme a las disposiciones siguientes:
 
-I. Separar a los cónyuges en todo caso. Para este efecto, el Juez tendrá en cuenta el interés familiar, la posible existencia de violencia familiar, y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, de los bienes y enseres que continúen en ésta y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el cónyuge informar al Juez el lugar de su residencia. Si sobre esto se suscitare controversia el Juez decidirá sumariamente oyendo a ambos cónyuges;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+I. Separar a los cónyuges en todo caso. Para este efecto, la persona juzgadora tendrá en cuenta el interés familiar, la posible existencia de violencia familiar y/o violencia vicaria y lo que más convenga a los hijos o hijas, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, de los bienes y enseres que continúen en ésta y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el cónyuge informar a la persona juzgadora el lugar de su residencia. Si sobre esto se suscitare controversia la persona juzgadora decidirá sumariamente oyendo a ambos cónyuges;
 
 II. Sólo a solicitud de la mujer se le autorizará a separarse del hogar conyugal. Deberá la mujer informar al Juez el lugar de su residencia y el Juez ordenará se le entreguen su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicada;
 
@@ -4461,7 +4463,9 @@ VI. Dictar, en su caso, las medidas precautorias que la ley establece respecto a
 
 VII. Poner a los hijos al cuidado de la persona que de común acuerdo designen los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, respetando en todo momento las disposiciones de este Código al respecto. A falta de acuerdo, el Juez de lo Familiar resolverá lo conducente, considerando que las personas menores de doce años quedarán, preferentemente, bajo la custodia y cuidado de la madre, además de establecer las modalidades del derecho de visita o convivencia con sus padres y, en su caso, con sus demás parientes, así como de aquellas personas que, sin encontrarse vinculadas familiarmente, resulten significativas para los menores, de conformidad con los artículos 997-bis y 1024 Bis de este Código, el cumplimiento de las obligaciones de crianza, tomando en cuenta la opinión de la persona menor de edad, la cual podrá ser asistida por el Oficial de Menores de Edad, adscrito a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Quintana Roo. El Juzgador, en cualquier tiempo y antes que termine ejecutoriadamente el juicio, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de las personas menores de edad y de los bienes de éstos, sin más limitación que este mismo beneficio, pudiendo confiar la custodia de las personas menores de edad a un tercero o Institución educativa y confiar la administración de los bienes a una institución fiduciaria;
 
-VIII. En los casos en que se alegue la violencia familiar, el Juez podrá decretar, atendiendo a las evidencias y con el fin de salvaguardar la integridad y seguridad de los interesados, las medidas precautorias siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. En los casos en que se alegue la violencia familiar y/o violencia vicaria, la persona juzgadora podrá decretar, atendiendo a las evidencias y con el fin de salvaguardar la Integridad y seguridad de las personas interesadas, las medidas precautorias siguientes:
 
 a) Ordenar la salida del cónyuge demandado de la vivienda donde habita el grupo familiar.
 
@@ -4479,9 +4483,9 @@ Durante el procedimiento, el Juez recabará la información complementaria y com
 
 En caso de que las personas menores de doce años sean sujetos de violencia familiar, éstos deberán quedar al cuidado de la madre, excepto cuando sea ésta quien la origine. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-El Juez podrá ordenar cualquier otra medida de protección de emergencia, preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, así como la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin menoscabo de lo establecido en otras disposiciones normativas aplicables, los tratados internacionales vigentes en la materia, privilegiando siempre y en todo momento, el interés superior de la niñez.
+La persona juzgadora podrá ordenar cualquier otra medida de protección de emergencia, preventiva o de naturaleza civil de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, la Ley de Asistencia y Prevención de la Violencia Familiar del Estado de Quintana Roo, así como la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin menoscabo de lo establecido en otras disposiciones normativas aplicables, los tratados internacionales vigentes en la materia, privilegiando siempre y en todo momento, el interés superior de la niñez.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2022)</small>
 
@@ -4493,9 +4497,9 @@ La sentencia de divorcio que se pronuncie en definitiva, fijará la situación d
 
 Asimismo, la sentencia deberá contener:
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-I.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
+I. Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar, violencia vicaria, o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
 
@@ -4503,7 +4507,7 @@ II. Las medidas necesarias para garantizar la convivencia de los hijos con sus p
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-III.- Para el caso de las personas menores de edad incapaces, sujetos a la tutela de alguno de los ex cónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección;
+III. Para el caso de las personas menores de edad incapaces, sujetos a la tutela de alguno de los ex cónyuges, en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2022)</small>
 
@@ -4575,7 +4579,9 @@ En la resolución se fijarán las bases para actualizar la pensión y las garant
 
 El derecho a los alimentos a que se refiere este artículo, se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato, o viva maritalmente en forma permanente y estable por un periodo mínimo de dos años con otra persona impedida legalmente para contraer matrimonio, o haya transcurrido un término igual a la duración del matrimonio.
 
-En caso de que exista un cónyuge que durante el matrimonio, no haya sido generador de violencia familiar, y se encuentre imposibilitado para trabajar por dolencia de una discapacidad o enfermedad tendrá derecho a alimentos hasta por el tiempo que dure el padecimiento o de manera vitalicia.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+En caso de que exista un cónyuge que durante el matrimonio, no haya sido generador de violencia familiar y/o violencia vicaria, y se encuentre imposibilitado para trabajar por dolencia de una discapacidad o enfermedad tendrá derecho a alimentos hasta por el tiempo que dure el padecimiento o de manera vitalicia.
 
 ###### Artículo 820.
 
@@ -4847,9 +4853,9 @@ I.- Cuando el que la tiene le sobrevenga alguna incapacidad física o mental que
 
 II.- Cuando el alimentista deja de necesitar los alimentos;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-III.- En caso de violencia familiar, injuria, falta o daños graves inferidos intencionalmente por el alimentista contra quien debe prestarlos;
+III.- En caso de violencia familiar, violencia vicaria, injuria, falta o daños graves inferidos intencionalmente por el alimentista contra quien debe prestarlos;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -5543,29 +5549,43 @@ La adopción, una vez que el acto que la constituya haya causado ejecutoria, se 
 
 ### CAPITULO SEXTO. De la violencia familiar
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-Artículo 983 BIS.- Toda persona tiene derecho a un medio ambiente adecuado para su· desarrollo y bienestar. Consecuentemente los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física, psicoemocional, sexual, y económica, libre de conductas de violencia familiar, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las Instituciones Públicas de acuerdo con la Ley de Asistencia y Prevención de Violencia Familiar del Estado de Quintana Roo.
+###### Artículo 983 Bis.
+
+Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar. Consecuentemente las personas integrantes de la familia tienen derecho a que las demás personas miembros les respeten su integridad física, psicoemocional, sexual, y económica, libre de conductas de violencia familiar y/o violencia vicaria, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las Instituciones Públicas de acuerdo con la Ley de Asistencia y Prevención de Violencia Familiar del Estado de Quintana Roo, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin menoscabo de lo establecido por otras disposiciones normativas aplicables, así como por lo dispuesto en los tratados internacionales suscritos por nuestro país en la materia.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Asimismo, en los Casos de Violencia Familiar, quedan prohibidos todo tipo de procedimientos de Conciliación y Mediación, para su resolución.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-Articulo 983 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
+###### Artículo 983 Ter.
+
+Las personas integrantes de la familia están obligadas a evitar conductas que generen violencia familiar y/o violencia vicaria.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Se entiende por violencia familiar el acto u omisión dirigido a dominar, someter o controlar, produciendo violencia física, psicológica, sexual, moral, patrimonial o económica, que ejerza un miembro de la familia en contra de otro integrante de la misma, independientemente de que pueda producir o no lesiones; siempre y cuando exista o haya existido entre el agresor y el agredido una relación de parentesco, matrimonio o concubinato o mantenga una relación de hecho, realizado dentro o fuera del domicilio ocupado por la familia y que tienda a causar daño.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+
 Se considera también violencia familiar, cualquiera de los actos u omisiones señalados en el párrafo anterior cuando una persona cometa en contra de otra que esté sujeta a su custodia, protección, educación, instrucción o cuidado o tenga el cargo de tutor sobre la persona, o de aquellas personas que no reúnan los requisitos para constituir concubinato, siempre que hagan vida en común.
 
-En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refiere la fracción VII y VIII del artículo 814 de este ordenamiento.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+En todas las controversias derivadas de violencia familiar y/o violencia vicaria, la persona Juzgadora dictará las medidas a que se refieren las fracciones VII y VIII del artículo 814 de este ordenamiento.
 
-Artículo 983 QUÁTER.- Por lo que hace a los diversos tipos en que se puede presentar la violencia familiar, se estará a lo dispuesto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+###### Artículo 983 Quáter.
 
-Artículo 983 QUINTUS.- Los integrantes de la familia que incurran en violencia familiar deberán reparar los daños y perjuicios que ocasionen, independientemente de las sanciones establecidas en otros ordenamientos diversos.
+Por lo que hace a los diversos tipos en que se puede presentar la violencia familiar y/o violencia vicaria, se estará a lo dispuesto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, la Ley de Asistencia y Prevención de la Violencia Familiar del Estado de Quintana Roo y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin perjuicio de las demás disposiciones normativas aplicables en la materia, así como de lo dispuesto en los instrumentos internacionales suscritos por nuestro país en la materia.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 983 Quintus.- Las personas integrantes de la familia que incurran en violencia familiar y/o violencia vicaria deberán reparar los daños y perjuicios que ocasionen, independientemente de las sanciones establecidas en otros ordenamientos diversos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2019)</small>
 
@@ -5647,7 +5667,9 @@ Para los efectos del presente Código se considerará como interés superior de 
 
 I.- El acceso a la salud física y mental, alimentación y educación que fomente su desarrollo personal, sin estereotipos ni condicionamientos de género;
 
-II.- Un ambiente de respeto, aceptación y afecto, libre de cualquier tipo de violencia familiar;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+II.- Un ambiente de respeto, aceptación y afecto, libre de cualquier tipo de violencia familiar y/o violencia vicaria;
 
 III.- El desarrollo de la estructura de la personalidad, con una adecuada autoestima, libre de sobreprotección y excesos punitivos;
 
@@ -5767,17 +5789,19 @@ Bis. Los hijos que estén bajo la patria potestad de sus progenitores tienen el 
 
 ### CAPITULO II. De los efectos de la patria potestad
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 998.
 
-Quienes ejerzan la patria potestad deben alimentar a quienes estén sujetos a ella, custodiarlos, protegerlos y educarlos y proveerles un ambiente adecuado libre de violencia familiar.
+Quienes ejerzan la patria potestad deben alimentar a quienes estén sujetos a ella, custodiarlos, protegerlos, educarlos y proveerles un ambiente adecuado libre de violencia familiar y/o violencia vicaria.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 999.
 
-La educación a que se refiere el Artículo anterior, comprende la facultad del titular de la patria potestad, custodia o tutela para establecer límites a la persona menor de edad, así como de procurarlos en un ambiente de respeto en su integridad física, psicoemocional y sexual libre de conductas de violencia familiar y el deber de enseñarles, por sí o por medio de otras personas o de una institución, un arte, oficio o profesión de acuerdo con sus circunstancias personales.
+La educación a que se refiere el artículo anterior, comprende la facultad de la persona titular de la patria potestad, custodia o tutela para establecer límites a la persona menor de edad, así como de procurarlos en un ambiente de respeto en su integridad física, psicoemocional y sexual libre de conductas de violencia familiar y/o violencia vicaria y el deber de enseñarles; por sí o por medio de otras personas o de una institución, un arte, oficio o profesión de acuerdo con sus circunstancias personales.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 El deber de establecer límites no implica infligir a la persona menor de edad, actos de violencia o contra su integridad en los términos de lo dispuesto en este Código, por lo tanto los llamados de atención y exhortos que hagan los padres o tutores para el comportamiento y adecuada convivencia de todos los integrantes del núcleo familiar, serán respetadas las opiniones de éstos, buscando democratizar el núcleo familiar.
 
@@ -5899,6 +5923,10 @@ III.- Cuando el que la ejerza abandone a su hijo y/o hija menor de edad dejándo
 
 IV.- Cuando habiendo dejado a su hijo o hija menor de edad a cargo de una persona o institución, el que ejerza la patria potestad deje de atender sin causa justificada y por más de tres meses, las necesidades de crianza y afecto de su hijo y/o hija.
 
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+V. Cuando sus hijos o hijas menores de edad han sido o están siendo utilizados como medio para cometer violencia vicaria.
+
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
 
 En todos los casos, se aceptará como prueba plena una copia certificada de la sentencia ejecutoriada del juzgado o tribunal penal correspondiente.
@@ -5926,6 +5954,10 @@ La pérdida de la patria potestad da lugar a la pérdida de la guarda y custodia
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Artículo 1019 TER.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones de crianza que tienen para con sus hijos.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 1019 QUÁTER. La persona juzgadora puede, en beneficio de las niñas, niños o adolescentes, modificar el ejercicio de la patria potestad o custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, cuando se acredite que las niñas, niños o adolescentes, han sido o están siendo utilizados como medio para cometer violencia vicaria, contra alguno de sus progenitores.
 
 ###### Artículo 1020.
 
@@ -6321,9 +6353,9 @@ II.- Los que hayan sido removidos de otra tutela por haber ejercido conductas de
 
 III.- Los que, por sentencia que cause ejecutoria, hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-IV.- Los que hayan sido condenados por robo, abuso de confianza, fraude o por delitos contra la moral pública, o bien porque hayan sido sancionados administrativa o penalmente por conductas de violencia familiar;
+IV.- Quienes hayan sido condenados por robo, abuso de confianza, fraude o por delitos contra la moral pública, o bien porque hayan sido sancionados administrativa o penalmente por conductas de violencia familiar y/o violencia vicaria;
 
 V.- Los que hayan sido condenados por robo, abuso de confianza, fraude o por delitos contra la moral pública;
 
@@ -6351,9 +6383,9 @@ I.- Los comprendidos en el artículo anterior, desde que sobrevenga o se adviert
 
 II.- Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-III.- Los que ejerzan conductas de violencia familiar, o se dirijan con negligencia, se conduzcan incorrectamente en el desempeño de la tutela, ya sea respecto de la persona o respecto de la administración de los bienes del incapacitado;
+III.- Quienes ejerzan conductas de violencia familiar y/o violencia vicaria o se dirijan con negligencia, se conduzcan incorrectamente en el desempeño de la tutela, ya sea respecto de la persona o respecto de la administración de los bienes de la persona incapacitada;
 
 IV.- Los tutores que no rindan sus cuentas dentro del término fijado al respecto por este Código;
 
@@ -7223,9 +7255,9 @@ X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje
 
 XI.- El que, conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos;
 
-> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-XII.- El que haya sido condenado por el delito de violencia familiar cometida en contra del testador.
+XII.- Quienes hayan sido condenados por el delito de violencia familiar y/o violencia vicaria cometida en contra de la persona testadora.
 
 ###### Artículo 1263.
 
@@ -15061,7 +15093,11 @@ El mandato puede ser escrito o verbal.
 
 El mandato escrito puede otorgarse:
 
-I.- En escritura pública;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+I.- En escritura pública; y podrá contener el plazo o condición por el cual el mandante de forma voluntaria lo confiere, incluso si éste se confiere por tiempo indefinido.
+
+Si por alguna razón el mandato no determina vigencia, éste se entenderá que es de tres años contados a partir de su otorgamiento;
 
 II.- En carta poder firmada por el otorgante y dos testigos y ratificadas las firmas ante notario público, Juez de Primera Instancia, Menor o de Paz, o ante el correspondiente funcionario administrativo cuando el mandato se otorgue para asuntos administrativos; y
 
@@ -17796,3 +17832,21 @@ P.O. 23 DE MARZO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2022.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL “DECRETO NÚMERO: 264 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y DE LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE QUINTANA ROO, EN MATERIA DE VIOLENCIA VICARIA”.]</small>
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 266 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2807 DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+A los mandatos y poderes otorgados mediante escritura pública emitida antes de la publicación del presente decreto no le serán aplicables las disposiciones objeto de la reforma.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
