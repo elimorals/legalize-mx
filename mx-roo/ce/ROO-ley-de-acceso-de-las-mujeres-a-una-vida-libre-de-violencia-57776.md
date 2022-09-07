@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2022-07-20"
+last_updated: "2022-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -95,17 +95,49 @@ XVI. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos vi
 
 XVII. Equidad: El principio que busca alcanzar la justicia social con responsabilidad, mediante la valoración de la individualidad, considerando las diferencias existentes entre personas y grupos, para establecer mecanismos que les permitan alcanzar la igualdad, desde sus diversas circunstancias y características;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-XVIII. Igualdad: El principio que establece el acceso a las garantías, oportunidades, bienes, servicios y demás derechos constitucionales y legales, sin discriminación por condiciones de sexo, edad, estado civil, religión, idioma, raza, preferencia sexual, estado de salud, o cualquiera otra situación de las personas, y
+XVIII. Igualdad: El principio que establece el acceso a las garantías, oportunidades, bienes, servicios y demás derechos constitucionales y legales, sin discriminación por condiciones de sexo, edad, estado civil, religión, idioma, raza, preferencia sexual, estado de salud, o cualquier otra situación de las personas;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-XIX. Paridad de género: Igualdad entre mujeres y hombres, siendo la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación.
+XIX. Paridad de género: Igualdad entre mujeres y hombres, siendo asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación, y
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XX. Daño: Cualquier perjuicio, menoscabo o dolor que una persona sufre a consecuencia de la acción u omisión de otra o por interpósita persona y que afecte a sus bienes, sus derechos, sus intereses o su integridad física, emocional o psicológica.
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XX-A. Registro: Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo.
 
 ###### ARTÍCULO 3.
 
 Todas las medidas que se deriven de la presente ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos de violencia contra las mujeres durante su ciclo de vida para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 3 BIS.- La prevención es el conjunto de acciones que deberán llevar a cabo el Estado y los Municipios por medio de sus dependencias y entidades para evitar la comisión de delitos y otros actos de violencia contra las mujeres, atendiendo a los posibles factores de riesgo tanto en los ámbitos público y privado.
+
+La prevención comprende medidas generales y especiales, entre las que deberán privilegiarse las de carácter no penal, así como las medidas de seguridad que determinen los órganos jurisdiccionales en materia de registro de personas sentenciadas por delitos relacionados con violencia sexual.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 3 TER.- Las medidas de prevención general son aquellas que desde los distintos ámbitos de acción de las dependencias y entidades del Estado y los Municipios, están destinadas a toda la colectividad teniendo el propósito de evitar la comisión de conductas consideradas como delitos y otros actos de violencia contra las mujeres, así como propiciar su empoderamiento.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 3 QUÁTER.- Serán consideradas como medidas especiales de prevención, aquellas que permitan a las mujeres embarazadas, con discapacidad, de la tercera edad o afectadas por cualquier otra condición de vulnerabilidad, el establecimiento de acciones concretas y obligatorias que gocen de las siguientes facilidades:
+
+I. Contar con atención preferente ágil, pronta y expedita cuando se encuentren realizando algún trámite, solicitando algún servicio o participando de algún procedimiento ante cualquier autoridad local, y
+
+II. Ser atendidas con prontitud y diligencia por los particulares que brinden algún servicio público.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 3 QUINQUIES.- Se crea el Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo, como mecanismo efectivo de prevención y protección para los efectos de atender al factor de riesgos de reincidencia y repetición de conductas de violencia sexual, a favor de víctimas o potenciales víctimas de esta violencia.
+
+La información contenida en el presente Registro deberá ser considerada por las autoridades estatales, los ayuntamientos municipales y los organismos constitucionalmente autónomos para la elaboración de acciones y políticas públicas destinadas al combate y prevención de los delitos cometidos en contra de las mujeres.
 
 ###### ARTÍCULO 4.
 
@@ -155,17 +187,23 @@ VII. La violencia obstétrica.- Es toda acción u omisión intencional por parte
 
 VIII. La violencia contra los derechos reproductivos.- Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, y acceso a una maternidad elegida y segura, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+IX. Violencia Vicaria: Aquella violencia contra la víctima que ejerce la persona que mantenga o haya mantenido una relación de hecho o de pareja con aquella, y que por si o por interpósita persona, utilice como medio a las hijas e hijos de ésta, para causarle daño, generando una consecuente afectación psicoemocional e incluso física, económica, patrimonial o de cualquier otro tipo, tanto a la víctima, como a quienes fungieren como medio.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA
 
 ### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 6.
 
-Para efectos de esta ley se entenderá por violencia familiar todo acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, moral, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+Para efectos de esta ley se entenderá por violencia familiar todo acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, moral, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuya persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
 La definición de violencia familiar prevista en este artículo, se establece sin perjuicio de las definiciones establecidas en otras disposiciones legales del Estado.
 
@@ -937,9 +975,33 @@ VIII. Diseñar, con una visión transversal, la política integral con perspecti
 
 IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Estatal y del Programa Estatal;
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-XI. Las demás previstas para el cumplimiento de la presente ley.
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Establecer los lineamientos para crear, organizar, implementar, gestionar, actualizar, monitorear y evaluar el funcionamiento del Registro Público de Agresores Sexuales;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Expedir los mecanismos que permitan inscribir, acceder, rectificar, cancelar y oponerse cuando resulte procedente, la información contenida en el Registro.
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XIII. Publicar en su portal web oficial, el Registro Público de Personas Agresoras Sexuales, registrando a la persona sentenciada una vez que cause ejecutoria la sentencia.
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XIV. Elaborar e implementar en coordinación con la Fiscalía, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva, así como a aquellas donde residan un mayor número de personas inscritas en el Registro;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XV. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado, debiendo en todo momento estar actualizadas las consultas al Registro, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XVI. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### Sección Quinta. De la Secretaría de Educación
 
@@ -1095,9 +1157,9 @@ VII. Promover la cultura de la denuncia y el respeto a los derechos humanos de l
 
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+IX. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, vinculación a proceso, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1121,11 +1183,17 @@ b. Perspectiva de género para la debida diligencia en la conducción de investi
 
 c. Incorporación de la perspectiva de género en los servicios periciales;
 
-d. Eliminación de estereotipos sobre el rol social de las mujeres, entre otros, y
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+d. Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
 
-XIV. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XIV. Elaborar e instrumentar en coordinación con la Secretaría de Seguridad Pública, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número de personas inscritas en el Registro, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XV. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### Sección Octava. Del Instituto Quintanarroense de la Mujer
 
@@ -1419,7 +1487,9 @@ Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
 
 I. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad física o psicológica, la libertad o seguridad de la víctima o de las víctimas indirectas, incluyendo para efecto de prevención de riesgos de sufrir algún acto de violencia sexual, el que existe (sic) un Registro Público de Personas Agresoras Sexuales, en los términos y bajo las características que señale la normatividad aplicable;
 
 III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
 
@@ -1443,9 +1513,9 @@ VIII. En los casos de violencia familiar, las mujeres que tengan hijas, hijos, o
 
 El agresor debe participar obligatoriamente en los tratamientos psicoterapéuticos reeducativos con perspectiva de género, cuando se le determine por mandato de autoridad competente.
 
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+### CAPÍTULO ÚNICO. DEL REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES DEL ESTADO DE QUINTANA ROO
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 52.
 
@@ -1513,13 +1583,71 @@ Para efectos del artículo anterior, el personal médico, psicológico y jurídi
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
-> <small>(ADICIONADA CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN N. DE E. ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
+## TÍTULO QUINTO. DEL REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES DEL ESTADO DE QUINTANA ROO
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDAD (SIC) Y SANCIONES
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 58] , P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 58.
+
+El Registro Constituye un sistema de información de carácter público que contendrá los registros de personas sentenciadas con ejecutoria por un juez penal, en términos de lo establecido en el artículo 51 del Código Penal para el Estado Libre y Soberano de Quintana Roo.
+
+En ningún caso y en ninguna circunstancia, se incluirán datos personales de las víctimas o datos que hagan posible su localización e identificación y ocasionen una revictimización.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 59.
+
+La inclusión de una persona al Registro, sólo se realizará cuando exista la instrucción de la autoridad jurisdiccional derivada de una sentencia penal ejecutoriada ordenando su inscripción. Dicha instrucción deberá señalar a partir de qué momento correrá el plazo de la inscripción y su duración dentro de los parámetros que establece el Código Penal para el Estado Libre y Soberano de Quintana Roo.
+
+La inscripción contenida en el Registro Público de Personas Agresoras Sexuales se cancelará, cuando concluya el término respectivo o cuando sea ordenado por la autoridad jurisdiccional que corresponda, señalando el motivo.
+
+La Secretaría de Seguridad Pública, como responsable del Registro, bajo su más estricta responsabilidad, deberá garantizar los derechos humanos de la persona registrada.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 60.
+
+El Registro Público de Personas Agresoras Sexuales, con la finalidad de garantizar que los datos resguardados en el mismo gocen de la calidad de la información que impida cualquier daño, perdida, alteración, destrucción o para impedir el uso, acceso o tratamiento no autorizados de la información, tendrá las siguientes características:
+
+I. Confiabilidad;
+
+II. Encriptación;
+
+III. Gratuidad en su uso y acceso, y
+
+IV. Público a través de los portales de internet respectivos.
+
+Las autoridades y personas servidoras públicas que intervengan en la captura, ingreso, envío, recepción, manejo, consulta o actualización de la información que integra el Registro, deberán adoptar las medidas necesarias para mantener exactos, completos, correctos y actualizados, los datos personales en su posesión.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 61.
+
+El Registro contendrá también la información clasificada a la cual sólo tendrán acceso a las personas titulares del Ministerio Público, bajo solicitud debidamente motivada y fundada que corresponde. Esta información clasificada será la siguiente:
+
+I. Señas particulares.
+
+II. Zona criminológica de los delitos;
+
+III. Modus operandi;
+
+IV. Ficha signaléctica, y
+
+V. Perfil Genético.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA [N. DE E. REFORMADO -ANTES TÍTULO QUINTO-], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+## TÍTULO SEXTO. DE LAS RESPONSABILIDAD (SIC) Y SANCIONES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA [N. DE E. REFORMADO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 62.
 
 Será causa de responsabilidad administrativa el incumplimiento de esta Ley y se sancionará conforme a las Leyes en la materia.
 
@@ -1650,3 +1778,21 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 TERCERO. La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas, por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal del que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
 
 La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
+
+P.O. 7 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 264 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y DE LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE QUINTANA ROO, EN MATERIA DE VIOLENCIA VICARIA".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 265 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.”]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La Secretaría de Seguridad Pública contará con un plazo de noventa días hábiles para la implementación de las disposiciones del presente decreto y la creación del Reglamento del Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo. La Secretaría de Seguridad Pública realizará las adecuaciones correspondientes a su actual presupuesto para la implementación del Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
