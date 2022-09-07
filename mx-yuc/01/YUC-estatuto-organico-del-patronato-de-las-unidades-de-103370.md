@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-patronato-de-las-unidades-de-103370"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-10-28"
-last_updated: "2019-10-18"
+last_updated: "2022-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE SEPTIEMBRE DE 2022.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el martes 28 de Octubre de 2014.
 
@@ -102,6 +102,10 @@ c) Dirección jurídica.
 > <small>(ADICIONADO, D.O. 18 DE OCTUBRE DE 2019)</small>
 
 d) Dirección de unidad de gestión, evaluación y proyectos.
+
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+e) Dirección de comercialización.
 
 III. Órganos auxiliares del patronato:
 
@@ -395,7 +399,9 @@ XI. Coordinar y supervisar la gestión de los recursos humanos adscritos al patr
 
 XII. Observar y vigilar que se cumplan las disposiciones legales y normativas que regulan las relaciones laborales del patronato.
 
-XIII. Formular el proyecto de presupuesto de ingresos y egresos del patronato conjuntamente con la dirección general, la dirección de operaciones y la dirección jurídica.
+> <small>(REFORMADA, D.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+XIII. Formular el proyecto de presupuesto de ingresos y egresos del patronato conjuntamente con la dirección general, la dirección de operaciones, la dirección jurídica, la dirección de unidad de gestión y evaluación y proyectos y la dirección de comercialización.
 
 XIV. Coordinar y supervisar el seguimiento del ejercicio presupuestal e informar periódicamente a las instancias correspondientes sobre su aplicación.
 
@@ -523,6 +529,40 @@ XVI. Evaluar el cumplimiento de los objetivos y las metas definidos en el plan a
 
 XVII. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 32 TER. Facultades y obligaciones del director de comercialización
+
+El director de comercialización tendrá las siguientes facultades y obligaciones:
+
+I. Desarrollar cursos de acción en materia de comercialización alineados al programa anual de trabajo de la dirección a su cargo.
+
+II. Establecer estrategias de mercadotecnia, promoción y difusión de los servicios y productos que presta el patronato.
+
+III. Promover vínculos comerciales con organismos de los sectores privado y social de los productos o servicios que brinda el patronato.
+
+IV. Impulsar esquemas de promoción e incentivos atractivos y sustentables para los diferentes organismos de los sectores privado y social.
+
+V. Planear y establecer estrategias de coordinación institucional con los organismos de los sectores público, privado y social para la promoción, difusión y comercialización de los servicios, atractivos, actividades, destinos y productos que oferta el patronato.
+
+VI. Fomentar acciones de promoción y difusión de los servicios públicos que presta el patronato en coordinación con otras dependencias y entidades de la Administración Pública estatal, con los gobiernos federales, estatales, municipales e instituciones de la iniciativa privada.
+
+VII. Utilizar, impulsar y posicionar, a través de los diferentes medios tecnológicos, los productos y servicios comerciales con los que cuenta el patronato.
+
+VIII. Informar periódicamente a la dirección general sobre el avance de los programas de trabajo de la dirección a su cargo.
+
+IX. Orientar y brindar asesoría a los organismos de los sectores privado y social que soliciten la asistencia o los servicios del patronato para el desarrollo de sus actividades de promoción, publicidad y relaciones públicas en materia de turismo, cultura y educación.
+
+X. Incrementar el padrón de agencias mayoristas a través de programas de promoción y establecer vínculos de comercialización de los servicios proporcionados por el patronato.
+
+XI. Revisar y autorizar los requerimientos de solicitudes de material de información turística, equipamiento, combustible, mantenimiento de módulos, limpieza, mobiliario y servicios que se requieran para el óptimo funcionamiento de la dirección a su cargo y de las unidades administrativas adscritas a esta.
+
+XII. Participar en los procesos de actualización y adecuación de los sistemas administrativos y normativos correspondientes a la dirección a su cargo y de las unidades administrativas adscritas a esta.
+
+XIII. Coordinar con las autoridades federales, estatales y municipales las solicitudes de participación del patronato en eventos y congresos.
+
+XIV. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
 #### Sección cuarta. Órganos auxiliares del patronato
 
 ###### Artículo 33.
@@ -618,6 +658,18 @@ SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN
 D.O. 18 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO CULTUR 3/2019 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
+
+D.O. 7 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CULTUR 18/2022 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN.”]
 
 Primero. Entrada en vigor
 
