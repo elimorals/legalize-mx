@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asistencia-y-prevencion-de-la-violencia-familiar-16629"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-15"
-last_updated: "2015-11-17"
+last_updated: "2022-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de junio de 2000.
 
@@ -88,6 +88,10 @@ E. VIOLENCIA PATRIMONIAL. Es cualquier acto u omisión que afecta la supervivenc
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 F. VIOLENCIA ECONÓMICA. Es toda acción u omisión de quien agrede, que afecta la supervivencia económica de quien la recibe. Se manifiesta a través de limitaciones encaminadas a controlar sus percepciones económicas.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+G. VIOLENCIA VICARIA. Aquella violencia cometida por quien mantenga o haya mantenido una relación de hecho o de pareja con la víctima, y que por sí o por interpósita persona, utilice como medio a las hijas e hijos de ésta, para causarle daño, generando una consecuente afectación psicoemocional e incluso física, económica, patrimonial o de cualquier tipo, tanto a la víctima, como a quienes fungieren como medio.
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -606,3 +610,11 @@ P.O. 17 DE NOVIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 264 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO, DEL CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y DE LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE QUINTANA ROO, EN MATERIA DE VIOLENCIA VICARIA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
