@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-general-de-archivos-del-poder-judicial-del-97974"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-12-10"
-last_updated: "2021-11-08"
+last_updated: "2022-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO GENERAL DE ARCHIVOS DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2022.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de diciembre de 2013.
 
@@ -349,7 +349,9 @@ I. Supervisar y controlar las actividades y organización del Archivo Histórico
 
 II. Expedir copias certificadas, en los términos establecidos en el artículo 141 de la Ley Orgánica;
 
-III. Rendir el informe mensual a que se refiere el artículo 142 de la Ley Orgánica;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+III. Certificar los expedientes o constancias que se digitalicen para consulta por medios remotos de comunicación electrónica;
 
 IV. Ordenar y disponer lo necesario para evitar el deterioro de los expedientes;
 
@@ -1010,3 +1012,13 @@ P.O. 8 DE NOVIEMBRE DE 2021.
 PRIMERO.- La presente reforma al Reglamento General de Archivos del Poder Judicial del Estado de San Luis Potosí, entrará en vigor a partir del día siguiente a su aprobación, con independencia de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial de Gobierno del Estado "Plan de San Luis", así como en la página de internet del Poder Judicial del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE “REFORMA A LA FRACCIÓN III, DEL ARTÍCULO 23, DEL REGLAMENTO GENERAL DE ARCHIVOS”.]
+
+PRIMERO.- La presente reforma al Reglamento General de Archivos del Poder Judicial del Estado de San Luis Potosí, entrará en vigor al día siguiente de su aprobación, con independencia de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a dicha reforma y que hayan sido dictadas con anterioridad a la entrada en vigor del mismo.
+
+TERCERO.- Publíquese la presente reforma en el Periódico Oficial del Estado y désele la más amplia publicidad en el portal de “Transparencia del Estado” y en la página de internet del Poder Judicial del Estado.
