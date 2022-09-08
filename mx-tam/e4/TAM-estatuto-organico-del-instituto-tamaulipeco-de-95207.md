@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-instituto-tamaulipeco-de-95207"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-07-02"
-last_updated: "2013-07-02"
+last_updated: "2022-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO TAMAULIPECO DE INFRAESTRUCTURA FISICA EDUCATIVA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO TAMAULIPECO DE INFRAESTRUCTURA FÍSICA EDUCATIVA, PUBLICADO EN EL P.O. DE 8 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO TAMAULIPECO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2022 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el martes 2 de julio de 2013.
 
@@ -318,3 +320,29 @@ El presente Estatuto Orgánico entrará en vigor el día de su expedición y se 
 Dado en la Sala de Juntas del Instituto Tamaulipeco de Infraestructura Física Educativa, en Ciudad Victoria, Capital del Estado de Tamaulipas, el catorce de febrero de 2013.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- DIRECTOR GENERAL- ING. JESÚS SERNA BARELLA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO TAMAULIPECO DE INFRAESTRUCTURA FÍSICA EDUCATIVA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Orgánico del Instituto Tamaulipeco de Infraestructura Física Educativa, publicado en el Periódico Oficial del Estado No. 79 de fecha 2 de junio de 2013.
+
+###### ARTÍCULO TERCERO.
+
+Los reglamentos y demás disposiciones normativas del Instituto Tamaulipeco de Infraestructura Física Educativa, deberán de emitirse conforme al presente Estatuto Orgánico del Instituto Tamaulipeco de Infraestructura Física Educativa.
+
+###### ARTÍCULO CUARTO.
+
+El presente Estatuto Orgánico del Instituto Tamaulipeco de Infraestructura Física Educativa, deberá inscribirse en el Registro Estatal de Organismos Descentralizados.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan las disposiciones administrativas que se opongan al presente Estatuto Orgánico del Instituto Tamaulipeco de Infraestructura Física Educativa.
