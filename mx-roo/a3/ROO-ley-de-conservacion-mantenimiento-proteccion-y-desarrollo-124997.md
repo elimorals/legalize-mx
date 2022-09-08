@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-conservacion-mantenimiento-proteccion-y-desarrollo-12499
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2017-12-27"
+last_updated: "2022-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE CONSERVACIÓN, MANTENIMIENTO, PROTECCIÓN Y DESARROLLO DEL ARBOLADO URBANO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Extraordinario al Número 146 del Periódico Oficial de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -353,11 +353,13 @@ IX.- Se deberá inspeccionar el árbol a efecto de verificar la presencia de fau
 
 #### SECCIÓN III. DEL DERRIBO DEL ARBOLADO URBANO
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 25.
 
-Toda persona que tenga la intención de que se realice el derribo de un árbol urbano que esté destinado al uso público, deberá de tramitar su solicitud respectiva ante la Autoridad Municipal correspondiente.
+Toda persona que tenga la intención de que se realice el derribo de un árbol urbano que esté destinado al uso público, o que se encuentre en un terreno de propiedad privada que tenga las características señaladas en el reglamento respectivo, deberá de tramitar su solicitud respectiva ante la Autoridad Municipal correspondiente.
 
-En caso de que una persona tenga la intención de que se realice el derribo de un árbol que se encuentre en un terreno de propiedad privada que tenga las características señaladas en el reglamento respectivo, deberá de tramitar la solicitud pertinente ante la Autoridad Municipal correspondiente.
+En ambos casos se deberá realizar la restitución física conforme a lo dispuesto por esta ley y el reglamento respectivo.
 
 ###### Artículo 26.
 
@@ -577,9 +579,17 @@ III.- Los motivos justificativos para llevarse a cabo la poda, derribo o traspla
 
 IV.- El registro fotográfico del árbol, que permita observar sus condiciones generales;
 
-V.- Domicilio y ubicación del árbol o árboles a tratar, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
 
-VI.- En su caso, declarar si se tratare de un caso de riesgo, alto riesgo o emergencia, según lo señalado por esta Ley.
+V.- Domicilio y ubicación del árbol o árboles a tratar;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+VI.- En su caso, declarar si se tratare de un caso de riesgo, alto riesgo o emergencia, según lo señalado por esta Ley, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+VII.- En caso de derribo, la propuesta del sitio de plantación y la especie del árbol o árboles para la restitución física, de acuerdo con lo previsto en el artículo 62 de esta Ley.
 
 Las solicitudes a que hace referencia este artículo, serán resueltas en un lapso de quince días hábiles, a partir de su presentación y notificadas al solicitante por vía electrónica o personal.
 
@@ -741,9 +751,15 @@ El inventario se actualizará cada tres años, durante los primeros tres meses, 
 
 ### CAPÍTULO XI. DE LA RESTITUCIÓN
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 61.
 
-Será responsable de la restitución física quien realice, sin autorización de la Autoridad Municipal, la poda excesiva o derribo de uno o más árboles urbanos.
+Será responsable de la restitución física:
+
+I. Quien realice sin autorización de la Autoridad Municipal, la poda excesiva, y
+
+II. Quien derribe uno o más árboles urbanos, en términos de lo que disponga esta ley y el reglamento respectivo.
 
 ###### Artículo 62.
 
@@ -815,7 +831,9 @@ La Autoridad Municipal es la encargada de la inspección y vigilancia para el cu
 
 Las violaciones a los preceptos de esta Ley y su reglamento serán sancionadas administrativamente por los Ayuntamientos o Secretaría, según corresponda, previo desahogo del procedimiento administrativo correspondiente, las sanciones en términos del Artículo siguiente, cuando:
 
-I. Se realice la poda excesiva que represente un grave riesgo para la supervivencia del ejemplar, derribo o trasplante de árboles urbanos sin la autorización correspondiente;
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+I. Se realice la poda excesiva que represente un grave riesgo para la supervivencia del ejemplar, o el trasplante de árboles urbanos sin la autorización correspondiente;
 
 II. Se realice la plantación, poda, derribo o trasplante de árboles urbanos sin respetar las condiciones, requisitos y disposiciones de esta Ley;
 
@@ -829,9 +847,17 @@ VI. Se obstaculice al personal autorizado la realización de actos de inspecció
 
 VII. Se degrade o se elimine parcial o totalmente zonas y áreas donde se localiza el arbolado urbano;
 
-VIII. Se dañe o afecte de alguna forma árboles patrimoniales, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Las demás que señalen los reglamentos municipales de la materia.
+VIII. Se dañe o afecte de alguna forma árboles patrimoniales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Se derribe árboles urbanos sin la autorización correspondiente, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+X. Las demás que señalen los reglamentos municipales de la materia.
 
 ###### Artículo 72.
 
@@ -859,9 +885,13 @@ I. Amonestación con apercibimiento cuando la falta sea menor, y
 
 II. Multa:
 
-a. Con el equivalente de 9 a 149 UMA, por cada árbol afectado, por la comisión de las infracciones señaladas en las fracciones I, II y V del Artículo 39 de esta Ley.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
 
-b. Con el equivalente de 29 a 1495 UMA, a quien cometa cualquiera de las infracciones señaladas en las fracciones III, IV, VI VII y VIII del Artículo 39 de esta Ley.
+a. Con el equivalente de 9 a 149 UMA, por cada árbol afectado, por la comisión de las infracciones señaladas en las fracciones I, II y V del Artículo 71 de esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+b. Con el equivalente de 29 a 1495 UMA, a quien cometa cualquiera de las infracciones señaladas en las fracciones III, IV, VI VII, VIII y IX del Artículo 71 de esta Ley.
 
 En los casos de reincidencia, el monto de la multa podrá ser de hasta el doble del máximo establecido por esta Ley.
 
@@ -998,3 +1028,15 @@ C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 267 POR EL QUE SE REFORMAN: EL ARTÍCULO 25, LAS FRACCIONES V Y VI DEL ARTÍCULO 44, EL ARTÍCULO 61, LAS FRACCIONES I, VIII Y IX DEL ARTÍCULO 71, LOS INCISOS A. Y B. DE LA FRACCIÓN II DEL ARTÍCULO 73 Y SE ADICIONAN: LA FRACCIÓN VII DEL ARTÍCULO 44, LA FRACCIÓN X DEL ARTÍCULO 71, TODOS DE LA LEY DE CONSERVACIÓN, MANTENIMIENTO, PROTECCIÓN Y DESARROLLO DEL ARBOLADO URBANO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los Ayuntamientos en un plazo de noventa días naturales contados a partir de la entrada en vigor del presente decreto, deberán efectuar las adecuaciones al reglamento que corresponda en los términos del presente decreto.
+
+TERCERO. Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto
