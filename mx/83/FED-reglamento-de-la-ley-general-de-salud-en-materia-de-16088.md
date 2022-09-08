@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-16088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-04"
-last_updated: "2014-02-14"
+last_updated: "2022-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2000-05-02"
 ---
 # REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PUBLICIDAD
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PUBLICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE SEPTIEMBRE DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de mayo de 2000.
 
@@ -80,6 +82,10 @@ No estará sujeta a este Reglamento la publicidad que se realice sobre ofertas o
 La publicidad será congruente con las características o especificaciones que establezcan las disposiciones aplicables para los productos o servicios objeto de la misma, para lo cual no deberá:
 
 I. Atribuirles cualidades preventivas, terapéuticas, rehabilitatorias, nutritivas, estimulantes o de otra índole, que no correspondan a su función o uso, de conformidad con lo establecido en las disposiciones aplicables o en la autorización otorgada por la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+I Bis. Incluir sellos o leyendas de recomendación o reconocimiento por organizaciones o asociaciones profesionales en aquellos alimentos y bebidas no alcohólicas que, conforme a la norma correspondiente, deban incluir en su etiqueta uno o más sellos de exceso de energía o de nutrimentos críticos.
 
 II. Indicar o sugerir que el uso o consumo de un producto o la prestación de un servicio, es un factor determinante para modificar la conducta de las personas, o
 
@@ -217,17 +223,17 @@ VI. Asociarse directa o indirectamente con el consumo de bebidas alcohólicas o 
 
 VII. Declarar propiedades que no puedan comprobarse, o que los productos son útiles para prevenir, aliviar, tratar o curar una enfermedad, trastorno o estado fisiológico.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ARTÍCULO ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
-
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 22 Bis.
 
-Será objeto de permiso por parte de la Secretaría, otorgado a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, la publicidad que se realice en televisión abierta, televisión restringida y salas de exhibición cinematográfica, sobre la existencia, calidad y características de los alimentos y bebidas no alcohólicas, así como para promover su uso, venta o consumo en forma directa o indirecta, cuando dichos productos no se ajusten a los criterios a que se refiere este artículo.
+Será objeto de permiso por parte de la Secretaría, otorgado a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, la publicidad que se realice en televisión abierta, televisión restringida, salas de exhibición cinematográfica, internet y demás plataformas digitales, sobre la existencia, calidad y características de los alimentos y bebidas no alcohólicas, así como para promover su uso, venta o consumo en forma directa o indirecta, cuando la etiqueta de dichos productos incluya el sistema de etiquetado frontal, conforme a la norma correspondiente.
 
-Para efectos de lo dispuesto en el párrafo anterior, la Comisión Federal para la Protección contra Riesgos Sanitarios, mediante Lineamientos que se publiquen en el Diario Oficial de la Federación, establecerá los criterios nutrimentales y de publicidad que deberán cumplir los alimentos y bebidas no alcohólicas para publicitarse en televisión abierta, televisión restringida y salas de exhibición cinematográfica, así como las condiciones para otorgar el permiso previsto en el párrafo anterior, los cuales deberán apegarse al principio del interés superior de la niñez, contemplado en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
+Para efectos de lo dispuesto en el párrafo anterior, la Comisión Federal para la Protección contra Riesgos Sanitarios, mediante Lineamientos que se publiquen en el Diario Oficial de la Federación, establecerá los requisitos y procedimientos de publicidad que deberán cumplir los alimentos y bebidas no alcohólicas para publicitarse en televisión abierta, televisión restringida, salas de exhibición cinematográfica, internet y demás plataformas digitales, así como las condiciones para otorgar el permiso previsto en el párrafo anterior, los cuales deberán apegarse al principio del interés superior de la niñez, contemplado en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-La publicidad de alimentos y bebidas no alcohólicas, incluyendo la de los productos que se ajusten a los criterios referidos en el párrafo anterior, deberá cumplir con lo establecido en el artículo 22 del presente Reglamento.
+La publicidad de alimentos y bebidas no alcohólicas, incluyendo la de los productos que se ajusten a los lineamientos referidos en el párrafo anterior, deberá cumplir con lo establecido en el artículo 22 del presente Reglamento.
+
+Para efectos de lo anterior la Secretaría tendrá hasta veinte días hábiles para resolver la solicitud.
 
 ### Capítulo II. Alimentos y bebidas no alcohólicas
 
@@ -262,6 +268,12 @@ El convenio que en términos de este artículo se celebre tendrá una vigencia d
 La Secretaría celebrará los convenios en condiciones de equidad para los productos, servicios y actividades comprendidos en una misma categoría.
 
 En caso de incumplimiento a lo dispuesto en el presente artículo, el anunciante deberá, sin excepción, incluir en la publicidad los mensajes correspondientes en los términos del artículo anterior, sin perjuicio de la aplicación de las sanciones que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 24 Bis.
+
+La publicidad de los alimentos y las bebidas no alcohólicas preenvasados que en su etiqueta incluyan uno o más elementos del sistema de etiquetado frontal, de conformidad con la normatividad correspondiente, no deberá incluir personajes infantiles, animaciones, dibujos animados, celebridades, deportistas o mascotas, elementos interactivos, tales como juegos visual-espaciales o descargas digitales, dirigidas a niñas y/o niños que inciten, promuevan o fomenten el consumo, compra o elección de dichos productos.
 
 ### Capítulo III. Fórmulas para lactantes
 
@@ -789,23 +801,17 @@ VI. Servicios y procedimientos de embellecimiento;
 
 VII. Plaguicidas, excepto cuando se trate de información técnica;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
-
 > <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
 
 VIII. Nutrientes vegetales cuando, de conformidad con las normas oficiales mexicanas, tengan características tóxicas;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
 
 > <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
 
 IX. Sustancias tóxicas o peligrosas, cuando se trate de productos sujetos a control sanitario en términos del artículo 278 de la Ley, y
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
-
-X. Alimentos y bebidas no alcohólicas que se difundan por televisión abierta, televisión restringida y salas de exhibición cinematográfica, cuando dichos productos no se ajusten a los criterios referidos en el segundo párrafo del artículo 22 Bis del presente Reglamento.
+X. Alimentos y bebidas no alcohólicas que se difundan por televisión abierta, televisión restringida, salas de exhibición cinematográfica, internet y demás plataformas digitales, cuando dichos productos no se ajusten a los lineamientos referidos en el segundo párrafo del artículo 22 Bis del presente Reglamento.
 
 En los casos contemplados en las fracciones IV, V y IX anteriores, sólo será aplicable este artículo, cuando la publicidad se dirija a la población en general.
 
@@ -837,15 +843,21 @@ e. Agencia de publicidad;
 
 V. El proyecto de publicidad, en dos tantos;
 
-VI. La documentación que dé sustento a las afirmaciones hechas en la publicidad, y
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
 
-VII. La autorización sanitaria del producto y su marbete autorizado, en el caso de insumos para la salud.
+VI. La documentación que dé sustento a las afirmaciones hechas en la publicidad;
+
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+VII. La autorización sanitaria del producto y su marbete autorizado, en el caso de insumos para la salud, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. La etiqueta del producto, en el caso de alimentos y de bebidas no alcohólicas preenvasados, y de suplementos alimenticios.
 
 La Secretaría tendrá cinco días para resolver la solicitud, en los casos en que se presente dictamen por parte de un tercero autorizado de que la publicidad cumple la legislación sanitaria, o se trate de interesados que hayan suscrito los códigos de ética y convenios a que se refieren los artículos 99 y 100 de este Reglamento, y veinte días en los demás casos.
 
 Una vez transcurrido el plazo correspondiente, sin que la Secretaría emita una resolución, el permiso se tendrá por otorgado.
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE PÁRRAFO ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
 
@@ -891,19 +903,13 @@ I. Actividades profesionales, técnicas, auxiliares y las especialidades a que s
 
 II. (DEROGADA, D.O.F. 6 DE ABRIL DE 2006)
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
-
 III. (DEROGADA, D.O.F. 14 DE FEBRERO DE 2014)
 
 IV. Insumos para la salud, cuando se dirija a profesionales de la salud, y
 
 V. (DEROGADA, D.O.F. 6 DE ABRIL DE 2006)
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, LA PRESENTE FRACCIÓN ENTRARÁ EN VIGOR A LOS NOVENTA DÍAS CONTADOS A PARTIR DEL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL D.O.F.</small>
-
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
-
-VI. Alimentos y bebidas no alcohólicas, que se difundan por televisión abierta, televisión restringida y salas de exhibición cinematográfica cuando dichos productos, además de cumplir con lo establecido en el artículo 22 del presente Reglamento, se ajusten a los criterios referidos en el segundo párrafo del artículo 22 Bis de este ordenamiento.
+VI. (DEROGADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)
 
 ###### ARTÍCULO 87.
 
@@ -1214,3 +1220,17 @@ D.O.F. 14 DE FEBRERO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor a los noventa días contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La Comisión Federal para la Protección contra Riesgos Sanitarios contará con un plazo de hasta noventa días, contados a partir de la fecha de publicación del presente Decreto, para emitir los Lineamientos a que hace referencia el párrafo segundo del artículo 22 Bis contenido en el presente Decreto.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS Y DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PUBLICIDAD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con la excepción prevista en el transitorio siguiente.
+
+SEGUNDO.- El Artículo Segundo del presente Decreto entrará en vigor a los 180 días naturales posteriores al de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- La Comisión Federal para la Protección contra Riesgos Sanitarios, realizará dentro de los noventa días posteriores a la publicación del presente Decreto, las adecuaciones correspondientes a los Lineamientos a que hace referencia el artículo 22 Bis del Reglamento de la Ley General de Salud en Materia de Publicidad al que se refiere el Artículo Segundo del presente Decreto.
+
+CUARTO.- Se abroga el Acuerdo por el que se emiten los Lineamientos a que se refiere el artículo 25 del Reglamento de Control Sanitario de Productos y Servicios que deberán observar los productores de alimentos y bebidas no alcohólicas preenvasadas para efectos de la información que deberán ostentar en el área frontal de exhibición, así como los criterios y las características para la obtención y uso del distintivo nutrimental a que se refiere el artículo 25 Bis del Reglamento de Control Sanitario de Productos y Servicios, publicado en el Diario Oficial de la Federación el 15 de abril de 2014.
+
+QUINTO.- Las disposiciones reglamentarias y administrativas vigentes, que no se opongan al presente Decreto, continuarán vigentes.
