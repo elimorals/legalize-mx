@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2022-05-24"
+last_updated: "2022-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1030,6 +1030,10 @@ Ningún partido político podrá contar con más de quince diputados asignados p
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
 En ningún caso, un partido político podrá contar, con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+El Congreso del Estado se regirá por los principios de parlamento abierto, por lo que el ejercicio de sus funciones se acompañará de mecanismos para garantizar la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura legislativa, la participación ciudadana y rendición de cuentas. La Ley Orgánica del Congreso establecerá las disposiciones que aseguren el ejercicio de estos principios.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -4484,6 +4488,22 @@ P.O. 24 DE MAYO DE 2022.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado deberá realizar los ajustes legales correspondientes para dar cumplimiento al presente decreto en un plazo que no exceda de 90 días a partir de la entrada en vigor del mismo.
+
+P.O. 8 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 586.- POR EL QUE SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 66 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
