@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-instituciones-y-procedimientos-electorales-para-el-12342
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2022-06-08"
+last_updated: "2022-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de septiembre de 2017.
 
@@ -109,13 +109,21 @@ XVIII. Partidos Políticos: Los partidos políticos nacionales y estatales;
 
 XIX. Perspectiva de género: Es la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de género;
 
-XX. Tribunal Electoral: El Tribunal Electoral de Quintana Roo, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+XX. Tribunal Electoral: El Tribunal Electoral de Quintana Roo;
 
 XXI. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
 
 Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por ser mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
 
-Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, personas simpatizantes, personas precandidatas o personas candidatas postuladas por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, personas simpatizantes, personas precandidatas o personas candidatas postuladas por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares; y,
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+XXII. Defensoría: La Defensoría Pública Electoral para la Protección de los Derechos Político Electorales del Estado de Quintana Roo.
 
 ###### Artículo 4.
 
@@ -3389,9 +3397,17 @@ VI. La Unidad de Informática y Documentación;
 
 VII. La Unidad de Administración;
 
-VIII. La Unidad de Capacitación e Investigación, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
 
-IX. La Unidad de Transparencia.
+VIII. La Unidad de Capacitación e Investigación;
+
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+IX. La Unidad de Transparencia, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+X. La Defensoría Pública Electoral para la Protección de los Derechos Político Electorales del Estado de Quintana Roo.
 
 ###### Artículo 208.
 
@@ -4237,9 +4253,213 @@ La información administrativa que rindan los servidores públicos del Tribunal 
 
 Dada la íntima vinculación del deber de informar con el escrutinio que debe permear todo el ejercicio de recursos públicos, la rendición de cuentas es integral y por ello, comprende tanto el despliegue de recursos económicos y materiales que se da en función del ejercicio de sus atribuciones y competencias como respecto de todas aquellas actividades que se realizan en el contexto público.
 
-### CAPÍTULO SEXTO. DE LAS RELACIONES LABORALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS CONTROVERSIAS LABORALES
+### CAPÍTULO SEXTO
+
+De la Defensoría Pública Electoral para la Protección de los Derechos Político Electorales.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 260 Bis.
+
+El Tribunal contará con una Defensoría Pública Electoral para la Protección de los Derechos Político Electorales, con autonomía técnica y operativa, cuya finalidad es brindar de manera gratuita a la ciudadanía, los servicios de asesoría y defensa de sus derechos político electorales a los que se refiere la presente ley, así como las demás disposiciones aplicables, incluyendo los relacionados a los procesos de participación ciudadana previstos en la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 260 Ter.
+
+La Defensoría tiene por objeto ser una instancia accesible para el trámite, seguimiento y conclusión de los procedimientos previstos en la presente Ley, así como las demás disposiciones aplicables en materia electoral, incluyendo las cuestiones a las que se refiere la Ley de Participación Ciudadana del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 260 Quater.
+
+Los servicios de la Defensoría, sólo se brindarán a la ciudadanía en general, mas no a los partidos políticos y sus representantes, siempre y cuando sean de la competencia del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 260 Quinquies.
+
+Los servicios de la Defensoría deberán prestarse bajo los principios de legalidad, certeza, objetividad, máxima publicidad, austeridad, probidad, honestidad, honradez, gratuidad, independencia, lealtad, objetividad, racionalidad, imparcialidad, independencia, rendición de cuentas y transparencia.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 260 Sexties. Los servicios de la Defensoría se prestarán, cuando medie solicitud expresa de la parte interesada, facultándose expresamente, al Instituto para el Desarrollo del Pueblo Maya y las Comunidades Indígenas del Estado de Quintana Roo, para representar a las personas pertenecientes a los pueblos y comunidades indígenas, en los términos dispuestos por la fracción XII del artículo 59-C de la Ley de Derechos, Cultura y Organización Indígena del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 260 Septies.
+
+La Defensoría se integrará por el personal siguiente:
+
+I.- Una persona titular;
+
+II.- Por lo menos una persona defensora; y,
+
+III.- El personal de apoyo necesario para el cumplimiento de sus atribuciones de conformidad con el presupuesto autorizado.
+
+El nombramiento de la persona titular y de quienes integren la Defensoría se realizará en apego al principio de paridad de género.
+
+Durante los procesos electorales, la Defensoría podrá contar con personal adicional, en los términos a los que se refiere el artículo 208 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 260 Octies.
+
+Para ser titular de la Defensoría deberán reunirse los siguientes requisitos:
+
+I.- Contar con ciudadanía mexicana y estar en pleno ejercicio de sus derechos políticos y civiles;
+
+II.- Tener cuando menos treinta años cumplidos al día de su designación;
+
+III.- Ser nativo de la entidad o contar con una residencia efectiva de por lo menos dos años anteriores a su designación, salvo el caso de ausencia por servicio público, educativo o de investigación por un tiempo menor de seis meses;
+
+IV.- Contar con título y cédula profesional de Licenciatura en Derecho, con experiencia mínima comprobable de cinco años en área afín al derecho electoral y de los derechos humanos;
+
+V.- Gozar de buena reputación y no haber sido condenado con sentencia firme por delito grave que amerite pena de prisión mayor a 3 años;
+
+VI.- No ser militante de algún partido político, ni haber desempeñado el cargo de Presidencia o Dirección en algún Comité Ejecutivo Nacional, Estatal, Distrital o Municipal, de un partido político o agrupación política, o en algún órgano de dirección, mando o representación reconocido en los sistemas normativos internos, en los tres años inmediatos anteriores a la designación;
+
+VII.- No haber ocupado un cargo de elección popular, ni haber sido registrado como candidata o candidato para ello, en los últimos cuatro años; y,
+
+VIII.- No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, por resolución firme de la autoridad competente;
+
+La persona titular de la Defensoría será designada mediante el voto de la mayoría de quienes integran el Pleno del Tribunal Electoral del Estado de Quintana Roo y durará en su encargo cuatro años, con la posibilidad de prorrogarse en igual tiempo por una sola ocasión.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 260 Nonies.
+
+La Defensoría deberá actuar con la máxima diligencia, esmero y cuidado, a efecto de salvaguardar los derechos político electorales de la ciudadanía, guardando la debida reserva de la información y de los datos personales que se conozcan con motivo de la defensa o asesoría electoral que presten.
+
+Cuando se atienda la protección y defensa de los derechos de los pueblos y comunidades indígenas, la Defensoría deberá brindar, de forma gratuita, la asistencia de un intérprete o traductor, sin menoscabo de dar vista al Instituto para el Desarrollo del Pueblo Maya y las Comunidades Indígenas del Estado de Quintana Roo, para todos los efectos legales que correspondan, de conformidad a lo establecido en la fracción XII del artículo 59-C de la Ley de Derechos, Cultura y Organización Indígena del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 260 Decies.
+
+Son atribuciones de la persona titular de la Defensoría:
+
+I.- Diseñar e implementar, el programa anual de difusión sobre los derechos político electorales de los ciudadanos en el Estado de Quintana Roo y de los servicios que presta, apoyándose de las áreas respectivas del Tribunal Electoral para tal efecto;
+
+II.- Administrar, coordinar, vigilar y dar seguimiento a los asuntos y servicios que presta la Defensoría;
+
+III.- Emitir dictámenes o acuerdos fundados y motivados en los que se justifique la prestación o no de los servicios solicitados;
+
+IV.- Organizar y participar en foros académicos, conferencias, seminarios y reuniones, con la finalidad de promover la difusión, el desarrollo y la defensa de los derechos político electorales de los ciudadanos;
+
+V.- Promover y gestionar la celebración de convenios con instituciones públicas y privadas, que puedan contribuir al correcto cumplimiento de las funciones de la Defensoría;
+
+VI.- Atender los requerimientos de las distintas áreas del Tribunal Electoral que se le formulen en el ámbito de su competencia;
+
+VII.- Rendir informes cuatrimestrales ante el Pleno del Tribunal Electoral sobre el funcionamiento, resultados y servicios que presta;
+
+VIII.- Gestionar y solicitar el apoyo de intérpretes, traductores y profesionales bilingües que contribuyan al cumplimiento de las funciones de la Defensoría y proponer la lista de peritos al Pleno del Tribunal Electoral;
+
+IX.- Organizar, controlar y dirigir los servicios que presta la Defensoría;
+
+X.- Proponer ante las instancias competentes la creación o modificación de acuerdos generales u otros instrumentos normativos relacionados con las atribuciones de la Defensoría, y
+
+XI.- Las demás que establezca el reglamento interior de la Defensoría.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 260 Undecies. Para ser Defensora o Defensor se deberán cumplir con los mismos requisitos establecidos para el titular, salvo lo relativo a que deberán contar con 25 años de edad y 3 años de experiencia, y tendrán las funciones siguientes:
+
+I.- Desahogar las consultas que le sean formuladas, orientando sobre la naturaleza, contenido y los alcances de sus derechos político electorales, así como en lo relativo a los procesos de participación ciudadana;
+
+II.- Representar y asesorar a quien lo solicite, velando por la protección de sus intereses en los procesos jurisdiccionales que se tramiten;
+
+III.- Presentar, promover e interponer ante el Tribunal Electoral los actos, promociones, medios de impugnación y recursos necesarios para defender y salvaguardar los derechos político electorales, así como los relativos a los procesos de participación ciudadana;
+
+IV.- Requerir a sus representados o asesorados y allegarse de todos los documentos y elementos necesarios que se consideren indispensables para ejercer debidamente sus atribuciones y defender eficazmente los derechos político electorales, así como los relativos a los procesos de participación ciudadana;
+
+V.- Vigilar la tramitación de los procesos en que intervengan, e informar periódicamente a sus representados o asesorados del estado procesal que guarden los mismos;
+
+VI.- Llevar a cabo un registro y formar un expediente de control de todos los procedimientos o asuntos en los que intervengan;
+
+VII.- Procurar en cualquier tiempo, la conciliación de intereses ante las partes en los asuntos que asesoren o representen, atendiendo el interés de las personas que represente o asesore; y,
+
+VIII.- Las demás que se deriven de la naturaleza de sus atribuciones, de las disposiciones aplicables y las que le instruya la persona titular de la Defensoría.
+
+Para la designación de las personas defensoras, distintas a la que se refiere el último párrafo del artículo 260 septies de la presente Ley, el Pleno del Tribunal Electoral, deberá realizar una convocatoria pública abierta, en los términos que disponga el reglamento de la presente Ley.
+
+De igual forma, el Pleno del Tribunal Electoral, podrá remover a las personas defensoras, en caso de así considerarlo conducente, o a solicitud fundada de la persona titular de la Defensoría, por las mismas razones contempladas por el artículo 260 octies de la presente Ley, así como por el incumplimiento de las obligaciones contempladas por el presente numeral, en los términos que disponga el reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 260 Duodecies. La Defensoría se abstendrá de intervenir en los supuestos siguientes:
+
+I.- Cuando los servicios se estén prestando en forma gratuita por institución pública o privada distinta a la Defensoría;
+
+II.- Cuando los servicios sean solicitados por persona que tenga el carácter de autoridad;
+
+III.- Cuando técnica y procesalmente resulte inviable la prestación de los servicios;
+
+IV.- Cuando la defensa o asesoría no verse sobre derechos político electorales, o relativos a procedimientos de participación ciudadana;
+
+V.- Cuando los asuntos no sean competencia del Tribunal Electoral; y,
+
+VI.- Cuando los servicios ya se estén prestando a otras personas que tengan intereses contrarios a la persona peticionaria en el mismo asunto.
+
+La abstención de actuar de la Defensoría deberá sustentarse plenamente en un dictamen o acuerdo fundado y motivado, propuesto por la Defensora o el Defensor correspondiente y aprobado por la persona titular de la Defensoría, lo cual se hará del conocimiento del Pleno del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 260 Terdecies. Los servicios de la Defensoría dejarán de prestarse:
+
+I.- A petición expresa de la persona representada en el sentido de que no tienen interés en que se siga prestando el servicio de que se trate;
+
+II.- Cuando se incurra en actos de violencia, amenaza o injuria en contra de la Defensoría o las personas servidores públicas pertenecientes a la misma;
+
+III.- Cuando se incurra dolosamente en falsedad de datos proporcionados, y
+
+IV.- Por causa grave debidamente justificada, previo derecho de audiencia, a fin de que alegue lo que a su derecho convenga.
+
+En cualquiera de los supuestos anteriores, la persona titular de la Defensoría, así como las personas Defensoras no serán sujetas de ninguna clase de responsabilidad con motivo de la no continuidad en la prestación de los servicios.
+
+La actualización de alguna de las hipótesis mencionadas en el presente artículo deberá acreditarse plenamente y ser aprobada por la persona titular de la Defensoría, debiendo informar oportunamente al pleno del Tribunal Electoral en cada caso.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 260 Quaterdecies. A la persona titular de la Defensoría, así como las y los Defensores, les está prohibido:
+
+I.- Recibir contraprestación alguna por los servicios propios de la Defensoría;
+
+II.- El ejercicio particular de la profesión de abogado, salvo de que se trate de causa propia, la de su cónyuge o su concubina o concubino, así como parientes consanguíneos en línea recta sin limitación de grado y colaterales hasta el cuarto grado, por afinidad o civil;
+
+III.- Desempeñar otro empleo, cargo o comisión remunerados en alguno de los tres órdenes de gobierno, salvo el desempeño de actividades docentes y de investigación;
+
+IV.- Conocer o tramitar asuntos en materia de defensa o asesoría electorales cuando estén impedidos para ello;
+
+V.- Actuar o ejercer cualquier otra actividad cuando ésta sea incompatible con sus funciones al implicar conflicto de intereses, y
+
+VI.- Las demás que deriven de la naturaleza de sus atribuciones o de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 260 Quindecies. Las personas defensoras tendrán las facultades siguientes:
+
+I. Apoyar a la persona titular de la Defensoría en el ejercicio de sus facultades;
+
+II.- Atender con respeto a las personas representadas y asesoradas;
+
+III.- Elaborar dictámenes fundados y motivados que justifiquen la prestación o no de los servicios;
+
+IV.- Evitar en todo momento la indefensión de sus personas representadas y la desinformación de sus personas asesoradas;
+
+V.- Llevar a cabo un registro y formar un expediente de control de todos los procedimientos o asuntos en los que intervengan, desde que se le turnen hasta que concluya su intervención, conforme a los lineamientos que sobre el particular se establezcan en el reglamento correspondiente;
+
+VI.- Presentar, promover e interponer ante el Tribunal Electoral los actos, promociones, medios de impugnación y recursos necesarios para defender y salvaguardar los derechos político electorales de las personas asesoradas o representadas, incluyendo las relativas a los procedimientos de participación ciudadana;
+
+VII.- Requerir y allegarse de todos los documentos y elementos necesarios para ejercer debidamente sus atribuciones y defender eficazmente los derechos político electorales de las personas representadas o asesoradas, incluyendo las cuestiones relativas a los procesos de participación ciudadana;
+
+VIII.- Vigilar el respeto a los derechos humanos de las personas representadas y asesoradas, y
+
+IX.- Las demás que se deriven de la naturaleza de sus atribuciones, de las disposiciones aplicables y las que le instruya la persona titular de la Defensoría.
+
+### CAPÍTULO SÉPTIMO. DE LAS RELACIONES LABORALES
 
 ###### Artículo 261.
 
@@ -4255,9 +4475,7 @@ En el Reglamento Interno del Tribunal Electoral, se regularán las relaciones la
 
 La designación de las personas titulares de las Unidades y del personal jurídico se realizará con apego a los principios de transparencia, paridad y profesionalismo que deben prevalecer en los órganos jurisdiccionales encargados de la impartición de justicia en la materia electoral, ponderando los mejores perfiles y experiencia en la materia.
 
-### CAPÍTULO ÚNICO. DE LAS ETAPAS DEL PROCESO ELECTORAL
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+### CAPÍTULO OCTAVO. DE LAS CONTROVERSIAS LABORALES
 
 ###### Artículo 264.
 
@@ -4267,7 +4485,7 @@ El órgano local en materia laboral será competente para recepcionar las demand
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-### CAPÍTULO PRIMERO. DE LAS PRECAMPAÑAS ELECTORALES
+### CAPÍTULO ÚNICO. DE LAS ETAPAS DEL PROCESO ELECTORAL
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -4295,9 +4513,9 @@ La etapa de resultados y declaración de validez de las elecciones, inicia con l
 
 ## TÍTULO SEGUNDO. DE LOS ACTOS PREVIOS A LA ELECCIÓN
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE REGISTRO DE LAS PERSONAS CANDIDATAS
+### CAPÍTULO PRIMERO. DE LAS PRECAMPAÑAS ELECTORALES
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 267.
 
@@ -4383,9 +4601,9 @@ Los partidos políticos, precandidatos y simpatizantes están obligados a retira
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-### CAPÍTULO TERCERO. DE LA CAMPAÑA ELECTORAL
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE REGISTRO DE LAS PERSONAS CANDIDATAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 274.
 
@@ -4553,7 +4771,9 @@ En caso de sustitución o renuncia, deberá presentarse la documentación que ac
 
 Para efectos de la renuncia de candidaturas, se requerirá de la ratificación del candidato en un término no mayor a veinticuatro horas, para ello el partido político interesado deberá proporcionar el domicilio del candidato donde pueda ser notificado personalmente; en caso de fenecer el término aludido sin que se lleve a cabo la ratificación, se entenderá que el candidato renuncia a la misma. El procedimiento referido con antelación, se hubiere presentado personalmente por el propio candidato en la Oficialía Electoral del Instituto Estatal.
 
-### CAPÍTULO CUARTO. DE LOS DEBATES
+### CAPÍTULO TERCERO. DE LA CAMPAÑA ELECTORAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 285.
 
@@ -4719,7 +4939,7 @@ A más tardar en el mes de septiembre del año previo a la elección, el Consejo
 
 Los gastos que realicen los partidos políticos, las coaliciones, candidaturas comunes y los candidatos independientes en actividades de campaña, no podrán rebasar ese tope en cada una de las elecciones de Gobernador, diputados y miembros de los ayuntamientos, respectivamente.
 
-### CAPÍTULO QUINTO. DE LAS BOLETAS ELECTORALES
+### CAPÍTULO CUARTO. DE LOS DEBATES
 
 ###### Artículo 297.
 
@@ -4751,7 +4971,7 @@ V. Que todo aquel debate público que no sea realizado por el Instituto Estatal,
 
 La transmisión de los debates por los medios de comunicación será gratuita y se llevará a cabo sin alterar los contenidos. La no asistencia de uno o más de los candidatos invitados a estos debates no será causa para la no realización del mismo.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO QUINTO. DE LAS BOLETAS ELECTORALES
 
 ###### Artículo 299.
 
@@ -4855,7 +5075,7 @@ En la fachada del inmueble en que se ubique la casilla y dentro de los cincuenta
 
 ## TÍTULO TERCERO. DE LA JORNADA ELECTORAL
 
-### CAPÍTULO SEGUNDO. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 305.
 
@@ -4923,7 +5143,7 @@ Los notarios públicos en ejercicio mantendrán abiertas sus oficinas el día de
 
 Para estos efectos, la Dirección General de Notarias del Gobierno del Estado, publicará cinco días antes de la fecha en que se celebre la jornada electoral, los nombres de los notarios y domicilios de sus oficinas en los periódicos de mayor circulación en el Estado.
 
-### CAPÍTULO TERCERO. DE LA VOTACIÓN
+### CAPÍTULO SEGUNDO. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
 
 ###### Artículo 314.
 
@@ -5005,7 +5225,7 @@ V. El Consejo Distrital o Municipal así lo disponga por causa de fuerza mayor o
 
 En caso del cambio de la ubicación de la casilla ésta deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos. Se hará constar en el acta correspondiente los motivos del cambio, así como el nombre de las personas que intervinieron en él.
 
-### CAPÍTULO CUARTO. DEL ESCRUTINIO Y CÓMPUTO EN LAS CASILLAS
+### CAPÍTULO TERCERO. DE LA VOTACIÓN
 
 ###### Artículo 321.
 
@@ -5121,7 +5341,7 @@ Acto seguido, el secretario llenará el apartado correspondiente al cierre de vo
 
 En todo caso, el apartado correspondiente al cierre de votación contendrá la hora de cierre de la votación, y la causa por la que se cerró antes o después de las 18:00 horas.
 
-### CAPÍTULO QUINTO. DE LA CLAUSURA DE LAS CASILLAS Y DE LA REMISIÓN DEL EXPEDIENTE
+### CAPÍTULO CUARTO. DEL ESCRUTINIO Y CÓMPUTO EN LAS CASILLAS
 
 ###### Artículo 333.
 
@@ -5285,7 +5505,7 @@ El presidente o Secretario de la mesa directiva de casilla, entregará a los rep
 
 Cumplidas las acciones a que se refiere el artículo anterior, los presidentes de las mesas directivas de casilla, fijarán, en lugar visible en el exterior de las mismas, avisos con los resultados de la elección o, en su caso, de cada una de las elecciones, los que serán firmados por el presidente y los representantes de los partidos políticos y de los candidatos independientes que así deseen hacerlo.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+### CAPÍTULO QUINTO. DE LA CLAUSURA DE LAS CASILLAS Y DE LA REMISIÓN DEL EXPEDIENTE
 
 ###### Artículo 346.
 
@@ -5323,7 +5543,7 @@ El Consejo Municipal y Distrital de que se trate, hará constar en el acta circu
 
 ## TÍTULO CUARTO. DE LOS RESULTADOS Y DECLARACIÓN DE VALIDEZ DE LAS ELECCIONES
 
-### CAPÍTULO SEGUNDO. DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 352.
 
@@ -5351,7 +5571,7 @@ II. Votación válida emitida: la que resulte de restar a la votación total emi
 
 III. Votación efectiva: Es la que resulta de deducir de la votación total emitida, los votos nulos, los votos de los candidatos independientes, los votos de los candidatos no registrados, los votos de aquellos partidos que no hayan alcanzado el 3% de la votación válida emitida, y en su caso, los votos de aquellos partidos que no tengan derecho a la asignación por el principio de representación proporcional.
 
-### CAPÍTULO TERCERO. DE LOS CÓMPUTOS DISTRITALES
+### CAPÍTULO SEGUNDO. DEL PROGRAMA DE RESULTADOS ELECTORALES PRELIMINARES
 
 ###### Artículo 355.
 
@@ -5363,7 +5583,7 @@ El Instituto Estatal se sujetará a las reglas, lineamientos y criterios que en 
 
 El objetivo del programa de resultados electorales preliminares será el informar oportunamente bajo los principios de seguridad, transparencia, confiabilidad, credibilidad e integridad de los resultados en la información en todas sus fases al Instituto Estatal, los partidos políticos, coaliciones, candidaturas comunes, candidatos, medios de comunicación y a la ciudadanía en general.
 
-### CAPÍTULO CUARTO. DE LOS CÓMPUTOS MUNICIPALES
+### CAPÍTULO TERCERO. DE LOS CÓMPUTOS DISTRITALES
 
 ###### Artículo 356.
 
@@ -5441,7 +5661,7 @@ IV. Se hará constar en el acta circunstanciada de la sesión el resultado del c
 
 V. Fijará en el exterior de su local los resultados de la elección, con lo cual se dará por concluida la sesión.
 
-### CAPÍTULO QUINTO. DISPOSICIONES COMUNES A LOS CÓMPUTOS
+### CAPÍTULO CUARTO. DE LOS CÓMPUTOS MUNICIPALES
 
 ###### Artículo 360.
 
@@ -5489,7 +5709,7 @@ VI. Realizará la declaración de validez y la entrega de la constancia de mayor
 
 VII. Fijará en el exterior de su local los resultados de la elección, con lo cual se dará por concluida la sesión.
 
-### CAPÍTULO SEXTO. DEL CÓMPUTO Y DE LA ASIGNACIÓN DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL
+### CAPÍTULO QUINTO. DISPOSICIONES COMUNES A LOS CÓMPUTOS
 
 ###### Artículo 362.
 
@@ -5561,7 +5781,7 @@ I. Remitir al Tribunal Electoral, los escritos mediante los cuales se hayan prom
 
 II. Enviar copia certificada del expediente formado en términos de la fracción anterior, a la Junta General del Instituto Estatal.
 
-### CAPÍTULO SÉPTIMO. DE LA ASIGNACIÓN DE MIEMBROS DE LOS AYUNTAMIENTOS DE REPRESENTACIÓN PROPORCIONAL
+### CAPÍTULO SEXTO. DEL CÓMPUTO Y DE LA ASIGNACIÓN DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL
 
 ###### Artículo 373.
 
@@ -5653,7 +5873,7 @@ Tratándose de la inelegibilidad, falta temporal o definitiva de los ciudadanos 
 
 En caso de falta de quienes provinieron de la lista a que se refiere la fracción II del artículo 374, por quien sea su suplente por el principio de mayoría relativa.
 
-### CAPÍTULO OCTAVO. DEL CÓMPUTO Y CALIFICACIÓN DE LA ELECCIÓN DE GOBERNADOR
+### CAPÍTULO SÉPTIMO. DE LA ASIGNACIÓN DE MIEMBROS DE LOS AYUNTAMIENTOS DE REPRESENTACIÓN PROPORCIONAL
 
 ###### Artículo 380.
 
@@ -5717,7 +5937,7 @@ En el caso de inelegibilidad de candidatos propietarios, tomarán su lugar los s
 
 Una vez aplicada la fórmula electoral y concluida las asignaciones de las regidurías correspondientes, el Consejero Presidente del Consejo General expedirá a cada partido político, coalición, candidatura común o candidaturas independientes las constancias de asignación que les correspondieran, verificando en cada caso que los candidatos cumplen con los requisitos de elegibilidad previstos en la Constitución Estatal y en esta Ley.
 
-### CAPÍTULO NOVENO. DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO OCTAVO. DEL CÓMPUTO Y CALIFICACIÓN DE LA ELECCIÓN DE GOBERNADOR
 
 ###### Artículo 387.
 
@@ -5753,9 +5973,7 @@ El Pleno del Consejo realizará la suma de los resultados consignados en las act
 
 Concluido el cómputo, se emitirá la declaración de validez de la elección y se realizará la declaración de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos; el Consejero Presidente del Consejo General le expedirá la constancia de mayoría y validez a quien hubiese obtenido el triunfo.
 
-### CAPÍTULO PRIMERO. DE LOS SUJETOS
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+### CAPÍTULO NOVENO. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 392.
 
@@ -5779,7 +5997,9 @@ Una vez que haya sido declarada firme la elección de Gobernador para todos los 
 
 ## TÍTULO PRIMERO. DE LOS SUJETOS, CONDUCTAS SANCIONABLES Y SANCIONES
 
-### CAPÍTULO SEGUNDO. DE LA (SIC) CONDUCTAS SANCIONABLES
+### CAPÍTULO PRIMERO. DE LOS SUJETOS
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 394.
 
@@ -5831,7 +6051,7 @@ e) Obstaculizar la precampaña o campaña política de las mujeres, impidiendo q
 
 f) Cualesquiera otra acción u omisión que lesione o dañe la dignidad, integridad o libertad de las mujeres en el ejercicio de sus derechos políticos y electorales.
 
-### CAPÍTULO TERCERO. DE LAS SANCIONES
+### CAPÍTULO SEGUNDO. DE LA (SIC) CONDUCTAS SANCIONABLES
 
 ###### Artículo 395.
 
@@ -6045,7 +6265,7 @@ La Presidencia del Consejo General en el ejercicio de sus atribuciones, informar
 
 Constituyen infracciones a la presente Ley, los extranjeros que realicen las conductas que violen lo dispuesto por el artículo 33 de la Constitución Federal y las leyes aplicables. En este supuesto, se procederá a informar de inmediato a la Secretaría de Gobernación, para los efectos previstos en la ley aplicable.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+### CAPÍTULO TERCERO. DE LAS SANCIONES
 
 ###### Artículo 406.
 
@@ -6177,7 +6397,7 @@ Los partidos políticos serán sancionados por el Tribunal con multa de ciento c
 
 ## TÍTULO SEGUNDO. DEL PROCEDIMIENTO SANCIONADOR
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO ORDINARIO SANCIONADOR
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 410.
 
@@ -6285,9 +6505,7 @@ Para la resolución expedita de las quejas o denuncias y con el objeto de determ
 
 El Instituto Electoral y el Tribunal Electoral, en el ámbito de sus respectivas competencias, determinarán medidas de protección, medidas cautelares y medidas de reparación que correspondan cuando conozcan de hechos probablemente constitutivos de violencia política contra las mujeres en razón de género. Para tal efecto se auxiliarán de las autoridades competentes para ejecutar las medidas decretadas.
 
-### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO ORDINARIO SANCIONADOR
 
 ###### Artículo 415.
 
@@ -6433,9 +6651,9 @@ El Consejero Electoral que disienta de la mayoría podrá formular voto particul
 
 En el desahogo de los puntos del orden del día en que el Consejo General deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, éstos se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
 
-### CAPÍTULO CUARTO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 425.
 
@@ -6560,6 +6778,10 @@ I. Declarar la inexistencia de las infracciones objeto de la queja o denuncia y,
 II. Declarar la existencia de las infracciones objeto de la queja o denuncia e imponer las sanciones y las medidas de reparación integral que resulten procedentes en términos de lo dispuesto en este ordenamiento.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPÍTULO CUARTO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR EN MATERIA DE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
 ###### Artículo 432.
 
@@ -6858,3 +7080,19 @@ P.O. 8 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día en el que inicie la vigencia del Decreto por el que se reforman el párrafo sexto del artículo 94 y el párrafo tercero del apartado B del artículo 96 y se adicionan los párrafos cuarto y quinto al artículo 51 BIS, todos de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en materia de comparecencia de los titulares de los órganos públicos autónomos a la Legislatura del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 269, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente decreto, deberán ser solventadas por el Tribunal Electoral de Quintana Roo, con cargo a los recursos financieros que le hayan sido asignados, en el ejercicio fiscal del que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que le sean autorizadas, cuando así resulte conducente.
+
+La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
+
+La remuneración de la persona titular de la Defensoría será homologada, por lo menos, a la que perciban las personas secretarías técnicas, mientras que, la remuneración que perciban las personas defensoras públicas será homologada, por lo menos, a la que perciba el personal de Actuaría.
+
+TERCERO. El Tribunal Electoral de Quintana Roo, dentro de los 90 días naturales posteriores a la entrada en vigor del presente decreto, deberá adecuar sus disposiciones normativas internas, en los términos que corresponda, a efecto de dar cumplimiento a lo dispuesto en el mismo.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
