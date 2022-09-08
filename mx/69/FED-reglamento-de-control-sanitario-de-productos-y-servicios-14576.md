@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-control-sanitario-de-productos-y-servicios-14576"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "2016-02-12"
+last_updated: "2022-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,5536 +19,6754 @@ issue_date: "1999-07-29"
 ---
 # REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
 
-REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE FEBRERO DE 2016.
+CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de agosto de 1999.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2017.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
-ERNESTO ZEDILLO PONCE DE LEÓN, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos; con fundamento en lo dispuesto por los artículos 39 de la Ley Orgánica de la Administración Pública Federal, y 60, 132, 194, fracción I, 197, 198, 200 bis, 205, 210, 212, 213, 215, 217, 269, 270, 272 a 276, 283, 286 bis, 287 y 422 de la Ley General de Salud, he tenido a bien expedir el siguiente:
+ARTURO MONTIEL ROJAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-## TÍTULO PRIMERO. Disposiciones generales
+DECRETO 165
 
-### Capítulo Único
+LA H. "LIII" LEGISLATURA DEL ESTADO DE MEXICO
 
-###### ARTÍCULO 1o.
+DECRETA:
 
-El presente ordenamiento tiene por objeto la regulación, control y fomento sanitario del proceso, importación y exportación, así como de las actividades, servicios y establecimientos, relacionados con los productos siguientes:
+CODIGO PENAL DEL ESTADO DE MEXICO
 
-I. Leche, sus productos y derivados;
+# LIBRO PRIMERO
 
-II. Huevo y sus productos;
+## TITULO PRIMERO. APLICACION DE LA LEY PENAL
 
-III. Carne y sus productos;
+### CAPITULO I. VALIDEZ ESPACIAL
 
-IV. Los de la pesca y derivados;
+###### Artículo 1.
 
-V. Frutas, hortalizas y sus derivados;
+Este código se aplicará en el Estado de México, en los casos que sean de la competencia de sus tribunales:
 
-VI. Bebidas no alcohólicas, productos para prepararlas y congelados de las mismas;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-VII. Cereales, leguminosas, sus productos y botanas;
+I. Por los delitos cuya ejecución se inicie o consume en el territorio del estado;
 
-VIII. Aceites y grasas comestibles;
+II. Por los delitos cuya ejecución se inicie fuera del territorio del estado, si se consuman dentro del mismo; y
 
-IX. Cacao, café, té y sus derivados;
+III. Por los delitos permanentes o continuados, cuando un momento o acto cualquiera de ejecución, se realice dentro del territorio del estado.
 
-X. Alimentos preparados;
+En los casos comprendidos en las fracciones II y III de este artículo, se aplicará este código cuando el inculpado se encuentre en el territorio del mismo o no se haya ejercitado en su contra acción penal en otra entidad federativa, cuyos tribunales sean competentes, por disposiciones análogas a las de este código, para conocer del delito.
 
-XI. Alimentos preparados listos para su consumo;
+### CAPITULO II. VALIDEZ TEMPORAL
 
-XII. Alimentos para lactantes y niños de corta edad;
+###### Artículo 2.
 
-XIII. Condimentos y aderezos;
+La ley penal aplicable es la vigente en el tiempo de realización del delito.
 
-XIV. Edulcorantes, sus derivados y productos de confitería;
+Si después de cometido el delito y antes de que cause ejecutoria la sentencia que deba pronunciarse, entraran en vigor una o más leyes que disminuyan la pena o la substituyan por otra que sea menos grave, se aplicará la nueva ley y, en su caso, el órgano jurisdiccional concederá los substitutivos penales que legalmente procedieren.
 
-XV. Alimentos y bebidas no alcohólicas con modificaciones en su composición;
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-XVI. Los biotecnológicos;
+Si pronunciada la sentencia ejecutoria se dictare una ley que dejando subsistente la pena señalada para el delito, disminuya su duración o cambie su naturaleza, se individualizará conforme a la nueva ley.
 
-XVII. Suplementos alimenticios;
+Sin embargo, la ley abrogada deberá continuar aplicándose por los hechos ejecutados durante su vigencia, a menos que la nueva ley sea más favorable.
 
-XVIII. Bebidas alcohólicas;
+### CAPITULO III. VALIDEZ PERSONAL
 
-XIX. Tabaco;
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-XX. Los de perfumería, belleza, aseo y repelentes de insectos;
+###### Artículo 3.
 
-XXI. Aditivos, y
+Este Código se aplicará a nacionales o extranjeros que hayan cumplido 18 años de edad. Respecto de los segundos, se estará a lo pactado en los tratados internacionales. Los que tengan entre 12 años cumplidos y menos de 18 años de edad quedan sujetos a la legislación especializada.
 
-XXII. Los demás que, por su naturaleza y características, sean considerados como alimentos, bebidas, productos de perfumería, belleza o aseo o tabaco, así como las sustancias asociadas con su proceso.
+### CAPITULO IV. LEYES ESPECIALES Y CONCURSO APARENTE DE NORMAS
 
-Asimismo, son materia del presente Reglamento el envase, envasado e irradiación de los productos antes precisados.
+> <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+###### Artículo 4.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+Cuando se comete un delito previsto en una ley general o local especial, se aplicarán éstas y, en lo conducente, las disposiciones del presente Código.
 
-De igual modo, es objeto del presente ordenamiento, la regulación, control y fomento sanitario de la prestación de los servicios y prácticas de tatuajes, micropigmentaciones y perforaciones.
+###### Artículo 5.
 
-Los productos, establecimientos, actividades y servicios regulados en el presente Reglamento se refieren a los de uso y consumo humano, excepto cuando expresamente se refiera a otros.
+Cuando una misma materia esté regulada por diversas disposiciones penales, la especial prevalecerá sobre la general, la de mayor entidad absorberá a la de menor entidad, la del hecho posterior de agotamiento cederá ante la del hecho anterior, y la subsidiaria se aplicará cuando no sea posible aplicar la principal.
 
-###### ARTÍCULO 2o.
+## TITULO SEGUNDO. DELITO Y RESPONSABILIDAD
 
-Para efectos del presente Reglamento se entiende por:
+### CAPITULO I. EL DELITO Y SUS CLASES
 
-I. Anomalía sanitaria, a la irregularidad en relación con las especificaciones de carácter sanitario establecidas en este Reglamento y las normas aplicables y que representan un riesgo para la salud;
+###### Artículo 6.
 
-II. Apéndice, al documento que forma parte del presente Reglamento y que contiene especificaciones que deberán cumplir los productos, actividades, servicios y establecimientos objeto de este ordenamiento;
+El delito es la conducta típica, antijurídica, culpable y punible.
 
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+###### Artículo 7.
 
-II Bis 1. Área frontal de exhibición, aquella superficie donde se encuentra, entre otra información, la denominación y la marca comercial del producto;
+Los delitos pueden ser realizados por acción y por omisión.
 
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+En los delitos de resultado material, también será atribuible el resultado típico producido al que omita impedirlo, si tenía el deber jurídico de evitarlo. En estos casos se estimará que el resultado es consecuencia de una conducta omisiva, cuando se acredite que el que omite impedirlo tenía el deber de actuar para ello, derivado de la ley, de un contrato o de su actuar precedente.
 
-II Bis 2. Bebidas saborizadas, a los productos elaborados por la disolución en agua para uso y consumo humano, de azúcares y/o edulcorantes, con independencia de que contengan otros ingredientes y aditivos, y que pueden estar o no carbonatados;
+###### Artículo 8.
 
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+Los delitos pueden ser:
 
-II Bis 3. Botanas, a los productos de: pasta de harinas, cereales, leguminosas, tubérculos, féculas, granos, frutas, frutos, semillas o leguminosas con o sin cáscara o cutícula, piel de cerdo, así como productos nixtamalizados; que pueden estar fritos, horneados, explotados, cubiertos, extruidos o tostados; adicionados o no con sal, con independencia de que contengan otros ingredientes y aditivos para alimentos;
+I. Dolosos;
 
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+El delito es doloso cuando se obra conociendo los elementos del tipo penal o previendo como posible el resultado típico queriendo o aceptando la realización del hecho descrito por la ley.
 
-II Bis 4. Chocolate, al producto homogéneo elaborado a partir de la mezcla de dos o más de los siguientes ingredientes: pasta de cacao, manteca de cacao, cocoa adicionado de azúcares u otros edulcorantes, con independencia de que se utilicen otros ingredientes, tales como productos lácteos y aditivos para alimentos;
+II. Culposos;
 
-III. Condición sanitaria, a la situación en que se encuentra un establecimiento, producto o servicio que ha sido determinada por la verificación sanitaria;
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Dependencias, a las dependencias de la Administración Pública Federal;
+El delito es culposo cuando se produce un resultado típico que pudo preverse o proveerse para evitarlo, en virtud de la violación a un deber de cuidado, que debía o podía observarse según las circunstancias y condiciones personales.
 
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+III. Instantáneos;
 
-IV Bis. Envase múltiple o colectivo, a cualquier empaque en el que se encuentren contenidos dos o más unidades de producto Preenvasado, iguales o diferentes, destinados para su venta al consumidor;
+Es instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos.
 
-V. Etiqueta, al marbete, rótulo, inscripción, marca, imagen gráfica u otra forma descriptiva que se haya escrito, impreso, estarcido, marcado, en relieve o en hueco, grabado, adherido, precintado o anexado al empaque o envase del producto;
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Ley, a la Ley General de Salud;
+Lo será con unidad de evento, cuando la conducta sea ejecutada en varias acciones típicas sucesivas de naturaleza patrimonial, siempre que los ofendidos sean distintos y la forma en que se afecte el bien jurídico tutelado lo permita. La unidad de evento excluye el concurso de delitos.
 
-VII. Lote, a la cantidad de un producto, elaborado en un mismo ciclo, integrado por unidades homogéneas;
+IV. Permanentes;
 
-VIII. Normas, a las normas oficiales mexicanas;
+Es permanente, cuando la consumación se prolonga en el tiempo.
 
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+V. Continuados.
 
-VIII Bis. Preenvasado, a la colocación de productos en un envase de cualquier naturaleza, en ausencia del consumidor, que permita que la cantidad de producto contenido en él no pueda ser alterada, a menos que el envase sea abierto o modificado perceptiblemente;
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-IX. Producto, a cualquiera de aquéllos a que se refiere el artículo 1o. de este Reglamento;
+Es continuado, cuando existe unidad de propósito delictivo, pluralidad de conductas e identidad de ofendido y se viola el mismo precepto legal.
 
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+### CAPITULO II. LOS DELITOS GRAVES
 
-IX Bis. Productos similares al chocolate, a los productos elaborados a partir de manteca de cacao en los que para su elaboración se ha sustituido total o parcialmente ésta por otras grasas vegetales comestibles o, en su caso, por sus fracciones hidrogenadas, y son elaborados bajo formatos o moldeados especiales cuya presentación, aspecto, sabor o consumo son susceptibles a ser confundidos con el Chocolate;
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
-X. Riesgo, a la probabilidad de que se desarrolle cualquier propiedad biológica, química o física que cause daño a la salud del consumidor;
+###### Artículo 9.
 
-> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2016)</small>
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo y tercero, fracciones I, II y III del artículo 229, el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI y XVII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refiere el artículo 308, en su fracción III, párrafos tercero y cuarto, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
-XI. Secretaría, a la Secretaría de Salud;
+### CAPITULO III. TENTATIVA DEL DELITO
 
-> <small>(ADICIONADA, D.O.F. 12 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-XI Bis. Sucedáneo de la leche materna o humana, a las fórmulas comercializadas presentadas como sustitutos parciales o totales de la leche materna o humana, y
+###### Artículo 10.
 
-XII. Tercero autorizado, a la persona autorizada por la Secretaría para emitir dictámenes respecto del cumplimiento de requisitos establecidos por la propia Secretaría o en las normas correspondientes o para realizar estudios, para efectos de trámites o autorizaciones sanitarias.
+Es punible la tentativa del delito y ésta lo es cuando la intención se exterioriza ejecutando la actividad que debería consumar el delito u omitiendo la que debería evitarlo, si por causas ajenas a la voluntad del agente, no hay consumación pero si pone en peligro el bien jurídico.
 
-###### ARTÍCULO 3o.
+Si la ejecución del delito quedare interrumpida por desistimiento propio y espontáneo del inculpado, sólo se castigará a éste con la pena señalada a los actos ejecutados que constituyan por sí mismos delitos.
 
-La Secretaría, en coordinación con las instituciones de investigación y de enseñanza superior, tanto públicas como privadas, promoverá el ejercicio de acciones tendientes a mejorar las condiciones sanitarias de los productos, de su proceso y los servicios a que se refiere el presente Reglamento.
+### CAPITULO IV. RESPONSABLES DE LOS DELITOS
 
-###### ARTÍCULO 4o.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-La Secretaría establecerá y actualizará en las normas, en términos de la ley de la materia, la clasificación, disposiciones o especificaciones sanitarias sobre los productos, servicios, actividades y establecimientos objeto de este Reglamento.
+###### Artículo 11.
 
-###### ARTÍCULO 5o.
+La responsabilidad penal en el hecho delictuoso se produce bajo las formas de autoría y participación:
 
-La Secretaría, en el marco del Sistema Nacional de Salud, llevará a cabo programas y campañas de control y fomento sanitario, e invitará a participar en éstas a la comunidad, productores, profesionales de la salud y prestadores de servicios.
+I. La autoría; y
 
-###### ARTÍCULO 6o.
+II. La participación.
 
-La acción popular a que se refiere el artículo 60 de la Ley, podrá ejercitarla cualquier persona, para lo cual deberá:
+Son autores:
 
-I. Denunciar ante la autoridad sanitaria los hechos, por escrito o de manera verbal;
+a) Los que conciben el hecho delictuoso;
 
-II. Señalar el hecho, acto u omisión que a su juicio represente un riesgo o provoque un daño a la salud de la población, y
+b) Los que ordenan su realización;
 
-III. Proporcionar los datos que permitan identificar y localizar la causa del riesgo o daño sanitario y, en su caso, a las personas involucradas.
+c) Los que lo ejecuten materialmente;
 
-Cuando la denuncia se haga de manera verbal, la autoridad sanitaria hará constar ésta por escrito, con base en las declaraciones del denunciante, quien deberá firmarla, a fin de proceder al trámite respectivo. En ningún caso se dará trámite a denuncia anónima.
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-La autoridad sanitaria informará al denunciante la atención que le dé a la denuncia.
+d) Los que con dominio del hecho intervengan en su realización; y
 
-(NOTA: EL 24 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD 12/2025, DECLARÓ LA INCONSTITUCIONALIDAD DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE ABRIL DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+e) Los que se aprovechen de otro que actúa sin determinación propia, conciencia o conocimiento del hecho.
 
-LOS RESULTADOS DE LA DENUNCIA Y LAS MEDIDAS QUE, EN SU CASO, APLIQUE LA SECRETARÍA ÚNICAMENTE SERÁN INFORMADAS POR REQUERIMIENTO DE AUTORIDAD JUDICIAL.
+Son partícipes:
 
-###### ARTÍCULO 7o.
+a) Los que instiguen a otros, mediante convencimiento, a intervenir en el hecho delictuoso;
 
-La aplicación del presente Reglamento corresponde a la Secretaría, así como a los gobiernos de las entidades federativas en sus respectivos ámbitos de competencia, de conformidad con los acuerdos de coordinación que, en su caso, se suscriban.
+b) Los que cooperen en forma previa o simultánea en la realización del hecho delictuoso, sin dominio del mismo; y
 
-### Capítulo I. Características y condiciones sanitarias
+c) Los que auxilien a quienes han intervenido en el hecho delictuoso, después de su consumación, por acuerdo anterior.
 
-###### ARTÍCULO 8o.
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
-Los productos y sustancias deberán sujetarse a las disposiciones de este Reglamento y a las normas correspondientes conforme a sus características.
+###### Artículo 11 Bis.
 
-###### ARTÍCULO 9o.
+Las personas jurídicas colectivas serán responsables penalmente de los delitos previstos en este Código, y en las leyes especiales cuando:
 
-La identificación de los productos para fines de aplicación del presente Reglamento, podrá atender a cualquiera de los siguientes criterios:
+I. Sean cometidos en su nombre, en su provecho, o exclusivo beneficio, a través de sus representantes, apoderados legales o administradores de hecho o de derecho.
 
-I. Denominaciones genérica y, en su caso, específica;
+II. Sean sometidas a la autoridad de los representantes, apoderados legales o administradores mencionados en la fracción anterior, que realicen un hecho que la ley señale como delito, por no haberse ejercido sobre ellas el debido control que corresponda al ámbito organizacional que deba atenderse, según las circunstancias del caso, y la conducta se realice con motivo de actividades sociales, por cuenta, provecho, o exclusivo beneficio de la persona jurídica colectiva.
 
-II. Descripción del producto;
+Se podrá ejercer la acción penal en contra de las personas jurídicas colectivas con excepción de las instituciones estatales, independientemente de la acción penal que pudiera ejercer contra las personas físicas involucradas en el delito cometido.
 
-III. Ingredientes básicos y opcionales, o
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
 
-IV. Características físicas, químicas y biológicas, en su caso.
+###### Artículo 11 Ter.
 
-### Capítulo II. Etiquetado
+En términos de la fracción V del artículo 422 del Código Nacional de Procedimientos Penales, cuando sea una consecuencia racional y proporcional a la conducta desplegada, se podrán imponer adicionalmente alguna o varias de las siguientes sanciones a las personas jurídicas colectivas:
 
-### Capítulo III. Transporte
+I. Suspensión de actividades, por un plazo de seis meses a seis años.
 
-## TÍTULO SEGUNDO. Productos
+II. Disolución, en caso de que su actividad sea preponderantemente ilícita.
 
-### Capítulo Único
+III. Prohibición de realizar por un plazo de seis meses a diez años, las actividades en cuyo ejercicio se haya cometido o participado en su comisión.
 
-### Capítulo I. Productos de la Leche
+IV. Remoción, que consiste en la sustitución de los administradores por uno designado por el juez, por un plazo de seis meses a seis años.
 
-### Capítulo II. Leche
+V. Intervención judicial para salvaguardar los derechos de los trabajadores, o de los acreedores en un plazo de seis meses a seis años.
 
-###### ARTÍCULO 10.
+VI. Clausura de locales y establecimientos, por un plazo de seis meses a seis años.
 
-Las denominaciones genérica y específica de los productos deberán corresponder a las características básicas de su composición, de acuerdo con las normas correspondientes.
+VII. Multa por el doble de la cantidad que por el delito cometido corresponda a la persona física que sea autor o partícipe.
 
-Cuando por su naturaleza, los productos carezcan de denominación genérica o específica, incluirán en la descripción del producto el nombre del ingrediente o ingredientes que los caractericen.
+VIII. Inhabilitación temporal, consistente en la suspensión de derechos para participar de manera directa o por interpósita persona en procedimientos de contratación, o celebrar contratos regulados por la Ley de Contratación Pública del Estado de México y Municipios relacionados con las mismas, por un plazo de seis meses a seis años.
 
-### Capítulo III. Ganado
+IX. Decomiso de los instrumentos, objetos o productos del delito.
 
-###### ARTÍCULO 11.
+X. La nulidad de operaciones ilícitas realizadas.
 
-Los productos y sustancias no deberán generar riesgos o daños a la salud, con excepción de aquéllos para los que la Ley establece condiciones especiales de control sanitario.
+La intervención decretada por autoridad judicial, podrá afectar a la totalidad de la persona jurídica colectiva o limitarse a alguna de sus instalaciones, secciones o unidades de negocio. Se determinará exactamente el alcance de la intervención, y quién se hará cargo de la misma, así como los plazos en que deberán realizarse los informes de seguimiento para el órgano judicial.
 
-Para efectos de lo dispuesto en el párrafo anterior, la Secretaría podrá analizar y emitir el dictamen correspondiente para cada producto, para lo cual podrá apoyarse en la opinión de expertos.
+La intervención judicial se podrá modificar o suspender en todo momento, previo informe del interventor y del Ministerio Público. El interventor tendrá derecho a acceder a todas las instalaciones y locales de la empresa o persona jurídica, así como a recibir cuanta información estime necesaria para el ejercicio de sus funciones. La legislación aplicable determinará los aspectos relacionados con las funciones del interventor y su retribución respectiva.
 
-El dictamen a que se refiere el párrafo anterior será sin perjuicio de que si la Secretaría tiene conocimiento posterior de que un producto representa riesgo para la salud podrá prohibir su elaboración, almacenamiento, importación, distribución o venta.
+La sanción impuesta a la persona jurídica colectiva de acuerdo a este Código y demás leyes aplicables, no extingue la responsabilidad civil en que pueda incurrir ésta.
 
-###### ARTÍCULO 12.
+###### Artículo 12.
 
-La Secretaría fijará las características que deberá reunir un producto para ser considerado como alimento, suplemento alimenticio, producto biotecnológico, de tratamiento cosmético o de cualquier otra clasificación, conforme a lo que establezcan la Ley, este Reglamento y las normas correspondientes.
+Los instigadores y los ordenadores son responsables de los delitos que se cometan con motivo de la instigación u orden, pero no de los demás que se ejecuten, a no ser que debieran haberlos previsto racionalmente.
 
-###### ARTÍCULO 13.
+###### Artículo 13.
 
-Para efectos de control sanitario de los productos y materias primas, la Secretaría, por escrito, podrá requerir a los interesados las especificaciones biológicas, químicas y físicas de aquéllos, así como las técnicas de carácter general del proceso, las cuales podrán ser corroboradas por la propia Secretaría, la que garantizará la confidencialidad de los datos.
+Las circunstancias modificativas o calificativas del delito aprovechan o perjudican a todos los inculpados que tuvieren conocimiento de ellas en el momento de su intervención, o debieran preverlas racionalmente.
 
-###### ARTÍCULO 14.
+Las circunstancias personales de alguno o algunos de los inculpados que sean modificativas o calificativas del delito, o constituyan un elemento de éste, aprovecharán o perjudicarán únicamente a aquellos en quienes concurran.
 
-Los alimentos y bebidas no alcohólicas que sean modificados en su composición, se sujetarán a las disposiciones de este Reglamento y a las normas que correspondan a sus nuevas características, en cuanto a denominación, composición, especificaciones y etiquetado.
+###### Artículo 14.
 
-### Capítulo IV. Ordeña
+Si varias personas convienen en ejecutar un delito determinado y alguna o algunas de ellas cometen un delito distinto, todas responderán de la comisión del nuevo delito siempre que concurran las circunstancias siguientes:
 
-###### ARTÍCULO 15.
+I. Que el nuevo delito sea una consecuencia necesaria del primeramente convenido o sirva de medio para cometerlo; y
 
-Las normas establecerán las especificaciones microbiológicas, toxicológicas o de riesgo a la salud de los productos, así como las técnicas sanitarias de producción para asegurar dichas especificaciones y los métodos de muestreo, prueba y análisis correspondientes.
+II. Que el nuevo delito debiera ser previsto racionalmente por los que convinieron en ejecutar el primero.
 
-###### ARTÍCULO 16.
+### CAPITULO V. CAUSAS EXCLUYENTES DEL DELITO Y DE LA RESPONSABILIDAD
 
-El agua que se utilice en la elaboración, mezclado o acondicionamiento de los productos deberá ser potable, salvo para aquellos casos en los que se establezca, en este Reglamento o en las normas correspondientes, que tenga que ser purificada, destilada o con otras características.
+###### Artículo 15.
 
-###### ARTÍCULO 17.
+Son causas que excluyen el delito y la responsabilidad penal:
 
-Los materiales, equipos, utensilios y envases que se empleen en la fabricación de los productos objeto de este Reglamento, no deberán contener sustancias tóxicas, y necesariamente serán inocuos y resistentes a la corrosión.
+I. La ausencia de conducta, cuando el hecho se realice sin la intervención de la voluntad del agente por una fuerza física exterior irresistible;
 
-### Capítulo V. Establecimientos que procesan leche
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 18.
+II. Cuando falte alguno de los elementos del hecho delictuoso de que se trate;
 
-Para efectos de este Reglamento las imitaciones serán los productos elaborados con ingredientes o procedimientos diversos a los usados en la producción de aquél que pretende imitar y cuyo aspecto sea semejante a este último.
+III. Las causas permisivas, como:
 
-### Capítulo Único
+a) Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
 
-###### ARTÍCULO 19.
+1. Que se trate de un delito perseguible por querella;
 
-Las imitaciones de alimentos o bebidas deberán cumplir con las disposiciones y especificaciones sanitarias y de etiquetado establecidas por este Reglamento y las demás disposiciones aplicables para aquéllos a los que imitan, a menos que los ingredientes que constituyen la imitación presenten características sanitarias diferentes.
+2. Que el titular del bien tenga capacidad de disponer libremente del mismo; y
 
-###### ARTÍCULO 20.
+3. Que el consentimiento sea expreso o tácito y sin que medie algún vicio de la voluntad.
 
-Los lotes de los productos se deberán identificar en relación con su fecha de proceso y conforme a los demás lineamientos establecidos en las normas correspondientes.
+b) Se repela una agresión real, actual o inminente y sin derecho en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa, suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
 
-###### ARTÍCULO 21.
+Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trata de penetrar o haya penetrado sin derecho al hogar del agente, al de su familia, o sus dependencias o a los de cualquier persona que tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos, respecto de los que exista la misma obligación; o lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión.
 
-No se podrán importar ni comercializar productos que presenten fecha de caducidad vencida. La Secretaría determinará el destino de los productos que se aseguren a través de un dictamen por escrito.
+c) Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo; y
 
-## TÍTULO TERCERO. Establecimientos
+d) La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho, y que este último no se realice con el sólo propósito de perjudicar a otro.
 
-###### ARTÍCULO 22.
+IV. Las causas de inculpabilidad:
 
-La composición y, en su caso, denominación de los productos objeto de este Reglamento deberá ajustarse a los ingredientes, aditivos, coadyuvantes de elaboración y plantas que, mediante Acuerdo, determine el Secretario de Salud como permitidas, restringidas o prohibidas.
+a) Al momento de realizar el hecho típico el agente padezca un trastorno mental transitorio que le impida comprender el carácter ilícito del hecho o conducirse de acuerdo con esa comprensión, a no ser que el agente hubiese provocado dolosamente o por culpa grave su propio trastorno. En este caso responderá por el hecho cometido.
 
-El Acuerdo a que se refiere el párrafo anterior, así como sus modificaciones deberán publicarse en el Diario Oficial de la Federación.
+b) Se realice la acción o la omisión bajo un error invencible:
 
-### Capítulo I. Productos cárnicos
+1. Sobre alguno de los elementos esenciales que integran el tipo penal;
 
-###### ARTÍCULO 23.
+2. Respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca el alcance de la ley, o porque crea que está justificada su conducta.
 
-Cuando para efectos de promoción o de información al consumidor se empleen tintas, solventes, sustancias o cualquier otro medio que entre en contacto con los productos objeto de este Reglamento, se deberá demostrar la inocuidad de los mismos ante la autoridad sanitaria correspondiente, cuando ésta lo solicite.
+c) Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que realizó, en virtud de no haberse podido determinar a actuar conforme a derecho;
 
-### Capítulo II. Carne
+Que el resultado típico se produzca por caso fortuito y el activo haya ejecutado un hecho lícito con todas las precauciones debidas.
 
-###### ARTÍCULO 24.
+###### Artículo 16.
 
-Los productos cuyo proceso se realice en el territorio nacional y que se destinen exclusivamente para fines de exportación, no estarán sujetos a las disposiciones de este Reglamento, a excepción de aquéllos que representen un riesgo para la salud.
+Es inimputable el sujeto activo cuando padezca:
 
-###### ARTÍCULO 25.
+I. Alienación u otro trastorno similar permanente;
 
-Para efectos del etiquetado de los productos objeto de este Reglamento se considera como información sanitaria general la siguiente:
+II. Trastorno mental transitorio producido en forma accidental o involuntaria; y
 
-I. La denominación genérica o específica del producto;
+III. Sordomudez, careciendo totalmente de instrucción.
 
-II. La declaración de ingredientes;
+Estos padecimientos deben tener como consecuencia la ausencia de la capacidad de comprender la antijuricidad o ilicitud de su acción y omisión, antes o durante la comisión del ilícito.
 
-III. La identificación y domicilio del fabricante, importador, envasador, maquilador o distribuidor nacional o extranjero, según el caso;
+###### Artículo 17.
 
-IV. Las instrucciones para su conservación, uso, preparación y consumo;
+Las causas excluyentes del delito y de la responsabilidad se harán valer de oficio por el Ministerio Público o por el órgano jurisdiccional.
 
-V. El o los componentes que pudieran representar un riesgo mediato o inmediato para la salud de los consumidores, ya sea por ingestión, aplicación o manipulación del producto;
+### CAPITULO VI. CONCURSO DE DELITOS
 
-VI. El aporte nutrimental;
+###### Artículo 18.
 
-VII. La fecha de caducidad;
+Existe concurso ideal, cuando con una sola acción u omisión se cometen varios delitos.
 
-VIII. La identificación del lote;
+Existe concurso real, cuando con pluralidad de acciones u omisiones se cometen varios delitos.
 
-IX. La condición de procesamiento a que ha sido sometido el producto, cuando éste se asocie a riesgos potenciales;
+### CAPITULO VII. REINCIDENCIA Y HABITUALIDAD
 
-X. Las leyendas precautorias, y
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
 
-XI. Las leyendas de advertencia.
+###### Artículo 19.
 
-Las normas correspondientes a cada tipo de producto determinarán la información sanitaria general que deberá contener la etiqueta o la específica cuando, por el tamaño del empaque o envase o por las condiciones del proceso, no pueda aparecer toda la información que se requiera.
+Será reincidente quien cometa un nuevo delito después de haber sido condenado por sentencia ejecutoriada. Si esta fue dictada por un órgano jurisdiccional del país o del extranjero, será menester que la condena sea por un delito que tenga ese carácter en este código o leyes especiales. No habrá reincidencia si ha transcurrido desde la fecha de la sentencia ejecutoria o del indulto, un término igual al de la prescripción de la pena.
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+No se aplicará cuando el agente haya obtenido el reconocimiento judicial de inocencia.
 
-Además de lo señalado en este artículo, el etiquetado de alimentos y bebidas no alcohólicas Preenvasados, con excepción del agua para consumo humano, alimentos para lactantes y niños de corta edad, goma de mascar sin azúcar, pastillas para el aliento sin azúcar, harinas con excepción de las preparadas, productos y materias primas destinados exclusivamente para uso y consumo interno de instituciones, y materias primas de uso industrial, deberá señalar en el Área frontal de exhibición del producto:
+###### Artículo 20.
 
-I. El contenido energético total que el producto aporta expresado en kilocalorías o calorías. Este valor no deberá expresarse en términos porcentuales de una ingesta diaria recomendada, y
+Será considerado delincuente habitual el reincidente que cometa un nuevo delito, siempre que los tres delitos anteriores se hayan cometido en un periodo que no exceda de quince años.
 
-II. El contenido de grasas saturadas, otras grasas, azúcares totales y sodio que estén presentes en el producto, conforme a lo siguiente:
+###### Artículo 21.
 
-a) En el caso de grasas saturadas, otras grasas, y azúcares totales, deberá expresarse el aporte energético de cada nutrimento, indicando el porcentaje que cada uno de ellos represente con base en los valores establecidos en la siguiente tabla:
+Las disposiciones del presente capítulo serán aplicables aún en el caso de tentativa, pero no a los delitos contra el estado cualquiera que sea el grado de su ejecución.
 
-Fuente de aporte calórico Valor base para el cálculo
+## TITULO TERCERO. PENAS Y MEDIDAS DE SEGURIDAD
 
-Grasas saturadas 200 calorías
+###### Artículo 22.
 
-Otras grasas 400 calorías
+Son penas y medidas de seguridad que pueden imponerse con arreglo a este código, las siguientes:
 
-Azúcares Totales 360 calorías
+A. Penas:
 
-b) La declaración de sodio deberá expresarse en miligramos, así como indicar el porcentaje que dicho contenido representa en función del valor de referencia de 2000 miligramos;
+I. Prisión;
 
-c) Tratándose de Botanas, Bebidas saborizadas, Chocolates, Productos similares al chocolate y productos de confitería, en su presentación de envase familiar, se deberá incluir el número de porciones y el contenido energético por porción presentes en el mismo, en términos de la fracción I de este párrafo.
+II. Multa;
 
-Quedan excluidas de lo dispuesto en el párrafo anterior, las Bebidas saborizadas que sean consideradas de bajo contenido energético en términos del Acuerdo que para tal efecto emita la Secretaría;
+> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
 
-d) Los Envases múltiples o colectivos cuyos productos que los conforman no se encuentran etiquetados de manera individual, deberán presentar la información establecida en los incisos a), b) y c) de la presente fracción. Aquellos Envases múltiples o colectivos cuyos productos que los conforman se encuentran etiquetados de manera individual, no están obligados a presentar la información establecida en dichos incisos, y
+III. Reparación del daño; que comprenderá los rubros citados por el artículo 26 de este ordenamiento.
 
-e) Tratándose de alimentos y bebidas no alcohólicas Preenvasados en envases familiares no comprendidos en el inciso c) de esta fracción, se podrá incluir la información referida en los incisos a) y b) de dicha fracción, respecto de porciones menores al total del contenido del envase, debiendo expresar el contenido energético por envase y porción, así como el número total de porciones presentes en el mismo.
+IV. Trabajo en favor de la comunidad;
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+V. Suspensión, destitución, inhabilitación o privación del empleo, cargo o comisión.
 
-La Secretaría, mediante Acuerdo que se publique en el Diario Oficial de la Federación, establecerá los criterios conforme a los cuales se calcularán las dimensiones del Área frontal de exhibición y los que se deberán cumplir para proporcionar la información a que se refieren las fracciones del párrafo anterior, así como para determinar las cantidades de referencia para presentaciones en envases familiares y para tamaño de porciones, conforme a los incisos c) y e) de la fracción II de dicho párrafo.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2011)</small>
+VI. Suspensión o privación de derechos vinculados al hecho;
 
-Con excepción de lo establecido en el artículo 196 Bis del presente Reglamento, cuando se trate de productos de importación envasados de origen, la información que contengan las etiquetas deberá aparecer escrita en idioma español, previamente a su comercialización, en los términos de la norma correspondiente.
+VII. Publicación especial de sentencia;
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+VIII. Decomiso de bienes producto del enriquecimiento ilícito; y
 
-###### ARTÍCULO 25 Bis.
+IX. Decomiso de los instrumentos, objetos y efectos del delito.
 
-El etiquetado de alimentos y bebidas no alcohólicas podrá incluir el distintivo nutrimental, cuando a petición de parte interesada, la Comisión Federal para la Protección contra Riesgos Sanitarios determine que el producto de que se trate, cumple con los criterios nutrimentales que se emitan en términos del presente artículo.
+B. Medidas de seguridad:
 
-Para efectos de lo dispuesto en el párrafo anterior, la Secretaría, mediante Acuerdo que se publique en el Diario Oficial de la Federación, establecerá el distintivo nutrimental, así como los criterios nutrimentales que deben tomarse en cuenta para determinar la procedencia de su uso y el procedimiento que deberá seguirse para su autorización, en el que deberá considerarse un plazo de respuesta no mayor a tres meses.
+I. Confinamiento;
 
-### Capítulo III. Establecimientos donde se manipulan la carne y sus productos
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-#### Sección primera. Disposiciones generales
+II. Prohibición de residir o ir a lugares determinados;
 
-###### ARTÍCULO 26.
+III. Vigilancia de la autoridad;
 
-La transportación de los alimentos y bebidas, deberá garantizar que se conserven las características sanitarias que los hacen aptos para el consumo humano y por ningún motivo podrán transportarse en vehículos destinados al transporte de plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas, o productos de aseo con acción corrosiva.
+IV. Tratamiento de inimputables;
 
-###### ARTÍCULO 27.
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-Los medios de transporte que se utilicen para el acarreo y distribución de la materia prima o producto terminado, deberán estar construidos con materiales resistentes a la corrosión, lisos, impermeables, no tóxicos y que puedan ser limpiados con facilidad. Los vehículos deberán mantenerse permanentemente limpios y en buen estado.
+V. Amonestación;
 
-El equipo que sea instalado en los medios de transporte a que se refiere el párrafo anterior deberá asegurar la conservación de los productos e impedir la aparición de plagas.
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-###### ARTÍCULO 28.
+VI. Caución de no ofender; y
 
-Durante su transportación, los alimentos perecederos deberán mantenerse a temperaturas de refrigeración y los que requieran congelación se deberán conservar en ese estado. Las temperaturas específicas para cada tipo de producto se establecerán en las normas correspondientes.
+> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
 
-Las puertas de las cámaras de refrigeración o congelación de los vehículos deberán cerrarse antes de salir del establecimiento y no serán abiertas hasta que lleguen a cada uno de los puntos de destino, salvo a indicación de autoridad competente.
+VII. Tratamiento.
 
-###### ARTÍCULO 29.
+### CAPITULO I. PRISION
 
-Se consideran establecimientos los locales y sus instalaciones, sus dependencias y anexos, cubiertos o descubiertos, sean fijos o móviles, en los que se desarrolla el proceso de los productos, actividades y servicios a que se refiere este Reglamento.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 30.
+###### Artículo 23.
 
-Los establecimientos deberán cumplir con las condiciones sanitarias que para su funcionamiento establecen este Reglamento y las normas correspondientes, según el uso al que estén destinados y las características del proceso respectivo.
+La prisión consiste en la privación de la libertad, la que podrá ser de tres meses a vitalicia, entendiéndose por ésta una duración igual a la vida del sentenciado, y se cumplirá en los términos y con las modalidades previstas en las leyes de la materia.
 
-###### ARTÍCULO 31.
+SUBTITULO PRIMERO
 
-Los establecimientos deberán contar con una zona destinada exclusivamente para el depósito temporal de desechos o despojos, mismos que deberán colocarse en recipientes con tapa, debidamente identificados y mantenerse alejados de las áreas del proceso.
+### CAPITULO II. MULTA
 
-###### ARTÍCULO 32.
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
-Los propietarios de los establecimientos deberán aplicar los criterios de buenas prácticas de higiene en materia de prevención y control de la fauna nociva, establecidas en las normas correspondientes y demás disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
 
-###### ARTÍCULO 33.
+###### Artículo 24.
 
-Los propietarios de los establecimientos cuidarán de la conservación, aseo, buen estado y mantenimiento de los mismos, así como del equipo y utensilios, los cuales serán adecuados a la actividad que se realice o servicios que se presten.
+La multa consiste en el pago de una suma de dinero al Estado que se fijará por días multa, los cuales podrán ser de treinta a cinco mil.
 
-###### ARTÍCULO 34.
+El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todos sus ingresos, que en ningún caso serán inferiores al salario mínimo general vigente en el lugar donde se consumó.
 
-La vestimenta del personal que intervenga en el proceso de los productos, en las actividades o en los servicios, deberá cumplir con los requisitos que se establecen en las normas correspondientes.
+En los delitos continuados se atenderá al salario mínimo vigente en el momento consumativo de la última conducta y para los permanentes el que esté en vigor en el momento en que cesó la conducta delictiva.
 
-###### ARTÍCULO 35.
+En caso de insolvencia del sentenciado, la autoridad judicial la sustituirá, total o parcialmente, por prestación de trabajo en favor de la comunidad, saldándose un día multa por cada jornada de trabajo.
 
-El uso y manejo de las sustancias que de manera indirecta intervengan en el proceso deberá garantizar la inocuidad de las mismas.
+En caso de insolvencia e incapacidad física del sentenciado, la autoridad judicial sustituirá la multa por el confinamiento, saldándose un día multa por cada día de confinamiento.
 
-###### ARTÍCULO 36.
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
-Cuando el proceso de los productos requiera de sistemas de refrigeración o congelación, se deberá contar con termómetros o con los dispositivos necesarios para registrar la temperatura requerida.
+###### Artículo 25.
 
-###### ARTÍCULO 37.
+Para los efectos de este capítulo y a falta de elementos específicos, se tomara como base por día multa, salvo prueba en contrario:
 
-En los establecimientos dedicados al proceso de los productos, no podrán existir ingredientes, materias primas o sustancias, cuando no se justifique su empleo conforme a las disposiciones de este Reglamento y las normas correspondientes.
+I. Que los empleados, técnicos, profesionistas y similares, obtienen un ingreso diario equivalente a por lo menos dos y medio veces el salario mínimo general vigente;
 
-###### ARTÍCULO 38.
+II. Que los jefes en mandos intermedios, patrones, empleadores y similares, obtienen un ingreso diario equivalente a por lo menos cinco veces el salario mínimo general vigente;
 
-Los propietarios o responsables de los establecimientos destinados al proceso de los productos deberán dar aviso inmediato a la Secretaría de cualquier anomalía sanitaria que detecten en el mismo o en los productos que signifique un riesgo potencial para la salud, y colaborarán en las medidas de seguridad necesarias que se apliquen.
+III. Que los de mayor jerarquía y capacidad económica que estos últimos, obtienen ingresos diarios equivalentes a por lo menos diez veces el salario mínimo general vigente; y
 
-### Capítulo I. Productos de la pesca
+IV. Que las personas que vivan y se desarrollen en los más altos estratos económico-sociales, obtienen ingresos diarios equivalentes a por lo menos veinticinco veces el salario mínimo general vigente.
 
-###### ARTÍCULO 39.
+### CAPITULO III. REPARACION DEL DAÑO
 
-En los establecimientos en donde se efectúe el proceso de los productos objeto de este Reglamento deben existir, según el caso, registros o bitácoras que incluyan, como mínimo, el seguimiento de las diferentes etapas del proceso; las características del almacenamiento de la materia prima; del producto terminado; análisis de productos; programas de limpieza y desinfección de las instalaciones y equipo, así como de erradicación de plagas. Dichos documentos deberán estar a disposición de la Secretaría cuando ésta los requiera y dentro de los plazos que señale la norma.
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
-### Capítulo II. Zonas de producción, extracción y manipulación
+###### Artículo 26.
 
-###### ARTÍCULO 40.
+La reparación del daño deberá ser plena, efectiva, proporcional a la gravedad del daño causado y a la afectación del desarrollo integral de la víctima u ofendido y, según la naturaleza del delito de que se trate, comprenderá:
 
-Para efectos de este Reglamento, dentro de los productos y derivados de la leche quedan comprendidos los siguientes:
+I. En términos generales:
 
-I. Productos:
+a) El restablecimiento de las cosas en el estado en que se encontraban antes de cometerse el delito;
 
-a. Crema,
+b) La restitución del bien obtenido por el delito, con sus frutos y accesiones, y el pago en su caso del deterioro y menoscabo, o de los derechos afectados.
 
-b. Dulces de leche,
+La restitución se hará aun en el caso de que el bien hubiere pasado a ser propiedad de terceros; a menos que sea irreivindicable o se haya extinguido el derecho de propiedad, los terceros serán escuchados en audiencia en la forma que señala el Código de Procedimientos Penales.
 
-c. Grasa butírica,
+Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fuese materia de delito sin necesidad de recurrir a prueba pericial;
 
-d. Helados y bases para helados,
+c) La indemnización del daño material y moral causado a la víctima o a las personas con derecho a la reparación del daño, incluyendo el pago de los tratamientos que, como consecuencia del delito, sean necesarios para la recuperación de su salud física y psicológica;
 
-e. Jocoque,
+El monto de la indemnización será el suficiente para cubrir los gastos a que se refiere el párrafo anterior.
 
-f. Leche acidificada,
+d) El resarcimiento de los perjuicios ocasionados;
 
-g. Leche condensada azucarada,
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
-h. Leche cultivada o fermentada,
+II. Tratándose de los delitos de violencia familiar, violencia de género y lesiones que se deriven de éstos, así como del feminicidio, la reparación del daño a la víctima u ofendido incluirá:
 
-i. Leche deshidratada,
+a) Las hipótesis a que se refiere la fracción anterior;
 
-j. Leche evaporada,
+b) El restablecimiento de su honor, mediante disculpa pública, a través de los mecanismos que señale la autoridad judicial;
 
-k. Leche pasteurizada y ultrapasteurizada,
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-l. Leche combinada,
+c) La reparación por la afectación en su entorno laboral, educativo y psicológico, a fin de lograr su restablecimiento, ante la imposibilidad de este, la indemnización correspondiente, en términos del Código Nacional de Procedimientos Penales.
 
-m. Leche recombinada,
+La indemnización a que se refiere el párrafo anterior se cuantificará en base a diversos factores como la pérdida del empleo, la inasistencia a las jornadas laborales, la necesidad de cambio de plantel educativo o inasistencia a éste, y demás datos relevantes que permitan realizar la cuantificación correspondiente, y
 
-n. Leche reconstituida,
+d) El pago de los gastos indispensables para su subsistencia y, si los hubiere, de los hijos menores de edad o discapacitados, cuando como consecuencia del delito sufrido, se haya visto imposibilitada para desarrollarse en el ámbito laboral; lo anterior, por el tiempo que determine la autoridad judicial, atendiendo a su grado de estudios, edad y estado de salud.
 
-ñ. Leche rehidratada,
+> <small>(ADICIONADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-o. Mantequilla,
+III. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos que, como consecuencia del delito, sean necesarios para la recuperación de la salud del ofendido.
 
-p. Queso y
+El monto de la indemnización por el daño moral no podrá ser inferior a treinta ni superior a mil días multa y será fijado considerando las circunstancias objetivas del delito, las subjetivas del delincuente y las repercusiones del delito sobre la víctima u ofendido.
 
-q. Yogur, Yogurt o Yoghurt, y
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-II. Derivados:
+###### Artículo 27.
 
-a. Caseína de grado alimentario o caseinatos de grado alimentario,
+La reparación del daño se impondrá de oficio al responsable del delito, pero cuando sea exigible a terceros tendrá el carácter de responsabilidad civil.
 
-b. Requesón y
+###### Artículo 28.
 
-c. Sueros.
+Los comprendidos en el artículo 16, estarán obligados en todo caso a la reparación del daño conforme a las disposiciones de este capítulo. Si fueren insolventes, responderán de dicha reparación los que los tengan bajo su patria potestad, tutela o guarda.
 
-###### ARTÍCULO 41.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-La leche cruda o bronca podrá destinarse para:
+###### Artículo 29.
 
-I. Consumo humano, cuando cumpla con los requisitos sanitarios que se establecen en este Reglamento, y
+La reparación del daño proveniente del delito que deba cubrir el sentenciado tiene el carácter de pena pública; el Ministerio Público deberá acreditar su procedencia y monto, estando obligado a solicitarla íntegramente, sin menoscabo de que lo pueda solicitar directamente la víctima o el ofendido, en términos del Código de Procedimientos Penales y otros ordenamientos legales aplicables.
 
-II. Uso industrial, bajo las condiciones que señala el propio Reglamento.
+Quien se considere con derecho a la reparación del daño y no pueda obtenerla ante el órgano jurisdiccional penal en virtud de sobreseimiento o sentencia absolutoria, o del no ejercicio de la acción penal por el Ministerio Público, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
 
-###### ARTÍCULO 42.
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
-La leche cruda, después de la ordeña, se deberá filtrar y depositar en tanques provistos con sistema de refrigeración o enfriamiento. Sólo se permitirá la permanencia de la leche en estas condiciones hasta por veinticuatro horas. Dentro de este tiempo se deberá transportar a los expendios que no formen parte de los establos.
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
-Cuando no se cuente con sistemas de refrigeración, la leche cruda deberá expenderse en un lapso no mayor de seis horas después de la ordeña. Una vez rebasado este tiempo, la leche cruda deberá ser sometida a un proceso de industrialización con tratamiento térmico.
+###### Artículo 30.
 
-### Capítulo III. Venta
+En caso de lesiones, violación y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base el doble de la tabulación de indemnizaciones que fija la Ley Federal del Trabajo y el salario mínimo general más alto del Estado.
 
-###### ARTÍCULO 43.
+Tratándose de homicidio, la indemnización será el equivalente a dos mil ciento noventa días de salario mínimo general vigente, más alto en el Estado.
 
-En el proceso de la leche cruda o bronca, no se podrá:
+En los casos de feminicidio, así como de los delitos antes mencionados, si se cometen en vehículos de transporte público de pasajeros, vehículos oficiales, de personal, escolar en servicio u otro que sin contar con la autorización oficial preste un servicio equivalente, el monto de la reparación del daño será el triple de la tabulación de indemnizaciones que fija la Ley Federal del Trabajo.
 
-I. Realizar ninguna manipulación que modifique sus características sanitarias, salvo las que expresamente determine la Secretaría;
+Tratándose de lesiones y homicidio cometidos por la conducción de vehículos de transporte público de pasajeros, vehículos oficiales, de personal, escolar en servicio u otro que sin contar con la autorización oficial preste un servicio equivalente, y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base la tabulación de indemnizaciones que fija la Ley Federal del Trabajo y el salario mínimo general más alto del Estado.
 
-II. Transportarla a los expendios, centros de acopio de leche o plantas pasteurizadoras, que no hayan presentado oportunamente su aviso de funcionamiento a la Secretaría o a los gobiernos de las entidades federativas, según sea el caso, y
+###### Artículo 31.
 
-III. Expenderla fuera de los establos y establecimientos destinados para este fin.
+En caso de delitos contra el ambiente, el derecho a la reparación del daño se instituye en beneficio de la comunidad y a favor del fondo financiero a que refiere la ley de la materia.
 
-###### ARTÍCULO 44.
+El órgano jurisdiccional tomará en cuenta para la determinación del daño causado en materia ambiental el dictamen técnico emitido por la autoridad estatal correspondiente que precisará los elementos cuantificables del daño.
 
-En la elaboración de los productos y derivados de la leche, se deberá utilizar leche que cumpla con los requisitos sanitarios establecidos en este título.
+###### Artículo 32.
 
-###### ARTÍCULO 45.
+En orden de preferencia, tienen derecho a la reparación del daño:
 
-No se podrá vender leche ultrapasteurizada y esterilizada en envases retornables.
+I. La víctima;
 
-### Capítulo Único
+II. El ofendido;
 
-###### ARTÍCULO 46.
+III. Las personas que dependieran económicamente de él;
 
-En todos los casos en que la leche no provenga de vaca, se deberá mencionar la especie animal de procedencia.
+> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
 
-### Capítulo Único
+IV. Sus descendientes, cónyuge o concubinario;
 
-###### ARTÍCULO 47.
+V. Sus ascendientes;
 
-Cuando el ganado padezca alguna enfermedad que pueda transmitirse al hombre, ya sea por contacto o por medio de la leche, o cuando no siendo transmisible pueda alterar las características fisicoquímicas de la leche que la hagan no apta para el consumo humano, el propietario o responsable del establecimiento deberá aislarlo e informar a las autoridades sanitarias, a efecto de que éstas, en coordinación con las dependencias competentes, determinen si el aislamiento de estos animales es temporal o definitivo.
+VI. Sus herederos; y
 
-### Capítulo Único
+VII. El Estado a través de la institución encargada de la asistencia a las víctimas del delito.
 
-###### ARTÍCULO 48.
+###### Artículo 33.
 
-Los sitios en que permanezca o haya permanecido el ganado con enfermedad transmisible al hombre, quedarán sujetos a la observancia de las medidas sanitarias y otros actos que dicten las autoridades sanitarias, en coordinación con las dependencias competentes, sobre desinfección, desinfestación y otras acciones que sean necesarias a juicio de las mismas.
+Son terceros obligados a la reparación del daño:
 
-### Capítulo I. Aceites comestibles
+I. Los ascendientes por los delitos de sus descendientes que se hallaren bajo su patria potestad;
 
-###### ARTÍCULO 49.
+II. Los tutores y los custodios por los delitos de los incapacitados que se hallen bajo su autoridad;
 
-El personal que atienda a los animales enfermos, deberá cambiarse la vestimenta de protección que haya estado en contacto con dichos animales, lavar y desinfectar las botas y las manos antes de manejar y ordeñar el ganado sano, así como la vestimenta contaminada antes de volverla a usar.
+III. Los directores de internados o talleres que reciban en su establecimiento discípulos o aprendices, por los delitos que éstos ejecuten durante el tiempo que se hallen bajo el cuidado y dirección de aquéllos;
 
-### Capítulo II. Grasas comestibles
+IV. Las personas físicas o jurídicas colectivas por los delitos que cometan sus obreros, jornaleros, empleados, domésticos o artesanos, con motivo y en el desempeño de sus servicios;
 
-###### ARTÍCULO 50.
+V. Las personas jurídicas colectivas, por los delitos de sus socios, agentes, o directores en los mismos términos en que, conforme a las leyes, sean responsables de las demás obligaciones que aquéllas contraigan;
 
-No se podrá mezclar la leche producida por animales afectados de alguna enfermedad, con la destinada al consumo humano.
+VI. En el caso de la fracción III inciso c) del artículo 15, la persona o personas beneficiadas con la afectación del bien jurídico; y
 
-### Capítulo I. Disposiciones generales
+VII. El Estado, los municipios y organismos descentralizados subsidiariamente por sus servidores públicos, cuando el delito se cometa con motivo o en el desempeño de sus empleos, cargos o comisiones.
 
-###### ARTÍCULO 51.
+###### Artículo 34.
 
-Cualquier animal que haya estado sujeto a tratamiento con medicamentos deberá ordeñarse por separado y su leche no deberá destinarse para consumo humano, hasta que haya transcurrido el período de eliminación conforme a la dosificación, tiempo de tratamiento y las instrucciones de la etiqueta del mismo, para asegurar la excreción de dichas sustancias.
+Los responsables de un delito están obligados solidariamente a cubrir el importe de la reparación del daño.
 
-### Capítulo II. Cacao y café
+###### Artículo 35.
 
-###### ARTÍCULO 52.
+El sentenciado cubrirá de preferencia la reparación del daño y, en su caso, se distribuirá proporcionalmente entre los ofendidos, por los daños que hubieren sufrido; y una vez cubierto el importe de esta reparación se hará efectiva la multa.
 
-Los establos deberán estar ubicados fuera de las zonas urbanas e industriales, en los términos que establezcan las disposiciones aplicables.
+###### Artículo 36.
 
-###### ARTÍCULO 53.
+Si las personas que tienen derecho a la reparación del daño no lo reclaman dentro de los treinta días siguientes de haber sido requerido para ello, su importe se aplicará en forma equitativa a la procuración y administración de justicia.
 
-Los establos deberán contar, como mínimo, con las siguientes áreas:
+###### Artículo 37.
 
-I. De ordeña en condiciones higiénicas, y
+Cuando el procesado se sustraiga a la acción de la justicia, los depósitos que garanticen la reparación del daño se entregarán al ofendido o a sus causahabientes inmediatamente después del acuerdo de reaprehensión o de revocación de libertad que corresponda.
 
-II. De aislamiento de animales con enfermedades infectocontagiosas.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 54.
+###### Artículo 38.
 
-Las áreas de los establos y los establecimientos que se destinen al expendio de leche cruda o bronca, deberán:
+Los objetos de uso lícito con que se cometa el delito y sean propiedad del inculpado o de un tercero obligado a la reparación, se asegurarán de oficio por el Ministerio Público o por la autoridad judicial para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento si los propietarios otorgan garantía en cualquiera de las modalidades que la ley señala para cubrir ese pago. Se exceptúan de lo establecido en este precepto todo tipo de vehículos automotores de uso particular y no podrán ser trasladados al depósito vehicular. Únicamente se asegurarán los vehículos que se encuentren relacionados en delitos graves que ameriten prisión preventiva oficiosa establecida en el Código Nacional de Procedimientos Penales y los destinados al transporte público.
 
-I. Ser independientes de otras instalaciones, y
+### CAPITULO IV. TRABAJO EN FAVOR DE LA COMUNIDAD
 
-II. Ostentar al frente del establecimiento un letrero que diga: Expendio de leche cruda o, en su caso, Expendio de leche bronca y adentro otro que señale en forma clara y ostensible lo siguiente:
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-“Hierva la leche durante algunos minutos antes de consumirla. En caso de no consumirla inmediatamente después de haberla hervido, consérvela en refrigeración”.
+###### Artículo 39.
 
-### Capítulo II. Té o infusiones
+El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados, preferentemente en instituciones públicas educativas y de asistencia social o en instituciones privadas asistenciales y se desarrollará en forma que no resulte denigrante para el sentenciado, en jornadas de trabajo dentro de los períodos distintos al horario normal de sus labores, sin que exceda de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
 
-###### ARTÍCULO 55.
+### CAPITULO V. SUSPENSION DE FUNCIONES, DESTITUCION, INHABILITACION O PRIVACION DE EMPLEOS, CARGOS O COMISIONES
 
-Los centros de acopio, las plantas de pasteurización, ultrapasteurización o esterilización de leche, deberán situarse en establecimientos separados de los establos para evitar la contaminación del producto.
+###### Artículo 40.
 
-### Capítulo Único
+La suspensión de funciones, inhabilitación, destitución o privación de empleos, cargos o comisiones, es de dos clases:
 
-###### ARTÍCULO 56.
+I. La que por ministerio de ley es consecuencia necesaria de otra pena; y
 
-En las plantas de pasteurización, ultrapasteurización o esterilización, deberán conservarse durante ciento ochenta días como mínimo, las gráficas de registro de la temperatura y tiempo a que fue sometida la leche, las cuales se deberán poner a disposición de las autoridades sanitarias competentes, cuando éstas las requieran.
+II. La que se impone como pena independiente.
 
-### Capítulo I. Disposiciones generales
+En el primer caso, la suspensión o la inhabilitación comienzan y concluyen con la pena de que son consecuencia, salvo determinación de la ley.
 
-## TÍTULO CUARTO. Leche, sus productos y derivados
+En el segundo, la suspensión o la inhabilitación se imponen con otra privativa de libertad. Comenzarán al quedar cumplida ésta. Si no van acompañadas de prisión, se empezará a contar desde que cause ejecutoria la sentencia.
 
-### Capítulo II. Sucedáneos de la leche materna o humana
+###### Artículo 41.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE FEBRERO DE 2016)</small>
+La pena de prisión inhabilita para desempeñar toda clase de funciones, empleos y comisiones y suspende el ejercicio de las funciones y empleos que desempeñe el inculpado, aunque se suspendiere la ejecución de la misma.
 
-###### ARTÍCULO 57.
+###### Artículo 42.
 
-Para efectos de este Reglamento, el huevo, sus productos y derivados se clasifican en:
+La destitución se impondrá siempre como pena independiente cuando esté señalada expresamente por la ley al delito, o éste fuere cometido por el inculpado haciendo uso de la autoridad, ocasión o medios que le proporcionare la función, empleo o comisión.
 
-I. Huevo fresco;
+### CAPITULO VI. SUSPENSION O PRIVACION DE DERECHOS
 
-II. Huevo líquido;
+###### Artículo 43.
 
-III. Yema líquida;
+La suspensión de derechos es de dos clases:
 
-IV. Clara líquida;
+I. La que por ministerio de ley es consecuencia necesaria de otra pena; y
 
-V. Huevo refrigerado;
+II. La que se impone como pena independiente.
 
-VI. Yema refrigerada;
+En el primer caso, la suspensión comienza y concluye con la pena de que es consecuencia.
 
-VII. Clara refrigerada;
+En el segundo caso, si se impone con otra pena privativa de libertad, comenzará al quedar compurgada ésta; si la suspensión no va acompañada de prisión, empezará a contar desde que cause ejecutoria la sentencia.
 
-VIII. Huevo líquido congelado;
+> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
 
-IX. Yema líquida congelada;
+###### Artículo 44.
 
-X. Clara líquida congelada;
+La prisión suspende o interrumpe los derechos políticos y de tutela, curatela, apoderado, defensor, albacea, perito, interventor de quiebra, árbitro y representante de ausentes.
 
-XI. Huevo deshidratado;
+Concluido el tiempo o causa de la suspensión de derechos, la rehabilitación operara sin necesidad de declaratoria judicial.
 
-XII. Yema deshidratada, y
+###### Artículo 45.
 
-XIII. Clara deshidratada.
+Quienes concurran con las personas que estuvieran bajo su patria potestad, tutela, curatela, guarda, o de un sujeto a interdicción, a la comisión de un delito o cometa alguno de ellos contra bienes jurídicos de éstos, será privado definitivamente de los derechos inherentes a la patria potestad, tutela, curatela o la guarda.
 
-###### ARTÍCULO 58.
+### CAPITULO VII. PUBLICACION ESPECIAL DE SENTENCIA
 
-No se podrá llevar a cabo el empleo, suministro y expendio de huevo y sus productos que presenten alguna o varias de las siguientes características:
+###### Artículo 46.
 
-I. Que esté alterado o presente mal olor o sabor;
+La publicación especial de sentencia consiste en la inserción total o parcial de ella hasta en dos periódicos de mayor circulación en la localidad. El juez escogerá los periódicos y resolverá la forma en que debe hacerse la publicación.
 
-II. Que tenga la clara de color verdoso;
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-III. Que esté desprovisto de yema;
+La publicación de sentencia se hará a costa del sentenciado, del ofendido o del Estado a petición de cualquiera de ellos, si el órgano jurisdiccional lo estima procedente.
 
-IV. Que presente fracturas;
+La publicación de sentencia podrá ordenarse igualmente a petición del sentenciado cuando éste fuere absuelto, el hecho imputado no constituya delito o aquél no lo hubiere cometido.
 
-V. Que presente cuerpos extraños o parásitos;
+Si el delito por el que se impuso la publicación de sentencia, fue cometido por medio de la prensa, además de la publicación a que se refiere este artículo, se hará también en el periódico empleado para cometer el delito, con el mismo tipo de letra, igual color de tinta, la misma página, lugar y dimensiones.
 
-VI. Que la clara se encuentre laminada y poco consistente;
+### CAPITULO VIII. DECOMISO DE BIENES PRODUCTO DEL ENRIQUECIMIENTO ILICITO
 
-VII. Que provenga de aves en cuyo alimento se le hayan adicionado colorantes de los denominados sudanes;
+###### Artículo 47.
 
-VIII. Que los residuos de plaguicidas excedan los límites establecidos en las normas correspondientes, o
+El decomiso de los bienes producto del enriquecimiento ilícito consiste en la pérdida de su propiedad o posesión, su importe se aplicará en forma equitativa a la procuración y administración de justicia.
 
-IX. Que se hayan recongelado o adicionado de conservadores, con excepción del huevo y yema líquidos.
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-### Capítulo III. Alimentos envasados y alimentos elaborados a base de cereales
+### CAPÍTULO IX. DECOMISO DE LOS INSTRUMENTOS, OBJETOS Y EFECTOS DEL DELITO Y POR VALOR EQUIVALENTE
 
-###### ARTÍCULO 59.
+###### Artículo 48.
 
-Las explotaciones avícolas deberán estar exentas de enfermedades infecciosas propias de la especie que afecten al hombre.
+El decomiso consiste en la pérdida de la propiedad o posesión de los instrumentos, objetos y efectos del delito, a favor y en forma equitativa de la procuración y administración de justicia. Los de uso ilícito se decomisarán todos. Los de uso lícito sólo los que deriven de delitos dolosos, salvo determinación de la ley.
 
-### Capítulo Único
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2016)</small>
 
-###### ARTÍCULO 60.
+Los bienes inmuebles decomisados por la comisión de los delitos en contra del desarrollo urbano, pasarán al dominio del organismo público encargado de la regularización de la tenencia de la tierra en el Estado de México, para su regularización o reserva territorial, con el objeto del ordenamiento urbano de los municipios, autorizándose las anotaciones necesarias a través de oficios que envíen los jueces al registro de la propiedad, o en su caso al registro agrario, que corresponda.
 
-Para efectos de este Reglamento, dentro de los productos cárnicos quedan comprendidos los siguientes:
+> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-I. Curados y cocidos;
+En los casos de los delitos a que se refiere el Título Quinto del Libro Segundo de este Código, también se podrán decomisar bienes del imputado cuyo valor sea equivalente, cuando los instrumentos, objetos y productos del delito se hayan perdido, consumido o extinguido, no sea posible localizarlos o se trate de bienes que constituyan garantías de créditos preferentes. En los casos que así se establezca, se podrá decretar el aseguramiento de bienes propiedad del o los imputados, así como de aquéllos respecto de los cuales se conduzca como dueño.
 
-II. Curados y madurados;
+### CAPITULO X. CONFINAMIENTO
 
-III. Curados emulsionados y cocidos;
+###### Artículo 49.
 
-IV. Troceados;
+El confinamiento consiste en la obligación de residir en determinado lugar y no salir de él.
 
-V. Salados;
+El órgano jurisdiccional hará la designación del lugar y fijará el término de su duración que no excederá de cinco años, conciliando las necesidades de la tranquilidad pública y la del sentenciado.
 
-VI. Secos y fritos, y
+### CAPITULO XI. PROHIBICION DE IR A LUGAR DETERMINADO
 
-VII. Otros embutidos.
+###### Artículo 50.
 
-###### ARTÍCULO 61.
+La prohibición de ir a lugar determinado se extenderá únicamente a aquellos lugares en los que el sentenciado haya cometido el delito y residiere el ofendido o sus familiares. Será impuesta por el órgano jurisdiccional quien fijará en su sentencia el término de la duración, que no excederá de cinco años, salvo determinación de la ley.
 
-No se podrán destinar al consumo humano, y serán causa de rechazo total de la línea de producción, por el veterinario:
+### CAPITULO XII. VIGILANCIA DE LA AUTORIDAD
 
-I. Los animales distintos a las aves que presenten fiebre; caquexia generalizada; congestión o hemorragia generalizada; sangrado insuficiente; anasarca; endocarditis; peritonitis aguda; bronconeumonía purulenta; abscesos; quistes múltiples; tumores múltiples o malignos; gangrena; cuadros urémicos; abscesos hepáticos embólicos; nefritis supurativa y degenerativa; metritis aguda; mastitis gangrenosa; artritis infecciosa aguda; sarna diseminada; inflamación de varias cadenas ganglionares; carnes hemorrágicas; carnes con olor que difiera del normal; carnes alteradas; carnes con pigmentaciones anormales, u otras que se establezcan en las normas correspondientes, así como aquéllos que no hayan sido inspeccionados o hayan muerto por asfixia, y
+###### Artículo 51.
 
-II. Las aves que presenten algún signo o lesión aplicable de la fracción anterior o alguna de las siguientes enfermedades: aspergilosis; sinovitis gangrenosa; enfermedad de Gumboro; nefritis nefrosis; viruela; enfermedad de Newcastle; psitacosis; ornitosis; enfermedad de Marek; leucosis linfoide; salmonelosis; estafilococosis; pulorosis; parasitosis y las demás que se establezcan en las normas correspondientes.
+La vigilancia de la autoridad tendrá un doble carácter:
 
-###### ARTÍCULO 62.
+I. La que se impone por disposición expresa de la ley; y
 
-Los animales que lleguen muertos o enfermos de: ántrax; salmonelosis aguda; leucosis; septicemias; enfermedades vesiculares; rabia; listeriosis; fiebre porcina clásica; fiebre aviar; enfermedad de Newcastle; tuberculosis; paratuberculosis; coccidiosis, y otras que señalen las autoridades competentes, deberán sacrificarse e incinerarse de inmediato. Los rechazos se tratarán de acuerdo con las instrucciones del médico veterinario zootecnista, de conformidad con la norma correspondiente.
+II. La que se podrá imponer, discrecionalmente, a los responsables de delitos de robo, lesiones y homicidios dolosos, y a los reincidentes o habituales.
 
-###### ARTÍCULO 63.
+En el primer caso, la duración de la vigilancia será señalada en la sentencia.
 
-Cuando se presenten zoonosis en la zona en que laboren, los médicos veterinarios zootecnistas, independientemente de que cumplan con las demás disposiciones aplicables, deberán dar aviso inmediato a la autoridad sanitaria más cercana, quien tomará las medidas conducentes, conforme a la norma correspondiente.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-###### ARTÍCULO 64.
+En el segundo, la vigilancia comenzará a partir del momento en que el sentenciado extinga la pena de prisión y no podrá exceder de un lapso de cinco años.
 
-La Secretaría se coordinará con las dependencias competentes para intercambiar información de los casos comprobados o sospechosos de que tengan conocimiento respecto de las enfermedades a que se refieren los artículos anteriores, así como de otros que puedan ser de riesgo para la salud humana o de la población ganadera.
+### CAPITULO XIII. TRATAMIENTO DE INIMPUTABLES
 
-###### ARTÍCULO 65.
+###### Artículo 52.
 
-Ningún animal o parte de él, que se encuentre enfermo o muera de cualquier clostridiasis, podrá ser manipulado en el área donde se procesan alimentos para el consumo humano, y deberá ser incinerado. Todos los demás animales que no presenten signos, podrán ser sacrificados y faenados; con excepción de los cerdos, que se considerarán sospechosos y deberán mantenerse en observación.
+Cuando exista alguna de las causas de inimputabilidad a que se refiere el artículo 16, el inculpado, previa determinación pericial según sea el caso, será declarado en estado de interdicción para efectos penales e internado en hospitales psiquiátricos o establecimientos especiales por el término necesario para su tratamiento bajo la vigilancia de la autoridad.
 
-### Capítulo Único
+###### Artículo 53.
 
-###### ARTÍCULO 66.
+Si el órgano jurisdiccional lo estima prudente, los trastornados mentales o sordomudos no peligrosos, serán confiados al cuidado de las personas que deban hacerse cargo de ellos para que ejerciten la vigilancia y tratamiento necesario, previo el otorgamiento de las garantías que el juez estime adecuadas.
 
-Las vísceras o parte de ellas no podrán destinarse al consumo humano, y serán causa de rechazo parcial, cuando exista:
+###### Artículo 54.
 
-I. La presencia de parásitos y sus huevecillos;
+La medida de tratamiento no podrá exceder en su duración del máximo de la punibilidad privativa de la libertad que se aplicaría por ese mismo delito, a los sujetos imputables. Si concluido ese tiempo, la autoridad ejecutora considera que el internado continúa necesitando tratamiento o no tiene familiares o éstos se niegan a recibirlo, será puesto a disposición de las autoridades de salud para que procedan conforme a las leyes correspondientes.
 
-II. La presencia de coloración anormal que afecte sólo al órgano;
+### CAPITULO XIV. AMONESTACION
 
-III. La presencia de abscesos y quistes, así como de zonas infartadas y necróticas, localizadas con o sin formación de membranas difteroides;
+###### Artículo 55.
 
-IV. La alteración de la estructura o consistencia del órgano;
+La amonestación consiste en la advertencia que el órgano jurisdiccional hace al inculpado, explicándole las consecuencias del delito que cometió, excitándole a la enmienda y previniéndole de las penas que se imponen a los reincidentes. La amonestación se hará en privado o públicamente a juicio del juez, y se impondrá en toda sentencia condenatoria.
 
-V. La presencia de hemorragias, o
+### CAPITULO XV. CAUCION DE NO OFENDER
 
-VI. La presencia de degeneración.
+###### Artículo 56.
 
-###### ARTÍCULO 67.
+La caución de no ofender consiste en la garantía que el órgano jurisdiccional puede exigir al sentenciado para que no repita el daño causado al ofendido. Si se realiza el nuevo daño, la garantía se hará efectiva en forma equitativa a la procuración y administración de justicia en la sentencia que se dicte por el nuevo delito.
 
-No se podrán distribuir, vender o suministrar canales, carne y vísceras para consumo humano, cuando:
+Si desde que causa ejecutoria la sentencia que impuso la caución transcurre un lapso de tres años sin que el sentenciado haya repetido el daño, el órgano jurisdiccional ordenará de oficio, o a solicitud de parte, la cancelación de la garantía.
 
-I. Provengan de animales que hayan sido sacrificados en establecimientos que no cumplan con los requisitos sanitarios señalados en este Reglamento;
+Si el sentenciado no puede otorgar la garantía, ésta será substituida por vigilancia de la autoridad durante un lapso que no excederá de tres años.
 
-II. Estén alteradas o adicionadas con sustancias conservadoras o antioxidantes;
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
-III. Estén recongeladas o almacenadas en locales no adecuados sanitariamente;
+### CAPITULO XVI. TRATAMIENTO
 
-IV. Rebasen los límites de contaminantes, microorganismos y parásitos que se establezcan en las normas correspondientes;
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
-V. Presenten cambios degenerativos;
+Artículo 56 BIS.- El tratamiento consiste en la aplicación de medidas de naturaleza psicoterapéutica, psicológica, psiquiátrica o reeducativa, con perspectiva de género.
 
-VI. Provengan de animales muertos por causas distintas al sacrificio, o
+El tratamiento tendrá un doble carácter:
 
-VII. Provengan de animales utilizados en la investigación.
+a) El que se imponga por disposición expresa de la ley; y
 
-### Capítulo Único
+b) El que se imponga discrecionalmente, a los responsables de los delitos de lesiones, violación y homicidio doloso.
 
-###### ARTÍCULO 68.
+La medida de tratamiento no podrá exceder del máximo de la pena privativa de libertad impuesta.
 
-Los productos y subproductos de origen cárnico que se destinen para consumo humano deberán estar exentos de los colorantes denominados sudanes, solvente rojo 23, rojo toney, color index 26100 o rojo DC 17 y de cualquier otro colorante o aditivo que, conforme a este Reglamento y las disposiciones aplicables, no se deba emplear para alimentos y bebidas.
+## TITULO CUARTO. APLICACION DE PENAS
 
-### Capítulo Único
+### CAPITULO I. REGLAS GENERALES
 
-###### ARTÍCULO 69.
+###### Artículo 57.
 
-Como medida de seguridad sanitaria, la Secretaría determinará el destino de las canales o sus partes que se encuentren en expendios, transportes y depósitos, cuando no se cumpla con lo dispuesto en este título o carezcan de envase o éste se encuentre violado o roto.
+El órgano jurisdiccional, al dictar sentencia, fijará la pena que estime justa, dentro de los límites establecidos en el código para cada delito, considerando la gravedad del delito y el grado de culpabilidad del sentenciado, teniendo en cuenta:
 
-### Capítulo Único
+I. La naturaleza de la acción u omisión y de los medios empleados para ejecutarla;
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
 
-###### ARTÍCULO 70.
+II. La magnitud del daño causado al bien jurídico y del peligro a que hubiere sido expuesto el ofendido;
 
-Los establecimientos que se dediquen al proceso de la carne y vísceras sólo podrán sacrificar, procesar o expender animales o productos que cumplan con las normas correspondientes y que provengan de rastros que hayan dado aviso de funcionamiento a la Secretaría.
+III. Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado;
 
-#### Sección segunda. Rastros y mataderos
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
-### Capítulo Único
+IV. La forma y grado de intervención del agente en la comisión del delito, así como su calidad y la de la víctima u ofendido y en su caso, su carácter de servidores públicos, para tal efecto, se considerará la circunstancia de que se haya cometido el delito en razón del origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias o estado civil de la víctima, así como los antecedentes de cualquier tipo de violencia de género ejercida por el sujeto activo en contra de la mujer, en razones de género, con motivo del ejercicio de las funciones del servicio público.
 
-###### ARTÍCULO 71.
+V. La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a un grupo étnico, indígena se tomarán en cuenta, además, sus usos y costumbres;
 
-Los animales considerados aptos para consumo humano, deberán sacrificarse en rastros o mataderos que reúnan las condiciones sanitarias de construcción, equipo y funcionamiento establecidas en las normas correspondientes.
+VI. El comportamiento posterior del sentenciado con relación al delito cometido;
 
-###### ARTÍCULO 72.
+VII. Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma;
 
-En los rastros o mataderos podrán sacrificarse una o más especies domésticas diferentes, siempre en áreas separadas y con equipo propio. De no ser posible esto, se podrán sacrificar en días alternados, a condición de que al terminar el trabajo de un día todo el mobiliario y equipo, sea lavado con agua caliente y jabón, y se desinfecten.
+VIII. La calidad del activo como delincuente primario, reincidente o habitual;
 
-###### ARTÍCULO 73.
+En tratándose de delitos culposos, se considerará, además:
 
-En los establecimientos en donde se realice el sacrificio de los animales para consumo se deberá efectuar la inspección ante y postmortem, de conformidad con lo que se establezca en la norma correspondiente.
+IX. La mayor o menor posibilidad de prever y de evitar el daño que resultó;
 
-###### ARTÍCULO 74.
+X. El deber de cuidado del sentenciado que le es exigible por las circunstancias y condiciones personales que el oficio o actividad que desempeñe le impongan;
 
-Antes de iniciar la inspección postmortem el médico veterinario zootecnista deberá revisar que el local y el equipo reúnan los requisitos establecidos en las normas correspondientes.
+XI. Si el inculpado ha delinquido anteriormente en circunstancias semejantes;
 
-###### ARTÍCULO 75.
+XII. Si tuvo tiempo para desplegar el cuidado posible y adecuado para no producir o evitar el daño que se produjo;
 
-No se podrá proceder al despiece de la canal, a la retirada del área de sacrificio o al tratamiento de cualquier parte del animal hasta el final de la inspección. Se deberá impedir el contacto de la canal con las plataformas de trabajo, equipo y escaleras.
+XIII. El estado y funcionamiento mecánico del objeto que manipulaba el agente; y
 
-###### ARTÍCULO 76.
+XIV. El estado del medio ambiente en el que actuaba.
 
-Las canales y vísceras, deberán estar identificadas o acomodadas de tal forma que el médico veterinario zootecnista pueda determinar perfectamente qué canal y qué vísceras corresponden al mismo animal, para lo cual podrá detener el faenado de una canal para un examen detallado conforme a la norma correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTÍCULO 77.
+###### Artículo 58.
 
-El personal del rastro o matadero que entre en contacto con los animales y las canales, deberá someterse a exámenes médicos y pruebas de laboratorio antes de su contratación y por lo menos cada año, a fin de detectar portadores asintomáticos de bacterias intestinales, parásitos, Brucella spp y otros agentes causales que constituyan un riesgo de contaminación.
+Si se trata de un delincuente primario, de escaso desarrollo intelectual, de indigente situación económica y de mínima peligrosidad, podrá el órgano jurisdiccional, en el momento de dictar sentencia, reducir hasta la mitad de la pena que le correspondería conforme a este Código.
 
-No deberá trabajar personal que padezca alguna enfermedad transmisible, con heridas o abscesos; asimismo, toda persona afectada por alguna enfermedad gastrointestinal o parasitaria sólo podrá reintegrarse al trabajo cuando se encuentre totalmente sana, comprobándose esto con las pruebas de laboratorio adecuadas, de conformidad con las normas correspondientes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-#### Sección tercera. Obradores de tocinería
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 78.
+> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
 
-En los obradores de tocinería deberán existir las siguientes áreas separadas físicamente, que garanticen la calidad sanitaria de los productos:
+La reducción a que se refiere este artículo no se concederá en delitos de extorsión, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
 
-I. De recepción de la materia prima;
+### CAPITULO II. CASOS DE TENTATIVA
 
-II. De separación de las diferentes partes de la canal;
+###### Artículo 59.
 
-III. De fritura;
+A los inculpados del delito en grado de tentativa, se les aplicarán de uno a dos tercios de la pena prevista para el delito consumado.
 
-IV. De obtención de manteca de cerdo;
+### CAPITULO III. CULPA Y ERROR
 
-V. De refrigeración;
+###### Artículo 60.
 
-VI. De almacenamiento de desperdicios y basura para su posterior eliminación, y
+Los delitos culposos serán castigados con prisión de seis meses a diez años, de treinta a noventa días multa y suspensión hasta por cinco años, o privación definitiva de derechos para ejercer profesión u oficio, cuando el delito se haya cometido por infracción de las reglas aconsejadas por la ciencia, arte o disposiciones legales que norman su ejercicio.
 
-VII. De producto terminado.
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-### Capítulo Único
+Cuando el delito se cometa con motivo de la conducción de vehículos automotores y el imputado se encuentre en estado de ebriedad o bajo el influjo de drogas, enervantes y otras análogas que produzcan efectos similares, además de la pena señalada, se le impondrán de seis meses a un año de prisión, de treinta a cien días multa, y suspensión por un año o privación del derecho de manejar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 79.
+Si el delito se comete por conductores de vehículos de transporte público de pasajeros, de personal o escolar en servicio, y el imputado se encuentre en estado de ebriedad o bajo el influjo de drogas enervantes y otras análogas que produzcan efectos similares, siempre que no se cause homicidio, además de la pena señalada, se le impondrán de dos a cuatro años de prisión y de treinta a doscientos días multa y suspensión por un año o privación definitiva del derecho de manejar en caso de reincidencia.
 
-En los obradores de tocinería deberá haber refrigeradores destinados a la conservación de carnes y productos bajo refrigeración, que se mantengan a una temperatura no mayor de 4ºC.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 80.
+###### Artículo 61.
 
-Para efectos de este Reglamento se consideran productos de la pesca a los que provengan de agua dulce, salada o salobre, sean de la flora o de la fauna acuáticas, que se obtengan por captura o cultivo.
+Si el delito culposo se comete con motivo de la conducción de vehículo de motor de transporte público de pasajeros, de personal o escolar en servicio y se cause el homicidio de una ó más personas, la pena será de tres a doce años de prisión y de cincuenta a doscientos días multa y suspensión del derecho para conducir vehículos de motor de tres a doce años o privación definitiva de este derecho. En caso de reincidencia se le privará definitivamente de este derecho.
 
-### Capítulo I. Productos de perfumería y belleza
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-###### ARTÍCULO 81.
+Se considerará como grave cuando en la comisión de este delito el conductor incurra en cualquiera de las siguientes circunstancias:
 
-La Secretaría, en coordinación con las dependencias competentes, determinará lo salubre o insalubre de una zona de producción o extracción de productos de la pesca, así como del agua que se destine al abastecimiento de dichas zonas, de acuerdo con los resultados de los análisis físicos, químicos, microbiológicos y especiales de esas aguas.
+> <small>(REFORMADA, G.G. 26 DE MAYO DE 2006)</small>
 
-###### ARTÍCULO 82.
+I. Se encuentre en estado de ebriedad;
 
-La Secretaría, en coordinación con otras dependencias, efectuará la evaluación de los estudios tecnicosanitarios para la clasificación del cuerpo de agua de cada área en la que se pretenda cultivar moluscos bivalvos o para aquéllos que se utilicen en cada acción de trasplante o depuración.
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-###### ARTÍCULO 83.
+II. Se encuentre bajo el influjo de drogas, enervantes o psicotrópicos;
 
-La vigencia de la clasificación del área de producción será de un año, siempre y cuando permanezcan las condiciones sanitarias bajo las cuales se otorgó.
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### Capítulo II. Productos de aseo
+III. Abandone a la víctima o no le preste auxilio;
 
-## TÍTULO QUINTO. Huevo y sus productos
+IV. (DEROGADA, G.G. 29 DE AGOSTO DE 2007)
 
-### Capítulo III. Repelentes de insectos
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
-###### ARTÍCULO 84.
+V. Cause lesiones a más de tres personas, de las que pongan en peligro la vida o se cause la muerte de dos o más personas.
 
-En caso de aparición de marea roja, las áreas de producción se deberán clasificar como prohibidas, sin importar su clasificación anterior.
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-La clasificación de área prohibida estará vigente hasta que quede asegurado que las biotoxinas marinas se encuentran dentro del límite máximo establecido en las normas correspondientes.
+Cuando por manejar en estado de ebriedad o bajo el influjo de drogas, enervantes y otras análogas que produzcan efectos similares se maneje un vehículo de motor, además de la pena por el delito cometido, se le impondrán de seis meses a un año de prisión, de treinta a cien días multa, y suspensión por un año o privación del derecho de manejar. Si el delito se comete por conductores de vehículos de transporte público de pasajeros, de personal o escolar en servicio, siempre que no se cause homicidio, además de la pena por el delito cometido, se le impondrán de dos a cuatro años de prisión y de treinta a doscientos días multa y suspensión por un año o privación definitiva del derecho de manejar en caso de reincidencia.
 
-### Capítulo Único
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 85.
+###### Artículo 62.
 
-Se consideran como zonas de producción y extracción prohibidas, aquéllas en las cuales la calidad del agua rebasa los límites máximos de contaminantes establecidos en la norma correspondiente y, por lo tanto, representan un riesgo para la salud del consumidor, cuando:
+El delito se castigará únicamente con la multa señalada en el párrafo primero del artículo 60, independientemente de la reparación del daño y se perseguirá a petición del ofendido, siempre y cuando el inculpado no se hubiere encontrado en estado de ebriedad o bajo el influjo de drogas u otras substancias que produzcan efectos análogos, cuando la acción culposa origine lesiones de las previstas en los artículos 237 fracción II o 238 fracción II, de este Código.
 
-I. Estén contaminadas con aguas residuales domésticas, municipales, industriales, agrícolas, de embarcaciones, plataformas u otras instalaciones lacustres o marítimas;
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
 
-II. Estén afectadas por derrames de materiales que contengan sustancias tóxicas;
+Tratándose de delitos culposos ocasionados con motivo del tránsito de vehículos, el Ministerio Público podrá aplicar los criterios de oportunidad que establezcan las disposiciones jurídicas.
 
-III. Estén afectadas por residuos de material radiactivo;
+###### Artículo 63.
 
-IV. Estén afectadas por biotoxinas naturales, o
+No se impondrá pena alguna a quien por culpa y con motivo del tránsito de vehículos en que viaje en compañía de su cónyuge, concubina, concubinario, ascendientes o descendientes consanguíneos y afines, parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo, ocasione lesiones u homicidio a alguno o algunos de éstos.
 
-V. Estén contaminadas por cualquier otra fuente no contemplada en este artículo.
+###### Artículo 64.
 
-### Capítulo Único
+En caso de que el error a que se refiere el inciso b) y numeral 1 de la fracción IV del artículo 15 sea vencible, se impondrá la punibilidad del delito culposo, si el hecho de que se trata admite dicha forma de realización.
 
-###### ARTÍCULO 86.
+Si el error vencible es el previsto en el inciso b) apartado 2, de dicho precepto, la pena será de hasta una tercera parte del delito de que se trate.
 
-El agua que se destine al abastecimiento para los centros y granjas acuícolas, así como la que se destine para el cultivo en aguas marinas, lagunas costeras, ríos, presas y lagos, no deberá rebasar los límites máximos, físicos, químicos y microbiológicos específicos para cada especie que se determinen en las normas correspondientes, sin perjuicio de lo establecido en los criterios ecológicos de calidad del agua.
+> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
 
-### Capítulo Único
+###### Artículo 65.
 
-###### ARTÍCULO 87.
+En el caso del primer párrafo del artículo anterior, se sancionarán como delitos culposos: el homicidio simple previsto en el artículo 242 fracción I; homicidio en razón del parentesco contenido en el artículo 242 fracción III; las lesiones contempladas en los artículos 236, 237 y 238; el abandono de incapaz señalado en el artículo 254; el allanamiento de morada previsto en el artículo 268; la revelación de secreto contenida en el artículo 186; el abigeato contemplado en los artículos 296, 297, 298, 299 y 301; daño en los bienes señalado en los artículos 310 y 311; el ejercicio indebido de función pública contenida en el artículo 133 fracciones I, II y III; la evasión referida en los artículos 158 y 161; los ataques a vías de comunicación contemplado en el artículo 192; el delito cometido en el ejercicio de actividades profesionales o técnicas regulado en el artículo 185.
 
-La Secretaría, en coordinación con otras dependencias, determinará las condiciones y requisitos sanitarios que deberán cumplir las embarcaciones de pesca, de acuerdo con el tipo de pesquería para el cual serán utilizadas.
+### CAPITULO IV. CASOS DE EXCESO EN LA LEGITIMA DEFENSA, DE ESTADO DE NECESIDAD Y DE IMPUTABILIDAD DISMINUIDA
 
-### Capítulo Único
+###### Artículo 66.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+A quien se excediere en los límites señalados para la defensa o la necesidad, porque el daño que iba a sufrir era fácilmente reparable por medios legales o era de menor magnitud que el que causó o bien por no haber tenido necesidad racional del medio empleado, se le impondrá prisión de seis meses a siete años y de treinta a noventa días multa, sin que en ningún caso la pena exceda de las dos terceras partes de la que correspondería al delito simple.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+###### Artículo 67.
 
-###### Artículo 224 Bis 1.
+Cuando la capacidad de comprender el carácter ilícito del hecho típico no puede ser considerado como causa de inculpabilidad del activo por estar solo considerablemente disminuida, se le impondrá de una a dos terceras partes de la pena prevista para el delito cometido.
 
-Los tatuadores, micropigmentadores y perforadores, para la prestación de sus servicios, deberán contar con tarjeta de control sanitario, la cual tendrá una vigencia de dos años, contados a partir de la fecha de su expedición.
+### CAPITULO V. CASOS DE CONCURSO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+###### Artículo 68.
 
-###### Artículo 224 Bis 2.
+En caso de concurso se impondrá la pena correspondiente al delito que merezca la mayor, la que deberá aumentarse inclusive hasta la suma de las penas de los demás delitos sin que el total exceda de setenta años de prisión, salvo en los casos previstos en este Código, en que se imponga la pena de prisión vitalicia.
 
-La solicitud para obtener la tarjeta de control sanitario, a que se refiere el artículo anterior, deberá presentarse en el formato aprobado por la Secretaría y publicado en el Diario Oficial de la Federación, el cual deberá indicar, cuando menos, el nombre del trámite, el nombre completo y el domicilio del tatuador, perforador o micropigmentador, el domicilio del establecimiento y el horario de atención.
+### CAPITULO VI. CASOS DE REINCIDENCIA Y HABITUALIDAD
 
-A la solicitud se acompañarán los siguientes documentos:
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2015)</small>
 
-I. Manual de procedimientos, el cual deberá indicar lo siguiente:
+###### Artículo 69.
 
-a) Las técnicas de tatuajes, micropigmentaciones o perforaciones que ofrecerá;
+La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la Ley prevé.
 
-b) Descripción detallada de cada procedimiento que utilizará para la prestación de sus servicios, y
+No se otorgarán beneficios, sustitutivos ni la suspensión de la pena de prisión, aún en el caso de delincuentes primarios, cuando se trate de delitos de:
 
-c) El material y equipo que utilizará en la prestación de sus servicios.
+I. Extorsión;
 
-II. Currículum vitae del solicitante que contenga sus datos generales, estudios y experiencia laboral, relacionados con los procedimientos a realizar;
+II. Robo con violencia, a excepción de los casos permitidos en el artículo 83 bis de este Código;
 
-III. Documentación que compruebe que el solicitante cuenta con conocimientos sobre primeros auxilios y dominio de las técnicas de higiene y asepsia;
+III. Robo de vehículo;
 
-IV. Comprobante de vacunación contra el tétanos y la hepatitis B;
+IV. Robo a casa habitación;
 
-V. Dos fotografías tamaño infantil, y
+V. (DEROGADA, G.G. 3 DE FEBRERO DE 2017)
 
-VI. Comprobante de pago de derechos, en términos de la Ley Federal de Derechos.
+VI. Lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar;
 
-La Secretaría resolverá las solicitudes de tarjetas de control sanitario de tatuadores, micropigmentadores y perforadores, dentro de los cuarenta días hábiles posteriores a aquél en que se haya presentado la solicitud correspondiente.
+VII. Homicidio doloso con modificativas que lo califiquen o lo agraven;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+VIII. Violación;
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+IX. Robo que cause la muerte;
 
-###### Artículo 224 Bis 3.
+X. Feminicidio;
 
-Los tatuadores, micropigmentadores o perforadores, previo a la realización de los procedimientos de tatuajes, micropigmentaciones o perforaciones, deberán aplicar al usuario un cuestionario, conforme al modelo aprobado por la Secretaría y publicado en el Diario Oficial de la Federación, a efecto de verificar que su estado de salud es óptimo.
+XI. Contra las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho previsto en los artículos 204 y 205 de éste Código;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+XII. Utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, previsto en los artículos 206 y 207 de éste Código.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+Tratándose de delitos cometidos con violencia de género, no procederán sustitutivos penales, independientemente de la reincidencia o habitualidad del responsable.
 
-###### Artículo 224 Bis 4.
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-Previamente a la ejecución de un tatuaje, micropigmentación o perforación, los tatuadores, micropigmentadores o perforadores, proporcionarán a los usuarios información clara, completa y precisa respecto del procedimiento. Una vez recibida la información correspondiente, los usuarios manifestarán su consentimiento firmando la carta de aceptación respectiva, conforme al modelo emitido por la autoridad sanitaria y publicado en el Diario Oficial de la Federación, la cual contendrá los aspectos siguientes:
+### CAPITULO VII. SUSTITUCION DE PENA
 
-I. Los riesgos que conllevan los procedimientos de tatuajes, micropigmentaciones o perforaciones;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2007)</small>
 
-II. La irreversibilidad del tatuaje o micropigmentación a realizar y, en su caso, la posibilidad de disminuir la perceptibilidad de los mismos, a través de procedimientos médicos efectuados por personal profesional especializado, y
+###### Artículo 70.
 
-III. Los cuidados que deben observarse con posterioridad al procedimiento a realizarse.
+La pena de prisión impuesta podrá ser sustituida, a juicio del Juzgador, en los siguientes términos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+I. Por multa, de cincuenta a trescientos días, cuando la pena de prisión no exceda de cuatro años;
 
-###### Artículo 224 Bis 5.
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-Los procedimientos de tatuajes, micropigmentaciones o perforaciones, en menores de dieciocho años de edad, sólo podrán ser realizados en los siguientes casos:
+II. Por tratamiento en libertad o semilibertad, cuando no exceda de cinco años. En ambos casos, su duración no podrá exceder de la correspondiente a la pena de prisión sustituida, en los siguientes términos:
 
-I. Cuando se cuente con la autorización por escrito de uno de quien ejerza la patria potestad o de su tutor, previa comprobación de ese carácter, y
+El tratamiento en libertad consiste en la aplicación de medidas médicas, psicoterapéuticas, psicológicas, psiquiátricas o reeducativas.
 
-II. Cuando, en el momento de la realización del procedimiento, estén acompañados de uno de sus padres o de su tutor, previo acreditamiento de tal carácter.
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
-La autorización a que se refiere la fracción I de este artículo, deberá constar por escrito, conforme al modelo aprobado por la Secretaría y publicado en el Diario Oficial de la Federación, y deberá anexarse al cuestionario a que se refiere el artículo 224 Bis 3 de este Reglamento.
+La semilibertad implica alternación de períodos de privación de libertad y de tratamiento en libertad. Se aplicarán según las circunstancias del caso del siguiente modo: externamiento durante la semana de trabajo o educativa, con reclusión el fin de semana; salida el fin de semana, con reclusión durante el resto de ésta o salida diurna con reclusión nocturna. El cumplimiento de estas modalidades de semilibertad deberá de llevarse a cabo en instituciones abiertas del sistema penitenciario.
 
-La autorización deberá estar acompañada de una copia del documento oficial que acredite la relación de parentesco o el ejercicio de la patria potestad o tutela con el menor, según corresponda. La documentación referida deberá mantenerse en resguardo durante un plazo de dos años.
+El tratamiento en libertad y el de semilibertad, quedarán bajo la orientación y cuidado del Juez de Ejecución de Sentencias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+La modalidad de la semilibertad la determinará el juez, la que podrá ser modificada por razones de tratamiento, sin alterar su esencia.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-###### Artículo 224 Bis 6.
+III. Por cincuenta a quinientas jornadas de trabajo a favor de la comunidad, cuando la pena de prisión no exceda de cinco años.
 
-Se prohíbe la realización de procedimientos de tatuajes, micropigmentaciones y perforaciones en personas que se encuentren bajo el influjo del alcohol o de alguna droga, o que no se encuentren en pleno goce de sus facultades mentales.
+IV. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+V. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+VI. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 
-###### Artículo 224 Bis 7.
+VII. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2007)
 
-La joyería, agujas, navajas, punzones u otro material punzo cortante que se utilicen en los procedimientos de tatuajes, micropigmentaciones o perforaciones, deberán ser desechables y usados una sola vez.
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
-Cualquier utensilio, equipo o instrumento susceptibles de ser reutilizados y que sea distinto a los señalados en el párrafo anterior, deberán ser esterilizados y almacenados con anterioridad a su uso, en condiciones que mantengan dicho estado.
+VIII. Cuando se ordene sustituir la pena o la multa por jornadas de trabajo, éstas podrán realizarse a favor de la comunidad en actividades organizadas por instituciones públicas, previo convenio de colaboración y coordinación entre el Tribunal Superior de Justicia del Estado de México y la Dirección General de Prevención y Readaptación Social del Estado de México.
 
-Se prohíbe el uso de pistolas para perforar, o cualquier otro equipo, que debido a su imposibilidad de ser esterilizado o desinfectado, en todas sus partes, constituya un riesgo de transmisión de enfermedades.
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+IX. Por libertad condicionada al sistema de localización y rastreo cuando la pena no exceda de seis años de prisión.
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
-###### Artículo 224 Bis 8.
+###### Artículo 70 Bis.
 
-Para el caso de perforaciones, deberán utilizarse materiales estériles de implantación o biocompatibles quirúrgicos. En el caso de tatuajes, las tintas deberán ser biocompatibles con el cuerpo humano y mantenerse en sus envases originales. En las micropigmentaciones los pigmentos deberán ser inocuos e insolubles.
+La sustitución de la sanción privativa de libertad procederá cuando se cubran los siguientes requisitos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+I. Que el sentenciado no haya sido condenado con anterioridad por delito doloso que se persiga de oficio;
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+II. Que haya demostrado buena conducta con anterioridad al delito;
 
-###### Artículo 224 Bis 9.
+III. Que no se haya sustraído de la acción judicial durante el procedimiento;
 
-Los tatuadores, micropigmentadores y perforadores sólo podrán utilizar anestésicos tópicos para disminuir el dolor de las laceraciones, quemaduras, implantes, escarificaciones o cualquier otra técnica semejante.
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+IV. Que haya pagado la reparación del daño y la multa;
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-###### Artículo 224 Bis 10.
+V. En el caso de las fracciones II y III del artículo 70, que cuente con una persona conocida que se comprometa y garantice a la autoridad ejecutora, el cumplimiento de las obligaciones contraídas por el sustitutivo; y
 
-Los tatuadores, micropigmentadores o perforadores, al realizar un procedimiento de tatuaje, micropigmentación o perforación, deberán prevenir la transmisión de enfermedades infectocontagiosas y contaminación microbiológica, para lo cual, deberán, por lo menos, utilizar el siguiente material:
+VI. Que el sentenciado se adhiera al beneficio dentro de los treinta días siguientes a los que cause ejecutoria la sentencia, salvo que se encuentre privado de la libertad, en cuyo caso podrá hacerlo hasta antes de compurgar la pena de prisión impuesta. El Órgano Jurisdiccional, discrecionalmente, a petición del sentenciado que se encuentre en libertad y atendiendo sus condiciones personales, podrá prorrogar este término hasta por treinta días más.
 
-I. Equipo de tatuaje, micropigmentación o perforación, nuevo o debidamente esterilizado;
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
 
-II. Guantes de uso quirúrgico;
+VII. Tratándose de la fracción IX del artículo 70, además de los requisitos anteriores deberá observarse lo siguiente:
 
-III. Cubre boca de material desechable;
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Desinfectantes;
+a) Tratándose del delito de robo con violencia solo cuando el monto de lo robado sea de hasta noventa veces el valor diario de la Unidad de Medida y Actualización vigente y no se hayan causado lesiones de las comprendidas en las fracciones II o III del artículo 237 o del 238, de este Código.
 
-V. Autoclave o esterilizador;
+b) Que compruebe contar en el exterior con un ofrecimiento de trabajo, un oficio, arte o profesión que le permita tener ingresos, o exhiba las constancias que acrediten que continuará estudiando;
 
-VI. Agua corriente, y
+c) Que cuente con apoyo familiar o de la sociedad civil que garantice su vinculación a las condiciones que le fueron fijadas para el otorgamiento del beneficio;
 
-VII. Demás materiales y equipo que le permita mantener los niveles de higiene y asepsia necesarios.
+d) Que no se encuentre sujeto a ningún proceso pendiente por causa distinta ni tener sentencia ejecutoriada que cumplir en reclusión del fuero común o federal, sea cual fuere el delito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+e) Que se cuente con los elementos técnicos necesarios para el funcionamiento del sistema de posicionamiento global en el domicilio laboral y de reinserción;
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+f) Que se comprometa a no abandonar el perímetro permitido por el juez y a no comunicarse con la víctima u ofendido, familiares ni testigos que depusieron en su contra, sin autorización judicial; y
 
-###### Artículo 224 Bis 11.
+g) Que cuente con domicilio laboral y de reinserción, que garantice la finalidad de la reinserción social, a juicio del Juez de Ejecución.
 
-El manejo de los residuos peligrosos que se generen en los procedimientos de tatuajes, micropigmentaciones y perforaciones deberá realizarse conforme a las disposiciones jurídicas aplicables.
+El juez dejará sin efectos la sustitución y ordenará que se ejecute la pena de prisión impuesta cuando al sentenciado se le condene en otro proceso por delito doloso que cause ejecutoria, o cuando el sentenciado no cumpla con las condiciones que le fueren señaladas para tal efecto por la Autoridad Ejecutora, salvo que el juzgador estime conveniente en este último caso, apercibirlo de que si incurre en una nueva falta, se hará efectiva la sanción sustituida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+### CAPITULO VIII. SUSPENSION CONDICIONAL DE LA CONDENA
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
 
-###### Artículo 224 Bis 12.
+###### Artículo 71.
 
-El tatuador, micropigmentador o perforador deberá llevar un registro de los usuarios de sus servicios en una libreta encuadernada y foliada, en la que deberá asentar la información personal y los datos de la identificación oficial de quien recibió el servicio, y en el caso de menores de edad, de quien ejerza la patria potestad o tutor, así como una descripción del servicio prestado.
+La pena de prisión impuesta podrá ser suspendida motivadamente por el órgano jurisdiccional, a petición de parte o de oficio, cuando no exceda de cinco años y además se reúnan los requisitos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+I. (DEROGADA, G.G. 29 DE AGOSTO DE 2007)
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
-###### Artículo 224 Bis 13.
+II. Que el sentenciado no haya sido condenado con anterioridad por delito doloso que se persiga de oficio;
 
-La práctica de tatuajes, perforaciones y micropigmentaciones se deberá realizar conforme al manual de procedimientos a que se refiere la fracción I del artículo 224 Bis 2 del presente Reglamento.
+III. Que haya demostrado buena conducta con anterioridad al delito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+IV. Que tenga modo honesto de vivir;
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+V. Que no se haya sustraído a la acción judicial durante el procedimiento; y
 
-###### Artículo 224 Bis 14.
+VI. Que haya pagado la reparación del daño y la multa.
 
-La tarjeta de control sanitario a que se refiere el artículo 224 Bis 1 del presente Reglamento, podrá prorrogarse por periodos de dos años.
+El sentenciado se podrá adherir al beneficio hasta antes de compurgar la pena de prisión impuesta.
 
-La solicitud de prórroga de tarjeta de control sanitario deberá presentarse a más tardar quince días hábiles antes del vencimiento de la misma.
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
-La solicitud de prórroga deberá estar acompañada de los siguientes documentos:
+No procederá este beneficio en los delitos de violencia de género.
 
-I. Original del comprobante del pago de derechos, en términos de la Ley Federal de Derechos, y
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
-II. Número o copia simple de la tarjeta de control sanitario de la cual se pide la prórroga.
+###### Artículo 72.
 
-La Secretaría resolverá la solicitud de prórroga de tarjeta de control sanitario, dentro de los quince días hábiles contados a partir de aquél en que se presentó la solicitud.
+Para gozar del beneficio a que se refiere el artículo anterior, el sentenciado estará obligado a:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+I. Sujetarse a las medidas que le fijen para asegurar su presentación ante la autoridad siempre que fuere requerido;
 
-###### Artículo 224 Bis 15.
+II. Observar buena conducta durante el término de suspensión;
 
-La Secretaría podrá revocar en cualquier tiempo la tarjeta de control sanitario correspondiente, a los tatuadores, micropigmentadores y perforadores, en términos de lo dispuesto por el Capítulo II del Título Décimo Sexto de la Ley.
+III. Desempeñar ocupación lícita;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+IV. Presentarse mensualmente ante la autoridad que ejerza el cuidado y vigilancia;
 
-> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+V. Presentarse ante las autoridades judiciales o del órgano ejecutor de sentencias cuantas veces sea requerido para ello;
 
-###### Artículo 224 Bis 16.
+VI. Obligarse a residir en determinado lugar del que no podrá ausentarse sin permiso de la autoridad ejecutora;
 
-El incumplimiento a las disposiciones previstas en este Capítulo, se sancionará de conformidad con lo previsto en la Ley, en el Capítulo III del Título Vigésimo Séptimo del presente Reglamento y en las demás disposiciones aplicables.
+VII. Abstenerse de causar molestias al ofendido o a sus familiares;
 
-## TÍTULO VIGÉSIMO SEXTO. Autorizaciones, avisos y certificados
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-###### ARTÍCULO 88.
+VIII. Acreditar que se ha cubierto la reparación del daño y la multa; y
 
-Los moluscos que no se manejen vivos deberán conservarse refrigerados o congelados.
+IX. Cuente con una persona conocida, que se comprometa y garantice a la Autoridad Ejecutora el cumplimiento de las obligaciones contraídas por el beneficio.
 
-### Capítulo I. Disposiciones comunes
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
 
-###### ARTÍCULO 89.
+###### Artículo 73.
 
-La permanencia de moluscos bivalvos en los locales para depósito y almacenamiento, no deberá exceder de cuarenta y ocho horas.
+La suspensión tendrá una duración igual a la de la pena suspendida. Una vez transcurrida ésta, se considerará extinguida la pena impuesta, siempre que durante este término el sentenciado no diere lugar a nuevo proceso por delito doloso que concluya con sentencia condenatoria, en cuyo caso el juez revocará la suspensión concedida y ordenará la ejecución de la sentencia.
 
-### Capítulo II. Permisos
+Si el sentenciado falta al cumplimiento de las obligaciones contraídas, el juez podrá hacer efectiva la pena suspendida o apercibirlo de que si vuelve a faltar a alguna de las condiciones fijadas, se hará efectiva dicha pena.
 
-###### ARTÍCULO 90.
+Al sentenciado que se le haya suspendido la pena se le harán saber las obligaciones a las que queda sujeto, así como los efectos del incumplimiento de las mismas, lo que se asentará en diligencia formal, sin que la falta de ésta impida en su caso la aplicación de lo previsto en este artículo.
 
-Los moluscos bivalvos, a partir del momento de su desconche, y los gasterópodos y cefalópodos, desde su captura, se deberán conservar a temperaturas de refrigeración o congelación.
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-### Capítulo III. Avisos
+Artículo 73 bis.- El sentenciado que considere que al dictarse sentencia, en la que no hubo pronunciamiento sobre la sustitución o suspensión de la pena, reunía las condiciones fijadas para su obtención y que está en aptitud de cumplir con los requisitos para su otorgamiento, podrá promover ante el juez de la causa, una vez que la sentencia haya causado ejecutoria.
 
-###### ARTÍCULO 91.
+Las jornadas de trabajo a favor de la comunidad consisten en la prestación de servicios no remunerados, preferentemente en instituciones públicas educativas y de asistencia social o en instituciones privadas asistenciales; el sentenciado deberá acreditar haber realizado por lo menos en una semana, tres jornadas de trabajo no remuneradas a favor de la comunidad, en razón de dos horas por jornada, las cuales se ajustarán a los horarios en los que éste pueda realizarlas, de acuerdo al programa que para ese fin establezca la institución en la cual va a realizarlas.
 
-Los productos de la pesca envasados en recipientes de cierre hermético deberán someterse a proceso de esterilización comercial que asegure la calidad sanitaria, de acuerdo con lo que establezcan las normas correspondientes.
+###### Artículo 74.
 
-### Capítulo IV. Certificados
+La infracción a cualquiera de estas obligaciones será motivo de revocación de la suspensión condicional de la pena.
 
-###### ARTÍCULO 92.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-No se podrán vender o suministrar al público productos de la pesca que provengan de zonas insalubres o que tengan olor putrefacto o aquéllos ajenos o distintos al del producto, incluidos los olores a combustibles, solventes o cualquier derivado del petróleo.
+###### Artículo 75.
 
-### Capítulo V. Terceros autorizados
+Para lograr el cumplimiento de todas estas obligaciones, el beneficiado con la suspensión condicional otorgará ante el órgano jurisdiccional una fianza que éste señalará tomando en consideración las posibilidades económicas del inculpado, la pena impuesta, la naturaleza del delito y las circunstancias de su comisión. La fianza podrá ser sustituida parcial o totalmente por trabajo en favor de la comunidad.
 
-###### ARTÍCULO 93.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-No se podrá vender o suministrar al público pescado entero o seccionado que presente cualquiera de las anomalías siguientes:
+###### Artículo 76.
 
-I. Agallas pálidas con mucosidad turbia;
+A los sentenciados a quienes se conceda el beneficio de la suspensión condicional, se les harán saber las obligaciones que adquieren en los términos del artículo 73, lo que se asentará en diligencia formal, sin que la falta de ésta impida en su caso, la aplicación de lo previsto en el artículo 74.
 
-II. Contornos borrosos de las vísceras, con coloración variable entre pardo y violeta y los riñones con aspecto y consistencia acuosa;
+###### Artículo 77.
 
-III. Disminución del aspecto vítreo en la musculatura, con presencia de enturbiamiento y coloración violeta a lo largo de la espina dorsal;
+El beneficiado debe cumplir durante el término de suspensión con las demás condiciones que la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad señale.
 
-IV. Textura flácida, de tal manera que al presionarlo con los dedos, la piel no regrese a su estado normal;
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-V. Olor desagradable con tendencia amoniacal;
+###### Artículo 78.
 
-VI. Escamas desprendibles del cuerpo al tacto, o
+Si transcurrido el término de suspensión el sentenciado no ha cometido un nuevo delito se extinguirá la pena suspendida y, en caso contrario, se ejecutará.
 
-VII. Espinas o radio, desprendibles fácilmente.
+### CAPITULO IX. REMISION JUDICIAL DE LA PENA
 
-### Capítulo I. Verificación
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 94.
+###### Artículo 79.
 
-No se podrán vender o suministrar al público moluscos bivalvos y gasterópodos que presenten cualquiera de las anomalías siguientes:
+El órgano jurisdiccional, al pronunciar sentencia, podrá recomendar al juez ejecutor de sentencias, la remisión de la pena, si concurren las siguientes circunstancias:
 
-I. Olor distinto al del molusco;
+> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-II. Textura viscosa;
+I. Que el sentenciado haya obrado por motivos excepcionales, o que considere el órgano jurisdiccional que no es necesaria la pena por las circunstancias particulares del caso;
 
-III. Aspecto opaco;
+II. Que no revele peligrosidad; y
 
-IV. Concha abierta, o
+III. (DEROGADA, G.G. 1 DE SEPTIEMBRE DE 2000)
 
-V. Provenientes de un área sin clasificación sanitaria o restringida o de aquéllas en las que durante una contingencia ambiental las disposiciones emitidas no hayan sido acatadas.
+La remisión de la pena no exime de la obligación de reparar el daño.
 
-###### ARTÍCULO 95.
+###### Artículo 80.
 
-No se podrán vender o suministrar al público moluscos cefalópodos que presenten cualquiera de las anomalías siguientes:
+La recomendación deberá ser confirmada por el tribunal de alzada correspondiente.
 
-I. Olor distinto al del molusco;
+### CAPITULO X. EJECUCION DE PENAS
 
-II. Ventosas fraccionadas, abiertas y separadas del cuerpo;
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-III. Ojos manchados y opacos;
+###### Artículo 81.
 
-IV. Piel manchada de color rojizo y sin brillo, o
+La ejecución de penas privativas y restrictivas de la libertad corresponde al Poder Ejecutivo y al Poder Judicial del Estado en la forma expresada en el Código Nacional de Procedimientos Penales y en la legislación en materia de ejecución de penas. Estos no podrán ejecutar pena alguna en otra forma que la expresada en la Legislación aplicable.
 
-V. Desprendimiento, al tacto, de una sustancia viscosa.
+###### Artículo 82.
 
-### Capítulo II. Medidas de seguridad
+La imposición de una pena de inhabilitación para ejercer funciones, empleos, y comisiones o de privación o de suspensión de derechos origina el deber jurídico de cumplirlas, y su quebrantamiento constituye delito de quebrantamiento de pena.
 
-###### ARTÍCULO 96.
+###### Artículo 83.
 
-No se podrán vender o suministrar al público crustáceos que presenten cualquiera de las anomalías siguientes:
+La multa y la reparación del daño en el caso del artículo 36 se ejecutarán mediante el ejercicio del procedimiento fiscal respectivo. En los demás casos la reparación del daño se hará efectiva a instancia de parte y conforme al Código de Procedimientos Penales.
 
-I. Aspecto opaco con manchas oscuras entre las articulaciones, o
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2015)</small>
 
-II. Tejido muscular con textura pastosa.
+### CAPITULO XI. BENEFICIO DE LIBERTAD CONDICIONADA AL SISTEMA DE LOCALIZACIÓN Y RASTREO
 
-###### ARTÍCULO 97.
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2015)</small>
 
-No se podrá vender o suministrar al público pescado seco salado que presente coloración excesivamente amarilla o diversas tonalidades de verde y sepia.
+Artículo 83 bis.- El beneficio de la libertad condicionada al sistema de localización y rastreo podrá ser otorgado, siempre y cuando se cubran los siguientes requisitos:
 
-###### ARTÍCULO 98.
+I. Que sea delincuente primario;
 
-No se podrán vender o suministrar al público productos ahumados de la pesca que presenten cualquiera de las anomalías siguientes:
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Manchas u olores anormales;
+II. Tratándose del delito de robo con violencia solo cuando el monto de lo robado sea de hasta noventa veces el valor diario de la Unidad de Medida y Actualización vigente y no se hayan causado lesiones de las comprendidas en la fracción III del artículo 237 o del 238, de este Código;
 
-II. Trasudación de agua al presionar con los dedos, o
+III. Que la pena privativa de libertad sea desde tres años hasta quince años;
 
-III. Mohos.
+IV. Que sea solicitado dentro de los dos años antes de tener derecho a la libertad condicional;
 
-###### ARTÍCULO 99.
+V. Que pague la reparación del daño y la multa impuesta;
 
-Para efectos de este Reglamento, dentro de los productos y derivados de las frutas y hortalizas quedan comprendidos los siguientes:
+VI. Que el Patronato de Ayuda para la Prevención y Readaptación Social o alguna persona con reconocida solvencia moral y arraigo, se obligue a supervisar y cuidar que el beneficiado cumpla con las condiciones impuestas al momento de su liberación, la cual deberá residir en la misma localidad a la que se integrará el beneficiado;
 
-I. Frutas secas;
+VII. Que compruebe contar en el exterior con un ofrecimiento de trabajo, un oficio, arte o profesión que le permita tener ingresos, o exhiba las constancias que acrediten que continuará estudiando;
 
-II. Frutas y hortalizas deshidratadas;
+VIII. Que cuente con apoyo familiar o de la sociedad civil que garantice su vinculación a las condiciones que le fueron fijadas para el otorgamiento del beneficio;
 
-III. Frutas y hortalizas congeladas;
+IX. Que no se encuentre sujeto a ningún proceso pendiente por causa distinta ni tener sentencia ejecutoriada que cumplir en reclusión del fuero común o federal, sea cual fuere el delito;
 
-IV. Frutas y hortalizas en conserva;
+X. Que se cuente con los elementos técnicos necesarios para el funcionamiento del sistema de posicionamiento global en el domicilio laboral y de reinserción;
 
-V. Frutas cristalizadas;
+XI. Que se comprometa a no abandonar el perímetro permitido por el juez y a no comunicarse con la víctima u ofendido, familiares ni testigos que depusieron en su contra, sin autorización judicial;
 
-VI. Jugos;
+XII. Que cuente con domicilio laboral y de reinserción, que garantice la finalidad de la reinserción social, a juicio del Juez de Ejecución.
 
-VII. Néctares;
+A quien se le revoque este beneficio, no volverá a gozar del mismo por cualquier delito.
 
-VIII. Jaleas;
+El beneficio de libertad condicionada al sistema de localización y rastreo es un medio de ejecutar la sanción penal hasta en tanto se alcance la prelibertad, o libertad condicional.
 
-IX. Mermeladas;
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
-X. Ates;
+Tratándose delitos cometidos con violencia de género no se aplicará este beneficio.
 
-XI. Purés;
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2015)</small>
 
-XII. Pulpas, y
+Artículo 83 ter.- El beneficio de libertad condicionada al sistema de localización y rastreo, será revocado por el Juez Ejecutor de Sentencias en los siguientes casos:
 
-XIII. Salsas.
+I. Por estar vinculado a un nuevo proceso penal por delito sancionado con prisión; dejándose sin efecto la revocación al existir resolución que lo deje en libertad definitiva;
 
-###### ARTÍCULO 100.
+II. Cuando incumpla las condiciones con que le fue otorgada, sin causa justificada; y
 
-Las frutas y hortalizas deberán cumplir con lo siguiente:
+III. Cuando el sentenciado presente conductas no acordes al tratamiento preliberacional instaurado.
 
-I. Estar en buenas condiciones de conservación, desprovistas de humedad exterior anormal y sin olor ni sabor extraño;
+## TITULO QUINTO. EXTINCION DE LA PRETENSION PUNITIVA
 
-II. Estar libres de huevecillos, larvas, insectos, gusanos, moluscos o de partes o excretas de cualquiera de ellos;
+### CAPITULO I. CUMPLIMIENTO DE LA PENA O MEDIDA DE SEGURIDAD
 
-III. Estar libres de materias extrañas adheridas a la superficie, y
+###### Artículo 84.
 
-IV. No exceder el límite máximo de residuos de plaguicidas, sustancias tóxicas y microorganismos que se establezcan en las normas correspondientes.
+Las penas y medidas de seguridad se extinguen con todos sus efectos, en el momento en que se agota su cumplimiento o por las que hayan sido sustituidas o conmutadas. Asimismo, la que se hubiese suspendido se extinguirá por el cumplimiento de los requisitos establecidos al otorgarla, en los términos y dentro de los plazos legalmente aplicables.
 
-### Capítulo III. Sanciones
+### CAPITULO II. SENTENCIA O PROCEDIMIENTO PENAL ANTERIOR
 
-###### ARTÍCULO 101.
+###### Artículo 85.
 
-Para efectos de este Reglamento, dentro de las bebidas no alcohólicas, productos para prepararlas y congelados de las mismas quedan comprendidos los siguientes:
+Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio se le absuelva o se le condene. Cuando se hubiese dictado sentencia en un proceso y aparezca que exista otro en relación con la misma persona o por los mismos hechos considerados en aquél, concluirá el segundo proceso mediante resolución que dictará de oficio la autoridad que esté conociendo. Si existen dos sentencias sobre los mismos hechos, se extinguirán los efectos de la dictada en segundo término.
 
-I. Aguas envasadas;
+### CAPITULO III. LEY MAS FAVORABLE
 
-II. Bebidas saborizadas no alcohólicas;
+###### Artículo 86.
 
-> <small>(ADICIONADA, D.O.F. 6 DE ABRIL DE 2006)</small>
+Cuando por virtud de una nueva ley se suprima un tipo penal, se extinguirá la potestad punitiva correspondiente y se pondrá en absoluta e inmediata libertad al inculpado o sentenciado y cesarán todos los efectos del procedimiento penal o de la condena misma. El Ministerio Público, el juez o en su caso el órgano ejecutor, aplicará de oficio la nueva ley más favorable.
 
-II. Bis. Bebidas adicionadas con cafeína, entendidas éstas como aquéllas que contienen más de 20 miligramos de cafeína por 100 mililitros de producto;
+### CAPITULO IV. EXTINCION DE LAS MEDIDAS DE TRATAMIENTO DE INIMPUTABLES
 
-III. Congelados de las anteriores;
+###### Artículo 87.
 
-IV. Polvo, y
+La ejecución de la medida de tratamiento se considerará extinguida si se acredita que las condiciones personales del sujeto no corresponden a las que hubieran dado origen a su imposición.
 
-V. Jarabe.
+### CAPITULO V. MUERTE DEL INCULPADO
 
-###### ARTÍCULO 102.
+###### Artículo 88.
 
-Las bebidas no alcohólicas y los productos para prepararlas no deberán exceder los límites de materia extraña que se establezcan en las normas correspondientes.
+La muerte del inculpado extingue la pretensión punitiva, incluso la pena impuesta, con excepción del decomiso de los instrumentos y efectos del delito.
 
-###### ARTÍCULO 103.
+### CAPITULO VI. AMNISTIA
 
-Las aguas envasadas para consumo humano y los establecimientos en donde se procesen, independientemente de su origen o tratamiento al que se sometan, deberán cumplir como mínimo con las especificaciones sanitarias del agua potable y demás disposiciones que, en su caso, determine la Secretaría.
+###### Artículo 89.
 
-###### ARTÍCULO 104.
+La amnistía extingue la pretensión punitiva y todas las consecuencias jurídicas del delito, como si éste no se hubiere cometido, sin perjuicio de la reparación del daño.
 
-El agua mineral no deberá exceder el límite de radionúclidos que se establezca en la norma correspondiente.
+### CAPITULO VII. INDULTO
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+###### Artículo 90.
 
-###### ARTÍCULO 105.
+El indulto por gracia de la pena impuesta en la sentencia irrevocable, la extingue por lo que respecta a su cumplimiento, pero no en sus efectos en cuanto se refiere a la reincidencia ni a la obligación de reparar el daño.
 
-En las bebidas saborizadas no alcohólicas, productos para prepararlas y congelados de las mismas se podrán emplear los aditivos y coadyuvantes de elaboración establecidos en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
+El indultado no podrá habitar en el mismo lugar que el ofendido, su cónyuge, ascendientes o descendientes por el tiempo que, a no mediar indulto, debería durar la condena, quedando en caso contrario, sin efecto el indulto concedido.
 
-###### ARTÍCULO 106.
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
-Las bebidas para deportistas podrán contener la clase y cantidad de electrolitos que se establezcan en las normas correspondientes.
+En delitos de violencia de género no procederá el indulto.
 
-## TÍTULO SEXTO. Carne y sus productos
+### CAPITULO VIII. PERDON DEL OFENDIDO
 
-###### ARTÍCULO 107.
+> <small>(REFORMADO, G.G. 1 DE ABRIL DE 2004)</small>
 
-(DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
+###### Artículo 91.
 
-###### ARTÍCULO 108.
+El perdón del ofendido extingue la pretensión punitiva y la pena en su caso, respecto de los delitos que se persiguen por querella necesaria. Otorgado el perdón y no habiendo oposición a él, no podrá revocarse.
 
-En los productos congelados de bebidas no alcohólicas no se podrá:
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
-I. Colocar hielo directamente sobre los productos durante su elaboración o conservación;
+Tratándose de delitos cometidos con violencia de género no se admitirá el perdón.
 
-II. Permitir la salida de la fábrica de los productos sin envases o envolturas que los protejan e identifiquen, según sea el caso;
+El perdón puede ser otorgado por el ofendido o por su representante legal, si aquél fuese menor de edad o estuviera incapacitado; pero el órgano jurisdiccional o el Ministerio Público, en este último caso, deberán a su prudente arbitrio, conceder o no eficacia al otorgado por el representante y en caso de no aceptarlo, seguir el procedimiento.
 
-III. Recongelar los productos que hayan salido de la fábrica, y
+El perdón concedido a uno de los inculpados se extenderá a todos los demás. Igualmente se extenderá al encubridor.
 
-IV. Emplear conservadores.
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 109.
+El perdón podrá ser otorgado en cualquiera de las etapas del procedimiento penal. Si la sentencia ha causado ejecutoria, la víctima u ofendido podrán otorgarlo ante el tribunal de alzada.
 
-El hielo potable o molido deberá protegerse de la contaminación, para lo cual deberá manejarse en contenedores que eviten su contacto con el piso.
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 110.
+Si se trata de delito que amerite prisión preventiva oficiosa o si el inculpado se sustrae a la acción de la justicia, el delito prescribirá en un término igual a la pena máxima del ilícito de que se trate.
 
-Los contenedores que se utilicen para enfriar bebidas envasadas deberán ostentar la leyenda impresa: “Este hielo no es para consumo humano”.
+### CAPITULO IX. REVISION EXTRAORDINARIA
 
-###### ARTÍCULO 111.
+###### Artículo 92.
 
-Las fábricas de hielo deberán estar situadas en establecimientos o áreas independientes de otras instalaciones.
+La sentencia dictada en recurso de revisión extraordinaria, sólo en el caso de que declare la inocencia del inculpado, extingue las penas impuestas si el reo está cumpliéndolas. Si las ha cumplido, viva o no, da derecho a él o a sus herederos, en sus respectivos casos, a obtener la declaratoria de su inocencia.
 
-Cuando se trate de establecimientos que para la elaboración de productos destinados al consumo humano requieran de hielo potable, podrán contar con una fábrica de hielo anexa a los mismos, siempre y cuando se cumpla con los requisitos sanitarios.
+### CAPITULO X. REHABILITACION
 
-Las habitaciones de obreros, empleados o de cualquier otra persona no tendrán acceso directo a la fábrica o áreas directas de producción.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-###### ARTÍCULO 112.
+###### Artículo 93.
 
-Para efectos de este Reglamento, dentro de los cereales, leguminosas y sus productos quedan comprendidos los siguientes:
+La rehabilitación tiene por objeto reintegrar al sentenciado en el ejercicio de los derechos políticos, civiles o de familia que hubiere perdido o estuvieren en suspenso.
 
-I. Cereales:
+### CAPITULO XI. REGLAS GENERALES DE LA PRESCRIPCION
 
-a. Harinas y harinas preparadas,
+###### Artículo 94.
 
-b. Pastas,
+La prescripción extingue la pretensión punitiva y las penas.
 
-c. Alimentos preparados a base de cereales,
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
-d. Productos de panificación, y
+Serán imprescriptibles los delitos que establezcan como pena máxima la prisión vitalicia y aquellos que sean en perjuicio de niñas, niños, adolescentes y mujeres víctimas de violencia de género.
 
-e. Tortillas;
+###### Artículo 95.
 
-II. Fécula;
+La prescripción es personal y para ella bastará el simple transcurso del tiempo señalado por la ley.
 
-III. Botanas, y
+La prescripción producirá su efecto, aunque no la alegue en su defensa el inculpado. El Ministerio Público y el órgano jurisdiccional la harán valer de oficio, sea cual fuere el estado del proceso.
 
-IV. Leguminosas y sus productos.
+### CAPITULO XII. PRESCRIPCION DE LA PRETENSION PUNITIVA
 
-###### ARTÍCULO 113.
+###### Artículo 96.
 
-Los procedimientos que se empleen para obtener los productos comprendidos en este título, deberán llevarse a cabo bajo condiciones de higiene, que garanticen su calidad sanitaria y que se encuentran dentro de las especificaciones establecidas en las normas correspondientes.
+El término para la prescripción de la pretensión punitiva será continuo y se contará a partir del día en que se cometió el delito, si fuere instantáneo; desde que cesó, si fuere permanente; desde el día en que se hubiere realizado el último acto de ejecución, si fuere continuado o en caso de tentativa.
 
-###### ARTÍCULO 114.
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2012)</small>
 
-En la elaboración de pastas no se podrán utilizar sobrantes de las mismas que estén sucios, alterados, infestados, contaminados o que tengan materia extraña.
+En los casos de delitos cometidos en contra de menores de edad, el plazo para la prescripción comenzará a contar a partir de que la víctima sea mayor de edad.
 
-###### ARTÍCULO 115.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE DICIEMBRE DE 2010)</small>
 
-En la elaboración de pastas rellenas no se podrá llevar a cabo la reutilización de las mismas.
+###### Artículo 97.
 
-###### ARTÍCULO 116.
+La pretensión punitiva del delito que se persigue de oficio, prescribirá en un lapso igual al término medio aritmético de la pena privativa de la libertad que le corresponde, pero en ningún caso será menor de tres años, siempre que no se haya ejercitado acción penal pues en caso contrario se atenderá al delito señalado en el auto de vinculación a proceso.
 
-Todos los productos a que se refiere este título deberán almacenarse en las condiciones sanitarias establecidas en las disposiciones aplicables.
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 117.
+Si la pena asignada al delito no fue la de prisión, la pretensión punitiva prescribirá en un año.
 
-Los aceites comestibles por su origen se clasifican en:
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-I. Aceite vegetal, y
+Si se trata de delito grave o si el inculpado se sustrae de la justicia, el delito prescribirá en un término igual a la pena máxima del ilícito de que se trate.
 
-II. Aceite animal.
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+El delito que se persigue de querella o el acto equivalente, prescribirá en un año, contado a partir de que quien pueda formularla tenga conocimiento del delito. En ningún caso podrá exceder de tres años contados a partir de su consumación.
 
-###### ARTÍCULO 118.
+###### Artículo 98.
 
-Los aceites vegetales comestibles se podrán adicionar con los aditivos que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
+En el caso de concurso de delitos, las acciones penales que de ellos resulten, prescribirán separadamente en el término señalado en cada uno.
 
-###### ARTÍCULO 119.
+###### Artículo 99.
 
-El aceite de origen animal sólo podrá extraerse de las especies que determine la Secretaría. Las especificaciones sanitarias se establecerán en las normas correspondientes.
+Cuando para deducir una acción penal sea necesaria la terminación de un juicio por sentencia ejecutoria o la declaración previa de alguna autoridad, la prescripción no empezará a correr sino hasta que se hayan satisfecho estos requisitos.
 
-###### ARTÍCULO 120.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-Para efectos de este Reglamento, dentro de las grasas comestibles quedan comprendidas las siguientes:
+###### Artículo 100.
 
-I. Manteca de cerdo;
+La prescripción de la acción penal se interrumpirá por las actuaciones del Ministerio Público que se practiquen en la investigación del delito.
 
-II. Sebo comestible;
+Si se dejare de actuar, la prescripción comenzará a contarse de nuevo desde el día siguiente a la última actuación.
 
-III. Primeros jugos u óleo stock;
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Manteca vegetal;
+Durante la suspensión condicional del proceso a prueba, se interrumpe la prescripción de la acción penal.
 
-V. Grasa o manteca mixta o compuesta, y
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-VI. Margarina u oleomargarina.
+El plazo fijado para el cumplimiento de las obligaciones pactadas en un acuerdo reparatorio, interrumpe la prescripción de la acción penal.
 
-###### ARTÍCULO 121.
+### CAPITULO XIII. PRESCRIPCION DE LAS PENAS
 
-La manteca vegetal deberá elaborarse únicamente a partir de los aceites vegetales comestibles señalados por la Secretaría en la lista correspondiente.
+###### Artículo 101.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+Los términos para la prescripción de las sanciones serán continuos y correrán desde el día siguiente a aquél en que el inculpado las quebrante si fueren privativas de libertad, y si no lo fueren desde la fecha en que cause ejecutoria la sentencia.
 
-###### ARTÍCULO 122.
+###### Artículo 102.
 
-La margarina u oleomargarina podrán adicionarse con los aditivos y coadyuvantes de elaboración que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
+Las penas privativas de libertad prescribirán por el transcurso de un término igual al de su duración y una cuarta parte más, pero en ningún caso será menor de cinco años ni mayor de treinta y cinco. Las demás sanciones prescribirán en cinco años.
 
-###### ARTÍCULO 123.
+###### Artículo 103.
 
-Para la elaboración de margarinas u oleomargarinas no se podrán utilizar grasas y aceites minerales.
+Cuando se haya cumplido parte de la pena privativa de la libertad, se necesitará para la prescripción un tiempo igual al que falte para cumplir la condena, y una cuarta parte más de dicho tiempo, sin que pueda exceder de veinte años.
 
-## TÍTULO DÉCIMO SEGUNDO. Cacao, café, té y sus derivados
+###### Artículo 104.
 
-###### ARTÍCULO 124.
+La prescripción de las penas privativas de libertad, sólo se interrumpirá aprehendiendo al inculpado, aunque sea por diverso delito.
 
-En la elaboración de los producto (sic) del cacao, café, té y sus derivados, no se podrán utilizar productos alterados o atacados por plagas, con sabor extraño, con residuos de plaguicidas o sustancias químicas fuera de los límites que se establezcan en las normas correspondientes.
+###### Artículo 105.
 
-###### ARTÍCULO 125.
+La reparación del daño prescribe en diez años contados a partir de la fecha en que cause ejecutoria la sentencia.
 
-Para efectos de este Reglamento, dentro de los productos y derivados del cacao y del café quedan comprendidos los siguientes:
+###### Artículo 106.
 
-I. Cacao:
+La prescripción de las penas de multa y reparación del daño a favor de la procuración y administración de justicia se interrumpirá, en el caso del artículo 36 por el inicio del procedimiento fiscal respectivo y, en cualquier otro por la presentación de la demanda para hacerla efectiva.
 
-a. Tostado descascarillado, y
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-b. Pasta o licor;
+### CAPÍTULO XIV. CRITERIO DE OPORTUNIDAD
 
-II. Derivados del cacao:
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-a. Torta,
+###### Artículo 106 Bis.
 
-b. Manteca,
+La aplicación de un criterio de oportunidad, extingue la acción penal, con respecto del autor o partícipe en cuyo beneficio se dispuso.
 
-c. Cocoa o sus mezclas y
+Si la decisión se funda en la insignificancia del hecho, sus efectos se entenderán a todos los que reúnan las mismas condiciones.
 
-d. Chocolates, y
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
 
-III. Café:
+Tratándose de delitos cometidos con violencia de género no aplicarán los criterios de oportunidad.
 
-a. Crudo o verde,
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-b. Tostado,
+### CAPÍTULO XV. ACUERDO REPARATORIO
 
-c. Soluble y
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-d. Mezclas con café.
+###### Artículo 106 Ter.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+El cumplimiento de lo acordado a través de un mecanismo alternativo de solución de controversias, extingue la acción penal.
 
-###### ARTÍCULO 126.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-En el Acuerdo al que se refiere el artículo 22 de este Reglamento se establecerán los aditivos para alimentos que se podrán emplear en la elaboración de los productos del café, sucedáneos del café y en los derivados del cacao.
+### CAPÍTULO XVI. SUSPENSIÓN CONDICIONAL DEL PROCESO A PRUEBA
 
-###### ARTÍCULO 127.
+> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-El café tostado y el café soluble podrán combinarse entre sí y adicionarse de leche en polvo, especias y demás ingredientes que al efecto se establezcan en las normas correspondientes.
+###### Artículo 106 Quater.
 
-###### ARTÍCULO 128.
+La suspensión condicional del proceso a prueba no revocada, extingue la acción penal.
 
-Cuando la Secretaría tenga conocimiento, basado en resultados de investigación científica, de que una hierba o mezclas de ellas muestra indicios de efectos tóxicos o acumulativos o cualquier otro riesgo a la salud, no permitirá su importación e impedirá su elaboración, almacenamiento, distribución y venta, y aplicará las medidas de seguridad necesarias.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 3 DE FEBRERO DE 2017)</small>
 
-Asimismo, deberá proceder de inmediato a incluirlas en la lista correspondiente, misma que se publicará en el Diario Oficial de la Federación.
+### CAPÍTULO XVII. NO EJERCICIO DE LA ACCIÓN PENAL
 
-###### ARTÍCULO 129.
+Artículo 106 quintus.- (DEROGADO, G.G. 3 DE FEBRERO DE 2017)
 
-Se permitirán las mezclas de plantas o partes de ellas, siempre y cuando no representen riesgos para la salud.
+# LIBRO SEGUNDO
 
-###### ARTÍCULO 130.
+## TITULO PRIMERO. DELITOS CONTRA EL ESTADO
 
-Tanto en la etiqueta como en la información con que se comercialicen los productos a que se refiere este capítulo no se deberá presentar información que confunda, exagere o engañe en cuanto a sus efectos, composición, origen y otras propiedades del producto, ni ostentar indicaciones rehabilitatorias o terapéuticas.
+SUBTITULO PRIMERO
 
-###### ARTÍCULO 131.
+DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-En la etiqueta de los productos a que se refiere el presente capítulo no deberán emplearse denominaciones en las que se expresen clara o veladamente indicaciones en relación con enfermedades, síntomas o síndromes, o que recuerden datos anatómicos o fenómenos fisiológicos.
+### CAPITULO I. REBELION
 
-###### ARTÍCULO 132.
+###### Artículo 107.
 
-La etiqueta de los tés o infusiones que se elaboren con las plantas o partes de ellas que la Secretaría determine mediante las listas correspondientes, deberá incluir la siguiente leyenda de advertencia: “Atención: No consumirse durante el embarazo”.
+Cometen el delito de rebelión los que no siendo militares en ejercicio, con violencia y uso de armas, traten de:
 
-## TÍTULO DÉCIMO TERCERO. Alimentos preparados o semipreparados
+I. Abolir o reformar la Constitución Política del Estado o las instituciones públicas que de ella emanen;
 
-###### ARTÍCULO 133.
+II. Impedir la integración y funcionamiento de las instituciones públicas o su libre ejercicio; y
 
-Los alimentos preparados o semipreparados no deberán exceder los límites máximos establecidos en este Reglamento y en las normas correspondientes para microorganismos patógenos, toxinas microbianas, inhibidores microbianos, sustancias tóxicas y las demás que se establezcan en las normas correspondientes.
+III. Separar de sus cargos al gobernador del Estado, a los secretarios de gobierno, al procurador general de justicia, a los diputados de la legislatura local, a los magistrados del tribunal superior de justicia, a los presidentes municipales y cualquier servidor público de elección popular.
 
-###### ARTÍCULO 134.
+A los responsables de este delito se les impondrán de uno a seis años de prisión y de treinta a ciento cincuenta días multa.
 
-Los ingredientes utilizados para elaborar los alimentos preparados o semipreparados no deberán rebasar los límites de materia extraña que se establezcan en las normas correspondientes.
+A los autores intelectuales y a quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros, para cometer el delito de rebelión, se les impondrán de seis a doce años de prisión y de cien a mil días multa.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+###### Artículo 108.
 
-###### ARTÍCULO 135.
+Comete el mismo delito el que residiendo en territorio ocupado por el gobierno bajo la protección y garantía de éste, proporcione voluntariamente a los rebeldes, hombres para el servicio de las armas, municiones, dinero, víveres, medios de transporte o de comunicación, o impida que las fuerzas de seguridad pública del gobierno reciban esos auxilios, se le impondrán de dos a quince años de prisión y de treinta a doscientos días multa.
 
-El empleo de aditivos y coadyuvantes de elaboración en los caldos o consomés, se sujetará a lo establecido en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
+La prisión será de uno a tres años, si residieren en territorio ocupado por los rebeldes.
 
-###### ARTÍCULO 136.
+A los servidores públicos del Estado y municipios, de organismos auxiliares estatales o municipales y fideicomisos públicos, que teniendo por razón de su cargo documentos de interés estratégico, los proporcionen a los rebeldes, se les impondrán de dos a quince años de prisión y de cincuenta a quinientos días multa.
 
-Los alimentos preparados o semipreparados envasados que se sometan a tratamiento térmico deberán ser comercialmente estériles.
+###### Artículo 109.
 
-## TÍTULO DÉCIMO CUARTO. Alimentos para lactantes y niños de corta edad
+También incurren en el mismo delito los que:
 
-###### ARTÍCULO 137.
+I. No siendo militares, en cualquier forma o por cualquier medio inviten a una rebelión;
 
-En la elaboración de los alimentos para lactantes y niños de corta edad, se deberá observar lo siguiente:
+II. Estando bajo la protección y garantía del gobierno, oculten o auxilien a los espías o exploradores de los rebeldes, sabiendo que lo son;
 
-I. Los ingredientes deberán estar limpios, ser inocuos y aptos para el consumo infantil;
+III. Rotas las hostilidades y estando en las mismas condiciones, mantenga relaciones con el enemigo, para proporcionarle informes concernientes a las operaciones militares u otros que le sean útiles; y
 
-> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+IV. Voluntariamente acepten un empleo, cargo o comisión, en el lugar ocupado por los rebeldes.
 
-II. Los aditivos y coadyuvantes de elaboración que se podrán emplear son aquéllos que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento, y
+A éstos, se les impondrán de seis meses a dos años de prisión.
 
-III. Los nitritos, glutamatos y edulcorantes artificiales, no se podrán emplear en la elaboración de estos productos.
+###### Artículo 110.
 
-###### ARTÍCULO 138.
+A los servidores públicos, así como a los rebeldes que después del combate, dieren muerte a los prisioneros, se les impondrán de quince a treinta y cinco años de prisión.
 
-Los productos de que trata este título no deberán contener residuos de hormonas, antibióticos, ni sustancias farmacológicamente activas.
+###### Artículo 111.
 
-###### ARTÍCULO 139.
+Los rebeldes no serán responsables de las muertes ni lesiones inferidas en el acto de un combate; pero sí, de todo homicidio que se cometa y de toda lesión que se cause fuera de la lucha.
 
-Los productos y sus ingredientes destinados a la alimentación de lactantes y niños de corta edad, no deberán ser sometidos a radiación ionizante.
+###### Artículo 112.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE FEBRERO DE 2016)</small>
+No se impondrá pena a los que depongan las armas antes de ser tomados prisioneros si no hubiesen cometido algún otro delito además del de rebelión.
 
-###### ARTÍCULO 140.
+### CAPITULO II. SEDICION
 
-Dentro de los sucedáneos de la leche materna o humana que se presenten como fórmulas para lactantes quedan comprendidas las siguientes:
+###### Artículo 113.
 
-I. Fórmula láctea, cuando al menos el 90% de las proteínas procedan de la leche o suero de leche, y
+Cometen el delito de sedición los que, reunidos tumultuariamente, sin uso de armas, se resistan a la autoridad o la ataquen para impedir el libre ejercicio de sus funciones, con alguno de los propósitos a que se refiere el artículo 107 y se les impondrán de seis meses a dos años de prisión.
 
-II. Fórmula no láctea, cuando el producto no contenga leche o alguno de sus derivados. En este caso deberá indicarse en la etiqueta, en forma expresa: “No contiene leche”, “No contiene derivados lácteos”, o una leyenda equivalente.
+A los autores intelectuales, a quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros, para cometer el delito de sedición, se les impondrán de dos a doce años de prisión y de cincuenta a trescientos días multa.
 
-###### ARTÍCULO 141.
+### CAPITULO III. MOTIN
 
-Las fórmulas para lactantes y de continuación deberán ser nutrimentalmente adecuadas para fomentar el crecimiento normal y el desarrollo de quien las consuma.
+###### Artículo 114.
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+Cometen el delito de motín quienes para hacer uso de un derecho o pretextando su ejercicio, o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público, o amenacen a la autoridad para intimidarla y obligarla a tomar alguna determinación, y se les impondrán de tres a seis meses de prisión y de treinta a ciento cincuenta días multa.
 
-###### ARTÍCULO 142.
+A los autores intelectuales, a quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros, para cometer el delito de motín, se les impondrán de uno a tres años de prisión y de cincuenta a doscientos días multa.
 
-En la elaboración de las fórmulas para lactantes se podrán emplear los aditivos y coadyuvantes de elaboración para alimentos que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
+### CAPITULO IV. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 143.
+###### Artículo 115.
 
-Las fórmulas para lactantes deberán formar suspensiones libres de partículas o grumos gruesos.
+Para todos los efectos legales se considerarán como delitos contra el Estado los consignados en este subtítulo, con excepción de los previstos en el artículo 110 y los demás que se cometan con motivo de la rebelión, sedición o motín y no estén comprendidos en este subtítulo.
 
-###### ARTÍCULO 144.
+###### Artículo 116.
 
-En las normas correspondientes se establecerán las especificaciones a que deberán sujetarse las fórmulas de continuación de los productos relativos a este título.
+Además de las penas señaladas en los delitos de rebelión, sedición o motín, se impondrá a los inculpados la suspensión o la privación de sus derechos políticos.
 
-###### ARTÍCULO 145.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 10 DE DICIEMBRE DE 2013)</small>
 
-La Secretaría establecerá los programas para promover la lactancia materna.
+### CAPITULO V. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA
 
-> <small>(REFORMADO, D.O.F. 12 DE FEBRERO DE 2016)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 146.
+###### Artículo 116 Bis.
 
-En los establecimientos para la atención médica no se podrá promover el empleo de sucedáneos de la leche materna o humana.
+Comete el delito de uso indebido de los sistemas de emergencia el que dolosamente por cualquier medio reporte hechos falsos a instituciones públicas o privadas que presten servicios de emergencia, protección civil, bomberos o seguridad pública, que haga necesaria la movilización y presencia de elementos de dichas instituciones.
 
-> <small>(REFORMADO, D.O.F. 12 DE FEBRERO DE 2016)</small>
+Al responsable de esta conducta se le se (sic) impondrá de tres meses a un año de prisión y de diez a cincuenta días multa.
 
-###### ARTÍCULO 147.
+En caso de reincidencia se impondrá de dos a tres años de prisión y de doscientos a quinientos días multa.
 
-La entrega gratuita de sucedáneos de la leche materna o humana sólo podrá realizarse en los supuestos siguientes:
+SUBTITULO SEGUNDO
 
-I. Cuando sea con fines de investigación para la salud, en cuyo caso únicamente podrán ser entregados al profesional de la salud designado para tal fin en el protocolo de investigación correspondiente. Dicho protocolo deberá estar dictaminado de manera favorable por los comités de Investigación y de Ética en Investigación del establecimiento para la atención médica en el que se realizará la investigación y, autorizado, en su caso, por la Secretaría, en términos del Reglamento de la Ley General de Salud en materia de Investigación para la Salud y demás disposiciones jurídicas aplicables;
+DELITOS CONTRA LA ADMINISTRACION PUBLICA
 
-II. Cuando su consumo sea destinado, mediante prescripción médica, a satisfacer las necesidades nutrimentales de los lactantes con trastornos, enfermedades o condiciones médicas específicas durante los primeros meses de vida o hasta la introducción de la ablactación o alimentación complementaria;
+### CAPITULO I. DESOBEDIENCIA
 
-III. Cuando mediante prescripción médica el estado de salud de la madre impida la lactancia materna durante los primeros meses de vida o hasta la introducción de la ablactación o alimentación complementaria de los lactantes;
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
-IV. Cuando sean necesarias para la atención de situaciones de desastre o emergencia, así como para la prevención de los riesgos inminentes a que se refiere la Ley General de Protección Civil, y
+###### Artículo 117.
 
-V. Cuando la Secretaría lo determine como una medida de salud pública.
+Comete el delito de desobediencia el que sin causa legítima rehusare prestar un servicio de interés público a que la ley lo obligue.
 
-###### ARTÍCULO 148.
+También comete este delito, quien desobedezca una medida cautelar, providencia precautoria o medida de protección dictada por el Ministerio Público o por una autoridad judicial o cualquier mandato legítimo de una autoridad competente.
 
-Los alimentos envasados para lactantes y niños de corta edad, podrán prepararse con cualquier alimento aceptado por la Secretaría como apto para consumo humano y apropiado para tales productos, incluidas las especias.
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 149.
+También incurre en este delito, quien sujeto a la libertad condicionada al sistema de localización y rastreo intente abandonar el perímetro permitido o lo abandone. De igual forma, el servidor público que propicie o auxilie el abandono del sentenciado del perímetro permitido o que le ayude en su intento de abandonarlo. En esta última hipótesis, la pena se incrementará hasta en un tercio, con independencia de las sanciones administrativas que correspondan al servidor público.
 
-En los productos objeto de este capítulo no se podrán emplear conservadores.
+Al responsable de este delito, se le impondrán de uno a cinco años de prisión y de sesenta a doscientos días multa.
 
-###### ARTÍCULO 150.
+###### Artículo 118.
 
-Todos los procedimientos de elaboración y de desecación de los alimentos a que se refiere este capítulo, se deberán llevar a cabo de manera que la pérdida de nutrimentos en los productos sea mínima, y se garanticen las cantidades de éstos que se precisen en la etiqueta.
+También comete este delito el que debiendo ser examinado por la autoridad, sin que le aprovechen las excepciones constitucionales ni las establecidas por este código o el de procedimientos penales, se niegue a otorgar la protesta de ley o a declarar y se le impondrán de treinta a cien días multa. En caso de reincidencia se le impondrá prisión de seis meses a un año y de cuarenta a doscientos días multa.
 
-###### ARTÍCULO 151.
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
-Los alimentos envasados para ser suministrados directamente, deberán someterse a tratamiento térmico antes o después de ser envasados en recipientes herméticamente cerrados y ser comercialmente estériles.
+Cuando el conductor de cualquier vehículo de transporte público de pasajeros que, al ser requerido por la autoridad competente, no comparezca o se niegue a acudir a formular su denuncia ante el Ministerio Público por la comisión de una conducta presuntamente constitutiva de delito en su agravio o de los usuarios durante la prestación del servicio correspondiente, se impondrá una pena de seis meses a tres años de prisión y suspensión del derecho para conducir vehículo automotor por un término igual al de la pena impuesta, sin perjuicio de las penas que le correspondan por cualquier otra conducta.
 
-## TÍTULO DÉCIMO QUINTO. Condimentos y aderezos
+> <small>(REFORMADO, G.G. 31 DE JULIO DE 2015)</small>
 
-###### ARTÍCULO 152.
+###### Artículo 119.
 
-Para efectos de este Reglamento, dentro de los condimentos quedan comprendidos los siguientes:
+Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, el delito se comete cuando se haya agotado el medio idóneo impuesto, previo apercibimiento por parte de la autoridad.
 
-I. Sal;
+### CAPITULO II. RESISTENCIA
 
-II. Vinagre, y
+###### Artículo 120.
 
-III. Especias.
+Comete el delito de resistencia el que empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad o sus agentes ejerzan alguna de sus funciones o se niegue al cumplimiento de un mandato dictado en forma legal, y se le impondrán de uno a dos años de prisión y de treinta a cien días multa.
 
-###### ARTÍCULO 153.
+### CAPITULO III. COACCION
 
-La sal para consumo humano directo en cualquiera de sus clasificaciones deberá ser yodada o yodada fluorurada, bajo las condiciones y en las cantidades establecidas en este Reglamento y la norma correspondiente.
+###### Artículo 121.
 
-###### ARTÍCULO 154.
+Comete este delito quien coaccione a la autoridad por medio de la violencia física o moral, para obligarla a que ejecute un acto oficial, sin los requisitos legales, u otro que no esté en sus atribuciones, y se le impondrán de seis meses a un año de prisión y de treinta a cien días multa.
 
-Se exceptúa de fluorurarse la sal que se destine a la industria alimentaria y de yodarse, únicamente cuando el yodo interfiera en la calidad de los productos que se elaboren con ella.
+### CAPITULO IV. OPOSICION A LA EJECUCION DE OBRAS O TRABAJOS PUBLICOS
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+###### Artículo 122.
 
-###### ARTÍCULO 155.
+Comete este delito el que impida en forma material la ejecución de una obra, trabajo público, programa o cualquier otro tipo de beneficio colectivo, ordenados con los requisitos legales por la autoridad competente o con su autorización y se le impondrán seis meses de prisión y de treinta a sesenta días multa.
 
-En las especias molidas se podrán utilizar los aditivos y coadyuvantes de elaboración que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
+###### Artículo 123.
 
-###### ARTÍCULO 156.
+Cuando el delito se cometa por varias personas de común acuerdo, si no hubiere violencia a las personas, la pena será de seis meses a dos años de prisión y de treinta a ciento cincuenta días multa. Habiéndola, podrá extenderse la pena de uno a cuatro años de prisión y de cincuenta a doscientos días multa. Se impondrán de dos a seis años de prisión y de cincuenta a quinientos días multa, a los autores intelectuales, a quienes dirijan, organicen, inicien, compelan o patrocinen económicamente a otros, para cometer el delito de oposición a la ejecución de obras o trabajos públicos.
 
-Las especias deberán someterse a un tratamiento que abata la flora microbiana, hasta los límites que se establezcan en las normas correspondientes.
+### CAPITULO V. QUEBRANTAMIENTO DE SELLOS
 
-###### ARTÍCULO 157.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE MAYO DE 2015)</small>
 
-El productor, envasador y distribuidor de los productos a que se refiere este título deberán contar con un registro de análisis fisicoquímico de la sal y del control de número del lote de producción, el que deberá estar a disposición de la autoridad sanitaria. Dicho registro se conservará durante el tiempo que establezca la norma correspondiente y estará a disposición de la autoridad sanitaria cuando ésta lo requiera.
+###### Artículo 124.
 
-## TÍTULO DÉCIMO SEXTO. Edulcorantes, sus derivados y productos de confitería
+Comete este delito el que quebrante los sellos puestos por orden de la autoridad competente o quebrante la restricción impuesta por la autoridad aun sin afectar los sellos y se le impondrán de uno a siete años de prisión y de cien a quinientos días multa.
 
-###### ARTÍCULO 158.
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-Para efectos de este Reglamento, dentro de los edulcorantes naturales y productos de confitería quedan comprendidos los siguientes:
+Cuando el quebrantamiento se haga en sellos colocados en unidades económicas con venta de bebidas alcohólicas, las penas se aumentarán hasta en una mitad.
 
-I. Edulcorantes naturales:
+> <small>(ADICIONADO, G.G. 8 DE MAYO DE 2015)</small>
 
-a. Azúcar o sacarosa,
+Se equipara al delito de quebrantamiento de sellos y se sancionará con una pena de cuatro a ocho años de prisión y de quinientos a mil días multa al titular, propietario o responsable en unidades económicas con venta de bebidas alcohólicas y en las unidades económicas dedicadas al aprovechamiento de vehículos usados, en estado de clausura o suspensión de actividades, que use, realice, promueva o tolere actos de comercio, o prestación de un servicio en el inmueble, aun cuando los sellos permanezcan incólumes.
 
-b. Azúcar invertida,
+> <small>(ADICIONADO, G.G. 8 DE MAYO DE 2015)</small>
 
-c. Fructosa, levulosa o azúcar de frutas,
+###### Artículo 124 Bis.
 
-d. Glucosa de maíz en solución o en polvo,
+Incurre en igual delito y se le impondrá de tres a ocho años y seis meses de prisión y de quinientos a mil días multa, al que obligado por una resolución de autoridad competente a mantener el estado de clausura o de suspensión de actividades, no la acate.
 
-e. Jarabe de caña o jarabe de azúcar de caña,
+###### Artículo 125.
 
-f. Jarabe de glucosa, fructosa y jarabe de almidón,
+Incurren en igual delito las partes en un juicio civil, cuando de común acuerdo alteren, destruyan o quiten, los sellos puestos por la autoridad y se les impondrán de treinta a doscientos días multa.
 
-g. Lactosa o azúcar de leche,
+### CAPITULO VI. ULTRAJES
 
-h. Melaza,
+###### Artículo 126.
 
-i. Melado,
+Se entiende por ultraje toda expresión directa o indirecta o toda acción ejecutada contra algún servidor público, estatal o municipal, o contra instituciones públicas, que pueda implicar ofensa o desprecio.
 
-j. Miel o miel de abeja,
+> <small>(ADICIONADO, G.G. 29 DE OCTUBRE DE 2007)</small>
 
-k. Miel de maguey,
+Tratándose de elementos de cualquier corporación policíaca, se requerirá además para la integración del delito, que el ultraje sea en presencia de personas ajenas a las corporaciones.
 
-l. Miel de maíz y
+###### Artículo 127.
 
-m. Piloncillo o panela, y
+A quien ejecute ultrajes contra instituciones públicas, se le impondrán de seis meses a dos años de prisión y de treinta a ciento cincuenta días multa. Si se cometieren en contra de un servidor público, se impondrán de seis meses a un año de prisión y de treinta a cien días multa.
 
-II. Productos de confitería:
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-a. Caramelos,
+### CAPITULO VII. COHECHO
 
-b. Gomas de mascar,
+###### Artículo 128.
 
-c. Confites,
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-d. Comprimidos,
+###### Artículo 129.
 
-e. Gelatinas y gomas y
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-f. Dulces tradicionales.
+###### Artículo 130.
 
-###### ARTÍCULO 159.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-La Secretaría, en coordinación con otras dependencias competentes, establecerá en las normas correspondientes los límites máximos permisibles de residuos de plaguicidas en los vegetales utilizados como materia prima de los productos a que se refiere este capítulo.
+###### Artículo 131.
 
-## TÍTULO DÉCIMO SÉPTIMO. Alimentos y bebidas no alcohólicas con modificaciones en su composición
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-###### ARTÍCULO 160.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-Los alimentos y bebidas no alcohólicas, de acuerdo con las modificaciones realizadas, se clasifican en:
+### CAPITULO VIII. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
 
-I. Restaurados;
+###### Artículo 132.
 
-II. Con menor contenido o eliminación de algún nutrimento como sodio, lípidos, gluten, azúcares y los demás que se establezcan en las normas correspondientes, y
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-III. Adicionados de vitaminas, minerales, proteínas y otros nutrimentos, según lo establezcan las normas correspondientes.
+###### Artículo 133.
 
-###### ARTÍCULO 161.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-Únicamente se podrán incorporar nutrimentos a los alimentos y bebidas no alcohólicas, cuando:
+###### Artículo 134.
 
-I. El nutrimento adicionado sea estable bajo las condiciones diarias de almacenaje, distribución y uso, y
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-II. El nutrimento sea asimilado por el consumidor, y la adición se encuentre nutrimentalmente justificada con base en las carencias de la población.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-No se podrán adicionar nutrimentos a los alimentos no procesados o frescos.
+### CAPITULO IX. COALICION
 
-###### ARTÍCULO 162.
+###### Artículo 135.
 
-Los productos a los que se incorporen sustancias con acción farmacológica reconocida o aquéllas a las que, con base en su composición, se les atribuyan propiedades terapéuticas, preventivas o rehabilitatorias y aporten mayores cantidades de nutrimentos de los permitidos, se considerarán medicamentos o remedios herbolarios, en términos de lo establecido en la Ley y en el reglamento en materia de insumos para la salud, por lo que deberán sujetarse a las disposiciones aplicables a dichos productos.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-Asimismo, aquellos productos que modifiquen estructuras celulares deberán sujetarse a lo establecido en las disposiciones aplicables.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-###### ARTÍCULO 163.
+### CAPITULO X. ABUSO DE AUTORIDAD
 
-Las etiquetas de los alimentos y bebidas no alcohólicas con modificaciones en su composición deberán incluir la información y las leyendas precautorias que se establezcan en las normas correspondientes.
+###### Artículo 136.
 
-## TÍTULO DÉCIMO OCTAVO. Productos biotecnológicos
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-###### ARTÍCULO 164.
+###### Artículo 136 Bis.
 
-Los productos biotecnológicos que quedan sujetos al control sanitario de este Reglamento son los alimentos, ingredientes, aditivos o materias primas para uso o consumo humano de forma directa o indirecta, que deriven o en su proceso intervengan organismos o parte de ellos y que hayan sufrido cualquier manipulación genética.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-Se entiende por manipulación genética a la transferencia y recombinación intencional de información genética específica de un organismo a otro, que para ello utilice fusión o hibridación de células que naturalmente no ocurre, introducción directa o indirecta del material hereditable y cualquier otra técnica que, para los mismos fines, pudiera aplicarse en el futuro.
+###### Artículo 136 Ter.
 
-###### ARTÍCULO 165.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-Los responsables del proceso de los productos a que se refiere el artículo anterior deberán presentar ante la Secretaría la información técnica de los resultados de estudios que sustenten su inocuidad y estabilidad. La comercialización de dichos productos estará sujeta a la evaluación que se haga de la información solicitada y, cuando proceda, también a los resultados del muestreo que realice la Secretaría.
+###### Artículo 137.
 
-###### ARTÍCULO 166.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-Las etiquetas de los productos a que se refiere este título deberán contener información respecto de sus características y del riesgo que éstos representen para la salud, conforme a lo que disponga y especifique la Secretaría para el caso.
+###### Artículo 137 Bis.
 
-###### ARTÍCULO 167.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-En las normas se establecerán, según corresponda, los lineamientos o especificaciones sanitarias sobre las actividades, establecimientos, productos y servicios relativos a este título.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-## TÍTULO DÉCIMO NOVENO. Suplementos alimenticios
+### CAPITULO XI. TRAFICO DE INFLUENCIA
 
-###### ARTÍCULO 168.
+###### Artículo 138.
 
-Los suplementos alimenticios podrán estar constituidos por carbohidratos, proteínas, aminoácidos, ácidos grasos, metabolitos, plantas, hierbas, algas, alimentos tradicionales deshidratados u otros que establezca la Secretaría, presentarse ya sea en forma aislada o en combinación, adicionados o no, de vitaminas o minerales y su consumo no deberá representar un riesgo para la salud.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-En la elaboración de los suplementos alimenticios podrán emplearse los aditivos y coadyuvantes de elaboración que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-###### ARTÍCULO 169.
+### CAPITULO XII. CONCUSION
 
-Los suplementos alimenticios no deberán contener en sus ingredientes sustancias como la procaína, efedrina, yohimbina, germanio, hormonas animales o humanas, las plantas que no se permiten para infusiones o té, o cualquier otra sustancia farmacológica reconocida o que represente riesgo para la salud.
+###### Artículo 139.
 
-En caso de contener sustancias poco conocidas que puedan representar un riesgo o daño para la salud, el proceso e importación de los productos a que se refiere este título quedará sujeto a que se demuestre científicamente ante la Secretaría la inocuidad de las mismas.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-###### ARTÍCULO 170.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-La materia prima de los suplementos alimenticios, particularmente las plantas deshidratadas, deberá someterse a tratamientos, controles o procedimientos que abatan la flora microbiana que la acompaña y los residuos físicos o químicos que puedan dañar la salud.
+### CAPITULO XIII. PECULADO
 
-###### ARTÍCULO 171.
+###### Artículo 140.
 
-Los productos a los que se les incorporen sustancias con acción farmacológica reconocida o aquéllos a los que con base en su composición se les atribuyan propiedades terapéuticas, preventivas o rehabilitatorias, no podrán comercializarse en el territorio nacional, salvo que cumplan con las disposiciones aplicables a los insumos para la salud.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-###### ARTÍCULO 172.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-La Secretaría podrá solicitar la siguiente información:
+### CAPITULO XIV. ENRIQUECIMIENTO ILICITO
 
-I. Descripción del producto, en la que se señale:
+###### Artículo 141.
 
-a. Nombre de cada ingrediente, nombre científico en el caso de plantas y la monografía para aquellas sustancias no comunes y
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-b. Fórmula cuantitativa;
+###### Artículo 142.
 
-II. Modo de empleo, y
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-III. Muestra de la etiqueta original e información con la que se comercialice.
+###### Artículo 143.
 
-###### ARTÍCULO 173.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-En la etiqueta y en la información con la que se comercialicen los suplementos alimenticios no se deberá presentar información que confunda, exagere o engañe en cuanto a su composición, origen, efectos y otras propiedades del producto, ni ostentar indicaciones preventivas, rehabilitatorias o terapéuticas.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-###### ARTÍCULO 174.
+### CAPITULO XV. DISPOSICIONES COMUNES
 
-En el etiquetado e información con la que se comercialicen los suplementos alimenticios no deberán emplearse denominaciones, figuras y declaraciones relacionadas con enfermedades, síntomas, síndromes, datos anatómicos, fenómenos fisiológicos o leyendas que afirmen que el producto cubre por sí solo los requerimientos nutrimentales del individuo o que puede sustituir alguna comida.
+###### Artículo 144.
 
-## TÍTULO VIGÉSIMO. Bebidas alcohólicas
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-###### ARTÍCULO 175.
+###### Artículo 145.
 
-Para efectos de este Reglamento, dentro de las bebidas alcohólicas quedan comprendidas las siguientes:
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-I. Bebidas fermentadas;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-II. Bebidas destiladas;
+### CAPITULO XV BIS. DE LOS DELITOS CONTRA EL SERVICIO PUBLICO Y DISTRIBUCION DEL AGUA
 
-III. Licores, y
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-IV. Bebidas alcohólicas preparadas y cócteles.
+###### Artículo 145 Bis.
 
-###### ARTÍCULO 176.
+A quien teniendo la obligación legal, no supervise o ejecute el proceso de desinfección del agua potable que se encuentre bajo su responsabilidad, se le impondrán de dos a seis años de prisión y de cincuenta a doscientos días multa.
 
-Para los fines de este Reglamento, las bebidas alcohólicas, por su contenido alcohólico, se clasifican en:
+Si el responsable es servidor público, además de las penas señaladas en el párrafo anterior, se le destituirá e inhabilitará hasta por seis años.
 
-I. De contenido alcohólico bajo, las bebidas con una graduación alcohólica de 2% y hasta 6% en volumen;
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-II. De contenido alcohólico medio, las bebidas con una graduación alcohólica de 6,1% y hasta 20% en volumen, y
+###### Artículo 145 Ter.
 
-III. De contenido alcohólico alto, las bebidas con una graduación alcohólica de 20,1% y hasta 55% en volumen.
+A quien distribuya agua potable a través de pipa, sin contar con el permiso de distribución o dictamen de factibilidad correspondiente, expedidos por la autoridad competente, se le impondrán de dos a seis años de prisión y de cincuenta a doscientos días multa.
 
-###### ARTÍCULO 177.
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-No se podrá preparar, acondicionar, envasar, transportar, distribuir, almacenar, expender, suministrar o importar bebidas alcohólicas envasadas en sobres o bolsas de cualquier material, en volúmenes menores a un litro.
+###### Artículo 145 Quáter.
 
-## TÍTULO SÉPTIMO. Productos de la pesca y sus derivados
+A quien distribuya agua potable a través de pipa y utilice una fuente de abastecimiento diversa a la autorizada se le impondrá de uno a tres años de prisión y de veinticinco a cien días de multa.
 
-###### ARTÍCULO 178.
+> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
-En la venta de bebidas alcohólicas envasadas o en estado natural, mezcladas, preparadas, adicionadas o acondicionadas, para su consumo dentro de los establecimientos, se deberá exigir identificación oficial cuando por la apariencia física de quien los reciba no sea evidente su mayoría de edad. En caso de no presentarla, no se podrán vender o suministrar los productos.
+###### Artículo 145 Quinquies.
 
-###### ARTÍCULO 179.
+Al que sin causa justificada impida o restrinja de cualquier forma el flujo del agua destinado al suministro de los usuarios de dicho servicio, se impondrá de dos a seis años de prisión y de cincuenta a doscientos días multa.
 
-No se podrán vender bebidas alcohólicas por medio de máquinas automáticas. Tampoco se podrán expender presentaciones cuyo volumen sea menor de 180 ml, en lugares diferentes a los establecimientos que suministran bebidas alcohólicas, en estado natural, mezcladas, preparadas, adicionadas o acondicionadas, para su consumo dentro de los mismos.
+### CAPITULO XVI. DE LOS DELITOS COMETIDOS POR SERVIDORES PUBLICOS EN AGRAVIO DE LA HACIENDA PUBLICA ESTATAL O MUNICIPAL Y DE ORGANISMOS DEL SECTOR AUXILIAR
 
-Para fines promocionales, las presentaciones a que se refiere el párrafo anterior sólo se podrán comercializar en empaques para colección, ya sean múltiples o colectivos, o cuando formen parte de presentaciones artesanales con fines de ornato, o individualmente en tiendas de aeropuertos.
+###### Artículo 146.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+Incurren en la responsabilidad penal, a que se refiere este capítulo, los servidores públicos de la hacienda pública estatal, municipal y de organismos del sector auxiliar en los siguientes casos:
 
-> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)</small>
+I. Los que por imprevisión o negligencia, falta de cuidado por no tomar las precauciones necesarias, ocasionen daño a la hacienda pública estatal, municipal u organismos del sector auxiliar;
 
-## TÍTULO VIGÉSIMO PRIMERO. Tabaco
+II. Los que autoricen o impriman formas fiscales sin tener facultad para hacerlo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+III. Los que omitan ingresar a la hacienda pública estatal o municipal o a los organismos del sector auxiliar los donativos que cualquier persona les otorgue;
 
-> <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)</small>
+IV. Los que hagan uso personal de los fondos de la hacienda pública estatal, municipal o de organismos del sector auxiliar.
 
-###### ARTÍCULO 180.
+V. Los que dispongan del patrimonio del Estado, municipios o de organismos del sector auxiliar, ya sea en dinero o en especie sin sujetarse al trámite legal correspondiente.
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+VI. Los que intencionalmente o por omisión notoria, dejen de efectuar la gestión fiscal correspondiente en perjuicio de la hacienda estatal o municipal; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+VII. Los servidores públicos que realicen labores de fiscalización, auditoría o glosa y que intencionalmente, por imprevisión, negligencia o por falta de cuidado, propician el ocultamiento de algún delito cometido por los servidores públicos de la hacienda pública estatal, municipal y de organismos del sector auxiliar.
 
-###### ARTÍCULO 181.
+Se impondrán de tres a cinco años de prisión a los servidores públicos de la hacienda estatal, municipal, de la contaduría general de glosa, de la contraloría estatal y municipal y de otros organismos del sector auxiliar, obligados conforme a la Ley Orgánica de la Contaduría General de Glosa, que realicen los actos señalados en las fracciones I, II, VI y VII de este artículo.
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+Se sancionará con la pena que para los delitos de fraude establece este código, a los servidores públicos de la hacienda estatal o municipal o de organismos del sector auxiliar, que realicen actos establecidos en las fracciones III, IV y V de este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+Se equipara este delito a aquellas personas jurídicas colectivas o físicas que realicen funciones de auditoría al sector público.
 
-###### ARTÍCULO 182.
+### CAPITULO XVII. OCUPACION ILEGAL DE EDIFICIOS E INMUEBLES DESTINADOS A UN SERVICIO PUBLICO
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+###### Artículo 147.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+A quienes ocupen o impidan el acceso, transitoriamente, a edificios o inmuebles destinados a un servicio público, sea cual fuere la forma o el medio empleado, se les impondrán de uno a tres años de prisión y de treinta a cien días multa.
 
-###### ARTÍCULO 183.
+A los autores intelectuales, a quienes dirijan la comisión de este delito y a quienes la instiguen, se les impondrán de uno a cinco años de prisión y de treinta a ciento cincuenta días multa.
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+### CAPITULO XVIII. PRESTACION ILICITA DEL SERVICIO PUBLICO DE TRANSPORTE DE PASAJEROS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE JUNIO DE 2014)</small>
 
-###### ARTÍCULO 184.
+###### Artículo 148.
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+A quien preste el servicio público de transporte de pasajeros sin concesión, permiso o autorización correspondiente se le impondrá de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, y suspensión por un año del derecho de manejar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+Si en este delito tuviere intervención cualquier integrante del consejo de administración, socio o representante legal de una empresa concesionaria o permisionaria del servicio público de transporte y se cometiere bajo el amparo de aquélla, la pena aplicable se aumentará de una a dos terceras partes de las que le correspondan por el delito cometido y se le impondrá además la suspensión y privación de derechos para prestar el servicio público que se haya otorgado.
 
-###### ARTÍCULO 185.
+Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la legislación administrativa y las sanciones que correspondan, en su caso.
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+Este delito se perseguirá por querella de la dependencia u órgano estatal del ramo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-###### ARTÍCULO 186.
+### CAPITULO XIX. VENTA ILICITA DE BEBIDAS ALCOHOLICAS
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
+###### Artículo 148 Bis.
 
-## TÍTULO VIGÉSIMO SEGUNDO. Productos de perfumería, belleza y aseo
+(DEROGADO, G.G. 8 DE SEPTIEMBRE DE 2017)
 
-###### ARTÍCULO 187.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 17 DE JULIO DE 2013)</small>
 
-Para efectos de este Reglamento, dentro de los productos de perfumería y belleza quedan comprendidos los siguientes:
+### CAPITULO XX. IMPARTICION ILICITA DE EDUCACION
 
-I. Productos destinados a modificar el olor del cuerpo humano:
+> <small>(ADICIONADO, G.G. 17 DE JULIO DE 2013)</small>
 
-a. Antitranspirante,
+###### Artículo 148 Ter.
 
-b. Desodorante y
+Al que preste servicios educativos que conforme a la ley requieren autorización o reconocimiento de validez oficial de estudios y no los haya obtenido, se le impondrá de cinco a diez años de prisión y una multa de mil a mil quinientos días. En caso de reincidencia la pena se incrementará de una a dos terceras partes. La situación de trámite de la incorporación no libera de la responsabilidad.
 
-c. Perfume;
+Si en este delito tuviere intervención cualquier servidor público del ámbito educativo, la pena aplicable se aumentará de una a dos terceras partes de las que le corresponda por el delito cometido y se le impondrá, además, la destitución y su inhabilitación de ocho a veinte años para desempeñar empleo, cargo o comisión públicos.
 
-II. Productos o preparaciones de uso externo, destinados a preservar, mejorar o modificar la apariencia personal:
+Las sanciones previstas en este artículo se impondrán sin perjuicio de las medidas que disponga la legislación administrativa y las sanciones que correspondan, en su caso.
 
-1. Para el cabello:
+Este delito se perseguirá de oficio.
 
-a. Acondicionador,
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-b. Alaciador,
+### CAPITULO XXI. AUTORIZACIÓN DE BAILE CON CONTENIDO SEXUAL EN UNIDADES ECONÓMICAS
 
-c. Decolorante,
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-d. Enjuague,
+###### Artículo 148 Quáter.
 
-e. Fijador,
+A la autoridad, al propietario, al titular, al responsable o al encargado de una unidad económica que autorice o permita el baile de hombres y/o mujeres desnudos y/o semidesnudos con mensaje explícito de carácter erótico y/o sexual para el público asistente, se le impondrá de cinco a diez años de prisión y de mil a mil quinientos días multa.
 
-f. Producto para permanente,
+SUBTITULO TERCERO
 
-g. Tinte y
+DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
 
-h. Tratamiento capilar;
+### CAPITULO I. ENCUBRIMIENTO
 
-2. Para uso facial o corporal:
+###### Artículo 149.
 
-a. Aceite,
+Comete el delito de encubrimiento, el que:
 
-b. Autobronceador,
+I. Sin haber participado en el hecho delictuoso, albergue, oculte o proporcione la fuga al inculpado de un delito con el propósito de que se substraiga a la acción de la justicia;
 
-c. Bloqueador solar,
+II. Sin haber participado en el hecho delictuoso, altere, destruya o sustraiga las huellas o los instrumentos del delito u oculte los objetos o los efectos del mismo para impedir su descubrimiento; y
 
-d. Bronceador,
+III. Sin haber participado en el hecho delictuoso altere, destruya o sustraiga las huellas o los instrumentos del delito u oculte los objetos o efectos del mismo para evitar o dificultar la investigación o reconstrucción del hecho delictuoso.
 
-e. Crema,
+A los responsables de este delito se les impondrán de uno a tres años de prisión y de treinta a ciento cincuenta días multa.
 
-f. Corrector,
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
 
-g. Depilatorio,
+Cuando las conductas establecidas en este artículo se refieran a procedimientos penales por los delitos previstos en los artículos 241, 268 Bis, 274 y 281 de este Código, se impondrá por el encubrimiento de cuatro a ocho años de prisión y de cien a trescientos días multa.
 
-h. Desmaquillante,
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
 
-i. Epilatorio,
+Si el delito fuera cometido por servidores públicos de las Instituciones de Seguridad Pública o de administración de justicia, la pena se aumentará hasta en una mitad más de la que le corresponda, y será destituido e inhabilitado por un plazo igual a la pena privativa de libertad impuesta.
 
-j. Gel,
+###### Artículo 150.
 
-k. Loción,
+Al médico cirujano, enfermero o cualquier otro profesional, técnico o auxiliar de la salud que omitiera denunciar a la autoridad correspondiente los delitos contra la vida o la integridad corporal de que hubiere tenido conocimiento con motivo del ejercicio de su profesión, se le impondrán de uno a tres años de prisión y de treinta a ciento cincuenta días multa más suspensión del derecho de ejercicio de profesión de uno a tres años.
 
-l. Maquillaje,
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-m. Maquillaje para ojos,
+###### Artículo 151.
 
-n. Mascarilla,
+Al servidor público a quien se le haya hecho ofrecimiento o promesa de dinero o de cualquier otra dádiva con el propósito de realizar cohecho, y que no lo haga del conocimiento del Ministerio Público, se le impondrán de uno a tres años de prisión y de treinta a ciento cincuenta días multa y destitución de su empleo, cargo o comisión.
 
-ñ. Producto para labios,
+Si el delito fuera cometido por servidores públicos de la administración y procuración de justicia, así como de la policía pública o privada, se aumentará la pena hasta en una mitad más de la que le corresponda.
 
-o. Protector o filtro solar y
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
 
-p. Rubor y
+###### Artículo 152.
 
-3. Para manos y uñas:
+Comete el delito de encubrimiento por receptación, el que sin haber participado en la comisión de un hecho delictivo:
 
-a. Para el cuidado de las uñas,
+I. Acepte, reciba, adquiera, posea, venda, enajene, comercialice, trafique, pignore, traslade, use u oculte el o los objetos, productos o instrumentos del delito, con conocimiento de esta circunstancia. Al responsable de este delito se le impondrán dos terceras partes de la pena del delito encubierto y multa igual a cinco veces el valor de los bienes, sin exceder de un mil días multa.
 
-b. Para la limpieza de las manos,
+En el caso que se trate de un vehículo automotor, se impondrá la pena de dos a ocho años de prisión y multa igual a cinco veces el valor del bien.
 
-c. Removedor de cutícula y
+II. Acepte, reciba, adquiera, posea, pignore, traslade, use u oculte mediante cualquier forma o título, objetos, productos o instrumentos del delito, sin haber adoptado las precauciones indispensables para cerciorarse de su procedencia lícita o para asegurarse de que la persona de quien los recibió tenía derecho para disponer de ellos.
 
-d. Removedor o quita esmalte;
+Al responsable de este delito se le impondrán las penas correspondientes al delito culposo. Cuando se trate de un vehículo automotor, se le impondrán de uno a tres años de prisión y multa igual a tres veces el valor de los bienes.
 
-III. Productos o preparados destinados al aseo de las personas:
+Se entiende por adoptar las precauciones indispensables, contar con la documentación que acredite la propiedad o posesión del bien, como la factura, contrato de arrendamiento, endoso, entre otros.
 
-a. Champú (Shampoo),
+Para el caso de vehículos automotores se entiende por adoptar las precauciones indispensables, cuando en la documentación probatoria de trasmisión de la propiedad se establezca la fecha de adquisición y el precio de su trasmisión, el nombre, el domicilio y el número de identificación oficial del vendedor, así como la constancia o certificación obtenida electrónicamente, de que el vehículo no aparece en la base de datos de autos robados del Registro Público Vehicular al momento de la compra-venta.
 
-b. Dermolimpiador,
+Lo anterior, sin perjuicio de que durante la investigación se acredite que la documentación es apócrifa o que los medios de identificación del vehículo hayan sido alterados.
 
-c. Jabón de tocador,
+###### Artículo 153.
 
-d. Para el baño: sales y burbujas,
+Estarán exentos de las penas impuestas a los encubridores, los que lo sean de su cónyuge, concubino, ascendientes y descendientes consanguíneos o afines, parientes colaterales, por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo, o que estén ligados con el responsable por respeto, gratitud o estrecha amistad, siempre que no lo hiciere por un interés ilegítimo ni empleare algún medio delictuoso. Esto no se aplicará en el caso del artículo anterior.
 
-e. Preparaciones para antes y después del afeitado y
+### CAPITULO II. ACUSACION O DENUNCIAS FALSAS
 
-f. Toallitas limpiadoras, y
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-IV. Otros productos:
+###### Artículo 154.
 
-a. Adhesivos para pestañas y uñas postizas.
+Al que impute falsamente a otro un hecho considerado como delito, si esta imputación se hiciera ante un servidor público, que por razón de su cargo, empleo o comisión deba proceder a la investigación del mismo, se impondrán de dos a seis años de prisión de cincuenta a quinientos días multa y hasta un mil días multa por concepto de reparación del daño.
 
-###### ARTÍCULO 188.
+No se procederá contra el autor de este delito, sino en virtud de sentencia ejecutoriada o auto de sobreseimiento dictado por el órgano jurisdiccional que hubiese conocido del delito imputado.
 
-Los fabricantes de productos de perfumería y belleza son responsables de la calidad sanitaria de los productos que elaboran.
+La reparación del daño comprenderá una indemnización por concepto de daño moral y la publicación de sentencia absolutoria a costa del sentenciado o presunto ofendido según sea el caso.
 
-###### ARTÍCULO 189.
+###### Artículo 155.
 
-No se podrán utilizar en la elaboración de los productos de este capítulo los estupefacientes y psicotrópicos contenidos en los artículos 234 y 245 de la Ley, fármacos, preparados farmacéuticos y los que se establezcan en las listas correspondientes.
+Se impondrá igual pena a la señalada en el artículo anterior al que para hacer que un inocente aparezca como culpable ponga sobre la persona o en cualquier lugar adecuado para ese propósito un bien que pueda dar indicios o presunciones de responsabilidad. A la pena señalada se le agregará la de publicación de sentencia.
 
-###### ARTÍCULO 190.
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-Para comprobar que los productos de perfumería y belleza no causen daño a la salud, deberán llevarse a cabo las siguientes pruebas:
+Si se tratare de un servidor público de la administración o procuración de justicia se aumentarán las penas hasta con una mitad de la que le corresponde, destitución e inhabilitación de cuatro a doce años, para desempeñar empleo, cargo o comisión públicos.
 
-I. Índice de irritación primaria dérmica para:
+### CAPITULO III. FALSO TESTIMONIO
 
-a. Acondicionadores, enjuagues, lociones capilares y fijadores,
+###### Artículo 156.
 
-b. Decolorantes, tintes temporales y tintes progresivos,
+Comete el delito de falso testimonio, el que:
 
-c. Depilatorios,
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-d. Desodorantes y antitranspirantes,
+I. Entrevistado o interrogado por alguna autoridad pública o fedatario en ejercicio de sus funciones o con motivo de ellas faltare a la verdad;
 
-e. Jabones, champús (shampoos) para niños,
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-f. Jabones de tocador, dermolimpiadores, champú (shampoo) y productos para el baño,
+II. Al rendir su entrevista o declaración como testigo, faltare a la verdad en relación con el hecho, que se trata de investigar ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba sobre la verdad o falsedad del hecho principal o que aumente o disminuya la gravedad;
 
-g. Lociones, aceites, cremas, maquillajes y correctores,
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
-h. Lociones, aceites y cremas para niños,
+III. Soborne a un testigo, a un perito o a un intérprete para que se produzca con falsedad en juicio; o los obligue o comprometa a ella en cualquier forma; y
 
-i. Máscaras o rímel, delineadores, sombras, adhesivos para pestañas postizas y cremas para el contorno de los ojos,
+IV. Siendo perito o intérprete, afirmare una falsedad, negare o callare la verdad, al rendir un dictamen o hacer una traducción.
 
-j. Perfumes, colonias y extractos,
+Al responsable de este delito se le impondrán de dos a seis años de prisión y de treinta a setecientos cincuenta días multa.
 
-k. Polvos y talcos para niños y adultos,
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
-l. Preparaciones para antes y después del afeitado,
+Cuando la falsedad o el ocultamiento de la verdad a que se refiere la fracción I de este artículo, se hagan en procedimientos que versen sobre alimentos se le impondrán de tres a siete años de prisión y de cincuenta a mil días multa.
 
-m. Productos para labios y rubores,
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-n. Productos para la limpieza de las manos,
+En el caso de la fracción II, la pena será de tres a quince años de prisión y de cien a quinientos días multa, para el testigo que fuere examinado en un procedimiento penal, cuando al imputado se le haya impuesto una pena mayor de tres años de prisión y el testimonio falso haya servido de base para la condena.
 
-ñ. Protectores o filtros y bloqueadores solares, bronceadores y autobronceadores,
+###### Artículo 157.
 
-o. Removedores de cutícula, endurecedores, prolongadores, reparadores y adhesivos para uñas postizas y
+Al testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas ante cualquier autoridad antes de que se pronuncie sentencia ejecutoriada, se le impondrán de treinta a sesenta días multa. Pero si en la retractación faltare a la verdad, se le impondrá la pena que corresponda con arreglo a lo prevenido en el artículo anterior, considerándolo como reincidente.
 
-p. Tintes permanentes, productos para permanentes y alaciadores;
+### CAPITULO IV. EVASION
 
-II. Índice de sensibilización para:
+###### Artículo 158.
 
-a. Decolorantes, tintes temporales y tintes progresivos,
+Al que auxilie o favorezca la evasión de algún detenido, procesado o condenado, se le impondrán de uno a siete años de prisión y de treinta a doscientos cincuenta días multa. Si fuere el encargado de conducir o custodiar al evadido será además destituido de su empleo.
 
-b. Depilatorios,
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-c. Desodorantes y antitranspirantes,
+Si el detenido, procesado o sentenciado lo fuera por delito que amerite prisión preventiva oficiosa, se impondrá una pena de siete a quince años de prisión.
 
-d. Jabones y champús (shampoos) para niños,
+###### Artículo 159.
 
-e. Lápices de labios y rubores,
+No se aplicará pena alguna a los ascendientes, descendientes, cónyuge, concubino o hermanos del evadido, sus parientes por afinidad hasta el segundo grado, excepto en el caso de que hayan proporcionado la fuga por medio de violencia en las personas o fuerza en las cosas, o fueran los encargados de conducir o custodiar al prófugo.
 
-f. Lociones, aceites y cremas para niños,
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-g. Perfumes, colonias y extractos (fotosensibilización),
+###### Artículo 160.
 
-h. Preparaciones para antes y después del afeitado,
+Al que propicie al mismo tiempo y en un sólo acto la evasión de varias personas privadas de la libertad por la autoridad competente, se le impondrán de cuatro a doce años de prisión y de cincuenta a trescientos cincuenta días multa. Si el inculpado prestara sus servicios en el establecimiento o fuera custodio de los evadidos, quedará además destituido de su empleo y se le inhabilitará de ocho a veinte años.
 
-i. Protectores o filtros solares, bronceadores, autobronceadores (fotosensibilización) y bloqueadores solares y
+###### Artículo 161.
 
-j. Tintes permanentes, productos para permanentes y alaciadores, y
+Si la reaprehensión del evadido se lograre por gestiones del responsable de la evasión, se le impondrán de tres meses a un año de prisión y de treinta a cien días multa;
 
-III. Índice de irritación ocular:
+###### Artículo 162.
 
-a. Jabones, champús (shampoos) para niños,
+Al detenido, procesado o condenado que se evada, se le impondrá de uno a dos años de prisión y de cincuenta a trescientos días multa, independientemente de los delitos que cometa en su evasión.
 
-b. Jabones de tocador, dermolimpiadores, champús (shampoos) y productos para el baño y
+### CAPITULO V. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS DE LA LIBERTAD Y MEDIDAS DE SEGURIDAD
 
-c. Máscaras o rímel, delineadores, sombras, adhesivos para pestañas postizas, cremas para el contorno de los ojos y desmaquillantes.
+###### Artículo 163.
 
-###### ARTÍCULO 191.
+Al sentenciado a confinamiento que salga del lugar que se haya fijado para su residencia antes de extinguirla, se le impondrá prisión por el tiempo que le falte para extinguir el confinamiento.
 
-Los productos de perfumería y belleza hipoalergénicos deberán someterse previamente a pruebas biológicas de sensibilización dérmica para comprobar su condición de hipoalergenicidad.
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 192.
+Al que favorezca el quebrantamiento de la pena o medida de seguridad, se impondrá de seis meses a un año de prisión. Si se trata de un servidor público que tenga a su cargo el cumplimiento de la pena o medida, la pena de prisión será de uno a tres años y privación definitiva del cargo o comisión e inhabilitación para ocupar otro de igual naturaleza durante un período de dos a seis años.
 
-Se deberán efectuar controles microbiológicos en la fabricación de los siguientes productos:
+###### Artículo 164.
 
-I. Productos para la piel: cremas, lociones crema, talcos y polvos, maquillajes, lápices labiales, bronceadores, autobronceadores, protectores o filtros y bloqueadores solares;
+Se impondrán de tres a seis meses de prisión:
 
-II. Productos para el área de los ojos: sombras, delineadores, rímel o máscara para pestañas y desmaquillantes, y
+I. Al inculpado sometido a la vigilancia de la autoridad que no ministre a ésta los informes que se le pidan sobre su conducta; y
 
-III. Productos para niños: talcos, polvos, aceites, cremas y lociones crema.
+> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
 
-###### ARTÍCULO 193.
+II. A aquél a quién se hubiere prohibido ir a determinado lugar o residir en él, si violare la prohibición.
 
-No se podrán vender a granel los tintes, productos para permanentes, alaciadores, decolorantes, depilatorios y productos de tratamiento de belleza que contengan como principios activos: vitaminas, proteínas, lecitina, hidroquinona, liposomas y las demás que se establezcan en las normas correspondientes.
+###### Artículo 165.
 
-###### ARTÍCULO 194.
+Al reo suspendido o inhabilitado en su profesión u oficio o suspendido o inhabilitado para ejercer, que quebrante su condena, se le impondrán de treinta a doscientos cincuenta días multa. En caso de reincidencia, se impondrán de uno a seis años de prisión y se duplicará la multa.
 
-La venta a granel de los productos a que se refiere este capítulo, deberá efectuarse en envases cerrados herméticamente, para evitar su contaminación y, para su despacho al público, se deberán utilizar recipientes limpios y emplear utensilios perfectamente lavados para cada producto.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 24 DE ENERO DE 2014)</small>
 
-###### ARTÍCULO 195.
+### CAPITULO V BIS. FRAUDE PROCESAL
 
-Los productos de tratamiento cosmético deberán ajustarse a las disposiciones que para cada uno de ellos se establezcan en las normas correspondientes.
+> <small>(ADICIONADO, G.G. 24 DE ENERO DE 2014)</small>
 
-###### ARTÍCULO 196.
+Artículo 165 bis.- Comete el delito de fraude procesal quien simule actos jurídicos, un acto o escrito judicial, altere condiciones de trabajo, altere elementos de prueba o escritos oficiales y los presente o exhiba en los procedimientos jurisdiccionales, con el propósito de provocar o inducir una resolución judicial o administrativa de la que derive un beneficio o un perjuicio indebido para sí o para otro, con independencia de la obtención del resultado. Se le impondrán de uno a seis años de prisión, y de cincuenta a doscientos cincuenta días multa.
 
-Las listas de los ingredientes, aditivos, coadyuvantes de elaboración y plantas permitidos, restringidos o prohibidos para la formulación de los productos a que se refiere este título, también se podrán modificar a petición de cualquier interesado, para lo cual deberá proporcionar a la Secretaría la siguiente información, según corresponda:
+De concretarse el perjuicio o los beneficios referidos en el párrafo anterior, las penas se incrementaran hasta en dos tercios
 
-I. Nombre genérico y sinónimo más conocido, si se trata de una sustancia química, o género y especie, si se trata de un producto derivado de un vegetal o animal;
+Cuando en la comisión de este delito participe un profesional del derecho, perito o litigante legalmente autorizado, además de las penas anteriores, se le suspenderá el derecho de ejercer la actividad indicada por un término igual al de la prisión impuesta.
 
-II. Cuando proceda, fórmula química condensada y estructural, si se conoce;
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-III. Justificación de su función en el producto;
+Este delito se perseguirá por querella, salvo que la cuantía o monto del litigio exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, al momento de realizarse el hecho.
 
-IV. DL50 aguda oral, irritación primaria dérmica, irritación ocular y sensibilización, en su caso;
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
 
-V. Los métodos analíticos para determinar su identidad, concentración y contaminantes;
+### CAPITULO VI. DELITOS COMETIDOS POR SERVIDORES PÚBLICOS DE LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
-VI. Productos en los que se propone su empleo y, en su caso, límites de concentración máxima a emplear, y
+###### Artículo 166.
 
-VII. Para el caso de las denominaciones: la composición cualitativa, propiedades fisicoquímicas, proceso de elaboración, presentación final del producto, uso, función y efectos, en su caso.
+(DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2012)</small>
 
-###### ARTÍCULO 196 Bis.
+### CAPITULO VII
 
-La información contenida en la etiqueta de los productos objeto de este Título, deberá aparecer en idioma español a excepción de la lista de ingredientes que podrá declararse con la Nomenclatura Internacional de Ingredientes Cosméticos (INCI).
+DELITOS CONTRA EL CORRECTO FUNCIONAMIENTO DE LAS INSTITUCIONES DE SEGURIDAD PUBLICA Y ORGANOS JURISDICCIONALES, Y DE LA SEGURIDAD DE LOS SERVIDORES PUBLICOS Y PARTICULARES
 
-Las leyendas precautorias asociadas a ingredientes que conforme a las disposiciones que emita la Secretaría representen riesgos a la salud, deberán estar escritas en idioma español, incluyendo el nombre de dichos ingredientes.
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
-Cuando los ingredientes se hayan declarado conforme a la Nomenclatura Internacional de Ingredientes Cosméticos (INCI), las leyendas precautorias a que hace referencia el párrafo anterior deberán incluir también dicha denominación.
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
 
-###### ARTÍCULO 197.
+###### Artículo 166 Bis.
 
-Los productos de aseo que quedan sujetos al control sanitario de este Reglamento son aquellas sustancias o mezclas de éstas que se emplean de forma directa o indirecta, independientemente de su estado físico, en la limpieza, lavado e higiene de objetos, superficies y fibras textiles y que tienen por objeto desprender o eliminar la suciedad y las manchas; proporcionar un determinado aroma o eliminar malos olores; impartir un acabado lustroso a objetos y superficies; modificar y acondicionar la textura o cualquier otra característica de las telas; desobstruir los ductos sanitarios de las aguas residuales y pluviales y los demás con fines análogos que determine la Secretaría.
+Comete este delito quien:
 
-###### ARTÍCULO 198.
+> <small>(REFORMADA, G.G. 16 DE OCTUBRE DE 2014)</small>
 
-En las normas se establecerán las disposiciones y especificaciones sobre la seguridad de uso de los envases de los productos a que se refiere este capítulo.
+I. Aceche, vigile, espíe, rastree, proporcione información, o realice actos tendientes a obtener información sobre las actividades oficiales o personales, ubicación, operativos o, en general, relacionadas con sus funciones, que realicen o pretendan realizar los servidores públicos de las Instituciones de Seguridad Pública, los integrantes del ejército, marina armada o fuerza aérea nacional, cuando actúen en auxilio de las autoridades u Órganos Jurisdiccionales del Estado, con la finalidad de que, por sí o por tercera persona, se entorpezca o evite el cumplimiento de sus funciones o se ocasione un daño a dichas instituciones, órganos o servidores públicos;
 
-Los envases que contengan productos de aseo, además de cumplir con lo establecido en este Reglamento deberán permitir el fácil vertido del producto y, en su caso, contar con un dispositivo que evite escurrimientos, salpicaduras y derrames.
+II. Ingrese, altere o acceda a información de las instituciones de seguridad pública u órganos jurisdiccionales con los fines señalados en el párrafo anterior;
 
-###### ARTÍCULO 199.
+III. Aceche, vigile, espíe o proporcione información, sobre las actividades que realice o pretenda realizar cualquier persona con la finalidad de ocasionarle un daño; y
 
-Los repelentes de insectos que se destinen para uso humano y que contengan ingredientes activos diferentes a los establecidos en el acuerdo del Secretario de Salud publicado en el Diario Oficial de la Federación, deberán ser sometidos a pruebas de irritación primaria dérmica y de sensibilización, así como pruebas toxicológicas para determinar su DL50 oral aguda y DL50 dérmica u otras que solicite la Secretaría conforme a la evaluación previa que se lleve a cabo. Los resultados de dichas pruebas, estarán a disposición de la Secretaría cuando los requiera.
+> <small>(REFORMADA, G.G. 16 DE OCTUBRE DE 2014)</small>
 
-## TÍTULO VIGÉSIMO TERCERO. Aditivos
+IV. Para la realización de alguna de las conductas y fines descritos en la fracción I de este artículo, porte o posea teléfono celular, sistemas de telecomunicaciones o de radiocomunicación;
 
-###### ARTÍCULO 200.
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
 
-(DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
+V. Permita, tolere o facilite la introducción de teléfonos celulares, sistemas de comunicación electrónica o radiocomunicación, dinero, drogas o enervantes, armas, o cualquier objeto o substancia prohibida al interior de los Centros Preventivos y de Readaptación Social del Estado de México, con excepción de los casos previstos en las disposiciones jurídicas aplicables;
 
-###### ARTÍCULO 201.
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
 
-Los aditivos deberán:
+VI. Trafique o introduzca teléfonos celulares, sistemas de comunicación electrónica o de radiocomunicación, dinero, drogas o enervantes, armas, o cualquier otro objeto o substancia prohibida al interior de los Centros Preventivos y de Readaptación Social del Estado de México, con excepción de los casos previstos en las disposiciones jurídicas aplicables.
 
-I. Usarse únicamente en la cantidad necesaria para obtener el efecto deseado;
+Las conductas establecidas en este artículo se sancionarán con pena de 6 a 10 años de prisión y de cien a doscientos días multa, sin perjuicio de las penas que les correspondan por los delitos que cometan.
 
-> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
 
-II. No exceder los límites permitidos en el Acuerdo al que se refiere el artículo 22 de este Reglamento, y
+No se actualizará el delito en el caso de los visitantes que ingresen y salgan de los Centros Preventivos y de Readaptación Social portando dinero de su propiedad, hasta por un monto de 17 días de salario mínimo, el cual deberá ser declarado al ingreso.
 
-III. Estar libres, en su caso, de descomposición, putrefacción y otras alteraciones que los hagan no aptos para el consumo humano.
+> <small>(ADICIONADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+Si derivado de la realización de alguna de las conductas del delito previstas en este artículo se cometiere otro delito, se sancionará al partícipe por ambos delitos, de conformidad con las reglas del concurso de delitos.
 
-###### ARTÍCULO 202.
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
 
-El uso de los aditivos y coadyuvantes de elaboración, así como la cantidad a emplear, quedan sujetos a las disposiciones que se señalan en el presente ordenamiento y a las que se establezcan en el Acuerdo al que se refiere el artículo 22 de este Reglamento.
+###### Artículo 166 Ter.
 
-Las leyendas de advertencia que, en su caso, deberán utilizarse para los productos que contengan estos aditivos se establecerán en las normas correspondientes.
+La pena señalada en el artículo anterior se agravará en los siguientes términos:
 
-###### ARTÍCULO 203.
+I. Si el delito es cometido por servidores públicos de Instituciones de Seguridad Pública u Órganos Jurisdiccionales del Estado de México, se aumentará la pena hasta una mitad más de la que corresponda. Además, se impondrá la destitución definitiva del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro de 5 a 15 años;
 
-No se podrán emplear aditivos cuando no se reúnan los siguientes requisitos:
+II. Tratándose de miembros de Instituciones Policiales de la Federación, del Distrito Federal o de otros (sic) Entidades Federativas, se aumentará la pena hasta una mitad más de la que corresponda. Además se impondrá inhabilitación para desempeñar igual o similar empleo, cargo o comisión de 5 a 15 años; y
 
-I. Que sean inofensivos al emplearse al nivel de uso permitido;
+III. Si el delito fuera cometido por ex servidores públicos de Instituciones de Seguridad Pública u Órganos Jurisdiccionales de la Federación, del Distrito Federal, de los Estados o los Municipios, o de ex integrantes de las fuerzas armadas se aumentará la pena hasta una tercera parte más de la que corresponda.
 
-II. Que cumplan una función útil y no se usen para ocultar defectos de calidad sanitaria;
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-III. Que se obtenga un efecto que pueda lograrse con sólo utilizar buenas prácticas de fabricación, y
+IV. Cuando el delito se cometa utilizando cualquier medio de comunicación mediante el cual se pueda realizar la emisión, transmisión o recepción de: signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe a través de hilos, medios de transmisión inalámbrica de ondas o señales electromagnéticas, medios ópticos, o cualquier medio físico, se le aumentará la pena hasta una tercera parte más de la que corresponda.
 
-IV. Que tenga un método analítico que controle efectivamente su uso o justifique la inaplicabilidad de éste.
+SUBTITULO CUARTO
 
-###### ARTÍCULO 204.
+DELITOS CONTRA LA FE PUBLICA
 
-No se podrán emplear los colorantes denominados sudanes, solvente rojo 23, rojo toney, color índex 26100 o rojo DC 17, ni cualquier otro colorante no permitido en alimentos y bebidas, de conformidad con la lista respectiva.
+### CAPITULO I. FALSIFICACION DE DOCUMENTOS
 
-> <small>(REFORMADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 205.
+###### Artículo 167.
 
-Cuando la Comisión Federal para la Protección contra Riesgos Sanitarios tenga conocimiento, basado en investigación científica reconocida, de que un aditivo muestra indicios confirmados de efectos cancerígenos, teratogénicos, mutagénicos o cualquier otro riesgo a la salud, no permitirá su importación, prohibirá su elaboración, almacenamiento y venta, aplicará las medidas de seguridad correspondientes y propondrá las modificaciones correspondientes al Acuerdo a que se refiere el artículo 22 de este Reglamento.
+A quien falsifique documentos públicos o privados, ya sean físicos o electrónicos, se le impondrán de dos a ocho años de prisión y de cien a mil días multa.
 
-###### ARTÍCULO 206.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-Todos los aditivos deberán estar debidamente envasados y etiquetados. Los envases deberán proteger a los productos de cualquier contaminación. Las etiquetas deberán contener las leyendas establecidas en este Reglamento y en las normas correspondientes.
+La penalidad será de tres a siete años de prisión y de trescientos a mil quinientos días multa, si el documento es una credencial o medio de identificación de los autorizados oficialmente para los miembros del Ministerio Público o de las corporaciones policiacas, así como de los integrantes del Poder Judicial.
 
-###### ARTÍCULO 207.
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-Los materiales para envases que tengan sustancias que puedan migrar a los productos, sin poner en riesgo la salud del consumidor, se consideran como aditivos indirectos.
+La pena a que se refiere el párrafo anterior se adicionará de un tercio a una mitad, a los particulares que falsifiquen documentos para obtener de un notario público la certificación de hechos, alguna escritura, acta notarial, testimonio, copia certificada o certificación notarial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 208.
+Si en esta conducta participare algún empleado o gestor de una notaría pública o quien hubiese trabajado para alguna notaría pública, la pena señalada en el párrafo anterior se incrementará de un tercio a una mitad más.
 
-Las listas de aditivos permitidos, prohibidos o restringidos contenidas en el Acuerdo al que se refiere el artículo 22 de este Reglamento, se podrán modificar a petición de cualquier interesado, siempre que proporcione la siguiente información:
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-I. El nombre genérico y el sinónimo más conocido, si se trata de una sustancia química, o el género y especie, si se trata de un producto derivado de un vegetal o animal;
+Al que para eludir responsabilidades fiscales o administrativas de cualquier índole, proporcione a la autoridad documentos físicos o electrónicos, informes o declaraciones falsas que ocasionen perjuicio directo o indirecto al fisco estatal o municipal, se le impondrán de seis meses a siete años de prisión.
 
-II. Cuando proceda, la fórmula química condensada y estructural, si se conoce;
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-III. La justificación de su función tecnológica;
+Si quien realiza la falsificación es un servidor público, las penas de que se trate aumentarán hasta en una mitad y se inhabilitará de uno a diez años para desempeñar empleo, cargo o comisión públicos.
 
-IV. Los estudios toxicológicos de origen nacional o extranjero, a corto y largo plazo en los que se incluya la DL50 en animales mamíferos de laboratorio y la ingestión diaria admisible para evaluar su inocuidad, especialmente en relación con el cáncer y sus efectos teratogénicos, si es el caso;
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-V. Los métodos analíticos para determinar su identidad, pureza y contaminantes, y
+Este delito se perseguirá de oficio.
 
-VI. Los productos en los que se propone su empleo y proporción, de manera que ésta no rebase los márgenes de seguridad, a fin de determinar si su uso representa un riesgo para la salud del consumidor.
+###### Artículo 168.
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+El delito de falsificación de documentos se comete por alguno de los medios siguientes:
 
-La modificación de las listas de aditivos permitidos, prohibidos o restringidos contenidas en el Acuerdo al que se refiere el artículo 22 de este Reglamento, también podrá llevarse a cabo a petición de cualquier interesado, cuando proporcione para su aprobación a la Secretaría las evaluaciones y aprobaciones del Comité Mixto FAO/OMS de Expertos en Aditivos Alimentarios, el Codex Alimentarius, de la Unión Europea o de los Estados Unidos de América.
+I. Estampando una firma o rúbrica falsa, aunque sea imaginaria, o alterando una verdadera;
 
-> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-###### ARTÍCULO 208 Bis.
+II. Aprovechando indebidamente una firma o rúbrica en blanco ajena, la firma electrónica avanzada o el sello electrónico en su caso, extendiendo una obligación o liberación o cualquier otro documento que pueda comprometer los bienes, la honra, la persona o la reputación de otra, o causar un perjuicio a la sociedad, al Estado, al municipio o a un tercero;
 
-Se podrán utilizar de manera inmediata aquellos aditivos y coadyuvantes de elaboración que hayan sido evaluados y aprobados por la Secretaría, en tanto se actualiza el Acuerdo al que se refiere el artículo 22 de este Reglamento, siempre que dichas sustancias sean difundidas en la página electrónica de la Comisión Federal para la Protección contra Riesgos Sanitarios. La actualización del citado Acuerdo deberá realizarse cada seis meses.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-## TÍTULO VIGÉSIMO CUARTO. Envases y envasado de productos
+III. Alterando el contexto de un documento físico o electrónico verdadero, después de concluido y firmado o sellado, si esto cambiare su sentido sobre alguna circunstancia o punto substancial, ya sea que se haga añadiendo, enmendando o borrando, en todo o en parte, una o más palabras, cifras o cláusulas o variando la puntuación;
 
-###### ARTÍCULO 209.
+IV. Variando la fecha o cualquier otra circunstancia relativa al tiempo de la ejecución del acto que se exprese en el documento;
 
-Los productos, de acuerdo con sus características, podrán contar con los envases que sean necesarios para garantizar su integridad e inocuidad.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+V. Atribuyéndose el que extienda el documento físico o electrónico o a la persona en cuyo nombre lo hace, un nombre o una investidura, calidad o circunstancia que no tenga y que sea necesaria para la validez del acto;
 
-###### ARTÍCULO 210.
+VI. Redactando un documento en términos que cambien el convenio celebrado, en otra diversa, en que varíen las declaraciones o disposiciones del otorgante, las obligaciones que se propuso contraer a los derechos que debió adquirir;
 
-La clasificación de los envases y las características físicas, químicas y de toxicidad para cada tipo de material de envase, además de lo previsto en este Reglamento, serán especificadas en las normas correspondientes.
+VII. Añadiendo o alterando cláusulas o declaraciones o asentando como ciertos hechos falsos, como confesados los que no están, si el documento en que se asientan se extendiere para hacerlos constar como prueba de ellos;
 
-La Secretaría determinará, mediante Acuerdo que se publique en el Diario Oficial de la Federación, los criterios conforme a los cuales un envase, en razón de la cantidad de producto que contiene, podrá ser considerado como familiar.
+VIII. Expidiendo un testimonio supuesto de documentos que no existen; dándolo de otro existente que carece de requisitos legales suponiendo falsamente que los tiene; o de otro que no carece de ellos, pero agregando o suprimiendo en la copia algo que importe una variación sustancial;
 
-###### ARTÍCULO 211.
+IX. Alterando un perito traductor o paleógrafo el contenido de un documento, al traducirlo o descifrarlo; y
 
-Las sustancias que se utilicen, en su caso, para recubrir interiormente los envases de los alimentos, bebidas no alcohólicas, bebidas alcohólicas y productos de perfumería y belleza, deberán reunir los siguientes requisitos:
+X. Reproduciendo credenciales, medios de identificación, o formas oficiales, sin autorización y si éstas fueran empleadas para cometer un ilícito.
 
-I. Quedar perfectamente adheridas a las superficies en que se apliquen y no desprenderse, quebrarse o incorporarse en alguna forma al contenido, bajo condiciones normales de uso;
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
-II. Ser insolubles o inactivas con respecto a los componentes del contenido;
+XI. Entregando documentación falsa en formatos electrónicos a los sujetos de la Ley de Gobierno Digital del Estado de México y Municipios, para llevar a cabo la sustanciación de trámites, servicios, procesos administrativos y jurisdiccionales, actos, comunicaciones y procedimientos, realizados a través de los portales que se creen para tal efecto.
 
-III. No ser tóxicas;
+###### Artículo 169.
 
-IV. Quedar totalmente exentas de los compuestos volátiles que se utilicen para su disolución y aplicación;
+Para que el delito de falsificación de documentos sea penado, se necesita que concurra cualquiera de los requisitos siguientes:
 
-V. No contener metales pesados;
+I. Que el falsario se proponga sacar algún provecho para sí o para otro;
 
-VI. Impedir la corrosión del envase, y
+II. Que resulte o pueda resultar perjuicio a la sociedad, al Estado, municipio o a un particular, ya sea en los bienes de éste o en su persona, en su honra o reputación; y
 
-VII. No alterar, en su caso, la acidez o alcalinidad del producto.
+III. Que el falsario haga la falsificación sin consentimiento de la persona a quien resulte o pueda resultar perjuicio o sin el de aquella en cuyo nombre se hizo el documento.
 
-###### ARTÍCULO 212.
+###### Artículo 170.
 
-En la producción de envases, se podrá emplear material reutilizado, reciclado o no considerado en las normas únicamente cuando se garantice que el envase que se obtenga sea inocuo.
+También se impondrá la pena señalada en el artículo 167, al que:
 
-###### ARTÍCULO 213.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-El envase de los productos deberá evitar fugas que puedan causar daño a la salud y, en su caso, la contaminación química o microbiológica del producto.
+I. Por engaño o sorpresa, hiciere que alguien firme un documento público físico o electrónico, que no habría firmado o sellado de saber su contenido;
 
-###### ARTÍCULO 214.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-No se podrán reutilizar envases para alimentos, bebidas no alcohólicas, alcohólicas o productos de perfumería y belleza, que hayan contenido medicamentos, productos de aseo, plaguicidas, nutrientes vegetales o sustancias tóxicas o peligrosas.
+II. En ejercicio de funciones notariales, expida una certificación de hechos que no sean ciertos o de fe de lo que no conste en asuntos, registros, protocolos o documentos físicos o electrónicos;
 
-## TÍTULO VIGÉSIMO QUINTO. Irradiación de productos
+III. Para eximirse de un servicio debido legalmente o de una obligación impuesta por la ley, exhiba una certificación de enfermedad o impedimento que no tiene, como expedida por un médico o cirujano, sea que exista realmente la persona a quien la atribuya, o sea imaginaria; y
 
-###### ARTÍCULO 215.
+> <small>(ADICIONADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-Sólo se podrán utilizar radiaciones ionizantes en productos, materias primas y aditivos cuando respondan a una necesidad tecnológica o cuando contribuya a alcanzar alguno de los siguientes objetivos de higiene alimentaria:
+III. Bis. Permita por acción u omisión la prestación de servicios exclusivos de la función notarial a través de la utilización de sellos, marcas, protocolos o cualquier otro instrumento exclusivo de la función notarial que esté a su cargo, en oficina o establecimiento diverso al registrado ante la autoridad competente en materia notarial.
 
-I. Descontaminar;
+Las sanciones previstas en la presente fracción se impondrán sin perjuicio de las demás responsabilidades administrativas, civiles o penales que se configuren.
 
-II. Esterilizar;
+IV. Certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de prestar un servicio que exija la ley o de cumplir una obligación que ésta impone para adquirir algún derecho.
 
-III. Desinfestar;
+> <small>(ADICIONADA, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Retrasar la maduración;
+V. A quien falsifique documentos o instrumentos propios de la Función Notarial.
 
-V. Prevenir brotes o germinación;
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VI. Prolongar el tiempo de conservación, y
+Si quien realiza la falsificación es empleado o gestor de alguna notaria publica o servidor público las penas se incrementarán de un tercio hasta una mitad más.
 
-VII. Dar tratamiento cuarentenario.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 216.
+###### Artículo 170 Bis.
 
-La radiación ionizante no deberá aplicarse para ocultar prácticas incorrectas de elaboración o para disimular alteraciones en los productos. Tampoco se aplicará, en ningún caso, a los alimentos para lactantes y niños de corta edad.
+A quien por medio de la violencia física o moral obligue a un fedatario público a asentar en sus protocolos, actos o hechos que no correspondan a la realidad, con el propósito de obtener para sí o para otro, un provecho, beneficio o lucro indebido, se impondrá una pena de ocho a quince años de prisión y de dos mil a cinco mil días multa.
 
-###### ARTÍCULO 217.
+### CAPITULO II. FALSIFICACION DE SELLOS, LLAVES O MARCAS
 
-La irradiación de productos, materias primas y aditivos se hará de acuerdo con el tipo y tamaño de fuente de energía, con las características del irradiador, con la naturaleza y condiciones del producto, de conformidad con lo establecido en las normas correspondientes.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 218.
+###### Artículo 171.
 
-Las dosis de irradiación de productos, materias primas y aditivos, así como su propósito, se establecerán en la norma correspondiente.
+Se impondrán de tres a ocho años de prisión y de trescientos a mil días multa, al que con el propósito de obtener un provecho o causar un daño:
 
-###### ARTÍCULO 219.
+I. Falsifique llaves, sellos o marcas oficiales; y
 
-Los niveles de radiación utilizados en el tratamiento de productos, materias primas y aditivos no deberán producir sustancias nocivas a la salud en los envases primarios, que ocasionen la contaminación del producto.
+II. Falsifique la marca o contraseña que alguna autoridad usare para identificar cualquier objeto o para asegurar el pago de algún impuesto.
 
-###### ARTÍCULO 220.
+###### Artículo 172.
 
-Los alimentos irradiados no deberán someterse a una irradiación repetida, excepto aquéllos de bajo contenido de humedad, como cereales, leguminosas y alimentos deshidratados, entre otros.
+Al que falsifique llaves, el sello de un particular, o un sello, marca, estampilla, o contraseña de establecimientos comerciales, industriales, de servicio y otras similares, o un boleto o ficha de un espectáculo público, se le impondrán de tres meses a tres años de prisión y de treinta a doscientos cincuenta días multa.
 
-###### ARTÍCULO 221.
+### CAPITULO III. USO DE OBJETO O DOCUMENTO FALSO O ALTERADO
 
-Los productos, materias primas y aditivos irradiados, no se consideran sometidos a una irradiación repetida, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-I. El producto final y las materias primas que lo componen se irradien con propósitos distintos y a niveles menores o iguales a las dosis que se establezcan en las normas correspondientes;
+###### Artículo 173.
 
-II. La irradiación del producto final sea 5% inferior a la aplicada a sus ingredientes, y
+Al que dolosamente haga uso de un objeto o documento falso o alterado, pretendiendo que produzca efectos legales, se le impondrá prisión de dos a siete años y de cien a quinientos días multa.
 
-III. La dosis total de radiación ionizante requerida para conseguir el efecto deseado, se aplique a los productos de modo fraccionado con un fin tecnológico específico.
+Se impondrá la misma pena al que dolosamente haga uso de un documento verdadero expedido a favor de otro como si fuera expedido para sí.
 
-###### ARTÍCULO 222.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-El tratamiento con radiación ionizante a los productos, materias primas y aditivos sólo deberá llevarse a cabo en establecimientos que cumplan con los requisitos que se establezcan en las disposiciones aplicables, así como, por lo menos, con los siguientes:
+Se impondrán de tres a siete años de prisión y de trescientos a mil días multa, si los objetos o documentos fueren oficiales.
 
-I. Contar con laboratorios internos que se encarguen de llevar a cabo las pruebas de dosimetría y de control de calidad del proceso;
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-II. Contar con la infraestructura necesaria para asegurar que los productos se manipulen, envasen y almacenen de manera correcta y a la temperatura adecuada, de acuerdo con el caso de que se trate;
+Al que para obtener de un notario público la certificación de hechos, alguna escritura, acta notarial, testimonio, copia certificada o certificación notarial, haga uso de un objeto o documento falso o alterado, pretendiendo que produzca efectos legales, se le aumentará la pena de un tercio hasta una mitad más.
 
-III. Ostentar en un lugar visible el símbolo internacional de irradiación de alimentos;
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-IV. Proporcionar a los operarios mascarilla contra polvos y vestimenta que incluya overol, cofia o gorro, lentes de protección, guantes y botas en aquellos establecimientos donde se irradien productos a granel que liberen polvos, así como supervisar que lo usen cuando se encuentren en los mismos, y
+Si en esta conducta participare algún empleado o gestor de una notaría pública o quien hubiese trabajado para alguna notaría pública, la pena señalada en el párrafo anterior se incrementará de un tercio a una mitad más.
 
-V. Realizar la supervisión interna sistemática permanente de todas las operaciones realizadas y llevar los registros correspondientes, en particular los referentes a la dosimetría.
+### CAPITULO IV. FALSIFICACION Y UTILIZACION INDEBIDA DE TITULOS AL PORTADOR, DOCUMENTOS DE CREDITO PUBLICO Y DOCUMENTOS RELATIVOS AL CREDITO
 
-###### ARTÍCULO 223.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-Las etiquetas de los productos terminados, materias primas, aditivos y otros insumos que hayan sido irradiados y que se destinen al uso o consumo humano directo, deberán ostentar la leyenda: “Producto irradiado”, y el símbolo internacional de irradiación correspondiente, en colores contrastantes, y en la misma proporción que la denominación del producto.
+###### Artículo 174.
 
-En las normas correspondientes se establecerá la información sanitaria que deberá ostentar la etiqueta cuando se incorporen materias primas, aditivos u otros insumos irradiados a un producto que no se someterá a irradiación posterior.
+Se impondrán de cuatro a diez años de prisión y de ciento cincuenta a quinientos días multa al que:
 
-###### ARTÍCULO 224.
+I. Produzca, imprima, enajene aún gratuitamente, distribuya, altere o falsifique tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo, sin consentimiento de quien esté facultado para ello;
 
-Los documentos de embarque de los productos, materias primas y aditivos irradiados de importación, envasados o a granel, así como los transportados en contenedores, deberán indicar claramente que se trata de productos irradiados, así como la dosis global media de irradiación y contar con el permiso sanitario previo de importación o aviso sanitario de importación, según corresponda.
+II. Adquiera, utilice, posea o detente indebidamente, tarjetas, títulos o documentos para el pago de bienes y servicios, a sabiendas de que son alterados o falsificados;
 
-En los documentos de embarque, además de lo señalado en el párrafo anterior, se dará a la Secretaría la información apropiada para identificar la instalación en la que se haya irradiado el producto, la cual deberá contar con la licencia oficial expedida por las autoridades competentes.
+III. Adquiera, utilice, posea o detente indebidamente, tarjetas, títulos o documentos auténticos para el pago de bienes y servicios, sin consentimiento de quien esté facultado para ello;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2010)</small>
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE ABRIL DE 2012)</small>
+IV. Altere los medios de identificación electrónica de tarjetas, títulos o documentos para el pago de bienes y servicios;
 
-## TÍTULO VIGÉSIMO QUINTO BIS. Tatuajes, Micropigmentaciones y Perforaciones
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+V. Acceda indebidamente a los equipos de electromagnéticos de las instituciones emisoras de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo; y
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE ABRIL DE 2012)</small>
+> <small>(ADICIONADA, G.G. 12 DE OCTUBRE DE 2010)</small>
 
-###### ARTÍCULO 225.
+VI. Sin consentimiento de quien esté facultado para ello, produzca, imprima, enajene, distribuya, altere o falsifique vales en papel o impresos o cualquier dispositivo en forma de tarjeta plástica, asociado a un sistema de pagos y prestaciones emitido por personas morales, utilizados para canjear bienes y servicios.
 
-Cuando el presente Reglamento no especifique un plazo expreso para resolver sobre una solicitud, la Secretaría dispondrá de cuarenta días para ese efecto.
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2010)</small>
 
-En todos los casos, los plazos se contarán a partir del día siguiente al de la recepción de las solicitudes debidamente requisitadas.
+Las mismas penas se impondrán a quien utilice indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir tarjetas, títulos, documentos, vales o dispositivos en forma de tarjeta plástica utilizados para el pago de bienes y servicios.
 
-###### ARTÍCULO 226.
+Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad.
 
-La Secretaría podrá requerir, por escrito, información adicional o faltante al particular dentro de un plazo que será igual a una tercera parte del plazo otorgado para resolver la solicitud, cuando aquélla sea de tipo administrativo y de las dos terceras partes, cuando sea de carácter técnico.
+En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo se aplicarán las reglas del concurso.
 
-En caso de que transcurran los plazos señalados en el párrafo anterior sin que medie solicitud de información, la Secretaría no podrá negar la autorización por falta de información.
+### CAPITULO V. VARIACION DE NOMBRE, DOMICILIO O NACIONALIDAD
 
-###### ARTÍCULO 227.
+###### Artículo 175.
 
-Los plazos se suspenderán cuando la Secretaría requiera al solicitante, de manera expresa y por escrito, documentos, aclaraciones o información faltante, y se reanudarán al día siguiente de que el particular desahogue el requerimiento. En caso de no desahogarse el requerimiento en el término que al efecto se conceda, la solicitud se tendrá como no presentada.
+Comete este delito el que:
 
-###### ARTÍCULO 228.
+I. Oculte su nombre o apellido y adopte otro, al declarar ante la autoridad;
 
-Las autorizaciones sanitarias otorgadas en los términos de este Reglamento, podrán ser revisadas por la Secretaría en cualquier tiempo, ajustándose a las prescripciones de la Ley y de este ordenamiento.
+II. Oculte su domicilio o niegue de cualquier modo el verdadero, para eludir la práctica de una diligencia judicial o una notificación o citación de una autoridad;
 
-Cuando de la revisión efectuada, la Secretaría determine que el titular deba cumplir con alguna disposición establecida en la Ley o en este Reglamento, deberá notificarlo al interesado para que éste, en un plazo no mayor de quince días hábiles, manifieste lo que a su derecho convenga. Transcurrido dicho plazo, exista o no manifestación del interesado, la autoridad determinará lo que proceda conforme a la Ley.
+III. Siendo servidor público, en los actos propios de su cargo, atribuyere a una persona un nombre a sabiendas que no le pertenece y con perjuicio de alguien; y
 
-###### ARTÍCULO 229.
+IV. Ante la autoridad diere una nacionalidad falsa o que sin derecho para ello se haga pasar como mexicano o extranjero en cualquier documento público.
 
-Los trámites a que se refiere el presente título deberán iniciarse utilizando los formatos autorizados y publicados en el Diario Oficial de la Federación. En dichos formatos se especificarán los datos, requisitos y documentos que el solicitante, en cada caso, debe proporcionar, cumplir y acompañar.
+Al que incurra en este delito, se le impondrá prisión de uno a tres años y de treinta a sesenta días multa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+### CAPITULO VI. USURPACION DE FUNCIONES PUBLICAS O DE PROFESIONES
 
-> <small>(ADICIONADO, D.O.F. 9 DE OCTUBRE DE 2012)</small>
+###### Artículo 176.
 
-###### ARTÍCULO 229 Bis.
+Comete este delito el que:
 
-Los trámites de importación y exportación de los productos a los que se refiere el presente Reglamento, podrán presentarse por medios electrónicos.
+I. Sin ser funcionario público se atribuya ese carácter o ejerza alguna función pública sin derecho; y
 
-Los solicitantes que opten por los medios electrónicos en los trámites a que se refiere el párrafo anterior, deberán presentar la misma información y documentación que conforme a este Reglamento y demás disposiciones jurídicas aplicables requiere el trámite correspondiente. Dicha información y documentación deberá remitirse por dichos medios electrónicos.
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2015)</small>
 
-Los trámites realizados por medios electrónicos se substanciarán y resolverán por el mismo medio, por lo que las notificaciones realizadas al solicitante respecto de los requerimientos, actuaciones, resoluciones, exhibición, conservación o presentación de autorizaciones o documentación que deba entregar éste ante la autoridad competente y, en general, cualquier acto administrativo derivado de dichos trámites, se verificará vía electrónica, conforme a las disposiciones jurídicas aplicables.
+II. Se atribuya o acepte por cualquier medio el carácter de profesionista o grado académico sin tener título legal o ejerza los actos propios de una profesión sin título o sin autorización legal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+Por las conductas contenidas en las fracciones I y II del presente artículo, se impondrán de dos a siete años de prisión y de quinientos a dos mil días multa.
 
-###### ARTÍCULO 230.
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
-Con excepción de los servicios prestados por tatuadores, micropigmentadores y perforadores; en los productos, servicios, establecimientos y actividades objeto de este Reglamento, no se requerirá de la tarjeta de control sanitario a que se refiere el artículo 377 de la Ley.
+III. Se equipara a la usurpación de funciones públicas la prestación u ostentación de servicios de seguridad privada, por parte de persona física, miembros o representantes legales de una persona jurídica o de una sociedad, corporación o empresa, sin la autorización otorgada por la autoridad estatal. Al responsable de este delito, se le impondrán de tres a ocho años de prisión y de cien a mil días multa.
 
-###### ARTÍCULO 231.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-Tratándose de permisos sanitarios previos de importación, la Secretaría tendrá cinco días para resolver las solicitudes, y dos días cuando se trate de modificaciones a éstos.
+Cuando el usurpador se atribuya en vías de hecho la condición de miembro de una corporación policíaca pública o privada sin serlo, la penalidad será de tres a ocho años de prisión y de cincuenta a trescientos cincuenta días multa.
 
-En caso de modificaciones, una vez transcurrido el plazo sin que la autoridad hubiese dictado resolución, ésta se tendrá por aprobada y, a petición del solicitante, la Secretaría deberá extender por escrito la constancia respectiva, a más tardar al día hábil siguiente a la presentación de la petición.
+> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 232.
+> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
 
-Cuando se importen productos, la Secretaría podrá determinar que queden sujetos a alguno de los siguientes supuestos:
+IV. Se equipara a la usurpación de funciones públicas la prestación de servicios educativos por parte de persona física, miembros o representantes legales de una persona jurídica o de una sociedad, corporación, empresa o grupo, con la promesa de entregar un certificado, título o grado académico o de que se obtendrá o se encuentra en trámite la incorporación correspondiente. Lo anterior, sin autorización o reconocimiento de validez oficial de estudios, expedido por autoridad educativa competente. Al responsable de este delito se le impondrán de cinco a diez años de prisión y de mil a cinco mil días de multa. En caso de reincidencia la pena se incrementará de una a dos terceras partes.
 
-I. Importación sin restricción, el importador ingresa a territorio nacional la mercancía correspondiente y dispone de ella de acuerdo con sus intereses;
+Si en este delito tuviere intervención cualquier servidor público del ámbito educativo, la pena aplicable se aumentará de una a dos terceras partes de las que correspondan por el delito cometido y se le impondrá además la destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos.
 
-II. Muestreo y liberación, el importador ingresa la mercancía a territorio nacional, la lleva al destino final y notifica a la autoridad sanitaria para que efectúe el muestreo correspondiente. Inmediatamente después dispone de ésta de acuerdo con sus intereses;
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-III. Muestreo y aseguramiento, el importador ingresa la mercancía a territorio nacional, la lleva a su destino final y notifica a la autoridad sanitaria para que efectúe el muestreo y aseguramiento, y no podrá disponer de aquélla hasta que la autoridad sanitaria cuente con los resultados de laboratorio y emita la resolución correspondiente, o
+El delito contenido en el presente artículo se perseguirá de oficio.
 
-IV. Aseguramiento destino, en su caso, con muestreo y análisis, el importador notifica a la autoridad sanitaria local sobre el ingreso de la mercancía para que asegure ésta a su destino final y, si fuera el caso, realice el muestreo, asimismo, deberá notificar a la autoridad sanitaria local para el retiro de la medida de seguridad en el destino final y, en caso de haber efectuado el muestreo, el importador dispondrá de la mercancía hasta que la autoridad emita la resolución correspondiente, sobre la base de los resultados de análisis de laboratorio.
+### CAPITULO VII. USO INDEBIDO DE UNIFORMES, INSIGNIAS, DISTINTIVOS O CONDECORACIONES
 
-###### ARTÍCULO 233.
+###### Artículo 177.
 
-En el caso de los supuestos a que se refieren las fracciones II a IV del artículo anterior, la Secretaría tendrá dos días hábiles, contados a partir de la notificación hecha por el importador de que los productos llegaron a su destino, para la toma de muestras o aplicación de medidas de seguridad, y tres días, a partir de la recepción de los resultados de los análisis, para emitir la resolución procedente. El importador podrá comercializar los productos una vez efectuado el muestreo, siempre y cuando no se hubiera aplicado medida de seguridad, en cuyo caso, deberá procederse conforme se señala en el artículo 414 de la Ley.
+Comete este delito el que usare credenciales o cualquier medio de identificación, uniforme, insignias, distintivos o condecoraciones oficiales a que no tenga derecho, y se le impondrán de uno a cinco años de prisión y de treinta a ciento cincuenta días multa. Si son utilizados para cometer algún ilícito, la pena aumentará hasta en una mitad.
 
-En el mismo acto de la toma de muestras el importador las recibirá, a fin de que realice su análisis por un tercero autorizado o, en su caso, en un laboratorio privado acreditado y aprobado en los términos de la legislación en materia de metrología y normalización y entregará a la Secretaría los resultados de los análisis.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 8 DE MAYO DE 2015)</small>
 
-###### ARTÍCULO 234.
+### CAPITULO VIII. SIMULACION DE VEHICULO OFICIAL PERTENECIENTE A INSTITUCIONES DE SEGURIDAD PUBLICA O AL SERVICIO PUBLICO DE EMERGENCIA
 
-La Secretaría podrá otorgar el permiso sanitario previo de importación de materias primas o productos a establecimientos que conforme a las disposiciones aplicables no deban presentar aviso de funcionamiento, siempre y cuando el solicitante demuestre que son para donación, consumo personal, para fines de investigación científica o pruebas de laboratorio.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-La vigencia del permiso sanitario previo de importación la determinará la autoridad sanitaria en función del tipo y riesgo del producto, así como de las alertas sanitarias que pudieran existir.
+###### Artículo 177 Bis.
 
-Los importadores deberán conservar los permisos sanitarios previos de importación cuando menos durante un año y estarán obligados a exhibirlos a la autoridad sanitaria cuando ésta lo requiera.
+A quien utilice un vehículo automotor no oficial con balizaje, colores o equipamiento originales, falsificados o con apariencia tal que se asemeje a los de uso exclusivo para vehículos de instituciones de seguridad pública o del servicio público de emergencia; se le impondrá una pena de dos a seis años de prisión y de doscientos a cuatrocientos días multa.
 
-###### ARTÍCULO 235.
+> <small>(ADICIONADO, G.G. 8 DE MAYO DE 2015)</small>
 
-Los productos o materias primas que requieran de permiso sanitario previo de importación, y sean introducidos al país sin dicho permiso, se considerarán ilegalmente internados. La Secretaría aplicará las medidas de seguridad y sanciones correspondientes y pondrá en conocimiento de la autoridad competente este hecho.
+La pena prevista en este artículo se incrementará hasta una mitad de la que corresponda si el vehículo se utilizó para cometer algún delito, sin perjuicio de las penas que correspondan por la comisión del delito diverso.
 
-## TÍTULO OCTAVO. Frutas, hortalizas y sus derivados
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 236.
+Cuando en el delito cometido esté implicado un servidor público se impondrá de cuatro a ocho años de prisión y de trescientos a seiscientos días multa, así como inhabilitación para desempeñar algún empleo, cargo o comisión en el servicio público por un plazo igual a la pena privativa de libertad impuesta.
 
-No se autorizará la importación de productos cuyo uso o consumo haya sido prohibido por razones sanitarias en su país de origen o de procedencia, o por recomendación de organismos internacionales especializados.
+## TITULO SEGUNDO. DELITOS CONTRA LA COLECTIVIDAD
 
-###### ARTÍCULO 237.
+SUBTITULO PRIMERO
 
-En caso de alerta sanitaria nacional o internacional, la Secretaría tomará las medidas necesarias para impedir la importación de productos, materias primas y otros ingredientes que intervienen en su elaboración y que puedan causar daño a la salud. Dichas medidas se publicarán en el Diario Oficial de la Federación.
+DELITOS CONTRA LA SEGURIDAD PUBLICA
 
-###### ARTÍCULO 238.
+### CAPITULO I. DELINCUENCIA ORGANIZADA
 
-Cuando se pretenda retornar al país un producto o materia prima que al haber sido exportado no haya sido aceptado por el país de destino, el exportador y, en su caso, el fabricante deberá solicitar permiso sanitario previo de importación, en los términos de la Ley, este Reglamento y demás disposiciones aplicables.
+###### Artículo 178.
 
-La autoridad sanitaria determinará el destino final de los productos después de evaluar su condición sanitaria, a través de la documentación que solicite y los análisis que realice ella misma, por personas acreditadas y aprobadas en los términos de la legislación en materia de metrología y normalización o por terceros autorizados.
+A quienes participen habitual u ocasionalmente en una agrupación de tres o más personas, de cualquier manera organizada con la finalidad de cometer delitos graves, se les impondrán de dos a diez años de prisión y de cincuenta a doscientos cincuenta días multa, sin perjuicio de las penas que les correspondan por los delitos que cometan.
 
-Si la decisión fuera que el producto es apto para ser consumido, la Secretaría se asegurará, particularmente en el caso de perecederos, que al momento de su disposición el producto se mantenga en condiciones microbiológicas, parasitológicas, físicas, químicas y sensoriales apropiadas para el consumo humano. Los gastos de almacenamiento y pérdidas generados durante el tiempo necesario para la dictaminación y, en su caso, la destrucción, correrán por cuenta del exportador o fabricante que haya solicitado el reingreso de los productos al país.
+### CAPITULO II. PORTACION, TRAFICO Y ACOPIO DE ARMAS PROHIBIDAS
 
-###### ARTÍCULO 239.
+###### Artículo 179.
 
-Cuando el propietario o responsable de un establecimiento obligado a presentar aviso de funcionamiento permita que los productos sean elaborados, en todo o en parte, por una tercera persona deberá actualizar los datos de dicho aviso, dentro de los treinta días siguientes al inicio del proceso de fabricación externa de los productos.
+Son armas prohibidas:
 
-Los propietarios o responsables de los establecimientos que intervengan en la fabricación externa a que se refiere el párrafo anterior deberán presentar aviso de funcionamiento, o su actualización, dentro de los treinta días siguientes al inicio de la fabricación.
+I. Los puñales, cuchillos, puntas y las armas ocultas o disimuladas;
 
-###### ARTÍCULO 240.
+II. Los boxer, manoplas, macanas, ondas, correas con balas y pesas;
 
-Los avisos sanitarios de importación y los certificados sanitarios del país de origen se presentarán una sola vez al año para cada uno de los productos sujetos a aviso sanitario de importación, y tendrán validez para todos los embarques que se realicen dentro del período de que se trate. En caso de que la Secretaría identifique anomalías en la condición sanitaria o en la identidad, según sea el caso, podrá requerir nuevamente la presentación del aviso o del certificado correspondiente.
+III. Las bombas, aparatos explosivos o de gases asfixiantes o tóxicos; y
 
-###### ARTÍCULO 241.
+IV. Otras que por sus características o circunstancias de portación puedan generar peligro.
 
-En apoyo a la exportación, la Secretaría podrá expedir, entre otros, certificados para exportación de libre venta, de análisis de producto o de conformidad de buenas prácticas sanitarias.
+###### Artículo 180.
 
-La Secretaría resolverá las solicitudes dentro de los siguientes plazos:
+A quien porte, fabrique, importe, regale, trafique, o acopie sin un fin lícito las armas prohibidas en el artículo precedente, se le impondrá prisión de seis meses a seis años y de treinta a doscientos cincuenta días multa y decomiso de objetos.
 
-I. Tres días si se trata de certificados para exportación de libre venta. En caso de que el certificado se requiera emitir en un formato especial, el plazo será de diez días;
+Se entiende por acopio la reunión de tres o más armas de las mencionadas en el artículo anterior.
 
-II. Cinco días contados a partir de la entrega de los resultados de las pruebas de laboratorio, en el caso de certificados para exportación de análisis de producto, y
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2013)</small>
 
-III. Cinco días en el supuesto de certificados de exportación de buenas prácticas sanitarias.
+Se aumentará la pena de prisión de uno a dos años y la multa de sesenta a cien días, cuando la portación ocurra en:
 
-Cuando se soliciten modificaciones a los referidos certificados la Secretaría resolverá en un plazo máximo de dos días.
+I. Medios de transporte público de pasajeros; y
 
-###### ARTÍCULO 242.
+II. Actos deportivos, artísticos, culturales, religiosos o de culto, mítines políticos, ceremonias cívicas y desfiles.
 
-Si el exportador solicita la realización de una visita de verificación con el objeto de que se certifique la calidad sanitaria de sus productos y materias primas para fines de exportación presentará solicitud ante la Secretaría, la cual tendrá un plazo de quince días para llevar a cabo dicha visita.
+### CAPITULO III. DELITOS COMETIDOS EN EL EJERCICIO DE ACTIVIDADES PROFESIONALES O TECNICAS
 
-###### ARTÍCULO 243.
+###### Artículo 181.
 
-La Secretaría publicará periódicamente convocatorias para la autorización de los terceros a que se refiere el artículo 391 bis de la Ley.
+Cometen este delito:
 
-Con el propósito de conocer técnicamente de las solicitudes para el otorgamiento de autorizaciones de terceros, la Secretaría formará comités técnicos integrados por expertos en los campos específicos, representantes de cámaras y asociaciones y, en su caso, de las entidades de acreditación.
+I. Los abogados que abandonen el mandato, patrocinio o defensa de un negocio judicial, administrativo o de trabajo, sin causa justificada;
 
-###### ARTÍCULO 244.
+II. Los abogados del inculpado que se concreten a solicitar la libertad provisional, sin promover pruebas ni dirigirlo en su defensa;
 
-Para operar como tercero autorizado será necesario cumplir con lo siguiente:
+III. Los abogados que patrocinen o representen a diversos contendientes en negocio judicial, administrativo o de trabajo con intereses opuestos, o cuando después de haber aceptado el patrocinio o representación de una parte, admitan el de la contraria; y
 
-I. Presentar solicitud en la cual conste la capacidad legal del solicitante;
+IV. Los abogados que teniendo a su cargo la custodia de documentos, los extraviaren por negligencia inexcusable.
 
-II. Demostrar que el solicitante cuenta con la capacidad técnica, material, humana y financiera, así como con las instalaciones, equipo y tecnología para llevar a cabo las pruebas, estudios, verificaciones y demás actividades necesarias para emitir los dictámenes;
+A los responsables de este delito se les impondrán de uno a tres años de prisión y de cincuenta a setecientos días multa, además de seis meses a dos años de suspensión del derecho de ejercer la actividad profesional y privación definitiva en caso de reincidencia.
 
-III. Contar con los procedimientos normalizados de operación que garanticen la calidad en el desempeño de sus funciones;
+###### Artículo 182.
 
-IV. No estar sujeto a influencia directa por algún fabricante, comerciante o persona moral mercantil de los procesos y productos a evaluar;
+Se impondrán las penas señaladas en el artículo anterior a:
 
-V. Presentar sus propuestas de productos y servicios a dictaminar, así como describir los servicios que pretende prestar y los procedimientos a utilizar, y
+> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
-VI. Presentar el comprobante de pago de derechos correspondientes.
+I. Los médicos, que habiendo otorgado responsiva para hacerse cargo de la curación de algún lesionado o enfermo lo abandonen en su tratamiento sin causa justificada o no cumplan con los deberes que les impone el Código Nacional de Procedimientos Penales;
 
-###### ARTÍCULO 245.
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
 
-Presentada la solicitud para la autorización de los terceros, la Secretaría procederá a realizar las visitas de verificación y, conjuntamente con el comité a que se refiere el artículo 243 del presente Reglamento, realizará las evaluaciones que sean necesarias para dictaminar si se cumplen los requisitos a que se refiere el artículo anterior.
+II. Los médicos, cirujanos, parteros, enfermeros y demás profesionales y similares y auxiliares que se nieguen a prestar sus servicios a un lesionado o enfermo, en caso de notoria urgencia, por exigir el pago anticipado de sus servicios, sin dar inmediato aviso a las autoridades correspondientes u organismos de asistencia pública para que procedan a su atención.
 
-En caso de no ser favorable el dictamen que emita la Secretaría, se otorgará al solicitante un plazo de hasta ciento ochenta días naturales a partir de la fecha de notificación para corregir las anomalías detectadas. Dicho plazo podrá prorrogarse por un periodo igual, por una sola ocasión, cuando el solicitante justifique la necesidad de ello antes de terminar el plazo indicado.
+III. Los médicos, cirujanos, parteros, enfermeros y demás profesionales y similares y auxiliares o cualquier persona, los propietarios de clínicas u hospitales que participen o faciliten por cualquier medio el tráfico, comercialización o cirugía de un transplante (sic) de órgano o tejido humano, sin la autorización necesaria de la secretaría del ramo, se le impondrá de tres a ocho años de prisión y de cincuenta a quinientos días multa, así como la suspensión del derecho del ejercicio de la profesión por veinte años y la cancelación de la licencia de funcionamiento por veinte años. Independientemente de los delitos que se cometan.
 
-En caso de que el solicitante no corrija las anomalías detectadas en el plazo otorgado, se considerará abandonado el trámite y se tendrá por no presentada la solicitud.
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 246.
+Si se trata de servidores públicos del sector salud, se les destituirá e inhabilitará de seis a dieciséis años del empleo, cargo o comisión públicos
 
-La Secretaría autorizará a los terceros que cumplan con los requisitos y procedimientos que para el efecto establezca y podrá, en cualquier momento, realizar visitas de verificación, para comprobar que las condiciones bajo las cuales se otorgó la autorización correspondiente son cumplidas por éstos.
+###### Artículo 183.
 
-###### ARTÍCULO 247.
+Al profesionista que con actos propios de su profesión o abusando de su actividad profesional, cometiere algún delito doloso o coopere a su ejecución por otros, se le impondrán prisión de uno a cuatro años y privación del derecho a ejercer la profesión.
 
-En caso de que las condiciones a que se refiere el artículo anterior no subsistan, o bien, no se cumpla con las disposiciones legales aplicables, la Secretaría prevendrá al interesado para que subsane las anomalías encontradas y le otorgará un plazo de hasta ciento ochenta días para corregirlas. Cuando impliquen un riesgo a la salud, la Secretaría podrá suspender temporal o parcialmente las actividades para las cuales la autorización fue otorgada.
+###### Artículo 184.
 
-El incumplimiento de las correcciones señaladas por la Secretaría, dentro del plazo concedido, será causa de suspensión de la autorización otorgada. En este caso, la Secretaría le concederá un nuevo plazo de noventa días para corregir las irregularidades. De no cumplir en tiempo y forma con lo indicado por la Secretaría se revocará la autorización.
+Las penas señaladas en los artículos anteriores se impondrán sin perjuicio de las que correspondan por el delito cometido o por su participación en él.
 
-###### ARTÍCULO 248.
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
 
-La Secretaría publicará periódicamente en el Diario Oficial de la Federación, la relación de los terceros autorizados, así como las suspensiones y revocaciones.
+###### Artículo 185.
 
-###### ARTÍCULO 249.
+A los propietarios, responsables, encargados, empleados o dependientes de una botica o farmacia, que al surtir una receta sustituyan por otra la medicina específicamente recetada, se les impondrán de seis meses a dos años de prisión y de cincuenta a setecientos días multa, salvo que se trate de los medicamentos genéricos intercambiables.
 
-Los terceros autorizados deberán:
+###### Artículo 186.
 
-I. Ajustarse a la normatividad aplicable a los actos o hechos en que intervengan;
+Al que sin justa causa, con perjuicio de alguien y sin consentimiento de quien pueda otorgarlo, revele algún secreto o comunicación reservada que le haya sido confiada o haya recibido con motivo de su empleo, cargo o comisión, se le impondrán de uno a cinco años de prisión y de treinta a cien días multa.
 
-II. Prestar sus servicios en condiciones no discriminatorias y observar las demás disposiciones en materia de competencia económica;
+Se impondrán de dos a siete años de prisión, de cien a quinientos días multa y la suspensión del derecho de ejercer la profesión, la actividad técnica o desempeñar el cargo de dos a siete años, cuando la revelación punible sea hecha por persona que preste sus servicios profesionales o técnicos o por servidor público.
 
-III. Evitar la existencia de conflictos de interés que puedan afectar sus actuaciones y excusarse cuando existan;
+### CAPITULO IV. ESTORBO DEL APROVECHAMIENTO DE BIENES DE USO COMUN
 
-IV. Informar de manera inmediata a la Secretaría de cualquier irregularidad en su relación con los clientes, el desempeño de sus funciones o incumplimientos identificados en los procesos o productos que evalúa;
+###### Artículo 187.
 
-V. Proporcionar a la Secretaría informes sobre los dictámenes y recomendaciones técnicas que expida;
+Al que sin derecho estorbare de cualquier forma el aprovechamiento de bienes de uso común ó vías públicas y no retirare el estorbo a pesar del requerimiento que le haga la autoridad competente, se le impondrán de seis meses a un año de prisión y de treinta a cien días multa, si llegare a privar del uso de los bienes, se le impondrán de uno a dos años de prisión y de treinta a ciento cincuenta días multa.
 
-VI. Informar periódicamente a la Secretaría sobre los servicios que preste;
+###### Artículo 188.
 
-VII. Asistir a la Secretaría cuando ésta lo solicite;
+Comete el delito de utilización indebida de la vía pública:
 
-VIII. Permitir la verificación de sus actividades y facilitar a la Secretaría el libre acceso a sus instalaciones, así como proporcionar la información que le sea requerida, y
+I. El que utilice la vía pública para consumir, distribuir o vender substancia (sic) ilícitas o para inhalar sustancia (sic) lícitas no destinadas para ese fin y que produzcan efectos psicotrópicos, sin perjuicio de lo dispuesto por otros ordenamientos jurídicos; para los efectos de este artículo, son substancias ilícitas las así calificadas por la Ley General de Salud; y
 
-IX. Respetar la confidencialidad y los derechos de propiedad intelectual e industrial que se deriven de la documentación e información proporcionada por los solicitantes.
+II. El que dirija a otros a ejercer el comercio en la vía pública sin permiso de la autoridad competente.
 
-###### ARTÍCULO 250.
+Al que incurra en la comisión de alguna de las conductas señaladas en la fracción I se le impondrán de seis meses a un año de prisión y multa de treinta a setenta días multa. Cuando la conducta realizada consista en el consumo o la inhalación, la pena será de hasta seis meses del tratamiento de desintoxicación o deshabituación que corresponda en el centro de atención destinado para tal efecto.
 
-El resultado de las pruebas que realicen los terceros autorizados se hará constar en un dictamen que será firmado, bajo su responsabilidad, por la persona facultada para hacerlo. Dichos dictámenes tendrán validez ante la Secretaría conforme a las funciones que le hayan sido autorizadas al tercero.
+Al que incurra en la comisión de alguna de las conductas señaladas en la fracción II de este artículo se le impondrán de uno a tres años de prisión y multa de cien a trescientos días multa.
 
-###### ARTÍCULO 251.
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE JUNIO DE 2016)</small>
 
-La Secretaría deberá custodiar y garantizar la confidencialidad de la documentación e información proporcionada por los terceros autorizados, de conformidad con las disposiciones aplicables.
+### CAPITULO V. DELITOS EN CONTRA DEL DESARROLLO URBANO
 
-###### ARTÍCULO 252.
+> <small>(REFORMADO, G.G. 16 DE JUNIO DE 2016)</small>
 
-Cuando el tercero autorizado haya cumplido con los términos, condiciones y obligaciones establecidas por la Secretaría, durante el tiempo que le fue otorgada la autorización, podrá prorrogarse la vigencia de ésta por un plazo similar al otorgado inicialmente, para lo cual deberá presentar solicitud un mes antes de su vencimiento.
+###### Artículo 189.
 
-## TÍTULO VIGÉSIMO SÉPTIMO. Verificación, medidas de seguridad y sanciones
+Se impondrán de cuatro a diez años de prisión y de trescientos a mil días multa a quien fraccione o divida un inmueble en lotes y los comercialice, transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho, careciendo del previo permiso, licencia o autorización de la autoridad administrativa correspondiente.
 
-###### ARTÍCULO 253.
+Se impondrá la misma pena prevista en el párrafo anterior al tercero que enajene, prometa hacerlo o comercialice lotes que hayan sido fraccionados o divididos sin contar con el permiso previo, licencia o autorización de autoridad administrativa correspondiente.
 
-Las visitas de verificación se practicarán de conformidad con el procedimiento establecido en la Ley y tendrán por objeto:
+Se impondrá de dos a ocho años de prisión a quien contando con la autorización de la autoridad administrativa competente para fraccionar o dividir en lotes un inmueble, dolosamente:
 
-I. Obtener información de las condiciones sanitarias:
+I. No cumpla con el número de lotes autorizados o con las medidas y superficies de los lotes autorizados y transfiera la propiedad o la posesión;
 
-a. Del establecimiento,
+II. No cuente con permiso para vender lotes y enajene uno o más de éstos; y
 
-b. Del proceso,
+III. No haya ejecutado o concluido las obras de urbanización o equipamiento urbano motivo de la autorización, en los plazos de ejecución, ni cuente con instrumento vigente que garantice su ejecución y transfiera la propiedad o la posesión.
 
-c. Del equipo, maquinaria, utensilios e instrumentos con los que se realiza el proceso,
+Se sancionará de dos a ocho años de prisión al tercero que dolosamente enajene o comercialice lotes que tengan alguna de las irregularidades previstas en el párrafo anterior.
 
-d. De los productos, materias primas, aditivos y material de empaque y envase, utilizados en la elaboración de los mismos,
+Se aplicará de ocho a veinte años de prisión y destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión públicos, hasta por el mismo tiempo de la pena de prisión, al servidor público que participe o coopere en alguna forma en las siguientes conductas:
 
-e. Del personal que interviene en el proceso de los productos,
+I. Realice indebidamente el trámite o expida licencias de uso de suelo sin haberse cumplido los requisitos que exige la ley de la materia;
 
-f. De las condiciones del proceso que determinan la calidad sanitaria del producto,
+II. Realice indebidamente el trámite o expida autorizaciones de división, licencias o permisos de uso de suelo sin tener la facultad legal para hacerlo;
 
-g. De los sistemas para garantizar la calidad sanitaria de los productos y servicios y
+III. Modifique o permita se modifiquen los términos de una autorización, licencia o permiso sin cumplir con los requisitos que exige la ley en la materia; y
 
-h. Del transporte de los productos, cuando así se requiera;
+IV. Falte a la verdad en la supervisión de las obras de urbanización, infraestructura y equipamiento urbano autorizados.
 
-II. Identificar deficiencias y anomalías sanitarias;
+El agente del Ministerio Público asegurará y procederá a poner el inmueble objeto del ilícito, en administración del Instituto de Administración de Bienes Vinculados al Procedimiento Penal y a la Extinción de Dominio del Estado de México y en custodia de la institución policial que determine, e informará al Presidente Municipal y a las autoridades estatales encargadas del desarrollo urbano, para que en el ámbito de su competencia eviten la continuación del ilícito.
 
-III. Tomar muestras, en su caso;
+En la etapa de investigación, según sea el caso, el ministerio público deberá imponer medidas de protección, con el propósito de evitar la consolidación de un asentamiento humano irregular.
 
-IV. Aplicar o liberar medidas de seguridad sanitarias, y
+El incumplimiento de las medidas de protección impuestas por el ministerio público será causa de responsabilidad penal y administrativa.
 
-V. Realizar actividades de orientación, instrucción y educación de índole sanitaria.
+###### Artículo 190.
 
-###### ARTÍCULO 254.
+No se sancionará este delito:
 
-Corresponde a la autoridad sanitaria verificar que los establecimientos estén acondicionados para el uso a que se destinen, de acuerdo con las características del proceso de los productos, atendiendo a lo que establecen este Reglamento y las normas correspondientes.
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
 
-###### ARTÍCULO 255.
+I. Si el objeto de fraccionar o dividir un lote se hace en consecuencia de adjudicación por herencia, juicio de prescripción o usucapión, división de copropiedad que no simulen fraccionamiento o por la constitución del minifundio.
 
-La asignación del establecimiento o del lugar para realizar la visita de verificación se determinará por cualesquiera de los siguientes mecanismos:
+II. Cuando se trata de donaciones y compraventas realizadas entre parientes, en línea ascendente hasta el segundo grado, descendente hasta el tercer grado, cónyuges, concubinos y entre hermanos.
 
-I. Por selección aleatoria;
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
 
-II. Por contingencia o alerta sanitaria;
+III. Cuando se incurra en lo previsto en los párrafos tercero y cuarto del artículo que antecede y antes de que el ministerio público formule imputación, se regularice su incumplimiento ante la autoridad competente y se repare el daño causado.
 
-III. Por programas determinados por la autoridad sanitaria, en cuyo caso, estará expresamente señalado en la orden de visita correspondiente;
+SUBTITULO SEGUNDO
 
-IV. Por denuncia de terceros, en los términos del artículo 6o. de este Reglamento;
+DELITOS CONTRA LA SEGURIDAD DE LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
 
-V. A petición del propietario, y
+### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y MEDIOS DE TRANSPORTE
 
-VI. Como seguimiento a un procedimiento administrativo iniciado por la autoridad sanitaria.
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-###### ARTÍCULO 256.
+###### Artículo 191.
 
-La orden de visita de verificación, entre otros requisitos, deberá incluir el número telefónico de la autoridad sanitaria que la emite para que el propietario, encargado, responsable del establecimiento o del lugar, o quien atienda la visita, pueda formular consultas, quejas y denuncias y, en su caso, confirmar la procedencia del acto de verificación.
+Para los efectos de este capítulo se entiende por vía de comunicación los bienes de uso común con su correspondiente derecho de vía, que por razón del servicio se destine al libre tránsito de vehículos, comprendiéndose también en aquellos las vías de comunicación objeto de concesión estatal.
 
-En el caso de que la información obtenida vía telefónica no coincida con la de la orden de visita, el propietario, encargado o responsable del establecimiento podrá negar la realización de la visita, lo que se deberá asentar en el acta de verificación.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE MARZO DE 2011)</small>
 
-Si el propietario, encargado o quien atienda la visita faltara a la verdad, respecto de los datos que le sean proporcionados por el sistema de información telefónico, se hará acreedor a las sanciones que procedan.
+###### Artículo 192.
 
-###### ARTÍCULO 257.
+Incurre en este delito quien por cualquier medio altere, destruya, construya o invada alguna vía de comunicación o medio de transporte público local de pasajeros o de carga, modifique o inutilice las señales correspondientes interrumpiendo o dificultando los servicios. Al responsable de este delito se le impondrán de uno a cuatro años de prisión y de treinta a ciento cincuenta días multa.
 
-En el acta de verificación deberán hacerse constar las circunstancias de la diligencia a las que hace referencia el artículo 401 de la Ley y contendrá, por lo menos, lo siguiente:
+Si el medio de transporte a que se refiere el párrafo anterior estuviere ocupado por dos o más personas, las sanciones se aumentarán en una tercera parte.
 
-I. La acreditación legal del verificador para desempeñar la función;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
 
-II. La descripción de las condiciones sanitarias del establecimiento o del lugar, equipo, personal, materias primas, procesos y productos;
+###### Artículo 193.
 
-III. El informe, con base en una guía de verificación específica por giro industrial, comercial o de servicios;
+Al que en la comisión de un delito, conduzca o utilice un vehículo de motor sin las placas de circulación, se encuentren ocultas o no sean visibles o la tarjeta que autorice su debida circulación, o con documentación que no corresponda a la autorizada oficialmente para circular, se le impondrán de dos a cuatro años de prisión y de cien a trescientos días multa. Si el delito que se comete es grave, se duplicará la pena. Esta agravante no se aplicará a los delitos culposos.
 
-IV. La descripción y calificación de las anomalías o deficiencias sanitarias observadas;
+Al que maneje o utilice un vehículo de motor con placas o tarjeta o documentación que no correspondan al vehículo o a la autorizada oficialmente para circular, se le impondrá de uno a tres años de prisión y de cincuenta a doscientos días multa.
 
-V. La toma de muestras, en su caso, y
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 10 DE ABRIL DE 2015)</small>
 
-VI. La manifestación de lo que a su derecho le corresponda al propietario, responsable, encargado u ocupante del establecimiento o lugar.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 26 DE ENERO DE 2015)</small>
 
-###### ARTÍCULO 258.
+Si se trata de un elemento de cualquier corporación policíaca se le impondrán de cuatro a doce años de prisión, destitución e inhabilitación de ocho a veinte años para desempeñar empleo, cargo o comisión públicos.
 
-Concluido el procedimiento de verificación, la autoridad sanitaria evaluará el cumplimiento de las disposiciones aplicables a los productos, servicios, actividades y establecimientos a que se refiere este Reglamento, y notificará por escrito al particular el resultado del dictamen, en términos del artículo 430 de la Ley.
+###### Artículo 194.
 
-En la notificación a que se refiere el párrafo anterior, la autoridad sanitaria podrá solicitar a la persona responsable que presente por escrito, en un plazo no mayor de cinco días, la forma y tiempo en el que dará cumplimiento a las medidas dictadas por la autoridad sanitaria.
+Al que dolosamente obstaculice una vía de comunicación o la prestación de un servicio público local de comunicación o transporte, se le impondrán de seis meses a seis años de prisión y de treinta a ciento cincuenta días multa.
 
-En caso de que el particular no presente el escrito de referencia en el plazo concedido, la autoridad sanitaria procederá a tomar las medidas pertinentes.
+###### Artículo 195.
 
-###### ARTÍCULO 259.
+Al que, para la ejecución de los hechos a que se refieren los artículos anteriores de este capítulo, se valga de explosivos, se le impondrán de quince a cuarenta años de prisión.
 
-Si las condiciones sanitarias del establecimiento, materias primas, proceso, procedimiento o producto representan un riesgo importante para la salud o carezcan de los requisitos esenciales establecidos en la Ley y demás disposiciones aplicables, los verificadores deberán tomar medidas de seguridad inmediatas, con la aprobación o consentimiento de la autoridad sanitaria de la cual dependan. En este caso podrá ser otorgada telefónicamente e identificada por una clave.
+### CAPITULO II. DELITOS COMETIDOS POR CONDUCTORES DE VEHICULOS DE MOTOR
 
-La medida de seguridad impuesta deberá ratificarse, modificarse o revocarse en un plazo que no exceda de cinco días contados a partir de la comparecencia del interesado.
+###### Artículo 196.
 
-###### ARTÍCULO 260.
+(DEROGADO, G.G. 26 DE MAYO DE 2006)
 
-Las autoridades sanitarias competentes podrán ordenar la aplicación de las medidas de seguridad a que se refiere el artículo 404 de la Ley, cuando en las áreas, instalaciones, equipo o proceso de fabricación se afecten la identidad, pureza, conservación o fabricación de los productos; así como por el incumplimiento de las buenas prácticas y, en general, cuando se infrinjan las disposiciones de la Ley, este Reglamento y demás disposiciones aplicables que impliquen un grave riesgo para la salud.
+### CAPITULO III. VIOLACION DE CORRESPONDENCIA
 
-###### ARTÍCULO 261.
+###### Artículo 197.
 
-La autoridad sanitaria sancionará a quien infrinja los preceptos de este Reglamento, sin perjuicio de las penas que correspondan cuando sean constitutivas de delito.
+Al que dolosamente abra o intercepte una comunicación escrita que no esté dirigida a él, se le impondrán de tres meses a un año de prisión y de treinta a sesenta días multa.
 
-Para efectos de lo dispuesto en el artículo 418, fracción II, de la Ley, determinarán la gravedad de la infracción los supuestos siguientes:
+Esta disposición no comprende la correspondencia que circule por estafeta, los telegramas y radiogramas, respecto de los cuales se observará lo dispuesto por la legislación federal sobre la materia.
 
-I. Que dé lugar a algún peligro;
+###### Artículo 198.
 
-II. Que permita o dé lugar a algún riesgo;
+No se impondrá pena a los que obren ejerciendo la patria potestad, la tutela o la custodia, abran o intercepten las comunicaciones escritas dirigidas a los menores, o a las personas que se hallen bajo su tutela o guarda; los cónyuges o concubinos entre sí.
 
-III. Que vaya de manera indirecta en detrimento de la condición sanitaria o los hábitos de consumo;
+SUBTITULO TERCERO
 
-IV. Que se realice alguna acción u omisión sin las autorizaciones sanitarias señaladas por las disposiciones aplicables;
+DELITOS CONTRA LA ECONOMIA
 
-V. Que la acción u omisión implique riesgo sanitario durante el desarrollo de actividades o servicios, el proceso de los productos o el funcionamiento de los establecimientos, y
+### CAPITULO I. DELITOS CONTRA EL CONSUMO
 
-VI. Que se realice alguna acción u omisión sin la aprobación de la autoridad sanitaria.
+###### Artículo 199.
 
-Se entiende por peligro cualquier agente biológico, químico o físico que tiene posibilidad de causar un efecto adverso a la salud.
+A los comerciantes o industriales que, por cualquier medio, alteren en su cantidad o calidad las mercancías o productos de venta al público o les atribuyan cualidades que no tengan, se les impondrán de tres meses a cinco años de prisión y de cien a mil días multa.
 
-###### ARTÍCULO 262.
+###### Artículo 200.
 
-En los casos en que el infractor actúe con dolo o mala fe la infracción se agravará, sin perjuicio de las penas que correspondan cuando sean constitutivas de delito.
+Al que dolosamente venda, adquiera, posea o trafique con semillas, fertilizantes, plaguicidas, implementos u otros materiales destinados a la producción agropecuaria, que se hayan entregado a los productores por alguna entidad o dependencia pública a precio subsidiado, se le impondrán de dos a nueve años de prisión y de cien a mil días multa.
 
-###### ARTÍCULO 263.
+Se impondrán de tres meses a tres años de prisión, si el que entregue los insumos o materiales referidos fuere el productor que los recibió de las instituciones oficiales. Se harán acreedores a la misma sanción, los servidores públicos de alguna entidad o dependencia estatal que entreguen estos insumos a quienes no tengan derecho a recibirlos.
 
-Se sancionará con multa de hasta mil días de salario mínimo general, vigente en la zona económica de que se trate, la infracción de las disposiciones contenidas en los artículos 25, fracción VI, 39, 46 y 52 de este Reglamento, así como I.4.5, I.4.6, III.6.6.1., III.6.6.3., III.6.7., párrafo primero, III.7.2.2., III.7.2.3., V.13. párrafo primero, V.32., VI.46., VI.60., VI.61., VI.62., VIII.26., IX.7.1., IX.8., IX.9.1., X.3.1., X.3.2., X.3.3., X.3.4., X.6., X.7.1., X.12.1., X.12.2., X.12.3., X.13.1., X.13.3., X.19, XIV.6.1., XIV.10.1. y XV.4. del apéndice.
+###### Artículo 201.
 
-###### ARTÍCULO 264.
+También comete este delito, quien:
 
-Se sancionará con multa de mil a cuatro mil días de salario mínimo general, vigente en la zona económica de que se trate, la infracción de las disposiciones contenidas en los artículos 25, fracciones III y IX, 32, 43, fracción III, 45, 54, fracción I, 56, 72, 77, párrafo primero, 79, 111, 113, 116, 134, 147, 161, último párrafo, 194 y 234, último párrafo, de este Reglamento, así como I.4.1., I.4.4., III.2.1., III.2.3., III.2.4., III.3.1., III.3.2., III.3.3., III.4.1., III.4.2., III.5.2., III.6.5., III.6.6., párrafo primero, V.7., V.9., V.19., V.24., V.27., V.28., V.29., V.30., V.31., V.33., V.36., V.38., VI.12., VI.13., VI.16., VI.17., VI.18., VI.19., VI.20., VI.31., VI.32., VI.33.2., VI.33.3., VI.33.4., VI.33.5, VI.33.6., VI.33.7., VI.33.8., VI.33.9., VI.34., VI.35., VI.36., VI.37.1., VI.37.3, VI.37.4., VI.39., VI.40., VI.41., VI.43., VI.45., VI.49., VI.50., VI.51., VI.54., VI.55., VI.56., VI.57., VI.59., VIII.2., VIII.3., VIII.4. párrafo segundo, VIII.34., IX.4., IX.6., X.18., párrafo primero, XIV.6.2., XV.6., XXI.6., XXII.3. y XXII.4. del apéndice.
+I. Elabore comestibles, bebidas o medicinas de tal modo que puedan causar daños a la salud, o comercie con ellos;
 
-###### ARTÍCULO 265.
+II. Falsifique o adultere comestibles, bebidas o medicinas, de tal modo que puedan causar daños a la salud o que, tratándose de las últimas, carezcan de las propiedades curativas que les atribuyan; y
 
-Se sancionará con multa de cuatro mil a seis mil días de salario mínimo general vigente en la zona económica de que se trate, la infracción de las disposiciones contenidas en los artículos 10, 16, 17, 21, 25, fracciones I, II, IV, V, VIII, X y XI, 26, 28, 35, 36, 37, 38, 42, 43, fracciones I y II, 44, 48, 49, 50, 51, 53, 54, fracción II, 55, 58, 59, 61, 62, 63, 65, 66, 67, 68, 71, 73, 75, 76, 77, párrafo segundo, 84, 86, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 103, 108, 109, 110, 114, 115, 121, 123, 124, 129, 130, 131, 132, 133, 136, 137, 138, 139, 140, 141, 142, 143, 146, 149, 150, 151, 153, 154, 155, 156, 157, 161, 162, 163, 187, 188, 192, 193, 211, 212, 213, 214, 235, 238, 239, 249 y 250 de este Reglamento, así como I.4.2., I.4.3. II.1., II.2., III.4.3., III.4.7., III.4.8., III.4.9., III.4.10., III.4.12., III.4.13., III.4.15., III.4.16., III.4.17., III.5.1., III.6.6.2., III.6.6.4., III.6.6.5., III.6.7., párrafo segundo, III.6.8., III.7.2.1., III.7.2.4., III.7.2.5., III.7.2.6., III.7.2.7., III.7.2.8., III.10.1., III.10.2., III.10.3., V.5., V.6., V.8., V.12., V.13, párrafo segundo, V.14., V.15., V.16., V.17., V.18., V.20., V.21., V.22., V.23., V.25., V.34., V.35., V.37., VI.2., VI.3., VI.4., VI.5., VI.6., VI.7., VI.8., VI.9., VI.11., VI.15., VI.21., VI.22., VI.23., VI.24., VI.25., VI.26., VI.27., VI.28., VI.29., VI.30., VI.33.1., VI.37.2., VI.37.5., VI.38., VI.42., VI.47., VI.48., VI.52., VI.53., VII.2., VII.3., VIII.5., VIII.6., VIII.7., VIII.9., VIII.10., VIII.11., VIII.12., VIII.13., VIII.14., VIII.15., VIII.16., VIII.17., VIII.18., VIII.19., VIII.21., VIII.22., VIII.23., VIII.24., VIII.25., VIII.27., VIII.28., VIII.29., VIII.30., VIII.33., VIII.35., IX.2., IX.3., IX.5., IX.7.2., IX.7.3., IX.8.2., IX.8.3., IX.9.2., X.3.5., X.3.6., X.3.7., X.3.8., X.8., X.9., X.11., X.12.4., X.12.5., X.12.6., X.12.7., X.12.8., X.13.2., X.14., X.15., X.16., X.17., X.18.1., X.18.2., XI.7., XI.8., XI.9., XI.11., XI.13., XI.14., XI.15., XII.2., XII.3., XII.4., XII.8., XII.9., XII.10., XII.11., XII.12., XII.13., XIV.2., XIV.3., XIV.4., XIV.5., XIV.6.2., XIV.7., XIV.8., XIV.10.2., XIV.11., XV.2., XV.3., XV.5., XV.8., XV.9. y XXII.2. del apéndice.
+III. Oculte, sustraiga, venda o compre efectos que la autoridad competente haya mandado destruir por ser nocivos a la salud.
 
-###### ARTÍCULO 266.
+Al responsable de este delito se le impondrán de tres meses a tres años de prisión y de treinta a cien días multa.
 
-Se sancionará con multa de seis mil a diez mil días de salario mínimo general, vigente en la zona económica de que se trate, la infracción de las disposiciones contenidas en los artículos 12, 22, párrafo primero, 23, 25, fracción VII, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 189, 201, 204, 206, 215, 216, 217, 218, 219, 220, 221, 222, 223 y 224 de este Reglamento, así como XVII.1., XVII.2., XVII.3., XVII.4., XVIII.1., XIX.1., XIX.2., XXI.2., XXI.4., XXI.7. y XXIII.3. del apéndice.
+### CAPITULO II. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
-###### ARTÍCULO 267.
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
-Las autoridades sanitarias, con base en los resultados de la verificación o información que proporcionen los interesados podrán dictar las medidas sanitarias para corregir las irregularidades que se hubieren detectado, notificándolas al interesado y dándole un plazo adecuado para su realización, que podrá ser hasta por treinta días naturales, el cual podrá prorrogarse por un plazo igual a petición del interesado, siempre y cuando demuestre que está corrigiendo las anomalías.
+###### Artículo 202.
 
-###### ARTÍCULO 268.
+Comete este delito el patrón que habitualmente y violando la Ley Federal del Trabajo:
 
-Las infracciones no previstas en este capítulo serán sancionadas con multas hasta por diez mil días de salario mínimo general vigente en la zona económica de que se trate.
+I. Pague los salarios a los trabajadores en mercancías, vales, fichas, tarjetas o en moneda que no sea de curso legal;
 
-## TÍTULO NOVENO. Bebidas no alcohólicas, productos para prepararlas y congelados de las mismas
+II. Retenga, en todo o en parte, los salarios de los trabajadores por concepto de multa, o cualquier otro que no esté autorizado legalmente;
 
-## TÍTULO DÉCIMO. Cereales, leguminosas y sus productos
+III. Pague los salarios de los trabajadores en tabernas, cantinas, prostíbulos o en cualquier otro lugar de vicio, excepto que se trate de empleados de esos lugares;
 
-## TÍTULO DÉCIMO PRIMERO. Aceites y grasas comestibles
+> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
+
+IV. Obligue a sus trabajadores a realizar jornadas sin descanso, que excedan de ocho horas en las labores diurnas y de siete en las nocturnas;
+
+> <small>(REFORMADA, G.G. 14 DE MARZO DE 2016)</small>
+
+V. Imponga labores insalubres o peligrosas y trabajos nocturnos injustificados a un adulto mayor o a menores de dieciocho años.
+
+VI. No pague a sus trabajadores el salario mínimo que les corresponda.
+
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2015)</small>
+
+VII. Despida a los trabajadores por contar con una orden judicial de descuento de alimentos o un incidente de pensión alimenticia.
+
+Al responsable de este delito se le impondrán de tres meses a un año de prisión.
+
+###### Artículo 203.
+
+Al patrón que con el sólo propósito de eludir el cumplimiento de las obligaciones que le impone la Ley Federal del Trabajo, impute indebidamente a uno o más de sus trabajadores, la comisión de un delito o falta, se le impondrán de dos a cinco años de prisión y de treinta a trescientos cincuenta días multa.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+### CAPITULO III. OBSTRUCCION A LA INVERSION
+
+> <small>(ADICIONADO, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+
+###### Artículo 203 Bis.
+
+Incurre en el delito de obstrucción a la inversión el servidor público que en la tramitación, apertura, instalación, operación y ampliación de unidades económicas, desarrolles (sic) habitacionales, proyectos industriales, comerciales y de servicios en el Estado de México, dolosamente:
+
+I. Retrase notoriamente la substanciación de trámites, servicios, actos, procesos o procedimientos que la Ley de Competitividad y Ordenamiento Comercial del Estado de México, la Ley de Fomento Económico para el Estado de México o las leyes de la materia le obliga a realizar para autorizar una inversión económica.
+
+II. Exija o solicite más requisitos de los señalados en las leyes u ordenamientos de la materia, para la substanciación del trámite, servicio, acto, proceso o procedimientos para autorizar una inversión económica.
+
+III. Solicite pagos no contemplados en la ley u ordenamientos en la materia para continuar los trámites, servicios, actos, procesos o Procedimientos que la ley le obliga a realizar, que obstruya una inversión económica.
+
+> <small>(ADICIONADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+También comete este delito la persona que dolosamente obstruya por cualquier medio ilícito, el desarrollo de proyectos de unidades económicas e inversiones que hayan cumplido con los requisitos y trámites legales correspondientes para su ejecución.
+
+Al responsable de este delito se le impondrá una pena de tres a seis años de prisión y de quinientos a mil días multa y la destitución del cargo e inhabilitación de dos a ocho años para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+SUBTITULO CUARTO
+
+DELITOS CONTRA EL PLENO DESARROLLO Y LA DIGNIDAD DE LA PERSONA
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO I. DE LAS PERSONAS MENORES DE EDAD Y QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 204.
+
+Comete el delito contra las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho al que por cualquier medio, obligue, procure, induzca o facilite a una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho o la capacidad de resistirlo, a realizar las siguientes conductas:
+
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+I. Al consumo de bebidas alcohólicas, narcóticos o sustancias tóxicas, se le impondrá pena de tres a seis años de prisión y de doscientos a dos mil días multa.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+> <small>(REFORMADO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+Se impondrá la pena señalada en el párrafo primero, al que organice o realice eventos, reuniones, fiestas o convivios al interior de inmuebles particulares, vendiendo o facilitando para el consumo de alcohol, drogas, estupefacientes a menores de 18 años o personas que no tengan la capacidad de comprender el significado del hecho, o personas que no tienen capacidad de resistir la conducta.
+
+II. A formar parte de una asociación delictuosa o de delincuencia organizada, se le impondrá pena de cinco a diez años de prisión y de quinientos a dos mil días multa.
+
+III. A realizar a través de cualquier medio y sin fines de lucro actos eróticos o sexuales, así como exhibiciones corporales, lascivas o sexuales, públicas o privadas, será castigado con pena de prisión de tres a cinco años de prisión y de doscientos a quinientos días multa.
+
+A quien emplee, aún gratuitamente, a personas menores de dieciocho años o que no tengan la capacidad de comprender el significado del hecho o de resistirlo, utilizando sus servicios en lugares o establecimientos donde preponderantemente se expendan bebidas alcohólicas o sustancias tóxicas para su consumo inmediato o en lugares que por su naturaleza sean nocivos para el libre desarrollo de su personalidad o para su salud, se le aplicará prisión de seis meses a dos años y de mil a dos mil días multa así como el cierre definitivo del establecimiento.
+
+A quien permita directa o indirectamente el acceso a personas menores de edad a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, incluyendo la información generada o comunicada por medios electrónicos o cualquier otra tecnología se le aplicará prisión de seis meses a dos años y multa de cincuenta a trescientos días multa.
+
+Al que ejecutare o hiciere ejecutar a otra persona actos de exhibicionismo corporal, eróticos o sexuales ante personas menores de edad o que no tengan la capacidad para comprender el significado del hecho o de resistirlo, se le impondrá pena de tres a seis años de prisión y de doscientos a mil días multa.
+
+El que, por cualquier medio, venda, difunda o exhiba material pornográfico entre personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho o de resistirlo, será castigado con pena de prisión de seis meses a un año y de doscientos a quinientos días multa.
+
+No se actualizará el delito tratándose de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
+
+Las penas a que se refiere este artículo se incrementarán hasta en una mitad, cuando la conducta se realice en un radio menor o igual a quinientos metros de alguna estancia infantil, institución educativa, parques públicos o centros deportivos.
+
+> <small>(DEROGADO OCTAVO PÁRRAFO, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+> <small>(REFORMADO Y REUBICADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 205.
+
+A quien pague o prometa pagar con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años con la intención de tener cópula o sostener actos eróticos sexuales con ella, se le impondrá una pena de tres a seis años de prisión y de mil quinientos a dos mil días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+
+Esta conducta se actualizará incluso cuando el pago o promesa de pago con dinero u otra ventaja de cualquier naturaleza sea para una tercera persona.
+
+Artículo 205 BIS.- (DEROGADO Y REUBICADO, G.G. 28 DE DICIEMBRE DE 2007)
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO II. UTILIZACION DE IMAGENES Y/O VOZ DE PERSONAS MENORES DE EDAD O PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO PARA LA PORNOGRAFIA
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 206.
+
+Comete el delito de utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, el que realice las siguientes conductas:
+
+I. Produzca, fije, grabe, videograbe, fotografíe o filme e imprima de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+
+II. Reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+
+III. Posea intencionalmente para cualquier fin, imágenes, sonidos o la voz de personas menores de edad o de personas que no tengan la capacidad de comprender el significado del hecho o de resistirlo, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales o eróticas, explícitas o no, reales o simuladas.
+
+IV. Financie, dirija, administre o supervise cualquiera de las actividades anteriores con la finalidad de que se realicen las conductas previstas en las fracciones anteriores.
+
+Al autor de los delitos previstos en las fracciones I y II se le impondrá pena (sic) siete a doce años de prisión y de quinientos a tres mil días multa. Al autor de los delitos previstos en la fracción III se le impondrá la pena de seis a diez años de prisión y de quinientos a mil días multa. A quien cometa el delito previsto en la fracción IV, se le impondrá pena de prisión de diez a catorce años y de mil a dos mil días multa.
+
+Las anteriores sanciones se impondrán sin perjuicio de las penas que correspondan por la comisión de los delitos contemplados en el capítulo noveno del subtítulo tercero "delitos contra la libertad y la seguridad", del título tercero "delitos contra las personas", del libro segundo del Código Penal del Estado de México.
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 207.
+
+Las penas que resulten aplicables por los delitos previstos en los capítulos I y II de este título se aumentarán hasta en una mitad más de acuerdo con lo siguiente:
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+I. Si el sujeto activo se valiese de la función pública, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará de ocho a veinte años para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta; y
+
+II. Si el sujeto activo del delito tiene parentesco por consanguinidad, afinidad o civil hasta en cuarto grado o habite ocasional o permanentemente en el mismo domicilio con la víctima, o tenga una relación análoga de cualquier tipo con el sujeto pasivo; además cuando corresponda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 208.
+
+Los sujetos activos de los delitos a que se refiere este capítulo quedarán inhabilitados para ser tutores o curadores.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO III. LENOCINIO
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 209.
+
+Comete el delito de lenocinio quien habitual o reiteradamente obtenga una ventaja económica u otro beneficio procedente de los servicios sexuales de otra persona mayor de edad. A quien cometa este delito se le aplicará prisión de dos a seis años y de quinientos a mil días multa.
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+Artículo 209 BIS.- A quien administre, sostenga, supervise o financie directa o indirectamente prostíbulos, casas de citas o lugares donde se lleven a cabo las conductas señaladas en el artículo anterior se le sancionará con una pena de dos a cinco años de prisión y de mil a dos mil días multas.
+
+> <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 210.
+
+Si los delitos de que hablan los artículos anteriores fueran cometidos al amparo de una persona jurídica colectiva o con medios que ésta proporcione para tal fin a los delincuentes, el juez ordenará la disolución la empresa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA], G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO IV. DISCRIMINACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 211.
+
+Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y de cincuenta a doscientos días multa al que, por razón de origen étnico o nacional, género, edad, discapacidades, condición social, trabajo o profesión, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o alguna otra que atente contra la dignidad humana y tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato a las personas:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE AGOSTO DE 2012)</small>
+
+I. Provoque o incite al odio o a la violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE AGOSTO DE 2012)</small>
+
+II. Niegue o retarde a una persona un trámite, servicio o una prestación a la que tenga derecho;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE AGOSTO DE 2012)</small>
+
+III. Repudie, desprecie, veje o excluya a alguna persona o grupo de personas; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE AGOSTO DE 2012)</small>
+
+IV. Niegue o restrinja derechos laborales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+Si las conductas descritas en este artículo las realiza un servidor público, se aumentará en una mitad la pena prevista en el primer párrafo del presente artículo y, además, se le destituirá e inhabilitara para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo tiempo de la privación de la libertad impuesta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+Este delito se perseguirá por querella.
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES CAPÍTULO IV], G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO V. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
+
+> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 211], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 211 Bis.
+
+Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, si el delito no se ejecutare, se le impondrán de tres a seis meses de prisión y de treinta a sesenta días multa. En caso contrario, se impondrá la pena que le corresponda como instigador del delito cometido.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+Se excluye de este delito, al servidor público que en cumplimiento de su deber realice alguno de los actos de investigación reconocidos en el Código Nacional de Procedimientos Penales, siempre y cuando ejerza su función en términos de las disposiciones jurídicas aplicables.
+
+SUBTITULO QUINTO
+
+DELITOS CONTRA LA FAMILIA
+
+### CAPITULO I. DELITOS CONTRA EL ESTADO CIVIL DE LAS PERSONAS
+
+###### Artículo 212.
+
+A quien con el fin de alterar el estado civil, suprima, altere o usurpe el estado civil de otro, registre un nacimiento inexistente o substituya a un niño por otro, se le impondrán de seis meses a seis años de prisión y de cincuenta a cuatrocientos días multa.
+
+### CAPITULO II. MATRIMONIOS ILEGALES
+
+###### Artículo 213.
+
+Al que contraiga o autorice matrimonio con conocimiento de la existencia de un impedimento, o sin que hayan transcurrido los términos suspensivos que para contraerlo señala la ley civil, se le impondrán de seis meses a dos años de prisión y de treinta a doscientos cincuenta días multa.
+
+### CAPITULO III. BIGAMIA
+
+###### Artículo 214.
+
+Al que estando unido en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio, con las formalidades legales, se le impondrán de uno a cuatro años de prisión y de cincuenta a cuatrocientos días multa.
+
+Igual pena se impondrá al otro contrayente si obrare con conocimiento del vínculo anterior.
+
+###### Artículo 215.
+
+A los testigos y a las personas que intervengan en la celebración del nuevo matrimonio, a sabiendas de la vigencia legal del anterior, se les impondrá hasta la mitad de las penas previstas en el artículo precedente. Igual pena se impondrá a quienes ejerzan la patria potestad o la tutela que, a sabiendas de la existencia de ese impedimento, dieren su consentimiento para la celebración del nuevo matrimonio.
+
+###### Artículo 216.
+
+El término para la prescripción de la bigamia, empezará a correr desde que uno de los dos matrimonios haya quedado disuelto por la muerte de uno de los cónyuges, o que el segundo haya sido declarado nulo. El término de la prescripción del matrimonio ilegal empieza a correr desde la disolución del matrimonio o por la muerte de uno de los cónyuges.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 12 DE AGOSTO DE 2011)</small>
+
+### CAPITULO IV. INCUMPLIMIENTO DE OBLIGACIONES
+
+> <small>(REFORMADO, G.G. 12 DE AGOSTO DE 2011)</small>
+
+###### Artículo 217.
+
+Comete el delito de incumplimiento de obligaciones, quien incurra en las siguientes conductas:
+
+I. El que estando obligado por la ley, sin motivo justificado abandone a sus descendientes, ascendientes, cónyuge, concubina, concubinario o acreedor alimentario, sin recursos para atender sus necesidades de subsistencia, aun cuando éstos, con motivo del abandono, se vean obligados a allegarse por cualquier medio de recursos para satisfacer sus requerimientos indispensables, independientemente de que se inicie o no la instancia civil. El delito se sancionará con prisión de dos a cinco años y de treinta a quinientos días multa;
+
+II. El que intencionalmente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrán de dos a siete años de prisión y de treinta a trescientos días multa. El órgano jurisdiccional determinará la aplicación del producto del trabajo que realice el inculpado, para satisfacer las obligaciones alimentarias a su cargo; y
+
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2014)</small>
+
+III. El padre, madre, tutor o quien tenga legalmente la custodia de un menor de edad, que por incurrir en negligencia u omisión en más de una ocasión en las obligaciones que le impone la ley, ponga en riesgo la salud mental o física del menor, se le impondrán de tres a ocho años de prisión y de cincuenta a trescientos cincuenta días multa.
+
+El Ministerio Público solicitará al Sistema Estatal para el Desarrollo Integral de la Familia, información sobre antecedentes a que se refiere este artículo, en los términos de las disposiciones jurídicas aplicables.
+
+Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad o incapaces; en cuyo caso, se perseguirá de oficio. En el caso de las fracciones I y II, para que el perdón concedido por el ofendido pueda extinguir la pretensión punitiva, deberá el inculpado pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizará el pago futuro de los mismos, por un término no menor a un año.
+
+Al inculpado de este delito, además de las sanciones señaladas, se le impondrá la pérdida de los derechos inherentes a la patria potestad del menor o incapaz agraviado, por resolución judicial.
+
+El inculpado de este delito, durante la investigación del mismo y al rendir su declaración, será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
+
+> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+
+En los casos de reincidencia del delito de incumplimiento de obligaciones alimentarias, las penas a que se refiere este artículo se incrementarán hasta en una mitad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
+
+### CAPITULO V. VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 218.
+
+Al integrante de un núcleo familiar que haga uso de la violencia física o moral en contra de otro integrante de ese núcleo que afecte o ponga en peligro su integridad física, psíquica o ambas, o cause menoscabo en sus derechos, bienes o valores de algún integrante del núcleo familiar, se le impondrán de tres a siete años de prisión y de doscientos a seiscientos días multa y tratamiento psicoterapéutico, psicológico, psiquiátrico o reeducativo, sin perjuicio de las penas que correspondan por otros delitos que se consumen.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2016)</small>
+
+En caso de que existan datos que establezcan que se han cometido amenazas o advertencias de causar algún daño, en contra de la víctima, denunciante o terceros, derivado de la noticia criminal que se haya hecho del conocimiento de la autoridad, la pena se incrementará hasta en una mitad.
+
+Por núcleo familiar debe entenderse el lugar en donde habitan o concurran familiares o personas con relaciones de familiaridad en intimidad, o el vínculo de mutua consideración y apoyo que existe entre las personas con base en la filiación o convivencia fraterna.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2016)</small>
+
+Este delito se perseguirá por querella, salvo cuando los ofendidos sean menores de edad, incapaces, mujeres o adultos mayores; en cuyo caso, se perseguirá de oficio.
+
+El inculpado de este delito, durante la investigación del mismo y al rendir su declaración, será apercibido por el Ministerio Público para que se abstenga de realizar cualquier conducta que pudiere causar daño a los pasivos.
+
+> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+Si el inculpado de este delito lo cometiese de manera reiterada, o en contra de una persona mayor de sesenta años, se le impondrá la perdida de los derechos hereditarios, los inherentes a la patria potestad, tutela o guarda y cuidado del menor o incapaz agraviado, a quien tenga el ejercicio de ésta, por resolución judicial.
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+Las penas previstas en el presente artículo se elevarán hasta en un tercio, si se comete en agravio de una persona mayor de sesenta años.
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+A quien condicione a un adulto mayor el acceso y permanencia a su propio domicilio, o cualquiera de sus bienes inmuebles, le restrinja o condicione el uso de sus bienes muebles; presione por medio de la violencia física o moral para que teste o cambie su testamento a favor de un tercero, disponga sin la autorización correspondiente de los recursos económicos del pasivo; o sustraiga, despoje, retenga o condicione la entrega de los documentos de identidad o de acceso a los servicios de salud y de asistencia social, en perjuicio de una persona adulta mayor, la pena aumentará hasta en una mitad.
+
+### CAPITULO VI. TRAFICO DE MENORES
+
+> <small>(F. DE E., G.G. 3 DE ABRIL DE 2000)</small>
+
+###### Artículo 219.
+
+Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, o sin el consentimiento de aquél, lo entregue ilegítimamente a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le impondrán de tres a diez años de prisión y de cincuenta a cuatrocientos días multa.
+
+La misma pena a que se refiere el párrafo anterior, se impondrá a los que otorguen el consentimiento a que alude este artículo y al tercero que reciba al menor.
+
+Si la entrega definitiva del menor se hace sin la finalidad de obtener un beneficio económico, se impondrán de uno a tres años de prisión.
+
+Además de las sanciones señaladas, se privará de los derechos de la patria potestad, tutela o custodia, en su caso, a quienes teniendo el ejercicio de éstas, cometan el delito a que se refiere este artículo.
+
+### CAPITULO VII. EXPLOTACION DE PERSONAS
+
+###### Artículo 220.
+
+(DEROGADO, G.G. 28 DE DICIEMBRE DE 2007)
+
+### CAPITULO VIII. INCESTO
+
+###### Artículo 221.
+
+A los ascendientes que tengan cópula con sus descendientes, teniendo conocimiento del parentesco, se les impondrán de tres a siete años de prisión y de treinta a doscientos días multa. La pena aplicable a estos últimos será de uno a tres años de prisión.
+
+Se impondrá esta última sanción en caso de incesto entre hermanos.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2013)</small>
+
+### CAPITULO IX. ADULTERIO
+
+###### Artículo 222.
+
+(DEROGADO, G.G. 12 DE NOVIEMBRE DE 2013)
+
+###### Artículo 223.
+
+(DEROGADO, G.G. 12 DE NOVIEMBRE DE 2013)
+
+SUBTITULO SEXTO
+
+DELITOS CONTRA EL RESPETO A LOS MUERTOS Y VIOLACIONES A LAS LEYES DE INHUMACION Y EXHUMACION
+
+### CAPITULO UNICO
+
+###### Artículo 224.
+
+Al que por sí o a través de otro, oculte, destruya, mutile, sepulte, o exhume un cadáver, un feto, partes o restos humanos, sin los requisitos que exige la ley, se le impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa.
+
+###### Artículo 225.
+
+Al que por sí o a través de otro realice u ordene la cremación de un cadáver, feto, partes o restos humanos, sin la autorización que deba otorgar la persona legalmente facultada para ello o, en su caso, la autoridad correspondiente, se le impondrán prisión de seis a doce años y de ciento cincuenta a trescientos días multa.
+
+###### Artículo 226.
+
+A los que retengan cadáveres, partes o restos humanos en una clínica, sanatorio, hospital o en otro lugar similar por mayor tiempo del aconsejado por las normas de salud con el objeto de que los familiares o deudos paguen gastos de hospitalización, atención, tratamiento u operaciones, salvo que sea por instrucciones del Ministerio Público o autoridad judicial que requieran la retención del cadáver para el cumplimiento de sus funciones, se les impondrán de tres meses a dos años de prisión y de treinta a sesenta días multa.
+
+La misma pena se impondrá a la persona de alguna institución, clínica, sanatorio u hospital público o privado, que retenga un cadáver, partes o restos humanos para realizar estudios de carácter científico, sin previa autorización del Ministerio Público, de la autoridad judicial, de los familiares o de los deudos.
+
+###### Artículo 227.
+
+También incurre en este delito quien:
+
+I. Viole un túmulo, un sepulcro, una sepultura o féretro; y
+
+II. Profane un cadáver o restos humanos con actos de vilipendio, mutilación, brutalidad o necrofilia.
+
+Al responsable se le impondrán de uno a tres años de prisión y de treinta a cien días multa.
+
+Se impondrán de cuatro a ocho años de prisión y de cuarenta a doscientos días multa, si los actos de necrofilia consisten en la realización del coito.
+
+SUBTITULO SEPTIMO
+
+DELITOS CONTRA EL AMBIENTE
+
+### CAPITULO I
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE JULIO DE 2013)</small>
+
+###### Artículo 228.
+
+Al que en contravención a las disposiciones legales en materia de protección al ambiente o normas técnicas ambientales:
+
+I. El que derribe o trasplante un árbol en la vía pública o afecte negativamente áreas verdes o jardineras públicas, dolosamente, sin autorización correspondiente;
+
+II. Provoque por cualquier medio una enfermedad en las plantas, cultivos agrícolas o bosques, causando daño a la salud pública o desequilibrio a los ecosistemas;
+
+III. Provoque intencionalmente un incendio forestal;
+
+IV. Descargue, deposite, infiltre o derrame aguas residuales de carácter industrial, comerciales, de servicios y agropecuarios, desechos o contaminantes en las aguas o en los suelos de jurisdicción estatal o municipal, que causen daños a la salud pública, la flora, la fauna o los ecosistemas;
+
+V. Despida o descargue en la atmósfera gases, humos, polvos, líquidos que ocasionen o puedan ocasionar daños a la salud pública, la flora, la fauna o los ecosistemas, en zonas o fuentes emisoras de jurisdicción estatal o municipal;
+
+VI. Genere emisiones de ruido, vibraciones, energía lumínica o térmica en zonas de jurisdicción estatal o municipal que ocasionen o puedan ocasionar daños a la salud pública, flora, fauna o los ecosistemas;
+
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+
+VII. Debiendo obtener la autorización de impacto y riesgo ambiental, realice obras o actividades, sin contar con la misma o no implemente las medidas preventivas y correctivas que indique la autoridad correspondiente para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente, ocasionando daños a la salud pública, la flora, la fauna o los ecosistemas;
+
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+
+VIII. Rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las normas técnicas estatales vigentes;
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2013)</small>
+
+IX. Sin contar con la autorización de impacto y riesgo ambiental, preste el servicio de guarda, custodia, reparación o depósito de vehículos;
+
+> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2013)</small>
+
+X. Sin contar con la autorización de impacto y riesgo ambiental, guarde, comercie, deposite o almacene vehículos de desecho o autopartes usadas.
+
+A los responsables de este delito se les impondrá prisión de dos a ocho años y de treinta a ciento cincuenta días multa.
+
+> <small>(ADICIONADO, G.G. 25 DE AGOSTO DE 2015)</small>
+
+###### Artículo 228 Bis.
+
+Al que ilícitamente posea, adquiera, venda, reciba, transporte o almacene material peligroso al que alude el Código para la Biodiversidad del Estado de México, se le impondrá de dos a seis años de prisión y de doscientos a cuatrocientos días multa.
+
+> <small>(REFORMADO, G.G. 19 DE JULIO DE 2007)</small>
+
+###### Artículo 229.
+
+Al que sin autorización legal realice, auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicarán de cinco a quince años de prisión y de quinientos a mil días multa.
+
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
+
+Cuando la destrucción de los productos de los montes o bosques sea a consecuencia de la tala de árboles, sin autorización de la autoridad correspondiente, se impondrá una pena de ocho a quince años de prisión y de mil a dos mil días multa.
+
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
+
+A los autores intelectuales, instigadores, a quienes obtengan un lucro indebido o a quienes controlen o inciten a menores de edad para cometer este delito, se les impondrá una pena de ocho a quince años de prisión y de mil a dos mil días multa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
+
+Se impondrán de doce a veinte años de prisión y de mil quinientos a tres mil días multa:
+
+I. Cuando en la comisión de este delito se empleen instrumentos como motosierras, sierras manuales o sus análogas y demás objetos utilizados para el daño y destrucción de los montes o bosques;
+
+II. Cuando en la comisión de este ilícito se utilicen vehículos, camionetas o camiones cargados con tocones de madera;
+
+III. Cuando en la comisión de este ilícito participen servidores públicos.
+
+Los instrumentos y efectos del delito se asegurarán de oficio por el Ministerio Público, quien los pondrá a disposición de la autoridad judicial para el decomiso correspondiente, independientemente de que puedan estar a disposición de otra autoridad.
+
+> <small>(ADICIONADO, G.G. 17 DE JULIO DE 2013)</small>
+
+No será punible el uso de leña para consumo doméstico, de material leñoso proveniente de vegetación forestal sin ningún proceso de transformación que podrá ser utilizado como combustible en el hogar, para rituales o productos artesanales, hasta en un volumen menor a medio metro cubico.
+
+> <small>(ADICIONADO, G.G. 23 DE NOVIEMBRE DE 2015)</small>
+
+No será punible la comercialización y transporte de árboles de navidad obtenidos de plantaciones forestales autorizadas legalmente o registradas ante la autoridad forestal con fines de comercialización o uso doméstico. Lo anterior sin perjuicio que, en los operativos que las autoridades realicen en el ámbito de su competencia, se acredite su legal procedencia.
+
+###### Artículo 230.
+
+A quien dolosamente deteriore, por el uso, la ocupación o el aprovechamiento, un inmueble que por decreto del ejecutivo del Estado haya sido declarado área natural protegida, en sus diferentes modalidades de reservas estatales, parques estatales, parques municipales, reservas naturales privadas o comunitarias, parajes protegidos, zonas de preservación ecológica de los centros de población y las demás que determinen las leyes y reglamentos de la materia, se le impondrán de tres a diez años de prisión y de cincuenta a doscientos días multa.
+
+###### Artículo 231.
+
+A quien circule en vehículos automotores que hubieren sido retirados de la circulación por ser ostensiblemente contaminantes, se le impondrán de tres a seis meses de prisión y de cincuenta a cien días multa.
+
+###### Artículo 232.
+
+Comete también el delito a que se refiere el artículo anterior, el que incurra en cualquiera de las conductas siguientes:
+
+I. Altere en cualquier forma, sustituya, destruya, trafique o haga uso indebido de documentos oficiales relativos al programa de verificación de vehículos automotores;
+
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
+
+II. Destine sus establecimientos a actividades diferentes a la verificación de emisiones contaminantes, realice en éstos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad comercial o de servicio distinta a la verificación, sin contar con la autorización emitida por la autoridad competente;
+
+III. Siendo propietario, responsable o técnico de los verificentros, condicione la aprobación de la verificación vehicular, a la entrega de dádivas en efectivo o en especie, o por cualquier motivo cobre por la verificación una cantidad superior a la autorizada oficialmente;
+
+IV. Siendo propietario, responsable o técnico de los verificentros o usuario del servicio, proporcione documentos falsos, para llevar a cabo la verificación vehicular; y
+
+V. En calidad de usuario del servicio de verificación vehicular, ofrezca, prometa o entregue dinero o cualquier dádiva, con el fin de alterar los resultados de la verificación vehicular obligatoria.
+
+Al responsable de este delito se le impondrán de uno a cuatro años de prisión y de treinta a cien días multa.
+
+###### Artículo 233.
+
+A los prestadores de servicios ambientales autorizados que proporcionen documentos o información falsos u omitan datos con el objeto de que las autoridades ambientales competentes otorguen o avalen licencias, autorizaciones, registros, constancias o permisos de cualquier tipo, se les impondrán de uno a ocho años de prisión y de treinta a ciento cincuenta días multa.
+
+###### Artículo 234.
+
+Será necesario que la secretaría del ramo formule la denuncia correspondiente para proceder penalmente por los delitos previstos en este capítulo, a excepción de lo señalado en el artículo 229 de este código, en cuyo caso la denuncia la podrá formular cualquier ciudadano.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Se perseguirán de oficio las conductas establecidas en el artículo 228, fracciones IX y X del presente Código.
+
+### CAPITULO II. DELITOS CONTRA LA FLORA Y LA FAUNA SILVESTRE
+
+###### Artículo 235.
+
+Al que intencionalmente y en contravención a las disposiciones legales en materia de protección a la flora y la fauna o normas técnicas relacionadas con esta materia de competencia estatal:
+
+I. Realice cualquier acto que cause la destrucción, daño o perturbación de la vida silvestre o de su hábitat, incluidos los actos de contaminación que representen una destrucción, daño o perturbación de la vida silvestre;
+
+II. Utilice el suelo y demás recursos con fines agrícolas, ganaderos o forestales sin realizar las medidas de preservación de poblaciones y ejemplares de la vida silvestre y su hábitat;
+
+III. Utilice ejemplares vivos confinados de especies o poblaciones en riesgo o de particular importancia para la preservación en actividades distintas a las autorizadas oficialmente;
+
+IV. Maneje ejemplares de especies exóticas fuera de confinamiento controlado o sin respetar los términos del plan del manejo aprobado;
+
+V. Viole los tiempos de los programas de restauración o veda establecidas por las autoridades competentes;
+
+VI. Emplee cercos u otros métodos parta retener o atraer ejemplares de la vida silvestre, cuando ello implique un perjuicio a la evolución y continuidad de las especies;
+
+VII. Posea ejemplares vivos de la vida silvestre fuera de su hábitat natural o los comercialice sin contar con los medios para acreditar su legal procedencia o en contravención a las disposiciones para su manejo establecidas por las autoridades;
+
+VIII. Traslade ejemplares, partes y derivados de la vida silvestre sin la autorización correspondiente;
+
+IX. Realice aprovechamientos extractivos o no extractivos de la vida silvestre sin autorización o en contravención a los términos en que hubiere sido otorgada y a las disposiciones aplicables;
+
+X. Aproveche, traslade, exhiba, entrene, sacrifique o someta a cuarentena ejemplares de la vida silvestre sin observar las disposiciones sobre trato digno y respetuoso establecidas por la ley correspondiente; y
+
+XI. Practique la caza deportiva sin la autorización correspondiente.
+
+A los responsables de este delito, se les impondrá de uno a seis años de prisión y treinta a cien días multa.
+
+Será necesario que la secretaria del ramo formule la denuncia correspondiente para proceder penalmente por los delitos previstos en este capitulo.
+
+La reparación del daño respecto de los delitos contenidos en este subtítulo, se aplicará en favor de la colectividad a través de la autoridad correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO III. MALTRATO ANIMAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 235 Bis.
+
+Comete el delito de maltrato animal, el que cause lesiones dolosas a cualquier animal que no constituya plaga, y se le impondrá pena de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
+La pena prevista en el párrafo anterior también se aplicará a quien abandone a cualquier animal de tal manera que quede expuesto a riesgos que amenacen su integridad, la de otros animales o de las personas.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
+A quien realice actos eróticos sexuales a un animal o le introduzca por vía vaginal o rectal el miembro viril, cualquier parte del cuerpo, objeto o instrumento se le impondrán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 235 Ter.
+
+A quien cause la muerte no inmediata, utilizando cualquier medio que prolongue la agonía de cualquier animal que no constituya plaga, se le impondrá una pena de seis meses a tres años de prisión y de cien a doscientos días multa.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 235 Quáter.
+
+La reparación del daño respecto de los delitos cometidos en este capítulo se aplicará al Fondo para la Protección a los Animales del Estado de México.
+
+Quedan exceptuadas de este Capítulo las charreadas, jaripeos, rodeos, lidia de toros, novillos o becerros; peleas de gallos, el adiestramiento de animales; las actividades con fines cinegéticos, de pesca o de rescate, siempre y cuando estas actividades se realicen en términos de las disposiciones jurídicas aplicables.
+
+## TITULO TERCERO. DELITOS CONTRA LAS PERSONAS
+
+SUBTITULO PRIMERO
+
+DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
+
+### CAPITULO I. LESIONES
+
+###### Artículo 236.
+
+Lesión es toda alteración que cause daños en la salud producida por una causa externa.
+
+###### Artículo 237.
+
+El delito de lesiones se sancionará en los siguientes términos:
+
+I. Cuando el ofendido tarde en sanar hasta quince días y no amerite hospitalización, se impondrán de tres a seis meses de prisión o de treinta a sesenta días multa;
+
+II. Cuando el ofendido tarde en sanar más de quince días o amerite hospitalización, se impondrán de cuatro meses a dos años de prisión y de cuarenta a cien días multa;
+
+III. Cuando ponga en peligro la vida, se impondrán de dos a seis años de prisión y de sesenta a ciento cincuenta días multa.
+
+Para efectos de este capítulo, se entiende que una lesión amerita hospitalización, cuando el ofendido con motivo de la lesión o lesiones sufridas, quede impedido para dedicarse a sus ocupaciones habituales, aun cuando materialmente no sea internado en una casa de salud, sanatorio u hospital.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+El Ministerio Público se abstendrá de ejercer acción penal, tratándose de lesiones culposas de las que según la clasificación médica tarden en sanar menos de quince días, causadas con motivo de accidentes ocasionados por el tránsito de vehículos. En estos casos, la autoridad que conozca de los hechos remitirá el asunto a la instancia conciliadora establecida en la Ley Orgánica Municipal del Estado de México, siempre y cuando el conductor que ocasione el hecho de tránsito no se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+En los casos de lesiones causadas con motivo de accidentes ocasionados por el tránsito de vehículos, distintas a las señaladas en el párrafo anterior, el Ministerio Público podrá aplicar los criterios de oportunidad, dependiendo de las particularidades de cada caso, en términos de lo dispuesto por el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+Las diligencias practicadas por la autoridad que conozca de los hechos en primer orden, serán turnadas a la autoridad que le corresponda, para que siga conociendo de los hechos.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+
+Las lesiones a que se refieren las fracciones I y II, se perseguirán por querella.
+
+###### Artículo 238.
+
+Son circunstancias que agravan la penalidad del delito de lesiones y se sancionarán, además de las penas señaladas en el artículo anterior, con las siguientes:
+
+I. Cuando las lesiones se produzcan por disparo de arma de fuego o con alguna de las armas consideradas como prohibidas, se aplicarán de uno a dos años de prisión y de treinta a sesenta días multa;
+
+II. Cuando las lesiones dejen al ofendido cicatriz notable y permanente en la cara o en uno o ambos pabellones auriculares, se aplicarán de seis meses a dos años de prisión y de cuarenta a cien días multa;
+
+III. Cuando las lesiones produzcan debilitamiento, disminución o perturbación de las funciones, órganos o miembros, se aplicarán de uno a cuatro años de prisión y de sesenta a ciento cincuenta días multa;
+
+IV. Cuando las lesiones produzcan debilitamiento, disminución o perturbación de las funciones, órganos o miembros y con motivo de ello el ofendido quede incapacitado para desarrollar la profesión, arte u oficio que constituía su modo de vivir al momento de ser lesionado, se aplicarán de dos a seis años de prisión y de noventa a doscientos días multa;
+
+V. Cuando las lesiones produzcan enfermedad incurable, enajenación mental, pérdida definitiva de algún miembro o de cualquier función orgánica o causen una incapacidad permanente para trabajar, se aplicarán de dos a ocho años de prisión y de ciento veinte a doscientos cincuenta días multa;
+
+VI. Cuando las lesiones sean calificadas, se aumentará la pena de prisión de seis meses a tres años;
+
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2014)</small>
+
+VII. Cuando la víctima u ofendido sea ascendiente, descendiente, hermano, pupilo, tutor, cónyuge, concubina o concubinario, o mantenga una relación sentimental o afectiva con el inculpado, se aumentarán de seis meses a dos años de prisión, salvo lo señalado por la siguiente fracción;
+
+> <small>(REFORMADA, G.G. 15 DE DICIEMBRE DE 2014)</small>
+
+VIII. Cuando las lesiones se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, se aplicarán de diez a quince años de prisión y de doscientos a cuatrocientos días multa, además la suspensión o privación de esos derechos.
+
+A quien ejerza la patria potestad, tutela o custodia del menor víctima de las lesiones que haya consentido la conducta, se le aplicará la misma pena, además de la suspensión o privación de esos derechos. Se entenderá que hubo consentimiento cuando haya omitido realizar la denuncia correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE AGOSTO DE 2011)</small>
+
+IX.- Cuando las lesiones se produzcan contra una persona en ejercicio de la actividad periodística, se aplicarán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+
+###### Artículo 239.
+
+Son circunstancias que atenúan la penalidad en el delito de lesiones y se sancionarán de la siguiente forma:
+
+I. Cuando las lesiones sean inferidas en riña o duelo, la pena que corresponda se disminuirá hasta la mitad, considerando quien fue el provocado, quien el provocador y el grado de provocación;
+
+II. Cuando las lesiones sean inferidas:
+
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
+a) En estado de emoción violenta; en los casos de este delito cometido con violencia de género, no se aplicará esta atenuante.
+
+b) En vindicación próxima de una ofensa grave, causada al autor de la lesión, su cónyuge, concubina, concubinario, ascendientes, descendientes, pupilo, tutor o hermanos.
+
+La pena que corresponda se reducirá en una mitad;
+
+III. Cuando dos o más personas realicen sobre otra u otras, actos idóneos para lesionarlas y el resultado se produzca, sin posibilidad de determinarse quién o quiénes de los que intervinieron lo produjeron, a todos los participantes se les impondrán de dos tercios a cinco sextos de la pena que corresponda al delito simple.
+
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+
+###### Artículo 240.
+
+Las penas a que se refiere el artículo 237 se incrementarán hasta en una mitad, sin perjuicio de las agravantes a que se refiere el artículo 238, en los siguientes casos:
+
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+
+a) Cuando las lesiones sean cometidas por un hombre en agravio de una mujer, por razones de género.
+
+Se entiende por razones de género, a las lesiones asociadas a la exclusión, subordinación, discriminación, misoginia o explotación del sujeto pasivo, o
+
+b) Cuando las lesiones se produzcan de forma dolosa a una mujer embarazada; en este caso, cuando haya una lesión al producto, la pena a que se refiere el artículo 237 de este Código se incrementará hasta en dos tercios, sin perjuicio de las demás agravantes a que se refiere este artículo;
+
+c) Cuando las lesiones se cometan por un hombre en agravio de una mujer, con quien haya tenido una relación sentimental, afectiva o de confianza, o haya estado vinculada con el sujeto activo por una relación de hecho en su centro de trabajo o institución educativa, o por razones de carácter técnico o profesional, y
+
+d) Cuando exista la intención de realizar un delito sexual, independientemente que se consume o no.
+
+### CAPITULO II. HOMICIDIO
+
+###### Artículo 241.
+
+Comete el delito de homicidio el que priva de la vida a otro.
+
+> <small>(ADICIONADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+Se sancionará como homicidio a quien a sabiendas de que padece una enfermedad grave, incurable y mortal, contagie a otro o le cause la muerte.
+
+###### Artículo 242.
+
+El delito de homicidio, se sancionará en los siguientes términos:
+
+I. Al responsable de homicidio simple, se le impondrán de diez a quince años de prisión y de doscientos cincuenta a trescientos setenta y cinco días multa;
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2011)</small>
+
+Cuando el homicidio se cometa contra una persona en ejercicio de la actividad periodística, se le impondrán de doce a veinte años de prisión y de trescientos a quinientos cincuenta días multa.
+
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+II. Al responsable de homicidio calificado, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
+
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, concubinario, ascendientes, descendientes consanguíneos en línea recta o hermanos, teniendo conocimiento el inculpado del parentesco, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa; y
+
+> <small>(ADICIONADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+IV. Al responsable del homicidio de dos o más personas, en el mismo o en distintos hechos, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa.
+
+> <small>(DEROGADO, G.G. 14 DE MARZO DE 2016)</small>
+
+### CAPITULO II BIS. FEMINICIDIO
+
+Artículo 242 bis.- (DEROGADO, G.G. 14 DE MARZO DE 2016)
+
+###### Artículo 243.
+
+Son circunstancias que atenúan la penalidad en el delito de homicidio y se sancionarán de la siguiente forma:
+
+I. Cuando el delito se cometa en riña o duelo se impondrán de tres a diez años de prisión y de cincuenta a doscientos cincuenta días multa, tomando en cuenta quien fue el provocado, quien el provocador y el grado de provocación;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
+
+II. Cuando el delito se cometa bajo alguna de las siguientes circunstancias, se impondrá de cinco a veinte años de prisión y de cincuenta a trescientos días multa.
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+a) En estado de emoción violenta, en los casos a que se refiere el artículo 281, no se aplicará esta atenuante.
+
+b) En vindicación próxima de una ofensa grave causada al autor del delito, su cónyuge, concubina, concubinario, ascendientes, descendientes, hermanos, tutor, pupilo, adoptante o adoptado;
+
+c) Por móviles de piedad, mediante súplicas notorias y reiteradas de la víctima, ante la inutilidad de todo auxilio para salvar su vida.
+
+III. Cuando dos o más personas realicen sobre otra u otras actos idóneos para privarlos de la vida y este resultado se produzca ignorándose quién o quiénes de los que intervinieron lo produjeron, a todos se impondrán de diez a quince años de prisión y de ciento setenta y cinco a trescientos veinticinco días multa; y
+
+IV. A la madre que diere muerte a su propio hijo dentro de las setenta y dos horas de nacido, se le impondrán de tres a cinco años de prisión y de setenta y cinco a ciento veinticinco días multa, siempre que concurran las siguientes circunstancias:
+
+a) Que no tenga mala fama;
+
+b) Que haya ocultado su embarazo;
+
+c) Que el nacimiento del infante haya sido oculto y que no se hubiere inscrito en el Registro Civil;
+
+d) Que el infante no sea legítimo.
+
+Si en este delito tuviere participación un médico cirujano, comadrona o partera, además de la pena privativa que corresponda, se le suspenderá de uno a tres años en el ejercicio de su profesión.
+
+### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+
+###### Artículo 244.
+
+Riña es la contienda de obra entre dos o más personas con intención de dañarse.
+
+###### Artículo 245.
+
+Las lesiones y el homicidio serán calificados cuando se cometan con alguna de las siguientes circunstancias:
+
+I. Premeditación: cuando se cometen después de haber reflexionado sobre su ejecución;
+
+II. Ventaja: cuando el inculpado no corra riesgo alguno de ser muerto o lesionado por el ofendido;
+
+III. Alevosía: cuando se sorprende intencionalmente a alguien de improviso o empleando asechanza; y
+
+IV. Traición: cuando se emplea la perfidia, violando la fe o la seguridad que expresamente se había prometido a la víctima, o la tácita que ésta debía esperar en razón del parentesco, gratitud, amistad o cualquier otra que inspire confianza.
+
+> <small>(ADICIONADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+V. Tratándose del delito de homicidio, también se considerará calificado cuando:
+
+a) Exista retribución, entendiéndose por ésta cuando el sujeto activo lo cometa por pago o prestación prometida o dada.
+
+b) En el momento de la privación de la vida, o posteriormente a ello, se realice la decapitación, mutilación, quemaduras o desmembramiento de la víctima.
+
+c) En el momento de la privación de la vida, o posteriormente a ello, se deje o utilice uno o más mensajes intimidatorios dirigidos a la población, autoridades o cualquier persona. O se deje uno o más mensajes que atenten contra la dignidad humana, por la exhibición de la causa de la muerte.
+
+d) Se cometa en contra de una mujer o de un menor de edad.
+
+> <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 245 Bis.
+
+Se impondrá la pena establecida en la fracción II del artículo 242 de este Código, cuando el delito de homicidio sea cometido en contra de servidores públicos de las instituciones de Seguridad Pública, procuración o administración de justicia, al ejercer lícitamente sus funciones o con motivo de ellas. Tratándose de lesiones se aplicará la pena prevista en la fracción VI del artículo 238 de este Código.
+
+### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 246.
+
+Al que preste auxilio o instigue a otro al suicidio, sin que este se produzca, se le impondrán de uno a cinco años de prisión y de veinte a cien días multa; y si se produce, se le impondrán de tres a diez años de prisión y de cincuenta a doscientos cincuenta días multa.
+
+###### Artículo 247.
+
+Si el suicida fuere menor de edad o enajenado mental, se impondrá además de uno a tres años de prisión y de treinta a cincuenta días multa.
+
+### CAPITULO V. ABORTO
+
+###### Artículo 248.
+
+Al que provoque la muerte del producto de la concepción en cualquier momento del embarazo intrauterino, se le impondrá:
+
+I. De tres a ocho años de prisión y de cincuenta a cuatrocientos días multa, si se obra sin consentimiento de la mujer embarazada;
+
+II. De uno a cinco años de prisión y de treinta a doscientos días multa, si se obra con el consentimiento de la mujer; y
+
+III. De tres a ocho años de prisión y de cincuenta a trescientos días multa si se emplea violencia física o moral.
+
+###### Artículo 249.
+
+Si el aborto lo causare un médico cirujano o partera, además de las sanciones que le correspondan conforme al anterior artículo, se le suspenderá de tres a seis años en el ejercicio de su profesión, en caso de reincidencia la suspensión será de veinte años.
+
+###### Artículo 250.
+
+A la mujer que diere muerte al producto de su propia concepción o consintiere en que otro se la diere, se le impondrán de uno a tres años de prisión.
+
+Si lo hiciere para ocultar su deshonra, se impondrá de seis meses a dos años de prisión.
+
+###### Artículo 251.
+
+No es punible la muerte dada al producto de la concepción:
+
+I. Cuando aquélla sea resultado de una acción culposa de la mujer embarazada;
+
+II. Cuando el embarazo sea resultado de un delito de violación;
+
+III. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora; y
+
+IV. Cuando a juicio de dos médicos exista prueba suficiente para diagnosticar que el producto sufre alteraciones genéticas o congénitas que puedan dar por resultado el nacimiento de un ser con trastornos físicos o mentales graves, siempre y cuando se cuente con el consentimiento de la madre.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO VI. MANIPULACION GENETICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 251 Bis.
+
+Se impondrán de dos a seis años de prisión, inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos, profesión u oficio y hasta de trescientos días multa, a quien:
+
+> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+I. Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipule genes humanos de manera que se altere el genotipo;
+
+> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+II. Fecunde óvulos humanos con cualquier fin distinto a la procreación humana; o
+
+> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+III. Mediante la clonación u otros procedimientos, pretendan la creación de seres humanos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO VII. DISPOSICION DE CELULAS Y PROCREACION ASISTIDA
+
+> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+Artículo 251 TER.- Se impondrán de dos a siete años de prisión y quinientos días de multa a quien:
+
+I. Disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes o depositarios;
+
+II. Implante a una mujer un óvulo fecundado, sin su consentimiento o sin el de los donantes o depositarios, aún con el consentimiento de una menor de edad o de un incapaz para comprender el hecho o para resistirlo.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Este delito se perseguirá por querella. Si el delito se realiza con violencia o del mismo resultare un embarazo, la pena aplicable será de cinco a catorce años de prisión y hasta de quinientos días multa.
+
+Además de las penas previstas, se impondrá privación del derecho para ejercer la profesión por un tiempo igual al de la pena de prisión impuesta. Si se trata de servidores públicos, se impondrán también, en los mismos términos, la destitución e inhabilitación de catorce a diecinueve años para el desempeño de empleo, cargo o comisión públicos.
+
+SUBTITULO SEGUNDO
+
+DELITOS DE PELIGRO CONTRA LAS PERSONAS
+
+### CAPITULO I. PELIGRO DE CONTAGIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 252.
+
+A quien sabiendo que padece una enfermedad grave en período infectante, ponga en peligro de contagio a otro, por cualquier medio de transmisión, se le aplicará una pena de seis meses a dos años de prisión y de treinta a sesenta días multa.
+
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+En este delito sólo se procederá por querella del ofendido.
+
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO II. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
+
+###### Artículo 253.
+
+Comete este delito quien:
+
+> <small>(REFORMADA, G.G. 25 DE JUNIO DE 2015)</small>
+
+I. Dispare un arma de fuego sobre una persona o grupo de personas, o en domicilio particular, en la vía pública, en un establecimiento comercial, de servicios, o fuera de un campo de tiro debidamente autorizado, o en algún lugar concurrido;
+
+II. Ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquier otra circunstancia semejante, pueda producir como resultado lesiones o la muerte.
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
+
+III. El que haga uso de armas de municiones, ballestas o cualquier objeto que dispare o proyecte objetos, con el propósito de causar daño o atacar a alguna persona.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2012)</small>
+
+Al responsable se le impondrán de dos a cinco años de prisión y de sesenta a cien días multa.
+
+> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2012)</small>
+
+La misma pena se aplicará al que amenace o intimide a una persona haciendo uso de armas falsas, de juguete, utilería o réplicas, aun cuando no sean aptas para causar un daño físico, y cause temor efectivo e inminente en la víctima u ofendido.
+
+Este artículo sólo se aplicará cuando no causare daño, o los hechos no constituyan tentativa de homicidio, en caso contrario, se impondrán las penas del delito consumado o en grado de tentativa que resultare.
+
+### CAPITULO III. ABANDONO DE INCAPAZ
+
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2004)</small>
+
+###### Artículo 254.
+
+Al que abandone a una persona incapaz de valerse por si misma teniendo la obligación de cuidarla, se le impondrán de seis meses a dos años de prisión y treinta a trescientos días multa, o trabajo a favor de la comunidad, perdiendo además los derechos inherentes a la patria potestad, custodia o tutela, si fuere ascendiente o tutor del ofendido, así como del derecho a heredar si estuviere en aptitud legal para ello.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+No incurre en este delito la mujer que haya solicitado mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento, conforme a lo establecido en la ley que regula la materia.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+No incurre en este delito la mujer que dé en adopción, en los términos de las leyes y tratados en la materia, y haya solicitado mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento.
+
+### CAPITULO IV. OMISION DE AUXILIO A LESIONADOS
+
+###### Artículo 255.
+
+Al conductor de un vehículo cualquiera o jinete que deje en estado de abandono, sin prestarle ni facilitarle asistencia a la persona a quien lesionó sin dolo, o dejare de avisar inmediatamente a la autoridad, se le impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa.
+
+### CAPITULO V. OMISION DE AUXILIO
+
+###### Artículo 256.
+
+Al que omita auxiliar a una persona que por cualquier circunstancia, estuviese amenazada de un peligro, cuando pudiera hacerlo sin riesgo alguno, o al que no estando en condiciones de llevarlo a cabo, no diere inmediato aviso a la autoridad, se le impondrán de tres a seis meses de prisión y de treinta a sesenta días multa.
+
+### CAPITULO VI. DISPOSICIONES GENERALES
+
+###### Artículo 257.
+
+Si de las omisiones a que se refieren los tres artículos anteriores, resultare la muerte, se impondrán de dos a ocho años de prisión y de cincuenta a trescientos cincuenta días multa. Si resultaren lesiones se impondrán hasta las dos terceras partes de la pena que correspondería a éstas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE MARZO DE 2011)</small>
+
+SUBTITULO TERCERO
+
+DELITOS CONTRA LA LIBERTAD, SEGURIDAD Y TRANQUILIDAD DE LAS PERSONAS
+
+### CAPITULO I. PRIVACION DE LIBERTAD
+
+###### Artículo 258.
+
+Comete el delito de privación de libertad, el particular que:
+
+I. Prive a una persona de su libertad;
+
+II. Por cualquier medio obligue a una persona a prestarle trabajos y servicios personales sin la debida retribución, o celebre un contrato que ponga en condiciones de servidumbre a otro, o afecte su libertad de cualquier modo; y
+
+III. Por medio de la violencia o la coacción impida a una persona ejecutar un acto lícito o la obligue a ejecutar lo que no quiere, sea lícito o ilícito.
+
+A quien incurra en este delito se le impondrán de uno a cuatro años de prisión y de treinta a cien días multa.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE FEBRERO DE 2017)</small>
+
+### CAPÍTULO II. SECUESTRO
+
+###### Artículo 259.
+
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
+
+###### Artículo 260.
+
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
+
+###### Artículo 261.
+
+(DEROGADO, G.G. 3 DE FEBRERO DE 2017)
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE OCTUBRE DE 2010)</small>
+
+### CAPITULO III. PRIVACIÓN DE LA LIBERTAD DE MENORES DE EDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 262.
+
+A quien siendo un extraño a su familia se apodere de un menor de dieciocho años de edad, se le impondrán de diez a cuarenta años de prisión y de quinientos a mil días multa.
+
+Cuando el delito lo cometa un familiar, que no sea el padre o la madre, y obre con mala fe y no por móviles afectivos, se le impondrán de dos a seis años de prisión y de treinta a ciento veinticinco días multa.
+
+Si el menor es restituido espontáneamente a su familia o a la autoridad dentro de tres días y sin causar daño, se le impondrán de tres meses a cuatro años de prisión y de treinta a cien días multa. Si se causare daño, se impondrán de seis meses a seis años de prisión y de treinta a ciento cincuenta días multa.
+
+### CAPITULO IV. SUSTRACCION DE HIJO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 263.
+
+Al padre o la madre que se apodere de su hijo menor de edad o familiares que participen en el apoderamiento, respecto del cual no ejerza la patria potestad o la custodia, privando de este derecho a quien legítimamente lo tenga, o a quién aún sin saber la determinación de un Juez sobre el ejercicio la patria potestad o la custodia, impida al otro progenitor ver y convivir con el menor, se le impondrán de uno a cinco años de prisión y de cuarenta a ciento veinticinco días multa.
+
+Este delito se perseguirá por querella.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 9 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO V. USURPACION DE IDENTIDAD
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 264.
+
+Se le impondrán de uno a cuatro años de prisión y de cien a quinientos días multa, a quien ejerza con fines ilícitos un derecho o use cualquier tipo de datos, informaciones o documentos que legítimamente pertenezcan a otro, que lo individualiza ante la sociedad y que le permite a una persona física o jurídica colectiva ser identificada o identificable para hacerse pasar por él.
+
+Se equiparan a la usurpación de identidad y se impondrán las mismas penas previstas en el párrafo que precede prevista en el presente artículo a quienes:
+
+I. Cometan un hecho ilícito previsto en las disposiciones legales con motivo de la usurpación de la identidad;
+
+II. Utilicen datos personales, sin consentimiento de quien deba otorgarlo;
+
+III. Otorguen el consentimiento para llevar a cabo la usurpación de su identidad; y
+
+IV. Se valgan de la homonimia para cometer algún ilícito.
+
+Las sanciones previstas en este artículo se impondrán con independencia de las que correspondan por la comisión de otro u otros delitos.
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2010)</small>
+
+###### Artículo 265.
+
+Las penas señaladas en el artículo anterior se incrementarán hasta en una mitad, cuando el ilícito sea cometido por un servidor público aprovechándose de sus funciones, o por quien sin serlo, se valga de su profesión o empleo para ello.
+
+### CAPITULO VI. EXTORSION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
+
+###### Artículo 266.
+
+Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, con la finalidad de obtener un lucro o beneficio para sí o para otro o causar un daño, se le impondrán de ocho a doce años de prisión y de mil a mil quinientos días multa.
+
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
+
+Cuando este delito se cometa utilizando cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe a través de hilos, medios de transmisión inalámbrica de ondas o señales electromagnéticas, medios ópticos, o cualquier medio físico, se le impondrán de doce a quince años de prisión y de mil quinientos a dos mil días multa.
+
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
+Se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa, cuando concurra cualquiera de las siguientes circunstancias:
+
+I. Se ostente como miembro de alguna asociación o grupo delictuoso;
+
+II. Intervengan dos o más personas armadas, o con objetos peligrosos para su comisión;
+
+III. Se cometa con violencia;
+
+IV. El sujeto pasivo del delito sea menor de edad, mujer, persona con discapacidad o persona mayor de sesenta años;
+
+V. El sujeto activo del delito sea o haya sido, miembro de una institución de seguridad pública o privada, militar, organismos auxiliares de la función de seguridad pública, servidor público, o se ostente como tal; así mismo cuando porte vestimentas o instrumentos de identificación, utilizados por integrantes de instituciones de seguridad pública;
+
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
+
+VI. Para su comisión, el sujeto activo se aproveche de tener alguna relación de confianza, laboral, de parentesco o de negocios con la víctima o con sus familiares;
+
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
+
+VII. Con motivo de la amenaza de muerte al pasivo o un tercero, intimidación y/o violencia cometidas por el activo del delito, entreguen o dejen a disposición del sujeto activo o de un tercero, ya sea la víctima o un tercero, alguna cantidad de dinero o cosas, o bien otorguen beneficios tales como contratos, empleos, cargos o comisiones, para evitar cualquier daño, en su persona, familia o bienes, lo anterior aun cuando se cumpla en apariencia los procedimientos para tal efecto;
+
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
+
+VIII. Se cometa en contra de un servidor público en funciones, electo o de un candidato a puesto de elección popular; o
+
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
+
+IX. El sujeto activo del delito manifieste su pretensión de continuar obteniendo alguna cantidad de dinero o en especie por concepto de cobro de cuotas o prestaciones de cualquier índole, adicionales a los exigidos originalmente por el ilícito.
+
+> <small>(ADICIONADO, G.G. 16 DE JUNIO DE 2016)</small>
+
+Si el beneficio a obtener u obtenido por el sujeto activo o un tercero proviene del erario público, la pena se incrementará desde un tercio hasta una mitad más de la señalada en el párrafo anterior.
+
+### CAPITULO VII. ASALTO
+
+###### Artículo 267.
+
+Al que en lugar solitario o despoblado haga uso de la violencia sobre una persona o grupo de personas con el propósito de causarles un mal, lograr un beneficio o su asentimiento para cualquier fin, se le impondrán de tres a diez años de prisión y de cincuenta a ciento setenta y cinco días multa, independientemente de los grados o medios de violencia empleados.
+
+Si el asalto lo realizan dos o más personas, se impondrán de cinco a doce años de prisión y de setenta y cinco a doscientos días multa.
+
+Si los asaltantes atacaren una población, se les impondrán de veinte a treinta y cinco años de prisión a los jefes y de quince a treinta años a los demás participantes.
+
+### CAPITULO VIII. ALLANAMIENTO DE MORADA
+
+###### Artículo 268.
+
+Al que sin causa justificada, sin mandamiento de autoridad competente, o sin el consentimiento de la persona que lo deba otorgar se introduzca en casa habitación ajena, se le impondrán de seis meses a cinco años de prisión y de treinta a cincuenta días multa.
+
+Este delito sólo se perseguirá por querella.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+### CAPITULO IX. TRATA DE PERSONAS
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+Artículo 268 BIS.- Comete el delito de trata de personas quien para sí o para un tercero induzca, procure, promueva, capte, reclute, facilite, traslade, consiga, solicite, ofrezca, mantenga, entregue o reciba a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder, al aprovechamiento de una situación de vulnerabilidad o a la entrega de pagos o beneficios para someterla a cualquier forma de explotación o para extraer sus órganos, tejidos o sus componentes.
+
+Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de explotación sexual, los trabajos o servicios forzados, la esclavitud, la servidumbre o la mendicidad ajena.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Se aplicarán las mismas penas a que se refiere el artículo 268 bis-1, a quien solicite o contrate la publicación o anuncio en medios de comunicación impresos o electrónicos, que ofrezcan servicios que tengan por objeto alguna de las formas de explotación a que se refiere este artículo.
+
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2012)</small>
+
+Igualmente se aplicarán, a quien teniendo facultades para autorizar la publicación de anuncios en medios de comunicación impresos o electrónicos, realice o contrate o permita la contratación de anuncios que tengan por objeto cualquier forma de explotación que establece este artículo.
+
+Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios comisivos señalados en el primer párrafo del presente artículo.
+
+El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa excluyente del delito.
+
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
+
+Artículo 268 BIS 1.- A quien cometa el delito de trata de personas se le impondrá:
+
+I. De seis a doce años de prisión y de quinientos a mil quinientos días multa;
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+II. De nueve a dieciocho años de prisión y de quinientos a dos mil días multa, si el sujeto activo se valiese de la función pública que tuviere o hubiese ostentado sin tener. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro de doce a veinte años; y
+
+III. Las penas que resulten de las fracciones I y II de este artículo se incrementarán hasta una mitad;
+
+a) Si el delito es cometido en contra de una persona menor de dieciocho años de edad;
+
+b) Si el delito es cometido en contra de una persona mayor de sesenta años de edad;
+
+c) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho o de resistirlo;
+
+d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo; además, en los casos que proceda, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias, el derecho de alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 15 DE MARZO DE 2011)</small>
+
+### CAPITULO X. REQUERIMIENTO ILICITO DE PAGO
+
+> <small>(REFORMADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 268 Ter.
+
+A quien con la intención de requerir el pago de una deuda, se valga del engaño o lo pretenda, amenace, hostigue al deudor, o cometa actos de violencia en su contra, o de su aval, fiador, referencia, o a cualquier otra persona ligada con éstos, se le sancionará con una pena de seis meses a tres años de prisión y de ciento ochenta a trescientos sesenta días multa.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE ENERO DE 2012)</small>
+
+### CAPITULO XI. IRRUPCION DE EVENTO PUBLICO
+
+> <small>(ADICIONADO, G.G 6 DE ENERO DE 2012)</small>
+
+###### Artículo 268 Quater.
+
+Comete este delito quien sin derecho interrumpa de manera intempestiva o violenta un evento público, provocando la suspensión temporal o definitiva de éste, ya sea ingresando al lugar donde se desarrolla o provocando desorden entre la multitud que haya acudido a presenciarlo.
+
+Para los efectos de este artículo, se considerarán eventos públicos:
+
+a) El espectáculo deportivo, artístico o cultural;
+
+b) La congregación religiosa o de culto;
+
+c) El mitin político; y
+
+d) La ceremonia cívica.
+
+Al responsable se le impondrán de seis meses a dos años de prisión y de treinta a sesenta días multa.
+
+Este artículo sólo se aplicará cuando no causare daño, o los hechos no constituyan tentativa punible, en caso contrario, se impondrán las penas del delito consumado o en grado de tentativa que resultare.
+
+SUBTITULO CUARTO
+
+DELITOS CONTRA LA LIBERTAD SEXUAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE JULIO DE 2008)</small>
+
+### CAPITULO I. HOSTIGAMIENTO Y ACOSO SEXUAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 269.
+
+Comete el delito de hostigamiento sexual, quien con fines de lujuria asedie a persona de cualquier sexo que le sea subordinada, valiéndose de su posición derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique jerarquía; y se le impondrán de seis meses a dos años de prisión o de treinta a ciento veinte días multa.
+
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+Si el sujeto activo fuera servidor público y utilizare los medios o circunstancias que el cargo le proporciona, además de la pena señalada, será destituido del cargo y se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a tres años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
+
+Artículo 269 BIS.- Comete el delito de acoso sexual, quien con fines de lujuria asedie reiteradamente a persona de cualquier sexo, aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente, para la víctima.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+De igual forma incurre en acoso sexual quien, sin consentimiento del sujeto pasivo y con propósitos de lujuria o erótico sexual, grabe, reproduzca, fije, publique, ofrezca, almacene, exponga, envíe, transmita, importe o exporte de cualquier forma, imágenes, texto, sonidos o la voz, de una persona, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio.
+
+> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+
+Si la imagen obtenida, sin consentimiento, muestra al sujeto pasivo desnudo o semidesnudo, se acredita por ese sólo hecho, los propósitos señalados en el párrafo anterior.
+
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+Comete también el delito de acoso sexual quien con fines de lujuria asedie reiteradamente a cualquier persona, sin su consentimiento, en lugares públicos, en instalaciones o vehículos destinados al transporte público de pasajeros.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+En estos casos se impondrán penas de un año a cuatro años de prisión y de cien a trescientos días de multa. Si el pasivo del delito fuera menor de edad o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena se incrementará en un tercio.
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+Si el sujeto activo del delito es servidor público, además de las penas previstas se le inhabilitará para desempeñar empleos, cargos o comisiones en el servicio público de uno a tres años.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+### CAPITULO II. ABUSO SEXUAL
+
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 270.
+
+Comete el delito de abuso sexual:
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Quien ejecute en una persona un acto erótico o sexual sin su consentimiento y sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de dos a cuatro años de prisión y de doscientos a cuatrocientos días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Quien ejecute en una persona menor de edad o que no tenga la capacidad de comprender las cosas o de resistir al hecho, un acto erótico o sexual sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de ocho a quince años de prisión y de quinientos a mil días multa.
+
+### CAPITULO III. ESTUPRO
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 271.
+
+Comete delito de estupro quien tenga cópula con una persona mayor de quince años y menor de dieciocho obteniendo su consentimiento por medio de cualquier tipo de seducción. A quien cometa este delito se le impondrán de uno a cinco años de prisión.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 272.
+
+No se procederá contra el inculpado del estupro, si no es por querella de la parte ofendida, de sus padres o, a falta de éstos, de sus representantes legítimos.
+
+### CAPITULO IV. VIOLACION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE AGOSTO DE 2013)</small>
+
+###### Artículo 273.
+
+Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, se le impondrán de diez a veinte años de prisión, y de doscientos a dos mil días multa.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Comete también el delito de violación y se sancionará como tal, el que introduzca por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Se equipara a la violación la cópula o introducción por vía vaginal o anal cualquier parte del cuerpo, objeto o instrumento diferente al miembro viril, con persona privada de razón, de sentido o cuando por cualquier enfermedad o cualquier otra causa no pudiere resistir o cuando la víctima fuera menor de quince años. En estos casos, se aplicará la pena establecida en el párrafo primero de este artículo.
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+Cuando el ofendido sea menor de quince años y mayor de trece, haya dado su consentimiento para la cópula y no concurra modificativa, exista una relación afectiva con el inculpado y la diferencia de edad no sea mayor a cinco años entre ellos, se extinguirá la acción penal o la pena en su caso.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+Para los efectos de este artículo, se entiende por cópula la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo, exista eyaculación o no.
+
+Artículo 273 BIS.- (DEROGADO, G.G. 29 DE AGOSTO DE 2007)
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+
+###### Artículo 274.
+
+Son circunstancias que modifican el delito de violación:
+
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+I. Cuando en la comisión del delito de violación participen dos o más personas se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de seiscientos a cuatro mil días multa;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+II. Si el delito fuere cometido por uno de los cónyuges, por un ascendiente contra su descendiente, por éste contra aquél, por un hermano contra otro, por el tutor en contra de su pupilo o por el padrastro, madrastra, concubina, concubinario, amasio o amasia en contra del hijastro o hijastra, además de las sanciones previstas en el artículo 273 se impondrán de tres a nueve años de prisión y de treinta a setenta y cinco días multa, así como la pérdida de la patria potestad o la tutela en aquellos casos en que la ejerciere sobre la víctima;
+
+> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+
+III. Cuando el delito de violación sea cometido por quien desempeña un empleo, cargo o comisión públicos o ejerza una profesión utilizando los vehículos oficiales, circunstancias o cualquier medio que éstos le proporcionen, además de las sanciones previstas en el artículo 273, se aumentará la pena hasta en una mitad, también será destituido del cargo o empleo o suspendido hasta por el término de diez años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor;
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2011)</small>
+
+IV. Cuando por razón del delito de violación se causare la muerte, se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
+
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+V. Cuando el ofendido sea menor de quince años o mayor de sesenta, se le impondrá de quince a treinta años de prisión y de trescientos a dos mil quinientos días multa. Sin perjuicio, en su caso, de la agravante contenida en la fracción II de este artículo; y
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+VI. Cuando el ofendido tenga alguna discapacidad, que limite las actividades de su vida diaria e impida su desarrollo individual y social, se impondrán de quince a treinta años de prisión y de trescientos a dos mil quinientos días multa.
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VII. Cuando se cometa en un vehículo de transporte público de pasajeros, de personal o escolar, vehículo oficial u otro que sin contar con la autorización oficial preste un servicio equivalente, se aumentará la pena que corresponda hasta en una mitad.
+
+> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+VIII. Cuando el delito sea cometido por quienes tengan o hayan tenido relación con la víctima por motivos laborales, docentes, médicos, domésticos, religiosos o cualquier otro que implique confianza o subordinación, se aumentará la pena que corresponda hasta en un tercio.
+
+> <small>[N. DE E. EL DECRETO NÚMERO 69, EXPEDIDO POR LA QUINCUAGÉSIMA NOVENA LEGISLATURA, PUBLICADO EN EL G.G. DE 14 DE MARZO DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE SUBTÍTULO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
+
+SUBTITULO QUINTO
+
+DELITOS DE VIOLENCIA DE GÉNERO
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
+
+### CAPITULO I. VIOLENCIA INSTITUCIONAL
+
+> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 275.
+
+A quien en el ejercicio de la función pública dilate, obstaculice, niegue la debida atención o impida el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso a programas, acciones, recursos públicos y al disfrute de políticas públicas, se le impondrán de seis meses a dos años de prisión y de cincuenta a trescientos días multa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
+
+### CAPITULO II. VIOLENCIA OBSTÉTRICA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 276.
+
+La violencia obstétrica se configura por parte del personal médico, paramédico, de enfermería y administrativo de las instituciones de salud públicas o privadas, cuando se dañe o denigre a la mujer durante el embarazo, el parto, puerperio o en emergencias obstétricas, vulnerando sus derechos por medio de tratos crueles, inhumanos o degradantes.
+
+Comete este delito el personal de salud que:
+
+I. No atienda o no brinde atención oportuna y eficaz a las mujeres en el embarazo, parto, puerperio o en emergencias obstétricas.
+
+II. Altere el proceso natural del parto de bajo riesgo, a través del uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer.
+
+III. No obstante existir condiciones para el parto natural, practique el parto por vía de cesárea, sin obtener el consentimiento voluntario, expreso e informado de la mujer.
+
+IV. Acose o presione psicológica u ofensivamente a una parturienta, con el fin de inhibir la libre decisión de su maternidad.
+
+V. Sin causa médica justificada, obstaculice el apego del niño o la niña con su madre, a través de la negación a ésta de la posibilidad de cargarle o de amamantarle inmediatamente después de nacer.
+
+VI. Aun cuando existan los medios necesarios para la realización del parto vertical, obligue a la mujer a parir acostada sobre su columna y con las piernas levantadas o en forma distinta a la que sea propia de sus usos, costumbres y tradiciones obstétricas.
+
+A quien ejecute las conductas señaladas en las fracciones I, II, III y VI, se le impondrán de tres a seis años de prisión y de cincuenta a trescientos días multa, quien incurra en los supuestos descritos en las fracciones IV y V será sancionado con prisión de seis meses a tres años y de cincuenta a doscientos días multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 277.
+
+Cuando por motivo del supuesto establecido en la fracción I del artículo anterior se cause la muerte del producto de la concepción, con independencia de las penas que se señalan, además se aplicarán las establecidas para el delito de homicidio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 278.
+
+Comete el delito de esterilidad provocada quien, sin el consentimiento de la mujer, practique en ella procedimientos quirúrgicos, químicos o de cualquier otra índole para hacerla estéril.
+
+Al responsable de esterilidad provocada se le impondrán de cuatro a siete años de prisión y de cincuenta a setenta días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados, que incluirán los gastos de hospitalización, los del procedimiento quirúrgico correspondiente para revertir la esterilidad y tratamiento médico.
+
+Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un plazo igual al de la pena de prisión impuesta hasta la inhabilitación definitiva, siempre que en virtud de su ejercicio haya resultado un daño para la mujer.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
+
+### CAPITULO III. VIOLENCIA LABORAL
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 279.
+
+A quien obstaculice o condicione el acceso de una mujer a un empleo, por el establecimiento de requisitos referidos a su sexo, edad, apariencia física, estado civil, condición de madre, se le impondrán de seis meses a dos años de prisión y de cincuenta a trescientos días multa.
+
+La misma pena se le impondrá, a quien:
+
+I. Exija la presentación de certificados médicos de no embarazo para el ingreso, permanencia o ascenso en el empleo.
+
+II. Despida o coaccione, directa o indirectamente, para que renuncie, a una mujer por estar embarazada, por cambio de estado civil o por tener el cuidado de hijos menores.
+
+III. Impida a una mujer disfrutar la incapacidad por maternidad o enfermedad.
+
+IV. Autorice que una mujer durante el período del embarazo realice trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso.
+
+V. Imponga labores insalubres o peligrosas y trabajos nocturnos injustificados a las mujeres.
+
+VI. Impida a una mujer ejercer su periodo de lactancia o a quien no le otorgue la licencia respectiva.
+
+VII. Permita o tolere actos de hostigamiento y/o acoso sexual en contra de alguna mujer en el centro de trabajo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 14 DE MARZO DE 2016)</small>
+
+### CAPITULO IV. VIOLENCIA POR PARENTESCO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 280.
+
+A quien en contra de una mujer por razón de parentesco realice las conductas siguientes:
+
+I. Ejerza una selección nutricional o diferencia alimentaria en perjuicio de su salud.
+
+II. Prohíba injustificadamente iniciar o continuar actividades escolares o laborales lícitas.
+
+III. Asigne trabajo doméstico que la subordine en favor de los integrantes del sexo masculino de la familia.
+
+IV. Imponga profesión u oficio.
+
+V. Obligue a establecer relación de noviazgo, concubinato o matrimonio con persona ajena a su voluntad.
+
+VI. Limite, prohíba o condicione el acceso y uso de métodos de salud sexual y reproductiva. Lo anterior sin perjuicio del derecho a la educación, de los padres, de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+
+VII. Controle el ingreso de sus percepciones económicas.
+
+Se impondrán de seis meses a dos años de prisión y de cincuenta a doscientos días multa.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPITULO IV BIS. VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 280 Bis.
+
+A quien por cualquier medio impida u obstaculice a una mujer el acceso a los cargos de elección popular su debido desempeño o la induzca a la toma de decisiones en contra de su voluntad, se le impondrá de seis meses a dos años de prisión y de cincuenta a trescientos días multa.
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+### CAPITULO V. FEMINICIDIO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 281.
+
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+
+I. La víctima presente signos de violencia sexual de cualquier tipo.
+
+II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia.
+
+III. Existan antecedentes, datos o medios de prueba de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima.
+
+IV. Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza.
+
+V. Existan datos o medios de prueba que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima.
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
+
+VII. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+
+VIII. Como resultado de violencia de género, pudiendo ser el sujeto activo persona conocida o desconocida y sin ningún tipo de relación.
+
+En los casos a que se refiere este artículo, la penalidad será de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa.
+
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+La pena se agravará hasta en un tercio cuando la víctima sea mujer menor de edad, embarazada o discapacitada, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
+
+En caso que no se acredite que existieron razones de género al privar de la vida a una mujer, al momento de resolver, para la imposición de las sanciones penales correspondientes, el juez aplicará las disposiciones señaladas en los artículos 242, fracción II y 245 fracción V, inciso d) de este ordenamiento.
+
+Se entenderá como homicidio doloso, la privación de la vida de una mujer por razones de género, para los efectos de:
+
+1) La imposición de la prisión preventiva oficiosa.
+
+2) La remisión parcial de la pena, tratamiento preliberacional, libertad condicionada al sistema de localización y rastreo y libertad condicional.
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+### CAPITULO VI. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 282.
+
+Cuando en los delitos de este Subtítulo se ejerza violencia, se sancionarán además de las penas señaladas para cada caso con las siguientes:
+
+I. Cuando se cometa con violencia física o psicológica se impondrá de uno a cuatro años de prisión y de cien a cuatrocientos días multa.
+
+La violencia física consistirá en la utilización de la fuerza física o de algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas.
+
+Por violencia psicológica se entenderá a cualquier acto u omisión que dañe la estabilidad emocional o mental que conduzca a la mujer a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
+
+II. Cuando se cometa con violencia sexual se impondrá de dos a ocho años de prisión y de doscientos a quinientos días multa.
+
+Por violencia sexual se entiende a cualquier acto que degrade o dañe el cuerpo y/o la sexualidad de la víctima y por tanto atente contra su libertad, dignidad e integridad física.
+
+III. Cuando se cometa con violencia patrimonial se impondrá de uno a tres años de prisión y de cincuenta a doscientos cincuenta días multa.
+
+La violencia patrimonial consistirá en transformar, sustraer, destruir, retener documentos personales, bienes y valores, derechos patrimoniales o recursos económicos y pueden abarcar los daños a los bienes comunes o propios de la mujer.
+
+IV. Cuando se ejerzan actos individuales o colectivos que trasgredan los derechos fundamentales de las mujeres y las niñas propiciando su degradación, discriminación, marginación o exclusión en el ámbito público, se le impondrán de seis meses a dos años de prisión y de cincuenta a trescientos días multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 283.
+
+Tratándose de los delitos señalados en los artículos 262, 263, 270 y 307 Bis además de las penas señaladas para cada caso se entenderá lo señalado en el artículo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 284.
+
+Si el sujeto activo del delito fuere servidor público las penas señaladas para cada caso se incrementarán hasta en una mitad, además se le impondrá destitución e inhabilitación por un plazo igual al de la pena de prisión impuesta, para ejercer empleo, cargo o comisión públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 285.
+
+Al servidor público que no proceda bajo los protocolos de actuación establecidos para estos delitos se le impondrán de dos a seis años de prisión y de doscientos a quinientos días multa, además se le impondrá destitución e inhabilitación por un plazo igual al de la pena de prisión impuesta, para ejercer empleo, cargo o comisión públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 286.
+
+Los delitos señalados en el presente Subtítulo serán perseguibles de oficio, e incluirán la reparación del daño en los términos a que se refiere el presente Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 286 Bis.
+
+Para efectos de lo dispuesto en el presente Subtítulo se entenderá por:
+
+I. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres, se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres, contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
+
+II. Violencia de Género: Al conjunto de amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y las niñas y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres y las niñas involucra tanto a las personas como a la sociedad en sus distintas formas y organizaciones, comunidades, relaciones, prácticas e instituciones sociales y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género y al no dar garantías de seguridad a las mujeres. La violencia de género se ejerce tanto en el ámbito privado como en el ámbito público manifestándose en diversos tipos y modalidades como la familiar, en la comunidad, institucional, laboral, docente y feminicida de manera enunciativa y no limitativa.
+
+## TITULO CUARTO. DELITOS CONTRA EL PATRIMONIO
+
+### CAPITULO I. ROBO
+
+###### Artículo 287.
+
+Comete el delito de robo, el que se apodera de un bien ajeno mueble, sin derecho y sin consentimiento de la persona que pueda disponer de él, conforme a la ley.
+
+El robo estará consumado desde el momento en que el ladrón tiene en su poder el bien, aun cuando después lo abandone o lo desapoderen de él.
+
+Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco del objeto de apoderamiento.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+
+El delito de robo podrá acreditarse cuando se detenga al sujeto en posesión de la cosa ajena mueble desapoderada sin consentimiento y sin derecho de quien legítimamente pueda disponer de él, y el imputado no acredite la adquisición lícita del mismo.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Para efectos de este capítulo, se entiende por Unidad de Medida y Actualización, a la unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos vigente al momento de cometerse el delito.
+
+###### Artículo 288.
+
+También comete el delito de robo el que:
+
+I. Se apodere o disponga de un bien mueble propio, que se encuentre en poder de otra por cualquier título legítimo o por disposición de la autoridad;
+
+II. Aproveche la energía eléctrica o cualquier otro fluido, sin derecho y sin el consentimiento de la persona que legalmente pueda disponer de ellos; y
+
+III. Se encuentre un bien perdido y no lo devuelva a su dueño, sabiendo quién es.
+
+###### Artículo 289.
+
+El delito de robo se sancionará en los siguientes términos:
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Cuando el valor de lo robado no exceda de treinta veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis meses a dos años de prisión y de cincuenta a cien días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Cuando el valor de lo robado exceda de treinta pero no de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de uno a tres años de prisión y de cien a ciento cincuenta días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Cuando el valor de lo robado exceda de noventa pero no de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de dos a cuatro años de prisión y de ciento cincuenta a doscientos días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Cuando el valor de lo robado exceda de cuatrocientas pero no de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de cuatro a ocho años de prisión y de doscientos a doscientos cincuenta días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Cuando el valor de lo robado exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis a doce años de prisión y de doscientos cincuenta a trescientos días multa.
+
+VI. Si por alguna circunstancia la cuantía del robo no fuere estimable en dinero o si por su naturaleza no se hubiere fijado su valor, se impondrán de uno a cinco años de prisión y de cincuenta a ciento veinticinco días multa.
+
+###### Artículo 290.
+
+Son circunstancias que agravan la penalidad en el delito de robo y se sancionarán además de las penas señaladas en el artículo anterior con las siguientes:
+
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
+
+I. Cuando se cometa con violencia sobre persona o personas se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de lo robado sin exceder mil quinientos días multa.
+
+Cuando se cometa violencia sobre un bien o bienes se impondrá de dos a cuatro años de prisión y de uno a tres veces el valor de lo robado sin exceder mil quinientos días multa.
+
+Para efectos de este artículo se entenderá por violencia:
+
+a) Física: utilización de la fuerza material por el sujeto activo sobre el sujeto pasivo de la conducta;
+
+b) Moral: utilización de amagos, amenazas o cualquier tipo de intimidación que el sujeto activo realice sobre el sujeto pasivo o personas vinculadas a éste, para causarle en su persona o en la de las personas vinculadas a éste o en sus bienes, males o se realice en desventaja numérica sobre el sujeto pasivo o haciendo uso de armas de juguete, utilería o réplicas, aun cuando no sean aptas para causar un daño físico; y
+
+c) Sobre los bienes: cuando para perpetrar el delito se rompa una o varias paredes, techos o pisos, se horade o excave interiores o exteriores, se fracturen puertas, ventanas, cerraduras, aldabas o cierres, se use llave falsa, o la verdadera que haya sido sustraída o hallada, ganzúa u otro instrumento análogo.
+
+Igualmente, se considera violencia la que utiliza el sujeto activo sobre persona o personas distintas del sujeto pasivo o sobre sus bienes, con el propósito de consumar el delito o lo que se realice después de ejecutado este, para propiciarse la fuga o quedarse con lo robado.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Esta conducta se considerará como delito grave, cuando el monto de lo robado exceda de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente o que se causen lesiones de las previstas en los artículos 237, fracciones II y III y 238, fracciones III, IV y V de este Código.
+
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
+
+II. Cuando se cometa en el interior de casa habitación, se impondrán de doce a dieciséis años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil quinientos días multa.
+
+Si en su ejecución participan dos o más personas la pena se incrementará de dos a cinco años de prisión.
+
+Se comprende dentro de la denominación de casa habitación, el aposento, cualquier dependencia de ella y las movibles cualquiera que sea el material con el que estén construidas;
+
+> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
+
+III. Cuando se cometa en el interior de casa habitación y se utilice en su ejecución:
+
+A) Violencia sobre los bienes, se impondrán de 15 a 22 años de prisión y multa de uno a tres veces el valor de lo robado sin que exceda de dos mil días de multa, o,
+
+B) Violencia sobre las personas, se impondrán de 20 a 30 años de prisión y multa de uno a tres veces el valor de lo robado sin que exceda de dos mil días de multa.
+
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+
+IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
+
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
+
+V. Cuando se cometa el robo de un vehículo automotor o de la mercancía transportada a bordo de aquel, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil quinientos días multa, sin perjuicio en su caso, de la agravante a que se refiere la fracción I de este artículo;
+
+VI. Cuando se cometa aprovechando la falta de vigilancia o la confusión ocasionado por un siniestro o un desorden de cualquier tipo, se impondrán de dos a siete años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
+
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+Si se comete por elementos pertenecientes a una corporación de auxilio, socorro u organismos similares o por miembros de alguna corporación policíaca, además de la pena anterior, se agregarán de dos a cuatro años de prisión y destitución del cargo e inhabilitación de cuatro a ocho años para desempeñar empleo, cargo o comisión públicos;
+
+VII. Cuando lo cometa un dependiente o un doméstico contra su patrón, algún miembro de su familia, huésped o invitado, en cualquier parte que lo cometa, se impondrán de tres meses a tres años de prisión.
+
+Se entiende por doméstico, aquél que sirva a otro y viva o no en la casa de éste, por un salario, estipendio o emolumento;
+
+VIII. Cuando un huésped o comensal o alguno de su familia o de los domésticos que lo acompañen, lo cometan en la casa donde reciban hospedaje, acogida o agasajo, se impondrán de tres meses a tres años de prisión;
+
+IX. Cuando lo cometa el anfitrión o alguno de sus familiares en la casa del primero, contra su huésped o domésticos o contra cualquier persona invitada o acompañantes de éste, se impondrán de tres meses a tres años de prisión;
+
+X. Cuando lo cometan los trabajadores encargados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, o en los bienes de los huéspedes o clientes, se impondrán de seis meses a tres años de prisión;
+
+XI. Cuando se cometa por los obreros, artesanos o discípulos, en la casa, taller o escuela en que habitualmente trabajen, estudien o en la habitación, oficina, bodega u otros sitios a los que tengan libre entrada por el carácter indicado, se impondrán de seis meses a tres años de prisión;
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+XII. Cuando el robo recaiga en expedientes o documentos de protocolo, oficina o archivos públicos o en documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, se impondrán de uno a cinco años de prisión. Si el delito lo comete el servidor público de la dependencia en que se encuentre el expediente o documento, se le impondrán además destitución e inhabilitación de dos a diez años para desempeñar otro empleo, cargo o comisión públicos;
+
+XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros.
+
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
+
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+
+XIV. Cuando el robo se cometa al interior de un vehículo automotor particular o recaiga sobre una o más de las partes que lo conforman o sobre objetos meramente ornamentales o de aquellos que transitoriamente se encuentran en su interior, se impondrán de seis meses a seis años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de quinientos días multa, sin perjuicio en su caso, del agravante a que se refiere la fracción I de este artículo.
+
+> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+XV. Salvo los casos previstos en las fracciones VI y XII de este artículo, si en las conductas descritas en las demás, participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad, se le destituirá e inhabilitará de dos a veinte años para desempeñar cualquier empleo, cargo o comisión públicos;
+
+> <small>(ADICIONADA, G.G. 12 DE OCTUBRE DE 2010)</small>
+
+XVI. Si en los actos mencionados en las fracciones anteriores, participa, en ejercicio de sus funciones o con motivo de ellas, algún servidor público, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación hasta por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADA, G.G. 3 DE NOVIEMBRE DE 2010)</small>
+
+XVII. Cuando se cometa a escuelas e inmuebles destinados a actividades educativas, se impondrán de tres a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
+
+> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
+
+XVIII. Cuando se cometa en medios de transporte público de pasajeros y se utilice en su ejecución violencia, se impondrán de ocho a once años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días.
+
+> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
+
+XIX. Cuando una vez retirado dinero en efectivo de una institución financiera o de sus equipos, el robo se cometa en contra de la persona que lo porta, custodie o transporte dentro del lugar de retiro o en el camino de este último a su destino inmediato, se impondrán de uno a tres años de prisión y de cien a trescientos días multa.
+
+Si en la ejecución de este delito se utiliza algún tipo de violencia, además de lo previsto en el párrafo anterior, se impondrá la pena prevista en la fracción I de este artículo.
+
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN XIX], G.G. 29 DE NOVIEMBRE DE 2017)</small>
+
+Al que siendo empleado de una institución financiera participe en la comisión de este delito, se le impondrá además de la pena por el robo y de la agravante señalada en el primer párrafo de la presente fracción, de tres a cinco años de prisión y de cien a trescientos días multa.
+
+###### Artículo 291.
+
+Al que se apodere de un bien ajeno mueble, sin consentimiento del dueño o legítimo poseedor, con carácter temporal y no para apropiárselo o venderlo y lo restituya espontáneamente antes de que la autoridad tome conocimiento, se le impondrán de seis meses a dos años de prisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MAYO DE 2012)</small>
+
+###### Artículo 292.
+
+Se equipara al delito de robo y se sancionará en los siguientes términos, al que:
+
+I. Desmantele uno o más vehículos robados, enajene o trafique conjunta o separadamente las partes que los conforman;
+
+II. Enajene o trafique de cualquier manera con uno o más vehículos robados;
+
+III. Detente, posea, custodie, altere o modifique de cualquier manera la documentación que acredite la propiedad o los medios de identificación originales de algún o algunos vehículos robados;
+
+IV. Traslade el o los vehículos robados a otra entidad federativa o al extranjero;
+
+V. Utilice el o los vehículos robados en la comisión de otro u otros delitos; y
+
+VI. Utilice el o los vehículos robados en la prestación de un servicio público o actividad oficial.
+
+> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
+
+En estos casos, se impondrán de ocho a veinte años de prisión y de uno a tres veces el valor del vehículo robado.
+
+> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más y se le inhabilitará de dos a veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
+
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
+
+Quienes compren o vendan un vehículo automotor, deberán obtener la constancia o certificación electrónica de que el vehículo no aparece en la base de datos de autos robados del Registro Público Vehicular al momento de la compra-venta.
+
+###### Artículo 293.
+
+No será punible el delito de robo:
+
+I. Cuando sin emplear la violencia, alguien se apodera por una sola vez de los objetos estrictamente indispensables para satisfacer sus necesidades personales o familiares del momento;
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Cuando el valor de lo robado no exceda de veinte veces el valor diario de la Unidad de Medida y Actualización vigente, se restituya el bien espontáneamente por el sujeto activo, se paguen los daños y perjuicios ocasionados, no se ejecute con alguna de las circunstancias a que se refieren las fracciones II a V del artículo 290 de este código y aún no tome conocimiento del delito la autoridad.
+
+III. Cuando se cometa por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa o por el adoptante contra el adoptado o viceversa; y
+
+IV. (DEROGADA, G.G. 20 DE AGOSTO DE 2013)
+
+###### Artículo 294.
+
+En todo caso de robo, el juez podrá suspender al inculpado, de un mes a seis años, en los derechos de patria potestad, tutela, curatela, perito, depositario o interventor judicial, síndico o interventor en concurso o quiebras o representante de ausentes, y en el ejercicio de cualquier profesión de las que exijan título.
+
+###### Artículo 295.
+
+El delito de robo es perseguible por querella del ofendido en los siguientes casos:
+
+> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
+
+I. El robo a que se refieren los artículos 288 fracciones I, II y III y 291, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V y VI del artículo 290;
+
+> <small>(REFORMADA, G.G. 3 DE MAYO DE 2013)</small>
+
+II. El robo a que se refieren los artículos 289 fracciones I, II, III y VI; 290 fracciones VII, VIII, IX, X y XI, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V, VI y XVIII de este último artículo y que el sujeto activo sea primodelincuente; circunstancias que deberán verificarse fehacientemente, con los elementos necesarios, entre otros, los antecedentes penales que obren en los archivos correspondientes, por el Ministerio Público Investigador o por la autoridad judicial, en su caso;
+
+> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
+
+III. Cuando se cometa por el suegro contra el yerno o nuera o viceversa, por el padrastro o madrastra contra su hijastro o hijastra o viceversa o por parientes consanguíneos hasta el cuarto grado;
+
+> <small>(ADICIONADA, G.G. 1 DE ABRIL DE 2004)</small>
+
+IV. Respecto a la persona que intervenga en el robo cometido por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa y por el adoptante contra el adoptado o viceversa y sea ajeno a ellos.
+
+### CAPITULO II. ABIGEATO
+
+###### Artículo 296.
+
+Comete el delito de abigeato quien se apodere de una o más cabezas de ganado ajeno, sin consentimiento de quien legalmente pueda disponer de ellas.
+
+###### Artículo 297.
+
+Cuando se trate de ganado vacuno, equino, mular o asnal, se sancionará conforme a las siguientes reglas:
+
+I. De una a tres cabezas, con prisión de dos a cinco años y de cincuenta a ciento veinticinco días multa;
+
+II. De cuatro a diez cabezas, con prisión de tres a ocho años y de setenta y cinco a doscientos días multa; y
+
+III. Más de diez cabezas, con prisión de cuatro a doce años y de cien a trescientos días multa.
+
+###### Artículo 298.
+
+Cuando se trate de ganado porcino, ovino o caprino, se sancionará conforme a las siguientes reglas:
+
+I. De una a diez cabezas, con prisión de uno a tres años y de treinta a setenta y cinco días multa; y
+
+II. Más de diez cabezas, con prisión de dos a cinco años y de cincuenta a ciento veinticinco días multa.
+
+En el caso de este artículo y el que le antecede, si el delito es cometido por dos o más personas, las penas se incrementarán en una mitad.
+
+###### Artículo 299.
+
+Se equiparan al delito de abigeato las siguientes conductas:
+
+I. Cambiar, vender, comprar, comerciar, transportar u ocultar de cualquier forma animales, carne en canal o pieles, a sabiendas de que son producto de abigeato;
+
+II. Alterar, eliminar las marcas de animales vivos o pieles, contramarcar o contraseñar sin derecho para ello;
+
+III. Marcar o señalar animales ajenos, aunque sea en campo propio; y
+
+IV. Expedir certificados falsos para obtener guías simulando ventas o hacer conducir animales que no sean de su propiedad, sin estar debidamente autorizado para ello o hacer uso de certificados o guías falsificados, para cualquier negociación sobre ganado o pieles.
+
+> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+V. Extraer sin consentimiento de quien legalmente pueda realizarlo, los dispositivos electrónicos de identificación del ganado, así como duplicar, alterar o modificar los componentes de dichos dispositivos.
+
+Al que cometa cualquiera de las conductas señaladas en las fracciones anteriores se le impondrán de uno a ocho años de prisión y de treinta a doscientos días multa.
+
+###### Artículo 300.
+
+No será punible el delito de abigeato cuando sea cometido por un ascendiente en contra de su descendiente, o por éste contra aquél, por un cónyuge contra el otro, por el concubinario contra la concubina o por ésta contra aquél o por el adoptante contra el adoptado o por éste contra aquél.
+
+###### Artículo 301.
+
+El delito de abigeato es perseguible por querella del ofendido, en los siguientes casos:
+
+I. Cuando se cometa por el suegro o suegra contra el yerno o nuera o por éstos contra aquéllos, por el padrastro o madrastra contra su hijastro o hijastra o por éstos contra aquéllos o por parientes consanguíneos hasta el cuarto grado; y
+
+II. Respecto a la persona que intervenga en el abigeato cometido por un ascendiente en contra de su descendiente o por éste contra aquél, por un cónyuge contra el otro, por el concubinario contra la concubina o por ésta contra aquél o por el adoptante contra el adoptado o por éste contra aquél y sea ajena a ellos.
+
+### CAPITULO III. ABUSO DE CONFIANZA
+
+###### Artículo 302.
+
+Comete el delito de abuso de confianza, el que con perjuicio de alguien disponga para sí o para otro de cualquier bien ajeno mueble, del que se le hubiese transmitido la tenencia y no el dominio.
+
+###### Artículo 303.
+
+Se equipara al delito de abuso de confianza:
+
+I. El que en perjuicio de otro disponga de bien mueble propio, que tenga en su poder y del cual no pueda disponer legalmente;
+
+II. El que se haga del importe del depósito que garantice la libertad caucional de un inculpado o parte de él cuando no le corresponda;
+
+III. La ilegítima posesión de bien retenido, si el tenedor o poseedor no lo devuelve a pesar de ser requerido formalmente por quien tenga derecho o no lo entregue a la autoridad para que ésta disponga del mismo conforme a la ley; y
+
+IV. Quien no siendo servidor público disponga o distraiga de los bienes públicos en su beneficio o de terceros.
+
+###### Artículo 304.
+
+El delito de abuso de confianza se sancionará en los siguientes términos:
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Cuando no exceda de treinta veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis meses a dos años de prisión o de treinta a sesenta días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Cuando exceda de treinta pero no de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de uno a tres años de prisión o de cuarenta a setenta y cinco días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Cuando exceda de noventa pero no de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de dos a cuatro años de prisión y de cincuenta a cien días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Cuando exceda de cuatrocientas pero no de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de cuatro a ocho años de prisión y de cien a doscientos días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Cuando exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa.
+
+VI. Si por alguna circunstancia la cuantía del abuso de confianza no pudiere ser determinada, se impondrán de uno a cinco años de prisión y de treinta a ciento veinticinco días multa.
+
+El delito de abuso de confianza sólo se perseguirá por querella de la parte ofendida.
+
+### CAPITULO IV. FRAUDE
+
+###### Artículo 305.
+
+Comete el delito de fraude el que engañando a otro o aprovechándose del error en que éste se halla, se haga ilícitamente de una cosa o alcance un lucro indebido para si o para otro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 306.
+
+Igualmente comete el delito de fraude:
+
+I. El que obtenga dinero, valores o cualesquiera otra cosa, ofreciendo encargarse de la defensa o gestión a favor de un inculpado, o de la dirección o patrocinio en un asunto civil, familiar, mercantil, laboral o administrativo si no efectúa aquélla o no realiza éste, sea porque no se haga cargo legalmente de la misma o porque renuncie o abandone el negocio o la causa sin motivo justificado;
+
+II. Al que por título oneroso, enajene algún bien ajeno con conocimiento de que no tiene derecho para disponer de él, o lo arriende, hipoteque, empeñe o grave de cualquier forma, si ha recibido el precio, la renta o alquiler, la cantidad en que la gravó, parte de ellos o un lucro equivalente;
+
+III. Al que disponga de un bien propio, como libre, con el conocimiento de que está gravado;
+
+IV. Al que obtenga de otro una cantidad de dinero o cualquier otro lucro, otorgándole o endosándole a nombre propio o de otro, un documento nominativo, a la orden o al portador contra una persona supuesta o que el otorgante sabe que no ha de pagarlo;
+
+V. El que se haga servir algún bien o admita un servicio en cualquier establecimiento comercial, y no pague su importe conforme a los precios usuales o autorizados para establecimientos de su clase;
+
+VI. El que compre un bien mueble ofreciendo pagar su precio de contado y después de recibirlo rehuse hacer el pago o devolverlo si el vendedor, mediante requerimiento, le exigiere lo primero dentro de quince días de haber recibido el bien el comprador;
+
+VII. El que hubiere vendido un bien mueble y recibido su precio, si no lo entrega dentro de los quince días del plazo convenido o no devuelve su importe en el mismo término en el caso de que se le exija esto último, o no entregue el bien en la cantidad o calidad convenidas;
+
+VIII. El que venda a dos o más personas un mismo bien, sea mueble o inmueble y reciba el precio de una u otra venta o ambas o parte de él, con perjuicio del primer o siguientes compradores;
+
+IX. El que valiéndose de la suma ignorancia, notoria inexperiencia, extrema miseria o necesidad de otro, obtiene de éste ventajas usurarias por medio de contratos, convenios o documentos mercantiles o civiles, en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado o tasas de interés bancario autorizados;
+
+X. El que para obtener un lucro indebido, ponga en circulación fichas, tarjetas u otros objetos de cualquier materia, como signos convencionales en sustitución de la moneda legal;
+
+XI. El que, por sorteos, rifas, loterías, promesa de venta o por cualquier otro medio, se quede en todo o en parte con las cantidades recibidas sin entregar la mercancía u objeto ofrecido;
+
+XII. El que realice o celebre un acto jurídico, convenio, contrato, acto o escrito judicial, simulados con perjuicio de otro, o para obtener un beneficio indebido;
+
+XIII. El fabricante, empresario, contratista o constructor de una obra o instalación, que emplee en la construcción de la misma materiales o realice construcción de inferior calidad o cantidad a la estipulada, si ha recibido el precio convenido, con perjuicio del contratante.
+
+XIV. El que para obtener un lucro indebido explote las preocupaciones, las supersticiones o la ignorancia de las personas, por medio de supuestas evocaciones de espíritus, adivinaciones o curaciones u otros procedimientos carentes de validez técnica o científica;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XV. El que altere por cualquier medio los medidores de algún fluido o las indicaciones registradas en esos aparatos para aprovecharse indebidamente de ellos en perjuicio del proveedor o consumidor;
+
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2010)</small>
+
+XVI. El que por cualquier razón tuviere a su cargo la administración o el cuidado de bienes ajenos y perjudique al titular de éstos, alterando las cuentas o condiciones de los contratos, simulando operaciones o gastos o exagerando los que hubiere hecho, ocultando o reteniendo valores o empleándolos indebidamente;
+
+XVII. (DEROGADA, G.G. 14 DE MARZO DE 2016)
+
+> <small>(ADICIONADA, G.G. 12 DE OCTUBRE DE 2010)</small>
+
+XVIII. El que venda o intercambie por algún otro bien, vales de papel o impresos o cualquier dispositivo en forma de tarjeta plástica que sean falsos, asociado a un sistema de pagos y prestaciones emitido por personas morales utilizados para canjear bienes y servicios;
+
+> <small>(ADICIONADA, G.G. 12 DE OCTUBRE DE 2010)</small>
+
+XIX. El que haga efectivos vales de papel o impresos o cualquier dispositivo en forma de tarjeta plástica que sean falsos, asociado a un sistema de pagos y prestaciones emitido por personas morales utilizados para canjear bienes y servicios; y
+
+> <small>(ADICIONADA, G.G. 12 DE OCTUBRE DE 2010)</small>
+
+XX. El que posea vales de papel o impresos o cualquier dispositivo en forma de tarjeta plástica que sean falsos, con fines de enajenarlos, distribuirlos, intercambiarlos o hacerlos efectivos.
+
+###### Artículo 307.
+
+El delito de fraude se sanciona con las penas siguientes:
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. De seis meses a dos años de prisión o de treinta a sesenta días multa, cuando el valor de lo defraudado no exceda de quince veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. De uno a cuatro años de prisión o de cuarenta a cien días multa, cuando el valor de lo defraudado exceda de quince, pero no de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. De dos a seis años de prisión y de cincuenta a ciento cincuenta días multa, cuando el valor de lo defraudado exceda de noventa pero no de seiscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. De cuatro a ocho años de prisión y de cien a doscientos días multa, cuando el valor de lo defraudado exceda de seiscientas pero no de tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. De seis a doce años de prisión y de ciento cincuenta a trescientos días multa cuando el valor de lo defraudado exceda de tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+VI. Si por alguna circunstancia la cuantía de lo defraudado no pudiere ser determinada, se impondrán de uno a cinco años de prisión y de treinta a ciento veinticinco días multa.
+
+Este delito se perseguirá por querella de la parte ofendida.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 14 DE MARZO DE 2016)</small>
+
+### CAPITULO IV BIS. FRAUDE FAMILIAR
+
+> <small>(ADICIONADO, G.G. 14 DE MARZO DE 2016)</small>
+
+###### Artículo 307 Bis.
+
+A la o el cónyuge o concubino, que sin causa justificada y en detrimento de la sociedad conyugal o del patrimonio común, generado durante el matrimonio o concubinato, oculte o transfiera por cualquier medio, o adquiera a nombre de terceros, los bienes de éstos, se le aplicará sanción de uno a cinco años de prisión, hasta trescientos días de multa y la reparación de daño.
+
+### CAPITULO V. DESPOJO
+
+###### Artículo 308.
+
+Comete el delito de despojo:
+
+I. El que de propia autoridad ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca
+
+II. El que de propia autoridad ocupe un inmueble de su propiedad, en los casos que la ley no le permita, por hallarse en poder de otras personas, o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y
+
+III. El que en términos de las fracciones anteriores distraiga sin derecho el curso de las aguas.
+
+Al responsable de este delito se le impondrán de uno a cinco años de prisión y de treinta a ciento veinticinco días multa.
+
+Cuando se trate de un predio que por decreto del ejecutivo del Estado haya sido declarado área natural protegida en sus diferentes modalidades de parques estatales, parques municipales, zonas sujetas a conservación ambiental y las demás que determinen las leyes, se impondrán de dos a siete años de prisión y de cincuenta a ciento setenta y cinco días multa.
+
+A los autores intelectuales, a quienes dirijan la invasión y a quienes instiguen a la ocupación del inmueble, cuando el despojo se realice por dos o más personas, se les impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa.
+
+Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, de quienes dirijan la invasión e instigadores, se considerará a todos éstos, inculpados de los delitos cometidos.
+
+### CAPITULO VI. DAÑO EN LOS BIENES
+
+###### Artículo 309.
+
+Comete este delito el que por cualquier medio dañe, destruya o deteriore un bien ajeno o propio en perjuicio de otro.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+El Ministerio Público se abstendrá de ejercer acción penal tratándose de daño en bienes muebles o inmuebles de propiedad privada, causado por accidentes ocasionados con motivo del tránsito de vehículos. En estos casos, la autoridad que conozca de los hechos remitirá el asunto a la instancia conciliadora establecida en la Ley Orgánica Municipal del Estado de México, siempre y cuando el conductor que ocasione el hecho de tránsito no se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+Si como resultado de un accidente de tránsito se ocasionan daños en bienes de la administración pública municipal o estatal, el Ministerio Público podrá aplicar los criterios de oportunidad en términos de lo dispuesto por el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+Las diligencias practicadas por la autoridad que conozca de los hechos en primer orden, serán turnadas a la autoridad que le corresponda, para que siga conociendo de los hechos.
+
+###### Artículo 310.
+
+A los responsables de este delito se les sancionará en los siguientes términos:
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Cuando no exceda de quince veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis meses a dos años de prisión o de treinta a sesenta días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Cuando exceda de quince pero no de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de uno a tres años de prisión o de cuarenta a ochenta días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Cuando exceda de noventa pero no de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de dos a cuatro años de prisión y de cincuenta a cien días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Cuando exceda de cuatrocientas pero no de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de cuatro a ocho años de prisión y de cien a doscientos días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Cuando exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa.
+
+VI. Si por alguna circunstancia la cuantía del daño en los bienes no pudiere ser determinada, se impondrán de uno a cinco años de prisión y de treinta a ciento veinticinco días multa.
+
+Este delito se perseguirá por querella de la parte ofendida, excepto en los casos señalados en el artículo siguiente.
+
+###### Artículo 311.
+
+Cuando el delito se cometa por medio de inundación, incendio o explosión, a las penas señaladas en el artículo anterior se agregarán:
+
+I. De uno a cinco años de prisión y de veinticinco a ciento veinticinco días multa, cuando se ocasione a bosques o cultivos de cualquier género;
+
+II. De dos a siete años de prisión y de cincuenta a ciento setenta y cinco días multa, cuando se ocasione a bienes de valor científico, artístico o cultural; y
+
+III. De tres a ocho años de prisión y de setenta y cinco a doscientos días multa, cuando se ocasione a bienes muebles o inmuebles, o documentos afectos a él, de manera que interrumpa el servicio público.
+
+### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
+
+###### Artículo 312.
+
+Al que altere linderos de poblados o cualquier clase de señales destinadas a fijar los límites de predios contiguos, se le impondrán de tres a seis meses de prisión y de treinta a sesenta días multa.
+
+###### Artículo 313.
+
+Al que altere por cualquier medio las señales o marcas que delimiten el crecimiento de los centros de población fijados en los planes de desarrollo urbano, se le impondrán de seis meses a dos años de prisión y de cuarenta a ochenta días multa.
+
+###### Artículo 314.
+
+Al que sin permiso y fuera de los casos en que la ley lo permita, se introduzca en un predio cercado, se le impondrán de tres a seis meses de prisión y de treinta a sesenta días multa.
+
+> <small>(ADICIONADO, G.G. 16 DE JUNIO DE 2016)</small>
+
+###### Artículo 314 Bis.
+
+Al que sin permiso y fuera de los casos en que la ley lo permita, invada con ánimo de dominio un inmueble destinado a casa habitación o al comercio que se encuentre en construcción o desocupado o consignado para su venta, se le impondrán de cuatro a diez años de prisión y de trescientos a mil días multa.
+
+A los autores intelectuales, a quienes dirijan la invasión, y a quienes instiguen a la ocupación del inmueble, cuando la invasión se realice por dos o más personas se les impondrá de seis a doce años de prisión y de trescientos a mil días multa.
+
+### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A REGIMEN EJIDAL O COMUNAL
+
+###### Artículo 315.
+
+A quienes compren, vendan o en cualquier forma transfieran o adquieran ilegalmente la tenencia de bienes sujetos a régimen ejidal o comunal, con propósito de lucro o para obtener un beneficio para sí o para otros, se les impondrán de dos a diez años de prisión y de cien a mil días multa.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+## TÍTULO QUINTO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 316.
+
+Se impondrá de cinco a quince años de prisión y de mil a cinco mil días multa al que, por sí o por interpósita persona, realice cualquiera de las siguientes conductas:
+
+I. Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera dentro del territorio estatal, de éste hacia las demás Entidades Federativas y Distrito Federal o a la inversa, recursos, derechos, valores o bienes de cualquier naturaleza que procedan o representen el producto de una actividad ilícita;
+
+II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos, valores o bienes de procedencia ilícita.
+
+En la realización de estas conductas el sujeto activo deberá tener conocimiento de que los recursos, derechos, valores o bienes, proceden o representan el producto de una actividad ilícita;
+
+III. Para efectos de lo dispuesto en este artículo, se entenderá que una persona tiene conocimiento de que los recursos, derechos, valores o bienes, proceden o representan el producto de una actividad ilícita cuando:
+
+A) No verifique las circunstancias del bien de la operación o de los sujetos involucrados y elementos objetivos acreditables en el caso concreto, pudiendo hacerlo;
+
+B) Se realicen actos u operaciones a nombre de un tercero, sin el consentimiento de éste o sin título jurídico que lo justifique, de manera que no se actualice la gestión de negocios en términos de la legislación civil aplicable.
+
+Cuando la Secretaría de Finanzas, en ejercicio de sus facultades de fiscalización, encuentre elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá ejercer respecto de los mismos las facultades de comprobación que le confieren las leyes, denunciar los hechos que probablemente puedan constituir dichos ilícitos, y atender sin demora las solicitudes de información que le realice el Ministerio Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 317.
+
+Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos, valores o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 318.
+
+Se impondrán de tres a diez años de prisión y de ochocientos a dos mil seiscientos días multa a quien haga uso de recursos, derechos, valores o bienes de procedencia ilícita para alentar alguna actividad que la Ley prevea como hecho ilícito a través de la realización de cualquiera de las conductas señaladas en las fracciones I y II del artículo 316, siempre que no se incurra en el delito de operaciones con recursos de procedencia ilícita.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 319.
+
+Se impondrá de tres a diez años de prisión y de ochocientos a dos mil seiscientos días multa, a quien ponga a nombre de terceros recursos, derechos, valores o bienes de procedencia ilícita para llevar a cabo la ocultación de éstos; aun cuando los terceros no tengan conocimiento de la procedencia ilícita de los recursos, derechos, valores o bienes.
+
+La misma sanción prevista en el párrafo anterior se impondrá a quien permita que se pongan bajo su nombre recursos, derechos, valores o bienes que procedan o representen el producto de una actividad ilícita.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 320.
+
+Se sancionará con prisión de tres a diez años y de mil a cinco mil días multa a quien auxilie, colabore o asesore profesional o técnicamente a otros para la realización de cualquiera de las conductas previstas en los artículos 316, 318 y 319 de este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 321.
+
+Las penas previstas en este Capítulo se aumentarán de la siguiente manera:
+
+Desde un tercio hasta en una mitad, cuando quien cometa el delito, tenga el carácter de consejero, administrador, funcionario, empleado, apoderado o prestador de servicios de cualquier persona sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos.
+
+Desde una mitad hasta el doble, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, o sea cometida por ex servidores públicos encargados de tales funciones, cuando dicha conducta ilícita sea cometida en los dos años posteriores a la terminación del servicio público desempeñado.
+
+En ambos casos, además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir del cumplimiento de dicha pena.
+
+Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en los artículos 316, 318, 319 y 320, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tienen capacidad para resistirlo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 322.
+
+Tratándose de la comisión culposa del delito previsto en el presente Capítulo se impondrá una pena de tres a doce años de prisión y de quinientos a tres mil días multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 28 DE NOVIEMBRE DE 2014)</small>
+
+###### Artículo 323.
+
+Cuando la persona que realiza los actos jurídicos descritos en este delito, revele a la autoridad competente la identidad de quien haya aportado los recursos o de quien se conduzca como dueño, la pena podrá ser reducida hasta en una tercera parte de la misma.
+
+###### Artículo 324.
+
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+
+###### Artículo 325.
+
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+
+###### Artículo 326.
+
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+
+###### Artículo 327.
+
+(DEROGADO, G.G. 28 DE JUNIO DE 2014)
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+## TITULO SEXTO. DELITOS POR HECHOS DE CORRUPCION
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 328.
+
+Para los efectos de este Título, es servidor público toda persona que desempeñe un empleo, cargo o comisión en alguno de los poderes del Estado, órganos constitucionales autónomos, en los municipios y organismos auxiliares, así como los titulares o quienes hagan sus veces en empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a éstas y en los fideicomisos públicos. Por lo que toca a los demás trabajadores del sector auxiliar, su calidad de servidores públicos estará determinada por los ordenamientos legales respectivos. Las disposiciones contenidas en el presente Título, son aplicables al Titular del Poder Ejecutivo Estatal, a los Diputados Locales, a los Jueces y Magistrados de los Tribunales de Justicia del Estado de México.
+
+Se impondrán las mismas sanciones previstas para el delito que se trate, a cualquier persona que participe en la comisión de alguno de los delitos previstos en este Título.
+
+Además, se impondrá a los responsables de su comisión, la pena de destitución e inhabilitación para desempeñar cualquier empleo, cargo o comisión en el servicio público, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado o Municipio por un plazo de uno a veinte años, atendiendo a los criterios siguientes:
+
+I. Será por un plazo de uno a diez años cuando no exista daño o perjuicio, o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+II. Será por un plazo de diez a veinte años, si dicho monto excede el límite señalado en la fracción anterior.
+
+Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 329 de este Código, el tipo de empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
+
+Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
+
+a). Los daños y perjuicios patrimoniales causados por los actos u omisiones.
+
+b). Las circunstancias socioeconómicas del responsable.
+
+c). Las condiciones exteriores y los medios de ejecución.
+
+d). El monto del beneficio que haya obtenido el responsable.
+
+Sin perjuicio de lo anterior, la categoría de servidor público de confianza será una circunstancia que podrá dar lugar a una agravante de la pena.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 329.
+
+Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita, y las circunstancias especiales de los hechos constitutivos del delito.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 330.
+
+Cuando los delitos a que se refieren los artículos 335, 336, 337, 338, 339, 343, 346, 347, 348, 349 y 350 del presente Código, sean cometidos por servidores públicos miembros de alguna institución de seguridad pública, aduanera o migratoria, las penas previstas serán aumentadas hasta en una mitad.
+
+Cuando los delitos a que se refieren los artículos 332, 340, 341, 345, 346, 347, 348, 349, 350, 351 y 352 del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento esté sujeto a ratificación de la Legislatura del Estado, las penas previstas serán aumentadas hasta en un tercio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO II. INCUMPLIMIENTO, EJERCICIO INDEBIDO Y ABANDONO DE FUNCIONES PUBLICAS
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 331.
+
+Comete el delito de incumplimiento de funciones públicas, el servidor público que incurra en alguna de las conductas siguientes:
+
+I. Omitir la denuncia de alguna privación ilegal de la libertad de la que tenga conocimiento, o consentir en ella, si está dentro de sus facultades evitarla.
+
+II. Impedir el cumplimiento de una ley, decreto, reglamento o resolución judicial o administrativa, o el cobro de una contribución fiscal, o utilizar el auxilio de la fuerza pública para tal objeto.
+
+III. El defensor público que, habiendo aceptado la defensa de algún inculpado, la abandone o descuide por negligencia.
+
+IV. El asesor jurídico que habiendo sido designado para representar a una víctima y ofendido, la abandone o descuide por negligencia.
+
+V. Omitir la denuncia o querella de algún ilícito del que tenga conocimiento, cometido en perjuicio o en contra de la Administración Pública Estatal o Municipal.
+
+Al responsable de los delitos previstos en este artículo, se le impondrá de uno a cinco años de prisión, de treinta a doscientos días multa y la destitución e inhabilitación correspondiente, para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 332.
+
+Comete el delito de ejercicio indebido de función pública, el servidor público que:
+
+I. Ejerza las funciones de un empleo, cargo o comisión sin haber rendido protesta constitucional.
+
+II. Ejerza las funciones de un empleo, cargo o comisión sin satisfacer los requisitos legales.
+
+III. Ejerza las funciones de un empleo, cargo o comisión después de haber sido notificado de la suspensión, destitución o revocación de su nombramiento o después de haber renunciado, salvo que por disposición legal o reglamentaria deba continuar ejerciendo sus funciones hasta ser relevado.
+
+IV. Se atribuya funciones o comisiones distintas a las que legalmente tenga encomendadas, en perjuicio de terceros o de la función pública.
+
+V. Teniendo conocimiento por razón de su empleo, cargo o comisión sobre la afectación al patrimonio o a los intereses de alguna dependencia, organismo auxiliar o Entidad de la Administración Pública Estatal, Poderes Legislativo y Judicial del Estado de México, órganos constitucionales autónomos, municipios, Órganos Jurisdiccionales que no forman parte del Poder Judicial del Estado de México, empresas de participación estatal y municipal, así como cualquier otro ente sobre el que tenga control cualquiera de los poderes y órganos públicos antes señalados a nivel Estatal y Municipal, por cualquier acto u omisión, y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades.
+
+Al responsable de los delitos previstos en las fracciones I, II y III, se le impondrán de seis meses a dos años de prisión, de treinta a cien días multa, así como la destitución e inhabilitación que corresponda.
+
+A quien cometa el delito previsto en las fracciones IV y V, se le impondrán de dos a siete años de prisión, de treinta a ciento cincuenta días multa y destitución e inhabilitación correspondiente, para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 333.
+
+Al servidor público, que sin causa justificada abandone sus funciones sin haber presentado licencia o renuncia, o sin que se le haya autorizado o aceptado, o al que habiéndole sido autorizada o aceptada, o concluido el periodo constitucional para el que fuera electo o designado, no cumpla con la entrega de índole administrativo del despacho, de toda aquella documentación inherente al cargo, o no entregue todo aquello que haya sido objeto de su responsabilidad a la persona autorizada para recibirlo; se le impondrán de uno a cuatro años de prisión, multa de treinta a ciento cincuenta días multa, destitución e inhabilitación correspondiente, para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO III. COALICION
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 334.
+
+Cometen el delito de coalición los servidores públicos, que se coaliguen para tomar medidas contrarias a una ley, reglamento u otras disposiciones de carácter general, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
+
+Al que cometa el delito de coalición de servidores públicos se le impondrán de dos a siete años de prisión, y multa de cien a trescientos días multa, así como la destitución e inhabilitación que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO IV. ABUSO DE AUTORIDAD
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 335.
+
+Comete el delito de abuso de autoridad, el servidor público que incurra en alguna de las conductas siguientes:
+
+I. El que en razón de su empleo, cargo o comisión, realice un hecho arbitrario o indebido.
+
+II. Cuando en razón de su empleo, cargo o comisión, violente de palabra o de obra, a una persona sin causa legítima.
+
+III. Cuando sin causa justificada, retrase o niegue a los particulares la protección o servicio que sea su obligación prestar; o impida la presentación o el curso de una solicitud.
+
+IV. Cuando teniendo bajo su mando una fuerza pública, se niegue a auxiliar a alguna autoridad competente que lo requiera.
+
+V. Cuando siendo responsable de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, sin los requisitos legales reciba, en calidad de detenida, arrestada, sujeta a prisión preventiva o a prisión como pena, a una persona, o la mantenga privada de su libertad sin dar parte del hecho a la autoridad correspondiente, niegue esta condición si lo estuviere, o no cumpla la orden de libertad girada por la autoridad competente dentro del término legal.
+
+VI. Cuando se detenga a una persona fuera de los casos previstos por la ley, la retenga por más de cuarenta y ocho horas, ejercite acción penal, sin que preceda denuncia o querella o la mantenga en incomunicación.
+
+VII. Cuando sin orden de la autoridad competente, obligue a los particulares a presentar documentos o realice la inspección en bienes de su propiedad o posesión, en incomunicación, vínculo familiar, de negocio o afectivo.
+
+VIII. Cuando después de haber ejecutado una orden de aprehensión, reaprehensión, detención en flagrancia o por caso urgente, no ponga de forma inmediata al imputado a disposición de la autoridad competente, fuera de los términos legales establecidos.
+
+IX. Los servidores públicos de la Unidad de Servicios Periciales que indebidamente:
+
+a) Destruyan, alteren o sustraigan documentos del registro.
+
+b) Retengan, modifiquen o divulguen información.
+
+c) Expidan certificaciones de inscripciones que obren en el registro.
+
+X. Cuando el personal al cuidado o disposición de los registros de audiograbación y videograbación de los juicios orales, haga uso indebido de los mismos, los sustraiga, entregue, copie, reproduzca, altere, modifique, venda, o facilite información contenida en aquéllos, o parte de la misma, o de cualquier otra forma los utilice para fines distintos a lo previsto por la Ley.
+
+XI. Cuando sin tener facultades de tránsito pretenda sancionar o imponer una medida de seguridad con motivo de la aplicación de la normatividad de tránsito del Estado.
+
+XII. La autoridad que fomente, tolere, autorice, o intervenga en la imposición indebida de sanciones o de medidas de seguridad, con motivo de la aplicación de la normatividad de tránsito del Estado.
+
+XIII. Cuando obligue al inculpado a declarar, usando la incomunicación, la intimidación o cualquier otro trato que vulnere o restrinja sus derechos humanos.
+
+XIV. Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que lo haga con conocimiento de tal situación.
+
+XV. Retarde o entorpezca dolosamente el servicio de procuración de justicia, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado para desempeñar otro empleo, cargo o comisión públicos.
+
+Al responsable de las conductas señaladas de las fracciones I a la XIV se le impondrán de dos a nueve años de prisión, y setenta a ciento cincuenta días multa, así como la destitución e inhabilitación que corresponda.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 336.
+
+De la misma forma comete el delito de abuso de autoridad, el servidor público que, sin causa justificada, remita a algún corralón o depósito de vehículos para su resguardo, uno o más vehículos.
+
+Al responsable de este delito se le impondrán de uno a cinco años de prisión y de treinta a ciento cincuenta días multa, asimismo la destitución e inhabilitación correspondiente, para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 337.
+
+También comete el delito de abuso de autoridad, el servidor público que autorice o expida licencia de funcionamiento, que permita la venta de bebidas alcohólicas, sin que se hayan cumplido las disposiciones legales y reglamentarias correspondientes.
+
+Al responsable de este delito, se le impondrán de tres a cinco años de prisión y de quinientos a dos mil días multa, la destitución e inhabilitación correspondiente, para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 338.
+
+Comete el delito de abuso de autoridad con contenido patrimonial, el servidor público que utilice su empleo, cargo o comisión para obtener la entrega de fondos, valores o cualquiera otra cosa que no le haya sido confiada, para aprovecharse o disponer de ella en su favor o de un tercero.
+
+Al que cometa este delito, se le impondrán las siguientes sanciones:
+
+I. De uno a tres años de prisión y de treinta a trescientos días multa, destitución e inhabilitación correspondiente para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sea cuantificable.
+
+II. De tres a ocho años de prisión, de quinientos a mil días multa, destitución e inhabilitación correspondiente para desempeñar empleo, cargo o comisión públicos cuando la cantidad o el valor de lo obtenido exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 339.
+
+Comete el delito de abuso de autoridad contra subalterno, el servidor público que haciendo uso de su empleo, cargo o comisión:
+
+I. Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o para cualquier otra persona, parte del sueldo o remuneración de uno o más de sus subalternos, dádivas u otros bienes o servicios.
+
+II. Obligue a uno o más de sus subalternos a realizar cualquier acto que le reporte beneficios económicos para sí o para un tercero.
+
+Al que cometa este delito, se le impondrán las sanciones siguientes:
+
+I. De uno a cinco años de prisión y de treinta a quinientos días multa, destitución e inhabilitación correspondiente para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sea cuantificable.
+
+II. De ocho a doce años de prisión y de mil a mil quinientos días multa, destitución e inhabilitación correspondiente para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO V. USO ILICITO DE ATRIBUCIONES Y FACULTADES
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 340.
+
+Comete el delito de uso ilícito de atribuciones y facultades:
+
+I. El servidor público que ilícitamente:
+
+a) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes del Estado de México o de sus municipios.
+
+b) Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico.
+
+c) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social en general, sobre los ingresos fiscales y sobre precios y tarifas de los bienes y servicios producidos, o prestados en la administración pública estatal o municipal.
+
+d) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos.
+
+e) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
+
+II. El servidor público, que a sabiendas de la ilicitud del acto y en perjuicio del patrimonio o del servicio público estatal o municipal o de otra persona:
+
+a) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento.
+
+b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
+
+III. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen (sic) referencia la fracción I del presente artículo, o sea parte en las mismas.
+
+IV. El servidor público, que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquélla a que estuvieren destinados o haga un pago ilegal.
+
+Se impondrán las mismas sanciones previstas a cualquier persona, que a sabiendas de la ilicitud del acto y en perjuicio del patrimonio, o el servicio público, o de otra persona, participe, solicite, o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión, de treinta a ciento cincuenta días multa, y la destitución e inhabilitación que corresponda.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 341.
+
+Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento, o uso de bienes del dominio del Estado o Municipio, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga.
+
+II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión, y de treinta a cien días multa, así como la destitución e inhabilitación que corresponda.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO VI. CONCUSION
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 342.
+
+Comete el delito de concusión el servidor público que, a título de impuesto, contribución, derecho, recargo, cooperación, renta, rédito, salario o emolumento, exija en beneficio propio, por sí o por interpósita persona, dinero, valores, servicios o cualquier cosa no debida o en mayor cantidad de la que señala la ley.
+
+Al que cometa este delito, se le impondrán las sanciones siguientes:
+
+I. De uno a tres años de prisión y de treinta a quinientos días multa y la destitución e inhabilitación correspondiente, cuando la cantidad o el valor de lo exigido no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sean cuantificables.
+
+II. De tres a nueve años de prisión, de quinientos a un mil días multa y la destitución e inhabilitación correspondiente, cuando la cantidad o el valor de lo exigido, exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO VII. INTIMIDACION
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 343.
+
+Comete el delito de intimidación:
+
+I. El servidor público que, por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión u omisión de una conducta constitutiva de delito, o de responsabilidad administrativa, en términos de la Legislación Penal o la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+II. El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+
+Al que cometa el delito de intimidación, se le impondrán de dos a nueve años de prisión, y de treinta a cien días multa y la destitución e inhabilitación que corresponda.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO VIII. EJERCICIO ABUSIVO DE FUNCIONES
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 344.
+
+Comete el delito de ejercicio abusivo de funciones:
+
+I. El servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas, o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
+
+II. El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a alguna de las personas mencionadas en la primera fracción.
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión, y de treinta a cien días multa, así como la destitución e inhabilitación que corresponda.
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo, exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta días multa, así como la destitución e inhabilitación que corresponda.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO IX. TRAFICO DE INFLUENCIA
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 345.
+
+Incurre en el delito de tráfico de influencia, el servidor público que por sí o por interpósita persona promueva, gestione o se preste a la tramitación o resolución lícita o ilícita de negocios públicos de particulares, ajenos a las responsabilidades inherentes a su empleo, cargo o comisión.
+
+Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
+
+Al que cometa este delito se le impondrán las sanciones siguientes:
+
+I. De uno a tres años de prisión y de treinta a trescientos días multa, destitución e inhabilitación correspondiente, cuando el beneficio económico no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sea cuantificable.
+
+II. De tres a ocho años de prisión, de quinientos a mil días multa y destitución e inhabilitación correspondiente, cuando el beneficio económico exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO X. COHECHO
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 346.
+
+Comete el delito de cohecho, el particular que ofrezca, prometa o entregue dinero o cualquier dádiva, a algún servidor público, para que realice u omita un acto, o actos lícitos o ilícitos relacionados con sus funciones.
+
+Al que cometa este delito se le impondrán las sanciones siguientes:
+
+I. De seis meses a tres años de prisión, y de treinta a trescientos días multa, cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa, no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sean cuantificables.
+
+II. De tres a ocho años de prisión y de quinientos a mil días multa, cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa, exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 347.
+
+Incurre en el delito de cohecho, el servidor público que solicite u obtenga para sí o para otro u otros, de los particulares o de otros servidores públicos, por sí o por interpósita persona, dádivas de cualquier tipo, en numerario o en especie para permitir, realizar u omitir un acto o actos lícitos o ilícitos, relacionados con sus funciones.
+
+Al servidor público que cometa este delito, se le impondrán las sanciones siguientes:
+
+I. De uno a tres años de prisión, y de treinta a trescientos días multa, destitución e inhabilitación correspondiente para desempeñar empleo, cargo o comisión públicos, cuando el beneficio obtenido o la cantidad o el valor de la dádiva no exceda el equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sean cuantificables.
+
+II. De cuatro a diez años de prisión, de quinientos a mil días multa, destitución e inhabilitación correspondiente para desempeñar empleo, cargo o comisión públicos, cuando el beneficio obtenido o la cantidad o el valor de la dádiva exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 348.
+
+También incurre en cohecho, el servidor público que con el propósito de obtener dádivas de cualquier tipo, realice dolosamente alguna de las conductas siguientes:
+
+I. Impedir u obstaculizar a cualquier persona por actos u omisiones indebidos la presentación de peticiones, escritos o promociones.
+
+II. Retardar o negar a cualquier persona el curso, despacho o resolución de los asuntos, de las prestaciones o de los servicios que tenga el deber de atender.
+
+A quien cometa este delito, se le impondrá pena de prisión de uno a tres años, o de treinta a trescientos días multa, o ambas sanciones, así como destitución e inhabilitación correspondiente para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 349.
+
+En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádiva entregadas. Las mismas se aplicarán en beneficio de la procuración y administración de justicia.
+
+Cuando el delito de cohecho sea cometido por algún elemento de los cuerpos policíacos o servidor de seguridad pública o servidor de la administración o procuración de justicia, se aumentarán las penas hasta en una mitad.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 350.
+
+Además, incurre en cohecho:
+
+El legislador estatal o integrantes del ayuntamiento, que en el ámbito de sus competencias, y en el ejercicio de sus funciones o atribuciones, en el marco del proceso de aprobación del presupuesto de egresos respectivo, gestione o solicite:
+
+a) La asignación de recursos a favor de un ente público, exigiendo u obteniendo, para sí o para un tercero, una comisión, dádiva o contraprestación, en dinero o en especie, distinta a la que le corresponde por el ejercicio de su encargo.
+
+b) El otorgamiento de contratos de obra pública o de servicios a favor de determinadas personas físicas o jurídicas colectivas.
+
+Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o en representación del legislador estatal, o integrantes del ayuntamiento, las asignaciones de recursos u otorgamiento de contratos a que se refieren los incisos a) y b) de este artículo.
+
+Al que comete el delito de cohecho se le impondrán las sanciones siguientes:
+
+Cuando la cantidad o el valor de la dádiva, de los bienes o la promesa no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa, así como la destitución e inhabilitación que corresponda.
+
+Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos a catorce años de prisión y de cien a ciento cincuenta días multa, así como la destitución e inhabilitación que corresponda.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO XI. PECULADO
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 351.
+
+Comete el delito de peculado:
+
+I. El servidor público que disponga para su beneficio o el de una tercera persona física o jurídica colectiva, con o sin ánimo de lucro, de dinero, rentas, fondos, valores, fincas o sus rendimientos que tenga confiados en razón de su cargo, pertenecientes al Estado, municipios, organismos auxiliares, empresas de participación municipal mayoritaria, fideicomisos públicos o particulares, los hubiere recibido en administración, depósito, posesión o por otra causa.
+
+II. El servidor público, que ilícitamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo 340 de este Código, haga uso ilícito de atribuciones y facultades, con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico, o la de un tercero, o a fin de denigrar a cualquier persona.
+
+III. Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos, o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades.
+
+IV. Cualquier persona que sin tener el carácter de servidor público, y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos, o les dé una aplicación distinta a la que se les destinó.
+
+Al que cometa este delito, se le impondrán las sanciones siguientes:
+
+I. Cuando el monto de los fondos utilizados indebidamente no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización, en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión, y de treinta a cien días multa, así como la destitución e inhabilitación que corresponda.
+
+II. Cuando el monto de lo distraído o de los fondos utilizados indebidamente, exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres a diez años de prisión, de setenta y cinco a doscientos días multa, así como la destitución e inhabilitación que corresponda.
+
+III. Cuando los recursos materia del peculado sean aportaciones del Estado para los fines de seguridad pública, se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
+
+La disposición de bienes para asegurar su conservación y evitar su destrucción, siempre que se destinen a la función pública, no será sancionada.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO XII. ENRIQUECIMIENTO ILICITO
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 352.
+
+Se sancionará a quien, con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio, o la legítima procedencia de los bienes a su nombre, o de aquéllos respecto de los cuales se conduzca como dueño.
+
+Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
+
+No será enriquecimiento ilícito en caso que el aumento del patrimonio sea producto de una conducta que encuadre en el presente Código. En este caso, se aplicará la hipótesis y la sanción correspondientes, sin que dé lugar al concurso de delitos.
+
+Al que cometa el delito de enriquecimiento ilícito se le impondrán las sanciones siguientes:
+
+I. Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no logre acreditar.
+
+II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de tres meses a dos años de prisión, y de treinta a cien días multa, así como la destitución e inhabilitación que corresponda.
+
+III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta días multa, así como la destitución e inhabilitación que corresponda.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO XIII. DELITOS COMETIDOS POR SERVIDORES PUBLICOS DE LA PROCURACION Y ADMINISTRACION DE JUSTICIA
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 353.
+
+Son delitos cometidos por los servidores de la procuración y administración de justicia:
+
+I. Conocer de negocios para los cuales tengan impedimento legal o abstenerse de conocer de los que les corresponda, sin tener impedimento legal para ello.
+
+II. Desempeñar algún otro empleo oficial, puesto o cargo particular que la ley les prohíba.
+
+III. Litigar por sí o por interpósita persona, cuando la ley les prohíba el ejercicio de su profesión.
+
+IV. Dirigir o aconsejar a las personas que ante ellos litiguen.
+
+V. No cumplir una disposición que legalmente se les comunique por su superior competente, sin causa fundada para ello.
+
+VI. Dictar, a sabiendas, una resolución de fondo o una sentencia definitiva que sean ilícitas por violar algún precepto terminante de la ley, o ser contrarias a las actuaciones seguidas en juicio, u omitir dictar una resolución de trámite, de fondo o una sentencia definitiva lícita, dentro de los términos dispuestos en la ley.
+
+VII. Ejecutar actos o incurrir en omisiones que produzcan un daño, o concedan a alguien una ventaja indebida.
+
+VIII. Retardar o entorpecer maliciosamente o por negligencia la administración de justicia.
+
+IX. Abstenerse injustificadamente de ejercer la acción penal que corresponda, de una persona que se encuentre detenida a su disposición como imputado de algún delito, cuando ésta sea procedente conforme a la Constitución, a las leyes de la materia, en los casos en que la ley les imponga esa obligación o ejercitar la acción penal cuando no proceda denuncia o querella.
+
+X. Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio, conforme a lo que establece el Código Nacional de Procedimientos Penales.
+
+XI. Prolongar la prisión preventiva por más tiempo del que, como máximo, fije la ley al delito que motive el procedimiento.
+
+XII. Imponer gabelas o contribuciones en cualquier lugar de detención o internamiento.
+
+XIII. Demorar injustificadamente el cumplimiento de las resoluciones judiciales, en las que se ordene poner en libertad a un detenido.
+
+XIV. No dictar auto de vinculación al proceso o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, a no ser que el inculpado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo.
+
+XV. Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley.
+
+XVI. Abrir procedimiento penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley.
+
+XVII. Ordenar la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no proceda denuncia, acusación o querella, o realizar la aprehensión sin poner al detenido a disposición del juez en el término señalado por la Constitución Federal.
+
+XVIII. A los encargados o empleados de los centros penitenciarios que cobren cualquier cantidad a los imputados, sentenciados o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado, para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen.
+
+XIX. Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo juicio hubieren intervenido.
+
+XX. Admitir o nombrar un depositario, o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes.
+
+XXI. Advertir al demandado, ilícitamente, respecto de la providencia de embargo decretada en su contra.
+
+XXII. Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común.
+
+XXIII. Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas.
+
+XXIV. Negar la libertad de un imputado, cuando el delito o modalidad tenga señalada pena no privativa de libertad o alternativa.
+
+XXV. Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que, por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales.
+
+XXVI. Retener al imputado sin cumplir con los requisitos que establece la Constitución Federal y las leyes respectivas.
+
+XXVII. Alterar, modificar, ocultar, destruir, perder o perturbar el lugar de los hechos o del hallazgo, indicios, evidencias, objetos, instrumentos o productos relacionados con un hecho delictivo o el procedimiento de cadena de custodia.
+
+XXVIII. Desviar u obstaculizar la investigación del hecho delictuoso que se trate, o favorecer que el imputado se sustraiga a la acción de la justicia.
+
+XXIX. Obligar a una persona o a su representante a otorgar el perdón en los delitos que se persiguen por querella.
+
+XXX. Obligar a una persona a renunciar a su cargo o empleo para evitar responder a acusaciones de acoso, hostigamiento o para ocultar violaciones a la legislación laboral.
+
+XXXI. A quien ejerciendo funciones de supervisor de libertad o con motivo de ellas hiciere amenazas, hostigue o ejerza violencia en contra de la persona procesada, sentenciada, su familia y posesiones.
+
+XXXII. A quien ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes o posesiones de la persona procesada, sentenciada o su familia.
+
+XXXIII. A quien ejerciendo funciones de supervisor de libertad, falseé informes o reportes al Juez de Ejecución.
+
+A quien cometa los delitos previstos en las fracciones I, II y III, se le impondrán de uno a tres años de prisión, de diez a trescientos días multa y la destitución e inhabilitación correspondiente.
+
+A quien cometa el delito previsto en la fracción IV, se le impondrán de dos a seis años de prisión, de veinte a seiscientos días multa y la destitución e inhabilitación correspondiente.
+
+A quien cometa los delitos previstos en las fracciones VII, VIII, IX, XVII, XXI, XXII y XXIII, se le impondrán de tres a ocho años de prisión, de treinta a cien días multa y la destitución e inhabilitación que corresponda.
+
+A quien cometa los delitos previstos en las fracciones V, VI, X, XI, XII, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII y XXXIII, se le impondrán de cuatro a diez años de prisión, de cien a ciento cincuenta días multa y la destitución e inhabilitación que corresponda.
+
+En caso de tratarse de particulares realizando funciones propias del supervisor de libertad y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
+
+### CAPITULO XIV. DISPOSICIONES COMUNES
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 354.
+
+A quien en nombre de un servidor público solicite dinero, valores, servicios o cualquier otra dádiva, en los casos a que se refieren los delitos de cohecho, concusión y tráfico de influencia, se le impondrán de tres a ocho años de prisión, y de setenta y cinco a doscientos días multa.
+
+En ningún caso, se devolverá a los inculpados de los delitos mencionados en el párrafo anterior, el dinero o dádiva entregadas. Las mismas se aplicarán en beneficio de la administración y procuración de justicia.
+
+> <small>(ADICIONADO, G.G. 30 DE MAYO DE 2017)</small>
+
+###### Artículo 355.
+
+Además de las penas señaladas a los delitos de cohecho cometido por servidores públicos, abuso de autoridad con o sin contenido patrimonial, tráfico de influencia, concusión, peculado y enriquecimiento ilícito, en todos los casos el responsable de los delitos anteriores será sancionado con pago de la reparación del daño.
 
 ## TRANSITORIOS
 
-PRIMERO. El presente Reglamento entrará en vigor a los noventa días siguientes de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que a continuación se señalan, que entrarán en vigor en los plazos que se indican, contados a partir de la entrada en vigor del presente instrumento:
+PRIMERO.- Publíquese el presente Código en la "Gaceta del Gobierno".
 
-I. A los seis meses, los artículos 20, 110, 173, 174 y 181 de este Reglamento, así como II.1., II.2., III.4.7., III.4.17.3., III.5.11.2., XVII.1., XVII.3., XVII.4., XVIII.1., XIX.2., XX.5., XX.6., XXI.6., XXII.3. del apéndice, y
+SEGUNDO.- Este Código, entrará en vigor cinco días después de su publicación en la "Gaceta del Gobierno".
 
-II. A los doce meses, el artículo 182.
+TERCERO.- Se abroga el Código Penal para el Estado de México publicado en la Gaceta del Gobierno el veintiséis de enero de mil novecientos ochenta y seis.
 
-SEGUNDO. Se derogan los artículos 2o., fracción III, incisos del a) al q) y t), IV inciso b); 36; 45; 47; 48; 49; 54; 60; 65; 80; 119, fracciones I, II, III, IV, VI, VII, VIII y XI; 149, fracción I, incisos a), b), e), f) y g); 167, fracciones I, II, III, VII, VIII y IX; 1271; 1276; 1277; 1283; 1284; 1288; 1289; 1292; 1293 y 1294; el Capítulo II del Título Tercero, y los títulos Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Decimoprimero, Decimosegundo, Decimotercero, Decimocuarto, Decimoquinto, Decimosexto, Decimoséptimo, Decimonoveno, Vigésimo y Vigesimotercero del Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios, publicado en el Diario Oficial de la Federación el 18 de enero de 1988.
+CUARTO.- El Código abrogado seguirá aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que conforme al nuevo Código, hayan dejado de considerarse como delitos o que los sujetos al mismo manifiesten su voluntad de acogerse, al presente ordenamiento como mas favorable.
 
-Asimismo, se abrogan los reglamentos de Restaurantes, Cafés, Fondas, Loncherías, Torterías, Taquerías, Servicio de Comedor en Casa de Huéspedes, Neverías, Ostionerías, Salones de Té y demás establecimientos similares y de Control Sanitario de los Molinos de Nixtamal, Expendios de Masa y Tortillas en el Distrito Federal y Territorios Federales, publicados en el Diario Oficial de la Federación el 8 y 17 de febrero de 1962, respectivamente.
+QUINTO.- El artículo 148, que se refiere al delito de prestación ilícita del servicio público de transporte de pasajeros, entrará en vigor a los tres años, a partir del inicio de la vigencia del presente decreto.
 
-TERCERO. Las disposiciones administrativas en vigor se continuarán aplicando, hasta en tanto se expidan otras que las sustituyan, salvo en lo que se opongan al presente Reglamento.
+Lo tendrá entendido el Gobernador Constitucional del Estado, haciendo que se publique y se cumpla.
 
-CUARTO. En los actos y procedimientos administrativos que tengan relación con la materia de este Reglamento, que se hubieren iniciado o inicien antes de que éste entre en vigor, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de este Reglamento.
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veintinueve días del mes de febrero del dos mil.- Diputado Vicepresidente.- C. Gustavo Alonso Donis García.- Diputados Prosecretarios.- C. Rubén Colín Cortez.- C. Alfonso Rodríguez Tinajero.- Rúbricas.
 
-QUINTO. Los productos, actividades, servicios y establecimientos objeto de este Reglamento, se sujetarán a las especificaciones establecidas en el apéndice del mismo, las cuales quedarán derogadas en las mismas fechas en que entren en vigor las normas oficiales mexicanas correspondientes a cada materia.
+Por lo tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de julio de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Salud, Juan Ramón de la Fuente.- Rúbrica.
+Toluca de Lerdo, Méx., a 17 de marzo del 2000.
 
-APÉNDICE DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
 
-I. Establecimientos.
+ARTURO MONTIEL ROJAS
 
-I.1. Los establecimientos deberán estar provistos de agua potable, en cantidad y presión suficientes para satisfacer las necesidades de las personas que se encuentren en ellos y deberán contar con servicios de eliminación de excretas conectados a la red de drenaje, lo anterior sin perjuicio de otras obligaciones que, en su caso, impongan otras dependencias competentes. Para efectos sanitarios, las tomas de agua no potable deberán identificarse por medio de un señalamiento que establezca: "Agua no potable, no beberla", u otro equivalente.
+(RUBRICA).
 
-Cuando el establecimiento cuente con sistemas de acondicionamiento de aire, en el cual exista contacto de los mismos con el agua, ésta deberá ser potable.
+EL SECRETARIO GENERAL DE GOBIERNO
 
-I.2. Los establecimientos donde se manipulen alimentos o bebidas deberán contar con instalaciones para el aseo de las manos, limpieza y desinfección de utensilios y equipos de trabajo, construidas con materiales resistentes a la corrosión y que puedan limpiarse fácilmente. Dichas instalaciones deberán contar, como mínimo, con toma de agua, jabón líquido, toallas desechables y sustancias desinfectantes.
+MANUEL CADENA MORALES
 
-I.3. Los establecimientos dispondrán de un sistema de descargas de aguas residuales y pluviales. La tubería de drenaje, registros y depósitos temporales de almacenamiento deberán mantenerse en buen estado de conservación, mantenimiento y funcionamiento, en los términos que establezcan las disposiciones aplicables.
+(RUBRICA).
 
-I.4. Los establecimientos cubiertos deberán reunir los siguientes requisitos:
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
-I.4.1. Los elementos de la construcción expuestos al exterior, serán resistentes al medio ambiente y a la fauna nociva;
+G.G. 1 DE SEPTIEMBRE DE 2000.
 
-I.4.2. Los almacenes, en su caso, deberán garantizar la conservación y manejo adecuado de los productos en áreas separadas por tipo de producto, a fin de evitar su contaminación, adulteración o alteración;
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON EL PRESENTE CÓDIGO.
 
-I.4.3. Los depósitos de agua potable estarán revestidos de material impermeable inocuo, con superficies interiores lisas, provistos de tapas y con sistemas de protección que impidan la contaminación o alteración del agua;
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
-I.4.4. Las áreas de oficina, comedor, servicios sanitarios, de recepción, producción, distribución, laboratorio o cualquier otra área que requiera el proceso, deberán estar separadas;
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
-I.4.5. Estar provistos de iluminación suficiente, ya sea natural o artificial, adecuada a la naturaleza del trabajo, así como de ventilación adecuada para la renovación continua del aire y para evitar el calor excesivo, la condensación de vapor y la acumulación de polvo, y
+G.G. 3 DE SEPTIEMBRE DE 2003.
 
-I.4.6. Los acabados de paredes, pisos y techos, dentro de las áreas de fabricación, operación y almacenamiento, deberán ser impermeables y de fácil limpieza y desinfección.
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-II. Etiquetado.
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-II.1. Cuando varios establecimientos participen en la elaboración, fabricación, preparación, mezclado, acondicionamiento o envasado de un producto, deberá hacerse constar en la etiqueta la leyenda: "Hecho para..." o una equivalente, además de cumplir con las especificaciones que indiquen las normas correspondientes.
+G.G. 1 DE ABRIL DE 2004.
 
-II.2. Los productos terminados que contengan alcohol etílico o bebidas alcohólicas en cantidades menores al 2% en volumen, deberán incluir en la superficie principal de exhibición de la etiqueta la siguiente leyenda: "Este producto contiene % de alcohol. No recomendable para niños".
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-III. Leche, sus productos y derivados.
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-III.1. Para efectos de este apartado, se entiende por:
+TERCERO.- Las disposiciones contenidas en los artículos 91 y 295 del Código Penal del Estado de México, anteriores a esta reforma, se aplicarán respecto de los hechos u omisiones que hayan sido ejecutados durante su vigencia, a menos que los sujetos soliciten, en su beneficio, la aplicación de los preceptos normativos contenidos en el presente decreto.
 
-III.1.1. Crema:
+G.G. 28 DE JULIO DE 2004.
 
-a. Crema, al alimento en el que se ha reunido la mayor parte de grasa de leche, ya sea por reposo o por centrifugación, sometida a pasteurización, ultrapasteurización, esterilización o cualquier otro tratamiento que asegure su inocuidad;
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.1.2. Componentes:
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-a. Caseína de grado alimentario, al producto obtenido de la coagulación de las proteínas de la leche descremada pasteurizada, por la acción de agentes coagulantes de la leche, ya sean de origen biológico (enzimas y cultivos de bacterias lácticas) o químicos (ácidos); la cuajada así obtenida es sometida a los procesos de lavado con agua potable, pasteurización y deshidratación,
+G.G. 10 DE AGOSTO DE 2004.
 
-b. Caseinato de grado alimentario, al producto obtenido por solubilización de la caseína de grado alimentario rehidratada o fresca, por la acción de agentes neutralizantes, sometida a pasteurización, deshidratada o no y
+DECRETO NO. 55 QUE ADICIONA LA FRACCIÓN XI AL ARTICULO 136 DEL CÓDIGO PENAL PARA EL ESTADO DE MÉXICO.
 
-c. Grasa butírica, a la grasa que se obtiene de la leche, que se caracteriza por tener un alto contenido de ácidos grasos;
+PRIMERO.- Publíquese la presente Ley en el Periódico Oficial. "Gaceta del Gobierno".
 
-III.1.3. Dulces a base de leche, a los productos elaborados por tratamiento térmico de la leche y edulcorantes, que pueden ser adicionados de aditivos para alimentos e ingredientes opcionales;
+SEGUNDO.- La presente ley entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial, "Gaceta del Gobierno".
 
-III.1.4. Helados:
+TERCERO.- Se abroga la Ley del Registro de Antecedentes Penales y Administrativos del Estado de México.
 
-a. Helado, al alimento elaborado mediante la congelación, con agitación de una mezcla pasteurizada compuesta por una combinación de ingredientes lácteos, que puede contener grasas vegetales permitidas, frutas, huevo, sus derivados y aditivos para alimentos y
+CUARTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-b. Mezclas o bases para helados, a los productos que contienen los ingredientes necesarios, de modo que al congelarlos, den un producto final que se ajuste a la composición del helado, según sea el caso, que puede presentarse en forma líquida, concentrada o en polvo;
+QUINTO.- El personal y bienes de la actual dirección de Servicios Periciales pasarán a formar parte del Instituto de Servicios Periciales en los términos y condiciones de la presente Ley.
 
-III.1.5. Crema vegetal, al alimento obtenido de las emulsiones de grasas o aceites vegetales comestibles en leche o sólidos de leche y aditivos para alimentos, sometidas a pasteurización, ultrapasteurización o esterilización con características semejantes a la crema de leche;
+G.G. 10 DE AGOSTO DE 2004.
 
-III.1.6. Leches:
+DECRETO NO. 57 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE MÉXICO.
 
-a. Leche, a la secreción natural de las glándulas mamarias de las vacas sanas o de cualquier otra especie animal, excluido el calostro,
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-b. Leche con sabor, a la que tiene un sabor característico proporcionado por concentrados, saboreadores naturales o artificiales, con o sin edulcorantes y otros aditivos para alimentos,
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-c. Leche deshidratada, a la que resulta de la eliminación del agua de la leche,
+TERCERO.- Las disposiciones contenidas en los artículos 23, 24, 176, 242, 243, 259, 261, 273, 274 y 290 del Código Penal, seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia.
 
-d. Leche esterilizada, a la que ha sido sometida a una relación de tiempo temperatura que asegure su esterilidad comercial,
+G.G. 27 DE OCTUBRE DE 2004.
 
-e. Leche combinada, a la elaborada a partir de ingredientes propios o no de la leche y agua potable en las cantidades necesarias para ajustar el producto a las especificaciones de composición, sensoriales y sanitarias de la leche,
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-f. Leche recombinada, al producto elaborado a partir de los ingredientes propios de la leche, tales como caseína, grasa y suero; agua potable o grasa vegetal en las cantidades necesarias para ajustar el producto a las especificaciones de composición y sensoriales de la leche,
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-g. Leche reconstituida, a la que se obtiene a partir de la leche descremada en polvo, grasa butírica o grasa vegetal y agua y
+G.G. 26 DE NOVIEMBRE DE 2004.
 
-h. Leche rehidratada, a la que se obtiene mediante la adición de agua potable a la leche deshidratada;
+DECRETO 97 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL
 
-III.1.7. Leches fermentadas y acidificadas:
+###### ARTICULO PRIMERO.
 
-a. Jocoque, al producto obtenido por tratamiento con bacterias lácticas de la leche pasteurizada, fresca, limpia y sana, entera, parcialmente descremada o descremada, con grasa butírica,
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-b. Leche acidificada, a la obtenida por la acidificación de la leche entera, parcialmente descremada o descremada, pasteurizada, que puede ser rehidratada y adicionada con agentes acidulantes,
+###### ARTICULO SEGUNDO.
 
-c. Leche cultivada o fermentada, a la obtenida por la acidificación de la leche entera o deshidratada, pasteurizada, parcialmente descremada, semidescremada o descremada debida a la acción de bacterias lácticas vivas y
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-d. Yogur, yogurt o yoghurt, al producto obtenido por la fermentación de la leche estandarizada entera, parcialmente descremada o descremada, pasteurizada, producida por cultivos de las bacterias lácticas viables Lactobacillus bulgaricus y Streptococcus termophyllus, adicionado o no de aditivos;
+G.G. 26 DE NOVIEMBRE DE 2004.
 
-III.1.8 Establecimientos:
+DECRETO 98 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL
 
-a. Área de ordeña, al área específica donde se realiza la extracción de la leche, dentro o fuera del establo,
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
 
-b. Centro de acopio de leche, al establecimiento donde se reúne la leche proveniente de diferentes zonas de producción y
+G.G. 21 DE DICIEMBRE DE 2005.
 
-c. Establo, al establecimiento cubierto en el que se aloja a las especies animales destinadas para la producción de leche, para su cuidado, alimentación y ordeña;
+PRIMERO. Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-III.1.9. Mantequillas:
+SEGUNDO. La reforma, adición y derogación de las diversas disposiciones contenidas en el Código Penal del Estado de México, en la Ley Orgánica del Poder Judicial del Estado de México y en la Ley Orgánica de la Procuraduría del Estado de México, contenidas en el presente decreto tendrán vigencia, hasta en tanto entre en vigor las reformas a los artículos 82, 89 en su segundo párrafo, 99 en su primer párrafo a la adición del segundo párrafo al artículo 102 y el artículo 104 bis de la Constitución Política del Estado Libre y Soberano de México, aprobado por esta Legislatura.
 
-a. Mantequilla, al producto graso obtenido de la leche pasteurizada de vaca, cabra u oveja o la mezcla de éstas, adicionada o no de sal,
+G.G. 2 DE ENERO DE 2006.
 
-b. Mantequilla de suero de queso, a la materia grasa que proviene de suero pasteurizado de queso, sin adición de otra materia grasa y
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-c. Suero de mantequilla, al producto líquido que se separa durante la eliminación de la grasa de la crema o en la elaboración de la mantequilla, sometido a proceso de pasteurización y que puede ser deshidratado;
+SEGUNDO.- El presente decreto entrará en vigor ciento ochenta días naturales después de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.1.10. Procesos:
+TERCERO.- Dentro del término de noventa días naturales contados a partir de la entrada en vigor del presente decreto, el Consejo de la Judicatura instalará en cada Distrito Judicial del Estado de México un Juzgado donde se ventilen juicios orales.
 
-a. Estandarización de la leche, al ajuste del contenido de grasa y sólidos no grasos a una proporción determinada de los componentes propios de la misma,
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
-b. Homogeneización de la leche, a la subdivisión de la grasa contenida en la leche en pequeñísimos glóbulos que permiten su distribución a través de todo el volumen de la leche,
+CUARTO.- La aplicación del artículo 275-A del Código de Procedimientos Penales para el Estado de México, respecto de los juzgados a que se refiere el transitorio que antecede, conocerán en principio de los asuntos que les sean turnados por las oficialías de partes común, en los casos del conocimiento de delitos de la actual competencia de los juzgados de cuantía menor; dieciocho juzgados más deberán entrar en funciones a más tardar el treinta y uno de octubre del dos mil ocho; con posterioridad se instalarán los demás juzgados para juicios predominantemente orales de esta competencia, que permitan que la totalidad de los asuntos se tramiten bajo este procedimiento, teniendo como fecha límite para tal efecto, el treinta y uno de octubre de dos mil nueve. Entre tanto, los asuntos que se turnen a juzgados de cuantía menor, se tramitarán conforme al procedimiento penal ordinario.
 
-c. Pasteurización, al tratamiento térmico, realizado generalmente a temperatura hasta los 100°C, que se aplica para la destrucción de microorganismos patógenos y la inactivación de enzimas de algunos alimentos líquidos y
+> <small>(REFORMADO, G.G. 25 DE JULIO DE 2008)</small>
 
-d. Ultrapasteurización, al tratamiento térmico que realizado a una temperatura mayor a 100°C, se aplica para la destrucción de los microorganismos y la inactivación de enzimas de algunos alimentos líquidos, y
+QUINTO.- Los asuntos relacionados con delitos no graves que se turnen a los juzgados penales de primera instancia, se tramitarán conforme al procedimiento penal ordinario.
 
-III.1.11. Quesos:
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2006)</small>
 
-a. Queso, al producto elaborado con la cuajada de leche estandarizada de vaca o de otras especies animales, con o sin adición de crema, obtenida por la coagulación de la caseína con cuajo, gérmenes lácticos, enzimas apropiadas, ácidos orgánicos comestibles, con o sin tratamiento ulterior por calentamiento, drenada, prensada o no, con o sin adición de fermentos de maduración, mohos especiales, sales fundentes e ingredientes comestibles opcionales. Puede ser fresco, madurado o procesado,
+SEXTO.- La Legislatura Local a solicitud del Poder Judicial del Estado proveerá lo conducente para que se asignen los recursos presupuestales, con la finalidad de que éste cuente con los recursos humanos, materiales y financieros necesarios, para dar cumplimiento a este Decreto.
 
-b. Queso de suero, al producto obtenido a partir de suero de queso de leche pasteurizada de vaca, cabra u oveja, por calentamiento en medio ácido para favorecer la formación de la cuajada, la que se sala, drena y moldea con o sin la adición de crema,
+G.G. 26 DE MAYO DE 2006.
 
-c. Queso procesado, al producto obtenido a partir de la mezcla de los quesos madurados, fundida y emulsionada, a la que pueden agregarse ingredientes y especias,
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-d. Queso madurado, al producto de pasta dura, semidura o blanda, con o sin corteza; sometido a un proceso de maduración mediante la adición de microorganismos, mohos o bacterias bajo condiciones controladas de tiempo, temperatura y humedad para provocar en ellos cambios bioquímicos y físicos que son característicos de las diferentes denominaciones de estos productos y
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-e. Suero de queso, al producto líquido que se separa de la cuajada después de la coagulación de las proteínas de la leche sometido a pasteurización y que puede o no ser deshidratado.
+G.G. 21 DE JULIO DE 2006.
 
-III.2. Establecimientos que procesan leche.
+###### ARTICULO PRIMERO.
 
-III.2.1. Los propietarios o encargados de los establecimientos que se dediquen a la producción u obtención de la leche, llevarán una relación diaria que deberá conservarse durante el tiempo que señale la norma correspondiente y estará a disposición de las autoridades sanitarias competentes, cuando éstas lo requieran. Dicha relación deberá contener lo siguiente:
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.2.1.1. La hora de la ordeña y cantidad promedio producida al día;
+###### ARTICULO SEGUNDO.
 
-III.2.1.2. El promedio al día del volumen de leche recibida en el centro de acopio de leche, así como el señalamiento de su ubicación, nombre del propietario y hora de entrega en la planta;
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.2.1.3. La hora de pasteurización, ultrapasteurización o esterilización y envasado, y
+G.G. 7 DE AGOSTO DE 2006.
 
-III.2.1.4 La identificación del lote de producción de la leche envasada y la fecha de caducidad asignada.
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.2.2. Los establos deberán cumplir con lo señalado en este Reglamento, independientemente de que se destinen a la producción de leche de especies animales distintas de la vaca.
+SEGUNDO. Este decreto entrará en vigor a los quince días naturales siguientes a su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.2.3. Los centros de acopio, además de cumplir con lo señalado en este Reglamento para los establecimientos, deberán contar con:
+G.G. 19 DE JULIO DE 2007.
 
-III.2.3.1. Area de almacenamiento de la leche con enfriamiento, que podrá contar con clarificación, y
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.2.3.2. Almacén.
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.2.4. Las plantas de pasteurización, ultrapasteurización o esterilización, además de cumplir con las disposiciones para establecimientos señaladas en este Reglamento, deberán contar con las siguientes áreas:
+G.G. 29 DE AGOSTO DE 2007.
 
-III.2.4.1. Recibo y vaciado de leche cruda;
+DECRETO NUMERO 72.
 
-III.2.4.2. Almacenamiento de leche cruda;
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.2.4.3. Clarificación y, en su caso, pasteurización, ultrapasteurización o esterilización, homogeneización, deodorización y envasado;
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.2.4.4. Almacenamiento de la leche pasteurizada, ultrapasteurizada o esterilizada envasada, y
+G.G. 29 DE AGOSTO DE 2007.
 
-III.2.4.5. Laboratorio de análisis físico químico y exámenes bacteriológicos.
+DECRETO NUMERO 76.
 
-III.2.5. Los detergentes y germicidas utilizados en el lavado y desinfección de los utensilios y equipo que intervengan en el proceso de la leche y cuyas superficies se pongan en contacto con ella, deberán ser los permitidos en este Reglamento y en las normas correspondientes.
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.3. Ordeña.
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.3.1. En el área de ordeña se observarán las siguientes condiciones:
+G.G. 26 DE SEPTIEMBRE DE 2007.
 
-III.3.1.1. El ganado deberá estar limpio durante la ordeña;
+###### ARTÍCULO PRIMERO.
 
-III.3.1.2. Las ubres se deberán lavar, desinfectar y secar inmediatamente antes de la ordeña y al terminar se deberán sellar los pezones;
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.3.1.3. Antes de la ordeña de cada animal, se deberán obtener las tres primeras extracciones de leche de cada uno de los pezones, esta leche se deberá recolectar en un recipiente especial e inutilizarla, y
+###### ARTÍCULO SEGUNDO.
 
-III.3.1.4. El lugar de la ordeña deberá estar limpio y provisto de un canal con declive para recibir el estiércol y orina de las vacas mientras se ordeñan. El estiércol deberá ser retirado continuamente y recolectarse en un sitio alejado del lugar de la ordeña.
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.3.2. Los ordeñadores deberán cumplir con los siguientes requisitos:
+G.G. 29 DE OCTUBRE DE 2007.
 
-III.3.2.1. No tener heridas ni infecciones en la piel;
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.3.2.2. Tener limpias y cortadas al ras las uñas de las manos;
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
 
-III.3.2.3. No tener enfermedades infectocontagiosas;
+G.G. 28 DE NOVIEMBRE DE 2007.
 
-III.3.2.4. Lavarse las manos con jabón y agua, para lo cual utilizarán cepillo y se enjuagarán con agua que contenga alguna solución desinfectante, antes de la ordeña;
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
-III.3.2.5. Mantenerse limpios en todo el proceso, y
+SEGUNDO.- Las disposiciones contenidas en el artículo 266 del Código Penal del Estado de México, anteriores a la entrada en vigor de este decreto, seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia.
 
-III.3.2.6. Usar batas, gorros de color claro y botas de hule limpios.
+TERCERO.- Las notificaciones de las resoluciones que confirmen la determinación del no ejercicio de la acción penal, pronunciadas por el Subprocurador Regional que corresponda, pendientes de practicarse hasta la fecha de entrada en vigor de este decreto, se harán por estrados, por el Agente del Ministerio Público Investigador que conoció del asunto.
 
-III.3.3. La ordeña mecánica se deberá sujetar a los siguientes requisitos:
+CUARTO.- Los expedientes de Averiguación Previa en trámite o pendientes de resolverse, con la determinación de reserva o de no ejercicio de acción penal, se tramitarán y sustanciarán conforme a las reglas establecidas en este decreto.
 
-III.3.3.1. Las ordeñadoras deberán lavarse, desinfectarse y enjuagarse con suficiente agua potable antes de la ordeña;
+QUINTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-III.3.3.2. Las pezoneras deberán lavarse, desinfectarse y enjuagarse con suficiente agua potable antes de la ordeña de cada animal;
+G.G. 27 DE DICIEMBRE DE 2007.
 
-III.3.3.3. Las pezoneras no deberán estar en contacto con el piso, y
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.3.3.4. Las ordeñadoras, tubos, conexiones y pezoneras, deberán lavarse y desinfectarse después de cada ordeña, y se dejarán escurrir en lugares apropiados.
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.4. Leche.
+G.G. 28 DE DICIEMBRE DE 2007.
 
-III.4.1. El transporte de leche cruda para consumo humano de los establos a los expendios de la misma, a los centros de acopio o a las pasteurizadoras, así como la que se destine para elaborar productos y derivados de la leche, sólo deberá realizarse en recipientes o termotanques de diseño y material sanitario, previamente lavados y desinfectados.
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
 
-III.4.2. No se podrá vender en la vía pública leche cruda o bronca, la leche pasteurizada envasada, quesos frescos y cremas cuando éstos no estén conservados en refrigeración.
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.4.3. Los envases para la leche, sus productos y derivados, deberán ser de cualquier material que permita la conservación del producto en condiciones aptas para el consumo humano, estar perfectamente limpios y desinfectados al momento de utilizarse y permitir el cierre hermético que impida su contaminación, alteración o adulteración.
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
-III.4.4. La leche destinada para consumo humano directo y la que se emplee como materia prima en procesos para la obtención de productos o derivados de la misma, deberá cumplir con las siguientes características:
+G.G. 25 DE JULIO DE 2008.
 
-III.4.4.1. Provenir de animales limpios y sanos;
+###### ARTÍCULO PRIMERO.
 
-III.4.4.2. Ser pura, limpia y estar exenta de materias antisépticas, conservadoras y neutralizantes;
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.4.4.3. Ser de color, olor y sabor característicos que correspondan a una ordeña higiénica;
+###### ARTÍCULO SEGUNDO.
 
-III.4.4.4. No coagular por ebullición;
+Este decreto entrará en vigor el día de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
 
-III.4.4.5. No contener ni sangre ni pus;
+G.G. 31 DE JULIO DE 2008.
 
-III.4.4.6. Presentar prueba de alcohol a 68% negativa;
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.4.4.7. Presentar prueba a los inhibidores, negativa;
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.4.4.8. Presentar prueba a la sacarocinta, negativa;
+G.G. 24 DE MARZO DE 2009.
 
-III.4.4.9. Tener una densidad a 15,5ºC, no menor de 1,031;
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.4.4.10. Tener un índice de refracción a 20ºC, no menor de 37 ni mayor de 39, por el método del sulfato de cobre;
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.4.4.11. Tener punto de congelación no mayor de -0,530 ni menor de -0,550 con el crióscopo de Horvet;
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
-III.4.4.12. Presentar acidez cuyos límites sean no menor de 1,3 ni mayor a 1,7 g/l, expresada como ácido láctico;
+G.G. 6 DE MARZO DE 2010.
 
-III.4.4.13. Tener cloruros cuyos límites sean no menor de 0,8 g/l ni mayor a 1 g/l, expresados como cloro por el método de Volhard;
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.4.14. Tener únicamente la grasa propia de la leche, proveniente de la ordeña;
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.4.15. Tener proteínas con un mínimo de 30 g/l, propias de la leche;
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
 
-III.4.4.16. Contener lactosa, entre 43 g/l y 50 g/l por el método polarimétrico de Wiley o por el método de Fehling;
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
 
-III.4.4.17. Tener sólidos no grasos de leche (SNG), no menor de 83 g/l ni mayor de 89 g/l, y
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
 
-III.4.4.18. Ser sometida a pasteurización o informar al consumidor sobre la necesidad de someterla a un proceso de ebullición, previo a su ingestión.
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
-III.4.5. La leche para consumo humano se clasifica por el tratamiento térmico al que se somete en:
+Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
-III.4.5.1.Pasteurizada;
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
-III.4.5.2.Ultrapasteurizada;
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
 
-III.4.5.3. Esterilizada, y
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
 
-III.4.5.4. Hervida.
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
 
-III.4.6. La leche ultrapasteurizada podrá ser saborizada, aromatizada y endulzada con los saboreadores, aromatizantes y edulcorantes permitidos en este Reglamento y en las normas correspondientes.
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
 
-III.4.7. La leche ultrapasteurizada cuyo contenido de grasa sea menor o igual a 16 g/l, deberá adicionarse de 670 µg de retinol (2 000 UI de vitamina A) por litro.
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
 
-III.4.8. Las leches ultrapasteurizadas o esterilizadas, envasadas herméticamente, deberán ser comercialmente estériles.
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-III.4.9. En la elaboración de la leche de sabores se deberá emplear leche que cumpla con lo señalado para la leche destinada para consumo humano directo y su composición final deberá corresponder a lo que establezca la Secretaría en la norma correspondiente.
+G.G. 1 DE OCTUBRE DE 2010.
 
-III.4.10. Los productos y derivados de la leche envasados, para su transporte deberán empacarse en condiciones que eviten el deterioro de los envases y la contaminación de los productos.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.11. El contenido de azúcares utilizado en la leche condensada azucarada, deberá ser el suficiente para prevenir su deterioro.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.12. La leche condensada azucarada, deberá estar libre de microorganismos patógenos y no contener más de 10 000 UFC/g de bacterias mesofílicas aerobias.
+G.G. 12 DE OCTUBRE DE 2010.
 
-III.4.13. La leche deshidratada no deberá exceder los siguientes límites microbiológicos: Staphylococcus aureus coagulasa positiva, negativo por gramo; Salmonella ausente en 25 gramos; bacterias mesofílicas aerobias máximo 10 000 UFC/g, y coliformes totales NMP máximo 20/g.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.14. La leche deshidratada podrá destinarse para:
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.14.1. Rehidratación para consumo humano directo, y
+G.G. 22 DE OCTUBRE DE 2010.
 
-III.4.14.2. Para la industria alimentaria.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.15. La leche deshidratada deberá envasarse en recipientes de material impermeable que la proteja de la humedad, evite su contaminación y garantice su conservación, y no se podrá vender a granel al público.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.16. La rehidratación de la leche para consumo humano directo deberá efectuarse de conformidad con lo siguiente:
+G.G. 28 DE OCTUBRE DE 2010.
 
-III.4.16.1. La restitución deberá realizarse con agua potable;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.16.2. La leche deberá ser pasteurizada o ultrapasteurizada y envasada inmediatamente;
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.16.3. La prueba de la fosfatasa, una vez envasada la leche, deberá ser negativa si es pasteurizada;
+G.G. 3 DE NOVIEMBRE DE 2010.
 
-III.4.16.4. La leche deberá estar exenta de microorganismos patógenos y su cuenta de bacterias mesofílicas aerobias, no deberá ser mayor de 5 000 UFC/ml, y
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.16.5. La leche deberá almacenarse, distribuirse y expenderse en condiciones de refrigeración a una temperatura adecuada que mantenga las características sanitarias correspondientes.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.17. El etiquetado de los envases de la leche pasteurizada, ultrapasteurizada, evaporada, condensada azucarada, deshidratada, combinada, reconstituida o recombinada, deberá incluir lo siguiente:
+G.G. 1 DE DICIEMBRE DE 2010.
 
-III.4.17.1. Denominación, de acuerdo con lo establecido en la norma correspondiente;
+DECRETO NÚMERO 232, POR EL QUE SE REFORMAN LOS ARTÍCULOS 62; 97 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO. SE ADICIONAN UN CUARTO PÁRRAFO AL ARTÍCULO 97; LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 237 Y LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 309 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-III.4.17.2. Declaración de ingredientes en orden de predominio cuantitativo, excepto cuando se trate de la leche pasteurizada o ultrapasteurizada sin sabor;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.17.3. Contenido de Vitamina A expresado en µg equivalentes de retinol por litro o por porción, excepto en leche entera y leche condensada azucarada;
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.4.17.4. Fecha de caducidad, con letra o número, como sigue:
+TERCERO.- Los procesos penales por delitos respecto de los cuales el presente Decreto establece que el Ministerio Público se abstendrá de ejercer la acción penal, serán sobreseídos conforme a las disposiciones aplicables, sin perjuicio de que las partes hagan valer sus derechos a través de los Oficiales Mediadores-Conciliadores de los Municipios, o en la vía civil.
 
-a. Leche pasteurizada: día, mes y año y
+CUARTO.- Los ayuntamientos de los municipios del Estado de México, harán las adecuaciones correspondientes a la reglamentación aplicable y emitirán las medidas necesarias, para garantizar el cumplimiento de este Decreto, en un plazo no mayor a un año, contando a partir de la fecha de su entrada en vigor.
 
-b. Leche ultrapasteurizada: mes y año;
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-III.4.17.5. Identificación del lote, y
+SEXTO.- El titular del Poder Ejecutivo del Estado de México realizará las adecuaciones que resulten pertinentes al Reglamento de Tránsito del Estado de México, conforme a las disposiciones del presente Decreto.
 
-III.4.17.6. Las siguientes leyendas de conservación, según se trate de:
+G.G. 1 DE DICIEMBRE DE 2010.
 
-a. Leche pasteurizada: "Manténgase en refrigeración" o "Consérvese en refrigeración", o una equivalente,
+DECRETO NÚMERO 233, POR EL QUE SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 299 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-b. Leche ultrapasteurizada, evaporada y condensada azucarada: "Manténgase en lugar fresco y seco", "No requiere refrigeración en tanto no se abra el envase", o leyendas equivalentes y
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-c. Leche deshidratada: "Manténgase bien tapada, en lugar fresco y seco", o una equivalente.
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.5. Quesos.
+G.G. 9 DE DICIEMBRE DE 2010.
 
-III.5.1. La leche que se utilice en la elaboración de quesos deberá ser pasteurizada o de hatos libres de tuberculosis y brucelosis, para los que se apliquen sistemas de control del proceso y que demuestren mediante análisis microbiológicos, fisicoquímicos y sensoriales que es apta para consumo humano, sin perjuicio de las demás disposiciones aplicables.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.5.2. El queso que se venda a granel, deberá conservarse en forma sanitaria y protegerse del polvo y contaminantes.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.5.3. Los quesos podrán ser cubiertos con ceras preparadas con o sin color u otras que los protejan de contaminación.
+G.G. 4 DE MARZO DE 2011.
 
-III.5.4. El queso procesado que se ostente con una denominación que corresponda a un queso madurado de una sola variedad y denominación de origen deberá contener en la mezcla no menos de 60% de este queso y el resto de otros quesos.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.5.5. Los quesos podrán elaborarse de:
+SEGUNDO.- Las disposiciones contenidas en el artículo 9 del Código Penal, seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia.
 
-III.5.5.1. Leche entera;
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.5.5.2. Leche parcialmente descremada;
+G.G. 15 DE MARZO DE 2011.
 
-III.5.5.3. Leche semidescremada;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.5.5.4. Leche descremada;
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.5.5.5. Crema, y
+G.G. 18 DE MARZO DE 2011.
 
-III.5.5.6. Doble crema.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-En la denominación del queso deberá destacarse la clase de leche utilizada, según su origen animal.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.5.6. El queso podrá ser madurado y por su consistencia, se clasificará en duro, semiduro o blando.
+TERCERO.- Los hechos delictuosos cometidos con anterioridad a la entrada en vigor del presente Decreto, serán sancionados de conformidad con las disposiciones vigentes en la fecha de su comisión.
 
-III.5.7. El queso con base en la materia empleada, sus componentes, sus procedimientos de elaboración y lugar de origen podrá considerarse como original, genuino y tipo.
+CUARTO.- La Procuraduría General de Justicia del Estado de México, dentro del plazo de seis meses siguientes a la entrada en vigor de este Decreto, de acuerdo con las disposiciones administrativas que rigen su organización interna y en términos de su presupuesto, instalará módulos para la recepción de denuncias y querellas relacionados con delitos cometidos en el transporte público de pasajeros.
 
-III.5.8. La denominación específica del queso, sea nacional o extranjero, por su técnica de elaboración y composición se ajustará a lo que se establezca en las normas correspondientes.
+Asimismo, diseñará y pondrá en marcha campañas preventivas, en coordinación con las autoridades competentes, orientadas a inhibir el delito de acoso en el transporte público de pasajeros.
 
-III.5.9. En la fabricación de quesos, no se podrán utilizar los siguientes productos:
+QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la capacitación a la que deberán sujetarse los jueces y magistrados con especialización en violencia de género y adscribirá a cada región judicial los que sean necesarios conforme a la demanda del servicio.
 
-III.5.9.1.Sustancias grasas no propias de la leche utilizada;
+SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días, contados a partir de la publicación del presente Decreto.
 
-III.5.9.2. Fécula, y
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
 
-III.5.9.3. Hierbas u otros productos para cuajar leche, diferentes a los establecidos en este Reglamento y la normatividad aplicable.
+G.G. 31 DE MARZO DE 2011.
 
-III.5.10. En la elaboración de los quesos frescos, añejos y procesados se podrán utilizar los siguientes ingredientes:
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.5.10.1. Especias, condimentos, (incluyendo chiles) (Capsicum annum L. sp) y adobo procesado térmicamente;
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-III.5.10.2. Vegetales, frutas, carne y mariscos procesados térmicamente, en cantidad no mayor de 10%, y
+TERCERO.- La integración del Consejo Directivo y la designación del Director General del Sistema de Transporte Masivo del Estado de México, deberán realizarse dentro de los 45 días hábiles siguientes a la entrada en vigor del presente Decreto.
 
-III.5.10.3. Mezcla de dos o más de los ingredientes anteriores en cantidad no mayor de 10%.
+CUARTO.- El Sistema de Transporte Masivo del Estado de México aplicará las disposiciones reglamentarias vigentes en lo que no se oponga a lo establecido por el presente Decreto, hasta en tanto se expidan las que habrán de sustituirlas.
 
-III.5.11. El etiquetado de los quesos deberá ostentar:
+QUINTO.- El Sistema de Transporte Masivo del Estado de México se regirá por las disposiciones que correspondan del Reglamento Interior de la Secretaría de Comunicaciones, que no contravengan lo previsto en este Decreto, en tanto se expide su reglamento interior.
 
-III.5.11.1. La indicación del tipo de leche y el origen animal de las mismas, y
+SEXTO.- El Consejo Directivo del Sistema de Transporte Masivo del Estado de México, en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir el Reglamento Interior.
 
-III.5.11.2. El porcentaje mínimo de grasa butírica, proteína y el máximo de humedad.
+SÉPTIMO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se transferirán al Sistema de Transporte Masivo del Estado de México, en los términos que establezcan las secretarías de Comunicaciones y de Finanzas, en sus respectivos ámbitos de competencia.
 
-III.5.12. El suero de queso de acuerdo con su elaboración se clasifica como suero dulce o suero ácido, puede o no ser desmineralizado.
+OCTAVO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos a la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones que pasen a formar parte del Sistema de Transporte Masivo del Estado de México.
 
-III.6. Mantequillas.
+NOVENO.- A partir de la fecha de entrada en vigor del presente Decreto, se subrogan al Sistema de Transporte Masivo del Estado de México, los derechos y obligaciones de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones.
 
-III.6.1. La mantequilla no deberá contener menos de 80% de grasa de leche y no más de 16% de humedad.
+DÉCIMO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por el Sistema de Transporte Masivo del Estado de México, de conformidad con las atribuciones que le confiere el presente Decreto.
 
-III.6.2. La mantequilla de suero de queso no deberá contener menos de 80% de grasa de leche y no más de 16% de humedad.
+DÉCIMO PRIMERO.- Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor de la Dirección General de Infraestructura para el Transporte de Alta Capacidad de la Secretaría de Comunicaciones, se entenderán transferidos o aplicables al Sistema de Transporte Masivo del Estado de México a partir de la fecha de entrada en vigor del presente Decreto.
 
-III.6.3. En la elaboración de las mantequillas se podrán utilizar los siguientes ingredientes:
+DÉCIMO SEGUNDO.- A partir de la fecha de entrada en vigor del presente Decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia a la Dirección General de Infraestructura para el Transporte de Alta Capacidad o al Director General de Infraestructura para el Transporte de Alta Capacidad, se entenderá al Sistema de Transporte Masivo del Estado de México y al Director General del Sistema de Transporte Masivo del Estado de México, respectivamente.
 
-III.6.3.1. Mantequilla de suero de queso y grasa butírica anhidra;
+DÉCIMO TERCERO.- Las Secretarías de Comunicaciones, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el funcionamiento del Sistema de Transporte Masivo del Estado de México.
 
-III.6.3.2. Sal, en cantidad no mayor de 3% cuando se trate de mantequilla salada;
+DÉCIMO CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente Decreto.
 
-III.6.3.3. Cultivos lácticos de Streptococcus lactis, Streptococcus cremoris, Streptococcus diacetylactis, Streptococcus heterofermentativos y Leuconostoc sp, y
+DÉCIMO QUINTO.- El Programa Estatal de Publicidad Exterior deberá ser expedido por la Secretaría de Comunicaciones en un plazo máximo de cuatro meses contados a partir de la publicación del presente Decreto.
 
-III.6.3.4. Especias, condimentos y otros ingredientes permitidos en este Reglamento y en las normas correspondientes.
+DÉCIMO SEXTO.- Los permisos y autorizaciones en materia de publicidad exterior, vigentes al entrar en vigor las reformas serán respetados en sus términos hasta la conclusión del plazo por el que fueron otorgados. El Programa Estatal de Publicidad Exterior fijará los lineamientos para el otorgamiento de plazos adicionales de vigencia, cuando ello sea procedente.
 
-III.6.4. El etiquetado de la mantequilla y de la mantequilla de suero, deberá contener lo siguiente:
+G.G. 12 DE AGOSTO DE 2011.
 
-III.6.4.1. La mención de si es de suero, en su caso, y
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.6.4.2. La especie o especies animales de las cuales procedan las leches empleadas en su elaboración.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.6.5. La mantequilla y la mantequilla de suero de queso, para su venta al público, deberán estar protegidas contra la contaminación con envolturas, empaques o envases.
+TERCERO.- El Sistema para el Desarrollo Integral de la Familia del Estado de México, con el objeto de cumplir con lo dispuesto en la fracción XXI del artículo 18 de la Ley para la Protección de los Derechos de las Niñas, Niños y Adolecentes (sic) del Estado de México, dispondrá de un plazo de seis meses contados a partir de la publicación del presente decreto para desarrollar la base de datos correspondientes.
 
-III.6.6. El suero de mantequilla podrá ser vendido para consumo humano, envasado en la misma forma que la leche o la leche deshidratada, según corresponda.
+G.G. 19 DE AGOSTO DE 2011.
 
-Las etiquetas de los envases de suero de mantequilla deberán contener los siguientes datos:
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.6.6.1. La denominación del producto de acuerdo con su clasificación;
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.6.6.2. La mención de que el producto está pasteurizado;
+G.G. 1 DE SEPTIEMBRE DE 2011.
 
-III.6.6.3. El contenido de sólidos no grasos de la leche;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.6.6.4. La fecha de caducidad, y
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.6.6.5. La identificación del lote.
+TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
-III.6.7. La grasa butírica no deberá contener menos de 99,3% de grasa de leche y no más de 0,5% de humedad. El producto final no deberá contener más de 10 UFC/g de organismos coliformes totales y un máximo de 20 UFC/g de mohos y levaduras.
+CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
 
-III.6.8. En la elaboración de grasa butírica anhidra, se podrán utilizar como antioxidantes, cualquier combinación de galatos de propilo, octilo y dodecilo con butil hidroxianisol (BHA) o butil hidroxitolueno (BHT) o ambos, en cantidades no mayores de 0,02%, siempre y cuando los galatos no sobrepasen la cantidad de 0,01%.
+G.G. 2 DE SEPTIEMBRE DE 2011.
 
-III.7. Crema.
+###### ARTÍCULO PRIMERO.
 
-III.7.1. La crema se clasifica en:
+Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.7.1.1. Crema, la que contiene un 30% de grasa de leche;
+###### ARTÍCULO SEGUNDO.
 
-III.7.1.2. Crema extra grasa, la que no contiene menos de 35% de grasa de leche;
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.7.1.3. Crema cultivada, aquélla cuya acidez proviene únicamente de la presencia de cultivos de bacterias lácticas, con un contenido no menor de 30% de grasa y un mínimo de acidez de 0,5% expresado en ácido láctico;
+###### ARTÍCULO TERCERO.
 
-III.7.1.4. Crema acidificada, la que se obtiene al agregar agentes acidulantes, que puede contener o no cultivos de bacterias lácticas, y cuyo contenido de grasa y acidez deberá corresponder a la de la crema cultivada;
+El concepto del cuerpo del delito y las disposiciones que le resulten compatibles, seguirán aplicándose para la vigencia del sistema de justicia penal anterior al sistema acusatorio penal; en los términos de los artículos Segundo y Sexto Transitorios del Código de Procedimientos Penales para el Estado, contenido en el Decreto 266, publicado en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, el nueve de febrero de 2009, modificados mediante Decretos 289 y 3 de fecha treinta de julio y treinta de septiembre del dos mil nueve.
 
-III.7.1.5. Media crema, la que no contiene menos de 20% de grasa de leche;
+###### ARTÍCULO CUARTO.
 
-III.7.1.6. Crema ligera o crema ligera para café, la que no contiene menos de 14% de grasa de leche;
+Los recursos de apelación admitidos antes de la entrada en vigor del presente Decreto, se substanciarán conforme a las disposiciones anteriores al mismo.
 
-III.7.1.7. Crema para pastelería, a la que se le ha agregado azúcar y que no debe contener menos de 20% de grasa de leche;
+G.G. 6 DE SEPTIEMBRE DE 2011.
 
-III.7.1.8. Crema para batir, la que no contiene menos de 30% de grasa de leche;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.7.1.9. Crema extra grasa para batir, la que no contiene menos de 35% de grasa de leche, emulsivos y espesantes, y
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.7.1.10. Crema dulce de mantequilla en polvo, la obtenida por deshidratación del concentrado de suero de mantequilla dulce, que no debe contener menos de 7% de grasa butírica, ni menos de 30% de proteína, y no más de 4% de humedad.
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-III.7.2. El etiquetado de las cremas deberá ostentar lo siguiente:
+G.G. 26 DE OCTUBRE DE 2011.
 
-III.7.2.1. La indicación de que el producto está pasteurizado, ultrapasteurizado o esterilizado;
+DECRETO NÚMERO 362 POR EL QUE SE REFORMA LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN IV RECORRIÉNDOSE EN SU ORDEN LA ACTUAL PARA PASAR A SER V DEL ARTÍCULO 132 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-III.7.2.2. La especie o especies de animales de la cual proceda;
+###### ARTÍCULO PRIMERO.
 
-III.7.2.3. El porcentaje mínimo que contiene de grasa de la leche utilizada;
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.7.2.4. Cuando se trate de crema pasteurizada, la leyenda: "Manténgase en refrigeración" o "Consérvese en refrigeración", o una equivalente;
+###### ARTÍCULO SEGUNDO.
 
-III.7.2.5. Para las cremas sometidas a esterilización comercial la leyenda: "No requiere refrigeración en tanto no se abra el envase", u otra equivalente;
+La presente Ley entrará en vigor a los noventa días hábiles siguientes a la publicación del presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.7.2.6. En el caso de las cremas deshidratadas, la leyenda: "Manténgase en lugar fresco y seco";
+###### ARTÍCULO TERCERO.
 
-III.7.2.7. Fecha de caducidad, y
+La Legislatura del Estado de México deberá destinar la partida presupuestal necesaria para la creación de la Defensoría para Víctimas y Ofendidos del Delito del Estado de México.
 
-III.7.2.8. Identificación del lote.
+###### ARTÍCULO CUARTO.
 
-III.8. Yogur, yogurt o yoghurt.
+La Secretaría General de Gobierno, la Secretaría de Finanzas y la Secretaría de la Contraloría proveerán lo necesario para dar cumplimiento a lo establecido en este Decreto.
 
-III.8.1. No se podrá denominar como yogurt a los productos que lo contengan como uno de sus ingredientes, pero podrá incluirse como parte de su denominación. Estos productos podrán tratarse térmicamente o no.
+###### ARTÍCULO QUINTO.
 
-III.8.2. El etiquetado de los envases de los yogurts deberá contener lo siguiente:
+El Titular del Ejecutivo del Estado y la Legislatura, expedirán las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, que se derivan de esta Ley, en un plazo no mayor a tres meses, posteriores a la entrada en vigor del presente Decreto.
 
-III.8.2.1. La clase de leche que se emplea en su elaboración: entera, parcialmente descremada o descremada, y
+G.G. 26 DE OCTUBRE DE 2011.
 
-III.8.2.2. El porcentaje de grasa de leche que contiene.
+DECRETO NÚMERO 363 POR EL QUE SE REFORMA EL ARTÍCULO 4 Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 9 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-III.9. Helados.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.9.1. El helado se clasifica en:
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.9.1.1. Helado de crema;
+TERCERO.- La Secretaría de Salud del Estado implementará los centros especializados para el tratamiento, atención y rehabilitación de la farmacodependencia, en el término para tal efecto establecido por el párrafo tercero del Artículo Primero Transitorio, del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación del 20 agosto de 2009.
 
-III.9.1.2. Helado de leche, y
+CUARTO.- El presente Decreto surtirá efectos para los sistemas procesales penales mixto y acusatorio, respectivamente, vigentes en el Estado de México.
 
-III.9.1.3. Sorbete.
+G.G. 20 DE DICIEMBRE DE 2011.
 
-III.9.2. Los helados y sorbetes deberán cumplir con las especificaciones siguientes:
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-Componentes Categorías
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Porcentaje mínimo I II III
+TERCERO.- Las autoridades competentes tomarán las medidas necesarias en materia penitenciaria para atender los requerimientos que resulten de la adopción de las penas contempladas en el presente decreto.
 
-Grasa de leche 7,0 2,0 1,0
+G.G. 6 DE ENERO DE 2012.
 
-Sólidos no grasos 7,0 9,0 1,0
+DECRETO NÚMERO 404, POR EL QUE SE ADICIONA EL CAPÍTULO VII Y LOS ARTÍCULOS 166 BIS Y 166 TER AL SUBTÍTULO TERCERO, TÍTULO PRIMERO, LIBRO SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-Sólidos totales 26,0 25,0 15,0
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.9.3. El volumen de aire que se incorpore a los helados o a los sorbetes, se deberá ajustar a la relación que resulte de dividir el volumen del producto expresado en litros, entre la masa del mismo, expresada en kilogramos; relación que no deberá ser de más de 2 y podrá ser igual a 2,2, en caso de que los sólidos totales de estos productos sean superiores a 30%.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.9.4. Los helados y los sorbetes, no deberán pesar menos de 475 g/l.
+G.G. 6 DE ENERO DE 2012.
 
-III.9.5. El etiquetado de los helados deberá ostentar lo siguiente:
+DECRETO NÚMERO 405, POR EL QUE SE REFORMAN LOS ARTÍCULOS 9 Y 253 FRACCIÓN PRIMERA Y SEGUNDO PÁRRAFO, ADICIONANDO UN ÚLTIMO PÁRRAFO AL ARTÍCULO 204 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-III.9.5.1. La denominación, y
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.9.5.2. El porcentaje de grasa y su origen.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.10. Componentes.
+G.G. 6 DE ENERO DE 2012.
 
-III.10.1. Las caseínas y los caseinatos de grado alimentario no deberán rebasar los siguientes límites microbiológicos: bacterias mesofílicas aerobias 10 000 UFC/g; microorganismos termofílicos 5 000 UFC/g; mohos y levaduras 50 UFC/g; coliformes fecales negativo/g; Staphylococcus aureus coagulasa positiva negativo/g, y Salmonella negativa en 25 g.
+DECRETO NÚMERO 406, POR EL QUE SE ADICIONA EL CAPITULO XI IRRUPCIÓN DE EVENTO PUBLICO Y EL ARTICULO 268 QUATER, AL SUBTITULO TERCERO, TITULO TERCERO, LIBRO SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-III.10.2. Las caseínas y los caseinatos de grado alimentario deberán envasarse para su venta, y su etiquetado deberá contener lo siguiente:
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-III.10.2.1. La mención de que el producto fue obtenido de leche pasteurizada;
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.10.2.2. La fecha de caducidad, y
+G.G. 24 DE ABRIL DE 2012.
 
-III.10.2.3. La identificación del lote.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno''.
 
-III.10.3. En la elaboración de las caseínas de grado alimentario, tanto ácidas como lácticas o aquéllas obtenidas por enzimas, se podrá utilizar lo siguiente:
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-III.10.3.1. Para las ácidas: ácidos de grado alimentario como coadyuvantes de la elaboración; ácido láctico, ácido cítrico, ácido acético, ácido clorhídrico, ácido sulfúrico, permitidos en cantidad necesaria;
+G.G. 3 DE MAYO DE 2012.
 
-III.10.3.2. Para las lácticas: cultivos de bacterias lácticas permitidas en cantidad necesaria, y
+DECRETO NÚMERO 440, POR EL QUE SE ADICIONAN EL TERCER Y CUARTO PÁRRAFOS, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 268 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-III.10.3.3. Para las obtenidas con enzimas: cuajo o renina, preparados enzimáticos de Bacillus cereus, Mucor miehei var. Conney y Emerson permitidos en cantidad necesaria.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-IV. Huevo y sus productos.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-IV.1. Para efectos de este apartado, se entiende por:
+G.G. 3 DE MAYO DE 2012.
 
-IV.1.1. Clara deshidratada, al producto obtenido del huevo fresco al que se le ha eliminado la yema y el agua;
+DECRETO NÚMERO 441, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 292 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-IV.1.2. Clara líquida, al producto obtenido del huevo fresco, al que se le ha separado la yema y sometido a pasteurización;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-IV.1.3. Huevo, al producto de la ovulación de la gallina (Gallus domesticus) y de otras especies animales que sean aceptadas para consumo humano, que ha sido sometido a limpieza y, que observado a trasluz o mediante el ovoscopio, aparece completamente claro y sin sombras;
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-IV.1.4. Huevo deshidratado, al producto obtenido del huevo, sin cascarón, pasteurizado, y que se le ha eliminado el agua;
+G.G. 9 DE AGOSTO DE 2012.
 
-IV.1.5. Huevo líquido, al producto obtenido del huevo sin cascarón y sometido a pasteurización;
+DECRETO NÚMERO 460 POR EL QUE SE DEROGAN LOS ARTÍCULOS 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285 Y 286 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-IV.1.6. Huevo fresco, al producto que no tiene más de 24 horas de ovado;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-IV.1.7. Huevo refrigerado, al producto que inmediatamente después de ovado se almacena y mantiene en cámaras de refrigeración;
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-IV.1.8. Yema deshidratada, al producto obtenido de la yema de huevo pasteurizada y a la que se le ha eliminado parcial o totalmente el agua, y
+G.G. 9 DE AGOSTO DE 2012.
 
-IV.1.9. Yema líquida, al producto obtenido del huevo fresco, sin cascarón, al que se le ha eliminado la clara y sometido al proceso de pasteurización.
+DECRETO NÚMERO 461 POR EL QUE SE ADICIONA UN ARTÍCULO 136 BIS AL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V. Carne y sus productos.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.1. Para efectos de este apartado, se entiende por:
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.1.1. Carne y subproductos:
+G.G. 10 DE AGOSTO DE 2012.
 
-a. Canal, al cuerpo del animal desprovisto de piel, cerdas o plumas, cabeza, patas y vísceras,
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-b. Carne, a la estructura compuesta por fibra muscular estriada, acompañada o no de tejido conectivo como hueso, grasa, vasos linfáticos y sanguíneos, así como fibras nerviosas de las especies animales consideradas aptas para consumo humano,
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-c. Subproducto de origen cárnico, al tejido diferente a la carne que incluye a las vísceras, sangre y piel de las especies consideras aptas para consumo humano y
+G.G. 24 DE AGOSTO DE 2012.
 
-d. Vísceras, a los órganos contenidos en las cavidades torácica, abdominal, pelviana, craneana y bucal, de las especies de animales consideradas aptas para consumo humano;
+DECRETO No. 490, POR EL QUE SE REFORMA EL ARTÍCULO 38 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V.1.2. Inspección de carne:
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-a. Inspección antemortem, al procedimiento por el que un médico veterinario zootecnista revisa a los animales dentro del corral de estancia para decidir si se encuentran clínicamente sanos para su sacrificio y
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-b. Inspección postmortem, al procedimiento por el cual el médico veterinario zootecnista examina las canales y las vísceras de los animales sacrificados para decidir si son o no aptos para el consumo humano;
+TERCERO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en los depósitos vehiculares al momento de la entrada en vigor del presente Decreto, se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
 
-V.1.3. Rechazos:
+CUARTO.- En un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
 
-a. Rechazo parcial, a la separación de animales, canales, carne, vísceras o sus partes y productos cárnicos o sus partes, que presenten alteraciones patológicas o características indeseables en forma localizada, de modo que las partes que no presenten dicha alteración puedan ser aprovechadas,
+QUINTO.- Noventa días naturales a partir de la entrada en vigor de la presente reforma, todos los vehículos que los concesionarios tengan bajo su resguardo, por más de dos años, serán susceptibles de ser incluidos en el procedimiento de declaración de abandono para los efectos de enajenación previsto, por lo que deberán informar a la Secretaría del Transporte de tal situación, con excepción de los vehículos que tengan reporte de robo, números remarcados o alterados, porten placas de procedencia extranjera, los cuales deberán hacer del conocimiento al Ministerio Público para que determine lo procedente.
 
-b. Rechazo total, a la separación de animales, canales, carne, vísceras o sus partes y productos cárnicos que no son aptos para consumo humano y
+SEXTO.- Los Oficiales Mediadores Conciliadores contarán con un plazo improrrogable de dos años siguientes a la entrada en vigor del presente Decreto, para certificarse por el Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado de México.
 
-c. Sospechoso, al animal, canal, carne, vísceras, y producto cárnico o sus partes que pueda representar un riesgo para la salud y requiera de reinspección sanitaria por parte del médico veterinario o bien de pruebas diagnósticas para definir su destino final;
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México en un plazo máximo de dos meses posteriores a la entrada en vigor del presente Decreto, depurará todos los vehículos que se encuentren a su disposición en los depósitos vehiculares y que por algún motivo sus propietarios, durante un año no los han reclamado, no se ha acreditado su propiedad, se encuentren remarcados; adicionalmente, revisarán las averiguaciones previas que se encuentren en reserva con la finalidad de determinar si ha operado la prescripción de la acción penal y en aquellas que se haya decretado el no ejercicio de la acción penal, con la finalidad de emitir la Declaratoria de abandono en favor del Estado en términos de la presente reforma.
 
-V.1.4. Establecimientos:
+OCTAVO.- En un plazo no mayor a seis meses, la Procuraduría General de Justicia del Estado de México, establecerá un depósito vehicular en la Zona Oriente del Estado de México.
 
-a. Empacadora de carne, al establecimiento destinado al proceso de productos de la carne,
+NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
 
-b. Obrador de tocinería, al establecimiento dedicado a la separación de las diferentes porciones de la canal de cerdo, con o sin la obtención de derivados de la carne, para la elaboración de frituras y obtención de manteca de cerdo y
+G.G. 24 DE AGOSTO DE 2012.
 
-c. Rastro o matadero, al establecimiento dedicado al sacrificio y faenado de los animales en condiciones humanitarias, así como, en su caso, a su industrialización, y
+DECRETO No. 499, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO IV Y EL ARTÍCULO 211 DEL SUBTÍTULO CUARTO, TÍTULO SEGUNDO, LIBRO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN Y NUMERACIÓN EL ACTUAL CAPÍTULO Y ARTÍCULO PARA SER CAPÍTULO V Y ARTÍCULO 211 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V.1.5. Productos y derivados de carne:
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-a. Producto cárnico cocido, al elaborado a base de carne de animales considerados aptos para consumo humano, sometido a un tratamiento térmico hasta alcanzar una temperatura mínima de 68°C en su centro térmico,
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-b. Producto cárnico curado, al elaborado a base de carne de animales considerados aptos para consumo humano, sometido a la acción de los agentes de curación,
+G.G. 31 DE AGOSTO DE 2012.
 
-c. Producto cárnico curado y cocido, al elaborado a base de carne de animales considerados aptos para consumo humano, sometido a la acción de los agentes de curación y a un tratamiento térmico hasta alcanzar una temperatura mínima de 68°C en su centro térmico,
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-d. Producto cárnico curado, emulsionado y cocido, al elaborado con carne, vísceras y subproductos de animales considerados aptos para consumo humano, que ha sido sometido a la acción de agentes de curación, mezclado con agua, hielo y otros aditivos para alimentos e ingredientes hasta lograr una dispersión homogénea y estable, así como a un tratamiento térmico hasta alcanzar una temperatura mínima de 68°C en su centro térmico. Puede embutirse en tripa natural o sintética,
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-e. Producto cárnico curado y madurado, al elaborado con cortes definidos de animales considerados aptos para consumo humano, sometido a la acción de agentes de curación y madurado por cierto tiempo,
+TERCERO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, dispondrán lo necesario para que los agentes de tránsito sean mujeres.
 
-f. Producto cárnico salado, al elaborado con carne de animales considerados aptos para consumo humano, que es desecado por la acción de la sal y
+CUARTO.- El Titular del Ejecutivo del Estado y los Ayuntamientos, proveerán en su esfera administrativa el cumplimiento del presente Decreto.
 
-g. Producto cárnico troceado, al elaborado a base de carne de animales considerado apto para consumo humano, que ha sido cortado o picado hasta lograr trozos no menores de 2 mm y sometido o no a la acción de agentes de curación.
+QUINTO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, deberán contar con las terminales electrónicas establecidas en el presente Decreto.
 
-V.2. Sólo podrá ingresar personal ajeno a las instalaciones de matanza, faenado de canales y limpieza de vísceras con la autorización del propietario o encargado de las mismas.
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
-V.3. Los corrales de los animales enfermos, sospechosos o que no puedan destinarse al consumo humano, deberán desinfectarse primero con agua y jabón y posteriormente con desinfectantes como: creolina o ácido muriático. No se permitirá la entrada antes de haber eliminado los residuos de dichos desinfectantes.
+G.G. 21 DE FEBRERO DE 2013.
 
-V.4. El médico veterinario zootecnista deberá solicitar, de conformidad con la norma correspondiente, la investigación de laboratorio que estime necesaria para determinar el destino final de los animales que lleguen enfermos.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.5. La inspección antemortem no deberá ser el único criterio para considerar a un animal como apto para consumo humano, aunque sí podrá serlo para la destrucción de un animal.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.6. La inspección antemortem, podrá ser suficiente para decidir el destino final de la canal y subproductos. Esta inspección se deberá hacer dentro del corral de estancia y se dividirá a los animales en tres grupos, que se alojarán en corrales separados, de conformidad con los siguientes criterios:
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-V.6.1. Animales aptos, son los clínicamente sanos, que deberán sacrificarse en las salas de matanza normal y someterse a inspección postmortem en las áreas donde se elabora el alimento para consumo humano;
+G.G. 22 DE FEBRERO DE 2013.
 
-V.6.2. Animales enfermos o sospechosos, son los que presentan signos clínicos, como claudicación, disnea, trastornos gastrointestinales, que podrán ser tratados y, una vez sanos, todo el animal o parte de él, podrá recuperarse para consumo humano. El médico veterinario zootecnista responsable determinará el tiempo en que deberán sacrificarse para que eliminen los medicamentos de los tejidos. Los animales muertos en este corral, deberán considerarse como retenidos o rechazados, y
+DECRETO NÚMERO 53, POR EL QUE SE REFORMA EL ARTÍCULO 204 EN SU FRACCIÓN I; Y SE ADICIONA EL ARTÍCULO 136 TER, EL CAPÍTULO XIX DENOMINADO VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS, AL SUBTITULO SEGUNDO INTITULADO DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA, DEL TÍTULO PRIMERO DENOMINADO DELITOS CONTRA EL ESTADO, DEL LIBRO SEGUNDO, EL ARTÍCULO 148 BIS Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 204 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V.6.3. Animales rechazados, son los mantenidos en confinamiento, por presententar (sic) signos clínicos de enfermedades que sean un riesgo para la salud o que sean propagadores de enfermedades de notificación obligatoria.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-Dentro de los signos clínicos a que se refiere el punto V.6.3., se encuentran los siguientes: emaciación extrema, diarrea acuoso verdosa, pirexia, vesículas y úlceras en hocico y espacios interdigitales, alteraciones nerviosas, disnea intensa inspiratoria y expiratoria, afectación masiva del aparato respiratorio, aumento generalizado de los ganglios linfáticos; además, animales ictéricos y otros que considere el médico veterinario zootecnista.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.7. Los animales introducidos en las áreas de sacrificio, deberán sacrificarse inmediatamente, y el faenado deberá realizarse con el animal suspendido. En ningún caso deberá entrar en contacto con el piso, para lo que habrá de disponerse de una red de rieles aéreos.
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
 
-V.8. Las operaciones de insensibilización, sangrado, desollado y eviscerado, así como el escaldado, depilado, raspado y chamuscado de cerdos, no se deberán efectuar en áreas próximas a otras operaciones más limpias.
+CUARTO.- Los Ayuntamientos realizarán el refrendo a más tardar el 30 de abril de 2013, en el cual, autorizarán el horario de funcionamiento en los términos de este Decreto, únicamente por lo que corresponde a este año, ya que los subsecuentes años deberá de hacerse dentro de los primeros tres meses.
 
-Los tanques de escaldado deberán vaciarse y llenarse de agua potable diariamente.
+QUINTO.- Para dar cumplimiento a lo establecido por las fracciones I y ll del artículo 2.47 Ter del Código Administrativo del Estado de México, los propietarios o poseedores de establecimientos mercantiles donde se vendan o suministren bebidas alcohólicas, contarán con un plazo máximo que no deberá exceder del 30 de junio de 2013.
 
-V.9. En la inspección postmortem se revisarán la canal y las vísceras, y quedará a juicio del médico veterinario zootecnista la realización de exámenes microbiológicos y toxicológicos.
+SEXTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
-La inspección postmortem deberá incluir la inspección visual, palpación e incisión, así como tomar en cuenta el olor en ciertos casos.
+G.G. 22 DE FEBRERO DE 2013.
 
-En todas las especies de mamíferos se deberán verificar la cabeza; pulmones; corazón; hígado; estómago; intestinos; bazo; útero; riñón; glándula mamaria; testículos; los siguientes ganglios linfáticos: submaxilares, prepectorales, preescapulares, lumbares, crurales, iliacos, supramamarios, renales, así como otros órganos y grupos ganglionares.
+DECRETO NÚMERO 55, POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 166 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-La falta de alguno de estos órganos tendrá como consecuencia que el animal no podrá destinarse para el consumo humano.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.10. Una vez obtenidos los resultados de las inspecciones antemortem y postmortem, se podrá emitir el dictamen definitivo sobre el destino de los productos en el que se deberá indicar, en su caso, el rechazo total o parcial de éstos.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.11. En caso que se determinen enfermedades infectocontagiosas durante la inspección postmortem, todo el equipo que hubiera entrado en contacto con la canal o las vísceras deberá desinfectarse inmediatamente con soluciones de hidróxido de sodio al 5%, lejía o cualquier otro desinfectante adecuado.
+G.G. 25 DE FEBRERO DE 2013.
 
-V.12. Las canales de los animales provenientes de otros rastros, deberán inspeccionarse a fin de determinar su destino final.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.13. Sólo deberá permitirse el empleo de mangueras suspendidas para el lavado final de las canales tras la evisceración, siempre que no provoque salpicaduras al resto de las canales.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Las canales se deberán lavar inmediatamente después de la inspección postmortem y antes de entrar al frigorífico.
+TERCERO.- La Procuraduría General de Justicia del Estado de México emitirá los Protocolos en materia de técnicas de investigación en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
 
-V.14. Las aves para consumo humano deberán estar libres de deformaciones, heridas, laceraciones o cualquier otra forma que afecte su integridad.
+G.G. 3 DE MAYO DE 2013.
 
-V.15. Las manipulaciones que se efectúen en las aves, deberán llevarse a cabo con higiene y sin alterar las características sanitarias. A fin de evitar la contaminación microbiológica, sólo podrán realizarse las siguientes:
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.15.1. Sacrificio y sangrado. Se asegurará que en el sacrificio los buches de las aves estén vacíos, para lo cual no se les deberá alimentar durante las doce horas anteriores al sacrificio. El sangrado deberá ser completo;
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.15.2. Escaldado. Se deberá realizar después del sangrado y se sumergirá al ave en un tanque escaldador;
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Decreto.
 
-V.15.3. Evisceración. Se eliminarán las vísceras, los residuos de sangre o materias extrañas y se lavará externamente el ave con agua potable, conforme a la norma correspondiente, y
+G.G. 17 DE JULIO DE 2013.
 
-V.15.4. Troceado. Se dividirá el cuerpo del ave en mitades, cuartos o piezas y se separará el cuello, tarsos y alas.
+DECRETO NÚMERO 108, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO RECORRIÉNDOSE LOS SUBSECUENTES Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 229 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V.16. La inspección postmortem de las aves deberá comprender la cabeza, esófago, buche, proventrículo, molleja, duodeno, válvula ileocecal, hígado, bolsa de fabricio y la canal.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.17. Los productos rechazados deberán retirarse sin cruzar las líneas de sacrificio y se utilizará un recorrido que las conduzca directamente a la zona de almacenamiento de los mismos.
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.18. En el ascenso y descenso de las canales a los transportes sanitarios se evitará que entren en contacto con el piso o cualquier otra superficie contaminante.
+G.G. 17 DE JULIO DE 2013.
 
-V.19. Los vehículos de transporte deberán lavarse diariamente por dentro y por fuera y no deberá acumularse detritus. Dichos vehículos se lavarán primero con agua caliente o a presión, seguida de la aplicación de un desinfectante como hipoclorito de sodio o soluciones de yodo, y se enjuagarán cuantas veces sea necesario a fin de eliminar residuos.
+DECRETO NÚMERO 110, POR EL QUE SE ADICIONA EL CAPÍTULO XX DENOMINADO "IMPARTICIÓN ILÍCITA DE EDUCACIÓN" AL LIBRO SEGUNDO, TÍTULO PRIMERO DE LOS DELITOS CONTRA EL ESTADO, SUBTÍTULO SEGUNDO INTITULADO DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA, EL ARTÍCULO 148 TER Y AL ARTÍCULO 176 UNA FRACCIÓN IV AL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V.20. No se podrán transportar en un mismo vehículo carnes y productos rechazados, a menos que se evite el contacto entre ellos, mediante el empleo de recipientes cerrados debidamente identificados conforme se establezca en las normas correspondientes.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.21. Los procesos de inspección antemortem, eviscerado, inspección postmortem y refrigerado deberán realizarse conforme a los siguientes tiempos:
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.21.1. Inspección antemortem: máximo veinticuatro horas antes del sacrificio;
+G.G. 18 DE JULIO DE 2013.
 
-V.21.2. Eviscerado: después del sacrificio e inmediatamente después del escaldado, despielado o desplumado;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.21.3. Inspección postmortem: inmediatamente después del eviscerado, y
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días naturales, siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.21.4. Refrigerado: inmediatamente después de la inspección postmortem.
+G.G. 20 DE AGOSTO DE 2013.
 
-Las canales deberán estar cubiertas con una manta limpia al entrar al refrigerador y deberán permanecer en éste de dieciséis a veinticuatro horas, a una temperatura de 4ºC, de conformidad con la norma correspondiente.
+DECRETO NÚMERO 124 POR LO QUE SE REFORMAN LOS ARTÍCULOS 69 EN SU PÁRRAFO PRIMERO Y 289 EN SUS FRACCIONES I, II, III, IV Y V DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V.22. Las bolsas de polietileno u otro material permitido, que se utilicen para envasar o empacar carne, vísceras u otras partes comestibles en el rastro, deberán ostentar el nombre y ubicación del rastro y, en el caso de productos no congelados, la fecha de matanza.
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.23. La evisceración se deberá realizar, como máximo, treinta minutos después de la sangría.
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Se deberán adoptar medidas para impedir la contaminación de la canal por el contenido intestinal.
+G.G. 20 DE AGOSTO DE 2013.
 
-En la evisceración, el esófago y recto deberán ser previamente ligados para evitar contaminar las carnes.
+DECRETO NÚMERO 125 POR LO QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 242; EL ARTÍCULO 266; EL PÁRRAFO PRIMERO DEL ARTÍCULO 273; LA FRACCIÓN I DEL ARTÍCULO 274 Y LA FRACCIÓN IV DEL ARTÍCULO 290. SE ADICIONAN LA FRACCIÓN IV AL ARTÍCULO 242 Y UNA FRACCIÓN V AL ARTÍCULO 245, TODOS DEL CÓDIGO PENAL DE ESTADO DE MÉXICO.
 
-V.24. La manipulación de carnes y vísceras en las empacadoras de carne se deberá efectuar sobre mesas de material impermeable y acero inoxidable.
+Primero.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.25. El traslado de la carne como materia prima o industrializada en el interior del establecimiento se deberá realizar en recipientes de material sanitario.
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.26. En los obradores de tocinería se procesarán únicamente los productos alimenticios que a continuación se establecen:
+G.G. 20 DE AGOSTO DE 2013.
 
-V.26.1. La manteca, que es el producto que resulta de la fusión de las grasas del cerdo;
+DECRETO NÚMERO 126 POR LO QUE SE REFORMAN EL ARTÍCULO 152, EL PÁRRAFO CUARTO DEL ARTÍCULO 292 Y SE DEROGAN EL PÁRRAFO QUINTO DEL ARTÍCULO 292 Y LA FRACCIÓN IV DEL ARTÍCULO 293 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V.26.2. El chicharrón, que es el producto que resulta de la fritura que se hace de la piel del cerdo, y
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.26.3. Las carnes fritas o frituras, que son los productos que resultan de freír la carne del cerdo y sus vísceras y, en su caso, prensarlas.
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.27. La fusión de las grasas, así como el destazado de canales de animales sacrificados podrán llevarse a cabo en las empacadoras de carnes frías, siempre y cuando sea en áreas separadas de las destinadas a la elaboración y envasado.
+TERCERO.- A las conductas realizadas con anterioridad al presente Decreto se aplicarán las disposiciones que en su momento estaban en vigor.
 
-V.28. En los establecimientos dedicados a la obtención de manteca de cerdo deberán existir las siguientes áreas:
+CUARTO.- El Ejecutivo del Estado, a través del Centro de Prevención del Delito, dará la más amplia difusión posible a lo contenido en el presente Decreto.
 
-V.28.1. La destinada a la separación de la grasa de las diferentes porciones del animal, y
+G.G. 12 DE NOVIEMBRE DE 2013.
 
-V.28.2. La de fusión de las grasas propiamente dichas para la elaboración del producto.
+DECRETO NÚMERO 155 POR LO QUE SE DEROGAN EL CAPÍTULO IX Y SU DENOMINACIÓN, DEL SUBTÍTULO QUINTO, DEL TÍTULO SEGUNDO, DEL LIBRO SEGUNDO Y LOS ARTÍCULOS 222 Y 223 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-Si las carnes de los cerdos se conservan en el establecimiento, deberán mantenerse en refrigeradores debidamente acondicionados.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.29. Las áreas de los establecimientos dedicados a la obtención de manteca de cerdo deberán tener las condiciones que se establecen para los obradores.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.30. Las áreas de frituras y obtención de grasas deberán contar con la instalación conveniente de hornos de mampostería, paila de hierro provista de tiro u otro método moderno para la elaboración de mantecas y frituras.
+G.G. 12 DE NOVIEMBRE DE 2013.
 
-La manteca se deberá enfriar en lugares especialmente destinados a ello y no se podrá llevar a cabo el tendido en áreas abiertas.
+DECRETO NÚMERO 158 POR LO QUE SE ADICIONAN EL CAPÍTULO XV BIS DENOMINADO DE LOS DELITOS CONTRA EL SERVICIO PÚBLICO Y DISTRIBUCIÓN DEL AGUA, AL SUBTÍTULO SEGUNDO DEL TÍTULO PRIMERO DEL LIBRO SEGUNDO CON LOS ARTÍCULOS 145 BIS, 145 TER, 145 QUATER Y 145 QUINQUIES AL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V.31. Los expendios de carnes y vísceras, deberán contar como mínimo, con los siguientes muebles y utensilios, los cuales deberán lavarse diariamente:
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.31.1. Unidades de refrigeración con capacidad suficiente para que toda la carne y las vísceras permanezcan colgadas o en recipientes adecuados lavables; en ningún caso dichos alimentos podrán estar en contacto con el piso o las paredes y las perchas deberán ser de hierro o de cualquier material que se establezca en las normas correspondientes;
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
 
-V.31.2. Vitrinas refrigeradas con la capacidad suficiente para guardar carne y vísceras;
+TERCERO.- Las autoridades en materia de agua, entregarán conjuntamente con el permiso, la tarifa autorizada para el año correspondiente a los permisionarios.
 
-V.31.3. Mostrador de cubierta de material liso e impermeable;
+CUARTO.- Dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto, las autoridades en materia de agua entregarán a los permisionarios de distribución de agua las tarifas autorizadas por el resto del año 2013, para ser exhibidas al consumidor en el camión cisterna.
 
-V.31.4. Superficie para el corte de la carne que no sea de madera;
+QUINTO.- El Gobernador y las autoridades del agua, en la esfera administrativa de su competencia, proveerán lo necesario para el debido cumplimiento del presente Decreto.
 
-V.31.5. Recipientes para basura, huesos, sebo, entre otros, en número suficiente, de acuerdo con las necesidades del expendio; estos recipientes sólo podrán llenarse hasta el punto en que puedan cerrarse las tapas;
+SEXTO.- Los permisos o autorizaciones que amparan la distribución de agua en pipa, otorgados por las autoridades administrativas antes de la entrada en vigor del presente Decreto, tendrán validez hasta el 31 de diciembre del 2013, por lo que los particulares interesados en la distribución de agua en pipas para el año 2014, deberán solicitar el permiso y el dictamen de factibilidad correspondientes.
 
-V.31.6. Mueble donde puedan colocarse accesorios de limpieza, separados del material que se utilice para envolver mercancía, y
+SÉPTIMO.- Las autoridades en materia de agua, dentro de los quince días naturales a la entrada en vigor del presente Decreto, deberán nombrar a los servidores públicos responsables de supervisar y ejecutar las acciones de desinfección del agua.
 
-V.31.7. Recipientes para basura de material impermeable, los cuales no deberán entrar en contacto directo con la carne o vísceras.
+G.G. 10 DE DICIEMBRE DE 2013.
 
-Las ventanas de estos expendios deberán estar protegidas con tela de mosquitero.
+PRIMERO. Publíquese la (sic) presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.32. Tanto en el expendio como en la unidad de refrigeración, las esquinas no deberán formar ángulos y no deberá existir acumulación de detritus en el primero de ellos.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Las paredes, pisos y techos deberán estar pintados de blanco, con pintura de aceite; los muebles podrán ser de este color o color acero, no podrán utilizarse otros.
+TERCERO. Las instituciones estatales y municipales encargadas de brindar atención a las emergencias difundirán, ampliamente, el contenido del presente Decreto a efecto de fomentar el uso responsable de la ciudadanía en la atención a las contingencias que generan emergencias e inhibir el abuso de dichos medios.
 
-V.33. Para expender vísceras, patas y manteca de cerdo, éstas deberán conservarse en recipientes de material sanitario y mantenerse en unidades de refrigeración por separado de las de carne.
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-V.34. En los expendios de carne de res se podrán comercializar carne de cerdo y de pollo crudo, carnes frías y derivados lácteos, siempre que se encuentren envasados y cumplan con lo siguiente:
+G.G. 22 DE ENERO DE 2014.
 
-V.34.1. Los productos deberán llegar al establecimiento empacados y comercializarse de la misma manera. No podrán existir cerdo o aves en canal, efectuar cortes, ni vender a granel dichos productos;
+DECRETO NO. 185 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 70 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V.34.2. Los productos se exhibirán en unidades de refrigeración, que deberán ser exclusivas para cada tipo de producto;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.34.3. El personal deberá mantenerse aseado, con el pelo recogido, las uñas recortadas, sin bigote y sin ornamentos en las orejas, cuello y manos, con turbante o cuartelera de color blanco, sin manchas o suciedad visible y en buen estado, y
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.34.4. El personal que maneje los alimentos, después de ir al baño y en cada interrupción de labores, deberá lavarse las manos con agua y jabón y secarse con toallas desechables.
+G.G. 22 DE ENERO DE 2014.
 
-V.35. El transporte de vísceras, además de cumplir con los requisitos que señalen las normas correspondientes, deberá realizarse en recipientes de plástico o acero inoxidable de fácil limpieza que puedan cerrarse.
+DECRETO NO. 186 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 137 Y SE ADICIONA EL ARTÍCULO 137 BIS, AMBOS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-Las vísceras y subproductos no deberán tocar el piso o las paredes.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.36. Los productos cárnicos no podrán contener:
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.36.1. Nódulos linfáticos y tejido glandular, con excepción de las glándulas salivales, o
+TERCERO.- El Ejecutivo del Estado proveerá lo necesario para dar cumplimiento al presente Decreto.
 
-V.36.2. Laringe, tráquea, esófago, pulmón, útero, bazo, páncreas o testículos.
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-V.37. Los productos cárnicos salados deberán cumplir con las siguientes especificaciones:
+G.G. 22 DE ENERO DE 2014.
 
-V.37.1. Mohos y levaduras 100 UFC/g;
+DECRETO NO. 196 POR EL QUE SE REFORMAN LOS ARTÍCULOS 9 EN SU PRIMER PÁRRAFO, 30, 136 EN SU ÚLTIMO PÁRRAFO, 240 EN SU INCISO A), 242 BIS, 274 EN SU FRACCIÓN III Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 136, EL CAPÍTULO II BIS DENOMINADO FEMINICIDIO, AL SUBTÍTULO PRIMERO DEL TÍTULO TERCERO DEL LIBRO SEGUNDO, LA FRACCIÓN VII AL ARTÍCULO 274 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-V.37.2. Staphylococcus aureus coagulasa positiva, 1000 UFC/g, y
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-V.37.3. Salmonella spp en 25 g de muestra deberá resultar negativo.
+SEGUNDO.- El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-V.38. Cuando el ahumado de los productos se efectúe con humo de madera, ésta deberá ser de madera dura no resinosa y en estado natural sin tratamiento previo, excepto el estufado.
+G.G. 24 DE ENERO DE 2014.
 
-V.39. En los establecimientos en donde se procesen carne y sus productos, la Secretaría podrá, en cualquier momento, ordenar las reparaciones que considere necesarias y el retiro de muebles y útiles que no estén en las condiciones sanitarias adecuadas.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI. Productos de la pesca y sus derivados.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.1. Para efectos de este apartado, se entiende por:
+G.G. 14 DE MAYO DE 2014.
 
-VI.1.1. Áreas de producción:
+DECRETO NÚMERO 219, POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 254 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-a. Área aprobada, al área de producción de moluscos bivalvos, en la cual el estudio sanitario, el monitoreo y la vigilancia indican que no existen biotoxinas marinas, contaminación por materia fecal, microorganismos patógenos y sustancias tóxicas o nocivas,
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-b. Área aprobada condicionalmente, al área de producción de moluscos bivalvos que está sujeta a contaminación microbiana intermitente, pero se encuentra en condiciones de reunir los requisitos del área aprobada en un período de tiempo predecible, para su apertura o cierre. La autoridad sanitaria determinará las áreas que se encuentren en estas condiciones,
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-c. Área restringida, al área de producción en la que pueden ser cosechados o extraídos los moluscos bivalvos únicamente cuando está permitido por la autoridad sanitaria y en la que éstos han sido sometidos a un proceso de depuración controlada, es decir, cuando los niveles de contaminación fecal, microorganismos patógenos, sustancias tóxicas o nocivas se encuentran dentro de los límites permitidos. El cierre o apertura temporal de esta área será determinado por la autoridad sanitaria,
+TERCERO.- El Ejecutivo del Estado proveerá en la esfera administrativa la exacta observancia del presente Decreto.
 
-d. Distribución, a la actividad mediante la cual los productos son trasladados de las zonas y centros de producción a los establecimientos de venta y
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
-e. Zonas de producción y extracción de productos de la pesca, a los cuerpos de agua que no rebasen los límites de contaminantes establecidos, con capacidad para el desarrollo de organismos de la flora y fauna acuática;
+G.G. 14 DE MAYO DE 2014.
 
-VI.1.2. Productos de la pesca:
+DECRETO NÚMERO 220, POR EL QUE SE REFORMA EL ARTÍCULO 30 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-a. Pescados y mariscos frescos refrigerados, a las diversas especies comestibles, obtenidas por pesca o cultivo, sometidos a refrigeración o enhielado y, en su caso, descamación, evisceración, desconchado u otras operaciones de limpieza,
+###### ARTÍCULO PRIMERO.
 
-b. Productos de la pesca, a los recursos de la flora y la fauna acuáticas, sean peces, crustáceos, moluscos, equinodermos u otros animales y vegetales cuyo medio natural de vida provisional, temporal o permanente, sea el agua,
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-c. Producto de la pesca congelado, al que ha sido sometido a la acción del frío, hasta alcanzar en el centro térmico una temperatura no superior a -18ºC,
+###### ARTÍCULO SEGUNDO.
 
-d. Producto de la pesca fresco-refrigerado, al que ha sido sometido a la acción del frío hasta alcanzar en el centro térmico una temperatura de 0 a 4°C y
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-e. Producto de la pesca glaseado, al que está cubierto con una delgada capa protectora de hielo proveniente de agua potable;
+###### ARTÍCULO TERCERO.
 
-VI.1.3. Productos de la pesca procesados:
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
-a. Embutidos de productos de la pesca, a la mezcla de una o más especies de carne de pescado o marisco molida con ingredientes y aditivos para alimentos, con la que se rellenan tripas naturales o fundas de material sintético y que se somete a un tratamiento térmico o de maduración y refrigeración para su conservación,
+G.G. 14 DE MAYO DE 2014.
 
-b. Harina de pescado, al producto que se obtiene del pescado entero o de sus partes aprovechables, cocido, prensado, secado y molido con o sin la adición de sólidos solubles e insolubles recuperados de la fase líquida,
+DECRETO NÚMERO 221, POR EL QUE SE ADICIONAN LAS FRACCIONES V Y VI Y UN ÚLTIMO PÁRRAFO, AL ARTÍCULO 166 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-c. Pasta de productos de la pesca, al producto que resulta de la molienda de la carne de una o más especies de pescado o marisco, mezcladas con ingredientes y aditivos para alimentos, moldeada en diversas formas, envasadas y sometidas a un tratamiento térmico para su conservación,
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-d. Producto de la pesca ahumado, al sometido previamente salmuerado a la acción directa o indirecta del humo generado por la combustión de madera no resinosa ni tratada, con el fin de deshidratarlo parcialmente, y darle sabor a humo,
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-e. Producto de la pesca deshidratado, al que después de la pesca o captura se le ha eliminado el agua,
+G.G. 14 DE MAYO DE 2014.
 
-f. Producto de la pesca prensado, al que después de la pesca o captura, previa evisceración, es curado con sal y prensado,
+DECRETO NÚMERO 222, POR EL QUE SE REFORMAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 269 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-g. Producto de la pesca desecado, al que después de la pesca o captura es sometido a un proceso para la eliminación de agua, previa escamación y evisceración, salado o no y
+###### ARTÍCULO PRIMERO.
 
-h. Producto de la pesca salado, al que después de la pesca o captura se mezcla con sal comestible en forma masiva o salmuera para conservarlo, y
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-VI.1.4. Procesos de salado:
+###### ARTÍCULO SEGUNDO.
 
-a. Salado en húmedo, al procedimiento por el cual se mezcla el producto con sal comestible sin eliminar los exudados que se forman al disolverse la sal en el tejido muscular,
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-b. Salado seco, al procedimiento por el cual se mezcla el producto con sal comestible de manera que la exudación resultante se drene constantemente y
+G.G. 25 DE JUNIO DE 2014.
 
-c. Salmuerado, a la inmersión del producto en una solución de agua y sal.
+###### ARTÍCULO PRIMERO.
 
-VI.2. La extracción y manejo de los moluscos bivalvos deberá sujetarse a lo siguiente:
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.2.1. Se extraerán de áreas aprobadas, aprobadas condicionalmente, o áreas restringidas bajo vigilancia sanitaria;
+###### ARTÍCULO SEGUNDO.
 
-VI.2.2. Estarán sanos y limpios, de lo contrario, deberán someterse a un proceso de depuración, y serán estabulados en depósitos o flotadores para este efecto;
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.2.3. Se lavarán con agua de mar limpia procedente de área aprobada o con agua potable con suficiente presión;
+G.G. 27 DE JUNIO DE 2014.
 
-VI.2.4. Se almacenarán en balsas o flotadores cuando así se considere conveniente, siempre y cuando la calidad del agua sea aceptable y tenga la salinidad suficiente;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.2.5. Se almacenarán con cuidado, para evitar abrasiones, en bodegas con suficiente ventilación y libres de fauna nociva o doméstica, y
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.2.6. Se lavarán, en caso de separación térmica de la concha, con agua potable y se manipularán rápidamente, para su inmediata refrigeración o congelación.
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
 
-VI.3. Para la depuración de los moluscos bivalvos, se deberá observar lo siguiente:
+G.G. 28 DE JUNIO DE 2014.
 
-VI.3.1. La cantidad de agua que reciban deberá ser de mar, limpia, continua y suficiente para el volumen de organismos por depurar, el cual no deberá ser superior a la capacidad del centro o área de depuración;
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
-VI.3.2. El funcionamiento del sistema de depuración deberá permitir que los moluscos bivalvos vivos vuelvan a alimentarse por filtración, eliminen los residuos contaminantes y se mantengan con vida en condiciones adecuadas después de la depuración previa al envasado, almacenamiento y transporte anteriores a la puesta en el mercado, y
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-VI.3.3. Los lotes de organismos no se deberán mezclar; de ser así, deberán ser de la misma especie y proceder de una misma zona de producción o de diferentes zonas que tengan la misma clasificación sanitaria.
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
 
-VI.4. Los pescados frescos deberán cumplir con las siguientes características:
+CUARTO. El personal del Instituto Electoral del Estado de México, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
 
-VI.4.1. Las escamas estarán bien unidas entre sí y fuertemente adheridas a la piel;
+QUINTO. Los servidores del Instituto Electoral del Estado de México que sean incorporados al Servicio Profesional Electoral Nacional estarán sujetos a las determinaciones que en su momento expida el Instituto Nacional Electoral.
 
-VI.4.2. La piel estará húmeda, bien adherida a los tejidos subyacentes;
+SEXTO. El Consejo General del Instituto Electoral del Estado de México deberá adecuar sus documentos y demás reglamentación interna a lo previsto en este Decreto y en las demás disposiciones legales aplicables, a más tardar a los 90 días posteriores a la entrada en vigor del presente Decreto, salvo los plazos que establezcan otras disposiciones.
 
-VI.4.3. La mucosidad, en las especies que la posean, será acuosa y transparente;
+SÉPTIMO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con los partidos políticos, así como de sus militantes o simpatizantes, que el Instituto Electoral Estado de México y el Tribunal Electoral del Estado de México hayan iniciado o se encuentren en trámite a la entrada en vigor de este Decreto, se seguirán atendiendo de conformidad con las disposiciones jurídicas y administrativas que hayan estado vigentes al momento de su inicio.
 
-VI.4.4. Los ojos ocuparán toda la cavidad orbitaria, serán transparentes, brillantes y salientes. El iris no deberá estar manchado de rojo (sufusión);
+OCTAVO. El Ejecutivo del Estado y la Legislatura Local proveerán lo necesario para la ampliación del Presupuesto de Egresos del ejercicio fiscal corriente, en la esfera de su competencia, para el exacto cumplimiento de este Decreto.
 
-VI.4.5. Los opérculos estarán rígidos y ofrecerán resistencia a su apertura;
+NOVENO. Se abroga la Ley Reglamentaria del Artículo 14 de la Constitución Política del Estado Libre y Soberano de México, publicada el 30 de agosto de 1995 en el periódico oficial "Gaceta del Gobierno".
 
-VI.4.6. Las branquias estarán coloreadas del rosado al rojo intenso, húmedas y brillantes, con olor característico y suave;
+DÉCIMO. Se abroga el Código Electoral del Estado de México, publicado el 2 de marzo de 1996 en el periódico oficial "Gaceta del Gobierno".
 
-VI.4.7. El abdomen será terso, sin diferencia externa con la línea ventral; al corte, los tejidos deberán ofrecer resistencia; con el poro anal cerrado; las vísceras de colores vivos y bien diferenciados; las paredes interiores brillantes; los vasos sanguíneos llenos y resistentes a la presión digital; y con olor característico y suave, y
+DÉCIMO PRIMERO. Las averiguaciones previas, carpetas administrativas, procesos, recursos y sentencias que se refieran a hechos ocurridos antes de la entrada en vigor del presente Decreto, se sujetarán hasta su conclusión definitiva, a las disposiciones legales vigentes a la fecha en que acontecieron los hechos.
 
-VI.4.8. Los músculos presentarán elasticidad marcada, firmemente adheridos a los huesos y que no se desprendan de ellos al ejercer presión digital; con el color natural característico, al primer corte; y con el color propio con superficie de corte brillante.
+DÉCIMO SEGUNDO. En tanto se expida la Ley en materia de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución Federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma contraviene a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables. El titular del derecho de réplica deberá agotar primeramente la instancia ante el medio de comunicación respectivo, o demostrar que lo solicitó a su favor y le fue negado. Las autoridades electorales deberán velar oportunamente por la efectividad del derecho de réplica durante los procesos electorales, y en caso de ser necesario deberá instaurar el procedimiento especial sancionador previsto en el Código Electoral del Estado de México.
 
-VI.5. El flujo de productos deberá ser continuo, sin demoras, ni almacen ajes intermedios, ni descongelamiento y congelamiento durante una línea de proceso con el fin de mantener la calidad sanitaria, de acuerdo con las características propias del producto y del proceso, así como con su riesgo sanitario.
+DÉCIMO TERCERO. Se dejan sin efecto las disposiciones de igualo menor jerarquía que se opongan a este Decreto.
 
-VI.6. Los crustáceos muertos, frescos deberán presentar las siguientes características:
+DÉCIMO CUARTO. La estructura, personal, recursos administrativos y financieros del Órgano Técnico de Fiscalización del Instituto Electoral del Estado de México formarán parte de la Unidad Técnica de Fiscalización del mismo, a partir de la entrada en vigor del presente Decreto.
 
-VI.6.1. El exoesqueleto estará ligeramente húmedo, brillante y consistente;
+DÉCIMO QUINTO. El Procurador General deberá nombrar al Titular de la Fiscalía Especializada en Materia de Delitos Electorales de la Procuraduría General de Justicia del Estado de México, dentro los treinta días siguientes, contados a partir de la entrada en vigor del presente Decreto, mediante el acuerdo correspondiente.
 
-VI.6.2. El cuerpo estará rígido;
+Los servidores públicos adscritos a la fiscalía mencionada conocerán de manera exclusiva de las carpetas investigación relacionadas con delitos electorales.
 
-VI.6.3. Los apéndices serán resistentes y firmes, y
+Los Servidores Públicos adscritos a la Fiscalía Especializada en Materia de Delitos Electorales deberán regirse por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos fijados por las Leyes.
 
-VI.6.4. El olor será el propio de cada especie.
+Para el próximo ejercicio fiscal, la Legislatura proveerá la partida presupuestal para que la fiscalía citada cuente los elementos materiales y humanos que permitan su adecuado funcionamiento.
 
-VI.7. Los crustáceos vivos deberán presentar las siguientes características:
+El Fiscal especializado en Materia de Delitos Electorales deberá rendir un informe a la Legislatura del Estado a los noventa días siguientes de concluido el proceso electoral para el período constitucional 2015-2018.
 
-VI.7.1. El caparazón estará húmedo y brillante, y
+Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia Delitos Electorales y de los servidores públicos adscritos a ella recaigan en las personas que garanticen los principios enunciados en este artículo.
 
-VI.7.2. La movilidad se deberá presentar a la menor excitación.
+DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las funciones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
 
-VI.8. Los moluscos cefalópodos frescos deberán presentar las siguientes características:
+DÉCIMO SÉPTIMO. Por única ocasión los procesos electorales ordinarios locales correspondientes a las elecciones que tendrán lugar el primer domingo de junio del año 2015, el proceso electoral iniciará en la primera semana del mes de octubre de 2014.
 
-VI.8.1. La piel estará lisa y húmeda, sin manchas sanguinolentas o extrañas a la especie;
+G.G. 16 DE OCTUBRE DE 2014.
 
-VI.8.2. Los músculos deberán presentar consistencia y elasticidad;
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.8.3. El color deberá ser el característico de cada especie, y
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.8.4. El olor será el característico.
+G.G. 23 DE OCTUBRE DE 2014.
 
-VI.9. Los moluscos bivalvos y gasterópodos vivos deberán provenir de zonas de captura que tengan certificación o aprobación sanitaria y cumplir con las siguientes características:
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.9.1. Tener valvas cerradas. Cuando presenten valvas abiertas, éstas deberán cerrarse al ser golpeadas suavemente. En el interior de las valvas deberá haber agua cristalina. Los moluscos bivalvos, sumergidos en agua tibia, deberán abandonar su concha;
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.9.2. Presentar el olor característico;
+G.G. 28 DE NOVIEMBRE DE 2014.
 
-VI.9.3. Contar con músculos húmedos, bien adheridos a las valvas y tener aspecto esponjoso, de color ceniciento claro en las ostras y amarillento en los mejillones, y
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.9.4. Presentar reacciones a estímulos y latido cardíaco.
+> <small>(F. DE E. G.G. 19 DE DICIEMBRE DE 2014)</small>
 
-VI.10. Las embarcaciones deberán estar equipadas, conforme a la distancia de las zonas de captura y características de la especie, con medios de conservación tales como: hielo, refrigeración mecánica o congelación en condiciones sanitarias.
+SEGUNDO.- El presente Decreto entrará en vigor el mismo día que entre en vigor el Código Nacional de Procedimientos Penales en el Estado de México; con excepción de las reformas y adiciones a diversas disposiciones del Código Penal del Estado de México, en materia de operaciones con recursos de procedencia ilícita, las cuales entrarán en vigor a los treinta días posteriores a la publicación del presente Decreto.
 
-VI.11. Las embarcaciones pesqueras, con capacidad superior a cinco toneladas, que estén provistas de un sistema de refrigeración, deberán someter el producto a una temperatura de 4°C como máximo y no podrán estar en operación más de veinticinco días.
+TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, con la entrada en vigor del presente Decreto, deberán contar con cuerpos especializados de policía, con capacidad para cumplir de manera eficaz y eficiente con las atribuciones que derivan de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
 
-Cuando cuenten con sistema de congelación, éste deberá proporcionar al producto una temperatura máxima de -18°C.
+CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
 
-VI.12. Las embarcaciones pesqueras con capacidad superior a cinco toneladas, deberán contar con bodega que reúna los siguientes requisitos:
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-VI.12.1. Estar aislada térmicamente;
+G.G. 15 DE DICIEMBRE DE 2014.
 
-VI.12.2. Estar revestida interiormente con fibra de vidrio, plástico u otro material higiénico de superficie lisa y resistente a la corrosión;
+DECRETO NÚMERO 346, POR EL QUE SE REFORMAN LOS ARTÍCULOS 58 PÁRRAFO CUARTO, 69 PÁRRAFO PRIMERO, 217 FRACCIÓN III, 218 PÁRRAFO PRIMERO, Y 238 FRACCIONES VII Y VIII DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-VI.12.3. Estar dividida en compartimientos para almacenar el producto en condiciones sanitarias;
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-VI.12.4. Contar con capas de hielo de un espesor tal, que garanticen la conservación del producto y la altura máxima deberá ser la que impida el deterioro del producto que se encuentre en la capa inferior;
+SEGUNDO. El presente Decreto entrará en vigor a los cinco días siguientes al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-VI.12.5. Tener un sistema de drenaje que permita el escurrimiento de deshielo y ser drenada regularmente, y
+G.G. 15 DE DICIEMBRE DE 2014.
 
-VI.12.6. Presentar condiciones de ventilación, limpieza, desinfección y demás requisitos tendientes a evitar el daño físico y la contaminación del producto.
+DECRETO NÚMERO 347, POR EL QUE SE REFORMA EL ARTÍCULO 268 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-VI.13. En las embarcaciones pesqueras con capacidad hasta de cinco toneladas que no cuenten con bodega, el producto deberá estibarse, para su conservación, en recipientes con suficiente hielo. Este tipo de embarcaciones no podrá realizar operaciones de pesca por períodos mayores de veinticuatro horas.
+###### ARTÍCULO PRIMERO.
 
-VI.14. Las embarcaciones pesqueras con capacidad superior a cinco toneladas, deberán disponer de un sistema de abastecimiento de agua potable abundante o de agua de mar limpia.
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-Asimismo, deberán contar con un sistema completo y eficiente de desinfección en los lugares necesarios, con el fin de facilitar el lavado y saneamiento completo y efectivo de las áreas de confinación del producto y limpieza general del barco, antes de salir del puerto y después de la descarga.
+###### ARTÍCULO SEGUNDO.
 
-VI.15. Las embarcaciones, partes y equipo empleados en la extracción, antes y después de cada operación de pesca, deberán lavarse con agua corriente y quedar libres de pescados, mariscos o fragmentos de éstos, así como de otras materias orgánicas susceptibles de descomposición que puedan contaminar el producto.
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.16. Todo el equipo empleado para lavar, manipular, transportar, enfriar y almacenar los productos de la pesca a bordo de las embarcaciones, deberá ser construido con material inalterable y no tóxico que permita su fácil limpieza y desinfección.
+G.G. 16 DE DICIEMBRE DE 2014.
 
-VI.17. El equipo para el lavado y transporte de los productos de la pesca deberá construirse con material inoxidable y proyectarse de modo que se evite que el producto sufra magulladuras y otros daños.
+DECRETO NÚMERO 351, POR EL QUE SE REFORMAN EL ARTÍCULO 9, LA DENOMINACIÓN DEL CAPÍTULO II DEL SUBTÍTULO CUARTO DEL TÍTULO TERCERO, LOS ARTÍCULOS 270, 271 Y 272 Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 274 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-VI.18. La cubierta y todo su equipo, inmediatamente después de descargar la captura, deberá lavarse con manguera, cepillarse, limpiarse a fondo con productos de limpieza adecuados, desinfectarse y enjuagarse.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.19. Cuando se emplee agua de mar o de pozo, como elemento auxiliar de limpieza, se deberá suministrar por vía distinta a las del agua potable y sus ductos deberán pintarse con colores diferentes para su identificación.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.20. Los recipientes de múltiple servicio, equipo y utensilios que se empleen en la manipulación, almacenamiento o transporte de los productos pesqueros deberán lavarse, desinfectarse y, finalmente, enjuagarse con agua potable después de cada jornada de trabajo.
+G.G. 16 DE DICIEMBRE DE 2014.
 
-VI.21. Los detergentes y desinfectantes utilizados para la limpieza del equipo, deberán permanecer debidamente etiquetados y resguardados.
+DECRETO NÚMERO 359, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 Y UN PÁRRAFO CUARTO, RECORRIÉNDOSE EL SUBSECUENTE, AL ARTÍCULO 287 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-Asimismo, se deberán emplear exclusivamente para el uso a que estén destinados y manejarse con la suficiente precaución a fin de evitar contaminación o alteración de los productos de la pesca.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
 
-VI.22. El producto capturado, al ser descargado en cubierta, deberá manipularse de tal manera que no se golpee, dañe o contamine.
+SEGUNDO.- El presente Decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.23. En el momento que sea factible, luego de la captura, se deberá lavar el producto y, en su caso, se le podrán extraer las vísceras, descabezar o desconchar, evitando que los desperdicios estén en contacto con los productos destinados al consumo humano.
+G.G. 18 DE DICIEMBRE DE 2014.
 
-El producto se deberá colocar con suficiente hielo hasta que sea entregado para su procesamiento.
+DECRETO NÚMERO 367, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 124 Y EL CAPÍTULO XXI DENOMINADO "AUTORIZACIÓN DE BAILE DE CONTENIDO SEXUAL EN UNIDADES ECONÓMICAS" CON SU ARTÍCULO 148 QUÁTER, EN EL SUBTÍTULO SEGUNDO INTITULADO "DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA" DEL TÍTULO PRIMERO DENOMINADO "DELITOS CONTRA EL ESTADO" DEL LIBRO SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-VI.24. El producto, una vez libre de vísceras, cabeza o concha, deberá lavarse con agua corriente limpia; en el caso de los pescados, esto deberá hacerse hasta que cese el sangrado.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-VI.25. La cavidad abdominal del pescado, libre de vísceras, deberá llenarse con hielo y cubrirse con el mismo al estibarlo.
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial “Gaceta del Gobierno”.
 
-El hielo que haya sido previamente utilizado con algún otro propósito, no deberá ser usado para enfriar el producto.
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
 
-VI.26. Las vísceras, así como los desechos destinados al consumo animal o al uso industrial no alimentario, deberán conservarse para evitar su descomposición y separarlos de los de consumo humano.
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
 
-VI.27. Los productos que no hayan sufrido tratamiento previo a bordo, deberán someterse, según la especie, a su clasificación y lavado; en su caso, también se podrá efectuar la remoción de vísceras, descabezado o desconchado y se colocarán en recipientes limpios y se almacenarán en cámaras de refrigeración o congelación.
+QUINTO. Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
 
-VI.28. Para que el producto no se dañe, contamine o sufra calentamiento por acción de la radiación solar, la descarga manual deberá realizarse en recipientes limpios, y no podrá ser lanzado desde la bodega a la cubierta, a la plataforma del muelle o al medio de transporte.
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
 
-VI.29. Se deberán tomar todas las precauciones debidas para que las embarcaciones pesqueras evacuen los desechos humanos y de otro tipo, de manera que no constituyan un peligro para la higiene y salud pública, de acuerdo con las disposiciones aplicables.
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
 
-VI.30. Los muelles y otros lugares de desembarque deberán mantenerse limpios y contar con drenaje para los escurrimientos.
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial “Gaceta del Gobierno” el 18 de julio de 2013.
 
-VI.31. No se podrán usar contrachapados o uniones y otras estructuras laminadas en las mesas y superficies destinadas al corte y fileteado de los productos de la pesca.
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
 
-VI.32. La industrialización de los subproductos de la pesca deberá realizarse en áreas acondicionadas y separadas de aquéllas en las que se elaboren productos para el consumo humano.
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
 
-VI.33. Los establecimientos industriales pesqueros, deberán cumplir con los requisitos sanitarios siguientes:
+G.G. 18 DE DICIEMBRE DE 2014.
 
-VI.33.1. Estar dotados de servicio de agua potable y desagüe;
+DECRETO NÚMERO 368, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 218 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-VI.33.2. Tener pisos de material impermeable y resistente al ataque de sales, ácidos y desperdicios orgánicos, con declive hacia el drenaje;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.33.3. Contar con sistemas de saneamiento adecuado o, como mínimo, con una toma de agua para efectuar el aseo de cada ciento cincuenta metros cuadrados de superficie, en las áreas de recepción de materia prima y de proceso;
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.33.4. Contar con un área específica para la limpieza y desinfección de equipo;
+G.G. 26 DE ENERO DE 2015.
 
-VI.33.5. Tener paredes perfectamente aplanadas y pintadas, con pintura de aceite o material similar, las cuales podrán estar cubiertas total o parcialmente de material sanitario;
+DECRETO NÚMERO 393, POR EL QUE SE REFORMA EL ARTÍCULO 232 EN SU FRACCIÓN II DEL CÓDIGO PENAL ESTADO DE MÉXICO.
 
-VI.33.6. Contar con ventanas protegidas con tela de alambre y puertas con cierre automático y cortinas de aire o polivinilo;
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.33.7. Tener techos construidos de material sanitario;
+SEGUNDO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.33.8. Disponer de iluminación con suficiente luz natural y artificial, y
+TERCERO. El Ejecutivo, expedirá las reformas a las disposiciones del Reglamento del Libro Segundo del Código para la Biodiversidad, dentro del plazo de sesenta días naturales contados a partir de su entrada en vigor.
 
-VI.33.9. Contar con ventilación de manera que se eviten el calor excesivo, la condensación del vapor, olores desagradables, polvo, humo y contaminación.
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se oponga (sic) al presente Decreto.
 
-VI.34. Los mandiles, botas y cofias que deberán utilizar los empleados de los establecimientos de recibo, envase, empaque y comercialización de los productos de la pesca, deberán lavarse y secarse después de cada cambio de turno.
+QUINTO. El Ejecutivo Estatal, en el ámbito de su competencia, proveerá lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
 
-VI.35. Los establecimientos industriales destinados al proceso de los productos de la pesca para el consumo humano, deberán contar, según corresponda, con las siguientes secciones:
+G.G. 26 DE ENERO DE 2015.
 
-VI.35.1. De recepción, clasificación, preparación y almacenamiento de materia prima, por separado;
+DECRETO NÚMERO 394, POR EL QUE SE REFORMAN LOS ARTÍCULOS 137 BIS EN SU FRACCIÓN II DEL SEGUNDO PÁRRAFO, 193 EN SUS PÁRRAFOS PRIMERO Y TERCERO, 229 EN SUS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, 266 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, 290 EN SUS FRACCIONES I EN SU PRIMER PÁRRAFO, II EN SU PRIMER PÁRRAFO, III, V, XVIII Y EL 292 EN SU SEGUNDO PÁRRAFO Y SE ADICIONA AL 193 UN CUARTO PÁRRAFO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-VI.35.2. De almacenamiento de ingredientes y aditivos para alimentos;
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
-VI.35.3. De elaboración del producto;
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno", con excepción de la reforma al párrafo tercero del artículo 193 del Código Penal del Estado de México, por el que se impone de tres meses a un año de prisión al que maneje o utilice un vehículo de motor sin ambas placas de circulación o la autorización para circular, la cual, entrará en vigor a los seis meses posteriores a la publicación del presente Decreto.
 
-VI.35.4. De envasado, etiquetado y empacado;
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
-VI.35.5. De almacenamiento de productos terminados;
+G.G. 10 DE ABRIL DE 2015.
 
-VI.35.6. De lavado de equipo y utensilios;
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-VI.35.7. De desechos sólidos;
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
 
-VI.35.8. Cuarto de máquinas;
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
-VI.35.9. De almacenamiento de materiales, y
+G.G. 8 DE MAYO DE 2015.
 
-VI.35.10. De tratamiento de aguas.
+DECRETO NÚMERO 430 POR EL QUE SE ADICIONA UN CAPÍTULO VIII DENOMINADO "SIMULACIÓN DE VEHÍCULO OFICIAL PERTENECIENTE A INSTITUCIONES DE SEGURIDAD PÚBLICA O AL SERVICIO PÚBLICO DE EMERGENCIA" DEL SUBTITULO IV, TÍTULO PRIMERO, LIBRO SEGUNDO Y EL ARTÍCULO 177 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-VI.36. Los recipientes destinados a almacenar salmuera para el salado del producto, deberán ser de material resistente a la corrosión y de una forma que les permita vaciarse y limpiarse por completo.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-VI.37. Los equipos que se utilicen para el tratamiento térmico, refrigeración, congelación y almacenamiento deberán estar dotados con dispositivos para el control y registro de parámetros de operación y cumplir con lo siguiente:
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-VI.37.1. La ubicación deberá garantizar la limpieza, mantenimiento e inspección de los mismos;
+G.G. 8 DE MAYO DE 2015.
 
-VI.37.2. Los equipos de refrigeración deberán estar provistos de control térmico y de humedad relativa, los cuales serán leídos, registrados y fechados por lo menos 3 veces al día;
+DECRETO NÚMERO 431, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 124 Y SE ADICIONAN UN PÁRRAFO TERCERO AL ARTÍCULO 124 Y EL ARTÍCULO 124 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-VI.37.3. El horno para ahumados deberá estar construido con materiales aislantes, con superficie interior lisa y revestido de material que facilite la limpieza de las paredes con vapor y agua caliente;
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.37.4. El equipo utilizado para la cocción deberá estar construido de tal forma que proporcione un suministro constante y suficiente de calor, a fin de que todos los productos reciban el mismo tratamiento en cuanto a tiempo y temperatura;
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.37.5. Las instalaciones de congelación y de almacenamiento frigorífico, deberán ser de volumen suficiente para la producción prevista y estar dotadas de dispositivos automáticos de control y registro de temperatura, misma que será de -18°C por lo menos, y
+G.G. 25 DE JUNIO DE 2015.
 
-VI.37.6. Los registros de los parámetros de operación se conservarán por un año.
+###### ARTICULO PRIMERO.
 
-VI.38. Cuando la materia prima para la elaboración de los productos de la pesca vaya a ser almacenada por varios días, se deberá mantener en refrigeración o congelación, y se anotarán en el libro de registro correspondiente del establecimiento, entre otros, los siguientes datos:
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.38.1. Fecha de recepción;
+###### ARTICULO SEGUNDO.
 
-VI.38.2. Especie;
+El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.38.3. Tonelaje;
+G.G. 14 DE JULIO DE 2015.
 
-VI.38.4. Temperatura promedio al momento de la recepción, y
+DECRETO NÚMERO 479, POR EL QUE SE REFORMA EL ARTÍCULO 270 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-VI.38.5. Temperatura promedio diaria.
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-El libro de registro estará a disposición de las autoridades sanitarias competentes cuando éstas lo requieran.
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.39. En la preparación de la materia prima, estarán comprendidas, en su caso, las siguientes acciones:
+G.G. 14 DE JULIO DE 2015.
 
-VI.39.1. Inspección y clasificación;
+DECRETO NÚMERO 480, POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 176 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
 
-VI.39.2. Lavado;
+###### ARTICULO PRIMERO.
 
-VI.39.3. Depuración de los productos;
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.39.4. Descongelado;
+###### ARTICULO SEGUNDO.
 
-VI.39.5. Escamado, desconchado, descabezado, eviscerado o desvenado;
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.39.6. Almacenamiento, y
+G.G. 31 DE JULIO DE 2015.
 
-VI.39.7. Las necesarias para remover materias extrañas y partes no comestibles.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.40. Para la cocción de los crustáceos deberá utilizarse agua potable o agua de mar limpia, cuya graduación en cloruro de sodio no deberá ser superior a 3%.
+SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.41. Los crustáceos, después de su cocción, deberán ser envasados e inmediatamente refrigerados, congelados o adicionados con hielo.
+G.G. 6 DE AGOSTO DE 2015.
 
-VI.42. El hielo que se emplee para conservar la materia prima deberá ser elaborado con agua potable que cumpla con los requisitos sanitarios establecidos en las normas correspondientes.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.43. Los productos congelados no envasados, inmediatamente después de la congelación, deberán glasearse o empacarse para protegerlos contra la deshidratación y la oxidación, durante su permanencia en el almacén frigorífico.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
-VI.44. Cuando el glaseado sea necesario, la temperatura del agua que se emplee deberá ser inferior a 5°C.
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
 
-VI.45. La salmuera deberá estar a una concentración mínima de 18% y en cantidad suficiente para cubrir totalmente el producto.
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
 
-VI.46. Los productos de la pesca prensados, como producto terminado, no deberán exceder de 45% de humedad y 8% de grasa. Cuando sobrepase los límites indicados, el producto deberá ser ahumado o desecado, cuando se destine para el consumo humano.
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
-VI.47. Los productos de la pesca deberán enlatarse con el vacío necesario para impedir que los recipientes se abomben a causa de altas temperaturas o bajas presiones durante su transporte, almacenamiento o comercialización.
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
 
-VI.48. El tratamiento térmico o esterilización de los productos enlatados deberá iniciarse de inmediato o antes de que transcurra una hora después del cerrado.
+G.G. 17 DE AGOSTO DE 2015.
 
-VI.49. En la elaboración de la harina de pescado, además del pescado, podrán utilizarse partes aprovechables de moluscos, crustáceos u otras especies acuáticas, destinadas al consumo humano, las cuales deberán cumplir con los requisitos sanitarios establecidos para dichos productos.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.50. El á rea de empaque de los establecimientos que se dedican a la refrigeración y congelación de productos de la pesca, deberá mantenerse a una temperatura máxima de 15°C.
+SEGUNDO. Este Decreto entrará en vigor a los sesenta días naturales posteriores a su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.51. Los embalajes diseñados para ser reutilizados, deberán sanearse antes de volverse a usar.
+TERCERO. Se abroga la Ley de Protección a Víctimas del Delito para el Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de febrero de 2009.
 
-VI.52. La materia prima para pastas y embutidos deberá provenir de productos de la pesca que cumplan con los requisitos sanitarios aplicables.
+CUARTO. Se abroga la Ley de la Defensoría Especializada de Víctimas y Ofendidos del Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 26 de octubre de 2011.
 
-VI.53. Las pastas y embutidos de productos de la pesca que después del envasado no hayan sido tratados térmicamente, deberán mantenerse en refrigeración a 4°C.
+QUINTO. Las autoridades obligadas a prestar los servicios de atención y protección previstos en la presente Ley, deberán establecer anualmente las previsiones presupuestales que les permitan el cumplimiento de las obligaciones establecidas en la misma.
 
-VI.54. Los vehículos destinados al transporte de los productos de la pesca deberán cumplir con lo siguiente:
+SEXTO. El Ejecutivo Estatal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
 
-VI.54.1. Estar en buen estado de funcionamiento y limpieza;
+SÉPTIMO. Los protocolos a que se refiere esta Ley se expedirán en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
 
-VI.54.2. Tener cámaras aisladas térmicamente y revestidas con material higiénico;
+OCTAVO. A partir de la entrada en vigor del presente Decreto, las Unidades de Atención a Víctimas del Delito quedarán adscritas a la Comisión Ejecutiva, pero continuarán operando y funcionando en las sedes donde actualmente se encuentran.
 
-VI.54.3. Disponer de un sistema de refrigeración o congelación, según el caso;
+NOVENO. Los convenios o instrumentos jurídicos celebrados a través del Instituto de Atención a las Víctimas del Delito del Estado de México dependiente de la Procuraduría General de Justicia del Estado de México, surtirán sus efectos en términos de las disposiciones que les dieron vigor y deberán ser renovados con las unidades administrativas competentes.
 
-VI.54.4. Tener indicadores de temperatura del interior de la caja en el exterior del vehículo;
+DÉCIMO. El Gobierno del Estado, sus dependencias y entidades deberán proveer lo necesario para adecuar la normatividad aplicable, así como para redistribuir los recursos humanos, materiales y financieros existentes para la atención a víctimas a la Comisión Ejecutiva Estatal de Atención a Víctimas y Ofendidos del Delito.
 
-VI.54.5. Contar con un sistema para el drenaje del agua de deshielo;
+DÉCIMO PRIMERO. La Procuraduría General de Justicia del Estado de México y las Secretarías General de Gobierno, de Finanzas, de la Contraloría y la Consejería Jurídica del Ejecutivo Estatal proveerán lo necesario para dar cumplimiento a lo establecido por el presente Decreto.
 
-VI.54.6. Contar, en el caso de los vehículos con caja abierta, con una lona impermeable, la cual deberá mantenerse limpia y cubrir la totalidad de la carga;
+DÉCIMO SEGUNDO. Los recursos del Fondo para la Protección a las Víctimas y Ofendidos del Hecho Delictuoso creado en la Ley de Protección a Víctimas del Delito para el Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de febrero de 2009, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas previsto en la presente Ley.
 
-VI.54.7. Presentar la superficie interior de la caja del vehículo lisa y de material no poroso y resistente a la corrosión, para el caso de productos frescos o congelados;
+DÉCIMO TERCERO. Los recursos del Fondo de Ayuda, Asistencia y Reparación Integral a las víctimas de violaciones a los derechos humanos constituido mediante Acuerdo del Ejecutivo del Estado, publicado el 15 de junio de 2015 en el Periódico Oficial "Gaceta del Gobierno" se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
 
-VI.54.8. Colocar, durante el transporte a granel, de producto de la pesca fresco, capas alternas de hielo triturado hasta una altura máxima de un metro; la primera y última capas deberán ser de hielo;
+DÉCIMO CUARTO. Los recursos de cualquier fondo de carácter estatal cuyo objeto sea la atención de las víctimas del delito, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
 
-VI.54.9. Realizar el transporte de moluscos bivalvos, lavados y refrigerados a una temperatura entre 1°C y 4°C, y
+DÉCIMO QUINTO. Se derogan las disposiciones legales y administrativas que se opongan a lo dispuesto en el presente Decreto.
 
-VI.54.10. Evitar transportar algún producto que pueda generar contaminación cruzada, en caso de que transporten productos de la pesca frescos o congelados. Sólo se podrá transportar harina o aceite de pescado junto con otros productos cuando se encuentren envasados.
+G.G. 19 DE AGOSTO DE 2015.
 
-VI.55. En los vehículos, la cámara de conservación, los recipientes empleados para el estibado y demás superficies que estén en contacto con el producto, deberán lavarse con agua potable y desinfectarse antes y después de cada viaje.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.56. Para transportar productos de la pesca, como escabeche, pastas, embutidos, ahumados y los de tiempo de conservación limitada, se utilizarán vehículos con refrigeración.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-Para transportar productos deshidratados, secos, salados y enlatados, deberán estibarse convenientemente y protegerse del calor y la humedad.
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se oponga (sic) al presente Decreto.
 
-VI.57. El transporte de productos de la pesca frescos-enhielados, con duración máxima de cinco horas, podrá efectuarse en vehículos sin cámara de enfriamiento con caja cerrada y recubierta con material de calidad sanitaria.
+G.G. 24 DE AGOSTO DE 2015.
 
-VI.58. El transporte de los productos de la pesca, se deberá realizar en recipientes limpios y cubiertos.
+###### ARTÍCULO PRIMERO.
 
-VI.59. Los establecimientos comerciales deberán contar con áreas de:
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
 
-VI.59.1. Recepción;
+###### ARTÍCULO SEGUNDO.
 
-VI.59.2. Clasificación e inspección;
+Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódo (sic) Oficial “Gaceta del Gobierno”.
 
-VI.59.3. Limpieza y fileteado;
+G.G. 25 DE AGOSTO DE 2015.
 
-VI.59.4. Depósito de hielo, cámaras frigoríficas o almacén para producto refrigerado o congelado, según el caso;
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-VI.59.5. Exhibición de ventas;
+SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-VI.59.6. Vertedero conectado al drenaje, y
+G.G. 23 DE NOVIEMBRE DE 2015.
 
-VI.59.7. Depósito con tapa hermética para desperdicios del producto.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.60. Los muros deberán estar recubiertos con material impermeable de color claro y lavable, por lo menos a 1,8 m de altura; el resto deberá estar pintado con material lavable de color claro.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VI.61. Los productos de la pesca, frescos o congelados, que se destinen para consumo humano, deberán contar con el documento de compraventa que compruebe su origen y calidad sanitaria.
+TERCERO. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su respectiva competencia, dispondrán lo necesario para que se realice una amplia campaña de difusión del presente decreto.
 
-VI.62. Los productos de la pesca que se presenten para la exhibición y venta al público, deberán colocarse en mostradores de mampostería o de cualquier otro material inocuo, resistente, con superficie lisa, impermeable y de color claro, que permita su fácil aseo, con la inclinación necesaria para permitir el escurrimiento del agua de deshielo. Si la exhibición y venta se realiza en charolas, éstas deberán ser de material plástico inocuo u otro material anticorrosivo que sea de fácil limpieza y desinfección.
+G.G. 21 DE DICIEMBRE DE 2015.
 
-VII. Frutas, hortalizas y sus derivados.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VII.1. Para efectos de este apartado, se entiende por:
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VII.1.1. Frutas y hortalizas:
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
-a. Fruta, al producto carnoso de la fecundación de las plantas que puede contener semillas,
+G.G. 6 DE ENERO DE 2016.
 
-b. Fruta fresca, al producto que se consume en estado natural, de madurez adecuada, sana, limpia y que conserva sus propiedades sensoriales y
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
-c. Hortalizas, a las flores, hojas, tallos, tubérculos, raíces, rizomas y algunos frutos de diversos vegetales comestibles, así como diferentes especies de hongos comestibles sanos y limpios;
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
 
-VII.1.2. Producto de frutas y hortalizas:
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno"
 
-a. Dulces de frutas u hortalizas, a los productos tales como ates, jaleas o mermeladas, obtenidos por la cocción de pulpas o jugos de frutas u hortalizas con edulcorantes, adicionados o no de aditivos para alimentos,
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
 
-b. Fruta cristalizada, al producto entero o en partes que ha sido sumergido en jarabes azucarados, sometido o no a tratamiento térmico con posterior enfriamiento, hasta lograr una consistencia cristalina,
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
 
-c. Frutas y hortalizas congeladas, a los productos que pueden ser enteros, troceados, cortados, pelados y desinfectados, sometidos o no a tratamiento térmico y posterior congelación,
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
-d. Frutas y hortalizas deshidratadas, a los productos frescos, sanos y limpios, enteros o divididos, con madurez apropiada, a los cuales se les ha eliminado parcial o totalmente el agua mediante métodos naturales o artificiales,
+El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Gobierno Digital del Estado de México y Municipios en un plazo no mayor a ciento veinte días hábiles a la entrada en vigor del presente Decreto.
 
-e. Fruta seca, al producto que una vez maduro presenta un grado de deshidratación que permite su conservación, en el que la semilla es la parte comestible,
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
 
-f. Pasta de frutas u hortalizas, al producto obtenido por molienda o tamizado, sometido a concentración,
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
 
-g. Producto en conserva, al producto envasado herméticamente y sometido a un tratamiento térmico, de forma tal que no se altere ni represente peligro alguno para la salud del consumidor, bajo condiciones apropiadas de almacenamiento durante un tiempo prolongado,
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
 
-h. Pulpas de frutas y hortalizas, a los productos que han sido deshuesados, molidos o tamizados, sometidos a tratamiento térmico hasta su concentración, adicionados o no de ingredientes opcionales y aditivos para alimentos,
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
 
-i. Puré, al producto obtenido por molienda o tamizado de fruta u hortaliza, sometido o no a tratamiento térmico y
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
 
-j. Salsa, al producto que contiene mezclas de hortalizas o leguminosas, condimentos y especias, diluidos o concentrados, adicionados o no de aditivos para alimentos;
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
-VII.1.3. Jugos y néctares:
+DÉCIMO.- Para que las dependencias establecidas en el artículo 67 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
 
-a. Jugo concentrado de fruta o de hortaliza, al producto que por procesos físicos se le ha eliminado parte de su contenido de agua y que puede estar congelado o envasado asépticamente,
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
 
-b. Jugo de concentrado, al producto que se obtiene al agregar agua purificada a un jugo concentrado para obtener un producto similar en cuanto a concentración y características sensoriales del jugo de la fruta o de la hortaliza de que se trate,
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
 
-c. Jugo de fruta o de hortaliza, al producto obtenido por extracción del endocarpio sin diluir y de las materias de las frutas u hortalizas maduras, sanas y limpias, a las que por procesos adecuados se les puede remover la pulpa, parcial o totalmente,
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
-d. Jugo deshidratado de fruta o de hortaliza, al producto referido en el inciso anterior, al que se le ha eliminado el agua y
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez y se deroga el Libro Décimo Quinto del Código Administrativo del Estado de México publicado en el periódico oficial “Gaceta del Gobierno” el cinco de enero de dos mil seis.
 
-e. Néctar, al producto elaborado con pulpa y jugo de frutas, adicionado de agua potable, azúcares, acidulantes, aromas naturales y antioxidantes, y
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-VII.1.4. Proceso:
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
 
-a. Esterilización comercial, al tratamiento térmico aplicado al producto para la destrucción de todos los microorganismos viables de importancia en la salud pública y aquéllos capaces de reproducirse en el alimento bajo condiciones normales de almacenamiento y distribución, sin la condición de refrigeración.
+G.G. 14 DE MARZO DE 2016.
 
-VII.2. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 69.- POR EL QUE SE REFORMA EL ARTÍCULO 9, PRIMER PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 26, LA FRACCIÓN IV DEL ARTÍCULO 57, EL PRIMER PÁRRAFO DEL ARTÍCULO 71, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 91, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 94, EL TERCER PÁRRAFO DEL ARTÍCULO 149, EL PRIMER Y ÚLTIMO PÁRRAFOS DEL ARTÍCULO 166, LA FRACCIÓN II DEL ARTÍCULO 182, LA FRACCIÓN V DEL ARTÍCULO 202, EL PRIMER PÁRRAFO DEL ARTÍCULO 211, EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 243, EL SUBTÍTULO QUINTO DEL TÍTULO TERCERO INTITULADO "DELITOS DE VIOLENCIA DE GÉNERO", DEL LIBRO SEGUNDO Y SUS ARTÍCULOS DEL 275 AL 286 BIS, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 71, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 83 BIS, EL TERCER PÁRRAFO AL ARTÍCULO 90, EL TERCER PÁRRAFO AL ARTÍCULO 106 BIS, LA FRACCIÓN XIII AL ARTÍCULO 166 Y EL ARTÍCULO 307 BIS, SE DEROGA EL CAPÍTULO II BIS "FEMINICIDIO" DEL SUBTÍTULO PRIMERO DENOMINADO "DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL", DEL TÍTULO TERCERO DENOMINADO "DELITOS CONTRA LAS PERSONAS", DEL LIBRO SEGUNDO, EL ARTÍCULO 242 BIS Y LA FRACCIÓN XVII DEL ARTÍCULO 306 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN V DEL APARTADO A DEL ARTÍCULO 194 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO.”]
 
-VII.3. Los jugos concentrados, deshidratados y elaborados de concentrados no deberán exceder los límites de contaminantes establecidos para los jugos.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VII.4. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+SEGUNDO. El presente Decreto entrará en vigor a los noventa días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VII.5. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
-VII.6. El jugo de fruta o de hortaliza podrá ser concentrado y luego reconstituido con agua potable o purificada, según sea el caso, para conservar los factores esenciales de composición y calidad del mismo.
+G.G. 16 DE JUNIO DE 2016.
 
-VII.7. El jugo de hortalizas podrá condimentarse.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 97.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO Y LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
 
-VII.8. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
 
-VII.9. Para los jugos se podrá emplear sacarosa, glucosa, fructosa o jarabe de maíz para ajustar la relación brix/acidez, de acuerdo con lo que se establezca en las normas correspondientes.
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-VII.10. Se podrá emplear sacarosa, glucosa, fructosa o jarabe de almidón en los néctares de frutas en una cantidad no mayor del 20%.
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
-VIII. Bebidas no alcohólicas, agua envasada, productos para prepararlas y congelados de las mismas.
+CUARTO. Respecto a las adiciones a los artículos 70 y 70 Bis del Código Penal del Estado de México, el otorgamiento del beneficio estará condicionado además a la disponibilidad de los dispositivos electrónicos y a la suficiencia presupuestal para su ejecución.
 
-VIII.1. Para efectos de este apartado, se entiende por:
+G.G. 16 DE AGOSTO DE 2016.
 
-VIII.1.1. Agua envasada, al agua de cualquier origen que para su comercialización se presenta al consumidor en envases cerrados y que debe ser apta para consumo humano directo o indirecto:
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 118.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 132 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
 
-a. Agua mineral natural, al agua de manantial o pozo de origen natural, cuya composición, estabilidad de flujo o temperatura son constantes, teniendo en cuenta los ciclos de las fluctuaciones naturales, que se caracteriza por el contenido de determinadas sales minerales, así como por la presencia de oligoelementos y otras características como temperatura y radiactividad (en la fuente de origen), envasada tal como surge de la fuente, sin ningún tratamiento químico, y que puede estar o no carbonatada,
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-b. Agua mineralizada, al agua purificada que ha sido adicionada de sales, y que puede estar o no carbonatada,
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-c. Agua potable, al agua cuyo uso y consumo no causa efectos nocivos al ser humano y
+TERCERO. Cuando se haga referencia al Código Nacional de Procedimientos Penales se entenderá al Código de Procedimientos Penales del Estado de México, hasta la entrada en vigor del Código Nacional de Procedimientos Penales.
 
-d. Agua purificada, al agua que se ha sometido a tratamiento fisicoquímico, para hacerla apta para el consumo humano;
+CUARTO. Todos los procedimientos penales que se iniciaron con el Código de Procedimientos Penales para el Estado de México se concluirán con el mismo.
 
-VIII.1.2. Bebidas saborizadas no alcohólicas:
+QUINTO. En tanto entre plenamente en vigor el Decreto por el que se crea la Fiscalía General del Estado de México, deberá entenderse a la Procuraduría General de Justicia del Estado de México.
 
-a. Bebidas saborizadas, a los productos elaborados por la disolución en agua potable tratada, agua mineral o leche, de edulcorantes y saboreadores, entre otros, adicionadas o no de jugos o pulpa de fruta, de sus concentrados o extractos y otros aditivos para alimentos, y que puede estar o no carbonatada,
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
-b. Bebida para deportistas, al producto elaborado por la disolución de sales minerales, edulcorantes u otros ingredientes con el fin de reponer el agua, energía y electrolitos perdidos por el cuerpo humano durante el ejercicio y
+G.G. 7 DE SEPTIEMBRE DE 2016.
 
-c. Polvo para preparar bebidas no alcohólicas, al producto con o sin azúcares o edulcorantes sintéticos, adicionados o no de jugo, leche y aditivos para alimentos, y
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
 
-VIII.1.3. Productos congelados:
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial ‘Gaceta del Gobierno”.
 
-a. Congelado de bebidas no alcohólicas, al producto elaborado con agua potable al que se le agregan jugo o pulpa de frutas, edulcorantes y otros aditivos para alimentos con o sin incorporación de aire y que puede ser moldeado o empalillado,
+SEGUNDO. El presente Decreto entrará en vigor el primero de enero de dos mil diecisiete.
 
-b. Hielo potable, al producto obtenido por congelación o cristalización del agua potable y
+TERCERO. La Comisión Estatal de Factibilidad se deberá instalar en un plazo máximo de 30 días naturales siguientes a la entrada en vigor del presente Decreto.
 
-c. Nieve, al producto congelado de bebidas no alcohólicas, con jugo o pulpa de fruta, con incorporación de aire.
+CUARTO. La Comisión Estatal de Factibilidad emitirá su Reglamento interior dentro de los 30 días naturales posteriores a su instalación.
 
-VIII.2. Los establecimientos que se destinen a la fabricación del hielo potable, además de cumplir con los requisitos que se establecen en este Reglamento, deberán contar con:
+QUINTO. A la entrada en vigor del presente decreto, los dictámenes y las prórrogas emitidas con anterioridad, conservarán la vigencia que tengan establecida.
 
-VIII.2.1. Área de llenado y congelación, en la cual deberá observarse lo siguiente:
+SEXTO. Los procedimientos iniciados antes de la entrada en vigor del presente decreto serán concluidos conforme a la legislación aplicable al momento en que se iniciaron.
 
-a. Los moldes para la congelación del agua deberán ser de material no oxidable y de diseño sanitario que permita su fácil lavado y desinfección. Los moldes deberán estar provistos de tapas del mismo material no oxidable, y deberán lavarse y desinfectarse,
+La persona física o jurídico colectiva que haya iniciado procedimientos antes de la entrada en vigor del presente decreto, podrá elegir la continuidad del mismo, o bien, reiniciar bajo los procedimientos establecidos en el presente decreto, en cuyo caso se admitirán los dictámenes ya obtenidos de las diferentes dependencias del Gobierno del Estado de México.
 
-b. El llenado de los moldes deberá hacerse a través de tubería fija,
+SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de factibilidad se tendrá por entendido que serán suplidos por el Dictamen Único de Factibilidad emitido por la Comisión Estatal de Factibilidad.
 
-c. Los depósitos de salmuera deberán mantener un nivel que impida la contaminación del agua potable contenida en los moldes,
+OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
 
-d. Los equipos para el tratamiento de agua, clorinadores, filtros de arena, de grava y carbón activado u otros que se requieran para casos específicos, deberán mantenerse en buen estado de funcionamiento para asegurar la potabilidad del agua,
+NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
-e. Los tanques de congelación que contengan salmuera, mantendrán un nivel que impida la contaminación del agua potable contenida en los moldes y
+G.G. 13 DE SEPTIEMBRE DE 2016.
 
-f. Los andenes de acceso a los tanques de congelación deberán ser lisos y de material impermeable, con una pendiente hacia el drenaje y un borde a cada lado;
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 125.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES Y SE REFORMA EL PÁRRAFO TERCERO QUE PASA A SER CUARTO PÁRRAFO DEL ARTÍCULO 218 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
 
-VIII.2.2. Área de corte y envasado, en la cual deberá observarse lo siguiente:
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-a. La parte del equipo de corte y envasado que se ponga en contacto con el hielo, deberá ser de material no oxidable, y se deberá lavar y desinfectar al inicio de las operaciones y
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-b. El envasado podrá ser manual y deberá evitar el contacto del hielo con el personal encargado de esta operación, y
+G.G. 20 DE DICIEMBRE DE 2016.
 
-VIII.2.3. Cámaras frías de almacenamiento de hielo, las cuales deberán:
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO EN LA ENTIDAD”.]
 
-a. Contar con sistema de refrigeración que mantenga la temperatura de congelación del hielo,
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-b. Estar provistas de los dispositivos de registro y control de la temperatura, para efectos del inciso anterior y
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-c. Contar con aislante en buen estado y topes para proteger las paredes de los golpes que puedan producir las barras de hielo.
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
 
-Las áreas de llenado y congelación, de corte y envasado, así como las cámaras frías de almacenamiento de hielo, deberán ser independientes, en su caso, de los almacenes de productos químicos y de envases para el hielo, de las máquinas, de los lubricantes de mantenimiento, del área de carga, del laboratorio, de las oficinas administrativas, de los sanitarios y de los vestidores.
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
 
-VIII.3. En el acceso a las áreas de llenado y congelación, de corte y envasado, así como en las cámaras frías de conservación de hielo deberán existir tapetes que contendrán una solución desinfectante. El personal que labore en dichas áreas, antes de penetrar a las mismas, deberá desinfectar sus botas en esos tapetes.
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
-No se permitirá el acceso de personas ajenas a la actividad que en dichas áreas se realice.
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
-VIII.4. Las bebidas no alcohólicas, como producto final, podrán ser pasteurizadas antes o después del envasado y contener hasta 0,5% en volumen a 20°C de alcohol etílico procedente de los saboreadores.
+G.G. 3 DE FEBRERO DE 2017.
 
-Las bebidas no alcohólicas para su venta o suministro al público deberán estar protegidas con envases provistos de cierre hermético para prevenir su contaminación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 192.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 9, 58 EN SU CUARTO PÁRRAFO Y DEROGA DEL ARTÍCULO 69, LA FRACCIÓN V, EL CAPÍTULO XVII DENOMINADO "NO EJERCICIO DE LA ACCIÓN PENAL" DEL TÍTULO QUINTO DEL LIBRO PRIMERO Y EL ARTÍCULO 106 QUINTUS, EL CAPÍTULO II DENOMINADO "SECUESTRO" DEL SUBTÍTULO TERCERO, DEL TÍTULO TERCERO, ASÍ COMO LOS ARTÍCULOS 259, 260 Y 261 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; Y REFORMA LA DENOMINACIÓN "LEY DE INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO", EL ARTÍCULO 2, LAS FRACCIONES IV Y XVII DEL ARTÍCULO 3, EL APARTADO B DE LA FRACCIÓN I DEL ARTÍCULO 4, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 10, LOS ARTÍCULOS 11, 12, 13, 14, 15, 16, 17 EN SU PRIMER PÁRRAFO, 18, 19, 20 EN SU SEGUNDO PÁRRAFO, 22, 23, 24 Y 25 Y SE DEROGAN LA FRACCIÓN III DEL ARTÍCULO 3, EL CAPÍTULO III DENOMINADO "DE LA CONMUTACIÓN DE LA PENA" Y LOS ARTÍCULOS 6, 7, 8 Y 9 DE LA LEY DEL INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO; Y DEROGA EL ARTÍCULO 192 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO".]
 
-VIII.5. El agua mineral natural deberá ser incolora, con olor y sabor característicos de la fuente natural, y no deberá exceder los siguientes límites:
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-MÁXIMO (mg/l)
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VIII.5.1. Cobre 1;
+TERCERO. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto continuarán su trámite hasta su conclusión conforme a las disposiciones jurídicas vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
-VIII.5.2. Manganeso 2;
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
-VIII.5.3. Zinc 5;
+G.G. 30 DE MAYO DE 2017.
 
-VIII.5.4. Borato 30 calculado
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 207.- POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
 
-como H3BO3;
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VIII.5.5. Materia 3 calculado
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno", con excepción de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, que entrarán en vigor el 19 de julio de 2017.
 
-orgánica como O2
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión Estatal de Selección.
 
-consumido;
+La Comisión Estatal de Selección, nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes.
 
-VIII.5.6. Arsénico 0,05;
+I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
 
-VIII.5.7. Bario 1;
+II. Un integrante que durará en su encargo dos años.
 
-VIII.5.8. Cadmio 0,01;
+III. Un integrante que durará en su encargo tres años.
 
-VIII.5.9. Cromo 0,05;
+IV. Un integrante que durará en su encargo cuatro años.
 
-VIII.5.10. Plomo 0,05;
+V. Un integrante que durará en su encargo cinco años.
 
-VIII.5.11. Plata 0,05;
+CUARTO. El Comité Coordinador del Sistema Estatal Anticorrupción, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana.
 
-VIII.5.12. Mercurio 0,001;
+QUINTO. Dentro de los noventa días hábiles posteriores a su instalación el Comité Coordinador del Sistema Estatal Anticorrupción emitirá sus Reglas de Funcionamiento y Organización Interna, así como las bases a las que se ajustarán los Comités Coordinadores del Sistema Municipal Anticorrupción.
 
-VIII.5.13. Selenio 0,01;
+SEXTO. La Secretaría Ejecutiva deberá iniciar operaciones a más tardar a los sesenta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
 
-VIII.5.14. Fluoruro 2,0 calculado
+Para tal efecto, el Ejecutivo Estatal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
 
-como F;
+SÉPTIMO. La Secretaría Técnica expedirá su estatuto orgánico dentro de los noventa días hábiles a partir del inicio de sus operaciones.
 
-VIII.5.15. Nitrato 45 calculado
+OCTAVO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán designar a los integrantes de la Comisión de Selección Municipal.
 
-como NO3;
+La Comisión de Selección Municipal, nombrará a los Integrantes del Comité de Participación Ciudadana Municipal, en los términos siguientes.
 
-VIII.5.16. Sulfuro 0,05 calculado
+I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador, ambos del Sistema Municipal Anticorrupción.
 
-como H2S, y
+II. Un integrante que durará en su encargo dos años.
 
-VIII.5.17. Sulfato 400.
+III. Un integrante que durará en su encargo tres años.
 
-VIII.6. El agua mineral natural no deberá contener microorganismos patógenos, toxinas microbianas, antibióticos, hormonas, medicamentos y sustancias tóxicas que signifiquen un riesgo para la salud del consumidor o provoquen alteración o descomposición del producto; asimismo, no deberá exceder los siguientes límites microbianos:
+El Comité Coordinador Municipal, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana Municipal.
 
-VIII.6.1. Mesofílicos 100 UFC/ml;
+Una vez instalado el Comité Coordinador Municipal tendrá un plazo de noventa días para emitir las disposiciones relativas a su funcionamiento.
 
-aerobios
+NOVENO. Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se abrogará la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios publicada en el periódico oficial "Gaceta del Gobierno" el 11 de septiembre de 1990.
 
-VIII.6.2. Mohos y 25 UFC/ml, y
+Los procedimientos iniciados con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se substanciarán y serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
 
-levaduras
+A la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en todos los ordenamientos jurídicos donde se haga referencia a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, se entenderá por Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-VIII.6.3. Escherichia coli Negativo.
+Hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos estatales y municipales, presentarán sus declaraciones en los formatos que, a la entrada en vigor del presente Decreto, se utilicen en la Entidad.
 
-VIII.7. La carbonatación del agua envasada deberá efectuarse con anhídrido carbónico grado alimentario (pureza mínima 99,8%), exento de ácido nitroso, ácido sulfhídrico, anhídrido sulfuroso y otras impurezas, su contenido de monóxido de carbono no deberá ser superior al 0,2% en volumen y la presión del gas no deberá ser mayor de 5 atmósferas a 15,5°C.
+DÉCIMO. Los procedimientos administrativos iniciados por el Órgano Superior de Fiscalización del Estado de México, que se encuentren en trámite o pendientes de resolución hasta antes de la entrada en vigor del presente Decreto, así como en los que se deriven de las atribuciones de fiscalización y revisión hasta la Cuenta Pública del año 2016, se aplicarán las disposiciones de la Ley de Fiscalización Superior del Estado de México y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios vigentes con anterioridad a la entrada en vigor de este Decreto, hasta su conclusión definitiva.
 
-VIII.8. Las bebidas saborizadas no alcohólicas, de acuerdo con su contenido de jugo, se clasifican como sigue:
+Los asuntos relacionados con la revisión y fiscalización de la Cuenta Pública 2017, que deriven en procedimientos administrativos, se tramitarán conforme al presente Decreto, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-VIII.8.1. Bebidas de sabor, y
+Las atribuciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores, entrarán en vigor al día siguiente de la publicación del presente Decreto.
 
-VIII.8.2. Bebidas de, seguidas del nombre de la fruta.
+El Órgano Superior de Fiscalización del Estado de México deberá realizar las adecuaciones a su estructura orgánica para desarrollar las atribuciones correspondientes a las autoridades investigadoras y substanciadoras a que se refieren (sic) Ley General de Responsabilidades Administrativas, la Ley de Fiscalización Superior del Estado de México y la Ley de Responsabilidades Administrativas del Estado de México y Municipios y emitir en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, las disposiciones necesarias.
 
-VIII.9. Las bebidas saborizadas no alcohólicas, no deberán exceder el límite de contaminantes para el agua potable. En el caso de las bebidas que contengan fruta, además, no deberán rebasar los límites de contaminantes que correspondan a la proporción de jugo empleado.
+DÉCIMO PRIMERO. Los procedimientos penales que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
 
-VIII.10. Las bebidas saborizadas no alcohólicas no deberán contener microorganismos patógenos, ni sobrepasar los siguientes límites:
+DÉCIMO SEGUNDO. Una vez que entren en vigor las disposiciones del presente Decreto, en un término no mayor de treinta días hábiles, se deberá designar al Fiscal especializado en combate a la corrupción.
 
-Microorganismos Bebidas Bebidas no
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, la Legislatura deberá designar o ratificar en un plazo de treinta días hábiles, al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, mediante el procedimiento que previamente establezca para ello, de no cumplirse en tiempo, se entenderá por ratificado al servidor público en funciones.
 
-carbonata- carbonatadas
+En tanto la Legislatura designa o ratifica al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, quien se encuentre desempeñando dichas funciones, continuará en el encargo.
 
-aerobios MÁXIMO
+DÉCIMO CUARTO. El Tribunal de Justicia Administrativa expedirá su Reglamento Interior dentro de los treinta días naturales siguientes a la publicación del presente Decreto.
 
-MÁXIMO
+DÉCIMO QUINTO. Los procedimientos en curso anteriores a la entrada en vigor del presente Decreto, se substanciarán conforme a la legislación vigente al momento de su inicio.
 
-VIII.10.1. Mesofílicos 25 UFC/ml 50 UFC/ml;
+DÉCIMO SEXTO. El Gobernador del Estado de México hará los nombramientos de los Magistrados que integrarán las salas especializadas en materia de responsabilidades administrativas, así como de la Cuarta Sección de la Sala Superior, dentro de los sesenta días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, para su aprobación por la Legislatura del Estado o la Diputación Permanente, en su caso.
 
-aerobios
+DÉCIMO SÉPTIMO. Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado de México que hayan sido nombrados a la fecha de entrada en vigor del presente Decreto, continuarán como Magistrados del Tribunal de Justicia Administrativa del Estado de México, exclusivamente por el tiempo que hayan sido nombrados.
 
-VIII.10.2. Coliformes Negativo Negativo;
+DÉCIMO OCTAVO. Los servidores públicos del Tribunal de lo Contencioso Administrativo del Estado de México continuarán laborando en el Tribunal de Justicia Administrativa del Estado de México, sin perjuicio de la antigüedad de sus derechos laborales.
 
-totales
+DÉCIMO NOVENO. A la fecha de entrada en vigor de este decreto, todas las menciones que se hagan al Tribunal de lo Contencioso Administrativo del Estado de México, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de México. Así mismo, las derogaciones al Código de Procedimientos Administrativos del Estado de México, contenidas en el presente decreto, entraran en vigor a partir de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México.
 
-VIII.10.3. Mohos 10 UFC/ml 25 UFC/ml, y
+VIGÉSIMO. Los servidores públicos que venían ejerciendo cargos administrativos, que se transforman conforme a lo dispuesto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, continuarán desempeñando los mismos cargos hasta que el Pleno del Tribunal acuerde la creación de las nuevas unidades administrativas y decida sobre las designaciones específicas.
 
-VIII.10.4. Levaduras 10 UFC/ml 25 UFC/ml.
+VIGÉSIMO PRIMERO. Dentro del plazo de un año a partir del inicio de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, deberá instrumentarse el proceso de certificación a los servidores públicos obligados, conforme a las disposiciones reglamentarias que expida el Pleno de la Sala Superior, pudiendo contar con el apoyo de instituciones docentes afines a la actividad jurisdiccional, mediante los convenios de colaboración que para tal efecto se celebren.
 
-VIII.11. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas correspondiente que permitan la implementación del objeto del presente Decreto.
 
-VIII.12. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
 
-VIII.13. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables.
 
-VIII.14. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+G.G. 1 DE SEPTIEMBRE DE 2017.
 
-VIII.15. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 227.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO Y AL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
 
-VIII.15.1. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
 
-VIII.15.2. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VIII.15.3. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+TERCERO. Se derogan las disposiciones de igual o menos jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
-VIII.15.4. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+G.G. 5 DE SEPTIEMBRE DE 2017.
 
-VIII.16. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
 
-VIII.17. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VIII.18. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VIII.19. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+G.G. 8 DE SEPTIEMBRE DE 2017.
 
-VIII.20. Las bebidas de sabores de frutas cítricas deberán contener aceite esencial de la fruta correspondiente.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO".]
 
-VIII.21. Las bebidas para deportistas deberán contener los ingredientes y aditivos para alimentos establecidos para las bebidas no alcohólicas, excepto por lo que se refiere a los edulcorantes sintéticos, que podrán utilizarse únicamente con el fin de complementar el dulzor del producto.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-VIII.22. Las especificaciones microbiológicas de las bebidas adicionadas de nutrimentos deberán corresponder a las establecidas en el artículo VIII.10. de este Apéndice.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-VIII.23. Las bebidas reducidas en calorías, bebidas bajas en calorías y bebidas sin calorías deberán cumplir con las especificaciones microbiológicas establecidas para las bebidas saborizadas no alcohólicas.
+TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
 
-VIII.24. Los productos para preparar bebidas no alcohólicas no deberán contener microorganismos patógenos. La tolerancia máxima de mesofílicos aerobios deberá ser de 5000 UFC/g y de levaduras y mohos de 100 UFC/g.
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
-VIII.25. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
+G.G. 29 DE NOVIEMBRE DE 2017.
 
-VIII.26. Los polvos para preparar bebidas, no deberán exceder de 4% de humedad.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257.- POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XIX DEL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
 
-VIII.27. En las congeladas de bebidas no alcohólicas no se podrán emplear conservadores.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-VIII.28. Las congeladas de bebidas no alcohólicas no deberán contener microorganismos patógenos. La tolerancia máxima de mesofílicos aerobios deberá ser de 1000 UFC/g, y de levaduras y mohos 25 UFC/g.
-
-VIII.29. El hielo potable deberá elaborarse con agua sobreclorada (cloro libre residual máximo 1,0 mg/l).
-
-VIII.30. Los exámenes bacteriológicos del hielo potable se deberán realizar semanalmente y las determinaciones de cloro libre residual una vez al día, por lo menos.
-
-VIII.31. La desinfección de los moldes para la congelación del agua deberá realizarse con una solución de cloro libre a una concentración de 50 mg/l.
-
-VIII.32. Los tapetes que se tengan en el acceso de las áreas de llenado y congelación deberán contener una solución de cloro libre en una concentración de 500 mg/l.
-
-VIII.33. El manejo del hielo en barra durante todas las etapas del proceso se deberá hacer en forma higiénica.
-
-VIII.34. Los vehículos que se destinen al transporte del hielo potable, se deberán utilizar únicamente para este fin y, en su caso, deberán contar con una caja tipo hielera; asimismo, deberán mantenerse siempre limpios y en buen estado de mantenimiento.
-
-VIII.35. El etiquetado de los productos deberá ostentar, según corresponda, lo siguiente:
-
-VIII.35.1. Para las congeladas de bebidas no alcohólicas la leyenda: "Para protección de su salud, deberán lavarse las manos y el envase de este producto antes de consumirlo", y
-
-VIII.35.2. Para las bebidas no alcohólicas con modificaciones en su composición, lo establecido en este Reglamento y las normas correspondientes.
-
-IX. Cereales, leguminosas, sus productos y botanas.
-
-IX.1. Para efectos de este apartado, se entiende por:
-
-IX.1.1. Cereales, leguminosas y tubérculos:
-
-a. Arroz, al grano maduro, entero, sano y limpio del género Oriza sativa, L.,
-
-b. Avena, al grano entero, maduro, sano y limpio del género Avena sativa, L.,
-
-c. Cereal, a los granos comestibles de ciertas plantas pertenecientes a la familia de las gramíneas de un solo cotiledón, tales como trigo, maíz, arroz, avena, centeno y cebada,
-
-d. Leguminosa, a la planta de la familia del mismo nombre, cuyo fruto se presenta en vaina, y de la cual se separan las semillas,
-
-e. Maíz, al grano maduro, entero, sano y seco del género Zea, L.; especies mays y otras,
-
-f. Maíz nixtamalizado o nixtamal, al maíz sano y limpio que ha sido sometido a cocimiento con agua, en presencia de hidróxido de calcio, en proporción adecuada de acuerdo con las características del maíz empleado,
-
-g. Trigo, al grano maduro, entero, sano y seco del género Triticum, L.; de las especies vulgare, compactum y durum y
-
-h. Tubérculo, al producto vegetal proveniente de las raíces de algunas plantas;
-
-IX.1.2. Harinas y sus productos:
-
-a. Germen, al residuo de la molienda de los cereales formado por el embrión y escutelo,
-
-b. Harina o harina de trigo, al producto obtenido de la molienda del grano de trigo maduro, entero o quebrado, limpio, sano y seco del género Triticum L. de las especies vulgare, compactum y durum o mezclas de éstas, en el que se elimina gran parte del salvado y germen y el resto se tritura hasta obtener un grano de finura adecuada,
-
-c. Harina de arroz, al producto resultante de la molienda del grano de arroz; maduro, limpio, entero o quebrado, sano y seco del género Oriza sativa, L; blanco o ligeramente amarillento, el cual puede presentarse con o sin pericarpio, sin glumas y pulido,
-
-d. Harina de avena, al producto resultante de la molienda del grano de avena; maduro, limpio, entero, sano y seco del género Avena sativa, L; y que además está libre de sus envolturas celulósicas,
-
-e. Harina de centeno, al producto resultante de la molienda del grano de centeno; maduro, limpio, entero, sano y seco, del género Secale cereale; sin envolturas celulósicas,
-
-f. Harina de frijol, al producto precocido, machacado, deshidratado y molido, obtenido de las semillas de la planta perteneciente al género y especie Phaseolus vulgaris L.,
-
-g. Harina de maíz, al producto resultante de la molienda húmeda o seca de los granos de maíz, maduros, limpios, sanos y secos del género Zea, L.; especies mays y otras,
-
-h. Harina de maíz nixtamalizado, al producto deshidratado que se obtiene de la molienda de los granos de maíz nixtamalizado,
-
-i. Harina de soya, al producto que se obtiene de la molienda de las semillas de la planta perteneciente al género y especie Glycine max,
-
-j. Harina de soya desgrasada, al producto obtenido de la molienda o el quebrado de las semillas de frijol de soya, descascaradas y sometidas a la extracción del aceite, mediante el empleo de solventes y con la eliminación de los mismos,
-
-k. Harina integral, al producto obtenido de la molienda del grano que conserva su cáscara y demás componentes,
-
-l. Harina integral de soya, al producto que se obtiene de la molienda de las semillas de frijol de soya con cáscara y conservando su grasa,
-
-m. Harina preparada, al producto elaborado a partir de cereales y leguminosas, adicionado de otros ingredientes y aditivos para alimentos, para preparar donas, hot cakes, churros, tamales, tortillas y pasteles, entre otros,
-
-n. Salvado, salvadillo, cema o acemite, al residuo de la molienda del trigo integrado por la cáscara del grano, mezclado con una pequeña porción de harina,
-
-o. Sémola, al producto de gránulo grueso obtenido de la molienda del trigo libre de tegumentos y germen y
-
-p. Semolina, al producto de gránulo pequeño obtenido de la molienda del trigo;
-
-IX.1.3. Concentrados proteicos:
-
-a. Concentrado de proteína de soya, al producto obtenido de las semillas de soya, de las que se ha eliminado la mayor parte de aceite y componentes no proteicos solubles en agua y que debe contener no menos de 70% de proteínas,
-
-b. Gluten, a las proteínas que se encuentran en el trigo, triticales, centeno, cebada y avena y
-
-c. Proteína aislada de soya, al producto obtenido de la fracción de la semilla de soya, exenta de los contenidos no proteicos; y que debe contener por lo menos 90% de proteína;
-
-IX.1.4. Productos de panificación:
-
-a. Galleta, al producto elaborado fundamentalmente por una mezcla de harina, grasas o aceites comestibles y agua, adicionada o no de azúcares, de otros ingredientes opcionales y aditivos para alimentos, sometida a proceso de amasado y posterior tratamiento térmico, que da lugar a un producto de presentación muy variada, caracterizado por su bajo contenido en agua,
-
-b. Pan blanco, al producto que resulta de hornear una masa obtenida de harina fermentada por acción de leudante, agua y sal comestible, acondicionadores y mejoradores de masa, adicionado o no de aceites y grasas comestibles, leche, otros ingredientes y aditivos para alimentos,
-
-c. Pan de harina integral, al producto que resulta de la panificación de la masa fermentada por la acción de levaduras, preparada con harina de trigo, harinas de cereales integrales o de leguminosas, agua potable, sal comestible, azúcares, grasas comestibles, otros ingredientes y aditivos para alimentos,
-
-d. Pan dulce, al producto de panificación constituido por harina, agua, huevo, azúcares, grasas o aceites comestibles o aceites hidrogenados, levaduras, adicionada o no de aditivos para alimentos, frutas en cualquiera de sus presentaciones, sal y leche, amasado, fermentado, moldeado y cocido al horno o por fritura en grasas o aceites comestibles,
-
-e. Pan negro, al producto de panificación obtenido de la mezcla de harina de trigo y centeno, que puede ser acidulado y adicionado de especias y aditivos para alimentos,
-
-f. Pastel o panqué, al producto que se somete a batido y horneado, preparado con harinas de cereales o leguminosas, azúcares, grasas o aceites, leudante y sal; adicionado o no de huevo y leche, crema batida, frutas u otros ingredientes opcionales y aditivos para alimentos,
-
-g. Pay, al producto elaborado con harina de cereales o galleta molida, azúcares, agua y sal, con o sin leudante, grasas o aceites comestibles, fruta, crema pastelera, ingredientes opcionales y aditivos para alimentos; moldeado en forma de corteza para contener un relleno dulce o salado, que puede ser cubierto, horneado, frito o congelado y
-
-h. Productos de panificación, a los obtenidos de las mezclas de harinas de cereales o harinas integrales o leguminosas, agua potable, fermentados o no que pueden contener sal comestible, mantequilla, margarina, aceites comestibles hidrogenados o no, leudante, polvo de hornear, especias y otros ingredientes opcionales tales como, azúcares, mieles, frutas, jugos u otros productos comestibles similares, se pueden emplear o no aditivos para alimentos; sometidos a proceso de horneado, cocción o fritura; con o sin relleno o con cobertura, pueden ser mantenidos a temperatura ambiente, en refrigeración o en congelación, según el caso;
-
-IX.1.5. Tortillas:
-
-a. Tortilla de harina de trigo, al producto sometido a cocción elaborado con harina de trigo, grasas o aceites comestibles, leudante, sal comestible y aditivos para alimentos y
-
-b. Tortilla de maíz, al producto sometido a cocción, elaborado con la masa o harina de maíz nixtamalizado y agua;
-
-IX.1.6. Almidones:
-
-a. Fécula, al almidón extraído de los granos, semillas o tubérculos de las plantas; que puede ser adicionada de colorantes o saborizantes y
-
-b. Producto para preparar atole, al elaborado con fécula o harina de cereales, adicionado o no de saboreadores y colorantes;
-
-IX.1.7. Pastas:
-
-a. Pasta de harina para botanas, al producto que se obtiene del amasado mecánico de una mezcla de harinas de cereales, leguminosas o tubérculos, agua potable y otros ingredientes, adicionado o no de aditivos para alimentos y
-
-b. Pasta para sopa, al producto que se obtiene por amasado mecánico de harina de trigo o sémola o semolina o mezclas de éstas y agua potable, adicionada o no de gluten y huevo y, en su caso, colorantes y otros ingredientes;
-
-IX.1.8. Alimentos preparados a base de cereales, de semillas comestibles, de harinas o sus mezclas, a los productos elaborados a base de granos de cereales u otros granos y semillas comestibles sanos, limpios y de buena calidad, enteros o sus partes, molidos (harinas), preparados mediante procesos físicos, aptos para ser consumidos directamente o previa cocción, adicionados o no de aditivos para alimentos y de otros ingredientes opcionales; se pueden preparar por procesos tales como: inflado, laminado, recubrimiento, tostado, extruido u otros y
-
-IX.1.9. Botanas:
-
-a. Botanas, a los productos elaborados a base de harinas, semillas, tubérculos, cereales, granos y frutas sanos y limpios que pueden estar fritos, horneados y explotados o tostados y adicionados de sal, otros ingredientes y aditivos para alimentos y
-
-b. Semilla para botanas, a la parte del fruto comestible de las plantas o árboles, limpia, sana, con o sin cáscara o cutícula, frita, tostada u horneada, adicionada o no de otros ingredientes o aditivos para alimentos.
-
-IX.2. La harina de soya desgrasada cocida deberá cumplir con las siguientes especificaciones microbiológicas:
-
-IX.2.1. Mesofílicos aerobios 50 000 UFC/g máximo, y
-
-IX.2.2. Mohos100 UFC/g máximo.
-
-IX.3. Las pastas deberán cumplir con las siguientes especificaciones microbiológicas:
-
-IX.3.1. Mohos100 UFC/g máximo;
-
-IX.3.2. Levaduras20 UFC/g máximo;
-
-IX.3.3. Escherichia coli< 3 NMP/g, y
-
-IX.3.4. Salmonellanegativa en 25g.
-
-IX.4. Las pastas rellenas para su conservación deberán protegerse con un envase adecuado y aquéllas que no hayan sido sometidas a ningún proceso de desecación deberán mantenerse en congelación o refrigeración hasta antes de la cocción para su consumo.
-
-IX.5. En el etiquetado de las pastas rellenas, deberá indicarse la fecha de caducidad. En el caso de las pastas rellenas no deshidratadas se deberá incluir la leyenda: "Manténgase en refrigeración" o "Manténgase en congelación", según sea el caso.
-
-IX.6. Los tubérculos empleados en la elaboración de botanas deberán estar sanos, lavados, pelados o no, limpios y, en su caso, rebanados y fritos con aceite vegetal comestible.
-
-IX.7. Los productos elaborados con pasta de harina, deberán cumplir con las siguientes especificaciones:
-
-IX.7.1. Fisicoquímicas:
-
-MÁXIMO
-
-a. Acidez como ácido cítrico,
-
-en su caso, y 1% y
-
-b. Índice de peróxido, únicamente
-
-para pastas de harina fritas. 70 meq/kg
-
-IX.7.2. Contaminantes:
-
-a. Aflatoxinas 15 µg/kg, y
-
-IX.7.3. Microbiológicas:
-
-a. No deberán contener microorganismos patógenos.
-
-IX.8. Las botanas elaboradas con semillas deberán cumplir con las siguientes especificaciones:
-
-IX.8.1. Fisicoquímicas:
-
-MÁXIMO
-
-a. Humedad en semillas secas 7,0 %,
-
-b. Humedad en castañas secas 8,5 %,
-
-c. Humedad en garbanzos secos 11,0 %,
-
-d. Humedad en habas secas 12,0 %,
-
-e. Acidez como ácido cítrico,
-
-en su caso 1,0% y
-
-f. Indice de peróxido 70 meq/kg;
-
-IX.8.2. Contaminantes:
-
-a. Aflatoxinas 15 µg/kg,
-
-b. Arsénico (As) 0,2 mg/kg,
-
-c. Plomo (Pb) 0,5 mg/kg y
-
-d. Mercurio (Hg) 0,01 mg/kg, y
-
-IX.8.3. Microbiológicas:
-
-a. No deberán contener microorganismos patógenos.
-
-IX.9. Las botanas fritas elaboradas con tubérculos, deberán cumplir con las siguientes especificaciones:
-
-IX.9.1. Índice de peróxido70 meq/kg máximo, y
-
-IX.9.2. No deberán contener microorganismos patógenos.
-
-X. Aceites y grasas comestibles.
-
-X.1. Para efectos de este apartado, se entiende por aceites y grasas:
-
-X.1.1. Aceite comestible, al producto obtenido a partir de productos agrícolas o de especies animales, aptos para consumo humano, que haya sido sometido a extracción y, en su caso, refinación, lavado, deodorizado, blanqueo, hibernación o desencerado y winterización, cuando lo determine la Secretaría;
-
-X.1.2. Grasa o manteca mixta o compuesta, al producto elaborado por mezcla de grasas o aceites vegetales comestibles con grasas animales o con sebos comestibles;
-
-X.1.3. Manteca de cerdo, a la grasa separada de los tejidos grasos, frescos, limpios y sanos del cerdo (Suis scrofa) sometidos a tratamiento térmico;
-
-X.1.4. Manteca vegetal, al producto obtenido por hidrogenación parcial de aceites vegetales comestibles, o bien por mezcla de aceites vegetales comestibles no hidrogenados y aceites vegetales comestibles hidrogenados o por interesterificación de aceites vegetales comestibles o aceites vegetales comestibles hidrogenados;
-
-X.1.5. Primeros jugos u óleo stock, al producto que se obtiene de fundir mediante calentamiento suave la grasa fresca del corazón, membranas, riñones y mesenterio de animales bovinos;
-
-X.1.6. Sebo comestible, a la grasa animal proveniente de los tejidos grasos frescos, limpios y sanos de los bovinos, ovinos y equinos, y
-
-X.1.7. Margarina u oleomargarina, al producto elaborado por la emulsión estabilizada de grasas y aceites vegetales o animales comestibles, parcialmente hidrogenados o no, incorporados de agua o leche, suero de leche o sólidos de leche, así como de ingredientes opcionales y aditivos para alimentos.
-
-X.2. Los aceites vegetales comestibles podrán ser extraídos por expresión o con uno o más de los siguientes solventes:
-
-X.2.1. Hidrocarburos acíclicos saturados, en los que predominen cadenas de 5 a 8 átomos de carbono;
-
-X.2.2. Hidrocarburos cíclicos, en los que predomine el ciclohexano, y
-
-X.2.3. Alcoholes etílico e isopropílico.
-
-X.3. Los aceites comestibles deberán cumplir con las siguientes especificaciones:
-
-X.3.1. Presentar humedad máxima de 0,05%;
-
-X.3.2. Presentar acidez libre expresada en ácido oleico, máximo 0,05%;
-
-X.3.3. Presentar un índice de peróxido, no mayor de 2 meq de oxígeno/kg;
-
-X.3.4. Estar exentos de olores o sabores extraños o rancios;
-
-X.3.5. No contener más de 1,5 mg/kg de hierro;
-
-X.3.6. No contener más de 0,1 mg/kg de cobre;
-
-X.3.7. No contener más de 0,1 mg/kg de plomo, y
-
-X.3.8. No contener más de 0,1 mg/kg de arsénico.
-
-X.4. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-X.4.1. Tocoferoles 0,03%;
-
-X.4.2. Galato de propilo 0,01%;
-
-X.4.3. Galato de octilo y galato
-
-de dodecilo solos o mezclados 0,01%
-
-X.4.4. Ácido tiodipropiónico
-
-y sus ésteres 0,01%;
-
-X.4.5. Butil hidroxianisol (BHA) 0,01%;
-
-X.4.6. Butil hidroxitolueno (BHT) 0,02%;
-
-X.4.7. Ácido cítrico o ácido
-
-fosfórico 0,005%;
-
-X.4.8. Terbutil Hidroquinona
-
-(TBHQ) 0,02%;
-
-X.4.9. Palmitato y estearato de ascorbilo 0,02% solos o mezclados, y
-
-X.4.10. Mezcla de los galatos a que se refiere este artículo con BHA y BHT, en una proporción no mayor de 0,02% siempre y cuando los galatos no sobrepasen el 0,01% establecido, y
-
-X.5. Los límites del contenido de ácido erúcico y glucosinolatos de las semillas de las especies Brassica napus, L.O; Brassica campestris, L.O; y Brassica tournefortii, se establecerán en la norma correspondiente.
-
-X.6. El sebo comestible que se utilice como materia prima para la elaboración de mantecas mixtas o compuestas deberá ajustarse a las siguientes especificaciones:
-
-X.6.1.El índice de peróxido no deberá ser mayor de 16 meq de oxígeno/kg de grasa, y
-
-X.6.2.El índice de ácido no deberá ser mayor de 2,5 mg de KOH/g de grasa.
-
-X.7. En los primeros jugos u óleo stock que se utilicen como materia prima para la elaboración de mantecas mixtas el índice de peróxido no deberá exceder de 10 meq de oxígeno/kg de grasa.
-
-X.8. El etiquetado de los aceites comestibles de origen natural deberá contener la siguiente información:
-
-X.8.1. La denominación del producto que se indicará, según se trate, en alguna de las siguientes formas:
-
-a. Cuando se trate de una mezcla de dos o más aceites: "aceite vegetal comestible",
-
-b. Cuando el aceite provenga de una sola fuente, se especificará el nombre común de la semilla o fruto oleaginoso de que procede, que irá precedido de la frase: "Aceite comestible puro", y
-
-X.8.2. El porcentaje del o los antioxidantes que se emplean.
-
-X.9. La manteca de cerdo y el sebo deberán cumplir con las siguientes disposiciones sanitarias:
-
-X.9.1. Proceder de animales que no padezcan enfermedades que los inhabiliten para su consumo como alimento;
-
-X.9.2. Provenir de animales sacrificados en establecimientos que cumplan con los requisitos sanitarios establecidos, y
-
-X.9.3. No contener, en el caso del sebo comestible, grasa proveniente de regiones anatómicas que presenten heridas abiertas, ni abscesos o tumores.
-
-X.10. Las grasas compuestas deberán elaborarse a partir de:
-
-X.10.1. Aceites comestibles de origen vegetal, hidrogenados o no, y
-
-X.10.2. Grasas y aceites comestibles animales que cumplan con las disposiciones y especificaciones sanitarias que establezca la Secretaría.
-
-X.11. En la fabricación de manteca vegetal y grasas comestibles se podrán adicionar emulsificantes del tipo mono o diglicéridos.
-
-X.12. La manteca vegetal, deberá cumplir con las siguientes especificaciones:
-
-X.12.1. Tener punto de fusión menor de 50ºC;
-
-X.12.2. Presentar humedad de 0,05% como máximo;
-
-X.12.3. Tener acidez libre menor de 0,5%, expresada como ácido oleico;
-
-X.12.4. No contener más de 1,5 mg/kg de hierro;
-
-X.12.5. No contener más de 0,1 mg/kg de cobre;
-
-X.12.6. No contener más de 0,1 mg/kg de plomo;
-
-X.12.7. No contener más de 0,1 mg/kg de arsénico, y
-
-X.12.8. No contener más de 0,1 mg/kg de níquel.
-
-X.13. Las grasas o mantecas mixtas o compuestas deberán cumplir con las siguientes especificaciones:
-
-X.13.1. Presentar una acidez libre menor del 1%, expresada como ácido oleico;
-
-X.13.2. No rebasar los límites de metales pesados, establecidos para las mantecas vegetales, y
-
-X.13.3. Presentar un índice de peróxido de 1,5 meq de oxígeno/kg de grasa, máximo.
-
-X.14. Las etiquetas de las grasas y mantecas comestibles deberán incluir el porcentaje y función de los aditivos que se empleen en su elaboración.
-
-X.15. A las margarinas u oleomargarinas de mesa y margarinas modificadas en su composición, se deberá adicionar 6 670 µg de retinol (20 000 UI de Vitamina A) por kilogramo.
-
-X.16. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-X.17. Las margarinas u oleomargarinas deberán cumplir con las siguientes especificaciones microbiológicas:
-
-X.17.1. No contener microorganismos patógenos;
-
-X.17.2. Mesofílicos aerobios 500 UFC/g máximo;
-
-X.17.3. Coliformes totales 10 UFC/g;
-
-X.17.4. Escherichia coli negativo en 1 g;
-
-X.17.5. Mohos y levaduras 10 UFC/g, y
-
-X.17.6. Listeria monocytogenes negativa en 20 g.
-
-X.18. La margarina u oleomargarina deberá venderse en envoltura de papel parafinado u otro material impermeable, en el que, además de las leyendas obligatorias, se deberá hacer constar en sus etiquetas lo siguiente:
-
-X.18.1. El contenido de Vitamina A expresado en µg equivalentes de retinol por 100 g de producto terminado, y
-
-X.18.2. La leyenda: "Consérvese en refrigeración".
-
-X.19. Los aceites y grasas comestibles que se reutilicen en la industria de frituras, deberán sujetarse a lo siguiente:
-
-X.19.1. No presentar sabor y olor desagradable, color oscuro, espuma ni sedimento;
-
-X.19.2. Presentar una acidez libre menor de 2,5% en grasas y menor de 2,0% en aceite, expresado como ácido oleico;
-
-X.19.3. Tener compuestos polares no mayores de 25%;
-
-X.19.4. Tener ácidos grasos oxidados insolubles en éter de petróleo menores de 1%, y
-
-X.19.5. Tener triglicéridos diméricos y poliméricos menores de 16%.
-
-XI. Cacao, café, té y sus derivados.
-
-XI.1. Para efectos de este apartado, se entiende por:
-
-XI.1.1. Cacao y sus derivados:
-
-a. Cacao, al grano entero, sano y limpio, extraído de las mazorcas maduras de los árboles de la especie Theobroma cacao, de la familia de las esterculáceas,
-
-b. Cacao tostado descascarillado, al grano procedente de cacaos secos, limpios, sanos y tostados, a los que se les ha desprovisto de la cáscara, tegumentos, embriones y demás impurezas,
-
-c. Cocoa, al producto que se obtiene por la pulverización de la torta de cacao, a la que se le ha extraído parte de la manteca de cacao,
-
-d. Chocolate, al producto obtenido por la mezcla homogénea de cantidades variables de pasta de cacao, o manteca de cacao, o cocoa con azúcares u otros edulcorantes, ingredientes opcionales y aditivos para alimentos,
-
-e. Manteca de cacao, al producto que se obtiene por presión de la pasta de cacao,
-
-f. Pasta o licor de cacao, al producto que se obtiene del molido del cacao tostado descascarillado, prácticamente sin germen y sin eliminar o agregar ninguno de sus constituyentes y
-
-g. Torta de cacao, al producto que se obtiene por presión de la pasta de cacao, después de la extracción parcial de la manteca de cacao;
-
-XI.1.2. Café y sus derivados:
-
-a. Café, al producto obtenido de las semillas de diferentes especies del género Coffea, de la familia de Rubiáceas,
-
-b. Café crudo o verde, al grano de café sano y limpio que ha sido desecado y descascarado para retirarle los tegumentos exteriores y que puede ser descafeinado,
-
-c. Café soluble, al producto obtenido por la deshidratación de la infusión de café tostado y
-
-d. Café tostado, al grano de café crudo o verde, sano y limpio que ha sido sometido a un tratamiento térmico, pudiendo ser descafeinado;
-
-XI.1.3. Té o infusión, al producto obtenido de partes de plantas inocuas, limpias, sanas, molidas o no, en buen estado de conservación, convenientemente tratadas por infusión o por decocción en agua, cuya infusión se destina para el consumo humano, y
-
-XI.1.4. Dulce de grasa vegetal con sabor a chocolate, al producto que contiene los componentes propios del chocolate y que se le ha sustituido la manteca de cacao por otra grasa vegetal comestible.
-
-XI.2. Los granos de cacao, según el tratamiento a que se someten, podrán ser:
-
-XI.2.1. Cacao en grano lavado, secado y no fermentado, y
-
-XI.2.2. Cacao en grano fermentado.
-
-XI.3. La cocoa, de conformidad con su contenido de manteca de cacao, deberá cumplir con lo siguiente:
-
-XI.3.1. Cocoa de contenido bajo de grasa, con un mínimo de 8% y un máximo de 13,9% de manteca de cacao;
-
-XI.3.2. Cocoa de contenido medio de grasa, con un mínimo de 14% y un máximo de 19,9% de manteca de cacao, y
-
-XI.3.3. Cocoa de contenido alto de grasa, con un mínimo de 20% de manteca de cacao.
-
-XI.4. Los productos de chocolate, podrán ser adicionados con:
-
-XI.4.1. Leche entera, parcialmente descremada, semidescremada o descremada en polvo;
-
-XI.4.2. Vainilla, canela u otros saboreadores naturales;
-
-XI.4.3. Vainillina y etilvainillina u otros saboreadores sintéticos artificiales;
-
-XI.4.4. Cloruro de sodio;
-
-XI.4.5. Café;
-
-XI.4.6. Miel;
-
-XI.4.7. Extracto de Malta;
-
-XI.4.8. Cereales;
-
-XI.4.9. Especias, y
-
-XI.4.10. Mantequilla.
-
-XI.5. El chocolate y el chocolate con leche podrán ser adicionados con frutas en conserva como cerezas u otras; con semillas oleaginosas como almendras, avellanas, piñones; con pasitas y otras, las cuales deberán estar limpias y sanas, en cantidad no menor de 8% para que dichas características puedan ostentarse en la etiqueta.
-
-XI.6. Los dulces de grasa vegetal con sabor a chocolate deberán ostentar dicha denominación, seguida del nombre de la variedad de chocolate de que se trate.
-
-XI.7. El cacao, el café y sus derivados no deberán contener Salmonella en 25 g ni otros microorganismos patógenos y parásitos.
-
-XI.8. La manteca de cacao, cocoa y chocolates no deberán sobrepasar los límites máximo de los siguientes contaminantes:
-
-Contaminante Manteca Cocoas Chocolate
-
-de cacao
-
-Máximo Máximo Máximo
-
-Arsénico (As) 0,5 mg/kg 1,0 mg/kg 0,5 mg/kg
-
-Cobre (Cu) 15,0 mg/kg 30,0 mg/kg 15,0 mg/kg
-
-Plomo (Pb) 1,0 mg/kg 2,0 mg/kg 1,0 mg/kg
-
-XI.9. El cacao, el chocolate, el café y sus variedades no deberán contener más de 20 µg/kg de aflatoxinas.
-
-XI.10. En la elaboración de chocolates rellenos se permite el empleo de alcohol etílico.
-
-XI.11. En caso de que los productos y derivados del cacao contengan alcohol etílico o bebidas alcohólicas en cantidades menores al 2% en volumen en el producto terminado, la denominación específica deberá incluir el ingrediente alcohólico que se utiliza y las leyendas de advertencia correspondientes.
-
-XI.12. En el etiquetado del café mezclado con azúcar se deberá indicar el porcentaje de azúcar en el producto terminado.
-
-XI.13. El té o infusión deberá cumplir con las siguientes especificaciones microbiológicas:
-
-XI.13.1.Mesofílicos 1 X 106 UFC/g;
-
-XI.13.2.Bacillus cereus 1 X 102 UFC/g;
-
-XI.13.3.Escherichia coli Máximo 1 X 104 NMP/g;
-
-XI.13.4.Salmonella y
-
-Shigella ausente/25 g, y
-
-XI.13.5.Mohos y levaduras Máximo 1 X 104 UFC/g.
-
-XI.14. Los productos no deberán contener contaminantes químicos y biológicos que puedan poner en riesgo la salud del consumidor.
-
-XI.15. El etiquetado del té o infusión deberá cumplir con lo siguiente:
-
-XI.15.1. Se indicará el nombre común y botánico, con el señalamiento del género y especie. Cuando se trate de mezclas, se indicarán cada una de las especies botánicas, y
-
-XI.15.2. No deberán figurar textos que hagan alusión a efectos terapéuticos, preventivos o rehabilitatorios.
-
-XII. Alimentos preparados o semipreparados.
-
-XII.1. Para efectos de este apartado, se entiende por:
-
-XII.1.1. Alimentos preparados:
-
-a. Alimento preparado o semipreparado, al producto compuesto de diversos ingredientes y condimentos, que puede o no contener aditivos para alimentos, sometido o no a tratamiento térmico, cuya identidad corresponde a una especialidad culinaria específica, y que se presenta semipreparado o totalmente preparado para su consumo y
-
-b. Alimento preparado listo para su consumo, al que se somete a un procedimiento mecánico como picado o mezclado, fisicoquímico como calor húmedo o seco, de fritura, enfriamiento o congelación para su consumo;
-
-XII.1.2. Caldos o consomés:
-
-a. Caldo o consomé de camarón, al alimento preparado a base de camarones frescos o secos o su extracto, sometido a cocción en agua potable y sazonado con especias, condimentos, con o sin aditivos para alimento y que puede presentarse deshidratado o en pasta,
-
-b. Caldo o consomé de pollo, al alimento preparado a base de carne de pollo o gallina o sus extractos, sometido a cocción en agua potable y sazonado con especias y condimentos, con o sin aditivos para alimentos, y que puede presentarse deshidratado o en pasta y
-
-c. Caldo o consomé de res, al alimento preparado a base de carne fresca o deshidratada de res o su extracto, sometido a cocción en agua potable y sazonado con especias y condimentos con o sin aditivos para alimentos, y que puede presentarse deshidratado o en pasta;
-
-XII.1.3. Sopas:
-
-a. Sopa condensada o concentrada, al producto al que por proceso térmico se le ha eliminado parte del agua y que por composición deberá ser diluida para su consumo,
-
-b. Sopa crema, al producto obtenido a partir de la mezcla de verduras o tubérculos, adicionado de agua potable, leche y otros ingredientes, especias y aditivos para alimentos y
-
-c. Sopa preparada con mezcla de ingredientes deshidratados, al producto elaborado con ingredientes deshidratados o secos de origen animal o vegetal, con o sin la adición de materias farináceas, cloruro de sodio, especias o condimentos, con o sin aditivos para alimentos;
-
-XII.1.4. Mole, a las variedades de productos alimenticios de color y aspecto variable, según su composición, que contienen como ingredientes básicos chiles secos o frescos, agua, aceites o grasas comestibles, harinas, féculas, almidones, sal y otras especias y condimentos perfectamente homogeneizados y molidos, que se presentan en forma líquida, pasta o polvo, y
-
-XII.1.5. Pasta rellena, al producto que resulta de rellenar la pasta fresca, con algún alimento preparado.
-
-XII.2. La refrigeración de los alimentos preparados o semipreparados deberá efectuarse hasta alcanzar y mantener una temperatura máxima de 7°C.
-
-XII.3. La congelación de los alimentos preparados o semipreparados deberá efectuarse por el proceso rápido o lento, hasta alcanzar una temperatura de -18°C. Una vez congelados los productos deberán almacenarse a una temperatura máxima de -18°C.
-
-XII.4. En los alimentos preparados o semipreparados conservados por congelación se deberá asegurar que mantengan sus características sensoriales, aporte nutrimental y calidad sanitaria, hasta el momento de su venta.
-
-XII.5. Los caldos o consomés, sopas, guisos y moles son alimentos preparados o semipreparados.
-
-XII.6. Las sopas, de acuerdo con su composición y elaboración, se clasifican en:
-
-XII.6.1. Sopa crema;
-
-XII.6.2. Sopa condensada o concentrada, y
-
-XII.6.3. Mezcla de ingredientes deshidratados para preparar sopa.
-
-XII.7. Los alimentos preparados o semipreparados se clasifican en:
-
-XII.7.1. Condensados;
-
-XII.7.2. Concentrados;
-
-XII.7.3. Deshidratados;
-
-XII.7.4. Refrigerados, y
-
-XII.7.5. Congelados.
-
-XII.8. Los caldos o consomés deshidratados no deberán exceder los límites microbiológicos siguientes:
-
-MÁXIMO
-
-XII.8.1. Mesofílicos aerobios 500 000 UFC/g;
-
-XII.8.2. Coliformes totales 100 UFC/g
-
-XII.8.3. Staphylococcus aureus 100 UFC/g, y
-
-XII.8.4. Salmonella spp Negativa en 25g.
-
-XII.9. En las sopas que contengan ingredientes que hayan sido tratados con dióxido de azufre (SO2) u otras sustancias sulfurantes, la cantidad residual en el producto listo para su consumo no deberá exceder de 20mg/l como SO2.
-
-XII.10. La mezcla de ingredientes deshidratados para preparar sopa deshidratada no deberá contener más de 1000 UFC/g de Staphylococcus aureus.
-
-XII.11. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-XII.12. Los moles y sus variedades no deberán exceder los límites microbiológicos siguientes:
-
-PRODUCTO PRODUCTO
-
-CRUDO COCINADO
-
-UFC/g UFC/g
-
-XII.12.1. Mesofílicos 1 000 000 100 000;
-
-aerobios
-
-XII.12.2. Mohos 2 500 1 000;
-
-XII.12.3. Levaduras 5 000 2 500, y
-
-XII.12.4. Salmonella Negativa Negativa bacterias
-
-spp en 25g enteropatógenas.
-
-XII.13. El etiquetado de los alimentos preparados o semipreparados deberá ostentar:
-
-XII.13.1.En el caso de productos refrigerados, la leyenda: "Consérvese o manténgase en refrigeración", y la fecha de caducidad, y
-
-XII.13.2. En el caso de productos congelados, las leyendas: "Manténgase en congelación a -18ºC" y
-
-"Una vez descongelado prepárese para su consumo, no deberá volver a congelarse".
-
-XIII. Alimentos para lactantes y niños de corta edad.
-
-XIII.1. Para efectos de este apartado, se entiende por:
-
-XIII.1.1 Lactantes y niños de corta edad:
-
-a. Lactantes, a los niños no mayores de doce meses y
-
-b. Niños de corta edad, a los mayores de doce meses y hasta los cuarenta y ocho meses de edad; se incluye al lactante mayor de un año a un año once meses, y al preescolar, de dos a cuatro años;
-
-XIII.1.2. Alimentos para lactantes y niños de corta edad:
-
-a. Alimentos a base de cereales para lactantes y niños de corta edad, al producto elaborado con cereales adicionados o no de otros ingredientes, destinados a complementar el régimen nutrimental de lactantes y niños de corta edad, tales como cereales adicionados de leche, harinas de cereal cocido y galletas, entre otros y
-
-b. Alimentos envasados para lactantes y niños de corta edad, a los productos que se utilizan desde el período normal de la ablactación de los lactantes o niños de corta edad hasta la alimentación completa y equilibrada; están preparados para ser administrados directamente, o bien, deshidratados para ser reconstituidos mediante dilución en agua, leche o jugo;
-
-XIII.1.3. Fórmulas:
-
-a. Fórmulas de continuación, a los productos elaborados con leche de vaca o de otros animales o con otros constituyentes de origen animal o vegetal, destinados a ser utilizados para complementar o suplir la leche materna en la dieta de ablactación para lactantes a partir del sexto mes, cuando son alimentados con leche materna o a partir de los cuatro meses cuando son alimentados con fórmulas para lactantes, o bien, cuando el peso del lactante sea mayor de 6 kg, así como para niños de corta edad y
-
-b. Fórmulas para lactantes, a los productos a base de leche de vaca o de otros mamíferos u otros componentes comestibles de origen vegetal o animal, incluido el pescado, que se consideren adecuados para la alimentación de los lactantes, y
-
-XIII.1.4. Cereales lacteados, a los alimentos procedentes de cereales sanos, limpios y libres de tegumentos, agregados de no menos de 20% de sólidos de la leche, sometidos a tratamiento térmico, adicionados o no de nutrimentos y que no requieren de cocimiento posterior para su consumo.
-
-XIII.2. Los ingredientes que podrán añadirse a los alimentos elaborados a base de cereales, para lactantes y niños de corta edad, son los siguientes:
-
-XIII.2.1. Concentrados proteínicos u otros ingredientes de alto contenido proteínico apropiados para el consumo por lactantes y niños de corta edad. Pueden añadirse aminoácidos esenciales para mejorar la calidad de las proteínas, pero sólo en las cantidades necesarias para ese fin y en las formas naturales L de aminoácidos;
-
-XIII.2.2. Sal (cloruro de sodio);
-
-XIII.2.3. Leche y productos lácteos;
-
-XIII.2.4. Huevos;
-
-XIII.2.5. Carne;
-
-XIII.2.6. Grasas y aceites;
-
-XIII.2.7. Frutas y hortalizas;
-
-XIII.2.8. Azúcares;
-
-XIII.2.9. Malta;
-
-XIII.2.10. Miel;
-
-XIII.2.11. Miel de maíz;
-
-XIII.2.12. Cacao y sus productos, sólo en productos que hayan de consumirse después de los nueve meses de edad y a la dosis máxima de 5%m/m en seco;
-
-XIII.2.13. Papas;
-
-XIII.2.14. Almidones, incluso aquéllos modificados con enzimas y los tratados por medios físicos, y
-
-XIII.2.15. Vitaminas, minerales y otros nutrimentos, que únicamente se podrán añadir en las cantidades que se establezcan en las normas correspondientes.
-
-XIV. Condimentos y aderezos.
-
-XIV.1. Para efectos de este apartado, se entiende por:
-
-XIV.1.1. Aderezos:
-
-a. Aderezo, al producto preparado para sazonar alimentos, elaborado con aceite vegetal comestible, huevo, acidificantes como el vinagre o limón, azúcares, especias, condimentos y otros ingredientes, que puede ser líquido, homogeneizado o en fases múltiples,
-
-b. Aderezo de mayonesa, a la mezcla de mayonesa con almidón cocido, sal, aceite vegetal comestible, huevo y sus derivados, edulcorantes, mostaza, paprika y cualquier otra especia, extracto o aceite esencial de las mismas, con excepción de la cúrcuma y el azafrán,
-
-c. Mayonesa, al producto emulsificado, de aspecto cremoso, elaborado de aceite vegetal comestible, yema de huevo y vinagre, adicionado o no de jugo de limón, sal, edulcorantes, especias, condimentos y aditivos para alimentos, excepto azafrán, cúrcuma y espesantes y
-
-d. Mostaza preparada o mostaza preparada amarilla, al producto alimenticio de consistencia pastosa más o menos fluida de color amarillo, elaborado con la harina de semillas de mostaza limpias, sanas, secas y maduras, vinagre o mosto de vino blanco o vino tinto, sal comestible, azúcar, cúrcuma y especias;
-
-XIV.1.2.Condimentos y especias:
-
-a. Condimento, al producto de origen natural que sirve para impartir mejor sabor a los alimentos,
-
-b. Especia, a la planta o partes de ella que contiene sustancias aromáticas, sápidas o excitantes que se emplean para aderezar o mejorar el aroma o el sabor de los alimentos y bebidas y
-
-c. Sazonador, al condimento o mezcla de éstos, acompañados o no de otros ingredientes que complementa, da o intensifica el sabor de los alimentos;
-
-XIV.1.3. Sal, al producto constituido básicamente por cloruro de sodio, que proviene exclusivamente de fuentes naturales; se presenta en forma de cristales incoloros, solubles en agua y de sabor característico, que puede ser refinada o no y
-
-XIV.1.4. Vinagre, al producto obtenido por fermentación acética del vino, cerveza, jugo de frutas sanas y maduras, cereales, alcohol potable, de jarabe o azúcares.
-
-XIV.2. El vinagre únicamente podrá aromatizarse con especias y colorearse con caramelo.
-
-XIV.3. El vinagre podrá clarificarse con bentonita, tierra de infusorios, tierra de lebrija, albúmina o gelatina, que no cedan sustancias extrañas.
-
-XIV.4. En la molienda de las especias no se podrá:
-
-XIV.4.1. Emplear especias alteradas o adulteradas;
-
-XIV.4.2. Adicionar cualquier otro ingrediente o sustancia diferente a los permitidos para prevenir la aglomeración de la sal, en términos de las normas correspondientes, o
-
-XIV.4.3. Extraer de las especias, enteras o molidas, sus principios activos, cuando se destinen para el consumo humano directo.
-
-XIV.5. En las etiquetas de los envases de las especias, se deberá señalar la parte de la planta de donde provienen.
-
-XIV.6. La mayonesa deberá cumplir con las siguientes especificaciones:
-
-XIV.6.1.Fisicoquímicas:
-
-a. Extracto etéreo 65% mínimo,
-
-b. Proteínas 1% mínimo,
-
-c. Pentóxido de fósforo
-
-por 100g del producto 60 a 80mg,
-
-d. Acidez total como
-
-ácido acético 0,25% a 0,55% y
-
-e. PH 4,0 máximo, y
-
-XIV.6.2.Microbiológicas:
-
-a. Mesofílicos aerobios 3 000 UFC/g,
-
-b. Coliformes totales 10 UFC/g,
-
-c. Mohos 20 UFC/g,
-
-d. Levaduras 50 UFC/g,
-
-e. Escherichia coli Negativa/g,
-
-f. Staphylococcus aureus Negativa/g y
-
-g. Salmonella spp Negativa en 25g.
-
-XIV.7. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-XIV.8. Las especificaciones microbiológicas para los aderezos de mayonesa, deberán corresponder a las señaladas para las mayonesas.
-
-XIV.9. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-XIV.10. La mostaza preparada o mostaza preparada amarilla, deberá cumplir con las siguientes especificaciones:
-
-XIV.10.1. Fisicoquímicas:
-
-a. Sólidos totales 16,5% mínimo y
-
-b. Acidez en ácido
-
-acético 4,0% máximo, y
-
-XIV.10.2.Microbiológicas:
-
-a. Mesofílicos aerobios 3000 UFC/g,
-
-b. Mohos y levaduras 20 UFC/g y
-
-c. Salmonella spp Negativa en 25g.
-
-XIV.11. En la elaboración de la mostaza preparada o mostaza preparada amarilla, no se podrán emplear colorantes artificiales, ácido acético o ácido piroleñoso.
-
-XIV.12. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-XV. Edulcorantes, sus derivados y productos de confitería.
-
-XV.1. Para efectos de este apartado, se entiende por:
-
-XV.1.1. Azúcares:
-
-a. Azúcar o sacarosa, al producto extraído de la caña de azúcar Saccharum officinarum, L. O de la remolacha azucarera Beta vulgaris, L. Variedad rapa,
-
-b. Azúcar cristalizada o cande, al producto obtenido de la cristalización del azúcar, presentándose en forma de cristales prismáticos grandes y transparentes,
-
-c. Azúcar estándar blanca, al azúcar cruda purificada y cristalizada,
-
-d. Azúcar glass, al azúcar refinada o estándar que ha sido finamente molida, con o sin adición de antiaglomerantes,
-
-e. Azúcar invertida, al producto obtenido por la hidrólisis de la sacarosa; constituido por mezcla de glucosa, fructosa, sacarosa, que puede presentarse en solución, anhidra o con una molécula de agua de cristalización,
-
-f. Azúcar mascabado, al producto cristalizado, constituido esencialmente por sacarosa, obtenido por centrifugación de una mezcla de miel y cristales de azúcar, sin eliminar después de la centrifugación la película que los cubre,
-
-g. Azúcar refinada, al producto constituido esencialmente por cristales de sacarosa de color blanco brillante, con una pureza de 99,5% y que ha sido sometido a un proceso de refinación y
-
-h. Lactosa, al azúcar proveniente del suero de la leche que se presenta en cristales o en polvo, inodoro y completamente soluble en agua;
-
-XV.1.2. Edulcorantes:
-
-a. Edulcorante, al producto cuya composición predominante está constituida por azúcares naturales,
-
-b. Jarabe, al producto elaborado con agua potable, con una concentración de azúcares en cantidad suficiente para lograr la consistencia deseada y que haya sido sometido a tratamiento térmico que asegure su conservación,
-
-c. Miel de abeja, al edulcorante natural, obtenido a partir del néctar de las flores o de exudaciones de las plantas que las abejas Apis mellifera y otras especies recogen, transforman y combinan con sustancias específicas propias, almacenándola en el panal y
-
-d. Miel de maguey, al producto que se presenta como líquido denso, de color ligeramente ambarino, de sabor dulce, obtenido por evaporación parcial del aguamiel concentrado, no fermentado, y
-
-XV.1.3. Productos de confitería:
-
-a. Caramelo, al producto elaborado por cocción de una mezcla de azúcar, glucosa, u otros edulcorantes y agua, adicionado de otros ingredientes y aditivos para alimentos, con o sin relleno,
-
-b. Dulce imitación de mazapán, al producto elaborado con una mezcla de azúcar u otros edulcorantes, cacahuate u otros frutos secos tostados y molidos, excepto almendras e ingredientes y aditivos para alimentos,
-
-c. Gelatina o grenetina sin sabor de grado comestible, al producto obtenido por hidrólisis ácida o alcalina del material colágeno de huesos, pieles o cartílagos,
-
-d. Gelatina preparada o jaletina, al producto elaborado con agua potable o leche pasteurizada, gelatina o grenetina de grado comestible adicionado de azúcares u otros edulcorantes; y que pueden agregársele aditivos para alimentos,
-
-e. Goma de mascar, al producto elaborado a base de gomas naturales o gomas sintéticas, polímeros y copolímeros, adicionados de otros ingredientes y aditivos para alimentos,
-
-f. Ingrediente para base de goma de mascar, a la sustancia o mezcla de sustancias, de origen natural o sintético, coaguladas o concentradas, adicionadas de un ablandador o plastificante, antioxidante y, en su caso, de un controlador de la polimerización,
-
-g. Malvavisco, al producto aereado elaborado por la cocción de azúcar, glucosa u otros edulcorantes y agua, adicionada de agentes de aereado, gelificantes e ingredientes y aditivos para alimentos,
-
-h. Mazapán, al producto elaborado por cocción y moldeado de una mezcla de almendras dulces y glucosa u otros edulcorantes,
-
-i. Peladilla, al producto elaborado con almendras cubiertas por una o varias capas uniformes de azúcar u otros edulcorantes, que puede ser adicionado de otros ingredientes y aditivos para alimentos,
-
-j. Polvo para preparar gelatina de sabor, al producto elaborado con mezcla de azúcar, gelatina o grenetina sin sabor grado comestible, adicionado de saboreadores y colorantes naturales o artificiales,
-
-k. Polvo para preparar imitación de gelatina de sabor, al producto elaborado con mezcla de azúcar, alginato de sodio, carrageninas, goma gelana o combinación de gomas permitidas, saboreadores y colorantes naturales y otros aditivos para alimentos,
-
-l. Polvo para preparar postre estilo o imitación flan, al producto obtenido a partir de la mezcla de azúcar, gomas vegetales, con o sin fécula, saboreadores y colorantes naturales y artificiales,
-
-m. Productos de confitería, a los productos de sabor dulce, textura variada, que dentro de sus componentes principales se encuentra el azúcar u otros edulcorantes, y pueden contener ingredientes adicionales y aditivos para alimentos y
-
-n. Turrón, al producto preparado, cuya masa contiene agua, azúcares, miel, clara de huevo o gelatina, se elabora con almendras y se adiciona o no de frutas frescas o confitadas.
-
-XV.2. En la elaboración de productos de confitería se permite el empleo de alcohol etílico anhidro en una cantidad que no exceda del 1,99%m/m en el producto terminado.
-
-XV.3. No se podrá emplear el mononitrobenceno u otras sustancias tóxicas durante la extracción de la miel de abeja.
-
-XV.4. En el envasado de la miel de abeja no se podrán utilizar envases que hayan sido empleados para otros productos.
-
-XV.5. Las mieles de abeja y de maguey no deberán contener microorganismos patógenos.
-
-XV.6. Los jarabes deberán someterse a tratamiento térmico para su conservación.
-
-XV.7. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-XV.8. Los jarabes no deberán contener mohos, microorganismos patógenos, ni parásitos.
-
-XV.9. El polvo para preparar gelatina de sabor deberá cumplir con las siguientes especificaciones microbiológicas:
-
-MÁXIMO
-
-XV.9.1. Coliformes totales 10 000 UFC/g;
-
-XV.9.2. Mohos y levaduras 100 UFC/g;
-
-XV.9.3. Staphylococcus aureus Negativo, y
-
-XV.9.4. Salmonella spp Negativa en 25g.
-
-XV.10. (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-XVI. Alimentos y bebidas no alcohólicas con modificaciones en su composición.
-
-XVI.1. Para efectos de este apartado, se entiende por:
-
-XVI.1.1. Alimentos y bebidas no alcohólicas con modificaciones en su composición, aquellos a los que se les disminuyen, eliminan o adicionan uno o más de sus nutrimentos, tales como hidratos de carbono, proteínas, lípidos, vitaminas, minerales o fibras dietéticas,
-
-XVI.1.2. Producto adicionado, al que se le han añadido nutrimentos, tanto si están o no contenidos normalmente en el producto,
-
-XVI.1.3. Producto con menor contenido o eliminación de nutrimentos, a los productos a los que se les ha disminuido o eliminado el contenido de uno o más nutrimentos en relación con su concentración original, y
-
-XVI.1.4. Productos restaurados, aquellos que han sido adicionados de uno o más nutrimentos de los que se han perdido durante la elaboración, en una concentración igual a aquella contenida en el alimento original.
-
-XVII. Suplementos alimenticios.
-
-XVII.1. La cantidad de vitaminas y minerales en estos productos no deberá exceder, al día, los límites que a continuación se indican:
-
-XVII.1.1. Vitaminas:
-
-DOSIS
-
-Vitamina A/Retinol 1000µg
-
-Ac. Fólico 400 µg
-
-Beta Caroteno 15 mg
-
-Biotina 300 µg
-
-Vit. B1/Tiamina 15 mg
-
-Vit. B2/Riboflavina 18 mg
-
-Vit. B3/Niacina 25 mg
-
-Vit. B5/Ac.Pantoténico 20 mg
-
-Vit. B6/Piridoxina 10 mg
-
-Vit. B12/Cianocobalamina 12 µg
-
-Vit. C/Ac. Ascórbico 300mg
-
-Vit. D 10 µg
-
-Vit. E/d-a -tocoferol 200mg
-
-Vit. K 30 µg
-
-XVII.1.2. Minerales:
-
-DOSIS
-
-Calcio 1200mg
-
-Cobre 3 mg
-
-Cromo 200µg
-
-Flúor 1 mg
-
-Fósforo 1200mg
-
-Hierro 20 mg
-
-Magnesio 500 mg
-
-Manganeso 7,5 mg
-
-Molibdeno 250 µg
-
-Selenio 100µg
-
-Yodo 200 µg
-
-Zinc 20 mg
-
-XVII.2. Los suplementos alimenticios no deberán contener contaminantes químicos y biológicos que puedan poner en riesgo la salud del consumidor.
-
-XVII.3. En la etiqueta de los productos a que se refiere este apartado deberá figurar:
-
-XVII.3.1. La denominación genérica y específica del producto;
-
-XVII.3.2. La lista de ingredientes completa y en orden de predominio cuantitativo; en los productos que incluyan en su formulación hierbas, se trate o no de mezclas, deberán incluirse tanto el nombre usual o común, como el nombre botánico correspondiente, señalando género y especie;
-
-XVII.3.3. El o los componentes que pudieran representar un riesgo mediato o inmediato para la salud de los consumidores;
-
-XVII.3.4. La declaración nutrimental;
-
-XVII.3.5. El nombre y dirección del fabricante o importador, envasador, maquilador y distribuidor nacional o extranjero, según el caso;
-
-XVII.3.6. Las instrucciones para su conservación, uso, preparación y consumo;
-
-XVII.3.7. La identificación del lote;
-
-XVII.3.8. La leyenda de advertencia que establece el artículo 216 de la Ley, así como la leyenda: "El consumo de este producto es responsabilidad de quien lo recomienda y de quien lo usa", las cuales deberán figurar en mayúsculas, con el mismo tipo de letra que la información contenida en la superficie de información, en caracteres claros, fácilmente legibles, en negritas remarcadas y colores contrastantes con el fondo, de conformidad con lo siguiente:
-
-a. Área de la superficie Altura mínima del
-
-de información en cm2 tipo de letra en mm
-
-Hasta 20,9 0,5
-
-21 a 40,9 0,8
-
-41 a 160,9 2
-
-Mayor a 161 3,
-
-b. Alrededor de las leyendas deberá existir un espacio libre de información de cuando menos una vez el tamaño de la letra y
-
-c. Cuando las leyendas se presenten una a continuación de la otra, el espacio libre alrededor de ambas deberá ser de cuando menos una vez el tamaño de la letra, y
-
-XVII.3.9. La fecha de caducidad.
-
-XVII.4. La declaración nutrimental a que se refiere el punto anterior deberá incluir como mínimo lo siguiente:
-
-a. Producto
-
-Por 100g o ml. por porción
-
-Contenido energético _________________ kcal
-
-Proteínas _________________ g
-
-Grasas (lípidos) _________________ g
-
-Carbohidratos
-
-(hidratos de carbono) _________________ g
-
-Sodio _________________ g
-
-Contenido específico
-
-de cada una de las vitaminas
-
-y minerales que contenga* _________________mg o µg
-
-* Las vitaminas y minerales podrán declararse en unidades internacionales, siempre y cuando se indique, entre paréntesis, la cantidad en unidades del Sistema General de Unidades de Medidas,
-
-b. Cualquier otro nutrimento o componente que se incluya o destaque en la información de la etiqueta, anexos o publicidad y
-
-c. En el caso de las grasas, todos o ninguno de los siguientes, de acuerdo con el tipo de producto:
-
-grasa poliinsaturada ________g; grasa monoinsaturada ________g; grasa saturada _______g; colesterol ______mg.
-
-XVIII. Bebidas alcohólicas.
-
-XVIII.1. El etiquetado de los productos a que se refiere este apartado deberá ostentar la leyenda precautoria conforme a lo establecido en la Ley, en color contrastante con el fondo, en letra mayúscula helvética condensada, en caracteres claros y fácilmente legibles, de conformidad con la siguiente tabla:
-
-VOLUMEN ALTURA MÍNIMA
-
-DEL TIPO
-
-DE LETRA
-
-De 0 hasta 50 ml 1,5mm
-
-De 50,1 hasta 190 ml 2,0mm
-
-De 190,1 hasta 500 ml 2,5mm
-
-De 500,1 hasta 1000 ml 3,0mm
-
-De 1000,1 hasta 4000 ml 5,0mm
-
-Mayores de 4000 ml 7,0mm
-
-Alrededor de la leyenda deberá existir un espacio libre de cuando menos 3 mm.
-
-La leyenda precautoria podrá aparecer, además, en el tapón o en el faldón de la corcholata, siempre y cuando sea visible y no esté cubierta por ningún tipo de sello, timbre o envoltura que impida al consumidor leer la leyenda completa, con las mismas características señaladas para el etiquetado en las fracciones anteriores.
-
-En las canastillas y cartones de empaque, con excepción de las presentaciones a que se refiere el segundo párrafo del artículo 179 de este Reglamento la leyenda deberá, adicionalmente, ostentarse en la parte superior y caras laterales, en caracteres no menores de 4 mm.
-
-Las etiquetas podrán contener la clasificación señalada en el artículo 176 del presente Reglamento, la cual, cuando se utilice, deberá aparecer como lo señala dicho artículo y no deberá ser utilizada con fines promocionales, ni de publicidad de los productos. Los textos de las leyendas precautorias no podrán modificarse ni usar superlativos relativos a la clasificación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
-
-XIX. (DEROGADA POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
-
-XIX.1. (DEROGADA POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
-
-XIX.2. (DEROGADA POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
-
-XX. Productos de perfumería, belleza y aseo.
-
-XX.1. Para efectos de este apartado, se entiende por:
-
-XX.1.1. Productos de perfumería y belleza para uso facial o corporal:
-
-a. Aceite, al producto cuya finalidad es mantener la superficie de la piel limpia, hidratada y flexible, constituido por uno o más aceites de origen animal, vegetal o mineral,
-
-b. Adhesivo para pestañas y uñas postizas, al producto constituido básicamente por látex o compuestos derivados de éste en un disolvente orgánico,
-
-c. Antitranspirante, al producto que contiene sustancias con acción levemente astringente, que tiende a reducir el tamaño de los poros cutáneos y a limitar el paso de humedad en áreas locales del cuerpo,
-
-d. Baño de burbujas, al producto de limpieza corporal que proporciona abundante espuma a bajas concentraciones de detergentes,
-
-e. Corrector, al producto similar al maquillaje de aplicación facial o corporal, que se emplea para cubrir o disimular las ojeras, pequeñas manchas e imperfecciones de la piel,
-
-f. Crema facial o corporal, a la preparación untuosa de aplicación cutánea, que se utiliza como vehículo de sustancias inocuas con acción diversa que benefician a la piel,
-
-g. Cosméticos, a los productos de perfumería y belleza que a través de medios técnicos adecuados pueden modificar el olor natural del cuerpo y mantener y perfeccionar su estética,
-
-h. Depilatorio, al producto con sustancias que al aplicarse sobre la piel elimina el vello superficial sin lesionarla,
-
-i. Dermolimpiador, al producto constituido por sustancias tensoactivas sintéticas, que pueden estar adicionadas de jabón, aromatizantes u otros aditivos,
-
-j. Desodorante, al producto que contiene uno o más ingredientes que suprimen o disminuyen el mal olor de la transpiración, previenen su desarrollo o efectúa ambas acciones,
-
-k. Epilatorio, a la mezcla de ceras y resinas que, previamente fundidas, se aplican sobre la piel y, una vez enfriada, se retira para extraer el vello junto con su bulbo y papila pilosa para retardar su aparición,
-
-l. Jabón de tocador, al producto que independientemente de su estado físico, se obtiene, ya sea, por la saponificación de grasas y aceites de origen natural, por la neutralización de ácidos grasos o por la mezcla de sustancias, y que puede contener perfume y otros aditivos de origen natural o sintético, que le confieran alguna propiedad cosmética, cuya acción física, química o fisicoquímica, faciliten la limpieza e higiene de la piel,
-
-m. Loción facial o corporal, al producto líquido que puede contener alcohol y otros ingredientes que determinan su acción específica, tales como humectante, suavizante, astringente, refrescante, limpiadora o desmaquillante, entre otras,
-
-n. Maquillaje, al producto de aplicación cutánea, que se utiliza para cubrir pequeñas imperfecciones, dar un tono específico a la piel o evitar su brillo excesivo, y que está constituido por una mezcla de colorantes y un vehículo,
-
-ñ. Maquillaje para ojos, al producto, cualquiera que sea su presentación, que se aplica en el área alrededor de los ojos para mejorar su apariencia,
-
-o. Mascarilla, al producto de aplicación facial por tiempo determinado, de presentación y composición diversa que se utiliza para limpiar, suavizar, humectar, astringir, acondicionar la piel o para otras acciones benéficas sobre la misma,
-
-p. Perfume, colonia y extractos, a la mezcla de productos aromáticos de origen natural o sintético, diluidos generalmente en alcohol y otros vehículos inertes para ser aplicado en la piel,
-
-q. Producto de tratamiento cosmético, al producto de perfumería y belleza que intenta mitigar o prevenir deficiencias o alteraciones en el funcionamiento de la piel o que modifica la estructura de ésta,
-
-r. Preparaciones para antes y después del afeitado, al compuesto de sustancias tensoactivas y refrescantes, en un vehículo que determina su presentación y que se emplea para reblandecer el vello y acondicionar la piel,
-
-s. Producto para el cuidado de las uñas, a la mezcla de resinas en disolventes orgánicos, que puede contener pigmentos y otros aditivos o sustancias endurecedoras que se aplican sobre la uña con el fin de formar una película para prevenir su agrietamiento, impartir color, dar brillo, repararla, mejorar su apariencia, engrosarla o eliminar su fragilidad o engrosarla,
-
-t. Producto para la limpieza de las manos, al constituido por disolventes alifáticos, queroseno y aceites, entre otros, que puede ir adicionado de emolientes para mejorar las propiedades de aplicación y evitar la pérdida de grasa de la piel y que se utiliza sin necesidad de lavarlas con agua y jabón,
-
-u. Producto para labios, al constituido básicamente por un vehículo como ceras, aceites, grasas u otros inocuos, que puede adicionarse de colorantes y que de acuerdo con su composición puede impartir color, brillo o protección a los labios,
-
-v. Productos de perfumería y belleza, a los destinados para su aplicación directamente a la piel, sus anexos y faneras, cuya finalidad es la de embellecer, mejorar la apariencia y conservar la limpieza y pulcritud de las personas,
-
-w. Productos de perfumería y belleza hipoalergénicos, a los que no causan reacción adversa a la piel de individuos sensibles,
-
-x. Removedor de cutícula, al producto que se emplea para reblandecer la cutícula, facilitando su remoción,
-
-y. Removedor o quitaesmalte, al producto constituido por disolventes orgánicos que pueden contener pequeñas cantidades de lípidos para contrarrestar la acción secante de dichos disolventes,
-
-z. Rubor, al producto constituido por una mezcla de colorantes y un vehículo que se aplica a las mejillas para impartirles color de una tonalidad determinada,
-
-aa. Sales para el baño, a las mezclas de sales solubles, perfume y colorantes formuladas, en la mayor parte de los casos, para ablandar el agua y
-
-bb. Talco, a la mezcla de polvos, que tiene una finalidad higiénica, que absorbe la humedad, grasa o sudoración de la piel, con o sin aditivos e ingredientes opcionales;
-
-XX.1.2. Productos de aseo:
-
-a. Almidón o apresto, a la sustancia o mezcla de sustancias que sirve para aumentar la rigidez de las telas o facilitar el planchado,
-
-b. Aromatizante del ambiente, a la sustancia o mezcla de sustancias que enmascara olores e imparte aroma al ambiente,
-
-c. Blanqueador, a la sustancia o mezcla de sustancias que por acción física, química o fisicoquímica imparten mayor blancura y pueden abrillantar las telas,
-
-d. Desinfectante, a la sustancia o mezcla de sustancias que eliminan o disminuyen el desarrollo de microorganismos de las superficies donde se aplican,
-
-e. Desmanchador, a la sustancia o mezcla de sustancias que limpian o remueven manchas de la superficie en donde se aplican,
-
-f. Desodorante del ambiente, a la sustancia o mezcla de sustancias que previene o enmascara los olores del ambiente,
-
-g. Detergente, a la mezcla de sustancias cuya función es abatir la tensión superficial del agua, que ejerce una acción humectante, emulsificante y dispersante, y facilita la eliminación de suciedad, manchas y grasas, la cual puede ser adicionada de otros ingredientes y aditivos,
-
-h. Jabón, al producto que independientemente de su estado físico se obtiene, ya sea, por la saponificación de grasas y aceites, por la neutralización de ácidos grasos o por la mezcla de sustancias, y que puede contener perfume y otros aditivos de origen natural o sintético, y cuya acción física, química o fisicoquímica, facilita la limpieza e higiene,
-
-i. Limpiador, a la sustancia o mezcla de sustancias que mediante su acción física, química o una combinación de ambas, facilita el desprendimiento de las partículas de suciedad y
-
-j. Removedor, a la mezcla de sustancias con propiedades disolventes que, por medio de su acción física o fisicoquímica, facilita el desprendimiento de suciedades;
-
-XX.1.3. Repelente de insectos para uso humano, al producto inocuo que al entrar en contacto con los insectos, ya sea en forma directa o bien por medio de fase gaseosa, los ahuyenta evitando así la picadura, y que puede aplicarse directamente en la piel o en la ropa;
-
-XX.1.4. Protectores y bronceadores solares:
-
-a. Autobronceador, al producto que produce una pigmentación temporal similar al bronceado por efectos de los rayos ultravioleta provenientes del sol, pero sin que para ello intervenga la acción de rayos ultravioleta,
-
-b. Bloqueador solar, al producto que se aplica a la piel produciendo una capa continua cuya finalidad es impedir el paso de las radiaciones solares,
-
-c. Bronceador, al producto que acelera la pigmentación de la piel, por efecto de los rayos solares, mezclados o no, adicionados o no de filtros sol ares y
-
-d. Protector o filtro solar, al producto que contiene uno o más filtros solares en un vehículo que determina su presentación y que se aplica a la piel, y produce una película para prevenir o disminuir los efectos perjudiciales de la radiación solar o coadyuvar con el bronceado de la piel, sin ningún efecto adverso sobre ésta;
-
-XX.1.5. Productos de perfumería y belleza para el cabello:
-
-a. Acondicionador, al producto que se emplea para proteger el cabello, restaurar la vaina del pelo, llenar grietas, alisar o unir escamas de cutícula y lo deja brillante, de apariencia natural y fácilmente manejable,
-
-b. Alaciador, al producto que se emplea para disminuir parcial o totalmente el ondulado del cabello rizado,
-
-c. Champú o shampoo, al producto que se utiliza para eliminar de la piel cabelluda, cabello y cuerpo, el exceso de grasa y partículas acumuladas,
-
-d. Decolorante, al producto constituido por sustancias que tienen la función de producir degradación del pigmento capilar,
-
-e. Enjuague, al producto que se emplea después del champú o shampoo, para neutralizar las cargas eléctricas de las sustancias tensoactivas contenidas en éste, a fin de dejar el cabello fácilmente manejable,
-
-f. Fijador, al producto que se utiliza para conservar el cabello en su lugar o modelarlo evitando que la cabellera en general tome una posición distinta a la deseada,
-
-g. Gel, al coloide en el que la fase dispersa está combinada con la fase continua, formando una masa de consistencia gelatinosa que se usa como vehículo en productos de belleza,
-
-h. Producto para permanente, a la mezcla de sustancias que ondulan el cabello, modificándolo químicamente en su estructura queratínica,
-
-i. Tinte, al producto, cualquiera que sea su presentación, que imparte color al cabello o restablece su color original, con una finalidad estética; según su fórmula, puede depositar el color en la superficie del cabello sin penetrar en éste y desaparecer al lavarlo, o bien, el que se elabora con colorantes directos de bajo peso molecular que desaparece gradualmente y aquél en el que se utilizan sustancias incoloras que se transforman en coloreadas sobre el cabello como resultado de reacciones químicas diversas que penetran en el mismo para impartirle color de una manera más permanente y
-
-j. Tratamiento o loción capilar, al producto que en tanto permanece en la piel cabelluda, ayuda al embellecimiento y mejoramiento del cabello, modificando sus características grasosas o secas, y
-
-XX.1.6. Otros:
-
-a. Aceites esenciales naturales y sus mezclas, a los productos volátiles, concentrados o no, de consistencia oleosa, extraídos de los vegetales, de los cuales constituyen el principio oloroso o sápido, que pueden mezclarse y adicionarse de aromatizantes naturales y
-
-b. Toallitas limpiadoras, a los pequeños lienzos de tela de algodón, de celulosa o de cualquier otro material inerte impregnados de preparaciones líquidas con propiedades limpiadoras.
-
-XX.2. Los límites microbiológicos para los productos de perfumería y belleza, no deberán exceder los siguientes:
-
-XX.2.1.Microorganismos aerobios:
-
-a. No más de 500 UFC/g o ml en los productos para niños y para aplicación en el área de los ojos, y
-
-b. No más de 1 000 UFC/g o ml para los demás productos, y
-
-XX.2.2. Mohos y levaduras no más de 100 UFC/g o ml,
-
-XX.2.3. Escherichia coli negativa/g o ml,
-
-XX.2.4. Salmonella spp negativa en 25 g o ml,
-
-XX.2.5. Pseudomonas spp negativa/g o ml y
-
-XX.2.6. Staphylococcus aureus negativo/g o ml.
-
-XX.3. En la elaboración de los productos de perfumería y belleza podrán incluirse uno o varios conservadores para inhibir el desarrollo de microorganismos nocivos para la salud.
-
-XX.4. La Secretaría podrá solicitar a los fabricantes de productos de tratamiento cosmético la siguiente información:
-
-XX.4.1. Descripción del producto, en la que se señale:
-
-a. Nombre de cada ingrediente, nombre científico, en el caso de plantas, monografía para sustancias no comunes y la justificación tecnológica de su empleo y
-
-b. Fórmula cuantitativa;
-
-XX.4.2. Modo de empleo, y
-
-XX.4.3. Muestra de la etiqueta original y material publicitario.
-
-XX.5. El etiquetado de los productos de perfumería y belleza que se vendan a granel deberá ostentar:
-
-XX.5.1. La denominación genérica y específica;
-
-XX.5.2. El nombre y domicilio del fabricante, y
-
-XX.5.3. El número de lote de fabricación.
-
-XX.6. El etiquetado de los repelentes de insectos utilizados sobre la piel o sobre la ropa, deberá contener:
-
-XX.6.1. Las leyendas que se refieran a los siguientes aspectos:
-
-a. "No se deje al alcance de los niños",
-
-b. "No se aplique cerca de los ojos"
-
-c. "En caso de cualquier reacción al producto, interrumpa su uso" y
-
-d. "En caso de ingestión accidental, obtenga ayuda médica";
-
-XX.6.2. El porcentaje de ingrediente activo en la declaración de ingredientes, y
-
-XX.6.3. La distancia mínima de aplicación, así como la indicación de que para su uso facial deberá aplicarse con las manos, en el caso de los productos envasados en aerosol.
-
-XXI. Aditivos.
-
-XXI.1. Para efectos de este apartado, se entiende por:
-
-XXI.1.1. Aditivos:
-
-a. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-b. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-c. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-d. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-e. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-f. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-g. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-h. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-i. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-j. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-k. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-l. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-m. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-n. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-ñ. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-o. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-p. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-q. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-r. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-s. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-t. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-u. Laca, al producto preparado por la suspensión o precipitación de algún colorante artificial, sobre un compuesto insoluble,
-
-v. (DEROGADO, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-w. Oxidante, a la sustancia o mezcla de sustancias que por proceso de oxidación condiciona o mantiene determinadas características en algunos ingredientes de los productos; que también puede ser empleado como blanqueador y
-
-x. Pigmento, a la sustancia que tiene la propiedad de ser insoluble en medios hidrofílicos y lipofílicos y que tiene la propiedad de impartir color al medio que lo contiene por la dispersión que tenga en éste, elaborado a partir de la fijación de un color natural o sintético sobre un sustrato permitido u obtenido de una fuente mineral y que, posteriormente, se ha sometido a pruebas fehacientes de seguridad que permiten su uso en alimentos y productos de perfumería, belleza y aseo o en alguna parte de ellos y que, directamente o a través de su reacción con otras sustancias es capaz de impartir el color que le caracteriza;
-
-XXI.1.2. Concentrados:
-
-a. Concentrado artificial, al producto que contiene sustancias aromáticas artificiales, que puede estar adicionado de sustancias aromáticas naturales, jugos de frutas y aditivos,
-
-b. Concentrado artificial con jugos de fruta, al producto que corresponde por su composición a los concentrados artificiales, pero que contiene por lo menos 50% del jugo o pulpa del fruto o la cantidad equivalente de la fruta o jugo concentrado,
-
-c. Concentrado de aceite esencial con jugo de fruta, al aceite esencial que contiene no menos de 50% del jugo o pulpa de la fruta correspondiente o su equivalente del jugo concentrado, pudiendo estar adicionados de aditivos con excepción de sustancias aromáticas sintéticas artificiales,
-
-d. Concentrado de frutas, al producto que contiene 90% del jugo o pulpa de la fruta correspondiente o del equivalente de la pulpa o jugo concentrado, que puede estar adicionado de colorantes, emulsivos u otros aditivos, con excepción de sustancias aromáticas artificiales,
-
-e. Concentrado no natural de aceites esenciales, al producto obtenido de los aceites esenciales naturales, que puede estar adicionado de jugos de frutas y otros aditivos, con excepción de sustancias aromáticas artificiales y
-
-XXI.1.3. Aceites, esencias y extractos:
-
-a. Aceite esencial natural y sus mezclas, al producto volátil, concentrado o no, de consistencia oleosa, extraído de los vegetales, de los cuales constituye el principio oloroso o sápido, que puede mezclarse y adicionarse de aromatizantes naturales,
-
-b. Base artificial, al producto obtenido por mezclas de sustancias aromáticas artificiales, puede contener aceites esenciales y hasta un 10% de alcohol etílico, propilenglicol y otros diluyentes,
-
-c. Esencia artificial, al producto obtenido por dilución de las bases artificiales en alcohol etílico, propilenglicol, lactosa u otro diluyente apropiado, o bien por preparación directa a partir de sus componentes,
-
-d. Esencia natural, al producto obtenido por dilución de los aceites esenciales naturales en alcohol etílico, propilenglicol u otro diluyente y
-
-e. Extracto y extracto destilado aromático o saboreador, al producto obtenido de los vegetales por maceración, percolación, destilación u otros procedimientos que permitan extraerles los principales saboreadores y aromatizantes;
-
-XXI.1.4.(DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2012)
-
-XXI.1.5.Coadyuvantes:
-
-a. Coadyuvante de elaboración, a la sustancia o materia, excluidos aparatos, utensilios y los aditivos, que no se consume como ingrediente alimenticio por sí misma, y se emplea intencionalmente en la elaboración de materias primas, alimentos o sus ingredientes, para lograr alguna finalidad tecnológica durante el tratamiento o la elaboración, que puede dar lugar a la presencia no intencionada, pero inevitable, de residuos o derivados del producto final y
-
-b. Coadyuvante del color, a la sustancia que sirve para intensificar, retener o desarrollar el color.
-
-XXI.2. Los aditivos en general, no deberán exceder los límites máximos de contaminantes señalados a continuación:
-
-XXI.2.1. Arsénico no más de 3mg/kg;
-
-XXI.2.2. Metales pesados, no más de 40mg/kg, y
-
-XXI.2.3. Plomo, no más de 10 mg/kg.
-
-XXI.3. Se consideran como colorantes orgánicos naturales, a los productos que impartan color propio, ya sean solos o mezclados con otros.
-
-XXI.4. Se podrán mezclar los colorantes entre sí, para obtener determinadas tonalidades cromáticas, siempre y cuando no constituyan un riesgo para la salud.
-
-XXI.5. Se podrán adicionar a la mezcla de colorantes, vehículos o excipientes inocuos, tales como cloruro de sodio, azúcares, dextrina, aceites y grasas comestibles, glicerina, propilenglicol, agua potable e hidróxido de sodio.
-
-XXI.6. En la venta de los colorantes orgánico sintéticos, orgánico minerales, minerales y lacas, el fabricante suministrará al comprador, su análisis con pureza, especificaciones y límites de contaminantes.
-
-XXI.7. El etiquetado de los aditivos deberá presentar la siguiente información:
-
-XXI.7.1. Los aditivos utilizados como materia prima, deberán indicar la denominación genérica, el nombre químico y el común, además de las especificaciones que se requieran;
-
-XXI.7.2. Los aditivos no colorantes deberán indicar:
-
-a. La cantidad y el modo de empleo,
-
-b. El nombre y la función tecnológica de cada uno de los aditivos, cuando se trate de varios de éstos,
-
-c. El porcentaje y función de los conservadores, antioxidantes o cualquier otra sustancia limitante que contengan y
-
-d. La declaración de potencia, en caso de que la tengan;
-
-XXI.7.3. Cuando se trate de aditivos saboreadores y aromatizantes, no es necesario que figure el nombre de cada saboreador o aromatizante, sino únicamente la denominación, de acuerdo con la clasificación correspondiente;
-
-XXI.7.4. En el caso de los colorantes orgánicos naturales permitidos deberán declarar el nombre tal y como se establece en la lista correspondiente;
-
-XXI.7.5. En los aditivos colorantes puros para productos, se deberá indicar el nombre del colorante orgánico sintético o colorante artificial y la concentración del colorante puro;
-
-XXI.7.6. Si se trata de una mezcla de los colorantes que se indican en el punto anterior, deberá figurar la tonalidad cromática, la suma de las concentraciones de los colorantes en tanto por ciento, así como los excipientes empleados;
-
-XXI.7.7. Cuando se trate de una laca colorante, deberá figurar la concentración de laca colorante y la concentración correspondiente del colorante puro, y
-
-XXI.7.8. En el caso de productos que contienen una mezcla de lacas de colorantes orgánicos sintéticos o colorantes artificiales, en la lista de ingredientes se deberá indicar el nombre de las lacas del colorante, el porcentaje de la suma de las lacas colorantes y el porcentaje de la suma de colorantes puros de las lacas.
-
-XXII. Envases y envasado de productos.
-
-XXII.1. Para efectos de este apartado, se entiende por:
-
-XXII.1.1. Envase primario, al que contiene al producto y que entra en contacto con él; que tiene como finalidad proteger y conservar su integridad física, química y microbiológica, y
-
-XXII.1.2. Envase secundario, al que contiene al envase primario.
-
-XXII.2. Los envases de los productos de consumo humano no deberán ceder sustancias perjudiciales a la salud.
-
-XXII.3. No se podrá utilizar la madera como material de envase primario para alimentos.
-
-XXII.4. Los envases de los productos que hayan sido irradiados, no deberán haber sufrido deterioro ni alteraciones que los hagan impropios para su empleo.
-
-XXIII. Irradiación de productos.
-
-XXIII.1. Para efectos de este apartado, se entiende por Gray (Gy), a la unidad de medida de la cantidad de energía absorbida por un producto y equivale a 1j; de energía por kg de producto irradiado.
-
-XXIII.2. La radiación ionizante aplicable a los productos, materias primas y aditivos, deberá provenir de las siguientes fuentes:
-
-XXIII.2.1. De rayos gamma, provenientes de fuentes selladas conteniendo el isótopo Cobalto 60 (Co-60) o el isótopo Cesio 137 (Cs-137);
-
-XXIII.2.2. De haz de electrones, generados por un acelerador de electrones a niveles de energía que no excedan de 10 millones de electrón-volts (10 Mev), y
-
-XXIII.2.3. De rayos X, generados por máquinas que trabajen a energías de 5 millones de electrón-volts (5 Mev), o inferiores.
-
-XXIII.3. Los registros a que se refiere la fracción V del artículo 222 del presente Reglamento, se deberán mantener durante un período de cinco años, los cuales se proporcionarán a la autoridad sanitaria, cuando así lo requiera de manera escrita.
-
-Dichos registros deberán contener lo siguiente:
-
-XXIII.3.1. El nombre de los productos tratados;
-
-XXIII.3.2. La cantidad de producto irradiado;
-
-XXIII.3.3. Los datos de la persona física o moral que entregó los productos para su proceso de irradiación;
-
-XXIII.3.4. El lote de identificación;
-
-XXIII.3.5. La bitácora de operación;
-
-XXIII.3.6. La fuente de radiación;
-
-XXIII.3.7. La calibración de la fuente;
-
-XXIII.3.8. La dosimetría;
-
-XXIII.3.9. La distribución de la dosis en el producto, y
-
-XXIII.3.10. La fecha de irradiación.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
-D.O.F. 6 DE ABRIL DE 2006.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se atenderán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
-
-TERCERO.- Se establece un plazo de cuatro meses a partir de la entrada en vigor del presente Decreto para incluir en el etiquetado de las bebidas adicionadas con cafeína a que se refiere la fracción II Bis del artículo 101 del Reglamento de Control Sanitario de Productos y Servicios, el término "bebidas adicionadas con cafeína", conforme a lo establecido por el artículo 25 del mismo Reglamento.
-
-D.O.F. 31 DE MAYO DE 2009.
-
-PRIMERO.- El presente Reglamento entrará en vigor a los 30 días naturales siguientes de su publicación en el Diario Oficial de la Federación.
-
-...
-
-TERCERO.- Se derogan el capítulo III del Título Cuarto del Reglamento de la Ley General de Salud en materia de publicidad; el Título Vigésimo Primero del Reglamento de Control Sanitario de Productos y Servicios y las fracciones XIX, XIX.1 y XIX.2 del Apéndice del Reglamento de Control Sanitario de Productos y Servicios, publicado en el Diario Oficial de la Federación el 19 de agosto de 1999.
-
-...
-
-D.O.F. 26 DE ENERO DE 2011.
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 24 DE ABRIL DE 2012.
-
-PRIMERO.- El presente Decreto entrará en vigor ciento veinte días naturales posteriores al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- La Secretaría de Salud deberá publicar en el Diario Oficial de la Federación, dentro de los sesenta días hábiles siguientes a la publicación del presente Decreto, el formato de solicitud de tarjeta de control sanitario, el modelo que contenga el cuestionario, el consentimiento informado y la autorización del quien ejerza la patria potestad o tutor a que se refieren los artículos 224 Bis 2, 224 Bis 3, 224 Bis 4 y 224 Bis 5.
-
-D.O.F. 9 DE OCTUBRE DE 2012.
-
-PRIMERO.- El presente Decreto entrará en vigor a los treinta días hábiles posteriores a la fecha de su publicación en el Diario Oficial de la Federación, salvo la adición del segundo párrafo a la fracción I del artículo 170 del Reglamento de Insumos para la Salud, la cual entrará en vigor al día siguiente de la publicación de este Decreto.
-
-SEGUNDO.- Las disposiciones del presente Decreto no le serán aplicables a los trámites que hayan sido presentados con anterioridad a la entrada en vigor del mismo.
-
-D.O.F. 28 DE NOVIEMBRE DE 2012.
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- La Secretaría de Salud revisará y en su caso realizará las modificaciones correspondientes a las normas oficiales mexicanas cuyo contenido tenga relación con el presente Decreto en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización y demás disposiciones jurídicas aplicables.
-
-D.O.F. 14 DE FEBRERO DE 2014.
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Los productores de alimentos y bebidas no alcohólicas a que se refiere el presente Decreto contarán hasta con un año a partir del inicio de vigencia del presente Decreto para adecuar el etiquetado de los productos que correspondan.
-
-Previo al vencimiento del plazo señalado en el párrafo anterior, se podrá solicitar a la Comisión Federal para la Protección contra Riesgos Sanitarios, su prórroga, por producto, hasta por un año adicional.
-
-Para el caso de productores que utilicen envases retornables, el plazo para sustituir a estos envases será de diez años contados a partir de la publicación del presente Decreto, debiendo los productores reportar mediante escrito libre que se presente ante la Comisión Federal para la Protección contra Riesgos Sanitarios, los avances correspondientes, de conformidad con los siguientes plazos:
-
-% de cumplimiento Plazo
-
-10 % Un año
-
-25% Dos años
-
-40 % Tres años
-
-60 % Cuatro años
-
-80 % Cinco años
-
-100 % Diez años
-
-Durante el plazo establecido en el párrafo anterior, los productores que utilicen este tipo de envases, deberán cumplir con los criterios de implementación previstos en el Acuerdo que expedirá la Secretaría para tales efectos.
-
-TERCERO. La Secretaría de Salud modificará, en términos de las disposiciones de la Ley Federal sobre Metrología y Normalización y su Reglamento, las normas oficiales mexicanas que con motivo de la entrada en vigor de este Decreto deban adecuar su contenido.
-
-D.O.F. 12 DE FEBRERO DE 2016.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS”.]
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
