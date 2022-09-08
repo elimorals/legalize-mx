@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-control-sanitario-de-productos-y-servicios-14576"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "2016-02-12"
+last_updated: "2022-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-07-29"
 
 REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE SEPTIEMBRE DE 2022.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de agosto de 1999.
 
@@ -133,15 +133,21 @@ VII. Lote, a la cantidad de un producto, elaborado en un mismo ciclo, integrado 
 
 VIII. Normas, a las normas oficiales mexicanas;
 
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
 
-VIII Bis. Preenvasado, a la colocación de productos en un envase de cualquier naturaleza, en ausencia del consumidor, que permita que la cantidad de producto contenido en él no pueda ser alterada, a menos que el envase sea abierto o modificado perceptiblemente;
+VIII Bis. Nutrimentos críticos, aquellos nutrimentos que cuando son ingeridos por arriba de los valores nutrimentales de referencia son considerados como factores de riesgo asociados con enfermedades no transmisibles; estos son: azúcares libres, grasas saturadas, grasas trans y sodio;
+
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+VIII Bis 1. Porción, cantidad de producto que se sugiere consumir o generalmente se consume en una ingestión, expresada en unidades de medida del Sistema General de Unidades de Medida;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+VIII Bis 2. Preenvasado o envasado, a la colocación de productos en un envase de cualquier naturaleza, en ausencia del consumidor, que permita que la cantidad de producto contenido en él no pueda ser alterada, a menos que el envase sea abierto o modificado perceptiblemente;
 
 IX. Producto, a cualquiera de aquéllos a que se refiere el artículo 1o. de este Reglamento;
 
-> <small>(ADICIONADA, D.O.F. 14 DE FEBRERO DE 2014)</small>
-
-IX Bis. Productos similares al chocolate, a los productos elaborados a partir de manteca de cacao en los que para su elaboración se ha sustituido total o parcialmente ésta por otras grasas vegetales comestibles o, en su caso, por sus fracciones hidrogenadas, y son elaborados bajo formatos o moldeados especiales cuya presentación, aspecto, sabor o consumo son susceptibles a ser confundidos con el Chocolate;
+IX Bis. (DEROGADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)
 
 X. Riesgo, a la probabilidad de que se desarrolle cualquier propiedad biológica, química o física que cause daño a la salud del consumidor;
 
@@ -152,6 +158,10 @@ XI. Secretaría, a la Secretaría de Salud;
 > <small>(ADICIONADA, D.O.F. 12 DE FEBRERO DE 2016)</small>
 
 XI Bis. Sucedáneo de la leche materna o humana, a las fórmulas comercializadas presentadas como sustitutos parciales o totales de la leche materna o humana, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+XI Bis 1. Sistema de etiquetado frontal, sistema de información situado en la superficie principal de exhibición, el cual advierte de manera veraz, directa, clara, sencilla y visible, cuando un producto preenvasado presenta un contenido en exceso de energía, nutrimentos críticos e ingredientes que representen un riesgo a la salud en un consumo excesivo, conforme a la norma correspondiente, y
 
 XII. Tercero autorizado, a la persona autorizada por la Secretaría para emitir dictámenes respecto del cumplimiento de requisitos establecidos por la propia Secretaría o en las normas correspondientes o para realizar estudios, para efectos de trámites o autorizaciones sanitarias.
 
@@ -207,7 +217,9 @@ II. Descripción del producto;
 
 III. Ingredientes básicos y opcionales, o
 
-IV. Características físicas, químicas y biológicas, en su caso.
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Características físicas, químicas, nutrimentales y biológicas, en su caso.
 
 ###### ARTÍCULO 10.
 
@@ -223,21 +235,31 @@ Para efectos de lo dispuesto en el párrafo anterior, la Secretaría podrá anal
 
 El dictamen a que se refiere el párrafo anterior será sin perjuicio de que si la Secretaría tiene conocimiento posterior de que un producto representa riesgo para la salud podrá prohibir su elaboración, almacenamiento, importación, distribución o venta.
 
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 11 Bis.
+
+Aquellos productos en los que, conforme a las normas correspondientes, sus componentes, materias primas, ingredientes y aditivos, puedan representar un riesgo mediato o inmediato para la salud de los consumidores, ya sea por ingestión, aplicación o manipulación del producto, deberán advertir su presencia en la etiqueta, a través de las leyendas precautorias necesarias.
+
 ###### ARTÍCULO 12.
 
 La Secretaría fijará las características que deberá reunir un producto para ser considerado como alimento, suplemento alimenticio, producto biotecnológico, de tratamiento cosmético o de cualquier otra clasificación, conforme a lo que establezcan la Ley, este Reglamento y las normas correspondientes.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 13.
 
-Para efectos de control sanitario de los productos y materias primas, la Secretaría, por escrito, podrá requerir a los interesados las especificaciones biológicas, químicas y físicas de aquéllos, así como las técnicas de carácter general del proceso, las cuales podrán ser corroboradas por la propia Secretaría, la que garantizará la confidencialidad de los datos.
+Para efectos de control sanitario de los productos y materias primas, la Secretaría, por escrito, podrá requerir a los interesados las especificaciones biológicas, químicas, físicas y nutrimentales de aquéllos, así como las técnicas de carácter general del proceso, las cuales podrán ser corroboradas por la propia Secretaría, la que garantizará la confidencialidad de los datos.
 
 ###### ARTÍCULO 14.
 
 Los alimentos y bebidas no alcohólicas que sean modificados en su composición, se sujetarán a las disposiciones de este Reglamento y a las normas que correspondan a sus nuevas características, en cuanto a denominación, composición, especificaciones y etiquetado.
 
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 15.
 
-Las normas establecerán las especificaciones microbiológicas, toxicológicas o de riesgo a la salud de los productos, así como las técnicas sanitarias de producción para asegurar dichas especificaciones y los métodos de muestreo, prueba y análisis correspondientes.
+Las normas establecerán las especificaciones microbiológicas, toxicológicas, nutrimentales o de riesgo a la salud de los productos, así como las técnicas sanitarias de producción para asegurar dichas especificaciones y los métodos de muestreo, prueba y análisis correspondientes.
 
 ###### ARTÍCULO 16.
 
@@ -293,7 +315,9 @@ IV. Las instrucciones para su conservación, uso, preparación y consumo;
 
 V. El o los componentes que pudieran representar un riesgo mediato o inmediato para la salud de los consumidores, ya sea por ingestión, aplicación o manipulación del producto;
 
-VI. El aporte nutrimental;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+VI. El etiquetado nutrimental;
 
 VII. La fecha de caducidad;
 
@@ -305,51 +329,51 @@ X. Las leyendas precautorias, y
 
 XI. Las leyendas de advertencia.
 
-Las normas correspondientes a cada tipo de producto determinarán la información sanitaria general que deberá contener la etiqueta o la específica cuando, por el tamaño del empaque o envase o por las condiciones del proceso, no pueda aparecer toda la información que se requiera.
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+Las normas correspondientes a cada tipo de producto determinarán la información sanitaria general que deberá contener la etiqueta o la específica cuando, por el tamaño del empaque o envase o por las condiciones del proceso o por cualquier otra condición particular, no pueda aparecer toda la información que se requiera.
 
-Además de lo señalado en este artículo, el etiquetado de alimentos y bebidas no alcohólicas Preenvasados, con excepción del agua para consumo humano, alimentos para lactantes y niños de corta edad, goma de mascar sin azúcar, pastillas para el aliento sin azúcar, harinas con excepción de las preparadas, productos y materias primas destinados exclusivamente para uso y consumo interno de instituciones, y materias primas de uso industrial, deberá señalar en el Área frontal de exhibición del producto:
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
 
-I. El contenido energético total que el producto aporta expresado en kilocalorías o calorías. Este valor no deberá expresarse en términos porcentuales de una ingesta diaria recomendada, y
-
-II. El contenido de grasas saturadas, otras grasas, azúcares totales y sodio que estén presentes en el producto, conforme a lo siguiente:
-
-a) En el caso de grasas saturadas, otras grasas, y azúcares totales, deberá expresarse el aporte energético de cada nutrimento, indicando el porcentaje que cada uno de ellos represente con base en los valores establecidos en la siguiente tabla:
-
-Fuente de aporte calórico Valor base para el cálculo
-
-Grasas saturadas 200 calorías
-
-Otras grasas 400 calorías
-
-Azúcares Totales 360 calorías
-
-b) La declaración de sodio deberá expresarse en miligramos, así como indicar el porcentaje que dicho contenido representa en función del valor de referencia de 2000 miligramos;
-
-c) Tratándose de Botanas, Bebidas saborizadas, Chocolates, Productos similares al chocolate y productos de confitería, en su presentación de envase familiar, se deberá incluir el número de porciones y el contenido energético por porción presentes en el mismo, en términos de la fracción I de este párrafo.
-
-Quedan excluidas de lo dispuesto en el párrafo anterior, las Bebidas saborizadas que sean consideradas de bajo contenido energético en términos del Acuerdo que para tal efecto emita la Secretaría;
-
-d) Los Envases múltiples o colectivos cuyos productos que los conforman no se encuentran etiquetados de manera individual, deberán presentar la información establecida en los incisos a), b) y c) de la presente fracción. Aquellos Envases múltiples o colectivos cuyos productos que los conforman se encuentran etiquetados de manera individual, no están obligados a presentar la información establecida en dichos incisos, y
-
-e) Tratándose de alimentos y bebidas no alcohólicas Preenvasados en envases familiares no comprendidos en el inciso c) de esta fracción, se podrá incluir la información referida en los incisos a) y b) de dicha fracción, respecto de porciones menores al total del contenido del envase, debiendo expresar el contenido energético por envase y porción, así como el número total de porciones presentes en el mismo.
-
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
-
-La Secretaría, mediante Acuerdo que se publique en el Diario Oficial de la Federación, establecerá los criterios conforme a los cuales se calcularán las dimensiones del Área frontal de exhibición y los que se deberán cumplir para proporcionar la información a que se refieren las fracciones del párrafo anterior, así como para determinar las cantidades de referencia para presentaciones en envases familiares y para tamaño de porciones, conforme a los incisos c) y e) de la fracción II de dicho párrafo.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2011)</small>
 
 Con excepción de lo establecido en el artículo 196 Bis del presente Reglamento, cuando se trate de productos de importación envasados de origen, la información que contengan las etiquetas deberá aparecer escrita en idioma español, previamente a su comercialización, en los términos de la norma correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+La información contenida en la etiqueta deberá ser veraz, y describirse y presentarse de forma tal que no induzca a error al consumidor con respecto a su naturaleza.
+
+> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 25 Bis.
 
-El etiquetado de alimentos y bebidas no alcohólicas podrá incluir el distintivo nutrimental, cuando a petición de parte interesada, la Comisión Federal para la Protección contra Riesgos Sanitarios determine que el producto de que se trate, cumple con los criterios nutrimentales que se emitan en términos del presente artículo.
+El etiquetado de alimentos y bebidas no alcohólicas preenvasados, además de lo señalado en el artículo anterior, deberán incluir el sistema de etiquetado frontal conforme lo establezca la norma correspondiente y no deberán usar algún otro.
 
-Para efectos de lo dispuesto en el párrafo anterior, la Secretaría, mediante Acuerdo que se publique en el Diario Oficial de la Federación, establecerá el distintivo nutrimental, así como los criterios nutrimentales que deben tomarse en cuenta para determinar la procedencia de su uso y el procedimiento que deberá seguirse para su autorización, en el que deberá considerarse un plazo de respuesta no mayor a tres meses.
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 25 Bis 1.
+
+La etiqueta de los alimentos y bebidas no alcohólicas preenvasados que incluyan uno o más elementos del sistema de etiquetado frontal, conforme a lo que establezca la norma correspondiente, no deben contener personajes infantiles, animaciones, dibujos animados, celebridades, deportistas o mascotas, elementos interactivos, tales como, juegos visual–espaciales o descargas digitales, dirigidos a niñas y/o a niños que inciten, promuevan o fomenten su consumo, compra o elección; ni hacer referencia a elementos ajenos con el mismo fin.
+
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 25 Bis 2.
+
+La Secretaría, en coordinación con las instituciones de investigación y de enseñanza superior, tanto pública como privada, establecerá las porciones y la unidad de medida para alimentos y de bebidas no alcohólicas que se deben tomar como referencia, las cuales serán publicadas en el Diario Oficial de la Federación y actualizadas permanentemente por la propia Secretaría o a solicitud de los interesados.
+
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 25 Bis 3.
+
+La Secretaría, mediante las normas correspondientes, determinará aquellos aditivos, ingredientes o sustancias que, presentes en los productos o en determinados niveles, puedan generar un riesgo a la salud, en cuyo caso los productos que los contengan deberán incluir una leyenda precautoria sobre su consumo, con particular énfasis en los productos dirigidos a niñas y a niños.
+
+> <small>(ADICIONADO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 25 Bis 4.
+
+Para el caso de alimentos y bebidas no alcohólicas preenvasados que, conforme al artículo 32 de la Ley Federal de Protección al Consumidor, puedan incluir elementos gráficos o textuales que indiquen que estos productos han sido recomendados o reconocidos por sociedades o por asociaciones profesionales, sólo podrán hacerlo cuando no presenten un contenido excesivo de energía ni de nutrimentos críticos conforme a la norma correspondiente, y deberán especificar la población objetivo y su condición de salud específica a la que va dirigido el consumo de estos productos. Lo anterior, no será aplicable a declaraciones de propiedades condicionales en términos de la norma correspondiente.
 
 ### Capítulo III. Transporte
 
@@ -1433,7 +1457,9 @@ Los alimentos y bebidas no alcohólicas, de acuerdo con las modificaciones reali
 
 I. Restaurados;
 
-II. Con menor contenido o eliminación de algún nutrimento como sodio, lípidos, gluten, azúcares y los demás que se establezcan en las normas correspondientes, y
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
+
+II. Con menor contenido o eliminación de algún nutrimento como grasas, gluten, lactosa y los demás que se indican en las normas correspondientes, y
 
 III. Adicionados de vitaminas, minerales, proteínas y otros nutrimentos, según lo establezcan las normas correspondientes.
 
@@ -1971,7 +1997,7 @@ Los productos, de acuerdo con sus características, podrán contar con los envas
 
 La clasificación de los envases y las características físicas, químicas y de toxicidad para cada tipo de material de envase, además de lo previsto en este Reglamento, serán especificadas en las normas correspondientes.
 
-La Secretaría determinará, mediante Acuerdo que se publique en el Diario Oficial de la Federación, los criterios conforme a los cuales un envase, en razón de la cantidad de producto que contiene, podrá ser considerado como familiar.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 211.
 
@@ -5552,3 +5578,17 @@ D.O.F. 12 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS Y DEL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PUBLICIDAD.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con la excepción prevista en el transitorio siguiente.
+
+SEGUNDO.- El Artículo Segundo del presente Decreto entrará en vigor a los 180 días naturales posteriores al de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- La Comisión Federal para la Protección contra Riesgos Sanitarios, realizará dentro de los noventa días posteriores a la publicación del presente Decreto, las adecuaciones correspondientes a los Lineamientos a que hace referencia el artículo 22 Bis del Reglamento de la Ley General de Salud en Materia de Publicidad al que se refiere el Artículo Segundo del presente Decreto.
+
+CUARTO.- Se abroga el Acuerdo por el que se emiten los Lineamientos a que se refiere el artículo 25 del Reglamento de Control Sanitario de Productos y Servicios que deberán observar los productores de alimentos y bebidas no alcohólicas preenvasadas para efectos de la información que deberán ostentar en el área frontal de exhibición, así como los criterios y las características para la obtención y uso del distintivo nutrimental a que se refiere el artículo 25 Bis del Reglamento de Control Sanitario de Productos y Servicios, publicado en el Diario Oficial de la Federación el 15 de abril de 2014.
+
+QUINTO.- Las disposiciones reglamentarias y administrativas vigentes, que no se opongan al presente Decreto, continuarán vigentes.
