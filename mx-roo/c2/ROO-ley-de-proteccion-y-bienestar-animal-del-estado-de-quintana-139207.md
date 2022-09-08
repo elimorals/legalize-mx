@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-bienestar-animal-del-estado-de-quintana-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2022-04-28"
+last_updated: "2022-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Número 133 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 25 de noviembre de 2019.
 
@@ -297,9 +297,21 @@ VI. Promover un programa para la protección, cuidado y bienestar de los animale
 
 VII. Emitir la certificación a los establecimientos, negocios y/o sitios que soliciten su ingreso dentro del programa para la protección y bienestar de los animales en el Estado de Quintana Roo y acrediten ser lugares amigables con animales de compañía;
 
-VIII. Orientar y canalizar las denuncias por casos de crueldad y maltrato animal, mismas que serán remitidas a la autoridad competente en la materia, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieran.
+VIII. Orientar y canalizar las denuncias por casos de crueldad y maltrato animal, mismas que serán remitidas a la autoridad competente en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Establecer la vigencia y los requisitos del certificado, así como emitir los lineamientos para la tramitación del certificado gratuito a la persona que pretenda llevar a cabo la actividad de paseador de perros, en materia de cuidado, primeros auxilios, prevención del maltrato y crueldad animal, faltas cívicas que involucran a los animales y demás relacionadas con su actividad;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+X. Emitir los certificados gratuitos a la persona que cumpla con los requisitos y lineamientos para realizar la actividad de paseador de perros establecidos en el Reglamento de esta Ley, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IX], P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieran.
 
 ###### Artículo 14.
 
@@ -475,9 +487,27 @@ III. Proporcionar certificado, placa o collar cuando se aplique la vacunación a
 
 IV. Efectuar el sacrificio humanitario de animales en los términos de la presente Ley y demás disposiciones aplicables;
 
-V. Resguardar a los animales capturados, rescatados o que sean puestos a su disposición, y
+> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+V. Resguardar a los animales capturados, rescatados o que sean puestos a su disposición;
 
 VI. Proporcionar a los animales que estén bajo su resguardo o a los de la ciudadanía que así lo requieran, orientación clínica en los términos establecidos en su Reglamento de Bienestar Animal Municipal.
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Gestionar ante la Secretaría, cursos de capacitación profesional gratuitos a la persona que desee obtener la certificación de paseador de perros, en materia de cuidado, primeros auxilios, prevención del maltrato y crueldad animal, faltas cívicas que involucran a los animales y demás relacionadas con su actividad;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Ofrecer asesoría respecto a los requisitos y lineamientos establecidos para la tramitación de la certificación a las personas que quieran llevar a cabo la actividad de paseadores de perros;
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Gestionar ante la Secretaría, la emisión de los certificados gratuitos a la persona que cumpla con los requisitos y lineamientos establecidos para realizar la actividad de paseador de perros, y
+
+> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
+X. Publicar en sus medios electrónicos oficiales, el listado de las personas que cuentan con el certificado de paseador de perros.
 
 Las actividades que lleven a cabo estos Centros deberán hacerse de conocimiento de los habitantes, mediante la concertación con los medios masivos de comunicación local.
 
@@ -1410,3 +1440,13 @@ TERCERO. A partir de la fecha de entrada en vigor del presente Decreto, no se au
 CUARTO. A partir de la fecha de entrada en vigor del presente Decreto, no se renovarán, ni se otorgarán licencias de funcionamiento para establecimientos que realicen uso de las vías públicas para la exhibición o manejo de ejemplares de vida silvestre, ni para la toma de fotos o videos con ejemplares de vida silvestre, o para establecimientos que permitan el manejo de, interacción con o contacto con ejemplares de vida silvestre por el público en general y/o el manejo fuera de su encierro.
 
 QUINTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE SEPTIEMBRE DE 2022.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NÚMERO: 268 POR EL QUE SE REFORMAN LAS FRACCIONES VIII Y IX DEL ARTÍCULO 13 Y LA FRACCIÓN V DEL ARTÍCULO 23; Y SE ADICIONAN LAS FRACCIONES X Y XI DEL ARTÍCULO 13 Y LAS FRACCIONES VII, VIII, IX Y X DEL ARTÍCULO 23, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Ejecutivo del Estado, dentro del plazo de 30 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto, deberá efectuar las modificaciones correspondientes al Reglamento de la Ley y demás marco normativo aplicable, a los términos previstos en el presente Decreto.
+
+TERCERO. Se derogan las disposiciones legales que contravengan lo establecido en el presente Decreto.
