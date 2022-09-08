@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-tribunal-de-justicia-administrativa-del-124638
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-11-09"
-last_updated: "2017-11-09"
+last_updated: "2022-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 9 de noviembre de 2017.
 
@@ -879,13 +879,17 @@ En caso del Magistrado de Sala Superior, será sustituido por el Magistrado de S
 
 ### CAPÍTULO III. DEL PROCEDIMIENTO PARA SUPLIR LAS AUSENCIAS DE LOS MAGISTRADOS
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 57.
 
-Las ausencias temporales de los magistrados del Tribunal serán cubiertas de la forma siguiente:
+Las ausencias de los magistrados del Tribunal serán cubiertas de la forma siguiente:
 
-I. Los magistrados numerarios en ausencias mayores a los ocho días y menores de un año, serán suplidos por los supernumerarios, quienes deberán ser llamados sucesiva y progresivamente en el orden de su nombramiento, evitando que aquél a quien ya se llamó a una suplencia sea llamado nuevamente, sin antes agotar el llamado de los demás que no lo han sido, independientemente del propietario a quien se va a sustituir, teniendo derecho a los emolumentos respectivos, conforme a la ley; y
+I. Los magistrados numerarios en ausencias mayores a quince días y menores de un año, serán suplidos por los supernumerarios, quienes deberán ser llamados sucesiva y progresivamente en el orden de su nombramiento, evitando que aquél a quien ya se llamó a una suplencia sea llamado nuevamente, sin antes agotar el llamado de los demás que no lo han sido, independientemente del propietario a quien se va a sustituir, teniendo derecho a los emolumentos respectivos, conforme a la ley; y
 
-II. En las ausencias menores a ocho días serán suplidos por el secretario de acuerdos de la sala, quien actuara con testigos de asistencia; para que pueda emir sentencias se requiere autorización expresa de la Junta de Gobierno y Administración.
+En caso de no haber magistrados supernumerarios, estas ausencias serán suplidas por el secretario de acuerdos de la sala, quien actuará con testigos de asistencia;
+
+II. En las ausencias menores a quince días serán suplidos por el secretario de acuerdos de la sala, quien actuara con testigos de asistencia.
 
 ## TÍTULO SEXTO
 
@@ -1030,3 +1034,11 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 161.- POR EL QUE SE REFORMA EL ARTÍCULO 57 DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE DURANGO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
