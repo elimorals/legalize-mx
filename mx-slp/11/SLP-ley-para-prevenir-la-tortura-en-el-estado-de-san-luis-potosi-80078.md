@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-la-tortura-en-el-estado-de-san-luis-potosi-80
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-28"
-last_updated: "2021-09-13"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 28 de diciembre de 2010.
 
@@ -51,9 +51,13 @@ LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSI
 
 La presente Ley es de orden público e interés social, y tiene por objeto la prevención de la tortura en todo el territorio del Estado de San Luis Potosí, en materia del fuero común.
 
-###### ARTICULO 2°.
+(NOTA: EL 12 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 138/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 10 DE SEPTIEMBRE DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO 0377, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Para los efectos de la presente Ley, el delito de tortura se tipifica y sanciona en los términos que señala el artículo 282 del Código Penal del Estado de San Luis Potosí.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 2º.
+
+Para los efectos de la presente Ley, el delito de tortura se tipifica y sanciona en los términos que señala el artículo 329 del Código Penal del Estado de San Luis Potosí.
 
 ###### ARTICULO 3°.
 
@@ -71,9 +75,11 @@ En todo lo no previsto por esta Ley, serán aplicables supletoriamente las dispo
 
 ### CAPITULO II. DE LA PREVENCION DE LA TORTURA
 
-###### ARTICULO 5°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-Con el objeto de fomentar una cultura de prevención de la tortura, la Secretaría de Seguridad Pública, la Procuraduría General de Justicia del Estado, así como las direcciones de seguridad pública municipales, en el ámbito de su competencia, implementarán las acciones siguientes:
+###### ARTÍCULO 5º.
+
+Con el objeto de fomentar una cultura de prevención de la tortura, la Secretaría de Seguridad y Protección Ciudadana, la Fiscalía General del Estado, así como las direcciones de seguridad pública municipales, en el ámbito de su competencia, implementarán las acciones siguientes
 
 I. Organizar y desarrollar programas de capacitación y formación de los servidores públicos, en el respeto a los derechos humanos, y el ejercicio de una ética profesional;
 
@@ -172,5 +178,13 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1245.- SE REFORMA (SIC) LOS ARTÍCULOS 4° Y 13 DE LA LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Éste Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0377.- SE REFORMAN LOS ARTÍCULOS 2° Y 5° EN SU PÁRRAFO PRIMERO, DE LA LEY PARA PREVENIR LA TORTURA EN EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
