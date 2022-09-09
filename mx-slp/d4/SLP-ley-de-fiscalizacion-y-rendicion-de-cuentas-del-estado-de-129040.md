@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2022-03-16"
+last_updated: "2022-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -1013,9 +1013,15 @@ XXVIII. Formar parte del Comité Coordinador del Sistema Anticorrupción del Est
 
 XXIX. Rendir un informe anual basado en indicadores en materia de fiscalización, debidamente sistematizados y actualizados, mismo que será público y se compartirá con los integrantes del Comité Coordinador a que se refiere la Ley del Sistema Estatal Anticorrupción del Estado de San Luis Potosí y al Comité Estatal de Participación Ciudadana. Con base en el informe señalado podrá presentar desde su competencia proyectos de recomendaciones integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, por lo que hace a las causas que los generan;
 
-XXX. Elaborar en cualquier momento estudios y análisis, así como publicarlos, y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-XXXI. Las demás que señale esta Ley y demás disposiciones legales aplicables.
+XXX. Elaborar en cualquier momento estudios y análisis, así como publicarlos;
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+XXXI. Expedir y actualizar la normatividad, así como los protocolos de seguridad, aplicables a la información y a los procedimientos relacionados con los procesos de fiscalización y rendición de cuentas, que sean realizados por medios electrónicos, y
+
+XXXII. Las demás que señale esta Ley y demás disposiciones legales aplicables.
 
 De las atribuciones previstas a favor del Titular de la Auditoría Superior del Estado en esta Ley, sólo las mencionadas en las fracciones II, IV, V, VI, VII, VIII, XII, XVII, XIX, XXI y XXII, de este Artículo son de ejercicio exclusivo del Titular de la Auditoría Superior del Estado y, por tanto, no podrán ser delegadas.
 
@@ -1474,6 +1480,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE MARZO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0283.- SE REFORMAN LOS ARTÍCULOS 12 EN SU PÁRRAFO SEGUNDO, 32 EN SU PÁRRAFO TERCERO, 69 EN SUS FRACCIONES V, VI, VII, XIII, XV Y XVI, 71 EN SU PÁRRAFO PRIMERO, 72, 73 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES I, III Y IV, 76, 79 EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN III, 82, 89 SEXTIES EN SU FRACCIÓN V Y 97, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0375.- SE REFORMA EL ARTÍCULO 77 EN SU FRACCIÓN XXX Y ADICIONA AL MISMO ARTÍCULO 77 UNA FRACCIÓN, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
