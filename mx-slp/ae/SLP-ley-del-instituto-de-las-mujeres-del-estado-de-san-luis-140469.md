@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-instituto-de-las-mujeres-del-estado-de-san-luis-140469"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-23"
-last_updated: "2020-01-23"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de enero de 2020.
 
@@ -319,9 +319,13 @@ El Instituto contará con un Órgano de Control Interno, conforme lo dispone la 
 
 #### Sección Primera. Junta Directiva del Instituto
 
+> <small>[N. DE E. SE ADVIERTE QUE LA APLICACIÓN DEL DECRETO 0382 DE 9 DE SEPTIEMBRE DE 2022, ATENDIÓ A LA LITERALIDAD DE SU PUBLICACIÓN OFICIAL, SE SUGIERE CONSULTAR LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 17.
 
-La Junta Directiva se integra de la siguiente forma:
+La Junta Directiva del Instituto se integra de la siguiente forma:
 
 I. La o el titular del Poder Ejecutivo del Estado, quien la presidirá o, en su caso, la persona que éste designe para tal efecto;
 
@@ -352,6 +356,14 @@ k) Comisión Ejecutiva Estatal de Atención a Víctimas.
 l) Coordinación Estatal para el Fortalecimiento Institucional de los Municipios (CEFIM).
 
 m) Coordinación Estatal para la Atención de los Pueblos Indígenas (CEAPI);
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+k) (sic) Secretaría de Desarrollo Económico, y
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+l) (sic) Sistema de Financiamiento para el Desarrollo del Estado.
 
 III. La o el titular de la Fiscalía General del Estado, y
 
@@ -638,3 +650,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0382.- SE REFORMA EL ARTÍCULO 17 EN SU PÁRRAFO PRIMERO Y ADICIONA AL MISMO ARTÍCULO 17 EN SU FRACCIÓN II, LOS INCISOS K) Y L), DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
