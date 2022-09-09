@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2020-11-30"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -155,7 +155,7 @@ XIII. Personas en situación de vulnerabilidad: los núcleos de población que p
 
 XIV. Pobreza: la situación que padecen las personas, familias y comunidades que carecen de lo necesario para su sustento, por su reducida capacidad de ingreso o por la falta de desarrollo de sus capacidades;
 
-XV. Política de desarrollo social: el conjunto de programas, proyectos y acciones tendientes a reducir las brechas de desigualdad, pobreza, marginación y exclusión social, que potencian y garantizan el desarrollo sostenible y con equidad, que se transforme en bienestar y mejor calidad de vida para la sociedad;
+XV. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2022)
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -167,7 +167,7 @@ XVII. Política de desarrollo social: el conjunto de programas, proyectos y acci
 
 XVIII. Programa municipal: el programa de desarrollo social que cada municipio debe formular, en concordancia con los programas nacional y estatal en la materia;
 
-XIX. Programas sociales: los programas, proyectos y acciones derivadas de los objetivos de los programas estatal, y municipales, que de manera ordenada y sistemática se orientan a superar uno o más rezagos en servicios e infraestructura básica, a fomentar la economía social, o a apoyar directamente a las familias o grupos sociales en situación de desventaja o vulnerabilidad;
+XIX. (DEROGADA, P.O. 9 DE SEPTIEMBRE DE 2022)
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -958,3 +958,11 @@ P.O. 30 DE NOVIEMBRE DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0383.- SE DEROGA DEL ARTÍCULO 6, LAS FRACCIONES XV Y XIX, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
