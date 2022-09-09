@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2022-07-15"
+last_updated: "2022-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1057,11 +1057,11 @@ IV. Especiales: las que por acuerdo del Congreso se constituyan con carácter tr
 
 Las comisiones permanentes serán constituidas durante la primera semana del primer periodo ordinario de sesiones de la Legislatura, y funcionarán durante el ejercicio constitucional de la misma.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 86.
 
-Ningún diputado puede presidir más de una, ni formar parte de más de cuatro comisiones permanentes.
+Ningún diputado o diputada puede presidir más de una, ni formar parte de más de seis comisiones permanentes.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
@@ -1883,9 +1883,9 @@ IV. De Reforma para la Competitividad y Desarrollo Sustentable del Estado;
 
 V. De Transparencia, y
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-VI. Del Sistema de Gestión de Calidad.
+VI. Interno de Control y Desempeño Institucional.
 
 ###### ARTICULO 120.
 
@@ -1963,27 +1963,23 @@ El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado
 
 ARTICULO 124 TER. El Comité de Transparencia estará integrado y actuará en términos y conforme a las funciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí; la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de San Luis Potosí; y el Reglamento para el Acceso a la Información y Protección de Datos Personales del Congreso del Estado de San Luis Potosí.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-ARTICULO 124 QUÁTER. El Comité del Sistema de Gestión de Calidad se integrará dentro del primer trimestre del inicio de cada Legislatura; el Vicepresidente será el Presidente de la Directiva; y el Secretario el Presidente de la Junta de Coordinación Política. El Presidente del Comité y los vocales se elegirán de entre los diputados que integran la Legislatura, de conformidad con lo establecido en el artículo 122 de esta Ley. De igual forma, serán parte del Comité, el oficial mayor; y el contralor interno, sólo con derecho a voz.
+ARTICULO 124 QUÁTER. El Comité Interno de Control y Desempeño Institucional se integrará dentro del primer trimestre del inicio de cada Legislatura; la vicepresidencia la ocupará quien presida la Directiva; la secretaría, quien presida la Junta de Coordinación Política. La presidencia del Comité y las vocalías se elegirán de entre las y los diputados que integran la Legislatura, de conformidad con lo establecido en el artículo 122 de esta Ley. De igual forma, serán parte del Comité, las personas titulares de la oficialía mayor; y el órgano interno de control, sólo con derecho a voz.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-ARTICULO 124 QUINQUE. El Comité del Sistema de Gestión de Calidad tendrá las atribuciones siguientes:
+ARTICULO 124 QUINQUE. El Comité Interno de Control y Desempeño Institucional tendrá las atribuciones siguientes:
 
-I. Renovar y dar seguimiento a la Certificación ISO: 9001-2008;
+I. Establecer el sistema interno de control y desempeño institucional del Congreso del Estado, mediante la definición de facultades, procesos y procedimientos;
 
-II. Determinar los procesos necesarios para el Sistema de Gestión de Calidad, y su implementación;
+II. Emitir las normas en materia interna de control y desempeño institucional; y vigilar el cumplimiento de las mismas;
 
-III. Dar seguimiento a la secuencia e interacción de los procesos para el Sistema de Gestión de Calidad;
+III. Supervisar, con apoyo del órgano interno de control, la implementación del sistema interno de control y desempeño institucional, y
 
-IV. Establecer los criterios y métodos necesarios para asegurar que la operación y el control de los procesos del Sistema de Gestión de Calidad sean eficaces;
+IV. Apoyar a las diversas unidades administrativas del Congreso del Estado, en la revisión, elaboración y actualización de los manuales de organización y de procedimientos.
 
-V. Proponer a la Junta de Coordinación Política la disponibilidad de recursos e información necesaria, para apoyar la operación y seguimiento de los procesos del Sistema de Gestión de Calidad;
-
-VI. Realizar el seguimiento, medición, análisis y mejora continua de los procesos para el Sistema de Gestión de Calidad, y
-
-VII. Implementar las acciones necesarias para alcanzar los resultados planificados.
+La persona titular de la oficialía mayor del Congreso del Estado, fungirá como coordinadora o coordinador interno de control del Congreso del Estado.
 
 ### Capítulo II. De los Órganos de Soporte Técnico, de Apoyo y de Control del Congreso del Estado
 
@@ -2101,9 +2097,13 @@ VI. Los titulares de los órganos de apoyo: informes trimestrales de actividades
 
 En el caso de la Unidad de Evaluación y Control, ésta deberá rendir informe anual de su gestión a la Comisión de Vigilancia.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 129.
 
-Los titulares de los órganos de soporte técnico y de apoyo del Congreso, deben cumplir los requisitos que para cada caso establezca el Reglamento.
+Las personas titulares de los órganos de soporte técnico y de apoyo del Congreso, deben cumplir los requisitos que para cada caso establezca el Reglamento.
+
+Se observará el principio de paridad de género en los nombramientos de las personas titulares de los órganos mencionados en el párrafo que antecede.
 
 ## TITULO NOVENO. DE LAS INICIATIVAS Y FORMACION DE LEYES
 
@@ -3012,3 +3012,31 @@ P.O. 15 DE JULIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor noventa días posteriores a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0376.- SE REFORMA EL ARTÍCULO 129, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Las personas designadas en los órganos de soporte técnico y de apoyo antes de la entrada en vigor del presente Decreto, continuarán en los cargos en los que fueron nombradas.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0378.- SE REFORMA EL ARTÍCULO 86, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0381.- SE REFORMAN LOS ARTÍCULOS 119 EN SU FRACCIÓN VI, 124 QUÁTER Y 124 QUINQUE, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Junta de Coordinación Política asignará los recursos humanos y materiales para la implementación de este Decreto.
