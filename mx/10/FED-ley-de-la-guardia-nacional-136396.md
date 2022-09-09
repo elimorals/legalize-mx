@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-guardia-nacional-136396"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-27"
-last_updated: "2019-05-27"
+last_updated: "2022-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136396&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGN"
 
 LEY DE LA GUARDIA NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Vespertina al Número 28 del Diario Oficial de la Federación, el lunes 27 de mayo de 2019.
 
@@ -96,9 +96,11 @@ III. Salvaguardar los bienes y recursos de la Nación, y
 
 IV. Llevar a cabo acciones de colaboración y coordinación con entidades federativas y municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 7.
 
-Para materializar sus fines, la Guardia Nacional deberá:
+La Guardia Nacional, para materializar sus fines, debe:
 
 I. Aplicar, de acuerdo a sus atribuciones y obligaciones, los programas, políticas y acciones que integran la Estrategia Nacional de Seguridad Pública;
 
@@ -112,9 +114,17 @@ V. Auxiliar al Poder Judicial de la Federación en el ejercicio de sus funciones
 
 VI. Intervenir en los actos procesales de carácter penal en los que sea requerida su participación, así como fungir como policía procesal, en términos de la Ley Nacional de Ejecución Penal;
 
-VII. Intervenir en materia de seguridad pública en el ámbito local, en coadyuvancia de las autoridades competentes, y
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. Hacer uso de las armas que le sean autorizadas, de conformidad con las disposiciones aplicables.
+VII. Intervenir en materia de seguridad pública en el ámbito local, en coadyuvancia de las autoridades competentes;
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Hacer uso de las armas que le sean autorizadas, de conformidad con las disposiciones aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Auxiliar a la Fuerza Armada permanente en el ejercicio de sus misiones, cuando así lo disponga la persona titular del Poder Ejecutivo Federal.
 
 ###### Artículo 8.
 
@@ -256,65 +266,107 @@ II. Recursos económicos: los recursos que el Presupuesto de Egresos de la Feder
 
 III. Recursos materiales: los bienes muebles e inmuebles destinados para el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-La Guardia Nacional realizará sus operaciones mediante una estructura que comprenderá los siguientes niveles de mando:
+La Guardia Nacional realizará sus operaciones mediante una estructura que se integrará por las personas titulares de los siguientes niveles de mando:
 
-I. Secretario;
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. Comandante;
+I. Secretaría DE LA DEFENSA NACIONAL;
 
-III. Coordinador Territorial;
+II. Comandancia;
 
-IV. Coordinador Estatal, y
+III. Coordinación Territorial;
 
-V. Coordinador de Unidad.
+IV. Coordinación Estatal, y
 
-Para la designación de las personas titulares de las coordinaciones previstas en las fracciones III, IV y V del presente artículo se deberá tomar en cuenta que hayan cumplido con la escala jerárquica establecida, así como contar con los años de servicio que señale el Reglamento.
+V. Coordinación de Unidad.
+
+Para la designación de las personas titulares de la Comandancia y de las coordinaciones, previstas en las fracciones II, III, IV y V del presente artículo, se deberá tomar en cuenta que hayan cumplido con la escala jerárquica establecida, así como contar con los años de servicio que señale el Reglamento.
 
 ### Capítulo II. De la Secretaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 13.
 
-Corresponden al Secretario las facultades siguientes:
+A la persona titular de la Secretaría le corresponden las facultades siguientes:
 
-I. Organizar, dirigir y supervisar bajo su adscripción a la Guardia Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-II. Designar y relevar al personal de la Guardia Nacional en los cargos administrativos a que se refiere la fracción VI del artículo 21 de la presente Ley;
+I. Formular la Estrategia Nacional de Seguridad Pública, en lo aplicable a la Guardia Nacional, en colaboración con la Secretaría de la Defensa Nacional;
 
-III. Expedir los manuales de organización, de procedimientos y de servicio al público de la Guardia Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-IV. Elaborar los programas operativos, políticas, estrategias y acciones de la Guardia Nacional;
+II. Expedir el nombramiento del personal de la Guardia Nacional en los cargos administrativos a que se refiere la fracción VI del artículo 21 de la presente Ley, a propuesta de la Comandancia;
 
-V. Elaborar los planes y programas para:
+III. (DEROGADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)
 
-a) La formación, capacitación, especialización y profesionalización del personal de la Guardia Nacional en el ámbito de los ejes de formación policial, académico y axiológico, y
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-b) La capacitación permanente del personal de la Guardia Nacional, en el uso de la fuerza, cadena de custodia y respeto a los derechos humanos;
+IV. Formular las políticas, programas y acciones que se deriven de la Estrategia Nacional de Seguridad Pública aplicables a la Guardia Nacional;
 
-VI. Autorizar la distribución territorial de la Guardia Nacional;
+V. (DEROGADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)
 
-VII. Autorizar la creación de organismos de la Guardia Nacional;
+VI. (DEROGADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)
 
-VIII. Proponer al titular del Poder Ejecutivo Federal el informe anual de las actividades de la Guardia Nacional;
+VII. (DEROGADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)
 
-IX. Nombrar a las personas titulares de las coordinaciones territoriales, estatales y de las unidades especiales;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Proponer a la persona titular del Poder Ejecutivo Federal el informe anual de las actividades de la Guardia Nacional;
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Nombrar a las personas titulares de las Coordinaciones Territoriales, Estatales y de las Unidades especiales, a propuesta de la persona titular de la Comandancia;
 
 X. Suscribir los convenios de colaboración con las entidades federativas y municipios respecto de la participación de la Guardia Nacional, y
 
 XI. Las demás establecidas en esta Ley y demás disposiciones aplicables.
 
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 13 Bis.
+
+A la persona titular de la Secretaría DE LA DEFENSA NACIONAL le corresponden las facultades siguientes:
+
+I. Ejercer el control operativo y administrativo de la Guardia Nacional, en el marco de la Estrategia Nacional de Seguridad Pública, y cuando la persona titular del Ejecutivo Federal disponga de su intervención para el auxilio de la Fuerza Armada permanente en el ejercicio de sus misiones;
+
+II. Expedir los manuales de organización, de procedimientos y de servicio al público de la Guardia Nacional;
+
+III. Elaborar los programas operativos y estrategias de la Guardia Nacional;
+
+IV. Autorizar los planes y programas a que se refiere el artículo 15, fracción XVI de esta Ley;
+
+V. Organizar la distribución territorial de la Guardia Nacional;
+
+VI. Proponer adecuaciones a la estructura orgánica de la Guardia Nacional, y
+
+VII. Las demás establecidas en esta Ley y otras disposiciones jurídicas aplicables.
+
 ### Capítulo III. Del Comandante y las Coordinaciones
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 14.
 
-El Comandante será nombrado por el Presidente de la República y deberá reunir los requisitos siguientes:
+La persona titular de la Comandancia será nombrada por la persona titular de la Presidencia de la República A PROPUESTA DE LA PERSONA TITULAR DE LA SECRETARÍA DE LA DEFENSA NACIONAL y deberá reunir los requisitos siguientes:
 
 I. Ser ciudadano mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener, cuando menos, cincuenta años cumplidos el día de la designación;
 
-III. Contar con título de licenciatura debidamente registrado;
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+III. Contar con el GRADO JERÁRQUICO DE COMISARIO GENERAL Y título de licenciatura debidamente registrado;
 
 IV. Tener reconocida capacidad y probidad; no haber sido condenado en forma definitiva por delito doloso o haber sido observado por violaciones graves a los derechos humanos; no estar sujeto o vinculado a proceso penal, ni contar con orden de aprehensión, presentación o comparecencia;
 
@@ -326,25 +378,45 @@ VII. En su caso, el requisito establecido en la fracción IX del artículo 25 de
 
 Las ausencias del Comandante se suplirán conforme lo disponga el Reglamento respectivo. En todo caso, quien ejerza las funciones del Comandante deberá cumplir los requisitos de este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 15.
 
-Corresponderá al Comandante las atribuciones siguientes:
+A la persona titular de la Comandancia le corresponden las facultades siguientes:
 
 I. Ejercer el mando operativo de la Guardia Nacional;
 
-II. Coordinar, administrar y capacitar a la Guardia Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+II. Coordinar, administrar, capacitar, dirigir y supervisar a la Guardia Nacional;
 
 III. Vigilar, en el área de su competencia, el cumplimiento de las disposiciones legales en materia de protección de derechos humanos;
 
-IV. Administrar, con el acuerdo del Secretario, los recursos que en su caso se aporten para la operación y funcionamiento de la Guardia Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-V. Coordinar la realización de cursos, seminarios o eventos con instituciones nacionales y extranjeras que establezca la Secretaría;
+IV. Administrar los recursos que se aporten para la operación y funcionamiento de la Guardia Nacional;
 
-VI. Proponer y celebrar convenios y demás actos jurídicos que no estén reservados al Secretario, así como llevar a cabo todas aquellas actividades directamente relacionadas con el ámbito de competencia de la Guardia Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-VII. Proponer al Secretario los proyectos de manuales, acuerdos, circulares, memoranda, instructivos, bases y demás normas y disposiciones administrativas para el buen funcionamiento de la Guardia Nacional, en términos del Reglamento;
+V. Coordinar la realización de cursos, seminarios o eventos con instituciones nacionales y extranjeras que establezca la Secretaría de la Defensa Nacional;
 
-VIII. Proponer al Secretario los nombramientos y remociones de los Coordinadores Territoriales y Estatales;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Proponer y celebrar convenios y demás actos jurídicos que no estén reservados a la persona titular de la Secretaría, así como llevar a cabo todas aquellas actividades directamente relacionadas con el ámbito de competencia de la Guardia Nacional;
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Proponer a la Secretaría DE LA DEFENSA NACIONAL los proyectos de manuales, acuerdos, circulares, memoranda, instructivos, bases y demás normas y disposiciones administrativas para el buen funcionamiento de la Guardia Nacional, en términos del Reglamento;
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Proponer a la persona titular de la Secretaría los nombramientos y remociones de las personas titulares de las Coordinaciones Territoriales, Estatales y de las Unidades Especiales;
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VIII Bis. Proponer a la persona titular de la Secretaría los nombramientos y remociones del personal de la Guardia Nacional en los cargos administrativos a que se refiere la fracción VI del artículo 21 de la presente Ley, cuya persona titular deberá contar con la jerarquía mínima de Comisario;
 
 IX. Nombrar a los Coordinadores de Unidad de la Guardia Nacional;
 
@@ -352,15 +424,27 @@ X. Ordenar operaciones encubiertas y de usuarios simulados para desarrollar oper
 
 XI. Ser el enlace institucional con organismos policiales, nacionales y extranjeros que se relacionen con el ámbito de sus atribuciones;
 
-XII. Informar al Secretario sobre el desempeño y resultado de las actividades de la Guardia Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Informar a las personas titulares de la Secretaría y de la Secretaría de la Defensa Nacional sobre el desempeño y resultado de las actividades de la Guardia Nacional;
 
 XIII. Realizar la coordinación con autoridades federales, de las entidades federativas y de los municipios, en el ámbito de su competencia;
 
 XIV. Llevar a cabo, previo acuerdo del Secretario, las acciones de colaboración y auxilio con las autoridades policiales de otros países, conforme a lo establecido en tratados, convenios y acuerdos internacionales;
 
-XV. Coadyuvar con el Secretario en la elaboración del informe anual de actividades de la Guardia Nacional, y
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-XVI. Las demás que le confieran expresamente otras disposiciones normativas.
+XV. Coadyuvar con la persona titular de la Secretaría en la elaboración del informe anual de actividades de la Guardia Nacional;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+XVI. Elaborar los planes y programas para:
+
+a) El ingreso, formación, capacitación, especialización y profesionalización del personal de la Guardia Nacional en el ámbito de los ejes de formación policial, académico y axiológico, conforme a la normatividad en materia de desarrollo policial, y
+
+b) La capacitación permanente del personal de la Guardia Nacional, en el uso de la fuerza, cadena de custodia y respeto a los derechos humanos, y
+
+XVII. Las demás que le confieran expresamente otras disposiciones normativas.
 
 ###### Artículo 16.
 
@@ -374,6 +458,10 @@ En cada Coordinación Territorial habrá un Comisario General, quien ejercerá s
 
 Los Coordinadores Territoriales tendrán bajo su autoridad a dos o más Coordinaciones Estatales.
 
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+El Comisario General mantendrá enlace con los Comandantes de Región Militar y, en su caso, Naval, de su adscripción a fin de facilitar una adecuada colaboración para el desempeño de las funciones de seguridad pública, en el marco de sus respectivas atribuciones.
+
 ###### Artículo 18.
 
 En cada Coordinación Estatal habrá un Comisario Jefe, quien ejercerá su autoridad en el ámbito territorial de una entidad federativa.
@@ -382,11 +470,21 @@ Los Coordinadores Estatales tendrán bajo su autoridad a dos o más Unidades.
 
 Las Coordinaciones Estatales dispondrán de una Jefatura de Coordinación Policial y de los organismos necesarios para el desarrollo de sus funciones.
 
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+El Comisario Jefe mantendrá enlace con los Comandantes de la Zona Militar y, en su caso, Naval, de su adscripción a fin de facilitar una adecuada colaboración para el desempeño de las funciones de seguridad pública, en el marco de sus respectivas atribuciones.
+
 ###### Artículo 19.
 
 Las Coordinaciones de Unidad serán de Batallón, Compañía, Sección, Pelotón y Escuadra, conforme a las disposiciones siguientes:
 
-I. El Batallón estará a cargo de un Comisario o Inspector General, tendrá bajo su mando a dos o más Compañías, contará con una Jefatura de Coordinación Policial y dispondrá de los organismos necesarios para realizar sus funciones;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+I. El Batallón estará a cargo de un Comisario o Inspector General, tendrá bajo su mando a dos o más Compañías, contará con una Jefatura de Coordinación Policial y dispondrá de la estructura necesaria para realizar sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Asimismo, conforme a las instrucciones que reciba de la persona titular de la Coordinación Estatal de la cual dependa, la persona titular del Batallón mantendrá enlace con su homólogo de las Fuerzas Armadas en su adscripción a fin de facilitar una adecuada colaboración para el desempeño de las funciones de seguridad pública, en el marco de sus respectivas atribuciones;
 
 II. La Compañía estará a cargo de un Subinspector y tendrá bajo su mando a dos o más Secciones. La Compañía, en el cumplimiento de sus funciones de seguridad pública, se desplegará en Secciones, Pelotones y Escuadras;
 
@@ -410,7 +508,9 @@ I. La Comandancia;
 
 II. La Jefatura General de Coordinación Policial;
 
-III. Las Coordinaciones Territoriales, Estatales y Regionales;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+III. Las Coordinaciones Territoriales y Estatales;
 
 IV. Las Unidades;
 
@@ -418,11 +518,15 @@ V. Las Jefaturas de Coordinación Policial;
 
 VI. La Coordinación de Administración y Finanzas, y
 
-VII. Los servicios técnicos y administrativos.
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Los servicios de investigación e inteligencia, técnicos y administrativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 22.
 
-La Guardia Nacional dispondrá de las unidades especializadas que sean necesarias para el cumplimiento de sus atribuciones, las cuales adoptarán la organización que requieran sus funciones.
+La Guardia Nacional dispondrá de las unidades de servicios que sean necesarias para el cumplimiento de sus atribuciones, las cuales adoptarán la organización que requieran sus funciones.
 
 Asimismo, contará con la Unidad de Asuntos Internos cuyo titular será nombrado por el Presidente de la República, contará con autonomía de gestión y conocerá de las quejas y denuncias, incluso anónimas, para llevar a cabo actividades de vigilancia, inspección, supervisión e investigación y las demás que determine el Reglamento de la presente Ley.
 
@@ -430,7 +534,11 @@ Asimismo, contará con la Unidad de Asuntos Internos cuyo titular será nombrado
 
 La Jefatura General y las Jefaturas de Coordinación Policial serán los órganos técnico-operativos, colaboradores inmediatos del Comandante, así como de las Coordinaciones Territoriales, Estatales y de Batallón, respectivamente, a quienes auxiliarán en la concepción, planeación y conducción de las atribuciones que cada uno de ellos tenga asignadas, para transformar las decisiones en órdenes, directivas e instrucciones y verificar su cumplimiento.
 
-El Comandante expedirá los manuales de operaciones de la Jefatura General de Coordinación Policial y de las Jefaturas de Coordinación Policial de las Coordinaciones, los cuales serán aprobados por el Secretario.
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+El Comandante expedirá los manuales de operaciones de la Jefatura General de Coordinación Policial y de las Jefaturas de Coordinación Policial de las Coordinaciones, los cuales serán aprobados por la persona titular de la Secretaría DE LA DEFENSA NACIONAL.
 
 ###### Artículo 24.
 
@@ -462,7 +570,9 @@ VII. No haber sido separado, removido, cesado, dado de baja o cualquier otra for
 
 VIII. Cumplir con las disposiciones administrativas y con las características físicas y psicológicas que se establezcan en los requisitos de ingreso;
 
-IX. En su caso, estar funcionalmente separado de su institución armada de origen y quedar adscrito a la Guardia Nacional, sujeto a la disciplina, fuero civil y cadena de mando establecidos en esta Ley, y
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+IX. En su caso, no desempeñar cargo o comisión dentro de las instituciones de la Fuerza Armada permanente, ni de las policiales, y
 
 X. Los demás que establezcan otras disposiciones aplicables.
 
@@ -478,13 +588,21 @@ III. El ingreso y permanencia en la Guardia Nacional estarán sujetos a que los 
 
 IV. Los méritos del personal de la Guardia Nacional serán evaluados por el Consejo de Carrera de la Guardia Nacional;
 
-V. Los periodos para realizar los concursos para obtener un ascenso en la Guardia Nacional, así como los requisitos para participar en dichos concursos, serán determinados por el Consejo de Carrera de la Guardia Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-VI. El Reglamento establecerá los criterios para la promoción del personal de la Guardia Nacional, entre los cuales se deberá incluir, la antigüedad en el grado; tiempo de servicios prestados en la misma; resultados obtenidos en los exámenes de aptitud profesional y en los programas de profesionalización; salud y capacidad física; conducta y méritos demostrados en el desempeño de sus funciones, las aptitudes de mando y liderazgo, así como la evaluación del expediente al que se refiere la fracción IX de este artículo;
+V. Los periodos para realizar los concursos para obtener un ascenso en la Guardia Nacional, así como los requisitos para participar en dichos concursos, serán determinados por el Consejo de Carrera de la Guardia Nacional, en coordinación con la Secretaría de la Defensa Nacional;
 
-VII. El Reglamento establecerá el régimen de estímulos para el personal de la Guardia Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. El personal de la Guardia Nacional podrá ser cambiado de adscripción, con base en las necesidades del servicio;
+VI. Los criterios que establezca el Reglamento para la promoción del personal de la Guardia Nacional deberá incluir, entre otros, la antigüedad en el grado; tiempo de servicios prestados en la misma; resultados obtenidos en los exámenes de aptitud profesional y en los programas de profesionalización; salud y capacidad física; conducta y méritos demostrados en el desempeño de sus funciones, las aptitudes de mando y liderazgo, así como la evaluación del expediente al que se refiere la fracción IX de este artículo;
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VII. El régimen de estímulos para el personal de la Guardia Nacional, que establezca el Reglamento;
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. El personal de la Guardia Nacional podrá ser cambiado de adscripción, con base en las necesidades del servicio. En relación con los mandos, se garantizará su rotación permanente para el cumplimiento de sus atribuciones y obligaciones;
 
 IX. Los expedientes del personal de la Guardia Nacional deberán incluir, por lo menos, los grados, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, las correcciones disciplinarias y sanciones que, en su caso, haya acumulado, en particular las relacionadas con recomendaciones de derechos humanos, así como los resultados de las evaluaciones a que sean sometidos;
 
@@ -580,6 +698,62 @@ Las insignias que correspondan a cada grado serán especificadas en el Manual qu
 
 Los grados y las insignias de la Guardia Nacional no podrán ser usados por personas, corporaciones o dependencias ajenas a ella. Quienes violen estas disposiciones quedarán sujetos a lo previsto en el Código Penal Federal.
 
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 32 Bis.
+
+Para una adecuada colaboración de las Fuerzas Armadas con la Guardia Nacional en el desempeño de las funciones de seguridad pública que tiene a su cargo, conforme a lo previsto en los artículos 17, 18 y 19, fracción I, de esta Ley, la equivalencia jerárquica entre el personal de la Guardia Nacional y de las Fuerzas Armadas será la siguiente:
+
+GUARDIA NACIONAL EJÉRCITO Y FUERZA AÉREA ARMADA
+
+I. Comisarios: I. Generales: I. Almirantes:
+
+Comisario General General de División Almirante
+
+Comisario Jefe General de Brigada Vicealmirante
+
+o General de Ala
+
+Comisario General Brigadier Contralmirante
+
+o General de Grupo
+
+II. Inspectores: II. Jefes: II. Capitanes:
+
+Inspector General Coronel Capitán de Navío
+
+Inspector Jefe Teniente Coronel Capitán de Fragata
+
+Inspector Mayor Capitán de Corbeta
+
+III. Oficiales: III. Oficiales: III. Oficiales:
+
+Primer Subinspector Capitán primero Teniente de Navío
+
+Segundo Subinspector Capitán segundo Teniente de Fragata
+
+Oficial Teniente Teniente de Corbeta
+
+Suboficial Subteniente Primer
+
+Maestre/Guardia
+
+Marina
+
+IV. Escala Básica: IV. Clases: IV. Clases:
+
+Agente Mayor Sargento primero Segundo
+
+Maestre
+
+Agente Sargento segundo Tercer
+
+Maestre
+
+Subagente Cabo Cabo
+
+Guardia Soldado Marinero
+
 ### Capítulo III. Del Personal
 
 ###### Artículo 33.
@@ -598,17 +772,27 @@ IV. Sujetos o vinculados a proceso.
 
 La conclusión del servicio del personal de la Guardia Nacional es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
 
-I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia o cuando haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-II. Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario, o
+I. Separación, por incumplimiento a cualquiera de los requisitos de permanencia o cuando haya alcanzado la edad máxima correspondiente a su jerarquía, de acuerdo con las disposiciones aplicables, o
+
+II. (DEROGADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)
 
 III. Baja, por:
 
 a) Renuncia;
 
-b) Muerte o incapacidad permanente, o
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-c) Jubilación.
+b) Muerte o incapacidad permanente;
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+c) Jubilación, o
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+d) Remoción, por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario.
 
 Al concluir su servicio, el personal de la Guardia Nacional deberá entregar al servidor público designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega-recepción.
 
@@ -654,7 +838,9 @@ I. Las instituciones de formación policial de la Federación, debidamente certi
 
 II. Las instituciones públicas, nacionales o extranjeras, y
 
-III. Las instituciones de Educación Militar y Naval; así como de los Centros de Adiestramiento de las Fuerzas Armadas, en los términos de los convenios de colaboración que para tal efecto suscriba el Secretario con las Secretarías de la Defensa Nacional y de Marina, en lo relativo a la homologación de educación y capacitación.
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+III. Las instituciones de educación y los centros de adiestramiento de las Fuerzas Armadas.
 
 La capacitación del personal de la Guardia Nacional podrá realizarse en instituciones públicas o privadas, nacionales o extranjeras.
 
@@ -773,6 +959,12 @@ Queda prohibida la portación de armas oficiales fuera de las actividades del se
 ###### Artículo 57.
 
 El personal de la Guardia Nacional deberá sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, a la obediencia a la superioridad, así como al Código de Ética de la Guardia Nacional.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+SIN PERJUICIO DE LO ANTERIOR, EL PERSONAL MILITAR ASIGNADO A LA GUARDIA NACIONAL CONTINUARÁ SUJETO A LA JURISDICCIÓN MILITAR RESPECTO DE LOS DELITOS ESPECIFICADOS EN EL LIBRO SEGUNDO DEL CÓDIGO DE JUSTICIA MILITAR QUE ATENTEN CONTRA LA JERARQUÍA Y LA AUTORIDAD.
 
 ###### Artículo 58.
 
@@ -1098,7 +1290,9 @@ II. Secretaría de la Defensa Nacional, y
 
 III. Secretaría de Marina.
 
-Los representantes de las Secretarías serán designados por el Presidente de la República; en el desempeño de sus funciones serán considerados en igualdad de condiciones.
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Las personas representantes de las Secretarías serán designadas por la persona titular de la Presidencia de la República.
 
 ###### Artículo 87.
 
@@ -1383,3 +1577,51 @@ Décimo Cuarto. Los integrantes de las Policías Militar, Naval y Federal que se
 Ciudad de México, a 23 de mayo de 2019.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Nancy de la Sierra Arámburo, Secretaria.- Dip. Lizeth Sánchez García, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de mayo de 2019.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; DE LA LEY DE LA GUARDIA NACIONAL; DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, Y DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, EN MATERIA DE GUARDIA NACIONAL Y SEGURIDAD PÚBLICA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El personal naval que fue asignado a la Guardia Nacional en cumplimiento del Acuerdo por el que se establecen los elementos de la Policía Federal, Policía Militar y de la Policía Naval que integrarán la Guardia Nacional, publicado en el Diario Oficial de la Federación el 28 de junio de 2019, que solicite formar parte de dicha institución de seguridad pública o que, transcurridos sesenta días naturales de la entrada en vigor del presente Decreto, no solicite su reasignación a la Fuerza Armada de origen se le cancelará el documento que legalmente acredite el grado jerárquico con que cuente y se le expedirá uno nuevo con el grado equivalente que corresponda dentro de la Policía Militar, cesando de prestar servicios en la Armada para pasar a prestarlos en el Ejército y Fuerza Aérea Mexicanos.
+
+Al personal naval reclutado para conformar la Guardia Nacional se le cancelará el documento que legalmente acredite el grado jerárquico con que cuente y se le expedirá uno nuevo con el grado equivalente que corresponda dentro de la Policía Militar en el Ejército y Fuerza Aérea Mexicanos. La Secretaría de Marina transferirá las plazas correspondientes, en términos de las disposiciones aplicables.
+
+En todo caso, al personal a que se refiere esta disposición le serán respetados su antigüedad, derechos y beneficios adquiridos.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Tercero.- EN TANTO NO EXISTA PERSONAL CON FORMACIÓN DE GUARDIA NACIONAL CON GRADO DE COMISARIO GENERAL EN ACTIVO, LA PERSONA TITULAR DE LA COMANDANCIA DE LA GUARDIA NACIONAL SERÁ DESIGNADA POR LA PERSONA TITULAR DE LA PRESIDENCIA DE LA REPÚBLICA A PROPUESTA DE LA PERSONA TITULAR DE LA SECRETARÍA DE LA DEFENSA NACIONAL.
+
+Cuarto.- El personal militar que actualmente integra la Guardia Nacional continuará en esa situación bajo el mando de la persona Comandante de dicha institución de seguridad pública.
+
+Quinto.- La Secretaría de Marina transferirá a la Secretaría de la Defensa Nacional los recursos financieros y presupuestarios que correspondan en el presente ejercicio fiscal para cubrir las erogaciones por concepto de servicios personales respecto del personal naval que se transfiera a la Guardia Nacional, conforme a lo señalado en los párrafos primero y segundo del transitorio segundo del presente Decreto.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SEXTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Sexto.- LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA:
+
+I. COORDINARÁ CON LA SECRETARÍA DE LA DEFENSA NACIONAL LA HOMOLOGACIÓN DEL ADIESTRAMIENTO ESPECIALIZADO, CONSIDERANDO LA ESTRATEGIA NACIONAL DE SEGURIDAD PÚBLICA;
+
+II. TRANSFERIRÁ A LA SECRETARÍA DE LA DEFENSA NACIONAL, DENTRO DE UN PLAZO DE SESENTA DÍAS NATURALES, LOS RECURSOS PRESUPUESTARIOS Y FINANCIEROS QUE CORRESPONDAN PARA CUBRIR LAS EROGACIONES POR CONCEPTO DE SERVICIOS PERSONALES Y GASTOS DE OPERACIÓN DE LA GUARDIA NACIONAL, ASÍ COMO LOS RECURSOS MATERIALES DESTINADOS A SU OPERACIÓN, CON EXCEPCIÓN DE AQUÉLLOS REQUERIDOS PARA EL PERSONAL QUE SEGUIRÁ BAJO LA ADSCRIPCIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA. ASIMISMO, DESTINARÁ DICHOS RECURSOS A LA SECRETARÍA DE LA DEFENSA NACIONAL CONFORME VAYAN QUEDANDO VACANTES LAS PLAZAS;
+
+III. DISPONDRÁ QUE EL PERSONAL PROCEDENTE DE LA EXTINTA POLICÍA FEDERAL CESE DE PRESTAR SUS SERVICIOS EN LA GUARDIA NACIONAL, POR LO QUE SEGUIRÁ BAJO SU ADSCRIPCIÓN, CONSERVANDO SUS DERECHOS LABORALES ADQUIRIDOS. EL PERSONAL QUE PERTENEZCA A LOS ORGANISMOS ESPECIALIZADOS DE LA GUARDIA NACIONAL CONTINUARÁ PRESTANDO SUS SERVICIOS EN DICHA INSTITUCIÓN DE SEGURIDAD PÚBLICA DE MANERA TEMPORAL, CONFORME A LOS CONVENIOS DE COLABORACIÓN QUE PARA TAL EFECTO SE FORMALICEN ENTRE LAS SECRETARÍAS DE DEFENSA NACIONAL Y DEL RAMO DE SEGURIDAD PÚBLICA, Y
+
+IV. RELEVARÁ GRADUALMENTE AL PERSONAL QUE INTEGRA LA COORDINACIÓN DE ADMINISTRACIÓN Y FINANZAS DE LA GUARDIA NACIONAL, POR AQUÉL QUE PROPONGA LA PERSONA COMANDANTE DE ESA INSTITUCIÓN. EL PERSONAL RELEVADO MANTENDRÁ SU ADSCRIPCIÓN A LA PROPIA DEPENDENCIA.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SÉPTIMO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Séptimo.- LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO EN USO DE SUS ATRIBUCIONES:
+
+I. OBSERVARÁ LO SEÑALADO EN EL TERCERO TRANSITORIO DEL PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2022, PARA DAR CUMPLIMIENTO A LO PREVISTO EN EL PRESENTE DECRETO;
+
+II. REALIZARÁ LAS ACCIONES QUE CORRESPONDAN PARA QUE LA SECRETARÍA DE LA DEFENSA NACIONAL CUENTE CON LOS RECURSOS PRESUPUESTARIOS PARA CUBRIR LAS VACANTES A QUE SE REFIERE LA FRACCIÓN II DEL ARTÍCULO SEXTO TRANSITORIO DEL PRESENTE DECRETO.
+
+CONFORME EL PERSONAL NAVAL SEA REASIGNADO A LA SECRETARÍA DE MARINA EN TÉRMINOS DEL SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, LA SECRETARÍA DE LA DEFENSA NACIONAL SOLICITARÁ A LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO QUE REALICE LAS ACCIONES NECESARIAS, EN TÉRMINOS DE LAS DISPOSICIONES JURÍDICAS APLICABLES, PARA CONTAR CON LOS RECURSOS PRESUPUESTARIOS Y LAS PLAZAS CORRESPONDIENTES PARA DAR CUMPLIMIENTO CON LO ESTABLECIDO EN EL PRESENTE DECRETO.
+
+Octavo.- Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina son responsables de la instrumentación del presente Decreto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados de la Secretaría de la Defensa Nacional, de la Secretaría de Marina y de la Secretaría de Seguridad y Protección Ciudadana para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos, lo anterior, con independencia de lo señalado en los transitorios quinto y sexto, fracción II, del presente Decreto.
+
+Noveno.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, comprendidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
