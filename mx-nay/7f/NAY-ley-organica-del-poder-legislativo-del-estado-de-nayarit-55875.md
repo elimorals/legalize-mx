@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2022-09-06"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE SEPTIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -239,7 +241,9 @@ I. Integrar la legislatura constitucional para la cual fueron electos;
 
 II. Iniciar leyes, decretos o acuerdos;
 
-III. Organizarse internamente en grupo o representación parlamentaria, conforme a los procedimientos previstos por esta ley y el reglamento;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+III. Organizarse internamente en grupo parlamentario, asociación parlamentaria plural o representación parlamentaria, para tomar parte en los órganos representativos del gobierno interior, conforme a los procedimientos previstos por esta ley y el reglamento;
 
 IV. Elegir y ser elegidos para formar parte de la Mesa Directiva, Comisiones, y demás órganos del Gobierno Interior del Congreso;
 
@@ -269,13 +273,9 @@ XV. Asistir con derecho a voz a los trabajos de comisiones, previa acreditación
 
 XVI. Solicitar al presidente de la Comisión a la que pertenezca, se convoque a reunión;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2011)</small>
 
 XVII. Contar con una cuenta de correo electrónico oficial, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 2 DE JULIO DE 2011)</small>
 
@@ -401,9 +401,21 @@ II. En el orden de las actividades legislativas:
 
 a) La Mesa Directiva,
 
-b) Las comisiones ordinarias, especiales; y
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-c) Los grupos parlamentarios.
+b) Las comisiones ordinarias, especiales;
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+c) Los grupos parlamentarios;
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+d) Asociación parlamentaria plural, y
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+e) Representación parlamentaria.
 
 ###### Artículo 33.
 
@@ -411,21 +423,21 @@ La Asamblea es la instancia resolutiva de las leyes, decretos y acuerdos que com
 
 ### CAPÍTULO II. COMISIÓN DE GOBIERNO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 34.
 
-Al inicio del período del Congreso, previa declaratoria de constitución de los grupos y representaciones parlamentarias, el pleno aprobará la conformación de la Comisión de Gobierno que fungirá durante el ejercicio constitucional de la Legislatura, misma que estará integrada en los siguientes términos:
+Al inicio del período del Congreso, previa declaratoria de constitución de los grupos parlamentarios, asociación parlamentaria plural y representaciones parlamentarias, el pleno aprobará la conformación de la Comisión de Gobierno que fungirá durante el ejercicio constitucional de la Legislatura, misma que estará integrada en los siguientes términos:
 
 a) Presidente; Coordinador del Grupo Parlamentario con mayor número de diputados;
 
-b) Vicepresidentes; Coordinadores del resto de los Grupos Parlamentarios;
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+b) Vicepresidentes; Coordinadores del resto de los grupos parlamentarios y coordinador de la asociación parlamentaria plural;
 
 c) Vocales; Diputados con representación parlamentaria; y
 
 d) Secretario.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE JULIO DE 2011)</small>
 
 El Presidente del Congreso hará la declaratoria de constitución de este órgano de gobierno, el cual a partir de ese momento ejercerá sus atribuciones.
 
@@ -439,7 +451,9 @@ La Comisión de Gobierno fungirá como una instancia de dirección a fin de opti
 
 La Comisión de Gobierno tendrá las siguientes atribuciones:
 
-I. Representar la pluralidad de los partidos políticos acreditados en el Congreso en los términos de la presente ley.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+I. Representar la pluralidad de las corrientes políticas en el Congreso en los términos de la presente ley;
 
 II. Conducir las relaciones políticas de la Legislatura con los Poderes Ejecutivo y Judicial del Estado; con los poderes de las demás entidades de la República, los poderes de la Unión y los Ayuntamientos de la entidad;
 
@@ -483,9 +497,11 @@ XI. Autorizar la celebración y el desahogo de sesiones del Pleno o reuniones de
 
 XII. Las demás que se deriven de esta ley, su reglamento y las que determine la Asamblea Legislativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 36.
 
-El presidente de la Comisión de Gobierno tendrá como funciones principales la coordinación, organización y seguimiento de las actividades político-legislativas del Congreso, así como las tareas administrativas y laborales que correspondan conforme a la ley y a su reglamento. Podrá establecer sistemas de enlace con los Coordinadores de los demás grupos parlamentarios, sobre la base del respeto recíproco e impulso a las actividades que le son propias.
+El presidente de la Comisión de Gobierno tendrá como funciones principales la coordinación, organización y seguimiento de las actividades político-legislativas del Congreso, así como las tareas administrativas y laborales que correspondan conforme a la ley y a su reglamento. Podrá establecer sistemas de enlace con los demás integrantes de los grupos parlamentarios, asociación parlamentaria plural y representaciones parlamentarias, sobre la base del respeto recíproco e impulso a las actividades que le son propias.
 
 Además, llevará la representación del Congreso, que en su caso podrá delegarla, en la celebración del calendario cívico, actos, reuniones o convenciones legislativas.
 
@@ -509,7 +525,9 @@ Los integrantes de la Comisión de Gobierno durarán en su cargo todo el ejercic
 
 La Mesa Directiva del Congreso será electa por el pleno o la Diputación Permanente y se integrará con un Presidente, un Vicepresidente y dos Secretarios; excepto el primer cargo, todos con sus respectivos suplentes, eligiéndose en fórmulas o por cargos, mediante el voto afirmativo de la mayoría simple, dictándose al efecto el acuerdo correspondiente.
 
-En la formulación de la propuesta para la elección, los Coordinadores de los Grupos Parlamentarios cuidarán que los candidatos preferentemente cuenten con experiencia en la conducción de asambleas.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+En la formulación de la propuesta para la elección, la Comisión de Gobierno cuidará que los candidatos preferentemente cuenten con experiencia en la conducción de asambleas.
 
 ###### Artículo 40.
 
@@ -677,19 +695,25 @@ Los grupos parlamentarios se constituirán al inicio de la Legislatura cuando pr
 
 El Coordinador expresa la voluntad del Grupo Parlamentario, y será su función primordial promover el diálogo y los entendimientos necesarios para la toma de decisiones que coadyuven en la actividad sustantiva del Congreso, y fungirán como enlace con los demás órganos del gobierno interior.
 
-Si en el curso de la Legislatura se modificase la integración de los grupos parlamentarios acreditados, esta situación deberá ser comunicada a la Comisión de Gobierno, dando vista al pleno del Congreso, siempre que cumpla con las formalidades conducentes del primer párrafo del presente artículo.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+En el caso de que la modificación o cambio implique la salida de un diputado o diputada de un grupo parlamentario, asociación parlamentaria plural o representación parlamentaria, el aviso surtirá efectos a partir de su aprobación por el Pleno o la Diputación Permanente.
 
 ###### Artículo 60.
 
 La documentación a que se refiere el artículo anterior se entregará a más tardar en la tercera sesión del primer período ordinario de sesiones, salvo los casos específicos a que hace mención esta ley.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 61.
 
-El presidente de la Mesa Directiva al recibir la documentación de la constitución de los grupos, informará a la Asamblea en la sesión inmediata el número de grupos, su denominación, sus integrantes y el nombre del coordinador; y a partir de ese momento iniciarán sus funciones previstas en la presente ley.
+El presidente o Presidenta de la Mesa Directiva al recibir la documentación de la constitución de grupo o asociación parlamentaria plural previo cumplimiento de requisitos, informará a la Asamblea en la sesión inmediata el número de grupos y asociación parlamentaria plural en su caso, su denominación, sus integrantes y el nombre del coordinador; y a partir de ese momento iniciarán sus funciones previstas en la presente ley.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 62.
 
-Los grupos parlamentarios dispondrán de locales adecuados, así como de recursos humanos, financieros y materiales necesarios para el cumplimiento de sus funciones de acuerdo a su representación proporcional y de las posibilidades del presupuesto del Congreso.
+Los grupos parlamentarios dispondrán de recursos humanos, financieros y materiales necesarios para el cumplimiento de sus funciones de acuerdo a su representación proporcional y de las posibilidades del presupuesto del Congreso.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2014)</small>
 
@@ -703,13 +727,25 @@ Los recursos financieros que se asignen a los grupos parlamentarios se otorgará
 
 Los grupos parlamentarios están obligados a destinar los recursos que se les otorgan exclusivamente para el cumplimiento de sus funciones.
 
-### CAPÍTULO VI. COMISIONES LEGISLATIVAS
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO VI. ASOCIACIÓN PARLAMENTARIA PLURAL
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 65.
 
-(DEROGADO, P.O. 4 DE MARZO DE 2014)
+Las Diputadas o Diputados sin partido y en su caso independientes, podrán agruparse a efecto de conformar una Asociación Parlamentaria Plural y siempre que su conformación sea de cuando menos dos integrantes. Solo se podrá conformar una Asociación Parlamentaria Plural en el caso de las diputadas o diputados sin partido o independientes.
 
-### CAPÍTULO ÚNICO. ESTRUCTURA TÉCNICA Y ADMINISTRATIVA DEL CONGRESO
+Su constitución deberá realizarse preferentemente al inicio de la legislatura y deberán presentar a la Mesa Directiva el acta en la que conste la decisión de las diputados (sic) o diputados de constituirse en Asociación Parlamentaria Plural, especificando la lista de sus integrantes y firmas, así como el nombre de la diputada o diputado coordinador y en su caso subcoordinador. El coordinador formará parte de la Comisión de Gobierno con voz y voto. Actuará bajo la denominación de asociación parlamentaria plural.
+
+El Coordinador expresa la voluntad de la asociación parlamentaria plural, y será su función primordial promover el diálogo y los entendimientos necesarios para la toma de decisiones que coadyuven en la actividad sustantiva del Congreso, y fungirán como enlace con los demás órganos del gobierno interior.
+
+Si en el curso de la Legislatura se modificase la integración de la asociación parlamentaria plural acreditada, esta situación deberá ser comunicada a la Comisión de Gobierno, dando vista al pleno del Congreso, siempre que cumpla con las formalidades conducentes del segundo párrafo del presente artículo.
+
+La Asociación Parlamentaria Plural dispondrá de recursos humanos, financieros y materiales necesarios para el cumplimiento de sus funciones de acuerdo a su representación proporcional y de las posibilidades del presupuesto del Congreso.
+
+### CAPÍTULO VII. COMISIONES LEGISLATIVAS
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -879,7 +915,7 @@ El orden del día que se genere con motivo de un citatorio a reunión de Comisio
 
 ## TÍTULO TERCERO. ÓRGANOS TÉCNICOS DEL CONGRESO
 
-### CAPÍTULO I. LAS SESIONES
+### CAPÍTULO ÚNICO. ESTRUCTURA TÉCNICA Y ADMINISTRATIVA DEL CONGRESO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -1207,7 +1243,7 @@ En las sesiones del comité, las y los servidores públicos que lo conformen, te
 
 ## TÍTULO CUARTO. PROCESO LEGISLATIVO
 
-### CAPÍTULO II. PROCEDIMIENTOS Y FORMALIDADES
+### CAPÍTULO I. LAS SESIONES
 
 ###### Artículo 84.
 
@@ -1241,7 +1277,7 @@ IX. Para su registro oficial, corresponde exclusivamente al Congreso por conduct
 
 X. La Comisión de Gobierno podrá autorizar llevar a cabo sesiones del Pleno o reuniones de trabajo de las comisiones de manera virtual, considerando la necesidad por algún desastre natural, contingencia ambiental o de salud.
 
-### CAPÍTULO III. TRÁMITES LEGISLATIVOS
+### CAPÍTULO II. PROCEDIMIENTOS Y FORMALIDADES
 
 ###### Artículo 85.
 
@@ -1327,9 +1363,7 @@ c).- El desarrollo temático se hará de manera jerárquica y ordenada, sin deja
 
 d).- El orden interno precisará: la finalidad, las definiciones cuando así proceda, el ámbito de aplicación, la parte sustantiva, las infracciones y sanciones, el procedimiento y si las hubieren las disposiciones finales.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
+### CAPÍTULO III. TRÁMITES LEGISLATIVOS
 
 #### SECCIÓN PRIMERA. INICIATIVAS
 
@@ -1367,9 +1401,11 @@ VI.- La iniciativa de Acuerdo, que contenga declaraciones legislativas, administ
 
 Las iniciativas con carácter de dictamen provenientes de las Comisiones Legislativas en asuntos de su competencia, pasarán a discusión del Pleno o de la Diputación Permanente, atendiendo lo dispuesto por el presente artículo.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 95.
 
-La iniciativa de Acuerdo, podrá ser presentada de manera individual por los diputados o a través de los grupos parlamentarios. Su dictaminación y trámite se ajustará al reglamento.
+La iniciativa de Acuerdo, podrá ser presentada de manera individual por los diputados o a través de los grupos parlamentarios o asociación parlamentaria plural. Su dictaminación y trámite se ajustará al reglamento.
 
 #### SECCIÓN SEGUNDA. REFORMAS CONSTITUCIONALES
 
@@ -1489,7 +1525,9 @@ El Servicio Profesional de Carrera se establecerá preferentemente para los trab
 
 ## TÍTULO SEXTO. FISCALIZACIÓN
 
-### CAPÍTULO ÚNICO. DESIGNACIÓN DE GOBERNADOR PROVISIONAL, INTERINO O SUBSTITUTO
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2021)</small>
 
 ###### Artículo 105.
 
@@ -1531,9 +1569,7 @@ El Auditor Superior de la Auditoría Superior del Estado, será el responsable d
 
 ## TÍTULO SÉPTIMO. FACULTADES DEL CONGRESO EN MATERIA ELECTORAL
 
-### CAPÍTULO ÚNICO. PLAN DE DESARROLLO INSTITUCIONAL
-
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+### CAPÍTULO ÚNICO. DESIGNACIÓN DE GOBERNADOR PROVISIONAL, INTERINO O SUBSTITUTO
 
 ###### Artículo 111.
 
@@ -1566,6 +1602,10 @@ De no encontrarse en funciones la Legislatura, la Diputación Permanente convoca
 ## TÍTULO OCTAVO. PLANEACIÓN INSTITUCIONAL
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+### CAPÍTULO ÚNICO. PLAN DE DESARROLLO INSTITUCIONAL
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 117.
 
@@ -1810,3 +1850,9 @@ P.O. 6 DE SEPTIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Por única ocasión la presentación del informe anual de labores legislativas y de gestión social de las Diputadas y los Diputados será potestativa para el año 2022.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE ASOCIACIÓN PARLAMENTARIA PLURAL".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
