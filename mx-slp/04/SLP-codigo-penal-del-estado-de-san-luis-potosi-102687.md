@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2022-07-15"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1930,6 +1930,10 @@ Este delito se sancionará con una pena de cuatro a doce años de prisión y san
 Se impondrán en una mitad las penas a que se refiere este artículo, al padre o la madre que retenga o cambie de su residencia habitual a su hijo menor o incapaz, con el fin de impedir que el otro ascendiente ejerza el derecho a convivir con su hijo o impedir la guarda y custodia compartida en los términos de la resolución o convenio judicial.
 
 En los casos a que se refiere este artículo, el delito se perseguirá a petición de parte ofendida.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Se impondrán en una mitad las penas a que se refiere este artículo, al padre o madre que sustraiga, retenga sin causa justificada, u oculte a un hijo o hija menor de edad, con la finalidad de obligar al otro a dar, hacer o dejar de hacer algo, en beneficio propio.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -5808,5 +5812,13 @@ P.O. 15 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0362.- SE REFORMAN LOS ARTÍCULOS 109 EN SU FRACCIÓN IV Y 175 EN SU PÁRRAFO PRIMERO; Y ADICIONA EL ARTÍCULO 175 BIS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 305 EN SU PÁRRAFO ÚLTIMO Y 310, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0380.- SE ADICIONA AL ARTÍCULO 160, EL PÁRRAFO QUINTO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
