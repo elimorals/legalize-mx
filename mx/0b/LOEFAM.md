@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2022-02-18"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -55,6 +55,10 @@ IV. Realizar acciones cívicas y obras sociales que tiendan al progreso del paí
 V. En caso de desastre prestar ayuda para el mantenimiento del orden, auxilio de las personas y sus bienes y la reconstrucción de las zonas afectadas.
 
 ARTICULO 2/o. Las misiones enunciadas, podrán realizarlas el Ejército y la Fuerza Aérea, por si o en forma conjunta con la Armada o con otras Dependencias de los Gobiernos Federal, Estatales o Municipales, todo, conforme lo ordene o lo apruebe el Presidente de la República, en ejercicio de sus facultades constitucionales.
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+ARTICULO 2/o BIS. El personal militar podrá efectuar operaciones de apoyo a las instituciones de seguridad pública en los términos que señale el marco jurídico aplicable.
 
 ARTICULO 3/o. El Ejército y Fuerza Aérea Mexicanos deben ser organizados, adiestrados y equipados conforme a los requerimientos que reclame el cumplimiento de sus misiones.
 
@@ -1238,9 +1242,11 @@ De acuerdo con su situación en el Ejército y Fuerza Aérea, los militares se c
 
 #### SECCION PRIMERA. El Activo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 138.
 
-El Activo, del Ejército y Fuerza Aérea, estará constituido por el personal militar que se encuentre:
+El Activo del Ejército y Fuerza Aérea está constituido por el personal militar que se encuentre:
 
 I. Encuadrado, agregado o comisionado en Unidades, Dependencias e Instalaciones Militares;
 
@@ -1250,9 +1256,19 @@ III. Con licencia;
 
 IV. Hospitalizado;
 
-V. Sujeto a Proceso; y
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-VI. Compurgando una Sentencia.
+V. Sujeto a Proceso;
+
+> <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Compurgando una Sentencia, y
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VII. ASIGNADO, PRESTANDO SUS SERVICIOS EN LA GUARDIA NACIONAL.
 
 Generalidades
 
@@ -1486,13 +1502,19 @@ E. Los Militares Auxiliares causarán baja, además cuando no se consideren nece
 
 Si la baja se le da al Auxiliar sin que la hubiera motivado su mala conducta y habiendo prestado más de cinco años de servicios, tendrá derecho a una compensación que deberá otorgar el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, cuyo monto será el equivalente al fijado para el retiro con el grado que tenía al ser dado de baja;
 
-> <small>(REFORMADO, D.O.F. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-F. Por adquirir otra nacionalidad, y
+F. Por adquirir otra nacionalidad;
 
-> <small>(REFORMADO, D.O.F. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
 
-G. Para los Soldados y Cabos, por la rescisión del contrato de enganche o del de su renovación, otorgándoles la garantía de audiencia por quince días hábiles en los términos del Reglamento de Reclutamiento de Personal para el Ejército y Fuerza Aérea Mexicanos.
+G. Para los Soldados y Cabos, por la rescisión del contrato de enganche o del de su renovación, otorgándoles la garantía de audiencia por quince días hábiles en los términos del Reglamento de Reclutamiento de Personal para el Ejército y Fuerza Aérea Mexicanos, y
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL APARTADO H. DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+H. PARA EL PERSONAL DE TROPA Y DE LOS MILITARES DE LA CLASE DE AUXILIARES ASIGNADO A LA GUARDIA NACIONAL, POR REMOCIÓN, PREVIO OTORGAMIENTO DE GARANTÍA DE AUDIENCIA.
 
 Salvo los casos de la Fracción I apartado A y Fracción II apartado E, la baja del Ejército y Fuerza Aérea, implica la pérdida del derecho a reclamar prestaciones o beneficios con base en el tiempo de servicios que se tuvo y en todos los casos el de usar uniformes, condecoraciones y divisas militares.
 
@@ -2223,3 +2245,49 @@ Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del p
 Tercero.- Todas las referencias que en esta Ley y demás ordenamientos se hagan al Estado Mayor de la Defensa Nacional, se entenderán hechas al Estado Mayor Conjunto de la Defensa Nacional.
 
 Cuarto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; DE LA LEY DE LA GUARDIA NACIONAL; DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, Y DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, EN MATERIA DE GUARDIA NACIONAL Y SEGURIDAD PÚBLICA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El personal naval que fue asignado a la Guardia Nacional en cumplimiento del Acuerdo por el que se establecen los elementos de la Policía Federal, Policía Militar y de la Policía Naval que integrarán la Guardia Nacional, publicado en el Diario Oficial de la Federación el 28 de junio de 2019, que solicite formar parte de dicha institución de seguridad pública o que, transcurridos sesenta días naturales de la entrada en vigor del presente Decreto, no solicite su reasignación a la Fuerza Armada de origen se le cancelará el documento que legalmente acredite el grado jerárquico con que cuente y se le expedirá uno nuevo con el grado equivalente que corresponda dentro de la Policía Militar, cesando de prestar servicios en la Armada para pasar a prestarlos en el Ejército y Fuerza Aérea Mexicanos.
+
+Al personal naval reclutado para conformar la Guardia Nacional se le cancelará el documento que legalmente acredite el grado jerárquico con que cuente y se le expedirá uno nuevo con el grado equivalente que corresponda dentro de la Policía Militar en el Ejército y Fuerza Aérea Mexicanos. La Secretaría de Marina transferirá las plazas correspondientes, en términos de las disposiciones aplicables.
+
+En todo caso, al personal a que se refiere esta disposición le serán respetados su antigüedad, derechos y beneficios adquiridos.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Tercero.- EN TANTO NO EXISTA PERSONAL CON FORMACIÓN DE GUARDIA NACIONAL CON GRADO DE COMISARIO GENERAL EN ACTIVO, LA PERSONA TITULAR DE LA COMANDANCIA DE LA GUARDIA NACIONAL SERÁ DESIGNADA POR LA PERSONA TITULAR DE LA PRESIDENCIA DE LA REPÚBLICA A PROPUESTA DE LA PERSONA TITULAR DE LA SECRETARÍA DE LA DEFENSA NACIONAL.
+
+Cuarto.- El personal militar que actualmente integra la Guardia Nacional continuará en esa situación bajo el mando de la persona Comandante de dicha institución de seguridad pública.
+
+Quinto.- La Secretaría de Marina transferirá a la Secretaría de la Defensa Nacional los recursos financieros y presupuestarios que correspondan en el presente ejercicio fiscal para cubrir las erogaciones por concepto de servicios personales respecto del personal naval que se transfiera a la Guardia Nacional, conforme a lo señalado en los párrafos primero y segundo del transitorio segundo del presente Decreto.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SEXTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Sexto.- LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA:
+
+I. COORDINARÁ CON LA SECRETARÍA DE LA DEFENSA NACIONAL LA HOMOLOGACIÓN DEL ADIESTRAMIENTO ESPECIALIZADO, CONSIDERANDO LA ESTRATEGIA NACIONAL DE SEGURIDAD PÚBLICA;
+
+II. TRANSFERIRÁ A LA SECRETARÍA DE LA DEFENSA NACIONAL, DENTRO DE UN PLAZO DE SESENTA DÍAS NATURALES, LOS RECURSOS PRESUPUESTARIOS Y FINANCIEROS QUE CORRESPONDAN PARA CUBRIR LAS EROGACIONES POR CONCEPTO DE SERVICIOS PERSONALES Y GASTOS DE OPERACIÓN DE LA GUARDIA NACIONAL, ASÍ COMO LOS RECURSOS MATERIALES DESTINADOS A SU OPERACIÓN, CON EXCEPCIÓN DE AQUÉLLOS REQUERIDOS PARA EL PERSONAL QUE SEGUIRÁ BAJO LA ADSCRIPCIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA. ASIMISMO, DESTINARÁ DICHOS RECURSOS A LA SECRETARÍA DE LA DEFENSA NACIONAL CONFORME VAYAN QUEDANDO VACANTES LAS PLAZAS;
+
+III. DISPONDRÁ QUE EL PERSONAL PROCEDENTE DE LA EXTINTA POLICÍA FEDERAL CESE DE PRESTAR SUS SERVICIOS EN LA GUARDIA NACIONAL, POR LO QUE SEGUIRÁ BAJO SU ADSCRIPCIÓN, CONSERVANDO SUS DERECHOS LABORALES ADQUIRIDOS. EL PERSONAL QUE PERTENEZCA A LOS ORGANISMOS ESPECIALIZADOS DE LA GUARDIA NACIONAL CONTINUARÁ PRESTANDO SUS SERVICIOS EN DICHA INSTITUCIÓN DE SEGURIDAD PÚBLICA DE MANERA TEMPORAL, CONFORME A LOS CONVENIOS DE COLABORACIÓN QUE PARA TAL EFECTO SE FORMALICEN ENTRE LAS SECRETARÍAS DE DEFENSA NACIONAL Y DEL RAMO DE SEGURIDAD PÚBLICA, Y
+
+IV. RELEVARÁ GRADUALMENTE AL PERSONAL QUE INTEGRA LA COORDINACIÓN DE ADMINISTRACIÓN Y FINANZAS DE LA GUARDIA NACIONAL, POR AQUÉL QUE PROPONGA LA PERSONA COMANDANTE DE ESA INSTITUCIÓN. EL PERSONAL RELEVADO MANTENDRÁ SU ADSCRIPCIÓN A LA PROPIA DEPENDENCIA.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SÉPTIMO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Séptimo.- LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO EN USO DE SUS ATRIBUCIONES:
+
+I. OBSERVARÁ LO SEÑALADO EN EL TERCERO TRANSITORIO DEL PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2022, PARA DAR CUMPLIMIENTO A LO PREVISTO EN EL PRESENTE DECRETO;
+
+II. REALIZARÁ LAS ACCIONES QUE CORRESPONDAN PARA QUE LA SECRETARÍA DE LA DEFENSA NACIONAL CUENTE CON LOS RECURSOS PRESUPUESTARIOS PARA CUBRIR LAS VACANTES A QUE SE REFIERE LA FRACCIÓN II DEL ARTÍCULO SEXTO TRANSITORIO DEL PRESENTE DECRETO.
+
+CONFORME EL PERSONAL NAVAL SEA REASIGNADO A LA SECRETARÍA DE MARINA EN TÉRMINOS DEL SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, LA SECRETARÍA DE LA DEFENSA NACIONAL SOLICITARÁ A LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO QUE REALICE LAS ACCIONES NECESARIAS, EN TÉRMINOS DE LAS DISPOSICIONES JURÍDICAS APLICABLES, PARA CONTAR CON LOS RECURSOS PRESUPUESTARIOS Y LAS PLAZAS CORRESPONDIENTES PARA DAR CUMPLIMIENTO CON LO ESTABLECIDO EN EL PRESENTE DECRETO.
+
+Octavo.- Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina son responsables de la instrumentación del presente Decreto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados de la Secretaría de la Defensa Nacional, de la Secretaría de Marina y de la Secretaría de Seguridad y Protección Ciudadana para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos, lo anterior, con independencia de lo señalado en los transitorios quinto y sexto, fracción II, del presente Decreto.
+
+Noveno.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, comprendidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
