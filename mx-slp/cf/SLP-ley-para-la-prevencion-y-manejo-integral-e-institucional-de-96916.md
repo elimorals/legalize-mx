@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-y-manejo-integral-e-institucional-de-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-06"
-last_updated: "2019-08-20"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 6 de diciembre de 2013.
 
@@ -33,7 +33,9 @@ DECRETO 384
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Esta Ley tiene por objeto el establecer otorgamiento de permisos para quemas y los requisitos mínimos para emitir dicho permiso, la capacitación del personal que actúa cuando se suscita algún incendio en el Estado, la concurrencia entre los tres niveles de gobierno en cuestiones de uso del fuego y su control, así como las sanciones a que son acreedores las personas que usan el fuego en áreas forestales, preferentemente forestales, temporalmente forestales.
 
@@ -405,9 +407,11 @@ De igual forma, se entenderá sin perjuicio de las sanciones administrativas que
 
 En el caso de que se ocasionen daños a los recursos forestales, al medio ambiente, a sus ecosistemas o componentes, el responsable deberá cubrir la indemnización económica a la autoridad correspondiente, previa cuantificación de los daños, sin perjuicio de la aplicación de las sanciones administrativas o legales que procedan conforme a esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 34.
 
-La SEDARH y la CONAFOR, en coordinación con los ayuntamientos, emitirán anualmente un calendario de quemas, el cual contendrá específicamente las fechas y horarios permitidos para hacer quemas, así como las zonas prohibidas para tal actividad, señalando prioritariamente las zonas críticas de incendios forestales a que se refiere el artículo 4° de este Ordenamiento.
+La Sedarh y la Conafor, en coordinación con los ayuntamientos, emitirán anualmente un calendario de quemas, el cual contendrá específicamente las fechas y horarios permitidos para hacer quemas, atendiendo a las normas oficiales aplicables, así como las zonas prohibidas para tal actividad, señalando prioritariamente las zonas críticas de incendios forestales a que se refiere el artículo 4° de este Ordenamiento.
 
 El calendario deberá publicarse en el Periódico Oficial del Estado, y en uno de los de mayor circulación en la Entidad, en los espacios que al efecto designen las presidencias municipales de los lugares donde se llevan a cabo éstas actividades, así como en los medios que se consideren convenientes.
 
@@ -417,9 +421,11 @@ El calendario deberá publicarse en el Periódico Oficial del Estado, y en uno d
 
 Las autoridades prestarán toda ayuda técnica necesaria y las facilidades a su alcance, para que las personas interesadas lleven a cabo sus quemas oportuna y eficazmente.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 36.
 
-Las autoridades del Estado y de los municipios, están obligadas a prestar todo el auxilio oportuno y necesario para evitar que con motivo de la quema, se produzcan o se propaguen incendios forestales, interviniendo con todos los medios a su alcance, de acuerdo o en coordinación con las autoridades federales, para combatirlos eficazmente.
+Las autoridades del Estado y de los municipios están obligadas a prestar todo el auxilio oportuno y necesario, para evitar que con motivo de la quema se produzcan o se propaguen incendios forestales, interviniendo con todos los medios a su alcance, haciendo énfasis en el uso de brechas corta fuego o líneas negras, de acuerdo o en coordinación con las autoridades federales, para combatirlos eficazmente.
 
 ### Capítulo IV. De la Responsabilidad de los Propietarios y Poseedores de Terrenos Forestales y sus Colindancias para Realizar Quemas
 
@@ -616,5 +622,13 @@ P.O. 20 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0237.- SE REFORMA Y ADICIONA EL ARTÍCULO 46 DE LA LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0385.- SE REFORMAN LOS ARTÍCULOS 34 EN SU PÁRRAFO PRIMERO Y 36, DE LA LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
