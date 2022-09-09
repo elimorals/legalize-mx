@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2021-07-16"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -85,7 +85,7 @@ VIII. CEMER.- Comisión Estatal de Mejora Regulatoria de Quintana Roo;
 
 IX. CENER.- Comisión de Energía de Quintana Roo;
 
-X.- Comisión.- La Comisión Estatal de Competitividad;
+X. Comisión.- La Comisión Estatal de Competitividad;
 
 XI. Competitividad.- La calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad; y a nivel empresa, la capacidad para mantener y fortalecer su rentabilidad y participación de las MIPYMES en los mercados, con base en ventajas asociadas a sus productos o servicios, así como a las condiciones en que los ofrecen;
 
@@ -157,9 +157,21 @@ XXXV. Trabajo Decente.- Es aquél trabajo en el que se respeta plenamente la dig
 
 XXXVI. Trabajador de Primer Empleo.- Trabajador, mujer o hombre que no tenga registro previo de aseguramiento en el régimen obligatorio ante el Instituto Mexicano del Seguro Social, por no haber prestado de forma permanente o eventual un servicio remunerado, personal y subordinado a un patrón;
 
-XXXVII. Ventaja Competitiva.- Características que posee un producto o un servicio, que derivado de los procesos de innovación y mejoras, obtienen una mejor calidad en relación a los que presenta la competencia; y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-XXXVIII. Vocaciones Regionales.- Agrupamientos empresariales preponderantes o con potencial de desarrollo que tienen cada región del Estado.
+XXXVII. Ventaja Competitiva.- Características que posee un producto o un servicio que, derivado de los procesos de innovación y mejoras, obtienen una mejor calidad en relación a los que presenta la competencia;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+XXXVIII. Vocaciones Regionales.- Agrupamientos empresariales preponderantes o con potencial de desarrollo que tiene cada región del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+XXXIX. Distintivo.- El distintivo oficial "Hecho en Quintana Roo", y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+XL. Certificado de Conformidad.- El documento expedido por el Organismo de Certificación acreditado y autorizado, en términos de lo establecido en la Ley de Infraestructura de la Calidad, que realiza la certificación respecto al cumplimiento de las Normas Oficiales Mexicanas, Estándares, Normas Internacionales o de otras disposiciones legales.
 
 ### CAPÍTULO IV. DE LAS ACTIVIDADES ECONOMICAS PRIORITARIAS
 
@@ -797,13 +809,17 @@ XXIII.- Proponer, en coordinación con la Secretaría de Finanzas y Planeación 
 
 XXIV.- Promover la simplificación administrativa en el Estado, a través de las distintas dependencias y organismos estatales y municipales, con especial énfasis en lo relativo a los trámites que impactan la creación de las Micro, Pequeñas y Medianas Empresas;
 
-> <small>(REFORMADA, P.O 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-XXV.- Establecer mecanismos suficientes de simplificación administrativa para que los emprendedores consoliden la creación de las Micro, Pequeñas y Medianas Empresas, y
+XXV.- Establecer mecanismos suficientes de simplificación administrativa para que los emprendedores consoliden la creación de las Micro, Pequeñas y Medianas Empresas;
 
-> <small>(ADICIONADA, P.O 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-XXVI.- Promover el apoyo a productores quintanarroenses y fomentar el consumo preferente de sus productos en el mercado local, permitiéndoles el fortalecimiento de su actividad y su consolidación como medianas empresas.
+XXVI.- Promover el apoyo a productores quintanarroenses y fomentar el consumo preferente de sus productos en el mercado local, permitiéndoles el fortalecimiento de su actividad y su consolidación como medianas empresas, e
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+XXVII.- Implementar estrategias para fortalecer el mercado interno con acciones de impacto publicitario, con el objeto de posicionar los productos quintanarroenses en los mercados locales, regionales e internacionales, fomentando el consumo de los mismos.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
@@ -1441,13 +1457,109 @@ VI.- Estímulos fiscales para casos específicos; y
 
 VII.- Los demás que anualmente apruebe el Consejo.
 
-### CAPÍTULO I
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-DE LA COMISIÓN ESTATAL DE COMPETITIVIDAD.
+### CAPÍTULO V. DEL DISTINTIVO "HECHO EN QUINTANA ROO"
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 76 Octies.
+
+El distintivo oficial “Hecho en Quintana Roo” es la representación de la leyenda y figura que identifica los productos fabricados o producidos en nuestro Estado, frente a productos provenientes de otros lugares del país y del extranjero.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 76 Nonies.
+
+Para el uso del distintivo “Hecho en Quintana Roo”, las personas interesadas deberán acreditar que los productos son producidos y fabricados en el Estado bajo cualquiera de los siguientes supuestos:
+
+I.- Que el bien es obtenido en su totalidad o producido enteramente en Quintana Roo, y
+
+II.- Que el bien es producido exclusivamente a partir de materiales que califican como originarios del Estado de Quintana Roo o que el bien es elaborado con bienes no originarios, pero que resulta de un proceso de producción en el Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 76 Decies.
+
+La autorización del uso del distintivo “Hecho en Quintana Roo” como marca es otorgada por el Instituto Mexicano de la Propiedad Industrial y se gestiona ante la Secretaría, la cual realizará las acciones necesarias para la obtención del mismo.
+
+La autorización a que se refiere este numeral, puede ser solicitada por las personas físicas que tributen bajo cualquier régimen fiscal que sea distinto a sueldos y salarios e ingresos asimilados a salarios y las personas morales que tributen bajo cualquier régimen fiscal, siempre y cuando produzcan, elaboren, y/o fabriquen productos en territorio quintanarroense.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 76 Undecies.- El Gobierno del Estado, a través de la Secretaría, otorgará el permiso de uso del distintivo de forma gratuita, no obstante, en cumplimiento a lo dispuesto en la Ley Federal de Protección a la Propiedad Industrial, el solicitante deberá cubrir el pago de la tarifa de inscripción correspondiente, sin menoscabo de las variaciones al monto que los ordenamientos federales impongan.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 76 Duodecies.- Para obtener la autorización del uso del distintivo, las personas físicas y morales a que se refiere el párrafo segundo del artículo 76 decies deberán presentar ante la Secretaría las solicitudes de productos y servicios, así como el expediente adjunto debidamente integrado con la documentación requerida en los artículos subsecuentes, respectivamente.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 76 Terdecies.- Las personas físicas que tributen bajo cualquier régimen fiscal que sea distinto a sueldos y salarios e ingresos asimilados a salarios, para obtener la autorización del uso del distintivo, deberán presentar, la siguiente documentación:
+
+I.- Identificación oficial;
+
+II.- Comprobante de domicilio;
+
+III.- Constancia de Situación Fiscal;
+
+IV.- Título de Registro de Marca emitido por el Instituto Mexicano de la Propiedad Industrial, y
+
+V.- Cubrir la cuota establecida por el Instituto Mexicano de la Propiedad Industrial.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 76 Quaterdecies.- Las personas morales que tributen bajo cualquier régimen fiscal, para obtener la autorización del uso del distintivo, deberán presentar, la siguiente documentación:
+
+I.- Acta Constitutiva de la Empresa;
+
+II.- Constancia de Situación Fiscal;
+
+III.- Identificación oficial del representante legal;
+
+IV.- Título de Registro de marca emitido por el Instituto Mexicano de la Propiedad Industrial;
+
+V.- Comprobante de domicilio, y
+
+VI.- Instrumento jurídico que acredite las facultades del representante legal.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 76 Quindecies. Las especificaciones referentes a la estructura, colores y tipografía que deberán respetarse en el uso del distintivo, son las contenidas en el Manual de Identidad Gráfica de la Marca "Hecho en Quintana Roo" elaborado por la Secretaría y publicado en el Periódico Oficial del Estado de Quintana Roo, mismo que estará a disposición de las personas interesadas y del público en general a través del sitio electrónico oficial de Internet de dicha dependencia.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 76 Sexdecies. El uso y las aplicaciones del distintivo deberán ajustarse a los lineamientos que para tal efecto establezca la Secretaría.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 76 Septendecies. La vigencia de uso del distintivo será de tres años contados a partir de la fecha de autorización de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 76 Octodecies. La Secretaría, otorgará la autorización de uso del distintivo, en un plazo de cinco días hábiles contados a partir del día siguiente en que se haya presentado la solicitud y los documentos anexos, siempre que se hayan presentado sin omisiones o errores.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 76 Novodecies. La Secretaría publicará en su sitio electrónico oficial de internet el Catálogo Digital de Productos "Hecho en Quintana Roo".
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 76 Vicies. Se revocará la autorización de uso del distintivo antes del término de su vigencia, en cualquiera de los siguientes casos:
+
+I.- Cuando el producto esté sujeto al cumplimiento de una Norma Oficial Mexicana o Norma Mexicana y no cuente con los certificados, dictámenes o informes que sustenten dicho cumplimento;
+
+II.- Cuando se cancele, caduque, suspenda, falsifique o se altere el Certificado de Conformidad con base en el cual se haya otorgado la licencia para usar el distintivo;
+
+III.- Cuando se ha colocado el distintivo incumpliendo el Manual de Identidad Gráfica, y
+
+IV.- Cuando no se utilice el distintivo para los productos respecto de los cuales se haya otorgado la autorización.
 
 ## TÍTULO V. DE LA COORDINACIÓN Y CONCERTACIÓN SECTORIAL
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO I
+
+DE LA COMISIÓN ESTATAL DE COMPETITIVIDAD.
 
 ###### Artículo 77.
 
@@ -1565,7 +1677,7 @@ XVIII.- Las demás que se deriven de esta ley.
 
 ## TÍTULO VI. DEL INCUMPLIMIENTO
 
-### CAPÍTULO II. DE RECURSO DE REVISIÓN
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 82.
 
@@ -1621,7 +1733,7 @@ III.- Transcurrido dicho plazo, la autoridad que otorgó el estímulo resolverá
 
 El beneficiario a quien se le hayan cancelado los estímulos otorgados de un programa económico, no se le otorgarán los beneficios de nuevos programas económicos hasta que se subsane el daño ocasionado por el otorgamiento de estímulos anteriores.
 
-### CAPÍTULO III. DE LA TRANSPARENCIA EN LA APLICACIÓN DE LOS PROGRAMAS ECONÓMICOS
+### CAPÍTULO II. DE RECURSO DE REVISIÓN
 
 ###### Artículo 87.
 
@@ -1654,6 +1766,8 @@ El término para la interposición del recurso será de 15 días hábiles, conta
 La Secretaría resolverá el recurso en un término no mayor a 20 días hábiles contados a partir del día siguiente de aquel en que hubiese sido presentado.
 
 La resolución se hará del conocimiento del recurrente mediante notificación personal en el domicilio señalado para tal efecto.
+
+### CAPÍTULO III. DE LA TRANSPARENCIA EN LA APLICACIÓN DE LOS PROGRAMAS ECONÓMICOS
 
 ###### Artículo 92.
 
@@ -1916,3 +2030,15 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 273 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Ejecutivo del Estado, por conducto de la Secretaría, contará con un plazo de 60 días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones al Reglamento de esta Ley.
+
+TERCERO. La Secretaría contará con un plazo de 30 días hábiles posteriores a la entrada en vigencia de las reformas reglamentarias a que se refiere el Transitorio Segundo para emitir el Manual de Identidad Gráfica de la Marca "Hecho en Quintana Roo" y los lineamientos de uso y aplicación del distintivo.
+
+CUARTO. Se derogan las disposiciones legales que contravengan lo establecido en el presente Decreto.
