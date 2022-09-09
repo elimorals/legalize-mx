@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2022-04-20"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -430,6 +430,14 @@ a) Fortalecer la responsabilidad social, la autogestión y el auto cuidado de la
 b) Identificar a las comunidades terapéuticas, para la rehabilitación de farmacodependientes, en la que sin necesidad de internamiento, se pueda hacer posible la reinserción social, a través del apoyo mutuo, y
 
 c) Reconocer la importancia de los diversos grupos, asociaciones civiles, organismos no gubernamentales, que ofrecen servicios gratuitos en apoyo a los farmacodependientes en recuperación, con base en experiencias vivenciales compartidas entre los miembros del grupo, para lograr la abstinencia en el uso de narcóticos.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Implementar por conducto de la Secretaría de Educación y en coordinación con el Instituto Estatal para la Prevención y el Tratamiento de las Adicciones, pláticas, cursos y talleres en materia de prevención de adicciones y la promoción de una vida saludable, en las escuelas públicas y privadas de nivel primaria, secundaria y medio superior.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+V. Desarrollar programas dirigidos a niñas, niños y adolescentes para la aplicación gratuita, voluntaria, informada y autorizada de diagnósticos de detección temprana de adicciones y su canalización a instituciones públicas especializadas en el tratamiento y la rehabilitación.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -3998,3 +4006,11 @@ Se otorga un plazo de noventa días a partir de la publicación del presente Dec
 La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados, en el ejercicio fiscal de que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
 
 La implementación de las acciones a las que se refiere el presente Decreto, deberán ser materializadas en su totalidad, a más tardar, en el ejercicio fiscal correspondiente al año 2023.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 271, POR EL QUE SE ADICIONAN LAS FRACCIONES IV Y V AL ARTÍCULO 13 BIS, DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
