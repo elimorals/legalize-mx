@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-34373
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-30"
-last_updated: "2021-11-22"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34373&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-10-29"
 
 LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de octubre de 2003.
 
@@ -42,6 +42,12 @@ LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 ###### ARTÍCULO 1.
 
 La presente Ley regula los ascensos y las recompensas de los militares pertenecientes al Ejército y Fuerza Aérea Mexicanos y su aplicación corresponderá al Presidente de los Estados Unidos Mexicanos y a la Secretaría de la Defensa Nacional.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O.F. 9 DE SEPTIEMBRE DE 2022)</small>
+
+ASIMISMO, ES APLICABLE AL PERSONAL DE LAS CITADAS FUERZAS ARMADAS QUE SE ENCUENTRE ASIGNADO EN LA GUARDIA NACIONAL, HOMOLOGÁNDOSELE EL TIEMPO DE SERVICIOS EN ESTA SITUACIÓN COMO TIEMPO EN UNIDADES DEL EJÉRCITO Y UNIDADES DE VUELO DE LA FUERZA AÉREA.
 
 ###### ARTÍCULO 2.
 
@@ -978,3 +984,49 @@ D.O.F. 22 DE NOVIEMBRE DE 2021.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+D.O.F. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; DE LA LEY DE LA GUARDIA NACIONAL; DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, Y DE LA LEY DE ASCENSOS Y RECOMPENSAS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, EN MATERIA DE GUARDIA NACIONAL Y SEGURIDAD PÚBLICA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El personal naval que fue asignado a la Guardia Nacional en cumplimiento del Acuerdo por el que se establecen los elementos de la Policía Federal, Policía Militar y de la Policía Naval que integrarán la Guardia Nacional, publicado en el Diario Oficial de la Federación el 28 de junio de 2019, que solicite formar parte de dicha institución de seguridad pública o que, transcurridos sesenta días naturales de la entrada en vigor del presente Decreto, no solicite su reasignación a la Fuerza Armada de origen se le cancelará el documento que legalmente acredite el grado jerárquico con que cuente y se le expedirá uno nuevo con el grado equivalente que corresponda dentro de la Policía Militar, cesando de prestar servicios en la Armada para pasar a prestarlos en el Ejército y Fuerza Aérea Mexicanos.
+
+Al personal naval reclutado para conformar la Guardia Nacional se le cancelará el documento que legalmente acredite el grado jerárquico con que cuente y se le expedirá uno nuevo con el grado equivalente que corresponda dentro de la Policía Militar en el Ejército y Fuerza Aérea Mexicanos. La Secretaría de Marina transferirá las plazas correspondientes, en términos de las disposiciones aplicables.
+
+En todo caso, al personal a que se refiere esta disposición le serán respetados su antigüedad, derechos y beneficios adquiridos.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Tercero.- EN TANTO NO EXISTA PERSONAL CON FORMACIÓN DE GUARDIA NACIONAL CON GRADO DE COMISARIO GENERAL EN ACTIVO, LA PERSONA TITULAR DE LA COMANDANCIA DE LA GUARDIA NACIONAL SERÁ DESIGNADA POR LA PERSONA TITULAR DE LA PRESIDENCIA DE LA REPÚBLICA A PROPUESTA DE LA PERSONA TITULAR DE LA SECRETARÍA DE LA DEFENSA NACIONAL.
+
+Cuarto.- El personal militar que actualmente integra la Guardia Nacional continuará en esa situación bajo el mando de la persona Comandante de dicha institución de seguridad pública.
+
+Quinto.- La Secretaría de Marina transferirá a la Secretaría de la Defensa Nacional los recursos financieros y presupuestarios que correspondan en el presente ejercicio fiscal para cubrir las erogaciones por concepto de servicios personales respecto del personal naval que se transfiera a la Guardia Nacional, conforme a lo señalado en los párrafos primero y segundo del transitorio segundo del presente Decreto.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SEXTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Sexto.- LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA:
+
+I. COORDINARÁ CON LA SECRETARÍA DE LA DEFENSA NACIONAL LA HOMOLOGACIÓN DEL ADIESTRAMIENTO ESPECIALIZADO, CONSIDERANDO LA ESTRATEGIA NACIONAL DE SEGURIDAD PÚBLICA;
+
+II. TRANSFERIRÁ A LA SECRETARÍA DE LA DEFENSA NACIONAL, DENTRO DE UN PLAZO DE SESENTA DÍAS NATURALES, LOS RECURSOS PRESUPUESTARIOS Y FINANCIEROS QUE CORRESPONDAN PARA CUBRIR LAS EROGACIONES POR CONCEPTO DE SERVICIOS PERSONALES Y GASTOS DE OPERACIÓN DE LA GUARDIA NACIONAL, ASÍ COMO LOS RECURSOS MATERIALES DESTINADOS A SU OPERACIÓN, CON EXCEPCIÓN DE AQUÉLLOS REQUERIDOS PARA EL PERSONAL QUE SEGUIRÁ BAJO LA ADSCRIPCIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA. ASIMISMO, DESTINARÁ DICHOS RECURSOS A LA SECRETARÍA DE LA DEFENSA NACIONAL CONFORME VAYAN QUEDANDO VACANTES LAS PLAZAS;
+
+III. DISPONDRÁ QUE EL PERSONAL PROCEDENTE DE LA EXTINTA POLICÍA FEDERAL CESE DE PRESTAR SUS SERVICIOS EN LA GUARDIA NACIONAL, POR LO QUE SEGUIRÁ BAJO SU ADSCRIPCIÓN, CONSERVANDO SUS DERECHOS LABORALES ADQUIRIDOS. EL PERSONAL QUE PERTENEZCA A LOS ORGANISMOS ESPECIALIZADOS DE LA GUARDIA NACIONAL CONTINUARÁ PRESTANDO SUS SERVICIOS EN DICHA INSTITUCIÓN DE SEGURIDAD PÚBLICA DE MANERA TEMPORAL, CONFORME A LOS CONVENIOS DE COLABORACIÓN QUE PARA TAL EFECTO SE FORMALICEN ENTRE LAS SECRETARÍAS DE DEFENSA NACIONAL Y DEL RAMO DE SEGURIDAD PÚBLICA, Y
+
+IV. RELEVARÁ GRADUALMENTE AL PERSONAL QUE INTEGRA LA COORDINACIÓN DE ADMINISTRACIÓN Y FINANZAS DE LA GUARDIA NACIONAL, POR AQUÉL QUE PROPONGA LA PERSONA COMANDANTE DE ESA INSTITUCIÓN. EL PERSONAL RELEVADO MANTENDRÁ SU ADSCRIPCIÓN A LA PROPIA DEPENDENCIA.
+
+(NOTA: EL 20 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2022, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO SÉPTIMO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 1 DE ENERO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+Séptimo.- LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO EN USO DE SUS ATRIBUCIONES:
+
+I. OBSERVARÁ LO SEÑALADO EN EL TERCERO TRANSITORIO DEL PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL 2022, PARA DAR CUMPLIMIENTO A LO PREVISTO EN EL PRESENTE DECRETO;
+
+II. REALIZARÁ LAS ACCIONES QUE CORRESPONDAN PARA QUE LA SECRETARÍA DE LA DEFENSA NACIONAL CUENTE CON LOS RECURSOS PRESUPUESTARIOS PARA CUBRIR LAS VACANTES A QUE SE REFIERE LA FRACCIÓN II DEL ARTÍCULO SEXTO TRANSITORIO DEL PRESENTE DECRETO.
+
+CONFORME EL PERSONAL NAVAL SEA REASIGNADO A LA SECRETARÍA DE MARINA EN TÉRMINOS DEL SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, LA SECRETARÍA DE LA DEFENSA NACIONAL SOLICITARÁ A LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO QUE REALICE LAS ACCIONES NECESARIAS, EN TÉRMINOS DE LAS DISPOSICIONES JURÍDICAS APLICABLES, PARA CONTAR CON LOS RECURSOS PRESUPUESTARIOS Y LAS PLAZAS CORRESPONDIENTES PARA DAR CUMPLIMIENTO CON LO ESTABLECIDO EN EL PRESENTE DECRETO.
+
+Octavo.- Las Secretarías de Seguridad y Protección Ciudadana, de la Defensa Nacional y de Marina son responsables de la instrumentación del presente Decreto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados de la Secretaría de la Defensa Nacional, de la Secretaría de Marina y de la Secretaría de Seguridad y Protección Ciudadana para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos, lo anterior, con independencia de lo señalado en los transitorios quinto y sexto, fracción II, del presente Decreto.
+
+Noveno.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a su contenido, comprendidas en leyes secundarias, reglamentos, acuerdos y cualquier otra de carácter administrativo.
