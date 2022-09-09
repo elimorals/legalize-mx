@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2022-05-10"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -60,6 +60,10 @@ III. Establecer los lineamientos generales para el funcionamiento del Procedimie
 Para los efectos de esta Ley se entiende por:
 
 I. La Comisión: la Comisión Estatal de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+I. Bis. Persona o grupos de personas en situación de vulnerabilidad: una persona o grupo de personas se encuentran en condición de vulnerabilidad, cuando su capacidad para prevenir, resistir o sobreponerse a un impacto que les sitúe en situación de riesgo, no está desarrollada o se encuentra limitada por circunstancias diversas, para ejercitar con plenitud ante el sistema de justicia los derechos reconocidos por el ordenamiento jurídico. En este contexto se consideran en condición de vulnerabilidad aquellas personas quienes, por razón de su edad, género, orientación sexual e identidad de género, estado físico o mental, o por circunstancias sociales, económicas, étnicas y/o culturales, o relacionadas con sus creencias y/o prácticas religiosas, o la ausencia de estas encuentran especiales dificultades para ejercitar con plenitud ante el sistema de justicia los derechos reconocidos por el ordenamiento jurídico. Podrán constituir causas de vulnerabilidad, entre otras, las siguientes: la edad, la discapacidad, la pertenencia a comunidades indígenas, a otras diversidades étnicas – culturales, entre ellas las personas afrodescendientes, así como la victimización, la migración, la condición de refugio y el desplazamiento interno, la pobreza, el género, la orientación sexual e identidad de género y la privación de libertad. La concreta determinación de las personas en condición de vulnerabilidad en cada país dependerá de sus características específicas, o incluso de su nivel de desarrollo social y económico;
 
 II. Persona víctima: es aquélla que directamente fue afectada en la violación de sus Derechos Humanos;
 
@@ -195,9 +199,11 @@ En aplicación del principio de Equidad y No Discriminación, la Comisión inter
 
 En todas sus acciones, la Comisión tomará medidas para que a las personas afectadas por circunstancias de desventaja, discriminación o vulnerabilidad, les sean reconocidas las condiciones mínimas de dignidad que les sitúen en condiciones de equidad respecto del resto de la población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 16.
 
-En aplicación del principio de Equidad y No Discriminación, la Comisión prestará especial atención a la situación de los siguientes grupos de la sociedad, que han sufrido y sufren especiales vejaciones por su circunstancia:
+Para garantizar el principio de Equidad y No Discriminación, la Comisión prestará especial atención, bajo un enfoque diferenciado, a la situación de la persona o grupos de personas en situación de vulnerabilidad, que han sufrido y sufren especiales vejaciones por su circunstancia:
 
 I. Indígenas originarios del Estado o inmigrantes al mismo;
 
@@ -1966,3 +1972,11 @@ P.O. 10 DE MAYO DE 2022.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0372.- SE REFORMA EL ARTÍCULO 16 EN SU PÁRRAFO PRIMERO Y ADICIONA AL ARTÍCULO 2º LA FRACCIÓN I BIS, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
