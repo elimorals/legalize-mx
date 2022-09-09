@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2013-11-26"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -33,7 +33,9 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 47 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -286,6 +288,38 @@ III. Violencia sexual. es cualquier acto que degrada o daña el cuerpo y/o la se
 IV. Violencia patrimonial: es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; y
 
 V. Violencia económica: es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Violencia Obstétrica: Se refiere a toda acción u omisión de profesionales y personal de la salud en el ámbito público y privado, que cause daño o perjuicio físico, sexual, psicológico y de cualquier índole a las mujeres durante el embarazo, parto o puerperio, que se exprese en:
+
+a) La falta u obstaculización de acceso a servicios de salud sexual o reproductiva;
+
+b) Un trato discriminatorio y (sic) menoscabo a las mujeres;
+
+c) Medicación sin contemplar el contexto particular de cada una de las mujeres;
+
+d) La práctica innecesaria, no autorizada o consentida sin información suficiente de intervenciones o procedimientos quirúrgicos;
+
+e) La falta de acceso, manipulación o negación de información;
+
+f) Las prácticas que violenten la intimidad de las mujeres a través de tocamientos o exhibiciones innecesarias a sus cuerpos;
+
+g) La ausencia o falta de aplicación de protocolos de actuación, políticas públicas, reglamentos y acciones en espacios públicos dirigidas al cuidado de las mujeres en estas etapas;
+
+h) La ausencia o falta de aplicación de protocolos de actuación, políticas públicas, reglamentos y acciones en espacios públicos dirigidos al cuidado de las mujeres cuyos productos nacen muertos;
+
+i) La ausencia o falta de aplicación (sic) protocolos de actuación, políticas públicas, reglamentos y acciones en espacios públicos dirigidas al trato digno de las familias, acompañantes y amistades de las mujeres durante estas etapas;
+
+j) Cualquier otra forma de violencia obstétrica física como el suministro injustificado de medicación de la mujer o el no respetar los tiempos y las posibilidades del parto biológico.
+
+k) Cualquier otra forma de violencia obstétrica psicológica, incluido el trato grosero o discriminatorio cuando la mujer pide asesoramiento o requiere atención.
+
+l) En general, en cualquier situación que implique la pérdida o disminución de su autonomía y la capacidad de decidir, de manera libre e informada, a lo largo de dichas etapas.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ### CAPÍTULO II. DE LA VIOLENCIA FAMILIAR
 
@@ -1119,7 +1153,9 @@ X. Garantizar a las mujeres el derecho a la interrupción del embarazo en caso d
 
 XI. Facilitar a la víctima, la elección del sexo del médico y/o terapeuta que le presten atención;
 
-XII. Capacitar al personal del sector salud, con la finalidad de que detecten la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Capacitar al personal del sector salud con perspectiva de género, con la finalidad de que detecten todas las formas de violencia;
 
 XIII. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
 
@@ -1133,9 +1169,17 @@ d) Los efectos causados por la violencia en las mujeres, y
 
 e) Los recursos erogados en la atención de las víctimas.
 
-XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-XIV. Las demás previstas para el cumplimiento de la presente ley.
+XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+XV. Diseñar una política de prevención, atención y erradicación de la violencia obstétrica, garantizando en todo momento la aplicación de la NOM-007-SSA2-2016, Atención de la mujer durante el embarazo, parto y puerperio y del recién nacido.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+XVI. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### SECCIÓN OCTAVA. DE LA SECRETARÍA DE FOMENTO TURÍSTICO
 
@@ -1568,3 +1612,13 @@ SEGUNDO. Se abrogan todas las disposiciones que se opongan al presente Decreto, 
 TERCERO. Remítase al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales correspondientes.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 215, POR EL QUE SE REFORMAN LAS FRACCIONES XII Y XIV DEL ARTÍCULO 50 Y SE ADICIONAN LA FRACCIONES VI Y VII AL ARTÍCULO 9 Y LAS FRACCIONES XV Y XVI AL ARTÍCULO 50 DE LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
