@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2022-05-13"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -313,11 +313,17 @@ III. Toda persona que se considere afectada podrá interponer los recursos respe
 
 Con la participación democrática de la sociedad, compete al Gobierno del Estado la formulación de los planes y programas de desarrollo del Estado para la consecución de una existencia digna y justa de sus habitantes.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 15.
 
-Todos los habitantes del Estado tienen derecho a gozar de un ambiente sano, por lo que, en la esfera de su competencia y concurrentemente con los Ayuntamientos, el Gobierno del Estado llevará a cabo programas para conservar, proteger y mejorar los recursos naturales de la entidad, así como para prevenir y combatir la contaminación ambiental. Las leyes que al efecto se expidan serán de orden público e interés social y fomentarán la cultura de protección a la naturaleza, el mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y la protección y propagación de la flora y la fauna existentes en el territorio del Estado.
+Todas las personas que habitan el Estado tienen derecho a vivir y crecer en un ambiente sano, ecológicamente equilibrado y sustentable para su bienestar y desarrollo humano.
+
+En la esfera de su competencia y, concurrentemente, los ayuntamientos, y el Gobierno del Estado, en coordinación con la Federación, en su caso, llevarán a cabo planes y programas para conservar, proteger, aprovechar racionalmente y mejorar los recursos naturales de la Entidad, así como para prevenir y combatir la contaminación ambiental. Realizarán acciones de prevención, adaptación y mitigación frente a los efectos del cambio climático.
+
+Las personas que habitan el Estado, igualmente participarán en la preservación, restauración y equilibrio ecológico, y en materia de prevención, adaptación y mitigación frente al cambio climático.
+
+El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1395,9 +1401,9 @@ IV.- Concurrir a la apertura y clausura de los períodos ordinarios y extraordin
 
 V.- Presentar ante el Congreso del Estado, durante la segunda quincena de septiembre de cada año; excepto el último año del ejercicio legal, durante la primera quincena del mes de agosto del año que se trate, un informe por escrito en el que manifieste el estado que guarda la administración pública y, comparecer posteriormente, cuando así lo acuerde con el Poder Legislativo, a fin de responder a las observaciones que los diputados le presenten sobre el particular;
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-VI.- Rendir ante el Congreso del Estado, en forma trimestral y por escrito, a más tardar el día quince del mes siguiente al periodo de que se trate, un estado de información financiera que refleje la situación que guarda la hacienda pública del Estado y, en forma anual, su cuenta pública, la que presentará a más tardar el último día de febrero del año siguiente al que corresponda su ejercicio. Asimismo, deberá rendir en forma trimestral y por escrito, informe y documentación de respaldo sobre el avance programático y presupuestal por cada una de las secretarías y dependencias de la administración pública estatal, a más tardar dentro de los diez días hábiles siguientes al periodo que concluya;
+VI.- Rendir ante el Congreso del Estado, en forma trimestral y por escrito, a más tardar el día quince del mes siguiente al periodo de que se trate, un estado de información financiera que refleje la situación que guarda la hacienda pública del Estado y, en forma anual, su cuenta pública, la que presentará a más tardar el día quince del mes de marzo del año siguiente al que corresponda su ejercicio. Asimismo, deberá rendir en forma trimestral y por escrito, informe y documentación de respaldo sobre el avance programático y presupuestal por cada una de las secretarias y dependencias de la administración pública estatal, a más tardar dentro de los diez días hábiles siguientes al período que concluya;
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -3498,5 +3504,21 @@ P.O. 13 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0314.- SE REFORMA Y ADICIONA EL ARTÍCULO 88, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 31 Y 41 QUÁTER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 2°, 5°, 10, 13, 14, 15, 16, 21, 22, 27, 35, 44, 47, 48, 51, 77, 117, 156 Y 170, SE ADICIONAN LOS ARTÍCULOS 2° TER, 2° QUÁTER Y 2° QUINQUE Y SE ADICIONA A LOS ARTÍCULOS 5°, 10, 13, 14, 27 Y 47, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ Y; SE REFORMAN LOS ARTÍCULOS 2°, 6°, 8° Y 43, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0373.- SE REFORMA EL ARTÍCULO 15, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0379.- SE REFORMA EL ARTÍCULO 80 EN SU FRACCIÓN VI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
