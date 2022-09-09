@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2021-09-13"
+last_updated: "2022-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -787,9 +787,11 @@ Para garantizar este derecho, se establece como edad legal para contraer matrimo
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones para favorecer su bienestar y el libre desarrollo de su personalidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 43.
 
-Las autoridades están obligadas a tomar las medidas necesarias, de conformidad a las legislaciones, Familiar; Civil; Penal; y Administrativa en la materia, para prevenir, atender, sancionar, erradicar y reparar los casos en que se vean afectados niñas, niños o adolescentes por lo siguiente:
+Las autoridades de forma coordinada y en el ámbito de sus respectivas competencias están obligadas a tomar las medidas necesarias, de conformidad a las legislaciones, Familiar; Civil; Penal; y Administrativa en la materia, para prevenir, atender, sancionar, erradicar y reparar los casos en que se vean afectados niñas, niños o adolescentes por lo siguiente:
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -801,11 +803,15 @@ III. La corrupción y trata;
 
 IV. El abuso y la explotación sexual infantil o cualquier otro tipo de explotación;
 
-V. El tráfico;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+V. El tráfico de niños, niñas y adolescentes;
 
 VI. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Federal y demás disposiciones aplicables;
 
-VII. El trabajo de adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico y mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VII. El trabajo de adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico y mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, y la esclavitud, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones aplicables, y
 
 VIII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
 
@@ -1035,15 +1041,17 @@ VI. Adaptar el sistema educativo a las condiciones, intereses y contextos espec�
 
 VII. Impulsar acciones afirmativas para garantizar su derecho a la educación en grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria; o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
 
-VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Prestar servicios educativos en condiciones óptimas, entendida ésta como el conjunto de instalaciones y condiciones indispensables con que debe contarse (sic) cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje y pleno desarrollo de los educandos;
 
 IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a su educación;
 
 X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
-XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso físico, psicológico o sexual, o cualquier otra forma de violencia en contra de ellos que se susciten en los centros educativos;
+XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia hacia niñas, niños y adolescentes en los centros educativos del Estado;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2020)</small>
 
@@ -1105,7 +1113,9 @@ Para efectos del párrafo anterior, las autoridades estatales y municipales, en 
 
 I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
 
-II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
+II. Desarrollar e implementar cursos de sensibilización y formación sobre igualdad de género; así como, prevenir y atender los diferentes tipos de violencia y cultura de la paz, dirigidos a servidores públicos, personal administrativo, y docente para que, a través de ellos, evitar la reproducción de roles estereotipados de género, y se impulse la igualdad sustantiva;
 
 III. Crear mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar, y
 
@@ -2646,3 +2656,21 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0374.- SE REFORMA EL ARTÍCULO 43 EN SU PÁRRAFO PRIMERO Y EN SUS FRACCIONES V Y VII, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0386.- SE REFORMAN LOS ARTÍCULOS 53 EN SUS FRACCIONES VIII Y XI Y 55 EN SU FRACCIÓN II, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Para atender lo ahora dispuesto en la fracción VIII del artículo 53 que se reforma mediante este Decreto, el Estado y los municipios, en el ámbito de sus respectivas competencias, darán cumplimiento a dicho precepto de manera progresiva, continua y sistemática, en la medida de las posibilidades presupuestales que se asignen al rubro de infraestructura física educativa; debiendo considerar el aumento que se requiere para cumplir la obligación que deriva del mismo, desde su planeación, presupuestación y forma de asignación. El Congreso del Estado, al aprobar el Presupuesto de Egresos del Estado, deberá verificar que se cumpla con lo antes señalado en los próximos ejercicios fiscales, hasta que se alcance el objetivo y finalidad que ahora se establece.
