@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-ixtlahuacan-colima-26793"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-11-02"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2049,6 +2049,14 @@ m) Capitulaciones matrimoniales e inspección de bienes y deudas 5.00
 
 n) Los demás actos, cada uno 8.53
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+ñ) Certificaciones de nacimiento, matrimonio, defunción y demás, en papel bond 1.00
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+o) Certificaciones de nacimiento, matrimonio, defunción y demás, en papel seguridad 1.25
+
 II. A domicilio:
 
 a) Registro de nacimiento
@@ -2059,11 +2067,15 @@ a) Registro de nacimiento
 
 b) Registro de matrimonios
 
-1.- En días y horas inhábiles 10.00
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+1.- En días y horas inhábiles 13.00
 
 2.- En días y horas hábiles 5.00
 
-c) Registro de los demás actos hasta 10.00
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+c) Registro de los demás actos hasta 13.00
 
 III. Divorcios:
 
@@ -3194,3 +3206,11 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 154 POR EL QUE SE REFORMA EL ARTÍCULO 81, INCISO D), NUMERAL 28; SE ADICIONA EL INCISO C) A LA FRACCIÓN I, Y SE DEROGAN LOS INCISOS A) Y B), DE LA FRACCIÓN I, DEL ARTICULO 111, DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 147.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
