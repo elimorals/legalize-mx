@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2022-07-16"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2127,11 +2127,17 @@ Se entiende por cópula equiparada, la introducción total o parcial de cualquie
 
 ### CAPITULO VIII. Maltrato Infantil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+###### Art. 142-N.
+
+Se impondrá una pena de 6 meses a 5 cinco años de prisión a quien, ejerciendo la patria potestad, tutela, custodia, cuidado o vigilancia, infiera maltrato físico o psicológico a una persona menor de edad, causándole a ésta una alteración a su salud, a su integridad física o psicológica.
+
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
-Art. 142 N. Se impondrá una pena de 6 meses a 5 cinco años de prisión a quien ejerciendo la patria potestad, tutela, custodia o cuidado y vigilancia, agreda a una persona menor de edad, utilizando la fuerza física, ya sea con o sin objeto contundente o arma, causándole a éste una alteración a su salud, a su integridad física o psicológica.
-
 Al responsable de este delito se le impondrán, a juicio del Juez, las penas conjuntas o separadas de la pérdida de la custodia que tenga respecto a la víctima, la prohibición de ir a lugar determinado o residir en él y tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 Los agravantes comunes a los delitos contra el desarrollo de la personalidad a que se refiere el artículo 142-Ñ, no son aplicables a este tipo penal.
 
@@ -3525,7 +3531,7 @@ Este delito se perseguirá por querella de la ofendida o de su legítimo represe
 
 ### CAPITULO I. De la Violencia Familiar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Art. 176
 
@@ -3565,21 +3571,15 @@ Se estará a lo previsto en el Código Penal Federal cuando los hechos se adecue
 
 ###### Art. 176
 
-Ter. Comete el delito de violencia familiar quien infiera maltrato en contra de uno o varios miembros de su familia, tales como cónyuge, pariente consanguíneo hasta cuarto grado, pariente afín hasta cuarto grado, concubina o concubinario.
+Ter. Comete el delito de violencia familiar quien infiera maltrato en contra de una o varias personas con las que se encuentre unida por vínculo matrimonial, parentesco por consanguinidad o afinidad hasta cuarto grado o concubinato dentro o fuera del domicilio familiar.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+Asimismo, comete el delito de violencia familiar quien infiera maltrato en contra de una persona, dentro o fuera del domicilio de la víctima, con la que se haya tenido una relación de matrimonio o de concubinato.
 
-Para efectos del párrafo anterior, se entiende por maltrato los actos u omisiones que causen un deterioro a la integridad física o psicológica, o que afecte la libertad sexual de alguna de las víctimas, independientemente de que se cometa o no otro delito.
+Para efectos del párrafo anterior, se entiende por maltrato los actos u omisiones que causen violencia patrimonial, económica o psicológica, o un deterioro a la integridad física, o que afecte la libertad sexual de alguna de las víctimas, independientemente de que se cometa o no otro delito.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+Al responsable de este delito se le impondrán de seis meses a cuatro años de prisión, sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este Código aplicándose para ello las reglas de concurso de delitos. Además, se impondrán, a juicio del Juez, las penas conjuntas o separadas de la pérdida de la custodia que tenga respecto de la víctima, la pérdida del derecho de pensión alimenticia, la prohibición de ir a lugar determinado o residir en él, tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas.
 
-Al responsable de este delito se le impondrán de seis meses a cuatro años de prisión, sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este código aplicándose para ello las reglas de concurso de delitos. Además, se impondrán, a juicio del Juez, las penas conjuntas o separadas de la perdida de la custodia que tenga respecto de la víctima, la prohibición de ir a lugar determinado o residir en el y tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
-
-Se equipará a violencia familiar el maltrato que se infiera en contra del tutor, curador, pupilo, amasia o amasio, los hijos de éste o aquélla de quien habite en el domicilio de la persona agresora o hubiera habitado en el mismo, o de la persona a quien la persona agresora le deba dar cuidado o protección; la misma pena se le impondrá la persona agresora, si la víctima abandonó el domicilio al momento de la realización del hecho y que por dicha situación haya tenido que retirarse del mismo. Al responsable de este delito se le impondrá la pena señalada en el párrafo tercero de este artículo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2014)</small>
+Se equipara a violencia familiar el maltrato que se infiera en contra del tutor, curador, pupilo, amasia o amasio, los hijos de éste o aquélla, de quien habite en el domicilio de la persona agresora o hubiera habitado en el mismo, o de la persona a quien la persona agresora le deba dar cuidado o protección; la misma pena se le impondrá a la persona agresora, si la víctima abandonó el domicilio al momento de la realización del hecho y que por dicha situación haya tenido que retirarse del mismo. Al responsable de este delito se le impondrá la pena señalada en el párrafo tercero de este artículo.
 
 El maltrato que se infiera en contra de un hijo, adoptado, menor de edad, o a quien le deba dar cuidado y protección será considerado maltrato infantil el cual se encuentra previsto en el artículo 142-N del presente Código.
 
@@ -4061,11 +4061,13 @@ Los contendientes de una riña preconcertada serán sancionados por las lesiones
 
 Si las lesiones fueren calificadas en los términos del Art. 219, se aumentará una tercera parte del mínimo y dos terceras partes del máximo de la sanción que le corresponderían si la lesión fuere simple.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Art. 211.
 
-Si el ofendido fuese cónyuge, pariente consanguíneo hasta cuarto grado, pariente afín hasta cuarto grado, concubina o concubinario, adoptante o adoptado, tutor, curador, pupilo o quien habite en el domicilio del agresor o persona a quien el agresor le deba dar cuidado o protección, se aplicarán además las penas establecidas en el artículo 176 ter, aplicando las reglas del concurso de delitos.
+Si el ofendido fuese cónyuge, pariente consanguíneo hasta cuarto grado, pariente afín hasta cuarto grado, concubina o concubinario, adoptante o adoptado, tutor, curador, pupilo o quien habite en el domicilio del agresor o persona a quien el agresor le deba dar cuidado o protección, se aplicarán además las penas establecidas en el artículo 142-N ó 176-Ter, según se acredite aplicando las reglas del concurso de delitos.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 En cualquier otro caso, se impondrá la sanción que corresponda con arreglo a las prevenciones anteriores y quedará, además, privado de la potestad, en virtud de la cual tenga derecho de corrección.
 
@@ -4757,39 +4759,23 @@ Si el daño previsto en el artículo 259 de este Código, se produce en las espe
 
 (DEROGADO, P.O. 17 DE JUNIO DE 2000)
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Art. 242.
 
 Se considerará como abigeato para los efectos de la sanción:
 
-a) Sacrificar intencionalmente ganado ajeno, sin consentimiento de su propietario;
+I. Sacrificar intencionalmente ganado ajeno, sin consentimiento de su propietario;
 
-(NOTA: EL 11 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 196/2020, DECLARÓ LA INVALIDEZ DEL INCISO b) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 10 DE MAYO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27882/LXII/20, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+II. Adquirir o negociar ganado robado, carne, pieles u otros derivados producto de abigeato, a sabiendas de esta circunstancia;
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
+III. Proteger dolosamente ganado robado con documentación falsa;
 
-b) ADQUIRIR O NEGOCIAR GANADO ROBADO, CARNE, PIELES Y OTROS DERIVADOS PRODUCTO DE ABIGEATO;
+IV. Autorizar en rastro oficial o en cualquier otro lugar de matanza, el sacrificio de ganado robado a sabiendas de esta circunstancia;
 
-c) Proteger dolosamente ganado robado con documentación falsa;
+V. Expedir documentación que acredite la propiedad de animales producto de abigeato a favor de persona distinta de quien legalmente pueda disponer de ellos, o autorice su movilización, a sabiendas de su ilegal procedencia; y
 
-(NOTA: EL 11 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 196/2020, DECLARÓ LA INVALIDEZ DEL INCISO d) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 10 DE MAYO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27882/LXII/20, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
-
-d) AUTORIZAR EN RASTRO OFICIAL O EN CUALQUIER OTRO LUGAR DE MATANZA, EL SACRIFICIO DE GANADO ROBADO;
-
-(NOTA: EL 11 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 196/2020, DECLARÓ LA INVALIDEZ DEL INCISO e) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 10 DE MAYO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27882/LXII/20, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
-
-e) EXPEDIR DOCUMENTACIÓN QUE ACREDITE LA PROPIEDAD DE ANIMALES PRODUCTO DE ABIGEATO A FAVOR DE PERSONA DISTINTA DE QUIEN LEGALMENTE PUEDA DISPONER DE ELLOS, O AUTORICE SU MOVILIZACIÓN; Y
-
-(NOTA: EL 11 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 196/2020, DECLARÓ LA INVALIDEZ DEL INCISO f) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 10 DE MAYO DE 2020, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 27882/LXII/20, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
-
-f) TRANSPORTAR GANADO, CARNES O PIELES CUANDO LA CARGA SEA PRODUCTO DE ABIGEATO.
+VI. Transportar ganado, carnes o pieles a sabiendas de que se trata de carga producto de abigeato.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2000)</small>
 
@@ -7194,5 +7180,17 @@ P.O. 28 DE ABRIL DE 2022.
 P.O. 16 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28798/LXIII/22 QUE REFORMA LOS ARTÍCULOS 142-M, 142-O Y 175; Y DEROGA EL ARTÍCULO 182 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28810/LXIII/22 QUE REFORMA EL ARTÍCULO 242 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28811/LXIII/22 QUE REFORMAN LOS ARTÍCULOS 142-N, 176-TER Y 211 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
