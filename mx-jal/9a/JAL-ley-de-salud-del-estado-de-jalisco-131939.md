@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2022-04-21"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -529,13 +529,19 @@ X. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
 XI. La promoción de una cultura de vida saludable a través de hábitos alimenticios nutricionales;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-XII. De la prevención, tratamiento y control de las adicciones; y
+XII. El tratamiento de reconstrucción mamaria;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-XIII. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
+XIII. De la prevención, tratamiento y control de las adicciones;
+
+(ADICONADA, P.O. 10 DE SEPTIEMBRE DE 2022)
+
+XIV. La orientación, prevención y atención del síndrome del desgaste ocupacional, y
+
+XV. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 35.
 
@@ -1435,9 +1441,9 @@ Salud Pública. Concepto.
 
 1. Salud pública es la ciencia y el arte de prevenir la enfermedad, prolongar la vida, fomentar la salud física, mental y social mediante medidas gestionadas a través de los organismos del estado en coordinación con la sociedad.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-2. Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria, la prevención, tratamiento y control de adicciones, así como la detección y atención de la depresión y prevención del suicidio.
+2. Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria, la prevención, tratamiento y control de adicciones, así como la detección y atención de la depresión, del síndrome del desgaste ocupacional y sobre la prevención del suicidio.
 
 ###### Artículo 108.
 
@@ -2551,11 +2557,15 @@ V. Asociarse para defender sus intereses;
 
 VI. Guardar el secreto profesional, siempre que éste no contravenga disposiciones de orden público o dañe a terceros;
 
-VII. Salvaguardar su prestigio; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+VII. Salvaguardar su prestigio;
 
-VIII. Los demás que establezca la legislación sanitaria, sus reglamentos y normas; así como aquellos que consten en las declaratorias que emita la Secretaría de Salud, con la participación de la Comisión Estatal de Bioética e Investigación de Jalisco.
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Recibir atención médica oportuna con la finalidad de prevenir, atender, orientar y controlar el síndrome del desgaste ocupacional; y
+
+IX. Los demás que establezca la legislación sanitaria, sus reglamentos y normas; así como aquellos que consten en las declaratorias que emita la Secretaría de Salud, con la participación de la Comisión Estatal de Bioética e Investigación de Jalisco.
 
 ###### Artículo 187.
 
@@ -4712,3 +4722,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El cumplimiento del presente decreto para el ejercicio fiscal 2022 se realizará con la suficiencia presupuestal establecida en el programa presupuestario 811 Fomento de la salud de los alumnos de Educación Básica en su indicador nivel componente identificado como 19 Total de alumnas de educación básica y media superior atendidas.
 
 TERCERO. El Poder Ejecutivo deberá considerar los recursos necesarios para el cumplimiento de este decreto en los ejercicios fiscales subsecuentes.
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 28808/LXIII/22 POR EL QUE “SE CORRIGE EL ERROR DE NUMERACIÓN DE LA REPETIDA FRACCIÓN XII, QUEDANDO COMO XIII, SE MODIFICA LA FRACCIÓN XIII, Y SE LA ADICIONA LA FRACCIÓN XIV RECORRIENDO LA SUBSECUENTE PARA QUEDAR COMO XV AL ARTÍCULO 34, SE REFORMA EL NUMERAL 2 DEL ARTÍCULO 107 Y SE MODIFICA LA FRACCIÓN VII, SE ADICIONA LA FRACCIÓN VIII RECORRIENDO LA SUBSECUENTE DEL ARTÍCULO 186 DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado tendrá un término de 120 días contados a partir de la publicación del presente decreto para emitir el Reglamento y protocolo de atención respectivo.
