@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-a-los-animales-del-estado-de-colima-8287
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-31"
-last_updated: "2016-11-22"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN A LOS ANIMALES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2011.
 
@@ -55,15 +55,23 @@ La presente Ley es de observancia general en el Estado, sus disposiciones son de
 
 La aplicación de esta Ley corresponde en el ámbito de sus respectivas competencias, a las siguientes autoridades:
 
-I. Al Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-II. A la Secretaría de Desarrollo Urbano;
+I. A la persona Titular del Poder Ejecutivo del Estado;
 
-III. A la Secretaría de Salud y Bienestar Social;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-IV. A la Secretaría de Cultura;
+II. A la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
-V. A la Secretaría de Educación;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+III. A la Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+IV. A la Secretaría de Educación y Cultura;
+
+V. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2022)
 
 VI. A los ayuntamientos del Estado; y
 
@@ -115,7 +123,9 @@ I. Evitar el deterioro del medio ambiente;
 
 II. Proteger y regular la vida y el crecimiento natural de las especies animales no nocivas;
 
-III. Favorecer el aprovechamiento y uso racional, así como procurar un trato humanitario para los animales domésticos;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+III. Fomentar el trato digno y respetuoso a las especies animales, con el propósito de evitar la crueldad en contra de estas;
 
 IV. Erradicar y sancionar el maltrato y los actos de crueldad para con los animales;
 
@@ -151,7 +161,9 @@ VII. El cadáver de todo animal, debe ser tratado con respeto; quedando estricta
 
 VIII. Toda persona, bajo ninguna circunstancia será obligada o coaccionada a provocar daño, lesión, mutilar o provocar la muerte de algún animal y podrá invocar esta Ley en su defensa; y
 
-IX. Las Secretarías de Salud y Bienestar Social, de Educación, de Cultura, y de Desarrollo Urbano del Gobierno del Estado, así como los ayuntamientos, implementarán acciones pedagógicas, a través de proyectos y programas, destinados a fomentar en los niños, jóvenes y la población en general, una cultura de buen trato, protección y respeto hacia los derechos de los animales; las acciones específicas serán implementadas en forma coordinada, por las Secretarías.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Las Secretarías de Salud, de Educación y Cultura, y de Infraestructura, Desarrollo Urbano y Movilidad del Gobierno del Estado, así como los ayuntamientos, implementarán acciones pedagógicas, a través de proyectos y programas, destinados a fomentar en los niños, jóvenes y la población en general, una cultura de buen trato, protección y respeto hacia los derechos de los animales; las acciones específicas serán implementadas en forma coordinada, por las Secretarías.
 
 ###### Artículo 7º.
 
@@ -189,7 +201,9 @@ XV. Aves urbanas: Al conjunto de especies de aves que habitan en libertad en el 
 
 XVI. Animales para zooterapia (Animaloterapia): A los que conviven con una persona o con un grupo humano, con fines terapéuticos, para algún tipo de enfermedades neurológicas, psicológicas o psiquiátricas, entre otras;
 
-XVII. Bienestar animal: Al estado en el cual el animal tiene satisfechas sus necesidades de salud, de comportamiento y fisiológicas frente a cambios en su ambiente, generalmente impuestos por el ser humano;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XVII. Bienestar animal: Al conjunto de actividades encaminadas a proporcionar comodidad, tranquilidad, protección y seguridad a los animales durante su crianza, mantenimiento, explotación, transporte y sacrificio;
 
 XVIII. Certificados de compra: A las constancias de venta, expedidas por los propietarios de comercios legalmente constituidos, en los que consten: número de identificación del animal, raza, edad, nombre del propietario, teléfono y el domicilio habitual del animal;
 
@@ -197,7 +211,9 @@ XIX. Centros de control animal, asistencia y zoonosis: A los establecimientos p�
 
 XX. Condiciones adecuadas: A las condiciones de trato digno y respetuoso que esta Ley establece, así como las referencias que al respecto determinen las Normas Oficiales Mexicanas y las normas ambientales;
 
-XXI. Crueldad: A los actos de brutalidad, sádicos, zoofílicos o de inhumanidad e impiedad cometidos en contra de cualquier animal, ya sea por acción directa o por negligencia;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XXI. Crueldad: A los actos de brutalidad, sádicos, zoofílicos o de inhumanidad e impiedad cometidos en contra de cualquier animal, ya sea por acción directa, omisión o por negligencia;
 
 XXII. Dependencias y entidades públicas: A las dependencias públicas, estatales y municipales tanto centralizadas como descentralizadas;
 
@@ -209,7 +225,9 @@ XXV. Hábitat: Al espacio del medio ambiente físico, en el que se desarrollan o
 
 XXVI. Ley: Al presente ordenamiento;
 
-XXVII. Maltrato: Al hecho, acto u omisión del ser humano, que puede ocasionar dolor o sufrimiento afectando el bienestar animal, poner en peligro la vida del animal, o afectar gravemente su salud, así como la sobreexplotación de su trabajo;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XXVII. Maltrato: Al hecho, acto u omisión del ser humano, que puede ocasionar dolor, deterioro físico o sufrimiento afectando el bienestar animal, poner en peligro la vida del animal, o afectar gravemente su salud, así como la exposición a condiciones de sobreexplotación de su capacidad física con cualquier fin;
 
 XXVIII. Mascota: Al ejemplar de una especie doméstica o silvestre utilizado como compañía y recreación para el ser humano;
 
@@ -223,13 +241,19 @@ XXXII. Reglamento: Al Reglamento de esta Ley;
 
 XXXIII. Sacrificio humanitario: Al acto de sacrificio necesario con métodos humanitarios que se práctica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, utilizando métodos físicos o químicos, efectuado por personal capacitado, atendiendo a las Normas Oficiales Mexicanas y las normas ambientales expedidas para tal efecto;
 
-XXXIV. Secretaría: A la Secretaría de Desarrollo Urbano del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-XXXV. Secretaría de Cultura: A la Secretaría de Cultura del Gobierno del Estado;
+XXXIV. Secretaría: A la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad del Gobierno del Estado;
 
-XXXVI. Secretaría de Educación: A la Secretaría de Educación del Gobierno del Estado;
+XXXV. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2022)
 
-XXXVII. Secretaría de Salud: A la Secretaría de Salud y Bienestar Social del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XXXVI. Secretaría de Educación: A la Secretaría de Educación y Cultura del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XXXVII. Secretaría de Salud: A la Secretaría de Salud del Gobierno del Estado;
 
 XXXVIII. Sociedades o Asociaciones Protectoras: A las asociaciones de asistencia privada, organizaciones no gubernamentales y legalmente constituidas, con conocimiento sobre el tema que dediquen sus actividades a la asistencia, protección y bienestar de los animales, que deberán inscribirse en el registro de la Secretaría de Desarrollo Urbano, presentando sus actas constitutivas, su objeto social y las autorizaciones, como asociación civil, en términos de la normatividad aplicable;
 
@@ -295,9 +319,11 @@ II. Celebrar convenios de coordinación con las autoridades federales para la vi
 
 III. Las demás que le confiera esta Ley y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 13.
 
-Corresponde a la Secretaría, por conducto de la Dirección de Ecología, en el ámbito de su competencia, el ejercicio de las siguientes facultades:
+Corresponde a la Secretaría, por conducto del Instituto para el Medio Ambiente y Desarrollo Sustentable, en el ámbito de su competencia, el ejercicio de las siguientes facultades:
 
 I. La regulación para el manejo, control y solución de los problemas asociados a los animales ferales;
 
@@ -321,29 +347,39 @@ III. Establecer, en coordinación con los ayuntamientos, campañas de vacunació
 
 IV. Implementar y administrar el registro de laboratorios, instituciones científicas y académicas, vinculados con la investigación, educación, crianza, producción y manejo de animales;
 
-V. Fomentar, en coordinación con la Secretaría de Educación, la cultura del trato digno y respetuoso a los animales, así como la concientización de la protección animal; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+V. Fomentar, en coordinación con la Secretaría de Educación y Cultura, la cultura del trato digno y respetuoso a los animales, así como la concientización de la protección animal; y
 
 VI. Las demás que esta Ley y otros ordenamientos jurídicos aplicables le confieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 15.
 
-Corresponde a la Secretaría de Cultura, ejercer las siguientes funciones:
+Corresponde a la Secretaría de Educación y Cultura, ejercer las siguientes funciones:
 
 I. Fomentar en la sociedad, la cultura del trato digno y respetuoso a los animales, por medio de eventos y actividades artísticas y culturales, que transmitan valores de atención y protección a los animales;
 
-II. En coordinación, con la Secretaría de Educación, realizar actividades artísticas y culturales en los planteles escolares del Sistema Educativo Estatal, tendientes a fomentar una cultura cívica de respeto y protección animal; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-III. Las demás que esta Ley y otros ordenamientos jurídicos aplicables le confieran.
+II. Realizar actividades artísticas y culturales en los planteles escolares del Sistema Educativo Estatal, tendientes a fomentar una cultura cívica de respeto y protección animal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+III. Promover y difundir a través de los programas de educación continua entre los educandos de los niveles preescolar, primaria y secundaria, los valores del cuidado, atención y protección de los animales;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Realizar campañas de promoción y difusión sobre el trato digno y respetuoso de los animales, para erradicar el maltrato y crueldad hacia los mismos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+V. Las demás que esta Ley y otros ordenamientos jurídicos aplicables le confieran.
 
 ###### Artículo 16.
 
-Son atribuciones de la Secretaría de Educación, las siguientes:
-
-I. Promover y difundir a través de los programas de educación continua entre los educandos de los niveles preescolar, primaria y secundaria, los valores del cuidado, atención y protección de los animales;
-
-II. Realizar campañas de promoción y difusión sobre el trato digno y respetuoso de los animales, para erradicar el maltrato y crueldad hacia los mismos; y
-
-III. Las demás que esta Ley y otros ordenamientos jurídicos aplicables le confieran.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 17.
 
@@ -367,11 +403,17 @@ VII. Proceder al sacrificio humanitario de los animales en los términos de la p
 
 VIII. Supervisar, verificar y, en su caso, sancionar en términos de la presente Ley y su Reglamento respectivo a los criaderos, establecimientos, refugios, asilos, instalaciones, transporte, espectáculos públicos, instituciones académicas, de investigación y particulares que manejen animales;
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Informar a las autoridades federales competentes del establecimiento en su territorio de circos que posean animales para espectáculo o exhibición, para efectos de que comprueben su legal posesión y que se encuentren en condiciones adecuadas; y
+IX. Informar a las autoridades federales competentes del establecimiento en su territorio de circos que posean animales para espectáculo o exhibición, para efectos de que comprueben su legal posesión y que se encuentren en condiciones adecuadas;
 
-X. Las demás que esta Ley y otros ordenamientos jurídicos aplicables les confieran.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+X. Fomentar e impulsar la construcción de parques y jardines exclusivos para el esparcimiento de mascotas domésticas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Las demás que esta Ley y otros ordenamientos jurídicos aplicables les confieran.
 
 ### CAPÍTULO III. DEL FOMENTO Y DIFUSIÓN DE UNA CULTURA DE PROTECCIÓN A LOS ANIMALES
 
@@ -379,13 +421,17 @@ X. Las demás que esta Ley y otros ordenamientos jurídicos aplicables les confi
 
 Todas las dependencias y entidades públicas, en el ámbito de sus respectivas competencias, se encargarán de difundir por los medios apropiados el espíritu y contenido de esta Ley, inculcando en el niño, el adolescente y el adulto el respeto hacia todas las formas de vida animal, transmitiendo el conocimiento de su relación indispensable con la preservación del medio ambiente.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 19.
 
-La Secretaría de Cultura fomentará acciones de promoción y difusión de información que generen una cultura cívica de protección, responsabilidad, respeto y trato digno a los animales.
+La Secretaría de Educación y Cultura fomentará acciones de promoción y difusión de información que generen una cultura cívica de protección, responsabilidad, respeto y trato digno a los animales.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 20.
 
-La Secretaría, por conducto de la Dirección de Ecología, en coordinación con las Secretarías de Educación y de Cultura, con la participación de las asociaciones protectoras de animales legalmente constituidas, además de los sectores social, privado y académico desarrollarán programas de educación y capacitación en materia de protección, trato digno y respetuoso a los animales, dirigidos a los estudiantes de las instituciones de educación básica, media superior y superior del Estado.
+La Secretaría, por conducto del Instituto para el Medio Ambiente y Desarrollo Sustentable, en coordinación con la Secretaría de Educación y Cultura, con la participación de las asociaciones protectoras de animales legalmente constituidas, además de los sectores social, privado y académico desarrollarán programas de educación y capacitación en materia de protección, trato digno y respetuoso a los animales, dirigidos a los estudiantes de las instituciones de educación básica, media superior y superior del Estado.
 
 ###### Artículo 21.
 
@@ -429,6 +475,50 @@ Toda persona física o moral, tiene la obligación de brindar un trato digno y r
 
 Cuando un menor de edad cometa actos de crueldad en contra de cualquier especie animal, o los presencie, deberá ser canalizado al respectivo Sistema Municipal para el Desarrollo Integral de la Familia para ser evaluado y, en su caso, recibir la atención psicológica correspondiente.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 27 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de su competencia, promoverán y fomentarán en la sociedad el trato digno y respetuoso hacia los animales.
+
+El trato digno y respetuoso se basará en los siguientes principios básicos:
+
+I. Suministrar a los animales agua y alimento suficientes, a efecto de mantenerlos sanos y con una nutrición adecuada;
+
+II. Proporcionar a los animales un ambiente adecuado para su descanso, movimiento y estancia, de acuerdo a cada tipo de especie, evitando el aislamiento y medidas que pongan en riesgo su salud;
+
+III. Suministrar a los animales atención médica preventiva y en caso de enfermedad brindar tratamiento médico expedito avalado por un médico veterinario;
+
+IV. Permitir a los animales la expresión de su comportamiento natural; y
+
+V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie.
+
+Las autoridades estatales y municipales, en el ámbito de sus competencias, deberán llevar a cabo campañas de esterilización y de difusión de información respecto a la importancia de la adopción, vacunación, desparasitación y las consecuencias ambientales, sociales y de salud pública del abandono de animales de compañía.
+
+Para la realización de lo previsto por el párrafo anterior, las autoridades estatales y municipales podrán auxiliarse de colegios de veterinarios, asociaciones protectoras de animales y de organizaciones sociales legalmente constituidas que tengan como objeto la asistencia, protección y bienestar de los animales.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 27 Bis 1.
+
+El Estado en coordinación con los municipios, garantizarán en la medida de lo posible, la esterilización gratuita de animales, y su trato digno y respetuoso en los centros de control animal, debiendo aplicar las sanciones que las disposiciones legales prevean para todo aquel que maltrate animales.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 27 Bis 2.
+
+Los propietarios o poseedores de animales domésticos o silvestres en cautiverio, deberán proporcionarles alimento y agua en cantidad y calidad adecuada de acuerdo a su especie y etapa productiva.
+
+Los animales deberán estar sujetos a un programa de medicina preventiva bajo supervisión de un médico veterinario, y deberán ser revisados y atendidos regularmente. Así mismo se les proporcionará atención inmediata en caso de enfermedad o lesión.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 27 Bis 3.
+
+Los Ayuntamientos en colaboración con el Estado, se encargarán de difundir a través de los medios de comunicación que consideren apropiados, el contenido de esta ley; inculcando en el niño, adolescente y adulto, el respeto hacia todas las formas de vida animal, las acciones preventivas que permitan conocer los posibles riesgos derivados de la posesión de especies o animales domésticos que pudieren ser peligrosas para la vida e integridad de los miembros de la familia y el conocimiento de su relación indispensable con la preservación del medio ambiente.
+
+Los Ayuntamientos emprenderán campañas informativas que permitan concientizar a los propietarios o poseedores de especies o animales domésticos, respecto del trato digno y respetuoso, cuidados y bienestar animal, debiendo publicitar la información respectiva en el portal institucional de internet.
+
 ###### Artículo 28.
 
 Queda estrictamente prohibido:
@@ -445,15 +535,19 @@ IV. La celebración de espectáculos con animales en la vía pública, con excep
 
 V. La venta o adiestramiento de animales en vía pública y áreas comunes, o en las que se atente o exista riesgo de que se pudiera afectar la integridad física de las personas, o en aquellos establecimientos que no cuenten con las instalaciones adecuadas para hacerlo;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-VI. El uso y tránsito de vehículos de tracción animal en vialidades asfaltadas y para fines distintos al uso agropecuario, con excepción de los autorizados legalmente; y
+VI. El uso y tránsito de vehículos de tracción animal en vialidades asfaltadas y para fines distintos al uso agropecuario, con excepción de los autorizados legalmente;
 
-> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 VII. La celebración y realización de espectáculos circenses en los cuales se utilicen animales vivos sea cual sea su especie en cualquier espacio de sus instalaciones.
 
-Sólo se autorizará la exhibición, sin que esta última implique el ejercicio de rutinas de adiestramiento.
+Sólo se autorizará la exhibición, sin que esta última implique el ejercicio de rutinas de adiestramiento; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Abandonar animales domésticos o silvestres en cautiverio en la vía pública, casas abandonadas, construcciones o en zonas rurales.
 
 ###### Artículo 29.
 
@@ -573,11 +667,15 @@ X. Las demás que establezcan la presente Ley y demás ordenamientos jurídicos 
 
 Toda persona física o moral que dedique sus actividades a la cría de animales, está obligada a valerse para ello de los procedimientos más adecuados, y disponer de todos los medios necesarios a fin de que los animales en su desarrollo reciban un trato humanitario de acuerdo con los adelantos científicos en uso, y puedan satisfacer el comportamiento natural de su especie.
 
-La posesión de cualquier animal obliga al poseedor a inmunizarlo contra toda enfermedad transmisible.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+En el caso de perros y gatos solo se permitirá la crianza, comercialización o reproducción de ejemplares en lugares autorizados de conformidad con las normas oficiales mexicanas en la materia, asimismo, se aplicarán las sanciones correspondientes a quienes realicen acciones de crianza, comercialización o reproducción clandestina.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 45.
 
-El traslado de los animales por acarreo o en cualquier tipo de vehículo, obliga a emplear, en todo momento, procedimientos que no entrañen crueldad, malos tratos, fatiga extrema o carencia de descanso, bebida y alimentos para los animales transportados.
+El traslado de los animales por acarreo o en cualquier tipo de vehículo, obliga a emplear, en todo momento, procedimientos que no entrañen crueldad, malos tratos, fatiga extrema o carencia de descanso, bebida y alimentos para los animales transportados, con el objeto de evitar su estrés y asegurar su vida y su salud.
 
 Queda estrictamente prohibido trasladar animales arrastrándolos suspendidos de los miembros superiores o inferiores, en costales o cajuelas de automóviles y, tratándose de aves, con las alas cruzadas.
 
@@ -649,7 +747,9 @@ E. PARA MONTA, CARGA Y TIRO.
 
 El propietario, poseedor o encargado de animales para la monta, carga y tiro, y animales para espectáculo, deberá contar con la autorización correspondiente, y alimentar y cuidar apropiadamente a los mismos, sin someterlos a jornadas excesivas de trabajo conforme a lo establecido en la norma ambiental correspondiente, debiendo mantener las instalaciones de guarda en buen estado higiénico sanitario y en condiciones adecuadas de espacio para el animal de que se trate, así como cumplir con lo establecido en el Reglamento de la presente Ley, y las Normas Oficiales Mexicanas que correspondan.
 
-La prestación del servicio de monta recreativa requiere autorización del ayuntamiento respectivo, salvo en las áreas de valor ambiental o áreas naturales protegidas, en cuyo caso, corresponde otorgar la autorización a la Secretaría, por conducto de la Dirección de Ecología, mismas que se sujetarán a las disposiciones correspondientes que establece esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+La prestación del servicio de monta recreativa requiere autorización del ayuntamiento respectivo, salvo en las áreas de valor ambiental o áreas naturales protegidas, en cuyo caso, corresponde otorgar la autorización a la Secretaría, por conducto del Instituto para el Medio Ambiente y Desarrollo Sustentable, mismas que se sujetarán a las disposiciones correspondientes que establece esta Ley, su Reglamento y demás disposiciones jurídicas aplicables.
 
 No se autorizará la prestación de estos servicios en los parques públicos, en el suelo urbano, ni en la vía o espacios públicos del territorio estatal, con excepción de aquellos casos en los que se cuente con la autorización expresa de las autoridades competentes.
 
@@ -833,6 +933,14 @@ Los responsables de consultorios, clínicas u hospitales veterinarios, llevarán
 
 Cada establecimiento autorizado, deberá contar con un médico veterinario zootecnista con cédula profesional como responsable del mismo
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+Los establecimientos comerciales, criaderos, estéticas caninas, y prestadores de servicios vinculados con el manejo, producción, exhibición y venta de animales, para el caso que, apliquen vacunas o cualquier otro servicio que implique tratamiento veterinario, deberán contar estrictamente con médicos veterinarios zootecnistas con cédula profesional.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+La Secretaría, a través del Instituto para el Medio Ambiente y Desarrollo Sustentable, administrará un registro de consultorios, clínicas y hospitales veterinarios que cumplan con lo previsto en este artículo, la que se elaborará y actualizará en coordinación con los ayuntamientos, y los colegios o federaciones de médicos veterinarios zootecnistas. Dicho registro deberá contener además los nombres y datos de los médicos veterinarios zootecnistas responsables de los mismos, así como su número de cédula. El registro deberá ser público y accesible para el conocimiento de la sociedad.
+
 ###### Artículo 83.
 
 Previa venta de cualquier animal, el vendedor deberá entregar al comprador un certificado de vacunación, que contenga la aplicación de vacunas de rabia y desparasitación interna y externa, suscrito por médico veterinario zootecnista con cédula profesional.
@@ -917,11 +1025,15 @@ A la persona que en eventos o lugares públicos, moleste o incite a un animal en
 
 A quien incite a dos o más animales para que se acometan entre sí, haciendo de las peleas así provocadas un espectáculo público o privado, cuyo acto de crueldad prevé la fracción VIII del artículo 43 de esta Ley, le será impuesta por el ayuntamiento respectivo una multa de cien a doscientas unidades de medida y actualización o arresto administrativo hasta por 36 horas, así como perdida de la custodia del animal o animales, procediéndose a trasladarlos al centro de control animal del ayuntamiento que corresponda.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 91.
 
-A quién incurra en las conductas previstas en las fracciones I, II, III, IV, V y VI del artículo 28 de esta Ley, será sancionado por el ayuntamiento respectivo con multa de cinco a cincuenta unidades de medida y actualización y, en el caso de la fracción de (sic) VII, la multa será de treinta a trescientas unidades de medida y actualización, además se emitirá la suspensión del permiso respectivo, y se ordenará el retiro de las instalaciones en que se desarrolle el espectáculo circense.
+A quién incurra en las conductas previstas en las fracciones I, II, III, IV, V, VI y VIII del artículo 28 de esta Ley, será sancionado por el ayuntamiento respectivo con multa de cinco a cien unidades de medida y actualización y, además se emitirá la suspensión del permiso respectivo, y se ordenará el retiro de las instalaciones en que se desarrolle el espectáculo circense. En el caso de la fracción VII del artículo 28, la multa será de treinta a trescientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+A quien realice acciones de crianza, comercialización o reproducción clandestina de perros y gatos será sancionado por el ayuntamiento respectivo con multa de diez a cien unidades de medida y actualización.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -951,6 +1063,12 @@ A quién incurra en las conductas previstas en la fracción II del artículo 14 
 
 Tratándose de reincidencia, se le podrá imponer al infractor de la (sic) conductas descritas en la fracción II del artículo 14 en relación con la fracción V del artículo 17, así como la relativa a la fracción IV del artículo 43 de la presente Ley, a juicio de la Secretaría de Salud, el doble de multa, la cual, no podrá exceder en ningún caso de doscientas unidades de medida y actualización y, previa solicitud al ayuntamiento respectivo, la clausura temporal de ocho a treinta días naturales o, en su caso, la clausura definitiva del establecimiento.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 94 Bis.
+
+Los establecimientos comerciales, criaderos, estéticas caninas, y prestadores de servicios vinculados con el manejo, producción, exhibición y venta de animales que presten servicios médicos veterinarios, apliquen vacunas o presten cualquier otro servicio que implique tratamiento veterinario que no sean atendidos por médicos veterinarios zootecnistas con cédula profesional serán objeto de clausura temporal o definitiva por parte de la autoridad municipal competente.
+
 ###### Artículo 95.
 
 Independientemente de las sanciones descritas en los dos artículos anteriores, y a juicio de la autoridad aplicadora de la sanción, ésta podrá ordenar al infractor que le haga entrega del animal respectivo, para ponerlo a disposición de las asociaciones protectoras de animales o centros de control animal, procurando su protección y buen cuidado.
@@ -975,11 +1093,19 @@ En caso de que el infractor subsane las irregularidades en que hubiere incurrido
 
 De lo recaudado por concepto de multas derivadas de violaciones a esta Ley, el gobierno del Estado y los ayuntamientos de la entidad, destinarán el 50 por ciento de los montos recaudados para atender acciones relacionadas con las atribuciones que la propia Ley les confiere en relación con el bienestar animal.
 
-### CAPÍTULO XIII. DEL RECURSO DE REVISIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO XIII. DE LOS MEDIOS DE IMPUGNACIÓN
 
 ###### Artículo 99.
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables, podrán ser impugnadas por las personas físicas o morales mediante la interposición del Recurso de Revisión conforme a las reglas establecidas en la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 99 Bis.
+
+Las multas impuestas con motivo de la aplicación de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables, podrán ser impugnadas por las personas físicas o morales mediante la interposición del Recurso de Inconformidad conforme a las reglas establecidas en la Ley del Procedimiento Administrativo del Estado de Colima y sus Municipios.
 
 T R A N S I T O R I O S
 
@@ -1018,3 +1144,13 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 144.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE LOS ANIMALES DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. El Poder Ejecutivo del Estado, así como los Ayuntamientos, contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor del presente Decreto, para adecuar su reglamentación de conformidad a los términos previstos por este.
+
+TERCERO. El Poder Ejecutivo del Estado contará con un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente decreto, para constituir el Registro a que hace referencia el párrafo cuarto del artículo 82, de esta Ley.
