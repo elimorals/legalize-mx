@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2022-07-30"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "COL"
 ---
 # LEY PARA LA PROTECCION DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA -- ANTES LEY PARA LA PROTECCION DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA --
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE SEPTIEMBRE DE 2023 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -211,6 +215,10 @@ XXIV. Ser sujetos de programas para contar con una vivienda digna y adaptada a s
 
 XXV. Ser sujetos de programas para tener acceso a una casa hogar o albergue, u otras alternativas de atención integral, así como todos los servicios que le garanticen el respeto a su dignidad de adulto mayor, si se encuentra en situación de riesgo o desamparo.
 
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XXVI. Una vida libre de violencia física, psicológica, sexual, económica, patrimonial o de cualquier otro tipo.
+
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 ###### Artículo 10.
@@ -332,6 +340,26 @@ XXIII. Colaborar en la elaboración de las evaluaciones a los programas o proyec
 XXIV. Proponer reconocimientos a las personas físicas o morales que se hayan distinguido en la promoción y defensa de los derechos de los adultos mayores; y
 
 XXV. Elaborar su Reglamento Interno.
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XXVI. Celebrar de (sic) convenios con los Colegios de Notarios o prestadores de servicios para obtener descuentos en los precios de los servicios que presten a favor de los adultos mayores, así como acompañar, atender y orientar a los adultos mayores en relación a la prestación de los servicios profesionales en materia notarial;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XXVII. Establecer las acciones enfocadas a la prevención, detección y erradicación de cualquier tipo de violencia en contra de los adultos mayores;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XXVIII. Realizar campañas y acciones específicas de sensibilización e información, relativa a las diversas formas de violencia en contra de los adultos mayores para prevenir y concientizar a la sociedad acerca del derecho de las personas adultas mayores a vivir una vida libre de violencia;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XXIX. Impulsar la realización de investigaciones en temas gerontológicos y geriátricos, así como elaborar y actualizar los diagnósticos de las problemáticas y necesidades de las personas adultas mayores; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XXX. Promover la capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación para los adultos mayores Para lo anterior, el Instituto podrá crear un Seminario Digital para el Adulto Mayor así como la realización de convenios con otras secretarías, subsecretarías e instituciones para que dicha capacitación tenga validez oficial.
 
 ### CAPÍTULO II. De su gobierno, administración y vigilancia
 
@@ -623,6 +651,12 @@ El Estado promoverá la publicación y difusión de esta Ley para que la socieda
 
 Ningún adulto mayor podrá ser objeto de discriminación en ningún espacio público o privado por razón de su edad, género, estado físico o mental, creencia religiosa o condición social.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 34 Bis.
+
+Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a los adultos mayores en casos de necesidad o emergencia, tenga o no parentesco con ellos.
+
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 ###### Artículo 35.
@@ -688,6 +722,12 @@ El derecho de los adultos mayores a percibir alimentos se garantizará en los t�
 ###### Artículo 41.
 
 Cuando el obligado a dar los alimentos al adulto mayor se tuviera que ausentar o presentare incapacidad temporal o imposibilidad de hecho para cumplir con esa obligación, el Estado procurará brindar supletoriamente los alimentos por medio de su incorporación a procesos de promoción social y desarrollo humano, mediante programas interinstitucionales en los que, de acuerdo con su situación particular, intervendrán los sistemas DIF Estatal y Municipal.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 41 Bis.
+
+Todas las instituciones públicas y privadas que lleven a cabo programas de atención a las personas adultas mayores, deberán tomar las medidas de prevención para que la familia participe en la atención de este sector de la sociedad, principalmente de las personas adultas mayores que se encuentren en situación de desamparo o riesgo.
 
 ### CAPÍTULO V. De la Libertad de Desplazamiento
 
@@ -1320,3 +1360,11 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de s
 SEGUNDO. En un plazo no mayor a ciento ochenta días posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Estado realizará las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas funciones que resultan de las reformas materia del presente Decreto, entre estas el protocolo de actuación definitivo de la alerta plateada que de manera específica regule y garantice el desarrollo y ejecución de dicha alerta.
 
 TERCERO. El Instituto para la Atención de los Adultos Mayores deberá realizar los convenios de coordinación necesarios para establecer la operatividad de la alerta plateada.
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 140.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su aprobación por el Poder Legislativo del Estado de Colima, y permanecerá vigente hasta el día 31 de diciembre de 2022.
