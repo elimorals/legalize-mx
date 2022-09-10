@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2020-10-03"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -148,6 +148,10 @@ a) EI premio al mérito en enfermería primer nivel de atención. Se otorgará a
 b) El premio al mérito de enfermería de segundo y tercer nivel de atención. Se otorgará a quien se haya distinguido profesionalmente en la actividad de enfermería en cualquiera de sus especialidades, particularmente en el área de segundo y tercer nivel de atención.
 
 c) El premio al mérito de enfermería gestión e investigación en enfermería. Se otorgará a quien se haya distinguido profesionalmente en la actividad de enfermería en cualquiera de sus especialidades o áreas de conocimiento relacionadas a la gestión e investigación en enfermería.
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+XII. El premio Estatal al cuidado del medio ambiente, se otorgará al hombre y la mujer que se han distinguido en el Cuidado del Medio Ambiente en el Estado de Colima, en el marco del Día Mundial del Medio Ambiente, sumando esfuerzos en la lucha contra la contaminación, la protección de los ecosistemas y la biodiversidad de la cual dependemos todos.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2013)</small>
 
@@ -351,6 +355,14 @@ La Comisión de Educación y Cultura en conjunto con la Comisión de Salud y Bie
 
 Para determinar a la persona merecedora de dicho reconocimiento, se integrará un Comité por un representante de la Comisión de Educación y Cultura del Congreso, un representante de la Comisión de Salud y Bienestar Social y un representante de la Secretaría de Salud y Bienestar Social, quien se encargará de revisar y calificar la idoneidad de cada una de las personas propuestas; siendo las Comisiones Legislativas citadas, las encargadas de elaborar y presentar el dictamen al Pleno del Congreso.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 12.
+
+El "Premio Estatal al Cuidado del Medio Ambiente" a que hace referencia la fracción XII del artículo 1º; se entregará en sesión solemne del H. Congreso del Estado, la que se celebrará preferentemente el día 05 de junio de cada año, en el marco del "Día Mundial del Cuidado del Medio Ambiente".
+
+La Comisión de Educación y Cultura en conjunto con la Comisión de Desarrollo Urbano, Medio Ambiente y Movilidad del H. Congreso del Estado, expedirán la convocatoria en los primeros quince días del mes de mayo, misma que señalará los plazos, términos y requisitos, la cual será publicada en los periódicos de mayor circulación, dirigida a los medios de comunicación de la entidad, y a toda la población del Estado, para efectos de que se reciban propuestas a distinguir con dicho reconocimiento en el cuidado del medio ambiente".
+
 TRANSITORIOS:
 
 ###### Artículo 1o.
@@ -428,3 +440,9 @@ P.O. 3 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 318.- POR EL QUE SE DECLARA EL DÍA 12 DE MAYO DE CADA AÑO, COMO EL "DÍA ESTATAL DE ENFERMERÍA" Y SE APRUEBAN ADICIONES A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 143.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
