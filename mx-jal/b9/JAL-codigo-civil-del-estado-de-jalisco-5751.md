@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2022-04-09"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2469,9 +2469,9 @@ Produce ilicitud en el matrimonio:
 
 I. El matrimonio celebrado en contravención a lo dispuesto en los artículos relativos a las actas de matrimonio de la Ley del Registro Civil del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
-II. El matrimonio celebrado, sin que hayan transcurrido los términos fijados en los artículos 271 y 420; y
+II. El matrimonio celebrado, sin que haya transcurrido el término fijado en el artículo 271; y
 
 III. Cuando se contrajo, estando pendiente la decisión de un impedimento que sea susceptible de dispensa.
 
@@ -16183,11 +16183,11 @@ El heredero de parte de los bienes, que quiera vender a un extraño su derecho h
 
 Si dos o más coherederos quisieran hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia; y si las porciones son iguales, la suerte decidirá quien hace uso del derecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Art. 2665
 
-Bis.- En la escritura pública que formalice los contratos o actos traslativos de dominio sobre bienes inmuebles, las personas que adquieren la propiedad de los mismos pueden señalar en la cláusula de beneficiario o testamentaria, para que a su fallecimiento, la propiedad de dichos inmuebles pasará a su cónyuge, ascendientes o descendientes, al momento de elaborar la escritura pública o mediante la adición de una anotación de forma posterior.
+Bis.- En la escritura pública que formalice los contratos o actos traslativos de dominio sobre bienes inmuebles, las personas que adquieren la propiedad de los mismos pueden señalar en la cláusula de beneficiario o testamentaria, para que, a su fallecimiento, la propiedad de dichos inmuebles pase a su cónyuge, descendientes, ascendientes o a la persona que decida, al momento de elaborar la escritura pública o mediante la adición de una anotación de forma posterior.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2020)</small>
 
@@ -19448,3 +19448,15 @@ P.O. 9 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28770/LXIII/22 QUE REFORMA LOS ARTÍCULOS 258, 260 Y 267 BIS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, RESPECTO DE LA FIGURA JURÍDICA DEL MATRIMONIO IGUALITARIO".]
 
 ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28809/LXIII/22 QUE REFORMA EL ARTÍCULO 2665-BIS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28812/LXIII/22 QUE REFORMA EL ARTÍCULO 393 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
