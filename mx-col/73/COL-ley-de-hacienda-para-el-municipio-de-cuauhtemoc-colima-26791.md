@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-12-14"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3221,13 +3221,25 @@ Incurrirá en rebeldía el titular del predio que no lleve a cabo la limpieza y 
 
 D).- PROTECCION CIVIL
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+> <small>[N. DE E. SE ADVIERTE QUE LA APLICACIÓN DEL DECRETO NO. 148 DE 10 DE SEPTIEMBRE DE 2022, ATENDIÓ A LA LITERALIDAD DE SU PUBLICACIÓN OFICIAL, SE SUGIERE CONSULTAR LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 85.
 
-Los productos por servicios que preste y/o documentos que expida la unidad municipal de protección civil se causarán y pagarán conforme a la siguiente tarifa:
+Los derechos por servicios que presten la unidad de protección civil se causarán y pagarán conforme a la siguiente tarifa:
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+A). Por la expedición de los siguientes documentos:
+
+I a la IV. ... (sic)
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
 a) Por la realización de visitas de inspección, por kilómetro recorrido al sitio de inspección 0.08
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
 b) Por la emisión del dictamen de seguridad:
 
@@ -3237,13 +3249,39 @@ b) Por la emisión del dictamen de seguridad:
 
 3.- Establecimientos comerciales, industriales y de servicios de alto impacto 15.00
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
 c) Por la impartición de cursos de capacitación, por participante 2.00
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
 
 d) Por el servicio de custodia de vehículos que trasladen materiales explosivos, tóxicos o inflamables en las vialidades o carreteras dentro del territorio del Municipio, por kilómetro por kilogramo 0.20
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
 e) Por el acompañamiento de la unidad municipal de protección civil, por evento privado y/o con fines lucrativos, por cada uno 15.00
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2019)</small>
+
 La cuota considerada en el inciso a) del presente artículo puede disminuir considerando las condiciones económicas del negocio, número de empleados y su nivel de inversión.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+B). Actividades complementarias:
+
+I. Emisión de constancia de cumplimiento de Protección Civil 1.00
+
+II. Traslado en ambulancia privado por cada 20 kilómetros recorridos 3.00
+
+III. Servicio de ambulancia o bomberos para eventos privados por hora 6.00
+
+IV. Certificado de cumplimiento para la venta de pirotecnia.
+
+1. En la cabecera municipal 5.00
+
+2. Fuera de la cabecera municipal 7.00
+
+V. Capacitación por participante 3.00
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -4260,3 +4298,11 @@ P.O. 14 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 192 POR EL QUE SE ADICIONA UN ARTÍCULO 98 BIS, A LA LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC, COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
