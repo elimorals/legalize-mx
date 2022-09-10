@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2022-06-04"
+last_updated: "2022-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -277,7 +277,9 @@ Los Diputados que no estén presentes en algún pase de lista, sin causa justifi
 
 Cuando se deje de asistir a tres sesiones consecutivas sin justificación o sin previo permiso de la Mesa Directiva, se llamará al suplente respectivo o al que siga en la lista tratándose de Diputados de representación proporcional, observando el principio de paridad de género, quien ejercerá las funciones durante el resto del período ordinario.
 
-Los recursos descontados a los Diputados que no justifiquen sus inasistencias en términos del artículo siguiente, serán destinados a instituciones de beneficencia pública como donativos, las cuales serán determinadas por la Junta de Gobierno.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
+Los recursos descontados a las y los Diputados que no justifiquen sus inasistencias en términos del artículo siguiente, se les dará el uso y destino que mediante acuerdo determine la Junta de Gobierno dentro de las partidas que integran el capítulo 1000 del Presupuesto de Egresos del Poder Legislativo.
 
 ###### Artículo 21.
 
@@ -1502,3 +1504,11 @@ P.O. 4 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 96.- POR EL QUE SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO DEL ARTÍCULO 105 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SE ADICIONA EL PÁRRAFO CUARTO DEL ARTÍCULO 103 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 10 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 142.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y DE SU REGLAMENTO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su aprobación por el Poder Legislativo del Estado de Colima, y permanecerá vigente hasta el día 31 de diciembre de 2022.
