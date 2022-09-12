@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-transparencia-acceso-a-la-155592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-02-17"
-last_updated: "2022-02-17"
+last_updated: "2022-09-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155592&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,13 @@ issue_date: "2021-12-14"
 ---
 # REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y RENDICION DE CUENTAS PARA EL PODER JUDICIAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T04-2019/Modificacionalreglamentodetransparencia.pdf]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS PARA EL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 12 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]
+
+[NOTA 2: INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T04-2019/Modificacionalreglamentodetransparencia.pdf]
 
 REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS PARA EL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE SEPTIEMBRE DE 2022 (SIN EFECTOS).
 
 Reglamento publicado en el Número 792 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de febrero de 2022.
 
@@ -40,7 +42,7 @@ Tipo de Manual Acuerdo Liga
 
 Oficina de la Presidencia del Tribunal Superior de Justicia de la Ciudad de México y Áreas Auxiliares
 
-[…]
+[...]
 
 DOCUMENTOS NORMATIVOS DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
@@ -56,7 +58,7 @@ descarga.php?arv=121/DEP/T03
 
 fecha 7-11-2018 -2019/reglamentotransparencia.pdf
 
-[…]
+[...]
 
 En caso de no poder acceder a los enlaces electrónicos, comunicarse con la persona servidora pública responsable:
 
@@ -765,3 +767,11 @@ MAESTRA ZAIRA LILIANA JIMÉNEZ SEADE
 G.O. 17 DE FEBRERO DE 2022.
 
 > <small>[N. DE E. EL “AVISO POR EL QUE SE DAN A CONOCER LOS ENLACES ELECTRÓNICOS PARA CONSULTA, RELATIVOS A DIVERSOS MANUALES DE ORGANIZACIÓN Y PROCEDIMIENTOS, ASÍ COMO LINEAMIENTOS Y REGLAMENTOS, EMITIDOS POR EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL VIGENTE.]</small>
+
+G.O. 31 DE AGOSTO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS PARA EL PODER JUDICIAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al siguiente día hábil de su publicación en el Boletín Judicial del Poder Judicial de la Ciudad de México y para su mayor difusión será publicado en la Gaceta Oficial de la Ciudad de México a través del enlace electrónico correspondiente y el Portal de Internet del Poder Judicial de la Ciudad de México.
+
+SEGUNDO.- Queda sin efectos el Reglamento en Materia de Transparencia, Acceso a la información Pública y Rendición de Cuentas para el Poder Judicial de la Ciudad de México, aprobado por el Consejo de la Judicatura de la Ciudad de México mediante Acuerdo General número 40-45/2018, de fecha siete de noviembre de dos mil dieciocho, así como todas aquellas disposiciones administrativas internas que se opongan al presente Reglamento.
