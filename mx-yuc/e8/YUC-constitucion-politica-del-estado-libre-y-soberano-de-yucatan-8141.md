@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2022-08-12"
+last_updated: "2022-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE SEPTIEMBRE DE 2022.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -76,6 +76,10 @@ El Estado a través de un organismo especializado, con la participación de la s
 > <small>(ADICIONADO, D.O. 30 DE SEPTIEMBRE DE 2020)</small>
 
 El Estado realizará todas las acciones necesarias orientadas a lograr el derecho a una vida digna de las personas adultas mayores en el Estado, tendrán acceso a los servicios de salud, alimentación, cultura, protección de su patrimonio, igualdad de condiciones para desempeñar un trabajo, asistencia y seguridad social e igualdad de oportunidades que les propicie mayor bienestar y una mejor calidad de vida. Las autoridades estatales y municipales; establecerán un sistema permanente de apoyo e integración social de los adultos mayores para permitirles una vida digna y decorosa.
+
+> <small>(ADICIONADO, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
+
+Toda persona en el estado de Yucatán tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad. Las autoridades estatales y municipales establecerán, conforme a las disposiciones aplicables, sistemas de movilidad que permitan el cumplimiento de este derecho.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
@@ -1003,13 +1007,17 @@ XLVII.- Determinar los servicios públicos que tendrán a su cargo los municipio
 
 XLVIII.- Ratificar el nombramiento de la secretaria o secretario responsable del control interno del Poder Ejecutivo, que haga la Gobernadora o Gobernador;
 
-> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
 
-XLIX.- Designar a la o el Fiscal Especializado en Combate a la Corrupción, a través del mismo procedimiento dispuesto en esta constitución para la o el fiscal general del estado, y
+XLIX.- Designar a la o el Fiscal Especializado en Combate a la Corrupción, a través del mismo procedimiento dispuesto en esta constitución para la o el fiscal general del estado;
+
+> <small>(ADICIONADA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
+
+L.- Designar por el voto de las dos terceras partes de sus miembros presentes en la sesión respectiva a la persona titular de la Agencia de Transporte de Yucatán, conforme al procedimiento previsto en esta Constitución, y
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
-L.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
+LI.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -2049,13 +2057,17 @@ III.- El Instituto Electoral y de Participación Ciudadana de Yucatán;
 
 IV.- El Tribunal Electoral del Estado de Yucatán;
 
-> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
 
-V.- El Tribunal de Justicia Administrativa del Estado de Yucatán, y
+V.- El Tribunal de Justicia Administrativa del Estado de Yucatán;
 
-> <small>(ADICIONADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
 
-VI.- La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán.
+VI.- La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, y
+
+> <small>(ADICIONADA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
+
+VII.- La Agencia de Transporte de Yucatán.
 
 Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo, rendirán informe de su cuenta pública en los términos que señale la ley en la materia.
 
@@ -2179,6 +2191,10 @@ Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
+### CAPÍTULO VIII. De la Agencia de Transporte de Yucatán
+
+> <small>(ADICIONADO, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 75 Quinquies.
 
 La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán es un organismo público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, presupuestal y de gestión, con capacidad para determinar su organización interna y el ejercicio de sus recursos con arreglo a las normas aplicables, cuyo objeto es investigar, perseguir y consignar ante la autoridad jurisdiccional las conductas que la ley prevé como delitos por hechos de corrupción.
@@ -2188,6 +2204,28 @@ El Fiscal Especializado en Combate a la Corrupción durará en el cargo siete a�
 El Fiscal Especializado en Combate a la Corrupción será designado conforme al mismo procedimiento previsto para el Fiscal General del Estado y solo podrá ser removido, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo de esta Constitución.
 
 El Fiscal Especializado en Combate a la Corrupción no podrá tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrá asumir un cargo público en las dependencias y entidades estatales ni en los órganos constitucionales autónomos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 75 Sexies.
+
+La Agencia de Transporte de Yucatán es un organismo público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, presupuestal y de gestión, con capacidad para determinar su organización interna y el ejercicio de sus recursos con arreglo a las normas aplicables, cuyo objeto es planear, regular, administrar, controlar, construir y encargarse, en general, de la organización del servicio de transporte en el estado de Yucatán.
+
+La persona titular de la Agencia de Transporte de Yucatán durará en el cargo cinco años, con posibilidad de ocuparlo por dos periodos más de cinco años cada uno, siempre y cuando el Congreso no decida, por el voto de las dos terceras partes de sus integrantes, su no ratificación en cada ocasión.
+
+La persona titular de la Agencia de Transporte de Yucatán solo podrá ser removida por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo de esta Constitución.
+
+Para ser titular de la Agencia de Transporte de Yucatán se deberán cumplir los siguientes requisitos:
+
+I. Ser persona ciudadana mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+II. Contar con estudios de maestría o posgrado al día de su elección, expedido por autoridad e institución legalmente facultada para ello, en materia de diseño de políticas públicas, desarrollo económico o afines a la materia de transporte, y
+
+III. Acreditar tener experiencia comprobable en materia de transporte, de planeación o diseño de políticas públicas en entidades federativas o municipios o haber cursado diplomados o talleres en dichas materias.
+
+La persona titular de la Agencia de Transporte de Yucatán será designada mediante el siguiente procedimiento: la persona titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a quien deba ocupar el cargo, mediante el voto de las dos terceras partes de sus integrantes presentes en la sesión de que se trate. En caso de que no se alcance la votación requerida, la persona titular del Poder Ejecutivo someterá otra terna a la consideración del Congreso. En caso de que nuevamente no se alcance la votación requerida, ocupará el cargo la persona que designe la persona titular del Poder Ejecutivo, que deberá ser integrante de la segunda terna propuesta.
+
+La persona titular de la Agencia de Transporte de Yucatán no podrá tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrá asumir un cargo público en las dependencias y entidades estatales ni en los órganos constitucionales autónomos.
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
@@ -5138,3 +5176,87 @@ D.O. 12 DE AGOSTO DE 2022.
 Entrada en Vigor.
 
 Artículo único. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 12 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 555/2022 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE MOVILIDAD Y SEGURIDAD VIAL Y SE EMITE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+Se abroga la Ley de Transporte del Estado de Yucatán, la Ley de Seguridad Vial del Estado de Yucatán y la Ley de Fomento al Uso de la Bicicleta en el Estado de Yucatán.
+
+Tercero. Obligación normativa
+
+El Congreso del estado deberá emitir la Ley Orgánica de la Agencia de Transporte de Yucatán dentro del plazo de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Obligación normativa
+
+El Congreso del estado deberá expedir las modificaciones a la legislación para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de trescientos sesenta y cinco días naturales contado a partir de su entrada en vigor.
+
+Quinto. Obligación normativa
+
+La persona titular del Poder Ejecutivo, en un plazo no mayor de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir el Reglamento de la Ley de Movilidad y Seguridad Vial del Estado de Yucatán.
+
+En tanto se expide el Reglamento de la Ley de Movilidad y Seguridad Vial del Estado de Yucatán continuará aplicándose el Reglamento de la Ley de Transporte del Estado de Yucatán, en lo que no se oponga a lo previsto en este decreto.
+
+Sexto. Adecuaciones normativas
+
+La persona titular del Poder Ejecutivo, así como las autoridades en materia de movilidad, seguridad vial y transporte, deberán realizar las adecuaciones a las disposiciones reglamentarias y normativas que resulten pertinentes para armonizarlas a lo previsto en este decreto dentro del plazo de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Séptimo. Remisión de la terna para la designación de la persona titular de la agencia
+
+La persona titular del Poder Ejecutivo del estado deberá remitir al Congreso la terna para la designación de la persona titular de la Agencia de Transporte de Yucatán dentro de un plazo de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Octavo. Instalación del comité
+
+El Comité Estatal de Movilidad y Seguridad Vial se instalará en un plazo de treinta días naturales, contando a partir de la entrada en vigor de este decreto.
+
+Noveno. Legislación transitoria
+
+En tanto se expide la Ley Orgánica de la Agencia de Transporte de Yucatán, la persona titular del Poder Ejecutivo ejercerá las atribuciones previstas en los artículos 83, 85, fracciones I y II, en lo relativo al servicio de transporte público, XLII, XLIV; 109, 117, 153 y 154, fracciones III y IV de la Ley de Movilidad y Seguridad Vial del Estado de Yucatán y el Instituto de Movilidad y Desarrollo Urbano Territorial ejercerá las demás atribuciones y competencias que la referida ley le otorga a la Agencia de Transporte de Yucatán.
+
+Décimo. Referencia
+
+En lo sucesivo, cuando en alguna norma se haga referencia al Instituto de Movilidad y Desarrollo Urbano Territorial, en cuanto a la materia de transporte se refiere, se entenderá hecha a la Agencia de Transporte de Yucatán.
+
+En lo sucesivo, cuando en alguna norma se haga referencia a la Dirección de Transporte del Instituto de Movilidad y Desarrollo Urbano Territorial y a la Dirección del Sistema Metropolitano de Movilidad Amable y Sostenible del Instituto de Movilidad y Desarrollo Urbano Territorial, se entenderán hechas a la Dirección de Transporte de la Agencia de Transporte de Yucatán y a la Dirección del Sistema Metropolitano de Movilidad Amable y Sostenible de la Agencia de Transporte de Yucatán, respectivamente.
+
+Cuando en las leyes de la Administración Pública estatal y sus reglamentos o en otras disposiciones legales vigentes se haga referencia a la Ley de Transporte del Estado de Yucatán, a la Ley de Fomento al Uso de la Bicicleta en el Estado de Yucatán o a la Ley de Seguridad Vial del Estado de Yucatán se entenderá que se refieren a la Ley de Movilidad y Seguridad Vial del Estado de Yucatán, en lo que no se oponga a lo previsto en este decreto.
+
+Décimo primero. Asuntos en trámite
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este decreto, continuarán, hasta su conclusión, regidos por las disposiciones en los cuales se fundamentaron, a excepción de las concesiones, permisos, constancias y certificados que se encuentren en proceso de renovación, cuyo procedimiento y trámite se ajustará a lo previsto en este decreto.
+
+Décimo segundo. Adecuaciones presupuestales, financieras, de bienes y recursos humanos
+
+La Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestales, financieras, de bienes y recursos humanos que resulten necesarias para la aplicación de este decreto.
+
+Décimo tercero. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Décimo cuarto. Exención
+
+La Agencia de Transporte de Yucatán queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales estatales, así como de las contribuciones municipales respecto de sus bienes de dominio público en términos del artículo 82, fracción VIII de la Constitución Local y que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+Décimo quinto. Concesiones, permisos, constancias y certificados vigentes
+
+Las concesiones, los permisos, las constancias y los certificados otorgados previo a la entrada en vigor de este decreto continuarán vigentes por el plazo para el que fueron otorgados, siempre y cuando cumplan con lo previsto en este decreto.
+
+Para los efectos de lo previsto en el párrafo anterior, las personas titulares de concesiones, permisos, constancias o certificados, en un plazo que no exceda de doce meses, contado a partir de la entrada en vigor de este decreto, deberán adecuarse a sus disposiciones.
+
+Décimo sexto. Regulación del Fondo Estatal de Movilidad
+
+La administración y operación del Fondo Estatal para la Movilidad previsto en esta ley se sujetará a las disposiciones vigentes en tanto el Instituto de Movilidad y Desarrollo Urbano Territorial emite o reforma las disposiciones aplicables.
+
+Décimo séptimo. Transferencia
+
+Los recursos del Fondo Estatal para la Movilidad previsto en la Ley de Transporte del Estado de Yucatán deberán ser transferidos al Fondo Estatal para la Movilidad previsto en esta ley.
+
+Décimo octavo. Revisión de oficio de las tarifas del servicio de transporte público
+
+La Agencia de Transporte de Yucatán llevará a cabo la primera revisión de oficio de las tarifas por el servicio de transporte público, a que se refiere el artículo 109 de la Ley de Movilidad y Seguridad Vial del Estado de Yucatán, en el año 2024.
