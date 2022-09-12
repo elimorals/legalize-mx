@@ -4,7 +4,7 @@ identifier: "VER-estatuto-organico-del-colegio-de-bachilleres-del-estado-de-1600
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-03-08"
-last_updated: "2021-03-08"
+last_updated: "2022-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE SEPTIEMBRE DE 2022.
 
 Estatuto publicado en el Tomo II al Número Extraordinario 94 de la Gaceta Oficial del Estado de Veracruz, el lunes 8 de marzo de 2021.
 
@@ -83,7 +83,15 @@ XIII. Unidad de Género
 
 XIV. Unidad de Transparencia.
 
+> <small>(ADICIONADA, G.O. 12 DE SEPTIEMBRE DE 2022)</small>
+
+XIV. Bis. Unidad de Comunicación Educativa
+
 XV. Direcciones de Plantel.
+
+> <small>(ADICIONADA, G.O. 12 DE SEPTIEMBRE DE 2022)</small>
+
+XV. Bis. Centros de Educación Media Superior a Distancia (EMSAD)
 
 XVI. Subdirecciones de Plantel.
 
@@ -215,9 +223,7 @@ XVI. Planear y coordinar las sesiones presenciales y virtuales de la H. Junta Di
 
 XVII. Planear y coordinar las sesiones presenciales y virtuales del Consejo Consultivo de Directores, no pudiendo ser menor a 4 sesiones por año.
 
-Dirección Académica
-
-### CAPÍTULO QUINTO
+### CAPÍTULO QUINTO. Dirección Académica
 
 ###### Artículo 7.
 
@@ -607,9 +613,35 @@ XVI. Supervisar la correcta organización de los archivos públicos de las disti
 
 XVII. Las demás que deriven de las disposiciones legales aplicables y las que expresamente le sean conferidas por las autoridades superiores.
 
-### CAPÍTULO DÉCIMO SÉPTIMO. Direcciones de Plantel
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 12 DE SEPTIEMBRE DE 2022)</small>
 
-### CAPÍTULO DÉCIMO OCTAVO. Subdirecciones de Plantel
+### CAPÍTULO DÉCIMO SEXTO BIS. Unidad de Comunicación Educativa
+
+> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 19 Bis.
+
+Son facultades de la Unidad de Comunicación Educativa, las siguientes:
+
+I. Instrumentar, coordinar y vigilar el cumplimiento de las normas aplicables en materia de comunicación social, así como las políticas establecidas por el Gobierno del Estado.
+
+II. Promover y apoyar la producción de medios de difusión para dar a conocer las actividades del COBAEV.
+
+III. Diseñar, coordinar y publicar los mensajes publicitarios necesarios para cubrir la demanda social sobre la información institucional.
+
+IV. Captar, analizar y procesar la información de los medios de comunicación referente a los acontecimientos realizados por la institución.
+
+V. Coordinar la edición y publicación, así como organizar la distribución de materiales impresos y digitales.
+
+VI. Mantener informada a la comunidad y a los medios de comunicación sobre las actividades desarrolladas por la Dirección General.
+
+VII. Organizar, coordinar y supervisar las ruedas de prensa sobre los diversos actos y eventos en los que participe el Director General o quien lo represente.
+
+VIII. Promover y supervisar que la imagen institucional publicada en los diversos medios, sea incluyente y transparente y cumpla con la normatividad aplicable.
+
+IX. Promover acciones que establezcan relaciones óptimas con los planteles para eficientar la difusión institucional.
+
+### CAPÍTULO DÉCIMO SÉPTIMO. Direcciones de Plantel
 
 ###### Artículo 20.
 
@@ -625,7 +657,9 @@ IV. Convocar a las academias por campos disciplinarios para dar el seguimiento a
 
 V. Administrar los recursos del plantel conforme al presupuesto asignado y la normatividad establecida.
 
-VI. Elaborar oportunamente la plantilla docente de cada semestre y presentarla para Su aprobación.
+> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Elaborar oportunamente la plantilla docente de cada semestre y presentarla para su aprobación.
 
 VII. Formar parte del Consejo Consultivo de Directores.
 
@@ -647,7 +681,7 @@ XV. Promover la actualización, capacitación y profesionalización del personal
 
 XVI. Autorizar los permisos del personal, tramitar las licencias sin goce de sueldo y supervisar las ausencias por incapacidad médica.
 
-XVII. Fortalecer los procesos de vinculación a través de convenios de colaboración con los sectores sociales, empresariales, industriales y corporativos, fortaleciendo una mejora continua para desarrollo académico de la comunidad escolar.
+XVII. Fortalecer los procesos de vinculación a través de convenios de colaboración con los sectores sociales, empresariales, industriales y corporativos, fortaleciendo una mejora continua para (sic) desarrollo académico de la comunidad escolar.
 
 XVIII. Organizar actividades de la comunidad que den proyección e imagen al plantel.
 
@@ -663,7 +697,53 @@ XXIII. Gestionar ante la Dirección administrativa las compras de materiales y e
 
 XXIV. Mantener vinculación permanente con la Coordinación de Zona y rendirle informe (sic) periódicos de su trabajo.
 
-### CAPÍTULO DÉCIMO NOVENO. Disposiciones Generales
+> <small>(ADICIONADO, G.O. 12 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 20 Bis.
+
+Son facultades de los Centros de Educación Media Superior a Distancia (EMSAD), las siguientes:
+
+I. Brindar atención educativa a estudiantes recién egresados de secundaria, posibilitando la inserción y permanencia en la Educación Media Superior en poblaciones pertenecientes a comunidades de baja densidad poblacional, a través de estrategias académicas que posibiliten el arraigo del estudiantado.
+
+II. Aplicar un modelo curricular flexible autorizado por la Dirección General de Bachillerato (DGB).
+
+III. Ofrecer una educación de excelencia, que posibilite la inserción del estudiantado a Instituciones de Educación Superior.
+
+IV. Implementar metodologías educativas diversificadas que incluyan el uso de materiales didácticos impresos, audiovisuales y visuales, así como el uso de las TICs como recurso en el proceso de enseñanza - aprendizaje.
+
+V. Ofrecer un servicio educativo adaptado a diferentes variantes de operación: escolarizada, semiescolarizada o mixta.
+
+VI. Promover el estudio independiente y brindar asesorías por asignatura, para el logro de los objetivos académicos.
+
+VII. Evaluar el aprendizaje del estudiantado a través de diversos instrumentos de evaluación utilizados en la evaluación diagnóstica, formativa y sumativa.
+
+VIII. Realizar los procesos de inscripción, reinscripción, documentación de la trayectoria escolar de los estudiantes, acreditación y certificación de estudios conforme a lo emitido por la Dirección Académica.
+
+IX. Coordinar las actividades de los centros EMSAD mediante la aplicación de procesos de planeación, organización, dirección y control que coadyuven al logro de las metas institucionales y a la mejora continua.
+
+X. Administrar los recursos del centro EMSAD, conforme al presupuesto asignado y la normatividad establecida.
+
+XI. Supervisar el cumplimiento del calendario escolar.
+
+XII. Supervisar la asistencia del personal docente y administrativo del centro EMSAD, llevando a cabo los procesos correspondientes para la autorización los permisos, el trámite de licencias sin goce de sueldo y la notificación de la ausencia del personal por incapacidad médica.
+
+XIII. Verificar que se cumpla con los planes y programas de estudio, conforme a la normatividad vigente y lineamientos emitidos por la Dirección Académica.
+
+XIV. Promover la actualización, capacitación y profesionalización del personal del centro EMSAD.
+
+XV. Propiciar la vinculación con la comunidad a través de actividades académicas que contribuyen al aprendizaje significativo de los estudiantes y a la proyección del centro EMSAD.
+
+XVI. Gestionar y armonizar las relaciones entre los miembros de la comunidad educativa.
+
+XVII. Gestionar ante la Dirección Administrativa, la compra de materiales y el pago de servicios necesarios para el funcionamiento del centro EMSAD conforme a las normas establecidas.
+
+XVIII. Coordinar campañas de promoción para el ingreso al centro EMSAD.
+
+XIX. Participar en el Consejo Consultivo de Directores.
+
+XX. Cumplir y hacer cumplir la normatividad, políticas y procedimientos del Colegio de Bachilleres del Estado de Veracruz, contribuyendo a la excelencia académica y a la eficiencia administrativa.
+
+### CAPÍTULO DÉCIMO OCTAVO. Subdirecciones de Plantel
 
 ###### Artículo 21.
 
@@ -680,6 +760,8 @@ IV. Coordinar y elaborar puntualmente los informes que le solicite la Dirección
 V. Desarrollar propuestas de mejora en el área presentándolas para su aprobación a la Dirección del Plantel y a su vez impactar en el desarrollo de competencias directivas.
 
 VI. Informar conforme a la normatividad aplicable los avances en el programa de trabajo.
+
+### CAPÍTULO DÉCIMO NOVENO. Disposiciones Generales
 
 ###### Artículo 22.
 
@@ -712,3 +794,21 @@ Quinto. En los casos en que el presente Estatuto requiera ser adecuado o actuali
 Sexto. Una vez que entre en vigor el presente Estatuto, la Dirección General del Colegio dispondrá lo necesario para que se circule, difunda y se haga del conocimiento de las instancias correspondientes.
 
 Dado en la sala de juntas de la Dirección General del Colegio de Bachilleres del Estado de Veracruz, en la ciudad de Xalapa-Enríquez, Veracruz de Ignacio de la Llave, a los 03 días del mes de marzo del año dos mil veintiuno. Lic. Zenyazen Escobar García, Secretario de Educación de Veracruz, Lic. José Luis Lima Franco, Secretario de Finanzas y Planeación, Dr. Andrés Aguirre Juárez, Director General y Presidente del Consejo Consultivo de Directores del COBAEV.— Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 12 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE ADICIONA DIVERSAS DISPOSICIONES AL ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES PARA EL ESTADO DE VERACRUZ, AUTORIZADO EN LA SEGUNDA SESIÓN EXTRAORDINARIA DE 03 DE MARZO DE 2021 MEDIANTE ACUERDO NÚMERO 1 COBAEV. 2SEV.03/03/2021".]
+
+Primero. El presente Estatuto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Acuerdo.
+
+Tercero. Los aspectos organizativos y procedimentales que, con anterioridad al presente ordenamiento legal, se hayan establecido y ejecutado en forma distinta a la prevista por el mismo, deberán ser ajustados a lo que aquí se disponga.
+
+Cuarto. La Dirección General expedirá los manuales que sean necesarios, con la aprobación de la Junta Directiva, para regular procedimientos específicos del Colegio. Mientras se expiden los manuales referidos, la Dirección General resolverá las cuestiones que dichos manuales deban regular.
+
+Quinto. En los casos en que el presente Estatuto requiera ser adecuado o actualizado para ajustarse estrictamente a los requerimientos del Colegio, la Dirección General resolverá las cuestiones concretas que considere pertinentes con la aprobación de la Junta Directiva.
+
+Sexto. Una vez que entre en vigor el presente Estatuto, la Dirección General del Colegio dispondrá lo necesario para que se circule, difunda y se haga del conocimiento de las instancias correspondientes.
