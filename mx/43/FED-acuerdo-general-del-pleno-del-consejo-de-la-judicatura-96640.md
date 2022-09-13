@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2022-05-31"
+last_updated: "2022-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2022.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1215,13 +1215,15 @@ El Comité deberá verificar que la contratación no trasgreda el derecho de las
 
 El Comité de Integridad estará conformado por las y los Titulares de:
 
-I. Contraloría del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
+
+I. Contraloría del Consejo de la Judicatura Federal, quien lo presidirá;
 
 II. Secretaría Ejecutiva de Carrera Judicial; y
 
 III. Dirección General de Recursos Humanos.
 
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 65 Quater.
 
@@ -1229,43 +1231,63 @@ El Comité de Integridad tendrá las siguientes atribuciones:
 
 I. Verificar que se haya efectuado un proceso de selección transparente de acuerdo al cargo, empleo o comisión que ocupará la persona propuesta en el Poder Judicial de la Federación, a fin de determinar si se produce o no un potencial o real conflicto de interés, o si pone en riesgo el derecho de acceder a cargos públicos en condiciones de igualdad;
 
-II. Emitir dentro de los diez días hábiles siguientes la opinión, no vinculante, respecto de la contratación y licencias superiores a diez días de personas que tengan relaciones familiares o de pareja con otros titulares. Las licencias urgentes podrán otorgarse sin la necesidad de obtener previamente la opinión del Comité, lo cual deberá hacerse de su conocimiento;
+II. Emitir dentro de los diez días hábiles, contados a partir del día siguiente a la recepción de la solicitud, la opinión, no vinculante, respecto de la contratación y licencias superiores a diez días de personas que tengan relaciones familiares o de pareja con otros titulares. Las licencias urgentes podrán otorgarse sin la necesidad de obtener previamente la opinión del Comité, lo cual deberá hacerse de su conocimiento;
 
 III. Emitir una guía para identificar y prevenir actos de nepotismo y conflictos de interés de las y los servidores públicos del Poder Judicial de la Federación, la cual deberá ser revisada y actualizada anualmente, y someterse a consideración del Pleno;
 
-IV. Nombrar y remover al Secretario Técnico del Comité de Integridad, para lo cual deberán elegir a una persona que tenga el nivel de secretaria o secretario técnico dentro de las áreas cuyos titulares forman parte del Comité; y
+IV. Nombrar y remover a la persona titular de la Secretaría Técnica del Comité de Integridad y su personal de apoyo, la cual estará adscrita a la Contraloría del Consejo de la Judicatura Federal; y
 
 V. Las demás que determine el Pleno del Consejo.
 
-Para el desarrollo y validez de las sesiones del Comité de Integridad, se estará a lo dispuesto por la Ley y los acuerdos generales del Pleno.
+Para el desarrollo y validez de las sesiones del Comité de Integridad, se estará a lo dispuesto por los acuerdos generales del Pleno.
 
-Las sesiones serán presididas por la persona titular de la Contraloría del Poder Judicial de la Federación.
+El Comité de Integridad emitirá las opiniones no vinculantes, por mayoría de sus integrantes de forma permanente; y podrá celebrar sesiones extraordinarias a solicitud de cualquiera de sus miembros, cuando la urgencia o trascendencia del caso lo amerite.
 
-Las opiniones que emita el Comité se acordarán por mayoría.
-
-> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 65 Quinquies.
 
-El Secretario Técnico del Comité de Integridad tendrá las siguientes funciones:
+La persona titular de la Secretaría Técnica del Comité de Integridad tendrá las siguientes funciones:
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 I. Convocar a las sesiones virtuales del Comité de Integridad;
 
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
 II. Preparar el orden del día de la sesión, así como los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que se requieran, de lo cual se remitirá copia a cada integrante del Comité de Integridad;
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 III. Elaborar y suscribir las actas de las sesiones para la aprobación del Comité de Integridad e integrarlas en el expediente respectivo;
 
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
 IV. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del propio Comité, cuando proceda su expedición;
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 V. Vigilar que el archivo de los documentos analizados por el Comité de Integridad esté completo y se mantenga actualizado, cuidando su conservación por el tiempo mínimo que establezcan las disposiciones aplicables;
 
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+
 VI. Notificar y dar seguimiento al cumplimiento de los acuerdos emitidos por el Comité de Integridad;
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
 VII. Llevar un registro de las opiniones emitidas por el Comité;
 
-VIII. Informar al titular consultante respecto de la opinión emitida por el Comité; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Las demás que le señale la normativa y el Comité de Integridad.
+VIII. Informar a la persona titular consultante respecto de la opinión emitida por el Comité;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Coordinar la impartición de talleres de sensibilización para identificar y prevenir actos de nepotismo o de conflicto de intereses; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD, D.O.F. 13 DE SEPTIEMBRE DE 2022)</small>
+
+X. Las demás que le señale la normativa y el Comité de Integridad.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, CON RELACIÓN A LA EXTINCIÓN DE LA UNIDAD DE ENLACE LEGISLATIVO, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
 
@@ -6752,3 +6774,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
 
 TERCERO. Hasta que entren en operación en todo el país los Tribunales Colegiados de Apelación, las referencias hechas a estos órganos jurisdiccionales en este Acuerdo, se entenderán aplicables a los Tribunales Unitarios de Circuito.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON EL FUNCIONAMIENTO DEL COMITÉ DE INTEGRIDAD”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
