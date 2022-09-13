@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2022-06-14"
+last_updated: "2022-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -499,13 +499,21 @@ I.- Organizar las oficinas y departamentos encargados de la administración y se
 
 II.- Iniciar leyes o decretos ante el Congreso del Estado para los asuntos de sus respectivas localidades.
 
-III.- Formular y aprobar los bandos de policía y buen gobierno, reglamentos y demás disposiciones administrativas de observancia general necesarios para la organización y funcionamiento de la administración y de los servicios municipales a su cargo y en todo caso expedir los reglamentos referentes a espectáculos públicos, pavimentación, limpieza, alumbrado público, rastros, mercados y centrales de abasto, panteones, vías públicas, nomenclatura de calles, parques, paseos, jardines, ornato de calles, inspección y vigilancia de construcciones de particulares, salones de baile, juegos permitidos, comercio ambulante, hospitales, casas de cuna, guarderías infantiles, siempre que no sean materia de competencia de otra autoridad.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
+III. Formular, aprobar, homologar con las leyes estatales o generales con las que se vinculen y mantener actualizados los bandos de policía y buen gobierno, reglamentos y demás disposiciones administrativas de observancia general necesarios para la organización y funcionamiento de la administración y de los servicios municipales a su cargo y en todo caso expedir los reglamentos referentes a espectáculos públicos, pavimentación, limpieza, alumbrado público, rastros, mercados y centrales de abasto, panteones, vías públicas, nomenclatura de calles, parques, paseos, jardines, ornato de calles, inspección y vigilancia de construcciones de particulares, salones de baile, juegos permitidos, comercio ambulante, hospitales, casas de cuna, guarderías infantiles, siempre que no sean materia de competencia de otra autoridad.
 
-En tratándose de la expedición de los reglamentos referentes a nomenclatura de calles, estos deberán de basarse en lo establecido en el Manual de Señalización Vial y Dispositivos de Seguridad emitido por la Secretaría de Comunicaciones y Transportes del Gobierno Federal.
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2022)</small>
 
-Los bandos y reglamentos sólo podrán entrar en vigor una vez que hayan sido aprobados por la mayoría de los miembros del Ayuntamiento, previa consulta pública y se publiquen en el Periódico Oficial del Estado.
+Así también deben formular, aprobar, homologar y mantener actualizados los reglamentos con los que obligadamente deben contar en observancia a leyes locales y generales para regular atribuciones que les son conferidas respecto a materias concurrentes en cuanto a su competencia.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2022)</small>
+
+En tratándose de la expedición de los reglamentos referentes a nomenclatura de calles, estos deberán de basarse en lo establecido en el Manual de Señalización Vial y Dispositivos de Seguridad emitido por la Secretaría de Comunicaciones y Transportes del Gobierno Federal
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2022)</small>
+
+Los bandos y reglamentos sólo podrán entrar en vigor una vez que hayan sido aprobados por la mayoría de los miembros del Ayuntamiento; previa consulta pública que podrá realizarse a través de su página oficial electrónica y su publicación en el Periódico Oficial del Estado.
 
 Para tal efecto, los Ayuntamientos remitirán los bandos y reglamentos al Ejecutivo Estatal para que ordene su publicación, quien podrá negarla si advierte que en los mismos se contienen disposiciones contrarias a la Constitución General de la República, a la Constitución Política del Estado, o a las Leyes que de ellas emanen. En este caso, el Ejecutivo enviará las observaciones al Congreso para que resuelva y proponga al Ayuntamiento, en su caso, las modificaciones conducentes. Hechas las correcciones se remitirán nuevamente al Ejecutivo para su publicación. Si el Congreso, considera infundados los argumentos del Ejecutivo, lo declarará así y le enviará dichos bandos o reglamentos para su publicación.
 
@@ -6544,3 +6552,15 @@ Los 43 Ayuntamientos de la Entidad tendrán hasta un año a partir de la entrada
 ###### ARTÍCULO TERCERO.
 
 Remítase a la Comisión de Derechos Humanos del Estado de Tamaulipas, para su seguimiento y atención, el presente Decreto, especialmente a lo referente en el Artículo Segundo Transitorio.
+
+P.O. 13 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-173 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO Y TERCERO, Y SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORIGEN NATURAL LOS PÁRRAFOS SUBSECUENTES DE LA FRACCIÓN III DEL ARTÍCULO 49 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez que entre en vigor el presente Decreto, remítase para su conocimiento y atención a los 43 Ayuntamientos del Estado, para su debida observancia.
