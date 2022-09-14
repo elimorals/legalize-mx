@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2022-08-17"
+last_updated: "2022-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -699,9 +699,17 @@ VII.- Emprender, en cooperación con quienes ejerzan la patria potestad, tutela 
 
 VIII.- Impartir y promover la educación sexual integral, así como conocimientos sobre la reproducción humana, la planificación familiar, la paternidad y maternidad responsables; así como la prevención de enfermedades de transmisión sexual, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, considerando los derechos, deberes y responsabilidades de quienes ejercen la patria potestad, tutela, guarda y custodia;
 
-IX.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
-X.- Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+IX.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+X.- Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+XI.- Fomentar el bienestar de la salud mental de las niñas, niños y adolescentes, a través de la implementación de programas, orientación, asesoría y en su caso, canalización de aquellas personas que lo necesiten a las instancias de salud correspondientes.
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LOS DERECHOS AL DESCANSO Y AL ESPARCIMIENTO
 
@@ -1724,6 +1732,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 17 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-171 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 69 TER, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-361 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X; Y SE ADICIONA LA FRACCIÓN XI, AL ARTÍCULO 38, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
