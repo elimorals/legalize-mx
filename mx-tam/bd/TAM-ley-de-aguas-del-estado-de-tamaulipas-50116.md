@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2022-07-01"
+last_updated: "2022-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -499,8 +499,6 @@ XXVI. Ser instancia de atención y trámite de requerimientos y asesoría a usua
 
 XXVII. Coordinarse con las instancias federales, estatales, municipales e internacionales para participar, en el ámbito de su competencia, en la evaluación y, en su caso, autorización de los programas, proyectos y ejecución de las obras que incidan en el uso, manejo, control, explotación, aprovechamiento del agua, tratamiento y reuso de las aguas residuales y residuales tratadas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 XXVIII. Coordinarse con las instancias federales, estatales y municipales para participar en el ámbito de su competencia, en la verificación del cumplimiento de lo que establece el Código para el Desarrollo Sustentable del Estado;
@@ -529,7 +527,9 @@ XXXIX. Actuar con las atribuciones y competencia que la presente ley otorga a lo
 
 XL. Promover, apoyar, en su caso, o gestionar ante las dependencias y entidades federales las asignaciones, concesiones y permisos para dotar de agua a los centros de población;
 
-XLI. Promover la cultura del agua para fomentar un cambio de hábitos hacía su utilización nacional entre los usuarios de los servicios públicos;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+XLI. Promover la cultura del agua para fomentar un cambio de hábitos hacía su utilización racional entre los usuarios de los servicios públicos, así como elaborar el semáforo del cuidado del agua, en el que se establecerán recomendaciones para su consumo, de acuerdo con el color del semáforo, tomando en cuenta la disponibilidad del agua en cada municipio o región del Estado y será publicado en el Periódico Oficial del Estado y comunicado a la población durante todo el año;
 
 XLII. Impulsar la autosuficiencia técnica, administrativa y financiera de los organismos operadores en la prestación de los servicios públicos;
 
@@ -681,7 +681,9 @@ XIV. Presentar al Ejecutivo del Estado el Plan Estratégico de Desarrollo del Se
 
 XV. Presentar al Ejecutivo del Estado el Programa Hidráulico de la Administración;
 
-XVI. Aprobar el Programa Operativo Hidráulico Anual que presente el Director General de la Comisión, durante el bimestre anterior a cada ejercicio fiscal;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+XVI. Aprobar el Programa Operativo Hidráulico Anual que presente el Director General de la Comisión, durante el bimestre anterior a cada ejercicio fiscal; así como los lineamientos para la operación del semáforo del cuidado del agua;
 
 XVII. Aprobar la normatividad operativa para el Sector Agua del Estado que deban aplicar los prestadores de servicios públicos, conforme a los convenios que para mejorar la eficiencia de sus operaciones tengan celebrados con la Comisión;
 
@@ -813,9 +815,9 @@ XXXVII. Resolver los recursos administrativos que los usuarios presenten contra 
 
 XXXVIII. Resolver, de conformidad con el Código Fiscal del Estado y con los convenios que para tal efecto se celebren, los recursos administrativos que se presenten contra los actos que dicte dentro del procedimiento administrativo de ejecución, para hacer efectivos los créditos que determinen los organismos operadores a cargo de los usuarios;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
-XXXIX. Elaborar y ejecutar programas para promover la cultura del agua en toda la entidad federativa;
+XXXIX. Elaborar y ejecutar programas para promover la cultura del agua en toda la entidad federativa; así como elaborar periódicamente durante cada año, los lineamientos necesarios para el funcionamiento del semáforo del cuidado del agua, mismo que será publicado y comunicado a la población durante todo el año;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -837,7 +839,9 @@ La vigilancia de la Comisión estará a cargo de un Comisario, designado por la 
 
 1. Los municipios tendrán a su cargo los servicios públicos en todos los asentamientos humanos de su circunscripción territorial, los que podrán ser prestados directamente por la dependencia municipal que corresponda, o bien por los prestadores de los servicios en los términos de lo dispuesto en esta ley.
 
-2. Sin perjuicio de lo establecido en el párrafo anterior, en términos de lo dispuesto por el artículo 132 de la Constitución Política del Estado, los ayuntamientos, cuando sea necesario, podrán celebrar convenios con el Estado para que éste, a través de la Comisión, se haga cargo temporalmente, en forma parcial o total, de los servicios públicos de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reuso de aguas residuales y reuso de las aguas residuales tratadas, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+2. Sin perjuicio de lo establecido en el párrafo anterior, en términos de lo dispuesto por el artículo 132 de la Constitución Política del Estado, los ayuntamientos, cuando sea necesario, podrán celebrar convenios con el Estado para que éste, a través de la Comisión, se haga cargo temporalmente, en forma parcial o total, de los servicios públicos de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de aguas residuales y reúso de las aguas residuales tratadas, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio. En este caso, la Comisión podrá hacer recomendaciones a los Municipios, para el correcto funcionamiento del semáforo del cuidado del agua.
 
 3. Asimismo, en los términos del propio artículo 132 de la Constitución Particular del Estado, cuando la Legislatura del Estado, en los casos en que no exista el convenio correspondiente y previa solicitud que le sea presentada por el Ayuntamiento, considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos, expedirá y remitirá al Ejecutivo del Estado el decreto correspondiente, indicando el tiempo, las condiciones y la circunscripción territorial en que deberá asumir la prestación de los servicios.
 
@@ -893,9 +897,9 @@ XX. Otorgar los permisos de descargas de aguas residuales a los sistemas alcanta
 
 XXI. Aplicar las sanciones por las infracciones que se cometan a esta ley y sus reglamentos;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
-XXII. Llevar a cabo campañas continuas de cultura del agua entre la población, primordialmente para promover el uso racional del agua, evitar su contaminación y colaborar en el cuidado y preservación de los servicios públicos;
+XXII. Llevar a cabo campañas continuas de cultura del agua entre la población, primordialmente para promover el uso racional del agua, evitar su contaminación y colaborar en el cuidado y preservación de los servicios públicos; así mismo vigilarán el funcionamiento del semáforo del cuidado del agua.
 
 > <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1229,7 +1233,9 @@ XV. Rendir al o a los ayuntamientos, en su caso, el informe anual de actividades
 
 XVI. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
 
-XVII. Ordenar que se practiquen las visitas de inspección y verificación, de conformidad con lo señalado en el presente ordenamiento;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+XVII. Ordenar que se practiquen las visitas de inspección y verificación, de conformidad con lo señalado en el presente ordenamiento; incluyendo las derivadas de las recomendaciones de las medidas establecidas en el semáforo del cuidado del agua;
 
 XVIII. Ordenar que se practiquen en forma regular y periódica, muestras y análisis del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable;
 
@@ -3246,3 +3252,15 @@ P.O. 1 DE JULIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-360 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Estatal del Agua de Tamaulipas elaborará el semáforo del cuidado del agua, en el que se establecerán las medidas de cuidado, de acuerdo con el color del semáforo, tomando en cuenta la disponibilidad del agua en cada municipio o región del Estado, dentro de los 120 días siguientes a la publicación del presente Decreto.
