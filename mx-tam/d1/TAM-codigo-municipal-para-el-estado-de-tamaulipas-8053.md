@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2022-09-13"
+last_updated: "2022-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1390,6 +1390,38 @@ III.- Promover la creación del Fondo de Desastres Municipal, para la atención 
 IV.- Proponer las acciones y programas sobre la materia, en el Plan Municipal de Desarrollo; y
 
 V.- Proponer al Ayuntamiento la celebración de convenios de colaboración y coordinación en materia de esta ley.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTICULO 76 Quater.
+
+El cronista municipal es la persona que por encargo del Ayuntamiento tiene como labor fundamental el registro de sucesos notables acaecidos dentro del municipio, así como investigar, sistematizar, publicar, conservar, exponer y promover la cultura, las tradiciones e historia del mismo.
+
+La Administración Pública Municipal le prestará todas las facilidades materiales y económicas que sean necesarias para el cumplimiento de su labor; contará con los recursos que se deriven del trabajo coordinado con las instituciones públicas y privadas que tengan injerencia en la investigación, acervo y difusión de la cultura municipal.
+
+El nombramiento del cronista municipal recaerá en una persona que se distinga por su labor y conocimiento de la historia y la cultura del municipio, y que tenga, además, la vocación de registrar y difundir los valores y tradiciones de la localidad. En el caso de dos o más municipios vecinos, estos podrán convenir en la designación de una persona para el cargo de cronista regional.
+
+Son facultades y obligaciones del cronista municipal, las siguientes:
+
+I.- Registrar literaria y documentalmente los personajes y acontecimientos relevantes de la comunidad;
+
+II.- Elaborar escritos referentes a la vida e historia de la comunidad;
+
+III.- Colaborar en la sistematización y difusión del acervo documental del archivo histórico del Ayuntamiento;
+
+IV.- Fungir como investigador, asesor, promotor y expositor de la cultura de la comunidad municipal;
+
+V.- Elaborar monografías de la vida institucional del municipio, para crear conciencia cívica, fortalecer la identidad y el arraigo local de las y los habitantes;
+
+VI.- Proponer la creación, modificación o cambio de himnos, lemas, calles, avenidas y/o colonias del municipio;
+
+VII.- Coadyuvar en el fomento y difusión de eventos culturales, tradiciones y costumbres locales o regionales;
+
+VIII.- Promover la inserción en los medios de comunicación de noticias, boletines y reportajes sobre el municipio y sus instituciones;
+
+IX.- Emitir opiniones cuando las autoridades así lo requieran sobre acontecimientos históricos del municipio; y
+
+X.- Las demás que el Ayuntamiento le asigne.
 
 ### CAPITULO XIII. DE LOS ORGANISMOS DE COLABORACION
 
@@ -6564,3 +6596,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Una vez que entre en vigor el presente Decreto, remítase para su conocimiento y atención a los 43 Ayuntamientos del Estado, para su debida observancia.
+
+P.O. 14 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-363 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 76 QUATER AL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
