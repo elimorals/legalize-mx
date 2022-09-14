@@ -4,7 +4,7 @@ identifier: "TAB-ley-sobre-los-derechos-de-las-personas-con-discapacidad-81674"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-01"
-last_updated: "2020-06-26"
+last_updated: "2022-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 1 de junio de 2001.
 
@@ -1201,6 +1201,10 @@ En los sanitarios de uso público deberá instalarse, cuando menos, un lavamanos
 
 Los comedores de autoservicio, restaurantes y cafeterías, deberán contar cuando menos con dos mesas de forma rectangular, estratégicamente colocadas, que tengan una altura de setenta y cinco centímetros libres del piso a la parte inferior de la mesa, con la finalidad de brindar comodidad a comensales en sillas de ruedas.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+Asimismo, deberán contar con el menú respectivo en Código Braille o en Sistema Auditivo Electrónico, para ser proporcionado a las personas con discapacidad visual, que lo requieran.
+
 ###### ARTÍCULO 119.
 
 En los auditorios, salas de cine, teatros, salas de conciertos y de conferencias, centros recreativos, y en general cualquier recinto en que se presenten espectáculos, deberán establecerse estratégicamente espacios reservados a las personas con discapacidad imposibilitadas para hacer uso de los asientos o butacas con que cuente el recinto; asimismo, se procurará que en esos inmuebles se eliminen las barreras arquitectónicas contempladas en esta Ley.
@@ -1690,3 +1694,19 @@ El presente Decreto entrará en vigor a partir del día siguiente de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 071 ARTÍCULO ÚNICO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 DE LA LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los noventa días a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días previos a la entrada en vigor del presente Decreto deberán elaborarse los menús en Código Braille y en Sistema Auditivo, a fin de dar el debido cumplimiento a la disposición que se adiciona.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
