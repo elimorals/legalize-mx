@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2022-01-20"
+last_updated: "2022-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -1007,17 +1007,21 @@ e) garantizar acciones y mecanismos que favorezcan el progreso de las mujeres en
 
 f) celebrar convenios de colaboración, coordinación y concertación en la materia;
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
-g) implementar acciones educativas destinadas a prevenir y atender la violencia contra las mujeres en la comunidad para identificar los actos constitutivos de delitos; y
+g) implementar acciones educativas destinadas a prevenir y atender la violencia contra las mujeres en la comunidad para identificar los actos constitutivos de delitos;
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
-h) Coordinarse con la Secretaría de Bienestar Social, para elaborar programas de otorgamiento de becas específicas para mujeres víctimas de violencia y/o que se encuentren en contexto de peligro, así como para sus dependientes económicos, que les permitan desarrollar los ciclos educativos básicos y en su caso, de educación media superior y superior.
+h) coordinarse con la Secretaría de Bienestar Social, para elaborar programas de otorgamiento de becas específicas para mujeres víctimas de violencia y/o que se encuentren en contexto de peligro, así como para sus dependientes económicos, que les permitan desarrollar los ciclos educativos básicos y en su caso, de educación media superior y superior;
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
-i) Las demás que le confieran esta ley u otros ordenamientos aplicables.
+i) elaborar en coordinación con el Instituto de las Mujeres en Tamaulipas, un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual; y
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+j) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2018)</small>
 
@@ -1039,9 +1043,15 @@ f) tomar medidas y realizar las acciones necesarias, en coordinación con las de
 
 g) celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-h) establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Estatal y del Programa; e
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
-i) las demás previstas para el cumplimiento de la presente ley.
+h) establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Estatal y del Programa;
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+i) elaborar en coordinación con el Instituto de las Mujeres en Tamaulipas, un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual; y
+
+j) las demás previstas para el cumplimiento de la presente ley.
 
 ###### Artículo 18.
 
@@ -1107,11 +1117,15 @@ i) celebrar convenios de colaboración, coordinación y concertación en la mate
 
 j) monitorear y dar seguimiento al funcionamiento de los refugios, de acuerdo a los lineamientos del Modelo de Atención en Refugios para mujeres víctimas de violencia y sus hijas e hijos, para lo cual podrá solicitar la participación del Consejo Consultivo Ciudadano;
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
-k) difundir los criterios interpretativos y jurisdiccionales emitidos por las instancias judiciales, que contribuyan a erradicar la violencia contra la mujer en todas sus formas, para que sean referentes en la creación de políticas públicas; y
+k) difundir los criterios interpretativos y jurisdiccionales emitidos por las instancias judiciales, que contribuyan a erradicar la violencia contra la mujer en todas sus formas, para que sean referentes en la creación de políticas públicas;
 
-l) las demás que le confieren esta ley u otros ordenamientos aplicables.
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
+l) participar de manera coordinada con la Secretaría de Educación y con la Secretaría del Trabajo, en la elaboración e implementación de un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual; y
+
+m) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 2. Para el cumplimiento de sus atribuciones, el Instituto dispondrá de los procedimientos que le otorga la ley, efectuará oportunamente las previsiones pertinentes y justificará su actuación.
 
@@ -1490,3 +1504,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Gobierno del Estado de Tamaulipas, se asegurará de contar con personal administrativo, ministerial y judicial, capacitado sobre el contenido de la presente reforma.
+
+P.O. 14 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-362 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
