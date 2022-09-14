@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2022-07-14"
+last_updated: "2022-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MAYO DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -2381,7 +2383,7 @@ VIII. Alterar, destruir, perder o perturbar ilícitamente el lugar de los hechos
 
 Se impondrá suspensión de tres meses a tres años y multa de diez a treinta días, al defensor de oficio de un inculpado, que sólo se concrete a aceptar el cargo o a solicitar la libertad caucional, sin promover injustificadamente las pruebas conducentes o que no interponga los recursos procedentes contra las resoluciones en que se adviertan violaciones notorias a la Ley.
 
-(NOTA: EL 18 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 8 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 18 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 8 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
 
@@ -3739,6 +3741,8 @@ El que pudiendo impedir un suicidio no lo haga o impidiere que otro lo evite, se
 
 ### CAPÍTULO II. ABIGEATO
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 366.
 
 Al que prive de la vida a cualquier ascendiente consanguíneo, en línea recta o a su padre o madre adoptiva, conociendo el delincuente ese parentesco, se le aplicará de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días.
@@ -3935,69 +3939,67 @@ Si precediere, acompañare o siguiere al robo algún otro hecho que por sí solo
 
 ###### ARTÍCULO 388.
 
-Comete el delito de abigeato, el que se apodera de una o más cabezas de ganado ajeno cualquiera que sea su especie, sin consentimiento de quien legalmente puede disponer de ellas.
+Comete el delito de abigeato, quien por sí o por interpósita persona se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente puede disponer de ellas.
+
+Se considerará ganado para los efectos de este delito las especies bovina, equina, asnal, mular, ovina, caprina, porcina o de una o más colonias de abejas en un apiario; así como aquel domesticado, bravo, de pezuña, ganado mayor, ganado menor o ganado diversificado, independientemente de la actividad típica del animal.
+
+A la persona responsable del delito de abigeato consumado se le sancionará conforme a las reglas siguientes:
+
+I. De seis meses a tres años de prisión y multa por el importe de ocho a treinta y cinco veces el valor diario de la Unidad de Medida y Actualización, cuando el valor del ganado producto del delito no exceda del importe de trescientas veces el valor diario de la Unidad de Medida y Actualización;
+
+II. De dos a seis años de prisión y multa por el importe de ocho a cincuenta y cinco veces el valor diario de la Unidad de Medida y Actualización, cuando el valor exceda del monto señalado, en la fracción anterior, pero no de ochocientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+III. De cuatro a once años de prisión y multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización, cuando el importe del ganado producto del delito exceda de ochocientas veces el valor diario de la Unidad de Medida y Actualización.
+
+El delito de abigeato se perseguirá por querella de parte cuando su producto no exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización y no se trate de abigeato calificado.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 389.
 
-Al responsable del delito de abigeato consumado en ganado bovino, equino, mular o asnal se le sancionará conforme a las reglas siguientes:
+El delito de abigeato será calificado y la pena se aumentará de un cuarto hasta en una mitad más de las sanciones previstas en el artículo 388 de este Código cuando:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+I. Sea cometido por quien tenga una relación laboral, de confianza, o de parentesco por afinidad o consanguinidad hasta el cuarto grado con la persona propietaria del ganado;
 
-I. Si el apoderamiento fuere de una cabeza de ganado, se sancionará con prisión de dos a cinco años y multa de diez a cincuenta días;
+II. El delito se ejecute mediante violencia física o moral,
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+III. Sea cometido por dos o más personas, o
 
-II. Si el apoderamiento fuere de dos a diez cabezas de ganado, se sancionará con prisión de cuatro a ocho años de prisión y multa de quince a sesenta días, y
+IV. El delito sea cometido por un servidor público de los mencionados en la Ley Ganadera para el Estado de Nayarit o que realicen actividades afines.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-III. Si el apoderamiento excediere de diez cabezas de ganado, se sancionará con prisión de seis a diez años y multa de veinte a setenta días.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 390.
 
-Cuando el abigeato recaiga sobre ganado caprino, ovino o porcino, el delito se sancionará conforme a las reglas siguientes:
+Cuando la conducta a que se refiere el primer párrafo del artículo 388 se cometa por una asociación delictuosa, banda o pandilla, además de las penas que correspondan al delito de abigeato, se sancionará con las señaladas en los artículos 187 y 189 del presente código, según sea el caso.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-I. Si el apoderamiento fuere de una cabeza de ganado, se sancionará con prisión de uno a tres años y multa de uno a diez días;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-II. Si el apoderamiento fuere de dos a diez cabezas de ganado, se sancionará con prisión de dos a cuatro años de prisión y multa de siete a treinta días, y
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-III. Si excediere de diez cabezas de ganado, se sancionará con prisión de tres a cinco años y multa de diez a cuarenta días.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 391.
 
-Además de las sanciones señaladas en los artículos anteriores, se aumentará la sanción de seis meses a tres años de prisión, cuando se realice en cualquiera de las circunstancias siguientes:
-
-I. Quebrantando la confianza o seguridad de una relación de servicio, trabajo o contractual entre el sujeto activo y el ofendido;
-
-II. Aprovechándose de las condiciones de confusión que se produzcan por desorden público o invasión de los terrenos donde pasten los semovientes, y
-
-III. Si el apoderamiento a que se refiere este artículo, se verifica con violencia física o moral, o de noche, o por dos o más personas.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+Además de las sanciones señaladas en los artículos anteriores, se aumentará la sanción de dos años a tres años de prisión, cuando se realice aprovechándose de las condiciones de la confusión que se produzcan por desorden público o invasión de los terrenos donde pasten los semovientes.
 
 ###### ARTÍCULO 392.
 
-Al responsable del delito de robo consumado en un apiario, se le sancionará de uno a cuatro años de prisión y multa de cinco a veinte días.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2022)
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 393.
 
-Las mismas sanciones que señalan los dos artículos anteriores se aplicarán a los que adquieran animales robados, según su especie, así como a las autoridades que intervengan en la legalización de documentos que acrediten la propiedad de los animales, si no tomaron aquéllos o éstas, las medidas ordinarias para cerciorarse de la procedencia legítima de los propios animales.
+Las mismas sanciones que señalan los artículos 388 y 389 se aplicarán a quien o quienes adquieran animales robados, así como a las autoridades que intervengan en la legalización de documentos que acrediten la propiedad de los animales, si no tomaron aquellos o estas, las medidas ordinarias para cerciorarse de la procedencia legitima de los propios animales.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 394.
 
-Se equipara al abigeato y se le aplicarán las mismas sanciones que respectivamente señalan los artículos 389 y 390 de este Código, al que ampare una o más cabezas de ganado robado con documentación alterada o expedida a nombre de otro.
+Se equipara al abigeato y se le aplicarán las mismas sanciones que señalan los artículos 388 y 389 de este Código, a quien ampare una o más cabezas de ganado robado con documentación alterada o expedida a nombre de otro.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 395.
 
-Al que transporte ganado de procedencia ilegal, sin haber tomado las medidas necesarias para cerciorarse de su procedencia legítima, se le impondrá de seis meses a cuatro años de prisión y multa de tres a quince días.
+A quien transporte ganado de procedencia ilegal, sin haber tomado las medidas necesarias para cerciorarse de su procedencia, se aplicarán las mismas sanciones que señalan los artículos 388 y 389 de este Código.
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -4746,3 +4748,9 @@ P.O. 14 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIOINES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE CIBERVIOLENCIA O VIOLENCIA A LA INTIMIDAD SEXUAL, ASÍ COMO EN SU MODALIDAD DE DEEPFAKE”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 14 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE ABIGEATO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
