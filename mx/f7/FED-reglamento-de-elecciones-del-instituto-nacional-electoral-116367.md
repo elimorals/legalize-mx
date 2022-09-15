@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2022-06-01"
+last_updated: "2022-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 1 DE JUNIO DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 15 DE SEPTIEMBRE DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2022.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -8031,6 +8031,8 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE REFORMAS AL ANEXO 19.3 PROCEDIMIENTO Y PROTOCOLO DE SEGURIDAD PARA LA GENERACIÓN, IMPRESIÓN, ENTREGA, DEVOLUCIÓN Y DESTRUCCIÓN DE LAS LISTAS NOMINALES DE ELECTORES PARA SU USO EN LAS JORNADAS ELECTORALES, EN EL D.O.F. DE 23 DE OCTUBRE DE 2020, PÁGINA 441; D.O.F. DE 11 DE MARZO DE 2021, PÁGINA 126.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 21.2 LINEAMIENTOS DEL VOTO ELECTRÓNICO POR INTERNET PARA LAS MEXICANAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO, EN EL D.O.F. DE 15 DE SEPTIEMBRE DE 2022, PÁGINAS DE LA 106 A LA 124.]</small>
+
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 12 DE DICIEMBRE DE 2016.
@@ -9482,5 +9484,69 @@ El Acuerdo completo se encuentra disponible para su consulta en la dirección el
 Página INE: https://ine.mx/sesion-extraordinaria-del-consejo-general-09-de-mayo-de-2022/
 
 Página DOF: www.dof.gob.mx/2022/INE/CGext202205_09_ap_8.pdf
+
+D.O.F. 15 DE SEPTIEMBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE DA CUMPLIMIENTO A LA SENTENCIA DICTADA EL VEINTINUEVE DE JUNIO DE DOS MIL VEINTIDÓS POR LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN EN EL RECURSO DE APELACIÓN IDENTIFICADO CON EL NÚMERO DE EXPEDIENTE SUP-RAP-141/2022, RESPECTO DEL ACUERDO INE/CG346/2022 POR EL CUAL ESTE CONSEJO GENERAL APROBÓ LAS MODIFICACIONES AL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, EN MATERIA DE VOTO ELECTRÓNICO POR INTERNET PARA LAS MEXICANAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO; ASÍ COMO LA APROBACIÓN Y PUBLICACIÓN DE SU ANEXO 21.2 RELATIVO A LOS LINEAMIENTOS DEL VOTO ELECTRÓNICO POR INTERNET PARA LAS MEXICANAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. En acatamiento a la resolución dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación recaída al expediente SUP-RAP-141/2022, respecto al acuerdo INE/CG346/2022 del Consejo General del Instituto Nacional Electoral, se modifica en lo conducente el mismo, así como los numerales 11 y 63 de los Lineamientos del voto electrónico por internet para las mexicanas y los mexicanos residentes en el extranjero, identificado como Anexo 21.2 del Reglamento de Elecciones del Instituto Nacional Electoral, los que se adjuntan en su versión actualizada y forman parte del presente Acuerdo.
+
+SEGUNDO. Se modifican los numerales 11 y 63 del Anexo 21.2 del Reglamento de Elecciones del Instituto Nacional Electoral relativo a los Lineamientos del voto electrónico por internet para las mexicanas y los mexicanos residentes en el extranjero, conforme al Considerando Tercero del presente Acuerdo, para quedar como sigue:
+
+Dice Debe decir
+
+11. En el caso de elecciones 11. En el caso de elecciones
+
+extraordinarias, el Consejo extraordinarias, el Consejo General
+
+General determinará la utilización o no determinará la utilización o no del SIVEI,
+
+del SIVEI, la realización o no de la realización o no de auditorías, así como
+
+auditorías, así como la la realización o no del periodo de
+
+realización o no del periodo de socialización, para lo cual se deberán
+
+socialización, para lo cual se deberán tomar en consideración la complejidad
+
+tomar en consideración la complejidad de las condiciones en las que se
+
+de las condiciones en las que se desarrollará el proceso, entre otras.
+
+desarrollará el proceso, la Cualquier determinación al respecto,
+
+suficiencia presupuestaria, entre otras. deberá estar debidamente justificada.
+
+Cualquier determinación al respecto,
+
+deberá estar debidamente justificada.
+
+63. El SIVEI será auditado con la 63. El SIVEI será auditado con la
+
+finalidad de evaluar su funcionalidad finalidad de evaluar su funcionalidad y
+
+y seguridad, así como los seguridad, así como los aspectos
+
+aspectos de configuración de sus de configuración de sus
+
+componentes informáticos, siempre componentes informáticos.
+
+y cuando se cuenten con los recursos
+
+presupuestales para tal efecto.
+
+TERCERO. Se deja intocado y subsistente en sus términos el resto del contenido del Acuerdo INE/CG346/2022, al que no se hace referencia en el presente Acuerdo.
+
+CUARTO. Se instruye a la Unidad Técnica de Servicios de Informática, a realizar las gestiones necesarias ante la Dirección Jurídica, para que se integre en el compilado de anexos del Reglamento de Elecciones del Instituto Nacional Electoral, las modificaciones al Anexo 21.2 relativo a los Lineamientos del voto electrónico por internet para las mexicanas y los mexicanos residentes en el extranjero, en cumplimiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el recurso de apelación SUP-RAP-141/2022.
+
+QUINTO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales para que a la brevedad informe su contenido a las presidencias de los Órganos Superiores de Dirección de los Organismos Públicos Locales de las entidades federativas, a fin de que lo informen a las y los integrantes de dichos Órganos y realicen las previsiones correspondientes para los Procesos Electorales Locales.
+
+SEXTO. Se instruye al Secretario Ejecutivo, a través de la Dirección Jurídica, informar a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, dentro del término de veinticuatro horas contadas a partir de la aprobación del presente Acuerdo, el cumplimiento dado a la sentencia emitida en el expediente SUP-RAP-141/2022.
+
+SÉPTIMO. El presente Acuerdo y las modificaciones realizadas al Acuerdo INE/CG346/2022, así como al Anexo 21.2 del Reglamento de Elecciones del Instituto Nacional Electoral relativo a los Lineamientos del voto electrónico por Internet para las mexicanas y los mexicanos residentes en el extranjero, por las que se da cumplimiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el recurso de apelación SUP-RAP-141/2022 entrarán en vigor al día siguiente de su aprobación por parte de este Consejo General.
+
+OCTAVO. Publíquese el presente Acuerdo y su Anexo en la Gaceta Electoral, en NormaINE y en el portal de internet del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
