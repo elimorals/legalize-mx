@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2021-12-18"
+last_updated: "2022-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -136,15 +136,17 @@ El importe que se forme con los porcentajes señalados se distribuirá entre los
 
 Los Municipios recibirán y manejarán los recursos transferidos por el Estado mediante cuentas bancarias específicas para cada Fondo a efecto de transparentar y facilitar la fiscalización en su aplicación.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 15 DE SEPTIEMBRE DE 2022, PÁGINAS DE LA 3 A LA 4.]</small>
+
 ###### Artículo 7°.
 
 El factor que a cada Municipio corresponda en el Fondo Municipal de Participaciones, se determinará conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 15 DE SEPTIEMBRE DE 2022)</small>
 
 I. De los ingresos federales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 15 DE SEPTIEMBRE DE 2022)</small>
 
 Se aplicarán los siguientes criterios y parámetros:
 
@@ -170,13 +172,11 @@ c) 20% en función a su propia recaudación, es decir, lo que perciban por conce
 
 d) 10% por número de localidades y la extensión territorial en función de la totalidad de ellos, y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2022)</small>
 
-e) 5% en proporción al índice de marginación, según la última información oficial que dé a conocer el Consejo Nacional de Población, o la Institución responsable de medir la marginación en el país.
+e) 5% en proporción al índice de marginación, según la última información oficial que dé a conocer el Consejo Nacional de Población, o la Institución responsable de medir la marginación en el país. El cual se deberá obtener ejecutando la siguiente formula:
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
-
-En el caso de que el Congreso del Estado apruebe la creación de nuevos municipios, la garantía señalada en el numeral 1) de esta fracción, se dividirá de manera proporcional a los habitantes que conformen cada municipio resultante de la división.
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 15 DE SEPTIEMBRE DE 2022, PÁGINAS DE LA 3 A LA 4.]</small>
 
 II. De los impuestos estatales.
 
@@ -292,9 +292,11 @@ a) 70% en función directa al número de habitantes de cada municipio, en relaci
 
 b) 30% en proporción al índice de marginación, según la última información oficial que dé a conocer el Consejo Nacional de Población, o la institución responsable de medir la marginación en el país.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2022)</small>
+
 A través de un fondo denominado FIEPS, de conformidad con la fórmula siguiente:
 
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. 14 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 4 A LA 5.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 15 DE SEPTIEMBRE DE 2022, PÁGINAS DE LA 4 A LA 5.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -681,3 +683,9 @@ SEGUNDO.- El Titular del Ejecutivo del Estado, por conducto de la Secretaria de 
 TERCERO.- La operación y funcionamiento del Fideicomiso Fondo para la Infraestructura Educativa del Estado de Jalisco se sujetará a las disposiciones de la legislación aplicable, para el cumplimiento de los fines a que este Decreto se refiere.
 
 CUARTO.- El Comité Técnico del Fideicomiso deberá aprobar y expedir sus lineamientos de administración y operación, para el cumplimiento de los fines a que este decreto se refiere.
+
+P.O. 15 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28825/LXIII/2022 QUE REFORMA LOS ARTÍCULOS 7 Y 10 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+Único. El presente decreto surtirá efectos a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
