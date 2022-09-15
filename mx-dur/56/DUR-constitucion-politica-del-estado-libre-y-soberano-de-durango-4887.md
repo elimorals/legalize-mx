@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2022-09-08"
+last_updated: "2022-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -410,6 +410,14 @@ Las autoridades estatales y municipales desarrollarán planes y programas para l
 Se declara de interés público y de prioridad para las autoridades del Estado la conservación de los ecosistemas, la biodiversidad y la recuperación de los espacios naturales degradados.
 
 Todo daño al ambiente, además de las correspondientes sanciones, conllevará la obligación de restaurar el ecosistema dañado e indemnizar a las personas y comunidades afectadas.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Esta Constitución reconoce a los animales como seres sintientes, que por su naturaleza son sujetos de responsabilidad común. Toda persona tiene un deber ético y obligación jurídica de respetar la vida y la integridad de los animales.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Las autoridades estatales y municipales garantizarán la protección, bienestar y el trato digno y respetuoso de los animales; fomentarán una cultura de cuidado y tutela responsable. La Ley determinará las conductas prohibidas con objeto de proteger a los animales y las sanciones aplicables por los actos de maltrato y crueldad.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -4510,3 +4518,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El Congreso del Estado deberá realizar los ajustes legales correspondientes para dar cumplimiento al presente decreto en un plazo que no exceda de 90 días a partir de la entrada en vigor del mismo.
+
+P.O. 15 DE SEPTIEMBRE DE 2022.
+
+[N. DE. E TRANSITORIOS DEL “DECRETO NO. 523.- QUE CONTIENE ADICIÓN A LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
