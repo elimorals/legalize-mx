@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-75698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2022-06-02"
+last_updated: "2022-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75698&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-07-13"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2022.
 
 Reglamento publicado en la Octava Sección del Diario Oficial de la Federación, el miércoles 28 de julio de 2010.
 
@@ -45,11 +45,21 @@ Adicionalmente a las definiciones contenidas en el artículo 2 de la Ley, para l
 
 I. Área contratante: la facultada en la dependencia o entidad para realizar procedimientos de contratación a efecto de adquirir o arrendar bienes o contratar la prestación de servicios que requiera la dependencia o entidad de que se trate;
 
-II. Área requirente: la que en la dependencia o entidad, solicite o requiera formalmente la adquisición o arrendamiento de bienes o la prestación de servicios, o bien aquélla que los utilizará;
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+II. Área requirente: aquélla que en la dependencia o entidad, solicite o requiera formalmente la adquisición o arrendamiento de bienes o la prestación de servicios, o bien aquélla que los utilizará;
 
 III. Área técnica: la que en la dependencia o entidad elabora las especificaciones técnicas que se deberán incluir en el procedimiento de contratación, evalúa la propuesta técnica de las proposiciones y es responsable de responder en la junta de aclaraciones, las preguntas que sobre estos aspectos realicen los licitantes; el Área técnica, podrá tener también el carácter de Área requirente;
 
+> <small>(ADICIONADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+III Bis. Administrador del contrato: la persona servidora pública en quien recae la responsabilidad de dar seguimiento y verificar el cumplimiento de las obligaciones del proveedor establecidas en el contrato, así como determinar la aplicación y cálculo de penas convencionales y deductivas y, en su caso, solicitar al área competente, la rescisión del contrato, aportando los elementos conducentes;
+
 IV. Bienes: los que con la naturaleza de muebles considera el Código Civil Federal;
+
+> <small>(ADICIONADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+IV Bis. Caso fortuito o fuerza mayor: el acontecimiento proveniente del hombre o de la naturaleza caracterizado por ser imprevisible, inevitable, irresistible, insuperable y ajeno a la voluntad de las partes;
 
 V. Comité: el comité de adquisiciones, arrendamientos y servicios a que se refiere el artículo 22 de la Ley;
 
@@ -61,9 +71,17 @@ VIII. Partida o concepto: la división o desglose de los bienes a adquirir o arr
 
 IX. Presupuesto autorizado: el que la Secretaría comunica a la dependencia o entidad en el calendario de gasto correspondiente, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
-X. Proyecto de convocatoria: el documento que contiene la versión preliminar de una convocatoria a la licitación pública, el cual es difundido con ese carácter en CompraNet por la dependencia o entidad, y
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-XI. Sobre cerrado: cualquier medio que contenga la proposición del licitante, cuyo contenido sólo puede ser conocido en el acto de presentación y apertura de proposiciones en términos de la Ley.
+X. Proyecto de convocatoria: el documento que contiene la versión preliminar de una convocatoria a la licitación pública, el cual es difundido con ese carácter en CompraNet por la dependencia o entidad;
+
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Sobre cerrado: cualquier medio que contenga la proposición del licitante, cuyo contenido sólo puede ser conocido en el acto de presentación y apertura de proposiciones en términos de la Ley, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+XII. UMA: Unidad de Medida y Actualización.
 
 Para efecto de lo previsto en la fracción VI del artículo 1 de la Ley, se considerará que existe convenio entre las entidades federativas, los municipios y los entes públicos de unas y otros con el Ejecutivo Federal, cuando aquéllos acepten y reciban, por cualquier medio y concepto, de las dependencias y entidades recursos federales a cuyo cargo, total o parcial, llevarán a cabo la adquisición o arrendamiento de bienes o la contratación de la prestación de servicios de cualquier naturaleza.
 
@@ -79,19 +97,35 @@ II. Los niveles jerárquicos de los servidores públicos que atenderán y se res
 
 III. La forma en que las dependencias y entidades deberán cumplir con los términos o plazos a que hacen referencia la Ley y este Reglamento, y
 
-IV. Los aspectos que se determinen en los lineamientos generales que emita la Secretaría de la Función Pública.
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Los demás aspectos que se prevean en este Reglamento y los que se determinen en los lineamientos generales que emita la Secretaría.
 
 Las dependencias y entidades divulgarán y mantendrán en forma permanente y actualizada en sus páginas de Internet, las políticas, bases y lineamientos a que se refiere este artículo. Las entidades que no cuenten con la infraestructura técnica necesaria para los efectos señalados, deberán hacerlo a través de la dependencia que funja como su coordinadora de sector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 4.
 
-Se consideran comprendidas en el quinto párrafo del artículo 1 de la Ley, las contrataciones que realicen las dependencias y entidades con las personas de derecho público de carácter federal con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, o con las asociaciones y sociedades civiles asimiladas a que se refiere el último párrafo del artículo 46 de la Ley Orgánica de la Administración Pública Federal, así como con municipios y órganos paramunicipales, cuando dichas personas funjan como proveedores.
+Se consideran comprendidas en el sexto párrafo del artículo 1 de la Ley, las contrataciones que realicen las dependencias y entidades con las personas de derecho público de carácter federal con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, o con las asociaciones y sociedades civiles asimiladas a que se refiere el último párrafo del artículo 46 de la Ley Orgánica de la Administración Pública Federal, así como con municipios y órganos paramunicipales, cuando dichas personas funjan como proveedores.
 
-Para los efectos del quinto párrafo del artículo 1 de la Ley, se considerará que una dependencia, entidad o persona de derecho público que funja como proveedor, tiene capacidad para entregar un bien o prestar un servicio por sí misma, cuando para cumplir con el contrato no requiera celebrar otro contrato con terceros, o bien, de requerirlo, éste no exceda del cuarenta y nueve por ciento del importe total del contrato celebrado con el ente público. Si el contrato se integra por varias partidas, el porcentaje se aplicará para cada una de ellas.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Para efectos del sexto párrafo del artículo 1 de la Ley, se considerará que una dependencia, entidad o persona de derecho público que funja como proveedor, tiene capacidad para entregar un bien o prestar un servicio por sí misma, cuando para cumplir con el contrato no requiera celebrar otro contrato con terceros, o bien, de requerirlo, éste no exceda del cuarenta y nueve por ciento del importe total del contrato celebrado con el ente público. Si el contrato se integra por varias partidas, el porcentaje se aplicará para cada una de ellas.
 
 En el supuesto a que se refiere el párrafo anterior, los procedimientos de contratación con terceros y la ejecución de los contratos celebrados con éstos, se rigen por las disposiciones de la Ley y del presente Reglamento.
 
-Para la asignación del contrato bajo el supuesto del párrafo segundo de este artículo, el Área contratante deberá solicitar a la dependencia, entidad o persona que funja como proveedor, la documentación que acredite que cuenta con la capacidad técnica, material y humana para la realización del objeto del contrato y que, por ello, no requerirá de la contratación con terceros en un porcentaje mayor al señalado. Dicha documentación deberá ser entregada antes de la firma del contrato y deberá formar parte del expediente respectivo bajo la responsabilidad del Área contratante.
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Para la asignación del contrato bajo el supuesto del párrafo segundo de este artículo, el Área contratante deberá solicitar a la dependencia, entidad o persona que funja como proveedor, la documentación que acredite que cuenta con la capacidad técnica, material y humana para la realización del objeto del contrato y que, por ello, no requerirá de la contratación con terceros en un porcentaje mayor al señalado. Dicha documentación deberá ser entregada antes de la firma del contrato y deberá formar parte del expediente respectivo bajo la responsabilidad del Área contratante. Asimismo, se deberá contar con la documentación siguiente:
+
+I. La investigación de mercado a que se refiere el artículo 26, párrafo sexto, de la Ley, que acredite que con dicha contratación se aseguran las mejores condiciones para el Estado, y
+
+II. Suficiencia presupuestal.
+
+> <small>(ADICIONADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Los contratos que se celebren de acuerdo con lo dispuesto en el párrafo sexto del artículo 1 de la Ley, así como sus modificaciones, se deberán publicar en CompraNet, en un plazo no mayor de veinte días hábiles posteriores a su firma.
 
 ###### Artículo 5.
 
@@ -135,9 +169,11 @@ La Secretaría, la Secretaría de Economía y la Secretaría de la Función Púb
 
 Las opiniones que emitan las Secretarías mencionadas en el párrafo anterior, en el ámbito de sus atribuciones, derivadas de las consultas que les formulen las dependencias y entidades, no tendrán el carácter de criterio de interpretación de aplicación general ni de disposición administrativa, por lo que sólo podrán considerarse para el caso concreto a que se refiera la consulta de que se trate, sin que tal opinión pueda utilizarse en asuntos similares o análogos.
 
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 9.
 
-Las disposiciones, procedimientos y requisitos que emita la Secretaría de la Función Pública de conformidad con el artículo 10 de la Ley, se difundirán a través de CompraNet y se aplicarán, con apoyo de los agentes financieros designados como tales por la Secretaría, por las dependencias y entidades responsables de ejercer recursos otorgados al Gobierno Federal o con su garantía por organismos financieros regionales o multilaterales.
+Las disposiciones, procedimientos y requisitos que emita la Secretaría de conformidad con el artículo 10 de la Ley, se difundirán a través de CompraNet y se aplicarán, con apoyo de los agentes financieros designados como tales por la Secretaría, por las dependencias y entidades responsables de ejercer recursos otorgados al Gobierno Federal o con su garantía por organismos financieros regionales o multilaterales.
 
 ###### Artículo 10.
 
@@ -147,9 +183,23 @@ Para asegurar al Estado las mejores condiciones a que se refiere el artículo 26
 
 El porcentaje del anticipo a otorgar a las MIPYMES, en el supuesto a que hace referencia el segundo párrafo del artículo 13 de la Ley, deberá ser previsto por la dependencia o entidad en la convocatoria a la licitación pública, en la invitación a cuando menos tres personas o en la solicitud de cotización, para lo cual atenderán, entre otros factores, al monto de la contratación, al costo financiero del mercado y al tiempo de fabricación del bien de que se trate, procurando en todos los casos dar el mayor porcentaje posible.
 
+> <small>(ADICIONADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Para el otorgamiento de anticipos previstos en el párrafo primero del artículo 13 de la Ley, será necesario que la persona titular del Área requirente lo justifique, para lo cual deberá considerar la naturaleza, tipo, características y tiempos de fabricación de los bienes o servicios requeridos, así como a las demás condiciones o circunstancias que acrediten la conveniencia de su otorgamiento.
+
+> <small>(ADICIONADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Los anticipos no podrán exceder del cincuenta por ciento del monto total del contrato, sin incluir impuestos y siempre que se haya pactado la condición de precio fijo.
+
+> <small>(ADICIONADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Los proveedores constituirán previamente a la entrega del anticipo la garantía por el cien por ciento del monto total del anticipo, la que subsistirá hasta su total amortización o devolución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-En la adquisición o arrendamiento de bienes o en la contratación de servicios que se celebren con fundamento en el primer párrafo del artículo 16 de la Ley, cuyo monto sea inferior a trescientas veces el salario mínimo diario general vigente en el Distrito Federal, bastará únicamente el documento comprobatorio del gasto para sustentar la adjudicación directa, la cual deberá ser autorizada por el servidor público que para ello se señale en las políticas, bases y lineamientos de la dependencia o entidad en términos del último párrafo del precepto legal citado.
+En la adquisición o arrendamiento de bienes o en la contratación de servicios que se celebren con fundamento en el primer párrafo del artículo 16 de la Ley, cuyo monto sea inferior al equivalente a trescientas veces el valor diario vigente de la UMA, bastará únicamente el documento comprobatorio del gasto para sustentar la adjudicación directa, la cual deberá ser autorizada por la persona servidora pública que para ello se señale en las políticas, bases y lineamientos de la dependencia o entidad en términos del último párrafo del artículo 16 de la Ley.
 
 Para efectos del tercer párrafo del artículo 16 de la Ley, la dependencia o entidad podrá acreditar que no es factible realizar el procedimiento de contratación y la firma del contrato dentro del territorio nacional, cuando con la investigación de mercado correspondiente se acredite que sólo existe un posible proveedor extranjero y éste ha expresado su interés en contratar conforme a la legislación de su país, o sólo es factible contratar con el proveedor en el extranjero o éste carece de representación legal en el territorio nacional.
 
@@ -175,49 +225,109 @@ VII. Cada dependencia o entidad participante será responsable, por separado, de
 
 La Secretaría, la Secretaría de Economía o la Secretaría de la Función Pública, podrán llevar a cabo acciones que promuevan la contratación consolidada de bienes o servicios de las dependencias y entidades, que les permita adquirir o arrendar bienes o contar con la prestación de servicios en las mejores condiciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 14.
 
-Los contratos marco a que se refiere el segundo párrafo del artículo 17 de la Ley, son los acuerdos de voluntades que celebran una dependencia o entidad con uno o más posibles proveedores, mediante los cuales se establecen de manera general las especificaciones técnicas y de calidad, alcances, precios y condiciones que regularán la adquisición o arrendamiento de bienes o la prestación de servicios que, posteriormente, mediante contratos específicos, en su caso, formalicen las dependencias o entidades, con fundamento en la fracción XX del artículo 41 de la Ley.
+Los contratos marco a que se refiere el segundo párrafo del artículo 17 de la Ley, son los acuerdos de voluntades que celebra la Secretaría, conjuntamente con el área técnica designada por ésta, y uno o más posibles proveedores, mediante los cuales se establecen de manera general las especificaciones técnicas y de calidad, alcances, precios y condiciones, derivadas de la investigación de mercado. Todas las dependencias y entidades deberán sujetarse a los contratos marco, a través de la formalización de contratos específicos, salvo en los casos que la Secretaría autorice otra modalidad de contratación.
 
 La celebración de los contratos marco no estará sujeta a los procedimientos de contratación previstos en la Ley. En dicha celebración, se atenderán los principios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado, mismos que deberán reflejarse en los contratos específicos señalados en el párrafo anterior.
 
-Como parte de la promoción de los contratos marco, la Secretaría de la Función Pública coordinará las acciones necesarias con las dependencias y entidades para celebrar dichos contratos.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-Previamente a la celebración de un contrato marco, la Secretaría de la Función Pública deberá realizar las siguientes acciones:
+Como parte de la promoción de los contratos marco, la Secretaría coordinará las acciones necesarias con las dependencias y entidades para celebrar dichos contratos.
 
-I. Acordar con las dependencias y entidades que considere cuenten con elementos para ello, las características técnicas y de calidad de los bienes a adquirir o arrendar o de los servicios a contratar que requiera la Administración Pública Federal, susceptibles de ser materia de un contrato marco;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-II. Realizar, con el apoyo de las dependencias y entidades que considere conveniente y que estén relacionadas con los bienes y servicios objeto del contrato marco, una investigación de mercado que permita verificar lo siguiente:
+Previamente a la celebración de un contrato marco, la Secretaría deberá realizar las siguientes acciones:
+
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+I. Acodar con las dependencias y entidades que considere que cuentan con los elementos para ello, las características técnicas y de calidad de los bienes a adquirir, arrendar o de los servicios a contratar que requiera la Administración Pública Federal;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+II. La investigación de mercado, correspondiente a los bienes o servicios objeto del contrato marco. Del resultado de la investigación de mercado se determinará:
 
 a) Si existe oferta de bienes y servicios en la cantidad, calidad y oportunidad requerida;
 
 b) Si hay proveedores con la capacidad para cumplir con las necesidades de contratación, y
 
-c) Los precios prevalecientes en el mercado.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-La información obtenida en la investigación de mercado, se utilizará como referencia para determinar las condiciones a establecer en el contrato marco;
+c) Los precios máximos a partir de los cuales los proveedores no podrán ofertar precios superiores a los de dicha investigación;
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 III. Determinar el volumen de los bienes o servicios requeridos, para que cada contrato marco propicie la obtención de economías de escala;
 
-IV. Identificar las dependencias y entidades que de acuerdo a sus necesidades, pudieran celebrar los contratos específicos al amparo del contrato marco, las que en ningún caso podrán ser menos de cinco, y
+IV. (DEROGADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)
 
-V. Difundir en CompraNet el inicio de las acciones tendientes a la celebración de cada contrato marco, a efecto de que participen el mayor número de interesados.
+V. (DEROGADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)
 
-La Secretaría de la Función Pública elaborará, con el apoyo de las dependencias y entidades que participen en las actividades señaladas en el párrafo anterior, el proyecto de contrato marco, atendiendo las disposiciones jurídicas aplicables y los principios que rigen las adquisiciones y arrendamientos de bienes y la contratación de servicios.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-El contrato marco será suscrito por la dependencia o entidad que, en su caso, haya solicitado su celebración, con la participación de la Secretaría de la Función Pública, o en su defecto, sólo por esta última dependencia.
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-Cualquier posible proveedor que cumpla con los mismos requisitos y condiciones acordadas en el contrato marco, podrá adherirse al mismo con posterioridad a su firma.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-Las modificaciones al contrato marco que las partes acuerden realizar, deberán formalizarse a través de convenios modificatorios.
+Durante la vigencia de los contratos marco, se podrán adherir nuevos posibles proveedores dentro de los plazos que establezca la Secretaría y cumplan con las características, especificaciones técnicas y demás condiciones previstas en dichos contratos y en sus anexos.
 
-La Secretaría de la Función Pública revisará periódicamente los contratos marco que se hubieran celebrado, a efecto de verificar que continúan ofreciendo las mejores condiciones para el Estado.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-La Secretaría de la Función Pública mantendrá informadas, a través de CompraNet, a las dependencias y entidades sobre los bienes o servicios objeto de los contratos marco celebrados, para que, en su caso, éstas suscriban los contratos específicos correspondientes.
+Las modificaciones al contrato marco deberán formalizarse a través de convenios y en caso de que repercutan en alguna de las cláusulas de los contratos específicos, las dependencias y entidades deberán celebrar los respectivos convenios modificatorios.
 
-En los procedimientos de contratación que se realicen con fundamento en la fracción XX del artículo 41 de la Ley, la investigación de mercado a que hace referencia la fracción III del artículo 71 del presente Reglamento, se considerará realizada con la que llevó a cabo la Secretaría de la Función Pública para celebrar el contrato marco.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-Las dependencias y entidades podrán adquirir o arrendar los bienes o contratar los servicios objeto de los contratos marco celebrados, sin sujetarse a éstos, sólo en los casos en que acrediten con una investigación de mercado, que obtendrán mejores condiciones a las convenidas en el contrato marco. En ese caso, la dependencia o entidad deberá informar de tal hecho a la Secretaría de la Función Pública, a efecto de que ésta evalúe la viabilidad de modificar o dar por terminado el contrato marco de que se trate, así como de tomar las acciones correspondientes para que las dependencias y entidades no realicen contrataciones al amparo del contrato marco en tanto se determina lo procedente.
+La Secretaría revisará periódicamente los contratos marco que se hubieran celebrado, a efecto de verificar que continúan ofreciendo las mejores condiciones para el Estado.
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+La Secretaría mantendrá informadas, a través de CompraNet, a las dependencias y entidades sobre los bienes o servicios objeto de los contratos marco celebrados, para que, en su caso, éstas suscriban los contratos específicos correspondientes.
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+En los procedimientos de contratación que se realicen con fundamento en la fracción XX del artículo 41 de la Ley, la investigación de mercado a que se refiere la fracción III del artículo 71 del presente Reglamento, se considerará realizada con la investigación de mercado que llevó a cabo la Secretaría para celebrar el contrato marco.
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Las dependencias y entidades podrán adquirir o arrendar los bienes o contratar los servicios objeto de los contratos marco celebrados, sin sujetarse a éstos, sólo en los casos en que acrediten con una investigación de mercado, que obtendrán mejores condiciones a las convenidas en el contrato marco. En ese caso, la dependencia o entidad deberá informar de tal hecho a la Secretaría, a efecto de que ésta evalúe la viabilidad de modificar o dar por terminado el contrato marco de que se trate, así como de tomar las acciones correspondientes para que las dependencias y entidades no realicen contrataciones al amparo del contrato marco en tanto se determina lo procedente.
+
+> <small>(ADICIONADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 14 Bis.
+
+La Secretaría, para la celebración de los contratos marco, procederá a:
+
+I. Publicar en CompraNet el aviso de intención de celebrar un contrato marco a los interesados, así como los requisitos técnicos, legales y administrativos que deberán cumplir los posibles proveedores en la fecha programada;
+
+II. Recibir las propuestas de los interesados para formar parte del contrato marco;
+
+III. Evaluar técnica, legal y administrativamente las propuestas presentadas por los interesados en CompraNet, conforme a los requisitos a que se refiere la fracción I de este artículo;
+
+IV. Solicitar, en su caso, se subsane el incumplimiento de algún requisito identificado en la evaluación a que se refiere la fracción anterior;
+
+V. Notificar a los interesados su aceptación para que formalicen la suscripción del contrato marco, y
+
+VI. Publicar en CompraNet el contrato marco y sus anexos, así como sus convenios modificatorios.
+
+> <small>(ADICIONADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 14 Ter.
+
+Las contrataciones específicas derivadas de los contratos marco que realicen las dependencias y entidades, se sujetarán a lo siguiente:
+
+I. Se sustentarán en lo dispuesto por los artículos 41, fracción XX, o 42 de la Ley;
+
+II. Se formulará solicitud de cotización o se invitará a todos los proveedores que hayan formalizado el contrato marco, debiendo dejar constancia de ello en el expediente del procedimiento de contratación respectivo;
+
+III. Para la adjudicación del contrato específico, se verificará que el proveedor seleccionado esté al corriente en el cumplimiento de sus obligaciones fiscales, para lo cual deberá contar con la opinión de cumplimiento de las mismas, de conformidad con las disposiciones jurídicas aplicables;
+
+IV. El procedimiento de contratación preferentemente se hará a través de invitación a cuando menos tres personas, la cual se publicará en CompraNet una vez entregada la primera invitación o, en su caso, la solicitud de cotización para que se presente la propuesta;
+
+V. La adjudicación se realizará al proveedor que oferte las mejores condiciones económicas, debiendo notificársele por escrito, y
+
+VI. La formalización del contrato se realizará en los plazos previstos en el artículo 46 de la Ley y 84 de este Reglamento.
 
 ###### Artículo 15.
 
@@ -265,7 +375,9 @@ La Secretaría de la Función Pública podrá designar a un servidor público pa
 
 A solicitud de cualquiera de los miembros o asesores del Comité se podrá invitar a sus sesiones a las personas cuya intervención se estime necesaria, para aclarar aspectos técnicos, administrativos o de cualquier otra naturaleza relacionados con los asuntos sometidos a la consideración del Comité, quienes tendrán el carácter de invitados, participarán con voz pero sin voto y sólo permanecerán en la sesión durante la presentación y discusión del tema para el cual fueron invitados.
 
-Los invitados a que se refiere el párrafo anterior suscribirán un documento en el que se obliguen a guardar la debida reserva y confidencialidad, en caso de que durante su participación tengan acceso a información clasificada con tal carácter en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Los invitados a que se refiere el párrafo anterior suscribirán un documento en el que se obliguen a guardar la debida reserva y confidencialidad, en caso de que durante su participación tengan acceso a información clasificada con tal carácter en términos de la Ley Federal de Transparencia y Acceso a la Información Pública.
 
 Para efectos de la aplicación de la Ley y este Reglamento son servidores públicos equivalentes al Oficial Mayor y al área de programación y presupuesto o de finanzas, quienes realicen funciones equiparables a aquéllos, con independencia de su denominación y jerarquía asignada en la estructura organizacional.
 
@@ -429,17 +541,25 @@ IV. Aprobar, en su segunda sesión ordinaria, su manual de integración y funcio
 
 Las requisiciones que formule el Área requirente para adquirir o arrendar bienes, deberán indicar la no existencia de bienes de las mismas características o, en su caso, el nivel de inventario de los mismos que haga necesario adquirir o arrendar dichos bienes. La constancia que acredite lo anterior, deberá emitirse con respecto al almacén de la zona geográfica de influencia del Área requirente y será responsabilidad de ésta tramitarla y anexarla a la requisición; en caso de que el requerimiento esté destinado a un proyecto o consumo específico, se deberá establecer el programa al cual se destinará y el plazo máximo para proceder a su utilización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 28.
 
-Para efectos de lo dispuesto en el sexto párrafo del artículo 26 de la Ley, la investigación de mercado que realicen las dependencias y entidades deberá integrarse, de acuerdo con las características del bien o servicio a contratar, con información obtenida de cuando menos dos de las fuentes siguientes:
+Para efectos de lo dispuesto en el sexto párrafo del artículo 26 de la Ley, la investigación de mercado que realicen las dependencias y entidades deberá integrarse, de acuerdo con las características del bien o servicio a contratar, con información obtenida de cuando menos dos de las fuentes siguientes y de acuerdo con el orden de prelación que se indica:
 
-I. La que se encuentre disponible en CompraNet;
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+I. La que se encuentre disponible en CompraNet sobre las contrataciones realizadas, y a falta de ésta la información histórica con la que cuente el Área contratante u otras Áreas contratantes de la misma u otra dependencia o entidad;
 
 II. La obtenida de organismos especializados; de cámaras, asociaciones o agrupaciones industriales, comerciales o de servicios, o bien de fabricantes, proveedores, distribuidores o comercializadores del ramo correspondiente, y
 
-III. La obtenida a través de páginas de Internet, por vía telefónica o por algún otro medio, siempre y cuando se lleve registro de los medios y de la información que permita su verificación.
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-Para la debida integración de la investigación de mercado, en todos los casos deberá consultarse la información a que hace referencia la fracción I de este artículo. En el supuesto de que la información no se encuentre disponible en CompraNet, se deberá consultar la información histórica con la que cuente el Área contratante u otras áreas contratantes de la dependencia o entidad de que se trate.
+III. La obtenida a través de páginas de Internet, por vía telefónica o por algún otro medio, siempre y cuando se lleve registro de los medios y de la información que permita su verificación, tales como un registro con los datos mínimos de la fuente de consulta, fecha, capturas de pantalla, página web, teléfono, ubicación, entre otros.
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Tratándose de los supuestos previstos en las fracciones II y V del artículo 41 de la Ley, derivados de caso fortuito o fuerza mayor, bastará que las dependencias y entidades realicen las solicitudes de cotización necesarias, para identificar a los proveedores que de manera inmediata realicen la entrega de los bienes objeto de la adquisición o arrendamientos, o la prestación de los servicios.
 
 ###### Artículo 29.
 
@@ -477,19 +597,27 @@ El análisis de la información obtenida en la investigación de mercado se efec
 
 La investigación de mercado la realizará el área especializada existente en la dependencia o entidad o, en su defecto, será responsabilidad conjunta del Área requirente y del Área contratante, salvo en los casos en los que el Área requirente lleve a cabo la contratación. Dicha investigación deberá realizarse con la anticipación que permita conocer las condiciones que imperan en el mercado al momento de iniciar el procedimiento de contratación que corresponda.
 
-Para los procedimientos de contratación por adjudicación directa realizados al amparo del artículo 42 de la Ley, cuyo monto sea igual o superior al equivalente a trescientas veces el salario mínimo diario general vigente en el Distrito Federal, la investigación de mercado se podrá acreditar con al menos tres cotizaciones obtenidas dentro de los treinta días naturales previos a la contratación.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Para los procedimientos de contratación por adjudicación directa realizados al amparo del artículo 42 de la Ley, cuyo monto sea igual o superior al equivalente a trescientas veces el valor diario de la UMA, la investigación de mercado se podrá acreditar con al menos tres cotizaciones obtenidas dentro de los treinta días naturales previos a la contratación.
 
 La investigación de mercado y su resultado deberán documentarse e integrarse al expediente de contratación correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 31.
 
-En los procedimientos de contratación que realicen las dependencias y entidades, se deberá exigir el cumplimiento de las normas oficiales mexicanas y de las normas mexicanas, según proceda, y a falta de éstas, de las normas internacionales, de conformidad con lo dispuesto por los artículos 53 y 55 de la Ley Federal sobre Metrología y Normalización.
+En los procedimientos de contratación que realicen las dependencias y entidades se deberá exigir el cumplimiento de las normas oficiales mexicanas o estándares, según proceda y, en su caso, las normas internacionales, de conformidad con la Ley de Infraestructura de la Calidad.
 
-Si las normas a que se refiere el párrafo anterior no cubren los requerimientos técnicos, o bien, si sus especificaciones resultan inaplicables u obsoletas, la convocante podrá solicitar el cumplimiento de las normas de referencia o especificaciones a que se refiere el artículo 67 de la Ley Federal sobre Metrología y Normalización, siempre que se acredite, en los términos del presente Reglamento, que no se limita la libre participación de los licitantes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-El titular del Área requirente deberá indicar en la convocatoria a la licitación pública, invitación a cuando menos tres personas o solicitud de cotización, según corresponda, el nombre y los datos de identificación de la o las normas que deben cumplirse en el procedimiento de contratación respectivo, así como verificar que la inclusión de las normas o especificaciones señalados en el párrafo anterior no limita la libre participación y concurrencia de los interesados.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-Tratándose de bienes de inversión, en la convocatoria a la licitación pública podrá requerirse que los licitantes entreguen copia simple del certificado expedido por las personas acreditadas, conforme a la Ley Federal sobre Metrología y Normalización.
+La persona titular del Área requirente deberá indicar en la convocatoria a la licitación pública, invitación a cuando menos tres personas o solicitud de cotización, según corresponda, el nombre y los datos de identificación de la o las normas que deben cumplirse en el procedimiento de contratación respectivo, así como verificar que la inclusión de las normas o estándares señalados no limita la libre participación y concurrencia de los interesados.
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Tratándose de bienes de inversión, en la convocatoria a la licitación pública podrá requerirse que los licitantes entreguen copia simple del certificado expedido por las personas acreditadas, conforme a la Ley de Infraestructura de la Calidad.
 
 ###### Artículo 32.
 
@@ -499,7 +627,9 @@ I. Que existen en el mercado al menos tres personas que cuentan con el sistema d
 
 II. Que en la convocatoria a la licitación pública o en la invitación a cuando menos tres personas, el Área contratante indique, de manera precisa, el nombre y demás datos de identificación de las normas de gestión de calidad aplicables, que de acuerdo al Área requirente resulte necesario solicitar.
 
-En los casos a que se refiere este artículo, el licitante deberá entregar, junto con su proposición, copia simple del certificado expedido por la persona acreditada conforme a la Ley Federal sobre Metrología y Normalización, en el que se establezca que cuenta con los sistemas de gestión de calidad, los cuales deberán amparar la totalidad del proceso productivo del bien o servicio requerido por la dependencia o entidad. Tratándose de distribuidores o comercializadores, éstos deberán presentar copia simple del certificado otorgado al fabricante.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+En los casos a que se refiere este artículo, el licitante deberá entregar, junto con su proposición, copia simple del certificado expedido por la persona acreditada conforme a la Ley de Infraestructura de la Calidad, en el que se establezca que cuenta con los sistemas de gestión de calidad, los cuales deberán amparar la totalidad del proceso productivo del bien o servicio requerido por la dependencia o entidad. Tratándose de distribuidores o comercializadores, éstos deberán presentar copia simple del certificado otorgado al fabricante.
 
 El licitante a quien se le adjudique el contrato, deberá presentar original o copia certificada del documento señalado en el párrafo anterior para su cotejo.
 
@@ -531,11 +661,13 @@ II. Tratándose de persona física, copia certificada del acta de nacimiento o, 
 
 Las dependencias y entidades podrán llevar a cabo licitaciones públicas en las que únicamente puedan participar MIPYMES, siempre y cuando el monto estimado de la contratación sea menor al monto de los umbrales establecidos para los tratados de libre comercio que cuenten con un capítulo de compras del sector público.
 
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 36.
 
-En caso de que la dependencia o entidad convocante determine que una licitación pública que se ubique en el supuesto previsto en el inciso a) de la fracción II del artículo 28 de la Ley, puede tener el carácter de nacional, por existir oferta de origen nacional y reservas en los Tratados, deberá solicitar a la Secretaría de Economía, de conformidad con las reglas que emita con fundamento en el último párrafo del artículo 26 de la Ley, la inclusión y registro de dicho procedimiento en la reserva de los Tratados que correspondan.
+En caso de que la dependencia o entidad convocante determine que una licitación pública que se ubique en el supuesto previsto en la fracción II del artículo 28 de la Ley, puede tener el carácter de nacional, por existir oferta de origen nacional y reservas en los Tratados, deberá solicitar a la Secretaría, de conformidad con las reglas que emita con fundamento en el último párrafo del artículo 26 de la Ley, la inclusión y registro de dicho procedimiento en la reserva de los Tratados que correspondan.
 
-La Secretaría de Economía emitirá la respuesta a la solicitud señalada en el párrafo anterior, dentro de los cinco días hábiles siguientes al de la recepción de la solicitud. Si transcurrido dicho plazo no se emite respuesta por parte de dicha Secretaría se podrá realizar el procedimiento de carácter nacional, con cargo a la reserva.
+La Secretaría emitirá la respuesta a la solicitud señalada en el párrafo anterior, dentro de los cinco días hábiles siguientes al de la recepción de la solicitud. Si transcurrido dicho plazo no se emite respuesta por parte de la Secretaría se podrá realizar el procedimiento de carácter nacional, con cargo a la reserva.
 
 ###### Artículo 37.
 
@@ -583,7 +715,9 @@ e) El o los idiomas, además del español, en que podrán presentarse las propos
 
 f) El señalamiento de que se cuenta con la disponibilidad presupuestaria, que la contratación será financiada con fondos provenientes de créditos externos o que será cubierta parcialmente con recursos de terceros, y
 
-g) Los procedimientos, requisitos y demás disposiciones establecidos por la Secretaría de la Función Pública, a los que se sujetará el procedimiento de contratación, en el caso de contrataciones financiadas con fondos provenientes de créditos externos otorgados al gobierno federal o con su garantía por organismos financieros regionales o multilaterales;
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+g) Los procedimientos, requisitos y demás disposiciones establecidos por la Secretaría, a los que se sujetará el procedimiento de contratación, en el caso de contrataciones financiadas con fondos provenientes de créditos externos otorgados al gobierno federal o con su garantía por organismos financieros regionales o multilaterales;
 
 II. Objeto y alcance de la licitación pública, precisando:
 
@@ -597,7 +731,9 @@ Se entenderá que no se limita la libre participación, cuando con la investigac
 
 c) En su caso, el precio máximo de referencia a partir del cual, sin excepción, los licitantes ofrezcan porcentajes de descuento como parte de su proposición, mismos que serán objeto de evaluación;
 
-d) La descripción completa que permita identificar indubitablemente, las normas oficiales mexicanas, las normas mexicanas, las normas internacionales o, en su caso, las normas de referencia o especificaciones, cuyo cumplimiento se exija a los licitantes conforme a la Ley Federal sobre Metrología y Normalización y los artículos 31 y 32 del presente Reglamento, con las que deberán demostrar que los bienes o servicios o los procesos de fabricación cumplen los estándares de calidad o unidades de medida requeridas;
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+d) La descripción completa que permita identificar indubitablemente, las normas oficiales mexicanas o estándares, según proceda y, en su caso, las normas internacionales, cuyo cumplimiento se exija a los licitantes conforme a la Ley de Infraestructura de la Calidad y los artículos 31 y 32 del presente Reglamento, con las que deberán demostrar que los bienes o servicios o los procesos de fabricación cumplen los estándares o unidades de medida requeridas;
 
 e) Para el caso previsto en la fracción X del artículo 29 de la Ley, se deberá especificar el método que se utilizará para realizar las pruebas que permitan verificar el cumplimiento de las especificaciones de los bienes a adquirir o arrendar o servicios a contratar; la institución pública o privada que las realizará y el momento para efectuarlas, así como la unidad de medida con la cual se determinará el resultado mínimo que deberá obtenerse en las pruebas señaladas. Será responsabilidad del Área técnica determinar que los niveles de aceptación sean los adecuados para la dependencia o entidad y no se constituyan en un requisito que limite la libre participación de los interesados;
 
@@ -659,7 +795,9 @@ a) El escrito a que se refiere la fracción V del artículo 48 de este Reglament
 
 b) El escrito a que hace referencia el artículo 35 del presente Reglamento, en el caso de licitaciones públicas nacionales;
 
-c) La copia de los documentos mediante los cuales el licitante acreditará el cumplimiento de las normas, especificaciones o sistemas solicitados conforme a la Ley Federal sobre Metrología y Normalización y los artículos 31 y 32 de este Reglamento;
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+c) La copia de los documentos mediante los cuales el licitante acreditará el cumplimiento de las normas, especificaciones o sistemas solicitados conforme a la Ley de Infraestructura de la Calidad y los artículos 31 y 32 de este Reglamento;
 
 d) La dirección de correo electrónico del licitante, en caso de contar con la misma;
 
@@ -667,13 +805,17 @@ e) El escrito mediante el cual el licitante manifieste bajo protesta de decir ve
 
 f) La declaración de integridad, en la que el licitante manifieste, bajo protesta de decir verdad, que se abstendrá, por sí o a través de interpósita persona, de adoptar conductas para que los servidores públicos de la dependencia o entidad, induzcan o alteren las evaluaciones de las proposiciones, el resultado del procedimiento u otros aspectos que le puedan otorgar condiciones más ventajosas con relación a los demás participantes;
 
-g) En el supuesto previsto en el segundo párrafo del artículo 14 de la Ley, la manifestación del licitante en la que se indique bajo protesta de decir verdad, que es un persona física con discapacidad, o bien tratándose de empresas que cuenten con trabajadores con discapacidad en la proporción que establece dicho precepto legal, el aviso de alta de tales trabajadores al régimen obligatorio del Instituto Mexicano del Seguro Social y una constancia que acredite que dichos trabajadores son personas con discapacidad en términos de lo previsto por la fracción IX del artículo 2 de la Ley General de las Personas con Discapacidad;
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+g) En el supuesto previsto en el segundo párrafo del artículo 14 de la Ley, la manifestación del licitante en la que se indique bajo protesta de decir verdad, que es una persona física con discapacidad, o bien tratándose de empresas que cuenten con trabajadores con discapacidad en la proporción que establece dicho precepto legal, el aviso de alta de tales trabajadores al régimen obligatorio del Instituto Mexicano del Seguro Social y una constancia que acredite que dichos trabajadores son personas con discapacidad en términos de lo previsto por la fracción XXVII del artículo 2 de la Ley General para la Inclusión de las Personas con Discapacidad;
 
 h) En su caso, el documento o el escrito a que se refiere el artículo 34 de este Reglamento;
 
 i) En su caso, el convenio firmado por cada una de las personas que integren una proposición conjunta, indicando en el mismo las obligaciones específicas del contrato que corresponderá a cada una de ellas, así como la manera en que se exigirá su cumplimiento, y
 
-j) El documento en el que conste el acuse de recepción de solicitud de opinión ante la autoridad fiscal competente, respecto del cumplimiento de sus obligaciones fiscales del licitante a quien se adjudique el contrato;
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+j) Las opiniones de cumplimiento de obligaciones fiscales, de conformidad con las disposiciones jurídicas aplicables;
 
 VII. Domicilio de las oficinas de la autoridad administrativa competente y la dirección electrónica de CompraNet, en que podrán presentarse inconformidades contra los actos de la licitación pública, y
 
@@ -727,7 +869,9 @@ III. Las dependencias y entidades deberán incluir en un documento los comentari
 
 El documento señalado en el párrafo anterior, deberá difundirse en CompraNet previamente a la publicación de la convocatoria a la licitación pública correspondiente;
 
-IV. Si la convocante lo estima conveniente, además de la difusión del Proyecto de convocatoria en CompraNet, podrá efectuar invitaciones para celebrar una reunión pública en la que los asistentes participen en la revisión del Proyecto de convocatoria y presenten sus comentarios, salvo que se trate de Proyectos de convocatoria para las licitaciones públicas a que se refiere el inciso a) de la fracción II del artículo 28 de la Ley, y
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Si la convocante lo estima conveniente, además de la difusión del Proyecto de convocatoria en CompraNet, podrá efectuar invitaciones para celebrar una reunión pública en la que los asistentes participen en la revisión del Proyecto de convocatoria y presenten sus comentarios, salvo que se trate de Proyectos de convocatoria para las licitaciones públicas a que se refiere la fracción II del artículo 28 de la Ley, y
 
 V. Tratándose de licitaciones públicas para adquirir o arrendar bienes o contratar la prestación de servicios de manera consolidada, los comentarios al Proyecto de convocatoria se recibirán en la dirección electrónica que determine la dependencia o entidad responsable de la contratación.
 
@@ -971,7 +1115,9 @@ La convocante que, en términos de lo dispuesto en este artículo, deseche los p
 
 Cuando la convocante determine utilizar el criterio de evaluación de puntos o porcentajes para la adquisición o arrendamiento de bienes o la contratación de servicios deberá establecer en la convocatoria a la licitación pública los rubros y subrubros de las propuestas técnica y económica que integran la proposición; la calificación numérica o de ponderación que puede alcanzarse u obtenerse en cada uno de ellos; el mínimo de puntaje o porcentaje que los licitantes deberán obtener en la evaluación de la propuesta técnica para continuar con la evaluación de la propuesta económica, y la forma en que los licitantes deberán acreditar el cumplimiento de los aspectos requeridos por la convocante en cada rubro o subrubro para la obtención de puntuación o ponderación.
 
-Los rubros y subrubros referidos en el párrafo anterior, así como su ponderación, deberán ser fijados por la convocante de conformidad con los lineamientos que para el efecto emita la Secretaría de la Función Pública.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Los rubros y subrubros referidos en el párrafo anterior, así como su ponderación, deberán ser fijados por la convocante de conformidad con los lineamientos que para tal efecto emita la Secretaría.
 
 ###### Artículo 53.
 
@@ -997,7 +1143,9 @@ En caso de subsistir el empate entre empresas de la misma estratificación de lo
 
 Cuando se requiera llevar a cabo el sorteo por insaculación, el Área contratante deberá girar invitación al órgano interno de control y al testigo social cuando éste participe en la licitación pública, para que en su presencia se lleve a cabo el sorteo; se levantará acta que firmarán los asistentes, sin que la inasistencia, la negativa o falta de firma en el acta respectiva de los licitantes o invitados invalide el acto.
 
-Tratándose de licitaciones públicas electrónicas, el sorteo por insaculación se realizará a través de CompraNet, conforme a las disposiciones administrativas que emita la Secretaría de la Función Pública.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Tratándose de licitaciones públicas electrónicas, el sorteo por insaculación se realizará a través de CompraNet, conforme a las disposiciones administrativas que emita la Secretaría.
 
 ###### Artículo 55.
 
@@ -1157,7 +1305,9 @@ IV. La forma en que se cubrirán los gastos por traslado, alimentos y hospedaje 
 
 V. La forma y plazos en que será convocado el testigo social por las dependencias y entidades para participar en los actos a que se refiere la fracción II del artículo 67 de este Reglamento;
 
-VI. La obligación del testigo social para guardar la debida reserva y confidencialidad en caso de que durante su participación tenga acceso a información clasificada con tal carácter en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sin perjuicio de lo dispuesto en el penúltimo párrafo del artículo 26 Ter de la Ley, y
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+VI. La obligación del testigo social para guardar la debida reserva y confidencialidad en caso de que durante su participación tenga acceso a información clasificada con tal carácter en términos de la Ley Federal de Transparencia y Acceso a la Información Pública, sin perjuicio de lo dispuesto en el penúltimo párrafo del artículo 26 Ter de la Ley, y
 
 VII. La obligación del testigo social de emitir los informes y testimonio a que se refiere el presente Capítulo.
 
@@ -1207,7 +1357,9 @@ VI. Acreditar los cursos de capacitación que determine la Secretaría de la Fun
 
 Cuando un procedimiento de contratación se declare desierto, el testigo social designado continuará participando en los subsecuentes procedimientos que la dependencia o entidad determine llevar a cabo para realizar la contratación de que se trate. La dependencia o entidad respectiva deberá informar de lo anterior a la Secretaría de la Función Pública.
 
-Las dependencias y entidades proporcionarán las facilidades para permitir el acceso a toda la documentación que soliciten los testigos sociales, quienes estarán obligados a guardar la debida reserva y confidencialidad en caso de que tengan acceso a información clasificada con ese carácter en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Las dependencias y entidades proporcionarán las facilidades para permitir el acceso a toda la documentación que soliciten los testigos sociales, quienes estarán obligados a guardar la debida reserva y confidencialidad en caso de que tengan acceso a información clasificada con ese carácter en términos de la Ley Federal de Transparencia y Acceso a la Información Pública.
 
 La participación del testigo social en los procedimientos de contratación será sin perjuicio del ejercicio de las facultades de inspección, vigilancia y fiscalización que tienen conferidas la Secretaría de la Función Pública, los órganos internos de control y la Auditoría Superior de la Federación.
 
@@ -1307,13 +1459,19 @@ II. Para acreditar que en el mercado sólo existe un posible oferente, o se trat
 
 Se entenderá que cuentan con derechos exclusivos los testigos sociales, así como los auditores externos que designe la Secretaría de la Función Pública en ejercicio de sus atribuciones;
 
-III. Será procedente contratar mediante adjudicación directa fundada en la fracción III cuando, entre otros supuestos, la dependencia o entidad acredite con la investigación de mercado correspondiente, que se obtienen las mejores condiciones para el Estado y, por tanto, se evitan pérdidas o costos adicionales, al contratar con algún proveedor que tenga contrato vigente previamente adjudicado mediante licitación pública y éste acepte otorgar los mismos bienes o servicios en iguales condiciones en cuanto a precio, características y calidad de los bienes o servicios materia del contrato celebrado con la misma u otra dependencia o entidad;
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+III. Será procedente contratar mediante adjudicación directa fundada en la fracción III, cuando, entre otros supuestos, la dependencia o entidad acredite con la investigación de mercado correspondiente, que se obtienen las mejores condiciones para el Estado y, por tanto, se evitan pérdidas o costos adicionales, al contratar con algún proveedor que tenga contrato vigente con la misma u otra dependencia o entidad previamente adjudicado mediante licitación pública y éste acepte otorgar las mismas condiciones;
 
 IV. Las dependencias o entidades integrantes del Consejo de Seguridad Nacional podrán sustentar las contrataciones que realicen con fundamento en el primer párrafo de la fracción IV, cuando los bienes o servicios que requieran se encuentren en la base de datos que administra el Comité Técnico del citado Consejo. En estos casos, la investigación de mercado se tendrá por realizada a través de la consulta que se formule a dicha base de datos y el escrito a que se refiere el segundo párrafo del artículo 40 de la Ley, será elaborado por el Área requirente conforme al modelo que haya autorizado dicho Comité, el cual debidamente requisitado obrará en el expediente de contratación respectivo.
 
 Para efectos del segundo párrafo de la fracción lV citada en el párrafo que antecede, se consideran requerimientos administrativos aquellos bienes o servicios que no estén afectos a fines exclusivamente militares o para la armada, o aquéllos que no estén relacionados con la preservación de la seguridad nacional o la seguridad pública;
 
 V. La excepción a la licitación pública prevista en la fracción V, será procedente cuando exista un nexo causal directo entre el caso fortuito o la fuerza mayor y la imposibilidad o impedimento de la dependencia o entidad para obtener, en el tiempo requerido, los bienes o servicios que necesita mediante el procedimiento de licitación pública;
+
+> <small>(ADICIONADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+V Bis. Tratándose de caso fortuito o fuerza mayor a que se refieren las fracciones II y V, la dependencia o entidad podrá ordenar la adquisición o arrendamiento de bienes o la prestación de servicios, de manera previa a la celebración del contrato, mismo que se formalizará tan pronto se cuente con los elementos necesarios para tal efecto. En el caso de la fracción V, la contratación deberá sujetarse a las cantidades o conceptos estrictamente necesarios para afrontar la eventualidad;
 
 VI. El supuesto a que se refiere la fracción VII, sólo resultará procedente cuando se mantengan los mismos requisitos cuyo incumplimiento se consideró como causa de desechamiento en la convocatoria a la licitación pública declarada desierta, incluidas las modificaciones derivadas de las juntas de aclaraciones correspondientes; dentro de dichos requisitos, se considerará la cantidad de bienes o servicios indicada en la convocatoria a la primera licitación pública. Lo anterior será aplicable para el caso de las partidas que se hayan declarado desiertas en una licitación pública;
 
@@ -1327,11 +1485,15 @@ b) Personalizados o a la medida: los que desarrollan soluciones o metodologías 
 
 c) Especializados: los relativos a trabajos que requieran alta especialización y se relacionen con un determinado sector o área del conocimiento, para desarrollar soluciones o metodologías eficientes que permitan resolver problemas complejos y que pueden tener un alto impacto social o económico.
 
-La contratación de los servicios señalados se podrá realizar mediante el procedimiento de adjudicación directa sólo cuando la información que se tenga que proporcionar a los licitantes para la elaboración de su proposición esté clasificada como reservada o confidencial en los términos establecidos en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, para lo cual deberá observarse lo siguiente:
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+La contratación de los servicios señalados se podrá realizar mediante el procedimiento de adjudicación directa sólo cuando la información que se tenga que proporcionar a los licitantes para la elaboración de su proposición esté clasificada como reservada o confidencial en los términos establecidos en la Ley Federal de Transparencia y Acceso a la Información Pública, para lo cual deberá observarse lo siguiente:
 
 1. El titular del Área requirente identificará los documentos clasificados como reservados o confidenciales que estime necesarios para elaborar la proposición;
 
-2. A la solicitud de adjudicación directa deberá adjuntarse copia de las carátulas o leyendas elaboradas en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y las demás disposiciones aplicables, firmadas por el servidor público respectivo, mediante las cuales se acredite que la información correspondiente se encuentra clasificada como reservada o confidencial, y
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+2. A la solicitud de adjudicación directa deberá adjuntarse copia de las carátulas o leyendas elaboradas en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables, firmadas por la persona servidora pública respectiva, mediante las cuales se acredite que la información correspondiente se encuentra clasificada como reservada o confidencial, y
 
 3. Deberá justificarse fehacientemente mediante la investigación de mercado, la selección de la persona que se propone para la adjudicación directa, con respecto a otras existentes, así como que el precio del servicio refleja las mejores condiciones para el Estado.
 
@@ -1351,7 +1513,9 @@ X. Para pactar los derechos a que se refiere la fracción XVI, las dependencias 
 
 a) El derecho exclusivo se constituirá en el aspecto patrimonial hasta por un máximo de cinco años a favor de la Federación o de las entidades, según corresponda, y
 
-b) Concluido el término a que se refiere el inciso anterior, la Federación o las entidades y el proveedor tendrán derecho a obtener los beneficios de la explotación del prototipo en el porcentaje que corresponda a los recursos aportados por cada parte para su diseño o desarrollo. Los derechos correspondientes a su explotación, se determinarán de conformidad con la legislación aplicable en las materias que correspondan y se limitarán al tiempo que reste la explotación una vez que concluya el contrato suscrito con la dependencia o entidad para atender sus requerimientos, el cual deberá ser al menos el plazo indicado en la fracción XVI del artículo 41 de la Ley.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+b) Concluido el término a que se refiere el inciso anterior, la Federación o las entidades y el proveedor tendrán derecho a obtener los beneficios de la explotación del prototipo en el porcentaje que corresponda a los recursos aportados por cada parte para su diseño o desarrollo. Los derechos correspondientes a su explotación, se determinarán de conformidad con la legislación aplicable en las materias que correspondan y se limitarán al tiempo que reste la explotación una vez que concluya el contrato suscrito con la dependencia o entidad para atender sus requerimientos, el cual deberá ser el plazo señalado en la fracción XVI del artículo 41 de la Ley.
 
 ###### Artículo 73.
 
@@ -1395,25 +1559,33 @@ La inasistencia del representante invitado del órgano interno de control al act
 
 La difusión en CompraNet y en la página de Internet de la dependencia o entidad de las invitaciones a cuando menos tres personas a que hace referencia la fracción I del artículo 43 de la Ley, deberá realizarse el mismo día en que se entregue la última invitación y estará disponible hasta el día en que se emita el fallo correspondiente. La referida difusión es de carácter informativo, por lo que solamente podrán participar en el procedimiento de contratación aquellas personas que hayan sido invitadas por la dependencia o entidad.
 
-Las proposiciones a que se refiere la fracción III del artículo 43 de la Ley serán aquéllas que reciba la convocante en el acto de presentación y apertura de proposiciones, debiendo ser como mínimo tres, independientemente de que al efectuar la evaluación de las mismas sólo una o dos de ellas cumplan con lo requerido en la invitación a cuando menos tres personas. En el caso de que los bienes o servicios se agrupen en partidas, deberá contarse con tres proposiciones para cada partida. Asimismo, se emitirá el fallo conforme a lo dispuesto en el artículo 37 de la Ley.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-Cuando la convocante opte por no realizar junta de aclaraciones, en la invitación a cuando menos tres personas deberá indicarse la forma y términos en que podrán solicitarse las aclaraciones respectivas, de cuyas respuestas deberá informarse tanto al solicitante como al resto de los invitados.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Cuando la convocante en la invitación a cuando menos tres personas opte por realizar junta de aclaraciones deberá considerar entre ésta y el acto de presentación y apertura de proposiciones, un plazo de al menos tres días naturales, y cuando decida no realizar dicha junta de aclaraciones deberá indicar la forma y términos en que podrán solicitarse las aclaraciones respectivas, de cuyas respuestas deberá informarse tanto al solicitante como al resto de los invitados.
 
 No resulta aplicable a los procedimientos previstos en este artículo la presentación de propuestas conjuntas, salvo que la convocante lo estime conveniente para fomentar la participación de las MIPYMES, o bien, por necesidades técnicas para obtener proposiciones en forma integral, en cuyo caso se deberá considerar, en lo aplicable, lo dispuesto por el tercer párrafo del artículo 34 de la Ley y el artículo 44 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 78.
 
-En caso de que en el procedimiento de invitación a cuando menos tres personas no se presenten tres proposiciones en términos de lo dispuesto en el quinto párrafo del artículo anterior, o las presentadas sean desechadas, la dependencia o entidad procederá a declararlo desierto y deberá realizar una segunda invitación, excepto cuando dicho procedimiento derive de una licitación pública declarada desierta, caso en el cual procederá una adjudicación directa.
+En caso de que en el procedimiento de invitación a cuando menos tres personas no se presenten tres proposiciones se podrá optar por declarar desierta la invitación, o bien, continuar con el procedimiento y evaluar las proposiciones presentadas. En caso de que sólo se haya presentado una propuesta, la convocante podrá adjudicarle el contrato si considera que reúne las condiciones requeridas.
 
-Tratándose de procedimientos de invitación a cuando menos tres personas celebrados al amparo del artículo 41 de la Ley no será necesario someter la procedencia del segundo procedimiento de invitación al dictamen del Comité.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-En caso de declararse desierto el segundo procedimiento de invitación a cuando menos tres personas, el titular del Área contratante podrá adjudicar directamente el contrato, en los términos del último párrafo del artículo 43 de la Ley, sin necesidad de obtener el dictamen de procedencia del Comité, debiendo informar a este último de dicha adjudicación directa durante el mes siguiente al de la formalización del contrato.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-Lo señalado en el párrafo anterior, también será aplicable cuando se haya declarado desierto un procedimiento de invitación a cuando menos tres personas que se hubiere realizado en virtud de que una licitación pública fue declarada desierta.
+En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, la persona titular del Área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato siempre que no se modifiquen los requisitos establecidos en dichas invitaciones, sin necesidad de obtener el dictamen de procedencia del Comité, debiendo informar a este último dicha adjudicación directa durante el mes siguiente de la formalización del contrato.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 79.
 
-En los procedimientos de adjudicación directa, a efecto de garantizar lo dispuesto en el tercer párrafo del artículo 40 de la Ley, la dependencia o entidad considerará la información contenida en el registro único de proveedores, en los términos que para tal efecto establezca la Secretaría de la Función Pública.
+En los procedimientos de adjudicación directa, a efecto de garantizar lo dispuesto en el párrafo tercero del artículo 40 de la Ley, la dependencia o entidad considerará la información contenida en el registro único de proveedores, en los términos que para tal efecto establezca la Secretaría.
 
 ## TÍTULO TERCERO. DE LOS CONTRATOS
 
@@ -1475,9 +1647,11 @@ Las dependencias y entidades serán responsables de establecer las particularida
 
 Las dependencias que lleven a cabo la cancelación de garantías, deberán comunicarlo a la Tesorería de la Federación dentro de los quince días hábiles siguientes a la cancelación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 82.
 
-Las dependencias y entidades, en contrataciones iguales o superiores al equivalente a trescientas veces el salario mínimo general diario vigente en el Distrito Federal, deberán formalizar las adquisiciones, arrendamientos y servicios a través de contratos, los cuales deberán contener, en lo aplicable, los elementos a que se refiere el artículo 45 de la Ley y lo previsto en el artículo 81 de este Reglamento, debiendo considerar el contenido de la convocatoria a la licitación pública, de la invitación a cuando menos tres personas o de la solicitud de cotización y, en su caso, de sus modificaciones.
+Las dependencias y entidades, en contrataciones iguales o superiores al equivalente a trescientas veces el valor diario vigente de la UMA, deberán formalizar las adquisiciones, arrendamientos y servicios a través de contratos, los cuales deberán contener, en lo aplicable, los elementos a que se refiere el artículo 45 de la Ley y lo previsto en el artículo 81 de este Reglamento, debiendo considerar el contenido de la convocatoria a la licitación pública, de la invitación a cuando menos tres personas o de la solicitud de cotización y, en su caso, de sus modificaciones.
 
 Las dependencias y entidades deberán llevar el registro, control y comprobación de las contrataciones adjudicadas en forma directa en los términos del artículo 42 de la Ley, que no requieran la formalización de contratos, de conformidad con las disposiciones presupuestarias aplicables.
 
@@ -1531,9 +1705,11 @@ V. Las penalizaciones por atraso en la entrega de los bienes o de la prestación
 
 VI. Cuando se agrupen varias subpartidas de bienes o servicios en una sola partida, y no sea posible establecer la cantidad total a requerir de estos agrupamientos, el total de los bienes o servicios de las subpartidas sin definición de la cantidad requerida de cada una, no podrá ser superior al treinta por ciento del presupuesto máximo total del contrato respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 86.
 
-Las dependencias y entidades podrán reducir el porcentaje de la garantía de cumplimiento cuando el proveedor cuente con antecedentes de cumplimiento favorables en los términos previstos en el segundo párrafo del artículo 48 de la Ley y en los lineamientos que al efecto emita la Secretaría de la Función Pública con base en la información actualizada que se encuentre en el registro único de proveedores, tales como no estar sancionado por la Secretaría de la Función Pública, en los últimos cinco años y que no se le haya rescindido contrato alguno en el mismo periodo.
+Las dependencias y entidades podrán reducir el porcentaje de la garantía de cumplimiento cuando el proveedor cuente con antecedentes de cumplimiento favorables en los términos previstos en el segundo párrafo del artículo 48 de la Ley y en los lineamientos que para tal efecto emita la Secretaría con base en la información actualizada que se encuentre en el registro único de proveedores, tales como no estar sancionado por la Secretaría de la Función Pública, en los últimos cinco años y que no se le haya rescindido contrato alguno en el mismo periodo.
 
 En los casos señalados en el párrafo anterior, el monto máximo para la aplicación de penas convencionales se calculará considerando el monto de la garantía de cumplimiento establecido en el contrato, sin tomar en cuenta el porcentaje de reducción que se hubiere aplicado a dicha garantía.
 
@@ -1561,9 +1737,11 @@ IV. Se entenderá que el Oficial Mayor o equivalente de la dependencia o entidad
 
 Cuando la dependencia o entidad tenga conocimiento que se actualiza lo dispuesto por la fracción IV del artículo 60 de la Ley deberá comunicarlo al órgano interno de control en el plazo señalado en el penúltimo párrafo de ese mismo artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 89.
 
-Para efectos de contabilizar el plazo a que hace referencia el primer párrafo del artículo 51 de la Ley, se tendrá como recibida la factura o el documento que reúna los requisitos fiscales correspondientes, a partir de que el proveedor los entregue a la dependencia o entidad junto con el bien o al momento de concluir la prestación total o parcial del servicio conforme a los términos del contrato celebrado y la dependencia o entidad los reciba a satisfacción en los términos de los lineamientos que emita la Secretaría de la Función Pública para promover la agilización del pago.
+Para efectos de contabilizar el plazo a que se refiere el párrafo primero del artículo 51 de la Ley, se tendrá como recibida la factura o el documento que reúna los requisitos fiscales correspondientes, a partir de que el proveedor los entregue a la dependencia o entidad junto con el bien o al momento de concluir la prestación total o parcial del servicio conforme a los términos del contrato celebrado y la dependencia o entidad los reciba a satisfacción en los términos de los lineamientos que emita la Secretaría para promover la agilización del pago.
 
 Dentro del plazo mencionado en el párrafo anterior, la dependencia o entidad deberá requerir, en su caso, al proveedor la corrección de errores o deficiencias contenidos en la factura o en el documento que reúna los requisitos fiscales correspondientes; tramitar el pago de dicha factura o documento y realizar el pago al proveedor.
 
@@ -1577,19 +1755,27 @@ En caso de que las facturas entregadas por los proveedores para su pago presente
 
 En los casos a que se refiere el párrafo primero del artículo 52 de la Ley, las dependencias y entidades podrán solicitar al proveedor incrementar la cantidad de bienes adquiridos o arrendados o de los servicios contratados, para que se entreguen o presten dentro del plazo originalmente convenido o, si el Área contratante lo considera conveniente, ampliar la vigencia del contrato. En caso de que el proveedor acepte, la dependencia o entidad convendrá con el mismo el incremento del monto del contrato.
 
-Cuando la dependencia o entidad requiera ampliar únicamente el plazo o la vigencia del contrato y esto no implique incremento en el monto total contratado o de las cantidades de bienes adquiridos o arrendados o de servicios contratados, si cuenta con el consentimiento del proveedor, se podrá suscribir el convenio modificatorio para ampliar la vigencia. La modificación del plazo pactado en el contrato para la entrega de los bienes o la prestación del servicio sólo procederá por caso fortuito, fuerza mayor o causas atribuibles a la dependencia o entidad, la cual deberá dejar constancia que acredite dichos supuestos en el expediente de contratación respectivo.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-En los supuestos previstos en el párrafo anterior no procederá aplicar al proveedor penas convencionales por atraso. La modificación del plazo por caso fortuito o fuerza mayor podrá ser solicitada por el proveedor o la dependencia o entidad de que se trate.
+Las dependencias y entidades podrán ampliar la vigencia del contrato siempre que no implique incremento en el monto total contratado o de las cantidades de bienes adquiridos, arrendados o de los servicios contratados, y cuente con el consentimiento del proveedor, y siempre que no se celebren para otorgar beneficios a éstos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+La modificación del plazo pactado en el contrato y, en su caso, de su vigencia, para la entrega de los bienes o la prestación del servicio, sólo procederá por caso fortuito, fuerza mayor o causas atribuibles a la dependencia o entidad, la cual deberá dejar constancia que acredite dichos supuestos en el expediente de contratación respectivo.
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+En los supuestos previstos en los párrafos segundo y tercero de este artículo, no procederá la aplicación de penas convencionales por atraso.
 
 Para las cantidades o conceptos adicionales se reconocerá, en su caso, el ajuste de precios en los términos pactados en el contrato.
 
 Las modificaciones en monto, plazo o vigencia a los contratos conllevarán el respectivo ajuste a la garantía de cumplimiento cuando dicho incremento no se encuentre cubierto por la garantía originalmente otorgada, para lo cual deberá estipularse en el convenio modificatorio respectivo el plazo para entregar la ampliación de garantía, el cual no deberá exceder de diez días naturales siguientes a la firma de dicho convenio, así como la fecha de entrega de los bienes o de la prestación del servicio para las cantidades adicionales. Tratándose de fianza, el ajuste correspondiente se realizará conforme a lo dispuesto por la fracción II y el último párrafo del artículo 103 de este Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 92.
 
-Las modificaciones, por ampliación de vigencia, de contratos de arrendamiento de bienes, de prestación de servicios, o de adquisición de bienes de insumos para la salud, que requieran de continuidad una vez concluido el ejercicio fiscal en el que terminaría su vigencia original, no necesitarán la autorización de la Secretaría, siempre y cuando se trate de contratos cuya ampliación de vigencia no exceda el primer trimestre del ejercicio fiscal siguiente, y el arrendamiento de bienes o prestación de servicios resulten indispensables para no interrumpir la operación regular de las dependencias y entidades, o en su caso, los insumos para la salud (sic) sean necesarios para garantizar la misma. El ejercicio y pago de dichas contrataciones, quedarán sujetos a la disponibilidad presupuestaria del ejercicio fiscal siguiente, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos. El precio de los bienes, arrendamientos o servicios sujetos a la ampliación, será igual al pactado originalmente.
+Las modificaciones por ampliación de vigencia, de contratos de arrendamiento de bienes, de prestación de servicios o de adquisición de bienes, que requieran de continuidad una vez concluido el ejercicio fiscal en el que terminaría su vigencia original, procederán siempre y cuando resulten indispensables para no interrumpir la operación regular de las dependencias y entidades. El ejercicio y pago de dichas contrataciones, quedarán sujetos a la disponibilidad presupuestaria del ejercicio fiscal siguiente, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos. El precio de los bienes, arrendamientos o servicios sujetos a la ampliación, será igual al pactado originalmente.
 
 En el caso de contratos de prestación de servicios, las dependencias y entidades, en lugar de iniciar la rescisión respectiva del contrato, podrán efectuar modificaciones al mismo, para ampliar su vigencia, aún cuando se cambien las condiciones establecidas originalmente en el contrato, observando lo previsto en el último párrafo del artículo 52 de la Ley, con el fin de que se concluya la prestación del servicio pactado, por resultar más conveniente para el Estado que la rescisión del contrato, lo cual se deberá acreditar mediante las constancias correspondientes, las cuales se integrarán al expediente respectivo. Lo anterior, sin perjuicio de la aplicación de las penas convencionales por atraso que, en su caso, resulten procedentes.
 
@@ -1689,9 +1875,11 @@ Los proveedores podrán solicitar a la dependencia o entidad el pago de gastos n
 
 Los gastos no recuperables por los supuestos a que se refiere este artículo y el anterior, serán pagados dentro de un término que no podrá exceder de cuarenta y cinco días naturales posteriores a la solicitud fundada y documentada del proveedor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 103.
 
-Los proveedores podrán otorgar las garantías a que se refiere la Ley y este Reglamento, en alguna de las formas previstas en el artículo 137 del Reglamento de la Ley del Servicio de Tesorería de la Federación en el caso de dependencias, o en las disposiciones aplicables tratándose de entidades.
+Los proveedores podrán otorgar las garantías a que se refiere la Ley y este Reglamento, en alguna de las formas previstas en el artículo 48 de la Ley de Tesorería de la Federación en el caso de dependencias, o en las disposiciones aplicables tratándose de entidades.
 
 Cuando la forma de garantía sea mediante fianza, se observará lo siguiente:
 
@@ -1703,13 +1891,17 @@ b) Que para cancelar la fianza, será requisito contar con la constancia de cump
 
 c) Que la fianza permanecerá vigente durante el cumplimiento de la obligación que garantice y continuará vigente en caso de que se otorgue prórroga al cumplimiento del contrato, así como durante la substanciación de todos los recursos legales o de los juicios que se interpongan y hasta que se dicte resolución definitiva que quede firme, y
 
-d) Que la afianzadora acepta expresamente someterse a los procedimientos de ejecución previstos en la Ley Federal de Instituciones de Fianzas para la efectividad de las fianzas, aún para el caso de que proceda el cobro de indemnización por mora, con motivo del pago extemporáneo del importe de la póliza de fianza requerida. Tratándose de dependencias, el procedimiento de ejecución será el previsto en el artículo 95 de la citada Ley, debiéndose atender para el cobro de indemnización por mora lo dispuesto en el artículo 95 Bis de dicha Ley;
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+d) Que la afianzadora acepta expresamente someterse a los procedimientos de ejecución previstos en la Ley de Instituciones de Seguros y de Fianzas para la efectividad de las fianzas, aún para el caso de que proceda el cobro de indemnización por mora, con motivo del pago extemporáneo del importe de la póliza de fianza requerida. Tratándose de dependencias, el procedimiento de ejecución será el previsto en el artículo 282 de la citada Ley, debiéndose atender para el cobro de indemnización por mora lo dispuesto en el artículo 283 de dicha Ley;
 
 II. En caso de otorgamiento de prórrogas o esperas al proveedor para el cumplimiento de sus obligaciones, derivadas de la formalización de convenios de ampliación al monto o al plazo del contrato, se deberá realizar la modificación correspondiente a la fianza;
 
 III. Cuando al realizarse el finiquito resulten saldos a cargo del proveedor y éste efectúe la totalidad del pago en forma incondicional, las dependencias y entidades deberán cancelar la fianza respectiva, y
 
-IV. Cuando se requiera hacer efectivas las fianzas, las dependencias deberán remitir a la Tesorería de la Federación, dentro del plazo a que hace referencia el artículo 143 del Reglamento de la Ley del Servicio de Tesorería de la Federación, la solicitud donde se precise la información necesaria para identificar la obligación o crédito que se garantiza y los sujetos que se vinculan con la fianza, debiendo acompañar los documentos que soporten y justifiquen el cobro, de conformidad con lo dispuesto por el Reglamento del Artículo 95 de la Ley Federal de Instituciones de Fianzas, para el Cobro de Fianzas Otorgadas a Favor de la Federación, del Distrito Federal, de los Estados y de los Municipios Distintas de las que Garantizan Obligaciones Fiscales Federales a cargo de Terceros; tratándose de entidades la solicitud se remitirá al área correspondiente de la propia entidad.
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Cuando se requiera hacer efectivas las fianzas, las dependencias deberán remitir a la Tesorería de la Federación, dentro del plazo a que se refiere el artículo 77 del Reglamento de la Ley de Tesorería de la Federación, la solicitud donde se precise la información necesaria para identificar la obligación o crédito que se garantiza y los sujetos que se vinculan con la fianza, debiendo acompañar los documentos que soporten y justifiquen el cobro, de conformidad con lo dispuesto por el Reglamento del Artículo 95 de la Ley Federal de Instituciones de Fianzas, para el Cobro de Fianzas Otorgadas a Favor de la Federación, del Distrito Federal, de los Estados y de los Municipios Distintas de las que Garantizan Obligaciones Fiscales Federales a cargo de Terceros; tratándose de entidades la solicitud se remitirá al área correspondiente de la propia entidad.
 
 Las modificaciones a las fianzas deberán formalizarse con la participación que corresponda a la afianzadora, en términos de las disposiciones aplicables.
 
@@ -1749,7 +1941,9 @@ VII. Información referente a la capacidad técnica, económica y financiera del
 
 VIII. Historial del proveedor en materia de contrataciones y su cumplimiento, el cual contendrá la información de los contratos de adquisiciones, arrendamientos y servicios, formalizados con las dependencias y entidades, así como la relativa a rescisiones, aplicación de penas convencionales y deductivas, ejecución de garantías y sanciones impuestas por la Secretaría de la Función Pública. Asimismo, se incluirá el grado de cumplimiento de cada proveedor conforme a su historial.
 
-La Secretaría de la Función Pública, como responsable de la administración del registro único de proveedores, tendrá las siguientes funciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+La Secretaría, como responsable de la administración del registro único de proveedores, tendrá las funciones siguientes:
 
 a) Proporcionar a las dependencias y entidades las claves y contraseñas de acceso para capturar y validar la información en el registro;
 
@@ -1759,11 +1953,15 @@ c) Atender las solicitudes y consultas relacionadas con el registro, y
 
 d) Definir estándares y procedimientos de calidad y seguridad de la información contenida en el registro, que garanticen su inalterabilidad y conservación.
 
-Los antecedentes que obren en el registro único de proveedores serán los que las dependencias y entidades deben considerar para determinar la reducción de montos de la garantía de cumplimiento a que hace referencia el segundo párrafo del artículo 48 de la Ley, atendiendo a los lineamientos que al efecto emita la Secretaría de la Función Pública.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Los antecedentes que obren en el registro único de proveedores serán los que las dependencias y entidades deben considerar para determinar la reducción de montos de la garantía de cumplimiento a que se refiere el segundo párrafo del artículo 48 de la Ley, conforme a los lineamientos que para tal efecto emita la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 106.
 
-La Secretaría de la Función Pública considerará las propuestas que formule la Comisión Intersecretarial de Compras y Obras de la Administración Pública Federal a la Micro, Pequeña y Mediana Empresa para incorporar en CompraNet la información relativa a las contrataciones realizadas con las MIPYMES.
+La Secretaría considerará las propuestas que formule la Comisión Intersecretarial de Compras y Obras de la Administración Pública Federal a la Micro, Pequeña y Mediana Empresa para incorporar en CompraNet la información relativa a las contrataciones realizadas con las MIPYMES.
 
 ###### Artículo 107.
 
@@ -1779,9 +1977,11 @@ Con independencia de lo dispuesto en el primer párrafo del artículo 58 de la L
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 109.
 
-Se sancionará en términos del primer párrafo del artículo 59 de la Ley, a los licitantes que injustificadamente y por causas imputables a los mismos se abstengan de firmar contratos según lo previsto por el segundo párrafo del artículo 46 de dicho ordenamiento, cuando el monto de éstos exceda de cincuenta veces el salario mínimo general vigente en el Distrito Federal elevado al mes.
+Se sancionará en términos del párrafo primero del artículo 59 de la Ley, a los licitantes que injustificadamente y por causas imputables a los mismos se abstengan de firmar contratos según lo previsto por el segundo párrafo del artículo 46 de dicho ordenamiento, cuando el monto de éstos exceda de cincuenta veces el valor diario vigente de la UMA elevado al mes.
 
 Los licitantes que injustificadamente y por causas imputables a ellos no formalicen dos o más contratos con cualquier dependencia o entidad, dentro del plazo de dos años, serán sancionados en términos del primer párrafo del artículo 59 de la Ley por lo que respecta al segundo y sucesivos contratos no firmados, y se les inhabilitará conforme a lo dispuesto por la fracción I del artículo 60 de la Ley.
 
@@ -2034,3 +2234,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan aquellas disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO.- Los actos y contratos que las dependencias y entidades de la Administración Pública Federal hayan celebrado con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
+
+D.O.F. 15 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las demás disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los actos y contratos que las dependencias y entidades hayan celebrado con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
