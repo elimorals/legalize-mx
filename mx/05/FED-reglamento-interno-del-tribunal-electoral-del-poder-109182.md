@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2022-08-19"
+last_updated: "2022-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-08-03"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -145,7 +145,9 @@ Asimismo deberá participar, conforme a sus facultades, en los programas y accio
 
 La Sala Superior y la Comisión de Administración, en sus respectivos ámbitos de competencia, emitirán los Acuerdos Generales o la normativa interna que consideren conveniente para efecto de garantizar los principios que orientan y rigen sus funciones, así como todas aquellas medidas necesarias para que los grupos en situación de vulnerabilidad, reciban un trato apropiado y accedan plenamente a la jurisdicción electoral.
 
-# LIBRO PRIMERO. De la Organización y Funcionamiento de las Áreas Jurisdiccionales del Tribunal Electoral del Poder Judicial de la Federación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+# LIBRO PRIMERO. De la organización y funcionamiento de las áreas jurisdiccionales del Tribunal Electoral del Poder Judicial de la Federación
 
 ## TÍTULO PRIMERO. De la Sala Superior
 
@@ -1091,6 +1093,8 @@ VI. La determinación que se pronuncie respecto del impedimento, deberá ser not
 
 VII. En caso de que se declare improcedente o no probado el impedimento, se podrá imponer al promovente, según lo estime la Sala respectiva, una medida de apremio, de conformidad con lo dispuesto en el artículo 32 de la Ley General.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ## TÍTULO CUARTO. Del Personal del Tribunal Electoral
 
 ### CAPÍTULO I. De la Ética Judicial
@@ -1119,19 +1123,35 @@ VII. Notificar a las instancias correspondientes cualquier hecho comprobado que 
 
 VIII. Cuidar y hacer buen uso de todos los bienes, útiles, materiales, herramientas, mobiliario y equipo confiados a su custodia, uso o administración.
 
-### CAPÍTULO II. De la evaluación del desempeño
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-###### Artículo 62.
+### CAPÍTULO II. De la Carrera Administrativa
 
-Todo el personal del Tribunal Electoral, independientemente de si ocupa una posición permanente o eventual, estará sujeto a la evaluación de su desempeño de manera periódica, en los tiempos que determinen los Acuerdos Generales, con el objeto de mejorar el servicio público que presta el Tribunal Electoral, de acuerdo a las disposiciones establecidas para tal efecto por la Comisión de Administración.
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
-De conformidad con los Acuerdos Generales que al efecto se emitan, se establecerá en el Tribunal Electoral el servicio civil de carrera administrativa para las y los servidores públicos de las áreas administrativas, el cual comprenderá, entre otras cosas, la selección, ingreso, adscripción, permanencia, promoción, capacitación, profesionalización, evaluación, prestaciones, estímulos y disciplina.
+Artículo 62
 
-El servicio civil de carrera administrativa se regirá por los principios de igualdad de género y de la carrera judicial, en lo que resulten aplicables. Los Acuerdos Generales determinarán las bases, lineamientos y modalidades de implementación, según la naturaleza del área administrativa de que se trate.
+El Tribunal Electoral contará con un Servicio Civil de Carrera para las y los servidores públicos de las áreas administrativas, el cual comprenderá, entre otras cosas, el reclutamiento, la selección, ingreso, movilidad, promoción, capacitación, profesionalización, evaluación del desempeño, reconocimientos, permanencia, separación y disciplina. La Comisión de Administración aprobará el catálogo de puestos, con los perfiles y las cédulas correspondientes, que integrarán el Servicio Civil de Carrera Administrativa. No formarán parte del sistema del Servicio Civil, los puestos o categorías adscritas en las ponencias de la Sala Superior ni de las Salas Regionales.
 
-###### Artículo 63.
+El Servicio Civil de Carrera Administrativa se regirá por el mérito y los criterios de excelencia en el desempeño, profesionalismo, integridad, objetividad, imparcialidad, independencia, antigüedad, paridad y perspectiva de género e igualdad de oportunidades, así como por los principios de la carrera judicial, en lo que resulten aplicables.
 
-El Tribunal Electoral brindará oportunidades de formación y desarrollo al personal a través de la capacitación conforme a las necesidades detectadas y según criterio de selección y procedimientos establecidos en el acuerdo general que la Comisión de Administración emita al respecto.
+La Comisión de Administración determinará las bases, lineamientos y modalidades de implementación del sistema del Servicio Civil, para tal efecto ponderará la inclusión de acciones afirmativas para grupos en situación de vulnerabilidad y exclusión laboral.
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 63
+
+El diseño e implementación del Servicio Civil de Carrera Administrativa se regirá por las siguientes bases:
+
+1) Visión integral del funcionamiento de los principales subsistemas de la carrera: el reclutamiento, selección, ingreso, movilidad, promoción, capacitación, profesionalización, evaluación del desempeño, reconocimientos, permanencia, separación y disciplina.
+
+2) La igualdad de oportunidades y perspectiva de género que, bajo un esquema flexible y funcional, privilegie la retención de talento, la selección idónea y el desarrollo de capacidades o competencias de sus integrantes;
+
+3) La evaluación del desempeño, como un subsistema central para la mejora continua y la toma de decisiones sobre la carrera profesional, la capacitación y la permanencia en el sistema de sus integrantes; y,
+
+4) La transparencia y máxima publicidad de las decisiones que se tomen en los diversos subsistemas de carrera.
+
+La Comisión de Administración establecerá la existencia del Comité del Servicio Civil de Carrera Administrativa del Tribunal Electoral del Poder Judicial de la Federación que, en su apoyo, participe en labores de dirección, diseño, planeación, instrumentación, ejecución y supervisión del funcionamiento del Servicio Civil de Carrera Administrativa. De igual modo, la Comisión de Administración definirá el tipo de participación que tendrá la Escuela Judicial Electoral, u otras áreas del Tribunal Electoral, para la adecuada implementación de los subsistemas.
 
 ### CAPÍTULO III. De la carrera judicial
 
@@ -2009,7 +2029,11 @@ La Sala Superior resolverá en el término de treinta días hábiles, contados a
 
 La Sala Superior podrá ordenar de oficio, que se subsane toda omisión o defecto que notare en la sustanciación del recurso.
 
-# LIBRO TERCERO. De la Organización y Funcionamiento de las Áreas Administrativas del Tribunal Electoral del Poder Judicial de la Federación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+# LIBRO TERCERO. De la organización y funcionamiento de las áreas administrativas del Tribunal Electoral del Poder Judicial de la Federación
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 ## TÍTULO PRIMERO. De la Comisión de Administración y su Presidencia
 
@@ -2219,9 +2243,11 @@ XII. Integrar los Comités y Comisiones que le instruya la Sala Superior y su Pr
 
 XIII. Las demás que les confieran las disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPÍTULO III. De los Órganos Auxiliares de la Comisión de Administración
+
+> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 173.
 
@@ -2231,27 +2257,17 @@ I. Visitaduría Judicial;
 
 II. Contraloría Interna;
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
-
 III. Dirección General de Investigación de Responsabilidades Administrativas;
 
-> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2016)</small>
-
-IV. Centro de Capacitación Judicial Electoral;
-
-> <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2016)</small>
+IV. Escuela Judicial Electoral;
 
 V. Delegaciones Administrativas; y
-
-> <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2016)</small>
 
 VI. Defensoría Electoral.
 
 Los órganos auxiliares contarán con el personal necesario para el adecuado desempeño de sus funciones, de conformidad con el presupuesto autorizado.
 
-De conformidad con los Acuerdos Generales que al efecto se emitan, se establecerá en el Tribunal Electoral el servicio civil de carrera administrativa para los servidores públicos de los órganos auxiliares, el cual comprenderá, entre otras cosas, la selección, ingreso, adscripción, permanencia, promoción, capacitación, profesionalización, evaluación, prestaciones, estímulos y disciplina.
-
-El servicio civil de carrera administrativa se regirá por los principios de la carrera judicial, en lo que resulten aplicables. Los Acuerdos Generales determinarán las bases, lineamientos y modalidades de implementación, según la naturaleza del órgano auxiliar de que se trate.
+De conformidad con los Acuerdos Generales que al efecto se emitan, se establecerá en el Tribunal Electoral el Servicio Civil de Carrera Administrativa o cualquier otro esfuerzo de profesionalización para las personas servidoras públicas de los órganos auxiliares. En esos casos también se atenderán los principios y las bases para el diseño e implementación del sistema del Servicio Civil de Carrera Administrativa mencionadas en los artículos 62 y 63 del presente Reglamento.
 
 ###### Artículo 174.
 
@@ -3409,6 +3425,8 @@ El Archivo Institucional se compone por los archivos jurisdiccional y administra
 
 El Archivo Institucional del Tribunal Electoral se integra con los expedientes de archivo generados por las unidades en el ejercicio de sus funciones jurisdiccionales, académicas y administrativas y se clasifica en Archivo de Trámite, de Concentración e Histórico.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
 ## TÍTULO TERCERO. De la Secretaría Administrativa
 
 ###### Artículo 207.
@@ -3418,6 +3436,8 @@ La Secretaría Administrativa de la Comisión de Administración está encargada
 La persona titular de la Secretaría Administrativa deberá cumplir con los requisitos establecidos en el artículo 174 para ocupar el cargo.
 
 ###### Artículo 208.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 La persona titular de la Secretaría Administrativa tendrá las facultades siguientes:
 
@@ -3507,9 +3527,17 @@ XXXIV. Proporcionar a las y los Magistrados de la Sala Superior del Tribunal Ele
 
 XXXV. Dar cuenta de todos los asuntos que le hayan sido turnados por las y los Magistrados de la Sala Superior o que la Presidencia del Tribunal le haya encomendado; y
 
-> <small>(ADICIONADA, D.O.F. 5 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 XXXVI. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+XXXVII. Coordinar la participación de las y los actores involucrados en la implementación y operación del Servicio Civil de Carrera Administrativa del Tribunal Electoral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+XXXVIII. Las demás que le confieran las disposiciones aplicables, este Reglamento, la Presidencia del Tribunal y la Comisión de Administración.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -3589,7 +3617,7 @@ VI. No haber ocupado un cargo de elección popular, ni haber sido registrada com
 
 VII. Contar, preferentemente, con experiencia en el cargo que se le encomiende.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPÍTULO I. De la Dirección General de Recursos Humanos
 
@@ -3601,7 +3629,7 @@ La Dirección General de Recursos Humanos está encargada de garantizar el adecu
 
 ###### Artículo 213.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
 
 La persona titular de la Dirección General de Recursos Humanos tendrá las facultades siguientes:
 
@@ -3635,7 +3663,13 @@ XIV. Verificar el pago de remuneraciones y el otorgamiento de prestaciones al pe
 
 XV. Participar en los Comités que le instruya la Secretaría Administrativa; y
 
-XVI. Elaborar constancias, efectuar cotejos, expedir todo tipo de certificaciones relacionadas con los expedientes del personal que labore en el Tribunal Electoral, así como de todo documento que se incorpore al mismo.
+> <small>(REFORMADA, D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+XVI. Elaborar constancias, efectuar cotejos, expedir todo tipo de certificaciones relacionadas con los expedientes del personal que labore en el Tribunal Electoral, así como de todo documento que se incorpore al mismo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 15 DE SEPTIEMBRE DE 2022)</small>
+
+XVII. Instrumentar y operar el funcionamiento del Servicio Civil de Carrera Administrativa del Tribunal Electoral, en los términos del presente Reglamento y de los acuerdos generales que sobre la materia se emitan.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4236,3 +4270,23 @@ El funcionamiento de los diversos subsistemas del respectivo servicio profesiona
 QUINTO. La persona que al momento de la entrada en vigor de la presente reforma al Reglamento se encuentre ocupando la titularidad de la Defensoría Pública Electoral para Pueblos y Comunidades Indígenas (DPEPCI) seguirá desempeñando las facultades y funciones conferidas a la nueva Defensoría Pública Electoral hasta la conclusión del periodo para el que fue designada.
 
 SEXTO. La Defensoría Pública Electoral, en el anteproyecto de Presupuesto 2023, considerará los recursos indispensables para ejercer sus atribuciones en el marco de esta reforma. La implementación de esta reforma deberá realizarse con cargo a los recursos aprobados en el presupuesto del Tribunal Electoral y en observancia a los principios constitucionales de eficiencia, eficacia, economía, transparencia y honradez.
+
+D.O.F. 15 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RELATIVA AL FORTALECIMIENTO DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA DE ESTE ÓRGANO JURISDICCIONAL”.]
+
+PRIMERO. La presente reforma entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Dentro de los 90 días hábiles siguientes a su entrada en vigor, la Comisión de Administración aprobará los Acuerdos Generales, así como el catálogo de puestos, que se desprendan de lo referido en los artículos 62 y 63, para asegurar los principios y bases ahí dispuestas, así como para hacer viable lo previsto en las fracciones XXXVII del artículo 208, y XVII del artículo 213 del Reglamento Interno.
+
+A efecto de que la Comisión de Administración pueda aprobar el catálogo de puestos a que se refiere el artículo 62, párrafo primero, del Reglamento Interno, la Secretaría Administrativa coordinará el trabajo de análisis e integración de la propuesta, con el apoyo de las áreas administrativas facultadas para tal efecto. En el Catálogo se precisarán las áreas administrativas, así como los puestos, a las que aplicará el sistema de Servicio Civil.
+
+TERCERO. En una próxima sesión de la Comisión de Administración, la Secretaría Administrativa deberá presentar a dicho órgano:
+
+1) La propuesta de reestructura organizacional de la Dirección General de Recursos Humanos, a fin de prever un adecuado diseño orgánico para cumplir con los objetivos y hacer viable la implementación del Servicio Civil de Carrera Administrativa, bajo los principios y bases aprobadas por la presente reforma. En la integración de la propuesta se deberá realizar bajo la lógica de movimientos compensados, respetando medidas de austeridad y racionalidad; y,
+
+2) Un plan de trabajo para la implementación del Servicio Civil de Carrera Administrativa.
+
+CUARTO. Las erogaciones que se requieran para la implementación del Servicio Civil de Carrera Administrativa deberán limitarse al mínimo indispensable y realizarse con cargo a los recursos aprobados en el Presupuesto del Tribunal.
+
+QUINTO. Una vez que se apruebe el catálogo de puestos del Servicio Civil de Carrera Administrativa, con sus respectivas cédulas y perfiles, el personal que a la entrada en vigor de la presente reforma ocupe los puestos autorizados en dicho Catálogo podrá optar por agotar el proceso para su ingreso formal al Sistema del Servicio Civil de Carrera Administrativa, mismo que establecerá las condiciones y reglas para la continuidad y estabilidad laboral de sus integrantes. Este proceso consistirá, en primer término, en una verificación del cumplimiento del perfil del puesto de que se trate y, posteriormente, en acreditar la capacitación y, en su caso, las evaluaciones que la Comisión de Administración determine.
