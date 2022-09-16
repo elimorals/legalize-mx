@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-humanos-del-estado-de-queretaro-109773"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2020-10-30"
+last_updated: "2022-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -227,11 +227,11 @@ XII. Elaborar, conforme a sus necesidades, su proyecto de presupuesto anual de i
 
 XIII. Promover la política estatal de difusión, divulgación, educación, respeto, protección y defensa de los Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
-XIV. Rendir, a través de su Presidente, en el mes de febrero de cada año, ante la Legislatura del Estado, un informe por escrito, detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de sus actividades.
+XIV. Rendir, a través de su Presidente, en el mes de enero de cada año, ante el Pleno de la Legislatura del Estado, un informe por escrito, detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de sus actividades.
 
-De igual manera, en el mismo mes se informará a la ciudadanía sobre sus actividades en la forma que para ello determine previamente el Consejo;
+De igual manera, en el mismo mes se informará a la ciudadanía sobre sus actividades;
 
 XV. Promover y fortalecer las relaciones con organismos públicos en la materia, con el propósito de que, conjuntamente con las autoridades, se instrumenten las medidas pertinentes para garantizar a los particulares, programas preventivos en materia de protección de Derechos Humanos;
 
@@ -259,9 +259,17 @@ I. La Presidencia;
 
 II. El Consejo;
 
-III. La Secretaría Ejecutiva; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
-IV. La Visitaduría General.
+III. La Secretaría Ejecutiva;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+IV. La Visitaduría General; y
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+V. La Secretaría Técnica.
 
 Para el mejor desempeño de sus funciones, la Defensoría contará, con el personal técnico y administrativo que determine su reglamento.
 
@@ -273,9 +281,9 @@ La Defensoría estará a cargo de un Presidente, quien deberá reunir para su de
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
-II. Tener preferentemente título de Licenciatura en Derecho y contar con experiencia en materia de Derechos Humanos o actividades a fines (sic) reconocidas en leyes mexicanas y los instrumentos jurídicos internacionales y tener cumplidos treinta y cinco años de edad, el día de su elección.
+II. Contar con experiencia en materia de Derechos Humanos;
 
 III. No ser o haber sido dirigente nacional, estatal o municipal de partido o asociación política en los últimos seis años;
 
@@ -343,7 +351,9 @@ I. Ejercer la representación legal de la Defensoría;
 
 II. Presidir el Consejo de la Defensoría;
 
-III. Proponer a los integrantes del Consejo los reglamentos a los que se sujetarán las actividades administrativas de la misma y, en su caso ejecutarlos;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+III. Aprobar y expedir los reglamentos, manuales, acuerdos y demás disposiciones administrativas a las que se sujetará la Defensoría, así como otorgar poderes de conformidad con las disposiciones aplicables;
 
 IV. Nombrar, dirigir y coordinar a los servidores públicos y al personal bajo su autoridad, con las excepciones que esta Ley establece;
 
@@ -351,11 +361,15 @@ V. Dictar las medidas específicas que juzgue convenientes para el mejor desempe
 
 VI. Distribuir y delegar funciones en el Secretario Ejecutivo y en los Visitadores, según corresponda, en los términos de esta Ley;
 
-VII. Proponer a los integrantes del Consejo, el proyecto del informe que debe rendir anualmente sobre sus actividades;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Proponer a quienes deban fungir como Consejeros de la Defensoría en términos de las disposiciones aplicables;
 
 VIII. Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con instituciones y organismos públicos o privados, nacionales e internacionales, instituciones académicas, organizaciones de la sociedad civil y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
-IX. Proponer a los integrantes del Consejo, el proyecto de presupuesto anual de la Defensoría, el cual, una vez aprobado, se le dará trámite legal conducente;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Elaborar el proyecto de presupuesto anual de la Defensoría, y darle el trámite legal conducente;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
 
@@ -379,23 +393,29 @@ Para proceder penalmente en contra del Presidente, será necesaria la declaraci�
 
 ### Capítulo IV. Del Consejo
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 29.
 
-El Consejo estará integrado por un Presidente, que será el de la Defensoría; un Secretario Técnico, que será el titular de la Secretaría Ejecutiva; y seis Consejeros, que deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, con conocimiento y experiencia en materia de Derechos Humanos. Los Consejeros no deberán desempeñarse como servidores públicos al momento de la designación.
+El Consejo estará integrado por un Presidente, que será el de la Defensoría; un Secretario Técnico, que será la persona titular de la Secretaría Técnica de la Defensoría, quien participará con voz pero sin voto; y seis Consejeros, que deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, con conocimiento y experiencia en materia de Derechos Humanos. Los Consejeros no deberán desempeñarse como servidores públicos al momento de la designación.
 
-Los Consejeros ciudadanos serán designados por la Legislatura, mediante el voto de las dos terceras partes de sus integrantes, garantizando siempre que los consejeros ciudadanos sean designados paritariamente en igualdad de género, a propuesta del Consejo.
+Los Consejeros ciudadanos serán designados por la Legislatura a propuesta del Presidente de la Defensoría, mediante el voto de la mayoría de sus integrantes, garantizando siempre que los consejeros ciudadanos sean designados paritariamente en igualdad de género.
 
-El cargo de Consejero será de carácter honorífico y, por lo tanto, su desempeño no implicará relación laboral alguna, ni devengará salario o estipendio de ninguna naturaleza.
+El cargo de Consejero será de honorífico, por lo que no percibirán ingreso, remuneración, prestación, emolumento, compensación o retribución alguna o estipendio de ninguna naturaleza y su designación no implicará relación laboral a cargo de la Defensoría.
 
-Cada tres años deberán ser sustituidos los tres miembros del Consejo de mayor antigüedad; para tal efecto, los integrantes restantes propondrán a los sustitutos, debiendo tomar en cuenta las propuestas ciudadanas, comunicándolo a la Legislatura del Estado para efecto de que sean considerados en el proceso de designación.
+Cada tres años deberán ser sustituidos los tres miembros del Consejo de mayor antigüedad; para tal efecto, el Presidente de la Defensoría propondrá a los sustitutos, debiendo tomar en cuenta las propuestas ciudadanas, comunicándolo a la Legislatura del Estado para efecto de que sean considerados en el proceso de designación.
 
-El funcionamiento del Consejo, así como los criterios a seguir en caso de ausencia o renuncia de alguno de sus integrantes, se regirá por lo dispuesto en el reglamento respectivo, a excepción de lo que disponga la presente Ley.
+El funcionamiento del Consejo se regirá por lo dispuesto en la presente Ley y el reglamento respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 30.
 
-El Consejo funcionará en sesiones ordinarias y extraordinarias; sus integrantes tendrán derecho a voz y a voto, y tomarán sus decisiones por mayoría de votos de los miembros presentes.
+El Consejo funcionará en sesiones ordinarias y extraordinarias; sus integrantes tendrán derecho a voz y a voto, con excepción del Secretario Técnico que sólo tendrá derecho a voz, y tomarán sus decisiones por mayoría de votos de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
 
-Las sesiones ordinarias se verificarán cuando menos una vez al mes; las extraordinarias se convocarán por el Presidente o mediante solicitud que formulen tres miembros del Consejo, cuando se estime que hay razones de importancia para ello.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+Las sesiones ordinarias se verificarán cuando menos trimestralmente; las extraordinarias se convocarán conforme lo determine el reglamento aplicable.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2016)</small>
 
@@ -407,15 +427,39 @@ El Consejo tendrá las siguientes atribuciones:
 
 I. Establecer los lineamientos generales de actuación de la Defensoría y aprobar las normas de carácter interno relacionadas con ésta;
 
-II. Aprobar el Reglamento Interior de la Defensoría;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
-III. Aprobar el informe detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de actividades que se (sic) deberá rendir la Defensoría ante la Legislatura, así como a la ciudadanía;
+II. Aprobar los reglamentos de su competencia;
+
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+III. Conocer el informe detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de actividades, que deberá rendir la Defensoría ante la Legislatura, así como a la ciudadanía;
 
 IV. Solicitar al Presidente, información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Defensoría;
 
-V. Formular propuestas para impulsar la cultura de los Derechos Humanos en la Entidad; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
-VI. Las demás que esta Ley y el Reglamento le confieran.
+V. Formular propuestas para impulsar la cultura de los Derechos Humanos en la Entidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Conocer el programa anual de trabajo de la Defensoría y su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Emitir opiniones a la Defensoría sobre temas relevantes en las materias de protección de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Emitir opiniones técnicas para la mejora continua en el ejercicio de las atribuciones de la Defensoría;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Analizar la ejecución de programas, proyectos y acciones relativas a la defensa y protección de los Derechos Humanos; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+X. Las demás que esta Ley y los reglamentos le confieren.
 
 ### Capítulo V. De la Secretaría Ejecutiva
 
@@ -425,25 +469,25 @@ La Secretaría Ejecutiva es el órgano dedicada (sic) a la educación, difusión
 
 Los promotores de Derechos Humanos que integren la Secretaría Ejecutiva impulsarán la política de educación y promoción de los Derechos Humanos que encabece la Defensoría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 33.
 
-El Secretario Ejecutivo será designado por el Presidente de la Defensoría, quien para su selección deberá vigilar que cumpla con los siguientes requisitos:
+El Secretario Ejecutivo será designado por el Presidente de la Defensoría, y deberá cumplir con los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Ser de reconocida honradez, rectitud y no haber sido condenado por delito doloso mediante sentencia ejecutoriada;
 
-III. Contar con título profesional afín a las funciones de la Secretaría Ejecutiva y con un mínimo de diez años en el ejercicio profesional, contados a partir de la expedición del título respectivo; y
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+III. Contar con título profesional afín a las funciones de la Secretaría Ejecutiva y con un mínimo de cinco años en el ejercicio profesional, contados a partir de la expedición del título respectivo; y
 
 IV. Tener conocimiento general de las condiciones sociales, políticas, económicas y culturales del Estado, así como en materia de Derechos Humanos.
 
-(NOTA: EL 12 DE MARZO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2015 Y SUS ACUMULADAS 102/2015 Y 105/2015 DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx).
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
-PODRÁ SER REMOVIDO BAJO EL MISMO PROCEDIMIENTO ESTABLECIDO PARA LA REMOCIÓN DEL PRESIDENTE, POR INCURRIR EN ALGUNA DE LAS CAUSAS GRAVES ESTABLECIDAS EN EL ARTÍCULO 131 DE LA PRESENTE LEY.
-
-Para el caso de que uno o más de los candidatos a Secretario Ejecutivo que integren la terna propuesta formulada por el Presidente no cumpla con los requisitos señalados, la misma será desechada por acuerdo de la Mesa Directiva, solicitando, al Presidente de la Defensoría, proponga nueva terna en un plazo no mayor a 15 días, en la que se podrán incluir a los candidatos que sí hayan cumplido con los requisitos de Ley.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 34.
 
@@ -451,7 +495,7 @@ El Secretario Ejecutivo tendrá las siguientes facultades y obligaciones:
 
 I. Coordinar el trabajo desempeñado por la Secretaría Ejecutiva, como órgano dedicado a la promoción, difusión, educación, investigación y divulgación de los Derechos Humanos, mediante la organización de foros, campañas y eventos, que fomenten conocimiento y sensibilización en la materia;
 
-II. Preparar los anteproyectos de iniciativas de leyes y reglamentos que la Defensoría haya de presentar a los órganos competentes, así como los estudios que los sustenten;
+II. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2022)
 
 III. Fomentar y mantener vínculos interinstitucionales, así como promover y coordinar la celebración de convenios de colaboración, con el propósito de difundir el respeto a los Derechos Humanos y prevenir violaciones a los mismos;
 
@@ -463,7 +507,9 @@ VI. Enriquecer, mantener y custodiar el acervo documental de la Defensoría;
 
 VII. Tener bajo su responsabilidad, la edición de las publicaciones institucionales de la Defensoría; y
 
-VIII. Las demás que le sean conferidas por el Consejo y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Las demás que le señale la presente Ley y la normatividad aplicable.
 
 ### Capítulo VI. Del Visitador General
 
@@ -487,17 +533,17 @@ I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civile
 
 II. Tener título de Licenciado en Derecho;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
-III. Contar por lo menos con diez años de ejercicio profesional, contados a partir de la fecha de expedición del título respectivo;
+III. Contar por lo menos con cinco años de ejercicio profesional, contados a partir de la fecha de expedición del título respectivo;
 
 IV. No haber sido condenado por delito doloso, mediante sentencia ejecutoriada; y
 
 V. Contar con conocimientos, trayectoria y experiencia suficiente para la aplicación de instrumentos jurídicos locales, nacionales e internacionales protectores de los Derechos Humanos.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
-Los Visitadores Adjuntos serán designados por el Visitador General; lo auxiliarán en sus funciones y deberán cubrir los mismos requisitos que éste para desempeñar el cargo, con excepción del requisito descrito en la fracción III, pues para ese caso, solo deberán contar al menos con tres años de ejercicio en la profesión que refiere.
+Los Visitadores Adjuntos y auxiliares serán designados por el Presidente y deberán cubrir los mismos requisitos que el Visitador General para desempeñar el cargo, con excepción del requisito descrito en la fracción III, pues para ese caso, solo deberán contar al menos con tres años de ejercicio en la profesión que refiere.
 
 Las suplencias de los Visitadores Adjuntos y del resto del personal de la Defensoría, se sujetarán a lo dispuesto en el Reglamento Interior.
 
@@ -507,9 +553,7 @@ Las suplencias de los Visitadores Adjuntos y del resto del personal de la Defens
 
 El Visitador General, tiene las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2016)</small>
-
-I. Designar a los Visitadores Adjuntos y Visitadores Adjuntos Auxiliares;
+I. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2022)
 
 II. Coordinar el trabajo del personal a su cargo;
 
@@ -517,7 +561,7 @@ III. Recibir, admitir o rechazar las quejas, inconformidades y recursos presenta
 
 IV. Presentar al Presidente de la Defensoría un informe anual, durante la última semana del mes de enero de cada año, sobre las actividades de la Defensoría;
 
-V. Proponer al Presidente la celebración, en los términos de la legislación aplicable, de acuerdos, bases de coordinación y convenios de colaboración, con organismos dedicados a la defensa de los Derechos Humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de los fines de la Defensoría;
+V. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2022)
 
 VI. Iniciar, a petición de parte o de oficio, la investigación sobre las denuncias de violación a los Derechos Humanos, de que tuviere conocimiento;
 
@@ -531,7 +575,7 @@ X. Proponer al Presidente la emisión de las recomendaciones públicas autónoma
 
 XI. Proponer al Presidente las medidas conducentes, para la mejor protección de los Derechos Humanos en el Estado;
 
-XII. Coordinar las acciones tendientes a la protección de las víctimas;
+XII. (DEROGADA, P.O. 16 DE SEPTIEMBRE DE 2022)
 
 XIII. Dar seguimiento al cumplimiento de los acuerdos establecidos con las autoridades, derivados de las resoluciones de la Defensoría;
 
@@ -539,21 +583,9 @@ XIV. Realizar todos los trámites necesarios para el seguimiento de las quejas y
 
 XV. Solicitar las medidas cautelares que se requieran;
 
-XVI. Intervenir, por medio de la Coordinación de Atención a la Víctima, en asuntos relacionados con violencia familiar que se presenten en el Estado, por lo que contará con las siguientes facultades:
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
-a) Conocer, a petición de parte o de oficio, conductas que se encuadren en el concepto de violencia familiar.
-
-b) Realizar visitas a asociaciones civiles, instituciones de asistencia privada y organismos enfocados a la atención de la niñez y las mujeres, a efecto de verificar la observancia y respeto a los Derechos Humanos de estos grupos, así como la elaboración del padrón previsto en el artículo 17, fracción IX, de la presente Ley.
-
-c) Hacer del conocimiento del Ministerio Público la probable comisión de conductas tipificadas como delitos, a efecto de que se realice la investigación correspondiente.
-
-d) Coadyuvar, en los términos de la legislación aplicable, con el Ministerio Público en la atención de casos de violencia familiar.
-
-e) Asesorar legalmente a la víctima, victimario y familiares que han sido objeto de violencia familiar, sobre las acciones orientadas al resarcimiento del daño que se les produjo, en su caso.
-
-f) Gestionar la asistencia médica, psicológica o de cualquier otro tipo, en favor de las víctimas de violencia familiar, en los casos que así lo ameriten.
-
-g) Generar un diagnóstico sobre la situación producida por la violencia familiar en el Estado; y
+XVI. Intervenir en asuntos relacionados con violencia familiar que se presenten en el Estado; y
 
 XVII. Las demás que le señale la Ley.
 
@@ -573,13 +605,45 @@ V. Efectuar todas las demás acciones que conforme a derecho juzgue convenientes
 
 VI. Solicitar, en cualquier momento, a las autoridades competentes, la adopción de las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de las violaciones denunciadas o reclamadas o la producción de daños de difícil reparación a los afectados, así como solicitar su levantamiento cuando cambie la situación que las motivaron. Dichas medidas también podrán ser restitutorias.
 
-### Capítulo Único
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
 
-### Capítulo I. De la presentación de quejas o denuncias en materia de Derechos Humanos
+### Capítulo VII. De la Secretaría Técnica
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 38 Bis.
+
+El Secretario Técnico será designado por el Presidente de la Defensoría y tendrá las siguientes atribuciones:
+
+I. Integrar el orden del día de las sesiones del Consejo;
+
+II. Elaborar y resguardar las actas de las sesiones del Consejo;
+
+III. Proponer al Presidente la celebración, en los términos de la legislación aplicable, de acuerdos, bases de coordinación y convenios de colaboración, con organismos dedicados a la defensa de los Derechos Humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de los fines de la Defensoría;
+
+IV. Expedir y certificar copias de documentos y constancias que existan en los archivos de la Defensoría;
+
+V. Refrendar para su validez y observancia los reglamentos, acuerdos y demás normatividad administrativa expedida por el Presidente de la Defensoría;
+
+VI. Fungir como enlace para mejor proveer en la comunicación y colaboración entre las unidades administrativas de la Defensoría;
+
+VII. Redactar, organizar, suscribir y tramitar la correspondencia oficial del Presidente que no esté asignada a otra unidad administrativa;
+
+VIII. Recibir, organizar y canalizar los documentos que sean recibidos en (sic) Oficialía de Partes de la Defensoría;
+
+IX. Organizar al personal administrativo a su cargo;
+
+X. Fungir como asesor jurídico del Presidente;
+
+XI. Representar a la Defensoría en sesiones de organismos, comités, asambleas y demás que le instruya el Presidente; y
+
+XII. Las demás que le señale la presente Ley y la normatividad aplicable.
+
+### Capítulo Único
 
 ## Título Tercero. Del régimen laboral, patrimonio y presupuesto
 
-### Capítulo II. De la actuación de oficio
+### Capítulo I. De la presentación de quejas o denuncias en materia de Derechos Humanos
 
 ###### Artículo 39.
 
@@ -613,7 +677,7 @@ El ejercicio del presupuesto de la Defensoría será revisado y fiscalizado en l
 
 ## Título Cuarto. De los procedimientos, recursos y responsabilidades
 
-### Capítulo III. De la calificación de la queja
+### Capítulo II. De la actuación de oficio
 
 ###### Artículo 44.
 
@@ -691,7 +755,7 @@ No se tramitará ninguna queja cuando del expediente se desprenda que es notoria
 
 La Defensoría considerará las manifestaciones vertidas por el quejoso, a fin de ratificar, revocar o modificar el acuerdo de calificación de la queja, en un plazo de cinco días.
 
-### Capítulo IV. De la tramitación de la queja
+### Capítulo III. De la calificación de la queja
 
 ###### Artículo 58.
 
@@ -705,7 +769,7 @@ II. Violaciones de lesa humanidad.
 
 Para proceder de oficio por probables violaciones a derechos humanos, se requerirá de acuerdo razonado del Presidente.
 
-### Capítulo V. De la conciliación
+### Capítulo IV. De la tramitación de la queja
 
 ###### Artículo 60.
 
@@ -745,7 +809,7 @@ Calificada la queja como probable violatoria, el Visitador correspondiente solic
 
 En la integración e investigación de los expedientes de queja, el visitador designado actuará bajo la supervisión del Visitador General.
 
-### Capítulo VI. De las causas de conclusión
+### Capítulo V. De la conciliación
 
 ###### Artículo 67.
 
@@ -827,7 +891,7 @@ Cuando resulten ciertos los hechos y se negare la medida precautoria o cautelar 
 
 Las medidas aludidas se solicitarán cuando la naturaleza del caso lo amerite, por un plazo que no podrá ser superior a treinta días, salvo que sea justificada la ampliación de dicha medida cautelar.
 
-### Capítulo VII. Del acuerdo de responsabilidad
+### Capítulo VI. De las causas de conclusión
 
 ###### Artículo 82.
 
@@ -857,7 +921,7 @@ La Defensoría podrá conciliar asuntos derivados de denuncias interpuestas en c
 
 Conciliado el asunto entre particulares, se emitirá un acta correspondiente en los términos acordados; en caso de incumplimiento, ésta servirá de base para el inicio de la acción correspondiente.
 
-### Capítulo VIII. De las recomendaciones
+### Capítulo VII. Del acuerdo de responsabilidad
 
 ###### Artículo 88.
 
@@ -887,7 +951,7 @@ X. Por haberse dictado acuerdo de no responsabilidad.
 
 Los expedientes de queja serán concluidos mediante acuerdo del Visitador, debidamente fundado y motivado, en el que se establecerá con claridad la causa de conclusión del expediente, notificando de ello a las partes.
 
-### Capítulo IX. De los acuerdos de no responsabilidad
+### Capítulo VIII. De las recomendaciones
 
 ###### Artículo 90.
 
@@ -929,7 +993,7 @@ La Defensoría deberá brindar a la autoridad correspondiente la asesoría que r
 
 El incumplimiento del acuerdo de responsabilidad podrá generar la continuidad del trámite de queja.
 
-### Capítulo X. Del recurso de queja y del recurso de impugnación
+### Capítulo IX. De los acuerdos de no responsabilidad
 
 ###### Artículo 96.
 
@@ -997,7 +1061,7 @@ La no aceptación de una recomendación será notificada por la Defensoría a la
 
 De no resultar satisfactorias las razones y el informe expuestos por el servidor público, la citada Comisión deberá denunciarlo así al Pleno de la Legislatura, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro, a efecto de que se finquen las responsabilidades políticas y administrativas a que hubiere lugar.
 
-### Capítulo I. Del procedimiento de queja
+### Capítulo X. Del recurso de queja y del recurso de impugnación
 
 ###### Artículo 107.
 
@@ -1027,7 +1091,7 @@ Los acuerdos de no responsabilidad se refieren a casos concretos, cuyo origen es
 
 Cuando un quejoso se conduzca con falsedad en el curso de los asuntos que ponga en conocimiento de la Defensoría, de acuerdo con la gravedad y circunstancias del caso, se hará constar en la resolución correspondiente.
 
-### Capítulo II. Del procedimiento conciliatorio entre particulares
+### Capítulo I. Del procedimiento de queja
 
 ###### Artículo 112.
 
@@ -1041,7 +1105,7 @@ El Presidente, conjuntamente con el Visitador General, estará a cargo de su ins
 
 ## Título Quinto. Del procedimiento de queja en materia de discriminación
 
-### Capítulo III. De la resolución
+### Capítulo II. Del procedimiento conciliatorio entre particulares
 
 ###### Artículo 114.
 
@@ -1055,7 +1119,7 @@ Admitida y registrada la queja, dentro de los siguientes cinco días hábiles, d
 
 Para la investigación de las quejas en materia de discriminación, se estará a lo dispuesto en la presente Ley.
 
-### Capítulo IV. De los informes
+### Capítulo III. De la resolución
 
 ###### Artículo 116.
 
@@ -1065,7 +1129,7 @@ Para la investigación de las quejas en materia de discriminación, se estará a
 
 (DEROGADO, P.O. 22 DE JULIO DE 2016)
 
-### Capítulo I. Del procedimiento para la remoción
+### Capítulo IV. De los informes
 
 ###### Artículo 118.
 
@@ -1075,7 +1139,7 @@ Si al concluir la investigación no se comprueba que las autoridades o servidore
 
 Si finalizada la investigación, la Defensoría comprueba que los servidores públicos o autoridades denunciadas cometieron alguna conducta discriminatoria, formulará la correspondiente resolución, en la que se señalarán los fundamentos que se tuvieron para ello y las pruebas que lo demuestren, notificando al órgano administrativo competente, para el inicio obligatorio del procedimiento que corresponda.
 
-### Capítulo II. De las causas para la remoción
+### Capítulo I. Del procedimiento para la remoción
 
 ###### Artículo 120.
 
@@ -1090,6 +1154,8 @@ De igual manera, podrá efectuar pronunciamientos o propuestas generales o espec
 En los informes anuales o especiales, no se incluirán los datos personales del quejoso.
 
 ## Título Sexto. De la remoción del Presidente de la Defensoría de los Derechos Humanos de Querétaro
+
+### Capítulo II. De las causas para la remoción
 
 ###### Artículo 122.
 
@@ -1107,7 +1173,9 @@ Para el caso de que la propuesta de remoción no vaya acompañada de las constan
 
 Una vez recibida la propuesta de remoción prevista en el presente Capítulo, la Mesa Directiva, por sí, o a través del órgano legislativo que ésta determine, notificará de ello al Presidente de la Defensoría, corriéndole traslado de las constancias con copia de ésta y de las constancias en que aquella se sustenta, para que en un plazo no mayor a diez días hábiles, contados a partir de la notificación concurra a sesión, para que en ejercicio de su garantía de audiencia, exponga lo que a su derecho convenga, respecto a la propuesta en comento, previa convocatoria que para ello se formule con al menos veinticuatro horas de anticipación a la misma.
 
-Para efectos de realizar la notificación, se habilitará al personal de la Dirección de Asuntos Legislativos y Jurídicos, del Poder Legislativo del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+Para efectos de realizar la notificación, se habilitará al personal de la Secretaría de Servicios Parlamentarios del Poder Legislativo del Estado de Querétaro.
 
 ###### Artículo 125.
 
@@ -1131,7 +1199,9 @@ Desahogadas las pruebas y concluido el periodo señalado para ello, en un plazo 
 
 Concluidos los plazos previstos en los artículos que anteceden, agotado el derecho de audiencia y con la propuesta de remoción, las constancias que acompañen a la misma y, desahogadas las pruebas ofrecidas por las partes y considerados los alegatos formulados, se dictaminará sobre la petición de remoción en un periodo no mayor a 30 días naturales, sometiendo su propuesta al Pleno de la Legislatura, que discutirá y votará el dictamen conforme a las prevenciones de la Ley Orgánica del Poder Legislativo del Estado de Querétaro.
 
-Una vez aprobado por la Legislatura el dictamen de remoción, se habilitará al personal de la Dirección de Asuntos Legislativos y Jurídicos del Poder Legislativo del Estado de Querétaro para efectos de realizar la notificación del mismo.
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2022)</small>
+
+Una vez aprobado por la Legislatura el dictamen de remoción, se habilitará al personal de la Secretaría de Servicios Parlamentarios del Poder Legislativo del Estado de Querétaro para efectos de realizar la notificación del mismo.
 
 ###### Artículo 130.
 
@@ -1246,3 +1316,19 @@ P.O. 30 DE OCTUBRE DE 2020.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 16 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO, RELACIONADAS CON LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO COMO ORGANISMO CONSTITUCIONAL AUTÓNOMO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Por única ocasión, 3 Consejeros durarán 2 años en el Consejo, los restantes permanecerán el periodo que corresponde.
+
+Artículo Cuarto. La Defensoría de los Derechos Humanos de Querétaro contará con un plazo de 6 meses contados a partir de la entrada en vigencia de la presente Ley, para generar o adecuar los reglamentos que correspondan.
+
+Artículo Quinto. Se faculta al Presidente a realizar las transferencias necesarias al presupuesto de la Defensoría para cumplir con lo dispuesto en la presente Ley.
+
+Artículo Sexto. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de Defensoría de los Derechos Humanos de Querétaro, como ente público autónomo.
