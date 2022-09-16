@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-120929
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-18"
-last_updated: "2021-10-08"
+last_updated: "2022-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 16 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE SEPTIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 18 de abril de 2017.
 
@@ -972,3 +972,19 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 16 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Artículo Segundo. Se abroga la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el 18 de abril de 2017.
+
+Artículo Tercero. Las auditorías, investigaciones y procedimientos administrativos iniciados de conformidad con la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el 18 de abril de 2017, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de dicha Ley.
+
+Artículo Cuarto. La ESFE deberá expedir los ordenamientos jurídicos y realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en la presente Ley.
+
+Artículo Quinto. Lo dispuesto en los artículos 17, 21, último párrafo, 22 y 23 de la presente Ley, con relación a la utilización de medios electrónicos en el proceso de fiscalización superior, entrará en vigor a partir del día siguiente de la publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, de las disposiciones reglamentarias o los lineamientos en materia de herramientas y medios digitales a que hacen referencia los citados artículos.
+
+Artículo Sexto. Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente Ley, corresponderá a la ESFE gestionar se lleven a cabo las adecuaciones presupuestales que conforme a la disponibilidad financiera del presente ejercicio sean aplicables y las que correspondan en su caso para que se contemplen dichos movimientos dentro del Presupuesto de Egreso (sic) del Estado de Querétaro para el ejercicio fiscal 2023.
