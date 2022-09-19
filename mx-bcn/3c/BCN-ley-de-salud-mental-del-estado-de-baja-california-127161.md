@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-mental-del-estado-de-baja-california-127161"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-23"
-last_updated: "2018-02-23"
+last_updated: "2022-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Baja California, el viernes 23 de febrero de 2018.
 
@@ -195,9 +195,17 @@ IV. Suscribir convenios, acuerdos o cualquier instrumento jurídico de coordinac
 
 V. Llevar a cabo los convenios de coordinación necesarios con los Municipios del Estado y el Instituto, para que en cada uno de los municipios del Estado, se cuente, mínimamente con un Módulo Comunitario de Atención en Salud Mental;
 
-VI. Implementar estrategias de coordinación y supervisión de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la prevención, diagnóstico oportuno, tratamiento y rehabilitación, además, de garantizar la calidad en la prestación de los servicios de salud mental y adicciones, y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-VII. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
+VI. Implementar estrategias de coordinación y supervisión de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la prevención, diagnóstico oportuno, tratamiento y rehabilitación, además, de garantizar la calidad en la prestación de los servicios de salud mental y adicciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Brindar, a través de una línea telefónica de ayuda psicológica y de intervención en crisis, atención en tiempo real y contribuir a estabilizar a los pacientes, mientras se canaliza a una terapia psicológica presencial; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
 ###### Artículo 11.
 
@@ -400,3 +408,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 132 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 10 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE REFORMA AL ARTÍCULO 30 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. Las presentes reformas entraran en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
