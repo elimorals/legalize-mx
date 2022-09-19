@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2021-07-23"
+last_updated: "2022-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -93,89 +93,89 @@ Para los efectos de esta Ley, se estará a las definiciones de conceptos que se 
 
 I. AGUAS RESIDUALES: Las aguas de composición variada provenientes de las descargas de usos municipales, comerciales, de servicios, agrícolas, pecuarios, domésticos, incluyendo fraccionamientos y en general cualquier otro uso, así como la mezcla de ellas.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-II. ÁREAS VERDES URBANAS: Los parques, jardines, arboladas, alamedas, y demás lugares inducidos, ubicadas dentro de las áreas urbanas en el Estado.
+II. ÁREA VERDE URBANA: Bien inmueble del dominio público municipal ubicado dentro de los límites de los centros de población, ocupado predominantemente por vegetación, destinado al uso, disfrute o aprovechamiento colectivo y de acceso generalizado y libre tránsito;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-III. AUDITORÍA AMBIENTAL: Examen metodológico, de carácter voluntario de las responsables del funcionamiento y operaciones de una empresa, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente;
+III. AUDITORIA AMBIENTAL: Examen metodológico, de carácter voluntario de las responsables del funcionamiento y operaciones de una empresa, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-IV. AUTORREGULACIÓN: Proceso voluntario a través del cual los particulares buscan mejorar su desempeño ambiental, respetando la legislación y normatividad vigente en la materia, y se comprometen a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental;
+IV. AUTORREGULACION: Proceso voluntario a través del cual los particulares buscan mejorar su desempeño ambiental, respetando la legislación y normatividad vigente en la materia, y se comprometen a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 V. CENTROS DE VERIFICACIÓN: Centros de verificación de emisiones contaminantes a la atmósfera de automotores en circulación;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 VI. COMBUSTIBLES FÓSILES: Materiales comburentes de origen orgánico que incluyen los hidrocarburos, el gas natural y el carbón;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 VII. CONSEJO: Al Consejo Estatal de Protección al Ambiente del Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 VIII. CONSERVACIÓN: Conjunto de políticas y medidas orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-IX. CONTAMINACIÓN LÚMINICA: Emisión de flujo luminoso en la atmosfera de fuentes artifíciales nocturnas, en intensidades, direcciones, rangos espectrales u horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente;
+IX. CONTAMINACION LUMINICA: Emisión de flujo luminoso en la atmosfera de fuentes artificiales nocturnas, en intensidades, direcciones, rangos espectrales u horarios innecesarios para la realización de las actividades previstas en la zona en que se instala la fuente;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 X. CONTINGENCIA AMBIENTAL: Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas, declarada por las autoridades competentes cuando se presenta o se prevé con base en objetivos o en el monitoreo de la contaminación ambiental;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 XI. EMERGENCIA ECOLÓGICA: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a sus elementos, pone en peligro a uno o varios ecosistemas, declarada por las autoridades competentes cuando se presenta o se prevé con base en objetivos o en el monitoreo de la contaminación ambiental;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 XII. EUTROFICACIÓN: Proceso de fertilización acelerada en lagos, arroyos y esteros, generado por un enriquecimiento de nutrientes que produce alga, lama y plantas que deterioran el ambiente acuático;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 XIII. FUENTE FIJA: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 XIV. FUENTE MÓVIL: Unidad sujeta a movimiento que genera y emite contaminantes a la atmósfera;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 XV. INVERNADERO (EFECTO DE): Propiedad de la atmósfera de dejar entrar de una manera fácil la radiación solar, pero que a la vez dificulta la salida del calor. Este fenómeno se acentúa por la acumulación de gases en el aire producidos por la combustión de hidrocarburos y otras actividades humanas;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 XVI. LEY: Ley de Protección al Ambiente para el Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 XVII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 XVIII. MEJOR TECNOLOGÍA DISPONIBLE: El conjunto de equipos, dispositivos, mecanismos, técnicas o sistemas, que aplicados a una fuente o proceso generador de contaminantes, logra la mayor reducción, minimización o eliminación de dichos contaminantes, o reduce su grado de peligrosidad, comparada con otras tecnologías usuales. Se entiende asimismo, que su implementación es técnicamente factible, que es posible su adquisición en el mercado regional, y que su costo es razonablemente comparable a tecnologías usuales, tradicionales o análogas;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-XIX. QUEMA: Combustión no controlada de cualquier sustancia o material;
+XIX. QUEMA: Combustión controlada o no, de cualquier sustancia o material;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 XX. RECICLAJE: Método de tratamiento que consiste en la transformación de los residuos con fines productivos;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-XX (SIC). SECRETARÍA: Secretaría de Economía Sustentable y Turismo, y
+XXI. SECRETARÍA: Secretaría de Medio Ambiente y Desarrollo Sustentable, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-XXII (SIC). VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como ferales.
+XXII. VIDA SILVESTRE: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como ferales.
 
 ###### ARTÍCULO 3.
 
@@ -373,7 +373,9 @@ XIV. Formular y conducir la política Municipal de información y difusión en m
 
 XV. Promover la participación de la sociedad en materia ambiental;
 
-XVI. Crear y administrar zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas en esta Ley;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+XVI. Crear y administrar zonas de preservación ecológica de los centros de población, áreas verdes urbanas, parques urbanos, jardines públicos y demás áreas análogas previstas en esta ley;
 
 XVII. Otorgar y revocar los permisos, licencias, concesiones y en general las autorizaciones derivadas de la presente Ley, que sean de su competencia y solicitar la cancelación o revocación del permiso, licencia, autorización o concesión a la autoridad otorgante, cuando esta sea distinta a la municipal;
 
@@ -781,7 +783,9 @@ II. La investigación, desarrollo, incorporación y utilización de mecanismos, 
 
 III. El establecimiento y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientales adecuadas;
 
-IV. El establecimiento, manejo y vigilancia de áreas naturales protegidas, de competencia estatal y municipal;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+IV. El establecimiento, manejo, conservación, mejoramiento y vigilancia de áreas naturales protegidas y áreas verdes urbanas;
 
 V. La investigación e incorporación de sistemas de ahorro de energía y de uso de fuentes de energía más eficientes y menos contaminantes;
 
@@ -831,9 +835,9 @@ VI. El desarrollo y adquisición de nuevas tecnologías en materia de prevenció
 
 VII. La promoción de la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. El fortalecimiento de los programas ambientales en los municipios.
+VIII. El establecimiento, manejo, conservación, mejoramiento y equipamiento de áreas verdes urbanas y el fortalecimiento de los programas ambientales en los municipios.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2016)</small>
 
@@ -1629,19 +1633,33 @@ XIV.- Las demás que favorezcan al cumplimiento de los objetivos de los corredor
 
 ### CAPÍTULO IV. Áreas Verdes Urbanas
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-ARTÍCULO 106 TER.- Corresponde al Estado y a los municipios generar las acciones necesarias a fin de crear áreas verdes urbanas que permitan mejorar la calidad de vida y convivencia social de sus habitantes. Dichas áreas serán consideradas como espacios públicos de conservación, mejoramiento y crecimiento.
+ARTÍCULO 106 TER.- Corresponde al Estado y a los municipios generar las políticas y las acciones necesarias a fin de crear, conservar, mejorar e incrementar el número y superficie de las áreas verdes urbanas que permitan mejorar la calidad de vida y convivencia social de sus habitantes.
 
-El Estado y los municipios procurarán el incremento de áreas verdes urbanas en proporción al número de habitantes, de conformidad con las disposiciones reglamentarias aplicables. Para tal efecto, podrá tomarse como referencia parámetros internacionales.
+Las áreas verdes urbanas serán consideradas como espacios públicos de conservación, mejoramiento y crecimiento, para lo cual las políticas y acciones a que se refiere el párrafo anterior se planearán y gestionarán con base en los siguientes objetivos:
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+I. El incremento progresivo y la prohibición de la disminución del número y la superficie de las áreas verdes urbanas.
 
-ARTÍCULO 106 TER 1.- El Estado y los municipios podrán celebrar convenios con los vecinos de las Áreas Verdes para que participen en su mantenimiento, mejoramiento y crecimiento.
+II. El mejoramiento de la localización, equipamiento, conservación y mantenimiento de las áreas verdes urbanas.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
+III. La participación de la sociedad en el diseño, construcción, equipamiento, conservación y mantenimiento de las áreas verdes urbanas.
 
-ARTÍCULO 106 TER 2.- Las Áreas Verdes previstas en los programas de desarrollo urbano deberán conservar su extensión y en caso de modificarse deberán ser compensadas con superficies iguales o mayores a la extensión modificada, en el lugar más cercano.
+IV. La recuperación de espacios públicos en desuso para ser destinados a áreas verdes urbanas.
+
+V. El establecimiento de estímulos para que los particulares destinen Inmuebles a áreas verdes.
+
+VI. El diseño y gestión de las políticas públicas en materia de áreas verdes urbanas usarán como referencia parámetros Internacionales.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 106 TER 1.- El Estado y los municipios podrán celebrar convenios con los vecinos y los sectores social y productivo para los objetivos a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 106 TER 2.- Los espacios públicos destinados a áreas verdes urbanas no podrán ser destinados a otro uso, ni su superficie podrá ser disminuida.
+
+Los instrumentos jurídicos mediante los cuales se declare el destino de una superficie para área verde urbana se inscribirá en el Registro Público de la Propiedad.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -2411,7 +2429,9 @@ I. Convocarán, en el ámbito del sistema estatal de planeación democrática, a
 
 II. Alentarán el uso de instrumentos de participación ciudadana en materia ambiental, como el plebiscito, referéndum e iniciativa ciudadana, cuyas reglas se sujetarán a la Ley en la materia;
 
-III. Celebrarán convenios con lo (sic) diferentes sectores de la sociedad y personas interesadas, para el establecimiento, administración y manejo de áreas naturales protegidas de jurisdicción estatal, aprovechamiento sustentable de los recursos naturales, acciones de protección al ambiente y la realización de estudios e investigación en la materia;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+III. Celebrarán convenios con los diferentes sectores de la sociedad y personas interesadas, para el establecimiento, administración, manejo, conservación, mejoramiento y equipamiento de áreas naturales protegidas y áreas verdes urbanas, aprovechamiento sustentable de los recursos naturales, acciones de protección al ambiente y la realización de estudios e investigación en la materia;
 
 IV. Celebrarán convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones de preservación del equilibrio ecológico y la protección al ambiente;
 
@@ -3240,3 +3260,15 @@ P.O. 23 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL DEL “DECRETO NO. 281 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 42 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 129 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 9, 38, 39, 106 TER, 106 TER 1, 106 TER 2 Y 159 DE LA LEY DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO DIVERSAS REFORMAS A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos emitirán la reglamentación de su competencia dentro de los tres meses siguientes al inicio de la vigencia de esta Reforma.
+
+TERCERO.- El Consejo Estatal de Protección al Ambiente ajustará la reglamentación para la integración, administración y gasto de los fondos ambientales a que se refiere el artículo 39 de la Ley de la materia dentro de los tres meses siguientes al inicio de la vigencia de esta Reforma.
+
+El Consejo procurará que por lo menos durante tres años, el cincuenta por ciento de los recursos que integran los fondos ambientales se destine a los fines previstos en la fracción VIII del artículo 39 de la Ley de Protección al Ambiente para el Estado de Baja California.
