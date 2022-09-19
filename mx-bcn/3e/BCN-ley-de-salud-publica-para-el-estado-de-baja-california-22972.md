@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2022-02-25"
+last_updated: "2022-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -647,17 +647,29 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de padecimientos de sus integrantes;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 II.- Acciones de orientación y vigilancia institucional, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años; y
+III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años;
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-IV.- Programas permanentes dirigidos principalmente a las mujeres embarazadas o madres de recién nacidos, con el fin de proporcionarles información suficiente y comprensible sobre las ventajas de la leche materna, así como la instrucción necesaria para el aprendizaje de las técnicas de la lactancia materna.
+IV.- Programas permanentes dirigidos principalmente a las mujeres embarazadas o madres de recién nacidos, con el fin de proporcionarles información suficiente y comprensible sobre las ventajas de la leche materna, así como la instrucción necesaria para el aprendizaje de las técnicas de la lactancia materna; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+V.- Al menos un banco de leche humana en alguno de sus establecimientos de salud que cuente con servicios neonatales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+La Secretaría de Salud, emitirá los criterios de operación del banco de leche humana, y de manera progresiva, deberá prever su funcionamiento, en por lo menos tres municipios del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+El Instituto de Servicios de Salud Pública del Estado, deberá proporcionar los recursos materiales y humanos necesarios para el funcionamiento de los bancos de leche humana, que en su caso se instalen.
 
 ###### ARTÍCULO 24.
 
@@ -751,13 +763,17 @@ III.- La realización de programas para la prevención del uso inadecuado de est
 
 IV.- El que por medio del Instituto de Psiquiatría del Estado de Baja California, se brinde el tratamiento psicológico necesario a los internos dentro de los centros de rehabilitación que se encuentren dentro del padrón a cargo de la Secretaría de Salud del Estado, a efecto de alejarlos del alcoholismo y la drogadicción; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-V.- La realización de programas para la prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños y adolescentes; y
+V.- La realización de programas para la prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños y adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-VI.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+VI.- La realización de campañas permanentes de información y difusión de la Línea Telefónica de ayuda psicológica y de intervención en crisis, a fin de que la población reciba, en el menor tiempo posible, la atención que requiera, en tanto es posible canalizar a las personas a un servicio de atención permanente; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+VII.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
 ###### ARTÍCULO 31.
 
@@ -3758,3 +3774,19 @@ P.O. 25 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 79 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 131 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 23 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Salud del Estado, dentro de los 90 días siguientes al inicio de vigencia del presente Decreto, deberá emitir los criterios de operación del banco de leche humana.
+
+TERCERO.- El Instituto de Servicios de Salud Pública del Estado, deberá garantizar el funcionamiento permanente del banco de leche humana del Hospital General de Tijuana. La instalación de bancos de leche humana en otros municipios estará sujeto a la disponibilidad presupuestal.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 132 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 10 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE REFORMA AL ARTÍCULO 30 DE LA LEY PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. Las presentes reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
