@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2022-06-03"
+last_updated: "2022-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1657,11 +1657,15 @@ Lesiones causadas por animal.- De las lesiones que a una persona cause algún an
 
 Concepto.- Por riña se entiende para todos los efectos penales, la contienda de obra y no la de palabra entre dos o más personas, con el propósito de dañarse recíprocamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 147.
 
-Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía, con traición o con odio; de igual manera serán considerados calificados, cuando se cometan frente a menores de edad, o, familiares de la víctima; así como también; en contra de miembros de las instituciones policiales del Estado en ejercicio o coma (sic) consecuencia del desempeño de sus funciones, incluyendo a las (sic) elementos de las empresas privadas y a las (sic) que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
+Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición o con odio; de igual manera serán considerados calificados, cuando se cometan frente a menores de edad, o, familiares de la víctima; en contra de periodistas en ejercicio o como consecuencia del desempeño de su actividad o profesión; así como también; en contra de miembros de las instituciones policiales del Estado en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+Se consideran periodistas aquellas personas que tengan como actividad profesional o laboral, el buscar, investigar, sintetizar, redactar, jerarquizar, editar, fotografiar, videograbar, divulgar, publicar o difundir informaciones, noticias, ideas u opiniones para conocimiento del público en general, a través de cualquier medio de comunicación impreso, radioeléctrico, digital, electrónico o imagen. Esta actividad puede realizarse de manera habitual o esporádica, remunerada o no y sin que necesariamente exista una relación laboral con un medio de comunicación.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
 
@@ -6364,3 +6368,9 @@ P.O. 3 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 110 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 208 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 121 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 147 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
