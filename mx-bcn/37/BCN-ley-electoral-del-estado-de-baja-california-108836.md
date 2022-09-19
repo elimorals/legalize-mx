@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2021-08-13"
+last_updated: "2022-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -2469,13 +2469,17 @@ IV. Las boletas tendrán un talón con folio, del cual serán desprendibles. La 
 
 V. Apellidos paterno, materno y nombre completo del candidato o candidatos;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-VI. En la elección de Diputados, aparecerá en el anverso un recuadro que contenga el nombre del candidato a Diputado por el principio de mayoría relativa a propietario y el de su suplente, postulado por cada partido político; al reverso los recuadros que contengan el logo y denominación de los partidos políticos con la leyenda "elección de diputados por el principio de representación proporcional".
+VI. En la elección de Diputados, aparecerá en el anverso un recuadro que contenga el nombre y fotografía a color del candidato o candidata a Diputado o Diputada por el principio de mayoría relativa a propietario y el nombre de su suplente, postulado por cada partido político; al reverso los recuadros que contengan el logo y denominación de los partidos políticos con la leyenda "elección de diputados por el principio de representación proporcional";
 
-VII. En la elección de Munícipes, aparecerá en el anverso un recuadro que contenga el nombre del candidato a Presidente Municipal y el de su suplente, postulado por cada partido político; al reverso el nombre de los candidatos a Síndico Procurador y el de los Regidores, señalando el carácter de propietarios y suplentes;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. En la elección de Gobernador del Estado, un solo espacio para cada partido político y candidato;
+VII. En la elección de Munícipes, aparecerá en el anverso un recuadro que contenga el nombre y fotografía a color del candidato o candidata a Presidente Municipal y el nombre de su suplente, postulado por cada partido político; al reverso el nombre de los candidatos a Síndico Procurador y el de los Regidores, señalando el carácter de propietarios y suplentes;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. En la elección de Gobernador del Estado, un solo espacio para cada partido político, candidato o candidata y fotografía a color;
 
 IX. Las firmas impresas del Consejero Presidente del Consejo General y del Secretario Ejecutivo del Instituto Estatal;
 
@@ -2483,9 +2487,17 @@ X. Espacio para candidatos no registrados, y
 
 XI. Espacios para candidatos Independientes.
 
-Los emblemas a color de los partidos políticos aparecerán en la boleta en el orden que les corresponde de acuerdo a la fecha de su registro. En el caso de que el registro a dos o más partidos políticos haya sido otorgado en la misma fecha, los emblemas de los partidos políticos aparecerán en la boleta en el orden descendente que les corresponda de acuerdo al porcentaje de votación obtenido en la última elección de diputados locales.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-En caso de existir coaliciones, los emblemas de los partidos coaligados y los nombres de los candidatos aparecerán con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos que participan por sí mismos. En ningún caso podrán aparecer emblemas conjuntos de los partidos coaligados en un mismo recuadro, ni utilizar emblemas distintos para la coalición.
+Los emblemas a color de los partidos políticos, así como las fotografías a color de las candidatas y los candidatos aparecerán en igual tamaño en la boleta y en el orden que les corresponde de acuerdo a la fecha de su registro. En el caso de que el registro a dos o más partidos políticos haya sido otorgado en la misma fecha, los emblemas de los partidos políticos aparecerán en la boleta en el orden descendente que les corresponda de acuerdo al porcentaje de votación obtenido en la última elección de diputados locales.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+En caso de existir coaliciones, los emblemas de los partidos coaligados, los nombres y fotografías de los candidatos aparecerán con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos que participan por sí mismos. En ningún caso podrán aparecer emblemas conjuntos de los partidos coaligados en un mismo recuadro, ni utilizar emblemas distintos para la coalición.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+El Instituto Estatal establecerá las especificaciones y lineamientos técnicos sobre las fotografías a color de las y los candidatos a los que hace referencia el presente artículo.
 
 ###### Artículo 191.
 
@@ -5144,3 +5156,9 @@ P.O. 13 DE AGOSTO DE 2021.
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, y serán aplicables en el Proceso Electoral Local 2023- (sic) 2024.
 
 SEGUNDO. La autoridad Electoral realizará las adecuaciones reglamentarias y administrativas para que la presente reforma se implemente a partir del Proceso Electoral Local 2023- (sic) 2024 en el Estado de Baja California.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 120 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 190 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
