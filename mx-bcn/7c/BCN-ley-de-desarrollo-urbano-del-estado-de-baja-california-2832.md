@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2021-08-06"
+last_updated: "2022-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -227,9 +227,9 @@ II. Asentamiento humano: La radicación de un conglomerado demográfico con el c
 
 III. Area Urbana: La extensión de terreno que ha sido sujeta a acciones de urbanización y edificación.
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-IV. Área Verde.- Toda superficie cubierta de vegetación, natural o inducida ubicada dentro de los asentamientos humanos en el Estado;
+IV. Área Verde Urbana.- Bien inmueble del dominio público municipal ubicado dentro de los límites de los centros de población, ocupado predominantemente por vegetación, destinado al uso, disfrute o aprovechamiento colectivo y de acceso generalizado y libre tránsito;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
@@ -255,9 +255,9 @@ IX. Desarrollo urbano: El conjunto armónico de acciones que se realicen en bene
 
 X. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas, áreas y predios de un centro de población;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-XI. Equipamiento urbano: El conjunto de espacios y edificaciones de uso predominantemente público donde se proporciona un servicio a la población, que contribuye a su bienestar y a su desarrollo económico, social y cultural. Este conjunto incluye elementos que se clasifican en los subsistemas siguientes: educación, salud, asistencia pública, comercio y abasto, recreación, deporte, comunicación y transporte, diversión, cultura, espectáculos, administración y seguridad pública;
+XI. Equipamiento Urbano: El conjunto de espacios y edificaciones de uso predominantemente público donde se proporciona un servicio a la población, que contribuye a su bienestar y a su desarrollo económico, social y cultural. Este conjunto incluye elementos que se clasifican en los subsistemas siguientes: educación, salud, asistencia pública, comercio y abasto, áreas verdes urbanas, recreación, deporte, comunicación y transporte, diversión, cultura, espectáculos, administración y seguridad pública;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2013)</small>
 
@@ -1071,7 +1071,9 @@ g). La definición de sistemas operativos para su ejecución, control y evaluaci
 
 h). Las actividades productivas; y,
 
-i). La protección del ambiente y el equilibrio ecológico.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+i). La protección del ambiente, el equilibrio ecológico y la provisión de áreas verdes urbanas.
 
 ###### ARTICULO 40.
 
@@ -1253,9 +1255,17 @@ VII. Procurar que el centro de población mantenga o desarrolle de manera integr
 
 VIII. Distribuir adecuadamente las actividades urbanas para el óptimo funcionamiento del centro de población;
 
-IX. Facilitar la comunicación y los desplazamientos de la población, otorgando preferencia a los sistemas colectivos de transporte; y,
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-X. Todos aquellos que permitan orientar el desarrollo del centro de población a condiciones óptimas.
+IX. Facilitar la comunicación y los desplazamientos de la población, otorgando preferencia a los sistemas colectivos de transporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+X. Incrementar el número y la superficie y mejorar el equipamiento, conservación y mantenimiento de áreas verdes urbanas; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Todos aquellos que permitan orientar el desarrollo del centro de población a condiciones óptimas.
 
 ###### ARTICULO 54.
 
@@ -1327,9 +1337,17 @@ IX. Los mecanismos que se utilizarán para la adquisición o asignación de inmu
 
 X. Las obligaciones y responsabilidades de las autoridades y de los usuarios, en su caso;
 
-XI. Los plazos para que los afectados presenten sus inconformidades; y,
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-XII. En general, las medidas e instrumentos para la ejecución de los Programas.
+XI. Los plazos para que los afectados presenten sus inconformidades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Las estrategias para incrementar el número y la superficie y mejorar el equipamiento, conservación y mantenimiento de áreas verdes urbanas; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+XIII. En general, las medidas e instrumentos para la ejecución de los Programas.
 
 ###### ARTICULO 57.
 
@@ -1409,9 +1427,11 @@ Para la aprobación, publicación y registro de los Programas y Declaratorias co
 
 ### CAPITULO OCTAVO. De los Programas Sectoriales del Desarrollo Urbano
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 72.
 
-Los Programas Sectoriales de Desarrollo Urbano se refieren a las acciones específicas, que en materia de vivienda, aprovechamiento integral de los recursos naturales en la vivienda, infraestructura, vialidad y transporte, equipamiento urbano, ordenamiento ecológico, protección ambiental, reservas territoriales, imagen urbana, patrimonio artístico y cultural, prevención y atención de emergencias urbanas, entre otros, se deban de realizar a nivel estatal, regional, municipal, centro de población o una parte de éste último.
+Los Programas Sectoriales de Desarrollo Urbano se refieren a las acciones específicas, que en materia de vivienda, aprovechamiento integral de los recursos naturales en la vivienda, infraestructura, vialidad y transporte, equipamiento urbano, ordenamiento ecológico, protección ambiental, reservas territoriales, áreas verdes urbanas, imagen urbana, patrimonio artístico y cultural, prevención y atención de emergencias urbanas, entre otros, se deban de realizar a nivel estatal, regional, municipal, centro de población o una parte de éste último.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
@@ -1605,9 +1625,17 @@ III. Las áreas abiertas, los promontorios, los cerros, las colinas y elevacione
 
 IV. Las áreas cuyo uso pueda afectar el paisaje urbano;
 
-V. Las zonas cuyo subsuelo se haya visto afectado por fenómenos naturales o por explotaciones de cualquier género que representen peligros permanentes o accidentes para los asentamientos humanos. En estos espacios la urbanización será restringida y sólo se autorizarán aquellas edificaciones y obras que aseguren los servicios de beneficio social de carácter colectivo y de uso común; y,
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-VI. Lechos de arroyos y ríos, tomando en cuenta el régimen de lluvias de desierto.
+V. Las zonas cuyo subsuelo se haya visto afectado por fenómenos naturales o por explotaciones de cualquier género que representen peligros permanentes o accidentes para los asentamientos humanos. En estos espacios la urbanización será restringida y sólo se autorizarán aquellas edificaciones y obras que aseguren los servicios de beneficio social de carácter colectivo y de uso común;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Las áreas verdes urbanas; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Lechos de arroyos y ríos, tomando en cuenta el régimen de lluvias de desierto.
 
 ###### ARTICULO 104.
 
@@ -1617,7 +1645,13 @@ I. El equilibrio ecológico;
 
 II. El buen estado de las obras materiales, de acuerdo a lo previsto en los Planes y Programas de Desarrollo Urbano; y
 
-III. El buen estado de edificios, monumentos, plazas públicas, parques y, en general, todo aquello que corresponda a su acervo histórico y cultural, de conformidad con las leyes vigentes.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+III. El buen estado de edificios, monumentos, plazas públicas, parques y, en general, todo aquello que corresponda a su acervo histórico y cultural, de conformidad con las leyes Vigentes; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Evitar la disminución del número y superficie de las áreas verdes urbanas, así como su deterioro.
 
 ###### ARTICULO 105.
 
@@ -1677,13 +1711,13 @@ Se consideran áreas naturales protegidas, en los términos de la Ley General de
 
 La reglamentación del uso y conservación de los parques urbanos corresponderá a los Ayuntamientos de la Entidad.
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-En la reglamentación a que se refiere el párrafo anterior, se buscará prever aquellas disposiciones que tengan por objeto impulsar la implementación de la conexión gratuita a internet en los parques urbanos.
+En la reglamentación a que se refiere el párrafo anterior, se incorporarán disposiciones para el logro de los objetivos previstos en el artículo 106 Ter de la Ley de Protección al Ambiente para el Estado de Baja California, así como para implementar el acceso gratuito a internet en las áreas verdes urbanas.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-Los Municipios garantizarán su mantenimiento y protección evitando en todo momento cualquier acción que signifique la disminución de su superficie.
+Los espacios públicos destinados a áreas verdes urbanas no podrán ser destinados a otro uso, ni su superficie podrá ser disminuida.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
@@ -2037,7 +2071,9 @@ II. La introducción de redes de infraestructura de servicios de agua potable, d
 
 III. La apertura de vialidades y sus elementos complementarios como andadores peatonales, entronques, enlaces y estacionamientos de vehículos.
 
-IV. La previsión y ubicación de las áreas dedicadas a equipamiento urbano destinado a satisfacer las necesidades de educación, salud, esparcimiento, comunicación, transporte, abasto y servicios.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+IV. La previsión y ubicación de las áreas dedicadas a Equipamiento Urbano;
 
 V. Los componentes del paisaje urbano, como arboledas, jardines, mobiliario urbano y señalización.
 
@@ -2212,6 +2248,30 @@ VI. Turísticos: aquellos dedicados a alojar actividades recreativas y que inclu
 VII. Industriales: aquellos dedicados a alojar instalaciones para actividades de manufactura y transformación de productos y bienes de consumo;
 
 Se entiende como uso predominante a la actividad que se presente en más del 60% de un fraccionamiento, debiendo ser el 40% restante, compatible con dichas actividades, según lo especifique el Reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+ARTICULO 160 BIS.- Las acciones de urbanización a que se refiere el artículo anterior, deberán incluir en su zonificación áreas destinadas a los usos y en los porcentajes siguientes:
+
+I.- Áreas verdes urbanas: nueve por ciento de la superficie vendible del proyecto;
+
+II.- Equipamiento escolar: tres por ciento de la superficie vendible del proyecto; y,
+
+III.- Equipamiento urbano: cuatro por ciento de la superficie vendible del proyecto
+
+Las mencionadas áreas de destino indicadas en las fracciones I y III deberán ser transmitidas de forma gratuita a favor del Municipio que corresponda y en el caso del área prevista en la fracción II su transmisión será a favor del Ejecutivo Estatal.
+
+Quedan exceptuados de la previsión de un área de equipamiento escolar aquellos fraccionamientos cuyo uso predominante no sea habitacional, debiendo incluirse dos por ciento adicional para las áreas de equipamiento urbano.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+ARTICULO 160 TER.- La superficie de área verde urbana a que se refiere el artículo anterior deberá:
+
+I.- Estar ubicada en puntos que faciliten su acceso peatonal por parte de los residentes del fraccionamiento;
+
+II.- Contar con conexión a los servicios de agua potable, drenaje y energía eléctrica; y,
+
+III.- Estar equipada en los términos que señale el Reglamento respectivo.
 
 ### CAPITULO TERCERO. De los Procedimientos para Autorizar y Realizar Acciones de Urbanización
 
@@ -3112,3 +3172,13 @@ P.O. 6 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial y los Municipios deberán realizar las gestiones necesarias para la actualización de sus portales institucionales, contando con un plazo de 180 días a partir de la entrada en vigor del presente decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 129 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 9, 38, 39, 106 TER, 106 TER 1, 106 TER 2 Y 159 DE LA LEY DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO DIVERSAS REFORMAS A LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos deberán ajustar su reglamentación dentro de los tres meses siguientes al inicio de su vigencia de esta Reforma.
+
+TERCERO.- Los procedimientos relacionados con la autorización de proyectos ejecutivos de acciones de urbanización en trámite al inicio de la vigencia de este decreto se sustanciarán conforme a las normas vigentes al momento de la presentación de la solicitud a que se refiere el artículo 172 de la Ley de Desarrollo Urbano del Estado de Baja California.
