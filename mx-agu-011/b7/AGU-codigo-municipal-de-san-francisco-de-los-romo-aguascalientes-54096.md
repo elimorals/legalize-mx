@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2022-02-14"
+last_updated: "2022-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -329,9 +329,11 @@ Estas autoridades están bajo el mando inmediato del Presidente Municipal, quien
 
 ### CAPITULO II. De las Funciones de los Miembros del H. Ayuntamiento
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 17.
 
-El H. Ayuntamiento del Municipio de San Francisco de los Romo, se integra por el Presidente Municipal, siete Regidores y un Síndico de elección popular, durarán en su encargo tres años, entrando en funciones el 31 de diciembre del año de la elección.
+El Ayuntamiento del Municipio de San Francisco de los Romo, se integra por el Presidente Municipal, ocho Regidores y un Síndico de elección popular, durarán en su cargo tres años, entrando en funciones el 15 de octubre del año de la elección.
 
 ###### ARTICULO 18.
 
@@ -1063,9 +1065,7 @@ En todo lo no previsto en el presente Código, se recurrirá a las disposiciones
 
 ### CAPITULO I. De las Dependencias y Entidades de la Administración Municipal
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2021, PAGINAS 37 Y 38.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO EN SUS UNIDADES ADMINISTRATIVAS, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 99.
 
@@ -1097,7 +1097,9 @@ Dirección de Planeación y Evaluación;
 
 Dirección de Finanzas y Administración;
 
-Dirección de Contraloría Municipal;
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+Órgano Interno de Control;
 
 Dirección de Obras Públicas;
 
@@ -1112,6 +1114,8 @@ Dirección de Asuntos Jurídicos;
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Dirección de Seguridad Pública y Movilidad Municipal;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 De las Unidades Administrativas con que contará la Presidencia Municipal se desprenderá la estructura siguiente:
 
@@ -1259,21 +1263,21 @@ Departamento de Programación;
 
 Departamento de Seguimiento a la Obra Pública.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. CON SU ESTRUCTURA], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-IX.- DIRECCIÓN DE CONTRALORÍA MUNICIPAL.
+IX.- Órgano Interno de Control;
 
-Contralor Municipal;
+Titular del Órgano Interno de Control;
 
 Departamento de Auditoría;
 
-Departamento de Unidad Investigadora;
+Autoridad Investigadora;
 
-Departamento de Unidad de Transparencia;
+Autoridad Substanciadora y Resolutora;
 
-Departamento Jurídico y Responsabilidades Administrativas;
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-Departamento de Coordinación de Mejora Regulatoria, Simplificación Administrativa E Innovación.
+Departamento de Transparencia.
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
@@ -1629,9 +1633,13 @@ De la Instancia Municipal de la Mujer
 
 Para el debido cumplimiento de su objeto, la Instancia Municipal de la Mujer tendrá las siguientes atribuciones:
 
-I. Promover, impulsar y estimular la formulación y aplicación de políticas y acciones públicas que tiendan a alcanzar la equidad entre los hombres y las mujeres y eliminar la discriminación de género;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-II. Promover, coordinar, vigilar y evaluar la adecuada ejecución de los programas, proyectos y acciones a favor de las mujeres, en contra de su discriminación y a favor de la equidad entre hombres y mujeres, mediante la coordinación con las Dependencias y Entidades Municipales y coadyuvar con el Instituto de las Mujeres del Estado para el logro de los objetivos planteados en el ámbito de sus respectivas competencias;
+I. Promover, impulsar y estimular la formulación y aplicación de políticas y acciones públicas que tiendan a alcanzar la igualdad entre los hombres y las mujeres y eliminar la discriminación de género;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+II. Promover, coordinar, vigilar y evaluar la adecuada ejecución de los programas, proyectos y acciones a favor de las mujeres, en contra de su discriminación y a favor de la igualdad entre hombres y mujeres, mediante la coordinación con las Dependencias y Entidades Municipales y coadyuvar con el Instituto dé las Mujeres del Estado para el logro de los objetivos planteados en el ámbito de sus respectivas competencias;
 
 III. Promover la adecuada y eficiente implementación de las acciones a favor de las mujeres, desarrollando mecanismos que propicien la generación de información y estadística diferenciada; asegurando la disponibilidad de datos confiables y oportunos para el diseño e implementación de actividades orientadas a beneficiar a la mujer, además de evaluar su impacto en este sector de la sociedad, así como en la familia;
 
@@ -1641,9 +1649,13 @@ V. Fungir como enlace y representante permanente ante los Institutos Nacional y 
 
 VI. Diseñar y efectuar campañas, en coordinación con el Instituto Estatal de las Mujeres en su caso, para difundir las convenciones y tratados celebrados y ratificados por el Gobierno Mexicano, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas a favor de las mujeres;
 
-VII. Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de equidad;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. Promover los mecanismos de integración de la mujer en la vida económica, social, política y cultural del Municipio, en condiciones de equidad; así como la integración de los hombres en la vida familiar, con el objeto de promover la complementariedad;
+VII. Promover el respeto de los derechos humanos de las niñas y fomentar su desarrollo en condiciones de igualdad;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Promover los mecanismos de integración de la mujer en la vida económica, social, política y cultural del Municipio, en condiciones de igualdad; así como la integración de los hombres en la vida familiar, con el objeto de promover la complementariedad;
 
 IX. Proponer e impulsar reformas legislativas que garanticen la participación de las mujeres en condiciones equitativas, en todos los ámbitos, sin importar el origen étnico o racial, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como promover el debido cumplimiento de las normas vigentes;
 
@@ -1659,9 +1671,13 @@ XIV. Proponer al Presidente Municipal suscribir acuerdos y convenios de coordina
 
 XV. Impulsar, a través de los medios de comunicación y en el sistema educativo, una cultura de equidad y respeto a la dignidad humana, mediante imágenes o mensajes publicitarios no discriminatorios, que favorezcan la eliminación de imágenes nocivas y estereotipadas sobre las mujeres y los hombres;
 
-XVI. Elaborar el Programa Municipal para la No Discriminación y la Equidad entre Hombres y Mujeres y someterlo a aprobación del Presidente Municipal, así como actualizar periódicamente el diagnóstico sobre la situación de las mujeres y los hombres, en relación con los avances y la operatividad del mismo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-XVII. Rendir informes al Presidente Municipal de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Municipal para la No Discriminación y la Equidad entre Hombres y Mujeres;
+XVI. Elaborar el Programa Municipal para la No Discriminación y la igualdad entre Hombres y Mujeres y someterlo a aprobación del Presidente Municipal, así como actualizar periódicamente el diagnóstico sobre la situación de las mujeres y los hombres, en relación con los avances y la operatividad del mismo;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+XVII. Rendir informes al Presidente Municipal de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Municipal para la No Discriminación y la igualdad entre Hombres y Mujeres;
 
 XVIII. Promover e incentivar investigaciones y estudios que contribuyan a profundizar en el conocimiento de la problemática de la mujer en los diversos campos de la realidad social, así como la adecuada recopilación, sistematización y difusión de la información;
 
@@ -1743,123 +1759,57 @@ APARTADO SEPTIMO
 
 Contraloría y Desarrollo Administrativo Municipal
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 108.
 
-Corresponde a la Dirección de Contraloría Municipal, el despacho de las siguientes funciones:
+El Órgano Interno de Control, tiene las siguientes funciones, facultades y atribuciones:
 
-I. Planear, establecer, organizar y coordinar el Sistema de Control, Evaluación y Fiscalización del Gobierno Municipal;
+I. Intervenir conforme a las facultades atribuibles al Órgano Interno de Control, en el Marco Integral de Control Interno del Municipio;
 
-II. Informar al Presidente Municipal sobre el resultado de la Evaluación respecto de la Gestión de las Dependencias y Entidades de la Administración Pública Municipal;
+II. Realizar funciones de Auditoría, Supervisión, Investigación, Fiscalización, Sanción y Ejecución, de conformidad a la normatividad competente;
 
-III. Verificar que los Programas Operativos Anuales que se elaboren por las dependencias municipales estén acordes en la ejecución del Plan de Desarrollo del Municipio;
+III. Vigilar el control y buen uso de los recursos del Municipio, así como los que provengan del Gobierno Federal y Estatal;
 
-IV. Analizar, evaluar y actualizar los sistemas y procedimientos administrativos de control interno que se requieran en cada una de las Direcciones municipales, sus áreas y organismos paramunicipales;
+IV. Coordinarse con otros Órganos Internos de Control, para el logro de sus objetivos;
 
-V. Requerir para el cumplimiento de sus atribuciones, documentos, datos e información a las dependencias y entidades municipales como empresas, paramunicipales, fideicomisos y organismos paramunicipales;
+V. Investigar de oficio o en atención a las quejas, a las denuncias y a los hechos o elementos detectados en las auditorías, revisiones, visitas e inspecciones practicadas por el Órgano Interno de Control y por otras instancias de control externas, las conductas de las personas que impliquen presunta responsabilidad administrativa y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de las Leyes de la materia;
 
-VI. Integrar con la Dirección de Planeación y Evaluación, así como con las dependencias de la administración municipal el Sistema de Evaluación del Desempeño, mediante acciones y programas que propicien la legalidad, la honestidad y la transparencia en la gestión pública, así como la debida rendición de cuentas y el acceso a la información pública, con el objetivo de identificar el avance en la ejecución y resultados de los programas presupuestarios, en el que se incluyan indicadores estratégicos y de gestión;
+VI. Participar en la Entrega-Recepción de las unidades administrativas municipales, conforme a los Lineamientos específicos de la materia;
 
-VII. El Titular de la Dirección de Contraloría, vigilará y garantizará en coordinación con los Titulares de las Dependencias y de las Unidades Administrativas, el adecuado manejo de la información, transparencia y rendición de cuentas que le impongan las disposiciones jurídicas y administrativas aplicables;
+VII. Verificar que las unidades administrativas municipales, den cumplimiento en tiempo y forma en la entrega de los informes correspondientes que, por Ley, sean sujetos;
 
-VIII. Vigilar y supervisar que en el Gobierno Municipal se cumpla con las normas y disposiciones en materia de contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles del patrimonio municipal por medio de los respectivos comités;
+VIII. Revisar y/o participar aleatoriamente en el levantamiento del inventario físico de bienes muebles e inmuebles propiedad del Municipio;
 
-IX. Designar al personal que practicará las auditorías, visitas de inspección y verificación a las diversas dependencias que conforman la Administración Municipal, asimismo ejercerá estas mismas facultades tratándose de programas de obra que realice el Municipio, bajo las diversas modalidades que establece la ley en la materia;
+IX. Contar con las Autoridades Investigadoras, Substanciadoras y Resolutoras, que tendrán las facultades establecidas en la Ley del Sistema Estatal Anticorrupción de Aguascalientes, Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado de Aguascalientes y el presente Reglamento;
 
-X. Presentar al Presidente Municipal y a la Dirección de Planeación y Evaluación, el Programa Anual de Auditorías, que se realizarán a las dependencias y organismos paramunicipales que conforman la Administración Municipal, así como supervisar su cumplimiento;
+X. Realizar todas aquellas actividades que sean inherentes y aplicables al área de su competencia, así como las contenidas en otras disposiciones normativas aplicables y aquellas que le encomienden el H. Ayuntamiento y el o la Presidente Municipal;
 
-XI. Informar a los titulares de las dependencias y organismos paramunicipales que conforman la Administración Municipal, sobre los resultados de las auditorías y visitas de inspección de carácter preventivo y correctivo, dictando las observaciones y recomendaciones que se deriven, a efecto que se tomen medidas para el cumplimiento de sus atribuciones, por lo que la Dirección de Contraloría deberá darte el seguimiento correspondiente;
+XI. Actuar conforme lo estipula la Guía Operativa y la Reglamentación que genere la Contraloría Social del Municipio;
 
-XII. Informar al Presidente Municipal, sobre el resultado de las auditorías y las acciones que, en su caso, se hayan tomado relativas a las faltas administrativas o ilícitas que se desprendan;
+XII. Fungir como Unidad de Transparencia de conformidad a las facultades establecidas en la Ley del Sistema Estatal Anticorrupción de Aguascalientes, Ley General de Transparencia y Acceso a la información Pública y Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
 
-XIII. Proponer en el ámbito de su competencia, proyectos de iniciativa de reglamentos, manuales, acuerdos y convenios en coordinación con el Director de Asuntos Jurídicos;
+XIII. Contar con las facultades establecidas en la Ley del Sistema Estatal Anticorrupción de Aguascalientes, Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado de Aguascalientes y sus Municipios, de conformidad con su competencia;
 
-XIV. Revisar que se cumpla en tiempo y forma con lo establecido en la Ley General de Contabilidad Gubernamental;
+XIV. Organizar y controlar el registro de las declaraciones tres de tres de los servidores públicos municipales en los términos de la Ley del Sistema Estatal Anticorrupción de Aguascalientes, Ley General de Responsabilidades Administrativas y Ley de Responsabilidades Administrativas del Estado de Aguascalientes y sus Municipios, de conformidad con su competencia;
 
-XV. Elaborar de manera trimestral su informe de actividades y presentarlo al Presidente Municipal, en el que se incluirán los resultados de la implementación del Sistema de Evaluación del Desempeño, bajo los principios de verificación del grado de cumplimiento de metas y objetivos;
+XV. Designar y nombrar notificadores para realizar funciones relacionadas con las que son competencia del Órgano Interno de Control del Municipio;
 
-XVI. Formar parte de los Comités y Comisiones que para el efecto establezca el presente Código y que sean necesarias para el buen funcionamiento del Gobierno Municipal, así como designar a los integrantes de las mismas;
+XVI. Certificar la información que en original o copia certificada tenga a la vista, relacionados con procedimientos llevados a cabo, así como de toda la documentación que obre en expedientes poder del Órgano Interno de Control del Municipio;
 
-XVII. Atender, dar seguimiento y resolver las quejas y denuncias recibidas en contra de los servidores públicos que puedan constituir responsabilidades administrativas y aplicar las sanciones que correspondan en los términos de ley, así como en su caso turnar al Síndico Municipal los asuntos en los que se determinen faltas administrativas graves o ilícitas a fin de que se presenten las denuncias correspondientes ante la Fiscalía General del Estado de Aguascalientes, prestándose para tal efecto la colaboración que le fuere requerida;
+XVII. Llevar de manera coordinada con la Dirección de Finanzas y Administración del Municipio, el Procedimiento Administrativo de Ejecución para el cobro de sanciones económicas y créditos fiscales, derivados de Procedimientos de Responsabilidades Administrativas;
 
-XVIII. El titular de la Dirección de Contraloría, en ningún caso podrá ejercer las funciones de Autoridad Investigadora y Autoridad Substanciadora en un mismo asunto, de acuerdo a lo previsto en la Ley de la materia;
+XVIII. Designar al personal que practicará las auditorías, visitas de inspección y verificación a las diversas unidades administrativas que conforman la Administración Pública Municipal, así mismo ejercerá estas mismas facultades tratándose de programas de obra que realice el Municipio bajo las diversas modalidades que establece la ley en la materia;
 
-XIX. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención;
+XIX. Informar a los titulares de las unidades administrativas que conforman la Administración Pública Municipal, sobre los resultados de las auditorías y visitas de inspección de carácter preventivo y correctivo, dictando las observaciones y recomendaciones que se deriven, a efecto que se tomen medidas para el cumplimiento de sus atribuciones, por lo que, el Titular del Órgano Interno de Control deberá darle el seguimiento correspondiente;
 
-XX. Fungir como unidad de transparencia del municipio ante el organismo garante en materia de transparencia;
+XX. El Titular del Órgano Interno de Control, vigilará y garantizará en coordinación con los Titulares de las unidades administrativas municipales el adecuado manejo de la información, transparencia y rendición de cuentas que le impongan las disposiciones jurídicas y administrativas aplicables;
 
 XXI. Establecer las bases mínimas para garantizar el derecho de acceso a la información en la forma y términos que establece la ley en la materia, sin más limitaciones que las expresamente previstas en la ley;
 
-XXII. Verificar el cumplimiento por parte de las dependencias y organismos paramunicipales respecto al cumplimiento de las obligaciones de transparencia comunes y específicas conforme a lo establecido en la ley de la materia;
+XXII. Expedir normatividad inherente a las funciones del Órgano Interno de Control del Municipio, previa aprobación del H. Ayuntamiento; y
 
-XXIII. Promover, fomentar y difundir la cultura de la transparencia en el ejercicio de la función pública, el acceso a la información, la participación ciudadana, así como la rendición de cuentas, a través del establecimiento de políticas públicas y mecanismos que garanticen la publicidad de información oportuna, verificable, comprensible, actualizada y completa, que se difunda en los formatos más adecuados y accesibles para todo el público;
-
-XXIV. Establecer los mecanismos para garantizar el cumplimiento y la efectiva aplicación de las medidas de apremio y las sanciones que correspondan;
-
-XXV. Coordinar los trabajos de clasificación de la información de las dependencias y organismos paramunicipales respecto a lo establecido en la ley de la materia;
-
-XXVI. Coordinar los trabajos con las dependencias y organismos paramunicipales respecto a la simplificación continúa de la normatividad interna que estos aplican con la finalidad de establecer acciones y estrategias que permitan a los ciudadanos el acceso a trámites y servicios que otorga el Gobierno Municipal de manera más ágil y oportuna;
-
-XXVII. Implementar en coordinación con las dependencias y organismos paramunicipales los mecanismos necesarios para analizar los procedimientos y/o procesos establecidos en el Gobierno Municipal y buscar la mejora de los mismos con la finalidad de otorgar a la ciudadanía servicios de calidad;
-
-XXVIII. Organizar los trabajos del proceso de entrega-recepción del Gobierno Municipal de acuerdo a la normatividad vigente, así como diseñar, establecer y autorizar los anexos para la presentación de la información;
-
-XXIX. Conocer de las acciones de entrega-recepción de todos los servidores públicos que causen baja, mediante acta administrativa y anexos en los que se detallen los asuntos y recursos asignados para garantizar la continuidad y operación de las mismas;
-
-XXX. Las demás que las leyes aplicables en la materia designen.
-
-XXXI. Las demás que encomiende el Presidente Municipal.
-
-XXXII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXIV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXVI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXVII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXVIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XXXIX. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XL. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLIV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLVI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLVII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLVIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-XLIX. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-L. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LIII. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LIV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LV. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
-
-LVI. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2017)
+XXIII. Realizar todas aquellas actividades que sean inherentes y aplicables al área de su competencia, así como las contenidas en otras disposiciones normativas aplicables y aquellas que le encomiende él o la Presidente Municipal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE NOVIEMBRE DE 2017)</small>
 
@@ -3089,6 +3039,8 @@ II. De atención y sanción;
 
 Ambos se incluirán considerando los niveles de intervención que cada eje contempla, en términos de lo dispuesto por (sic) Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Aguascalientes.
 
+> <small>(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
 # LIBRO TERCERO. DE LA NORMATIVIDAD INTERNA MUNICIPAL
 
 ## TITULO PRIMERO. REGLAMENTO INTERIOR DE TRABAJO
@@ -3967,101 +3919,73 @@ VII. Las demás que señale el H. Ayuntamiento, que sean necesarias para el cump
 
 En la aplicación del presente Capítulo, se atenderá en lo conducente a lo dispuesto por el Estatuto Jurídico de los Trabajadores al servicio de los Gobiernos del Estado, de sus Municipios y Organismos Descentralizados.
 
-## TITULO TERCERO. DE LA ENTREGA RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
+## TÍTULO TERCERO. DE LA ENTREGA RECEPCION DE LA ADMINISTRACION PUBLICA MUNICIPAL
 
 ###### ARTICULO 232.
 
-Las normas contenidas en este Capítulo regulan el proceso de Entrega Recepción de las oficinas de las Dependencias, Entidades y Unidades Administrativas de la Administración Pública Municipal, con objeto de asegurar la continuidad de sus trabajos y programas emprendidos.
-
-La Entrega Recepción de la Administración Municipal, es el proceso a través del cual los servidores públicos, al separarse de su empleo, cargo o comisión, preparan y entregan a quienes los sustituyen en sus funciones, los asuntos de su competencia, así como los recursos humanos, materiales y financieros que les hayan sido asignados para el ejercicio de sus atribuciones legales.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 233.
 
-La Entrega Recepción de los asuntos y recursos que se encuentran a cargo de los servidores públicos salientes, constituyen un procedimiento legal-administrativo de orden informativo, de cumplimiento obligatorio y formal.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 234.
 
-Los sujetos al proceso de Entrega Recepción serán el H. Ayuntamiento, el Presidente Municipal, el Secretario del H. Ayuntamiento y Director General de Gobierno, los Directores Generales, los Directores de Área, los Delegados Municipales, los que ocupen cargos hasta el nivel de Jefes de Departamento o equivalentes y aquellos de nivel inferior que por la naturaleza e importancia de sus funciones y por la responsabilidad del puesto o encargo que realizan, les sea solicitado por el titular de la Dependencia, Unidad Administrativa o Entidad y/o por la Contraloría Municipal.
-
-Tratándose de Entidades, son sujetos al proceso de Entrega-Recepción, los Directores Generales y los que dentro de ellas ocupen cargos con las características establecidas en el párrafo anterior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 235.
 
-Los objetos de la Entrega-Recepción son todos los bienes, fondos y valores propiedad del Municipio, así como toda aquella documentación que debidamente ordenada, clasificada y legalizada, haya sido generada en la Administración Municipal.
-
-Dicho proceso administrativo además, implica una traslación de responsabilidades y obligaciones que los nuevos servidores públicos deben cumplir en apego a las disposiciones legales existentes.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 236.
 
-La Entrega Recepción de los asuntos y recursos públicos, se realizará cuando se dé cualquiera de los siguientes supuestos:
-
-I. Al término del período constitucional de la Administración Pública Municipal; y
-
-II. Por cualquier otra causa que implique separación temporal o definitiva del empleo, cargo o comisión y cese de funciones de los servidores públicos señalados en el Artículo anterior del presente Código.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 237.
 
-La Entrega-Recepción se formalizará mediante Acta Administrativa que se acompañará de un informe escrito del servidor público saliente, autorizado bajo su firma, de las actividades principales realizadas por la Oficina a su cargo, así como del estado que guarde, formando parte de la misma los informes, formatos, documentos y elementos anexos que señale la Contraloría Municipal en las disposiciones que al efecto expida. El Acta será firmada por los servidores públicos saliente y entrante, ante la presencia de dos testigos y la representación de la Contraloría Municipal.
-
-Cuando así proceda, los servidores públicos salientes harán constar en el Acta la renuncia o la causa o motivo de separación del empleo, cargo o comisión.
-
-El servidor público que entrega la oficina a su cargo deberá elaborar, requisitar y suscribir el Acta Administrativa.
-
-Los servidores públicos encargados de la recepción tendrán el derecho de que en el mismo acto de Entrega se anoten al final del acta las observaciones que estimen pertinentes.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 238.
 
-La Entrega Recepción se realizará en la fecha en que el servidor público saliente concluya su empleo, cargo o comisión por cualquiera de los supuestos contenidos en el Artículo 236 del presente Código.
-
-La Entrega Recepción del Municipio y del H. Ayuntamiento se llevará a cabo una vez terminada la ceremonia de instalación y toma de protesta constitucional del H. Ayuntamiento electo.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 239.
 
-En la Entrega del Organismo Municipal Operador del Agua Potable y Alcantarillado, se observarán las disposiciones que previene el presente Título, el carácter de Organismo Público Descentralizado que ostenta y al acuerdo que en tal sentido tome su órgano máximo de gobierno.
-
-Al término del período constitucional de la Administración Pública Municipal, el Organismo Operador del Agua elaborará, requisitará y suscribirá el Acta Administrativa de su Situación Actual y de los recursos humanos, financieros, y materiales que tiene asignados para el ejercicio de sus atribuciones legales, conforme a las disposiciones que para la Entrega Recepción establece este Código. Esta Acta tendrá sólo carácter informativo.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 240.
 
-Cuando el servidor público saliente no efectúe la entrega que señala este ordenamiento, será requerido por la Contraloría Municipal, para que en un término de cinco días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
-
-En este supuesto, el servidor público entrante, al tomar posesión, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia del estado en que se encuentran los asuntos y recursos, haciéndolo del conocimiento de su jefe inmediato, del titular de la Dependencia, Unidad Administrativa o Entidad y de la Contraloría Municipal para los efectos que correspondan.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 241.
 
-En el caso en que el servidor público que deba recibir aún no haya sido designado o nombrado, el Presidente Municipal en funciones o el electo en su caso o el titular de la Dependencia, Unidad Administrativa o Entidad de su adscripción, designará al que recibirá la oficina, comunicando a la Contraloría Municipal tal designación.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 242.
 
-A partir de la fecha en que el servidor público saliente proporcione la información y documentación correspondiente, en los términos y forma establecidos en el Artículo 237 de este Código, se tendrá por formalmente realizada la entrega, aún y cuando el ciudadano habilitado para recibir, se rehúse a hacerlo, quedando el saliente relevado por ello de responsabilidad por lo que se refiere al acto de Entrega.
-
-En este caso, el servidor público saliente deberá entregar los asuntos y recursos a su cargo al titular de su área de adscripción o a quien, en su caso, designe éste o el Presidente Municipal.
-
-Tal situación, el servidor público saliente la asentará en el Acta correspondiente y la hará del conocimiento de la Contraloría Municipal, a fin, de que ésta registre el hecho para los efectos legales procedentes.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 243.
 
-Las observaciones que surjan de la revisión al Acta y sus anexos a que se refiere el Artículo 237 de este Capítulo, deberán formularse por escrito ante la Contraloría Municipal por los servidores públicos entrantes, dentro de los treinta días hábiles contados a partir de la fecha de Entrega-Recepción; para tal efecto, la Contraloría Municipal requerirá de inmediato la presencia dentro de los tres días hábiles siguientes del servidor público saliente, el que estará obligado a realizar las aclaraciones que le sean requeridas en el tiempo señalado por la Contraloría, la que deberá levantar el Acta correspondiente.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 244.
 
-Con el propósito de facilitar el proceso de Entrega Recepción, los titulares de las Dependencias, Unidades Administrativas y Entidades tomarán las medidas necesarias a fin de que se mantengan ordenados y permanentemente actualizados los informes, registros, controles y demás documentación relativa a los asuntos de su competencia y la información de los recursos humanos, materiales y financieros de que disponen para el ejercicio de sus funciones.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 245.
 
-Con motivo de la Entrega, el servidor público saliente no queda eximido de las responsabilidades en que hubiese incurrido durante el desempeño de su empleo, cargo o comisión.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 246.
 
-El incumplimiento de las disposiciones del presente Título denominado "De la Entrega-Recepción de la Administración Pública Municipal" o de las que deriven del mismo, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de cualquier otra responsabilidad en la que pudieran incurrir los servidores públicos.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 247.
 
-La Contraloría Municipal, en el ámbito de su competencia, queda facultada para:
-
-I. Dictar las disposiciones que se requieran para la adecuada aplicación y cumplimiento de este Título; y
-
-II. Vigilar el cumplimiento y aplicación del presente Capítulo, así como de las disposiciones complementarias dictadas.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ## TITULO CUARTO. DE LA PARTICIPACION CIUDADANA
 
@@ -6335,7 +6259,11 @@ VI. Incumpla por dos veces el notificar a la Dirección dentro de los diez días
 
 A todos los servidores públicos que en el cumplimiento de sus funciones incurran en responsabilidad, en términos de lo dispuesto en este Libro, se les aplicarán las sanciones previstas en la ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
 
+> <small>(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
 ## TITULO QUINTO. DEL SISTEMA MUNICIPAL DE TRANSPARENCIA
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPITULO I. De la Transparencia y Acceso a la Información Pública del Municipio
 
@@ -6343,151 +6271,75 @@ Disposiciones Generales
 
 ###### ARTICULO 477.
 
-Este Título tiene por objeto reglamentar las disposiciones que las Dependencias y Entidades de la Administración Pública Municipal deberán seguir para dar cumplimiento a la obligación de garantizar el derecho de las personas físicas y morales de acceder a la información pública establecido en el Artículo 1° de la ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes. Estas disposiciones son de observancia obligatoria para todos los servidores públicos municipales.
-
-El Sistema Municipal de Transparencia dispone los órganos, criterios y procedimientos institucionales para proporcionar a los particulares el acceso a la información de conformidad con los principios y plazos establecidos en la Ley.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 478.
 
-Además de las definiciones contenidas en el Artículo 3° de la ley, para los efectos de este Título se entenderá por:
-
-I. Clasificación: el acto por el cual se determina que la información que posee una Dependencia o Entidad es pública, reservada o confidencial;
-
-II. Criterios: normas o reglas por las cuales se distingue lo público de lo reservado o confidencial;
-
-III. Desclasificación: el acto por el cual se determina que un documento clasificado por una Dependencia o Entidad como reservado o confidencial es público o viceversa;
-
-IV. Ley: la ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes;
-
-V. Lineamientos: los actos administrativos de carácter general y de observancia obligatoria expedidos por la Dirección;
-
-VI. Publicación: la información puesta a disposición del público a través de medios remotos o locales de comunicación electrónica, así como a través de publicaciones, folletos, periódicos murales, impresos de información contenida en documentos o cualquier otro medio de comunicación;
-
-VII. Cuando el presente Título señale que las Dependencias y Entidades deberán hacer uso de medios electrónicos para el cumplimiento de las obligaciones establecidas en los mismos, se entenderá sin perjuicio del uso de medios impresos, si así lo solicitan los particulares;
-
-VIII. Recomendaciones: las opiniones, propuestas, sugerencias, comentarios, guías y otros actos no vinculatorios que emite la Dirección;
-
-IX. Servidores Públicos Habilitados: son los servidores públicos que representan a la Unidad de Enlace de una Dependencia o Entidad, cuya función es la de recibir y dar trámite a las solicitudes y entrega de la información;
-
-X. Servidores Públicos Municipales: los integrantes del H. Ayuntamiento, los titulares de las diferentes Dependencias y Entidades de la Administración Pública Municipal y todos aquellos que desempeñen un empleo, cargo o comisión de cualquier naturaleza en la misma; y
-
-XI. Unidad de Enlace: a la oficina establecida en cada Dependencia y Entidad para la recepción y trámite de las solicitudes y entrega de la información.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 479.
 
-En la interpretación de este Título se deberá favorecer el principio de máxima publicidad de la información en posesión de las Dependencias y Entidades.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
-Con excepción de la información reservada o confidencial prevista en la Ley, los particulares tendrán acceso a la información gubernamental en los términos que la Ley y el Sistema Municipal de Transparencia establecido en este Título señalan. Quienes generen, obtengan, adquieran, transformen o conserven información pública serán responsables de la misma en los términos de este Título.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPITULO II. Obligaciones de Transparencia
 
 ###### ARTICULO 480.
 
-La Dirección establecerá lineamientos y recomendaciones para la publicación, contenido y actualización de la información pública de oficio en el Artículo 9° de la Ley.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 481.
 
-Las Dependencias y Entidades deberán poner a disposición del público la información pública de oficio a que se refiere el Artículo 9° de la Ley de conformidad con lo siguiente:
-
-I. La Unidad de Enlace de cada Dependencia y Entidad establecerá, según lo dispuesto en este Título, los lineamientos y las recomendaciones que al respecto expida la Dirección y las modalidades y requerimientos específicos a seguir para poner a disposición del público la información;
-
-II. Toda la información deberá estar contenida en el sitio de Internet del Municipio de acceso público y general, visible desde el portal principal del sitio de Internet y en la cual se deberá indicar claramente la fecha de la última actualización;
-
-III. La información deberá ser accesible, clara y completa, de forma tal que facilite su uso y comprensión por los particulares;
-
-IV. El mismo sitio de Internet deberá contener las direcciones electrónicas, domicilios postales y números telefónicos de las Unidades de Enlace y los relativos de los servidores públicos habilitados, así como los requisitos formales de las solicitudes de acceso a la información; y
-
-V. La información deberá estar disponible en las instalaciones principales del Municipio, así como en las Delegaciones Municipales.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 482.
 
-El Municipio a través de la Dirección deberá contar con personal asignado al sitio de Internet para dar atención y asistencia al público en materia de acceso a la información, así como para obtener las impresiones que sean requeridas.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 483.
 
-Las Dependencias y Entidades deberán actualizar la información señalada en el Artículo 9° de la Ley cada vez que existan modificaciones a la misma, en un plazo no mayor a diez días hábiles a partir de que sufrió la modificación. Lo anterior sin perjuicio de lo previsto en otras disposiciones legales que resulten aplicables. El incumplimiento de esta disposición será responsabilidad directa del titular del área administrativa que haya omitido señalar a la Unidad de Enlace las modificaciones que correspondan.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 484.
 
-Las Dependencias y Entidades deberán publicar en Internet sus trámites, requisitos y formatos oficiales mediante el Registro Municipal de Trámites y Servicios Externos y el Registro Municipal de Trámites y Servicios Internos, esto sin perjuicio de su publicación impresa.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 485.
 
-El directorio de servidores y funcionarios públicos incluirá el nombre, cargo, teléfono, fax, nivel del puesto en la estructura orgánica, dirección electrónica y domicilio para recibir correspondencia.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 486.
 
-En lo relativo a la remuneración de los servidores públicos a que alude la fracción VIII del Artículo 9° de la Ley, la Dirección General de Finanzas y Administración Municipal deberá publicar la remuneración mensual, incluso el sistema de compensación, así como las prestaciones correspondientes por cada puesto de la estructura orgánica del personal de base, de confianza y del contratado por honorarios. Asimismo, las Dependencias y Entidades deberán publicar el número total de su personal y precisarlo por área administrativa.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 487.
 
-La información relativa al Presupuesto de Egresos del Municipio de San Francisco de los Romo y los informes sobre su aplicación, a que se refiere la fracción XI del Artículo 9° de la Ley será publicada por la Dirección General de Finanzas y Administración Municipal. En el caso del presupuesto asignado a cada Dependencia y Entidad y los informes sobre su ejecución, la información será proporcionada por la Dirección General de Finanzas y Administración Municipal en el sitio de Internet del Municipio.
-
-La periodicidad con que se actualice la información que se publique no podrá ser menor a aquella con la cual el H. Ayuntamiento deba informar al H. Congreso del Estado de conformidad con las leyes relativas y aplicables.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 488.
 
-Las Dependencias y Entidades deberán publicar en el sitio de Internet dentro de los primeros diez días hábiles de los meses de Enero y Junio de cada año, según corresponda, la información relativa al monto, aplicación y destino de los recursos públicos entregados a organismos, institutos, asociaciones, fideicomisos y cualquier otra del derecho privado, así como la ejecución, montos asignados y requisitos de acceso a los programas de apoyo y padrones de beneficiarios de los programas sociales. Dicha información deberá contener por lo menos, los siguientes elementos:
-
-I. El nombre o denominación del Programa;
-
-II. La unidad administrativa que lo otorgue o administre;
-
-III. La población objetivo o beneficiaria;
-
-IV. Los criterios de la unidad administrativa para otorgarlos;
-
-V. El período en que se otorgaron;
-
-VI. Los montos; y
-
-VII. Los resultados periódicos o informes sobre el desarrollo de los programas.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 489.
 
-Las Dependencias y Entidades deberán publicar en el sitio de Internet, dentro de los primeros diez días hábiles de los meses de Enero y Junio de cada año, según corresponda, la información relativa a las concesiones, licencias, permisos o autorizaciones que otorguen para la prestación de servicios públicos, así como el aprovechamiento o explotación de bienes públicos. Dicha información deberá contener como mínimo, los principales elementos del acto administrativo respectivo, entre ellos:
-
-I. La unidad administrativa que los otorgue o administre;
-
-II. Los criterios de la unidad administrativa para el otorgamiento, así como su fundamento legal;
-
-III. Los datos del concesionario, autorizado o permisionario, especificando el nombre o razón social del titular;
-
-IV. El concepto y el objeto de la concesión, autorización o permiso; y
-
-V. La forma del otorgamiento en el caso de las concesiones, entre ellas, el tiempo de vigencia.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 490.
 
-Las Dependencias y Entidades deberán publicar en su sitio de Internet, cada vez que las emitan, las convocatorias a concurso o licitación para las obras públicas, concesiones, adquisiciones, enajenaciones, arrendamientos y prestación de servicios, así como los resultados de aquellos, especificando los datos y fundamentos que justifiquen el otorgamiento o rechazo de las solicitudes. La información relativa deberá contener como mínimo los principales elementos del acto administrativo, entre ellos:
-
-I. La Dependencia o Entidad que convoque;
-
-II. Los criterios de la Dependencia o Entidad para otorgar el contrato, así como el procedimiento de contratación ha utilizarse;
-
-III. La fecha y objeto del contrato, así como términos de entrega y cumplimiento del contrato; y
-
-IV. El monto del contrato.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 491.
 
-Las Dependencias y Entidades deberán publicar y actualizar en su sitio de Internet dentro de los primeros diez días hábiles de los meses de Enero y Junio de cada año, según corresponda, la información relativa a los contratos que hayan celebrado, detallando en cada caso:
-
-I. Las obras públicas, los bienes adquiridos, arrendados y los servicios contratados; en el caso de estudios e investigaciones deberá señalarse el tema específico;
-
-II. El monto;
-
-III. El nombre del proveedor, contratista o de la persona física o moral con quienes se haya celebrado el contrato; y
-
-IV. Los plazos de cumplimiento de los contratos.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 492.
 
-El Secretario del H. Ayuntamiento deberá publicar en el sitio de Internet municipal dentro de los siguientes diez días hábiles al de su celebración, las Actas de las Sesiones de Cabildo.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 493.
 
-Las Dependencias y Entidades cuando transfieran recursos públicos, incorporarán en los convenios respectivos la obligación de hacer públicos los informes sobre el uso, destino y beneficiarios de esos recursos a que se refiere la fracción XXV del Artículo 9° de la Ley.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ### CAPITULO III. Publicación de Leyes y Actos Administrativos en General
 
@@ -6499,351 +6351,223 @@ El H. Ayuntamiento deberá hacer públicas, previamente a su vigencia y actualiz
 
 Las Dependencias y Entidades deberán publicar en el sitio de Internet del Municipio las disposiciones administrativas de carácter interno que no producen efectos jurídicos sobre los particulares.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
 ### CAPITULO IV. Clasificación de la Información
 
 ###### ARTICULO 496.
 
-La Dirección establecerá los lineamientos para catalogar, clasificar, desclasificar y conservar la información.
-
-Las Unidades de Enlace de cada Dependencia o Entidad deberán aplicar los lineamientos que expida la Dirección.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 497.
 
-La clasificación de la información contenida en los documentos será responsabilidad de los titulares de las Dependencias y Entidades.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 498.
 
-Los titulares de las Dependencias y Entidades llevarán a cabo la clasificación de la información contenida en cualquier documento en el momento en que:
-
-I. Lo establezca este Capítulo;
-
-II. Lo establezca la Dirección;
-
-III. Se genere, obtenga, adquiera o transforme la información; o
-
-IV. En el momento en que se reciba una solicitud de acceso a la información, en el caso de documentos ya elaborados y que no se hayan clasificado previamente.
-
-Todo documento clasificado se integrará a un Catálogo de la Información Clasificada de las Dependencias y Entidades, de conformidad con los lineamientos que expida la Dirección.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 499.
 
-El Catálogo de la Información Clasificada se conformará de dos partes, la primera compuesta por el Catálogo de la Información Pública y la segunda, por el Catálogo de la Información Reservada y Confidencial.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPITULO V. Custodia, Conservación y Organización de Archivos
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 500.
 
-La Dirección expedirá, en coordinación con el Archivo General Municipal de San Francisco de los Romo, los lineamientos para la custodia y conservación de los documentos de las Dependencias y Entidades, así como para la organización de sus archivos.
+La Secretaría del H. Ayuntamiento y Dirección General de Gobierno expedirá, en coordinación con el Archivo General Municipal de San Francisco de los Romo, los lineamientos para la custodia y conservación de los documentos de las unidades administrativas municipales, así como para la organización de sus archivos. Su debida custodia y conservación será responsabilidad de los titulares de las Dependencias y Entidades.
 
-Su debida custodia y conservación será responsabilidad de los titulares de las Dependencias y Entidades.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPITULO VI. Información Reservada o Confidencial
 
 ###### ARTICULO 501.
 
-Al clasificarse un expediente o documento y establecer su plazo de reserva o confidencialidad con fundamento en el Artículo 21 de la Ley, el titular del área administrativa deberá fundar y motivar la clasificación respectiva en atención al daño que pueda causar su divulgación a los valores tutelados en los Artículos 17 Y 18 de la Ley y al plazo por el cual se reserva la información.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 502.
 
-El período de reserva corre a partir de que se generó la información y no desde la fecha en que se clasificó.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 503.
 
-El término de reserva que corresponde a las fracciones V y XI del Artículo 17 de la Ley será el establecido por las leyes específicas. En caso de que éstas no establezcan un plazo se podrá reservar la información hasta por un período máximo de 10 años, de acuerdo a los lineamientos que expida la Dirección.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 504.
 
-Los titulares de las Dependencias y Entidades deberán elaborar dentro de los primeros quince días hábiles del mes de Enero de cada año y actualizar, cada vez que existan modificaciones al mismo, el Catálogo de la Información Reservada y Confidencial, de conformidad con los siguientes requisitos:
-
-I. Deberá indicar la Dependencia o Entidad que generó, obtuvo, adquirió, transformó o conserva la información;
-
-II. El tema al que se refiere - por rubros temáticos -;
-
-III. La fecha en que se generó la información u ocurrió el hecho al que se refiere;
-
-IV. La fecha de la clasificación;
-
-V. El plazo de reserva o confidencialización;
-
-VI. Su fundamento legal;
-
-VII. Los documentos que se reservan o confidencializan; y
-
-VIII. La justificación por la cual se clasifica como reservada o confidencial.
-
-En ningún caso el Catálogo será considerado información reservada.
-
-Las Dependencias y Entidades revisarán el Catálogo dentro de los primeros diez días hábiles del mes de Julio de cada año con el objeto de confirmar, modificar o revocar la clasificación de la información, transcurrido dicho plazo sin que exista determinación alguna por parte del titular, se entenderá aprobado.
-
-Una vez aprobados los Catálogos, las Unidades de Enlace los harán públicos en el sitio de Internet municipal dentro de los cinco días hábiles siguientes.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 505.
 
-La información clasificada como reservada o confidencial podrá ser desclasificada por las Unidades de Enlace:
-
-I. A partir del vencimiento del período de reserva a que se refiere el Artículo 21 de la Ley; y
-
-II. Cuando desaparezcan las causas que dieron origen a la clasificación.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 506.
 
-Cuando la Dirección o la Contraloría Municipal determinen la necesidad de revisar información clasificada como reservada o confidencial, sólo podrán tener acceso a ésta los servidores públicos comisionados para el efecto.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 507.
 
-La información de particulares recibida por las Dependencias y Entidades bajo promesa de reserva a que se refiere la fracción VI del Artículo 17 de la Ley, no estará sujeta a plazos de vencimiento, tendrá el carácter de reservada de manera indefinida, salvo que medie el consentimiento expreso del titular de la información, cuidando que se protejan los derechos a la vida privada y a la intimidad.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 508.
 
-Los particulares que entreguen a las Dependencias y Entidades información reservada de conformidad con el Artículo 17 fracción VI de la Ley, deberán señalar claramente los documentos o las secciones de estos que la contengan y el motivo de la clasificación.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 509.
 
-Las Dependencias y las Entidades deberán garantizar la protección y seguridad de la información entregada por los particulares con el carácter de reservada, evitando su alteración, pérdida, transmisión y acceso no autorizado, bajo pena de incurrir en las causales de responsabilidad administrativa, civil y penal que establecen las leyes aplicables.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 510.
 
-Cuando una Dependencia o Entidad reciba una solicitud de acceso a documentos que contengan información entregada por los particulares con el carácter de reservada y la Oficina de Acceso a la Información lo considere pertinente, podrá solicitar al titular de la información su autorización para entregar dicha información. El particular tendrá 3 días hábiles para responder a partir de la notificación correspondiente, en caso de silencio del particular será considerado como una negativa.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPITULO VII. Protección de Datos Personales
 
 ###### ARTICULO 511.
 
-Las Dependencias y Entidades que cuenten con sistemas de datos personales deberán hacerlo del conocimiento público a través de su sitio de Internet en el que indiquen el objeto del sistema, el tipo de datos que contienen, la unidad administrativa que lo administre y el nombre del responsable. Esta información deberá actualizarse de conformidad con los lineamientos que expida la Dirección.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 512.
 
-Las Dependencias y Entidades garantizarán el acceso y corrección de los datos personales del propio particular interesado.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPITULO VIII. De los Procedimientos de Acceso y Corrección de Datos Personales
 
 ###### ARTICULO 513.
 
-Cuando un solicitante accese a información de carácter personal y de su revisión observe que hay datos que se deben actualizar, corregir o suprimir, o quiera conocer su destino, deberá solicitarlo a la Unidad de Enlace de la Dependencia o Entidad conforme a lo conducente del propio procedimiento de acceso a la información establecido en las disposiciones relativas de este Título.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 514.
 
-Las Unidades de Enlace de cada Dependencia o Entidad deberán resolver sobre la solicitud del particular a mas tardar en diez días hábiles, incluida la notificación al particular. Las Unidades de Enlace establecerán de conformidad con los lineamientos y políticas generales que al respecto establezca la Dirección el procedimiento interno para dar trámite a las solicitudes de actualización, corrección o supresión de datos personales, así como el de conocer el destino de su información propia.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 515.
 
-En las resoluciones que determinen la improcedencia de sus modificaciones, se deberá indicar al solicitante el recurso que podrá interponer.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 516.
 
-La actualización, corrección o supresión de datos personales será gratuita.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPITULO IX. Cuotas de Acceso
 
 ###### ARTICULO 517.
 
-En caso que las Dependencias y Entidades puedan generar una copia electrónica de la información solicitada, deberán proporcionarla a los particulares sin costo alguno, siempre que éstos así lo precisen y provean una dirección electrónica o los medios magnéticos u ópticos para que le sea entregada.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 518.
 
-Las Dependencias y Entidades podrán expedir a los particulares copias simples de la información solicitada, por las que cobrarán un costo que no podrá rebasar el de los materiales utilizados para la reproducción de la información y del costo de envío. El pago respectivo deberá hacerse previamente a la expedición de las copias.
-
-Los costos de expedición de las copias simples deberán publicarse en el sitio de Internet del Municipio.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 519.
 
-Si el particular solicita copias certificadas de la información, deberá pagar previamente a las Dependencias y Entidades los Derechos conforme a lo previsto por la Ley de Ingresos del Municipio de San Francisco de los Romo del ejercicio fiscal que corresponda
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
-Los costos de las copias certificadas deberán publicarse en el sitio de Internet del Municipio.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
-### CAPITULO X. De las Unidades de Enlace y de los Servidores Públicos Habilitados
+### CAPITULO X. De la Unidad de Transparencia y de los Servidores Públicos Habilitados como enlaces
 
 ###### ARTICULO 520.
 
-Los titulares de las Dependencias y Entidades designarán cual es su Unidad de Enlace, la que habilitará a los servidores públicos que sean necesarios para recibir, dar trámite y entregar la información solicitada. Ejercerán las facultades que les otorga la Ley y este Título.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 521.
 
-Los Titulares de las Dependencias y Entidades deberán designar la Unidad de Enlace con los recursos humanos, materiales y presupuestarios asignados, por lo que su creación no deberá implicar erogaciones adicionales.
-
-La designación de la Unidad de Enlace de cada Dependencia o Entidad deberá recaer en un área administrativa ya existente, que tenga experiencia en atención a la ciudadanía y que en la medida de lo posible, tenga un amplio conocimiento de la organización y atribuciones de todas las áreas administrativas de la Dependencia o Entidad de que se trate.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 522.
 
-La Unidad de Enlace es el vínculo entre la Dependencia o Entidad y el solicitante de la información. Esta facultada para llevar a cabo el Procedimiento de Acceso a la Información Pública que señalan la propia ley en su Capítulo VII y este Título, para lo cual tiene las siguientes atribuciones:
-
-I. Recibir las solicitudes de acceso a la información;
-
-II. Verificar si la solicitud cumple con los requisitos establecidos en el Artículo 33 de la Ley y si la información solicitada corresponde a la Dependencia o Entidad;
-
-III. Orientar a los particulares sobre la manera de realizar las solicitudes de acceso a la información, o bien, sea presentada en la Dependencia o Entidad que corresponda;
-
-IV. Gestionar dichas solicitudes al interior de cada Dependencia o Entidad;
-
-V. Vigilar el seguimiento que se dé al trámite interno de las solicitudes;
-
-VI. Elaborar las notificaciones a los particulares; y
-
-VII. Entregar la información al solicitante.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 523.
 
-Además de las atribuciones que para la Unidad de Enlace se señalan en el Artículo anterior, tienen las siguientes:
-
-I. Recabar y difundir la información pública que debe ser difundida de oficio a que se refiere el Artículo 9° de la Ley, así como propiciar que las áreas administrativas la actualicen cuando así se requiera;
-
-II. Proponer al Titular de la Dependencia o Entidad los procedimientos internos que aseguren mayor eficiencia en la gestión de las solicitudes de acceso a la información;
-
-III. Preparar y orientar en sus funciones al servidor público habilitado para recibir, dar trámite y entregar la información; y
-
-IV. Registrar las solicitudes de acceso a la información, sus resultados y costos.
-
-Los servidores públicos habilitados auxiliarán a los particulares en la elaboración de sus solicitudes y los orientarán sobre la Dependencia o Entidad que pudiera tener la información que solicita.
-
-Las Unidades de Enlace deberán llevar un Registro de las Solicitudes de Acceso a la Información, sus Resultados y sus Costos, el cual deberá estar disponible en la Oficina respectiva.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 524.
 
-El acceso a la información de las Comisiones, Consejos o Comités Intersecretariales se hará a través de la Unidad de Enlace de la Dependencia o Entidad que ejerza las funciones de Secretario Técnico. Las Unidades de Enlace de dichas Dependencias y Entidades serán los competentes para resolver las cuestiones relacionadas con el acceso a la información de dichas Comisiones, Consejos o Comités. La clasificación de la información corresponderá al Secretario Técnico de la Comisión, Consejo o Comité.
-
-Las Comisiones, Consejos o Comités deberán en el sitio de Internet del Municipio indicar su integración, funciones y la normatividad que les rige.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 525.
 
-Los titulares de las Dependencias y Entidades deberán dar a conocer cual es la Unidad de Enlace, los servidores públicos habilitados y los requisitos de las solicitudes de acceso a la información.
-
-Los cambios que realicen las Dependencias y Entidades respecto a cual es la Unidad de Enlace y el servidor público habilitado, deberán publicarse en el sitio de Internet del Municipio y en un lugar visible de su área de recepción dentro de los diez días hábiles al en que se efectúen.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 526.
 
-Las Unidades de Enlace deberán enviar a la Dirección en los formatos que para tal efecto establezca la misma, dentro de los primeros 10 días hábiles del mes de Noviembre de cada año, toda la información que del año en curso posean relativa a:
-
-I. El número de solicitudes de información presentadas a las Dependencias y Entidades y la información objeto de las mismas, así como sus resultados, incluidas aquellas en las que no fue posible localizar la información en los archivos;
-
-II. La cantidad de resoluciones tomadas denegando o limitando la información solicitada y los fundamentos de cada una de dichas resoluciones;
-
-III. La cantidad de solicitudes procesadas y respondidas, así como el número de solicitudes pendientes;
-
-IV. Los tiempos de respuesta a las diferentes solicitudes y las prórrogas por circunstancias excepcionales;
-
-V. Los medios de entrega de la información;
-
-VI. La cantidad de servidores públicos involucrados en la tarea;
-
-VII. El número de recursos de revisión interpuestos en contra de la Dependencia o Entidad;
-
-VIII. Los índices del Catálogo de la Información Pública y del Catálogo de la Información Reservada y Confidencial; y
-
-IX. Otros que determine la Dirección.
-
-La Dirección hará pública la información que reciba conforme a este Artículo.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 527.
 
-La Dirección rendirá anualmente en el mes de Noviembre un informe escrito al Presidente Municipal sobre el acceso a la información, con base en los datos que le rindan las Dependencias y Entidades según lo señala el Artículo anterior.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPITULO XI. De la Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación como Órgano de Acceso a la Información Pública
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
-
 ###### ARTICULO 528.
 
-La Contraloría y Desarrollo Administrativo Municipal es la instancia interna responsable de aplicar la Ley y este Título y ejercer las demás facultades que le otorga este ordenamiento.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 529.
 
-La Dirección tendrá las siguientes atribuciones:
-
-I. Interpretar para efectos administrativos la Ley y este Título, con el propósito de favorecer el principio de publicidad de la información en posesión de la autoridad municipal;
-
-II. Difundir el derecho de acceso a la información pública y la protección de los datos personales;
-
-III. Orientar y asesorar a los particulares en sus solicitudes de acceso a la información y datos personales, así como de corrección de éstos últimos;
-
-IV. Brindar asesoría, apoyo técnico, capacitación y hacer recomendaciones a las Dependencias y Entidades, para propiciar el cumplimiento de las disposiciones de la Ley y el presente Título;
-
-V. Expedir lineamientos, criterios, recomendaciones, guías, políticas y programas en materia de acceso a la información pública y de protección de datos personales para las Dependencias y Entidades, incluidos los catálogos y la clasificación, desclasificación, custodia y conservación de la información pública y reservada o confidencial;
-
-VI. Emitir formatos, procedimientos y sistemas de observancia obligatoria para que las Dependencias y Entidades reciban, procesen, tramiten y resuelvan las solicitudes de acceso a la información y a datos personales, así como a la corrección de estos últimos;
-
-VII. Realizar visitas o requerir a las Dependencias y Entidades para asegurar la debida clasificación, custodia y conservación de la información pública y reservada o confidencial;
-
-VIII. Verificar que la información pública que debe ser difundida de oficio a que se refiere el Artículo 9° de la Ley que posean las Dependencias y Entidades esté completa y actualizada y que toda persona pueda tener acceso a la misma mediante procesos sencillos y expeditos;
-
-IX. Denunciar ante la Contraloría Municipal las presuntas responsabilidades de los servidores públicos por incumplimiento de la Ley, este Título y los lineamientos, criterios y disposiciones administrativas emitidos por la propia Dirección;
-
-X. Otorgar ampliaciones de los plazos de reserva o confidencialidad de la información cuando lo soliciten las Dependencias y Entidades, en los términos de la Ley y el presente Título;
-
-XI. Celebrar convenios y acuerdos en materia de acceso a la información pública y de protección de datos personales;
-
-XII. Conocer y resolver los recursos de inconformidad interpuestos por los solicitantes; y
-
-XIII. Las demás que le confiera la Ley al Instituto de Transparencia para el Estado de Aguascalientes, este Título y cualquier otra disposición aplicable.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 530.
 
-La Dirección publicará en el Periódico Oficial del Estado los lineamientos y demás actos de carácter general que emita. La Dirección hará públicos en el sitio de Internet del Municipio los lineamientos y demás actos de carácter general que emita, así como los criterios, recomendaciones, formatos, procedimientos, sistemas, propuestas, guías, políticas y programas.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPITULO XII. Del Procedimiento de Acceso a la Información
 
 ###### ARTICULO 531.
 
-Las solicitudes de acceso deberán presentarse en escrito libre o medios electrónicos.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 532.
 
-Las solicitudes de acceso deberán presentarse en el domicilio de la Unidad de Enlace de la Dependencia o Entidad que corresponda.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 533.
 
-Para los efectos del Artículo anterior, la presentación de las solicitudes de acceso deberán contener los requisitos establecidos en el Artículo 33 de la Ley y deberán hacerse en el caso de las personas físicas, personalmente. En el caso de las personas morales deberá hacerse por el representante legal o un apoderado; en todo caso se deberá acreditar la personalidad con la que se ostenta y se entregará un acuse de recibo en el cual conste de manera fehaciente la fecha de presentación de la solicitud.
-
-Podrá el solicitante requerir la información en calidad de anónimo, solicitud que deberá tramitarse de conformidad con el Capítulo VII de la Ley, tramitándose dicha solicitud mediante un código numérico para fines de identificación.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 534.
 
-Los particulares que presenten solicitudes de acceso podrán señalar la forma en que desean les sea notificada la resolución que corresponda, misma que podrá ser:
-
-I. Personalmente o a través de su representante legal o apoderado;
-
-II. Por correo certificado o mensajería, con acuse de recibo; y
-
-III. Por medios de comunicación electrónica, indicando una dirección electrónica para esos efectos.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 535.
 
-Las Dependencias y Entidades que reciban una solicitud de acceso a la información que claramente no corresponda a la competencia de la Dependencia o Entidad de que se trate, deberán remitir la solicitud a la Unidad de Enlace que corresponda, en este caso, el plazo de respuesta establecido en el Artículo 39 de la Ley empezará a correr a partir de que la Unidad competente reciba la solicitud.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 536.
 
-El procedimiento para dar trámite a las solicitudes de acceso deberá desahogarse en el plazo máximo de diez días hábiles incluida la notificación al particular, salvo los supuestos de excepción marcados en el Artículo 39 de la Ley. Dicho procedimiento se ajustará a lo siguiente:
-
-I. Recibida la solicitud, la Unidad de Enlace deberá turnar la solicitud de acceso a la o las Áreas Administrativas que puedan tener la información;
-
-II. En el caso de contar con la información y que esta sea pública, el Área Administrativa deberá remitirla a la Unidad de Enlace, quien precisará los costos de acuerdo con las diversas modalidades de entrega;
-
-III. En el caso de que la información solicitada sea reservada o confidencial, el Área Administrativa deberá emitir un dictamen fundando y motivando la negativa al acceso, haciéndolo del conocimiento de la Unidad mediante oficio, quien deberá entregar copia certificada de dicho dictamen al interesado; y
-
-IV. En el caso de que el Área Administrativa determine que la información solicitada se encuentra en el Archivo General Municipal, el titular de la Dependencia deberá solicitar su remisión para estar en la posibilidad de entregar la información solicitada por el particular.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 537.
 
-El titular de la Dependencia o Entidad deberá dictar las medidas necesarias para localizar, dentro de la Dependencia o Entidad, la información solicitada por un particular, cuando un Área Administrativa les comunique que aquella no se encuentra en sus archivos.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 538.
 
-En las resoluciones de las Dependencias y Entidades que nieguen o limiten el acceso a la información se deberá indicar al solicitante los recursos que podrá interponer y el juicio que podrá promover.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 539.
 
-En la resolución a la solicitud de acceso, se indicarán los costos y las modalidades en que será entregada la información, atendiendo en la medida de lo posible a la solicitud del interesado. La información podrá ser entregada:
-
-I. Por medios de comunicación electrónica;
-
-II. En medio magnético u óptico;
-
-III. En copias simples o certificadas; y
-
-IV. Mediante consulta física en la Dependencia o Entidad.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ###### ARTICULO 540.
 
-La información solicitada deberá entregarse en las formas y tiempos marcados en el Artículo 39 de la Ley.
+(DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 ## TITULO SEXTO. DE LA EQUIDAD DE GENERO
 
@@ -21753,7 +21477,7 @@ SEXTO.- Respecto del límite de la jurisdicción federal para el control de los 
 
 Carretera 45 entronque con Carretera desviación a Luis Moya número 71.
 
-SEPTIMO.- La Dirección de Mejora Regulatoria, Simplificación, Transparencia e Innovación, iniciará funciones a más tardar el mes de Marzo del 2007 y en tanto entra en funciones, lo relativo y aplicable a transparencia y acceso a la información pública será de la competencia de la Contraloría Municipal.
+SEPTIMO.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2022)
 
 OCTAVO.- Se abroga el Reglamento Interior del H. Cabildo del Municipio de San Francisco de los Romo del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el cuatro de febrero de mil novecientos noventa y seis.
 
@@ -22004,3 +21728,29 @@ P.O. 14 DE FEBRERO DE 2022.
 PRIMERO.- Queda sin efectos la publicación realizada a este mismo artículo en el Periódico Oficial del Estado de Aguascalientes en fecha 30 de agosto de 2021.
 
 SEGUNDO.- La reforma al artículo 117 del Código Municipal de San Francisco de los Romo entra en vigor al día siguiente de su publicación.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL ARTÍCULO 17 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO, AGS.".]
+
+###### ARTICULO ÚNICO.
+
+La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ARTÍCULO 106 EN SUS FRACCIONES I, II, VII, XVI Y XVII DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO (CAMBIANDO LA PALABRA “EQUIDAD” POR “IGUALDAD ENTRE HOMBRES Y MUJERES”)”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 99, 108 Y 500, ASÍ COMO LA DEROGACIÓN DE LOS ARTÍCULOS 232 AL 247, 477 AL 493, 496 AL 499, 501 AL 540 Y EL ARTÍCULO SÉPTIMO TRANSITORIO, TODOS DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO".]
+
+PRIMERO.- La presente reforma del Código Municipal de San Francisco de los Romo del Estado de Aguascalientes entra en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Para el caso de que, en alguna norma, manual, lineamientos, reglamento o código de orden Municipal donde se le confieran facultades y atribuciones a la Dirección de Contraloría Municipal de San Francisco de los Romo, se entenderán conferidas al ahora Órgano Interno de Control de San Francisco de los Romo, Aguascalientes.
+
+TERCERO.- Queda sin efectos las publicaciones realizadas con antelación, así mismo todo lo no establecido en el artículo 108 del presente ordenamiento debe referenciarse a lo establecido en el Reglamento Interior del Órgano Interno de Control del Municipio de San Francisco de los Romo del Estado de Aguascalientes y en las leyes secundarias de las materias de que se tratase.
