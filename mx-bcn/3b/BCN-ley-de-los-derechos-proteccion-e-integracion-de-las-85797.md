@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2020-06-22"
+last_updated: "2022-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -373,9 +373,11 @@ VI. Obtener en caso de ser posible, los nombres, domicilios y teléfonos de sus 
 
 VII. Expedir copia del expediente a los familiares autorizados, a las autoridades judiciales o a las instituciones que continúen la atención de las personas adultas mayores, cuando lo soliciten.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 26.
 
-Cuando una institución otorgue atención a una persona adulta mayor, examinará, en primer término, la posibilidad de su reintegración familiar.
+Cuando la institución pública, privada o social, otorgue su atención a una persona adulta mayor, examinará, en primer término, la posibilidad de su reintegración familiar, procurando en todo momento evitar circunstancias que pongan en riesgo a la persona adulta mayor.
 
 ### CAPÍTULO IV. DE LOS DEBERES DE LA FAMILIA
 
@@ -978,3 +980,9 @@ P.O. 22 DE JUNIO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Las presentes reformas serán aplicadas acorde a los convenios federales de la materia y la disponibilidad presupuestaria del sector salud.
+
+P.O. 19 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 130 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 26 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA".]
+
+UNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
