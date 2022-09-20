@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2022-06-14"
+last_updated: "2022-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2022.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1898,6 +1898,10 @@ Este delito se perseguirá por querella.
 ###### Artículo 200.
 
 Violencia familiar. A quien teniendo la calidad de cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, maltrate física, psicológica, emocional, patrimonial o económicamente a un miembro de la familia, se le impondrán de tres años seis meses a siete años seis meses de prisión y multa de cien a cuatrocientos días, y pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él.
+
+> <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2022)</small>
+
+La pena referida en el párrafo que antecede se incrementará hasta en una mitad, cuando se utilice a personas menores de edad, a las hijas e/o hijos, y/o a familiares, y/o personas apreciadas, y/o mascotas o cualquier otra persona con lazos familiares, vínculos afectivos o de dependencia, utilizándoles como instrumento para causar daño a alguna de las personas unidas por una relación de matrimonio, concubinato, por un lazo de parentesco consanguíneo o parentesco colateral.
 
 > <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
 
@@ -4674,3 +4678,9 @@ B.O. 14 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+B.O. 20 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2849 SE ADICIONAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
