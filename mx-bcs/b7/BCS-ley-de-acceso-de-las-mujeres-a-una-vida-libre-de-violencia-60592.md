@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2022-06-23"
+last_updated: "2022-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -143,11 +143,11 @@ XX. BANEVIM-BCS: Al Banco Estatal de Datos e Información sobre Casos de Violenc
 
 ### CAPÍTULO I. TIPOS DE VIOLENCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 4°.
 
-Los tipos de violencia contra las mujeres son:
+Los tipos de Violencia contra las Mujeres son:
 
 I. La violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
@@ -185,7 +185,13 @@ VIII BIS. VIOLENCIA OBSTÉTRICA.- Es toda acción u omisión por parte del perso
 
 VIII TER. Violencia digital.- Es cualquier acto que se presenta a través de las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales o correo electrónico, que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas o su familia. Se manifiesta mediante el ciberacoso, acoso, hostigamiento, amenazas, extorsión, asecho, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, suplantación y robo de identidad, control y manipulación de la información, expresiones discriminatorias, afectaciones a canales de expresión, acceso o control no autorizado. Se identifica como violencia sexual cibernetica la que incluye trata virtual, sextorsión, difusión de contenido íntimo sin consentimiento, fotos y desnudos tomadas sin autorización y bajo el anonimato.
 
-> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2022)</small>
+
+VIII QUATER. Violencia Vicaria: Es una violencia que se ejerce por parte de quienes sean o hayan sido cónyuges, concubinos de las mujeres o por quienes estén o hayan estado ligadas a ellas por relaciones de afectividad, aun sin convivencia, en donde estos utilizan a las hijas e hijos, a familiares, a personas apreciadas por ellas o mascotas, como instrumento para dañar a la mujer.
+
+Esta violencia puede ir, de manera enunciativa, desde amenazas verbales de sus parejas, donde refieren que alejarán a sus hijas e hijos de ellas, el hecho de retener una pensión económica y/o falta de pago de éstas; así como el hecho de la retención y/o sustracción de un hijo menor de edad, hasta la interposición de denuncias bajo hechos falsos, alargamiento de procesos judiciales, con la intención de romper el vínculo materno filial; o a través de la realización de cualquier otra conducta ejercida por la persona agresora, como medio o instrumento para dañar a la mujer, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 20 DE SEPTIEMBRE DE 2022)</small>
 
 IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
@@ -1768,3 +1774,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Sin perjuicio de lo establecido en el Artículo Primero Transitorio, el artículo 45 Bis del presente Decreto, será aplicable en relación con el Presupuesto de Egresos para el Ejercicio Fiscal del año 2023, por lo cual, el Titular del Poder Ejecutivo Estatal y los cinco Ayuntamientos deberán incorporar una partida destinada a la creación, instalación y mantenimiento de refugios para víctimas de violencia familiar.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2849 SE ADICIONAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
