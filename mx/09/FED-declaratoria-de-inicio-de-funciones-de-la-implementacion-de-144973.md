@@ -4,7 +4,7 @@ identifier: "FED-declaratoria-de-inicio-de-funciones-de-la-implementacion-de-144
 country: "mx"
 rank: "otro"
 publication_date: "2020-11-13"
-last_updated: "2021-10-04"
+last_updated: "2022-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144973&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,60 +19,68 @@ issue_date: "2020-10-20"
 ---
 # DECLARATORIA DE INICIO DE FUNCIONES DE LA IMPLEMENTACION DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL
 
-DECLARATORIA DEL INICIO DE FUNCIONES DE LA SEGUNDA ETAPA DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, QUE INICIARÁ A PARTIR DEL 3 DE NOVIEMBRE DE 2021
+DECLARATORIA DEL INICIO DE FUNCIONES DE LA TERCERA ETAPA DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, QUE INICIARÁ A PARTIR DEL 3 DE OCTUBRE DE 2022
 
-TEXTO ORIGINAL.
+Declaratoria publicada en el Número 18 del Diario Oficial de la Federación, el martes 20 de septiembre de 2022.
 
-Declaratoria publicada en el Diario Oficial de la Federación, el lunes 4 de octubre de 2021.
-
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Cámara de Senadores.- Ciudad de México.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Cámara de Senadores.- México D.F.
 
 EL SENADO DE LA REPÚBLICA, EN CUMPLIMIENTO A LO QUE DISPONE EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE LA DEFENSORÍA PÚBLICA, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE JUSTICIA LABORAL, LIBERTAD SINDICAL Y NEGOCIACIÓN COLECTIVA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN, EL 1 DE MAYO DE 2019, EMITE LA SIGUIENTE:
 
 DECLARATORIA
 
-EL SENADO DE LA REPÚBLICA DECLARA EL INICIO DE FUNCIONES DE LA SEGUNDA ETAPA DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, QUE INICIARÁ A PARTIR DEL 3 DE NOVIEMBRE DE 2021, EN LOS SIGUIENTES CIRCUITOS JUDICIALES, ENTIDADES DE LA REPÚBLICA Y SEDES:
+EL SENADO DE LA REPÚBLICA DECLARA EL INICIO DE FUNCIONES DE LA TERCERA ETAPA DE IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, QUE INICIARÁ A PARTIR DEL 3 DE OCTUBRE DE 2022, EN LOS SIGUIENTES CIRCUITOS JUDICIALES, ENTIDADES DE LA REPÚBLICA Y SEDES:
 
 Circuito Judicial conforme al Entidad Federativa Sede
 
 Acuerdo General 3/2013
 
-Trigésimo Circuito Aguascalientes Aguascalientes
+Decimoséptimo Circuito Chihuahua Chihuahua y
 
-Decimoquinto Circuito Baja California, con Ensenada
+Ciudad Juárez
 
-excepción del municipio Tijuana
+Primer Circuito Ciudad de México Ciudad de México
 
-de San Luis Río Colorado
+Octavo Circuito Coahuila y los Saltillo
 
-del Estado de Sonora.
+Municipios de General Torreón
 
-Vigésimo Sexto Circuito Baja California Sur La Paz
+Simón Bolívar, Gómez
 
-Trigésimo Segundo Circuito Colima Colima
+Palacio, Lerdo, Mapimí,
 
-Decimosexto Circuito Guanajuato Guanajuato
+Nazas, San Juan de
 
-Vigésimo Primer Circuito Guerrero Acapulco
+Guadalupe, San Luis del
 
-Decimoctavo Circuito Morelos Cuernavaca
+Cordero, San Pedro del
 
-Decimotercer Circuito Oaxaca Oaxaca
+Gallo y Tlahualilo del
 
-Sexto Circuito Puebla Puebla
+Estado de Durango
 
-Vigésimo Segundo Circuito Querétaro Querétaro
+Tercer Circuito Jalisco Zapopan
 
-Vigésimo Séptimo Circuito Quintana Roo Cancún
+Decimoprimer Circuito Michoacán Morelia
 
-Vigésimo Octavo Circuito Tlaxcala Tlaxcala
+Vigésimo Cuarto Circuito Nayarit Tepic
 
-Séptimo Circuito Veracruz Coatzacoalcos
+Cuarto Circuito Nuevo León Monterrey
 
-Décimo Circuito Veracruz
+Decimosegundo Circuito Sinaloa y Archipiélago Culiacán
 
-Xalapa
+de las Islas Marías
+
+Quinto Circuito Sonora Hermosillo
+
+Decimonoveno Circuito Tamaulipas Ciudad Victoria,
+
+Tampico y
+
+Reynosa
+
+Decimocuarto Circuito Yucatán Mérida
 
 Se remite al Diario Oficial de la Federación, para su Publicación.
 
-Ciudad de México, a 28 de septiembre de 2021.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Rúbrica.- Sen. Verónica Delgadillo García, Secretaria.- Rúbrica.
+Ciudad de México, a 13 de septiembre de 2022.- Sen. Alejandro Armenta Mier, Presidente.- Rúbrica.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbrica.
