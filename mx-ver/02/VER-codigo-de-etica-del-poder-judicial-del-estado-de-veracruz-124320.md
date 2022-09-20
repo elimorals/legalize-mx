@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-etica-del-poder-judicial-del-estado-de-veracruz-12432
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-18"
-last_updated: "2017-08-18"
+last_updated: "2022-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DEL CÓDIGO DE ÉTICA PARA LAS Y LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 20 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE SEPTIEMBRE DE 2022 (ABROGADO).
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 18 de agosto de 2017.
 
@@ -294,3 +296,23 @@ La secretaria de Acuerdos Interina del Consejo de la Judicatura del Estado
 Mtra. Esmeralda Ixtla Domínguez
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 20 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA PARA LAS Y LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave y medios electrónicos institucionales, para su difusión.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor el día hábil siguiente de su publicación.
+
+TERCERO.- La persona Titular de la Presidencia del Tribunal Superior de Justicia y el Consejo de la Judicatura del Poder Judicial del Estado de Veracruz deberá designar a la persona que ocupará la Presidencia del Comité de Ética referido en el Capítulo V del presente Código, dentro de un plazo no mayor a los tres días hábiles posteriores a su entrada en vigor.
+
+CUARTO.- Una vez se constituya la Presidencia del Comité de Ética, ésta deberá designar a una persona para que ostente la titularidad de la Secretaría del Comité, quien, en los términos contemplados por el artículo 12 del presente Código, convocará a los demás integrantes con el propósito de dar inicio a las actividades propias del Comité.
+
+QUINTO.- Para la aplicación del presente Código de Ética y las Reglas de Integridad, en cumplimiento a lo dispuesto por el Lineamiento Décimo Primero del "Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", el Comité de Ética del Poder Judicial del Estado, realizará el proyecto de actualización de su Código de Conducta, alineado al presente Código de Ética, vinculándolo con la misión, visión, objetivos y atribuciones del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, y lo enviará a la Contraloría del Poder Judicial para su validación, para posterior aprobación del mismo Comité de Ética, en el que se especificará, de manera puntual y ante situaciones concretas, la forma en que las y los servidores públicos aplicarán los principios, valores y reglas de integridad.
+
+El Consejo de la Judicatura a través del Comité de Ética y la Contraloría, emitirá el Código de Conducta a que hace referencia el artículo anterior, en un plazo de 60 días naturales contados a partir de la emisión del presente Código de Ética, para su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave y medios electrónicos institucionales, para su difusión.
+
+SEXTO.- Se abroga el Código de Ética del Poder Judicial del Estado publicado el día viernes 18 de agosto de 2017 en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, número extraordinario 330, Tomo CXCVI, así como cualquier otra disposición que contravenga lo establecido en el presente Código.
