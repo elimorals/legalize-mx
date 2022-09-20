@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-movilidad-del-estado-de-nayarit-139839"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-07"
-last_updated: "2022-08-26"
+last_updated: "2022-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE SEPTIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE SEPTIEMBRE DE 2022.]</small>
 
 Ley publicada en la Sección quinta del Número 003 del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020.
 
@@ -4874,3 +4874,7 @@ P.O. 26 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. En un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones reglamentarias.
+
+> <small>(F. DE E., P.O. 20 DE SEPTIEMBRE DE 2022)</small>
+
+Tratándose de las Concesiones de Transporte Público otorgadas a través del programa "Apoyo al Volante" en el año 2022, se tendrá la obligación de destinar unidades vehiculares en perfectas condiciones de uso, las cuales deberán tener una antigüedad máxima de 7 años a la fecha del otorgamiento.
