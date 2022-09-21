@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2022-08-17"
+last_updated: "2022-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2022.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -4599,9 +4599,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 El Congreso del Estado deberá realizar las adecuaciones correspondientes a los ordenamientos secundarios para dar cumplimiento a lo previsto en el presente Decreto, dentro de los ciento ochenta días siguientes a la entrada en vigor del mismo.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO TERCERO.
 
-El Centro de Conciliación Laboral, iniciará sus actividades a más tardar el 02 de mayo del año 2022, en términos de lo que establezca su propia normatividad y posibilidades presupuestales.
+El Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial del Estado iniciarán sus actividades a más tardar el día 03 de octubre del año 2022, en términos de lo que establezca su propia normatividad y posibilidades presupuestales.
 
 ###### ARTÍCULO CUARTO.
 
@@ -4682,3 +4684,9 @@ PRIMERO. El presente Decreto entrará en vigor el primer día hábil del mes de 
 SEGUNDO. Por única ocasión la Auditoría Superior presentará al Congreso del Estado por conducto de su Comisión de Fiscalización, el Informe General y los Informes Individuales correspondientes a la revisión y fiscalización de la Cuenta Pública del ejercicio fiscal del año 2021, el día 30 de septiembre del año 2022.
 
 TERCERO. De conformidad con lo previsto en el Artículo Transitorio anterior, el Congreso del Estado deberá concluir la revisión de la Cuenta Pública del ejercicio fiscal del año 2021 en términos de lo previsto por el artículo 43, fracción XXII de la Constitución Política del Estado de Sinaloa, por única ocasión, a más tardar el día 31 de enero del año 2023.
+
+P.O. 21 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 252 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 588 DE FECHA 16 DE MARZO DE 2021, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE SINALOA" NO. 046 EN FECHA 16 DE ABRIL DE 2021”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
