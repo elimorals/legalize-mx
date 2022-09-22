@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-08-30"
+last_updated: "2022-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 30 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 22 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -6999,7 +6999,9 @@ Unidad de Proyectos y Concesiones
 
 Son atribuciones de la Dirección de Proyectos y Concesiones:
 
-I. Elaborar y ejecutar los programas de la dirección, acorde al Programa de Gobierno Municipal, en coordinación con las dependencias competentes;
+> <small>(REFORMADA, G.M. 22 DE SEPTIEMBRE DE 2022)</small>
+
+I. Generar propuestas, diseñar, planificar, elaborar y ejecutar los proyectos y programas a realizar, acorde al Programa de Gobierno Municipal, en coordinación con las dependencias competentes, que conlleven la mejora de la imagen urbana;
 
 II. Proponer, con base en las políticas, estrategias y prioridades establecidas en el Programa Municipal de Desarrollo Urbano, la concesión de servicios públicos;
 
@@ -7015,9 +7017,17 @@ VII. Diseñar, implementar y promover con alta calidad y eficiencia, los mecanis
 
 VIII. Fungir como enlace de la Coordinación General de Servicios Públicos Municipales, con las concesionarias y los concesionarios de los servicios públicos, generando acciones que permitan el puntual seguimiento y cumplimiento de las obligaciones contractuales;
 
-IX. Participar como enlace de la Coordinación General de Servicios Públicos Municipales en las mesas técnicas y comités de mejoras establecidos en los contratos de concesión, para dar seguimiento al cumplimiento de los acuerdos tomados; y
+> <small>(REFORMADA, G.M. 22 DE SEPTIEMBRE DE 2022)</small>
 
-X. Fungir como enlace de la Coordinación General de Servicios Públicos Municipales, con las diversas dependencias de gobierno tanto del ámbito local como estatal, para la mejora de la prestación de los servicios públicos municipales.
+IX. Participar como enlace de la Coordinación General de Servicios Públicos Municipales en las mesas técnicas y comités de mejoras establecidos en los contratos de concesión, para dar seguimiento al cumplimiento de los acuerdos tomados;
+
+> <small>(REFORMADA, G.M. 22 DE SEPTIEMBRE DE 2022)</small>
+
+X. Fungir como enlace de la Coordinación General de Servicios Públicos Municipales, con las diversas dependencias de gobierno tanto del ámbito local como estatal, para la mejora de la prestación de los servicios públicos municipales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 22 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Atender y asesorar a la Coordinación General de Servicios Públicos Municipales y las Direcciones a su cargo, sobre las concesiones de su competencia.
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -7043,11 +7053,17 @@ Son atribuciones de la Dirección de Control y Calidad:
 
 I. Recibir solicitudes en materia de servicios públicos de la ciudadanía mediante sus distintos canales de comunicación y derivarlos a las dependencias, de acuerdo a su competencia, para su pronta atención y respuesta;
 
-II. Atender, monitorear y dar seguimiento a los reportes y/o peticiones recibidos a fin de lograr que los ciudadanos obtengan la debida atención a sus necesidades;
+> <small>(REFORMADA, G.M. 22 DE SEPTIEMBRE DE 2022)</small>
 
-III. Diseñar acciones que faciliten la gestión y ejecución de los servicios públicos, de manera que se puedan satisfacer las necesidades de la población;
+II. Atender, monitorear y dar seguimiento a los reportes y/o peticiones recibidos sobre servicios públicos en el municipio, a fin de lograr que los ciudadanos obtengan la debida atención a sus necesidades;
 
-IV. Ordenar análisis estadísticos que permitan medir la capacidad de respuesta de las diferentes áreas de la administración pública municipal con relación a la prestación de los servicios públicos municipales, así como generar los indicadores para evaluar su operación;
+> <small>(REFORMADA, G.M. 22 DE SEPTIEMBRE DE 2022)</small>
+
+III. Diseñar acciones que faciliten la gestión y ejecución de los servicios públicos en el municipio, de manera que se puedan satisfacer las necesidades de la población;
+
+> <small>(REFORMADA, G.M. 22 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Ordenar análisis estadísticos que permitan medir la capacidad de respuesta de las diferentes áreas que conforman a la Coordinación General de Servicios Públicos Municipales con relación a la atención de los reportes ciudadanos en el municipio, así como generar los indicadores para evaluar su operación;
 
 V. Coadyuvar con las dependencias que forman parte de la administración pública municipal en la prestación de los servicios públicos y ampliar su capacidad de respuesta;
 
@@ -7055,7 +7071,9 @@ VI. Definir, dirigir y supervisar la correcta aplicación de las políticas de c
 
 VII. Desarrollar una cultura de calidad en el servicio, basada en principios éticos y sociales, así como la promoción e implementación de la mejora continua en trámites y servicios, métodos y procesos; y
 
-VIII. Promover al interior de las dependencias de la administración pública municipal los principios de gestión de calidad y optimización de procesos para la disminución de los trámites y tiempos de respuesta de atención al ciudadano, asegurando una estructura organizacional acorde con ello.
+> <small>(REFORMADA, G.M. 22 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Promover al interior de las dependencias que conforman a la Coordinación General de Servicios Públicos Municipales los principios de gestión de calidad y optimización de procesos para la disminución de los trámites y tiempos de respuesta de atención al ciudadano, asegurando una estructura organizacional acorde con ello.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 3 DE FEBRERO DE 2022)</small>
 
@@ -8120,3 +8138,13 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 22 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor el día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
