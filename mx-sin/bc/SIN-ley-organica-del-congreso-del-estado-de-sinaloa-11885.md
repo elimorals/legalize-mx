@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2022-09-02"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE SEPTIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -399,9 +397,9 @@ E).- El Presidente de la Cámara, pedirá a los Diputados ponerse de pie y dirá
 
 La Mesa Directiva se integrará con un Presidente, dos Vice-Presidentes, dos Secretarios y dos Pro-Secretarios, que serán electos por el voto nominal de las dos terceras partes del total de los diputados que integran la Legislatura.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-Para su integración se observará la composición plural del Congreso, y se deberá observar el principio de paridad de género, pero no podrán formar parte de ella los coordinadores de los grupos parlamentarios.
+Para su integración se observará la composición plural del Congreso, y se deberá observar el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa. Quedando impedidos para formar parte de ella los coordinadores de los grupos parlamentarios.
 
 Los nombramientos se comunicarán a los Poderes Ejecutivo y Judicial del Estado, así como a todos los órganos legislativos federales y locales del país.
 
@@ -897,9 +895,9 @@ XXVII. Instructora.
 
 Las Comisiones Permanentes serán nombradas por el Pleno en votación nominal, a propuesta de la Junta de Coordinación Política, en la tercera sesión del Primer Período Ordinario de Sesiones del Ejercicio Constitucional.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-La integración de las Comisiones Permanentes será plural, y se deberá observar el principio de paridad de género y se ajustará en lo posible a la proporcionalidad que guardan los grupos parlamentarios en la composición de la Legislatura.
+La integración de las Comisiones Permanentes será plural, y se deberá observar el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa y se ajustará en lo posible a la proporcionalidad que guardan los grupos parlamentarios en la composición de la Legislatura.
 
 La Junta de Coordinación Política como órgano conductor y coordinador de trabajo legislativo, podrá proponer al Pleno el cambio de alguno o varios de los integrantes de las Comisiones Permanentes cuando se justifique.
 
@@ -1085,11 +1083,11 @@ XI.- Decretar en caso grave, la traslación provisional de los Poderes del Estad
 
 XII.- Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción II del artículo 44 y las demás facultades que se hayan consignado en la Constitución Política del Estado, o que le confieran las Leyes.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 80.
 
-La Diputación Permanente estará integrada bajo la fórmula de nueve Propietarios y nueve Suplentes, observando el principio de paridad de género. Cada Grupo Parlamentario contará, como mínimo, con un representante propietario y su respectivo suplente.
+La Diputación Permanente estará integrada bajo la fórmula de nueve Propietarios y nueve Suplentes, observando el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa. Cada Grupo Parlamentario contará, como mínimo, con un representante propietario y su respectivo suplente.
 
 ###### ARTICULO 81.
 
@@ -1357,9 +1355,9 @@ XXIV. Las demás que le señalen los ordenamientos legales aplicables o que dete
 
 El Congreso del Estado, para su debido funcionamiento y en el cumplimiento de sus atribuciones, deberá contar con la estructura administrativa que se establece en la presente Ley.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-En su estructura administrativa interna se deberá de observar el principio de paridad de género.
+En su estructura administrativa interna se deberá de observar el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -1455,9 +1453,9 @@ Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentari
 
 De la Secretaría General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, de Gestión y Vinculación Social y las demás unidades y Departamentos que sean necesarios para el debido cumplimiento de sus atribuciones.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-El nombramiento del Secretario General y demás servidores públicos directivos del Congreso será hecho por el Pleno o por la Diputación Permanente, en su caso, a propuesta de la Junta de Coordinación Política, atendiendo las bases del servicio civil de carrera y el principio de paridad de género.
+El nombramiento del Secretario General y demás servidores públicos directivos del Congreso será hecho por el Pleno o por la Diputación Permanente, en su caso, a propuesta de la Junta de Coordinación Política, atendiendo las bases del servicio civil de carrera y el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
@@ -2706,3 +2704,19 @@ Los procedimientos iniciados por las autoridades de la Auditoría Superior del E
 ###### ARTÍCULO CUARTO.
 
 La Auditoría Superior del Estado deberá realizar las modificaciones pertinentes a su Reglamento Interior y demás normatividad aplicable derivadas del presente Decreto a más tardar el día primero de enero de 2023.
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DE SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
