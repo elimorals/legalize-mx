@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2022-08-17"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -506,6 +506,10 @@ III. Trata de personas menores de 18 años de edad, abuso sexual infantil, explo
 IV. El tráfico de menores;
 
 V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+V Bis. Por acciones u omisiones acreditadas respecto de violencia vicaria;
 
 VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General y en las demás disposiciones aplicables; y
 
@@ -1796,3 +1800,11 @@ P.O. 17 DE AGOSTO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 259 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, CÓDIGO FAMILIAR Y CÓDIGO PENAL, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
