@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2019-06-12"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -320,6 +320,10 @@ I. Educación obligatoria;
 II. Salud;
 
 III. Generación, conservación y capacitación para el trabajo y el incremento de la competitividad;
+
+> <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2022)</small>
+
+III Bis. Desarrollo Rural Sostenible;
 
 IV. Alimentación, nutrición materno infantil y abasto social de productos básicos;
 
@@ -1142,3 +1146,13 @@ G.G. 12 DE JUNIO DE 2019.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+G.G. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 81.- POR EL QUE SE ADICIONA UNA FRACCIÓN III BIS AL ARTÍCULO 11 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este decreto.
