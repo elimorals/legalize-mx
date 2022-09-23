@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-atencion-y-proteccion-a-personas-con-la-109569"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-19"
-last_updated: "2019-08-23"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 19 de agosto de 2015.
 
@@ -193,7 +193,9 @@ V. Recibir consultas clínicas y terapias de habilitación especializadas en la 
 
 VI. Disponer de su ficha personal en lo que concierne al área médica, psicológica, psiquiátrica y educativa, al momento en que les sean requeridos por autoridad competente;
 
-VII. Contar con los cuidados apropiados para su salud mental y física, con acceso a tratamientos y medicamentos de calidad, que les sean administrados oportunamente, tomando todas las medidas y precauciones necesarias;
+> <small>(REFORMADA, G.G. 23 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Contar con los cuidados apropiados para su salud mental y física, con acceso a diagnósticos tempranos y oportunos, tratamientos adecuados y medicamentos de calidad, que les sean administrados oportunamente, tomando todas las medidas y precauciones necesarias;
 
 VIII. Recibir una educación o capacitación basada en criterios de integración e inclusión, tomando en cuenta sus capacidades y potencialidades, mediante evaluaciones pedagógicas, a fin de fortalecer la posibilidad de una vida independiente;
 
@@ -297,9 +299,11 @@ VI. Las que determine el Titular del Poder Ejecutivo Estatal para el cumplimient
 
 VII. Las demás que se establezcan en otros ordenamientos.
 
+> <small>(REFORMADO, G.G. 23 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 15.
 
-El Titular de la Secretaría recabará del Consejo de Salud del Estado de México, la opinión sobre programas y proyectos de investigación científica y de formación de recursos humanos, así como sobre el establecimiento de nuevos estudios profesionales, técnicos, auxiliares y especialidades que se requieran en materia de la condición del espectro autista, con fundamento en lo dispuesto en la Ley General de Salud.
+El Titular de la Secretaría recabará del Consejo de Salud del Estado de México, la opinión sobre programas y proyectos de investigación científica y de formación de recursos humanos, así como sobre el establecimiento de nuevos estudios profesionales, técnicos, auxiliares y especialidades que se requieran en la materia, buscando la detección temprana y oportuna de la condición del espectro autista, con fundamento en lo dispuesto en la Ley General de Salud.
 
 ### CAPÍTULO IV. Prohibiciones y Sanciones
 
@@ -311,13 +315,17 @@ En el Estado de México y sus Municipios, queda estrictamente prohibido para la 
 
 I. Rechazar su atención en clínicas y hospitales del sector público, social y privado;
 
-II. Negar la orientación necesaria para un diagnóstico y tratamiento adecuado, y desestimar el traslado de individuos a instituciones especializadas, en el supuesto de carecer de los conocimientos necesarios para su atención adecuada;
+> <small>(REFORMADA, G.G. 23 DE SEPTIEMBRE DE 2022)</small>
+
+II. Negar la orientación necesaria para un diagnóstico temprano y tratamiento adecuado, y desestimar el traslado de individuos a instituciones especializadas, en el supuesto de carecer de los conocimientos necesarios para su atención adecuada;
 
 III. Actuar con negligencia y realizar acciones que pongan en riesgo la salud de las personas, así como aplicar terapias riesgosas, indicar sobre-medicación que altere el grado de la condición u ordenar internamientos injustificados en instituciones psiquiátricas;
 
 IV. Impedir o desautorizar la inscripción en los planteles educativos públicos y privados;
 
-V. Permitir que niñas, niños y adolescentes sean víctimas de burlas y agresiones que atenten contra su dignidad y estabilidad emocional por parte de sus maestros y compañeros;
+> <small>(REFORMADA, G.G. 23 DE SEPTIEMBRE DE 2022)</small>
+
+V. Permitir que niñas, niños y adolescentes sean víctimas de burlas y agresiones que atenten contra su dignidad y estabilidad emocional por parte de sus maestros y compañeros, o cualquier otra persona dentro o fuera del plantel educativo;
 
 VI. Impedir el acceso a servicios públicos y privados de carácter cultural, deportivo, recreativo, así como de transportación;
 
@@ -466,3 +474,11 @@ G.G. 23 DE AGOSTO DE 2019.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 84.- POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 10, EL ARTÍCULO 15 Y LAS FRACCIONES II Y V DEL ARTÍCULO 16 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
