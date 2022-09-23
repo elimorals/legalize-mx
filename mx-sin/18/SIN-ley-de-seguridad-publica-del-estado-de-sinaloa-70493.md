@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2021-12-08"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -1287,9 +1287,9 @@ IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor pú
 
 Para la designación de los representantes el Presidente del Consejo Estatal, convocará a las organizaciones de la sociedad para el efecto de que proporcionen el nombre de las personas que consideren deban ser tomadas en cuenta.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-La Coordinación General del Consejo Estatal, para su composición deberá observar el principio de paridad de género.
+La Coordinación General del Consejo Estatal, para su composición deberá observar el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
 De las propuestas que realicen las organizaciones, el Presidente del Consejo Estatal, hará la designación de los representantes de la sociedad.
 
@@ -4172,3 +4172,19 @@ La Junta de Gobierno dentro de los diez días hábiles siguientes a la fecha de 
 OCTAVO. En tanto la Universidad de la Policía del Estado de Sinaloa implementa sus propios planes y programas de estudio, aquellos establecidos por el Instituto Estatal de Ciencias Penales y Seguridad Pública seguirán aplicándose hasta la conclusión de los respectivos cursos, periodos, niveles o grados.
 
 NOVENO. En términos del artículo 26 de la Ley de Entidades Paraestatales del Estado de Sinaloa, el Rector de la Universidad dentro de los treinta días siguientes a la fecha de instalación de la Junta Directiva de la Universidad de la Policía del Estado de Sinaloa o la persona a que se refiere el artículo quinto transitorio deberá inscribir lo dispuesto por la fracción I del artículo 27 de dicho artículo en el Registro Público de Entidades Paraestatales.
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 257 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
