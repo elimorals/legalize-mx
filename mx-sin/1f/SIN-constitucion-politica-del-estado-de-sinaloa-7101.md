@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2022-09-21"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -108,6 +108,10 @@ XI. Se prohíbe la obtención y el uso en cualquier procedimiento de la prueba o
 XII. La persona que hubiere sido condenada en sentencia firme por error judicial, o haberse probado que fue privada ilegalmente de la libertad por otra autoridad, tendrá derecho a ser indemnizada.
 
 XIII. Los niños son titulares de derechos y no sólo objeto de protección. En los procedimientos judiciales o administrativos en que se resuelven derechos de los niños se deben observar los principios y las normas del debido proceso legal, atendiendo a las particularidades que se derivan de la situación específica en que se encuentran los niños y que se proyectan razonablemente, entre otras materias, sobre la intervención personal de dichos procedimientos y las medidas de protección que sea indispensable adoptar en el desarrollo de éstos.
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+XIV. Toda persona tiene derecho al acceso a la información a la salud en el caso de emergencias sanitarias, incluyendo de manera enunciativa pero no limitativa el acceso a la información relacionada con las medidas de bioseguridad exigibles a establecimientos abiertos al público, con las certificaciones que avalen su cumplimiento, así como de los requisitos y procedimientos para obtenerlas. Así como a todos los datos relativos a las causas, incidencias, y demás temas relacionados con los motivos de la emergencia sanitaria, respetándose en todo momento la protección de datos personales.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -4690,3 +4694,15 @@ P.O. 21 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 252 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 588 DE FECHA 16 DE MARZO DE 2021, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE SINALOA" NO. 046 EN FECHA 16 DE ABRIL DE 2021”.]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 209 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 4° BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga cualquier disposición que se oponga a lo señalado en este Decreto.
