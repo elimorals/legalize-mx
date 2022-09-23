@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-atencion-y-proteccion-a-victimas-del-estado-de-101900"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-30"
-last_updated: "2021-10-29"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101900&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el miércoles 30 de julio de 2014.
 
@@ -410,6 +410,10 @@ I. A ser informadas de manera clara, precisa y accesible de sus derechos por el 
 II. A que se les repare el daño en forma expedita, proporcional y justa en los términos a que se refiere esta Ley y de la legislación aplicable. En los casos en que la autoridad judicial dicte una sentencia condenatoria no podrá absolver al responsable de dicha reparación. Si la víctima o su Asesor Jurídico no solicitaran la reparación del daño, el Ministerio Público está obligado a hacerlo;
 
 III. A coadyuvar con el Ministerio Público a que se les reciban todos los datos o elementos de prueba con los que cuenten, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes y a intervenir en el juicio ejerciendo durante el mismo sus derechos los cuales en ningún caso podrán ser menores a los del imputado. Asimismo, tendrán derecho a que se les otorguen todas las facilidades para la presentación de denuncias o querellas;
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+En los casos de víctimas de delitos sexuales, se podrán aportar datos o elementos de pruebas tendientes a acreditar la existencia de trastornos de estrés postraumático o cualquier otro tipo de secuela, principalmente respecto de aquellas que le impidan a la víctima mantener un recuerdo claro, preciso y congruente de los hechos, o bien, generen una disociación de la información, con el objeto de evitar su revictimización.
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -2674,3 +2678,11 @@ SÉPTIMO. Los recursos humanos y materiales asignados al Centro de Justicia para
 OCTAVO. Quedarán a salvo los derechos de las y los trabajadores de las instituciones que absorbe la Secretaría de las Mujeres, para efectos de su Seguridad y Previsión Social.
 
 NOVENO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 258 DEL H. CONGRESO DEL ESTADO.- SE ADICIONA EL ARTÍCULO 186 BIS AL CAPÍTULO VI DEL TÍTULO OCTAVO DENOMINADO <<DELITOS CONTRA LA LIBERTAD SEXUAL Y SU NORMAL DESARROLLO>> DE LA SECCIÓN PRIMERA DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo iniciará su vigencia al día siguiente de su aprobación por el Pleno.
