@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-sinaloa-89
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-17"
-last_updated: "2021-12-08"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 17 de octubre de 2012.
 
@@ -437,7 +437,9 @@ X. Definir prioridades y criterios para la asignación del gasto público estata
 
 XI. Aprobar los indicadores de gestión, mismos que serán ratificados por la Comisión de Ciencia y Tecnología del H. Congreso del Estado;
 
-XII. Nombrar y remover, a propuesta del director general o su equivalente, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y aprobar la fijación de sus sueldos y prestaciones conforme a las disposiciones legales presupuestales y administrativas correspondientes;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Nombrar y remover, a propuesta del director general o su equivalente, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél observando el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa, así como aprobar la fijación de sus sueldos y prestaciones conforme a las disposiciones legales presupuestales y administrativas correspondientes;
 
 XIII. Impulsar el desarrollo tecnológico, la innovación, el emprendimiento y la creación de nuevos negocios, así como el fortalecimiento de las capacidades tecnológicas de la planta productiva estatal;
 
@@ -649,7 +651,9 @@ III. Cumplir y hacer cumplir las normas y disposiciones reglamentarias del Centr
 
 IV. Presentar a la Coordinación, un informe anual de actividades;
 
-V. Nombrar y remover al personal académico, técnico y administrativo del Centro, en acuerdo con el Director General;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+V. Nombrar y remover en acuerdo con el Director General, al personal académico, técnico y administrativo del Centro, observando el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
 
 VI. Gestionar y operar convenios que permitan una mayor eficiencia en los servicios prestados por el Centro; y
 
@@ -1250,3 +1254,19 @@ SÉPTIMO. Las disposiciones administrativas expedidas en esta materia, vigentes 
 OCTAVO. Quedarán a salvo los derechos de las y los trabajadores del Centro de Ciencias de Sinaloa que absorbe la Coordinación General para el Fomento de la Investigación Científica e Innovación del Estado de Sinaloa, para efectos de su Seguridad y Previsión Social.
 
 NOVENO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DE SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
