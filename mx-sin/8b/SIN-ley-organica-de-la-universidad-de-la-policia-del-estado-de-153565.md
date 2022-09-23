@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-universidad-de-la-policia-del-estado-de-1535
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-08"
-last_updated: "2021-12-08"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Número 148 del Periódico Oficial del Estado de Sinaloa, el miércoles 8 de diciembre de 2021.
 
@@ -133,7 +133,9 @@ XII. Capacitar de manera científica y técnica a los integrantes de las institu
 
 XIII. Aplicar los procedimientos homologados del Sistema Nacional de Seguridad Pública, cuando así corresponda;
 
-XIV. Fijar los términos de ingreso, promoción, y permanencia de su personal académico;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+XIV. Fijar los términos de ingreso, promoción, y permanencia de su personal académico, observando el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
 
 XV. Respetar el libre examen y discusión de las ideas dentro de los planes y programas de estudio vigentes y propiciar un ambiente de participación plural y democrático;
 
@@ -399,9 +401,13 @@ IV. Presentar ante la Junta de Gobierno el proyecto de Estatuto Orgánico de la 
 
 V. Ejecutar los acuerdos y resoluciones que emanen del Consejo Académico y de la Junta de Gobierno;
 
-VI. Designar y remover libremente al personal académico, administrativo y de confianza de la Universidad, salvo los establecidos en el artículo 59, fracción X, de la Ley de Entidades Paraestatales del Estado de Sinaloa;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-VII. Expedir los nombramientos del personal académico, administrativo y de confianza;
+VI. Designar y remover libremente al personal académico, administrativo y de confianza de la Universidad, salvo los establecidos en el artículo 59, fracción X, de la Ley de Entidades Paraestatales del Estado de Sinaloa, observando en todo momento el principio de paridad de género, en el entendido que si se incumple con lo estipulado en esta disposición, incurrirá en la falta administrativa estipulada en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Expedir los nombramientos del personal académico, administrativo y de confianza, observando el principio de paridad de género, en el entendido que si incumple con lo estipulado en esta disposición, incurrirá en la falta administrativa estipulada en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
 
 VIII. Someter a consideración de la Junta de Gobierno, el proyecto de presupuesto anual de ingresos y egresos de la Universidad, para su aprobación, en su caso;
 
@@ -628,3 +634,21 @@ CRISTÓBAL CASTAÑEDA CAMARILLO
 Secretaria de Transparencia y Rendición de Cuentas
 
 MARÍA GUADALUPE RAMÍREZ ZEPEDA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DE (SIC) SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
