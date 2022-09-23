@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-tribunal-de-justicia-administrativa-del-130852
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-10-01"
-last_updated: "2020-09-11"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 1 de octubre de 2018.
 
@@ -327,9 +327,9 @@ XII. Jefe de Unidad de Apoyo Administrativo; y
 
 XIII. El personal jurídico y administrativo necesario para el desahogo de las funciones.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-En su estructura orgánica interna se deberá de observar el principio de paridad de género.
+En su estructura orgánica interna se deberá de observar el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
 ###### Artículo 20.
 
@@ -896,3 +896,19 @@ SEGUNDO. No obstante lo establecido en el artículo anterior, las disposiciones 
 En caso de que se hagan observaciones por parte del Ejecutivo Estatal a las otras disposiciones contenidas en el presente Decreto, el Gobernador del Estado deberá publicar en lo inmediato, para conocimiento de la generalidad, la parte relativa a las modificaciones de la Ley Orgánica del Congreso.
 
 TERCERO. Las disposiciones del presente Decreto relativas a las candidaturas de elección popular por las fórmulas de mayoría relativa y de representación proporcional, serán aplicables a partir del proceso electoral del año 2021 atento también a las disposiciones electorales contenidas en la demás legislación de la materia que sea aplicable.
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 257 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
