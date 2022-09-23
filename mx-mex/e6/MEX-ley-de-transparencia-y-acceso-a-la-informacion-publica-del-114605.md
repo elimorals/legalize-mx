@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2021-10-11"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Quinta de la Gaceta Oficial del Estado de México, el miércoles 4 de mayo de 2016.
 
@@ -257,7 +257,9 @@ En el ejercicio, tramitación e interpretación de la presente Ley y demás norm
 
 En la generación, publicación y entrega de información se deberá garantizar que ésta sea accesible, actualizada, completa, congruente, confiable, verificable, veraz, integral, oportuna y expedita, sujeta a un claro régimen de excepciones que deberá estar definido y ser además legítima y estrictamente necesaria en una sociedad democrática, por lo que atenderá las necesidades del derecho de acceso a la información de toda persona.
 
-Los sujetos obligados buscarán en todo momento que la información generada tenga un lenguaje sencillo para cualquier persona y se procurará, en la medida de lo posible, traducción a lenguas indígenas, principalmente de aquellas con que se cuenta en el Estado de México.
+> <small>(REFORMADO, G.G. 23 DE SEPTIEMBRE DE 2022)</small>
+
+Los sujetos obligados garantizarán, en todo momento, que la información generada tenga un lenguaje sencillo para cualquier persona y, en los casos en que así se requiera, realizarán las gestiones necesarias para contar con la traducción a lenguas indígenas, principalmente cuando se trate de aquellas residentes en el Estado de México.
 
 ###### Artículo 12.
 
@@ -2910,6 +2912,14 @@ TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que
 G.G. 11 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2.- POR EL QUE SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE ADICIONA UNA FRACCIÓN XLVII Y SE RECORRE LA SUBSECUENTE AL ARTÍCULO 36 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 82.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 11 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
