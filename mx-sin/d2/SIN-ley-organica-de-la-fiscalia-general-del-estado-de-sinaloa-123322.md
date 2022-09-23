@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-fiscalia-general-del-estado-de-sinaloa-12332
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-09-08"
-last_updated: "2021-12-01"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de septiembre de 2017.
 
@@ -395,11 +395,11 @@ XIII. Los demás órganos o unidades creadas por mandato legal o que determine e
 
 Los titulares de los órganos o unidades a que se refiere el artículo anterior deberán reunir los requisitos que se establezcan en el Reglamento y demás disposiciones aplicables, y serán nombrados y removidos por el Fiscal General. El Reglamento determinará en qué casos el titular de alguna unidad tendrá, por ese hecho, carácter de agente del Ministerio Público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 11.
 
-La Fiscalía General contará con el personal señalado en el artículo 9 de la presente Ley, así como el personal profesional, técnico y administrativo necesario para la realización de sus funciones, observando el principio de paridad de género, en términos de las disposiciones jurídicas aplicables y del presupuesto aprobado por el Congreso del Estado.
+La Fiscalía General contará con el personal señalado en el artículo 9 de la presente Ley, así como el personal profesional, técnico y administrativo necesario para la realización de sus funciones, observando el principio de paridad de género, en términos de las disposiciones jurídicas aplicables y del presupuesto aprobado por el Congreso del Estado, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
 Los Ministerios Públicos, policías de investigación y peritos, así como los integrantes de otros cuerpos que realicen funciones sustantivas para la Fiscalía General en términos del procedimiento penal, podrán ser de designación especial y, sin sujetarse a todos los requisitos de ese cargo, pero en ese caso no serán miembros del servicio de carrera. El Reglamento determinará los casos y condiciones en que proceda tal designación.
 
@@ -653,7 +653,9 @@ Para tal efecto, una vez que se realicen los nombramientos respectivos, el Fisca
 
 El Reglamento Interno de las Fiscalías Especializadas, detallará y establecerá sus estructuras orgánicas, recursos humanos y materiales, las atribuciones competenciales de cada uno de sus órganos internos, así como las facultades y obligaciones de las personas que sean titulares de las mismas, garantizando la adecuada operación, eficacia y eficiencia en su desempeño, a fin de cumplir en todo momento con la legislación en la materia respecto de la que tienen competencia y las tareas encomendadas.
 
-En la designación de las personas titulares correspondiente a la estructura organizacional de cada una de las Fiscalías Especializadas, se deberá de tomar en consideración el principio de paridad de género.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+En la designación de las personas titulares correspondiente (sic) a la estructura organizacional de cada una de las Fiscalías Especializadas, se deberá de tomar en consideración el principio de paridad de género en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
 Los acuerdos, circulares, instructivos, lineamientos, manuales y demás normas administrativas emitidas por parte de las Fiscalías Especializadas, que sean necesarios para regular la actuación de las instituciones a su cargo, en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General.
 
@@ -969,9 +971,9 @@ Artículo 23 Bis J. La persona titular de la UIPE, así como todo el personal ad
 
 El Consejo Consultivo es el órgano colegiado de participación ciudadana de la Fiscalía General.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-Está integrado, por el Fiscal General y seis consejeros ciudadanos que gocen de reconocido prestigio en el estudio, difusión y/o promoción de los derechos humanos como en sistemas de procuración y/o administración de justicia en el Estado, observando para su integración el principio de paridad de género.
+Está integrado, por el Fiscal General y seis consejeros ciudadanos que gocen de reconocido prestigio en el estudio, difusión y/o promoción de los derechos humanos como en sistemas de procuración y/o administración de justicia en el Estado, observando para su integración el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
 El Vicefiscal General será el Secretario Técnico del Consejo Consultivo.
 
@@ -1942,3 +1944,19 @@ TERCERO. Dentro de los ciento veinte días siguientes a la entrada en vigor del 
 3. En su caso, realizar las capacitaciones en materia de violencia de género y atención a víctimas para jueces y personal administrativo de los mismos.
 
 CUARTO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 257 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
