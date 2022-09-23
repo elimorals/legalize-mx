@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2020-09-14"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -1951,9 +1951,9 @@ I. Conducir la preparación, desarrollo y vigilancia del proceso electoral y cui
 
 II. Dictar normas y previsiones destinadas a hacer efectivas las disposiciones de esta ley;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-III. Designar durante la primera quincena del mes de enero del año de la elección, a la Presidenta o Presidente, así como a Consejeras y Consejeros electorales que integren los Consejos Distritales y los Consejos Municipales, respectivamente, con base en los lineamientos respectivos que emitan. De igual manera podrán remover, previo ejercicio del derecho de audiencia y el debido proceso conforme a los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos, cuando incumplan reiteradamente los principios rectores de la función electoral contemplados en el artículo 15 de la Constitución Estatal;
+III. Designar durante la primera quincena del mes de enero del año de la elección, al Presidente y consejeros electorales que integren los Consejos Distritales y a los integrantes de los Consejos Municipales con base en los lineamientos respectivos y el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2020)</small>
 
@@ -2133,9 +2133,9 @@ Son atribuciones de la Presidencia del Consejo General, las siguientes:
 
 I. Convocar, presidir y conducir las sesiones del Instituto;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-II. Proponer al Consejo General el nombramiento del Secretario Ejecutivo y de los coordinadores de organización, administración, prerrogativas de partidos políticos, capacitación y educación cívica; así como nombrar al demás personal que sea necesario para el cumplimiento de las atribuciones del Instituto, observando el principio de paridad de género;
+II. Proponer al Consejo General el nombramiento del Secretario Ejecutivo y de los coordinadores de organización, administración, prerrogativas de partidos políticos, capacitación y educación cívica; así como nombrar al demás personal que sea necesario para el cumplimiento de las atribuciones del Instituto, observando el principio de paridad de género, en el entendido de que si se incumple con lo estipulado en esta disposición, incurrirá en la falta administrativa estipulada en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
 
 III. Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo General;
 
@@ -4858,3 +4858,19 @@ P.O. 14 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 505 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA”.]
 
 Único. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DE SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
