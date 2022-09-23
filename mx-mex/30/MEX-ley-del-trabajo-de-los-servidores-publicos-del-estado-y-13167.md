@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2022-06-10"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -2471,9 +2471,9 @@ IV. Pericial;
 
 V. Inspección;
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 23 DE SEPTIEMBRE DE 2022)</small>
 
-VI. Fotografías, cintas cinematográficas, registros dactiloscópicos, grabaciones de audio y de video, o las distintas tecnologías de información y la comunicación, tales como sistemas informáticos, medios electrónicos ópticos, fax, correo electrónico, documento digital, firma electrónica o contraseña y, en general, los medios aportados por los descubrimientos de la ciencia y de la técnica;
+VI. Fotografías, cintas cinematográficas, registros dactiloscópicos, grabaciones de audio y de video, o las distintas tecnologías de información y la comunicación, tales como sistemas informáticos, medios electrónicos ópticos, fax, correo electrónico, documento electrónico, firma electrónica o contraseña, y, en general, los medios aportados por los descubrimientos de la ciencia y de la tecnología, en términos de la legislación aplicable en la materia;
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -3588,3 +3588,11 @@ G.G. 10 DE JUNIO DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 83.- POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 219 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
