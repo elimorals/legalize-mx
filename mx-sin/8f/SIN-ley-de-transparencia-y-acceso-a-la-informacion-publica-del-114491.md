@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1144
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2020-09-30"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el miércoles 4 de mayo de 2016.
 
@@ -449,9 +449,9 @@ XXVIII. Emitir recomendaciones a los sujetos obligados para diseñar, implementa
 
 XXIX. Establecer su estructura orgánica y su jerarquización, así como los mecanismos de selección y contratación de personal, en los términos de su reglamentación;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-XXX. Designar al personal que deba formar parte de su estructura orgánica, observando el principio de paridad de género;
+XXX. Designar al personal que deba formar parte de su estructura orgánica, observando el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
 
 XXXI. Expedir su reglamento y demás normas internas de funcionamiento, así como toda aquella que por disposición expresa de una Ley deba emitir;
 
@@ -755,11 +755,11 @@ Artículo 60 Bis F. Los servidores públicos adscritos al órgano interno de con
 
 ### Capítulo II. De los Comités de Transparencia
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 61.
 
-Cada sujeto obligado constituirá un Comité de Transparencia que deberá estar integrado por un número impar de servidores públicos y, en su caso, de personas designadas por su titular, para su composición deberá de observar el principio de paridad de género. Este acto deberá formalizarse mediante elaboración del acta respectiva.
+Cada sujeto obligado constituirá un Comité de Transparencia que deberá estar integrado por un número impar de servidores públicos y, en su caso, de personas designadas por su titular, para su composición deberá de observar el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa. Este acto deberá formalizarse mediante elaboración del acta respectiva.
 
 ###### Artículo 62.
 
@@ -855,11 +855,11 @@ El Consejo Consultivo es el órgano colegiado y plural que estará integrado por
 
 El Consejo Consultivo deberá expedir su reglamento interior en el que se establezca su organización y funcionamiento.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 71.
 
-En la integración del Consejo Consultivo se procurará garantizar los principios de igualdad y paridad de género, y la inclusión de personas con experiencia en la materia de esta Ley y en derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
+En la integración del Consejo Consultivo se procurará garantizar los principios de igualdad y paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa. Procurando también garantizar la inclusión de personas con experiencia en la materia de esta Ley y en derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
 
 ###### Artículo 72.
 
@@ -2638,3 +2638,19 @@ P.O. 30 DE SEPTIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor el día 9 de febrero de 2021, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. El Poder Judicial del Estado, los Órganos Jurisdiccionales Administrativos, Laborales y Electorales, contarán con un plazo de 180 días para iniciar la publicación de las versiones públicas del texto íntegro de las sentencias emitidas, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DE SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
