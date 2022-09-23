@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-responsabilidades-administrativas-del-estado-de-122099"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-16"
-last_updated: "2020-07-01"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2020
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 16 de junio de 2017.
 
@@ -482,6 +482,10 @@ La declaración de intereses deberá presentarse en los plazos a que se refiere 
 Incurrirá en Falta administrativa no grave el servidor público cuyos actos u omisiones incumplan o transgredan lo contenido en las obligaciones siguientes:
 
 l. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando en su desempeño disciplina y respeto, tanto a los demás Servidores Públicos como a los particulares con los que llegare a tratar, en los términos que se establezcan en el código de ética a que se refiere el artículo 16 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+I Bis. Cuando esté dentro de sus facultades, cumplir con el principio de paridad de género en la realización de nombramientos de la estructura de mando dentro del servicio público de la entidad estatal o municipal de que se trate, así como al cubrirse alguna de sus vacantes;
 
 II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir Faltas administrativas, en términos del artículo 93 de la presente Ley;
 
@@ -1856,3 +1860,19 @@ P.O. 1 DE JULIO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DE (SIC) SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICIA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
