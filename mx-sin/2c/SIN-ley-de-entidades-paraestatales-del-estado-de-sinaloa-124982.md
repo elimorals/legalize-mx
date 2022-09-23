@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-entidades-paraestatales-del-estado-de-sinaloa-124982"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-22"
-last_updated: "2021-10-29"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Octava Sección al Número 161 del Periódico Oficial del Estado de Sinaloa, el viernes 22 de diciembre de 2017.
 
@@ -533,9 +533,9 @@ VIII. Proponer al Ejecutivo Estatal, por conducto de la Secretaría de Administr
 
 IX. Autorizar la creación de comités y subcomités de apoyo;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-X. Nombrar y remover, a propuesta del director general o su equivalente, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, aprobar la fijación de sus sueldos y prestaciones, de conformidad con el Presupuesto de Egresos del Estado, a las políticas y lineamientos en la materia establecidas por la Secretaría de Administración y Finanzas, así como a lo establecido en los estatutos de la entidad. Quedará exceptuado de lo anterior, el titular del área jurídica, o el servidor público de cualquier denominación que desempeñe funciones de asesoría o representación jurídica según la normativa interna, que será nombrado y removido libremente por el Secretario General de Gobierno;
+X. Nombrar y remover, a propuesta del director general o su equivalente, a los servidores públicos de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél, observando el principio de paridad de género, en el entendido de que si incumple con lo estipulado en esta disposición incurrirá en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa, así como aprobar la fijación de sus sueldos y prestaciones, de conformidad con el Presupuesto de Egresos del Estado, a las políticas y lineamientos en la materia establecidas por la Secretaría de Administración y Finanzas, así como a lo establecido en los estatutos de la entidad. Quedará exceptuado de lo anterior, el titular del área jurídica, o el servidor público de cualquier denominación que desempeñe funciones de asesoría o representación jurídica según la normativa interna, que será nombrado y removido libremente por el Secretario General de Gobierno;
 
 XI. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por el Ejecutivo Estatal a través de la Secretaría de Administración y Finanzas;
 
@@ -565,7 +565,9 @@ VI. Tomar las medidas pertinentes a fin de que las funciones de la entidad se re
 
 VII. Establecer los procedimientos para controlar la calidad de los suministros y programas de recepción que aseguren la continuidad en la fabricación, distribución o prestación de los bienes o servicios a su cargo;
 
-VIII. Proponer al órgano de gobierno el nombramiento o la remoción de los dos primeros niveles, jerárquicamente inferiores al suyo, de servidores de la entidad, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio órgano, de conformidad con lo establecido en el artículo 59 fracción X de la presente Ley, antes de solicitar al órgano de gobierno, la autorización para la modificación de la estructura orgánica, la contratación de nuevas plazas o plazas vacantes o de incrementos salariales a la plantilla, se deberá contar con la suficiencia presupuestal y la aprobación de la Secretaría de Administración y Finanzas. Cualquier pacto o autorización en contravención a lo dispuesto en este párrafo se considerará nula de pleno derecho y causa de responsabilidad;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Proponer al órgano de gobierno el nombramiento o la remoción de los dos primeros niveles, jerárquicamente inferiores al suyo, de servidores de la entidad, observando el principio de paridad de género, en el entendido de que si incumple con lo estipulado en esta disposición incurrirá en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa, así como la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio órgano, de conformidad con lo establecido en el artículo 59 fracción X de la presente Ley, antes de solicitar al órgano de gobierno, la autorización para la modificación de la estructura orgánica, la contratación de nuevas plazas o plazas vacantes o de incrementos salariales a la plantilla, se deberá contar con la suficiencia presupuestal y la aprobación de la Secretaría de Administración y Finanzas. Cualquier pacto o autorización en contravención a lo dispuesto en este párrafo se considerará nula de pleno derecho y causa de responsabilidad;
 
 IX. Recabar información y elementos estadísticos que reflejen el estado de las funciones de la entidad paraestatal para así poder mejorar la gestión de la misma;
 
@@ -688,3 +690,19 @@ TERCERO. Aquellas entidades paraestatales que no dispongan de un área de asesor
 CUARTO. El nombramiento y remoción de los titulares de las áreas jurídicas de las entidades paraestatales, será atribución vigente del Secretario General de Gobierno, a partir de la entrada en vigor de este Decreto, aún y cuando el instrumento jurídico que les dio origen no haya sido adecuado a esta disposición. En lo subsecuente, se dictarán las disposiciones necesarias para armonizar dichos instrumentos jurídicos al contenido de esta reforma de Ley.
 
 QUINTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 257 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DE (SIC) SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
