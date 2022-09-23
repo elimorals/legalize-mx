@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2021-03-08"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -59,9 +59,9 @@ En ejercicio de esta atribución, estarán facultados para aprobar y expedir los
 
 I. Regular el funcionamiento del ayuntamiento y de la administración pública municipal, así como establecer sus órganos de gobierno interno;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-II. Establecer los procedimientos para el nombramiento y remoción de los servidores públicos, observando el principio de paridad de género por lo menos en el primer nivel de la administración pública municipal;
+II. Establecer los procedimientos para el nombramiento y remoción de los servidores públicos, observando siempre el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
 
 III. Regular las materias, procedimientos, funciones y servicios públicos de su competencia;
 
@@ -717,9 +717,9 @@ Para ser Presidente Municipal además de los requisitos que exige el artículo 4
 
 Son facultades y obligaciones del Presidente Municipal, las siguientes:
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
-I. Dirigir el gobierno y la administración pública municipal y proponer al Ayuntamiento el nombramiento del Secretario del Ayuntamiento, del Tesorero y del Oficial Mayor, así como, nombrar y remover a los demás servidores públicos municipales, con excepción de los servidores públicos adscritos al Síndico Procurador;
+I. Dirigir el gobierno y la administración pública municipal y proponer al Ayuntamiento el nombramiento del Secretario del Ayuntamiento, del Tesorero y del Oficial Mayor, así como nombrar y remover a los demás servidores públicos municipales, con excepción de los servidores públicos adscritos al Síndico Procurador, observando el principio de paridad de género, en el entendido de que si se incumple con lo estipulado en esta disposición, incurrirá en la falta administrativa estipulada en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa;
 
 II. Presidir las sesiones y dirigir los debates del Ayuntamiento, tomando parte en las deliberaciones con voz y voto;
 
@@ -1007,11 +1007,11 @@ Las Comisiones podrán realizar reuniones virtuales o a distancia en los términ
 
 Las comisiones transitorias serán designadas por el Ayuntamiento en cualquier tiempo de su ejercicio, para el estudio de determinado asunto o la realización de una labor o comisión oficial específica.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 46.
 
-Las Comisiones permanentes o transitorias serán colegiadas y plurales, por lo cual, no podrán estar integradas por regidores de un solo partido político y tendrán un máximo de cinco integrantes.
+Las comisiones permanentes o transitorias serán colegiadas y plurales, por lo cual no podrán estar integradas por regidores de un solo partido político y tendrán un máximo de cinco integrantes, en su integración se observará el principio de paridad de género, en el entendido de que si las y los servidores públicos correspondientes incumplen con lo estipulado en esta disposición incurrirán en la falta administrativa establecida en la fracción I Bis del artículo 49 de la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2015)</small>
 
@@ -2068,3 +2068,19 @@ P.O. 8 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 257 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE GOBIERNO MUNICIPAL, LEY ORGÁNICA DEL PODER JUDICIAL, LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA, LEY ORGÁNICA DE LA FISCALÍA GENERAL, LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LEY DEL SISTEMA ANTICORRUPCIÓN, LEY DE SEGURIDAD PÚBLICA, LEY ORGÁNICA DEL CONGRESO, LEY ORGÁNICA DE LA UNIVERSIDAD DE LA POLICÍA, LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL, LEY DE LA AUDITORÍA SUPERIOR, LEY DEL NOTARIADO, LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN Y LEY DE ENTIDADES PARAESTATALES, TODAS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado así como los Órganos Constitucionales Autónomos y demás entidades cuyos ordenamientos sufren modificaciones, contarán con un plazo de 60 días para realizar las adecuaciones pertinentes a su normatividad interna para establecer la observancia obligatoria del principio de paridad de género.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
