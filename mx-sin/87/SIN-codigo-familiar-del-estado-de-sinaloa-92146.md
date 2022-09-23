@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2022-03-16"
+last_updated: "2022-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -1666,6 +1666,10 @@ I. Violencia física, es todo acto intencional en que se utilice alguna parte de
 II. Violencia psicoemocional, es todo acto u omisión consistente en prohibiciones, coacciones, condicionamientos, insultos, amenazas, celotipia, indiferencia, descuido reiterado, chantaje, humillaciones, comparaciones destructivas, abandono o actividades devaluatorias, que provoquen en quien las recibe alteración autocognitiva y autovalorativa que integran su autoestima;
 
 III. Violencia económica, es toda acción u omisión que afecta la economía de la persona receptora, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas y puede consistir en la restricción o limitación de los recursos económicos;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+
+III Bis. Violencia Vicaria, Entiéndase por Violencia Vicaria, todo acto u omisión dolosa ejercida por parte de una persona que sea o haya sido cónyuge o concubino, mantenga o haya mantenido una relación de hecho, de afectividad o sentimental con la víctima directa, realizada por sí misma o a través de interpósita persona, y que se encuentra dirigida hacia una persona considerada víctima indirecta con quien la víctima directa tiene una relación de parentesco por consanguinidad en línea recta ascendente o descendente, sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante o adoptado, concubina o concubinario, cónyuge o excónyuge, o con quien tenga o haya tenido una relación de hecho, con el objeto de causarle algún tipo de daño o afectación a la víctima directa ya sea física, psicológica, emocional o patrimonial.
 
 IV. Violencia sexual, es toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de la persona; y
 
@@ -7367,7 +7371,7 @@ QUINTO. A falta de disposición específica de este Código y en tanto se expida
 
 SEXTO. Las controversias del orden familiar, que estén en trámite en el momento de la iniciación de la vigencia de este Código, se resolverán conforme a lo prescrito en los Códigos Civil y de Procedimientos Civiles para el Estado de Sinaloa, contenidos en el Decreto No. 814 de la XXXVI Legislatura del H. Congreso del Estado, de fecha dieciocho días del mes de junio de mil novecientos cuarenta y Decreto No. 872 de la XXXVI Legislatura del H. Congreso del Estado de fecha trece días del mes de septiembre de mil novecientos cuarenta, respectivamente.
 
-Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los diecisiete días del mes de enero del año dos mil trece.
+Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales Sinaloa, a los diecisiete días del mes de enero del año dos mil trece.
 
 C. CARLOS EDUARDO FELTON GONZÁLEZ
 
@@ -7554,3 +7558,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Las personas que hayan iniciado un juicio especial para cambiar su nombre mediante solicitud de reasignación de concordancia sexo-genérica, para efecto de que se reconozca su identidad de género, con anterioridad a la vigencia de las presentes reformas, podrán concluirlo o desistirse para iniciar el trámite administrativo.
 
 CUARTO. El Ejecutivo del Estado contará con sesenta días hábiles para realizar las adecuaciones al Reglamento y, en su caso, manuales del Registro Civil del Estado de Sinaloa, de conformidad con lo señalado en el presente Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 259 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, CÓDIGO FAMILIAR Y CÓDIGO PENAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
