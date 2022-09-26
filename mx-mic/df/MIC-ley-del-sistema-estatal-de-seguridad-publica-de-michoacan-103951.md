@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2022-07-12"
+last_updated: "2022-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -565,9 +565,13 @@ XXXIX. Las demás que le otorga esta Ley y demás disposiciones normativas aplic
 
 ### CAPÍTULO TERCERO. PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 29.
 
-El Secretario Ejecutivo, en conjunto con las instituciones de Seguridad Pública, elaborará el Programa, el que guardará congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y el Programa Nacional de Seguridad Pública.
+El Secretariado Ejecutivo, en conjunto con las instituciones de Seguridad Pública, elaborará el Programa, el que guardará congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y el Programa Nacional de Seguridad Pública.
+
+La elaboración del Programa se apegará en los Ejes Estratégicos, Programas y Subprogramas con Prioridad Nacional aprobados por el Consejo Nacional de Seguridad Pública.
 
 ###### Artículo 30.
 
@@ -584,6 +588,10 @@ IV. Las estrategias para el logro de los objetivos;
 V. Los subprogramas específicos, las acciones y metas operativas, los mecanismos previstos para la coordinación con entidades o dependencias federales, estatales y municipales, así como aquellos que requieran concertación con los ciudadanos en los términos previstos por esta Ley; y,
 
 VI. Los responsables administrativos de su ejecución y evaluación.
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+VII. El Modelo Nacional de Policía y Justicia Cívica.
 
 ## TÍTULO CUARTO. CENTROS ESTATALES DE SEGURIDAD PÚBLICA
 
@@ -2376,3 +2384,15 @@ SEGUNDO. La Secretaría de Seguridad Pública, el Secretariado Ejecutivo del Sis
 TERCERO. Todas aquellas autoridades estatales en materia de Seguridad Pública, dentro de su ámbito de competencia, deberán armonizar las disposiciones reglamentarias y administrativas que se opongan al presente Decreto, en un plazo de sesenta días hábiles.
 
 CUARTO. Notifíquese a la Fiscalía General del Estado de Michoacán de Ocampo para su conocimiento.
+
+P.O. 26 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 188 POR EL QUE “SE REFORMA EL ARTÍCULO 29 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 30 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Poder Ejecutivo del Estado de Michoacán, la Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Publica, y el Consejo Estatal de Seguridad Pública, deberán realizar los ajustes presupuestarios necesarios para lograr que en el ejercicio de sus atribuciones legales se destine un porcentaje no menor al 10% del presupuesto federal aprobado del FASP año con año, para el Impulso al Modelo Nacional de Policía y Justicia Cívica.
+
+TERCERO. La elaboración del Programa Estatal de Seguridad Pública se apegará en los Ejes Estratégicos, Programas y Subprogramas con Prioridad Nacional aprobados por el Consejo Nacional de Seguridad Pública, así como a dar impulso al Modelo Nacional de Policía y Justicia Cívica.
+
+CUARTO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva.
