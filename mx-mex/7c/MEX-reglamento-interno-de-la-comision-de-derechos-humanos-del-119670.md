@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2022-04-19"
+last_updated: "2022-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2022.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -113,7 +113,9 @@ VI. Órgano Interno de Control;
 
 VII. Instituto de Investigaciones y Formación en Derechos Humanos; y
 
-VIII. Centro de Mediación y Conciliación.
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Unidad de Servicios, Orientación y Recepción de Quejas.
 
 La Comisión contará con las demás unidades administrativas que sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización; así como con el personal profesional, técnico, administrativo y los servidores públicos necesarios para el cumplimiento de sus atribuciones, en términos de su estructura interna aprobada y de las disposiciones aplicables.
 
@@ -221,9 +223,9 @@ Unidades administrativas auxiliares de la Primera Visitaduría General
 
 Además de las Visitadurías Generales y Adjuntas, la Primera Visitaduría General, para el desempeño de sus funciones se auxiliará de las siguientes:
 
-I. La Unidad de Orientación y Recepción de Quejas;
+I. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2022)
 
-II. El Centro de Mediación y Conciliación; y
+II. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2022); y
 
 III. La Unidad de Seguimiento de Recomendaciones y Proyectos.
 
@@ -245,13 +247,11 @@ Secretaría General
 
 Para el despacho de los asuntos que le correspondan a la Secretaría General, cuenta con las unidades administrativas siguientes:
 
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-I. Dirección de Vinculación y Capacitación Institucional;
+I. Dirección de Capacitación, Promoción y Vinculación en Derechos Humanos;
 
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
-
-II. Dirección de Atención a Grupos en Situación de Vulnerabilidad;
+II. (DEROGADA, G.G. 26 DE SEPTIEMBRE DE 2022)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
 
@@ -387,27 +387,67 @@ Atribuciones de las Visitadurías Generales
 
 Las Visitadurías Generales, además de las facultades y obligaciones señaladas en la Ley, conocerán de los asuntos y procedimientos que establezcan otras regulaciones, relacionados con presuntas violaciones a derechos humanos competencia del Organismo.
 
-Atribuciones de la Unidad de Orientación y Recepción de Quejas
+> <small>(REFORMADO SU ACÁPITE, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+Atribuciones de la Unidad de Servicios, Orientación y Recepción de Quejas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 15.
 
-La Unidad de Orientación y Recepción de Quejas cuenta con las atribuciones siguientes:
+La Unidad de Servicios, Orientación y Recepción de Quejas cuenta con las atribuciones siguientes:
 
-I. Coordinar el servicio de atención al público a través del otorgamiento de asesorías de manera personal, telefónica o electrónica que se presenten ante el Organismo;
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+I. Coordinar el servicio de atención al público a través del otorgamiento de los servicios de orientación y asesoría que se proporcionarán de manera personal, telefónica o electrónica que se presenten ante el Organismo;
 
 II. Coordinar la recepción y registro de los escritos sobre presuntas violaciones a derechos humanos que se presenten ante la Comisión;
 
-III. Remitir a las Visitadurías Generales los escritos relacionados con presuntas violaciones a derechos humanos;
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-IV. Atender los escritos sobre presuntas violaciones a derechos humanos, formulando y remitiendo la respuesta al quejoso sobre asuntos que no sean competencia de la Comisión;
+III. Remitir a las Visitadurías Generales y Especializadas los escritos relacionados con presuntas violaciones a derechos humanos;
 
-V. Llevar registro de las orientaciones y canalizaciones que se atiendan;
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Atender los planteamientos sobre presuntas violaciones a derechos humanos, cuando sean de competencia de la Comisión y no afecten los derechos humanos previstos en el artículo 62 de la Ley de la materia, por lo que se realizarán las acciones que correspondan al servicio concreto; caso contrario se informará por los medios más idóneos lo que conforme a derecho proceda;
+
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+V. Llevar registro de los servicios que se atiendan;
 
 VI. Informar a su superior jerárquico sobre el funcionamiento y actividades realizadas en la unidad;
 
-VII. Recibir, analizar y registrar los documentos que ingresen a la Oficialía de Partes de la Comisión y remitir a las unidades administrativas correspondientes; y
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. Desarrollar las demás funciones inherentes al área de su responsabilidad, así como aquellas que le asigne la Primera Visitaduría General.
+VII. Recibir, analizar y registrar los documentos que ingresen a la Oficialía de Partes de la Comisión y remitir a las unidades administrativas correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Dirigir las acciones relacionadas con el procedimiento para proporcionar orientación y asesoría jurídica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Coordinar al Centro de Mediación y Conciliación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+X. Coadyuvar, en caso de ser necesario, con la Primera Visitaduría General, Segunda Visitaduría General y Unidad Interdisciplinaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Solicitar las medidas precautorias o cautelares a que se refiere el artículo 13, fracción IV de la Ley, en términos del presente Reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Operar el Programa de Visitaduría Itinerante del Organismo; y
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VIII], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+XIII. Desarrollar las demás funciones inherentes al área de su responsabilidad, así como aquellas que le asigne la Presidencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+Además de la persona titular de la Unidad, las personas servidoras públicas que la integren tendrán fe pública en sus actuaciones, de conformidad con el artículo 32, párrafo segundo, de la Ley.
 
 Atribuciones de la Unidad de Seguimiento de Recomendaciones y Proyectos
 
@@ -483,9 +523,9 @@ Atribuciones de la Secretaría General
 
 La Secretaría General, además de las facultades y obligaciones contenidas en la Ley, tiene las atribuciones siguientes:
 
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-I. Coordinar a la Dirección de Vinculación y Capacitación Institucional; a la Dirección de Atención a Grupos en Situación de Vulnerabilidad; a la Unidad de Igualdad de Género y Erradicación de la Violencia, y al Área Coordinadora de Archivos;
+I. Coordinar a la Dirección de Capacitación, Promoción y Vinculación en Derechos Humanos; a la Unidad de Igualdad de Género y Erradicación de la Violencia, y al Área Coordinadora de Archivos;
 
 > <small>(REFORMADA, G.G. 11 DE MARZO DE 2022)</small>
 
@@ -527,15 +567,15 @@ X. Publicar informes sobre grupos en situación de vulnerabilidad; y
 
 XI. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Presidencia.
 
-> <small>(REFORMADO SU ACÁPITE, G.G. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADO SU ACÁPITE, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-Atribuciones de la Dirección de Vinculación y Capacitación Institucional
+Atribuciones de la Dirección de Capacitación, Promoción y Vinculación en Derechos Humanos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 18.
 
-Corresponde a la Dirección de Vinculación y Capacitación Institucional:
+Corresponde a la Dirección de Capacitación, Promoción y Vinculación en Derechos Humanos:
 
 I. Elaborar el anteproyecto de programa de capacitación social e institucional en derechos humanos;
 
@@ -567,37 +607,45 @@ VII. Coadyuvar en la evaluación a las Defensorías Municipales de Derechos Huma
 
 VIII. Auxiliar a la Visitadurías en la orientación y canalización de las Defensorías Municipales de Derechos Humanos, para mejorar el desempeño de sus funciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Apoyar a la Secretaría Técnica del Consejo Consultivo, cuando así lo determine su titular; y
+IX. Apoyar a la Secretaría Técnica del Consejo Consultivo, cuando así lo determine su titular;
 
-> <small>(REFORMADA Y REUBICADA, G.G. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-X. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Secretaría General.
+X. Coordinar acciones de sensibilización con instancias de los tres ámbitos de gobierno, organismos autónomos y sociedad civil para promover y difundir el respeto de los derechos humanos de los grupos en situación de vulnerabilidad;
 
-> <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-Atribuciones de la Dirección de Atención a Grupos en Situación de Vulnerabilidad
+XI. Proponer y ejecutar los programas de promoción y difusión de los derechos humanos a grupos en situación de vulnerabilidad, igualdad y no discriminación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Coadyuvar con las áreas competentes en la realización de campañas de sensibilización en derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+XIII. Publicar informes específicos sobre grupos en situación de vulnerabilidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+XIV. Elaborar el proyecto del programa para la protección, observancia, promoción, estudio y divulgación de los derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+XV. Implementar y ejecutar actividades que permitan difundir y promover una cultura de los derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+XVI. Realizar acciones a favor del medio ambiente y de combate al cambio climático; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN X], G.G. 26 DE SEPTIEMBRE DE 2022)
+
+XVII. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Secretaría General.
 
 ###### Artículo 19.
 
-Corresponde a la Dirección de Atención a Grupos en Situación de Vulnerabilidad:
-
-I. Coordinar acciones de sensibilización con instancias de los tres ámbitos de gobierno, organismos autónomos y sociedad civil para promover y difundir el respeto de los derechos humanos de los grupos en situación de vulnerabilidad;
-
-II. Proponer y ejecutar los programas de promoción y difusión de los derechos humanos a grupos en situación de vulnerabilidad, igualdad y no discriminación;
-
-III. Coadyuvar con las áreas competentes en la realización de campañas de sensibilización en derechos humanos;
-
-IV. Publicar informes específicos sobre grupos en situación de vulnerabilidad;
-
-V. Elaborar el proyecto del programa para la protección, observancia, promoción, estudio y divulgación de los derechos humanos;
-
-VI. Implementar y ejecutar actividades que permitan difundir y promover una cultura de los derechos humanos;
-
-VII. Realizar acciones a favor del medio ambiente y de combate al cambio climático; y
-
-VIII. Las demás que le confieren otras regulaciones y aquellas que le encomiende la Secretaría General.
+(DEROGADO, G.G. 26 DE SEPTIEMBRE DE 2022)
 
 Atribuciones de (sic) Dirección General de Administración y Finanzas
 
@@ -1399,13 +1447,19 @@ Las reglas específicas de funcionamiento y organización del Consejo contra la 
 
 ## TÍTULO TERCERO. DE LOS PROCEDIMIENTOS
 
-### Capítulo I. Del objeto del procedimiento
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-Objeto del procedimiento
+### Capítulo I. Del objeto del servicio
+
+> <small>(REFORMADO SU ACÁPITE, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+Objeto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 38.
 
-Establecer los procedimientos que han de observarse en la investigación, el trámite y la resolución de las quejas y denuncias por violaciones a los derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales en la materia de los que el Estado mexicano sea parte, así como en la Constitución Política del Estado Libre y Soberano de México.
+Establecer los procedimientos que han de observarse en la protección de los derechos humanos que ampara el orden jurídico mexicano; al brindarse los servicios de orientación y asesoría jurídica; el procedimiento de queja y de investigaciones de oficio y los que deriven de otras leyes.
 
 El inicio del procedimiento será por queja o de oficio.
 
@@ -1413,25 +1467,109 @@ El inicio del procedimiento será por queja o de oficio.
 
 Las investigaciones que se inicien de oficio, se regirán por las disposiciones que son aplicables a la queja.
 
-### Capítulo II. De la presentación de la queja
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-Presentación de la Queja
+### Capítulo I Bis. De los servicios de orientación y asesoría jurídica
 
-### Capítulo III. De la calificación de la queja
+> <small>(ADICIONADO, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
 
-Calificación de la Queja
+Procedimiento
+
+###### Artículo 38 Bis.
+
+El procedimiento para proporcionar orientación y asesoría jurídica consistirá en las siguientes etapas:
+
+a) Solicitud inicial;
+
+b) Registro de la petición; y
+
+c) Resolución de petición.
+
+La etapa de solicitud inicial se refiere a la presentación ante la Comisión de los relatos que sean formulados por cualquier persona que solicite su intervención respecto de presuntas violaciones a derechos humanos.
+
+La solicitud inicial se podrá presentar por escrito, de manera oral, telefónica, lengua de señas mexicanas, página web institucional o correo electrónico.
+
+La Comisión pondrá a disposición de las personas peticionarias o presuntas víctimas formularios para facilitar el trámite por escrito y en todos los casos ejercerá la suplencia en la deficiencia de los planteamientos.
+
+La Comisión proporcionará orientación a las personas peticionarias o presuntas víctimas sobre la presentación y contenido de su solicitud inicial, sin importar si son o no competencia de la Comisión, a fin de hacer de su conocimiento los derechos que les asisten y la autoridad que puede atender sus requerimientos.
+
+En el paso de personas que no hablen o entiendan correctamente el idioma español, o de aquellas pertenecientes a los pueblos o comunidades indígenas que así lo requieran o personas con discapacidad auditiva, la Comisión pondrá a su disposición intérprete que tenga dominio de su lengua y cultura o, en su caso, intérprete de señas mexicanas. Para el otorgamiento de los servicios especializados, el Organismo podrá celebrar convenios con instituciones públicas o privadas.
+
+> <small>(ADICIONADO, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+Solicitudes iniciales anónimas
+
+###### Artículo 38 Ter.
+
+En el supuesto de recibir una solicitud inicial anónima en la que sí se cuente con algún dato de contacto de la persona peticionaria o posible víctima, se le informará sobre los requisitos que debe contener la solicitud en términos del artículo 39 de este Reglamento. Si se subsana el anonimato se procederá a valorar el registro de la solicitud como petición.
+
+En caso de persistir en qué no se dé a conocer el nombre de la persona usuaria, se registrará la solicitud bajo el rubro de solicitud anónima y procederá en términos de lo dispuesto por el presente artículo.
+
+Únicamente se dará tramite a solicitudes iniciales con carácter anónimo, en los casos en que exista temor de que haya represalias físicas o morales contra quien o quienes formulan la solicitud, o cuando se trate de violaciones graves a los derechos humanos en términos de lo que se establezca la Ley de la materia.
+
+En caso de recibir una solicitud inicial anónima en la que no se cuente con algún dato de contacto de la persona peticionaria o posible víctima, se registrará bajo el rubro de solicitud anónima; se analizará el contexto de los hechos presuntamente constitutivos de violaciones a derechos humanos; y si de este ejercicio, se desprende el supuesto previsto en el párrafo que antecede se procederá a realizar las acciones que se estime convenientes; caso contrario, sin mayor trámite se archivará.
+
+> <small>(ADICIONADO, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+Etapa de registro de la petición
+
+Articulo 38 Quárter.- La etapa de registro de la petición consiste en la revisión de las solicitudes iniciales a efecto de determinar si son registradas como peticiones y, en consecuencia, si son resueltas por conducto de los servicios que presta la Comisión o si se trata de una presunta vulneración a derechos humanos, en cuyo caso, se deberá remitir a las Visitadurías Generales para su trámite y determinación.
+
+> <small>(ADICIONADO, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+Valoración de los hechos de la petición
+
+###### Artículo 38. Quinquies.
+
+La Comisión, una vez valorados los hechos que constan en la petición, brindará orientación a la persona solicitante o presunta víctima y, previo consentimiento de ésta, realizará las gestiones necesarias para su atención, entre ellas, canalizaciones, solicitudes de colaboración y gestiones, para que sean atendidas por la autoridad o persona servidora pública competente y den solución rápida y efectiva a sus planteamientos.
+
+En caso de que resulte procedente la remisión a otro organismo de derechos humanos, éstas se realizarán en el más breve plazo y se le informará de ello a la persona solicitante o presunta víctima.
+
+> <small>(ADICIONADO, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+Resolución de las peticiones
+
+###### Articulo 38 Sexies.
+
+La resolución de las peticiones a través de los servicios que presta la Comisión se llevará a cabo conforme a lo siguiente:
+
+I. El Organismo valorará el contenido de la petición y si se desprende que no son de su competencia, realizará las gestiones, orientaciones, canalizaciones, solicitudes de colaboración y otras acciones necesarias para que las personas peticionarias o posibles víctimas sean atendidas por la autoridad o personas servidoras públicas competentes. De obtenerse una atención conforme a derecho por parte de la autoridad o persona servidora pública competente, se tendrá por atendida la solicitud y se archivará;
+
+II. Si del planteamiento de la persona peticionaria o presunta víctima se desprenden posibles violaciones a derechos humanos cometidos por autoridades o personas servidoras públicas estatales o municipales, que sean susceptibles de restitución inmediata en los derechos presuntamente vulnerados, la Comisión, previo consentimiento de la persona peticionaria o posible víctima, deberá realizar las acciones necesarias para la atención y solución del caso.
+
+En el supuesto de que se opte por este medio de intervención, se suspenderán los plazos para que la Comisión pueda conocer de los hechos a través de los procedimientos previstos en la Ley, en términos del Capítulo I, artículo 51. En ningún caso, la solución de la problemática por este medio podrá exceder de noventa días naturales. De obtenerse una atención adecuada de la posible violación, la Comisión tendrá por atendida la petición y la archivará;
+
+III. Previo consentimiento informado de la persona peticionaria o posible víctima se podrá someter la narración de los hechos motivo de inconformidad a la mediación o conciliación como un medio alternativo, auxiliar y complementario al procedimiento de queja, en términos de lo previsto por la Ley y este Reglamento Interno; y
+
+IV. En caso de que la petición se haya sometido al mecanismo de restitución inmediata; y no se haya logrado su solución satisfactoriamente, se procederá a remitirla a la Visitaduría correspondiente para la tramitación de la queja respectiva.
+
+Tratándose de violaciones a derechos humanos previstas en el artículo 62 de la Ley de la materia, sin mayor trámite se remitirá a la Visitaduría que corresponda.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+### Capítulo II. De la presentación
+
+> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2022)</small>
+
+Presentación
 
 ###### Artículo 39.
 
-Toda queja que se dirija a la Comisión, debe contener los datos siguientes:
+Para que la solicitud inicial pueda registrarse como una petición, la persona usuaria deberá proporcionar la siguiente información:
 
-I. Para la identificación: nombre completo, domicilio y de ser posible el número telefónico o correo electrónico de la persona presuntamente afectada en sus derechos humanos y, en su caso, de quien presente la queja;
+I. Nombre completo de la persona peticionaria o representante legal; y/o presuntamente afectada en sus derechos humanos;
 
-II. Descripción de los hechos presuntamente violatorios a derechos humanos;
+II. Domicilio para oír y recibir notificaciones y, de ser posible, correo electrónico y número telefónico propio o de una tercera persona o institución. Dicha información de contacto servirá al personal de la Comisión para mantenerse en comunicación con la persona peticionaria o presunta víctima;
 
-III. Autoridad o servidor público a quien se le atribuyan los actos u omisiones por presuntas violaciones a derechos humanos; o en su caso aquellas que presten u ofrezcan servicios al público en términos del artículo 13, fracción II de la Ley; y
+III. Narración de los actos u omisiones que se quieren hacer del conocimiento de la Comisión, donde se indique el lugar y fecha en que sucedieron;
 
-IV. Firma o dactilograma del interesado o de la persona que para tales efectos lo auxilie o represente.
+IV. Autoridad a la que se le imputan los actos u omisiones, de ser posible señalar datos de identificación de la persona o personas servidoras públicas a quienes se les atribuyen tales actos u omisiones. Este requisito podrá obviarse en el supuesto de que las personas peticionarias o presuntas víctimas no puedan señalar a las autoridades o personas servidoras públicas que consideren hayan afectado sus derechos, bajo la condición de que posteriormente se logre la identificación;
+
+V. Nombre de las posibles víctimas o datos que ayuden a identificarlas; y
+
+VI. Firma o dactilograma de la persona interesada o de quien para tales efectos la auxilie o represente.
+
+Las solicitudes iniciales que cumplan con los requisitos establecidos en este artículo serán registradas como peticiones y se les dará el trámite que se señala en los siguientes artículos.
 
 Suplencia de la Queja
 
@@ -1497,9 +1635,9 @@ Admisión de la Queja
 
 Para efectos del artículo 62 de la Ley, el Visitador debe emitir el acuerdo que funde y motive la procedencia de la admisión de la queja.
 
-### Capítulo IV. De los impedimentos
+### Capítulo III. De la calificación de la queja
 
-Impedimentos
+Calificación de la Queja
 
 ###### Artículo 47.
 
@@ -1565,9 +1703,9 @@ Remisión en casos de improcedencia
 
 Cuando la Comisión reciba una queja cuyo conocimiento sea competencia de la Comisión Nacional de los Derechos Humanos o de algún organismo público de derechos humanos de otra entidad federativa, la remitirá sin demora a la institución que corresponda, notificando al quejoso.
 
-### Capítulo V. De las medidas precautorias y cautelares
+### Capítulo IV. De los impedimentos
 
-Notificaciones de las medidas precautorias y cautelares
+Impedimentos
 
 ###### Artículo 55.
 
@@ -1595,9 +1733,9 @@ La Persona Visitadora que esté en alguno de los supuestos a que se refiere el a
 
 La inobservancia de los impedimentos, dará lugar a las responsabilidades que procedan.
 
-### Capítulo VI. De los informes de las autoridades o servidores públicos
+### Capítulo V. De las medidas precautorias y cautelares
 
-Informes de las autoridades o servidores públicos
+Notificaciones de las medidas precautorias y cautelares
 
 ###### Artículo 57.
 
@@ -1615,7 +1753,9 @@ Vigencia de las medidas precautorias o cautelares
 
 Las medidas precautorias o cautelares solicitadas, se mantendrán vigentes, en su caso, hasta la conclusión del expediente.
 
-### Capítulo VII. De la mediación y conciliación durante el procedimiento de queja
+### Capítulo VI. De los informes de las autoridades o servidores públicos
+
+Informes de las autoridades o servidores públicos
 
 ###### Artículo 60.
 
@@ -1641,9 +1781,7 @@ Cuando una autoridad o servidor público omita dar respuesta a los requerimiento
 
 El Visitador dará seguimiento a los procedimientos que, en su caso, inicien los órganos de control, respecto de los requerimientos del Organismo.
 
-### Capítulo VIII. De las actuaciones
-
-Actuaciones
+### Capítulo VII. De la mediación y conciliación durante el procedimiento de queja
 
 #### Sección Primera. De la mediación
 
@@ -1867,9 +2005,9 @@ Incumplimiento del acuerdo de conciliación
 
 En el supuesto de que la autoridad no hubiese cumplido la propuesta de conciliación, el expediente de queja será reabierto mediante acuerdo del Visitador General, quien resolverá lo que conforme a derecho corresponda.
 
-### Capítulo IX. De las causas de conclusión de los expedientes
+### Capítulo VIII. De las actuaciones
 
-Causas de conclusión de los expedientes
+Actuaciones
 
 ###### Artículo 87.
 
@@ -1887,9 +2025,9 @@ Medios de convicción
 
 Para los fines referidos en los artículos 92 y 93 de la Ley, el Visitador hará constar en acta circunstanciada la información contenida en los medios científicos o tecnológicos, que obren en los expedientes de queja e investigaciones de oficio, a efecto de que sirvan como medio de convicción que pudieran acreditar violaciones a derechos humanos.
 
-### Capítulo X. De las pruebas
+### Capítulo IX. De las causas de conclusión de los expedientes
 
-Pruebas
+Causas de conclusión de los expedientes
 
 ###### Artículo 90.
 
@@ -1951,7 +2089,9 @@ Reapertura de los expedientes
 
 Un expediente podrá ser reabierto a solicitud del quejoso o agraviado, siempre y cuando las violaciones a derechos humanos que motivaron la queja subsistan, previo acuerdo del Visitador General.
 
-### Capítulo XI. De las recomendaciones y resoluciones de no responsabilidad
+### Capítulo X. De las pruebas
+
+Pruebas
 
 ###### Artículo 94.
 
@@ -1965,9 +2105,7 @@ Durante el desahogo de las pruebas, el Visitador deberá salvaguardar la integri
 
 Cuando se trate de niñas, niños o adolescentes, no estarán obligados a confrontarse con el servidor público o la autoridad, en contra de quien se interpuso la queja.
 
-### Capítulo XII. De las Recomendaciones Generales
-
-Recomendación General
+### Capítulo XI. De las recomendaciones y resoluciones de no responsabilidad
 
 #### Sección Primera. De las Recomendaciones
 
@@ -2057,9 +2195,9 @@ Notificación de la Resolución de no Responsabilidad
 
 Una vez emitida la Resolución de no Responsabilidad, ésta se notificará al quejoso y al superior jerárquico de las autoridades o servidores públicos relacionados con las violaciones a derechos humanos, dentro de los tres días hábiles siguientes.
 
-### Capítulo XIII. De las notificaciones
+### Capítulo XII. De las Recomendaciones Generales
 
-Notificaciones
+Recomendación General
 
 ###### Artículo 106.
 
@@ -2067,9 +2205,9 @@ La Comisión podrá emitir Recomendaciones Generales a las diversas autoridades,
 
 Dichas Recomendaciones serán elaboradas de manera similar a las particulares y se fundamentarán en los estudios realizados por la propia Comisión o con el apoyo de informes o estudios de instancias oficiales o privadas, que se estime pertinente.
 
-### Capítulo Único. Atribuciones, organización y funcionamiento del Centro de Mediación y Conciliación
+### Capítulo XIII. De las notificaciones
 
-Atribuciones del Centro de Mediación y Mediación
+Notificaciones
 
 ###### Artículo 107.
 
@@ -2145,13 +2283,9 @@ La Comisión podrá solicitar la colaboración de los organismos públicos prote
 
 ## TÍTULO CUARTO. DEL CENTRO DE MEDIACIÓN Y CONCILIACIÓN
 
-### Capítulo Único. De las Atribuciones del Instituto de Investigaciones y Formación en Derechos Humanos
+### Capítulo Único. Atribuciones, organización y funcionamiento del Centro de Mediación y Conciliación
 
-> <small>(REFORMADO SU ACÁPITE, G.G. 11 DE MARZO DE 2022)</small>
-
-Atribuciones del Instituto de Investigaciones y Formación en Derechos Humanos
-
-> <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
+Atribuciones del Centro de Mediación y Mediación
 
 ###### Artículo 115.
 
@@ -2169,7 +2303,13 @@ La organización y los procedimientos de mediación y los de conciliación que s
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 11 DE MARZO DE 2022)</small>
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De las Atribuciones del Instituto de Investigaciones y Formación en Derechos Humanos
+
+> <small>(REFORMADO SU ACÁPITE, G.G. 11 DE MARZO DE 2022)</small>
+
+Atribuciones del Instituto de Investigaciones y Formación en Derechos Humanos
+
+> <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
 
 ###### Artículo 117.
 
@@ -2377,13 +2517,15 @@ TERCERO. Las acciones a que se refiere el punto CUARTO del presente Acuerdo, se 
 
 CUARTO. La persona que sea designada como titular de la Coordinación de Asesores que, por este Acuerdo se crea, deberá contar con el nombramiento oficial correspondiente para que pueda ostentarse en el encargo.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XIII BIS Y XIII TER AL ARTÍCULO 4; ASÍ COMO UN TERCER PÁRRAFO AL ARTÍCULO 43; SE MODIFICA LA FRACCIÓN X Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 44; SE MODIFICA LA FRACCIÓN VIII Y SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 102 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+G.G. 26 DE SEPTIEMBRE DE 2022.
 
-PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CODHEM/CC/09/2022/32.- POR EL QUE SE REFORMA EL REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO, DE CONFORMIDAD CON LA ESTRUCTURA ORGÁNICA APROBADA POR EL CONSEJO CONSULTIVO”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
 
-G.O. 27 DE MAYO DE 2022.
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO. Las acciones a que se refieren los puntos SEGUNDO, CUARTO, QUINTO y SEXTO del presente Acuerdo, se podrán realizar en un plazo que no excederá de 60 días hábiles, contados a partir de la entrada en vigor de este documento, atendiendo a la naturaleza de cada una de ellas y conforme a la suficiencia presupuestal con la que cuente el Organismo.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 2; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 6; Y SE MODIFICA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 12 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
 
