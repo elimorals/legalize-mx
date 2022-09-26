@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2021-06-08"
+last_updated: "2022-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -5079,9 +5079,69 @@ Cuando absolutamente fuere imposible resolver las dudas por las reglas estableci
 
 Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cuál fue la intención o la voluntad de los contratantes, el contrato será nulo.
 
-#### SECCIÓN DÉCIMA. DISPOSICIONES FINALES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN PRIMERA. DE LAS ASOCIACIONES
+#### SECCIÓN NOVENA BIS. DE LA IMPREVISIÓN EN LOS CONTRATOS
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 1024 Bis.
+
+En los contratos de ejecución continuada, periódica o diferida, si la prestación de alguna de las partes hubiera llegado a ser excesivamente onerosa por causa de acontecimientos extraordinarios, ajenos a su voluntad y que no sean consecuencia de la ejecución normal del contrato, imprevisibles por la generalidad y por las partes al momento del perfeccionamiento del acto jurídico, de surgimiento y consecución posteriores a la celebración del contrato, la parte afectada podrá demandar la modificación del contrato, y en su caso la reducción equitativa de las prestaciones.
+
+La petición de parte se tramitará por la vía del juicio sumario; como requisito previo deberá agotarse la mediación y conciliación de las partes.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 1024 Ter.
+
+Las eventualidades personales de una de las partes, en ningún caso serán causa de revisión y reducción de las prestaciones. Sólo serán causa de revisión y reducción los acontecimientos generales e imprevisibles que, conforme al artículo anterior, provoquen además de una excesiva onerosidad, una exagerada y notoria desproporción en las prestaciones de una de las partes de tal manera que de dichas prestaciones hagan imposible su cumplimiento para la parte obligada, con el transcurso del tiempo de ejecución del contrato.
+
+Para que sea procedente la reducción deberán presentarse la onerosidad, la desproporción de las prestaciones y la imposibilidad de su cumplimiento, de acuerdo con lo dispuesto en el párrafo anterior, razonablemente, en la mayoría de las relaciones jurídicas derivadas de contratos de la misma naturaleza.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 1024 Quáter.
+
+En caso de resultar procedente, el juez deberá reducir las prestaciones de la parte afectada de tal manera que, bajo las nuevas circunstancias, la onerosidad de dichas prestaciones sea proporcional en el patrimonio de la referida parte a la onerosidad que le impondrían las circunstancias bajo las cuales se obligó, si éstas no se hubieran modificado por los acontecimientos que se señalan en el artículo 1024 Bis.
+
+Será la misma autoridad juzgadora quien determine la temporalidad a las (sic) que se someterán las condiciones aplicables derivadas de la resolución que se dicte.
+
+Las resoluciones judiciales que en este caso se dicten admitirán el recurso de apelación en ambos efectos.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 1024 Quinquies.
+
+El juez podrá allegarse los medios de conocimiento necesarios, tales como el dictamen de peritos o cualesquiera otros elementos, que le permitan cumplir con lo dispuesto en el artículo anterior, tomando en cuenta los principios generales del derecho, la buena fe, la justicia, la mayor reciprocidad y la equidad de intereses.
+
+Además, por medio de auto judicialmente acreditado, el juez determinará la admisión de las pruebas que una o ambas partes ofrezcan. La parte que presente los medios de prueba deberá proveer de los elementos que sean necesarios para que el juzgador pueda determinar plenamente probados los hechos y se aprecie el valor de los registros y la información.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 1024 Sexies.
+
+Para la modificación del contrato serán admisibles todos los medios de prueba establecidos en el Código de Procedimientos Civiles para el Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 1024 Septies.
+
+La parte lesionada no gozará de los derechos de revisión y reducción de las prestaciones si en algún momento, anterior a la presentación de la demanda, se constituyó en mora, aunque al tiempo de ejercitar la acción se encuentre regularizada en el cumplimiento. Tampoco gozará de tales derechos si actuó con mala fe o dolo al momento del nacimiento de la obligación, o de que ésta se hizo exigible.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 1024 Octies.
+
+La acción contenida en la presente sección se hará durante la vigencia del contrato (sic) que se trate. En caso de que la autoridad judicial se encuentre impedida por acontecimiento extraordinario para recibir la demanda durante dicho plazo, se podrá presentar durante el mes inmediato siguiente al día en que se reinicien las actividades institucionales correspondientes.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 1024 Nonies.
+
+Para que tengan aplicación los artículos de esta sección, el cumplimiento parcial o total del contrato, deberá estar pendiente por la causa o acontecimiento extraordinario señalado, y no por la culpa o mora del obligado.
+
+#### SECCIÓN DÉCIMA. DISPOSICIONES FINALES
 
 ###### Artículo 1025.
 
@@ -9005,7 +9065,7 @@ TÍTULO DÉCIMOPRIMERO
 
 DE LAS ASOCIACIONES Y DE LAS SOCIEDADES
 
-#### SECCIÓN SEGUNDA. DE LAS SOCIEDADES
+#### SECCIÓN PRIMERA. DE LAS ASOCIACIONES
 
 ###### Artículo 1831.
 
@@ -9098,6 +9158,8 @@ En caso de disolución, los bienes de la asociación se aplicarán conforme a lo
 ###### Artículo 1848.
 
 Las asociaciones de beneficencia se regirán por las leyes especiales correspondientes.
+
+#### SECCIÓN SEGUNDA. DE LAS SOCIEDADES
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -10930,3 +10992,9 @@ Artículo Tercero. El Registro Estatal regulado en la Ley de Trasplantes y Donac
 Artículo Cuarto. El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Trasplantes y Donación de Órganos, Tejidos y Células en el Estado de Michoacán de Ocampo y contenido en el artículo primer o (sic) del presente Decreto, a los 120 días siguientes de su aprobación.
 
 Artículo Quinto. El Reglamento Interno del Consejo de Trasplantes del Estado de Michoacán, regulado en la Ley de Trasplantes y Donación de Órganos, Tejidos y Células en el Estado de Michoacán de Ocampo, deberá ser reformado y adecuado, a lo establecido en el artículo primero del presente Decreto, a los 120 días de su aprobación.
+
+P.O. 26 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 177 POR EL QUE "SE ADICIONA LA SECCIÓN NOVENA BIS DEL CAPÍTULO I, LIBRO QUINTO, QUE COMPRENDE LOS ARTÍCULOS 1024 BIS, 1024 TER, 1024 QUÁTER, 1024 QUINQUIES, 1024 SEXIES, 1024 SEPTIES, 1024 OCTIES Y 1024 NONIES DEL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
