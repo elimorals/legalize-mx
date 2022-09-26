@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2022-06-13"
+last_updated: "2022-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -725,9 +725,9 @@ c) Aprobar, en su caso, las minutas de reforma o adición a la Constitución Pol
 
 d) Formular y remitir al Congreso del Estado para su aprobación, a más tardar el quince de noviembre de cada año, su proyecto de Ley de Ingresos para el ejercicio fiscal siguiente, proponiendo las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo así, se tomarán como iniciativas las leyes que hubieren regido durante el año fiscal inmediato anterior.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
 
-Los ayuntamientos deberán presentar su iniciativa de ley de ingresos al Congreso del Estado a más tardar el 15 de diciembre, en los años en que el titular del Ejecutivo estatal o el federal inicien su encargo en los términos del artículo 63 de la Constitución Política del Estado de Nayarit y del artículo 83 de la Constitución Política de los Estados Unidos Mexicanos respectivamente;
+Los ayuntamientos deberán presentar su iniciativa de ley de ingresos al Congreso del Estado a más tardar el treinta de noviembre, en los años en que el titular del Ejecutivo Estatal o el Federal inicien su encargo en los términos del artículo 63 de la Constitución Política del Estado de Nayarit y del artículo 83 de la Constitución Política de los Estados Unidos Mexicanos respectivamente;
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
@@ -4548,3 +4548,9 @@ P.O. 13 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL PÁRRAFO SEGUNDO DEL INCISO D), FRACCIÓN I DEL ARTÍCULO 61 DE LA LEY MUNICIPAL, EN MATERIA PRESUPUESTAL".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
