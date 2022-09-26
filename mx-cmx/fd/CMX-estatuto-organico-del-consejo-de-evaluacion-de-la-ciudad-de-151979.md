@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-consejo-de-evaluacion-de-la-ciudad-de-151
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-10-20"
-last_updated: "2021-12-15"
+last_updated: "2022-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151979&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-10-15"
 
 ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE SEPTIEMBRE DE 2022.
 
 Estatuto publicado en el Número 708 de la Gaceta Oficial de la Ciudad de México, el miércoles 20 de octubre de 2021.
 
@@ -526,7 +526,9 @@ VI. Determinar, junto con la Presidencia y la Secretaría Ejecutiva, los instrum
 
 VII. Administrar, dirigir y controlar la contabilidad, registro y control de los recursos financieros del Consejo de Evaluación de forma mensual, trimestral y anual;
 
-VIII. Coordinar las funciones de tesorería, así como la guarda y custodia de valores;
+> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Llevar a cabo las funciones de tesorería, que incluyen el resguardo y la custodia de los valores, la ministración de recursos, la dispersión de la nómina del personal y el pago a proveedores. Con base en el artículo siete, párrafo segundo, de la Ley de Austeridad, Transparencias en Remuneraciones, Prestaciones y Ejercicio de los Recursos de la Ciudad de México, invertir los recursos disponibles en las cuentas bancarias y manejar el fondo revolvente del Consejo.
 
 IX. Integrar la Cuenta Pública, así como presentar los estados financieros contables y presupuestales ante las instancias correspondientes, mismos que deben estar autorizados por el Consejo;
 
@@ -698,9 +700,13 @@ Para la realización de las evaluaciones por cuenta propia, la persona titular d
 
 Para llevar a cabo las evaluaciones externas, se informará al ente de la Administración Pública de la Ciudad o a la Alcaldía del inicio de la misma y la Secretaría Ejecutiva realizará las gestiones necesarias para solicitar y dar acceso a la información requerida y para facilitar la aplicación de instrumentos metodológicos para la evaluación, todo ello con la finalidad de favorecer la comunicación entre el evaluador designado y el ente.
 
+> <small>(REFORMADO, G.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 42.
 
-Los informes de evaluación parciales o finales serán presentados por la Secretaría Ejecutiva al Consejo. Las personas consejeras a cargo de las evaluaciones externas propondrán al Consejo la aprobación o, en su caso, el rechazo de los trabajos correspondientes.
+Los informes de evaluación parciales o finales serán presentados por la Secretaría Ejecutiva al Consejo. Las personas consejeras a cargo de las evaluaciones externas propondrán al Consejo la aprobación, la aprobación con observaciones y cambios o, en su caso, el rechazo de los trabajos correspondientes.
+
+> <small>(REFORMADO, G.O. 26 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 43.
 
@@ -712,7 +718,7 @@ b. Aprobación con observaciones y cambios;
 
 c. No aprobación.
 
-En caso del último inciso, se podrán formular solicitudes para que la persona evaluadora mejore o amplíe el informe respectivo y los plazos para hacerlo.
+En los casos de los dos últimos incisos, se podrán formular solicitudes para que la persona evaluadora mejore o amplíe el informe respectivo. Recibidos los informes finales de las evaluaciones o estudios, el Consejo y la Secretaría Ejecutiva contarán con noventa días naturales para solicitar adecuaciones o mejoras a los trabajos correspondientes. A partir de las observaciones y cambios solicitados, el Consejo establecerá un nuevo plazo para atender los requerimientos.
 
 ###### Artículo 44.
 
@@ -1047,3 +1053,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debid
 SEGUNDO.- El presente Acuerdo surtirá efectos desde el momento de la aprobación del Consejo de Evaluación de la Ciudad de México según consta en la IV Sesión Ordinaria, celebrada el 08 de diciembre de 2021.
 
 TERCERO.- Se deja sin efecto el acuerdo por el que se modifican diversas disposiciones del estatuto orgánico del Consejo de Evaluación de la Ciudad de México, publicadas en la Gaceta Oficial de la Ciudad de México, número 734, de fecha 26 de noviembre de 2021.
+
+G.O. 26 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Acuerdo surtirá efectos desde el momento de su aprobación por (sic) Consejo de Evaluación de la Ciudad de México en la VI Sesión Extraordinaria 2022.
