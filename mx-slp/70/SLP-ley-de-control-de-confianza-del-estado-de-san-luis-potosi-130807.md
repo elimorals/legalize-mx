@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-control-de-confianza-del-estado-de-san-luis-potosi-13080
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-01"
-last_updated: "2018-10-01"
+last_updated: "2022-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CONTROL DE CONFIANZA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 1 de octubre de 2018.
 
@@ -109,6 +109,10 @@ III. Médico-toxicológico: Que tiene por objeto conocer el estado de salud de l
 
 IV. Entorno social y económico: Cuyo fin es cerciorarse de las condiciones sociales y económicas en las que vive la persona evaluada y que las mismas sean acordes a sus percepciones salariales con motivo del cargo.
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+En cada uno de los resultados de las pruebas practicadas deberá asentarse los datos de identificación del personal que las aplique, siendo los resultados de los procesos de evaluación confidenciales y reservados para efectos de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, excepto aquellos casos en que deban presentarse en procedimientos administrativos o judiciales, esto sin perjuicio de hacer mención de los datos que el sujeto obligado calificare de confidenciales o reservados.
+
 ###### ARTÍCULO 7°.
 
 Los procesos de evaluación serán permanentes, obligatorios, objetivos y transparentes.
@@ -185,9 +189,11 @@ Los servidores públicos e integrantes de las instituciones de seguridad privada
 
 Si de los procesos de evaluación se advierte la existencia de conductas que pudieran ser constitutivas de responsabilidad administrativa o de algún delito, las autoridades competentes de las instituciones a las que esté adscrito el sujeto evaluado deberán presentar las denuncias que correspondan ante las autoridades competentes. El incumplimiento de lo anterior será sancionado con remoción o destitución del cargo, independientemente de otras responsabilidades.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 20.
 
-Una vez que las instituciones de seguridad pública y empresas de seguridad privadas, reciban los resultados de las evaluaciones practicadas a su personal, y cuando en el caso resulte procedente aplicar alguna sanción derivada del resultado de las mismas, atenderán a lo dispuesto en el numeral 11 de la presente Ley, e iniciarán los procedimientos administrativos correspondientes dentro de los términos establecidos en la legislación aplicables.
+Una vez que las instituciones de seguridad pública y empresas de seguridad privadas, reciban los resultados de las evaluaciones practicadas a su personal, y cuando en el caso resulte procedente aplicar alguna sanción derivada del resultado de las mismas, atenderán a lo dispuesto en el numeral 11 de la presente Ley, e iniciarán bajo su más estricta responsabilidad los procedimientos administrativos correspondientes, dentro de los siguientes tres meses contados a partir de la recepción de los resultados.
 
 ###### ARTÍCULO 21.
 
@@ -222,3 +228,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0391.- SE REFORMA EL ARTÍCULO 20 Y ADICIONA AL ARTÍCULO 6°, EL PÁRRAFO SÉPTIMO, DE LA LEY DE CONTROL DE CONFIANZA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
