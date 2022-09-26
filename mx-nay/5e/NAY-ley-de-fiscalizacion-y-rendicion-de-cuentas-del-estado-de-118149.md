@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11814
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2022-04-04"
+last_updated: "2022-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Quinta al Número 126 del Periódico Oficial del Estado de Nayarit, el martes 27 de diciembre de 2016.
 
@@ -725,7 +725,9 @@ V. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública y del
 
 Las solicitudes se presentarán con al menos diez días naturales de anticipación al vencimiento del plazo, y se desahogarán ante la Comisión debiendo emitir el dictamen sobre su procedencia para su resolución al Pleno o a la Diputación Permanente, según sea el caso. La concesión de prórrogas se otorgará de manera excepcional debiéndose considerar la autorización de las solicitudes sólo por causas debidamente justificadas.
 
-La resolución a la petición de prórrogas deberá ser notificada a los solicitantes y a la Auditoría Superior del Estado, con al menos cinco días de anticipación al vencimiento del plazo para la presentación de las cuentas públicas y de los informes de avance de gestión financiera, y
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+La resolución a la petición de prórrogas deberá ser notificada a los solicitantes y a la Auditoría Superior del Estado, con la debida oportunidad antes del vencimiento del plazo para la presentación de las cuentas públicas y de los informes de avance de gestión financiera, y
 
 VI. La falta de la presentación injustificada de la Cuenta Pública y de los Informes de Avance de Gestión Financiera en los plazos establecidos en este artículo, será sancionable en los términos de la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit.
 
@@ -1213,15 +1215,11 @@ P.O. 4 DE ABRIL DE 2022.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2049.- MEDIANTE EL CUAL SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA”.]
+P.O. 26 DE SEPTIEMBRE DE 2022.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN V DEL ARTÍCULO 36 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT, EN MATERIA PRESUPUESTAL”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
-
-TERCERO.- Se deroga toda disposición que se oponga a la presente reforma.
-
-P.O. 17 DE OCTUBRE DE 2016.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2054.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
 
