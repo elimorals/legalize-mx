@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-para-el-estado-de-63083"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-06"
-last_updated: "2020-06-30"
+last_updated: "2022-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Sección Extraordinaria del Periódico Oficial del Estado de Michoacán, el sábado 6 de septiembre de 2008.
 
@@ -3397,7 +3397,13 @@ IX. Las acciones relativas a servidumbres legales o que consten en instrumentos 
 
 X. Las acciones que se basen en un título hipotecario; y,
 
-XI. Las demás cuestiones que determine la ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+XI. La acción de modificación por la imprevisión, prevista en la Sección Novena Bis del Capítulo I, Libro Quinto, en los artículos 1024 Bis a 1024 Nonies del Código Civil para el Estado de Michoacán de Ocampo; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Las demás cuestiones que determine la Ley.
 
 ###### Artículo 596.
 
@@ -6902,3 +6908,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Los trámites y actos relativos a divorcios celebrados ante notario público antes de la entrada en vigor del presente Decreto, se ajustarán al mismo para efectos de su registro.
 
 Tercero. El Titular del Poder Ejecutivo emitirá la normatividad reglamentaria que corresponda al presente Decreto en un plazo máximo de sesenta días naturales contados a partir del día de su entrada en vigor.
+
+P.O. 26 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 177 POR EL QUE "SE REFORMA EL ARTÍCULO 595, FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
