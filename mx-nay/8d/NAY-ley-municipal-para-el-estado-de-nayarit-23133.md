@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2022-09-26"
+last_updated: "2022-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -139,9 +139,11 @@ XXVI.- Techo de financiamiento neto: el límite de financiamiento neto anual que
 
 XXVII.- Transferencias federales etiquetadas: los recursos que reciben de la Federación los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 4o.
 
-El objeto y fines de los Ayuntamientos de los municipios del estado serán, entre otros:
+El objeto y fines de los Ayuntamientos de los municipios del Estado serán, entre otros:
 
 I.- Promover el desarrollo económico, garantizar el bienestar y la seguridad de sus habitantes en el marco de una convivencia armónica y respeto a la ley;
 
@@ -181,7 +183,9 @@ d) Reglamentar el ejercicio de las funciones relativas a la capacidad plena del 
 
 e) Vigilar que los habitantes y vecinos, en el ejercicio de sus derechos, respeten el interés público y el bienestar general de la población, cuidando de aplicar las sanciones por infracciones o faltas a los reglamentos, en estricta sujeción a las garantías de audiencia y defensa constitucionales;
 
-f) Que las controversias entre la administración y los particulares, se diriman con sujeción a los principios de igualdad, publicidad, audiencia y legalidad, de conformidad con las bases del procedimiento administrativo y los medios de impugnación previstos en la Ley de Justicia y Procedimientos Administrativos para el Estado; y
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
+
+f) Que las controversias entre la administración y los particulares, se diriman con sujeción a los principios de igualdad, máxima publicidad, audiencia, proporcionalidad y legalidad, de conformidad con las bases del procedimiento administrativo y los medios de impugnación previstos en la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit, y
 
 g) Coadyuvar con las autoridades y organismos competentes en materia de defensa y respeto a los derechos humanos y sujetarse a las disposiciones que sobre esa materia señale esta ley.
 
@@ -567,7 +571,9 @@ El dictamen se someterá dentro de los quince días hábiles siguientes, al cono
 
 Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
 
-El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega-recepción al Congreso del Estado, para efecto de revisión de las cuentas públicas municipales.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
+
+El Ayuntamiento, dentro de los quince días hábiles siguientes, entregará copia del dictamen y del acuerdo referidos en el párrafo anterior, así como del expediente de entrega-recepción al Congreso del Estado, para su posterior remisión a la Auditoría Superior del Estado.
 
 ### CAPÍTULO IV. Del funcionamiento de los Ayuntamientos
 
@@ -699,11 +705,17 @@ Además, para su registro oficial y preservación en los archivos históricos, l
 
 Las actas deberán ser firmadas por los integrantes del Ayuntamiento que participaron en la sesión para su validez plena.
 
-El contenido del orden del día y de los acuerdos del Ayuntamiento deberán difundirse por lo menos de manera bimestral en la Gaceta Municipal y en los estrados de las oficinas de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
+
+El contenido del orden del día y de los acuerdos del Ayuntamiento en las sesiones de Cabildo, deberán publicarse en la Plataforma Nacional de Transparencia y en su página electrónica, de conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, y por lo menos de manera bimestral en la Gaceta Municipal.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 60.
 
-El libro de actas de las sesiones del Ayuntamiento se llevará por duplicado; el original lo conservará el propio Ayuntamiento y el otro tanto se enviará anualmente, en el mes de septiembre, al Congreso del Estado, para efectos de su registro e inclusión al acervo histórico y documental de la entidad.
+Los libros de actas de las sesiones de Cabildo se llevarán por duplicado; el original lo conservará el propio Ayuntamiento y el otro tanto se enviará anualmente, en el mes de septiembre al Congreso del Estado, para su conservación en su Archivo Histórico.
+
+Aquellos Ayuntamientos que no cuenten con Archivo Histórico, deberán transferir sus Actas de Cabildo al Archivo General del Estado, de conformidad con su ciclo vital, en términos de lo establecido en la Ley de Archivos del Estado de Nayarit.
 
 ## TÍTULO QUINTO
 
@@ -2075,9 +2087,9 @@ XIX.- Realizar, junto con el Síndico, las gestiones oportunas de los asuntos qu
 
 XX.- Vigilar y controlar las oficinas recaudadoras, estableciendo un sistema público de información y orientación fiscal del municipio;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
 
-XXI.- Formular y presentar los estados financieros y complementarios y sus respetivos auxiliares, al término del periodo de gobierno municipal, para ser entregados al Presidente y Síndico, acompañando al inventario el archivo, libros y relación de pasivos y deudores, formándose para tal efecto cuatro tantos, mismos que serán entregados al Ayuntamiento, al Congreso del Estado, al archivo de la Tesorería y al Tesorero saliente, de manera respectiva;
+XXI.- Formular y presentar los estados financieros y complementarios y sus respetivos auxiliares, al término del periodo de gobierno municipal, para ser entregados a las personas que ocupen la Presidencia y la Sindicatura, acompañando al inventario el archivo, libros y relación de pasivos y deudores, formándose para tal efecto cuatro tantos, mismos que serán entregados al Ayuntamiento, al Congreso del Estado, por conducto de la Auditoría Superior del Estado, al archivo de la Tesorería y a la o el Tesorero saliente, de manera respectiva;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2020)</small>
 
@@ -3267,9 +3279,9 @@ b) Los elementos, que comprenderán la misión, los objetivos, las metas con bas
 
 El presupuesto de egresos deberá ser aprobado por la mayoría absoluta del Ayuntamiento. En el acta que se levante se asentarán las cifras que por cada programa y ramo se hayan autorizado, y deberá publicarse en la Gaceta Municipal, en el Periódico Oficial y en la página internet del Ayuntamiento a más tardar el 31 de diciembre del año previo al ejercicio fiscal correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
 
-El Ayuntamiento remitirá una copia autorizada del presupuesto con todos sus anexos al Congreso del Estado, por conducto de la Auditoría Superior del Estado para su registro, en los primeros quince días del mes de enero del año de su vigencia.
+El Ayuntamiento remitirá una copia en físico o digitalizada del presupuesto con todos sus anexos al Congreso del Estado, por conducto de la Auditoria Superior del Estado para su registro, en los primeros quince días del mes de enero del año de su vigencia. La Auditoría Superior del Estado, deberá remitir al Congreso un informe del cumplimiento de dicha obligación.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -3667,7 +3679,9 @@ Disposiciones normativas para el ejercicio de las facultades reglamentarias de l
 
 Para la aprobación y expedición de los reglamentos municipales, los Ayuntamientos deberán observar las disposiciones del presente título y las siguientes bases normativas:
 
-I.- Que los ordenamientos respeten las garantías individuales consagradas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
+
+I.- Que los ordenamientos respeten los derechos humanos y sus garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado Libre y Soberano de Nayarit;
 
 II.- Que los ordenamientos sean congruentes y no contravengan o invadan disposiciones o competencias de orden federal o estatal;
 
@@ -3689,7 +3703,17 @@ g) Facultades, atribuciones y deberes de las autoridades;
 
 h) Los mecanismos para administrar y organizar sus ramos respectivos;
 
-i) Sanciones;
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
+
+i) Sanciones, las cuales deberán contemplar los montos mínimos y máximos en Unidad de Medida y Actualización, quedando prohibidas las multas fijas.
+
+En la aplicación de las sanciones y reglamentos municipales, se deberán considerar los principios de legalidad, proporcionalidad y responsabilidad, la gravedad de la infracción, la capacidad económica del infractor y si existe reincidencia.
+
+En cuanto a la capacidad económica de la persona infractora del marco normativo municipal, deberán atenderse criterios de individualización, tales como si es una persona jornalera, obrera o trabajadora, trabajadora no asalariada, en tal caso, no podrá ser sancionado con multa mayor al importe de un jornal, salario de un día o en su equivalente a un día de ingreso respectivamente, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las sanciones por infracciones al reglamento municipal correspondiente deberán ser calificadas por el servidor público competente, previa audiencia con la persona infractora.
+
+Las multas en términos de la fracción X del artículo 117 de la presente Ley, deberán ser pagadas preferentemente por medio de sistema bancario o ante la Tesorería Municipal, la cual expedirá el recibo oficial del pago que se efectué.
 
 j) Medios de impugnación;
 
@@ -3731,9 +3755,11 @@ VIII.- Garantizar la seguridad, tranquilidad, disfrute de propiedades particular
 
 IX.- Todos aquellos aspectos que contribuyan al desarrollo y bienestar de la población del municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 221.
 
-Los reglamentos municipales son los diversos cuerpos jurídicos de observancia obligatoria y general, tendientes a ordenar armónicamente la convivencia social en el territorio municipal y buscar el bienestar de su comunidad, así como regular, ejecutar y hacer cumplir el ejercicio de las facultades y obligaciones que esta ley confiere a los Ayuntamientos.
+Los reglamentos municipales son los diversos cuerpos jurídicos de observancia obligatoria y general, apegados a la lógica del reconocimiento de los derechos humanos y sus garantías, tendientes a ordenar armónicamente la convivencia social en el territorio municipal y buscar el bienestar de su comunidad, así como regular, ejecutar y hacer cumplir el ejercicio de las facultades y obligaciones que esta ley confiere a los Ayuntamientos.
 
 Los municipios deberán contar, por lo menos, además del Bando de Policía y Buen Gobierno, con los siguientes reglamentos:
 
@@ -4554,3 +4580,23 @@ P.O. 26 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL PÁRRAFO SEGUNDO DEL INCISO D), FRACCIÓN I DEL ARTÍCULO 61 DE LA LEY MUNICIPAL, EN MATERIA PRESUPUESTAL".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE TRANSPARENCIA, RENDICIÓN DE CUENTAS Y ARCHIVOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Los Ayuntamientos del Estado de Nayarit, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizar las reformas y adecuaciones a los reglamentos correspondientes, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+TERCERO. Comuníquese el presente Decreto, a los veinte Ayuntamientos del Estado de Nayarit, y a la Auditoría Superior del Estado, para los efectos conducentes.
+
+P.O. 27 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE MULTAS JUSTAS EMITIDAS POR AUTORIDADES MUNICIPALES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los veinte Ayuntamientos del Estado de Nayarit, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de noventa días naturales, deberán realizar las reformas y adecuaciones a los reglamentos, a fin de armonizarlos con lo dispuesto en el presente Decreto, así como tomar las medidas pertinentes en la elaboración de los Proyectos de las Leyes de Ingresos respectivos.
+
+TERCERO.- Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos legales conducentes.
