@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-obras-publicas-y-servicios-75699"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2022-06-02"
+last_updated: "2022-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75699&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-07-13"
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE SEPTIEMBRE DE 2022.
 
 Reglamento publicado en la Octava Sección del Diario Oficial de la Federación, el miércoles 28 de julio de 2010.
 
@@ -59,7 +59,9 @@ VII. Avance físico: el porcentaje de los trabajos ejecutados y verificados por 
 
 VIII. Bitácora: el instrumento técnico que constituye el medio de comunicación entre las partes que formalizan los contratos, en el cual se registran los asuntos y eventos importantes que se presenten durante la ejecución de los trabajos, ya sea a través de medios remotos de comunicación electrónica, caso en el cual se denominará Bitácora electrónica, u otros medios autorizados en los términos de este Reglamento, en cuyo caso se denominará Bitácora convencional;
 
-IX. Caso fortuito o fuerza mayor: el acontecimiento proveniente de la naturaleza o del hombre caracterizado por ser imprevisible, inevitable, irresistible, insuperable, ajeno a la voluntad de las partes y que imposibilita el cumplimiento de todas o alguna de las obligaciones previstas en el contrato de obras públicas o servicios relacionados con las mismas;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Caso fortuito o fuerza mayor: el acontecimiento proveniente de la naturaleza o del hombre caracterizado por ser imprevisible, inevitable, irresistible, insuperable y ajeno a la voluntad de las partes;
 
 X. Comité: el comité de obras públicas a que se refiere el artículo 25 de la Ley;
 
@@ -73,7 +75,9 @@ XIV. Estimación: la valuación de los trabajos ejecutados en un periodo determi
 
 XV. Inversionista contratista: la persona que celebra contratos de obras públicas asociadas a proyectos de infraestructura en los términos del Capítulo Noveno del Título Segundo de este Reglamento;
 
-XVI. Investigación de mercado: la verificación de la existencia y costo de materiales, mano de obra, maquinaria y equipo, así como de contratistas, a nivel nacional o internacional, y del precio total estimado de los trabajos, basado en la información que se obtenga en términos del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+XVI. Investigación de mercado: la verificación de la existencia y costo de materiales, mano de obra, maquinaria y equipo que permita determinar el precio total estimado de los trabajos, así como la existencia de contratistas a nivel nacional o internacional, con base en la información que se obtenga en términos del presente Reglamento;
 
 XVII. Ley: la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
 
@@ -97,9 +101,17 @@ XXVI. Proyecto de convocatoria: el documento que contiene la versión preliminar
 
 XXVII. Servicios: los mencionados en el artículo 4 de la Ley;
 
-XXVIII. Sobre cerrado: cualquier medio que contenga la proposición del licitante, cuyo contenido sólo puede ser conocido en el acto de presentación y apertura de proposiciones en términos de la Ley, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
-XXIX. Superintendente: el representante del contratista ante la dependencia o la entidad para cumplir con los términos y condiciones pactados en el contrato, en lo relacionado con la ejecución de los trabajos.
+XXVIII. Sobre cerrado: cualquier medio que contenga la proposición del licitante, cuyo contenido sólo puede ser conocido en el acto de presentación y apertura de proposiciones en términos de la Ley;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+XXIX. Superintendente: el representante del contratista ante la dependencia o la entidad para cumplir con los términos y condiciones pactados en el contrato, en lo relacionado con la ejecución de los trabajos, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+XXX. UMA: Unidad de Medida y Actualización.
 
 ###### Artículo 3.
 
@@ -209,21 +221,63 @@ VII. Las obras que deban realizarse por requerimiento o afectación de otras dep
 
 VIII. Además de lo previsto en las fracciones anteriores, en las obras por administración directa, la disponibilidad del personal adscrito a las áreas de proyectos y construcción, así como los recursos, maquinaria y equipo de su propiedad, conforme a los términos señalados en el artículo 70 de la Ley.
 
-La investigación de mercado que deban realizar las dependencias y entidades en los casos que establezca este Reglamento, deberá integrarse, de acuerdo con los trabajos a contratar, con información obtenida de cuando menos dos de las fuentes siguientes:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
-a) La que se encuentre disponible en CompraNet;
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
-b) La obtenida de organismos especializados; de cámaras, colegios de profesionales, asociaciones o agrupaciones industriales, comerciales o de servicios, o bien de fabricantes o proveedores de bienes o prestadores de servicio, y
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
-c) La obtenida a través de páginas de Internet, por vía telefónica o por algún otro medio, siempre y cuando se lleve registro de los medios y de la información que permita su verificación.
+###### Artículo 15 Bis.
 
-Para la debida integración de la investigación de mercado, en todos los casos deberá consultarse la información a que hace referencia la fracción I de este artículo. En el supuesto de que la información no se encuentre disponible en CompraNet, se deberá consultar la información histórica con la que cuente el Área responsable de la contratación u otras áreas responsables de la contratación de la dependencia o entidad de que se trate.
+La investigación de mercado que realicen las dependencias y entidades deberá integrarse, de conformidad con los trabajos a contratar, con información obtenida de cuando menos dos de las fuentes siguientes y de acuerdo con el orden de prelación que se indica:
+
+I. La que se encuentre disponible en CompraNet sobre las contrataciones realizadas, y a falta de ésta la información histórica con la que cuente el Área responsable de la contratación u otras Áreas responsables de las contrataciones de la misma u otra dependencia o entidad;
+
+II. La obtenida de organismos especializados; de cámaras; colegios de profesionales; asociaciones o agrupaciones industriales, comerciales o de servicios, o bien de fabricantes, contratistas o proveedores de bienes o prestadores de servicio, y
+
+III. La obtenida a través de páginas de Internet, por vía telefónica o por algún otro medio, siempre y cuando se lleve registro de los medios y de la información que permita su verificación, tales como un registro con los datos mínimos de la fuente de consulta, fecha, capturas de pantalla, página web, teléfono, ubicación, entre otros.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 15 Ter.
+
+La investigación de mercado tiene como propósito que las dependencias y entidades determinen:
+
+I. La existencia y costo de materiales, mano de obra, maquinaria y equipo;
+
+II. La existencia de contratistas a nivel nacional e internacional;
+
+III. El precio de los conceptos de trabajo o actividades a ejecutar, y
+
+IV. El precio total estimado de los trabajos.
+
+> <small>(ADICIONADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 15 Quater.
+
+La investigación de mercado puede ser utilizada por la dependencia o entidad para lo siguiente:
+
+I. Acreditar que el precio total estimado de los trabajos a contratar sea aceptable;
+
+II. Elegir el procedimiento de contratación que podrá llevarse a cabo;
+
+III. Determinar la conveniencia de aplicar alguna de las reservas contenidas en los capítulos de contrataciones del sector público de los Tratados en relación con el precio, cantidad, calidad y oportunidad de los contratistas a nivel nacional;
+
+IV. Determinar la conveniencia de efectuar un procedimiento de contratación internacional abierta cuando la dependencia o entidad no esté obligada a llevarla a cabo bajo la cobertura de Tratados y se acredite fehacientemente que no existe en el país un contratista nacional o que el o los existentes no cuentan con la capacidad para la ejecución de los trabajos, o cuando sea conveniente en términos de precio.
+
+No se cuenta con la capacidad para la ejecución de los trabajos cuando el o los contratistas no pueden atender el requerimiento de la dependencia o entidad en lo que respecto de la cantidad, calidad y oportunidad, o cuando el precio no es aceptable, y
+
+V. Determinar la conveniencia de efectuar un procedimiento de contratación internacional abierta si se acredita fehacientemente que en el territorio nacional o en los países con los cuales el Estado mexicano tiene celebrado un tratado de libre comercio con capítulo de contrataciones públicas, no existe contratista o que el o los existentes no cuentan con la capacidad para la ejecución de los trabajos, o si es conveniente en términos de precio, conforme al segundo párrafo de la fracción anterior.
+
+La investigación de mercado y su resultado deben documentarse e integrarse al expediente de contratación correspondiente.
 
 ###### Artículo 16.
 
 Para efectos de lo dispuesto en el artículo 21 de la Ley, los titulares de las dependencias y entidades, o bien, los oficiales mayores o equivalentes, aprobarán el programa anual de obras y servicios. La planeación e integración de dicho programa y, en su caso, su presentación ante los titulares de las dependencias y entidades para su aprobación, será responsabilidad de los oficiales mayores o equivalentes, a partir de la información que les proporcionen las Áreas requirentes y deberá contener como mínimo la descripción y periodo estimado de ejecución de las obras y servicios.
 
-En el programa anual de obras y servicios, las dependencias y entidades deberán integrar un rubro que incluya los proyectos de las obras que se tenga programado ejecutar en el ejercicio fiscal correspondiente y otro rubro para las obras que, en su caso, se tenga considerado ejecutar en ejercicios subsecuentes.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+Las dependencias y entidades deben integrar en el programa anual de obras y servicios un rubro con los proyectos de las obras que tengan programados para ejecutar en el ejercicio fiscal correspondiente, y otro con las obras que, en su caso, se tengan que ejecutar en dos o más ejercicios fiscales.
 
 ###### Artículo 17.
 
@@ -289,17 +343,23 @@ Tratándose de estudios, planes y programas para la realización de obras asocia
 
 Las dependencias y entidades que, por las características, complejidad y magnitud de las obras que realicen, cuenten o requieran de normas técnicas para que se apliquen en sus especificaciones generales de construcción, deberán exigir su cumplimiento.
 
-En los procedimientos de contratación que realicen las dependencias y entidades, se deberá exigir el cumplimiento de las normas oficiales mexicanas y de las normas mexicanas, según proceda, y a falta de éstas, de las normas internacionales, de conformidad con lo dispuesto por los artículos 53 y 55 de la Ley Federal sobre Metrología y Normalización.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
-Si las normas a que se refiere el párrafo anterior no cubren los requerimientos técnicos, o bien, si sus especificaciones resultan inaplicables u obsoletas, la convocante podrá solicitar el cumplimiento de las normas de referencia o especificaciones a que se refiere el artículo 67 de la Ley Federal sobre Metrología y Normalización, siempre que se acredite que no se limita la libre participación de los licitantes.
+En los procedimientos de contratación que realicen las dependencias y entidades, se deberá exigir el cumplimiento de las normas oficiales mexicanas o estándares, según proceda y, en su caso, las normas internacionales, de conformidad con la Ley de Infraestructura de la Calidad.
+
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
 El titular del Área responsable de la contratación, con base en lo que determine el Área técnica, deberá indicar en la convocatoria a la licitación pública, invitación a cuando menos tres personas o solicitud de cotización, según corresponda, el nombre y los datos de identificación de la o las normas que deben cumplirse en el procedimiento de contratación respectivo, así como verificar que la inclusión de las normas o especificaciones señaladas en el párrafo anterior no limita la libre participación y concurrencia de los interesados.
 
-Tratándose de obras en las cuales se incluyan bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, en la convocatoria a la licitación pública podrá requerirse que el licitante a quien se adjudique el contrato entregue copia simple del certificado expedido por las personas acreditadas, conforme a la Ley Federal sobre Metrología y Normalización.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+En el caso de obras que incluyan bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, en la convocatoria a la licitación pública podrá requerirse que el licitante a quien se adjudique el contrato entregue copia simple del certificado expedido por las personas acreditadas, conforme a la Ley de Infraestructura de la Calidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 23.
 
-Los servidores públicos que aprueben los proyectos para la realización de obras o servicios serán responsables de vigilar que las acciones, planes y programas se lleven a cabo conforme a lo autorizado, incluso de todas las modificaciones que se realicen a dichos proyectos, así como de que los proyectos autorizados se terminen en su totalidad.
+Las unidades administrativas de las dependencias y entidades que tengan a su cargo la aprobación de los proyectos para la realización de obras o servicios deberán aprobar las modificaciones que se realicen a dichos proyectos.
 
 Tratándose de proyectos de las obras de gran complejidad a que se refiere el cuarto párrafo del artículo 24 de la Ley, el servidor público facultado para autorizar el proyecto ejecutivo emitirá el dictamen técnico que justifique el carácter de dichas obras y verificará los avances de los proyectos respectivos.
 
@@ -501,7 +561,9 @@ En los casos a que se refiere el párrafo anterior, las dependencias y entidades
 
 Las dependencias y entidades, al elaborar su convocatoria a la licitación pública, deberán considerar además de los requisitos previstos en el artículo 31 de la Ley, lo siguiente:
 
-I. La presentación de proposiciones por parte de los licitantes debe ser completa, uniforme y ordenada, en atención a las características, complejidad y magnitud de los trabajos a realizar, debiendo utilizar los formatos e instructivos elaborados y proporcionados por las dependencias o entidades. En caso de que el licitante presente otros formatos, éstos deberán cumplir con cada uno de los elementos requeridos por las convocantes;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+I. La presentación de proposiciones por parte de los licitantes debe ser completa, uniforme y ordenada, en atención a las características, complejidad y magnitud de los trabajos a realizar, y hacerse preferentemente en formato basado en los instructivos expedidos por las dependencias o entidades. En caso de que el licitante presente otro formato, éste debe cumplir con cada uno de los requisitos exigidos por las convocantes;
 
 II. Cuando la ejecución de los trabajos comprenda más de un ejercicio fiscal, se deberá indicar el importe asignado, en su caso, para ejercer en el primer ejercicio, así como el origen del mismo;
 
@@ -517,9 +579,17 @@ VII. En el caso de que la convocante determine recibir propuestas enviadas a tra
 
 VIII. Los escritos o manifestaciones bajo protesta de decir verdad, que se soliciten como requisito de participación en los procedimientos de contratación, sólo resultarán procedentes si éstos se encuentran previstos en la Ley, en este Reglamento o en los ordenamientos de carácter general aplicables a la Administración Pública Federal. La falta de presentación de dichos documentos en la proposición, será motivo para desecharla, por incumplir las disposiciones jurídicas que los establecen.
 
-Las convocantes verificarán que los documentos a que se refiere el párrafo anterior cumplan con los requisitos solicitados, sin que resulte necesario verificar la veracidad o autenticidad de lo indicado en ellos, para continuar con el procedimiento, sin perjuicio del derecho de las convocantes para realizar dicha verificación en cualquier momento o cuando se prevea en la Ley o en el presente Reglamento, y
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
-IX. Incluir un formato para la verificación de la recepción de los documentos que el licitante entregue en dicho acto, en relación con los documentos requeridos en la convocatoria a la licitación pública, a efecto de facilitar y agilizar la presentación de las proposiciones.
+Las convocantes verificarán que los documentos a que se refiere el párrafo anterior cumplan con los requisitos solicitados, sin que resulte necesario verificar la veracidad o autenticidad de lo indicado en ellos, para continuar con el procedimiento, sin perjuicio del derecho de las convocantes para realizar dicha verificación en cualquier momento o cuando se prevea en la Ley o el presente Reglamento;
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Incluir un formato para la verificación de la recepción de los documentos que el licitante entregue en dicho acto, en relación con los documentos requeridos en la convocatoria a la licitación pública, a efecto de facilitar y agilizar la presentación de las proposiciones, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+X. La presentación de las opiniones de cumplimiento de obligaciones fiscales por parte del licitante, de conformidad con las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2022)</small>
 
@@ -565,7 +635,9 @@ I. Haber celebrado contratos anteriores con la convocante o con alguna dependenc
 
 II. Capitales contables;
 
-III. Contar previamente a la adjudicación del contrato con oficinas o representantes regionales o estatales;
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+III. Contar previamente a la adjudicación del contrato con oficinas, bodegas o almacenes o representantes regionales o estatales;
 
 IV. Estar inscrito en el registro único de contratistas, o
 
@@ -575,9 +647,11 @@ Las dependencias y entidades podrán establecer en la convocatoria a la licitaci
 
 Será causa de responsabilidad administrativa, el establecimiento en la convocatoria a la licitación pública de requisitos que estén dirigidos a favorecer a determinado licitante o licitantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 38.
 
-La visita al sitio donde se realizarán los trabajos será optativa para los interesados y tendrá como objeto que los licitantes conozcan las condiciones ambientales, así como las características referentes al grado de dificultad de los trabajos a desarrollar y sus implicaciones de carácter técnico. Los licitantes deberán incluir en sus proposiciones un escrito en el que manifiesten que conocen las condiciones y características antes citadas, por lo que no podrán invocar su desconocimiento o solicitar modificaciones al contrato por este motivo.
+La visita al sitio donde se realizarán los trabajos será optativa para los interesados y tendrá como objeto que los licitantes conozcan las condiciones ambientales, así como las características referentes al grado de dificultad de los trabajos a desarrollar y sus implicaciones de carácter técnico. Con independencia de lo anterior, los licitantes deben incluir en sus proposiciones un escrito en el que manifiesten que conocen las condiciones y características antes citadas, por lo que no podrán invocar su desconocimiento o solicitar modificaciones al contrato por este motivo.
 
 Al sitio de realización de los trabajos podrán asistir los interesados y sus auxiliares, así como aquéllos que autorice la convocante. Con posterioridad a la realización de la visita podrá permitírseles el acceso al lugar en que se llevarán a cabo los trabajos a quienes lo soliciten con anticipación de por lo menos veinticuatro horas a la recepción y apertura de proposiciones, aunque no será obligatorio para la dependencia o entidad designar a un técnico que guíe la visita. Dicho plazo podrá ser hasta de setenta y dos horas, cuando por razones de seguridad o acceso al sitio de los trabajos resulte necesario, debiéndose en este caso establecer dicho término en la convocatoria a la licitación pública.
 
@@ -615,7 +689,9 @@ La convocante estará obligada a dar contestación, en forma clara y precisa, ta
 
 Será responsabilidad del titular del Área requirente y del titular del Área técnica, o bien sólo el de esta última cuando también tenga el carácter de Área requirente, que asista un representante de las mismas, con los conocimientos técnicos suficientes que permitan dar respuesta clara y precisa a los planteamientos de los licitantes, a las juntas de aclaraciones a los que fueron convocados. En caso de inasistencia del representante del Área técnica o del Área requirente, el servidor público que presida la junta de aclaraciones lo hará del conocimiento del titular del área de responsabilidades del órgano interno de control en la dependencia o entidad de que se trate.
 
-El servidor público que presida la junta de aclaraciones en ningún caso permitirá que como respuesta a las solicitudes de aclaración se remita al licitante de manera general a lo previsto en la convocatoria a la licitación pública. En caso de que la respuesta a la solicitud de aclaración remita a la convocatoria a la licitación pública, deberá señalar el apartado específico de la misma en que se encuentre la respuesta al planteamiento.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+La persona servidora pública que presida la junta de aclaraciones en ningún caso permitirá que como respuesta a las solicitudes de aclaración se remita al licitante de manera general a lo previsto en la convocatoria a la licitación pública. En caso de que la respuesta a la solicitud de aclaración remita a la convocatoria a la licitación pública, deberá señalar el apartado específico de la misma en que se encuentre la respuesta al planteamiento, y formular además las aclaraciones que procedan.
 
 Las solicitudes de aclaración que sean recibidas con posterioridad a la primera junta de aclaraciones, o bien, después del plazo previsto para su envío a través de CompraNet, no serán contestadas por la convocante por resultar extemporáneas, debiéndose integrar al expediente respectivo. En dicho supuesto, si el servidor público que presida la junta de aclaraciones considera necesario citar a una ulterior junta, la convocante deberá tomar en cuenta dichas solicitudes para responderlas.
 
@@ -1127,7 +1203,9 @@ Este mecanismo podrá aplicarse en los siguientes supuestos:
 
 a) Cuando las dependencias y entidades que contraten de manera ocasional obras y servicios no cuenten con áreas o estructuras especializadas para tal fin;
 
-b) Tratándose de obras y servicios cuyo monto máximo presupuestado no exceda los diez mil días de salario mínimo general vigente en el Distrito Federal elevado al mes, y
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+b) En caso de obras y servicios cuyo monto máximo presupuestado no exceda del valor de diez mil veces la UMA vigente elevado al mes, y
 
 c) En los casos en que atendiendo a las características, complejidad y magnitud de los trabajos, el Área responsable de la contratación justifique la conveniencia de aplicar este mecanismo, dejando constancia en el expediente del procedimiento de contratación, y
 
@@ -1321,7 +1399,9 @@ En ningún caso y bajo ninguna circunstancia, la convocante aplicará lo dispues
 
 Las dependencias y entidades realizarán la adjudicación de los contratos a los licitantes cuya proposición cumpla lo dispuesto en el quinto párrafo del artículo 38 de la Ley y, según corresponda, conforme a lo siguiente:
 
-I. La proposición que hubiera ofertado el precio más bajo, en el supuesto de que la evaluación se haya realizado utilizando el mecanismo de evaluación binario, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+I. La proposición solvente que hubiera hecho una oferta con el precio más bajo, en el supuesto de que la evaluación se haya realizado utilizando el mecanismo de evaluación binario, y
 
 II. La proposición que haya obtenido el mayor puntaje o ponderación, cuando se aplique el mecanismo de puntos o porcentajes.
 
@@ -1341,7 +1421,9 @@ Los fallos de las licitaciones internacionales bajo la cobertura de los tratados
 
 En el caso de que los licitantes no proporcionen la dirección de correo electrónico a que se refiere la fracción XIII del artículo 31 de la Ley, la convocante quedará eximida de la obligación de realizar el aviso a que hacen referencia los párrafos cuarto y octavo del artículo 39 de la Ley.
 
-Cuando sea notificado el fallo, el licitante ganador podrá, bajo su responsabilidad y riesgo y con la autorización de la dependencia o entidad, iniciar los actos previos al inicio de los trabajos, tales como el movimiento de maquinaria, personal y demás insumos que considere pertinentes a efecto de agilizar el inicio de los trabajos, siempre y cuando existan las condiciones para tales efectos. Lo anterior independientemente de la fecha de firma del contrato.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+Cuando sea notificado el fallo, el licitante ganador podrá, bajo su responsabilidad y riesgo y con la autorización por escrito de la dependencia o entidad, comenzar los actos previos al inicio de los trabajos, tales como el movimiento de maquinaria, personal y demás insumos que considere pertinentes para agilizar el inicio de los trabajos, siempre y cuando existan las condiciones para ello. Lo anterior independientemente de la fecha de firma del contrato.
 
 #### SECCIÓN VI. DEL DESECHAMIENTO DE PROPOSICIONES, CANCELACIÓN, NULIDAD TOTAL Y LICITACIONES PÚBLICAS DESIERTAS
 
@@ -1423,7 +1505,7 @@ Para los efectos de lo establecido en el artículo 42 de la Ley, deberá conside
 
 I. Para acreditar que se trata de una persona que posee la titularidad o el licenciamiento exclusivo de patentes, derechos de autor u otros derechos exclusivos, a que se refiere la fracción I, se deberán acompañar los documentos con los que se acredite tal situación, como son los registros, títulos, certificaciones, acuerdos comerciales, autorizaciones, designaciones, contratos de licenciamiento o cesión emitidos por o registrados ante las autoridades nacionales competentes en su caso, o conforme a las disposiciones o prácticas del país de origen, así como con los que se determine el alcance o implicaciones jurídicas de los derechos mencionados;
 
-II. Será procedente contratar mediante adjudicación directa fundada en la fracción III, cuando, entre otros supuestos, la dependencia o entidad acredite con la investigación de mercado correspondiente, que se obtienen las mejores condiciones para el Estado y, por tanto, se evitan pérdidas o costos adicionales importantes, al contratar con algún contratista que tenga contrato vigente previamente adjudicado mediante licitación pública y éste acepte ejecutar los mismos trabajos en iguales condiciones en cuanto a precio, características y calidad de los trabajos materia del contrato celebrado con la misma o con otra dependencia o entidad;
+II. (DEROGADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)
 
 III. Para la aplicación de la fracción IV, se consideran fines militares o para la armada aquéllos que por su naturaleza estén destinados a realizar actividades que tengan relación directa con las misiones generales del Ejército, Fuerza Aérea y Armada Nacionales, de conformidad con lo dispuesto en sus respectivas leyes orgánicas;
 
@@ -1487,7 +1569,9 @@ III. El Área responsable de la contratación o el Área requirente pudieron pre
 
 IV. Las operaciones se realicen en un solo ejercicio fiscal, y
 
-V. Las solicitudes de contratación se hayan hecho por la misma Área requirente y el Área responsable de la contratación sea la misma, o bien, el Área requirente sea la misma y el Área responsable de la contratación sea diferente.
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+V. Las solicitudes de contratación se hayan hecho por la misma unidad administrativa que tiene el carácter de Área requirente y de Área responsable de la contratación, o bien, el Área requirente es diferente al Área responsable de la contratación.
 
 ###### Artículo 76.
 
@@ -1503,21 +1587,27 @@ La inasistencia del representante invitado del órgano interno de control al act
 
 La difusión en CompraNet y en la página de Internet de la dependencia o entidad de las invitaciones a cuando menos tres personas a que hace referencia la fracción I del artículo 44 de la Ley, deberá realizarse el mismo día en que se entregue la última invitación y estará disponible hasta el día en que se emita el fallo correspondiente. La referida difusión es de carácter informativo, por lo que solamente podrán participar en el procedimiento de contratación aquéllas personas que hayan sido invitadas por la dependencia o entidad.
 
-Las proposiciones a que se refiere la fracción III del artículo 44 de la Ley serán aquéllas que reciba la convocante en el acto de presentación y apertura de proposiciones, debiendo ser como mínimo tres, independientemente de que al efectuar la evaluación de las mismas sólo una o dos de ellas cumplan con lo requerido en la invitación a cuando menos tres personas. Asimismo, se emitirá el fallo conforme a lo dispuesto en el artículo 39 de la Ley.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+Las proposiciones a que se refiere el párrafo primero de la fracción III del artículo 44 de la Ley serán aquéllas que reciba la convocante en el acto de presentación y apertura de proposiciones, para lo cual deberán ser como mínimo tres, independientemente de que al efectuar la evaluación de las mismas sólo una o dos de ellas cumplan con lo requerido en la invitación a cuando menos tres personas. Asimismo, se emitirá el fallo conforme a lo dispuesto en el artículo 39 de la Ley.
 
 Cuando la convocante opte por no realizar junta de aclaraciones, en la invitación a cuando menos tres personas deberá indicarse la forma y términos en que podrán solicitarse las aclaraciones respectivas, de cuyas respuestas deberá informarse tanto al solicitante como al resto de los invitados.
 
 No resulta aplicable a los procedimientos previstos en este artículo la presentación de propuestas conjuntas, salvo que la convocante lo estime conveniente para fomentar la participación de las MIPYMES, o bien, por necesidades técnicas para obtener proposiciones en forma integral, en cuyo caso se deberá considerar, en lo aplicable, lo dispuesto por el segundo párrafo del artículo 36 de la Ley y por el artículo 47 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 78.
 
-En caso de que en el procedimiento de invitación a cuando menos tres personas no se presenten tres proposiciones en términos de lo dispuesto en el quinto párrafo del artículo anterior, o las presentadas sean desechadas en el fallo, la dependencia o entidad procederá a declararlo desierto y deberá realizar una segunda invitación, excepto cuando dicho procedimiento derive de una licitación pública declarada desierta, caso en el cual procederá a una adjudicación directa.
+En caso de que en el procedimiento de invitación a cuando menos tres personas no se presenten tres proposiciones se podrá optar por declarar desierta la invitación, o bien, continuar con el procedimiento y evaluar las proposiciones presentadas. En caso de que sólo se haya presentado una propuesta, la convocante podrá adjudicarle el contrato si considera que reúne las condiciones requeridas.
 
-Tratándose de procedimientos de invitación a cuando menos tres personas realizados al amparo del artículo 42 de la Ley, no será necesario someter la procedencia del segundo procedimiento de invitación al dictamen del Comité.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
-En caso de declararse desierto el segundo procedimiento de invitación a cuando menos tres personas, el titular del Área responsable de la contratación podrá adjudicar directamente el contrato, en los términos del último párrafo del artículo 44 de la Ley, sin necesidad de obtener el dictamen de procedencia del Comité, debiendo informar a este último de dicha adjudicación directa durante el mes siguiente de la formalización del contrato.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
-Lo señalado en el párrafo anterior será aplicable cuando se haya declarado desierto un procedimiento de invitación a cuando menos tres personas que se hubiere realizado en virtud de que una licitación pública fue declarada desierta.
+En el supuesto de que un procedimiento de invitación a cuando menos tres personas haya sido declarado desierto, la persona titular del área responsable de la contratación en la dependencia o entidad podrá adjudicar directamente el contrato, siempre que no se modifiquen los requisitos establecidos en dichas invitaciones, sin necesidad de obtener el dictamen de procedencia del Comité, en cuyo caso, debe informar a este último dicha adjudicación directa durante el mes siguiente a la formalización del contrato.
+
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
 ### CAPÍTULO TERCERO. DE LA CONTRATACIÓN
 
@@ -1593,7 +1683,9 @@ Sin perjuicio de lo dispuesto en el primer párrafo del artículo 55 de la Ley, 
 
 Las penas convencionales procederán únicamente cuando ocurran causas imputables al contratista. La determinación del atraso se realizará con base en las fechas críticas a que se refiere el artículo 134 de este Reglamento, si así se estableció en la convocatoria a la licitación pública, y en la fecha de terminación; las fechas citadas deberán estar fijadas en el programa de ejecución convenido.
 
-El periodo en el cual se presente un caso fortuito o fuerza mayor durante la ejecución de trabajos no dará lugar a la aplicación de penas convencionales.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+El periodo en el cual se presente un caso fortuito o fuerza mayor durante la ejecución de trabajos no dará lugar a la aplicación de penas convencionales, siempre que se acredite la imposibilidad del cumplimiento de todas o alguna de las obligaciones previstas en el contrato de obras y servicios.
 
 Las penas convencionales deberán establecerse atendiendo a las características, complejidad y magnitud de los trabajos a contratar, al tipo de contrato, a los grados de avance y a la posibilidad de establecer fechas críticas para el cumplimiento de los trabajos.
 
@@ -1611,9 +1703,11 @@ Cuando se celebren convenios que modifiquen el programa de ejecución convenido,
 
 #### SECCIÓN II. DE LAS GARANTÍAS
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 89.
 
-Para los efectos del artículo 48 de la Ley, las dependencias y entidades podrán seleccionar el tipo de garantía que más se ajuste a sus necesidades y que les permita tener la mayor certeza de que las obligaciones estarán debidamente respaldadas, debiendo considerar en todos los casos las características, magnitud y complejidad de los trabajos a realizar.
+Para efectos del artículo 48 de la Ley, las dependencias y entidades podrán seleccionar el tipo de garantía que más se ajuste a sus necesidades y que les permita tener la mayor certeza de que las obligaciones están debidamente respaldadas, y conforme a los modelos de formatos aprobados por la secretaría, y deben considerar en todos los casos las características, magnitud y complejidad de los trabajos a realizar.
 
 ###### Artículo 90.
 
@@ -1763,7 +1857,9 @@ VII. La autorización de los ajustes por parte de la dependencia o entidad deber
 
 En caso de que el contratista concluya los trabajos en un plazo menor al establecido en el contrato, no será necesaria la celebración de convenio alguno. Si el contratista se percata de la imposibilidad de cumplir con el programa de ejecución convenido, por causas no imputables a él, deberá notificarlo a la dependencia o entidad, mediante anotación en la Bitácora, presentando la solicitud de ampliación de plazo y la documentación justificatoria dentro del plazo de ejecución de los trabajos.
 
-La dependencia o entidad, dentro de los treinta días naturales siguientes a la presentación de la solicitud del contratista señalada en el párrafo anterior, emitirá el dictamen de resolución; de no hacerlo, la solicitud se tendrá por aceptada. El convenio mediante el cual se ampliará el plazo respectivo deberá formalizarse dentro de los treinta días naturales siguientes a la emisión del dictamen de referencia o a la afirmativa ficta de la dependencia o entidad.
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+La dependencia o entidad, dentro de los treinta días naturales siguientes a la presentación de la solicitud del contratista señalado (sic) en el párrafo anterior, emitirá el dictamen de resolución; de no hacerlo, la solicitud se tendrá por aceptada. El convenio mediante el cual se ampliará el plazo respectivo deberá formalizarse dentro de los cuarenta y cinco días naturales siguientes a la emisión del dictamen de referencia o a la afirmativa ficta de la dependencia o entidad.
 
 ###### Artículo 104.
 
@@ -2005,9 +2101,17 @@ XVI. Coadyuvar con la residencia para vigilar que los materiales, la mano de obr
 
 XVII. Verificar la debida terminación de los trabajos dentro del plazo convenido;
 
-XVIII. Coadyuvar en la elaboración del finiquito de los trabajos, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
-XIX. Las demás que le señale la residencia o la dependencia o entidad en los términos de referencia respectivos.
+XVIII. Coadyuvar en la elaboración del finiquito de los trabajos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+XIX. Coadyuvar en el ámbito de sus funciones, en la integración y conformación del expediente de obra o servicios, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+XX. Las demás que le señale la residencia o la dependencia o entidad en los términos de referencia respectivos.
 
 ###### Artículo 116.
 
@@ -2407,9 +2511,13 @@ VI. El tiempo de duración de la suspensión. Cuando la reanudación de los trab
 
 VII. Las acciones que seguirá la dependencia o entidad, las que deberán asegurar los bienes y el estado de los trabajos, así como procurar la conclusión de los mismos;
 
-VIII. El programa de ejecución convenido que se aplicará, el cual deberá considerar los diferimientos que origina la suspensión, ajustando sin modificar los periodos y procesos de construcción indicados en el programa de ejecución convenido en el contrato, y
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
 
-IX. En su caso, las medidas de protección que resulten necesarias para salvaguardar los trabajos realizados, el lugar de trabajo, sus instalaciones y equipos.
+VIII. El programa de ejecución que se aplicará, el cual deberá considerar los diferimientos que origina la suspensión, ajustando sin modificar los periodos y procesos de construcción indicados en el programa de ejecución que se encuentre vigente al momento de la suspensión, y
+
+> <small>(REFORMADA, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
+IX. En su caso, las medidas de protección y de seguridad, que resulten necesarias para salvaguardar los trabajos realizados, el lugar de trabajo, sus instalaciones y equipos.
 
 ###### Artículo 148.
 
@@ -3605,9 +3713,11 @@ A las obras a que se refiere este Capítulo les serán aplicables, en lo conduce
 
 La gerencia de proyectos consistirá en los servicios integrados necesarios para la planeación, organización y control de un proyecto en todas sus fases, incluyendo el diseño, la ejecución de los trabajos y la administración de los recursos humanos, materiales y financieros, para que el proyecto satisfaga los objetivos y requerimientos de la dependencia o entidad.
 
+> <small>(REFORMADO, D.O.F. 27 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 250.
 
-Los ajustes de costos que, en su caso, procedan para los contratos de servicios se realizarán aplicando los índices a que se refiere la fracción II del artículo 58 de la Ley. En el caso de la mano de obra, se aplicarán a la plantilla del personal las variaciones que determine la Comisión Nacional de Salarios Mínimos para los salarios mínimos generales en el Distrito Federal.
+Los ajustes de costos que procedan para los contratos de servicios se realizarán aplicando los índices a que se refiere la fracción II del artículo 58 de la Ley. Las variaciones que presente la UMA determinadas por la autoridad competente se aplicarán a la plantilla del personal, en el caso de la mano de obra.
 
 ###### Artículo 251.
 
@@ -4066,3 +4176,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Se derogan aquellas disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO.- Los actos y contratos que las dependencias y entidades de la Administración Pública Federal hayan celebrado con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
+
+D.O.F. 27 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan las demás disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. Los actos y contratos que las dependencias y entidades hayan celebrado con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
