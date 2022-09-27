@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-planeacion-del-estado-de-nayarit-136930"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-29"
-last_updated: "2022-06-13"
+last_updated: "2022-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Cuarta al Número 104 del Periódico Oficial del Estado de Nayarit, el miércoles 29 de mayo de 2019.
 
@@ -685,13 +685,23 @@ El Programa de Gobierno del Estado deberá ser coordinado en su elaboración por
 
 Los Programas de Gobierno de los municipios, deberán ser elaborados con la coordinación de los Institutos Municipales y aprobados por las Juntas de Gobierno de los institutos municipales y por los Ayuntamientos, dentro del plazo que marca la Ley Municipal para el Estado de Nayarit; y se actualizarán de ser necesario, con el mismo proceso que se llevó a cabo en su elaboración.
 
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 50.
 
-El Gran Plan y el Programa de Gobierno del Estado, deberán ser remitidos al Congreso del Estado por el titular del Poder Ejecutivo, para su conocimiento.
+El Gran Plan y el Programa de Gobierno del Estado, deberán ser remitidos en versión física o digital, al Congreso del Estado por el Titular del Poder Ejecutivo, para su conocimiento.
+
+Dichos documentos tendrán valor histórico, por lo que deberán ser transferidos en original, de conformidad con su ciclo vital, al Archivo Histórico.
+
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 51.
 
-Los Planes Municipales de Desarrollo y al Programa de Gobierno Municipal, los Presidentes Municipales remitirán al Congreso y al titular del Poder Ejecutivo, los documentos oficiales que los contengan.
+Los Planes Municipales de Desarrollo y el Programa de Gobierno Municipal, deberán ser remitidos en versión física o digital por los Presidentes Municipales al Congreso y al Titular del Poder Ejecutivo, dentro de un plazo de quince días contados a partir de la fecha de su publicación.
+
+Dichos documentos tendrán valor histórico, por lo que deberán ser transferidos en original al Archivo Histórico, de conformidad con su ciclo vital; a falta de este, al Archivo General del Estado en términos de lo dispuesto por la Ley de Archivos del Estado.
+
+Asimismo, en el mismo plazo serán publicados en la página oficial de cada Ayuntamiento y en sus respectivas Gacetas Municipales.
 
 ###### Artículo 52.
 
@@ -884,3 +894,13 @@ P.O. 13 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente Decreto, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación de las políticas y acciones establecidas en el presente Decreto.
+
+P.O. 27 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE TRANSPARENCIA, RENDICIÓN DE CUENTAS Y ARCHIVOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. El Poder Ejecutivo Estatal y los Ayuntamientos del Estado, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizar las reformas y adecuaciones a los reglamentos correspondientes, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+TERCERO. Comuníquese el presente Decreto, al Titular del Poder Ejecutivo Estatal y a los veinte Ayuntamientos del Estado, para los efectos conducentes.
