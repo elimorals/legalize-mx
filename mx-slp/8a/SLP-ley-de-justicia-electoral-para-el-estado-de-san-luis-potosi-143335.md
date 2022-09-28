@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-electoral-para-el-estado-de-san-luis-potosi-143
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-15"
-last_updated: "2020-06-15"
+last_updated: "2022-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el lunes 15 de junio de 2020.
 
@@ -585,19 +585,31 @@ Se considerará incumplimiento el retraso por medio de evasivas o procedimientos
 
 Todas las autoridades que tengan o deban tener intervención en el cumplimiento de una resolución o sentencia del Tribunal estarán obligadas a realizar, dentro del ámbito de su competencia, los actos necesarios para su eficaz cumplimiento, y estarán sujetas a las mismas responsabilidades y procedimientos a que aluden los párrafos anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 40.
 
-Para hacer cumplir las disposiciones del presente Ordenamiento y las sentencias que dicte, así como para mantener el orden, el respeto y la consideración debidos, el Tribunal podrá aplicar discrecionalmente los medios de apremio y las correcciones disciplinarias siguientes:
+Para hacer cumplir las disposiciones de esta Ley, así como los acuerdos y resoluciones que se dicten, y para mantener el orden, respeto y consideración debidos a las autoridades electorales, la magistratura instructora, o la presidencia del Tribunal, en su caso, podrán aplicar discrecionalmente cualquiera de las medidas de apremio y correcciones disciplinarias siguientes:
 
 I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa hasta por dos mil unidades de medida y actualización. En caso de reincidencia, se podrá aplicar hasta el doble de la cantidad señalada, y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
 
-IV. Auxilio de la fuerza pública.
+III. Multa hasta por dos mil unidades de medida y actualización. En caso de reincidencia, se podrá aplicar hasta el doble de la cantidad señalada;
 
-Los medios de apremio y las correcciones disciplinarias a que se refieren las fracciones anteriores serán aplicados por el Presidente del Tribunal, por sí mismo, o con el apoyo de la autoridad competente, de conformidad con las reglas que al efecto establezca el reglamento interno correspondiente.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Auxilio de la fuerza pública, y
+
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
+V. Arresto hasta por treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
+Los medios de apremio y las correcciones disciplinarias a que se refieren las fracciones anteriores serán aplicados por la magistratura instructora, o la presidencia del Tribunal, por sí mismos, o con el apoyo de la autoridad competente, de conformidad con las reglas que al efecto establezca el reglamento interno correspondiente.
 
 ## TÍTULO TERCERO. DE LOS MEDIOS DE IMPUGNACIÓN; Y DE LAS NULIDADES EN MATERIA ELECTORAL
 
@@ -1050,3 +1062,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0392.- SE EXPIDE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA Y DEROGA LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA Y ADICIONA LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ Y, SE ADICIONA EL ARANCEL DE NOTARIOS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
