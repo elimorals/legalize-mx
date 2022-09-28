@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-la-defensoria-publica-del-estado-de-sinaloa-96046"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2021-12-13"
+last_updated: "2022-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, LAS DISPOSICIONES RELATIVAS A LA PRESTACIÓN DEL SERVICIO DE DEFENSORÍA PÚBLICA EN MATERIA PENAL, CON EXCEPCIÓN DE JUSTICIA PARA ADOLESCENTES, EN TÉRMINOS DEL DECRETO NÚMERO 149, PUBLICADO EN EL P.O. DE FECHA 8 DE AGOSTO DE 2014, ENTRARÁN EN VIGOR EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE PARA TALES EFECTOS EMITA EL H. CONGRESO DEL ESTADO DE SINALOA, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO, TERCER PÁRRAFO, DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 18 DE JUNIO DE 2008, ASÍ COMO EN EL ARTÍCULO SEGUNDO TRANSITORIO, SEGUNDO PÁRRAFO, DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 5 DE MARZO DE 2014.</small>
 
@@ -881,7 +881,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Los Juzgados en materia laboral del Poder Judicial y el Centro de Conciliación Laboral entrarán en funciones una vez que el Congreso del Estado haga la declaratoria correspondiente, la cual deberá publicarse en el Periódico Oficial “EI Estado de Sinaloa”.
 
-TERCERO. El Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial iniciarán actividades a más tardar el día 02 de mayo del año 2022, previa declaratoria del Congreso del Estado. El Centro de Conciliación Laboral deberá entrar en operaciones en la misma fecha en que lo hagan los Juzgados en materia laboral del Poder Judicial, conforme a las disposiciones previstas en el presente Decreto.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
+TERCERO. El Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial iniciarán actividades a más tardar el día 03 de octubre del año 2022, previa declaratoria del Congreso del Estado. El Centro de Conciliación Laboral deberá entrar en operaciones en la misma fecha en que lo hagan los Juzgados en materia laboral del Poder Judicial, conforme a las disposiciones previstas en el presente Decreto.
 
 CUARTO. Los procedimientos que se encuentren en trámite ante la Junta Local de Conciliación y Arbitraje del Estado y ante las Juntas Especiales, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
 
@@ -910,3 +912,9 @@ DÉCIMO CUARTO. En la implementación de las disposiciones a que se refiere el D
 DÉCIMO QUINTO. El Instituto de la Defensoría Pública del Estado de Sinaloa, comenzará a prestar sus servicios en materia laboral en la misma fecha en que lo hagan los Juzgados en materia laboral del Poder Judicial, por lo que el Instituto deberá adecuar su normativa interna con las disposiciones de esta Ley y pueda crear un departamento en materia laboral.
 
 DÉCIMO SEXTO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 253 POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 6, POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SINALOA, Y QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA, PUBLICADO EN EL PERIÓDICO OFICIAL ''EL ESTADO DE SINALOA" NÚMERO 150 DE FECHA 13 DE DICIEMBRE DE 2021”.]
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa”.
