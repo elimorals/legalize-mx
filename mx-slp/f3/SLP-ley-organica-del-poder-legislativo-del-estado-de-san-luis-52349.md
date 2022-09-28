@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2022-09-09"
+last_updated: "2022-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -695,9 +695,13 @@ Los grupos parlamentarios tienen por objeto facilitar la participación de los d
 
 Los grupos parlamentarios con las excepciones previstas en esta Ley, gozarán de los mismos derechos y tendrán las mismas obligaciones.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 57.
 
-Los diputados sólo podrán pertenecer a un grupo parlamentario o una representación parlamentaria; o ser diputados independientes si se separan de su grupo parlamentario durante la Legislatura.
+Las diputadas y los diputados sólo podrán pertenecer a un grupo parlamentario o una representación parlamentaria; o ser diputadas o diputados independientes si se separan de su grupo parlamentario durante la Legislatura.
+
+En caso de renuncia a un grupo parlamentario, las y los legisladores no se incorporarán a otro grupo parlamentario, por lo que mantendrán su independencia dando aviso a la Junta de Coordinación Política para que surta los efectos correspondientes.
 
 ###### ARTICULO 58.
 
@@ -3040,3 +3044,11 @@ PRIMERO. Este Decreto entrará en vigor a los treinta días siguientes de su pub
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Junta de Coordinación Política asignará los recursos humanos y materiales para la implementación de este Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0392.- SE EXPIDE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA Y DEROGA LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA Y ADICIONA LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ Y, SE ADICIONA EL ARANCEL DE NOTARIOS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
