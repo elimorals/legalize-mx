@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-el-colegio-de-morelos-126597"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-01-24"
-last_updated: "2018-01-24"
+last_updated: "2022-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DE "EL COLEGIO DE MORELOS"
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE OCTUBRE DE 2022 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DE “EL COLEGIO DE MORELOS”
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
 
 Estatuto publicado en el Número 5571 del Periódico Oficial del Estado de Morelos, el miércoles 24 de enero de 2018.
 
@@ -31,7 +33,7 @@ LA JUNTA DE GOBIERNO DE “EL COLEGIO DE MORELOS”, CON FUNDAMENTO EN LO DISPUE
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 Por lo expuesto y fundado; hemos tenido a bien expedir el siguiente:
 
@@ -105,13 +107,15 @@ Se podrán también realizar actividades interdisciplinarias y contar con un sis
 
 ### CAPÍTULO III. DE LAS AUTORIDADES COLEGIADAS DE EL COLEGIO
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 6.
 
 La Junta es la máxima autoridad colegiada de El Colegio en el ámbito de su competencia. Se integrará, funcionará y tendrá las atribuciones que le asignan los artículos 13 al 21 de la Ley Orgánica.
 
 La Junta sesionará válidamente, por norma general, con la asistencia de la mitad más uno de sus integrantes, y sus decisiones se tomarán por mayoría de votos. En caso de empate, el presidente de la Junta tendrá voto de calidad.
 
-El Presidente de la Junta será designado de manera rotatoria, en el orden que determinen sus integrantes por mayoría de votos, y durará un año en el cargo. El Presidente realizará las citaciones a los miembros de ésta y a los integrantes de las comisiones que la misma disponga formar con la colaboración del Rector.
+El presidente de la Junta será designado de manera rotatoria, en el orden que determinen sus integrantes por mayoría de votos, y durará un año en el cargo, pudiendo reelegirse por otro año más únicamente. El presidente realizará las citaciones a los miembros de ésta y a los integrantes de las comisiones que la misma disponga formar con la colaboración del rector.
 
 ###### Artículo 7.
 
@@ -179,9 +183,13 @@ X. Nombrar al personal administrativo, técnico y de servicios generales, sin pe
 
 XI. Tramitar patentes de distinta naturaleza y proteger el acervo intelectual y cultural de la institución de acuerdo con la normativa aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-El Secretario General deberá reunir los requisitos y tendrá las atribuciones que señalan los artículos 33 y 34, de la Ley Orgánica; realizará todas aquellas actividades que, en el ámbito de su competencia, le sean asignadas por el Rector. Su designación y remoción son competencia del Rector, el cual podrá tomar estas decisiones libremente, pero en forma fundada y motivada.
+El secretario general deberá reunir los requisitos y tendrá las atribuciones que señalan los artículos 33 y 34 de la Ley Orgánica; realizará todas aquellas actividades que, en el ámbito de su competencia, le sean asignadas por el rector. Su designación y remoción son competencia del rector, el cual podrá tomar estas decisiones libremente, pero en forma fundada y motivada.
+
+Además de las atribuciones previstas en la Ley Orgánica; el secretario general estará facultado para dar fe de los documentos académicos, financieros, administrativos y honoríficos que expida El Colegio.
 
 ###### Artículo 13.
 
@@ -368,3 +376,21 @@ JESÚS ANTONIO DEL RÍO PORTILLA
 DIRECTOR DEL INSTITUTO DE ENERGÍAS RENOVABLES DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO/COLMORJG/3ORD.21/1, LOS INTEGRANTES DE LA H. JUNTA DE GOBIERNO APRUEBAN POR MAYORÍA DE VOTOS LA REFORMA AL ARTÍCULO 6 DEL ESTATUTO ORGÁNICO DE EL COLEGIO DE MORELOS”.]
+
+PRIMERO. Las modificaciones al presente reglamento entrarán en vigor a partir de su publicación en la Gaceta “Emiliano Zapata” de El Colegio de Morelos.
+
+SEGUNDO. Quedan derogadas todas aquellas disposiciones que contravengan al presente reglamento.
+
+P.O. 28 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO/COLMORJG/2ORD.22/6 LOS INTEGRANTES DE LA H. JUNTA DE GOBIERNO APRUEBAN POR UNANIMIDAD LAS MODIFICACIONES AL ARTÍCULO 12 DEL ESTATUTO ORGÁNICO DE EL COLEGIO DE MORELOS”.]
+
+PRIMERO. Las modificaciones al presente reglamento entrarán en vigor a partir de su publicación en la Gaceta “Emiliano Zapata” de El Colegio de Morelos.
+
+SEGUNDO. Quedan derogadas todas aquellas disposiciones que contravengan al presente reglamento.
