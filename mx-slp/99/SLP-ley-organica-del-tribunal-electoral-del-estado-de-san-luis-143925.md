@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-tribunal-electoral-del-estado-de-san-luis-1439
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-06-11"
-last_updated: "2020-06-11"
+last_updated: "2022-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143925&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 11 de junio de 2020.
 
@@ -145,7 +145,7 @@ VII. El importe de los ingresos por multas o medidas de apremio impuestas por el
 
 VIII. Los demás ingresos que perciba con motivo del ejercicio de sus atribuciones previstas en este ordenamiento y en las demás disposiciones aplicables al patrimonio.
 
-El Tribunal contará con un Fideicomiso denominado Fondo para la Administración de Multas o Medidas de Apremio Impuestas por el Tribunal Electoral de San Luis Potosí, que se integrará en términos de lo dispuesto en la presente Ley y el Reglamento Interior.
+(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2022).
 
 ###### ARTÍCULO 7º.
 
@@ -565,7 +565,9 @@ Son restricciones de las y los magistrados:
 
 I. Durante el periodo de su encargo, no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Tribunal, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados, y
 
-II. Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
+II. Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, hasta por un año.
 
 ###### ARTÍCULO 37.
 
@@ -1137,9 +1139,11 @@ XV. Las demás que le confiera esta Ley, el Reglamento Interior y la Presidencia
 
 ### CAPITULO ÚNICO
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 67.
 
-El Tribunal, en el ámbito de su competencia, podrá imponer al servidor público encargado de cumplir con la resolución, partidos políticos, candidatas y candidatos independientes, o a la persona física o moral responsable, multas o medidas de apremio, las cuales se harán efectivas por el propio Tribunal o mediante convenio celebrado con la autoridad competente para asegurar el cumplimiento de sus determinaciones, mediante el procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado, el cual será aplicado supletoriamente. Y en observancia a los lineamientos que expida el Instituto Nacional Electoral.
+El Tribunal, en el ámbito de su competencia, podrá imponer a la o el servidor público encargado de cumplir con la resolución, partidos políticos, candidatas y candidatos independientes, o a la persona física o moral responsable, multas o medidas de apremio, las cuales se harán efectivas por el propio Tribunal o mediante convenio celebrado con la autoridad competente, para asegurar el cumplimiento de sus determinaciones, esto mediante el procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado, el cual será aplicado supletoriamente.
 
 ###### ARTÍCULO 68.
 
@@ -1157,7 +1161,9 @@ V. Las multas que se impongan en términos de este artículo son independientes 
 
 Para imponer la multa que corresponda, el Tribunal deberá oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley.
 
-El importe de las multas o medidas de apremio que se impongan será destinado en favor del Fondo para la Administración y Aprovechamiento de Multas o Medidas de Apremio y sus Rendimientos Impuestas por el Tribunal Electoral del Estado de San Luis Potosí, quien las aplicará en los términos que señale el Reglamento Interior.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
+El importe de las multas o medidas de apremio que se impongan será destinado en favor del Fondo para la Administración y Aprovechamiento de Multas o Medidas de Apremio y sus Rendimientos Impuestas por el Tribunal Electoral del Estado de San Luis Potosí, quien las aplicará en los términos que señalen los lineamientos del propio Fondo que para ese efecto apruebe el Pleno.
 
 ###### ARTÍCULO 69.
 
@@ -1167,25 +1173,35 @@ I. Las multas o medidas de apremio que imponga el Tribunal para la ejecución de
 
 II. Los rendimientos que, bajo cualquier modalidad, generen los recursos propios y ajenos que integren el Fondo.
 
-Las multas impuestas bajo el régimen sancionador electoral, se regirán por las disposiciones emitidas para tal efecto.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
+Las multas impuestas bajo el régimen sancionador electoral, no formarán parte del Fondo, y se entregarán periódicamente y en porcentajes similares a las instituciones de educación pública, que tenga (sic) por objeto la promoción, fomento y desarrollo de la ciencia, tecnología e innovación.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 70.
 
-La administración del Fondo estará a cargo de la Comisión del Fondo Para la Administración y Aprovechamiento de Multas o medidas de apremio y sus Rendimientos Impuestas del (sic) Tribunal Electoral del Estado de San Luis Potosí.
+La administración del Fondo estará a cargo de la Comisión del Fondo Para la Administración y Aprovechamiento de Multas o medidas de apremio y sus Rendimientos Impuestas por el Tribunal Electoral del Estado de San Luis Potosí, organismo que será formado con las y los servidores públicos del propio Tribunal que determine el Pleno, quienes de conformidad con los propios lineamientos del Fondo, efectuarán la operación del mismo, su administración, así como el aprovechamiento y aplicación de sus recursos.
 
-En las sesiones de la comisión o del Pleno relacionadas con la administración del Fondo, la o el secretario general de acuerdos, la o el director administrativo y titular del órgano interno de control concurrirán con voz, pero sin voto.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 71.
 
-Los recursos del Fondo de Apoyo para la Administración y Aprovechamiento de Multas o medidas de apremio y sus Rendimientos Impuestas por el Tribunal Electoral del Estado de San Luis Potosí, se destinarán a cubrir todos aquellos gastos que no estén comprendidos en el presupuesto anual, o respecto de los cuales el presupuesto asignado sea insuficiente, y que el Pleno determine que están en relación directa con la consecución de los fines del Tribunal, preferentemente, construcción de infraestructura, adquisición de bienes o equipamiento.
+Los recursos del Fondo de Apoyo para la Administración y Aprovechamiento de Multas o medidas de apremio y sus Rendimientos Impuestas por el Tribunal Electoral del Estado de San Luis Potosí, se destinarán a cubrir todos aquellos gastos que no estén comprendidos en el presupuesto anual, o respecto de los cuales el presupuesto asignado sea insuficiente, o que en su caso, el Pleno determine, y que están en relación directa con la consecución de los fines del Tribunal, preferentemente, construcción de infraestructura, adquisición de bienes, equipamiento, apoyo para actividades de promoción de la cultura democrática, o desarrollo político electoral.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 72.
 
-Los recursos del Fondo de Apoyo para la Administración y Aprovechamiento de Multas o medidas de apremio y sus Rendimientos Impuestas por el Tribunal Electoral del Estado de San Luis Potosí, se destinarán a los organismos estatales encargados de la promoción, fomento y desarrollo de la ciencia, tecnología e innovación.
+Los recursos derivados de multas impuestas dentro de procedimientos sancionadores electorales serán entregados por el Tribunal, con la periodicidad y bajo los mecanismos que se determinen en el convenio que para ese efecto suscriban con las instituciones mencionadas en el artículo 69 de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 73.
 
-La o el director de administración elaborará durante el mes de noviembre de cada año, un informe financiero respecto de la administración y utilización de los recursos que durante el año haya recibido y aplicado el Fondo, mismo que someterá a la aprobación del Pleno, para que, una vez autorizado, la Presidencia, durante el mismo mes, (sic) el informe financiero correspondiente a la Secretaría de Finanzas del Gobierno del Estado, dando vista del mismo al Congreso del Estado.
+La Dirección de administración del Tribunal, en coordinación con la Secretaría general de Acuerdos, elaborarán durante el mes de diciembre de cada año, un informe financiero respecto de la administración y utilización de los recursos que durante el año haya recibido y aplicado el Fondo, mismo que someterán a la aprobación del Pleno.
+
+Asimismo, se informará sobre la administración de los recursos del Fondo, tanto a la Secretaría de Finanzas, como al Congreso del Estado, esto mediante los informes financieros trimestrales y la correspondiente Cuenta Pública.
 
 ## TITULO CUARTO. DEL FUNCIONAMIENTO DEL TRIBUNAL EN TIEMPOS NO ELECTORALES Y DE SUS FUNCIONES DE INVESTIGACIÓN, CAPACITACIÓN Y DIVULGACIÓN
 
@@ -1692,3 +1708,17 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0392.- SE EXPIDE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA Y DEROGA LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA Y ADICIONA LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ Y, SE ADICIONA EL ARANCEL DE NOTARIOS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Las cantidades provenientes del régimen sancionador electoral y que antes de la entrada en vigor de este Decreto se hayan acumulado, serán entregadas por el Tribunal, a las instituciones de educación pública que tenga por objeto la promoción, fomento y desarrollo de la ciencia, tecnología e innovación, a través del convenio o mecanismo las instituciones establezcan para ese efecto.
+
+CUARTO. El Pleno del Tribunal Electoral del Estado, dentro de los sesenta días posteriores a la entrada en vigor de este Decreto, autorizará los lineamientos que regulen la administración del Fondo de Apoyo para la Administración y Aprovechamiento de Multas o Medidas de Apremio y sus Rendimientos Impuestas por el Tribunal Electoral del Estado de San Luis Potosí, así como la administración y el ejercicio de sus recursos.
