@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2022-09-23"
+last_updated: "2022-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -1601,7 +1601,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Los Juzgados en materia laboral del Poder Judicial y el Centro de Conciliación Laboral entrarán en funciones una vez que el Congreso del Estado haga la declaratoria correspondiente, la cual deberá publicarse en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO. El Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial iniciarán actividades a más tardar el día 02 de mayo del año 2022, previa declaratoria del Congreso del Estado. El Centro de Conciliación Laboral deberá entrar en operaciones en la misma fecha en que lo hagan los Juzgados en materia laboral del Poder Judicial, conforme a las disposiciones previstas en el presente Decreto.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
+TERCERO. El Centro de Conciliación Laboral y los Juzgados en materia laboral del Poder Judicial iniciarán actividades a más tardar el día 03 de octubre del año 2022, previa declaratoria del Congreso del Estado. El Centro de Conciliación Laboral deberá entrar en operaciones en la misma fecha en que lo hagan los Juzgados en materia laboral del Poder Judicial, conforme a las disposiciones previstas en el presente Decreto.
 
 CUARTO. Los procedimientos que se encuentren en trámite ante la Junta Local de Conciliación y Arbitraje del Estado y ante las Juntas Especiales, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
 
@@ -1646,3 +1648,9 @@ A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 253 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 6, POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE SINALOA, Y QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SINALOA, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA Y DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA, PUBLICADO EN EL PERIÓDICO OFICIAL «EL ESTADO DE SINALOA» NÚMERO 150 DE FECHA 13 DE DICIEMBRE DE 2021”.]
+
+UNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
