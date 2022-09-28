@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2021-12-02"
+last_updated: "2022-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -301,13 +301,15 @@ Ningún integrante del Ayuntamiento podrá ocupar cargo honorífico o remunerado
 
 El desempeño de cualquiera de los cargos mencionados en el párrafo anterior, por algún integrante del ayuntamiento, sin la respectiva licencia, será considerado como causal de responsabilidad en los términos y para los efectos de la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 14.
 
-El Presidente Municipal, regidores y síndicos del Ayuntamiento electos por votación popular, podrán ser reelectos para el período inmediato. Para poder reelegirse, la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato por resolución firme.
+La persona titular de la presidencia municipal, de las regidorías y sindicaturas del ayuntamiento, que hayan sido electas por votación popular, podrán ser reelectas para el período inmediato. Para poder reelegirse, la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato por resolución firme.
 
-En el caso de los funcionarios suplentes, podrán ser electos para el período inmediato siguiente sin ser considerado como reelección, siempre que no hayan ejercido funciones o hayan hecho la protesta de ley del cargo como propietarios en el Ayuntamiento respectivo.
+En el caso de las personas suplentes, podrán ser electas para el período inmediato siguiente sin ser considerado como reelección, siempre que no hayan ejercido funciones o hayan hecho la protesta de ley del cargo como propietarias en el ayuntamiento respectivo.
+
+La postulación para reelegirse por un periodo adicional por el mismo cargo de las personas no militantes sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiere postulado, salvo que hayan expresado ante fedatario público antes de la mitad de su mandato; su deseo de no seguir representando el partido político o la coalición que lo postulare en su primer periodo.
 
 ###### ARTICULO 15.
 
@@ -349,19 +351,13 @@ Los miembros propietarios que no se hubieren presentado a la sesión de instalac
 
 Si la instalación no fuere posible en términos de los párrafos anteriores, se dará aviso al Congreso del Estado para que proceda conforme lo establece la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 19.
 
-El Ayuntamiento saliente dará posesión de las oficinas, bienes y fondos municipales, así como de los inventarios, en los términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, a los miembros del nuevo Ayuntamiento. Inmediatamente después, quien haya sido designado por el Congreso del Estado, tomará la protesta del nuevo Ayuntamiento en los siguientes términos: "Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las demás disposiciones que de ellas emanen y desempeñar fielmente los cargos que el pueblo de este Municipio les ha conferido" (los interpelados contestarán: "Sí protesto") "Si así no lo hicieran, que el pueblo se los demande".
+El ayuntamiento saliente dará posesión de las oficinas, bienes y fondos municipales, así como de los inventarios, en los términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, a las personas integrantes del nuevo ayuntamiento. Inmediatamente después, quien haya sido designado por el Congreso del Estado, tomará la protesta a las personas integrantes del nuevo ayuntamiento en los siguientes términos: “Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las demás disposiciones que de ellas emanen y desempeñar fielmente los cargos que el pueblo de este municipio les ha conferido” (las personas interpeladas contestarán: “Sí protesto”) “Si así no lo hicieran, que el pueblo se los demande” Rendida la protesta de ley, la persona titular de la presidencia municipal enunciará las líneas generales de trabajo que se propone realizar el ayuntamiento durante el periodo de su gestión. Acto seguido, en la misma sesión, el Cabildo, a propuesta de la persona titular de la presidencia, designará conforme a lo dispuesto en las fracciones, V del artículo 70, y XXIV del inciso C) del artículo 31 de la presente Ley, a las personas titulares de la Secretaría, Tesorería, Oficialía Mayor, y delegaciones municipales; Contraloría Interna, unidades, investigadora, y substanciadora, en los términos establecidos en esta Ley. De todo lo anterior se levantará el acta de cabildo, respectiva.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
-
-Rendida la protesta de ley, el Presidente Municipal enunciará las líneas generales de trabajo que se propone realizar el Ayuntamiento durante el periodo de su gestión. Acto seguido, en la misma sesión, el Cabildo, a propuesta del Presidente Municipal, designará conforme a lo dispuesto en las fracciones, V del artículo 70, y XXIV del inciso C) del artículo 31 de la presente Ley, a la o el Secretario; a la o el Tesorero; y, en su caso, la o el Oficial Mayor, y delegadas o delegados municipales. En la misma sesión se hará el nombramiento de la o el Contralor Interno, así como a las o los titulares de las unidades, investigadora; y substanciadora, en los términos establecidos en esta Ley. De todo lo anterior se levantará el acta de cabildo, respectiva.
-
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
-
-El nombramiento de la o el Secretario; la o el Tesorero; la o el Oficial Mayor; y delgadas o delegados municipales, será por un período máximo igual a la duración de la administración que los designó; pudiendo removerlos libremente a propuesta de la o el Presidente Municipal y por acuerdo del Cabildo, sin responsabilidad para el ayuntamiento. En el caso de la o el Contralor Interno Municipal, así como las o los titulares de las unidades, investigadora; y substanciadora, que serán nombrados; removidos, en su caso; y permanecerán en el cargo, en los términos establecidos en esta Ley.
+En los nombramientos de las personas titulares de la Secretaría, Tesorería, Oficialía Mayor, y delegaciones municipales; Contraloría Interna, unidades, investigadora, y substanciadora, se observará el principio de paridad de género; y serán por un período máximo igual a la duración de la administración que los designó; pudiendo ser removidas libremente a propuesta de la o el Presidente Municipal y por acuerdo del Cabildo, sin responsabilidad para el ayuntamiento. En el caso de la o el Contralor Interno Municipal, así como las o los titulares de las unidades, investigadora; y substanciadora, que serán nombrados; removidos, y permanecerán en el cargo, en los términos establecidos en esta Ley.
 
 ###### ARTICULO 20.
 
@@ -579,17 +575,17 @@ c) En materia Operativa:
 
 I. Solicitar al Ejecutivo del Estado, previo acuerdo aprobado por lo menos por las dos terceras partes de sus integrantes, y a través del Presidente Municipal, la expropiación de bienes por causa de utilidad pública;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
 
-II. Nombrar, a propuesta de la o el Presidente Municipal, a la o el Secretario; la o el Tesorero; la o el Contralor Interno y, en su caso, a la o el Oficial Mayor; pudiendo removerlos libremente a propuesta de la o el presidente Municipal y por acuerdo del cabildo, sin responsabilidad para el ayuntamiento. La o el Contralor Interno Municipal y las o los titulares de las unidades, investigadora; y substanciadora, serán designados de conformidad con la fracción V del artículo 70 de este Ordenamiento, por el voto de cuando menos las dos terceras partes del cuerpo edilicio, y sólo podrá ser removido por la misma mayoría.
+II. Nombrar, a propuesta de la o el Presidente Municipal, a las personas titulares de la Secretaría, Tesorería, Contraloría Interna, Oficialía Mayor, delegaciones municipales, así como de las unidades, investigadora y substanciadora, pudiendo removerlos libremente a propuesta de la o el presidente Municipal y por acuerdo del cabildo, sin responsabilidad para el ayuntamiento.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+Los nombramientos a los que se refiere el párrafo anterior, serán designados de conformidad con previsto en el artículo 70 fracción V de este Ordenamiento, y por el voto de cuando menos las dos terceras partes del cuerpo edilicio, y sólo podrán ser removidos por la misma mayoría.
 
-En caso de ausencia definitiva por cualquier motivo de la o el Secretario; la o el Tesorero; la o el Oficial Mayor; la o el Contralor Interno, o las o los titulares de las unidades, investigadora; y substanciadora, la o el Presidente deberá convocar dentro de un plazo máximo de cinco días contados a partir de la ausencia definitiva, a sesión de cabildo, a fin de que se proceda al nombramiento respectivo en los términos de este artículo.
+En caso de ausencia definitiva por cualquier motivo de las o los servidores públicos a que se refiere el párrafo primero, la Presidenta o el Presidente, deberá convocar dentro de un plazo máximo de cinco días contados a partir de la ausencia definitiva, a sesión de cabildo, a fin de que se proceda al nombramiento respectivo en los términos de este artículo.
 
-Los integrantes del ayuntamiento, y los funcionarios que designe el mismo, deberán abstenerse de recomendar o contratar, por sí o por conducto de terceros, a familiares por afinidad o consanguinidad, en línea directa o transversal hasta el cuarto grado, respecto de ellos, para obtener cualquier tipo de contrato o nombramiento con el municipio.
+Las y los integrantes del ayuntamiento, así como las y los funcionarios que designe el mismo, deberán abstenerse de recomendar o contratar, por sí o por conducto de terceros, a familiares por afinidad o consanguinidad, en línea directa o transversal hasta el cuarto grado, respecto de ellos, para obtener cualquier tipo de contrato o nombramiento con el municipio.
 
-En todo momento deberán observar el cumplimiento y salvaguarda de los derechos de los trabajadores del municipio que representan, por lo que son responsables de los procesos laborales que deriven en pago, por actos propios o de sus subalternos, generados en su administración. Esta Responsabilidad se extiende a los laudos recaídos incluso, en periodos constitucionales posteriores a su mandato, cuyo inicio del procedimiento respectivo, se haya dado durante éste;
+En todo momento deberán observar el cumplimiento y salvaguarda de los derechos de las y los trabajadores del municipio que representan, por lo que son responsables de los procesos laborales que deriven en pago, por actos propios o de sus subalternos, generados en su administración. Esta Responsabilidad se extiende a los laudos recaídos incluso, en periodos constitucionales posteriores a su mandato, cuyo inicio del procedimiento respectivo, se haya dado durante éste;
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2021)</small>
 
@@ -973,9 +969,11 @@ Las resoluciones del Congreso del Estado por las que se ponga fin a los conflict
 
 ### CAPITULO I. De las Facultades y Obligaciones del Presidente Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 70.
 
-El Presidente Municipal es el ejecutivo de las determinaciones del Ayuntamiento; tendrá las siguientes facultades y obligaciones:
+La persona titular de la presidencia municipal, es la ejecutiva de las determinaciones del ayuntamiento; tendrá las siguientes facultades y obligaciones:
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
 
@@ -997,11 +995,13 @@ III. Convocar por conducto del Secretario, y presidir las sesiones de Cabildo, t
 
 IV. CELEBRAR A NOMBRE DEL AYUNTAMIENTO Y POR ACUERDO DE ÉSTE LOS ACTOS Y CONTRATOS NECESARIOS PARA EL DESPACHO DE LOS NEGOCIOS ADMINISTRATIVOS Y LA ATENCIÓN DE LOS SERVICIOS PÚBLICOS MUNICIPALES, SALVO LOS CONVENIOS CUYA CELEBRACIÓN CORRESPONDE DIRECTAMENTE AL AYUNTAMIENTO EN LOS TÉRMINOS DE ESTA LEY. ADEMÁS, ESTABLECER LAS MEDIDAS FINANCIERAS, LEGALES Y OPERATIVAS NECESARIAS QUE APOYEN Y GARANTICEN LA INDEPENDENCIA TÉCNICA DE LA CONTRALORÍA INTERNA;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2022)</small>
 
-V. Proponer al Ayuntamiento en la primera sesión de Cabildo, los nombramientos de la o el Secretario, de la o el Tesorero, de la o el Contralor, de las o los titulares de las unidades, investigadora; y substanciadora, de la o el Oficial Mayor, y las delegadas o delegados, en su caso. La propuesta que presente la o el Presidente Municipal será sometida a la aprobación del Cabildo; de no acordarse procedente, la o el Presidente Municipal presentará en la misma sesión una terna de candidatos para cada puesto, de entre los cuales el Cabildo hará la designación respectiva; si dicho cuerpo colegiado no acordare favorablemente o negare en su caso la propuesta de los candidatos, el Presidente Municipal expedirá inmediatamente el nombramiento en favor de cualquiera de los integrantes de la terna propuesta para cada cargo.
+V. Proponer al ayuntamiento en la primera sesión de Cabildo, los nombramientos de personas titulares de la Secretaría, Tesorería, Oficialía Mayor, y delegaciones municipales; Contraloría Interna, así como de las unidades, investigadora, y substanciadora.
 
-En el nombramiento de la o el secretario; la o el tesorero; la o el contralor interno; la o el oficial mayor; delegadas o delegados, en su caso, el cabildo deberá observar que se cumplan de manera satisfactoria e íntegra los requisitos establecidos en los artículos, 77, 80, 83, 85 BIS, y 95, respectivamente, de este Ordenamiento;
+La propuesta que presente la persona titular de la Presidencia Municipal será sometida a la aprobación del Cabildo; de no acordarse procedente, la o el Presidente Municipal presentará en la misma sesión una terna de personas candidatas para cada puesto, de entre los cuales el Cabildo hará la designación respectiva; si dicho cuerpo colegiado no acordare favorablemente o negare en su caso la propuesta de las personas candidatas, la o el Presidente Municipal expedirá inmediatamente el nombramiento en favor de cualquiera de las personas integrantes de la terna propuesta para cada cargo.
+
+En el nombramiento de las y los servidores públicos a los que se refiere el párrafo primero de esta fracción, el cabildo deberá observar que se cumplan de manera satisfactoria e íntegra los requisitos establecidos en los artículos, 19, 77, 79, 80, 82, 83, 85 BIS, 86 BIS, y 95, respectivamente, de este Ordenamiento;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3400,3 +3400,13 @@ P.O. 2 DE DICIEMBRE DE 2021.
 PRIMERO. Este Decreto entrará en vigor al inicio de la vigencia de la Ley de las Juntas de Participación Ciudadana del Estado de San Luis Potosí, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0392.- SE EXPIDE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA Y DEROGA LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA Y ADICIONA LA LEY DE JUSTICIA ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ Y, SE ADICIONA EL ARANCEL DE NOTARIOS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los nombramientos de las y los servidores públicos a los que se refiere el artículo 19 de la Ley Orgánica del Municipios Libre del Estado de San Luis Potosí, continuarán vigentes, una vez publicado el presente Decreto
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
