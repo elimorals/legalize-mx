@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-estudios-judiciales-149770
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-06-09"
-last_updated: "2022-02-17"
+last_updated: "2022-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149770&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,11 @@ issue_date: "2021-05-12"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 614 DE FECHA 9 DE JUNIO DE 2021.]</small>
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://www.poderjudicialcdmx.gob.mx/otros/descarga.php?arv=121/DEP/T01-2021/Reglamentointeriordelconsejodelajudicatura.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 29 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE SEPTIEMBRE DE 2022 (DEROGADO).
 
 Reglamento publicado en el Número 614 de la Gaceta Oficial de la Ciudad de México, el miércoles 9 de junio 2021. (REPUBLICADO EN LA G.O. 17 DE FEBRERO DE 2022).
 
@@ -441,3 +439,29 @@ Institutodeestudiosjudiciales
 Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Judicial y, para su mayor difusión, será publicado en el Portal de Internet del Poder Judicial de la Ciudad de México.
 
 Segundo.- Se deroga el Reglamento Interior del Instituto de Estudios Judiciales del Tribunal Superior de Justicia de la Ciudad de México, aprobado por el Consejo de la Judicatura de la Ciudad de México, mediante Acuerdo General 34-27/2018 de fecha 21 de junio de 2018; así como todas aquellas disposiciones administrativas internas que se opongan al presente Acuerdo.”
+
+G.O. 29 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 38-21/2022, EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO, EN SESIÓN DE FECHA DIEZ DE JUNIO DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECE EL REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS JUDICIALES DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Circular_CJCDMX_25_2022.pdf]</small>
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Poder Judicial de la Ciudad de México y, para su mayor difusión, será publicado en el Portal de Internet del Poder Judicial de la Ciudad de México, así como en la Gaceta Oficial de la Ciudad de México, a través del enlace al documento electrónico correspondiente.
+
+Segundo.- Se deroga el Reglamento Interior del Instituto de Estudios Judiciales del Consejo de la Judicatura de la Ciudad de México, aprobado por el Consejo de la Judicatura de la Ciudad de México, mediante Acuerdo General 11-18/2021 de fecha veintisiete de abril de dos mil veintiuno; así como todas aquellas disposiciones administrativas internas que se opongan al presente Reglamento.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL "AVISO PARA PUBLICACIÓN DE LAS LIGAS DE CONSULTA, DE LAS CIRCULARES CJCDMX-23/2022, CJCDMX-24/2022, Y CJCDMX-25/2022”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+De conformidad con lo establecido en el artículo 217, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Ciudad de México, y en cumplimiento a lo ordenado en Acuerdos Generales 38-21/2022, 39-21/2022 y 40-21/2022 emitido por el Pleno del Consejo de la Judicatura de la Ciudad de México, en sesión ordinaria celebrada el día diez de junio del año dos mil veintidós; se hace del conocimiento de las y los servidores públicos del Poder Judicial de la Ciudad de México, litigantes y público en general que, este órgano colegido determinó autorizar la publicación de los acuerdos de mérito, que se indican a continuación:
+
+[…]
+
+-Acuerdo General 40-21/2022, de fecha diez de junio de dos mil veintidós.
+
+Se aprobó el "Reglamento Académico del Instituto de Estudios Judiciales del Tribunal Superior de Justicia de la Ciudad de México".
+
+CIRCULAR CJCDMX-25/2022, de fecha uno de agosto de dos mil veintidós.
+
+La cual puede ser consultada en la siguiente liga:
+
+https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Circular_CJCDMX_25_2022.pdf
