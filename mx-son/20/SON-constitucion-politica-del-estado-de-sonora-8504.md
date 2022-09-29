@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2022-04-20"
+last_updated: "2022-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE SEPTIEMBRE DE 2022.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -2041,11 +2041,11 @@ Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agen
 
 Poder Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 112.
 
-El Poder Judicial se depositará, para su ejercicio, en un Supremo Tribunal de Justicia, en Tribunales Regionales de Circuito, en Juzgados de Primera Instancia y en Juzgados Locales. Existirá, además, el Consejo del Poder Judicial del Estado de Sonora, como un órgano permanente de la administración de la justicia.
+El Poder Judicial se depositará, para su ejercicio, en un Supremo Tribunal de Justicia, en Tribunales Regionales de Circuito, en Juzgados de Primera Instancia, Tribunales Laborales y en Juzgados Locales. Existirá, además, el Consejo del Poder Judicial del Estado de Sonora, como un órgano permanente de la administración de la justicia.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
 
@@ -2105,15 +2105,17 @@ El cargo de Magistrado del Supremo Tribunal de Justicia solamente es renunciable
 
 Las licencias de los Magistrados del Supremo Tribunal de Justicia, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Supremo Tribunal de Justicia; las que excedan de ese tiempo podrán concederse por la Legislatura local y, en sus recesos, por la Diputación Permanente. Ninguna licencia podrá exceder del término de dos años.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 117.
 
-La competencia del Supremo Tribunal de Justicia, su funcionamiento en Pleno, Salas o Comisiones, la competencia de los Tribunales Regionales de Circuito y la de los Juzgados de Primera Instancia y Locales, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes.
+La competencia del Supremo Tribunal de Justicia, su funcionamiento en Pleno, Salas o Comisiones, la competencia de los Tribunales Regionales de Circuito, la de los Juzgados de Primera Instancia, la de los Tribunales Laborales y Juzgados Locales, así como las responsabilidades en que incurran los servidores públicos del Poder Judicial del Estado, se regirán por lo que dispongan las leyes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
-El Supremo Tribunal de Justicia, funcionando en Pleno, determinará el número, división en circuitos, jurisdicción territorial y, en su caso, especialización por materia, de los Tribunales Regionales de Circuito y de los Juzgados de Primera Instancia.
+El Supremo Tribunal de Justicia, funcionando en Pleno, determinará el número, división en circuitos, jurisdicción territorial y, en su caso, especialización por materia, de los Tribunales Regionales de Circuito, de los Juzgados de Primera Instancia y de los Tribunales Laborales.
+
+> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
 Asimismo, el Pleno elegirá de entre sus miembros, en los plazos que determine la ley, al Presidente del Supremo Tribunal de Justicia, el cual no podrá ser reelecto para el período inmediato posterior, salvo que se trate de una suplencia; en cuyo caso el suplente sí podrá ser reelecto.
 
@@ -2181,15 +2183,17 @@ El Presidente del Supremo Tribunal de Justicia y del Consejo elaborará los ante
 
 Una vez aprobado por el Pleno del Supremo Tribunal de Justicia el proyecto del presupuesto anual de egresos del Poder Judicial del Estado, el Presidente de aquél lo remitirá al Gobernador del Estado exclusivamente para los efectos previstos en el artículo 79, fracción VII, de esta Constitución, e igualmente deberá enviar una copia del mismo al Congreso del Estado.
 
-El Consejo del Poder Judicial del Estado de Sonora resolverá sobre la designación y adscripción de Magistrados Regionales de Circuito y Jueces de Primera Instancia, así como de los demás asuntos que la ley determine.
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+El Consejo del Poder Judicial del Estado de Sonora resolverá sobre la designación y adscripción de Magistrados Regionales de Circuito, Jueces de Primera Instancia y Jueces Laborales, así como de los demás asuntos que la ley determine.
 
 Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede recurso alguno en contra de las mismas, salvo las que se refieran a acuerdos generales, a la designación, adscripción y ratificación de Magistrados de los Tribunales Regionales y Jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, por lo que podrá confirmarlas, modificarlas o revocarlas. Para el caso de revocación, se requerirá la aprobación por mayoría de cuando menos las dos terceras partes del total de los integrantes del mismo Pleno. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
 
-> <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 121.
 
-Los Magistrados de los Tribunales Regionales de Circuito y los Jueces de Primera Instancia serán nombrados y adscritos por el Consejo del Poder Judicial del Estado de Sonora, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que señalen los ordenamientos jurídicos respectivos; durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, continuarán en el desempeño de sus funciones por diez años más, sin perjuicio de que puedan ser privados de sus cargos, en cualquier momento, en los casos y conforme a los procedimientos que establezca la ley.
+Los Magistrados de los Tribunales Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Laborales serán nombrados y adscritos por el Consejo del Poder Judicial del Estado de Sonora, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que señalen los ordenamientos jurídicos respectivos; durarán cinco años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, continuarán en el desempeño de sus funciones por diez años más, sin perjuicio de que puedan ser privados de sus cargos, en cualquier momento, en los casos y conforme a los procedimientos que establezca la ley.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -2197,15 +2201,17 @@ Los Magistrados de los Tribunales Regionales de Circuito y los Jueces de Primera
 
 El Pleno del Supremo Tribunal de Justicia nombrará al Secretario General de Acuerdos del Supremo Tribunal de Justicia y a los demás funcionarios y empleados de su adscripción.
 
-Los Magistrados Regionales de Circuito y los Jueces de Primera Instancia nombrarán a los servidores públicos de los Tribunales Regionales de Circuito y Juzgados de Primera Instancia, respectivamente, conforme a lo que establezca la ley en relación con la carrera judicial.
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+Los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Laborales nombrarán a los servidores públicos de los Tribunales Regionales de Circuito, Juzgados de Primera Instancia y Tribunales Laborales, respectivamente, conforme a lo que establezca la ley en relación con la carrera judicial.
 
 Artículo 122 A. (DEROGADO, B.O. 11 DE NOVIEMBRE DE 1996)
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 123.
 
-Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Locales que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto de los suplentes, no pueden ser abogados en causa ajena, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras entidades, de los municipios, o de particulares, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas, siempre y cuando estos últimos no interfieran con el horario normal de las labores judiciales.
+Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia, los Jueces Laborales y los Jueces Locales que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto de los suplentes, no pueden ser abogados en causa ajena, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras entidades, de los municipios, o de particulares, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas, siempre y cuando estos últimos no interfieran con el horario normal de las labores judiciales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 19 DE JUNIO DE 2014)</small>
 
@@ -2219,11 +2225,13 @@ La Ley establecerá las bases para la formación y actualización de funcionario
 
 Para ser Magistrado Regional de Circuito deberán reunirse los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia; además de observar lo que prevenga la ley de la materia para la carrera judicial.
 
-> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 126.
 
-Para ser Juez de Primera Instancia se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
+Para ser Juez de Primera Instancia y Juez Laboral, se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente, un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
+
+Adicionalmente, para ser Juez laboral se requerirá tener capacidad y experiencia en la materia.
 
 > <small>(REFORMADO, B.O. 19 DE JUNIO DE 2014)</small>
 
@@ -2695,9 +2703,9 @@ El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores P
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
-Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados de cualquier órgano jurisdiccional o administrativo, el Fiscal General de Justicia y los Fiscales Especializados, los secretarios y subsecretarios, los jueces de primera instancia, los agentes del ministerio público, quienes presidan los tribunales de Conciliación y Arbitraje, los consejeros estatales electorales, el secretario del Instituto Estatal Electoral y de Participación Ciudadana, los magistrados y secretario general del Tribunal Estatal Electoral, los comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
+Solo podrán ser sujetos a juicio político, los diputados al Congreso del Estado, los magistrados del Supremo Tribunal de Justicia, los magistrados de cualquier órgano jurisdiccional o administrativo, el Fiscal General de Justicia y los Fiscales Especializados, los secretarios y subsecretarios, los jueces de primera instancia, los jueces laborales, los agentes del ministerio público, quienes presidan los tribunales de Conciliación y Arbitraje, los consejeros estatales electorales, el secretario del Instituto Estatal Electoral y de Participación Ciudadana, los magistrados y secretario general del Tribunal Estatal Electoral, los comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, presidentes municipales, síndicos, regidores, secretarios y tesoreros de los Ayuntamientos, así como los directores generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -4324,3 +4332,13 @@ La duración y el procedimiento de designación que se establece en el artículo
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas las normas que se opongan al proceso de designación y disposiciones contenidas en el presente decreto.
+
+B.O. 29 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA "LEY NÚMERO 88, QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN MATERIA DE JUSTICIA LABORAL".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en caso de resultar aprobada la presente Ley por cuando menos la mitad más uno de los ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
