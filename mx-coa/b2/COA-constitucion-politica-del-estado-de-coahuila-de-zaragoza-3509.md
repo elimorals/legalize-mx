@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2022-08-19"
+last_updated: "2022-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,13 @@ state: "COA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]
+
+[NOTA 2: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTINUEVE DE SEPTIEMBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/]
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -928,6 +930,12 @@ g) El Instituto Electoral de Coahuila contará con una oficialía electoral inve
 
 6. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales y los relativos a plebiscitos y referendos, la ley establecerá un sistema de medios de impugnación del que conocerá el Tribunal Electoral del Estado de Coahuila de Zaragoza. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto reclamado. El Tribunal Electoral será órgano permanente, autónomo y máxima autoridad jurisdiccional electoral. Se integrará por tres Magistrados, que durarán en su encargo 7 años y cuya designación se realizará de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y las Leyes en la Materia.
 
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+EL TRIBUNAL ELECTORAL SERÁ, CON EXCEPCIÓN DE LO DISPUESTO EN LAS FRACCIONES I Y II DEL ARTÍCULO 158 DE ESTA CONSTITUCIÓN, LA MÁXIMA AUTORIDAD JURISDICCIONAL EN LA MATERIA Y ÓRGANO ESPECIALIZADO, EN LOS TÉRMINOS QUE ESTABLECE EL ARTÍCULO 136 DE ESTA CONSTITUCIÓN Y DEMÁS LEYES APLICABLES.
+
 7. La ley determinará las infracciones y responsabilidades en materia electoral; igualmente establecerá las conductas tipificadas como delitos electorales, así como las sanciones que deban imponerse en ambos casos.
 
 ###### Artículo 28.
@@ -984,23 +992,39 @@ Elección e Instalación.
 
 Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2010)</small>
-
-###### Artículo 33.
-
-El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con dieciséis diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con nueve diputados electos por el principio de representación proporcional, los cuales serán asignados en los términos que establezca la ley entre aquellos partidos políticos que obtengan cuando menos el 2% de la votación válida emitida en el Estado para la elección de Diputados.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE REFORMA ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 33.- El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con dieciséis diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con nueve diputados electos por el principio de representación proporcional, los cuales serán asignados en los términos que establezca la ley entre aquellos partidos políticos que obtengan cuando menos el 2% de la votación válida emitida en el Estado para la elección de Diputados.
 
 Por cada diputado propietario, deberá elegirse un suplente en los términos que establezca la ley. Las fórmulas para Diputados al Congreso del Estado que registren los Partidos Políticos, tanto en el caso de mayoría relativa, como de representación proporcional, estarán compuestas cada una por un Propietario y un Suplente ambos del mismo género. La Lista de Representación Proporcional de Diputados al Congreso del Estado, se integrarán alternando las fórmulas de distinto género para garantizar el principio de paridad hasta agotar la lista.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
 En el caso de candidatos de mayoría relativa al Congreso del Estado, y con objeto de garantizar la paridad de género, la mitad de los distritos se integrará con candidatos de un género diferente. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+En el caso de candidatos independientes que se registren para contender por el principio de mayoría relativa, la fórmula de propietario y suplente, deberá estar integrada por el mismo género.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-En el caso de candidatos independientes que se registren para contender por el principio de mayoría relativa, la fórmula de propietario y suplente, deberá estar integrada por el mismo género.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 33.
+
+El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con dieciséis diputaciones electas según el principio de mayoría relativa mediante el sistema de distritos electorales, y con once diputaciones electas por el principio de representación proporcional, los cuales serán asignados en los términos que establezca esta Constitución y la ley conforme a las bases siguientes:
+
+I. Para la elección de las nueve diputaciones de representación proporcional, se constituirá una circunscripción electoral cuya demarcación será el Estado.
+
+II. Para la elección de las dos diputaciones de representación proporcional reservadas para grupos en situación de vulnerabilidad, el Estado se dividirá en dos circunscripciones específicas. La primera se integrará con los distritos locales 1° al 8°; y, la segunda, con los distritos 9° al 16°. Los partidos políticos participarán de manera individual en la asignación de estas diputaciones y serán otorgadas exclusivamente a la ciudadanía que pertenezca a cualquier grupo en situación de vulnerabilidad.
+
+III. El sistema de representación proporcional de grupos históricamente vulnerados es paralelo al sistema de mayoría relativa y de representación proporcional que establece la ley, y serán electos de conformidad con el procedimiento previsto en ella.
+
+IV. Se entenderá por personas o grupos en situación de vulnerabilidad, aquellos que señale la Carta de Derechos Políticos del Estado de Coahuila y sus Protocolos, o cualquier otra situación de hecho que ubique a una persona o grupo en una posición vulnerable frente al resto de la población o que comprometa el ejercicio efectivo de sus derechos en igualdad de oportunidades con lo demás.
+
+V. Las fórmulas para diputaciones al Congreso del Estado que registren los partidos políticos, tanto en el caso de mayoría relativa, como de representación proporcional y de grupos en situación de vulnerabilidad, estarán compuestas por una persona propietaria y una suplente, ambas del mismo género, de conformidad con la regla de postulación prevista en la ley.
+
+VI. Las listas de diputaciones de representación proporcional y de grupos en situación de vulnerabilidad al Congreso del Estado deberán garantizar el principio de paridad en los términos que establece la ley electoral.
+
+VII. En el caso de candidaturas de mayoría relativa y con objeto de garantizar la paridad de género horizontal, la mitad de los distritos se integrará con candidaturas de un género diferente.
+
+VIII. En el caso de candidatos independientes que se registren para contender por el principio de mayoría relativa, la fórmula de propietario y suplente deberá estar integrada por el mismo género.
+
+La ley establecerá las condiciones, requisitos y límites para la asignación de este sistema de mayoría y de representación proporcional para asegurar el principio de pluralismo político.
+
+La postulación de candidaturas al Congreso del Estado deberá cumplir con los requisitos de competitividad y transversalidad para garantizar la paridad de género sustantiva en su integración, de conformidad con los bloques que establece la ley.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -1008,21 +1032,19 @@ En el caso de candidatos independientes que se registren para contender por el p
 
 La demarcación territorial de los dieciséis distritos electorales se determinará por la ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2010)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 35.- Para tener derecho a participar en la asignación de diputaciones de representación proporcional, los partidos políticos deberán satisfacer los requisitos que establezca la ley. Cubiertos los requisitos legales, las diputaciones serán distribuidas conforme a las fórmulas de asignación que determine la ley de la materia.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 35.
 
-Para tener derecho a participar en la asignación de diputaciones de representación proporcional, los partidos políticos deberán satisfacer los requisitos que establezca la ley. Cubiertos los requisitos legales, las diputaciones serán distribuidas conforme a las fórmulas de asignación que determine la ley de la materia.
+PARA TENER DERECHO A PARTICIPAR EN LA ASIGNACIÓN DE DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL Y ESPECÍFICA DE GRUPOS EN SITUACIÓN DE VULNERABILIDAD, LOS PARTIDOS POLÍTICOS DEBERÁN SATISFACER LOS REQUISITOS QUE ESTABLEZCA LA LEY. CUBIERTOS LOS REQUISITOS LEGALES, LAS DIPUTACIONES SERÁN DISTRIBUIDAS CONFORME A LAS FÓRMULAS DE ASIGNACIÓN QUE DETERMINE LA LEY DE LA MATERIA.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
-
-En todo caso, la elección de los diputados de representación proporcional se sujetará a los principios y bases siguientes:
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En todo caso, la elección de los diputados de representación proporcional se sujetará a los principios y bases siguientes:
 
 I. El pluralismo político como equilibrio de representación democrática en los términos que disponga esta Constitución y las leyes.
 
 II. Se constituirá una circunscripción electoral cuya demarcación será el Estado.
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
 
 III. El partido deberá registrar candidatos a diputados por mayoría relativa, en el número de distritos electorales que la ley señale.
 
@@ -1030,13 +1052,29 @@ IV. La ley establecerá las fórmulas, reglas, porcentajes específicos, rondas 
 
 V. El orden de asignación de los candidatos que aparezcan en las listas o fórmulas de representación proporcional.
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+VI. El tope máximo de Diputados que puede alcanzar un partido por ambos principios, no excederá de dieciséis Diputados en los términos que disponga la ley.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-VI. El tope máximo de Diputados que puede alcanzar un partido por ambos principios, no excederá de dieciséis Diputados en los términos que disponga la ley.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+EN TODO CASO, LA ELECCIÓN DE LAS DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL SE SUJETARÁ A LOS PRINCIPIOS Y BASES SIGUIENTES:
 
-En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida.
+I. EL PLURALISMO POLÍTICO COMO EQUILIBRIO DE REPRESENTACIÓN DEMOCRÁTICA EN LOS TÉRMINOS QUE DISPONGA ESTA CONSTITUCIÓN Y LAS LEYES.
+
+II. PARA LA ELECCIÓN DE NUEVE DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL, SE CONSTITUIRÁ UNA CIRCUNSCRIPCIÓN ELECTORAL CUYA DEMARCACIÓN SERÁ EL ESTADO.
+
+III. PARA LA ELECCIÓN DE LAS DOS DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL PARA GRUPOS EN SITUACIÓN DE VULNERABILIDAD, SE DIVIDIRÁ EL ESTADO EN DOS CIRCUNSCRIPCIONES ESPECÍFICAS DE CONFORMIDAD CON LO QUE ESTABLECE EL ARTÍCULO 33 DE LA CONSTITUCIÓN.
+
+IV. EL PARTIDO DEBERÁ REGISTRAR CANDIDATURAS A DIPUTACIONES POR MAYORÍA RELATIVA, EN EL NÚMERO DE DISTRITOS ELECTORALES QUE LA LEY SEÑALE.
+
+V. LA LEY ESTABLECERÁ LAS FÓRMULAS, REGLAS, PORCENTAJES ESPECÍFICOS, RONDAS DE ASIGNACIÓN, REQUISITOS Y DEMÁS PROCEDIMIENTOS PARA LA ASIGNACIÓN DE LAS DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL Y DE GRUPO (SIC) EN SITUACIÓN DE VULNERABILIDAD.
+
+VI. EL TOPE MÁXIMO DE DIPUTACIONES QUE PUEDE ALCANZAR UN PARTIDO POR AMBOS PRINCIPIOS NO EXCEDERÁ DE DIECISIETE DIPUTACIONES EN LOS TÉRMINOS QUE DISPONGA LA LEY.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+EN NINGÚN CASO, UN PARTIDO POLÍTICO PODRÁ CONTAR CON UN NÚMERO DE DIPUTACIONES POR AMBOS PRINCIPIOS QUE REPRESENTEN UN PORCENTAJE DEL TOTAL DE LA LEGISLATURA QUE EXCEDA EN OCHO PUNTOS SU PORCENTAJE DE VOTACIÓN EMITIDA.
 
 > <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1045,6 +1083,12 @@ Esta base no se aplicará al partido político que por sus triunfos en distritos
 > <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE ADICIONA EL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE COAHUILA DEBERÁ VERIFICAR LOS LÍMITES REFERIDOS AL CONCLUIR LA ASIGNACIÓN DE DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL DE GRUPOS EN SITUACIÓN DE VULNERABILIDAD Y PODRÁ REALIZAR LAS SUSTITUCIONES Y AJUSTES AL ORDEN DE PRELACIÓN DE LAS LISTAS DE CANDIDATURAS DE LOS PARTIDOS POLÍTICOS PARA GARANTIZAR LA PARIDAD DE GÉNERO EN LA INTEGRACIÓN DEL ÓRGANO LEGISLATIVO.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 1994)</small>
 
@@ -1820,9 +1864,11 @@ III. Ser coahuilense por nacimiento o tener una residencia efectiva en el Estado
 
 IV. No encontrarse en el supuesto a que se refiere el segundo párrafo del artículo 30 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE REFORMA LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “V. No ser secretario de la administración pública estatal, magistrado del Poder Judicial, presidente municipal, síndico o regidor, consejero o integrante del órgano de dirección de los organismos públicos autónomos, magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, Fiscal General del Estado, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-V. No ser secretario de la administración pública estatal, magistrado del Poder Judicial, presidente municipal, síndico o regidor, consejero o integrante del órgano de dirección de los organismos públicos autónomos, magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, Fiscal General del Estado, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+V. NO SER SECRETARIO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, MAGISTRADO DEL PODER JUDICIAL, PRESIDENTE MUNICIPAL, SÍNDICO O REGIDOR, CONSEJERO O INTEGRANTE DEL ÓRGANO DE DIRECCIÓN DE LOS ORGANISMOS PÚBLICOS AUTÓNOMOS, MAGISTRADO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE COAHUILA DE ZARAGOZA, FISCAL GENERAL DEL ESTADO, TITULARES DE LOS ORGANISMOS DESCENTRALIZADOS, MIEMBRO DE LOS ÓRGANOS DIRECTIVOS Y TÉCNICOS O INTEGRANTE DEL CUERPO DEL SERVICIO PROFESIONAL ELECTORAL DEL INSTITUTO, NI SECRETARIO DEL TRIBUNAL ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA, SALVO QUE SE SEPARE DE SU ENCARGO EN LOS TÉRMINOS QUE SEÑALE LA LEGISLACIÓN REGLAMENTARIA.
 
 VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
 
@@ -1835,6 +1881,12 @@ VII. No haber sido condenado en juicio por robo, fraude, abuso de confianza, fal
 ###### Artículo 77.
 
 La elección de Gobernador será directa y en los términos que señale la Ley de la materia. El Gobernador del Estado tomará posesión el día primero de diciembre posterior a la elección, y no podrá durar en el cargo más de seis años.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 POR EL QUE SE ADICIONA EL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+LA POSTULACIÓN DE CANDIDATURAS A LA GUBERNATURA DEL ESTADO SE SUJETARÁ A LOS CRITERIOS DE COMPETITIVIDAD QUE ESTABLEZCA LA LEY.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -6019,3 +6071,29 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTINUEVE DE SEPTIEMBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 29 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 270.- SE REFORMA EL SEGUNDO PÁRRAFO DEL NUMERAL 6 DEL ARTÍCULO 27, EL ARTÍCULO 33, LOS PÁRRAFOS PRIMERO, SEGUNDO INCLUYENDO SUS FRACCIONES Y TERCERO DEL ARTÍCULO 35 Y LA FRACCIÓN V DEL ARTÍCULO 76; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 35, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 77, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La renovación del Congreso del Estado para la elección del 2023 se regirá conforme a las bases previstas en los artículos 33 y 35 de la Constitución Local.
+
+Para la composición de las circunscripciones de mayoría relativa a que refiere el artículo 33 de la Constitución del Estado, el Instituto Electoral de Coahuila deberá estar a lo dispuesto por el Instituto Nacional Electoral en el proceso de redistritación 2022 y, en su caso, sus equivalencias que se establezcan conforme a la ley.
+
+Los partidos políticos deberán cumplir con la postulación paritaria en las candidaturas de mayoría o de representación proporcional para renovar el Congreso del Estado que establezca la ley, para asegurar su cumplimiento para el siguiente proceso electoral del 2023.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado deberá realizar las adecuaciones a las leyes secundarias que resulten necesarias dentro de los 90 días antes de inicio del proceso electoral del 2023, para asegurar el principio de certeza electoral.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
