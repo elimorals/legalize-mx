@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2022-06-13"
+last_updated: "2022-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -781,11 +781,11 @@ II.- (DEROGADA, P.O. 11 DE MARZO DE 2016)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
-IV.- Un certificado suscrito por un médico, que asegure, bajo protesta de decir verdad, que los pretendientes, no padecen enfermedad alguna crónica e incurable que sea además contagiosa; ni que sean adictos a las drogas enervantes.
+IV.- Un certificado médico, a fin de que las personas pretendientes tengan pleno conocimiento del estado de salud de la otra persona pretendiente. De encontrarse enferma una o ambas personas contrayentes, el certificado médico deberá contener los alcances, efectos, sí existe algún riesgo y las medidas para la prevención de la enfermedad, de tal manera que las personas estén debidamente informadas para tomar su decisión.
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios oficiales de salud del Estado.
+Para las personas en situación de calle tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios oficiales de salud del Estado.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
@@ -1323,9 +1323,7 @@ VI.- El atentado contra la vida de alguno de los casados para contraer matrimoni
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
-
-VIII.- La impotencia incurable para la cópula y las enfermedades crónicas e incurables que sean además, contagiosas;
+VIII.- (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2022)
 
 > <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
 
@@ -10063,6 +10061,14 @@ Sí el valor de los muebles excede de doscientos pesos, pero no de cinco mil, la
 
 La donación de bienes raíces se hará en la misma forma que para su venta exige la ley.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+Cuando la o las personas donantes cuenten con la edad de 60 años o más, la persona titular de la Notaría Pública que expida el instrumento público que contenga el contrato de donación, estará obligada a informar a la persona donante la posibilidad de incluir la cláusula de usufructo a su favor sobre los bienes otorgados a los donatarios.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+La persona donante podrá revocar la donación por ingratitud, en los términos del Capítulo III, Título Cuarto, de la Segunda Parte del Libro Tercero del presente Código.
+
 ###### Artículo 1718.
 
 La aceptación de las donaciones se hará en la misma forma en que éstas deban hacerse, pero no surtirá efecto si no se hiciere en vida del donante.
@@ -16656,3 +16662,11 @@ P.O. 13 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE GOBIERNO DIGITAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 29 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE USUFRUCTO VITALICIO PARA PERSONAS ADULTAS MAYORES Y REQUISITOS PARA CONTRAER MATRIMONIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Remítase de manera electrónica el resolutivo a la Dirección del Registro Civil del Gobierno del Estado de Nayarit y a los registros civiles de los veinte Ayuntamientos del Estado; así como al Colegio de Notarios del Estado de Nayarit para su conocimiento.
