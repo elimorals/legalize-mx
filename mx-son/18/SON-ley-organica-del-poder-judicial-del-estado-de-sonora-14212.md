@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2022-03-08"
+last_updated: "2022-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -203,9 +203,9 @@ XII.- Determinar el número y los distritos judiciales que comprenderán cada un
 
 XIII.- Determinar el número de los Tribunales Regionales de Circuito que existirán en cada uno de los circuitos;
 
-> <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
-XIV.- Determinar el número y, en su caso, la especialización por materia de los Juzgados de Primera Instancia y de los Tribunales Laborales, que existirán en cada uno de los distritos judiciales;
+XIV.- Determinar el número y, en su caso, la especialización por materia de los Juzgados de Primera Instancia y de los Tribunales Laborales, que existirán en cada uno de los distritos judiciales, así como determinar el número de jueces que podrán integrarlos;
 
 > <small>(REFORMADA, B.O. 8 DE MARZO DE 2022)</small>
 
@@ -429,11 +429,13 @@ c).- De los recursos de revisión interpuestos contra las sentencias definitivas
 
 II.- En materia civil:
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
-a) De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de primera instancia en materia civil y mercantil, en asuntos cuya cuantía exceda de doce mil Unidades de Medida y Actualización, al momento de interponerse el recurso;
+a).- De los recursos de apelación que se interpongan en contra de las resoluciones de los jueces de primera instancia en materia civil y mercantil, en asuntos cuya cuantía exceda de cuarenta mil Unidades de Medida y Actualización, al momento de interponerse el recurso;
 
-b).- De los recursos de apelación interpuestos en controversias sobre acciones del estado civil o las que afecten al orden y la estabilidad de la familia, con excepción de los juicios sobre alimentos, divorcios y de las apelaciones y revisiones oficiosas de juicios de rectificación de actas del estado civil;
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+b).- De los recursos de apelación interpuestos en controversias sobre acciones del estado civil o las que afecten al orden y la estabilidad de la familia, con excepción de los juicios sobre alimentos, divorcios y de las apelaciones y revisiones oficiosas de juicios de rectificación de actas del estado civil, de nulidad de matrimonio y de paternidad y filiación.
 
 c).- De los recursos de queja interpuestos en asuntos de los comprendidos en los dos incisos anteriores; y
 
@@ -629,11 +631,13 @@ d).- De los demás asuntos que expresamente les señalen las leyes.
 
 II.- En materia civil:
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
-a) De los recursos de apelación que se interpongan en contra de resoluciones de los jueces de primera instancia, en asuntos cuya cuantía sea igual o inferior a doce mil Unidades de Medida y Actualización al momento de interponerse el recurso, y en los asuntos de cuantía indeterminada;
+a).- De los recursos de apelación que se interpongan en contra de resoluciones de los jueces de primera instancia, en asuntos cuya cuantía sea igual o inferior a cuarenta mil Unidades de Medida y Actualización al momento de interponerse el recurso, y en los asuntos de cuantía indeterminada;
 
-b).- De los recursos de apelación interpuestos contra resoluciones dictadas en los juicios de divorcio, alimentos y de las apelaciones y revisiones oficiosas en materia de juicios de rectificación de actas del estado civil;
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+b).- De los recursos de apelación interpuestos contra resoluciones dictadas en los juicios de divorcio, alimentos y de las apelaciones y revisiones oficiosas en materia de juicios de rectificación de actas del estado civil, de nulidad de matrimonio y paternidad y filiación;
 
 c).- De los recursos de queja interpuestos en asuntos de los comprendidos en los incisos anteriores;
 
@@ -907,11 +911,15 @@ Los Juzgados a que se refieren las fracciones I, II, V y VIII, podrán conocer d
 
 Además, el Supremo Tribunal podrá crear juzgados de primera instancia supernumerarios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 57.
 
-Los Juzgados de Primera Instancia a que se refiere el artículo anterior, se compondrán de un Juez y del número de secretarios, actuarios y empleados que determine el presupuesto.
+Los Juzgados de Primera Instancia a que se refiere el artículo anterior, se compondrán de un Juez o de varios Jueces, y del número de secretarios, actuarios y empleados que determine el presupuesto.
+
+> <small>(ADICIONADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+En caso de integrarse por varios Jueces, éstos compartirán determinado personal común, y cada titular tendrá el personal exclusivo para un óptimo desarrollo del servicio de impartición de justicia, adoptando un modelo de gestión que mediante acuerdo general reglamente el Pleno del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
 
@@ -1289,17 +1297,15 @@ Los Juzgados Supernumerarios podrán ser mixtos o especializados por materia; se
 
 Lo relativo a jurisdicción, nombramientos, atribuciones, deberes, sistemas de suplencia y demás circunstancias que previene la presente ley para los Jueces de Primera Instancia, serán aplicables para los Jueces de Primera Instancia Supernumerarios, con excepción de lo relativo al periodo de nombramiento, el cual será por el tiempo que determine el Supremo Tribunal de Justicia.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
-### CAPITULO QUINTO BIS. DE LA TRANSFORMACION TEMPORAL DE JUZGADOS DE PRIMERA INSTANCIA
+### CAPITULO QUINTO BIS. DE LA TRANSFORMACIÓN TEMPORAL O DEFINITIVA DE JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+ARTICULO 69 BIS.- El Pleno del Supremo Tribunal de Justicia tiene la facultad de acordar la transformación temporal o definitiva de cualquier Juzgado en Juzgado “A” y Juzgado “B”, conservando ambos la denominación del órgano jurisdiccional de origen, para atender la carga de trabajo excesiva o problemas de rezago. En el acuerdo de transformación se establecerán los lineamientos relativos a las atribuciones de sus titulares, la infraestructura del personal, mobiliario e informática que compartirán y el personal jurisdiccional que se distribuirá para quedar una parte bajo las órdenes del titular de la adscripción y otra parte bajo las órdenes del Juez a quien se adscribirá al órgano transformado.
 
-ARTICULO 69 BIS.- El Supremo Tribunal de Justicia tiene la facultad de acordar la transformación temporal de cualquier Juzgado de primera instancia en Juzgado de primera instancia "A" y Juzgado de primera instancia "B", conservando ambos la denominación del órgano jurisdiccional de origen, para atender la carga de trabajo excesiva o problemas de rezago. En el acuerdo de transformación temporal de juzgados se establecerán los lineamientos relativos a las atribuciones de sus titulares, la infraestructura del personal, mobiliario e informática que compartirán y el personal jurisdiccional que se distribuirá para quedar una parte bajo las órdenes del titular de la adscripción y otra parte bajo las órdenes del Juez a quien se adscribirá en forma temporal.
-
-> <small>(ADICIONADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
+El Supremo Tribunal de Justicia podrá determinar que la transformación temporal que tenga cualquier juzgado se convierta en definitiva.
 
 Asimismo, se establecerán los lineamientos para la distribución y atención de los expedientes de los que conozca el órgano jurisdiccional de origen y los que ingresen a los órganos “A” y “B” que se establezcan.
 
@@ -1341,13 +1347,13 @@ ARTICULO 70 BIS.- Los Secretarios Instructores de los Tribunales Laborales, adem
 
 ### CAPITULO SEPTIMO. DEL SISTEMA DE SUPLENCIAS EN LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 71.
 
-Cuando un Juez de Primera Instancia falte por un término menor de treinta días al despacho del Juzgado, el primer Secretario o, en su caso, el Secretario del Ramo Civil, practicará las diligencias y dictará los autos de mero trámite y las resoluciones de carácter urgente, sin perjuicio de que antes de que transcurra dicho plazo, el Pleno del Supremo Tribunal de Justicia designe provisionalmente a la persona que sustituya al Juez de que se trate.
+Cuando un Juez de Primera Instancia o Juez Laboral falte por un término menor de treinta días al despacho del Juzgado, el primer Secretario o, en su caso, el Secretario del Ramo Civil, practicará las diligencias y dictará los autos de mero trámite y las resoluciones de carácter urgente, sin perjuicio de que antes de que transcurra dicho plazo, el Pleno del Supremo Tribunal de Justicia designe provisionalmente a la persona que substituya al Juez de que se trate.
+
+En los casos de transformación de juzgados de primera instancia en Juzgado “A” y Juzgado “B”, así como en los supuestos de juzgados de primera instancia con pluralidad de Juezas o Jueces, la falta o ausencia de una Jueza o un Juez, será suplida conforme a lo establecido en los acuerdos generales del Pleno que regule su creación o en su defecto, al tenor de lo previsto en el párrafo anterior.
 
 Las ausencias de los Jueces de Primera Instancia mayores de un mes y las faltas absolutas de éstos, se cubrirán con la persona que, provisionalmente, designe el Pleno del Supremo Tribunal de Justicia.
 
@@ -1365,11 +1371,21 @@ En caso de impedimento legal de un Juez de Primera Instancia en los lugares dond
 
 Cuando el impedimento legal sea respecto de un Juez Especializado en Justicia para Adolescentes, no será aplicable la última parte del párrafo que antecede y el asunto de que se trate pasará a otro Juez que tenga competencia para conocer de dicha materia, del Distrito Judicial más próximo.
 
-> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+En los casos de transformación de juzgados de primera instancia en Juzgado “A” y Juzgado “B”, en el supuesto de impedimento de uno de los jueces, el negocio pasará a la Jueza o al Juez no impedido del mismo juzgado; y si ambos titulares estuvieren impedidos, se aplicará lo dispuesto en el primer párrafo. Lo mismo se aplicará cuando se trate de juzgados o tribunales laborales creados con dos juezas o jueces.
+
+> <small>(ADICIONADO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
+
+Los juzgados de primera instancia o Tribunales Laborales, creados con más de dos Juezas o Jueces, ante el impedimento de una Jueza o un Juez, el negocio pasará a la Jueza o al Juez que tenga mayor antigüedad en su adscripción en el tribunal de que se trate, y si tienen igual antigüedad, al que tenga mayor tiempo con nombramiento como Jueza o Juez, y así sucesivamente al siguiente si ésta o éste también estuvieran impedidos; y en su caso de que todos lo estén, pasará a otro Juzgado del mismo ramo no impedido o, en su defecto, a los de ramo distinto, salvo que se trate de jueces laborales, en cuyo caso aplicará lo previsto en el párrafo primero del artículo 74 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 74.
 
-En los mismos casos del primer párrafo del artículo anterior, si sólo existiera un Juez de Primera Instancia o todos ellos tuvieren que eximirse, conocerá del negocio el Juez de la misma categoría y del ramo que corresponda, del Distrito Judicial más próximo.
+En los mismos casos de los párrafos primero, segundo y tercero del artículo 73, si sólo existiera una Jueza o un Juez, o un Juzgado de Primera Instancia, o un Tribunal Laboral, y todos los titulares tuvieren que eximirse, conocerá del negocio la Jueza o el Juez de la misma categoría y del ramo que corresponda, del Distrito Judicial más próximo.
+
+> <small>(REFORMADO, B.O. 14 DE SEPTIEMBRE DE 2006)</small>
 
 En los lugares en donde sólo exista un Juez de Justicia para Adolescentes o más y todos ellos tuvieren que excusarse, se observará lo dispuesto por el segundo párrafo del precepto que antecede.
 
@@ -3042,3 +3058,11 @@ B.O. 8 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 23, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día que para tal efecto establezca la Legislatura, en la declaratoria de inicio de funciones de los Tribunales Laborales y Centros de Conciliación, todos del Estado de Sonora, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 29 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 70, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día de la entrada en vigor de la Ley número 88, que reforma y adiciona diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Sonora, en materia de Justicia Laboral, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
