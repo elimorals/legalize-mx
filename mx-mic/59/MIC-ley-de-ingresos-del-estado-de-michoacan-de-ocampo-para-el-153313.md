@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-15331
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-27"
-last_updated: "2022-06-30"
+last_updated: "2022-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2022
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Décima Tercera Sección al Número 33 del Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2021.
 
@@ -2301,9 +2301,9 @@ d) El 35 por ciento de honorarios referidos en esta ley, se determinarán y paga
 
 e) Por lo que corresponde a las tres primeras columnas (lado izquierdo) del Artículo 1° de esta Ley, la misma corresponde a la estructura de codificación considerada en el Clasificador por Rubro de Ingresos del Gobierno del Estado de Michoacán, el cual tiene su base en el Clasificador por Rubro de Ingresos, expedido por el Consejo Nacional de Armonización Contable. Por lo que la falta de continuidad en la numeración de la referida codificación, obedece a que alguna numeración se destina a los Ingresos de los Municipios y que no es aplicable al Estado;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE SEPTIEMBRE DE 2022)</small>
 
-f) Con motivo del Canje General de placas que se llevará a cabo durante el Ejercicio Fiscal del Año 2022, se hace del conocimiento a los propietarios de los vehículos de servicio público, particular y de motocicletas, que el plazo para llevar a cabo dicho canje, y todos aquellos pagos relacionados con la posesión de su vehículo de servicio público, particular y motocicleta, será de nueve meses, a partir del 1° de enero hasta el 30 de septiembre del año 2022.
+f) Con motivo del Canje General de placas que se llevará a cabo durante el ejercicio fiscal del año 2022, se hace del conocimiento a los propietarios de los vehículos de servicio público, particular y de motocicletas, que el plazo para llevar a cabo dicho canje, y todos aquellos pagos relacionados con la posesión de su vehículo de servicio público, particular y motocicleta, será de once meses con dieciséis días, a partir del 1° de enero hasta el 16 de diciembre del año 2022.
 
 El plazo referido en el párrafo inmediato anterior, tratándose de vehículos de transporte público, considera también todos aquellos derechos señalados en el Artículo 19 de esta Ley, relativos a los Derechos por Servicios de Transporte Público;
 
@@ -2374,3 +2374,9 @@ P.O. 30 DE JUNIO DE 2022.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes. Asimismo, notifíquese a las autoridades de tránsito estatales y municipales a efecto de que eviten actos de molestia a la ciudadanía durante el plazo y materia aprobados mediante este Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 200 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL INCISO F) DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2022".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
