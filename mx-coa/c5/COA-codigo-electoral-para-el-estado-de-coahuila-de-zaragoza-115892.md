@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-para-el-estado-de-coahuila-de-zaragoza-115892"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-01"
-last_updated: "2020-12-23"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "COA"
 ---
 # CODIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TREINTA DE SEPTIEMBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE OCTUBRE DE 2022 EN EL P.O. DEL ESTADO DE COAHUILA DE ZARAGOZA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el lunes 1 de agosto de 2016.
 
@@ -125,7 +129,11 @@ g) La relación entre el Instituto y el Instituto Nacional.
 
 1. Para el desempeño de sus funciones las autoridades electorales establecidas por la Constitución y este Código, contarán con el apoyo y colaboración de las autoridades estatales y municipales; asimismo, deberán solicitar la colaboración de las autoridades federales cuando ello sea necesario para el cumplimiento de sus atribuciones.
 
-2. Durante el tiempo que comprendan las precampañas y campañas electorales y hasta la conclusión de la jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, de cualquier ente público. La única excepción a lo anterior serán las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Dos semanas antes y durante todo el desarrollo de la jornada electoral, serán suspendidas todas las entregas derivadas de cualquier tipo de programa asistencial en el Estado.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “2. Durante el tiempo que comprendan las precampañas y campañas electorales y hasta la conclusión de la jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, de cualquier ente público. La única excepción a lo anterior serán las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia. Dos semanas antes y durante todo el desarrollo de la jornada electoral, serán suspendidas todas las entregas derivadas de cualquier tipo de programa asistencial en el Estado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+2. DURANTE EL TIEMPO QUE COMPRENDAN LAS CAMPAÑAS ELECTORALES Y HASTA LA CONCLUSIÓN DE LA JORNADA COMICIAL, DEBERÁ SUSPENDERSE LA DIFUSIÓN EN LOS MEDIOS DE COMUNICACIÓN SOCIAL DE TODA PROPAGANDA GUBERNAMENTAL, DE CUALQUIER ENTE PÚBLICO. LA ÚNICA EXCEPCIÓN A LO ANTERIOR SERÁN LAS RELATIVAS A SERVICIOS EDUCATIVOS Y DE SALUD, O LAS NECESARIAS PARA LA PROTECCIÓN CIVIL EN CASOS DE EMERGENCIA. DOS SEMANAS ANTES Y DURANTE TODO EL DESARROLLO DE LA JORNADA ELECTORAL, SERÁN SUSPENDIDAS TODAS LAS ENTREGAS DERIVADAS DE CUALQUIER TIPO DE PROGRAMA ASISTENCIAL EN EL ESTADO.
 
 3. La promoción de la participación ciudadana para el ejercicio del derecho al sufragio corresponde al Instituto, a los partidos políticos y sus candidatos. El Instituto emitirá las reglas a las que se sujetarán las campañas de promoción del voto que realicen otras organizaciones.
 
@@ -339,15 +347,51 @@ g) No estar condenada o condenado por el delito de violencia política contra la
 
 2. Los partidos políticos podrán registrar simultáneamente, en un mismo proceso electoral, a las candidaturas a diputaciones por mayoría relativa en la lista de representación proporcional.
 
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO TERCERO. AFECTACIÓN A LOS DERECHOS POLÍTICO-ELECTORALES POR VIOLENCIA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 11 BIS. Se determinará la inelegibilidad de cualquier persona a la que se le haya dictado una resolución o condena judicial definitiva en su contra por delito, infracción o declaración de cualquier tipo o modalidad de violencia contra una mujer en razón de género de las contempladas en la Ley General de Acceso de las Mujeres a una vida Libre de Violencia o la Ley de Acceso a las Mujeres a una Vida Libre de Violencia del Estado.
+
+La vigencia de la inelegibilidad durará:
+
+I. En materia electoral por el tiempo que se establezca en el Registro Nacional para personas Sancionadas por Violencia Política contra las Mujeres en Razón de Género.
+
+II. En materia penal por el tiempo que dure la extinción de la sanción penal, que no podrá ser menor a tres años.
+
+III. En materia familiar, civil o laboral, por tres años posteriores a que cause ejecutoria la sentencia o resolución judicial.
+
+La solicitud para declarar la inelegibilidad podrá ser presentada por cualquier persona a través de un Juicio Electoral o Juicio para la para la (sic) Protección de los Derechos Político-Electorales de la Ciudadanía ante el Tribunal Electoral, dentro del plazo establecido en la Ley de Medios de Impugnación, debiéndose garantizar el derecho de audiencia.
+
+Para tal efecto, el Tribunal deberá realizar las notificaciones personales correspondientes y podrá allegarse de todos los documentos necesarios para sustanciar y resolver el medio de impugnación.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 11 TER. El derecho a ser votado podrá suspenderse temporalmente cuando existan actos cuya naturaleza contenga violencia en razón de género, estableciéndose como supuestos enunciativos, pero no limitativos, los siguientes:
+
+I. Las personas deudoras alimentarias que no proporcionen los recursos necesarios a cualquier persona ascendiente o descendiente, menores incapaces o adultos mayores, respecto de la que tenga obligación legal de proveer a su alimentación, habitación, salud y/o educación.
+
+II. Las personas agresoras físicas que infrinjan daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas en su pareja, cónyuge, ascendientes o descendientes.
+
+III. Las personas agresoras sexuales que cometan actos que degraden o dañen el cuerpo y/o la sexualidad de la víctima y que por tanto atenten contra su libertad, dignidad e integridad física.
+
+IV. Las personas agresoras psicológicas que cometan cualquier acto u omisión que dañe la estabilidad mental de una mujer, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
+
+Este procedimiento especial de suspensión temporal de derechos político-electorales seguirá el trámite de un procedimiento especial sancionador, mismo que deberá abreviarse, atendiendo la urgencia de la sustanciación del asunto, aplicando los mismos criterios de temporalidad previstos en el artículo anterior.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
-
-### CAPÍTULO PRIMERO. DE LOS SISTEMAS ELECTORALES
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ## TÍTULO TERCERO. DE LA ELECCIÓN DE DIPUTACIONES, GUBERNATURA DE LAS Y LOS INTEGRANTES DE LOS AYUNTAMIENTOS
 
-### CAPÍTULO SEGUNDO. DE LA REPRESENTACIÓN PROPORCIONAL EN EL CONGRESO Y LOS MUNICIPIOS
+### CAPÍTULO PRIMERO. DE LOS SISTEMAS ELECTORALES
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -355,7 +399,11 @@ g) No estar condenada o condenado por el delito de violencia política contra la
 
 1. El Poder Legislativo se deposita para su ejercicio en una asamblea popular y representativa que se denominará Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-2. El Congreso del Estado se renovará cada tres años y se compondrá de dieciséis diputaciones electas según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y nueve que serán electos por el principio de representación proporcional, electos en una sola circunscripción estatal, en los términos de las disposiciones aplicables.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “2. El Congreso del Estado se renovará cada tres años y se compondrá de dieciséis diputaciones electas según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y nueve que serán electos por el principio de representación proporcional, electos en una sola circunscripción estatal, en los términos de las disposiciones aplicables.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+2. EL CONGRESO DEL ESTADO SE RENOVARÁ CADA TRES AÑOS, SE COMPONDRÁ DE DIECISÉIS DIPUTACIONES ELECTAS SEGÚN EL PRINCIPIO DE MAYORÍA RELATIVA, MEDIANTE EL SISTEMA DE DISTRITOS ELECTORALES UNINOMINALES, Y NUEVE QUE SERÁN ELECTOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL ORDINARIA Y DOS DE GRUPOS VULNERABLES, EN LOS TÉRMINOS QUE DISPONE EL ARTÍCULO 33 DE LA CONSTITUCIÓN Y ESTA LEY.
 
 3. Las diputadas y los diputados podrán ser electos hasta por cuatro periodos consecutivos, en los términos que señala la Constitución y observando lo siguiente:
 
@@ -365,13 +413,79 @@ b) Tratándose de diputaciones que hayan sido electas como candidaturas independ
 
 c) Las diputadas y los diputados que pretendan la reelección podrán ser registradas o registrados por el principio de mayoría relativa o de representación proporcional.
 
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO d) AL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+d) LAS DIPUTACIONES EXTERNAS O SIN PARTIDO DEBERÁN DESVINCULARSE DEL PARTIDO POLÍTICO QUE ORIGINALMENTE LOS POSTULÓ, ANTES DE LA MITAD DE SU MANDATO, SI PRETENDEN REELEGIRSE POR UN PARTIDO POLÍTICO DISTINTO. ESTE REQUISITO NO SERÁ EXIGIBLE SI EL PARTIDO POSTULANTE PERDIÓ SU REGISTRO.
+
 4. El Consejo General del Instituto emitirá los criterios de equivalencia para cumplir lo dispuesto en el inciso c) anterior, cuando por efecto de acuerdos del Instituto Nacional cambie la delimitación de distritos electorales o el número total de éstos.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+5. EL CONSEJO GENERAL DEL INSTITUTO EMITIRÁ LOS ACUERDOS NECESARIOS PARA GARANTIZAR EL PRINCIPIO DE PARIDAD DE GÉNERO EN LAS CANDIDATURAS QUE POSTULEN A LA GUBERNATURA DEL ESTADO LOS PARTIDOS POLÍTICOS DE MANERA INDIVIDUAL O BAJO CUALQUIER FORMA DE ASOCIACIÓN POLÍTICA, CONFORME A ESTE CÓDIGO.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 12 Bis.
+
+1. La elección de las diputaciones de representación proporcional y de grupos en situación de vulnerabilidad se sujetará a las siguientes bases:
+
+a) Para la elección de las nueve diputaciones de representación proporcional se constituirá una circunscripción electoral cuya demarcación será el Estado.
+
+b) Para la elección de las dos diputaciones de representación proporcional para grupos en situación de vulnerabilidad, el Estado se dividirá en dos circunscripciones específicas: la primera se integrará con los distritos locales 1° al 8°; y, la segunda, del distrito 9° al 16°. Los partidos políticos participarán, conforme a su autonomía y libertad de autodeterminación, para participar de manera individual en la postulación y asignación de diputaciones de grupos en situación de vulnerabilidad en cada circunscripción.
+
+c) Estas diputaciones serán asignadas exclusivamente a la ciudadanía que pertenezca a cualquier grupo en situación de vulnerabilidad, entendiéndose por estos, los que señala la Carta de Derechos Políticos del Estado de Coahuila y sus Protocolos, o los que se encuentren en cualquier otra situación de hecho que los ubique en una posición vulnerable grave frente al resto de la población y que comprometa el ejercicio efectivo de sus derechos en igualdad de oportunidades con lo (sic) demás.
+
+d) Las diputaciones de grupos en situación de vulnerabilidad serán asignadas por el Consejo General del Instituto a los partidos políticos que obtenga (sic) el mayor porcentaje de votos en cada una de las dos circunscripciones específicas que establece la Constitución.
+
+e) El Instituto velará en todo momento por el cumplimiento de la paridad de género en la integración final del Congreso y para ello deberá realizar las sustituciones y ajustes necesarios a la prelación de las listas de candidaturas que presenten los partidos políticos.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 13.
 
 1. El ejercicio del Poder Ejecutivo del Estado se deposita en una sola persona que se denomina Gobernadora o Gobernador Constitucional del Estado de Coahuila de Zaragoza, electa cada seis años por el principio de mayoría relativa y voto directo de la ciudadanía coahuilense, en los términos de las disposiciones aplicables.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/). (ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 30 DE SEPTIEMBRE DE 2022)
+
+2. LOS PARTIDOS POLÍTICOS CON REGISTRO LOCAL Y NACIONAL, DE FORMA INDIVIDUAL, EN COALICIÓN O CUALQUIER OTRA FORMA DE ASOCIACIÓN POLÍTICA PREVISTA EN LA LEY, DEBERÁN GARANTIZAR EL PRINCIPIO DE PARIDAD DE GÉNERO EN LA POSTULACIÓN DE CANDIDATURAS A LA GUBERNATURA DEL ESTADO, PARA LO CUAL PODRÁN OPTAR LIBREMENTE Y CONFORME A LOS PRINCIPIOS DE AUTOORGANIZACIÓN Y AUTODETERMINACIÓN PARTIDISTA, ASÍ COMO A LA AUTONOMÍA DE SUS PROCESOS INTERNOS, POR CUALQUIERA DE LAS SIGUIENTES REGLAS DE PARIDAD:
+
+A) LA REGLA DE PARIDAD EN LA POSTULACIÓN DE LA CANDIDATURA QUE LOS PARTIDOS ACUERDEN EN EL CONVENIO RESPECTIVO, A TRAVÉS DEL PARTIDO QUE REPRESENTE LA COALICIÓN O CUALQUIER OTRO TIPO DE ASOCIACIÓN POLÍTICA PREVISTA EN LA LEY.
+
+B) ELECCIONES INTERNAS O SONDEOS, A FIN DE DETERMINAR QUÉ GÉNERO ES MÁS COMPETITIVO. EN ESTE CASO, LA CONVOCATORIA RESPECTIVA AL PROCESO INTERNO DEBERÁ ESTABLECER REGLAS CLARAS QUE GARANTICEN LA PARTICIPACIÓN IGUALITARIA DE AMBOS GÉNEROS, ASÍ COMO SU DIFUSIÓN CON LA ANTICIPACIÓN DEBIDA PARA ASEGURAR LA MAYOR PARTICIPACIÓN PARITARIA. EN CASO DE COALICIÓN ELECTORAL O CUALQUIER OTRO TIPO DE ASOCIACIÓN POLÍTICA PREVISTA EN LA LEY, EL CONVENIO RESPECTIVO DETERMINARÁ LAS REGLAS DE POSTULACIÓN PARA EL PROCESO INTERNO DE TODOS LOS PARTIDOS COALIGADOS O ASOCIADOS CONFORME A ESTE CÓDIGO.
+
+C) REGLA DE PARIDAD HORIZONTAL. LOS PARTIDOS POLÍTICOS CON REGISTRO NACIONAL QUE PARTICIPEN EN LA ELECCIÓN DE LA GUBERNATURA DEBEN COORDINAR SU ESTRATEGIA POLÍTICA PARA POSTULAR CANDIDATURAS DE UN MISMO GÉNERO EN, POR LO MENOS, LA MITAD DE LAS ENTIDADES FEDERATIVAS QUE CELEBREN ELECCIONES SIMILARES EN EL MISMO AÑO ELECTORAL, CONFORME A SU AUTONOMÍA PARTIDISTA Y A SUS DISPOSICIONES INTERNAS.
+
+D) LAS REGLAS INTERNAS DE POSTULACIÓN PARITARIA QUE CADA PARTIDO ESTABLEZCA DE FORMA LIBRE EN SUS ESTATUTOS, REGLAMENTOS O CONVOCATORIAS PARA SELECCIONAR SU CANDIDATURA, A FIN DE GARANTIZAR CRITERIOS MÍNIMOS DE COMPETITIVIDAD QUE ASEGUREN LA PARIDAD SUSTANTIVA DE FORMA OBJETIVA. LOS ELEMENTOS OBJETIVOS QUE PODRÁN SER TOMADOS EN CUENTA PARA GARANTIZAR LA COMPETITIVIDAD SON, ENTRE OTROS, EL NÚMERO DE HABITANTES DE ACUERDO AL ÚLTIMO CENSO POBLACIONAL; EL NÚMERO DE CARGOS DE ELECCIÓN POPULAR ADSCRITOS AL PARTIDO POLÍTICO QUE GOBIERNA EN EL ESTADO; LOS RESULTADOS OBTENIDOS EN LA ÚLTIMA ELECCIÓN; O, MUESTRAS DEMOSCÓPICAS QUE DETERMINE LA AUTORIDAD COMPETENTE DENTRO DEL PARTIDO PARA DETERMINAR CUALITATIVAMENTE EL POSICIONAMIENTO Y LA POPULARIDAD DE LOS ASPIRANTES FRENTE AL ELECTORADO.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. LOS COMITÉS DIRECTIVOS ESTATALES DE LOS PARTIDOS POLÍTICOS SON LOS COMPETENTES PARA DEFINIR LA REGLA DE PARIDAD QUE SERÁ UTILIZADA EN LOS PROCESOS INTERNOS DE SELECCIÓN DE CANDIDATURAS A LA GUBERNATURA DEL ESTADO, O BIEN, PARA AUTORIZARLA EN EL CONVENIO DE COALICIÓN O DE ALIANZA ELECTORAL RESPECTIVO, POR TRATARSE DE UN PROCESO ELECTORAL LOCAL QUE LES CORRESPONDE A LAS INSTANCIAS PARTIDISTAS DEL ÁMBITO ESTATAL, SEAN PARTIDOS POLÍTICOS CON REGISTRO NACIONAL O LOCAL.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+4. AL MENOS NOVENTA DÍAS ANTES DEL INICIO DEL PROCESO ELECTORAL, CADA PARTIDO POLÍTICO PODRÁ INFORMAR AL INSTITUTO LA REGLA DE PARIDAD QUE IMPLEMENTARÁ EN EL PROCESO INTERNO DE SELECCIÓN DE CANDIDATURAS, CONFORME A SU AUTONOMÍA PARTIDISTA, SIN PERJUICIO DE QUE TAMBIÉN PUEDAN INFORMARLO DURANTE LA ETAPA DE PRECAMPAÑAS O REGISTRO DE CANDIDATURAS QUE PREVÉ ESTE CÓDIGO.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+5. EL CONSEJO GENERAL DEL INSTITUTO SERÁ LA AUTORIDAD FACULTADA PARA VERIFICAR EL CUMPLIMIENTO DE LA PARIDAD DE GÉNERO EN LA POSTULACIÓN DE CANDIDATURAS AL CARGO DE LA GUBERNATURA DEL ESTADO.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+6. LA ELECCIÓN DE CUALQUIERA DE LAS REGLAS DE PARIDAD NO ES EXCLUYENTE, POR TANTO, LOS PARTIDOS POLÍTICOS PUEDEN COMBINAR LOS PROCESOS O REGLAS EN LOS PROCESOS DE DESIGNACIÓN INTERNA DE CANDIDATURAS A LA GUBERNATURA DEL ESTADO, EN ATENCIÓN A LOS PRINCIPIOS DE AUTODETERMINACIÓN Y AUTOORGANIZACIÓN PARTIDISTA.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -397,15 +511,27 @@ d) Quienes hayan ocupado los cargos de sindicatura o regiduría podrán ser post
 
 1. La demarcación territorial de los distritos uninominales se establecerá mediante acuerdo tomado por el Consejo General del Instituto Nacional antes del inicio del proceso electoral en que vaya a aplicarse, conforme a lo establecido a las leyes generales y normas que lo regulen.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
-###### Artículo 16.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 16.
 
 1. El registro de candidaturas a diputaciones de mayoría relativa se realizará mediante el sistema de fórmulas. Los partidos políticos, registrarán candidaturas observando el principio de paridad de género. Las fórmulas encabezadas por hombres podrán registrar suplentes hombres o mujeres indistintamente, en tanto que las fórmulas encabezadas por mujeres deberán registrar suplentes de éste mismo género. En todo caso, deberán cumplir con los mismos requisitos establecidos en este Código.
 
 2. Para tener derecho al registro de la lista de candidaturas a diputaciones por el principio de representación proporcional, cada partido político deberá registrar al menos nueve fórmulas de candidaturas a diputaciones de mayoría relativa.
 
-3. En caso de que la persona que corresponda, de conformidad a la lista de preferencia de cada partido, no garantice la paridad de género en la integración del Congreso, el Instituto tendrá la obligación de hacer la sustitución necesaria para que el lugar que pertenezca a cada partido sea ocupado por la siguiente persona en el orden de prelación de la lista que cumpla con el requisito de género, al momento de realizar la asignación de representación proporcional.
+3. En caso de que la persona que corresponda, de conformidad a la lista de preferencia de cada partido, no garantice la paridad de género en la integración del Congreso, el Instituto tendrá la obligación de hacer la sustitución necesaria para que el lugar que pertenezca a cada partido sea ocupado por la siguiente persona en el orden de prelación de la lista que cumpla con el requisito de género, al momento de realizar la asignación de representación proporcional.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 16.
+
+1. El registro de candidaturas a diputaciones de mayoría relativa se realizará mediante el sistema de fórmulas. Los partidos políticos, registrarán candidaturas observando el principio de paridad de género. Las fórmulas encabezadas por hombres podrán registrar suplentes hombres o mujeres indistintamente, en tanto que las fórmulas encabezadas por mujeres deberán registrar suplentes de éste mismo género. En todo caso, deberán cumplir con los mismos requisitos establecidos en este Código. Para el registro deberán de postular de forma igualitaria, hombres y mujeres en cuando menos la mitad de los distritos, entregando una lista para que la autoridad realice la asignación que corresponda al partido.
+
+2. Para tener derecho al registro de las listas de candidaturas a diputaciones por el principio de representación proporcional, cada partido político deberá registrar al menos nueve fórmulas de candidaturas a diputaciones de mayoría relativa.
+
+3. En caso de que, en la integración del Congreso, las mujeres se encuentren subrepresentadas, el Instituto tendrá la obligación de hacer las sustituciones necesarias para garantizar la paridad. Para ello, una vez que se hayan revisado los límites de sobre y subrepresentación, se realizarán los ajustes iniciando en la fase de resto mayor con el o los candidatos hombres del partido político que hayan sido asignados con el menor número de votos.
+
+Si aún fuera necesario realizar ajustes para garantizar la paridad, éstos deberán efectuarse en la fase de cociente natural, debiendo recaer en el o los candidatos hombres asignados cuyo partido político hubiere obtenido el menor número de votos no utilizados en la asignación.
+
+Por último, si las mujeres continúan subrepresentadas, los siguientes ajustes se harán en la fase de porcentaje específico, comenzando con el partido que hubiere obtenido el menor porcentaje de la votación válida emitida.
 
 ###### Artículo 17.
 
@@ -413,15 +539,79 @@ d) Quienes hayan ocupado los cargos de sindicatura o regiduría podrán ser post
 
 1. Los partidos políticos garantizarán la paridad de género, por lo que las candidaturas propietarias a diputaciones por ambos principios de cada partido político deberán ser al menos el cincuenta por ciento para el género femenino. El Instituto, rechazará el registro del número de candidaturas del género que no cumpla con el principio de paridad, fijando al partido un plazo improrrogable de tres días para la sustitución de estas.
 
-En caso de que no se realicen las sustituciones correspondientes únicamente se aceptarán los registros en favor de mujeres.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL SEGUNDO PÁRRAFO DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “En caso de que no se realicen las sustituciones correspondientes únicamente se aceptarán los registros en favor de mujeres.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-Los partidos políticos y/o coaliciones en la postulación a diputaciones de mayoría relativa observarán lo establecido en el artículo 33 de la Constitución.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+LA POSTULACIÓN DE CANDIDATURAS AL CONGRESO DEL ESTADO DEBERÁ CUMPLIR CON LOS REQUISITOS DE COMPETITIVIDAD Y TRANSVERSALIDAD PARA GARANTIZAR LA PARIDAD DE GÉNERO, DE CONFORMIDAD CON LAS SIGUIENTES BASES:
 
-2. Tratándose de las listas de candidaturas a diputaciones por el principio de representación proporcional, deberán integrarse por fórmulas de dos candidaturas, una de cada género. En cada una de las fórmulas de cada lista habrá una candidatura de género distinto, de manera alternada. Para el registro deberán de postular de forma igualitaria, varones y mujeres en cuando menos la mitad de los distritos, entregando una lista para que la autoridad realice la asignación que corresponda al partido. La lista deberá ser encabezada por una mujer o por un hombre de manera alternada en cada proceso electoral. Con independencia de la existencia de coaliciones electorales, cada partido deberá registrar por sí mismo la lista de candidaturas a diputaciones de representación proporcional.
+I. LA POSTULACIÓN DE LAS CANDIDATURAS EN LA ELECCIÓN DE DIPUTACIONES POR AMBOS PRINCIPIOS, TANTO PARA PARTIDOS POLÍTICOS COMO PARA COALICIONES DEBERÁ SER DEL CINCUENTA POR CIENTO PARA CADA GÉNERO.
 
-3. En la integración de las planillas para integrantes de los Ayuntamientos, se observarán la paridad horizontal y vertical al postular todos los cargos que lo conforman, debiendo presentar, en al menos la mitad de los municipios o en su caso en la mitad de las candidaturas que registre, planillas encabezadas por un género distinto, para ello los partidos podrán dividir las postulaciones en los municipios en cuatro bloques, registrando al menos el cuarenta por ciento de las postulaciones de un género distinto en cada segmento:
+II. EL INSTITUTO DIVIDIRÁ EN DOS BLOQUES DE OCHO DISTRITOS CADA UNO A CADA PARTIDO POLÍTICO CONFORME A LOS PORCENTAJES DE VOTACIÓN QUE HAYA OBTENIDO EN LA ELECCIÓN INMEDIATA ANTERIOR DE DIPUTACIONES, LOS CUALES SERÁN CATALOGADOS DE ALTA Y BAJA COMPETITIVIDAD RESPECTIVAMENTE.
+
+III. EL PRIMER BLOQUE DE COMPETITIVIDAD SE COMPONDRÁ CON LOS DISTRITOS EN LOS QUE EL PARTIDO OBTUVO LOS PORCENTAJES DE VOTACIÓN MÁS ALTOS; EL SEGUNDO, CON LOS DISTRITOS CON PORCENTAJES MÁS BAJOS.
+
+IV. EN CADA BLOQUE LOS PARTIDOS POLÍTICOS DEBERÁN POSTULAR CUATRO FÓRMULAS DE CADA GÉNERO PARA GARANTIZAR QUE A LAS MUJERES NO SEAN POSTULADAS EXCLUSIVAMENTE EN DISTRITOS DE BAJA COMPETITIVIDAD PARA EL PARTIDO.
+
+V. EN NINGÚN CASO SE DEBERÁ IMPEDIR LA POSTULACIÓN DE MUJERES EN DISTRITOS DE BAJA COMPETITIVIDAD PARA LOS PARTIDOS POLÍTICOS Y RESERVADOS PARA HOMBRES, CUANDO LAS ENCUESTAS Y SONDEOS DE OPINIÓN DE LOS PROPIOS PARTIDOS POLÍTICOS REFLEJEN LA ALTA POPULARIDAD DE LA CANDIDATA.
+
+VI. LAS COALICIONES DEBERÁN OBSERVAR LAS MISMAS REGLAS DE PARIDAD DE GÉNERO QUE LOS PARTIDOS POLÍTICOS; LAS CANDIDATURAS QUE REGISTREN INDIVIDUALMENTE COMO PARTIDO POLÍTICO Y AQUELLAS QUE LES CORRESPONDA EN LA COALICIÓN, CONTARÁN COMO UN TODO PARA CUMPLIR CON EL PRINCIPIO DE PARIDAD.
+
+VII. LAS CANDIDATURAS DE COALICIONES FLEXIBLES O PARCIALES DEBEN PRESENTARSE PARITARIAMENTE; POR ELLO NO ES NECESARIO EXIGIR QUE CADA PARTIDO POLÍTICO COALIGADO REGISTRE EL MISMO NÚMERO DE MUJERES Y HOMBRES EN LAS POSTULACIONES QUE LE CORRESPONDEN DENTRO DE LA COALICIÓN. LOS PARTIDOS COALIGADOS DEBEN PRESENTAR, DE MANERA PARITARIA, LA TOTALIDAD DE SUS CANDIDATURAS, LO QUE IMPLICA QUE LA SUMA DE LAS QUE SE PRESENTAN A TRAVÉS DE LA COALICIÓN Y DE FORMA INDIVIDUAL RESULTE AL MENOS LA MITAD DE LAS MUJERES.
+
+SI CON MOTIVO DE LA COALICIÓN, EL NÚMERO TOTAL DE LAS CANDIDATURAS ES IMPAR, SE PROCURARÁ QUE LA POSTULACIÓN SEA MAYORITARIA PARA LAS MUJERES.
+
+VIII. TRATÁNDOSE DE UNA COALICIÓN TOTAL, CADA PARTIDO COALIGADO DEBE POSTULAR DE MANERA PARITARIA LAS CANDIDATURAS QUE LE CORRESPONDEN AL INTERIOR DE LA COALICIÓN.
+
+IX. LOS PARTIDOS POLÍTICOS ASUMIRÁN PLENA RESPONSABILIDAD PARA GARANTIZAR EL CUMPLIMIENTO DEL PRINCIPIO DE PARIDAD DE GÉNERO EN EL REGISTRO DE CANDIDATURAS, INDEPENDIENTEMENTE DE LOS CASOS DE REELECCIÓN, EN CUYO SUPUESTO EL PARTIDO TENDRÁ QUE HACER LOS AJUSTES CORRESPONDIENTES.
+
+X. CUANDO SE INCUMPLA CON LA PARIDAD DE GÉNERO EN EL REGISTRO DE CANDIDATURAS, EL INSTITUTO OTORGARÁ, POR ÚNICA VEZ, UN PLAZO DE 24 HORAS PARA SUBSANAR LA OMISIÓN.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL TERCER PÁRRAFO DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Los partidos políticos y/o coaliciones en la postulación a diputaciones de mayoría relativa observarán lo establecido en el artículo 33 de la Constitución.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+EN CASO DE QUE ALGÚN PARTIDO POLÍTICO INCUMPLA CON LAS REGLAS DE PARIDAD, EL INSTITUTO PROCEDERÁ A LA CANCELACIÓN DE LOS REGISTROS DE CANDIDATURAS DE HOMBRES QUE REPRESENTEN EL DÉFICIT DE PARIDAD, LO ANTERIOR MEDIANTE UN SORTEO ALEATORIO Y PÚBLICO DE LOS DISTRITOS EN LOS QUE SE HAYAN REGISTRADO.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “2. Tratándose de las listas de candidaturas a diputaciones por el principio de representación proporcional, deberán integrarse por fórmulas de dos candidaturas, una de cada género. En cada una de las fórmulas de cada lista habrá una candidatura de género distinto, de manera alternada. Para el registro deberán de postular de forma igualitaria, varones y mujeres en cuando menos la mitad de los distritos, entregando una lista para que la autoridad realice la asignación que corresponda al partido. La lista deberá ser encabezada por una mujer o por un hombre de manera alternada en cada proceso electoral. Con independencia de la existencia de coaliciones electorales, cada partido deberá registrar por sí mismo la lista de candidaturas a diputaciones de representación proporcional.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+2. TRATÁNDOSE DE LAS LISTAS DE CANDIDATURAS A DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL SE OBSERVARÁN LAS SIGUIENTES REGLAS:
+
+I. LOS PARTIDOS SERÁN LIBRES PARA DETERMINAR EL ORDEN DE PRELACIÓN DE SUS DOS LISTAS, UNA DE HOMBRES Y UNA DE MUJERES, CON FÓRMULAS DE DOS CANDIDATURAS DEL MISMO GÉNERO.
+
+II. LAS ASIGNACIONES DE REPRESENTACIÓN PROPORCIONAL SE HARÁN ALTERNANDO LAS LISTAS DE HOMBRES Y MUJERES DE CADA PARTIDO POLÍTICO, INICIANDO POR LA LISTA QUE ÉSTOS LIBREMENTE DETERMINEN.
+
+III. SI EL RESULTADO DE LAS DIPUTACIONES DE MAYORÍA RELATIVA NO ES PARITARIO, EL INSTITUTO, CON LA FINALIDAD DE GARANTIZAR LA PARIDAD, REALIZARÁ LAS PRIMERAS ASIGNACIONES INICIANDO CON LAS LISTAS DE MUJERES DE CADA PARTIDO POLÍTICO.
+
+IV. CON INDEPENDENCIA DE LA EXISTENCIA DE COALICIONES, CADA PARTIDO DEBERÁ REGISTRAR POR SÍ MISMO LAS LISTAS DE CANDIDATURAS A DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL.
+
+V. PARA GARANTIZAR LA PARIDAD, EL INSTITUTO OBSERVARÁ LAS REGLAS DEL ARTÍCULO 16, NUMERAL 3 DE ESTE CÓDIGO.
+
+LA ASIGNACIÓN DE PERSONAS NO BINARIAS NO REDUCIRÁ LA PARTICIPACIÓN PARITARIA DE LAS MUJERES.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. LOS PARTIDOS POLÍTICOS PODRÁN CONFORMAR SUS LISTAS DE CANDIDATURAS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL UTILIZANDO LAS FÓRMULAS QUE FUERON POSTULADAS POR EL PRINCIPIO DE MAYORÍA RELATIVA, SIN UNA PRELACIÓN PREDEFINIDA. EL INSTITUTO DEFINIRÁ LA PRELACIÓN PARA EFECTOS DE ASIGNAR LAS DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, ATENDIENDO EN TODO MOMENTO EL PRINCIPIO DE PARIDAD DE GÉNERO, DE CONFORMIDAD CON EL CRITERIO QUE CADA PARTIDO POLÍTICO HABRÁ DE DETERMINAR AL MOMENTO DEL REGISTRO DE SUS CANDIDATURAS OPTANDO POR UNA DE LAS SIGUIENTES OPCIONES:
+
+I) ELEGIR A LA CANDIDATURA QUE HAYA OBTENIDO EL MAYOR NÚMERO DE VOTOS EN SUS RESPECTIVOS DISTRITOS ELECTORALES.
+
+II) HABER OBTENIDO EL MAYOR PORCENTAJE A FAVOR DE SU PARTIDO POR EL CUAL COMPITIÓ, DE FORMA QUE EL CRITERIO DE COMPETITIVIDAD SEA ATENDIDO.
+
+III) LA MENOR DIFERENCIA DE VOTOS RESPECTO A LA CANDIDATURA GANADORA EN SU DISTRITO.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+4. LOS PARTIDOS POLÍTICOS PODRÁN CONFORMAR SUS LISTAS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL OPTANDO POR UN SISTEMA MIXTO OBSERVANDO LAS REGLAS PREVISTAS EN LOS NUMERALES 2 Y 3 DEL PRESENTE ARTÍCULO.
+
+EN CASO DE OPTAR POR EL SISTEMA MIXTO, LOS PARTIDOS SERÁN LIBRES PARA DETERMINAR EL ORDEN DE PRELACIÓN DE SUS DOS LISTAS, UNA DE HOMBRES Y UNA DE MUJERES, SEÑALANDO QUÉ FÓRMULAS SE SUJETARÁN A CADA REGLA RESPECTIVAMENTE.
+
+5. En la integración de las planillas para integrantes de los Ayuntamientos, se observarán la paridad horizontal y vertical al postular todos los cargos que lo conforman, debiendo presentar, en al menos la mitad de los municipios o en su caso en la mitad de las candidaturas que registre, planillas encabezadas por un género distinto, para ello los partidos podrán dividir las postulaciones en los municipios en cuatro bloques, registrando al menos el cuarenta por ciento de las postulaciones de un género distinto en cada segmento:
 
 a) Municipios de hasta 10000 habitantes
 
@@ -431,7 +621,7 @@ c) Municipios de 40001 a 100000
 
 d) Municipios de 100 001 en adelante
 
-4. El Instituto revisará que los partidos políticos o coaliciones cumplan con lo previsto en los numerales 1, 2 y 3 de este artículo. Si de la revisión de las solicitudes de registros se desprende que no se cumple con la paridad en la postulación de las candidaturas, el instituto otorgará un plazo de hasta veinticuatro horas para subsanar la omisión, en caso de no hacerlo se negará el registro solicitado.
+6. El Instituto revisará que los partidos políticos o coaliciones cumplan con lo previsto en los numerales 1, 2 y 3 de este artículo. Si de la revisión de las solicitudes de registros se desprende que no se cumple con la paridad en la postulación de las candidaturas, el instituto otorgará un plazo de hasta veinticuatro horas para subsanar la omisión, en caso de no hacerlo se negará el registro solicitado.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -465,7 +655,7 @@ c) Acceder a los mismos recursos económicos y materiales que el resto de las re
 
 d) Contar con la asistencia correspondiente para cualquier traducción que requiera en el ejercicio de su encargo.
 
-### CAPÍTULO TERCERO. DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO SEGUNDO. DE LA REPRESENTACIÓN PROPORCIONAL EN EL CONGRESO Y LOS MUNICIPIOS
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -483,9 +673,31 @@ c) Si después de aplicar el cociente natural restan curules por repartir, ésta
 
 Se entiende por resto mayor, el remanente de votación más alto de cada partido político después de deducir la que utilizó para la asignación de Diputaciones a que se refieren todas las fracciones anteriores.
 
-d) Se establece una circunscripción única para todo el Estado; cada partido registrará una lista con nueve fórmulas de candidaturas, en orden de prelación;
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO d) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) Se establece una circunscripción única para todo el Estado; cada partido registrará una lista con nueve fórmulas de candidaturas, en orden de prelación;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-e) Ningún partido político podrá contar con más de dieciséis diputaciones por ambos principios. El número máximo de diputaciones por ambos principios que puede alcanzar cualquier partido político deberá corresponder a su porcentaje de votación respecto de la votación total emitida, más el ocho por ciento. Esta base no se aplicará al partido político que, por sus triunfos en distritos, obtenga un porcentaje de diputaciones superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. Esta fórmula se aplicará una vez que le sea asignada una diputación de representación proporcional a los partidos políticos que lo hayan obtenido en la ronda de porcentaje específico de conformidad con este Código.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+d) SE ESTABLECE UNA CIRCUNSCRIPCIÓN ÚNICA PARA TODO EL ESTADO; CADA PARTIDO REGISTRARÁ DOS LISTAS DE REPRESENTACIÓN PROPORCIONAL, UNA DE HOMBRES Y OTRA DE MUJERES, CON FÓRMULAS DE CANDIDATURAS.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO e) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Ningún partido político podrá contar con más de dieciséis diputaciones por ambos principios. El número máximo de diputaciones por ambos principios que puede alcanzar cualquier partido político deberá corresponder a su porcentaje de votación respecto de la votación total emitida, más el ocho por ciento. Esta base no se aplicará al partido político que, por sus triunfos en distritos, obtenga un porcentaje de diputaciones superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. Esta fórmula se aplicará una vez que le sea asignada una diputación de representación proporcional a los partidos políticos que lo hayan obtenido en la ronda de porcentaje específico de conformidad con este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+e) NINGÚN PARTIDO POLÍTICO PODRÁ CONTAR CON MÁS DE DIECISIETE DIPUTACIONES POR AMBOS PRINCIPIOS. EL NÚMERO MÁXIMO DE DIPUTACIONES POR AMBOS PRINCIPIOS QUE PUEDE ALCANZAR CUALQUIER PARTIDO POLÍTICO DEBERÁ CORRESPONDER A SU PORCENTAJE DE VOTACIÓN RESPECTO DE LA VOTACIÓN TOTAL EMITIDA, MÁS EL OCHO POR CIENTO. ESTA BASE NO SE APLICARÁ AL PARTIDO POLÍTICO QUE, POR SUS TRIUNFOS EN DISTRITOS, OBTENGA UN PORCENTAJE DE DIPUTACIONES SUPERIOR A LA SUMA DEL PORCENTAJE DE SU VOTACIÓN ESTATAL EMITIDA MÁS EL OCHO POR CIENTO. ASIMISMO, EN LA INTEGRACIÓN DE LA LEGISLATURA, EL PORCENTAJE DE REPRESENTACIÓN DE UN PARTIDO POLÍTICO NO PODRÁ SER MENOR AL PORCENTAJE DE VOTACIÓN QUE HUBIERE RECIBIDO MENOS OCHO PUNTOS PORCENTUALES. ESTA FÓRMULA SE APLICARÁ UNA VEZ QUE LE SEA ASIGNADA UNA DIPUTACIÓN DE REPRESENTACIÓN PROPORCIONAL A LOS PARTIDOS POLÍTICOS QUE LO HAYAN OBTENIDO EN LA RONDA DE PORCENTAJE ESPECÍFICO DE CONFORMIDAD CON ESTE CÓDIGO.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO f) AL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+f) CONCLUIDO EL PROCEDIMIENTO ANTERIOR, EL CONSEJO GENERAL DEL INSTITUTO PROCEDERÁ A REALIZAR EN LA MISMA SESIÓN LA ASIGNACIÓN DE LAS DIPUTACIONES DE REPRESENTACIÓN DE GRUPOS VULNERABLES, LAS CUALES SERÁN ASIGNADAS A LOS PARTIDOS POLÍTICOS CONFORME AL CÓMPUTO QUE OBTENGAN EL MAYOR PORCENTAJE DE VOTOS EN CADA UNA DE LAS DOS CIRCUNSCRIPCIONES ESPECIALES QUE ESTABLECE EL ARTÍCULO 33 DE LA CONSTITUCIÓN LOCAL.
+
+EL INSTITUTO VELARÁ EN TODO MOMENTO POR LOS LÍMITES DE SOBRE Y SUBREPRESENTACIÓN, ASÍ COMO POR EL CUMPLIMIENTO DE LA PARIDAD DE GÉNERO EN LA INTEGRACIÓN FINAL DEL CONGRESO, PARA LO CUAL DEBERÁ REALIZAR LAS SUSTITUCIONES Y AJUSTES NECESARIOS AL ORDEN DE PRELACIÓN DE LAS LISTAS DE CANDIDATURAS DE GRUPO VULNERABLE QUE PRESENTEN LOS PARTIDOS POLÍTICOS.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO g) AL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+g) EL CONSEJO GENERAL DEBERÁ VERIFICAR LA AFILIACIÓN EFECTIVA DE LAS CANDIDATURAS REGISTRADAS POR LAS COALICIONES ELECTORALES, PARA EFECTOS DE EVITAR DISTORSIONES EN LA REPRESENTATIVIDAD DEL CONGRESO DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -549,7 +761,9 @@ La lista de preferencia, dentro de los cinco días posteriores a la fecha en que
 
 10. La asignación de las regidurías étnicas se llevará a cabo de conformidad con los lineamientos que para tal efecto emita el Consejo General del Instituto y su funcionamiento atenderá a las bases contenidas en el artículo 17 Quater.
 
-### CAPÍTULO PRIMERO. DE LAS AGRUPACIONES POLÍTICAS
+### CAPÍTULO TERCERO. DISPOSICIONES COMPLEMENTARIAS
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 20.
 
@@ -615,7 +829,7 @@ c) Ayuntamientos, cada tres años.
 
 4. Los partidos políticos se regirán internamente por sus documentos básicos, tendrán la libertad de organizarse y determinarse de conformidad con las normas establecidas en la Ley de Partidos en lo aplicable, por las del presente Código y las que, conforme a los mismos, establezcan sus estatutos.
 
-### CAPÍTULO PRIMERO. DE LOS PARTIDOS
+### CAPÍTULO PRIMERO. DE LAS AGRUPACIONES POLÍTICAS
 
 ###### Artículo 25.
 
@@ -661,7 +875,7 @@ g) Las demás que establezca este Código.
 
 ## TÍTULO SEGUNDO. DE LA CONSTITUCIÓN, REGISTRO, DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
 
-### CAPÍTULO SEGUNDO. DE LA CONSTITUCIÓN Y EL REGISTRO DE LOS PARTIDOS POLÍTICOS ESTATALES
+### CAPÍTULO PRIMERO. DE LOS PARTIDOS
 
 ###### Artículo 26.
 
@@ -699,7 +913,7 @@ e) Los demás que establezca este Código.
 
 2. Los partidos políticos nacionales acreditados ante el Instituto, perderán el derecho al otorgamiento de financiamiento público estatal, en los términos del presente Código, cuando no alcancen en la última elección de diputaciones locales por el principio de mayoría relativa, al menos, tres por ciento de la votación válida emitida.
 
-### CAPÍTULO TERCERO. DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
+### CAPÍTULO SEGUNDO. DE LA CONSTITUCIÓN Y EL REGISTRO DE LOS PARTIDOS POLÍTICOS ESTATALES
 
 ###### Artículo 29.
 
@@ -793,9 +1007,7 @@ g) Padrón de la ciudadanía afiliada.
 
 1. Una vez obtenido el registro y publicado en el Periódico Oficial, los partidos políticos locales gozarán de personalidad jurídica para todos los efectos legales correspondientes.
 
-### CAPÍTULO CUARTO. DE LAS OBLIGACIONES DE LOS PARTIDOS POLÍTICOS, AGRUPACIONES POLÍTICAS Y CANDIDATURAS INDEPENDIENTES EN MATERIA DE TRANSPARENCIA
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO TERCERO. DERECHOS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
 
 ###### Artículo 39.
 
@@ -837,7 +1049,7 @@ e) Ser agente del ministerio público federal o estatal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO QUINTO. DE LOS ASUNTOS INTERNOS
+### CAPÍTULO CUARTO. DE LAS OBLIGACIONES DE LOS PARTIDOS POLÍTICOS, AGRUPACIONES POLÍTICAS Y CANDIDATURAS INDEPENDIENTES EN MATERIA DE TRANSPARENCIA
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -861,7 +1073,9 @@ e) Ser agente del ministerio público federal o estatal.
 
 1. El Instituto Coahuilense de Acceso a la Información Pública es el órgano garante en el estado competente para conocer y resolver los recursos de revisión de derechos de acceso a la información y derechos de Acceso, Rectificación, Cancelación y Oposición, emitir recomendaciones, y en caso de incumplimiento a este capítulo y a las leyes de la materia podrá imponer las medidas cautelares y sanciones correspondientes, a los miembros de los partidos políticos, agrupaciones y candidaturas independientes dando vista al Instituto para que imponga y ejecute la sanción determinada, en términos de las disposiciones aplicables.
 
-### CAPÍTULO SEXTO. DE LA JUSTICIA INTRAPARTIDARIA
+### CAPÍTULO QUINTO. DE LOS ASUNTOS INTERNOS
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 48.
 
@@ -899,7 +1113,7 @@ f) La emisión de los reglamentos internos y acuerdos de carácter general que s
 
 3. Cualquier ciudadana o ciudadano podrá presentar ante el Instituto, queja o denuncia por presuntas violaciones a las disposiciones de este Código, las que serán sustanciadas mediante el procedimiento administrativo sancionador previsto en este Código. El Instituto verificará que las autoridades estatales y municipales respeten el libre ejercicio de los derechos de los partidos políticos locales.
 
-### CAPÍTULO PRIMERO. DEL ACCESO A LOS MEDIOS DE COMUNICACIÓN
+### CAPÍTULO SEXTO. DE LA JUSTICIA INTRAPARTIDARIA
 
 ###### Artículo 50.
 
@@ -951,7 +1165,7 @@ c) Gozar del régimen fiscal que se establece en este Código y en las leyes de 
 
 d) Usar las franquicias postales y telegráficas que sean necesarias para el cumplimiento de sus funciones.
 
-### CAPÍTULO SEGUNDO. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
+### CAPÍTULO PRIMERO. DEL ACCESO A LOS MEDIOS DE COMUNICACIÓN
 
 ###### Artículo 54.
 
@@ -991,7 +1205,7 @@ c) Se establezcan condiciones de equidad en el formato.
 
 5. La transmisión de los debates por los medios de comunicación será gratuita y se llevará a cabo de forma íntegra y sin alterar los contenidos. La no asistencia de uno o más de las candidatas y los candidatos invitadas a estos debates no será causa para la no realización del mismo.
 
-### CAPÍTULO TERCERO. DE LA FISCALIZACIÓN DE LOS PARTIDOS POLÍTICOS
+### CAPÍTULO SEGUNDO. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
 
 ###### Artículo 57.
 
@@ -1021,9 +1235,11 @@ e) Financiamiento por rendimientos financieros, fondos y fideicomisos.
 
 a) Para el sostenimiento de actividades ordinarias permanentes:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ LA FRACCIÓN I DEL INCISO a) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. El Consejo General del Instituto, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanas y ciudadanos inscritos en el padrón electoral estatal, a la fecha de corte de septiembre de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente en el Estado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-I. El Consejo General del Instituto, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanas y ciudadanos inscritos en el padrón electoral estatal, a la fecha de corte de septiembre de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente en el Estado.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I. EL CONSEJO GENERAL DEL INSTITUTO, DETERMINARÁ ANUALMENTE EL MONTO TOTAL POR DISTRIBUIR ENTRE LOS PARTIDOS POLÍTICOS CONFORME A LO SIGUIENTE: MULTIPLICARÁ EL NÚMERO TOTAL DE CIUDADANAS Y CIUDADANOS INSCRITOS EN EL PADRÓN ELECTORAL ESTATAL, A LA FECHA DE CORTE DE SEPTIEMBRE DE CADA AÑO, POR EL SESENTA Y CINCO POR CIENTO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN EN SU VALOR DIARIO VIGENTE EN EL ESTADO.
 
 II. El resultado de la operación señalada en la fracción anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá de la siguiente manera:
 
@@ -1041,11 +1257,23 @@ v. Para la capacitación, promoción y el desarrollo del liderazgo político de 
 
 b) Para gastos de campaña:
 
-I. En el año de la elección en que se renueven los poderes Ejecutivo, Legislativo y los Ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al ochenta por ciento del financiamiento público para el sostenimiento de sus actividades ordinarias permanentes (sic) le corresponda en ese año;
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ LA FRACCIÓN I DEL INCISO b) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “I. En el año de la elección en que se renueven los poderes Ejecutivo, Legislativo y los Ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al ochenta por ciento del financiamiento público para el sostenimiento de sus actividades ordinarias permanentes (sic) le corresponda en ese año;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. En el año de la elección en que se renueven renueven (sic) los poderes Ejecutivo y Legislativo, a cada partido político se le otorgará para gastos de campaña un monto equivalente al cincuenta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-III. En el año de la elección en que se renueven solamente el poder Legislativo o los Ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al treinta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año, y
+I. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVEN LOS PODERES EJECUTIVO, LEGISLATIVO Y LOS AYUNTAMIENTOS, A CADA PARTIDO POLÍTICO NACIONAL SE LE OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO EQUIVALENTE AL OCHENTA POR CIENTO DEL FINANCIAMIENTO PÚBLICO. POR LO QUE RESPECTA A LOS PARTIDOS POLÍTICOS LOCALES SE LE OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO EQUIVALENTE AL CIEN POR CIENTO DEL FINANCIAMIENTO PÚBLICO PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES QUE LE CORRESPONDA EN ESE AÑO;
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ LA FRACCIÓN II DEL INCISO b) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “II. En el año de la elección en que se renueven renueven (sic) los poderes Ejecutivo y Legislativo, a cada partido político se le otorgará para gastos de campaña un monto equivalente al cincuenta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+II. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVEN LOS PODERES EJECUTIVO Y LEGISLATIVO, A CADA PARTIDO POLÍTICO NACIONAL SE LE OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO EQUIVALENTE AL CINCUENTA POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES LE CORRESPONDA EN ESE AÑO. POR LO QUE RESPECTA A LOS PARTIDOS POLÍTICOS LOCALES SE LE OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO EQUIVALENTE AL SETENTA Y CINCO POR CIENTO DEL FINANCIAMIENTO PÚBLICO PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES QUE LE CORRESPONDAN EN ESE AÑO;
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ LA FRACCIÓN III DEL INCISO b) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “III. En el año de la elección en que se renueven solamente el poder Legislativo o los Ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al treinta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+III. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVEN SOLAMENTE EL PODER LEGISLATIVO O LOS AYUNTAMIENTOS, A CADA PARTIDO POLÍTICO NACIONAL SE LE OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO EQUIVALENTE AL TREINTA POR CIENTO DEL FINANCIAMIENTO PÚBLICO. POR LO QUE RESPECTA A LOS PARTIDO (SIC) POLÍTICOS LOCALES SE LE OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO EQUIVALENTE AL CINCUENTA POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES QUE LE CORRESPONDAN EN ESE AÑO; Y
 
 IV. El monto para gastos de campaña se otorgará a los partidos políticos en forma adicional al resto de las prerrogativas.
 
@@ -1127,9 +1355,7 @@ d) Los rendimientos financieros obtenidos a través de esta modalidad deberán d
 
 2. En caso de que el Instituto Nacional Electoral delegue las funciones de fiscalización al Instituto, los partidos políticos o coaliciones deberán presentar los informes, a que se refiere el párrafo anterior, ante la Unidad Técnica de Fiscalización de la Comisión de Fiscalización del Instituto.
 
-### CAPÍTULO CUARTO. DE LAS COALICIONES Y FUSIONES
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO TERCERO. DE LA FISCALIZACIÓN DE LOS PARTIDOS POLÍTICOS
 
 ###### Artículo 65.
 
@@ -1171,7 +1397,7 @@ d) Los rendimientos financieros obtenidos a través de esta modalidad deberán d
 
 2. En los casos en los que se promocione a dos o más candidatos a cargos de elección popular en elecciones estatales, sin que haya participación de candidatos a cargos de elección federal, el Instituto determinará las reglas aplicables para el prorrateo.
 
-### CAPÍTULO PRIMERO. DE LA CONVOCATORIA
+### CAPÍTULO CUARTO. DE LAS COALICIONES Y FUSIONES
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1223,11 +1449,33 @@ d) Los rendimientos financieros obtenidos a través de esta modalidad deberán d
 
 12. Los votos en los que se hubiesen marcado más de una opción de los partidos coaligados, serán considerados válidos para el candidato postulado, contarán como un solo voto.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 13 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “13. En todo caso, cada uno de los partidos coaligados deberá registrar listas propias de las candidaturas a diputaciones por el principio de representación proporcional y su propia lista de candidaturas a integrantes de los ayuntamientos por el mismo principio.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-13. En todo caso, cada uno de los partidos coaligados deberá registrar listas propias de las candidaturas a diputaciones por el principio de representación proporcional y su propia lista de candidaturas a integrantes de los ayuntamientos por el mismo principio.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+13. EN TODO CASO, CADA UNO DE LOS PARTIDOS COALIGADOS DEBERÁ REGISTRAR LISTAS PROPIAS DE LAS CANDIDATURAS A DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y DE GRUPOS EN SITUACIÓN DE VULNERABILIDAD Y SU PROPIA LISTA DE CANDIDATURAS A INTEGRANTES DE LOS AYUNTAMIENTOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL.
 
 14. Las coaliciones deberán ser uniformes. Ningún partido político podrá participar en más de una coalición y éstas no podrán ser diferentes, en lo que hace a los partidos que las integran, por tipo de elección.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 71 Bis.
+
+1. Los partidos políticos deberán emitir una convocatoria pública especial para que la militancia del propio partido, sus simpatizantes o personas externas que pertenezcan a cualquiera de los grupos en situación de vulnerabilidad con presencia en el Estado, se inscriban y participen en los procesos internos de selección de candidaturas a las diputaciones de representación de grupos históricamente vulnerados que establece el artículo 33 de la Constitución.
+
+2. Esta convocatoria será paralela a la que se emita para registrar candidaturas de mayoría relativa o de representación proporcional y no se entenderá como obstáculo para que los institutos políticos puedan también registrar a personas en situación de vulnerabilidad en los esquemas de representación referidos.
+
+3. Los partidos políticos, en ejercicio de su derecho a la autoorganización y autodeterminación, valorarán los perfiles políticos de la ciudadanía inscrita, así como su idoneidad para designar las candidaturas de representación proporcional de grupos en situación de vulnerabilidad.
+
+4. El Instituto emitirá los lineamientos para garantizar la pertenencia o autoadscripción de las personas a cualquiera de los grupos en situación de vulnerabilidad para evitar simulaciones y fraudes a la ley.
+
+5. Por cada circunscripción específica los partidos políticos postularán dos fórmulas de candidaturas integradas mediante un propietario y un suplente que pertenezcan o se autoadscriban a cualquiera de los grupos en situación de vulnerabilidad que señalan las Cartas de Derechos del Estado y sus Protocolos.
+
+6. Los partidos políticos deberán alternar el género de la fórmula de candidaturas que encabecen la circunscripción en cada proceso electoral.
+
+7. Para garantizar la paridad de género, las fórmulas que encabecen las mujeres siempre deberán ser registradas con una suplente del mismo género; las mujeres podrán ser suplentes en las fórmulas que encabecen los hombres; sin embargo, no se permitirán candidaturas encabezadas por una mujer con un suplente hombre.
 
 ###### Artículo 72.
 
@@ -1391,9 +1639,21 @@ g) Haberse fusionado con otro partido político.
 
 2. El Consejo General del Instituto proveerá lo conducente para la adecuada aplicación de las normas contenidas en el presente Libro.
 
-3. En todo lo no previsto en este Libro para las candidaturas independientes se aplicarán, en forma supletoria, las disposiciones establecidas en este Código para las candidaturas de partidos políticos.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “3. En todo lo no previsto en este Libro para las candidaturas independientes se aplicarán, en forma supletoria, las disposiciones establecidas en este Código para las candidaturas de partidos políticos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. DURANTE EL PROCESO DE SELECCIÓN DE CANDIDATURAS INDEPENDIENTES, EL INSTITUTO PODRÁ AUTORIZAR EL USO DE LAS NUEVAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN QUE PERMITAN, ENTRE OTROS TRÁMITES, LA ADMINISTRACIÓN Y RECEPCIÓN DE LA DOCUMENTACIÓN QUE LA CIUDADANÍA INTERESADA DEBA PRESENTAR PARA OBTENER SU REGISTRO.
+
+DE MANERA PREVIA AL INICIO DE LOS PROCESOS ELECTORALES, EL INSTITUTO ESTABLECERÁ LAS HERRAMIENTAS, PROGRAMAS O APLICACIONES QUE HABRÁN DE HABILITARSE, SITUACIÓN QUE DEBERÁ QUEDAR DE MANIFIESTO EN LA CONVOCATORIA RESPECTIVA.
 
 4. El Consejo General del Instituto deberá expedir el reglamento de las candidaturas independientes, a más tardar con treinta días de anticipación al inicio del proceso electoral.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+5. EN TODO LO NO PREVISTO EN ESTE LIBRO PARA LAS CANDIDATURAS INDEPENDIENTES SE APLICARÁN, EN FORMA SUPLETORIA, LAS DISPOSICIONES ESTABLECIDAS EN ESTE CÓDIGO PARA LAS CANDIDATURAS DE PARTIDOS POLÍTICOS.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1424,6 +1684,24 @@ g) Haberse fusionado con otro partido político.
 a) Las ciudadanas y los ciudadanos que hayan desempeñado un cargo de dirigencia nacional, estatal o municipal en algún partido político, a menos que renuncien al partido, un día antes de la manifestación de intención de contender como candidata o candidato independiente.
 
 b) Quienes desempeñen un cargo de elección popular, a menos que renuncien al partido por el que accedieron al cargo, un día antes de la manifestación de intención de contender como candidata o candidato independiente.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO c) AL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+c) LAS PERSONAS QUE HAYAN SIDO SANCIONADAS POR AUTORIDAD JUDICIAL POR VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO O CUALQUIER OTRO TIPO Y MODALIDAD DE VIOLENCIA PREVISTA EN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA O POR LOS DELITOS DE VIOLENCIA FAMILIAR O DE INCUMPLIMIENTO DE OBLIGACIONES ALIMENTARIAS. ESTA RESTRICCIÓN SE APLICARÁ A PARTIR DE QUE LA RESOLUCIÓN CAUSE EJECUTORIA.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO d) AL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+d) LAS PERSONAS QUE HAYAN SIDO SANCIONADAS POR HABER RECABADO FIRMAS APÓCRIFAS O NO AUTÉNTICAS EN LA OBTENCIÓN DEL APOYO CIUDADANO.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+LOS SUPUESTOS DE IMPOSIBILIDAD PREVISTOS EN ESTE ARTÍCULO, SERÁN APLICANDO LOS MISMOS CRITERIOS DE TEMPORALIDAD PREVISTOS EN LOS ARTÍCULOS 11 BIS Y 11 TER.
 
 ###### Artículo 88.
 
@@ -1465,7 +1743,7 @@ c) La obtención del apoyo de la ciudadanía, y
 
 d) El registro de candidaturas independientes.
 
-### CAPÍTULO SEGUNDO. DE LOS ACTOS PREVIOS AL REGISTRO DE CANDIDATOS INDEPENDIENTES
+### CAPÍTULO PRIMERO. DE LA CONVOCATORIA
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1475,7 +1753,7 @@ d) El registro de candidaturas independientes.
 
 2. El Instituto dará amplia difusión a la convocatoria.
 
-### CAPÍTULO TERCERO. DE LA OBTENCIÓN DEL APOYO DE LA CIUDADANÍA
+### CAPÍTULO SEGUNDO. DE LOS ACTOS PREVIOS AL REGISTRO DE CANDIDATOS INDEPENDIENTES
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1491,9 +1769,17 @@ b) Las y los aspirantes al cargo de diputaciones por el principio de mayoría re
 
 c) Las y los aspirantes al cargo de integrantes de los ayuntamientos, ante el secretario ejecutivo del Comité Municipal correspondiente.
 
-3. La o el aspirante a una candidatura independiente deberá adjuntar a su manifestación de intención, copia simple de la credencial para votar vigente y presentar la documentación que acredite la creación de la persona jurídica colectiva constituida en asociación civil, la cual deberá tener el mismo tratamiento que un partido político en el régimen fiscal.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “3. La o el aspirante a una candidatura independiente deberá adjuntar a su manifestación de intención, copia simple de la credencial para votar vigente y presentar la documentación que acredite la creación de la persona jurídica colectiva constituida en asociación civil, la cual deberá tener el mismo tratamiento que un partido político en el régimen fiscal.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-4. Con la manifestación de intención, la candidata o candidato independiente deberá presentar la documentación que acredite la creación de la persona moral constituida en Asociación Civil, la cual deberá tener el mismo tratamiento que un partido político en el régimen fiscal. El Instituto establecerá el modelo único de estatutos de la asociación civil mismo que deberá de difundirse con la emisión de la convocatoria. De la misma manera deberá acreditar su alta ante el Sistema de Administración Tributaria y anexar los datos de la cuenta bancaria que se aperture a nombre de la persona moral para recibir el financiamiento público y privado correspondiente.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. LA PERSONA ASPIRANTE A UNA CANDIDATURA INDEPENDIENTE DEBERÁ ADJUNTAR A SU MANIFESTACIÓN DE INTENCIÓN, COPIA SIMPLE DE LA CREDENCIAL PARA VOTAR VIGENTE Y PRESENTAR LA DOCUMENTACIÓN QUE ACREDITE LA CREACIÓN DE LA PERSONA MORAL CONSTITUIDA EN ASOCIACIÓN CIVIL, CUYO OBJETO SOCIAL SE ENCUENTRE RELACIONADO, ENTRE OTROS, CON EL PROCESO DE OBTENCIÓN DEL RESPALDO CIUDADANO RESPECTIVO PARA EL REGISTRO DE UNA CANDIDATURA INDEPENDIENTE, LA CUAL DEBERÁ TENER EL MISMO TRATAMIENTO QUE UN PARTIDO POLÍTICO EN EL RÉGIMEN FISCAL.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “4. Con la manifestación de intención, la candidata o candidato independiente deberá presentar la documentación que acredite la creación de la persona moral constituida en Asociación Civil, la cual deberá tener el mismo tratamiento que un partido político en el régimen fiscal. El Instituto establecerá el modelo único de estatutos de la asociación civil mismo que deberá de difundirse con la emisión de la convocatoria. De la misma manera deberá acreditar su alta ante el Sistema de Administración Tributaria y anexar los datos de la cuenta bancaria que se aperture a nombre de la persona moral para recibir el financiamiento público y privado correspondiente.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+4. EL INSTITUTO DISEÑARÁ EL MODELO ÚNICO DE ESTATUTOS DE LA ASOCIACIÓN CIVIL CONFORME A LO PREVISTO EN EL REGLAMENTO O LINEAMIENTOS QUE PARA TAL EFECTO EMITA, EL QUE DEBERÁ DIFUNDIRSE CON LA EMISIÓN DE LA CONVOCATORIA. DE LA MISMA MANERA DEBERÁ ACREDITAR SU ALTA ANTE EL SISTEMA DE ADMINISTRACIÓN TRIBUTARIA Y ANEXAR LOS DATOS DE LA CUENTA BANCARIA QUE SE APERTURE A NOMBRE DE LA PERSONA MORAL PARA RECIBIR EL FINANCIAMIENTO PÚBLICO Y PRIVADO CORRESPONDIENTE.
 
 5. La persona moral a la que se refiere el párrafo anterior deberá estar constituida con por lo menos la o el aspirante a una candidatura independiente, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.
 
@@ -1503,7 +1789,11 @@ c) Las y los aspirantes al cargo de integrantes de los ayuntamientos, ante el se
 
 1. Recibidas las manifestaciones de intención de las y los aspirantes a una candidatura independiente el Instituto verificará el cumplimiento de los requisitos señalados para cada cargo en la Constitución, así como en el presente Código y en los lineamientos que para tal efecto se hayan emitido.
 
-2. Si de la verificación realizada se advierte la omisión de uno o varios requisitos, el Instituto notificará personalmente, o en su caso por estrados, al interesado o al representante designado, dentro de las cuarenta y ocho horas siguientes, para que en un plazo igual subsane los requisitos omitidos. En caso de no cumplir con dicha prevención en tiempo o en forma, el Consejo desechará de plano la solicitud respectiva.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “2. Si de la verificación realizada se advierte la omisión de uno o varios requisitos, el Instituto notificará personalmente, o en su caso por estrados, al interesado o al representante designado, dentro de las cuarenta y ocho horas siguientes, para que en un plazo igual subsane los requisitos omitidos. En caso de no cumplir con dicha prevención en tiempo o en forma, el Consejo desechará de plano la solicitud respectiva.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+2. SI DE LA VERIFICACIÓN REALIZADA SE ADVIERTEN ERRORES O INCONSISTENCIAS DE UNO O VARIOS REQUISITOS DE CARÁCTER FORMAL, EL INSTITUTO NOTIFICARÁ PERSONALMENTE O, EN SU CASO, POR ESTRADOS, A LA PERSONA INTERESADA O REPRESENTANTE DESIGNADA, DENTRO DE LAS CUARENTA Y OCHO HORAS SIGUIENTES, PARA QUE EN UN PLAZO IGUAL LOS SUBSANE O CORRIJA, SIN QUE ELLO SE TRADUZCA EN UNA PRÓRROGA PARA SOLVENTAR OMISIONES. EN CASO DE NO CUMPLIR CON DICHA PREVENCIÓN EN TIEMPO O EN FORMA, EL CONSEJO GENERAL DESECHARÁ DE PLANO LA SOLICITUD RESPECTIVA.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1513,19 +1803,33 @@ c) Las y los aspirantes al cargo de integrantes de los ayuntamientos, ante el se
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES DE LOS ASPIRANTES
+### CAPÍTULO TERCERO. DE LA OBTENCIÓN DEL APOYO DE LA CIUDADANÍA
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 95.
 
 1. A partir del día siguiente de la fecha en que obtengan la calidad de aspirantes, estos podrán realizar actos tendentes a recabar el porcentaje de apoyo de la ciudadanía requerido por medios diversos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
-
 ###### Artículo 96.
 
-1. Los actos tendentes a recabar el apoyo de la ciudadanía en los procesos en que se elijan la Gubernatura, diputaciones locales e integrantes de los ayuntamientos, iniciarán y tendrán la misma duración que la precampaña de la elección de que se trate.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “1. Los actos tendentes a recabar el apoyo de la ciudadanía en los procesos en que se elijan la Gubernatura, diputaciones locales e integrantes de los ayuntamientos, iniciarán y tendrán la misma duración que la precampaña de la elección de que se trate.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+1. LOS ACTOS TENDENTES A RECABAR EL APOYO DE LA CIUDADANÍA EN LOS PROCESOS EN QUE SE ELIJAN LA GUBERNATURA, DIPUTACIONES LOCALES E INTEGRANTES DE LOS AYUNTAMIENTOS, INICIARÁN A PARTIR DEL DÍA SIGUIENTE DE LA FECHA EN QUE SE OBTENGA LA CALIDAD DE ASPIRANTE HASTA QUE CONCLUYA LA PRECAMPAÑA DE LA ELECCIÓN DE QUE SE TRATE.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 2. El Consejo General del Instituto podrá realizar ajustes a los tiempos establecidos en este artículo, a fin de garantizar los plazos de registro y que la duración de los actos tendentes a recabar el apoyo de la ciudadanía se ciñan a lo establecido en las fracciones anteriores. Cualquier ajuste que el Consejo General realice deberá ser difundido ampliamente.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. LA PERSONA QUE HAYA OBTENIDO LA CALIDAD DE ASPIRANTE A UNA CANDIDATURA INDEPENDIENTE, DEBERÁ RECABAR EL APOYO DE LA CIUDADANÍA A TRAVÉS DE APLICACIÓN MÓVIL O LA CÉDULA DE RESPALDO DE APOYO DE LA CIUDADANÍA, CONFORME A LOS PROCEDIMIENTOS ESTABLECIDOS EN EL REGLAMENTO QUE PARA TAL EFECTO EMITA EL INSTITUTO.
+
+EL INSTITUTO ESTABLECERÁ LA UTILIZACIÓN DE LA CÉDULA DE RESPALDO O, EN SU CASO, LA APLICACIÓN MÓVIL, EN EL REGLAMENTO O LINEAMIENTOS RESPECTIVOS.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1633,7 +1937,7 @@ c) Las y los aspirantes al cargo de integrantes de los ayuntamientos, ante el se
 
 1. Los aspirantes que sin haber obtenido el registro a la candidatura independiente no entreguen los informes antes señalados, serán sancionados en los términos de este Código.
 
-### CAPÍTULO QUINTO. DEL REGISTRO DE CANDIDATURAS INDEPENDIENTES
+### CAPÍTULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES DE LOS ASPIRANTES
 
 ###### Artículo 115.
 
@@ -1699,11 +2003,33 @@ g) Rendir el informe de ingresos y egresos;
 
 h) Respetar los topes de gastos de campaña fijados para obtener el apoyo de la ciudadanía, en los términos que establece el presente Código, e
 
-i) Las demás establecidas por este Código.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO i) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “i) Las demás establecidas por este Código.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+i) ABSTENERSE DE EJERCER VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO O CUALQUIER OTRO TIPO Y MODALIDAD DE VIOLENCIA PREVISTA EN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA;
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO j) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+j) ABSTENERSE DE ATACAR EN FORMA ARBITRARIA LA VIDA PRIVADA, ASÍ COMO OFENDER, DIFAMAR O CALUMNIAR EN FORMA ILEGAL A OTRAS PERSONAS ASPIRANTES O PRECANDIDATAS;
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO k) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+k) ABSTENERSE DE RECABAR FIRMAS APÓCRIFAS O NO AUTÉNTICAS; Y
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO l) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+l) LAS DEMÁS ESTABLECIDAS POR ESTE CÓDIGO.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO PRIMERO. DE LAS PRERROGATIVAS
+### CAPÍTULO QUINTO. DEL REGISTRO DE CANDIDATURAS INDEPENDIENTES
 
 #### SECCIÓN PRIMERA. DE LOS REQUISITOS DE ELEGIBILIDAD
 
@@ -1821,6 +2147,12 @@ c) Cuando la ciudadanía que las suscriba no corresponda al ámbito estatal, dis
 
 1. De acreditarse el cumplimiento de los demás requisitos y que el número de los formatos de respaldo sea suficiente, los mismos, acompañados de listas en medio impreso y digital, se remitirán a la Dirección Ejecutiva del Registro Federal de Electores para su cotejo y validación, dentro del plazo que se convenga con el Instituto Nacional.
 
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL SEGUNDO PÁRRAFO DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+A FIN DE SALVAGUARDAR LA GARANTÍA DE AUDIENCIA DE LAS PERSONAS ASPIRANTES A UNA CANDIDATURA INDEPENDIENTE, EN AQUELLOS CASOS EN QUE, DERIVADO DE LOS RESULTADOS DE LAS COMPULSAS REALIZADAS POR LA DIRECCIÓN EJECUTIVA DEL REGISTRO FEDERAL DE ELECTORES, SE ADVIERTA QUE NO SE CUENTA CON EL NÚMERO SUFICIENTE DE MUESTRAS DE APOYO DE LA CIUDADANÍA, EL INSTITUTO LLEVARÁ A CABO LAS DILIGENCIAS NECESARIAS A FIN DE QUE LA PERSONA ASPIRANTE SE ENCUENTRE EN POSIBILIDADES DE SUBSANAR AQUELLOS DATOS QUE CONSIDERE NECESARIOS Y MANIFESTAR LO QUE A SU DERECHO CONVENGA, SIN QUE ELLO IMPLIQUE LA PRESENTACIÓN DE MUESTRAS DE APOYO ADICIONALES, DEBIÉNDOSE OBSERVAR EL PROCEDIMIENTO ESTABLECIDO EN EL REGLAMENTO O LINEAMIENTOS QUE PARA TAL EFECTO EMITA EL INSTITUTO.
+
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 2. La Dirección Ejecutiva del Registro Federal de Electores, emitirá el acuerdo por el que se valide o se dé por no acreditado el cumplimiento del requisito de respaldo de la ciudadanía mínimo (sic) , que será notificado de inmediato al Instituto.
@@ -1893,7 +2225,7 @@ b) Respecto de las fórmulas de candidaturas a sindicaturas y regidurías indepe
 
 ## TÍTULO TERCERO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS
+### CAPÍTULO PRIMERO. DE LAS PRERROGATIVAS
 
 ###### Artículo 133.
 
@@ -1969,7 +2301,17 @@ n) Presentar, en los mismos términos en que lo hagan los partidos políticos, l
 
 o) Ser responsable solidario, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes, y
 
-p) Las demás que establezcan este Código y los demás ordenamientos.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO p) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “p) Las demás que establezcan este Código y los demás ordenamientos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+p) ABSTENERSE DE ATACAR EN FORMA ARBITRARIA LA VIDA PRIVADA, ASÍ COMO OFENDER, DIFAMAR O CALUMNIAR EN FORMA ILEGAL A OTRAS PERSONAS ASPIRANTES O PRECANDIDATAS; Y
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO q) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+q) LAS DEMÁS QUE ESTABLEZCAN ESTE CÓDIGO Y LOS DEMÁS ORDENAMIENTOS.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1999,7 +2341,7 @@ c) Las candidaturas independientes correspondientes a integrantes de los ayuntam
 
 1. El registro de los nombramientos de los representantes ante mesas directivas de casilla y generales, se realizará en los términos previstos en este Código.
 
-### CAPÍTULO PRIMERO. DE LAS PRECAMPAÑAS
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS
 
 #### SECCIÓN PRIMERA. DEL FINANCIAMIENTO
 
@@ -2143,6 +2485,12 @@ c) Un 33.3 por ciento que se distribuirá de manera igualitaria entre todas las 
 
 1. El Instituto dará el aviso a la autoridad correspondiente, para efecto de suspender inmediatamente cualquier propaganda política o electoral en radio o televisión que resulte violatoria de este Código. Lo anterior, sin perjuicio de las demás sanciones que deban aplicarse a los infractores.
 
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+2. CUANDO SE ACREDITE VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO, EN USO DE LAS PRERROGATIVAS SEÑALADAS EN EL PRESENTE CAPÍTULO, LA AUTORIDAD COMPETENTE ORDENARÁ SUSPENDER, DE MANERA INMEDIATA, LA DIFUSIÓN DE PROPAGANDA. ASIMISMO, ASIGNARÁ TIEMPOS EN RADIO Y TELEVISIÓN CON CARGO A LAS PRERROGATIVAS DE LA CANDIDATURA INDEPENDIENTE INFRACTORA, QUIEN DEBERÁ OFRECER DISCULPA PÚBLICA, CON LA FINALIDAD DE REPARAR EL DAÑO.
+
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 156.
@@ -2247,9 +2595,7 @@ d) Dictamen y declaración de validez de la elección.
 
 ## TÍTULO TERCERO. DE LOS ACTOS PREPARATORIOS DE LA ELECCIÓN
 
-### CAPÍTULO SEGUNDO. DISPOSICIONES GENERALES DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATURAS
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO PRIMERO. DE LAS PRECAMPAÑAS
 
 ###### Artículo 168.
 
@@ -2333,7 +2679,11 @@ f) Cuando dentro de los procesos a que se refiere este artículo exista una sola
 
 2. Las precandidatas y precandidatos podrán impugnar, ante el órgano interno de justicia partidaria, o equivalente, los reglamentos y convocatorias; la integración de los órganos responsables de conducir los procesos internos, los acuerdos y resoluciones que adopten, y en general los actos que realicen los órganos directivos, o sus integrantes, cuando de los mismos se desprenda la violación de las normas que rijan los procesos de selección de candidaturas a cargos de elección popular. Cada partido político deberá contar con un reglamento interno en el que se regulen los procedimientos y plazos para la resolución de tales controversias.
 
-3. Los medios de impugnación internos que se interpongan con motivo de los resultados de los procesos de selección interna de candidaturas a cargos de elección popular deberán quedar resueltos en definitiva a más tardar catorce días después de la fecha de realización del proceso mediante el cual se haya adoptado la decisión sobre candidaturas.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “3. Los medios de impugnación internos que se interpongan con motivo de los resultados de los procesos de selección interna de candidaturas a cargos de elección popular deberán quedar resueltos en definitiva a más tardar catorce días después de la fecha de realización del proceso mediante el cual se haya adoptado la decisión sobre candidaturas.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. LOS MEDIOS DE IMPUGNACIÓN PARTIDISTAS QUE SE PRESENTEN CON MOTIVO DE LOS RESULTADOS DE LOS PROCESOS DE SELECCIÓN INTERNA DE CANDIDATURAS A CARGOS DE ELECCIÓN POPULAR, DEBERÁN SER RESUELTOS PREVIO AL INICIO DE LOS REGISTROS DE CANDIDATURAS ANTE EL INSTITUTO; EN CASO CONTRARIO, EL PARTIDO PERDERÁ EL DERECHO A POSTULAR CANDIDATURAS.
 
 4. Los medios de impugnación que presenten las precandidatas y precandidatos debidamente registrados en contra de los resultados del proceso a que se refiere el párrafo anterior, se presentarán ante el órgano interno competente a más tardar dentro de los cuatro días siguientes a la emisión del resultado.
 
@@ -2351,7 +2701,13 @@ f) Cuando dentro de los procesos a que se refiere este artículo exista una sola
 
 3. Si una precandidata o precandidato incumple la obligación de entregar su informe de ingresos y gastos de precampaña dentro del plazo establecido para tal efecto, y hubiese obtenido la mayoría de votos en la consulta interna o en la asamblea respectiva, no podrá ser registrado legalmente como candidata o candidato. Las precandidaturas que sin haber obtenido la postulación a la candidatura no entreguen el informe antes señalado, serán sancionados en los términos de lo establecido por la legislación aplicable.
 
-4. Las precandidaturas que rebasen el tope de gastos de precampaña establecido por el Consejo General del Instituto serán sancionadas con la cancelación de su registro o, en su caso, con la pérdida de la candidatura que hayan obtenido. En el último supuesto, los partidos conservan el derecho de realizar las sustituciones que procedan.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “4. Las precandidaturas que rebasen el tope de gastos de precampaña establecido por el Consejo General del Instituto serán sancionadas con la cancelación de su registro o, en su caso, con la pérdida de la candidatura que hayan obtenido. En el último supuesto, los partidos conservan el derecho de realizar las sustituciones que procedan.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+4. LAS PRECANDIDATURAS QUE REBASEN EL TOPE DE GASTOS DE PRECAMPAÑA ESTABLECIDO POR EL CONSEJO GENERAL DEL INSTITUTO, SERÁN SANCIONADAS CON LA CANCELACIÓN DE SU REGISTRO O, EN SU CASO, CON LA PÉRDIDA DE LA CANDIDATURA. EN EL ÚLTIMO SUPUESTO, LOS PARTIDOS CONSERVAN EL DERECHO DE REALIZAR LAS SUSTITUCIONES QUE PROCEDAN, ÚNICA Y EXCLUSIVAMENTE POR LA MILITANCIA O CIUDADANÍA EXTERNA QUE HUBIERA PARTICIPADO EN LA CONSULTA, ASAMBLEA O EN CUALQUIER OTRO PROCESO INTERNO PARA LA SELECCIÓN DE PRECANDIDATURAS A CARGOS DE ELECCIÓN POPULAR.
+
+EN EL SUPUESTO DE UNA PRECANDIDATURA ÚNICA O DESIGNACIÓN DIRECTA, LA SUSTITUCIÓN RECAERÁ EN MILITANCIA ACTIVA DEL PROPIO PARTIDO.
 
 ###### Artículo 174.
 
@@ -2369,7 +2725,7 @@ f) Cuando dentro de los procesos a que se refiere este artículo exista una sola
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO TERCERO. DE LAS CAMPAÑAS ELECTORALES
+### CAPÍTULO SEGUNDO. DISPOSICIONES GENERALES DEL PROCEDIMIENTO DE REGISTRO DE CANDIDATURAS
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -2411,7 +2767,11 @@ f) Cuando dentro de los procesos a que se refiere este artículo exista una sola
 
 a) Las candidaturas a diputaciones de mayoría relativa, por los comités distritales.
 
-b) Las candidaturas a diputaciones electas por el principio de representación proporcional, por el Consejo General del Instituto.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO b) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) Las candidaturas a diputaciones electas por el principio de representación proporcional, por el Consejo General del Instituto.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+b) LAS CANDIDATURAS A DIPUTACIONES ELECTAS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y DE GRUPOS EN SITUACIÓN DE VULNERABILIDAD, POR EL CONSEJO GENERAL DEL INSTITUTO.
 
 c) Las candidaturas a integrantes de Ayuntamientos por los comités municipales correspondientes.
 
@@ -2463,9 +2823,11 @@ d) Copia certificada de la constancia de registro de la plataforma electoral, y
 
 e) Constancia de residencia.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “3. La solicitud de registro de la lista de candidaturas a diputaciones por el principio de representación proporcional deberá acompañarse de, por lo menos, nueve constancias de registro de candidaturas a diputaciones por el principio de mayoría relativa. Asimismo, la solicitud de registro de las listas de representación proporcional, deberá especificar cuáles de los integrantes están optando por reelegirse en sus cargos y el número de veces que han ocupado la misma posición de manera consecutiva.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-3. La solicitud de registro de la lista de candidaturas a diputaciones por el principio de representación proporcional deberá acompañarse de, por lo menos, nueve constancias de registro de candidaturas a diputaciones por el principio de mayoría relativa. Asimismo, la solicitud de registro de las listas de representación proporcional, deberá especificar cuáles de los integrantes están optando por reelegirse en sus cargos y el número de veces que han ocupado la misma posición de manera consecutiva.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. LA SOLICITUD DE REGISTRO DE LAS LISTAS DE CANDIDATURAS A DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL DEBERÁ ACOMPAÑARSE DE, POR LO MENOS, NUEVE CONSTANCIAS DE REGISTRO DE CANDIDATURAS A DIPUTACIONES POR EL PRINCIPIO DE MAYORÍA RELATIVA. ASIMISMO, LA SOLICITUD DE REGISTRO DE LAS LISTAS DE REPRESENTACIÓN PROPORCIONAL DEBERÁ ESPECIFICAR CUÁLES DE LOS INTEGRANTES ESTÁN OPTANDO POR REELEGIRSE EN SUS CARGOS Y EL NÚMERO DE VECES QUE HAN OCUPADO LA MISMA POSICIÓN DE MANERA CONSECUTIVA.
 
 4. Para el registro de candidatos de coalición, según corresponda, deberá acreditarse que se cumplió con lo dispuesto por la Ley de Partidos y este Código.
 
@@ -2497,13 +2859,29 @@ e) Constancia de residencia.
 
 a) Dentro del plazo establecido para el registro de candidaturas, podrán sustituirlas libremente;
 
-b) Vencido el plazo a que se refiere el inciso anterior, exclusivamente podrán sustituirlas por causas de fallecimiento, inhabilitación, incapacidad o renuncia ratificada por la candidata o candidato ante la autoridad electoral, y
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO b) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “b) Vencido el plazo a que se refiere el inciso anterior, exclusivamente podrán sustituirlas por causas de fallecimiento, inhabilitación, incapacidad o renuncia ratificada por la candidata o candidato ante la autoridad electoral, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+b) VENCIDO EL PLAZO A QUE SE REFIERE EL INCISO ANTERIOR, LAS CANDIDATURAS PODRÁN SUSTITUIRSE POR FALLECIMIENTO, INHABILITACIÓN, INCAPACIDAD, RENUNCIA RATIFICADA POR LA CANDIDATURA ANTE EL INSTITUTO O CANCELACIÓN DEL REGISTRO POR AUTORIDAD COMPETENTE.
+
+EN ESTOS SUPUESTOS, LA SUSTITUCIÓN DEBERÁ RECAER EN LA MILITANCIA O CIUDADANÍA EXTERNA QUE HUBIERA PARTICIPADO EN LA CONSULTA, ASAMBLEA O EN CUALQUIER OTRO PROCESO INTERNO PARA LA SELECCIÓN DE PRECANDIDATURAS A CARGOS DE ELECCIÓN POPULAR.
+
+EN EL SUPUESTO DE QUE SE TRATE DE PRECANDIDATURA ÚNICA O DESIGNACIÓN DIRECTA, LA SUSTITUCIÓN DEBERÁ RECAER EN LA MILITANCIA ACTIVA DEL PROPIO PARTIDO.
 
 c) Sólo aparecerán en las boletas electorales las sustituciones de candidaturas cuando no se afecten los tiempos para la impresión de las mismas.
 
-d) En los casos en que la renuncia del candidato fuera notificada por éste al Consejo General del Instituto, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO d) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) En los casos en que la renuncia del candidato fuera notificada por éste al Consejo General del Instituto, se hará del conocimiento del partido político que lo registró para que proceda, en su caso, a su sustitución.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-### CAPÍTULO CUARTO. DE LOS PROCEDIMIENTOS PARA LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+d) EN CASO DE RENUNCIA DE CANDIDATURA, LA SUSTITUCIÓN DEBERÁ PRESENTARSE A MÁS TARDAR 14 DÍAS ANTES DE LA ELECCIÓN, INFORMANDO AL PARTIDO POLÍTICO QUE LO REGISTRÓ PARA QUE PROCEDA, EN SU CASO, A LA SUSTITUCIÓN, DE CONFORMIDAD CON LO ESTABLECIDO POR ESTE CÓDIGO.
+
+EL INSTITUTO NOTIFICARÁ AL PARTIDO POLÍTICO LA RENUNCIA DE LA CANDIDATURA.
+
+### CAPÍTULO TERCERO. DE LAS CAMPAÑAS ELECTORALES
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 185.
 
@@ -2547,9 +2925,11 @@ Comprenden los realizados para el pago de servicios profesionales; uso de equipo
 
 3. El Consejo General del Instituto, en la determinación de los topes de gasto de campaña, aplicará las siguientes reglas:
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO a) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) Para la elección de la Gubernatura, el tope máximo será equivalente al veinticinco por ciento del financiamiento público de campaña para todos los partidos políticos en el año de que se trate;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-a) Para la elección de la Gubernatura, el tope máximo será equivalente al veinticinco por ciento del financiamiento público de campaña para todos los partidos políticos en el año de que se trate;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+a) PARA LA ELECCIÓN DE LA GUBERNATURA, EL TOPE MÁXIMO SERÁ EQUIVALENTE AL SETENTA POR CIENTO DEL FINANCIAMIENTO PÚBLICO DE CAMPAÑA PARA TODOS LOS PARTIDOS POLÍTICOS EN EL AÑO DE QUE SE TRATE;
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -2576,6 +2956,12 @@ e) El Consejo General del Instituto determinará los montos a que se refiere est
 ###### Artículo 188.
 
 1. La propaganda que las candidatas y candidatos utilicen durante la campaña electoral deberá contener, en su caso, una identificación precisa del partido político o coalición que ha registrado la candidatura.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+2. CUANDO PROCEDA LA SUSTITUCIÓN DE CANDIDATURAS, LA PROPAGANDA ELECTORAL DE LA CANDIDATURA SUSTITUTA DEBERÁ CONTENER, ADEMÁS DE LA IDENTIFICACIÓN PRECISA DEL PARTIDO POLÍTICO O COALICIÓN QUE LO HA REGISTRADO, NOMBRE Y APELLIDOS ACOMPAÑADOS, EN SU CASO, DEL SOBRENOMBRE O APODO CON EL QUE SE IDENTIFIQUE; FOTOGRAFÍA Y CARGO PARA EL CUAL SE POSTULA.
 
 ###### Artículo 189.
 
@@ -2661,9 +3047,7 @@ e) El Consejo General del Instituto determinará los montos a que se refiere est
 
 4. La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas en la página de Internet del Instituto.
 
-### CAPÍTULO QUINTO. DEL REGISTRO DE REPRESENTANTES
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO CUARTO. DE LOS PROCEDIMIENTOS PARA LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### Artículo 195.
 
@@ -2681,7 +3065,9 @@ e) El Consejo General del Instituto determinará los montos a que se refiere est
 
 2. El día de la jornada electoral, la ubicación de las casillas electorales deberá ser dada a conocer a la ciudadanía mediante la colocación de señales claramente visibles en los lugares en que se haya determinado su instalación.
 
-### CAPÍTULO SEXTO. DE LA DOCUMENTACIÓN Y EL MATERIAL ELECTORAL
+### CAPÍTULO QUINTO. DEL REGISTRO DE REPRESENTANTES
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 197.
 
@@ -2787,7 +3173,7 @@ i) Firma del representante o del dirigente del partido político que haga el nom
 
 3. Los partidos políticos o las candidatas o candidatos independientes podrán sustituir a sus representantes hasta diez días antes de la fecha de la elección, devolviendo con el nuevo nombramiento, el original del anterior.
 
-### CAPÍTULO PRIMERO. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
+### CAPÍTULO SEXTO. DE LA DOCUMENTACIÓN Y EL MATERIAL ELECTORAL
 
 ###### Artículo 203.
 
@@ -2805,9 +3191,15 @@ a) Tipo de elección y el distrito o municipio, sección electoral y fecha de la
 
 b) Cargo para el que se postula a la candidata o candidato;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO c) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) Nombre y apellidos de la candidata o el candidato; en el caso de la elección de miembros de los ayuntamientos, sólo se imprimirá el nombre y apellidos de las candidatas o candidatos a presidencias municipales. Los nombres de las candidatas y candidatos a regidurías y suplencias se imprimirán al reverso de las boletas;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-c) Nombre y apellidos de la candidata o el candidato; en el caso de la elección de miembros de los ayuntamientos, sólo se imprimirá el nombre y apellidos de las candidatas o candidatos a presidencias municipales. Los nombres de las candidatas y candidatos a regidurías y suplencias se imprimirán al reverso de las boletas;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+c) NOMBRE Y APELLIDOS DE LA PERSONA CANDIDATA; EN EL CASO DE LA ELECCIÓN DE GUBERNATURA, SI ASÍ LO DESEA, PODRÁ SOLICITAR QUE SE INCLUYA DESPUÉS DE SU NOMBRE, EL SOBRENOMBRE O APODO CON EL QUE SE LE CONOCE PÚBLICAMENTE.
+
+EN NINGÚN CASO, EL SOBRENOMBRE O APODO PODRÁ SUSTITUIR O MODIFICAR EL NOMBRE DE LA PERSONA CANDIDATA A LA GUBERNATURA NI LAS DIMENSIONES NI CARACTERÍSTICAS DE LOS RECUADROS.
+
+EN EL CASO DE LA ELECCIÓN DE MIEMBROS DE LOS AYUNTAMIENTOS, SÓLO SE IMPRIMIRÁ EL NOMBRE Y APELLIDOS DE LAS CANDIDATAS O CANDIDATOS A PRESIDENCIAS MUNICIPALES. LOS NOMBRES DE LAS CANDIDATURAS A LAS SINDICATURAS Y LAS REGIDURÍAS Y SUS SUPLENCIAS SE IMPRIMIRÁN AL REVERSO DE LAS BOLETAS;
 
 d) Color o combinación de colores y emblema a color de cada partido político en el orden que le corresponda de acuerdo a la antigüedad de su registro como partido político;
 
@@ -2817,9 +3209,11 @@ e) Espacio para cada una de las candidaturas independientes;
 
 f) En el caso de la elección de ayuntamientos, un sólo espacio para la planilla de propietarios y suplentes, postulados por cada partido político o coalición;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO g) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “g) Para la elección de diputaciones por el principio de mayoría relativa y de representación proporcional, se utilizará boleta única, que contendrá un sólo espacio para cada partido político o coalición, así como, respectivamente, la fórmula de candidaturas y la lista plurinominal;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-g) Para la elección de diputaciones por el principio de mayoría relativa y de representación proporcional, se utilizará boleta única, que contendrá un sólo espacio para cada partido político o coalición, así como, respectivamente, la fórmula de candidaturas y la lista plurinominal;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+g) PARA LA ELECCIÓN DE DIPUTACIONES POR EL PRINCIPIO DE MAYORÍA RELATIVA, DE REPRESENTACIÓN PROPORCIONAL Y DE GRUPOS EN SITUACIÓN DE VULNERABILIDAD, SE UTILIZARÁ UNA BOLETA ÚNICA, QUE CONTENDRÁ UN SÓLO ESPACIO PARA CADA PARTIDO POLÍTICO O COALICIÓN Y, AL REVERSO, LAS LISTAS DE REPRESENTACIÓN PLURINOMINAL Y DE GRUPOS EN SITUACIÓN DE VULNERABILIDAD QUE SE POSTULEN CONFORME A LA LEY;
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -2837,6 +3231,32 @@ l) Número de folio desprendible en numeración progresiva, según la votación 
 
 m) Las medidas impresas de seguridad que impidan su falsificación.
 
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO n) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+n) FOTOGRAFÍA DE LA PERSONA CANDIDATA A LA GUBERNATURA, EN LOS TÉRMINOS Y CON LOS ELEMENTOS TÉCNICOS PRECISADOS POR EL INSTITUTO EN LA CONVOCATORIA RESPECTIVA.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO ñ) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+ñ) SE DESTINARÁ UN RECUADRO PARA CADA CANDIDATURA INDEPENDIENTE REGISTRADA, CON LAS MISMAS DIMENSIONES Y CARACTERÍSTICAS AL DE LOS PARTIDOS Y COALICIONES QUE PARTICIPEN. APARECERÁN DESPUÉS DE LOS RECUADROS DE LOS PARTIDOS POLÍTICOS EN EL ORDEN EN QUE AQUELLAS HUBIERAN SIDO REGISTRADAS.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO o) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+o) EN LA BOLETA APARECERÁ EL NOMBRE Y APELLIDOS DE LA CANDIDATURA INDEPENDIENTE Y, EN LA ELECCIÓN A LA GUBERNATURA, SI ASÍ LO DESEA, PODRÁ SOLICITAR QUE SE INCLUYA EL SOBRENOMBRE O APODO CON EL QUE SE LE CONOCE PÚBLICAMENTE DESPUÉS DE SU NOMBRE.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO p) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+p) EN NINGÚN CASO, EL SOBRENOMBRE O APODO PODRÁ SUSTITUIR O MODIFICAR EL NOMBRE Y APELLIDOS DE LA CANDIDATURA INDEPENDIENTE A LA GUBERNATURA, NI LAS DIMENSIONES Y CARACTERÍSTICAS DE LOS RECUADROS.
+
+EN LA ELECCIÓN DE LA GUBERNATURA DEBERÁ INCLUIRSE LA FOTOGRAFÍA DE LAS CANDIDATURAS INDEPENDIENTES, CON LAS MISMAS CARACTERÍSTICAS.
+
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 4. En el caso de existir coaliciones, los emblemas de los partidos coaligados y los nombres de las candidatas y los candidatos aparecerán con el mismo tamaño y un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos que participan por sí mismos. En ningún caso podrán aparecer emblemas conjuntos de los partidos coaligados en un mismo recuadro, ni utilizar emblemas distintos para la coalición.
@@ -2846,6 +3266,12 @@ m) Las medidas impresas de seguridad que impidan su falsificación.
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 6. No habrá modificación a las boletas en caso de cancelación del registro o sustitución de uno o más candidatas o candidatos, si éstas ya estuvieran impresas. En todo caso, los votos contarán para los partidos políticos y las candidaturas que estuviesen legalmente registrados.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL SEGUNDO PÁRRAFO DEL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+ÚNICAMENTE PROCEDERÁ LA REIMPRESIÓN DE LAS BOLETAS CUANDO POR RESOLUCIÓN JUDICIAL SE ORDENE INCLUIR ALGUNA CANDIDATURA, PARTIDO O COALICIÓN, QUE POR OMISIÓN NO APAREZCA EN LA BOLETA ORIGINAL. NO PROCEDERÁ LA REIMPRESIÓN CUANDO, POR RAZONES DE SUSTITUCIONES LEGALES, CONTROVERSIAS O IMPUGNACIONES DE ETAPAS ELECTORALES, APAREZCA EL EMBLEMA DE UN PARTIDO O COALICIÓN Y, POR SUSTITUCIÓN DE ALGUNA CANDIDATURA, APAREZCA OTRO NOMBRE.
 
 7. Para la impresión de boletas, actas y demás documentación electoral, el Instituto de acuerdo a la legislación aplicable determinará su asignación, conforme a los lineamientos que apruebe el Consejo General del Instituto Nacional.
 
@@ -2923,7 +3349,7 @@ i) Los canceles o elementos modulares que garanticen que el elector pueda emitir
 
 ## TÍTULO CUARTO. DE LA JORNADA ELECTORAL
 
-### CAPÍTULO SEGUNDO. DE LA VOTACIÓN
+### CAPÍTULO PRIMERO. DE LA INSTALACIÓN Y APERTURA DE CASILLAS
 
 ###### Artículo 210.
 
@@ -3015,7 +3441,7 @@ e) La autoridad electoral correspondiente así lo disponga por causa de fuerza m
 
 2. Para los casos señalados en el párrafo anterior la casilla deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos.
 
-### CAPÍTULO TERCERO. DEL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
+### CAPÍTULO SEGUNDO. DE LA VOTACIÓN
 
 ###### Artículo 215.
 
@@ -3139,7 +3565,7 @@ a) Hora de cierre de la votación, y
 
 b) En su caso, causa por la que se cerró antes o después de las 18:00 horas.
 
-### CAPÍTULO CUARTO. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISIÓN DEL EXPEDIENTE
+### CAPÍTULO TERCERO. DEL ESCRUTINIO Y CÓMPUTO EN LA CASILLA
 
 ###### Artículo 227.
 
@@ -3299,7 +3725,7 @@ c) Los escritos de protesta que se hubieren recibido.
 
 1. Cumplidas las acciones a que se refiere el artículo anterior, los presidentes de las mesas directivas de casilla, fijarán avisos en lugar visible del exterior de las mismas con los resultados de cada una de las elecciones, los que serán firmados por el presidente y los representantes que así deseen hacerlo.
 
-### CAPÍTULO QUINTO. DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO CUARTO. DE LA CLAUSURA DE LA CASILLA Y DE LA REMISIÓN DEL EXPEDIENTE
 
 ###### Artículo 238.
 
@@ -3337,7 +3763,7 @@ c) Hasta doce horas cuando se trate de casillas rurales.
 
 6. Los comités harán constar en el acta circunstanciada de recepción de los paquetes, las causas que se invoquen para el retraso en la entrega de los mismos.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+### CAPÍTULO QUINTO. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 240.
 
@@ -3375,7 +3801,7 @@ d) La información de los hechos que puedan influir o alterar el resultado de la
 
 ## TÍTULO QUINTO. DE LOS ACTOS POSTERIORES A LA ELECCIÓN Y LOS RESULTADOS ELECTORALES
 
-### CAPÍTULO SEGUNDO. DE LA INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 244.
 
@@ -3393,7 +3819,7 @@ e) Los comités distritales y municipales decidirán sobre aquellas medidas que 
 
 2. De la recepción de los paquetes de votación, se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala este Código.
 
-### CAPÍTULO TERCERO. DE LOS CÓMPUTOS DISTRITALES Y MUNICIPALES
+### CAPÍTULO SEGUNDO. DE LA INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
 
 ###### Artículo 245.
 
@@ -3419,9 +3845,7 @@ d) Los representantes de los partidos políticos y de candidatos independientes 
 
 1. Para el mejor conocimiento de la ciudadanía, concluido el procedimiento anterior, la persona que ocupe la presidencia del comité que corresponda, deberá fijar en el exterior del local respectivo, los resultados preliminares de las elecciones en el distrito o municipio según corresponda.
 
-### CAPÍTULO CUARTO. DEL CÓMPUTO ESTATAL DE LAS ELECCIONES
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO TERCERO. DE LOS CÓMPUTOS DISTRITALES Y MUNICIPALES
 
 ###### Artículo 248.
 
@@ -3541,7 +3965,7 @@ g) Cumplidos todos los requisitos, el Tribunal Electoral, llevará a cabo el rec
 
 1. El Secretario Ejecutivo del Instituto, recibirá los expedientes del cómputo de las elecciones, y dispondrá su resguardo hasta el inicio de los trabajos respectivos.
 
-### CAPÍTULO QUINTO. DEL VOTO DE LAS Y LOS COAHUILENSES RESIDENTES EN EL EXTRANJERO
+### CAPÍTULO CUARTO. DEL CÓMPUTO ESTATAL DE LAS ELECCIONES
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -3553,15 +3977,25 @@ a) El o la titular de la Secretaría Ejecutiva del Instituto dará cuenta de los
 
 b) Se harán constar en acta circunstanciada de la sesión, los resultados del cómputo estatal, los incidentes que ocurrieren durante la misma, la declaración de validez de la elección y la candidatura que hubiese obtenido la mayoría de los votos;
 
-c) El o la titular de la Secretaría Ejecutiva del Instituto dará lectura a la parte conducente de cada uno de los cómputos en donde se consignen los resultados y sumándolos dará a conocer el resultado estatal de la elección para la Gubernatura y el dictamen relativo a la asignación de las diputaciones por el principio de representación proporcional;
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO c) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “c) El o la titular de la Secretaría Ejecutiva del Instituto dará lectura a la parte conducente de cada uno de los cómputos en donde se consignen los resultados y sumándolos dará a conocer el resultado estatal de la elección para la Gubernatura y el dictamen relativo a la asignación de las diputaciones por el principio de representación proporcional;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-d) Realizado lo anterior, la persona que ocupe la Presidencia del Consejo General del Instituto, expedirá la constancia de mayoría a la candidata o candidato a Gobernador que haya obtenido el triunfo, y ordenará entregar las constancias de asignación de las diputaciones por el principio de representación proporcional a cada partido político, y
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+c) EL O LA TITULAR DE LA SECRETARÍA EJECUTIVA DEL INSTITUTO DARÁ LECTURA A LA PARTE CONDUCENTE DE CADA UNO DE LOS CÓMPUTOS EN DONDE SE CONSIGNEN LOS RESULTADOS Y SUMÁNDOLOS DARÁ A CONOCER EL RESULTADO ESTATAL DE LA ELECCIÓN PARA LA GUBERNATURA Y EL DICTAMEN RELATIVO A LA ASIGNACIÓN DE LAS DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y DE GRUPO EN SITUACIÓN DE VULNERABILIDAD;
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO d) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “d) Realizado lo anterior, la persona que ocupe la Presidencia del Consejo General del Instituto, expedirá la constancia de mayoría a la candidata o candidato a Gobernador que haya obtenido el triunfo, y ordenará entregar las constancias de asignación de las diputaciones por el principio de representación proporcional a cada partido político, y”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+d) REALIZADO LO ANTERIOR, LA PERSONA QUE OCUPE LA PRESIDENCIA DEL CONSEJO GENERAL DEL INSTITUTO EXPEDIRÁ LA CONSTANCIA DE MAYORÍA A LA CANDIDATURA POR LA GUBERNATURA QUE HAYA OBTENIDO EL TRIUNFO, Y ORDENARÁ ENTREGAR LAS CONSTANCIAS DE ASIGNACIÓN DE LAS DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y DE GRUPO EN SITUACIÓN DE VULNERABILIDAD A CADA PARTIDO POLÍTICO, Y
 
 e) La persona que ocupe la presidencia del Consejo General del Instituto remitirá al Tribunal Electoral, cuando se hubiese interpuesto el medio de impugnación correspondiente, el informe respectivo sobre el cómputo estatal de la elección de la Gubernatura y en su caso, el acuerdo de asignación de las diputaciones de representación proporcional, así como copia certificada del expediente del cómputo de la elección de que se trate.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO PRIMERO. DE LOS SUJETOS, CONDUCTAS SANCIONABLES Y SANCIONES
+### CAPÍTULO QUINTO. DEL VOTO DE LAS Y LOS COAHUILENSES RESIDENTES EN EL EXTRANJERO
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 257.
 
@@ -3571,7 +4005,7 @@ e) La persona que ocupe la presidencia del Consejo General del Instituto remitir
 
 ## TÍTULO PRIMERO
 
-### CAPÍTULO SEGUNDO. DE LAS SANCIONES
+### CAPÍTULO PRIMERO. DE LOS SUJETOS, CONDUCTAS SANCIONABLES Y SANCIONES
 
 ###### Artículo 258.
 
@@ -3851,7 +4285,7 @@ b) El incumplimiento, en lo conducente, de cualquiera de las disposiciones conte
 
 1. La promoción de denuncias o quejas frívolas ante el Instituto, será sancionada conforme lo previsto en el presente Código, sin perjuicio de que, fundando y motivando su resolución, tales denuncias sean desechadas de plano sin mayor trámite. Se entiende por denuncias o quejas frívolas las referidas en el inciso e) del párrafo 1 del artículo 440 de la Ley General.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES
 
 ###### Artículo 273.
 
@@ -3914,6 +4348,18 @@ ii. Respecto de la ciudadanía, o de las y los dirigentes y las o los afiliados 
 iii. Respecto de las personas morales por las conductas señaladas en la fracción anterior, con multa hasta de cien mil unidades de medida y actualización;
 
 iv. Tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, se dará vista al Instituto Nacional para que aplique las sanciones conducentes de conformidad con la legislación aplicable.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ LA FRACCIÓN v DEL INCISO d) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+v. CON MULTA DE UNA A CINCO MIL UNIDADES DE MEDIDAS (SIC) Y ACTUALIZACIÓN EN LOS CASOS DE VIOLENCIA POLÍTICA DE GÉNERO CONTRA LAS MUJERES, SEGÚN LA GRAVEDAD DE LA FALTA.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ LA FRACCIÓN vi DEL INCISO d) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+vi. SUSPENSIÓN TEMPORAL DE LOS DERECHOS POLÍTICO-ELECTORALES, POR AFECTAR LA CALIDAD DE LA CIUDADANÍA DE TERCERAS PERSONAS.
 
 e) Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -3991,7 +4437,7 @@ f) En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del inc
 
 ## TÍTULO SEGUNDO. DE LOS PROCEDIMIENTOS SANCIONADORES
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO SANCIONADOR ORDINARIO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 278.
 
@@ -4123,7 +4569,7 @@ c) Disculpa pública, y;
 
 d) Medidas de no repetición.
 
-### CAPÍTULO TERCERO. PROCEDIMIENTO ESPECIAL SANCIONADOR
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO SANCIONADOR ORDINARIO
 
 ###### Artículo 284.
 
@@ -4277,7 +4723,7 @@ e) Rechazado un proyecto de resolución se entiende que se aprueba un acuerdo de
 
 4. En el desahogo de los puntos del orden del día en el que el Consejo deba resolver sobre los proyectos de resolución relativos a quejas o denuncias, se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
 
-### CAPÍTULO PRIMERO. BASES GENERALES
+### CAPÍTULO TERCERO. PROCEDIMIENTO ESPECIAL SANCIONADOR
 
 ###### Artículo 296.
 
@@ -4289,11 +4735,19 @@ b) Contravengan las normas sobre propaganda política o electoral, o
 
 c) Constituyan actos anticipados de precampaña o campaña.
 
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO d) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+d) CONTRA CONDUCTAS QUE LA LEY ESTIME QUE AFECTEN DE MANERA REAL E INMINENTE LOS FINES DEL SUFRAGIO, LAS ELECCIONES LIBRES O EL GOBIERNO REPRESENTATIVO.
+
 2. Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión en el estado, el Consejo General del Instituto presentará la denuncia ante el Instituto Nacional.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “3. La Dirección Ejecutiva de Asuntos Jurídicos instruirá el procedimiento especial establecido en este capítulo, en cualquier momento, cuando se presenten denuncias o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-3. La Dirección Ejecutiva de Asuntos Jurídicos instruirá el procedimiento especial establecido en este capítulo, en cualquier momento, cuando se presenten denuncias o de oficio por hechos relacionados con violencia política contra las mujeres en razón de género.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. LA DIRECCIÓN EJECUTIVA DE ASUNTOS JURÍDICOS INSTRUIRÁ EL PROCEDIMIENTO ESPECIAL ESTABLECIDO EN ESTE CAPÍTULO, DENTRO O FUERA DE (SIC) PROCESO ELECTORAL, CUANDO SE PRESENTEN DENUNCIAS O DE OFICIO POR HECHOS RELACIONADOS CON VIOLENCIA POLÍTICA CONTRA LAS MUJERES EN RAZÓN DE GÉNERO O CUANDO EXISTAN ACTOS DE VIOLENCIA DE GÉNERO QUE SE PRESENTE (SIC) EN LAS MODALIDADES CONTEMPLADAS EN EL ARTÍCULO 6 DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
 
 ###### Artículo 297.
 
@@ -4441,7 +4895,7 @@ b) La Unidad de Fiscalización.
 
 ## TÍTULO PRIMERO. PRINCIPIOS FUNDAMENTALES
 
-### CAPÍTULO PRIMERO. DE LA ESTRUCTURA DEL INSTITUTO
+### CAPÍTULO PRIMERO. BASES GENERALES
 
 ###### Artículo 308.
 
@@ -4573,7 +5027,7 @@ e) En todo lo relativo a la administración, control y fiscalización de su patr
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y EL FUNCIONAMIENTO DEL INSTITUTO
 
-### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS DIRECTIVOS DEL INSTITUTO
+### CAPÍTULO PRIMERO. DE LA ESTRUCTURA DEL INSTITUTO
 
 ###### Artículo 327.
 
@@ -4617,7 +5071,7 @@ c) Las Mesas Directivas de Casilla.
 
 1. El Instituto contará con un cuerpo de funcionarios integrados en un Servicio Profesional Electoral Nacional y en una rama administrativa, que se regirán por el Estatuto del Servicio Profesional Electoral emitido por el Instituto Nacional, en el cual se establecen los respectivos mecanismos de selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia, y disciplina, de conformidad con las legislaciones aplicables y dentro de su ámbito de competencia.
 
-### CAPÍTULO TERCERO. DE LOS ÓRGANOS EJECUTIVOS
+### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS DIRECTIVOS DEL INSTITUTO
 
 #### SECCIÓN PRIMERA. DEL CONSEJO GENERAL
 
@@ -4739,9 +5193,11 @@ t) Aprobar el proyecto de material electoral y su elaboración, así como determ
 
 u) Aprobar las actividades coordinadas con el Instituto Nacional para la integración de las mesas directivas de casilla;
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO v) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “v) Registrar la candidatura a la Gubernatura; las listas de candidaturas a diputaciones de representación proporcional que presenten los partidos políticos y, de manera supletoria, las fórmulas de candidaturas a diputaciones por el principio de mayoría relativa, así como a las y los integrantes de los Ayuntamientos.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-v) Registrar la candidatura a la Gubernatura; las listas de candidaturas a diputaciones de representación proporcional que presenten los partidos políticos y, de manera supletoria, las fórmulas de candidaturas a diputaciones por el principio de mayoría relativa, así como a las y los integrantes de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+v) REGISTRAR LA CANDIDATURA A LA GUBERNATURA; LAS LISTAS DE CANDIDATURAS A DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL Y DE GRUPO EN SITUACIÓN DE VULNERABILIDAD QUE PRESENTEN LOS PARTIDOS POLÍTICOS Y, DE MANERA SUPLETORIA, LAS FÓRMULAS DE CANDIDATURAS A DIPUTACIONES POR EL PRINCIPIO DE MAYORÍA RELATIVA, ASÍ COMO A LAS Y LOS INTEGRANTES DE LOS AYUNTAMIENTOS.
 
 w) Instrumentar el programa de resultados electorales preliminares de conformidad con las reglas, lineamientos, criterios y formatos que para tal efecto emita el Instituto Nacional;
 
@@ -4971,7 +5427,11 @@ c) Proponer al Consejo General los acuerdos relativos a los límites de las apor
 
 d) Proponer al Consejo General el acuerdo de inscripción de registro de los partidos políticos;
 
-e) Conocer de los convenios de participación política conforme a las modalidades aprobadas en la normatividad local, elaborar los dictámenes correspondientes y someterlos a la aprobación del Consejo General;
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO e) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “e) Conocer de los convenios de participación política conforme a las modalidades aprobadas en la normatividad local, elaborar los dictámenes correspondientes y someterlos a la aprobación del Consejo General;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+e) CONOCER DE LOS CONVENIOS DE PARTICIPACIÓN POLÍTICA CONFORME A LAS MODALIDADES APROBADAS EN LA NORMATIVIDAD LOCAL, ELABORAR LOS DICTÁMENES CORRESPONDIENTES Y SOMETERLOS A LA APROBACIÓN DEL CONSEJO GENERAL. LOS INTERESADOS SOLO PODRÁN SUBSANAR ASPECTOS FORMALES DE LOS REFERIDOS CONVENIOS, POR LO QUE ESTARÁN IMPEDIDOS EN REPARAR ACTOS U OMISIONES DEL PROCEDIMIENTO RESPECTIVO.
 
 f) Realizar lo necesario para que los partidos políticos y candidatos independientes, ejerzan sus prerrogativas de acceso a los tiempos en radio y televisión, en los términos de la legislación aplicable;
 
@@ -5105,7 +5565,7 @@ f) Proponer al Consejo General los lineamientos, criterios y disposiciones para 
 
 g) Las demás que le confiera el Consejo General, este Código y las demás disposiciones aplicables.
 
-### CAPÍTULO CUARTO. DE LOS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO TERCERO. DE LOS ÓRGANOS EJECUTIVOS
 
 #### SECCIÓN PRIMERA. DE LA JUNTA GENERAL EJECUTIVA
 
@@ -5235,7 +5695,7 @@ c) Solicitar la colaboración de los notarios públicos para el auxilio de la fu
 
 d) Las demás que establezca este Código y las demás disposiciones y reglamentos aplicables.
 
-### CAPÍTULO PRIMERO. DE LOS ÓRGANOS DE VIGILANCIA
+### CAPÍTULO CUARTO. DE LOS ÓRGANOS DESCONCENTRADOS
 
 ###### Artículo 371.
 
@@ -5551,7 +6011,7 @@ iv. Las demás que le confiera este Código u otras disposiciones aplicables.
 
 1. Para asegurar el desempeño profesional de las actividades del Instituto, su funcionamiento se regulará mediante lo establecido en el Estatuto del Servicio Profesional Electoral emitido por el Instituto Nacional. La objetividad y la imparcialidad que en los términos de la Constitución General orientan la función estatal de organizar las elecciones serán los principios para la formación de los miembros del servicio.
 
-### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO PRIMERO. DE LOS ÓRGANOS DE VIGILANCIA
 
 ###### Artículo 394.
 
@@ -5717,7 +6177,7 @@ v) Las demás que le otorgue este Código o las leyes aplicables en la materia.
 
 ## TÍTULO CUARTO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DE LA FUNCIÓN ELECTORAL
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 403.
 
@@ -5755,7 +6215,7 @@ j) Las previstas, en lo conducente, en la Ley de General de Responsabilidades Ad
 
 k) Las demás que determine este Código o las leyes que resulten aplicables.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO PARA LA DETERMINACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 405.
 
@@ -5913,7 +6373,7 @@ f) La inhabilitación sólo será aplicable por resolución de la autoridad comp
 
 ## TÍTULO ÚNICO
 
-### CAPÍTULO SEGUNDO. DE LOS REQUISITOS PARA OCUPAR UNA MAGISTRATURA ELECTORAL, SECRETARÍA GENERAL DE ACUERDO Y TRÁMITE Y SECRETARÍA Y SUS ATRIBUCIONES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 423.
 
@@ -6001,9 +6461,17 @@ k) Las demás que la Constitución, el Reglamento Interior, y las leyes aplicabl
 
 3. Esta remuneración les será cubierta en los términos que establezcan las leyes aplicables y el Reglamento Interior.
 
-4. Las vacantes temporales de las Magistraturas del Tribunal Electoral, que no excedan de tres meses, serán cubiertas por la Secretaría General de Acuerdo y Trámite, y si no estuviere en su caso, por la Secretaria o el Secretario de Estudio y Cuenta con mayor antigüedad del Tribunal Electoral, previa aprobación del Pleno del Tribunal Electoral.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “4. Las vacantes temporales de las Magistraturas del Tribunal Electoral, que no excedan de tres meses, serán cubiertas por la Secretaría General de Acuerdo y Trámite, y si no estuviere en su caso, por la Secretaria o el Secretario de Estudio y Cuenta con mayor antigüedad del Tribunal Electoral, previa aprobación del Pleno del Tribunal Electoral.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-5. Si la ausencia de una Magistrada o Magistrado es definitiva, la Presidencia del Tribunal Electoral de inmediato lo comunicará a la Cámara de Senadores para que se prevea el procedimiento de sustitución. En este caso, mientras se hace la elección respectiva, la ausencia será suplida en los mismos términos que una vacante temporal. Si la ausencia es de la Magistrada o Magistrado Presidente del Tribunal Electoral, la comunicación a la Cámara de Senadores se hará por quién corresponde de acuerdo a lo establecido en este Código y en el Reglamento Interior.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+4. LAS VACANTES TEMPORALES DE LAS MAGISTRATURAS DEL TRIBUNAL ELECTORAL SERÁN CUBIERTAS POR LA SECRETARÍA DE ESTUDIO Y CUENTA CON MAYOR ANTIGÜEDAD EN LABORES JURISDICCIONALES, PREVIA APROBACIÓN DEL PLENO DEL TRIBUNAL ELECTORAL.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “5. Si la ausencia de una Magistrada o Magistrado es definitiva, la Presidencia del Tribunal Electoral de inmediato lo comunicará a la Cámara de Senadores para que se prevea el procedimiento de sustitución. En este caso, mientras se hace la elección respectiva, la ausencia será suplida en los mismos términos que una vacante temporal. Si la ausencia es de la Magistrada o Magistrado Presidente del Tribunal Electoral, la comunicación a la Cámara de Senadores se hará por quién corresponde de acuerdo a lo establecido en este Código y en el Reglamento Interior.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+5. SI LA AUSENCIA DE UNA MAGISTRATURA ES DEFINITIVA, LA PRESIDENCIA DEL TRIBUNAL ELECTORAL, DE INMEDIATO, LO COMUNICARÁ A LA CÁMARA DE SENADORES PARA QUE SE PREVEA EL PROCEDIMIENTO DE SUSTITUCIÓN. EN ESTE CASO, MIENTRAS SE HACE LA ELECCIÓN RESPECTIVA, LA AUSENCIA SERÁ CUBIERTA POR LA SECRETARÍA DE ESTUDIO Y CUENTA CON MAYOR ANTIGÜEDAD EN LABORES JURISDICCIONALES. SI LA AUSENCIA ES DE LA PERSONA TITULAR DE LA PRESIDENCIA DEL TRIBUNAL ELECTORAL, LA COMUNICACIÓN A LA CÁMARA DE SENADORES SE HARÁ POR QUIÉN CORRESPONDE DE ACUERDO A LO ESTABLECIDO EN ESTE CÓDIGO Y EN EL REGLAMENTO INTERIOR.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -6025,9 +6493,7 @@ k) Las demás que la Constitución, el Reglamento Interior, y las leyes aplicabl
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
-### CAPÍTULO TERCERO. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+### CAPÍTULO SEGUNDO. DE LOS REQUISITOS PARA OCUPAR UNA MAGISTRATURA ELECTORAL, SECRETARÍA GENERAL DE ACUERDO Y TRÁMITE Y SECRETARÍA Y SUS ATRIBUCIONES
 
 ###### Artículo 432.
 
@@ -6104,6 +6570,12 @@ m) Girar oficios a las autoridades federales o estatales encomendándoles la rea
 n) Participar en los programas de capacitación institucional; y
 
 o) Las demás que les señalen las leyes o el Reglamento Interno o las que sean necesarias para el correcto funcionamiento del Tribunal Electoral.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO p) DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+p) ACORDAR, CUANDO LO ESTIMEN CONVENIENTE, LA PUBLICIDAD DE ALGÚN PROYECTO DE SENTENCIA A SU CARGO, ANTES DE QUE ÉSTE SEA SOMETIDO A VOTACIÓN EN SESIÓN PÚBLICA DE RESOLUCIÓN. LA FORMA EN QUE SE PUBLICITARÁN ESTOS PROYECTOS SERÁ REGULADA MEDIANTE EL ACUERDO GENERAL QUE ESTABLEZCA EL PLENO.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -6195,7 +6667,9 @@ c) La demás que el Reglamento Interior y las leyes aplicables les encomienden.
 
 5. Las Actuarias y los Actuarios tendrán fe pública con respecto de las diligencias y notificaciones que practiquen, para lo cual deberán de conducirse siempre con estricto apego a la verdad, bajo pena de incurrir en las responsabilidades que prevengan este Código, su Reglamento y las leyes aplicables.
 
-### CAPÍTULO CUARTO. ATRIBUCIONES DEL TRIBUNAL ELECTORAL
+### CAPÍTULO TERCERO. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 434.
 
@@ -6263,7 +6737,11 @@ p) Autorizar con su firma, en unión de la Secretaría General de Acuerdo y Trá
 
 q) Expedir los nombramientos que le faculta la fracción IV de este artículo, y las demás que determine el Pleno del Tribunal Electoral de conformidad con las disposiciones establecidas en esta (sic) Código y el Reglamento Interior;
 
-r) Seleccionar y aprobar los criterios jurisprudenciales o aislados que apruebe el Pleno, en los términos que establezca el Reglamento Interior y leyes aplicables, y ordenar su publicación en el medio oficial de difusión del Tribunal Electoral y en el Periódico Oficial;
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO r) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “r) Seleccionar y aprobar los criterios jurisprudenciales o aislados que apruebe el Pleno, en los términos que establezca el Reglamento Interior y leyes aplicables, y ordenar su publicación en el medio oficial de difusión del Tribunal Electoral y en el Periódico Oficial;”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+r) ORDENAR LA PUBLICACIÓN DE LOS CRITERIOS JURISPRUDENCIALES O AISLADOS QUE APRUEBE EL PLENO, EN EL MEDIO OFICIAL DE DIFUSIÓN DEL TRIBUNAL ELECTORAL Y EN EL PERIÓDICO OFICIAL;
 
 s) Comunicar a las autoridades correspondientes la iniciación y conclusión del proceso electoral;
 
@@ -6271,11 +6749,19 @@ t) Acordar y dar a conocer al público en general por medio de los estrados del 
 
 u) Establecer las políticas generales, supervisar la administración de los recursos financieros, materiales y humanos y el ejercicio del presupuesto de conformidad con lo establecido en el Reglamento Interior y leyes aplicables;
 
-v) Las demás que le encomienden este Código, el Reglamento Interior y demás disposiciones aplicables.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO v) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “v) Las demás que le encomienden este Código, el Reglamento Interior y demás disposiciones aplicables.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-### CAPÍTULO QUINTO. DE LAS SESIONES
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+v) EMITIR VOTO DE CALIDAD EN LOS ASUNTOS QUE EXISTE UN EMPATE EN LA VOTACIÓN DEL PLENO.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO w) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+w) LAS DEMÁS QUE LE ENCOMIENDEN ESTE CÓDIGO, EL REGLAMENTO INTERIOR Y DEMÁS DISPOSICIONES APLICABLES.
+
+### CAPÍTULO CUARTO. ATRIBUCIONES DEL TRIBUNAL ELECTORAL
 
 ###### Artículo 436.
 
@@ -6347,11 +6833,23 @@ v) Implementar el Sistema de Justicia Electoral Digital para la presentación, s
 
 w) Reglamentar el uso de Inteligencia Artificial y tecnologías que permitan mejorar la impartición de justicia;
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 1 DE OCTUBRE DE 2020)</small>
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL INCISO x) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “x) Las demás que le confiera este Código u otras disposiciones legales aplicables.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-x) Las demás que le confiera este Código u otras disposiciones legales aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-### CAPÍTULO SEXTO. DE LA JURISPRUDENCIA
+x) EMITIR OPINIONES CONSULTIVAS O ACCIONES DECLARATIVAS RELACIONADAS CON EL PRINCIPIO DE CERTEZA EN MATERIA POLÍTICO-ELECTORAL, LAS CUALES PODRÁN SER SOLICITADAS POR LA CIUDADANÍA COAHUILENSE, PARTIDOS POLÍTICOS O CUALQUIER AUTORIDAD EN EL ESTADO, SIEMPRE QUE LA CUESTIÓN JURÍDICA SEA RELEVANTE Y TRASCENDENTE.
+
+LA INTERPRETACIÓN DEL TRIBUNAL SERÁ VINCULANTE PARA LOS PARTIDOS POLÍTICOS Y EL INSTITUTO, ASÍ COMO A LAS AUTORIDADES ESTATALES Y LA CIUDADANÍA QUE SE UBIQUE EN LA HIPÓTESIS JURÍDICA EN CUESTIÓN.; (SIC) Y
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE ADICIONÓ EL INCISO y) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+y) LAS DEMÁS QUE LE CONFIERA ESTE CÓDIGO U OTRAS DISPOSICIONES LEGALES APLICABLES.
+
+### CAPÍTULO QUINTO. DE LAS SESIONES
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 437.
 
@@ -6373,7 +6871,17 @@ v. Cuando la Presidencia del Tribunal Electoral estime suficientemente discutido
 
 vi. La Magistrada o el Magistrado que disienta de la mayoría podrá formular observaciones o un voto particular, que se agregará a la resolución sí así lo solicita y lo presentará por escrito dentro de las cuarenta y ocho horas siguientes.
 
-vii. Cuando el proyecto sea rechazado por la mayoría, será presentado nuevamente, dentro de las cuarenta y ocho horas siguientes a la clausura de la sesión, con las observaciones o modificaciones acordadas para su aprobación. De no ser aceptadas las observaciones por la magistratura instructora, en la misma sesión, la Presidencia turnará el expediente con las observaciones realizadas a otra magistratura, para que formule un nuevo proyecto de resolución. Para tal efecto, la Magistrada o el Magistrado Presidente convoca a nueva sesión, que deberá celebrarse a más tardar dentro de las cuarenta y ocho horas siguientes, y en la cual se presentará el nuevo proyecto, para su discusión y aprobación, en su caso, conservando el magistrado instructor su derecho para emitir voto particular.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ LA FRACCIÓN vii) DEL INCISO b) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “vii. Cuando el proyecto sea rechazado por la mayoría, será presentado nuevamente, dentro de las cuarenta y ocho horas siguientes a la clausura de la sesión, con las observaciones o modificaciones acordadas para su aprobación. De no ser aceptadas las observaciones por la magistratura instructora, en la misma sesión, la Presidencia turnará el expediente con las observaciones realizadas a otra magistratura, para que formule un nuevo proyecto de resolución. Para tal efecto, la Magistrada o el Magistrado Presidente convoca a nueva sesión, que deberá celebrarse a más tardar dentro de las cuarenta y ocho horas siguientes, y en la cual se presentará el nuevo proyecto, para su discusión y aprobación, en su caso, conservando el magistrado instructor su derecho para emitir voto particular.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+vii. CUANDO EL PROYECTO SEA RECHAZADO POR LA MAYORÍA, PODRÁ PASAR A ENGROSE SI LA MAGISTRATURA PONENTE ACEPTA LAS OBSERVACIONES HECHAS POR LA MAYORÍA Y DEBERÁ PRESENTAR UN NUEVO PROYECTO EN UN PLAZO DE 5 DÍAS.
+
+CUANDO LA MAGISTRATURA PONENTE NO ACEPTE LAS OBSERVACIONES, EL ASUNTO SE TURNARÁ A UNA DE LAS MAGISTRATURAS DE LA MAYORÍA PARA QUE PRESENTE UN NUEVO PROYECTO EN EL PLAZO ANTERIORMENTE SEÑALADO; EN AMBOS CASOS, LA PRESIDENCIA DARÁ LECTURA A LOS RESOLUTIVOS DEL ASUNTO EN LA MISMA SESIÓN.
+
+EN EL SUPUESTO DE QUE EL RECHAZO DEL PROYECTO OBEDEZCA A CUESTIONES QUE IMPIDAN CONOCER EL FONDO DEL ASUNTO, SERÁ RETURNADO A UNA DE LAS MAGISTRATURAS DE LA MAYORÍA; PARA LA ELABORACIÓN Y PRESENTACIÓN DE LOS PROYECTOS RETURNADOS, SE CONTARÁ CON EL PLAZO CONTEMPLADO EN EL ARTÍCULO 93 DE LA LEY DE MEDIOS.
+
+EN CUALQUIER CASO, LA MAGISTRATURA DE MINORÍA PODRÁ FORMULAR OBSERVACIONES O VOTO PARTICULAR, EN LOS TÉRMINOS DE LA BASE VI DE ESTE ARTÍCULO.
 
 viii. En casos extraordinarios el Tribunal Electoral podrá diferir la resolución de un asunto listado para ser resuelto en la sesión siguiente.
 
@@ -6391,13 +6899,35 @@ xiv. Las resoluciones definitivas llevarán la firma de las Magistraturas presen
 
 xv. Los votos particulares y las observaciones por escrito deberán ser firmadas por la Magistrada o Magistrado que los formule y, en su caso, formarán parte de la resolución que corresponda.
 
-### CAPÍTULO SÉPTIMO. DE LA CONTRALORÍA INTERNA DEL TRIBUNAL ELECTORAL
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ ESTE CAPÍTULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "CAPÍTULO SEXTO DE LA JURISPRUDENCIA"] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO SEXTO. DE LOS CRITERIOS JURISPRUDENCIALES
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: "Artículo 438.
+
+1. Los criterios fijados por el Tribunal Electoral sentarán jurisprudencia cuando se sustenten en el mismo sentido, tres resoluciones consecutivas."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 438.
 
-1. Los criterios fijados por el Tribunal Electoral sentarán jurisprudencia cuando se sustenten en el mismo sentido, tres resoluciones consecutivas.
+1. El Tribunal Electoral, en ejercicio de su función jurisdiccional, emitirá tesis aisladas y jurisprudencia.
+
+2. Las tesis aisladas son criterios derivados de la labor de interpretación e integración de normas ante un caso concreto que competa resolver al Tribunal; constituyen criterios orientadores y relevantes en la resolución de asuntos subsecuentes de naturaleza idéntica o similar sometidos a su jurisdicción, siempre que no sean abandonados o interrumpidos por alguno en contrario.
+
+3. Se entiende por jurisprudencia aquellos criterios de interpretación e integración de normas emitidos por el Tribunal y podrá establecerse por reiteración o por revalidación.
+
+4. Existe jurisprudencia por reiteración cuando el Pleno del Tribunal sostiene el mismo criterio de interpretación o integración de una norma en tres resoluciones no interrumpidas por otra en contrario.
+
+5. La jurisprudencia por revalidación se forma a partir del reconocimiento de obligatoriedad que el Pleno otorgue a la jurisprudencia de épocas anteriores, que por su pertinencia e idoneidad resulte aplicable a los casos que se sometan a su conocimiento.
+
+6. La jurisprudencia será de observancia obligatoria para el Tribunal, el Instituto, los partidos políticos locales y nacionales con registro estatal, los órganos que asuman la calidad de autoridades o instancias responsables y las demás autoridades que se vinculen a su cumplimiento.
+
+### CAPÍTULO SÉPTIMO. DE LA CONTRALORÍA INTERNA DEL TRIBUNAL ELECTORAL
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 ###### Artículo 439.
 
@@ -6405,7 +6935,11 @@ xv. Los votos particulares y las observaciones por escrito deberán ser firmadas
 
 2. El titular de la Contraloría será denominado "contralora interna" o "contralor interno", tendrá un nivel jerárquico y remuneración equivalente a la Secretaría General de Acuerdo y Trámite del Tribunal Electoral.
 
-3. La contralora o el contralor será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, a propuesta de instituciones públicas de educación superior, mediante los procedimientos y en los plazos que fije el Congreso del Estado.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “3. La contralora o el contralor será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, a propuesta de instituciones públicas de educación superior, mediante los procedimientos y en los plazos que fije el Congreso del Estado.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. LA PERSONA TITULAR DE LA CONTRALORÍA INTERNA SERÁ DESIGNADA POR EL PLENO DEL TRIBUNAL, CON EL VOTO DE LA MAYORÍA DE SUS INTEGRANTES, PREVIA CONVOCATORIA QUE PARA TAL EFECTO SE EMITA.
 
 4. La contralora o el contralor electo rendirá la protesta de ley ante el Pleno del Tribunal Electoral.
 
@@ -6423,7 +6957,11 @@ xv. Los votos particulares y las observaciones por escrito deberán ser firmadas
 
 2. La contralora o el contralor podrá ser sancionado, en lo conducente, conforme lo previsto en el Título Cuarto del Libro Sexto de este Código, por las causas graves de responsabilidad administrativa.
 
-3. A solicitud del Pleno del Tribunal Electoral, el Congreso del Estado resolverá sobre la aplicación de las sanciones a la Contralora o Contralor, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión.
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 POR EL QUE SE REFORMÓ EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “3. A solicitud del Pleno del Tribunal Electoral, el Congreso del Estado resolverá sobre la aplicación de las sanciones a la Contralora o Contralor, incluida entre éstas la remoción, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes en la sesión.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. EL PLENO DEL TRIBUNAL ELECTORAL RESOLVERÁ SOBRE LA APLICACIÓN DE LAS SANCIONES A LA CONTRALORA O CONTRALOR, INCLUIDA ENTRE ÉSTAS LA REMOCIÓN, POR CAUSAS GRAVES DE RESPONSABILIDAD ADMINISTRATIVA, DEBIENDO GARANTIZAR EL DERECHO DE AUDIENCIA AL AFECTADO. LA REMOCIÓN REQUERIRÁ DEL VOTO DE LAS DOS TERCERAS PARTES DE LOS MIEMBROS PRESENTES EN LA SESIÓN.
 
 ###### Artículo 441.
 
@@ -6594,3 +7132,39 @@ El presente Decreto entrará en vigor el día de su publicación el Periódico O
 ###### ARTÍCULO SEGUNDO.
 
 La Presente Reforma será aplicable de manera retroactiva al 1 de octubre del 2020 en cumplimiento de lo dictado en la sentencia correspondiente a la Acción de Inconstitucionalidad AIL-7/2020 dictada por el Pleno del Tribunal Superior de Justicia en su carácter de Tribunal Constitucional Local.
+
+(NOTA: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 271 PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TREINTA DE SEPTIEMBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 271.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los bloques de competitividad que establece el artículo 17 del Código Electoral para el Estado de Coahuila de Zaragoza, no serán aplicables por única ocasión en el proceso electoral 2023 para renovar las diputaciones del Congreso del Estado, en atención a lo dispuesto por el Instituto Nacional Electoral en el Proceso de Distritación Nacional y Local, publicado en el Diario Oficial de la Federación el día 19 de agosto de 2022.
+
+Lo anterior, ya que con la modificación sustancial que el proceso de redistritación conlleva en el territorio del Estado y en la conformación de los distintos distritos que compondrían los bloques, se afectarían gravemente los principios de certeza y autenticidad de la elección, pues se distorsionarían los porcentajes reales de competitividad de cada partido político y se generaría incertidumbre en la postulación de sus candidaturas y, por consecuencia, en el voto libre e informado de la ciudadanía, así como la competitividad real de las candidaturas del género femenino en los distintos distritos electorales.
+
+###### ARTÍCULO TERCERO.
+
+Para cumplir con el principio de paridad en el proceso electoral a celebrarse en el año 2023 para renovar la Gubernatura del Estado, los partidos políticos nacionales y locales, de manera potestativa, podrán informar al Instituto la regla de paridad para seleccionar la candidatura que más se adecue a su estrategia política, conforme a su autonomía partidista y a los principios constitucionales de autoorganización y autodeterminación, dentro del plazo de noventa días antes del inicio formal del proceso electoral referido, sin perjuicio de que puedan informarlo también durante la etapa de precampañas o registro de candidaturas que prevé este Código.
+
+Una vez agotado el plazo para que los partidos políticos, coaliciones o cualquier asociación política prevista en la ley, informen al Instituto la regla de paridad para seleccionar su candidatura, se considerará concluida la etapa para cumplir con el principio de paridad en la elección de la Gubernatura, conforme al principio de definitividad en materia electoral.
+
+###### ARTÍCULO CUARTO.
+
+Respecto a la facultad prevista en el artículo 439, numeral 3 de Código Electoral para el Estado de Coahuila de Zaragoza, el Pleno del Tribunal Electoral del Estado podrá ratificar a la persona titular de la contraloría que se encuentre ejerciendo el cargo al momento en que entre en vigor el presente decreto, únicamente por el tiempo restante para que culmine su encargo, dejando expedita la posibilidad de la reelección.
+
+###### ARTÍCULO QUINTO.
+
+El Instituto deberá publicar el acuerdo para garantizar el principio constitucional de paridad de género en las candidaturas que postulen los partidos políticos, coaliciones o cualquier otra forma de asociación política, a la Gubernatura del Estado en el proceso electoral local 2023, en el plazo de noventa días posteriores a la entrada en vigor del presente Decreto.
+
+Una vez agotado el plazo para que el Instituto publique el acuerdo para garantizar la paridad en la elección de la Gubernatura del Estado, se considerará concluida dicha etapa del proceso electoral, conforme al principio de definitividad en materia electoral.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario a este Decreto.
