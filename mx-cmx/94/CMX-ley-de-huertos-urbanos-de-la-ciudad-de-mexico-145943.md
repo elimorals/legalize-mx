@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-huertos-urbanos-de-la-ciudad-de-mexico-145943"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-31"
-last_updated: "2022-03-23"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145943&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-12-29"
 
 LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Número 505 de la Gaceta Oficial de la Ciudad de México, el jueves 31 de diciembre de 2020.
 
@@ -65,6 +65,10 @@ La presente Ley es de orden público e interés general y social, tiene por obje
 Para efectos de la presente ley se entenderá como:
 
 I. Agricultura Urbana: El cultivo de plantas en el interior de las ciudades a escala reducida, puede desarrollarse en traspatios, techos, paredes, balcones, terrazas, puentes, calles, viviendas, pequeñas parcelas, patios, jardines, dependencias, órganos autónomos y órganos de gobierno de la Ciudad de México, o espacios en desuso tanto públicos como privados.
+
+> <small>(ADICIONADA, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I Bis. Agroquímicos. Sustancias químicas como fertilizantes, pesticidas o plaguicidas que producen toxicidad en la tierra cultivada y en los cultivos y son dañinos para la salud humana.
 
 II. Área Verde: Toda superficie cubierta de vegetación, natural o inducida que se localice en la Ciudad de México;
 
@@ -110,9 +114,11 @@ V. Secretaría de Desarrollo Económico, y
 
 VI. Alcaldías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 4.
 
-De conformidad con el artículo 1. La presente ley tiene como finalidad:
+De conformidad con el artículo 1, La presente ley tiene como finalidad:
 
 I. Proporcionar a la población acceso a espacios libres alternativos con áreas verdes que les permitan realizar actividades físicas en contacto con la naturaleza, mejorando su calidad de vida y fomentando una alimentación saludable;
 
@@ -120,13 +126,19 @@ II. Fomentar la participación ciudadana en la preservación del equilibrio ecol
 
 III. Promover las buenas prácticas agroecológicas en los sistemas de producción, reciclaje de residuos, cosecha y aprovechamiento de agua pluvial, el uso de especies nativas y recuperación del conocimiento tradicional de la agricultura urbana;
 
-IV. Promover la soberanía y seguridad alimentaria derivada del consumo de frutas, verduras, hortalizas y otros alimentos producidos en los huertos urbanos, evitando el consumo de alimentos transgénicos;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Promover la soberanía y seguridad alimentaria derivada del consumo de frutas, verduras, hortalizas y otros alimentos producidos en los huertos urbanos, evitando el consumo de alimentos transgénicos o cultivados con agroquímicos;
 
 V. Contribuir a aumentar la oferta de actividades recreativas y de sano esparcimiento en áreas verdes, reforzando el tejido social, fomentando la convivencia y la solidaridad;
 
-VI. Fomentar la siembra de especies y variedades locales de cultivos y otras plantas, sin hacer uso de transgénicos;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VII. Excluir la utilización de pesticidas y plaguicidas que no se encuentren validados por la autoridad competente, a fin de proteger la flora y la salud humana;
+VI. Fomentar la siembra de especies y variedades locales de cultivos y otras plantas, sin hacer uso de transgénicos o agroquímicos.
+
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Excluir la utilización de agroquímicos, que no se encuentren validados por la autoridad competente, a fin de proteger la flora, la fauna y la salud humana;
 
 VIII. Promover la implementación de prácticas agroecológicas para disminuir el impacto ambiental de la agricultura urbana y provisión de alimentos a la Ciudad;
 
@@ -134,7 +146,9 @@ IX. Incorporar el uso de tecnologías de riego eficiente, incluyendo el aprovech
 
 X. Impulsar la siembra de vegetación arbórea, que ayude a mejorar la calidad del aire y disminuir los decibeles del ruido urbano;
 
-XI. Ayudar a mitigar los efectos del cambio climático y optimizar los servicios ecosistémicos que proveen estas áreas verdes, incluyendo la mitigación del efecto de la isla de calor;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Ayudar a mitigar los efectos del cambio climático y optimizar los servicios ecosistémicos que proveen estas áreas verdes, incluyendo la mitigación del efecto de las islas de calor, a través de la generación de microclimas;
 
 XII. Contribuir a la mitigación de los efectos del cambio climático a través del fortalecimiento de la soberanía, la seguridad alimentaria y el cultivo de variedades adaptadas a diversas condiciones ambientales; y
 
@@ -365,3 +379,11 @@ G.O. 23 DE MARZO DE 2022.
 Primero.- Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN I BIS, AL ARTÍCULO 2; Y SE REFORMAN LAS FRACCIONES IV, VI, VII Y XI DEL ARTÍCULO 4 DE LA LEY DE HUERTOS URBANOS DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la Jefa de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entra en vigor al día siguiente de su publicación.
