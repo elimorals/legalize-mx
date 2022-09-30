@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2022-05-27"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -610,7 +610,13 @@ III. Dar mantenimiento a los monumentos, plazas públicas y obras de ornato, pro
 
 IV. Rehabilitar y mantener escuelas, así como construir, rehabilitar y mantener bibliotecas, museos y demás centros de servicio social, cultural y deportivo a su cargo, de conformidad con la normatividad correspondiente;
 
-V. Construir, rehabilitar, mantener y, en su caso, administrar y mantener en buen estado los mercados públicos, de conformidad con la normatividad que al efecto expida el Congreso de la Ciudad;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+V. Construir, rehabilitar, mantener y, en su caso, administrar y mantener en buen estado los mercados públicos, de conformidad con la normatividad que al efecto expida el Congreso de la Ciudad.
+
+> <small>(ADICIONADO, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Las Alcaldías deberán elaborar e implementar el Programa Interno de Protección Civil para los Mercados Públicos de su demarcación territorial, de conformidad con los Términos de Referencia y los Programas Específicos emitidos por la Secretaría de Gestión Integral de Riesgos y Protección Civil local, así como las demás disposiciones aplicables;
 
 VI. Proponer y ejecutar las obras tendientes a la regeneración de barrios y, en su caso, promover su incorporación al patrimonio cultural, en coordinación con las autoridades competentes;
 
@@ -2449,3 +2455,11 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. La presente reforma no surtirá efectos retroactivos.
+
+G.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN V, DEL ARTÍCULO 42, DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
