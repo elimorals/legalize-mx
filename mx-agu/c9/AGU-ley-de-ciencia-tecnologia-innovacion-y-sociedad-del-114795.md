@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-sociedad-del-114795"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-23"
-last_updated: "2021-08-02"
+last_updated: "2022-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 30 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022 (ABROGADO).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de mayo de 2016.
 
@@ -1130,3 +1132,61 @@ P.O. 2 DE AGOSTO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 181.- SE EXPIDE LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto queda abrogada la Ley de Ciencia Tecnología, Innovación y Sociedad del Conocimiento para el Estado de Aguascalientes, publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes de fecha 23 de mayo de 2016, a través del Decreto Número 340, incluyendo todas las reformas que haya sufrido dicho cuerpo normativo, así como todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos del presente Decreto todas las referencias hechas al Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes, se entenderán realizadas al Instituto de Ciencia y Tecnología del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Poder Ejecutivo del Estado deberá nombrar al Director General del Instituto de Ciencia y Tecnología del Estado de Aguascalientes, a más tardar dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Para el inicio de actividades del Instituto de Ciencia y Tecnología del Estado de Aguascalientes su Junta de Gobierno deberá quedar instalado (sic) a más tardar dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+La Junta de Gobierno del Instituto de Ciencia y Tecnología del Estado de Aguascalientes, deberá expedir su Reglamento Interior dentro de los 120 días siguientes al de su instalación.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo del Estado o la persona titular de la Dirección General del Instituto de Ciencia y Tecnología del Estado de Aguascalientes, según corresponda, llevarán a cabo las gestiones necesarias para garantizar el funcionamiento y operación de dicho Organismo Descentralizado.
+
+###### ARTÍCULO OCTAVO.
+
+Los Poderes Legislativo y Ejecutivo del Estado de Aguascalientes realizarán, en el ámbito de sus competencias, las asignaciones presupuestales que resulten necesarias a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Los recursos humanos, materiales y financieros con que cuenta el Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes, formarán parte del Instituto de Ciencia y Tecnología del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO.
+
+Se deberá llevar a cabo la inscripción del Instituto de Ciencia y Tecnología del Estado de Aguascalientes en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante la Unidad encargada del Registro Público de la Propiedad y del Comercio del Estado.
+
+###### ARTÍCULO UNDÉCIMO.
+
+A la entrada en vigor del presente Decreto, en caso de ser necesario, se realizarán las transferencias de personal, de recursos financieros y materiales de una Dependencia a este Organismo Descentralizado, a través de los acuerdos administrativos que según procedan. Los acuerdos administrativos, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por la Dependencia que corresponda y la Entidad Paraestatal en cuestión.
+
+Para efecto de lo anterior, la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado, deberán coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO DUODÉCIMO.
+
+Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través de las autoridades competentes, todos aquello (sic) asuntos, actos y procedimientos necesarios.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
