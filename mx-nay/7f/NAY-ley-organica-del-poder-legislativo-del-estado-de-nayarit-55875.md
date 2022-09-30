@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2022-09-09"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE SEPTIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE SEPTIEMBRE DE 2022.]</small>
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -737,7 +737,9 @@ Los grupos parlamentarios están obligados a destinar los recursos que se les ot
 
 Las Diputadas o Diputados sin partido y en su caso independientes, podrán agruparse a efecto de conformar una Asociación Parlamentaria Plural y siempre que su conformación sea de cuando menos dos integrantes. Solo se podrá conformar una Asociación Parlamentaria Plural en el caso de las diputadas o diputados sin partido o independientes.
 
-Su constitución deberá realizarse preferentemente al inicio de la legislatura y deberán presentar a la Mesa Directiva el acta en la que conste la decisión de las diputados (sic) o diputados de constituirse en Asociación Parlamentaria Plural, especificando la lista de sus integrantes y firmas, así como el nombre de la diputada o diputado coordinador y en su caso subcoordinador. El coordinador formará parte de la Comisión de Gobierno con voz y voto. Actuará bajo la denominación de asociación parlamentaria plural.
+> <small>(F. DE E., P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Su constitución deberá realizarse preferentemente al inicio de la legislatura y deberán presentar a la Mesa Directiva el acta en la que conste la decisión de las diputadas o diputados de constituirse en Asociación Parlamentaria Plural, especificando la lista de sus integrantes y firmas, así como el nombre de la diputada o diputado coordinador y en su caso subcoordinador. El coordinador formará parte de la Comisión de Gobierno con voz y voto. Actuará bajo la denominación de asociación parlamentaria plural.
 
 El Coordinador expresa la voluntad de la asociación parlamentaria plural, y será su función primordial promover el diálogo y los entendimientos necesarios para la toma de decisiones que coadyuven en la actividad sustantiva del Congreso, y fungirán como enlace con los demás órganos del gobierno interior.
 
