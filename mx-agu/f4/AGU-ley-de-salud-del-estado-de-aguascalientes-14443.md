@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2022-05-09"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -251,13 +251,17 @@ XXIV.- Promover la donación de órganos y tejidos, y células de seres humanos,
 
 XXV.- Fomentar, promover y desarrollar unidades administrativas para el almacenamiento y desarrollo de la investigación científica en el área de estudio de las células madre;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXVI.- Desarrollar campañas de información, promoción y sensibilización en materia de uso correcto de medicamentos bajo prescripción médica, así como los riesgos para la salud por el uso inadecuado de antibióticos y otros antimicrobianos; y
+XXVI.- Desarrollar campañas de información, promoción y sensibilización en materia de uso correcto de medicamentos bajo prescripción médica, así como los riesgos para la salud por el uso inadecuado de antibióticos y otros antimicrobianos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXVII.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XXVII.- Administrar el patrimonio de la beneficencia pública a través del órgano desconcentrado denominado Instituto de Beneficencia Pública del Estado de Aguascalientes, de conformidad con el Titulo Décimo Octavo de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXVIII.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -979,7 +983,9 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 La atención materno-infantil tiene carácter prioritario y comprende, por lo menos, las siguientes acciones:
 
-I.- La atención de la salud de las mujeres durante el embarazo, el parto, el puerperio y la crianza durante la primera infancia de sus hijos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I.- La atención de la salud de las mujeres durante el embarazo, y de estas y las personas recién nacidas durante el parto y sus momentos inmediatamente ulteriores, el puerperio y la crianza durante la primera infancia de los hijos;
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -1013,9 +1019,9 @@ IV.- La promoción de la integración y del bienestar familiar para el acompaña
 
 V.- La atención oportuna, de calidad y gratuita a toda mujer embarazada que necesite atención obstétrica, en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la (sic) Emergencias Obstétricas;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VI.- El alojamiento conjunto de la persona recién nacida y de la madre en un mismo espacio, siempre que no exista riesgo de salud grave de alguno de los dos, con el fin de favorecer el contacto inmediato y permanente entre ambos, así como el inicio de la lactancia materna exclusiva;
+VI.- Garantizar el contacto inmediato entre la madre y el recién nacido para que, en caso de que aquella así lo decida, pueda comenzarse la lactancia y el alojamiento conjunto de la persona recién nacida y la madre en un mismo espacio, siempre y cuando no exista riesgo de salud para alguno de (sic) ambos;
 
 > <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -3181,6 +3187,10 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad sanitaria para tal efecto podrán determinar, por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
+## TITULO DECIMO OCTAVO (SIC). DE LA BENEFICENCIA PÚBLICA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 263.
@@ -3369,6 +3379,10 @@ II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disp
 
 La resolución que contenga la determinación de la sanción a que se refiere este artículo se comunicará a la autoridad correspondiente para que la lleve a cabo.
 
+### CAPITULO UNICO. Del Instituto de Beneficencia Pública del Estado de Aguascalientes
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 287.
 
 Para los efectos de esta Ley, el ejercicio de las facultades discrecionales para imponer medidas de seguridad deberán estar debidamente fundadas y motivadas.
@@ -3474,6 +3488,58 @@ Cuando el presunto infractor impugnare los actos de la autoridad sanitaria compe
 ###### ARTICULO 312.
 
 Los interesados podrán hace valer la prescripción, por vía de acción o excepción. La autoridad deberá declararla de oficio.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTICULO 313.
+
+Se crea el Instituto de la Beneficencia Pública, como un Órgano Desconcentrado adscrito a la Secretaría de Salud del Estado de Aguascalientes, con patrimonio propio y autonomía en gestión, mismo que tiene como objeto la administración, representación y ejecución de los bienes que integran y se destinan a la beneficencia pública en el Estado, en los términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTICULO 314.
+
+El Instituto de la Beneficencia Pública tendrá las atribuciones siguientes:
+
+I. Administrar el patrimonio de la beneficencia pública, así como los subsidios, aportaciones, subvenciones, bienes y demás recursos que la Federación, El Estado, los Municipios y las personas físicas o morales, organismos e instituciones nacionales e internacionales, otorguen o destinen a ésta, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Administrar los bienes, derechos y recursos que obtenga la Beneficencia Pública por cualquier título legal, así como los rendimientos, utilidades, intereses, recuperaciones y demás ingresos que se generen por las inversiones y operaciones que realice, y disponer de estos recursos para contribuir al cumplimiento de sus fines, de conformidad con las disposiciones aplicables;
+
+III. Ejercer los derechos que confieran las leyes, reglamentos, decretos y acuerdos a favor de la Beneficencia Pública y las facultades reconocidas y otorgadas a la Secretaría de Salud en relación con la misma;
+
+IV. Servir como enlace con la Administración del Patrimonio de la Beneficencia Pública de la Nación respecto de los programas y recursos de aplicación en el Estado;
+
+V. Representar los intereses de la Beneficencia Pública en toda clase de juicios y procedimientos, con todas las facultades generales y aquellas que conforme a la ley requieran cláusula especial;
+
+VI. Representar los intereses de la Beneficencia Pública ante las autoridades fiscales y administrativas, así como ejercer todas las facultades generales y especiales, necesarias para la administración de los bienes a su cargo;
+
+VII. Intervenir en los juicios sucesorios en términos de lo dispuesto por los ordenamientos legales aplicables. El Director General del órgano podrá autorizar mediante oficio a otros servidores públicos para que intervengan en dichos juicios;
+
+VIII. Establecer los mecanismos y políticas para la aplicación y distribución de los recursos pertenecientes a la Beneficencia Pública, atendiendo a los objetivos y programas prioritarios de la Secretaría;
+
+IX. Coordinar las funciones relacionadas con la beneficencia pública en el Estado, así como proponer programas de asistencia social que contribuyan al uso eficiente de los bienes que la componen;
+
+X. Coordinarse con el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes para la prestación de servicios de asistencia social señalados en la Ley del Sistema Estatal de Asistencia Social y de Integración Familiar;
+
+XI. Promover la celebración de convenios con los municipios con el objeto de ampliar la cobertura y la calidad de los servicios de salud en el Estado;
+
+XII. Reclamar el porcentaje destino que precisa el artículo 805 del Código Civil del Estado respecto de los bienes que se hubieren precisado como mostrencos;
+
+XIII. Ejercitar toda clase de acciones para lograr la sucesión legítima a favor de la Beneficencia Pública del Estado en los términos de los Artículos 1483 fracción II, 1516 fracción VI, 1517, 1518, 1769, 2641 del Código Civil del Estado de Aguascalientes;
+
+XIV. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTICULO 315.
+
+El Instituto de la Beneficencia Pública contará con la estructura orgánica y el personal profesional, técnico y administrativo que requieran para el mejor desempeño de sus actividades, el cual será nombrado en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTICULO 316.
+
+Los procesos administrativos, metodologías, bases de organización, así como las demás normas de carácter interno del Instituto, se regularán en el Reglamento Interior que sea expedido para el efecto.
 
 ## TRANSITORIOS
 
@@ -4136,3 +4202,41 @@ P.O. 9 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 188.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES; SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas del Estado, proveerá de los recursos necesarios para la instalación y funcionamiento del Organismo Desconcentrado señalado en el presente Decreto, para lo cual deberá realizar las adecuaciones internas y externas, así como las reasignaciones presupuestales que sean necesarias.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, en caso de ser necesario, se realizarán las transferencias de personal, de recursos financieros y materiales de una Dependencia o Entidad a este Organismo Desconcentrado, a través de los acuerdos administrativos que según procedan. Los acuerdos administrativos, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por aquella Dependencia y esta Entidad.
+
+Para efecto de lo anterior, la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado, deberán de coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a 120 días siguientes a la entrada en vigor del presente Decreto, las Autoridades competentes deberán emitir las adecuaciones normativas necesarias para el cumplimiento del presente Decreto. Hasta en tanto, se aplicará la normativa vigente.
+
+###### ARTÍCULO QUINTO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 189.- SE REFORMAN LAS FRACCIONES I Y VI DEL ARTÍCULO 69 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaria de Salud del Estado de Aguascalientes deberá emitir, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, la reglamentación necesaria para dar cumplimiento al mismo.
