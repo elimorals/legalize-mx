@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-fiscalia-general-del-estado-de-140047"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-01-20"
-last_updated: "2021-12-29"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de enero del 2020.
 
@@ -227,9 +227,13 @@ XIX. Ley General de Transparencia: Ley General de Transparencia y Acceso a la In
 
 XX. Órgano: Órgano Interno de Control y Vigilancia;
 
-XXI. Unidades Auxiliares Adjetivas: Todas aquellas referidas por la fracción IV del artículo 9° de la presente Ley y todas aquellas a las que les sea asignado el mismo carácter, en términos del reglamento de la presente Ley, los acuerdos que para tales efectos emita el Fiscal General y las demás normas relativas y aplicables, en razón de que las atribuciones que les corresponden son inherentes al ejercicio de la pretensión punitiva del Estado o a la procuración de justicia; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXII. Unidades Auxiliares Sustantivas: Todas aquellas referidas por la fracción III del artículo 9° de la presente Ley y todas aquellas a las que les sea asignado el mismo carácter, en términos del reglamento de la presente Ley, los acuerdos que para tales efectos emita el Fiscal General y las demás normas relativas y aplicables, en razón de que las atribuciones que les corresponden, si bien no son inherentes al ejercicio de la pretensión punitiva del Estado o a la procuración de justicia, sí son necesarias para el funcionamiento, el desempeño y el normal desarrollo de las facultades y labores propias de la Fiscalía General.
+XXI. Unidades Auxiliares Adjetivas: Todas aquellas referidas por la fracción VI del artículo 9° de la presente Ley y todas aquellas a las que les sea asignado el mismo carácter, en términos del reglamento de la presente Ley, los acuerdos que para tales efectos emita el Fiscal General y las demás normas relativas y aplicables, en razón de que las atribuciones que les corresponden son inherentes al ejercicio de la pretensión punitiva del Estado o a la procuración de justicia; y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXII. Unidades Auxiliares Sustantivas: Todas aquellas referidas por la fracción V del artículo 9° de la presente Ley y todas aquellas a las que les sea asignado el mismo carácter, en términos del reglamento de la presente Ley, los acuerdos que para tales efectos emita el Fiscal General y las demás normas relativas y aplicables, en razón de que las atribuciones que les corresponden, si bien no son inherentes al ejercicio de la pretensión punitiva del Estado o a la procuración de justicia, sí son necesarias para el funcionamiento, el desempeño y el normal desarrollo de las facultades y labores propias de la Fiscalía General.
 
 ###### ARTÍCULO 4°.
 
@@ -349,17 +353,19 @@ Los Vice Fiscales, Oficial Mayor, Directores Generales, Coordinadores y demás s
 
 ### CAPÍTULO I. Bases Orgánicas
 
-###### ARTÍCULO 9º.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 9°.
 
 Para el despacho de los asuntos que le competen, la Fiscalía General contará con una persona que ostente la titularidad de este Organismo Constitucional Autónomo y con la siguiente estructura orgánica básica:
 
 I. Vicefiscalías:
 
-a) De Investigación;
+a) De Investigación del Delito;
 
-b) De Litigación; y
+b) Jurídica y de Litigación Penal; y
 
-c) Jurídica;
+c) De Control Regional;
 
 II. Fiscalías Especializadas:
 
@@ -369,21 +375,27 @@ b) En Delitos Electorales;
 
 c) En Materia de Tortura;
 
-d) En Materia de Trata de Personas; y
+d) En Materia de Trata de Personas;
 
 e) En Materia de Desaparición y Localización de Personas;
 
-III. Unidades Auxiliares Sustantivas:
+f) En Investigación de Delitos de Alto Impacto;
+
+III. Fiscalías Regionales;
+
+IV. Agencia Estatal de Investigación Criminal, que integra las siguientes unidades:
 
 a) Comisaría General de la Policía de Investigación;
 
-b) Investigación Pericial;
+b) Investigación Pericial; y
 
-c) Apoyo en Litigio Estratégico; y
+d) (sic) Análisis de Información;
 
-d) Análisis de Información;
+V. Unidades Auxiliares Sustantivas:
 
-IV. Unidades Auxiliares Adjetivas:
+a) Apoyo en Litigio Estratégico; y
+
+VI. Unidades Auxiliares Adjetivas:
 
 a) Política Institucional;
 
@@ -395,17 +407,13 @@ d) Archivo;
 
 e) Innovación, Planeación y Desarrollo Tecnológico;
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2021)</small>
-
 f) Instituto de Formación Profesional;
 
 g) Unidad de Transparencia; y
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2021)</small>
+h) Centro de Evaluación y Control de Confianza;
 
-h) Centro de Evaluación y Control de Confianza.
-
-V. Órgano Interno de Control y Vigilancia:
+VII. Órgano Interno de Control y Vigilancia:
 
 a) Visitador General;
 
@@ -415,17 +423,35 @@ a) Visitador General;
 
 3. Autoridad Sustanciadora y Resolutora; y
 
-VI. Los órganos colegiados que se establezcan en la presente Ley, en sus reglamentos, en los acuerdos que para tales efectos emita el Fiscal General, y las demás disposiciones legales relativas y aplicables.
+VIII. Los órganos colegiados que se establezcan en la presente Ley, en sus reglamentos, en los acuerdos que para tales efectos emita el Fiscal General, y las demás disposiciones legales relativas y aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 10.
 
-Para el cumplimiento de las atribuciones, facultades y funciones que le son propias, la Fiscalía General contará además con todas aquellas Fiscalías Especializadas, Unidades Auxiliares tanto Sustantivas como Adjetivas, direcciones, jefaturas, unidades organizativas, agencias o áreas que sean necesarias para tales efectos, cuyo establecimiento y adscripción será determinado por el reglamento de la presente Ley y por las demás disposiciones relativas y aplicables, atendiendo al presupuesto de egresos que corresponda.
+Para el cumplimiento de las atribuciones, facultades y funciones que le son propias, la Fiscalía General contará además con todas aquellas Fiscalías Especializadas, Fiscalías Regionales, Unidades Auxiliares tanto Sustantivas como Adjetivas, direcciones, jefaturas, unidades organizativas, agencias o áreas que sean necesarias para tales efectos, cuyo establecimiento y adscripción será determinado por el reglamento de la presente Ley y por las demás disposiciones relativas y aplicables, atendiendo al presupuesto de egresos que corresponda.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 11.
 
 La Fiscalía General contará con las Fiscalías Especializadas, Unidades Auxiliares tanto Sustantivas como Adjetivas, direcciones, jefaturas, unidades organizativas, agencias o áreas especializadas en la investigación y persecución de géneros de delitos, atendiendo a la naturaleza, complejidad e incidencia de los hechos que presuntamente los constituyen; las cuales se establecerán siguiendo un criterio de especialización y respetando el principio de Racionalidad al que refiere la fracción IV del apartado B del artículo 4° de la presente Ley, y contarán con las atribuciones y la estructura administrativa que establezcan las disposiciones que les sean aplicables.
 
-Asimismo, y conforme a un criterio de organización territorial, la Fiscalía General actuará por conducto de las Fiscalías Especializadas, Unidades Auxiliares tanto Sustantivas como Adjetivas, direcciones, jefaturas, unidades organizativas, agencias o áreas especializadas que ejercerán sus funciones en las circunscripciones territoriales que establezcan las disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 11 A. Conforme al criterio de organización territorial, la Fiscalía General actuará por conducto de las Fiscalías Regionales, a cuya estructura se adscribirán Fiscalías Especializadas, Unidades Auxiliares tanto Sustantivas como Adjetivas, direcciones, jefaturas, agencias o áreas especializadas que ejercerán sus funciones en las circunscripciones territoriales que establezcan las disposiciones aplicables, ello respetando el principio de Racionalidad al que refiere la fracción IV del apartado B del artículo 4° de la presente Ley.
+
+Las Fiscalías Regionales conforme al acuerdo de creación, atenderán las siguientes bases generales:
+
+I. Las circunscripciones competencia de las Fiscalías Regionales abarcarán uno o más municipios del Estado, al frente de cada Fiscalía Regional habrá un Fiscal Regional y coordinados ellos por el Vicefiscal de Control Regional, quien ejercerá el mando y autoridad jerárquica sobre los servidores públicos que formen parte de su estructura;
+
+II. Las sedes de las Fiscalías Regionales serán definidas atendiendo a la incidencia delictiva, densidad de población, las características geográficas del Estado y la correcta distribución de las cargas de trabajo;
+
+III. Las Fiscalías Regionales contarán con servidores públicos y agencias del Ministerio Público, que ejercerán sus funciones en la circunscripción territorial que determine el Fiscal General conforme a lo dispuesto en esta ley;
+
+IV. Las Fiscalías Regionales contarán con Agentes del Ministerio Público, Agentes de Policía de Investigación, Peritos y personal administrativo que sea necesario para el cumplimiento de sus funciones de conformidad con las facultades que les otorgue esta ley y su Reglamento; y
+
+V. El Fiscal General a través del acuerdo de creación, expedirá las normas necesarias para la coordinación y articulación de las Fiscalías Regionales y la Vicefiscalía de Control Regional con los (sic) Unidades centrales a efecto de garantizar la unidad de actuación y dependencia jerárquica.
 
 ### CAPÍTULO II. Fiscalía General
 
@@ -559,19 +585,19 @@ d) Las que se establezcan en la presente Ley y las demás disposiciones jurídic
 
 LVI. Participar como integrante de la Conferencia Nacional de Procuración de Justicia, el Consejo Estatal de Seguridad Pública, el Sistema de Atención Integral a Víctimas del Estado de Aguascalientes y de todas aquellas instancias cuya participación requiera la ley, dando el debido seguimiento y cumplimiento a los acuerdos emitidos en su seno;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
+LVII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022)
 
-LVII. Resolver los procedimientos de responsabilidad administrativa, seguidos en contra de cualquiera de los servidores públicos que integran el Órgano, de conformidad con lo dispuesto por la presente Ley y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2020)</small>
+LVIII. Proporcionar los traductores e intérpretes necesarios para salvaguardar los derechos de las víctimas; y
 
-LVIII. Proporcionar los traductores e intérpretes necesarios para salvaguardar los derechos de las víctimas: y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2020)</small>
+LIX. Las demás que le señalen esta Ley, los reglamentos que de ella emanen y las demás disposiciones jurídicas relativas y aplicables.
 
-LVIII. Las demás que le señalen esta Ley, los reglamentos que de ella emanen y las demás disposiciones jurídicas relativas y aplicables.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-El Fiscal General ejercerá las atribuciones y las facultades previstas en este artículo por sí o por conducto del servidor público que determine, salvo las señaladas por las fracciones de la XLVI la LVII y las demás prescritas con tal calidad por otras disposiciones aplicables, las cuales tendrán el carácter de indelegables.
+El Fiscal General ejercerá las atribuciones y las facultades previstas en este artículo por sí o por conducto del servidor público que determine, salvo las señaladas por las fracciones de la XLVI (sic) la LVI y las demás prescritas con tal calidad por otras disposiciones aplicables, las cuales tendrán el carácter de indelegables.
 
 ### CAPÍTULO III. Vicefiscalías
 
@@ -645,19 +671,27 @@ XXII. Las demás que les señalen las disposiciones legales y reglamentarias apl
 
 Cada Vicefiscalía contará con las áreas, agencias, Fiscalías Especializadas o Unidades Auxiliares tanto Sustantivas como Adjetivas que sean necesarias para el ejercicio de sus atribuciones, y serán adscritas de conformidad con las disposiciones que para el efecto se establecen en la presente Ley y su reglamento, atendiendo a la disponibilidad y capacidad presupuestaria de la Fiscalía General.
 
-#### SECCIÓN SEGUNDA. Vicefiscalía de Investigación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. Vicefiscalía de Investigación del Delito
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 17.
 
-La Vicefiscalía de Investigación será la encargada de reunir todos los indicios y datos de prueba necesarios para el esclarecimiento de los hechos que son de su conocimiento, con el propósito de sustentar el ejercicio de la acción penal en contra de la persona imputada; para lo cual deberá procurar, vigilar, coordinar y, en su caso, llevar a cabo todos los actos propios de la etapa de investigación inicial del procedimiento penal, del ejercicio de la facultad de abstenerse de investigar, de la determinación de archivar temporalmente las investigaciones, de aplicar los criterios de oportunidad y de determinar el no ejercicio de la acción penal, en términos de lo dispuesto para tales efectos por el Código Nacional.
+La Vicefiscalía de Investigación del Delito será la encargada de reunir todos los indicios y datos de prueba necesarios para el esclarecimiento de los hechos que son de su conocimiento, con el propósito de sustentar el ejercicio de la acción penal en contra de la persona imputada; para lo cual deberá procurar, vigilar, coordinar y, en su caso, llevar a cabo todos los actos propios de la etapa de investigación inicial del procedimiento penal, de organizar la implementación y aplicación de los mecanismos alternativos de solución de controversias en materia penal, así como del ejercicio de la facultad de abstenerse de investigar, de la determinación de archivar temporalmente las investigaciones, de aplicar los criterios de oportunidad y de determinar el no ejercicio de la acción penal, en términos de lo dispuesto para tales efectos por el Código Nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 18.
 
-Corresponde a la persona titular de la Vicefiscalía de Investigación el ejercicio de las siguientes atribuciones y facultades específicas:
+Corresponde a la persona titular de la Vicefiscalía de Investigación del Delito el ejercicio de las siguientes atribuciones y facultades específicas:
 
 I. Coordinar, vigilar y supervisar la debida integración y el seguimiento de las carpetas de investigación que son de su conocimiento, así como llevar un control adecuado de las mismas;
 
-II. Coordinar, vigilar, supervisar y, en su caso, derivar los casos que son de su conocimiento a los Facilitadores, para la aplicación de un Mecanismo Alternativo de Solución de Controversias en Materia Penal, en los supuestos y en los términos prescritos por el Código Nacional y la ley de la materia;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+II. Aplicar e implementar los mecanismos alternativos de solución de controversias en materia penal, en los casos en que el Ministerio Público competente haga la derivación correspondiente, en los términos prescritos por la ley de la materia;
 
 III. Coordinar, supervisar, vigilar el cumplimiento y, en su caso, aprobar la celebración de los Acuerdos Reparatorios, en términos de lo dispuesto por el Código Nacional, integrando y actualizando la base de datos que corresponda;
 
@@ -667,7 +701,9 @@ V. Proponer al Fiscal General y, en el caso de que éste le haya delegado debida
 
 VI. Coordinar, vigilar, supervisar, intervenir e interponer, por sí o por conducto de los Agentes del Ministerio Público de la adscripción, todos los medios de impugnación, incidentes y juicios de amparo que sean pertinentes en el caso concreto, de conformidad con las normas que los rijan respectivamente;
 
-VII. Autorizar las solicitudes de colaboración que formulen los Agentes del Ministerio Público, de acuerdo con los convenios relativos, dirigidas a la Procuraduría General de la República y a las fiscalías generales o a sus equivalentes de otras Entidades Federativas;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Autorizar las solicitudes de colaboración que formulen los Agentes del Ministerio Público, de acuerdo con los convenios relativos, dirigidas a la Fiscalía General de la República y a las fiscalías generales o a sus equivalentes de otras Entidades Federativas;
 
 VIII. Promover, atender, vigilar y proteger cabalmente los derechos humanos y las garantías constitucionales de la persona imputada, cuando fuere detenida o se haya presentado voluntariamente durante la integración de la carpeta de investigación, así como cuando se haya decretado su retención, en términos de lo dispuesto por el Código Nacional;
 
@@ -677,23 +713,57 @@ IX. Coordinar, promover, vigilar, supervisar y proteger los derechos humanos y l
 
 X. Coordinar, promover, supervisar y proteger los derechos humanos y las garantías constitucionales de las personas que intervienen en el procedimiento penal y, en su caso, solicitar a su favor todas las medidas de protección establecidas por la Ley para la Protección de las Personas que Intervienen en el Enjuiciamiento Penal para el Estado de Aguascalientes;
 
-XI. Auxiliarse de la Comisaría General de la Policía de Investigación para el ejercicio de sus atribuciones, pudiendo ejercer sobre ella el mando y el control directo, en términos de lo que dispongan las normas aplicables;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XII. Coordinar, vigilar y supervisar la intervención que corresponde a la Institución del Ministerio Público en los procedimientos civiles y familiares, en términos de lo dispuesto por la legislación aplicable;
+XI. Auxiliarse de la Agencia Estatal de Investigación Criminal para el ejercicio de sus atribuciones, pudiendo ejercer sobre ella el mando y el control directo, en términos de lo que dispongan las normas aplicables;
 
-XIII. Investigar los hechos presuntamente constitutivos de faltas administrativas, cometidos por cualquiera de los servidores públicos que integran el Órgano, de conformidad con lo dispuesto por la presente Ley y demás normatividad aplicable; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Coordinar, vigilar y supervisar la intervención que corresponde a la Institución del Ministerio Público en los procedimientos civiles y familiares, en términos de lo dispuesto por la legislación aplicable; y
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XIII. Las demás que se señalen en la presente Ley, en sus reglamentos y en las demás disposiciones relativas y aplicables.
 
 XIV. Las demás que se señalen en la presente Ley, en sus reglamentos y en las demás disposiciones que (sic) relativas y aplicables.
 
-#### SECCIÓN TERCERA. Vicefiscalía de Litigación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN TERCERA. Vicefiscalía Jurídica y de Litigación Penal
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 19.
 
-La Vicefiscalía de Litigación será la encargada de la prosecución judicial de los hechos presuntamente constitutivos de delito, con el propósito de sostener y acreditar la acusación formulada en contra de la persona imputada y lograr la reparación del daño a favor de las personas que hayan adquirido la calidad de víctimas u ofendidos; para lo cual deberá procurar, vigilar, coordinar y, en su caso, realizar todos los actos propios de las etapas de investigación complementaria, intermedia y de juicio del procedimiento penal, así como todos aquellos inherentes a la ejecución penal. Asimismo, estarán a su cargo todos los actos que correspondan a la aplicación de los criterios de oportunidad y al desistimiento de la acción penal.
+La Vicefiscalía Jurídica y de Litigación Penal será la encargada de coordinar la defensa y la representación jurídica de la Fiscalía General en aquellos asuntos en los que sea parte o tenga interés; de dirigir el cumplimiento de las obligaciones que le corresponden en materia de transparencia y de atención a víctimas y ofendidos del delito y de fungir como órgano consultivo en los asuntos normativos que le atañen.
+
+En razón de sus atribuciones sustantivas, corresponde a la Vicefiscalía Jurídica y de Litigación Penal la prosecución judicial de los hechos presuntamente constitutivos de delito, con el propósito de sostener y acreditar la acusación formulada en contra de la persona imputada y lograr la reparación del daño a favor de las personas que hayan adquirido la calidad de víctimas u ofendidos; para lo cual deberá procurar, vigilar, coordinar y, en su caso, realizar todos los actos propios de las etapas de investigación complementaria, intermedia y de juicio del procedimiento penal, así como todos aquellos inherentes a la ejecución penal. Asimismo, estarán a su cargo todos los actos que correspondan a la aplicación de los criterios de oportunidad y al desistimiento de la acción penal.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 20.
 
-Corresponde a la persona titular de la Vicefiscalía de Litigación el ejercicio de las atribuciones y facultades específicas que se señalan a continuación:
+La persona titular de la Vicefiscalía Jurídica y de Litigación Penal tiene a su cargo el ejercicio de las siguientes atribuciones y facultades específicas.
+
+A. En materia jurídica:
+
+I. Otorgar a las víctimas y ofendidos las medidas de atención inmediata e integral, establecidas por la Ley General de Victimas, la Ley de Víctimas del Estado de Aguascalientes y por las demás normas relativas y aplicables;
+
+II. Elaborar, de forma coordinada con los factores y elementos que integran la estructura orgánica de la Fiscalía General correspondientes, y proponer al Fiscal General los proyectos de iniciativas de ley, reglamentos, acuerdos, circulares, instructivos, bases, protocolos, lineamientos, manuales de organización y manuales de procedimientos conducentes al buen desempeño de las funciones de la Fiscalía General;
+
+III. Elaborar, de forma coordinada con los factores y elementos que conforman la estructura orgánica de la Fiscalía General correspondiente, y proponer al Fiscal General las opiniones que sean solicitadas por el Congreso del Estado, en los asuntos que atañen a la Fiscalía General;
+
+IV. Coordinar la intervención, defensa y representación jurídica de la Fiscalía General y de todos y cada uno de los elementos y factores que integran su estructura orgánica, en los asuntos en los que sean parte o tengan interés;
+
+V. Asesorar jurídicamente a todos y cada uno de los elementos y factores que integran la estructura orgánica de la Fiscalía General, en los asuntos de su competencia;
+
+VI. Coordinar el adecuado, oportuno y puntual cumplimiento de todas las obligaciones que corresponden a la Fiscalía General y a todos y cada uno de los elementos y factores que integran su estructura orgánica, en materia de transparencia;
+
+VII. Dar seguimiento a las recomendaciones emitidas a la Fiscalía General, por las Comisiones Nacional y Estatal de los Derechos Humanos; y
+
+VIII. Las demás que se señalen en el reglamento de la presente Ley y en otras disposiciones legales aplicables.
+
+B. En materia de procuración de justicia:
 
 I. Coordinar, vigilar y supervisar el ejercicio de la acción penal, las formulaciones de imputación, las solicitudes de vinculación a proceso y de imposición de medidas cautelares, las peticiones de providencias precautorias y las formulaciones de acusación realizadas por los servidores públicos a su cargo, en términos de lo dispuesto por las normas aplicables;
 
@@ -711,49 +781,57 @@ VII. Autorizar las solicitudes de colaboración que formulen los Agentes del Min
 
 VIII. Promover, atender, vigilar y proteger cabalmente los derechos humanos y las garantías constitucionales de la persona imputada, cuando se le haya impuesto una medida cautelar privativa o restrictiva de libertad, en términos de lo dispuesto por el Código Nacional;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
-
 IX. Coordinar, promover, vigilar, supervisar y proteger los derechos humanos y las garantías constitucionales de las víctimas u ofendidos, así como procurar y solicitar, a favor de las personas que hayan adquirido tales calidades y por conducto de los Agentes del Ministerio Público a su cargo, el otorgamiento de las medidas de protección y de atención inmediata e integral establecidas por el Código Nacional, la Ley General de Victimas, la Ley de Víctimas del Estado de Aguascalientes y las demás disposiciones aplicables;
 
 X. Procurar que se obtenga la reparación integral del daño a favor de las víctimas o los ofendidos, en los casos que corresponda;
 
 XI. Coordinar, promover, supervisar y proteger los derechos humanos y las garantías constitucionales de las personas que intervienen en el procedimiento penal y, en su caso, solicitar a su favor todas las medidas de protección establecidas por la Ley para la Protección de las Personas que Intervienen en el Enjuiciamiento Penal para el Estado de Aguascalientes;
 
-XII. Auxiliarse de la Comisaría General de la Policía de Investigación para el ejercicio de sus atribuciones, pudiendo ejercer sobre ella el mando y el control directo, en términos de lo que dispongan las normas aplicables;
+XII. Auxiliarse de la Agencia Estatal de Investigación Criminal para el ejercicio de sus atribuciones, pudiendo ejercer sobre ella el mando y el control directo, en términos de lo que dispongan las normas aplicables; y
 
-XIII. Sustanciar los procedimientos de responsabilidad administrativa, seguidos en contra de cualquiera de los servidores públicos que integran el Órgano, de conformidad con lo dispuesto por la presente Ley y demás normatividad aplicable;
+XIII. Las demás que se señalen en la presente Ley, en sus reglamentos y en las demás disposiciones relativas y aplicables.
 
-XIV. Las demás que se señalen en la presente Ley, en sus reglamentos y en las demás disposiciones que (sic) relativas y aplicables.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN CUARTA. Vicefiscalía Jurídica
+#### SECCIÓN CUARTA. Vicefiscalía de Control Regional
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 21.
 
-La Vice Fiscalía Jurídica será la encargada de coordinar la defensa y la representación jurídica de la Fiscalía General en aquellos asuntos en los que sea parte o tenga interés; de dirigir el cumplimiento de las obligaciones que le corresponden en materia de transparencia y de atención a víctimas y ofendidos del delito; de organizar la implementación y aplicación de los mecanismos alternativos de solución de controversias en materia penal, y de fungir como órgano consultivo en los asuntos normativos que le atañen.
+La Vicefiscalía de Control Regional, tendrá a su cargo y adscripción las Fiscalías Regionales creadas en términos de las bases generales previstas por el artículo 11 A de la Ley, por lo que conforme con su competencia y circunscripción será la encargada de reunir todos los indicios y datos de prueba necesarios para el esclarecimiento de los hechos que son de su conocimiento, con el propósito de sustentar el ejercicio de la acción penal en contra de la persona imputada; para lo cual deberá procurar, vigilar, coordinar y, en su caso, llevar a cabo todos los actos propios de la etapa de investigación inicial del procedimiento penal, de organizar la implementación y aplicación de los mecanismos alternativos de solución de controversias en materia penal, así como del ejercicio de la facultad de abstenerse de investigar, de la determinación de archivar temporalmente las investigaciones, de aplicar los criterios de oportunidad y de determinar el no ejercicio de la acción penal, en términos de lo dispuesto para tales efectos por el Código Nacional.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 22.
 
-La persona titular de la Vicefiscalía Jurídica tiene a su cargo el ejercicio de las siguientes atribuciones y facultades específicas:
+Corresponde a la persona titular de la Vicefiscalía de Control Regional el ejercicio de las siguientes atribuciones y facultades específicas:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+I. Coordinar, vigilar y supervisar la debida integración y el seguimiento de las carpetas de investigación que son de su conocimiento, así como llevar un control adecuado de las mismas;
 
-I. Otorgar a las víctimas y ofendidos las medidas de atención inmediata e integral, establecidas por la Ley General de Victimas, la Ley de Víctimas del Estado de Aguascalientes y por las demás normas relativas y aplicables;
+II. Aplicar e implementar los mecanismos alternativos de solución de controversias en materia penal, en los casos en que el Ministerio Público competente haga la derivación correspondiente, en los términos prescritos por la ley de la materia;
 
-II. Elaborar, de forma coordinada con los factores y elementos que integran la estructura orgánica de la Fiscalía General correspondientes, y proponer al Fiscal General los proyectos de iniciativas de ley, reglamentos, acuerdos, circulares, instructivos, bases, protocolos, lineamientos, manuales de organización y manuales de procedimientos conducentes al buen desempeño de las funciones de la Fiscalía General;
+III. Coordinar, supervisar, vigilar el cumplimiento y, en su caso, aprobar la celebración de los Acuerdos Reparatorios, en términos de lo dispuesto por el Código Nacional, integrando y actualizando la base de datos que corresponda;
 
-III. Elaborar, de forma coordinada con los factores y elementos que conforman la estructura orgánica de la Fiscalía General correspondientes, y proponer al Fiscal General las opiniones que sean solicitadas por el Congreso del Estado, en los asuntos que atañen a la Fiscalía General;
+IV. Coordinar, vigilar, supervisar y autorizar tanto el ejercicio de la facultad de abstenerse de investigar como el archivo temporal de las investigaciones;
 
-IV. Coordinar la intervención, defensa y representación jurídica de la Fiscalía General y de todos y cada uno de los elementos y factores que integran sus (sic) estructura orgánica, en los asuntos en los que sean parte o tengan interés;
+V. Proponer al Fiscal General y, en el caso de que éste le haya delegado debidamente tal facultad, aprobar la aplicación de los criterios de oportunidad y la determinación del no ejercicio de la acción penal, de conformidad con lo dispuesto por el Código Nacional para tales efectos;
 
-V. Asesorar jurídicamente a todos y cada uno de los elementos y factores que integran la estructura orgánica de la Fiscalía General, en los asuntos de su competencia;
+VI. Coordinar, vigilar, supervisar, intervenir e interponer, por sí o por conducto de los Agentes del Ministerio Público de la adscripción, todos los medios de impugnación, incidentes y juicios de amparo que sean pertinentes en el caso concreto, de conformidad con las normas que los rijan respectivamente;
 
-VI. Coordinar el adecuado, oportuno y puntual cumplimiento de todas las obligaciones que corresponden a la Fiscalía General y a todos y cada uno de los elementos y factores que integran su estructura orgánica, en materia de transparencia;
+VII. Autorizar las solicitudes de colaboración que formulen los Agentes del Ministerio Público, de acuerdo con los convenios relativos, dirigidas a la Fiscalía General de la República y a las fiscalías generales o a sus equivalentes de otras Entidades Federativas;
 
-VII. Dar seguimiento a las recomendaciones emitidas a la Fiscalía General, por las Comisiones Nacional y Estatal de los Derechos Humanos;
+VIII. Promover, atender, vigilar y proteger cabalmente los derechos humanos y las garantías constitucionales de la persona imputada, cuando fuere detenida o se haya presentado voluntariamente durante la integración de la carpeta de investigación, así como cuando se haya decretado su retención, en términos de lo dispuesto por el Código Nacional;
 
-VIII. Aplicar e implementar los mecanismos alternativos de solución de controversias en materia penal, en los casos en que el Ministerio Público haga la derivación correspondiente, en los términos prescritos por la ley de la materia; y
+IX. Coordinar, promover, vigilar, supervisar y proteger los derechos humanos y las garantías constitucionales de las víctimas u ofendidos, así como procurar y solicitar, a favor de las personas que hayan adquirido tales calidades y por conducto de los Agentes del Ministerio Público a su cargo, el otorgamiento de las medidas de protección y de atención inmediata e integral establecidas por el Código Nacional, la Ley General de Victimas, la Ley de Víctimas del Estado de Aguascalientes y las demás disposiciones aplicables;
 
-IX. Las demás que se señalen en el reglamento de la presente Ley y en otras disposiciones legales aplicables.
+X. Coordinar, promover, supervisar y proteger los derechos humanos y las garantías constitucionales de las personas que intervienen en el procedimiento penal y, en su caso, solicitar a su favor todas las medidas de protección establecidas por la Ley para la Protección de las Personas que Intervienen en el Enjuiciamiento Penal para el Estado de Aguascalientes;
+
+XI. Auxiliarse de la Agencia Estatal de Investigación Criminal para el ejercicio de sus atribuciones, pudiendo ejercer sobre ella el mando y el control directo, en términos de lo que dispongan las normas aplicables;
+
+XII. Coordinar, vigilar y supervisar la intervención que corresponde a la Institución del Ministerio Público en los procedimientos civiles y familiares, en términos de lo dispuesto por la legislación aplicable; y
+
+XIII. Las demás que se señalen en la presente Ley, en sus reglamentos y en las demás disposiciones relativas y aplicables.
 
 ### CAPÍTULO IV. Fiscalías Especializadas
 
@@ -981,17 +1059,97 @@ VII. Localizar a las familias de las personas localizadas e identificadas; y
 
 VIII. Las demás que se señalen en el reglamento de la presente Ley y en otras disposiciones legales aplicables.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN SÉPTIMA. Fiscalía Especializada en Investigación de Delitos de Alto Impacto
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 40 A. La Fiscalía Especializada en Investigación de Delitos de Alto Impacto será la encargada de reunir todos los indicios y datos de prueba necesarios para el esclarecimiento de los hechos presuntamente constitutivos de los delitos de feminicidio, homicidio, privación ilegal de la libertad, extorsión y robo de vehículos previstos en el Código Penal, así como de los hechos presuntamente constitutivos de delitos contra la salud, contemplados en los artículos 475, 476 y 477 de la Ley General de Salud; y en los casos de secuestro, de conformidad con la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Federal.
+
+La Fiscalía Especializada en Investigación de Delitos de Alto Impacto en el ámbito de su competencia ejercerá sus funciones con el propósito de sustentar el ejercicio de la acción penal en contra de la persona imputada; para lo cual deberá en el ámbito de su competencia procurar, vigilar, coordinar y, en su caso, llevar a cabo todos los actos propios de la etapa de investigación inicial del procedimiento penal, del ejercicio de la facultad de abstenerse de investigar, de la determinación de archivar temporalmente las investigaciones, de aplicar los criterios de oportunidad y de determinar el no ejercicio de la acción penal, en términos de lo dispuesto para tales efectos por el Código Nacional.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 40 B. Corresponde a la persona titular de la Fiscalía Especializada en Investigación de Delitos de Alto Impacto en el ámbito de su competencia el ejercicio de las atribuciones y facultades específicas que se señalan a continuación:
+
+I. Coordinar, vigilar y supervisar la debida integración y el seguimiento de las carpetas de investigación que son de su conocimiento, así como llevar un control adecuado de las mismas;
+
+II. Coordinar, vigilar, supervisar y autorizar tanto el ejercicio de la facultad de abstenerse de investigar como el archivo temporal de las investigaciones;
+
+III. Proponer al Fiscal General y, en el caso de que éste le haya delegado debidamente tal facultad, aprobar la aplicación de los criterios de oportunidad y la determinación del no ejercicio de la acción penal, de conformidad con lo dispuesto por el Código Nacional para tales efectos;
+
+IV. Coordinar, vigilar, supervisar, intervenir e interponer, por sí o por conducto de los Agentes del Ministerio Público de la adscripción, todos los medios de impugnación, incidentes y juicios de amparo que sean pertinentes en el caso concreto, de conformidad con las normas que los rijan respectivamente;
+
+V. Autorizar las solicitudes de colaboración que formulen los Agentes del Ministerio Público, de acuerdo con los convenios relativos, dirigidas a la Fiscalía General de la República y a las fiscalías generales o a sus equivalentes de otras Entidades Federativas;
+
+VI. Promover, atender, vigilar y proteger cabalmente los derechos humanos y las garantías constitucionales de la persona imputada, cuando fuere detenida o se haya presentado voluntariamente durante la integración de la carpeta de investigación, así como cuando se haya decretado su retención, en términos de lo dispuesto por el Código Nacional;
+
+VII. Coordinar, promover, vigilar, supervisar y proteger los derechos humanos y las garantías constitucionales de las víctimas u ofendidos, así como procurar y solicitar, a favor de las personas que hayan adquirido tales calidades y por conducto de los Agentes del Ministerio Público a su cargo, el otorgamiento de las medidas de protección y de atención inmediata e integral establecidas por el Código Nacional, la Ley General de Victimas, la Ley de Víctimas del Estado de Aguascalientes y las demás disposiciones aplicables;
+
+VIII. Coordinar, promover, supervisar y proteger los derechos humanos y las garantías constitucionales de las personas que intervienen en el procedimiento penal y, en su caso, solicitar a su favor todas las medidas de protección establecidas por la Ley para la Protección de las Personas que Intervienen en el Enjuiciamiento Penal para el Estado de Aguascalientes;
+
+IX. Auxiliarse de la Comisaría General de la Policía de Investigación, a través de la Agencia Estatal de Investigación Criminal para el ejercicio de sus atribuciones, pudiendo ejercer sobre ella el mando y el control directo, en términos de lo que dispongan las normas aplicables;
+
+X. Las demás que se señalen en la presente Ley, en sus reglamentos y en las demás disposiciones relativas y aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO V. Agencia Estatal de Investigación Criminal
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 40 C. La Fiscalía General contará con una Agencia Estatal de Investigación Criminal la cual será el órgano de coordinación operativa de los servicios auxiliares directos de la institución del Ministerio Público.
+
+La Agencia Estatal de Investigación Criminal tendrá la calidad orgánica y jerárquica de una Vicefiscalía, misma que corresponderá igualmente a la persona designada como su titular; se integrará por Personal Sustantivo Básico o personal adjetivo que se requiera para el ejercicio y cumplimiento de sus atribuciones, facultades y obligaciones.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 40 D. La Agencia Estatal de Investigación Criminal tendrá a su adscripción las siguientes Unidades Auxiliares Sustantivas:
+
+I. Comisaría General de la Policía de Investigación;
+
+II. Investigación Pericial; y
+
+III. Análisis de Información.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 40 E. La persona titular de la Agencia Estatal de Investigación Criminal, será designada y removida por el Fiscal General.
+
+Además de los requisitos establecidos en el artículo 14 de la presente Ley, la persona titular de la Agencia Estatal de Investigación Criminal deberá acreditar que cuenta con experiencia mínima de cinco años en áreas afines a la procuración de justicia, la actividad policial o pericial, y cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 40 F. En el ámbito de su competencia, además de las previstas en el artículo 15 de la presente Ley, corresponde a la persona titular de la Agencia Estatal de Investigación Criminal, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
+
+I. Definir, instrumentar y evaluar las políticas y los mecanismos que orientan el adecuado desarrollo de las funciones de los servicios periciales, de Policía de Investigación y de análisis de información necesarios;
+
+II. Coordinar el intercambio de información con instancias de procuración de justicia y seguridad pública, estatal y municipal, para el diseño y ejecución de programas, estrategias y acciones para el combate a los delitos que sean competencia de la Fiscalía General;
+
+III. Realizar las acciones y trámites necesarios para mantener la vigencia de la Licencia Oficial Colectiva de Armas de Fuego de la Policía de Investigación;
+
+IV. Diseñar, supervisar y evaluar los operativos que de manera interinstitucional se lleven a cabo en materia de investigación y combate al delito;
+
+V. Establecer políticas que contribuyan al adecuado mantenimiento, protección, uso apropiado y racional del equipo asignado al personal pericial y policial de la Fiscalía General;
+
+VI. Gestionar la adquisición de insumos y equipamiento pericial y policial que requiera; y
+
+VII. Las demás que se señalen en la presente Ley, en sus reglamentos y en las demás disposiciones relativas y aplicables.
+
+La Agencia Estatal de Investigación Criminal contará con las áreas que sean necesarias para el ejercicio de sus atribuciones, y serán adscritas de conformidad con las disposiciones que para el efecto se establecen en la presente Ley y su reglamento, atendiendo a la disponibilidad y capacidad presupuestaria de la Fiscalía General.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO, ANTES CAPÍTULO V], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO VI. Unidades Auxiliares Sustantivas
+
 #### SECCIÓN PRIMERA. Disposiciones Comunes
 
-### CAPÍTULO V. Unidades Auxiliares Sustantivas
-
-### CAPÍTULO VI. Unidades Auxiliares Adjetivas
-
-#### SECCIÓN SEGUNDA. Comisaría General de la Policía de Investigación
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 41.
 
-Las Unidades Auxiliares Sustantivas dependerán Directamente del Fiscal General, contarán con las áreas, oficinas, unidades organizativas, direcciones o jefaturas y con el personal que requieran para el ejercicio de sus funciones, de conformidad con lo dispuesto por la presente Ley, su reglamento y el presupuesto de egresos del ejercicio fiscal que corresponda.
+Las Unidades Auxiliares Sustantivas contarán con las áreas, oficinas, unidades organizativas, direcciones o jefaturas y con el personal que requieran para el ejercicio de sus funciones, de conformidad con lo dispuesto por la presente Ley, su reglamento y el presupuesto de egresos del ejercicio fiscal que corresponda.
 
 ###### ARTÍCULO 42.
 
@@ -1051,13 +1209,15 @@ XVII. Los demás que se establezcan en la presente Ley, su reglamento y las disp
 
 ###### ARTÍCULO 44.
 
-Además de las Unidades Auxiliares Sustantivas a las que refieren la fracción III del artículo 9° y el presente capítulo de esta Ley, la Fiscalía General podrá contar con todas las (sic) aquellas que requiera para el ejercicio adecuado de sus atribuciones, las cuales serán establecidas y adscritas de conformidad con lo dispuesto en el reglamento de esta Ley o mediante acuerdo que emita el Fiscal General.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
-#### SECCIÓN TERCERA. Investigación Pericial
+#### SECCIÓN SEGUNDA. Comisaría General de la Policía de Investigación
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 45.
 
-La Comisaría General de la Policía de Investigación tendrá la calidad orgánica y jerárquica de una Vicefiscalía, misma que corresponderá igualmente a la persona designada como su titular; y será la encargada de coordinar la ejecución de los actos de investigación de los hechos presuntamente constitutivos de delito y de todos aquellos que, bajo su mando y conducción, le encomiende el Ministerio Público, en términos de lo dispuesto por los artículos 21 de la Constitución Federal, y 59 y 60 de la Constitución Local.
+La Comisaría General de la Policía de Investigación será la encargada de coordinar la ejecución de los actos de investigación de los hechos presuntamente constitutivos de delito y de todos aquellos que, bajo su mando y conducción, le encomiende el Ministerio Público, en términos de lo dispuesto por los artículos 21 de la Constitución Federal, 59 y 60 de la Constitución Local.
 
 ###### ARTÍCULO 46.
 
@@ -1085,7 +1245,7 @@ VIII. Intervenir directamente en las investigaciones y en la ejecución de las �
 
 IX. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN CUARTA. Apoyo en Litigio Estratégico
+#### SECCIÓN TERCERA. Investigación Pericial
 
 ###### ARTÍCULO 48.
 
@@ -1127,7 +1287,7 @@ XIII. Aplicar los exámenes médicos y toxicológicos que se requieran a los ser
 
 XIV. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN QUINTA. Análisis de Información
+#### SECCIÓN CUARTA. Apoyo en Litigio Estratégico
 
 ###### ARTÍCULO 51.
 
@@ -1153,7 +1313,7 @@ V. Asesorar, auxiliar y apoyar en la capacitación de los servidores públicos d
 
 VI. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN PRIMERA. Disposiciones Comunes
+#### SECCIÓN QUINTA. Análisis de Información
 
 ###### ARTÍCULO 54.
 
@@ -1205,11 +1365,13 @@ VIII. Cualquier otra información que se considere pertinente y necesaria para e
 
 Para la integración del Sistema de Información Criminal, la Unidad Auxiliar Sustantiva de Análisis de Información deberá coordinarse con las instancias, órganos y dependencias que correspondan, a fin de obtener la información a la que refiere el presente artículo.
 
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPÍTULO VI], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN PRIMERA. Disposiciones Comunes
+
+### CAPÍTULO VII. Unidades Auxiliares Adjetivas
+
 #### SECCIÓN SEGUNDA. Política Institucional
-
-### CAPÍTULO ÚNICO. Competencia e Integración
-
-#### SECCIÓN TERCERA. Coordinación del Centro de Justicia para Mujeres
 
 ###### ARTÍCULO 58.
 
@@ -1273,9 +1435,9 @@ XVII. Los demás que se establezcan en la presente Ley, su reglamento y las disp
 
 ###### ARTÍCULO 61.
 
-Además de las Unidades Auxiliares Adjetivas a las que refieren la fracción IV del artículo 9° y el presente capítulo de esta Ley, la Fiscalía General podrá contar con todas las aquellas que requiera para el ejercicio adecuado de sus atribuciones, las cuales serán establecidas y adscritas de conformidad con lo dispuesto en el reglamento de esta Ley o mediante acuerdo que emita el Fiscal General.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
-#### SECCIÓN CUARTA. Oficialía Mayor
+#### SECCIÓN TERCERA. Coordinación del Centro de Justicia para Mujeres
 
 ###### ARTÍCULO 62.
 
@@ -1297,7 +1459,7 @@ III. Proponer la celebración de convenios de colaboración y de acuerdos con de
 
 IV. Las demás que se establezcan en el reglamento de la presente Ley y en las disposiciones que sean relativas y aplicables.
 
-#### SECCIÓN QUINTA. Archivo
+#### SECCIÓN CUARTA. Oficialía Mayor
 
 ###### ARTÍCULO 65.
 
@@ -1333,9 +1495,9 @@ El ejercicio y cumplimiento de las atribuciones, facultades, deberes y obligacio
 
 El personal que preste atención directa a las personas que acudan como usuarias del Centro de Justicia para Mujeres deberá ser del sexo femenino, salvo aquellas excepciones que estén debidamente justificadas por la naturaleza de su función. El resto del personal que labore y opere en las áreas, oficinas, unidades organizativas, jefaturas o direcciones del Centro de Justicia para Mujeres podrá ser tanto del sexo masculino como del sexo femenino, indistintamente, siempre que acrediten tener el perfil y los conocimientos necesarios para desempeñar las funciones que se le encomienden, salvo en el caso particular expresamente prescrito por el artículo 66 de la presente Ley.
 
-#### SECCIÓN SEXTA. Innovación, Planeación y Desarrollo Tecnológico
+#### SECCIÓN QUINTA. Archivo
 
-#### SECCIÓN SÉPTIMA. Instituto de Formación Profesional
+#### SECCIÓN SEXTA. Innovación, Planeación y Desarrollo Tecnológico
 
 ###### ARTÍCULO 70.
 
@@ -1379,7 +1541,7 @@ XIV. Promover y fortalecer la rendición de cuentas, la transparencia, la vigila
 
 XV. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN OCTAVA. Unidad de Transparencia
+#### SECCIÓN SÉPTIMA. Instituto de Formación Profesional
 
 ###### ARTÍCULO 73.
 
@@ -1412,6 +1574,40 @@ VIII. Elaborar un programa anual para el desarrollo y la evaluación de sus acti
 IX. Elaboración de un informe anual de las actividades realizadas por la Unidad Auxiliar Adjetiva de Archivo, el cual deberá estar relacionado con el programa anual correspondiente y deberá ser publicado antes del último día del mes de enero del año siguiente a aquel sobre el que se informa; y
 
 X. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
+
+#### SECCIÓN OCTAVA. Unidad de Transparencia
+
+###### ARTÍCULO 76.
+
+La Unidad Auxiliar Adjetiva de Innovación, Planeación y Desarrollo Tecnológico tendrá a su cargo la coordinación, supervisión, diseño, integración, mantenimiento, funcionamiento e implementación de los programas y sistemas informáticos, las bases de datos, el equipo de cómputo y las redes de comunicación necesarias para la adecuada operación de los recursos técnicos de los que la Fiscalía General dispone para el cumplimiento de sus funciones, y la prestación del soporte técnico necesario; así como la promoción de la innovación y del desarrollo tecnológico, con el objeto de fortalecer, facilitar y simplificar la operación, el control, el seguimiento y la transparencia en la toma de decisiones y la prestación de los servicios de la Fiscalía General.
+
+###### ARTÍCULO 77.
+
+Además de los requisitos establecidos en el artículo 59 de la presente Ley, la persona titular de la Unidad Auxiliar Adjetiva de Innovación, Planeación y Desarrollo Tecnológico deberá acreditar que cuenta con título profesional en algún área de la informática, las tecnologías de la información y la comunicación o cualquier otra afín, así como también deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
+
+###### ARTÍCULO 78.
+
+Corresponde a la persona titular de la Unidad Auxiliar Adjetiva de Innovación, Planeación e Innovación, además de las señaladas en el artículo 60 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
+
+I. Formular y proponer al Fiscal General la planeación estratégica de la Fiscalía General y, una vez aprobada por aquel, coordinar las acciones necesarias para su implementación;
+
+II. Desarrollar e implementar los sistemas de información y las tecnologías de la comunicación que sirvan para apoyar y mejorar el desarrollo y el control de las actividades, tanto operativas como administrativas, de las diferentes áreas de la Fiscalía General; para simplificar los procesos requeridos en la toma de decisiones en su seno, y para prestar los servicios que le corresponden en forma más eficiente, transparente e innovadora;
+
+III. Analizar, diseñar, actualizar, supervisar, implementar y proponer estrategias y programas relativos al funcionamiento y al uso, tanto de los equipos informáticos como de las tecnologías de la información y la comunicación de la Fiscalía General;
+
+IV. Proporcionar servicios de soporte técnico y mantenimiento tanto a los equipos de cómputo como de comunicación de la Fiscalía General;
+
+V. Crear, desarrollar, administrar, mantener y resguardar tanto las bases de datos de las investigaciones y de los procesos en los que intervenga la Fiscalía General, como los sistemas estadísticos e informáticos que permitan generar, almacenar, procesar, suministrar y transferir la información concerniente a ellos;
+
+VI. Elaborar, generar, sistematizar y, en su caso, difundir la información estadística de todas las actividades que realice la Fiscalía General;
+
+VII. Alimentar y actualizar los bancos de datos nacionales a los que deba aportar información la Fiscalía General, en el ámbito de sus competencias, fomentando el aprovechamiento de aquellos como apoyo en la investigación de los hechos presuntamente constitutivos de delito;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2021)</small>
+
+VIII. Aplicar técnicas científicas y analíticas especializadas a la infraestructura tecnológica, con el propósito de identificar, preservar, analizar y presentar ante la autoridad jurisdiccional, la información digital que sirva como prueba para el esclarecimiento de los hechos presuntamente constitutivos de delito y la resolución de los procedimientos por los que éstos se sustancien; y
+
+IX. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
 #### SECCIÓN NOVENA. Centro de Evaluación y Control de Confianza
 
@@ -1457,40 +1653,6 @@ VI.- Los demás que establezcan las normas aplicables.
 
 ARTÍCULO 84 D. Las cuestiones relativas al Centro de Evaluación y Control de Confianza así como a las evaluaciones que realice, serán determinadas en el reglamento correspondiente.
 
-###### ARTÍCULO 76.
-
-La Unidad Auxiliar Adjetiva de Innovación, Planeación y Desarrollo Tecnológico tendrá a su cargo la coordinación, supervisión, diseño, integración, mantenimiento, funcionamiento e implementación de los programas y sistemas informáticos, las bases de datos, el equipo de cómputo y las redes de comunicación necesarias para la adecuada operación de los recursos técnicos de los que la Fiscalía General dispone para el cumplimiento de sus funciones, y la prestación del soporte técnico necesario; así como la promoción de la innovación y del desarrollo tecnológico, con el objeto de fortalecer, facilitar y simplificar la operación, el control, el seguimiento y la transparencia en la toma de decisiones y la prestación de los servicios de la Fiscalía General.
-
-###### ARTÍCULO 77.
-
-Además de los requisitos establecidos en el artículo 59 de la presente Ley, la persona titular de la Unidad Auxiliar Adjetiva de Innovación, Planeación y Desarrollo Tecnológico deberá acreditar que cuenta con título profesional en algún área de la informática, las tecnologías de la información y la comunicación o cualquier otra afín, así como también deberá cubrir cualquier otro requisito que se establezca en el reglamento de la presente Ley.
-
-###### ARTÍCULO 78.
-
-Corresponde a la persona titular de la Unidad Auxiliar Adjetiva de Innovación, Planeación e Innovación, además de las señaladas en el artículo 60 de la presente Ley, el ejercicio y cumplimiento de las siguientes atribuciones, facultades, deberes y obligaciones específicas:
-
-I. Formular y proponer al Fiscal General la planeación estratégica de la Fiscalía General y, una vez aprobada por aquel, coordinar las acciones necesarias para su implementación;
-
-II. Desarrollar e implementar los sistemas de información y las tecnologías de la comunicación que sirvan para apoyar y mejorar el desarrollo y el control de las actividades, tanto operativas como administrativas, de las diferentes áreas de la Fiscalía General; para simplificar los procesos requeridos en la toma de decisiones en su seno, y para prestar los servicios que le corresponden en forma más eficiente, transparente e innovadora;
-
-III. Analizar, diseñar, actualizar, supervisar, implementar y proponer estrategias y programas relativos al funcionamiento y al uso, tanto de los equipos informáticos como de las tecnologías de la información y la comunicación de la Fiscalía General;
-
-IV. Proporcionar servicios de soporte técnico y mantenimiento tanto a los equipos de cómputo como de comunicación de la Fiscalía General;
-
-V. Crear, desarrollar, administrar, mantener y resguardar tanto las bases de datos de las investigaciones y de los procesos en los que intervenga la Fiscalía General, como los sistemas estadísticos e informáticos que permitan generar, almacenar, procesar, suministrar y transferir la información concerniente a ellos;
-
-VI. Elaborar, generar, sistematizar y, en su caso, difundir la información estadística de todas las actividades que realice la Fiscalía General;
-
-VII. Alimentar y actualizar los bancos de datos nacionales a los que deba aportar información la Fiscalía General, en el ámbito de sus competencias, fomentando el aprovechamiento de aquellos como apoyo en la investigación de los hechos presuntamente constitutivos de delito;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2021)</small>
-
-VIII. Aplicar técnicas científicas y analíticas especializadas a la infraestructura tecnológica, con el propósito de identificar, preservar, analizar y presentar ante la autoridad jurisdiccional, la información digital que sirva como prueba para el esclarecimiento de los hechos presuntamente constitutivos de delito y la resolución de los procedimientos por los que éstos se sustancien; y
-
-IX. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
-
-#### SECCIÓN PRIMERA. Disposiciones Generales
-
 ###### ARTÍCULO 79.
 
 El Instituto de Formación Profesional tendrá a su cargo el establecimiento, la operación y la evaluación tanto de los Programas Rectores de Profesionalización, como de los programas de capacitación y de formación de los servidores públicos de la Fiscalía General y de los que aspiren a ingresar a ella.
@@ -1523,7 +1685,7 @@ IX. Proponer la celebración de convenios con instituciones académicas, públic
 
 X. Las demás que le encomiende el Fiscal General y que se establezcan en las disposiciones jurídicas aplicables.
 
-#### SECCIÓN SEGUNDA. Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 82.
 
@@ -1565,15 +1727,17 @@ VII. Las demás que le encomiende el Fiscal General y que se establezcan en las 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE FEBRERO DE 2021)</small>
 
-#### SECCIÓN TERCERA. Agentes del Ministerio Público Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
+#### SECCIÓN SEGUNDA. Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes
 
 ## TÍTULO CUARTO. ÓRGANO INTERNO DE CONTROL Y VIGILANCIA
 
-### CAPÍTULO I. Agentes del Ministerio Público
+### CAPÍTULO ÚNICO. Competencia e Integración
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 85.
 
-La Fiscalía General contará con el Órgano, como parte de su estructura orgánica, el cual se integrará en la forma prescrita por la fracción V del artículo 9° de la presente Ley; gozará de autonomía operativa, de decisión y de gestión para investigar, sustanciar y resolver los hechos presuntamente constitutivos de faltas administrativas, cometidos por los servidores públicos de la Fiscalía General o por los particulares que acuden a ella, y tendrá, para su correcto funcionamiento, las atribuciones y facultades establecidas en la Ley General de Responsabilidades, la Ley Estatal de Responsabilidades y las demás disposiciones relativas y aplicables.
+La Fiscalía General contará con el Órgano, como parte de su estructura orgánica, el cual se integrará en la forma prescrita por la fracción VII del artículo 9° de la presente Ley; gozará de autonomía operativa, de decisión y de gestión para investigar, sustanciar y resolver los hechos presuntamente constitutivos de faltas administrativas no graves, así como para investigar y substanciar aquéllos presuntamente constitutivos de faltas administrativas graves y actos de particulares vinculados a éstas, y tendrá, para su correcto funcionamiento, las atribuciones y facultades establecidas en la Ley General de Responsabilidades, la Ley Estatal de Responsabilidades y las demás disposiciones relativas y aplicables.
 
 ###### ARTÍCULO 86.
 
@@ -1631,7 +1795,7 @@ VII. Garantizar el acceso a la información pública y la protección de los dat
 
 VIII. Planear, programar, coordinar, vigilar y evaluar las funciones y actividades de todos y cada uno de los elementos y factores que integran la estructura orgánica del Órgano, de conformidad con los lineamientos que se expidan para tales efectos;
 
-IX. Informar a la Vicefiscalía de Investigación sobre los hechos presuntamente constitutivos de faltas administrativas, cometidos por el personal a su cargo;
+IX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 X. Someter a la consideración del Fiscal General las propuestas para la modificación, adición o creación de normatividad en el ámbito de su competencia, así como de los protocolos, manuales de organización, manuales de procedimientos, estructura orgánica y funciones de todos y cada uno de los elementos y factores que integran la estructura orgánica del Órgano;
 
@@ -1683,37 +1847,23 @@ La Autoridad de Auditoría Financiera será la encargada de revisar y verificar 
 
 La Autoridad Investigadora será la encargada de recibir las quejas y denuncias de hechos presuntamente constitutivos de faltas administrativas, cometidos por cualquiera de los servidores públicos de la Fiscalía General, de investigarlos y, en su caso, de elaborar el informe de presunta responsabilidad administrativa, por lo que el ejercicio y cumplimiento de sus atribuciones, facultades, obligaciones y deberes se sujetará a lo prescrito por la Ley Estatal de Responsabilidades, el reglamento de la presente Ley y a las demás disposiciones relativas y aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 95.
 
-La Autoridad Sustanciadora y Resolutora tendrá a su cargo la dirección y la conducción del procedimiento de responsabilidades administrativas, desde la admisión del informe de presunta responsabilidad administrativa hasta la conclusión de la audiencia inicial, y la imposición de las sanciones administrativas a que hubiere lugar, de conformidad con lo dispuesto por la Ley Estatal de Responsabilidades.
+La Autoridad Sustanciadora y Resolutora tendrá a su cargo la dirección y la conducción del procedimiento de responsabilidades administrativas, desde la admisión del informe de presunta responsabilidad administrativa hasta la conclusión de la audiencia inicial, y cuando se trate de faltas administrativas no graves, también le competerá la imposición de las sanciones administrativas a que hubiere lugar, de conformidad con lo dispuesto por la Ley General de Responsabilidades y la Ley Estatal de Responsabilidades.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 96.
 
-En el caso de la comisión de hechos presuntamente constitutivos de faltas administrativas, por parte de cualquiera de los servidores públicos que integran el Órgano, el procedimiento de responsabilidad administrativa que corresponda se sujetará a lo dispuesto en la Ley Estatal de Responsabilidades y a las siguientes reglas:
-
-A. Siempre que la comisión de hechos presuntamente constitutivos de faltas administrativas sea imputada a cualquiera de los integrantes de las autoridades aludidas en los artículos 93, 94 y 95 de la presente Ley:
-
-I. La investigación correrá a cargo de la persona titular de la Vicefiscalía de Investigación;
-
-II. La sustanciación se llevará a cabo por parte de la persona titular de la Vicefiscalía de Litigación; y
-
-III. La resolución se llevará a cabo en los siguientes términos:
-
-a) En el caso de que la Vicefiscalía de Investigación haya calificado la falta como no grave, en su informe de presunta responsabilidad administrativa, la resolución deberá ser emitida por el Fiscal General; y
-
-b) Cuando la Vicefiscalía de Investigación haya calificado la falta como grave, en su informe de presunta responsabilidad administrativa, la Vicefiscalía de Litigación deberá proceder en los términos prescritos por el artículo 193 de la Ley Estatal de Responsabilidades, remitiendo los originales de las constancias que conformen el expediente que corresponda a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, para su resolución.
-
-B. En el caso de que los hechos presuntamente constitutivos de faltas administrativas sean imputados a la persona designada como Visitador General:
-
-I. El procedimiento de responsabilidad administrativa será tramitado por el Congreso del Estado, en términos de lo dispuesto por la Ley del Poder Legislativo y por la Ley Estatal de Responsabilidades; y
-
-II. En este supuesto, la denuncia podrá presentarse directamente ante el Congreso del Estado, a través de la instancia que éste determine para tales efectos, o ante el Fiscal General, quien deberá remitirla de manera inmediata a aquel para que inicie los trámites correspondientes.
+En el caso de la comisión de hechos presuntamente constitutivos de faltas administrativas, por parte de cualquiera de los servidores públicos que integran el Órgano, el procedimiento de responsabilidad administrativa que corresponda se sujetará a lo dispuesto en la Ley General de Responsabilidades y la Ley Estatal de Responsabilidades.
 
 ## TÍTULO QUINTO. PERSONAL SUSTANTIVO BÁSICO
 
-### CAPÍTULO II. Agentes de la Policía de Investigación
+### CAPÍTULO I. Agentes del Ministerio Público
 
-#### SECCIÓN CUARTA. Auxiliares del Ministerio Público
+#### SECCIÓN TERCERA. Agentes del Ministerio Público Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
 
 ###### ARTÍCULO 97.
 
@@ -1731,7 +1881,9 @@ I. Recibir, en términos de las disposiciones aplicables, las denuncias o querel
 
 II. Ejercitar y proseguir la acción penal, mediante la realización de todos los actos necesarios para su acreditación, resolución y ejecución, en términos de lo dispuesto por el Código Penal, el Código Nacional y la Ley de Ejecución;
 
-III. Coordinar las funciones de la Comisaría General de la Policía de Investigación, de las Unidades Auxiliares Sustantivas de Investigación Pericial y de Análisis de Información, de las instituciones policiales y del resto de los auxiliares, en la investigación de los hechos presuntamente constitutivos de delito; ordenándoles y solicitándoles la práctica y la realización de todos los actos pertinentes, idóneos y necesarios para ello, en términos de lo dispuesto en la Constitución Federal, la Constitución Local, el Código Nacional y las demás normas aplicables;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+III. Coordinar a través de la Agencia Estatal de Investigación Criminal, las funciones de la Comisaría General de la Policía de Investigación, de las Unidades Auxiliares Sustantivas de Investigación Pericial y de Análisis de Información, de las instituciones policiales y del resto de los auxiliares, en la investigación de los hechos presuntamente constitutivos de delito; ordenándoles y solicitándoles la práctica y la realización de todos los actos pertinentes, idóneos y necesarios para ello, en términos de lo dispuesto en la Constitución Federal, la Constitución Local, el Código Nacional y las demás normas aplicables;
 
 IV. Ordenar el registro de documentos, registros y repositorios de información, físicos o digitales, públicos o privados; de lugares, vehículos y personas, o de cualquier otro elemento en el que puedan encontrarse indicios, huellas, vestigios, evidencias, objetos, instrumentos o productos de los hechos presuntamente constitutivos de delito que se investiguen, siempre que no se requiera mandamiento judicial para tales efectos, de conformidad con lo prescrito por el Código Nacional;
 
@@ -1807,7 +1959,7 @@ Los Agentes del Ministerio Público serán adscritos a las diversas áreas que i
 
 En casos excepcionales y tomando en consideración las necesidades del servicio y la disponibilidad presupuestal de la Fiscalía General, el Fiscal General podrá nombrar Agentes del Ministerio Público de designación especial, quienes deberán satisfacer los requisitos de ingreso establecidos en la Ley General de Seguridad Pública, con excepción de los que correspondan al procedimiento de formación inicial, serán ajenos al Servicio Profesional de Carrera y no podrán durar más de cinco años en su encargo.
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN CUARTA. Auxiliares del Ministerio Público
 
 ###### ARTÍCULO 102.
 
@@ -1825,7 +1977,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes del Ministerio Público Espec
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes del Ministerio Público, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes del Ministerio Público Especializados en el Sistema Integral de Justicia Penal para Adolescentes, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN SEGUNDA. Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 105.
 
@@ -1843,7 +1995,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes del Ministerio Público Espec
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes del Ministerio Público, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes del Ministerio Público Especializados en Acceso de las Mujeres a una Vida Libre de Violencia, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN TERCERA. Agentes de la Policía de Investigación Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
+#### SECCIÓN SEGUNDA. Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes
 
 ###### ARTÍCULO 108.
 
@@ -1881,9 +2033,9 @@ Cuando la policía tome conocimiento de hechos presuntamente constitutivos de de
 
 En la investigación de hechos presuntamente constitutivos de delito, la Unidad Auxiliar Sustantiva de Investigación Pericial se coordinará con los Agentes del Ministerio Público o con la policía, con conocimiento de aquellos, para la realización de los peritajes que resulten necesarios para tal propósito.
 
-### CAPÍTULO III. Peritos
+### CAPÍTULO II. Agentes de la Policía de Investigación
 
-#### SECCIÓN PRIMERA. Obligaciones e Incompatibilidades
+#### SECCIÓN TERCERA. Agentes de la Policía de Investigación Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia
 
 ###### ARTÍCULO 110.
 
@@ -1963,7 +2115,7 @@ Los Agentes de la Policía de Investigación serán adscritos a los diversos ele
 
 En casos excepcionales y tomando en consideración las necesidades del servicio y la disponibilidad presupuestal de la Fiscalía General, el Fiscal General podrá nombrar Agentes de la Policía de Investigación de designación especial, quienes deberán satisfacer los requisitos de ingreso establecidos en la Ley General de Seguridad Pública, con excepción de los que correspondan al procedimiento de formación inicial, serán ajenos al Servicio Profesional de Carrera y no podrán durar más de cinco años en su encargo.
 
-#### SECCIÓN SEGUNDA. Impedimentos, Excusas y Recusaciones
+#### SECCIÓN PRIMERA. Obligaciones e Incompatibilidades
 
 ###### ARTÍCULO 116.
 
@@ -1981,7 +2133,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes de la Policía de Investigaci
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes de la Policía de Investigación, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes de la Policía de Investigación Especializados en el Sistema Integral de Justicia Penal para Adolescentes, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-#### SECCIÓN TERCERA. Responsabilidades
+#### SECCIÓN SEGUNDA. Impedimentos, Excusas y Recusaciones
 
 ###### ARTÍCULO 119.
 
@@ -1999,7 +2151,7 @@ Asimismo, el Fiscal General podrá nombrar Agentes de la Policía de Investigaci
 
 Las atribuciones, facultades, deberes y obligaciones que corresponden a los Agentes de la Policía de Investigación, en términos de la presente Ley y de las demás disposiciones relativas, se entenderán igualmente aplicables a los Agentes de la Policía de Investigación Especializados en Materia de Acceso de las Mujeres a una Vida Libre de Violencia, sin perjuicio de las previsiones específicas establecidas por las disposiciones especiales de la materia y siempre que no se opongan a ellas.
 
-### CAPÍTULO IV. Facilitadores
+### CAPÍTULO III. Peritos
 
 ###### ARTÍCULO 122.
 
@@ -2053,7 +2205,7 @@ XVI. Las demás que se establezcan en el reglamento de la presente Ley, en los d
 
 En casos excepcionales y tomando en consideración las necesidades del servicio y la disponibilidad presupuestal de la Fiscalía General, el Fiscal General podrá nombrar Peritos de designación especial, quienes deberán satisfacer los requisitos de ingreso establecidos en la Ley General de Seguridad Pública, con excepción de los que correspondan al procedimiento de formación inicial, serán ajenos al Servicio Profesional de Carrera y no podrán durar más de tres años en su encargo.
 
-### CAPÍTULO I. Relación Laboral
+### CAPÍTULO IV. Facilitadores
 
 ###### ARTÍCULO 127.
 
@@ -2107,7 +2259,7 @@ En casos excepcionales y tomando en consideración las necesidades del servicio 
 
 ## TÍTULO SEXTO. SERVICIO PÚBLICO EN LA FISCALÍA GENERAL
 
-### CAPÍTULO II. Obligaciones, Impedimentos y Responsabilidades
+### CAPÍTULO I. Relación Laboral
 
 ###### ARTÍCULO 132.
 
@@ -2125,9 +2277,11 @@ Cuando el servidor público solicite una licencia a causa de una enfermedad, est
 
 En el caso de que las licencias sin goce de sueldo estén motivadas por razones de carácter personal, estas no podrán ser solicitadas por más de una vez en un año natural y podrán ser concedidas solamente en el caso de que las necesidades del servicio lo permitan y que el servidor público de que se trate no tenga alguna nota negativa en su expediente personal.
 
-### CAPÍTULO III. Suplencia de Servidores Públicos
+### CAPÍTULO II. Obligaciones, Impedimentos y Responsabilidades
 
-#### SECCIÓN PRIMERA. Disposiciones Generales
+#### SECCIÓN TERCERA. Responsabilidades
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 135.
 
@@ -2195,7 +2349,7 @@ VII. Ejercer ni desempeñar las funciones de apoderado judicial, síndico, admin
 
 VIII. Ejercer ni desempeñar las funciones de depositario judicial, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado.
 
-#### SECCIÓN SEGUNDA. Disposiciones Básicas
+#### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 137.
 
@@ -2209,7 +2363,9 @@ I. Se interpondrá por cualquiera de las partes dentro de un plazo de cuarenta y
 
 II. Su sustanciación corresponderá a:
 
-a) La persona titular de la Vicefiscalía de Investigación o a la persona titular de la Vicefiscalía de Litigación, según corresponda, cuando la recusación sea interpuesta en contra de los Agentes del Ministerio Público de su adscripción;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+a) La persona titular de la Vicefiscalía, según corresponda, cuando la recusación sea interpuesta en contra de los Agentes del Ministerio Público de su adscripción;
 
 b) La persona titular de la Unidad Auxiliar Sustantiva de Investigación Pericial, en el caso de que la recusación se interponga en contra de alguno de los Peritos de su adscripción;
 
@@ -2231,39 +2387,11 @@ VII. Si el Fiscal General encuentra infundada e improcedente la recusación, el 
 
 Desde el momento en que se interponga la recusación, el Agente del Ministerio Público o el Perito de que se trate suspenderá el asunto y se abstendrá de actuar en él, salvo en el caso de que sea necesario llevar a cabo diligencias urgentes que no admitan dilación y las de mero trámite.
 
-#### SECCIÓN TERCERA. Ingreso, Desarrollo y Permanencia
+#### SECCIÓN SEGUNDA. Disposiciones Básicas
 
 ###### ARTÍCULO 140.
 
-Además de las señaladas en la Ley Estatal de Responsabilidades, se consideran faltas administrativas para los servidores públicos de la Fiscalía General las siguientes:
-
-I. Incumplir con cualquiera de las obligaciones señaladas en el artículo 135 de la presente Ley;
-
-II. Realizar cualquier acto u omisión que cause injustificadamente la suspensión de los servicios a su cargo, así como la desatención o el retraso infundado en la iniciación, integración o resolución de los mismos;
-
-III. Otorgar indebidamente a otro servidor público, licencias, permisos o concesiones con goce parcial o total de sueldo;
-
-IV. Incumplir o desatender injustificadamente los requerimientos o indicaciones que, en el ejercicio de sus atribuciones, les formulen sus superiores jerárquicos;
-
-V. Incurrir, dentro o fuera de sus actividades, en cualquier acto u omisión que demerite o perjudique la imagen o el prestigio institucional de la Fiscalía General, o que afecte intencionalmente el patrimonio de esta;
-
-VI. Desempeñar un empleo, comisión o cargo público remunerado, distinto al que le ha sido encomendado oficialmente en la Fiscalía General del Estado, con excepción de aquellos concernientes a la docencia, a la investigación, a cualquier forma del ejercicio académico o al ejercicio honorífico por razón y designación legal;
-
-VII. Ostentar el cargo fuera del servicio, con fines ilegítimos para sí o para terceros;
-
-VIII. Incumplir con las normas de carácter académico que rijan los cursos, programas de capacitación, adiestramiento o formación profesional que se les impartan para el mejoramiento del desempeño de sus funciones;
-
-IX. Conducirse con falsedad en las solicitudes para la obtención de permisos o autorizaciones ante sus superiores jerárquicos o ante los órganos administrativos de la Fiscalía General;
-
-X. Destruir, mutilar, ocultar o alterar cualquier expediente, documentos o información que tengan a su cargo;
-
-XI. Emitir una opinión pública que implique prejuzgar algún asunto que sea de su conocimiento y que violente el debido proceso, en perjuicio de alguna de las partes del procedimiento penal;
-
-XII. Autorizar el nombramiento o designación de quien no cumpla con los requisitos exigidos normativamente para ocupar el empleo, comisión o cargo para el que se le ha contratado, siempre que el servidor público que incurra en la conducta aquí descrita haya tenido conocimiento previo del incumplimiento señalado;
-
-XIII. Incurrir en actos de violencia física o moral, injurias, agravios o malos tratos en contra de sus superiores jerárquicos, subordinados o compañeros, así como contra el cónyuge, concubina o concubinario, o los familiares de aquellos, ya sea dentro o fuera de la jornada de servicio; e
-
-XIV. Inhibir la presentación de denuncias, querellas, quejas o solicitudes de cualquier índole, en perjuicio del usuario de los servicios de la Fiscalía General.
+Los servidores públicos de la Fiscalía General, podrán ser sancionados por las faltas administrativas previstas por la Ley General de Responsabilidades y la Ley Estatal de Responsabilidades.
 
 ###### ARTÍCULO 141.
 
@@ -2271,25 +2399,17 @@ Todos los servidores públicos de la Fiscalía General son sujetos del régimen 
 
 ###### ARTÍCULO 142.
 
-Se considerarán faltas no graves para efectos de las responsabilidades administrativas a las que hubiere lugar:
-
-I. El incumplimiento de las obligaciones señaladas en las fracciones de la I a la XVI del artículo 135 de la presente Ley;
-
-II. La actualización de los supuestos establecidos en las fracciones de la II a la VIII del artículo 140 de la presente Ley.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### ARTÍCULO 143.
 
-Se considerarán faltas graves para efectos de las responsabilidades administrativas que correspondan:
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
-I. El incumplimiento de las obligaciones prescritas en las fracciones de la XVII a la XX del artículo 135 de la presente Ley;
-
-II. La verificación de las hipótesis descritas en las fracciones de la IX a la XIV del artículo 140 de la presente Ley;
-
-III. La infracción a las incompatibilidades establecidas en el artículo 136 de la presente Ley.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 144.
 
-Las sanciones que correspondan a las faltas administrativas establecidas en la presente Ley, serán las señaladas como tales en la Ley Estatal de Responsabilidades, y tanto su determinación e individualización como su ejecución se sujetarán a las reglas que para ello prevé la mencionada ley.
+Las sanciones que correspondan por faltas administrativas, serán las señaladas como tales en la Ley General de Responsabilidades y en la Ley Estatal de Responsabilidades y tanto su determinación e individualización como su ejecución se sujetarán a las reglas que para ello prevén dichas leyes.
 
 ###### ARTÍCULO 145.
 
@@ -2299,7 +2419,7 @@ Si el procedimiento penal concluye con el dictado de una sentencia absolutoria o
 
 En el caso de que el procedimiento penal seguido en contra del servidor público de la Fiscalía General que ha sido suspendido, concluya con el dictado de una sentencia condenatoria, se iniciarán los procedimientos necesarios para su remoción y se procederá en términos de lo dispuesto para tales efectos por las normas penales atinentes, siempre que así lo determine el Fiscal General o que así se hubiese establecido en la resolución concerniente.
 
-### CAPÍTULO IV. Servicio Profesional de Carrera
+### CAPÍTULO III. Suplencia de Servidores Públicos
 
 ###### ARTÍCULO 146.
 
@@ -2313,7 +2433,9 @@ Se consideran ausencias definitivas, para efectos de la presente Ley, a los peri
 
 En el caso de las ausencias temporales del Fiscal General, este emitirá un acuerdo en el que designe expresamente quien habrá de suplirlo, de entre las personas titulares de cualquiera de las Vicefiscalías.
 
-En el caso de que no se haya emitido el acuerdo al que refiere el párrafo anterior, el Fiscal General será suplido en sus ausencias temporales por la persona titular de la Vicefiscalía de Investigación; a falta de ésta, por la persona titular de la Vicefiscalía Jurídica, y en su defecto, por la persona titular de la Vicefiscalía de Litigación.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+En el caso de que no se haya emitido el acuerdo al que refiere el párrafo anterior, el Fiscal General será suplido en sus ausencias temporales por la persona titular de la Vicefiscalía de Investigación del Delito; a falta de ésta, por la persona titular de la Vicefiscalía Jurídica y de Litigación Penal, y en su defecto, por la persona titular de la Vicefiscalía de Control Regional.
 
 ###### ARTÍCULO 149.
 
@@ -2339,7 +2461,9 @@ c) De la persona titular de la Fiscalía Especializada en Delitos Electorales o 
 
 El régimen de suplencias de los servidores públicos de la Fiscalía General, distintos de los aludidos en los artículos 148, 149 y 150 de la presente Ley, se sujetará a las disposiciones que se establezcan para tal efecto en el reglamento que emane de la misma.
 
-#### SECCIÓN CUARTA. Estímulos y Reconocimientos
+### CAPÍTULO IV. Servicio Profesional de Carrera
+
+#### SECCIÓN TERCERA. Ingreso, Desarrollo y Permanencia
 
 ###### ARTÍCULO 152.
 
@@ -2361,7 +2485,7 @@ V. Garantizar la autonomía y la imparcialidad en el ejercicio y el cumplimiento
 
 VI. Dar continuidad a las políticas, los planes, los programas y a las acciones, generales y específicas, formuladas e implementadas en materia de las atribuciones inmanentes a la Institución del Ministerio Público, con el propósito de alcanzar las metas planteadas en ellos, y proseguir con aquellas que colaboren con la función de la seguridad pública.
 
-#### SECCIÓN QUINTA. Terminación del Servicio
+#### SECCIÓN CUARTA. Estímulos y Reconocimientos
 
 ###### ARTÍCULO 154.
 
@@ -2427,7 +2551,7 @@ La Fiscalía General contará con un programa de profesionalización, cuyas cara
 
 Se encuentren sujetos o no al régimen del Servicio Profesional de Carrera, todos los servidores públicos de la Fiscalía General estarán obligados a aprobar las evaluaciones de control y confianza, del desempeño y de competencias profesionales prescritas en la presente Ley, así como también deberán ajustarse al sistema de profesionalización establecido en la misma y en las demás disposiciones aplicables.
 
-#### SECCIÓN SEXTA. Comisión del Servicio Profesional de Carrera
+#### SECCIÓN QUINTA. Terminación del Servicio
 
 ###### ARTÍCULO 159.
 
@@ -2479,7 +2603,7 @@ V. Acceder a los programas de capacitación, actualización, especialización, c
 
 VI. Los demás que señalen otras disposiciones legales aplicables, así como todos aquellos que sean inherentes al ejercicio del empleo, cargo o comisión que se ejerce.
 
-#### SECCIÓN SÉPTIMA. Comisión de Honor y Justicia
+#### SECCIÓN SEXTA. Comisión del Servicio Profesional de Carrera
 
 ###### ARTÍCULO 164.
 
@@ -2488,6 +2612,8 @@ Los servidores públicos de la Fiscalía General que destaquen por su asistencia
 ###### ARTÍCULO 165.
 
 Los servidores públicos de la Fiscalía General que contribuyan a mejorar los servicios prestados y las funciones que corresponden a la Fiscalía General; que aporten a esta o a la sociedad innovaciones relevantes, o que hayan realizado acciones que den testimonio de su valor, de su eficacia o de su eficiencia en el ejercicio de las funciones propia (sic) de su empleo, cargo o comisión; o que demuestren un notorio interés por el servicio a favor de la comunidad, podrán ser galardonados con el otorgamiento del reconocimiento al que hubiera lugar, en términos del reglamento del Servicio Profesional de Carrera o en las demás disposiciones aplicables.
+
+#### SECCIÓN SÉPTIMA. Comisión de Honor y Justicia
 
 ###### ARTÍCULO 166.
 
@@ -2505,7 +2631,9 @@ V. Rescisión por incurrir en alguna de las causales establecidas para tales efe
 
 VI. Separación por el incumplimiento de los requisitos de ingreso o permanencia; o
 
-VII. Remoción por incurrir en las causas señaladas en la presente Ley, la Ley Estatal de Responsabilidades y el Código Penal.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Remoción por incurrir en las causas señaladas en la Ley General de Responsabilidades, la Ley Estatal de Responsabilidades y el Código Penal.
 
 ###### ARTÍCULO 167.
 
@@ -2758,3 +2886,21 @@ El personal adscrito al organismo desconcentrado denominado Asesoría Jurídica 
 La Secretaría General de Gobierno del Estado deberá emitir las Reglas de Operación del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Aguascalientes, así como los tabuladores dentro de un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
 
 ARTÍCULO DÉCIMO Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 184.- SE REFORMAN, ADICIONAN Y SE DEROGAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General deberá realizar las modificaciones administrativas y reglamentarias que se requieran para cumplir con lo ordenado por el presente Decreto.
+
+Hasta en tanto no sean expedidas las disposiciones reglamentarias a las que refiere el párrafo anterior, serán aplicables las que se encuentren vigentes al momento de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias o menciones realizados (sic) en otros ordenamientos legales a las Vicefiscalía de Investigación, de Litigación y/o Jurídica se (sic) deberán entenderse realizadas a las Vicefiscalías de Investigación del Delito, Jurídica y de Litigación Penal; y de Control Regional, según corresponda, en tanto dichos ordenamientos sean actualizados para corresponder con las denominaciones del presente Decreto.
