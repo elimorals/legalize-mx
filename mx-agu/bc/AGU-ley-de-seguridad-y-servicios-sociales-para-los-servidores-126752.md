@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-12675
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2021-08-02"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Número 9 al Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -59,7 +59,9 @@ II. Promover el cumplimiento efectivo del derecho a una vivienda digna, mediante
 
 III. Definir, normar y establecer los requisitos, modalidades y condiciones de las prestaciones que se otorguen a los afiliados, así como sus derechos y obligaciones con relación al Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes; y
 
-IV. Fijar las bases de organización y funcionamiento del organismo público descentralizado Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Fijar las bases de organización y funcionamiento del organismo público descentralizado denominado Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, así como determinar las reglas de inversión y administración de los recursos destinados al cumplimiento de los fines previstos en esta Ley.
 
 ###### Artículo 3°.
 
@@ -84,6 +86,10 @@ Para los efectos de esta Ley se entenderá por:
 I. Accidentes de Trabajo: Toda lesión orgánica o perturbación funcional, inmediata o posterior, o la muerte producida repentinamente en el ejercicio o con motivo del trabajo, cualquiera que sea el lugar y el tiempo en que se preste; así como aquéllos que ocurran al trabajador al trasladarse directamente de su domicilio al lugar en que desempeñe su trabajo o viceversa;
 
 II. Activos Objeto de Inversión: A los Instrumentos, Valores Extranjeros, Mercancías y Operaciones con Derivados, Reportos y Préstamos de Valores;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+II-Bis. Alternativas de Inversión. A los activos objeto de inversión de origen bursátil o de colocación a través de instituciones financieras, y a los Proyectos Estratégicos de Inversión en el Estado promovidos ante el Instituto.
 
 III. Bancos: A las Instituciones de Crédito, así como a las Entidades Extranjeras que realicen las mismas operaciones que las Instituciones de Crédito;
 
@@ -121,7 +127,9 @@ XVI. Emisores Extranjeros: A los Gobiernos, Bancos Centrales y Agencias Gubernam
 
 XVII. Empleos Simultáneos: Son aquéllos que se desempeñen en dos o más de las entidades públicas patronales afiliadas al Instituto, sin contravenir lo dispuesto en las Leyes aplicables del Estado;
 
-XVIII. Entidades Públicas Patronales: Al Gobierno del Estado, los Poderes Públicos del Estado de Aguascalientes, las Secretarías del Estado, las Dependencias Centralizadas, los Organismos Auxiliares, los Organismos Públicos Descentralizados Estatales, Fideicomisos Públicos, Municipios, Organismos Públicos Descentralizados de estos, así como las Entidades Federativas que por convenio celebrado con el Ejecutivo del Estado transfieran sus servicios de Seguridad Social a la Administración Pública del Estado que tengan la calidad patronal con respecto a los afiliados del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XVIII. Entidades Públicas Patronales: Al Gobierno del Estado, los Poderes Públicos del Estado de Aguascalientes, las Secretarías del Estado, las Dependencias Centralizadas, los Organismos Auxiliares, los Organismos Públicos Descentralizados Estatales, órganos dotados de autonomía constitucional, Fideicomisos Públicos, Municipios, Organismos Públicos Descentralizados de estos, así como las Entidades Federativas que por convenio celebrado con el Ejecutivo del Estado transfieran sus servicios de Seguridad Social a la Administración Pública del Estado que tengan la calidad patronal con respecto a los afiliados del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
 
 XIX. Entidades Financieras: A las autorizadas conforme a la legislación financiera mexicana para actuar como Almacenes Generales de Depósito, Arrendadoras Financieras, Casas de Bolsa, Empresas de Factoraje Financiero, Instituciones de Crédito, Instituciones de Fianzas, Instituciones de Seguros y Sociedades Financieras de Objeto Limitado o Múltiple;
 
@@ -149,7 +157,7 @@ XXIII. Incapacidad permanente total: Es la pérdida de facultades o aptitudes de
 
 XXIV. Incapacidad temporal: Es la pérdida de facultades o aptitudes que imposibilita parcial o totalmente a una persona para desempeñar su trabajo por algún tiempo;
 
-XXV. Familiar Beneficiario: El o la cónyuge del afiliado o afiliada o bien la pensionada o pensionado y, a falta de éstos, la concubina o el concubinario que cumpla las condiciones establecidas en esta Ley, así como los ascendientes y descendientes de los afiliados o pensionado, y los establecidos en la carta testamentaria y los demás señalados en la Ley;
+XXV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 XXVI. Fideicomiso Maestro: Es el instrumento para la inversión y manejo de las reservas financieras del Instituto, en virtud del cual el Instituto, en calidad de fideicomitente, transmite bienes, cantidades de dinero o derechos, presentes o futuros, a una entidad financiera que haga las funciones de fiduciaria, para que ésta administre o invierta los bienes, en beneficio del propio fideicomitente o en beneficio de terceros, llamados fideicomisarios;
 
@@ -191,7 +199,9 @@ c) Las obligaciones subordinadas no convertibles que cumplan con los siguientes 
 
 d) Obligaciones subordinadas no convertibles en acciones;
 
-XXXIII. Instrumentos Estructurados: A los títulos fiduciarios que se destinen a la inversión o al financiamiento de las actividades o proyectos dentro del territorio nacional, de una o varias sociedades, emitidos al amparo de las disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores expedidas por la Comisión Nacional Bancaria y de Valores, incluidos aquéllos que inviertan o financien la adquisición de capital social de sociedades mexicanas cuyas acciones se encuentren cotizadas en la Bolsa Mexicana de Valores, excepto las reguladas por la Ley de Sociedades de Inversión;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXXIII. Instrumentos Estructurados: A los títulos fiduciarios que se destinen a la inversión o al financiamiento de las actividades o proyectos dentro del territorio nacional, de una o varias sociedades, emitidos al amparo de las disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores expedidas por la Comisión Nacional Bancaria y de Valores, incluidos aquéllos que inviertan o financien la adquisición de capital social de sociedades mexicanas cuyas acciones se encuentren cotizadas en la Bolsa Mexicana de Valores, excepto las reguladas por la Ley de Fondos de inversión.
 
 XXXIV. Instrumentos de Renta Variable: A los siguientes:
 
@@ -227,6 +237,14 @@ XXXIX. Pensionado: Es el trabajador o sus beneficiarios que obtuvieron una pensi
 
 XL. Préstamos para la Adquisición de Bienes de Consumo Duradero, de Servicios Médicos, Educativos y Turísticos: Es la prestación otorgada por el Instituto a los Servidores Públicos, que refiere a la adquisición de bienes muebles con una vida útil mayor a un año para su funcionamiento y/o manutención. Entendiéndose de igual forma y para los efectos de esta Ley los préstamos relativos a servicios médicos, educativos, turísticos y los que determine la Junta Directiva;
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XL-Bis. Proyectos Estratégicos de Inversión en el Estado: Son la alternativa de inversión, diferentes a los activos objeto de inversión de origen bursátil o de colocación a través de instituciones financieras, aprobados por la Junta Directiva, que tengan como objetivo desarrollar un programa de inversión dentro del Estado y que sean propuestos por el Director General del Instituto, el Gobierno del Estado o los Municipios del Estado y que cuenten con un plan de negocios que permita analizar la viabilidad técnica, financiera y administrativa a través del cual se dictamine su rentabilidad, así como con un sistema de garantías a satisfacción del Instituto para asegurar el monto de la inversión a valor presente. Para esos efectos, los Proyectos Productivos, se clasifican en:
+
+a) Proyectos Estratégicos a Iniciativa del Instituto (PEII). Son aquellos que promueva el propio Instituto a través de su director. Este tipo de proyectos podrán ser financiados hasta en un 100%, de acuerdo con las reglas de operación contenidas en el reglamento respectivo; y
+
+b) Proyectos Estratégicos a Iniciativa del Estado (PEIE). Son aquellos que promueva el Gobierno del Estado o los Municipios del Estado, sea individual o conjuntamente. Este tipo de proyectos solo podrán implementarse para el desarrollo de infraestructura. Este tipo de proyectos podrán ser financiados hasta en un 50% de acuerdo con las reglas de operación contenidas en el reglamento respectivo.
+
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 XLI. Las Reservas Actuariales y Financieras: Es el patrimonio constituido para cubrir el pasivo laboral correspondiente al pago de las pensiones. Se integrará con el saldo estimado que tendría el fondo resultante de la diferencia entre los egresos y los ingresos al fondo de prestaciones contingentes;
@@ -239,9 +257,9 @@ XLII. Reserva de Garantía: Se constituye de aportar el porcentaje determinado e
 
 XLIII. Riesgos de trabajo: Los accidentes y enfermedades a que se encuentran expuestos los servidores públicos en el ejercicio o con motivo de su trabajo;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XLIV. Servidor Público o Trabajador: A los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso del Estado o en la Administración Pública Estatal, en las Administraciones Públicas Municipales, así como a los servidores públicos de los organismos que se les otorgue autonomía en el ámbito estatal y municipal, y que aporte al Instituto las cuotas que en este ordenamiento se estipulan y que además serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones;
+XLIV. Servidor Público o Trabajador: A los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso del Estado, en el Poder Judicial del Estado, en la Administración Pública Estatal o municipal, así como a los servidores públicos de los organismos constitucionales autónomos y descentralizados estatales o municipales, y que aporte al Instituto las cuotas que en este ordenamiento se estipulan y que además serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -341,7 +359,11 @@ VII. Orientar a las Entidades Públicas Patronales para el cumplimiento de sus o
 
 VIII. Recibir y administrar las cuotas y aportaciones que enteren las Entidades Públicas Patronales y los afiliados del régimen obligatorio y requerirlos por la falta de pago de cantidades omitidas;
 
-IX. Invertir sus fondos y reservas tomando en cuenta los acuerdos emitidos por el Comité de Inversiones, el Comité de Riesgos y la Junta Directiva, conforme a los lineamientos establecidos en la presente Ley;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Invertir sus fondos y reservas tomando en cuenta los acuerdos emitidos por los comités de Inversiones, Riesgos, de Evaluación de Proyectos Productivos y la Junta Directiva, conforme a los lineamientos establecidos en la presente Ley.
+
+Cuando la inversión se realice a través de Proyectos Estratégicos de Inversión en el Estado, el monto no podrá superar los límites de porcentaje y cuantía previstos en el artículo 23 de esta Ley y en las disposiciones reglamentarias correspondientes.
 
 X. Administrar los recursos humanos, materiales y financieros que conformen su patrimonio, con sujeción a las disposiciones legales aplicables;
 
@@ -355,7 +377,9 @@ XIV. Realizar toda clase de actos jurídicos para cumplir con sus fines y objeti
 
 XV. Adquirir bienes muebles e inmuebles, para los fines que le sean propios;
 
-XVI. Expedir lineamientos de observancia general para la aplicación para efectos administrativos de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XVI. Expedir los lineamientos de observancia general que resulten necesarios para el cumplimiento de los fines previstos en esta Ley, especialmente en materia de inversiones, evaluación de riesgos y viabilidad de proyectos estratégicos de Inversión en el Estado.
 
 XVII. Registrar a las Entidades Públicas Patronales y demás sujetos obligados al pago de cuotas y aportaciones que establece la presente Ley, otorgándoles el número que les corresponda;
 
@@ -409,7 +433,9 @@ XII. Cualquier otra percepción de la cual el Instituto resulte beneficiario, as
 
 El Patrimonio Inmobiliario del Instituto será de dos tipos:
 
-I. El patrimonio inmobiliario de uso institucional que el Instituto destine para fines administrativos, así como al servicio de afiliados y pensionados, el cual no podrá ser enajenado sino con autorización previa de la Junta Directiva y subsecuentemente del Congreso del Estado; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I. El patrimonio inmobiliario de uso institucional que el Instituto destine para fines administrativos, así como al servicio de afiliados y pensionados, el cual no podrá ser enajenado sino con autorización previa de la Junta Directiva y de acuerdo con los procedimientos previstos en la Ley de Bienes del Estado de Aguascalientes; y
 
 II. El patrimonio inmobiliario general que el Instituto adquiera con fines de reserva e inversión, para aprovechar en beneficio del Instituto, el crecimiento en la plusvalía, el usufructo o los beneficios generados por los mismos.
 
@@ -453,7 +479,9 @@ El régimen financiero que se aplicará al pago de prestaciones sociales, cultur
 
 Para el cálculo de las aportaciones y para el pago de las pensiones correspondientes a riesgos de trabajo, invalidez, de retiro por edad y antigüedad en el servicio y por causa de muerte, lo mismo que a los seguros de vida y gastos funerarios, se aplicará el método financiero y actuarial que la Junta Directiva determine, en el entendido de que el acuerdo respectivo no deberá contravenir las prerrogativas que la presente Ley otorga a los derechohabientes y habrá de ser oportunamente publicado en el Periódico Oficial del Estado.
 
-En febrero de cada dos años se deberá elaborar la valuación actuarial del régimen de pensiones, con la finalidad de comprobar su desarrollo financiero, mediante la evaluación de su prima de financiamiento, el cálculo de la reserva para pensiones y la previsión de los intereses provenientes de la inversión de esta reserva; los intereses habrán de aplicarse al pago de las pensiones, o bien agregarse a la reserva.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+En febrero de cada año se deberá elaborar la valuación actuarial del régimen de pensiones, con la finalidad de comprobar su desarrollo financiero, mediante la evaluación de su prima de financiamiento, el cálculo de la reserva para pensiones y la previsión de los intereses provenientes de la inversión de esta reserva; los intereses habrán de aplicarse al pago de las pensiones, o bien agregarse a la reserva. Sin embargo, cuando a juicio de la Junta Directiva existan elementos objetivos que así lo determinen, la valuación actuarial podrá hacerse por periodos bianuales.
 
 Los recursos para los gastos de administración del Instituto y los otros que requieran la constitución de la reserva para las pensiones y el pago anual de las mismas, se obtendrán de las aportaciones y los rendimientos de las inversiones de esta misma reserva. Para los gastos de administración del Instituto se deberán considerar las recomendaciones de la valuación actuarial.
 
@@ -473,9 +501,11 @@ Todas las reservas financieras del Instituto, serán administradas a través de 
 
 El Fideicomiso Maestro deberá contar con las subcuentas necesarias, dependiendo del número de fondos que administre, las cuales deberán ser manejadas con total independencia cada una de ellas y serán identificadas o se denominarán de acuerdo a su naturaleza específica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 23.
 
-Las reservas financieras solo podrán ser invertidas de acuerdo a las políticas y estrategias de inversión y manejo de las mismas previamente aprobadas por la Junta Directiva y de conformidad con lo establecido en el Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, en los siguientes instrumentos:
+Las reservas financieras solo podrán ser invertidas de acuerdo a las políticas y estrategias de inversión y manejo de las mismas previamente aprobadas por la Junta Directiva en atención a los elementos que le sean proporcionados por los comités de Inversiones, Riesgos y de Evaluación de Proyectos Estratégicos conforme a lo establecido en el Reglamento para la Administración de Recursos Financieros e Inversiones del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, en los siguientes instrumentos:
 
 I. En Instrumentos de Deuda emitidos o avalados por el Gobierno Federal, o en Instrumentos de Deuda emitidos por el Banco de México. La inversión a que se refiere el presente párrafo, no incluye a los Instrumentos de Deuda emitidos, avalados o aceptados por las instituciones de banca de desarrollo, salvo cuando en éstos conste en forma expresa el aval del Gobierno Federal;
 
@@ -495,11 +525,29 @@ VIII. En Componentes de Renta Variable con límite máximo del doce por ciento;
 
 IX. En Instrumentos Estructurados; y
 
-X. En Mercancías.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+X. En Mercancías;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XI. En cualquiera de las especies de Proyectos Estratégicos de Inversión en el Estado previstos por esta Ley.
+
+Cuando la inversión se realice a través de algún Proyectos Estratégicos (sic) de Inversión en el Estado previsto en esta Ley, la sumatoria del total considerando todas sus modalidades, no podrá exceder del 5% del valor de las Reservas Financieras al momento de la presentación de los proyectos.
+
+Asimismo, ninguno de los proyectos autorizados, considerado individualmente, podrá exceder del 3% del valor de las Reservas Financieras.
+
+En todo caso, los limites previstos por esta fracción nunca podrán ser superiores al equivalente a cinco millones de veces el valor diario de la Unidad de Medida y Actualización (UMA);
+
+Para efectos de esta fracción, los Proyectos Estratégicos no podrán fraccionarse para superar los montos previstos.
+
+Asimismo, para los financiamientos directos, será necesario que el monto de la inversión a valor presente se garantice con las participaciones que correspondan al ente solicitante en términos de la Ley de Coordinación Fiscal.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 24.
 
-Los Comités de Inversiones y de Riesgos del Instituto establecidos en el Reglamento Orgánico del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, deberán vigilar que toda inversión de las reservas financieras del Instituto se realice en las mejores condiciones de mercado, seguridad, rendimiento y liquidez, procurando que la tasa promedio de interés obtenido, sea al menos igual a la tasa pasiva líder del mercado bancario aplicable al horizonte de inversión del instrumento de que se trate.
+Los comités de Inversiones, Riesgos y de Evaluación de Proyectos Estratégicos de Inversión en el Estado establecidos en el Reglamento Interior del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, deberán vigilar que toda inversión de las reservas financieras del Instituto se realice en las mejores condiciones de mercado, seguridad, rendimiento y liquidez, procurando que la tasa promedio de interés obtenido, sea al menos igual a la tasa pasiva líder del mercado bancario aplicable al horizonte de inversión del instrumento de que se trate.
 
 ###### Artículo 25.
 
@@ -555,11 +603,11 @@ VIII. Cuatro representantes del Sindicato Único de Trabajadores Estatales y Mun
 
 Cada integrante de la Junta Directiva tendrá su respectivo suplente, el cual lo substituirá en sus faltas temporales, en términos de lo dispuesto en el reglamento respectivo.
 
-El procedimiento para elegir a los representantes a que se refieren las Fracciones V y VI del presente Artículo, se establecerá en el Reglamento respectivo.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+El procedimiento para elegir a los representantes a que se refieren las Fracciones VI a VIII del presente Artículo, se establecerá en el Reglamento respectivo.
 
-El Gobernador del Estado designará de entre los miembros de la Junta, a quien deba presidirla en caso de ausencia, actuando como Vocales los demás miembros, a excepción de los representantes a que se refieren las fracciones V, VI, VII y VIII del presente Artículo.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 28.
 
@@ -587,13 +635,17 @@ I. Planear las operaciones y servicios del Instituto;
 
 II. Aprobar los programas anuales de operación, los presupuestos de ingresos, la determinación del techo financiero con base en el cual se realizará el presupuesto de gastos y de inversión que se cumplirán en cada ejercicio anual;
 
-III. Autorizar las inversiones del Instituto y determinar las reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de las prestaciones y servicios que determina esta Ley y el cumplimiento de sus fines, basado en las valuaciones actuarial y financiera.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+III. Autorizar las inversiones y proyectos estratégicos de inversión en el estado del Instituto y determinar las reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de las prestaciones y servicios que determina esta Ley y el cumplimiento de sus fines, basado en las valuaciones actuarial y financiera.
 
 Asimismo, la Junta Directiva, teniendo como objeto primordial buscar el beneficio de los trabajadores, aprobará las tasas de interés que se aplicarán a los diferentes tipos o modalidades de préstamos que otorgue el Instituto, las cuales invariablemente deberán ser en términos reales al menos iguales a la tasa pasiva líder del mercado bancario; de igual forma determinará la tasa a pagar de los servidores públicos en relación con el Fondo de Ahorro y con las cuentas de ahorro individuales de retiro;
 
 IV. Autorizar al Director General para que solicite a las entidades públicas patronales hagan las aportaciones extraordinarias en los casos que señala el Artículo 17 de esta Ley;
 
-V. Autorizar, cuando fuera necesario, la adquisición y enajenación de los activos fijos del Instituto, para efecto de cumplir con lo señalado en el Artículo 13 de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+V. Autorizar, cuando fuera necesario la enajenación de los activos fijos del Instituto, para efecto de cumplir con lo señalado en el Artículo 13 de esta Ley.
 
 VI. Analizar trimestralmente los estados financieros del Instituto, tomar las medidas necesarias para garantizar la buena marcha del mismo y aprobar anualmente, previo informe de los comisarios y/o dictamen de los auditores externos, los estados financieros del Instituto;
 
@@ -677,7 +729,7 @@ XIII. Establecer los mecanismos de control necesarios para un óptimo y transpar
 
 XIV. Adoptar las medidas pertinentes a fin de que las funciones del Instituto se realicen de manera articulada, congruente y eficaz;
 
-XV. Nombrar a los Directores de Administración, de Prestaciones Económicas, de Contabilidad y Finanzas, de la Unidad de Inversiones, de la Unidad de Administración Integral de Riesgos y de Medicina, Seguridad e Higiene del Instituto, observando los requisitos que para tal efecto establezca el Reglamento Orgánico del Instituto;
+XV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 XVI. Suscribir los contratos que regulen las relaciones con los servidores públicos que presten sus servicios en el Instituto, cualquiera que sea su categoría;
 
@@ -719,41 +771,33 @@ El Director General ejercerá las facultades y atribuciones que le confiere esta
 
 #### SECCIÓN TERCERA. Las Unidades Administrativas
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 36.
 
-El Director de la Unidad de Administración Integral de Riesgos, deberá reunir los siguientes requisitos:
+El Director General de Inversiones y Riesgos, deberá reunir los siguientes requisitos:
 
-I. Tener estudios concluidos de Licenciatura en alguna de las siguientes disciplinas: Contaduría Pública, Administración, Economía, Finanzas, Actuaría, Matemáticas o Ingeniería Industrial;
-
-II. Haber obtenido la Certificación de la Asociación Mexicana de Intermediarios Bursátiles (AMIB) teniendo acreditada por lo menos una figura 2;
-
-III. Tener más de 4 años de experiencia en el medio financiero bursátil, específicamente en áreas de riesgos o inversiones de sociedades de inversión, fondos de pensiones o administradoras de fondos para el retiro. La experiencia adquirida en áreas de promoción o venta de productos financieros no será tomada en cuenta;
-
-IV. Tener al menos 2 años de experiencia en las metodologías de medición de riesgos financieros;
-
-V. Conocimiento de los mercados e instrumentos financieros de renta fija, renta variable, divisas y derivados; y
-
-VI. Haber ocupado un puesto gerencial o directivo en materia de administración de riesgos o inversiones.
-
-###### Artículo 37.
-
-El Director de la Unidad de Inversiones deberá reunir los siguientes requisitos:
-
-I. Tener estudios concluidos de Licenciatura en alguna de las siguientes disciplinas: Contaduría Pública, Administración, Economía, Finanzas, Actuaría, Matemáticas o Ingeniería Industrial;
+I. Tener estudios concluidos de licenciatura en alguna de las siguientes disciplinas: Contaduría Pública, Administración, Economía, Finanzas, Actuaría, Matemáticas o Ingeniería Industrial, Ingeniería en Negocios, Negocios Internacionales, Ingeniería en Física o Econometría; en atención a los perfiles para la designación se preferirá a aquellos que cuenten con estudios de posgrado en dichas áreas;
 
 II. Haber obtenido la Certificación de la Asociación Mexicana de Intermediarios Bursátiles (AMIB) teniendo acreditada por lo menos una figura 2;
 
-III. Tener más de 5 años de experiencia en el manejo de herramientas para el análisis de mercados financieros;
+III. Tener más de 5 años de experiencia en el medio financiero bursátil, específicamente en áreas de riesgos o inversiones de sociedades de inversión, fondos de pensiones o administradoras de fondos para el retiro. La experiencia adquirida en áreas de promoción o venta de productos financieros no será tomada en cuenta;
 
-IV. Tener más de 2 años de experiencia en el manejo de mercado de dinero y capitales;
+IV. Tener al menos 2 años de experiencia en el manejo de mercado de dinero y en el análisis de las metodologías de medición de riesgos financieros;
 
 V. Tener más de 2 años de experiencia en el manejo de análisis fundamental;
 
 VI. Tener más de 5 años de experiencia laboral en el Sistema Financiero en materia de mercados financieros;
 
-VII. Tener más de 2 años de experiencia en el análisis de mercados y análisis bursátil; y
+VII. Tener más de 2 años de experiencia en el análisis de mercados y análisis bursátil y en la planeación de procesos productivos; y
 
-VIII. Haber ocupado un puesto directivo en alguna Institución Financiera reconocida dentro del Sistema Financiero.
+VIII. Haber ocupado un puesto con funciones decisorias en materia de administración de riesgos o en materia de inversiones.
+
+La Dirección contará con las áreas o unidades administrativas para su adecuado funcionamiento en los términos y categoría presupuestal que determine el Reglamento Interior del Instituto.
+
+###### Artículo 37.
+
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 #### SECCIÓN CUARTA. El Órgano de Vigilancia
 
@@ -809,7 +853,9 @@ II. Autoridad Investigadora, que es la encargada de recibir la denuncia y elabor
 
 III. Autoridad Substanciadora y Resolutora, que es la encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades Administrativas.
 
-Los titulares de dichas Autoridades serán designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Los titulares de dichas Autoridades serán designados en los términos del procedimiento previsto por la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
 
 El servidor público que ejerza la función de Autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
@@ -841,9 +887,11 @@ Las relaciones de trabajo entre el Instituto y su personal se regirán por las d
 
 El personal del Instituto gozará de las prestaciones de seguridad y servicios sociales establecidos en la presente Ley, en los términos que la misma señala.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 49.
 
-Tendrán carácter de trabajadores de confianza del Instituto, el Director General, los Directores y los Coordinadores de Área, los Jefes de Departamento, Técnicos Profesionales "A" y "B", así como aquellos otros que se mencionen como tales en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
+Tendrán carácter de trabajadores de confianza del Instituto, además de los Técnicos Profesionales "A" y "B", todos aquellos que se mencionen con ese carácter en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios y Organismos Descentralizados.
 
 ## TÍTULO TERCERO. El RÉGIMEN DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
@@ -967,9 +1015,11 @@ II. La Pensión por Viudez y Orfandad es compatible con la percepción de la Pen
 
 III. (DEROGADA, P.O. 2 DE AGOSTO DE 2021)
 
-IV. El disfrute de una Pensión por Riesgo de Trabajo, con una Pensión de Retiro por Edad y antigüedad en el Servicio;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-V. En cualquier caso, diverso a los anteriores, será incompatible el disfrute de dos pensiones, por lo que únicamente se otorgará una de ellas, a elección del Servidor Público que acredite su derecho en términos de esta Ley; y
+IV. El disfrute de una Pensión por Riesgo de Trabajo, con una Pensión de Retiro por Edad y antigüedad en el Servicio; y
+
+V. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 VI. La percepción de una Pensión por Orfandad, es compatible con el disfrute de otra pensión igual proveniente de los derechos derivados del otro progenitor.
 
@@ -993,9 +1043,17 @@ V. El afiliado que al mismo tiempo se encuentre en los supuestos establecidos en
 
 En ningún caso se podrán otorgar más de dos pensiones de cualquier tipo o modalidad derivadas de plazas distintas;
 
-VI. La Pensión por Invalidez es incompatible con cualquier otro tipo de pensión que otorgue el Instituto que se derive de la misma plaza; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VII. Es incompatible la percepción de una pensión por invalidez otorgada por el Instituto con el desempeño de un empleo, cargo o comisión de cualquier tipo, en entidades públicas patronales sujetas al régimen de esta Ley.
+VI. La Pensión por Invalidez es incompatible con cualquier otro tipo de pensión que otorgue el Instituto que se derive de la misma plaza;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Es incompatible la percepción de una pensión por invalidez otorgada por el Instituto con el desempeño de un empleo, cargo o comisión de cualquier tipo, en entidades públicas patronales sujetas al régimen de esta Ley; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Será incompatible el disfrute de dos pensiones en cualquiera de los casos previstos por la fracción IV del artículo anterior, por lo que únicamente se otorgará una de ellas, a elección del Servidor Público que acredite su derecho en términos de esta Ley.
 
 ###### Artículo 60.
 
@@ -1025,7 +1083,7 @@ El Instituto podrá verificar en cualquier tiempo la autenticidad de los documen
 
 ###### Artículo 63.
 
-Cuando un afiliado desempeñe simultáneamente dos o más empleos, nombramientos o plazas, no podrán sumarse entre sí los períodos cotizados en cada una de ellas para efectos del cálculo del tiempo de cotización requerido por esta Ley para acceder a las prestaciones que la misma establece.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 64.
 
@@ -1075,7 +1133,9 @@ c) Las Entidades Públicas Patronales aportarán para el financiamiento de las p
 
 En el caso de las Entidades Públicas Patronales, excepto para la Cuenta de Ahorro Individual para el Retiro, la base de cotización se integrará con el Sueldo Base de Cotización de los Servidores Públicos que tengan adscritos, los quinquenios y aguinaldo de que los mismos disfruten.
 
-Las Aportaciones de que trata este Artículo se harán de manera quincenal y serán enterradas en la misma forma al Instituto según lo previsto en el Capítulo "Afiliaciones y Aportaciones al Instituto", en la inteligencia de que, ante la falta de su entero oportuno, será a cargo de la Entidades Públicas Patronales de que se trate la compensación financiera prevista en el capítulo antes mencionado;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Las Aportaciones de que trata este Artículo se harán de manera quincenal y serán enteradas en la misma forma al Instituto según lo previsto en el Capítulo "Afiliaciones y Aportaciones al Instituto", en la inteligencia de que, ante la falta de su entero oportuno, será a cargo de la (sic) Entidades Públicas Patronales de que se trate la compensación financiera prevista en el capítulo antes mencionado;
 
 II. Las Aportaciones señaladas en la Fracción anterior deberán depositarse en cuentas bancarias productivas del Fondo de Prestaciones Económicas de las que se tomarán los recursos necesarios para el pago de los beneficios consignados en este capítulo y para la Aportación de Gastos de Administración del Instituto que en forma proporcional corresponda a la operación de este fondo, la Junta Directiva determinará las cantidades que de los remanentes resultantes deban depositarse en un fideicomiso constituido o uno de nueva creación, ante Institución Fiduciaria autorizada por la Ley de la materia, sin perjuicio de que el Instituto llevará registro individualizado de las aportaciones a la Cuenta de Ahorro Individual para el Retiro del Servidor Público.
 
@@ -1121,7 +1181,9 @@ c) Las demás que se establezcan con las instituciones médicas que se contraten
 
 El derecho a la prestación a que se refiere el artículo anterior, adquiere vigencia al darse de alta al Servidor Público en la entidad de su adscripción y también tendrán derecho a ella los siguientes familiares:
 
-I. La esposa o, a falta de ésta, la mujer con quien ha vivido como si lo fuera durante dos años o más, o en su defecto con la que haya procreado hijos, siempre que ambos permanezcan libres de matrimonio.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I. La esposa o, a falta de ésta, la mujer con quien ha vivido como si lo fuera según las condiciones que señale el Código Civil del Estado para la existencia legal del concubinato.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -1181,7 +1243,9 @@ A efecto de prevenir Riesgos de Trabajo, las Entidades Públicas Patronales, deb
 
 Lo anterior deberá realizarse atendiendo a los convenios de colaboración de Servicios Médicos, suscritos por el Instituto.
 
-Asimismo, los trabajadores afiliados deberán presentarse a exámenes subsecuentes dentro de su dependencia, para el seguimiento de su expediente.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Asimismo, los trabajadores afiliados deberán presentarse a exámenes subsecuentes dentro de su dependencia, para el seguimiento de su expediente, según la periodicidad que determine la Junta Directiva.
 
 #### SECCIÓN TERCERA. La Pensión de Retiro por Edad y Antigüedad en el Servicio
 
@@ -1257,7 +1321,9 @@ El importe de las pensiones descritas en la presente Ley se distribuirá entre l
 
 I. La cónyuge o el cónyuge supérstite, solos o en concurrencia con los hijos, siempre que no haya contraído nuevas nupcias;
 
-II. A falta de la o el cónyuge supérstite, la concubina o el concubinario solos o en concurrencia con los hijos; siempre que el Servidor Público o Pensionado le hubiere dado el tratamiento de esposa o esposo en su defecto cuando menos durante los últimos dos años y ambos hayan permanecido libres de matrimonio durante el concubinato.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+II. A falta de la o el cónyuge supérstite, la concubina o el concubinario solos o en concurrencia con los hijos; siempre que exista previa declaración judicial sobre el cumplimiento de las condiciones que señale el Código Civil del Estado para la existencia legal del concubinato.
 
 Si al morir el Servidor Público o Pensionado tuviere varias concubinas, ninguna tendrá derecho a pensión;
 
@@ -1523,7 +1589,9 @@ Si otorgada una pensión aparecen a reclamar sus derechos sobre la misma, otros 
 
 I. Presentar solicitud de reconocimiento de derecho, debidamente firmada y anexar a ésta los documentos con los cuáles acredite la personalidad para reclamar dicho derecho; y
 
-II. Existir acuerdo de reconocimiento de derecho de pensión, el cual deberá ser emitido por el Director de Prestaciones Económicas del Instituto con la que podrá hacerse extensiva la pensión.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+II. Existir acuerdo de reconocimiento de derecho de pensión, el cual deberá ser emitido por el Director de Prestaciones, Afiliación y Medicina del Instituto con la que podrá hacerse extensiva la pensión.
 
 A partir de la fecha en que sea emitido el acuerdo de reconocimiento de derecho de pensión, los beneficiarios deberán percibir el porcentaje que les corresponda, pero no podrá reclamar el pago de las cantidades cobradas por los primeros beneficiarios.
 
@@ -1623,13 +1691,9 @@ II. La calidad de cónyuge se acredita con las copias certificadas de las actas 
 
 III. La calidad de hijo se demuestra con las copias certificadas de las actas de nacimiento, escritura pública o testamento en que conste el reconocimiento de paternidad, cuando el Código Civil del Estado de Aguascalientes así lo permita;
 
-IV. La calidad de concubina o concubinario, con:
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-a) Las copias certificadas de actas de nacimiento en que se demuestre que el pensionado ha tenido al menos un hijo al cohabitar en concubinato con la persona que se pretende inscribir como beneficiario;
-
-b) Escritura pública o testamento en que conste el reconocimiento de paternidad, en que se demuestre que el pensionado ha tenido al menos un hijo al cohabitar en concubinato con la persona que se pretende inscribir como beneficiario; o
-
-c) Dos testigos aptos que hagan constar, ante el Instituto, que los interesados han convivido como esposos, estando libres de matrimonio, por lo menos los dos años anteriores, acompañado de constancias de domicilio que acrediten el establecimiento de un hogar común, la actuación realizada por los testigos deberá de realizarse supeditados con la confesión de la frase solemne de “BAJO PROTESTA DE DECIR VERDAD”;
+IV. La calidad de concubina o concubinario se demostrará con la resolución judicial donde se declare la existencia legal del concubinato.
 
 V. El hecho de cursar estudios con reconocimiento oficial o en planteles del Sistema Educativo Nacional, para el caso de los hijos menores de veinticinco años, se comprobará con la constancia que se expida, la cual deberá estar sellada y firmada, y haber sido expedida por la Secretaría de Educación Pública o bien por una Universidad o Institución Académica incorporada o reconocida por dicha Secretaría; y
 
@@ -1725,15 +1789,19 @@ III. El monto del préstamo lo constituirán el capital y los intereses del mism
 
 IV. Que el Servidor Público cuente con la capacidad de pago necesaria.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 139.
 
-Los préstamos podrán exceder del monto a que se refiere la Fracción II del Artículo anterior, hasta por un importe de dieciocho veces la UMA mensual, y se otorgará siempre y cuando otorgue garantía solidaria de otro Servidor Público o Pensionado.
+Los préstamos a corto plazo, se deberán otorgar conforme a las siguientes reglas:
 
-El Director General, en cualquier momento, podrá autorizar un excedente del monto referido en la Fracción II del Artículo 138 de la presente Ley, el cuál será hasta por un importe de cien veces el valor de la UMA diaria, asimismo podrá ejercer la facultad discrecional para dispensar el requisito de la garantía solidaria establecido en el párrafo anterior.
+I. En el caso de los servidores públicos en activo, los prestamos podrán otorgarse hasta por el monto a que se refiere la Fracción II del Artículo anterior multiplicado por dos; y hasta por un importe equivalente a veinte veces la UMA mensual, en el caso de los pensionados;
 
-Asimismo, el Director de Prestaciones Económicas, en cualquier momento, podrá autorizar un excedente del monto referido en la Fracción II del Artículo 138 de la presente Ley, el cuál será hasta por un importe de sesenta y cinco veces el valor de la UMA diaria, asimismo podrá ejercer la facultad discrecional para dispensar el requisito de la garantía solidaria establecido en el párrafo anterior.
+II. El préstamo se otorgará siempre que se otorgue garantía solidaria de otro Servidor Público o Pensionado, a fin de que entre los fondos del acreditado y el aval o avales se cubra el importe total del crédito solicitado. En este caso, el aval garantizará únicamente por la cantidad que quede descubierta de aquella autorizada al acreditado;
 
-En el caso de que el importe total del fondo de ahorro acumulado del Servidor Público exceda del límite establecido en el párrafo, el monto máximo de préstamo a otorgar a éste, cumpliendo con los requisitos aquí establecidos, será el total de su fondo de ahorro más un cincuenta por ciento del mismo.
+III. El Director General en cualquier momento podrá autorizar el otorgamiento de créditos a pensionados hasta por un importe de cien veces el valor de la UMA diaria; mientras que el Director General de Prestaciones, Afiliación y Medicina, gozará de la misma facultad, pero únicamente podrá hacerlo por un importe de sesenta y cinco veces el valor de la UMA diaria; y
+
+IV. Tanto el Director General como el Director General de Prestaciones, Afiliación y Medicina, podrán en cualquier tiempo dispensar el requisito de la garantía solidaria establecido en este artículo.
 
 ###### Artículo 140.
 
@@ -1759,9 +1827,11 @@ En los casos en que la dependencia no aplique los descuentos, los trabajadores d
 
 El plazo para el pago de los Préstamos a Corto Plazo no será mayor de treinta y seis meses.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 144.
 
-Los préstamos a los que se refieren los Artículos 138 y 139 de este ordenamiento, causarán un interés anual sobre saldos insolutos igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a cuatro semanas, publicada por Banco de México el último día del mes próximo pasado, más tres puntos porcentuales, vigente al día último del mes anterior al otorgamiento del préstamo; de los tres puntos adicionales a la Tasa de Interés Interbancaria de Equilibrio (TIIE) efectivamente cobrados, un punto porcentual se destinará al fondo asistencial para pensionados.
+Los préstamos a los que se refieren los Artículos 138 y 139 de este ordenamiento, causarán un interés anual sobre saldos insolutos igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a veintiocho días, publicada por Banco de México el último día del mes próximo pasado, más los puntos porcentuales adicionales que hayan sido autorizados para tales efectos por la Junta Directiva en el mes de noviembre para su aplicación durante el año siguiente. La Junta Directiva determinará anualmente el porcentaje de los puntos adicionales a la Tasa de Interés Interbancaria de Equilibrio (TIIE) efectivamente cobrados, que se destinarán al fondo asistencial para pensionados.
 
 Asimismo, el otorgamiento de los préstamos otorgados con garantía solidaria, se les calculará adicionalmente un cero punto veinticinco por ciento sobre el valor del préstamo por concepto de contribución a la Reserva de Garantía.
 
@@ -1771,9 +1841,11 @@ El incumplimiento del afiliado o pensionado acreditado en el pago de primas de l
 
 El pago de capital e intereses, y en los casos que proceda la contribución la Reserva de Garantía a que se refiere el Artículo anterior, se hará en abonos quincenales iguales y consecutivos.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 146.
 
-Los adeudos que no sean cubiertos a su vencimiento, se les aplicará una tasa moratoria mensual, igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a cuatro semanas, publicada por Banco de México el último día del mes próximo pasado calculada en la fecha en que se incurra en mora, multiplicada por dos y dividida entre doce.
+A los adeudos que no sean cubiertos a su vencimiento, se les aplicará una tasa moratoria mensual, igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a veintiocho días, publicada por Banco de México el último día del mes próximo pasado calculada en la fecha en que se incurra en mora, más los puntos porcentuales adicionales que determine la Junta Directiva en el mes de noviembre de cada año, para su aplicación durante el año siguiente.
 
 ###### Artículo 147.
 
@@ -1783,7 +1855,9 @@ Para efectos de recuperación de préstamos otorgados por el Instituto a los Ser
 
 Para el otorgamiento de Préstamos a Corto Plazo, se considera exclusivamente como fuente de financiamiento el constituido como Fondo de Ahorro.
 
-El fondo de los recursos destinados para los Préstamos a Corto Plazo, en tanto no se destinen a su objeto, la Dirección de la Unidad de Inversiones deberá de invertirlos bajo criterios prudenciales, en aquellos Instrumentos Financieros del mercado que garanticen la transparencia para la rendición de cuentas, de conformidad con las disposiciones que para tal efecto se expidan, bajo el entendido de que cualquier rendimiento generado de dichas inversiones deberán de ir al Patrimonio del Fondo de Ahorro.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+En tanto los recursos destinados para los Préstamos a Corto Plazo no se destinen a su objeto, deberán invertirse por parte de la Dirección General de Inversiones y Riesgos, en aquellos Instrumentos Financieros del mercado que garanticen la transparencia para la rendición de cuentas, de conformidad con las disposiciones que para tal efecto se expidan, bajo el entendido de que cualquier rendimiento generado de dichas inversiones deberán de ir al Patrimonio del Fondo de Ahorro.
 
 #### SECCIÓN DÉCIMA PRIMERA. Los Préstamos Hipotecarios
 
@@ -1855,9 +1929,11 @@ Los préstamos para la Adquisición de Bienes de Consumo Duradero, causarán un 
 
 Para efectos de recuperación de préstamos otorgados por el Instituto a los servidores públicos que tengan permiso sin goce de sueldo, se otorgará una tolerancia máxima de tres meses para el cargo de interés moratorio. Al término de este plazo, se deberán realizar los pagos oportunamente a fin de no considerarlo en la condición de moroso y facultar al Instituto para actuar en consecuencia.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 159.
 
-Los adeudos que no sean cubiertos a su vencimiento, se les aplicará una tasa moratoria mensual, igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a cuatro semanas, publicada por el Banco de México el último día del mes próximo pasado en la fecha en que se incurra en mora, multiplicada por dos y dividida entre doce.
+Los adeudos que no sean cubiertos a su vencimiento, se les aplicará una tasa moratoria mensual, igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a veintiocho días, publicada por el Banco de México el último día del mes próximo pasado en la fecha en que se incurra en mora, más los puntos porcentuales adicionales que determine la Junta Directiva en el mes de noviembre de cada año, para su aplicación durante el año siguiente.
 
 #### SECCIÓN DÉCIMA SEGUNDA. Los Servicios de Guardería y Pre Escolar
 
@@ -1873,9 +1949,11 @@ El Instituto podrá adquirir o construir inmuebles para ser vendidos a sus afili
 
 El Instituto podrá otorgar Préstamos Hipotecarios a los Servidores Públicos y Pensionados de acuerdo con los recursos aprobados por la Junta Directiva en el presupuesto anual y el fondo se formará con el porcentaje que determine la propia Junta de las aportaciones que se realicen al Fondo de Vivienda de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 162.
 
-Los Servidores Públicos que hayan contribuido por dos años al Instituto, podrán obtener Préstamos con Garantía Hipotecaria en primer lugar sobre inmuebles urbanos.
+Los Servidores Públicos que hayan contribuido por un año al Instituto, podrán obtener Préstamos con Garantía Hipotecaria en primer lugar sobre inmuebles urbanos.
 
 Los préstamos se destinarán a los siguientes fines:
 
@@ -1893,7 +1971,9 @@ V. En el caso de que el Servidor Público obtenga el tipo de préstamos señalad
 
 El Servidor Público o Pensionado que solicite un Préstamo Hipotecario deberá cumplir con los siguientes requisitos:
 
-I. Haber sido afiliado por la Entidad Pública Patronal y haber contribuido por lo menos dos años al Instituto;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I. Haber sido afiliado por la Entidad Pública Patronal y haber contribuido por lo menos un año al Instituto;
 
 II. Otorgar en garantía el bien inmueble que pretenda adquirir o en su defecto el bien inmueble sobre el que se vayan a efectuar las construcciones o mejoras;
 
@@ -1901,7 +1981,9 @@ III. Una vez adquirido el bien inmueble, este deberá quedar inscrito en el Regi
 
 IV. No deberá tener adeudos vencidos pendientes de redimir con el Instituto;
 
-V. El inmueble deberá estar libre de gravámenes, salvo que el préstamo se solicite para la redención del gravamen; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+V. Cuando el préstamo sea solicitado respecto de un bien con gravamen, el solicitante deberá acreditar, la cantidad adeudada con cierre a la fecha de la transacción que deberá liquidarse al titular del gravamen, así como el monto que se enterará al vendedor de la cosa; y
 
 VI. Acreditar que el préstamo se destinará a alguno de los fines mencionados en el Artículo anterior.
 
@@ -1909,15 +1991,23 @@ a) En el caso de que el inmueble se encuentre cerca de una falla geológica, és
 
 b) En el caso en que un acreditado hubiera sido demandado judicialmente por el Instituto por incumplimiento de alguna de sus obligaciones crediticias, será razón suficiente para negar las solicitudes de crédito futuras.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Acreditar que el inmueble para el cual se destinarán los recursos del préstamo está ubicado en el Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 164.
 
-El importe del Préstamo Hipotecario no excederá de 436 veces el valor mensual de la UMA en la fecha en que se solicite, reservándose el Instituto el derecho de otorgarlo de acuerdo con los recursos de que disponga y con la antigüedad de la solicitud.
+El importe del Préstamo Hipotecario no excederá de 1000 veces el valor mensual de la UMA en la fecha en que se solicite, reservándose el Instituto el derecho de otorgarlo de acuerdo con los recursos de que disponga y con la antigüedad de la solicitud.
 
-Asimismo, el Servidor Público deberá demostrar capacidad de pago con los recibos de nómina emitidos por la Entidad Pública Patronal a la que se encuentre suscrito.
+Asimismo, el Servidor Público deberá demostrar capacidad de pago con los recibos de nómina emitidos por la Entidad Pública Patronal a la que se encuentre adscrito, así como con las constancias correspondientes a los demás ingresos comprobados por alguna actividad económica adicional del solicitante o de su cónyuge. En estos casos, el Instituto podrá solicitar cualquier elemento adicional para cerciorarse de la capacidad de pago del acreditado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 165.
 
-El Préstamo Hipotecario no deberá pasar del ochenta y cinco por ciento del valor comercial que sea fijado sobre el inmueble, por los peritos del Instituto Catastral del Estado de Aguascalientes.
+El Préstamo Hipotecario no deberá pasar del ochenta y cinco por ciento del valor comercial que sea fijado sobre el inmueble, por los peritos acreditados ante el Instituto en los términos que determinen las disposiciones reglamentarias aplicables.
 
 ###### Artículo 166.
 
@@ -1927,9 +2017,11 @@ Los descuentos que deban hacerse del sueldo neto del Servidor Público para cubr
 
 El acreditado podrá solicitar que se realice un descuento mayor al establecido en el artículo anterior, siempre y cuando acredite conjuntamente con su cónyuge ingresos adicionales, mismos que se deberán comprobar con los recibos de nómina emitidos por la entidad en la que se encuentran suscritos o, en su defecto, los ingresos adicionales que el servidor público y su cónyuge perciban los cuales deberán comprobarse con las últimas dos declaraciones anuales realizadas ante el sistema de administración tributaria.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 168.
 
-Los préstamos a los que se refiere el presente Capítulo, causarán un interés anual sobre saldos insolutos igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a cuatro semanas, publicada por Banco de México el último día de los meses de Junio y Diciembre de cada año, más dos puntos porcentuales; de los dos puntos adicionales a la Tasa de Interés Interbancaria de Equilibrio (TIIE) efectivamente cobrados, un punto porcentual se destinará al fondo asistencial para pensionados.
+Los préstamos a los que se refiere el presente Capítulo, causarán un interés anual sobre saldos insolutos igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a veintiocho días, publicada por Banco de México el último día de los meses de Junio y Diciembre de cada año, más los puntos porcentuales adicionales que haya determinado la Junta Directiva en el mes de noviembre de cada año, para su aplicación durante el año siguiente. La Junta Directiva determinará anualmente el porcentaje de los puntos adicionales a la Tasa de Interés Interbancaria de Equilibrio (TIIE) efectivamente cobrados, que se destinará al fondo asistencial para pensionados.
 
 ###### Artículo 169.
 
@@ -1953,13 +2045,19 @@ Si por la separación de la fuente de trabajo del Servidor Público se hace nece
 
 Asimismo, en el plazo de prórroga de pago se deberán condonar los intereses moratorios por dicho crédito.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 173.
 
-Las cantidades que no sean cubiertas a su vencimiento, se les aplicará una tasa moratoria mensual, igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a cuatro semanas, publicada por Banco de México en la fecha en que se incurra en mora, multiplicada por uno punto cinco y dividida entre doce.
+Las cantidades que no sean cubiertas a su vencimiento, se les aplicará una tasa moratoria mensual, igual a la Tasa de Interés Interbancaria de Equilibrio (TIIE) a veintiocho días, publicada por Banco de México en la fecha en que se incurra en mora, más los puntos porcentuales adicionales que determine la Junta Directiva en el mes de noviembre de cada año, para su aplicación durante el año siguiente.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 174.
 
-El Servidor Público podrá ser sujeto de un segundo préstamo hipotecario, una vez que haya liquidado su primer Crédito Hipotecario.
+El Servidor Público podrá ser sujeto de un nuevo préstamo hipotecario, una vez que haya liquidado el anterior.
+
+Los préstamos a que se refiere esta sección serán susceptibles de liquidación anticipada siempre que se cumplan los requisitos y se agote el procedimiento previsto en las disposiciones reglamentarias aplicables.
 
 ###### Artículo 175.
 
@@ -2127,6 +2225,8 @@ Todas las actividades en materia de Servicios Sociales deberán ser autofinancia
 
 #### SECCIÓN DÉCIMA SEXTA. El Fondo Asistencial para Pensionados
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 199.
 
 Dentro del régimen de Seguridad Social que establece el presente ordenamiento, el Instituto podrá realizar promociones especiales y otorgar prestaciones a fin de mejorar y salvaguardar las condiciones económicas, sociales y culturales de los derechohabientes que estén sujetos a esta Ley mediante:
@@ -2151,7 +2251,7 @@ Los servicios señalados en este capítulo deberán ser autofinanciados y de nin
 
 ###### Artículo 202.
 
-El Fondo Asistencial para Pensionados, se constituirá de un punto porcentual que emanará de los pagos efectuados por concepto de intereses de los Préstamos de Corto Plazo e Hipotecarios otorgados por el Instituto.
+El Fondo Asistencial para Pensionados, se constituirá por el porcentaje de los puntos adicionales a la Tasa de Interés Interbancaria de Equilibrio (TIIE) efectivamente cobrados en concepto de intereses de los Préstamos de Corto Plazo e Hipotecarios otorgados por el Instituto, que determine la Junta Directiva en los términos de esta Ley.
 
 ###### Artículo 203.
 
@@ -2173,7 +2273,9 @@ III. Apoyar el desarrollo armónico socio económico de la familia de los pensio
 
 IV. Brindar a los pensionados mejores posibilidades de desarrollo personal.
 
-El instituto podrá otorgar apoyos económicos a pensionados que sean calificados en situación de vulnerabilidad, previo estudio socioeconómico que se realice por la Dirección de Prestaciones Económicas del Instituto.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+El Instituto podrá otorgar apoyos económicos a pensionados que sean calificados en situación de vulnerabilidad, previo estudio socioeconómico que se realice por la Dirección General de Prestaciones Sociales.
 
 ###### Artículo 206.
 
@@ -2253,9 +2355,11 @@ El cálculo del capital constitutivo deberá considerar la aportación a la Cuen
 
 No procederá la incorporación de los Servidores Públicos a que se refiere este Artículo, cuando de manera previsible, ésta pueda comprometer el equilibrio financiero del Instituto o la eficacia de los servicios que se proporcionan a los derechohabientes a que se refiere el Artículo 3° de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 214.
 
-La vigencia de la incorporación al régimen obligatorio respecto de los trabajadores que no se mencionan en el Artículo 3° de la presente Ley, será por tiempo determinado, por lo que el Estado, los Municipios y los Organismos Públicos Descentralizados que pretendan afiliar a sujetos no establecidos en el numeral citado, deberán exhibir el acuerdo de su órgano de Gobierno con las condiciones que establezca la legislación que los rige;
+La vigencia de la incorporación al régimen obligatorio respecto de los trabajadores que no se mencionan en el Artículo 3° de la presente Ley, será por tiempo determinado, por lo que el Estado, los Municipios y los Organismos Públicos Descentralizados y Constitucionales Autónomos que pretendan afiliar a sujetos no establecidos en el numeral citado, deberán exhibir el acuerdo de su órgano de Gobierno con las condiciones que establezca la legislación que los rige.
 
 Las prestaciones y servicios se otorgarán a los afiliados por medio de los convenios, en un plazo no mayor a treinta días naturales posteriores a la incorporación de los mismos, previa la remisión de la información y documentación procedente y el entero de las aportaciones y retenciones respectivas al Instituto.
 
@@ -2622,3 +2726,19 @@ P.O. 2 DE AGOSTO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 185.- SE REFORMAN, ADICIONAN Y SE DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Junta Directiva del Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes, deberá expedir o realizar las adecuaciones a los Reglamentos derivados de la Ley y concretará las adecuaciones orgánicas necesarias para la implementación de los cambios previstos, a más tardar 60 días después a la entrada en vigor del presente Decreto.
