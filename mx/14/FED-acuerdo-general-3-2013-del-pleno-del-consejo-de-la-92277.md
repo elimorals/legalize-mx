@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2022-08-29"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -121,9 +121,9 @@ SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprender�
 
 I. PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 35/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE ENERO DE 2021)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 19/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2022)</small>
 
-1. Sesenta y seis tribunales colegiados especializados: diez en materia penal, veintitrés en materia administrativa, dieciséis en materia civil y diecisiete en materia de trabajo, todos con residencia en la Ciudad de México.
+1. Sesenta y seis tribunales colegiados especializados: diez en materia penal, veinticuatro en materia administrativa, dieciséis en materia civil y dieciséis en materia de trabajo, todos con residencia en la Ciudad de México.
 
 > <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 23/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2019)</small>
 
@@ -8846,3 +8846,17 @@ CUARTO. Los Juzgados de Distrito en Materia Penal en el Estado de Querétaro y l
 QUINTO. Las audiencias, diligencias o notificaciones que deban llevar a cabo los Juzgados de Distrito en Materia Penal en el Estado de Querétaro, conforme a la legislación de la materia, podrán desahogarse por videoconferencia, medios electrónicos o de manera presencial. Para efectos de la videoconferencia, se estará a lo previsto en el Acuerdo General 12/2020, del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite del expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo.
 
 Se autoriza el uso de las instalaciones del Centro de Justicia Penal Federal en el Estado de Querétaro por parte de los Juzgados de Distrito en Materia Penal en el Estado de Querétaro, en caso de que su titular lo considere necesario. Las personas titulares de los órganos jurisdiccionales referidos se coordinarán para ello con el personal del Centro, el que debe facilitar el espacio físico necesario para el desarrollo de la actuación de que se trate.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 19/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL VIGÉSIMO CUARTO TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO, CON RESIDENCIA EN LA CIUDAD DE MÉXICO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS EN EL CIRCUITO INDICADO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al Vigésimo Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Vigésimo Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito que inicia funciones.
+
+QUINTO. El personal de la Dirección General de Servicios Generales apoyará para el traslado de los asuntos que por turno corresponda conocer al Vigésimo Cuarto Tribunal Colegiado en Materia Administrativa del Primer Circuito que inicia funciones.
