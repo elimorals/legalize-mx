@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2022-04-18"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -105,13 +105,17 @@ e) Adulto mayor en situación de riesgo o desamparo: Adulto con problemas de sal
 
 Las autoridades correspondientes deberán elaborar programas que atiendan en la generalidad a las personas adultas mayores, sin descuidar a ningún grado de vulnerabilidad de los descritos en los incisos anteriores.
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XVIII. Prevención: Es la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales o sensoriales; y
+XVIII. Prevención: Es la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales o sensoriales;
 
-> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XIX. Previsión: Conjunto de acciones y programas dirigidos preferentemente a personas en edad productiva, que tienen por objeto promover, fomentar, impulsar y consolidar políticas que generen las previsiones necesarias para que al llegar a los sesenta años mantengan su calidad de vida en lo económico, social, familiar, cultural y de salud, que les asegure su bienestar, estabilidad y vida digna.
+XIX. Previsión: Conjunto de acciones y programas dirigidos preferentemente a personas en edad productiva, que tienen por objeto promover, fomentar, impulsar y consolidar políticas que generen las previsiones necesarias para que al llegar a los sesenta años mantengan su calidad de vida en lo económico, social, familiar, cultural y de salud, que les asegure su bienestar, estabilidad y vida digna; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XX. Instituto: Al Instituto Aguascalentense de las Personas Adultas Mayores.
 
 ###### ARTÍCULO 3°.
 
@@ -123,7 +127,9 @@ II. La familia de las personas adultas mayores vinculada por el parentesco, de c
 
 III. Los ciudadanos y la sociedad civil organizada; y
 
-IV. La Secretaría de Desarrollo Social por conducto de la Dirección General de Atención integral a las Personas Adultas Mayores.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Al Instituto.
 
 ## TÍTULO SEGUNDO. DE LOS PRINCIPIOS Y DERECHOS
 
@@ -475,61 +481,127 @@ XIV. Crear los mecanismos o instancias correspondientes para el cumplimiento de 
 
 ### CAPÍTULO II. De la Secretaría de Desarrollo Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 17.
 
-Corresponde a la Secretaría de Desarrollo Social, través de la Dirección General de Atención Integral a las Personas Adultas Mayores:
+Corresponde a la Secretaría de Desarrollo Social en materia de personas Adultas Mayores:
 
 I. Coordinar y ejecutar las políticas de asistencia social y atención integral que refiere esta Ley;
 
-II. Instituir, promocionar y dar seguimiento a las acciones y programas de atención a las personas adultas mayores, fomentando la participación de Organismos Públicos Federales, Municipales y privados;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+II. Promocionar y dar seguimiento a las acciones y programas de atención a las personas adultas mayores, fomentando la participación de los distintos sectores públicos, sociales y privados;
 
 II. Realizar convenios de colaboración con instituciones Federales, Estatales Municipales y Organismos Públicos, Sociales y Privados para coordinar acciones y programas de atención preferente e integral a las personas adultas mayores;
 
 IV. Impulsar y fomentar entre la sociedad la cultura del envejecimiento, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores;
 
-V. Promover el empleo para las personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VI. Fomentar la creación de organizaciones productivas de personas adultas mayores;
+V. Promover ante la autoridad competente el empleo para las personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
-VII. Instituir bolsa de trabajo que identifique actividades laborales que puedan ser desempeñadas por las personas adultas mayores, en condiciones y horarios preferenciales de acuerdo con sus facultades y capacidades físicas;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Fomentar ante autoridad competente la creación de organizaciones productivas de personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Auxiliar a la autoridad competente en la identificación de actividades laborales que puedan ser desempeñadas por las personas adultas mayores, en condiciones y horarios preferenciales de acuerdo con sus facultades y capacidades físicas;
 
 VIII. Crear y realizar programas de capacitación y educación para las personas adultas mayores, en coordinación con la Secretaria del Trabajo y Previsión Social y el Instituto de Educación de Aguascalientes, con la finalidad de que puedan incorporarse a la actividad económica;
 
-IX. Propiciar la colaboración y participación de las distintas Dependencias, Entidades y Órganos Administrativos Desconcentrados y Descentralizados de la Administración Pública Estatal y Municipios para que emprendan acciones y programas de atención preferente e integral de las personas adultas mayores;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-X. Realizar estudios e investigaciones en materia de atención integral de las personas adultas mayores que contribuyan a elevar su calidad de vida;
+IX. Propiciar la colaboración y participación de las distintas Dependencias y Entidades de la Administración Pública Estatal y Municipios para que emprendan acciones y programas de atención preferente e integral de las personas adultas mayores;
 
-XI. Evaluar las acciones y programas de atención a las personas adultas mayores, implementadas o desarrolladas por las distintas Dependencias, Entidades y Organismos Administrativos Desconcentrados y Descentralizados de la Administración Pública Estatal, a efecto de proponer mejoras a los lineamientos y mecanismos para su efectiva ejecución;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+X. Coadyuvar en la realización de estudios e investigaciones en materia de atención integral de las personas adultas mayores que contribuyan a elevar su calidad de vida;
+
+XI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022).
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 XII. Conocer y hacer del conocimiento las convocatorias y programas de apoyo Federales, Estatales y Municipales para personas Adultas Mayores y orientarles para que reciban estos apoyos;
 
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 XIII. Proporcionar orientación y apoyo para aceptar, comprender y asimilar los cambios que experimentan las personas adultas mayores;
 
-XIV. Llevar en el Estado un padrón de personas adultas mayores;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XV. Llevar registro, seguimiento, evolución y evaluación de los casos de personas adultas mayores en estado de abandono, maltrató físico, psicológico o sexual, explotación laboral, discriminación, pobreza extrema o demás circunstancias análogas;
+XIV. Coadyuvar con el Instituto en la información del padrón de personas adultas mayores;
 
-XVI. Impulsar y verificar el cumplimiento de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XVII. Recibir quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes;
+XV. Coadyuvar con el registro, seguimiento, evolución y evaluación de los casos de personas adultas mayores en estado de abandono, maltrató físico, psicológico o sexual, explotación laboral, discriminación, pobreza extrema o demás circunstancias análogas;
 
-XVIII. Coordinar la promoción y seguimiento de los programas de atención de las personas adultas mayores, fomentando la participación de organismos públicos y privados;
+XVI. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022).
 
-XIX. Publicar estadísticas, domicilio de centros de atención gerontológico y geriátrico, la relación de proveedores de bienes y servicios que por convenio otorgan descuentos por adquisición de bienes en beneficio de las personas adultas mayores;
+XVII. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022).
 
-XX. Vigilar que en todo momento en los convenios firmados y en desarrollo, se hagan valer y respeten los derechos de las personas adultas mayores, consignados en las Leyes de la materia;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXI. Establecer convenios ante las instancias correspondientes para que en los eventos culturales organizados tanto por el Gobierno del Estado como por la iniciativa privada, las personas adultas mayores puedan obtener descuentos o gratuidad, previa acreditación de edad; y
+XVIII. Coadyuvar en la promoción y seguimiento de los programas de atención de las personas adultas mayores, fomentando la participación de organismos públicos y privados;
+
+XIX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022).
+
+XX. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022).
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXI. Proponer al Instituto la celebración de convenios ante las instancias correspondientes para que en los eventos, culturales organizados tanto por el Gobierno del Estado como por la iniciativa privada, las personas adultas mayores puedan obtener descuentos o gratuidad, previa acreditación de edad; y
 
 XXII. Las demás que le confiera las Leyes y Reglamentos de la materia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO II BIS. Del Instituto Aguascalentense de las Personas Adultas Mayores
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+ARTÍCULO 17 BIS.- Corresponde al Instituto, además de lo establecido en la Ley del Instituto Aguascalentense de las Personas Adultas Mayores, lo siguiente:
+
+I. Coordinar y ejecutar las políticas de asistencia social y atención integral que refiere esta Ley;
+
+II. Instituir, promocionar y dar seguimiento a las acciones y programas de atención a las personas adultas mayores, fomentando la participación de Organismos Públicos Federales, Municipios y privados;
+
+III. Promover entre la sociedad la cultura del envejecimiento, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultos mayores;
+
+IV. Impulsar el empleo para las personas adultas mayores, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
+
+V. Llevar a cabo programas de capacitación, orientación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo y Previsión Social y el Instituto de Educación de Aguascalientes, con la finalidad de que puedan incorporarse a la actividad económica;
+
+VI. Propiciar la colaboración y participación de los sectores público, social y privado para que lleven a cabo acciones y programas de atención preferente e integral de las personas adultas mayores;
+
+VII. Realizar estudios e investigaciones en materia de atención integral de las personas adultas mayores que contribuyan a elevar su calidad de vida;
+
+VIII. Evaluar las acciones y programas de atención a las personas adultas mayores, implementadas o desarrolladas por las distintas Dependencias, Entidades y de la Administración Pública Estatal, a efecto de proponer mejoras a los lineamientos y mecanismos para su efectiva ejecución;
+
+IX. Difundir las convocatorias y programas de apoyo Federales, Estatales y Municipales para personas Adultas Mayores y orientarles para que reciban estos apoyos,
+
+X. Llevar a cabo un padrón de personas adultas mayores;
+
+XI. Llevar registro, seguimiento, evolución y evaluación de los casos de personas adultas mayores en estado de abandono, maltrató físico, psicológico o sexual, explotación laboral, discriminación, pobreza extrema o demás circunstancias análogas;
+
+XII. Canalizar ante las autoridades competentes las quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores, así como orientar para su formulación;
+
+XIII. Coordinar la promoción y seguimiento de los programas de atención de las personas adultas mayores, fomentando la participación de organismos públicos y privados;
+
+XIV. Publicar estadísticas, domicilio de centros de atención gerontológico y geriátrico, la relación de proveedores de bienes y servicios que por convenio otorgan descuentos por adquisición de bienes en beneficio de las personas adultas mayores;
+
+XV. Vigilar que en todo momento en los convenios firmados y en desarrollo, se hagan valer y respeten los derechos de las personas adultas mayores, consignados en las Leyes de la materia;
+
+XVI. Establecer convenios ante las instancias correspondientes para que en los eventos culturales organizados tanto por el Gobierno del Estado como por la iniciativa privada, las personas adultas mayores puedan obtener descuentos o gratuidad, previa acreditación de edad; y
+
+XVII. Las demás que le confiera las Leyes y Reglamentos de la materia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ### CAPÍTULO III. De los Municipios
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
-
-### CAPÍTULO IV. Del Instituto de Salud del Estado de Aguascalientes
 
 ###### ARTÍCULO 18.
 
@@ -559,7 +631,9 @@ VI. Crear los mecanismos o instancias correspondientes para el cumplimiento de e
 
 VII. Los Ayuntamientos podrán crear Comités Municipales de las Personas Adultas Mayores, con los siguientes fines:
 
-a) Colaborar con la Dirección General de Atención Integral a las Personas Adultas Mayores de la Secretaría de Desarrollo, en la atención a las personas adultas mayores;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+a) Colaborar con el Instituto, en la atención a las personas adultas mayores;
 
 b) Velar en la comunidad por los derechos y garantías de este sector poblacional;
 
@@ -571,7 +645,7 @@ e) Las que le atribuya el Bando Municipal o Código Municipal respectivo.
 
 Los Comités Municipales estarán integrados de tres a cinco miembros, designados por el Presidente Municipal.
 
-### CAPÍTULO V. De la Secretaría de Turismo del Estado
+### CAPÍTULO IV. Del Instituto de Salud del Estado de Aguascalientes
 
 ###### ARTÍCULO 19.
 
@@ -599,7 +673,7 @@ X. Contratar personas adultas mayores, conforme a su oficio, habilidad o profesi
 
 XI. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO VI. Del Instituto de Educación de Aguascalientes
+### CAPÍTULO V. De la Secretaría de Turismo del Estado
 
 ###### ARTÍCULO 20.
 
@@ -613,7 +687,7 @@ III. Contratar personas adultas mayores, con forme a su oficio, habilidad o prof
 
 IV. Las demás que le confiera el Ejecutivo del Estado y las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO VII. Del Instituto Cultural de Aguascalientes
+### CAPÍTULO VI. Del Instituto de Educación de Aguascalientes
 
 ###### ARTÍCULO 21.
 
@@ -643,7 +717,7 @@ VII (SIC). Instituir acciones y programas para que de manera voluntaria, permita
 
 VIII (SIC). Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO VIII. De la Dirección General del Trabajo del Estado
+### CAPÍTULO VII. Del Instituto Cultural de Aguascalientes
 
 ###### ARTÍCULO 22.
 
@@ -659,7 +733,7 @@ IV. Fomentar entre la población una cultura de la vejez, de respeto, aprecio y 
 
 V. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO IX. De la Secretaría de Desarrollo Económico
+### CAPÍTULO VIII. De la Dirección General del Trabajo del Estado
 
 ###### ARTÍCULO 23.
 
@@ -681,21 +755,7 @@ VI. Vigilar que en todo momento, se hagan valer y respetar los derechos de las p
 
 VII. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO IX BIS. De la Secretaría de la Familia
-
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
-
-ARTÍCULO 24 A.- Corresponde a la Secretaría de la Familia, en materia de adultos mayores:
-
-I. Coadyuvar con el Sistema para el Desarrollo Integral de la Familia del Estado en la realización de programas de prevención y protección para los adultos mayores en situación de riesgo o desamparo;
-
-II. Colaborar con las dependencias y entidades de la Administración Pública Estatal competentes, para la protección y defensa de personas adultas mayores dentro del núcleo familiar;
-
-III. Promover la protección y el respeto del ejercicio de los derechos humanos de los adultos mayores;
-
-IV. Fomentar la inclusión, aceptación y participación de los adultos mayores en la sociedad; y
-
-V. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+### CAPÍTULO IX. De la Secretaría de Desarrollo Económico
 
 ###### ARTÍCULO 24.
 
@@ -715,9 +775,23 @@ VI. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE MARZO DE 2021)</small>
 
-### CAPÍTULO X. Del Instituto de Vivienda del Estado de Aguascalientes
+### CAPÍTULO IX BIS. De la Secretaría de la Familia
 
-### CAPÍTULO XI. Del Sistema para el Desarrollo Integral de la Familia del Estado
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2021)</small>
+
+ARTÍCULO 24 A.- Corresponde a la Secretaría de la Familia, en materia de adultos mayores:
+
+I. Coadyuvar con el Sistema para el Desarrollo Integral de la Familia del Estado en la realización de programas de prevención y protección para los adultos mayores en situación de riesgo o desamparo;
+
+II. Colaborar con las dependencias y entidades de la Administración Pública Estatal competentes, para la protección y defensa de personas adultas mayores dentro del núcleo familiar;
+
+III. Promover la protección y el respeto del ejercicio de los derechos humanos de los adultos mayores;
+
+IV. Fomentar la inclusión, aceptación y participación de los adultos mayores en la sociedad; y
+
+V. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+
+### CAPÍTULO X. Del Instituto de Vivienda del Estado de Aguascalientes
 
 ###### ARTÍCULO 25.
 
@@ -729,7 +803,7 @@ II. Garantizar el acceso a proyectos de vivienda de interés público que ofrezc
 
 III. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO XII. Del Instituto del Deporte del Estado de Aguascalientes
+### CAPÍTULO XI. Del Sistema para el Desarrollo Integral de la Familia del Estado
 
 ###### ARTÍCULO 26.
 
@@ -763,7 +837,7 @@ VIII. Proporcionar orientación psicológica para los adultos mayores que sean v
 
 IX. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO XIII. De la Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes
+### CAPÍTULO XII. Del Instituto del Deporte del Estado de Aguascalientes
 
 ###### ARTÍCULO 27.
 
@@ -783,7 +857,7 @@ VI. Acondicionar las instalaciones e infraestructura deportiva, de acuerdo a las
 
 VII. Las demás qué le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
-### CAPÍTULO XIV. De la Secretaría de Finanzas
+### CAPÍTULO XIII. De la Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes
 
 ###### ARTÍCULO 28.
 
@@ -794,6 +868,18 @@ I. Formular y aplicar programas específicos para la inclusión de los adultos m
 II. Promover la participación de los adultos mayores en la formulación y revisión del Programa Estatal de Desarrollo Agropecuario; y
 
 III. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+
+### CAPÍTULO XIV. De la Secretaría de Finanzas
+
+###### ARTÍCULO 29.
+
+Corresponde a la Secretaría de Finanzas del Estado en materia de adultos mayores:
+
+I. Instituir acciones y programas de estímulos fiscales entre los Sectores productivos: Comerciales, de Servicios e Industriales, a efecto de que contraten en sus plazas laborales cuando menos el 10% a personas adultas mayores; y
+
+II. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE ABRIL DE 2018)</small>
 
 ### CAPÍTULO XV. De las Dependencias y Entidades del Gobierno del Estado de Aguascalientes
 
@@ -823,21 +909,9 @@ VII. Coadyuvar con la Secretaría de la Familia en el fomento, promoción e impu
 
 VIII. Las demás que le confiera el Ejecutivo del Estado, las leyes y reglamentos de la materia.
 
-###### ARTÍCULO 29.
-
-Corresponde a la Secretaría de Finanzas del Estado en materia de adultos mayores:
-
-I. Instituir acciones y programas de estímulos fiscales entre los Sectores productivos: Comerciales, de Servicios e Industriales, a efecto de que contraten en sus plazas laborales cuando menos el 10% a personas adultas mayores; y
-
-II. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE ABRIL DE 2018)</small>
-
-### CAPÍTULO ÚNICO. Del Consejo Estatal de Salud para la Atención del Adulto Mayor
-
 ## TÍTULO QUINTO. DEL CONSEJO ESTATAL DE SALUD PARA LA ATENCIÓN DEL ADULTO MAYOR
 
-### CAPÍTULO I. De la Asistencia Social
+### CAPÍTULO ÚNICO. Del Consejo Estatal de Salud para la Atención del Adulto Mayor
 
 ###### ARTÍCULO 30.
 
@@ -859,23 +933,33 @@ III. Vocales.
 
 El Consejo estará representado por:
 
-I. El Presidente, que será el titular del Instituto de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-II. El Secretario Técnico, será el Director General de Atención Integral de las Personas Adultas Mayores de la Secretaría de Desarrollo Social; y
+I. El Presidente, quien será la persona titular del Instituto de Servicios de Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+II. El Secretario Técnico, quien será la persona titular del Instituto; y
 
 III. Los Vocales, serán:
 
-A) Los titulares de las Dependencias y Entidades del Gobierno del Estado y municipal, o los representantes que éstos designen, de las siguientes:
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+A) Los titulares de las Dependencias y Entidades del Gobierno estatal y municipal, o los representantes que éstos designen, de las siguientes autoridades:
 
 1. Municipios;
 
 2. Instituto de Educación de Aguascalientes;
 
-3. Sistema para el Desarrollo Integral de la Familia, Sistema DIF Aguascalientes;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+3. Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
 
 4. Honorable Congreso del Estado, representado por el Presidente de la Comisión de Salud;
 
-5. Instituto de Seguridad, Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes (ISSSSPEA);
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+5. Instituto de Seguridad, Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes;
 
 6. Centenario Hospital Miguel Hidalgo;
 
@@ -971,27 +1055,7 @@ VI. Cumplir las encomiendas resultado de los acuerdos del Consejo.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-### CAPÍTULO II. De la protección a la economía de las personas adultas mayores
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-ARTÍCULO 38 B.- Las administraciones públicas del Estado y de los municipios, a través de las dependencias o entidades competentes, incorporarán a las personas adultas mayores a los programas de asistencia alimentaria que operen, cuando estas no cuenten con los medios para su subsistencia o sus familiares no puedan proporcionárselos.
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-ARTÍCULO 38 C.- Las administraciones públicas del Estado y de los municipios, a través de las dependencias o entidades competentes, promoverán la celebración de convenios con la iniciativa privada, a fin de qué se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las personas adultas mayores.
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-ARTÍCULO 38 D.- Las administraciones públicas del Estado y de los municipios, a través de las dependencias o entidades competentes, promoverán las facilidades administrativas en el pago de derechos por los servicios que otorgan cuando el usuario de estos sea una persona adulta mayor.
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-ARTÍCULO 38 E.- El Estado deberá priorizar la atención de las personas adultas mayores que no cuenten con recursos para su sostenimiento.
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
-
-ARTÍCULO 38 F.- El Estado deberá establecer programas de apoyo económico de manera periódica, para las personas adultas mayores en circunstancia de pobreza, vulnerabilidad o marginalidad, que estén excluidas de un régimen de seguridad social y no cuenten con otra clase de apoyo gubernamental o esquema de pensión, priorizando la atención de los solicitantes conforme a sus circunstancias de vulnerabilidad o marginalidad.
+### CAPÍTULO I. De la Asistencia Social
 
 ###### ARTÍCULO 37.
 
@@ -1031,11 +1095,31 @@ ARTÍCULO 38 A.- La atención preferencial, es un beneficio que sólo podrá oto
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2021)</small>
 
-### CAPÍTULO I. De las Infracciones y Sanciones
+### CAPÍTULO II. De la protección a la economía de las personas adultas mayores
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 38 B.- Las administraciones públicas del Estado y de los municipios, a través de las dependencias o entidades competentes, incorporarán a las personas adultas mayores a los programas de asistencia alimentaria que operen, cuando estas no cuenten con los medios para su subsistencia o sus familiares no puedan proporcionárselos.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 38 C.- Las administraciones públicas del Estado y de los municipios, a través de las dependencias o entidades competentes, promoverán la celebración de convenios con la iniciativa privada, a fin de qué se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 38 D.- Las administraciones públicas del Estado y de los municipios, a través de las dependencias o entidades competentes, promoverán las facilidades administrativas en el pago de derechos por los servicios que otorgan cuando el usuario de estos sea una persona adulta mayor.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 38 E.- El Estado deberá priorizar la atención de las personas adultas mayores que no cuenten con recursos para su sostenimiento.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+
+ARTÍCULO 38 F.- El Estado deberá establecer programas de apoyo económico de manera periódica, para las personas adultas mayores en circunstancia de pobreza, vulnerabilidad o marginalidad, que estén excluidas de un régimen de seguridad social y no cuenten con otra clase de apoyo gubernamental o esquema de pensión, priorizando la atención de los solicitantes conforme a sus circunstancias de vulnerabilidad o marginalidad.
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES Y SANCIONES
 
-### CAPÍTULO II. De los Servidores Públicos
+### CAPÍTULO I. De las Infracciones y Sanciones
 
 ###### ARTÍCULO 39.
 
@@ -1061,9 +1145,11 @@ I. Amonestación; y
 
 II. Multa de 30 a 180 días de salario percibido por el infractor. Si se tratase de jornalero, obrero o no asalariado, la multa será de un día de su jornal, salario o ingreso diario; la que podrá ser triplicada en caso de reincidencia.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 41.
 
-la aplicación de las sanciones estará debidamente fundada y motivada y será independiente de la aplicación de otras sanciones de índole civil o penal a que hubiere lugar. Tratándose de amonestación, el encargado de realizarla será el titular de la Dirección General de Atención integral a las Personas Adultas Mayores, quien también podrá solicitar el arresto administrativo a la autoridad competente.
+La aplicación de las sanciones estará debidamente fundada y motivada y será independiente de la aplicación de otras sanciones de índole civil o penal a que hubiere lugar. Tratándose de amonestación, el encargado de realizarla será el titular del Instituto, quien también podrá solicitar el arresto administrativo a la autoridad competente.
 
 ###### ARTÍCULO 42.
 
@@ -1077,7 +1163,7 @@ III. Las condiciones socioeconómicas del infractor; y
 
 IV. Si la conducta del infractor implica reincidencia.
 
-### CAPÍTULO III. Del Procedimiento
+### CAPÍTULO II. De los Servidores Públicos
 
 ###### ARTÍCULO 43.
 
@@ -1085,51 +1171,71 @@ Para los efectos de las responsabilidades a que alude este Capítulo se reputar�
 
 El incumplimiento a las funciones y atribuciones que establece la presente Ley, se sujetará a lo dispuesto en el Capítulo XVI llamado “de la Responsabilidad de los Servidores Públicos” de la Constitución Política del Estado de Aguascalientes.
 
-### CAPÍTULO IV. Del Recurso de Revisión
+### CAPÍTULO III. Del Procedimiento
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 44.
 
-Corresponderá a la Dirección General de Atención Integral de las Personas Adultas Mayores de la Secretaría de Desarrollo Social, realizar las investigaciones que estén dirigidas a conocer de los casos, de abandono, desamparo, marginación, abuso, explotación, violencia y discriminación, que afecten a los adultos mayores, ejecutando las medidas necesarias para su adecuada protección.
+Corresponderá al Instituto, realizar las investigaciones que estén dirigidas a conocer de los casos, de abandono, desamparo, marginación, abuso, explotación, violencia y discriminación, que afecten a los adultos mayores, ejecutando las medidas necesarias para su adecuada protección.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 45.
 
-Toda persona que tenga conocimiento de que una persona adulta mayor se encuentra en cualquiera de los casos mencionados en el Artículo que precede, deberá comunicarlo en forma inmediata a la Dirección General, sin perjuicio del derecho que le corresponde a la persona afectada, de hacerlo personalmente.
+Toda persona que tenga conocimiento de que una persona adulta mayor se encuentra en cualquiera de los casos mencionados en el Artículo que precede, deberá comunicarlo en forma inmediata al Instituto, sin perjuicio del derecho que le corresponde a la persona afectada, de hacerlo personalmente.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 46.
 
-La Dirección General, a petición de parte o de oficio, conocerá de los casos a que se refiere el Artículo 44 de esta Ley. A partir del conocimiento o de la detección, la Dirección General, dispondrá de un plazo no mayor de cinco días para realizar las investigaciones pertinentes,
+El Instituto, a petición de parte o de oficio, conocerá de los casos a que se refiere el Artículo 44 de esta Ley. A partir del conocimiento o de la detección, el Instituto, dispondrá de un plazo no mayor de cinco días para realizar las investigaciones pertinentes.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 47.
 
-Para determinar si la persona adulta mayor ha sido víctima de abandono, desamparo, marginación, abuso, explotación, violencia o discriminación, la Dirección General, se auxiliará, en su caso, con la práctica de los exámenes médicos o psicológicos necesarios.
+Para determinar si la persona adulta mayor ha sido víctima de abandono, desamparo, marginación, abuso, explotación, violencia o discriminación, el Instituto se auxiliará, en su caso, con la práctica de los exámenes médicos y/o psicológicos necesarios.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 48.
 
-Para la investigación de los casos anteriores, la Dirección General, realizará todas las acciones conducentes para el esclarecimiento del caso y solicitará, cuando lo considere, necesario y bajo su responsabilidad, el auxilio de la fuerza pública para garantizar la seguridad en la práctica de sus diligencias.
+Para la investigación de los casos anteriores, el Instituto realizará todas las acciones conducentes para el esclarecimiento del caso y solicitará, cuando lo considere, necesario y bajo su responsabilidad, el auxilió de la fuerza pública para garantizar la seguridad en la práctica de sus diligencias.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 49.
 
-En caso de oposición de particulares para que se ejecute una medida de protección a una persona adulta mayor o de investigación de un posible caso de abandono, abuso, explotación, violencia o discriminación, la Dirección General aplicará las sanciones contempladas en la presente Ley.
+En caso de oposición de particulares para que se ejecute una medida de protección a una persona adulta mayor o de investigación de un posible caso de abandono, abuso, explotación, violencia o discriminación, el Instituto aplicará las sanciones contempladas en la presente Ley.
 
 ###### ARTÍCULO 50.
 
 Efectuada la investigación, si resultaren ciertos los hechos denunciados, el presunto infractor será citado para que en un plazo no mayor de diez días, contados a partir del día siguiente a aquél en que le sea notificada la denuncia, comparezca a contestar por escrito lo que a su derecho convenga, ofreciendo las pruebas que estime convenientes y formulando sus alegatos, la notificación se le hará en forma personal, por medio de un oficio, en el que se indicará la infracción que se le impute y los actos constitutivos de la misma.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 51.
 
-Transcurrido el término señalado en el Artículo anterior, si el presunto infractor hubiese ofrecido pruebas, la Dirección General fijará un plazo que no excederá de diez días para que las mismas sean recibidas o perfeccionadas.
+Transcurrido el término señalado en el Artículo anterior, si el presunto infractor hubiese ofrecido pruebas, el Instituto fijará un plazo que no excederá de diez días para que las mismas sean recibidas o perfeccionadas.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 52.
 
-Concluido el período de recepción de pruebas, en el supuesto de que el presunto responsable no comparezca o no ofrezca las pruebas, la Dirección General, emitirá resolución en un término no mayor de diez días, determinando si procede o no la tutela de la persona adulta mayor y la aplicación de la sanción que corresponda al presunto responsable, de acuerdo a lo establecido en los Artículos 39 y 40 de la presente Ley.
+Concluido el período de recepción de pruebas, en el supuesto de que el presunto responsable no comparezca o no ofrezca las pruebas, el Instituto emitirá resolución en un término no mayor de diez días, determinando sí procede o no la tutela de la persona adulta mayor y la aplicación de la sanción que corresponda al presunto responsable, de acuerdo a lo establecido en los Artículos 39 y 40 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 53.
 
-Como medida de protección, se podrá separar preventivamente a la persona adulta mayor de su hogar, cuando a criterio de la Dirección General, existan motivos fundados que hagan presumir un peligro inmediato e inminente a su salud o seguridad.
+Como medida de protección, se podre separar preventivamente a la persona adulta mayor de su hogar cuando, a criterio del Instituto, existan motivos fundados que hagan presumir un peligro inmediato e inminente a su salud o seguridad.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 54.
 
-Para los efectos del Artículo anterior, la Dirección General podrá canalizar a los adultos mayores a los establecimientos de asistencia social a que se hace referencia en esta Ley, hasta en tanto se resuelva la situación que originó la ejecución de esta medida. Si el caso lo amerita, dará inmediata vista al Ministerio Público para su intervención legal.
+Para los efectos del Artículo anterior, el Instituto podrá canalizar a los adultos mayores a los establecimientos de asistencia social a que se hace referencia en esta Ley, hasta en tanto se resuelva la situación que originó la ejecución de esta medida. Si el caso lo amerita, dará inmediata vista al Ministerio Público para su intervención legal.
 
 ###### ARTÍCULO 55.
 
@@ -1142,6 +1248,8 @@ Los procedimientos se regirán conforme a los principios de inmediatez, concentr
 ###### ARTÍCULO 57.
 
 Si la queja o denuncia presentada fuera competencia de otra autoridad, se acusará recibo al denunciante, pero no admitirá la instancia y la turnará a la autoridad competente para su trámite y resolución, notificándole tal hecho al denunciante, mediante acuerdo fundado y motivado.
+
+### CAPÍTULO IV. Del Recurso de Revisión
 
 ###### ARTÍCULO 58.
 
@@ -1332,3 +1440,49 @@ P.O. 18 DE ABRIL DE 2022.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 187.- SE EXPIDE LA LEY DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS ADULTAS MAYORES; SE REFORMAN, ADICIONAN Y SE DEROGAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado deberá nombrar al Director General del Instituto Aguascalentense de las Personas Adultas Mayores a más tardar dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para el inicio de actividades del Instituto Aguascalentense de las Personas Adultas Mayores, su Junta de Gobierno deberá quedar instalado a más tardar dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Junta Directiva del Instituto Aguascalentense de las Personas Adultas Mayores, deberá expedir su Reglamento Interior dentro de los ciento veinte días siguientes al de su instalación.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado o la persona titular de la Dirección General del Instituto Aguascalentense de las Personas Adultas Mayores, según corresponda, llevarán a cabo las gestiones necesarias para garantizar el funcionamiento y operación de dicho Organismo Descentralizado.
+
+###### ARTÍCULO SEXTO.
+
+Los Poderes Legislativo y Ejecutivo del Estado de Aguascalientes realizarán, en el ámbito de sus competencias, las asignaciones presupuestales que resulten necesarias, a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se deberá llevar a cabo la inscripción del Instituto Aguascalentense de las Personas Adultas Mayores en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante la Unidad encargada del Registro Público de la Propiedad y del Comercio del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+A la entrada en vigor del presente Decreto, en caso de ser necesario, se realizarán las transferencias de personal, de recursos financieros y materiales de una Dependencia a este Organismo Descentralizado, a través de los acuerdos administrativos que según procedan. Los acuerdos administrativos, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por aquella Dependencia y esta Entidad.
+
+Para efecto de lo anterior, la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado, deberán de coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO NOVENO.
+
+Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través de las autoridades competentes, todos aquello (sic) asuntos, actos y procedimientos necesarios.
+
+###### ARTÍCULO DÉCIMO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
