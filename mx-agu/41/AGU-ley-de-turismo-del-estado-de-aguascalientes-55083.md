@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-turismo-del-estado-de-aguascalientes-55083"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2021-05-24"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -49,41 +49,65 @@ LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
 La presente Ley es de orden público, interés social y tiene como objeto regular la organización, fomento y desarrollo de la actividad turística, correspondiendo su aplicación al Poder Ejecutivo, por conducto del titular de la Secretaría de Turismo.
 
-Para tal efecto, se atenderá la competencia y coordinación con el Gobierno Federal y Municipal, así como de otras entidades federativas que, en su caso se requiera, considerando a los sectores privado y social de la población.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Para tal efecto, se atenderá la competencia y coordinación con los Gobiernos Federal, Estatales y Municipales que, en su caso se requieran, así como con el Buró de Congresos y Visitantes de Aguascalientes, considerando a los sectores privado y social de la población.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 2°.
 
-Para los efectos de esta Ley, se entenderá como:
+Para los efectos de esta Ley, se entenderá por:
 
-Actividad turística: La que realizan las personas físicas o morales encaminadas a invertir, desarrollar y comercializar los destinos y atractivos turísticos, así como la prestación de los servicios necesarios y vinculados al turismo.
+I. Actividad turística: A la que realizan las personas físicas o morales encaminadas a invertir, desarrollar y comercializar los destinos y atractivos turísticos, así como la prestación de los servicios necesarios y vinculados al turismo.
 
-Prestador de Servicios Turísticos: La persona física o moral que habitualmente proporcione, intermedie o contrate con el turista, la prestación de los servicios a que se refiere esta Ley.
+II. Buró: Al Organismo Descentralizado de la Administración Pública Estatal denominado Buró de Congresos y Visitantes de Aguascalientes.
 
-Estado: El Estado de Aguascalientes.
+III. Congresos: A la reunión de trabajo que congrega un número de personas en un lugar generando derrama económica para el destino sede.
 
-Procuraduría: La Procuraduría Estatal de Protección al Ambiente.
+IV. Destino turístico: A la zona o área geográfica que es visitada por el turista y que cuenta con atractivos turísticos.
 
-Secretaría: La Secretaría de Turismo del Estado.
+V. Estado: Al Estado de Aguascalientes.
 
-Secretario: El Secretario Estatal de Turismo.
+VI. Oferta turística: Al conjunto de atractivos culturales, naturales, históricos y monumentales, productos y servicios turísticos, zonas, destinos y sitios turísticos, así como los accesos a la entidad que se ponen a disposición del turista.
 
-Sector: El conjunto de organismos públicos, privados y sociales que, por sus funciones y objetivos, están vinculados al turismo.
+VII. Prestador de Servicios Turísticos: A la persona física o moral que habitualmente proporcione, intermedie o contrate con el turista, la prestación remunerada de los servicios que ofrece el sector turístico.
 
-Turismo: La actividad que se presta cuando uno o más individuos se trasladan a uno o más sitios diferentes de su residencia habitual, con el propósito de recreación, salud, descanso, trabajo, deporte, ocio, religión o cultura, creando con esto beneficios económicos para la región, al consumir bienes y servicios bajo cualquiera de las modalidades que prevé la presente Ley.
+VIII. Procuraduría: A la Procuraduría Estatal de Protección al Ambiente.
 
-Turista: La persona que viaja desplazándose, por un período mayor de veinticuatro horas, fuera de su lugar de residencia habitual, y que utilice alguno de los servicios a que se refiere esta Ley.
+IX. Secretaría: A la Secretaría de Turismo del Estado.
 
-Visitante: La persona que se desplaza de su lugar habitual de residencia, por un período menor a veinticuatro horas, utilizando alguno de los servicios a que se refiere esta Ley.
+X. Secretario: Al Titular de la Secretaría de Turismo.
+
+XI. Sector empresarial: Al segmento en el que se divide la actividad económica y productiva de la sociedad. Para efectos de esta Ley se refiere al sector de empresas prestadoras de servicios relacionados con el turismo.
+
+XII. Sector turístico: Al conjunto de organizaciones públicas, privadas y sociales, cuya actividad principal esté enfocada al turismo o turista.
+
+XIII. Turismo: A la actividad que se presta cuando uno o más individuos se trasladan a uno o más sitios diferentes de su residencia habitual, con el propósito de recreación, salud, descanso, trabajo, deporte, ocio, religión o cultura, creando con esto beneficios económicos para la región, al consumir bienes y servicios bajo cualquiera de las modalidades que prevé la presente Ley.
+
+XIV. Turista: A la persona que viaja desplazándose temporalmente fuera de su lugar de residencia, y que utilice alguno de los servicios turísticos a que se refiere esta Ley.
+
+XV. Visitante: A la persona que se desplaza de su lugar habitual de residencia, sin pernoctar, utilizando alguno de los servicios turísticos a que se refiere esta Ley.
 
 ###### Artículo 3°.
 
 Para efectos de esta Ley, son autoridades en materia de turismo:
 
-I. El Gobernador del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-II. La Secretaría de Turismo del Estado; y
+I. El Poder Ejecutivo del Estado de Aguascalientes;
 
-III. Los Ayuntamientos que integran el Estado, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+II. La Secretaría de Turismo del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+III. Los Ayuntamientos que integran el Estado, en el ámbito de su competencia; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IV. El Buró.
 
 ###### Artículo 4°.
 
@@ -105,7 +129,9 @@ VII. Propiciar la planificación y programación del desarrollo turístico de la
 
 VIII. Establecer las bases para la coordinación con las entidades federativas y los municipios, para la aplicación de esta Ley, en términos de la legislación federal vigente;
 
-IX. Fijar las bases para la participación del sector privado y social en la actividad turística;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Fijar las bases para la participación conjunta con el Buró, los sectores privado y social en la actividad turística y las diversas acciones que se diseñen para alentar al turismo local;
 
 X. Establecer las medidas pertinentes para lograr que el Gobierno del Estado y los ayuntamientos cuenten con mayores recursos para impulsar el desarrollo turístico;
 
@@ -141,7 +167,9 @@ V. Realizar y mantener actualizado el inventario de las zonas de interés turís
 
 VI. Establecer y operar el Registro Estatal de Turismo;
 
-VII. Coadyuvar en las acciones de los sectores social y privado para la prestación de servicios turísticos;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Gestionar a través del Buró el destino turístico como sede para la realización de congresos, convenciones, exposiciones y reuniones en general, con la finalidad de generar mayor ocupación hotelera y estadía promedio;
 
 VIII. Planear y evaluar la promoción nacional e internacional de los recursos y los centros y zonas turísticas del Estado, en coordinación con el Consejo Consultivo Estatal de Turismo;
 
@@ -303,17 +331,23 @@ IV.- Las demás acciones que sean necesarias para proteger eficientemente los de
 
 Los prestadores de servicios turísticos tendrán los siguientes derechos:
 
-I. Ser incluidos en los catálogos, directorios, guías y programas que elabore la Secretaría con fines promocionales, informativos, estadísticos o de registro administrativo, por sí misma o en colaboración con otras instituciones, públicas o privadas, sin más trámite que cumplir con los requisitos legales establecidos para el efecto;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I. Ser incluidos en los catálogos, directorios, guías y programas que elaboren las autoridades con fines promocionales, informativos, estadísticos o de registro administrativo, por sí misma o en colaboración con otras instituciones, públicas o privadas, sin más trámite que cumplir con los requisitos legales establecidos para el efecto;
 
 II. Adquirir el reconocimiento de la categoría que corresponda a la calidad de sus servicios, en el ámbito de la competencia estatal;
 
 III. Recibir la información y asesoría técnica de la Secretaría, para elevar la calidad de sus servicios;
 
-IV. Participar en los programas de promoción y de fomento que ejecute la Secretaría, así como las diversas dependencias y organismos auxiliares del Ejecutivo del Estado, sin más trámite que cumplir con los requisitos fijados por los ordenamientos legales que los establecen;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Participar en los programas de promoción y de fomento que ejecute la Secretaría y el Buró, así como las diversas dependencias y entidades del Poder Ejecutivo del Estado, sin más trámite que cumplir con los requisitos fijados por los ordenamientos legales que los establecen;
 
 V. Recibir estímulos y apoyos de la Secretaría en el caso de que mejoren objetivamente los servicios turísticos;
 
-VI. Ser considerados en las estrategias de relaciones públicas, difusión y promoción turística de la Secretaría, tanto a nivel nacional como en el extranjero;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Ser considerados en las estrategias de relaciones públicas, difusión y promoción turística de la Secretaría y del organismo responsable de la promoción turística, tanto a nivel nacional como en el extranjero;
 
 VII. Recibir servicios de vinculación y facilitación en los procesos de realización de trámites para la instalación y operación de negocios, ante las autoridades competentes;
 
@@ -339,11 +373,15 @@ II. Anunciar ostensiblemente en los lugares de acceso al establecimiento, sus pr
 
 III. Expedir las facturas y comprobantes que amparen el cobro de los servicios prestados;
 
-IV. Colaborar con la Secretaría y los Ayuntamientos en los programas de promoción y fomento del turismo, sujetándose a las políticas estatales y nacionales de fomento al turismo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Colaborar con la Secretaría, los Ayuntamientos y el Buró, en los programas de promoción y fomento del turismo;
 
 V. Garantizar ante la Secretaría el cumplimiento de las condiciones en que ofrezcan los servicios turísticos, mediante el otorgamiento de fianzas y la contratación de los seguros que se requieran según la naturaleza del servicio, en los términos de las leyes aplicables;
 
-VI. Proporcionar a la Secretaría los datos e informes que se les requiera, así como el apoyo, auxilio y facilidades para la promoción turística en la Entidad;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Proporcionar a las autoridades competentes los datos e informes que se les requieran, así como el apoyo, auxilio y facilidades para la promoción turística en la Entidad;
 
 VII. Capacitar a sus trabajadores con base en los programas autorizados;
 
@@ -359,7 +397,9 @@ XII. Atender las recomendaciones que formulen las dependencias competentes en ma
 
 XIII. Garantizar el fácil acceso y un trato equitativo para las personas con discapacidad y personas de la tercera edad;
 
-XIV. Proporcionar la información que les sea requerida por la Secretaría en los formatos o medios que ella misma establezca, necesaria para la elaboración de la estadística sobre el comportamiento de la actividad turística;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XIV. Proporcionar la información que les sea requerida por la Secretaría y/o por el organismo responsable de la promoción turística, necesaria para la elaboración de la estadística sobre el comportamiento de la actividad turística;
 
 XV. Inscribirse en el Registro Estatal de Turismo e informar cuando deje de prestar el servicio dentro de los treinta días siguientes a que esto ocurra; así como dar aviso de cualquier modificación en los datos de su registro;
 
@@ -407,9 +447,17 @@ A) El Gobierno del Estado:
 
 I. La Secretaría;
 
-II. Las demás dependencias y organismos auxiliares del Poder Ejecutivo cuya competencia se relacione con la atención, seguridad y auxilio al turista; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-III. Fideicomisos públicos que tengan por objeto la promoción, planeación y desarrollo del turismo en el Estado.
+II. Las demás dependencias y organismos auxiliares del Poder Ejecutivo cuya competencia se relacione con la atención, seguridad y auxilio al turista;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+III. Fideicomisos públicos que tengan por objeto la promoción, planeación y desarrollo del turismo en el Estado; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IV. El Buró.
 
 B) Los Ayuntamientos del Estado:
 
@@ -443,23 +491,41 @@ Los Consejos Consultivos son los órganos de consulta directa en materia turíst
 
 El Consejo Estatal de Turismo se integra por:
 
-I. El Gobernador del Estado, quien podrá designar un representante, y contará con voto de calidad;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-II. El Titular de la Secretaría de Desarrollo Económico;
+I. La persona Titular del Poder Ejecutivo del Estado, quien podrá designar un representante, y contará con voto de calidad;
 
-III. El Titular de la Secretaría de Turismo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-IV. El Titular de la Secretaría de Planeación y Desarrollo Regional;
+II. La persona Titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
-V. El Presidente de la Comisión que entre sus atribuciones tenga conocer de los asuntos en materia de turismo del H. Congreso del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VI. Un representante de cada uno de los Municipios del Estado, quién será designado por el H. Ayuntamiento correspondiente;
+III. La persona Titular de la Secretaría de Turismo;
 
-VII. Un representante de cada una de las cámaras, asociaciones, agrupaciones o cualquier entidad relacionada con el turismo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. Un representante de los sindicatos obreros y agrupaciones campesinas; y
+IV. La persona Titular de la Secretaría de Planeación, Participación y Desarrollo;
 
-IX. Un representante de las instituciones educativas relacionadas o vinculadas con el sector turismo.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+V. La persona Titular del Buró de Congresos y Visitantes de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VI. La persona que presida la Comisión que entre sus atribuciones tenga conocer de los asuntos en materia de turismo del H. Congreso del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Una persona representante de cada uno de los Municipios del Estado, quién será designado por el H. Ayuntamiento correspondiente;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Una persona representante de las cámaras, asociaciones, agrupaciones o cualquier entidad relacionada con el turismo; designadas por el Titular del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Una persona representante de las instituciones educativas relacionadas o vinculadas con el sector turismo.
 
 Las resoluciones se aprobarán por mayoría simple. El Consejo Estatal de Turismo podrá, de acuerdo con el asunto de que se trate, invitar a las personas e instituciones que estime conveniente, siempre y cuando sea de su interés, competencia o aporten alternativas para su desahogo y solución.
 
@@ -653,7 +719,11 @@ Además recomendarán y procurarán que los sectores social y privado participen
 
 ### CAPITULO I. De la Planificación de la Actividad Turística
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ### CAPITULO II. De la Promoción y Fomento a la Actividad Turística
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ## TITULO CUARTO. DE LA PLANIFICACION, DESARROLLO Y FOMENTO DEL TURISMO
 
@@ -661,15 +731,17 @@ Además recomendarán y procurarán que los sectores social y privado participen
 
 ###### Artículo 49.
 
-En la planeación, promoción y fomento del turismo, corresponde a la Secretaría proteger, mejorar, incrementar y difundir los atractivos turísticos del Estado a nivel nacional e internacional.
+En la planeación, promoción y fomento del turismo, corresponde a la Secretaría y al Buró, en el ámbito de su competencia, proteger, mejorar, incrementar y difundir los atractivos turísticos del Estado a nivel nacional e internacional.
 
 ###### Artículo 50.
 
 Las dependencias y entidades de la administración pública estatal y de los municipios, participarán en la planeación, promoción y fomento del turismo en los términos de esta Ley de conformidad con los acuerdos y convenios que al efecto se suscriban.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 51.
 
-Se considera de interés público prioritario, la formulación y adecuación periódica de un Programa Estatal de Turismo, cuya integración estará a cargo de la Secretaría, atendiendo las propuestas y recomendaciones de los Consejos Consultivos de Turismo. El programa tendrá por objeto fijar los principios normativos fundamentales para la planeación, fomento y desarrollo del turismo en el Estado, así como asegurar la congruencia entre los propósitos y las acciones en materia turística, mediante la planeación, programación, presupuestación y evaluación de las actividades correspondientes.
+Se considera de interés público prioritario, la formulación y adecuación periódica de un Programa Estatal de Turismo, cuya integración estará a cargo de la Secretaría, atendiendo las propuestas y recomendaciones del Buró y de los Consejos Consultivos de Turismo. El programa tendrá por objeto fijar los principios normativos fundamentales para la planeación, fomento y desarrollo del turismo en el Estado, así como asegurar la congruencia entre los propósitos y las acciones en materia turística, mediante la planeación, programación, presupuestación y evaluación de las actividades correspondientes.
 
 La Secretaría cuidará que el Programa Estatal de Turismo sea congruente con los lineamientos establecidos por el Plan Nacional de Desarrollo, el Programa Nacional de Turismo, el Plan Estatal de Desarrollo y otros instrumentos de planeación de corto, mediano o largo plazo que sean de observancia obligatoria.
 
@@ -681,31 +753,39 @@ El Programa Estatal de Turismo deberá contener un diagnóstico y prospectiva de
 
 El Programa Estatal de Turismo y sus adecuaciones, previa aprobación por parte del Ejecutivo del Estado, se publicará en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 54.
 
-La Secretaría evaluará, cuando menos una vez al año, el seguimiento del Programa Estatal de Turismo, con la participación de los Consejos Consultivos de Turismo.
+La Secretaría evaluará, cuando menos una vez al año, el seguimiento del Programa Estatal de Turismo, con la participación del Buró y de los Consejos Consultivos de Turismo.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 55.
 
-La Secretaría, a efecto de establecer una adecuada organización a nivel estatal, coordinará sus programas con los ayuntamientos de la entidad y los Consejos Consultivos de Turismo, dando la participación que corresponda a las dependencias y entidades paraestatales de la Federación y del Estado, así como a los demás integrantes del sector turístico.
+La Secretaría, a efecto de establecer una adecuada organización a nivel estatal, coordinará sus programas con los ayuntamientos de la entidad, con el Buró y con los Consejos Consultivos de Turismo, dando la participación que corresponda a las dependencias y entidades paraestatales de la Federación y del Estado, así como a los demás integrantes del sector turístico.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 56.
 
-La Secretaría participará y coadyuvará en los esfuerzos que realicen los gobiernos municipales, así como los sectores social y privado, dentro del proceso integral de planeación turística de cada ayuntamiento.
+La Secretaría y el Buró participarán y coadyuvarán, en el ámbito de sus competencias, en los esfuerzos que realicen los gobiernos municipales, así como los sectores social y privado, dentro del proceso integral de planeación turística de cada ayuntamiento.
 
 ### CAPITULO IV. Del Registro Estatal de Turismo
 
 ###### Artículo 57.
 
-La Secretaría elaborará el Programa Anual de Promoción Turística del Estado.
+El Buró, escuchando a la Secretaría elaborará el Programa Anual de Promoción Turística del Estado.
 
 ###### Artículo 58.
 
 La Secretaría, en coordinación con los organismos del sector turístico, será la encargada de asesorar, fomentar, promover y apoyar los proyectos de inversión turística que se pretendan realizar en la entidad, así mismo, se coordinará con las dependencias y entidades de los tres ámbitos de Gobierno, para la elaboración de estudios y proyectos para la creación de infraestructura de interés turístico.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 59.
 
-La Secretaría, con el apoyo del Consejo Consultivo Estatal de Turismo, promoverá ante los sectores público, social y privado, la creación de empresas dedicadas a la actividad turística, identificando las posibilidades de factibilidad económica y financiera para nuevos centros de desarrollo, buscando un balance con las necesidades específicas de la zona y la protección y conservación de los recursos naturales y culturales.
+La Secretaría, con el apoyo del Consejo Consultivo Estatal de Turismo y el Buró promoverá ante los sectores público, social y privado, la creación de empresas dedicadas a la actividad turística, identificando las posibilidades de factibilidad económica y financiera para nuevos centros de desarrollo, buscando un balance con las necesidades específicas de la zona y la protección y conservación de los recursos naturales y culturales.
 
 ###### Artículo 60.
 
@@ -731,17 +811,23 @@ La Secretaría colaborará con las dependencias y entidades que tengan a su carg
 
 Para efectos del Artículo anterior, la Secretaría difundirá por los medios de comunicación a su alcance, los atractivos turísticos del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 66.
 
-Para la promoción y fomento de los atractivos turísticos del Estado, la Secretaría podrá apoyar, coordinar y atraer, con la participación que corresponda a otras instituciones de los tres niveles de Gobierno y los demás integrantes del sector turístico, la organización de eventos deportivos, culturales, sociales, congresos y convenciones, ferias y exposiciones, y otros similares que generan flujos de turismo.
+Para la promoción y fomento de los atractivos turísticos del Estado, la Secretaría podrá apoyar al Buró en coordinar y atraer eventos deportivos, culturales, sociales, congresos y convenciones, ferias y exposiciones, y otros similares que generan flujos de turismo.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 67.
 
-La Secretaría promoverá la formación de patronatos y asociaciones para la organización de ferias, festividades y eventos de atracción turística, que no competan a otras instancias de gobierno, así como la de aquellos grupos constituidos específicamente para el fomento de turismo.
+La Secretaría promoverá la formación de patronatos y asociaciones para la organización de ferias, festividades y eventos de atracción turística, que no competan a otras instancias u organismos de gobierno, así como la de aquellos grupos constituidos específicamente para el fomento de turismo.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 68.
 
-Los patronatos, asociaciones, comités y demás organizaciones que se formen con el fin de promover y fomentar el turismo, recibirán apoyo y asesoría de la Secretaría, así como de las dependencias, entidades estatales y municipales.
+Los patronatos, asociaciones, comités y demás organizaciones que se formen con el fin de promover y fomentar el turismo, recibirán apoyo y asesoría de la Secretaría, del Buró, así como de las dependencias, organismos y entidades estatales y municipales.
 
 ###### Artículo 69.
 
@@ -751,25 +837,33 @@ La Secretaría celebrará convenios con los prestadores de servicios turísticos
 
 Las dependencias y entidades públicas estatales y municipales, deberán poner en conocimiento de la Secretaría, los proyectos turísticos de inversión nacional o extranjera que tengan interés en establecerse en la Entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 71.
 
-La Secretaría impulsará ante el Ejecutivo la celebración de acuerdos de colaboración con otras dependencias federales y estatales, así como con los gobiernos municipales y los demás integrantes del sector turístico, a fin de facilitar, multiplicar e intensificar las acciones de promoción turística.
+La Secretaría en coordinación con el Buró, impulsará ante el Poder Ejecutivo la celebración de acuerdos de colaboración con otras dependencias federales, estatales y municipales, y los demás integrantes del sector turístico, a fin de facilitar, multiplicar e intensificar las acciones de promoción turística.
 
 Asimismo, realizará campañas de publicidad turística de alto impacto, con objeto de proyectar una imagen positiva de los recursos, atractivos y servicios turísticos de la entidad.
 
 También emprenderá campañas orientadas al desarrollo de la cultura turística y conciencia entre la población de la importancia del turismo y del turista en la economía estatal.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 72.
 
-La Secretaría concertará ante la Secretaría de Turismo del Gobierno Federal el Consejo de Promoción Turística de México, la Iniciativa Privada y ante otros organismos nacionales e internacionales de promoción turística, la realización de campañas conjuntas de publicidad y difusión de las zonas, destinos, productos, atractivos y sitios turísticos del Estado.
+La Secretaría concertará, en conjunto con el Buró, ante las autoridades e instancias federales competentes, empresas del ramo y ante otros organismos nacionales e internacionales de promoción turística, la realización de campañas conjuntas de publicidad y difusión de las zonas, destinos, productos, atractivos y sitios turísticos del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 73.
 
-La Secretaría podrá asesorar a los particulares en las actividades publicitarias que realicen, proporcionándoles la información correspondiente, así como apoyarlos en sus promociones, mediante campañas participativas.
+La Secretaría y el Buró podrán asesorar a los particulares en las actividades publicitarias que realicen, proporcionándoles la información correspondiente, así como apoyarlos en sus promociones, mediante campañas participativas.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 74.
 
-Con la finalidad de promover y difundir los lugares históricos, las riquezas naturales, difundir las tradiciones, nuestra cultura, la gastronomía y el folklore, la Secretaría en coordinación con las demás autoridades competentes en la materia, promoverá y fomentará las acciones de personas físicas y morales, tanto públicas como privadas, nacionales y extranjeras para la realización de obras cinematográficas y televisivas.
+Con la finalidad de promover y difundir los lugares históricos, las riquezas naturales, difundir las tradiciones, nuestra cultura, la gastronomía y el folklore, el Buró, en coordinación con la Secretaría y las demás autoridades competentes en la materia, promoverá y fomentará las acciones de personas físicas y morales, tanto públicas como privadas, nacionales y extranjeras para la realización de obras cinematográficas y televisivas.
 
 ###### Artículo 75.
 
@@ -819,9 +913,11 @@ V. Cuadros informativos, mapas, guías y demás documentos y datos necesarios pa
 
 VI. Los demás aspectos que sean necesarios, a juicio de la Secretaría, para contar con un sistema completo y actualizado de información turística.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 79.
 
-Para efectos del Artículo anterior, la Secretaría deberá integrar, analizar, evaluar y difundir la información que recabe y, con base en ello, diseñar un programa permanente de difusión turística a nivel local, nacional e internacional.
+Para efectos del artículo anterior, la Secretaría deberá integrar, analizar, evaluar y difundir la información que recabe y, con base en ello, proponer al Buró, un programa permanente de difusión turística a nivel local, nacional e internacional.
 
 ###### Artículo 80.
 
@@ -1012,3 +1108,53 @@ P.O. 24 DE MAYO DE 2021.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrara en vigor el (sic) día siguiente de su publicación en el periodo Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 182.- SE EXPIDE LA LEY QUE CREA EL BURÓ DE CONGRESOS Y VISITANTES DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley que Crea el Centro de Ferias, Exposiciones y Convenciones de Aguascalientes, publicada en el Periódico Oficial del Estado el día 20 de marzo de 1988, mediante Decreto 61, así como todas sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado deberá nombrar al Director General del Buró de Congreso (sic) y Visitantes de Aguascalientes, a más tardar dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para el inicio de actividades del Buró de Congresos y Visitantes de Aguascalientes, su Consejo Directivo deberá quedar instalado a más tardar dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Directivo del Buró de Congresos y Visitantes de Aguascalientes, deberá expedir su Reglamento Interior dentro de los ciento veinte días siguientes al de su instalación.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado o la persona titular de la Dirección General del Buró de Congreso (sic) y Visitantes de Aguascalientes, según corresponda, llevarán a cabo las gestiones necesarias para garantizar el funcionamiento y operación de dicho Organismo Descentralizado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Poderes Legislativo y Ejecutivo del Estado de Aguascalientes realizarán, en el ámbito de sus competencias, las asignaciones presupuestales que resulten necesarias, a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Se deberá llevar a cabo la inscripción del Buró de Congreso (sic) y Visitantes de Aguascalientes en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante la Unidad encargada del Registro Público de la Propiedad y del Comercio del Estado.
+
+###### ARTÍCULO NOVENO.
+
+A la entrada en vigor del presente Decreto, en caso de ser necesario, se realizarán las transferencias de personal, de recursos financieros y materiales de una Dependencia a este Organismo Descentralizado, a través de los acuerdos administrativos que según procedan. Los acuerdos administrativos, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por la Dependencia que corresponda y la Entidad Paraestatal en cuestión.
+
+Para efecto de lo anterior, la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado, deberán de coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO DÉCIMO.
+
+Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través de las autoridades competentes, todos aquello (sic) asuntos, actos y procedimientos necesarios.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
