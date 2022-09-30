@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2022-09-05"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -221,7 +221,13 @@ VIII. Formar parte de un grupo parlamentario;
 
 IX. Ser integrante de comisiones o comités o bien, asociarse a sus trabajos;
 
-X. Los demás que les señale la Constitución, la ley y el reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+X. Contar con Firma Electrónica;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XI. Las demás que les señale la Constitución, la ley y el reglamento.
 
 ###### Artículo 29.
 
@@ -825,9 +831,13 @@ XVIII.- Poder otorgar de manera anual, en representación de la Legislatura, dur
 
 Cuando se considere que sea digno de reconocerse en el mismo año en que ya se hubiese otorgado dicho galardón, la Junta de Coordinación Política, mediante acuerdo, podrá entregar de manera excepcional la Orden Mexiquense de la Medalla de Honor "José María Luis Mora".
 
-> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XIX.- Las demás que le confieran la ley, el reglamento o la Asamblea.
+XIX. Validar el registro de la Firma Electrónica de las diputadas y diputados;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XX. Las demás que le confieran la Ley, el reglamento o la asamblea.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1075,7 +1085,9 @@ XXIX. Finanzas Públicas;
 
 XXX. Recursos Hidráulicos;
 
-XXXI. Apoyo y Atención al Migrante;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXXI. Apoyo y Atención a las Personas Migrantes;
 
 XXXII. Participación Ciudadana;
 
@@ -2522,3 +2534,21 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- El Presidente, los Vicepresidentes y el Secretario de la Junta de Coordinación Política designados en el primer período de sesiones del segundo año de ejercicio de la “LXI” Legislatura, concluirán su periodo el 05 de marzo del dos mil veintitrés.
+
+G.G. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 85.- POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 28, LA FRACCIÓN XIX DEL ARTÍCULO 62, Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 28 Y LA FRACCIÓN XX DEL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA EL ARTÍCULO 79, LA FRACCIÓN VI DEL ARTÍCULO 152, LA FRACCIÓN XXI DEL ARTÍCULO 160, EL ARTÍCULO 179, EL ARTÍCULO 180 Y EL ARTÍCULO 181; SE ADICIONA EL CAPÍTULO XV DENOMINADO "DE LA FIRMA ELECTRÓNICA" DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Notifíquese a la Secretaría de Administración y Finanzas del Poder Legislativo del Estado Libre y Soberano de México, para que, en un término de noventa días hábiles, después de su entrada en vigor, provea lo necesario para el cumplimiento del presente Decreto.
+
+G.G. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89.- POR EL QUE SE REFORMA LA FRACCIÓN XXXI DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; ASÍ COMO LA FRACCIÓN XXXI DEL ARTÍCULO 13 A, Y EL INCISO B) DE LA MISMA FRACCIÓN XXXI DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
