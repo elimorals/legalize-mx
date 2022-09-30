@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-planeacion-para-el-desarrollo-del-estado-de-145634"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2022-05-02"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 28 de diciembre de 2020.
 
@@ -65,7 +65,7 @@ LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO III (SIC). Sistema Estatal de Seguimiento y Evaluación
 
-## TÍTULO TERCERO. INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALlENTES
+## TÍTULO TERCERO. INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO I. Naturaleza Jurídica y Objeto
 
@@ -105,7 +105,9 @@ Las disposiciones de esta Ley son de orden público, interés social y de observ
 
 La presente Ley tiene por objeto establecer:
 
-I. Las bases para la integración y funcionamiento del Sistema Estatal de Planeación Democrática, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales ratificados por el Estado Mexicano;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I. Las bases para la integración y funcionamiento del Sistema Integral de Planeación para el Desarrollo del Estado de Aguascalientes que garantice la participación democrática, mediante un orden racional y sistemático, que comprende las materias de ordenamiento territorial, desarrollo social, desarrollo económico, sustentabilidad ambiental, coordinación metropolitana y regional, hacienda pública, con el propósito de lograr un desarrollo sostenible, la seguridad humana y la consolidación de los derechos sociales, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución Política del Estado de Aguascalientes y las leyes de la materia;
 
 II. La coordinación efectiva con los tres órdenes y poderes de gobierno, en el ámbito de competencia estatal y municipal que tenga con (sic) finalidad la planeación para el Estado;
 
@@ -115,13 +117,19 @@ IV. La equidad y justicia para el crecimiento de la economía y la competitivida
 
 V. Los fundamentos y las bases para coordinar y hacer congruentes las actividades de planeación nacional, mesoregional, interestatal, estatal, intrarregional y municipal;
 
-VI. Las bases y normas para el funcionamiento y operación del Instituto de Planeación del Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VII. Las bases para promover y fomentar la participación activa y responsable de la sociedad en la elaboración, ejecución y evaluación de los planes y programas a que hace referencia esta Ley.
+VI. Los instrumentos de planeación, información, concertación, programación presupuestal, evaluación y seguimiento, y de participación ciudadana para hacer efectivo el desarrollo social, económico, cultural, territorial y ambiental, que ubiquen a las personas en el centro de la gestión gubernamental;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VII. Las bases para promover y fomentar la participación activa y responsable de la sociedad, a través de Consejos Sectoriales del Gobierno del Estado, en la elaboración, ejecución y evaluación de los planes y programas a que hace referencia esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 3°.
 
-El Titular del Poder Ejecutivo del Estado, a través del IPLANEA, es el responsable de la conducción del desarrollo de la planeación y de su ejercicio democrático, al efecto proveerá lo necesario para instituir canales de participación en el proceso de planeación y para establecer relaciones equitativas con la federación y con los municipios del Estado.
+El Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes, es el responsable de la conducción del desarrollo de la planeación y de su ejercicio democrático, al efecto proveerá lo necesario para instituir canales de participación en el proceso de planeación y para establecer relaciones equitativas con la federación y con los municipios del Estado.
 
 Artículo 4°, Son autoridades, instancias u organismos encargados de la aplicación de esta Ley, en materia de planeación para el desarrollo, dentro de su ámbito de competencia:
 
@@ -129,7 +137,9 @@ I. El Titular del Poder Ejecutivo del Estado;
 
 II. El Congreso del Estado;
 
-III. El IPLANEA;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+III. Secretaría de Planeación, Participación y Desarrollo del Estado
 
 IV. El COPLADE y los órganos auxiliares que de él se deriven;
 
@@ -137,9 +147,17 @@ V. Los Municipios del Estado;
 
 VI. Las COPLADEMUN;
 
-VII. Las instancias de Planeación Regional; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. Las dependencias y entidades de la Administración Pública Estatal.
+VII. Las instancias de Planeación Regional;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Las dependencias y entidades de la Administración Pública Estatal, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IX. Los Consejos Sectoriales del Gobierno del Estado.
 
 ###### Artículo 5°.
 
@@ -155,9 +173,9 @@ III. Transparencia y Combate a la Corrupción: relativa a transparencia, fiscali
 
 IV. Igualdad sustantiva de derechos entre mujeres y hombres: como la garantía del ejercicio pleno de los derechos universales y la capacidad de hacerlos efectivos en la vida cotidiana de la ciudadanía;
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-V. Gobernanza y Participación Ciudadana: como la instauración y crecimiento de un Estado y una sociedad incluyente, en la que se hagan efectivos el acceso y la participación de todos los grupos y sectores vulnerables en cada uno de los aspectos de la vida social y estatal, mediante la apertura de espacios democráticos que sirvan de vía para ello para la consolidación del Sistema Estatal de Planeación Democrática, y
+V. Gobernanza y Participación Ciudadana: como la instauración y crecimiento de un Estado y una sociedad incluyente, en la que se hagan efectivos el acceso y la participación de todos los grupos y sectores vulnerables en cada uno de los aspectos de la vida social y estatal, mediante la apertura de espacios democráticos que sirvan de vía para ello para la consolidación del Sistema Integral de Planeación para el Desarrollo del Estado, y
 
 > <small>(ADICIONADA, P.O. 2 DE MAYO DE 2022)</small>
 
@@ -171,21 +189,27 @@ El lenguaje empleado en la presente Ley no busca generar ninguna distinción ni 
 
 Para efectos de esta Ley se entenderá por:
 
-l. COPLADE: Al Comité de Planeación para el Desarrollo del Estado de Aguascalientes;
+I. COPLADE: Al Comité de Planeación para el Desarrollo del Estado de Aguascalientes;
 
 II. COPLADEMUN: A la Comisión de Planeación para el Desarrollo Municipal, establecida por la Ley Municipal para el Estado de Aguascalientes;
 
 III. Decreto de Sectorización: Al Decreto que determina los ejes con base en los cuales se desarrollará el trabajo de planeación del Estado;
 
-IV. Director General: Al Titular de la Dirección General del Instituto de Planeación del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IV. Secretario: Al Titular de la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes;
 
 V. Indicadores: A la variable que establece una relación entre dos o más datos significativos de dominios semejantes o diversos y que proporciona información sobre el estado en que se encuentra una o más variables;
 
 VI. Indicadores Estratégicos: A aquellos indicadores que permiten conocer el estatus de la misión y visión de la gestión pública y su impacto social; es decir, son los pilares o factores clave que sustenten su razón de ser, pero sin ser limitativa. Es un término que expresa numéricamente el desempeño institucional o de un sector respecto a una actividad específica durante un periodo determinado;
 
-VII. IPLANEA: Al Instituto de Planeación del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. Junta de Gobierno: A la Junta de Gobierno del Instituto de Planeación del Estado de Aguascalientes;
+VII. SEPLAPDE: Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Consejos Sectoriales del Gobierno del Estado: A los colectivos de participación ciudadana, especializados por materia y gabinete, que interactúan con la Administración Pública Estatal en los términos establecidos en esta ley.
 
 IX. Ley: A la Ley de Planeación para el Desarrollo del Estado de Aguascalientes;
 
@@ -213,11 +237,15 @@ XX. Planeación Estratégica: A la planeación que se realiza a través de un pr
 
 XXI. Planeación Intrarregional: A la planeación que pueden hacer dos o más Municipios del Estado agrupados mediante el esquema de integración por regiones administrativas previo convenio de asociación y coordinación municipal;
 
-XXII. Planeación Participativa: A la planeación que involucra la participación activa y permanente de la ciudadanía en el desarrollo, planteamiento y seguimiento de la misma;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXII. Planeación Participativa: A la planeación que involucra la participación activa y permanente de la ciudadanía, a través de los Consejos Sectoriales del Gobierno del Estado, en el desarrollo, planteamiento y seguimiento de la misma;
 
 XXIII. Planeación Prospectiva: A la planeación que se realiza a través de una elección de un escenario futuro favorable, a partir de la visualización de varios escenarios proyectados que involucran la participación ciudadana, tomando como base un diagnóstico situacional;
 
-XXIV. Programa Sectorial: A los instrumentos de planeación estatal por un período de seis años, orientados en forma específica al desarrollo de las diversas actividades de la sociedad del Estado;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXIV. Programa Sectorial de Desarrollo: A los instrumentos de planeación estatal derivados del PDE, cuya temporalidad no debe exceder al plan sexenal, para cumplir con cada uno de los lineamientos orientados en forma específica y equilibrada entre los diferentes ejes de desarrollo público con las diversas actividades de la sociedad del Estado;
 
 XXV. Programación Basada en Resultados: A la metodología que transforma los lineamientos de la planeación y programación en objetivos, metas e indicadores concretos a desarrollarse en un año. La Programación Basada en Resultados obedece en específico a los Programas de Trabajo y Líneas de Acción contemplados dentro del Plan de Desarrollo del Estado, y define al responsable, temporalidad, alcances y recursos necesarios para su cumplimiento;
 
@@ -229,21 +257,57 @@ XXVIII. Región interestatal: Al territorio conexo conformado por parte de dos o
 
 XXIX. Reglamento: Al Reglamento de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes;
 
-XXX. Reglamento Interior: Al Reglamento Interior del Instituto de Planeación del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXX. Reglamento Interior: Al Reglamento Interior de la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes;
 
 XXXI. SESE: Al Sistema Estatal de Seguimiento y Evaluación;
 
-XXXII. SEPD: Al Sistema Estatal de Planeación Democrática;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXXIII. Sistema Estatal de Información Estadística y Geográfica: A las instituciones públicas, entidades particulares y grupos sociales interesados, organizados bajo una estructura conceptual predeterminada por el Instituto de Planeación del Estado de Aguascalientes, que permite mostrar la situación e interdependencia de los fenómenos económicos, demográficos y sociales, así como su relación con el medio físico y el espacio territorial, de conformidad con lo previsto en la Ley de Información Estadística y Geográfica del Estado de Aguascalientes;
+XXXII. SIPDE. Al Sistema Integral de Planeación para el Desarrollo del Estado, que es el conjunto de normas, procedimientos e instrumentos que dan un carácter institucional al proceso de planeación y evaluación para el desarrollo sustentable a corto, mediano y largo plazo del Estado de Aguascalientes, conforme a sus atribuciones y funciones constitucionales;
 
-XXXIV. SEPI: Al Sistema Estatal de Proyectos de Inversión; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXXV. Zona Metropolitana: Al conjunto de dos o más municipios donde se localiza una ciudad de cincuenta mil o más habitantes, cuya área urbana, funciones y actividades se comparten entre sí.
+XXXIII. SEOTPU: Sistema Estatal de Ordenamiento Territorial y Planeación Urbana;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXXIV. SEDUPE: Sistema Estatal de Desarrollo Urbano y Proyectos Estratégicos;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXXV. SEPE: Sistema Estatal de Planeación Estratégica;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXXVI. SEIEG: Sistema Estatal de Información Estadística y Geográfica;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXXVII. SEPPPI: Sistema Estatal de Programación Presupuestal y Proyectos de Inversión;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXXVIII. SEESI: Sistema Estatal de Evaluación y Seguimiento Institucional;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXXIX. Programa Institucional: Instrumento elaborado por cada ente de la administración pública, en el que se deberán especificar las acciones que contribuyan al cumplimiento de objetivos, estrategias y metas planteadas en los programas sectoriales de desarrollo;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XL. Región Intraestatal: Espacio comprendido entre dos o más municipios o al interior del territorio estatal que requiere la intervención gubernamental a través de políticas públicas, para poder ser planeado con base a las características de los fenómenos socioeconómicos, territoriales y/o urbanos que se toman en cuenta para una distribución geográfica armónica, a fin de ofrecer una mejor calidad de vida a la población; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XLI. Zona Metropolitana: Al conjunto de dos o más municipios donde se localiza una ciudad de cincuenta mil o más habitantes, cuya área urbana, funciones y actividades se comparten entre sí.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 8°.
 
-Es responsabilidad de las autoridades, instancias y organismos mencionados en esta Ley, en sus respectivos ámbitos de competencia, conducir la planeación para el desarrollo, fomentando la participación de los sectores público, social y privado, instituyendo para ello el SEPD.
+Es responsabilidad de las autoridades, instancias y organismos mencionados en esta Ley, en sus respectivos ámbitos de competencia, conducir la planeación para el desarrollo, garantizando la participación de los sectores público, social y privado, instituyendo para ello el SIPDE.
 
 ###### Artículo 9°.
 
@@ -251,33 +315,59 @@ Las autoridades estatales y municipales, en el ámbito de su competencia, deber�
 
 En materia de planeación del desarrollo, el Poder Ejecutivo del Estado y los Ayuntamientos, aplicarán las disposiciones de la presente Ley, en el ámbito de sus respectivas competencias.
 
-## TÍTULO SEGUNDO. SISTEMA ESTATAL DE PLANEACIÓN DEMOCRÁTICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+## TÍTULO SEGUNDO. SISTEMA INTEGRAL DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 10.
 
-El SEPD se conforma por las autoridades, instancias u organismos públicos citados en la presente Ley; planes y programas estatales y municipales que, organizados conforme a una estructura de coordinación permanente, hacen compatibles y aplicables los instrumentos, estrategias y políticas de planeación mediante la implementación de mecanismos que permitan la Planeación Participativa y Estratégica para el desarrollo del Estado y sus Municipios.
+El SIPDE, Sistema Integral de Planeación para el Desarrollo del Estado, es el conjunto de normas, procedimientos e instrumentos que dan un carácter institucional al proceso de planeación y evaluación para el desarrollo sustentable a corto, mediano y largo plazo del Estado de Aguascalientes, conforme a sus atribuciones y funciones constitucionales, y se encuentra conformado por seis sistemas estatales:
+
+I. SEOTPU: Sistema Estatal de Ordenamiento Territorial y Planeación Urbana;
+
+II. SEDUPE: Sistema Estatal de Desarrollo Urbano y Proyectos Estratégicos;
+
+III. SEPE: Sistema Estatal de Planeación Estratégica;
+
+IV. SEIEG: Sistema Estatal de Información Estadística y Geográfica;
+
+V. SEPPPI: Sistema Estatal de Programación Presupuestal y Proyectos de Inversión; y
+
+VI. SEESI: Sistema Estatal de Evaluación y Seguimiento Institucional.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 11.
 
-El SEPD estará coordinado por el IPLANEA y por los Municipios del Estado, en el ámbito de su competencia, en términos de lo dispuesto por la presente Ley.
+El SIPDE estará coordinado por la SEPLAPDE, en términos de lo dispuesto por la presente Ley.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 12.
 
-Dentro del SEPD, tendrá lugar la participación y consulta de la sociedad, con el propósito de que intervenga directamente en la elaboración, instrumentación, monitoreo, seguimiento y evaluación de los planes, programas y sus actualizaciones, en términos de esta Ley.
+Dentro del SIPDE, tendrá lugar la participación y consulta de la sociedad, a través de los Consejos Sectoriales del Gobierno del Estado, con el propósito de que intervenga directamente en la elaboración, instrumentación, monitoreo, seguimiento y evaluación de los planes, programas y sus actualizaciones, en términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 13.
 
-Para los efectos de la debida integración del SEPD, el IPLANEA emitirá criterios de carácter general y vigilará su cumplimiento, a fin de generar unidad, coordinación y congruencia en los procesos de planeación.
+Para los efectos de la debida integración del SIPDE, la SEPLAPDE emitirá criterios de carácter general y vigilará su cumplimiento, a fin de generar unidad, coordinación y congruencia en los procesos de planeación.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 14.
 
-El SEPD, contará con una infraestructura de soporte que estará conformada por el conjunto de herramientas necesarias para facilitar los procesos de diagnóstico y planeación a través de la integración, actualización, monitoreo, seguimiento y evaluación de los planes y programas de desarrollo.
+El SIPDE contará con una infraestructura de soporte, que estará conformada por el conjunto de herramientas necesarias para facilitar los procesos de diagnóstico y planeación a través de la integración, actualización, monitoreo, seguimiento y evaluación de los planes, programas y proyectos, en los diferentes ejes de planeación estratégica y programas sectoriales de desarrollo.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 15.
 
-En el Reglamento se precisarán las normas que regulen la organización y funcionamiento del SEPD.
+En el Reglamento se precisarán las normas que regulen la organización y funcionamiento del SIPDE y de los Sistemas Estatales que lo integran, así como de los Consejos Sectoriales del Gobierno del Estado.
 
 ### CAPÍTULO II. Comité de Planeación para el Desarrollo del Estado de Aguascalientes
 
@@ -285,19 +375,23 @@ En el Reglamento se precisarán las normas que regulen la organización y funcio
 
 El COPLADE es un órgano de consulta social que tiene por objeto el promover y coadyuvar en la formulación, actualización y evaluación del Plan de Largo Plazo para el Desarrollo del Estado, de los Programas Sectoriales y del PDE, buscando hacer compatibles a nivel local, los esfuerzos que realicen los Gobiernos Federal, Estatal y Municipales, tanto en el proceso de planeación, programación, evaluación e información, como en la ejecución de obras y la prestación de servicios públicos; propiciando la colaboración de los diversos sectores de la sociedad.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 17.
 
-Todos los ciudadanos podrán participar con sus opiniones y propuestas en las distintas etapas de la planeación estatal, intrarregional y municipal, a través de las mesas de trabajo y foros de consulta que sean convocados para tal efecto.
+Todos los ciudadanos podrán participar con sus opiniones y propuestas en las distintas etapas de la planeación estatal, intrarregional y municipal, a través de las herramientas digitales, mesas de trabajo y foros de consulta que sean convocados para tal efecto.
 
-Las organizaciones privadas y sociales legalmente constituidas podrán participar permanentemente en el proceso de la planeación, a través de su integración en el COPLADE y sus órganos auxiliares, así como en las COPLADEMUN.
+Las organizaciones privadas y sociales legalmente constituidas podrán participar permanentemente en el proceso de la planeación, a través de su integración en el COPLADE o sus órganos auxiliares, los Consejos Sectoriales, así como en los COPLADEMUN.
 
-El Titular del Poder Ejecutivo del Estado definirá en las disposiciones reglamentarias de esta ley, los mecanismos para hacer efectiva la participación de la sociedad en el COPLADE y sus órganos auxiliares; dichas disposiciones garantizarán que las propuestas de la sociedad sean consideradas para la elaboración de los instrumentos que conforman el SEPD.
+El Titular del Poder Ejecutivo del Estado definirá en las disposiciones reglamentarias de esta Ley, los mecanismos para hacer efectiva la participación de la sociedad en el COPLADE y sus órganos auxiliares; dichas disposiciones garantizarán que las propuestas de la sociedad sean consideradas para la elaboración de los instrumentos que conforman el SIPDE.
 
 ###### Artículo 18.
 
 El COPLADE se integrará de la siguiente manera:
 
-I. Presidente: el Director General;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I. Presidente: el Titular de la SEPLAPDE;
 
 II. En calidad de Vocales:
 
@@ -323,7 +417,9 @@ d) Los ciudadanos expertos que sean necesarios para el desahogo y análisis de c
 
 Los vocales podrán designar a un suplente que deberá recaer en el servidor público o colaborador, según sea el caso, de nivel jerárquico inferior inmediato al de él y participarán con voz y voto en las sesiones del COPLADE, quienes, según sea el caso, durarán en su cargo durante el tiempo en que desempeñen las funciones del puesto, para el caso de los invitados especiales solo tendrán derecho a voz.
 
-El COPLADE contará con un Secretario Técnico, quien será designado por el Director General de la estructura del IPLANEA.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+El COPLADE contará con un Secretario Técnico, quien será designado por el Secretario de la SEPLAPDE.
 
 ###### Artículo 19.
 
@@ -359,9 +455,11 @@ XII. Acordar el establecimiento de subcomités sectoriales, regionales y especia
 
 XIII. Las demás que establezcan otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 21.
 
-El Reglamento Interior y los acuerdos de creación de los subcomités del COPLADE, contendrán las disposiciones que normarán la organización, funcionamiento, formalidades, periodicidad y términos de la consulta y participación social en el SEPD.
+El Reglamento Interior y los acuerdos de creación de los subcomités del COPLADE, contendrán las disposiciones que normarán la organización, funcionamiento, formalidades, periodicidad y términos de la consulta y participación social en el SIPDE.
 
 ### CAPÍTULO III. Planeación para el Desarrollo
 
@@ -381,105 +479,159 @@ II. Formulación: definir prioridades, objetivos, metas, estrategias y acciones 
 
 III. Coproducción: contemplar los procesos de consulta pública y la participación activa y permanente de las diversas instancias y poderes de gobierno, así como de la sociedad organizada en la formulación y seguimiento de los planes y programas a través de las instancias de participación social a que se refiere la Ley;
 
-IV. Aprobación y publicación: ejecutar el proceso de aprobación y publicación de los planes y programas por parte del Titular de Ejecutivo del Estado con la intervención del IPLANEA, el COPLADE, el Congreso del Estado, así como a los Municipios les corresponda en términos de la Ley y el Reglamento;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-V. Instrumentación: implementar y ejecutar la programación institucional y la Programación Basada en Resultados, proyectos y acciones que hagan asequible lo plasmado en los planes y programas del SEPD;
+IV. Aprobación y publicación: ejecutar el proceso de aprobación y publicación de los planes y programas por parte del Titular de (sic) Ejecutivo del Estado con la intervención de la SEPLAPDE, el COPLADE, el Congreso del Estado, así como a los Municipios les corresponda en términos de la Ley y el Reglamento;
 
-VI. Monitoreo, seguimiento y evaluación: implementar y operar el SESE mediante un monitoreo periódico del avance y cumplimiento de metas y acciones; así como la comparación de resultados obtenidos con los esperados y la verificación de su impacto en términos de lo dispuesto por la Ley y la normatividad expresada en el Sistema de Evaluación del Desempeño; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+V. Instrumentación: implementar y ejecutar la programación institucional y la Programación Basada en Resultados, proyectos y acciones que hagan asequible lo plasmado en los planes y programas del SPIDE (SIC);
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VI. Monitoreo, seguimiento y evaluación: implementar y operar el SEESI mediante un monitoreo periódico del avance y cumplimiento de metas y acciones; así como la comparación de resultados obtenidos con los esperados y la verificación de su impacto en términos de lo dispuesto por la Ley y la normatividad expresada en el Sistema de Evaluación del Desempeño;
 
 VII. Actualización: adecuar los diversos instrumentos de planeación, dentro de los plazos contemplados por la Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 23 Bis.
+
+Los lineamientos para la formulación de los contenidos de los instrumentos de planeación serán establecidos por la SEPLAPDE y se considerarán al menos los siguientes apartados:
+
+I. Presentación;
+
+II. Fundamentación y alineación;
+
+III. Identificación de problemas públicos prioritarios en conjunto con la ciudadanía;
+
+IV. Diagnóstico y prospectiva;
+
+V. Visión, misión y objetivos;
+
+VI. Estrategia general y ejes de acción;
+
+VII. Políticas, programas, proyectos y acciones;
+
+VIII. Orientaciones presupuestales a corto plazo;
+
+IX. Normas generales e instrumentos de ejecución;
+
+X. Metas e indicadores para el seguimiento y evaluación, y
+
+XI. Anexo de Mecanismos de Participación
+
 ###### Artículo 24.
 
-El SEPI es el instrumento a través del cual se articulan, integran y evalúan, las propuestas de inversión promovidas por los poderes públicos en el Estado, Municipios y órganos constitucionales autónomos. Su objetivo es fortalecer la toma de decisiones sobre las inversiones públicas, al contar con una cartera de proyectos que tengan un impacto social, ambiental o económico positivo, que se alineen a los objetivos señalados en el PDE y objetivos prioritarios definidos por el Titular del Poder Ejecutivo del Estado.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 25.
 
-El SEPD contará con los siguientes planes y programas:
+El SIPDE contará con los siguientes planes y programas:
 
-I. En el ámbito estatal:
+a) Plan de Largo Plazo para el Desarrollo del Estado;
 
-a) PDE;
+b) PDE; y
 
-b) Plan de Largo Plazo para el Desarrollo del Estado;
+c) Programas Sectoriales de Desarrollo y los proyectos que de éstos se deriven.
 
-c) Programas Sectoriales;
+Las propuestas de actualización o modificación de los planes y/o programas, que forman parte del SIPDE, se realizarán en términos de lo establecido en la presente Ley y al Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda del Estado.
 
-d) Programa Estatal de Ordenamiento Ecológico y Territorial; y
-
-e) Programa de Desarrollo de la Zona Metropolitana.
-
-Las propuestas de actualización o modificación de los planes y/o programas que forman parte del SEPD, se realizarán en términos de lo establecido en la presente Ley y atendiendo a las atribuciones de la Junta de Gobierno.
-
-II. En el ámbito municipal:
-
-a) Planes de Desarrollo Municipal;
-
-b) Programas de Desarrollo Intrarregional; y
-
-c) Programas derivados de los Planes de Desarrollo Municipal.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 26.
 
-El PDE es el instrumento de planeación de la gestión del Poder Ejecutivo del Estado que deberá elaborarse a partir de una metodología de Planeación Estratégica y contendrá los objetivos, metas y estrategias que sirvan de base a sus actividades de forma que aseguren el cumplimiento del Plan de Largo Plazo para el Desarrollo del Estado.
+El PDE es el instrumento de planeación de la gestión del Poder Ejecutivo del Estado que deberá elaborarse a partir de una metodología de Planeación Estratégica y contendrá los objetivos, estrategias, acciones y metas que sirvan de base a sus actividades de forma que aseguren el cumplimiento del Plan de Largo Plazo para el Desarrollo del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 27.
 
-El PDE deberá indicar los Programas Sectoriales que de él se derivarán y tendrá una vigencia de seis años, debiendo ser publicado durante los primeros siete meses del primer año del ejercicio constitucional del Titular del Poder Ejecutivo del Estado, y actualizado durante el primer trimestre del cuarto año del ejercicio constitucional del Titular del Poder Ejecutivo del Estado; para lo cual se estará al procedimiento señalado en la presente Ley.
+El PDE deberá indicar los Programas Sectoriales que de él se deriven; cuya vigencia será a mediano plazo, para dar cumplimiento a éstos durante el mismo periodo gubernamental. Además, deberán publicarse durante los primeros siete meses del primer año del ejercicio constitucional del Titular del Poder Ejecutivo del Estado; y, en caso de que la actividad política pública así lo requiera, se podrán actualizar a más tardar durante el primer trimestre del cuarto año de cada gestión gubernamental; conforme al procedimiento señalado en la presente Ley.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 28.
 
 El Titular del Poder Ejecutivo del Estado, dentro de los treinta días siguientes a que haya sido publicado el PDE y su respectiva actualización, según corresponda, emitirá un Decreto de Sectorización, mediante el cual las dependencias y entidades de la Administración Pública Estatal se agruparán para trabajar por temas afines bajo la coordinación de una dependencia o entidad de la Administración Pública Estatal que se denominará dependencia o entidad coordinadora de sector. La sectorización deberá ser congruente con el PDE.
 
+Los Consejos Sectoriales del Gobierno del Estado se organizarán con los criterios de sectorización a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 29.
 
-El Titular del Poder Ejecutivo del Estado en la Iniciativa de Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal correspondiente, señalará la relación que guarda con los objetivos, metas y estrategias contenidos en el PDE.
+El Titular del Poder Ejecutivo del Estado en la Iniciativa de Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal correspondiente, señalará la relación que guarda con los objetivos, acciones, metas y estrategias contenidos en el PDE.
+
+> <small>[N. DE E. SE ADVIERTE QUE LA APLICACIÓN DECRETO NÚMERO 179 , PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2022, SE ATENDIÓ A LA LITERALIDAD DE SU PUBLICACIÓN OFICIAL, VÉASE PÁGINA 45.]</small>
 
 ###### Artículo 30.
 
 El Plan de Largo Plazo para el Desarrollo del Estado es el instrumento fundamental de la planeación que contendrá las prioridades y objetivos para el desarrollo de Estado por un período de al menos veinticinco años, establecerá los lineamientos para el desarrollo estatal y sectorial; sus previsiones se referirán al conjunto de la actividad económica, social, cultural, ambiental y territorial que permita regir la orientación del Plan y los programas de gobierno.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 Además de las precisiones y lineamientos señalados en el párrafo anterior, el Plan de Largo Plazo para el Desarrollo del Estado contendrá un análisis técnico, social, demográfico, económico y sostenible del Estado; así como el criterio para establecer a partir de una visión prospectiva, objetivos a mediano y largo plazo, un sistema de evaluación que contenga Indicadores Estratégicos que permitan dar seguimiento permanente al avance respecto de las prioridades y objetivos planteados.
 
-El Plan de Largo Plazo para el Desarrollo del Estado, será elaborado por el IPLANEA en coordinación con el COPLADE y validado por la Junta de Gobierno, para someterlo a la aprobación del Titular del Poder Ejecutivo del Estado, y remitido al Congreso del Estado para su análisis y opinión para su posterior publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-El Plan de Largo Plazo para el Desarrollo del Estado deberá ser evaluado y actualizado en el primer año del ejercicio constitucional del Titular de Poder Ejecutivo del Estado, procurando la alineación con el Plan Nacional de Desarrollo.
+El Plan de Largo Plazo para el Desarrollo del Estado, será elaborado por la SEPLAPDE en coordinación con el COPLADE y los Consejos Sectoriales del Gobierno del Estado, para someterlo a la aprobación del Titular del Poder Ejecutivo del Estado, y remitido al Congreso del Estado para su análisis y opinión, para su posterior publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 31.
 
-Los Programas Sectoriales son los instrumentos de planeación estatal con una vigencia de seis años, debiendo ser emitidos dentro de los treinta días siguientes a la publicación del PDE, orientados en forma específica al desarrollo de las diversas actividades de la sociedad del Estado; serán elaborados por los subcomités sectoriales del COPLADE, con la coordinación del IPLANEA y la intervención de la dependencia o entidad designada por el Titular del Poder Ejecutivo del Estado para coordinar las acciones de las demás dependencias y entidades integradas en un sector de desarrollo y de los Municipios de conformidad a sus competencias y atribuciones en materia de planeación.
+Los Programas Sectoriales de Desarrollo son los instrumentos de planeación estatal con una vigencia a mediano plazo, debiendo ser emitidos dentro de los sesenta días posteriores a la publicación del Decreto de Sectorización, orientados en forma específica al desarrollo de las diversas actividades de la sociedad del Estado; serán elaborados por los subcomités sectoriales del COPLADE, con la coordinación de la dependencia o entidad designada por el Titular del Poder Ejecutivo del Estado para coordinar las acciones de las demás dependencias y entidades integradas en un sector de desarrollo, con la intervención de la Secretaría de Planeación, Participación y Desarrollo del Estado y de los Municipios de conformidad a sus competencias y atribuciones en materia de planeación.
 
-Los Programas Sectoriales deberán ser actualizados dentro de los treinta días siguientes a la publicación de la actualización del PDE.
+Los Programas Sectoriales de Desarrollo podrán ser actualizados dentro de los treinta días siguientes a la publicación de la actualización del PDE; cuando así se requiera, para dar cumplimiento y resultados dentro del periodo constitucional del Poder Ejecutivo.
 
-Los Programas Sectoriales se elaborarán con la misma metodología establecida para el PDE y se sujetarán a los objetivos, directrices, políticas y prioridades contenidas en éste.
+Los Programas Sectoriales de Desarrollo se elaborarán con la misma metodología establecida para el PDE y se sujetarán a los objetivos, directrices, políticas y prioridades contenidas en éste.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 31 Bis.
+
+Los Programas Institucionales serán elaborados por los entes de la administración pública local; cuyo contenido deberá alinearse a las políticas, objetivos, estrategias y metas planteados en los programas sectoriales de desarrollo, con una vigencia correspondiente al período de cada administración pública estatal. Su revisión, modificación o actualización se realizará a los tres años de su expedición.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 32.
 
-El Programa Estatal de Ordenamiento Ecológico y Territorial es el instrumento rector de los sistemas estatales de planeación para el desarrollo urbano y ambiental del Estado; este programa se elaborará con base en el análisis, caracterización y aptitud del suelo, bajo criterios de sustentabilidad y tomando en consideración los aspectos económicos, ambientales, sociales y urbanos como líneas generales de estrategia; tendrá una duración de seis años y se publicará durante el primer semestre del primer año del ejercicio constitucional del Titular del Poder Ejecutivo del Estado, y se actualizará el primer semestre del cuarto año del ejercicio constitucional del Titular del Poder Ejecutivo del Estado; en su elaboración, los Municipios del Estado tendrán la intervención que les competa de conformidad a sus atribuciones en materia de planeación, especialmente en materia de suelo, autorizarán los usos del mismo, conforme a sus atribuciones constitucionales y de sus programas de desarrollo urbano.
+El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano es el instrumento primordial del Sistema Estatal de Ordenamiento Territorial y Planeación Urbana del Estado; este programa se elaborará con base en el análisis, caracterización y aptitud del suelo, bajo criterios de sustentabilidad y tomando en consideración los aspectos económicos, ambientales, sociales y urbanos como líneas generales de estrategia; tendrá un horizonte de planeación a veinticinco años y se publicará durante el primer año del ejercicio constitucional del Titular del Poder Ejecutivo del Estado, y se actualizará el primer semestre del cuarto año del ejercicio constitucional del Titular del Poder Ejecutivo del Estado; en su elaboración, los Municipios del Estado tendrán la intervención que les competa de conformidad a sus atribuciones en materia de planeación, especialmente en materia de suelo, autorizarán los usos del mismo, conforme a sus atribuciones constitucionales y de sus programas de desarrollo urbano.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 33.
 
-Los trabajos para la elaboración del Programa Estatal de Ordenamiento Ecológico y Territorial, serán coordinados por las Secretarías de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral, y de Sustentabilidad, Medio Ambiente y Agua, utilizando para ello una metodología de planeación prospectiva en la que se garantice la participación ciudadana agrupada en los diferentes sectores.
+Los trabajos para la elaboración del Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, serán coordinados por la Secretaría de Planeación, Participación y Desarrollo en conjunto con la Secretaría de Sustentabilidad, Medio Ambiente y Agua, utilizando para ello una metodología de planeación prospectiva en la que se garantice la participación ciudadana agrupada en los diferentes sectores.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 34.
 
-Una vez elaborado el Programa Estatal de Ordenamiento Ecológico y Territorial, la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral, se estará al procedimiento señalado en la presente Ley, para su aprobación y publicación en el Periódico Oficial del Estado.
+Una vez elaborado el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, la Secretaría de Planeación, Participación y Desarrollo se estará al procedimiento señalado en la presente Ley, para su aprobación y publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 35.
 
-Los instrumentos de planeación y programación estatal y municipales a que se refiere esta Ley en la parte que impliquen la utilización del espacio físico del territorio del Estado, deberán ser congruentes con las líneas generales de estrategia que se establezcan en el Programa Estatal de Ordenamiento Ecológico y Territorial.
+Los instrumentos de planeación y programación estatal y municipales a que se refiere esta Ley en la parte que impliquen la utilización del espacio físico del territorio del Estado, deberán ser congruentes con las líneas generales de estrategia que se establezcan en el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 36.
 
-La zonificación secundaria de los usos y destinos del suelo en los centros de población y la delimitación de las áreas que integran los mismos, de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, será determinada por los Ayuntamientos de los Municipios del Estado en los programas de desarrollo urbano de carácter municipal respectivos, tomando en cuenta los lineamientos generales de estrategia previstos en el Programa Estatal de Ordenamiento Ecológico y Territorial.
+La zonificación secundaria de los usos y destinos del suelo en los centros de población y la delimitación de las áreas que integran los mismos, de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, será determinada por los Ayuntamientos de los Municipios del Estado en los programas de ordenamiento territorial y desarrollo urbano de carácter municipal respectivos; tratándose de programas de ordenamiento territorial y desarrollo urbano de carácter regional, zona metropolitana, zona conurbana interestatal o intraestatal, dicha zonificación y delimitación será determinada por el Estado y los municipios que intervengan, tomando en cuenta los lineamientos generales de estrategia previstos en el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 37.
 
-El Programa de Desarrollo de la Zona Metropolitana es el instrumento de planeación regional para los Municipios que conforman la Zona Metropolitana del Estado de Aguascalientes, en términos de los convenios de asociación y coordinación y de las determinaciones de los integrantes de la Zona Metropolitana del Estado de Aguascalientes, en coordinación con la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral.
+El Programa de Desarrollo de la Zona Metropolitana es el instrumento de planeación regional para los Municipios que conforman la Zona Metropolitana del Estado de Aguascalientes, en términos de los convenios de asociación y coordinación y de las determinaciones de los integrantes de la Zona Metropolitana del Estado de Aguascalientes, en coordinación con la SEPLAPDE.
 
-El Programa de Desarrollo de la Zona Metropolitana será coordinado por el IPLANEA y elaborado por la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral, una vez concluido se estará al procedimiento señalado en la presente Ley, para su aprobación.
-
-Este Programa será publicado en el Periódico Oficial del Estado durante el primer trimestre una vez realizado el convenio respectivo y actualizado el último trimestre del cuarto año del ejercicio constitucional del Titular del Poder Ejecutivo del Estado.
+El Programa de Desarrollo de la Zona Metropolitana será coordinado y elaborado por la SEPLAPDE, una vez concluido se estará al procedimiento señalado en la presente Ley, para su aprobación.
 
 ###### Artículo 38.
 
@@ -501,23 +653,29 @@ La Planeación del Desarrollo Municipal deberá llevarse a cabo en términos de 
 
 Los Municipios, en el marco de las directrices de la planeación para el desarrollo del Estado, formularán sus planes y programas, de acuerdo con lo establecido por esta Ley y por la Ley Municipal para el Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 43.
 
-El IPLANEA, a solicitud de los Municipios, o en razón de las materias que se hubieren pactado en el convenio de desarrollo respectivo, proporcionará la asesoría en materia de planeación, programación, evaluación y control que requieran.
+La SEPLAPDE, a solicitud de los Municipios, o en razón de las materias que se hubieren pactado en el convenio de desarrollo respectivo, proporcionará la asesoría en materia de planeación, programación, evaluación y control que requieran.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 44.
 
-El PDE, el Plan de Largo Plazo para el Desarrollo del Estado, los Programas Sectoriales, el Programa Estatal de Ordenamiento Ecológico y Territorial y sus respectivas actualizaciones deberán ser elaborados y coordinados por el IPLANEA con la participación de los sectores público, privado y social, para luego remitirlos al Titular del Poder Ejecutivo del Estado para su consideración y aprobación quien a su vez los turnará al Congreso del Estado para su análisis y opinión.
+El PDE, el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano y sus respectivas actualizaciones deberán ser elaborados y coordinados por la SEPLAPDE con la participación de los sectores público, privado y social, así como de los Consejos Sectoriales del Gobierno del Estado, para luego remitirlos al Titular del Poder Ejecutivo del Estado para su consideración y aprobación, quien a su vez los turnará al Congreso del Estado para su análisis y opinión.
 
-El Congreso del Estado en un plazo que no excederá de treinta días naturales contados a partir de su recepción, podrá emitir un acuerdo que contenga las opiniones respecto a dichos planes y programas o bien a sus actualizaciones, al término de este período, sin haber emitido el acuerdo de referencia, se entenderá que el Congreso del Estado no tuvo consideraciones que hacer a éstos, por lo que serán publicados en el Periódico Oficial del Estado.
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-Con base en las opiniones emitidas por el Congreso del Estado, si las hubiere, el Titular del Poder Ejecutivo del Estado dará contestación a las mismas por escrito en un plazo no mayor a diez días naturales a partir de su recepción, justificando las determinaciones finales y realizará, en su caso, las adecuaciones necesarias, previo a su publicación.
+###### Artículo 44 Bis.
 
-El Congreso del Estado podrá formular en todo tiempo las observaciones que estime pertinentes durante la ejecución, evaluación y control de los planes y programas a que se refiere este artículo.
+Los Programas Sectoriales de Desarrollo serán elaborados por cada sector, con apoyo técnico de la SEPLAPDE.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 45.
 
-El Plan de Largo Plazo para el Desarrollo del Estado, el Programa Estatal de Ordenamiento Ecológico y Territorial, los Programas Sectoriales, el PDE y los programas derivados de éste, serán obligatorios para las dependencias y entidades de la Administración Pública Estatal.
+El Plan de Largo Plazo para el Desarrollo del Estado, el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, los Programas Sectoriales de Desarrollo, el PDE y los programas derivados de éste, serán obligatorios para las dependencias y entidades de la Administración Pública Estatal.
 
 ###### Artículo 46.
 
@@ -533,21 +691,25 @@ El Titular del Poder Ejecutivo del Estado, al informar ante el Congreso del Esta
 
 Los titulares de todas las dependencias y entidades de la Administración Pública Estatal deberán remitir en tiempo y forma, al Titular del Poder Ejecutivo del Estado, la información y expedientes necesarios para que la rendición del informe anual sea presentado en términos de las disposiciones legales aplicables, de no hacerlo serán sancionados conforme a la ley de la materia.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 49.
 
-El Titular del Poder Ejecutivo del Estado se apoyará en el IPLANEA para la realización del documento del informe anual para su presentación ante el Congreso del Estado y la ciudadanía.
+El Titular del Poder Ejecutivo del Estado se apoyará en la Secretaría de Planeación, Participación y Desarrollo del Estado para la realización del documento del informe anual para su presentación ante el Congreso del Estado y la ciudadanía.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 50.
 
-Los titulares de las dependencias y entidades de la Administración Pública Estatal, a solicitud del Congreso del Estado, darán cuenta de la situación que guardan sus respectivos ramos, informando del avance y grado de cumplimiento de los objetivos, directrices, políticas y prioridades fijados en el PDE; y los programas que de él se deriven y que por razón de su competencia les correspondan, dicho informe deberá hacerse conforme a los indicadores, metodologías y procedimientos del SESE, en términos de lo dispuesto esta Ley y el Reglamento de dicho Sistema.
-
-La información que sea solicitada por el Congreso del Estado deberá ser proporcionada dentro del término de treinta días.
+Los titulares de las dependencias y entidades de la Administración Pública Estatal, a solicitud del Congreso del Estado, darán cuenta de la situación que guardan sus respectivos ramos, informando del avance y grado de cumplimiento de los objetivos, directrices, políticas y prioridades fijados en el PDE; y los programas que de él se deriven y que por razón de su competencia les correspondan, dicho informe deberá hacerse conforme a los indicadores, metodologías y procedimientos del SEESI, en términos de lo dispuesto por esta Ley y el Reglamento de dicho Sistema.
 
 #### Sección Primera. Participación Social
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 51.
 
-Dentro del SEPD tendrá lugar la participación y consulta de la sociedad, con el propósito de que intervenga directamente en la elaboración, instrumentación, monitoreo, seguimiento y evaluación de los planes, programas y sus actualizaciones a que se refiere esta Ley.
+Dentro del SIPDE tendrá lugar la participación y consulta de la sociedad, con el propósito de que intervenga directamente en la elaboración, instrumentación, monitoreo, seguimiento y evaluación de los planes, programas y sus actualizaciones a que se refiere esta Ley.
 
 ###### Artículo 52.
 
@@ -571,11 +733,11 @@ La participación ciudadana en los procesos de planeación municipal se realizar
 
 #### Sección Segunda. Coordinación
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 57.
 
-El Poder Ejecutivo del Estado asistido por el IPLANEA, y los Municipios podrán convenir entre ellos, así como con el Poder Ejecutivo Federal y con la sociedad organizada, la coordinación que se requiera, a efecto de que participen en la planeación para el desarrollo del Estado y sus Municipios, en el ámbito de sus respectivas jurisdicciones y competencias.
-
-Asimismo, podrán convenir la realización de acciones previstas en los planes y programas a que se refiere esta Ley.
+El Poder Ejecutivo del Estado asistido por la SEPLAPDE, y los Municipios podrán convenir entre ellos, así como con el Poder Ejecutivo Federal y con la sociedad organizada, la coordinación que se requiera, a efecto de que participen en la planeación para el desarrollo del Estado y sus Municipios, en el ámbito de sus respectivas jurisdicciones y competencias.
 
 ###### Artículo 58.
 
@@ -591,11 +753,15 @@ IV. Impulsar el Desarrollo Intrarregional; y
 
 V. Proporcionar a los Municipios, en el marco de la planeación democrática, la asesoría y el apoyo técnico en materia de programación y presupuestación, hacendaria, jurídica, administrativa y financiera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 59.
 
-Los convenios de coordinación y participación que se firmen entre las diferentes instancias de gobierno y con la sociedad organizada serán congruentes con el Sistema Nacional de Planeación Democrática, el Plan de Largo Plazo para el Desarrollo del Estado, el PDE, el Programa Estatal de Ordenamiento Ecológico y Territorial y podrán trascender los períodos de gobierno previa aprobación del Congreso del Estado y del cumplimiento de los requisitos legales, ajustándose a los siguientes lineamientos generales:
+Los convenios de coordinación y participación que se firmen entre las diferentes instancias de gobierno y con la sociedad organizada serán congruentes con el Sistema Nacional de Planeación Democrática, el Plan de Largo Plazo para el Desarrollo del Estado, el PDE y el Plan Estatal de Ordenamiento Territorial y Desarrollo Urbano podrán trascender los períodos de gobierno previa aprobación del Congreso del Estado y del cumplimiento de los requisitos legales, ajustándose a los siguientes lineamientos generales:
 
-I. Sustentarán su validez en los principios ordenadores del SEPD y sus fines se orientarán al cumplimiento solidario de las demandas sociales y a impulsar y fomentar el desarrollo integral de la entidad;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I. Sustentarán su validez en los principios ordenadores del SIPDE y sus fines se orientarán al cumplimiento solidario de las demandas sociales y a impulsar y fomentar el desarrollo integral de la entidad;
 
 II. Las bases de coordinación de los convenios con la Federación, se apoyarán en los criterios de la planeación nacional, mesoregional, estatal y en los instrumentos de desarrollo de los tres niveles de gobierno;
 
@@ -605,35 +771,47 @@ IV. Las acciones objeto de coordinación tomarán en cuenta la participación so
 
 V. En materia de programación, los convenios establecerán las relaciones presupuestales con los objetivos y prioridades de los planes, programas y los límites de competencia de las instancias signatarias.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 60.
 
-Las acciones de inversión y gasto corriente de la Federación en el Estado, serán coordinadas y validadas por el IPLANEA y por la Secretaría de Finanzas del Estado, cada una en el ámbito de su competencia.
+Las acciones de inversión y gasto corriente de la Federación en el Estado, serán coordinadas y validadas por la SEPLAPDE y por la Secretaría de Finanzas del Estado, cada una en el ámbito de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 61.
 
-A la Secretaría de Finanzas del Estado, en el marco del SEPD, le corresponden las siguientes atribuciones:
+A la Secretaría de Finanzas del Estado, en el marco del SIPDE, le corresponden las siguientes atribuciones:
 
 I. Proyectar y calcular los ingresos del Gobierno del Estado, considerando las necesidades de recursos y utilización del crédito público para la ejecución de los planes y programas a que hace referencia esta Ley;
 
 II. Tomar en cuenta los efectos de las políticas fiscal, financiera y crediticia y las de precios y tarifas de los servicios públicos proporcionados por el Gobierno del Estado y los Municipios, para el logro de los objetivos y prioridades de los planes y programas a que hace referencia esta Ley;
 
-III. Coordinar y validar las acciones de inversión y gasto corriente de la Federación en el Estado, en forma conjunta con el IPLANEA;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+III. Coordinar y validar las acciones de inversión y gasto corriente de la Federación en el Estado, en forma conjunta con la SEPLAPDE;
 
 IV. Cuidar que las operaciones en que se involucra el crédito público se apegan a los objetivos y prioridades de los planes y programas a que hace referencia esta Ley; y
 
 V. Las demás que establezca esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 62.
 
-Los convenios sobre planeación y desarrollo que firme el Poder Ejecutivo del Estado asistido por el IPLANEA con los Municipios, ayudarán a fortalecer la capacidad económica, administrativa y financiera de éstos y a impulsar la capacidad productiva y cultural de sus habitantes, de acuerdo con el equilibrio regional del desarrollo del Estado. Pudiéndose contemplar incentivos especiales para aquellos Municipios que firmen los convenios y participen en la estrategia de desarrollo intrarregional.
+Los convenios sobre planeación y desarrollo que firme el Poder Ejecutivo del Estado asistido por la SEPLAPDE con los Municipios, ayudarán a fortalecer la capacidad económica, administrativa y financiera de éstos y a impulsar la capacidad productiva y cultural de sus habitantes, de acuerdo con el equilibrio regional del desarrollo del Estado. Pudiéndose contemplar incentivos especiales para aquellos Municipios que firmen los convenios y participen en la estrategia de desarrollo intrarregional.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 63.
 
-El COPLADE propondrá al IPLANEA los procedimientos conforme a los cuales se sujetarán las acciones de coordinación, escuchando la opinión de los Municipios con base en las facultades y obligaciones que a cada uno corresponda.
+El COPLADE propondrá a la SEPLAPDE los procedimientos conforme a los cuales se sujetarán las acciones de coordinación, escuchando la opinión de los Municipios con base en las facultades y obligaciones que a cada uno corresponda.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 64.
 
-Los convenios sobre planeación, desarrollo y cooperación que el Poder Ejecutivo del Estado asistido por el IPLANEA, firme con el Gobierno Federal, con los Municipios y con Organismos No Gubernamentales Nacionales e Internacionales y Organismos Multilaterales, serán publicados en el Periódico Oficial del Estado e inscritos en el Registro Público de la Propiedad y el Comercio del Estado.
+Los convenios sobre planeación, desarrollo y cooperación que el Poder Ejecutivo del Estado asistido por la SEPLAPDE, firme con el Gobierno Federal, con los Municipios y con Organismos No Gubernamentales Nacionales e Internacionales y Organismos Multilaterales, serán publicados en el Periódico Oficial del Estado e inscritos en el Registro Público de la Propiedad y el Comercio del Estado.
 
 ###### Artículo 65.
 
@@ -697,27 +875,35 @@ XI. Elaborar el reporte de trabajos y rendirlo a la Asamblea Plenaria del COPLAD
 
 El Poder Ejecutivo del Estado podrá convenir la coadyuvancia de los órganos o estructuras mesoregionales en los trabajos de los Subcomités Intrarregionales.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 74.
 
-Los Municipios conurbados del Estado, podrán integrar una región administrativa denominada Zona Metropolitana para fines de planeación, organización, coordinación, colaboración y ejecución, así como para conformar los instrumentos, órganos de operación y mecanismos de financiamiento para proyectos. En el marco de esta coordinación, los Municipios conurbados deberán participar en la conformación del Programa de Desarrollo de la Zona Metropolitana.
+Los Municipios del Estado que por las características de los centros de población que los integran tiendan a conformar espacios de características metropolitanas, podrán integrar una región administrativa denominada Zona Metropolitana para fines de planeación, organización, coordinación, colaboración y ejecución, así como para conformar los instrumentos, órganos de operación y mecanismos de financiamiento para proyectos. En el marco de esta coordinación, los Municipios conurbados deberán participar en la conformación del Programa de Desarrollo de la Zona Metropolitana.
 
 ### CAPÍTULO III (SIC). Sistema Estatal de Seguimiento y Evaluación
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 75.
 
-El SESE forma parte del SEPD y será el mecanismo permanente de evaluación participativa en el que la sociedad organizada, los Poderes Ejecutivo, Legislativo y Judicial del Estado y los Municipios establecerán las relaciones conducentes para el monitoreo, seguimiento y evaluación de los logros y avances de los distintos planes y programas.
+El SEESI forma parte del SIPDE y será el mecanismo permanente de evaluación participativa en el que la sociedad organizada, los Consejos Sectoriales del Gobierno del Estado, los Poderes Ejecutivo, Legislativo y Judicial del Estado y los Municipios establecerán las relaciones conducentes para el monitoreo, seguimiento y evaluación de los logros y avances de los distintos planes y programas.
 
-El IPLANEA llevara a cabo la coordinación y operación del SESE.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 76.
 
-El SESE se conformará con las actividades de verificación, medición, así como de detección y corrección de desviaciones o insuficiencias de carácter cualitativo y cuantitativo, tanto en la instrumentación como en la ejecución de los planes y los programas, centrándose en los correspondientes objetivos, metas y acciones.
+El SEESI se conformará con las actividades de verificación, medición, así como de detección y corrección de desviaciones o insuficiencias de carácter cualitativo y cuantitativo, tanto en la instrumentación como en la ejecución de los planes y los programas, centrándose en los correspondientes objetivos, metas y acciones.
 
 ###### Artículo 77.
 
 Las dependencias y entidades de la Administración Pública Estatal elaborarán herramientas de planeación de corto plazo, con una vigencia anual, denominados Programación Basada en Resultados, las cuales regirán las actividades de cada una de ellas en concordancia a sus presupuestos anuales autorizados dentro del proceso de presentación de sus presupuestos anuales en términos de la Ley de la materia.
 
-La Programación Basada en Resultados deberá ser previamente validada por el IPLANEA, y el Presupuesto Basado en Resultados por la Secretaría de Finanzas del Estado, en lo correspondiente a la viabilidad presupuestaria.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 179 PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2022, SE REFORMA ÚNICAMENTE EL SEGUNDO PÁRRAFO DEL PRESENTE ARTÍCULO. SE SUGIERE CONSULTAR LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+La Programación Basada en Resultados deberá ser previamente validada por la SEPLAPDE con la participación de los Consejos Sectoriales del Gobierno del Estado, y el Presupuesto Basado en Resultados por la Secretaría de Finanzas del Estado, en lo correspondiente a la viabilidad presupuestaria.
 
 La Programación Basada en Resultados, deberá estar vinculada al PDE y a los programas que de éste deriven; especificarán las metas, proyectos, acciones, instrumentos y recursos proyectados para el ejercicio respectivo.
 
@@ -725,21 +911,33 @@ En la elaboración de la Programación Basada en Resultados, la Secretaría de F
 
 La Programación Basada en Resultados podrán contener previsiones presupuestales que rebasen el ejercicio presupuestal debido a la magnitud, complejidad, necesidad o conveniencia de los mismos, en términos de lo dispuesto por la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios; tratándose de los compromisos plurianuales contemplados en la Ley de Asociaciones Público-Privadas y Proyectos de Prestación de Servicios del Estado y Municipios de Aguascalientes, se deberá contar con la previa aprobación del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 78.
 
-El IPLANEA, como autoridad ejecutiva en materia de planeación, validará la Programación Basada en Resultados, así como las acciones de inversión y gasto corriente de la Federación en el Estado, en forma conjunta con la Secretaría de Finanzas del Estado, emitiendo las recomendaciones necesarias para el cumplimiento de los objetivos planteados en el PDE.
+La SEPLAPDE, como autoridad ejecutiva en materia de planeación, validará la Programación Basada en Resultados, así como las acciones de inversión y gasto corriente de la Federación en el Estado, en forma conjunta con la Secretaría de Finanzas del Estado, emitiendo las recomendaciones necesarias para el cumplimiento de los objetivos planteados en el PDE.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 79.
 
-Para el monitoreo, seguimiento y evaluación de los planes y programas dentro del SESE, habrán de considerarse los siguientes instrumentos de evaluación:
+Para el monitoreo, seguimiento y evaluación de los planes y programas dentro del SEESI, habrán de considerarse los siguientes instrumentos de evaluación:
 
 I. Normativos o rectores:
 
 a) Plan Nacional de Desarrollo, Plan de Largo Plazo para el Desarrollo del Estado, PDE y Planes de Desarrollo Municipal;
 
-b) Programa Estatal de Ordenamiento Ecológico y Territorial; y
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-c) Programas Sectoriales.
+b) Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano;
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+c) Programas Sectoriales de Desarrollo; y
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+d) Programas Institucionales.
 
 II. Operativos:
 
@@ -757,7 +955,9 @@ f) Acuerdos o Convenios de Concertación con los Sectores Social y Privado;
 
 III. De seguimiento:
 
-a) Reportes o Informes de Avance y Seguimiento derivados del SESE;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+a) Reportes o Informes de Avance y Seguimiento derivados del SEESI;
 
 b) Informes de Cuenta Pública; y
 
@@ -775,9 +975,11 @@ d) Informes del COPLADE y sus órganos auxiliares; y
 
 e) Informes, relatorías o registros resultantes de los foros de consulta y participación social.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 80.
 
-Las metodologías y procedimientos para el monitoreo, seguimiento y evaluación de los resultados del Plan de Largo Plazo para el Desarrollo del Estado y del PDE, así como de los programas derivados de ambos, serán establecidas por el IPLANEA con la participación del COPLADE y habrán de especificarse en las disposiciones reglamentarias del SESE; en dichas disposiciones, se garantizará la participación de la sociedad organizada en los procesos de monitoreo, seguimiento y evaluación.
+Las metodologías y procedimientos para el monitoreo, seguimiento y evaluación de los resultados del Plan de Largo Plazo para el Desarrollo del Estado y del PDE, así como de los programas derivados de ambos, serán establecidas por la SEPLAPDE con la participación del COPLADE y los Consejos Sectoriales del Gobierno del Estado y habrán de especificarse en las disposiciones reglamentarias del SEESI; en dichas disposiciones, se garantizará la participación de la sociedad organizada en los procesos de monitoreo, seguimiento y evaluación.
 
 ## TÍTULO TERCERO. INSTITUTO DE PLANEACIÓN DEL ESTADO DE AGUASCALIENTES
 
@@ -785,513 +987,125 @@ Las metodologías y procedimientos para el monitoreo, seguimiento y evaluación 
 
 ###### Artículo 81.
 
-El IPLANEA es un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, tendrá su domicilio en el Municipio de Aguascalientes, correspondiente al Estado de mismo nombre. Gozará de autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos, fines y metas, relacionadas con la política pública en materia de planeación para el desarrollo del Estado.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 82.
 
-El IPLANEA tiene por objeto regular, coordinar e instrumentar el SEPD, el Sistema Estatal de Información Estadística y Geográfica, y el SESE; así como, establecer las bases para que el actuar gubernamental a nivel estatal se armonice con el proceso de planeación federal y municipal, teniendo en cuenta la participación de los sectores público, social y privado.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 83.
 
-Para el cumplimiento de su objeto, el IPLANEA tendrá como atribuciones las siguientes:
-
-I. Establecer, en congruencia con los instrumentos de planeación del SEPD, las políticas generales y prioridades a las que deberá sujetarse el IPLANEA, relativas a la productividad, comercialización de servicios, finanzas, investigación, desarrollo tecnológico y administración general;
-
-II. Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas estatales, sectoriales, institucionales y regionales, que se deriven del PDE y coordinar toda acción de planeación estratégica;
-
-III. Expedir y evaluar los planes y programas a los que hace referencia esta Ley, así como sus modificaciones y actualizaciones, con la participación de los sectores público, privado y social;
-
-IV. Coordinar la planeación de los proyectos de infraestructura y los servicios relacionados con la misma, de manera conjunta con las dependencias y entidades normativas y ejecutoras a través del SEPI, y proponerla al Titular del Poder Ejecutivo del Estado;
-
-V. Evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales, de conformidad con la legislación, normas y acuerdos que regulen la administración, aplicación y vigilancia de estos recursos, para el control de resultados de acuerdo al SESE;
-
-VI. Ejecutar acciones que procuren la congruencia de la planeación del desarrollo en los tres órdenes de gobierno;
-
-VII. Promover la cultura y el fortalecimiento de la planeación institucionalizada;
-
-VIII. Emitir recomendaciones de los instrumentos de planeación previstos en esta Ley;
-
-IX. Dar seguimiento y realizar la evaluación de resultados de las inversiones estratégicas en que participen recursos estatales;
-
-X. Crear y operar el Sistema Integral de Gestión de Proyectos, para la ejecución de las políticas públicas estatales, para lo cual llevará a cabo las siguientes actividades:
-
-a. Identificación, acopio y, en su caso, formulación de proyectos;
-
-b. Elaboración de estudios previos de factibilidad técnico-financieros y de validación social de los proyectos, así como de congruencia con el PDE;
-
-c. Análisis de las opciones de oportunidad financiero para la ejecución de proyectos; y
-
-d. Gestión de los recursos financieros estatales, federales, internacionales, públicos o privados;
-
-XI. Coordinar el SESE;
-
-XII. Someter a la aprobación del Titular del Poder Ejecutivo del Estado, la planeación y programación estatales;
-
-XIII. Proyectar y coordinar las actividades de planeación del desarrollo estatal, y promover las acciones que deriven de su implantación;
-
-XIV. Conducir, regular y coordinar el SEPD;
-
-XV. Integrar, priorizar y encauzar la demanda social de obras y acciones al Titular del Poder Ejecutivo del Estado, en el ámbito de su competencia;
-
-XVI. Orientar a las dependencias y entidades de la Administración Pública Estatal, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidas en el PDE;
-
-XVII. Coordinar los trabajos del COPLADE, en los términos que se señalen en las disposiciones aplicables;
-
-XVIII. Facilitar la celebración de acuerdos de cooperación entre la sociedad y los tres órdenes de gobierno y generar mecanismos que aseguren la permanente participación ciudadana en los procesos de planeación estatal;
-
-XIX. Participar en las reuniones de los Comités de Planeación de la Región Centro Occidente y organismos análogos y, en su caso, en reuniones nacionales;
-
-XX. Coordinar el Sistema Estatal de Información Estadística y Geográfica y realizar las acciones para el buen funcionamiento del mismo, en términos de la ley aplicable;
-
-XXI. Formular y mantener actualizado el diagnóstico de los requerimientos de desarrollo estatal, regional y municipal, de corto, mediano y largo plazo;
-
-XXII. Proponer esquemas para la viabilidad técnica de los proyectos de asociación público-privada regulados por la Ley de la materia, así como proponer su alineación al SEPD de los que se realicen con cualquier esquema de asociación para desarrollar proyectos de inversión productiva, investigación aplicada o de innovación tecnológica;
-
-XXIII. Prestar asistencia y asesoría económico-financiera a las dependencias y entidades de la Administración Pública Estatal y Municipal cuando lo requieran;
-
-XXIV. Dar seguimiento y realizar la evaluación de resultados de las inversiones estratégicas en que participen recursos estatales;
-
-XXV. Mantener informada a la Administración Pública Estatal sobre el inventario de proyectos, las prioridades identificadas y los niveles de viabilidad;
-
-XXVI. Apoyar a las dependencias y entidades en la formulación, monitoreo, seguimiento y evaluación de sus proyectos;
-
-XXVII. Formular los proyectos especiales que le encomiende el Titular del Poder Ejecutivo del Estado y participar en su instrumentación, monitoreo, seguimiento y evaluación en los términos que éste le indique;
-
-XXVIII. Proponer en el ámbito de su competencia las acciones necesarias para el desarrollo integral de las diversas regiones del Estado, así como el desarrollo regional;
-
-XXIX. Ejercer las funciones que corresponden al Secretariado Técnico del Consejo Estatal de Población;
-
-XXX. Generar información estratégica para la toma de decisiones del Gobierno de Estado en las distintas materias de su competencia;
-
-XXXI. Proponer al Titular del Poder Ejecutivo del Estado la firma de acuerdos de coordinación y colaboración con instancias públicas de los tres poderes y órdenes de gobierno, así como con instancias privadas;
-
-XXXII. Programar, coordinar y evaluar la programación presupuestaria del gasto federalizado, en coordinación con la Secretaría de Finanzas del Estado;
-
-XXXIII. Coordinar la política estatal de población y sus acciones a través del Consejo Estatal de Población;
-
-XXXIV. Coordinar las acciones y actividades del COPLADEMUN;
-
-XXXV. Realizar acciones que fomenten la participación ciudadana para la planeación y evaluación;
-
-XXXVI. Validar la Programación Basada en Resultados anual (sic);
-
-XXXVII. Validar las acciones de inversión y gasto corriente de la federación en el Estado, en forma conjunta con la Secretaría de Finanzas del Estado;
-
-XXXVIII. Promover y coordinar las actividades en materia de investigación y capacitación para la planeación; y
-
-XXXIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ### CAPÍTULO II. Patrimonio
 
 ###### Artículo 84.
 
-El patrimonio del IPLANEA se constituye por:
-
-I. La partida que se establezca anualmente en el Presupuesto de Egresos del Estado;
-
-II. Las aportaciones que otorguen o destinen en su favor el sector público y privado;
-
-III. Los bienes muebles e inmuebles destinados para el desarrollo de sus actividades;
-
-IV. Las aportaciones, legados, donaciones, fideicomisos y demás recursos que se constituyeren a su favor, conforme a las disposiciones aplicables;
-
-V. Los ingresos propios que, de acuerdo con la Ley de Ingresos del Estado de Aguascalientes para el ejercicio fiscal correspondiente, se establezcan; y
-
-VI. Las utilidades, intereses, rendimientos de sus bienes y valores, beneficios y demás ingresos que adquiera por cualquier título legal o que obtenga en ejercicio de sus actividades.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 85.
 
-Los bienes del IPLANEA bajo el régimen del dominio público tendrán el carácter de inalienables, imprescriptibles e inembargables y, no estarán sujetos a acción reivindicatoria, de posesión definitiva, provisional o alguna otra por parte de terceros, de conformidad con lo dispuesto en la Ley de Bienes del Estado de Aguascalientes; y para cualquier acto concerniente con los bienes referidos en el presente artículo se estará a lo dispuesto por la Ley de la materia referida, la Ley de Entidades Paraestatales y demás disposiciones aplicables.
-
-A fin de garantizar el buen funcionamiento del IPLANEA, para la administración, uso, disposición, enajenación y demás actos relacionados con los bienes muebles se deberá estar a las políticas, programas y bases generales que determine la Junta de Gobierno, en los términos que señalen las disposiciones aplicables.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 86.
 
-El régimen fiscal del IPLANEA se sujetará a lo dispuesto en las leyes de la materia, considerando en todo momento su naturaleza inminentemente social.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ### CAPÍTULO III. Estructura Orgánica
 
 ###### Artículo 87.
 
-El IPLANEA, para el cumplimiento de su objeto y el desempeño de sus atribuciones, contará con la siguiente estructura orgánica:
-
-I. Órganos de Gobierno y Administración:
-
-a) Junta de Gobierno; y
-
-b) Dirección General;
-
-II. Unidades Administrativas encargadas de:
-
-a) Monitoreo, Evaluación y Seguimiento Institucional;
-
-b) Planeación Estratégica y Proyectos Sustentables;
-
-c) Programación de Obra y Control Presupuestal;
-
-d) Información Estratégica;
-
-e) Administración y Finanzas;
-
-f) Asuntos Jurídicos; y
-
-g) Las demás que para el cumplimiento de su objeto requiera;
-
-III. Órgano de Consulta:
-
-a) COPLADE;
-
-IV. Órganos de Control y Evaluación:
-
-a) Órgano de Vigilancia; y
-
-b) Órgano Interno de Control.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 88.
 
-La Junta de Gobierno es el máximo órgano de gobierno del IPLANEA y se integrará por:
-
-I. El Titular del Poder Ejecutivo del Estado, quien la presidirá;
-
-II. El Titular de la Coordinación General de Gabinete;
-
-III. El Titular de la Secretaría de Desarrollo Social;
-
-IV. El Titular de la Secretaría de Desarrollo Económico;
-
-V. El Titular de la Secretaría de Finanzas;
-
-VI. El Titular de la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral;
-
-VII. El Titular de la Secretaría de Sustentabilidad, Medio Ambiente y Agua;
-
-VIII. El Titular de la Secretaría de Seguridad Pública;
-
-IX. Un representante del Sector Empresarial;
-
-X. Un representante del Sector del Desarrollo Territorial;
-
-XI. Un representante del Sector Ambiental;
-
-XII. Un representante del Sector Salud;
-
-XIII. Un representante del Sector Educativo;
-
-XIV. Un representante del Sector Industrial; y
-
-XV. Un representante del Sector Social.
-
-Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto en las sesiones.
-
-El Presidente de la Junta de Gobierno propondrá mediante una terna a los representantes descritos en las fracciones de la IX a la XV, y la Junta de Gobierno será quien designe al titular y al suplente del sector, esto en términos de lo establecido por el Reglamento Interior y de la convocatoria que para tal efecto expida la Junta de Gobierno.
-
-Los representantes descritos en las fracciones XIII a la XV se desempeñarán como integrantes hasta por dos años con posibilidad de reelección hasta por un periodo adicional conforme al mismo procedimiento por el que fueron designados.
-
-Los representantes descritos en las fracciones IX a la XII se desempeñarán como integrantes hasta por tres años con posibilidad de reelección hasta por un periodo adicional conforme al mismo procedimiento por el que fueron designados.
-
-Los integrantes propietarios de la Junta de Gobierno descritos en las fracciones de la I a la VIII nombrarán a su respectivo suplente, que deberá recaer en el servidor público de nivel jerárquico inferior inmediato al de aquellos. Para el caso de la suplencia del Presidente, deberá ser el Titular de la Secretaría General de Gobierno.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 89.
 
-Los integrantes propietarios de la Junta de Gobierno descritos en las fracciones de la IX a la XV del artículo anterior, deberán cumplir al menos los siguientes requisitos:
-
-I. Contar con veinticinco años de edad cumplidos al día de su designación;
-
-II. Tener residencia efectiva mínima de cinco años en el Estado de Aguascalientes;
-
-III. Pertenecer a la sociedad civil organizada del sector que representen;
-
-IV. Acreditar experiencia y conocimientos en el sector que representen; y
-
-V. Los demás previstos en la convocatoria respectiva.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 90.
 
-En caso de renuncia o remoción de alguno de los integrantes descritos en las fracciones IX a la XV del artículo 88 de la presente Ley, se estará en lo dispuesto por el Reglamento Interior.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 91.
 
-Los integrantes de la Junta de Gobierno tendrán un cargo honorífico, por lo que no gozarán de alguna compensación económica o gratificación en especie por parte del IPLANEA por su desempeño.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 92.
 
-La Junta de Gobierno contará con un Secretario Técnico, quien tendrá derecho de voz en las sesiones, el cual será nombrado y removido de conformidad con lo dispuesto en la Ley de Entidades Paraestatales.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 93.
 
-Serán invitados permanentes a las sesiones de la Junta de Gobierno el Director General; los Presidentes de las Comisiones de Fortalecimiento Municipal, Desarrollo Metropolitano y Zonas Conurbadas, y de Planeación, Desarrollo Urbano y Obras Públicas del Congreso del Estado, quienes intervendrán en las sesiones de la Junta de Gobierno con voz, pero sin voto.
-
-Los integrantes de la Junta de Gobierno podrán invitar a representantes de los sectores público, privado y social, con el fin de tratar temas que requieren de conocimientos específicos, los cuales podrán participar con voz, pero sin voto.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 94.
 
-La Junta de Gobierno se reunirá de forma ordinaria por lo menos cuatro veces al año, y de forma extraordinaria las veces que así se requiera; para efecto de la convocatoria y el desarrollo de las sesiones referidas en el presente artículo, se estará a lo que disponga el Reglamento Interior.
-
-La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus integrantes.
-
-Las resoluciones se tomarán por mayoría de los integrantes presentes y el Presidente tendrá voto de calidad en caso de empate.
-
-Tratándose de las propuestas de actualización o modificación de los planes y/o programas que forman parte del SEPD, en el ámbito estatal, que se lleven a cabo exclusivamente fuera de los plazos y términos previstos en esta Ley o en el Reglamento, se deberá contar con la aprobación de al menos dos terceras partes de los integrantes de la Junta de Gobierno.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 95.
 
-La Junta de Gobierno tendrá, además de las facultades indelegables señaladas en la Ley de Entidades Paraestatales, las siguientes:
-
-I. Aprobar el Reglamento Interior, la estructura orgánica del IPLANEA y demás normatividad del mismo, con base en el proyecto presentado por el Director General;
-
-II. Aprobar los convenios de coordinación y colaboración entre la federación, los municipios, otras entidades federativas, y sectores privado y social;
-
-III. Regular y establecer las bases para el SEPD;
-
-IV. Aprobar la actualización o modificación de cualquiera de los planes o programas que formen parte del SEPD, y someterlo a la consideración y aprobación del Titular del Poder Ejecutivo del Estado;
-
-V. Promover la cultura y el fortalecimiento de la planeación institucionalizada;
-
-VI. Analizar y, en su caso, aprobar los informes trimestrales que rinda el Director General;
-
-VII. Autorizar el presupuesto anual para la operación del IPLANEA, así como sus modificaciones, en los términos de la legislación aplicable;
-
-VIII. Interponer Juicio de Nulidad en contra de aquellas resoluciones que contravengan disposiciones constitucionales o legales que vulneren derechos o bien principios de los que rigen el sistema de planeación democrática; y
-
-IX. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
-
-Contra las resoluciones y decisiones de la Junta de Gobierno, se podrán interponer los medios de impugnación correspondientes, en términos de la legislación aplicable.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 #### Sección Segunda (sic). Dirección General
 
 ###### Artículo 96.
 
-La Dirección General del IPLANEA contará con un titular que será el Director General quien tendrá la representación legal del IPLANEA, el cual será designado hasta por cuatro años y removido por el Titular del Poder Ejecutivo del Estado, debiendo recaer tal nombramiento en la persona que, además de contar con conocimientos y experiencia en materia de planeación para el desarrollo, reúna los requisitos establecidos en la Ley de Entidades Paraestatales.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 97.
 
-El Director General, además de las facultades y atribuciones que le confiere la Ley de Entidades Paraestatales, tendrá las siguientes:
-
-I. Proyectar y coordinar las actividades de planeación para el desarrollo estatal, y promover las acciones que deriven de su implantación;
-
-II. Coordinar la elaboración, actualización, monitoreo, seguimiento y evaluación de los planes y programas a que hace referencia esta Ley, escuchando la opinión y tomando en cuenta las propuestas de los sectores público, social y privado;
-
-III. Formular el proyecto del PDE, con la participación de los sectores público, privado y social, en los términos de la legislación de la materia, así como su actualización, y someterlo a la consideración y aprobación de la Junta de Gobierno;
-
-IV. Conducir y coordinar el SEPD;
-
-V. Coordinar los programas de desarrollo del Estado con los de los Municipios y con los que lleva a cabo el Gobierno Federal, en los términos de los convenios respectivos;
-
-VI. Supervisar, en coordinación con la Contraloría del Estado, el cumplimiento de los programas a que se refiere la fracción anterior y el adecuado ejercicio de los recursos correspondientes;
-
-VII. Formular y mantener actualizado el diagnóstico de los requerimientos de desarrollo estatal, regional y municipal, de corto, mediano y largo plazo;
-
-VIII. Orientar a las dependencias y entidades de la Administración Pública Estatal, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidas en el PDE;
-
-IX. Coordinar los trabajos del COPLADE, en los términos de las disposiciones aplicables;
-
-X. Dar seguimiento a los acuerdos que le instruya el COPLADE;
-
-XI. Proponer al COPLADE la creación de subcomités y grupos de trabajo sectorial, regional, de Igualdad sustantiva de derechos entre mujeres y hombres y especial;
-
-XII. Facilitar la celebración de acuerdos de cooperación entre la sociedad y las tres instancias de gobierno y generar mecanismos que aseguren la permanente participación ciudadana en los procesos de planeación estatal;
-
-XIII. Participar en las reuniones de los Comités de Planeación de la Región Centro Occidente y organismos análogos y, en su caso, en reuniones nacionales;
-
-XIV. Realizar las acciones para el funcionamiento del Sistema Estatal de Información Estadística y Geográfica;
-
-XV. Coordinar los proyectos de asociación público-privada regulados por la Ley de la materia, así como los que se realicen con cualquier esquema de asociación para desarrollar proyectos de inversión productiva, investigación aplicada o de innovación tecnológica;
-
-XVI. Mantener informada a la Administración Pública Estatal sobre el inventario de proyectos, las prioridades identificadas y los niveles de viabilidad;
-
-XVII. Apoyar a las dependencias y entidades de la Administración Pública Estatal en la formulación, monitoreo, seguimiento y evaluación de sus proyectos;
-
-XVIII. Coordinar las acciones que la Federación y el Gobierno del Estado convengan con los gobiernos municipales para el desarrollo integral de las diversas regiones de la Entidad Federativa;
-
-XIX. Ejercer las funciones que corresponden al Secretariado Técnico del Consejo Estatal de Población;
-
-XX. Procurar la congruencia de la planeación y del desarrollo del Estado, con la planeación y la conducción del desarrollo nacional y poner en práctica mecanismos eficaces de control y evaluación de los planes y programas;
-
-XXI. Promover y coordinar las actividades en materia de investigación y capacitación para la planeación;
-
-XXII. Prever en la medida de lo posible, los efectos de los fenómenos económicos y sociales que influyen en el proceso de la planeación estatal;
-
-XXIII. Diseñar y operar el SESE previsto en la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, así como las otras atribuciones que con respecto a este Sistema le confiera la legislación aplicable;
-
-XXIV. Ejecutar, instrumentar y vigilar el cumplimiento de los acuerdos de la Junta de Gobierno;
-
-XXV. Presentar, para su aprobación, a la Junta de Gobierno, el proyecto de Reglamento Interior, así como de estructura orgánica y demás normatividad del IPLANEA;
-
-XXVI. Someter, previa aprobación de la Junta de Gobierno, a la Secretaría de Finanzas el programa financiero del que se hace mención en la Ley de Entidades Paraestatales, a fin de que el mismo sea incluido en el Proyecto de Ley de Ingresos del Estado;
-
-XXVII. Someter a la Junta de Gobierno y publicar el informe anual sobre el desempeño de las funciones del IPLANEA;
-
-XXVIII. Difundir los proyectos y programas relativos a la planeación para el desarrollo del Estado, así como proyectos especiales;
-
-XXIX. Presidir y coordinar el Comité para el Desarrollo de la Zona Metropolitana;
-
-XXX. Celebrar convenios de coordinación y concertación con la Federación, Entidades Federativas y Municipios, así como organismos sociales y privados, en materia de su competencia; y
-
-XXXI. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 98.
 
-La Dirección General para la atención y despacho de los asuntos de su competencia, contará con las unidades administrativas previstas en esta Ley y las demás que prevea el Reglamento Interior, atendiendo en todo momento al presupuesto autorizado para el IPLANEA.
-
-Las facultades y obligaciones de las unidades administrativas se regularán en el Reglamento Interior, Manuales de Organización y demás disposiciones aplicables según corresponda.
-
-Los servidores públicos del primer nivel jerárquico inferior al del Director General, serán designados y removidos por el Titular del Poder Ejecutivo del Estado.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 #### Sección Cuarta (sic). Órgano de Vigilancia
 
 ###### Artículo 99.
 
-El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades del IPLANEA; estará integrado por un Comisario Público propietario y un suplente, designados por el Titular del Poder Ejecutivo del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 100.
 
-El Comisario Público cuenta con facultades para evaluar el desempeño general y por funciones del IPLANEA, realizar estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitar la información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la ley correspondiente, con arreglo a las facultades aquí descritas y demás disposiciones aplicables.
-
-Para el cumplimiento de las funciones citadas, la Junta de Gobierno y el Director General deberán proporcionar la información que solicite el Comisario Público del IPLANEA y el Órgano Superior de Fiscalización del Estado, este último únicamente respecto de las cuentas públicas que le sean presentadas.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 #### Sección Quinta. Órgano Interno de Control
 
 ###### Artículo 101.
 
-El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno del IPLANEA, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 102.
 
-Para el ejercicio de sus funciones, el Órgano Interno de Control contará con las siguientes unidades:
-
-I. Unidad Auditora;
-
-II. Unidad Investigadora; y
-
-III. Unidad Substanciadora y Resolutora.
-
-Los titulares de dichas unidades serán designados por el Titular del Poder Ejecutivo del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y la Contraloría del Estado, para tal efecto.
-
-El servidor público que ejerza la función de autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de autoridad Investigadora, a fin de garantizar su independencia, de conformidad con lo dispuesto en la Ley de Responsabilidades Administrativas.
-
-El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 103.
 
-La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tiene las siguientes funciones:
-
-I. Elaborar y ejecutar, con aprobación de la Junta de Gobierno, el programa anual de auditorías a las diversas áreas que conforman el IPLANEA;
-
-II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño del IPLANEA;
-
-III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman el IPLANEA;
-
-IV. Coordinar las acciones a fin de verificar que las áreas que conforman el IPLANEA cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la Contraloría del Estado;
-
-V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
-
-VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte del IPLANEA sobre el correcto ejercicio del gasto público;
-
-VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
-
-VIII. Rendir informe trimestral a la Junta de Gobierno, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
-
-IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
-
-X. Asesorar a los servidores públicos y unidades administrativas del IPLANEA en los asuntos de su competencia;
-
-XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los procedimientos de su competencia;
-
-XII. Supervisar que el manual de contabilidad se encuentre actualizado y responda a las necesidades del IPLANEA y a la normatividad aplicable a la materia;
-
-XIII. Participar en los actos de entrega recepción de las unidades administrativas del IPLANEA; y
-
-XIV. Las demás atribuciones previstas en otras disposiciones legales y reglamentarias aplicables.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 104.
 
-La Unidad Investigadora es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas, y tiene las siguientes funciones:
-
-I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y de probables hechos de corrupción de los servidores públicos adscritos al IPLANEA y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
-
-II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos al IPLANEA, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas;
-
-III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
-
-IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
-
-V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos del IPLANEA o bien, referidas a faltas de particulares en relación con éste;
-
-VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos al IPLANEA o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
-
-VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos del IPLANEA o de los particulares, habilitando para ello al personal del área correspondiente;
-
-VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
-
-IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita al IPLANEA;
-
-X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas;
-
-XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas;
-
-XII. Habilitar días y horas inhábiles para la práctica de diligencias;
-
-XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
-
-XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
-
-XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
-
-XVI. Rendir informe trimestral a la Junta de Gobierno, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
-
-XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
-
-XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
-
-XIX. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 105.
 
-La Unidad Substanciadora y Resolutora es la encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades Administrativas, y tiene las siguientes funciones:
-
-I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Autoridad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos del IPLANEA, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
-
-Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos del IPLANEA.
-
-Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
-
-En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
-
-II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
-
-III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, y ratificar las mismas;
-
-IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
-
-V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas;
-
-VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
-
-VII. Rendir informe trimestral a la Junta de Gobierno, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
-
-VIII. Habilitar días y horas inhábiles para la práctica de diligencias;
-
-IX. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
-
-X. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
-
-XI. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones;
-
-XII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos; y
-
-XIII. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ### CAPÍTULO IV. Régimen Laboral
 
 ###### Artículo 106.
 
-Las relaciones de trabajo entre el IPLANEA y sus trabajadores, se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ### CAPÍTULO V. Ausencias y Suplencias
 
 ###### Artículo 107.
 
-Las ausencias temporales o definitivas, así como las suplencias respectivas de los servidores públicos del IPLANEA se regularán en el Reglamento Interior.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ## TÍTULO CUARTO. INFRACCIONES ADMINISTRATIVAS
 
@@ -1412,3 +1226,41 @@ P.O. 2 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos, obligaciones y recursos materiales y financieros pertenecientes y/o asignados al Instituto de Planeación del Estado de Aguascalientes, pasarán a formar parte de la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+La SEPLAPDE asumirá las relaciones de trabajo del personal que se le transfiera, respetando los derechos laborales que la ley les confiere y hubiesen adquirido en su actual situación.
+
+###### ARTÍCULO CUARTO.
+
+La transferencia de los expedientes y recursos humanos, materiales y financieros en general que correspondan a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes en términos de lo dispuesto en la presente Ley, se hará según lo determinen la Contraloría del Estado, la Secretaría de Finanzas y la Secretaría de Administración del Estado de Aguascalientes, de conformidad con los acuerdos administrativos que para tal efecto expidan en el ámbito de su competencia.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Estado de Aguascalientes proveerá a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes, por conducto de la Secretaría de Finanzas, de los recursos necesarios para la instalación y operación de la misma, para lo cual deberá realizar las adecuaciones y reasignaciones que sean requeridas como consecuencia del presente Decreto, considerando el Presupuesto de Egresos del Estado para el Ejercicio Fiscal del Año 2022 y rindiendo lo relativo en la Cuenta Pública del Ejercicio Fiscal 2022.
+
+El presupuesto asignado al Instituto de Planeación del Estado de Aguascalientes, una vez que inicie operaciones la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes, será administrativo y ejercido por ésta, en uso de su propia estructura administrativa para financiar su gasto de operación y/o gasto de capital de acuerdo a lo dispuesto en los ordenamientos jurídicos aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Cualquier referencia al Instituto de Planeación del Estado de Aguascalientes en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes, de igual forma, los actos administrativos, jurídicos y financieros que se hubieran celebrado por dicho instituto subsistirán en sus términos para que su ejecución, seguimiento y consecución sea realizada por la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los integrantes del sector privado de la Junta de Gobierno del Instituto de Planeación del Estado de Aguascalientes formarán parte de los Consejos Sectoriales del Gobierno del Estado en los términos de las leyes y reglamentos aplicables, garantizando su intervención en la toma de decisiones inherentes al desarrollo del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+Se designa al Director de Planeación Estratégica y Proyectos Sustentables a efecto de que lleve a cabo, en nombre del Instituto de Planeación del Estado de Aguascalientes, todos los trámites relativos a su administración y extinción.
