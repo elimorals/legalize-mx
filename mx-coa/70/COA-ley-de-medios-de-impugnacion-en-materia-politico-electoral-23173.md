@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-de-impugnacion-en-materia-politico-electoral-2317
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-16"
-last_updated: "2020-10-01"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 16 de noviembre de 2001.
 
@@ -61,6 +61,10 @@ IV. La definitividad de los distintos actos y etapas de los procesos electorales
 
 V. La salvaguarda de los derechos laborales de los trabajadores del Instituto y de los del Tribunal Electoral, así como la resolución de los conflictos inherentes a dicha materia.
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VI. La constitucionalidad y legalidad de los acuerdos u omisiones de las magistraturas que conforman el Tribunal.
+
 ###### Artículo 3°.
 
 El sistema de medios de impugnación se integra por:
@@ -82,6 +86,14 @@ V. El Juicio para dirimir las controversias laborales entre el Instituto y su pe
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 La tramitación de cualquiera de los medios de impugnación se puede realizar de manera ordinaria, esto es físicamente o a través de los medios electrónicos dispuestos para tal efecto por el Pleno del Tribunal Electoral.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VI. El recurso de inconformidad.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VII. El asunto general
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -263,11 +275,11 @@ Se entiende por días hábiles todos los del año, exceptuando los sábados y do
 
 Para los efectos de este artículo, se entenderá que el proceso electoral ha concluido, cuando las constancias de mayoría o de asignación respectivas y las declaratorias de validez correspondientes, hayan quedado firmes e inatacables.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 23.
 
-Los medios de impugnación, con excepción del Juicio Laboral, previstos en esta ley deberán presentarse dentro de los tres días contados a partir del día siguiente a aquél en que se tenga conocimiento del acto o resolución impugnada, o se hubiese notificado de conformidad con la ley aplicable
+Los medios de impugnación, con excepción del Juicio Laboral, previstos en esta ley deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquél en que se tenga conocimiento del acto o resolución impugnada, o se hubiese notificado de conformidad con la ley aplicable.
 
 ###### Artículo 24.
 
@@ -795,15 +807,31 @@ V. Sobreseer cuando concurra alguna de las causales previstas por el artículo 4
 
 VI. Ordenar la realización del acto o resolución cuya omisión s~ atribuya a la autoridad responsable.
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VII. Los demás que determine el Pleno.
+VII. Emitir una acción declarativa para el reconocimiento de un derecho o situación en materia político-electoral en la que exista incertidumbre.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VIII. Los demás que determine el Pleno.
 
 En todo caso, el acto o resolución impugnado o su parte conducente se dejará subsistente en los términos que establezca el Tribunal Electoral en su resolución.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 71 Bis.
+
+Una vez que se encuentren debidamente integrados, los medios de impugnación relacionados con un proceso electoral local se resolverán en un plazo no mayor de veinte días naturales; aquellos que no lo estén, se resolverán en un plazo máximo de treinta días hábiles, con excepción del recurso de inconformidad, el cual se resolverá en un plazo máximo de quince días hábiles.
+
+Los plazos para la presentación, sustanciación y resolución de los juicios sobre conflictos laborales entre el Instituto y su personal o entre el Tribunal Electoral y su personal se sujetarán a lo dispuesto en la legislación laboral aplicable, el Reglamento Interior del Instituto y del Tribunal y los Lineamientos que se expidan para tal efecto.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 72.
 
 Las resoluciones o sentencias del Tribunal Electoral deberán ser cabal y puntualmente cumplidas por las autoridades y respetadas por las partes.
+
+Las expresiones o acciones tendentes a incumplir o dementar las sentencias podrán ameritar la imposición de correcciones disciplinarias, siempre que éstas sean objetivas y razonables.
 
 En la notificación que se haga a la autoridad responsable se le requerirá para que cumpla con la resolución o sentencia dentro del plazo que fije el Tribunal Electoral, apercibida que de no hacerlo así, sin causa justificada, se le impondrá los medios de apremio y correcciones disciplinarias más efectivos y que, además, la actitud de incumplimiento, en su caso, puede dar lugar a la inmediata separación de su cargo, sin perjuicio de quedar a disposición del Ministerio Público para la iniciación del procedimiento penal respectivo y de aplicarse las demás sanciones que correspondan conforme a las disposiciones aplicables.
 
@@ -887,9 +915,11 @@ X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudad
 
 XI. Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 82.
 
-Son causales de nulidad de una elección de diputado de mayoría relativa, Ayuntamiento o de gobernador del estado, cualesquiera de las siguientes:
+Son causales de nulidad de una elección de diputación de mayoría relativa, Ayuntamiento o gubernatura del estado, cualesquiera de las siguientes:
 
 I. Cuando alguna o algunas de las causales señaladas en el artículo anterior, se acrediten en por lo menos el veinte por ciento de las casillas en el distrito, municipio o en el estado, según sea el caso.
 
@@ -916,6 +946,10 @@ VIII. Cuando el partido, candidato o planilla ganadora reciba o utilice para su 
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2020)</small>
 
 IX. Cuando se acredite que quien gane la elección cometió violencia política contra la mujer en razón de género, siempre y cuando esta causa haya sido determinante para el resultado de la elección. El Tribunal deberá, además, dar vista a las autoridades correspondientes.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+X. Cuando se acredite la inelegibilidad de la candidatura ganadora de la elección, por haber cometido fraude a la ley por indebida sustitución, siempre que sea determinante para el resultado de la elección.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1025,15 +1059,11 @@ En los casos del artículo anterior, el Tribunal Electoral podrá modificar el a
 
 Cuando en la sección de ejecución, por efecto de la acumulación de las sentencias de los distintos juicios, se actualicen los supuestos de nulidad de elección de gobernador, diputados o Ayuntamientos previstos en esta ley; el Tribunal Electoral declarará lo conducente, aún cuando no se haya solicitado en ninguno de los juicios resueltos individualmente.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 93.
 
-Todos los medios de impugnación promovidos en el proceso electoral deberán estar resueltos en un plazo no mayor de veinte días naturales a partir de que la autoridad responsable cumpla con las obligaciones previstas eh los artículos 45 y 50 de esta ley; dicho plazo se podrá reducir a juicio del tribunal, sin que se afecten las garantías de las partes.
-
-Los demás medios de impugnación que se promuevan fuera del proceso electoral serán resueltos en un plazo máximo de treinta días hábiles contados a partir de la presentación del medio de impugnación de que se trate.
-
-Los plazos para la presentación, sustanciación y resolución de los juicios sobre conflictos laborales entre el Instituto y su personal o entre el Tribunal Electoral y su personal se sujetarán a lo dispuesto en la legislación laboral aplicable, el Reglamento Interior del Instituto y del Tribunal y los Lineamientos que se expidan para tal efecto.
+El juicio electoral, se presentará, sustanciará y resolverá en los términos previstos en esta ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1149,15 +1179,437 @@ VI. La autoridad que omita informar oportunamente y sin causa justificada, se ha
 
 El recurso de queja en materia electoral y de participación ciudadana se presentará, sustanciará y resolverá conforme a las disposiciones previstas en este título, sin perjuicio de aplicar en lo conducente las reglas generales previstas en esta ley para todos los medios de impugnación.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-#### SECCIÓN QUINTA. DEL JUICIO PARA DIRIMIR LOS CONFLICTOS LABORALES ENTRE EL INSTITUTO Y SUS TRABAJADORES Y EL TRIBUNAL ELECTORAL Y SUS TRABAJADORES
+#### SECCIÓN QUINTA. RECURSO DE INCONFORMIDAD
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 106.
 
-Para la regulación de los aspectos relativos a la presentación, sustanciación y resolución de los juicios para dirimir los conflictos laborales entre el Instituto y su personal y el Tribunal Electoral y su personal se atenderá a lo dispuesto en el Reglamento Interno del Instituto, el Reglamento Interior del Tribunal Electoral, así como en los Lineamientos que se expidan para tales efectos.
+El recurso de inconformidad procederá, a petición de parte, contra las omisiones y acuerdos de trámite dictados por la magistratura instructora de los asuntos que son sustanciados en el Tribunal.
+
+Una vez presentado, sin mayor trámite, la Secretaría General de Acuerdo y Trámite deberá dar cuenta al Pleno de su interposición y posteriormente, se turnará a una magistratura distinta a la instructora, para que proponga al Pleno la resolución.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 107.
+
+La magistratura cuyo acto u omisión se está impugnando, deberá excusarse de resolver el asunto.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 108.
+
+El recurso de inconformidad podrá interponerse por cualquiera de las partes, cumpliendo con los requisitos que establece el artículo 39 de esta ley.
+
+El plazo para interponer el recurso de inconformidad es de tres días, contados a partir del día siguiente al que surta efectos la notificación del acuerdo impugnado, o a partir de que se tenga conocimiento de la omisión.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 109.
+
+El Pleno del Tribunal resolverá el recurso de inconformidad en un plazo máximo de quince días hábiles.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 110.
+
+Cuando el recurso de inconformidad sea fundado, se dejará sin efectos el acuerdo recurrido; la magistratura que lo hubiere emitido deberá dictar uno nuevo en el que se contengan las disposiciones establecidas en la sentencia que lo resolvió.
+
+Asimismo, cuando la omisión reclamada sea fundada, se ordenará practicar la diligencia o subsanarla.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEXTA. DEL ASUNTO GENERAL
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 111.
+
+El Asunto General es la vía a través de la cual el Pleno conoce y resuelve los supuestos no regulados en la ley.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 112.
+
+El Asunto General deberá ser tramitado acorde a las reglas previstas para los medios de impugnación en general.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 113.
+
+La magistratura ponente, agotados los trámites de ley y hecho el estudio del asunto, propondrá al Pleno el proyecto de resolución que por su relevancia o trascendencia podrá ser resuelto en sesión pública.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO XII. PROCEDIMIENTOS PARA RESOLVER CONFLICTOS LABORALES
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. PRESENTACIÓN DE LA DEMANDA
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 114.
+
+La sustanciación y resolución de los Procedimientos para Resolver Conflictos Laborales se rige por las disposiciones previstas en el capítulo VIII de esta Ley, salvo las reglas particulares que para este efecto se prevean.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 115.
+
+El Pleno del Tribunal podrá suspender los plazos para la sustanciación y resolución de los procedimientos laborales, para atender de manera preferente los asuntos relacionados con los medios de impugnación presentados con motivo del desarrollo del proceso electoral ordinario o extraordinario.
+
+(ADICIONDO, P.O. 30 DE SEPTIEMBRE DE 2022)
+
+###### Artículo 116.
+
+Para efecto de la prescripción se seguirán las reglas contenidas en la Ley Federal para los Trabajadores al Servicio del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 117.
+
+En lo que no contravenga al régimen laboral de los servidores públicos de los organismos electorales, se aplicarán en el siguiente orden de prelación los siguientes ordenamientos:
+
+I. Los principios generales de justicia social que derivan del artículo 123, apartado a) de la Constitución Federal.
+
+II. La Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del artículo 123 apartado b) constitucional.
+
+III. La Ley Federal del Trabajo.
+
+IV. El Código Electoral.
+
+V. El Código Procesal Civil del Estado de Coahuila.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 118.
+
+Son partes en el procedimiento las siguientes:
+
+I. La parte actora será la persona servidora pública del Instituto o del Tribunal, quienes pueden comparecer por sí o, en su caso, a través de representante legal.
+
+II. La parte demandada será la institución electoral, a través de su representante legal o la o el servidor público del Instituto o del Tribunal, según sea el caso.
+
+III. La tercería (sic) interesada será aquella persona con un interés jurídico en la causa, derivado de un derecho incompatible con el que pretende la parte actora.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 119.
+
+Cuando se impugne la determinación del Consejo General del Instituto que resuelve el Recurso de Inconformidad previsto para el Servicio Profesional Electoral Nacional respecto del procedimiento laboral disciplinario, el Tribunal resolverá sin agotar el procedimiento para Resolver Conflictos Laborales entre el Instituto y sus servidores, siguiendo las reglas generales de los medios de impugnación en materia electoral.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 120.
+
+El Procedimiento para Resolver Conflictos Laborales se sustanciará conforme a lo siguiente:
+
+I. Presentación de la demanda.
+
+II. Contestación a la demanda.
+
+III. Audiencia de conciliación.
+
+IV. Admisión y desahogo de pruebas.
+
+V. Alegatos.
+
+VI. Cierre de instrucción y formulación del proyecto.
+
+VII. Sentencia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN TERCERA. CONTESTACIÓN A LA DEMANDA
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 121.
+
+La parte actora debe presentar su demanda en un plazo máximo de quince días hábiles siguientes al que se le notificó o se hizo sabedora del acto, resolución u omisión controvertida.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 122.
+
+La demanda se presentará por escrito ante la autoridad responsable o ante el Tribunal y contendrá los siguientes requisitos:
+
+I. Nombre y apellidos de la parte actora y el cargo que desempeñaba en el Instituto o en el Tribunal.
+
+II. Nombre y apellidos del representante legal, debiendo acompañar los documentos que acrediten dicho carácter.
+
+III. Domicilio para oír y recibir notificaciones.
+
+IV. Nombre y apellidos de la parte demandada, debiendo precisar en su caso, el cargo que ostenta y la relación laboral que mantiene con la parte actora.
+
+V. La pretensión.
+
+VI. Las consideraciones de hecho y de derecho en que se funda.
+
+VII. El acto, resolución u omisión impugnada.
+
+VIII. La fecha en que el acto o resolución impugnada fue notificada, o en su defecto, la fecha en que tuvo conocimiento de estos.
+
+IX. El ofrecimiento de las pruebas que la parte actora estime necesarias para acreditar sus pretensiones y las que deban requerirse siempre que se justifique haberlas solicitado oportunamente y no le hayan sido entregadas.
+
+X. La firma autógrafa de la parte actora; de no saber o poder firmar debe asentar su huella digital firmando a su ruego una persona ante dos testigos.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 123.
+
+Con la demanda, la parte actora deberá exhibir copias de traslado para cada una de las partes. Esta exigencia no será necesaria en los casos que la demanda se presente en forma electrónica.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 124.
+
+Presentada la demanda, se radicará y se registrará en el libro de gobierno, asignándosele el número de expediente que corresponda, y turnará al magistrado o magistrada que conocerá.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 125.
+
+La magistratura que conozca examinará el escrito de demanda y mandará aclararla, señalando con precisión en el auto relativo las deficiencias, irregularidades u omisiones que deban corregirse, cuando:
+
+I. Hubiere alguna irregularidad.
+
+II. Se hubiere omitido alguno de los requisitos que establece el artículo 122 de esta ley.
+
+III. No se hubiere acompañado, en su caso, el documento que acredite la personalidad.
+
+IV. No se hubiere expresado con precisión el acto, resolución u omisión impugnada; y
+
+V. No se hubieren exhibido las copias necesarias de la demanda.
+
+Si no se subsanan las deficiencias, irregularidades u omisiones de la demanda dentro del plazo de tres días, se tendrá por no presentada.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 126.
+
+De no existir prevención, o cumplida, la magistratura que conozca admitirá la demanda y en el mismo auto ordenará emplazar a la demandada dentro de los tres días hábiles siguientes, corriéndole traslado con copias simples de la misma y, en su caso, con el escrito aclaratorio.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 127.
+
+La demanda será notoriamente improcedente y deberá desecharse de plano, en los siguientes supuestos:
+
+I. Cuando sea presentada por quien no tenga interés jurídico.
+
+II. Cuando se presente de manera extemporánea o habiendo prescrito las acciones que se pretendan hacer valer.
+
+III. Cuando no se agote el principio de definitividad.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN CUARTA. AUDIENCIA DE CONCILIACIÓN
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 128.
+
+Dentro del plazo de diez días hábiles, contados a partir del día siguiente del emplazamiento, se deberá dar contestación a la demanda negándola, confesándola u oponiendo excepciones. La parte demandada deberá referirse a todos y cada uno de los hechos comprendidos en el escrito, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar, asimismo, podrá ofrecer las pruebas que a su derecho convenga.
+
+En caso de no dar contestación en el plazo señalado en el párrafo anterior, previo apercibimiento, se tendrá por contestada en sentido afirmativo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN QUINTA. OFRECIMIENTO, ADMISIÓN Y DESAHOGO DE PRUEBAS
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 129.
+
+Una vez contestada la demanda o habiendo trascurrido el plazo para hacerlo, se señalará fecha y hora para la celebración de la audiencia de conciliación.
+
+Si alguna de las partes no asistiera a la audiencia de conciliación, ésta podrá diferirse hasta por una ocasión, siempre que se encuentre justificada su inasistencia.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 130.
+
+En la audiencia de conciliación, se exhortará a las partes a llegar a un arreglo que ponga fin al procedimiento, dando oportunidad a las partes de entablar un diálogo tendente a facilitar una posible solución que ponga fin al procedimiento.
+
+I. Si las partes convinieran llegar a un arreglo, éste será redactado por quien atienda la audiencia, dando lectura a las partes, quienes firmarán de conformidad ante la presencia de la persona titular de la Secretaría General de Acuerdo y Trámite.
+
+II. Dicho convenio será puesto a la consideración del Pleno dentro de las veinticuatro horas siguientes para que en audiencia privada determine su aprobación. Si detecta irregularidades deberá reponerse la audiencia de conciliación.
+
+III. Si se determina que no existieron irregularidades en la audiencia de conciliación, lo sostenido por las partes resulta obligatorio para su cumplimiento, por lo que una vez que se levante el acta correspondiente el procedimiento se tendrá por concluido, para todos sus efectos procesales.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEXTA. ALEGATOS Y CIERRE DE INSTRUCCIÓN
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 131.
+
+Una vez celebrada la audiencia de conciliación, en caso de que las partes no lleguen a ningún acuerdo, se continuará con el proceso en las etapas correspondientes. Dentro de los diez días hábiles siguientes a la citada audiencia, se emitirá un acuerdo sobre la admisión o desechamiento de las pruebas ofrecidas por las partes.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 132.
+
+Para el ofrecimiento, admisión y desahogo de las pruebas se deben seguir las reglas contenidas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 133.
+
+La prueba confesional a cargo de las o los integrantes del Pleno, del Consejo General del Instituto o el titular de la Secretaría Ejecutiva del Instituto, solo será admitida si se trata de hechos propios controvertidos que no hayan sido reconocidos por la representación legal de la institución electoral correspondiente y se encuentren relacionados con la litis, de lo contrario se desechará la prueba.
+
+El desahogo de la prueba confesional se hace vía oficio y para ello, quien ofrece la prueba debe presentar el pliego de posiciones correspondiente.
+
+Las posiciones deben articularse en términos claros y precisos; no han de ser insidiosas; deben ser afirmativas, procurándose que cada una no contenga más de un hecho, y éste ha de ser propio del que declara.
+
+Cuando la pregunta contenga dos o más hechos, la magistratura instructora la examinará, determinando si debe resolverse en dos o más preguntas, o sí, por la relación que existe entre los hechos que contiene, de manera que no pueda afirmarse o negarse uno sin afirmar o negar el otro u otros, y teniendo en cuenta lo ya declarado por el absolvente, debe aprobarse como ha sido formulada. Se tienen por insidiosas las preguntas que se dirigen a obtener una confesión contraria a la verdad.
+
+Una vez calificadas de legales las posiciones por la Secretaría General de Acuerdo y Trámite, remitirá el pliego al absolvente para que, en el término de cinco días hábiles, lo conteste por escrito.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 134.
+
+Para el ofrecimiento de la prueba testimonial se observará lo siguiente:
+
+I. Sólo se podrá ofrecer un máximo de tres testigos por cada hecho controvertido que se pretenda probar.
+
+II. La parte oferente deberá indicar los nombres y domicilios de los testigos, debiendo presentarlos en la fecha que se fije para la audiencia correspondiente, excepto si estuviere impedido para ello, en cuyo caso señalará la causa que justifique tal impedimento, para que previa calificación de este, se proceda a citarlos con los apercibimientos correspondientes.
+
+III. Si el testigo no acude en la fecha y hora señaladas, en el caso de que la presentación de este estuviera a cargo del oferente, se tendrá por desierta la prueba por lo que a tal testigo se refiere; si hubiere sido citado por el Tribunal, se hará efectivo el apercibimiento respectivo y se señalará nueva fecha para su desahogo.
+
+Si el testigo tampoco acudiere a la segunda cita, podrá hacérsele efectivo el medio de apremio correspondiente y se declarará desierta la prueba por lo que hace a éste.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 135.
+
+Un solo testigo podrá formar convicción si en el mismo concurren circunstancias que sean garantía de verdad que lo hagan insospechable de falsear los hechos sobre los que declara, siempre que:
+
+I. Haya sido el único que se percató de los hechos; y
+
+II. La declaración no se encuentre en oposición con otras pruebas que obren en autos.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 136.
+
+Corresponderá al Instituto o al Tribunal probar su dicho, cuando exista controversia sobre:
+
+I. Fecha de ingreso.
+
+II. Antigüedad.
+
+III. Inasistencias.
+
+IV. Causa del cese de la relación laboral.
+
+V. Terminación de la relación de trabajo, nombramiento o contrato para obra o tiempo determinado.
+
+VI. Constancia de haber dado aviso por escrito a la servidora o servidor de la fecha y causa de su separación.
+
+VII. Contrato de trabajo o nombramiento.
+
+VIII. Duración de la jornada de trabajo.
+
+IX. Pago de días de descanso obligatorios.
+
+X. Disfrute y pago de vacaciones.
+
+XI. Pago de las primas, vacacional y de antigüedad.
+
+XII. Monto y pago de salario.
+
+XIII. Incorporación a los sistemas de seguridad social.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN SÉPTIMA. SENTENCIA
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 137.
+
+Los (sic) partes podrán presentar alegatos por escrito dentro de los tres días hábiles siguientes al desahogo de pruebas.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 138.
+
+Presentados los escritos de alegatos o habiendo transcurrido el plazo para ello, se cerrará la instrucción y en un plazo de quince días hábiles se dictará sentencia.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+#### SECCIÓN OCTAVA. DE LOS INCIDENTES
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 139.
+
+Los efectos de la sentencia del Tribunal podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnados.
+
+En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor, el demandado podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado, por concepto de prima de antigüedad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 140.
+
+Los incidentes se tramitarán dentro del expediente principal donde se promueven.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 141.
+
+Se tramitarán como incidentes de previo y especial pronunciamiento las siguientes cuestiones:
+
+I. Nulidad.
+
+II. Competencia.
+
+III. Personalidad; y
+
+IV. Excusas.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 142.
+
+Cuando se promueva un incidente de previo y especial pronunciamiento dentro de una audiencia o diligencia, se suspenderá la misma y señalará fecha para la audiencia incidental, que deberá celebrarse dentro de los cinco días hábiles siguientes.
+
+Hecho lo anterior se elaborará el proyecto de resolución para ser sometido a la consideración del Pleno, a efecto de que éste emita la determinación que corresponda. Una vez emitida la resolución incidental, se continuará con el proceso.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 143.
+
+Si en autos consta que una persona se manifiesta sabedora de una resolución, la notificación deficiente u omitida surtirá sus efectos como si estuviese hecha legalmente. En este caso, el incidente de nulidad que se promueva será desechado de plano.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 144.
+
+Los incidentes se resolverán cuando se dicte resolución definitiva, previa garantía de audiencia.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 145.
+
+En caso de incumplimiento de la sentencia, las partes podrán acudir al Tribunal mediante escrito con el que se integrará un cuadernillo de incidente de ejecución de sentencia, mismo que será remitido a la Magistratura que tramitó el asunto.
+
+Una vez integrado y remitido el cuadernillo de ejecución, la Magistratura Instructora dará vista con el escrito presentado a la parte que presuntamente incumplió la sentencia por el plazo de cinco días hábiles para que manifieste lo que a su derecho convenga.
+
+Transcurrido el plazo, el Pleno resolverá a propuesta (sic) la Magistratura Instructora, si la autoridad ha cumplido con los términos de la sentencia; de lo contrario, la requerirá para que cumpla en un plazo de cinco días hábiles, amonestándola y previniéndola de que, en caso de renuencia, se le impondrá una multa.
+
+En todo caso, para hacer cumplir sus resoluciones, el Tribunal Electoral procederá en términos de esta Ley.
 
 ## TRANSITORIOS
 
@@ -1246,3 +1698,15 @@ Los procedimientos administrativos y jurisdiccionales que estuvieran pendientes 
 ###### ARTÍCULO QUINTO.
 
 Se derogan las disposiciones que se opongan a lo previsto en el presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 272.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIOS DE IMPUGNACIÓN EN MATERIA POLÍTICO-ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones en contrario a este Decreto.
