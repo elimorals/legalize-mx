@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2021-11-26"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -277,7 +277,13 @@ X. Celebrar convenios de colaboración y coordinación con los gobiernos Federal
 
 XI. Fomentar la participación de los sectores social y privado en acciones que promuevan el acceso a una vivienda digna y decorosa, dentro de su jurisdicción, y
 
-XII. Las demás previstas en esta ley, en la Ley Federal y otras disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Promover apoyos en la obtención de licencias y permisos de construcción necesarios, en las obras que se realicen en viviendas a causa de daños sufridos por siniestros o desastres naturales;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XIII. Las demás previstas en esta ley, en la Ley Federal y otras disposiciones aplicables.
 
 #### SECCIÓN TERCERA. COORDINACIÓN DE LAS AUTORIDADES
 
@@ -1226,3 +1232,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de un plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente decreto, se deberán realizar las modificaciones a los ordenamientos legales y administrativos que resulten necesarias.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 268.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 280 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMA LA FRACCIÓN XII Y SE ADICIONA LA FRACCIÓN XIII DEL ARTÍCULO 10 DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
