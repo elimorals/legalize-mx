@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2022-06-15"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -1326,7 +1326,9 @@ III. Tener a disposición del público cajas de seguridad en buen estado, y cont
 
 IV. Tener a la vista del público letreros con recomendaciones para el uso racional del agua, así como información sobre las consecuencias legales de llevar a cabo un acto de explotación sexual comercial infantil;
 
-V. Exhibir en el establecimiento a la vista del público asistente, los documentos que certifiquen la capacitación del personal para efectuar masajes y, en el caso de los gimnasios, contar con la debida acreditación de instructores de aeróbicos, pesas o del servicio que ahí se preste, debiendo contar además con programas permanentes de mantenimiento a los aparatos que se encuentran a disposición de los usuarios;
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+V. Exhibir en el establecimiento a la vista del público asistente, los documentos que certifiquen la capacitación del personal para efectuar masajes y, en el caso de los gimnasios, contar con la debida acreditación de instructores de aeróbicos, pesas o del servicio que ahí se preste, debiendo contar además con programas permanentes de mantenimiento a los aparatos que se encuentran a disposición de los usuarios; las acreditaciones y los programas a que se hace referencia deberán ser exhibidos a la vista de los usuarios;
 
 VI. Exhibir en un lugar visible al público los precios o tarifas de los servicios que se prestan;
 
@@ -1837,3 +1839,11 @@ G.O. 15 DE JUNIO DE 2022.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 56 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
