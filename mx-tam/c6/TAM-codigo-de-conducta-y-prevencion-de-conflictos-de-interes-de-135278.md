@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-135
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-26"
-last_updated: "2018-09-26"
+last_updated: "2022-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022 (ABROGADO).
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de septiembre de 2018.
 
@@ -256,3 +258,25 @@ El presente Código de Conducta y Prevención de Conflictos de Interés de las y
 Se abroga el Código de Conducta y Prevención de Conflictos de Interés del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, publicado en el Periódico Oficial del Estado Anexo al No. 102 de fecha 24 de agosto de 2017.
 
 CIUDAD VICTORIA, TAM., A 4 DE JULIO DE 2018. ATENTAMENTE.- LA DIRECTORA GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS.- OMEHEIRA LÓPEZ REYNA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflicto de Interés de las Personas Servidoras Públicas del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Los casos no previstos en este Código de Conducta y Prevención de Conflictos de Interés de las Personas Servidoras Públicas del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, serán resueltos por el Comité de Conducta y Prevención de Conflictos de Interés del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, a propuesta de su Presidente o Presidenta.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Sistema para el Desarrollo Integral de la Familia de Tamaulipas, publicado en el Periódico Oficial del Estado No. 116 de fecha 26 de septiembre de 2018.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Código de Conducta y Prevención de Conflictos de Interés de las Personas Servidoras Públicas del Sistema para el Desarrollo Integral de la Familia de Tamaulipas.
