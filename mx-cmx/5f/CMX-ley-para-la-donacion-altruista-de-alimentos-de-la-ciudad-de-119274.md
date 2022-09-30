@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-donacion-altruista-de-alimentos-de-la-ciudad-de-119
 country: "mx"
 rank: "ley"
 publication_date: "2017-02-16"
-last_updated: "2019-03-25"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119274&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-16"
 
 LEY PARA LA DONACIÓN ALTRUISTA DE ALIMENTOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el No. 9 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 16 de febrero de 2017.
 
@@ -110,7 +110,9 @@ X. Donatario.- Organizaciones sin fines de lucro y con reconocimiento o registro
 
 XI. Institución.- Las instituciones de beneficencia pública, privada, asociaciones civiles y organizaciones con reconocimiento oficial.
 
-XII. Ley.- Ley de Procedimiento Administrativo del Distrito Federal.
+> <small>(REFORMADA, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XII. Ley de Procedimiento Administrativo de la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 25 DE MARZO DE 2019)</small>
 
@@ -366,23 +368,31 @@ V. A quienes no cumplan con la normatividad sanitaria aplicable.
 
 Quedan exentos de responsabilidad, de lo señalado en el artículo anterior, los casos en que los alimentos ya no puedan ser aprovechados para el consumo humano;
 
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 23.
 
-Las violaciones a lo establecido por la presente Ley, serán sancionadas por la Administración Pública del Distrito Federal.
+Las violaciones a lo establecido por la presente Ley, serán sancionadas por la Administración Pública de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 24.
 
-Para la imposición de sanciones se observará lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
+Para la imposición de sanciones se observará lo dispuesto por la Ley de Procedimiento Administrativo de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 25.
 
-Las sanciones que se impongan con motivo de la aplicación de la presente ley, podrán ser recurridas de acuerdo con los tiempos y procedimientos de la Ley de Procedimiento Administrativo del Distrito Federal, de conformidad con lo estipulado en los artículos 108, 109 y subsecuentes, de la Ley.
+Las sanciones que se impongan con motivo de la aplicación de la presente ley, podrán ser recurridas de acuerdo con los tiempos y procedimientos de la Ley de Procedimiento Administrativo de la Ciudad de México, de conformidad con lo estipulado en los artículos 108, 109 y subsecuentes, de la Ley.
 
 ### CAPÍTULO SEXTO. RECURSOS DE INCONFORMIDAD
 
-###### Artículo 26.
+> <small>(REFORMADO, G.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento y demás disposiciones que de ella emanen, podrán ser impugnadas mediante el recurso de inconformidad, conforme las reglas establecidas en la Ley de Procedimientos Administrativos del Distrito Federal.
+###### ARTÍCULO 26.
+
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento y demás disposiciones que de ella emanen, podrán ser impugnadas mediante el recurso de inconformidad, conforme las reglas establecidas en la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -405,3 +415,11 @@ G.O. 25 DE MARZO DE 2019.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN XII, 23, 24, 25 Y 26 DE LA LEY PARA LA DONACIÓN ALTRUISTA DE ALIMENTOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.– Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
