@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-centro-de-ferias-exposiciones-y-2619"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "1992-12-13"
+last_updated: "2022-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY QUE CREA EL CENTRO DE FERIAS, EXPOSICIONES Y CONVENCIONES DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY QUE CREA EL BURÓ DE CONGRESOS Y VISITANTES DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 30 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL CENTRO DE FERIAS, EXPOSICIONES Y CONVENCIONES DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 20 de marzo de 1988.
 
@@ -312,3 +314,53 @@ Lic. Héctor Valdivia Carreón.
 P.O. 13 DE DICIEMBRE DE 1992.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. DE 30 DE SEPTIEMBRE DE 2022.
+
+[N. DE E. TRANSITRORIOS DE LA “LEY QUE CREA EL BURÓ DE CONGRESOS Y VISITANTES DE AGUASCALIENTES”
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley que Crea el Centro de Ferias, Exposiciones y Convenciones de Aguascalientes, publicada en el Periódico Oficial del Estado el día 20 de marzo de 1988, mediante Decreto 61, así como todas sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado deberá nombrar al Director General del Buró de Congreso y Visitantes de Aguascalientes, a más tardar dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para el inicio de actividades del Buró de Congresos y Visitantes de Aguascalientes, su Consejo Directivo deberá quedar instalado a más tardar dentro de los noventa días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Directivo del Buró de Congresos y Visitantes de Aguascalientes, deberá expedir su Reglamento Interior dentro de los ciento veinte días siguientes al de su instalación.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado o la persona titular de la Dirección General del Buró de Congreso y Visitantes de Aguascalientes, según corresponda, llevarán a cabo las gestiones necesarias para garantizar el funcionamiento y operación de dicho Organismo Descentralizado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los Poderes Legislativo y Ejecutivo del Estado de Aguascalientes realizarán, en el ámbito de sus competencias, las asignaciones presupuestales que resulten necesarias, a fin de dotar de los recursos humanos, materiales y financieros que permitan el cumplimiento del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Se deberá llevar a cabo la inscripción del Buró de Congreso y Visitantes de Aguascalientes en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante la Unidad encargada del Registro Público de la Propiedad y del Comercio del Estado.
+
+###### ARTÍCULO NOVENO.
+
+A la entrada en vigor del presente Decreto en caso de ser necesario, se realizarán las transferencias de personal, de recursos financieros y materiales de una Dependencia a este Organismo Descentralizado, a través de los acuerdos administrativos que según procedan. Los acuerdos administrativos, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por la Dependencia que corresponda y la Entidad Paraestatal en cuestión.
+
+Para efecto de lo anterior, la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado, deberán de coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO DÉCIMO.
+
+Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través de las autoridades competentes, todos aquello (sic) asuntos, actos y procedimientos necesarios.
+
+###### ARTÍCULO UNDÉCIMO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
