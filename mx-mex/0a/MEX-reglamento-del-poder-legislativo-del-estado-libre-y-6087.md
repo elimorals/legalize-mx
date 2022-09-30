@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2022-03-25"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2022.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -561,11 +561,15 @@ c) Sobre la infraestructura para el tratamiento de aguas residuales y para preve
 
 d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-XXXI. La Comisión de Apoyo y Atención al Migrante, conocerá de los temas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 30 DE SEPTIEMBRE DE 2024)</small>
+
+XXXI. La Comisión de Apoyo y Atención a las Personas Migrantes, conocerá de los temas siguientes:
 
 a) La legislación en materia de migración;
 
-b) De atención a los migrantes mexiquenses; y
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2024)</small>
+
+b) De atención a las personas migrantes mexiquenses; y
 
 c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
@@ -692,6 +696,18 @@ d.- Del seguimiento y cumplimiento de las acciones preventivas, de seguridad y j
 e.- Del proceso de armonización de las leyes relacionadas con el problema de la desaparición forzada y desaparición de personas por particulares;
 
 f.- Los demás asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Cuando la naturaleza de la materia lo amerite, el asunto o iniciativa podrá turnarse a comisión distinta de aquella cuya competencia se establece en este artículo.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2024)</small>
+
+Lo dispuesto en el párrafo anterior, también será aplicable a los comités.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2024)</small>
+
+En caso de ser necesario, la Asamblea determinará lo procedente.
 
 ###### Artículo 14.
 
@@ -1099,13 +1115,13 @@ Si la sesión no pudiera efectuarse por falta de quórum, se girará nuevo citat
 
 ### CAPITULO VI. DE LAS INICIATIVAS
 
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 68.
 
-El diputado que presente una iniciativa se denominará diputado presentante.
+El diputado o la diputada, que presente una iniciativa se denominará presentante.
 
-> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2019)</small>
-
-La presentación de iniciativas será hasta por diez minutos, así como las proposiciones que no tengan tal carácter.
+La presentación de iniciativas será hasta por diez minutos, así como las proposiciones que no tengan tal carácter. La Presidencia de la Legislatura garantizará, en todo momento, que se respete el tiempo establecido para la presentación de las iniciativas y proposiciones que no tengan tal carácter; en caso de que no se pueda utilizar el cronómetro del salón de sesiones, se auxiliará con un cronómetro manual.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2018)</small>
 
@@ -1143,7 +1159,9 @@ Si las iniciativas carecen del apartado previsto por el inciso c) de la fracció
 
 Las proposiciones con punto de acuerdo serán presentadas, respecto de asuntos de interés general; cuyos efectos repercutan al Estado de México, así como exhortar respetuosamente en el ámbito de colaboración entre los Poderes del estado, la realización o cesación en la ejecución de determinados actos, el cumplimiento concreto de obligaciones, y se sujetarán a los (sic) siguientes bases:
 
-I. Deberán registrarse ante la presidencia de la Legislatura o la Secretaría de Asuntos Parlamentarios, y contener una propuesta específica de acuerdo, petición o declaración institucional de la Legislatura. Podrán ser presentadas de manera individual o a nombre de alguno de los Grupos Parlamentarios, en un tiempo de hasta cinco minutos.
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+I. Deberán registrarse ante la Presidencia de la Legislatura o la Secretaría de Asuntos Parlamentarios, y contener una propuesta específica de acuerdo, petición o declaración institucional de la Legislatura. Podrán ser presentadas de manera individual o a nombre de alguno de los Grupos Parlamentarios, en un tiempo de hasta de diez minutos;
 
 II. Ninguna proposición podrá discutirse en el pleno sin que primero pase a la Comisión o Comisiones y éstas dictaminen. En caso de resultar positivo el dictamen, se remitirá a la Directiva a fin de que se enliste en el orden del día de la sesión a fin de que se programe su discusión y votación en el pleno. En caso negativo, se comunicará al autor, y si persiste el interés de discutirse se someterá al pleno de la Legislatura para su resolución.
 
@@ -1213,9 +1231,11 @@ Los dictámenes se presentarán por escrito y contendrán una exposición clara 
 
 Si a juicio de la Legislatura resulta necesario, se deberá incorporar también un glosario de términos, a fin de dar mayor claridad y objetividad al proyecto de decreto de que se trate.
 
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 79.
 
-Los dictámenes presentados por las comisiones serán firmados por quienes los hubieren aprobado; los diputados que estuvieren en contra, podrán expresar su voto particular y solicitar que se anexe al expediente respectivo.
+Los dictámenes presentados por las comisiones serán firmados de forma autógrafa o electrónica por quienes los hubieren aprobado; los diputados que estuvieron en contra, podrán expresar su voto particular y solicitar que se anexe al expediente respectivo.
 
 ###### Artículo 80.
 
@@ -1355,11 +1375,11 @@ IV.- Se exceda del tiempo que le hubiese sido concedido;
 
 V.- Le sea solicitada una explicación pertinente.
 
-> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 102.
 
-Cuando algún miembro de la Asamblea solicite del orador en uso de la palabra una explicación pertinente, deberá dirigirse al presidente, quien consultará al primero si acepta la solicitud, en caso afirmativo se escuchará al interpelante y la respuesta será dirigida a la Asamblea; de no aceptarla, continuará el orador en uso de la palabra.
+Cuando algún miembro de la Asamblea solicite del orador una explicación pertinente, deberá dirigirse a quien presida, quien consultará al primero si acepta la solicitud; en caso afirmativo se escuchará al interpelante y la respuesta será dirigida a la Asamblea, debiendo detenerse el cómputo de los diez minutos, en tanto concluya la aclaración. De no ser aceptada la solicitud, el orador continuará con la presentación.
 
 > <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
@@ -1837,7 +1857,9 @@ IV.- Proporcionar los servicios de apoyo necesarios para la celebración de sesi
 
 V.- Formular y preparar la documentación que se requiera para el funcionamiento del proceso legislativo;
 
-VI.- Presentar para su firma las resoluciones y correspondencia del presidente y secretarios de la Legislatura y de la Diputación Permanente, así como remitir en tiempo y forma las leyes, decretos o acuerdos para su promulgación y publicación;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VI.- Presentar para su firma autógrafa o electrónica las resoluciones y correspondencia del presidente y secretarios de la Legislatura y de la Diputación Permanente, así como remitir en tiempo y forma las leyes, decretos o acuerdos para su promulgación y publicación.
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -1989,33 +2011,39 @@ II.- No haber sido condenado mediante sentencia ejecutoria, por delito grave o d
 
 III.- Poseer título profesional en cualquier ramo de la administración o afín a sus funciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 160.
 
-La Secretaría de Administración y Finanzas, tendrá las siguientes atribuciones:
+La Secretaría de Administración y Finanzas, tendrá las atribuciones siguientes:
 
-I.- Planear, organizar, coordinar y controlar el desarrollo del personal y los recursos financieros y materiales con los que cuente el Poder Legislativo;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-II.- Definir y establecer objetivos, políticas y procedimientos en materia de administración y desarrollo de personal, recursos materiales y financieros del Poder Legislativo;
+I.- Planear, organizar, coordinar y controlar los recursos humanos, financieros, materiales y tecnologías de la información y comunicación con los que cuente el Poder Legislativo;
 
-> <small>(REFORMADA, G.G. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-II Bis.- El Secretario de Administración y Finanzas, asumirá de la manera más amplia la representación y defensa jurídica del Poder Legislativo, en los juicios laborales en que sea parte, contando para tal efecto, con facultades para otorgar y revocar poderes generales y especiales, o mediante carta poder u oficio, asimismo, por delegación, podrá representar al Poder Legislativo de manera amplia o específica, en los asuntos a que se refiere la fracción IV del artículo 65 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, dicha representación, también podrá autorizarse con facultades amplias para otorgar y revocar poderes generales y especiales, o mediante carta poder u oficio.
+II.- Definir y establecer normas, objetivos, políticas y procedimientos, en materia de recursos humanos, financieros, materiales y tecnologías de la información y comunicación del Poder Legislativo;
 
-III.- Brindar apoyo a las dependencias del Poder Legislativo para su óptimo funcionamiento;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+II Bis.- La persona titular de la Secretaría de Administración y Finanzas, asumirá de la manera más amplia la representación y defensa jurídica del Poder Legislativo, en los juicios laborales en que sea parte, contando para tal efecto, con facultades para otorgar y revocar poderes generales y especiales, o mediante carta poder u oficio, asimismo, por delegación, podrá representar al Poder Legislativo de manera amplia o específica, en los asuntos a que se refiere la fracción IV del artículo 65 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, dicha representación, también podrá autorizarse con facultades amplias para otorgar y revocar poderes generales y especiales, o mediante carta poder u oficio;
 
-IV.- Elaborar el proyecto de presupuesto anual de egresos del Poder Legislativo de acuerdo a los lineamientos de la Junta de Coordinación Política;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+III.- Brindar apoyo a órganos de la Legislatura y dependencias para su óptimo funcionamiento;
 
-V.- Realizar y tramitar con la autorización del Presidente de la Junta de Coordinación Política, las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento de la Legislatura;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+IV.- Elaborar el anteproyecto de presupuesto de egresos del Poder Legislativo de acuerdo a los lineamientos de la Junta de Coordinación Política;
 
-VI.- Dar a conocer al Comité de Administración las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento de la Legislatura;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+V.- Realizar y tramitar con autorización de la Presidencia de la Junta de Coordinación Política, transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento del Poder Legislativo;
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+VI.- Dar a conocer al Comité de Administración las transferencias y ampliaciones presupuestales que se requieran para el mejor funcionamiento del Poder Legislativo;
 
 > <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2025,43 +2053,63 @@ VIII.- Administrar la aplicación de los recursos y efectuar las comprobaciones,
 
 IX.- Concertar, a través de su titular, las operaciones y convenios financieros y crediticios con instancias externas;
 
-X.- Autorizar y firmar la documentación referente a las erogaciones y pagos que con cargo al presupuesto de egresos ejerza el Poder Legislativo;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XI.- Integrar la nómina de la Legislatura, vigilando que los pagos se efectúen en los términos de ley;
+X.- Autorizar y firmar en su caso, la documentación referente a erogaciones y pagos que con cargo al presupuesto de egresos ejerza el Poder Legislativo;
 
-XII.- Establecer y operar un sistema integral de capacitación y desarrollo de personal, acorde a las necesidades del Poder Legislativo;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XIII.- Coordinar la elaboración y aplicación de programas de incentivos, calificación de méritos, evaluación del rendimiento y estímulos que propicien la superación de los servidores públicos;
+XI.- Integrar la nómina del Poder Legislativo, vigilando que los pagos se efectúen en términos de ley;
 
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XIV.- Diseñar, Instrumentar y operar programas internos de Seguridad, Higiene y Protección Civil en el trabajo, que prevengan y protejan contra riesgos, siniestros o desastres al personal, instalaciones, bienes y acervos documentales del Poder Legislativo, causados por la presencia de agentes perturbadores;
+XII.- Planear, organizar, coordinar y controlar la capacitación y desarrollo del personal, acorde a necesidades del Poder Legislativo;
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XIII.- Planear, organizar, coordinar y controlar incentivos, calificación de méritos, evaluación del rendimiento y estímulos que propicien la superación de personas servidoras públicas del Poder Legislativo;
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XIV.- Planear, organizar, coordinar y controlar, programas internos de seguridad, higiene y protección civil en el trabajo, que prevengan y protejan contra riesgos, siniestros o desastres al personal, instalaciones, bienes y acervos documentales del Poder Legislativo, causados por la presencia de agentes perturbadores;
 
 XV.- Administrar y garantizar la conservación y mantenimiento del patrimonio del Poder Legislativo;
 
-XVI.- Efectuar la recepción, guarda, custodia, registro y control de los bienes destinados al uso de las dependencias del Poder Legislativo;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XVII.- Planear, organizar, coordinar y controlar las actividades referentes a adquisiciones, almacenes, suministros, servicios generales, acervo administrativo, control patrimonial y servicios médico preventivos:
+XVI.- Controlar, organizar, guardar, custodiar y registrar los bienes muebles e inmuebles de uso del Poder Legislativo;
 
-XVIII.- Administrar el archivo general del Poder Legislativo;
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XIX.- Desarrollar permanentemente programas de modernización y simplificación administrativa que contribuyan a eficientar la operación de las áreas técnico administrativas de la Legislatura;
+XVII.- Planear, organizar, coordinar y controlar adquisición de bienes y la contratación de servicios, enajenaciones, arrendamientos, obra y servicios relacionados con las mismas, así como los almacenes, suministros, servicios generales, acervo administrativo, patrimonio y servicio médico de primer nivel;
 
-> <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XX.- Elaborar y publicar en el Periódico Oficial "Gaceta del Gobierno", los manuales de organización que sean necesarios para lograr el óptimo funcionamiento de las áreas que integran el Poder Legislativo;
+XVIII.- Administrar los documentos generados por el Poder Legislativo mediante el Sistema Institucional de Archivos y el Área Coordinadora de Archivos, en términos de la ley en la materia y demás normatividad aplicable;
 
-> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXI.- Mantener, conservar y proveer los apoyos técnicos, humanos y financieros que se requieran, para la operación del sistema electrónico de asistencia y votación;
+XIX.- Promover la modernización y simplificación administrativa que contribuyan a eficientar la operación de las áreas técnico administrativas del Poder Legislativo;
 
-> <small>(REFORMADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXII.- Ejercer el control y supervisión del personal de seguridad y vigilancia de la Legislatura;
+XX.- Coordinar la elaboración de manuales generales de organización para el óptimo funcionamiento de las dependencias del Poder Legislativo y su publicación en el Periódico Oficial “Gaceta del Gobierno”, así como la elaboración de manuales de procedimientos;
 
-> <small>(ADICIONADA, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXIII.- Las demás que le señalen los ordenamientos legales aplicables y las que determine la Junta de Coordinación Política o su presidente.
+XXI.- Proveer el apoyo humano, material, financiero y técnico que se requiera para la operación del sistema electrónico de asistencia y votación;
+
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXII.- Planear, organizar, coordinar y controlar la seguridad y vigilancia del Poder Legislativo;
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXIII.- Establecer acciones con perspectiva de género y respeto a los derechos humanos al interior del Poder Legislativo; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXIV.- Las demás que le confieran otras disposiciones jurídicas y normativas aplicables; así como las que le encomiende la Junta de Coordinación Política o quien la presida.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2263,17 +2311,47 @@ VII. Tener un mínimo de dos años de experiencia en la actividad a desarrollar.
 
 El Instituto de Estudios Legislativos tendrá las atribuciones que le señale su reglamento.
 
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPITULO XV. DE LA FIRMA ELECTRONICA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 179.
 
-(DEROGADO, G.G. 7 DE JULIO DE 2020)
+Las Diputadas y los Diputados contarán con una Firma Electrónica, que tiene por objeto agilizar la gestión del proceso legislativo, y que podrá ser utilizada para el envío y remisión de oficios, firma de acuerdos, decretos, dictámenes y cualquier otro documento propio del proceso legislativo y los actos administrativos que de este deriven.
+
+Todo documento que cuente con Certificado Digital de Firma Electrónica tendrá la misma validez legal y producirá los mismos efectos jurídicos que la firma autógrafa, sin perjuicio de aquellos actos de autoridad para los que, cualquier ordenamiento jurídico, de manera expresa, exija la firma autógrafa de la persona titular.
+
+Las Diputadas y Diputados podrán solicitar la revocación de su certificado digital de Firma Electrónica, cuando se considere que el uso de la información de su clave privada, o el dispositivo que la contiene, esté comprometida o en riesgo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 180.
 
-(DEROGADO, G.G. 7 DE JULIO DE 2020)
+La Secretaría de Administración y Finanzas realizará el registro y certificación de la Firma Electrónica, generando un expediente digital, que contendrá lo siguiente:
+
+I. Nombre de la persona autorizada;
+
+II. Fecha de registro;
+
+III. Documento que acredite la identidad de la persona autorizada;
+
+IV. Firma autógrafa para su digitalización;
+
+V. Correo electrónico institucional;
+
+VI. Validación de la Junta de Coordinación Política.
+
+Los datos personales recabados serán protegidos, de conformidad con lo previsto por la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de México y Municipios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 181.
 
-(DEROGADO, G.G. 7 DE JULIO DE 2020)
+Una vez validada la Firma Electrónica por la Junta de Coordinación Política, esta se hará llegar a las diputadas y los diputados de manera personal e intransferible, para que, a partir de su entrega, pueda ser utilizada en los trámites y procedimientos aplicables.
+
+El uso indebido de la Firma Electrónica se sancionará con base en lo establecido por las leyes aplicables en la materia.
 
 ###### Artículo 182.
 
@@ -2878,3 +2956,41 @@ Para el cumplimiento del presente Decreto, la Directiva de la Legislatura o de l
 ###### ARTÍCULO CUARTO.
 
 Con base en sus atribuciones, la Junta de Coordinación Política hará los ajustes y propuestas para la integración de comisiones legislativas y comités que garantice el cumplimiento del presente decreto.
+
+G.G. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 85.- POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 28, LA FRACCIÓN XIX DEL ARTÍCULO 62, Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 28 Y LA FRACCIÓN XX DEL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, Y SE REFORMA EL ARTÍCULO 79, LA FRACCIÓN VI DEL ARTÍCULO 152, LA FRACCIÓN XXI DEL ARTÍCULO 160, EL ARTÍCULO 179, EL ARTÍCULO 180 Y EL ARTÍCULO 181; SE ADICIONA EL CAPÍTULO XV DENOMINADO “DE LA FIRMA ELECTRÓNICA” DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Notifíquese a la Secretaría de Administración y Finanzas del Poder Legislativo del Estado Libre y Soberano de México, para que, en un término de noventa días hábiles, después de su entrada en vigor, provea lo necesario para el cumplimiento del presente Decreto.
+
+G.G. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 86.- POR EL QUE SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS DEL PODER LEGISLATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese este Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO.- La Junta de Coordinación Política proveerá lo necesario para el cumplimiento del presente Decreto.
+
+G.G. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 87.- POR EL QUE SE REFORMA EL ARTÍCULO 68, LA FRACCIÓN I DEL ARTÍCULO 72 Y EL ARTÍCULO 102, DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 89.- POR EL QUE SE REFORMA LA FRACCIÓN XXXI DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; ASÍ COMO LA FRACCIÓN XXXI DEL ARTÍCULO 13 A, Y EL INCISO B) DE LA MISMA FRACCIÓN XXXI DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
