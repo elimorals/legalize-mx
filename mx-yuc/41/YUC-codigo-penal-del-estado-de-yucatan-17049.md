@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2022-06-15"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2367,11 +2367,11 @@ En ambos casos se privará al infractor de sus derechos de familia.
 
 ### CAPÍTULO VII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 228.
 
-Comete el delito de violencia familiar, el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante, adoptado o persona que mantenga o haya mantenido una relación de hecho o de pareja con la víctima, que ejerza cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera económica, física, patrimonial, psicológica o sexual, en contra de un miembro de la familia, dentro o fuera del domicilio familiar.
+Comete el delito de violencia familiar, el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o por afinidad hasta el cuarto grado, adoptante, adoptado o persona que mantenga o haya mantenido una relación de hecho o de pareja con la víctima, que ejerza cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, denostar, denigrar o agredir de manera económica, física, patrimonial, psicológica, psicoemocional o sexual, en contra de un miembro de la familia, dentro o fuera del domicilio familiar, independientes de que se produzca o no lesiones o se configure cualquier otro delito.
 
 > <small>(REFORMADO, D.O. 13 DE MAYO DE 2022)</small>
 
@@ -2381,13 +2381,13 @@ A quien cometa el delito de violencia familiar se le impondrá de tres a ocho a�
 
 Cuando la víctima se encuentre embarazada o hasta los 6 meses posteriores al parto; se aumentará la pena hasta en dos terceras partes de la pena máxima.
 
-> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-Este delito se perseguirá por querella, salvo cuando la víctima se encuentre en estado de gravidez o durante los tres meses posteriores al parto; sea menor de dieciocho años de edad; mayor de sesenta años; o presente alguna discapacidad física o mental, total o parcial, temporal o permanente que le impida comprender el significado del hecho; o se cometa con el uso de armas de fuego o punzocortantes; se cometa con la participación de dos o más personas; se deje cicatriz permanente en alguna parte del cuerpo; existan antecedentes, legalmente documentados, de violencia familiar cometidos por el mismo agresor contra la víctima; o exista imposibilidad material de la víctima de denunciar la violencia familiar ejercida en su contra.
+Este delito aumentará la pena hasta en una mitad de la pena máxima, cuando la víctima sea menor de edad; de sesenta años o más; o presente alguna discapacidad física o mental, total o parcial, temporal o permanente que le impida comprender el significado del hecho; o se cometa con el uso de armas de fuego o punzocortantes; se cometa con la participación de dos o más personas; o se deje cicatriz permanente en alguna parte del cuerpo.
 
-> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-La violencia familiar podrá ser denunciada por cualquier persona que tenga conocimiento de este hecho o sea testigo de este. Para tal efecto, la víctima ratificará la denuncia dentro del término de diez días naturales posteriores a su presentación.
+La violencia familiar se perseguirá de oficio, y podrá ser denunciada por cualquier persona sin necesidad de que la víctima ratifique la denuncia.
 
 > <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
 
@@ -5786,3 +5786,13 @@ Este Decreto entrará en vigor al día siguiente al de su publicación en el Dia
 Artículo Segundo. Cláusula derogatoria.
 
 Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto.
+
+D.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 557/2022 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN EN MATERIA DE VIOLENCIA FAMILIAR".]
+
+Artículo único.
+
+Entrada en vigor.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno (sic) Estado de Yucatán.
