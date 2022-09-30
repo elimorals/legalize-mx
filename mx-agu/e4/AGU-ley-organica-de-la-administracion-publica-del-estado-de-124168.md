@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2021-12-29"
+last_updated: "2022-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADA EN EL P.O. DE 30 DE SEPTIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -2666,3 +2666,61 @@ El personal adscrito al organismo desconcentrado denominado Asesoría Jurídica 
 La Secretaría General de Gobierno del Estado deberá emitir las Reglas de Operación del Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Aguascalientes, así como los tabuladores dentro de un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
 
 ARTÍCULO DÉCIMO Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 01 de octubre de 2022.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el día 27 de octubre de 2017, mediante Decreto No. 164, incluidas todas las reformas que hubiere sufrido dicho cuerpo normativo, así como todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Dirección General del Registro Público de la Propiedad y el Comercio, así como la Dirección General del Instituto Catastral del Estado de Aguascalientes, que se encontraban organizacionalmente al Interior de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral, se entenderán transferidas a la Secretaría General de Gobierno, en tanto sea expedida las modificaciones a la Ley del Instituto Registral y Catastral del Estado de Aguascalientes, por lo que sus relaciones jurídicas, laborales, recursos materiales y administrativos se entenderán referidas a la Secretaría General de Gobierno.
+
+En un plazo que no exceda de 120 días naturales contados a partir de la entrada en vigor del presente decreto, deberá expedirse la Ley del Instituto Registral y Catastral del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto de Planeación del Estado de Aguascalientes, deberá a la entrada en vigor del presente Decreto, iniciar su procedimiento de extinción y liquidación correspondiente, con la finalidad de que sea la Secretaría de Planeación, Participación y Desarrollo la que ejecute lo relatico (sic) a la Ley de Planeación para el Desarrollo del Estado de Aguascalientes.
+
+Las Unidades Administrativas del Instituto de Planeación del Estado de Aguascalientes que sean parte de la Secretaría de Planeación, Participación y Desarrollo, con motivo del presente Decreto, transferirán los expedientes, asuntos y procedimientos pendientes a su cargo, para que sean asumidos por esta Secretaría.
+
+La transferencia de los recursos humanos, materiales y financieros se realizarán a través de acuerdos administrativos que emitan las autoridades competentes, estableciendo los términos y condiciones bajo los cuales deban realizarse dichas transferencias hasta la total liquidación del organismo y de conformidad con la legislación aplicable.
+
+En un plazo que no exceda de 90 días naturales contados a partir de la entrada en vigor del presente decreto, se deberán realizar las modificaciones normativas correspondientes para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en este Decreto se establezca una denominación nueva o distinta a alguna Dependencia de la Administración Pública Estatal, cuyas funciones se encuentren establecidas por la Ley que se Abroga, dichas funciones y atribuciones se entenderán concedidas a la Dependencia o Entidad Paraestatal que determine este Decreto y demás disposiciones jurídicas y normativas aplicables.
+
+###### ARTÍCULO SEXTO.
+
+A la entrada en vigor del presente Decreto se realizarán las transferencias de personal, de recursos financieros y materiales de una Entidad o Dependencia a otra, a través de los acuerdos administrativos que según procedan. Los acuerdos administrativos celebrados entre las Dependencias y las Entidades, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por la Dependencia o Entidad correspondiente.
+
+Para efecto de lo anterior, la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado, deberán de coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las obligaciones laborales de cada Entidad o Dependencia que se extinga o transforme, serán asumidas por la respectiva Dependencia o Entidad, respetando los derechos de los trabajadores, en términos de las disposiciones legales aplicables. Los derechos laborales de los trabajadores serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, en la transferencia institucional que se realice a la Dependencia o Entidad que corresponda. En su caso, los Titulares de las Entidades y Dependencias que se transformen y las de nueva creación, de acuerdo con las necesidades institucionales, podrán determinar, conjuntamente con la Secretaría de Administración y demás autoridades correspondientes, las transferencias de personal, su reubicación en otras Dependencias o Entidades, o la terminación de la relación laboral.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas del Estado, proveerá de los recursos necesarios para la instalación y funcionamiento de las Dependencias y Entidades que con base a este Decreto se crean y/o modifican, para lo cual deberá realizar las adecuaciones internas y externas, así como las reasignaciones presupuestales que sean necesarias como consecuencia del presente Decreto, considerando el Presupuesto de Egresos del Estado de Aguascalientes, para el Ejercicio Fiscal del año 2022 y presupuestos subsecuentes y rindiendo lo relativo a la Cuenta Pública del Ejercicio Fiscal correspondiente.
+
+###### ARTÍCULO NOVENO.
+
+Los programas aprobados en el Presupuesto de Egresos del Estado de Aguascalientes, para el Ejercicio Fiscal del año 2022, continuarán siendo ejecutados hasta la conclusión de dicho Ejercicio, por las Dependencias que hayan mantenido o a las que les hayan sido transferidas las atribuciones y unidades administrativas relacionadas con dichos programas.
+
+###### ARTÍCULO DÉCIMO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por las unidades administrativas responsables de los mismos conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO UNDÉCIMO.
+
+En un plazo no mayor a 120 días siguientes a la entrada en vigor del presente Decreto, las Autoridades competentes deberán emitir las adecuaciones normativas necesarias para el cumplimiento del presente Decreto. Hasta en tanto, se aplicará la normativa vigente.
