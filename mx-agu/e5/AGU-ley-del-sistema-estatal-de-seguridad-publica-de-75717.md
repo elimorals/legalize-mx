@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2022-08-15"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -123,75 +123,111 @@ La coordinación se llevará a cabo en un marco de respeto a las atribuciones en
 
 Las políticas y programas se efectuarán con base en las leyes y reglamentos aplicables, los acuerdos y resoluciones del Consejo, así como de los convenios que se celebren con arreglo a la legislación aplicable. Los acuerdos y los convenios que éstas celebren tendrán carácter obligatorio para todas las instancias involucradas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 5º.
 
-Para efectos de ésta ley, se entenderá por:
+Para efectos de esta ley, se entenderá por:
 
 I. Academias: Al Instituto Estatal de Seguridad Pública, y a las instituciones de Formación, Capacitación y Profesionalización policial;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-II. Bases de datos criminalísticas y de personal: Las bases de datos que constituyen subconjuntos sistematizados de la información contenida en registros estatales y municipales, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares de personas sujetas a un proceso o investigación penal, teléfonos celulares, registro de procesados y sentenciados, medidas cautelares, soluciones alternas y formas de terminación anticipada, así como las bases de datos del Ministerio Público y las instituciones policiales y las demás necesarias para la operación del Sistema;
+II. Bases de datos criminalísticas y de personal: Las bases de datos y la información contenida en ellas, en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, registro de procesados y sentenciados y las demás necesarias para la operación del Sistema;
 
-III. C-4: Al Centro Estatal de Telecomunicaciones;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+III. C5i: Al Centro de Comando, Control, Comunicación, Cómputo y Coordinación “Seguridad-Inteligencia-Tecnología”;
 
 IV. Carrera policial: Al servicio profesional de carrera policial;
 
-V. Consejo: Al Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VI. Consejos Municipales: A los Consejos Municipales de Seguridad Pública;
+V. Centros de Telecomunicaciones Municipales: A los Centros de Telecomunicaciones de los Municipios del Estado de Aguascalientes;
 
-VII. Consejo Nacional: Al Consejo Nacional de Seguridad Pública;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-VIII. Corporaciones Auxiliares: A las corporaciones a que se refiere el Artículo 27 de la presente Ley;
+VI. Código: Al Código Nacional de Procedimientos Penales;
 
-IX. Instituciones de Procuración de Justicia: Al Ministerio Público, Servicios Periciales y demás auxiliares de aquél, reconocidos por la Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-X. Instituciones de Seguridad Pública: A las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario, y dependencias encargadas directa o indirectamente de la seguridad pública a nivel estatal y municipal;
+VII. Consejo: Al Consejo Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XI. Instituciones Policiales: A los cuerpos de Policía, de seguridad y custodia del Sistema Penitenciario Estatal y del Centro Estatal de Desarrollo del Adolescente, de detención preventiva, o centros de arraigo, y en general, todas las dependencias encargadas de la seguridad pública estatal y municipal que realicen funciones similares. La Policía Ministerial del Estado quedará sujeta, por su ámbito de competencia, a las disposiciones de esta Ley, sin que ello demerite sus funciones y su sujeción a la potestad y vigilancia del Ministerio Público; y las demás que se constituyan con estricto apego a la Ley;
+VIII. Consejos Municipales: A los Consejos Municipales de Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XII. Mando Único: La política pública consistente en el conjunto de órdenes y lineamientos a través de los cuales se regulará la actuación conjunta y coordinada de los elementos operativos de las Instituciones Policiales encargadas de la función de Seguridad Pública del Estado y los Municipios del mismo, a través de una sola instancia rectora, la cual estará a cargo del titular de la Secretaría de Seguridad Pública del Estado.
+IX. Consejo Nacional: Al Consejo Nacional de Seguridad Pública;
 
-El Mando Único que ejerza la Secretaría se entenderá única y exclusivamente respecto a funciones que en materia operativa se ejecuten, no así acerca de ninguna otra materia.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-El Mando Único no aplicará respecto a la Dirección de Tránsito Municipal y la Jefatura Operativa de Policía Auxiliar y Comercial, así como tampoco en faltas de policía contenidas en el Código Municipal de Aguascalientes;
+X. Corporaciones Auxiliares: A las corporaciones a que se refiere el Artículo 27 de la presente Ley;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XIII. Mando: La autoridad ejercida por un superior jerárquico en servicio activo sobre sus subordinados o iguales en jerarquía, cuando éstos se encuentren bajo sus órdenes, en razón de su categoría, cargo o comisión;
+XI. Fiscalía: A la Fiscalía General del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XIV. Fiscalía: A la Fiscalía General del Estado de Aguascalientes;
+XII. Instituciones de Procuración de Justicia: Al Ministerio Público, Servicios Periciales y demás auxiliares de aquél, reconocidos por la Ley;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XV. Programa Rector: Al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia respectivamente;
+XIII. Instituciones Policiales: A los cuerpos de Policía, de seguridad y custodia del Sistema Penitenciario Estatal y del Centro Estatal de Desarrollo del Adolescente, de detención preventiva, o centros de arraigo, y en general, todas las dependencias encargadas de la seguridad pública que realicen funciones similares. La Policía Ministerial del Estado quedará sujeta, por su ámbito de competencia, a las disposiciones de esta Ley, sin que ello demerite sus funciones y su sujeción a la potestad y vigilancia del Ministerio Público; y las demás que se constituyan con estricto apego a la Ley;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XVI. Secretaría: A la Secretaría de Seguridad Pública del Estado de Aguascalientes;
+XIV. Instituciones de Seguridad Pública: A las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario, y dependencias encargadas directa o indirectamente de la seguridad pública a nivel estatal y municipal;
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XVII. Código: Al Código Nacional de Procedimientos Penales;
+XV. Ley: A la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XVIII. Medidas Cautelares y sus Condiciones: A las medidas cautelares personales, reales y las condiciones por cumplir para su imposición, sean restrictivas de la libertad personal o de otros derechos durante la suspensión condicional del proceso a prueba, así como las medidas de seguridad impuestas por la autoridad judicial por el tiempo indispensable para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento;
+XVI. Ley General: A la Ley General del Sistema Nacional de Seguridad Pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XIX. Secretariado Ejecutivo: Al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; y
+XVII. Mando: La autoridad ejercida por un superior jerárquico en servicio activo sobre sus subordinados o iguales en jerarquía, cuando éstos se encuentren bajo sus órdenes, en razón de su categoría, cargo o comisión;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XX. Sistema: Al Sistema Estatal de Seguridad Pública.
+XVIII. Mando Único: La política pública consistente en el conjunto de órdenes y lineamientos a través de los cuales se regulará la actuación conjunta y coordinada de los elementos operativos de las Instituciones Policiales encargadas de la función de Seguridad Pública del Estado y los Municipios del mismo, a través de una sola instancia rectora, la cual estará a cargo del titular de la Secretaría de Seguridad Pública del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XIX. Medidas Cautelares y sus Condiciones: A las medidas cautelares personales, reales y las condiciones por cumplir para su imposición, sean restrictivas de la libertad personal o de otros derechos durante la suspensión condicional del proceso a prueba, así como las medidas de seguridad impuestas por la autoridad judicial por el tiempo indispensable para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XX. Programa Rector: Al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia respectivamente;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXI. Secretaría: A la Secretaría de Seguridad Pública del Estado de Aguascalientes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXII. Secretariado Ejecutivo: Al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXIII. Sistema: Al Sistema Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXIV. Sistema Estatal de Información: Al conjunto integrado, organizado y sistematizado de las Bases de Datos de las distintas Instituciones en materia de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXV. Red Estatal: A la Red Estatal de Radiocomunicaciones; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXVI. Red Nacional: A la Red Integrada Nacional de Radiocomunicación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2020)</small>
 
@@ -397,7 +433,9 @@ El Consejo tendrá las siguientes atribuciones:
 
 I. Establecer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables, tendientes a cumplir los objetivos y fines de la seguridad pública;
 
-II. Establecer sistemas de coordinación con las autoridades federales, estatales, del Distrito Federal y municipales, para incrementar la eficacia de las estrategias y acciones tendientes a alcanzar los fines de la seguridad pública y de la procuración de justicia en el ámbito de competencia del Consejo;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+II. Establecer sistemas de coordinación con las autoridades federales, estatales, de la Ciudad de México y municipales, para incrementar la eficacia de las estrategias y acciones tendientes a alcanzar los fines de la seguridad pública y de la procuración de justicia en el ámbito de competencia del Consejo;
 
 III. Conformar un sistema de suministro, intercambio y sistematización de información sobre seguridad pública;
 
@@ -445,13 +483,17 @@ XXII. Crear comisiones o grupos de trabajo para el apoyo de sus funciones;
 
 XXIII. Establecer como política pública específica, el Mando Único, respetando en todo momento lo preceptuado en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; la Ley General del Sistema Nacional de Seguridad Pública y demás ordenamientos aplicables en la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXIV. Conocer, analizar y resolver las solicitudes de medidas de seguridad y protección establecidas en el artículo 61 de la Constitución Política del Estado de Aguascalientes; y
+XXIV. Establecer y promover los lineamientos, bases y demás instrumentos necesarios para el cumplimiento del objeto del C5i, de conformidad con lo dispuesto por la Ley General, en la presente Ley, la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios, y demás normatividad aplicable en la materia;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE AGOSTO DE 2022)</small>
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-XXV. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema.
+XXV. Establecer y promover lineamientos, bases y demás instrumentos necesarios que tengan como objeto la utilización y coordinación de videocámaras para grabar y/o captar imágenes con o sin sonidos en lugares públicos o privados con acceso al público, así como su posterior tratamiento; por los cuerpos de seguridad pública estatal y municipales, por prestadores de servicio de seguridad privada, o bien por otras autoridades en los inmuebles que estén a su disposición, con la finalidad de contar con herramientas útiles y eficaces para la investigación de delitos y la documentación de faltas administrativas relacionadas con la seguridad pública, en el ámbito de su competencia y con base en la legislación aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XXVI. Las demás que se establezcan en otras disposiciones normativas e instrumentos jurídicos que sean necesarios para el funcionamiento del Sistema.
 
 ###### Artículo 15.
 
@@ -672,6 +714,14 @@ Para efectos de los operativos que deban implementarse de manera conjunta entre 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
 
 También tendrá la facultad de nombrar a los Directores y Subdirectores de cada Institución Policial que conforme al Mando Único para lograr una efectiva operatividad.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+El Mando Único que ejerza la Secretaría se entenderá única y exclusivamente respecto a funciones que en materia operativa se ejecuten, no así acerca de ninguna otra materia.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+El Mando Único no aplicará respecto a la Dirección de Tránsito Municipal y la Jefatura Operativa de Policía Auxiliar y Comercial, así como tampoco en faltas de policía contenidas en los ordenamientos municipales correspondientes;
 
 ###### Artículo 35.
 
@@ -1159,49 +1209,25 @@ Los Servicios de Atención a la Ciudadanía, será la instancia para la atenció
 
 La finalidad de los Servicios de Atención a la Ciudadanía, es coadyuvar en la coordinación de las instancias competentes en la toma de decisiones y en la respuesta oportuna y eficiente a la ciudadanía a partir de información confiable que permita optimizar los recursos disponibles en el Estado, así como la coordinación con el resto de las entidades federativas en la prevención y persecución de los delitos, en los acontecimientos de protección civil y en la atención de emergencias.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ### CAPÍTULO IV. Centros de Telecomunicaciones C-4
 
 ###### Artículo 52.
 
-El C-4 es una unidad administrativa orgánicamente adscrita a la Secretaría, subordinada al Secretario de Seguridad pública, con funciones de centro de coordinación y apoyo de información y parte integrante del Sistema Estatal de información de Telecomunicaciones en Seguridad Pública y en servicios de atención a la Ciudadanía a través del Servicio Telefónico de emergencia 066 y servicio de denuncia anónima 089.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 53.
 
-Son funciones del C-4:
-
-I. Brindar un continuo apoyo a la comunidad a través de mecanismos de comunicación para el reporte y atención inmediata de llamadas de emergencia a través de una Red Estatal y Nacional de Telecomunicaciones;
-
-II. Atender las emergencias de la ciudadanía en materia de Seguridad Pública, Protección Civil y atención pre hospitalaria mediante el servicio telefónico de emergencia 066;
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
-
-III. Atender las llamadas de emergencia de toda la población, incluso las denuncias anónimas mediante el Servicio Telefónico de Emergencia 911.
-
-Las que se refieran a situaciones en donde estén en peligro o riesgo inminente la vida, integridad personal o libertad de niñas, niños y adolescentes, serán reportadas de forma inmediata a la Procuraduría de Protección de los Derechos de las Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
-
-IV. Realizar los procedimientos de monitoreo de la Red Estatal de Telecomunicaciones para corroborar su buen funcionamiento y uso adecuado;
-
-V. Realizar los procedimientos de monitoreo y registro en tiempo real de los acontecimientos e incidentes relacionados con la alteración del orden público y paz social, así como de contingencias producidas por fenómenos naturales;
-
-VI. Mantener coordinación con dependencias de Seguridad Pública de los tres niveles de gobierno, así como con instituciones de salud, protección civil, atención de emergencias y demás instancias públicas y privadas que en la materia funcionen en el Estado;
-
-VII. Elaborar con la participación de los tres niveles de gobierno, los lineamientos de coordinación interinstitucional táctico-operativos para la incorporación de las instituciones involucradas en el Sistema Estatal de Información, y servicios de atención a la ciudadanía;
-
-VIII. Mantener comunicación constante a través de la Red Nacional de Telecomunicaciones, con los centros homólogos en todo el país, con la finalidad de facilitar la coordinación de acciones y operativos en el ámbito nacional;
-
-IX. Proporcionar a las diferentes Instituciones de Seguridad Pública en el Estado, el acceso a las bases de datos contenidas en los registros estatales y del Sistema Nacional; y
-
-X. Las demás que determine el Secretario.
-
-Estas funciones bajo ninguna circunstancia suplen ni limitan las atribuciones de las distintas instituciones de los tres niveles de gobierno.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 54.
 
-Los Centros de Telecomunicaciones C-4 de los Municipios son las unidades administrativas orgánicamente adscritas a la Secretaría de Seguridad Pública o su equivalente del Municipio que se trate, con funciones de centro de coordinación y apoyo de información y de servicios telefónicos de emergencia. Se coordinarán con el Centro Estatal de Telecomunicaciones C-4 a fin de coadyuvar al debido cumplimiento de las funciones establecidas.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ###### Artículo 55.
 
-La regulación de sus estructuras, facultades, autoridades y funcionamiento, se especificará en los Reglamentos respectivos.
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 ### CAPÍTULO V. Centro de Evaluación y Control de Confianza del Estado
 
@@ -1993,13 +2019,111 @@ Los titulares de las dependencias, entidades y de las Instituciones Policiales q
 
 El acceso a los registros y a la información generada por el Sistema Estatal de Estadística Criminológica se hará bajo los más estrictos principios de confidencialidad y reserva en términos de la Ley General del Sistema Nacional de Seguridad Pública y este ordenamiento.
 
-### CAPÍTULO ÚNICO. Consejo Estatal y Municipal de Consulta y Participación Ciudadana
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-### CAPÍTULO ÚNICO. Medidas Disciplinarias y Sanciones
+### CAPÍTULO III. Centro de Comando, Control, Comunicación, Cómputo y Coordinación, e Inteligencia
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+Artículo 110 A.- El C5i es una unidad administrativa adscrita a la Secretaría, que funge como elemento operativo y que tiene por objeto el comando, control, comunicación, cómputo y coordinación en la prevención de hechos delictivos y faltas administrativas, el fortalecimiento a la persecución de los delitos y servicios de atención a la ciudadanía, mediante la modernización y mejora de instrumentos empleados por las distintas corporaciones en la operación policial a través del uso de sistemas informáticos de comunicaciones, video vigilancia y monitoreo en coordinación con las autoridades en materia de seguridad pública, procuración de justicia y servicios de atención ciudadana de los tres órdenes de gobierno, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 110 B.- Son funciones del C5i:
+
+I. Brindar apoyo a la comunidad a través de mecanismos de comunicación para el reporte y atención inmediata de llamadas de emergencia a través de la Red Nacional;
+
+II. Realizar labores de inteligencia preventiva mediante su plataforma tecnológica para brindar una respuesta proactiva ante la probable comisión de un hecho delictivo o falta administrativa;
+
+III. Recibir información del monitoreo y vigilancia que realicen instituciones de seguridad pública y privada, en los términos de los convenios que se suscriban para tal efecto;
+
+IV. Interconectar, previo convenio, todos los equipos tecnológicos de grabación de imágenes fijas o móviles con o sin sonido al C5i;
+
+V. Administrar y operar los servicios telefónicos de atención a emergencias 911 y 089, y las demás líneas de atención que se dispongan para la ciudadanía.
+
+Las que se refieran a situaciones en donde estén en peligro o riesgo inminente la vida, integridad personal o libertad de niñas, niños y adolescentes, así como en casos de violencia de género, serán atendidas de manera inmediata y reportadas ante las autoridades competentes para su seguimiento;
+
+VI. Coordinar las operaciones entre las corporaciones en materia de seguridad pública y privada en el Estado, en términos del presente Capítulo y de la presente Ley;
+
+VII. Coadyuvar en la coordinación de las operaciones entre las corporaciones y autoridades en materia de seguridad pública en los tres órdenes de gobierno;
+
+VIII. Elaborar con la participación de los tres niveles de gobierno, los lineamientos de coordinación interinstitucional táctico-operativos para la incorporación de las instituciones involucradas en el Sistema Estatal de Información, y servicios de atención a la ciudadanía;
+
+IX. Mantener coordinación con dependencias de seguridad pública de los tres niveles de gobierno, así como con instituciones de salud, protección civil, atención de emergencias, procuración de justicia y demás instancias públicas y privadas en el Estado, para dar cumplimiento al objeto del C5i;
+
+X. Garantizar el mantenimiento y óptimo funcionamiento de las bases de datos que operan en el C5i y del servicio telefónico de atención a emergencias 911 y 089;
+
+XI. Implementar, contratar, instalar y supervisar los servicios, sistemas, equipos de comunicación o geolocalización, equipamiento e infraestructura tecnológica que sean necesarios para el cumplimiento de su objeto;
+
+XII. Generar tasas de incidencia delictiva, de zonas peligrosas, de intersecciones viales más conflictivas, de percances viales, de alertamiento a la población, de recomendaciones de seguridad y de autoprotección con base en la información captada a través de los sistemas de video vigilancia a su disposición;
+
+XIII. Elaborar y coordinar el Sistema Estatal de Información con la participación de los tres niveles de gobierno;
+
+XIV. Mantener comunicación constante a través de la Red Nacional, con los centros homólogos en todo el país, con la finalidad de facilitar la coordinación de acciones y operativos en el ámbito nacional;
+
+XV. Proporcionar a las diferentes Instituciones de Seguridad Pública en el Estado, el acceso a las bases de datos contenidas en el Sistema Estatal de Información y en el Sistema Nacional de Seguridad Pública, con base a los instrumentos y/o lineamientos correspondientes;
+
+XVI. Controlar, operar, coordinar, administrar y supervisar la Red Estatal de Radiocomunicación y servir de enlace con la Red Nacional de telecomunicaciones.
+
+XVII. Las demás previstas en la normatividad aplicable, las que le ordenen sus superiores y las que sean necesarias para el cumplimiento de sus objetivos.
+
+Estas funciones bajo ninguna circunstancia suplen ni limitan las atribuciones de las distintas instituciones de los tres niveles de gobierno y se deberá garantizar en todo momento el respeto a los derechos humanos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO IV. Centros de Telecomunicación Municipales
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 110 C.- Los Centros de Telecomunicación Municipales son las unidades administrativas orgánicamente adscritas a las Instituciones de Seguridad Pública de su jurisdicción, con funciones de centro de coordinación y apoyo de información y de servicios telefónicos de emergencia.
+
+Los Centros de Telecomunicación Municipales se coordinarán con el C5i en términos de la presente Ley y demás instrumentos jurídicos necesarios a efecto de coadyuvar para el debido cumplimiento de sus funciones y objeto.
+
+Para efectos de este artículo se debe entender que los Centros de Telecomunicación Municipales cambian de denominación, de acuerdo al nivel de equipamiento que van logrando adquirir o integrar al centro, catalogándose de la siguiente manera:
+
+I. C2: Centro de Control;
+
+II. C3: Centro de Control y Confianza; y
+
+III. C4: Centro de Comando, Control, Comunicación y Cómputo.
+
+La regulación de los Centros de Telecomunicación Municipales se especificará en su normatividad respectiva, criterios y disposiciones en materia de coordinación de la seguridad pública, y en el ámbito de su competencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO V. Video Vigilancia
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 110 D.- Se entenderá por video vigilancia la captación de imágenes con o sin sonido en lugares públicos o privados con acceso al público, para la investigación de delitos y la documentación de faltas administrativas relacionadas con la seguridad pública en el Estado y en términos de la Ley de Video Vigilancia del Estado de Aguascalientes y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 110 E.- La captación o grabación de imágenes con o sin sonido en términos de esta Ley, se regirá por los siguientes principios:
+
+I. Proporcionalidad: Sólo podrá emplearse la videocámara cuando resulte adecuado en una situación concreta para la seguridad pública, de conformidad con lo dispuesto en esta Ley. La ponderación, en cada caso, entre la finalidad pretendida y la posible afectación por la utilización de la videocámara responderá al derecho a la intimidad de las personas, al honor y a la propia imagen;
+
+II. Riesgo razonable: En la utilización de videocámaras fijas, consistente en prever la proximidad de un daño o afectación a la seguridad pública;
+
+III. Peligro concreto: Aplicable en la utilización de videocámaras móviles, y que se entiende como la contingencia inminente, que sea precisa o determinada, y que provoque algún daño o afectación a la seguridad pública; y
+
+IV. Legalidad: Consistente en que todas (sic) acciones, procedimientos y mecanismos determinados por esta Ley, se regirán en estricto apego a las disposiciones contenidas en la Constitución Política de los Estado Unidos Mexicanos, Tratados y Convenios Internacionales suscritos por los Estados Unidos Mexicanos, la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios, y demás disposiciones normativas aplicables.
+
+Se deberá privilegiar el uso de la videograbación cuando no exista un método de seguridad y vigilancia de menos intrusión.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 110 F.- La utilización de videocámaras para grabar y/o captar imágenes con o sin sonidos en lugares públicos o privados con acceso al público, así como su posterior tratamiento; por los cuerpos de seguridad pública estatal y municipales, por prestadores de servicio de seguridad privada, o bien por otras autoridades en los inmuebles que estén a su disposición, con la finalidad de contar con herramientas útiles y eficaces para la investigación de delitos y la documentación de faltas administrativas relacionadas con la seguridad pública, de conformidad con la ley en la materia.
+
+También serán sujetos de esta regulación los particulares que dispongan de sistemas de equipos y sistemas tecnológicos destinados para la seguridad en los espacios privados y con uso público, de conformidad con la normatividad e instrumentos jurídicos aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 110 G.- Todos los equipos tecnológicos de grabación de imágenes fijas o móviles con o sin sonido podrán ser interconectados, previo convenio, al C5i.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Artículo 110 H.- El Estado garantizará el respeto de los derechos humanos y garantías individuales de los ciudadanos video grabados. Las imágenes que hagan reconocibles o identifiquen a los ciudadanos se constituyen en un dato personal que se encuentra regulado, se exige que su tratamiento sea de uso reservado, en referencia a su almacenamiento, uso, obtención, manejo, acceso, aprovechamiento, publicidad y transmisión, en términos de la normatividad aplicable en la materia.
 
 ## TÍTULO SEXTO. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
 
@@ -2103,7 +2227,7 @@ La base de datos deberá contar al menos, con el reporte de la ficha de identifi
 
 ## TÍTULO OCTAVO. PARTICIPACIÓN CIUDADANA EN MATERIA DE SEGURIDAD
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+### CAPÍTULO ÚNICO. Consejo Estatal y Municipal de Consulta y Participación Ciudadana
 
 ###### Artículo 121.
 
@@ -2187,9 +2311,7 @@ El Consejo Estatal de Consulta y Participación Ciudadana difundirá a través d
 
 ## TÍTULO NOVENO. RESPONSABILIDADES POR INCUMPLIMIENTO DE LA LEY
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+### CAPÍTULO ÚNICO. Medidas Disciplinarias y Sanciones
 
 ###### Artículo 129.
 
@@ -2233,6 +2355,10 @@ Contra las resoluciones que emitan los Consejos de Honor y Justicia, procederá 
 
 ## TÍTULO DÉCIMO. RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
 
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+
 ###### Artículo 133.
 
 El incumplimiento de lo dispuesto por esta Ley a cargo de los servidores públicos, será sancionado conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y demás disposiciones aplicables en la materia, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir.
@@ -2249,6 +2375,8 @@ Las acciones u omisiones de los servidores públicos que tengan a su cargo las b
 
 ## TÍTULO DÉCIMO PRIMERO. DE LAS INSTALACIONES ESTRATÉGICAS
 
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
 ###### Artículo 136.
 
 Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Política de los Estados Unidos Mexicanos, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado Mexicano, en términos de la Ley de Seguridad Nacional.
@@ -2262,6 +2390,10 @@ El Estado y los Municipios coadyuvarán en la protección y desarrollo de las ac
 El resguardo de las instalaciones estratégicas queda a cargo de la Federación, que se coordinará con las Instituciones locales y municipales correspondientes por razón del territorio en el ejercicio de esta función, las cuales garantizarán la seguridad perimetral y el apoyo operativo en caso necesario.
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA SEGURIDAD PRIVADA
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
 
 ###### Artículo 139.
 
@@ -2648,3 +2780,27 @@ Tratándose de las reformas y adiciones realizadas a la Ley del Sistema Estatal 
 ###### ARTICULO TERCERO.
 
 El Consejo del Sistema Estatal de Seguridad Publica deberá emitir, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la normatividad necesaria para dar cumplimiento al mismo.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 183.- SE REFORMAN Y SE ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
+
+###### ARTÍCULO TERCERO.
+
+Todas las referencias al C-4 en otros ordenamientos, se entenderán hechas al C5i.
+
+###### ARTÍCULO CUARTO.
+
+El Sistema Estatal de Seguridad Pública deberá crear en un término no mayor a ciento ochenta días los lineamientos y/o instrumentos necesarios para el funcionamiento y operación del C5i y del Registro Estatal de Información.
+
+###### ARTÍCULO QUINTO.
+
+Con la entrada en vigor del presente decreto, los recursos humanos, materiales y financieros seguirán formando parte de la Secretaría de Seguridad Pública del Estado de Aguascalientes.
