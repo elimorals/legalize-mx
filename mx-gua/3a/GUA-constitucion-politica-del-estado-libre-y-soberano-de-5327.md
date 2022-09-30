@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2020-09-07"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -709,13 +709,13 @@ II.- Alistarse en la Guardia Nacional;
 
 III.- Votar en las elecciones populares;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-IV.- Votar en los procesos de plebiscito y referéndum;
+IV. Votar en los procesos de plebiscito, referéndum y de revocación de mandato;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-V.- Desempeñar, de manera gratuita, los cargos que les señale la autoridad competente en los procesos de plebiscito, referéndum, electorales y censales, pero serán retribuidos aquellos que se realicen profesionalmente en los términos de esta Constitución y las leyes correspondientes; y
+V. Desempeñar de manera gratuita, los cargos que les señale la autoridad competente en los procesos de plebiscito, referéndum, revocación de mandato, electorales y censales pero serán retribuidos aquellos que se realicen profesionalmente en los términos de esta Constitución y las leyes correspondientes, y
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -787,9 +787,9 @@ El Estado de Guanajuato está constituído por la reunión de sus habitantes y p
 
 Todo Poder Público dimana del pueblo y se instituye para su beneficio.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-Esta Constitución reconoce al menos al referéndum, el plebiscito y la iniciativa popular como formas de participación ciudadana
+Esta Constitución reconoce al menos al referéndum, el plebiscito, la iniciativa popular y la revocación de mandato como formas de participación ciudadana.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -798,6 +798,28 @@ El organismo público electoral local a que se refiere el artículo 31 de esta C
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 Los actos y resoluciones que emita el organismo público electoral local en materia de participación ciudadana podrán ser impugnados en los términos que disponga la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Tratándose de la revocación de mandato, se establecerá un sistema de medios de impugnación en los términos que señale la ley.
+
+> <small>(ADICIONADO CON SUS APARTADOS, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+El procedimiento de revocación de mandato del Gobernador del Estado, se llevará a cabo conforme a lo siguiente:
+
+A. De la Solicitud.
+
+I. Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del ejercicio constitucional, y
+
+II. Será convocado por el organismo público electoral local a petición de los ciudadanos, en un número equivalente, al menos, al diez por ciento de la lista nominal de electores del Estado, en la mitad más uno de los municipios.
+
+B. De la organización del proceso.
+
+I. Se realizará mediante votación libre, directa y secreta de los ciudadanos inscritos en la lista nominal de electores del Estado, y en fecha no coincidente con las jornadas electorales, federal o locales,
+
+II. Para que el proceso de revocación de mandato sea vinculante deberá haber una participación de, por lo menos, el cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado y la votación sea por mayoría absoluta, y
+
+III. En caso de haberse revocado el mandato del Gobernador del Estado, el Congreso del Estado nombrará a quien concluirá el ejercicio constitucional, en los términos del artículo 74 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -4212,3 +4234,11 @@ P.O. 7 DE SEPTIEMBRE DE 2020.
 Artículo primero. El presente Decreto entrará en vigor a los treinta días hábiles siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo segundo. El Congreso del Estado deberá realizar los ajustes normativos que correspondan en un plazo de treinta días hábiles posteriores a la entrada en vigor y de conformidad con los alcances de este Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 96 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV Y V DEL ARTÍCULO 24; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 30; Y ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO, ESTE ÚLTIMO CON LOS APARTADOS A Y B AL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Congreso del Estado deberá expedir dentro de los 180 días siguientes a la publicación del presente Decreto, las correspondientes reformas legales en la materia.
