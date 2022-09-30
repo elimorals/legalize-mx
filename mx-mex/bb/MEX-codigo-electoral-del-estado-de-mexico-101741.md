@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2022-07-11"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -970,6 +970,16 @@ La transmisión de los debates por los medios de comunicación será gratuita y 
 ###### Artículo 74.
 
 En los procesos electorales, los partidos tendrán derecho a postular candidatos, fórmulas o planillas por sí mismos, en coalición o en candidatura común con otros partidos en los términos establecidos en la Ley General de Partidos Políticos y este Código.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+###### Artículo 74 Bis.
+
+En el caso de coalición o candidatura común para postular personas candidatas a Gobernador o Gobernadora, los partidos que la integren podrán suscribir un Acuerdo específico en el que se establezca la forma en que éstos participarán en la integración de las dependencias del Ejecutivo y sus organismos auxiliares, así como en la definición de la agenda legislativa.
+
+El Acuerdo de Participación previsto en el párrafo anterior deberá ser suscrito por la persona candidata a Gobernadora o Gobernador y las personas dirigentes estatales de los partidos políticos que integran la candidatura, con la aprobación de sus respectivos órganos directivos estatales.
+
+El Acuerdo deberá presentarse ante el Instituto para efectos de su inscripción, dentro de los plazos previstos para el registro de los convenios de coalición o de candidatura común, según se trate.
 
 > <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -2665,7 +2675,9 @@ I. Conocer de las notificaciones que formulen las organizaciones que pretendan c
 
 II. Recibir las solicitudes de registro de las organizaciones que hayan cumplido los requisitos establecidos en este Código e integrar el expediente respectivo para que el Secretario Ejecutivo lo someta a la consideración del Consejo General.
 
-III. Inscribir en el libro respectivo el registro de partidos, así como los convenios de coaliciones y de fusión.
+> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+III. Inscribir en el libro respectivo el registro de partidos, así como los convenios de coaliciones, fusión y los acuerdos de participación.
 
 IV. Coadyuvar con la Dirección de Administración para el suministro a los partidos políticos nacionales o locales con registro, del financiamiento público al que tienen derecho.
 
@@ -5187,7 +5199,13 @@ XVI. Aprobar los lineamientos para la selección, capacitación, designación y 
 
 XVII. Aprobar el programa anual de investigación, docencia y difusión de la materia electoral y de participación ciudadana.
 
-XVIII. Las demás que le otorga este Código.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XVIII. Resolver las controversias derivadas del incumplimiento a los Acuerdos a que se refiere el artículo 74 bis de este Código, de conformidad con lo previsto en Libro Séptimo del mismo.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+XIX. Las demás que le otorga este Código.
 
 > <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -5527,6 +5545,8 @@ III. El juicio de inconformidad.
 
 IV. El juicio para la protección de los derechos político-electorales del ciudadano local.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### Artículo 407.
 
 Durante el tiempo que transcurra entre dos procesos electorales sólo será procedente el recurso de apelación, que podrá ser interpuesto por:
@@ -5536,6 +5556,10 @@ I. Los partidos políticos, en contra de los actos, omisiones o resoluciones de 
 II. Las organizaciones interesadas en constituirse en partido político local, en contra de la resolución que niegue su registro.
 
 III. Las personas físicas o jurídicas colectivas contra la imposición de sanciones
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IV. En cualquier momento, los partidos políticos en contra del incumplimiento del Acuerdo de Participación establecido en el artículo 74bis de este Código.
 
 ###### Artículo 408.
 
@@ -7766,3 +7790,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Las controversias suscitadas por la presente reforma se someterán a la circunspección del Instituto Electoral del Estado de México.
 
 CUARTO. Para efectos de lo dispuesto en los párrafos octavo, noveno y décimo del artículo 248, los partidos políticos podrán postular libremente para el proceso electoral del año 2023 a un candidato o una candidata. Alternándose el género para las subsecuentes elecciones de Gobernador o Gobernadora.
+
+G.G. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 91.- POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 202, LA FRACCIÓN XVIII DEL ARTÍCULO 390, EL PRIMER PÁRRAFO DEL ARTÍCULO 407; SE ADICIONA EL ARTÍCULO 74 BIS, LA FRACCIÓN XIX DEL ARTÍCULO 390, LA FRACCIÓN IV DEL ARTÍCULO 407 DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
