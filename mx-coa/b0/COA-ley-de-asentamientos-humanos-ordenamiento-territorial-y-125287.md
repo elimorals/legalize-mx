@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2021-02-23"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -3671,6 +3671,10 @@ Este documento será indispensable para el inicio de la construcción de cualqui
 
 En ningún caso se expedirán licencias de construcción a casinos, centros de apuestas, salas de sorteos, casas de juego y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+Los Municipios, en el ámbito de sus respectivas competencias, promoverán acciones tendientes a reducir los costos que por este concepto se realicen en viviendas a causa de daños sufridos por siniestros o desastres naturales.
+
 ###### Artículo 281.
 
 La licencia provisional de construcción es el documento expedido por las autoridades competentes, por medio del cual se autoriza provisionalmente a los propietarios o poseedores de un predio para construir, ampliar, modificar, reparar o demoler una edificación o instalación.
@@ -4290,3 +4294,11 @@ P.O. 23 DE FEBRERO DE 2021.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 268.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 280 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMA LA FRACCIÓN XII Y SE ADICIONA LA FRACCIÓN XIII DEL ARTÍCULO 10 DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
