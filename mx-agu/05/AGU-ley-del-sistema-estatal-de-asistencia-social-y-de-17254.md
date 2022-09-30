@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2022-06-27"
+last_updated: "2022-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -267,7 +267,7 @@ XX.- La implementación y atención en albergues y Centros de Asistencia Social 
 
 Para los efectos del artículo anterior, el Sistema Estatal de Asistencia Social tendrá a su cargo:
 
-I.- La administración del patrimonio de la beneficencia pública;
+I.- (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2022)
 
 II.- La promoción, supervisión, vigilancia y evaluación de las instituciones de asistencia privada;
 
@@ -355,9 +355,9 @@ III.- Realizar acciones de apoyo educativo en la equidad y los derechos humanos 
 
 IV.- Promover e impulsar el sano crecimiento físico, mental y social de la niñez;
 
-V.- Coordinar las funciones relacionadas con la beneficencia pública y la beneficencia privada en el Estado, así como proponer programas de asistencia social que contribuyan al uso eficiente de los bienes que la componen.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-Asimismo, llevará a cabo todas las funciones inherentes a la autorización, inspección, supervisión, vigilancia y demás señaladas en esta Ley respecto de la constitución, funcionamiento y extinción de las instituciones de beneficencia privada;
+V.- Coordinar las funciones relacionadas con la beneficencia privada en el Estado;
 
 VI.- Fomentar, apoyar, coordinar, evaluar y supervisar las actividades que lleven a cabo las instituciones o asociaciones civiles y todo tipo de entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
@@ -853,7 +853,9 @@ II.- Promover la conjunción de los dos niveles de Gobierno en la aportación de
 
 III.- Distribuir y coordinar acciones entre las partes, de manera proporcional y equitativa;
 
-IV.- Coordinar y proponer programas para el establecimiento y apoyo de la beneficencia pública y de la asistencia privada, estatal y municipal; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
+IV.- Coordinar y proponer programas para el establecimiento y apoyo de la asistencia privada, estatal y municipal; y
 
 V.- Fortalecer el patrimonio de los Sistemas Municipales para el Desarrollo Integral de la Familia.
 
@@ -1075,9 +1077,11 @@ El Organismo está facultado para que los instrumentos que por disposición test
 
 Los herederos darán aviso al Organismo, de los bienes objeto de la sucesión que sean entregados a una institución particular.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 86.
 
-El albacea o ejecutor testamentario no podrá gravar, ni enajenar los bienes de la sucesión en que tenga interés la beneficencia pública, sin previa autorización del Organismo, la que sólo la dará si se justifica que dicha operación es necesaria para consolidarla.
+El albacea o ejecutor testamentario no podrá gravar, ni enajenar los bienes de la sucesión en que tenga interés la beneficencia pública, sin previa autorización del Instituto de la Beneficencia Pública del Estado de Aguascalientes, la que sólo la dará si se justifica que dicha operación es necesaria para consolidarla.
 
 ###### ARTICULO 87.
 
@@ -1551,11 +1555,11 @@ La infracción a lo establecido en esta Ley por parte de los funcionarios y empl
 
 Cuando un vocal falte sin justificación a las sesiones, por más de cuatro veces en forma consecutiva, se le separará del cargo y se procederá a cubrir la vacante, en los términos del Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 161.
 
-Los Notarios Públicos que autoricen escrituras en las que intervengan instituciones de beneficencia o que en alguna forma afecten los intereses de alguna de ellas sin conocimiento del Organismo, en los casos que conforme a la Ley sea necesaria la autorización para la celebración del acto, podrán ser sancionados en términos de la Ley del Notariado para el Estado de Aguascalientes.
+Los Notarios Públicos que autoricen escrituras en las que intervengan instituciones de beneficencia o que en alguna forma afecten los intereses de alguna de ellas sin conocimiento del Organismo o el Instituto de la Beneficencia Pública del Estado de Aguascalientes, según corresponda, en los casos que conforme a la Ley sea necesaria la autorización para la celebración del acto, podrán ser sancionados en términos de la Ley del Notariado para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1563,9 +1567,11 @@ Los Notarios Públicos que autoricen escrituras en las que intervengan instituci
 
 Los Notarios Públicos que no envíen al Organismo dentro del término de treinta días naturales contados a partir de su celebración aviso de testimonio de las escrituras a que se refiere el Artículo 78 de esta Ley, podrán ser sancionados por el Gobernador del Estado a través del Secretario General de Gobierno, con una amonestación y en caso de reincidencia con una multa de hasta treinta veces el valor diario de la unidad de medida y actualización.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+
 ###### ARTICULO 163.
 
-Los jueces que no rindan al Organismo los informes que establezca esta Ley, no cumplan con las disposiciones de la misma, cuando conozcan de un juicio sucesorio en el que de alguna manera intervenga la beneficencia privada o pública, serán sancionados de acuerdo con lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+Los jueces que no rindan al Organismo o el Instituto de la Beneficencia Pública del Estado de Aguascalientes, según corresponda, los informes que establezca esta Ley, no cumplan con las disposiciones de la misma, cuando conozcan de un juicio sucesorio en el que de alguna manera intervenga la beneficencia privada o pública, serán sancionados de acuerdo con lo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
 
 ###### ARTICULO 164.
 
@@ -1800,3 +1806,29 @@ P.O. 27 DE JUNIO DE 2022.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 188.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES; SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas del Estado, proveerá de los recursos necesarios para la instalación y funcionamiento del Organismo Desconcentrado señalado en el presente Decreto, para lo cual deberá realizar las adecuaciones internas y externas, así como las reasignaciones presupuestales que sean necesarias.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto, en caso de ser necesario, se realizarán las transferencias de personal, de recursos financieros y materiales de una Dependencia o Entidad a este Organismo Desconcentrado, a través de los acuerdos administrativos que según procedan. Los acuerdos administrativos, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, serán asumidos por aquella Dependencia y esta Entidad.
+
+Para efecto de lo anterior, la Secretaría de Administración, Secretaría de Finanzas y la Contraloría del Estado, deberán de coordinar y vigilar su cumplimiento.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a 120 días siguientes a la entrada en vigor del presente Decreto, las Autoridades competentes deberán emitir las adecuaciones normativas necesarias para el cumplimiento del presente Decreto. Hasta en tanto, se aplicará la normativa vigente.
+
+###### ARTÍCULO QUINTO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
