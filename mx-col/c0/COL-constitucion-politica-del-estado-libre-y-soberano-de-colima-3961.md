@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2022-09-17"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "COL"
 
 [NOTA 2: EL DECRETO NÚMERO 439, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2017, REORDENA Y CONSOLIDA DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE OCTUBRE DE 2022 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE OCTUBRE DE 2022.]</small>
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -677,9 +677,9 @@ Fuera de los periodos que señala el párrafo segundo, el Congreso celebrará se
 
 Artículo 31
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2022)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2022) (F. DE E., P.O. 1 DE OCTUBRE DE 2022)
 
-La Gobernadora o el Gobernador del Estado, en el mes de noviembre de cada año, presentará ante el Congreso del Estado un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la entidad y el cumplimiento del Plan Estatal de Desarrollo. El informe tendrá lugar en sesión solemne a la que asistirán la Presidenta o Presidente del Supremo Tribunal de Justicia y las y los integrantes de la Legislatura, en la sede del Poder Legislativo. En el último año de la Administración Pública Estatal, la presentación del informe tendrá lugar en el mes de octubre.
+La Gobernadora o el Gobernador del Estado, en el mes de noviembre de cada año, presentará ante el Congreso del Estado un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la entidad y el cumplimiento del Plan Estatal de Desarrollo. El informe tendrá lugar en sesión solemne a la que asistirán la Presidenta o Presidente del Supremo Tribunal de Justicia y las y los integrantes de la Legislatura. En el último año de la Administración Pública Estatal, la presentación del informe tendrá lugar en el mes de octubre.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
