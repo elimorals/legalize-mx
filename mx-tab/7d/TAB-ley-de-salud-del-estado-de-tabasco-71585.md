@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2022-05-28"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -735,19 +735,31 @@ La acción popular podrá ejercitarse por cualquier persona, con el sólo señal
 
 ### CAPÍTULO V. ATENCIÓN MATERNO-INFANTIL
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 58.
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. La atención de la mujer durante el embarazo, el parto y el puerperio;
+I. La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
 
-II. La atención del niño y la vigilancia de su peso y talla como parte de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y su salud visual;
+II. La atención del niño y la vigilancia de su crecimiento, desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
 
-III. La promoción de la integración y del bienestar familiar;
+III. La aplicación del tamiz neonatal para la detección de cardiopatías congénitas graves o críticas, se realizará antes del alta hospitalaria;
 
-IV. La detección temprana de la discapacidad física, sensorial y mental; y
+IV. La revisión de retina y tamiz auditivo al prematuro;
 
-V. Acciones para diagnosticar y ayudar a resolver el problema de salud visual y auditiva de los niños en las escuelas públicas y privadas.
+V. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
+
+VI. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior (sic) de pelvis, entre el primer y cuarto mes de vida, y
+
+VII. La atención del niño y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar.
+
+Es interés del Estado otorgar a los recién nacidos una atención oportuna y especializada y, en particular, prevenir la ceguera por retinopatía del prematuro, así como la prevención, diagnóstico y atención de esta.
+
+La autoridad sanitaria estatal dictará las políticas públicas para prevenir y, en su caso, reducir los embarazos de alto riesgo y nacimientos prematuros, para lo cual garantizará el acceso de estos a un servicio integral de salud.
+
+La Secretaría de Salud revisará anualmente la política pública a que se refiere el párrafo anterior y realizará un programa estatal para la prevención de la ceguera por retinopatía del prematuro; lo anterior con el apoyo, en lo conducente, del sector público federal.
 
 ###### ARTÍCULO 59.
 
@@ -4186,3 +4198,13 @@ P.O. 28 DE MAYO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 075 POR EL QUE “SE REFORMA EN SU TOTALIDAD EL ARTÍCULO 58, QUEDANDO INTEGRADO POR EL PÁRRAFO PRIMERO FRACCIONES I, II, III, IV, V, VI Y VII, Y POR LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En ejercicio de sus atribuciones y obligaciones, la Secretaría de Salud deberá realizar las gestiones necesarias para destinar recursos para el cumplimiento gradual de las disposiciones del presente Decreto y para los años sucesivos solicitar que se incluyan en su presupuesto las partidas correspondientes.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
