@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-proteccion-de-las-personas-adultas-mayores-en-33371
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-17"
-last_updated: "2022-04-06"
+last_updated: "2022-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA PROTECCIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2022.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 17 de mayo de 2003
 
@@ -541,15 +541,25 @@ IX. Las demás que se deriven de esta Ley y de otros ordenamientos legales.
 
 ### CAPÍTULO DÉCIMO. DE LA FAMILIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 20.
 
-La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que legalmente formen parte de ella, siendo responsable de proporcionar los satisfactores necesarios para su atención y desarrollo integral y tendrá las siguientes obligaciones para con ellos:
+La familia de la persona adulta mayor deberá cumplir su función social; por tanto, de manera constante y permanente deberá velar por cada una de las personas adultas mayores que legalmente formen parte de ella, siendo responsable de mantener y preservar su calidad de vida, así como proporcionar los satisfactores necesarios para su atención y desarrollo integral y tendrá las siguientes obligaciones para con ellos:
 
 I. Otorgar alimentos de conformidad con lo establecido en el Código Civil;
 
 II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
 
-III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona, bienes y derechos; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2022)</small>
+
+III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo su persona, bienes y derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2022)</small>
+
+IV. Atender sus necesidades psicoemocionales cuando el adulto mayor se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención a las personas adultas mayores a efecto de mantener los lazos familiares; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE OCTUBRE DE 2022)</small>
 
 IV. Las demás que le imponga esta Ley y otras disposiciones legales.
 
@@ -966,3 +976,11 @@ P.O. 6 DE ABRIL DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 1 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 076 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO Y LAS FRACCIONES III Y IV, Y SE ADICIONA UNA FRACCIÓN V, AL ARTÍCULO 20 DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
