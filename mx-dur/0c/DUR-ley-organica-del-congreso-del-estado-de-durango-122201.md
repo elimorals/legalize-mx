@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2022-08-25"
+last_updated: "2022-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -1331,6 +1331,10 @@ II. Ordinarias, las que por su propia naturaleza tienen una función distinta a 
 
 III. Especiales y de Investigación, las que sean designadas por el Presidente del Congreso para agilizar el desahogo de asuntos diversos que se sometan a la consideración del mismo.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2022)</small>
+
+La creación de toda ley y las modificaciones a la misma deberán, en su caso, realizarse con estricta observancia en el principio de paridad de género.
+
 ###### Artículo 94.
 
 Las Comisiones Legislativas serán propuestas por la Junta de Gobierno y Coordinación Política ante la Mesa Directiva, quien deberá someterlas a la consideración del Congreso en la tercera sesión de cada año de ejercicio constitucional, a excepción de las comisiones ordinarias, que serán nombradas al inicio del ejercicio constitucional y fungirán durante todo el período de la Legislatura.
@@ -1877,9 +1881,11 @@ A la Comisión de Juventud y Deporte, le corresponderá conocer y dictaminar sob
 
 Además impulsará la celebración anual tanto del Parlamento Joven del Estado de Durango como del Concurso Estatal y Nacional de Oratoria "Francisco Zarco".
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 149.
 
-La Comisión de Atención a Migrantes, conocerá de los asuntos relacionados con la protección a los derechos de los migrantes, conforme a las leyes de la materia.
+La Comisión de Atención a Migrantes, conocerá de los asuntos relacionados con la protección a los derechos de los migrantes y transmigrantes, conforme a las leyes de la materia.
 
 ###### Artículo 150.
 
@@ -3365,7 +3371,27 @@ El Centro de Investigaciones y Estudios Legislativos, será el órgano técnico 
 
 ### CAPITULO CUARTO
 
-RATITIFICACION (SIC) Y DESIGNACION DE SERVIDORES PÚBLICOS.
+DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 276 bis.- Las personas titulares de cada Órgano Constitucional Autónomo, deberán comparecer ante el Pleno del Congreso del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 276 ter.- La Junta de Gobierno y Coordinación Política, propondrá mediante Acuerdo la fecha de comparecencias, la cual será posterior al periodo del informe que se rindan por parte de la administración pública con motivo de la glosa.
+
+Dicho acuerdo, deberá contener, por lo menos lo siguiente:
+
+a).- Fecha de entrega en formato físico y digital al Congreso del Estado de Durango, por parte del compareciente;
+
+b).- Día y hora en que deberán comparecer;
+
+c).- Forma en que se desarrollará la comparecencia; y
+
+d).- Fecha de entrega de preguntas derivadas de la comparecencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 268.
 
@@ -3380,6 +3406,8 @@ I.- Una vez aprobado el dictamen que contiene las consideraciones legislativas r
 II.- El Gobernador del Estado, en el término al que alude el artículo anterior, remitirá sus respuestas, las que serán hechas del conocimiento del Pleno; y,
 
 III.- Cuando a juicio del Congreso, deban formularse preguntas parlamentarias respecto de situaciones de carácter especial, derivadas de situaciones generales que hagan necesaria la colaboración entre poderes, deberá seguirse el procedimiento indicado en el presente artículo.
+
+### CAPÍTULO QUINTO. RATIFICACIÓN Y DESIGNACIÓN DE SERVIDORES PÚBLICOS
 
 ###### Artículo 270.
 
@@ -3408,6 +3436,8 @@ Los titulares de las dependencias, entidades y organismos del Gobierno Estatal o
 ###### Artículo 276.
 
 La omisión de respuesta, será sancionada conforme a la ley, si al requerido le fue hecho el apremio; en todo caso, el Congreso o sus Comisiones Legislativas, se auxiliarán de cualquier medio legal o autoridad para tener acceso a la información solicitada.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 277.
 
@@ -3638,6 +3668,34 @@ SÉPTIMO. Las y los integrantes de la Mesa Directiva electos el 31 de agosto de 
 P.O. 25 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 159.- QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 212.- QUE CONTIENE REFORMA AL ARTÍCULO 149 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 213.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 93 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 219.- QUE CONTIENE ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
