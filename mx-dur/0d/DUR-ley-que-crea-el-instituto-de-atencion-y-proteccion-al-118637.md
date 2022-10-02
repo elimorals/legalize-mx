@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-atencion-y-proteccion-al-118637"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-25"
-last_updated: "2021-06-17"
+last_updated: "2022-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "DUR"
 ---
 # LEY QUE CREA EL INSTITUTO DE ATENCION Y PROTECCION AL MIGRANTE Y SU FAMILIA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY QUE CREA EL INSTITUTO DE ATENCIÓN Y PROTECCIÓN AL MIGRANTE Y SU FAMILIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 25 de diciembre de 2016.
 
@@ -904,3 +906,65 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
+
+P.O. 2 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 217.- QUE CONTIENE NUEVA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Durango, aprobada mediante Decreto No. 353, de la LXI Legislatura del Congreso del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 51, de 24 de diciembre de 2000, así como sus subsecuentes reformas y adiciones; y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se deja sin efectos el Acuerdo por el cual se crea la Coordinación General del Gabinete, emitido por el Gobernador del Estado el 16 de septiembre de 2016, el cual fue publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 77, del 25 de septiembre de 2016.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga la Ley que crea el Instituto de Atención y Protección al Migrante y su Familia del Estado de Durango, aprobada mediante Decreto No. 050, de la LXVII Legislatura del Congreso del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 103, de 26 (sic) de diciembre de 2016.
+
+###### ARTÍCULO QUINTO.
+
+Se disuelve el Organismo Público Descentralizado denominado "Instituto de Atención y Protección al Migrante y su Familia del Estado de Durango", el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación; la Junta Directiva del referido Organismo, continuará en funciones hasta que inicie el proceso de liquidación del Organismo.
+
+El presupuesto aprobado para el Instituto antes referido, correspondiente al Ejercicio Fiscal 2022, en su caso se contemplará, en el Presupuesto de Egresos Correspondiente para el ejercicio Fiscal 2023.
+
+Las funciones que desempeñaba como tal el Organismo Público Descentralizado denominado Instituto de Atención y Protección al Migrante y su Familia del Estado de Durango, serán asumidas a partir de la entrada en vigor del presente decreto por la Secretaría General de Gobierno.
+
+Respecto a los recursos humanos, se deberá reconocer su antigüedad laboral y otorgárseles los derechos laborales que deriven de la misma. El Gobierno del Estado de Durango, por conducto de la Secretaría de Finanzas y de Administración deberá realizar los trámites pertinentes para garantizar la incorporación de los trabajadores al régimen de seguridad social que corresponda a los trabajadores al Servicio del Estado.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto serán concluidos por los titulares de las unidades administrativas del Organismo Público Descentralizado denominado Instituto de Atención y Protección al Migrante y su Familia del Estado de Durango, responsables de las mismas, conforme a las disposiciones jurídicas aplicables y una vez que estos sean concluidos, iniciará el proceso de liquidación.
+
+Por lo que corresponde a los acuerdos o convenios de participación celebrados por el Instituto de Atención y Protección al Migrante y su Familia del Estado de Durango, podrán ser refrendados o revocados por la persona titular de la Secretaría General de Gobierno, sin embargo, hasta en tanto ello no suceda, seguirán vigentes y su operación e implementación correrá a cargo de la mencionada dependencia de la administración centralizada.
+
+Los juicios promovidos ante autoridades laborales, jurisdiccionales y procedimientos administrativos, en que sea parte el Organismo Público Descentralizado denominado Instituto de Atención y Protección al Migrante y su Familia del Estado de Durango, pendientes de resolución, se continuarán de conformidad con las atribuciones y normas aplicables a la Secretaría General de Gobierno.
+
+La liquidación del Organismo Público Descentralizado denominado Instituto de Atención y Protección al Migrante y su Familia del Estado de Durango, estará a cargo de un liquidador nombrado por la Secretaría de Finanzas y de Administración del Gobierno del Estado de Durango, para lo cual tendrá las más amplias facultades para actos de administración, dominio, pleitos y cobranzas y para suscribir u otorgar títulos de crédito, incluyendo aquellas que, en cualquier materia, requieran poder o clausula especial en términos de las disposiciones aplicables y para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación, sujetándose en su caso a la Ley General de Responsabilidades Administrativas.
+
+El liquidador realizará lo siguiente: verificar el inventario de los bienes propiedad del Organismo; someter a dictamen del auditor designado por la Secretaría de Contraloría, los estados financieros inicial y final de liquidación; informar mensualmente a las Secretarías de Finanzas y de Administración y de Contraloría sobre el avance y estado que guarde el proceso; llevar a cabo la entrega de los bienes propiedad del Organismo a la Secretaría de Finanzas y de Administración del Estado, a través de la Dirección de Control Patrimonial, para su posterior entrega a la Secretaría General de Gobierno; transferir en su caso, los recursos remanentes a la Secretaría de Finanzas y de Administración del Gobierno del Estado; apegarse a los acuerdos que emita el Gobierno del Estado de Durango, mediante los entes gubernamentales que se designen para tal efecto, y las demás inherentes para el desarrollo de las funciones relativas al proceso de liquidación.
+
+El liquidador actuará hasta que se concluya el proceso de liquidación el cual no podrá exceder de seis meses.
+
+La Secretaría de Contraloría del Estado, será la responsable de sancionar el proceso de entrega-recepción del Organismo que se extingue.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga la Ley que crea el Instituto para el Desarrollo Integral del Adulto Mayor del Estado de Durango, aprobada mediante Decreto No. 548, de la LXVI Legislatura del Congreso del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 28, de 7 de abril de 2016.
+
+###### ARTÍCULO SEPTIMO.
+
+Se abroga la Ley que crea el Organismo Público Descentralizado denominado "Administración del Patrimonio de la Beneficencia Pública del Estado de Durango", aprobada mediante Decreto No. 489, de la LX Legislatura del Congreso del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 48, de 14 de junio de 1998.
+
+###### ARTÍCULO OCTAVO.
+
+Se abroga la Ley que crea la Comisión de Arbitraje Médico del Estado de Durango, aprobada mediante Decreto No. 234, de la LXV Legislatura del Congreso del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 52 BIS, de 29 de diciembre de 2011.
+
+###### ARTÍCULO NOVENO.
+
+Los procedimientos de naturaleza fiscal o las controversias judiciales derivadas de los mismos, que se hayan iniciado durante la vigencia de la Ley Orgánica de la Administración Pública del Estado de Durango abrogada mediante el presente decreto, continuarán desahogándose hasta su conclusión con las disposiciones y normas vigentes al momento de su iniciación.
+
+ARTÍCULO. DÉCIMO. Quedarán vigentes los nombramientos realizados por la persona Titular del Poder Ejecutivo a partir del día 15 de septiembre de 2022 con base en la Ley Orgánica de la Administración Pública del Estado de Durango, que se abroga en el Artículo Segundo Transitorio del presente Decreto.
