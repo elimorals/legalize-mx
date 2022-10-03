@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-ejercicio-de-las-profesiones-y-actividades-13528"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-31"
-last_updated: "1987-01-31"
+last_updated: "2022-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES Y ACTIVIDADES TECNICAS EN EL ESTADO DE NAYARIT.
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2022.
 
 Ley Publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit el Sábado 31 de Enero de 1987.
 
@@ -305,9 +305,15 @@ O).- Las demás que sus Estatutos les señalen.
 
 Se entiende por servicio social el trabajo de carácter temporal que, oneroso o gratuito ejecuten o presten los estudiantes en intereses de la sociedad y del Estado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 39.
 
-Todos los estudiantes de las profesiones o actividades técnicas a que se refiere esta Ley, que no estén legalmente impedidos, deberán prestar sus servicio social en los términos de esta Ley.
+Todas las y los estudiantes de las profesiones o actividades técnicas a que se refiere esta Ley, que no estén legalmente impedidos, deberán prestar su servicio social en los términos de esta Ley.
+
+El periodo de duración computado del servicio social deberá ser considerado como experiencia profesional, sin que ello genere una relación laboral con la institución en la que se presta.
+
+La Institución o Asociación donde se haya realizado el servicio social deberá emitir un documento a la o el estudiante prestador del servicio social en el cual consten las habilidades, competencias y aptitudes adquiridas durante su desarrollo.
 
 ###### ARTICULO 40.
 
@@ -410,3 +416,11 @@ C.EMILIO M. GONZALEZ.- Rúbrica
 El Secretario General de Gobierno
 
 LIC. RAFAEL PEREZ CARDENAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 39 DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES Y ACTIVIDADES TÉCNICAS EN EL ESTADO DE NAYARIT".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
