@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2022-09-29"
+last_updated: "2022-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -515,11 +515,11 @@ Los Ayuntamientos periódicamente instrumentarán campañas de registro de nacim
 
 Una vez realizado el registro, el certificado de nacimiento, será conservado por la Oficialía del Registro Civil para evitar la duplicidad de registros.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 55.
 
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, y a su falta, los abuelos paternos o maternos, a más tardar dentro de los sesenta días naturales siguientes.
+Tienen obligación de declarar el nacimiento, el padre y la madre, las madres o cualquiera de las personas anteriores, y a su falta, los abuelos maternos o paternos, a más tardar dentro de los sesenta días naturales siguientes.
 
 ###### Artículo 56.
 
@@ -531,17 +531,21 @@ Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera d
 
 En las actas del Registro Civil por ningún concepto se asentarán palabras o expresiones que califiquen infamantemente a las personas. El acta que contenga alguna nota de tal naturaleza será testada por el Funcionario que tenga a su cargo el archivo correspondiente.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 58.
 
-El acta de nacimiento contendrá la hora, día, mes, año, y lugar de nacimiento, sexo del registrado, el nombre propio que se le imponga y los apellidos de los progenitores, de acuerdo al orden de prelación que libremente convengan. En caso de desacuerdo, o imposibilidad de los progenitores, el Oficial del Registro Civil acordará el orden de los apellidos atendiendo al interés superior de los menores. El orden de los apellidos establecido para la primera inscripción de nacimiento determinará el orden para la inscripción de los posteriores nacimientos del mismo vínculo. O los dos apellidos del que lo presentare, sin que por motivo alguno puedan omitirse; la expresión de que si es registrado vivo o muerto, impresión de la huella digital, el nombre, edad, domicilio, ocupación y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, que deberán ser dos; y si se cumplieron las prevenciones contenidas en los artículos siguientes.
+El acta de nacimiento contendrá la hora, día, mes, año, y lugar de nacimiento, sexo del registrado, el nombre propio que se le imponga y los apellidos de las personas con las que guarde vínculo filial, de acuerdo al orden de prelación que libremente convengan. En caso de desacuerdo, o imposibilidad de las y/o los solicitantes, el Oficial del Registro Civil acordará el orden de los apellidos atendiendo al interés superior de los menores. El orden de los apellidos establecido para la primera inscripción de nacimiento determinará el orden para la inscripción de los posteriores nacimientos del mismo vínculo o los dos apellidos del que lo presentare, sin que por motivo alguno puedan omitirse; la expresión de que si es registrado vivo o muerto, impresión de la huella digital, el nombre, edad, domicilio, ocupación y nacionalidad de los abuelos paternos y/o maternos; el nombre, edad, domicilio y nacionalidad de los testigos, que deberán ser dos; y si se cumplieron las prevenciones contenidas en los artículos siguientes.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 59.
 
-Cuando al presentar al menor se exhiba copia certificada del acta del matrimonio de sus padres, se asentarán a éstos como sus progenitores, salvo sentencia judicial en contrario.
+Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio entre un hombre y una mujer, se asentarán a éstos como sus progenitores, salvo sentencia judicial en contrario.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2022)</small>
+
+Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio entre dos mujeres, se asentará en el acta el vínculo filial en razón a su voluntad, salvo sentencia judicial en contrario.
 
 ###### Artículo 60.
 
@@ -549,13 +553,15 @@ Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo
 
 La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones relativas de este Código.
 
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio, declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+Además de los nombres de las personas con las que guarde vínculo filial, se hará constar en el acta de nacimiento su nacionalidad y domicilio, declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 61.
 
-Si el padre o la madre no pudieren ocurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro Civil, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre, todo lo cual se asentará en el acta.
+Si alguna de las personas con las que guarda vínculo filial no pudieren ocurrir, ni tuvieren apoderado, pero se solicite la presencia del Oficial del Registro Civil, éste pasará al lugar en que se halle la persona interesada, y allí recibirá de él la petición de que se mencione su nombre, todo lo cual se asentará en el acta.
 
 ###### Artículo 62.
 
@@ -647,11 +653,11 @@ Cuando se trate de parto múltiple se levantará un acta por cada uno de los nac
 
 De las actas de reconocimiento de hijos.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 77.
 
-Si el padre o la madre de un hijo natural o ambos, lo presentaren para que se registre su nacimiento, el acta surtirá todos los efectos del reconocimiento legal, respecto del progenitor compareciente.
+Si las madres, el padre o la madre de un hijo natural o ambos, lo presentaren para que se registre su nacimiento, el acta surtirá todos los efectos del reconocimiento legal, respecto del progenitor compareciente.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -1105,7 +1111,9 @@ III. Para variar el sexo y la identidad de la persona, en el ejercicio al libre 
 
 IV. Por existencia de errores mecanográficos y ortográficos;
 
-V. Reconocimiento voluntario de un padre de su hijo;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2022)</small>
+
+V. Reconocimiento voluntario de una hija o hijo, y
 
 VI. Por sentencia ejecutoriada que ordene el registro de reconocimiento de un hijo.
 
@@ -2597,6 +2605,8 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 Del reconocimiento de los hijos nacidos fuera del matrimonio.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 347.
 
 El matrimonio subsecuente de los padres hace que se tenga como nacidos de matrimonio a los hijos habidos antes de su celebración.
@@ -2629,7 +2639,7 @@ De la adopción.
 
 ###### Artículo 353.
 
-La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre, del solo hecho del nacimiento. Respecto del padre, solo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
+La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre, del hecho del nacimiento; y en su caso, por el reconocimiento voluntario en tanto no se determine en sentencia judicial reconocimiento de paternidad. Respecto del padre, sólo se establece por el reconocimiento voluntario o por una sentencia judicial que declare la paternidad.
 
 ###### Artículo 354.
 
@@ -2719,9 +2729,11 @@ Si el hijo reconocido es menor, puede reclamar contra el reconocimiento cuando l
 
 El término para deducir esta acción será de dos años, que comenzará a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 370.
 
-La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligado a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
+La mujer que cuida o ha cuidado de la lactancia de un niño o niña, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo o hija propia y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que se haya hecho o pretenda hacer de ese niño o niña. En este caso no se le podrá separar de su lado, a menos que consienta en hacer la entrega, o que fuere obligada por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
 
 ###### Artículo 371.
 
@@ -16670,3 +16682,15 @@ P.O. 29 DE SEPTIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- Remítase de manera electrónica el resolutivo a la Dirección del Registro Civil del Gobierno del Estado de Nayarit y a los registros civiles de los veinte Ayuntamientos del Estado; así como al Colegio de Notarios del Estado de Nayarit para su conocimiento.
+
+P.O. 3 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE RECONOCIMIENTO DE MENORES EN COMATERNIDAD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- A partir de la publicación del presente Decreto, el Ejecutivo Estatal y los Ayuntamientos tendrán un plazo de 90 días hábiles para realizar las adecuaciones reglamentarias correspondientes.
+
+TERCERO.- Comuníquese el presente Decreto al Ejecutivo del Estado y a los veinte Ayuntamientos de la Entidad, para los efectos conducentes.
+
+CUARTO.- Comuníquese el presente Decreto a las Direcciones de Registro Civil del Estado y los Municipios, para los efectos conducentes.
