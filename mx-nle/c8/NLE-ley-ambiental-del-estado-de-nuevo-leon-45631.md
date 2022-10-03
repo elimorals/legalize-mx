@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2022-06-10"
+last_updated: "2022-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -703,13 +703,17 @@ LIV. Convenir con los Municipios y la Secretaría de Salud, para generar, actual
 
 En materia de protección al ambiente de las emisiones que se generen por estos servicios la Secretaría establecerá la reglamentación que señale los requisitos y sanciones que correspondan;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2022)</small>
 
-LV. Promover, Impulsar y realizar campañas permanentes encaminadas a la separación, reutilización, y reciclado de los residuos sólidos; así como promover la educación ambiental de la población para controlar y separar los residuos desde la casa; y
+LV. Realizar las acciones que le competan a fin de reducir las emisiones contaminantes provocadas por el uso de artificios pirotécnicos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2021)</small>
+(REUBICADA [N. DE E. ANTES FRACCIÓN LV], P.O. 3 DE OCTUBRE DE 2022)
 
-LVI. Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
+LVI. Promover, Impulsar y realizar campañas permanentes encaminadas a la separación, reutilización, y reciclado de los residuos sólidos; así como promover la educación ambiental de la población para controlar y separar los residuos desde la casa; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN LVI], P.O. 3 DE OCTUBRE DE 2022)</small>
+
+LVII.- Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
 
 ###### Artículo 9.
 
@@ -2393,6 +2397,14 @@ VII. Promover ante los responsables de la operación de fuentes contaminantes, l
 
 VIII. Ejercer las demás facultades que les confieren esta Ley y los demás ordenamientos aplicables.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 133 Bis.
+
+Con el fin de reducir las emisiones contaminantes a la atmósfera, el Estado y los Municipios evitarán el uso de artificios pirotécnicos en los eventos públicos que estos lleven o cabo, cuando exista una contingencia ambiental.
+
+Los municipios deberán establecer como condicionante, al otorgar las autorizaciones o permisos para la realización de espectáculos, o en su caso, uso de uso de (sic) suelo para salones de eventos sociales o similares, la no utilización de artificios pirotécnicos, si existe al día del evento la declaración de contingencia ambiental.
+
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 134.
@@ -2789,6 +2801,20 @@ Tanto las dependencias de gobierno, así como los distribuidores o vendedores, e
 
 La Secretaría podrá llevar a cabo campañas informativas para dar a conocer a la ciudadanía los lugares de depósito a donde puede llevar las pilas, baterías eléctricas o acumuladores para su disposición final.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 172 Bis 3.
+
+Las personas físicas o morales responsables de la comercialización de dispositivos eléctricos o electrónicos, entendido como tal, cualquier aparato que para funcionar utilice corriente eléctrica o campos electromagnéticos, así como aquellos que cuentan con componentes o circuitos que generan, transmiten, miden, controlan, o en general aprovechan la corriente y campos electromagnéticos, cumplirán con las siguientes obligaciones:
+
+I. Deberán realizar, por lo menos una vez al año, programas o campañas encaminadas a reducir la basura electrónica estableciendo contenedores para el depósito gratuito de este tipo de residuos.
+
+En caso de establecimientos que se encuentren ubicados en plazas comerciales podrán convenir entre ellos destinar un lugar en común para este efecto;
+
+II. Las personas físicas y morales a que se refiere este articulo deberán contratar en forma colectiva o individual, un servicio de recolección especializado de este tipo de residuos para su confinamiento final; y
+
+III. Las personas físicas y morales a que se refiere este artículo podrán coordinarse con el Estado o Municipios para la realización y operatividad.
+
 ###### Artículo 173.
 
 Las personas físicas o morales responsables de la producción, distribución o comercialización de bienes que, una vez terminada su vida útil, generen residuos sólidos urbanos y de manejo especial en alto volumen o que produzcan desequilibrios significativos al medio ambiente, cumplirán, además de las obligaciones que se establezcan en la presente Ley y otras disposiciones aplicables, con las siguientes:
@@ -3001,9 +3027,15 @@ Asimismo, la autoridad municipal establecerá los casos en los cuales los titula
 
 De la misma forma, corresponderá a los Municipios verificar que las emisiones sonoras dentro de los establecimientos señalados se mantengan en los decibeles autorizados, empleando para ello instrumentos de medición debidamente calibrados.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2022)</small>
+
+Artículo 187 bis 1.- Para el caso de zonas habitacionales conformadas por viviendas unifamiliares y/o multifamiliares, los Municipios establecerán en sus reglamentos en la materia los límites máximos de emisiones sonoras, los cuales serán de 55 decibeles para el horario comprendido de las 6:00 a las 22:00 horas y de 50 decibeles para el de las 22:00 a las 6:00 horas.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 188.
 
-En la construcción de obras o instalaciones que generen los contaminantes señalados en el artículo anterior, así como en la operación o funcionamiento de las mismas, deberán llevarse a cabo las acciones preventivas y correctivas necesarias para evitar y mitigar los efectos negativos de tales contaminantes en los ecosistemas y en el ambiente, previo dictamen de la autoridad correspondiente.
+En la construcción de obras o instalaciones que generen los contaminantes señalados en los artículos 187, 187 Bis y 187 Bis 1, así como en la operación o funcionamiento de las mismas, deberán llevarse a cabo las acciones preventivas y correctivas necesarias para evitar y mitigar los efectos negativos de tales contaminantes en los ecosistemas y en el ambiente y en su caso la reparación de los daños en bienes o personas, previo dictamen de la autoridad correspondiente.
 
 ###### Artículo 189.
 
@@ -4170,3 +4202,25 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 155. SE REFORMAN LA FRACCIÓN LXXXVIII DEL ARTÍCULO 3 Y LAS FRACCIONES III Y IV Y POR ADICIÓN DE LA FRACCIÓN V AL ARTÍCULO 155 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 220. SE ADICIONAN LA FRACCIÓN LVII DEL ARTÍCULO 8 Y EL ARTÍCULO 133 BIS, DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 221. SE ADICIONA EL ARTÍCULO 172 BIS 3 A LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO: El presente Decreto entrará en vigor a los 60 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 223. SE REFORMA EL ARTÍCULO 188 Y SE ADICIONA EL ARTÍCULO 187 BIS 1, DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Los Municipios del Estado a partir de la entrada en vigor del presente Decreto, tendrán un plazo no mayor a 90 días para realizar las modificaciones necesarias a sus Reglamentos conforme a la presente reforma.
