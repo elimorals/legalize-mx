@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2022-09-15"
+last_updated: "2022-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 15 DE SEPTIEMBRE DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 4 DE OCTUBRE DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE OCTUBRE DE 2022.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -8033,6 +8033,8 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 
 > <small>[N. DE E. VÉASE REFORMAS AL ANEXO 21.2 LINEAMIENTOS DEL VOTO ELECTRÓNICO POR INTERNET PARA LAS MEXICANAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO, EN EL D.O.F. DE 15 DE SEPTIEMBRE DE 2022, PÁGINAS DE LA 106 A LA 124.]</small>
 
+> <small>[N. DE E. VÉASE ANEXO 21.1 LINEAMIENTOS PARA LA ORGANIZACIÓN DEL VOTO POSTAL DE LAS MEXICANAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO PARA LOS PROCESOS ELECTORALES Y DE PARTICIPACIÓN CIUDADANA, EN EL D.O.F. DE 4 DE CTUBRE DE 2022, PÁGINAS DE LA 106 A LA 124.]</small>
+
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 12 DE DICIEMBRE DE 2016.
@@ -9548,5 +9550,27 @@ SEXTO. Se instruye al Secretario Ejecutivo, a través de la Dirección Jurídica
 SÉPTIMO. El presente Acuerdo y las modificaciones realizadas al Acuerdo INE/CG346/2022, así como al Anexo 21.2 del Reglamento de Elecciones del Instituto Nacional Electoral relativo a los Lineamientos del voto electrónico por Internet para las mexicanas y los mexicanos residentes en el extranjero, por las que se da cumplimiento a la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el recurso de apelación SUP-RAP-141/2022 entrarán en vigor al día siguiente de su aprobación por parte de este Consejo General.
 
 OCTAVO. Publíquese el presente Acuerdo y su Anexo en la Gaceta Electoral, en NormaINE y en el portal de internet del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE OCTUBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA ORGANIZACIÓN DEL VOTO POSTAL DE LAS MEXICANAS Y LOS MEXICANOS RESIDENTES EN EL EXTRANJERO PARA LOS PROCESOS ELECTORALES Y DE PARTICIPACIÓN CIUDADANA; ASIMISMO, SU PUBLICACIÓN COMO ANEXO 21.1 DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDOS
+
+PRIMERO. Se aprueban los “Lineamientos para la organización del voto postal de las mexicanas y los mexicanos residentes en el extranjero para los procesos electorales y de participación ciudadana”, de conformidad con el anexo que acompaña al presente acuerdo y forma parte integral del mismo.
+
+SEGUNDO. Se aprueba la publicación de los “Lineamientos para la organización del voto postal de las mexicanas y los mexicanos residentes en el extranjero para los procesos electorales y de participación ciudadana” como Anexo 21.1 del Reglamento de Elecciones del Instituto Nacional Electoral, a fin de que formen parte integral del mismo.
+
+Para tal efecto, se instruye a la Dirección Jurídica a incluir los lineamientos aprobados en el punto primero del presente acuerdo en el compilado de anexos del Reglamento de Elecciones del Instituto Nacional Electoral que se encuentra publicado en NormaINE, https://norma.ine.mx/.
+
+TERCERO. Se instruye a la Dirección Jurídica a retirar del compilado de anexos del Reglamento de Elecciones del Instituto Nacional que se encuentra publicado en NormaINE, https://norma.ine.mx/, el Anexo 21 correspondiente a los “Lineamientos para la organización del voto postal de las ciudadanas y los ciudadanos mexicanos residentes en el extranjero para los Procesos Electorales Federal y Locales 2017-2018”, que fueron aprobados y modificados mediante acuerdos INE/CG196/2017 e INE/CVMRE-05SO: 15/11/2017, respectivamente, por haber cumplido el objetivo y la temporalidad para los que fueron emitidos.
+
+CUARTO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, a notificar el presente acuerdo a los Organismos Públicos Locales de las entidades federativas cuya legislación contemple el Voto de las Mexicanas y los Mexicanos Residentes en el Extranjero.
+
+QUINTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, a informar a las personas integrantes de la Comisión Nacional de Vigilancia lo aprobado por este órgano superior de dirección.
+
+SEXTO. El presente acuerdo y su anexo entrarán en vigor a partir del día de su aprobación por parte de este Consejo General.
+
+SÉPTIMO. Publíquense el presente acuerdo y su anexo en la Gaceta Electoral, en NormaINE, en el portal electrónico del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
