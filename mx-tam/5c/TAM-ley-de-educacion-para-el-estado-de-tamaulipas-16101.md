@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2022-06-14"
+last_updated: "2022-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -1529,13 +1529,17 @@ El Estado y los Municipios también llevarán a cabo programas asistenciales, ay
 
 Además de las actividades enumeradas en este artículo, la Autoridad Educativa aplicará los programas compensatorios implementados de manera conjunta con la Autoridad Educativa Federal, a través de los recursos específicos que para tal efecto designe esta última, considerando preferentemente las regiones con mayores rezagos educativos, previa celebración de convenios en los que se concierten las proporciones de financiamiento y las acciones específicas que las autoridades educativas deban realizar para reducir y superar dichos rezagos.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2022)</small>
 
-El Instituto Nacional para la Evaluación de la Educación y las autoridades educativas de conformidad a los lineamientos que para tal efecto expida el Instituto, evaluarán en los ámbitos de sus competencias los resultados de calidad educativa de los programas compensatorios antes mencionados; y
+El Instituto Nacional para la Evaluación de la Educación y las autoridades educativas de conformidad a los lineamientos que para tal efecto expida el Instituto, evaluarán en los ámbitos de sus competencias los resultados de calidad educativa de los programas compensatorios antes mencionados;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2022)</small>
 
-XIX.- Desde una perspectiva de género, se procurará facilitar de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes, en las escuelas públicas pertenecientes al sistema educativo estatal.
+XIX.- Desde una perspectiva de género, se procurará facilitar de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes, en las escuelas públicas pertenecientes al sistema educativo estatal; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2022)</small>
+
+XX.- Impulsarán y desarrollarán programas, cursos y actividades para fortalecer la capacitación obligatoria para los educadores en formación y en funciones, así como personal educativo que contribuyen en la atención de las niñas, niños y adolescentes con discapacidad con valor curricular y puntaje para la carrera de las maestras y maestros.
 
 ###### ARTICULO 79.
 
@@ -2432,6 +2436,14 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 P.O. 14 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-166 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXIV, DEL ARTÍCULO 12, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-368 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX, Y SE ADICIONA LA FRACCIÓN XX, AL ARTÍCULO 78, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
