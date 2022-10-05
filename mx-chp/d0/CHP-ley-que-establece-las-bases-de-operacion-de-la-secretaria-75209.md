@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2020-02-12"
+last_updated: "2022-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -243,7 +243,7 @@ I. Estado Mayor.
 
 II. Coordinación de Administración.
 
-III. Área de Rescate y Atención Médica.
+III. (DEROGADA, P.O. 5 DE OCTUBRE DE 2022)
 
 IV. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2019)
 
@@ -1198,3 +1198,13 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contrave
 Artículo Tercero.- El Titular de la Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración del Titular del Ejecutivo del Estado, las adecuaciones que correspondan al marco jurídico de su actuación, en un plazo que no exceda de 90 días hábiles, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
 
 Artículo Cuarto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 5 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 004 DECRETO POR EL QUE SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 8 DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. El Titular de la Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración y aprobación del Titular del Ejecutivo del Estado las adecuaciones al reglamento de la Ley que Establece las Bases de Operación de la Secretaría de Seguridad y Protección Ciudadana del Estado de Chiapas, y demás normatividad que resulte aplicable, en un plazo no mayor a sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
