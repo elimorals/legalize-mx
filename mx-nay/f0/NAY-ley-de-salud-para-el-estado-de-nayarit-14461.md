@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2022-07-19"
+last_updated: "2022-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "NAY"
 ---
 # LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-[NOTA 1: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE AGOSTO DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
-
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -1009,9 +1007,13 @@ Quienes practiquen esterilización o cualquier otro método anticonceptivo sin l
 
 Los servicios de salud sexual, salud reproductiva y planificación familiar comprenden:
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE OCTUBRE DE 2022)</small>
 
-I.- El desarrollo de políticas y campañas educativas en materia de servicios de salud sexual, salud reproductiva y planificación familiar, poniendo especial atención en los programas destinados a evitar los embarazos no planeados y precoces, con base en los contenidos y las estrategias que establezcan las autoridades competentes;
+I.- El desarrollo de políticas y campañas educativas en materia de servicios de salud sexual, salud reproductiva y planificación familiar, poniendo especial atención en los programas destinados a evitar los embarazos no planeados y precoces, con base en los contenidos y las estrategias que establezcan las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2022)</small>
+
+Se procurarán medidas específicas tendientes a la prevención, información, orientación, investigación y atención del embarazo de niñas y adolescentes;
 
 II.- La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
 
@@ -3632,3 +3634,9 @@ P.O. 19 DE JULIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Estado de Nayarit.
 
 SEGUNDO.- La aplicación del tamiz neonatal para la detección de alteraciones del metabolismo, cardiopatías congénitas graves o críticas, estará sujeta a la disponibilidad presupuestaria de la Secretaría de Salud y los Servicios de Salud de Nayarit, así como a la publicación de la Norma Oficial Mexicana que para tal efecto hará la Secretaría de Salud del Gobierno Federal, de conformidad con el transitorio segundo del Decreto por el que se adiciona una fracción II Bis al artículo 61 de la Ley General de Salud, publicado en el Diario Oficial de la Federación el 1 de junio de 2021.
+
+P.O. 5 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 63 DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Estado de Nayarit.
