@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-instituto-de-seguridad-social-de-los-trabajadores-14151
 country: "mx"
 rank: "ley"
 publication_date: "2020-02-18"
-last_updated: "2020-02-18"
+last_updated: "2022-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2022.
 
 Ley publicada en el Tomo III al Número 085 del Periódico Oficial del Estado de Chiapas, el martes 18 de febrero de 2020.
 
@@ -361,7 +361,9 @@ IV. La Comisión de Vigilancia.
 
 El órgano de gobierno del ISSTECH será la Junta Directiva, considerada la autoridad suprema, y estará integrada de la siguiente manera:
 
-I. El Gobernador del Estado o el representante que éste designe, quien fungirá como Presidente de la Junta Directiva.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2022)</small>
+
+I. La Persona titular de la Secretaría de Bienestar, o un representante que la misma designe, quien fungirá como Presidente de la Junta Directiva.
 
 II. Un representante de la Secretaría de Hacienda del Estado.
 
@@ -369,7 +371,9 @@ III. Un representante del Sindicato de Trabajadores al Servicio del Gobierno del
 
 IV. Un representante de la Sección 40 del Sindicato Nacional de Trabajadores de la Educación.
 
-V. El Subdirector General del ISSTECH.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2022)</small>
+
+V. El Subdirector de Servicios Médicos del ISSTECH.
 
 La Junta Directiva contará con un Secretario Técnico; el cargo será desempeñado por el Director General.
 
@@ -1604,3 +1608,13 @@ El Ejecutivo del Estado Dispondrá se publique, circule y dé el debido cumplimi
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández”, del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 11 días del mes de Febrero del año dos mil veinte. D. P. C. ROSA ELIZABETH BONILLA HIDALGO. - D. S. C. SILVIA TORREBLANCA ÁLFARO. – Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 18 días del mes de Febrero del año dos mil veinte. - Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas. - Ismael Brito Mazariegos, Secretario General de Gobierno. - Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 003 DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES I Y V DEL ARTÍCULO 36 DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
