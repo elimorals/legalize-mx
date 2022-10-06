@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-alerta-social-de-la-ciudad-de-mexico-127355"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2018-04-02"
+last_updated: "2022-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127355&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-03-21"
 
 LEY DEL SISTEMA DE ALERTA SOCIAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 2 de abril de 2018.
 
@@ -60,7 +60,9 @@ Las y los servidores públicos responsables de la ejecución de esta Ley en su a
 
 Para los fines de esta Ley, se entiende por:
 
-I. Asamblea Legislativa: La Asamblea Legislativa del Distrito Federal;
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2022)</small>
+
+I. Congreso: El Congreso de la Ciudad de México;
 
 II. Consejo Ciudadano: El Consejo Ciudadano de la Ciudad de México de Seguridad Pública y Procuración de Justicia;
 
@@ -108,9 +110,11 @@ II. Expedir el reglamento de la presente Ley; y
 
 III. Las demás que le atribuyan expresamente las Leyes y ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 6.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Inclusión y Bienestar Social:
 
 I. Promover, fomentar y ejecutar el Sistema Alerta Social CDMX;
 
@@ -126,7 +130,9 @@ VI. Integrar, instrumentar y resguardar, a través de la Subsecretaría de Parti
 
 VII. Dar seguimiento, a través de la Subsecretaría de Participación Ciudadana, a las solicitudes de registro al Sistema, que recabe LOCATEL y el Consejo Ciudadano;
 
-VIII. Realizar un informe anual pormenorizado que permita contabilizar el número de personas que integran el Registro de las personas que se incorporen al Sistema Alerta Social CDMX y los resultados obtenidos por dicha acción institucional, para evaluar el cumplimiento de sus objetivos. De igual forma, deberá entregarse el informe a la Asamblea Legislativa, en el mes de diciembre de cada año; y
+> <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2022)</small>
+
+VIII. Realizar un informe anual pormenorizado que permita contabilizar el número de personas que integran el Registro de las personas que se incorporen al Sistema Alerta Social CDMX y los resultados obtenidos por dicha acción institucional, para evaluar el cumplimiento de sus objetivos. De igual forma, deberá entregarse el informe al Congreso, en el mes de diciembre de cada año; y
 
 IX. Las demás que le atribuyan expresamente las Leyes y ordenamientos jurídicos aplicables.
 
@@ -289,3 +295,13 @@ SEXTO.- Todas las disposiciones legales que contravengan la presente Ley se tend
 Recinto de la Asamblea Legislativa del Distrito Federal, a los trece días del mes de diciembre del año dos mil diecisiete.- POR LA MESA DIRECTIVA.- DIP. ADRIÁN RUBALCAVA SUÁREZ, PRESIDENTE.- DIP. REBECA PERALTA LEÓN, SECRETARIA.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA. (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los veintiún días del mes de marzo del año dos mil dieciocho.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.- EL SECRETARIO DE SALUD, ROMÁN ROSALES AVILÉS.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, HIRAM ALMEIDA ESTRADA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 6 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3 Y LA FRACCIÓN VIII DEL ARTÍCULO 6 DE LA LEY DEL SISTEMA DE ALERTA SOCIAL DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
