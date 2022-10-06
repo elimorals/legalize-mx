@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2021-04-05"
+last_updated: "2022-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 6 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE OCTUBRE DE 2022 (ABROGADA).
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -3418,3 +3418,23 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrara en vigor el día siguiente a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 6 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado de México, expedida mediante Decreto Número 95 publicado en el Periódico Oficial “Gaceta del Gobierno” el 8 de septiembre de 1995.
+
+TERCERO. Las instancias competentes del Poder Judicial del Estado de México deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes, para la observancia de lo establecido en el presente Decreto.
+
+CUARTO. El Pleno determinará, mediante acuerdo general, la culminación de la segunda época y el inicio de la tercera época de la Jurisprudencia de los Órganos del Tribunal Superior de Justicia del Estado, con los criterios que se integren a partir de la entrada en vigor de la presente Ley. Las tesis que se hubieran emitido con anterioridad a la entrada en vigor del presente Decreto mantendrán su formato. Las jurisprudencias que se hubieran emitido antes de la entrada en vigor del presente Decreto mantendrán su obligatoriedad en tanto no sean interrumpidas. Las tesis aisladas que se hubieran emitido con anterioridad a la entrada en vigor del nuevo sistema de integración de Jurisprudencia por precedentes mantendrán ese carácter. Únicamente las sentencias que se emitan con posterioridad a la entrada en vigor del presente Decreto podrán constituir Jurisprudencia por precedente.
+
+QUINTO. A partir de la entrada en vigor de la presente Ley, quienes se desempeñen como mediadores, conciliadores o facilitadores, deberán someterse a un proceso de ratificación en términos del artículo 77 de la presente a efecto de que se les otorgue un nombramiento por tres años.
+
+SEXTO. Aquellos asuntos de la materia penal tradicional, que se encuentren radicados ante tribunales de alzada, antes de la entrada en vigor de esta Ley, serán tramitados hasta su total conclusión ante el tribunal del conocimiento.
+
+SÉPTIMO. La iniciativa propuesta contemplaba la creación de una Sala de Asuntos Indígenas; sin embargo, se advirtió la omisión de convocar a una consulta previa. El Poder Judicial del Estado de México podrá presentar ante esta soberanía una iniciativa complementaria para reformar esta Ley, una vez realizada la consulta a los pueblos originarios del Estado de México.
+
+OCTAVO. El Poder Judicial, en el proceso de consulta que se realice a los pueblos originarios, incorporará el tema de la defensoría pública para dicho sector. Lo anterior deberá realizarse tomando como base un análisis de viabilidad presupuestal.
