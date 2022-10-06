@@ -4,7 +4,7 @@ identifier: "MOR-presupuesto-de-egresos-del-gobierno-del-estado-de-morelos-14618
 country: "mx"
 rank: "presupuesto"
 publication_date: "2020-12-31"
-last_updated: "2020-12-31"
+last_updated: "2022-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DEL 2021
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2022.
 
 Presupuesto publicado en el número 5899 del Periódico Oficial del Estado de Morelos, el jueves 31 de diciembre de 2020.
 
