@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2022-09-30"
+last_updated: "2022-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MEX"
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO EL 7 DE OCTUBRE DE 2022.]</small>
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -2095,9 +2097,9 @@ XIX.- Promover la modernización y simplificación administrativa que contribuya
 
 XX.- Coordinar la elaboración de manuales generales de organización para el óptimo funcionamiento de las dependencias del Poder Legislativo y su publicación en el Periódico Oficial “Gaceta del Gobierno”, así como la elaboración de manuales de procedimientos;
 
-> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022) (F. DE E., G.G. 7 DE OCTUBRE DE 2022)
 
-XXI.- Proveer el apoyo humano, material, financiero y técnico que se requiera para la operación del sistema electrónico de asistencia y votación;
+XXI.- Proveer el apoyo humano, material, financiero y técnico que se requiera para la operación del sistema electrónico de asistencia y votación, así como para el desarrollo, administración e implementación de la Firma Electrónica;
 
 > <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
