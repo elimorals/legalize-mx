@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2022-05-11"
+last_updated: "2022-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -499,13 +499,17 @@ Las autoridades competentes seleccionarán los medios pertinentes para la public
 
 La elaboración, programación y publicación de la información generada por dichos protocolos de prevención , detección y actuación ante una conducta suicida se realizarán en un marco de respeto a los derechos humanos, a los derechos de niñas, niños y adolescentes, considerando valores éticos y morales, así como garantizando el adecuado tratamiento de la información de conformidad con las normas en materia de transparencia y protección de datos personales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2022)</small>
 
-XLIII.- Promover y fortalecer en el ámbito de sus competencias la educación financiera a través de la impartición de actividades extracurriculares cuyos contenidos incluyan los conceptos, principios, elementos y procesos de emprendimiento, el ahorro y la inversión, que propicien el desarrollo económico y la calidad de vida de los habitantes del Estado, y
+XLIII.- Promover y fortalecer en el ámbito de sus competencias la educación financiera a través de la impartición de actividades extracurriculares cuyos contenidos incluyan los conceptos, principios, elementos y procesos de emprendimiento, el ahorro y la inversión, que propicien el desarrollo económico y la calidad de vida de los habitantes del Estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2022)</small>
 
-XLIV.- Las demás que fijen las leyes o normas aplicables en la materia.
+XLIV.- Promover que la orientación vocacional proporcionada en los niveles secundaria y bachillerato sea impartida de manera preferente por profesionistas en psicología educativa o carreras afines, que cuenten con título y cédula profesional, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2022)</small>
+
+XLV.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -1868,3 +1872,9 @@ P.O. 11 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE NAYARIT, EN MATERIA DE PERSPECTIVA DE GÉNERO Y SALUD BUCAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LAS FRACCIONES XLIII Y XLIV DEL ARTÍCULO 9°, Y SE ADICIONA LA FRACCIÓN XLV DEL ARTÍCULO 9° DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE ORIENTACIÓN VOCACIONAL Y PROFESIONAL".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Estado de Nayarit.
