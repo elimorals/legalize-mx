@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2022-05-06"
+last_updated: "2022-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
@@ -51,9 +51,11 @@ LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
 La presente Ley es de orden público e interés social y de observancia general en el Estado de México.
 
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 2.
 
-La presente Ley tiene por objeto fomentar, establecer, promover y garantizar el ejercicio de los derechos y obligaciones de los jóvenes en el Estado de México; así como, implementar las políticas públicas y sus medios de ejecución, encaminadas a su atención integral.
+La presente Ley tiene por objeto fomentar, establecer, promover y garantizar el ejercicio de los derechos de los jóvenes en el Estado de México; así como, implementar las políticas públicas y sus medios de ejecución, encaminadas a su bienestar y desarrollo integral.
 
 ###### Artículo 3.
 
@@ -93,11 +95,15 @@ II.- Igualdad. Todos los jóvenes tienen derecho al acceso en igualdad de condic
 
 La corresponsabilidad en la atención integral de los jóvenes, del Estado, municipios, sociedad y familia;
 
+> <small>(ADICIONADA, G.G. 7 DE OCTUBRE DE 2022)</small>
+
+II Bis.- Transversalidad. Proceso que permite garantizar la incorporación de la perspectiva juvenil y de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programa, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+
 III.- Participación libre y democrática. Los jóvenes participarán en la planificación y desarrollo de las políticas públicas dirigidas a ellos en lo político, social, económico, deportivo y cultural, y en la toma de decisiones que afecten su entorno;
 
 IV.- Solidaridad. Deberá fomentarse la solidaridad en las relaciones entre los jóvenes y los grupos sociales, con la finalidad de superar las condiciones que crean marginación y desigualdades;
 
-V.- Compromiso social. Los jóvenes deben actuar con responsabilidad y corresponsabilidad, como miembros de familia e integrantes de la sociedad y el Estado, y compromiso en la atención y desarrollo integral de la juventud;
+V.- (DEROGADA, G.G. 7 DE OCTUBRE DE 2022)
 
 VI.- Especialidad. Las acciones que se dirijan a los jóvenes deberán atender sus propias necesidades, partiendo de las características particulares de este sector de la población;
 
@@ -129,7 +135,9 @@ VII. Con enfermedades crónicas; e
 
 VIII. Indígenas.
 
-## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS JÓVENES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE OCTUBRE DE 2022)</small>
+
+## TÍTULO SEGUNDO. DE LOS DERECHOS DE LOS JÓVENES
 
 ### CAPÍTULO I. DE LOS DERECHOS DE LOS JÓVENES
 
@@ -223,53 +231,13 @@ I. El acceso a espacios culturales, a la libre creación y expresión de sus man
 
 II. La educación física y a practicar cualquier deporte basado en el respeto, la superación personal y colectiva, el trabajo en equipo y la solidaridad; a disfrutar de actividades de recreación y al acceso a espacios recreativos para el aprovechamiento positivo y productivo de su tiempo libre.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 7 DE OCTUBRE DE 2022)</small>
+
 ### CAPÍTULO II. OBLIGACIONES DE LOS JÓVENES
 
 ###### Artículo 12.
 
-Los jóvenes tienen la obligación de:
-
-l. Cumplir lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, las Leyes Federales, la Constitución Política del Estado Libre y Soberano de México, las Leyes Locales, lo establecido en la presente Ley y otros ordenamientos, para fomentar en ellos una cultura de respeto y legalidad;
-
-II. Aprender y practicar principios y valores, que contribuyan a darle su verdadera dimensión humana y cívica, como parte integrante de la sociedad, respetando los derechos de las demás personas;
-
-III. Promover la convivencia pacífica y la unidad entre los jóvenes;
-
-IV. Participar y fomentar la convivencia familiar cotidiana, procurando relaciones afectivas, armónicas, de tolerancia e impulso hacia las aspiraciones de cada uno de sus integrantes, aportando en la medida de sus posibilidades los alimentos, debiendo evitar en sus hogares actos de discriminación, abuso, reclusión o violencia;
-
-V. Aprovechar las oportunidades de preparación académica que el Gobierno del Estado ponga a su alcance;
-
-VI. Procurar actividades físicas y mentales que les permitan una vida sana;
-
-VII. Usar los recursos naturales de manera racional y sustentable, procurando el mantenimiento y la mejora del medio ambiente, cuidando los espacios naturales y las instalaciones al aire libre e implementar una cultura de reutilización o reciclaje, así como el uso de energías renovables en protección de la naturaleza;
-
-VIII. Adoptar una cultura de prevención de enfermedades y adicciones, practicando hábitos de vida sana y realizándose cuando menos una revisión clínica al año, debiendo tramitar su carnet de salud mismo que contendrá los datos mínimos que permitan conocer su expediente clínico;
-
-IX. Informarse de manera adecuada sobre los métodos de prevención de enfermedades de transmisión sexual y métodos anticonceptivos;
-
-X. Informarse sobre los riesgos en la salud por el consumo de alcohol, tabaco y drogas;
-
-XI. Participar de manera responsable y decidida en la vida política, económica, cultural, cívica y social de su comunidad, municipio y Estado; y
-
-XII. Fomentar la convivencia familiar, social y cívica, procurando siempre:
-
-a) Amar y respetar a la Patria, al Estado y defender su integridad;
-
-b) Promover la solidaridad, anteponiendo el interés general al particular;
-
-c) Decir la verdad y cumplir la palabra empeñada;
-
-d) Practicar la justicia;
-
-e) Propugnar la unidad en la diversidad y la relación intercultural;
-
-f) Denunciar y combatir los actos de corrupción;
-
-g) Colaborar en el mantenimiento de la paz y la seguridad;
-
-h) Conservar el patrimonio cultural y natural del País y de la Entidad; y
-
-i) Cuidar y mantener los bienes públicos.
+(DEROGADO, G.G. 7 DE OCTUBRE DE 2022)
 
 ### CAPÍTULO III. POLÍTICAS PÚBLICAS PARA LOS JÓVENES
 
@@ -341,7 +309,17 @@ XXVI. Procurar la rehabilitación de los jóvenes con problemas de adicciones y 
 
 XXVII. Prevenir y atender, el alcoholismo, el tabaquismo, la drogadicción y la fármaco dependencia; y
 
-XXVIII. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 7 DE OCTUBRE DE 2022)</small>
+
+XXVIII. Promover el reconocimiento de la participación, organización y ciudadanía juvenil, en toda su diversidad, como aspecto estratégico del desarrollo político, social y económico de la entidad;
+
+> <small>(ADICIONADA, G.G. 7 DE OCTUBRE DE 2022)</small>
+
+XXIX. Impulsar la formación y sensibilización continúa de los funcionarios públicos estatales y municipales en el conocimiento, respeto y apoyo al ejercicio efectivo de los derechos de los jóvenes, desde un enfoque integral, transversal y de no discriminación; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 7 DE OCTUBRE DE 2022)</small>
+
+XXX. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
 
 ## TITULO TERCERO. DEL INSTITUTO MEXIQUENSE DE LA JUVENTUD
 
@@ -432,6 +410,14 @@ V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y
 El Ejecutivo, en el ámbito de su competencia y de conformidad a sus recursos presupuestales, tiene la obligación de promover y ejecutar las políticas y programas que sean necesarios para garantizar a los jóvenes, el ejercicio y goce pleno de los derechos establecidos en la presente Ley.
 
 Los programas que realice el Ejecutivo, serán prioritarios y deberán tomar en consideración las circunstancias y necesidades de la población juvenil de cada región.
+
+> <small>(ADICIONADO, G.G. 7 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 17 Bis.
+
+El Ejecutivo del Estado, a través del Instituto, promoverá la constitución de fideicomisos o fondos que tengan por objeto fomentar proyectos y acciones a favor de la juventud y de la cultura de emprendimiento juvenil.
+
+Los fideicomisos o fondos podrán recibir aportaciones de entes públicos y privados, conforme a la normatividad vigente.
 
 ###### Artículo 18.
 
@@ -545,7 +531,9 @@ XII. Incentivar la participación de las personas, familias y organizaciones y, 
 
 XIII. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la política pública para los jóvenes; y
 
-XIV. Vigilar y asegurar que los recursos asignados para el apoyo de los jóvenes, sean ejercidos con honradez, oportunidad, trasparencia y equidad.
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2022)</small>
+
+XIV. Vigilar y asegurar que los recursos asignados para el apoyo de los jóvenes, contemplados en el Presupuesto de Egresos de cada ejercicio fiscal, sean ejercidos con puntualidad, honradez, oportunidad, transparencia y equidad, generando en ello los análisis e informes públicos que correspondan.
 
 ###### Artículo 28.
 
@@ -844,3 +832,11 @@ CUARTO. Las referencias realizadas en disposiciones jurídicas, legales, reglame
 Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en la Secretaría de la Mujer serán atendidos hasta su conclusión por la Secretaría de las Mujeres.
 
 Se respetarán los derechos laborales de las personas servidoras públicas adscritas a la Secretaría de la Mujer de conformidad con las disposiciones jurídicas aplicables.
+
+G.G. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 98.- POR EL QUE SE REFORMA EL ARTÍCULO 2, LA DENOMINACIÓN DEL TÍTULO SEGUNDO, LA FRACCIÓN XXVIII DEL ARTÍCULO 13, LA FRACCIÓN XIV DEL ARTÍCULO 27; SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 4, LAS FRACCIONES XXIX Y XXX AL ARTÍCULO 13 Y EL ARTÍCULO 17 BIS; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 4, EL CAPÍTULO II DEL TÍTULO SEGUNDO Y EL ARTÍCULO 12 DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
