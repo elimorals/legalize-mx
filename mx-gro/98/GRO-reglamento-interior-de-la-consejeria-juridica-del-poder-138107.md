@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-consejeria-juridica-del-poder-138107"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-09-10"
-last_updated: "2019-09-10"
+last_updated: "2022-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE GUERRERO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 10 de septiembre de 2019.
 
@@ -271,7 +271,9 @@ IV. Tramitar, coordinar y ejecutar la remoción del cargo, renuncia, licencia, j
 
 V. Procesar y validar la plantilla del personal de la Consejería Jurídica y mantenerla actualizada, en coordinación con el área competente de la Secretaría de Finanzas y Administración;
 
-VI. Atender, gestionar, adquirir y ministrar los bienes muebles, consumibles de papelería y de cómputo; así como, los servicios generales necesarios para el desempeño eficiente de las funciones encomendadas a las unidades administrativas de la Consejería Jurídica;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2022)</small>
+
+VI. Tramitar ante la Secretaría de Finanzas y Administración la adquisición, ministración y contratación de los bienes y servicios que requiera para el funcionamiento de la Dependencia;
 
 VII. Gestionar y coordinar el servicio oportuno de conservación y mantenimiento para el mobiliario, equipo de oficina y cómputo, así como, brindar apoyo informático a las unidades administrativas de la Consejería Jurídica;
 
@@ -934,3 +936,19 @@ EL CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 MTRO. JOSÉ ANTONIO BONILLA URIBE.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS DISTINTOS REGLAMENTOS INTERIORES DE LAS SECRETARÍAS DEL PODER EJECUTIVO DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- L (sic) presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En tanto se actualice el Manual de Organización de las Secretarias y Dependencias de la Administración Pública del Estado, el Secretario de Finanzas y Administración a través de la Subsecretaría de Administración, queda facultado para resolver las cuestiones de operación que se originen por la aplicación del presente Decreto.
+
+TERCERO.- Los asuntos pendientes a la entrada en vigor de este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento, mismas que pueden seguir utilizando la papelería en la que conste su anterior denominación hasta agotar su existencia, sin que ello afecte la validez de sus actos.
+
+CUARTO.- La Secretaría a (sic) de Cultura, la Secretaría de Agricultura y Desarrollo Rural, la Secretaría de la Mujer y la Secretaría de Trabajo y Previsión Social, emitirán sus reglamentos interiores con base en las disposiciones de este Decreto en un plazo que no exceda de los treinta días contados a partir de la entrada en vigor del presente instrumento.
+
+QUINTO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
