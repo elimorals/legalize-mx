@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-movilidad-del-estado-de-mexico-109389"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-12"
-last_updated: "2021-09-03"
+last_updated: "2022-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE MOVILIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 12 de agosto de 2015.
 
@@ -249,7 +249,11 @@ XV. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2015)
 
 XVI. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2015)
 
-XVII. Determinar, autorizar y exigir, en su jurisdicción territorial, la instalación de los espacios destinados para la ubicación de estacionamiento, ascenso y descenso exclusivo de personas con discapacidad, en lugares preferentes y de fácil acceso a los edificios o espacios públicos, particulares o de gobierno, cuyo uso esté destinado o implique la concurrencia del público en general.
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2022)</small>
+
+XVII. Determinar, autorizar y exigir, en su jurisdicción territorial, la instalación de los espacios destinados para la ubicación de estacionamiento, ascenso y descenso exclusivo de personas en situación de discapacidad, adultas mayores y mujeres embarazadas, garantizando cajones de estacionamiento en lugares preferentes identificables y de fácil acceso a los edificios o espacios públicos, particulares o de gobierno cuyo uso este destinado o implique la concurrencia del público en general.
+
+Estos espacios representarán preferentemente al menos el 10% de la totalidad de los espacios vehiculares disponibles en cada establecimiento.
 
 XVIII. Solicitar, en su caso, a la Secretaría asesoría y apoyo para realizar los estudios técnicos y acciones en materia de movilidad.
 
@@ -1258,3 +1262,13 @@ TERCERO. El Ejecutivo Estatal tendrá un plazo improrrogable de 180 días hábil
 CUARTO. La Legislatura del Estado de México deberá asignar los recursos presupuestales necesarios para la constitución del Fondo de Movilidad para Ciclistas y Transeúntes del Estado de México (FOMOCyT). Las Secretarías de Movilidad y de Finanzas deberán llevar a cabo todos los actos necesarios de conformidad con las disposiciones jurídicas aplicables para constituir dicho Fondo, en un plazo de seis meses contados a partir de la asignación presupuestal correspondiente.
 
 QUINTO. La Secretaría de Movilidad tendrá un plazo improrrogable de 90 días hábiles posteriores a la constitución del Fondo de Movilidad para Ciclistas y Transeúntes del Estado de México para emitir las Reglas de Operación correspondientes para su correcto funcionamiento.
+
+G.G. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 99.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO A LA FRACCIÓN XVII DEL ARTÍCULO 9, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto.
