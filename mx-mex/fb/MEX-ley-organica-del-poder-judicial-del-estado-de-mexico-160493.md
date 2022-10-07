@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-160493"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-10-06"
-last_updated: "2022-10-06"
+last_updated: "2022-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 7 DE OCTUBRE DE 2022, Y EL 20 DE JULIO DE 2023 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 7 DE OCTUBRE DE 2022.]</small>
 
 Ley publicada en la Sección Primera del Número 64 de la Gaceta del Gobierno del Estado de México, el jueves 6 de octubre de 2022.
 
@@ -1269,7 +1269,9 @@ Coordinación de Compilación y Sistematización de Tesis
 
 La Coordinación de Compilación y Sistematización de Tesis del Tribunal es un órgano administrativo que depende del presidente. Tendrá como función la compilación y sistematización de tesis jurisprudenciales del Poder Judicial y las demás que determine el Reglamento sobre formación y registro de jurisprudencia de los órganos (sic) Tribunal.
 
-## TÍTULO SÉPTIMO. CONSEJO DE LA JUDICATURA DE LA O EL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA
+[F. DE E., G.G. 7 DE OCTUBRE DE 2022]
+
+## TÍTULO SÉPTIMO. DE LA O EL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA
 
 ### CAPÍTULO PRIMERO. Elección
 
