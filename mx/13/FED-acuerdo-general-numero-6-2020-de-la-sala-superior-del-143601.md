@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-6-2020-de-la-sala-superior-del-143601"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-13"
-last_updated: "2020-07-13"
+last_updated: "2022-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143601&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-07-05"
 ---
 # ACUERDO GENERAL NUMERO 6/2020 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION [POR EL QUE SE PRECISAN CRITERIOS ADICIONALES AL DIVERSO ACUERDO 4/2020 A FIN DE DISCUTIR Y RESOLVER DE FORMA NO PRESENCIAL ASUNTOS DE LA COMPETENCIA DEL TRIBUNAL ELECTORAL EN EL ACTUAL CONTEXTO DE ESTA ETAPA DE LA PANDEMIA GENERADA POR EL VIRUS SARS COV2]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL "ACUERDO GENERAL 4/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA LAS SESIONES PRESENCIALES DE LAS SALAS DEL TRIBUNAL, EL USO DE HERRAMIENTAS DIGITALES Y LAS MEDIDAS PREVENTIVAS EN EL TRABAJO, DURANTE LA EMERGENCIA DE SALUD PÚBLICA", PUBLICADO EN EL D.O.F. DE 7 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 6/2020, POR EL QUE SE PRECISAN CRITERIOS ADICIONALES AL DIVERSO ACUERDO 4/2020 A FIN DE DISCUTIR Y RESOLVER DE FORMA NO PRESENCIAL ASUNTOS DE LA COMPETENCIA DEL TRIBUNAL ELECTORAL EN EL ACTUAL CONTEXTO DE ESTA ETAPA DE LA PANDEMIA GENERADA POR EL VIRUS SARS COV2.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE OCTUBRE DE 2022 (ABROGADO).
 
 Acuerdo publicado en el Número 10 del Diario Oficial de la Federación, el lunes 13 de julio de 2020.
 
@@ -396,3 +398,15 @@ CERTIFICA
 La presente documentación, autorizada mediante firmas electrónicas certificadas, constante de veinte fojas, debidamente cotejadas y selladas, corresponden al Acuerdo General de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación número 6/2020, así como a su voto particular conjunto, y sus respectivas firmas, por el que se precisan criterios adicionales al diverso acuerdo 4/2020 a fin de discutir y resolver de forma no presencial asuntos de la competencia del Tribunal Electoral en el actual contexto de esta etapa de la pandemia generada por el virus SARS COV2.
 
 Lo que certifico por instrucciones del Magistrado Felipe Alfredo Fuentes Barrera, Presidente de este órgano jurisdiccional, en ejercicio de las facultades previstas en el artículo 201, fracción X de la Ley Orgánica del Poder Judicial de la Federación, y 20, fracción II, del Reglamento Interno de este Tribunal Electoral, para los efectos legales procedentes. DOY FE.- Ciudad de México, cinco de julio de dos mil veinte.- El Secretario General de Acuerdos, Rolando Villafuerte Castellanos.- Firma electrónica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 4/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA LAS SESIONES PRESENCIALES DE LAS SALAS DEL TRIBUNAL, EL USO DE HERRAMIENTAS DIGITALES Y LAS MEDIDAS PREVENTIVAS EN EL TRABAJO, DURANTE LA EMERGENCIA DE SALUD PÚBLICA".]
+
+PRIMERO. El presente acuerdo general entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los acuerdos generales de la Sala Superior 2/2020, 4/2020, 6/2020 y 8/2020.
+
+TERCERO. Para su mayor difusión, notifíquese a las salas regionales, así como a las demás áreas de este Tribunal. Publíquese en el Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, en los estrados de esta Sala Superior y de las salas regionales, así como en los portales de intranet e internet de este órgano jurisdiccional.
