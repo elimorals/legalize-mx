@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "2022-03-11"
+last_updated: "2022-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,9 @@ state: "NAY"
 ---
 # LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-(NOTA: EL 2 DE FEBRERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 82/2022, DECLARÓ LA INVALIDEZ DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT, EN MATERIA DE CONTRIBUCIONES PARA PERSONAS ADULTAS MAYORES, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL ONCE DE MARZO DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 7 DE FEBRERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
-
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -76,6 +72,14 @@ La presente Ley establece las características generales que tendrán los ingres
 ###### ARTICULO 4.
 
 Las leyes de ingresos municipales establecerán anualmente las tasas, cuotas o tarifas aplicables a los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos y que deban recaudarse. Asimismo, incorporarán los montos estimados que por concepto de participaciones y aprovechamientos, vayan a recibir los ayuntamientos del estado y la federación.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2022)</small>
+
+Las cuotas y tarifas referidas en las leyes de ingresos municipales, deberán expresarse tomando como base la Unidad de Medida y Actualización (UMA) vigente, de conformidad a lo dispuesto por el apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos; por lo tanto, las iniciativas de ley de ingresos que presenten los Ayuntamientos deberán tomar a la Unidad de Medida y Actualización como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en su respectiva ley de ingresos.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2022)</small>
+
+Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en las citadas unidades, por el valor de dicha unidad a la fecha correspondiente.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -393,8 +397,6 @@ El impuesto predial se causará y pagará de acuerdo con las tasas, tarifas y ba
 
 #### SECCION SEXTA. DEL PAGO DEL IMPUESTO Y OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
-
 ###### ARTICULO 34.
 
 Los contribuyentes y responsables solidarios del pago de este impuesto, según sea el caso tendrán las obligaciones siguientes:
@@ -591,13 +593,19 @@ El enajenante responde solidariamente del impuesto que debe pagar el adquirente.
 
 Cuando por el evalúo practicado, ordenado o tomado en consideración por la autoridad competente, resulte liquidación de diferencias de impuesto, los Fedatarios no serán responsables solidarios por las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 46.
 
-Para efectuar la deducción a que se refieren las Leyes de Ingresos de los Municipios del Estado, se aplicará el salario mínimo correspondiente al año calendario en que se realice la adquisición en los términos del artículo 44 de ésta ley.
+Para efectuar la deducción a que se refieren las Leyes de Ingresos de los Municipios del Estado, se aplicará el valor diario de la Unidad de Medida y Actualización correspondiente al año calendario en que se realice la adquisición en los términos del artículo 44 de esta ley.
 
-En los casos que se señalan a continuación la deducción se aplicará conforme el salario mínimo correspondiente al año de calendario en que se celebre el contrato, aún cuando el pago del impuesto debe hacerse cuando se realice cualquiera de los supuestos a que se refiere el artículo 44 de esta Ley.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2022)</small>
 
-I. La promesa de adquirir en los términos de la fracción III del artículo 42 de esta Ley.
+En los casos que se señalan a continuación la deducción se aplicará conforme el valor diario de la Unidad de Medida y Actualización correspondiente al año de calendario en que se celebre el contrato, aun cuando el pago del impuesto deba hacerse cuando se realice cualquiera de los supuestos a que se refiere el artículo 44 de esta Ley:
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2022)</small>
+
+I. La promesa de adquirir en los términos de la fracción III del artículo 42 de esta Ley, y
 
 II. El arrendamiento financiero.
 
@@ -647,7 +655,9 @@ Tratándose de las contribuciones a la propiedad inmobiliaria, el ayuntamiento, 
 
 ARTICULO 52 bis.- Tratándose del derecho por servicios de vigilancia, inspección y control de la obra pública, el ayuntamiento o la entidad municipal, según sea el caso, retendrá a los contratistas que ejecuten la obra pública con recursos municipales, lo que corresponda de aplicar el cinco al millar del monto de cada una de las estimaciones pagadas.
 
-Los recursos recaudados por este concepto deberán destinarse a la fiscalización de las obras públicas realizadas por el ayuntamiento o entidad municipal de que se trate. El 50 % de dichos recursos serán aplicados directamente por el órgano de control interno del ente público, el resto, deberá enterarse al Órgano de Fiscalización Superior del Estado, durante los primeros quince días del mes siguiente al que se recauden, para que dentro del ámbito de sus atribuciones, los destine al mismo fin.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2022)</small>
+
+Los recursos recaudados por este concepto deberán destinarse a la fiscalización de las obras públicas realizadas por el ayuntamiento o entidad municipal de que se trate. El 50 % de dichos recursos serán aplicados directamente por el órgano de control interno del ente público, el resto, deberá enterarse a la Auditoría Superior del Estado de Nayarit, durante los primeros quince días del mes siguiente al que se recauden, para que dentro del ámbito de sus atribuciones, los destine al mismo fin.
 
 ### CAPITULO TERCERO. ADICIONALES
 
@@ -821,9 +831,13 @@ Los propietarios o poseedores de los predios, giros o establecimientos que se su
 
 III. Por la reparación del aparato medidor del consumo de agua, se pagarán los siguientes derechos:
 
-A). Para uso doméstico: 2.5 días de salario mínimo general vigente en el Estado, y
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2022)</small>
 
-B). Para uso no doméstico: 5 días de salario mínimo general vigente en el Estado.
+A). Para uso doméstico: 4.4 veces el valor diario de la Unidad de Medida y Actualización vigente, y
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2022)</small>
+
+B). Para uso no doméstico: 8.9 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 No se pagarán los derechos previstos en esta fracción, durante el primer año, a partir de la instalación del aparato medidor, por una sola vez, salvo los casos en que dicho aparato haya sido deteriorado por causas imputables al usuario, en los que éste deberá cubrir el 100 por ciento del costo de la reparación del aparato.
 
@@ -845,9 +859,9 @@ ARTICULO 61 D.- Por el suministro de agua en bloque por parte de las autoridades
 
 Por lo anterior, la autoridad fiscal correspondiente instalará un aparato medidor electrónico de consumo a costa del desarrollador para determinar el volumen del suministro de agua en bloque y éste estará obligado a reportar mediante los formatos oficiales los consumos y a efectuar su pago dentro de los primeros quince días siguientes al periodo que se esté reportando, o bien realizarlo de conformidad con las modalidades señaladas en el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2022)</small>
 
-ARTICULO 61 E.- Los propietarios o poseedores de predios con o sin construcción que puedan acceder a la red general de agua potable y no estén conectados a la misma, pagarán mensual o bimestralmente una cuota de un día de salario mínimo general vigente en el Estado, por conceptos de operación, mantenimiento y reposición de la red. Tratándose de conjuntos urbanos esta obligación iniciará al momento de la comercialización de los terrenos o viviendas. No se pagarán estos derechos por los terrenos de uso agropecuario.
+ARTICULO 61 E.- Los propietarios o poseedores de predios con o sin construcción que puedan acceder a la red general de agua potable y no estén conectados a la misma, pagarán mensual o bimestralmente una cuota de 1.8 veces el valor diario de la Unidad de Medida y Actualización vigente, por conceptos de operación, mantenimiento y reposición de la red. Tratándose de conjuntos urbanos esta obligación iniciará al momento de la comercialización de los terrenos o viviendas. No se pagarán estos derechos por los terrenos de uso agropecuario.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -855,7 +869,9 @@ ARTICULO 61 F.- La autoridad municipal o el organismo descentralizado tendrán l
 
 En caso de que la autoridad municipal determine la instalación del aparato medidor, deberá notificar previamente al contribuyente cuando menos con quince días hábiles de anticipación.
 
-Por lo que se refiere a la instalación del aparato medidor, se pagará por concepto de derechos doce días de salario mínimo general vigente en el Estado, teniendo el usuario la opción de adquirir el aparato medidor de agua en el establecimiento que elija, siempre que el medidor reúna las especificaciones técnicas que apruebe el Ayuntamiento o el organismo operador de agua, las cuales deberán ser del conocimiento público. En este último caso el organismo prestador quedará eximido de realizar reparación alguna al medidor, salvo que el usuario lo solicite a su costa.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2022)</small>
+
+Por lo que se refiere a la instalación del aparato medidor, se pagará por concepto de derechos de 17.9 veces el valor diario de la Unidad de Medida y Actualización vigente, teniendo el usuario la opción de adquirir el aparato medidor de agua en el establecimiento que elija, siempre que el medidor reúna las especificaciones técnicas que apruebe el Ayuntamiento o el organismo operador de agua, las cuales deberán ser del conocimiento público. En este último caso el organismo prestador quedará eximido de realizar reparación alguna al medidor, salvo que el usuario lo solicite a su costa.
 
 El usuario tendrá un plazo de diez días a partir de la notificación de la instalación del aparato medidor para hacer el pago correspondiente.
 
@@ -869,7 +885,9 @@ II. Para los establecimientos que independientemente forman parte de un edificio
 
 III. Para viviendas que se ubiquen en el mismo predio del de la toma principal y no cuente con división de suelo.
 
-Por la derivación se deberá efectuar un pago único de 7.5 días de salario mínimo general vigente en el Estado, independientemente del consumo. Los propietarios o poseedores de los predios que den su conformidad para establecer la derivación, además de pagar su propio consumo, están obligados solidariamente a pagar la cuota correspondiente a las derivaciones.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2022)</small>
+
+Por la derivación se deberá efectuar un pago único de 13.4 veces el valor diario de la Unidad de Medida y Actualización vigente, independientemente del consumo. Los propietarios o poseedores de los predios que den su conformidad para establecer la derivación, además de pagar su propio consumo, están obligados solidariamente a pagar la cuota correspondiente a las derivaciones.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -907,9 +925,11 @@ Los derechos previstos en este artículo se pagarán en el momento en que se pag
 
 Las aguas residuales originadas o derivadas de predios dedicados a actividades industriales, descargadas en los sistemas municipales, deberán cumplir con las normas oficiales mexicanas y demás disposiciones aplicables y serán sujetos al pago de este derecho.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2022)</small>
 
-ARTICULO 61 J.- Por la expedición del dictamen de factibilidad de servicios con vigencia hasta de doce meses para nuevos conjuntos urbanos, subdivisión o lotificaciones para edificaciones en condominio se pagarán dieciocho días de salario mínimo general vigente en el Estado.
+ARTICULO 61 J.- Por la expedición del dictamen de factibilidad de servicios con vigencia hasta de doce meses para nuevos conjuntos urbanos, subdivisión o lotificaciones para edificaciones en condominio se pagarán 32.3 veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 En cuanto al tipo de desarrollo se estará a las definiciones establecidas en las leyes de la materia.
 
@@ -1136,3 +1156,13 @@ P.O. 11 DE MARZO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Los Ayuntamientos del Estado de Nayarit deberán atender lo previsto en el presente Decreto en la elaboración de sus Iniciativas de Leyes de Ingresos para el Ejercicio Fiscal 2023, o bien, en el presente ejercicio fiscal atendiendo el proceso de reforma legislativa.
+
+P.O. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT, EN MATERIA DE USO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, COMO UNIDAD DE CUENTA EN LEYES DE INGRESOS MUNICIPALES".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los Ayuntamientos deberán presentar su iniciativa de Ley de Ingresos para el ejercicio fiscal 2023 tomando como referencia el valor de la Unidad de Medida y Actualización, por lo que deberán llevar a cabo la conversión de las tarifas vigentes señaladas en su respectiva Ley de Ingresos para el ejercicio fiscal en curso, entre el valor de la Unidad de Medida y Actualización vigente para el año 2022.
+
+TERCERO.- Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
