@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-2-2020-de-la-sala-superior-del-142378"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-03-27"
-last_updated: "2020-04-01"
+last_updated: "2022-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142378&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-03-27"
 ---
 # ACUERDO GENERAL NUMERO 2/2020 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION [POR EL QUE SE AUTORIZA LA RESOLUCION NO PRESENCIAL DE LOS MEDIOS DE IMPUGNACION, CON MOTIVO DE LA PANDEMIA ORIGINADA POR EL VIRUS COVID-19]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL "ACUERDO GENERAL 4/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA LAS SESIONES PRESENCIALES DE LAS SALAS DEL TRIBUNAL, EL USO DE HERRAMIENTAS DIGITALES Y LAS MEDIDAS PREVENTIVAS EN EL TRABAJO, DURANTE LA EMERGENCIA DE SALUD PÚBLICA", PUBLICADO EN EL D.O.F. DE 7 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN NÚMERO 2/2020, POR EL QUE SE AUTORIZA LA RESOLUCIÓN NO PRESENCIAL DE LOS MEDIOS DE IMPUGNACIÓN, CON MOTIVO DE LA PANDEMIA ORIGINADA POR EL VIRUS COVID-19
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE OCTUBRE DE 2022 (ABROGADO).
 
 Acuerdo publicado en la Edición Vespertina del Diario Oficial de la Federación, el viernes 27 de marzo de 2020.
 
@@ -450,3 +452,15 @@ Magistrada, Janine M. Otálora Malassis.- Rúbrica.- Magistrado, Reyes Rodrígue
 EL SUSCRITO, SUBSECRETARIO GENERAL DE ACUERDOS DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, CERTIFICA La presente documentación constante de veinticuatro folios, debidamente cotejados y sellados, corresponden a los votos emitidos por el Magistrado Reyes Rodríguez Mondragón y la Magistrada Janine M. Otálora Malassis en el Acuerdo General de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación número 2/2020, de veintiséis de marzo de dos mil veinte, POR EL QUE SE AUTORIZA LA RESOLUCIÓN NO PRESENCIAL DE LOS MEDIOS DE IMPUGNACIÓN, CON MOTIVO DE LA PANDEMIA ORIGINADA POR EL VIRUS COVID-19.- Lo que certifico por instrucciones del Magistrado Felipe Alfredo Fuentes Barrera, Presidente de este órgano jurisdiccional, en ejercicio de las facultades previstas en el artículo 201, fracción X de la Ley Orgánica del Poder Judicial de la Federación, y 24, fracción II, del Reglamento Interno de este Tribunal Electoral, para los efectos legales procedentes.- DOY FE.- Ciudad de México, veintisiete de marzo de dos mil veinte.
 
 El Secretario General de Acuerdos, Rolando Villafuerte Castellanos.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 4/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA LAS SESIONES PRESENCIALES DE LAS SALAS DEL TRIBUNAL, EL USO DE HERRAMIENTAS DIGITALES Y LAS MEDIDAS PREVENTIVAS EN EL TRABAJO, DURANTE LA EMERGENCIA DE SALUD PÚBLICA".]
+
+PRIMERO. El presente acuerdo general entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los acuerdos generales de la Sala Superior 2/2020, 4/2020, 6/2020 y 8/2020.
+
+TERCERO. Para su mayor difusión, notifíquese a las salas regionales, así como a las demás áreas de este Tribunal. Publíquese en el Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, en los estrados de esta Sala Superior y de las salas regionales, así como en los portales de intranet e internet de este órgano jurisdiccional.
