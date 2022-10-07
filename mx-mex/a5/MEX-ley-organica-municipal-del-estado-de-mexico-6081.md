@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2022-06-21"
+last_updated: "2022-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -3451,13 +3451,13 @@ b) No haber sido condenado por delito intencional;
 
 c) Ser de reconocida buena conducta y solvencia moral;
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2022)</small>
 
-d) Tener cuando menos treinta años al día de su designación;
+d). Tener cuando menos veinticuatro años al momento de su designación;
 
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2022)</small>
 
-e) Ser licenciado en derecho, en psicología, en sociología, en antropología, en trabajo social, o en comunicaciones y tener acreditados los estudios en materia de mediación; y
+e). Ser Licenciado en Derecho, en Psicología, en Sociología, en Antropología, en trabajo social, en comunicaciones, en medios alternos de solución de conflictos u otra afín y/o tener acreditados los estudios en materia de mediación, y
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -3471,9 +3471,13 @@ b) No haber sido condenado por delito intencional;
 
 c) Ser de reconocida buena conducta y solvencia moral;
 
-d) Tener cuando menos veintiocho años al día de la designación; y
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2022)</small>
 
-e) Ser licenciado en Derecho.
+d). Tener cuando menos veinticuatro años al momento de su designación, y
+
+> <small>(REFORMADO, G.G. 7 DE OCTUBRE DE 2022)</small>
+
+e). Ser Licenciado en Derecho o Licenciado en Medios Alternos de Solución de Conflictos u otra afín.
 
 > <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -5644,3 +5648,11 @@ TERCERO. Los ayuntamientos contarán con un plazo de 60 días hábiles para real
 CUARTO. Los ayuntamientos deberán darle máxima publicidad año con año a los cabildos juveniles, a efecto de que el presente Decreto tenga plena eficacia.
 
 QUINTO. El Instituto Mexiquense de la Juventud, para cumplir con el presente Decreto, deberá informar anualmente al Poder Legislativo del Estado de México sobre los resultados generales de los Cabildos Juveniles.
+
+G.G. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 97.- POR EL QUE SE REFORMAN LOS INCISOS D) Y E) DE LA FRACCIÓN I Y LOS INCISOS D) Y E) DE LA FRACCIÓN II DEL ARTÍCULO 149 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
