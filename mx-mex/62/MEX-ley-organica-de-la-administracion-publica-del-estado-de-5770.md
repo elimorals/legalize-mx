@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2022-06-21"
+last_updated: "2022-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1855,9 +1855,9 @@ XVII. Elaborar el Programa Estatal de Cultura Física y Deporte, con base en los
 
 XVIII. Coordinar el sistema estatal de cultura física y deporte, instalar su consejo y promover los sistemas correspondientes en los municipios;
 
-> <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2022)</small>
 
-XIX. Coordinar con las asociaciones deportivas estatales el establecimiento de programas específicos para el desarrollo del deporte, especialmente en materia de actualización y capacitación de recursos humanos para el deporte, eventos selectivos y de representación estatal, desarrollo de talentos deportivos y atletas de alto rendimiento;
+XIX. Coordinar con las asociaciones deportivas estatales el establecimiento de programas específicos para el desarrollo del deporte, especialmente en materia de actualización y capacitación de recursos humanos para el deporte, eventos selectivos y de representación estatal, desarrollo de talentos deportivos y atletas de alto rendimiento, promoviendo para tal efecto, la participación de las personas atletas en eventos deportivos con base en los estándares requeridos y de conformidad con las disposiciones jurídicas en la materia.
 
 > <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -4072,3 +4072,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. El Ejecutivo del Estado de México deberá realizar las modificaciones pertinentes a las disposiciones administrativas correspondientes, en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+G.G. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 96.- POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 38 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
