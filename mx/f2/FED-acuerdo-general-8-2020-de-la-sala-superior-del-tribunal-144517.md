@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2020-de-la-sala-superior-del-tribunal-144517"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-10-13"
-last_updated: "2020-10-13"
+last_updated: "2022-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144517&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2020-10-07"
 ---
 # ACUERDO GENERAL 8/2020 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION [POR EL QUE SE REANUDA LA RESOLUCION DE TODOS LOS MEDIOS DE IMPUGNACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL 4/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 7 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 8/2020 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, POR EL QUE SE REANUDA LA RESOLUCIÓN DE TODOS LOS MEDIOS DE IMPUGNACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE OCTUBRE DE 2022 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 13 de octubre de 2020.
 
@@ -190,3 +192,19 @@ La presente documentación, autorizada mediante firma electrónica certificada, 
 Lo que certifico por instrucciones del Magistrado Felipe Alfredo Fuentes Barrera, Presidente de este órgano jurisdiccional, en ejercicio de las facultades previstas en el artículo 201, fracción X de la Ley Orgánica del Poder Judicial de la Federación, y 20, fracción II, del Reglamento Interno de este Tribunal Electoral, para los efectos legales procedentes. DOY FE.
 
 Ciudad de México, siete de octubre de dos mil veinte.- El Secretario General de Acuerdos, Rolando Villafuerte Castellanos.- Firmado digitalmente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 4/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN QUE REGULA LAS SESIONES PRESENCIALES DE LAS SALAS DEL TRIBUNAL, EL USO DE HERRAMIENTAS DIGITALES Y LAS MEDIDAS PREVENTIVAS EN EL TRABAJO, DURANTE LA EMERGENCIA DE SALUD PÚBLICA".]
+
+PRIMERO. El presente acuerdo general entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los acuerdos generales de la Sala Superior 2/2020, 4/2020, 6/2020 y 8/2020.
+
+TERCERO. Para su mayor difusión, notifíquese a las salas regionales, así como a las demás áreas de este Tribunal. Publíquese en el Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, en los estrados de esta Sala Superior y de las salas regionales, así como en los portales de intranet e internet de este órgano jurisdiccional.
+
+En sesión privada de veintiuno de septiembre de dos mil veintidós, las magistraturas que integran la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación aprobaron el presente acuerdo general, por unanimidad de votos de los presentes, con la ausencia de la magistrada Mónica Aralí Soto Fregoso y del magistrado José Luis Vargas Valdez, ante el secretario general de acuerdos que da fe.
+
+Este documento es una representación gráfica autorizada mediante firmas electrónicas certificadas, el cual tiene plena validez jurídica de conformidad con los numerales segundo y cuarto del Acuerdo General de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación 3/2020, por el que se implementa la firma electrónica certificada del Poder Judicial de la Federación en los acuerdos, resoluciones y sentencias que se dicten con motivo del trámite, turno, sustanciación y resolución de los medios de impugnación en materia electoral.
