@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2021-08-27"
+last_updated: "2022-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2022.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -2256,6 +2256,10 @@ Aspectos que comprenden los alimentos
 ###### Artículo 4.
 
 135.- Los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica, hospitalaria y psicológica preventiva integrada a la salud y recreación, y en su caso, los gastos de embarazo y parto. Tratándose de niñas, niños y adolescentes y tutelados comprenden, además, los gastos necesarios para la educación básica, descanso, esparcimiento y que se le proporcione en su caso, algún oficio, arte o profesión adecuados a sus circunstancias personales.
+
+> <small>(ADICIONADO, G.G. 7 DE OCTUBRE DE 2022)</small>
+
+En el caso de personas adultas mayores, los familiares deberán cumplir con lo establecido en el artículo 33 de la Ley del Adulto Mayor del Estado de México, así como garantizar y procurar sus derechos y obligaciones.
 
 Forma de cumplir la obligación alimentaria
 
@@ -18670,3 +18674,11 @@ G.G. 27 DE AGOSTO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
 
 SEGUNDO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 7 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 94.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4.135 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
