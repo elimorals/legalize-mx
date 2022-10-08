@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2022-07-09"
+last_updated: "2022-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1923,17 +1923,17 @@ La riña es la agresión física de una parte y la disposición material para co
 
 Cuando se cometa homicidio culposo en estado de ebriedad o bajo el influjo de estupefacientes o cualquier sustancia psicotrópica, al responsable se le impondrá pena de cuatro a diez años de prisión, multa por el importe equivalente de quinientas a mil unidades de medida y actualización, e inhabilitación hasta por diez años para realizar la actividad por la cual se ocasionó el delito.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-A quien con motivo de tránsito de vehículos cometa homicidio, y el sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, se le impondrá pena de prisión de cuatro a doce años, y multa por un importe equivalente de quinientas a mil unidades de medida y actualización.
+A quien con motivo de tránsito de vehículos cometa homicidio, y el sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción, o transporte personas en la caja, canastilla o en el exterior del vehículo, se le impondrá pena de prisión de cuatro a doce años, y multa por un importe equivalente de quinientas a mil unidades de medida y actualización.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 A quien conduzca vehículos de transporte de pasajeros, escolar o de carga, de servicio público o privado, con autorización, permiso o licencia concedida por las autoridades competentes o sin cualquiera de ellas, y a consecuencia de su conducta culposa cause homicidio, la sanción será de siete a quince años de prisión, multa por un importe equivalente de quinientas a mil unidades de medida y actualización, destitución del empleo, cargo o comisión e inhabilitación o suspensión para obtener otros de igual naturaleza por un tiempo igual al de la pena de prisión impuesta.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-En caso de que en estado de ebriedad o bajo el influjo de estupefacientes o cualquier sustancia psicotrópica, se ocasionen de manera culposa lesiones de las consideradas en las fracciones IV, V, VI y VII del artículo 126 de este Código, al responsable se le impondrá pena de prisión de dos años hasta la mitad de la que en cada caso corresponda, así como multa por el importe equivalente de doscientas a setecientas unidades de medida y actualización, e inhabilitación hasta por cinco años para realizar la actividad por la cual se ocasionó el delito.
+En caso de que el conductor, en estado de ebriedad, bajo el influjo de estupefacientes o cualquier sustancia psicotrópica, por transportar personas en la caja, canastilla o en el exterior del vehículo, ocasionen de manera culposa lesiones de las consideradas en las fracciones IV, V, VI y VII del artículo 126 de este Código, al responsable se le impondrá pena de prisión de dos años hasta la mitad de la que en cada caso corresponda, así como multa por el importe equivalente de doscientas a setecientas unidades de medida y actualización, e inhabilitación hasta por cinco años para realizar la actividad por la cual se ocasionó el delito.
 
 Para los efectos del artículo anterior se considerará estupefaciente, psicotrópico o vegetales los que determine la Ley General de Salud como ilegales.
 
@@ -4840,3 +4840,11 @@ P.O. 9 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 113.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMÁS, SE REFORMA EL ARTÍCULO 17, PÁRRAFO TERCERO DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 8 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 152.- POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 82, PÁRRAFO 1, FRACCIONES XXV Y XXVI, ASÍ COMO, ADICIONAR LA FRACCIÓN XXVII, AL PÁRRAFO 1, DEL ARTÍCULO 82, DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, Y SE APRUEBA REFORMAR EL ARTÍCULO 137, PÁRRAFOS SEGUNDO Y CUARTO, DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas competencias, contarán con un plazo de 60 días naturales para realizar las adecuaciones necesarias a los Reglamentos de la materia, acorde a lo dispuesto en el presente decreto.
