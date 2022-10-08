@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-juventud-del-estado-de-colima-101797"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-12"
-last_updated: "2022-06-25"
+last_updated: "2022-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE NOVIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de julio de 2014.
 
@@ -79,7 +81,9 @@ IV. Fondo: Al Fondo de Apoyo a Proyectos Juveniles del Estado de Colima;
 
 V. Gobierno del Estado: Al Gobierno del Estado Libre y Soberano de Colima;
 
-VI. Gobernador: Al Titular del Poder Ejecutivo del Estado de Colima;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+VI. Gobernador o Gobernadora: A la persona Titular del Poder Ejecutivo del Estado de Colima;
 
 VII. Joven: A las mujeres y los hombres cuya edad comprende el rango entre los 12 y los 30 años de edad, identificado como un actor social estratégico para la transformación y el mejoramiento del Estado;
 
@@ -97,7 +101,9 @@ XIII. Reglamento: Al Reglamento de la presente Ley;
 
 XIV. Reglamento Interior: Al Reglamento del Consejo Ciudadano de Consulta y Seguimiento de la Política Joven en el Estado; y
 
-XV. Secretaría: A la Secretaría de la Juventud del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+XV. Subsecretaría: A la Subsecretaría de las Juventudes del Gobierno del Estado.
 
 ###### Artículo 4°.
 
@@ -157,13 +163,17 @@ IX. Indígenas.
 
 La aplicación y observancia de la presente Ley corresponde a:
 
-I. Al Gobierno del Estado, a través de la Secretaría; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+I. Al Gobierno del Estado, a través de la Subsecretaría; y
 
 II. A los Ayuntamientos de la entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 9°.
 
-Corresponde al Gobierno del Estado, por conducto de la Secretaría, además de las señaladas en la Ley Orgánica de la Administración Pública del Estado, las siguientes atribuciones:
+Corresponde al Gobierno del Estado, por conducto de la Subsecretaría, además de las señaladas en la Ley Orgánica del Poder Ejecutivo y la Administración Pública del Estado, las siguientes atribuciones:
 
 I. Elaborar el Programa en congruencia con los objetivos del Plan y con los programas sectoriales, institucionales y especiales a que se refiere la Ley de Planeación para el Desarrollo del Estado de Colima y presentarlo ante la Comisión;
 
@@ -191,7 +201,9 @@ XII. Elaborar, en coordinación con las dependencias y las entidades de la Admin
 
 XIII. Promover, en coordinación con las instancias educativas, la operación de programas especiales para la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior de los estudiantes indígenas y de comunidades rurales de alto grado de marginación;
 
-XIV. Gestionar y coordinarse ante el Congreso del Estado para la celebración anual de un parlamento juvenil en el mes de agosto, con el propósito de brindar a la juventud del Estado un espacio de análisis y expresión en el cual puedan dar a conocer sus propuestas sobre temas de actualidad. Teniendo a su cargo la Secretaría de crear un Comité que se encargue de seleccionar a quienes habrán de participar en el mismo, procurando exista cuando menos un joven que represente a cada distrito electoral local;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+XIV. Gestionar y coordinarse ante el Congreso del Estado para la celebración anual de un parlamento juvenil en el mes de agosto, con el propósito de brindar a la juventud del Estado un espacio de análisis y expresión en el cual puedan dar a conocer sus propuestas sobre temas de actualidad. Teniendo a su cargo la Subsecretaría de crear un Comité que se encargue de seleccionar a quienes habrán de participar en el mismo, procurando exista cuando menos un joven que represente a cada distrito electoral local;
 
 XV. Generar contacto con los diversos grupos y asociaciones de la juventud existentes en el Estado para atender sus problemáticas específicas e impulsar acciones con el objeto de lograr su integración plena a la sociedad, procurando en todo momento un desarrollo integral e incluyente;
 
@@ -211,7 +223,9 @@ II. Establecer en el Plan Municipal de Desarrollo, las metas, estrategias y acci
 
 III. De acuerdo a la normatividad vigente, celebrar convenios con organismos públicos y privados, nacionales, e internacionales, en materia de participación y desarrollo integral de la juventud;
 
-IV. Contribuir, a invitación de la Secretaría, en la elaboración del Programa;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+IV. Contribuir, a invitación de la Subsecretaría, en la elaboración del Programa;
 
 V. Celebrar acuerdos o convenios ante organismos públicos y privados, estatales, nacionales e internacionales para gestionar financiamiento para proyectos presentados por organizaciones e individuos, en materia de juventud;
 
@@ -241,39 +255,61 @@ Se crea la Comisión como una instancia de concurrencia interinstitucional, de d
 
 La Comisión se integrará de la siguiente manera:
 
-I. Un Presidente que será el Gobernador, quien será suplido en su ausencia por el Secretario Ejecutivo de la Comisión;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+I. Un Presidente que será el Gobernador o Gobernadora, quien será suplido en su ausencia por el Secretario Ejecutivo de la Comisión;
 
 II. Un Secretario Técnico, que será designado previamente por el Presidente;
 
 III. Un Secretario Ejecutivo, que será el Titular de la Secretaría y, quien suplirá en sus funciones al Presidente en caso de ausencia;
 
-IV. El Presidente de la Comisión de Niñez, Juventud, Adultos Mayores y Discapacidad del Congreso del Estado;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+IV. El Presidente de la Comisión del Congreso del Estado, a la que de conformidad con sus ordenamientos le corresponda la competencia de los asuntos relacionados con la presente Ley;
 
 V. El Titular de la Secretaría General de Gobierno;
 
 VI. El Titular de la Secretaría de Seguridad Pública;
 
-VII. El Titular de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-VIII. El Titular de la Secretaría de Planeación;
+VII. El Titular de la Secretaría de Planeación, Finanzas y Administración;
 
-IX. El Titular de la Contraloría;
+VIII. (DEROGADA, P.O. 8 DE OCTUBRE DE 2022)
 
-X. El Titular de la Secretaría de Fomento Económico;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-XI. El Titular de la Secretaría de Educación;
+IX. El Titular de la Contraloría General del Estado;
 
-XII. El Titular de la Secretaría de Cultura;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-XIII. El Titular de la Secretaría de Salud y Bienestar Social;
+X. El Titular de la Secretaría de Desarrollo Económico;
 
-XIV. El Titular de la Secretaría de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-XV. El Titular de la Secretaría del Trabajo y Previsión Social;
+XI. El Titular de la Secretaría de Educación y Cultura;
 
-XVI. El Titular de la Secretaría de Desarrollo Social;
+XII. (DEROGADA, P.O. 8 DE OCTUBRE DE 2022)
 
-XVII. El Titular de la Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+XIII. El Titular de la Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+XIV. El Titular de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+XV. El Titular de la Subsecretaría del Trabajo;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+XVI. El Titular de la Secretaría de Bienestar, Inclusión Social y Mujeres;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+XVII. El Titular de la Fiscalía General del Estado de Colima;
 
 XVIII. El Presidente Municipal de cada uno de los diez Ayuntamientos del Estado;
 
@@ -311,13 +347,17 @@ La Comisión tendrá las atribuciones siguientes:
 
 I. Apoyar en la instrumentación de una política estatal de juventud que permita su incorporación plena al desarrollo del Estado;
 
-II. Aprobar el Programa elaborado por la Secretaría y, en su caso, mandarlo publicar en el Periódico Oficial “El Estado de Colima”;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+II. Aprobar el Programa elaborado por la Subsecretaría y, en su caso, mandarlo publicar en el Periódico Oficial “El Estado de Colima”;
 
 III. Celebrar sesiones ordinarias y, extraordinarias, las veces que se requieran;
 
 IV. Impulsar entre sus integrantes la generación de programas especiales dirigidos a la juventud del Estado para mejorar su calidad de vida;
 
-V. Concertar acuerdos y convenios con las autoridades de las entidades federativas y los municipios, para promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al desarrollo integral de la juventud, mismos que de lograrse, en todo momento se realizarían a través de la Secretaría; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+V. Concertar acuerdos y convenios con las autoridades de las entidades federativas y los municipios, para promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al desarrollo integral de la juventud, mismos que de lograrse, en todo momento se realizarían a través de la Subsecretaría; y
 
 VI. Las demás que le confiera esta Ley, su Reglamento y otras disposiciones aplicables.
 
@@ -427,15 +467,25 @@ El Programa deberá ser congruente con las directrices fundamentales del Plan. E
 
 Para la elaboración del Programa se observará lo siguiente:
 
-I. La Secretaría convocará, con toda oportunidad, a las diversas dependencias y entidades del Estado, para darles a conocer los objetivos, estrategias, líneas de acción y acciones particulares que, en materia de juventud, cada entidad ejecutará, garantizando su programación y presupuesto anual;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-II. La Secretaría pedirá, dentro del plazo razonable que considere, la opinión del Consejo sobre los objetivos, estrategias, líneas de acción y acciones particulares que se requieran para promover y alcanzar la atención integral de la juventud;
+I. La Subsecretaría convocará, con toda oportunidad, a las diversas dependencias y entidades del Estado, para darles a conocer los objetivos, estrategias, líneas de acción y acciones particulares que, en materia de juventud, cada entidad ejecutará, garantizando su programación y presupuesto anual;
 
-III. La Secretaría podrá realizar foros, consultas o cualquier otro instrumento para garantizar la participación ciudadana en la elaboración del Programa;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-IV. El programa, una vez aprobado, tendrá una vigencia por seis años, sin perjuicio de ser modificado, actualizado, corregido y/o reformado por la Secretaría, en los términos que disponga el Reglamento correspondiente; y
+II. La Subsecretaría pedirá, dentro del plazo razonable que considere, la opinión del Consejo sobre los objetivos, estrategias, líneas de acción y acciones particulares que se requieran para promover y alcanzar la atención integral de la juventud;
 
-V. El programa deberá ser congruente con las directrices fundamentales del Plan. El avance en sus metas, líneas estratégicas, acciones, su incidencia y resultados de ejecución, se evaluarán de manera permanente y periódica por la Secretaría.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+III. La Subsecretaría podrá realizar foros, consultas o cualquier otro instrumento para garantizar la participación ciudadana en la elaboración del Programa;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+IV. El programa, una vez aprobado, tendrá una vigencia por seis años, sin perjuicio de ser modificado, actualizado, corregido y/o reformado por la Subsecretaría, en los términos que disponga el Reglamento correspondiente; y
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+V. El programa deberá ser congruente con las directrices fundamentales del Plan. El avance en sus metas, líneas estratégicas, acciones, su incidencia y resultados de ejecución, se evaluarán de manera permanente y periódica por la Subsecretaría.
 
 ###### Artículo 22.
 
@@ -451,15 +501,15 @@ El Programa deberá publicarse en el Periódico Oficial “El Estado de Colima�
 
 Se crea el Consejo Ciudadano, dependiente de la Secretaría, como espacio de participación ciudadana, el cual, como órgano de consulta, tiene por objeto conocer el cumplimiento dado a los programas dirigidos a la juventud, tanto de la Secretaría como de las demás Secretarías y entidades públicas con presencia en el Estado, opinar sobre los mismos, recabar la opinión de los ciudadanos interesados en políticas públicas en materia de juventud y presentar sus resultados y opiniones al titular de la Secretaría, en su caso, las propuestas correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 25.
 
-El Consejo Ciudadano estará integrado por trece consejeros, de los cuales, tres serán designados de manera directa por el Secretario de la Juventud, dentro del mismo personal de la Secretaría, para ocupar los cargos de Presidente, Vicepresidente y Secretario.
+El Consejo Ciudadano estará integrado por trece consejeros, de los cuales, tres serán electos de manera directa por la Subsecretaría, dentro del mismo personal de esta, para ocupar los cargos de Presidente, Vicepresidente y Secretario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2022)</small>
 
-Para integrar los diez consejeros restantes, la Secretaría deberá convocar a las Instituciones de educación superior, a las organizaciones juveniles vinculadas con el trabajo comunitario, político o social, así como a los sectores público y privado, para que propongan a esta a las y los jóvenes que habrán de participar en la elección de diez miembros del Consejo Ciudadano, conforme a las siguientes bases:
+Para integrar los diez consejeros restantes, la Subsecretaría deberá convocar a las Instituciones de educación superior, a las organizaciones juveniles vinculadas con el trabajo comunitario, político o social, así como a los sectores público y privado, para que propongan a esta a las y los jóvenes que habrán de participar en el concurso de selección de diez miembros del Consejo Ciudadano, conforme a las siguientes bases:
 
 Podrán participar en el concurso todas y todos aquellos jóvenes que reúnan los siguientes requisitos:
 
@@ -477,9 +527,9 @@ d. Presentar una carta de alguna institución u organización pública o privada
 
 e. No estar desempeñando un puesto de elección popular;
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-f. No pertenecer a una organización que al momento de la elección realice un proyecto financiado por la Secretaría; y
+f. No pertenecer a una organización que al momento de la designación realice un proyecto financiado por la Subsecretaría; y
 
 g. Disponibilidad de tiempo para asistir a las sesiones, así como a las actividades extraordinarias del Consejo Ciudadano.
 
@@ -701,7 +751,9 @@ El Gobierno del Estado impulsará y apoyará, por todos los medios a su alcance,
 
 El Plan y el Programa contemplarán un sistema de becas, estímulos e intercambios académicos, tanto nacionales como extranjeros, que promuevan, apoyen y fortalezcan el desarrollo educativo de la juventud, para lo cual el Estado dará prioridad presupuestaria.
 
-La Secretaría podrá realizar propuestas de programas de becas que incentiven, motiven y faciliten el acceso a la educación media superior y superior en el Estado, de conformidad a la disponibilidad presupuestal.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+La Subsecretaría podrá realizar propuestas de programas de becas que incentiven, motiven y faciliten el acceso a la educación media superior y superior en el Estado, de conformidad a la disponibilidad presupuestal.
 
 ###### Artículo 45.
 
@@ -717,17 +769,25 @@ En el Plan y en el Programa se establecerán mecanismos para impulsar la continu
 
 Se impulsarán acciones para identificar a jóvenes de y en la calle para incorporarlos a las actividades educativas que les permita una formación académica para el acceso a mejores fuentes de empleo.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-###### Artículo 47 Bis.
+###### ARTÍCULO 47 Bis.
 
-La Secretaría de la Juventud y la Secretaría de Planeación y Finanzas del Gobierno del Estado, podrá programar y presupuestar anualmente, el pago de becas económicas mensuales a las madres jóvenes y embarazadas, que se encuentren estudiando, misma que se otorgará a través de la convocatoria que emita la Secretaría en el mes de Enero de cada año, y entregados por la Secretaría de Desarrollo Social, cuyos requisitos deberán ser:
+La Secretaría y la Secretaría de Planeación, Finanzas y Administración del Gobierno del Estado, podrá programar y presupuestar anualmente, el pago de becas económicas mensuales a las madres jóvenes y embarazadas, que se encuentren estudiando, misma que se otorgará a través de la convocatoria que emita la Secretaría en el mes de Enero de cada año, y entregados por la Secretaría de Desarrollo Social, cuyos requisitos deberán ser:
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 I.- Ser madre joven o embarazada, residente en el Estado de Colima;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 II.- Tener entre 12 y 30 años de edad;
 
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+
 III.- No recibir beca federal para madres jóvenes o embarazadas; y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
 IV.- Estar inscrita en algún plantel educativo.
 
@@ -915,9 +975,11 @@ El Gobierno del Estado impulsará dentro del Plan y el Programa, la vinculación
 
 Para incrementar el activo del Fondo, se buscarán mecanismos para que la iniciativa privada aporte al mismo.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 82.
 
-La Secretaría impulsará la gestión de recursos públicos para apoyar a la juventud y asociaciones juveniles con registro ante la Secretaría para el apoyo de proyectos juveniles con enfoque a resolver las problemáticas sociales que imperen en el momento.
+La Subsecretaría impulsará la gestión de recursos públicos para apoyar a la juventud y asociaciones juveniles con registro ante la Secretaría para el apoyo de proyectos juveniles con enfoque a resolver las problemáticas sociales que imperen en el momento.
 
 ## TÍTULO CUARTO. DE LOS DEBERES Y OBLIGACIONES DE LA JUVENTUD
 
@@ -1061,6 +1123,36 @@ Este premio se tramitará ante la Subsecretaría de las Juventudes del Estado de
 
 El premio consistirá en una medalla y un diploma, pudiendo incluir adicionalmente, una entrega en numerario por el monto determinado en el presupuesto de la Subsecretaría de las Juventudes del Estado de Colima.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+## TÍTULO SEXTO (SIC)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO PRIMERO (SIC). DE LA RED ESTATAL DE LA JUVENTUD
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+Artículo 91 (SIC).- La Red Estatal de la Juventud estará constituida por todas las instancias municipales de la juventud en el estado, correspondiendo a la Subsecretaría formalizar su incorporación y promover su participación.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+Artículo 92 (SIC).- En los planes, proyectos y/o acciones dirigidas a la juventud que se lleven a cabo desde la Red Estatal de la Juventud, se deberán considerar las diversas características sociales, económicas, políticas, étnicos (sic), culturales y de género en cada uno de los municipios, a efecto de coadyuvar a su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+Artículo 93 (SIC).- La Red Estatal de la Juventud, tendrá como objetivos principalmente los siguientes:
+
+I. Dar participación y colaboración a los gobiernos municipales para la formulación y aplicación de políticas públicas enfocadas al desarrollo integral de la juventud;
+
+II. Elaborar, coordinar y apoyar propuestas municipales y estatales que contribuyan a la construcción general de la juventud en el Estado y en las entidades municipales;
+
+III. Propiciar la vinculación entre instancias municipales de la juventud y de las instancias con la Subsecretaría;
+
+IV. Ofrecer un espacio de comunicación, facilitando los espacios entre las instancias municipales de la juventud, a efecto de fortalecer los programas y acciones encaminada al desarrollo integral de la juventud colimense; y
+
+V. Propiciar el intercambio de experiencias y colaboración mutua con sus integrantes.
+
 T R A N S I T O R I O S
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
@@ -1126,3 +1218,11 @@ P.O. 25 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- La Subsecretaría de las Juventudes, contemplarán en su anteproyecto de su Presupuesto de Egresos a partir del Ejercicio Fiscal 2023 la partida que afecto determine para la entrega del estímulo económico establecido en el artículo 93 de esta Ley.
+
+P.O. 8 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 161.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
