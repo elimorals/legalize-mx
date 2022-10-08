@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-del-centro-de-convivencia-familiar-supervisada-11007
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-09-23"
-last_updated: "2015-09-23"
+last_updated: "2022-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO DEL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CENTRO ESTATAL DE CONVIVENCIA FAMILIAR SUPERVISADA, PUBLICADO EN EL P.O. DE 8 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL CENTRO DE CONVIVENCIA FAMILIAR SUPERVISADA DEL PODER JUDICIAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERÍODICO OFICIAL: 8 DE OCTUBRE DE 2022 (ABROGADO).
 
 Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 23 de septiembre de 2015.
 
@@ -768,3 +770,13 @@ LIC. JUAN ANTONIO CASTAÑEDA (SIC)
 LA SECRETARIA GENERAL DE ACUERDOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 LIC. BEATRIZ ELENA DEL REFUGIO NAVEJAS RAMOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL CENTRO ESTATAL DE CONVIVENCIA FAMILIAR SUPERVISADA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+SEGUNDO. Se abroga el Reglamento del Centro de Convivencia Familiar Supervisada del Poder Judicial del Estado de Zacatecas aprobado por el Pleno el 18 de septiembre de 2015 y publicado en el Periódico Oficial el 23 de septiembre de ese mismo año.
