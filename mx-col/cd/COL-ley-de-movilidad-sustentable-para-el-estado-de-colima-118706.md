@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2022-08-20"
+last_updated: "2022-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -1931,9 +1931,17 @@ a. Disminuir la velocidad del vehículo a treinta kilómetros por hora, a una di
 
 b. Realizar alto total a una distancia de cinco metros antes de las vías y mantenerse en esa forma si el ferrocarril se encuentra a una distancia menor a doscientos metros en dirección al crucero.
 
-XXV. Ascender o descender del vehículo sobre el carril contiguo a la acera, en caso de encontrarse un carril confinado para transporte público o ciclista se realizará en la calle transversal siguiente. En caso de que tenga que hacerlo del lado izquierdo extremaraí (sic) precauciones al abrir o cerrar las portezuelas, sin sobrepasar las rayas de división de carril de manera que no haga un corte de circulación y con las luces de advertencia o intermitencia; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
 
-XXVI. Respetar los límites de velocidad establecidos en la señalización vial. A falta de señalamiento restrictivo específico, se estará a los límites de velocidad establecidos en la presente Ley.
+XXV. Ascender o descender del vehículo sobre el carril contiguo a la acera, en caso de encontrarse un carril confinado para transporte público o ciclista se realizará en la calle transversal siguiente. En caso de que tenga que hacerlo del lado izquierdo extremará precauciones al abrir o cerrar las portezuelas, sin sobrepasar las rayas de división de carril de manera que no haga un corte de circulación y con las luces de advertencia o intermitencia
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+XXVI. Respetar los límites de velocidad establecidos en la señalización vial. A falta de señalamiento restrictivo específico, se estará a los límites de velocidad establecidos en la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+XXVII. Abstenerse de transportar personas sobre la caja, la canastilla y en el exterior del vehículo, salvo que se realice en número y en condiciones tales que garanticen la integridad física de los mismos, así como transportar a un número mayor de personas que el especificado en la tarjeta de circulación.
 
 2. El incumplimiento de las obligaciones dispuestas en este artículo por parte de conductores de vehículos motorizados se sancionaraí (sic) de acuerdo a la Ley y el Reglamento correspondiente.
 
@@ -6286,3 +6294,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las obligaciones que se generan en el punto 5 del artículo 170 y punto 3 del arábigo 246, con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria en la Subsecretaria de Movilidad, dentro del Presupuesto de Egresos 2023.
 
 TERCERO. La Subsecretaria desarrollara la plataforma digital, software o aplicación que contengan los datos del vehículo, de su propietario y datos del chofer, del Sistema de Transporte Individual Motorizado y del Transporte Privado por Arrendamiento a través de Aplicaciones Tecnológicas, proporcionando a concesionarios y permisionarios un gafete que contenga un código único de QR, para ponerlo a disposición de los usuarios y puedan éstos verificar la información de un transporte seguro, así como que dicha plataforma, cuente con apartado de receptoría de quejas.
+
+P.O. 8 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 152.- POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 82, PÁRRAFO 1, FRACCIONES XXV Y XXVI, ASÍ COMO, ADICIONAR LA FRACCIÓN XXVII, AL PÁRRAFO 1, DEL ARTÍCULO 82, DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, Y SE APRUEBA REFORMAR EL ARTÍCULO 137, PÁRRAFOS SEGUNDO Y CUARTO, DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas competencias, contarán con un plazo de 60 días naturales para realizar las adecuaciones necesarias a los Reglamentos de la materia, acorde a lo dispuesto en el presente decreto.
