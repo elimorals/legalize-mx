@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2022-09-10"
+last_updated: "2022-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -1273,6 +1273,8 @@ VI. Los ciudadanos colimenses debidamente identificados, mediante iniciativa pop
 
 Las iniciativas presentadas conforme a esta fracción deberán ser dictaminadas en el siguiente periodo ordinario de sesiones a aquel en que se reciba.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 119.
 
 El orden que se seguirá para la presentación de iniciativas, será conforme se turnen para su publicación en la Gaceta Parlamentaria, atendiendo a la clasificación siguiente:
@@ -1284,6 +1286,10 @@ II. Iniciativas de Acuerdo o Acuerdo Económico en segundo término.
 Se exceptuarán de lo previsto por el presente artículo, las iniciativas que por su relevancia, transcendencia o urgencia, calificada por mayoría de votos de los Diputados presentes, deban ser presentadas al Pleno, sin que hayan sido previamente publicadas en la Gaceta Parlamentaria.
 
 Las iniciativas se turnarán de manera física y por medio electrónico a las Comisiones legislativas que por su materia les corresponda conocer, y se publicarán en la Gaceta Parlamentaria. Si la iniciativa no presenta claridad acerca de su naturaleza, el Pleno decidirá lo que en derecho proceda para las aclaraciones a que haya lugar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2022)</small>
+
+Las iniciativas tendrán que ser presentadas con un lenguaje incluyente y no sexista.
 
 ###### Artículo 120.
 
@@ -1309,6 +1315,8 @@ Desechada una iniciativa en su discusión en lo general, no podrá volver a pres
 
 Los dictámenes son actos legislativos colegiados a través de los cuales, una o más Comisiones facultadas presentan una opinión técnica calificada, por escrito para aprobar, desechar o modificar las iniciativas o asuntos que les son turnados, y que presentan a la Mesa Directiva para que sean sometidos a la consideración del Pleno del Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 124.
 
 Los dictámenes deberán contener una exposición clara, precisa y fundada del asunto a que se refieran y concluir sometiendo a consideración del Congreso la aprobación del proyecto de ley, decreto o acuerdo según corresponda, o su desechamiento o modificación, y deberán estar conformados por los siguientes apartados:
@@ -1331,7 +1339,9 @@ VIII. Conclusiones o puntos resolutivos; y
 
 IX. Fecha y espacio para el nombre y la firma de los Diputados integrantes de la Comisión o Comisiones que dictaminan.
 
-Los dictámenes deberán acompañarse de los anexos correspondientes a las opiniones técnicas jurídicas, respuestas o en su caso, acuses de recibido, solicitados a las dependencias o entidades paraestatales del Poder Ejecutivo; de los Ayuntamientos; de los Órganos Autónomos; o cualquier otra instancia gubernamental, privada, social o de cualquier otra naturaleza, sobre las implicaciones de la iniciativa o asunto en estudio y análisis, así como los impactos presupuestarios tratándose de autoridades facultadas para emitirlos.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2022)</small>
+
+Los dictámenes se realizarán con un lenguaje incluyente y no sexista y deberán acompañarse de los anexos correspondientes a las opiniones técnicas jurídicas, respuestas o en su caso, acuses de recibido, solicitados a las dependencias o entidades paraestatales del Poder Ejecutivo; de los Ayuntamientos; de los Órganos Autónomos; o cualquier otra instancia gubernamental, privada, social o de cualquier otra naturaleza, sobre las implicaciones de la iniciativa o asunto en estudio y análisis, así como los impactos presupuestarios tratándose de autoridades facultadas para emitirlos.
 
 Una vez firmados los dictámenes, en favor o en contra, por la mayoría de los miembros de la Comisión o Comisiones encargadas de una iniciativa o asunto, se remitirán por escrito y por medio electrónico al Pleno, a través de la Mesa Directiva, debiéndose adjuntar los votos particulares si los hubiere, para su conocimiento.
 
@@ -1512,3 +1522,9 @@ P.O. 10 DE SEPTIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su aprobación por el Poder Legislativo del Estado de Colima, y permanecerá vigente hasta el día 31 de diciembre de 2022.
+
+P.O. 8 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 151.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y DE SU REGLAMENTO".]
+
+ÚNICO. El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del H. Congreso del Estado de Colima y deberá publicarse en el Periódico Oficial "El Estado de Colima".
