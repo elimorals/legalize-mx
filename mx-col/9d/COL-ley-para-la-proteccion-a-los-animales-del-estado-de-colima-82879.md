@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-a-los-animales-del-estado-de-colima-8287
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-31"
-last_updated: "2022-09-10"
+last_updated: "2022-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN A LOS ANIMALES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2011.
 
@@ -35,7 +35,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE LOS ARTÍCULOS 33 FRACCIÓN II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -81,7 +83,7 @@ VII. A las demás dependencias y entidades de la administración pública estata
 
 Son objeto de la tutela y protección de esta Ley, los animales que no constituyan plaga, que se encuentren de forma permanente o transitoria dentro del territorio del Estado, entre los cuales se incluyen:
 
-I. Domésticos;
+I. (DEROGADA POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 II. Abandonados;
 
@@ -123,9 +125,7 @@ I. Evitar el deterioro del medio ambiente;
 
 II. Proteger y regular la vida y el crecimiento natural de las especies animales no nocivas;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
-
-III. Fomentar el trato digno y respetuoso a las especies animales, con el propósito de evitar la crueldad en contra de estas;
+III. (DEROGADA POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 IV. Erradicar y sancionar el maltrato y los actos de crueldad para con los animales;
 
@@ -181,7 +181,7 @@ V. Animal doméstico: A los que han sido reproducidos y criados bajo el control 
 
 VI. Animal en exhibición: A los que se encuentran en cautiverio en zoológicos y espacios similares de propiedad pública o privada;
 
-VII. Animal feral: A los domésticos que al quedar fuera del control del ser humano se establecen en el hábitat de la vida silvestre, así como sus descendientes nacidos en este hábitat;
+VII. (DEROGADA POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 VIII. Animal guía: A los que son utilizados o adiestrados para ayudar al desarrollo de las personas con cualquier tipo de discapacidad;
 
@@ -637,83 +637,43 @@ A. DOMÉSTICOS.
 
 ###### Artículo 42.
 
-Cualquier acto de crueldad hacia un animal doméstico, ya sea intencional o imprudencial, será sancionado en los términos de la presente Ley.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 43.
 
-Para los efectos de su aplicación, se entenderá por actos de crueldad, además de lo señalado en el capítulo I de esta Ley, los siguientes:
-
-I. Los actos u omisiones carentes de un motivo razonable o legítimo y que sean susceptibles de causar a un animal dolores o sufrimientos considerables, que afecten gravemente su salud o les causen la muerte;
-
-II. Torturar o maltratar a un animal por maldad, brutalidad, egoísmo o negligencia grave;
-
-III. Toda privación de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos y alojamiento adecuado, acorde a su especie, que cause o pueda causar daño a un animal;
-
-IV. Descuidar la morada y las condiciones de aeración, movilidad, higiene y albergue de un animal, a un punto tal, que esto pueda causarle sed, insolación, dolores considerables o atentar gravemente contra su salud;
-
-V. El sacrificio de animales empleando métodos diversos a los establecidos en las Normas Oficiales Mexicanas y, en su caso, las normas ambientales;
-
-VI. Cualquier mutilación, alteración de la integridad física o modificación negativa de sus instintos naturales, que no se efectúe bajo causa justificada y cuidado de un especialista o persona debidamente autorizada que cuente con conocimientos técnicos en la materia;
-
-VII. No brindarles atención médico veterinaria cuando lo requieran o lo determinen las condiciones para el bienestar animal;
-
-VIII. Incitar a los animales para que se ataquen entre ellos o a las personas y hacer de las peleas así provocadas, un espectáculo público o privado;
-
-IX. Abandonar a los animales en la vía pública o comprometer su bienestar al desatenderlos por períodos prolongados en bienes de propiedad de particulares; y
-
-X. Las demás que establezcan la presente Ley y demás ordenamientos jurídicos aplicables.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 44.
 
-Toda persona física o moral que dedique sus actividades a la cría de animales, está obligada a valerse para ello de los procedimientos más adecuados, y disponer de todos los medios necesarios a fin de que los animales en su desarrollo reciban un trato humanitario de acuerdo con los adelantos científicos en uso, y puedan satisfacer el comportamiento natural de su especie.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
-
-En el caso de perros y gatos solo se permitirá la crianza, comercialización o reproducción de ejemplares en lugares autorizados de conformidad con las normas oficiales mexicanas en la materia, asimismo, se aplicarán las sanciones correspondientes a quienes realicen acciones de crianza, comercialización o reproducción clandestina.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 45.
 
-El traslado de los animales por acarreo o en cualquier tipo de vehículo, obliga a emplear, en todo momento, procedimientos que no entrañen crueldad, malos tratos, fatiga extrema o carencia de descanso, bebida y alimentos para los animales transportados, con el objeto de evitar su estrés y asegurar su vida y su salud.
-
-Queda estrictamente prohibido trasladar animales arrastrándolos suspendidos de los miembros superiores o inferiores, en costales o cajuelas de automóviles y, tratándose de aves, con las alas cruzadas.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 46.
 
-Para el transporte de cuadrúpedos, se emplearán vehículos que los protejan del sol y de la lluvia. Tratándose de animales más pequeños, las cajas o jaulas deberán tener ventilación y amplitud apropiada, y su construcción será lo suficientemente sólida como para resistir cualquier movimiento inesperado. Por ningún motivo los receptáculos serán arrojados de cualquier altura y las operaciones de carga, descarga o traslado, deberá hacerse evitando todo movimiento violento.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 47.
 
-En el caso de animales transportados que fueran detenidos en su camino o a su arribo al lugar destinado por complicaciones accidentales, fortuitas o administrativas tales como huelgas, faltas de medios, decomiso por autoridades, demoras en el tránsito o la entrega, deberá proporcionárseles alojamiento amplio y ventilado, abrevaderos y alimentos hasta que sea solucionado el conflicto jurídico y puedan proseguir a su destino o sean rescatados y devueltos o bien, entregados a instituciones autorizadas para su custodia y disposición.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 48.
 
-Toda persona que compre o adquiera por cualquier medio una mascota, está obligada a cumplir con las disposiciones correspondientes establecidas en la presente Ley y demás ordenamientos jurídicos aplicables.
-
-El propietario de cualquier animal, cuando sea posible según la especie, está obligado a colocarle permanentemente una placa u otro medio de identificación en la que constarán al menos los datos de identificación del propietario.
-
-Asimismo, los propietarios serán responsables de recoger las heces ocasionadas de su animal cuando transite con éste en la vía pública, para mejorar la salud pública, higiene e imagen del lugar que corresponda.
-
-Toda persona que no pueda hacerse cargo de su animal, podrá venderlo o buscarle alojamiento y cuidado; bajo ninguna circunstancia podrá abandonarlo en la vía pública o en zonas rurales.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 49.
 
-Toda persona propietaria, poseedora o encargada de un perro, está obligada a colocarle una correa al transitar con él en la vía pública. Otras mascotas deberán transitar sujetadas o transportadas apropiadamente de acuerdo a su especie.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 50.
 
-La captura de animales en la vía pública sólo puede realizarse por el ayuntamiento respectivo, cuando deambulen sin dueño aparente y deberá ser libre de maltrato. Si el animal cuenta con placa u otra forma de identificación, deberá avisarse a su propietario de inmediato.
-
-La captura no se llevará a cabo si una persona, previa identificación, comprueba ser propietaria del animal, excepto cuando sea indispensable para mantener el orden o para prevenir zoonosis o epizootias, en coordinación con las dependencias encargadas de la sanidad animal.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 51.
 
-El dueño podrá reclamar a su animal que haya sido remitido por el ayuntamiento respectivo a cualquier centro de control animal dentro de los tres días hábiles siguientes a su captura, debiendo comprobar su propiedad o posesión con cualquier documento que acredite la propiedad, o acudir con dos personas que testifiquen bajo protesta de decir verdad ante la autoridad, la auténtica propiedad o posesión de la mascota de quien la reclame.
-
-En caso de que el animal no sea reclamado por su dueño en el tiempo estipulado, el ayuntamiento que corresponda podrá otorgarlo para su adopción a asociaciones protectoras de animales constituidas legalmente que así lo soliciten, y que se comprometan a su cuidado y protección, o ser sacrificados humanitariamente si se considera necesario.
-
-Es responsabilidad de los centros de control animal, o cualquier institución que los ampare temporalmente, alimentar adecuadamente y dar de beber agua limpia a todo animal que se retenga.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 B. SILVESTRES EN CAUTIVERIO.
 
@@ -875,17 +835,7 @@ En caso de tener conocimiento de que un animal se encuentre bajo sufrimiento irr
 
 ###### Artículo 74.
 
-Las actividades e instalaciones reguladas por las disposiciones de este capítulo son las relativas a:
-
-I. La crianza de animales domésticos de cualquier especie en establos, granjas, criaderos e instalaciones análogas;
-
-II. El entrenamiento de animales domésticos para defensa u obediencia, bajo cualquier modalidad;
-
-III. La atención veterinaria, aseo, servicios y custodia de animales domésticos con fines de entrenamiento;
-
-IV. La comercialización de animales domésticos vivos; y
-
-V. El uso de animales domésticos en la prestación de servicios de seguridad pública o privada.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 75.
 
@@ -917,11 +867,11 @@ II. Realizar actividades de sacrificio, de mutilación por motivos estéticos o 
 
 ###### Artículo 79.
 
-Los lugares de cautiverio, o compartimiento de locales, o cualquiera otro lugar para el albergue de animales domésticos, deberán contar con las dimensiones necesarias que les permitan libertad de movimiento, seguridad e higiene, y con otras condiciones para su desarrollo.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 80.
 
-Quienes se dediquen al entrenamiento de animales domésticos con fines de guardia, protección, cuidado de personas o bienes, deberán contar con la autorización de la Dirección de la Policía Estatal Preventiva y cumplir con las disposiciones previstas en esta Ley.
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA, P.O. 8 DE OCTUBRE DE 2022)
 
 ###### Artículo 81.
 
@@ -1154,3 +1104,15 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Poder Ejecutivo del Estado, así como los Ayuntamientos, contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor del presente Decreto, para adecuar su reglamentación de conformidad a los términos previstos por este.
 
 TERCERO. El Poder Ejecutivo del Estado contará con un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente decreto, para constituir el Registro a que hace referencia el párrafo cuarto del artículo 82, de esta Ley.
+
+P.O. 8 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 158 POR EL QUE SE APRUEBA LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE COMPAÑÍA DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado, así como los Ayuntamientos, contarán con un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, para adecuar su reglamentación de conformidad a los términos previstos por este.
+
+TERCERO. Se derogan las disposiciones contenidas en la Ley para la Protección de los Animales del Estado de Colima, relativas (sic) los denominados animales domésticos, incluidas en los artículos 3 fracción I; 4 fracción III; 7 fracción VII; 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 74, 79 y 80 de la mencionada Ley.
+
+CUARTO. Las disposiciones relativas a los Centros de Asistencia Animal establecido (sic) en la fracción XIV del artículo 3; la captura de los Animales de Compañía establecida en la fracción VI del artículo 11 y los servicios de cremación establecidos en la fracción VI del artículo 9 de la Ley, se aplicarán de manera paulatina de acuerdo a la disponibilidad presupuestal de la autoridad responsable de su ejecución.
