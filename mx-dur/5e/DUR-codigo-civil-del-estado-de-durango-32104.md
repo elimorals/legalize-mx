@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2021-12-26"
+last_updated: "2022-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2022.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -819,7 +819,11 @@ De los requisitos para contraer matrimonio.
 
 ART. 141.- El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 
-ART. 142.- Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá, por no puesta.
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2022)</small>
+
+Los funcionarios facultados por la Ley para celebrar el matrimonio garantizarán la no discriminación por: origen étnico o nacional, el género, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos humanos.
+
+ART. 142.- (DEROGADO, P.O. 9 DE OCTUBRE DE 2022)
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2017)</small>
 
@@ -5492,6 +5496,12 @@ ART. 1401.- La persona con una discapacidad auditiva total, que pueda leer, debe
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ART. 1402.- Cuando el testador tenga una discapacidad visual total, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en el artículo 1397 y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+
+(NOTA: EL 13 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 156/2022 Y SU ACUMULADA 158/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE DURANGO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2022)</small>
+
+PRESENTADO EL CASO Y SIEMPRE QUE EXISTAN LAS CONDICIONES TÉCNICAS EN LA NOTARÍA Y EL TESTADOR ASÍ LO DISPONGA, ADEMÁS DE LA VERSIÓN EN CASTELLANO SE PODRÁ REALIZAR TESTAMENTO EN ESCRITURA BRAILLE.
 
 ART. 1403.- Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1388. La traducción se transcribirá como testamento en el Protocolo respectivo y el original se archivará en el Apéndice correspondiente del Notario que intervenga en el acto.
 
@@ -10992,3 +11002,19 @@ P.O. 26 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 207.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 141 Y SE DEROGA EL ARTÍCULO 142, AMBOS DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 208.- POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 1402 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
