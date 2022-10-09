@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2022-09-15"
+last_updated: "2022-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -172,6 +172,10 @@ La ley regulará los casos en los que, ante el silencio de la autoridad, la resp
 ###### Artículo 12.
 
 Toda persona tiene derecho a entrar, salir, transitar libremente y a elegir su residencia en el territorio del Estado, sin necesidad de pasaporte, salvoconducto o cualquier otro requisito.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2022)</small>
+
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad, en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -4521,7 +4525,7 @@ El Congreso del Estado deberá realizar los ajustes legales correspondientes par
 
 P.O. 15 DE SEPTIEMBRE DE 2022.
 
-[N. DE. E TRANSITORIOS DEL “DECRETO NO. 523.- QUE CONTIENE ADICIÓN A LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+[N. DE. E TRANSITORIOS DEL "DECRETO NO. 523.- QUE CONTIENE ADICIÓN A LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4530,3 +4534,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 524.- QUE CONTIENE ADICIÓN A UN PÁRRAFO SEGUNDO AL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El ejercicio de las garantías contenidas en este decreto se ejercitarán conforme a las disposiciones de la Ley General de la materia.
