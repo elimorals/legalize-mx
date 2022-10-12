@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2022-01-26"
+last_updated: "2022-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -691,7 +691,9 @@ La entrada en vigencia del programa de canje de placas en el Estado, se podrá e
 
 Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse mediante declaración que se presentará ante el área de recaudación de ingresos correspondiente oficinas autorizadas o a través de medios electrónicos, conforme a lo siguiente:
 
-I. Cuando corresponda a las autoridades hacendarías formular la liquidación, dentro de los cuarenta y cinco días hábiles siguientes a la fecha en que haya surtido efecto la notificación de la misma;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+I. Cuando corresponda a las autoridades hacendarias formular la liquidación, dentro de los treinta días hábiles siguientes a la fecha en que haya surtido efecto la notificación de la misma.
 
 II. Cuando corresponda a los contribuyentes o a los responsables solidarios determinar en cantidad líquida el crédito dentro de los quince días siguientes al nacimiento de la obligación fiscal;
 
@@ -1289,9 +1291,11 @@ Las copias, impresiones o reproducciones que deriven del microfilm, disco óptic
 
 Las autoridades hacendarias presumirán como cierta la información contenida en los comprobantes fiscales digitales, en los comprobantes fiscales en forma impresa con dispositivo de seguridad y en las bases de datos que lleven, o tengan en su poder o a las que tengan acceso.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 76.
 
-Las contribuciones omitidas que las autoridades hacendarias determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse junto con sus accesorios, dentro de los cuarenta y cinco días siguientes a aquel en que haya surtido efectos su notificación.
+Las contribuciones omitidas que las autoridades hacendarias determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse junto con sus accesorios, dentro de los treinta días siguientes a aquel en que haya surtido efectos su notificación.
 
 ###### Artículo 77.
 
@@ -2705,7 +2709,9 @@ Para efectos de este Código se entiende por resoluciones definitivas a aquellas
 
 La tramitación del recurso de revocación establecido en este Código, se sujetará a las normas siguientes:
 
-I. El escrito deberá presentarse a través del buzón tributario durante los cuarenta y cinco días siguientes al cual surta efecto la notificación del acto que se impugna ante la autoridad hacendaria estatal competente, excepto lo dispuesto en el artículo 177 de este Código.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE OCTUBRE DE 2022)</small>
+
+I. El escrito deberá presentarse a través del buzón tributario durante los treinta días siguientes al cual surta efecto la notificación del acto que se impugna ante la autoridad hacendaria estatal competente, excepto lo dispuesto en el artículo 177 de este Código.
 
 Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
 
@@ -5255,7 +5261,9 @@ Los Organismos Públicos son responsables de elaborar y definir el calendario de
 
 La Secretaría, está facultada para formular e integrar el Anteproyecto de Presupuesto de Egresos, cuando los Organismos Públicos no lo presenten en los plazos, términos y techos de gasto establecidos; si se excede en este último, podrá no recibir dicho Anteproyecto y en su caso realizar los ajustes que correspondan.
 
-El Proyecto de Presupuesto de Egresos debe ser presentado oportunamente por la Secretaría al Gobernador del Estado, para ser enviado al Congreso del Estado en el último cuatrimestre del año inmediato anterior al que corresponda, excepto cuando haya cambio de gobierno sexenal, en cuyo caso, será a más tardar el 26 de diciembre.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+El Proyecto de Presupuesto de Egresos debe ser presentado por la Secretaría al Gobernador del Estado a más tardar el 30 de noviembre de cada ejercicio fiscal, para su oportuno envío al Congreso del Estado, excepto cuando haya cambio de administración sexenal, en cuyo caso, será a más tardar el 15 de diciembre.
 
 ###### Artículo 352.
 
@@ -7200,5 +7208,13 @@ P.O. 26 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 110 DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS.
 
 Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 12 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 005 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto, entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
