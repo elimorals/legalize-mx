@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2022-07-06"
+last_updated: "2022-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -121,7 +121,9 @@ XVI. Estímulos Fiscales. Los incentivos otorgados por el Estado a través de be
 
 XVII. Extensionismo. Proceso continuo y sistemático de educación no escolarizada, mediante el cual se brinda asistencia técnica y capacitación a las personas del medio rural, considerando nuevas tecnologías que sirvan como base para esquemas productivos sostenibles, el desarrollo económico y social, y la preservación de los recursos naturales.
 
-XVIII. Grupos Prioritarios. Aquellos conformados por personas de la población rural, así como por los pueblos y comunidades indígenas, que por diversas circunstancias se encuentran imposibilitados para superar los efectos adversos causados por factores bio-psicológicos o eventos naturales, económicos y/o culturales.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+XVIII. Grupos Prioritarios. Aquellos conformados por personas de la población rural en situación de vulnerabilidad vinculados al sector agropecuario, como son las personas jóvenes, jornaleras y mujeres, con o sin tierra, así como los pueblos y comunidades indígenas, que por diversas circunstancias se encuentran imposibilitados para superar los efectos adversos causados por factores biopsicológicos o eventos naturales, económicos, culturales o sociales.
 
 XIX. Ley. La Ley de Desarrollo Rural Integral Sustentable del Estado de Chihuahua.
 
@@ -577,6 +579,10 @@ XIII. Presidente del H. Congreso del Estado.
 
 XIV. Presidente de la Comisión de Desarrollo Rural Integral del H. Congreso del Estado.
 
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+XV. Instituto Chihuahuense de las Mujeres.
+
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
 
 Por lo que respecta a los miembros permanentes de las organizaciones de productores, así como los de las instituciones académicas e investigación, deberán ser al menos de las siguientes:
@@ -701,9 +707,11 @@ El Consejo Estatal es un órgano consultivo, de participación, análisis, delib
 
 El Consejo Estatal tendrá las siguientes atribuciones:
 
-l. Participar en el diseño de la política de Estado para el desarrollo rural.
+I. Participar en el diseño de la política de Estado para el desarrollo rural.
 
-II. Proponer a las instancias que corresponda, los programas de desarrollo rural que tengan como objetivo superar las desigualdades económicas y sociales del medio rural.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+II. Proponer a las instancias que corresponda, los programas de desarrollo rural que tengan como objetivo superar las desigualdades económicas y sociales del medio rural, así como el fortalecimiento de las unidades productivas familiares y grupos de trabajo de las mujeres y jóvenes rurales.
 
 III. Promover la participación social en la ejecución de programas y acciones de desarrollo rural.
 
@@ -959,7 +967,9 @@ IV. Incentivar la participación de la comunidad migrante del Estado.
 
 V. Promover la participación de los agentes de la sociedad rural en el aprovechamiento sustentable de los recursos naturales.
 
-VI. El fortalecimiento de las unidades productivas familiares.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+VI. El fortalecimiento de las unidades productivas familiares, y grupos de trabajo de las mujeres y jóvenes rurales.
 
 ## TÍTULO CUARTO. DE LA ADMINISTRACIÓN DE RIESGOS, LA CAPITALIZACIÓN Y EL FINANCIAMIENTO DEL SECTOR RURAL
 
@@ -1772,3 +1782,9 @@ P.O. 6 DE JULIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0299/2022 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
