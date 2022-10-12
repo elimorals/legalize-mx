@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-municipio-de-jimenez-para-el-ejercicio-1549
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-25"
-last_updated: "2021-12-25"
+last_updated: "2022-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL MUNICIPIO DE JIMÉNEZ PARA EL EJERCICIO FISCAL 2022 DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
 
 Ley publicada en el Anexo del Número 103 del Periódico Oficial del Estado de Chihuahua, el sábado 25 de diciembre de 2021.
 
