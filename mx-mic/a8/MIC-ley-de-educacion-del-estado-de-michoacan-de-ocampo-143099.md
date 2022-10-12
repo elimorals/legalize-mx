@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2021-10-05"
+last_updated: "2022-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -751,9 +751,135 @@ III. Desarrollar competencias en los docentes con la realización de las adecuac
 
 IV. Promover las condiciones pedagógicas, administrativas, de recursos didácticos, seguridad e infraestructura para la atención educativa en escuelas multigrado a fin de garantizar el ejercicio del derecho a la educación.
 
-### CAPÍTULO III. DEL TIPO DE EDUCACIÓN MEDIA SUPERIOR
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO IV. DEL TIPO DE EDUCACIÓN SUPERIOR
+### CAPÍTULO II BIS. DE LA EDUCACIÓN EMOCIONAL
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 69 Bis.
+
+Este capítulo tiene por objeto crear condiciones para que en el proceso educativo inicial y básico se implementen los mecanismos que permitan potenciar el desarrollo emocional como complemento indispensable del desarrollo cognitivo, mismos que son elementos esenciales para el desarrollo integral de la personalidad, teniendo como propósito primordial el desarrollo de habilidades sobre las emociones con el fin de capacitar al alumno para fomentar el bienestar personal y social, optimizando su calidad de vida.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 69 Ter.
+
+Para los efectos del presente capítulo se entenderá por:
+
+I. Educación Emocional: el proceso educativo continuo y permanente que busca el desarrollo integral de la personalidad del individuo. Esto incluye el desarrollo de la inteligencia emocional y su aplicación en las situaciones de la vida. Por extensión esto implica fomentar valores morales, cívicos, actitudes positivas ante la vida, habilidades sociales, empatía, resiliencia, como factores de desarrollo de bienestar personal y social; y,
+
+II. Inteligencia Emocional: es la habilidad para percibir, generar y acceder a emociones que faciliten el pensamiento, para comprender el conocimiento emocional, para identificar y regular las emociones de manera efectiva permitiendo el crecimiento intelectual y emocional. Es a su vez, la capacidad de sentir, entender, controlar y modificar estados anímicos propios y ajenos.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 69 Quater.
+
+La educación emocional se impartirá en los niveles inicial y básico que comprende el sistema educativo. Las autoridades educativas y escolares en sus respectivos ámbitos de intervención y atribuciones correspondientes deberán:
+
+I. Conseguir un desarrollo integral del alumnado, potenciando no sólo aspectos cognitivos e intelectuales del individuo, sino también otros tan importantes como el desarrollo de la personalidad, las actitudes, los valores, la motivación y el esfuerzo;
+
+II. Diseñar y desarrollar políticas, planes y programas educativos específicos para educar las habilidades socio-emocionales;
+
+III. Garantizar la incorporación de la educación emocional en los diseños de currículum educativos, con definición de objetivos, asignación de contenidos, planificación de actividades, estrategias de intervención y programas experimentables y evaluables;
+
+IV. Promover el desarrollo de una actitud de esfuerzo, trabajo y responsabilidad en el estudio y de curiosidad e interés por el aprendizaje, fortaleciendo la confianza en las propias posibilidades de aprender;
+
+V. Formar personas para que sean capaces de desenvolverse de forma competente en la vida; y,
+
+VI. Educar para que las niñas y niños de hoy sean adultos independientes y seguros, capaces de gestionar sus propias vidas, con sus satisfacciones y dificultades. Para que al llegar a convertirse en adultos sean capaces de cooperar eficientemente y relacionarse de forma positiva con los demás para resolver diferentes problemas o emprender diferentes proyectos vitales, personales o profesionales.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 69 Quinquies.
+
+La fundamentación teórica de la educación emocional desembocará en la selección de contenidos para los programas de intervención. Los criterios a tener en cuenta en la selección de contenidos son:
+
+I. Los contenidos deben adecuarse al nivel educativo del alumnado al que va dirigido el programa;
+
+II. Los contenidos deben ser aplicables a todo el grupo clase;
+
+III. Deberán favorecer procesos de reflexión sobre las propias emociones y las emociones de los demás; y,
+
+IV. deberán enfocarse al desarrollo de competencias emocionales.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 69 Sexies.
+
+En la elaboración de planes, programas y políticas educativas en materia de educación emocional se deberá considerar el:
+
+I. Elaborar un marco teórico, en revisión permanente, para la educación emocional;
+
+II. Identificar las competencias emocionales básicas para la vida en la sociedad actual;
+
+III. Secuenciar la adquisición de competencias emocionales a lo largo del currículum;
+
+IV. Formar al profesorado en eduación emocional, a fin de posibilitar el diseño, aplicación y evaluación de programas contextualizados en centros educativos;
+
+V. Crear materiales curriculares para apoyar la práctica de la educación emocional por parte del profesorado;
+
+VI. Crear instrumentos de evaluación y diagnóstico para la educación emocional;
+
+VII. Diseñar, aplicar y evaluar programas de educación emocional para el ciclo vital;
+
+VIII. Perfilar las estrategias más idóneas para la implantación de programas de educación emocional en los diversos niveles educativos y contextos de intervención (educación formal y no formal, medios comunitarios, organizaciones). Estas estrategias pueden ser a nivel de centro, pero también respecto de la Administración pública y de la sociedad;
+
+IX. Fomentar la cristalización del cambio con objeto de garantizar la continuidad de los programas y a ser (sic) posible su institucionalización; y,
+
+X. Fomentar la optimización permanente de los programas a través de comunidades de aprendizaje.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 69 Septies.
+
+En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y sentido de responsabilidad social. Los contenidos de la educación emocional serán definidos en planes y programas de estudio.
+
+En los planes de estudio deberán establecerse los propósitos de formación general y, en su caso, la adquisición de conocimientos, habilidades, capacidades y destrezas que correspondan a cada nivel educativo; los contenidos fundamentales de estudio, organizados en asignaturas u otras unidades de aprendizaje; las secuencias indispensables que deben respetarse entre las asignaturas o unidades de aprendizaje que constituyen un nivel educativo, y los criterios y procedimientos de evaluación y acreditación para veriticar que el educando cumple los propósitos de cada nivel educativo.
+
+En los programas de estudio deberán establecerse los propósitos específicos de aprendizaje de las asignaturas u otras unidades de aprendizaje dentro de un plan de estudios, así como los criterios y procedimientos para evaluar y acreditar la instrucción y promoción de la educación emocional.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 69 Octies.
+
+Las acciones con fundamentos de la educación emocional que se instrumentarán estarán a cargo de docentes, profesionales o técnicos con formación específica y con capacitación docente, mismos que emplearán técnicas psicopedagógicas con enfoque en educación emocional en función de los contenidos que se aprueben. Mismos que tenderán a la formación y desarrollo de seres humanos aptos para convivir en sociedad como sujetos con capacidad afectiva, cognitiva, comunicativa y creativa.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 69 Nonies.
+
+El proceso de enseñanza/aprendizaje deberá atender a las diferentes capacidades de los alumnos en las diferentes etapas escolares, potenciando en cada niño aquellas más desarrolladas y entrenando las menos desarrolladas. La finalidad es el desarrollo de competencias emocionales que contribuyan a un mejor bienestar personal y social.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 69 Decies.
+
+De la evaluación del desempeño y sus indicadores, a través de sus siguientes fracciones:
+
+I. Elaborar la matriz de indicadores con base a los resultados de la capacitación y los impactos generados, así como los alcances al mismo;
+
+II. Llevar el seguimiento de los programas, estos deberán ser propuestos, revisados, autorizados y evaluados por la Comisión Técnica Interdisciplinaria de Educación Emocional; y,
+
+III. Realizar las evaluaciones ex ante y ex post, con criterios de evaluación socioeconómica, con la aplicación de metodologías que dictan como normatividad la UNESCO y la CEPAL.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+Artículo 69 Undecies. Las autoridades deben tomar en cuenta el interés superior de la niñez en todos los programas, planes y acciones de gobierno que realicen, por lo que habrá una atención prioritaria a los problemas que aquejan a las niñas, los niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+Artículo 69 Duodecies. Para alcanzar los objetivos y finalidades que se persiguen en este capítulo de la presente ley, se deberá realizar una capacitación docente en relación a los contenidos de educación emocional, respecto de sus cuatro pilares:
+
+I. Educación emocional de niñas y niños;
+
+II. Escuela para padres de educación emocional;
+
+III. Educación emocional para el manejo de las emociones en los educadores; y,
+
+IV. Educación emocional en las relaciones interpersonales e institucionales.
+
+### CAPÍTULO III. DEL TIPO DE EDUCACIÓN MEDIA SUPERIOR
 
 ###### Artículo 70.
 
@@ -767,7 +893,7 @@ IV. Promover las condiciones pedagógicas, administrativas, de recursos didácti
 
 (DEROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY ESTATAL DE EDUCACIÓN EN EL NIVEL MEDIO SUPERIOR Y LA FORMACIÓN PARA EL TRABAJO DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 5 DE OCTUBRE DE 2021)
 
-### CAPÍTULO V. DEL FOMENTO DE LA INVESTIGACIÓN, LA CIENCIA, LAS HUMANIDADES, LA TECNOLOGÍA Y LA INNOVACIÓN
+### CAPÍTULO IV. DEL TIPO DE EDUCACIÓN SUPERIOR
 
 ###### Artículo 73.
 
@@ -801,9 +927,7 @@ La Secretaría impulsará, en el ámbito de sus competencias, el establecimiento
 
 Se apoyará el desarrollo de un espacio común de educación superior que permita el intercambio académico, la movilidad estatal, nacional e internacional de estudiantes, profesores e investigadores, así como el reconocimiento de créditos y la colaboración interinstitucional. La Ley General de Educación Superior determinará la integración y los principios para la operación de este sistema.
 
-### CAPÍTULO VI. DE LA EDUCACIÓN INDÍGENA
-
-(NOTA: EL 31 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS III Y IV, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 168/2020 Y SU ACUMULADA 177/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO V. DEL FOMENTO DE LA INVESTIGACIÓN, LA CIENCIA, LAS HUMANIDADES, LA TECNOLOGÍA Y LA INNOVACIÓN
 
 ###### Artículo 79.
 
@@ -837,7 +961,9 @@ La Secretaría, en coordinación con los organismos y autoridades correspondient
 
 El desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyarán en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
 
-### CAPÍTULO VII. DE LA EDUCACIÓN HUMANISTA
+### CAPÍTULO VI. DE LA EDUCACIÓN INDÍGENA
+
+(NOTA: EL 31 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS III Y IV, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 168/2020 Y SU ACUMULADA 177/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 ###### Artículo 84.
 
@@ -879,7 +1005,7 @@ VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, trán
 
 VII. Promover la coordinación interinstitucional para la implementación de esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas o afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas.
 
-### CAPÍTULO VIII. DE LA EDUCACIÓN ARTÍSTICA
+### CAPÍTULO VII. DE LA EDUCACIÓN HUMANISTA
 
 ###### Artículo 88.
 
@@ -895,9 +1021,7 @@ Las autoridades educativas estatales y municipales, generarán mecanismos para a
 
 Se adoptarán medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas.
 
-### CAPÍTULO IX. DE LA EDUCACIÓN INCLUSIVA Y EDUCACIÓN ESPECIAL
-
-(NOTA: EL 31 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS III Y IV, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 168/2020 Y SU ACUMULADA 177/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO VIII. DE LA EDUCACIÓN ARTÍSTICA
 
 ###### Artículo 90.
 
@@ -929,7 +1053,9 @@ VII. Valores como el respeto, la empatía y la comprensión, así como el apreci
 
 Para garantizar la educación artística, las autoridades educativas, en el ámbito de sus competencias, diseñarán, implementarán y evaluarán las acciones, programas y políticas públicas que correspondan para cumplir con lo establecido en la presente Ley, efectuando y promoviendo también la capacitación, actualización, investigación y vinculación continuas.
 
-### CAPÍTULO X. DE LA EDUCACIÓN PARA PERSONAS ADULTAS
+### CAPÍTULO IX. DE LA EDUCACIÓN INCLUSIVA Y EDUCACIÓN ESPECIAL
+
+(NOTA: EL 31 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS III Y IV, ASÍ COMO EN LOS RESOLUTIVOS QUINTO Y SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 168/2020 Y SU ACUMULADA 177/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 ###### Artículo 94.
 
@@ -1035,7 +1161,7 @@ Las instituciones de educación superior a las que la Ley les otorga autonomía 
 
 En el Sistema Educativo Estatal, se atenderán las disposiciones en materia de accesibilidad señaladas en la Ley General, la Ley para la Inclusión de las Personas con Discapacidad en el Estado de Michoacán, la Ley para Prevenir y Eliminar la Discriminación y la Violencia en el Estado de Michoacán de Ocampo y en las demás normas aplicables.
 
-### CAPÍTULO XI. DE LA FORMACIÓN PARA EL TRABAJO
+### CAPÍTULO X. DE LA EDUCACIÓN PARA PERSONAS ADULTAS
 
 ###### Artículo 103.
 
@@ -1063,7 +1189,7 @@ Las autoridades educativas estatal y municipales conforme a sus respectivas comp
 
 Quienes participen voluntariamente proporcionando asesoría en tareas relativas a esta educación tendrán derecho, en su caso, a que se les acredite como servicio social.
 
-### CAPÍTULO XII. DEL EDUCANDO COMO PRIORIDAD EN EL SISTEMA EDUCATIVO ESTATAL
+### CAPÍTULO XI. DE LA FORMACIÓN PARA EL TRABAJO
 
 ###### Artículo 108.
 
@@ -1081,7 +1207,7 @@ Los certificados serán otorgados por las instituciones públicas y los particul
 
 Podrán celebrarse convenios para que la formación para el trabajo se imparta por las autoridades educativas, las instituciones privadas, las organizaciones sindicales, los patrones y demás particulares. La formación para el trabajo que se imparta en términos del presente artículo será adicional y complementaria a la capacitación prevista en la fracción XIII del Apartado A del artículo 123 de la Constitución.
 
-### CAPÍTULO XIII. DE LA PARTICIPACIÓN DE MADRES Y PADRES DE FAMILIA O TUTORES EN EL PROCESO EDUCATIVO
+### CAPÍTULO XII. DEL EDUCANDO COMO PRIORIDAD EN EL SISTEMA EDUCATIVO ESTATAL
 
 ###### Artículo 112.
 
@@ -1179,7 +1305,7 @@ El Estado dispondrá las condiciones para que las poblaciones indígenas, afrome
 
 En la formulación de las estrategias de aprendizaje, se fomentará la participación colectiva de niñas, niños, adolescentes y jóvenes con el apoyo de docentes, directivos, madres y padres de familia o tutores.
 
-### CAPÍTULO XIV. DE LAS TECNOLOGÍAS DE LA INFORMACIÓN, COMUNICACIÓN, CONOCIMIENTO Y APRENDIZAJE DIGITAL PARA LA FORMACIÓN CON ORIENTACIÓN INTEGRAL DEL EDUCANDO
+### CAPÍTULO XIII. DE LA PARTICIPACIÓN DE MADRES Y PADRES DE FAMILIA O TUTORES EN EL PROCESO EDUCATIVO
 
 ###### Artículo 122.
 
@@ -1213,7 +1339,7 @@ El sostenimiento de dichas escuelas comprende la obligación patronal de proporc
 
 La autoridad educativa estatal podrá celebrar con los patrones convenios para el cumplimiento de las obligaciones que señala el presente artículo.
 
-### CAPÍTULO XV. DEL CALENDARIO ESCOLAR
+### CAPÍTULO XIV. DE LAS TECNOLOGÍAS DE LA INFORMACIÓN, COMUNICACIÓN, CONOCIMIENTO Y APRENDIZAJE DIGITAL PARA LA FORMACIÓN CON ORIENTACIÓN INTEGRAL DEL EDUCANDO
 
 ###### Artículo 127.
 
@@ -1243,7 +1369,7 @@ Las autoridades educativas en el Estado, en el ámbito de su competencia, apoyar
 
 Así mismo, impulsarán los sistemas de educación a distancia, mediante el aprovechamiento de las multiplataformas digitales, la televisión educativa y las tecnologías antes referidas.
 
-### CAPÍTULO I. DEL MAGISTERIO COMO AGENTE FUNDAMENTAL EN EL PROCESO EDUCATIVO
+### CAPÍTULO XV. DEL CALENDARIO ESCOLAR
 
 ###### Artículo 130.
 
@@ -1265,7 +1391,7 @@ El calendario que la autoridad educativa estatal ajuste para cada ciclo lectivo 
 
 ## TÍTULO CUARTO. DE LA REVALORIZACIÓN DE LAS MAESTRAS Y LOS MAESTROS
 
-### CAPÍTULO II. DEL SISTEMA INTEGRAL DE FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN
+### CAPÍTULO I. DEL MAGISTERIO COMO AGENTE FUNDAMENTAL EN EL PROCESO EDUCATIVO
 
 ###### Artículo 133.
 
@@ -1295,7 +1421,7 @@ IX. Respetar sus derechos reconocidos en las disposiciones legales aplicables.
 
 Las autoridades educativas, de manera independiente a lo establecido en la legislación relativa a la carrera de las maestras y maestros, podrán reconocer la labor docente, a través de ceremonias, homenajes y otros eventos públicos.
 
-### CAPÍTULO III. DEL FORTALECIMIENTO DE LA FORMACIÓN DOCENTE
+### CAPÍTULO II. DEL SISTEMA INTEGRAL DE FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN
 
 ###### Artículo 135.
 
@@ -1321,7 +1447,7 @@ Las autoridades educativas, en el ámbito de sus competencias, revisarán perman
 
 En las actividades de supervisión las autoridades educativas darán prioridad, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente. Así mismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de las madres y padres de familia o tutores.
 
-### CAPÍTULO I. DE LAS CONDICIONES DE LOS PLANTELES EDUCATIVOS PARA GARANTIZAR SU IDONEIDAD Y LA SEGURIDAD DE LAS NIÑAS, NIÑOS, ADOLESCENTES Y JÓVENES
+### CAPÍTULO III. DEL FORTALECIMIENTO DE LA FORMACIÓN DOCENTE
 
 ###### Artículo 139.
 
@@ -1355,7 +1481,7 @@ La formación inicial que impartan las escuelas normales en el Estado deberá re
 
 ## TÍTULO QUINTO. DE LOS PLANTELES EDUCATIVOS
 
-### CAPÍTULO II. DE LA MEJORA ESCOLAR
+### CAPÍTULO I. DE LAS CONDICIONES DE LOS PLANTELES EDUCATIVOS PARA GARANTIZAR SU IDONEIDAD Y LA SEGURIDAD DE LAS NIÑAS, NIÑOS, ADOLESCENTES Y JÓVENES
 
 ###### Artículo 142.
 
@@ -1461,7 +1587,7 @@ El Comité Escolar de Administración Participativa tendrá como objetivo la dig
 
 Sus integrantes serán electos al inicio de cada año lectivo mediante asamblea escolar en la que participen docentes, directivos, madres y padres de familia o tutores, además de estudiantes a partir del 4o. grado de primaria, de acuerdo con los lineamientos emitidos por la autoridad educativa federal.
 
-### CAPÍTULO ÚNICO. DE LOS INSTRUMENTOS PARA LA MEJORA CONTINUA DE LA EDUCACIÓN
+### CAPÍTULO II. DE LA MEJORA ESCOLAR
 
 ###### Artículo 158.
 
@@ -1485,7 +1611,7 @@ Las facultades de este Comité en materia de infraestructura y equipamiento de l
 
 ## TÍTULO SEXTO. DE LA MEJORA CONTINUA DE LA EDUCACIÓN
 
-### CAPÍTULO ÚNICO. DE LA DISTRIBUCIÓN DE LA FUNCIÓN SOCIAL EN MATERIA EDUCATIVA
+### CAPÍTULO ÚNICO. DE LOS INSTRUMENTOS PARA LA MEJORA CONTINUA DE LA EDUCACIÓN
 
 ###### Artículo 161.
 
@@ -1503,7 +1629,7 @@ La Secretaría coadyuvará con la Comisión Nacional para la Mejora Continua de 
 
 ## TÍTULO SÉPTIMO. DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA EDUCATIVA
 
-### CAPÍTULO ÚNICO. DEL FINANCIAMIENTO A LA EDUCACIÓN
+### CAPÍTULO ÚNICO. DE LA DISTRIBUCIÓN DE LA FUNCIÓN SOCIAL EN MATERIA EDUCATIVA
 
 ###### Artículo 163.
 
@@ -1627,7 +1753,7 @@ La autoridad educativa estatal participará en la conformación del Consejo Naci
 
 ## TÍTULO OCTAVO. DEL FINANCIAMIENTO A LA EDUCACIÓN
 
-### CAPÍTULO I. DE LA CORRESPONSABILIDAD SOCIAL EN EL PROCESO EDUCATIVO
+### CAPÍTULO ÚNICO. DEL FINANCIAMIENTO A LA EDUCACIÓN
 
 ###### Artículo 167.
 
@@ -1679,7 +1805,7 @@ Las autoridades educativas concurrirán con la autoridad educativa federal cuand
 
 ## TÍTULO NOVENO. DE LA CORRESPONSABILIDAD SOCIAL EN EL PROCESO EDUCATIVO
 
-### CAPÍTULO II. DE LA PARTICIPACIÓN DE MADRES Y PADRES DE FAMILIA O TUTORES
+### CAPÍTULO I. DE LA CORRESPONSABILIDAD SOCIAL EN EL PROCESO EDUCATIVO
 
 ###### Artículo 174.
 
@@ -1691,7 +1817,7 @@ Los particulares, ya sea personas físicas o morales, podrán coadyuvar en el ma
 
 Las acciones que se deriven de la aplicación del párrafo anterior, en ningún caso implicarán la sustitución de los servicios del personal de la escuela, tampoco generarán cualquier tipo de contraprestación a favor de los particulares.
 
-### CAPÍTULO III. DE LOS CONSEJOS DE PARTICIPACIÓN ESCOLAR
+### CAPÍTULO II. DE LA PARTICIPACIÓN DE MADRES Y PADRES DE FAMILIA O TUTORES
 
 ###### Artículo 176.
 
@@ -1769,7 +1895,7 @@ Las asociaciones de madres y padres de familia se abstendrán de intervenir en l
 
 La organización y el funcionamiento de las asociaciones de madres y padres de familia, en lo concerniente a sus relaciones con las autoridades escolares, se sujetarán a las disposiciones que la autoridad educativa estatal señale.
 
-### CAPÍTULO IV. DEL SERVICIO SOCIAL
+### CAPÍTULO III. DE LOS CONSEJOS DE PARTICIPACIÓN ESCOLAR
 
 ###### Artículo 180.
 
@@ -1841,7 +1967,7 @@ La Secretaría promoverá el establecimiento y funcionamiento del Consejo Estata
 
 Los Consejos de Participación Escolar se abstendrán de intervenir en los aspectos laborales, pedagógicos y administrativos del personal de los centros educativos y no deberán participar en cuestiones políticas ni religiosas.
 
-### CAPÍTULO V. DE LA PARTICIPACIÓN DE LOS MEDIOS DE COMUNICACIÓN
+### CAPÍTULO IV. DEL SERVICIO SOCIAL
 
 ###### Artículo 186.
 
@@ -1853,7 +1979,7 @@ Las autoridades educativas, en coordinación con las instituciones de educación
 
 La Secretaría, en coordinación con las autoridades competentes, establecerá mecanismos para que cuenten como prestación de servicio social, las tutorías y acompañamientos que realicen estudiantes con los educandos de preescolar, primaria, secundaria y media superior que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
 
-### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES APLICABLES A LA VALIDEZ DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
+### CAPÍTULO V. DE LA PARTICIPACIÓN DE LOS MEDIOS DE COMUNICACIÓN
 
 ###### Artículo 188.
 
@@ -1867,7 +1993,7 @@ El Ejecutivo Estatal promoverá la contribución de los medios de comunicación 
 
 ## TÍTULO DÉCIMO. DE LA VALIDEZ DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES APLICABLES A LA VALIDEZ DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
 
 ###### Artículo 190.
 
@@ -1913,7 +2039,7 @@ La Secretaría, de acuerdo con sus respectivas competencias, podrá establecer p
 
 ## TÍTULO DÉCIMO PRIMERO. DE LA EDUCACIÓN IMPARTIDA POR PARTICULARES
 
-### CAPÍTULO II. DE LOS MECANISMOS PARA EL CUMPLIMIENTO DE LOS FINES DE LA EDUCACIÓN IMPARTIDA POR LOS PARTICULARES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 197.
 
@@ -1995,7 +2121,7 @@ Corresponde a la Secretaría la asignación de las becas a las que se refiere el
 
 Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
-### CAPÍTULO III. DEL RECURSO DE REVISIÓN
+### CAPÍTULO II. DE LOS MECANISMOS PARA EL CUMPLIMIENTO DE LOS FINES DE LA EDUCACIÓN IMPARTIDA POR LOS PARTICULARES
 
 ###### Artículo 207.
 
@@ -2345,6 +2471,8 @@ Si se impidiere materialmente la ejecución del acto de clausura y siempre que e
 
 Las autoridades competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
+### CAPÍTULO III. DEL RECURSO DE REVISIÓN
+
 ###### Artículo 237.
 
 En contra de las resoluciones emitidas por la autoridad educativa estatal en materia de autorización y reconocimiento de validez oficial de estudios y los trámites y procedimientos relacionados con los mismos, con fundamento en las disposiciones de esta Ley y las normas que de ella deriven, el afectado podrá optar entre interponer el recurso de revisión o acudir a la autoridad jurisdiccional que corresponda.
@@ -2416,3 +2544,19 @@ SEGUNDO. La Secretaría de Educación en el Estado formulará la propuesta del R
 TERCERO. Las instituciones de educación media superior, los subsistemas y el gobierno del Estado establecerán y presupuestarán de forma progresiva cada año, los recursos necesarios para cumplir con los fines, políticas sociales y acciones establecidos en la presente Ley.
 
 CUARTO. La presente Ley entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 198 POR EL QUE "SE ADICIONA EL CAPÍTULO II BIS AL TÍTULO TERCERO DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO, DENOMINADO DE LA EDUCACIÓN EMOCIONAL, CON SUS ARTÍCULOS 69 BIS, 69 TER, 69 QUÁTER, 69 QUINQUIES, 69 SEXIES, 69 SEPTIES, 69 OCTIES, 69 NONIES, 69 DECIES, 69 UNDECIES Y 69 DUODECIES".]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales contrarias al presente Decreto de Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado deberá expedir las disposiciones reglamentarias conducentes, en un plazo no mayor a ciento veinte días naturales contados a partir de la publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
