@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-instituto-de-la-mujer-del-estado-de-campeche-44053"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-05"
-last_updated: "2016-07-07"
+last_updated: "2022-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL INSTITUTO DE LA MUJER DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el día 5 de julio de 2004.
 
@@ -221,39 +221,47 @@ El Instituto elaborará, coordinará y ejecutará las acciones previstas en el P
 
 ### CAPÍTULO III. DE LA JUNTA DE GOBIERNO
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 11.
 
 La Junta de Gobierno es el órgano superior de gobierno del Instituto y estará integrado por:
 
-I. Un Presidente o Presidenta, que será el o la titular de la Secretaría de Desarrollo Social y Humano; y
+I. Una Presidenta o Presidente, que será la o el titular de la Secretaría de Bienestar;
 
-II. Nueve Vocales, quienes tendrán derecho a voz y voto, que serán los o las titulares de:
+II. Vocales, quienes tendrán derecho a voz y voto, que serán las o los titulares de:
 
-a) La Secretaría de Finanzas;
+a) La Secretaría de Gobierno;
 
-b) La Secretaría de Salud;
+b) La Secretaría de Administración y Finanzas;
 
-c) La Secretaría de Cultura;
+c) La Secretaría de Salud;
 
-d) La Secretaría de Educación,
+d) Secretaría de Inclusión;
 
-e) La Secretaría de Seguridad Pública;
+e) La Secretaría de Educación;
 
-f) La Fiscalía General del Estado;
+f) La Secretaría de Protección y Seguridad Ciudadana;
 
-g) La Secretaría de Trabajo y Previsión Social;
+g) La Fiscalía General del Estado;
 
 h) La Secretaría de la Contraloría;
 
-i) La Comisión de Derechos Humanos del Estado.
+i) La Comisión de Derechos Humanos del Estado;
 
-A las sesiones de la Junta de Gobierno asistirá como invitado o invitada permanente, con derecho a voz pero sin voto, el Presidente o Presidenta del Sistema Estatal de Desarrollo Integral de la Familia.
+j) El Sistema para el Desarrollo Integral de la Familia en el Estado.
+
+III. Invitados permanentes, quienes tendrán derecho a voz pero sin voto, que serán:
+
+a) Dos Magistradas o Magistrados del Tribunal Superior de Justicia del Estado;
+
+b) Las o los Presidentes de las Comisiones de Derechos Humanos y de Asuntos de Familia, de Igualdad de Género y, de Atención a Grupos Vulnerables del H. Congreso del Estado y;
+
+c) Dos integrantes del Consejo Consultivo Ciudadano.
 
 La Directora General del Instituto fungirá como Secretaria Técnica de la Junta de Gobierno con voz, pero sin voto.
 
-Cada miembro propietario de la Junta de Gobierno, designará suplente a efecto de que el mismo represente en casos (sic) ausencia. El cargo de miembro de la Junta de Gobierno será honorífico, por lo que no dará derecho a la percepción de alguna retribución en numerario o especie por su desempeño.
+Cada miembro propietario de la Junta de Gobierno, designará suplente a efecto de que el mismo lo represente en casos de ausencia. El cargo de miembro de la Junta de Gobierno será honorífico, por lo que no dará derecho a la percepción de alguna retribución en numerario o especie por su desempeño.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2016)</small>
 
@@ -550,3 +558,11 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o
 TERCERO.- La nueva Junta de Gobierno del Instituto deberá realizar su sesión de instalación en un plazo no mayor a treinta días naturales posteriores a la entrada en vigor del presente decreto.
 
 CUARTO.- La nueva Junta de Gobierno deberá emitir el Reglamento Interior del Instituto en un plazo no mayor a sesenta días naturales posteriores a la entrada en vigor del presente decreto.
+
+P.O. 12 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 131 POR EL QUE “SE REFORMA EL ARTÍCULO 11 DE LA LEY DEL INSTITUTO DE LA MUJER DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
