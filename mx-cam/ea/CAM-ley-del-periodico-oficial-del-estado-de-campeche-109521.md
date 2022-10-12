@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-periodico-oficial-del-estado-de-campeche-109521"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-06"
-last_updated: "2022-07-15"
+last_updated: "2022-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109521&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 6 de agosto de 2015.
 
@@ -71,9 +71,13 @@ VII. Periódico Oficial del Estado: al Periódico Oficial del Estado de Campeche
 
 VIII. Portal Web: al Sitio oficial para la búsqueda, consulta y/o descarga del Periódico Oficial del Estado;
 
-IX. Reglamento Interior: al Reglamento Interior de la Secretaría General de Gobierno de la Administración Pública del Estado de Campeche;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2022)</small>
 
-X. Secretaría General de Gobierno: a la Secretaría General de Gobierno de la Administración Pública del Estado de Campeche, y
+IX. Reglamento Interior: al Reglamento Interior de la Secretaría de Gobierno de la Administración Pública del Estado de Campeche;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+X. Secretaría de Gobierno: a la Secretaría de Gobierno de la Administración Pública del Estado de Campeche, y
 
 XI. Usuaria o Usuario: a aquella persona que ingresa al Portal Web del Periódico Oficial del Estado para realizar su búsqueda, consulta y/o descarga.
 
@@ -89,17 +93,13 @@ Es obligación del Poder Ejecutivo publicar en el Periódico Oficial del Estado 
 
 ### CAPÍTULO II. DE LA DIRECCIÓN DEL PERIÓDICO OFICIAL
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2022)</small>
 
 ###### Art. 6.
 
-El Periódico Oficial del Estado contará con una estructura orgánica encabezada por una Dirección, subordinada jerárquicamente a la Secretaría General de Gobierno, la cual tendrá las atribuciones que se señalen en su Reglamento Interior.
+El Periódico Oficial del Estado contará con una estructura orgánica encabezada por una Dirección, subordinada jerárquicamente a la Secretaría de Gobierno, la cual tendrá las atribuciones que se señalen en su Reglamento Interior.
 
-Esta Dirección será responsable de la operatividad del portal web del Periódico Oficial del Estado y se encargará de publicar electrónicamente los ordenamientos y las disposiciones a que se refiere el artículo 4 de esta Ley, para su búsqueda, consulta y descarga.
-
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
-
-El portal web del Periódico Oficial del Estado deberá contar con las herramientas tecnológicas necesarias que garanticen la accesibilidad de la versión electrónica de la información a personas con discapacidad visual y/o auditiva.
+Esta Dirección será responsable de la operatividad del portal web del Periódico Oficial del Estado y se encargará de publicar electrónicamente los ordenamientos y las disposiciones a que se refiere el artículo 4 de esta Ley, para su búsqueda, consulta y descarga. De igual forma, será responsable de garantizar la autenticidad, integridad e inalterabilidad del Periódico Oficial del Estado, a través de la firma electrónica avanzada.
 
 ### CAPÍTULO III. DE LA DIRECCIÓN DE LOS TALLERES GRÁFICOS
 
@@ -109,11 +109,11 @@ El portal web del Periódico Oficial del Estado deberá contar con las herramien
 
 El Periódico Oficial del Estado se editará en los Talleres Gráficos del Poder Ejecutivo del Estado, ubicados en la ciudad de San Francisco de Campeche.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2022)</small>
 
 ###### Art. 8.
 
-La Dirección de los Talleres Gráficos, adscrita a la Secretaría General de Gobierno, es la unidad administrativa encargada de la edición del Periódico Oficial del Estado y demás publicaciones gubernamentales.
+La Dirección de los Talleres Gráficos, adscrita a la Secretaría de Gobierno, es la unidad administrativa encargada de la edición del Periódico Oficial del Estado y demás publicaciones gubernamentales.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2020)</small>
 
@@ -129,11 +129,11 @@ La o el Director de los Talleres instruirá lo necesario a fin de que se imprima
 
 ### CAPÍTULO IV. DE SU EDICIÓN Y CONTENIDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2022)</small>
 
 ###### Art. 11.
 
-El Periódico Oficial del Estado se publicará en forma electrónica y su edición tendrá carácter oficial, contará con las características de seguridad necesarias para garantizar su inalterabilidad y deberá contener:
+El Periódico Oficial del Estado se publicará en forma electrónica y su edición tendrá carácter oficial, la cual contará con la firma electrónica avanzada de la persona titular de la Dirección del Periódico Oficial del Estado, para garantizar su autenticidad, integridad e inalterabilidad y deberá contener:
 
 A. En su primera página:
 
@@ -189,7 +189,9 @@ El Periódico Oficial del Estado será editado electrónicamente para garantizar
 
 El Periódico Oficial del Estado podrá ser publicado todos los días del año y constará del número de secciones y las páginas que sean necesarios.
 
-El Periódico Oficial del Estado será editado electrónicamente con las medidas de seguridad correspondientes encaminadas a garantizar la autenticidad; para efectos de evidencia documental física, se imprimirán dos ejemplares con idénticas características y contenido, así como para garantizar la publicación en los casos en que resulte imposible acceder a su edición electrónica por causas de fuerza mayor.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+El Periódico Oficial del Estado será editado electrónicamente, contará con la firma electrónica avanzada de la persona titular de la Dirección para garantizar su autenticidad, integridad e inalterabilidad; para efectos de evidencia documental física, se imprimirán dos ejemplares con idénticas características y contenido, así como para garantizar la publicación en los casos en que resulte imposible acceder a su edición electrónica por causas de fuerza mayor.
 
 De los ejemplares impresos uno quedará en custodia del Periódico Oficial del Estado y el otro en el Archivo General del Estado.
 
@@ -257,11 +259,19 @@ En caso de requerir copias certificadas de publicaciones distintas al archivo hi
 
 El Periódico Oficial del Estado deberá publicar, dentro del primer semestre de cada año, un índice por materias de las publicaciones del año inmediato anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
 ###### Art. 23.
 
-El Periódico Oficial del Estado deberá publicar, en un plazo de seis meses, el índice de todas aquellas leyes, reglamentos, acuerdos y demás disposiciones de carácter general que durante el año inmediato anterior hayan sufrido alguna modificación.
+El Periódico Oficial del Estado, además del índice al que se refiere el artículo 22, deberá publicar dentro de los primeros tres meses de cada año, el índice de todas aquellas leyes, reglamentos, acuerdos y demás disposiciones de carácter general que durante el año inmediato anterior hayan sufrido alguna modificación.
 
 En estos índices invariablemente se deberá hacer la mención del número, sección y fecha del Periódico Oficial del Estado en que originalmente apareció publicada la ley, reglamento, acuerdo o disposición de carácter general, así como los mismos datos del Periódico Oficial del Estado en que, también originalmente, se publicó la modificación y, en su caso, el número de decreto que le haya correspondido y los respectivos artículos transitorios.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+###### Art. 23 Bis.
+
+El Periódico Oficial del Estado deberá poner a disposición de la Consejería Jurídica del Poder Ejecutivo del Estado de Campeche los índices a los que se refieren los artículos 22 y 23 de esta Ley una vez que los tenga integrados y deberá facilitar la entrega de información que, sobre el particular, le requiera dicha Dependencia para el desarrollo de sus atribuciones.
 
 ### CAPÍTULO VIII. DE LA NOTA ACLARATORIA
 
@@ -358,3 +368,13 @@ Artículo Primero.- El presente decreto entrará en vigor ciento ochenta días d
 Artículo Segundo.- La Secretaría de Gobierno de la administración pública estatal adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio correspondiente.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 12 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 128 POR EL QUE “SE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 3; LOS ARTÍCULOS 6 Y 8; EL PÁRRAFO PRIMERO DEL ARTÍCULO 11; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 23 Y, SE ADICIONA UN ARTÍCULO 23 BIS, TODOS DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- En un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente decreto, la Secretaría de Gobierno deberá realizar todas las acciones necesarias para la implementación del presente decreto.
