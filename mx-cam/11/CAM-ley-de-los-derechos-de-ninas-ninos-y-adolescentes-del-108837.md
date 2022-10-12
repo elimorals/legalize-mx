@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2022-07-26"
+last_updated: "2022-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -761,7 +761,9 @@ XVII. Administrar la disciplina escolar de modo compatible con la dignidad human
 
 XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XIX. Inculcar en las niñas, niños y adolescentes el respeto al medio ambiente;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+XIX. Inculcar en las niñas, niños y adolescentes el respeto al medio ambiente, así como el respeto, cuidado y procuración del bienestar de los animales;
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
 
@@ -2094,3 +2096,11 @@ P.O. 26 DE JULIO DE 2022.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
+
+P.O. 12 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 130 POR EL QUE "SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
