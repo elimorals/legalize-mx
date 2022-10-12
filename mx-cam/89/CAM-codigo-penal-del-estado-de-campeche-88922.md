@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2022-07-26"
+last_updated: "2022-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2419,7 +2419,13 @@ II. El que lo ejecutare fuera reincidente, instigador o dirigente de la invasió
 
 III. El que lo ejecutare fuera servidor público en ejercicio de sus funciones o con motivo de ellas;
 
-IV. En la ejecución del hecho punible obrara violencia o engaño.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+IV. En la ejecución del hecho punible obrara violencia o engaño;
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2022)</small>
+
+V. La víctima sea una persona en situación de vulnerabilidad.
 
 > <small>[N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 14 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE DOS PÁRRAFOS.]</small>
 
@@ -4748,3 +4754,11 @@ P.O. 26 DE JULIO DE 2022.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
+
+P.O. 12 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 129 POR EL QUE "SE REFORMA LA FRACCIÓN IV Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 213 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
