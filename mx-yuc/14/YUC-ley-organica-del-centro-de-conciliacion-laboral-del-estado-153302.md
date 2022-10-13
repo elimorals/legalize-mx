@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1533
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-31"
-last_updated: "2021-12-31"
+last_updated: "2022-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 34,667 del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 2021.
 
@@ -287,9 +287,11 @@ Artículo tercero. Instalación de la junta de gobierno
 
 La persona titular del Poder Ejecutivo del estado convocará a la sesión de instalación de la Junta de Gobierno del Centro de Conciliación Laboral del Estado de Yucatán en un plazo máximo de cinco días hábiles, contado a partir de la fecha de designación de la persona titular de la dirección general del centro.
 
-Artículo cuarto. Inicio de funciones del centro y los Tribunales
+> <small>(REFORMADO, D.O. 13 DE OCTUBRE DE 2022)</small>
 
-El Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales del Poder Judicial del Estado, iniciarán funciones en la misma fecha, a más tardar el uno de mayo del año dos mil veintidós.
+Artículo cuarto. Inicio de funciones del centro y de los tribunales
+
+El funcionamiento del Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales del Poder Judicial del Estado de Yucatán, se ajusta a lo dispuesto en el artículo quinto transitorio del decreto publicado en el Diario Oficial de la Federación el 18 de mayo de 2022, mediante el cual se modificó el plazo de inicio de actividades de los Centros de Conciliación locales y los Tribunales del Poder Judicial de las Entidades Federativas.
 
 Hasta en tanto el Centro de Conciliación Laboral del Estado de Yucatán y los Tribunales Laborales entren en funciones, la Junta Local de Conciliación y Arbitraje, continuará conociendo de los procedimientos laborales que le competan en términos de la Ley Federal del Trabajo que estuviera vigente, previa a la reforma publicada en el Diario Oficial de la Federación el uno de mayo del año dos mil diecinueve.
 
@@ -322,3 +324,13 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 13 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 560/2022 POR EL QUE SE MODIFICA EL DECRETO 456/2021 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE YUCATÁN Y SE MODIFICAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN, LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS DE YUCATÁN, Y LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, EN MATERIA DE JUSTICIA LABORAL".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor al momento de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
