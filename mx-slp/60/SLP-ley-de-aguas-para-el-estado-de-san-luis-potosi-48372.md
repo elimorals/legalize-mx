@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2022-07-01"
+last_updated: "2022-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -3693,7 +3693,9 @@ PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación 
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-TERCERO. Para la convocatoria y elección del Consejo Hídrico Estatal que se integrará para el periodo que comprende del 31 de julio de 2022 al primer periodo ordinario de instalación de la LXIV Legislatura, por excepción a lo previsto en el párrafo primero del artículo 33 de esta Ley, este proceso se llevará a cabo dentro de los treinta días naturales de julio de 2022.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2022)</small>
+
+TERCERO. Para la convocatoria y elección del Consejo Hídrico Estatal que se integrará para el periodo que comprende del uno de noviembre del año 2022 al primer periodo ordinario del primer año de ejercicio constitucional de la LXIV Legislatura, por excepción a lo previsto en el párrafo primero del artículo 33 de esta Ley, este proceso se llevará a cabo dentro del mes de octubre de 2022.
 
 P.O. 31 DE MARZO DE 2022.
 
@@ -3740,3 +3742,9 @@ P.O. 1 DE JULIO DE 2022.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0396.- SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO LEGISLATIVO 269, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS” EL 25 DE FEBRERO DE 2022”.]
+
+ÚNICO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
