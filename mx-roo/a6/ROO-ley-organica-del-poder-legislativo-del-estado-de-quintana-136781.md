@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2021-12-21"
+last_updated: "2022-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -875,7 +875,9 @@ XXI. Comisión de Deporte;
 
 XXII. Comisión de Movilidad;
 
-XXIII. Comisión de Seguridad Pública y Protección Civil;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2022)</small>
+
+XXIII. Comisión de Seguridad Pública, Protección Civil y Bomberos;
 
 XXIV. Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, y
 
@@ -2260,3 +2262,11 @@ P.O. 21 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 001 POR EL QUE SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 71 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMAN EL NUMERAL 23 DEL ARTÍCULO 4; EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y II DEL ARTÍCULO 27; TODOS DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
