@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2022-06-20"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -743,7 +743,9 @@ XIV. Autorizar el aprovechamiento, subdivisión o parcelamiento de suelo de prop
 
 XV. Verificar que las acciones, inversiones obras y servicios de desarrollo urbano que se ejecuten en el territorio municipal, se ajusten, en su caso, a esta Ley, a las demás disposiciones jurídicas aplicables y a los diversos programas de ordenamiento del territorial y desarrollo urbano;
 
-XVI. Promover y ejecutar acciones, inversiones y servicios públicos para la conservación, mejoramiento y crecimiento de los centros de población, considerando la igualdad sustantiva entre hombres y mujeres y el pleno ejercicio de derechos humanos;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XVI. Concertar, promover y ejecutar acciones, servicios públicos e inversiones con la participación de los sectores social y privado, para el mejoramiento y crecimiento de los centros de población, así como impulsar a través de los mecanismos de coordinación que establece la presente Ley, el desarrollo regional, y el desarrollo metropolitano, bajo los términos de la legislación aplicable, incluyendo los instrumentos de planeación, considerando la igualdad sustantiva entre hombres y mujeres y el pleno ejercicio de derechos humanos;
 
 XVII. Proponer al Congreso del Estado la fundación y, en su caso, la desaparición de centros de población, en congruencia con lo dispuesto en esta Ley y los programas de ordenamiento territorial y desarrollo urbano;
 
@@ -1663,7 +1665,9 @@ Los diversos programas de ordenamiento territorial y desarrollo urbano y metropo
 
 Los instrumentos de planeación referidos, deberán guardar congruencia entre sí, sujetándose al orden jerárquico que establece su ámbito territorial, y contando con los dictámenes de validación y congruencia que para ese fin serán solicitados y emitidos por la Secretaría, para su aplicación y cumplimiento.
 
-Los instrumentos de planeación que establece este artículo serán el sustento territorial para definir y orientar la inversión pública e inducir las obras, acciones e inversiones de los sectores privado y social.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+Los instrumentos de planeación que establece este artículo serán el sustento territorial para definir y orientar la inversión pública e inducir las obras, acciones e inversiones de los sectores privado y social. Además, podrán ser utilizados por el Estado y los municipios para tomar acciones tendentes a la regulación del mercado, evitar la especulación de inmuebles y predios aptos para el desarrollo urbano y la vivienda, y favorecer la creación y disponibilidad de vivienda de interés social, considerando una perspectiva a largo plazo.
 
 La Federación y el Estado podrán convenir mecanismos de planeación de las zonas metropolitanas para coordinar acciones e inversiones que propicien el desarrollo y regulación de los asentamientos humanos, con la participación que corresponda a los municipios de acuerdo con esta Ley.
 
@@ -2826,6 +2830,10 @@ e. En general, la planeación del territorio perseguirá establecer un adecuado 
 f. Se promoverá y procurará la movilidad sustentable, mediante la construcción, remodelación y rehabilitación de vialidades en áreas urbanas, adecuándolas para tal fin; contemplando zonas y áreas de circulación peatonal, así como establecer estrategias y medidas que favorezcan la accesibilidad de desplazamiento en las ciudades, distintas al uso del vehículo automotor, instalando la señalética en los lugares correspondientes; según lo dispuesto en esta Ley.
 
 g. Se procurará la recuperación de las áreas no urbanizables de los centros de población ocupadas por asentamientos espontáneos o no autorizados, mediante programas de traslados o reubicación de sus habitantes a suelos aptos, así como la regeneración de las áreas naturales recuperadas.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+h. La construcción de pasos de fauna y vallados perimetrales en la aplicación de obras carreteras y otras vías terrestres de comunicación que impliquen la fragmentación del hábitat, en zonas susceptibles de implementación y donde existan especies endémicas o en peligro de extinción susceptibles de protección, de manera que tengan mínimo impacto sobre la fauna silvestre.
 
 ### Capítulo VI. Estudios de Impacto Urbano, Vial, Ambiental y de Imagen Urbana
 
@@ -4399,9 +4407,21 @@ Los establecimientos comerciales y de servicios, procurarán que sus estacionami
 
 I. Otorgar a los usuarios cuando menos quince minutos de tolerancia gratuitos;
 
-II. Colocar sistemas de vigilancia y seguridad en el estacionamiento del establecimiento, y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-III. Contar con seguro contra robo total de los vehículos, así como con seguro para cubrir daños ocasionados por el estacionamiento del establecimiento.
+II. Colocar sistemas de vigilancia y seguridad en el estacionamiento del establecimiento;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+III. Contar con póliza de seguro que ampare robo total de los vehículos, y en su caso daños ocasionados por elementos materiales del estacionamiento del establecimiento, y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+IV. Colocar en lugares visibles de la entrada y salida del estacionamiento los avisos que den a conocer las obligaciones establecidas en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+El incumplimiento de las obligaciones establecidas en el presente artículo, será causa de aplicación de multa, y en caso de reincidencia, revocación de la licencia de funcionamiento por parte del ayuntamiento que corresponda.
 
 #### Sección Cuarta. Compatibilidad de las Licencias de Uso de Suelo con los Programas de Ordenamiento Territorial y Desarrollo Urbano
 
@@ -6930,3 +6950,37 @@ P.O. 20 DE JUNIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0399.- SE ADICIONA AL ARTÍCULO 139, EN LA FRACCIÓN V EL INCISO H, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0405.- SE REFORMA EL ARTÍCULO 18 EN SU FRACCIÓN XVI, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0406.- SE REFORMA EL ARTÍCULO 66 EN SU PÁRRAFO PENÚLTIMO, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0412.- SE REFORMA EL ARTÍCULO 280 EN SUS FRACCIONES II Y III; Y ADICIONA AL MISMO ARTÍCULO 280 LA FRACCIÓN IV Y EL PÁRRAFO SEXTO, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Los ayuntamientos del Estado deberán hacer las modificaciones necesarias en sus leyes de ingresos para establecer las multas, así como las modificaciones que correspondan en sus reglamentos, dentro del término de cuarenta y cinco días contados a partir del inicio de vigencia de este decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
