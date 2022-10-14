@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-11025
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-12"
-last_updated: "2020-03-26"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de septiembre de 2015.
 
@@ -295,9 +295,9 @@ IX. Evaluar el impacto de las políticas públicas, obras y acciones de los ente
 
 X. Impulsar la paridad en la asignación de puestos directivos en todas las instituciones públicas del Estado;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-XI. Velar por que el contenido de los medios de comunicación, así como de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley, esté desprovisto de estereotipos en función del sexo de las personas, incorpore un lenguaje incluyente y transmita una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad;
+XI. Velar y promover que, en las prácticas y el contenido de los medios de comunicación electrónicos e impresos, así como de la publicidad gubernamental o institucional, a través de la cual se difundan las campañas a que se refiere esta Ley, estén desprovistos de estereotipos en función del sexo de las personas, incorporen un lenguaje incluyente y transmitan una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad;
 
 > <small>(ADICIONADA, P.O. 24 DE MARZO DE 2020)</small>
 
@@ -315,7 +315,17 @@ XIV. Instrumentar y mantener actualizado el Registro Estatal de las y los encarg
 
 XV. Proponer los lineamientos generales para la capacitación y certificación de los entes públicos y personas encargadas de la Unidad para la Igualdad de Género de las dependencias o entidades de la administración pública estatal y municipal, así como de los organismos autónomos, y
 
-XVI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XVI. Fomentar e impulsar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva, en coordinación con las instituciones educativas, las áreas gubernamentales e instancias encargadas del deporte en el Estado y los municipios, así como con las organizaciones y asociaciones deportivas, promoviendo su formación y gestionando becas y los recursos necesarios para ese propósito;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XVII. Fomentar, en coordinación con las instituciones educativas, el desarrollo, participación y reconocimiento de las mujeres en la ciencia y la tecnología, así como el desarrollo de investigadoras profesionales, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XVIII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ### CAPÍTULO III. DE LOS MUNICIPIOS
 
@@ -980,3 +990,11 @@ P.O. 26 DE MARZO DE 2020.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0410.- SE REFORMA EL ARTÍCULO 14 EN SUS FRACCIONES XI Y XVI; Y ADICIONA AL MISMO ARTÍCULO 14 DOS FRACCIONES, ÉSTAS COMO XVI Y XVII, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
