@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2022-09-09"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1567,9 +1567,9 @@ VI. La víctima haya sido incomunicada, o privada de su libertad, cualquiera que
 
 VII. El cuerpo de la víctima sea expuesto de cualquier forma, depositado, o arrojado en un lugar público.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-Este delito se sancionará con una pena de cuarenta a sesenta años de prisión, y sanción pecuniaria de dos mil a cinco mil días del valor de la unidad de medida y actualización.
+Este delito se sancionará con una pena de veinte a cincuenta años de prisión, y sanción pecuniaria de dos mil a cinco mil días del valor de la unidad de medida y actualización. Cuando la víctima sea niña o adolescente se aumentará la cuarta parte de la pena que corresponda, en observancia a lo previsto en el artículo 90 de este Código.
 
 Además de las sanciones señaladas en el presente artículo, el sujeto activo perderá los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
@@ -1787,13 +1787,19 @@ Además de las sanciones previstas en este capítulo, a juicio del juzgador se p
 
 Comete el delito de ataque peligroso quien:
 
-I. Sin el ánimo de causar daño a la integridad física dispara sobre una persona o grupo de personas un arma de fuego, o
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+I. Sin causa justificada, realice disparo de arma de fuego, o
 
 II. Ataca a alguien de tal manera que, en razón del arma empleada, de la fuerza, destreza del agresor o de cualquier otra circunstancia semejante, puede producir como resultado lesiones o la muerte.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Este delito se sancionará con una pena de dos a cinco años de prisión y sanción pecuniaria de doscientos a quinientos días del valor de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+Para los efectos de este artículo, se entiende “sin causa justificada”, todas aquellas circunstancias en las que se ponga en riesgo la vida, la integridad física o el patrimonio, propio o de cualquier otra persona.
 
 ###### ARTÍCULO 154.
 
@@ -1911,17 +1917,21 @@ ARTÍCULO 158 TER. La penas previstas en los artículos, 158, y 158 BIS, pueden 
 
 ### CAPÍTULO V. Robo de Infante; Sustracción de Menores, o de Incapaces
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 159.
 
-Comete el delito de robo de menor, o incapaz, quien sustraiga de su custodia legítima a un menor de dieciocho años, o incapaz, o lo retenga sin el consentimiento de quien tenga su legítima custodia o guarda.
+Comete el delito de robo de menor, o incapaz, quien sustraiga de su custodia o guarda a persona menor de dieciocho años, o incapaz, o la retenga sin el consentimiento de quien ejerza de hecho o por derecho la custodia o guarda.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Este delito se sancionará con una pena de ocho a cuarenta años de prisión y sanción pecuniaria de ochocientos a cuatro mil días del valor de la unidad de medida y actualización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 160.
 
-Comete el delito de sustracción de menores, o de incapaces, cuando la conducta señalada en el artículo anterior, la realice el ascendiente, descendiente, cónyuge o pariente colateral o afín hasta el cuarto grado, que no ejerza la patria potestad, la tutela, la guarda o custodia del menor, o incapaz.
+Comete el delito de sustracción de persona menor, o incapaz, cuando la conducta señalada en el artículo anterior, la realice el ascendiente, descendiente, cónyuge o pariente colateral o afín hasta el cuarto grado, que no ejerza la patria potestad; la tutela; la guarda o custodia de hecho o por derecho, de la persona menor, o incapaz.
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -2753,7 +2763,9 @@ X. Se cometa escalando muros, rejas o tapias;
 
 XI. Se cometa empleando excavaciones, túneles, llaves falsas, ganzúas, alambres, o cualquier otro artificio para abrir puertas o ventanas, o cuando el ladrón se quede dentro del local durante la noche, cerrado éste;
 
-XII. Se cometa respecto de materiales que conduzcan energía eléctrica, agua o gas, y que estén destinados a la prestación de un servicio.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XII. El objeto del apoderamiento sea cable de cobre, aluminio, acero, níquel, o cualquier otro material que conduzca energía eléctrica, agua, o gas, y que estén destinados a la prestación de un servicio público o privado;
 
 XIII. Se cometa con el empleo de cualquier medio para abrir cajas fuertes;
 
@@ -2767,7 +2779,9 @@ XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de
 
 XVII. El objeto robado sea un vehículo de motor.
 
-En los casos a que hace referencia este artículo, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+En los casos a que hace referencia este artículo, se aplicarán las sanciones correspondientes al robo simple, aumentadas en una mitad, exceptuando el supuesto de la fracción XII, que se aumentará en dos terceras partes.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -5822,3 +5836,35 @@ P.O. 9 DE SEPTIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0400.- SE REFORMA EL ARTÍCULO 153 EN SU FRACCIÓN I Y ADICIONA AL MISMO ARTÍCULO 153 EL PÁRRAFO QUINTO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0402.- SE REFORMAN LOS ARTÍCULOS 159 EN SU PÁRRAFO PRIMERO Y 160 EN SU PÁRRAFO PRIMERO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0403.- SE REFORMA EL ARTÍCULO 135, EN SU PÁRRAFO NOVENO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0407.- SE REFORMA EL ARTÍCULO 218 EN SU FRACCIÓN XII Y EN SU PÁRRAFO PENÚLTIMO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
