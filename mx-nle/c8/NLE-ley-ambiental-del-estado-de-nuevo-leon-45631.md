@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2022-10-03"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -215,6 +215,10 @@ XXV. Contaminación ostensible: La presencia clara, contundente o directa en el 
 
 XXVI. Contaminación visual: La alteración nociva de las cualidades de la imagen o del orden de un paraje natural o urbano, causado por uno o más elementos que únicamente tengan la finalidad de ser vistos, incluyéndose dentro de éstos a las estructuras, anuncios, objetos o imágenes fijas o móviles, así como pantallas electrónicas que por su colocación, tamaño o número, obstruyan u obstaculicen la libre circulación de todas las personas, que por su colocación o número, impidan al espectador apreciar a plenitud las características del entorno o distraigan la atención de las personas, creando situaciones de riesgo para las mismas;
 
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XXVI Bis. Contaminación lumínica: El resplandor luminoso en ambientes nocturnos o brillo producido por la difusión y reflexión de la luz en los gases, aerosoles y partículas en suspensión en la atmósfera, que altera las condiciones naturales de luminosidad en horas nocturnas y dificultan las observaciones astronómicas de los objetos celestes, debido a la luz intrusa, debiendo distinguirse el brillo natural, atribuible a la radiación de fuentes u objetos celestes y a la luminiscencia de las capas altas de la atmósfera;
+
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
 XXVII. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
@@ -342,6 +346,20 @@ LVI. Ley: Ley Ambiental del Estado de Nuevo León;
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
 LVII. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 14 DE OCTUBRE DE 2022)</small>
+
+LVII Bis. Luz intrusa: Parte de la luz de una instalación con fuente de iluminación que no cumple la función para la que fue diseñada y no previene la contaminación lumínica, incluye:
+
+a) La luz que cae indebidamente fuera de la zona que se requiere iluminar;
+
+b) La luz difusa en las proximidades de la instalación de iluminación;
+
+c) La luminiscencia del cielo, es decir, la iluminación del cielo nocturno que resulta del reflejo directo e indirecto de la radiación visible e invisible, dispersada por los constituyentes de la atmosfera, moléculas de gas, aerosoles y partículas en la dirección de la observación;
+
+d) La luz difusa que se esparce en las proximidades de la fuente artificial de iluminación, y
+
+e) La luz que se proyecta en varias direcciones fuera de la zona terrestre a iluminar.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE MARZO DE 2019)</small>
 
@@ -593,7 +611,9 @@ IV. Regular en el territorio del Estado las actividades cuyo nivel de riesgo no 
 
 V. Regular los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos que en esta Ley se establecen como de competencia estatal;
 
-VI. Prevenir, medir y controlar la contaminación generada por la emisión de ruidos, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales, que puedan dañar el equilibrio ecológico o el ambiente en el territorio del Estado, provenientes de fuentes fijas o móviles, dentro de la esfera de competencia que le otorgue la Ley;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+VI. Prevenir, medir y controlar la contaminación generada por la emisión de ruidos, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales, que puedan dañar el equilibrio ecológico o el ambiente en el territorio del Estado, provenientes de fuentes fijas o móviles, dentro de la esfera de competencia que le otorgue la Ley;
 
 VII. Emitir y aplicar los lineamientos, criterios y normas ambientales en las materias y actividades que causen o puedan causar desequilibrios ecológicos o daños al ambiente en el Estado, con la participación de los Municipios y de la sociedad en general;
 
@@ -737,7 +757,9 @@ VII. Crear y administrar, cuando así se determine en las disposiciones correspo
 
 VIII. Incentivar la instalación de áreas verdes en azoteas de edificaciones, en congruencia con los planes y programas de desarrollo urbano, de medio ambiente, las disposiciones de la presente Ley y demás que resulten aplicables.
 
-IX. Aplicar los ordenamientos relativos a la prevención y control de la contaminación por ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios, las provenientes del resultado de la quema a cielo abierto de cualquier tipo de residuos de su competencia, así como la vigilancia del cumplimiento de los ordenamientos que, en su caso, resulten aplicables a las fuentes móviles excepto las que sean consideradas de jurisdicción Federal o Estatal;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+IX. Aplicar los ordenamientos relativos a la prevención y control de la contaminación por ruido, vibraciones, energía térmica y luz intrusa, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios, las provenientes del resultado de la quema a cielo abierto de cualquier tipo de residuos de su competencia, así como la vigilancia del cumplimiento de los ordenamientos que, en su caso, resulten aplicables a las fuentes móviles excepto las que sean consideradas de jurisdicción Federal o Estatal;
 
 X. Promover el aprovechamiento sustentable, la conservación, ahorro, reciclaje y reuso de las aguas que se destinen para la prestación de los servicios públicos a su cargo, así como promover la captación y uso eficiente del agua de lluvia, conforme a lo dispuesto en la Ley de Aguas Nacionales;
 
@@ -821,7 +843,9 @@ V. El control de acciones para la protección, preservación y restauración del
 
 VI. La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal y, en su caso, la expedición de las autorizaciones correspondientes;
 
-VII. La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y en su caso, la expedición de las autorizaciones correspondientes;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+VII. La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, luz intrusa, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y en su caso, la expedición de las autorizaciones correspondientes;
 
 VIII. La realización de acciones operativas tendientes a cumplir con los fines previstos en la Ley General; o
 
@@ -2353,6 +2377,20 @@ IV. Considerar programas de reforestación, verificación de las emisiones conta
 
 V. La preservación y el aprovechamiento sustentable de la atmósfera es responsabilidad concurrente de las autoridades y ciudadanos.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 131 Bis.
+
+Para lograr la prevención, reducción y control de la contaminación lumínica en la atmósfera se deberán considerar los siguientes objetivos:
+
+a) Promover la eficiencia energética a través de un uso eficiente del alumbrado exterior, sin menoscabo de la seguridad que debe proporcionar a los peatones, los vehículos y las propiedades;
+
+b) Preservar al máximo posible las condiciones naturales de las horas nocturnas en beneficio de la fauna, la flora y los ecosistemas en general;
+
+c) Prevenir, minimizar y corregir los efectos de la contaminación lumínica en el cielo nocturno y, en particular en el entorno de los observatorios astronómicos que trabajan dentro del espectro visible, y
+
+d) Reducir la intrusión lumínica en zonas distintas a las que se pretende iluminar, principalmente en entornos naturales e interior de edificios.
+
 ###### Artículo 132.
 
 Para la aplicación de las disposiciones contenidas en el presente capítulo, se considerarán como:
@@ -2963,6 +3001,8 @@ La contravención a lo dispuesto en este artículo, será objeto de sanción, pa
 
 ### CAPÍTULO VII. PREVENCIÓN Y CONTROL DEL RUIDO, VIBRACIONES, OLORES PERJUDICIALES, ENERGÍA TÉRMICA Y LUMÍNICA Y LA CONTAMINACIÓN VISUAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 182.
 
 La Secretaría establecerá la clasificación, a través de un listado, de las actividades que no sean consideradas como altamente riesgosas, conforme a lo dispuesto en la Ley General, y que puedan generar efectos negativos en los ecosistemas o en el ambiente de la entidad, conforme a la presente Ley y las Normas Ambientales Estatales. El respectivo listado deberá ser publicado en el Periódico Oficial del Estado.
@@ -3013,7 +3053,7 @@ II. Tratándose de actividades relacionadas con los servicios públicos municipa
 
 ###### Artículo 187.
 
-Quedan prohibidas las emisiones contaminantes provenientes de cualquier fuente fija o móvil, ocasionadas por ruido, vibraciones, olores perjudiciales, energía térmica y lumínica y radiaciones electromagnéticas en cuanto rebasen los límites máximos establecidos en las Normas Oficiales Mexicanas o en las Normas Ambientales Estatales.
+Quedan prohibidas las emisiones contaminantes provenientes de cualquier fuente fija o móvil, ocasionadas por ruido, vibraciones, olores perjudiciales, energía térmica y luz intrusa y radiaciones electromagnéticas en cuanto rebasen los límites máximos establecidos en las Normas Oficiales Mexicanas o en las Normas Ambientales Estatales.
 
 Las autoridades que ésta Ley señala, en los ámbitos de sus competencias, adoptarán las medidas necesarias para impedir que se rebasen dichos límites y en su caso, aplicarán las sanciones correspondientes.
 
@@ -3607,7 +3647,9 @@ X. Descargar aguas residuales y contaminantes a los cuerpos de agua o a los sist
 
 XI. Descargar aguas residuales de origen industrial que rebasen los límites permitidos en el sistema de drenaje y alcantarillado;
 
-XII. Rebasar los límites permitidos y criterios aplicables de ruido, vibraciones, olores perjudiciales, energía térmica y lumínica; vapores, gases o contaminación visual establecidos en la presente Ley y otros ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XII. Rebasar los límites permitidos y criterios aplicables de ruido, vibraciones, olores perjudiciales, energía térmica y luz intrusa; vapores, gases o contaminación visual establecidos en la presente Ley y otros ordenamientos aplicables;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -3629,13 +3671,23 @@ XVIII. Desatender la solicitud de información a personas físicas o morales que
 
 XIX. Impedir al personal autorizado el acceso al lugar o lugares sujetos a inspección ambiental, en los términos previstos en la presente Ley y su Reglamento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-XX. El incumplimiento a las disposiciones establecidas en los programas y declaratorias de contingencia ambiental; y
+XX. El incumplimiento a las disposiciones establecidas en los programas y declaratorias de contingencia ambiental;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-XXI. Las demás conductas contrarias a las disposiciones de esta Ley.
+XXI. Desperdiciar e incumplir con el uso eficiente del agua con acciones como:
+
+a) Lavar con manguera vehículos
+
+b) Lavar o barrer con agua banquetas, patios, cocheras
+
+c) Regar el jardín sin uso moderado del agua, entendiéndose como tal el uso mínimo de dicho recurso, de acuerdo a lo que se establezca en los reglamentos u ordenamientos legales.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XXII. Las demás conductas contrarias a las disposiciones de esta Ley.
 
 ###### Artículo 237.
 
@@ -4224,3 +4276,19 @@ P.O. 3 DE OCTUBRE DE 2022.
 PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Los Municipios del Estado a partir de la entrada en vigor del presente Decreto, tendrán un plazo no mayor a 90 días para realizar las modificaciones necesarias a sus Reglamentos conforme a la presente reforma.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 222. SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 8, LA FRACCIÓN IX DEL ARTÍCULO 9, LA FRACCIÓN VII DEL ARTÍCULO 10, PRIMER PÁRRAFO DEL ARTÍCULO 187 Y LA FRACCIÓN XII DEL ARTÍCULO 236 Y SE ADICIONAN UNA FRACCIÓN XXVI BIS Y UNA FRACCIÓN LVII BIS AL ARTÍCULO 3 Y UN ARTÍCULO 131 BIS, TODOS DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Municipios del Estado de Nuevo León deberán ajustar sus reglamentos para dar cumplimiento dentro de los 60 días posteriores a la entrada en vigor del presente decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 239. SE REFORMAN LAS FRACCIONES XX Y XXI DEL ARTÍCULO 236 Y SE ADICIONA UNA FRACCIÓN XXII AL ARTÍCULO 236, DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado y los Municipios en un término no mayor de 90 días hábiles contados a partir de la entrada en vigor del presente decreto, deberán emitir o adecuar sus Reglamentos y demás disposiciones correspondientes en los términos establecidos en la presente reforma.
