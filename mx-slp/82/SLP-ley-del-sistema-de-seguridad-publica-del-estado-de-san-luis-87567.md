@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2022-06-20"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -2737,6 +2737,14 @@ El programa estatal deberá actualizarse cada año, de acuerdo con la realidad e
 
 El Programa estatal y su actualización deberán publicarse en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTICULO 175 BIS. El programa estatal deberá considerar la adquisición, instalación y operación de equipos que permitan bloquear o anular de manera permanente, las señales de telefonía celular, de radiocomunicación, o de trasmisión de voz, datos o imagen, en el perímetro de centros de reinserción social, establecimientos penitenciarios o centros de internamiento para menores, cualquiera que sea su denominación.
+
+Dichos equipos serán operados por autoridades distintas a las de los establecimientos penitenciarios; en centros remotos y contarán con sistemas automáticos que envíen señales de alarma ante cualquier interrupción en su funcionalidad y serán monitoreados por la Secretaría.
+
+El bloqueo de señales a que se refiere este artículo se hará sobre todas las bandas de frecuencia que se utilicen para la recepción en los equipos terminales de comunicación móvil y, en ningún caso, excederá de veinte metros fuera de las instalaciones de los establecimientos, a fin de garantizar la continuidad y seguridad de los servicios a los usuarios externos.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2017)</small>
 
 ## TÍTULO DÉCIMO SÉPTIMO. DE LAS INSTALACIONES ESTRATÉGICAS
@@ -3148,6 +3156,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0344.- SE REFORMA EL ARTÍCULO 144 EN SU FRACCIÓN I, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0415.- SE ADICIONA AL TÍTULO DÉCIMO SEXTO, EL ARTÍCULO 175 BIS, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
