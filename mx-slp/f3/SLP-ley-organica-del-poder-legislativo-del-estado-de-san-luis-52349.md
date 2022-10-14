@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2022-09-28"
+last_updated: "2022-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1209,33 +1209,37 @@ IX. Ecología y Medio Ambiente;
 
 X. Educación, Cultura, Ciencia y Tecnología;
 
-XI. Gobernación;
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-XII. Hacienda del Estado;
+XI. Fomento al Turismo;
+
+XII. Gobernación;
+
+XIII. Hacienda del Estado;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2022)</small>
 
-XIII. Igualdad de Género;
+XIV. Igualdad de Género;
 
-XIV. Justicia;
+XV. Justicia;
 
-XV. Primera de Hacienda y Desarrollo Municipal;
+XVI. Primera de Hacienda y Desarrollo Municipal;
 
-XVI. Puntos Constitucionales;
+XVII. Puntos Constitucionales;
 
-XVII. Salud y Asistencia Social;
+XVIII. Salud y Asistencia Social;
 
-XVIII. Segunda de Hacienda y Desarrollo Municipal;
+XIX. Segunda de Hacienda y Desarrollo Municipal;
 
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2012)</small>
 
-XIX. Seguridad Pública, Prevención y Reinserción Social;
+XX. Seguridad Pública, Prevención y Reinserción Social;
 
-XX. Trabajo y Previsión Social;
+XXI. Trabajo y Previsión Social;
 
-XXI. Transparencia y Acceso a la Información Pública, y
+XXII. Transparencia y Acceso a la Información Pública, y
 
-XXII. Vigilancia.
+XXIII. Vigilancia.
 
 ###### ARTICULO 99.
 
@@ -1369,7 +1373,7 @@ III. Los relativos al desarrollo social del Estado;
 
 IV. Los referentes a la gestión y apoyo a organizaciones no gubernamentales, cuyo objeto sea el desarrollo social en el Estado;
 
-V. Los que conciernen al fomento, promoción y apoyo de las actividades turísticas del Estado;
+V. (DEROGADA, P.O. 14 DE OCTUBRE DE 2022)
 
 VI. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
 
@@ -1532,6 +1536,20 @@ c) Se precisará la metodología ocupada, para la elección de la mujer que se r
 XVI. Los tocantes a las relaciones con las dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen, y
 
 XVII. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTICULO 108 BIS. Compete a la Comisión de Fomento al Turismo, los siguientes asuntos:
+
+I. Los que conciernen al fomento, desarrollo, promoción y apoyo de las actividades turísticas del Estado;
+
+II. Los que se refieran a la legislación en materia de turismo;
+
+III. Los relacionados con el impacto social de las actividades turísticas en el Estado;
+
+IV. Los relativos a las acciones del Gobierno Estatal y los gobiernos municipales, al igual que los relacionados a las acciones vinculadas entre distintos órdenes de gobierno en materia turística, y
+
+V. Los análogos a los anteriores que, a juicio de la Presidencia de la Directiva en los periodos ordinarios, o de la Presidencia de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTICULO 109.
 
@@ -1927,39 +1945,71 @@ El Pleno podrá crear por acuerdo, cuando las necesidades así lo requieran, y c
 
 El Congreso del Estado deberá contar con un Comité de Adquisiciones, Arrendamientos y Servicios conforme a la ley de la materia, para valorar y autorizar la compra y contratación de los bienes y servicios que requiera el Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-ARTICULO 124 BIS. El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado, se integrará dentro del primer trimestre de inicio de cada Legislatura, de acuerdo a lo establecido en el artículo 122 de esta ley; los diputados que conformen este Comité deberán ser, a su vez, integrantes de las comisiones de, Desarrollo Económico y Social; Comunicaciones y Transportes; Hacienda del Estado; Trabajo y Previsión Social; Ecología y Medio Ambiente; Salud y Asistencia Social; Gobernación; y Educación, Cultura, Ciencia y Tecnología, y deberán reunirse cuando menos dos veces al año con el objeto de promover una agenda legislativa para fomentar la competitividad.
+ARTÍCULO 124 BIS. El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado, se integrará dentro del primer trimestre de inicio de cada Legislatura, de acuerdo a lo establecido en el artículo 122 de esta ley; las diputadas y los diputados que conformen este Comité deberán ser, a su vez, integrantes de las comisiones de, Desarrollo Económico, Social; Comunicaciones y Transportes; Hacienda del Estado; Trabajo y Previsión Social; Ecología y Medio Ambiente; Salud y Asistencia Social; Gobernación; Educación, Cultura, Ciencia y Tecnología; y Fomento al Turismo; y deberán reunirse cuando menos dos veces al año con el objeto de promover una agenda legislativa para fomentar la competitividad.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado, a través de sus recomendaciones y opiniones, tendrá las siguientes atribuciones:
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 I. Coadyuvar con las comisiones relacionadas a la materia, para proponer una agenda legislativa que fomente la competitividad del Estado y sus municipios, y coadyuvar en el logro de los acuerdos necesarios para la aprobación de los temas de dicha agenda;
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 II. Promover el diálogo y la concertación entre los diferentes agentes públicos y privados de la Entidad;
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 III. Analizar las condiciones sociales, económicas y competitivas del Estado a partir de indicadores;
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 IV. Elaborar estudios de prospectiva que promuevan el desarrollo sustentable;
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 V. Promover acciones encaminadas a fortalecer las ventajas competitivas del Estado;
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 VI. Recomendar proyectos estratégicos sustentables de alto impacto para el desarrollo económico y social, y la competitividad;
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 VII. Concertar los criterios de una política industrial de desarrollo estatal y regional, así como de articulación de las cadenas productivas;
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 VIII. Impulsar la formación de capital humano, físico y social, como base generadora de riqueza;
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 IX. Promover medidas que favorezcan la equidad y la sustentabilidad económica y social;
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 X. Participar en la elaboración, actualización, y monitoreo del Plan Estatal de Desarrollo, y de los programas correspondientes en el ámbito económico y social, de conformidad con la ley de la materia y su reglamento interior, así como respecto de los municipios, a solicitud de ellos;
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 XI. Vincular sus actividades con los distintos sectores y actores de la sociedad potosina, así como con otros organismos similares que existan a nivel nacional e internacional;
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 XII. Formular recomendaciones para la elaboración de proyectos de leyes y decretos que se relacionen con el desarrollo social, económico y la competitividad del Estado, así como con la integración y funcionamiento del Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado;
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 XIII. Publicar periódicamente informes sobre las actividades realizadas, y
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
+
 XIV. Las demás que sean necesarias para el cumplimiento de los objetivos anteriores y que dicte su Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 El Comité de Reforma para la Competitividad y Desarrollo Sustentable del Estado se regirá bajo los lineamientos que establezca su Reglamento.
 
@@ -3052,3 +3102,13 @@ P.O. 28 DE SEPTIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0414.- SE REFORMA EL ARTÍCULO 124 BIS EN SU PÁRRAFO PRIMERO; Y ADICIONA AL ARTÍCULO 98 UNA FRACCIÓN, ÉSTA COMO XI Y EL ARTÍCULO 108 BIS; Y DEROGA DEL ARTÍCULO 104 LA FRACCIÓN V, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles siguientes de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La junta de Coordinación Política asignará los recursos humanos y materiales para la implementación de este Decreto.
