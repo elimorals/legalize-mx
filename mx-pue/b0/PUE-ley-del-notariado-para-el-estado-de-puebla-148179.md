@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-para-el-estado-de-puebla-148179"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-05"
-last_updated: "2022-07-01"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Cuarta Sección al Número 5 del Periódico Oficial del Estado de Puebla, el viernes 5 de mayo de 2021.
 
@@ -91,7 +91,9 @@ XVII. Matricidad electrónica: Archivo digital de cualquier documento fuente en 
 
 XVIII. Notariado: El Notariado del Estado de Puebla;
 
-XIX. Notaria o Notario: A las personas Titulares y Auxiliares de las notarías;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XIX. Notaria o Notario: A las personas Titulares, Auxiliares y Suplentes de las Notarías;
 
 XX. Quejoso, cliente, solicitante y/o prestatario:
 
@@ -125,9 +127,11 @@ La institución del Notariado consiste en el sistema que, en el marco del notari
 
 Su imparcialidad y probidad debe extenderse a todos los actos en los que intervenga de acuerdo con ésta y con otras leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 4.
 
-Corresponde a la persona titular del Poder Ejecutivo del Estado, la facultad de expedir las patentes de Notario y de aspirante a la persona titular de la Notaría, conforme a las disposiciones contenidas en la presente Ley.
+Corresponde a la persona titular del Poder Ejecutivo del Estado, la facultad de expedir las patentes de Notario Titular, Auxiliar y de Aspirante, conforme a las disposiciones contenidas en la presente Ley.
 
 Al Ejecutivo y a las Autoridades Notariales del Estado, les corresponde aplicar la presente Ley y vigilar su debido cumplimiento.
 
@@ -231,9 +235,17 @@ X. Profesionalismo;
 
 XI. Independencia;
 
-XII. Obligatoriedad del servicio, y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-XIII. Responsabilidad.
+XII. Obligatoriedad del servicio;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XIII. Responsabilidad, y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XIV. Inmediación.
 
 Los anteriores principios, les serán aplicados a cada parte o persona que solicite su servicio. La violación a este artículo actualiza de inmediato el procedimiento disciplinario previsto en esta Ley.
 
@@ -242,6 +254,10 @@ La persona titular de la Notaría, conforme al carácter público de su función
 Las personas titulares de las Notarías están obligadas a ser imparciales, si bien tal imparcialidad se expresa igualmente mediante la prestación de una asistencia adecuada a la parte que se encuentre en situación de inferioridad respecto de la otra, para así obtener el equilibrio necesario en aras de una equidad entre las partes.
 
 La fe pública constituye el soporte de los principios de certeza, seguridad y legalidad jurídica, representa la garantía que da el Estado a los particulares, mediante la determinación que hace la persona titular de la Notaría, de que los actos otorgados ante ella o él son previa y debidamente vinculados a la observancia de la Ley y el derecho, confiriéndoles la calidad de verdaderos.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+El principio de inmediación implica que la presencia del Notario Público será indispensable de forma permanente durante la celebración de todos los actos que impliquen el ejercicio de su fe pública y sobre todo y de forma rigurosa en los actos y operaciones que impliquen derechos reales y que sean consideradas como actividades vulnerables conforme lo establece el apartado A de la fracción XII del artículo 17 de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
 
 ###### ARTÍCULO 14.
 
@@ -387,9 +403,11 @@ Para la compilación de datos a que se refiere esta disposición, el Colegio y l
 
 El Colegio auxiliará a la Autoridad Notarial, en la integración de datos y podrá participar de la información generada conforme a los párrafos anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 21.
 
-La Dirección General del Notariado, formará expedientes individuales de quienes soliciten examen de aspirante, de los aspirantes y de la persona titular de la Notaría, en los que se concentrarán todos los antecedentes relevantes para la prestación del buen servicio; elementos de calificación de actuación y detección de irregularidades; avisos, quejas, procedimientos y demás documentos relacionados, y de todos aquellos que hayan defraudado, declarado falsamente, suplantado o ejercido indebidamente funciones notariales en el Estado o que en asuntos relacionados con ellos hayan incurrido en prácticas ilícitas.
+La Dirección General del Notariado, formará expedientes individuales de quienes soliciten examen de aspirante, de los aspirantes, de los Notarios Suplentes y Auxiliares y de las personas titulares de las Notarías, en los que se concentrarán todos los antecedentes relevantes para la prestación del buen servicio; elementos de calificación de actuación y detección de irregularidades; avisos, quejas, procedimientos y demás documentos relacionados, y de todos aquellos que hayan defraudado, declarado falsamente, suplantado o ejercido indebidamente funciones notariales en el Estado o que en asuntos relacionados con ellos hayan incurrido en prácticas ilícitas.
 
 Las personas titulares de las Notarías en lo individual y el Colegio, proporcionarán de manera oportuna a las Autoridades Notariales, la información de que dispongan en sus acervos documentales.
 
@@ -493,9 +511,13 @@ XV. Ser árbitro, mediadora o conciliadora para intervenir como medio alternativ
 
 XVI. Conocer de procedimientos y diligencias no contenciosas, juicios sucesorios testamentarios o intestamentarios, de conformidad con las Leyes respectivas.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 32.
 
-Corresponde a la persona titular de la Notaría el ejercicio de las funciones Notariales en el ámbito territorial del Estado. La persona titular de la Notaría no podrá ejercer sus funciones ni establecer oficinas fuera de los límites de éste. Los actos que se celebren ante su fe podrán referirse a cualquier otro lugar, siempre que se firmen las escrituras o actas correspondientes por las partes dentro del Estado y se dé cumplimiento a las disposiciones de esta Ley.
+Corresponde a la persona titular de la Notaría, a los Asociados, Suplentes o Auxiliares, el ejercicio de las funciones notariales en el ámbito territorial del Distrito Judicial de su adscripción. Ninguno de ellos podrá ejercer sus funciones ni establecer oficinas fuera de los límites de éste.
+
+Los actos que se celebren ante su fe podrán referirse a cualquier otro lugar, siempre que se firmen las escrituras o actas correspondientes por las partes dentro del Distrito Judicial de su adscripción y se dé cumplimiento a las disposiciones de esta Ley.
 
 Se prohíbe usar en anuncios al público, en oficinas de servicios o comercios, que den la idea de realizar trámites o funciones Notariales sin ser la persona titular de la Notaría, tales como asesoría, trámites, servicios, escrituras, actas, así como otros términos semejantes referidos a la función notarial y que deban comprenderse como propios de ésta. Con la única limitante de la asignación de residencia que asigne la persona titular del poder Ejecutivo del Estado, desde el concurso de las notarías, para efectos de una sana distribución física de las Notarías en todo el Estado.
 
@@ -521,9 +543,11 @@ Se aplicarán las penas previstas por el artículo 258 del Código Penal, en el 
 
 A las personas practicantes de las notarías que cuenten con expediente abierto ante el Colegio de Notario y ante las Autoridades Notariales, con la intención de continuar su preparación en la carrera notarial, y que retengan indebidamente, derechos e impuestos que deba enterar la persona titular de la Notaría, se les aplicará la duplicidad de la pena prevista en el artículo 258 del Código Penal.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 37.
 
-Las personas aspirantes a ser titular de la Notaria, la o el que haya sido persona titular de la Notaría en el Estado de Puebla o la o el Notario suspendido en el ejercicio de su función, que realice cualquiera de las conductas previstas en los artículos 33 y 36 de esta Ley se hará acreedor al doble de la pena establecida por el artículo 258 del Código Penal, en su tipo de usurpación de profesión.
+Los aspirantes al ejercicio del Notariado, quienes hayan ejercido la función Notarial y el Notario suspendido en el ejercicio de su función, que realicen cualquiera de las conductas previstas en los artículos 33 y 36 de esta Ley se harán acreedores al doble de la pena establecida por el artículo 258 del Código Penal, en su tipo de usurpación de profesión.
 
 ###### ARTÍCULO 38.
 
@@ -631,13 +655,23 @@ La persona titular de la Notaría que deje de serlo, quedará impedida para inte
 
 La Carrera Notarial es un sistema que organiza los estudios e investigación de las diversas disciplinas jurídicas, dirigidas al mejor desempeño de la función Notarial y para la difusión y puesta en práctica de sus principios y valores éticos y jurídicos en beneficio del Estado.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 48.
 
-La Carrera Notarial también es el proceso mediante el cual los profesionales del derecho se capacitan para ejercer el derecho y en consecuencia hacer accesible la preparación básica para el examen de aspirante al Notariado como condición pública de una mejor competencia profesional para el examen de oposición.
+La Carrera Notarial también es el proceso mediante el cual los profesionales del derecho se capacitan para ejercer el derecho y en consecuencia hacer accesible la preparación básica para los exámenes tanto de aspirante a Notario Titular como a Notario Auxiliar, como condición pública de una mejor competencia profesional.
 
-La manera ordinaria de acceder al notariado es resultar triunfador en un examen de oposición entre sustentantes que han realizado una práctica notarial y que han sido previamente calificados como aspirantes, en un examen anterior.
+Las formas ordinarias de acceder al notariado son las siguientes:
 
-El objeto de la Carrera Notarial consiste en mejorar el servicio en la función notarial, mediante la comprobación de su capacidad intelectual y moral, garantizando con ello día a día su estabilidad en el cargo, elevando en consecuencia su nivel jurídico y su calidad personal y social del servicio Notarial, en términos de colaboración entre las Autoridades Notariales y el Colegio, con referencia a los interesados y a la sociedad en general.
+a) Para Notario Suplente: Resultar triunfador en el examen para Notario Suplente para el cual haya concursado, entre interesados que han sido previamente calificados como aspirantes. Lo anterior, a fin de quedar adscrito a una Notaría en la que haya un Titular, y que no tenga ni Auxiliar, ni Asociado.
+
+b) Para Notario Auxiliar: Resultar triunfador en el examen para Notario Auxiliar para el cual haya concursado, entre interesados que han sido previamente calificados como aspirantes. Lo anterior, a fin de quedar adscrito a una Notaría en la que haya un Titular, y que no tenga Suplente, ni Asociado.
+
+c) Para Titular de una Notaría: Resultar triunfador en un examen de oposición entre sustentantes que han sido previamente calificados como aspirantes.
+
+También podrán presentar dicho examen aquellos que ostenten patente de Notario auxiliar.
+
+El objeto de la Carrera Notarial consiste en mejorar el servicio en la función notarial, mediante la comprobación de su capacidad profesional y moral, garantizando con ello su viabilidad en el cargo, elevando en consecuencia su nivel jurídico y su calidad personal y social en el servicio Notarial.
 
 ###### ARTÍCULO 49.
 
@@ -667,35 +701,51 @@ II. La difusión de los instrumentos informativos y formativos para el ejercicio
 
 ### CAPÍTULO II. DE LOS EXÁMENES
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 53.
 
-Tanto para los exámenes de aspirante como de oposición, todos los sustentantes que reúnan los requisitos de Ley tendrán derecho a solicitarlos e inscribirse, sin ser discriminados en forma alguna, independientemente de su género, apariencia, religión o cualesquiera otras características personales.
+En el Estado existirán tres tipos de exámenes para el acceso a la función notarial:
+
+a) Exámenes de aspirante a Notario;
+
+b) Exámenes para Notario Suplente y Auxiliar; y
+
+c) Exámenes de oposición para Titular de una Notaría.
+
+Las personas que reúnan los requisitos de Ley tendrán derecho a solicitarlos e inscribirse, sin ser discriminados por razón de género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 54.
 
-La sede de los exámenes, tanto de aspirante como de oposición a la persona titular de la Notaría, serán preferentemente en las oficinas del Colegio, pudiendo en su caso la Autoridad Notarial designar sede diversa.
+La sede de los exámenes, será la que en cada caso designe la autoridad notarial.
 
 ###### ARTÍCULO 55.
 
 Para solicitar el examen de aspirante a persona titular de la Notaría, la interesada deberá satisfacer los siguientes requisitos:
 
-(NOTA: EL 3 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-I. Ser mexicana POR NACIMIENTO, tener veinticinco años cumplidos y no más de sesenta al momento de solicitar el examen;
+I. Ser mexicana y tener al menos veinticinco años cumplidos y no más de sesenta al momento de solicitar el examen;
 
-II. Ser vecina del Estado, con residencia no menor de tres años ininterrumpidos anteriores a su solicitud;
+II. (DEROGADA, P.O. 14 DE OCTUBRE DE 2022)
 
 III. Estar en pleno ejercicio de sus derechos y gozar de facultades físicas y mentales que no impidan el uso de sus capacidades intelectuales para el ejercicio de la función notarial;
 
 IV. Gozar de buena reputación personal, honorabilidad profesional y no ser ministro de culto;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-V. Ser persona profesional del derecho, con título de abogada o abogado o licenciada o licenciado en derecho y con cédula profesional, así como con antigüedad no menor de diez años en el ejercicio de la profesión;
+V. Ser persona profesional del derecho, con título de abogada o abogado o licenciada o licenciado en derecho y con cédula profesional; así como contar con una antigüedad no menor de cinco años en el ejercicio de la profesión;
 
-VI. Comprobar que durante 12 meses ha realizado práctica Notarial ininterrumpida, bajo la dirección y responsabilidad de alguna persona titular de Notaría en el Estado de Puebla, debiendo mediar un lapso de hasta un año entre la terminación de dicha práctica y la solicitud del examen correspondiente;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-VII. Acreditar su asistencia a eventos, cursos académicos organizados por el Colegio de Notarios durante el último año previo a su solicitud de examen o participar en actividades extracurriculares, profesionales y académicas, avaladas por otras instituciones oficialmente reconocidas;
+VI. Comprobar que durante seis meses ha realizado prácticas notariales ininterrumpidas;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+VII. Acreditar su asistencia a eventos o cursos académicos organizados por el Colegio de Notarios, por la autoridad notarial o por instituciones oficialmente reconocidas, durante los últimos seis meses previos a su solicitud de examen; o participar en actividades profesionales o académicas, avaladas por otras instituciones oficialmente reconocidas;
 
 VIII. Presentar dicha solicitud por escrito a la Dirección General del Notariado, en el formulario autorizado al efecto por la misma, marcando copia al Colegio, requisitando los datos y acompañando los documentos que el mismo formulario señale;
 
@@ -739,7 +789,11 @@ c) Copia certificada de identificación oficial vigente, y
 
 d) Copia certificada de su acta de nacimiento;
 
-IV. Al concluir los doce meses de práctica notarial, la persona titular de la Notaría comunicará la conclusión de la misma a la Dirección General del Notariado, la cual tomará nota de ello, dando contestación por escrito la persona titular de la Notaría, según lo previsto en la fracción I de este artículo, y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+IV. Al concluir los seis meses de la práctica notarial, la persona titular de la Notaría informará bajo protesta de decir verdad, la conclusión satisfactoria de la misma a la Dirección General del Notariado.
+
+La Dirección General del Notariado tomará nota de ello y dará contestación por escrito a la persona titular de la Notaría, según lo previsto en la fracción I de este artículo, y
 
 V. Si durante la práctica notarial la persona practicante deja de prestar servicios en la notaría donde se encuentre realizando la práctica, será necesario para efectos de que ésta se considere ininterrumpida, lo siguiente:
 
@@ -751,9 +805,19 @@ b) Del mismo modo y en el mismo plazo, la persona practicante deberá presentar 
 
 Los expedientes de las personas practicantes podrán resguardarse en archivo electrónico, cuya información podrá ser compartida por la Dirección General del Notariado y el Colegio, mediante el sistema informático que al efecto se implemente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 58.
 
-Cuando una o varias Notarías estuvieren vacantes o se hubiere resuelto crear una o más, la Consejería Jurídica publicará convocatoria para que los aspirantes al ejercicio del Notariado presenten el examen de oposición correspondiente. Esta convocatoria será publicada una sola vez en el Periódico Oficial del Estado y por dos veces consecutivas con intervalos de tres días en uno de los periódicos de mayor circulación en el Estado. La convocatoria deberá contener los siguientes requisitos:
+Cuando una o varias Notarías estuvieren vacantes o el Titular del Ejecutivo del estado hubiere resuelto crear una o más, o se requieran Notarios Auxiliares o Suplentes, la Consejería Jurídica publicará convocatoria para los exámenes determinados en el artículo 53.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+Las convocatorias serán publicadas una sola vez en el Periódico Oficial del Estado y el Consejo de Notarios las publicará por dos veces consecutivas, con intervalos de tres días, en uno de los periódicos de mayor circulación en el Estado.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE OCTUBRE DE 2022)</small>
+
+Las convocatorias deberán contener los siguientes requisitos:
 
 I. Señalar las fechas, horarios y lugar, relativos al inicio y término del periodo de inscripción al examen. En ningún caso el periodo de inscripción excederá de diez días hábiles, contados a partir de la última publicación de la convocatoria;
 
@@ -761,19 +825,51 @@ II. Precisar el día, hora y lugar en que se practicarán las pruebas teóricas 
 
 III. Indicar el número de las notarías vacantes y de nueva creación.
 
-La citada convocatoria se publicará en el sitio oficial que el Colegio tiene en la red electrónica de información mundial conocida como Internet o la que haga sus veces.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+Las citadas convocatorias se publicarán además en el portal electrónico del Colegio.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 58 BIS. Cada Notaría será atendida por un Notario Titular, quien podrá para el mejor ejercicio de la función notarial suplirse con un Notario; optar por asociarse con otro Notario; o, contar con un Notario Auxiliar.
+
+El Notario Auxiliar tendrá las mismas facultades que el Titular, actuando indistintamente en el mismo protocolo y con el sello del Titular, pero el Auxiliar deberá hacer constar en los instrumentos el carácter con el que actúa.
+
+El Suplente del Notario Titular desempeñará sus funciones temporalmente y sólo en las ausencias temporales del Notario Titular, previo aviso que al efecto darán ambos a la Dirección General de Archivos y Notarías, salvo el caso de impedimento físico del Titular, en cuyo caso lo dará el Suplente expresando la causa.
+
+El Suplente ejercerá las mismas funciones que el Notario Titular al que suple, actuando en el protocolo y con el sello del Titular. El Suplente deberá hacer constar en los instrumentos el carácter con el que actúa.
+
+Para el ejercicio de la función Notarial, podrán asociarse dos personas titulares de Notarías, adscritos a un mismo distrito judicial, por el tiempo que estimen conveniente para actuar indistintamente en el mismo protocolo, que será el del Notario de mayor antigüedad. Al disolverse los convenios de asociación los Notarios actuarán en sus respectivos protocolos.
+
+Si la disolución fuere por la cesación en funciones del Notario más antiguo, en cuyo protocolo actuaban otros Notarios asociados, tal protocolo corresponderá al asociado que continúe en funciones con mayor antigüedad y en él seguirá actuando.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 59.
 
-Para obtener la patente de persona titular de la Notaría, el profesional del Derecho interesado, además de no estar impedida para presentar examen, conforme a las fracciones I y VIII del artículo 64 de esta ley, deberá:
+Para obtener la patente de Notario Auxiliar o Suplente adscrito a una Notaría Titular, el o la profesional del Derecho interesado, además de no estar impedido para presentar examen, conforme a las fracciones I y VIII del artículo 64 de esta ley, deberá:
 
 I. Acreditar los requisitos de calidad profesional, práctica y honorabilidad. Los requisitos a que se refiere esta fracción se presumen acreditados en términos de la información testimonial a que se refiere el artículo 55 de esta Ley, salvo que posteriormente se demuestren hechos concretos que hicieren dudar de dicha cualidad, para lo cual con la opinión del Colegio y la determinación de la autoridad notarial podrá ser requerida una complementación de la información testimonial;
 
 II. Tener patente de aspirante registrada; salvo que la patente no hubiera sido expedida por causas imputables a la autoridad, en cuyo caso bastará acreditar la aprobación del examen con la constancia respectiva que emita el jurado;
 
+III. Solicitar la inscripción al examen, según la convocatoria expedida por la autoridad y expresar su sometimiento a lo inapelable del fallo del jurado;
+
+IV. Obtener, según sea el caso, la o las calificaciones aprobatorias más altas en el examen respectivo, en los términos del artículo 64 de esta Ley, y
+
+V. Rendir la protesta a que se refiere el artículo 71 de esta ley, lo que implica para quien la realiza la aceptación de la patente respectiva, su habilitación como Notario Auxiliar o Suplente para el ejercicio notarial y su pertenencia al Notariado del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 59 BIS. Para obtener la patente de persona Titular de la Notaría, la o el profesional del Derecho interesado, además de no estar impedida para presentar examen, conforme a las fracciones I y VIII del artículo 64 BIS de esta ley, deberá:
+
+I. Acreditar los requisitos de calidad profesional, práctica y honorabilidad. Los requisitos a que se refiere esta fracción se presumen acreditados en términos de la información testimonial a que se refiere el artículo 55 de esta Ley, salvo que posteriormente se demuestren hechos concretos que hicieren dudar de dicha cualidad, para lo cual con la opinión del Colegio y la determinación de la autoridad notarial podrá ser requerida una complementación de la información testimonial;
+
+II. Tener patente de aspirante o de Notario auxiliar registradas; salvo que la patente no hubiera sido expedida por causas imputables a la autoridad, en cuyo caso bastará acreditar la aprobación del examen con la constancia respectiva que emita el jurado;
+
 III. Solicitar la inscripción al examen de oposición, según la convocatoria expedida por la autoridad y expresar su sometimiento a lo inapelable del fallo del jurado;
 
-IV. Obtener, según sea el caso, la o las calificaciones aprobatorias más altas en el examen de oposición respectivo, en los términos del artículo 64 de esta Ley, y
+IV. Obtener, según sea el caso, la o las calificaciones aprobatorias más altas en el examen de oposición respectivo, en los términos del artículo 64 BIS de esta Ley, y
 
 V. Rendir la protesta a que se refiere el artículo 71 de esta ley, lo que implica para quien la realiza la aceptación de la patente respectiva, su habilitación para el ejercicio Notarial y su pertenencia al Notariado del Estado de Puebla.
 
@@ -849,43 +945,57 @@ Los integrantes del jurado calificarán individualmente al sustentante, de lo qu
 
 Con la apertura del sobre que contenga el tema del examen se dará por iniciada la prueba práctica, en consecuencia, al sustentante que se desista, se le tendrá por reprobado y no podrá presentar nueva solicitud hasta que transcurra un término de seis meses. Esto último será aplicable en aquellos casos en que el sustentante no se presente puntualmente al lugar en que éste habrá de realizarse.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 64.
 
-El examen para obtener la patente de persona titular de la Notaría se regirá por las siguientes reglas:
+El examen para obtener la patente de Notario Auxiliar o Suplente adscrito a una Notaría se regirá por las siguientes reglas:
 
-I. En cada uno podrán concursarse hasta tres notarías, siempre y cuando al examen se hubiesen inscrito al menos tres sustentantes por cada Notaría.
+I. En cada uno podrán examinarse hasta tres interesados. Si la persona interesada se inscribió y no se presentó a la prueba práctica o habiéndose presentado a esta última no se presenta o desiste de la prueba teórica, no podrá presentarse para concursar como Auxiliar o Suplente, sino pasados 3 meses a partir de la fecha en la que se dé por terminado dicho examen.
 
-Si la persona aspirante se inscribió y no se presentó a la prueba práctica o habiéndose presentado a esta última no se presenta o desiste de la prueba teórica, no podrá volverse a presentar para concursar a nueva notaría, sino pasados 3 meses a partir de la fecha en la que se dé por terminada la oposición.
+Los interesados inscritos y que hayan realizado el pago de derechos correspondientes, acudirán personalmente ante la Dirección General del Notariado para notificarse de la fecha y hora de celebración del examen. En caso de no comparecer el o los interesados, se tendrán por desistidos del examen.
 
-Para la realización del examen de oposición, los aspirantes inscritos y que hayan realizado el pago de derechos correspondiente, acudirán personalmente ante la Dirección General del Notariado en la hora, fecha y lugar señalado al efecto, levantándose un acta en la que se señalará la fecha, hora y lugar en que se levanta, los nombres de los representantes del Colegio y de la Autoridad que hayan asistido, los aspirantes que comparezcan a la notificación, la notaría o notarías que se concursan, la fecha y hora de la celebración del examen de oposición en su parte práctica y las fechas y horas en que se realizarán las pruebas teóricas del examen, la cual será firmada por los asistentes. En caso de no comparecer el o los aspirantes, se tendrán por desistidos del examen de oposición.
+II. Para la prueba práctica, se reunirán las personas interesadas en la sede que decidan las autoridades notariales, el día y hora señalados en la convocatoria. En presencia de dos representantes de la autoridad notarial y uno del Colegio. Cada interesado elegirá uno de los sobres que guarden los temas, de entre veinte de ellos, debiendo desarrollar el que haya elegido; asimismo, ahí se sorteará el orden de presentación de los interesados a la prueba teórica;
 
-Para la celebración del examen en su parte teórica, deberán estar inscritos y presentar el examen en su parte práctica, por lo menos tres sustentantes por cada notaría que esté en concurso, lo mismo se observara para el caso a que se refiere el primer párrafo de la fracción primera del presente artículo de esta ley, supuesto en el cual, deberán estar inscritos un total mínimo de nueve sustentantes, en el caso de que no se cumpla con este requisito se declarará la o las notarías que correspondan;
+III. Al concluirse la prueba práctica, los responsables de la vigilancia de la prueba recogerán los trabajos hechos; los colocarán en sobres que serán cerrados, firmados por ellos y por el correspondiente interesado, y se depositarán bajo el resguardo de la Consejería Jurídica del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
+IV. La prueba teórica será pública; se iniciará en el día, hora y lugar señalados por la convocatoria. Los interesados serán examinados sucesivamente de acuerdo con el orden de presentación, resultado del sorteo señalado. Los interesados que no se presenten oportunamente a la prueba, perderán su turno y tendrán derecho, en su caso, a presentar el examen en una segunda vuelta, respetando el orden establecido;
 
-II. Para la prueba práctica, se reunirán las personas aspirantes en el Colegio, el día y hora señalados en la convocatoria. En presencia de un representante de la Autoridad y uno del Colegio, alguna de las personas aspirantes elegirá uno de los sobres que guarden los temas, de entre cincuenta de ellos, debiendo todos los sustentantes desarrollar el que se haya elegido; asimismo, ahí se sorteará el orden de presentación de los sustentantes a la prueba teórica;
+V. La persona interesada que no se presente a la segunda vuelta se tendrá por desistida;
 
-III. Al concluirse la prueba práctica, los responsables de la vigilancia de la prueba recogerán los trabajos hechos; los colocarán en sobres que serán cerrados, firmados por ellos y por el correspondiente sustentante, y se depositarán bajo seguro en el Colegio;
+VI. Reunido el jurado, cada uno de sus miembros interrogará al interesado exclusivamente y en profundidad sobre cuestiones de Derecho que sean de aplicación al ejercicio de la función Notarial. Una vez concluida la prueba teórica de cada interesado, este dará lectura ante el jurado a su trabajo práctico, sin poder hacer aclaración, enmienda o corrección;
+
+VII. Concluida la prueba teórica de cada interesado, los miembros del jurado emitirán separadamente y por escrito, la calificación que cada uno de ellos otorgue a las pruebas, práctica y teórica, en escala numérica del 0 al 100 y promediarán los resultados. La suma de los promedios se dividirá entre el número de examinantes para obtener la calificación final, cuyo mínimo para aprobar será el de 80 puntos; los que obtengan calificación inferior a 80, pero no inferior a 65 puntos, podrán presentar nuevo examen tan pronto haya una siguiente convocatoria, siempre y cuando tuviere satisfechos los requisitos previstos en esta Ley.
+
+Los aspirantes que obtengan una calificación inferior a 65 puntos, no podrán solicitar nuevo examen para ser Notario Auxiliar o Suplente, sino pasado seis meses a partir del día de la fecha de reprobación. Quienes desistan antes del tiempo máximo de entrega de la prueba práctica, se entenderá que abandonan el examen y podrán presentar nuevo examen, tan pronto haya una siguiente convocatoria, y
+
+VIII. Serán triunfadores para ser Notarios Auxiliares o Suplentes la o las personas interesadas que hayan obtenido las calificaciones aprobatorias más altas.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 64 BIS. El examen de oposición para obtener la patente de persona titular de la Notaría se regirá por las siguientes reglas:
+
+I. En cada uno podrán concursarse hasta tres Notarías, siempre y cuando al examen se hubiesen inscrito al menos tres sustentantes, entendiéndose por sustentantes, aspirantes a Notario y Notarios auxiliares por cada Notaría. Si la persona aspirante se inscribió y no se presentó a la prueba práctica o habiéndose presentado a esta última no se presenta o desiste de la prueba teórica, no podrá volverse a presentar para concursar a nueva Notaría, sino pasados tres meses a partir de la fecha en la que se dé por terminada la oposición.
+
+Para la realización del examen de oposición, los sustentantes inscritos y que hayan realizado el pago de derechos correspondiente, acudirán personalmente ante la Dirección General del Notariado en la hora, fecha y lugar señalado al efecto, levantándose un acta en la que se señalará la fecha, hora y lugar en que se levanta, los nombres de los representantes del Consejo de Notarios y de la Autoridad Notarial que hayan asistido, los sustentantes que comparezcan a la notificación, la Notaría o Notarías que se concursan, la fecha y hora de la celebración del examen de oposición en su parte práctica y las fechas y horas en que se realizarán las pruebas teóricas del examen, la cual será firmada por los asistentes. En caso de no comparecer el o los sustentantes, se tendrán por desistidos del examen de oposición. Para la celebración del examen en su parte teórica, deberán estar inscritos y presentar el examen en su parte práctica, por lo menos tres sustentantes por cada Notaría que esté en concurso, lo mismo se observará para el caso a que se refiere el primer párrafo de la fracción primera del presente artículo de esta ley, supuesto en el cual, deberán estar inscritos un total mínimo de nueve sustentantes, en el caso de que no se cumpla con este requisito se declarará desierta la o las Notarías que correspondan;
+
+II. Para la prueba práctica, se reunirán las personas sustentantes en el Colegio, o en la sede que decidan las Autoridades Notariales, el día y hora señalados en la convocatoria. En presencia de un representante de la Autoridad y uno del Colegio, alguna de las personas sustentantes elegirá uno de los sobres que guarden los temas, de entre veinte de ellos, debiendo todos los sustentantes desarrollar el que se haya elegido; asimismo, ahí se sorteará el orden de presentación de los sustentantes a la prueba teórica;
+
+III. Al concluirse la prueba práctica, los responsables de la vigilancia de la prueba recogerán los trabajos hechos; los colocarán en sobres que serán cerrados, firmados por ellos y por el correspondiente sustentante, y se depositarán bajo seguro en la Consejería Jurídica del Estado;
 
 IV. La prueba teórica será pública; se iniciará en el día, hora y lugar señalados por la convocatoria. Los aspirantes serán examinados sucesivamente de acuerdo con el orden de presentación, resultado del sorteo señalado. Los aspirantes que no se presenten oportunamente a la prueba, perderán su turno y tendrán derecho, en su caso, a presentar el examen en una segunda vuelta, respetando el orden establecido;
 
-V. La persona Aspirante que no se presente a la segunda vuelta se tendrá por desistida;
+V. El sustentante que no se presente a la segunda vuelta se tendrá por desistido;
 
 VI. Reunido el jurado, cada uno de sus miembros interrogará al sustentante exclusivamente y en profundidad sobre cuestiones de Derecho que sean de aplicación al ejercicio de la función Notarial, destacando el sentido de la prudencia jurídica y posteriormente si se considera adecuado se formularán cuestionamientos al caso. Una vez concluida la prueba teórica de cada sustentante, este dará lectura ante el jurado a su trabajo práctico, sin poder hacer aclaración, enmienda o corrección;
 
 VII. Para el desahogo del examen teórico deberán celebrarse cuando menos dos sesiones por semana;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2021)</small>
+VIII. Concluida la prueba teórica de cada sustentante, los miembros del jurado emitirán separadamente y por escrito, la calificación que cada uno de ellos otorgue a las pruebas, práctica y teórica, en escala numérica del 0 al 100 y promediarán los resultados. La suma de los promedios se dividirá entre cinco para obtener la calificación final, cuyo mínimo para aprobar será el de 80 puntos; los que obtengan calificación inferior a 80, pero no inferior a 65 puntos, podrán presentar nuevo examen tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el artículo 59 BIS de esta Ley.
 
-VIII. Concluida la prueba teórica de cada sustentante, los miembros del jurado emitirán separadamente y por escrito, la calificación que cada uno de ellos otorgue a las pruebas, práctica y teórica, en escala numérica del 0 al 100 y promediarán los resultados. La suma de los promedios se dividirá entre cinco para obtener la calificación final, cuyo mínimo para aprobar será el de 80 puntos; los que obtengan calificación inferior a 80, pero no inferior a 65 puntos, podrán presentar nuevo examen tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el artículo 59 de esta Ley.
+Los sustentantes que obtengan una calificación inferior a 65 puntos, no podrán solicitar nuevo examen de oposición, sino pasado un año a partir del día en que concluya la oposición respectiva. Quienes desistan antes del tiempo máximo de entrega de la prueba práctica, se entenderá que abandonan el examen y podrán presentar nuevo examen, tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el artículo 59 de esta Ley. Iniciado el sorteo a que se refiere la fracción II de este artículo, si el sustentante no está presente a la hora y en el lugar fijados para el inicio del examen, perderá su derecho a presentar el mismo y se le tendrá por desistido, pudiéndolo presentar nuevamente cuando cumpla los requisitos previstos en el artículo 59 de esta Ley, y
 
-Los aspirantes que obtengan una calificación inferior a 65 puntos, no podrán solicitar nuevo examen de oposición, sino pasado un año a partir del día en que concluya la oposición respectiva.
-
-Quienes desistan antes del tiempo máximo de entrega de la prueba práctica, se entenderá que abandonan el examen y podrán presentar nuevo examen, tan pronto haya una siguiente oposición, siempre y cuando tuviere satisfechos los requisitos previstos en el artículo 59 de esta Ley.
-
-Iniciado el sorteo a que se refiere la fracción II de este artículo, si el sustentante no está presente a la hora y en el lugar fijados para el inicio del examen, perderá su derecho a presentar el mismo y se le tendrá por desistido, pudiéndolo presentar nuevamente cuando cumpla los requisitos previstos en el artículo 59 de esta Ley, y
-
-IX. Serán triunfadores en la oposición para cubrir la o las Notarías respectivas, la o las personas sustentantes que hayan obtenido las calificaciones aprobatorias más altas.
+IX. Serán triunfadores en la oposición para cubrir la o las titularidades de las Notarías respectivas, la o las personas sustentantes que hayan obtenido las calificaciones aprobatorias más altas.
 
 Las Notarías serán asignadas en forma sucesiva, a quien o quienes, conforme a la fracción I de esta disposición, hayan obtenido la mayor calificación aprobatoria.
 
@@ -893,31 +1003,47 @@ Las Notarías serán asignadas en forma sucesiva, a quien o quienes, conforme a 
 
 Como labor de supervisión, la Dirección General del Notariado podrá, si lo estima conveniente, nombrar uno o más observadores del examen, licenciados en Derecho, quienes podrán emitir opinión sobre su perfeccionamiento, sin que esta tenga efecto vinculatorio con el desarrollo y resultado del examen de que se trate. Dicha opinión la harán del conocimiento de la Dirección General del Notariado y del Colegio y, a efecto de que se tomen las medidas necesarias para perfeccionar la práctica y desarrollo de los exámenes. Los observadores designados podrán estar presentes en todas las etapas del examen.
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 66.
 
-Para determinar la materia del examen, el Consejo de Notarios elaborará y propondrá de forma previa, un documento en el que sean enlistados, en número de treinta, los temas respecto de los cuales podrá versar su aplicación.
-
 La Dirección General del Notariado, también elaborará y propondrá veinte temas de examen.
 
-El total de los cincuenta temas de examen, serán sometidos para su aprobación ante el titular de la Consejería Jurídica; de ser aprobados serán impresos en láser, color negro, en letras mayúsculas, de manera unitaria y reproducido en formas valoradas expedidas por la Consejería Jurídica del Estado de Puebla, el texto completo que haga mención individual de cada uno de los temas que conformarán el catálogo disponible para determinar la materia de la que tratará el examen. Acto seguido, cada forma, con el texto del tema, será introducido al interior de un sobre, tamaño carta, color café, debiéndose colocar éste en el medio de dos hojas de papel de seguridad a fin de garantizar su confidencialidad.
+El total de los veinte temas de examen, serán sometidos para su aprobación ante el titular de la Consejería Jurídica; de ser aprobados serán impresos en láser, color negro, en letras mayúsculas, de manera unitaria y reproducido en formas valoradas expedidas por la Consejería Jurídica del Estado de Puebla, el texto completo que haga mención individual de cada uno de los temas que conformarán el catálogo disponible para determinar la materia de la que tratará el examen.
 
-Los sobres serán lacrados, firmados y sellados por los representantes de la Consejería Jurídica, Dirección General del Notariado y el Consejo de Notarios, deberán ser entregados, el día hábil anterior al de la celebración del examen, al Titular de la Dirección General del Notariado, quien será responsable de su guarda, custodia, resguardo y conservación. Si llegare a detectarse alguna alteración, ruptura, daño, reparación o rastro de violación, modificación o cambio en el color o en el contenido de los sobres, el examen será suspendido debiéndose señalar nuevo día y hora para su celebración; al efecto, la persona Titular de la Dirección General del Notariado podrá ser sujeto a responsabilidad, en los términos previstos por la legislación penal que resulte aplicable al caso.
+Acto seguido, cada forma, con el texto del tema, será introducido al interior de un sobre, tamaño esquela, color café, debiéndose colocar éste en el medio de dos hojas de papel de seguridad a fin de garantizar su confidencialidad.
 
-Serán cincuenta sobres como mínimo para los exámenes de aspirantes y otro número igual para los exámenes de oposición a notarios.
+Los sobres serán lacrados, firmados y sellados por los representantes de la Consejería Jurídica y Dirección General del Notariado deberán ser entregados, el día hábil anterior al de la celebración del examen, al Titular de la Dirección General del Notariado, quien será responsable de su guarda, custodia, resguardo y conservación.
+
+Si llegare a detectarse alguna alteración, ruptura, daño, reparación o rastro de violación, modificación o cambio en el color o en el contenido de los sobres, el examen será suspendido debiéndose señalar nuevo día y hora para su celebración; al efecto, la persona Titular de la Dirección General del Notariado podrá ser sujeto a responsabilidad, en los términos previstos por la legislación penal que resulte aplicable al caso.
+
+Serán veinte sobres como mínimo para los tipos de exámenes a que se refiere el artículo 53 de esta Ley.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 67.
 
-Concluidos los exámenes, la persona Titular del Poder Ejecutivo del Estado, expedirá las patentes de aspirante y de la persona titular de la Notaría, a quien haya resultado aprobado y triunfador en el examen respectivo. De cada patente se expedirán dos ejemplares.
+Concluidos los exámenes, la persona Titular del Poder Ejecutivo del Estado, expedirá las correspondientes patentes de:
+
+a) Aspirante a Notario;
+
+b) Notario Auxiliar;
+
+c) Notario Suplente; o,
+
+d) Titular de la Notaría.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 68.
 
-La persona Titular del Poder Ejecutivo expedirá las patentes a que se refiere el artículo anterior, y tomará la protesta del fiel desempeño de las funciones de la persona titular de la Notaría, a quien o quienes hayan resultado triunfadores en el examen, en un plazo que no excederá de treinta días hábiles, contados a partir de la fecha de celebración del mismo.
+La persona Titular del Poder Ejecutivo expedirá las patentes a que se refiere el artículo anterior, y tomará la protesta del fiel desempeño de las funciones que desempeñen los Notarios mencionados en los incisos b), c) y d) del artículo 67 a quien o quienes hayan resultado triunfadores en el examen, en un plazo que no excederá de treinta días hábiles, contados a partir de la fecha de celebración del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 69.
 
-Las patentes de la persona aspirante y de la persona titular de la Notaría deberán registrarse ante las siguientes Unidades Administrativas y el Colegio de Notarios:
+Las patentes a que se refiere el artículo 67 de esta Ley, deberán registrarse ante las siguientes Unidades Administrativas y el Colegio de Notarios:
 
 I. La Consejería Jurídica;
 
@@ -933,33 +1059,61 @@ Una vez registrada una patente, uno de sus ejemplares se entregará a la Direcci
 
 ### CAPÍTULO III. DE LA ACTUACIÓN NOTARIAL
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 70.
 
-Las personas titulares de las Notarías son inamovibles de su cargo, salvo los casos previstos en esta Ley. Asimismo, la patente de los aspirantes es definitiva y permanente.
+Los notarios titulares y los notarios auxiliares son inamovibles de su cargo, salvo los casos previstos en esta Ley, es decir, que se encuentren en alguno de los supuestos de cesación del ejercicio de la función notarial y de la consecuente revocación de la patente.
+
+Asimismo, la patente de los aspirantes podrá perderse en caso de que estos incurran en faltas graves de probidad a que hace referencia el segundo párrafo de la fracción II del artículo 244 de esta Ley.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 71.
 
-Para que la persona que haya obtenido la patente pueda actuar en ejercicio de la función Notarial y pertenecer al Colegio, deberá rendir protesta ante la persona titular del Poder Ejecutivo del Estado, o ante quien éste último delegue dicha atribución, de la siguiente manera:
+Para que los Notarios que hayan obtenido las patentes a las que se refieren los incisos b), c) y d) del artículo 67 de esta Ley puedan actuar en ejercicio de la función Notarial y pertenecer al Colegio, deberán rendir protesta ante la persona titular del Poder Ejecutivo del Estado, o ante quien éste último delegue dicha atribución.
 
-La persona titular del Poder Ejecutivo del Estado, o quien éste designe, deberá pronunciar lo siguiente:
-
-“¿Protesta Usted sin reserva alguna, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, así como las Leyes que de ellos emanen y desempeñar fiel y patrióticamente la función que en términos de Ley le han Conferido el titular del Ejecutivo, previos exámenes que dieron cuenta de su saber prudencial y practica suficiente para el ejercicio de la función notarial, mereciendo en consecuencia el reconocimiento público y social como la persona titular de la Notaría que la obliga a actuar y regir sus actuaciones en apego a los principios de su cualidad para dar fe?”.
-
-Acto seguido, la persona que haya obtenido la patente rendirá protesta recitando lo siguiente:
-
-"Protesto, como persona titular de la Notaría y como miembro del Colegio de Notarios del Estado de Puebla, guardar y hacer guardar el Derecho, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado libre y Soberano de Puebla y las Leyes que de ellas emanen, en particular la Ley del Notariado, y desempeñar objetiva, imparcial, leal y patrióticamente, el ejercicio de la fe pública que se me ha conferido, guardando en todo momento el estricto respeto al Estado Constitucional de Derecho y a los valores ético jurídicos que el mismo contempla, y si así no lo hiciere seré responsable, y pido hoy que en cada caso los particulares a quienes debo servir, las autoridades, el Colegio que así me lo exijan y demanden, conforme a la Ley y sus sanciones".
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 72.
 
-Para que la persona titular de la Notaría pueda actuar, debe:
+Para que Notarios Auxiliares puedan actuar en el ejercicio del notariado, deben:
 
-I. Obtener de compañía legalmente autorizada, el documento que acredite la constitución de la fianza, a favor de las Autoridades Notariales por un millón de pesos, para cubrir las responsabilidades derivadas del ejercicio de la función notarial con motivo de actos, hechos u omisiones imputados a las personas titulares de las Notarías o al personal de la propia Notaría Pública.
+I. Obtener de compañía legalmente autorizada, el documento que acredite la constitución de póliza o fianza a favor de las Autoridades Notariales por al menos once mil cientos (sic) once Unidades de Medida y Actualización, para cubrir las responsabilidades derivadas del ejercicio de la función notarial con motivo de actos, hechos u omisiones imputados a su ejercicio.
 
-Su monto será actualizado anualmente conforme a los incrementos del equivalente al valor diario de la Unidad de Medida y Actualización. La fianza cubrirá los daños y perjuicios que se ocasionen en términos de lo señalado en el párrafo anterior y, de no ser suficiente, la persona titular de la Notaría cubrirá la cantidad faltante con su patrimonio.
+La póliza o fianza cubrirá los daños y perjuicios que se ocasionen en términos de lo señalado en el párrafo anterior y, de no ser suficiente, el Notario cubrirá la cantidad faltante con su patrimonio.
 
-Dicha fianza deberá mantenerse vigente y actualizarse en el mes de febrero de cada año, modificándose en la misma forma en que se haya modificado la Unidad de Medida y Actualización.
+Dicha póliza o fianza deberá mantenerse vigente y actualizarse en el mes de febrero de cada año.
 
-La omisión en que incurra la persona titular de la Notaría a esta disposición será sancionada por la Autoridad administrativa en términos de la presente Ley y su Reglamento. El contrato de fianza correspondiente se celebrará en todo caso en el concepto de que el fiador no gozará de los beneficios de orden y excusión;
+La omisión en que incurra el Notario a esta disposición será sancionada por la Autoridad administrativa en términos de la presente Ley y su Reglamento.
+
+El contrato de póliza o fianza correspondiente se celebrará en todo caso en el concepto de que el fiador no gozará de los beneficios de orden y excusión;
+
+II. Registrar su patente, firma y rúbrica, antefirma o media firma, ante las autoridades mencionadas en el artículo 69 de esta Ley;
+
+III. Para el ejercicio de su función, establecerse en la sede de la Notaría a la que fue asignado, e iniciar el ejercicio de sus funciones en un plazo que no excederá de noventa días naturales contados a partir de la fecha en que rinda su protesta;
+
+IV. Dar aviso de lo anterior a las autoridades notariales y al Colegio, señalando con precisión al exterior del inmueble que ocupe, el número de la Notaría; la calidad en la que actúa; su nombre y apellidos; horario de trabajo, días hábiles o si prefiere los inhábiles; teléfonos y otros datos que permitan al público la expedita comunicación con el Notario.
+
+V. Ser miembro del Colegio, y
+
+VI. Obtener y mantener vigente un certificado de firma electrónica Notarial en términos de la Ley de Firma Electrónica vigente en el Estado de Puebla y las demás disposiciones aplicables.
+
+La Autoridad Notarial publicará el inicio de funciones en el Periódico Oficial del Estado, con costo para el Notario Auxiliar.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 72 BIS. Para que la persona titular de la Notaría pueda actuar, debe:
+
+I. Obtener de compañía legalmente autorizada, el documento que acredite la constitución de póliza o fianza, a favor de las Autoridades Notariales por al menos once mil ciento once Unidades de Medida y Actualización, para cubrir las responsabilidades derivadas del ejercicio de la función notarial con motivo de actos, hechos u omisiones imputados a su ejercicio.
+
+La póliza o fianza cubrirá los daños y perjuicios que se ocasionen en términos de lo señalado en el párrafo anterior y, de no ser suficiente, el Notario cubrirá la cantidad faltante con su patrimonio.
+
+Dicha póliza o fianza deberá mantenerse vigente y actualizarse en el mes de febrero de cada año.
+
+La omisión en que incurra el Notario a esta disposición será sancionada por la Autoridad administrativa en términos de la presente Ley y su Reglamento.
+
+El contrato de póliza o fianza correspondiente se celebrará en todo caso en el concepto de que el fiador no gozará de los beneficios de orden y excusión;
 
 II. Solicitar a la Dirección General del Notariado la elaboración del sello de autorizar;
 
@@ -967,31 +1121,41 @@ III. En consecuencia, proveerse a su costa de protocolo y sello de autorizar;
 
 IV. Registrar su sello, patente, firma y rúbrica, antefirma o media firma, ante las autoridades mencionadas en el artículo 69 de esta Ley;
 
-V. Establecer una oficina para el desempeño de su función dentro de la demarcación asignada, e iniciar el ejercicio de sus funciones en un plazo que no excederá de noventa días naturales contados a partir de la fecha en que rinda su protesta;
+V. Establecer una oficina para el desempeño de su función dentro de la demarcación asignada e iniciar el ejercicio de sus funciones en un plazo que no excederá de noventa días naturales contados a partir de la fecha en que rinda su protesta;
 
-VI. Dar aviso de lo anterior a las autoridades notariales y al Colegio, señalando con precisión al exterior del inmueble que ocupe, el número de la notaría; su nombre y apellidos; horario de trabajo, días hábiles o si prefiere los inhábiles; teléfonos y otros datos que permitan al público la expedita comunicación con la notaría a su cargo;
+VI. Dar aviso de lo anterior a las autoridades notariales y al Colegio, señalando con precisión al exterior del inmueble que ocupe, el número de la Notaría; su nombre y apellidos; horario de trabajo, días hábiles o si prefiere los inhábiles; teléfonos y otros datos que permitan al público la expedita comunicación con la Notaría a su cargo;
 
 VII. Ser miembro del Colegio, y
 
 VIII. Obtener y mantener vigente un certificado de firma electrónica Notarial en términos de la Ley de Firma Electrónica vigente en el Estado de Puebla y las demás disposiciones aplicables.
 
-La Autoridad Notarial publicará la iniciación de funciones de las personas titulares de las Notarías en el Periódico Oficial del Estado, sin costo para la persona titular de la Notaría.
+La Autoridad Notarial publicará el inicio de funciones de las personas titulares de las Notarías en el Periódico Oficial del Estado, con costo para la persona titular de la Notaría.
 
-Para el caso de que la persona titular de la Notaría cambie de ubicación la Notaría, dará el aviso correspondiente a la Autoridad Notarial, solicitando a su costa la publicación respectiva en (sic) Periódico Oficial del Estado.
+Para el caso de que la persona titular de la Notaría cambie de ubicación la Notaría, dará el aviso correspondiente a la Autoridad Notarial, solicitando a su costa la publicación respectiva en Periódico Oficial del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 73.
 
-La fianza a que se refiere la fracción I del artículo anterior garantizará ante las Autoridades Notariales exclusivamente la responsabilidad profesional por la función Notarial y se aplicará de la siguiente manera:
+La póliza o fianza a que se refiere la fracción I de los artículos 72 y 72 BIS garantizará ante las Autoridades Notariales exclusivamente la responsabilidad profesional por la función Notarial y se aplicará de la siguiente manera:
 
-I. Por la cantidad que corresponda y en forma preferente, al pago de multas y otras responsabilidades administrativas cuando, ante la negativa de la persona titular de la Notaría, se deba hacer el pago forzoso a las autoridades fiscales u otras autoridades;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+I. Por la cantidad que corresponda y en forma preferente, al pago de multas y otras responsabilidades administrativas cuando, ante la negativa de los Notarios, se deba hacer el pago forzoso a las autoridades fiscales u otras autoridades;
 
 II. En el orden determinado por la autoridad judicial, cuando se deba cubrir a un particular o al fisco, el monto fijado por sentencia firme condenatoria por responsabilidad civil, penal o fiscal en contra de la persona titular de la Notaría. Para tal efecto, el interesado deberá exhibir copia certificada de dicha sentencia ante la autoridad notarial, y
 
-III. Por la cantidad remanente que se cubrirá a las Autoridades notariales por la responsabilidad administrativa de la persona titular de la Notaría en los casos de revocación de la patente que hubiere quedado firme.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+III. Por la cantidad remanente que se cubrirá a las Autoridades notariales por la responsabilidad administrativa de la persona titular en los casos de revocación de la patente que hubiere quedado firme.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE OCTUBRE DE 2022)</small>
 
 En los casos previstos en la fracción II de este artículo, la autoridad judicial está obligada a ordenar expresamente a la Tesorería del Gobierno del Estado, que se haga efectiva la fianza a que se refiere el artículo anterior y su aplicación al pago al que hubiere sido condenada la persona titular de la Notaría.
 
-Las Autoridades notariales remitirán el documento que acredite la constitución de la fianza a la Tesorería del Gobierno del Estado, le solicitará se haga efectiva la misma, así como la aplicación de las cantidades que correspondan conforme a las fracciones anteriores.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+Las Autoridades notariales remitirán el documento que acredite la constitución de la póliza o fianza a la Tesorería del Gobierno del Estado, le solicitará se haga efectiva la misma, así como la aplicación de las cantidades que correspondan conforme a las fracciones anteriores.
 
 #### SECCIÓN I. DE LOS ELEMENTOS NOTARIALES SELLO DE AUTORIZAR Y PROTOCOLO
 
@@ -1139,11 +1303,15 @@ La persona titular de la Notaría al iniciar la formación de una decena de libr
 
 En hoja en blanco asentará la razón a que se refiere este artículo, dicha hoja no irá foliada y se encuadernará antes del primer folio del libro con el cual se inicia la decena. La persona titular de la Notaría asentará su sello y firma y contará con un término de cinco días hábiles para dar el aviso de inicio a la Autoridad Notarial, mencionando el número de folio y el número del instrumento Notarial con que dicha decena de libros se inicie.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 87.
 
-Los instrumentos, libros y apéndices que forman el protocolo deberán encontrarse numerados progresiva y previamente a la conformación de los libros. Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos se ordenarán en forma sucesiva y cronológica por la persona titular de la Notaría, y se encuadernarán en libros que se integrarán por doscientos folios, excepto cuando la persona titular de la Notaría deba asentar un instrumento con el cual rebasaría ese número, en cuyo caso deberá dar por terminado el libro sin asentar dicho instrumento, iniciando con éste el libro siguiente.
+Los instrumentos, libros y apéndices que forman el protocolo deberán encontrarse numerados progresiva y previamente a la conformación de los libros.
 
-Excepcionalmente, un libro de protocolo podrá integrarse hasta por doscientos cinco folios, si el instrumento que corresponda asentar rebasare ese número, se iniciará la formación del libro siguiente.
+Los folios deberán utilizarse en forma progresiva por ambas caras y los instrumentos que se asienten en ellos se ordenarán en forma sucesiva y cronológica por la persona titular de la Notaría, y se encuadernarán en libros que se integrarán por ciento cincuenta folios, excepto cuando la persona titular de la Notaría deba asentar un instrumento con el cual rebasaría ese número, en cuyo caso deberá dar por terminado el libro sin asentar dicho instrumento, iniciando con éste el libro siguiente.
+
+Excepcionalmente, un libro de protocolo podrá integrarse hasta por ciento cincuenta y cinco folios, si el instrumento que corresponda asentar rebasare ese número, se iniciará la formación del libro siguiente.
 
 ###### ARTÍCULO 88.
 
@@ -1973,6 +2141,10 @@ La persona titular de la Notaría únicamente tiene fe pública en lo que se ref
 
 La nulidad de un instrumento o registro Notariales sólo podrá hacerse valer por vía de acción y no por vía de excepción, siempre que existan elementos claramente definitorios en contra que ameriten romper, como excepción debidamente comprobada, el principio de prueba plena.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+En aquellos casos en los que se presenten quejas, que pretendan obtener la nulidad de un instrumento o registro notarial, sin que se acompañen de resolución judicial que así lo indique, las autoridades notariales, dejarán a salvo los derechos de la parte quejosa y se constreñirán de oficio a revisar administrativamente los instrumentos y/o registros notariales involucrados.
+
 ###### ARTÍCULO 182.
 
 Las correcciones no salvadas en las escrituras, actas o asientos de registro, se tendrán por no hechas.
@@ -2121,17 +2293,19 @@ En los casos mencionados en los artículos precedentes el heredero o herederos i
 
 #### SECCIÓN I. DE LA SEPARACIÓN DE SUS FUNCIONES
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 197.
 
-Las personas titulares de las Notarías podrán separarse del ejercicio de sus funciones hasta por treinta días hábiles renunciables, consecutivos o alternados, cada seis meses, previo aviso que por escrito den a las Autoridades notariales y al Colegio.
+Las personas titulares de las Notarías podrán separarse del ejercicio de sus funciones hasta por quince días hábiles, consecutivos o alternados, cada seis meses, previo aviso que por escrito den a las Autoridades notariales y al Colegio.
 
-No será necesario el aviso en los días en que cierren las oficinas públicas y no den servicio al público, por lo que no serán computables en los 30 días hábiles mencionados en el párrafo anterior.
+No será necesario el aviso en los días en que cierren las oficinas públicas, por lo que no serán computables dentro de los quince días hábiles mencionados en el párrafo anterior.
 
-Los treinta días hábiles a que se refiere el párrafo anterior correrán en un primer periodo y/o semestre del primero de enero al treinta de junio y en un segundo periodo y/o semestre del primero de julio al 31 de diciembre.
+Los quince días hábiles a que se refiere el párrafo anterior correrán en un primer periodo y/o semestre del primero de enero al treinta de junio y en un segundo periodo y/o semestre del primero de julio al treinta y uno de diciembre.
 
-En el caso de la mujer notaria y en el supuesto de que ésta se encuentre en estado de gravidez, no se computarán dentro de dichos 30 días hábiles, los cuarenta y cinco días naturales anteriores al parto ni los cuarenta y cinco días naturales posteriores al mismo.
+En el caso de mujeres o personas titulares de Notarías con capacidad de gestar, en el supuesto de que ésta o estas se encuentren embarazadas, no se computarán dentro de dichos quince días hábiles, los cuarenta y cinco días naturales anteriores y posteriores al parto.
 
-Lo mismo se observará en cualquier período de la gravidez, en que por las condiciones de salud propias o del producto deba guardar reposo, estando únicamente obligada a dar aviso de lo anterior a las Autoridades notariales y al Colegio, exhibiendo para dichos efectos constancia médica.
+Lo mismo se observará en cualquier período del embarazo, en que por las condiciones de salud propias o del producto deba guardar reposo, estando únicamente obligada a dar aviso de lo anterior a las Autoridades notariales y al Colegio, exhibiendo para dichos efectos constancia médica.
 
 ###### ARTÍCULO 198.
 
@@ -2153,9 +2327,9 @@ Se concederá licencia, por el tiempo que dure en el ejercicio de su cargo, a la
 
 Los Notarios sólo podrán ser suspendidos en el ejercicio de sus funciones por las siguientes causas:
 
-(NOTA: EL 3 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 61/2021, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-I. ENCONTRARSE BAJO LOS EFECTOS DEL AUTO DE VINCULACIÓN A PROCESO PENAL POR DELITO DOLOSO, CLASIFICADO COMO GRAVE POR LA LEGISLACIÓN PENAL APLICABLE;
+I. Cuando hayan sido condenados por sentencia ejecutoriada por un delito clasificado como grave por la legislación penal aplicable;
 
 II. La pérdida de la libertad, mientras perdure la misma;
 
@@ -2215,9 +2389,17 @@ XIV. Por estar imposibilitado físicamente para el ejercicio de sus funciones po
 
 XV. Cuando esté imposibilitado definitivamente, por sordera, ceguera, o por no estar en condiciones físicas o mentales para desempeñar su función, esto último a juicio de la persona Titular del Poder Ejecutivo del Estado quien, para el efecto, considerará la opinión del Consejo de Notarios, además de solicitar el diagnóstico de dos médicos especialistas debidamente acreditados por el sector salud;
 
-XVI. No constituir o no conservar vigente la fianza, y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-XVII. Las demás que establezcan las leyes.
+XVI. No constituir o no conservar vigente la fianza,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XVII. Por muerte; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XVII], P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XVIII. Las demás que establezcan las leyes
 
 ###### ARTÍCULO 206.
 
@@ -2251,13 +2433,19 @@ En los casos de cesación de la función Notarial, junto con la declaratoria que
 
 Si la persona Titular de la Notaría que cesare en funciones tuviese, Auxiliar, Asociado, o Suplente, al que corresponda de ellos se entregará el protocolo para que concluya los asuntos en trámite, y en caso de asociación, para que continúe su ejercicio en el mismo, en los términos de esta ley. Los asociados o suplentes harán constar en el último folio utilizado por quien cesó en funciones, o en el siguiente, la cesación de funciones, la fecha y pondrán su sello y firma.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 213.
 
-Al declararse la cesación de funciones de la persona Titular de una Notaría que no tuviese Auxiliar, Asociado, o suplente, la Dirección General del Notariado, con la intervención del Presidente y Secretario del Consejo de Notarios, se designara a un notario que regularice el protocolo de a (sic) persona Titular de la Notaría cesante con las mismas funciones, derechos y obligaciones de un notario suplente.
+Al declararse la cesación de funciones de la persona Titular de una Notaría, la Dirección General del Notariado designará a un Notario Suplente que regularice el protocolo de la persona Titular de la Notaría cesante con las mismas funciones, derechos y obligaciones de un Notario Suplente, tal y como lo establece el artículo 35 del Reglamento de esta Ley.
 
-Acto seguido se procederá a la clausura temporal de su protocolo por él o los inspectores de notarías en su caso designados, con la comparecencia del representante que designe el Colegio.
+Lo anterior atendiendo al principio pro persona.
 
-Él o los inspectores de notarías asentarán la razón correspondiente en los términos antes prescritos.
+En aquellos casos de expedientes internos que no alcanzaron a formarse como instrumentos notariales, los clientes o prestatarios del servicio notarial del Notario cesado, podrán optar iniciar con el Notario Suplente en funciones de regularizador, como un nuevo asunto el cual deberá asentarse en el protocolo de este último o bien elegir un nuevo Notario, quedando en todo momento expedito de repetir cualquier tipo de acción en contra del Notario cesado por las cantidades de dinero aportadas para ello.
+
+Si por una causa judicial les son retirados a los Notarios los elementos de la función notarial, las Autoridades notariales, solicitarán y tramitarán ante la instancia competente la devolución de parte del protocolo que juzguen conveniente para que un Notario en funciones de Notario en carácter de Suplente regularizador, nombrado por las autoridades notariales en términos del artículo 35 del Reglamento de esta Ley pueda concluir los asuntos en trámite.
+
+Las autoridades notariales instrumentarán las medidas a que se refiere el artículo 8 de esta Ley y solo en caso de que el retiro del protocolo del Notario tenga inmerso una suspensión de su actividad notarial, y que no devenga de resolución por sanción de carácter administrativo, se deberá de oficio darle el trato de una suspensión en términos de esta misma ley por el tiempo que permanezca la situación jurídica que dio origen al retiro del protocolo.
 
 ###### ARTÍCULO 214.
 
@@ -2649,9 +2837,11 @@ VI. La caducidad operará de plano en cualquier etapa del procedimiento de impos
 
 Para el supuesto de revocación de patente notarial por los supuestos previstos en el artículo 244 una vez que la resolución se encuentre firme, operará el sobreseimiento respecto de las quejas que estuviesen en trámite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 250.
 
-Para los efectos de esta Ley, a la visita y al aviso que den las Autoridades y/o el Colegio a la Autoridad Competente, por violaciones a esta Ley y a otras relacionadas directamente con la función notarial, la Autoridad iniciará de oficio el procedimiento en contra del notario:
+Para los efectos de esta Ley, a la vista y al aviso que den las Autoridades y/o el Colegio a la Autoridad Competente, por violaciones a esta Ley y a otras relacionadas directamente con la función notarial, la Autoridad iniciará de oficio el procedimiento en contra del Notario:
 
 I. La autoridad recibirá la queja y procederá a registrarla en el Libro de Gobierno que al efecto exista; abrirá el expediente respectivo, notificará personalmente y correrá traslado del acuerdo de admisión junto con la queja al notario de que se trate, para que éste de contestación a la misma en un término de quince días hábiles, posteriormente ordenará la visita de inspección especial en los términos de esta Ley.
 
@@ -2739,9 +2929,11 @@ El Registro Público, el Archivo, el Colegio, y el Registro Nacional de Avisos d
 
 #### SECCIÓN I. DE LAS ACTUALIZACIONES Y CERTIFICACIONES
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 257.
 
-La actualización o certificación notarial son de carácter obligatorio, tienen por objeto la capacitación permanente de las personas titulares de las Notarías y de los aspirantes a titulares de alguna Notaría con relación a los conocimientos propios de la función notarial.
+La actualización o certificación notarial son de carácter obligatorio, tienen por objeto la capacitación permanente y constante de los Titulares de una Notaría, Notarios Auxiliares, Notarios Suplentes y de los aspirantes a titulares de alguna Notaría con relación a los conocimientos propios de la función notarial.
 
 ###### ARTÍCULO 258.
 
@@ -3288,3 +3480,11 @@ P.O. 1 DE JULIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR VIRTUD DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas contrarias o que se opongan al presente Decreto.
