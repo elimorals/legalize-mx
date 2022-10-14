@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2022-06-10"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -39,9 +39,11 @@ Artículo Único. Se expide la Ley de Fomento a la Micro, Pequeña y Mediana Emp
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de observancia general e interés público, y tiene por objeto promover la productividad y el empleo en el Estado y sus municipios a través del fomento a la creación, desarrollo, expansión y sustentabilidad de las micro, pequeñas y medianas empresas, sin menoscabo de lo dispuesto por las leyes federales de la materia.
+La presente Ley es de observancia general e interés público, y tiene por objeto promover la productividad y el empleo en el Estado y sus municipios a través del fomento a la creación, desarrollo, expansión y sustentabilidad de las micro, pequeñas y medianas empresas, así como de los emprendimientos realizados por personas físicas, sin menoscabo de lo dispuesto por las leyes federales de la materia.
 
 ###### Artículo 2.
 
@@ -85,9 +87,13 @@ XIV. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, de 
 
 XV. Organizaciones Empresariales: Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; los Sindicatos de Patrones, así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-XV Bis. Premio: El Premio Estatal del Emprendedor;
+XV. Bis. Personas físicas o emprendedores: aquellas que no hayan constituido una persona moral, pero estén dadas de alta ante las autoridades tributarias para desarrollar su actividad empresarial o giro de manera directa.
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XV. Bis 1.... (SIC)
 
 XVI. Red Estatal de Incubadoras: A la integración de una Red Estatal de Incubadoras de nuevas empresas, con el fin de apoyar el desarrollo de las MIPYMES, con enfoque prioritario a los proyectos de mayor valor agregado, innovación y contenido tecnológico;
 
@@ -698,3 +704,9 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 131. SE REFORMAN LAS FRACCIONES XXII Y XIII Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 4, DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; SE REFORMA LA FRACCIÓN XXIII Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 2 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 236. SE REFORMA EL ARTÍCULO 1, LA FRACCIÓN XV BIS Y SE ADICIONA LA FRACCIÓN XV BIS 1 DEL ARTÍCULO 3, TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
