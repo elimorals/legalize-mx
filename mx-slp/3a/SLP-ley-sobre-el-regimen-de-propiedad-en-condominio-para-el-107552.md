@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-el-regimen-de-propiedad-en-condominio-para-el-107552"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-09"
-last_updated: "2018-10-01"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 9 de abril de 2015.
 
@@ -279,9 +279,11 @@ Se podrá establecer en el reglamento interno los casos en que no podrán ser ob
 
 El condómino y su arrendatario, o cualquier otro cesionario del uso, arreglarán entre sí quién deba cumplir determinadas obligaciones ante los demás condóminos, y en qué supuestos el usuario tendrá la representación en las asambleas, pero, en todo caso, el propietario será solidario de las obligaciones del usuario. Toda determinación al respecto deberá de comunicarse oportunamente al administrador para los efectos legales y administrativos que procedan.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 36.
 
-En la venta de una unidad de propiedad exclusiva que se encuentre en arrendamiento, el arrendatario tendrá el derecho de preferencia para su adquisición por un plazo de treinta días, quedando en segundo término el derecho de los otros condóminos.
+El derecho de preferencia respecto de la compra y venta de una o varias unidades de propiedad exclusiva, se sujetará a lo dispuesto en el Código Civil para el Estado de San Luis Potosí.
 
 #### Sección Tercera. De las áreas y elementos de propiedad común
 
@@ -1080,3 +1082,11 @@ P.O. 1 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0409.- SE REFORMA EL ARTÍCULO 36, DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 2134, 2135, 2136 Y 2276, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
