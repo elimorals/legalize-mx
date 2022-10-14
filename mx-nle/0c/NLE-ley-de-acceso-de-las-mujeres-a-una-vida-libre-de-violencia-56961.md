@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2022-06-14"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -287,11 +287,11 @@ Para los efectos de esta Ley y en correlación con las leyes aplicables, la viol
 
 La violencia laboral y docente, es la que se ejerce por las personas que tienen un vínculo laboral, docente o similar a éstos con la víctima, independientemente de la relación jerárquica, y consiste en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad o seguridad de la víctima, impide su desarrollo y atenta contra su derecho a la igualdad. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño; también incluye el acoso o el hostigamiento sexual.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 10.
 
-Constituye violencia laboral: la negativa ilegal a contratar a la Victima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en la Ley Federal del Trabajo, la explotación, el impedimento u omisión a las mujeres de ejercer el período de lactancia de dos reposos extraordinarios por día, de media hora cada uno y hasta por seis meses previsto en la Ley y todo tipo de discriminación por su género.
+Constituye violencia laboral: la negativa ilegal a contratar a la Victima o a respetar su permanencia o condiciones generales de trabajo; así como la percepción de un salario menor en el desempeño de un trabajo igual, en puesto, jornada y condiciones de eficiencia, en un mismo centro de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en la Ley Federal del Trabajo, la explotación, el impedimento u omisión a las mujeres de ejercer el período de lactancia de dos reposos extraordinarios por día, de media hora cada uno y hasta por seis meses previsto en la Ley y todo tipo de discriminación por su género.
 
 ###### Artículo 11.
 
@@ -1015,9 +1015,21 @@ XXIV. Impulsar reformas, medidas legislativas y programas para el cumplimiento d
 
 XXV. Desarrollar conforme a la disponibilidad presupuestaria los programas específicos para el cumplimiento de la presente Ley;
 
-XXVI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-XXVII. Las demás aplicables a la materia, que le concedan las leyes u otros ordenamientos jurídicos.
+XXVI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XXVII. Impulsar programas que promuevan la igualdad salarial entre mujeres y hombres, y eviten todo tipo de discriminación laboral;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XXVIII. Coordinar y promover, en conjunto con el Sistema de Radio y Televisión de Nuevo León, espacios destinados a la difusión de servicio social a la comunidad, en materia de los protocolos y/o alertas especializados (sic) en casos de búsqueda inmediata de personas con especial énfasis en niñas, niños, adolescentes y mujeres desaparecidas o no localizadas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XXIX. Las demás aplicables a la materia, que le concedan las leyes u otros ordenamientos jurídicos.
 
 ###### Artículo 32.
 
@@ -1457,9 +1469,21 @@ X. Participar y coadyuvar en la prevención, atención y erradicación de la vio
 
 XI. Llevar a cabo, de acuerdo con el Sistema Nacional y el Sistema, programas de información a la población respecto de la violencia contra las mujeres;
 
-XII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-XIII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos jurídicos.
+XII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XIII. Impulsar y apoyar la creación de micrositios o vínculos de enlace en sus portales oficiales de internet y redes sociales oficiales, relativos a los protocolos y/o alertas especializadas en casos de búsqueda de personas con especial énfasis en niñas, niños, adolescentes y mujeres desaparecidas o no localizadas;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XIV. Procurar en la reglamentación municipal en materia de anuncios, espacios de servicio social a la comunidad, para la colocación de publicidad, sea fija o semifija, móvil o pantallas electrónicas, que difunda la información relativa a los protocolos y/o alertas especializadas en casos de búsqueda inmediata de personas, con especial énfasis en niñas, niños, adolescentes y mujeres desaparecidas o no localizadas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE OCTUBRE DE 2022)</small>
+
+XV. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2020)</small>
 
@@ -2018,3 +2042,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Fiscalía General de Justicia del Estado de Nuevo León tendrá 90 días naturales a partir de la entrada en vigor del presente Decreto, para emitir los lineamientos del Protocolo Alba, apegándose a lo establecido en los diversos instrumentos nacionales e internacionales.
 
 TERCERO. La Fiscalía General de Justicia del Estado de Nuevo León tendrá un plazo máximo de 120 días naturales a partir de la entrada en vigor del presente Decreto, como plazo máximo para instalar el Grupo Técnico de Colaboración del Protocolo Alba.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 235. SE REFORMA EL ARTÍCULO 10; LAS FRACCIONES XXVI Y XXVII AL ARTÍCULO 31; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 43; Y POR ADICIÓN LA FRACCIÓN XXVIII Y XXIX AL ARTÍCULO 31; ASIMISMO LAS FRACCIONES XIV Y XV DEL ARTÍCULO 43; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los Municipios del Estado, cuentan con un lapso de 120 días a partir de su publicación para adecuar las presentes reformas en sus reglamentos respectivos, o en su caso, efectuar el cumplimiento de las acciones correspondientes.
