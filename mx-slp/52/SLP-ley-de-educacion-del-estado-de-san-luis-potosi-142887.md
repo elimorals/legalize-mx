@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2022-06-20"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -115,7 +115,9 @@ Es obligación de los padres, madres, tutores o quien ejerza la patria potestad 
 
 Las autoridades educativas estatal y municipales, buscarán la equidad, la excelencia y la mejora continua en la educación, para lo cual colocarán al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
 
-Las autoridades educativas generarán las condiciones para que las poblaciones indígenas, afromexicanas, comunidades rurales o en condiciones de marginación, así como las personas con discapacidad, ejerzan el derecho a la educación apegándose a criterios de asequibilidad y adaptabilidad.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+Las autoridades educativas generarán las condiciones para que las poblaciones indígenas, afromexicanas, comunidades rurales o en condiciones de marginación, así como las personas con discapacidad, y/o grupos que requieran atención prioritaria, a fin de que ejerzan el derecho a la educación apegándose a criterios de asequibilidad y adaptabilidad.
 
 ###### ARTÍCULO 10.
 
@@ -2090,3 +2092,11 @@ P.O. 20 DE JUNIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0413.- SE REFORMA EL ARTÍCULO 9° EN SU PÁRRAFO SEGUNDO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
