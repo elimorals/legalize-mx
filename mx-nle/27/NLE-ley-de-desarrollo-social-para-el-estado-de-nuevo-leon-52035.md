@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2022-06-10"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -324,6 +324,10 @@ Son derechos para alcanzar el desarrollo social la educación, la salud, la alim
 ###### Artículo 26.
 
 De acuerdo con los principios rectores de la Política de Desarrollo Social, toda persona podrá participar y beneficiarse de los Programas de Desarrollo Social en los términos que establezca la normatividad de cada programa.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+Los programas de desarrollo social, deberán garantizar la progresividad y el ejercicio pleno de los derechos sociales.
 
 ###### Artículo 27.
 
@@ -630,3 +634,9 @@ P.O. 10 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para dar cumplimiento a las acciones emanadas del presente Decreto, estas se programarán acorde a las capacidades financieras del Gobierno del Estado tomando en cuenta el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 237. SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 26 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
