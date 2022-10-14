@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2022-04-05"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -949,13 +949,15 @@ El programa deberá ser evaluado anualmente, con base en los indicadores que el 
 
 ### CAPÍTULO I. ÓRDENES DE PROTECCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 34.
 
-Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades competentes, inmediatamente que conozcan de hechos presuntamente constitutivos de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o, a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
 
-Son autoridades competentes, conforme al ámbito de atribuciones que establecen los ordenamientos que los regulan:
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 34 BIS. Son autoridades competentes, conforme al ámbito de atribuciones que establecen los ordenamientos que los regulan:
 
 I. El Ministerio Público;
 
@@ -969,49 +971,173 @@ V. El Consejo Estatal Electoral y de Participación Ciudadana, y
 
 VI. El Tribunal Electoral del Estado.
 
-Los jueces auxiliares podrán dictar en auxilio de las víctimas, las medidas de emergencia y preventivas que establece esta Ley, de manera provisional, debiendo dar aviso de las mismas de manera inmediata al Juez menor, familiar o de primera instancia más cercano a su comunidad, a efecto de que ratifique o revoque las mismas.
+Los jueces auxiliares podrán dictar en auxilio de las víctimas, las órdenes de naturaleza jurisdiccional que establece esta Ley, de manera provisional, debiendo dar aviso de las mismas de manera inmediata al Juez menor, familiar o de primera instancia más cercano a su comunidad, a efecto de que ratifique o revoque las mismas.
 
 ###### ARTÍCULO 35.
 
 Corresponde a las autoridades jurisdiccionales competentes, valorar las órdenes y la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior, con motivo de los juicios o procesos que, en materia civil, familiar, penal o electoral, se estén ventilando en los tribunales competentes.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Poder Judicial de la Federación; el Instituto Nacional Electoral; los organismos públicos locales electorales; y los órganos jurisdiccionales electorales locales, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 36.
 
 Las órdenes de protección que consagra la presente Ley son personalísimas e intransferibles, y podrán ser:
 
-I. De emergencia;
+I. Administrativas: las emitidas por el Ministerio Público, y las autoridades administrativas;
 
-II. Preventivas;
+II. De naturaleza jurisdiccional: las emitidas por los órganos encargados de la administración de justicia, y
 
-III. De naturaleza civil, familiar, y
+III. De naturaleza político-electoral.
 
-IV. De naturaleza político-electoral.
+Las órdenes de protección tendrán una duración de hasta sesenta días, prorrogables por treinta días más, o por el tiempo que dure la investigación, o prolongarse hasta que cese la situación de riesgo para la víctima.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2022)</small>
+Deberán expedirse de manera inmediata, o a más tardar dentro de las cuatro horas siguientes al conocimiento de los hechos que las generan.
 
-Las órdenes de protección de emergencia y preventivas tendrán una duración máxima de sesenta días naturales, prorrogables hasta por treinta días más, y deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan. Trascurrida su vigencia, se podrán expedir inmediatamente nuevas órdenes, en caso de no cesar la violencia, para salvaguardar la vida, integridad, libertad y seguridad de las mujeres y niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2022)</small>
+Trascurrida su vigencia se podrán expedir inmediatamente nuevas órdenes en caso de no cesar la violencia, para salvaguardar la vida, integridad, libertad y seguridad de las mujeres y niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
 
 Todas las órdenes que se dicten atenderán a los principios de protección de la víctima; necesidad y proporcionalidad; confidencialidad; oportunidad y eficacia; accesibilidad; integralidad; utilidad procesal; y pro persona; deberán ser fundadas y motivadas, y una vez dictadas se dará, en todo caso, a la parte a la que se notifica, garantía de audiencia.
 
-El Ministerio Público, bajo su más estricta responsabilidad, ordenará la aplicación de las medidas de protección de emergencia y preventivas idóneas, cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido.
+El Ministerio Público bajo su más estricta responsabilidad, ordenará la aplicación de las medidas de protección de emergencia y preventivas idóneas, cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Cuando hubiere desaparecido la causa que dio origen a la medida expedida, el imputado, su defensor o, en su caso, el Ministerio Público, podrán solicitar al Juez de Control que la deje sin efectos. Lo anterior atendiendo a lo señalado en el Código Nacional de Procedimientos Penales.
 
-Cuando hubiere desaparecido la causa que dio origen a la medida decretada, el imputado, su defensor o, en su caso, el Ministerio Público, podrán solicitar al Juez de Control que la deje sin efectos. Lo anterior atendiendo a lo señalado en el Código Nacional de Procedimientos Penales.
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 36 BIS. Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito en contra de una mujer o una niña, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubiere sido detenida en flagrancia.
+
+Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 36 TER. Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+
+I. De protección: considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
+
+II. De necesidad y proporcionalidad: las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+
+III. De confidencialidad: toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
+
+IV. De oportunidad y eficacia: las órdenes deben ser oportunas, específicas, adecuadas, y eficientes para la protección de la víctima; deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+
+V. De accesibilidad: se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
+
+VI. De integralidad: el otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, y
+
+VII. Pro persona: para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de dieciocho años de edad.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 36 QUÁTER. Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+La autoridad deberá informar con lenguaje claro, sencillo y empático a la mujer víctima de violencia, sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+
+La autoridad deberá de realizar la medición y valoración del riesgo; la valoración médica en caso de requerirse; así como la valoración psicológica.
+
+Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, expedirán las órdenes de protección correspondientes.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 36 QUINQUE. Para la emisión de las órdenes de protección, las autoridades administrativas, el Ministerio Público, o el órgano jurisdiccional competente, tomará en consideración:
+
+I. Los hechos relatados por la mujer o la niña en situación de violencia, considerando su desarrollo evolutivo y cognitivo o por quien lo haga del conocimiento a la autoridad;
+
+II. Las peticiones explícitas de la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognitivo o de quien informe sobre el hecho;
+
+III. Las medidas que ella considere oportunas, una vez informada de cuáles pueden ser esas medidas. Tratándose de niñas, las medidas siempre serán determinadas conforme al principio del interés superior de la niñez;
+
+IV. Las necesidades que se deriven de su situación particular, analizando su identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, así como cualquier otra condición relevante;
+
+V. La persistencia del riesgo, aún después de su salida de un refugio temporal, y
+
+VI. La manifestación de actos o hechos previos de cualquier tipo de violencia que hubiese sufrido la víctima.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 36 SEXTIES. Las autoridades administrativas, el Ministerio Público, o el órgano jurisdiccional competente, deberá ordenar la protección necesaria, considerando:
+
+I. Los principios establecidos en esta Ley;
+
+II. Que sea adecuada, oportuna y proporcional;
+
+III. Que los sistemas normativos propios basados en usos y costumbres, no impidan la garantía de los derechos de las mujeres reconocidos en la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales ratificados por el Estado Mexicano;
+
+IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión o cualquiera otra que las coloque en una situación de mayor riesgo, y
+
+V. Las necesidades expresadas por la mujer o niña solicitante.
+
+Las autoridades administrativas, el Ministerio Público, y los órganos jurisdiccionales, determinarán las órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
+
+Las autoridades administrativas, el Ministerio Público, o el órgano jurisdiccional, que emita las órdenes de protección, realizarán las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegarán de los recursos materiales y humanos necesarios; asimismo, podrán solicitar la colaboración de las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 36 SEPTIES. Las órdenes de protección podrán solicitarse en el Estado, con independencia de que no hubieren ocurrido los hechos en el mismo, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud.
+
+Para efectos del párrafo anterior, las autoridades administrativas, la Fiscalía General del Estado, y el Poder Judicial del Estado, celebrarán convenios de colaboración con las entidades públicas, para garantizar la efectiva protección de las mujeres y las niñas conforme a los principios rectores de las órdenes de protección.
+
+Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada veinticuatro horas. A partir del séptimo día se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo, y el avance en la carpeta de investigación.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 37.
 
-Son órdenes de protección de emergencia, las siguientes:
+Las órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
 
 I. Auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
 
-II. El depósito de la víctima y de sus hijas e hijos, en un refugio o domicilio que garantice su integridad personal, en cuyo caso deberá contarse con la anuencia de la persona que asuma tal responsabilidad;
+II. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario, en las diferentes diligencias para garantizar su seguridad y protección;
 
-III. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes, o cualquier otro que frecuente la víctima, y
+III. Custodia personal y/o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Fiscalía General del Estado, según corresponda. En caso de que no exista disponibilidad podrá apoyarse en las instituciones de seguridad pública de los tres órdenes de gobierno. Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
 
-IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
+IV. Proporcionar a las mujeres, o las niñas en situación de violencia y, en su caso, a sus hijas e hijos, o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como, casas de emergencia, refugios y albergues, que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta Ley;
 
-Tratándose de mujeres embarazadas, con alguna discapacidad, niñas, niños y adolescentes, mujeres migrantes, indígenas o integrantes de un grupo étnico, o en cualquiera otra situación de vulnerabilidad o desventaja que requiera atención especializada, se deberán de tomar inmediatamente las medidas conducentes para asegurar su integridad física y psicológica.
+V. Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza, y los trámites oficiales que requiera, entre otros;
+
+VI. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual, a las instituciones que integran el sistema nacional de salud para que provean gratuitamente y de manera inmediata los servicios de:
+
+a) Aplicación de antirretrovirales de profilaxis post-exposición.
+
+b) Anticoncepción de emergencia.
+
+c) Interrupción legal y voluntaria del embarazo en el caso de violación;
+
+VII. Proveer los recursos y herramientas necesarias para garantizar la seguridad y acondicionamiento de vivienda;
+
+VIII. Los demás gastos indispensables, dentro o fuera del país, para la mujer y, en su caso, sus hijas e hijos, mientras se encuentre imposibilitada de obtenerlos por sus propios medios;
+
+IX. Facilitar a la mujer o la niña y, en su caso, a sus hijas e hijos en situación de violencia, la reubicación de domicilio, residencia, o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderará su interés superior, siendo la remisión a instituciones públicas de acogida la última opción y por el menor tiempo posible;
+
+X. Prohibición inmediata a la persona agresora de acercarse al domicilio y al de familiares y amistades, al lugar de trabajo, de estudios, o cualquier otro que frecuente la víctima directa o víctimas indirectas;
+
+XI. Reingreso de la mujer y, en su caso, a sus hijas e hijos en situación de violencia al domicilio, una vez que se salvaguarde su seguridad, en caso de que así lo desee.
+
+Para el cumplimiento de esta orden se garantizará el acompañamiento, del Ministerio Público y del personal de la policía ministerial, a la mujer en situación de violencia para acceder al domicilio, lugar de trabajo u otro, con el propósito de recuperar sus pertenencias personales y las de sus hijas e hijos; en cualquier caso podrá ser acompañada de una persona de su confianza.
+
+En caso de que no haya personal ministerial disponible, el acompañamiento será a cargo de personal de cualquier institución de seguridad pública que garantice la seguridad de la mujer;
+
+XII. Protección policíaca permanente a la mujer, o la niña, así como a su familia;
+
+XIII. Protección por seguridad privada, en los casos que sea necesario;
+
+XIV. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
+
+XV. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora, del régimen de visitas y convivencia con sus descendientes;
+
+XVI. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad a la mujer en situación de violencia, o niña y, en su caso, a sus hijas e hijos;
+
+XVII. La prohibición a la persona agresora de comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas;
+
+XVIII. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y, en su caso, sus hijas e hijos u otras víctimas indirectas o testigos de los hechos, o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho; tratándose de mujeres embarazadas, con alguna discapacidad, niñas, niños y adolescentes, mujeres migrantes, indígenas o integrantes de un grupo étnico, o en cualquiera otra situación de vulnerabilidad o desventaja que requiera atención especializada, se deberán de tomar inmediatamente las medidas conducentes para asegurar su integridad física y psicológica;
+
+XIX. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña en situación de violencia;
+
+XX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, y
+
+XXI. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
+
+Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público, o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
 
 ###### ARTÍCULO 38.
 
@@ -1033,21 +1159,39 @@ VII. Ordenar la entrega a la víctima de documentos solicitados en tiempo y form
 
 VIII. Ordenar la entrega de recursos a los que la víctima tenga derecho, cuando éstos no le hayan sido ministrados en tiempo y forma sin causa justificada.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 39.
 
-Son órdenes de protección preventivas las siguientes:
+Las órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
 
-I. Retención y aseguramiento de armas de propiedad o en posesión del agresor;
+I. La reserva del domicilio, lugar de trabajo, profesión, o cualquier otro dato que permita que la persona agresora o su familia puedan ubicar a la víctima;
 
-II. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+II. El uso de medios o dispositivos electrónicos para impedir el contacto directo de la persona agresora con la víctima;
 
-III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
+III. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y, en su caso, de sus hijas e hijos;
 
-IV. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la Víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
+IV. Medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas, prohibición absoluta de transmitir datos e imágenes que permitan su identificación;
 
-V. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos, y
+V. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal de la mujer, o la niña en situación de violencia, así como acercarse al lugar de trabajo, estudio o cualquier sitio que frecuente;
 
-VI. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas; o en privadas.
+VI. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
+
+VII. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo y, en su caso, el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
+
+VIII. Obligación alimentaria provisional e inmediata;
+
+IX. La notificación al superior jerárquico inmediato, cuando la persona agresora sea servidora pública, y en el ejercicio de su cargo, comisión o servicio, se le involucre en un hecho de violencia contra las mujeres.
+
+Esta orden será emitida en todos los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea corporaciones públicas o privadas;
+
+X. La obligación de la persona agresora de presentarse periódicamente ante el órgano jurisdiccional que emitió la orden;
+
+XI. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
+
+XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza, y
+
+XIII. Las demás que se requieran para brindar una protección a la víctima.
 
 ###### ARTÍCULO 40.
 
@@ -1063,31 +1207,63 @@ III. Reubicar al agresor en otras áreas de trabajo cuando esto sea posible, y d
 
 Cuando se tenga conocimiento de la posible comisión de actos de violencia de género por funcionarios de primer nivel, al interior de las instituciones públicas de Gobierno del Estado, la Secretaría General de Gobierno, llevará a cabo las acciones que resulten necesarias para procurar la protección provisional de la víctima, hasta en tanto se resuelva el procedimiento de sanción correspondiente.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 41.
 
-Son órdenes de protección cautelares de naturaleza civil, las siguientes:
+Las autoridades competentes deberán de establecer los lineamientos básicos para la implementación de las órdenes de protección, en coordinación con las instancias responsables de atenderlas e implementarlas.
 
-I. La desocupación inmediata por el agresor del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo;
-
-II. El reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad;
-
-III. La posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
-
-IV. La suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
-
-V. La prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y, en cualquier caso, cuando se trate de bienes de la sociedad conyugal;
-
-VI. El embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias, y
-
-VII. La obligación de proporcionar alimentos de manera provisional e inmediata.
-
-Estas órdenes serán tramitadas ante los juzgados de lo familiar, y en los lugares en que no los hubiere, ante los juzgados civiles de primera instancia, mixtos o menores.
+En los casos donde presuntamente exista conexidad con delitos de competencia estatal, las órdenes de protección deberán ser otorgadas por la Fiscalía General del Estado y, en caso de que lo amerite, por una jueza o juez del Estado.
 
 ###### ARTÍCULO 42.
 
 Las personas menores de dieciocho años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes.
 
 Atendiendo al interés superior de la niñez, las órdenes de protección preventivas podrán ser solicitadas por cualquier persona que tenga conocimiento del riesgo en que éste se encuentre; y, en caso de estar en riesgo su integridad física o psicológica, la autoridad las emitirá de oficio.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 42 BIS. La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso, de las víctimas indirectas.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 42 TER. Las órdenes de protección deberán ser evaluadas para modificarse o adecuarse; en caso de que al momento de evaluar la efectividad de la orden se detecten irregularidades o incumplimiento, se sustanciará la comunicación correspondiente a los órganos internos de control de las dependencias involucradas.
+
+Previo a la suspensión de las órdenes de protección expedidas, las autoridades administrativas, ministeriales, y órganos jurisdiccionales, deberán asegurarse bajo su más estricta responsabilidad, que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación de riesgo y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 42 QUÁTER. En los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea de corporaciones públicas o privadas, la autoridad deberá retirar el arma de cargo o cualquier otra que tenga registrada.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 42 QUINQUE. Al momento de dictarse sentencia, las autoridades judiciales competentes determinarán las órdenes de protección y medidas similares que deban dictarse de manera temporal, o durante el tiempo que dure la sentencia.
+
+Las órdenes de protección podrán ser dictadas de oficio o a solicitud de la mujer en situación de violencia, de su representante legal o del Ministerio Público; tratándose de niñas víctimas de un delito, la autoridad judicial se encuentra obligada a hacer la determinación del interés superior de la niñez, a fin de dictar órdenes de protección, aun cuando no exista una solicitud.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 42 SEXTIES. Por ninguna circunstancia las autoridades administrativas, el Ministerio Público, o el órgano jurisdiccional, notificará de sus actuaciones a la persona agresora, a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad.
+
+Las autoridades que intervengan en el cumplimiento de una orden, también serán las responsables de informar a la autoridad ordenadora sobre su implementación de forma periódica.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 42 SEPTIES. A ninguna mujer o niña, y sus hijas e hijos en situación de violencia, que solicite orden de protección, se les podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 42 OCTIES. Las órdenes de protección deberán ser registradas en el Banco Estatal de Datos sobre la Violencia contra las Mujeres.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 42 NONIES. La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes, deberá solicitar las órdenes de protección a las autoridades correspondientes de manera oficiosa, de conformidad con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 42 DECIES. En caso de que la persona agresora incumpla la orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
+
+Asimismo, se reforzarán las acciones que se contemplaron en un primer momento, con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
 
 ### CAPÍTULO II. ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
@@ -1402,3 +1578,17 @@ P.O. 5 DE ABRIL DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0397.- SE REFORMAN LOS ARTÍCULOS 34, 36, 37, 39 Y 41; Y ADICIONA LOS Y A LOS ARTÍCULOS 34 BIS, 35 EL PÁRRAFO SEGUNDO, 36 BIS, 36 TER, 36 QUÁTER, 36 QUINQUE, 36 SEXTIES, 36 SEPTIES, 42 BIS, 42 TER, 42 QUÁTER, 42 QUINQUE, 42 SEXTIES, 42 SEPTIES, 42 OCTIES, 42 NONIES Y 42 DECIES, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado; y el Poder Judicial del Estado, deberán elaborar y aplicar, en un plazo no mayor a ciento veinte días contados a partir de la publicación de este Decreto, un plan de capacitación a todo el personal administrativo, ministerial, y judicial, sobre el contenido de este Decreto.
+
+CUARTO. Las acciones contenidas en el presente Decreto y que concurren con las medidas establecidas en la Ley de Atención a Víctimas para el Estado de San Luis Potosí, se implementarán conforme a lo establecido en ese Ordenamiento.
+
+QUINTO. Las obligaciones que se generen con motivo de la entrada en vigor de este Decreto, se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
