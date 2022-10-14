@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2022-06-20"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1715,9 +1715,11 @@ El consentimiento dado por escrito a la institución privada autorizada deberá 
 
 En el caso del último párrafo del artículo que antecede, la autoridad judicial podrá dispensar la ratificación del consentimiento de las personas que debieran otorgarlo, si por alguna razón existiere grave dificultad para recabarlo y ésto resulte en perjuicio del menor.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 258.
 
-No procederá la adopción tratándose de personas que tengan vinculo de parentesco consanguíneo con el menor o algún tipo de discapacidad, salvo que los solicitantes sean los ascendientes de éstos.
+Procederá la adopción tratándose de personas que tengan vínculo de parentesco consanguíneo con la o el menor, debiendo privilegiar en todo momento el interés superior del niño, y que sea constatado así por autoridad judicial.
 
 ###### ARTICULO 259.
 
@@ -3676,3 +3678,11 @@ P.O. 20 DE JUNIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0401.- SE REFORMA EL ARTÍCULO 258, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
