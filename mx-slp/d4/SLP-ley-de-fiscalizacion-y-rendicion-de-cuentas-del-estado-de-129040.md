@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2022-09-09"
+last_updated: "2022-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -889,7 +889,7 @@ Al frente de la Auditoría Superior del Estado estará su titular, persona que s
 
 I. Ser de nacionalidad mexicana y en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener cuando menos treinta y cinco años el día de su nombramiento, y no más de setenta y tres años de edad;
+II. (DEROGADA, P.O. 14 DE OCTUBRE DE 2022)
 
 III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión. Sin perjuicio de lo anterior, si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama, inhabilitará para el cargo cualquiera que haya sido la pena;
 
@@ -1488,6 +1488,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 9 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0375.- SE REFORMA EL ARTÍCULO 77 EN SU FRACCIÓN XXX Y ADICIONA AL MISMO ARTÍCULO 77 UNA FRACCIÓN, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0411.- SE DEROGA DEL ARTÍCULO 71, LA FRACCIÓN II, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
