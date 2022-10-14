@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-comision-consultiva-para-la-112732"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-02-18"
-last_updated: "2016-02-18"
+last_updated: "2022-10-14"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112732&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-02-09"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA PARA LA SEGURIDAD Y LA SALUD EN EL TRABAJO DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA PARA LA SEGURIDAD Y LA SALUD EN EL TRABAJO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 14 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA PARA LA SEGURIDAD Y LA SALUD EN EL TRABAJO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE OCTUBRE DE 2022 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el jueves 18 de febrero de 2016.
 
@@ -311,3 +313,15 @@ SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO.
 (Firma)
 
 AMALIA DOLORES GARCÍA MEDINA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA PARA LA SEGURIDAD Y LA SALUD EN EL TRABAJO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Reglamento surtirá sus efectos a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se deja sin efectos el Reglamento Interior de la Comisión Consultiva para la Seguridad y la Salud en el Trabajo del Distrito Federal, publicado el 18 de febrero de 2016, en la Gaceta Oficial de la Ciudad de México No. 13, así como todas aquellas disposiciones relativas a la integración y funcionamiento de la Comisión que contravengan al presente.
