@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-fisica-y-deporte-del-estado-de-san-luis-124929"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-14"
-last_updated: "2021-11-18"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de diciembre de 2017.
 
@@ -849,7 +849,13 @@ V. Participar en competencias, juegos o eventos deportivos reglamentarios u ofic
 
 VI. Desempeñar cargos de directivos siempre y cuando hayan sido electos en asamblea de clubes, ligas, comités municipales, asociaciones o federaciones deportivas;
 
-VII. Tener igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen en el Estado y municipios de San Luis Potosí, sin distinción de, origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, preferencias sexuales o estado civil, y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+VII. Tener igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen en el Estado y municipios de San Luis Potosí, sin distinción de, origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, preferencias sexuales o estado civil;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+VII Bis. Tener, en el caso de los menores de edad para poder asistir a cualquier competencia el derecho de recibir por parte del Estado, asesoría jurídica necesaria por conducto de sus padres y/o tutores, para la celebración de cualquier acto jurídico relacionado con actividades deportivas, y
 
 VIII. Los demás que le señale esta Ley y su Reglamento.
 
@@ -1468,5 +1474,13 @@ P.O. 18 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0011.- SE REFORMA (SIC) LOS ARTÍCULOS 125 Y 126 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0398.- SE REFORMA EL ARTÍCULO 66 EN SU FRACCIÓN VII Y ADICIONA AL MISMO ARTÍCULO 66 LA FRACCIÓN VII BIS, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
