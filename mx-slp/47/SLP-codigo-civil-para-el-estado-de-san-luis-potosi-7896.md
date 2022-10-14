@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2021-06-22"
+last_updated: "2022-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -134,6 +134,10 @@ El acuerdo de los progenitores respecto al orden de los apellidos, deberá mante
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2017)</small>
 
 En caso de que no exista acuerdo respecto del orden de los apellidos, se asentará en el acta el primer apellido del padre, seguido del primer apellido de la madre.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+El nombre propio en ningún caso podrá formarse con palabras, signos, siglas, o símbolos, que atenten contra la dignidad y pleno desarrollo integral de la persona a registrar.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -7771,11 +7775,19 @@ ART. 2132.- Puede pactarse que la cosa comprada no se venda a determinada person
 
 ART. 2133.- Queda prohibida la venta con pacto de retroventa, así como la promesa de venta de un bien raíz que haya sido objeto de una compra-venta entre los mismos contratantes.
 
-ART. 2134.- Puede estipularse que el vendedor goce del derecho de preferencia por el tanto, para el caso de que el comprador quisiere vender la cosa que fué objeto del contrato de compra-venta.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
 
-ART. 2135.- El vendedor está obligado a ejercer su derecho de preferencia, dentro de tres días, si la cosa fuere mueble, después que el comprador le hubiere hecho saber la oferta que tenga por ella, bajo pena de perder su derecho si en ese tiempo no lo ejerciere. Si la cosa fuere inmueble, tendrá el término de diez días para ejercer el derecho, bajo la misma pena. En ambos casos está obligado a pagar el precio que el comprador ofreciere, y si no lo pudiere satisfacer, quedará sin efecto el pacto de preferencia.
+ART. 2134.- Puede estipularse que el vendedor goce del derecho de preferencia por el tanto, para el caso de que el comprador quisiere vender el bien que fue objeto del contrato de compraventa.
 
-ART. 2136.- Debe hacerse saber de una manera fehaciente, al que goza del derecho de preferencia, lo que ofrezcan por la cosa, y si ésta se vendiere sin dar ese aviso, la venta es válida; pero el vendedor responderá de los daños y perjuicios causados.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ART. 2135.- El vendedor está obligado a ejercer su derecho de preferencia, dentro de ocho días, si el bien fuere mueble, después que el comprador le hubiere hecho saber la oferta que tenga por ella, bajo pena de perder su derecho si en ese tiempo no lo ejerciere. Si el bien fuere inmueble, tendrá el término de quince días para ejercer el derecho, bajo la misma pena.
+
+En ambos casos está obligado a pagar el precio que el comprador ofreciere, y si no lo pudiere satisfacer, quedará sin efecto el pacto de preferencia.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ART. 2136.- Debe hacerse saber de una manera fehaciente, al que goza del derecho de preferencia, el precio y condiciones que ofrezcan por el bien, y si éste se vendiere sin dar ese aviso, la venta es válida; pero el vendedor responderá de los daños y perjuicios causados.
 
 ART. 2137.- Si se ha concedido un plazo para pagar el precio, el que tiene el derecho de preferencia no puede prevalerse de este término si no dá las seguridades necesarias de que pagará el precio al expirar el plazo.
 
@@ -8191,7 +8203,11 @@ ART. 2275.- Si la misma cosa se ha dado en arrendamiento separadamente a dos o m
 
 Si el arrendamiento debe ser inscrito en el Registro Público de la Propiedad, sólo vale el inscrito.
 
-ART. 2276.- Si los contratos de arrendamiento que hubieren terminado por expiración del plazo, cuando el arrendatario se encuentre al corriente en el pago de las rentas, tendrá derecho a que en igualdad de condiciones se le prefiera a otro interesado en el nuevo arrendamiento de la finca. Al efecto el arrendador notificará en forma fehaciente al arrendatario las condiciones del nuevo arrendamiento.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2022)</small>
+
+ART. 2276.- En los arrendamientos que hayan durado más de tres años, tiene el arrendatario derecho, si está al corriente en el pago de las rentas, a que en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento del inmueble.
+
+El arrendador notificará en forma fehaciente al arrendatario las condiciones del nuevo arrendamiento.
 
 ### CAPITULO IV. Del Arrendamiento de Fincas Urbanas
 
@@ -10600,3 +10616,19 @@ P.O. 22 DE JUNIO DE 2021.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0404.- SE ADICIONA AL ARTÍCULO 19, EL PÁRRAFO QUINTO, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0409.- SE REFORMA EL ARTÍCULO 36, DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 2134, 2135, 2136 Y 2276, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
