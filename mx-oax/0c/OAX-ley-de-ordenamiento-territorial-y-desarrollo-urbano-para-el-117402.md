@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2022-09-03"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -117,9 +117,9 @@ III. Las acciones de fundación, crecimiento, conservación, reubicación y mejo
 
 IV. El fomento, impulso y ejecución de las acciones u obras necesarias para la introducción, ejecución, ampliación, prolongación, integración, funcionamiento o mantenimiento de la Infraestructura para la movilidad urbana sustentable, hidráulica, sanitaria, de energía, y comunicaciones, para el cumplimiento o ejecución de los programas de ordenamiento territorial y de desarrollo urbano;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-V. Las acciones u obras necesarias para la dotación, construcción, conservación o mantenimiento del equipamiento administrativo, educativo, de salud, asistenciales, de recreación y abasto, de carácter público, para el cumplimiento o ejecución de los programas de ordenamiento territorial y de desarrollo urbano;
+V. Las políticas, planes, acciones u obras necesarias para la dotación, construcción, conservación o mantenimiento del equipamiento administrativo, educativo, de salud, asistenciales, de recreación, de abasto e infraestructura turística, de carácter público, para el cumplimiento o ejecución de los programas de ordenamiento territorial y de desarrollo urbano.
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -517,15 +517,19 @@ XXVI. Proponer y ejecutar acciones para prevenir y mitigar el riesgo de los asen
 
 XXVII. Formular y ejecutar acciones específicas de promoción y protección a los espacios públicos, debiendo asegurarse, previamente a la expedición de las autorizaciones para el uso, edificación o aprovechamiento urbano, del cumplimiento de las normas para uso de suelo y custodia del Espacio público, en particular, las afectaciones y Destinos para la construcción de infraestructura vial, equipamientos y otros servicios de carácter urbano y metropolitano de carácter público;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-XXVIII. Dotar a la cabecera municipal, Agencias, Núcleos Rurales, colonias y comunidades de su jurisdicción; de cámaras de video vigilancia, botones de pánico y altavoces en las vías públicas aledañas a escuelas, parques públicos, mercados, centros de servicios financieros, rutas de transporte, centros de servicios estratégicos, puntos de incidencia delictiva y lugares de mayor afluencia;
+XXVIII. Celebrar convenios en coordinación con las dependencias respectivas del gobierno federal y estatal, se procurará instalar códigos de respuesta rápida o QR que puedan ser escaneada por los usuarios en la infraestructura física en equipamiento y servicios urbanos incluyendo las relativas a movilidad y la accesibilidad universal;
 
-XXIX. Conservar los expedientes y brindar acceso a la información en materia de Ordenamiento territorial, Desarrollo urbano y demás procedimientos relacionados, su ejecución y evaluación, ya sea de forma física, electrónica o a través de sitios web;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-XXX. Recibir y dar el trámite correspondiente a las denuncias ciudadanas, así como promover observatorios ciudadanos, y
+XXIX. Dotar a la cabecera municipal, Agencias, Núcleos Rurales, colonias y comunidades de su jurisdicción; de cámaras de vídeo vigilancia, botones de pánico y altavoces en las vías públicas aledañas a escuelas, parques públicos, mercados, centros de servicios financieros, rutas de transporte, centro de servicios estratégicos, puntos de incidencia delictiva y lugares de mayor afluencia;
 
-XXXI. Las demás que le otorguen la presente Ley, su Reglamento y demás disposiciones jurídicas en la materia.
+XXX. Conservar los expedientes y brindar acceso a la información en materia de Ordenamiento territorial, Desarrollo urbano y demás procedimientos relacionados, su ejecución y evaluación, ya sea de forma física, electrónica o a través de sitios web;
+
+XXXI. Recibir y dar el trámite correspondiente a las denuncias ciudadanas, así como promover observatorios ciudadanos, y
+
+XXXII. Las demás que le otorguen la presente Ley, su Reglamento y demás disposiciones jurídicas en la materia.
 
 ## TÍTULO SEGUNDO.. DEL ORDENAMIENTO TERRITORIAL Y EL DESARROLLO URBANO
 
@@ -3504,6 +3508,14 @@ SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del H. Congr
 P.O. 3 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 663.- MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 198 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 689.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 8; Y SE ADICIONA LA FRACCIÓN XVIII, RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 8 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3; Y SE ADICIONA LA FRACCIÓN XXVIII, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 8 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
