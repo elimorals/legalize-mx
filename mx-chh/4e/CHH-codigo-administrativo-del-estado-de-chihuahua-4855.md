@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2021-12-18"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -689,13 +689,21 @@ XI.- Conceder un día al año, con goce de sueldo, a las trabajadoras y trabajad
 
 XII.- Otorgar horarios flexibles, reubicación temporal, o bien, autorizar la realización de sus labores fuera del lugar donde preste sus servicios, previa solicitud de quien se encuentre en tratamiento oncológico, sin que ello afecte su salario.
 
-(ADICIONADA, P.O. 5 DE FEBRERO DE 2020) (F. DE E., P.O. 15 DE FEBRERO DE 2020)
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-XIII.- Conceder permisos o licencias, con goce de sueldo, para acudir a citas médicas para el tratamiento de cáncer de sus hijas, hijos o cónyuge, en su caso; el tratamiento destinado al alivio del dolor y cuidados paliativos, con base en la constancia expedida por la institución pública o privada de salud, que precisará las características de la atención requerida y el tiempo que ampare dicho documento.
+XIII. Conceder permisos o licencias, con goce de sueldo, para acudir a citas médicas para el tratamiento de cáncer de sus hijas, hijos o cónyuge, en su caso; el tratamiento destinado al alivio del dolor y cuidados paliativos, previa entrega de la constancia expedida por la institución pública o privada de salud, que precisará las características de la atención requerida y el tiempo que ampare dicho documento.
 
 (ADICIONADO, P.O. 5 DE FEBRERO DE 2020) (F. DE E., P.O. 15 DE FEBRERO DE 2020)
 
 Para efectos de las fracciones XI, XII y XIII de este artículo, la institución pública o privada de salud, expedirá una constancia u otros documentos que justifiquen la realización de exámenes o tratamientos de cáncer. Así mismo, la información proporcionada se manejará de forma reservada o confidencial en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública, y la Ley de Protección de Datos Personales, ambos ordenamientos jurídicos del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+Las disposiciones contenidas en la fracción XIII del presente artículo, son aplicables para padres, madres o tutores, de las niñas, niños o adolescentes diagnosticados con cáncer de cualquier tipo.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+La autorización de los permisos o licencias a que se refieren las fracciones XI, XII y XIII del presente artículo, deberá expedirse por el área de recursos humanos que corresponda, o bien, por quien ocupe la titularidad del departamento al que se encuentre adscrita la persona que deba recibirlo, a más tardar el día hábil siguiente a la fecha de su solicitud.
 
 ###### ARTICULO 106.
 
@@ -11124,3 +11132,11 @@ Las y los servidores públicos que pasen a formar parte de otra área o dependen
 ###### ARTÍCULO UNDÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0294/2022 I P.O., MEDIANTE EL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 105 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
