@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-de-medios-de-impugnacion-en-materia-89316"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2021-11-20"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto de 2012.
 
@@ -1687,9 +1687,11 @@ a) Al recurrente personalmente siempre y cuando haya señalado domicilio en la c
 
 b) Al Congreso del Estado y a la autoridad responsable, la notificación se hará mediante oficio, acompañado de copia certificada de la sentencia. Esta documentación se entregará el mismo día en que se haya dictado la sentencia, en su domicilio.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2022)</small>
+
 # LIBRO SÉPTIMO
 
-Del Juicio para Dirimir los Conflictos o Diferencias Laborales entre el Instituto Estatal Electoral y de Participación Ciudadana o el Tribunal del Poder Judicial del Estado y sus Servidores
+Del Juicio para Dirimir los Conflictos o Diferencias Laborales entre el Instituto Estatal Electoral y de Participación Ciudadana o el Tribunal Electoral del Estado y sus Servidores
 
 ## TÍTULO ÚNICO. De las Reglas Especiales
 
@@ -1886,3 +1888,11 @@ P.O. 20 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 686.- MEDIANTE EL CUAL REFORMA LA DENOMINACIÓN DEL LIBRO SÉPTIMO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
