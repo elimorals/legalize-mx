@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2021-11-20"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -341,13 +341,17 @@ XV. Establecer los mecanismos necesarios y pertinentes para la simplificación a
 
 XVI. Fomentar el turismo accesible y sostenible, así como una cultura de hospitalidad turística entre la población;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-XVII. Instalar la señalética de los atractivos turísticos con los qe (sic) cuenta el municipio, alineada a los estándares y disposiciones legales aplicables dentro de su jurisdicción, y,
+XVII. Instalar la señalética de los atractivos turísticos con los que cuenta el municipio, alineada a los estándares y disposiciones legales aplicables dentro de su jurisdicción;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+XVIII. Celebrar convenios con las dependencias y entidades del gobierno federal y estatal, así como con ayuntamientos y los particulares que ostenten derecho de propiedad o administración de los inmuebles de interés turístico en el estado para impulsar la instalación de códigos de respuesta rápida o QR en la infraestructura física exterior de los atractivos turísticos dentro de su jurisdicción con el fin de difundir información turística, cultural e histórica.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE AGOSTO DE 2019)</small>
 
-XVIII. Las demás previstas en este y otros ordenamientos.
+XIX. Las demás previstas en este y otros ordenamientos.
 
 ### CAPÍTULO TERCERO
 
@@ -1262,3 +1266,11 @@ P.O. 20 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 689.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 8; Y SE ADICIONA LA FRACCIÓN XVIII, RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 8 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3; Y SE ADICIONA LA FRACCIÓN XXVIII, RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 8 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
