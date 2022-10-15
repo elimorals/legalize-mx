@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2022-08-20"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -1343,9 +1343,17 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud;
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental y emocional, salud bucal, educación sexual, planificación familiar, riesgos de embarazos tempranos y riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-IV.- Prevenir a las personas, sobre todo a quienes se desempeñen como cabeza de familia, respecto de los efectos negativos que tienen el abandono, la violencia intrafamiliar y el maltrato a los menores.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental y emocional, salud bucal, educación sexual, planificación familiar, riesgos de embarazos tempranos y riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+IV.- Prevenir a las personas, sobre todo a quienes se desempeñen como cabeza de familia, respecto de los efectos negativos que tienen el abandono, la violencia intrafamiliar y el maltrato a los menores; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+V.- Fomentar la cultura de la donación voluntaria y altruista de sangre, a través de la implementación de campañas, actividades educativas, de investigación y de difusión masiva por parte de las autoridades sanitarias, en coordinación con las autoridades educativas.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3978,3 +3986,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Ejecutivo del Estado contará con 180 días naturales posteriores a la entrada en vigor del presente Decreto para instalar el Consejo Estatal para la Prevención de Accidentes.
 
 CUARTO. La Secretaría de Salud del Estado de Oaxaca deberá emitir las Reglas de Operación del Consejo Estatal para la Prevención de Accidentes a más tardar 30 días naturales posteriores a su instalación.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 688.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 94; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 94 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
