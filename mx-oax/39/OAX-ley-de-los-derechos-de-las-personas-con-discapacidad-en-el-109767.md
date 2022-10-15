@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2022-05-21"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -311,11 +311,11 @@ III. Proporcionar información y asesoría de servicios y programas sociales y l
 
 ### CAPÍTULO IV. DERECHO A LA EDUCACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 17.
 
-El Instituto Estatal de Educación Pública de Oaxaca, la Coordinación General de Educación Media Superior, Superior Ciencia y Tecnología y las universidades públicas y privadas en el Estado garantizarán el derecho a la educación y el acceso a personas con discapacidad, prohibiéndose cualquier forma de discriminación en los planteles, centros educativos, centros de atención infantil o del personal docente o administrativo. Para tales efectos, realizarán las siguientes acciones:
+Las instituciones encargadas de la educación pública y privada en el Estado de Oaxaca garantizarán el derecho a la educación y el acceso a personas con discapacidad, prohibiéndose cualquier forma de discriminación en planteles, centros educativos, centros de atención infantil, y centros con servicios de educación especial o del personal docente o administrativo. Para tales efectos, realizarán las siguientes acciones:
 
 I. Diseñar, ejecutar, implementar y evaluar un sistema de educación inclusiva en todos los niveles educativos, que garantice la educación significativa de las personas con discapacidad en igualdad de condiciones con las demás personas.
 
@@ -437,13 +437,19 @@ Se reconoce a las personas con discapacidad el derecho al trabajo en igualdad de
 
 Garantizar las condiciones para que el trabajo sea de libre elección en mercados y entornos laborales abiertos, inclusivos y accesibles a las personas con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 28.
 
-Corresponde a la Secretaría del Trabajo y a las autoridades municipales, en el ámbito de sus competencias:
+Corresponde al Titular del Poder Ejecutivo del Estado, a través de la dependencia encargada del fomento al empleo, cualquiera que sea su denominación y a las autoridades municipales, en el ámbito de sus competencias:
 
 I. Promover el derecho al trabajo y empleo de las personas con discapacidad en igualdad de oportunidades, que les otorgue certeza en su desarrollo personal, social y laboral;
 
 II. Garantizar los derechos laborales de las personas con discapacidad, prohibiendo cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral, promoción profesional y asegurar condiciones de trabajo accesibles, seguras y saludables, incluida la protección contra el acoso;
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+Las personas con discapacidad, aptitudes sobresalientes, talentos específicos o en otras condiciones, que se hayan formado académicamente en alguno de los centros de servicios de educación especial, tendrán reconocimiento institucional y oficial para el ejercicio de su actividad dentro del ámbito social y laboral.
 
 III. Diseñar, ejecutar y evaluar políticas públicas para la inclusión laboral de las personas con discapacidad, en el sector público o privado;
 
@@ -1120,5 +1126,13 @@ P.O. 21 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 539.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y III; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 41 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 672.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 17, EL PRIMER PÁRRAFO DEL ARTÍCULO 28; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 28 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
