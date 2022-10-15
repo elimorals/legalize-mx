@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2022-05-07"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -5049,9 +5049,9 @@ Artículo 297
 
 4.- Los partidos políticos locales que hubieran obtenido su registro con fecha posterior a la última elección, tendrán derecho al financiamiento público conforme a las reglas establecidas en la Ley General de Partidos Políticos.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-5.- Cada partido político deberá destinar hasta el tres por ciento del financiamiento anual que le corresponda, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, además de ello deberán contar con un Protocolo interno para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en la vida política.
+5.- Cada partido político deberá destinar entre el tres y el cinco por ciento del financiamiento anual que le corresponda, para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, además de ello deberán contar con un Protocolo interno para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en la vida política.
 
 #### SECCIÓN CUARTA. DE LA FISCALIZACIÓN DE LOS PARTIDOS POLÍTICOS
 
@@ -6316,3 +6316,11 @@ P.O. 7 DE MAYO DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor el día 06 de junio de 2022.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 687.- MEDIANTE EL CUAL REFORMA EL NUMERAL 5 DEL ARTÍCULO 297 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
