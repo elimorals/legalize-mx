@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-atencion-y-proteccion-a-personas-con-la-117223"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-30"
-last_updated: "2016-09-30"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 30 de septiembre de 2016.
 
@@ -335,9 +335,13 @@ TRANSITORIOS:
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-SEGUNDO. El Titular del Poder Ejecutivo expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a diez meses a partir de la entrada en vigor del presente Decreto.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-TERCERO. La Comisión Intersecretarial habrá de sesionar dentro de los treinta días siguientes a la entrada en vigor del Reglamento de la presente Ley.
+SEGUNDO. El Titular del Poder Ejecutivo expedirá el Reglamento de la presente Ley en un plazo no mayor a ocho meses a partir de la entrada en vigor del presente Decreto.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+TERCERO. La Comisión Intersecretarial se deberá instalar dentro de los 180 días posteriores a la entrada en vigor del presente Decreto. La Comisión Intersecretarial habrá de sesionar dentro de los treinta días siguientes a la entrada en vigor del Reglamento de la presente Ley.
 
 CUARTO. La Comisión Intersecretarial en un plazo que no exceda de treinta días siguientes a su primera sesión, deberá de proponer las políticas públicas y programas a ejecutarse por las autoridades estatales, de conformidad con lo que dispone la Ley General y acorde con los programas y acciones implementados por las autoridades federales.
 
@@ -392,3 +396,13 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.
 Tlalixtac de Cabrera, Centro, Oax., 11 de julio del 2016.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 676.- MEDIANTE EL CUAL SE REFORMAN LOS ARTICULOS TRANSITORIOS SEGUNDO Y TERCERO DEL DECRETO 1988 APROBADO POR LA SEXAGÉSIMA SEGUNDA LEGISLATURA CONSTITUCIONAL DEL ESTADO EL 07 DE JULIO DE 2016, POR EL QUE SE EXPIDIÓ LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
