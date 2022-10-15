@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2022-10-08"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -439,9 +439,11 @@ A continuación, el Presidente tomará protesta a los demás Diputados integrant
 
 “¿PROTESTAN CUMPLIR Y HACER CUMPLIR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO LES HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA UNIÓN Y DEL ESTADO?”. LOS DIPUTADOS ELECTOS RESPONDERÁN, CON EL BRAZO DERECHO EXTENDIDO: “¡SI PROTESTO!”. EL PRESIDENTE, A SU VEZ, CONTESTARÁ: “SI NO LO HACEN ASÍ, QUE LA NACIÓN Y EL PUEBLO DE COLIMA SE LOS DEMANDE”;
 
-III. El Presidente puesto de pie, al igual que los demás Diputados y el público asistente, pronunciará las siguientes palabras: “SE DECLARA LEGITIMA Y SOLEMNEMENTE INSTALADA LA (su número) LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA”; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-IV. Una vez declarada la instalación formal de la Legislatura, el Presidente procederá a citar a sesión solemne a celebrarse ese mismo día para recibir el informe de gobierno por escrito que presente el Gobernador o Gobernadora del Estado en términos de lo previsto por la Constitución del Estado, esta Ley y el Reglamento.
+III. El Presidente puesto de pie, al igual que los demás Diputados y el público asistente, pronunciará las siguientes palabras: “SE DECLARA LEGÍTIMA Y SOLEMNEMENTE INSTALADA LA (su número) LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA”; y
+
+IV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2022)
 
 ###### Artículo 35.
 
@@ -455,9 +457,13 @@ En este supuesto, la Mesa Directiva expedirá de inmediato el decreto que convoq
 
 El Secretario General será el responsable de notificar a los Diputados propietarios y suplentes faltantes los escritos a que se refiere el presente artículo. Será aplicable, en lo conducente, el Código de Procedimientos Civiles del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 36.
 
-El Gobernador o Gobernadora del Estado presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la Entidad y el cumplimiento del Plan Estatal de Desarrollo, el 1° de octubre de cada año, con motivo de la apertura de sesiones ordinarias del primer periodo de cada año de ejercicio del Congreso, en términos de lo dispuesto por el artículo 31 de la Constitución del Estado y el Reglamento.
+La Gobernadora o el Gobernador del Estado, en el mes de noviembre de cada año, presentará ante el Congreso del Estado un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la entidad y el cumplimiento del Plan Estatal de Desarrollo. El informe tendrá lugar en sesión solemne a la que asistirán la Presidenta o Presidente del Supremo Tribunal de Justicia y las y los integrantes de la Legislatura, en la sede del Poder Legislativo. En el último año de la Administración Pública Estatal, la presentación del informe tendrá lugar en el mes de octubre.
+
+Para lo anterior, la Gobernadora o el Gobernador deberá enviar a la Mesa Directiva del Congreso del Estado la propuesta de fecha para la celebración de la referida sesión solemne. Una vez recibida la propuesta, la Mesa Directiva, a través de su Presidencia, deberá integrarla en la programación de sesiones, y realizar la citación correspondiente para su celebración.
 
 ### CAPÍTULO II. DE LA MESA DIRECTIVA
 
@@ -703,7 +709,9 @@ X. Impulsar la conformación de acuerdos relacionados con el contenido de las ag
 
 XI. Impulsar el trabajo de las Comisiones del Congreso para la elaboración y el cumplimiento de sus funciones;
 
-XII. Elaborar el anteproyecto del presupuesto anual de egresos del Poder Legislativo, en coordinación con la Comisión de Presupuesto y Cuenta Pública, y presentarlo al Pleno para su aprobación;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+XII. Elaborar el anteproyecto del presupuesto anual de egresos del Poder Legislativo, en coordinación con la Comisión de Presupuesto y Disciplina Financiera, y presentarlo al Pleno para su aprobación;
 
 XIII. Ejercer, por conducto de la Secretaría General, el presupuesto de egresos del Poder Legislativo e informar por escrito trimestralmente al Pleno del Congreso;
 
@@ -1528,3 +1536,15 @@ P.O. 8 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 151.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y DE SU REGLAMENTO".]
 
 ÚNICO. El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del H. Congreso del Estado de Colima y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 167.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, ADEMÁS, SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SE ADICIONA EL ARTÍCULO 16 BIS A LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, en lo que respecta a los artículos primero y segundo de la reforma de la Ley Orgánica del Poder Legislativo del Estado de Colima y su Reglamento, entrará en vigor al día de su aprobación por el Congreso del Estado, debiéndose publicar en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, en lo que respecta a su artículo tercero de la reforma a la Ley Orgánica del Poder Ejecutivo y de la Administración Pública del Estado de Colima, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
