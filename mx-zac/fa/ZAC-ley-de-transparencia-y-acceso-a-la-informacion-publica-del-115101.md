@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1151
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-02"
-last_updated: "2021-04-10"
+last_updated: "2022-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el jueves 2 de junio de 2016.
 
@@ -1617,19 +1617,51 @@ En el proceso de entrega-recepción, con motivo de la conclusión del mandato de
 
 #### Sección Cuarta. De la Integración y funcionamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 123.
 
-El Instituto se integra por tres Comisionados. Para su nombramiento, la Legislatura del Estado, previa realización de una amplia consulta a la sociedad, a propuesta de los grupos parlamentarios, con el voto de las dos terceras partes de los miembros presentes, nombrará al Comisionado que deba cubrir la vacante, siguiendo el procedimiento establecido en esta Ley.
+El Instituto se integra por tres Comisionados. Para su nombramiento, la Legislatura del Estado, previa realización de una amplia consulta a la sociedad, con el voto de las dos terceras partes de los miembros presentes, nombrará al Comisionado que deba cubrir la vacante, siguiendo el procedimiento establecido en esta Ley.
 
 En los procedimientos para la selección de los Comisionados se deberá garantizar la transparencia, independencia y participación de la sociedad.
 
 En la conformación del Instituto se procurará la equidad de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 124.
 
-El nombramiento a que se refiere el artículo anterior, podrá ser objetado por el Gobernador del Estado en un plazo de diez días hábiles. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de comisionado la persona nombrada por la Legislatura del Estado.
+El nombramiento a que se refiere el artículo anterior, podrá ser objetado por el Gobernador del Estado en un plazo de cinco días hábiles. Si el Gobernador no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de comisionado la persona nombrada por la Legislatura del Estado.
 
 En caso de que el Gobernador del Estado objetara el nombramiento, la Legislatura del Estado nombrará una nueva propuesta, en los términos del párrafo anterior, pero con una votación de las tres quintas partes de los miembros presentes. Si este segundo nombramiento fuera objetado, la Legislatura del Estado, en los términos del párrafo anterior, con la votación de las tres quintas partes de los miembros presentes, designará al Comisionado que ocupará la vacante.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+Artículo 124 bis. El proceso de designación se realizará mediante consulta pública, conforme a lo siguiente:
+
+I. La Comisión Legislativa de Transparencia y Protección de Datos Personales emitirá convocatoria pública abierta, en la que invitará a los interesados en postularse, organizaciones de la sociedad civil, organizaciones no gubernamentales, centros de investigación, colegios, barras y asociaciones de profesionistas, instituciones académicas y medios de comunicación, para que presenten sus postulaciones de aspirantes a ocupar el cargo, siempre que cumplan con los requisitos señalados por esta Ley.
+
+La convocatoria deberá emitirse en un plazo no mayor a sesenta días anteriores a la fecha en que concluya su periodo la Comisionada o Comisionado que dejará su puesto; garantizando la imparcialidad, independencia y transparencia del proceso;
+
+II. En la convocatoria se establecerán, por lo menos:
+
+a) Requisitos para ser Comisionada o Comisionado, conforme el artículo 126 de esta ley;
+
+b) Las bases generales del procedimiento de consulta pública y elección;
+
+c) Fecha para publicar la lista oficial de los aspirantes al cargo;
+
+d) Día y hora para efectuar la comparecencia pública de los aspirantes, y
+
+e) Fecha para la emisión del dictamen de idoneidad;
+
+III. Se deberá hacer pública la lista de los aspirantes;
+
+IV. Se deberá hacer público el calendario o cronograma de las audiencias públicas, precisando el lugar y fecha de celebración, para promover la participación ciudadana; el día de la comparecencia pública, se dará el uso de la voz a cada aspirante a efecto de conocer los motivos, perfiles, méritos y la propuesta de un programa mínimo de trabajo, ponderando en todo momento la máxima publicidad en el proceso, difundiendo a través de los medios electrónicos de la Legislatura las audiencias, y
+
+V. Con base en la evaluación de los perfiles, la Comisión de Transparencia y Protección de Datos Personales presentará su dictamen ante el Pleno, con la propuesta de los candidatos idóneos para ser elegidos por el Pleno como Comisionados.
+
+Una vez designados los Comisionados, éstos deberán rendir protesta ante el Pleno del Poder Legislativo del Estado.
 
 ###### Artículo 125.
 
@@ -1651,7 +1683,9 @@ V. Gozar de buena reputación y no haber sido condenado por delito que amerite p
 
 VI. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del artículo 130 de la Constitución Federal; y
 
-VII. No haberse desempeñado como dirigente de partido político o asociación política, ni candidato a cargo de elección popular, por lo menos un año antes del día de la designación.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+VII. No haberse desempeñado como dirigente de partido político o asociación política, ni candidato a cargo de elección popular, ni desempeñar empleo, cargo o comisión en la Federación, en los gobiernos de entidades federativas o en los municipios del estado, por lo menos un año antes del día de la designación.
 
 ###### Artículo 127.
 
@@ -2806,3 +2840,11 @@ P.O. 10 DE ABRIL DE 2021.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 445.- SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, EN MATERIA DE DESIGNACIÓN DE COMISIONADOS DEL IZAI”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Dentro del plazo de ciento ochenta días naturales, el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, deberá expedir y publicar en el Periódico Oficial, Órgano de Gobierno del Estado, las modificaciones que deriven del presente Decreto en el Reglamento Interior y los demás reglamentos, manuales, lineamientos y acuerdos para el adecuado funcionamiento del Instituto.
