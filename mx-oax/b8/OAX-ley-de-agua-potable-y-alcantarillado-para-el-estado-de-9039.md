@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2020-10-31"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -99,6 +99,10 @@ XII.- La corresponsabilidad de la administración pública estatal y municipal y
 
 XIII.- La creación de un programa de información del sistema.
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+XIV.- La participación de la administración pública estatal y municipal, con el Gobierno Federal, en el desarrollo de las estrategias regionales para la administración del agua, encaminadas a prevenir y reducir los efectos de la sequía.
+
 ###### ARTÍCULO 5o.
 
 La administración descentralizada estatal y municipal, participarán en el Sistema Estatal de Agua Potable y Alcantarillado, en los términos previstos en la presente ley.
@@ -133,7 +137,11 @@ IV.- Concursar cuando sea necesario y lo soliciten los Municipios del Estado en 
 
 V.- Vigilar que la prestación y el funcionamiento de los servicios se realicen eficaz y adecuadamente; y
 
-VI.- Las demás que esta u otras Leyes le confieran.
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+VI.- La coordinación con el Gobierno Federal y las autoridades municipales, en el desarrollo de las estrategias regionales para la administración del agua, encaminadas a prevenir y reducir los efectos de la sequía; y
+
+VII.- Las demás que esta u otras Leyes le confieran.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
 
@@ -1784,3 +1792,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. El presente Decreto aplicará a todos los comités Municipales que manejan agua potable, alcantarillado y descargas de aguas residuales.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 679.- MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN XIV AL ARTÍCULO 4 Y LA FRACCIÓN VI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 7 DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
