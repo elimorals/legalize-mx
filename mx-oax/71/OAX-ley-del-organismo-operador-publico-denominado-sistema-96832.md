@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-organismo-operador-publico-denominado-sistema-96832"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2013-11-28"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -95,9 +95,23 @@ XIV. Establecer las políticas, planes, proyectos y acciones permanentes para el
 
 XV. Convenir con las dependencias y entidades de los gobiernos, Federal, Estatal y Municipal, así como también con organismos del sector social y privado para la construcción, rehabilitación, sustitución, modernización y mantenimiento de las redes de agua potable y alcantarillado, plantas potabilizadoras y tratamiento de aguas residuales y demás que tengan relación directa o indirecta con su objeto;
 
-XVI. Autorizar permisos de descargas de aguas residuales en puntos autorizados dentro de la infraestructura que forme parte del patrimonio del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-XVII. Las demás que señale el Reglamento de la presente Ley y las disposiciones normativas de la materia.
+XVI. Autorizar permisos de descargas de aguas residuales en puntos autorizados dentro de la infraestructura que forme parte del patrimonio del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+XVII. Implementar un sistema de reporte de tapas de alcantarillado faltante o en mal estado, fugas o escasez de agua, funcionamiento inadecuado de medidores, desperdicio de agua, así como de drenaje obstruido, que opere las 24 horas y los siete días de la semana;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+XVIII. Señalizar y acondicionar de manera inmediata, las áreas afectadas por tapas de alcantarillado faltante o en mal estado, con el fin de evitar accidentes, una vez que tenga conocimiento de la falta o mal estado de las mismas;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+XIX. Sustituir o rehabilitar de manera inmediata las tapas de alcantarillado faltante o en mal estado; y
+
+XX. Las demás que señale el Reglamento de la presente Ley y las disposiciones normativas de la materia.
 
 ###### ARTÍCULO 4.
 
@@ -398,3 +412,13 @@ LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 Al C.
 
 NOTA: Las presentes firmas corresponden al Decreto número 2070, con el que la Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, aprueba la Ley del Organismo Operador Público Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 680.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVI; Y SE ADICIONAN LAS FRACCIONES XVII, XVIII Y XIX RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 3 DE LA LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca Decreto.
