@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2022-08-06"
+last_updated: "2022-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -83,13 +83,17 @@ I. Garantizar un enfoque integral, transversal y con perspectiva de derechos hum
 
 II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia; y
+III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia;
 
-> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-IV. Establecer medidas tendentes a prevenir y erradicar los embarazos en niñas y adolescentes con respeto a los derechos humanos y a los derechos sexuales y reproductivos; así como brindar una educación integral oportuna en salud sexual y reproductiva.
+IV. Llevar a cabo acciones para prevenir y erradicar las uniones en personas menores de edad, promoviendo cambios culturales y de estereotipo de género que tengan por objeto garantizar el pleno desarrollo integral de niñas, niños y adolescentes; y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+V. Establecer medidas tendientes a prevenir y erradicar los embarazos en niñas y adolescentes con respeto a los derechos humanos y a los derechos sexuales y reproductivos; así como brindar una educación integral oportuna en salud sexual y reproductiva.
 
 El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
 
@@ -125,7 +129,9 @@ VII. Certificado de Idoneidad: El documento expedido por el Consejo Técnico de 
 
 VIII. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
-IX. Discriminación: Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: origen étnico o nacional, color de piel, cultura, sexo, género, edad, discapacidades, condición social, económica, de salud o jurídica, religión, apariencia física, características genéticas, situación migratoria, embarazo, lengua, opiniones, preferencias sexuales, identidad o filiación política, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+IX. Discriminación: Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: origen étnico o nacional, color de piel, cultura, sexo, orientación sexual, características sexuales, identidad y expresión de género, edad, discapacidades, condición social, económica, de salud o jurídica, religión, apariencia física, características genéticas, situación migratoria, embarazo, lengua, opiniones, identidad o filiación política, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
 
 X. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
@@ -2622,6 +2628,22 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 6 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 640.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XXV Y XXVI, Y SE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 13 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 674.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN IV, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 675.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IX DEL ARTÍCULO 6 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
