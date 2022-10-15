@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-forestal-sustentable-del-estado-de-oaxaca-952
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-11"
-last_updated: "2021-11-13"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de junio de 2013.
 
@@ -155,9 +155,9 @@ XXI. Regular el aprovechamiento y uso de los recursos forestales maderables y no
 
 XXII. Promover y consolidar las áreas forestales permanentes, impulsando su delimitación y manejo sostenible, evitando el cambio de uso del suelo con fines agropecuarios o de cualquier otra índole que afecte su permanencia y potencialidad;
 
-(REUBICADA [N. DE E. ANTES FRACCIÓN XXI], P.O. 13 DE NOVIEMBRE DE 2021)
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-XXIII. Instrumentar mecanismos de coordinación, concertación y cooperación con las instituciones federales del sector forestal para regular la prevención, combate y control de incendios forestales, así como de las plagas y enfermedades forestales;
+XXIII. Instrumentar mecanismos de coordinación, concertación y cooperación con las instituciones federales del sector forestal para regular la prevención, combate y control de incendios forestales y agentes disruptivos que afecten a los ecosistemas forestales y la cobertura forestal;
 
 (REUBICADA [N. DE E. ANTES FRACCIÓN XXII], P.O. 13 DE NOVIEMBRE DE 2021)
 
@@ -215,181 +215,193 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Agro silvicultura: Es la modalidad de uso de la tierra que combina las actividades agropecuarias con el cultivo simultáneo de vegetación forestal;
 
-II. Aprovechamiento forestal: La extracción realizada en los términos de esta Ley, de los recursos forestales del medio en que se encuentren, incluyendo los maderables y los no maderables;
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-III. Áreas de conservación voluntaria: Áreas destinadas a la conservación de la biodiversidad o de otros servicios ambientales definidas y acordadas por la voluntad de sus legítimos propietarios o poseedores;
+II. Agentes disruptivos: Factores naturales o antropogénicos causantes de cambios drásticos en los ecosistemas forestales, como fuego, plagas, enfermedades o fenómenos hidrometeorológicos;
 
-IV. Áreas de Protección Forestal: Comprende los espacios forestales boscosos y de influencia de nacimientos, corrientes, cursos y cuerpos de agua, o la faja de terreno inmediata a los cuerpos de propiedad particular;
+III. Aprovechamiento forestal: La extracción realizada en los términos de esta Ley, de los recursos forestales del medio en que se encuentren, incluyendo los maderables y los no maderables;
 
-V. Áreas Forestales Permanentes: Tierras de uso común que la asamblea ejidal o comunal dedica exclusivamente a la actividad forestal sustentable;
+IV. Áreas de conservación voluntaria: Áreas destinadas a la conservación de la biodiversidad o de otros servicios ambientales definidas y acordadas por la voluntad de sus legítimos propietarios o poseedores;
 
-VI. Áreas naturales protegidas: Zonas del territorio nacional y aquellas sobre las que la Nación ejerce soberanía y jurisdicción en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieran de ser preservadas y restauradas;
+V. Áreas de Protección Forestal: Comprende los espacios forestales boscosos y de influencia de nacimientos, corrientes, cursos y cuerpos de agua, o la faja de terreno inmediata a los cuerpos de propiedad particular;
 
-VII. Asociación de Silvicultores: Organismo de opinión, consulta, gestión y asesoría en aspectos forestales integrado por productores forestales de una región;
+VI. Áreas Forestales Permanentes: Tierras de uso común que la asamblea ejidal o comunal dedica exclusivamente a la actividad forestal sustentable;
 
-VIII. Auditoría Ambiental: La evaluación que realiza el personal autorizado para promover e inducir el cumplimiento de lo establecido en los programas de manejo, estudios técnicos en ejecución y demás actos previstos en la Ley y otras disposiciones legales aplicables, respecto a los impactos negativos y las medidas de mitigación para garantizar que los beneficios que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales se mantengan;
+VII. Áreas naturales protegidas: Zonas del territorio nacional y aquellas sobre las que la Nación ejerce soberanía y jurisdicción en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieran de ser preservadas y restauradas;
 
-IX. Auditoría Forestal: Es un instrumento para promover e inducir al cumplimiento de las disposiciones legales forestales y ambientales de los programas de manejo;
+VIII. Asociación de Silvicultores: Organismo de opinión, consulta, gestión y asesoría en aspectos forestales integrado por productores forestales de una región;
 
-X. Auditoría Técnica Preventiva: La evaluación que realiza el personal autorizado para promover e inducir el cumplimiento de lo establecido en los programas de manejo, estudios técnicos en ejecución y demás actos previstos en la Ley y otras disposiciones legales aplicables, respecto al aprovechamiento forestal;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-XI. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
+IX. Auditoría Ambiental: La evaluación que realiza el personal autorizado para promover e inducir el cumplimiento de lo establecido en los programas de manejo, estudios técnicos en ejecución y además (sic) actos previstos en la Ley y otras disposiciones legales aplicables, respecto a los impactos negativos y las medidas de mitigación para garantizar que los beneficios que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales se mantengan;
 
-XII. Cambio Climático: Todo cambio que ocurre en el clima a través del tiempo resultado de la variabilidad natural o de las actividades humanas;
+X. Auditoría Forestal: Es un instrumento para promover e inducir al cumplimiento de las disposiciones legales forestales y ambientales de los programas de manejo;
 
-XIII. Cambio de uso del suelo en terreno forestal: La remoción total o parcial de la vegetación de los terrenos forestales para destinarlos a actividades no forestales;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-XIV. Centro de almacenamiento: Lugar donde se depositan temporalmente materias primas forestales para su conservación y posterior traslado;
+XI. Auditoría Técnica Preventiva: La evaluación que realiza el personal autorizado para promover e inducir el cumplimiento de lo establecido en los programas de manejo, estudios técnicos en ejecución y además (sic) actos previstos en la Ley y otras disposiciones legales aplicables, respecto al aprovechamiento forestal;
 
-XV. Centro de transformación: Instalación industrial o artesanal, fija o móvil, donde por procesos físicos, mecánicos o químicos se elaboran productos derivados de materias primas forestales;
+XII. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
 
-XVI. Certificación Forestal: acreditación, mediante un documento del manejo sustentable de los recursos naturales de un predio, para facilitar el acceso de sus productos al mercado nacional e internacional;
+XIII. Cambio Climático: Todo cambio que ocurre en el clima a través del tiempo resultado de la variabilidad natural o de las actividades humanas;
 
-XVII. Certificación Laboral: acreditación, mediante un documento de la capacidad para desarrollar una función productiva, según los requerimientos de sus empleadores;
+XIV. Cambio de uso del suelo en terreno forestal: La remoción total o parcial de la vegetación de los terrenos forestales para destinarlos a actividades no forestales;
 
-XVIII. Colonia: lugar donde se establece una población;
+XV. Centro de almacenamiento: Lugar donde se depositan temporalmente materias primas forestales para su conservación y posterior traslado;
 
-XIX. Comunidad: Conjunto de personas vinculadas por características e intereses comunes, asentadas en un territorio;
+XVI. Centro de transformación: Instalación industrial o artesanal, fija o móvil, donde por procesos físicos, mecánicos o químicos se elaboran productos derivados de materias primas forestales;
 
-XX. CONAFOR: La Comisión Nacional Forestal;
+XVII. Certificación Forestal: acreditación, mediante un documento del manejo sustentable de los recursos naturales de un predio, para facilitar el acceso de sus productos al mercado nacional e internacional;
 
-XXI. Consejo: El Consejo Estatal Forestal;
+XVIII. Certificación Laboral: acreditación, mediante un documento de la capacidad para desarrollar una función productiva, según los requerimientos de sus empleadores;
 
-XXII. Consejo de Vigilancia: Consejo de Vigilancia de las Comunidades y Ejidos a que se refiere la Ley Agraria;
+XIX. Colonia: lugar donde se establece una población;
 
-XXIII. Consejo Promotor Forestal: Órgano de carácter consultivo y de asesoramiento en las materias que le señale esta ley y en las que se le solicite su opinión;
+XX. Comunidad: Conjunto de personas vinculadas por características e intereses comunes, asentadas en un territorio;
 
-XXIV. Consejo Regional: Consejo Regional Forestal;
+XXI. CONAFOR: La Comisión Nacional Forestal;
 
-XXV. Conservación de suelos: conjunto de actividades que permiten reducir e impedir la alteración de los suelos;
+XXII. Consejo: El Consejo Estatal Forestal;
 
-XXVI. Conservación forestal: Mantener las condiciones que propician la persistencia y evolución de un Ecosistema Forestal natural o inducido, sin degradación del mismo ni pérdida de sus funciones;
+XXIII. Consejo de Vigilancia: Consejo de Vigilancia de las Comunidades y Ejidos a que se refiere la Ley Agraria.
 
-XXVII. Cuenca hidrológico-forestal: La unidad de espacio físico de planeación y desarrollo, que comprende el territorio donde se encuentran los ecosistemas forestales y donde el agua fluye por diversos cauces y converge en un cauce común, constituyendo el componente básico de la región forestal, que a su vez se divide en subcuencas y micro-cuencas;
+XXIV. Consejo Promotor Forestal: Órgano de carácter consultivo y de asesoramiento en las materias que le señale esta ley y en las que se le solicite su opinión;
 
-XXVIII. Deforestación: Pérdida de la vegetación forestal, por causas inducidas o naturales, a cualquier otra condición;
+XXV. Consejo Regional: Consejo Regional Forestal;
 
-XXIX. Degradación: Reducción del contenido de carbono en la vegetación natural, ecosistemas o suelos, debido a la intervención humana, con relación a la misma vegetación, ecosistemas o suelos, si no hubiera existido dicha intervención;
+XXVI. Conservación de suelos: conjunto de actividades que permiten reducir e impedir la alteración de los suelos;
 
-XXX. Desarrollo Forestal Sustentable: Proceso evaluable mediante criterios e indicadores de carácter ambiental, silvícola, económico y social que tienda a alcanzar una productividad óptima y sostenida de los recursos forestales sin comprometer el rendimiento e integridad de los ecosistemas forestales;
+XXVII. Conservación forestal: Mantener las condiciones que propician la persistencia y evolución de un Ecosistema Forestal natural o inducido, sin degradación del mismo ni pérdida de sus funciones;
 
-XXXI. Ecosistema Forestal: La unidad funcional básica de interacción de los recursos forestales entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+XXVIII. Cuenca hidrológico-forestal: La unidad de espacio físico de planeación y desarrollo, que comprende el territorio donde se encuentran los ecosistemas forestales y donde el agua fluye por diversos cauces y converge en un cauce común, constituyendo el componente básico de la región forestal, que a su vez se divide en subcuencas y micro-cuencas;
 
-XXXII. Ejido: Propiedad rural de carácter colectivo;
+XXIX. Deforestación: Pérdida de la vegetación forestal, por causas inducidas o naturales, a cualquier otra condición;
 
-XXXIII. El Estado: El Estado Libre y Soberano de Oaxaca;
+XXX. Degradación: Reducción del contenido de carbono en la vegetación natural, ecosistemas o suelos, debido a la intervención humana, con relación a la misma vegetación, ecosistemas o suelos, si no hubiera existido dicha intervención;
 
-XXXIV. Empresa Social Forestal: Organización productiva de comunidades o ejidos con áreas forestales permanentes y bajo Programa de Manejo Forestal, para la producción, diversificación y transformación con capacidad agraria y empresarial;
+XXXI. Desarrollo Forestal Sustentable: Proceso evaluable mediante criterios e indicadores de carácter ambiental, silvícola, económico y social que tienda a alcanzar una productividad óptima y sostenida de los recursos forestales sin comprometer el rendimiento e integridad de los ecosistemas forestales;
 
-XXXV. Estudio Regional Forestal: Instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal sustentable a corto, mediano y largo plazo en cada UMAFOR;
+XXXII. Ecosistema Forestal: La unidad funcional básica de interacción de los recursos forestales entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-XXXVI. Fideicomiso Forestal Oaxaca: Es un instrumento para fomentar, promover la conservación, incremento, aprovechamiento sustentable y restauración de los recursos forestales y sus recursos asociados;
+XXXIII. Ejido: Propiedad rural de carácter colectivo;
 
-XXXVII. Forestación: El establecimiento y desarrollo de vegetación forestal en terrenos preferentemente forestales o temporalmente forestales con propósitos de conservación, restauración o producción comercial;
+XXXIV. El Estado: El Estado Libre y Soberano de Oaxaca;
 
-XXXVIII. Germoplasma Forestal: Parte o segmento de la vegetación forestal, capaz de originar un nuevo individuo mediante la reproducción sexual a través de semillas o asexual que incluye estacas, estaquillas, yemas, hijuelos, esquejes, bulbos, meristemos, entre otros;
+XXXV. Empresa Social Forestal: Organización productiva de comunidades o ejidos con áreas forestales permanentes y bajo Programa de Manejo Forestal, para la producción, diversificación y transformación con capacidad agraria y empresarial;
 
-XXXIX. Impacto Ambiental: Modificación del ambiente ocasionada por la acción del hombre o la naturaleza;
+XXXVI. Estudio Regional Forestal: Instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal sustentable a corto, mediano y largo plazo en cada UMAFOR;
 
-XL. Incendio Forestal: Es la propagación libre y no programada del fuego sobre la vegetación en los bosques, selvas y zonas áridas y semiáridas;
+XXXVII. Fideicomiso Forestal Oaxaca: Es un instrumento para fomentar, promover la conservación, incremento, aprovechamiento sustentable y restauración de los recursos forestales y sus recursos asociados;
 
-XLI. Inventario Estatal Forestal y de suelos: Cuantificación y calificación de las especies forestales arbóreas y sus características ecológicas silvícolas, y de los suelos donde se desarrollan;
+XXXVIII. Forestación: El establecimiento y desarrollo de vegetación forestal en terrenos preferentemente forestales o temporalmente forestales con propósitos de conservación, restauración o producción comercial;
 
-XLII. La Comisión: La Comisión Estatal Forestal;
+XXXIX. Germoplasma Forestal: Parte o segmento de la vegetación forestal, capaz de originar un nuevo individuo mediante la reproducción sexual a través de semillas o asexual que incluye estacas, estaquillas, yemas, hijuelos, esquejes, bulbos, meristemos, entre otros;
 
-XLIII. Ley: Ley de Desarrollo Forestal Sustentable del Estado de Oaxaca;
+XL. Impacto Ambiental: Modificación del ambiente ocasionada por la acción del hombre o la naturaleza;
 
-XLIV. Ley General: La Ley General de Desarrollo Forestal Sustentable;
+XLI. Incendio Forestal: Es la propagación libre y no programada del fuego sobre la vegetación en los bosques, selvas y zonas áridas y semiáridas;
 
-XLV. Manejo forestal: El proceso que comprende el conjunto de acciones y procedimientos que tienen por objeto la ordenación, el cultivo, la protección, la conservación, la restauración y el aprovechamiento de los recursos y servicios ambientales de un ecosistema forestal, considerando los principios ecológicos respetando la integración funcional e interdependencia de recursos y sin que merme la capacidad productiva de los ecosistemas y recursos existentes en la misma;
+XLII. Inventario Estatal Forestal y de suelos: Cuantificación y calificación de las especies forestales arbóreas y sus características ecológicas silvícolas, y de los suelos donde se desarrollan;
 
-XLVI. Materias primas forestales: Los productos del aprovechamiento de los recursos forestales que no han sufrido procesos de transformación hasta el segundo grado;
+XLIII. La Comisión: La Comisión Estatal Forestal;
 
-XLVII. Municipio: El municipio libre es una entidad de derecho público, investido de personalidad jurídica con territorio y patrimonio propio, autónomo en su régimen interior y con libre administración de su hacienda;
+XLIV. Ley: Ley de Desarrollo Forestal Sustentable del Estado de Oaxaca;
 
-XLVIII. Núcleos agrarios: Término genérico por el cual se identifica a los núcleos ejidales o comunales, que han sido beneficiados por una resolución presidencial dotatoria o sentencia de los tribunales agrarios, a través de la cual les fueron concedidas tierras, bosques y aguas;
+XLV. Ley General: La Ley General de Desarrollo Forestal Sustentable;
 
-XLIX. Ordenación forestal: Un método de planificación e implementación de la gestión y uso del bosque para conseguir objetivos ambientales, económicos, sociales y/o culturales específicos.
+XLVI. Manejo forestal: El proceso que comprende el conjunto de acciones y procedimientos que tienen por objeto la ordenación, el cultivo, la protección, la conservación, la restauración y el aprovechamiento de los recursos y servicios ambientales de un ecosistema forestal, considerando los principios ecológicos respetando la integración funcional e interdependencia de recursos y sin que merme la capacidad productiva de los ecosistemas y recursos existentes en la misma;
 
-L. PEACC: El Programa Estatal de Acción contra el Cambio Climático;
+XLVII. Materias primas forestales: Los productos del aprovechamiento de los recursos forestales que no han sufrido procesos de transformación hasta el segundo grado;
 
-LI. Plantación forestal comercial: El establecimiento, cultivo y manejo de vegetación forestal en terrenos temporalmente forestales o preferentemente forestales, cuyo objetivo principal es la producción de materias primas forestales destinadas a su industrialización y/o comercialización;
+XLVIII. Municipio: El municipio libre es una entidad de derecho público, investido de personalidad jurídica con territorio y patrimonio propio, autónomo en su régimen interior y con libre administración de su hacienda;
 
-LII. Producto forestal maderable: El bien obtenido del resultado de un proceso de transformación de materias primas maderables, con otra denominación, nuevas características y un uso final distinto;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-LIII. Programa de manejo de plantación forestal comercial: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal relativo a la plantación forestal comercial;
+XLIX. Núcleos agrarios: Término genérico por el cual se identifica a los núcleos ejidales o comunales, que han sido beneficiados por una resolución presidencial dotatoria o sentencia de los tribunales agrarios, a través de la cual les fueron concedidas tierras, bosques y aguas.
 
-LIV. Programa de Manejo Forestal: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal sustentable;
+L. Ordenación forestal: Un método de planificación e implementación de la gestión y uso del bosque para conseguir objetivos ambientales, económicos, sociales y/o culturales específicos.
 
-LV. Promotoría Forestal: Órgano institucional que dentro de sus tareas comprendan la difusión de las políticas de desarrollo forestal y de los apoyos institucionales que sean destinados al sector; promover la organización de los productores y sectores social y privado; promover la participación activa del sector forestal en las acciones institucionales y sectoriales; procurar la oportunidad en la atención a los propietarios, poseedores y titulares de autorizaciones de aprovechamientos forestales; y cumplir con las responsabilidades que se le asignen a fin de acercar la acción pública al ámbito rural forestal;
+LI. PEACC: El Programa Estatal de Acción contra el Cambio Climático;
 
-LVI. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales: tierras, bosques, recursos minerales, agua, comunidades vegetativas y animales y recursos genéticos;
+LII. Plantación forestal comercial: El establecimiento, cultivo y manejo de vegetación forestal en terrenos temporalmente forestales o preferentemente forestales, cuyo objetivo principal es la producción de materias primas forestales destinadas a su industrialización y/o comercialización;
 
-LVII. Recursos asociados: Las especies silvestres animales y vegetales, así como el agua, que coexisten en relación de interdependencia con los recursos forestales;
+LIII. Producto forestal maderable: El bien obtenido del resultado de un proceso de transformación de materias primas maderables, con otra denominación, nuevas características y un uso final distinto;
 
-LVIII. Recursos biológicos forestales: Comprende las especies y variedades de plantas, animales y microorganismos de los ecosistemas forestales y su biodiversidad y en especial aquéllas de interés científico, biotecnológico o comercial;
+LIV. Programa de manejo de plantación forestal comercial: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal relativo a la plantación forestal comercial;
 
-LIX. Recursos forestales maderables: Los constituidos por vegetación leñosa susceptibles de aprovechamiento o uso;
+LV. Programa de Manejo Forestal: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal sustentable;
 
-LX. Recursos forestales no maderables: La parte no leñosa de la vegetación de un Ecosistema Forestal, y son susceptibles de aprovechamiento o uso, incluyendo líquenes, musgos, hongos y resinas, así como los suelos de terrenos forestales y preferentemente forestales;
+LVI. Promotoría Forestal: Órgano institucional que dentro de sus tareas comprendan la difusión de las políticas de desarrollo forestal y de los apoyos institucionales que sean destinados al sector; promover la organización de los productores y sectores social y privado; promover la participación activa del sector forestal en las acciones institucionales y sectoriales; procurar la oportunidad en la atención a los propietarios, poseedores y titulares de autorizaciones de aprovechamientos forestales; y cumplir con las responsabilidades que se le asignen a fin de acercar la acción pública al ámbito rural forestal;
 
-LXI. Recursos forestales: La vegetación de los ecosistemas forestales, sus servicios, productos y residuos, así como los suelos de los terrenos forestales y preferentemente forestales;
+LVII. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales: tierras, bosques, recursos minerales, agua, comunidades vegetativas y animales y recursos genéticos;
 
-LXII. Recursos forestales maderables: Los constituidos por vegetación leñosa susceptibles de aprovechamiento o uso;
+LVIII. Recursos asociados: Las especies silvestres animales y vegetales, así como el agua, que coexisten en relación de interdependencia con los recursos forestales;
 
-LXIII. Recursos genéticos forestales: Semillas y órganos de la vegetación forestal que existen en los diferentes ecosistemas y de los cuales dependen los factores hereditarios y la reproducción y que reciben el nombre genérico de germoplasma forestal;
+LIX. Recursos biológicos forestales: Comprende las especies y variedades de plantas, animales y microorganismos de los ecosistemas forestales y su biodiversidad y en especial aquéllas de interés científico, biotecnológico o comercial;
 
-LXIV. Reforestación: Establecimiento inducido de vegetación forestal en terrenos forestales;
+LX. Recursos forestales maderables: Los constituidos por vegetación leñosa susceptibles de aprovechamiento o uso;
 
-LXV. Registro: Registro Estatal Forestal;
+LXI. Recursos forestales no maderables: La parte no leñosa de la vegetación de un Ecosistema Forestal, y son susceptibles de aprovechamiento o uso, incluyendo líquenes, musgos, hongos y resinas, así como los suelos de terrenos forestales y preferentemente forestales;
 
-LXVI. Regeneración natural asistida: La regeneración natural asistida de bosques y/o terrenos con vegetación forestal que mediante la intervención del hombre se aumenta la capacidad de regeneración de las especies deseadas, de plantaciones destinadas a la producción como a la protección;
+LXII. Recursos forestales: La vegetación de los ecosistemas forestales, sus servicios, productos y residuos, así como los suelos de los terrenos forestales y preferentemente forestales;
 
-LXVII. Reglamento: El Reglamento de la presente Ley;
+LXIII. Recursos forestales maderables: Los constituidos por vegetación leñosa susceptibles de aprovechamiento o uso;
 
-LXVIII. Rendimiento sostenido: La producción que puede generar un área forestal en forma persistente, sin merma de su capacidad productiva;
+LXIV. Recursos genéticos forestales: Semillas y órganos de la vegetación forestal que existen en los diferentes ecosistemas y de los cuales dependen los factores hereditarios y la reproducción y que reciben el nombre genérico de germoplasma forestal;
 
-LXIX. Restauración de suelos: Conjunto de obras y prácticas para la rehabilitación de los suelos que presentan diferentes niveles de degradación;
+LXV. Reforestación: Establecimiento inducido de vegetación forestal en terrenos forestales;
 
-LXX. Restauración Forestal: El conjunto de actividades tendientes a la rehabilitación de un ecosistema forestal degradado, para recuperar parcial o totalmente las funciones originales del mismo y mantener las condiciones que propicien su persistencia y evolución;
+LXVI. Registro: Registro Estatal Forestal;
 
-LXXI. Saneamiento forestal: Las acciones técnicas encaminadas a combatir y controlar plagas y enfermedades forestales;
+LXVII. Regeneración natural asistida: La regeneración natural asistida de bosques y/o terrenos con vegetación forestal que mediante la intervención del hombre se aumenta la capacidad de regeneración de las especies deseadas, de plantaciones destinadas a la producción como a la protección;
 
-LXXII. Sanidad forestal: Lineamientos, medidas y restricciones para la detección, control y combate de plagas y enfermedades forestales;
+LXVIII. Reglamento: El Reglamento de la presente Ley;
 
-LXXIII. Secretaría: La Secretaria de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura;
+LXIX. Rendimiento sostenido: La producción que puede generar un área forestal en forma persistente, sin merma de su capacidad productiva;
 
-LXXIV. Servicios Ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+LXX. Restauración de suelos: Conjunto de obras y prácticas para la rehabilitación de los suelos que presentan diferentes niveles de degradación;
 
-LXXV. Servicios ecosistémicos: Procesos a través de los cuales la naturaleza produce resultados beneficiosos para los humanos y el resto de especies del planeta;
+LXXI. Restauración Forestal: El conjunto de actividades tendientes a la rehabilitación de un ecosistema forestal degradado, para recuperar parcial o totalmente las funciones originales del mismo y mantener las condiciones que propicien su persistencia y evolución;
 
-LXXVI. Servicios técnicos forestales: Las actividades realizadas para la planificación y ejecución de la silvicultura, el manejo forestal y la asesoría y capacitación a los propietarios o poseedores de recursos forestales para su gestión;
+LXXII. Saneamiento forestal: Las acciones técnicas encaminadas a combatir y controlar plagas y enfermedades forestales;
 
-LXXVII. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
+LXXIII. Sanidad forestal: Lineamientos, medidas y restricciones para la detección, control y combate de plagas y enfermedades forestales;
 
-LXXVIII. Silvicultura comunitaria: Cultivo del bosque con la participación social de núcleos agrarios, y cuyos beneficios coadyuvan a fortalecer sus procesos de desarrollo;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-LXXIX. Silvicultores: Personas físicas o morales que se dedican a la silvicultura;
+LXXIV. Secretaría: La Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura;
 
-LXXX. Terreno preferentemente forestal: Aquel que, en la actualidad no se encuentra cubierto por vegetación forestal, pero por sus condiciones de clima, suelo y topografía resulte más apto para el uso forestal, excluyendo aquellos ya urbanizados;
+LXXV. Servicios Ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
 
-LXXXI. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales. La consideración de terreno forestal temporal se mantendrá durante un periodo de tiempo no inferior al turno de plantación;
+LXXVI. Servicios ecosistémicos: Procesos a través de los cuales la naturaleza produce resultados beneficiosos para los humanos y el resto de especies del planeta;
 
-LXXXII. Turno: Periodo de regeneración de los recursos forestales que comprende desde su extracción hasta el momento en que éstos son susceptibles de nuevo aprovechamiento;
+LXXVII. Servicios técnicos forestales: Las actividades realizadas para la planificación y ejecución de la silvicultura, el manejo forestal y la asesoría y capacitación a los propietarios o poseedores de recursos forestales para su gestión;
 
-LXXXIII. Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
+LXXVIII. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
 
-LXXXIV. Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de las necesidades básicas en el medio rural;
+LXXIX. Silvicultura comunitaria: Cultivo del bosque con la participación social de núcleos agrarios, y cuyos beneficios coadyuvan a fortalecer sus procesos de desarrollo;
 
-LXXXV. Vegetación forestal: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural formando bosques, selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
+LXXX. Silvicultores: Personas físicas o morales que se dedican a la silvicultura;
 
-LXXXVI. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector;
+LXXXI. Terreno preferentemente forestal: Aquel que, en la actualidad no se encuentra cubierto por vegetación forestal, pero por sus condiciones de clima, suelo y topografía resulte más apto para el uso forestal, excluyendo aquellos ya urbanizados;
 
-LXXXVII. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables;
+LXXXII. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales. La consideración de terreno forestal temporal se mantendrá durante un periodo de tiempo no inferior al turno de plantación;
 
-LXXXVIII. Vivero forestal: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo; y
+LXXXIII. Turno: Periodo de regeneración de los recursos forestales que comprende desde su extracción hasta el momento en que éstos son susceptibles de nuevo aprovechamiento;
 
-LXXXIX. Zonificación Forestal: Es el instrumento en el cual se identifican, agrupan y ordenan los terrenos forestales y preferentemente forestales dentro de las cuencas, subcuencas y micro cuencas hidrológico-forestales, por funciones y subfunciones biológicas, ambientales, socioeconómicas, recreativas, protectoras y restauradoras, con fines de manejo y con el objeto de propiciar una mejor administración y contribuir al Desarrollo Forestal Sustentable.
+LXXXIV. Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
+
+LXXXV. Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de las necesidades básicas en el medio rural;
+
+LXXXVI. Vegetación forestal: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural formando bosques, selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
+
+LXXXVII. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector;
+
+LXXXVIII. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables;
+
+LXXXIX. Vivero forestal: Sitio que cuenta con un conjunto de instalaciones, equipo, herramientas e insumos, en el cual se aplican técnicas apropiadas para la producción de plántulas con talla y calidad apropiada según la especie, para su plantación en un lugar definitivo; y
+
+XC. Zonificación Forestal: Es el instrumento en el cual se identifican, agrupan y ordenan los terrenos forestales y preferentemente forestales dentro de las cuencas, subcuencas y micro cuencas hidrológico-forestales, por funciones y subfunciones biológicas, ambientales, socioeconómicas, recreativas, protectoras y restauradoras, con fines de manejo y con el objeto de propiciar una mejor administración y contribuir al Desarrollo Forestal Sustentable.
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y ADMINISTRACIÓN DEL SECTOR FORESTAL
 
@@ -1295,6 +1307,16 @@ Con la finalidad de llevar a cabo labores de restauración y conservación en la
 
 La Comisión, promoverá la formación de profesionales o técnicos, así como de empresas, con la finalidad de obtener la capacitación necesaria para certificar, evaluar y monitorear los bienes y servicios ambientales, para el otorgamiento de asesoría técnica y capacitación a los titulares de los aprovechamientos forestales en la materia.
 
+I (SIC). ...
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 678 PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2022, PÁGINA 7.]</small>
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+II. Difundir, comunicar y coordinar con los diferentes actores sociales e institucionales los mecanismos, iniciativas y acciones orientadas a la reducción de emisiones por deforestación y degradación forestal a nivel estatal.
+
+III. a la IX. ... (SIC)
+
 ###### ARTÍCULO 79.
 
 La Comisión en materia de servicios ambientales, implementará las acciones detalladas en la presente Ley, la Ley General y las que considere pertinentes.
@@ -1816,3 +1838,11 @@ P.O. 13 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 678.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN XXIII DEL ARTÍCULO 3 Y LA FRACCIÓN II DEL ARTÍCULO 78; Y SE ADICIONA LA FRACCIÓN II RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 7 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
