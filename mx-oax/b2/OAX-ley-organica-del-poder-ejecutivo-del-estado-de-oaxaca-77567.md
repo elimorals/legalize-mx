@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2022-07-30"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -69,11 +69,9 @@ II. La Administración Pública Paraestatal: Integrada por Organismos Descentral
 
 III. Los Órganos Auxiliares realizan una función diferenciada, específica y de responsabilidad directa; como Unidades Responsables, les son aplicables los sistemas de organización, comunicación, coordinación, planeación, programación, control y evaluación de actividades contemplados en esta Ley Orgánica y en específico, los reglamentos, lineamientos y demás normatividad que expidan las instancias normativas, y la que por la naturaleza de sus actividades y materia de su competencia, les sea impuesta por los diversos ordenamientos normativos.
 
-> <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-(ADICIONADO, P.O. 12 DE MARZO DE 2020) (REPUBLICADO, P.O. 12 DE MARZO DE 2020)
-
-En el ejercicio de sus funciones el Poder Ejecutivo implementará el principio de gobierno abierto orientado en los principios de transparencia de la información, rendición de cuentas, evaluación de la gestión gubernamental, participación ciudadana y uso de tecnologías de la información.
+En el ejercicio de sus funciones el Poder Ejecutivo implementará la buena administración, el principio de gobierno abierto orientado en los principios de transparencia de la información, rendición de cuentas, evaluación de la gestión gubernamental, participación ciudadana, y uso de tecnologías de información.
 
 > <small>(F. DE E., P.O. 12 DE MARZO DE 2020)</small>
 
@@ -3382,6 +3380,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 30 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 618.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 43 DE LA LEY ORGÁNICA DE PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 684.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3 DE LA LEY ORGÁNICA DE PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
