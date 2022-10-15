@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2022-08-20"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -2015,47 +2015,51 @@ I.- Tener a su cargo el archivo del Municipio, observado la ley de la materia;
 
 II.- Controlar y distribuir la correspondencia recepcionada en la Oficialía de Partes Municipal del Ayuntamiento, dando cuenta diaria al Presidente Municipal para acordar su trámite;
 
-III.- Asistir a las sesiones del Cabildo con voz, pero sin voto; y elaborar las actas correspondientes;
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-IV.- Dar fe de los actos del Cabildo, autorizar, expedir y certificar las copias de documentos oficiales, y suscribir y validar, con su firma, aquellas que contengan acuerdos y órdenes del Cabildo y del Presidente Municipal o que obren en sus archivos;
+III.- Emitir y notificar con la debida anticipación que señala el artículo 46 de esta Ley, las convocatorias para la celebración de las sesiones de cabildo;
 
-V.- Llevar y conservar los libros de actas, obteniendo las firmas de los asistentes a las sesiones;
+IV.- Asistir a las sesiones del Cabildo con voz, pero sin voto; y elaborar las actas correspondientes;
+
+V.- Dar fe de los actos del Cabildo, autorizar, expedir y certificar las copias de documentos oficiales, y suscribir y validar, con su firma, aquellas que contengan acuerdos y órdenes del Cabildo y del Presidente Municipal o que obren en sus archivos;
+
+VI.- Llevar y conservar los libros de actas, obteniendo las firmas de los asistentes a las sesiones;
 
 > <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 6 DE AGOSTO DE 2022)</small>
 
-VI.- Expedir las constancias de identidad o de origen y vecindad, que le sean solicitadas por los habitantes del Municipio, previa acreditación indubitable de las mismas, y tendrá efectos únicamente para la autoridad administrativa solicitante.
+VII.- Expedir las constancias de identidad o de origen y vecindad, que le sean solicitadas por los habitantes del Municipio, previa acreditación indubitable de las mismas, y tendrá efectos únicamente para la autoridad administrativa solicitante.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
 
 La constancia de identidad deberá contener como mínimo fotografía reciente entre sellada, el nombre completo de la persona interesada, lugar y fecha de nacimiento, nombre de los progenitores, domicilio actual dentro del Municipio, nacionalidad, y autoridad administrativa solicitante.
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-VII.- Comunicar a Los Agentes Municipales, de Policía y los Representantes de Núcleos Rurales los acuerdos del Cabildo y las órdenes del Presidente Municipal;
+VIII.- Comunicar a los Agentes Municipales, de Policía y los Representantes de Núcleos Rurales los acuerdos del Cabildo y las órdenes del Presidente Municipal;
 
-VIII.- Coordinar la elaboración de los informes anuales del Presidente Municipal, en caso de que no exista una dependencia a la cual el reglamento interior de la administración pública municipal le confiera esta atribución;
+IX.- Coordinar la elaboración de los informes anuales del Presidente Municipal, en caso de que no exista una dependencia a la cual el reglamento interior de la administración pública municipal le confiera esta atribución;
 
-IX.- Auxiliar al Síndico Municipal en la elaboración del inventario general de bienes muebles e inmuebles propiedad del Municipio, así como en su actualización;
+X.- Auxiliar al Síndico Municipal en la elaboración del inventario general de bienes muebles e inmuebles propiedad del Municipio, así como en su actualización;
 
-X.- Ejecutar los programas que le correspondan, en los términos del Plan Municipal de Desarrollo y en el reglamento interior de la administración pública municipal;
+XI.- Ejecutar los programas que le correspondan, en los términos del Plan Municipal de Desarrollo y en el reglamento interior de la administración pública municipal;
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XI.- Compilar las leyes, bandos de policía y gobierno, decretos, reglamentos, acuerdos, circulares y demás disposiciones normativas relativas a la administración pública municipal y paramunicipal, así como el Periódico Oficial del Gobierno del Estado cuando contenga disposiciones relacionadas con el Municipio;
+XII.- Compilar las leyes, bandos de policía y gobierno, decretos, reglamentos, acuerdos, circulares y demás disposiciones normativas relativas a la administración pública municipal y paramunicipal, así como el Periódico Oficial del Gobierno del Estado cuando contenga disposiciones relacionadas con el Municipio;
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XII.- Tener a su cargo los libros de registro de bienes municipales y bienes mostrencos, de registro de nombramientos y remociones de servidores públicos municipales, de registro de detenidos, de registro de fierros, marcas y señales de ganado este último en coordinación con la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura y las asociaciones u organizaciones ganaderas constituidas dentro de dicho municipio.
+XIII.- Tener a su cargo los libros de registro de bienes municipales y bienes mostrencos, de registro de nombramientos y remociones de servidores públicos municipales, de registro de detenidos, de registro de fierros, marcas y señales de ganado este último en coordinación con la Secretaría de Desarrollo Agropecuario, Forestal, Pesca y Acuacultura y las asociaciones u organizaciones ganaderas constituidas dentro de dicho municipio.
 
 Los Libros a que se refiere el párrafo anterior deberán ser foliados y autorizados en su primera y última hoja con las firmas y sellos del Secretario Municipal, y;
 
 > <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2022)</small>
 
-XIII.- La supervisión de la Gaceta y el Estrado. Este certificará cuando se requiera la razón de la fijación y retiro de los documentos en el Estrado y el cumplimiento del plazo señalado.
+XIV.- La supervisión de la Gaceta y el Estrado. Este certificará cuando se requiera la razón de la fijación y retiro de los documentos en el Estrado y el cumplimiento del plazo señalado.
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
-XIV.- Las demás que establezca esta Ley, los reglamentos municipales y las que acuerden (sic) el Ayuntamiento.
+XV.- Las demás que establezca esta Ley, los reglamentos municipales y las que acuerden (sic) el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2020)</small>
 
@@ -4688,3 +4692,11 @@ P.O. 20 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 668.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN III, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 92 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
