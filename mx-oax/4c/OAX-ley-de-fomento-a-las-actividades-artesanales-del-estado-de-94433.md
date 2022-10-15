@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-las-actividades-artesanales-del-estado-de-9443
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-27"
-last_updated: "2022-07-30"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2013.
 
@@ -383,6 +383,10 @@ III. La promoción de acuerdos interinstitucionales, que faciliten el intercambi
 
 Se podrá difundir la cultura artesanal del Estado y fomentar la comercialización de las obras artesanales oaxaqueñas, mediante la edición de atlas artesanales, catálogos, muestrarios, impresos, mensajes radiofónicos, televisivos, audios, videos, a través de medios digitales y el establecimiento de museos artesanales.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+En el caso de la comercialización a que refiere el párrafo anterior, el Instituto incentivará la profesionalización y capacitación digital de los productores artesanales para desarrollar y usar tiendas en línea.
+
 ### CAPÍTULO XI. DE LA PROMOCIÓN TURÍSTICA DE LAS ARTESANÍAS
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2018)</small>
@@ -618,6 +622,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 30 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 619.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VIII; Y SE ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE LA SUBSECUENTE FRACCIÓN AL ARTICULA 6 DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 681.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 33 DE LA LEY DE FOMENTO A LAS ACTIVIDADES ARTESANALES DEL ESTADO DE OAXACA.”]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
