@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-ejecutivo-y-de-la-administracion-151621"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2022-07-09"
+last_updated: "2022-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
 
 Ley publicada en el Suplemento Número 2 del Número 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -146,6 +146,14 @@ Los servidores públicos de la Administración Pública del Estado observarán e
 ###### Artículo 16.
 
 La persona titular del Poder Ejecutivo, con la opinión de la Consejería Jurídica, estará facultada para resolver cualquier conflicto o duda que surja sobre la interpretación y aplicación de esta ley y los reglamentos interiores que de ella deriven.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 16 Bis.
+
+La persona titular del Poder Ejecutivo, en el mes de noviembre de cada año, presentará ante el Congreso del Estado un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la entidad y el cumplimiento del Plan Estatal de Desarrollo. El informe tendrá lugar en sesión solemne a la que asistirán la Presidenta o Presidente del Supremo Tribunal de Justicia y las y los integrantes de la Legislatura, en la sede del Poder Legislativo. En el último año de la Administración Pública Estatal, la presentación del informe tendrá lugar en el mes de octubre.
+
+Para lo anterior, la persona titular del Poder Ejecutivo deberá enviar a la Mesa Directiva del Congreso del Estado la propuesta de fecha para la celebración de la referida sesión solemne. Una vez recibida la propuesta, la Mesa Directiva, a través de su Presidencia, deberá integrarla en la programación de sesiones, y realizar la citación correspondiente para su celebración.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -1434,3 +1442,15 @@ P.O. 9 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 112.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA, ADEMÁS, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA REGULAR LA CONVIVENCIA CIVIL EN EL ESTADO DE COLIMA Y SUS MUNICIPIOS, TAMBIÉN SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, ASIMISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 167.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, ADEMÁS, SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y SE ADICIONA EL ARTÍCULO 16 BIS A LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, en lo que respecta a los artículos primero y segundo de la reforma de la Ley Orgánica del Poder Legislativo del Estado de Colima y su Reglamento, entrará en vigor al día de su aprobación por el Congreso del Estado, debiéndose publicar en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, en lo que respecta a su artículo tercero de la reforma a la Ley Orgánica del Poder Ejecutivo y de la Administración Pública del Estado de Colima, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
