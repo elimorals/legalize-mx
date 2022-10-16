@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-la-comision-de-arbitraje-medico-del-estado-de-8615
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-29"
-last_updated: "2022-10-02"
+last_updated: "2022-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "DUR"
 ---
 # LEY QUE CREA LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE DURANGO
 
-[NOTA 1: PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE OCTUBRE DE 2022 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
-
-[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY QUE CREA LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2022 (ABROGADA).
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE DURANGO EL 16 DE OCTUBRE DE 2022.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de diciembre de 2011.
 
@@ -1433,18 +1433,20 @@ La Secretaría de Contraloría del Estado, será la responsable de sancionar el 
 
 Se abroga la Ley que crea el Instituto para el Desarrollo Integral del Adulto Mayor del Estado de Durango, aprobada mediante Decreto No. 548, de la LXVI Legislatura del Congreso del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 28, de 7 de abril de 2016.
 
-###### ARTÍCULO SEPTIMO.
+> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 2022)</small>
 
-Se abroga la Ley que crea el Organismo Público Descentralizado denominado "Administración del Patrimonio de la Beneficencia Pública del Estado de Durango", aprobada mediante Decreto No. 489, de la LX Legislatura del Congreso del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 48, de 14 de junio de 1998.
-
-###### ARTÍCULO OCTAVO.
+###### ARTÍCULO SÉPTIMO.
 
 Se abroga la Ley que crea la Comisión de Arbitraje Médico del Estado de Durango, aprobada mediante Decreto No. 234, de la LXV Legislatura del Congreso del Estado y publicada en el Periódico Oficial del Gobierno del Estado de Durango No. 52 BIS, de 29 de diciembre de 2011.
 
-###### ARTÍCULO NOVENO.
+> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 2022)</small>
+
+###### ARTÍCULO OCTAVO.
 
 Los procedimientos de naturaleza fiscal o las controversias judiciales derivadas de los mismos, que se hayan iniciado durante la vigencia de la Ley Orgánica de la Administración Pública del Estado de Durango abrogada mediante el presente decreto, continuarán desahogándose hasta su conclusión con las disposiciones y normas vigentes al momento de su iniciación.
 
-###### ARTÍCULO DÉCIMO.
+> <small>(F. DE E., P.O. 16 DE OCTUBRE DE 2022)</small>
+
+###### ARTÍCULO NOVENO.
 
 Quedarán vigentes los nombramientos realizados por la persona Titular del Poder Ejecutivo a partir del día 15 de septiembre de 2022 con base en la Ley Orgánica de la Administración Pública del Estado de Durango, que se abroga en el Artículo Segundo Transitorio del presente Decreto.
