@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2021-12-30"
+last_updated: "2022-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -3175,9 +3175,9 @@ excepto agrícolas. 17
 
 6.- Placas de demostración. 21
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2022)</small>
 
-El pago por servicio de control en la dotación de placas, por canje o replaqueo, deberá realizarse cada ocho años en la forma y términos indicados en los artículos 60 y 61 de la presente ley.
+El pago por servicio de control en la dotación de placas, por canje o replaqueo, deberá realizarse cada seis años en la forma y términos indicados en los artículos 60 y 61 de la presente ley.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3325,33 +3325,35 @@ a) Chofer de servicio público 8
 
 b) Chofer de servicio particular 8
 
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2022)</small>
+
 II. Examen médico para obtener licencia de manejo o
 
 en su caso el requerido por infracciones a la Ley de
 
-Tránsito de los Municipios. 2
+Tránsito de los Municipios. 3
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2022)</small>
 
 III. Examen médico para obtener licencia de
 
 manejo para chofer de servicio público o
 
-particular; 2
+particular. 3
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2022)</small>
 
 IV. Examen psicológico para obtener licencia
 
-de chofer de servicio público o particular; 2
+de chofer de servicio público o particular. 3
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2022)</small>
 
 V. Examen teórico práctico para obtener
 
 licencia de chofer de servicio público o
 
-particular. 2
+particular. 3
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -4000,3 +4002,17 @@ P.O. 30 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 086.- QUE CONTIENE REFORMAS A LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 16 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° 229.- QUE CONTIENE REFORMAS A DIVERSAS FRACCIONES DE LOS APARTADOS A Y B, DEL ARTÍCULO 60, DE LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. El Gobierno del Estado, mediante Acuerdo de procedencia del Titular de la Secretaría General de Gobierno, por conducto de las autoridades competentes, podrá otorgar desde la entrada en vigor del presente decreto con un valor de 6 UMAS, permisos temporales para circular, a los propietarios de vehículos nuevos, a aquellos que sean objeto de regularización o por cualquier otra causa que requiera placas, vigentes tales permisos, desde su otorgamiento hasta el 28 de febrero del año 2023.
+
+Queda sin efectos lo establecido en la fracción III, del Apartado A, del artículo 60 de la presente Ley, así como el correlativo 50 de la Ley de Tránsito para los Municipios del Estado de Durango, por el periodo comprendido en el párrafo anterior.
+
+TERCERO. Los ayuntamientos del Estado, por conducto de sus direcciones de seguridad pública o sus equivalentes, vigilarán el cumplimiento de lo dispuesto en el presente decreto.
+
+CUARTO. Se derogan todas las disposiciones que contravengan al presente decreto.
