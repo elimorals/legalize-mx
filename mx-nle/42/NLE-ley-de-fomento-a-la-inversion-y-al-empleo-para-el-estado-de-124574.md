@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-inversion-y-al-empleo-para-el-estado-de-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2022-01-28"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Cuarta Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -343,9 +343,29 @@ Los incentivos que se podrán otorgar consistirán en:
 
 I. Incentivos fiscales, los cuales consistirán en:
 
-a) Subsidio del pago del Impuesto sobre Nóminas en el porcentaje que determine el Consejo, siempre y cuando sean empleos directos generados en la entidad; y
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-b) Subsidio del pago de derechos estatales en el porcentaje que determine el Consejo.
+a) Subsidio del pago del Impuesto sobre Nóminas en el porcentaje que determine el Consejo, siempre y cuando sean empleos directos generados en la entidad;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+b) Subsidio total o parcial del pago por concepto de derechos de inscripción en el Instituto Registral y Catastral del Estado, de actas constitutivas de sociedades mercantiles, así como los aumentos de capital, cuyo objeto social contemple el desarrollo de actividades productivas;
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+c) Subsidio total o parcial del pago por concepto de derechos de inscripción en el Instituto Registral y Catastral del Estado, de acuerdo a las prioridades del desarrollo o impacto social o económico que la empresa genere y que tenga como propósito instalar o ampliar la planta productiva;
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+d) Subsidio total o parcial del pago por concepto de derechos de inscripción en el Instituto Registral y Catastral del Estado de operaciones de compraventa de terrenos destinados a la construcción de conjunto habitaciones (sic), plantas industriales y centros comerciales que tengan proyecto e inicien el desarrollo del mismo, en los doce meses posteriores a la fecha en que se realice la compraventa, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+e) Subsidio de pago de cualquier otro derecho estatal relativo a las actividades propias del inversionista.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+El porcentaje de los subsidios a que se refiere los incisos b), c), d) y e), también será determinado por el Consejo.
 
 Cualquiera de los incentivos fiscales de los incisos anteriores, no estarán sujetos a disponibilidad presupuestal, lo cuales sólo se podrán otorgar por un período máximo de cinco años sin poderse ampliar o renovar dicho plazo, que autorice el Consejo.
 
@@ -806,3 +826,11 @@ P.O. 28 DE ENERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 046. SE REFORMA EL ARTÍCULO 21 BIS, Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 31, TODOS DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
 
 UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 233. SE REFORMAN LOS INCISOS A), B); Y SE ADICIONAN LOS INCISOS C), D), E) Y UN PÁRRAFO, RECORRIENDO LOS RESTANTES DE LA FRACCIÓN I DEL ARTÍCULO 27 DE LA LEY DE FOMENTO A LA INVERSIÓN Y AL EMPLEO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La persona Titular del Poder Ejecutivo y el Consejo de Desarrollo Económico contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
