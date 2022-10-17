@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2019-06-03"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -583,17 +583,17 @@ La autoridad o servidor público que haya aceptado la recomendación o sugerenci
 
 En contra de las resoluciones dictadas por la Procuraduría en la aplicación de la presente Ley, procede el recurso de revisión de conformidad con lo previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 36.
 
-Es optativo para el particular agotar el recurso de revisión o promover el juicio respectivo ante la Sala Administrativa y Electoral del Poder Judicial, de conformidad con lo que establece la Ley del Procedimiento Contencioso Administrativo del Estado de Aguascalientes.
+Es optativo para el particular agotar el recurso de revisión o promover el juicio respectivo ante la Sala Administrativa, de conformidad con lo que establece la Ley del Procedimiento Contencioso Administrativo del Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 37.
 
-En contra de la resolución que resuelva el recurso de revisión interpuesto, procede el juicio ante la Sala Administrativa y Electoral del Poder Judicial.
+En contra de la resolución que resuelva el recurso de revisión interpuesto, procede el juicio ante la Sala Administrativa.
 
 ## TRANSITORIOS
 
@@ -730,3 +730,15 @@ P.O. 3 DE JUNIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 199.- SE REFORMAN LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES; EL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES; Y, LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los seis meses posteriores de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
