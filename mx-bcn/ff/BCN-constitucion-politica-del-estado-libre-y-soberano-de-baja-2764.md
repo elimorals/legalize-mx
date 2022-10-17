@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2022-07-29"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1273,11 +1273,9 @@ XLI.- Expedir conforme a las bases normativas aplicables los siguientes ordenami
 
 4. La Ley que desarrolle las competencias, a cargo de las autoridades locales y municipales que determine la legislación general en materia de responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-XLII.- Designar al Titular de la Fiscalía Especializada en Combate a la Corrupción, mediante convocatoria pública y conforme al procedimiento que establezca la Ley.
-
-La convocatoria pública, a que hace referencia el párrafo anterior, deberá darse amplia publicidad en los periódicos de mayor circulación del Estado y en la página oficial del Congreso del Estado;
+XLII.- Designar al Titular de la Fiscalía Especializada en Combate a la Corrupción, con base a la terna que remita la persona titular del Poder Ejecutivo del Estado por mayoría calificada conforme a las reglas contenidas en esta Constitución.
 
 > <small>(ADICIONADA, P.O. 28 DE JULIO DE 2017)</small>
 
@@ -1295,9 +1293,9 @@ XLIV.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las
 
 XLV.- Legislar en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano sustentable de los centros de población, atendiendo a las facultades concurrentes previstas en la Constitución Política de los Estados Unidos Mexicanos, en la presente Constitución y en las leyes aplicables.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-XLVI.- Designar al Fiscal General del Estado, al Fiscal Especializado en Combate a la Corrupción y al Fiscal Especializado para la Atención de Delitos Electorales, por mayoría calificada de conformidad con las reglas contenidas en esta Constitución.
+XLVI.- Designar al Fiscal General del Estado y al Fiscal Especializado para la Atención de Delitos Electorales, por mayoría calificada de conformidad con las reglas contenidas en esta Constitución.
 
 ### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
 
@@ -2491,7 +2489,9 @@ La Fiscalía Especializada para la Atención de Delitos Electorales estará a ca
 
 La investigación y persecución de delitos relacionados con hechos de corrupción cometidos por servidores públicos y por particulares estará a cargo de la Fiscalía Especializada en Combate a la Corrupción. Las autoridades y particulares están obligados a acatar sus requerimientos y la Ley establecerá su organización, funcionamiento y sanciones aplicables.
 
-Los titulares de la Fiscalía Especializada en Combate a la Corrupción y Fiscal Especializado para la Atención de Delitos Electorales durarán en su cargo cuatro años y podrán ser reelectos por una sola ocasión; serán nombrados por mayoría calificada del Congreso del Estado a través del procedimiento que se establezca en la Ley.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Los titulares de la Fiscalía Especializada en Combate a la Corrupción y Fiscal Especializado para la Atención de Delitos Electorales durarán en su cargo cuatro años y podrán ser reelectos por una sola ocasión. El Fiscal Especializado para la Atención de Delitos Electorales será nombrado por mayoría calificada del Congreso del Estado a través del procedimiento que se establezca en la Ley.
 
 El titular de la Fiscalía Especializada para la Atención de Delitos Electorales así como el titular de la Fiscalía Especializada en Combate a la Corrupción, deberán reunir los requisitos establecidos en el artículo 70 de esta Constitución y serán nombrados por mayoría calificada del Congreso del Estado a través del siguiente procedimiento:
 
@@ -3209,7 +3209,9 @@ f).- El Consejero Presidente del Instituto de Transparencia, Acceso a la Informa
 
 g).- UN REPRESENTANTE DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA, Y,
 
-h).- Once representantes del Comité de Participación Ciudadana.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+h).- Un representante del Comité de Participación Ciudadana.
 
 La Presidencia del Comité Coordinador del Sistema Estatal Anticorrupción, estará a cargo del ciudadano en quien recaiga la Presidencia del Comité de Participación Ciudadana, el cual contará con voto de calidad en la toma de decisiones del Comité Coordinador.
 
@@ -3231,9 +3233,15 @@ En caso de incumplimiento de las autoridades destinatarias, el Comité podrá so
 
 f) Las demás que establezca la Ley.
 
-III. El Comité de Participación Ciudadana del Sistema deberá integrarse por quince ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Su designación se hará mediante los requisitos y procedimiento que determine esta Constitución y la Ley.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+III.- El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Su designación se hará conforme a los requisitos previstos en el artículo 34 de la Ley General y 34 de la Ley del Sistema Estatal Anticorrupción de Baja California, y mediante el procedimiento que determine esta Constitución y la Ley.
 
 Para efecto de la designación de los integrantes del Comité de Participación Ciudadana, se constituirá una Comisión de Selección integrada por cinco ciudadanos que serán electos por mayoría calificada del Congreso del Estado, previa convocatoria pública. Los requisitos y procedimiento para la integración de la Comisión de Selección, serán los que la Ley establezca.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+En la conformación del Comité de Participación Ciudadana se deberá garantizar el principio de paridad de género.
 
 ## TITULO NOVENO
 
@@ -5570,3 +5578,27 @@ PRIMERO. Aprobada la presente reforma por el Pleno del Congreso, túrnese a los 
 SEGUNDO. Agotado el proceso legislativo y de obtener la aprobación de la mayoría de los Ayuntamientos, emítase la declaratoria de incorporación constitucional correspondiente, remitiéndose al titular del Poder Ejecutivo para su Publicación en el Periódico Oficial del Estado.
 
 TERCERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 151 POR EL QUE “SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27, 71 Y 95 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Una vez aprobada la presente reforma, túrnese a los ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional respectiva.
+
+TERCERO. La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO. Las y los ciudadanos integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción de Baja California, nombrados con anterioridad a la publicación de la presente reforma, que se encuentren en funciones a la entrada en vigor del presente Decreto, continuarán en el cargo exclusivamente hasta la conclusión del periodo para el que fueron designados.
+
+QUINTO. Por única ocasión, las y los ciudadanos integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción de Baja California nombrados con posterioridad a la publicación de la presente reforma, se ajustarán al orden y términos siguientes:
+
+a. Un integrante que durará en su encargo dos años;
+
+b. Un integrante que durará en su encargo tres años;
+
+c. Un integrante que durará en su encargo cuatro años; y,
+
+d. Dos integrantes que durarán en su encargo cinco años.
+
+Las y los ciudadanos integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción de Baja California, nombrados de forma subsecuente a los señalados en el párrafo anterior, durarán en el cargo el plazo señalado en el artículo 16 de la Ley del Sistema Estatal Anticorrupción de Baja California.
