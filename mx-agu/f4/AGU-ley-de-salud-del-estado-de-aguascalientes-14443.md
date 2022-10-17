@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2022-09-30"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1485,9 +1485,17 @@ VII. La Secretaría de la Juventud del Estado de Aguascalientes;
 
 VIII. El Instituto Cultural de Aguascalientes;
 
-IX. La Secretaría de Bienestar y Desarrollo Social; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-X. Radio y Televisión de Aguascalientes.
+IX. La Secretaría de Desarrollo Social del Gobierno del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+X. Radio y Televisión de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XI. Un representante de cada uno de los Municipios del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
 
@@ -1524,6 +1532,66 @@ IV. Promover y establecer mecanismos para la coordinación de esfuerzos contra e
 V. Ofrecer capacitaciones y trasferencias de modelos preventivos en salud mental a las áreas de psicología de las empresas privadas que se encuentren dentro del Estado; y
 
 VI. Las demás que establezcan la presente Ley, el Reglamento Interior del Comité y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+ARTICULO 83 SEXIES 1.- En cada municipio existirá un Consejo Municipal de Salud Mental, que tendrá como principales atribuciones las siguientes:
+
+I. Elaborar el Programa Municipal de Salud Mental de conformidad con la Ley General de Salud, las Normas Oficiales Mexicanas, y el presente ordenamiento, a través de la participación de los sectores social y privado;
+
+II. Implementar en el Municipio las acciones pertinentes en materia de salud mental, propiciando un enfoque centrado en los derechos humanos;
+
+III. Diseñar y ejecutar campañas municipales para orientar, motivar e informar a la población sobre la importancia de la salud mental, los síntomas que se presentan en esa clase de padecimientos, las formas de prevención, y modos de atención, en coordinación con las dependencias estatales y demás instituciones competentes;
+
+IV. Atender de manera prioritaria y coordinada con las demás autoridades, la problemática del suicidio, lo cual enunciativamente implica:
+
+a) Elaborar estrategias coordinadas e interdisciplinarias para abatir la incidencia del suicidio a nivel municipal;
+
+b) Realizar tareas de sensibilización de la población, así como de capacitación y profesionalización del personal que tenga contacto con personas en crisis, a fin de que se cuenten con los elementos para identificar las tendencias suicidas;
+
+c) Diseñar e implementar los procedimientos posteriores a una conducta suicida, para asistir y acompañar a la familia de la persona que se privó la vida, ya sea a nivel municipal o a través de los mecanismos de colaboración con el gobierno del Estado;
+
+d) Elaborar manuales y guías municipales para la atención de personas con tendencias suicidas;
+
+e) Generar estadísticas municipales sobre los intentos de suicidio o eventos consumados a nivel municipal, a fin de contar con información adecuada;
+
+f) Promover la equidad y no discriminación en el acceso a los servicios municipales de quienes presenten alguna conducta suicida.
+
+V. Llevar a cabo reuniones periódicas con los demás actores públicos y privados interesados en la salud mental para lograr la uniformidad de las acciones en este campo;
+
+VI. Suscribir los instrumentos jurídicos necesarios para el cumplimiento de las funciones propias de los Consejos Municipales de Salud Mental;
+
+VII. Presentar al Ayuntamiento un informe anual sobre las políticas municipales implementadas en la materia, así como el grado de avance en el cumplimiento del Programa Municipal de Salud Mental;
+
+VIII. Funcionar como un organismo de consulta permanente sobre los proyectos y programas encaminados a la atención integral de la salud mental a nivel municipal;
+
+IX. Desempeñarse como un organismo de vinculación entre los sectores público, social y privado para la implementación de estrategias de salud mental que beneficien a la población;
+
+X. Revisar la reglamentación municipal a efecto de formular observaciones y propuestas de reforma que se consideren apropiadas; y
+
+XII. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población o le sean encomendadas por el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+ARTICULO 83 SEXIES 2.- Los Consejos Municipales de Salud Mental, estarán integrados por:
+
+I. El presidente municipal, quien será también presidente del Consejo;
+
+II. El Secretario del Ayuntamiento;
+
+III. El regidor que presida el ramo de salud;
+
+IV. El titular de la dependencia municipal encargada de la salud o equivalente;
+
+V. Los demás miembros que determine el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+ARTICULO 83 SEXIES 3.- Conforme a las bases generales de los artículos precedentes y en ejercicio de su potestad normativa, los Municipios reglamentarán el funcionamiento de los Consejos Municipales de Salud Mental mediante el dictado de las medidas que aseguren la operatividad conforme a las necesidades y problemática concreta de cada Municipio.
+
+Los ayuntamientos podrán determinar, en atención a cuestiones objetivas debidamente justificadas, que los Consejos Municipales de Salud o algún órgano equivalente ejerza las funciones a que se refiere el artículo 83-Sexies 1, siempre que esos entes no sean puramente consultivos y en ellos tengan participación las áreas municipales relevantes.
+
+En este caso, deberá procurarse que la gestión de la salud mental sea una a (sic) actividad permanente al interior de tales órganos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE MARZO DE 2018)</small>
 
@@ -3219,11 +3287,27 @@ VIII.- El aseguramiento y destrucción de objetos, productos o sustancias;
 
 IX.- La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio;
 
-X.- La prohibición de actos de uso; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-XI.- Las demás de índole sanitaria que determinen las autoridades sanitarias del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
+X.- La prohibición de actos de uso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XI.- El uso de cubrebocas cuando dicha medida resulte pertinente en términos científicos para la contención de la contingencia sanitaria de que se trate; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XII.- Las demás de índole sanitaria que determinen las autoridades sanitarias del Estado, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
 
 Son de inmediata ejecución las medidas de seguridad señaladas en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+ARTICULO 264 BIS.- Durante el tiempo que permanezca una emergencia sanitaria declarada por la autoridad competente en virtud de una enfermedad contagiosa, la Secretaría podrá declarar obligatorio el uso del cubrebocas siempre que dicha medida resulte técnica y científicamente adecuada para la contención de la emergencia. Dicha determinación permanecerá vigente hasta que la autoridad considere desaparecido el riesgo de contagio.
+
+En los casos del párrafo anterior, el uso del cubrebocas será obligatorio en las vías y espacios públicos o de uso común, en el interior de establecimientos comerciales, industriales o de servicios, en los centros de trabajo, así como en los servicios de transporte público o privado, conforme lo establezcan las disposiciones de la autoridad competente.
+
+Las contravenciones a este artículo serán sancionadas por la autoridad sanitaria del Estado o por los municipios, según sus respectivas competencias, previo apercibimiento realizado a los sujetos obligados. Para estos efectos, las autoridades establecerán los marcos de coordinación necesarios para la correcta observancia de las medidas de contención decretadas.
 
 ###### ARTICULO 265.
 
@@ -3340,6 +3424,10 @@ Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el valor
 ###### ARTICULO 281.
 
 Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por diez mil veces el valor diario de la unidad de medida y actualización, atendiendo a las reglas de calificación que se establecen en el Artículo 277 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+En el caso de contravención a las medidas previstas por el artículo 264-Bis, se impondrá a los responsables contumaces después del apercibimiento, una multa de 2 a 4 veces el valor diario de la unidad de medida y actualización. En caso de que la sanción sea impuesta por la autoridad municipal, se podrá conmutar la sanción económica por arresto administrativo o por trabajo a favor de la comunidad de una a dos horas, respectivamente.
 
 ###### ARTICULO 282.
 
@@ -4240,3 +4328,23 @@ La presente reforma entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaria de Salud del Estado de Aguascalientes deberá emitir, dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, la reglamentación necesaria para dar cumplimiento al mismo.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 194.- SE REFORMA LA LEY DE SALUD PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Ayuntamientos tendrán un plazo de 30 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto, para que establezcan en sus Bandos de Policía y Buen Gobierno o Códigos Municipales, según sea el caso, el uso obligatorio del cubrebocas por parte de la población cuando así lo determine la autoridad sanitaria estatal, como la correspondiente sanción por la respectiva infracción a dicho precepto, en términos de lo establecido en el mismo.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 196.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Los municipios contarán con un periodo de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que consideren pertinentes a sus normas reglamentarias.
