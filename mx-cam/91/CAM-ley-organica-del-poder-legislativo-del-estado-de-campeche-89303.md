@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2022-07-27"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -179,15 +179,25 @@ En los períodos extraordinarios de sesiones la Diputación Permanente fungirá 
 
 Las elecciones de los integrantes de la Mesa Directiva del Congreso se efectuarán por planillas, a proposición de los grupos parlamentarios, una planilla por cada grupo; también se podrá efectuar mediante propuesta conjunta de los coordinadores de los indicados grupos. Estas elecciones se harán en votación nominal. Los resultados se darán a conocer a través de acuerdo que se publicará en el Periódico Oficial y suscribirán los secretarios, primero y segundo, o por quienes los sustituyan en términos de esta ley, de la Diputación Permanente.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+En las propuestas de planillas tratándose de los Secretarios se deberán considerar suplentes, quienes deberán pertenecer al mismo grupo parlamentario de la titularidad.
+
 ###### Art. 16.
 
 Los integrantes de la Mesa Directiva serán removidos de sus cargos cuando por mayoría de votos así lo decida la asamblea y medie causa justificada para ello.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### Art. 17.
 
-Son atribuciones del presidente de la Mesa Directiva:
+Son atribuciones de la o el presidente de la Mesa Directiva:
 
 I. Abrir, prorrogar, suspender y clausurar las sesiones;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+I. Bis. Solicitarle a la o el primer secretario verifique la asistencia de los diputados a través del sistema electrónico, si no es posible su operación, se procederá a la aplicación del registro a través del pase de lista;
 
 II. Determinar los trámites que deban seguirse en los asuntos con que se dé cuenta al Congreso;
 
@@ -206,6 +216,10 @@ VII. Firmar, en unión de los secretarios, las actas de las sesiones;
 VIII. Determinar el orden en que deba darse cuenta a la asamblea con los asuntos en cartera;
 
 IX. Programar la presentación de iniciativas y dictámenes;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+IX Bis. Instruir la apertura o el cierre del sistema electrónico. Al indicar la apertura del sistema electrónico se deberá informar a la asamblea el tiempo en el que el sistema electrónico permanecerá abierto, mismo que no podrá exceder de tres minutos;
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -259,11 +273,31 @@ III. Llamar al orden al presidente, ya por sí o a excitativa de alguno de los d
 
 IV. Las demás que le señalen esta ley y otras disposiciones legales y reglamentarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### Art. 20.
 
-Son atribuciones del primer secretario:
+Son atribuciones de la o el primer secretario:
 
-I. Pasar lista de asistencia y constatar la existencia de quórum;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+I. Registrar, cuando surjan factores atribuibles a un caso fortuito o fuerza mayor, que impidan el correcto manejo del sistema electrónico, la asistencia de los diputados, mediante el pase de lista;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+I Bis. Constatar la existencia de quórum;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+I Ter. Certificar el sentido de la votación nominal que emita el sistema electrónico, mediante las relaciones impresas que emita éste;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+I Quater. Entregar al presidente, con la certificación respectiva, las relaciones impresas de asistencias o de votaciones, emitidas por el sistema electrónico;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+I Quinquies. Resguardar los archivos que genere el sistema electrónico con el apoyo de la Secretaría General del Congreso;
 
 II. Dar cuenta a la asamblea, previo acuerdo del presidente, con los asuntos en cartera;
 
@@ -743,11 +777,17 @@ XVIII. Los demás que les confieran otras disposiciones legales y reglamentarias
 
 #### Sección Segunda. De sus obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### Art. 48.
 
-Son obligaciones de los diputados:
+Son obligaciones de las y los diputados:
 
-I. Asistir puntualmente a todas las sesiones a las que se les convoque por el Congreso o la Diputación Permanente;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+I. Asistir puntualmente a todas las sesiones a las que se les convoque por el Congreso o la Diputación Permanente. En las sesiones que se lleven a cabo en el Pleno registrarán su asistencia en el sistema electrónico, el cual se apertura con el apoyo de la Secretaría General del Congreso treinta minutos antes de la hora fijada para el inicio de la sesión que se trate y se cerrará en el momento en que aquéllas inicien, a indicación previa de la o el Presidente.
+
+En el caso de que el sistema electrónico haya cerrado y se incorpore de forma posterior algún (sic) diputada o diputado, se pedirá a la Primera Secretaría el registro correspondiente, mismo que deberá ser leído en la sesión atinente para que quede constancia del mismo.
 
 II. Permanecer en la Cámara o Salón de Sesiones desde la apertura hasta la clausura de las sesiones;
 
@@ -1351,9 +1391,11 @@ II. Económica; y
 
 III. Por cédula.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### Art. 92.
 
-La votación nominal se efectuará de la manera siguiente:
+La votación nominal, en las sesiones del Pleno, se realizará mediante el sistema electrónico, cuando surjan factores atribuibles a un caso fortuito o fuerza mayor, que impidan el correcto manejo de éste, se efectuará de la manera siguiente:
 
 I. Cada uno de los diputados, comenzando por la derecha del presidente, se pondrá de pie y dirá en voz alta su nombre y apellidos, añadiendo: "A FAVOR" o "EN CONTRA". La abstención será computada como voto a favor y el no ponerse de pie, o de hacerlo pero sin manifestar el sentido de su voto, hará al responsable sujeto de una sanción;
 
@@ -1423,17 +1465,21 @@ De la Diputación Permanente
 
 Durante los períodos de receso del Congreso el ejercicio del Poder Legislativo, con las limitaciones que imponen la Constitución Política del Estado y esta ley, recaerá en el órgano que se denomina Diputación Permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### Art. 104.
 
-La Diputación Permanente se integrará con los miembros de la Junta de Gobierno y Administración del Congreso, con los mismos cargos, salvo los vocales, quienes respectivamente fungirán como secretarios segundo y tercero de la Diputación.
+La Diputación Permanente se integrará con los miembros de la Junta de Gobierno y Administración del Congreso, con los mismos cargos, salvo los vocales, quienes respectivamente fungirán como secretarios segundo y tercero de la Diputación. Para garantizar los trabajos de ésta, en el caso de ausencia de algunos de sus integrantes, se establecerá un régimen de sustituciones bajo los siguientes criterios, en el caso de ausencia de la o el Presidente, asumirá la o el Vicepresidente, en el caso de ausencia de éstos, asumirá la o el Primer Secretario. Si la ausencia ocurriera sólo del Primer Secretario, asumirá el Segundo Secretario y quien lo siga en orden de prelación.
 
 Los miembros de la Junta, para asumir las funciones de integrantes de la Diputación no necesitarán rendir protesta alguna.
 
 Las atribuciones de los miembros de la Diputación serán, en lo conducente, las señaladas en los artículos 17, 19, 20 y 21 de esta ley.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### Art. 105.
 
-La Diputación Permanente sesionará una vez por semana o cuando así lo disponga su presidente o tenga lugar alguno de los casos que ameriten su intervención, en términos de la Constitución Política del Estado y de esta ley.
+La Diputación Permanente sesionará una vez por semana o cuando así lo disponga su presidente o tenga lugar alguno de los casos que ameriten su intervención, en términos de la Constitución Política del Estado y de esta ley. Será válida la sesión cuando en esta concurran la mayoría de sus integrantes.
 
 Capítulo Decimocuarto
 
@@ -2332,3 +2378,15 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente al d
 Artículo Segundo.- Una vez que entre en vigor lo establecido en el Artículo Primero Transitorio que antecede, el Congreso del Estado deberá expedir en un plazo que no podrá exceder de 30 días naturales, el Reglamento que regule el desarrollo de las comparecencias de las y los titulares de la administración pública centralizada.
 
 Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 132 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 17; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 20; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 48; EL PÁRRAFO PRIMERO DEL ARTÍCULO 92; EL PÁRRAFO PRIMERO DEL ARTÍCULO 104; EL ARTÍCULO 105 Y, SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 15; LAS FRACCIONES I BIS Y IX BIS AL ARTÍCULO 17; LAS FRACCIONES I BIS, I TER, I QUATER Y I QUINQUIES AL ARTÍCULO 20, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. A partir de la entrada en vigor del presente decreto, el Congreso del Estado, en términos de lo dispuesto por el artículo 102 de la Ley Orgánica del Poder Legislativo del Estado, emitirá en un plazo no mayor a 30 días naturales el Acuerdo Reglamentario para el uso y funcionamiento del Sistema Electrónico para las sesiones plenarias del Honorable Congreso del Estado de Campeche.
+
+Artículo Tercero. Entrado en vigor el presente decreto, el H. Congreso de (sic) Estado contará con un plazo de 60 días naturales a fin de que inicie el funcionamiento del Sistema Electrónico de Asistencia y Votación.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
