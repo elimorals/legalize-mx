@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2022-05-30"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2495,7 +2495,13 @@ III.- El tutor;
 
 IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
 
-V.- El Ministerio Público.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+V.- El Ministerio Público; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+VI.- El Sistema para el Desarrollo Integral de la Familia, cuando sean menores de edad o adultos mayores en estado de abandono o indefensión los acreedores alimentarios. En caso de menores de edad el aseguramiento será a través la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes y tratándose de adultos mayores corresponderá al Sistema para el Desarrollo Integral de la Familia, observando lo dispuesto por los artículos 326 y 331 Ter del Código Civil del Estado de Aguascalientes.
 
 ###### Artículo 338.
 
@@ -2927,11 +2933,15 @@ La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 403.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá la custodia y las modalidades del derecho de convivencia del otro, y en caso de que no lo hicieren, el Juez, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo o hija, en el mismo acto convendrán cuál de los dos ejercerá la custodia y las modalidades del derecho de convivencia del otro y con la familia extensa, la cual también tendrá derecho a convivir con él o la menor, de conformidad con lo establecido en el artículo 434 del presente Código. En caso de que no lo hicieren, el Juez, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses de la niña, niño o adolescente.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+En relación con lo que se deberá entender por familia extensa, se estará a lo dispuesto en la fracción XIII del artículo 4 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1998)</small>
 
@@ -3209,13 +3219,13 @@ DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LA PERSONA DE LOS HIJOS.
 
 En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-Quién ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente, en consecuencia, cada uno de los ascendientes deberá evitar cualquier acto de alienación parental.
+Quién ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de las niñas, niños o adolescentes con el otro ascendiente y con la familia extensa, a efecto de conservar los lazos afectivo (sic) con los miembros que la conforman, evitando cualquier acto de alienación parental.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su menor hijo, mediante la desaprobación o crítica tendiente a obtener denigración exagerada y/o injustificada del otro progenitor para producir en el menor, rechazo, rencor, odio o desprecio hacia éste, y/o con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
+Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su menor hijo o hija, mediante la desaprobación o crítica tendiente a obtener denigración exagerada y/o injustificada del otro progenitor para producir en el o la menor, rechazo, rencor, odio o desprecio hacia éste, con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
@@ -3243,23 +3253,29 @@ La custodia es un derecho y obligación que corresponde a quienes ejercen la pat
 
 (DEROGADO, P.O. 5 DE NOVIEMBRE DE 2001)
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 439.
 
-En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores de edad. En caso de desacuerdo, el Juez resolverá en el juicio respectivo lo conducente oyendo al Ministerio Público.
+En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de las y los menores de edad. En caso de desacuerdo, el Juez resolverá en el juicio respectivo lo conducente oyendo al Ministerio Público.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-En este supuesto, con base en el interés superior del menor de edad, éste quedará bajo los cuidados y atenciones de ambos progenitores o de uno de ellos, atendiendo a lo que el Juez considere más benéfico
+En este supuesto, con base en el interés superior de la niñez, quedará bajo los cuidados y atenciones de ambos progenitores o de uno de ellos, atendiendo a la autonomía progresiva de la niñez y a lo que el Juez considere más benéfico.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-En caso de que se considere más benéfico un régimen de guarda y custodia exclusiva, el cónyuge que no ejerza la custodia estará obligado a colaborar en la alimentación del menor de edad y conservará los derechos y obligaciones de vigilancia y de convivencia con el mismo, conforme a las modalidades previstas en el convenio o resolución judicial.
+Se entiende por autonomía progresiva de la niñez, el derecho de las niñas, niños y adolescentes a ser tomado en cuenta en las decisiones que afecten el ejercicio de sus derechos, atendiendo a la evaluación de sus características propias, como pueden ser, edad, nivel de madurez, medio social y cultural entre otras, y a las particularidades de la decisión, como el tipo de derechos que implica, los riesgos que asumirá, las consecuencias a corto y largo plazo.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+En caso de que se considere más benéfico un régimen de guarda y custodia exclusiva, el cónyuge que no ejerza la custodia estará obligado a colaborar en la alimentación de la niña, niño o adolescente y conservará los derechos y obligaciones de vigilancia y de convivencia con él mismo y la familia extensa, a efecto de que se brinde a las niñas, niños y adolescentes menores de edad, la conservación de los lazos afectivo filiales con los miembros que la conforman, de acuerdo a lo estipulado en el artículo 434 del presente Código y conforme a las modalidades previstas en el convenio o resolución judicial.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
 Durante la tramitación del juicio y a petición de cualquiera de las partes, el Juez podrá proveer como medida provisional, respecto de la guarda y custodia compartida o exclusiva, y en su caso de la convivencia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
 Teniendo en todo momento ambos progenitores, la obligación de evitar cualquier conducta de alienación parental hacia sus hijos.
 
@@ -17578,3 +17594,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 198.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
