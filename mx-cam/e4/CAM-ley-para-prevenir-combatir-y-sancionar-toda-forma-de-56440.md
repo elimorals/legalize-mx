@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-07-26"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -250,6 +250,10 @@ XXXI. Restringir las condiciones o las oportunidades de empleo por situación de
 > <small>(ADICIONADA, P.O. 20 DE MAYO DE 2022)</small>
 
 XXXI Bis. Estigmatizar y negar derechos a personas con VIH/SIDA;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XXXI Ter. La estigmatización, exclusión, distinción, menoscabo, impedimento o restricción de alguno o algunos de los derechos humanos de las personas, por tener tatuajes, perforaciones corporales, escarificaciones o implantes subdérmicos.
 
 XXXII. Limitar las oportunidades de empleo por antecedentes penales, salvo en los casos en que la ley lo establezca;
 
@@ -666,3 +670,11 @@ P.O. 26 DE JULIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+[N DE E. TRANSITORIOS DEL DECRETO NÚMERO 133 POR EL QUE “SE ADICIONA UNA FRACCIÓN XXXI TER AL ARTÍCULO 15 DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
