@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2022-06-13"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -309,11 +309,21 @@ VIII. Dar aviso a la Presidencia en los casos en que por cualquier motivo grave 
 
 IX. Ser gestores con recursos del Congreso del Estado, y promotores de actividades en sus respectivos Distritos Electorales, que beneficien a sus habitantes;
 
-X. Transparentar y permitir el acceso a la información respecto a los recursos públicos a su cargo, en términos de la Ley de la materia; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-XI. Rendir informe anual a la ciudadanía respecto de sus labores legislativas, de gestión y de representación.
+X. Transparentar y permitir el acceso a la información respecto a los recursos públicos a su cargo, en términos de la Ley de (sic) materia;
 
-Los gastos de realización del Informe, incluyendo su promoción, bajo ninguna circunstancia podrán rebasar el equivalente a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente. Los gastos se tasarán de acuerdo con los mismos costos que la Unidad de Fiscalización del Instituto Nacional Electoral haya tasado en los gastos de campaña del proceso electoral inmediato anterior, en términos de la Ley General de Instituciones y Procedimientos Electorales y los acuerdos emitidos al respecto por el referido Instituto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XI. Presentar sus declaraciones de situación patrimonial y de intereses, así como la constancia de presentación de declaración fiscal, conforme a las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XII. Rendir informe anual a la ciudadanía respecto de sus labores legislativas, de gestión y de representación.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Los gastos de realización del Informe, incluyendo su promoción, bajo ninguna circunstancia podrán rebasar el equivalente a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente. Los gastos se tasarán de acuerdo con los mismos costos que la Unidad de Fiscalización del Instituto Nacional Electoral haya tasado en los gastos de campaña del proceso electoral inmediato anterior, en términos de la Ley General de Instituciones y Procedimientos Electorales y los acuerdos ya emitidos al respecto por el referido Instituto.
 
 El incumplimiento de lo previsto en el párrafo anterior, será sancionado por la Contraloría Interna, con multa de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización, independientemente de las demás sanciones que procedan.
 
@@ -1341,7 +1351,9 @@ VIII. Realizar las actividades que se deriven de esta Ley, de los ordenamientos 
 
 Los Consejos y Comités son órganos del Congreso del Estado que se constituyen por disposición del Pleno, para realizar tareas diferentes a las de las comisiones. Los Consejos tendrán la duración de la Legislatura en turno.
 
-Se integrarán por cinco Diputados designados por el Pleno a propuesta de la Junta de Coordinación Política, de los cuales uno será el Presidente, otro será el Secretario y los tres restantes tendrán el carácter de vocales. Los vocales podrán suplir en sus faltas temporales al Presidente y al Secretario, atendiendo al orden de su vocalía.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Se integrarán por cinco Diputados, con excepción del Comité de Administración el cual será conformado por siete Diputados, designados por el Pleno a propuesta de la Junta de Coordinación Política, de los cuales uno será el Presidente, otro será el Secretario y los diputados restantes tendrán el carácter de vocales. Los vocales podrán suplir en sus faltas temporales al Presidente y al Secretario, atendiendo al orden de su vocalía.
 
 Cada Comité podrá contar, a propuesta de la Junta de Coordinación Política, con el personal y los recursos necesarios para su buen desempeño.
 
@@ -1841,17 +1853,19 @@ En el ejercicio de sus funciones, dicha instancia deberá garantizar la separaci
 
 Cualquier persona, cuando presuma que los titulares de los Órganos Internos de Control de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Capítulo Décimo Séptimo de la Constitución del Estado, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-## TÍTULO SEXTO. PARLAMENTO ABIERTO Y EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS ACTOS DEL CONGRESO DEL ESTADO
+## TÍTULO SEXTO. EL PARLAMENTO ABIERTO, TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DE LOS ACTOS DEL CONGRESO DEL ESTADO Y LA EVALUACIÓN LEGISLATIVA
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2022)</small>
+### CAPÍTULO PRIMERO. Disposiciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 148.
 
-El Congreso del Estado en respeto de los principios del modelo de parlamento abierto, deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana y la rendición de cuentas; a través de mecanismos que garanticen la publicidad de Información oportuna, verificable, comprensible, actualizada y completa, atendiendo en todo momento las condiciones sociales, económicas y culturales del Estado de Aguascalientes.
+El Congreso del Estado en respeto de los principios del modelo de parlamento abierto, deberá implementar mecanismos que garanticen la transparencia, la máxima publicidad, el derecho de acceso a la información, la apertura gubernamental, la participación ciudadana, la evaluación del desempeño legislativo y la rendición de cuentas; a través de mecanismos que garanticen la publicidad de Información oportuna, verificadle (sic), comprensible, actualizada y completa, atendiendo en todo momento las condiciones sociales, económicas y culturales del Estado de Aguascalientes.
 
 Para tal efecto, su actuar atenderá lo dispuesto por las leyes en materia de transparencia y acceso a la información pública.
 
@@ -1887,11 +1901,31 @@ Para el desahogo de las sesiones virtuales deberá llevar a cabo la facilitació
 
 No podrá contener dicha página propaganda, publicidad o información comercial ni de proselitismo político.
 
-### CAPÍTULO I. LA SECRETARIA GENERAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO SEGUNDO. De la Evaluación Legislativa
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Artículo 152 BIS.- En el ejercicio de su función los Diputados promoverán la participación e inclusión de la ciudadanía en la toma de decisiones relacionadas con el proceso legislativo.
+
+El Congreso del Estado conducirá bajo el principio de parlamento abierto la implementación de la evaluación legislativa y de los mecanismos mencionados por el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Artículo 152 TER.- El Congreso del Estado establecerá el observatorio ciudadano legislativo como un mecanismo de evaluación objetiva del desempeño legislativo de los Diputados con base en los siguientes aspectos:
+
+I. De eficiencia y transparencia legislativa;
+
+II. De eficiencia presupuestal y fiscalización; y
+
+III. De impacto social y agenda legislativa.
+
+Lo anterior con el objetivo de integrar y coordinar un sistema de medición y evaluación con participación ciudadana, de las actividades legislativas y parlamentarias del Congreso del Estado.
 
 ## TÍTULO SÉPTIMO. LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA DEL CONGRESO DEL ESTADO
 
-### CAPÍTULO II. LOS ÓRGANOS AUXILIARES Y UNIDADES TÉCNICAS DEL CONGRESO
+### CAPÍTULO I. LA SECRETARIA GENERAL
 
 #### Sección Primera. El Secretario General
 
@@ -1977,7 +2011,7 @@ III. Realizar estudios de carácter administrativo y financiero del Congreso; y
 
 IV. Cumplir las demás funciones que le confieren esta ley y los ordenamientos relativos a la actividad administrativa y financiera.
 
-### CAPÍTULO III. EL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
+### CAPÍTULO II. LOS ÓRGANOS AUXILIARES Y UNIDADES TÉCNICAS DEL CONGRESO
 
 ###### ARTÍCULO 161.
 
@@ -2015,13 +2049,13 @@ IX. Unidad de Transparencia; y
 
 X. Las demás que se establezcan de acuerdo al marco normativo aplicable.
 
-### CAPÍTULO IV. LA ENTREGA Y RECEPCIÓN
+### CAPÍTULO III. EL SERVICIO CIVIL DE CARRERA PARLAMENTARIA
 
 ###### ARTÍCULO 164.
 
 El Reglamento Interior determinará las normas y procedimientos para la conformación de los servicios parlamentarios, administrativos y financieros del Servicio Civil de Carrera del Congreso del Estado.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO IV. LA ENTREGA Y RECEPCIÓN
 
 ###### ARTÍCULO 165.
 
@@ -2086,6 +2120,8 @@ Los servidores públicos salientes harán constar por escrito, cuando así proce
 Con el propósito de dar cumplimiento a lo dispuesto por esta Ley, los servidores públicos a que se refiere el Artículo 165 de la presente Ley, deberán mantener permanentemente actualizados sus registros, controles y demás documentación relativa a sus despachos, a fin de hacer posible la entrega oportuna y debida de los mismos.
 
 ## TÍTULO OCTAVO. LAS SANCIONES
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 177.
 
@@ -2266,3 +2302,11 @@ P.O. 13 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 201.- SE REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
