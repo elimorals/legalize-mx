@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-anticorrupcion-de-baja-california-12284
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-07"
-last_updated: "2017-08-07"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 7 de agosto 2017.
 
@@ -163,7 +163,9 @@ VIII. La emisión de un informe anual que contenga los avances y resultados del 
 
 Dicho informe será el resultado de las evaluaciones realizadas por la Secretaría Ejecutiva y será aprobado por la mayoría de los integrantes del Comité Coordinador, los cuales podrán realizar votos particulares, concurrentes o disidentes, sobre el mismo y deberán ser incluidos dentro del informe anual;
 
-IX. Con el objeto de garantizar la adopción de medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como para mejorar el desempeño del control interno, el Comité Coordinador emitirá recomendaciones públicas vinculantes ante las autoridades respectivas y les dará seguimiento en términos de esta Ley;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+IX. Con el objeto de garantizar la adopción de medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como para mejorar el desempeño del control interno, el Comité Coordinador emitirá recomendaciones públicas, ante las autoridades respectivas y les dará seguimiento en términos de esta Ley;
 
 X. El establecimiento de vínculos de coordinación con el Sistema Nacional Anticorrupción;
 
@@ -187,11 +189,17 @@ XVIII. Las demás señaladas por esta Ley.
 
 Son integrantes del Comité Coordinador:
 
-I. El titular de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-II. El titular de la Fiscalía Especializada en Combate a la Corrupción del Estado;
+I. La persona titular de la Auditoría Superior del Estado;
 
-III. El titular de la Secretaría de la Contraloría y Transparencia Gubernamental del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+II. La persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+III.- La persona titular de la Secretaría de la Honestidad y la Función Pública;
 
 IV. El Presidente del Tribunal Estatal de Justicia Administrativa;
 
@@ -201,7 +209,9 @@ VI. El Consejero Presidente del Instituto de Transparencia, Acceso a la Informac
 
 VII. Un representante del Consejo de la Judicatura del Poder Judicial del Estado, y
 
-VIII. Once representantes del Comité de Participación Ciudadana.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+VIII. Un representante del Comité de Participación Ciudadana.
 
 La Presidencia del Comité Coordinador del Sistema Estatal Anticorrupción, estará a cargo del ciudadano en quien recaiga la Presidencia del Comité de Participación Ciudadana, el cual contará con voto de calidad en la toma de decisiones del Comité Coordinador.
 
@@ -255,25 +265,25 @@ El presidente del Comité Coordinador tendrá voto de calidad en caso de empate.
 
 El Comité de Participación Ciudadana tiene como objetivo coadyuvar, en términos de esta Ley, al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal.
 
-(NOTA: EL 14 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 16.
 
-El Comité de Participación Ciudadana estará integrado por quince ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción, diez de carácter técnico y cinco de carácter honorífico, éstos últimos no percibirán emolumento alguno.
+El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción.
 
-Habrá dos integrantes técnicos del Comité de Participación Ciudadana por cada municipio quienes, para ser seleccionados, preferentemente se tomará en consideración su preparación profesional con carreras afines al conocimiento de leyes y actos de fiscalización de recursos. A su vez, deberán cumplir con los requisitos establecidos en el artículo 34 de esta Ley y estarán encargados de los trabajos técnicos que efectúe el Comité de Participación Ciudadana.
+Los integrantes del Comité de Participación Ciudadana deberán reunir los mismos requisitos que se establecen en el artículo 34 de esta Ley y el artículo 34 de la Ley General, y para su selección se tomará en consideración preferentemente su preparación profesional con carreras afines al conocimiento de las leyes y actos de fiscalización de los recursos.
 
-Asimismo, el Comité de Participación Ciudadana, contará con cinco integrantes con carácter honorifico, los cuales deberán reunir los siguientes requisitos: notorio arraigo en el Estado; contar con experiencia en alguna de las siguientes materias, transparencia, evaluación, fiscalización, rendición de cuentas, combate a la corrupción, valores o ética; tener cuando menos de treinta y cinco años cumplidos al día de la designación; gozar de buena reputación y no haber sido condenado por algún delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; presentar sus declaraciones de intereses, patrimonial y fiscal, de forma previa a su nombramiento, y no haber ocupado cargo de elección popular, ni haber sido titular de los Poderes Ejecutivo, Legislativo y Judicial, Municipios y Organismos Públicos Autónomos, así como titular de sus respectivas Entidades, Dependencias y Unidades Administrativas equivalentes, durante los tres años previos al día de la designación.
-
-Los integrantes del Comité de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, estatal o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán al comité de participación ciudadana y a la comisión ejecutiva.
+Los integrantes del Comité de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, estatal o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán al Comité de Participación Ciudadana y a la Comisión Ejecutiva.
 
 Durarán en su encargo cinco años, sin posibilidad de reelección y serán renovados de manera escalonada, y sólo podrán ser removidos por alguna de las causas establecidas en la normatividad relativa a los actos de particulares vinculados con faltas administrativas graves.
 
-(NOTA: EL 14 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 119/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 17.
 
-Los integrantes del Comité de Participación Ciudadana, no tendrán relación laboral alguna por virtud de su encargo con la Secretaría Ejecutiva. En el caso de los integrantes técnicos, tendrán como vínculo legal con la misma, así como su contraprestación, serán establecidos a través de contratos de prestación de servicios por honorarios, en los términos que determine el órgano de gobierno, por lo que no gozarán de prestaciones, garantizando así la objetividad de sus aportaciones a la Secretaria Ejecutiva.
+Los integrantes del Comité de Participación Ciudadana no tendrán relación laboral alguna por virtud de su encargo con la Secretaría Ejecutiva.
+
+El vínculo legal con la misma, así como su contraprestación, serán establecidos a través de contratos de prestación de servicios por honorarios, en los términos que determine el órgano de gobierno, por lo que no gozarán de prestaciones, garantizando así la objetividad de sus aportaciones a la Secretaría Ejecutiva.
 
 Los integrantes del Comité de Participación Ciudadana estarán sujetos al régimen de responsabilidades que determina la ley de la materia.
 
@@ -311,11 +321,13 @@ f) El plazo en que se deberá hacer la designación que al efecto se determine, 
 
 En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 19.
 
-Los integrantes honoríficos del Comité de Participación Ciudadana se rotarán anualmente la representación ante el Comité Coordinador, atendiendo a la mayor antigüedad que tengan en el Comité de Participación Ciudadana.
+Los integrantes del Comité de Participación Ciudadana se rotarán anualmente la presidencia del mismo, atendiendo a la mayor antigüedad que tengan en el Comité referido.
 
-De presentarse la ausencia temporal de algún representante, el Comité de Participación Ciudadana nombrará de entre sus integrantes honoríficos a quien deba sustituirlo durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a dos meses. En caso de que la ausencia sea mayor, ocupará su lugar por un periodo máximo de dos meses aquel miembro honorifico al que le correspondería el periodo anual siguiente y así sucesivamente.
+De presentarse la ausencia temporal del Presidente, el Comité de Participación Ciudadana nombrará de entre sus miembros a quien deba sustituirlo durante el tiempo de su ausencia. Esta suplencia no podrá ser mayor a dos meses. En caso de que la ausencia sea mayor, se designará por mayoría de votos del mismo Comité a un nuevo presidente, por un período máximo de dos meses y así sucesivamente, hasta que concluya la ausencia o se agote el período restante del presidente sustituido.
 
 ###### Artículo 20.
 
@@ -361,7 +373,9 @@ XIII. Opinar sobre el programa anual de trabajo del Comité Coordinador;
 
 XIV. Realizar observaciones, a través de su participación en la Comisión Ejecutiva, a los proyectos de informe anual del Comité Coordinador;
 
-XV. Proponer al Comité Coordinador, a través de su participación en la Comisión Ejecutiva, la emisión de recomendaciones vinculantes;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XV. Proponer al Comité Coordinador, a través de su participación en la Comisión Ejecutiva, la emisión de recomendaciones;
 
 XVI. Promover la colaboración con instituciones en la materia, con el propósito de elaborar investigaciones sobre las políticas públicas para la prevención, detección y combate de hechos de corrupción o faltas administrativas;
 
@@ -369,17 +383,29 @@ XVII. Dar seguimiento al funcionamiento del Sistema Estatal;
 
 XVIII. Proponer al Comité Coordinador mecanismos para facilitar el funcionamiento de las instancias de contraloría social existentes, así como para recibir directamente información generada por esas instancias y formas de participación ciudadana;
 
-XIX. Los miembros honoríficos se encargarán de proporcionar, impulsar o impartir cursos en materia anticorrupción, a los servidores públicos de los diferentes órdenes de gobierno, como instituciones de educación media y superior, así como a las personas físicas y morales de esta entidad, para la ponderación de la ética y valores, en los futuros servidores públicos, o quienes le presten algún servicio a los mismos, y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-XX. Integrar la Comisión Especial a que se hace referencia en el párrafo octavo del artículo 70 de la Constitución Política del Estado Libre y Soberano de Baja California, mediante cuatro miembros honoríficos del Comité de Participación Ciudadana.
+XIX. Proporcionar, impulsar o impartir cursos en materia (sic) anticorrupción, a los servidores públicos de los diferentes órdenes de gobierno, como instituciones de educación media y superior, así como a las personas físicas y morales de esta entidad, para la ponderación de la ética y valores, en los futuros servidores públicos, o quienes le presten algún servicio a los mismos;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XX. Formar comisiones de trabajo, así como orientar y difundir la cultura de la legalidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XXI. Las demás que se determinen en la presente Ley y demás ordenamientos en materia de anticorrupción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 22.
 
-El presidente del Comité de Participación Ciudadana, será el integrante honorifico de mayor antigüedad, el cual tendrá como atribuciones:
+El Presidente del Comité de Participación Ciudadana tendrá como atribuciones:
 
 I. Presidir las sesiones;
 
-II. Representar a dicho Comité ante el Comité Coordinador;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+II. Presidir el Comité Coordinador.
 
 III. Preparar el orden de los temas a tratar, y
 
@@ -413,9 +439,11 @@ III. Los demás bienes que, en su caso, le sean transferidos bajo cualquier otro
 
 Las relaciones de trabajo entre la Secretaría Ejecutiva y sus trabajadores, se rigen por el artículo 99 de la Constitución Local y conforme a la Ley del Servicio Civil del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 27.
 
-La Secretaría Ejecutiva contará con un órgano interno de control, cuyo titular será designado en términos de lo dispuesto por la fracción XLII del artículo 27 de la Constitución Política del Estado Libre y Soberano de Baja California, y contará con la estructura que dispongan las normas jurídicas aplicables.
+La Secretaría Ejecutiva contará con un órgano interno de control, cuyo titular será designado en términos de lo dispuesto por la fracción XLIII del artículo 27 de la Constitución Política del Estado Libre y Soberano de Baja California, y contará con la estructura que dispongan las normas jurídicas aplicables.
 
 El órgano interno de control estará limitado en sus atribuciones al control y fiscalización de la Secretaría Ejecutiva, exclusivamente respecto a las siguientes materias:
 
@@ -445,7 +473,9 @@ Podrán participar con voz, pero sin voto aquellas personas que el órgano de go
 
 El órgano de gobierno tendrá las atribuciones indelegables previstas en el artículo 61 y demás aplicables de la Ley de las Entidades Paraestatales del Estado de Baja California
 
-Asimismo, tendrá la atribución indelegable de nombrar y remover, por mayoría calificada de diecisiete votos, al Secretario Técnico, de conformidad con lo establecido por esta Ley.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Asimismo, tendrá la atribución indelegable de nombrar y remover, por las dos terceras partes de votos de sus integrantes, al Secretario Técnico, de conformidad con lo establecido por esta Ley.
 
 #### SECCIÓN II. De la Comisión Ejecutiva
 
@@ -489,9 +519,11 @@ La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exh
 
 #### SECCIÓN III. Del Secretario Técnico
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 33.
 
-El Secretario Técnico será nombrado y removido por el órgano de gobierno de la Secretaría Ejecutiva, por mayoría calificada de sus miembros. Durará cinco años en su encargo y no podrá ser reelegido.
+El Secretario Técnico será nombrado y removido por el órgano de gobierno de la Secretaría Ejecutiva, por las dos terceras partes de votos de sus miembros. Durará cinco años en su encargo y no podrá ser reelegido.
 
 Para efectos del párrafo anterior, el presidente del órgano de gobierno, previa aprobación del Comité de Participación Ciudadana, someterá al mismo una terna de personas que cumplan los requisitos para ser designado Secretario Técnico, de conformidad con la presente Ley.
 
@@ -503,33 +535,11 @@ El Secretario Técnico podrá ser removido por falta a su deber de diligencia, o
 
 3. Incurrir en alguna falta administrativa grave o hecho de corrupción.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 34.
 
-Para ser designado Secretario Técnico se deberán reunir los requisitos siguientes:
-
-I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles;
-
-II. Experiencia verificable de al menos cinco años en materias de transparencia, evaluación, fiscalización, rendición de cuentas o combate a la corrupción;
-
-III. Tener cuando menos de treinta y cinco años cumplidos al día de la designación;
-
-IV. Haber residido en el Estado durante los diez años anteriores al día de la designación;
-
-V. Poseer al día de la designación, con antigüedad mínima de diez años, título profesional de nivel licenciatura y contar con los conocimientos y experiencia relacionadas con la materia de esta Ley que le permitan el desempeño de sus funciones;
-
-VI. Gozar de buena reputación y no haber sido condenado por algún delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
-
-VII. Presentar sus declaraciones de intereses, patrimonial y fiscal, de forma previa a su nombramiento;
-
-VIII. No haber ocupado cargo de elección popular, ni haber sido titular de los Poderes Ejecutivo, Legislativo y Judicial, Municipios y Organismos Públicos Autónomos, así como titular de sus respectivas Entidades, Dependencias y Unidades Administrativas equivalentes, durante los tres años previos al día de la designación;
-
-IX. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal, en algún partido político, durante los tres años anteriores al día de la designación;
-
-X. No haber sido candidato a algún cargo de elección popular, o afiliado a algún partido político durante los tres años anteriores al día de la designación;
-
-XI. Haber destacado por su contribución en materia de fiscalización, de rendición de cuentas, prevención, investigación, detección y combate a la corrupción;
-
-XII. Las demás que determinen las Leyes.
+Para ser designado Secretario Técnico se deberán reunir los requisitos previstos en el artículo 34 de la Ley General, así como no haber sido titular del Poder Judicial, Municipios y Organismos Públicos Autónomos, ni titular de sus respectivas Entidades, Dependencias y Unidades Administrativas equivalentes, durante los tres años previos al día de la designación.
 
 ###### Artículo 35.
 
@@ -729,11 +739,15 @@ El informe anual a que se refiere el párrafo anterior deberá ser aprobado como
 
 En los casos en los que del informe anual se desprendan recomendaciones, el presidente del Comité Coordinador instruirá al Secretario Técnico para que, a más tardar a los quince días posteriores a que haya sido aprobado el informe, las haga del conocimiento de las autoridades a las que se dirigen. En un plazo no mayor de treinta días, dichas autoridades podrán solicitar las aclaraciones y precisiones que estimen pertinentes en relación con el contenido de las recomendaciones.
 
-###### Artículo 57.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-Las recomendaciones vinculantes que emita el Comité Coordinador del Sistema Estatal a los Entes públicos, serán públicas y de carácter institucional y estarán enfocadas al fortalecimiento de los procesos, mecanismos, organización, normas, así como acciones u omisiones que deriven del informe anual que presente el Comité Coordinador.
+###### ARTÍCULO 57.
 
-Tendrán el carácter de recomendaciones vinculantes, aquellas que emita el Comité Coordinador en cumplimiento de sus atribuciones, y en congruencia con los ámbitos de competencia.
+Las recomendaciones que emita el Comité Coordinador del Sistema Estatal a los Entes públicos, serán públicas y de carácter institucional y estarán enfocadas al fortalecimiento de los procesos, mecanismos, organización, normas, así como acciones u omisiones que deriven del informe anual que presente el Comité Coordinador.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Tendrán el carácter de recomendaciones, aquellas que emita el Comité Coordinador en cumplimiento de sus atribuciones, y en congruencia con los ámbitos de competencia.
 
 Las recomendaciones deberán ser aprobadas por la mayoría de los miembros del Comité Coordinador.
 
@@ -796,3 +810,15 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 151 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 27, 71 Y 95 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, ASIMISMO DIVERSAS REFORMAS A LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
+
+SEGUNDO. Por única ocasión y tratándose de la reforma al artículo 19, la Presidencia del Comité de Participación Ciudadana se ocupará y rotará atendiendo al orden de menor a mayor plazo de duración en el encargo por el que fueron designados sus cinco integrantes, en términos del artículo transitorio quinto de la reforma constitucional por el que se aprobó la conformación del Comité. En el supuesto de los integrantes que cuenten con un periodo igual de duración en el cargo, esta se determinará por insaculación.
+
+En ningún caso la Presidencia del Comité de Participación Ciudadana recaerá en quien ya la hubiere ostentado.
