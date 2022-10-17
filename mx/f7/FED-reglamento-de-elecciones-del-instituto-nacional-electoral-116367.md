@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2022-10-04"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 4 DE OCTUBRE DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 17 DE OCTUBRE DE 2022, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2022.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -109,7 +109,13 @@ f) Realización de los cómputos municipales, distritales y de entidad federativ
 
 g) Registro de coaliciones, y
 
-h) Designación de los consejeros electorales distritales y municipales, así como de los servidores públicos titulares de las áreas ejecutivas de dirección de los OPL.
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2022)</small>
+
+h) Designación de los consejeros electorales distritales y municipales, así como de los servidores públicos titulares de las áreas ejecutivas de dirección de los OPL, e
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE OCTUBRE DE 2022)</small>
+
+i) Desarrollo e implementación del sistema "Candidatas y Candidatos, Conóceles".
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -4378,6 +4384,14 @@ e. En caso que la acreditación haya sido expedida por un consejo del Instituto 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 2020)</small>
 
 2. Los sujetos obligados deberán realizar el registro de precandidaturas y candidaturas en el Sistema Nacional de Registro de Precandidatos y Candidatos, así como de los Aspirantes y Candidaturas Independientes (SNR) implementado por el propio Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE OCTUBRE DE 2022)</small>
+
+3. En el ámbito federal, una vez aprobadas las candidaturas, los sujetos obligados deberán capturar la información curricular y de identidad de sus candidaturas en el Sistema Candidatas y Candidatos, Conóceles conforme a los Lineamientos que apruebe el Consejo General, y que forman parte del presente reglamento como Anexo 24.1.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE OCTUBRE DE 2022)</small>
+
+4. En el ámbito local, una vez aprobadas las candidaturas por los órganos correspondientes de cada OPL, los sujetos obligados deberán capturar la información curricular y de identidad en el Sistema de Candidatas y Candidatos, Conóceles implementado en cada OPL, actividades que serán regidas por los Lineamientos que apruebe el Consejo General, y que forman parte del presente reglamento como Anexo 24.2.
 
 > <small>(REFORMADO, D.O.F. 12 DE MARZO DE 2018)</small>
 
@@ -9572,5 +9586,93 @@ QUINTO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores,
 SEXTO. El presente acuerdo y su anexo entrarán en vigor a partir del día de su aprobación por parte de este Consejo General.
 
 SÉPTIMO. Publíquense el presente acuerdo y su anexo en la Gaceta Electoral, en NormaINE, en el portal electrónico del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE OCTUBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LAS MODIFICACIONES AL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL, PARA INCORPORAR LA OBLIGATORIEDAD DE LA PUBLICACIÓN DE INFORMACIÓN CURRICULAR Y DE IDENTIDAD DE LAS CANDIDATURAS EN LAS ELECCIONES FEDERALES Y LOCALES, ASÍ COMO LA APROBACIÓN DE LOS LINEAMIENTOS PARA EL USO DEL SISTEMA CANDIDATAS Y CANDIDATOS CONÓCELES PARA LOS PROCESOS ELECTORALES FEDERALES Y LOCALES", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueban las modificaciones a los artículos 4 y 267 del Reglamento de Elecciones del Instituto Nacional Electoral, para quedar en los términos siguientes:
+
+Reglamento de Elecciones
+
+[…]
+
+# LIBRO PRIMERO. DISPOSICIONES GENERALES
+
+## TÍTULO ÚNICO. Objeto, Ámbito de Aplicación y Criterios de Interpretación
+
+[…]
+
+###### Artículo 4.
+
+1. Todas las disposiciones de este Reglamento que regulan los siguientes temas, y que fueron emitidas en ejercicio de la facultad de atracción del Instituto, a través de las cuales se fijaron criterios de interpretación en asuntos de la competencia original de los Organismos Públicos Locales, tienen carácter obligatorio.
+
+[…]
+
+h) Designación de los consejeros electorales distritales y municipales, así como de los servidores públicos titulares de las áreas ejecutivas de dirección de los OPL, e
+
+i) Desarrollo e implementación del sistema “Candidatas y Candidatos, Conóceles”.
+
+[…]
+
+# LIBRO TERCERO. PROCESO ELECTORAL
+
+## TÍTULO I.. Actos Preparatorios de la elección
+
+[…]
+
+### Capítulo XIV.. Verificación para el registro de candidaturas
+
+###### Artículo 267.
+
+[…]
+
+3. En el ámbito federal, una vez aprobadas las candidaturas, los sujetos obligados deberán capturar la información curricular y de identidad de sus candidaturas en el Sistema Candidatas y Candidatos, Conóceles conforme a los Lineamientos que apruebe el Consejo General, y que forman parte del presente reglamento como Anexo 24.1.
+
+4. En el ámbito local, una vez aprobadas las candidaturas por los órganos correspondientes de cada OPL, los sujetos obligados deberán capturar la información curricular y de identidad en el Sistema de Candidatas y Candidatos, Conóceles implementado en cada OPL, actividades que serán regidas por los Lineamientos que apruebe el Consejo General, y que forman parte del presente reglamento como Anexo 24.2.
+
+SEGUNDO. Se aprueban los Lineamientos como anexos 24.1 y 24.2 del Reglamento de Elecciones del Instituto Nacional Electoral.
+
+Anexo Denominación
+
+24.1 Lineamientos para el uso del sistema denominado Candidatas y Candidatos, Conóceles para los procesos electorales federales
+
+24.2 Lineamientos para el uso del sistema Candidatas y Candidatos, Conóceles para los procesos electorales locales
+
+TERCERO. Se instruye a las UTTyPDP, a la UTSI, a la UTIGyND, a la DEPPP, y a la UTVOPL para que, en el ámbito de sus atribuciones, efectúen las acciones necesarias para instrumentar las actividades y procedimientos establecidos en los anexos 24.1 y 24.2 relativo a los Lineamientos referidos en el punto Segundo del presente acuerdo.
+
+CUARTO. Se instruye a la UTVOPL para que, a partir de la entrada en vigor del presente acuerdo, informe su contenido a las presidencias de los Órganos Superiores de Dirección de los OPL de las entidades federativas, a fin de que lo informen a las y los integrantes de dichos Órganos y realicen en materia del Sistema Candidatas y Candidatos, Conóceles, las previsiones correspondientes para los PEL que se aproximen, y respecto a su estructura lleven a cabo las modificaciones respectivas.
+
+QUINTO. Se instruye a la UTTyPDP para que, en el término 30 días hábiles contados a partir de la entrada en vigor del presente acuerdo, informe a los OPL, a través de la UTVOPL la Metodología para el análisis cualitativo y cuantitativo de la información capturada por las personas candidatas en el Sistema Candidatas y Candidatos Conóceles que desarrollen e implementen, así como brindar las asesorías que requieran para la aplicación de ésta en el informe final que presenten ante sus órganos superiores de dirección.
+
+SEXTO. Se instruye a la UTTyPDP a realizar las gestiones necesarias ante la Dirección de Secretariado y la Dirección Jurídica de este Instituto, para que, en el ámbito de sus respectivas competencias, realicen las modificaciones al articulado en términos de lo previsto en el punto primero del presente acuerdo e integren en el compilado de anexos del Reglamento de Elecciones del Instituto Nacional Electoral, los Lineamientos señalados en el punto de acuerdo segundo, para quedar como sigue:
+
+Anexo Denominación
+
+24.1 Lineamientos para el uso del sistema denominado Candidatas y Candidatos, Conóceles para los procesos electorales federales
+
+24.2 Lineamientos para el uso del sistema Candidatas y Candidatos, Conóceles para los procesos electorales locales
+
+SÉPTIMO. El presente acuerdo y las modificaciones al Reglamento de Elecciones del Instituto Nacional Electoral, así como los anexos 24.1 y 24.2 entrarán en vigor al día siguiente de su aprobación por parte del Consejo General.
+
+OCTAVO. Los OPL de los estados de Coahuila y Estado de México con Procesos Electorales Ordinarios en curso deberán ajustar los plazos establecidos en el anexo 24.2 del presente Acuerdo.
+
+NOVENO. Publíquese el presente acuerdo en la Gaceta Electoral, en NormaINE y en el portal de Internet del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 7 de septiembre de 2022, por votación unánime de las y los Consejeros Electorales, Maestra Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Doctora Adriana Margarita Favela Herrera, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordán, Doctor Ciro Murayama Rendón, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
+
+El Consejero Presidente del Consejo General, Dr. Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Lic. Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo y los anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://portal.ine.mx/sesion-extraordinaria-del-consejo-general-07-de-septiembre-de-2022/
+
+Página DOF
+
+www.dof.gob.mx/2022/INE/CGext202209_07_ap_12.pdf
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
