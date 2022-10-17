@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2022-09-19"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -593,6 +593,18 @@ IV.- Acciones para diagnosticar y ayudar a resolver el problema de salud visual 
 
 V.- Los menores de hasta seis meses de edad, entregados en las Instituciones Públicas de Salud del Estado y Albergues del Sistema Estatal para el Desarrollo Integral de la Familia, se les proporcionará atención pre-hospitalaria o de urgencia según sea el caso;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+V Bis.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida.
+
+Las autoridades sanitarias fomentarán la instalación de salas de lactancia en los centros de trabajo del sector público y privado.
+
+En los centros de trabajo del sector privado la instalación de salas de lactancia se sujetará a las disposiciones laborales y demás aplicables.
+
+En los establecimientos de cualquier giro comercial o de servicios se procurará contar, por lo menos, con una sala de lactancia.
+
+Las salas de lactancia son los espacios dotados de privacidad, dignos, higiénicos y cálidos en los cuales las madres pueden amamantar, extraer su leche y conservarla, en términos de la normatividad que al efecto se expida.
+
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2016)</small>
 
 VI.- La realización del tamiz neonatal ampliado; y
@@ -937,9 +949,11 @@ Los usuarios deberán ajustarse a la reglamentación interna de las institucione
 
 La Secretaría de Salud del Estado en el ámbito de su competencia, establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de salud a la población en general que sean proporcionados por instituciones de salud del Estado o de los Municipios.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 45.
 
-Las Autoridades Sanitarias del Estado y las propias instituciones públicas de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y a la falta de probidad, en su caso, de los servidores públicos.
+Las Autoridades Sanitarias del Estado y las propias instituciones públicas de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran y los perfiles profesionales del campo de la salud que soliciten, así como mecanismos para que presenten sus denuncias, quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y a la falta de probidad, en su caso, de los servidores públicos.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
 
@@ -948,6 +962,10 @@ ARTÍCULO 45 BIS.- Es una obligación de los prestadores de servicios de salud e
 En el caso de urgencia o que el usuario se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal; en caso de no ser posible lo anterior, el prestador de servicios de salud procederá de inmediato para preservar la vida y la salud del usuario, dejando constancia en el expediente clínico.
 
 Los usuarios de los servicios de salud en general, contarán con facilidades para acceder a una segunda opinión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Todo usuario de servicio de salud tiene derecho a conocer de la experiencia del prestador del servicio de salud; de su reputación y tiempo en el ejercicio profesional.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2016)</small>
 
@@ -1263,7 +1281,9 @@ I.- La Ley Reglamentaria del Ejercicio Profesional para el Estado de Baja Califo
 
 II.- Las bases de coordinación que conforme a la Ley se definan entre las Autoridades Educativas y Sanitarias del Estado;
 
-III.- La certificación del Colegio de Profesionales respectivo o de la Asociación correspondiente en su caso; y
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+III.- La certificación y recertificaciones del Colegio de Profesionales respectivo o de la Asociación correspondiente en su caso; y,
 
 IV.- Los acuerdos que al efecto se suscriban entre el Ejecutivo del Estado y la Federación.
 
@@ -1271,13 +1291,19 @@ IV.- Los acuerdos que al efecto se suscriban entre el Ejecutivo del Estado y la 
 
 Para el ejercicio de actividades profesionales en el campo de la salud, especialidades o ramas de la medicina, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos o autorizados por instituciones educativas y obtenido su registro ante el Departamento de Profesiones.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Las certificaciones y recertificaciones necesarias para el ejercicio de actividades profesionales en el campo de la salud, se estará a lo que establezca la Ley General de la materia y demás disposiciones aplicables.
+
 ###### ARTÍCULO 53.
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la salud o ramas de la medicina, se requiere que los diplomas, constancias o reconocimientos, hayan sido legalmente expedidos o autorizados por las instituciones educativas y registrados ante la Secretaría de Salud del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 54.
 
-La Secretaría de Educación y Bienestar Social por conducto de su Departamento de Profesiones, proporcionará a las Autoridades Sanitarias del Estado cuando así lo soliciten, relación de aquellas personas que tengan registro de cédulas profesionales, especialidades o títulos que acrediten sus estudios de medicina.
+La Secretaría de Educación del Poder Ejecutivo del Estado, por conducto de su Departamento de Profesiones, proporcionará a las Autoridades Sanitarias del Estado cuando así lo soliciten, relación de aquellas personas que tengan registro de cédulas profesionales, especialidades, certificaciones o recertificaciones o títulos que acrediten sus estudios de medicina.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
 
@@ -1287,9 +1313,9 @@ La Secretaría de Salud, tomando en cuenta la información que le proporcione el
 
 La lista a que se refiere el párrafo anterior, deberá actualizarse de manera permanente de acuerdo con la información que al efecto proporcione el Departamento de Profesiones del Estado.
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud del Estado un directorio electrónico con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas que avalen su ejercicio profesional.
+Las sociedades, asociaciones, colegios o federaciones de profesionistas pondrán a disposición de la Secretaría de Salud del Estado un directorio electrónico con acceso al público que contenga los nombres, datos de los profesionistas que lleven a cabo procedimientos médico-quirúrgicos y certificado o recertificación de especialización vigente, además de proporcionar el nombre y datos de la Institución y/o Instituciones educativas que avalen su ejercicio profesional.
 
 ###### ARTÍCULO 55.
 
@@ -3790,3 +3816,17 @@ P.O. 19 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 132 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 10 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA, ASIMISMO SE REFORMA AL ARTÍCULO 30 DE LA LEY PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 141 MEDIANTE EL CUAL SE REFORMA AL ARTÍCULO 22 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los 6 meses posteriores a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 180 días naturales posteriores a la entrada en vigor del presente Decreto, se emitirá las disposiciones reglamentarias aplicables.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 142 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 45, 45 BIS, 51, 52 Y 54 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
