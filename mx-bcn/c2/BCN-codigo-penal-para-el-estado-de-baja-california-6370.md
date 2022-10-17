@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2022-09-19"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3899,6 +3899,10 @@ II.- Estarán obligados a la reparación del daño por sus actos propios y por l
 
 Abandono injustificado.- El artículo anterior se aplicará a los médicos que, habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, lo abandonen en su tratamiento sin causa justificada, y sin dar aviso inmediato a la autoridad correspondiente.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Artículo 270 BIS.- Al médico que realice una intervención quirúrgica sin contar con el consentimiento informado o autorización del paciente o de quien legítimamente pueda otorgarlo, salvo casos de urgencia en términos del artículo 51 Bis 2 de la Ley General de Salud, se impondrá de seis meses a cinco años de prisión, multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización, y suspensión de un mes a dos años para ejercer la profesión.
+
 ###### Artículo 271.
 
 Responsabilidad por daños indebidos.- Igualmente serán responsables en la forma que previene el artículo 269, todos los que causen daños indebidos en el ejercicio de una profesión, arte o actividad técnica.
@@ -6374,3 +6378,9 @@ P.O. 19 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 121 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 147 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 144 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 270 BIS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
