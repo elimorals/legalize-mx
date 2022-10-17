@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-al-migrante-del-estado-de-aguascalientes-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2022-09-30"
+last_updated: "2022-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE PROTECCION AL MIGRANTE DEL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE OCTUBRE DE 2022 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PROTECCIÓN AL MIGRANTE DEL ESTADO DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE OCTUBRE DE 2022.]</small>
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -37,11 +37,15 @@ La LXV Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, e
 
 Decreto Número 186
 
+> <small>(F. DE E., P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO ÚNICO.
 
-Se expide la “LEY DE PROTECCIÓN AL MIGRANTE DEL ESTADO DE AGUASCALENTES (SIC)”, en los siguientes términos:
+Se expide la “LEY DE PROTECCIÓN AL MIGRANTE DEL ESTADO DE AGUASCALIENTES”, en los siguientes términos:
 
-LEY DE PROTECCIÓN AL MIGRANTE DEL ESTADO DE AGUASCALENTES (SIC)
+> <small>(F. DE E., P.O. 17 DE OCTUBRE DE 2022)</small>
+
+LEY DE PROTECCIÓN AL MIGRANTE DEL ESTADO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO
 
