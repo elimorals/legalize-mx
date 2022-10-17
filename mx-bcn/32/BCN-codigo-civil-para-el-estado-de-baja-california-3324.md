@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2022-02-11"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -4957,7 +4957,9 @@ I.- La casa habitación de la familia;
 
 II.- El terreno a su alrededor;
 
-III.- Los muebles y útiles de uso ordinario de la familia no siendo de lujo, a juicio del juez;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+III.- Los muebles y útiles de uso ordinario de la familia no siendo de lujo;
 
 IV.- Los libros, aparatos, instrumentos y útiles que sirvan para el ejercicio de la profesión u oficio;
 
@@ -4965,9 +4967,13 @@ V.- Los animales domésticos, siempre que no constituyan en si un negocio indepe
 
 VI.- Las provisiones y forrajes;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE OCTUBRE DE 2022)</small>
+
 VII.- En algunos casos, una parcela cultivable;
 
-VIII.- La maquinaria e instrumentos propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca y estén en relación con la extensión del cultivo, a juicio del juez.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+VIII.- La maquinaria e instrumentos propios para el cultivo agrícola, en cuanto fueren necesarios para el servicio de la finca y estén en relación con la extensión del cultivo.
 
 ###### ARTICULO 716.
 
@@ -4985,9 +4991,11 @@ Los beneficiarios de los bienes afectos al patrimonio de la familia serán repre
 
 El representante tendrá también la administración de dichos bienes.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 719.
 
-Los bienes afectos al patrimonio de la familia son inalienables y no estarán sujetos a embargo ni gravamen alguno.
+Los bienes afectos al régimen de patrimonio de familia son inalienables, imprescriptibles y no estarán sujetos a embargo ni gravamen alguno. Podrán ser transmitidos a título de herencia sin necesidad de extinguir el citado patrimonio y con la misma afectación de destino, haciéndose la anotación marginal correspondiente en el Registro Público de la Propiedad.
 
 ###### ARTICULO 720.
 
@@ -4997,11 +5005,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 722.
 
-El valor máximo de los bienes afectados al patrimonio de la familia conforme al artículo 715, será la cantidad que resulte de multiplicar por 25,000 el importe del valor diario de la Unidad de Medida y Actualización vigente, en la época en que se constituya el patrimonio.
+El valor máximo de los bienes afectados al patrimonio de la familia conforme al Artículo 715, será la cantidad que resulte de multiplicar por 40,000 el importe del valor diario de la Unidad de Medida y Actualización vigente, en la época en que se constituya el patrimonio.
 
 ###### ARTICULO 723.
 
@@ -5079,7 +5087,9 @@ El patrimonio de la familia se extingue:
 
 I.- Cuando todos los beneficiarios cesen de tener derechos de percibir alimentos;
 
-II.- Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+II.- Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa, salvo que se compruebe que el patrimonio familiar se encuentra en arrendamiento o aparcería;
 
 III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
 
@@ -16884,3 +16894,9 @@ P.O. 11 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N°. 75 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA, LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA, LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LEY DE LA FAMILIA PARA EL ESTADO DE BAJA CALIFORNIA, CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA Y LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 143 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 715, 719, 722 Y 733 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA.”]
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
