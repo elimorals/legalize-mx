@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2020-07-09"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2020.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE JULIO DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -1151,11 +1151,11 @@ Las facultades del Congreso del Estado para la revisión del Informe de Resultad
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO. P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 80.
 
-Las sanciones y demás resoluciones definitivas que emita el Órgano Superior de Fiscalización conforme a esta Ley, podrán ser impugnadas por las Entidades Fiscalizadas y, en su caso, por el servidor público afectado adscrito a las mismas o por los particulares, personas físicas o morales, ante el propio Órgano Superior de Fiscalización, mediante el recurso de revocación o bien, mediante juicio de nulidad ante la Sala Administrativa y Electoral del Poder Judicial del Estado. El recurso de revocación se interpondrá dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la sanción o resolución recurrida o de ambos.
+Las sanciones y demás resoluciones definitivas que emita el Órgano Superior de Fiscalización conforme a esta Ley, podrán ser impugnadas por las Entidades Fiscalizadas y, en su caso, por el servidor público afectado adscrito a las mismas o por los particulares, personas físicas o morales, ante el propio Órgano Superior de Fiscalización, mediante el recurso de revocación o bien, mediante juicio de nulidad ante la Sala Administrativa. El recurso de revocación se interpondrá dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la sanción o resolución recurrida o de ambos.
 
 No procederá el recurso de revocación o el juicio de nulidad en contra de actos dictados dentro del procedimiento de fiscalización, en tanto no se dicte resolución definitiva.
 
@@ -2074,3 +2074,15 @@ Derivado de la pandemia COVID-19, los Informes del Avance de la Gestión financi
 ###### ARTÍCULO SÉPTIMO.
 
 Los artículos transitorios del presente Decreto tendrán efecto sólo para los Informes de Avance, Informes de Resultados, Informes de Observaciones Preliminares y Revisión de las Cuentas Públicas a las que se hace mención.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 199.- SE REFORMAN LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES; EL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES; Y, LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los seis meses posteriores de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
