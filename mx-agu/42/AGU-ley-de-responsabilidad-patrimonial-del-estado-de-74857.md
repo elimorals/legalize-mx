@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidad-patrimonial-del-estado-de-74857"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-10"
-last_updated: "2018-11-05"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de mayo de 2010.
 
@@ -53,7 +53,9 @@ Su objeto es fijar las bases y procedimientos para reconocer el derecho a la ind
 
 La responsabilidad patrimonial es objetiva y directa; la indemnización deberá ajustarse a los términos y condiciones señalados en esta Ley y en las disposiciones legales a que la misma hace referencia.
 
-En el caso de la responsabilidad señalada en el Título Octavo de la Legislación Penal del Estado de Aguascalientes, la misma se tramitará conforme a las reglas previstas en dicha normatividad, sin que sea aplicable la presente Ley.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+En el caso de privación de la libertad o condena injusta, si el procesado es liberado, absuelto, se dicta sobreseimiento a su favor o se declara procedente su reconocimiento de inocencia, tendrá derecho a una indemnización conforme a lo previsto en el Libro Tercero “Indemnizaciones” del Código Penal para el Estado de Aguascalientes, sin que sea aplicable la presente Ley.
 
 ###### Artículo 2º.
 
@@ -69,7 +71,11 @@ III. Entes públicos: salvo mención expresa en contrario, los poderes judicial,
 
 IV. Salario: Al salario mínimo general vigente en el Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 3°.
+
+La interpretación de las disposiciones de este ordenamiento para efectos administrativos, corresponderá a cada entidad o dependencia y, para efectos jurisdiccionales, a la Sala Administrativa.
 
 ###### Artículo 3º.
 
@@ -159,11 +165,11 @@ La cuantificación de la indemnización se calculará de acuerdo a la fecha en q
 
 Las indemnizaciones deberán cubrirse en su totalidad de conformidad con los términos y condiciones dispuestos por esta Ley y a las que ella remita. En los casos de haberse celebrado contrato de seguro contra la responsabilidad patrimonial, ante la eventual producción de daños y perjuicios que sean consecuencia de la actividad administrativa del Estado, la suma asegurada se destinará a cubrir el monto equivalente a la reparación integral o equitativa, según el caso. De ser ésta insuficiente, el Estado continuará obligado a resarcir la diferencia respectiva. El pago de cantidades líquidas por concepto de impuestos relativos al pago de las indemnizaciones preceptuadas en los seguros, corresponde a los entes y no podrá disminuirse de la indemnización.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 15.
 
-Las indemnizaciones fijadas por la Sala Administrativa y Electoral que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 17 de la presente Ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en los términos de esta Ley, el Código Fiscal del Estado o, en su caso, el ordenamiento fiscal municipal que corresponda.
+Las indemnizaciones fijadas por la Sala Administrativa que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 17 de la presente Ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en los términos de esta Ley, el Código Fiscal del Estado o, en su caso, el ordenamiento fiscal municipal que corresponda.
 
 ###### Artículo 16.
 
@@ -179,11 +185,11 @@ Las resoluciones o sentencias firmes dictadas en términos de la presente Ley, d
 
 Los procedimientos de responsabilidad patrimonial del Estado se iniciarán por reclamación de la parte interesada.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 19.
 
-La parte interesada deberá presentar indistintamente su reclamación ante el ente público estatal presuntamente responsable o bien ante la Sala Administrativa y Electoral, conforme a la Ley del Procedimiento Contencioso Administrativo.
+La parte interesada deberá presentar indistintamente su reclamación ante el ente público estatal presuntamente responsable o bien ante la Sala Administrativa, conforme a la Ley del Procedimiento Contencioso Administrativo.
 
 ###### Artículo 20.
 
@@ -225,11 +231,11 @@ Las resoluciones administrativas que se dicten con motivo de los reclamos que pr
 
 Además de lo previsto en el párrafo anterior, las resoluciones administrativas contendrán la valoración del daño causado, así como el monto en dinero o en especie de la indemnización, fundando y motivando de manera detallada los criterios utilizados para tal cuantificación.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 24.
 
-Las resoluciones de la autoridad administrativa que nieguen la indemnización o que no satisfagan al interesado, podrán impugnarse ante la Sala Administrativa y Electoral, conforme a las leyes de la materia.
+Las resoluciones de la autoridad administrativa que nieguen la indemnización o que no satisfagan al interesado, podrán impugnarse ante la Sala Administrativa conforme a las leyes de la materia.
 
 ### CAPÍTULO V. Del Procedimiento Contencioso Administrativo
 
@@ -241,11 +247,11 @@ El procedimiento de responsabilidad patrimonial del Estado por la vía contencio
 
 Los actos administrativos afectados de nulidad por sí mismos no presuponen indemnización.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 27.
 
-Las resoluciones dictadas por la Sala Administrativa y Electoral no admiten recurso alguno y causarán estado y serán ejecutables siguiendo las reglas que se establecen en la Ley del Procedimiento Contencioso Administrativo vigente.
+Las resoluciones dictadas por la Sala Administrativa no admiten recurso alguno y causarán estado y serán ejecutables siguiendo las reglas que se establecen en la Ley del Procedimiento Contencioso Administrativo vigente.
 
 ### CAPÍTULO VI. De la Concurrencia
 
@@ -281,11 +287,11 @@ En el supuesto de que las reclamaciones deriven de hechos o actos dañosos produ
 
 En caso contrario, cuando la lesión reclamada haya sido ocasionada por la actividad del concesionario y no se derive de una determinación impuesta por el concesionante, la reparación correrá a cargo del concesionario.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 32.
 
-En los casos de concurrencia de dos o más dependencias o entidades en la producción de las lesiones patrimoniales reclamadas o cuando se suponga concurrencia de agentes causantes de la lesión patrimonial y éstas no lleguen a un acuerdo o convenio, deberá de someterse el problema a la determinación de la Sala Administrativa y Electoral del Poder Judicial del Estado.
+En los casos de concurrencia de dos o más dependencias o entidades en la producción de las lesiones patrimoniales reclamadas o cuando se suponga concurrencia de agentes causantes de la lesión patrimonial y éstas no lleguen a un acuerdo o convenio, deberá de someterse el problema a la determinación de la Sala Administrativa.
 
 ### CAPÍTULO VII. De la Prescripción
 
@@ -307,11 +313,11 @@ El plazo de prescripción previsto en este Artículo, se interrumpirá al inicia
 
 Los entes públicos podrán repetir de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley cuando, previa substanciación de los procedimientos de responsabilidad administrativa disciplinaria o resarcitoria, previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes. El monto que se le exija al servidor público por este concepto formará parte de la sanción económica que se le aplique.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 35.
 
-Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que hayan pagado los entes públicos estatales con motivo de las reclamaciones de indemnización respectivas, por medio del recurso previsto en la Ley de Responsabilidades de los Servidores Públicos o ante la Sala Administrativa y Electoral.
+Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que hayan pagado los entes públicos estatales con motivo de las reclamaciones de indemnización respectivas, por medio del recurso previsto en la Ley de Responsabilidades de los Servidores Públicos o ante la Sala Administrativa.
 
 ###### Artículo 36.
 
@@ -431,113 +437,25 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 Quedan Derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 12/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO".]
+P.O. 17 DE OCTUBRE DE 2022.
 
-PRIMERO. El presente Acuerdo entrará en vigor el veintinueve de febrero de dos mil dieciséis.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 199.- SE REFORMAN LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES; EL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES; Y, LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO PRIMERO.
 
-D.O.F. 11 DE MARZO DE 2016.
+El presente Decreto entrará en vigor a los seis meses posteriores de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-[TRANSITORIOS DEL “ACUERDO GENERAL 13/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA SEMIESPECIALIZACIÓN Y CAMBIO DE DENOMINACIÓN DE LOS TRIBUNALES COLEGIADOS DEL VIGÉSIMO SEGUNDO CIRCUITO CON SEDE EN QUERÉTARO, QUERÉTARO; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS MENCIONADOS ÓRGANOS COLEGIADOS”.]
+###### ARTÍCULO SEGUNDO.
 
-PRIMERO. El presente Acuerdo entrará en vigor el catorce de marzo de dos mil dieciséis, con excepción de lo dispuesto en el TERCERO y CUARTO transitorios, los cuales entrarán en vigor al día siguiente de su aprobación.
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de internet del Consejo de la Judicatura Federal.
+P.O. 17 DE OCTUBRE DE 2022.
 
-TERCERO. Dese vista a la Comisión de Adscripción para efecto de la integración de los órganos colegiados conforme a las materias de la semiespecialización que se ordena.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 200.- SE REFORMA LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES”.]
 
-CUARTO. La Coordinación de Administración Regional, deberá proveer a los tribunales colegiados que cambian de denominación y competencia de los recursos materiales necesarios (entre otros, letreros de identificación, actualización de placas de directorios de edificios, sellos oficiales, papelería), conforme a su nueva denominación, para que a la brevedad posible cuenten con ellos.
+###### ARTÍCULO ÚNICO.
 
-QUINTO. El Pleno del Vigésimo Segundo Circuito continuará con su conformación, competencia y denominación actual. Lo anterior, de conformidad con lo dispuesto en el artículo 9, en relación con el artículo 2, fracciones XV y XVI, del Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
-
-SEXTO. Se reforma el numeral SEGUNDO, fracción XXII, número 1, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. a XXI. …
-
-XXII. …
-
-1. Cuatro tribunales colegiados semiespecializados: uno en materias penal y administrativa; uno en materias administrativa y de trabajo; y dos en materias administrativa y civil, todos con residencia en Querétaro, Querétaro.
-
-2. a 3. …
-
-XXIII. a XXXII. …”
-
-D.O.F. 11 DE MARZO DE 2016.
-
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 16/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CONOCIMIENTO POR PARTE DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN CINTALAPA DE FIGUEROA, DE LAS CAUSAS PENALES QUE ACTUALMENTE SON COMPETENCIA DE LOS JUZGADOS DE DISTRITO EN EL REFERIDO ESTADO, CON SEDE EN TUXTLA GUTIÉRREZ; ASÍ COMO AL CAMBIO DE DENOMINACIÓN Y COMPETENCIA DE ESTOS ÚLTIMOS, Y A LA NUEVA DENOMINACIÓN DE LOS JUZGADOS DE DISTRITO EN LA CITADA ENTIDAD FEDERATIVA, CON SEDE EN TAPACHULA".]
-
-PRIMERO. El presente Acuerdo entrará en vigor el catorce de marzo de dos mil dieciséis, salvo lo dispuesto en el CUARTO transitorio que entrará en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles, establecido a la entrada en vigor de este Acuerdo, para los Juzgados de Distrito de Procesos Penales Federales en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, y de los Juzgados de Distrito de Amparo y Juicios Federales en el mismo Estado, con residencia en Tuxtla Gutiérrez, iniciará el día lunes a las ocho horas con treinta minutos, y finalizará el siguiente lunes a las ocho horas con veintinueve minutos, quedando de la siguiente manera:
-
-SEMANA DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-Del 14 al 21 de Juzgado Primero de Distrito de Procesos Penales
-
-marzo de 2016 Federales y Juzgado Tercero de Distrito de Amparo
-
-y Juicios Federales.
-
-Del 21 al 28 de Juzgado Segundo de Distrito de Procesos Penales
-
-marzo de 2016 Federales y Juzgado Cuarto de Distrito de Amparo
-
-y Juicios Federales.
-
-Del 28 de marzo Juzgado Primero de Distrito de Procesos Penales
-
-al 4 de abril de 2016 Federales y Juzgado Quinto de Distrito de Amparo
-
-y Juicios Federales.
-
-Del 4 al 11 de abril Juzgado Segundo de Distrito de Procesos Penales
-
-de 2016 Federales y Juzgado Primero de Distrito de Amparo
-
-y Juicios Federales.
-
-Del 11 al 18 de abril Juzgado Primero de Distrito de Procesos Penales
-
-de 2016 Federales y Juzgado Segundo de Distrito de Amparo
-
-y Juicios Federales.
-
-Del 18 al 25 de abril Juzgado Segundo de Distrito de Procesos Penales
-
-de 2016 Federales y Juzgado Tercero de Distrito de Amparo
-
-y Juicios Federales.
-
-Y así sucesivamente, de forma semanal.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los órganos jurisdiccionales materia del presente Acuerdo, de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-QUINTO. Los titulares de los órganos jurisdiccionales que cambian de denominación, deberán colocar letreros en un lugar visible de la puerta de entrada, estrados, reja de prácticas y demás que consideren necesarios del local que cada uno ocupa, tanto para el público como para los que en su caso se encuentren tras las rejas de la ventanilla de prácticas judiciales, en los que se informe que en atención al presente Acuerdo General del Pleno del Consejo de la Judicatura Federal, relativo al conocimiento por parte de los Juzgados de Distrito de Procesos Penales Federales en el Estado de Chiapas, con residencia en Cintalapa de Figueroa, de las causas penales que actualmente son competencia de los juzgados de Distrito en el referido estado, con sede en Tuxtla Gutiérrez, así como al cambio de denominación y competencia de estos últimos, y a la nueva denominación de los juzgados de Distrito en la citada entidad federativa, con sede en Tapachula, a partir del catorce de marzo de dos mil dieciséis, se instruyó el cambio de denominación y competencia de los Juzgados de Distrito en el Estado de Chiapas, con residencia en Tuxtla Gutiérrez, a Juzgados de Distrito de Amparo y Juicios Federales, así como al cambio de denominación de los Juzgados de Distrito con sede en Tapachula. La colocación de avisos se hará también en las oficinas de correspondencia común correspondientes.
-
-SEXTO. Se reforma el numeral SEGUNDO, fracción XX, número 3 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. …
-
-I. a XIX. …
-
-XX. …
-
-1. …
-
-2. …
-
-3. Nueve juzgados de Distrito en el Estado de Chiapas: dos de Procesos Penales Federales, con residencia en Cintalapa de Figueroa; cinco juzgados de Distrito de Amparo y Juicios Federales con sede en Tuxtla Gutiérrez; y dos juzgados de Distrito mixtos con residencia en Tapachula.
-
-XXI. a XXXII. …"
-
-D.O.F. 18 DE MARZO DE 2016.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS SIMILARES 44/2015 Y 52/2014 QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE COAHUILA DE ZARAGOZA Y DURANGO, CON RESIDENCIA EN LAS CIUDADES DE TORREÓN Y DURANGO, RESPECTIVAMENTE; ASÍ COMO EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO; PARA HOMOLOGAR LA JURISDICCIÓN TERRITORIAL DE DICHOS CENTROS CON LOS CIRCUITOS JUDICIALES DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE COMPRENDEN DICHOS ESTADOS”.]
 
