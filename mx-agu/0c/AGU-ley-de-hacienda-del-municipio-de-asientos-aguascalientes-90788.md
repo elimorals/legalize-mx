@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-asientos-aguascalientes-90788"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2017-07-03"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2012.
 
@@ -1203,9 +1205,11 @@ Contra la revocación de licencias, no procederá el recurso de que establece es
 
 ### CAPÍTULO III. Del Recurso de Revocación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 157.
 
-En contra de los actos y procedimientos precisados en el Artículo siguiente, y que emanen de las autoridades fiscales del Municipio, sólo procederá el recurso administrativo de revocación; sin embargo, el afectado podrá optar entre interponer el recurso a que se refiere este Capítulo, o demandar su nulidad ante la Sala Administrativa y Electoral del Estado, siguiendo el procedimiento establecido para ese efecto, en la Ley del Procedimiento Contencioso Administrativo del Estado.
+En contra de los actos y procedimientos precisados en el Artículo siguiente, y que emanen de las autoridades fiscales del Municipio, sólo procederá el recurso administrativo de revocación; sin embargo, el afectado podrá optar entre interponer el recurso a que se refiere este Capítulo, o demandar su nulidad ante la Sala Administrativa, siguiendo el procedimiento establecido para ese efecto, en la Ley del Procedimiento Contencioso Administrativo del Estado.
 
 La resolución que se dicte en el recurso de revocación será también impugnable ante la citada Sala.
 
@@ -1227,7 +1231,9 @@ III. En los casos en que las notificaciones se hicieren en contravención a las 
 
 La declaratoria de nulidad de notificación traerá como consecuencia la de las actuaciones posteriores a la notificación anulada, que tengan relación con ella.
 
-Cuando se haya interpuesto algún medio de defensa, ante la Sala Administrativa y Electoral, será improcedente la solicitud de nulidad de notificaciones ante la autoridad administrativa, mediante el recurso de revisión, y se hará valer mediante ampliación de la demanda respectiva.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Cuando se haya interpuesto algún medio de defensa, ante la Sala Administrativa, será improcedente la solicitud de nulidad de notificaciones ante la autoridad administrativa, mediante el recurso de revisión, y se hará valer mediante ampliación de la demanda respectiva.
 
 ###### ARTÍCULO 159.
 
@@ -1251,7 +1257,9 @@ VI. La autoridad encargada de resolver el recurso acordará lo que proceda, sobr
 
 VII. Vencido el plazo para la rendición de las pruebas, la Tesorería Municipal dictará resolución en un término, que no excederá de treinta días. El silencio de la autoridad significará que la resolución es negativa.
 
-El recurrente podrá decidir esperar la resolución expresa o impugnar la negativa ficta, ante la Sala Administrativa y Electoral.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+El recurrente podrá decidir esperar la resolución expresa o impugnar la negativa ficta, ante la Sala Administrativa.
 
 ###### ARTÍCULO 160.
 
@@ -1308,3 +1316,15 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 199.- SE REFORMAN LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES; EL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES; Y, LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los seis meses posteriores de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
