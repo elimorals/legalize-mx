@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2022-07-18"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -905,11 +905,9 @@ Prescripción. Por la prescripción se extingue la acción penal y la potestad d
 
 Prescripción de la acción penal. El ejercicio de la acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que establezca la descripción típica que corresponda, pero en ningún caso será menor de tres años, y se contará a partir del momento en que se haya concretizado el resultado de lesión o de puesta en peligro del bien jurídico, si el delito es calificado de instantáneo; del momento en que se realizó el último acto de ejecución o se omitió la acción ordenada, si el delito se califica en grado de tentativa; desde el día en que se realizó la última conducta provocadora del resultado de lesión o de puesta en peligro del bien jurídico, si se trata de un delito continuado; y desde el momento en que deje de tener sus efectos, si se trata de delito permanente.
 
-(NOTA: EL 3 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 73/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE ABRIL DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 109, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
-
-El ejercicio de la acción penal será imprescriptible si el hecho encuadra en los tipos penales de pornografía infantil o de incapaces, violación, o violación equiparada, ASÍ COMO EN CUALQUIERA DE LAS VARIABLES O MODALIDADES DE LA FIGURA TÍPICA DE SECUESTRO.
+El ejercicio de la acción penal será imprescriptible si el hecho encuadra en los tipos penales de pornografía infantil o de incapaces, violación y violación equiparada.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
 
@@ -1495,11 +1493,15 @@ Violencia familiar. La violencia familiar consiste en usar la fuerza física o m
 
 Se consideran autores de violencia familiar a los cónyuges, la concubina o el concubino, el pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el adoptante o el adoptado y el pariente por afinidad hasta el cuarto grado.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
-Al responsable de violencia familiar se le aplicarán de 1 a 4 años de prisión de 50 a 100 días de multa, así como al pago de la reparación de los daños y perjuicios ocasionados, a la privación de los derechos de familia respectivos, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta y se le someterá a tratamiento psicológico para su reinserción, de conformidad con lo dispuesto por el artículo 73 A de este Código.
+También se considera autor a quien ejerza violencia familiar contra los hijos del cónyuge o pareja, pupilos o incapaces que se encuentren sujetos a la tutela, guarda o custodia de uno u otro.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+Al responsable de violencia familiar se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días de multa, así como al pago de la reparación de los daños y perjuicios ocasionados, a la privación de los derechos de familia respectivos, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta y se le someterá a tratamiento psicológico para su reinserción, de conformidad con lo dispuesto por el artículo 73 A de este Código.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
 Cuando la violencia se ejerza sobre personas menores de edad, personas de sesenta años o más, personas con discapacidad, embarazadas o cualquier otra circunstancia que no esté en condiciones de resistir la conducta violenta, o cuando la acción básica se realice en el domicilio de la víctima, la pena de prisión se aumentará hasta un cincuenta por ciento más en sus mínimos y máximos.
 
@@ -3644,3 +3646,19 @@ P.O. 18 DE JULIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de supublicación (sic) en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 195.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 197.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
