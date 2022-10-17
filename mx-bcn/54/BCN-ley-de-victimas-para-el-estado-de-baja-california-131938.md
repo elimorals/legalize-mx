@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-victimas-para-el-estado-de-baja-california-131938"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-29"
-last_updated: "2021-11-12"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE VICTIMAS PARA EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE DICIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección III al Número 49 del Periódico Oficial del Estado de Baja California, el lunes 29 de octubre de 2018.
 
@@ -863,37 +865,65 @@ XIII.- Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 El Sistema Estatal estará integrado por las instituciones, entidades, organismos y demás participantes, aquí enumerados:
 
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE LA PRESENTE FRACCIÓN CONTENÍA HASTA EL INCISO E); Y CON LA REFORMA PUBLICADA EL 17 DE OCTUBRE DE 2022, SE PRECISA ÚNICAMENTE HASTA EL INCISO D). VÉASE LITERALIDAD DEL DECRETO, PÁGINA 21.]</small>
+
 I. Poder Ejecutivo:
 
-a. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-b. El Secretario General de Gobierno;
+a. La persona titular del Poder Ejecutivo, quien lo presidirá;
 
-c. El Procurador General de Justicia;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-d. El Secretario de Seguridad Pública; y
+b. La persona titular de la Secretaría General de Gobierno;
 
-e. El Director del Sistema Integral de la Familia DIF del Estado.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+c. La persona titular de la Secretaría de Seguridad Ciudadana; y,
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+d. La persona titular de la Dirección General del Sistema Integral de la Familia DIF del Estado.
 
 II. Poder Legislativo:
 
-a. El Presidente de la Comisión de Justicia; y
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-b. El Presidente de la Comisión de Derechos Humanos.
+a. La persona titular de la Presidencia de la Comisión de Justicia; y,
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+b. La persona titular de la Presidencia de la Comisión de Derechos Humanos.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
 III. Poder Judicial:
 
-a. El Magistrado Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+a. La o el Magistrado Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado.
 
 IV. Organismos Públicos:
 
-a. El Presidente de la Comisión Estatal de Derechos Humanos.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-V. El titular de la Comisión Ejecutiva Estatal.
+a. La persona titular de la Presidencia de la Comisión Estatal de Derechos Humanos.
 
-VI. Un representante por cada uno de los Municipios del Estado.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-El Sistema Estatal contara con un Secretario Técnico quien tendrá la obligación de dar seguimiento a los acuerdos adoptados por esté.
+V. La persona titular de la Comisión Ejecutiva Estatal.
+
+REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2022)
+
+VI. La persona titular de la Fiscalía General del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+VI (SIC). La persona que tenga la representación por cada uno de los Municipios del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+El Sistema Estatal contará con una Secretaría Técnica, que tendrá la obligación de dar seguimiento a los acuerdos adoptados por este.
 
 El carácter de miembro del Sistema Estatal, será honorífico.
 
@@ -1013,9 +1043,13 @@ I.- Un representante de las siguientes secretarías del Estado:
 
 a) General de Gobierno quien la presidirá;
 
-b) De Planeación y Finanzas;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-c) Educación Pública y Bienestar Social;
+b) De Hacienda;
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+c) De Educación;
 
 d) Salud;
 
@@ -1023,7 +1057,9 @@ II.- Tres representantes del Consejo Consultivo, designados por ésta, y
 
 Las y los integrantes referidos en la fracción I del párrafo anterior, serán las personas titulares de cada Institución y sus suplentes tendrán el nivel de Subsecretaría, Dirección o su equivalente. En sus decisiones los integrantes tendrán derecho a voz y voto.
 
-La Junta de Gobierno contará con un Secretario Técnico quien será el Comisionado Ejecutivo.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+La Junta de Gobierno contará con una Secretaría Técnica, que estará a cargo de la o el Comisionado Ejecutivo.
 
 ###### ARTÍCULO 81.
 
@@ -1459,13 +1495,17 @@ La Comisión Ejecutiva Estatal elaborará un plan de divulgación, capacitación
 
 El ingreso de la víctima al Registro Estatal se hará por la denuncia, la queja, o la noticia de hechos que podrá realizar la propia víctima, la autoridad, la Comisión Estatal de Derechos Humanos del Estado o un tercero que tenga conocimiento sobre los hechos, aportando los elementos que tengan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 112.
 
-Todo servidor público del Estado y sus municipios que tenga contacto con la víctima, estará obligado a orientarla para llenar el formato único de registro. El Ministerio Público, los defensores públicos, los asesores jurídicos de las víctimas y la Comisión Estatal de Derechos Humanos del Estado no podrán negarse llenar el formato único de registro.
+Todo servidor público del Estado y sus municipios que tenga contacto con la víctima, estará obligado a orientarla para llenar el formato único de registro. El Ministerio Público, los defensores públicos, los asesores jurídicos de las víctimas y la Comisión Estatal de Derechos Humanos del Estado no podrán negarse a llenar el formato único de registro.
 
 Cuando los servidores públicos competentes no se encuentren accesibles, disponibles o se nieguen a auxiliar a la víctima en el llenado del formato único, la víctima o su representante podrán acudir a cualquier otra autoridad estatal o municipal, las cuales tendrán el deber de apoyarla, entre las cuales, en forma enunciativa y no limitativa, se señalan las siguientes:
 
-I.- La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+I.- Fiscalía General del Estado de Baja California;
 
 II.- La Comisión Estatal de Derechos Humanos del Estado;
 
@@ -1535,33 +1575,49 @@ Los distintos órdenes de gobierno, coadyuvarán para el cumplimiento de los obj
 
 Las autoridades responsables de implementar y dar cumplimiento a las disposiciones de la presente Ley son:
 
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE LA PRESENTE FRACCIÓN CONTENÍA HASTA EL INCISO J); Y CON LA REFORMA PUBLICADA EL 17 DE OCTUBRE DE 2022, SE PRECISA ÚNICAMENTE HASTA EL INCISO I). VÉASE LITERALIDAD DEL DECRETO, PÁGINAS DE LA 22 A LA 23.]</small>
+
 I.- En el ámbito estatal:
 
-a) El Gobernador del Estado;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+a) Poder Ejecutivo del Estado;
 
 b) La Comisión Ejecutiva Estatal;
 
 c) La Secretaría General de Gobierno;
 
-d) La Procuraduría General de Justicia, por conducto del Ministerio Público;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-e) La Secretaría de Salud;
+d) La Secretaría de Salud;
 
-f) La Secretaría de Seguridad Pública;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-g) La Secretaría de Educación y Bienestar Social;
+e) la Secretaría de Seguridad Ciudadana;
 
-h) La Secretaría de Desarrollo Social;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-i) El Sistema Estatal para el Desarrollo Integral de la Familia, y
+f) La Secretaría de Educación;
 
-j) El Instituto de la Mujer.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+g) La Secretaría de Bienestar;
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+h) El Sistema Estatal para el Desarrollo Integral de la Familia, e
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+i) El Instituto de la Mujer.
 
 II.- En el ámbito municipal:
 
 a) Los Ayuntamientos;
 
-b) Los Presidentes Municipales;
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+b) Las Presidencias Municipales;
 
 c) Los Síndicos Municipales;
 
@@ -1572,6 +1628,12 @@ e) Las instituciones de seguridad pública municipales.
 III.- El Poder Judicial, y
 
 IV.- La Comisión Estatal de Derechos Humanos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2022)</small>
+
+V.- Fiscalía General del Estado
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE OCTUBRE DE 2022)</small>
 
 De igual manera, se regirán por esta Ley las actividades de las instituciones, organismos o asociaciones privadas o sociales, cuyas actividades impliquen velar por la protección de las víctimas, al proporcionarles servicios de ayuda, asistencia o reparación.
 
@@ -2013,9 +2075,11 @@ VII.- Recomendar las reparaciones a favor de las víctimas de violaciones a los 
 
 ### CAPÍTULO VIII. DE LAS POLICÍAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 138.
 
-Además de los deberes establecidos para todo servidor público, así como para la Secretaría de Seguridad Pública del Estado y las instituciones de seguridad pública municipales, y en general de las disposiciones respectivas contempladas en otros ordenamientos, a los miembros de las policías de los órdenes de gobierno estatal y municipal, en el ámbito de su competencia, les corresponde:
+Además de los deberes establecidos para todo servidor público, así como para la Secretaría de Seguridad Ciudadana y las instituciones de seguridad pública municipales, y en general de las disposiciones respectivas contempladas en otros ordenamientos, a los miembros de las policías de los órdenes de gobierno estatal y municipal, en el ámbito de su competencia, les corresponde:
 
 I.- Informar a la víctima, desde el momento en que se presente o comparezca ante él, los derechos que le otorga la Constitución y los Tratados Internacionales celebrados y ratificados por el Estado Mexicano, la legislación penal y las demás disposiciones aplicables, así como el alcance de esos derechos, debiendo dejar constancia escrita de la lectura y explicación realizada;
 
@@ -2023,7 +2087,9 @@ II.- Permitir la participación de la víctima y su defensor en procedimientos e
 
 III.- Facilitar el acceso de la víctima a la investigación, con el objeto de respetar su derecho a la verdad;
 
-IV.- Colaborar con los tribunales de justicia, el ministerio público, las procuradurías, contralorías y demás autoridades en todas las actuaciones policiales requeridas;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+IV.- Colaborar con los tribunales de justicia, el ministerio público, las fiscalías, contralorías y demás autoridades en todas las actuaciones policiales requeridas;
 
 V.- Remitir los datos de prueba e informes respectivos, con debida diligencia;
 
@@ -2379,9 +2445,11 @@ La información y documentación relacionada con las personas protegidas se clas
 
 Los servidores públicos que pongan en riesgo la seguridad de las personas protegidas, ya sea a través de intimidación, represalias, amenazas, negligencia o cuando existan datos suficientes que demuestren su colusión con los responsables de la comisión del delito o con un tercero implicado, serán sancionados de conformidad con las leyes aplicables al caso en concreto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 177.
 
-Para lograr los objetivos de las medidas de protección, el Procurador podrá celebrar acuerdos, convenios y demás instrumentos jurídicos con personas físicas o morales, así como con autoridades federales y de los gobiernos de las entidades federativas y Municipios, organismos públicos autónomos o constitucionales, así como con organismos de los sectores social y privado e incluso internacionales, que resulten adecuados para otorgar la protección de las personas o establecer las medidas necesarias para su ejecución.
+Para lograr los objetivos de las medidas de protección, el Fiscal General podrá celebrar acuerdos, convenios y demás instrumentos jurídicos con personas físicas o morales, así como con autoridades federales y de los gobiernos de las entidades federativas y Municipios, organismos públicos autónomos o constitucionales, así como con organismos de los sectores social y privado e incluso internacionales, que resulten adecuados para otorgar la protección de las personas o establecer las medidas necesarias para su ejecución.
 
 En el caso de que se requiera de la contratación o adquisición de servicios con particulares, deberá garantizarse que se respeten los criterios de reserva y confidencialidad respecto de los antecedentes personales, médicos o laborales de la persona protegida, por lo que los proveedores de dichos servicios no podrán, bajo ningún caso, tener acceso a información que posibilite por cualquier medio su identificación.
 
@@ -2470,5 +2538,11 @@ P.O. 22 DE MARZO DE 2019.
 P.O. 12 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 36 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS FORMAS AL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA; LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA; Y LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 145 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 66, 80, 112, 118, 138 Y 177 DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
