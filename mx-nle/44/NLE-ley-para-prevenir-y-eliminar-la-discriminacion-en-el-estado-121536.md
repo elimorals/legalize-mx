@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-17"
-last_updated: "2021-03-10"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 17 de mayo de 2017.
 
@@ -231,11 +231,17 @@ XXXVI. Impedir la libre elección de cónyuge o pareja;
 
 XXXVII. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos humanos de las personas;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
 
-XXXVIII. Promover, incitar o realizar violencia física o psicológica; estigmatizar, negar o impedir el acceso a cualquier servicio al personal del Sistema Estatal de Salud, los cuerpos que prestan servicios de emergencia en funciones de auxilio, durante el tiempo que corresponda a una contingencia sanitaria, emergencia o desastre natural declarado en términos de la Ley por la autoridad competente; e
+XXXVIII. Promover, incitar o realizar violencia física o psicológica; estigmatizar, negar o impedir el acceso a cualquier servicio al personal del Sistema Estatal de Salud, los cuerpos que prestan servicios de emergencia en funciones de auxilio, durante el tiempo que corresponda a una contingencia sanitaria, emergencia o desastre natural declarado en términos de la Ley por la autoridad competente;
 
-XXXIX. Incurrir en cualquier otro acto u omisión que tenga por objeto anular, impedir o menoscabar los derechos y libertades, la igualdad de oportunidades y de trato de las personas, así como atentar contra su dignidad.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XXXIX. Incurrir en cualquier otro acto u omisión que tenga por objeto anular, impedir o menoscabar los derechos y libertades, la igualdad de oportunidades y de trato de las personas, así como atentar contra su dignidad; y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+XL. Prohibir, limitar o restringir el ejercicio de la lactancia materna en todo lugar y momento.
 
 ###### ARTÍCULO 8.
 
@@ -1252,3 +1258,9 @@ P.O. 10 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 450. SE REFORMA LA FRACCIÓN XXXVII Y SE ADICIONA LA FRACCIÓN XXXVIII, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XXXVIII PARA SER LA NUEVA FRACCIÓN XXXIX DEL ARTÍCULO 7, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN”.]
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 238. SE REFORMAN LAS FRACCIONES XXXVIII Y XXXIX Y SE ADICIONA UNA FRACCIÓN XL AL ARTÍCULO 7, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
