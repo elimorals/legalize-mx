@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidad-patrimonial-del-estado-de-74857"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-10"
-last_updated: "2018-11-05"
+last_updated: "2022-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de mayo de 2010.
 
@@ -53,7 +53,9 @@ Su objeto es fijar las bases y procedimientos para reconocer el derecho a la ind
 
 La responsabilidad patrimonial es objetiva y directa; la indemnización deberá ajustarse a los términos y condiciones señalados en esta Ley y en las disposiciones legales a que la misma hace referencia.
 
-En el caso de la responsabilidad señalada en el Título Octavo de la Legislación Penal del Estado de Aguascalientes, la misma se tramitará conforme a las reglas previstas en dicha normatividad, sin que sea aplicable la presente Ley.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+En el caso de privación de la libertad o condena injusta, si el procesado es liberado, absuelto, se dicta sobreseimiento a su favor o se declara procedente su reconocimiento de inocencia, tendrá derecho a una indemnización conforme a lo previsto en el Libro Tercero “Indemnizaciones” del Código Penal para el Estado de Aguascalientes, sin que sea aplicable la presente Ley.
 
 ###### Artículo 2º.
 
@@ -69,7 +71,11 @@ III. Entes públicos: salvo mención expresa en contrario, los poderes judicial,
 
 IV. Salario: Al salario mínimo general vigente en el Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 3°.
+
+La interpretación de las disposiciones de este ordenamiento para efectos administrativos, corresponderá a cada entidad o dependencia y, para efectos jurisdiccionales, a la Sala Administrativa.
 
 ###### Artículo 3º.
 
@@ -159,11 +165,11 @@ La cuantificación de la indemnización se calculará de acuerdo a la fecha en q
 
 Las indemnizaciones deberán cubrirse en su totalidad de conformidad con los términos y condiciones dispuestos por esta Ley y a las que ella remita. En los casos de haberse celebrado contrato de seguro contra la responsabilidad patrimonial, ante la eventual producción de daños y perjuicios que sean consecuencia de la actividad administrativa del Estado, la suma asegurada se destinará a cubrir el monto equivalente a la reparación integral o equitativa, según el caso. De ser ésta insuficiente, el Estado continuará obligado a resarcir la diferencia respectiva. El pago de cantidades líquidas por concepto de impuestos relativos al pago de las indemnizaciones preceptuadas en los seguros, corresponde a los entes y no podrá disminuirse de la indemnización.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 15.
 
-Las indemnizaciones fijadas por la Sala Administrativa y Electoral que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 17 de la presente Ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en los términos de esta Ley, el Código Fiscal del Estado o, en su caso, el ordenamiento fiscal municipal que corresponda.
+Las indemnizaciones fijadas por la Sala Administrativa que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 17 de la presente Ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en los términos de esta Ley, el Código Fiscal del Estado o, en su caso, el ordenamiento fiscal municipal que corresponda.
 
 ###### Artículo 16.
 
@@ -179,11 +185,11 @@ Las resoluciones o sentencias firmes dictadas en términos de la presente Ley, d
 
 Los procedimientos de responsabilidad patrimonial del Estado se iniciarán por reclamación de la parte interesada.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 19.
 
-La parte interesada deberá presentar indistintamente su reclamación ante el ente público estatal presuntamente responsable o bien ante la Sala Administrativa y Electoral, conforme a la Ley del Procedimiento Contencioso Administrativo.
+La parte interesada deberá presentar indistintamente su reclamación ante el ente público estatal presuntamente responsable o bien ante la Sala Administrativa, conforme a la Ley del Procedimiento Contencioso Administrativo.
 
 ###### Artículo 20.
 
@@ -225,11 +231,11 @@ Las resoluciones administrativas que se dicten con motivo de los reclamos que pr
 
 Además de lo previsto en el párrafo anterior, las resoluciones administrativas contendrán la valoración del daño causado, así como el monto en dinero o en especie de la indemnización, fundando y motivando de manera detallada los criterios utilizados para tal cuantificación.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 24.
 
-Las resoluciones de la autoridad administrativa que nieguen la indemnización o que no satisfagan al interesado, podrán impugnarse ante la Sala Administrativa y Electoral, conforme a las leyes de la materia.
+Las resoluciones de la autoridad administrativa que nieguen la indemnización o que no satisfagan al interesado, podrán impugnarse ante la Sala Administrativa conforme a las leyes de la materia.
 
 ### CAPÍTULO V. Del Procedimiento Contencioso Administrativo
 
@@ -241,11 +247,11 @@ El procedimiento de responsabilidad patrimonial del Estado por la vía contencio
 
 Los actos administrativos afectados de nulidad por sí mismos no presuponen indemnización.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 27.
 
-Las resoluciones dictadas por la Sala Administrativa y Electoral no admiten recurso alguno y causarán estado y serán ejecutables siguiendo las reglas que se establecen en la Ley del Procedimiento Contencioso Administrativo vigente.
+Las resoluciones dictadas por la Sala Administrativa no admiten recurso alguno y causarán estado y serán ejecutables siguiendo las reglas que se establecen en la Ley del Procedimiento Contencioso Administrativo vigente.
 
 ### CAPÍTULO VI. De la Concurrencia
 
@@ -281,11 +287,11 @@ En el supuesto de que las reclamaciones deriven de hechos o actos dañosos produ
 
 En caso contrario, cuando la lesión reclamada haya sido ocasionada por la actividad del concesionario y no se derive de una determinación impuesta por el concesionante, la reparación correrá a cargo del concesionario.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 32.
 
-En los casos de concurrencia de dos o más dependencias o entidades en la producción de las lesiones patrimoniales reclamadas o cuando se suponga concurrencia de agentes causantes de la lesión patrimonial y éstas no lleguen a un acuerdo o convenio, deberá de someterse el problema a la determinación de la Sala Administrativa y Electoral del Poder Judicial del Estado.
+En los casos de concurrencia de dos o más dependencias o entidades en la producción de las lesiones patrimoniales reclamadas o cuando se suponga concurrencia de agentes causantes de la lesión patrimonial y éstas no lleguen a un acuerdo o convenio, deberá de someterse el problema a la determinación de la Sala Administrativa.
 
 ### CAPÍTULO VII. De la Prescripción
 
@@ -307,11 +313,11 @@ El plazo de prescripción previsto en este Artículo, se interrumpirá al inicia
 
 Los entes públicos podrán repetir de los servidores públicos el pago de la indemnización cubierta a los particulares en los términos de la presente Ley cuando, previa substanciación de los procedimientos de responsabilidad administrativa disciplinaria o resarcitoria, previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes. El monto que se le exija al servidor público por este concepto formará parte de la sanción económica que se le aplique.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 35.
 
-Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que hayan pagado los entes públicos estatales con motivo de las reclamaciones de indemnización respectivas, por medio del recurso previsto en la Ley de Responsabilidades de los Servidores Públicos o ante la Sala Administrativa y Electoral.
+Los servidores públicos podrán impugnar las resoluciones administrativas por las cuales se les imponga la obligación de resarcir los daños y perjuicios que hayan pagado los entes públicos estatales con motivo de las reclamaciones de indemnización respectivas, por medio del recurso previsto en la Ley de Responsabilidades de los Servidores Públicos o ante la Sala Administrativa.
 
 ###### Artículo 36.
 
@@ -430,3 +436,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan Derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 199.- SE REFORMAN LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES; LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES; EL CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE HACIENDA DEL MUNICIPIO DE ASIENTOS, AGUASCALIENTES; Y, LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los seis meses posteriores de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 200.- SE REFORMA LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
