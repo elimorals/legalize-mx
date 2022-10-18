@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-fiscalia-general-del-estado-de-nayarit-10145
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-05-15"
-last_updated: "2020-10-15"
+last_updated: "2022-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101457&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el jueves 15 de mayo de 2014.
 
@@ -153,11 +153,11 @@ VIII. Los demás que se establezcan en el Reglamento Interior o acto administrat
 
 La estructura, organización interna y desarrollo de las atribuciones de los órganos enunciados y los que se establezcan, se determinarán en las disposiciones reglamentarias que al efecto se emitan, dichos órganos, unidades y demás áreas administrativas dentro de la Fiscalía General del Estado deberán respetar la naturaleza, las bases y principios del artículo 21 y demás porciones normativas establecidas en la Constitución General de la República y la particular del Estado para el Ministerio Público.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 6.
 
-El Fiscal General, con base en las disposiciones presupuestales, y las necesidades del servicio, podrá crear y suprimir órganos o unidades, así como agencias ministeriales, áreas de inteligencia entre ellas en materia patrimonial y económica y demás para el conocimiento, atención y persecución de los delitos que por su trascendencia, interés y características así lo ameriten.
+El Fiscal General, con base en las disposiciones presupuestales, y las necesidades del servicio, podrá crear y suprimir órganos o unidades, así como agencias ministeriales, áreas de inteligencia y demás, para el conocimiento, atención y persecución de los delitos que por su trascendencia, interés y características así lo ameriten.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2019)</small>
 
@@ -2074,3 +2074,21 @@ P.O. 15 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT, PUBLICADO EL 28 DE MAYO DE 2019, SECCIÓN CUARTA, NÚMERO 103, EN EL PERIÓDICO OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 18 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 6 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT, EN MATERIA DE LA UNIDAD DE INTELIGENCIA PATRIMONIAL Y ECONÓMICA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Dentro del plazo de sesenta días contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones a la normatividad que resulte necesaria para su correcta implementación.
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho por las unidades administrativas que para sus efectos se designen, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+CUARTO. Los servidores públicos adscritos a las áreas de inteligencia patrimonial y económica de la Fiscalía General del Estado, conservarán todos sus derechos laborales.
+
+QUINTO. Aquellos documentos físicos y/o electrónicos en materia de inteligencia patrimonial y económica que se encuentren en los archivos de la Fiscalía General del Estado de Nayarit, deberán entregarse al área que se señala en la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit.
+
+Lo anterior se realizará mediante convenio de coordinación entre las áreas correspondientes en un plazo que no exceda de sesenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+SEXTO. Se derogan todas aquellas disposiciones que se contrapongan a lo establecido en el presente Decreto.
