@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-nacional-electoral-para-la-106845"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-03-26"
-last_updated: "2021-09-21"
+last_updated: "2022-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106845&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-03-11"
 
 REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2022.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 26 de marzo de 2015.
 
@@ -865,9 +865,9 @@ Artículo 23
 
 Artículo 24
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2022)</small>
 
-1. Cuando se trate de la designación de un cargo, la Comisión de Vinculación presentará al Consejo General una lista de hasta cinco ciudadanas y ciudadanos, en la que se garantizará la paridad de género para que de ésta se designe a quien ocupará el cargo.
+1. Cuando se trate de la designación de un cargo y la convocatoria no sea exclusiva para Mujeres, la Comisión de Vinculación presentará al Consejo General una lista con al menos dos personas de género distinto y, hasta cinco personas, de las cuales solo tres podrán ser de un mismo género, para que de ésta se designe a quien ocupará el cargo. En caso de determinar que la persona que ocupará el cargo será una mujer, la Comisión de Vinculación podrá poner a consideración del Consejo General la propuesta únicamente con el nombre de la persona que ocupará la vacante.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2020)</small>
 
@@ -933,6 +933,22 @@ e) Experiencia en materia electoral.
 
 4. En la integración del órgano superior de dirección de los Organismos Públicos se procurará una conformación de por lo menos tres personas del mismo género. Asimismo, se procurará atender una composición multidisciplinaria y multicultural.
 
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2022)</small>
+
+5. Para la designación de las Presidencias de los Consejos Generales de los Organismos Públicos Locales, observando el principio de paridad, se alternará el género de la persona que deberá ocupar el cargo, respecto de la persona que le precedió.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2022)</small>
+
+6. Tratándose de algún Organismo Público Local en el que la Presidencia fue ocupada por una mujer, para la designación inmediata posterior se podrá considerar a ambos géneros, excepto en los casos en los que la conformación del Consejo General del Organismo cuente con cuatro hombres, en cuyo caso deberá designarse a una mujer.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2022)</small>
+
+7. En el conjunto de las designaciones que se realicen en un año calendario, al menos, la mitad serán para mujeres.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2022)</small>
+
+8. En el conjunto de los Consejos Generales de los Organismos Públicos Locales de las 32 entidades, al menos 16 presidencias serán ocupadas por mujeres.
+
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
 Artículo 28
@@ -978,6 +994,26 @@ Artículo 32
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2017)</small>
 
 1. En el caso que se genere una vacante o ausencia temporal mayor a treinta días en la Presidencia, la Secretaría Ejecutiva del Organismo Público la notificará a la Comisión de Vinculación, para que ésta someta a la aprobación del Consejo General en la siguiente sesión que éste celebre, la propuesta de la Consejera o Consejero en funciones del mismo Organismo Público que deberá fungir como Presidenta o Presidente provisional, en tanto no se realice el nombramiento definitivo, o bien, se cumpla el plazo o la condición que permita la reincorporación del o la servidora pública que se haya ausentado temporalmente.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 18 DE OCTUBRE DE 2022)</small>
+
+2. Para la designación de las presidencias provisionales a que se refiere el párrafo anterior, se observarán los siguientes criterios orientadores:
+
+a. El tiempo en el cargo y la experiencia adquirida en la consejería.
+
+b. El desempeño en el ejercicio del cargo, el cumplimiento de las actividades en apego a los principios rectores en la materia electoral, trabajo en equipo y la habilidad para generar consensos.
+
+c. La situación particular del Organismo Público Local, el grado de cohesión, el clima laboral prevaleciente, la relación con las áreas ejecutivas y técnicas y con las y los representantes de los partidos políticos.
+
+d. La trayectoria laboral, habilidades directivas y de liderazgo, así como experiencia en gestión de recursos y negociación.
+
+e. En su caso, la decisión que el órgano superior de dirección del Organismo Público Local haya tomado, en relación con la consejera o consejero electoral que asumirá las funciones de presidenta o presidente provisional, en tanto el Instituto realiza el nombramiento correspondiente.
+
+f. La Comisión podrá allegarse de otros elementos de valoración que le permitan determinar la idoneidad de la persona propuesta.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2022)</small>
+
+3. En el caso que la ausencia temporal en la Presidencia sea inferior a treinta días, el Consejo General del Organismo Público Local deberá sesionar de manera inmediata para designar de entre las y los consejeros en funciones a quien ocupará la Presidencia de manera provisional.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 36], D.O.F. 29 DE AGOSTO DE 2017)</small>
 
@@ -1386,3 +1422,15 @@ SEGUNDO. Se instruye a la Secretaría Ejecutiva para que a través de la Unidad 
 TERCERO. Publíquese el presente Acuerdo y el Reglamento, en el Diario Oficial de la Federación.
 
 CUARTO. La presente modificación al Reglamento entrará en vigor el día de su aprobación.
+
+D.O.F. 18 DE OCTUBRE DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA LA MODIFICACIÓN AL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES”.]</small>
+
+PRIMERO. Se aprueba la modificación del Reglamento conforme al cuadro del Considerando 20 del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Secretaría Ejecutiva para que a través de la Unidad Técnica haga del conocimiento de los órganos máximos de dirección de los OPL el contenido del presente Acuerdo.
+
+TERCERO. Publíquense el presente acuerdo en el portal de Internet y en la Gaceta Electoral del Instituto, así como en el Diario Oficial de la Federación.
+
+CUARTO. El presente acuerdo entrará en vigor a partir del día de su aprobación por parte de este Consejo General.
