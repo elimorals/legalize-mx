@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2022-06-13"
+last_updated: "2022-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -781,13 +781,21 @@ LXXXIX. Implementar, desarrollar y fomentar la política de Gobierno Digital y e
 
 XC. Emitir lineamientos técnicos en materia de Gobierno Digital conforme a lo establecido en los ordenamientos jurídicos aplicables;
 
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2022)</small>
 
-XCI. Implementar y administrar el Sistema Estatal de Información, Trámites y Servicios para la Ventanilla Única en coordinación con el Consejo Estatal de Gobierno Digital, y
+XCI. Implementar y administrar el Sistema Estatal de Información, Trámites y Servicios para la Ventanilla Única en coordinación con el Consejo Estatal de Gobierno Digital;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2022)</small>
 
-XCII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le delegue el Gobernador del Estado.
+XCII. Llevar a cabo la investigación y acopio de la información en materia de prevención y combate al delito de operaciones con recursos de procedencia ilícita;
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2022)</small>
+
+XCIII. Facilitar el intercambio de información patrimonial, fiscal y económica con las autoridades estatales y federales competentes, que así lo soliciten, en materia de corrupción e investigación de los delitos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE OCTUBRE DE 2022)</small>
+
+XCIV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le delegue el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2019)</small>
 
@@ -2930,3 +2938,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En relación a la implementación de las políticas de gobierno digital en el Estado, una vez emitido el Reglamento de la Ley de Gobierno Digital para el Estado de Nayarit, se tendrá un plazo de noventa días naturales para emitir los lineamientos técnicos a los que hace referencia el presente Decreto.
 
 TERCERO. Se establece un periodo de dieciocho meses, contados a partir de la entrada en vigor del presente, para que se implementen de ser el caso, las medidas técnicas, administrativas, operativas, así como los ajustes presupuestales necesarios para la debida implementación, desarrollo y fomento de las políticas de Gobierno Digital; así como la implementación del Sistema Estatal de Información, Trámites y Servicios para la Ventanilla Única.
+
+P.O. 18 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 33 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT, EN MATERIA DE LA UNIDAD DE INTELIGENCIA PATRIMONIAL Y ECONÓMICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Dentro del plazo de sesenta días contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones a la normatividad que resulte necesaria para su correcta implementación.
+
+TERCERO. Se derogan todas aquellas disposiciones que se contrapongan a lo establecido en el presente Decreto.
