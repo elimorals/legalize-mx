@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-962
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2022-04-07"
+last_updated: "2022-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2022.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de octubre de 2013.
 
@@ -1169,13 +1169,13 @@ Facultades de la Subsecretaría de Servicios a la Comunidad
 
 La Subsecretaría de Servicios a la Comunidad tiene, además de las facultades genéricas, las siguientes:
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-I. Coordinar y supervisar la prestación del servicio público y especial de transporte de competencia estatal, así como la educación vial;
+I. Coordinar y supervisar la prestación del servicio público y especial de transporte, así como de transporte privado, de competencia estatal, así como la educación vial;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-II. Ejercer las atribuciones que le correspondan a la Secretaría en materia de servicio público y especial de transporte de competencia estatal, que no sean exclusivas del Secretario;
+II. Ejercer las atribuciones que le correspondan a la Secretaría en materia de servicio público y especial de transporte, así como de transporte privado, de competencia estatal, que no sean exclusivas del Secretario;
 
 III. Dictar las medidas necesarias para la adecuada prestación de los servicios de la defensoría pública penal, de la defensoría de oficio especializada para adolescentes, de la representación gratuita en materia civil, así como de la defensoría administrativa del servidor público, en los términos de la legislación de la materia;
 
@@ -1189,13 +1189,17 @@ V. Dictar las medidas necesarias para el adecuado control y vigilancia del ejerc
 
 VI. Dictar las medidas necesarias para el adecuado funcionamiento del Registro Civil;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-VII. Coadyuvar con el Secretario en el ejercicio de las atribuciones en materia de regularización de tenencia de la tierra que le correspondan a la Secretaría; y
+VII. Coadyuvar con el Secretario en el ejercicio de las atribuciones en materia de regularización de tenencia de la tierra que le correspondan a la Secretaría;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-VIII. Generar y coordinar la solución en conflictos sobre la tenencia de la tierra y situaciones afines a la misma.
+VIII. Generar y coordinar la solución en conflictos sobre la tenencia de la tierra y situaciones afines a la misma; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+IX. Impulsar y planear los sistemas tecnológicos que tengan como objeto el desarrollo del transporte, para un desplazamiento eficiente de personas y bienes.
 
 ### Capítulo II. Dirección General de Transporte
 
@@ -1241,13 +1245,31 @@ VI. Llevar el registro de las concesiones y permisos de transporte público y es
 
 VII. Administrar y operar las oficinas regionales de movilidad que establezca el Secretario, a que se refiere la Ley de Movilidad del Estado de Guanajuato y sus Municipios;
 
-VIII. Supervisar, verificar y vigilar la prestación del servicio público y especial del transporte de competencia estatal, por conducto de los inspectores de movilidad;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+VIII. Supervisar, verificar y vigilar la prestación del servicio público y especial de transporte, así como de transporte privado, de competencia estatal, por conducto de los inspectores de movilidad;
 
 IX. Autorizar, emitir y organizar los actos relativos al procedimiento para enajenación de vehículos declarados en abandono a favor del fisco del Estado;
 
-X. Supervisar que los procedimientos jurídico-administrativos en materia de transporte de competencia estatal se desarrollen con estricto apego a la normatividad aplicable; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-XI. Autorizar la realización de campañas de revisión física, documental y de operación de los vehículos y servicios conexos con el servicio público y especial de transporte de competencia estatal.
+X. Supervisar que los procedimientos jurídico-administrativos en materia de transporte de competencia estatal se desarrollen con estricto o pego a la normatividad aplicables;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+XI. Autorizar la realización de campañas de revisión física, documental y de operación de los vehículos y servicios conexos con el servicio público y especial de transporte de competencia estatal;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+XII. Llevar el registro y control de los vehículos destinados a la prestación del Servicio de transporte privado;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+XIII. Organizar, administrar y controlar los sistemas tecnológicos que tengan como objeto el desarrollo del transporte, para un desplazamiento eficiente de personas y bienes. Proponiendo para tal efecto, para su emisión por el Secretario, los lineamientos correspondientes; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+XIV. Expedir el código de respuesta rápida.
 
 #### Sección Segunda. Dirección de Desarrollo del Transporte
 
@@ -1299,9 +1321,15 @@ f) Permiso provisional para circular sin placas a las personas concesionarias, c
 
 g) Realizar el trámite para la expedición de los permisos del servicio especial de transporte, previo estudio correspondiente, en su caso; y otorgarlos, previo acuerdo con el Subsecretario de su adscripción;
 
-XIV. Realizar el dictamen correspondiente para emitir el reconocimiento como centro autorizado para el cambio de sistema de combustión para vehículos del servicio público y especial de transporte de competencia estatal; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-XV. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
+XIV. Realizar el dictamen correspondiente para emitir el reconocimiento como centro autorizado para el cambio de sistema de combustión para vehículos del servicio público y especial de transporte de competencia estatal;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+XV. Operar los sistemas tecnológicos que tengan como objeto el desarrollo del transporte, para un desplazamiento eficiente de personas y bienes; y
+
+XVI. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
 
 #### Sección Tercera. Dirección Jurídica de Transporte
 
@@ -1343,9 +1371,17 @@ l) Otorgamiento, rescate o intervención de concesiones y permisos;
 
 m) Revocación de concesiones y permisos;
 
-n) Cancelación de permisos; y
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-o) Resolución de la modificación de ruta;
+n) Cancelación de permisos;
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+o) Determinación de la modificación o ampliación de ruta; y
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+p) Cancelación del registro de vehículos de Servicio de transporte privado.
 
 III. Realizar los actos encaminados al cumplimiento de las resoluciones judiciales;
 
@@ -1357,15 +1393,23 @@ VI. Mantener actualizado y dar seguimiento al registro de organizaciones o asoci
 
 VII. Realizar, previo acuerdo con la persona titular de la Dirección General, las campañas de revisión física, documental y de operación de los vehículos y servicios vinculados con el servicio público y especial de transporte de competencia estatal;
 
-VIII. Revisar y en su caso aprobar el registro de los contratos de seguro, fideicomisos y fondos de garantía exigidos por la Ley para la prestación del servicio público y especial de transporte;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+VIII. Revisar y, en su caso, someter para autorización del Director General de Transporte, los contratos de fideicomisos o fondos de garantía previstos por la Ley para la Prestación del Servicio Público o Especial de Transporte;
 
 IX. Elaborar los convenios y actos administrativos que sean necesarios para el buen funcionamiento de la Dirección General de Transporte y de sus unidades administrativas;
 
 X. Emitir la autorización provisional para que los vehículos afectos a la prestación del servicio público de transporte puedan circular sin placas cuando se encuentren realizando la transmisión de la concesión o por disposición de autoridad jurisdiccional se le conceda la posibilidad de explotar el servicio público de transporte;
 
-XI. Verificar que el servicio público y especial de transporte de competencia estatal se preste conforme a la normatividad y, en su caso, ordenar para tal fin la detención administrativa de los vehículos afectos a la prestación de dichos servicios; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-XII. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
+XI. Verificar que el servicio público y especial de transporte, de competencia estatal, se preste conforme a la normatividad y, en su coso, ordenar para tal fin lo detención administrativa de los vehículos afectos a la prestación de dichos servicios;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+XII. Atender las quejas y denuncias de los usuarios del servicio público, especial y privado de transporte, así como de la infraestructura digital; y
+
+XIII. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
 
 De esta Dirección dependerá el Registro Estatal de Concesiones y Permisos de Transporte, encargado de inscribir las concesiones y permisos, concesionarios, permisionarios, y vehículos con que se prestan los servicios público y especial de transporte de competencia estatal y municipal, así como las resoluciones o actos que creen, modifiquen o extingan un derecho relacionado con los mismos.
 
@@ -1393,9 +1437,15 @@ V. Llevar la estadística que resulte del cumplimiento de sus facultades de vigi
 
 VI. Coadyuvar con las autoridades federales, estatales y municipales en la ejecución de acciones y operativos conjuntos en la materia de su competencia;
 
-VII. Dictar las medidas necesarias para mantener la disciplina del personal de inspección; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-VIII. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
+VII. Dictar las medidas necesarias para mantener la disciplina del personal de inspección;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+VIII. Inspeccionar y vigilar el Servicio de transporte privado; y
+
+IX. Las demás que deriven de la normatividad correspondiente o le confiero el Director General de Transporte.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -1419,7 +1469,9 @@ b) Otorgamiento de permisos del servicio especial de transporte;
 
 c) Autorización de depósito de vehículos;
 
-d) Autorización de prórrogas de antigüedad de vehículos del servicio público y especial de transporte de competencia estatal;
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+d) Autorización de prórrogas de antigüedad de vehículos del servicio público y especial de transporte, así como de transporte privado, de competencia estatal;
 
 e) Expedición de permisos extraordinarios de servicio público de transporte de competencia estatal;
 
@@ -1431,9 +1483,17 @@ h) Expedición de permisos provisionales para la identificación de vehículos d
 
 i) (DEROGADO, P.O. 7 DE ABRIL DE 2022)
 
-j) Liberación de vehículos del servicio público y especial de transporte de competencia estatal, detenidos por infracciones a la Ley y su reglamento; y
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-k) Expedición de clave de trámite de no portación de colores oficiales y número económico, de los vehículos del servicio público y especial de transporte de competencia estatal respecto de los que se solicite su baja.
+j) Liberación de vehículos del servicio público y especial de transporte de competencia estatal, detenidos por infracciones a la Ley de Movilidad del Estado de Guanajuato y sus Municipios;
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+k) Expedición de clave de trámite de no portación de colores oficiales y número económico, de los vehículos del servicio público y especial de transporte de competencia estatal, respecto de los que se solicite su baja; y
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+l) Operar el sistema de registra del Servicio de transporte privado y, en su caso, emitir el respectivo código de respuesta rápida.
 
 III. Proponer a la Dirección General los lineamientos y organización para el funcionamiento de las oficinas regionales de movilidad;
 
@@ -1461,9 +1521,19 @@ XIII. Proponer a la Dirección General, proyectos de manuales o normas técnicas
 
 XIV. Validar el contenido de los programas y cursos de capacitación que impartan los municipios, las personas concesionarias y permisionarias a los operadores, supervisando su cumplimiento;
 
-XV. (DEROGADA, P.O. 7 DE ABRIL DE 2022)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2022)</small>
 
-XVI. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
+XV. Coordinar y verificar el cumplimiento de los convenios celebrados con los centros autorizados por la Unidad Administrativa de Transporte para la impartición del curso de conducción segura a los conductores del Servicio de transporte privado;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+XVI. Coordinar y controlar la expedición de las constancias de conducción segura para el Servicio de transporte privado, que aprobaron el curso impartido por el centro autorizado;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+XVII. Llevar el control y resguardo de los expedientes, a través de sus Oficinas Regionales de Movilidad; y
+
+XVIII. Las demás que deriven de la normatividad correspondiente o le confiera el Director General de Transporte.
 
 #### Sección Sexta. Dirección de Gestión Administrativa de Transporte
 
@@ -1481,7 +1551,9 @@ II. Administrar y controlar los sistemas informáticos de la Dirección General 
 
 III. (DEROGADA, P.O. 7 DE ABRIL DE 2022)
 
-IV. Supervisar a las diferentes áreas de la Dirección General, respecto al desarrollo de los tramites y procesos, realizando, en su caso, las observaciones o acciones correspondientes remitiéndolas a la Dirección Jurídica de Transporte para que proceda en consecuencia, sin perjuicio de las atribuciones del órgano interno de control;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+IV. Realizar revisiones y acompañamiento administrativo a las diferentes áreas de la Dirección General de Transporte, a efecto de verificar el cumplimiento a la normatividad establecida, realizando las observaciones o recomendaciones correspondientes;
 
 V. Elaborar en forma anual el anteproyecto de presupuesto de egresos de la Dirección General y someterlo a consideración de su titular;
 
@@ -3232,3 +3304,15 @@ P.O. 7 DE ABRIL DE 2022.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 128 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS, ASÍ COMO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Plazo para la implementación del sistema de registro
+
+Artículo Segundo. La Dirección General de Transporte de la Secretaría de Gobierno, tendrá como plazo límite el 1 de diciembre de 2022, para la implementación del sistema de registro.
