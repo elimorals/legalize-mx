@@ -4,7 +4,7 @@ identifier: "MIC-ley-que-regula-el-uso-de-cubrebocas-en-el-estado-de-146480"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-20"
-last_updated: "2022-05-31"
+last_updated: "2022-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY QUE REGULA EL USO DE CUBREBOCAS EN EL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL DECRETO NÚMERO 213, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE REGULA EL USO DE CUBREBOCAS EN EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2022 (ABROGADA).
 
 Ley publicada en la Sexta Sección del Número 90 del Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 20 de enero de 2021.
 
@@ -328,3 +330,17 @@ P.O. 31 DE MAYO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El titular del Poder Ejecutivo tendrá un plazo de hasta treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones correspondientes al Reglamento de la Ley.
+
+P.O. 19 DE OCTUBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL DECRETO NÚMERO 213 QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO]</small>
+
+PRIMERO. Se abroga la Ley que Regula el Uso de Cubrebocas en el Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud en el Estado de Michoacán dictará y publicará de inmediato las medidas y procedimientos sanitarios para continuar cuidando y garantizando la salud pública del Estado de Michoacán de Ocampo, ante el virus SARS-CoV2 (COVID-19). Las medidas que deban tomarse en lugares como centros educativos, de salud, de transporte público, de servicios o de reunión, se darán a conocer a toda la población de manera puntual y se ajustarán conforme al número de casos registrados y a la época del año de que se trate, a fin de evitar cualquier repunte de contagios u hospitalizaciones.
+
+## TRANSITORIOS
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El Titular del Poder Ejecutivo del Estado tendrá un plazo de hasta noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones correspondientes a la normatividad reglamentaria correspondiente.
