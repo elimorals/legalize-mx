@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-de-el-colegio-de-morelos-126597"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-01-24"
-last_updated: "2022-09-28"
+last_updated: "2022-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DE "EL COLEGIO DE MORELOS"
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE OCTUBRE DE 2022 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE “EL COLEGIO DE MORELOS”
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE OCTUBRE DE 2022.]</small>
 
 Estatuto publicado en el Número 5571 del Periódico Oficial del Estado de Morelos, el miércoles 24 de enero de 2018.
 
@@ -383,14 +383,22 @@ P.O. 28 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO/COLMORJG/3ORD.21/1, LOS INTEGRANTES DE LA H. JUNTA DE GOBIERNO APRUEBAN POR MAYORÍA DE VOTOS LA REFORMA AL ARTÍCULO 6 DEL ESTATUTO ORGÁNICO DE EL COLEGIO DE MORELOS”.]
 
-PRIMERO. Las modificaciones al presente reglamento entrarán en vigor a partir de su publicación en la Gaceta “Emiliano Zapata” de El Colegio de Morelos.
+[F. DE E., P.O. 19 DE OCTUBRE DE 2022]
 
-SEGUNDO. Quedan derogadas todas aquellas disposiciones que contravengan al presente reglamento.
+PRIMERO.- Las modificaciones al presente Estatuto entrarán en vigor a partir de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+[F. DE E., P.O. 19 DE OCTUBRE DE 2022]
+
+SEGUNDO.- Quedan derogadas todas aquellas disposiciones que contravengan al presente Estatuto.
 
 P.O. 28 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO/COLMORJG/2ORD.22/6 LOS INTEGRANTES DE LA H. JUNTA DE GOBIERNO APRUEBAN POR UNANIMIDAD LAS MODIFICACIONES AL ARTÍCULO 12 DEL ESTATUTO ORGÁNICO DE EL COLEGIO DE MORELOS”.]
 
-PRIMERO. Las modificaciones al presente reglamento entrarán en vigor a partir de su publicación en la Gaceta “Emiliano Zapata” de El Colegio de Morelos.
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2022)</small>
 
-SEGUNDO. Quedan derogadas todas aquellas disposiciones que contravengan al presente reglamento.
+PRIMERO.- Las modificaciones al presente Estatuto entrarán en vigor a partir de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+> <small>(F. DE E., P.O. 19 DE OCTUBRE DE 2022)</small>
+
+SEGUNDO.- Quedan derogadas todas aquellas disposiciones que contravengan al presente Estatuto.
