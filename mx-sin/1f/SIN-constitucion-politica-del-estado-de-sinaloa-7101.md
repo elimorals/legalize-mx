@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2022-09-23"
+last_updated: "2022-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2022.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -137,9 +137,11 @@ III. Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bi
 
 La Ley determinará las medidas que deberán llevar a cabo las autoridades para protegerlo, preservarlo, restaurarlo y mejorarlo.
 
-IV. Los habitantes en el Estado tienen el derecho a disfrutar una vida libre de violencia. La ley establecerá las bases de la actuación de las autoridades para prevenirla y atender a las personas que sufran de ella, así como generar una cultura que permita eliminar las causas y patrones que la generan, poniendo especial atención en la erradicación de la violencia intrafamiliar.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-El Estado adoptará las medidas necesarias para prevenir, sancionar y erradicar la violencia contra la mujer, entendida como cualquier acción o conducta, basada en su género, que cause muerte, daño o sufrimiento físico, sexual o psicológico, tanto en el ámbito público como en el privado.
+IV. Los habitantes en el Estado tienen el derecho a disfrutar una vida libre de violencia. La ley establecerá las bases de la actuación de las autoridades para prevenirla y atender a las personas que sufran de ella, así como generar una cultura que permita eliminar las causas y patrones que la generan, poniendo especial atención en la erradicación de la violencia intrafamiliar. De igual manera deberá garantizarse a las mujeres el ejercicio de sus derechos políticos y electorales libre de violencia política, en los términos que establezcan las leyes.
+
+El Estado adoptará las medidas necesarias para prevenir, sancionar y erradicar la violencia contra la mujer, entendida como cualquier acción o conducta, basada en su género, que cause muerte, daño o sufrimiento físico, sexual, psicológico, o que vulnere el ejercicio de sus derechos políticos, tanto en el ámbito público como en el privado.
 
 V. (DEROGADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)
 
@@ -698,6 +700,18 @@ III. Ser mayor de 21 años en la fecha de la elección.
 > <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
 IV. No podrán ser electos diputados propietarios o suplentes: el Gobernador del Estado; los secretarios y subsecretarios y titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal; los titulares de los órganos constitucionales autónomos; los magistrados del Supremo Tribunal de Justicia; los jueces de Primera Instancia; los recaudadores de rentas y los presidentes municipales, en los distritos electorales en donde ejerzan sus funciones; los diputados y senadores al Congreso de la Unión que se encontraren en ejercicio; las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o municipios y los ministros de cualquier culto. Los ciudadanos antes referidos, con excepción de los ministros de cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos noventa días antes de la elección.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 19 DE OCTUBRE DE 2022)</small>
+
+V. No podrán ser electos diputados propietarios o suplentes:
+
+a) Las personas que aparezcan inscritas en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de sus candidaturas, salvo que exhiban la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora;
+
+b) Las personas condenadas por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo;
+
+c) Las personas que habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género; y
+
+d) Las personas que habiendo ejercido algún cargo de elección popular o dentro del servicio público hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2015)</small>
 
@@ -1330,6 +1344,18 @@ VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o ind
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1947)</small>
 
 VII. Comprobar de conformidad con el Código Civil y demás Leyes sobre la materia su calidad de ciudadano sinaloense por nacimiento.
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+VIII. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de sus candidaturas, salvo que exhiban la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+IX. No haber sido condenado por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+No podrán ser electas para este cargo las personas que habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género; o que habiendo ejercido algún cargo de elección popular o dentro del servicio público hayan sido sancionadas por dichas autoridades por cometer violencia política contra las mujeres en razón de género.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
@@ -2405,11 +2431,19 @@ I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
 
 II. Ser originario o vecino de la municipalidad en que se elija cuando menos con un año antes de la elección.
 
-Para este efecto, la vecindad no se pierde por ausencia en el desempeño de cualquier cargo de elección popular o de designación en los Poderes Legislativo, Ejecutivo o Judicial; y,
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+Para éste efecto, la vecindad no se pierde por ausencia en el desempeño de cualquier cargo de elección popular o de designación en los poderes Legislativo, Ejecutivo o Judicial;
 
-III. No tener empleo, cargo o comisión del Gobierno Federal, Estatal o Municipal, ni ser titular, director o su equivalente de sus respectivos organismos públicos paraestatales. Los ciudadanos antes referidos, podrán ser electos siempre que se separen de sus cargos cuando menos noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+III. No tener empleo, cargo o comisión del Gobierno Federal, Estatal o Municipal, ni ser titular, director o su equivalente de sus respectivos organismos públicos paraestatales. Los ciudadanos antes referidos, podrán ser electos siempre que se separen de sus cargos cuando menos noventa días antes de la elección; y
+
+> <small>(ADICIONADA [N. DE E. CON SU PÁRRAFO], P.O. 19 DE OCTUBRE DE 2022)</small>
+
+IV. No aparecer inscrito en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de sus candidaturas, salvo que exhiban la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora; no haber sido condenado por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo.
+
+No podrán ser electas para estos cargos, como propietarias o suplentes, las personas que habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género; o que habiendo ejercido algún cargo de elección popular o dentro del servicio público hayan sido sancionadas por dichas autoridades por cometer violencia política contra las mujeres en razón de género.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -4706,3 +4740,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga cualquier disposición que se oponga a lo señalado en este Decreto.
+
+P.O. 19 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 256 DEL H. CONGRESO DEL ESTADO.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 4 BIS 13, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN II Y LA FRACCIÓN III DEL ARTÍCULO 115; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 25; LAS FRACCIONES VIII Y IX Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 56, Y UNA FRACCIÓN IV AL ARTÍCULO 115, DISPOSICIONES TODAS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
