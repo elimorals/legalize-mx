@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-143485"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-01"
-last_updated: "2022-06-29"
+last_updated: "2022-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2022 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2022 (ABROGADA).
 
 Ley publicada en la Segunda Sección-Vespertina del Diario Oficial de la Federación, el miércoles 1 de julio de 2020.
 
@@ -60481,3 +60481,15 @@ Séptimo. Las menciones contenidas en otras leyes, reglamentos, decretos, acuerd
 DECRETO DE ACTUALIZACIÓN DEL D.O.F. 29 DE JUNIO DE 2022.
 
 > <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN".]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 19 DE OCTUBRE DE 2022.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN Y SE OTORGAN FACILIDADES ADMINISTRATIVAS A DIVERSAS MERCANCÍAS DE LA CANASTA BÁSICA E INSUMOS QUE SE INDICAN”.]</small>
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación, y estará vigente hasta el 28 de febrero de 2023.
+
+Segundo. La vigencia del presente decreto podrá extenderse hasta el 31 de diciembre de 2023, siempre que la "Empresa Importadora de Productos de la Canasta Básica" acredite haber celebrado un contrato durante la vigencia que refiere el artículo transitorio Primero del presente decreto.
+
+Tercero. El Servicio de Administración Tributaria emitirá las reglas de carácter general, y la Agencia Nacional de Aduanas de México las reglas de operación, necesarias para la debida y correcta aplicación del presente decreto.
+
+Cuarto. Las referencias realizadas a los códigos y descripciones señalados en el artículo Primero del presente decreto quedarán sin efectos y serán sustituidos por los de la Ley de los Impuestos Generales de Importación y de Exportación, publicada el 7 de junio de 2022 en el Diario Oficial de la Federación, a partir de su entrada en vigor.
