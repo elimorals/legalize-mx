@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2022-09-10"
+last_updated: "2022-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1773,13 +1773,21 @@ En caso de reincidencia en cualquiera de los delitos a que se refiere el present
 
 ### CAPITULO I. Ataques a las vías de comunicación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2022)</small>
 
 ###### Art. 125.
 
-Se impondrán de tres meses a seis años de prisión al que por cualquier medio destruya, deteriore, obstaculice o impida el funcionamiento de las vías de comunicación o medios de transporte de uso público de jurisdicción estatal o municipal.
+Se impondrán de un año a seis años de prisión al que por cualquier medio destruya, deteriore, obstaculice o impida el funcionamiento de las vías de comunicación o medios de transporte de uso público de jurisdicción estatal o municipal.
 
-Se impondrá de un mes a un año de prisión al que quite, corte, inutilice, apague, cambie o destruya las señales o luces de seguridad de una vía de comunicación estatal o coloque en la misma alguna no autorizada.
+Se impondrá de seis meses a dos años de prisión al que quite, corte, inutilice, apague, cambie o destruya las señales o luces de seguridad de una vía de comunicación estatal o municipal, o coloque en la misma alguna no autorizada, así como cualquier otro objeto o balizamiento con el fin de bloquear la vía de comunicación o medios de transporte, sin la autorización de la autoridad competente.
+
+(NOTA: EL 28 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 159/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 20 DE OCTUBRE DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 28855/LXIII/22, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+###### Art. 125 Bis.
+
+Se impondrán de un año a seis años de prisión y multa por el equivalente de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización y de cien a quinientas jornadas de trabajo en favor de la comunidad al que organice, incite o promueva o participe en actividades que impliquen el cierre, bloqueo u obstaculización parcial o total de la vía pública de comunicación estatal o municipal, con la finalidad de hacer promoción personal por cualquier medio masivo o redes sociales; afectando la movilidad de terceros en contravención a las disposiciones legales y normativas aplicables.
 
 ###### Art. 126.
 
@@ -3395,21 +3403,13 @@ La pena se aumentará al doble de la ya señalada, cuando el inculpado sea integ
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2017)</small>
 
-###### Artículo 173.
+###### Art. 173.
 
 Se impondrán de seis meses a seis años de prisión al que ejecute actos erótico-sexuales, sin el consentimiento de una persona mayor de edad. Si se hiciere uso de violencia física o psicológica la pena aumentará en una mitad.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-Este delito se perseguirá por querella de la parte ofendida.
-
-> <small>(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
-
-###### Art. 173.
-
-Se impondrán de tres meses a tres años de prisión al que ejecute actos erótico-sexuales, sin el consentimiento de una persona mayor de edad, sin el propósito de llegar a la cópula.
-
-Este delito se perseguirá por querella de la parte ofendida.
+La misma pena se aplicará cuando el delito se cometa en un vehículo de transporte por el prestador del servicio de transporte público o privado, cuente o no con autorización y registro correspondiente, durante la prestación de este en los diversos modos de servicio de transporte público previstos en la Ley de Movilidad, Seguridad Vial y Transporte del Estado de Jalisco.
 
 > <small>(DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3451,9 +3451,9 @@ La violación del padrastro al hijastro y la ejecutada por éste a su padrastro,
 
 Se equipara a la violación, la introducción por vía vaginal o anal con fines eróticos sexuales de cualquier objeto o instrumento distinto del miembro viril, por medio de la violencia física o moral, o realice estos actos en una persona que carezca de capacidad para comprender el significado de las cosas o de resistir el hecho, sea cual fuere el sexo del ofendido. Al responsable de este delito se le impondrá la pena señalada en el primer párrafo de este artículo.
 
-(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020) (F. DE E., P.O. 15 DE ABRIL DE 2021)
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-Las penas previstas para la violación se aumentarán hasta en una tercera parte cuando sea cometida con intervención de dos o más personas, o quien lo cometa se valiese de alguna situación de mando, poder, función pública o autoridad que tuviere (sic) desempeñe un cargo o empleo público, utilizando los medios o circunstancia que ellos le proporcionen, a quien además de la pena de prisión el condenado será destituido del cargo o empleo.
+Las penas previstas para la violación se aumentarán hasta en una tercera parte cuando sea cometida con intervención de dos o más personas o en vehículo de transporte público o privado de personas pasajeras, cuente o no con autorización y registro correspondiente en cualquiera de los modos previstos en la Ley de Movilidad, Seguridad Vial y Transporte del Estado de Jalisco.
 
 (REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2020) (F. DE E., P.O. 15 DE ABRIL DE 2021)
 
@@ -3501,7 +3501,9 @@ Al responsable se le impondrá sanción de ocho a quince años de prisión.
 
 Se considera también como aprovechamiento sexual a quien valiéndose de las malas condiciones y necesidades de otra, obtenga para él o para un tercero, la cópula, a cambio de prestar ayuda o beneficio para su situación.
 
-Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena impuesta, la cual empezará a correr una vez que se haya cumplido la pena privativa de la libertad.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2022)</small>
+
+Cuando el delito fuere cometido por un servidor público, un profesionista o una persona prestadora del servicio de transporte público o privado, cuente o no con autorización y registro correspondiente en cualquiera de los modos previstos en la Ley de Movilidad, Seguridad Vial y Transporte del Estado de Jalisco, en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitada, destituida o suspendida, de su empleo público o profesión por un término igual a la pena impuesta, la cual empezará a correr una vez que se haya cumplido la pena privativa de la libertad.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
@@ -4427,19 +4429,23 @@ VIII. Cuando el sujeto activo actúe por motivos de homofobia;
 
 IX. Cuando existan antecedentes de amenazas, acoso o lesiones del sujeto activo contra la víctima;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-X. Cuando el cuerpo de la víctima sea expuesto o arrojado en lugar público; o
+X. Cuando el cuerpo de la víctima sea expuesto o arrojado en lugar público;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
-XI. Cuando la víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
+XI. Cuando la víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida; o
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2022)</small>
+
+XII. Cuando el sujeto activo actúe como prestador del servicio de transporte público o privado, cuente o no con autorización y registro correspondiente.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2022)</small>
 
 En caso de que no se acredite el feminicidio se aplicarán las reglas del homicidio o parricidio, según corresponda.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2022)</small>
 
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima.
 
@@ -5220,6 +5226,10 @@ Al responsable del delito de daño en las cosas, se le impondrán de un mes a ci
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2019)</small>
 
 Se impondrán de seis meses a ocho años de prisión y multa por el importe de cuatro a cuarenta veces el valor diario de la Unidad de Medida y Actualización cuando se cometa contra cosas que estén destinadas a funciones de seguridad pública, impartición y procuración de justicia o se cometa contra cosas en posesión o propiedad de personas que desarrollen funciones de seguridad pública, impartición y procuración de justicia con motivo del cumplimiento de dichas funciones o por consecuencia del encargo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2022)</small>
+
+No cometerá delito previsto en este artículo, las personas conductoras de vehículos motorizados que de manera culposa ocasionen daños exclusivamente de índole patrimonial a terceros, derivados de un siniestro de tránsito.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -7194,3 +7204,55 @@ P.O. 10 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28811/LXIII/22 QUE REFORMAN LOS ARTÍCULOS 142-N, 176-TER Y 211 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28855/LXIII/22 QUE ABROGA LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO, EXPIDE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 125, 173, 175, 176-BIS, 1., (sic) 232-BIS Y EL ARTÍCULO 259 Y ADICIONA EL ARTÍCULO 125-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Movilidad y Transporte del Estado de Jalisco, contenida en el decreto número 24451/LX/13, publicada en el periódico oficial "El Estado de Jalisco" el 10 de agosto de 2013, Sección II, y sus subsecuentes reformas y adiciones.
+
+TERCERO. Las solicitudes, recursos y demás trámites que, hasta antes de la entrada en vigor del presente decreto hayan sido iniciados ante la Secretaría, Secretaría de Seguridad, ante la Secretaría de Movilidad o Secretaría de Vialidad y Transporte, se seguirán sustanciando y resolverán de conformidad con la Ley abrogada aplicable en el momento que se iniciaron.
+
+CUARTO. El Ejecutivo del Estado, en el término de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, emitirán las disposiciones reglamentarias, así como en el plazo de hasta ciento ochenta días hábiles posteriores a la emisión del Reglamento de la Ley de Movilidad, Seguridad Vial y Transporte para la emisión de las normas técnicas necesarias para su debida implementación y cumplimiento.
+
+QUINTO. En un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente decreto, deberá integrarse el Sistema Estatal de Movilidad y Seguridad Vial, mismo que deberá emitir los lineamientos para su organización y operación, así como la Estrategia Estatal de Movilidad y Seguridad Vial en un plazo no mayor a ciento ochenta días naturales contados a partir de su integración.
+
+SEXTO. Las actuales personas conductoras u operadoras del servicio de transporte público en todos sus modos, deberán renovar su licencia de conducir, una vez que haya expirado su vigencia, apegándose a lo establecido en el presente decreto, así como las disposiciones reglamentarias y normativas aplicables, así mismo atendiendo a los requerimientos sobre perspectiva de género, seguridad vial, accesibilidad universal, que minimicen los riesgos para las personas usuarias y conductoras del servicio y fomenten el inhibir conductas de acoso, discriminación o transgresión a los derechos humanos.
+
+SÉPTIMO. En contra de las resoluciones y de los acuerdos administrativos que se tomen al amparo de cualquiera de los articules transitorios del presente decreto, al ser consideradas de orden público e interés general por salvaguardar el derecho humano a la movilidad previsto en el párrafo décimo séptimo del artículo 4 de la Constitución Política de los Estados Unidos Mexicanos, no procederá la suspensión.
+
+OCTAVO. En un plazo no mayor a noventa días naturales posteriores a la entrada en vigor del presente decreto se integrará el Comité Técnico Tarifario.
+
+NOVENO. La implementación de la fórmula de indexación de la tarifa se aplicará a partir del segundo semestre de 2024.
+
+DÉCIMO. El Fondo de Apoyo para las Personas Usuarias de transporte público tendrá por objeto resarcir los incrementos en el costo de operación y funcionamiento de servicio de transporte público colectivo, a fin de no reflejar y repercutir en las personas usuarias un incremento en la tarifa de transporte público, por lo que se constituirá a partir del ejercicio fiscal del 2023, y le serán asignados los recursos que establezca el presupuesto de egresos en cada ejercicio fiscal.
+
+DÉCIMO PRIMERO. El Sistema de Información Territorial y Urbano del Estado de Jalisco se conformará una vez que se emitan los lineamientos del Sistema Estatal de Movilidad y Seguridad Vial, así como las disposiciones legales y reglamentarias en la materia, atendiendo lo dispuesto en la Ley General de Movilidad y Seguridad Vial y en el presente decreto; lo anterior a efecto de elaborar los estudios, diagnósticos, intervenciones, acciones afirmativas y ajustes razonables, para dar seguimiento y evaluación de las políticas e intervenciones dirigidas a mejorar las condiciones de la movilidad y la seguridad vial con perspectiva interseccional y de derechos humanos, en los términos de la legislación y normatividad aplicable.
+
+DÉCIMO SEGUNDO. De conformidad con el artículo Quinto Transitorio de la Ley General de Movilidad y Seguridad Vial, el Poder Ejecutivo y los municipios del Estado de Jalisco deberán integrar los registros, indicadores y bases de datos en materia de movilidad y seguridad vial como parte del Sistema de Información Territorial y Urbano.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente decreto, las personas que cuenten con autorización, permiso o concesión para prestar el servicio de transporte público, deberán migrar sus vehículos afectos al servicio de acuerdo a lo que establezca la norma general de carácter técnico aplicable y las disposiciones previstas en la Ley aprobada en el presente decreto, así como en los reglamentos aplicables.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente decreto, las Empresas de Redes de Transporte, personas prestadoras de servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, así como los concesionarios de taxis, deberán adecuar sus vehículos afectos al servicio de acuerdo a lo que establezca la norma general de carácter técnico aplicable conforme las disposiciones previstas en la Ley que se expide en el presente decreto, así como en los reglamentos en la materia.
+
+DÉCIMO QUINTO. El Ejecutivo del Estado, los municipios y las instancias metropolitanas establecidas en el presente decreto, deberán en el ámbito de sus respectivas competencias, implementar las acciones necesarias para asegurar el cumplimiento de las disposiciones legales y reglamentarias previstas en la Ley General de Movilidad y Seguridad Vial, en la presente Ley y sus reglamentos.
+
+DÉCIMO SEXTO. El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días hábiles, realizará las acciones tendientes para la suscripción de los instrumentos jurídicos en la implementación de los mecanismos para la liberación de las vialidades por parte de los involucrados en siniestros de tránsito en los supuestos establecidos en el presente decreto, lo anterior en acuerdo con las Aseguradoras y las Secretarías competentes.
+
+La reforma prevista en el artículo 147 del Artículo Primero del presente Decreto, será aplicable hasta que las Secretarías competentes celebren los instrumentos jurídicos y los convenios necesarios para que la liberación de las vialidades se efectúe por parte de los involucrados, lo anterior en los términos previstos en el párrafo que antecede.
+
+DÉCIMO SÉPTIMO. Las autoridades competentes deberán incorporar en un plazo de ciento ochenta días hábiles, a partir de la entrada en vigor de la presente Ley, el Plan de Movilidad Escolar mismo que será validado por la Secretaría previa convocatoria y participación por parte de las instituciones académicas, centros educativos y universidades tanto públicas como privadas.
+
+DÉCIMO OCTAVO. Los ayuntamientos deberán expedir o modificar sus reglamentos en la materia en un plazo no mayor de trescientos sesenta y cinco días naturales, a partir de la vigencia del presente decreto, plazo en el cual deberán aplicar los que tengan vigente a la fecha de entrada en vigor de este decreto.
+
+DÉCIMO NOVENO. Se derogan las disposiciones que se opongan al presente decreto.
+
+VIGÉSIMO. Los procedimientos jurisdiccionales por los delitos previstos en las disposiciones del Código Penal para el Estado Libre y Soberano de Jalisco que se reforman mediante el presente decreto, o se encuentren en trámite a la fecha de entrada en vigor del presente decreto, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio.
+
+VIGÉSIMO PRIMERO. Las personas que actualmente cuentan con concesiones, permisos o autorizaciones del servicio público de transporte en cualquiera de las modalidades, conservarán sus derechos que se encuentren vigentes y hayan sido adquiridos legalmente conforme a la Ley de Movilidad y Transporte que se abroga mediante este decreto, pudiendo permanecer prestando el servicio que tienen autorizado por el periodo que se otorgó, sujetándose a la normatividad establecida.
+
+VIGÉSIMO SEGUNDO. La autoridad competente, en un plazo no mayor a 180 días hábiles, contados a partir de la emisión de la norma técnica respectiva, deberá efectuar un censo de los vehículos afectos al transporte comunitario que actualmente prestan el servicio, considerando los vehículos motorizados de menor escala, con la finalidad de conformar un padrón de este modo de transporte, los cuales deben ser regulados en la norma técnica; otorgando en la convocatoria respectiva el derecho de preferencia como prestadores del servicio de transporte comunitario privilegiando a quienes utilicen tecnología sustentable.
+
+VIGESIMO TERCERO. En un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, en el Artículo Primero del presente decreto, el Ejecutivo del Estado, el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara, así como el Consejo Ciudadano Metropolitano, en el ámbito de sus respectivas atribuciones, deberán establecer las bases de participación de los observatorios ciudadanos en materia de movilidad, seguridad vial y transporte, lo anterior de conformidad con la legislación aplicable en la materia.
