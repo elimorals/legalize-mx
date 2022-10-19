@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2022-08-04"
+last_updated: "2022-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 19 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2022 (ABROGADA).
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -4710,3 +4710,55 @@ I. 10% de descuento en el pago de derechos por refrendo vehicular y tarjeta de c
 II. 20% de descuento en el derecho por dotación de placas a los vehículos foráneos que cumplieron con la verificación vehicular y deseen contar con placas del Estado de Jalisco, a quienes verifiquen en el Ejercicio Fiscal 2022.
 
 Quinto. La Secretaría de Medio Ambiente y Desarrollo Territorial en coordinación con la Contraloría del Estado, deberán comunicar y realizar campañas de difusión en todos los entes públicos respecto de sus obligaciones derivadas de este decreto en materia de verificación vehicular.
+
+P.O. 19 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28855/LXIII/22 QUE ABROGA LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO, EXPIDE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO; SE REFORMAN LOS ARTÍCULOS 125, 173, 175, 176-BIS, 1., 232-BIS Y EL ARTÍCULO 259 Y ADICIONA EL ARTÍCULO 125-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Movilidad y Transporte del Estado de Jalisco, contenida en el decreto número 24451/LX/13, publicada en el periódico oficial "El Estado de Jalisco" el 10 de agosto de 2013, Sección II, y sus subsecuentes reformas y adiciones.
+
+TERCERO. Las solicitudes, recursos y demás trámites que, hasta antes de la entrada en vigor del presente decreto hayan sido iniciados ante la Secretaría, Secretaría de Seguridad, ante la Secretaría de Movilidad o Secretaría de Vialidad y Transporte, se seguirán sustanciando y resolverán de conformidad con la Ley abrogada aplicable en el momento que se iniciaron.
+
+CUARTO. El Ejecutivo del Estado, en el término de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, emitirán las disposiciones reglamentarias, así como en el plazo de hasta ciento ochenta días hábiles posteriores a la emisión del Reglamento de la Ley de Movilidad, Seguridad Vial y Transporte para la emisión de las normas técnicas necesarias para su debida implementación y cumplimiento.
+
+QUINTO. En un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente decreto, deberá integrarse el Sistema Estatal de Movilidad y Seguridad Vial, mismo que deberá emitir los lineamientos para su organización y operación, así como la Estrategia Estatal de Movilidad y Seguridad Vial en un plazo no mayor a ciento ochenta días naturales contados a partir de su integración.
+
+SEXTO. Las actuales personas conductoras u operadoras del servicio de transporte público en todos sus modos, deberán renovar su licencia de conducir, una vez que haya expirado su vigencia, apegándose a lo establecido en el presente decreto, así como las disposiciones reglamentarias y normativas aplicables, así mismo atendiendo a los requerimientos sobre perspectiva de género, seguridad vial, accesibilidad universal, que minimicen los riesgos para las personas usuarias y conductoras del servicio y fomenten el inhibir conductas de acoso, discriminación o transgresión a los derechos humanos.
+
+SÉPTIMO. En contra de las resoluciones y de los acuerdos administrativos que se tomen al amparo de cualquiera de los artículos transitorios del presente decreto, al ser consideradas de orden público e interés general por salvaguardar el derecho humano a la movilidad previsto en el párrafo décimo séptimo del artículo 4 de la Constitución Política de los Estados Unidos Mexicanos, no procederá la suspensión.
+
+OCTAVO. En un plazo no mayor a noventa días naturales posteriores a la entrada en vigor del presente decreto se integrará el Comité Técnico Tarifario.
+
+NOVENO. La implementación de la fórmula de indexación de la tarifa se aplicará a partir del segundo semestre de 2024.
+
+DÉCIMO. El Fondo de Apoyo para las Personas Usuarias de transporte público tendrá por objeto resarcir los incrementos en el costo de operación y funcionamiento de servicio de transporte público colectivo, a fin de no reflejar y repercutir en las personas usuarias un incremento en la tarifa de transporte público, por lo que se constituirá a partir del ejercicio fiscal del 2023, y le serán asignados los recursos que establezca el presupuesto de egresos en cada ejercicio fiscal.
+
+DÉCIMO PRIMERO. El Sistema de Información Territorial y Urbano del Estado de Jalisco se conformará una vez que se emitan los lineamientos del Sistema Estatal de Movilidad y Seguridad Vial, así como las disposiciones legales y reglamentarias en la materia, atendiendo lo dispuesto en la Ley General de Movilidad y Seguridad Vial y en el presente decreto; lo anterior a efecto de elaborar los estudios, diagnósticos, intervenciones, acciones afirmativas y ajustes razonables, para dar seguimiento y evaluación de las políticas e intervenciones dirigidas a mejorar las condiciones de la movilidad y la seguridad vial con perspectiva interseccional y de derechos humanos, en los términos de la legislación y normatividad aplicable.
+
+DÉCIMO SEGUNDO. De conformidad con el artículo Quinto Transitorio de la Ley General de Movilidad y Seguridad Vial, el Poder Ejecutivo y los municipios del Estado de Jalisco deberán integrar los registros, indicadores y bases de datos en materia de movilidad y seguridad vial como parte del Sistema de Información Territorial y Urbano.
+
+DÉCIMO TERCERO. A partir de la entrada en vigor del presente decreto, las personas que cuenten con autorización, permiso o concesión para prestar el servicio de transporte público, deberán migrar sus vehículos afectos al servicio de acuerdo a lo que establezca la norma general de carácter técnico aplicable y las disposiciones previstas en la Ley aprobada en el presente decreto, así como en los reglamentos aplicables.
+
+DÉCIMO CUARTO. A partir de la entrada en vigor del presente decreto, las Empresas de Redes de Transporte, personas prestadoras de servicio de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, así como los concesionarios de taxis, deberán adecuar sus vehículos afectos al servicio de acuerdo a lo que establezca la norma general de carácter técnico aplicable conforme las disposiciones previstas en la Ley que se expide en el presente decreto, así como en los reglamentos en la materia.
+
+DÉCIMO QUINTO. El Ejecutivo del Estado, los municipios y las instancias metropolitanas establecidas en el presente decreto, deberán en el ámbito de sus respectivas competencias, implementar las acciones necesarias para asegurar el cumplimiento de las disposiciones legales y reglamentarias previstas en la Ley General de Movilidad y Seguridad Vial, en la presente Ley y sus reglamentos.
+
+DÉCIMO SEXTO. El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días hábiles, realizará las acciones tendientes para la suscripción de los instrumentos jurídicos en la implementación de los mecanismos para la liberación de las vialidades por parte de los involucrados en siniestros de tránsito en los supuestos establecidos en el presente decreto, lo anterior en acuerdo con las Aseguradoras y las Secretarías competentes.
+
+La reforma prevista en el artículo 147 del Artículo Primero del presente Decreto, será aplicable hasta que las Secretarías competentes celebren los instrumentos jurídicos y los convenios necesarios para que la liberación de las vialidades se efectúe por parte de los involucrados, lo anterior en los términos previstos en el párrafo que antecede.
+
+DÉCIMO SÉPTIMO. Las autoridades competentes deberán incorporar en un plazo de ciento ochenta días hábiles, a partir de la entrada en vigor de la presente Ley, el Plan de Movilidad Escolar mismo que será validado por la Secretaría previa convocatoria y participación por parte de las instituciones académicas, centros educativos y universidades tanto públicas como privadas.
+
+DÉCIMO OCTAVO. Los ayuntamientos deberán expedir o modificar sus reglamentos en la materia en un plazo no mayor de trescientos sesenta y cinco días naturales, a partir de la vigencia del presente decreto, plazo en el cual deberán aplicar los que tengan vigente a la fecha de entrada en vigor de este decreto.
+
+DÉCIMO NOVENO. Se derogan las disposiciones que se opongan al presente decreto.
+
+VIGÉSIMO. Los procedimientos jurisdiccionales por los delitos previstos en las disposiciones del Código Penal para el Estado Libre y Soberano de Jalisco que se reforman mediante el presente decreto, o se encuentren en trámite a la fecha de entrada en vigor del presente decreto, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio.
+
+VIGÉSIMO PRIMERO. Las personas que actualmente cuentan con concesiones, permisos o autorizaciones del servicio público de transporte en cualquiera de las modalidades, conservarán sus derechos que se encuentren vigentes y hayan sido adquiridos legalmente conforme a la Ley de Movilidad y Transporte que se abroga mediante este decreto, pudiendo permanecer prestando el servicio que tienen autorizado por el periodo que se otorgó, sujetándose a la normatividad establecida.
+
+VIGÉSIMO SEGUNDO. La autoridad competente, en un plazo no mayor a 180 días hábiles, contados a partir de la emisión de la norma técnica respectiva, deberá efectuar un censo de los vehículos afectos al transporte comunitario que actualmente prestan el servicio, considerando los vehículos motorizados de menor escala, con la finalidad de conformar un padrón de este modo de transporte, los cuales deben ser regulados en la norma técnica; otorgando en la convocatoria respectiva el derecho de preferencia como prestadores del servicio de transporte comunitario privilegiando a quienes utilicen tecnología sustentable.
+
+VIGÉSIMO TERCERO. En un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, en el Artículo Primero del presente decreto, el Ejecutivo del Estado, el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara, así como el Consejo Ciudadano Metropolitano, en el ámbito de sus respectivas atribuciones, deberán establecer las bases de participación de los observatorios ciudadanos en materia de movilidad, seguridad vial y transporte, lo anterior de conformidad con la legislación aplicable en la materia.
