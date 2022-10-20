@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2021-10-06"
+last_updated: "2022-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -887,21 +887,19 @@ Las comisiones especiales son aquellas de carácter temporal que acuerde el plen
 
 Para el análisis y dictaminación de las autorizaciones relativas a los contratos de colaboración público privada y de las demás modalidades y actos jurídicos previstos en la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, deberá constituirse una Comisión Especial.
 
-(NOTA: EL 11 DE AGOSTO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: ”Artículo 55.- Las comisiones legislativas se integran de por lo menos tres diputados y su composición deberá reflejar en lo posible la pluralidad política del Congreso del Estado. De los diputados que integren las comisiones legislativas habrá un presidente, por lo menos un secretario y vocales que sean designados; ningún diputado podrá participar en más de diez comisiones ordinarias y comités. Ningún Diputado podrá presidir más de dos Comisiones ordinarias o Comités.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 55.
 
-LAS COMISIONES LEGISLATIVAS SE INTEGRAN DE POR LO MENOS TRES DIPUTADOS Y SU COMPOSICIÓN DEBERÁ REFLEJAR EN LO POSIBLE LA PLURALIDAD POLÍTICA DEL CONGRESO DEL ESTADO. DE LOS DIPUTADOS QUE INTEGREN LAS COMISIONES LEGISLATIVAS HABRÁ UN PRESIDENTE, POR LO MENOS UN SECRETARIO Y VOCALES QUE SEAN DESIGNADOS. NINGÚN DIPUTADO PODRÁ PRESIDIR MÁS DE CINCO COMISIONES ORDINARIAS O COMITÉS.
+Las comisiones legislativas se integran de por lo menos tres diputados y su composición deberá reflejar en lo posible la pluralidad política del Congreso del Estado. De los diputados que integren las comisiones legislativas habrá un presidente, por lo menos un secretario y vocales que sean designados. Ningún diputado podrá presidir más de cinco comisiones ordinarias o comités.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2015)</small>
 
 Las comisiones ordinarias de Puntos Constitucionales y Legislación, Hacienda, Presupuesto y Cuenta Pública, y Gobernación y Gran Jurado, estarán conformadas por un Presidente, tres secretarios y al menos un diputado de cada uno de los grupos y/o fracciones parlamentarias que integren la legislatura.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2022)</small>
 
-En el caso de la Comisión de Hacienda, Presupuesto y Cuenta Pública, la Presidencia será rotativa y anual, para ello la Junta Política y de Gobierno propondrá al Pleno, mediante acuerdo aprobado por mayoría calificada de sus integrantes por voto ponderado, la conformación de dicha Comisión; mediante el mismo procedimiento, podrá proponer al Pleno las Comisiones que considere conveniente que sean rotativas y anuales, especificando el motivo y la conformación de las comisiones en su caso.
+En el caso de la Comisión de Hacienda, Presupuesto y Cuenta Pública, la Presidencia será anual, para ello la Junta Política y de Gobierno propondrá al pleno, mediante acuerdo aprobado por mayoría calificada de sus integrantes por voto ponderado, la conformación de dicha comisión; mediante el mismo procedimiento, podrá proponer al pleno las comisiones que considere conveniente que sean rotativas y anuales, especificando el motivo y la conformación de las comisiones en su caso.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3150,3 +3148,13 @@ SEGUNDA. El presente decreto iniciará su vigencia a partir de la aprobación po
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
 
 CUARTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “copia certificada”, los decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+P.O. 20 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO QUINIENTOS SETENTA Y SIETE POR EL QUE SE REFORMA EL ARTÍCULO 55 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA.- La reforma contenida en el presente decreto entró en vigor al momento de su aprobación por el pleno del Congreso del Estado de Morelos, en términos de lo dispuesto por el artículo 4 de la Ley Orgánica para el Congreso del Estado de Morelos.
+
+SEGUNDA.- Remítase el presente decreto al titular del Poder Ejecutivo, para su publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan las disposiciones de igual o menor rango jerárquico que se opongan a la presente reforma.
