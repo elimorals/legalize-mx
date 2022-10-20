@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-etica-de-las-personas-servidoras-publicas-de-la-13667
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-30"
-last_updated: "2019-05-30"
+last_updated: "2022-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO DE ETICA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA ADMINISTRACION PUBLICA ESTATAL DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL B.O. DE 20 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2022 (ABROGADO).
 
 Código publicado en la Sección II del Número 43 del Boletín Oficial del Estado de Sonora, el jueves 30 de mayo de 2019.
 
@@ -334,3 +336,25 @@ SEXTO.- Los entes públicos deberán emitir sus respectivos Códigos de Conducta
 SÉPTIMO.- La normativa que rige a los Comités de Ética e Integridad, así como los mecanismos de evaluación, seguirán vigentes hasta en tanto la unidad, emita las actualizaciones correspondientes.
 
 Dado en la Ciudad de Hermosillo, Sonora, a los veintiocho de (sic) días del mes de mayo del año 2019. Sufragio Efectivo, no reelección. El Secretario de la Contraloría General del Estado, Lic. Miguel Ángel Murillo Aispuro. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. DE 20 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+SEGUNDO. Se abroga el Código de Ética de las Personas Servidoras Públicas de la Administración Pública Estatal, publicado en el Boletín Oficial del Estado el 30 de mayo de 2019.
+
+TERCERO. El titular de la Secretaría de la Contraloría General es la única autoridad competente para emitir el presente Código de Ética, el cual habrá de regir para las dependencias y entidades de la Administración Pública Estatal, en virtud de que los Órganos Internos de Control, dependen jerárquica, administrativa y funcionalmente de este.
+
+CUARTO. Las dependencias, entidades u órganos desconcentrados, tendrán hasta el mes de marzo de 2023 para actualizar su Código de Conducta en términos del presente Código de Ética y de la Guía para su elaboración que al efecto emita la Secretaría.
+
+QUINTO. Las dependencias, entidades u órganos desconcentrados en su caso, que a la fecha de entrada en vigor del presente Código de Ética, no cuenten con un Comité de Ética e Integridad, deberán constituirlo en un plazo de 60 días naturales, y tendrán hasta el mes de marzo de 2023 para emitir su Código de Conducta.
+
+SEXTO. Las dependencias, entidades u organismos desconcentrados que a la entrada en vigor del presente Código de Ética hayan implementado acciones efectivas para que la totalidad de las personas servidoras públicas suscribieran la carta compromiso conforme al Código de Ética de las Personas Servidoras Públicas de la Administración Pública Estatal que se abroga, no estarán obligadas a implementarlas nuevamente, salvo aquellos casos en que no se hubiere concretado la suscripción de dicho documento, o tratándose de personas de nuevo ingreso.
+
+SÉPTIMO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+OCTAVO. La normativa que rige a los Comités de Ética, así como los mecanismos de coordinación y evaluación permanecerán vigentes, salvo disposición en contrario.
