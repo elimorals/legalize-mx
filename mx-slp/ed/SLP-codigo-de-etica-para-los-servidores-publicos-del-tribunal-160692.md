@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-etica-para-los-servidores-publicos-del-tribunal-16069
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-09"
-last_updated: "2019-05-09"
+last_updated: "2022-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2022 (ABROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 9 de mayo de 2019.
 
@@ -258,3 +260,15 @@ C.P. CLAUDIA JOSEFINA CONTRERAS PÁEZ, MAGP.
 CONTRALORA INTERNA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”, y deberá ser observado por la totalidad de servidores públicos adscritos al Tribunal.
+
+SEGUNDO. Con la entrada en vigor del presente acuerdo, se abroga el Código de Ética para los servidores públicos del Tribunal Estatal de Justicia Administrativa, publicado en la edición extraordinaria del 09 de mayo de 2019.
+
+TERCERO. Hágase de conocimiento del presente Acuerdo al H. Pleno y a todos los servidores públicos que integran el Tribunal Estatal de Justicia Administrativa de San Luis Potosí, mismo que deberá ser difundido en el portal institucional del mismo, para los efectos legales y administrativos conducentes.
