@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2021-09-13"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -79,9 +79,9 @@ I.- Contribuir al desarrollo sustentable del Estado, mediante la participación 
 
 II.- Impulsar la silvicultura y el aprovechamiento sustentable de los recursos forestales, para que contribuyan con bienes y servicios que aseguren el mejoramiento del nivel de vida de los hidalguenses, especialmente de los propietarios, poseedores y pobladores forestales;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-II Bis.- Promover, en la política forestal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades para las mujeres, la población vulnerable, los jóvenes y las personas con capacidades diferentes;
+II Bis.- Promover, en la política forestal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades para las mujeres, jóvenes y grupos vulnerables; y
 
 III.- Promover el desarrollo de los bienes y servicios ambientales de los ecosistemas forestales así como proteger, mantener y aumentar su biodiversidad;
 
@@ -2182,5 +2182,11 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P.O. 13 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 746 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 282 QUE REFORMAN (SIC) LA FRACCIÓN II BIS, DEL ARTÍCULO 2 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
