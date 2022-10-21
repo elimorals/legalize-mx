@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2022-02-11"
+last_updated: "2022-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -1257,7 +1257,9 @@ XII. Establecer, integrar, administrar, controlar y mantener actualizados los Re
 
 XII Bis. Suscribir, junto con la Secretaría de Planeación y Finanzas, las tarjetas de circulación de vehículos del servicio de transporte en el estado y particulares;
 
-XIII. Establecer los requisitos que deban satisfacer los particulares y el personal técnico del servicio de transporte, así como otorgar concesiones y expedir las licencias, permisos y autorizaciones respectivas dentro del ámbito de su competencia que le señale la ley de la materia;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XIII. Establecer, solicitar y revisar los requisitos, documentos, certificados y hologramas, que deban satisfacer y portar los vehículos de los particulares y los del servicio de transporte en sus diferentes modalidades; así como otorgar concesiones y expedir las licencias, permisos y autorizaciones respectivas dentro del ámbito de su competencia que le señale la ley y el Reglamento de la materia;
 
 XIV. Regular el servicio de transporte en sus diversas modalidades, incluido el que se preste a través de plataformas tecnológicas, sus servicios conexos y sus prestadores, dentro del ámbito de su competencia que le señale la ley de la materia;
 
@@ -2148,3 +2150,11 @@ SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Uni
 OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
