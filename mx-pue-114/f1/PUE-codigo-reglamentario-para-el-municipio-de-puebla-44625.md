@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2022-09-23"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -22345,7 +22345,9 @@ VII. La participación ciudadana en la denuncia de irregularidades en el servici
 
 VIII. El servicio que preste directamente el Organismo Operador del Servicio de Limpia del Municipio de Puebla o por particulares previa concesión otorgada;
 
-IX. Aplicar los principios de valorización, responsabilidad compartida y manejo integral de residuos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, los cuales deben considerarse en el diseño de instrumentos, programas y planes de política ambiental para la gestión de residuos;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+IX. Aplicar los principios de valorización, economía circular, responsabilidad compartida y manejo integral de residuos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, los cuales deben considerarse en el diseño de instrumentos, programas y planes de política ambiental para la gestión de residuos;
 
 X. Sujetar las actividades relacionadas con la generación y manejo integral de los residuos a las modalidades que dicte el orden e interés público para el logro del desarrollo sustentable municipal; y
 
@@ -22437,7 +22439,9 @@ XXXIII. Montonera: Apilamiento de residuos sólidos urbanos en la vía pública,
 
 XXXIV. Organismo: El Organismo Operador del Servicio de Limpia del Municipio de Puebla;
 
-XXXV. Pepena: Procedimiento no autorizado por el cual algunos subproductos son separados del resto de los residuos sólidos para su comercialización, con objeto de su reciclaje o reuso;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XXXV. Pepena: Procedimiento por el cual, previa autorización por parte del Organismo, algunos sub productos son separados del resto de los residuos sólidos urbanos, para su comercialización, con objeto de su reciclaje, aprovechamiento o reúso;
 
 XXXVI. Pequeño Generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
@@ -22461,9 +22465,9 @@ XLI Bis. Punto Verde: Estructura para el depósito y almacenamiento diferenciado
 
 XLII. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-XLIII. Recolector de Reciclables: persona física o moral que se dedica al manejo y comercialización de los subproductos reciclables.
+XLIII. Personas Recicladoras: Personas que perciben un ingreso a través de la recolección selectiva al recuperar, separar y acopiar productos y materiales que se obtienen de residuos sólidos urbanos para el reciclaje o aprovechamiento y comercialización, quien no cuenta con vínculo laboral con empresas prestadoras de servicios de residuos sólidos, empresas comercializadoras de residuos sólidos, ni empresas generadoras de residuos sólidos;
 
 XLIV. Recolección: Toda operación consistente en recoger, clasificar o agrupar los residuos para su transporte;
 
@@ -22559,11 +22563,13 @@ El presente Capítulo, no excluye la aplicación de las disposiciones que sobre 
 
 Los residuos sólidos generados en el Municipio de Puebla, son responsabilidad de los generadores, hasta y en tanto no sean depositados en la vía pública en los días y horarios de recolección, así como en los Puntos Verdes, contenedores o en las unidades recolectoras autorizadas por el Organismo, los que a partir de ese momento pasarán a ser responsabilidad y propiedad del mismo.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 1357.
 
-El Organismo será el encargado de autorizar y regular a aquellas personas físicas o morales que pretendan o realicen, según sea el caso, la pepena de residuos sólidos urbanos de manera voluntaria. Queda prohibida la actividad de pepena sin autorización.
+El Organismo será el encargado de autorizar de manera individual y gratuita, a aquellas personas físicas que pretendan o realicen, según sea el caso, la pepena de residuos sólidos urbanos de manera voluntaria.
+
+Queda prohibida la actividad de pepena sin autorización.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2020)</small>
 
@@ -22598,6 +22604,16 @@ Los residuos peligrosos y de manejo especial, generados por industrias y comerci
 ###### Artículo 1357 Quinquies.
 
 Los residuos peligrosos y de manejo especial generados en casas habitación deberán ser manejados, trasladados, tratados y depositados de acuerdo a las recomendaciones y lineamientos que al efecto indique el Organismo, agregado a las leyes y Normas Oficiales mexicanas vigentes.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 1357 Sexies.
+
+El Organismo creará un padrón de personas recicladoras, a través de un formato que para tal efecto se establezca; organizará y asignará las zonas de recolección.
+
+El Organismo será el encargado de la vigilancia y capacitación de las personas recicladoras para mejorar e incrementar su capacidad para captar y clasificar materiales, y aumentar el valor agregado a los materiales que comercializan.
+
+El Organismo otorgará de manera gratuita a las personas recicladoras de (sic) un chaleco distintivo e identificación de autorización intransferible, lo cual bajo ninguna circunstancia implica relaciones de carácter laboral o contractual entre el Organismo y las personas que se dediquen a esta actividad.
 
 DE LAS FACULTADES DEL ORGANISMO
 
@@ -22909,6 +22925,30 @@ En casos especiales donde no sea posible ubicar alguno de los tipos de Puntos Ve
 
 XXVI. Las demás que señalen este capítulo, así como los ordenamientos jurídicos en la materia.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 1363 Bis.
+
+Son obligaciones de las personas recicladoras:
+
+I. Dirigirse hacia la ciudadanía y a sus compañeras y compañeros con respeto;
+
+II. Portar el chaleco distintivo e identificación de autorización, sin esto no se podrá realizar la pepena y serán acreedoras a una suspensión temporal;
+
+En caso de extravío deberán notificarlo inmediatamente al Organismo para su reposición;
+
+III. Informar al Organismo el horario en el que realizarán la recolección;
+
+IV. Mantener limpias las áreas en donde realicen sus actividades;
+
+V. Evitar destruir o romper las bolsas de basura;
+
+VI. Cuidar el mobiliario urbano, como contenedores, botes papeleros, campanas y demás mobiliario instalado para la prestación del servicio de limpia;
+
+VII. Reportar al Organismo de alguna mala práctica de sus compañeros, si es posible con evidencias. Ninguna persona recicladora tiene autoridad para llamarle la atención a sus compañeras o compañeros; y
+
+VIII. Permitir las revisiones de rutina por parte de las autoridades municipales para prevenir la portación de armas, objetos o sustancias prohibidas.
+
 ###### Artículo 1364.
 
 Los permisionarios, sus representantes legales y/o encargados de terminales de autobuses y camiones para el transporte de pasajeros y carga, tanto foráneos como locales, así como cualquier centro comercial o lugares de asistencia pública masiva están obligados a:
@@ -23051,7 +23091,33 @@ III. Depositar en bolsas de basura, residuos peligrosos y de manejo especial y e
 
 IV. Sustraer o pepenar los residuos sólidos reciclables de la vía pública, del Relleno Sanitario o de los contenedores;
 
-V. Depositar basura en los contenedores instalados en los mercados, comercios o industrias por parte de personas ajenas a los mismos;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+V. Sustraer o realizar pepena sin autorización de los residuos sólidos reciclables de la vía pública o espacios públicos, del Relleno Sanitario o de contenedores;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE OCTUBRE DE 2022)</small>
+
+V Bis. En el caso de las personas recicladoras, tienen prohibido:
+
+a) Dañar, destruir o robar el mobiliario urbano;
+
+b) Realizar su actividad fuera de la zona asignada;
+
+c) Reciclar con menores de edad;
+
+d) Reciclar acompañados por más de tres personas, en caso de ser necesario comunicarlo al Organismo;
+
+e) Apartar contenedores;
+
+f) Destruir o romper bolsas de basura para sustraer los residuos para aprovechamiento o reúso;
+
+g) Reciclar durante las jornadas de limpieza y mantenimiento que realice el Organismo o el concesionario;
+
+h) Realizar su actividad en estado de ebriedad o bajo el influjo de cualquier estupefacientes o sustancia psicotrópica u otras sustancias que causen efectos similares;
+
+i) Portar armas, y
+
+j) Trasladar autopartes u objetos sin justificar su procedencia.
 
 > <small>(REFORMADA, P.O. 8 DE ENERO DE 2020)</small>
 
@@ -23341,9 +23407,11 @@ X. En caso del Relleno Sanitario, realizar actividades en las celdas que involuc
 
 DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 1388.
 
-A quien infrinja el presente Capítulo, se le impondrá indistintamente por parte del Titular del Organismo, las siguientes sanciones:
+A quien infrinja el presente Capítulo, se le impondrá por parte del Organismo, las siguientes sanciones:
 
 I. Amonestación;
 
@@ -23355,7 +23423,11 @@ a) Equivalente al valor diario de 1 a 10 unidades de medida y actualización a q
 
 b) Equivalente al valor diario de 1 a 20 unidades de medida y actualización a quien sea sorprendido o se le detecte depositando basura en la vía pública, haciendo montoneras o depositándola fuera de contenedores, hasta por un volumen que no exceda el de una cubeta de 20 litros, si la cantidad es mayor se sancionará proporcionalmente al volumen equivalente en cubetas depositadas.
 
-c) Equivalente al valor diario de 1 a 10 unidades de medida y actualización, a las personas que se les sorprenda efectuando labores de pepena, en la vía pública.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+c) Equivalente al valor diario de 1 a 10 unidades de medida y actualización, a la persona que se les sorprenda efectuando labores de pepena sin autorización en la vía pública o en espacios públicos, o por incurrir en alguna de las conductas establecidas en los incisos a) al g) de la fracción V Bis del artículo 1376.
+
+Además, será causa de retiro definitivo de autorización, chaleco distintivo e identificación, cuando acumule, en un periodo de un año, más de tres reportes por incurrir en alguna de las conductas establecidas en los incisos a) al g) de la fracción V Bis del artículo 1376 o incurra en alguna de las conductas establecidas en los incisos h) al j) de la fracción V Bis del artículo 1376; independientemente de la sanción penal a que se haga acreedora.
 
 d) Equivalente al valor diario de 1 a 30 unidades de medida y actualización, a quienes sean sorprendidos arrojando cadáveres de animales en la vía pública, barrancas o terrenos baldíos.
 
@@ -40086,6 +40158,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 P.O. 23 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 8 DE SEPTIEMBRE DE 2022, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE DESARROLLO ECONÓMICO Y TURISMO, POR EL QUE REFORMA LOS ARTÍCULOS 627 INCISO A) DEL SEGUNDO PÁRRAFO Y PÁRRAFO TERCERO; 628 ACÁPITE Y PÁRRAFOS PRIMERO Y DÉCIMO; ASÍ COMO DEL 955 PÁRRAFO PRIMERO Y ADICIÓN DE UN SEGUNDO PÁRRAFO, DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, ASÍ COMO LA ACTUALIZACIÓN DEL CATÁLOGO DE GIROS COMERCIALES COMPLEMENTARIOS, INDUSTRIALES Y DE SERVICIOS DEL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 5 DE OCTUBRE DE 2022, POR EL QUE APRUEBAN EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE INFRAESTRUCTURA, MOVILIDAD Y SERVICIOS PÚBLICOS DEL HONORABLE AYUNTAMIENTO POR EL QUE SE REFORMAN, Y ADICIONAN DIVERSAS DISPOSICIONES AL CAPÍTULO 19 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
 
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
