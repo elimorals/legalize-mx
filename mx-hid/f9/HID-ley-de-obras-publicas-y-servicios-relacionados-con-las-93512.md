@@ -4,7 +4,7 @@ identifier: "HID-ley-de-obras-publicas-y-servicios-relacionados-con-las-93512"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-25"
-last_updated: "2021-09-13"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -43,7 +43,9 @@ A N T E C E D E N T E S
 
 Por lo que, en mérito de lo expuesto; y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -269,7 +271,9 @@ V.- Participe como subcontratista de una parte o de la totalidad de la obra, sin
 
 VI.- Participe como contratista de una parte o de la totalidad de la obra, en los casos de administración directa o por convenio con Comité Ciudadano de Obra, sin la autorización previa de la Dependencia y Entidad normativa.
 
-La suspensión no podrá ser mayor de tres años, y una vez que fehacientemente se acredite que dejó de existir la causa que haya motivado la suspensión temporal, a petición del interesado, la Contraloría cancelará esta medida.
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VI], P.O. 21 DE OCTUBRE DE 2022)</small>
+
+La suspensión no podrá ser mayor de cinco años, y una vez que fehacientemente se acredite que dejó de existir la causa que haya motivado la suspensión temporal, a petición del interesado, la Contraloría cancelará esta medida.
 
 ###### ARTÍCULO 20.
 
@@ -1021,7 +1025,9 @@ Las Dependencias, Entidades y Municipios, deberán remitir a la Secretaría y a 
 
 La Secretaría y la Contraloría, podrán requerir en cualquier tiempo, la documentación específica relativa a cualquier obra pública o servicio relacionado con la misma.
 
-Para tal efecto, las Dependencias, Entidades y Municipios, conservarán en forma ordenada y sistemática, toda la documentación comprobatoria del gasto en dichas obras o servicios relacionados con las mismas, de acuerdo con las normas, políticas y lineamientos que establezca la Secretaría de Finanzas y Administración, cuando menos por un lapso de cinco años, contados a partir de la fecha de su recepción.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Para tal efecto, las Dependencias, Entidades y Municipios, conservarán en forma ordenada y sistemática, toda la documentación comprobatoria del gasto en dichas obras o servicios relacionados con las mismas, de acuerdo con las normas, políticas y lineamientos que establezca la Secretaría de Finanzas Públicas, cuando menos por un lapso de ocho años, contados a partir de la fecha de su recepción.
 
 ###### ARTÍCULO 84.
 
@@ -1033,9 +1039,11 @@ La Contraloría en cualquier tiempo, podrá realizar las visitas e inspecciones 
 
 Las Dependencias, Entidades y Municipios, controlarán todas las fases de la obra pública y de los servicios relacionados con las mismas a su cargo. Para este efecto, establecerán las normas y procedimientos de supervisión y control que se requieran en consulta con la Secretaría y la Contraloría, de conformidad con los lineamientos que dicte el Poder Ejecutivo a través de sus Dependencias según corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 86.
 
-La Secretaría y la Contraloría en el ejercicio de sus facultades, podrán verificar en cualquier tiempo y hasta por cinco años posteriores a su finiquito, que las obras y los servicios relacionados con las mismas, se realicen conforme a lo establecido en esta Ley y demás disposiciones administrativas que de ella emanan, así como a lo pactado en los contratos respectivos.
+La Secretaría y la Contraloría en el ejercicio de sus facultades, podrán verificar en cualquier tiempo y hasta por ocho años posteriores a su finiquito, que las obras y los servicios relacionados con las mismas, se realicen conforme a lo establecido en esta Ley y demás disposiciones administrativas que de ella emanan, así como a lo pactado en los contratos respectivos.
 
 El resultado de las verificaciones se hará constar en dictamen que será firmado por quien haya hecho la verificación, así como por el contratista y el representante de la Dependencia, Entidad y Municipio respectivo, si hubieren intervenido. La falta de firma del contratista, no invalidará dicho dictamen.
 
@@ -1059,9 +1067,11 @@ La Secretaría y la Contraloría, en el ejercicio de las atribuciones que les ot
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 90.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base en ella se dicten, serán sancionados con multa equivalente a la cantidad de cincuenta a quinientas veces el salario mínimo elevado al mes vigente en el Estado de Hidalgo a la fecha de la infracción, independientemente de que sean responsables de los daños y perjuicios originados, los cuales serán determinados por la Contraloría del Estado.
+Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base en ella se dicten, serán sancionados con multa equivalente a la cantidad de cien a mil veces la Unidad de Medida y Actualización Vigente, independientemente de que sean responsables de los daños y perjuicios originados, los cuales serán determinados por la Contraloría del Estado.
 
 Sin perjuicio de lo anterior, los contratistas que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados con la suspensión o cancelación del registro en el padrón correspondiente, en términos del Título Segundo, Capítulo Único de este ordenamiento.
 
@@ -1282,3 +1292,9 @@ TERCERO. La Contraloría instrumentará acciones con el objeto de ampliar la cob
 CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin en el ejercicio fiscal 2022.
 
 QUINTO.- Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 254 QUE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 19; EL PÁRRAFO TERCERO DEL ARTICULO 83; EL PÁRRAFO PRIMERO DEL ARTÍCULO 86; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 90; TODOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
