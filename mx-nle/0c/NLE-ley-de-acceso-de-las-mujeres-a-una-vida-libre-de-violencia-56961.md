@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2022-10-14"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -310,6 +310,16 @@ La violencia institucional son los actos u omisiones de las y los servidores pú
 El hostigamiento sexual es el ejercicio abusivo del poder en la relación de subordinación real de la víctima frente al agresor, en los ámbitos laboral, escolar o cualquier otro; se manifiesta en conductas verbales o físicas o ambas, relacionadas con la sexualidad, de connotación lasciva.
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva de hecho a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 14 Bis.
+
+Son formas de acoso sexual: el acoso expresivo, verbal, físico, las persecuciones y el exhibicionismo con connotación lasciva sexual.
+
+El Estado garantizará:
+
+I. La prevención a través de programas para modificar los patrones socioculturales de conducta, de hombres y mujeres, incluyendo el diseño de programas de educación formales y no formales apropiados a todo nivel del proceso educativo que contrarresten prejuicios, costumbres y todo (sic) otro tipo de prácticas que se basen en la premisa de la inferioridad o superioridad de cualquiera de los géneros o en los papeles estereotipados para el hombre y la mujer que legitiman o exacerban la violencia sexual contra la mujer.
 
 ### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN, ATENCIÓN Y SANCIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -1219,11 +1229,17 @@ XII. Elaborar y aplicar el protocolo Alba y demás protocolos especializados con
 
 XIII. Garantizar que los protocolos Alba, Amber y demás que tengan como objetivo la búsqueda de personas desaparecidas, se realicen cumpliendo con los ejes rectores de debida diligencia, derecho de prioridad de menores de edad, interés superior de la niñez, igualdad y no discriminación, detección de factores de vulnerabilidad, presunción de riesgo, no estigmatización, vida, supervivencia y desarrollo y enfoque de género.
 
-Notificar al Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León cuando se detecten a menores cuyo padre, madre o persona cuidadora es víctima de desaparición con la finalidad de mitigar las consecuencias de ser víctima indirecta de este delito; y
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2022)</small>
+Notificar al Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León cuando se detecten a menores cuyo padre, madre o persona cuidadora es víctima de desaparición con la finalidad de mitigar las consecuencias de ser víctima indirecta de este delito;
 
-XIV. Las demás previstas para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XIV. La implementación efectiva de un sistema de denuncia ante el acoso sexual y la facilitación de los protocolos correspondientes, así como la capacitación de los servidores públicos para no menospreciar las manifestaciones y no re victimizar a las denunciantes.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XV. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 37.
 
@@ -2050,3 +2066,9 @@ P.O. 14 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Los Municipios del Estado, cuentan con un lapso de 120 días a partir de su publicación para adecuar las presentes reformas en sus reglamentos respectivos, o en su caso, efectuar el cumplimiento de las acciones correspondientes.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 244. SE REFORMA LA FRACCIÓN XIII Y XIV DEL ARTÍCULO 36; SE ADICIONA UN ARTÍCULO 14 BIS; Y UNA FRACCIÓN XV AL ARTÍCULO 36; TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
