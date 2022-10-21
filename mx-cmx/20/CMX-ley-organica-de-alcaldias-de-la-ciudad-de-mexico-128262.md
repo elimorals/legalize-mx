@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2022-09-30"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -627,6 +627,10 @@ VII. Ejecutar dentro de su demarcación territorial los programas de obras públ
 Para coadyuvar en el cumplimiento de los criterios técnicos del organismo público competente para el abasto de agua, se constituirá un Consejo Hídrico en la demarcación, integrado por las personas titulares de la Alcaldía, quien lo presidirá, además de las unidades de Servicios Urbanos, Obras y Desarrollo Urbano y de Gestión Integral de Riesgos y Protección Civil;
 
 VIII. Prestar el servicio de tratamiento de residuos sólidos en la demarcación territorial en los términos de la legislación aplicable;
+
+> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+
+VIII Bis. Colocar conforme a las necesidades de la demarcación territorial, contenedores diferenciados para depositar las heces de animales de compañía y mascotas, en parques y jardines, a efecto de ser tratadas y manejadas de manera adecuada;
 
 IX. Formular y presentar ante el Gobierno de la Ciudad las propuestas de programas de ordenamiento territorial de la demarcación con base en el procedimiento que establece la Constitución Local y la ley en la materia;
 
@@ -2459,6 +2463,14 @@ TERCERO. La presente reforma no surtirá efectos retroactivos.
 G.O. 30 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN V, DEL ARTÍCULO 42, DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII BIS AL ARTÍCULO 42 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 3º; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 34, AMBOS DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
 
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
