@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-125677"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-29"
-last_updated: "2021-11-03"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en la Décima Quinta Sección al Número 20 del Periódico Oficial de Puebla, el viernes 29 de diciembre de 2017.
 
@@ -85,7 +85,9 @@ III. Área urbanizada: El territorio ocupado por los asentamientos humanos con r
 
 IV. Asentamiento humano: El establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
 
-V. Asentamiento humano irregular: El núcleo de población ubicado en áreas o predios fraccionados o subdivididos sin la autorización correspondiente, cualquier (sic) que sea su régimen de propiedad o se ubique en zonas de restricción, riesgos o de amortiguamiento;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+V. Asentamiento humano irregular: Conglomerado de personas establecido sin autorización, en un área física y/o geográficamente localizada de restricción natural o artificial, riesgos o de amortiguamiento, cualquiera que sea su régimen de propiedad; al margen de leyes, planes y programas de desarrollo urbano y ordenamiento ecológico; carente de los requerimientos mínimos de infraestructura, equipamiento y servicios básicos para su buen funcionamiento;
 
 VI. Barrio: La zona de un centro de población dotado de identidad y características propias;
 
@@ -199,7 +201,9 @@ VII. Productividad y eficiencia. Fortalecer la productividad y eficiencia de las
 
 VIII. Protección y progresividad del espacio público. Crear condiciones de habitabilidad de los espacios públicos, como elementos fundamentales para el derecho a una vida sana, la convivencia, recreación y seguridad ciudadana que considere las necesidades diferenciadas por personas y grupos. Se fomentará el rescate, la creación y el mantenimiento de los espacios públicos que podrán ampliarse, o mejorarse, pero nunca destruirse o verse disminuidos. En caso de utilidad pública, estos espacios deberán ser sustituidos por otros que generen beneficios equivalentes;
 
-IX. Resiliencia, seguridad urbana y riesgos. Propiciar y fortalecer todas las instituciones y medidas de prevención, mitigación, atención, adaptación y resiliencia que tengan por objetivo proteger a las personas y su patrimonio, frente a los riesgos naturales y antropogénicos; así como evitar la ocupación de zonas de alto riesgo, y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+IX. Resiliencia, seguridad urbana y gestión integral de riesgos. Propiciar y fortalecer todas las instituciones y medidas de prevención, mitigación, atención, adaptación y resiliencia que tengan por objetivo proteger a las personas y su patrimonio, frente a los riesgos naturales y antropogénicos; así como evitar la ocupación de las zonas de alto riesgo; y
 
 X. Sustentabilidad ambiental. Promover prioritariamente, el uso racional del agua y de los recursos naturales renovables y no renovables, para evitar comprometer la capacidad de futuras generaciones; así como, evitar rebasar la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques.
 
@@ -381,9 +385,11 @@ Cuando por razón de la materia y de conformidad con la Ley Orgánica de la Admi
 
 Las entidades estatales y municipales cuyas atribuciones se relacionen con el ordenamiento territorial y el desarrollo urbano, se considerarán órganos auxiliares y deberán observar en su ejercicio, las disposiciones de esta Ley y los ordenamientos que de la misma se deriven.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 16.
 
-Corresponde a los municipios:
+Corresponde a los Ayuntamientos:
 
 I. Formular, aprobar, administrar, ejecutar y actualizar sus planes o programas de desarrollo urbano, de centros de población y los demás que de éstos deriven, adoptando normas o criterios de congruencia, coordinación y ajuste con otros niveles superiores de planeación, las Normas Oficiales Mexicanas, así como evaluar y vigilar su cumplimiento;
 
@@ -423,7 +429,11 @@ XVI. Prestar los servicios públicos municipales, atendiendo a lo previsto en la
 
 XVII. Coordinar sus acciones y, en su caso, celebrar convenios para asociarse con el Estado y con otros municipios o con los particulares, para la prestación de servicios públicos municipales, de acuerdo con lo previsto en la legislación aplicable;
 
-XVIII. Expedir las autorizaciones, licencias, constancias de uso del suelo y permisos de las diversas acciones urbanísticas para construcciones, fraccionamientos, subdivisiones, segregaciones, fusiones, relotificaciones y condominios, de conformidad con lo dispuesto en esta Ley, su reglamento, planes y programas de desarrollo urbano, sus correspondientes reservas, usos del suelo y destinos de áreas y predios, y demás disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XVIII. Expedir las autorizaciones, licencias, constancias de uso del suelo y permisos de las diversas acciones urbanísticas para construcciones, fraccionamientos, subdivisiones, segregaciones, fusiones, relotificaciones y condominios, de conformidad con lo dispuesto en esta Ley, su reglamento, planes y programas de desarrollo urbano, sus correspondientes reservas, usos del suelo y destinos de áreas y predios, y demás disposiciones jurídicas aplicables.
+
+Asimismo, en coordinación con las autoridades competentes, deberá observar el cumplimiento de las normas federales y estatales referentes a los derechos de vía de infraestructura energética, comunicaciones y zonas federales, así como la normatividad de las zonas de riesgo donde exista la probabilidad de que se produzca un daño.
 
 XIX. Validar ante la autoridad competente del Estado, sobre la apropiada congruencia, coordinación y ajuste de sus planes y programas municipales en materia de desarrollo urbano, lo anterior en los términos previstos en el artículo 115, fracción V de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -665,6 +675,10 @@ El Estado podrá convenir con la federación los mecanismos de planeación de la
 
 Los instrumentos de planeación referidos, deberán guardar congruencia entre sí, sujetándose al orden jerárquico que establece su ámbito territorial, y contando con los dictámenes de validación y congruencia que para ese fin serán solicitados y emitidos por los diferentes órdenes de gobierno, para su aplicación y cumplimiento.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Los planes, programas estatales, municipales, regionales, subregionales, de zonas metropolitanas o conurbaciones, de centros de población, parciales sectoriales o esquemas de planeación simplificada y de centros de servicios rurales en materia de ordenamiento territorial y desarrollo urbano, así como dictámenes, licencias, permisos e impactos ambientales, en materia de desarrollo urbano y ordenamiento territorial que determine la Ley General y la presente Ley; deberán observar los derechos de vía de infraestructura energética, comunicaciones y zonas federales, así como la normatividad de las zonas de riesgo donde exista la probabilidad de que se produzca un daño.
+
 ### CAPÍTULO SEGUNDO. DE LOS PLANES Y PROGRAMAS ESTATALES DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO
 
 ###### ARTÍCULO 32.
@@ -681,9 +695,17 @@ La Secretaría, al formular los programas estatales de ordenamiento territorial 
 
 I. Los lineamientos generales de articulación y congruencia con la estrategia nacional de ordenamiento territorial;
 
-II. El análisis y congruencia territorial con el programa nacional de ordenamiento territorial y desarrollo urbano, los programas de ordenamiento ecológico, de prevención de riesgos y de otros programas sectoriales que incidan en su ámbito territorial estatal, y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-III. El marco general de leyes, reglamentos, normas y los planes de ámbitos territoriales más amplios o que se inscriben en el plan o programa en formulación, así como los lineamientos y disposiciones aplicables a la materia.
+II. El análisis y congruencia territorial con el programa nacional de ordenamiento territorial y desarrollo urbano, los programas de ordenamiento ecológico, de prevención de riesgos y de otros programas sectoriales que incidan en su ámbito territorial estatal;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+III. El marco general de leyes, reglamentos, normas y los planes de ámbitos territoriales más amplios o que se inscriben en el plan o programa en formulación, así como los lineamientos y disposiciones aplicables a la materia; y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+IV. Los derechos de vía de infraestructura energética, comunicaciones y zonas federales, así como las zonas de riesgo donde exista la probabilidad de que se produzca un daño.
 
 ###### ARTÍCULO 34.
 
@@ -1133,9 +1155,17 @@ XII. Sanidad, se procurará prioritariamente la preservación de la salud de los
 
 XIII. Adaptabilidad, para que los proyectos de desarrollo urbano fácilmente se adecuen a materiales, procedimientos y tecnologías, permitiendo su inserción en la dinámica urbano-ambiental;
 
-XIV. Jerarquización, se deberán priorizar los programas y acciones de acuerdo al interés público o colectivo, y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-XV. Protección ecológica, que este acorde a lo que establece la legislación aplicable en la materia.
+XIV. Jerarquización, se deberán priorizar los programas y acciones de acuerdo al interés público o colectivo;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XV. Protección ecológica, que esté acorde a lo que establece la legislación aplicable en la materia; y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XVI. Prevención y gestión integral de riesgo.
 
 ###### ARTÍCULO 58.
 
@@ -1263,7 +1293,9 @@ VIII. La preservación y restauración del equilibrio ecológico, el aprovechami
 
 IX. La gestión integral de residuos sólidos municipales, especialmente los industriales y peligrosos;
 
-X. La prevención, mitigación y resiliencia ante los riesgos y los efectos del cambio climático;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+X. La prevención, mitigación, resiliencia y gestión integral ante los riesgos y los efectos del cambio climático;
 
 XI. La infraestructura y equipamientos de carácter estratégico y de seguridad;
 
@@ -1663,13 +1695,23 @@ Para constituir, ampliar y delimitar la zona de urbanización ejidal y su reserv
 
 La presente Ley y los demás ordenamientos aplicables establecerán estrategias de gestión integral de riesgos, incluyendo acciones de prevención y, en su caso, de reubicación de asentamientos humanos, así como acciones reactivas tales como previsiones financieras y operativas para la recuperación. En general, deberán promover medidas que permitan a las ciudades incrementar su resiliencia.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 110.
 
-Las normas del presente capítulo son obligatorias para todas las personas, físicas y morales, públicas o privadas y tienen por objeto establecer las especificaciones a que estarán sujetos los procesos de ocupación del territorio, tales como aprovechamientos urbanos, edificación de obras de infraestructura, equipamiento urbano y viviendas, en zonas sujetas a riesgos geológicos e hidrometeorológicos, a fin de prevenir riesgos a la población y evitar daños irreversibles en sus personas o sus bienes, así como para mitigar los impactos y costos económicos y sociales en los centros de población.
+Las normas del presente capítulo son obligatorias para todas las personas, físicas y morales, públicas o privadas y tienen por objeto establecer las especificaciones a que estarán sujetos los procesos de ocupación del territorio, tales como aprovechamientos urbanos, edificación de obras de infraestructura, equipamiento urbano y viviendas, en zonas sujetas a riesgos naturales y antropogénicos, a fin de prevenir riesgos a la población y evitar daños irreversibles en sus personas o sus bienes, así como para mitigar los impactos y costos económicos y sociales en los centros de población.
 
 ###### ARTÍCULO 111.
 
 Tratándose de acciones, proyectos u obras que se encuentren ubicados en zonas de alto riesgo conforme a los planes o programas de desarrollo urbano y ordenamiento territorial aplicables, las autoridades estatales y municipales, antes de otorgar licencias relativas a usos del suelo y edificaciones, construcciones, así como factibilidades y demás autorizaciones urbanísticas, deberán solicitar un estudio de prevención de riesgo que identifique que se realizaron las medidas de mitigación adecuadas, en los términos de las disposiciones de la Ley General, la Ley General de Protección Civil, la Ley del Sistema Estatal de Protección Civil, las Normas Oficiales Mexicanas y los reglamentos municipales que se expidan.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Están prohibidos los asentamientos humanos de cualquier índole, en los derechos de vía de infraestructura energética, comunicaciones y zonas federales, así como en las zonas de riesgo donde exista la probabilidad de que se produzca un daño.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Ninguna autoridad podrá otorgar licencias, factibilidades, permisos o cualquier otra autorización relativa a la fundación y/o creación de asentamientos humanos en los derechos de vía de infraestructura energética, comunicaciones e hidráulica, así como en las zonas de riesgo correspondientes a ríos y barrancas.
 
 ###### ARTÍCULO 112.
 
@@ -1955,9 +1997,17 @@ Las políticas públicas que se aplicarán según corresponda a áreas de ordena
 
 I. De impulso, que se aplicarán a los centros de población seleccionados, por presentar condiciones favorables para incidir o reforzar un proceso de desarrollo, así como de rápido crecimiento demográfico y que presuponen una importante concentración de recursos;
 
-II. De consolidación, para la aplicación a los centros de población que solo requieren del ordenamiento de su estructura básica y que, sin afectar su dinámica actual, procuran evitar los efectos negativos de la desordenada concentración urbana, y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-III. De control, para disminuir o desalentar el ritmo de crecimiento de los asentamientos humanos, en los cuales la concentración provoca problemas de ineficiencia económica y social, así como de limitaciones en las disponibilidades de suelo apto al desarrollo urbano, de agua, red vial e infraestructura.
+II. De consolidación, para la aplicación a los centros de población que solo requieren del ordenamiento de su estructura básica y que, sin afectar su dinámica actual, procuran evitar los efectos negativos de la desordenada concentración urbana;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+III. De control, para disminuir o desalentar el ritmo de crecimiento de los asentamientos humanos, en los cuales la concentración provoca problemas de ineficiencia económica y social, así como de limitaciones en las disponibilidades de suelo apto al desarrollo urbano, de agua, red vial e infraestructura; y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+IV. De prevención y protección, para evitar pérdidas humanas, materiales y económicas a causa de fenómenos naturales y antropogénicos.
 
 El límite de crecimiento urbano se hará constar en los planes y programas de desarrollo urbano.
 
@@ -2599,9 +2649,11 @@ La autoridad estatal y las municipales tendrán la obligación de resguardar los
 
 La Secretaría y las autoridades municipales en el ámbito de su competencia, podrán realizar actos de inspección y vigilancia en cumplimiento de las disposiciones contenidas en esta Ley y su Reglamento, a través del personal debidamente autorizado para ello.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 214.
 
-Cuando se estén llevando a cabo construcciones, fraccionamientos, condominios, cambios de uso del suelo u otros aprovechamientos de inmuebles que violen la Ley, reglamentos, planes o programas contemplados en esta Ley y originen un deterioro en la calidad de vida de los asentamientos humanos, en forma oficiosa, la autoridad competente o los residentes del área que resulten directamente afectados tendrán derecho a exigir que se lleven a cabo las suspensiones, demoliciones o modificaciones que sean necesarias para cumplir con los citados ordenamientos.
+Se considerarán como asentamientos humanos irregulares aquellos que, durante el desarrollo de construcciones, fraccionamientos, condominios, cambios de uso del suelo u otros aprovechamientos de inmuebles, violen la Ley, reglamentos, planes o programas contemplados en esta Ley y originen un deterioro en la calidad de vida de las personas. En estos casos, de manera oficiosa, el Ayuntamiento tendrá la obligación de dar aviso a la autoridad competente para denunciar el asentamiento humano irregular y, en su caso, determinar las acciones correspondientes. Asimismo, los residentes del área que resulten directamente afectados tendrán derecho a exigir que se lleven a cabo las suspensiones, demoliciones o modificaciones que sean necesarias para cumplir con los citados ordenamientos.
 
 ###### ARTÍCULO 215.
 
@@ -2940,6 +2992,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XLI Y XLII DEL ARTÍCULO 16 Y SE ADICIONA LA FRACCIÓN XLIII AL ARTÍCULO 16 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO; POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA, LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
