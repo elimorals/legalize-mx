@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2022-06-27"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -89,11 +89,11 @@ IV.- Los Bandos y Reglamentos que cada Municipio expida de acuerdo a sus condici
 
 Dentro de las disposiciones contenidas en este ordenamiento se consideran bases generales los siguientes artículos: 1 a 27, 29 a 48, 50 a 54, 56 fracción I, 57 a 60 fracción I, 61 a 79, 93 a 102, 104 a 110, 112 a 115, 119 a 121, 138 a 145 y 146 a 194.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 5.
 
-A falta de reglamentos en los municipios, son supletorios los siguientes artículos: 28, 49, 55, 56 fracción II, 60 fracción II, 80 a 92, 103, 108, 111, 116 a 118; 122 a 137, 145 BIS, 145 TER, 145 SEPTIMUS, 145 OCTAVUS y 145 NOVENUS.
+A falta de reglamentos en los municipios, son supletorios los siguientes artículos: 28, 49, 49 Bis, 55, 56 fracción II, 60 fracción II, 80 a 92, 103, 108, 111, 116 a 118; 122 a 137, 145 BIS, 145 TER, 145 SEPTIMUS, 145 OCTAVUS y 145 NOVENUS.
 
 ###### ARTÍCULO 6.
 
@@ -703,9 +703,17 @@ Los Ayuntamientos, en caso de emergencia nacional o estatal de carácter sanitar
 
 En las reuniones a distancia, se podrá hacer uso de la firma electrónica para firmar los acuerdos.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ARTÍCULO 49 BIS.- Quienes integran los ayuntamientos, tienen la obligación de asistir con toda puntualidad a las sesiones que celebre el Ayuntamiento cuando hayan sido convocados previamente para tal efecto, salvo causa justificada la cual, comunicarán oportunamente a quien presida la titularidad de la Presidencia Municipal.
+
+La persona titular de la presidencia del ayuntamiento convocará por escrito a las sesiones del órgano de gobierno, debiendo ajuntar los documentos que sirvan de soporte a los asuntos que se abordarán en la sesión.
+
+Por regla general, las convocatorias deben entregarse a quienes están dirigidas, sin embargo, cuanto esto no sea posible, podrán hacerse a través de los medios físicos o electrónicos que cada integrante del ayuntamiento haya proporcionado y/o autorizado previamente.
+
+Cuando el destinatario o la destinataria de la convocatoria, se niegue a recibirla o firmarla, se asentará en ese documento la constancia respectiva y se procederá conforme al párrafo anterior, estableciendo el motivo por el cual no se pudo convocar por escrito y se dará vista al órgano interno de control.
+
+Las convocatorias a que se refiere este artículo, también deben publicarse en los medios de difusión oficiales del municipio.
 
 ###### ARTÍCULO 50.
 
@@ -1137,9 +1145,9 @@ f).- Autorizar a la Tesorería Municipal, las órdenes de pago, conforme al Pres
 
 g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la participación de representantes de los sectores público, social y privado, y de profesionistas y técnicos que residan dentro de su territorio; así como el Comité de Desarrollo Urbano Municipal, en los términos del Reglamento respectivo;
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-h) Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano que contenga los Planes de Desarrollo Rural para los Pueblos y Comunidades Indígenas en caso de contar con población indígena reconocida, congruentes con el Plan Estatal;
+h) Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano que contenga los Planes de Desarrollo Rural para los Pueblos y Comunidades Indígenas en caso de contar con población indígena reconocida así como, el que corresponda al desarrollo agropecuario municipal;
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -3121,17 +3129,61 @@ X. Coordinar sus acciones con las dependencias u organismos federales o estatale
 
 ARTÍCULO 145 QUARTUSDÉCIMUS.- Las dependencias y organismos de la administración pública municipal, dentro del ámbito de su competencia, podrán colaborar con la Instancia Municipal para la Prevención de las Adicciones en el diseño, planeación, ejecución y evaluación de los programas, proyectos o acciones, derivadas del ejercicio de las atribuciones legalmente conferidas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO DÉCIMO SEXIES. DEL CONSEJO CONSULTIVO MUNICIPAL DE TURISMO SUSTENTABLE
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 145 QUINDECIES. Los municipios deben establecer el Consejo Consultivo Municipal de Turismo Sustentable.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 145 SEXDECIES. El Consejo Consultivo Municipal de Turismo Sustentable se integrará de la siguiente manera.
+
+I. Será presidido por el presidente o la presidenta del Ayuntamiento y, en sus ausencias por la persona titular de la Secretaría General Municipal;
+
+II. Un secretario técnico que será la persona titular de la entidad o dependencia de Turismo Municipal u órgano administrativo designado;
+
+III. El regidor o la regidora que presida la Comisión de Turismo del Ayuntamiento;
+
+IV. Un representante de la Secretaría de Turismo del Estado de Hidalgo;
+
+V. Representantes de dependencias federales, estatales y municipales;
+
+VI. La presidenta o el presidente del Comité Ciudadano de Pueblo Mágico o del Comité de Pueblo con Sabor, cuando el municipio cuente con dicho nombramiento o distintivo, y
+
+VII. Representantes de los sectores privado, social y académico vinculados al turismo.
+
+Los integrantes referidos en las fracciones IV, V, VI y VII participarán únicamente con derecho a voz y serán invitados por la presidencia del Consejo.
+
+Quienes integren el Consejo Consultivo Municipal de Turismo Sustentable no percibirán remuneración o retribución alguna por las actividades que desarrollen en este.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 145 SEPTDECIES. El Consejo Consultivo Municipal de Turismo Sustentable, además de las atribuciones establecidas en la fracción V del artículo 10 de la Ley General de Turismo, tendrá las siguientes:
+
+I. Asesorar a la presidenta o el presidente del Ayuntamiento en materia de turismo;
+
+II. Apoyar en la integración del Programa Municipal de Turismo;
+
+III. Apoyar en la integración de información turística municipal;
+
+IV. Apoyar la ejecución de la política pública municipal en materia turística, así como dar seguimiento a la misma;
+
+V. Opinar sobre el desarrollo y ejecución de la política pública municipal en materia turística, así como participar en su evaluación; y
+
+VI. Proponer la creación, promoción, mantenimiento y mejora de los recursos turísticos municipales.
+
 ### CAPÍTULO PRIMERO. DE LA MUNICIPALIZACIÓN
 
 ### CAPÍTULO SEGUNDO. DE LAS CONCESIONES DE LOS SERVICIOS PÚBLICOS MUNICIPALES
 
+## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
+
 ### CAPÍTULO PRIMERO. DE LA CONCILIACIÓN MUNICIPAL
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
-
-## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
-
-### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 146.
 
@@ -3161,7 +3213,7 @@ Seguido el trámite que señala el artículo precedente, el Ayuntamiento, con la
 
 En caso de que se apruebe la municipalización del servicio y el Municipio carezca de recursos para prestarlo, podrá nuevamente otorgarlo en concesión en términos de esta Ley.
 
-### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 152.
 
@@ -3269,7 +3321,7 @@ IV.- Que las instalaciones y equipo se encuentren en condiciones para la prestac
 
 ## TÍTULO OCTAVO. DE LA JUSTICIA COTIDIANA
 
-### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
+### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTÍCULO 160.
 
@@ -3365,7 +3417,7 @@ IV.- Ordenar la detención que sea competencia de otras autoridades; y
 
 V.- No podrán aplicar procedimientos de conciliación en casos de violencia familiar o sexual, en estos casos tienen la obligación de canalizar a las victimas ante las instancias o dependencias correspondientes.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
 
 ###### ARTÍCULO 164.
 
@@ -3405,7 +3457,7 @@ III.- Otras que tiendan a proteger los bienes y la seguridad pública en los cas
 
 Si las circunstancias así lo ameritan, podrán imponerse al infractor simultáneamente las sanciones y medidas de seguridad que establezcan las Leyes, sin perjuicio de la responsabilidad civil o penal en que incurriere.
 
-### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 168.
 
@@ -3541,7 +3593,7 @@ La autoridad recurrida o el Ayuntamiento, deberán tomar en cuenta para su resol
 
 Con relación a los recursos administrativos, tanto la autoridad Municipal como el Ayuntamiento comunicarán en tiempo y forma su resolución al promovente.
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
+### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
 
 ###### ARTÍCULO 184.
 
@@ -3566,6 +3618,8 @@ Si en la comisión de un hecho delictuoso, se agravia al Ayuntamiento, la denunc
 Tratándose de delitos o faltas oficiales en que hayan incurrido los miembros y funcionarios del Ayuntamiento, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones vigentes.
 
 ## TÍTULO NOVENO. LEGISLACIÓN MUNICIPAL
+
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
 
 ###### ARTÍCULO 189.
 
@@ -3984,5 +4038,23 @@ P.O. 27 DE JUNIO DE 2022.
 P.O. 27 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 213 POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 48 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 233 QUE REFORMA LOS ARTÍCULOS 5 Y 49 BIS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 238 QUE REFORMA EL INCISO H), DE LA FRACCIÓN I, DEL ARTÍCULO 60, DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 244 ADICIONA EL CAPÍTULO DÉCIMO SEXIES, DENOMINADO, DEL CONSEJO CONSULTIVO MUNICIPAL DE TURISMO SUSTENTABLE, E INTEGRADO POR LOS ARTÍCULOS 145 QUINDECIES, 145 SEXDECIES Y 145 SEPTDECIES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
