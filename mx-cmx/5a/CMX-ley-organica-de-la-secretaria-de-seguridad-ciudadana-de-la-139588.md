@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-secretaria-de-seguridad-ciudadana-de-la-1395
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-23"
-last_updated: "2021-09-02"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139588&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-23"
 
 LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 247 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 23 de diciembre de 2019.
 
@@ -320,11 +320,13 @@ V. Sujetarse y aprobar las evaluaciones correspondientes.
 
 ### CAPÍTULO VII. DE LA UNIVERSIDAD DE LA POLICÍA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE OCTUBRE DE 2022)</small>
+
 ### CAPÍTULO VIII. DE LAS SUPLENCIAS
 
 ###### Artículo 15.
 
-La Universidad de la Policía es la institución de enseñanza superior que tiene como objetivo primordial formar especialistas y profesionales en materia de seguridad ciudadana y justicia penal, así como de aplicar el Programa Rector y el de Profesionalización, mediante un enfoque preventivo y el uso de nuevas tecnologías de información y comunicación, para el análisis y atención eficaz y pertinente de las problemáticas de seguridad en la Ciudad, con la finalidad de otorgar el derecho a la educación para la mejora de las capacidades de los cuerpos policiales.
+La Universidad de la Policía es la institución de enseñanza superior que tiene como objetivo primordial formar especialistas y profesionales en materia de seguridad ciudadana y justicia penal, así como de aplicar el Programa Rector y el de Profesionalización, mediante un enfoque preventivo y apegado a la perspectiva de género, derechos humanos, grupos de atención prioritaria y el combate a la corrupción; así como al uso de nuevas tecnologías de información y comunicación, para el análisis y atención eficaz y pertinente de las problemáticas de seguridad en la Ciudad, con la finalidad de otorgar el derecho a la educación para la mejora de las capacidades de los cuerpos policiales.
 
 Todos los integrantes de los cuerpos de la Policía de Proximidad y servidores públicos de la Secretaría tendrán derecho de acceder a los programas educativos que ofrezca la Universidad.
 
@@ -777,3 +779,11 @@ DÉCIMO SEGUNDO. La Secretaría de Seguridad Ciudadana deberá establecer las ba
 Los procesos de formación, actualización y especialización de las personas integrantes del Sistema Penitenciario se alinearán al Programa de Profesionalización y al Programa Rector de Profesionalización de la Universidad de la Policía de la Ciudad de México.
 
 El Instituto de Capacitación Penitenciaria continuará en funciones hasta en tanto se implemente el Servicio Profesional de Carrera de las personas integrantes del Sistema Penitenciario.
+
+G.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 59 FRACCIÓN IV; EL ARTÍCULO 126 PÁRRAFO PRIMERO Y SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 60; TODOS DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 15 DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
