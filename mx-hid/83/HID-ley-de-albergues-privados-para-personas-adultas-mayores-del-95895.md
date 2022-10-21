@@ -4,7 +4,7 @@ identifier: "HID-ley-de-albergues-privados-para-personas-adultas-mayores-del-958
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2022-03-28"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley Publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -131,7 +131,9 @@ III. Promover ante las instancias correspondientes, eventos culturales que propi
 
 IV. Fomentar entre la población una cultura de la vejez, de respeto, de aprecio y reconocimiento a la capacidad de aportación de las Personas Adultas Mayores; y
 
-V. Contar con un padrón de registro de albergues privados.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+V. Contar con un Registro Estatal de Albergues Privados.
 
 ###### Artículo 7.
 
@@ -401,6 +403,52 @@ Para los efectos de esta Ley deberá hacerse del conocimiento del DIF y del Inst
 
 El incumplimiento a la disposición contenida en el artículo anterior será sancionado administrativamente por la Secretaría de Salud y por el Instituto, conforme a sus atribuciones, y por las autoridades locales, según lo previsto en las leyes estatales correspondientes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO X. DEL REGISTRO ESTATAL DE ALBERGUES
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 56.
+
+Para efectos de esta Ley se entenderá como Registro Estatal de Albergues Privados, al padrón o base de datos de las personas adultas mayores que han sido inscritas o beneficiadas con los servicios que presten los albergues privados en el Estado, conforme a lo establecido en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 57.
+
+Todo albergue privado asentado en el territorio del estado deberá inscribirse en el Registro Estatal de Albergues Privados.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 58.
+
+El Registro Estatal de Albergues Privados deberá contener por lo menos, los datos siguientes:
+
+I. Nombre o razón social del albergue privado;
+
+II. Domicilio del albergue privado;
+
+III. Censo de los residentes, que contenga género, edad y, en su caso, situación jurídica, y el seguimiento al proceso familiar y social; y
+
+IV. Relación del personal que laboral (sic) en el albergue privado, incluyendo al responsable, titular o administrador, así como su representante legal, especificando la figura jurídica bajo la cual operan.
+
+El responsable titular o administrador deberá tratar los datos personales en su posesión con stricto apego y cumplimiento con lo establecido en la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 59.
+
+La pérdida de la inscripción en el Registro Estatal de Albergues procederá en los siguientes casos:
+
+I. Cuando habiendo transcurrido más de seis meses de revocada la Autorización Sanitaria, persistan en el albergue las causas que dieron origen a la revocación;
+
+II. Cuando a juicio de la autoridad existan causas graves que pongan en peligro la vida o la integridad física y psicológica de los residentes; y
+
+III. Por petición expresa del responsable, titular o administrador del albergue privado.
+
+IV. La pérdida del registro producirá la revocación de las diversas autorizaciones y licencia de funcionamiento.
+
 ## TRANSITORIOS
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
@@ -438,3 +486,9 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 35 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO Y, REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 17 Y ADICIONA UNA SEGUNDA FRACCIÓN AL ARTÍCULO 29 DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES".]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DE “DECRETO NÚMERO 234 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 6 Y SE ADICIONA EL CAPÍTULO X DENOMINADO DEL REGISTRO ESTATAL DE ALBERGUES, QUE COMPRENDE LOS ARTÍCULOS 56, 57, 58 Y 59 DE LA LEY DE ALBERGUES PRIVADOS PARA PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
