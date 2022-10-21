@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-y-municipios-7653
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2020-11-26"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -251,7 +251,13 @@ XI. La realización de investigaciones y estudios sobre las causas y efectos de 
 
 XII. La promoción de la integración, desarrollo y mejoramiento de la familia con carencias mediante su participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
 
-XIII. El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas;
+> <small>(REFORMADA, G.G. 21 DE OCTUBRE DE 2022)</small>
+
+XIII. El apoyo a la educación y capacitación para el trabajo de personas con carencias socioeconómicas, con atención especial para las y los adolescentes que, por mayoría de edad, egresen de Centros de Asistencia Social, a fin de garantizar su integración a la sociedad económicamente activa e independiente;
+
+> <small>(ADICIONADA, G.G. 21 DE OCTUBRE DE 2022)</small>
+
+XIII Bis. Celebrar los convenios de colaboración entre las autoridades competentes y las dependencias de la administración pública estatal, que permitan garantizar la integración gradual a la sociedad económicamente activa e independiente para aquellos que egresen de los centros de asistencia social, por haber cumplido la mayoría de edad;
 
 XIV. La prestación de servicios funerarios; y
 
@@ -273,7 +279,9 @@ I. Formular, dirigir e implementar las estrategias, programas y acciones, que en
 
 II. Promover y regular el diseño, establecimiento y ejecución de programas, acciones y servicios de asistencia social que se establecen en esta Ley y otros ordenamientos de la materia;
 
-III. Garantizar la concurrencia y coordinación de los gobiernos federal, estatal y municipal, así como de los sectores social y privado para facilitar el acceso de los beneficiarios de esta Ley a los programas, acciones y servicios de asistencia social;
+> <small>(REFORMADA, G.G. 21 DE OCTUBRE DE 2022)</small>
+
+III. Garantizar la concurrencia y coordinación de los gobiernos federal, estatal y municipal, con la Legislatura del Estado, así como de los sectores social y privado para analizar la asignación de recursos en el presupuesto de egresos de cada ejercicio fiscal que permitan el acceso de los beneficiarios de esta Ley a los programas, acciones y servicios de asistencia social;
 
 IV. Promover la celebración de convenios de colaboración, concertación y coordinación de acciones entre los gobiernos federal, estatal y municipal, con los sectores social y privado, y organismos nacionales e internacionales, tendientes al cumplimiento de esta Ley;
 
@@ -285,7 +293,9 @@ VII. Promover y fomentar entre sus integrantes la eficaz y transparente aplicaci
 
 VIII. Propiciar y promover las investigaciones y estudios científicos y de campo que favorezcan el desarrollo integral de la familia;
 
-IX. Establecer y llevar a cabo programas interinstitucionales que aseguren la atención integral de los beneficiarios de esta Ley; y
+> <small>(REFORMADA, G.G. 21 DE OCTUBRE DE 2022)</small>
+
+IX. Establecer y llevar a cabo programas interinstitucionales que aseguren la atención integral de los beneficiarios de esta Ley, y el seguimiento de las y de los adolescentes que egresen de los centros de asistencia social en virtud de hacer (sic) cumplido la mayoría de edad, y
 
 X. Las demás inherentes a la asistencia social.
 
@@ -852,3 +862,11 @@ TERCERO.- La Legislatura Estatal deberá contemplar en el presupuesto de egresos
 CUARTO.- La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México capacitará y determinará los protocolos de actuación necesarios para la atención de la niñez en situación de calle.
 
 QUINTO.- Los Municipios del Estado de México contarán con un periodo no mayor a 90 días naturales, a partir de la entrada en vigor del presente Decreto, para la instalación del Comité Municipal de Erradicación del Trabajo Infantil.
+
+G.G. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 101.- POR EL QUE SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 10, LAS FRACCIONES III Y IX DEL ARTÍCULO 12; Y SE ADICIONA LA FRACCIÓN XIII BIS AL ARTÍCULO 10 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 1; SE ADICIONA LA FRACCIÓN V Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
