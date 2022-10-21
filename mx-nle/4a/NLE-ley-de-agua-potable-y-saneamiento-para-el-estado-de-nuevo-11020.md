@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-agua-potable-y-saneamiento-para-el-estado-de-nuevo-11020
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-03"
-last_updated: "2022-06-10"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de octubre de 1997.
 
@@ -157,7 +157,9 @@ IV. Prestar los servicios públicos de agua potable y saneamiento en las zonas d
 
 V. Concesionar en el ámbito de su competencia a los particulares, cuando se considere procedente la prestación de los servicios públicos de agua potable y saneamiento, conforme al Capítulo V de esta Ley y en forma supletoria a los términos de la Sección Cuarta del Capítulo IX de la Ley de Administración Financiera.
 
-VI. Vigilar que el funcionamiento y prestación de los servicios públicos de agua potable y saneamiento se realice conforme a las políticas, estrategias, objetivos, programas y normas administrativas establecidas al efecto; y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VI. Vigilar que el funcionamiento y prestación de los servicios públicos de agua potable y saneamiento se realice conforme a las políticas, estrategias, objetivos, programas y normas administrativas establecidas al efecto; preservando siempre que el suministro de agua potable cumpla con las características establecidas por la Norma Oficial Mexicana en cumplimiento del Artículo 3 inciso b de la presente Ley; y
 
 VII. Las demás que ésta y otras leyes le confieren en la materia.
 
@@ -344,6 +346,10 @@ Para el efecto de que los usuarios de los servicios públicos de agua potable y 
 I. Constituir organizaciones de vecinos para promover la construcción, conservación, mantenimiento, rehabilitación y operación de las obras destinadas a la prestación de los servicios de agua potable y saneamiento; y
 
 II. Participar como concesionarios o prestadores de servicios, para la construcción, operación, administración, conservación y mantenimiento de las obras hidráulicas.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+ARTICULO 26 BIS.- El Organismo Operador dentro de los costos de operación, deberá incluir la realización de campañas permanentes que realizará de forma masiva, directa y especializada, en torno al cuidado del agua y al uso adecuado del drenaje sanitario, que serán consideradas de interés público y actualizadas anualmente.
 
 ### CAPITULO IX. DE LA PRESTACION DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -830,3 +836,15 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 162. SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 19 DE LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 241. SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 7 DE LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243. SE ADICIONA UN ARTÍCULO 26 BIS A LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 DE LA LEY QUE CREA UNA INSTITUCIÓN PÚBLICA DESCENTRALIZADA CON PERSONALIDAD JURÍDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARÁ “SERVICIOS DE AGUA Y DRENAJE DE MONTERREY”.]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
