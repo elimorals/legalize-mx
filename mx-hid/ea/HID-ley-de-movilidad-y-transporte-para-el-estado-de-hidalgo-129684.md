@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2021-09-01"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -147,9 +147,9 @@ XXV. REVOCACIÓN: Acto administrativo por virtud del cual la Autoridad Competent
 
 XXVI. SECRETARÍA: La Secretaría de Movilidad y Transporte;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-XXVI Bis. SEGURIDAD CON PERSPECTIVA DE GÉNERO. Las acciones y medidas que implementen las autoridades, concesionarios, permisionarios y usuarios en general del servicio público de transporte, encaminadas a prevenir y atender, cualquier tipo de violencia contra las mujeres por razón de género, en las unidades de servicio público.
+XXVI Bis. SEGURIDAD CON PERSPECTIVA DE GÉNERO. Las acciones, medidas y mecanismos necesarios que implementen las autoridades, concesionarios, permisionarios y usuarios en general del servicio público de transporte, encaminadas a identificar las conductas discriminatorias, desiguales y de exclusión que se generan en contra de las mujeres con la finalidad de erradicar, prevenir, atender y sancionar cualquier tipo de violencia contra las mujeres por razón de género, en las unidades de servicio público.
 
 XXVII. SERVICIO DE TRANSPORTE: El que se presta a través de la concesión, el permiso, autorización, convenio o contrato correspondiente;
 
@@ -250,6 +250,10 @@ V. Instrumentar en coordinación con otras dependencias y con los municipios, pr
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 V Bis. Implementar las medidas necesarias para prevenir y atender la violencia contra las mujeres por razón de género, en específico el acoso sexual (sic) contra de las mujeres en las unidades de servicio público de transporte, de conformidad con lo establecido en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+V TER. Determinar, establecer y evaluar, con previo estudio regional, la incorporación, en los Servicios de Transporte Público, Privado y Complementario, así como, en el Servicio Público de Transporte Masivo de Pasajeros, un sistema de transporte seguro, eficaz y eficiente, único para mujeres. Estableciendo las medidas y acciones necesarias a fin de garantizar la movilidad con perspectiva de género en el Estado;
 
 VI. Emitir la opinión respecto a la congruencia de los programas municipales de movilidad con relación al Programa Estatal de Movilidad y Transporte;
 
@@ -719,9 +723,17 @@ VII. Multimodalidad. Ofrecer a los diferentes grupos de usuarios opciones de mov
 
 VIII. Resiliencia. Movilidad y transporte con capacidad para soportar situaciones fortuitas o de fuerza mayor, y una recuperación de bajo costo para la sociedad y al medio ambiente;
 
-IX. Seguridad. Privilegiar las acciones de prevención accidentes de tránsito durante los desplazamientos de la población, con el fin de proteger la integridad física de las personas y evitar la afectación a los bienes públicos y privados; y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-X. Sustentabilidad. Desplazamientos de personas y bienes con los mínimos efectos negativos sobre la calidad de vida y el medio ambiente, incentivando el uso de transporte público y no motorizado, así como el uso de tecnologías sustentables en los modos de transporte.
+IX. Seguridad. Privilegiar las acciones de prevención accidentes de tránsito durante los desplazamientos de la población, con el fin de proteger la integridad física de las personas y evitar la afectación a los bienes públicos y privados;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+X. Sustentabilidad. Desplazamientos de personas y bienes con los mínimos efectos negativos sobre la calidad de vida y el medio ambiente, incentivando el uso de transporte público y no motorizado, así como el uso de tecnologías sustentables en los modos de transporte; y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XI. Enfoque de género. Categoría de análisis que permita identificar, a través de los mecanismos necesarios, las acciones discriminatorias, desiguales y de exclusión que se generan en contra de las mujeres en las unidades de servicio público, generando condiciones adecuadas para lograr la igualdad sustantiva.
 
 ### CAPITULO III. DE LA ESTRATEGIA INTEGRAL DE MOVILIDAD
 
@@ -3380,3 +3392,9 @@ P.O. 1 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor el (sic) día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 237 QUE REFORMA LA FRACCIÓN XXVI BIS DEL ARTÍCULO 3, LAS FRACCIONES IX Y X DEL ARTÍCULO 27; Y SE ADICIONAN LA FRACCIÓN V TER AL ARTÍCULO 7 Y LA FRACCIÓN XI AL ARTÍCULO 27 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
