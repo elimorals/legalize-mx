@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-86551"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-02"
-last_updated: "2022-02-18"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. D
 
 LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el viernes 2 de marzo de 2012.
 
@@ -907,33 +907,51 @@ Los jóvenes que sean beneficiados por los servicios educativos que proporciona 
 
 El servicio social a que se refiere el artículo anterior, no será menor a 6 meses y deberá estar concluido antes de la fecha programada para finalizar sus estudios.
 
-## Título Sexto. Del Parlamento de la Juventud Queretana
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+## Título Sexto. De la Legislatura de la Juventud
 
 ### Capítulo Único. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 65.
 
-La Secretaría de la Juventud del Poder Ejecutivo del Estado de Querétaro podrá llevar a cabo las actividades tendientes a organizar, difundir y promover entre los jóvenes la cultura legislativa a través de eventos, congresos, conferencias o parlamentos, mismos que tendrán como finalidad abrir espacios de debate y conocimiento y contribuyan de manera alternativa a mejorar la situación del sector juvenil y de la sociedad.
+La Secretaría promoverá ante la Legislatura del Estado, la organización e instalación anual de la Legislatura de la Juventud, misma que tendrá por objeto promover la cultura legislativa entre los jóvenes, la cual se realizará durante la primera semana del mes de febrero de cada año.
 
-Asimismo, con el propósito de incentivar la participación de los jóvenes en la Entidad, el Poder Ejecutivo del Estado, a través de la Secretaría, otorgará el Premio Estatal de la Juventud, reconocimiento que se concederá a aquellos jóvenes que hayan destacado en actividades académicas, artísticas, productivas, de innovación tecnológica, labor social o protección al ambiente. El premio se entregará anualmente, previa convocatoria que al efecto se expida.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 66.
 
-(DEROGADO, P.O. 14 DE MAYO DE 2019)
+La Legislatura de la Juventud contará con un Comité Organizador, que será honorífico y se integrará por:
+
+I. El titular de la Secretaría; y
+
+II. Los integrantes de la Mesa Directiva de la Legislatura del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 67.
 
-(DEROGADO, P.O. 14 DE MAYO DE 2019)
+La organización, así como el establecimiento de bases y lineamientos para la convocatoria, selección de aspirantes, logística y desarrollo de la Legislatura de la Juventud, estará a cargo del Comité Organizador.
+
+Las propuestas para iniciativas de ley que hagan los integrantes de la Legislatura de la Juventud deberán de tener un ámbito de aplicación estatal.
+
+La Mesa Directiva en funciones instruirá a la Dirección de Investigación y Estadística Legislativa a colaborar en su caso en la organización y desarrollo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 68.
 
-(DEROGADO, P.O. 14 DE MAYO DE 2019)
+Podrán participar en la Legislatura de la Juventud, los jóvenes queretanos que cumplan con los requisitos establecidos en las bases y lineamientos de la convocatoria que se emita.
+
+Al finalizar su trabajo, las propuestas podrán ser analizadas por los Diputados y Diputadas integrantes de la Legislatura del Estado, los cuales podrán retomar los temas propuestos, para realizar iniciativas de Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 69.
 
-(DEROGADO, P.O. 14 DE MAYO DE 2019)
+La Secretaría otorgará anualmente el Premio Estatal de la Juventud, a aquellos jóvenes que se hayan destacado en alguna actividad tales como académicas, artísticas, productivas, innovación tecnológica, labor social y protección al ambiente; con el propósito de incentivar su labor y la de los demás jóvenes, previa convocatoria que al efecto se expida.
 
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 11 DE NOVIEMBRE DE 2016)</small>
 
@@ -1554,3 +1572,13 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. El Programa Estatal para el Desarrollo Integral de la Juventud Queretana 2021 - 2024, será vigente hasta la publicación del Plan Estatal de Desarrollo del ejercicio constitucional que corresponda.
 
 Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES DEL TÍTULO SEXTO DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
