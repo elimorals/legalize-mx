@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2020-11-27"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -560,6 +560,10 @@ XXI.- Impulsar esquemas eficientes para el suministro de alimentos nutritivos pa
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
 
 XXII.- Vigilar que el embarazo y la maternidad no constituyan impedimento para que las estudiantes ingresen o continúen realizando sus estudios en los centros educativos públicos o privados, siempre y cuando cumplan con los requisitos de ingreso y permanencia; por lo que el personal docente, directivo y los responsables de las instituciones educativas oficiales y privadas de cualquier nivel o modalidad en el Estado, no podrán bajo ninguna circunstancia, adoptar acciones que impidan o perturben el inicio o continuación de sus estudios a las alumnas en estado de gravidez o lactancia, ni imponer medidas correctivas o sanciones disciplinarias a las estudiantes, o que provoquen su baja en el sistema educativo por causa de embarazo.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XXIII.- Instrumentar lo necesario para promover los derechos relativos a la higiene menstrual de las niñas, adolescentes y mujeres en todos los niveles educativos del estado.
 
 Las instituciones educativas públicas o privadas, en cuanto a la estudiante embarazada, deberán establecer mecanismos para justificar su inasistencia por motivos de atención médica.
 
@@ -2114,3 +2118,43 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 277.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VI "SERVICIOS DE PLANIFICACIÓN FAMILIAR" DEL TÍTULO TERCERO "PRESTACIÓN DE LOS SERVICIOS DE SALUD" Y EL PRIMER PÁRRAFO DEL ARTÍCULO 63, Y SE ADICIONAN UNA FRACCIÓN VII AL ARTÍCULO 63, Y LOS ARTÍCULOS 65 BIS, 65 TER Y 221 BIS A LA LEY ESTATAL DE SALUD; SE ADICIONAN UNA FRACCIÓN XXIII AL ARTÍCULO 26 DE LA LEY ESTATAL DE EDUCACIÓN, SE ADICIONA UNA FRACCIÓN VII, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 49, UNA FRACCIÓN XIV, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 52 Y UNA FRACCIÓN VIII, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 53 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UNA FRACCIÓN IX, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 19 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UN INCISO E) AL ARTÍCULO 26 DE LA LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA EL ARTÍCULO 100 BIS A LA LEY DE EJECUCIÓN DE SANCIONES PENALES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA EL ARTÍCULO 265 BIS A LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- En un plazo no mayor a noventa días naturales desde la entrada en vigor de este Decreto, la Secretaría de Gobierno del Estado, la Secretaría de Educación y la Secretaría de Salud harán las modificaciones normativas, de infraestructura, presupuestales, de procedimientos, y las demás necesarias para promover los derechos señalados en el mismo.
+
+Tercero.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, la Secretaría de Gobierno, a través de las autoridades competentes, deberá expedir las reformas a los reglamentos y protocolos estatales y municipales vigentes en materia de internación de personas, centros de readaptación social, centros penitenciarios y de detención para establecer los derechos señalados en el mismo.
+
+Cuarto.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, la Secretaría de Educación, a través de las autoridades competentes, deberá expedir las reformas a los reglamentos y protocolos estatales y municipales vigentes sobre centros de educación del estado superior para establecer y promover los derechos señalados en el mismo.
+
+Quinto.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, las autoridades competentes deberán expedir las reformas a los reglamentos y protocolos estatales y municipales en materia sanitaria para establecer y promover los derechos señalados en el mismo a las mujeres en situación de vulnerabilidad.
+
+Sexto.- Las reformas a los reglamentos reformados en virtud de este Decreto deberán establecer y garantizar, al menos:
+
+I. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las niñas, adolescentes y mujeres en situación de vulnerabilidad, de acuerdo con la legislación vigente;
+
+II. La garantía del acceso de las niñas, adolescentes y mujeres a los derechos, insumos y materiales, e instalaciones necesarias para acceder y promover la higiene menstrual;
+
+III. La vigilancia por parte de las autoridades sanitarias competentes del cumplimiento de las medidas necesarias para la higiene menstrual de las niñas, adolescentes y mujeres, y
+
+IV. La investigación y sanción a las autoridades que impidan el acceso a los derechos relativos a la higiene menstrual.
+
+Séptimo.- Las reformas a los reglamentos reformados en virtud de este Decreto en materia de internación de personas, centros de readaptación social, centros penitenciarios y de detención además deberán establecer y promover:
+
+I. La protección del derecho de las mujeres privadas de su libertad para que puedan acceder por parte de sus familiares o a precios comerciales los insumos necesarios para la higiene menstrual, y
+
+II. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las adolescentes y mujeres privadas de su libertad en situación de vulnerabilidad.
+
+Octavo.- Las reformas a los reglamentos reformados en virtud de este Decreto en materia de centros de educación primaria, secundaria y media superior además deberán establecer y promover:
+
+I. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las niñas, adolescentes y mujeres de los centros de educación pública primaria, secundaria y media superior, y
+
+II. La creación de políticas y mecanismos para evitar el acoso escolar a las niñas, adolescentes y mujeres de los centros de educación primaria, secundaria y media superior en el ejercicio de sus derechos relativos a la higiene menstrual.
+
+Noveno.- Con fundamento del principio de la realización progresiva de los derechos, estos serán aplicados de acuerdo con los recursos materiales del Estado, mismos que permitan avanzar gradual y constantemente hacia la más plena realización de tales derechos.
+
+Decimo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
