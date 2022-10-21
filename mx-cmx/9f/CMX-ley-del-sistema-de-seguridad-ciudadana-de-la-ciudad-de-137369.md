@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-seguridad-ciudadana-de-la-ciudad-de-137369"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-01"
-last_updated: "2022-05-27"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137369&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-01"
 
 LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el No. 147 bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de agosto de 2019.
 
@@ -1052,7 +1052,9 @@ II. Preservar la secrecía de los asuntos que por razón del desempeño de su fu
 
 III. Obtener y mantener actualizado el CUP, según las disposiciones aplicables;
 
-IV. Asistir a cursos de inducción, formación, capacitación, especialización y todos aquellos necesarios a fin de adquirir los conocimientos teóricos y prácticos que conlleven a su profesionalización.
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+
+IV. Asistir a cursos de inducción, formación, capacitación, especialización y aquellos en materia de derechos humanos, al menos una vez al año, siempre y cuando exista suficiencia presupuestal, a fin de adquirir y actualizar los conocimientos teóricos y prácticos que conlleven a su profesionalización.
 
 V. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
 
@@ -1120,9 +1122,11 @@ El uso de la fuerza se sujetará a las disposiciones de la Ley Nacional sobre el
 
 ### Capítulo II. De los Derechos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 60.
 
-Los integrantes de la Instituciones de Seguridad Ciudadana en el ejercicio de sus funciones, tendrán los siguientes derechos:
+Los integrantes de las Instituciones de Seguridad Ciudadana en el ejercicio de sus funciones tendrán los siguientes derechos:
 
 I. Percibir la remuneración suficiente y digna, así como las demás prestaciones que se destinen en favor de los servidores públicos de la Ciudad, las cuales no podrán disminuirse, salvo por las deducciones y los descuentos que procedan en términos de las disposiciones y resoluciones aplicables, por mandato judicial o por dejar de ejercer un cargo en la estructura de mando de la corporación; en cumplimiento al principio de presunción de inocencia, si un servidor público se encuentra suspendido temporalmente con motivo de un procedimiento administrativo o penal con motivo de sus funciones, deberá continuar percibiendo un ingreso mínimo vital. Asimismo, no deberá presentarse públicamente como responsable de la falta que se le impute.
 
@@ -1133,6 +1137,10 @@ III. Gozar de un trato digno, respetuoso y decoroso por parte de sus superiores,
 IV. Gozar de igualdad de oportunidades para recibir la capacitación necesaria para su desarrollo en el servicio profesional de carrera. Tratándose de programas de educación continua y especialización deberán realizarse convocatorias públicas internas para quienes aspiren a dichos cursos;
 
 V. Participar en los concursos de promoción y evaluación curricular para ascender al grado inmediato superior;
+
+> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+
+V Bis. Participar y actualizarse en los cursos necesarios para profesionalizar la labor policial;
 
 VI. Ser sujeto de ascensos, condecoraciones, reconocimientos y estímulos, así como las distinciones a que se hayan hecho merecedores en los términos de esta Ley y los ordenamientos respectivos. Las Instituciones de seguridad ciudadana y las alcaldías de la Ciudad deberán realizar cuando menos una ceremonia pública anual de mérito y reconocimiento, con la presencia de familiares de los homenajeados, sociedad civil y medios de comunicación;
 
@@ -1970,9 +1978,11 @@ El Consejo de evaluación de la Ciudad de México determinará mediante acuerdos
 
 ## Título Décimo Primero. Universidad de la Policía
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 126.
 
-La Universidad de la Policía es la institución de enseñanza superior que tiene como objetivo primordial formar especialistas y profesionales en materia de seguridad ciudadana y justicia penal con base en un modelo educativo que facilite el desarrollo de competencias especializadas, mediante un enfoque preventivo y el uso de nuevas tecnologías de información y comunicación, para el análisis y atención eficaz y pertinente de las problemáticas de seguridad en la Ciudad, con la finalidad de otorgar el derecho a la educación para la mejora de las capacidades de los cuerpos policiales. Todos los integrantes de los cuerpos policiales tendrán derecho de acceder a los programas educativos que ofrezca la Universidad.
+La Universidad de la Policía es la institución de enseñanza superior que tiene como objetivo primordial formar especialistas y profesionales en materia de seguridad ciudadana y justicia penal, con base en un modelo educativo que facilite el desarrollo de competencias especializadas, mediante un enfoque preventivo y apegado a la perspectiva de género, derechos humanos, grupos de atención prioritaria y el combate a la corrupción; así como al uso de nuevas tecnologías de información y comunicación, para el análisis y atención eficaz y pertinente de las problemáticas de seguridad en la Ciudad, con la finalidad de otorgar el derecho a la educación para la mejora de las capacidades de los cuerpos policiales. Todos los integrantes de los cuerpos policiales tendrán derecho de acceder a los programas educativos que ofrezca la Universidad.
 
 Los planes y programas que se impartan en la Universidad, para la profesionalización de las instituciones de seguridad ciudadana se sujetarán al Programa de Profesionalización y al Programa Rector de Profesionalización. Además, con base en la demanda y requerimientos de las Instituciones de seguridad ciudadana o de particulares, podrá ofertar las actividades educativas requeridas.
 
@@ -2505,3 +2515,11 @@ PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulg
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Remítase el presente Dictamen a la Mesa Directiva, para los efectos a que se refieren el párrafo tercero del Artículo 103 y el último párrafo del Artículo 105, ambos del Reglamento de este Órgano Legislativo.
+
+G.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 59 FRACCIÓN IV; EL ARTÍCULO 126 PÁRRAFO PRIMERO Y SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 60; TODOS DE LA LEY DEL SISTEMA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO. SE REFORMA EL ARTÍCULO 15 DE LA LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
