@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2022-03-28"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de septiembre de 2015.
 
@@ -734,6 +734,14 @@ III. A quien oferte el precio más bajo que resulte del uso de la modalidad de o
 Para los casos señalados en las fracciones I y II de este artículo, en caso de existir igualdad de condiciones, se dará preferencia a las personas que integran el sector de micro, pequeñas y medianas empresas.
 
 De subsistir el empate entre las personas del sector señalado, la adjudicación se efectuará a favor del licitante que resulte ganador del sorteo que se realice en términos del Reglamento. En las licitaciones públicas que cuenten con la participación de un testigo social, éste invariablemente deberá ser invitado al mismo. Igualmente será convocado un representante del Órgano Interno de Control del convocante de que se trate.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+En Las licitaciones públicas, independientemente del método de evaluación que se utilice, cuando concursen licitantes del Estado de Hidalgo y de otros estados del país o del extranjero, ante propuestas iguales o similares se dará preferencia a las propuestas de licitantes con domicilio fiscal en el Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+En el caso de las licitaciones públicas de los Ayuntamientos, independientemente del método de evaluación que se utilice, ante propuestas iguales o similares, se dará preferencia a las propuestas de licitantes con domicilio fiscal en el municipio convocante.
 
 ###### Artículo 50.
 
@@ -1508,3 +1516,9 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 175 QUE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 4 Y REFORMA LOS PÁRRAFOS QUINTO Y SÉPTIMO DEL ARTÍCULO 33 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 246 POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 49 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
