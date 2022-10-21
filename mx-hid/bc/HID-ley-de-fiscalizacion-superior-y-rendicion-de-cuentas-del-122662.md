@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-122662
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-10"
-last_updated: "2020-08-17"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
 
@@ -86,6 +86,10 @@ II. Acuse de Recibo Digital: Mensaje de datos que se emite o genera a través de
 III. Aplicativo digital: Cualquier plataforma informática que permita la interacción entre una o más personas con un fin específico;
 
 IV. Auditoría Superior: La Auditoría Superior del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+IV Bis.- Auditorías: proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;
 
 V. Comisión, Comisión Inspectora: La Comisión Inspectora de la Auditoría Superior del Estado;
 
@@ -293,7 +297,9 @@ VII. Investigar, en el ámbito de su competencia, los actos u omisiones que impl
 
 VIII. Obtener durante el desarrollo de las auditorías e investigaciones copia de los documentos originales que se tengan a la vista, y certificarlas mediante cotejo con sus originales, así como también poder solicitar la documentación en copias certificadas;
 
-IX. Solicitar, obtener y tener acceso a la información y documentación necesaria para llevar a cabo el ejercicio de sus atribuciones y cumplimiento de sus objetivos, sin importar el carácter de reservado, confidencial o alguna otra clasificación que impida su conocimiento, que se encuentre en posesión de las Entidades Fiscalizadas;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+IX. Solicitar, obtener y tener acceso a la información y documentación, a través de medios físicos o electrónicos mediante herramientas tecnológicas, necesaria para llevar a cabo el ejercicio de sus atribuciones y cumplimiento de sus objetivos, sin importar el carácter de reservado, confidencial o alguna otra clasificación que impida su conocimiento, que se encuentre en posesión de las Entidades Fiscalizadas;
 
 X. Requerir a terceros que hubieran contratado con las Entidades Fiscalizadas obra pública, bienes o servicios mediante cualquier título legal y a cualquier entidad o persona física o moral, pública o privada, o aquellas que hayan sido subcontratados por terceros, la información relacionada con la documentación justificativa y comprobatoria del ejercicio de recursos públicos a efecto de realizar las compulsas correspondientes;
 
@@ -326,6 +332,40 @@ Cuando derivado de la fiscalización superior se entregue a la Auditoría Superi
 XXIII. Interpretar esta Ley para efectos administrativos, así como aclarar y resolver consultas sobre la aplicación de las demás disposiciones administrativas que emita; y
 
 XXIV. Las demás que le sean conferidas por esta Ley o cualquier otro ordenamiento legal.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 18 Bis.
+
+Los procesos de fiscalización a que hace referencia esta Ley, podrán ser realizados por la Auditoría Superior de manera presencial o por medios electrónicos a través de las herramientas tecnológicas y de conformidad con sus Reglas de carácter general.
+
+La Auditoría Superior contará con un Buzón Digital, a través del cual, de manera enunciativa más no limitativa realizará la notificación de solicitudes de información preliminar, órdenes de auditoría, e informes individuales que contengan acciones, previsiones o recomendaciones, así como, en su caso, cualquier acto que se emita, los cuales constarán en documentos digitales.
+
+Por su parte, las entidades fiscalizadas presentarán solicitudes o darán atención a requerimientos de información de la Auditoría Superior a través de documentos o archivos digitales certificados enviados a través del Buzón Digital o celebrarán los actos que se requieran dentro del proceso de fiscalización superior.
+
+Los procesos de fiscalización que se realicen a través de medios electrónicos mediante las herramientas tecnológicas constarán en expedientes electrónicos o digitales.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 18 Ter.
+
+Las disposiciones relativas a la auditoría presencial le serán aplicables en lo conducente a la auditoría realizada a través de medios digitales o electrónicos, sin perjuicio de que de manera particular se esté a lo siguiente:
+
+I. Previo al inicio de la auditoría por medios digitales la Auditoría Superior requerirá por escrito a la entidad fiscalizada, el nombre, cargo, registro federal de contribuyentes y correo o dirección electrónica del servidor público que fungirá como enlace o coordinador para la atención de la auditoría;
+
+II. Una vez recibida la información a que hace referencia la fracción anterior, la Auditoría Superior enviará por única ocasión, al correo o dirección electrónica designada, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste;
+
+III. Los servidores públicos de la entidad fiscalizada que se encuentren autorizados para tal efecto harán uso del Buzón Digital para el desahogo de la auditoría por medios electrónicos o digitales, y deberán consultarlo a más tardar dentro de los dos días hábiles siguientes a aquél en que reciban un aviso electrónico enviado por la Auditoría Superior;
+
+IV. Las notificaciones digitales, se tendrán por realizadas cuando se genere el acuse de recibo digital de notificación del acto de autoridad de que se trate, en el que se hará constar el sello digital de tiempo emitido de conformidad con las disposiciones jurídicas aplicables, que refleja la fecha y hora en que el servidor público de la entidad fiscalizada se autenticó para abrir el documento a notificar o bien, se tuvo por notificado;
+
+V. Ante la falta de consulta de la notificación digital, ésta se tendrá por realizada al tercer día hábil siguiente, contado a partir del día en que fue enviado el referido aviso. Será responsabilidad de las entidades fiscalizadas mantener vigente la cuenta de correo electrónico señalada para efectos de notificación de los actos derivados de la auditoría por medios electrónicos o digitales;
+
+VI. En los documentos electrónicos o digitales, la firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio, y
+
+VII. Cuando la Auditoría Superior por caso fortuito o fuerza mayor, se vea impedida para continuar con la auditoría por medios digitales o electrónicos, ésta se suspenderá hasta que la causa desaparezca, lo cual se deberá publicar en la página de Internet de la Auditoría Superior acompañada de la fundamentación y motivación correspondiente.
+
+En caso de que la auditoría pueda ser continuada por la vía presencial, ésta se cambiará de modalidad para cumplir con el mandato constitucional en tiempo y forma. En el mismo sentido, el cambio de una auditoría presencial a una digital podrá realizarse en cualquier tiempo fundando y motivando debidamente la determinación.
 
 ###### Artículo 19.
 
@@ -1134,3 +1174,11 @@ P.O. 17 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 415 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 43 DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 270 POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 18 Y SE ADICIONA LA FRACCIÓN IV BIS DEL ARTÍCULO 2, ASÍ COMO LOS ARTÍCULO 18 BIS Y 18 TER A LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
