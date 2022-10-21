@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2021-07-28"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -197,9 +197,11 @@ VI.- Igualdad de género.
 
 ### CAPÍTULO II. DE LOS DERECHOS CULTURALES
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 6.
 
-Toda persona ejercerá sus derechos culturales a título individual o colectivo sin menoscabo de su origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otro y, por lo tanto, tendrán las mismas oportunidades de acceso.
+Toda persona ejercerá sus derechos culturales a título individual o colectivo sin menoscabo de su origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, orientación sexual, identidad de género, expresión de género, estado civil o cualquier otro y, por lo tanto, tendrán las mismas oportunidades de acceso.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
 
@@ -1000,3 +1002,9 @@ P.O. 28 DE JULIO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. El Ejecutivo del Estado, deberá adecuar el reglamento de la LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO, en termino (sic) de lo dispuesto en el presente Decreto en un término de 180 días a partir del día siguiente al de su publicación.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 274 QUE REFORMA EL ARTÍCULO 6 A LA LEY DE CULTURA Y DERECHOS CULTURALES EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
