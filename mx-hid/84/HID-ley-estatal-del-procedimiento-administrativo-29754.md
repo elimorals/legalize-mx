@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-del-procedimiento-administrativo-29754"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2016-12-31"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de diciembre de 2002.
 
@@ -643,9 +643,11 @@ Cuando en una misma acta se hagan constar diversas infracciones en la resolució
 
 En el supuesto de que en una misma acta se comprenda a dos o más infractores, a cada uno de ellos se le impondrá la sanción que corresponda.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 78.
 
-La facultad de las Autoridades para imponer sanciones administrativas, prescribe en cinco años. Los términos de la prescripción serán continuos y se contarán desde el día en que se notificó la infracción si fuere consumada o desde que cesó si fuere continua.
+La facultad de las autoridades para imponer sanciones administrativas, prescribe en cinco años. Los términos de la prescripción serán continuos y se contarán desde el día en que se cometió la falta o infracción administrativa si fuere consumada o, desde que cesó si fuere continua.
 
 ###### ARTICULO 79.
 
@@ -950,3 +952,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 275 QUE REFORMA EL ARTÍCULO 78 DE LA LEY ESTATAL DEL PROCEDIMIENTO ADMINISTRATIVO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
