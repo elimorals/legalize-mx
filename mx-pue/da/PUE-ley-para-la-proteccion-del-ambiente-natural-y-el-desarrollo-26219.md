@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2021-07-08"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -1073,9 +1073,17 @@ II.- Las declaratorias de las áreas naturales protegidas, que no sean compatibl
 
 III.- Las declaratorias de usos, destinos y reservas expedidas con fundamento en la Ley de Desarrollo Urbano del Estado; así como las de protección y conservación de poblaciones típicas y bellezas naturales;
 
-IV.- Las Normas Oficiales Mexicanas; y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-V.- Las especies de flora y fauna endémicas, amenazadas o en peligro de extinción.
+IV.- Las Normas Oficiales Mexicanas;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+V.- Las especies de flora y fauna endémicas, amenazadas o en peligro de extinción; y
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VI.- Los derechos de vía de infraestructura energética, comunicaciones, zonas federales y zonas de riesgo.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1775,9 +1783,17 @@ VI.- Recomendaciones sobre investigaciones científicas, convenios de colaboraci
 
 Los vehículos automotores que circulen en el Estado, deberán contar con los dispositivos para el control de emisiones y observar los niveles de emisiones contaminantes establecidos en las Normas Oficiales Mexicanas de acuerdo con los programas que para controlar la contaminación y prevenir contingencias ambientales emita la Secretaría.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Las y los propietarios o poseedores de los vehículos automotores serán solidariamente responsables del cumplimiento de lo establecido en el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 120.
 
-Los vehículos automotores registrados en el Estado, destinados al transporte privado y al servicio público, deberán ser sometidos a verificación conforme esta Ley, su Reglamento en Materia de Prevención y Control de la Contaminación Atmosférica y los programas que al efecto formule la Secretaría.
+Los vehículos automotores registrados o que circulen en el Estado, destinados al transporte privado y al servicio de transporte, en sus diferentes modalidades, deberán ser sometidos a verificación conforme a esta Ley, su Reglamento en Materia de Prevención y Control de la Contaminación Atmosférica y los programas que al efecto formule la Secretaría.
+
+Los Certificados y Hologramas emitidos por otras Entidades Federativas, cuando existan convenios de coordinación, podrán ser reconocidos por el Estado de Puebla, en términos de las disposiciones que para tal efecto se emitan.
 
 ###### ARTÍCULO 121.
 
@@ -1795,9 +1811,11 @@ Del resultado de la verificación a los vehículos automotores se entregará un 
 
 Los concesionarios de centros de verificación vehicular deberán prestar el servicio en términos de la presente Ley, su Reglamento aplicable en la materia y el Acuerdo de Concesión que otorgue la Secretaría.
 
+> <small>(REFORMADO SU ACÁPITE [N. DE E. PRIMER PÁRRAFO], P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 125.
 
-La Secretaría establecerá programas y coordinará acciones con las dependencias competentes para:
+La Secretaría establecerá y promoverá programas y coordinará acciones con las autoridades competentes para:
 
 I.- Retirar de la circulación a los vehículos automotores que incumplan con la presente Ley, su Reglamento aplicable en la materia y los lineamientos que al efecto emita;
 
@@ -2097,13 +2115,19 @@ II.- Tratándose de los vehículos automotores que circulen en el Estado de Pueb
 
 La declaratoria establecerá el plazo durante el cual permanecerán vigentes las medidas; las condiciones y los términos en los que podrán prorrogarse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 153.
 
-La Secretaría, en coordinación con las Autoridades competentes podrán aplicar las siguientes medidas, para controlar una situación de contingencia ambiental:
+La Secretaría, en coordinación con las autoridades competentes, con el fin de prevenir o controlar una situación de contingencia ambiental, podrán aplicar las siguientes medidas:
 
 I.- Tratándose de fenómenos naturales, las que establezca el Sistema Estatal de Protección Civil por el tipo de agente perturbador;
 
-II.- Tratándose de fuentes móviles:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE OCTUBRE DE 2022)</small>
+
+II. Tratándose de fuentes móviles, emitir los acuerdos y demás disposiciones aplicables para:
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2022)</small>
 
 1) Restringir o suspender la circulación de vehículos automotores, en términos del Programa de Contingencia o de la declaratoria respectiva, conforme a los siguientes criterios:
 
@@ -2112,6 +2136,10 @@ a) Número de placas de circulación;
 b) Zonas o vías determinadas; y
 
 c) Engomado, por día o período determinado.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+d) Se podrá restringir y sujetar a horarios, a fin de agilizar la circulación vehicular y reducir, de esta forma, las emisiones contaminantes generadas por las fuentes móviles.
 
 2) Retirar de la circulación los vehículos que no respeten las limitaciones, suspensiones o restricciones establecidas e imponer las sanciones respectivas; y
 
@@ -2712,6 +2740,22 @@ TERCERO. El Ejecutivo del Estado una vez a la entrada en vigor del presente Decr
 P.O. 8 DE JULIO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 5 Y EL ARTÍCULO 152 DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA, LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
