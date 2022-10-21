@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-89283"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2020-10-26"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -531,6 +531,40 @@ Cada centro aprobará su plan de lectura y de servicios bibliotecarios cuya gest
 
 Los libros serán clasificados en los inventarios y la contabilidad del Estado, como bienes de consumo o fungibles, es decir, como aquellos que desaparecen o se deterioran con su uso. En consecuencia, los responsables de bibliotecas escolares y directivos del plantel no responderán penal, disciplinaria ni patrimonialmente por el deterioro de los libros que resulte de su uso, ni por su pérdida cuando sea consecuencia de hechos fortuitos o de actos de terceros, en el desarrollo de los servicios bibliotecarios de consulta o préstamo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+### Capítulo VII. De las Bibliotecas Móviles
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 31.
+
+La Secretaría de Cultura en coordinación con los Ayuntamientos atenderán lo referente al establecimiento y operación de las bibliotecas móviles en el Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 32.
+
+Las bibliotecas móviles tienen como finalidad acercar a las comunidades de la entidad, un acervo bibliográfico literario inclusivo, actividades culturales, promover y generar espacios para la lectura, el acceso al conocimiento y a diversas expresiones culturales, generando oportunidades para los artistas, narradores, cuentacuentos y talleristas, así como así (sic) para la ciudadanía en general.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 33.
+
+Las bibliotecas móviles deberán ser transportes equipados con material bibliográfico general y en lengua originaria, mobiliario y equipo multimedia para atender a la población, principalmente en comunidades de alta marginación.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 34.
+
+La Secretaría de Cultura deberá contar con un presupuesto asignado para la adquisición y equipamiento de las bibliotecas móviles, así como un presupuesto anual para su operación, considerando entre ello acervo en lengua indígena y bibliotecarios bilingües.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 35.
+
+La programación que ofrecen las bibliotecas móviles estarán coordinadas por la Secretaría de Cultura, los Ayuntamientos y delegados indígenas en su caso a fin de no contravenir con sus usos y costumbres y lograr una correcta implementación.
+
 T R A N S I T O R I O S
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
@@ -578,3 +612,11 @@ P.O. 26 DE OCTUBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 526 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 249 POR EL QUE SE ADICIONA EL CAPÍTULO VII, DENOMINADO DE LAS BIBLIOTECAS MÓVILES, QUE CONTIENE LOS ARTÍCULOS 31, 32, 33, 34 y 35 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Ejecutivo y el Congreso del Estado deberán disponer recursos necesarios y suficientes a partir del Presupuesto de Egresos 2023 para dar cumplimiento al presente DECRETO.
