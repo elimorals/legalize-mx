@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-humanos-del-estado-de-hidalgo-84141"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2019-04-15"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -81,13 +81,21 @@ II.- Comisión. Comisión de Derechos Humanos del Estado de Hidalgo;
 
 III.- Reglamento. Reglamento Interno de la Comisión de Derechos Humanos del Estado de Hidalgo;
 
-IV.- Presidente. Presidente de la Comisión de Derechos Humanos del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-V.- Visitadores Generales. Visitadores Generales de la Comisión de Derechos Humanos del Estado de Hidalgo;
+IV.- Presidencia. Persona titular de la Comisión de Derechos Humanos del Estado de Hidalgo;
 
-VI.- Secretario Ejecutivo. Secretario Ejecutivo de la Comisión de Derechos Humanos del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-VII.- Gobernador. Gobernador Constitucional del Estado Libre y Soberano de Hidalgo;
+V.- Visitadurías Generales. Visitadores generales de la Comisión de Derechos Humanos del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VI.- Secretaría Ejecutiva. Secretaría Ejecutiva de la Comisión de Derechos Humanos del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VII.- Persona titular del Poder Ejecutivo. Gobernadora o Gobernador Constitucional del Estado Libre y Soberano de Hidalgo;
 
 VIII.- Congreso. Congreso del Estado Libre y Soberano de Hidalgo;
 
@@ -233,17 +241,17 @@ También conocerá cuando algún particular que preste un servicio público perm
 
 Los procedimientos que se sigan ante la Comisión deberán ser breves y sencillos, y estarán sujetos sólo a las formalidades esenciales que requiera la documentación de los respectivos expedientes. Se seguirán de acuerdo con los principios de inmediatez, concentración y rapidez, procurando en la medida de lo posible el contacto directo con los quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones y de las resoluciones.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-Dichos procedimientos no podrán extenderse más allá de un plazo de cuatro meses, contados a partir del momento en que sea presentada la denuncia o queja. En casos excepcionales debido a la complejidad y naturaleza del asunto que se trate, el Presidente podrá acordar que dicho plazo se extienda, en los términos establecidos en la presente Ley.
+Dichos procedimientos no podrán extenderse más allá de un plazo de cuatro meses, contados a partir del momento en que sea presentada la denuncia o queja. En casos excepcionales debido a la complejidad y naturaleza del asunto que se trate, la persona titular de la comisión podrá acordar que dicho plazo se extienda, en los términos establecidos en la presente Ley.
 
 Se procurará que los procedimientos que se sigan ante la Comisión se desahoguen en las instancias más próximas al domicilio de los denunciantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 21.
 
-La Presidenta o el Presidente y las o los Visitadores tendrán fe pública en sus actuaciones para certificar la veracidad de los hechos en relación con las quejas o denuncias presentadas ante dicha Comisión.
+La persona Titular de la Comisión y las Visitadurías Generales tendrán fe pública en sus actuaciones para certificar la veracidad de los hechos en relación con las quejas o denuncias presentadas ante dicha Comisión.
 
 Para los efectos de esta Ley, la fe pública consistirá en la facultad de autenticar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos funcionarios. Para ello, las declaraciones y hechos deberán constar en el acta circunstanciada que al efecto levantará el funcionario correspondiente.
 
@@ -259,13 +267,21 @@ Los trámites y procedimientos realizados en la Comisión serán gratuitos.
 
 La Comisión de Derechos Humanos del Estado de Hidalgo estará integrada por:
 
-I.- El Presidente;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+I.- Una presidencia;
 
 II.- El Consejo;
 
-III.- Los Visitadores Generales;
+.
 
-IV.- El Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+III.- Visitadurías Generales;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+IV.- Una Secretaría Ejecutiva;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -391,9 +407,11 @@ La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de f
 
 ### Capítulo IV. Del Presidente de la Comisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 29.
 
-El Presidente de la Comisión deberá reunir para su elección los siguientes requisitos:
+La persona titular de la comisión deberá reunir para su elección los siguientes requisitos:
 
 I.- Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -411,9 +429,11 @@ IV.- Haber residido al menos durante los cinco años anteriores al nombramiento,
 
 V.- Contar con título profesional, preferentemente de Licenciado en Derecho, expedido por una institución facultada para ello.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 30.
 
-No podrán ser Presidente de la Comisión:
+No podrán ser Titular de la Comisión:
 
 I.- Los representantes o candidatos a un cargo de elección popular;
 
@@ -423,27 +443,35 @@ III.- Los dirigentes en activo de cualquier organización política o sindical; 
 
 IV.- Quienes desempeñen o hayan desempeñado un puesto de elección popular o cargo de dirección en algún partido político, en los últimos tres años; y
 
-V.- Quienes se hayan desempeñado como Gobernador, Secretario, Subsecretario, Procurador o Subprocurador del Gobierno de Hidalgo o su equivalente en el ámbito Federal, en los últimos tres años.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+V.- Quienes se hayan desempeñado como titular del Poder Ejecutivo, Secretario, Subsecretario, Procurador o Subprocurador del Gobierno de Hidalgo o su equivalente en el ámbito federal, en los últimos tres años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 31.
 
-La Presidenta o él Presidente, será electo por el voto de las dos terceras partes de las y los Diputados integrantes del Congreso del Estado, mediante una Convocatoria que emitirá la Primera Comisión Permanente de Derechos Humanos y Atención a las personas con Discapacidad a las organizaciones de la sociedad civil, organismos públicos y privados, promotores o defensores de los derechos humanos y expertos en la materia.
+La persona titular de la Comisión, será electo por el voto de las dos terceras partes de las y los Diputados integrantes del Congreso del Estado, mediante una Convocatoria que emitirá la Primera Comisión Permanente de Derechos Humanos y Atención a las personas con Discapacidad a las organizaciones de la sociedad civil, organismos públicos y privados, promotores o defensores de los derechos humanos y expertos en la materia.
 
-La Convocatoria que expida el Congreso del Estado, se publicará con dos meses de anticipación a la fecha de conclusión del cargo de la Presidenta o Presidente en funciones, tendrá una vigencia de veintiún días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado y se le dará amplia difusión a través de los medios de comunicación.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+La Convocatoria que expida el Congreso del Estado, se publicará con dos meses de anticipación a la fecha de conclusión del cargo de la persona titular de la Comisión en funciones, tendrá una vigencia de veintiún días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado y se le dará amplia difusión a través de los medios de comunicación.
 
 La Convocatoria, señalará las bases, requisitos y procedimiento para la recepción de la documentación de las y los aspirantes.
 
 Una vez que la Comisión, analice la documentación, emitirá Dictamen con hasta una terna de candidatas o candidatos, mismo que será presentado al Pleno, para su discusión, aprobación y elección.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 32.
 
-El Presidente de la Comisión de Derechos Humanos del Estado de Hidalgo durará en su encargo cinco años, sin posibilidad de ser reelecto.
+La persona titular de la comisión de Derechos Humanos del Estado de Hidalgo durará en su encargo cinco años, sin posibilidad de ser reelecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 33.
 
-El Presidente de la Comisión tendrá las siguientes facultades y obligaciones:
+La persona titular de la comisión tendrá las siguientes facultades y obligaciones:
 
 I.- Ejecutar, presidir, instrumentar y coordinar las actividades legalmente atribuidas a la Comisión;
 
@@ -453,13 +481,15 @@ III.- Expedir el Reglamento Interno y formular los lineamientos generales a los 
 
 IV.- Establecer las políticas generales que en materia de derechos humanos habrá de seguir la Comisión ante los organismos nacionales e internacionales;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-V.- Nombrar, dirigir y coordinar a los Visitadores y al Secretario Ejecutivo, así como a los demás funcionarios y personal de la Comisión, apelando a los requisitos de elegibilidad, que, para cada cargo, la presente ley contemple.
+V.- Nombrar, dirigir y coordinar a los Visitadores y a la Secretaría Ejecutiva, así como a los demás funcionarios y personal de la Comisión, apelando a los requisitos de elegibilidad, que, para cada cargo, la presente ley contemple.
 
 VI.- Dictar las medidas específicas que estime idóneas para el adecuado desempeño de las actividades de la Comisión;
 
-VII.- Distribuir y delegar funciones a los Visitadores Generales y al Secretario Ejecutivo, en los términos del Reglamento Interno;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VII.- Distribuir y delegar funciones a las Visitadurías Generales y a la Secretaría Ejecutiva, en los términos del Reglamento Interno;
 
 VIII.- Presentar anualmente un informe general al Congreso del Estado, sobre las actividades de la Comisión y la situación de los derechos humanos en la entidad, así como comparecer ante dicho Poder;
 
@@ -467,9 +497,9 @@ IX.- Promover las relaciones de la Comisión con organismos públicos, privados 
 
 X.- Celebrar convenios de colaboración con autoridades y organizaciones de defensa de los derechos humanos y en el combate a la discriminación, así como con instituciones académicas y asociaciones culturales para el cumplimiento de los fines de la Comisión;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-XI.- Aprobar y emitir, en su caso, las Propuestas de Solución y las Recomendaciones públicas, autónomas y no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración las o los Visitadores Generales, que resulten de las investigaciones efectuadas;
+XI.- Aprobar y emitir, en su caso, las Propuestas de Solución y las Recomendaciones públicas, autónomas y no vinculatorias, así como los acuerdos y peticiones que sometan a su consideración las Visitadurías Generales, que resulten de las investigaciones efectuadas;
 
 XII.- Poner a consideración del Consejo, para su aprobación, las Observaciones Generales y las propuestas conducentes a una mejor protección de los derechos humanos en el Estado de Hidalgo;
 
@@ -507,17 +537,19 @@ XXIII BIS.- Recibir y conocer los informes que presente el Titular del Órgano I
 
 XXIV.- Otras que le señale la presente Ley o el Reglamento Interno, y aquellas que sean necesarias para el debido desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 34.
 
-El cargo de Presidente de la Comisión será remunerado y recibirá las mismas prestaciones y percepciones que el Presidente del Tribunal Superior de Justicia.
+El cargo de titular de la comisión será remunerado y recibirá las mismas prestaciones y percepciones que la persona titular del Tribunal Superior de Justicia.
 
 ### Capítulo V. Del Consejo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 35.
 
-El Consejo es el órgano colegiado de carácter consultivo de la Comisión, que está compuesto por el Presidente de la misma y por ocho personas que gocen de reconocido prestigio en la sociedad, ciudadanos mexicanos en pleno ejercicio de sus derechos ciudadanos, con una residencia mínima de cinco años anteriores al nombramiento, dentro del Estado de Hidalgo. El Consejo será integrado bajo el principio de paridad de género.
+El Consejo es el órgano colegiado de carácter consultivo de la Comisión, que está compuesto por la persona titular de la misma y por ocho personas que gocen de reconocido prestigio en la sociedad, ciudadanos mexicanos en pleno ejercicio de sus derechos ciudadanos, con una residencia mínima de cinco años anteriores al nombramiento, dentro del Estado de Hidalgo. El Consejo será integrado bajo el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -525,17 +557,19 @@ Ninguno de sus integrantes podrá desempeñar otro cargo, empleo o comisión den
 
 Los cargos de los miembros del Consejo serán honorarios.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 36.
 
-La elección de las y los integrantes del Consejo, se llevara a cabo mediante convocatoria que emita la Primera Comisión Permanente de Derechos Humanos y Atención a las Personas con Discapacidad, en donde se establecerá el procedimiento que habrá de observarse, siguiendo los lineamientos contemplados para la elección de la o el Presidente, con excepción de la votación para su elección, que será de la mitad más uno de las y los Diputados integrantes del Congreso.
+La elección de las y los integrantes del Consejo, se llevara a cabo mediante convocatoria que emita la Primera Comisión Permanente de Derechos Humanos y Atención a las Personas con Discapacidad, en donde se establecerá el procedimiento que habrá de observarse, siguiendo los lineamientos contemplados para la elección de la persona titular de la comisión, con excepción de la votación para su elección, que será de la mitad más uno de las y los Diputados integrantes del Congreso.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 37.
 
-A excepción de su Presidenta o Presidente, cada año, serán sustituidos dos consejeros o consejeras de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+A excepción de la persona titular de la comisión, cada año, serán sustituidos dos consejeros o consejeras de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 Para el caso de que existan más de dos consejeras o consejeros con la misma antigüedad, será el propio Consejo quien proponga el orden cronológico que deba seguirse.
 
@@ -547,9 +581,11 @@ Los miembros del Consejo no estarán sujetos a autoridad alguna por lo que hace 
 
 La información producida por las y los Consejeros en el ejercicio de sus facultades y de carácter personal, que se encuentren bajo resguardo de la Comisión será de carácter confidencial por la naturaleza propia de sus funciones.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 39.
 
-El Presidente de la Comisión lo será también del Consejo.
+La persona titular de la comisión lo será también del Consejo.
 
 ###### Artículo 40.
 
@@ -557,23 +593,39 @@ El Consejo tendrá las siguientes facultades:
 
 I.- Establecer los lineamientos generales para las actividades de la Comisión, incluyendo aquellos que al presentarse en forma regular susciten controversia respecto a la competencia de la misma;
 
-II.- Opinar sobre el proyecto de Reglamento Interno de la Comisión que en su momento sea presentado por el Presidente, así como sobre las reformas al mismo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-III.- Conocer y opinar sobre el proyecto de Presupuesto Anual de la Comisión que, en su momento, les haga llegar el Presidente;
+II.- Opinar sobre el proyecto de Reglamento Interno de la Comisión que en su momento sea presentado por la persona titular de la comisión, así como sobre las reformas al mismo;
 
-IV.- Opinar sobre las demás normas de carácter interno relacionadas con la Comisión, cuando sea consultado por el Presidente;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-V.- Opinar sobre el proyecto del informe anual que el Presidente de la Comisión debe rendir ante el Congreso, así como de otros asuntos que le someta el propio Presidente;
+III.- Conocer y opinar sobre el proyecto de Presupuesto Anual de la Comisión que, en su momento, les haga llegar la persona titular de la comisión;
 
-VI.- Pedir al Presidente información sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-VII.- Conocer el informe del Presidente respecto al ejercicio presupuestal;
+IV.- Opinar sobre las demás normas de carácter interno relacionadas con la Comisión, cuando sea consultado por la persona titular de la comisión;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+V.- Opinar sobre el proyecto del informe anual que la persona titular de la comisión debe rendir ante el Congreso, así como de otros asuntos que someta la persona titular de la comisión;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VI.- Pedir a la persona titular de la comisión información sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VII.- Conocer el informe de la persona titular de la comisión respecto al ejercicio presupuestal;
 
 VIII.- Evaluar periódicamente el desempeño de la Comisión, así como el informe trimestral del Presidente de la misma;
 
-IX.- Solicitar al Presidente que convoque a sesión extraordinaria del Consejo;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-X.- Solicitar al Presidente que ejerza las facultades que le otorga el Artículo 105, fracción II, inciso G, de la Constitución Política de los Estados Unidos Mexicanos, a fin de resguardar debidamente los derechos humanos, mediante la interposición de una demanda de acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación; y
+IX.- Solicitar a la persona titular de la comisión que convoque a sesión extraordinaria del Consejo;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+X.- Solicitar a la persona titular de la comisión que ejerza las facultades que le otorga el Artículo 105, fracción II, inciso G, de la Constitución Política de los Estados Unidos Mexicanos, a fin de resguardar debidamente los derechos humanos, mediante la interposición de una demanda de acción de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación;
 
 XI.- Las demás que le sean conferidas por los ordenamientos legales correspondientes.
 
@@ -581,23 +633,31 @@ XI.- Las demás que le sean conferidas por los ordenamientos legales correspondi
 
 El Consejo funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones por mayoría de votos de sus miembros presentes.
 
-Las sesiones ordinarias se verificarán cuando menos una vez cada tres meses, conforme al calendario aprobado por el propio Consejo, a propuesta del Presidente.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-Las sesiones extraordinarias podrán convocarse por el Presidente de la Comisión o mediante solicitud que a éste formulen por lo menos tres miembros del Consejo, cuando se estime que hay razones de importancia para ello.
+Las sesiones ordinarias se verificarán cuando menos una vez cada tres meses, conforme al calendario aprobado por el propio Consejo, a propuesta de la persona titular de la comisión.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Las sesiones extraordinarias podrán convocarse por la persona titular de la comisión o mediante solicitud que a éste formulen por lo menos tres miembros del Consejo, cuando se estime que hay razones de importancia para ello.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 42.
 
-Para que el Consejo pueda sesionar válidamente se requiere la presencia de por lo menos cinco de sus integrantes y del Presidente de la Comisión.
+Para que el Consejo pueda sesionar válidamente se requiere la presencia de por lo menos cinco de sus integrantes y de la persona titular de la comisión.
 
-De forma extraordinaria, el Presidente podrá ser sustituido por algún Visitador General.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+De forma extraordinaria, la persona titular de la comisión podrá ser sustituido por algún Visitador General.
 
 Los supuestos de los párrafos anteriores serán regulados por el reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 43.
 
-El Consejo, por conducto de la Presidenta o del Presidente de la Comisión, solicitará al Congreso del Estado, la sustitución de los integrantes del Consejo de la Comisión que, de manera injustificada no asistan a tres sesiones, por alguna enfermedad que les impida asistir permanentemente a las mismas, renuncien al cargo o por fallecimiento.
+El Consejo, por conducto de la persona titular de la comisión, solicitará al Congreso del Estado, la sustitución de los integrantes del Consejo de la Comisión que, de manera injustificada no asistan a tres sesiones, por alguna enfermedad que les impida asistir permanentemente a las mismas, renuncien al cargo o por fallecimiento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -641,19 +701,27 @@ II.- Iniciar a petición de parte, la investigación de las quejas e inconformid
 
 III.- Realizar las actividades necesarias para lograr por medio de la amigable composición, la solución inmediata de las presuntas violaciones de derechos humanos o actos de discriminación, que por su propia naturaleza así lo permita.
 
-IV.- Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán al Presidente de la Comisión para su consideración;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+IV.- Realizar las investigaciones y estudios necesarios para formular los proyectos de recomendación o acuerdo, que se someterán a la persona titular de la comisión para su consideración;
 
 V.- Solicitar a cualquier dependencia, autoridad o servidor público los informes o documentos que ayuden al esclarecimiento de los hechos de la investigación;
 
-VI.- Determinar la reapertura de los casos que se encuentren concluidos, cuando así lo consideren necesario, previo acuerdo del Presidente;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-VII.- Ejercer las funciones del Presidente de la Comisión en su ausencia, en los términos del Reglamento Interno y, en el caso de ausencias mayores a quince días, la delegación de funciones deberá ser aprobada por el Consejo; y
+VI.- Determinar la reapertura de los casos que se encuentren concluidos, cuando así lo consideren necesario, previo acuerdo de la persona titular de la comisión;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VII.- Ejercer las funciones de la persona titular de la comisión en su ausencia, en los términos del Reglamento Interno y, en el caso de ausencias mayores a quince días, la delegación de funciones deberá ser aprobada por el Consejo;
 
 VIII.- Las demás que le sean conferidas en otros ordenamientos legales, reglamentarios y por delegación del Presidente de la Comisión.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 46.
 
-El cargo de Visitador General será remunerado y recibirá las mismas prestaciones y percepciones que el Presidente de una Sala del Tribunal Superior de Justicia del Estado.
+El cargo de Visitador General será remunerado y recibirá las mismas prestaciones y percepciones que el titular de una Sala del Tribunal Superior de Justicia del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -697,9 +765,11 @@ II.- Ser mayor de treinta años de edad, el día de su nombramiento; y
 
 III.- Tener título profesional expedido legalmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 51.
 
-El Secretario Ejecutivo tendrá las siguientes facultades y obligaciones:
+La Secretaría Ejecutiva tendrá las siguientes facultades y obligaciones:
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -717,11 +787,15 @@ V.- Enriquecer y mantener la biblioteca y acervo documental de la Comisión;
 
 VI.- Fungir como Secretario de Acuerdos en la sesiones del Consejo de la Comisión;
 
-VII.- Elaborar el proyecto de informe que el Presidente de la Comisión deberá rendir anualmente;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VII.- Elaborar el proyecto de informe que la persona titular de la comisión deberá rendir anualmente;
 
 VIII.- Ser el responsable de la comunicación social de la Comisión; y
 
-IX.- Las demás que le sean conferidas por el Presidente, esta Ley o su Reglamento.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+IX.- Las demás que le sean conferidas por la persona titular de la comisión, esta Ley o su Reglamento.
 
 ###### Artículo 52.
 
@@ -729,15 +803,17 @@ El cargo de Secretario Ejecutivo será remunerado y recibirá las mismas prestac
 
 ### Capítulo VIII. De las Prerrogativas e Incompatibilidades
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 53.
 
-La Presidenta o el Presidente, las y los Visitadores y la o el Secretario Ejecutivo serán inviolables, por lo que nunca podrán ser detenidos, multados, perseguidos o juzgados, en razón de las opiniones que manifiesten en el ejercicio de sus funciones, la Presidenta o el Presidente por las recomendaciones que emita.
+La persona titular de la comisión, las y los Visitadores y la o el Secretario Ejecutivo serán inviolables, por lo que nunca podrán ser detenidos, multados, perseguidos o juzgados, en razón de las opiniones que manifiesten en el ejercicio de sus funciones, la persona titular de la comisión por las recomendaciones que emita.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 54.
 
-El Presidente de la Comisión y Consejeros, cesaran en su cargo por alguna de las siguientes causas:
+La persona titular de la comisión y Consejeros, cesaran en su cargo por alguna de las siguientes causas:
 
 I.- Por renuncia justificada, presentada y aprobada por el Congreso local;
 
@@ -745,15 +821,19 @@ II.- Por muerte, o enfermedad grave que le imposibilite seguir en forma adecuada
 
 III.- Por haber sido removido por el Congreso local, de conformidad con lo dispuesto en el título Décimo de la Constitución Política del Estado.
 
-Vacante el cargo, se iniciará el procedimiento que la Ley establece para el nombramiento, y en tanto es designado, el Primer Visitador General asumirá en forma interina el cargo de Presidente de la Comisión, por un periodo no mayor a los noventa días hábiles.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+Vacante el cargo, se iniciará el procedimiento que la Ley establece para el nombramiento, y en tanto es designado, el Primer Visitador General asumirá en forma interina el cargo de la persona titular de la comisión, por un periodo no mayor a los noventa días hábiles.
 
-Entre el nombramiento de una nueva o nuevo Presidente y su toma de posesión, deberá existir un periodo no menor de ocho ni mayor de catorce días hábiles. Durante ese periodo la nueva o el nuevo Presidente se coordinará con quien culmine el cargo para lograr una oportuna entrega-recepción del organismo.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Entre el nombramiento de una nueva o nuevo titular de la comisión y su toma de posesión, deberá existir un periodo no menor de ocho ni mayor de catorce días hábiles. Durante ese periodo la nueva o el nuevo titular de la comisión se coordinará con quien culmine el cargo para lograr una oportuna entrega-recepción del organismo.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 55.
 
-Los cargos de Presidente, Visitador General, Visitador Adjunto y Secretario Ejecutivo de la Comisión, son incompatibles con el desempeño de actividades políticas, de cargos públicos, del ejercicio libre de la profesión y con las distinciones honorarias que no tengan una naturaleza netamente académica o de reconocimiento, exceptuando la actividad docente.
+Los cargos de titular de la comisión, Visitador General, Visitador Adjunto y titular de la Secretaría Ejecutiva de la Comisión, son incompatibles con el desempeño de actividades políticas, de cargos públicos, del ejercicio libre de la profesión y con las distinciones honorarias que no tengan una naturaleza netamente académica o de reconocimiento, exceptuando la actividad docente.
 
 ### Capítulo IX. Del Procedimiento
 
@@ -785,9 +865,9 @@ Las organizaciones de la sociedad civil, legalmente constituidas, cuyo objeto pr
 
 Todos los trámites, investigaciones y procedimientos que lleve a cabo la Comisión, por la naturaleza de su objeto, se desahogarán a la mayor brevedad, con la finalidad de que los quejosos o denunciantes puedan ver resarcidos sus derechos en el menor tiempo posible. Dichos trámites se desahogarán en las instancias más próximas al domicilio de los denunciantes, con la finalidad de evitar, en la medida de lo posible, su traslado.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-Los procedimientos que lleve a cabo la Comisión no podrán extenderse más allá de un plazo de cuatro meses contados a partir del momento en que sea presentada la denuncia o queja. Excepcionalmente, debido a la complejidad o naturaleza del asunto que se trate, la o el Visitador General encargado del caso, podrá solicitar a la Presidenta o Presidente que amplíe dicho plazo. En caso de estar de acuerdo, la o el Presidente emitirá una autorización por escrito de su ampliación debidamente fundado y motivado.
+Los procedimientos que lleve a cabo la Comisión no podrán extenderse más allá de un plazo de cuatro meses contados a partir del momento en que sea presentada la denuncia o queja. Excepcionalmente, debido a la complejidad o naturaleza del asunto que se trate, la o el Visitador General encargado del caso, podrá solicitar a la persona titular de la comisión que amplíe dicho plazo. En caso de estar de acuerdo, la persona titular de la comisión emitirá una autorización por escrito de su ampliación debidamente fundado y motivado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -849,11 +929,11 @@ Cuando la denuncia no sea competencia de la Comisión, el quejoso será orientad
 
 Cuando el caso lo amerite, el personal de la Comisión podrá darle especial seguimiento, para efecto de constatar que el solicitante sea atendido en los términos más favorables a sus intereses, de acuerdo a la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 71.
 
-La Presidenta o el Presidente de la Comisión, de forma extraordinaria podrá excusarse de conocer de un determinado caso, si éste puede lesionar la autoridad moral o la autonomía suyas o de la Comisión.
+La persona titular de la comisión, de forma extraordinaria podrá excusarse de conocer de un determinado caso, si éste puede lesionar la autoridad moral o la autonomía suyas o de la Comisión.
 
 ###### Artículo 72.
 
@@ -879,11 +959,11 @@ En el informe mencionado en el artículo anterior, la autoridad señalada como p
 
 La falta de rendición del informe o de la documentación que lo apoya, así como el retraso injustificado en su presentación, además de la responsabilidad respectiva de la autoridad o servidor público involucrado, tendrá el efecto de que la Comisión presumirá como ciertos los hechos materia de la denuncia, salvo prueba en contrario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 76.
 
-La Presidenta o el Presidente de la Comisión o las Visitadoras o Visitadores podrán solicitar en cualquier momento a las autoridades competentes, que se tomen las medidas para evitar la consumación irreparable de las presuntas violaciones denunciadas o la producción de daños de difícil reparación a las personas afectadas, así como solicitar su modificación cuando cambien las situaciones que las justificaron. De considerarlo necesario, para hacer cesar la probable violación a los derechos humanos o la comisión de actos discriminatorios o para garantizar el cumplimiento de sus funciones, la Presidenta o el Presidente de la Comisión podrán solicitar el auxilio de la fuerza pública.
+La persona titular de la comisión o las Visitadoras o Visitadores podrán solicitar en cualquier momento a las autoridades competentes, que se tomen las medidas para evitar la consumación irreparable de las presuntas violaciones denunciadas o la producción de daños de difícil reparación a las personas afectadas, así como solicitar su modificación cuando cambien las situaciones que las justificaron. De considerarlo necesario, para hacer cesar la probable violación a los derechos humanos o la comisión de actos discriminatorios o para garantizar el cumplimiento de sus funciones, la persona titular de la comisión podrá solicitar el auxilio de la fuerza pública.
 
 Dichas medidas pueden ser precautorias, de conservación o restitutorias, según lo requiera la naturaleza del asunto.
 
@@ -909,9 +989,11 @@ V.- Efectuar todas las demás acciones que juzgue convenientes para el mejor con
 
 #### Sección Segunda. De las Pruebas
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 79.
 
-Con el fin de documentar debidamente las evidencias en un expediente de queja o denuncia por presuntas violaciones a derechos humanos, la Comisión podrá solicitar la rendición y desahogar todas aquellas pruebas que a juicio del Presidente o de los Visitadores, resulten indispensables; con la única limitación de que éstas se encuentren previstas como tales por la Legislación Mexicana.
+Con el fin de documentar debidamente las evidencias en un expediente de queja o denuncia por presuntas violaciones a derechos humanos, la Comisión podrá solicitar la rendición y desahogar todas aquellas pruebas que a juicio de la persona titular de la comisión o de los Visitadores, resulten indispensables; con la única limitación de que éstas se encuentren previstas como tales por la Legislación Mexicana.
 
 ###### Artículo 80.
 
@@ -947,13 +1029,17 @@ Concluida la investigación y rechazada la Propuesta de Solución, la o el Visit
 
 En el proyecto de recomendación, se señalarán las medidas que procedan para la efectiva restitución de los derechos de los afectados.
 
-El proyecto antes mencionado será sometido a la Presidenta o el Presidente de la Comisión para su consideración y resolución final.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+El proyecto antes mencionado será sometido a la persona titular de la comisión para su consideración y resolución final.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 85.
 
-La Presidenta o el Presidente de la Comisión analizará los proyectos de Propuestas de Solución, de Recomendación, los Acuerdos de no Responsabilidad y de Conclusión presentados por las o los Visitadores Generales, elaborará las observaciones que considere pertinentes y en su caso, los suscribirá.
+La persona titular de la comisión analizará los proyectos de Propuestas de Solución, de Recomendación, los Acuerdos de no Responsabilidad y de Conclusión presentados por las Visitadurías Generales, elaborará las observaciones que considere pertinentes y en su caso, los suscribirá.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
 
 Los procedimientos de queja podrán terminar con un acuerdo de no responsabilidad, un acuerdo de conclusión, la emisión de una propuesta de solución debidamente aceptada y cumplida, de una recomendación o la orientación a las personas quejosas.
 
@@ -1017,9 +1103,11 @@ Las notificaciones que se considere deban realizarse de forma personal, si el do
 
 Las personas quejosas, reclamantes o quienes las reciban en su nombre, deberán firmar las notificaciones, si no saben firmar o no quisieren hacerlo, quien notifique asentará esa circunstancia. La persona encargada de realizar la notificación, de ser posible, deberá anotar el nombre, domicilio, y los datos de identificación de la persona que le atiende.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 92.
 
-El Presidente de la Comisión deberá publicar en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión.
+La persona titular de la comisión deberá publicar en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad de la Comisión.
 
 En casos excepcionales podrá determinar si dichos dictámenes sólo deben comunicarse a los interesados, de acuerdo con las circunstancias particulares.
 
@@ -1035,9 +1123,11 @@ La correspondencia dirigida a la Comisión, desde cualquier centro de reclusión
 
 Todas las autoridades y servidores públicos involucrados en asuntos de la competencia de la Comisión, inclusive aquellos que no hubiesen intervenido en los actos u omisiones reclamados pero que por razón de su competencia o actividad, puedan proporcionar información pertinente, deberán cumplir de inmediato con las solicitudes de la Comisión en tal sentido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 95.
 
-Cuando las autoridades o servidores públicos a los que se les solicite información o documentación afirmen que tienen carácter confidencial o reservado, lo comunicarán a la Comisión y expresarán las razones para considerarla así. En ese supuesto, los Visitadores Generales tendrán la facultad de hacer la calificación definitiva sobre la reserva, y solicitar que se les proporcione la información o documentación que se manejará en la más estricta confidencialidad.
+Cuando las autoridades o servidores públicos a los que se les solicite información o documentación afirmen que tienen carácter confidencial o reservado, lo comunicarán a la Comisión y expresarán las razones para considerarla así. En ese supuesto, la Visitaduría General tendrán la facultad de hacer la calificación definitiva sobre la reserva, y solicitar que se les proporcione la información o documentación que se manejará en la más estricta confidencialidad.
 
 La confidencialidad de la información que reciba la Comisión deberá sujetarse a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo.
 
@@ -1201,13 +1291,15 @@ XIII.- Asuntos religiosos.
 
 ### Capítulo XVI. Del Informe de Actividades
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 114.
 
-El Presidente de la Comisión rendirá anualmente un informe de actividades ante el Poder Legislativo, en el cual se incluirá un diagnóstico de la situación que guardan los derechos humanos y el combate a la discriminación en el Estado.
+La persona titular de la comisión rendirá anualmente un informe de actividades ante el Poder Legislativo, en el cual se incluirá un diagnóstico de la situación que guardan los derechos humanos y el combate a la discriminación en el Estado.
 
-El informe se debe presentar dentro de los treinta días siguientes a la fecha en que se cumpla cada año de haber sido nombrado. En el último año de gestión, el Presidente deberá presentar su informe con una antelación no menor a los quince días anteriores a la fecha en que cesará en el cargo.
+El informe se debe presentar dentro de los treinta días siguientes a la fecha en que se cumpla cada año de haber sido nombrado. En el último año de gestión, la persona titular de la comisión deberá presentar su informe con una antelación no menor a los quince días anteriores a la fecha en que cesará en el cargo.
 
-El Presidente podrá ser llamado por el Congreso, con el objeto de ampliar o dar explicaciones de las materias contenidas en su informe. Sin embargo, en ningún caso dichas comparecencias podrán dar lugar a censura o reconvención alguna hacía la labor de la Comisión.
+La persona titular de la comisión podrá ser llamado por el Congreso, con el objeto de ampliar o dar explicaciones de las materias contenidas en su informe. Sin embargo, en ningún caso dichas comparecencias podrán dar lugar a censura o reconvención alguna hacía la labor de la Comisión.
 
 ###### Artículo 115.
 
@@ -1225,9 +1317,11 @@ Para ello, el informe podrá contener propuestas dirigidas a las autoridades par
 
 El informe de actividades será difundido de la manera más amplia posible, para el conocimiento general. Dicha difusión estará a cargo de la propia Comisión.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 118.
 
-Adicionalmente, el Presidente deberá presentar un informe de forma trimestral de las actividades realizadas, ante el Consejo, conforme a lo dispuesto en el Reglamento Interno.
+Adicionalmente, la persona titular de la comisión deberá presentar un informe de forma trimestral de las actividades realizadas, ante el Consejo, conforme a lo dispuesto en el Reglamento Interno.
 
 ### Capítulo XVII. De la Transparencia y la Rendición de Cuentas
 
@@ -1235,9 +1329,11 @@ Adicionalmente, el Presidente deberá presentar un informe de forma trimestral d
 
 El personal de la Comisión deberá dar trato confidencial a la información o documentación relativa a los asuntos de su competencia, mientras se efectúan las investigaciones relativas a las quejas o denuncias de que conozca, sin perjuicio de lo establecido por la legislación sobre transparencia y rendición de cuentas del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 120.
 
-Las resoluciones, conclusiones o recomendaciones de la Comisión serán públicas y podrán ser publicadas en el Periódico Oficial del Estado de Hidalgo, cuando el Presidente lo estime necesario.
+Las resoluciones, conclusiones o recomendaciones de la Comisión serán públicas y podrán ser publicadas en el Periódico Oficial del Estado de Hidalgo, cuando la persona titular de la comisión lo estime necesario.
 
 ###### Artículo 121.
 
@@ -1275,9 +1371,11 @@ La selección del personal jurídico, técnico y administrativo se llevará a ca
 
 El patrimonio de la Comisión se constituye con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Estado, así como por los ingresos que reciba por cualquier concepto, derivados de la aplicación de las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 127.
 
-La Comisión tendrá la facultad de elaborar el anteproyecto de Presupuesto anual de Egresos, el cual remitirá al Gobernador del Estado, para que lo considere dentro del Proyecto de Presupuesto Estatal que debe enviarse al Congreso local.
+La Comisión tendrá la facultad de elaborar el anteproyecto de Presupuesto anual de Egresos, el cual remitirá al titular del Poder Ejecutivo, para que lo considere dentro del Proyecto de Presupuesto Estatal que debe enviarse al Congreso local.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2016)</small>
 
@@ -1369,7 +1467,9 @@ XVII. Proponer los proyectos de modificación o actualización de su estructura 
 
 XVIII. Formular el anteproyecto de presupuesto del Órgano Interno de Control;
 
-XIX. Presentar a la Comisión los informes semestral y anual de resultados de su gestión, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado, y comparecer ante la Comisión, cuando así lo requiera el Presidente;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XIX.- Presentar a la Comisión los informes semestral y anual de resultados de su gestión, mismo que entregará a la Auditoría Superior del Estado y al Congreso del Estado, y comparecer ante la Comisión, cuando así lo requiera la persona titular de la comisión;
 
 XX. Presentar a la Comisión los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas;
 
@@ -1399,7 +1499,9 @@ VI. No pertenecer o haber pertenecido en los tres años anteriores a su designac
 
 VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
 
-VIII. No haber sido Gobernador, Titular de alguna Dependencia Estatal, Procurador General de Justicia del Estado, Diputado Local o Presidente Municipal, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VIII. No haber sido Titular del Poder Ejecutivo, Titular de alguna Dependencia Estatal, Procurador General de Justicia del Estado, Diputado Local o Presidente Municipal, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -1522,3 +1624,9 @@ P.O. 15 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 283 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
