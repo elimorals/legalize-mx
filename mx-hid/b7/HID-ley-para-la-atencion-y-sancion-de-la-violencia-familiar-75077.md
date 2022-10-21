@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-atencion-y-sancion-de-la-violencia-familiar-75077"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-24"
-last_updated: "2021-09-13"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de mayo de 2010.
 
@@ -75,11 +75,17 @@ VII.- Violencia Familiar.- Todo acto de poder u omisión que cause daño, produc
 
 El establecimiento de límites a los menores de edad, realizados por los padres para su formación y educación de los mismos, en ningún caso justifica el ejercicio de ningún tipo de violencia.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Se reconoce a la violencia vicaria como violencia familiar.
+
 VIII.- Celotipia.- Es el conjunto de emociones que se traducen en una conducta de inseguridad, caracterizada por un estado ansioso, ante el temor de perder el afecto o la atención de la persona seleccionada como objeto.
 
 IX.- Generador de Violencia Familiar.- Persona que inflige cualquier tipo de violencia en contra de la familia o alguno de sus miembros;
 
-X.- Receptores de Violencia Familiar.- Los individuos que viven la violencia física, verbal, psícoemocional, sexual, patrimonial o económica; y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+X.- Receptores de Violencia Familiar.- Los individuos que viven la violencia física, verbal, psicoemocional, vicaria, sexual, patrimonial o económica; y
 
 XI.- Parentesco.- Vínculo jurídico que une a una persona con el resto de la familia, reconociéndose al efecto el parentesco por consanguinidad, afinidad o civil.
 
@@ -470,5 +476,11 @@ TERCERO.- El valor de la Unidad de Medida y Actualización será determinado con
 P.O. 13 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 748 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 253 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO Y LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
