@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2022-03-28"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -39,7 +39,7 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 A N T E C E D E N T E S
 
-...
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -137,9 +137,9 @@ XII.- El Ejecutivo: El Titular del Poder Ejecutivo del Estado de Hidalgo;
 
 XIII.- Equipamiento urbano: El conjunto de inmuebles, instalaciones, construcciones y mobiliario urbano, de propiedad pública o privada, utilizados para prestar a la población los servicios urbanos y desarrollar las actividades económicas;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-XIV.- Estudio de impacto urbano y vial: El documento que los propietarios o promoventes de una acción urbana, deben de presentar a la Secretaría, el cual contendrá los posibles efectos de aquellas acciones urbanas que por su magnitud y características ameritan su identificación, prevención y mitigación;
+XIV.- Estudio de impacto urbano, vial y de riesgos: El documento que los propietarios o promoventes de una acción urbana, deben de presentar a la Secretaría, el cual contendrá los posibles efectos y riesgos de aquellas acciones urbanas que por su magnitud y características ameritan su identificación, prevención y en su caso las medias de mitigación, en los términos de las normas, planes, programas, leyes y reglamentos vigentes;
 
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -352,6 +352,10 @@ XXII TER.- Expedir las constancias de viabilidad, de conjuntos urbanos y de acci
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 XXII QUATER.- En coordinación con los municipios, expedir la autorización de venta y escrituración de lotes y vivienda en el estado;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XXII Quinquies.- En coordinación con los municipios, prevenir el establecimiento de asentamientos humanos en zonas de riesgo o no urbanizables, conforme a los planes o programas de desarrollo urbano, atlas de riesgos, la Ley General de Asentamientos Humanos, la presente Ley y su reglamento.
 
 XXIII.- Participar en la conformación de acciones en materia de dotación de infraestructura, equipamiento y servicios urbanos;
 
@@ -681,7 +685,9 @@ Los programas que contempla esta Ley, una vez aprobados publicados e inscritos e
 
 Estos programas serán de observancia obligatoria para los particulares y las autoridades en el ámbito de sus respectivas jurisdicciones.
 
-Todo trámite derivado de una acción urbana, deberá sujetarse a lo establecido en esta Ley y en los Programas de Desarrollo Urbano correspondientes, en caso contrario, estarán afectados de nulidad absoluta.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Todo trámite derivado de una acción urbana, deberá sujetarse a lo establecido en la Ley General de Asentamientos Humanos, la presente Ley, y en los Programas de Desarrollo Urbano y Sistemas de Atlas de Riesgo correspondientes, en caso contrario, estarán afectados de nulidad absoluta.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -923,6 +929,10 @@ La planeación, construcción y operación de la infraestructura, el equipamient
 
 Los programas establecidos en el Sistema, determinarán la conveniencia y forma de articulación en los asentamientos humanos, de vías generales de comunicación, oleoductos, gasoductos, acueductos, canales y en general, toda clase de redes de transportación, distribución y suministro, con la intervención que corresponda a las Autoridades Federales, Estatales y Municipales competentes.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Las autoridades estatales y municipales procurarán la instrumentación de mobiliario para el estacionamiento de bicicletas y otros vehículos impulsados por tracción humana en los edificios que ocupan, en los términos de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano.
+
 ###### ARTICULO 61.
 
 Los anteproyectos para la instalación, construcción o modificación de la infraestructura y del equipamiento urbano, así como para la prestación de los servicios públicos, serán sometidos a la consideración de las Autoridades correspondientes.
@@ -1012,6 +1022,14 @@ Los programas que establece esta Ley deberán adecuarse a los requerimientos que
 ###### ARTICULO 70.
 
 Las actividades e inversiones que en materia de protección ecológica, conservación, mejoramiento, así como las acciones urbanas que realicen la Federación, el Estado, los Municipios y los particulares, deberán atender al análisis de la prevención y reducción de los efectos destructivos de un desastre o emergencia.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Las autoridades facultadas para otorgar licencias o autorizaciones de construcción, edificación, usos de suelo, lotificaciones, fraccionamientos o cualquier acción de urbanización deberán observar que el solicitante cumpla de manera absoluta con los requisitos que las normas en la materia se establezcan, y en específico el Estudio de impacto urbano, vial y de riesgos, para garantizar que no se establezcan asentamientos humanos en zonas de riesgo sin que se tomen las medidas de mitigación correspondientes.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Cuando la autoridad respectiva autorice una licencia sin cumplimiento a lo dispuesto en el párrafo anterior, la misma será declarada como nula y no surtirá ningún efecto jurídico alguno, además de considerarse como una conducta grave por parte de la o el servidor público autorizador y se sancionara de acuerdo con la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo, además de las responsabilidades penales a las que haya lugar.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -2608,3 +2626,15 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 174 QUE ADICIONA LA FRACCIÓN XVIII BIS AL ARTÍCULO 4 Y SE REFORMAN LOS ARTÍCULOS 40, 42, 43, 44, 45 Y 46, DE (SIC) LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTARADO DE HIDALGO".]
 
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 247 QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 60 DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 265 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
