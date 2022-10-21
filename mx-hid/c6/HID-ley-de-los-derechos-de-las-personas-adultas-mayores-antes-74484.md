@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2022-04-12"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -577,6 +577,22 @@ VIII.- Garantizar la educación para las personas adultas mayores, que comprende
 
 IX.- Garantizar en todo momento la libre opción de integrarse a las actividades implementadas para la población en general, o a las específicas para las personas adultas mayores.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 22 Bis.
+
+A la Secretaría de Cultura le corresponde:
+
+I.- Facilitar el acceso a la cultura de las personas adultas mayores, promoviendo su expresión a través de talleres, exposiciones, concursos y eventos comunitarios en el Estado;
+
+II.- Establecer los convenios ante las Instancias correspondientes para promover el acceso gratuito o con descuentos especiales a eventos culturales y artísticos que organice el Estado, los Municipios y la iniciativa privada, previa acreditación de edad;
+
+III.- Fomentar programas culturales y concursos dirigidos a las personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes;
+
+IV.- Incentivar a través de programas y acciones de reconocimiento y estímulo, los aportes de las personas adultas mayores a las diferentes expresiones artísticas y culturales; y
+
+V.- Fomentar entre la población una cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de los adultos mayores.
+
 ###### Artículo 23.
 
 A la Secretaría de Desarrollo Económico, le corresponde:
@@ -984,3 +1000,9 @@ P.O. 12 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 185 POR EL QUE SE REFORMA EL ARTÍCULO 15, FFRACCIÓN XIX, DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 281 QUE ADICIONA EL ARTÍCULO 22 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
