@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2022-05-23"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -196,6 +196,10 @@ VI.- Planear, fomentar, promover, desarrollar, estimular, evaluar, fijar lineami
 VII.- Poner en marcha acciones en materia de deporte, con base en las opiniones del Instituto;
 
 VIII.- Otorgar reconocimientos y estímulos a las personas que en lo individual o colectivo, Entidades y organizaciones sociales hayan sobresalido y distinguido en materia deportiva en eventos Estatales, Nacionales o Internacionales, o se distingan por sus actividades en el fomento, difusión, promoción e investigación deportiva y de la cultura física;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VIII Bis.- Fomentar el desarrollo, participación y reconocimiento de las mujeres en las diferentes disciplinas deportivas, así como en la vida deportiva.
 
 IX.- Suscribir convenios y acuerdos de coordinación que se hagan necesarios con la Federación, Entidades federativas, ayuntamientos o Entidades públicas y privadas, Nacionales o Internacionales, que tengan por objeto la promoción, difusión, fomento e investigación deportiva para la consecución de sus fines, de conformidad con esta Ley;
 
@@ -452,6 +456,12 @@ Las dependencias y entidades de la Administración Pública Estatal y los ayunta
 Los Municipios de la Entidad ejercerán la debida concurrencia con el Estado encaminada a la elaboración, ejecución y operación de programas, obras, servicios y acciones de acuerdo con sus capacidades técnicas, administrativas y financieras para que en materia de deporte se celebren Convenios de Coordinación, en términos de la normatividad aplicable.
 
 Al efecto se observará el contenido del Capítulo Cuarto, Título Tercero de la Ley Orgánica Municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 34 Bis.
+
+El Instituto Hidalguense del Deporte y los Ayuntamientos conforme a sus atribuciones y competencias, promoverán mecanismos y acciones encaminadas a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Privada y Protección Civil.
 
 #### SECCIÓN I
 
@@ -1712,3 +1722,15 @@ P.O. 23 DE MAYO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 252 QUE ADICIONA EL ARTÍCULO 34 BIS A LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 278 POR EL QUE SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 9 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
