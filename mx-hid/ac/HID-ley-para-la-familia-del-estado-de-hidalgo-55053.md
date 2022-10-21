@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2022-07-15"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -745,11 +745,11 @@ La disolución del matrimonio por divorcio sólo podrá tener lugar por sentenci
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 109.
 
-La custodia de las hijas e hijos menores estará bajo la responsabilidad de la madre o el padre o de cualquier otra persona según las circunstancias que considere el juzgador en relación con la edad del menor o alguna causa que ponga en riesgo su integridad física o psíquica que impida su sano desarrollo, atendiendo siempre el interés superior de la niñez y la adolescencia.
+La custodia de las hijas e hijos menores estará bajo la responsabilidad de la madre, el padre, de ambos; o de cualquier otra persona según las circunstancias que considere el juzgador en relación con la edad del menor y cerciorado de que no exista alguna causa que ponga en riesgo su integridad física o psíquica que impida su sano desarrollo, atendiendo siempre el interés superior de la niñez y la adolescencia.
 
 ###### Artículo 110.
 
@@ -920,6 +920,10 @@ V.- El Ministerio Público.
 ###### Artículo 137.
 
 El aseguramiento de los alimentos se hará por cualquier medio de garantía regulado por la Ley, el Juez Familiar y el Ministerio Público vigilarán la existencia real y efectiva de la garantía.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+En caso de que se determine que dos personas ejercerán una custodia compartida, se verificará la situación de los alimentos hacia el menor, buscando no sea desproporcional y, según el caso, procederá el aseguramiento de alimentos por parte de ambos.
 
 ###### Artículo 138.
 
@@ -1331,9 +1335,11 @@ Para el caso de hijos no reconocidos por ambos, será el Estado quien otorgue, p
 
 Cualquiera de los cónyuges podrá reconocer al hijo habido antes de su matrimonio, sin el consentimiento del otro cónyuge, pero no tendrá derecho a llevarlo a vivir a su domicilio conyugal, si no es con la anuencia expresa de éste.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 201.
 
-Cuando el padre y la madre no vivan juntos y reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá su custodia. Si no lo hicieren, el Juez Familiar oyendo a las partes, resolverá lo más conveniente al interés del menor.
+Cuando el padre y la madre no vivan juntos y reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá su custodia o si ambos lo harán de manera compartida. Si no lo hicieren, el Juez Familiar oyendo a las partes, resolverá lo más conveniente al interés del menor.
 
 ###### Artículo 202.
 
@@ -1577,9 +1583,15 @@ En caso de separación de quienes ejercen la patria potestad, ambos deberán con
 
 En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+De igual forma, podrán convenir o, en su caso, el Juez Familiar resolverá, respecto de que la guarda y custodia se ejerza de manera compartida, en cuyo caso, el cuidado y atención de las hijas e hijos seguirá a cargo de ambos, quienes tendrán los mismos derechos y obligaciones de crianza, en igualdad de condiciones. Esta resolución no causa estado y podrá modificarse en el futuro por causas supervenientes.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 218.
 
-Cuando los padres del hijo nacido fuera de matrimonio se separen, ambos continuarán ejerciendo la patria potestad, deben convenir quién conservará la custodia y en caso de que no se pongan de acuerdo sobre ese punto, el juez designará al progenitor que mejor garantice el desarrollo integral del menor o incapacitado. Esta resolución no causa estado y podrá modificarse en el futuro por causas supervenientes.
+Cuando los padres del hijo nacido fuera de matrimonio se separen, ambos continuarán ejerciendo la patria potestad, deben convenir quién conservará la custodia, o si la ejercerán de manera compartida, y en caso de que no se pongan de acuerdo sobre ese punto, el juez designará al progenitor que mejor garantice el desarrollo integral del menor o incapacitado. Esta resolución no causa estado y podrá modificarse en el futuro por causas supervenientes.
 
 ###### Artículo 219.
 
@@ -1593,13 +1605,17 @@ No podrán impedirse, sin justa causa, las relaciones personales entre el menor 
 
 Cuando los progenitores hayan reconocido al hijo, ambos ejercerán la patria potestad.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 221.
 
-Si el padre y la madre no viven juntos y reconocen al hijo en el mismo acto, convendrán quién de los dos lo tendrá bajo su custodia. En caso de controversia resolverá el Juez Familiar.
+Si el padre y la madre no viven juntos y reconocen al hijo en el mismo acto, convendrán quién de los dos lo tendrá bajo su custodia, o si ambos ejercerán la custodia de manera compartida. En caso de controversia resolverá el Juez Familiar.
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 222.
 
-Si los padres no viven juntos y el reconocimiento se efectúa en diferentes actos, la custodia la ejercerá quien lo haya reconocido primero, salvo impedimento legal.
+Si los padres no viven juntos y el reconocimiento se efectúa en diferentes actos, la custodia la ejercerá quien lo haya reconocido primero, salvo impedimento legal; y en tanto los padres convengan o el Juez Familiar resuelva en términos del artículo 217, de esta Ley.
 
 ###### Artículo 223.
 
@@ -3458,5 +3474,11 @@ P.O. 23 DE MAYO DE 2022.
 P.O. 15 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 220 QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 476 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 280 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
