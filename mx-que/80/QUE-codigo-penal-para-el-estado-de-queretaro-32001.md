@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2022-05-27"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1232,6 +1232,10 @@ Para los efectos previstos en la fracción III, se entenderá por amenaza, la so
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2022)</small>
 
 Desde el inicio de la investigación, se deberá dar vista a la autoridad correspondiente a efecto de que las personas dependientes de la víctima de feminicidio que sean menores de edad o las personas en situación de discapacidad, accedan a la atención integral, que garantice cuando menos servicios psicológicos, educativos, de salud, seguridad y representación, en los términos de la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+La pena se aumentará hasta en una tercera parte si la víctima fuera niña, adolescente o mujer con discapacidad.
 
 ### CAPITULO II. LESIONES
 
@@ -5054,3 +5058,13 @@ Artículo primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Aprobada la presente Ley, envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO, EN MATERIA DE FEMINICIDIO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Envíese al titular del Poder ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
