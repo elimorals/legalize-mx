@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vialidad-para-el-estado-libre-y-soberano-de-puebla-91334
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2021-11-04"
+last_updated: "2022-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -885,15 +885,29 @@ Para efectos de este artículo y tratándose de vehículos registrados en otra E
 
 ### CAPÍTULO II. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 54.
 
-En contra del acto administrativo de infracción procede la presentación del recurso de inconformidad, acorde con los preceptos señalados en el reglamento correspondiente.
+En contra del acto administrativo de infracción procede la presentación del recurso de inconformidad, acorde con lo dispuesto en este Capítulo y en el reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 55.
 
-El recurso de inconformidad, deberá presentarse por escrito ante el Director, en un término no mayor a tres días hábiles a partir de que se tenga conocimiento de lo contenido en el formato oficial en el que conste la infracción.
+El recurso de inconformidad, deberá presentarse por escrito ante el Director, en un término no mayor a quince días hábiles siguientes al de la notificación del acto impugnado o de aquel en que se tuvo conocimiento.
+
+La presentación del recurso de inconformidad suspenderá el plazo para el pago y exigibilidad del acto impugnado. La Dirección al admitir el recurso de inconformidad mantendrá la suspensión del pago y exigibilidad del acto impugnado.
+
+La suspensión mencionada en el párrafo anterior dejará de surtir efectos cuando el recurso:
+
+I. Se deseche o se tenga por no interpuesto;
+
+II. Se declare improcedente;
+
+III. Se sobresea, o
+
+IV. Se confirme la validez del acto impugnado.
 
 ###### ARTÍCULO 56.
 
@@ -990,6 +1004,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 85 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 85 BIS, ADICIONA EL ARTÍCULO 323 BIS, Y DEROGA LA FRACCIÓN I DEL ARTÍCULO 85 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; ASÍ MISMO REFORMA EL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II DEL ARTÍCULO 51, Y ADICIONA LA FRACCIÓN III AL 51 DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
