@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2022-04-18"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 18 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -112,9 +112,9 @@ XII. Criterios: Los lineamientos obligatorios contenidos en la presente Ley para
 
 XII Bis. Daño al ambiente: Pérdida, cambio, deterioro, menoscabo, afectación o modificación adversos y mesurables de los hábitats, de los ecosistemas, de los elementos y recursos naturales, de sus condiciones químicas, físicas y biológicas, de las relaciones e interacción que se dan entre éstos, así como de los servicios ambientales que proporcionan.
 
-> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
 
-XIII. Delegaciones: Los órganos político administrativos de cada demarcación territorial en las que se divide el Distrito Federal;
+XIII. Alcaldías: Los órganos político administrativos de cada demarcación territorial en las que se divide la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -354,13 +354,17 @@ XV. Aplicar las medidas de seguridad e imponer las sanciones que correspondan po
 
 XVI. La atención de los demás asuntos que en materia de los residuos sólidos le conceda esta Ley y otros ordenamientos en concordancia con ella y que no estén expresamente atribuidos a la Federación;
 
-> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
 
-XVII. Promover la certificación de empresas ambientalmente responsables para aquellas que por su convicción, autorregulación, mejora continua en sus procesos productivos, comercialización y venta de servicios, minimicen o reduzcan la generación de residuos. Esta certificación también deberá ser atribuible a los recolectores, acopiadores y comercializadores de residuos, que promuevan un manejo ambientalmente adecuado de los residuos y que no representen riesgos a la población; y
+XVII. Promover la certificación de empresas ambientalmente responsables para aquellas que por su convicción, autorregulación, mejora continua en sus procesos productivos, comercialización y venta de servicios, minimicen o reduzcan la generación de residuos. Esta certificación también deberá ser atribuible a los recolectores, acopiadores y comercializadores de residuos, que promuevan un manejo ambientalmente adecuado de los residuos y que no representen riesgos a la población;
 
-> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
 
-XVIII. Autorizar y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos y vigilar su funcionamiento.
+XVIII. Autorizar y registrar a los establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos y vigilar su funcionamiento; y
+
+> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+
+XIX. Fomentar el aprovechamiento de los residuos sólidos urbanos en procesos de generación de energía limpia, en coordinación con la Secretaría de Obras y Servicios y las alcaldías.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -530,9 +534,11 @@ La Comisión se reunirá en sesiones ordinarias bimestrales y en sesiones extrao
 
 ### CAPÍTULO II. DE LAS DISPOSICIONES COMPLEMENTARIAS DE LA POLÍTICA AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 11.
 
-La Secretaría, en coordinación con la Secretaría de Obras y Servicios y con opinión de las delegaciones, formulará y evaluará el Programa de Gestión Integral de los Residuos Sólidos, mismo que integrará los lineamientos, acciones y metas en materia de manejo integral de los residuos sólidos y la prestación del servicio público de limpia con base en los siguientes criterios:
+La Secretaría, en coordinación con la Secretaría de Obras y Servicios y con opinión de las Alcaldías, formulará y evaluará el Programa de Gestión Integral de los Residuos Sólidos, mismo que integrará los lineamientos, acciones y metas en materia de manejo integral de los residuos sólidos y la prestación del servicio público de limpia con base en los siguientes criterios:
 
 > <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2010)</small>
 
@@ -596,13 +602,23 @@ XVIII. Evitar el manejo y disposición de residuos de manejo especial líquidos 
 
 XVIII BIS.- Fomentar que la producción y el consumo de productos plásticos y poliestireno expandido se sujeten a los criterios y normas de sustentabilidad establecidos en la fracción XI del artículo 6º de la presente ley;
 
-XIX. Evitar la disposición final de los residuos sólidos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que puedan solubilizar las sustancias potencialmente tóxicas contenidas en ellos; y
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+
+XIX. Evitar la disposición final de los residuos sólidos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que pueden solubilizar las sustancias potencialmente tóxicas contenidas en ellos;
+
+> <small>(ADICIONADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+
+XIX BIS. El aprovechamiento de los residuos sólidos urbanos en procesos de generación de energía limpia; y
 
 XX. Los demás que establezca el Reglamento y otros ordenamientos aplicables.
 
-La Secretaría, la Secretaría de Obras y Servicios y las delegaciones ejecutarán, en el marco de su competencia, los contenidos del Programa de Gestión Integral de los Residuos Sólidos.
+> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2022)</small>
 
-Los programas de carácter metropolitano que acuerde el Gobierno del Distrito Federal considerarán las disposiciones que esta Ley establece para la gestión integral de los residuos sólidos.
+La Secretaría, la Secretaría de Obras y Servicios y las Alcaldías ejecutarán, en el marco de su competencia, los contenidos del Programa de Gestión Integral de los Residuos Sólidos.
+
+> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2022)</small>
+
+Los programas de carácter metropolitano que acuerde el Gobierno de la Ciudad de México consideraran las disposiciones que esta Ley establece para la gestión integral de los residuos sólidos.
 
 ###### Artículo 11 Bis.
 
@@ -892,13 +908,13 @@ Estos residuos sólidos, deben depositarse en contenedores separados para su rec
 
 El Reglamento definirá la subclasificación que deberá aplicar para la separación obligatoria de residuos sólidos, con base a las disposiciones del presente artículo para cada una de las clasificaciones establecidas, así como para los distintos tipos de generadores.
 
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 33 Bis.
 
-La Secretaría y las delegaciones deberán aplicar el método de separación de residuos en orgánicos e inorgánicos y de manera selectiva para el servicio de recolección, la cual será diferenciada conforme a los criterios señalados por las autoridades.
+La Secretaría y las Alcaldías deberán aplicar el método de separación de residuos en orgánicos e inorgánicos y de manera selectiva para el servicio de recolección, la cual será diferenciada conforme a los criterios señalados por las autoridades.
 
-La Administración Pública del Distrito Federal establecerá campañas de difusión sobre los métodos de separación y recolección de residuos aplicables en cada una de las delegaciones.
+La Administración Pública de la Ciudad de México establecerá campañas de difusión sobre los métodos de separación y recolección y recolección de residuos aplicables en cada una de las Alcaldías.
 
 > <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2014)</small>
 
@@ -906,11 +922,17 @@ La Administración Pública del Distrito Federal establecerá campañas de difus
 
 La Secretaría y la Secretaría de Obras y Servicios, en conjunto con las delegaciones, fomentarán que las instituciones educativas, empresas, establecimientos mercantiles, industriales y de servicios, instituciones públicas y privadas, centros educativos y dependencias gubernamentales y similares, lleven a cabo la separación de residuos, mediante el sistema de recolección diferenciada y selectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 34.
 
-La Secretaría de Obras y Servicios y las delegaciones, en el marco de sus respectivas competencias, instrumentarán los sistemas de depósito y recolección separada de los residuos sólidos, así como de aprovechamiento, tratamiento y disposición final, de conformidad con lo señalado en el Reglamento y el Programa de Gestión Integral de los Residuos Sólidos.
+La Secretaría de Obras y Servicios y las Alcaldías, en el marco de sus respectivas competencias, instrumentarán los sistemas de depósito y recolección separada de los residuos sólidos, así como de aprovechamiento, tratamiento y disposición final, de conformidad con lo señalado en el Reglamento y el Programa de Gestión Integral de los Residuos Sólidos.
 
 Los recipientes y contenedores que las autoridades dispongan en la vía pública deberán ser diferenciados para residuos urbanos en orgánicos e inorgánicos.
+
+> <small>(ADICIONADO, G.O. 21 DE OCTUBRE DE 2022)</small>
+
+Asimismo, dichas autoridades se coordinarán para colocar conforme a las necesidades de la demarcación territorial, contenedores diferenciados para depositar las heces de animales de compañía y mascotas en parques y jardines.
 
 ###### Artículo 35.
 
@@ -1495,3 +1517,21 @@ G.O. 18 DE ABRIL DE 2022.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII BIS AL ARTÍCULO 42 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 3º; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 34, AMBOS DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 6; LA FRACCIÓN XIX Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 11; EL ARTÍCULO 33 BIS; Y SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 6; ASÍ COMO UNA FRACCIÓN XIX BIS AL ARTÍCULO 11, TODOS DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. El Gobierno de la Ciudad de México emitirá los lineamientos necesarios para instrumentar el presente Decreto en un plazo no mayor a 120 días naturales. Dado a los 30 días del mes de agosto de 2022 y firmado para constancia y conformidad de los integrantes de la Comisión de Preservación del Medio Ambiente, Cambio Climático y Protección Ecológica.
