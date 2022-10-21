@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2021-12-27"
+last_updated: "2022-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -120,6 +120,14 @@ El Gobernador del Estado determinará los asuntos específicos en que las Depend
 El Gobernador del Estado, de conformidad con lo dispuesto por la legislación aplicable en la materia, fijará y conducirá la política de igualdad entre mujeres y hombres, de acceso de las mujeres a una vida libre de violencia, paridad de género, educativa, cultural y deportiva y determinará la orientación de la planeación, organización, dirección y evaluación de los programas y metas. En materia de salud y ecología, lo hará de acuerdo con las disposiciones legales vigentes.
 
 Como parte de la política que desarrolle la persona Titular del Poder Ejecutivo Estatal al interior de las Dependencias y Entidades de la Administración Pública, deberá promover las acciones necesarias para prevenir el acoso y hostigamiento laboral, por medio de la elaboración y difusión de protocolos y campañas informativas.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 8 Bis.
+
+La persona titular del Poder Ejecutivo del Estado de Hidalgo conducirá la política pública en materia de protección a los derechos humanos de la población de la diversidad sexual, orientación sexual, identidad de género, expresión de género o características sexuales.
+
+Para lo anterior considerará medidas de inclusión en el ámbito público, promoción de la tolerancia y no discriminación; de prevención, atención y erradicación de todo tipo de violencia a este sector poblacional, así como, la impartición de cursos y/o capacitaciones que sensibilicen a las personas servidoras públicas de la administración pública estatal en materia de orientación sexual, identidad de género y expresión de género.
 
 ###### Artículo 9.
 
@@ -399,13 +407,17 @@ XXIX.- Coordinar la vinculación de los municipios, con las dependencias estatal
 
 XXX.- Formular, regular y conducir la política de comunicación social para difundir la imagen del Estado y el quehacer gubernamental, así como el Plan de Trabajo, objetivos y metas de las dependencias y entidades de la Administración Pública Estatal, coordinando las relaciones con los medios de comunicación;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-XXXI.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias y entidades de la Administración Pública Estatal, para la difusión de mensajes sobre programas y actividades gubernamentales; y
+XXXI.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias y entidades de la Administración Pública Estatal, para la difusión de mensajes sobre programas y actividades gubernamentales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2022)</small>
 
-XXXII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XXXII.- Ejecutar la política pública en materia de diversidad sexual, orientación sexual, identidad de género, expresión de género o características sexuales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XXXIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1960,3 +1972,9 @@ P.O. 27 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 251 QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
