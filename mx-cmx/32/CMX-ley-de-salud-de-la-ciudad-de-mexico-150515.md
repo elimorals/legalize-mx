@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2021-08-09"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-08-06"
 
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -90,7 +90,9 @@ III. Interés superior de las niñas, niños y adolescentes: principio bajo el c
 
 IV. Interculturalidad: reconocimiento, salvaguarda, respeto y ejercicio del derecho de toda persona y comunidad a tener, conservar y fortalecer sus rasgos socioculturales y diferencias, que se desarrollan en el espacio privado y público, haciendo posible la interacción y mezcla entre sociedades culturales;
 
-V. Perspectiva de género: metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+> <small>(REFORMADA, G.O. 21 DE OCTUBRE DE 2022)</small>
+
+V. Perspectiva de Género: Es método de análisis, social, cultural, antropológico, interseccional, político, científico, y jurídico, que aborda todas las áreas del conocimiento, sobre dinámicas y relaciones de poder socialmente construidas entre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, discriminación, los prejuicios, estereotipos, la injusticia y la jerarquización de las personas, todo ello basado en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en todos los ámbitos.
 
 VI. Progresividad: obligación del Gobierno de generar gradualmente un progreso en la promoción, respeto, protección y garantía del derecho a la salud, de tal forma, que siempre esté en constante evolución y bajo ninguna regresividad;
 
@@ -1392,9 +1394,31 @@ II. A acceder de forma gratuita, eficiente y oportuna a los servicios médicos d
 
 III. A recibir el tratamiento médico cuya eficacia y seguridad estén acreditadas con evidencia científica, y que constituya la mejor alternativa terapéutica, incluyendo los padecimientos e infecciones oportunistas asociadas al VIH o SIDA.
 
+> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 75.
 
-Los servicios de atención médica que se ofrezcan para el VIH/SIDA incluirán, entre otros, servicios permanentes de prevención, información y consejería, acceso de la población abierta a condones, pruebas de detección, dotación oportuna de medicamentos y antirretrovirales, cuidado médico contra las enfermedades oportunistas, campañas permanentes e intensivas de fomento y apoyo a la investigación científica, entre otros.
+Los servicios de atención médica que se presten para la prevención y detección integral del VIH/SIDA y de otras ITS deberán estar libres de estereotipos, prejuicios o estigmas, y deberán garantizar que las personas usuarias de los mismos reciban el tratamiento médico cuya eficacia y seguridad estén acreditadas con evidencia científica, y que constituya la mejor alternativa terapéutica, incluyendo los padecimientos e infecciones oportunistas asociadas al VIH o SIDA.
+
+Dichos servicios incluirán servicios permanentes y universales de prevención, atención, información y consejería, como:
+
+a) Promover y proveer servicios de prevención de la transmisión del VIH;
+
+b) Realizar acciones necesarias para la reducción de la transmisión sexual del VIH; las cuales se enuncian en todos los incisos que conforman el presente artículo.
+
+Dichas acciones se realizarán en coordinación de todas las alcaldías de la Ciudad de México de manera permanente, quienes deberán formular, respectivamente; estrategias y programas bajo un estándar de calidad para dar cumplimiento a lo referido en este artículo.
+
+c) Aplicar estrategias de prevención combinadas y de acceso a los servicios de prevención y atención médica, con énfasis en las poblaciones clave en la transmisión del VIH/SIDA;
+
+Entendiendo por poblaciones clave las referentes a los grupos de personas que con base en la Vigilancia Epidemiológica de casos de VIH/SIDA y las cifras estadísticas tanto del INEGI, como del Centro Nacional para la Prevención y el Control del VIH y el sida (CENSIDA), respecto de los lugares dentro de la Ciudad de México con mayor índice de contagios y muertes a causa del virus del VIH/SIDA.
+
+d) Fomentar la detección temprana y el ingreso oportuno a tratamiento contra el VIH/SIDA, así como la integración de las personas usuarias a los servicios de salud especializada;
+
+e) Asegurar que la población clave disponga de los insumos de prevención correspondientes, como el acceso al tratamiento antirretroviral, la atención especializada ambulatoria, la prevención de riesgos a la salud asociadas (sic) al VIH/SIDA, realización de pruebas de detección, dotación oportuna de medicamentos, condones y cuidado médico contra las ITS.
+
+f) Elaborar materiales de comunicación, información y educación dirigidos a las poblaciones clave en la transmisión de la epidemia del VIH/SIDA con la promoción de prácticas de sexo seguro y sexo protegido, incluyendo el uso del condón y la reducción de daños en personas usuarias de drogas inyectables;
+
+g) Realización de campañas permanentes e intensivas de fomento y apoyo a la investigación científica.
 
 ###### Artículo 76.
 
@@ -1440,9 +1464,11 @@ Las poblaciones en situación de vulnerabilidad en la transmisión del VIH/SIDA 
 
 El Gobierno, establecerá medidas generales a favor de la igualdad sustantiva de oportunidades y de trato de toda persona que viva con VIH/SIDA, mediante el diseño e instrumentación de políticas públicas eficientes y expeditas.
 
+> <small>(REFORMADO, G.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 79.
 
-Los Servicios de Salud Pública de la Ciudad dispondrán de programas, servicios y unidades especializadas de atención médica para el cumplimiento de sus obligaciones en materia de prevención, atención médica integral y control del VIH-SIDA. La Unidad Administrativa para la Prevención y Atención Integral del VIH/SIDA de la Ciudad de México, privilegiará las acciones de prevención, especialmente de la población abierta, para lo cual se coordinarán con las autoridades educativas y los sectores social y privado, así como la atención médica oportuna e integral de las personas que vivan con el Virus o el Síndrome.
+Los Servicios de Salud Pública de la Ciudad dispondrán de programas, servicios y unidades especializadas de atención médica para el cumplimiento de sus obligaciones en materia de prevención, atención médica integral y control del VIH-SIDA. La Unidad Administrativa para la Prevención y Atención Integral del VIH/SIDA, en este caso la Dirección Ejecutiva del Centro para la Prevención y atención integral del VIH/SIDA de la Ciudad de México en coordinación con las Clínicas Especializadas para la Prevención y Atención Integral del VIH/SIDA (clínica condesa y clínica condesa Iztapalapa), ambas de la Ciudad de México, privilegiarán acciones de prevención, especialmente de la población abierta, para lo cual se coordinarán con las autoridades educativas y los sectores social y privado, así como la atención médica oportuna e integral de las personas que vivan con el Virus o el Síndrome.
 
 ###### Artículo 80.
 
@@ -2753,3 +2779,13 @@ DÉCIMO. En cuanto a lo relativo a la aplicación del tamiz neonatal ampliado, e
 Palacio Legislativo del Congreso de la Ciudad de México, a los siete días del mes de julio del año dos mil veintiuno.- POR LA MESA DIRECTIVA, DIPUTADA ANA PATRICIA BAEZ GUERRERO, PRESIDENTA, DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA, DIPUTADO PABLO MONTES DE OCA DEL OLMO (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los seis días del mes de agosto del año dos mil veintiuno.-LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- LA SECRETARIA DE CULTURA, VANNESA BOHÓRQUEZ LÓPEZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FADLALA AKABANI HNEIDE.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM URZU´A VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSION Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA. LA SECRETARIA DE LAS MUJERES, INGRID GÓMEZ SARACÍBAR.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDIGENAS, LAURA ITA ANDEHUI RUIZ MONDRAGÓN.- FIRMA. LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3 Y LOS ARTÍCULOS 75 Y 79 TODOS DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
