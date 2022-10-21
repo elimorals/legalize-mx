@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-integral-de-justicia-para-adolescentes-del-1018
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-11"
-last_updated: "2020-11-27"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2014.
 
@@ -2951,6 +2951,16 @@ DERECHO DE LAS MADRES ADOLESCENTES. Las madres adolescentes que cumplan una medi
 
 En el caso de mujeres internas embarazadas, se procurará que el parto se realice en un centro hospitalario o asistencial ajeno al centro de internación; pero si el niño naciera en éste, deberá brindarse la atención necesaria tanto a la madre como al menor y no deberá constar aquella circunstancia en su acta de nacimiento. En su caso las actas de nacimiento de los niños nacidos en los centros de internación señalarán como domicilio el del padre, o en su defecto el que tenía la adolescente antes de su internación en el centro.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 265 BIS.- DERECHOS RELATIVOS A LA HIGIENE MENSTRUAL. Las autoridades penitenciarias deberán promover, a las mujeres sujetas a medidas privativas de la libertad provisional o de internación, el goce de todos los derechos relativos a su higiene menstrual, incluidos el acceso a:
+
+I. El agua, saneamiento y servicios sanitarios para practicar la higiene menstrual y proteger la salud reproductiva;
+
+II. Los insumos y materiales adecuados, aceptables, y asequibles que sean necesarios para la higiene menstrual, y
+
+III. Las instalaciones seguras, privadas y adecuadas que permitan a las mujeres usar, cambiar y desechar los materiales menstruales.
+
 ###### ARTÍCULO 266.
 
 DERECHO A SALIR DEL CENTRO PARA RECIBIR ATENCIÓN MÉDICA. Sólo se podrá autorizar la salida del adolescente de los centros de internación, para atención médica hospitalaria que conforme al dictamen médico oficial respectivo deba suministrarse, o bien, para la práctica de estudios ordenados por la autoridad competente, así como cuando lo requieran las autoridades judiciales. En este caso el traslado del adolescente se llevará a cabo, tomando todas las medidas de seguridad que se estimen pertinentes, y que no sean violatorias de los derechos fundamentales del propio adolescente.
@@ -3588,3 +3598,43 @@ P.O. 27 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 277.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VI “SERVICIOS DE PLANIFICACIÓN FAMILIAR” DEL TÍTULO TERCERO “PRESTACIÓN DE LOS SERVICIOS DE SALUD” Y EL PRIMER PÁRRAFO DEL ARTÍCULO 63, Y SE ADICIONAN UNA FRACCIÓN VII AL ARTÍCULO 63, Y LOS ARTÍCULOS 65 BIS, 65 TER Y 221 BIS A LA LEY ESTATAL DE SALUD; SE ADICIONAN UNA FRACCIÓN XXIII AL ARTÍCULO 26 DE LA LEY ESTATAL DE EDUCACIÓN, SE ADICIONA UNA FRACCIÓN VII, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 49, UNA FRACCIÓN XIV, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 52 Y UNA FRACCIÓN VIII, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 53 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UNA FRACCIÓN IX, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 19 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UN INCISO E) AL ARTÍCULO 26 DE LA LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA EL ARTÍCULO 100 BIS A LA LEY DE EJECUCIÓN DE SANCIONES PENALES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA EL ARTÍCULO 265 BIS A LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- En un plazo no mayor a noventa días naturales desde la entrada en vigor de este Decreto, la Secretaría de Gobierno del Estado, la Secretaría de Educación y la Secretaría de Salud harán las modificaciones normativas, de infraestructura, presupuestales, de procedimientos, y las demás necesarias para promover los derechos señalados en el mismo.
+
+Tercero.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, la Secretaría de Gobierno, a través de las autoridades competentes, deberá expedir las reformas a los reglamentos y protocolos estatales y municipales vigentes en materia de internación de personas, centros de readaptación social, centros penitenciarios y de detención para establecer los derechos señalados en el mismo.
+
+Cuarto.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, la Secretaría de Educación, a través de las autoridades competentes, deberá expedir las reformas a los reglamentos y protocolos estatales y municipales vigentes sobre centros de educación del estado superior para establecer y promover los derechos señalados en el mismo.
+
+Quinto.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, las autoridades competentes deberán expedir las reformas a los reglamentos y protocolos estatales y municipales en materia sanitaria para establecer y promover los derechos señalados en el mismo a las mujeres en situación de vulnerabilidad.
+
+Sexto.- Las reformas a los reglamentos reformados en virtud de este Decreto deberán establecer y garantizar, al menos:
+
+I. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las niñas, adolescentes y mujeres en situación de vulnerabilidad, de acuerdo con la legislación vigente;
+
+II. La garantía del acceso de las niñas, adolescentes y mujeres a los derechos, insumos y materiales, e instalaciones necesarias para acceder y promover la higiene menstrual;
+
+III. La vigilancia por parte de las autoridades sanitarias competentes del cumplimiento de las medidas necesarias para la higiene menstrual de las niñas, adolescentes y mujeres, y
+
+IV. La investigación y sanción a las autoridades que impidan el acceso a los derechos relativos a la higiene menstrual.
+
+Séptimo.- Las reformas a los reglamentos reformados en virtud de este Decreto en materia de internación de personas, centros de readaptación social, centros penitenciarios y de detención además deberán establecer y promover:
+
+I. La protección del derecho de las mujeres privadas de su libertad para que puedan acceder por parte de sus familiares o a precios comerciales los insumos necesarios para la higiene menstrual, y
+
+II. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las adolescentes y mujeres privadas de su libertad en situación de vulnerabilidad.
+
+Octavo.- Las reformas a los reglamentos reformados en virtud de este Decreto en materia de centros de educación primaria, secundaria y media superior además deberán establecer y promover:
+
+I. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las niñas, adolescentes y mujeres de los centros de educación pública primaria, secundaria y media superior, y
+
+II. La creación de políticas y mecanismos para evitar el acoso escolar a las niñas, adolescentes y mujeres de los centros de educación primaria, secundaria y media superior en el ejercicio de sus derechos relativos a la higiene menstrual.
+
+Noveno.- Con fundamento del (sic) principio de la realización progresiva de los derechos, estos serán aplicados de acuerdo con los recursos materiales del Estado, mismos que permitan avanzar gradual y constantemente hacia la más plena realización de tales derechos.
+
+Decimo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
