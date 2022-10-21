@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-los-centros-de-asistencia-social-y-las-109572"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-20"
-last_updated: "2022-04-08"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 20 de agosto de 2015.
 
@@ -67,7 +67,17 @@ En todos los casos, el Sistema para el Desarrollo Integral de la Familia del Est
 
 III. Los principios, derechos, funciones y atribuciones de las autoridades y los procedimientos en materia de asistencia social y de adopción.
 
-IV. Las infracciones y sanciones derivadas del incumplimiento a las disposiciones de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE OCTUBRE DE 2022)</small>
+
+IV. La preparación y seguimiento de la integración social de las y de los adolescentes que egresen de Centros de Asistencia Social, en virtud de haber cumplido la mayoría de edad.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IV], G.G. 21 DE OCTUBRE DE 2022)</small>
+
+V. Las infracciones y sanciones derivadas del incumplimiento a las disposiciones de la presente Ley.
+
+> <small>(ADICIONADO, G.G. 21 DE OCTUBRE DE 2022)</small>
+
+La gestión de habilidades para la vida independiente, así como la preparación para la generación de proyectos a largo plazo para los adolescentes que se encuentran en acogimiento residencial en los Centros de Asistencia Social.
 
 ###### Artículo 2.
 
@@ -1760,3 +1770,11 @@ TERCERO. Los Sistemas Municipales DIF harán las previsiones presupuestarias nec
 CUARTO. El requisito referente a la capacitación y aprobación de la evaluación de conocimientos para las personas titulares de las Procuradurías de Protección Municipal dicha capacitación podrá ser solicitada mediante oficio por las o los Presidentes Municipales o las personas titulares de los Sistemas Municipales DIF en funciones, y la o el servidor público deberá solicitar al Instituto Hacendario del Estado de México la evaluación para obtener la certificación de la competencia laboral, teniendo un plazo de seis meses a partir de la publicación del presente decreto.
 
 QUINTO. El Ejecutivo del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de México, implementará estrategias de capacitación para brindar el curso especializado, evaluación y en su caso, la certificación de competencia laboral a los servidores públicos que la requieran.
+
+G.G. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 101.- POR EL QUE SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 10, LAS FRACCIONES III Y IX DEL ARTÍCULO 12; Y SE ADICIONA LA FRACCIÓN XIII BIS AL ARTÍCULO 10 DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 1; SE ADICIONA LA FRACCIÓN V Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 1 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
