@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-consejo-economico-social-y-ambiental-de-la-137
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-25"
-last_updated: "2021-12-27"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-19"
 
 LEY ORGÁNICA DEL CONSEJO, ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 142 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 25 de julio de 2019.
 
@@ -213,6 +213,10 @@ XI. La persona titular del Instituto de Planeación Democrática y Prospectiva d
 XII. La persona titular del Consejo de Evaluación de la Ciudad de México.
 
 Las personas invitadas permanentes, contarán con derecho a voz y voto en las sesiones de la Asamblea General del Consejo y pudiendo nombrar a un representante con un cargo al menos de dirección de área.
+
+> <small>(ADICIONADO, G.O. 21 DE OCTUBRE DE 2022)</small>
+
+Cuando la Comisión de Desarrollo Económico, a que se refiere la fracción II del apartado B de este artículo, no se haya instalado formalmente y en términos de la Ley Orgánica del Congreso de la Ciudad de México; serán invitadas las personas legisladoras coordinadoras de fracciones parlamentarias, integrantes de la Junta de Coordinación Política del Congreso de la Ciudad de México.
 
 ###### Artículo 7°.
 
@@ -771,3 +775,11 @@ G.O. 27 DE DICIEMBRE DE 2021.
 PRIMERO. Remítase a la Jefatura de Gobierno para efectos de su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO AL APARTADO B, DEL ARTÍCULO 6º DE LA LEY ORGÁNICA DEL CONSEJO ECONÓMICO, SOCIAL Y AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
