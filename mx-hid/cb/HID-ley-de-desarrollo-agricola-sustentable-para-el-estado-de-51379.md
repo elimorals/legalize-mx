@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2022-03-28"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -411,6 +411,10 @@ IV.- Elaborar y coordinar en forma participativa, proyectos de capacitación par
 
 IV BIS.- Diseñar y ejecutar programas de capacitación en materia de cambio climático con énfasis en las medidas de adaptación que debe implementar el sector;
 
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+IV TER.- Diseñar y ejecutar programas de capacitación para fortalecer el acceso de las mujeres a su derecho de propiedad, así como, al uso, goce y disfrute de la tierra y su participación en el desarrollo rural y en sus beneficios.
+
 V.- El proyecto de capacitación mencionado en la fracción anterior, deberá contemplar la capacitación de los directivos y personal técnico y administrativo de las organizaciones y las empresas económicas campesinas, para dotarlos de las herramientas organizacionales, técnicas, administrativas, financieras y legales que les permitan asumir una cultura empresarial, para la modernización y la eficiencia, sin que esto implique la pérdida del sentido social, ni la cultura básica que las caracteriza;
 
 VI.- Identificar participativamente las necesidades de asesoría especializada que requieren los productores rurales y sus organizaciones, tendientes a reforzar su capacidad empresarial o a resolver problemas específicos que requieren de la contratación de agentes externos con alto grado de especialización; y
@@ -519,9 +523,17 @@ Toda persona física o moral que por medio de engaños, dolo o mala fe, venda, d
 
 La Secretaría, en coordinación con los Gobiernos Municipales, los productores rurales y sus organizaciones, determinará, basados en el diagnóstico de la actividad agrícola, las zonas económicas prioritarias donde sea posible la producción más eficiente y el aprovechamiento sustentable de los recursos, procurando la eficiencia, integralidad, diversidad y uso múltiple.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+ARTICULO 28 BIS.- La sustentabilidad será criterio rector en el fomento a las actividades productivas, a fin de lograr el uso racional de los recursos naturales, su preservación y mejoramiento, al igual que la viabilidad económica de la producción mediante procesos productivos socialmente aceptables.
+
+Los programas de fomento a la producción atenderán prioritariamente el criterio de sustentabilidad en relación con el aprovechamiento de los recursos, ajustando las oportunidades de mercado, tomando en cuenta los planteamientos de los productores en cuanto a la aceptación de las prácticas y tecnologías para la producción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 29.
 
-Para conseguir lo expuesto en el Artículo anterior, la Secretaría en coordinación con Dependencias Federales, Estatales y Municipales, así como con la participación de las organizaciones de productores, realizará las siguientes acciones:
+Para conseguir lo expuesto en este capítulo, la Secretaría, en coordinación con Dependencias Federales, Estatales y Municipales, así como con la participación de las organizaciones de productores, realizará las siguientes acciones:
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -857,9 +869,11 @@ El Ejecutivo Estatal, a fin de mantener informado al productor, a sus organizaci
 
 Las reglas de operación del Sistema Estatal de información agropecuaria, se establecerán en el Reglamento de la presente Ley, y serán publicadas en el Periódico Oficial del Estado de Hidalgo, en los sistemas de información institucional y en los sitios oficiales de la dependencia, garantizando la máxima publicidad.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 63.
 
-En el Sistema Estatal de Información Agropecuaria se incluirá la información derivada de las actividades científicas y académicas o de cualquiera (sic) índole, realizadas por instituciones públicas y privadas, por personas físicas o morales, Nacionales o extranjeras, relacionadas con el desarrollo agrícola y pecuario del Estado.
+En el Sistema Estatal de Información Agropecuaria se incluirá la información derivada de las actividades científicas y académicas o de cualquiera (sic) índole, incluidas las elaboradas con perspectiva de género, realizadas por instituciones públicas y privadas, por personas físicas o morales, Nacionales o extranjeras, relacionadas con el desarrollo agrícola y pecuario del Estado.
 
 ###### ARTICULO 64.
 
@@ -1314,3 +1328,15 @@ P.O. 28 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 177 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243 POR EL QUE SE ADICIONA EL ARTÍCULO 28 BIS Y SE REFORMA EL ARTÍCULO 29 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 250 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
