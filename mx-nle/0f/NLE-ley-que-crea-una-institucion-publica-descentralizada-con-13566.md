@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-una-institucion-publica-descentralizada-con-13566"
 country: "mx"
 rank: "ley"
 publication_date: "1956-05-09"
-last_updated: "2014-04-14"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE CREA UNA INSTITUCIÓN PÚBLICA DESCENTRALIZADA CON PERSONALIDAD JURÍDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINA "SERVICIOS DE AGUA Y DRENAJE DE MONTERREY"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 1956.
 
@@ -183,6 +183,10 @@ Tendrán responsabilidad solidaria en el pago de los adeudos, el co-contratante 
 
 La institución podrá regular el consumo de agua de los usuarios cuando por causa de fuerza mayor el abastecimiento sea insuficiente.
 
+> <small>(ADICIONADO, P.O 21 DE OCTUBRE DE 2022)</small>
+
+Sin menoscabo de lo anterior, la Institución dentro de los costos de operación, deberá incluir la realización de campañas permanentes que realizará de forma masiva, directa y especializada, en torno al cuidado del agua y al uso adecuado del drenaje sanitario, que serán consideradas de interés público y actualizadas anualmente.
+
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 18o.
@@ -312,3 +316,9 @@ Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su
 P.O. 14 DE ABRIL DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243. SE ADICIONA UN ARTÍCULO 26 BIS A LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 DE LA LEY QUE CREA UNA INSTITUCIÓN PÚBLICA DESCENTRALIZADA CON PERSONALIDAD JURÍDICA PROPIA Y CON DOMICILIO EN LA CIUDAD DE MONTERREY QUE SE DENOMINARÁ “SERVICIOS DE AGUA Y DRENAJE DE MONTERREY”.]
+
+ÚNICO.- La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
