@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2022-05-23"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -159,6 +159,10 @@ XV.- Recursos Turísticos: Todos los elementos naturales o artificiales de un lu
 
 XV Bis.- Pueblo Mágico: Localidad con Nombramiento emitido por la Secretaria de Turismo Federal, que es representada por su municipio, la cual a través del tiempo y ante la modernidad, ha conservado su patrimonio y manifiesta sus expresiones de forma excepcional y Cumple los requisitos de permanencia;
 
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XV Ter.- Hacienda Turística: Construcción antigua de arquitectura colonial, destinada principalmente a la prestación de algún servicio turístico.
+
 XVI.- Reglamento: El de la Ley de Turismo Sustentable del Estado de Hidalgo;
 
 XVII.- Registro Estatal de Turismo: Catálogo público de prestadores de servicios turísticos en el Estado de Hidalgo;
@@ -229,9 +233,9 @@ II.- Agencias, subagencias, operadores, comisionistas y mayoristas de viajes, as
 
 III.- Guías de turistas, de acuerdo con la clasificación prevista por el Reglamento de la Ley General;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-IV.- Restaurantes, cafeterías, bares, centros nocturnos y establecimientos similares que se encuentren ubicados en los lugares señalados en la fracción I de este artículo, así como en aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos, haciendas y zonas de atractivos naturales, arqueológicas o recreativas;
+IV. Restaurantes, cafeterías, bares, centros nocturnos y establecimientos similares que se encuentren ubicados en los lugares señalados en la fracción I de este artículo, así como en aeropuertos, terminales de autobuses, estaciones de ferrocarril, museos, haciendas turísticas y zonas de atractivos naturales, arqueológicas o recreativas;
 
 V.- Empresas de transporte especializado en excursiones o viajes de turismo por tierra, aire o cuerpos de agua;
 
@@ -1260,3 +1264,9 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 191 POR EL QUE SE REFORMA LA FRACCIÓN XIV BIS DEL ARTICULO 9 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 236 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
