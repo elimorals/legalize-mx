@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-contra-los-efectos-nocivos-del-tabaco-75305"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-07"
-last_updated: "2016-12-31"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CONTRA LOS EFECTOS NOCIVOS DEL TABACO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de junio de 2010.
 
@@ -49,9 +49,11 @@ QUE CONTIENE LA LEY DE PROTECCIÓN CONTRA LOS EFECTOS NOCIVOS DEL TABACO PARA EL
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general, tiene por objeto la protección de la salud contra los problemas asociados con el consumo del tabaco y la exposición a su humo; definiendo políticas y acciones necesarias para prevenir y reducir su consumo, así como la morbilidad y mortalidad relacionadas con éste.
+La presente Ley es de orden público e interés general, tiene por objeto la protección de la salud contra los problemas asociados con el consumo del tabaco y la exposición a su humo, así como proteger los derechos de los no fumadores a vivir y convivir en espacios 100% libres de humo de tabaco y emisiones; definiendo políticas y acciones necesarias para prevenir y reducir su consumo, así como la morbilidad y mortalidad relacionadas con éste.
 
 ###### Artículo 2.
 
@@ -87,7 +89,21 @@ V.- Distribución: La acción de vender, ofrecer o exponer para la venta, dar, d
 
 VI.- Emisión: Es la sustancia producida y liberada cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo del tabaco. En el caso de productos del tabaco para uso oral sin humo, se entiende como todas las sustancias liberadas durante el proceso de mascado o chupado y en el caso de productos del tabaco para uso nasal, son todas las sustancias liberadas durante el proceso de inhalación o aspiración.
 
-VII.- Espacio 100% libre de humo del tabaco: Aquella área física, en donde por razones de orden público e interés social la presente Ley prohíbe fumar, consumir o tener encendido cualquier producto del tabaco;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VII.- Espacio 100 por ciento libre de humo de tabaco y emisiones: Aquella área física con acceso al público, todo lugar de trabajo, de transporte público o espacio de concurrencia colectiva, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco o de nicotina;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VII Bis.- Espacio de concurrencia colectiva: Todo espacio destinado al acceso público para el desarrollo de actividades deportivas, artísticas, culturales y de entretenimiento, tanto del ámbito público como privado, independientemente si está cubierto por un techo y confinado por paredes o que la estructura sea permanente o temporal;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VII Ter.- Lugar de trabajo: Son todos los lugares utilizados por las personas durante su trabajo. Incluye no sólo aquellos donde se realiza el trabajo, sino también todos los lugares conexos y anexos que las y los trabajadores suelen utilizar en el desempeño de su empleo, así como los vehículos que se utilizan mientras se realiza el trabajo;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VII Quáter.- Transporte público: Aquel vehículo individual o colectivo que circule por tierra, aire o agua utilizado para transportar personas, generalmente con fines comerciales, laborales, escolares u otros, que regularmente se obtiene una remuneración, incluye terminales, estaciones, paradas y otras instalaciones de mobiliario urbano conexo;
 
 VIII.- Fumar: La inhalación y exhalación de humo, derivado de la combustión del tabaco o cualquier producto natural o artificial.
 
@@ -131,7 +147,9 @@ VIII.- Promover la participación de las comunidades indígenas para la prevenci
 
 IX.- Establecer políticas para prevenir, reducir y eliminar el consumo del tabaco, en mujeres embarazadas.
 
-X.- Promover espacios 100% libres de humo del tabaco, y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+X.- Promover espacios 100% libres de humo del tabaco y emisiones, así como acciones en favor de un medio ambiente libre de humo de tabaco, y
 
 XI.- Las demás que le otorguen esta Ley y las disposiciones jurídicas aplicables.
 
@@ -217,9 +235,11 @@ La información a que se refiere el presente Artículo deberá integrarse en el 
 
 ### Capítulo I. De los lugares en que queda prohibido consumir o tener encendido cualquier producto del tabaco
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 10.
 
-En el Estado de Hidalgo se consideran espacios 100% libres de humo del tabaco, los siguientes:
+En el Estado de Hidalgo se consideran espacios 100% libres de humo del tabaco y emisiones, los siguientes:
 
 I.- Bibliotecas públicas, hemerotecas, ludotecas y museos;
 
@@ -261,15 +281,29 @@ XIX.- Los sanitarios de los lugares antes señalados, y
 
 XX.- Cualquier otro lugar que en forma expresa determine la Secretaría.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+En los espacios 100% libres de humo de tabaco y emisiones se fijará tanto en el interior como en el exterior los letreros, logotipos y emblemas que establezca la Secretaría.
+
 ###### Artículo 11.
 
 Los propietarios, administradores o responsables de los establecimientos mercantiles, oficinas, industrias y empresas en los cuales está prohibido fumar, serán sancionados en los términos de la presente Ley, por las infracciones a la misma.
 
 ### Capítulo II. De las Secciones Reservadas y Obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-En lugares con acceso al público, los propietarios, administradores o responsables, podrán disponer de espacios interiores aislados para fumar, con ventilación adecuada y extractores de aire o cualquier otro mecanismo que evite el traslado de partículas hacia los espacios 100% libres de humo y que no sea paso obligado para los no fumadores e informarán a la población adulta sobre la prohibición de ingresar con menores de edad a dichas áreas.
+En lugares con acceso al público, lugares de trabajo, públicos o privados, los propietarios, administradores o responsables, podrán disponer de zonas exclusivamente para fumar, las cuales deberán ubicarse solamente en espacios al aire libre de conformidad con las disposiciones que establezca la Secretaría.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+Las zonas exclusivas para fumar, no podrán ser paso obligado para los no fumadores y, en ellas, estará prohibido el ingreso con menores de edad.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+La persona propietaria, administradora o responsable de un espacio 100% libre de humo de tabaco y emisiones, estará obligado a hacer respetar los ambientes libres de humo de tabaco establecidos en el presente ordenamiento.
 
 ###### Artículo 13.
 
@@ -283,9 +317,11 @@ Los propietarios, administradores o responsables de los lugares a que se hace re
 
 los propietarios, administradores o responsables de los lugares de acceso al público, tomarán las medidas pertinentes para cerciorarse del cumplimiento de esta Ley. En caso de incumplimiento, indicarán a los infractores la ubicación de los espacios en que se puede fumar para que se trasladen a los mismos, y de persistir en su negativa les invitarán a abandonar las instalaciones, haciendo uso, de ser necesario, de la fuerza pública, para los efectos a que se refiere el Artículo 26 de esta Ley.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 16.
 
-Los propietarios, administradores o responsables de espacios 100% libres de humo del tabaco, deberán fijar en el interior y exterior de los mismos, letreros o emblemas visibles que indiquen expresamente la prohibición de fumar, incluyendo un número telefónico para la denuncia por incumplimiento a esta Ley.
+Las personas propietarias, administradoras o responsables que cuenten con espacios 100% libres de humo de tabaco y emisiones o zonas exclusivamente para fumar, deberán fijar letreros o emblemas visibles que indiquen claramente su naturaleza, incluyendo un número telefónico para la denuncia por incumplimiento a esta ley.
 
 ###### Artículo 17.
 
@@ -327,7 +363,9 @@ c).- Por unidad.
 
 La Secretaría promoverá que la población y las organizaciones de la sociedad civil participen activamente en la aplicación de esta Ley, con las siguientes acciones:
 
-I.- Promocionar espacios 100% libres de humo del tabaco;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+I.- Promocionar espacios 100% libres de humo del tabaco y emisiones;
 
 II.- Denunciar a los establecimientos cerrados donde se permita fumar;
 
@@ -516,3 +554,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 277 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE PROTECCIÓN CONTRA LOS EFECTOS NOCIVOS DEL TABACO PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. - Se concede un término no mayor a 60 días naturales posteriores a la publicación del presente decreto para que las personas propietarias, administradores o responsables de los establecimientos o lugares con acceso al público, áreas de trabajo, públicas y privadas lleven a cabo las adecuaciones necesarias en sus establecimientos a fin de dar cumplimiento a las normas correspondientes del presente decreto.
