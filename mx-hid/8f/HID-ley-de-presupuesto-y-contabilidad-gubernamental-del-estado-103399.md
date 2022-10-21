@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-y-contabilidad-gubernamental-del-estado-1033
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-27"
-last_updated: "2022-05-31"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
 
@@ -112,6 +112,10 @@ I. Actividad institucional: Las acciones sustantivas o de apoyo que realizan los
 II. Adecuaciones presupuestarias: Las modificaciones a las estructuras funcional programática, administrativa y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al Presupuesto de Egresos o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;
 
 III. Ahorro presupuestario: Los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+III Bis. Anexos Transversales: anexos del Presupuesto donde concurren Programas Presupuestarios, componentes de éstos y/o Unidades Responsables, cuyos recursos son destinados a obras, acciones y servicios vinculados con el desarrollo de los siguientes sectores: Igualdad entre Mujeres y Hombres; Prevención, Atención, Sanción y Erradicación de la Violencia Contra las Mujeres, Niñas, Niños, Adolescentes y de cualquier forma de discriminación; Desarrollo Integral de los Pueblos y Comunidades Indígenas; Desarrollo de los Jóvenes; Desarrollo Agropecuario Sustentable; Ciencia, Tecnología e Innovación; Atención a Grupos Vulnerables; los Recursos para la Mitigación de los efectos del Cambio Climático; y los recursos destinados al Combate a la Corrupción.
 
 IV. Auditoría Superior: La Auditoría Superior del Estado de Hidalgo;
 
@@ -673,6 +677,10 @@ Los calendarios de presupuesto deberán comunicarse por la Secretaría a las dep
 
 Los calendarios a que se refiere el párrafo anterior deberán ser en términos mensuales.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+La Secretaría deberá elaborar el calendario anual del presupuesto de los Anexos Transversales a que se refiere el artículo 42, fracción II, incisos n), ñ), o), p), q), r) y s) de esta Ley y deberá publicarlos en el Periódico Oficial a más tardar 30 días hábiles posteriores a la publicación del Presupuesto en el propio Periódico Oficial.
+
 También se publicarán en los medios electrónicos el calendario mensual de ingresos derivado de la Ley de Ingresos, 15 días hábiles después de la publicación de dicha Ley.
 
 La Secretaría cumplirá estrictamente los calendarios de presupuesto autorizados a las dependencias en los términos de las disponibilidades de los recursos reales e informará al respecto en los informes trimestrales, por dependencia o entidad, por unidad responsable y por programa.
@@ -1025,9 +1033,41 @@ j) Los recursos propuestos para distribuir a los municipios del Estado;
 
 k) Cualquier clasificación o información prevista por la Ley General de Contabilidad Gubernamental o disposición emitida por el CONAC;
 
-l) Las previsiones de gasto que correspondan a las erogaciones para la igualdad entre mujeres y hombres; y
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-m) Las previsiones de gasto que correspondan para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, niñas, niños y adolescentes;
+l) Las previsiones de gasto que correspondan a las erogaciones para la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+m) Las previsiones de gasto que correspondan para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, niñas, niños, adolescentes y de cualquier forma de discriminación;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+n) Las previsiones de gasto que correspondan a la atención de la población indígena, en los términos del artículo 5 de la Constitución Política del Estado de Hidalgo;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+ñ) Las previsiones de gasto que correspondan a las erogaciones para el Desarrollo de los Jóvenes;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+o) Las previsiones de gasto que correspondan al Programa Especial Concurrente para el Desarrollo Agropecuario Sustentable, conforme a lo previsto en Ley de Desarrollo Agrícola Sustentable para el Estado de Hidalgo;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+p) Las previsiones de gasto que correspondan al Programa de Ciencia, Tecnología e Innovación, conforme a lo previsto en el artículo 13 de la Ley de Ciencia, Tecnología e Innovación del Estado de Hidalgo;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+q) Las previsiones de gasto que correspondan para la Atención a Grupos Vulnerables;
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+r) Las previsiones de gasto que correspondan a la Mitigación de los efectos del Cambio Climático; y
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+s) Las previsiones de gasto que correspondan al Combate a la Corrupción, conforme a los establecido a Ley del Sistema Estatal Anticorrupción del Estado de Hidalgo.
 
 III. Los anexos informativos, los cuales contendrán:
 
@@ -1677,7 +1717,9 @@ La Secretaría y la Contraloría emitirán las disposiciones para la aplicación
 
 Los indicadores del Sistema Estatal de Evaluación del Desempeño deberán formar parte del Presupuesto de Egresos e incorporar sus resultados en la Cuenta Pública, explicando en forma detallada las causas de las variaciones y su correspondiente efecto económico.
 
-El Sistema Estatal de Evaluación del Desempeño deberá incorporar indicadores específicos que permitan evaluar la incidencia de los programas presupuestarios en la igualdad entre mujeres y hombres, la erradicación de la violencia contra las mujeres y de cualquier forma de discriminación.
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+El Sistema Estatal de Evaluación del Desempeño deberá incorporar indicadores específicos que permitan evaluar la incidencia de los Anexos Transversales a los que se refiere el artículo 42, fracción II, incisos l), m), n) ñ), o), p), q), r) y s) de esta Ley.
 
 Los resultados a los que se refiere este artículo deberán ser considerados para efectos de la programación, presupuestación y ejercicio de los recursos.
 
@@ -1808,3 +1850,13 @@ P.O. 31 DE MAYO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 269 POR EL QUE SE REFORMAN LOS INCISOS L) Y M) DEL ARTÍCULO 42 Y EL ARTÍCULO 96; Y SE ADICIONAN LA FRACCIÓN III BIS AL ARTÍCULO 2, EL PÁRRAFO SEXTO RECORRIÉNDOSE LOS PÁRRAFOS SUBSECUENTES AL ARTÍCULO 23; Y LOS INCISOS N), Ñ), O), P), Q), R) Y S) AL ARTÍCULO 42, A LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Secretaría de Finanzas Públicas del Estado de Hidalgo, en el presupuesto de egresos inmediato a la entrada en vigor del presente Decreto, enviará al Congreso del Estado la metodología, factores, variables y fórmulas utilizados para la elaboración de cada uno de los Anexos Transversales, informando sobre los porcentajes o cuotas de los Programas Presupuestarios y de las Unidades Responsables que son consideradas para la integración de dichos Anexos.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
