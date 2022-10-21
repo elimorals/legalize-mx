@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2022-10-17"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1193,7 +1193,9 @@ XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las fa
 
 XXVI.- Crear o suprimir municipios, fijar, delimitar y modificar la extensión de sus territorios, autorizar mediante Decreto los convenios amistosos que sobre sus respectivos límites celebren los municipios; así como dirimir de manera definitiva las controversias o diferencias que se susciten sobre límites territoriales intermunicipales, modificando en su caso el Estatuto Territorial. Lo previsto en esta fracción se sujetará, a la emisión del voto aprobatorio de las dos terceras partes de los Diputados integrantes del Congreso;
 
-XXVII.- Conceder amnistía por delitos de carácter político de la competencia de los tribunales del Estado, cuando la pena no exceda de tres años de prisión, no se trate de reincidentes y siempre que sea acordada por dos tercias partes de los diputados presentes;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XXVII.- Conceder amnistía por delitos del orden común, así como expedir la legislación que regule su otorgamiento;
 
 XXVIII.- Otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado;
 
@@ -5602,3 +5604,13 @@ c. Un integrante que durará en su encargo cuatro años; y,
 d. Dos integrantes que durarán en su encargo cinco años.
 
 Las y los ciudadanos integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción de Baja California, nombrados de forma subsecuente a los señalados en el párrafo anterior, durarán en el cargo el plazo señalado en el artículo 16 de la Ley del Sistema Estatal Anticorrupción de Baja California.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 152 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, ASIMISMO SE APRUEBA LA CREACIÓN DE LA LEY DE AMNISTÍA PARA EL ESTADO DE BAJA CALIFORNIA ASIMISMO SE APRUEBA LA CREACIÓN DE LA LEY DE AMNISTÍA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. Aprobadas que sean las presentes reformas, túrnese a los ayuntamientos del Estado de Baja California para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO. Agotado el proceso legislativo y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
