@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2022-06-27"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -101,7 +101,15 @@ I. Acciones Afirmativas: Acciones de carácter temporal, de políticas y prácti
 
 II. Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
-III. Adopción Internacional: Aquélla que se realice en términos de lo dispuesto por los Tratados Internacionales en la materia;
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+II Bis. Adopción: Es la integración a una familia de uno o varios menores de edad, como hijo o hijos biológicos, previo el procedimiento legal;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+III. Adopción Internacional: Es la promovida por personas unidas por el vínculo jurídico del matrimonio que se adapte a las disposiciones legales que rigen en el Estado Libre y Soberano de Hidalgo, con residencia permanente fuera del territorio nacional, teniendo como objeto incorporar a su familia como hijo o hijos de matrimonio, a uno o más menores de edad de origen mexicano, previo el procedimiento legal, o cuando matrimonios con residencia dentro de los Estados Unidos Mexicanos pretendan adoptar a uno o varios menores de edad con residencia permanente en un estado extranjero.
+
+Esta adopción se regirá por lo establecido en los Tratados Internacionales, suscritos y ratificados por el Estado Mexicano y en lo conducente, por las disposiciones de la legislación familiar vigente en el Estado Libre y Soberano de Hidalgo.; (sic)
 
 IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
@@ -300,6 +308,10 @@ Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, d
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2020)</small>
 
 I. Derecho a la vida, a la supervivencia, al desarrollo y a la paz;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+I Bis. Derecho a ser adoptado.
 
 II. Derecho de prioridad;
 
@@ -1641,7 +1653,9 @@ VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, a
 
 VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
 
-VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VIII. Abstenerse de cualquier atentando contra su integridad física, psicológica o actos que menoscaben su desarrollo integral, así mismo, evitar ejercer cualquier tipo de violencia con la intención de afectar directamente al menor o a otra persona con la que el menor tenga algún vínculo filial, familiar o afectivo. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
 IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
 
@@ -2000,6 +2014,10 @@ VII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la
 Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
 
 Para la imposición de las medidas urgentes de protección, la persona Titular de la Procuraduría de Protección podrá solicitar el auxilio de las instituciones policiales competentes; en caso de incumplimiento podrá solicitar la imposición de medidas de apremio a la autoridad competente;
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+VII Bis. Promover ante las autoridades competentes la pérdida definitiva de la patria potestad, así como la imposibilidad de ejercer la guarda y custodia de niñas, niños y adolescentes derivado (sic) víctimas de violencia familiar o derivado de violencia vicaria;
 
 VIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
 
@@ -2498,5 +2516,17 @@ P.O. 27 DE JUNIO DE 2022.
 P.O. 27 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 214 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 235 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 253 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO Y LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
