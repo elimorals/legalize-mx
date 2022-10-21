@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-96256"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-20"
-last_updated: "2022-04-08"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Puebla, el miércoles 20 de marzo de 2013.
 
@@ -287,7 +287,9 @@ XI. Promover, la realización de acciones dirigidas a una estrategia integral de
 
 XII. Dictar los lineamientos generales en materia de protección civil para inducir y fomentar que el principio de la Gestión Integral de Riesgos y la Continuidad de Operaciones, sea un valor de política pública y una tarea transversal para que con ello se realicen acciones de orden preventivo, con especial énfasis en aquéllas que tienen relación directa con la salud, la educación, el ordenamiento territorial, la planeación urbano-regional, la conservación y empleo de los recursos naturales, la gobernabilidad y la seguridad; y
 
-XIII.- Vigilar en coordinación con las autoridades competentes, y conforme a las disposiciones legales aplicables, que no se autoricen centros de población en zonas de riesgo y, de ser el caso, se notifique a las autoridades correspondientes para que proceda a su desalojo, así como al deslinde de las responsabilidades en las que incurren por la omisión y complacencia ante dichas irregularidades.
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XIII. Vigilar que las autoridades competentes, conforme a las disposiciones legales aplicables, no autoricen centros de población en zonas de riesgo y, de ser el caso, se notifique a las autoridades correspondientes para que proceda a su desalojo, así como al deslinde de las responsabilidades en las que incurren por la omisión y complacencia de dichas irregularidades.
 
 ###### ARTÍCULO 17.
 
@@ -765,9 +767,17 @@ X. Aprobar y vigilar el cumplimiento del Programa Municipal y demás Programas r
 
 XI. Participar en la ejecución de los programas y acciones que lleven a cabo el Estado y la Federación, en los términos de esta Ley;
 
-XII. Realizar inspecciones e imponer las sanciones y medidas de seguridad de su competencia en la materia; y
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-XIII. Las demás que le confiera la Ley General de Protección Civil, esta Ley, los Reglamentos de las mismas y las demás disposiciones aplicables en la materia.
+XII. Realizar inspecciones e imponer sanciones y medidas de seguridad de su competencia en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XIII. Denunciar ante la autoridad competente cuando se tenga conocimiento de asentamientos humanos irregulares en los derechos de vía, de infraestructura energética, comunicaciones y zonas federales, así como en las zonas de riesgo y, en su caso, dictaminar la clausura o desalojo de dichos asentamientos humanos irregulares, en el marco de los derechos humanos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2022)</small>
+
+XIV. Las demás que le confiera la Ley General de Protección Civil, esta Ley, los Reglamentos de las mismas y las demás disposiciones aplicables en la materia.
 
 ###### ARTÍCULO 54.
 
@@ -1862,6 +1872,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 37 DE LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA, LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
