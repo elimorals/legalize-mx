@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2022-10-07"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1445,15 +1445,21 @@ VIII. Las demás que les otorgue esta Ley y otras disposiciones aplicables.
 
 ### CAPITULO CUARTO. De las Autoridades Auxiliares
 
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 56.
 
-Son autoridades auxiliares municipales, los delegados y subdelegados, y los jefes de sector o de sección y jefes de manzana que designe el ayuntamiento.
+Son autoridades auxiliares municipales, las personas titulares de las delegaciones, subdelegaciones, jefaturas de sector, de sección y de manzana que designe el Ayuntamiento. Para la elección y designación de autoridades auxiliares, se deberá observar en todo momento los principios de igualdad, equidad y garantizar la paridad de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 57.
 
-Las autoridades auxiliares municipales ejercerán, en sus respectivas jurisdicciones, las atribuciones que les delegue el ayuntamiento, para mantener el orden, la tranquilidad, la paz social, la seguridad y la protección de los vecinos, conforme a lo establecido en esta Ley, el Bando Municipal y los reglamentos respectivos.
+Las autoridades auxiliares municipales ejercerán, en sus respectivas jurisdicciones, las atribuciones que les delegue el Ayuntamiento, para mantener el orden, la tranquilidad, la paz social, la seguridad y la protección de las personas vecinas, conforme a lo establecido en esta Ley, el Bando Municipal y los reglamentos respectivos.
 
-I. Corresponde a los delegados y subdelegados:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 21 DE OCTUBRE DE 2022)</small>
+
+I. Corresponde a las personas titulares de las delegaciones:
 
 a). Vigilar el cumplimiento del bando municipal, de las disposiciones reglamentarias que expida el ayuntamiento y reportar a la dependencia administrativa correspondiente, las violaciones a las mismas;
 
@@ -1473,7 +1479,9 @@ f). vigilar el estado de los canales, vasos colectores, barrancas, canales alcan
 
 g). Emitir opinión motivada no vinculante, respecto a la autorización de la instalación de nuevos establecimientos comerciales, licencias de construcción y cambios de uso de suelo en sus comunidades.
 
-II. Corresponde a los jefes de sector o de sección y de manzana:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 21 DE OCTUBRE DE 2022)</small>
+
+II. Corresponde a las personas titulares de las jefaturas de sector, de sección y de manzana:
 
 > <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1485,9 +1493,11 @@ c). Informar al delegado las deficiencias que presenten los servicios públicos 
 
 d). Participar en la preservación y restauración del medio ambiente, así como en la protección civil de los vecinos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 58.
 
-Los delegados y subdelegados municipales no pueden:
+Las personas titulares de las delegaciones y subdelegaciones municipales no pueden:
 
 I. Cobrar contribuciones municipales sin la autorización expresa de la ley;
 
@@ -1501,19 +1511,23 @@ V. Autorizar inhumaciones y exhumaciones;
 
 VI. Hacer lo que no esté previsto en esta Ley y en otros ordenamientos municipales.
 
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 59.
 
-La elección de Delegados y Subdelegados se sujetará al procedimiento establecido en la convocatoria que al efecto expida el Ayuntamiento. Por cada Delegado y Subdelegado deberá elegirse un suplente.
+La elección de las personas titulares de las delegaciones y subdelegaciones será mediante voto libre, secreto y directo de las personas vecinas de la localidad y se sujetará al procedimiento establecido en la convocatoria que al efecto expida el Ayuntamiento. Por cada titularidad de delegación o subdelegación deberá elegirse un suplente del mismo género. Es responsabilidad de los ayuntamientos observar los principios de igualdad, equidad y garantizar la paridad de género, entre mujeres y hombres para integrar las delegaciones municipales.
 
-> <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2011)</small>
+Los ayuntamientos podrán celebrar convenios con el Instituto Electoral del Estado de México en términos de lo establecido en el artículo 11, párrafo décimo cuarto en la Constitución Política del Estado Libre y Soberano de México con treinta días de anticipación de la expedición (sic) la convocatoria.
 
-La elección de los Delegados y Subdelegados se realizará en la fecha señalada en la convocatoria, entre el segundo domingo de marzo y el 30 de ese mes del primer año de gobierno del Ayuntamiento.
+> <small>(ADICIONADO, G.G. 21 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2011)</small>
+###### Artículo 59 Bis.
 
-La convocatoria deberá expedirse cuando menos diez días antes de la elección. Sus nombramientos serán firmados por el Presidente Municipal y el Secretario del Ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el 15 de abril del mismo año.
+Las personas titulares de delegaciones y subdelegaciones permanecerán en su encargo tres años y su elección será el último domingo del mes de marzo del primer año de gobierno del Ayuntamiento respectivo; de conformidad con la convocatoria que deberá ser expedida por el Ayuntamiento al menos diez días antes del inicio de registro de las planillas y deberá contemplar cinco días posteriores al registro de las mismas, las cuales contarán con tres días posteriores al cierre del registro de planillas de las personas titulares de las delegaciones y subdelegaciones para subsanar las inconsistencias que se presenten.
+
+La convocatoria deberá señalar los datos específicos de las elecciones y ser publicada y difundida por los medios adecuados y suficientes a partir de su expedición por los ayuntamientos en cada una de las delegaciones municipales correspondientes.
+
+Los nombramientos de las autoridades auxiliares serán firmados por las personas titulares de la Presidencia Municipal y la Secretaría del Ayuntamiento, entregándose a más tardar el día en que entren en funciones, que será el 15 de abril del mismo año.
 
 ###### Artículo 60.
 
@@ -1525,9 +1539,11 @@ II. Ser vecino, en términos de esta Ley, de la delegación, subdelegación muni
 
 III. Ser de reconocida probidad.
 
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 61.
 
-Los jefes de sector o de sección y de manzana serán nombrados por el ayuntamiento.
+Las jefaturas de sector, de sección y de manzana serán nombradas por el Ayuntamiento, el cual deberá observar para su designación los principios de igualdad, equidad y garantizar la paridad de género.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2000)</small>
 
@@ -1673,13 +1689,13 @@ Las comisiones del ayuntamiento carecen de facultades ejecutivas. Los asuntos y 
 
 Para la gestión, promoción y ejecución de los planes y programas municipales en las diversas materias, los ayuntamientos podrán auxiliarse de consejos de participación ciudadana municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 73.
 
-Cada consejo de participación ciudadana municipal se integrará hasta con cinco vecinos del municipio, con sus respectivos suplentes; uno de los cuales lo presidirá, otro fungirá como secretario y otro como tesorero y en su caso dos vocales, que serán electos en las diversas localidades por los habitantes de la comunidad, entre el segundo domingo de marzo y el 30 de ese mes del año inmediato siguiente a la elección del ayuntamiento, en la forma y términos que éste determine en la convocatoria que deberá aprobar y publicar el ayuntamiento en los lugares más visibles y concurridos de cada comunidad, cuando menos quince días antes de la elección. El ayuntamiento expedirá los nombramientos respectivos firmados por el presidente municipal y el secretario del ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el día 15 de abril del mismo año.
+Cada Consejo de Participación Ciudadana Municipal se integrará, hasta con cinco vecinos y vecinas del Municipio, con sus respectivos suplentes del mismo género; observado (sic) los principios de igualdad, equidad y garantizando la paridad de género, uno de los cuales lo presidirá, otro fungirá como Secretario y otro como Tesorero y en su caso dos vocales, que serán electos en las diversas localidades por los habitantes de la comunidad, entre el segundo domingo de marzo y el 30 de ese mes del año inmediato siguiente a la elección del Ayuntamiento, en la forma y términos que éste determine en la convocatoria que deberá aprobar y publicar el Ayuntamiento en los lugares más visibles y concurridos de cada comunidad, cuando menos quince días antes de la elección. El Ayuntamiento expedirá los nombramientos respectivos firmados por el Presidente Municipal y el Secretario del Ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el día 15 de abril del mismo año.
 
-Los integrantes del consejo de participación ciudadana que hayan participado en la gestión que termina no podrán ser electos a ningún cargo del consejo de participación ciudadana para el periodo inmediato siguiente.
+Quienes integren el Consejo de Participación Ciudadana y que hayan participado en la gestión que termina no podrán ser electos a ningún cargo del Consejo de Participación Ciudadana para el periodo inmediato siguiente.
 
 ###### Artículo 74.
 
@@ -5656,3 +5672,13 @@ G.G. 7 DE OCTUBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 100.- POR EL QUE SE REFORMA EL ARTÍCULO 56, EL PRIMER PÁRRAFO DE LA FRACCIÓN I, EL PRIMER PÁRRAFO DE LA FRACCIÓN II Y EL PRIMER PÁRRAFO DEL ARTÍCULO 57, EL PRIMER PÁRRAFO DEL ARTÍCULO 58, EL ARTÍCULO 59, EL ARTÍCULO 61 Y EL ARTICULO 73; SE ADICIONA EL ARTÍCULO 59 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto.
