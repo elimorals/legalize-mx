@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2022-08-03"
+last_updated: "2022-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2439,25 +2439,21 @@ III.- Proporcione datos falsos a los organismos gubernamentales a cuyo cargo est
 
 Las anteriores sanciones se impondrán independientemente de las penas que resulten por la comisión del delito de falsificación o uso de documento falso, en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 199 Ter.
 
-Se aplicarán de cuatro a diez años de prisión y multa de ciento ochenta hasta quinientas Unidades de Medida y Actualización a quienes:
+Se aplicarán de cuatro a diez años de prisión y multa de doscientas hasta quinientas Unidades de Medida y Actualización a quienes:
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+I. Instiguen, compelen, dirijan o se beneficien de la conformación de un asentamiento humano irregular o promuevan un fraccionamiento irregular; y
 
-I.- Instiguen, compelen o dirijan la conformación de un asentamiento humano irregular o promuevan un fraccionamiento irregular; y
+II. Con el carácter de funcionarios públicos realicen actos u omisiones para alentar, autorizar, aprobar, otorgar, conceder y/o permitir la fundación de asentamientos humanos irregulares y/o en los derechos de vía de infraestructura energética, comunicaciones o zonas de riesgo donde exista la probabilidad de que se produzca un daño por considerarse no aptas para vivienda por los Planes y Programas de Desarrollo Urbano respectivos.
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-II.- Con el carácter de funcionarios públicos realicen actos u omisiones para alentar o permitir un asentamiento irregular.
+###### Artículo 199 Quater.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
-
-###### Artículo 199 Quáter.
-
-La pena de prisión se incrementará hasta en una mitad más cuando las conductas previstas en la presente Sección, se realicen sobre áreas naturales protegidas o de preservación ecológica o en zonas no consideradas aptas para vivienda por los Planes y Programas de Desarrollo Urbano respectivos.
+La pena de prisión se incrementará hasta en una mitad más cuando las conductas previstas en la presente Sección se realicen sobre áreas naturales protegidas o de preservación ecológica, en zonas no consideradas aptas para vivienda o en las que exista la probabilidad de que se produzca un daño por considerarse no aptas para vivienda por los Planes y Programas de Desarrollo Urbano respectivos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2010)</small>
 
@@ -7688,3 +7684,11 @@ P.O. 3 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA, LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
