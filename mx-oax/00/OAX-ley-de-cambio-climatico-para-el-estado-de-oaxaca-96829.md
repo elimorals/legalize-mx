@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cambio-climatico-para-el-estado-de-oaxaca-96829"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2021-10-16"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Ley publicada en el Extra del Periódico oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -57,7 +57,9 @@ En lo no previsto por esta Ley, se aplicarán de manera supletoria la Ley del Eq
 
 Esta ley tiene como objetivos específicos:
 
-I.- Establecer la concurrencia de facultades del estado y los municipios en la elaboración y aplicación de políticas públicas para la adaptación al cambio climático, la mitigación de emisiones de gases y compuestos de efecto invernadero y, la reducción de riesgos climáticos. Estas acciones deben considerar el enfoque de género y realizarse respetando los derechos humanos y los de los Pueblos y Comunidades Indígenas y del Pueblo Afromexicano;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+I.- Establecer la concurrencia de facultades del Estado y los municipios en la elaboración y aplicación de políticas públicas para la adaptación al cambio climático, la mitigación de emisiones de gases y compuestos de efecto invernadero y la reducción de riesgos climáticos. Estas acciones deben considerar el enfoque de género e interculturalidad, respetando los derechos humanos de los Pueblos y Comunidades Indígenas y del Pueblo Afromexicano;
 
 II.- Establecer las bases de coordinación institucional entre las dependencias del Gobierno del Estado, los municipios y el Gobierno Federal, en materia de mitigación de gases de efecto invernadero, así como de reducción de vulnerabilidad y de riesgos a través de la adaptación;
 
@@ -341,15 +343,19 @@ IV.- Las demás que señale el Reglamento.
 
 #### SECCIÓN TERCERA. DEL COMITÉ TÉCNICO DE CAMBIO CLIMÁTICO
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 13.
 
-La CICC contará con un Comité Técnico de Cambio Climático, que será un órgano técnico y de consulta de carácter permanente, se integrará por al menos quince miembros provenientes de los sectores social, privado y académico, con reconocidos méritos y experiencia en cambio climático, que serán designados por el Presidente de la CICC, a propuesta de sus integrantes y conforme a lo que al efecto se establezca en el Reglamento, debiendo garantizarse el equilibrio entre los sectores e intereses respectivos, procurando la participación equitativa de mujeres y hombres en su integración, así como la transparencia, democracia, diversidad y pluralidad de los sectores.
+La CICC contará con un Comité Técnico de Cambio Climático, que será un órgano técnico y de consulta de carácter permanente, se integrará por al menos quince miembros provenientes de los sectores social, privado y académico, con conocimientos, méritos y experiencia en cambio climático y gestión integral de riesgos, que serán designados por el Presidente de la CICC, a propuesta de sus integrantes y conforme a lo que al efecto se establezca en el Reglamento, debiendo garantizarse el equilibrio entre los sectores e intereses respectivos, con la participación igualitaria de mujeres y hombres, se procurará la inclusión de jóvenes en su integración, se debe garantizar la transparencia, democracia, diversidad y pluralidad de los sectores.
 
 ###### Artículo 14.
 
 El CTCC tendrá un presidente y un secretario electos por la mayoría de sus miembros; durarán en su cargo tres años, y podrán ser reelectos por un periodo adicional, cuidando que las renovaciones de sus miembros se realicen de manera escalonada.
 
-Los integrantes del consejo ejercerán su encargo de manera honorífica y a título personal, con independencia de la institución, empresa u organización de la que formen parte o en la cual presten sus servicios.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+Los integrantes del comité ejercerán su encargo de manera honorífica y a título personal, con independencia de la institución, empresa u organización de la que formen parte o en la cual presten sus servicios.
 
 La organización, estructura y el funcionamiento del CTCC se determinarán en el Reglamento.
 
@@ -1104,3 +1110,11 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. - Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 704.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 2; EL ARTÍCULO 13 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14 DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
