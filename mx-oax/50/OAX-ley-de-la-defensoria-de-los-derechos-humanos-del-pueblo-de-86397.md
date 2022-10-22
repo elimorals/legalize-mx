@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-de-los-derechos-humanos-del-pueblo-de-8639
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2020-12-12"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 14 de febrero de 2012.
 
@@ -49,15 +49,19 @@ Las disposiciones de esta Ley son de orden público, interés social y observanc
 
 Esta Ley tiene por objeto establecer la forma de integración, atribuciones, organización, competencia y procedimientos de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 2.
 
-La Defensoría de los Derechos Humanos del Pueblo de Oaxaca tiene por objeto la defensa, protección, promoción, estudio y divulgación de los derechos humanos, así como la prevención, atención y erradicación de la discriminación y la violencia que sufren las personas por su condición, posición social, identidad cultural, política, económica, género, discapacidades, origen, orientación y preferencia sexual, ciudadanía, migración, sexo, nacionalidades, salud, religión e ideología; o cualquier otra que vulnere la dignidad de la persona.
+La Defensoría de los Derechos Humanos del Pueblo de Oaxaca, tiene por objeto la defensa, protección, promoción, estudio y difusión de los derechos humanos, así como la prevención, atención y erradicación de la discriminación y la violencia que sufren las personas por su condición, posición social, identidad cultural, política, económica, género, discapacidades, estado civil, origen étnico, color, edad, idioma, características sexuales, orientación y preferencia sexual, identidad, ciudadanía, migración, nacionalidades, salud, religión e ideología; o cualquier otra que vulnere la dignidad de la persona.
 
 La Defensoría de los Derechos Humanos del Pueblo de Oaxaca deberá observar y exigir el cumplimiento de los derechos humanos reconocidos constitucionalmente así como de aquellos contenidos en los Tratados internacionales de los que el Estado Mexicano sea parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 3.
 
-La Defensoría de los Derechos Humanos del Pueblo de Oaxaca es un organismo público, autónomo, ciudadanizado, con personalidad jurídica y patrimonio propio. Que se rige por los principios de universalidad, irrenunciabilidad, integralidad, exigibilidad y progresividad.
+La Defensoría de los Derechos Humanos del Pueblo de Oaxaca es un organismo público, autónomo, ciudadanizado, con personalidad jurídica y patrimonio propio. Que se rige por los principios de universalidad, irrenunciabilidad, integralidad, interdependencia, indivisibilidad, exigibilidad y progresividad.
 
 Es independiente de los poderes del Estado, de cualquier institución o autoridad y goza de plena autonomía organizativa, funcional, financiera y administrativa.
 
@@ -149,7 +153,9 @@ VI. Establecer mecanismos de alerta temprana, para la atención de casos graves 
 
 VII. Intervenir, a petición de las partes, como mediador imparcial y neutral, en procesos de negociación para resolver conflictos sociales con la finalidad de favorecer vías de comunicación, transformación del conflicto y búsqueda de acuerdos consensuados. Siempre que pueda estar latente la posible violación de los derechos humanos de los individuos o colectividades y/o una confrontación violenta que pueda afectar la paz social y la gobernabilidad;
 
-VIII. Formular propuestas de solución anticipada a las autoridades, servidoras o servidores públicos señalados como responsables de la violación de los derechos humanos, siempre que sea solicitado por la parte agraviada y que la naturaleza del caso lo permita, de manera que se restituya en el goce de sus derechos a la parte peticionaria;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+VIII. Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución de un conflicto planteado; además podrá formular propuestas de solución anticipada a las autoridades, servidoras o servidores públicos señalados como responsables de la violación de los derechos humanos, siempre que sea solicitado por la parte agraviada y cuando la naturaleza del caso lo permita, de manera que se restituya en el goce de sus derechos a la parte peticionaria;
 
 IX. Orientar debidamente a la parte interesada, cuando por la naturaleza de los hechos presuntamente violatorios de derechos humanos la Defensoría no pueda conocer de los mismos, para que la denuncia sea presentada ante las autoridades competentes. Lo dispuesto en el párrafo anterior se observará cuando, durante o a raíz de la investigación practicada por la Defensoría, se presuma la comisión de un delito o falta administrativa;
 
@@ -161,7 +167,9 @@ XII. Presentar iniciativas de Ley ante el Congreso del Estado en materia de dere
 
 XIII. Elaborar informes generales y específicos sobre la situación de los derechos humanos en el Estado, emitiendo las recomendaciones, propuestas y medidas necesarias para garantizar de manera plena el respeto a los derechos humanos;
 
-XIV. Promover la cultura de respeto y defensa de los derechos humanos con perspectiva de género y pluralismo jurídico en el Estado de Oaxaca, así como su observancia, estudio, enseñanza y divulgación;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+XIV. Promover, fomentar y garantizar la cultura de respeto y defensa de los derechos humanos con perspectiva de género y pluralismo jurídico en el Estado y municipios de Oaxaca, así como su observancia, estudio, enseñanza y difusión, de conformidad con los principios que rigen a esta ley.
 
 XV. Diseñar, promover y evaluar políticas públicas basadas en la perspectiva de género y pluralismo jurídico que redunden en una mayor protección de los derechos humanos;
 
@@ -705,6 +713,8 @@ IX. Las demás que le otorguen la presente ley, su reglamento interno y los dem�
 
 ### CAPÍTULO I. DEL PROCEDIMIENTO ANTE LA DEFENSORÍA
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 37.
 
 La Directora o el Director para la atención a víctimas de violaciones de derechos humanos, tendrá las siguientes facultades:
@@ -755,11 +765,15 @@ IX. Las demás que le confieren esta Ley y otras disposiciones aplicables.
 
 La Contraloría Interna estará a cargo de un contralor interno, quien será elegido mediante convocatoria pública abierta y nombrado por el Consejo Ciudadano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 40.
 
-Para ser contralor interno de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca se requiere:
+Para ser titular de la contraloría interna de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca se requiere:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos;
 
 II. Tener más de treinta años de edad;
 
@@ -813,7 +827,7 @@ XI. Las demás que le confieren esta ley y otras disposiciones aplicables.
 
 ###### Artículo 44.
 
-Cualquier persona, colectivo, pueblo o comunidad indígena o afrodescendiente, podrá denunciar presuntas violaciones a los derechos humanos y acudir ante las oficinas de la Defensoría para presentar, ya sea directamente o por medio de representante, peticiones contra dichas violaciones. Cuando los interesados estén privados de su libertad o se desconozca su paradero, los hechos se podrán denunciar por los parientes, o cualquier persona, inclusive por menores de edad.
+Toda persona, colectivo, pueblo o comunidad indígena o afrodescendiente, podrá denunciar presuntas violaciones a los derechos humanos y acudir ante las oficinas de la Defensoría para presentar, directamente o por medio de representante, peticiones contra dichas violaciones. Cuando los interesados estén privados de su libertad o se desconozca su paradero, los hechos se podrán denunciar por cualquier persona, inclusive por menores de edad.
 
 ###### Artículo 45.
 
@@ -985,9 +999,11 @@ El titular de la Defensoría podrá publicar, en su totalidad o en forma resumid
 
 De no ser aceptada una recomendación, la Defensoría lo hará del conocimiento de la opinión pública. Cuando de la investigación se desprenda que no se acreditan violaciones a los derechos humanos, esto deberá comunicarse a la autoridad contra quien se presentó la queja y a su superior jerárquico. En casos excepcionales podrá determinarse si los documentos que emite, sólo deban comunicarse a los interesados de acuerdo con las circunstancias del propio caso.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 78.
 
-Los informes anuales a que se refiere la fracción IX, del artículo 24 de esta Ley, deberán comprender una descripción del número y características de las quejas y denuncias que se hayan presentado, los efectos de la labor de conciliación; las investigaciones realizadas, las recomendaciones y las determinaciones de no violación que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren relevantes. Asimismo, el informe podrá contener propuestas dirigidas a las autoridades y servidores públicos competentes, tanto federales, como locales y municipales para promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes, con el objeto de tutelar de manera más efectiva los derechos humanos de los gobernados y lograr una mayor eficiencia en la prestación de los servicios públicos.
+Los informes anuales, deberán contener una descripción del número y características de las quejas y denuncias que se hayan presentado, los efectos de la labor de conciliación; las investigaciones realizadas, las recomendaciones y las determinaciones de no violación que se hubiesen formulado; los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren relevantes. El informe deberá contener propuestas dirigidas a las autoridades y servidores públicos competentes, federales, locales y municipales a efecto de promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas, con el objeto de tutelar de manera más efectiva y expedita los derechos humanos de los gobernados y lograr una mayor eficiencia en la prestación de los servicios públicos.
 
 ###### Artículo 79.
 
@@ -1132,3 +1148,11 @@ P.O. 12 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se derogan todas las disposiciones de la misma o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 699.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 2, EL PRIMER PÁRRAFO DEL ARTÍCULO 3, LA FRACCIÓN VIII Y XIV DEL ARTÍCULO 13, EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 40, EL ARTÍCULO 44 Y EL ARTÍCULO 78 DE LA LEY DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
