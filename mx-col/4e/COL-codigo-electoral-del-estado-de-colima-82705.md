@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-82705"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-30"
-last_updated: "2020-07-13"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 
@@ -463,9 +463,11 @@ En el caso del artículo 57 de la CONSTITUCIÓN, el CONGRESO, a más tardar al d
 
 Se verificará elección extraordinaria cuando se declare nula una elección o la vacante de una diputación de mayoría relativa, en un plazo que no excederá los 90 días naturales siguientes a la resolución. La convocatoria la expedirá el CONGRESO dentro de los 15 días siguientes a la declaratoria respectiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 29.
 
-La vacante de una diputación de representación proporcional deberá ser cubierta por aquel candidato del mismo partido que siga en el orden de la lista plurinominal, después de habérsele asignado los Diputados que le hubiesen correspondido.
+La vacante de una diputación de representación proporcional deberá ser cubierta por aquella candidata o candidato del mismo partido y género vacante que siga en el orden de la lista plurinominal, después de habérsele asignado los Diputados que le hubiesen correspondido.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -3849,7 +3851,11 @@ I. Se asignarán a cada partido político tantas diputaciones como número de ve
 
 II. Si después de aplicarse el cociente de asignación quedan diputaciones por repartir, éstas se distribuirán por el método del resto mayor siguiendo el orden decreciente de los votos no utilizados por cada uno de los PARTIDOS POLÍTICOS; y
 
-III. Todas las asignaciones seguirán el orden que los candidatos a diputados plurinominales tengan en las listas respectivas.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+III. Todas las asignaciones seguirán el orden que los candidatos y candidatas a diputados plurinominales tengan en las listas respectivas.
+
+En el caso de las vacantes por dicho principio, además de respetarse el orden que las candidatas y candidatos a diputados plurinominales tengan en las listas respectivas, se respetará el género vacante.
 
 ###### ARTÍCULO 261.
 
@@ -5874,3 +5880,9 @@ SEGUNDO. La Fiscalía General del Estado de Colima deberá crear la base estadí
 TERCERO. El Consejo General del Instituto Electoral del Estado, deberá emitir los lineamientos para prevenir, atender y erradicar la violencia política contra las mujeres por razón de género, antes del inicio del periodo de precampañas del Proceso Electoral Local 2020-2021, de conformidad con la reforma aprobada al artículo 114, fracción VIII, del Código Electoral del Estado de Colima, en términos del presente Decreto.
 
 CUARTO. Los Partidos Políticos deberán crear los mecanismos internos para prevenir, sancionar y erradicar la violencia política contra las mujeres por razón de género, antes del inicio del periodo de precampañas del Proceso Electoral Local 2020-2021, de conformidad con la reforma aprobada al artículo 51, fracción I, del Código Electoral del Estado de Colima, en términos del presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 171.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 29 Y 260 FRACCIÓN III DEL CÓDIGO ELECTORAL DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
