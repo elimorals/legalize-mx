@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2021-12-18"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1701,7 +1701,7 @@ Para efectos de este artículo, se entiende cerca de escuelas, cuando la venta s
 
 193 Ter.- Además de las penas establecidas en el artículo anterior, en caso de reincidencia, se procederá a la cancelación del permiso o licencia.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ### CAPITULO UNICO.
 
@@ -1709,7 +1709,9 @@ Para efectos de este artículo, se entiende cerca de escuelas, cuando la venta s
 
 194.- Comete el delito de corrupción de personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho:
 
-I. Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE OCTUBRE DE 2022)</small>
+
+I. Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes o tabaco, en cualquiera de sus presentaciones; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
@@ -1738,6 +1740,16 @@ V. Al que comercie, distribuya, exponga, haga circular u oferte, a menores de di
 No se entenderá como material pornográfico, aquel que signifique o tenga como fin la divulgación científica, artística o técnica, o en su caso, la educación sexual, educación sobre la función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo, siempre que esté aprobado por la autoridad competente.
 
 Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+194 Bis.- Queda prohibido emplear a personas menores de dieciocho años de edad o a personas que no tienen capacidad para comprender el significado del hecho, en cantinas, tabernas, bares, antros, centros de vicio o cualquier otro lugar en donde se afecte de forma negativa su sano desarrollo físico, mental o emocional.
+
+La contravención a esta disposición se castigará con prisión de uno a tres años y de trescientos (sic) a setecientas veces el valor de la Unidad de Medida y Actualización vigente; en caso de reincidencia, se ordenará el cierre definitivo del establecimiento.
+
+Se les impondrá la misma pena a las madres, padres, tutores o curadores que acepten o promuevan que sus hijas o hijos menores de dieciocho años de edad, o personas menores de dieciocho años de edad o personas que estén bajo su guarda, custodia o tutela, sean empleados en los referidos establecimientos.
+
+Para los efectos de este precepto se considerará como empleado en la cantina, taberna, bar o centro de vicio, a la persona menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole o por cualquier otro estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
@@ -1851,7 +1863,7 @@ III. Si el sujeto activo es ministro de un culto religioso.
 
 ## TITULO SEXTO.
 
-Delitos contra la dignidad y el desarrollo de las personas Menores de edad o de quienes no tienen la capacidad Para comprender el significado del hecho.
+Delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho.
 
 > <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)</small>
 
@@ -1998,6 +2010,10 @@ E) Contrate deuda o realice colocaciones de fondos y valores con recursos públi
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 F) Consienta la operatividad, expida permiso o licencia dentro de su jurisdicción a las entidades financieras integrantes del Sistema Financiero Mexicano, que no estén reguladas por la Comisión Nacional Bancaria y de Valores, sin perjuicio de que se le aplique la sanción administrativa, civil o de cualquier otra índole, a la que se haga acreedor.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+G) Otorgue permisos, licencias, adjudicaciones, autorizaciones o concesiones de prestación de servicio público en áreas naturales protegidas de jurisdicción estatal o municipal.
 
 II.- El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
 
@@ -4357,55 +4373,43 @@ II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del
 
 Feminicidio.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-411. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género.
+411.- Comete el delito de feminicidio quien prive de la vida a una mujer por una razón de género.
 
-Se entiende por razones de género cuando ocurra cualquiera de las siguientes circunstancias:
+Se considera que existe una razón de género cuando ocurra cualquiera de las siguientes circunstancias:
 
-I.- La víctima presente signos de violencia sexual de cualquier tipo;
+I. La víctima o los restos de la víctima presenten signos de violencia sexual de cualquier tipo.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+II. A la víctima se le hayan infligido heridas, traumatismos, escoriaciones, contusiones, decapitamiento, desollamiento, fracturas, dislocaciones, cortes, quemaduras, signos de asfixia, estrangulamiento, tortura, desmembramiento de partes del cuerpo o cualquier tipo de lesiones o mutilaciones, internas o externas, infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia.
 
-II.- A la víctima se le hayan infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras o mutilaciones o signos de asfixia, previos o posteriores a la privación de la vida;
+III. Existan datos, información, antecedentes, o indicios, denunciados o no, que refieran cualquier tipo de violencia en el ámbito familiar, laboral, escolar, comunitario, institucional, político o digital o cualquier otro, del sujeto activo en contra de la víctima, aun cuando no haya denuncia, querella o cualquier otro tipo de registro.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+IV. Existan datos, información, antecedentes, o indicios, denunciados o no, que establezcan que hubo amenazas, agresiones, intimidación, acoso, maltrato o lesiones del sujeto activo en contra de la víctima, incluidas aquellas encaminadas a limitar, anular o menoscabar los derechos políticos y electorales de la víctima o el ejercicio de un cargo político, público, de poder o de decisión.
 
-III.- Existan datos, información que refiera algún tipo de violencia, en cualquier ámbito, previo a la comisión del delito o amenazas, acoso y maltrato del sujeto activo en contra de la víctima, aun cuando no haya denuncia, querella o cualquier otro tipo de registro;
+V. Haya existido, entre el activo y la víctima una relación sentimental, afectiva, de confianza, de parentesco por consanguinidad, afinidad, matrimonio, concubinato, sociedad de convivencia, cohabitación, noviazgo o cualquier otra relación de hecho o amistad.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+VI. Haya existido entre el sujeto activo y la víctima, una relación laboral, docente, religiosa, institucional o cualquier otra que implique, de manera formal o de hecho, una relación de subordinación o superioridad.
 
-IV.- El cuerpo, cadáver o restos de la víctima hayan sido enterrados, ocultados, incinerados, o sometidos a cualquier sustancia que lo desintegre;
+VII. Por desprecio u odios a la víctima motivado por discriminación o misoginia.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+VIII. La víctima se haya encontrado en un estado de indefensión, entendiéndose esta como la situación de desprotección real o incapacidad de defensa, causada por un impedimento físico, psicológico o material para solicitar el auxilio, incluyendo factores externos que inhiban su capacidad de defensa o conciencia, como el estado de somnolencia, alcoholemia, consumo de fármacos o drogas, ya sea voluntario o involuntario.
 
-V.- El cuerpo, cadáver o restos de la víctima hayan sido expuestos, abandonados, depositados, o arrojados, en bienes del dominio público o de uso común o cualquier espacio de libre concurrencia;
+IX. La víctima haya sido incomunicada o privada de su libertad, cualquiera que sea el tiempo previo a su muerte.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+X. El cuerpo, cadáver o restos de la víctima hayan sido enterrados, ocultados, incinerados o sometidos a cualquier sustancia que lo desintegre.
 
-VI.- Que la víctima haya sido incomunicada o privada de su libertad, cualquiera que sea el tiempo previo a su muerte, o
+XI. El cuerpo, cadáver o restos de la víctima hayan sido expuestos, abandonados, exhibidos, depositados, arrojados o enterrados en un lugar público, o de uso común o cualquier espacio de libre concurrencia.
 
-VII.- Por desprecio u odio a la víctima motivado por discriminación o misoginia.
+Se entenderá como desprecio u odio cuando el activo realice conductas humillantes o degradantes, antes o durante la privación de la vida, así como actos de profanación al cadáver, incluidos actos de necrofilia.
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2018)</small>
+Se entiende por misoginia las conductas de odio contra la mujer que se manifiestan mediante actos violentos o crueles contra ella.
 
-VIII.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
-
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-IX.- Existan antecedentes o indicios que la agresión cometida contra la víctima, haya tenido como finalidad impedirle el ejercicio de su derecho de votar o ser votada, en la elección de autoridades estatales o municipales.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-Se entenderá como desprecio u odio cuando el activo realice, conductas humillantes o degradantes, antes o durante la privación de la vida, así como actos de profanación al cadáver incluidos actos de necrofilia.
-
-Se entiende por misoginia las conductas contra la mujer que se manifiestan mediante actos violentos o crueles contra ella.
+Todas las muertes violentas de una mujer, incluidas aquellas que en principio parecieran haber sido causadas por motivos criminales, suicidio y algunos accidentes, deben investigarse como probable feminicidio. Cuando no se acredite el feminicidio se aplicarán las reglas del homicidio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 412.
-
-A quien cometa el delito de feminicidio se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
+412. A quien cometa el delito de feminicidio se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -4465,9 +4469,9 @@ Las anteriores sanciones se impondrán con independencia de otros delitos que se
 
 ### CAPITULO IV. Discriminación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-412 BIS.- Comete el delito de discriminación quien por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, discapacidad, embarazo, opiniones políticas o de cualquier otra índole, que atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+412 BIS.- Comete el delito de discriminación quien por razones de origen o pertenencia étnica o nacional, color de piel, lengua, religión, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, discapacidad, embarazo, opiniones políticas, creencia religiosa o de cualquier otra índole, que (sic) atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
 
@@ -4488,6 +4492,10 @@ IV. Niegue o restrinja derechos laborales, principalmente por razón de género 
 > <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2018)</small>
 
 V. Niegue o restrinja derechos educativos.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+VI. Imponga actividades, cuotas, cargos, servicios o castigos como sanción a no profesar religión o credo determinado.
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
@@ -4757,6 +4765,188 @@ II. Cuando las conductas delictivas sean realizadas por persona o personas que h
 
 III. Cuando los datos o información contenida en un sistema informático o electrónico, se refieran a datos personales o datos personales sensibles, en términos de lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+441.- Se impondrá pena de uno a nueve años de prisión y de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización a quien por sí o por interpósita persona, por acción u omisión provoque directa o indirectamente un daño irreversible, la destrucción o pérdida a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, al suelo, al subsuelo o al ambiente de un territorio de jurisdicción estatal hasta el punto de que el disfrute de los habitantes de ese territorio se vea severamente disminuido.
+
+En el caso de que las actividades a que se refiere el párrafo anterior, se lleven a cabo en un área natural protegida, la pena de prisión se incrementará hasta en tres años más y la pena económica hasta en quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+442.- Se impondrá pena de uno a seis años de prisión y de cien a mil quinientas veces el valor diario de la Unidad de Medida y Actualización a quien por sí o por interpósita persona, desobedezca las determinaciones, por la autoridad estatal o municipal administrativa competente, de las medidas de control, de urgente aplicación y/o de seguridad conforme a la normatividad ambiental aplicable o aporte información falsa, sobre los aspectos ambientales de un proyecto o actividad u obstaculice los actos de inspección y vigilancia de las autoridades competentes, provocando con dicha conducta deterioro grave al ambiente.
+
+Si los daños ambientales fueren irreversibles, al responsable de este delito se le impondrán las sanciones que dispone el artículo anterior.
+
+Un daño se considerará irreversible cuando, con las tecnologías y conocimientos disponibles, no fuere posible remediar el ambiente para volverlo al estado anterior al hecho punible.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+443.- Se impondrá pena de uno a nueve años de prisión y de trescientos a mil veces el valor diario de la Unidad de Medida y Actualización, al que ilícitamente, o sin aplicar las medidas de prevención o seguridad, realice actividades riesgosas de producción, manejo, almacenamiento, transporte, abandono, desecho, descarga, lo ordene o autorice o realice cualquier otra actividad con material peligroso que por sus características o cantidad contaminen o alteren perjudicialmente los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, al suelo, al subsuelo o al ambiente.
+
+En el caso de que las actividades riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un área natural protegida, la pena de prisión se incrementará hasta en tres años más y la pena económica hasta en quinientas veces el valor diario de la Unidad de Medida y Actualización
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+444.- Se impondrá pena de uno a nueve años de prisión y de trescientos a mil veces el valor diario de la Unidad de Medida y Actualización, a quien en contravención a la normatividad ambiental estatal aplicable o sin contar con el permiso, licencia o autorización correspondiente o sin aplicar las medidas de previsión o de seguridad:
+
+I. Emita, despida o descargue a la atmósfera gases, humos, polvos o partículas sólidas o de origen antropogénico o liquidas que causen o puedan ocasionar daños a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, al suelo, al subsuelo o al ambiente, por encima de lo establecido en las normas oficiales mexicanas, generadas por fuentes de emisoras de competencia estatal o municipal;
+
+II. Genere emisiones de ruido, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de competencia estatal o municipal, conforme a la normatividad ambiental estatal aplicable, que ocasione daños a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, al suelo, al subsuelo o al ambiente;
+
+III. Autorice, ordene o consienta la comisión de cualquiera de las conductas descritas en las fracciones anteriores.
+
+En el caso de que las actividades a que se refiere el presente artículo se lleven a cabo en un área natural protegida, la pena de prisión se incrementará hasta en tres años más y la pena económica hasta en quinientas veces el valor diario de la Unidad de Medida y Actualización
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+445.- Se impondrá pena de tres a nueve años de prisión y de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización, al que ilícitamente, o lo autorice u ordene, en contravención a la normatividad ambiental aplicable descargue o vierta o infiltre en cuerpos o corrientes de aguas de jurisdicción local, a los sistemas de drenaje y alcantarillado de jurisdicción estatal o municipal, en suelos o subsuelos aguas residuales sin previo tratamiento, agroquímicos, desechos o contaminantes que causen un riesgo de daño o dañe directa o indirectamente los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, al suelo, al subsuelo o al ambiente.
+
+Cuando la conducta prevista en el párrafo anterior se realice en sitios de almacenamiento de agua para consumo humano, la pena se incrementará hasta tres años más de prisión y hasta trescientas veces más el valor diario de la Unidad de Medida y Actualización.
+
+De igual forma se incrementará la pena de prisión hasta en tres años más y hasta en doscientas veces más el valor diario de la Unidad de Medida y Actualización, cuando el que realice la conducta tenga el carácter de servidor público o en su caso sea una autoridad.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+446.- Se impondrá pena de dos a nueve años de prisión y trescientas a mil veces el valor diario de la Unidad de Medida y Actualización, al que ilícitamente, realice actividades de exploración, explotación y aprovechamiento de minerales o sustancias no reservadas a la Federación, que cause o pueda causar impacto ambiental irreversible a la cubierta vegetal del suelo, erosión o alteración de cuerpos de agua, alteraciones en el ambiente, en los ecosistemas o en el equilibrio ecológico.
+
+Para efectos de este Título, un impacto ambiental irreversible, se considerará cuando por el uso de las tecnologías y/o conocimientos disponibles, no fuere posible recuperar el ambiente para volverlo al estado en el que se encontraba antes de la comisión del hecho.
+
+La pena de prisión podrá aumentarse hasta en tres años más y la pena económica hasta en quinientas veces más el valor diario de la Unidad de Medida y Actualización, para el caso en el que las conductas referidas afecten a un área natural protegida.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+447.- Se impondrá pena de uno a nueve años de prisión y de trescientos a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, a quien:
+
+I. Autorice, ordene o consienta el transporte, almacenamiento o acopio de residuos sólidos urbanos o de manejo especial que contamine o alterare perjudicialmente los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, al suelo, al subsuelo o al ambiente;
+
+II. Transporte, almacene o acopie residuos sólidos urbanos o de manejo especial sin contar con la autorización o permiso de la autoridad competente o deposite dichos residuos en sitios no autorizados;
+
+III. Asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental estatal vigente;
+
+IV. Prestando sus servicios como auditor, perito o especialista en materia ambiental, faltare a la verdad provocando que se cause un daño al ambiente y a los recursos naturales no reservados a la Federación;
+
+V. Destruya, altere u oculte información, registros, reportes o cualquier otro documento que se requiera mantener o archivar de conformidad a la normatividad ambiental estatal vigente,
+
+VI. No realice o cumpla las medidas de control, de urgente aplicación y/o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial determine o imponga.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+448.- Al que sin autorización de la autoridad competente acopie, almacene, transforme, transporte, comercie o destruya en cantidades de hasta cuatro metros cúbicos o inferiores de madera en rollo, astillas, carbón vegetal, así como cualquier otro recurso forestal maderable, o tierra procedente de suelos forestales, cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicará de uno a nueve años de prisión y de trescientos a mil veces el valor diario de la Unidad de Medida y Actualización.
+
+La pena privativa de la libertad a la que se hace referencia en el párrafo anterior, se incrementará hasta en tres años de prisión y quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando los recursos forestales maderables provengan de un área natural protegida.
+
+Cuando en la comisión de este delito se empleen los instrumentos conocidos como motosierras, sierras manuales o sus análogas, vehículos y demás objetos, se aumentará la pena de prisión hasta tres años.
+
+Los instrumentos y efectos del delito se asegurarán de oficio por el Ministerio Público, quien los pondrá a disposición de la autoridad judicial para el decomiso correspondiente, independiente de que puedan estar a disposición de otra autoridad.
+
+No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del presente artículo, cuando se trate de leña o de madera muerta, así como cuando el sujeto activo realice la actividad con fines de uso o consumo doméstico dentro de su comunidad y las cantidades no rebasen los cuatro metros cúbicos o, en su caso, a su equivalente en madera aserrada en rollo.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+449.- Se impondrá prisión de seis meses a nueve años y de quinientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, al que, en contravención a la normatividad aplicable, realice, autorice u ordene:
+
+I. La poda o derribo de algún árbol considerado mediante declaratoria como notable y/o histórico, sin contar con la autorización o permiso emitido por la autoridad competente;
+
+II. El derribo de uno o más árboles ubicados en la vía pública, predios particulares, en parques, jardines, áreas verdes, zonas urbanas o áreas de uso común, sin contar con la autorización o permiso emitido por la autoridad competente;
+
+III. Desarrolle cualquier obra o actividad que destruya, amenace, dañe o afecte a los recursos naturales y altere los ecosistemas, en contravención a los criterios establecidos en los programas de ordenamiento ecológico aplicable.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+450.- Se impondrá prisión de uno a nueve años y de quinientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, al que, ilícitamente ejecute, autorice u ordene actividades que contravengan las disposiciones legales, reglamentarias, las declaratorias respectivas y demás disposiciones aplicables en áreas naturales protegidas, cuando:
+
+I. Provoque un incendio que dañe elementos naturales, la flora, la fauna, los ecosistemas o al ambiente;
+
+II. Extraiga especies de flora y/o fauna silvestre, tierra y su cubierta vegetal;
+
+III. Realice extracción, explotación o aprovechamiento de recursos naturales;
+
+IV. Interrumpa, rellene, deseque o desvié flujos hidrológicos;
+
+V. Vierta o descargue contaminantes en el suelo, subsuelo y cualquier clase de cauce, vaso o acuífero;
+
+VI. Corte, arranque, derribe o tale uno o más árboles;
+
+VII. Ocupe, use, aproveche, o deteriore el área natural o el ecosistema del suelo de conservación.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+451.- Se impondrá prisión de seis meses a seis años y de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización, al que realice cualquiera de las conductas que a continuación se señalan:
+
+I. Invada las áreas naturales protegidas, es decir, las zonas sujetas a conservación ecológica, los parques locales y urbanos establecidos en el Estado para la preservación, restauración y mejoramiento ambiental;
+
+II. Atente contra las políticas y medidas de conservación, tales como las orientadas a mantener la diversidad genética y la calidad de vida, incluido el uso no destructivo de los elementos naturales, con el propósito de permitir la continuidad de los procesos evolutivos que les dieron origen;
+
+III. Cause pérdida o menoscabo en cualquier elemento natural o en el ecosistema, derivado del incumplimiento de una obligación establecida en la ley respectiva o en las normas oficiales mexicanas ambientales;
+
+IV. Contamine, destruya la calidad del suelo, áreas verdes en suelo urbano, humedales, áreas naturales protegidas, suelos de conservación o en cualquier cuerpo de agua;
+
+V. Cause la erosión, deterioro, degradación o cambio de las condiciones físicas naturales de los suelos de conservación, de las áreas naturales protegidas de las barrancas, áreas verdes en suelo urbano, humedales o vasos de presas.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+452.- Se impondrá de cinco a nueve años de prisión y de trescientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización a quien realice actividades en los predios con usos distintos al de su vocación, o a los señalados en los programas de desarrollo urbano, de ordenamiento ecológico territorial, suelos de conservación, zonas forestales, bosques, humedales, selvas, parques, áreas verdes en suelo urbano o barrancas.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+453.- Se impondrá pena de uno a nueve años de prisión y trescientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, a quien autorice o realice obras de construcción, edificación y cualquier otra actividad contraria al uso de suelo y a la zonificación, que dañe o pueda dañar elementos naturales, flora, fauna, los ecosistemas y/o al ambiente dentro de un área natural protegida.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+454.- Se impondrá prisión de tres a nueve años y de trescientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, a los prestadores de servicios ambientales autorizados, a los responsables o propietarios de las unidades o centros de verificación vehicular, laboratorios y/o cualquier persona física o jurídica que, de manera dolosa o culposa, proporcione documentación o información falsa o alterada, u omita datos, con el objeto de que las autoridades ambientales competentes, otorguen o avalen licencias, autorizaciones, registros o permisos de cualquier tipo.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+455.- Se le impondrá prisión de seis meses a tres años y de trescientos a mil veces el valor diario de la Unidad de Medida y Actualización, a los propietarios, responsables o técnicos de centros o unidades de verificación de vehículos automotores, que manipulen o alteren los equipos de medición con el fin de aprobar la verificación vehicular.
+
+La pena incrementará a dos años más de prisión y la pena económica hasta en quinientas veces más la Unidad de Medida y Actualización, a los propietarios o responsables de centros o unidades de verificación de vehículos automotores, que utilicen documentos falsos o alterados para acreditar la aprobación de la verificación vehicular.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+456.- Además de lo establecido en los anteriores capítulos del Título Tercero, se impondrán las siguientes sanciones:
+
+I. Cuando la comisión del delito sea de manera culposa, la pena aplicable será únicamente la equivalente a la multa que le correspondería como delito doloso.
+
+II. En el caso de que el imputado, carezca de los medios para cumplir con multa impuesta, este deberá realizar trabajos a favor de la comunidad, los cuales estarán relacionados con el medio ambiente o en la restauración de los recursos naturales cuando ello sea posible.
+
+Los trabajos a favor de la comunidad, consistirán en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
+
+III. La reparación y en su caso la compensación del daño al ambiente, restauración y/o restablecimiento del sitio, consistirá en la realización de las acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de cometerse el delito y conforme a los criterios dispuestos en la normatividad aplicable en materia ambiental;
+
+IV. La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo, o
+
+V. Inhabilitación, cuando el autor o participe del delito tenga la calidad de servidor público, hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida.
+
+Para los efectos a los que se refiere este artículo, el juez deberá solicitar a la autoridad competente o a las instituciones de educación superior o de investigación científica, la expedición del dictamen técnico correspondiente.
+
+Las autoridades competentes en materia ambiental, deberán proporcionar al ministerio público o al juez, los dictámenes técnicos o periciales que se requieran con motivo de las denuncias presentadas por la comisión de los delitos a que se refiere el presente Título, la gravedad del daño ambiental estará determinado en los dictámenes técnicos o periciales emitidos por la autoridad ambiental competente y conforme a la legislación ambiental, reglamentaria y demás aplicable.
+
+Los parámetros mínimos y máximos de las penas de prisión a que se refiere el presente Título se disminuirán a la mitad, cuando el imputado o procesado repare o compense voluntariamente el daño al ambiente antes de que tal obligación le haya sido impuesta por resolución administrativa o sentencia judicial. Dicha disminución procederá también, cuando se realice o garantice la reparación del daño y en su caso la restauración, en términos de lo dispuesto por la normatividad aplicable en materia ambiental.
+
+Al que se niegue a la reparación del daño ocasionado al ecosistema y sus componentes, suelo, agua, atmósfera, flora y fauna, se le impondrá de quinientas a mil quinientas Unidades de Medida y Actualización y de seis meses a seis años de prisión.
+
+Se considerarán víctimas con derecho a solicitar la reparación o compensación del daño ambiental y coadyuvar en el proceso penal, a las personas legitimadas en términos de lo dispuesto por la normatividad aplicable en materia ambiental.
+
+Los delitos previstos en este capítulo, también son punibles si se cometen en grado de tentativa, siempre que la naturaleza del delito lo permita.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+457.- La pena se aumentará hasta en tres años más de prisión y de trescientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, así como, la inhabilitación para ocupar cargos públicos, cuando, en la comisión de las conductas o cualquier otro delito previsto en este Capítulo, intervenga un servidor público en ejercicio, quien, con motivo de sus funciones y haciendo uso de sus facultades, integre expedientes, otorgue o avale licencias, autorizaciones, registros, constancias o permisos de cualquier tipo que pongan en riesgo el medio ambiente o los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+458.- En caso de delitos contra el ambiente, el derecho a la reparación o compensación del daño se instituye en beneficio de la comunidad y a favor del fondo ambiental estatal a que refiere la ley de la materia.
+
+El juez tomará en cuenta para la determinación del daño causado en materia ambiental el dictamen técnico o pericial emitido por la autoridad ambiental competente que precisará los elementos cuantificables del daño.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+459.- Los delitos del presente Título podrán denunciarse por cualquier persona o por las mismas autoridades ambientales.
+
 ARTICULOS TRANSITORIOS:
 
 ## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
@@ -4846,6 +5036,10 @@ El conocimiento de la actividad delictiva y la existencia de la misma se acredit
 ## TITULO VIGESIMO SEPTIMO.
 
 > <small>(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 2020)</small>
+
+## TITULO VIGESIMO OCTAVO. DELITOS CONTRA EL AMBIENTE
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 1o.
 
@@ -5810,3 +6004,45 @@ P.O. 18 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 690.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 412 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 692.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 194, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 693.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 194 BIS, AL CAPÍTULO I "CAPITULO ÚNICO" DEL TITULO SEXTO "DELITOS CONTRA LA DIGNIDAD Y EL DESARROLLO DE LAS PERSONAS MENORES DE EDAD O DE QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO", DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 695.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 411 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 697.- MEDIANTE EL CUAL ADICIONA EL INCISO G) A LA FRACCIÓN I DEL ARTÍCULO 208; Y UN TÍTULO VIGÉSIMO OCTAVO, DENOMINADO "DELITOS CONTRA EL AMBIENTE", QUE COMPRENDE LOS ARTÍCULOS 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458 Y 459 AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; Y SE ADICIONA UN CAPÍTULO SEXTO AL TÍTULO SÉPTIMO QUE CONTIENE LOS ARTÍCULOS 266 Y 267 A LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
