@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2022-10-15"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -367,9 +367,9 @@ VIII. Evitar todo acto de discriminación, abuso, explotación, aislamiento, vio
 
 IX. Denunciar ante la autoridad competente los casos que sean de su conocimiento sobre discriminación, abandono, desamparo, marginación, abuso, explotación, despojo o violencia contra personas adultas mayores;
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-X. Atender las necesidades psicoemocionales de la persona adulta mayor, cuando ésta se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención, a efecto de mantener los lazos familiares; y
+X. Atender las necesidades psicoemocionales o enfermedades neurodegenerativas de la persona adulta mayor, existiendo especial obligación cuando ésta se encuentre en alguna institución pública o privada, casa hogar, albergue, residencia de día o cualquier otro centro de atención, a efecto de mantener los lazos familiares; y
 
 XI. Todas aquellas que se establezcan en esta Ley y demás ordenamientos aplicables.
 
@@ -924,6 +924,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 15 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 673.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN IX, SE (SIC) RECORRIENDOSE LA SUBSECUENTE AL ARTÍCULO 26 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 702.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN X DEL ARTÍCULO 11 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
