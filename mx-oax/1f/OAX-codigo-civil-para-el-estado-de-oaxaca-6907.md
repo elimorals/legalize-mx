@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2021-12-04"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -413,11 +413,13 @@ Cuando de la pérdida aparecieren indicios sobre la probable comisión de un del
 
 Los formatos del Registro Civil serán autorizados y distribuidos anualmente por el Director del Registro Civil. Los Oficiales del Registro Civil remitirán mensualmente dos ejemplares de los legajos de actas levantadas a la Dirección del Registro Civil adjuntando el apéndice respectivo; otro tanto quedará en el archivo de la Oficialía.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 52.
 
-Toda persona puede solicitar certificación de datos y/o fotocopia certificada de las actas del Registro Civil. El Director, los Oficiales del Registro Civil y el Jefe del Archivo Central están obligados a expedirlas, así como aquellas relativas a los documentos del apéndice, pudiéndose utilizar para tal efecto la firma autógrafa de los servidores públicos o la firma facsimilar digitalizada. El Estado garantizará la certeza de los actos que se validen con el uso de la firma facsimilar digitalizada.
+Toda persona puede solicitar certificación de datos y/o fotocopia certificada de las actas del Registro Civil. El Director, los Oficiales del Registro Civil y el Jefe del Archivo Central están obligados a expedirlas, de manera inmediata y sin mayor impedimento y dilación que las establecidas en el presente código, así como aquellas relativas a los documentos del apéndice, pudiéndose utilizar para tal efecto la firma autógrafa de los servidores públicos o la firma facsimilar digitalizada. El Estado garantizará la certeza de los actos que se validen con el uso de la firma facsimilar digitalizada y sancionará el incumplimiento de esta disposición.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2004)</small>
 
 Ninguna otra autoridad, podrá expedir certificaciones de las actas del Registro Civil, salvo lo dispuesto por el Reglamento Interior.
 
@@ -521,13 +523,17 @@ La Dirección del Registro Civil supervisará las actuaciones de los Oficiales d
 
 Las declaraciones de nacimiento se harán presentando a la niña o niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste al lugar donde se encuentre aquél, acompañando el certificado de nacimiento. El certificado de nacimiento se otorgará de forma gratuita y deberá ser suscrito por médico autorizado para el ejercicio de su profesión, o persona que haya asistido el parto, en el formato expedido para tal efecto por la Secretaría de Salud del Estado. Dicho certificado hace prueba del día, hora, lugar de nacimiento, maternidad y sexo del nacido.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-En los lugares donde no existan instituciones de salud cercanas o el parto fuere asistido por persona que no cuente con autorización para certificar el nacimiento, la autoridad municipal bajo su responsabilidad, expedirá constancia de nacimiento, la cual deberá contener día, hora, lugar de nacimiento, maternidad y sexo del nacido, sustentada en dicha constancia, la Dirección del Registro Civil deberá realizar el trámite del registro de la niña o niño.
+En los lugares donde no existan instituciones de salud cercanas o el parto fuera asistido por persona que no cuente con autorización para certificar el nacimiento o por partera tradicional, la autoridad municipal bajo su responsabilidad expedirá constancia de nacimiento, la cual deberá contener día, hora, lugar de nacimiento, maternidad y sexo del nacido sustentada en dicha constancia. La Dirección del Registro Civil deberá realizar el trámite del registro de la niña o niño con base en la constancia de nacimiento expedida por la autoridad municipal.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-La Dirección del Registro civil, para garantizar el derecho a la identidad, realizará de manera gratuita el registro de nacimiento de niñas y niños dentro de los ciento ochenta días de ocurrido. Los oficiales del Registro Civil tendrán la obligación de expedir sin costo las dos primeras copias certificadas del acta de nacimiento.
+En los casos que el parto fuera asistido por partera tradicional, esta podrá extender una constancia de alumbramiento, que deberá contener día, hora, lugar de nacimiento, maternidad y sexo de la o el nacido, la cual no sustituye la constancia de nacimiento expedida por la autoridad municipal.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+La Dirección del Registro Civil, para garantizar el derecho a la identidad, realizará de manera gratuita el registro de nacimiento de niñas y niños. Los oficiales del Registro Civil tendrán la obligación de expedir sin costo las dos primeras copias certificadas del acta de nacimiento.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
 
@@ -555,13 +561,13 @@ III. La especificación del sexo del registrado;
 
 IV. El nombre que le asignen los padres o persona distinta que presente al registrado;
 
-> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-V. El primer apellido de cada uno de los progenitores, dejando a su elección y común acuerdo el Orden en que deban asentarse los apellidos, si ambos progenitores se presentaren al reconocimiento, o los apellidos del que se presente.
+V. Cualquier apellido de cada uno de los progenitores, dejando a su elección y común acuerdo el orden en que deban asentarse los apellidos, si ambos progenitores se presentaren al reconocimiento, o los apellidos del que se presente.
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2021)</small>
+El orden de los apellidos acordados se considerará para los demás hijas e hijos del mismo vínculo.
 
-Tratándose de registro de nacimiento de niña y niños cuya madre haya fallecido con motivo del parto o cesárea, se tomará el certificado de nacimiento suscrito por medico o medica autorizado para el ejercicio de su profesión o persona que haya asistido al parto, en el formato expedido para tal efecto por la Secretaría de Salud, y de encontrarse asentado el nombre de la madre, se anotará este en el registro de nacimiento solicitando además el acta de defunción de esta.
+Tratándose de registro de nacimiento de niñas y niños cuya madre haya fallecido con motivo del parto o cesárea, se tomará el certificado de nacimiento suscrito por médico o médica autorizado para el ejercicio de su profesión o personas que haya asistido al parto, en el formato expedido para tal efecto por la Secretaría de Salud, y de encontrarse asentado el nombre de la madre, se anotará este en el registro de nacimiento solicitando además el acta de defunción de esta.
 
 VI. Si lo presentare persona distinta, se le pondrán al registrado el nombre y los apellidos que ésta determine;
 
@@ -15708,3 +15714,21 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 691.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 52, LOS PÁRRAFOS SEGUNDO Y CUARTO DEL ARTÍCULO 66; Y SE ADICIONA UN PÁRRAFO TERCERO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 66 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El Registro Civil dispondrá de 60 días posteriores a la publicación del presente decreto para emitir circular a las parteras registradas.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 696.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 68 DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
