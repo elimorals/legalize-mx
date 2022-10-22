@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2021-10-23"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -3095,6 +3095,24 @@ Sin perjuicio de las sanciones penales o administrativas que procedan, toda pers
 
 El término para demandar la responsabilidad ambiental, será de cinco años contados a partir del momento en que la autoridad tenga conocimiento de los efectos adversos que sobre la salud pública o el ambiente produzcan el acto, hecho u omisión correspondiente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO VI. DE LOS DELITOS CONTRA EL MEDIO AMBIENTE
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 266.
+
+En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la Secretaría, Procuraduría y los gobiernos municipales, según corresponda, tengan conocimiento de actos u omisiones que pudieran constituir delitos conforme a lo previsto en la legislación aplicable, formulará ante el ministerio público federal o local la denuncia correspondiente.
+
+Toda persona podrá presentar directamente las denuncias que correspondan a los delitos ambientales previstos en la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 267.
+
+La Secretaría, Procuraduría y los gobiernos municipales, según corresponda, proporcionarán, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el ministerio público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
+
 T R A N S I T O R I O S:
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
@@ -3182,3 +3200,11 @@ P.O. 23 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 697.- MEDIANTE EL CUAL ADICIONA EL INCISO G) A LA FRACCIÓN I DEL ARTÍCULO 208; Y UN TÍTULO VIGÉSIMO OCTAVO, DENOMINADO "DELITOS CONTRA EL AMBIENTE", QUE COMPRENDE LOS ARTÍCULOS 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458 Y 459 AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; y SE ADICIONA UN CAPÍTULO SEXTO AL TÍTULO SÉPTIMO QUE CONTIENE LOS ARTÍCULOS 266 Y 267 A LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
