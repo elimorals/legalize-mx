@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2022-07-30"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -57,11 +57,11 @@ La seguridad pública es una función a cargo del Estado y de los Municipios, qu
 
 La función de seguridad pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instituciones responsables de la prisión preventiva, ejecución de penas y medidas de seguridad de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 4.
 
-Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficacia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en las Constituciones Federal y Estatal.
+Las instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficacia, profesionalismo, honradez, y perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos. Deberán fomentar la participación ciudadana.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -3542,3 +3542,11 @@ P.O. 30 DE JULIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 709.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 4 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
