@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2022-10-15"
+last_updated: "2022-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -882,6 +882,14 @@ Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel de 
 Para la efectividad del derecho a la protección de la salud y a la Seguridad Social, de niñas, niños y adolescentes, las autoridades estatales y municipales se coordinarán, en el ámbito de sus respectivas competencias.
 
 En la aplicación e interpretación del presente artículo se atenderá a lo establecido en el artículo 50 y demás disposiciones aplicables de la Ley General de los derechos de Niñas, Niños y Adolescentes, así como, a lo dispuesto en la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 39 Bis.
+
+La Secretaría de Salud del Estado implementará políticas públicas que prevengan y atiendan de manera especial las causas que provocan el suicidio, la depresión, la ansiedad o cualquier otro trastorno mental.
+
+Para el cumplimiento de lo dispuesto en el párrafo anterior, la Secretaría de Salud podrá coordinarse con las autoridades municipales.
 
 ### CAPÍTULO XII. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
@@ -2644,6 +2652,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 15 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 675.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IX DEL ARTÍCULO 6 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 703.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 39 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
