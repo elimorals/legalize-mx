@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2022-07-09"
+last_updated: "2022-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INCLUSIÓN E INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -357,11 +357,19 @@ XIV. La eliminación de las barreras actitudinales.
 
 La protección de los derechos de las personas con discapacidad, tiene como finalidad asegurarles un desarrollo pleno, lo que implica la oportunidad de integrarse física, mental, emocional, social y moralmente en condiciones de igualdad.
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 9° Bis.
 
-Las personas con discapacidad gozarán de todos los derechos inherentes al ser humano, así como los establecidos en el marco jurídico nacional e internacional, por lo que cualquier distinción, exclusión, restricción, abuso o explotación por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo, será considerada discriminación por motivo de discapacidad.
+Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico mexicano, sin distinción de origen étnico, nacional, género, edad, o un trastorno de talla, condición social, económica o de salud, religión, opiniones, estado civil, preferencias sexuales, embarazo, identidad política, lengua, situación migratoria o cualquier otro motivo u otra característica propia de la condición humana o que atente contra su dignidad.
+
+Las medidas contra la discriminación tienen como finalidad prevenir o corregir que una persona con discapacidad sea tratada de una manera directa o indirecta menos favorable que otra que no lo sea, en una situación comparable.
+
+Las medidas contra la discriminación consisten en la prohibición de conductas que tengan como objetivo o consecuencia atentar contra la dignidad de una persona, crear un entorno intimidatorio, hostil, degradante u ofensivo, debido a la discapacidad que ésta posee.
+
+Las acciones afirmativas positivas consisten en apoyos de carácter específico destinados a prevenir o compensar las desventajas o dificultades que tienen las personas con discapacidad en la incorporación y participación plena en los ámbitos de la vida política, económica, social y cultural.
+
+Para efectos del párrafo anterior, la Administración Pública, de conformidad con su ámbito de competencia, impulsará el derecho a la igualdad de oportunidades de las personas con discapacidad, el pleno desarrollo, adelanto y empoderamiento de las mujeres, a través del establecimiento de medidas contra la discriminación y acciones afirmativas positivas que permitan la inclusión social de las personas con discapacidad. Será prioridad de la Administración Pública adoptar medidas de acción afirmativa positiva para aquellas personas con discapacidad que sufren un grado mayor de discriminación, como son las mujeres, las personas con discapacidad con grado severo, las que viven en el área rural, o bien, no pueden representarse a sí mismas.
 
 ###### Artículo 10°.
 
@@ -1462,3 +1470,9 @@ P.O. 9 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 114.- POR EL QUE SE REFORMA EL ARTÍCULO 17, PÁRRAFO PRIMERO Y LA FRACCIÓN I, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 170.- POR EL QUE SE REFORMA EL ARTÍCULO 9 BIS DE LA LEY PARA LA INCLUSIÓN E INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
