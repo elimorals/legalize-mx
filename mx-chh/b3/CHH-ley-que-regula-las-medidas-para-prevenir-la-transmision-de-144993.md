@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-las-medidas-para-prevenir-la-transmision-de-1449
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-14"
-last_updated: "2020-11-14"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY QUE REGULA LAS MEDIDAS PARA PREVENIR LA TRANSMISION DE ENFERMEDADES RESPIRATORIAS VIRALES EN EL ESTADO DE CHIHUAHUA (ANTES: LEY QUE REGULA EL USO OBLIGATORIO DE CUBREBOCAS Y DEMAS MEDIDAS PARA PREVENIR LA TRANSMISION DE LA ENFERMEDAD COVID-19 EN EL ESTADO DE CHIHUAHUA)
 
-LEY QUE REGULA EL USO OBLIGATORIO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA ENFERMEDAD COVID-19 EN EL ESTADO DE CHIHUAHUA
+LEY QUE REGULA LAS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE ENFERMEDADES RESPIRATORIAS VIRALES EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 92 del Periódico Oficial del Estado de Chihuahua, el sábado 14 de noviembre de 2020.
 
@@ -41,11 +41,15 @@ LA SEXAGÉSIMA SEXTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA,
 
 D E C R E T A
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO ÚNICO.
 
-Se expide la Ley que Regula el Uso Obligatorio de Cubrebocas y demás Medidas para Prevenir la Transmisión de la Enfermedad COVID-19 en el Estado de Chihuahua, para quedar redactada de la siguiente forma:
+Se expide la Ley que Regula las Medidas para Prevenir la Transmisión de Enfermedades Respiratorias Virales en el Estado de Chihuahua, para quedar redactada de la siguiente forma:
 
-LEY QUE REGULA EL USO OBLIGATORIO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA ENFERMEDAD COVID-19 EN EL ESTADO DE CHIHUAHUA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+LEY QUE REGULA LAS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE ENFERMEDADES RESPIRATORIAS VIRALES EN EL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO I. DEL USO DEL CUBREBOCAS Y DEMÁS MEDIDAS PREVENTIVAS
 
@@ -53,13 +57,17 @@ LEY QUE REGULA EL USO OBLIGATORIO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR L
 
 Objeto de la Ley.
 
-La presente Ley es de orden público y de observancia general en el territorio del Estado de Chihuahua, y tiene como objeto establecer como medida de prevención y cuidado a la salud pública, el uso obligatorio de cubrebocas en las personas, así como otras medidas para prevenir la transmisión y riesgos de contagio de la enfermedad COVID-19, hasta que la autoridad sanitaria estatal declare oficialmente la conclusión de la pandemia.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+La presente Ley es de orden público y de observancia general en el territorio del Estado de Chihuahua, y tiene como objeto establecer las disposiciones relativas a la definición de medidas de prevención y cuidado a la salud pública, para prevenir la transmisión y riesgos de contagio de enfermedades respiratorias virales.
 
 ###### Artículo 2.
 
 Obligatoriedad del uso del cubrebocas.
 
-El uso de cubrebocas es obligatorio para todas las personas que se encuentren en el territorio del Estado de Chihuahua, en vías y espacios públicos o de uso común, en el interior de establecimientos ya sea de comercio, industria o servicios, centros de trabajo de cualquier ramo, centros comerciales, considerados como esenciales o no esenciales; así como para usuarios, operadores y conductores del servicio de transporte de pasajeros.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+El uso de cubrebocas será obligatorio para las personas que se encuentren en el territorio del Estado de Chihuahua, en vías y espacios públicos o de uso común, en el interior de establecimientos ya sea de comercio, industria o servicios, centros de trabajo de cualquier ramo, así como para usuarios, operadores y conductores del servicio de transporte de pasajeros, cuando la autoridad sanitaria estatal así lo determine, conforme a los términos y alcances que esta defina. Para efectos de esta Ley, se entenderá por autoridad sanitaria estatal, el Consejo Estatal de Salud.
 
 El uso del cubrebocas es complementario a las medidas adicionales dictadas por la autoridad sanitaria.
 
@@ -67,7 +75,9 @@ El uso del cubrebocas es complementario a las medidas adicionales dictadas por l
 
 Medidas complementarias al uso de cubrebocas.
 
-Son medidas sanitarias adicionales al uso del cubrebocas, las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE OCTUBRE DE 2022)</small>
+
+Podrán ser medidas sanitarias adicionales al uso del cubrebocas, para prevenir la transmisión y riesgos de contagio de enfermedades respiratorias virales, las siguientes:
 
 I. El resguardo domiciliario.
 
@@ -87,11 +97,17 @@ VII. Las demás que emita la autoridad sanitaria correspondiente, en términos d
 
 Finalidad.
 
-La obligatoriedad del uso de cubrebocas tiene como finalidad, lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE OCTUBRE DE 2022)</small>
 
-I. Prevenir que las personas infectadas transmitan el virus a otras.
+El uso de cubrebocas y las demás medidas impuestas por la autoridad sanitaria estatal en términos de esta Ley tendrán como finalidad, lo siguiente:
 
-II. Brindar protección a las personas sanas en contra de la infección.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+I. Prevenir que las personas infectadas transmitan enfermedades respiratorias virales a otras.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+II. Brindar protección a las personas sanas en contra de la infección de enfermedades respiratorias virales.
 
 ###### Artículo 5.
 
@@ -107,11 +123,13 @@ II. Cubrebocas médicos: los cubrebocas que se encuentran certificados de confor
 
 Uso del cubrebocas en la población.
 
-Es obligatorio el uso de cubrebocas para:
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-I. La población en general que se encuentra en entornos y situaciones públicas. Cuando no sea posible aplicar las medidas de contención como el distanciamiento físico, se deberá utilizar en todo momento, cubrebocas higiénicos. En el caso de las niñas, niños y adolescentes entre 2 y 12 años, al usar cubrebocas, deberán ser supervisados por personas adultas.
+Será obligatorio el uso de cubrebocas cuando la autoridad sanitaria estatal así lo determine, mediante el Acuerdo que para tal efecto se publique en el Periódico Oficial del Estado.
 
-II. Las personas con alguna infección respiratoria, sus cuidadores y los profesionales de la salud, estando en funciones, deberán usar cubrebocas médicos.
+I. (DEROGADA, P.O. 22 DE OCTUBRE DE 2022)
+
+II. (DEROGADA, P.O. 22 DE OCTUBRE DE 2022)
 
 ###### Artículo 7.
 
@@ -143,9 +161,13 @@ Para el uso de cubrebocas higiénicos de forma segura, se debe atender a las rec
 
 Disposiciones para oficinas públicas, privadas y centros de trabajo.
 
-Las personas servidoras públicas de las dependencias y entidades de la Administración Pública Estatal y Municipal, de los Poderes Ejecutivo, Legislativo y Judicial, de los órganos constitucionalmente autónomos, así como cualquier otra oficina pública, privada y cualquier centro de trabajo, deberán portar el cubrebocas correspondiente, cuando se encuentran en funciones. Además, deberán observar y cumplir todas las medidas y prácticas sanitarias emitidas por las autoridades sanitarias.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-Es obligatorio para todas las personas que ingresen a oficinas públicas, privadas o cualquier centro de trabajo, el uso del cubrebocas correspondiente. En caso de que alguna persona pretenda ingresar sin cubrebocas, se informará que, en términos de esta Ley, no podrá acceder ni recibir atención hasta en tanto lo porte.
+Las personas servidoras públicas de las dependencias y entidades de la Administración Pública Estatal y Municipal, de los Poderes Ejecutivo, Legislativo y Judicial, de los órganos constitucionalmente autónomos, así como cualquier otra oficina pública, privada y cualquier centro de trabajo, deberán portar el cubrebocas correspondiente, cuando la autoridad sanitaria estatal así lo determine. Además, deberán observar y cumplir todas las medidas y prácticas sanitarias emitidas por las autoridades sanitarias.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+Será obligatorio para todas las personas que ingresen a oficinas públicas, privadas o cualquier centro de trabajo, el uso del cubrebocas correspondiente cuando la autoridad sanitaria estatal así lo determine. En caso de que alguna persona pretenda ingresar sin cubrebocas, se informará que, en términos de esta Ley, no podrá acceder ni recibir atención hasta en tanto lo porte.
 
 Las personas a cargo de las oficinas públicas, privadas o de cualquier centro de trabajo podrán, de conformidad con la disponibilidad y capacidad financiera correspondiente, otorgar cubrebocas de manera gratuita, privilegiando en todo momento a las personas con mayor índice de vulnerabilidad.
 
@@ -155,27 +177,43 @@ Las autoridades competentes priorizarán la entrega de cubrebocas de tipo médic
 
 Disposiciones para el transporte público.
 
-Las personas conductoras de las unidades del servicio de transporte de pasajeros, deberán usar de manera obligatoria, el cubrebocas correspondiente, durante su jornada laboral.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-No se podrá prestar el servicio de transporte de pasajeros, al usuario que no porte el cubrebocas correspondiente.
+Las personas conductoras de las unidades del servicio de transporte de pasajeros, deberán usar de manera obligatoria, el cubrebocas correspondiente, durante su jornada laboral, cuando la autoridad sanitaria estatal así lo determine.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+No se podrá prestar el servicio de transporte de pasajeros, al usuario que no porte el cubrebocas correspondiente, cuando la autoridad sanitaria estatal así lo determine.
 
 Las unidades de transporte de pasajeros deberán contar en cada unidad con alcohol en gel con una concentración mínima del 70%; las personas conductoras deberán asegurarse de que cada usuario que ingrese lo utilice. Las personas concesionarias o permisionarias deberán sanitizar las unidades de transporte al término de cada ruta.
 
-Las personas concesionarias o permisionarias del servicio de transporte de pasajeros deberán vigilar el cumplimiento de las medidas sanitarias al interior de las unidades de transporte. En caso de incumplimiento de las disposiciones de este artículo y de las medidas sanitarias expedidas por las autoridades competentes, las personas concesionarias y conductoras podrán hacerse acreedoras a las sanciones señaladas en el Capítulo III de esta Ley, así como aquellas previstas en la Ley de Transporte del Estado de Chihuahua, en la Ley Estatal de Salud y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+Las personas concesionarias o permisionarias de transporte deberán cumplir las medidas de prevención impuestas por las autoridades sanitarias estatales.
 
 ###### Artículo 12.
 
 Disposiciones para los establecimientos de carácter comercial, industrial, empresarial, de negocios o de servicios.
 
-En todo establecimiento comercial, industrial, empresarial, de negocios o de servicios, tanto las personas propietarias, administradoras, empleadas, así como proveedores, clientes, usuarios y asistentes a los mismos, están obligados a portar el cubrebocas correspondiente.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-En dichos establecimientos deberán existir, en cada acceso, filtros sanitarios y alcohol en gel con una concentración mínima del 70%, además se deberá mantener un control del acceso de personas al establecimiento de acuerdo con la capacidad del aforo, así como garantizar en todo momento una distancia mínima de 1.5 metros entre las personas y cumplir con las demás medidas sanitarias emitidas por las autoridades competentes.
+En todo establecimiento comercial, industrial, empresarial, de negocios o de servicios, tanto las personas propietarias, administradoras, empleadas, así como proveedores, clientes, usuarios y asistentes a los mismos, estarán obligados a portar el cubrebocas correspondiente, cuando la autoridad sanitaria estatal así lo determine.
 
-Deberá impedirse el acceso a las personas que no cuenten con cubrebocas o se nieguen a utilizarlo, a quienes no cumplan con las disposiciones del presente artículo, así como a quienes presenten síntomas asociados con la enfermedad COVID-19, como lo son temperatura superior a los 37.5 grados, tos seca, dificultad para respirar, dolor de cabeza o garganta, dolor o presión en el pecho o pérdida del sentido del olfato o el gusto.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-Las personas propietarias, administradoras y empleadas de los establecimientos contemplados en el presente artículo, deberán informar e instruir a proveedores, clientes, usuarios y asistentes en general, que están obligados a portar los cubrebocas correspondientes, y que deberán mantener una distancia de 1.5 metros entre las personas y que, en caso de incumplir ello, no se permitirá el acceso y tampoco se le podrá brindar atención.
+Dichos establecimientos deberán cumplir con las medidas sanitarias emitidas por las autoridades competentes.
 
-En los establecimientos previstos en el presente artículo, deben colocarse en todos los accesos, anuncios gráficos o por escrito que indique la obligación de portar cubrebocas, así como señales que faciliten el cumplimiento de la sana distancia entre personas. Además, se deberán ubicar dentro del establecimiento, mensajes alusivos al lavado de manos, el uso de alcohol en gel, el estornudo de etiqueta y la conservación de distancia, así como los relativos al cumplimiento de las demás medidas sanitarias que emita la autoridad correspondiente.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+Deberá impedirse el acceso a las personas que no cumplan con las disposiciones emitidas por la autoridad sanitaria estatal.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+Las personas propietarias, administradoras y empleadas de los establecimientos contemplados en el presente artículo, deberán informar e instruir a proveedores, clientes, usuarios y asistentes en general, que están obligados a cumplir las medidas sanitarias que, en su caso, se impongan, y que, en caso de incumplir ello, no se permitirá el acceso y tampoco se le podrá brindar la atención.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+En los establecimientos previstos en el presente artículo, deben colocarse en todos los accesos, anuncios gráficos o por escrito relativos al cumplimiento de las medidas sanitarias que emita la autoridad sanitaria estatal.
 
 El cumplimiento de lo previsto en este artículo, así como las demás medidas que al efecto se encuentren vigentes o emita la autoridad federal o estatal en la materia, será un requisito para que se autorice la expedición o refrendo de licencias de funcionamiento de establecimientos comerciales, industriales y de servicios por parte de la autoridad municipal y estatal que corresponda; la autoridad municipal podrá coordinarse con la autoridad sanitaria competente para llevar a cabo las visitas e inspección, para verificar su estricto cumplimiento.
 
@@ -187,13 +225,17 @@ Para cumplir con lo previsto en el presente artículo, los establecimientos debe
 
 Campañas de concientización.
 
-El Poder Ejecutivo, por conducto de la Coordinación de Comunicación Social, la Secretaría de Salud y la Secretaría de Seguridad Pública, así como las autoridades municipales por conducto de sus áreas de Comunicación Social, Salud y Seguridad Pública, de conformidad con sus funciones, deberán mantener de manera permanente campañas de concientización en la sociedad sobre el correcto uso del cubrebocas, la importancia de cumplir con las medidas sanitarias previstas por esta Ley y las demás que emita la autoridad sanitaria correspondiente.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+El Poder Ejecutivo, por conducto de la Coordinación de Comunicación Social, la Secretaría de Salud y la Secretaría de Seguridad Pública, así como las autoridades municipales por conducto de sus áreas de Comunicación Social, Salud y Seguridad Pública, de conformidad con sus funciones, deberán mantener campañas de concientización en la sociedad sobre la importancia de cumplir con las medidas sanitarias que emita la autoridad sanitaria estatal, en el caso de que esta las imponga.
 
 ###### Artículo 14.
 
 Campañas de difusión.
 
-Las dependencias y entidades de la Administración Pública Estatal y Municipal, los Poderes Ejecutivo, Legislativo y Judicial y los órganos constitucionalmente autónomos, en el ámbito de su competencia, deberán difundir en sus medios de comunicación oficiales, tales como redes sociales, páginas web, y cualquier otra plataforma digital oficial, la obligatoriedad del uso de cubrebocas, así como las demás medidas sanitarias previstas en esta Ley y las que expida la autoridad sanitaria correspondiente.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+Las dependencias y entidades de la Administración Pública Estatal y Municipal, los Poderes Ejecutivo, Legislativo y Judicial y los órganos constitucionalmente autónomos, en el ámbito de su competencia, deberán difundir en sus medios de comunicación oficiales, tales como redes sociales, páginas web, y cualquier otra plataforma digital oficial, las medidas sanitarias que expida la autoridad sanitaria estatal.
 
 Para tal efecto, se deberá señalar de manera clara y enfática, las medidas que se exigirán para el acceso a sus instalaciones.
 
@@ -335,13 +377,15 @@ Los criterios relacionados con el uso y manejo de cubrebocas previstos por esta 
 
 El titular del Poder Ejecutivo Estatal, así como los municipios, instituirán y administrarán un Fondo que será utilizado para la adquisición y entrega de cubrebocas, así como para otras medidas para hacer frente a la contingencia; se integrará por los recursos que se recauden por las autoridades estatales y municipales, por concepto de la multa prevista en el artículo 19 de la presente Ley. El Fondo, será administrado en los términos que disponga el Reglamento correspondiente, siguiendo los criterios de transparencia, oportunidad, eficiencia y racionalidad.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO OCTAVO.
 
-Las sanciones a que hace referencia esta Ley, serán aplicables a partir de los diez días siguientes al de su publicación en el Periódico Oficial del Estado, plazo durante el cual las autoridades competentes deberán hacer la difusión necesaria para hacer del conocimiento de la ciudadanía el contenido de la misma, sus sanciones y su aplicabilidad, a fin de que estén en condiciones de dar cumplimiento para cuando comience a sancionarse su incumplimiento. Así mismo, se deberá capacitar a las autoridades competentes para vigilar el cumplimiento de esta Ley, antes de que se comience a sancionar las conductas.
+Las sanciones a que hace referencia esta Ley, serán aplicables a partir de los diez días siguientes al de la publicación en el Periódico Oficial del Estado, del acuerdo que determine la autoridad sanitaria, plazo durante el cual las autoridades competentes deberán hacer la difusión necesaria para hacer del conocimiento de la ciudadanía el contenido del mismo, así como las sanciones y aplicabilidad de la Ley, a fin de que estén en condiciones de dar cumplimiento para cuando comience a sancionarse su incumplimiento. Así mismo, se deberá capacitar a las autoridades competentes para vigilar el cumplimiento de esta Ley, antes de que se comience a sancionar las conductas.
 
 ###### ARTÍCULO NOVENO.
 
-La vigencia del presente Decreto, concluirá una vez que cese el estado de emergencia sanitaria ocasionado por la enfermedad COVID-19, mediante declaratoria expresa por parte de la autoridad sanitaria estatal.
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2022)
 
 D A D O en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los doce días del mes de noviembre del año dos mil veinte.
 
@@ -352,3 +396,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los trece días del mes de noviembre del año dos mil veinte.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. LUIS FERNANDO MESTA SOULÉ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0319/2022 I P.O., POR MEDIO DEL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA EL USO OBLIGATORIO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA ENFERMEDAD COVID-19 EN EL ESTADO DE CHIHUAHUA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
