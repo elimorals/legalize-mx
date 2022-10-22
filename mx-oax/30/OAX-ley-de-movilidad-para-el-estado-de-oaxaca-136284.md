@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2021-12-11"
+last_updated: "2022-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -473,6 +473,10 @@ Para asegurar la movilidad de las personas y vehículos en la vía pública, la 
 
 La Secretaría establecerá, mediante normas técnicas el diseño e instalación de los señalamientos viales en las vías públicas del Estado, con la finalidad de garantizar la seguridad de peatones, ciclistas y conductores de vehículos automotores.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+En los casos que se ejecute una obra pública que afecte cualquier tipo de vialidad en el Estado, la Secretaría de Movilidad, en coordinación con las autoridades competentes, deberán diseñar un plan de contingencia de movilidad que establezcan o habiliten señalamientos de rutas alternas, durante el tiempo que dure la obra; así como la de comunicar con anticipación a la ciudadanía sobre las obras a realizar y las rutas alternas, para que los sujetos activos de la movilidad tomen previsiones.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 22.
@@ -591,11 +595,11 @@ El Estado y los municipios establecerán en sus respectivos presupuestos, planes
 
 En el Presupuesto de Egresos para el Estado de Oaxaca, de cada ejercicio fiscal, se establecerá un fondo que coadyuve en la instalación de infraestructura para la bicicleta.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 27.
 
-Los cursos de capacitación en materia de seguridad y educación vial y cultura de movilidad, se impartirán a cualquier persona interesada. Sin embargo, serán obligatorios para todos aquellos interesados en obtener una licencia de conducir, los contenidos de los cursos de capacitación deberán estar contenidos en el Reglamento. También son obligatorios para los concesionarios, operadores y conductores del servicio público y especial de transporte, mismos que se deben tomar por lo menos una vez cada 12 meses.
+Los cursos de capacitación en materia de seguridad y educación vial, cultura de movilidad y de perspectiva de género, se impartirán a cualquier persona interesada. Son obligatorios para toda persona interesada en obtener la licencia de conducir o su renovación. Los concesionarios, operadores y conductores del servicio público y especial de transporte, deberán acreditar los cursos de capacitación por lo menos cada doce meses. Los contenidos de los cursos de capacitación serán de conformidad al Reglamento.
 
 ###### Artículo 28.
 
@@ -773,7 +777,9 @@ XXIX. Desarrollar y coordinar programas y acciones para el fomento a la movilida
 
 XXX. Diseñar y proponer alternativas a las autoridades municipales, que permitan una mejor utilización de las vías públicas, agilizar el tránsito, disminuir los índices de contaminación ambiental y el respeto a la circulación de peatones y ciclistas;
 
-XXXI. Impulsar e implementar programas de capacitación, seguridad y educación vial mediante la creación de centros para su impartición y la difusión de la cultura de movilidad, para garantizar la seguridad de las personas y de su patrimonio en las vías públicas de jurisdicción estatal;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+XXXI. Impulsar e implementar programas de capacitación, seguridad, educación vial y de perspectiva de género, mediante la creación de centros para su impartición y la difusión de la cultura de movilidad, para garantizar la seguridad de las personas y de su patrimonio en las vías públicas de jurisdicción estatal;
 
 XXXII. Diseñar, aprobar y difundir los dispositivos de información, señalización vial, nomenclatura y para el control del tráfico que deben ser utilizados en las vías públicas;
 
@@ -855,7 +861,9 @@ X. Permitir a la Secretaría la práctica de los estudios técnicos para determi
 
 XI. Emitir la autorización de uso de suelo para sitios de vehículos del servicio público de transporte;
 
-XII. Fijar la ubicación de paradas y terminales del servicio público de transporte colectivo en todas sus modalidades;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+XII. Fijar la ubicación de paradas para abordaje y descenso de usuarias y usuarios, de terminales del servicio de transporte colectivo en todas sus modalidades y de horarios para la carga y descarga de bienes y mercancías en los centros urbanos;
 
 XIII. Establecer programas de educación vial que garanticen la seguridad en las vías públicas, de las personas y su patrimonio, estableciendo los centros de instrucción que sean necesarios para tal efecto;
 
@@ -2199,9 +2207,15 @@ I. Si el conductor acumula tres infracciones a la presente Ley y su reglamento, 
 
 II. Cuando el titular de la misma haya causado algún daño a terceros o a sus bienes sin resarcirlo, al conducir un vehículo;
 
-III. Por un año cuando el titular sea sancionado por primera ocasión por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-IV. Por tres años cuando el titular sea sancionado por segunda ocasión en un periodo mayor a un año, contado a partir de la primera sanción por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
+III. Por un año, cuando el titular sea sancionado por primera ocasión por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2022)</small>
+
+IV. Por un año, para los concesionarios, operadores y conductores del servicio público y especial de transporte, cuando exista incumplimiento a lo dispuesto en el artículo 27 de esta Ley; y
+
+V. Por tres años cuando el titular sea sancionado por segunda ocasión en un periodo mayor a un año, contado a partir de la primera sanción por conducir un vehículo en estado de ebriedad, quedando obligado el infractor a someterse a un tratamiento de combate a las adicciones que determine su rehabilitación en una institución especializada pública o privada.
 
 El titular de la licencia o permiso cancelado quedará impedido para conducir vehículos motorizados en el territorio del Estado, con licencia o permiso para conducir expedido en otra entidad federativa o país.
 
@@ -3446,3 +3460,27 @@ P.O. 11 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 705.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 27, LA FRACCIÓN XXXI DEL ARTÍCULO 37 Y LA FRACCIÓN III DEL ARTÍCULO 177; Y SE ADICIONA LA FRACCIÓN IV RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 177 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 706.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XII DEL ARTÍCULO 38, DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 19, DE LA LEY DE TRÁNSITO Y MOVILIDAD DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 22 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 707.- MEDIANTE EL CUAL ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 21 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
