@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2019-05-28"
+last_updated: "2022-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -283,9 +283,11 @@ Cuando por circunstancias especiales deban aumentarse las horas de jornada estip
 
 Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro, procurándose que el descanso sea el domingo.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 30o.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo; durante la lactancia tendrá dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos.
+Las mujeres durante el embarazo, no realizarán trabajos que signifiquen un peligro para su salud, tales como levantar, tirar o empujar grandes pesos, estar de pie durante largo tiempo, que actúen o puedan alterar su estado psíquico y nervioso; no deberán realizar jornadas de trabajo nocturno; disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos meses después del parto; durante la lactancia tendrán por lo menos dos descansos extraordinarios por día, de treinta minutos cada uno para alimentar a sus hijos.
 
 ###### Artículo 31o.
 
@@ -1546,3 +1548,15 @@ P.O. 28 DE MAYO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 23 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 228.- QUE CONTIENE REFORMA AL ARTÍCULO 30 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
