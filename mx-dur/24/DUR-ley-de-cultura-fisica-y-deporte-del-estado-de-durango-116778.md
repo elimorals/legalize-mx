@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-fisica-y-deporte-del-estado-de-durango-116778"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-22"
-last_updated: "2020-03-08"
+last_updated: "2022-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
 
 Ley publicada en el número 76 del Periódico Oficial del Estado de Durango, el jueves 22 de septiembre de 2016.
 
@@ -297,9 +297,15 @@ XXII. Apoyar de manera integral el desarrollo de los deportistas duranguenses de
 
 XXIII. Definir e impulsar programas especiales para el fomento de la práctica de la cultura física y el deporte entre adultos mayores, personas con discapacidad y demás población con requerimientos especiales.
 
-XXIV. Concertar y suscribir acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, nacionales e internacionales, para el desarrollo de la cultura física y del deporte; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2022)</small>
 
-XXV. Las demás que le confiera esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
+XXIV. Concertar y suscribir acuerdos de colaboración con organismos gubernamentales, no gubernamentales, públicos y privados, nacionales e internacionales, para el desarrollo de la cultura física y del deporte;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+XXV. Promover la celebración de convenios con la Secretaría de Turismo del Estado, la federación, los municipios, así como con los sectores social y privado, para impulsar el turismo deportivo en el Estado, procurando su competitividad y sustentabilidad; y
+
+XXVI. Las demás que le confiera esta Ley, otros ordenamientos legales y el Reglamento Interior del Instituto.
 
 ###### Artículo 19.
 
@@ -1098,3 +1104,11 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 23 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 226.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
