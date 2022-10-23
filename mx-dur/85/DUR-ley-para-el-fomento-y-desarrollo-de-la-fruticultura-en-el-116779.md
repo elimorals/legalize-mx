@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-fomento-y-desarrollo-de-la-fruticultura-en-el-11677
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-22"
-last_updated: "2016-09-22"
+last_updated: "2022-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
 
 Ley publicada en el número 76 del Periódico Oficial del Estado de Durango, el jueves 22 de septiembre de 2016.
 
@@ -39,7 +39,7 @@ Con fecha 17 de agosto del presente año, el C. Fernando Barragán Gutiérrez, D
 
 C O N S I D E R A N D O S:
 
-[…]
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXVI Legislatura del Estado, expide el siguiente:
 
@@ -229,11 +229,15 @@ XIV. Las demás de la materia que se deriven de las leyes vigentes o que le sean
 
 Con el objeto de alentar el fomento, vigilancia y protección de la fruticultura, y atender con oportunidad los problemas de los fruticultores, deberá integrarse un órgano de consulta y colaboración denominada Consejo Frutícola del Estado, el cual se deberá de reunir cada tres meses.
 
-El Consejo estará integrado por un Presidente, un Secretario Técnico y nueve Vocales, quienes serán designados en la siguiente forma:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2022)</small>
+
+El Consejo estará integrado por un Presidente, un Secretario Técnico y quince Vocales, quienes serán designados en la siguiente forma:
 
 El Presidente será el Secretario de la Secretaría de Agricultura, Ganadería y Desarrollo Rural, el Secretario de Recursos Naturales y Medio Ambiente, será el Secretario Técnico, y quien deberá elaborar las actas correspondientes y dar seguimiento a los acuerdos aprobados.
 
-Los Vocales serán designados, de la siguiente manera, uno por las Asociaciones Rurales de Interés Colectivo, uno por la Unión Agrícola Regional de Fruticultores; uno por cada una de las Presidencias Municipales productoras frutícolas ( (sic) Canatlán, Nuevo Ideal, Santiago Papasquiaro, Tlahualilo, Nazas y Mapimí y uno por el Comité Estatal de Sanidad Vegetal.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+Los Vocales serán designados, de la siguiente manera, uno por las Asociaciones Rurales de Interés Colectivo; uno por la Unión Agrícola Regional de Fruticultores; uno por cada una de las Presidencias Municipales productoras frutícolas (Canatlán, Canelas, Durango, Nombre de Dios, Nuevo Ideal, Santiago Papasquiaro, San Juan de Rio, Pueblo Nuevo, Rodeo, Tlahualilo, Nazas y Mapimí) y uno por el Comité Estatal de Sanidad Vegetal.
 
 ###### ARTÍCULO 12.
 
@@ -524,3 +528,13 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ÁNGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 222.- QUE CONTIENE REFORMA AL SEGUNDO Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 11 DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
