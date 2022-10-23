@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-condominios-del-estado-de-durango-96941"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-05"
-last_updated: "2022-04-07"
+last_updated: "2022-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CONDOMINIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 5 de mayo de 2013.
 
@@ -513,7 +513,9 @@ V. Las determinaciones adoptadas por las asambleas en los términos de esta Ley,
 
 VI. Si el administrador no hace la convocatoria para una Asamblea, cuando por disposición de esta Ley, de la escritura constitutiva del régimen o del reglamento interno, deba hacerla, cualquiera de los condóminos podrá requerirlo para ello, y si en el término de ocho días naturales contados a partir de la fecha del requerimiento, el administrador no convoca a la Asamblea este hecho motivará su remoción;
 
-VII. Cuando por la importancia del o los asuntos a tratar en la Asamblea se considere así necesario, el administrador, el Comité de Vigilancia o los condóminos, podrán solicitar la presencia de un mediador y conciliador del Centro Estatal de Justicia Alternativa o en su caso, de un fedatario público; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+VII. Cuando por la importancia del o los asuntos a tratar en la Asamblea se considere así necesario, el administrador, el Comité de Vigilancia o los condóminos, podrán solicitar la presencia de un mediador, orientador, conciliador o especialista del Centro Estatal de Justicia Alternativa, o en su caso, de un fedatario público; y
 
 VIII. Las convocatorias para Asamblea en la que se pretenda modificar la escritura constitutiva del régimen o el reglamento interno, además de todos los requisitos generales que deban satisfacer conforme a este artículo, deberán incluir las modificaciones que se propongan.
 
@@ -1216,6 +1218,14 @@ CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el
 P.O. 7 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 117.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 227.- QUE CONTIENE REFORMA A LA FRACCIÓN VII DEL ARTÍCULO 31 DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
