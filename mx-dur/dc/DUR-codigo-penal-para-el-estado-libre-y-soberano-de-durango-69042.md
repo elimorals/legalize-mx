@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2022-05-26"
+last_updated: "2022-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -3835,7 +3835,7 @@ Cuando una o más de las conductas descritas en el presente artículo resulte co
 
 ### CAPÍTULO III BIS. DELITOS CONTRA LA VIDA, INTEGRIDAD Y DIGNIDAD DE LOS ANIMALES
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 275 Bis.
 
@@ -3867,31 +3867,79 @@ DELITOS CONTRA LA FORMACIÓN DE LAS PERSONAS MENORES DE EDAD Y PROTECCIÓN INTEG
 
 ###### Artículo 275 Bis 6.
 
-Al que intencionalmente cometa actos de maltrato o crueldad injustificados en contra de cualquier especie animal doméstico o adiestrado, en los términos de lo dispuesto por (sic) Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Durango, provocando lesiones, se le impondrá tres meses a un año de prisión y hasta cien días multa.
+Al que intencionalmente cometa actos de maltrato o crueldad injustificados en contra de cualquier especie animal doméstico o adiestrado, en los términos de lo dispuesto por (sic) Ley de Protección y Bienestar Animal para la Sustentabilidad del Estado de Durango, provocando lesiones, se le impondrá tres meses a tres años de prisión y de cien a doscientas veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE DICIEMBRE DE 2016)</small>
 
 Se consideran actos de maltrato o crueldad animal:
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
 I.- Causar la muerte de un animal injustificadamente, sacrificar un animal empleando métodos diversos a los establecidos en las normas oficiales mexicanas, o privar de la vida a un animal utilizando cualquier medio que le provoque un sufrimiento extremo o prolongue su agonía;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2016)</small>
 
 II.- La tortura, el sadismo, la zoofilia o cualquier acción análoga que le implique sufrimiento;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
 III.- Cualquier mutilación sin fines médicos;
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2016)</small>
 
 IV.- Las lesiones que pongan en peligro la vida de un animal, que le generen una incapacidad parcial o total permanente, que disminuyan alguna de sus facultades, o que afecten el normal funcionamiento de un órgano o miembro;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
 V.- El suministro o aplicación de substancias u objetos tóxicos que pongan en peligro la vida de un animal o le provoque la muerte; y
 
-Si las lesiones ponen en riesgo la vida del animal, la pena se incrementará en una mitad.
+> <small>(ADICIONADA [N. DE E. ANTES PÁRRAFO TERCERO DE ESTE ARTÍCULO], P.O. 23 DE OCTUBRE DE 2022)</small>
 
-Si los actos de maltrato o crueldad provocan la muerte del animal, se impondrá de dos a cuatro años de prisión y doscientos a cuatrocientos días multa.
-
-En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte no inmediata y prolonguen la agonía del animal, las penas se aumentarán en una mitad.
+VI.- Si las lesiones ponen en riesgo la vida del animal, la pena se incrementará en una mitad.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2016)</small>
 
+Si los actos de maltrato o crueldad provocan la muerte del animal, se impondrá de dos a cuatro años de prisión y doscientos a cuatrocientos días multa.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
+En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte no inmediata y prolonguen la agonía del animal, las penas se aumentarán en una mitad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 275 Bis 7.
 
-Se impondrá de tres meses a tres años de prisión y doscientos a cuatrocientos días multa, a la persona que organice, promueva, difunda, realice peleas de perros, con o sin apuestas o, las permita en su propiedad.
+Se impondrá pena de seis meses a tres años de prisión y el equivalente de doscientos a dos mil veces la Unidad de Medida y Actualización a quien:
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+I. Críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos, de entretenimiento o de cualquier otra índole;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+II. Posea, transporte, compre o venda perros con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+III. Organice, promueva, anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+IV. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 275 Bis 8.
+
+A quien se apropie, retenga, oculte o sustraiga a un animal doméstico o animal de asistencia sin el consentimiento de su propietario, se le impondrán de uno a tres años de prisión y multa de setenta y dos a doscientas dieciséis veces la Unidad de Medida y Actualización. Dichas penas se aumentarán hasta en una mitad si el sujeto activo exige al dueño del animal doméstico o animal de asistencia, un pago económico o en especie a cambio de su restitución.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MAYO DE 2018)</small>
 
@@ -4113,7 +4161,7 @@ Se impondrá hasta la mitad de las penas previstas en el artículo anterior, a l
 
 ### CAPÍTULO II. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 296.
 
@@ -4183,17 +4231,19 @@ d) Omita realizar de inmediato el descuento o exceda el plazo ordenado por el Ju
 
 ###### Artículo 300.
 
-Comete el delito de violencia familiar quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de un año a cinco años de prisión y multa de treinta y seis a doscientos ochenta y ocho veces la Unidad de Medida y Actualización, perderá el derecho de pensión alimenticia y los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
+Comete el delito de violencia familiar quien de manera directa o por interpósita persona ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil, tutela o curatela, concubinato o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrán de un año a cinco años de prisión y multa de treinta y seis a doscientos ochenta y ocho veces la Unidad de Medida y Actualización, perderá el derecho de pensión alimenticia y los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio y en su caso, la prohibición de acudir o residir en lugar determinado así como la prohibición de comunicarse por cualquier medio con la víctima. Asimismo, se le sujetará a tratamiento especializado psicológico, psiquiátrico o reeducativo según corresponda, independientemente de las penas que correspondan por cualquier otro delito.
 
 La educación o formación del menor no será en ningún caso considerada justificación como forma de maltrato.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES] P.O. 23 DE OCTUBRE DE 2022)</small>
 
-Si la víctima de violencia familiar fuese mujer y las heridas inferidas correspondan a las que tardan más de sesenta días en sanar, o estuviera en estado de gravidez o en el periodo post parto, la pena será de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis veces la Unidad de Medida y Actualización, independientemente de las penas que correspondan por cualquier otro delito.
+Se aplicará la pena de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis veces la Unidad de Medida y Actualización, independientemente de las penas que correspondan por cualquier otro delito, en los siguientes casos:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2020)</small>
+I. Si la víctima de violencia familiar fuese mujer y las heridas inferidas correspondan a las que tardan más de sesenta días en sanar, o estuviera en estado de gravidez o en el periodo post parto;
 
-La misma pena se aplicará en el caso en que la víctima fuera un menor de edad, incapaz, o persona con discapacidad o mayor de sesenta años de edad.
+II. Cuando se cometa en presencia de niñas, niños o adolescentes, y
+
+III. Cuando la víctima fuera un menor de edad, incapaz, o persona con discapacidad o mayor de sesenta años de edad.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
 
@@ -4807,29 +4857,7 @@ II. Teniendo a su cargo elementos de la fuerza pública y habiendo sido requerid
 
 ### CAPÍTULO IX BIS. EXTORSIÓN
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2017)</small>
-
-Artículo 338 BIS. Se impondrá de cuatro a quince años de prisión y multa de doscientas ochenta y ocho a setecientas veinte veces la Unidad de Medida y Actualización, al que sin derecho, por cualquier medio, obligue a otro a hacer algo, con ánimo de lucro para sí o para otro, o causando un perjuicio patrimonial o moral, en contra de una persona o personas.
-
-Además de las penas señaladas en el primer párrafo, se impondrá de cuatro a diez años de prisión y multa de doscientas ochenta y ocho a setecientas veinte veces la Unidad de Medida y Actualización, cuando:
-
-I. En la comisión del delito Intervenga una o más personas armadas o portando instrumentos que puedan poner en peligro la vida;
-
-II. Se emplee violencia;
-
-III. El autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada, en los términos de la ley de la materia;
-
-IV. El autor del delito obtenga o manifieste su pretensión de seguir obteniendo, en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
-
-V. Se cometa por vía telefónica, cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos; radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
-
-VI. Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal;
-
-VII. Si es cometido en contra de un menor de edad, de una mujer en estado de gravidez o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años;
-
-VIII. Participe algún miembro de una corporación policiaca u otro servidor público. Además de las penas previstas, también se impondrán como penas la destitución del cargo en cuanto esté firme la sentencia y la inhabilitación por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir de que recobre su libertad; y,
-
-IX. Participen trabajadores de instituciones públicas o privadas que tengan acceso a bancos de datos personales y que los utilicen de manera indebida o la sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en sus diversas modalidades.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 337.
 
@@ -4860,6 +4888,38 @@ En ningún caso se devolverá a los responsables del delito de cohecho, el diner
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO XI. CONCUSIÓN
+
+###### Artículo 338 Bis.
+
+Se impondrá de cuatro a doce años de prisión y de doscientos a cuatrocientos cincuenta días multa, al que, sin derecho, por cualquier medio, obligue a otro a hacer, omitir o tolerar algo, con ánimo de lucro para sí o para otro, o causando un perjuicio patrimonial o moral, en contra de una o más personas.
+
+Además de las penas señaladas en el primer párrafo, se impondrá de cuatro a trece años de prisión y multa de trecientas a quinientas veces la Unidad de Medida y Actualización, cuando:
+
+I. El sujeto activo se encuentre armado o porte instrumento peligroso;
+
+II. Intervengan dos o más personas;
+
+III. Se emplee violencia física;
+
+IV. El autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada, en los términos de la ley de la materia;
+
+V. El activo tenga alguna relación de confianza, laboral, de parentesco o de negocios con el pasivo o con quien este último esté ligado por algún vínculo;
+
+VI. El autor del delito obtenga o manifieste su pretensión de seguir obteniendo, en forma continua o permanente, dinero o bienes por concepto de cobro de cuotas de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
+
+VII. Se cometa por vía telefónica o cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
+
+VIII. Si el sujeto activo del delito de extorsión se encuentra privado de su libertad personal o el delito se realice desde el interior de un reclusorio o centro de reinserción social;
+
+IX. Si es cometido en contra de un menor de edad, de una mujer en estado de gravidez o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años;
+
+X. Participe alguna persona que sea, haya sido o se ostente como miembro de una corporación policiaca o servidor público en alguna de las áreas de prevención o persecución del delito, administración de justicia o reinserción social. Además de las penas previstas, también se impondrán como penas, la destitución del cargo en cuanto esté firme la sentencia y la inhabilitación por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir de que recobre su libertad;
+
+XI. Si el sujeto activo porta vestimenta o instrumentos de identificación de los utilizados por integrantes de instituciones de seguridad pública;
+
+XII. Participen trabajadores de instituciones públicas o privadas que tengan acceso a bancos de datos personales y que los utilicen de manera indebida o la sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en cualquiera de sus modalidades; o
+
+XIII. Cuando el delito se cometa en contra de quien realice actividades comerciales, empresariales, de servicios públicos o privados, y cuya personalidad legal sea física o moral, así como los vinculados a la docencia.
 
 ### CAPÍTULO XII. EJERCICIO ABUSIVO DE FUNCIONES
 
@@ -6820,3 +6880,27 @@ P.O. 26 DE MAYO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 210.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 211.- QUE CONTIENE REFORMA AL ARTÍCULO 338 BIS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 221.- QUE CONTIENE REFORMAS AL ARTÍCULO 300 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
