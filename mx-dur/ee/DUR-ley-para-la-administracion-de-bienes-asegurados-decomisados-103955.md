@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-de-bienes-asegurados-decomisados-103
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-27"
-last_updated: "2017-03-19"
+last_updated: "2022-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 27 de noviembre de 2014
 
@@ -81,37 +81,53 @@ VI. Comisión: La Comisión para la supervisión de la administración de bienes
 
 VII. Secretario Técnico: El Secretario Técnico de la Comisión para la supervisión de la administración de bienes asegurados, decomisados o abandonados.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+> <small>(REFORMADO. P.O. 23 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 3.
 
 Administración de los bienes.
 
-Los bienes asegurados durante el procedimiento penal serán administrados por el Servicio de Administración, de conformidad con las disposiciones de la presente ley, hasta que se resuelva su devolución, abandono o decomiso.
+Los bienes asegurados durante el proceso de extinción de dominio serán administrados por el Servicio de Administración, de conformidad con las disposiciones de la Ley Nacional de Extinción de Dominio.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
 
 Artículo 3 bis 1. Las autoridades competentes conforme a esta Ley, procederán al inmediato aseguramiento de aquellos bienes que corresponda asegurar, conforme a las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE OCTUBRE DE 2022)</small>
 
 Artículo 3 bis 2. Al realizar el aseguramiento, los agentes del Ministerio Público, con el auxilio de la Policía Investigadora de Delitos, o bien los actuarios y demás funcionarios que designe la autoridad judicial para practicar la diligencia, según corresponda, deberán:
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
 a).- Levantar acta que incluya inventario con la descripción y el estado en que se encuentren los bienes que se aseguren;
-
-b).- Identificar los bienes asegurados con sellos, marcas, cuños, fierros, señales u otros medios adecuados;
-
-c).- Acordar las medidas convenientes e inmediatas para impedir que los bienes asegurados se destruyan, alteren o desaparezcan;
-
-d).- Requerir a las autoridades que corresponda para que hagan constar el aseguramiento en los registros públicos que corresponda;
-
-e).- Pedir, en su caso, que se realice el avalúo correspondiente, y
-
-f).- Hacer la entrega dentro de las 48 horas de haber concluido el aseguramiento al Servicio de Administración.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
 
-Artículo 3 bis 3. La autoridad competente en la administración de los bienes deberá organizar una base de datos que contendrá el registro de los bienes asegurados, decomisados o abandonados, la cual podrá ser consultada por las autoridades judiciales, la Fiscalía, las dependencias y entidades de la Administración Pública Estatal, el Congreso del Estado, además de las personas que acrediten tener un interés legítimo.
+b).- Identificar los bienes asegurados con sellos, marcas, cuños, fierros, señales u otros medios adecuados;
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+c).- Acordar las medidas convenientes e inmediatas para impedir que los bienes asegurados se destruyan, alteren o desaparezcan;
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+d).- Requerir a las autoridades que corresponda para que hagan constar el aseguramiento en los registros públicos que corresponda;
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+e).- Pedir, en su caso, que se realice el avalúo correspondiente, y
+
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
+
+f).- Hacer la entrega dentro de las 48 horas de haber concluido el aseguramiento al Servicio de Administración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE OCTUBRE DE 2022)</small>
+
+g). - Las demás que determine la Ley Nacional de Extinción de Dominio.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2022)</small>
+
+Artículo 3 bis 3. El Servicio de Administración deberá organizar una base de datos que contendrá el registro de los bienes asegurados, decomisados o abandonados, la cual podrá ser consultada por las autoridades judiciales, la Fiscalía, las dependencias y entidades de la Administración Pública Estatal, el Congreso del Estado, además de las personas que acrediten tener un interés legítimo.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2017)</small>
 
@@ -123,11 +139,13 @@ En la notificación deberá apercibirse al interesado o a su representante legal
 
 ### CAPÍTULO II. De la Comisión
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 4.
 
-Autoridad supervisora.
+La Autoridad supervisora
 
-La Comisión tendrá como objeto supervisar la administración de los bienes asegurados, decomisados o abandonados.
+La Comisión tendrá como objeto supervisar la administración de los bienes asegurados, los sujetos a proceso de extinción de dominio, decomisados o abandonados.
 
 ###### Artículo 5.
 
@@ -265,15 +283,17 @@ Seguro de los bienes.
 
 El Servicio de Administración o el depositario, interventor o administrador de bienes asegurados, contratará seguros por valor real, cuando exista posibilidad de su pérdida o daño siempre que el valor y las características lo ameriten, de conformidad con los lineamientos emitidos para tal efecto por la Comisión, siempre y cuando exista la disponibilidad presupuestal para hacerlo y así lo acuerde la Comisión.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 13.
 
 Destino de los recursos.
 
-Los recursos que se obtengan de la administración de los bienes asegurados, se mantendrán en un Fondo que se entregará a quien en su momento acredite tener derecho. En el caso de los bienes decomisados y los abandonados, los recursos que se obtengan de la administración, sus frutos y productos, así como los derivados de su venta, serán considerados aprovechamientos en los términos del Código Fiscal del Estado de Durango.
+Los recursos que se obtengan de la administración de los bienes asegurados, se mantendrán en un Fondo que se entregará a quien en su momento acredite tener derecho. En el caso de los bienes decomisados y los abandonados, los recursos que se obtengan de la administración, sus frutos y productos, así como los derivados de su venta, serán considerados aprovechamientos en los términos del Código Fiscal del Estado de Durango. Los aprovechamientos a que se refiere el párrafo anterior, una vez descontados los costos de administración, gastos de mantenimiento y conservación, deberán ser destinados a instituciones de asistencia social, desarrollo rural o de investigación científica.
 
-Los aprovechamientos a que se refiere el párrafo anterior, una vez descontados los costos de administración, gastos de mantenimiento y conservación, deberán ser destinados a instituciones de asistencia social, desarrollo rural o de investigación científica.
+Los remanentes de valor de los Bienes, así como los productos, rendimientos, frutos y accesorios que se hayan generado, que le correspondan al Gobierno del Estado, conforme a la Ley Nacional de Extinción de Dominio, se depositaran por el servicio de Administración en una Cuenta Especial, administrada por este, hasta en tanto se determine su destino final por la comisión.
+
+En ningún caso los recursos a que se refiere el párrafo anterior podrán ser utilizados en gasto corriente o pago de salarios.
 
 ###### Artículo 14.
 
@@ -508,3 +528,11 @@ P.O. 19 DE MARZO DE 2017.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 23 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ DECRETO NO. 218.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
