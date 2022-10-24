@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2022-09-22"
+last_updated: "2022-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -1241,6 +1241,10 @@ El plazo para la prescripción se aumentará en una mitad más, si el imputado, 
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo sus modalidades. Tratándose de los delitos de oficio, dicho plazo nunca será menor de tres años ni mayor de quince y en los delitos de querella nunca será menor de dos años ni mayor de diez.
 
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+En los casos de delitos por hechos de corrupción precisados en el Título Séptimo y Octavo del Libro Segundo de este Código, el plazo de prescripción nunca será menor de diez años.
+
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
 En los delitos de homicidio calificado, feminicidio, utilización de imágenes y/o voces de personas menores de edad para la pornografía, evasión de presos, desaparición forzada de personas, tráfico de menores e incapaces, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, el ejercicio de la acción penal será imprescriptible.
@@ -1305,7 +1309,7 @@ Si se deja de actuar, la prescripción comenzará a correr de nuevo al día sigu
 
 La interrupción de la prescripción de la acción penal sólo podrá ampliar hasta una mitad los plazos señalados en los artículos 100 y 102 de este Código.
 
-Las hipótesis contenidas en las fracciones I, II y V de este artículo, no interrumpirán la prescripción cuando las diligencias se practiquen después de que haya transcurrido la mitad del tiempo de la prescripción. Entonces ésta continuará corriendo y no podrá interrumpirse sino con la aprehensión del inculpado.
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 108.
 
@@ -2253,41 +2257,79 @@ Los delitos previstos en el presente Capítulo, sólo se perseguirán a petició
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 178.
 
-Para los efectos de este Código, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, empresas de participación estatal o municipal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado o de los Municipios, en los órganos constitucionales autónomos, en el Poder Legislativo o en el Poder Judicial, o que manejen recursos económicos estatales o municipales.
+Para los efectos de este Código, es servidor público toda persona que desempeña un empleo, cargo o comisión en los entes públicos conforme a lo dispuesto en el artículo 143 de la Constitución Política del Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
 
 Para la individualización de las sanciones previstas este Título y el subsecuente, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
 
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+
 Las disposiciones contenidas en el presente Título y el subsecuente, son aplicables a los Gobernadores de los Estados, a los Diputados y a los Magistrados, por la comisión de los delitos previstos en este Título.
 
-Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título o el subsecuente.
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que no siendo servidor público, participe en la perpetración de alguno de los delitos previstos en este Título o el subsecuente.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+También se impondrán las mismas sanciones anteriormente descritas a cualquier persona que no siendo servidor público, haya adquirido alguna concesión o patente o actúe como fedatario público en cualquier acto jurídico.
+
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
 
 De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado y de los Municipios por un plazo de uno a cincuenta años, atendiendo a los siguientes criterios:
 
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
+
 I.- Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
 
 II.- Será por un plazo de diez a hasta veinticinco años si dicho monto excede el límite señalado en la fracción anterior y no exceda de mil veces el valor diario de la Unidad de Medida y Actualización, y
 
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
+
 III.- Será por un plazo de veinticinco a cincuenta años si dicho monto excede el límite superior señalado en la fracción anterior o en caso de reincidencia.
+
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
 
 Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el segundo párrafo de este artículo, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
 
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+
 Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
+
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
 
 I.- Los daños y perjuicios patrimoniales causados por los actos u omisiones;
 
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
+
 II.- Las circunstancias socioeconómicas del responsable;
+
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
 
 III.- Las condiciones exteriores y los medios de ejecución, y
 
+> <small>(REFORMADA, B.O. 16 DE MARZO DE 2021)</small>
+
 IV.- El monto del beneficio que haya obtenido el responsable.
+
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
 
 Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
 
+> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+
 Cuando los delitos a que se refieren este Título y el subsecuente sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación de alguna del Congreso del Estado, las penas previstas serán aumentadas hasta en un tercio.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+Para la reparación del daño por los delitos previstos en este título, la autoridad competente deberá considerar la cuantificación que en su caso formulen las autoridades fiscalizadoras y que se haya acreditado, incluyendo los accesorios que se determinen a la fecha en que se dicte la condena correspondiente.
 
 ###### ARTICULO 179.
 
@@ -2503,15 +2545,29 @@ I.- El servidor público que por sí o por interpósita persona, solicite o reci
 
 II.- El que, directa o indirectamente, dé u ofrezca dádivas a la persona encargada de un servicio público, sea o no servidor público, para que haga u omita un acto justo o injusto relacionado con sus funciones.
 
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-El delito de cohecho se sancionará con prisión de tres a nueve años, multa de diez a doscientos cincuenta Unidades de Medida y Actualización, destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión pública, en los términos que establece el artículo 178, párrafo quinto de este Código.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-En todos los casos se decomisará a los responsables del delito de cohecho el dinero o dádivas entregados.
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-Este delito se agravará cuando sean cometidos por servidores públicos de alguna corporación policial, ministerial o de Seguridad Pública, de la Secretaría de Hacienda, del Instituto Superior de Auditoría y Fiscalización, de la Secretaría General de la Contraloría, del Tribunal de Justicia Administrativa, de la Tesorería de algún municipio o del Órgano de Control y Evaluación Gubernamental de algún municipio, aumentando la pena corporal en una mitad, y la inhabilitación, para desempeñar otro empleo, cargo o comisión pública, en los términos que establece el artículo 178, párrafo quinto de este Código.
+ARTICULO 185 BIS.- El delito de cohecho se sancionará de la siguiente forma:
+
+I.- En los casos de ofrecimiento o solicitud previstos en las fracciones I y II del artículo que antecede, el delito se sancionará con prisión de tres meses a un año y multa de diez a treinta Unidades de Medida y Actualización.
+
+II.- En los casos de recepción o dación previstos en las fracciones I y II del artículo que antecede; el delito se castigará:
+
+a).- Se impondrá de seis meses a dos años de prisión y multa de treinta a cincuenta unidades de medida y actualización diarias, cuando el monto de lo recibido, dado o prometido haya sido hasta mil unidades de medida y actualización diarias;
+
+b).- Se impondrá de dos a seis años de prisión y multa de setenta a cien unidades de medida y actualización diarias, cuando el monto de lo recibido, dado o prometido haya sido de mil uno a diez mil unidades de medida y actualización diarias;
+
+c).- Se impondrá de seis a quince años de prisión y multa de ciento cincuenta a trescientas unidades de medida y actualización diarias, cuando el monto de lo recibido, dado o prometido haya sido mayor de diez mil un unidades de medida y actualización diarias, y
+
+III.- En cualquier caso se sancionará con destitución e inhabilitación de conformidad a lo dispuesto por el artículo 178 de este código, para desempeñar otro empleo, cargo o comisión públicos.
+
+En todos los casos, el responsable del delito de cohecho deberá entregar el dinero o dádivas recibidos o su equivalente.
 
 ### CAPITULO VI. PECULADO
 
@@ -2527,9 +2583,21 @@ III.- Cualquier persona que solicite o acepte realizar las promociones o denigra
 
 IV.- Cualquier persona que sin tener el carácter de servidor público estatal o municipal y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o les dé una aplicación distinta a las que se les destinó.
 
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-Al que cometa el delito de peculado se le impondrán de seis meses a doce años de prisión, multa de diez a trescientas Unidades de Medida y Actualización y destitución, en su caso, e inhabilitación para ejercer un empleo, cargo o comisión públicos, en los términos que establece el artículo 178, párrafo quinto de este Código.
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+ARTICULO 186 BIS.- El delito de peculado se sancionará de la siguiente forma:
+
+I.- Cuando el monto del peculado haya sido hasta mil unidades de medida y actualización diarias, se impondrá de seis meses a dos años de prisión y multa de treinta a cincuenta unidades de medida y actualización diarias;
+
+II.- Cuando el monto del peculado haya sido de mil uno a diez mil unidades de medida y actualización diarias, se impondrá de dos a seis años de prisión y multa de setenta a cien unidades de medida y actualización diarias, y
+
+III.- Cuando el monto del peculado haya sido mayor a diez mil uno unidades de medida y actualización diarias, se impondrá de seis a quince años de prisión y multa de ciento cincuenta a trescientas unidades de medida y actualización diarias.
+
+IV. En cualquier caso, se sancionará con destitución e inhabilitación de conformidad a lo dispuesto por el artículo 178 de este código, para desempeñar otro empleo, cargo o comisión públicos.
+
+En todos los casos el responsable del delito de peculado deberá entregar el monto equivalente al beneficio obtenido.
 
 ### CAPITULO VII. CONCUSION
 
@@ -5844,6 +5912,28 @@ B.O. 22 DE SEPTIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 24 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 53, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN, DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, Y DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, contará con ciento ochenta días a partir de la entrada en vigor del presente decreto, para realizar las modificaciones al portal de internet con motivo de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+El Secretario Técnico del Sistema Estatal Anticorrupción, contará con un plazo de sesenta días posteriores a la entrada en vigor del presente decreto, para elaborar el proyecto de contrato de prestación de servicios por honorarios al que se refiere el artículo 17 de la Ley del Sistema Estatal Anticorrupción.
+
+Los nuevos contratos que se celebren entre los miembros del Comité de Participación Ciudadana y la Secretaría Ejecutiva, serán aplicables a los miembros electos con anterioridad a la presente reforma, a quienes le serán aplicables una vez concluido su anterior contrato, o una vez cumplido un año de su contratación.
+
+###### ARTÍCULO CUARTO.
+
+Las causas de remoción a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, que se reforman mediante el presente decreto, serán aplicables para quienes actualmente desempeñen tal servicio.
 
 ###### ARTICULO QUINTO.
 
