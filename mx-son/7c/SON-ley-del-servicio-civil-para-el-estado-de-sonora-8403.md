@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2021-05-14"
+last_updated: "2022-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -213,15 +213,17 @@ La jornada diaria de trabajo podrá prestarse en una o dos sesiones y dentro de 
 
 Por cada seis días de trabajo, el trabajador disfrutará de un día de descanso, cuando menos, con goce de salario íntegro.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 26 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 26.
 
-Las mujeres disfrutarán, con goce de salario íntegro, de cuatro semanas de descanso antes de la fecha que aproximadamente se fije para el parto o adopción, y de otras diez semanas después del mismo, o de la fecha en que se otorgue legalmente la adopción. Durante la lactancia podrá tener dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, sean biológicos o por adopción, o en su caso el tiempo equivalente acordado con la autoridad responsable, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
+Las mujeres disfrutarán de cuatro semanas de descanso con goce de salario íntegro, previas a la fecha que aproximadamente se fije en caso de parto o adopción, así como de diez semanas de descanso adicionales posteriores al parto o a la adopción de niña o niño menor a dos años de edad; a partir de la semana once hasta la semana veinte, las mujeres trabajadoras percibirán el cincuenta por ciento de su salario, este último goce de salario podrá ser complementado con otro cincuenta por ciento adicional por trabajo de medio tiempo. Para los efectos de este pago, se reconocen como formas de trabajo las actividades laborales llevadas a cabo en un lugar distinto al centro de trabajo, sin ser necesaria su presencia física, mediante el uso de tecnologías de la información y comunicación, bajo la modalidad de teletrabajo, siempre y cuando la naturaleza y tipo de actividad laboral en la que desempeñe la madre trabajadora permita su realización de manera completa y eficaz a fin de proteger y fomentar la crianza con apego y la lactancia materna benéfica para la madre e hija o hijo.
 
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2011)</small>
+En el caso de las mujeres trabajadores (sic) que decidan complementar su trabajo con salario de medio tiempo para amamantar a sus bebés, será requisito indispensable asistir y recibir la constancia correspondiente, a talleres informativos y de capacitación acerca de la lactancia y técnicas para un correcto amamantamiento. Las constancias de asistencia se presentarán ante la Unidad Administrativa correspondiente del lugar de trabajo.
 
-Los servidores públicos disfrutarán de un periodo de descanso o licencia con goce de sueldo con motivo del nacimiento de su hijo o de adopción, en los términos que determinen las disposiciones legales vigentes que reglamenten las relaciones laborales del Estado.
+Durante el periodo de lactancia correspondiente a los primeros seis meses de vida de la o el recién nacido, las mujeres que decidan regresar tiempo completo a sus labores gozarán de dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijas o hijos, o en su caso el tiempo equivalente acordado por la autoridad responsable. Esta actividad se realizará en un lugar digno, privado, higiénico, adecuado y accesible, que designe la institución o dependencia, y tendrán acceso a capacitación y fomento para la lactancia materna y amamantamiento, recibiendo información oportuna y comprensible sobre el inicio, mantenimiento y beneficios, promoviendo a que la leche materna sea alimento exclusivo, durante seis meses y complementario hasta avanzado el segundo año de vida.
+
+Los servidores públicos disfrutarán de un periodo de descanso o licencia con goce de sueldo con motivo del nacimiento de su hijo o de adopción, en términos que determinen las disposiciones legales vigentes que reglamenten las relaciones laborales del Estado.
 
 > <small>(ADICIONADO, B.O. 1 DE OCTUBRE DE 2020)</small>
 
@@ -1346,3 +1348,19 @@ B.O. 14 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 24 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 77, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL Y DE LA LEY DE LOS DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+– El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que se refiere al pago de salario del cincuenta por ciento adicional a las mujeres, durante las veinte semanas posteriores al parto o adopción a que hace referencia el primer párrafo del artículo 26 del presente Decreto; este se condicionará a la asistencia comprobada de las mujeres trabajadoras embarazadas, a dos talleres con una persona profesional calificada en materia de lactancia entre las semanas 23 y 35 de embarazo, asimismo, deberán acudir a un tercer taller que se realizará al presentarse la mujer trabajadora con su hija o hijo recién nacido en el Centro de Salud correspondiente dentro del plazo de los quince días posteriores al nacimiento o adopción de la niña o niño.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con lo señalado en el tercer párrafo el (sic) artículo 26 del presente Decreto, será requisito indispensable que la mujer trabajadora que decida regresar a laborar tiempo completo dentro de los primeros seis meses de vida de la o el recién nacido, dé aviso previo a la dependencia o institución en la que labora, a fin de que ejerza plenamente los derechos relacionados con la lactancia y amamantamiento dentro de su lugar de trabajo.
