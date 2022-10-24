@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-185-del-sistema-estatal-anticorrupcion-del-121396"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-11"
-last_updated: "2021-01-28"
+last_updated: "2022-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 11 de mayo de 2017.
 
@@ -103,7 +103,9 @@ X.- Secretaria Ejecutiva: El organismo que funge como órgano de apoyo técnico 
 
 XI.- Secretario Técnico: El servidor público a cargo de las funciones de dirección de la Secretaría Ejecutiva, así como las demás que le confiere la presente Ley;
 
-XII.- Servidores públicos: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en los entes públicos;
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XII.- Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los entes públicos, en el ámbito estatal y municipal, conforme a lo dispuesto en el artículo 143 de la Constitución Política del Estado de Sonora;
 
 > <small>(REFORMADA, B.O. 28 DE ENERO DE 2021)</small>
 
@@ -113,9 +115,21 @@ XIII.- Sistema Estatal: El Sistema Estatal Anticorrupción;
 
 XIV.- Plataforma Digital Nacional: establecida en la Ley General;
 
-> <small>(ADICIONADA, B.O. 28 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-XV.- Reglamentos Municipales: Reglamento Municipal Anticorrupción.
+XV.- Reglamentos Municipales: Los Reglamentos Municipales en materia Anticorrupción;
+
+> <small>(ADICIONADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XVI.- Recomendaciones vinculantes: Se refiere a los acuerdos del Comité Coordinador que tengan carácter obligatorio para los entes públicos;
+
+> <small>(ADICIONADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XVII.- Recomendaciones no vinculantes: Se refiere a los acuerdos del comité coordinador cuya aceptación es potestativa;
+
+> <small>(ADICIONADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XVIII.- Sesiones Virtuales: corresponde a aquellas sesiones que se realicen por medio de plataformas de comunicación electrónica.
 
 ###### Artículo 4°.
 
@@ -163,7 +177,9 @@ I.- Los integrantes del Comité Coordinador;
 
 II.- El Comité de Participación Ciudadana; y
 
-III.- Los municipios, los cuales concurrirán en los términos que emita el Comité Coordinador en los lineamientos correspondientes.
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+III.- Los municipios, los cuales concurrirán en los términos que emita el Comité Coordinador en los lineamientos correspondientes y en términos de lo previsto en el artículo 10 de la presente ley.
 
 ### CAPÍTULO II. DEL COMITÉ COORDINADOR
 
@@ -193,7 +209,9 @@ VIII.- La emisión de un informe anual que contenga, cuando menos, los avances y
 
 Dicho informe será el resultado de las evaluaciones realizadas por la Secretaria Ejecutiva y será aprobado por la mayoría de los integrantes del Comité Coordinador, los cuales podrán realizar votos particulares, concurrentes o disidentes, sobre el mismo y deberán ser incluidos dentro del informe anual;
 
-IX.- Con el objeto de garantizar la adopción de medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como para mejorar el desempeño del control interno, el Comité Coordinador emitirá recomendaciones públicas no vinculantes ante las autoridades respectivas y les dará seguimiento en términos de esta Ley;
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+IX.- Con el objeto de garantizar la adopción de medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como para mejorar el desempeño del control interno, el Comité Coordinador emitirá recomendaciones ante las autoridades respectivas y les dará seguimiento en términos de esta Ley;
 
 X.- La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los Entes públicos;
 
@@ -225,11 +243,33 @@ VI.- El Presidente del Tribunal de Justicia Administrativa; y
 
 VII.- El Presidente del Instituto Sonorense de Transparencia y Acceso a la Información Pública y Protección de Datos Personales.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 11.
 
 Para el adecuado funcionamiento del Sistema Estatal, la presidencia del Comité Coordinador durará un año, la cual será rotativa entre los miembros del Comité de Participación Ciudadana.
 
-Para el desahogo de sus reuniones, podrá invitar a los representantes de los órganos internos de control, entes públicos en materia de transparencia y combate a la corrupción con autonomía técnica, así como a las organizaciones de la sociedad civil.
+Para el desahogo de sus reuniones, son invitados permanentes los entes públicos en materia de transparencia y combate a la corrupción, las organizaciones de la sociedad civil, académicos y la ciudadanía en general, quienes podrán participar con voz, pero sin voto, a las reuniones que soliciten asistir. El Secretario Técnico moderará la participación de los invitados cuando éstos deseen hacerlo.
+
+El portal de internet de la Secretaría Ejecutiva deberá contar con una liga para permitir a la ciudadanía agendar las reuniones en las que deseen participar.
+
+El acceso a las reuniones del Comité Coordinador sólo podrá ser limitado por cuestiones de infraestructura y seguridad de los asistentes.
+
+Las sesiones del Comité Coordinador se transmitirán en el portal de internet de la Secretaría Ejecutiva y del Comité de Participación Ciudadana, en su caso.
+
+No se requerirá expresar justificación alguna para que la ciudadanía asista a las reuniones del Comité Coordinador.
+
+Lo anterior, sin perjuicio de que el Comité, por conducto del Secretario, realice las invitaciones que estime pertinentes.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 11 Bis.
+
+El Comité Coordinador deberá expedir los lineamientos mediante los cuales deberán celebrarse las sesiones virtuales. La Convocatoria a ellas podrá ser realizada mediante la correspondencia electrónica autorizada, debiendo quedar constancia en el acta que se levante con motivo de la sesión.
+
+Para la validez de las sesiones virtuales deberán cumplirse los mismos requisitos previstos en esta Ley y demás disposiciones aplicables para las sesiones presenciales.
+
+La ciudadanía en general y los invitados, podrán participar en las sesiones virtuales. La Secretaría Ejecutiva les proporcionará las ligas de acceso para esos efectos.
 
 ###### Artículo 12.
 
@@ -245,7 +285,7 @@ IV.- Dar seguimiento a los acuerdos del Comité Coordinador, a través de la Sec
 
 V.- Presidir el órgano de gobierno de la Secretaría Ejecutiva;
 
-VI.- Proponer al órgano de gobierno de la Secretaria Ejecutiva, una terna para el nombramiento del Secretario Técnico;
+VI.- (DEROGADA, B.O. 24 DE OCTUBRE DE 2022)
 
 VII.- Informar a los integrantes del Comité Coordinador sobre el seguimiento de los acuerdos y recomendaciones adoptados en las sesiones;
 
@@ -253,21 +293,25 @@ VIII.- Presentar para su aprobación y publicar, el informe anual de resultados 
 
 Comité Coordinador;
 
-IX.- Presentar para su aprobación las recomendaciones en materia de combate a la corrupción; y
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+IX.- Presentar para su aprobación las recomendaciones en materia de combate a la corrupción, así como las propuestas de recomendaciones de organizaciones de la sociedad civil, que le remita el Comité de Participación Ciudadana; y
 
 X.- Aquellas que prevean las reglas de funcionamiento y organización interna del Comité Coordinador.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 13.
 
-El Comité Coordinador se reunirá en sesión ordinaria cada tres meses. El Secretario Técnico podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador o previa solicitud formulada por la mayoría de los integrantes de dicho Comité.
+El Comité Coordinador se reunirá en sesión ordinaria por lo menos cada tres meses. El Secretario Técnico podrá convocar a sesión extraordinaria a petición del Presidente del Comité Coordinador o previa solicitud formulada por la mayoría de los integrantes de dicho Comité.
 
 Para que el Comité Coordinador pueda sesionar es necesario que esté presente la mayoría de sus integrantes.
 
-Para el desahogo de sus reuniones, el Comité Coordinador podrá invitar a los representantes de los Órganos internos de control de los organismos con autonomía reconocida en la Constitución Política del Estado de Sonora, otros Entes públicos, así como a organizaciones de la sociedad civil.
-
 El Sistema Estatal sesionará previa convocatoria del Comité Coordinador en los términos en que este último lo determine.
 
-Las sesiones del Comité Coordinador podrán ser de carácter público.
+Las sesiones del Comité Coordinador serán de carácter público.
+
+En el desarrollo de las sesiones y en el manejo de la información que se genere, en todo momento se protegerán los datos personales en términos de la legislación aplicable.
 
 ###### Artículo 14.
 
@@ -281,55 +325,89 @@ El Presidente del Comité Coordinador tendrá voto de calidad en caso de empate.
 
 El Comité de Participación Ciudadana tiene como objetivo coadyuvar, en términos de esta Ley, al cumplimiento de los objetivos del Comité Coordinador, así como ser la instancia de vinculación con las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 16.
 
-El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. Sus integrantes deberán reunir los mismos requisitos que esta Ley establece para ser nombrado Secretario Técnico.
+El Comité de Participación Ciudadana estará integrado por cinco ciudadanos de probidad y prestigio que se hayan destacado por su contribución a la transparencia, la rendición de cuentas, el combate a la corrupción, la participación ciudadana o la democracia.
+
+Sus integrantes deberán reunir los requisitos que el artículo 34 de esta Ley establece para ser nombrado Secretario Técnico, a excepción de los previstos en las fracciones II, III y IV.
+
+En la selección de los miembros del Comité de Participación Ciudadana, se tomará en alta consideración el activismo del candidato, ya sea de forma personal o a través de instituciones públicas o privadas, en la transparencia, la rendición de cuentas, el combate a la corrupción, la participación ciudadana o la democracia.
 
 Los integrantes del Comité de Participación Ciudadana no podrán ocupar, durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, local o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán al Comité de Participación Ciudadana y a la Comisión Ejecutiva.
 
-Durarán en su encargo cinco años, sin posibilidad de reelección, y sólo podrán ser removidos por alguna de las causas establecidas en la Ley Estatal de Responsabilidades Administrativas, relativa a los actos de particulares vinculados con faltas administrativas graves.
+Los miembros del Comité de Participación Ciudadana quedan obligados en los mismos términos que los servidores públicos, a preservar la confidencialidad, secrecía y resguardo de la información de carácter reservado y confidencial en términos de la legislación aplicable en materia de transparencia y protección de datos personales, por lo que les serán aplicables las mismas sanciones en caso de su incumplimiento.
+
+Durarán en su encargo cinco años, sin posibilidad de reelección y podrán ser removidos por alguna de las siguientes causas:
+
+I.- Por incurrir en falta administrativa grave en términos de la ley de responsabilidades vigente.
+
+II.- Por incurrir en delitos relacionados con hechos de corrupción durante el tiempo en que funjan como miembros del Comité de Participación Ciudadana.
+
+III.- Por renuncia expresa.
+
+IV.- Por sobrevenirse alguna causa que imposibilite al miembro del Comité de Participación Ciudadana para continuar desempeñando el cargo. El Comité Coordinador informará a la Comisión de Selección respecto de este supuesto, quien resolverá lo conducente en un plazo no mayor a treinta días naturales.
+
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 17.
 
-Los integrantes del Comité de Participación Ciudadana, no tendrán relación laboral alguna por virtud de su encargo con la Secretaria Ejecutiva. El vínculo legal con la misma, así como su contraprestación, serán establecidos a través de contratos de prestación de servicios por honorarios, en los términos que determine el órgano de gobierno, por lo que no gozarán de prestaciones, garantizando así la objetividad en sus aportaciones a la Secretaría Ejecutiva.
+Los integrantes del Comité de Participación Ciudadana, no tendrán relación laboral alguna por virtud de su encargo con la Secretaría Ejecutiva. El vínculo legal con la misma, así como su contraprestación, serán establecidos a través de contratos de prestación de servicios por honorarios, en los términos que determine el órgano de gobierno, pero con sujeción a las bases mínimas establecidas en la presente ley, por lo que no gozarán de prestaciones, garantizando así la objetividad en sus aportaciones a la Secretaría Ejecutiva.
 
-Los integrantes del Comité de Participación Ciudadana no podrán ocupar. durante el tiempo de su gestión, un empleo, cargo o comisión de cualquier naturaleza, en los gobiernos federal, local o municipal, ni cualquier otro empleo que les impida el libre ejercicio de los servicios que prestarán al Comité de Participación Ciudadana y a la Comisión Ejecutiva.
+Los contratos de prestación de servicios que se celebren entre los miembros del Comité de Participación Ciudadana y la Secretaría Ejecutiva se sujetarán a las siguientes bases:
 
-Los integrantes del Comité de Participación Ciudadana estarán sujetos al régimen de responsabilidades que establece la Constitución Política del Estado de Sonora.
+I.- El importe bruto mensual de las remuneraciones por concepto de honorarios de los miembros del Comité de Participación Ciudadana, no podrá ser mayor que el establecido para el nivel 9 en el tabulador de sueldos del departamento de recursos humanos de la Secretaría de Hacienda del Gobierno del Estado.
 
-En relación con el párrafo anterior, le serán aplicables las obligaciones de confidencialidad, secrecía, resguardo de información, y demás aplicables, por el acceso que llegaren a tener, y demás información de carácter reservado y confidencial.
+II.- Los integrantes del Comité de Participación Ciudadana, en lo individual, deberán remitir un informe mensual a la Secretaría Ejecutiva en el que desglosen las actividades realizadas. Se agregarán al informe las evidencias documentales de las actividades que sean pertinentes. Dicho informe, deberá ser presentado antes del día dos del mes posterior al que se informa y será público en el portal de internet del Comité de Participación Ciudadana y de la Secretaría Ejecutiva.
 
-En la conformación del Comité de Participación Ciudadana se procurará que prevalezca la equidad de género.
+III.- La Secretaría Ejecutiva, deberá garantizar un espacio en sus instalaciones para efecto de que los miembros del Comité de Participación Ciudadana desarrollen sus funciones.
+
+IV.- Los contratos contendrán una cláusula de protección de datos personales, y de confidencialidad en términos de las legislaciones de transparencia y protección de datos personales. La información generada por los miembros del Comité de Participación Ciudadana en el ejercicio de sus funciones, es propiedad intelectual de la Secretaría Ejecutiva, y como tal, deberá ser entregada al término de sus funciones, la cual será pública, en la medida que lo permitan las leyes en la materia.
+
+V.- Cada año se celebrará un nuevo contrato de prestación de servicios con los miembros del Comité de Participación Ciudadana, en el que se podrán hacer las modificaciones que se estimen pertinentes y se incrementará el honorario de acuerdo con el tabulador de la Secretaría de Hacienda en términos del presente artículo. Ningún contrato podrá ser por más de un año.
+
+En la conformación del Comité de Participación Ciudadana, deberá prevalecer la paridad de género.
+
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 18.
 
-Los integrantes del Comité de Participación Ciudadana serán nombrados conforme al siguiente procedimiento:
+Los integrantes del Comité de Participación Ciudadana, serán nombrados conforme al siguiente procedimiento:
 
-I.- El Congreso del Estado constituirá una Comisión de selección integrada por nueve personas, por un periodo de tres años, de la siguiente manera:
+I.- El Congreso del Estado constituirá una Comisión de Selección integrada por nueve personas, por un periodo de tres años, de la siguiente manera:
 
-a) Convocará a las instituciones de educación superior y de investigación, para proponer candidatos a fin de integrar la Comisión de selección, para lo cual deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días naturales, para seleccionar a cinco miembros basándose en los elementos decisorios que se hayan plasmado en la convocatoria, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, de rendición de cuentas y combate a la corrupción.
+a) Convocará a las instituciones de educación superior y de investigación, para proponer candidatos a fin de integrar la Comisión de selección, para lo cual, deberán enviar los documentos que acrediten el perfil solicitado en la convocatoria, en un plazo no mayor a quince días naturales, para seleccionar a cinco miembros, basándose en los elementos decisorios que se hayan plasmado en la convocatoria.
 
-b) Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos del inciso anterior.
+b) Convocará a organizaciones de la sociedad civil para seleccionar a cuatro miembros, en los mismos términos del inciso anterior.
 
-El cargo de miembro de la Comisión de selección será honorario. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la Comisión de selección.
+c) Además de los requisitos que exija la convocatoria, los aspirantes a integrar la Comisión de Selección deberán presentar su declaración patrimonial, de intereses y fiscal, las cuales deberán ser publicadas en los portales oficiales de internet del Congreso del Estado y de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, en versiones públicas.
+
+El cargo de miembro de la Comisión de Selección será honorario.
+
+En caso de que se generen vacantes imprevistas en la Comisión de Selección, el Congreso del Estado deberá seleccionar a un nuevo integrante cuyo proceso de selección no podrá exceder el límite de treinta días, el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+
+El Congreso del Estado deberá constituir una nueva Comisión de Selección en un periodo no mayor a treinta días después de su disolución. En caso de no hacerlo, el Comité Coordinador podrá exhortar al Congreso para tales efectos.
 
 II.- La Comisión de selección deberá emitir una convocatoria, con el objeto de realizar una consulta pública estatal dirigida a toda la sociedad en general, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
-Para ello, definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana y deberá hacerlos públicos; en donde deberá considerar al menos las siguientes características:
+Para ello, definirá la metodología, plazos y criterios de selección de los integrantes del Comité de Participación Ciudadana y deberá hacerlos públicos, en donde deberá considerar al menos las siguientes características:
 
-a) El método de registro y evaluación de los aspirantes;
+a) El método de registro y la evaluación de los aspirantes;
 
 b) Hacer pública la lista de las y los aspirantes;
 
-c) Hacer públicos los documentos que hayan sido entregados para su inscripción en versiones públicas;
+c) Hacer públicos los documentos que hayan sido entregados para su inscripción en versiones públicas. La declaración patrimonial, de intereses y fiscal, de las y los aspirantes, éstas serán divulgadas en versiones públicas en los portales oficiales de internet del Congreso del Estado y de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción.
 
 d) Hacer público el cronograma de audiencias;
 
-e) Podrán efectuarse audiencias públicas en las que se invitará a participar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en la materia; y
+e) Podrán efectuarse audiencias públicas en las que se invitará a participar a investigadores, académicos y a organizaciones de la sociedad civil, especialistas en la materia, y
 
-f) El plazo en que se deberá hacer la designación que al efecto se determine, y que se tomará, en sesión pública, por el voto de la mayoría de sus miembros.
+f) El plazo en que se deberá hacer la designación que al efecto se determine y que se tomará, en sesión pública, por el voto de la mayoría de sus miembros.
 
-En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y el ciudadano que resulte electo desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+Cuando se generen vacantes en el Comité de Participación Ciudadana debido a la conclusión de su periodo, la Comisión de Selección está obligada a sesionar en un periodo no mayor a quince días para efecto de instaurar el proceso de selección del nuevo integrante.
+
+En caso de que la vacante ocurra tiempo antes de la conclusión del periodo por el que fue electo el miembro del Comité de Participación Ciudadana ausente, el nuevo integrante se desempeñará por el tiempo restante de la vacante a ocupar.
 
 ###### Artículo 19.
 
@@ -381,15 +459,23 @@ XIII.- Opinar sobre el programa anual de trabajo del Comité Coordinador;
 
 XIV.- Realizar observaciones, a través de su participación en la Comisión Ejecutiva, a los proyectos de informe anual del Comité Coordinador;
 
-XV.- Proponer al Comité Coordinador, a través de su participación en la Comisión
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-Ejecutiva, la emisión de recomendaciones no vinculantes;
+XV.- Proponer al Comité Coordinador la emisión de recomendaciones;
 
 XVI.- Promover la colaboración con instituciones en la materia, con el propósito de elaborar investigaciones sobre las políticas públicas para la prevención, detección y combate de hechos de corrupción o faltas administrativas;
 
-XVII.- Dar seguimiento al funcionamiento del Sistema Estatal; y
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-XVIII.- Proponer al Comité Coordinador mecanismos para facilitar el funcionamiento de las instancias de contraloría social existentes, así como para recibir directamente información generada por esas instancias y formas de participación ciudadana.
+XVII.- Dar seguimiento al funcionamiento del Sistema Estatal;
+
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XVIII.- Proponer al Comité Coordinador mecanismos para facilitar el funcionamiento de las instancias de contraloría social existentes, así como para recibir directamente información generada por esas instancias y formas de participación ciudadana; y
+
+> <small>(ADICIONADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XIX.- Recibir propuestas de recomendaciones de la sociedad civil y remitirlas a la Comisión Ejecutiva en un plazo no mayor a cinco días.
 
 ###### Artículo 22.
 
@@ -459,15 +545,19 @@ Para poder sesionar válidamente, el órgano de gobierno requerirá la asistenci
 
 Podrán participar con voz pero sin voto aquellas personas que el órgano de gobierno, a través del Secretario Técnico, decida invitar en virtud de su probada experiencia en asuntos que sean de su competencia.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 29.
 
-El órgano de gobierno tendrá las atribuciones indelegables previstas en el artículo 40 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora.
+El órgano de gobierno tendrá las siguientes atribuciones indelegables:
 
-Asimismo, deberá de expedir el Estatuto Orgánico en el que se establezcan las bases de su organización, así como las facultades y funciones de las distintas áreas que integren el mismo.
+I.- Expedir el Estatuto Orgánico en el que se establezcan las bases de su organización, así como las facultades y funciones de las distintas áreas que integren el mismo.
 
-De igual manera, tendrá la atribución indelegable de nombrar y remover, por mayoría calificada de cinco votos, al Secretario Técnico, de conformidad con lo establecido por esta Ley.
+II.- Nombrar al Secretario Técnico a propuesta de cualquiera de sus integrantes, por mayoría calificada de cinco votos.
 
-Deberá celebrar por lo menos cuatro sesiones ordinarias por año, así como las extraordinarias que procedan para el debido desahogo de los asuntos de su competencia; requiriendo la mayoría de sus miembros.
+III.- Remover, por mayoría calificada de cinco votos, al Secretario Técnico.
+
+IV.- Celebrar por lo menos cuatro sesiones ordinarias por año, así como las extraordinarias que procedan para el debido desahogo de los asuntos de su competencia; requiriendo la mayoría de sus miembros.
 
 #### SECCIÓN II. DE LA COMISIÓN EJECUTIVA
 
@@ -497,7 +587,7 @@ V.- Las bases y principios para la efectiva coordinación de los Entes públicos
 
 VI.- El informe anual que contenga los avances y resultados del ejercicio de las funciones y de la aplicación de las políticas y programas en la materia;
 
-VII.- Las recomendaciones no vinculantes que serán dirigidas a las autoridades que se requieran, en virtud de los resultados advertidos en el informe anual, así como el informe de seguimiento que contenga los resultados sistematizados de la atención dada por las autoridades a dichas recomendaciones; y
+VII.- (DEROGADA, B.O. 24 DE OCTUBRE DE 2022)
 
 VIII.- Los mecanismos de coordinación con los Sistemas Anticorrupción de las demás Entidades Federativas.
 
@@ -719,41 +809,121 @@ El funcionamiento del sistema de información a que hace alusión el presente ar
 
 El Sistema de denuncias públicas de faltas administrativas y hechos de corrupción será establecido de acuerdo a lo que determine el Comité Coordinador y será implementado por las autoridades competentes.
 
-## TÍTULO QUINTO. DEL INFORME ANUAL Y LAS RECOMENDACIONES DEL COMITÉ COORDINADOR
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO ÚNICO. DE LAS RECOMENDACIONES
+## TÍTULO QUINTO. DE LAS RECOMENDACIONES DEL COMITÉ COORDINADOR Y DEL INFORME ANUAL
+
+> <small>(REFORMADO EN SU NUMERACIÓN, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO PRIMERO. DE LAS RECOMENDACIONES
+
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 56.
 
-El informe que rendirá el Comité Coordinador en términos del artículo 9, fracción VIII de la presente Ley, se deberá de hacer de conocimiento por escrito de los titulares de los poderes del Estado y en el mismo, además de lo señalado en la presente Ley, deberá de dar cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para estos efectos se atenderá a lo establecido en las metodologías que emita el Sistema Nacional Anticorrupción.
+Las recomendaciones que apruebe el Comité Coordinador serán vinculantes y/o no vinculantes. Todas serán públicas y estarán sujetas al principio de máxima publicidad. Las destinatarias de todas las recomendaciones serán las autoridades y éstas informarán al Comité Coordinador sobre la atención que brinden a las mismas dentro de los plazos fijados en las mismas.
+
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 57.
 
-El Secretario Técnico solicitará a los miembros del Comité Coordinador toda la información que estime necesaria para la integración del contenido del informe anual que deberá rendir el Comité Coordinador, incluidos los proyectos de recomendaciones. Asimismo, solicitará al Instituto Superior de Auditoría y Fiscalización del estado de Sonora y los Órganos internos de control de los Entes públicos, que presenten un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe. Los informes serán integrados al informe anual del Comité Coordinador como anexos. Una vez culminada la elaboración del informe anual, se someterá para su aprobación ante el Comité Coordinador.
+Durante todo el año se podrá analizar y enlistar en cualquier sesión del Comité Coordinador, el seguimiento y aprobación de recomendaciones aprobadas o de nuevas recomendaciones.
 
-El informe anual a que se refiere el párrafo anterior deberá ser aprobado como máximo treinta días previos a que culmine el periodo anual de la presidencia.
-
-En los casos en los que del informe anual se desprendan recomendaciones, el Presidente del Comité Coordinador instruirá al Secretario Técnico para que, a más tardar a los quince días posteriores a que haya sido aprobado el informe, las haga del conocimiento de las autoridades a las que se dirigen. En un plazo no mayor de treinta días, dichas autoridades podrán solicitar las aclaraciones y precisiones que estimen pertinentes en relación con el contenido de las recomendaciones.
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 58.
 
-Las recomendaciones establecidas en esta Ley, que emita el Comité Coordinador del Sistema Estatal a los Entes públicos, serán públicas y de carácter institucional y estarán enfocadas al fortalecimiento de los procesos, mecanismos, organización, normas, así como acciones u omisiones que deriven del informe anual que presente el Comité Coordinador.
+Las recomendaciones vinculantes tienen carácter obligatorio en su cumplimiento, y deberá tener un análisis de factibilidad que incluya el escuchar a la autoridad a la cual estará dirigida la recomendación, lo cual permitirá establecer el alcance de la implementación de cada recomendación.
 
-Las recomendaciones deberán ser aprobadas por la mayoría de los miembros del Comité Coordinador.
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 59.
 
-Las recomendaciones deberán recibir respuesta fundada y motivada por parte de las autoridades a las que se dirijan, en un término que no exceda los quince días a partir de su recepción, tanto en los casos en los que determinen su aceptación como en los casos en los que decidan rechazarlas. En caso de aceptarlas deberá informar las acciones concretas que se tomarán para darles cumplimiento.
+Las recomendaciones están dirigidas a las autoridades, con el objeto de que adopten medidas para:
 
-Toda la información relacionada con la emisión, aceptación, rechazo, cumplimiento y supervisión de las recomendaciones deberá estar contemplada en los informes anuales del Comité Coordinador.
+I.- El fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción.
+
+II.- El mejoramiento de su desempeño institucional; y
+
+III.- El aumento en la eficacia del control interno.
+
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 60.
 
-En caso de que el Comité Coordinador considere que las medidas de atención a la recomendación no están justificadas con suficiencia, que la autoridad destinataria no realizó las acciones necesarias para su debida implementación o cuando ésta sea omisa en los informes a que se refieren los artículos anteriores, podrá solicitar a dicha autoridad la información que considere relevante.
+Deberán existir lineamientos para elaborar las recomendaciones que aprobará el Comité Coordinador. La elaboración de la propuesta de esos lineamientos estará a cargo de la Secretaría Ejecutiva para su observación y cumplimiento.
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ADICIONADO], B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 61.
+
+Cada integrante del Comité Coordinador propondrá las recomendaciones que considere pertinentes, lo que hará mediante escrito dirigido a la Secretaría Ejecutiva, para someterlas a la aprobación del Comité Coordinador.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 62.
+
+Las recomendaciones deberán ser aprobadas por la mayoría simple de los miembros presentes del Comité Coordinador.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 63.
+
+En caso de que el Comité Coordinador considere que las medidas de atención a la recomendación no están justificadas con suficiencia, que la autoridad destinataria no realizó las acciones necesarias para su debido cumplimiento o cuando ésta sea omisa a la recomendación, podrá solicitar a dicha autoridad la información que considere relevante y eventualmente se solicitará el inicio de una investigación a la autoridad competente.
+
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores público (sic) en los tiempos legalmente instituidos para ello, éstos deberán fundar, motivar y hacer pública su negativa o incumplimiento. En caso contrario el Comité Coordinador podrá dar cuenta al Poder Legislativo del Estado de Sonora para que en el ejercicio de sus funciones llame a la autoridad que no cumpla con las recomendaciones.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 64.
+
+El Comité Coordinador resolverá todos los asuntos no previstos en materia de las recomendaciones. Determinará cuales recomendaciones se dan por cumplidas, cuales están en proceso de cumplimiento, cuales están incumplidas. El estatus se actualizará cada año y será la Secretaría Ejecutiva la responsable del seguimiento y actualización del estado actual de cada recomendación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO SEGUNDO. DEL INFORME ANUAL DEL COMITÉ COORDINADOR
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 65.
+
+El Comité Coordinador aprobará por mayoría de los miembros presentes en sesión, el informe anual, el cual, se elaborará conforme a los lineamientos desarrollados para tal fin.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 66.
+
+En los casos que del informe anual se desprendan recomendaciones, el Presidente del Comité Coordinador, instruirá al Secretario Técnico para que, dentro de los quince días naturales posteriores a que este haya sido aprobado, las haga del conocimiento de las autoridades a las que se dirigen.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 67.
+
+El informe comprenderá de enero a diciembre y se someteré (sic) para su aprobación, en la primera sesión del Comité Coordinador, que será en enero de cada año.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 68.
+
+Cada informe anual, estará organizado en función de los asuntos aportados por cada uno de los integrantes del Comité Coordinador para el buen funcionamiento del Sistema Estatal Anticorrupción, en cumplimiento al mandato que la ley impone a cada integrante.
+
+> <small>(ADICIONADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 69.
+
+En la aprobación del informe anual, se deberá establecer que asuntos siguen su atención en el siguiente año, dentro del plan de trabajo anual del Comité Coordinador.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, B.O. 28 DE ENERO DE 2021)</small>
 
-###### Artículo 61.
+## TÍTULO SEXTO. DE LOS REGLAMENTOS MUNICIPALES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 28 DE ENERO DE 2021)</small>
+
+### CAPÍTULO ÚNICO. DEL OBJETO DE LOS REGLAMENTOS MUNICIPALES
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 61], B.O. 24 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 70.
 
 Con la finalidad de fortalecer el Sistema Estatal Anticorrupción, de conformidad con lo que señala el artículo 113 último párrafo de la Constitución Política de los Estados Unidos Mexicanos y con el objeto de esta Ley, los municipios que conforman el estado Libre y Soberano de Sonora deberán contar con un Reglamento Municipal Anticorrupción, los cuales incluirán como mínimo lo siguiente:
 
@@ -769,17 +939,9 @@ V.- Lineamientos para la emisión de políticas públicas municipales en materia
 
 VI.- Acciones permanentes que aseguren el comportamiento ético de los servidores públicos municipales;
 
-VII.- Programas de capacitación para los servidores públicos en prevención y combate a la corrupción;
+VII.- Programas de capacitación para los servidores públicos en prevención y combate a la corrupción; y
 
 VIII.- Políticas para la promoción, fomento y difusión de la cultura de integridad, ética y responsabilidad en el servicio público, así como de la rendición de cuentas, de la transparencia, de la fiscalización y del control de los recursos públicos.
-
-### CAPÍTULO ÚNICO. DEL OBJETO DE LOS REGLAMENTOS MUNICIPALES
-
-> <small>(ADICIONADO, B.O. 28 DE ENERO DE 2021)</small>
-
-## TÍTULO SEXTO. DE LOS REGLAMENTOS MUNICIPALES
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 28 DE ENERO DE 2021)</small>
 
 ## TRANSITORIOS
 
@@ -858,3 +1020,25 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 ###### ARTÍCULO TERCERO.
 
 Los Ayuntamientos del estado, contarán con un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente decreto para expedir el Reglamento Municipal Anticorrupción.
+
+B.O. 24 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 53, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN, DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, Y DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, contará con ciento ochenta días a partir de la entrada en vigor del presente decreto, para realizar las modificaciones al portal de internet con motivo de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+El Secretario Técnico del Sistema Estatal Anticorrupción, contará con un plazo de sesenta días posteriores a la entrada en vigor del presente decreto, para elaborar el proyecto de contrato de prestación de servicios por honorarios al que se refiere el artículo 17 de la Ley del Sistema Estatal Anticorrupción.
+
+Los nuevos contratos que se celebren entre los miembros del Comité de Participación Ciudadana y la Secretaría Ejecutiva, serán aplicables a los miembros electos con anterioridad a la presente reforma, a quienes le serán aplicables una vez concluido su anterior contrato, o una vez cumplido un año de su contratación.
+
+###### ARTÍCULO CUARTO.
+
+Las causas de remoción a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, que se reforman mediante el presente decreto, serán aplicables para quienes actualmente desempeñen tal servicio.
