@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-185-de-justicia-administrativa-para-el-estado-de-105
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-04"
-last_updated: "2021-03-11"
+last_updated: "2022-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 4 de diciembre de 2014.
 
@@ -63,7 +63,9 @@ Las resoluciones y actuaciones del Tribunal de Justicia Administrativa del Estad
 
 El presupuesto asignado al Tribunal de Justicia Administrativa del Estado de Sonora, se ejercerá con autonomía y conforme a la Ley del Presupuesto de Egresos y Gasto Público Estatal y las disposiciones legales aplicables, bajo los principios de legalidad, certeza, independencia, honestidad, responsabilidad y transparencia. Su administración será eficiente para lograr la eficacia de la justicia administrativa bajo el principio de rendición de cuentas.
 
-Dicho ejercicio deberá realizarse con base en los principios de honestidad, responsabilidad, eficiencia, eficacia, transparencia, rendición de cuentas, austeridad, racionalidad y bajo estos principios estará sujeto a la evaluación y control de los órganos correspondientes.
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+Dicho ejercicio deberá realizarse con base en los principios de honestidad, responsabilidad, eficiencia, eficacia, transparencia, rendición de cuentas, austeridad, racionalidad y bajo estos principios estará sujeto a la evaluación y control del Órgano Interno de Control del Tribunal, y de los órganos correspondientes.
 
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -343,7 +345,7 @@ II.- Conocer y resolver sobre los juicios y recursos que sean de su competencia;
 
 III.- Resolver sobre las excitativas de justicia que se planteen por las partes;
 
-IV.- Dictar los acuerdos necesarios para que se establezca la manera en que habrá (sic) de distribuirse entre los magistrados, los juicios y recursos que se presenten ante la Sala Superior, procurando en todo momento el despacho pronto y expedito de los negocios;
+VI.- (DEROGADA, B.O. 24 DE OCTUBRE DE 2022)
 
 V.- Nombrar al Secretario General de Acuerdos, a los Secretarios auxiliares, actuarios y demás personal administrativo adscrito a la Sala Superior;
 
@@ -1696,3 +1698,25 @@ B.O. 11 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor a los 180 días siguiente (sic) de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 24 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 53, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN, DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, Y DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, contará con ciento ochenta días a partir de la entrada en vigor del presente decreto, para realizar las modificaciones al portal de internet con motivo de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+El Secretario Técnico del Sistema Estatal Anticorrupción, contará con un plazo de sesenta días posteriores a la entrada en vigor del presente decreto, para elaborar el proyecto de contrato de prestación de servicios por honorarios al que se refiere el artículo 17 de la Ley del Sistema Estatal Anticorrupción.
+
+Los nuevos contratos que se celebren entre los miembros del Comité de Participación Ciudadana y la Secretaría Ejecutiva, serán aplicables a los miembros electos con anterioridad a la presente reforma, a quienes le serán aplicables una vez concluido su anterior contrato, o una vez cumplido un año de su contratación.
+
+###### ARTÍCULO CUARTO.
+
+Las causas de remoción a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, que se reforman mediante el presente decreto, serán aplicables para quienes actualmente desempeñen tal servicio.
