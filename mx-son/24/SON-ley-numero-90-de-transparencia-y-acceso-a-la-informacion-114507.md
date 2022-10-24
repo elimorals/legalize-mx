@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-90-de-transparencia-y-acceso-a-la-informacion-114507
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-28"
-last_updated: "2021-01-28"
+last_updated: "2022-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el jueves 28 de abril de 2016.
 
@@ -607,9 +607,11 @@ El Comisionado Presidente será elegido por mayoría de los comisionados.
 
 La designación del Comisionado Presidente se comunicará de inmediato para su conocimiento a los Poderes del Estado y a los organismos públicos autónomos.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 46.
 
-El Instituto contará con un Contralor Interno de conformidad con la normatividad aplicable.
+El Instituto contará con un Órgano Interno de Control, de conformidad con la fracción XV del artículo 64 de la Constitución Política del Estado de Sonora.
 
 ###### Artículo 47.
 
@@ -2338,3 +2340,25 @@ B.O. 28 DE ENERO DE 2021.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el 10 de febrero de 2021, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 24 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 53, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN, DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, Y DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, contará con ciento ochenta días a partir de la entrada en vigor del presente decreto, para realizar las modificaciones al portal de internet con motivo de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+El Secretario Técnico del Sistema Estatal Anticorrupción, contará con un plazo de sesenta días posteriores a la entrada en vigor del presente decreto, para elaborar el proyecto de contrato de prestación de servicios por honorarios al que se refiere el artículo 17 de la Ley del Sistema Estatal Anticorrupción.
+
+Los nuevos contratos que se celebren entre los miembros del Comité de Participación Ciudadana y la Secretaría Ejecutiva, serán aplicables a los miembros electos con anterioridad a la presente reforma, a quienes le serán aplicables una vez concluido su anterior contrato, o una vez cumplido un año de su contratación.
+
+###### ARTÍCULO CUARTO.
+
+Las causas de remoción a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, que se reforman mediante el presente decreto, serán aplicables para quienes actualmente desempeñen tal servicio.
