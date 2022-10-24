@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2022-06-27"
+last_updated: "2022-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,49 +23,17 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ORDENA LA PUBLICACIÓN EN DISTINTOS MEDIOS DEL CATÁLOGO ACTUALIZADO DE ESTACIONES DE RADIO Y CANALES DE TELEVISIÓN, EN TODO EL TERRITORIO NACIONAL, QUE PARTICIPARÁN EN LA COBERTURA DEL PROCESO ELECTORAL FEDERAL 2008-2009 Y, EN SU CASO, DE LOS PROCESOS ELECTORALES LOCALES CON JORNADA ELECTORAL COINCIDENTE CON LA FEDERAL, PARA DAR CUMPLIMIENTO AL ARTÍCULO 62, PÁRRAFO 5 DEL CÓDIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-Acuerdo publicado en la Cuarta y Quinta Sección del Diario Oficial de la Federación, el viernes 26 de junio de 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2022.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Federal Electoral.- Consejo General.- CG141/2009.
+Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE ORDENA LA PUBLICACION EN DISTINTOS MEDIOS DEL CATALOGO ACTUALIZADO DE ESTACIONES DE RADIO Y CANALES DE TELEVISION, EN TODO EL TERRITORIO NACIONAL, QUE PARTICIPARAN EN LA COBERTURA DEL PROCESO ELECTORAL FEDERAL 2008-2009 Y, EN SU CASO, DE LOS PROCESOS ELECTORALES LOCALES CON JORNADA ELECTORAL COINCIDENTE CON LA FEDERAL, PARA DAR CUMPLIMIENTO AL ARTICULO 62, PARRAFO 5 DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES.
+C.P. MARTÍN OROZCO SANDOVAL, Presidente Municipal de Aguascalientes, en ejercicio de las facultades contenidas en los Artículos 16, 38, fracciones I y II de la Ley Municipal para el Estado de Aguascalientes; y las demás propias de su cargo, a los habitantes del Municipio de Aguascalientes hace saber que el Honorable Ayuntamiento ha tenido a bien aprobar y consecuentemente expedir el:
 
-Antecedentes
-
-[...]
-
-Considerandos
-
-[...]
-
-En razón de los antecedentes y considerandos expresados, y con fundamento en lo dispuesto por los artículos 41, bases III y V de la Constitución Política de los Estados Unidos Mexicanos; 1, párrafos 1 y 2, inciso b); 36, párrafo 1, inciso c); 48, párrafo 1, inciso a); 49, párrafos 1, 2, 5 y 6; 51; 62, párrafos 4, 5 y 6; 105, párrafo 1, inciso h); 108, párrafo 1, inciso a); 109, párrafo 1; 117, párrafo 2; 118, párrafo 1, incisos a) y z), y 134, párrafo 1, inciso a) del Código Federal de Instituciones y Procedimientos Electorales; 1, párrafos 1 y 2; 4, párrafo 1; 6, párrafos 1, incisos e) y h), 2, inciso h), 4, incisos d) y k) y 5, incisos a) y d); 48, párrafo 2; 49 y 53 del Reglamento de Acceso a Radio y Televisión en Materia Electoral, el Consejo General del Instituto Federal Electoral emite el siguiente:
-
-Acuerdo
-
-PRIMERO. El Consejo General del Instituto Federal Electoral hará del conocimiento público el Catálogo actualizado de las estaciones de radio y Canales de televisión que, en todo el territorio nacional, participan en la cobertura de los procesos electorales federal 2008-2009 y locales con jornada electoral coincidente con dicho proceso federal, anexo al presente instrumento, a través de los siguientes medios:
-
-1. Publicación en el Diario Oficial de la Federación.
-
-2. Publicación en los Periódicos Oficiales de los Gobiernos de Aguascalientes; Baja California; Baja California Sur; Campeche; Chiapas; Chihuahua; Coahuila; Colima; Distrito Federal; Durango; Guanajuato; Guerrero; Hidalgo; Jalisco; Estado de México; Michoacán; Morelos; Nayarit; Nuevo León; Oaxaca; Puebla; Querétaro; Quintana Roo; Sinaloa; Sonora; Tabasco; Tamaulipas; Tlaxcala; Veracruz; Yucatán, y Zacatecas.
-
-3. Publicación en dos diarios de circulación nacional.
-
-4. Publicación en la página de Internet del Instituto Federal Electoral.
-
-SEGUNDO. Se instruye a la Secretaría Ejecutiva del Instituto Federal Electoral a que lleve a cabo las gestiones necesarias para la publicación del Catálogo actualizado de las estaciones de radio y canales de televisión que, en todo el territorio nacional, participan en la cobertura del proceso electoral local federal 2008-2009 y, en su caso, de los procesos electorales locales con jornada electoral coincidente con la federal, en el Diario Oficial de la Federación y en dos diarios de circulación nacional.
-
-TERCERO. Se instruye a las Juntas Locales del Instituto Federal Electoral en los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Chiapas, Chihuahua, Coahuila, Colima, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Michoacán, Morelos, Estado de México, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán y Zacatecas, así como del Distrito Federal, a que lleven a cabo las gestiones necesarias, en sus respectivos ámbitos de competencia, para la publicación del Catálogo actualizado de las estaciones de radio y canales de televisión que participarán en la cobertura del proceso electoral federal 2008-2009 y, en su caso, del proceso electoral local con jornada electoral coincidente con la federal que corresponda en los Periódicos Oficiales de los Gobiernos señalados en el punto de acuerdo Primero.
-
-CUARTO. Se instruye a la Unidad de Servicios de Informática del Instituto Federal Electoral a que lleve a cabo las gestiones necesarias para la publicación del Catálogo actualizado de las estaciones de radio y Canales de televisión que, en todo el territorio nacional, participan en la cobertura del proceso electoral local federal 2008-2009 y, en su caso, de los procesos electorales locales con jornada electoral coincidente con la federal, en la página de Internet del Instituto Federal Electoral.
-
-QUINTO. Se instruye a la Secretaría Ejecutiva a que por su conducto, se comunique el presente Acuerdo a la Dirección General de Radio, Televisión y Cinematografía de la Secretaría de Gobernación; a la Cámara Nacional de la Industria de la Radio y la Televisión; al Sistema de Radiodifusoras Culturales Indigenistas; a la Red de Radiodifusoras y Televisoras Educativas y Culturales de México, A.C., a través de las respectivas juntas ejecutivas locales, a las emisoras de radio y televisión incluidas en el Catálogo actualizado de las estaciones de radio y canales de televisión que, en todo el territorio nacional, participan en la cobertura del proceso electoral federal 2008-2009 y, en su caso, de los procesos electorales locales con jornada electoral coincidente con la federal, para los efectos legales a que haya lugar.
-
-El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 7 de abril de dos mil nueve.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
-
-> <small>N. DE E. VER CATÁLOGO EN LA CUARTA Y QUINTA SECCIÓN DEL D.O.F. DE 26 DE JUNIO DE 2009, PÁGINAS DE LA 30 A LA 112 Y DE LA 1 A LA 83, RESPECTIVAMENTE.</small>
+CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
@@ -603,7 +571,7 @@ XIX. Consejo Consultivo del Instituto Municipal de Planeación.
 
 XX. Comité de Bienes Inmuebles del Municipio de Aguascalientes.
 
-XXI. Consejo Consultivo de la Academia Taurina.
+XXI. (DEROGADA, P.O. 24 DE OCTUBRE DE 2022)
 
 XXII. Consejo Ciudadano de Transparencia del Municipio de Aguascalientes.
 
@@ -3965,6 +3933,10 @@ Departamento de Información y Estadística.
 
 Departamento de Planeación.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+Departamento de Inteligencia Policial y Política Criminal
+
 Coordinación del Centro de Mando C-4.
 
 Departamento de Monitoreo de Alarmas y GPS.
@@ -3973,7 +3945,9 @@ Departamento de Monitoreo de Videocámaras.
 
 Departamento de Radio Comunicación.
 
-Departamento de Emergencia 080.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2022)</small>
+
+Departamento de Atención a Emergencias
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
@@ -5141,6 +5115,24 @@ III. Realizar e inspeccionar los trabajos de mantenimiento o conservación de la
 
 IV. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 27 DE JUNIO DE 2022)</small>
+
+IV bis. Recibir las Obra Públicas a nombre del Municipio de Aguascalientes, por dependencias que ejecutan dichas obras con recursos Federales, Estatales y Municipales. Siguiendo el procedimiento y los lineamientos del manual interno "Entrega/Recepción de Obra Pública en el Municipio de Aguascalientes" el cual contendrá por lo menos:
+
+a) Copia certificada del expediente técnico inicial de la obra; que, además, deberá contener la fianza de cumplimiento y la fianza de vicios ocultos.
+
+b) Copia certificada de planos definitivos firmados y avalados por los ejecutores e involucrados en el desarrollo de la obra.
+
+c) Copia certificada de la bitácora de obra debidamente firmada por las personas involucradas en el desarrrollo de la obra (supervisor, residente de obra, perito responsable, etc.)
+
+d) Copia certificada del expediente técnico definitivo al término de la obra.
+
+e) Pruebas de laboratorio y estudios involucrados en el desarrollo de la obra; pudiendo ser entregadas de forma digital o impresa; debiendo incluir la memoria fotográfica de la obra.
+
+f) Convocar al ente receptor a recorridos de verificación al inicio, durante y termino de la obra.
+
+g) Y las demás consideraciones y requerimientos que sean solicitados por el Municipio de Aguascalientes.
+
 V. Asesorar técnicamente a los Comités de Concertación y Participación Social que lo requieran, en lo concerniente a la realización de obras públicas municipales.
 
 VI. Asesorar técnicamente a las instancias municipales que así lo requieran a través de la Dirección de Calidad y Fallas Geológicas o el Departamento correspondiente, en materia de discontinuidades en el subsuelo, así como recabar la información necesaria para la expedición de la cartografía, planos o sistemas electrónicos que contengan la información disponible a la fecha de emisión por parte de la Secretaría de Desarrollo Urbano.
@@ -5165,7 +5157,9 @@ XIV. Ejecutar las acciones necesarias para realizar programas y proyectos para, 
 
 XIV bis. Coordinarse con las distintas autoridades de los ámbitos municipales y estatales, a efecto de sugerir al Honorable Cabildo la firma de instrumentos jurídicos que permitan el buen uso y funcionamiento de los Tiraderos de escombro, pudiéndose optar por el esquema de tiraderos de escombros de zona metropolitana; sugerir o hacer planteamientos y propuestas, que tengan por objeto la consolidación de alianzas estratégicas con los sectores público, gobiernos del estado y municipales, así como con el sector el (sic) privado, cámaras empresariales, organismos o asociaciones de la industria de la construcción, interesadas en el uso, operación y administración de tiraderos de residuos derivados de la construcción de obra, siempre y cuando exista viabilidad de los proyectos.
 
-XIV (SIC). Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 APARTADO DÉCIMO PRIMERO
 
@@ -5575,7 +5569,7 @@ APARTADO DÉCIMO QUINTO
 
 De La Secretaría de Seguridad Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE JUNIO DE 2022)</small>
 
 ###### ARTÍCULO 114.
 
@@ -5613,9 +5607,9 @@ VII. Poner a disposición de las autoridades competentes, en forma inmediata, a 
 
 VIII. Vigilar e inspeccionar, para fines de Seguridad Pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en el Municipio de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
 
-IX. Realizar investigaciones en el ámbito de su competencia para hacer efectiva la prevención, así como las derivadas de la comisión de delitos y faltas administrativas cometidos dentro del Municipio en el entendido de que esta información constituye la plataforma sustantiva para la conformación de las bases de datos susceptibles de aprovechamiento en la atención al fenómeno delictivo, la cual estará desagregada por sexo;
+IX. Realizar investigaciones en el ámbito de su competencia para hacer efectiva la prevención enfocándose en el origen de las conductas antisociales administrativas y del delito, buscando profundizar en dichos fenómenos y con ello realizar la política criminal planteando soluciones y estrategias por medio de la tecnología cibernética, así como de dispositivos electrónicos, mediante el ciberpatrullaje y atención ciudadana, detectar conductas antisociales y delitos cibernéticos, para su investigación, análisis y prevención, dentro del Municipio, en el entendido de que esta información constituye la plataforma sustantiva para la conformación de las bases de datos susceptibles de aprovechamiento en la atención al fenómeno delictivo, la cual estará desagregada por sexo;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -5641,9 +5635,21 @@ XIV. Ordenar la práctica de visitas domiciliarias de tipo preventivo precisadas
 
 XV. Requerir y apercibir al infractor, propietario o poseedor del bien Inmueble, el cumplimiento a las disposiciones previstas en el Apartado Séptimo del Capítulo VIII, Título Tercero, Libro Segundo del presente Código;
 
-> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2022)</small>
 
-XVI. Las demás que otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XVI. Investigar a través de equipos especializados en fuentes abiertas y cerradas para la obtención de información significativa, procesando su transformación mediante la investigación, atención y prevención; así como sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+XVII. Aplicar sistemas de prevención a través de actividades encaminadas a evitar o disminuir la comisión de delitos e infracciones administrativas, conductas antisociales y delitos cibernéticos e informáticos; así como realizar las acciones de inspección, vigilancia y vialidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2022)</small>
+
+XVIII. Sistemas de reacción mediante acciones dirigidas a garantizar, mantener y restablecer el orden y la paz pública; así como las medidas de seguridad y especializadas para el fortalecimiento de la seguridad en el uso adecuado de las TICS
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+
+XIX. Las demás que le otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del presidente Municipal
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
@@ -26925,9 +26931,9 @@ SEGUNDO: Las referencias que se hagan y las atribuciones que se otorgan en el pr
 
 P.O. 22 DE NOVIEMBRE DE 2021.
 
-## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
-PRIMERO.– Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
+PRIMERO.- Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
 
 SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -26941,13 +26947,13 @@ QUINTO.- El personal adscrito a la Dirección de Salud Pública que sea trasferi
 
 La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
 
-SEXTO.– La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
+SEXTO.- La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
 
-SÉPTIMO.– La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
+SÉPTIMO.- La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
 
-OCTAVO.– La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+OCTAVO.- La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
-NOVENO.– Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+NOVENO.- Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
 DÉCIMO.- La Coordinación General de la Salud, dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno de la Coordinación, con el fin de que se encuentre conforme a la presente reforma.
 
@@ -26957,7 +26963,7 @@ DÉCIMO SEGUNDO.- Todos los trámites que hubiesen iniciado bajo la vigencia de 
 
 DÉCIMO TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior Director de Salud Pública, se entenderán hechas o conferidas a la actual Coordinación General de Salud.
 
-DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado “De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes”, que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado “De la Coordinación General de Salud” que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
+DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado "De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes", que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado "De la Coordinación General de Salud" que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
 
 DÉCIMO QUINTO.- Todas las disposiciones jurídicas del ámbito Municipal que se opongan al presente, se entienden reformadas en el sentido del contenido en el cuerpo del mismo, adecuando los nuevos nombres y funciones.
 
@@ -27040,6 +27046,36 @@ P.O. 18 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL ARTÍCULO 1109 FRACCIÓN X DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 > <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES”.]</small>
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA A LOS ARTÍCULOS 98 Y 114 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente reforma entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA "ADICIÓN DE LA FRACCIÓN IV (BIS) AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO.- La presente reforma entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA ACADEMIA TAURINA DEL MUNICIPIO DE AGUASCALIENTES “ALFONSO RAMÍREZ EL CALESERO"".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se Deroga el Reglamento de la Academia Taurina del Municipio de Aguascalientes, publicado en el Periódico Oficial del Estado el 30 de octubre de 2000, así como todas las reformas, adiciones que hubiere sufrido el mismo.
+
+TERCERO.- El municipio incluirá en la iniciativa del presupuesto de egresos para el ejercicio fiscal 2023, los recursos mínimos para el funcionamiento de la Academia.
+
+CUARTO.- La Academia iniciará el cumplimiento de sus objetivos y el ejercicio de sus atribuciones previstos en este reglamento, con base en la disponibilidad de recursos que al efecto autorice el H. Ayuntamiento para el ejercicio fiscal del año 2022 o con base en los subsidios y apoyos que obtenga del Gobierno del Estado o de cualquier otra fuente de financiamiento de las autorizadas por este reglamento.
+
+QUINTO.- En un plazo no mayor a los veinte días naturales, contados a partir de la autorización del presupuesto por parte del Ayuntamiento, se realizará la instalación del Consejo Directivo y se nombrarán a los titulares de las direcciones a que se refiere el artículo 10.
+
+SEXTO.- El Consejo Directivo de la Academia expedirá su normatividad interna en un plazo no mayor de ciento veinte días hábiles, contados a partir de la fecha de su instalación.
+
+SÉPTIMO.- Por única ocasión los directores que señalan las fracciones II y III del artículo 10, y los integrantes del Consejo que señala el artículo 11 fracción III durarán en su encargo durante el periodo restante de la presente administración y el comprendido de la siguiente administración municipal con la finalidad de consolidar, fortalecer y dar continuidad a los primeros trabajos y objetivos de la Academia.
 
 ###### ARTICULO UNICO.
 
