@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2021-03-01"
+last_updated: "2022-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -87,9 +87,17 @@ VI.- Estado, a la Federación, los Estados, la Ciudad de México y los municipio
 
 VII.- Instancia Estatal de Infraestructura Física Educativa, al Instituto Sonorense de Infraestructura Educativa;
 
-VIII.- Mediación Escolar, la técnica que se utiliza para resolver los problemas que se presentan en la convivencia entre alumnos y/o entre alumnos y maestros en el marco y cumplimiento de las disposiciones aplicables. En algunos centros también se usa para solventar las dificultades que surgen entre el profesorado, y/o entre éste y las madres y padres de familia; y
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-IX.- Sistema Educativo Estatal es el conjunto de actores, instituciones y procesos para la prestación del servicio de la educación que se imparta en el Estado de Sonora, desde la educación básica hasta la superior, así como por las relaciones institucionales de dichas estructuras y su vinculación con la sociedad del Estado de Sonora, sus organizaciones, comunidades, pueblos, sectores y familias.
+VIII.- Mediación Escolar, la técnica que se utiliza para resolver los problemas que se presentan en la convivencia entre alumnos y/o entre alumnos y maestros en el marco y cumplimiento de las disposiciones aplicables. En algunos centros también se usa para solventar las dificultades que surgen entre el profesorado, y/o entre éste y las madres y padres de familia;
+
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+IX.- Sistema Educativo Estatal es el conjunto de actores, instituciones y procesos para la prestación del servicio de la educación que se imparta en el Estado de Sonora, desde la educación básica hasta la superior, así como por las relaciones institucionales de dichas estructuras y su vinculación con la sociedad del Estado de Sonora, sus organizaciones, comunidades, pueblos, sectores y familias; y
+
+> <small>(ADICIONADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+X.- Falda opcional para alumnas, a la estrategia de igualdad que consiste en la libre elección de las alumnas de vestir falda o pantalón del uniforme escolar.
 
 Coordinación interestatal e intermunicipal en proyectos regionales educativos
 
@@ -337,7 +345,9 @@ IV.- Promoverá el respeto al interés general de la sociedad, por encima de int
 
 V.- Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
 
-VI.- Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades y de género, respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno en los servicios educativos;
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+VI.- Será equitativa, al favorecer el pleno ejercicio del derecho a la educación de todas las personas, para lo cual combatirá las desigualdades socioeconómicas, regionales, de capacidades, los estereotipos y roles de género. Respaldará a estudiantes en condiciones de vulnerabilidad social y ofrecerá a todos los educandos una educación pertinente que asegure su acceso, tránsito, permanencia y, en su caso, egreso oportuno, en los servicios educativos;
 
 VII.- Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de los educandos, y así eliminar las distintas barreras al aprendizaje y a la participación, para lo cual adoptará medidas en favor de la accesibilidad y los ajustes razonables;
 
@@ -1283,9 +1293,17 @@ VIII.- Participar en los procesos que se deriven en los planteles educativos com
 
 IX.- Recibir becas, estímulos, créditos educativos y demás apoyos económicos priorizando a los educandos que enfrenten condiciones económicas y sociales que les impidan ejercer su derecho a la educación;
 
-X.- Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas; y
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-XI.- Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Sonora, esta Ley y demás disposiciones aplicables.
+X.- Participar en los Comités Escolares de Administración Participativa en los términos de las disposiciones respectivas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XI.- Elegir libremente sobre el uso del uniforme escolar, de acuerdo con la estrategia de falda opcional, establecida en la fracción X del artículo 4 de esta misma ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XII.- Los demás que sean reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado Libre y Soberano de Sonora, esta Ley y demás disposiciones aplicables.
 
 La Secretaría establecerá los mecanismos que contribuyan a su formación integral, tomando en cuenta los contextos sociales, territoriales, económicos, lingüísticos y culturales específicos en la elaboración y aplicación de las políticas educativas en sus distintos tipos y modalidades.
 
@@ -1797,7 +1815,9 @@ Para tal efecto realizarán entre otras, las siguientes acciones:
 
 I.- Establecer políticas incluyentes, transversales y con perspectiva de género, para otorgar becas y demás apoyos económicos que prioricen a los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación;
 
-II.- Establecer, de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica;
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+II.- Establecer, de acuerdo con la suficiencia presupuestal, programas de entrega gratuita de uniformes y útiles escolares, calzado y anteojos para estudiantes de educación básica. En la entrega de uniformes se atenderá la estrategia de falda opcional que marca la presente ley;
 
 III.- Proporcionar apoyos a educandos cuya madre, padre o tutor haya fallecido o sufrido algún accidente que le ocasione invalidez o incapacidad permanente;
 
@@ -1829,9 +1849,17 @@ XIV.- Adoptar las medidas para que, con independencia de su nacionalidad o condi
 
 XV.- Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
 
-XVI.- Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución; y
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-XVII.- Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia.
+XVI.- Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución;
+
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XVII.- Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia; e
+
+> <small>(ADICIONADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XVIII.- Instrumentar estrategias dentro de las instituciones educativas públicas y privadas, para eliminar estereotipos de género que causen desigualdad y discriminación que tengan que ver con formas de vestir, actitudes y creencias, entre otras; durante la educación básica y media superior.
 
 Consejo Nacional de Autoridades Educativas
 
@@ -2179,7 +2207,9 @@ La autorización y el reconocimiento incorporan a las instituciones que los obte
 
 En ningún caso, con motivo del cobro de colegiaturas o cualquier otra contraprestación, derivada de la educación que se imparta en términos de este artículo, se realizarán acciones que atenten contra la dignidad y los derechos de los educandos, de manera especial de las niñas y niños, incluyendo la retención de documentos personales y académicos.
 
-La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley. Los educandos, las madres y padres de familia o tutores tendrán el derecho de adquirir los uniformes o materiales educativos con el proveedor de su preferencia.
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley. Los educandos, las madres y padres de familia o tutores tendrán el derecho de adquirir los uniformes o materiales educativos con el proveedor de su preferencia, y las alumnas podrán elegir falda o pantalón en el uso de su uniforme escolar.
 
 Requisitos para las autorizaciones
 
@@ -2543,7 +2573,9 @@ XXI.- Otorgar revalidaciones o equivalencias sin observar las disposiciones apli
 
 XXII.- Retener documentos personales y académicos por falta de pago;
 
-XXIII.- Condicionar la prestación del servicio público de educación a la adquisición de uniformes y materiales educativos, así como de actividades extraescolares;
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XXIII.- Condicionar la prestación del servicio público de educación a la adquisición de uniformes y materiales educativos; al uso tradicional y estereotipado del uniforme escolar de acuerdo al sexo de alumnas y alumnos; y a la realización de actividades extraescolares;
 
 XXIV.- Omitir dar a conocer por escrito a las personas usuarias de los servicios educativos, previamente a la inscripción para cada ciclo escolar, el costo total de la colegiatura o cualquier otra contraprestación;
 
@@ -2816,3 +2848,15 @@ B.O. 1 DE MARZO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 24 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 71, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se establece un período de 30 días hábiles para que el Poder Ejecutivo realice las adecuaciones pertinentes al presente decreto, y se establece un plazo adicional de 30 días hábiles para que las instituciones educativas adecuen sus reglamentos escolares al presente Decreto, conforme a las disposiciones reglamentarias que para tal efecto emita el Poder Ejecutivo.
