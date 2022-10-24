@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-formacion-profesional-1605
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-10-13"
-last_updated: "2022-10-13"
+last_updated: "2022-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160571&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2022-10-05"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE FORMACION PROFESIONAL Y ESTUDIOS SUPERIORES DE LA FISCALIA GENERAL DE JUSTICIA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE OCTUBRE DE 2022 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL INSTITUTO DE FORMACIÓN PROFESIONAL Y ESTUDIOS SUPERIORES DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 24 DE OCTUBRE DE 2022.]</small>
 
 Reglamento publicado en el Número 958 de la Gaceta Oficial de la Ciudad de México, el jueves 13 de octubre de 2022.
 
@@ -736,7 +736,9 @@ QUINTO. Los recursos humanos, materiales, financieros y tecnológicos serán dis
 
 SEXTO. La persona Titular del Instituto podrá instruir que uno o varios asuntos en trámite, al momento de la entrada en vigor del presente Reglamento, sigan en conocimiento, gestión, trámite, resolución o seguimiento según sea el caso, ante las Unidades Administrativas o Unidades Administrativas de Apoyo Técnico Operativo que los tenían a su cargo.
 
-SÉPTIMO. La persona Titular del Instituto dirigirá y ejecutará los procedimientos relativos a la incorporación al Servicio Público de Carrera, en el marco del proceso de transición, de conformidad con la normatividad aplicable, en coordinación con las Unidades Administrativas de la Fiscalía General competentes.
+> <small>(F. DE E., G.O. 24 DE OCTUBRE DE 2022)</small>
+
+SÉPTIMO. La persona Titular del Instituto dirigirá y ejecutará los procedimientos relativos a la incorporación al Servicio Profesional de Carrera, en el marco del proceso de transición, de conformidad con la normatividad aplicable, en coordinación con las Unidades Administrativas de la Fiscalía General competentes.
 
 OCTAVO. Hasta en tanto no sea creado el Centro de Evaluación y Control de Confianza de la Fiscalía General o la Unidad Administrativa que lleve a cabo sus facultades, las evaluaciones del Personal Sustantivo de la Fiscalía General y de los Operadores, podrán ser solicitadas y gestionadas ante la Dirección General del Centro de Control de Confianza de la Secretaría de Seguridad Ciudadana del Gobierno de la Ciudad de México o ante los Centros de Evaluación y Control de Confianza de las Instituciones de Procuración de Justicia e Instituciones Policiales de la Federación o de las Entidades Federativas, en términos de la normatividad aplicable y los Convenios que para tal efecto se celebren.
 
@@ -749,3 +751,11 @@ Ciudad de México, a 05 de octubre de 2022
 LIC. ERNESTINA GODOY RAMOS
 
 FISCAL GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 24 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA "NOTA ACLARATORIA AL REGLAMENTO INTERIOR DEL INSTITUTO DE FORMACIÓN PROFESIONAL Y ESTUDIOS SUPERIORES DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO".]
+
+Único. Publíquese la presente en la Gaceta Oficial de la Ciudad de México.
