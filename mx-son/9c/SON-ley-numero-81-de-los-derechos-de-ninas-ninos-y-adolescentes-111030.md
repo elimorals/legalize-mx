@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-81-de-los-derechos-de-ninas-ninos-y-adolescentes-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2021-05-14"
+last_updated: "2022-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 17 de diciembre de 2015.
 
@@ -300,6 +300,10 @@ XIX. Derechos de niñas, niños y adolescentes migrantes.
 XX. Derechos de niñas, niños y adolescentes en situaciones especiales.
 
 XXI. Derecho al acceso a las tecnologías de información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones.
+
+> <small>(ADICIONADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+
+XXII. Derecho a la lactancia materna.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar el goce y disfrute de estos derechos a fin de lograr desarrollo integral de todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -2158,3 +2162,19 @@ B.O. 14 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 24 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 77, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL Y DE LA LEY DE LOS DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que se refiere al pago de salario del cincuenta por ciento adicional a las mujeres, durante las veinte semanas posteriores al parto o adopción a que hace referencia el primer párrafo del artículo 26 del presente Decreto; este se condicionará a la asistencia comprobada de las mujeres trabajadoras embarazadas, a dos talleres con una persona profesional calificada en materia de lactancia entre las semanas 23 y 35 de embarazo, asimismo, deberán acudir a un tercer taller que se realizará al presentarse la mujer trabajadora con su hija o hijo recién nacido en el Centro de Salud correspondiente dentro del plazo de los quince días posteriores al nacimiento o adopción de la niña o niño.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con lo señalado en el tercer párrafo el (sic) artículo 26 del presente Decreto, será requisito indispensable que la mujer trabajadora que decida regresar a laborar tiempo completo dentro de los primeros seis meses de vida de la o el recién nacido, dé aviso previo a la dependencia o institución en la que labora, a fin de que ejerza plenamente los derechos relacionados con la lactancia y amamantamiento dentro de su lugar de trabajo.
