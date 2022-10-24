@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-177-de-instituciones-y-procedimientos-101678"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2020-05-29"
+last_updated: "2022-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 52 Sección I del Boletín Oficial del Estado de Sonora, el lunes 30 de junio de 2014.
 
@@ -1257,9 +1257,11 @@ El Instituto Estatal cumplirá la función de oficialía electoral con fe públi
 
 En el ejercicio de la oficialía electoral, el secretario ejecutivo dispondrá del apoyo de funcionarios del Instituto Estatal, conforme a las bases que se establezcan en la reglamentación aplicable.
 
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 107.
 
-El Instituto Estatal contará con un contralor general que será designado por el Consejo General.
+El Instituto Estatal contará con un Órgano Interno de Control, de conformidad con la fracción XV del artículo 64 de la Constitución Política del Estado de Sonora.
 
 ###### Artículo 108.
 
@@ -1393,9 +1395,9 @@ El secretario del Consejo General deberá reunir los mismos requisitos que se ex
 
 El consejero presidente, los consejeros electorales, el secretario ejecutivo y los demás servidores públicos del Instituto Estatal, desempeñarán su función con autonomía y probidad.
 
-> <small>(REFORMADO, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-El consejero presidente, los consejeros electorales y el secretario ejecutivo, estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el título VI de la Constitución Local. La contraloría general del Instituto Estatal será el órgano facultado para conocer de las infracciones administrativas de aquéllos e imponer, en su caso, las sanciones aplicables de conformidad a la reglamentación y leyes aplicables.
+El consejero presidente, los consejeros electorales y el secretario ejecutivo, estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el título VI de la Constitución Local. El Órgano Interno de Control del Instituto Estatal será el órgano facultado para conocer de las infracciones administrativas de aquéllos e imponer, en su caso, las sanciones aplicables de conformidad a la reglamentación y leyes aplicables.
 
 ###### Artículo 118.
 
@@ -1479,9 +1481,9 @@ XV.- Efectuar el cómputo total de la elección de diputados por el principio de
 
 XVI.- Informar al Poder Legislativo sobre el otorgamiento de las constancias de asignación de diputados electos por el principio de representación proporcional, así como de los medios de impugnación interpuestos;
 
-> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-XVII.- Conocer los informes que, anualmente, la Junta General Ejecutiva rinda por conducto del secretario ejecutivo del Instituto Estatal, así como los que, en su caso, deba rendir la Contraloría General;
+XVII.- Conocer los informes que, anualmente, la Junta General Ejecutiva rinda por conducto del Secretario Ejecutivo del Instituto Estatal, así como los que, en su caso, deba rendir el Órgano Interno de Control;
 
 XVIII.- Requerir a la Junta General Ejecutiva para que investigue, por los medios a su alcance, hechos que afecten de modo relevante los derechos de los partidos políticos o el proceso electoral;
 
@@ -1781,9 +1783,11 @@ VII.- Presentar a consideración del Consejo General, el proyecto de dictamen de
 
 VIII.- Integrar los expedientes relativos a las faltas administrativas cometidas por funcionarios electorales en materia electoral y, en su caso, proponer las sanciones, en los términos que establece la presente Ley;
 
-> <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
 
-IX.- Recibir informes del contralor general respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre imposición de sanciones a los servidores públicos del Instituto Estatal y en términos de la Ley General;
+IX.- Recibir informes del Titular del Órgano Interno de Control, respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre imposición de sanciones a los servidores públicos del Instituto Estatal y en términos de la legislación aplicable. En todos los casos el responsable del delito de cohecho deberá entregar el dinero o dádivas recibidos o su equivalente.
+
+En todos los casos el responsable del delito de cohecho deberá entregar el dinero o dádivas recibidos o su equivalente.
 
 > <small>(REFORMADA, B.O. 25 DE MAYO DE 2017)</small>
 
@@ -5516,3 +5520,25 @@ Por lo que hace a las autoridades que no se renuevan mediante procesos electoral
 ###### ARTÍCULO TERCERO.
 
 La observancia del principio de alternancia en la elección de diputados locales a que se refiere este Decreto, será aplicable a quienes sean electos en el proceso electoral inmediato porterior (sic) al proceso electoral 2020-2021.
+
+B.O. 24 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 53 "QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN, DEL CÓDIGO PENAL DEL ESTADO DE SONORA, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SONORA, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE SONORA, Y DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, contará con ciento ochenta días a partir de la entrada en vigor del presente decreto, para realizar las modificaciones al portal de internet con motivo de la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+El Secretario Técnico del Sistema Estatal Anticorrupción, contará con un plazo de sesenta días posteriores a la entrada en vigor del presente decreto, para elaborar el proyecto de contrato de prestación de servicios por honorarios al que se refiere el artículo 17 de la Ley del Sistema Estatal Anticorrupción.
+
+Los nuevos contratos que se celebren entre los miembros del Comité de Participación Ciudadana y la Secretaría Ejecutiva, serán aplicables a los miembros electos con anterioridad a la presente reforma, a quienes le serán aplicables una vez concluido su anterior contrato, o una vez cumplido un año de su contratación.
+
+###### ARTÍCULO CUARTO.
+
+Las causas de remoción a los miembros del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, que se reforman mediante el presente decreto, serán aplicables para quienes actualmente desempeñen tal servicio.
