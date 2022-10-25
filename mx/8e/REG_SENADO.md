@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2022-04-08"
+last_updated: "2022-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -272,9 +272,13 @@ Artículo 18
 
 Artículo 19
 
-1. Conforme a lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, los senadores se excusan de intervenir en asuntos en los que tienen interés directo.
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
-2. De igual forma, los senadores están obligados a cumplir con lo dispuesto en la Ley citada, en lo relativo a conflictos de interés.
+1. Conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas, las senadoras y los senadores se excusan de intervenir en asuntos en los que tienen interés directo.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+2. De igual forma, las senadoras y los senadores están obligados a cumplir con lo dispuesto en la Ley citada, en lo relativo a conflictos de interés.
 
 3. En caso procedente, los integrantes de la Mesa realizan las acciones que corresponden conforme a la legislación aplicable relativas a las conductas referidas en este artículo.
 
@@ -284,21 +288,25 @@ Artículo 20
 
 ### CAPITULO QUINTO. DEL REGIMEN DE RESPONSABILIDADES Y LA DISCIPLINA PARLAMENTARIA
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
 Artículo 21
 
-1. En el desempeño de su cargo los senadores son sujetos de las responsabilidades de orden político y penal que establecen la Constitución, la Ley Federal de Responsabilidades de los Servidores Públicos, el Código Penal Federal y los demás ordenamientos aplicables.
+1. En el desempeño de su cargo las senadoras y los senadores son sujetos de las responsabilidades de orden político y penal que establecen la Constitución, la Ley Federal de Responsabilidades de los Servidores Públicos, el Código Penal Federal y los demás ordenamientos aplicables.
 
-2. Asimismo son responsables por faltas administrativas y a la disciplina parlamentaria en los términos de la Constitución, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley y este Reglamento.
+2. Asimismo, son responsables por faltas administrativas y a la disciplina parlamentaria en los términos de la Constitución, la Ley General de Responsabilidades Administrativas, la Ley y este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
 Artículo 22
 
-1. Las sanciones consistentes en la destitución o inhabilitación de un senador, o la separación de su cargo, se determinan y aplican conforme a los procedimientos señalados en los artículos constitucionales 110, relativo al juicio político; y 111, referido a la declaración de procedencia.
+1. Las sanciones consistentes en la destitución o inhabilitación de un senador, o la separación de su cargo, se determinan y aplican conforme a los procedimientos señalados en los artículos constitucionales 110, relativo al juicio político; y 111, referido a la declaración de procedencia, así como lo dispuesto en (sic) Ley Federal de Responsabilidades de los Servidores Públicos y demás legislación aplicable.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
 Artículo 23
 
-1. En términos del artículo 11 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y de lo dispuesto por la Ley, los grupos parlamentarios, la Mesa y el Pleno, con la participación que corresponda, en sus respectivos ámbitos de competencia, tienen a su cargo los procedimientos relativos para la aplicación de sanciones administrativas a los senadores.
-
-2. Las faltas administrativas en que incurran los demás servidores públicos del Senado, serán sancionadas por la Contraloría Interna, conforme a los procedimientos establecidos al efecto.
+1. Las faltas administrativas en que incurran los servidores públicos del Senado, serán sancionadas por el órgano interno de control, conforme a los procedimientos establecidos al efecto.
 
 Artículo 24
 
@@ -2918,6 +2926,10 @@ Artículo 277
 
 4. Los plazos y condiciones para emitir los dictámenes de los puntos de acuerdo estarán sujetos a las normas establecidas en el Capítulo Sexto del Título Séptimo de este ordenamiento.
 
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+5. Las proposiciones con punto de acuerdo que no sean dictaminadas dentro del periodo ordinario de sesiones en el que fueron presentadas, se tendrán por concluidas, cumpliéndose con los trámites de su proceso legislativo y se descargarán de los turnos correspondientes, y sus expedientes serán remitidos al Archivo Histórico y Memoria Legislativa para su resguardo.
+
 ### CAPITULO QUINTO. DE LAS COMUNICACIONES Y PETICIONES
 
 Artículo 278
@@ -3495,5 +3507,17 @@ D.O.F. 30 DE MARZO DE 2021.
 D.O.F. 8 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 169 Y 190 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 19, NUMERALES 1 Y 2; 21; 22; Y 23 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN NUMERAL 5 AL ARTÍCULO 277 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
