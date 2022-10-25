@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-que-fija-las-condiciones-generales-de-102733
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-10"
-last_updated: "2018-05-18"
+last_updated: "2022-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102733&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-09-29"
 
 REGLAMENTO INTERNO QUE FIJA LAS CONDICIONES GENERALES DE TRABAJO DE LOS EMPLEADOS DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE OCTUBRE DE 2022.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 10 de octubre de 2014.
 
@@ -148,9 +148,9 @@ c) Tener la escolaridad requerida para el puesto, y reunir las características 
 
 d) Presentar la información documental complementaria que acredite la calidad personal, técnica o profesional del aspirante a ingresar al servicio de la CAPTRALIR.
 
-e) Presentar y obtener calificación aprobatoria en las pruebas de admisión que la Institución haya establecido para el puesto.
+e) (DEROGADO, G.O. 25 DE OCTUBRE DE 2022)
 
-f) Gozar de buena salud.
+f) (DEROGADO, G.O. 25 DE OCTUBRE DE 2022)
 
 ### Capitulo Segundo. DOCUMENTACION SOLICITADA
 
@@ -1647,3 +1647,11 @@ G.O. 18 DE MAYO DE 2018.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México para todos los efectos a que haya lugar.
 
 SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación.
+
+G.O. 25 DE OCTUBRE DE 2022.
+
+[TRANSITORIOS DEL “ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO AUTORIZA DEROGAR LOS INCISOS E) Y F) DEL ARTÍCULO 8 DEL REGLAMENTO INTERNO QUE FIJA LAS CONDICIONES GENERALES DE TRABAJO DE LOS EMPLEADOS DE LA CAJA”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
