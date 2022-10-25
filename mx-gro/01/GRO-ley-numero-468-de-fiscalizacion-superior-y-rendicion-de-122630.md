@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-468-de-fiscalizacion-superior-y-rendicion-de-122630"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2021-09-03"
+last_updated: "2022-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2022.
 
 Ley publicada en el Alcance V al Número 57 del Periódico Oficial del Estado de Guerrero, el martes 18 de julio de 2017.
 
@@ -37,7 +37,7 @@ LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBE
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 61 fracción I de la Constitución Política Local, 227 y 287 de la Ley Orgánica del Poder Legislativo en vigor, este Honorable Congreso decreta y expide la siguiente:
 
@@ -100,6 +100,10 @@ IX. Cuenta Pública: La Cuenta Pública a que se refiere el artículo 61 fracci�
 X. Entes Públicos: Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la administración pública paraestatal, los municipios, dependencias, entidades de la administración pública paramunicipal, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados;
 
 XI. Entidades fiscalizadas: Los Entes Públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título recursos públicos, no obstante que sean o no considerados entidades paraestatales por la Ley de Entidades Paraestatales del Estado y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines;
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2022)</small>
+
+XI Bis. Evaluación técnica: Proceso mediante el cual la Unidad valora si la entidad de fiscalización superior del Estado, en su función sustantiva de fiscalización, se sujeta al marco rector y normas para la fiscalización superior de la gestión gubernamental, considerando que los procesos de planeación, ejecución, informe y seguimiento sean congruentes y sus resultados estén alineados con los objetivos determinados.
 
 XII. Faltas administrativas graves: Las señaladas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guerrero;
 
@@ -227,15 +231,13 @@ Se integrará conforme a lo dispuesto en los artículos 53 o 55 de la Ley Genera
 
 La falta de presentación de la cuenta pública dentro del término establecido será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes y no será impedimento para que la Auditoría Superior del Estado realice su función de fiscalización.
 
-Las cuentas públicas que se presenten de manera extemporánea, con independencia de las sanciones que impliquen para la respectiva entidad fiscalizable, otorgarán a la Auditoria Superior del Estado una prórroga similar al periodo del retraso para presentar el Informe Individual, contado a partir de la fecha en que se haya entregado el Informe General.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
+Sin menoscabo de la responsabilidad de los servidores públicos facultados para la presentación de la Cuenta Pública en términos de esta Ley, también podrá ser presentada ante la Auditoría Superior del Estado por los ex servidores públicos de las administraciones salientes por finalizar su gestión constitucional, en el plazo equivalente al otorgado a las administraciones en funciones.
 
 ###### Artículo 13 Bis.
 
-La información financiera gubernamental de las cuentas públicas que se presenten a la Auditoría Superior del Estado por parte de las entidades fiscalizables deberá ser dictaminada por profesionistas que acrediten contar con certificación expedida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública; y, sólo serán válidas las certificaciones cuando sean expedidas por los organismos certificadores que obtengan el Reconocimiento de Idoneidad de la Secretaría de Educación Pública.
-
-La Auditoria Superior del Estado de Guerrero, llevará un registro de los profesionistas acreditados, y emitirá las bases y requisitos para formar parte del padrón de contadores certificados.
+(DEROGADO, P.O. 25 DE OCTUBRE DE 2022)
 
 ###### Artículo 14.
 
@@ -556,6 +558,10 @@ Los Informes Individuales a que hace referencia el presente capítulo tendrán e
 ###### Artículo 38.
 
 La Auditoría Superior del Estado dará cuenta al Congreso en los Informes Individuales de las observaciones, recomendaciones y acciones y, en su caso, de la imposición de las multas respectivas, y demás acciones que deriven de los resultados de las auditorías practicadas.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2022)</small>
+
+Si el Auditor Superior del Estado no presenta en el año correspondiente y en los términos de la presente Ley, sin causa justificada, los Informes Individuales y el Informe General, se impondrá la sanción prevista en el artículo 96 de esta Ley.
 
 ###### Artículo 39.
 
@@ -1239,7 +1245,9 @@ La Unidad tendrá las atribuciones siguientes:
 
 I. Vigilar que los servidores públicos de la Auditoría Superior del Estado se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
 
-II. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior del Estado, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión;
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2022)</small>
+
+II. Practicar, por sí o a través de auditores externos, auditorías y evaluaciones técnicas para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior del Estado, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión;
 
 III. Recibir denuncias de faltas administrativas derivadas del incumplimiento de las obligaciones por parte del titular de la Auditoría Superior del Estado, auditores especiales y demás servidores públicos de la Auditoría Superior del Estado, iniciar investigaciones y, en el caso de faltas administrativas no graves, imponer las sanciones que correspondan, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guerrero;
 
@@ -1270,6 +1278,26 @@ XIV. Participar en las sesiones de la Comisión para brindar apoyo técnico y es
 XV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
 
 Las entidades fiscalizadas tendrán la facultad de formular queja ante la Unidad sobre los actos del titular de la Auditoría Superior del Estado que contravengan las disposiciones de esta Ley, en cuyo caso la Unidad sustanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, o bien el previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guerrero, notificando al quejoso el dictamen correspondiente, previa aprobación de la Comisión.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 107 Bis.
+
+Las auditorías, así como las evaluaciones técnicas que, en su caso realice la Unidad, deberán garantizar que las revisiones a cargo de la Auditorìa Superior del Estado fueron llevadas a cabo con estricto apego a la normatividad relativa a la materia.
+
+Para el desempeño de las funciones de la Unidad, en la práctica de auditorías y evaluaciones técnicas, independientemente de las facultades otorgadas en la normativa interna, deberá apegarse a los siguientes criterios:
+
+I. Cada auditoría y evaluación técnica debe ser planeada y desarrollada de tal manera que permita obtener una seguridad razonable de que los trabajos realizados por la Auditoría Superior del Estado, en su función sustantiva de fiscalización, fueron ejecutados conforme al objetivo y alcance establecidos en el Plan Anual de Auditoría y que cumplen con los aspectos y criterios relevantes indicados en el marco legal y normativo aplicable.
+
+II. Todo trabajo de auditoría realizado por la Unidad debe ser documentado con la evidencia suficiente, relevante y pertinente y, en su caso, con la evidencia de información que acredite la irregularidad detectada. Los resultados deberán hacerse del conocimiento de la Comisión, para que formule, emita conclusiones y proceda en su caso a remitir el asunto a las autoridades competentes.
+
+III. Los procedimientos de auditoría aplicados deberán quedar registrados en el expediente respectivo.
+
+IV. La Unidad podrá convocar a reuniones de trabajo a la Auditoría Superior del Estado, cuando con motivo de la revisión realizada se detecte que, en las conclusiones de las observaciones, recomendaciones y acciones de las auditorías, existe deficiencia en la aplicación del marco normativo respectivo, con la finalidad de que se realicen las aclaraciones pertinentes, mismas que deberán ser soportadas con documentación suficiente, competente, relevante y pertinente.
+
+Cuando en las auditorías y evaluaciones técnicas practicadas por la Unidad, se detectara que la Auditoría Superior del Estado, por conducto de sus servidores públicos, infringió alguna disposición legal que permitiera la conclusión de las acciones formuladas a las entidades fiscalizadas, la Unidad procederá a imponer las sanciones previstas en los artículos 96 y 106 de la presente Ley, según corresponda.
+
+La Unidad podrá emitir observaciones, recomendaciones y acciones a la Auditoría Superior del Estado derivadas de las auditorías y evaluaciones técnicas, así como recomendaciones preventivas al desempeño en sus procesos, a través de la Comisión.
 
 ###### Artículo 108.
 
@@ -1422,3 +1450,31 @@ Remítase al Titular del Ejecutivo, para su conocimiento y efectos legales corre
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado, así como en la Gaceta Parlamentaria y la Página web del Congreso del Estado de Guerrero, para conocimiento general.
+
+P.O. 25 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 234 POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 13; Y, LA FRACCIÓN II DEL ARTÍCULO 107; SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 4, UN SEGUNDO PÁRRAFO AL ARTÍCULO 38, Y, EL ARTÍCULO 107 BIS; Y SE DEROGA EL ARTÍCULO 13 BIS, DE LA LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a la Titular del Gobierno del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión de Vigilancia y Evaluación de la Auditoría Superior del Estado, deberá remitir a la Junta de Coordinación Política la propuesta de integración de la Unidad de Evaluación y Control de la Comisión, a más tardar en 30 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Junta de Coordinación Política en coordinación con la Comisión de Vigilancia y Evaluación de la Auditoría Superior del Estado, deberán instalar la Unidad de Evaluación y Control de la Comisión a más tardar en 30 días naturales de haber recibido la propuesta de su integración, debiendo la Junta de Coordinación Política instruir a la Secretaría de Servicios Financieros realizar las adecuaciones presupuestarias correspondientes para su debido funcionamiento.
+
+###### ARTÍCULO QUINTO.
+
+La Comisión de Vigilancia y Evaluación de la Auditoría Superior del Estado, deberá emitir y publicar los criterios para el desarrollo de las auditorías y evaluaciones técnicas que se realicen a la Auditoría Superior del Estado, en un plazo de 90 días hábiles posteriores a la instalación de la Unidad de Evaluación y Control de la Comisión.
+
+###### ARTÍCULO SEXTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
