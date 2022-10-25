@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2021-12-15"
+last_updated: "2022-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 15 DE DICIEMBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -209,7 +207,9 @@ Para el desarrollo y cumplimiento de las funciones y atribuciones que le corresp
 
 (Autonomía)
 
-Para el desempeño de sus atribuciones y en el ejercicio de su autonomía, la Comisión Nacional no recibirá instrucciones o indicaciones de autoridad o servidor público alguno.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+Para el desempeño de sus atribuciones y en el ejercicio de su autonomía, la Comisión Nacional examinará y resolverá libremente cualquier asunto comprendido en el ámbito de su competencia, sin injerencias de autoridad o servidor público alguno, corporaciones religiosas, políticas, sociales y/o económicas.
 
 ###### Artículo 5o.
 
@@ -227,9 +227,17 @@ En aquellos casos en los que se reciba un citatorio para comparecer ante alguna 
 
 (Principios de actuación del personal)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
-El personal de la Comisión Nacional prestará sus servicios en cumplimiento a los principios de dignidad, buena fe, complementariedad, debida diligencia, enfoque diferencial y especializado, enfoque transformador, gratuidad, igualdad y no discriminación, integralidad, indivisibilidad e interdependencia, interés superior de la niñez, máxima protección, inmediatez, no criminalización, victimización secundaria, participación conjunta, progresividad y no regresividad, publicidad, rendición de cuentas, transparencia y trato preferente, ética pública, concentración, eficiencia y profesionalismo que conforman la existencia y los propósitos de la institución.
+En la Comisión Nacional de los Derechos Humanos se garantizará el pluralismo y la igualdad de género en su composición que implican la inclusión de todas las personas, las diversidades por origen étnico, orientación, identidad sexual, profesiones y capacidades." (SIC)
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+El personal de la Comisión Nacional prestará sus servicios en cumplimiento a los principios de dignidad, buena fe, complementariedad, debida diligencia, enfoque diferencial y especializado, enfoque transformador, gratuidad, igualdad y no discriminación, integralidad, indivisibilidad e interdependencia, interés superior de la niñez, máxima protección, inmediatez, no criminalización, no victimización, participación conjunta, progresividad y no regresividad, publicidad, rendición de cuentas, transparencia y trato preferente, ética pública, concentración, eficiencia y profesionalismo, que conforman la existencia y los propósitos de la institución.
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+De igual modo, deberá observar invariablemente criterios de objetividad e imparcialidad, y abstenerse de participar en actos partidistas o de campaña, de manera que comprometa la actuación de la Comisión y su autonomía.
 
 > <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
@@ -461,7 +469,13 @@ V. La Secretaría Técnica del Consejo Consultivo.
 
 (Organo ejecutivo)
 
-La Presidencia es el órgano ejecutivo de la Comisión Nacional. Está a cargo de un presidente, al cual le corresponde ejercer, de acuerdo con lo establecido en la Ley, las funciones directivas de la Comisión Nacional y su representación legal.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+La Presidencia es el órgano ejecutivo de la Comisión Nacional. Está a cargo de una persona titular de la Presidencia, al cual le corresponde ejercer, de acuerdo con lo establecido en la Ley, las funciones directivas de la Comisión Nacional y su representación legal.
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+Corresponde a la Presidencia establecer las relaciones interinstitucionales de la Comisión Nacional con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos; implementar proyectos que fortalezcan el cumplimiento de su misión constitucional en la relación que se mantenga con estos, así como la celebración de instrumentos de colaboración con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos en el marco de una vinculación interinstitucional respetuosa y garante de su autonomía.
 
 > <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
 
@@ -527,9 +541,13 @@ VII. Coordinación General de Especialidades Científicas y Técnicas; y
 
 VIII. Las demás que se establezcan en los correspondientes acuerdos administrativos.
 
-> <small>(ADICIONADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
-La persona titular de la Presidencia de la Comisión Nacional contará, además, con el apoyo de la Unidad de Protección y Defensa, la Unidad de Promoción y Divulgación, la Secretaría Particular y el Enlace Administrativo.
+La persona titular de la Presidencia de la Comisión Nacional ejercerá, a su vez, la presidencia del Mecanismo Nacional de Prevención de la Tortura, y del Mecanismo Independiente de Monitoreo de la Convención sobre los Derechos de las Personas con Discapacidad.
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+Contará, además, con el apoyo de la Coordinación General de las Oficinas Regionales, la Unidad de Protección y Defensa, la Secretaría Particular y la Unidad de Enlace Administrativo.
 
 Con las excepciones establecidas en la Ley y en este Reglamento, corresponde al presidente de la Comisión Nacional nombrar y remover libremente a todo el personal, con apego a lo dispuesto en las fracciones VII y IX del apartado B del artículo 123 constitucional, así como en el Estatuto del Servicio Civil de Carrera de la misma Comisión Nacional.
 
@@ -853,7 +871,9 @@ III. Presentar a la persona titular de la Presidencia de la Comisión Nacional l
 
 IV. Realizar investigaciones, estudios y análisis de información cualitativa y cuantitativa para la generación de diagnósticos e informes que aporten elementos para la integración de proyectos y diseño de estrategias que contribuyan a una cultura de prevención y protección de los derechos humanos;
 
-V. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+V. Administrar la contratación para la realización de una encuesta anual de opinión de la Comisión Nacional, así como elaborar el informe respectivo, para su procesamiento en apoyo de las funciones de observancia, seguimiento, evaluación y monitoreo, así como para la integración de las estrategias de planeación y control de gestión institucional;
 
 > <small>(REFORMADA, D.O.F. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -1179,7 +1199,7 @@ XXX. Realizar auditorías de desempeño a los órganos y a las unidades administ
 
 XXXI. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos de la Comisión Nacional, empleando la metodología que determine;
 
-XXXII. Administrar la contratación para la realización de una encuesta de opinión de la Comisión Nacional, así como la elaboración del informe;
+XXXII. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2022)
 
 XXXIII. Rendir informe semestral y anual de actividades a la Comisión Nacional y marcar copia a la Cámara de Diputados;
 
@@ -1305,7 +1325,9 @@ Los miembros del Consejo Consultivo podrán realizar las observaciones que consi
 
 (Sesiones ordinarias)
 
-Las sesiones ordinarias del Consejo Consultivo se celebrarán cuando menos una vez al mes de acuerdo con el calendario y orden del día que, a propuesta del presidente de la Comisión Nacional, apruebe el propio Consejo Consultivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+Las sesiones ordinarias del Consejo Consultivo se celebrarán cuando menos una vez al mes de acuerdo con el calendario y orden del día que, a propuesta del presidente de la Comisión Nacional, apruebe el propio Consejo Consultivo. Las sesiones del Consejo se celebrarán preferentemente de manera presencial y de manera excepcional de manera virtual. La Secretaría Técnica del Consejo Consultivo de la CNDH proveerá las facilidades y plataforma de conexión para que participen de manera remota aquellos casos de consejeras y consejeros que, por motivos de salud, incluyendo riesgo de afectar las mismas, así como aquellos que por alguna razón puedan ser afectados significativamente mediante su presencia física.
 
 Durante el desarrollo de las sesiones ordinarias del Consejo Consultivo se le informará a éste sobre el trabajo realizado por la Comisión Nacional y cualquier otro asunto que resulte relevante. Para ello, el presidente de la Comisión Nacional podrá solicitar al titular o titulares de los órganos o unidades administrativas involucradas que realicen la presentación correspondiente.
 
@@ -1331,7 +1353,9 @@ Para la realización de las sesiones ordinarias o extraordinarias, el secretario
 
 (Quórum para las sesiones)
 
-Para llevar a cabo la sesión del Consejo Consultivo, se requerirá como quórum la asistencia de la mitad de sus miembros. Transcurrida media hora de la fijada para el inicio de la sesión, ésta comenzará válidamente con los miembros presentes. Las decisiones del Consejo Consultivo se tomarán por mayoría de votos de los miembros presentes.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+Para llevar a cabo la sesión del Consejo Consultivo, de manera presencial o virtual, se requerirá como quórum la presencia de la mitad de sus miembros. Transcurrida media hora de la fijada para el inicio de la sesión, ésta comenzará válidamente con los miembros presentes.
 
 Antes de dar inicio a la sesión, la Presidencia, auxiliada de la Secretaría Técnica del Consejo Consultivo, verificará el quórum y satisfecho éste iniciará la sesión. Al terminarse la sesión se deberá levantar un acta, la cual una vez aprobada será suscrita por el presidente y el titular de la Secretaría Técnica y se le anexará la lista de asistencia debidamente suscrita por los consejeros asistentes.
 
@@ -1369,13 +1393,15 @@ IV. Impulsar con instituciones públicas y privadas, la organización y desarrol
 
 V. Establecer la vinculación con los distintos sectores usuarios de los servicios de educación, capacitación y promoción para el fomento de la cultura en materia de derechos humanos;
 
-VI. Promover, fortalecer e impulsar las relaciones interinstitucionales de la Comisión Nacional con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos;
+VI. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2022)
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
-VII. Proponer a la persona titular de la Presidencia de la Comisión Nacional proyectos que fortalezcan las actividades sustantivas con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos en el marco de la vinculación interinstitucional;
+VII. Proponer a la persona titular de la Presidencia de la Comisión Nacional proyectos que fortalezcan las actividades de educación y capacitación en derechos humanos con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos, en el marco de la vinculación interinstitucional;
 
-VIII. Proponer a la persona titular de la Presidencia de la Comisión Nacional la celebración de instrumentos de colaboración con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos en el marco de la vinculación interinstitucional;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+VIII. Proponer a la persona titular de la Presidencia de la Comisión Nacional la celebración de instrumentos de colaboración con los Poderes de la Unión y los entes públicos federales, estatales, municipales y organismos autónomos, en el marco de la vinculación interinstitucional en materia de educación y capacitación en derechos humanos.
 
 IX. (DEROGADA, D.O.F. 8 DE OCTUBRE DE 2021)
 
@@ -1459,7 +1485,9 @@ I. Direcciones Generales;
 
 II. Direcciones de área, y
 
-III. Procedimientos internos.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+III. Unidad de Procedimientos internos.
 
 > <small>(REFORMADO, D.O.F. 3 DE NOVIEMBRE DE 2009)</small>
 
@@ -1469,21 +1497,27 @@ Además, para el ejercicio de sus facultades y atribuciones, contarán con el pe
 
 (Programas especiales)
 
-Con independencia del desarrollo del Programa de Quejas, las visitadurías generales tendrán a su cargo los programas especiales que, por acuerdo del presidente de la Comisión Nacional y aprobado por el Consejo Consultivo, les sean asignados.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2006)</small>
+Con independencia del desarrollo del Programa de Quejas, las visitadurías generales tendrán a su cargo los programas especiales que, por acuerdo de la persona titular de la Presidencia de la Comisión Nacional y aprobado por el Consejo Consultivo, les sean asignados. Todos los programas deberán atender quejas, integrar expedientes y elaborar proyectos de recomendación, independientemente de su coadyuvancia, de manera transversal, con todas las unidades responsables de la Comisión Nacional.
 
-La observancia del seguimiento, evaluación y monitoreo en materia de igualdad entre mujeres y hombres, estará a cargo de un programa especial, el cual, para el ejercicio de sus atribuciones, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+Además de realizar lo anterior, la observancia del seguimiento, evaluación y monitoreo en materia de igualdad entre mujeres y hombres, estará a cargo de un programa especial, el cual, para el ejercicio de sus atribuciones, contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
+
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 60.
 
-(Oficinas Foráneas).
+(Oficinas Regionales)
 
-La Comisión Nacional podrá contar con oficinas foráneas en las entidades de la República, las cuales se establecerán por acuerdo de la persona titular de la Presidencia de la Comisión Nacional.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
-Las oficinas foráneas dependerán de la Presidencia de la Comisión Nacional de los Derechos Humanos y tendrán competencia para conocer de todos aquellos asuntos que por acuerdo determine la persona titular de la presidencia.
+La Comisión Nacional contará con oficinas regionales en las entidades de la República, las cuales se establecerán por acuerdo de la persona titular de la Presidencia de la Comisión Nacional.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+Las oficinas regionales dependerán de la Presidencia de la Comisión Nacional de los Derechos Humanos y tendrán competencia para conocer de la atención de quejas, integración de expedientes y emisión de proyectos de recomendaciones, así como de todos aquellos asuntos que por acuerdo determine la persona titular de la Presidencia.
 
 ###### Artículo 61.
 
@@ -1493,45 +1527,45 @@ Las visitadurías generales conocerán de quejas por presuntas violaciones a der
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO POR EL TRANSITORIO SEGUNDO DEL ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DEL MECANISMO NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 61 Bis.
 
-Para promover, proteger y supervisar la aplicación de la Convención sobre los Derechos de las Personas con Discapacidad, se establece el Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad.
+Para promover, proteger y supervisar la aplicación de la Convención sobre los derechos de las personas con discapacidad, se establece el Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad.
 
-El Mecanismo Independiente de Monitoreo Nacional estará integrado por las siguientes instancias:
+El Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad estará integrado por las siguientes instancias:
 
-I. Un Consejo General;
+I. Un Consejo General integrado por la persona titular de la Presidencia de la Comisión Nacional, quién lo presidirá, las personas titulares de los organismos públicos de protección de los derechos humanos de las entidades federativas del país, y las personas integrantes del Comité Técnico;
 
-II. Una Comisión de Gobierno, y
+II. Una Comisión de Gobierno, que será el órgano encargado de vigilar que el mecanismo ejecute el monitoreo de la aplicación de la Convención y
 
-III. Una Dirección Ejecutiva.
+III. Un Comité Técnico de consulta que será un cuerpo colegiado integrado por 5 personas expertas independientes y representantes de Colectivos de personas con discapacidad, cuya función general será la de proporcionar opiniones técnicas e independientes para el funcionamiento del Consejo General.
 
-La persona titular de la Presidencia de la Comisión Nacional determinará la Visitaduría General a la que estará adscrito el Mecanismo Independiente de Monitoreo Nacional.
+Para garantizar su especialización en el ejercicio de sus atribuciones, el Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad estará adscrito a la Comisión Nacional de los Derechos Humanos como un área independiente de las Visitadurías Generales, que integran la misma y contará con una persona titular que será quien ocupe la Dirección Ejecutiva designada por la persona titular de la Presidencia de la Comisión Nacional y con el personal profesional, técnico y administrativo autorizado en el presupuesto de la Comisión Nacional.
 
-> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 61 Ter.
 
-El Consejo General del Mecanismo Independiente de Monitoreo Nacional es el órgano de consulta, de coordinación y colaboración entre los organismos públicos de protección de los derechos humanos del país, como integrantes del Mecanismo.
+El Consejo General del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad, es el órgano de consulta, de coordinación y colaboración entre los organismos públicos de protección de los derechos humanos del país, como integrantes del Mecanismo, y todas sus decisiones se adoptarán mediante consenso, con pleno respeto de la autonomía de cada uno.
 
 El Consejo General estará integrado por:
 
-a) La persona quien ocupe la Presidencia de la Comisión Nacional de los Derechos Humanos, quien lo presidirá;
+a) La persona quien ocupe la Presidencia de la Comisión Nacional de los Derechos Humanos,
 
 b) Las personas titulares de los organismos públicos de protección de los derechos humanos de las entidades federativas del país, y
 
-c) Tres representantes del Comité Técnico.
+c) Los integrantes del Comité Técnico.
 
-El Consejo General celebrará sesiones ordinarias una vez por año y extraordinarias cuando existan temas de relevancia o urgencia y sea solicitado por su Presidente o por la mayoría de sus integrantes. Las sesiones ordinarias y extraordinarias se celebrarán, en primera convocatoria, cuando se encuentren reunidos la mayoría de sus integrantes, y en segunda convocatoria, con los miembros presentes.
+El Consejo General celebrará sesiones ordinarias una vez por año y extraordinarias cuando existan temas de relevancia o urgencia y sea solicitado por su Presidencia o por la mayoría de sus integrantes. Las sesiones ordinarias y extraordinarias se celebrarán, en primera convocatoria, cuando se encuentren reunidos la mayoría de sus integrantes, y en segunda convocatoria, con los miembros presentes.
 
-El Consejo General contará con una Secretaría Ejecutiva que estará a cargo de la persona titular de la Visitaduría General, a la cual esté adscrito el Mecanismo Independiente de Monitoreo Nacional, que será la encargada de realizar la convocatoria para la celebración de las sesiones del Consejo General, la que deberá realizar cuando menos dos meses antes a su celebración, con excepción de las sesiones extraordinarias, las cuales serán convocadas dentro de los quince días siguientes a que lo solicite la persona titular de la Presidencia o la mayoría de sus integrantes. La Secretaría Ejecutiva se encargará de proponer un programa anual de trabajo para el Mecanismo.
+El Consejo General contará con una Secretaría Ejecutiva que estará a cargo de la persona titular de la Dirección Ejecutiva, de conformidad con las modalidades que imponga el Reglamento, que será la encargada de realizar la convocatoria para la celebración de las sesiones del Consejo General, la que deberá realizar cuando menos dos meses antes a su celebración, con excepción de las sesiones extraordinarias, las cuales serán convocadas dentro de los quince días siguientes a que lo solicite la persona titular de la Presidencia o la mayoría de sus integrantes. La Secretaría Ejecutiva se encargará de proponer un programa anual de trabajo para el Mecanismo.
 
-Las decisiones del Consejo General se tomarán por mayoría de votos, en caso de empate su Presidente tendrá voto de calidad. La Secretaría Ejecutiva fungirá como escrutador de los votos, los cuales se emitirán de viva voz.
+Las decisiones del Consejo General se tomarán por mayoría de votos, en caso de empate la persona titular de su Presidencia tendrá voto de calidad. La Secretaría Ejecutiva fungirá como escrutador de los votos, los cuales se emitirán de viva voz.
 
 El Consejo General tendrá las siguientes facultades:
 
-I. Expedir las bases para su funcionamiento y organización;
+I. Expedir las bases para su funcionamiento y organización, y elaborar y reformar su Reglamento, que incluya las modalidades del funcionamiento y las funciones de la Comisión de Gobierno y del Comité Técnico, mediante una amplia consulta con las personas con discapacidad y con las organizaciones que les representan;
 
 II. Aprobar el programa anual de trabajo del Mecanismo Independiente de Monitoreo Nacional, que será sometido a su consideración por la Secretaría Ejecutiva;
 
@@ -1541,7 +1575,7 @@ IV. Proponer acciones comunes de buenas prácticas para que la promoción, prote
 
 V. Recibir comunicaciones de los Organismos Públicos de Derechos Humanos, a fin de integrar un registro nacional de hechos violatorios a los derechos de las personas con discapacidad;
 
-VI. Detectar las necesidades normativas en materia de discapacidad, a nivel local o federal, para que sean sometidas, por conducto de su Presidente, a las autoridades correspondientes, a fin de fortalecer el marco regulatorio;
+VI. Detectar las necesidades normativas en materia de discapacidad, a nivel local o federal, para que sean sometidas, por conducto de su Presidencia, a las autoridades correspondientes, a fin de fortalecer el marco regulatorio;
 
 VII. Aprobar el proyecto de informe anual de actividades del Mecanismo Independiente de Monitoreo Nacional;
 
@@ -1551,155 +1585,13 @@ IX. Solicitar a la Comisión de Gobierno del Mecanismo Independiente de Monitore
 
 X. Las demás que resulten necesarias para el cumplimiento de las obligaciones del Mecanismo Independiente de Monitoreo Nacional.
 
-> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
-
 ###### Artículo 61 Quáter.
 
-La Comisión de Gobierno del Mecanismo Independiente de Monitoreo Nacional, es el órgano encargado de vigilar que el Mecanismo lleve a cabo el monitoreo de la aplicación de la Convención.
-
-La Comisión de Gobierno sesionará cada tres meses o cuando se convoque para atender los asuntos de su competencia; el quórum para que la Comisión de Gobierno pueda sesionar es de siete de sus miembros, y sólo podrá llevarse a cabo si se encuentran presentes las personas titulares de la Presidencia, la Vicepresidencia y de las Vocalías Regionales, o sus respectivos suplentes. La votación en sus acuerdos será por mayoría, y en caso de empate, tendrá voto de calidad la persona titular de la Presidencia. En todo momento se privilegiará el consenso en la toma de decisiones.
-
-La Comisión de Gobierno tendrá las siguientes funciones:
-
-I. Ejecutar y supervisar el adecuado cumplimiento de los acuerdos tomados por el Consejo General del Mecanismo;
-
-II. Monitorear mediante la Secretaría Ejecutiva la incidencia de los actos de discriminación a personas con discapacidad y demás relacionados con la seguridad de éstas, que se cometan en los diversos órdenes y niveles de gobierno del país;
-
-III. Promover los estudios necesarios y desarrollar las acciones pertinentes para la prevención y auxilio en caso de discriminación de las personas con discapacidad;
-
-IV. Informar de sus actividades al Consejo General cada vez que éste se reúna o lo solicite;
-
-V. Dar seguimiento a la aplicación de la Convención sobre los Derechos de las Personas con Discapacidad, mediante el diseño de indicadores, y
-
-VI. Las demás que resulten necesarias para el cumplimiento de las obligaciones del Mecanismo Independiente de Monitoreo Nacional.
-
-La Comisión de Gobierno del Mecanismo se integra por:
-
-a) Una Presidencia;
-
-b) Una Vicepresidencia;
-
-c) Cuatro Vocalías Regionales;
-
-d) Un Comité Técnico de Consulta, y
-
-e) Una Secretaría Ejecutiva.
-
-Los miembros de la Comisión de Gobierno señalados en los incisos a), b) y c) durarán en su encargo un periodo máximo de dos años no prorrogables. Los integrantes del Comité Técnico durarán en su encargo tres años no prorrogables.
-
-A. La persona quien ocupe la titularidad de la Presidencia de la Comisión de Gobierno será nombrada por el Pleno del Consejo General del Mecanismo, siendo siempre uno de sus integrantes, quien tendrá las siguientes funciones:
-
-I. Dar seguimiento a los acuerdos tomados en las sesiones de la Comisión de Gobierno;
-
-II. Representar a la Comisión de Gobierno ante el Consejo General del Mecanismo, y
-
-III. Velar por el cumplimiento de las disposiciones normativas que regulen la Comisión de Gobierno.
-
-B. La persona quien ocupe la titularidad de la Vicepresidencia de la Comisión de Gobierno será nombrada por el Pleno del Consejo General del Mecanismo, siendo siempre uno de sus integrantes, quien tendrá las siguientes funciones:
-
-I. Apoyar a la Presidencia de la Comisión de Gobierno en el seguimiento de los acuerdos tomados en las sesiones de la Comisión;
-
-II. Representar a la Comisión de Gobierno ante el Consejo General del Mecanismo, cuando así lo designe la Presidencia de la Comisión, y
-
-III. Velar por el cumplimiento de las disposiciones normativas que regulen la Comisión de Gobierno, informando a la Presidencia sobre posibles incumplimientos a la misma.
-
-C. La persona quien ocupe la Secretaría Ejecutiva de la Comisión de Gobierno del Mecanismo será quien ocupe la titularidad de la Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional y únicamente contará con voz, teniendo las siguientes funciones:
-
-I. Citar a las sesiones a los miembros de la Comisión de Gobierno, cuando menos con un mes de anticipación a la fecha de la reunión, proporcionándoles el orden del día respectivo;
-
-II. Conducir las sesiones de la Comisión de Gobierno;
-
-III. Fungir como gestor de la Comisión de Gobierno ante las distintas instancias y niveles de gobierno para ejecutar los acuerdos tomados por la Comisión de Gobierno;
-
-IV. Solicitar opinión al Comité Técnico de Consulta;
-
-V. Resguardar el archivo y registros de la Comisión de Gobierno, y
-
-VI. Las demás que sean necesarias para el cumplimiento de los fines de la Comisión de Gobierno.
-
-D. Las personas quienes ocupen la titularidad de cada una de las cuatro Vocalías Regionales serán nombradas por el Pleno del Consejo General del Mecanismo, siendo siempre integrantes del Consejo General que representen a cada región del país conforme a la siguiente clasificación:
-
-Zona Norte Zona Este Zona Zona Sur
-
-Oeste
-
-Baja California Hidalgo Aguascalientes Campeche
-
-Baja California Sur Estado de Colima Chiapas
-
-México
-
-Chihuahua Morelos Durango Guerrero
-
-Coahuila Querétaro Guanajuato Oaxaca
-
-Nuevo León San Luis Jalisco Quintana Roo
-
-Potosí
-
-Sinaloa Tlaxcala Michoacán Tabasco
-
-Sonora Puebla Nayarit Veracruz
-
-Tamaulipas Ciudad de Zacatecas Yucatán
-
-México
-
-Las Vocalías Regionales tendrán las siguientes funciones:
-
-I. Apoyar a la Secretaría Ejecutiva en sus labores a nivel regional;
-
-II. Ser el enlace del Mecanismo Independiente de Monitoreo Nacional en la región que represente durante el tiempo de su encargo;
-
-III. Recopilar y administrar la información sobre la situación de los derechos de las personas con discapacidad en la región que representen, y
-
-IV. Coadyuvar en la supervisión regional sobre la implementación de la Convención sobre los Derechos de las Personas con Discapacidad, así como la aplicación de los acuerdos que el Consejo General adopte.
-
-E. El Comité Técnico de Consulta será un cuerpo colegiado integrado por quince miembros, de los cuales diez pertenecerán a organizaciones de la sociedad civil que representen a personas con discapacidad y cinco serán expertos en materia de discapacidad, los cuales únicamente contarán con voz. La designación de los miembros se hará en términos de la Convocatoria que para tal efecto emita la Comisión Nacional.
-
-El Comité Técnico de Consulta tendrá las siguientes funciones:
-
-I. Emitir las opiniones técnicas que le solicite la Secretaría Ejecutiva de la Comisión de Gobierno del Mecanismo, incluidas aquellas relativas a la aplicación y orientación de políticas públicas para el desarrollo e inclusión de las personas con discapacidad;
-
-II. Orientar a los organismos encargados de las cuestiones relativas a la aplicación de la Convención sobre los Derechos de las Personas con Discapacidad, así como a los mecanismos de coordinación que se establezcan;
-
-III. Proponer temas específicos para la elaboración del informe y otros documentos relacionados con la supervisión de la aplicación de la Convención sobre los Derechos de las Personas con Discapacidad;
-
-IV. Promover las consultas y la participación de las personas con discapacidad en los procesos de promoción, protección y supervisión de sus derechos humanos;
-
-V. Formular propuestas de armonización legislativa con la Convención sobre los Derechos de las Personas con Discapacidad, para que sean sometidas al Consejo General del Mecanismo;
-
-VI. Ser el órgano de consulta técnica de la Comisión de Gobierno del Mecanismo;
-
-VII. Integrar los grupos de trabajo que considere procedentes para el ejercicio de sus funciones;
-
-VIII. Nombrar a las tres personas, propietarios y suplentes, que formarán parte del Consejo General, y
-
-IX. Las demás que determine el Consejo General.
-
-> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
+(DEROGADO, D.O.F. 25 DE OCTUBRE DE 2022)
 
 ###### Artículo 61 Quinquies.
 
-La persona titular de la Dirección Ejecutiva del Mecanismo Independiente de Monitoreo Nacional de la Convención sobre los Derechos de las Personas con Discapacidad, tendrá las siguientes facultades:
-
-I. Fungir como titular de la Secretaría Ejecutiva de la Comisión de Gobierno del Mecanismo, y ejecutar sus acuerdos;
-
-II. Informar a la Visitaduría General de su adscripción sobre los casos de posibles violaciones a derechos humanos de que conozca, para que se proceda en los términos de la atención a quejas que corresponda.
-
-III. Informar de los asuntos y actuaciones que realice;
-
-IV. Atender las consultas que sobre los temas de discapacidad se formulen al Mecanismo Independiente de Monitoreo Nacional;
-
-V. Someter los proyectos de recomendaciones generales sobre la situación de los derechos de las personas con discapacidad, a fin de que se proceda en términos de la normatividad aplicable;
-
-VI. Proponer campañas de difusión para la promoción y protección de los derechos humanos de las personas con discapacidad;
-
-VII. Proponer la realización de cursos, talleres, pláticas y otras acciones en materia de promoción y protección de los derechos humanos de las personas con discapacidad, y
-
-VIII. Las demás que le asigne la persona quien ocupe la titularidad de la Presidencia del Mecanismo o la persona titular de la Visitaduría General de su adscripción.
-
-Las funciones a que se refiere el presente artículo, serán previamente informadas y acordadas con la persona titular de la Visitaduría General de su adscripción.
+(DEROGADO, D.O.F. 25 DE OCTUBRE DE 2022)
 
 ###### Artículo 62.
 
@@ -2305,7 +2197,9 @@ La falta de colaboración de las autoridades con las labores de los servidores p
 
 (Requerimientos de información y documentación a la autoridad)
 
-Se podrá requerir hasta por dos ocasiones a la autoridad a la que se corrió traslado del escrito de queja para que rinda el informe o envíe la documentación solicitada. El traslado de la queja no operará en el caso de aquellas iniciadas de oficio o en las cuales la Comisión Nacional deba guardar reserva. El plazo que deberá correr entre los dos requerimientos será de quince días contados a partir del acuse de recibo del escrito a través del cual se formule el requerimiento de informes o documentación a la autoridad respectiva.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+Se podrá requerir hasta por dos ocasiones a la autoridad a la que se corrió traslado del escrito de queja para que rinda el informe o envíe la documentación solicitada. El traslado de la queja no operará en el caso de aquellas iniciadas de oficio o en las cuales la Comisión Nacional deba guardar reserva. El plazo que deberá correr entre los dos requerimientos será de máximo cinco días contados a partir del acuse de recibo del escrito a través del cual se formule el requerimiento de informes o documentación a la autoridad respectiva.
 
 Los dos requerimientos procederán tanto en el caso de que la autoridad no rinda el informe, como para el supuesto de que lo rinda pero no envíe la documentación solicitada. De no recibir respuesta, o en el caso de que la respuesta sea incompleta, el visitador general podrá disponer que algún visitador adjunto acuda a la oficina de la autoridad para hacer la investigación respectiva. Si del resultado de la investigación se acredita la violación a derechos humanos, la consecuencia inmediata será una recomendación en la que se precise la falta de rendición del informe a cargo de la autoridad. En estos casos no habrá posibilidad de conciliación ni operará la prueba en contrario. El envío de la recomendación no impedirá que la Comisión Nacional pueda solicitar la aplicación de las responsabilidades administrativas correspondientes en contra del servidor público respectivo.
 
@@ -2603,17 +2497,21 @@ Respecto de las recomendaciones no procederá recurso alguno. Una vez expedida l
 
 En ningún caso, la Comisión Nacional tendrá competencia para intervenir con la autoridad involucrada en una nueva o segunda investigación, formar parte de una comisión administrativa o participar en una averiguación previa sobre el contenido de la recomendación.
 
+> <small>(REFORMADO EN SU ACÁPITE, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 140.
 
-(Recomendaciones generales)
+(Recomendaciones Generales)
 
-La Comisión Nacional también podrá emitir recomendaciones generales a las diversas autoridades del país, a fin de que se promuevan las modificaciones de disposiciones normativas y prácticas administrativas que constituyan o propicien violaciones a los derechos humanos. Estas recomendaciones se elaborarán de manera similar que las particulares y se fundamentarán en los estudios realizados por la propia Comisión Nacional a través de las visitadurías generales, previo acuerdo del presidente de la Comisión Nacional. Antes de su emisión, estas recomendaciones se harán del conocimiento del Consejo Consultivo para su análisis y aprobación.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
+La Comisión Nacional también podrá emitir recomendaciones generales a las diversas autoridades del país, a fin de que se promuevan las modificaciones de disposiciones normativas, de políticas públicas y de prácticas administrativas que constituyan o propicien violaciones a los derechos humanos. Estas recomendaciones se elaborarán de manera similar que las particulares y se fundamentarán en los estudios realizados por la propia Comisión Nacional a través de las visitadurías generales o la Secretaría Ejecutiva, previo acuerdo de la persona titular de la Presidencia de la Comisión Nacional. Antes de su emisión, estas recomendaciones se harán del conocimiento del Consejo Consultivo para su análisis y aprobación.
 
 Las recomendaciones generales contendrán en su texto los siguientes elementos: 1. Antecedentes; 2. Situación y fundamentación jurídica; 3. Observaciones, y 4. Recomendaciones.
 
-> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 25 DE OCTUBRE DE 2022)</small>
 
-Las recomendaciones generales no requieren aceptación por parte de las autoridades a quienes vayan dirigidas. Se publicarán en la Gaceta y en el Diario Oficial de la Federación. El registro de las recomendaciones generales se realizará de forma separada, y la verificación del cumplimiento se hará mediante la realización de estudios generales, donde conste el alcance de su cumplimiento.
+Las recomendaciones generales se enviarán a las autoridades a quienes vayan dirigidas y se publicarán íntegras en el portal de la CNDH y en la Gaceta, y en un extracto en el Diario Oficial de la Federación. El registro de las recomendaciones generales se realizará de forma separada, y la verificación del cumplimiento se hará mediante la realización de informes de seguimiento que deberá emitir periódicamente la Secretaría Ejecutiva, donde conste el alcance de su cumplimiento.
 
 ### CAPITULO VIII. DE LOS DOCUMENTOS DE NO RESPONSABILIDAD
 
@@ -2979,9 +2877,11 @@ A su vez, el jefe inmediato del servidor público sancionado o el titular del ó
 
 La jefa o jefe inmediato de la persona servidora pública sancionada o la persona titular del órgano o unidad administrativa, deberá informar al Órgano Interno de Control de la ejecución de la sanción, en un término no mayor de tres días hábiles, mediante comunicación escrita.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 25 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 177.
 
-(DEROGADO, D.O.F. 26 DE JUNIO DE 2017)
+Las agresiones, maltrato o violencia física o verbal cometidas por las personas servidoras públicas de la CNDH en contra de víctimas o de cualquier ciudadana, ciudadano o migrante que acuda en busca de sus servicios, será motivo de pérdida de la confianza, independientemente del procedimiento que se siga ante el Órgano Interno de Control. Lo mismo será en casos de acoso sexual acreditados del personal, observando invariablemente el debido proceso.
 
 ###### Artículo 178.
 
@@ -3170,3 +3070,13 @@ D.O.F. 15 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DE LA “ACLARACIÓN AL ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, PUBLICADO EL 8 DE OCTUBRE DE 2021”.]
 
 ÚNICO.- Publíquese el presente Acuerdo Aclaratorio en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS”.]
+
+Primero. El presente Acuerdo deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
+
+Segundo. Entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero. El Manual de Organización General de la Comisión Nacional de los Derechos Humanos, que refleje las modificaciones realizadas al Reglamento Interno, será expedido dentro de los tres meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
