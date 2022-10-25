@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-caja-de-prevision-para-trabajadores-136
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-05-24"
-last_updated: "2019-11-14"
+last_updated: "2022-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136355&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-05-10"
 
 ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE OCTUBRE DE 2022.
 
 Estatuto publicado en el Número 98 de la Gaceta Oficial de la Ciudad de México, el viernes 24 de mayo de 2019.
 
@@ -250,9 +250,13 @@ II. Órgano Interno de Control
 
 II.1. Unidad Departamental de Fiscalización.
 
-II.2. Unidad Departamental de Responsabilidades.
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2022)</small>
 
-II.3. Líder Coordinador de Proyectos de Quejas y Denuncias.
+II.2. Unidad Departamental de Substanciación;
+
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2022)</small>
+
+II.3. Líder Coordinador de Proyectos de Investigación.
 
 III. Dirección de Prestaciones y Bienestar Social.
 
@@ -564,59 +568,117 @@ XVI. Ejercer sus atribuciones coordinadamente con las demás unidades administra
 
 XVII. Las demás atribuciones que les sean conferidas por sus superiores jerárquicos y que correspondan a la jefatura de unidad departamental, a su cargo.
 
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 27.
 
-A la Unidad Departamental de Responsabilidades, le corresponde:
+A la Unidad Departamental de Substanciación, le corresponde:
 
-I. Acordar, según corresponda, con la persona titular del órgano interno de control, el trámite y resolución de los asuntos de su competencia;
+Además de las atribuciones que corresponden a las autoridades substanciadoras de conformidad con la legislación y demás disposiciones jurídicas y administrativas en materia de responsabilidades administrativas, corresponde a las personas titulares de las unidades de Substanciación de procedimientos de responsabilidades administrativas de la Secretaría de la Contraloría General en Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, órganos de apoyo y de asesoría, de la Administración Pública de la Ciudad de México.
 
-II. Participar con la persona titular del órgano interno de control en la planeación y evaluación de las funciones de la unidad de apoyo técnico-operativo a su cargo;
+I. Recibir de las autoridades investigadoras que corresponda, así como de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo de la Secretaría de la Contraloría General, que lleven a cabo auditorías, intervenciones, control interno revisiones, verificaciones e inspecciones, los Informes de Presunta Responsabilidad Administrativa;
 
-III. Dirigir, controlar y supervisar al capital humano de la unidad administrativa de apoyo técnico-operativo a su cargo, conforme a los lineamientos que establezca la persona titular del órgano interno de control;
+II. Realizar o valorar las investigaciones, así como recabar o valorar las pruebas relacionadas con el Informe de Presunta Responsabilidad Administrativa, a efecto de determinar la prevención, la procedencia de su admisión, la abstención del inicio del procedimiento de responsabilidad administrativa de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-IV. Decidir sobre la distribución de las cargas de trabajo del capital humano a su cargo, para su mejor desempeño, conforme a los lineamientos que establezca la persona titular del órgano interno de control;
+III. Recibir de la oficina de gestión documental correspondiente, los escritos de impugnación a la abstención de iniciar un procedimiento de responsabilidad administrativa que haya dictado o de otros recursos revisando que los mismos observen lo dispuesto por la legislación aplicable y dar el trámite correspondiente;
 
-V. Llevar el control y gestión de los asuntos que les sean asignados conforme al ámbito de atribuciones;
+IV. Cuando resulte procedente, correr traslado al Tribunal de Justicia Administrativa de la Ciudad de México de los escritos de impugnación a la abstención de iniciar un procedimiento de responsabilidad administrativa o de otros recursos, adjuntando el expediente y un informe de justificación, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-VI. Preparar y revisar, en su caso, la documentación que deba suscribir la persona titular del órgano interno de control;
+V. Ordenar la elaboración de cuadernillos que contengan copias certificadas de los documentos, diligencias y autos del expediente de Informe de Presunta Responsabilidad Administrativa, cuando sean trasladados al Tribunal de Justicia Administrativa de la Ciudad de México;
 
-VII. Informar sobre el desarrollo de las labores del capital humano a su cargo en los términos que les solicite el titular del órgano interno de control;
+VI. Expedir copias certificadas de la documentación que obre en los expedientes de Informe de Presunta Responsabilidad, de Procedimiento de Responsabilidad Administrativa o a la que tenga acceso con motivo de la substanciación que practique y que obre en los archivos de las Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, órganos de apoyo y de asesoría, de la Administración Pública de la Ciudad de México;
 
-VIII. Llevar a cabo con el capital humano a su cargo, las labores encomendadas a su unidad conforme a los planes y programas que establezca la persona titular del órgano interno de control;
+VII. Iniciar los procedimientos de responsabilidad administrativa cuando una resolución firme del Tribunal de Justica Administrativa así lo ordene;
 
-IX. Acudir en acuerdo ordinario con la persona titular del órgano interno de control y en caso de ser requeridos, con la persona titular de la dirección de área que corresponda;
+VIII. Determinar la improcedencia o sobreseimiento del procedimiento de responsabilidad administrativa de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-X. Formular dictámenes, opiniones e informes que les sean solicitados por sus superiores jerárquicos;
+IX. Dictar toda clase de acuerdos que resulten necesarios en los procedimientos de responsabilidades administrativas que realice de conformidad con las disposiciones jurídicas y administrativas aplicables, incluyendo los de acumulación cuando resulte procedente;
 
-XI. Acordar, ejecutar y controlar los asuntos relativos al capital humano adscrito, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
+X. Habilitar días y horas inhábiles para la práctica de aquellas diligencias que a su juicio se requieran;
 
-XII. Participar en la coordinación y vigilancia de las prestaciones de carácter social y cultural, así como las actividades de capacitación del capital humano, de acuerdo a las normas y principios establecidos por la autoridad competente;
+XI. Decretar la imposición o la suspensión de medidas cautelares en los términos y supuestos señalados por la legislación y demás disposiciones jurídicas y administrativas aplicables y tramitarlas de manera incidental;
 
-XIII. Proponer programas de excelencia y calidad, tendientes a incrementar la productividad y a mejorar la calidad de vida en el trabajo en su unidad;
+XII. Cuando resulte necesario para hacer cumplir sus determinaciones y requerimientos, dictar la imposición de medios de apremio, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-XIV. Formular proyectos de planes y programas de trabajo de su unidad, considerando las necesidades y expectativas de los ciudadanos y la mejora de los sistemas de atención al público;
+XIII. Emplazar al presunto responsable a efecto de celebrar la audiencia inicial en términos de lo dispuesto por la legislación en materia de responsabilidades administrativas y demás disposiciones jurídicas y administrativas aplicables;
 
-XV. Tener trato con el público, exclusivamente, cuando por las funciones de su unidad deban hacerlo;
+XIV. Dictar el cierre de la audiencia inicial y tratándose de faltas graves, remitir el expediente al Tribunal de Justicia Administrativa en su calidad de autoridad resolutora en términos de lo dispuesto por la legislación en materia de responsabilidades administrativas y demás disposiciones jurídicas y administrativas aplicables;
 
-XVI. Ejercer sus atribuciones coordinadamente con las demás unidades administrativas de apoyo técnico-operativo para el mejor despacho de los asuntos de su competencia, y
+XV. Emitir el acuerdo de admisión de pruebas, ordenando las diligencias necesarias para su preparación y desahogo o para mejor proveer en términos de lo dispuesto por la legislación en materia de responsabilidades administrativas y demás disposiciones jurídicas y administrativas aplicables;
 
-XVII. Las demás atribuciones que les sean conferidas por sus superiores jerárquicos y que correspondan a la jefatura de unidad departamental, a su cargo.
+XVI. Declarar abierto el periodo de Alegatos en términos de lo dispuesto por la legislación en materia de responsabilidades administrativas y demás disposiciones jurídicas y administrativas aplicables;
+
+XVII. Recurrir las determinaciones del Tribunal de Justicia Administrativa, de la Fiscalía Especializada en delitos de corrupción y de cualquier otra autoridad, en términos de las disposiciones jurídicas y administrativas aplicables,
+
+XVIII. Resolver los incidentes derivados de la substanciación del Procedimiento de Responsabilidad Administrativa en términos de la legislación de responsabilidades y demás disposiciones jurídicas y administrativas aplicables;
+
+XIX. Solicitar mediante exhorto, la colaboración de las Dependencias, órganos internos de control o tribunales locales, federales o autónomos, para realizar las notificaciones personales que deban llevar a cabo respecto de aquellas personas que se encuentren fuera de la jurisdicción de la Ciudad de México, en términos de las disposiciones aplicables; y
+
+XX. Las demás atribuciones que les sean conferidas por sus superiores jerárquicos y que correspondan a la jefatura de unidad departamental, a su cargo.
+
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 28.
 
-Al Líder Coordinador de Proyectos de Quejas y Denuncias, le corresponde:
+(sic) Líder Coordinador de Proyectos de Investigación, le corresponde:
 
-I. Acordar con la persona titular del órgano interno de control, el trámite y resolución de los asuntos encomendados y de aquellos que se turnen al personal bajo su vigilancia;
+Además de las atribuciones que corresponden a las autoridades investigadoras de conformidad con la legislación y demás disposiciones jurídicas y administrativas en materia de responsabilidades administrativas, corresponde a las personas titulares de las unidades de Investigación de la Secretaría de la Contraloría General en Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, órganos de apoyo y de asesoría de la Administración Pública de la Ciudad de México.
 
-II. Participar conforme a las instrucciones de la persona superior jerárquica inmediata, en la inspección y fiscalización del desempeño de las labores de personal de la unidad administrativa a la cual estén adscritas;
+I. Recibir de la oficina de gestión documental correspondiente o de otras Unidades Administrativas de la Secretaría de la Contraloría General, los documentos y demás elementos relacionados con denuncias de particulares o autoridades y las derivadas de las auditorías u otras actividades de fiscalización o control, que se formulen por posibles actos u omisiones considerados faltas administrativas de las personas servidoras públicas de que se trate, o por la falta de solventación de los pliegos de observaciones, cuando se requiera de investigaciones adicionales;
 
-III. Informar periódicamente de las labores encomendadas, así como las asignadas al personal de base a su cargo, conforme a los planes y programas que establezca la persona titular de la unidad de su adscripción;
+II. Revisar los documentos y demás elementos relacionados con denuncias, auditorías u otras actividades de fiscalización o control que reciba, así como de los que obtenga a partir de investigaciones de oficio, a efecto de determinar si, conforme a las disposiciones jurídicas y administrativas aplicables, se tienen los elementos mínimos o competencia para dar inicio a los procedimientos de investigación;
 
-IV. Brindar asesoría a las persona (sic) titulares de la las unidades administrativas de la Entidad, a requerimiento de éstas;
+III. Dictar toda clase de acuerdos que resulten necesarios en los procedimientos de investigación que realice de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-V. Elaborar proyectos relacionados con el marco de actuación de la unidad administrativa a la que estén adscritas, y en su caso ejecutarlos; y
+IV. Citar, cuando lo estime necesario, al denunciante o a la unidad administrativa de la Secretaría de la Contraloría General, correspondiente o de otra autoridad denunciante, para la ratificación de la denuncia, o incluso a otras personas servidoras públicas o particulares que puedan tener conocimiento de los hechos a fin de constatar la veracidad de los mismos, así como solicitarles que aporten, en su caso, elementos, datos o indicios que permitan advertir la presunta falta administrativa de la persona servidora pública de que se trate;
 
-VI. Vigilar la correcta utilización de recursos materiales por parte del capital humano de la unidad administrativa, informando periódicamente de ello al titular del órgano interno de control.
+V. Practicar investigaciones, actuaciones y diligencias para determinar los actos u omisiones considerados faltas administrativas de las personas servidoras públicas de que se trate y faltas de particulares vinculados con faltas administrativas graves, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+VI. Solicitar, a otras Unidades Administrativas de la Secretaría de la Contraloría General, la práctica de auditorías, inspecciones, y/o revisiones cuando advierta posibles actos u omisiones que pudieran constituir faltas administrativas distintas a la que son objeto de investigación;
+
+VII. Requerir información, datos, documentos y demás elementos necesarios para la investigación de presunta falta administrativa a las Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, órganos de apoyo y de asesoría, oficinas o unidades de la Administración Pública, poderes y Órganos Autónomos de la Ciudad de México, incluyendo aquellas que por ley estén obligados a observar el principio de secrecía de la información, de conformidad con los instrumentos y disposiciones jurídicas y administrativas aplicables;
+
+VIII. Requerir información, datos, documentos y demás elementos necesarios para la investigación de presunta falta administrativa a Dependencias, órganos, entidades, oficinas o unidades de los poderes y de los órganos autónomos y demás instituciones públicas federales, de otras entidades Federativas o municipales, incluyendo aquellas que por ley, estén obligados a observar el principio de secrecía de la información, de conformidad con los instrumentos y disposiciones jurídicas y administrativas aplicables;
+
+IX. Requerir información, datos, documentos y demás elementos necesarios, de carácter particular, para la investigación de presunta falta administrativa a personas físicas y jurídicas o morales, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+X. Cuando resulte necesario para hacer cumplir sus determinaciones y requerimientos, dictar las medidas de apremio, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XI. Ordenar y ejecutar a través del personal acreditado, visitas de verificación a efecto de contar con mayores elementos para determinar la presunta falta administrativa de las personas servidoras públicas de que se trate;
+
+XII. Analizar y valorar los documentos, información, pruebas y hechos que consten en los expedientes de investigación, y determinar la existencia o inexistencia de actos u omisiones que la legislación en materia de responsabilidades señale como falta administrativa, así como calificarla como grave o no grave;
+
+XIII. Elaborar los Informes de Presunta Responsabilidad Administrativa, señalando la calificación que corresponda a la falta administrativa existente, y presentarlos ante la autoridad substanciadora en los términos de las disposiciones jurídicas y administrativas aplicables;
+
+XIV. Remitir a las Unidades Administrativas competentes de la Secretaría de la Contraloría General, para los efectos conducentes, un cuadernillo que contenga los documentos, diligencias, autos y, en su caso, copias certificadas del expediente de investigación, cuando se presuma la comisión de un delito;
+
+XV. Recibir y desahogar las prevenciones que le realice la autoridad substanciadora en los términos y plazos conducentes;
+
+XVI. Solicitar a través del Informe de Presunta Responsabilidad Administrativa, o una vez iniciado el procedimiento de responsabilidad administrativa, a través de oficio, la imposición de medidas cautelares a las autoridades substanciadoras o resolutoras que correspondan, de conformidad con los supuestos y términos de la legislación aplicable;
+
+XVII. Impugnar la determinación de las autoridades substanciadoras o resolutoras de abstenerse de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas en los términos de las disposiciones jurídicas y administrativas aplicables;
+
+XVIII. Recurrir las determinaciones del Tribunal de Justicia Administrativa, de la Fiscalía Especializada en delitos de corrupción y de cualquier otra autoridad, en términos de las disposiciones jurídicas y administrativas aplicables;
+
+XIX. Determinar la conclusión de la investigación y archivo de expediente, por falta de elementos suficientes para demostrar la existencia de faltas administrativas, expidiendo el acuerdo respectivo;
+
+XX. Ordenar las notificaciones a través del personal acreditado que resulten procedentes, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XXI. Recibir de la oficina de gestión documental correspondiente, los escritos de impugnación a la calificación de una falta administrativa que realice, revisando que los mismos observen lo dispuesto por la legislación aplicable;
+
+XXII. Cuando resulte procedente, correr traslado al Tribunal de Justicia Administrativa de la Ciudad de México de los escritos de impugnación de la calificación de una falta administrativa, adjuntando el expediente y un informe de justificación de la calificación, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XXIII. Ordenar la elaboración de cuadernillos que contengan copias certificadas de los documentos, diligencias y autos del expediente de investigación cuando sean remitidos al Tribunal de Justicia Administrativa de la Ciudad de México, o cuando se presuma la comisión de un delito;
+
+XXIV. Expedir copia certificada de la documentación que obre en los expedientes de investigación o a la que tenga acceso con motivo de las investigaciones que practiquen y que obre en los archivos de las Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, órganos de apoyo y de asesoría, de la Administración Pública de la Ciudad de México;
+
+XXV. Habilitar días y horas inhábiles para la práctica de aquellas diligencias que a su juicio se requieran;
+
+XXVI. Promover la capacitación en las materias de su competencia del personal de las unidades de investigación en las Dependencias, Órganos Desconcentrados, Alcaldías, Entidades, órganos de apoyo y de asesoría, de la Administración Pública de la Ciudad de México;
+
+XXVII. Solicitar mediante exhorto, la colaboración de las Dependencias, órganos internos de control o tribunales locales, federales o autónomos, para realizar las notificaciones personales que deban llevar a cabo respecto de aquellas personas que se encuentren en lugares que se hallen fuera de la jurisdicción de la Ciudad de México, en términos de las disposiciones jurídicas y administrativas aplicables; y
+
+XXVIII. Las demás atribuciones que les sean conferidas por sus superiores jerárquicos y que correspondan al Líder Coordinador de Proyectos, a su cargo.
 
 De la dirección de prestaciones y bienestar social
 
@@ -1189,6 +1251,14 @@ L.C. JORGE FRANCO AMBROCIO
 G.O. 14 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO AUTORIZA LA REFORMA DEL ARTÍCULO 7° FRACCIONES I, II Y III DEL CAPÍTULO SEGUNDO DE SU ESTATUTO ORGÁNICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 25 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO DE LA CAPTRALIR AUTORIZA LAS REFORMAS A LOS ARTÍCULOS 15, FRACCIONES II.2 Y II.3, 27 Y 28 DEL ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO."]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
