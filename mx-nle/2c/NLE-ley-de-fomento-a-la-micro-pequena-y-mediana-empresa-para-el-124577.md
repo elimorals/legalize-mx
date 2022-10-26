@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2022-10-14"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -129,7 +129,9 @@ III. Apoyar a las MIPYMES para sumarse a las cadenas globales de valor a través
 
 IV. Crear los mecanismos mediante los cuales la Secretaría elabore las políticas de corto, mediano y largo plazo, para elevar la productividad y competitividad de las MIPYMES, considerando la opinión de las organizaciones empresariales;
 
-V. Facilitar el acceso al financiamiento a través de créditos directos e indirectos, el fomento a alternativas de créditos bancario (sic) y la creación de políticas que atiendan la problemática de oferta y demanda de recursos con el objetivo de apoyar el crecimiento y consolidación de las MIPYMES;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+V. Facilitar el acceso al financiamiento a través de créditos directos e indirectos, el fomento a alternativas de créditos bancario (sic) y la creación de políticas que atiendan la problemática de oferta y demanda de recursos con el objetivo de apoyar el crecimiento y consolidación de las MIPYMES, en igualdad sustantiva de oportunidades tanto para las mujeres como para los hombres y la inclusión de jóvenes y personas con discapacidad;
 
 VI. Promover la cultura emprendedora a través de los programas educativos, además apoyar en la constitución de proyectos de emprendimiento, para impulsar la constitución de nuevas empresas;
 
@@ -185,13 +187,17 @@ IV. Orientar estrategias y proyectos de modernización, innovación y desarrollo
 
 V. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, que permitan corregirlas o mejorarlas;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-VI. Fomentar que las dependencias y entidades de la Administración Pública Estatal, en la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública consideren a las MIPYMES, hasta alcanzar un mínimo del 30%, conforme a la presente Ley y a la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León y a la Ley de Obras Públicas del Estado de Nuevo León; y
+VI. Fomentar que las dependencias y entidades de la Administración Pública Estatal, en la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública consideren a las MIPYMES, hasta alcanzar un mínimo del 30%, conforme a la presente Ley y a la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León y a la Ley de Obras Públicas del Estado de Nuevo León;
 
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-VII. Considerar las diferencias técnicas y operativas entre las empresas por su tamaño, su sector de actividad y etapa de maduración.
+VII. Considerar las diferencias técnicas y operativas entre las empresas por su tamaño, su sector de actividad y etapa de maduración; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+VIII. Orientar las acciones de acuerdo con el potencial, las necesidades y las vocaciones existentes en el estado de Nuevo León, atendiendo primordialmente la perspectiva de género e impulsando en todo momento la igualdad sustantiva entre hombres y mujeres, así como la inclusión de jóvenes y personas con discapacidad.
 
 ###### Artículo 7.
 
@@ -231,7 +237,9 @@ X Bis. Auxiliar, con base en las disposiciones jurídicas aplicables en la mater
 
 XI. Fomentar la expansión nacional e internacional de las MIPYMES.
 
-Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES, en igualdad sustantiva de condiciones entre hombres y mujeres, garantizando primordialmente el acceso a dicho financiamiento a las mujeres, a los jóvenes y a las personas con discapacidad.
 
 ###### Artículo 8.
 
@@ -370,6 +378,10 @@ I. Por un Presidente, que será el Secretario de Economía y Trabajo;
 II. Por un Secretario Técnico que será el Subsecretario de Inversión y Fomento Industrial de la Secretaria de Economía y Trabajo;
 
 III. Por el Secretario de Finanzas y Tesorero General del Estado, quien fungirá como vocal;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+III BIS. Por la persona titular de la Secretaría de Medio Ambiente del Estado, quien fungirá como vocal;
 
 IV. Por el Contralor General de la Contraloría y Transparencia Gubernamental, quien fungirá como vocal;
 
@@ -710,3 +722,19 @@ P.O. 14 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 236. SE REFORMA EL ARTÍCULO 1, LA FRACCIÓN XV BIS Y SE ADICIONA LA FRACCIÓN XV BIS 1 DEL ARTÍCULO 3, TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 232. SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 17 DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La persona Titular del Poder Ejecutivo y el Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contarán con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 234. SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 4, LAS FRACCIONES VI Y VII DEL ARTÍCULO 6 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 7; Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 6, TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La persona Titular del Poder Ejecutivo y el Consejo Estatal de Fomento a la Micro, Pequeña y Mediana Empresa contarán (sic) con un plazo de 90 días hábiles, a partir de la entrada en vigor del presente Decreto, para expedir o modificar las disposiciones reglamentarias y administrativas que se requieran para el cumplimiento de las atribuciones que se le otorgan por medio del mismo.
