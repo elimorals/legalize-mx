@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-conservacion-y-proteccion-del-arbolado-urbano-86941
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-30"
-last_updated: "2020-06-29"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN: 26 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de marzo de 2012.
 
@@ -419,9 +419,17 @@ Estarán incluidos en el Registro Estatal de los Prestadores de Servicios Técni
 
 I. El personal capacitado y autorizado para realizar la poda, derribo y trasplante del arbolado urbano;
 
-II. Las instituciones especializadas, encargadas de la capacitación para la adecuada poda, derribo y trasplante del arbolado urbano; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-III. Las demás que la Secretaría considere necesario incluir y que presten algún servicio en materia de arbolado urbano.
+II. Las instituciones especializadas, encargadas de la capacitación para la adecuada poda, derribo y trasplante del arbolado urbano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+III. Los viveros de árboles, plantas y plantas arbustivas. Entendiéndose como vivero aquellas instalaciones agronómicas donde se cultivan, germinan y maduran todo tipo de plantas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+IV. Las demás que la Secretaría considere necesario incluir y que presten algún servicio en materia de arbolado urbano.
 
 ### CAPÍTULO XI. DE LA CULTURA, EDUCACIÓN, CAPACITACIÓN E INVESTIGACIÓN EN MATERIA DE ARBOLADO URBANO
 
@@ -784,3 +792,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Todos los procedimientos que actualmente se encuentran en resolución sobre las infracciones de carácter administrativo en la materia deberán seguir su curso hasta ser resueltos de conformidad con lo establecido en los reglamentos municipales vigentes antes de la entrada en vigor de este Decreto.
 
 TERCERO.- Los municipios del Estado de Nuevo León contarán con un plazo de 60 días hábiles contados a partir de la entrada en vigor del presente decreto para armonizar sus reglamentos en la materia.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 170. SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 44, DE LA LEY PARA LA CONSERVACIÓN Y PROTECCIÓN DEL ARBOLADO URBANO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones que contravengan el presente Decreto.
