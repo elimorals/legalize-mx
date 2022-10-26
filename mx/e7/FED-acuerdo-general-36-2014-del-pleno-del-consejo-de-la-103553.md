@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2022-06-06"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -97,9 +97,9 @@ XIII. Órganos jurisdiccionales: jueces de Control y de Ejecución, así como tr
 
 XIV. Tribunal de Enjuiciamiento: Juez de Distrito que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de la sentencia;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
-XV. Tribunal de Alzada: Tribunal Unitario de Circuito competente para conocer de los asuntos a que se refieren los artículos 60 y 67 Bis 4 de la Ley;
+XV. Tribunal de alzada. Tribunal Colegiado de Apelación competente para conocer de los asuntos a que se refieren los artículos 64, fracción I, y 67 de la Ley;
 
 > <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA DESIGNACIÓN Y FUNCIONES DEL ADMINISTRADOR, D.O.F. 6 DE FEBRERO DE 2020)</small>
 
@@ -451,11 +451,11 @@ Los órganos jurisdiccionales privilegiarán el uso del sistema de videoconferen
 
 ### CAPÍTULO SÉPTIMO. ACCESO A VIDEOGRABACIONES
 
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA AL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN MATERIA DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS, D.O.F. 6 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 40.
 
-El Juez encargado de desahogar cualquier audiencia pública, deberá garantizar que en la misma no sean expuestos aquellos datos que, aún bajo la publicidad del proceso, deben ser objeto de protección en términos de lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública y en el Código Nacional de Procedimientos Penales.
+El Juez o Tribunal de alzada encargado de desahogar cualquier audiencia pública, deberá garantizar que en la misma no sean expuestos aquellos datos que, aún bajo la publicidad del proceso, deben ser objeto de protección en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y en el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA AL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN MATERIA DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS, D.O.F. 6 DE OCTUBRE DE 2016)</small>
 
@@ -950,3 +950,53 @@ D.O.F. 6 DE JUNIO DE 2022.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS TRIBUNALES COLEGIADOS DE APELACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación, salvo lo previsto en el artículo siguiente.
+
+SEGUNDO. Para cada Tribunal Colegiado de Apelación, este Acuerdo entrará en vigor en la fecha en que el Pleno del Consejo de la Judicatura Federal disponga en los respectivos acuerdos generales de inicio de funciones de dichos Tribunales.
+
+Hasta en tanto entre en vigor para cada Tribunal Colegiado de Apelación el presente acuerdo, continuarán siendo aplicables las disposiciones que regulan la operación y funcionamiento de los Tribunales Unitarios de Circuito, incluyendo las relativas a su número, límites territoriales, jurisdicción territorial y especialización por materia.
+
+Los acuerdos generales de inicio de funciones de los Tribunales Colegiados de Apelación deberán contener, entre otras disposiciones:
+
+I. La denominación del órgano jurisdiccional;
+
+II. El domicilio del órgano jurisdiccional;
+
+III. La fecha de inicio de funciones del órgano jurisdiccional;
+
+IV. La jurisdicción territorial y, de ser el caso, la especialización por materia del órgano jurisdiccional; así como la precisión acerca de la jurisdicción territorial para conocer de juicios de amparo indirecto promovidos en contra de actos de otro Tribunal Colegiado de Apelación de un Circuito diverso;
+
+V. La reforma al Acuerdo General que crea el Centro de Justicia Penal Federal que corresponda, de ser el caso;
+
+VI. En los casos en que haya dos o más Tribunales Colegiados de Apelación en la misma residencia o circuito, deberán establecerse las guardias para el turno de asuntos de nuevo ingreso en días y horas inhábiles;
+
+VII. El destino, tramitación y traslado de los procedimientos iniciados con anterioridad al inicio de funciones de cada Tribunal Colegiado de Apelación; los cuales continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio. Con motivo de la conclusión de funciones de cada Tribunal Unitario de Circuito, deberán preverse disposiciones que garanticen una equitativa distribución de los asuntos entre las tres Magistradas o Magistrados que integren el Tribunal Colegiado de Apelación;
+
+VIII. La obligación de los Tribunales Unitarios de Circuito que concluyan funciones de publicar avisos en lugares visibles para conocimiento del público, en los que informe acerca de la conclusión de funciones, la creación del nuevo Tribunal Colegiado de Apelación y su residencia, así como el órgano que conocerá de los juicios de amparo indirecto. La administración correspondiente mantendrá los avisos hasta dos meses después de la conclusión de funciones; y
+
+IX. Los demás aspectos necesarios para la operación del Tribunal Colegiado de Apelación que determine el Pleno.
+
+TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos someterá a consideración del Pleno del Consejo de la Judicatura Federal los acuerdos generales de conclusión de funciones de los Tribunales Unitarios de Circuito, de creación de los Tribunales Colegiados de Apelación o de cualquier otra medida necesaria para su instrumentación.
+
+QUINTO. Los acuerdos generales del Consejo de la Judicatura Federal vigentes a la entrada en vigor del presente Acuerdo serán aplicables a los Tribunales Colegiados de Apelación en lo no previsto por éste, siempre y cuando no se opongan al mismo. Las referencias que se hagan en otros acuerdos generales a los Tribunales Unitarios de Circuito se entenderán hechas a los Tribunales Colegiados de Apelación.
+
+SEXTO. En la primera sesión del Tribunal Colegiado de Apelación, las y los Magistrados designarán a la persona Presidenta, quien también encabezará la Presidencia durante el siguiente año calendario de 2023.
+
+SÉPTIMO. La Comisión de Carrera Judicial podrá determinar ajustes en los periodos en que podrán gozar los periodos vacacionales las y los Magistrados que sean adscritas y adscritos a los Tribunales Colegiados de Apelación, así como del resto de su personal, en función de la fecha (sic) su inicio de funciones.
+
+OCTAVO. Hasta en tanto se emitan las listas de personas habilitadas para desempeñar funciones de titulares a que se refiere el Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, las Magistradas y Magistrados podrán ser sustituidos por personas secretarias pertenecientes al Tribunal Colegiado de Apelación al que pertenezcan.
+
+NOVENO. A partir de la aprobación del presente acuerdo, las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para su implementación.
+
+La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán a los Tribunales Colegiados de Apelación, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones. En especial: (i) se dotará a los Tribunales Colegiados de Apelación el equipo informático necesario para registrar las sesiones o audiencias; (ii) se realizarán las modificaciones necesarias a los espacios físicos que los albergarán y a las salas de audiencia de los Centros de Justicia Penal Federal; y (iii) se habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que vaya a darle seguimiento a sus asuntos.
+
+DÉCIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del tribunal de apelación o, en su caso, en la oficina de correspondencia común que preste sus servicios o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
+
+DÉCIMO PRIMERO. La Visitaduría Judicial ajustará a los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Tribunales Colegiados de Apelación. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
