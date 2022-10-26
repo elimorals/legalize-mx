@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-ciencia-y-tecnologia-del-estado-de-baja-california-44519
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2005-03-20"
+last_updated: "2022-10-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de marzo de 2005.
 
@@ -111,9 +111,17 @@ X.- Establecer las bases conforme a las cuales el Consejo Sudcaliforniano de Cie
 
 XI.- Regular la aplicación de recursos destinados para el financiamiento de la investigación y desarrollo tecnológico;
 
-XII.- Impulsar la creación del Sistema Estatal de Investigadores y regular su funcionamiento; y
+> <small>(REFORMADA, B.O. 26 DE OCTUBRE DE 2022)</small>
 
-XIII.- Estimular y reconocer la actividad científica y tecnológica mediante el otorgamiento del Premio Estatal de Ciencia y Tecnología.
+XII.- Impulsar la creación del Sistema Estatal de Investigadores y regular su funcionamiento;
+
+> <small>(REFORMADA, B.O. 26 DE OCTUBRE DE 2022)</small>
+
+XIII.- Estimular y reconocer la actividad científica y tecnológica mediante el otorgamiento del Premio Estatal de Ciencia y Tecnología; y
+
+> <small>(ADICIONADA, B.O. 26 DE OCTUBRE DE 2022)</small>
+
+XIV.- Fortalecer los mecanismos institucionales para promover la difusión de los trabajos de alto impacto científico de manera equilibrada, paritaria y sin discriminación entre mujeres y hombres en las diferentes ramas de la ciencia, tecnológica e innovación.
 
 ## TÍTULO SEGUNDO. SOBRE EL CONSEJO SUDCALIFORNIANO DE CIENCIA Y TECNOLOGÍA
 
@@ -491,7 +499,9 @@ X.- Se promoverán incentivos fiscales y otros mecanismos de fomento, para que e
 
 XI.- Orientar la actividad de investigación y desarrollo tecnológico que realicen directamente las dependencias y entidades del sector público, preferentemente a buscar la identificación y solución de problemas y retos de interés general, así como contribuir al avance del conocimiento mejorar la productividad, elevar la calidad de vida de la población y el cuidado del medio ambiente;
 
-XII.- Las políticas, instrumentos y criterios con los que el Gobierno del Estado, fomente y apoye la investigación científica y tecnológica, deberán buscar el mayor efecto benéfico de estas actividades en la enseñanza y aprendizaje de la ciencia y la tecnología, en la calidad de la educación en todos los niveles, así como incentivar la participación y desarrollo de nuevas generaciones de investigadores y tecnólogos;
+> <small>(REFORMADA, B.O. 26 DE OCTUBRE DE 2022)</small>
+
+XII.- Las políticas, instrumentos y criterios con los que el Gobierno del Estado, fomente y apoye la investigación científica y tecnológica, deberán buscar el mayor efecto benéfico de estas actividades en la enseñanza y aprendizaje de la ciencia y la tecnología, en la calidad de la educación en todos los niveles, así como incentivar la participación equilibrada, paritaria y sin discriminación entre mujeres y hombres en el desarrollo de nuevas generaciones de investigadores y tecnólogos;
 
 XIII.- Las políticas y estrategias de apoyo al desarrollo científico y tecnológico deberán ser periódicamente revisadas y actualizadas, de conformidad con un esfuerzo permanente de evaluación de resultados y tendencias del avance científico y tecnológico, así como su impacto en la solución de las necesidades de la entidad;
 
@@ -527,9 +537,17 @@ VII.- La formación y capacitación de recursos humanos;
 
 VIII.- La creación, el financiamiento y la operación de los fondos a que se refiere la presente ley;
 
-IX.- Los programas educativos, estímulos fiscales, financieros y facilidades en materia administrativa e industrial, regímenes de propiedad intelectual, en los términos de los tratados internacionales y leyes específicas aplicables; y
+> <small>(REFORMADA, B.O. 26 DE OCTUBRE DE 2022)</small>
 
-X.- El acopio, procesamiento, sistematización, difusión y divulgación de información acerca de actividades de investigación científica y tecnológica que se lleven a cabo en el Estado, en el país y en el extranjero, cuando esto sea posible y conveniente.
+IX.- Los programas educativos, estímulos fiscales, financieros y facilidades en materia administrativa e industrial, regímenes de propiedad intelectual, en los términos de los tratados internacionales y leyes específicas aplicables;
+
+> <small>(REFORMADA, B.O. 26 DE OCTUBRE DE 2022)</small>
+
+X.- El acopio, procesamiento, sistematización, difusión y divulgación de información acerca de actividades de investigación científica y tecnológica que se lleven a cabo en el Estado, en el país y en el extranjero, cuando esto sea posible y conveniente; y
+
+> <small>(ADICIONADA, B.O. 26 DE OCTUBRE DE 2022)</small>
+
+XI.- Fortalecer los mecanismos institucionales para promover la difusión de los trabajos de alto impacto científico de manera equilibrada y sin discriminación entre mujeres y hombres.
 
 ### CAPÍTULO SEGUNDO. SISTEMA ESTATAL DE INFORMACIÓN CIENTÍFICA Y TECNOLÓGICA
 
@@ -751,9 +769,11 @@ De conformidad con la disponibilidad de recursos y en el marco del Plan Estatal 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### ARTÍCULO 57.
 
-El Gobierno del Estado apoyará la investigación científica y tecnológica que contribuya significativamente a desarrollar un sistema de educación, formación y consolidación de recursos humanos de alta calidad.
+El Gobierno del Estado apoyará la investigación científica y tecnológica que contribuya significativamente a desarrollar un sistema de educación, formación y consolidación de recursos humanos de alta calidad en igualdad de oportunidades y acceso entre mujeres y hombres, garantizando el principio de paridad de género.
 
 La Secretaría de Educación Pública y el Consejo Sudcaliforniano de Ciencia y Tecnología, establecerán mecanismos de coordinación y colaboración para apoyar conjuntamente los estudios de educación superior y postgrado en áreas estratégicas para el Estado.
 
@@ -818,3 +838,11 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 EL SUBSECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. VÍCTOR DANIEL MADRIGAL BARBOSA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2851 SE REFORMAN LAS FRACCIONES XII Y XII (SIC) DEL ARTÍCULO 5, FRACCIÓN XII DEL ARTÍCULO 33, FRACCIONES IX Y X DEL ARTÍCULO 34 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 57; Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 5 Y UNA FRACCIÓN XI AL ARTÍCULO 34, TODO A LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
