@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2022-09-13"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2022.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -639,23 +639,19 @@ XIX. Nombrar al personal subalterno que fije el presupuesto;
 
 XX. Opinar sobre el diseño de la política informática y de información estadística, en el ámbito de su competencia;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
-XXI. Autorizar la sustitución de plazas, la adscripción temporal de plazas de nueva creación en los órganos jurisdiccionales y áreas administrativas, previa solicitud de los titulares respectivos, de la disponibilidad presupuestal y de conformidad con los criterios que emita este órgano colegiado;
+XXI. Autorizar la sustitución de plazas en los órganos jurisdiccionales y áreas administrativas, así como la adscripción temporal de plazas de nueva creación en las áreas administrativas, previa solicitud de los titulares respectivos, de acuerdo con la disponibilidad presupuestal y de conformidad con los criterios que emita este órgano colegiado;
 
 XXII. Administrar los bienes muebles e inmuebles del Poder Judicial de la Federación, considerando su mantenimiento, conservación y acondicionamiento;
 
 XXIII. Proponer al Pleno, para su aprobación, el proyecto de creación de estructuras administrativas y plazas definitivas para la atención de nuevos programas;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
-
-XXIV. Autorizar las plantillas de personal para los nuevos órganos jurisdiccionales creados por el Pleno, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Creación de Nuevos Órganos, y la Visitaduría Judicial, con la participación de la Dirección General de Gestión Judicial;
+XXIV. (DEROGADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)
 
 XXV. Proponer para autorización del Pleno, las plazas definitivas de nueva creación de defensores públicos y su personal de apoyo, así como de oficinas de correspondencia común, que se requieran con motivo de la creación de nuevos órganos jurisdiccionales;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
-
-XXVI. Proponer para la autorización del Pleno, las plazas definitivas de nueva creación cuando tengan por objeto homogeneizar plantillas de personal por tipo de órgano y ciudad, o para reforzar plantillas o programas ya autorizados, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Creación de Nuevos Órganos, y la Visitaduría Judicial; con la participación de la Dirección General de Gestión Judicial;
+XXVI. (DEROGADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)
 
 XXVII. Someter al Pleno para su autorización la creación de nuevas estructuras orgánicas o la modificación de las ya existentes, la adscripción definitiva, retabulación y transferencia de plazas; así como contrataciones temporales por honorarios;
 
@@ -833,9 +829,23 @@ X. Nombrar al personal subalterno que fije el presupuesto;
 
 XI. Participar en el diseño de la política informática y de información estadística, en el ámbito de su competencia;
 
-XII. Proponer a la Comisión de Carrera Judicial el número de plazas de magistrados de Circuito y jueces de Distrito, así como, en su caso, la especialidad, que sean necesarias someter a concurso; y
+> <small>(REFORMADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
-XIII. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
+XII. Proponer a la Comisión de Carrera Judicial el número de plazas de Magistradas y Magistrados de Tribunal Colegiado y juezas y jueces de Distrito, así como, en su caso, especialidad, que sean necesarias someter a concurso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+XIII. Autorizar la adscripción temporal de plazas de nueva creación en los órganos jurisdiccionales, de acuerdo con la disponibilidad presupuestal y de conformidad con los criterios que emita este órgano colegiado, entre los cuales se considerará, entre otros elementos, la carga de trabajo y la productividad del órgano u órganos. El dictamen correspondiente será presentado ya sea por la Secretaría Ejecutiva de Creación de Nuevos Órganos; la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, para el caso de los juzgados de Distrito de los Centros de Justicia Penal Federal; o por la Unidad de Implementación de la Reforma en Materia de Justicia Laboral, para el caso de los Tribunales Laborales Federales;
+
+> <small>(ADICIONADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+XIV. Autorizar las plantillas de personal para los nuevos órganos jurisdiccionales creados por el Pleno, de acuerdo con la disponibilidad presupuestal y de conformidad con los criterios que emita este órgano colegiado. El dictamen correspondiente será presentado ya sea por la Secretaría Ejecutiva de Creación de Nuevos Órganos; la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, para el caso de los juzgados de Distrito de los Centros de Justicia Penal Federal; o por la Unidad (sic) Implementación de la Reforma en Materia de Justicia Laboral, para el caso de los Tribunales Laborales Federales;
+
+> <small>(ADICIONADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+XV. Proponer para la autorización del Pleno las plazas definitivas de nueva creación, retabulación o trasferencia cuando tengan por objeto homogeneizar plantillas de personal de órganos jurisdiccionales por tipo de órgano y ciudad, o para reforzar plantillas o programas ya autorizados, de acuerdo con la disponibilidad presupuestal y de conformidad con los criterios que emita este órgano colegiado. El dictamen correspondiente será presentado ya sea por la Secretaría Ejecutiva de Creación de Nuevos Órganos; la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, para el caso de los juzgados de Distrito de los Centros de Justicia Penal Federal; o por la Unidad (sic) Implementación de la Reforma en Materia de Justicia Laboral, para el caso de los Tribunales Laborales Federales; y
+
+XVI. Las demás que establezcan la Ley, el Pleno y el presente Acuerdo.
 
 #### SECCIÓN SEXTA. DE LA COMISIÓN DE DISCIPLINA
 
@@ -1947,11 +1957,13 @@ La Secretaría Ejecutiva de Creación de Nuevos Órganos, contará con las unida
 
 El Secretario Ejecutivo de Creación de Nuevos Órganos se encargará de auxiliar a la Comisión de Creación de Nuevos Órganos para el desempeño de las atribuciones que ésta tiene encomendadas.
 
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 84 Quater.
 
-El titular de la Secretaría Ejecutiva de Creación de Nuevos Órganos tendrá las siguientes atribuciones:
+La o el titular de la Secretaría Ejecutiva de Creación de Nuevos Órganos tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 I. Analizar y evaluar las solicitudes de creación de nuevos órganos jurisdiccionales, a fin de determinar la prioridad de su creación, para someterlas a la consideración de la Comisión de Creación de Nuevos Órganos;
 
@@ -1959,7 +1971,9 @@ I. Analizar y evaluar las solicitudes de creación de nuevos órganos jurisdicci
 
 II. Solicitar a la Dirección General de Estadística Judicial la elaboración de estudios estadísticos, así como analizar y evaluar los mismos, con el propósito de ponderar la viabilidad y prioridad para la creación de un órgano jurisdiccional nuevo o determinar la especialización, cambio de sede, competencia y sistema de turno de los órganos jurisdiccionales;
 
-III. Elaborar y aprobar los dictámenes relativos a las plantillas del personal de nuevos órganos jurisdiccionales, que al efecto le remita la Dirección General de Recursos Humanos;
+> <small>(REFORMADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+III. Someter a la consideración de la Comisión de Creación de Nuevos Órganos los dictámenes relativos a la integración de las plantillas de personal para los nuevos órganos jurisdiccionales creados por el Pleno, la adscripción temporal o definitiva de plazas de nueva creación en los órganos jurisdiccionales, cuando tengan por objeto homogeneizar plantillas de personal, reforzar plantillas o programas ya autorizados, con excepción de las relativas a los juzgados de Distrito de los Centros de Justicia Penal Federal y de los Tribunales Laborales Federales;
 
 > <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
@@ -1973,7 +1987,11 @@ V. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, 
 
 VI. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número, límites territoriales y, en su caso, especialización por materia de los órganos jurisdiccionales en cada uno de los circuitos a que se refiere la fracción anterior que a partir de la información de las cargas de trabajo que le presente la Dirección General de Estadística Judicial, considere necesarios;
 
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
 VII. Proponer a la Comisión de Creación de Nuevos Órganos las disposiciones necesarias para regular el turno de los asuntos de la competencia de los órganos jurisdiccionales, cuando en un mismo lugar haya varios de ellos;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 VIII. Proponer la normativa y procedimientos específicos para la creación y determinación de competencia, jurisdicción, especialización, cambio de sede y sistema de turno de órganos jurisdiccionales;
 
@@ -1981,11 +1999,19 @@ VIII. Proponer la normativa y procedimientos específicos para la creación y de
 
 IX. Elaborar y actualizar el Sistema de Turnos de Guardias de los Tribunales Colegiados de Circuito, Tribunales Colegiados de Apelación y de los Juzgados de Distrito;
 
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
 X. Dar seguimiento, en coordinación con las áreas administrativas correspondientes, a las etapas generales de los procedimientos de instalación de los órganos jurisdiccionales creados para estar en posibilidad de informar periódicamente a la Comisión de Creación de Nuevos Órganos sobre su avance, así como proponer a esta última la fecha de inicio de funciones de los mismos;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 XI. Evaluar el funcionamiento del órgano jurisdiccional creado, a fin de verificar si cumple con las expectativas consideradas para su instalación;
 
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
 XII. Ejercer las atribuciones que le confiere a la Secretaría Ejecutiva, el Acuerdo General relativo a la integración y funcionamiento de los plenos de Circuito;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 XIII. Solicitar, analizar y evaluar los informes de órganos jurisdiccionales que sean necesarios para el desarrollo de las funciones de la Secretaría Ejecutiva;
 
@@ -1993,9 +2019,15 @@ XIV. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE 
 
 XV. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
 
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
 XVI. Formular y presentar al Pleno, el Programa Anual de Actividades de la unidad administrativa a su cargo;
 
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
 XVII. Someter a la consideración de las Comisiones, las disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas, en el ejercicio de las atribuciones que competan a la unidad administrativa;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 XVIII. Informar a las Comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
@@ -2971,9 +3003,11 @@ II. Contar con experiencia mínima profesional de tres años, como secretario de
 
 Los secretarios técnicos de la Visitaduría Judicial serán designados por el Visitador General. Los secretarios técnicos adscritos a los visitadores judiciales "A", serán designados por el Visitador General, a propuesta del visitador judicial "A" de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 127.
 
-Corresponde al Visitador General:
+Corresponde a la o al Visitador General:
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -3009,9 +3043,7 @@ IX. Expresar ante la Comisión de Vigilancia las razones y causas que le impidan
 
 X. Implementar las visitas extraordinarias de inspección que el Presidente ordene; y designar al visitador judicial "A" que habrá de practicarlas, en caso de que no se asigne uno en especial;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
-
-XI. Elaborar y aprobar, de manera conjunta con la Secretaría Ejecutiva de Creación de Nuevos Órganos y la Dirección General de Gestión Judicial, los dictámenes relativos a las plantillas del personal de nuevos órganos jurisdiccionales, que al efecto le remita la Dirección General de Recursos Humanos;
+XI. (DEROGADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)
 
 XII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
@@ -6782,3 +6814,53 @@ D.O.F. 13 DE SEPTIEMBRE DE 2022.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS TRIBUNALES COLEGIADOS DE APELACIÓN".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación, salvo lo previsto en el artículo siguiente.
+
+SEGUNDO. Para cada Tribunal Colegiado de Apelación, este Acuerdo entrará en vigor en la fecha en que el Pleno del Consejo de la Judicatura Federal disponga en los respectivos acuerdos generales de inicio de funciones de dichos Tribunales.
+
+Hasta en tanto entre en vigor para cada Tribunal Colegiado de Apelación el presente acuerdo, continuarán siendo aplicables las disposiciones que regulan la operación y funcionamiento de los Tribunales Unitarios de Circuito, incluyendo las relativas a su número, límites territoriales, jurisdicción territorial y especialización por materia.
+
+Los acuerdos generales de inicio de funciones de los Tribunales Colegiados de Apelación deberán contener, entre otras disposiciones:
+
+I. La denominación del órgano jurisdiccional;
+
+II. El domicilio del órgano jurisdiccional;
+
+III. La fecha de inicio de funciones del órgano jurisdiccional;
+
+IV. La jurisdicción territorial y, de ser el caso, la especialización por materia del órgano jurisdiccional; así como la precisión acerca de la jurisdicción territorial para conocer de juicios de amparo indirecto promovidos en contra de actos de otro Tribunal Colegiado de Apelación de un Circuito diverso;
+
+V. La reforma al Acuerdo General que crea el Centro de Justicia Penal Federal que corresponda, de ser el caso;
+
+VI. En los casos en que haya dos o más Tribunales Colegiados de Apelación en la misma residencia o circuito, deberán establecerse las guardias para el turno de asuntos de nuevo ingreso en días y horas inhábiles;
+
+VII. El destino, tramitación y traslado de los procedimientos iniciados con anterioridad al inicio de funciones de cada Tribunal Colegiado de Apelación; los cuales continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio. Con motivo de la conclusión de funciones de cada Tribunal Unitario de Circuito, deberán preverse disposiciones que garanticen una equitativa distribución de los asuntos entre las tres Magistradas o Magistrados que integren el Tribunal Colegiado de Apelación;
+
+VIII. La obligación de los Tribunales Unitarios de Circuito que concluyan funciones de publicar avisos en lugares visibles para conocimiento del público, en los que informe acerca de la conclusión de funciones, la creación del nuevo Tribunal Colegiado de Apelación y su residencia, así como el órgano que conocerá de los juicios de amparo indirecto. La administración correspondiente mantendrá los avisos hasta dos meses después de la conclusión de funciones; y
+
+IX. Los demás aspectos necesarios para la operación del Tribunal Colegiado de Apelación que determine el Pleno.
+
+TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos someterá a consideración del Pleno del Consejo de la Judicatura Federal los acuerdos generales de conclusión de funciones de los Tribunales Unitarios de Circuito, de creación de los Tribunales Colegiados de Apelación o de cualquier otra medida necesaria para su instrumentación.
+
+QUINTO. Los acuerdos generales del Consejo de la Judicatura Federal vigentes a la entrada en vigor del presente Acuerdo serán aplicables a los Tribunales Colegiados de Apelación en lo no previsto por éste, siempre y cuando no se opongan al mismo. Las referencias que se hagan en otros acuerdos generales a los Tribunales Unitarios de Circuito se entenderán hechas a los Tribunales Colegiados de Apelación.
+
+SEXTO. En la primera sesión del Tribunal Colegiado de Apelación, las y los Magistrados designarán a la persona Presidenta, quien también encabezará la Presidencia durante el siguiente año calendario de 2023.
+
+SÉPTIMO. La Comisión de Carrera Judicial podrá determinar ajustes en los periodos en que podrán gozar los periodos vacacionales las y los Magistrados que sean adscritas y adscritos a los Tribunales Colegiados de Apelación, así como del resto de su personal, en función de la fecha su inicio de funciones.
+
+OCTAVO. Hasta en tanto se emitan las listas de personas habilitadas para desempeñar funciones de titulares a que se refiere el Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, las Magistradas y Magistrados podrán ser sustituidos por personas secretarias pertenecientes al Tribunal Colegiado de Apelación al que pertenezcan.
+
+NOVENO. A partir de la aprobación del presente acuerdo, las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para su implementación.
+
+La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán a los Tribunales Colegiados de Apelación, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones. En especial: (i) se dotará a los Tribunales Colegiados de Apelación el (sic) equipo informático necesario para registrar las sesiones o audiencias; (ii) se realizarán las modificaciones necesarias a los espacios físicos que los albergarán y a las salas de audiencia de los Centros de Justicia Penal Federal; y (iii) se habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que vaya a darle seguimiento a sus asuntos.
+
+DÉCIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del tribunal de apelación o, en su caso, en la oficina de correspondencia común que preste sus servicios o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
+
+DÉCIMO PRIMERO. La Visitaduría Judicial ajustará a los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Tribunales Colegiados de Apelación. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
