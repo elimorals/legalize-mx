@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2022-03-14"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -167,7 +167,9 @@ La jornada de trabajo de los servidores públicos adscritos a los órganos juris
 
 En cuanto al tiempo de ingesta de alimentos, cada titular podrá modificarlo hasta por dos horas, respecto de servidores públicos que así lo soliciten, con la finalidad de facilitar el traslado a lugar diverso del centro de labores, con el correspondiente ajuste al horario de trabajo.
 
-Cada titular de juzgado de Distrito, tribunal Unitario de Circuito, presidente de tribunal Colegiado de Circuito y titular de ponencia de tribunal Colegiado de Circuito, podrá reducir el horario de trabajo, en lo que respecta al turno de la tarde, o prescindir de éste, atendiendo a las necesidades del servicio y las medidas de organización interna que instrumente, a efecto de mejorar el trámite y resolución de los asuntos, sin que ello afecte la debida prestación del servicio público de justicia.
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+Cada persona titular de juzgado de Distrito, presidenta o presidente de Tribunal Colegiado de Circuito o de Apelación y titular de ponencia de Tribunal Colegiado de Circuito o de Apelación, podrá reducir el horario de trabajo, en lo que respecta al turno de la tarde, o prescindir de éste, atendiendo a las necesidades del servicio y las medidas de organización interna que instrumente, a efecto de mejorar el trámite y resolución de los asuntos, sin que ello afecte la debida prestación del servicio público de justicia.
 
 De manera excepcional, la jornada de trabajo podrá extenderse considerando en todo caso, las necesidades del servicio y las guardias, sin que ello implique exceder de un horario prudente y en ningún caso generar una práctica reiterada.
 
@@ -261,11 +263,11 @@ XV. Los demás que determine el Pleno.
 
 Se exceptúa de esta disposición a los tribunales laborales federales de asuntos colectivos, que funcionarán las veinticuatro horas durante todos los días del año para atender los procedimientos de huelga.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 10.
 
-En los casos a que se refieren las fracciones XIII y XIV del artículo anterior, los titulares de los juzgados de Distrito; de los tribunales Unitarios de Circuito, de los tribunales laborales federales, así como el presidente de los tribunales Colegiados de Circuito deberán comunicar de inmediato, la suspensión o la imposibilidad de funcionamiento del órgano jurisdiccional por causa de fuerza mayor, a la Secretaría Ejecutiva del Pleno, a través de cualquier medio y por oficio dentro de las veinticuatro horas siguientes, del cual el titular de dicha Secretaría dará cuenta al Pleno, en su próxima sesión.
+En los casos a que se refieren las fracciones XIII y XIV del artículo anterior, las y los titulares de los juzgados de Distrito, de los tribunales laborales federales, así como la presidenta o presidente de los Tribunales Colegiados de Circuito o de Apelación deberán comunicar de inmediato la suspensión o la imposibilidad de funcionamiento del órgano jurisdiccional por causa de fuerza mayor, a la Secretaría Ejecutiva del Pleno, a través de cualquier medio y por oficio dentro de las veinticuatro horas siguientes, del cual el o la titular de dicha Secretaría dará cuenta al Pleno, en su próxima sesión.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LA SUSPENSIÓN DE LABORES, D.O.F. 24 DE AGOSTO DE 2016)</small>
 
@@ -1625,7 +1627,9 @@ En caso de que el o los titulares del órgano jurisdiccional detecten deficienci
 
 ## TÍTULO TERCERO. LIBROS DE CONTROL
 
-### CAPÍTULO TERCERO. LIBROS PARA TRIBUNALES UNITARIOS Y SUS CARACTERÍSTICAS
+### CAPÍTULO TERCERO. LIBROS PARA LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y SUS CARACTERÍSTICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 99.
 
@@ -1897,7 +1901,9 @@ b) Sentido: se registrará el sentido de la sentencia o la resolución mencionad
 
 IV. Apelación constará de dos rubros: Fecha de remisión y Resolución, en los que se anotará:
 
-a) Fecha de remisión: se indicará el día, mes y año en que se remita físicamente al tribunal Unitario de Circuito el expediente o el testimonio respectivo, para lo que se considerará la fecha del oficio que lo conduzca; y
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+a) Fecha de remisión: se indicará el día, mes y año en que se remita físicamente al Tribunal Colegiado de Apelación el expediente o el testimonio respectivo, para lo que se considerará la fecha del oficio que lo conduzca; y
 
 b) Resolución, existirán dos subrubros: Fecha y Sentido, en los que se harán las siguientes anotaciones:
 
@@ -2413,11 +2419,13 @@ También se podrán anotar los datos relativos al supuesto en que se conceda alg
 
 Este libro se llevará conforme a la tabla número dieciséis del anexo de este Acuerdo.
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
 ### CAPÍTULO QUINTO. LIBROS ELECTRÓNICOS DE REGISTRO
 
 ###### Artículo 134.
 
-Son libros de control obligatorios para los tribunales Unitarios de Circuito, los siguientes:
+Son libros de control para los Tribunales Colegiados de Apelación, los siguientes:
 
 I. Libro uno: de apelaciones penales;
 
@@ -2477,7 +2485,9 @@ b) Sentido: se asentará el sentido de esa sentencia o resolución, utilizando a
 
 III. Amparo: se utilizará únicamente cuando se promueva juicio de amparo en contra del fallo pronunciado por el tribunal. Se dividirá en dos columnas con los rubros: Fecha de remisión y Resolución final, las cuales se utilizarán de la siguiente manera:
 
-a) Fecha de remisión: se anotará el día, el mes y el año en que se remita la demanda de amparo y los anexos correspondientes al tribunal Colegiado, cuando se trate de amparo directo, o los autos al tribunal Unitario que corresponda, cuando se trate de amparo indirecto; y
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+a) Fecha de remisión: se anotará el día, mes y año en que se remita la demanda de amparo y los anexos correspondientes al Tribunal Colegiado, cuando se trate de amparo directo, o los autos al Tribunal Colegiado de Apelación que corresponda, cuando se trate de amparo indirecto; y
 
 b) Resolución final: se dividirá en dos sub rubros Fecha y Sentido, y en ellos se anotará:
 
@@ -2487,7 +2497,9 @@ b) Resolución final: se dividirá en dos sub rubros Fecha y Sentido, y en ellos
 
 IV. Archivo: se anotará la fecha en la cual se remita físicamente a éste el toca respectivo; y
 
-V. Observaciones: se podrán anotar todos los datos que sin estar contenidos en los apartados anteriores, resulten necesarios para un mejor control del asunto, como pudiera ser, a manera de ejemplo, la resolución que pronuncie el tribunal Unitario que hubiese resuelto el juicio de amparo indirecto, cuando sea éste el que se intente y se encuentre pendiente de resolución por haberse promovido la revisión.
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+V. Observaciones: podrán anotarse todos los datos que, sin estar contenidos en los apartados anteriores, resulten necesarios para un mejor control del asunto, como pudiera ser, a manera de ejemplo, la resolución que emita el Tribunal Colegiado de Apelación que hubiese resuelto el juicio de amparo indirecto, cuando sea éste el que se intente y se encuentre pendiente de resolución por haberse interpuesto la revisión.
 
 Este libro se llevará conforme a la tabla número diecisiete del anexo de este Acuerdo.
 
@@ -2499,7 +2511,9 @@ El libro de apelaciones civiles y administrativas constará de cinco apartados c
 
 I. Procedimiento de apelación: se dividirá en ocho columnas con los rubros: Número de toca, Recepción, Materia, Número de origen, Juzgado remitente, Nombres, Apelante y Resolución apelada, en las cuales se anotarán los siguientes datos:
 
-a) Número de toca: se anotarán con numeración progresiva y ascendente, los recursos de apelación de naturaleza civil o administrativa que se reciban en el tribunal Unitario, atendiendo rigurosamente a la fecha de su recepción;
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+a) Número de toca: se anotarán con numeración progresiva y ascendente, los recursos de apelación de naturaleza civil o administrativa que se reciban en el Tribunal Colegiado de Apelación, atendiendo rigurosamente a la fecha de su recepción;
 
 b) Recepción: se anotará la fecha en que se reciba el mencionado recurso en la oficialía de partes del propio tribunal;
 
@@ -2527,7 +2541,9 @@ b) Sentido: se anotará, precisamente, el sentido de la resolución, utilizando 
 
 III. Amparo: se utilizará únicamente cuando se promueva juicio de amparo en contra del fallo pronunciado por el tribunal, se dividirá a su vez en dos columnas: Fecha de remisión y Resolución final, en las que se anotará lo siguiente:
 
-a) Fecha de remisión: se anotará el día, el mes y el año en que se remita la demanda de amparo y los anexos correspondientes al tribunal Colegiado, cuando se trate de amparo directo, o los autos al tribunal Unitario que corresponda, cuando se trate de amparo indirecto; y
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+a) Fecha de remisión: se anotará el día, el mes y año en que se remita la demanda de amparo y los anexos correspondientes al tribunal Colegiado, cuando se trate de amparo directo, o los autos al Tribunal Colegiado de Apelación que corresponda, cuando se trate de amparo indirecto; y
 
 b) Resolución final: se dividirá en dos subrubros: Fecha y Sentido, los que se utilizarán de la siguiente manera:
 
@@ -2537,7 +2553,9 @@ b) Resolución final: se dividirá en dos subrubros: Fecha y Sentido, los que se
 
 IV. Archivo: se anotará la fecha en la cual se remita físicamente a éste el toca respectivo; y
 
-V. Observaciones: se podrán anotar todos los datos que sin estar contenidos en los apartados anteriores, resulten necesarios para un mejor control del asunto, como pudiera ser, a manera de ejemplo, la resolución que pronuncie el tribunal Unitario que hubiese resuelto el juicio de amparo indirecto, cuando sea éste el que se intente y, se encuentre pendiente de resolución por haberse promovido la revisión.
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+V. Observaciones: se podrán anotar todos los datos que, sin estar contenidos en los apartados anteriores, resulten necesarios para un mejor control del asunto, como pudiera ser, a manera de ejemplo, la resolución que pronuncie el Tribunal Colegiado de Apelación que hubiese resuelto el juicio de amparo indirecto, cuando sea éste el que se intente y se encuentre pendiente de resolución por haberse interpuesto la revisión.
 
 Este libro se llevará conforme a la tabla número dieciocho del anexo de este Acuerdo.
 
@@ -2569,7 +2587,9 @@ b) Sentido: se anotará precisamente su sentido, utilizando, enunciativamente, l
 
 IX. Amparo: se utilizará únicamente cuando se promueva juicio de amparo en contra del fallo pronunciado por el tribunal, se dividirá a su vez en dos columnas: Fecha de remisión y Resolución final, en las que se anotará lo siguiente:
 
-a) Fecha de remisión: se anotará el día, el mes y el año en que se remita la demanda de amparo y los anexos correspondientes al tribunal Colegiado, cuando se trate de amparo directo, o los autos al tribunal Unitario que corresponda, cuando se trate de amparo indirecto; y
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+a) Fecha de remisión: se anotará el día, el mes y año en que se remita la demanda de amparo y los anexos correspondientes al tribunal Colegiado, cuando se trate de amparo directo, o los autos al Tribunal Colegiado de Apelación que corresponda, cuando se trate de amparo indirecto; y
 
 b) Resolución final: se dividirá en dos subrubros: Fecha y Sentido, los que se utilizarán de la siguiente manera:
 
@@ -2579,7 +2599,9 @@ b) Resolución final: se dividirá en dos subrubros: Fecha y Sentido, los que se
 
 X. Archivo: se anotará la fecha en la cual se remita físicamente a éste, el toca respectivo; y
 
-XI. Observaciones: se podrá anotar cualquier otro dato que sin estar contenido en los apartados anteriores, resulte necesario para un mejor control del asunto, por ejemplo, el caso en que se estime admisible la apelación y se ordene tramitar la segunda instancia, caso en que deberá anotarse la expresión: “se ordenó tramitar 2a. instancia” y, el número del toca de apelación que le hubiese correspondido; también la resolución que pronuncie el tribunal Unitario que hubiese resuelto el juicio de amparo indirecto, cuando sea éste el que se intente y, se encuentre pendiente de resolución por haberse promovido la revisión.
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+XI. Observaciones: se podrán anotar todos los datos que, sin estar contenidos en los apartados anteriores, resulten necesarios para un mejor control del asunto, como pudiera ser, a manera de ejemplo, el caso en que se estime admisible la apelación y se ordene tramitar la segunda instancia, caso en que deberá anotarse la expresión “se ordenó tramitar 2a. instancia” y el número del toca de apelación que le hubiese correspondido; también la resolución que pronuncie el Tribunal Colegiado de Apelación que hubiese resuelto el juicio de amparo indirecto, cuando sea éste el que se intente y se encuentre pendiente de resolución por haberse interpuesto la revisión.
 
 Este libro se llevará conforme a la tabla número diecinueve del anexo de este Acuerdo.
 
@@ -2689,7 +2711,9 @@ En el libro de conflictos competenciales se registrarán estos, ya sea para cono
 
 Este libro constará de ocho columnas con los rubros: Número de conflicto, Recepción, Número de origen, Órganos contendientes, Órgano remitente, Resolución, Archivo y Observaciones, en las cuales se anotarán los siguientes datos:
 
-I. Número de conflicto: se anotarán con numeración progresiva y ascendente, los conflictos competenciales que conforme al artículo 29, fracción V de la Ley Orgánica debe conocer el tribunal Unitario, atendiendo rigurosamente a la fecha y a la hora de recepción;
+> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
+I. Número de conflicto: se anotarán con numeración progresiva y ascendiente, los conflictos competenciales que conforme al artículo 35, fracción VI, de la Ley Orgánica debe conocer el Tribunal Colegiado de Apelación, atendiendo rigurosamente a la fecha y a la hora de recepción;
 
 II. Recepción: se anotará el día, el mes y el año en que se reciba el conflicto competencial en la oficialía de partes del propio tribunal;
 
@@ -2731,9 +2755,11 @@ Este libro se llevará conforme a la tabla número ocho del anexo de este Acuerd
 
 #### SECCIÓN DÉCIMA SEGUNDA. LIBRO DOCE DE FIRMAS DE PROCESADOS EN LIBERTAD PROVISIONAL BAJO CAUCIÓN CONCEDIDA EN SEGUNDA INSTANCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 148.
 
-En el libro de firmas de procesados en libertad provisional bajo caución concedida en segunda instancia se anotará, sin excepción, a todos los inculpados a los que se conceda por el tribunal Unitario el beneficio de la libertad provisional bajo caución. Se compondrá del mismo número de columnas y rubros que el libro de control de firmas de procesados en libertad provisional bajo caución que se aluden en los artículos 127 y 128 de este Acuerdo, razón por la cual, para realizar las anotaciones correspondientes, se atenderá, en lo que resulte aplicable, a lo dispuesto en los referidos artículos.
+En el libro de firmas de procesados en libertad provisional bajo caución concedida en segunda instancia se anotará, sin excepción, a todas las personas inculpadas a las que se conceda por el Tribunal Colegiado de Apelación el beneficio de la libertad provisional bajo caución. Se compondrá del mismo número de columnas y rubros que el libro de firmas de personas procesadas en libertad provisional bajo caución que se prevén en los artículos 127 y 128 de este Acuerdo, razón por la cual, para realizar las anotaciones correspondientes, se atenderá, en lo que resulte aplicable, a lo dispuesto en los referidos artículos.
 
 Este libro se llevará conforme a la tabla número doce del anexo de este Acuerdo.
 
@@ -3003,9 +3029,11 @@ Este libro se llevará conforme a la tabla número veintisiete del anexo de este
 
 En el libro de conflictos competenciales se registrarán los conflictos que se susciten entre tribunales Unitarios de Circuito o jueces de distrito de su jurisdicción en juicios de amparo a que se refiere el artículo 37, fracción VI, de la Ley Orgánica; de las cuestiones de acumulación que menciona el párrafo II del artículo 13 de la Ley de Amparo y, además, de los conflictos que se mencionan en la fracción II, del artículo cuarto del Acuerdo General número 5/2013, de trece de mayo de dos mil trece, del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, relativo a la determinación de los asuntos que el Pleno conservará para su resolución, y el envío de los de su competencia originaria a las Salas y a los Tribunales Colegiados de Circuito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 164.
 
-El libro de registro de conflictos competenciales constará exactamente del mismo número de columnas que el libro de conflictos competenciales de los tribunales Unitarios, así como de los mismos rubros, por lo que, para hacer los respectivos registros en ellos, deberá seguirse, en lo que resulte aplicable, lo dispuesto en los artículos 144 y 145 de este Acuerdo.
+El libro de registro de conflictos competenciales constará exactamente del mismo número de columnas que el libro de conflictos competenciales de los Tribunales Colegiados de Apelación, así como de los mismos rubros, por lo que, para hacer los respectivos registros en ellos, deberá seguirse, en lo que resulte aplicable, de lo dispuesto en los artículos 144 y 145 de este Acuerdo.
 
 Este libro se llevará conforme a la tabla número veintidós del anexo de este Acuerdo.
 
@@ -3187,7 +3215,7 @@ Corresponde a la Dirección General de Tecnologías de la Información soluciona
 
 ### CAPÍTULO QUINTO. SISE CONTROL BIOMÉTRICO
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 180.
 
@@ -3337,7 +3365,7 @@ La Dirección General de Gestión Judicial será la responsable de vigilar el co
 
 ###### Artículo 197.
 
-Es obligatorio el uso del módulo denominado SISE CB, contenido en el SISE, como programa para el control de presentaciones de procesados en libertad provisional bajo caución, por parte de los juzgados de Distrito no especializados, los especializados en la materia penal, y de procesos penales federales, así como los tribunales Unitarios de Circuito, con excepción de los especializados en materias civil y administrativa.
+Es obligatorio el uso del módulo denominado SISE CB, contenido en el SISE, como programa para el control de presentaciones de personas bajo proceso penal en libertad provisional bajo caución, por parte de los juzgados de Distrito no especializados, los especializados en materia penal y/o de procesos penales federales, así como por los Tribunales Colegiados de Apelación.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
@@ -4274,3 +4302,53 @@ QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deb
 SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
 SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
+
+D.O.F. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS TRIBUNALES COLEGIADOS DE APELACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación, salvo lo previsto en el artículo siguiente.
+
+SEGUNDO. Para cada Tribunal Colegiado de Apelación, este Acuerdo entrará en vigor en la fecha en que el Pleno del Consejo de la Judicatura Federal disponga en los respectivos acuerdos generales de inicio de funciones de dichos Tribunales.
+
+Hasta en tanto entre en vigor para cada Tribunal Colegiado de Apelación el presente acuerdo, continuarán siendo aplicables las disposiciones que regulan la operación y funcionamiento de los Tribunales Unitarios de Circuito, incluyendo las relativas a su número, límites territoriales, jurisdicción territorial y especialización por materia.
+
+Los acuerdos generales de inicio de funciones de los Tribunales Colegiados de Apelación deberán contener, entre otras disposiciones:
+
+I. La denominación del órgano jurisdiccional;
+
+II. El domicilio del órgano jurisdiccional;
+
+III. La fecha de inicio de funciones del órgano jurisdiccional;
+
+IV. La jurisdicción territorial y, de ser el caso, la especialización por materia del órgano jurisdiccional; así como la precisión acerca de la jurisdicción territorial para conocer de juicios de amparo indirecto promovidos en contra de actos de otro Tribunal Colegiado de Apelación de un Circuito diverso;
+
+V. La reforma al Acuerdo General que crea el Centro de Justicia Penal Federal que corresponda, de ser el caso;
+
+VI. En los casos en que haya dos o más Tribunales Colegiados de Apelación en la misma residencia o circuito, deberán establecerse las guardias para el turno de asuntos de nuevo ingreso en días y horas inhábiles;
+
+VII. El destino, tramitación y traslado de los procedimientos iniciados con anterioridad al inicio de funciones de cada Tribunal Colegiado de Apelación; los cuales continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio. Con motivo de la conclusión de funciones de cada Tribunal Unitario de Circuito, deberán preverse disposiciones que garanticen una equitativa distribución de los asuntos entre las tres Magistradas o Magistrados que integren el Tribunal Colegiado de Apelación;
+
+VIII. La obligación de los Tribunales Unitarios de Circuito que concluyan funciones de publicar avisos en lugares visibles para conocimiento del público, en los que informe acerca de la conclusión de funciones, la creación del nuevo Tribunal Colegiado de Apelación y su residencia, así como el órgano que conocerá de los juicios de amparo indirecto. La administración correspondiente mantendrá los avisos hasta dos meses después de la conclusión de funciones; y
+
+IX. Los demás aspectos necesarios para la operación del Tribunal Colegiado de Apelación que determine el Pleno.
+
+TERCERO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos someterá a consideración del Pleno del Consejo de la Judicatura Federal los acuerdos generales de conclusión de funciones de los Tribunales Unitarios de Circuito, de creación de los Tribunales Colegiados de Apelación o de cualquier otra medida necesaria para su instrumentación.
+
+QUINTO. Los acuerdos generales del Consejo de la Judicatura Federal vigentes a la entrada en vigor del presente Acuerdo serán aplicables a los Tribunales Colegiados de Apelación en lo no previsto por éste, siempre y cuando no se opongan al mismo. Las referencias que se hagan en otros acuerdos generales a los Tribunales Unitarios de Circuito se entenderán hechas a los Tribunales Colegiados de Apelación.
+
+SEXTO. En la primera sesión del Tribunal Colegiado de Apelación, las y los Magistrados designarán a la persona Presidenta, quien también encabezará la Presidencia durante el siguiente año calendario de 2023.
+
+SÉPTIMO. La Comisión de Carrera Judicial podrá determinar ajustes en los periodos en que podrán gozar los periodos vacacionales las y los Magistrados que sean adscritas y adscritos a los Tribunales Colegiados de Apelación, así como del resto de su personal, en función de la fecha su inicio de funciones.
+
+OCTAVO. Hasta en tanto se emitan las listas de personas habilitadas para desempeñar funciones de titulares a que se refiere el Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, las Magistradas y Magistrados podrán ser sustituidos por personas secretarias pertenecientes al Tribunal Colegiado de Apelación al que pertenezcan.
+
+NOVENO. A partir de la aprobación del presente acuerdo, las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para su implementación.
+
+La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán a los Tribunales Colegiados de Apelación, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones. En especial: (i) se dotará a los Tribunales Colegiados de Apelación el equipo informático necesario para registrar las sesiones o audiencias; (ii) se realizarán las modificaciones necesarias a los espacios físicos que los albergarán y a las salas de audiencia de los Centros de Justicia Penal Federal; y (iii) se habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que vaya a darle seguimiento a sus asuntos.
+
+DÉCIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del tribunal de apelación o, en su caso, en la oficina de correspondencia común que preste sus servicios o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
+
+DÉCIMO PRIMERO. La Visitaduría Judicial ajustará a los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Tribunales Colegiados de Apelación. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
