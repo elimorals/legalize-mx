@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1437
 country: "mx"
 rank: "ley_organica"
 publication_date: "2020-06-06"
-last_updated: "2020-06-06"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Ley publicada en la Tercera Sección al Número 1153 del Periódico Oficial del Estado de Campeche, el lunes 6 de abril de 2020.
 
@@ -69,15 +69,17 @@ IX. Miembros: A las y los integrantes de la Junta de Gobierno del Centro de Conc
 
 X. Presidencia: A la Presidenta o Presidente de la Junta de Gobierno del Centro de Conciliación Laboral.
 
-XI. Secretaría de Trabajo: A la Secretaría de Trabajo y Previsión Social de la Administración Pública del Estado de Campeche (STPSCAM).
+XI. (DEROGADA, P.O. 26 DE OCTUBRE DE 2022)
 
 XII. Secretaría Técnica: A la Secretaría Técnica de la Junta de Gobierno del Centro de Conciliación Laboral.
 
 XIII. Secretaria o Secretario Técnico: A la persona Titular de la Secretaría Técnica de la Junta de Gobierno del Centro de Conciliación Laboral.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 3.
 
-El Centro de Conciliación Laboral del Estado de Campeche, identificado con el acrónimo “CENCOLAB”, es un organismo descentralizado de la Administración Pública Estatal, especializado e imparcial, con personalidad jurídica y patrimonio propio, dotado de plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, en los términos de lo dispuesto en el artículo 76 Ter de la Constitución Política del Estado de Campeche, el cual queda sectorizado a la Secretaría de Trabajo y Previsión Social de la Administración Pública del Estado de Campeche.
+El Centro de Conciliación Laboral del Estado de Campeche, identificado con el acrónimo “CENCOLAB”, es un organismo descentralizado de la Administración Pública Estatal, especializado e imparcial, con personalidad jurídica y patrimonio propio, dotado de plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, en los términos de lo dispuesto en el artículo 76 Ter de la Constitución Política del Estado de Campeche, el cual queda sectorizado a la Secretaría de Gobierno de la Administración Pública del Estado de Campeche.
 
 ###### Artículo 4.
 
@@ -109,7 +111,9 @@ I. Ofrecer el servicio público de conciliación laboral en conflictos del orden
 
 II. Coordinar y supervisar las oficinas del Centro que se encuentren en el Estado;
 
-III. Solicitar la colaboración de las Dependencias y Entidades de las Administraciones Públicas Federal, Estatal y Municipales, así como de las y los particulares, para el debido cumplimiento de sus objetivos;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+III. Solicitar la colaboración de las Secretarías, Dependencias y Entidades de las Administraciones Públicas Federal, Estatal y Municipales, así como de las y los particulares, para el debido cumplimiento de sus objetivos;
 
 IV. Establecer los convenios necesarios con instituciones públicas o privadas, para lograr los propósitos de la presente Ley;
 
@@ -155,17 +159,27 @@ IV. El Órgano de Vigilancia.
 
 La Junta de Gobierno es el órgano máximo de decisión y establecimiento de políticas del Centro y se integra por:
 
-I. Una Presidenta o Presidente, que será la persona titular de la Secretaría de Trabajo y Previsión Social.
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+I. Una Presidenta o Presidente, que será la persona titular de la Secretaría de Gobierno;
 
 II. Las personas titulares de:
 
-a. La Secretaría General de Gobierno;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-b. La Secretaría de la Contraloría;
+a. La Secretaría de la Contraloría;
 
-c. La Secretaría de Finanzas;
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-d. La Secretaría de Desarrollo Económico.
+b. La Secretaría de Administración y Finanzas;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+c. La Secretaría de Desarrollo Económico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+d. La Secretaría de Modernización Administrativa e Innovación Gubernamental;
 
 Previa invitación de la o el Presidente de la Junta de Gobierno, podrá participar en las sesiones de ésta, con voz y voto, la o el titular del Centro de Justicia Alternativa del Poder Judicial del Estado de Campeche.
 
@@ -217,9 +231,11 @@ XVII. Las demás dispuestas por la Ley Federal del Trabajo, la Ley de la Adminis
 
 Las personas que integran la Junta de Gobierno podrán ser suplidas en las sesiones. Las o los suplentes de las personas titulares de las Secretarías que forman parte de la Junta de Gobierno deberán tener, por lo menos, el nivel de Subsecretario o Subsecretaria.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 13.
 
-La Junta de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto del Centro con sujeción a las disposiciones legales correspondientes y, salvo aquellas facultades referidas en la Ley de la Administración Pública Paraestatal del Estado de Campeche, podrá delegar facultades extraordinarias a la Directora o Director General para actuar, en casos urgentes debidamente fundados y motivados, en representación del Centro, obligándolo a dar cuenta de manera inmediata a los integrantes del órgano colegiado a fin de que en la siguiente sesión ratifique el contenido de la decisión tomada.
+La Junta de Gobierno podrá acordar la realización de todas las operaciones inherentes al objeto del Centro con sujeción a las disposiciones legales correspondientes y, salvo aquellas facultades referidas en la Ley de la Administración Pública Paraestatal del Estado de Campeche, podrá delegar facultades extraordinarias a la Directora o Director General para actuar, en casos urgentes debidamente fundados y motivados, en representación del Centro, obligándolo a dar cuenta de manera inmediata a las y los integrantes del órgano colegiado a fin de que en la siguiente sesión ratifique el contenido de la decisión tomada.
 
 #### SECCIÓN II. DE LAS SESIONES DE LA JUNTA DE GOBIERNO
 
@@ -227,11 +243,15 @@ La Junta de Gobierno podrá acordar la realización de todas las operaciones inh
 
 La Junta de Gobierno llevará a cabo sesiones ordinarias por lo menos una vez cada trimestre; la Presidenta o el Presidente podrá convocar a sesiones extraordinarias por sí o a solicitud de la mayoría de sus integrantes.
 
-La Junta de Gobierno sesionará válidamente contando con la presencia de la Presidenta o el Presidente y la mayoría de sus integrantes. Las resoluciones se tomarán por mayoría de votos de los integrantes presentes, teniendo la Presidenta o el Presidente voto de calidad, para el caso de empate.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+La Junta de Gobierno sesionará válidamente contando con la presencia de la Presidenta o el Presidente y la mayoría de sus integrantes. Las resoluciones se tomarán por mayoría de votos de las y los integrantes presentes, teniendo la Presidenta o el Presidente voto de calidad, para el caso de empate.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 15.
 
-Los integrantes de la Junta de Gobierno y, en su caso, sus suplentes tendrán derecho a voz y voto.
+Las y los integrantes de la Junta de Gobierno y, en su caso, sus suplentes tendrán derecho a voz y voto.
 
 ###### Artículo 16.
 
@@ -527,7 +547,9 @@ VII. No estar inhabilitada o inhabilitado para desempeñar un empleo, cargo o co
 
 VIII. Las demás dispuestas por la Ley Federal del Trabajo, la Ley de la Administración Pública Paraestatal del Estado de Campeche, los reglamentos correspondientes y demás disposiciones aplicables.
 
-Las atribuciones de los conciliadores serán las que establezca la Ley Federal de Trabajo y el Reglamento Interior del Centro de Conciliación Laboral del Estado de Campeche.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+Las atribuciones de las y los conciliadores serán las que establezca la Ley Federal del Trabajo y el Reglamento Interior del Centro de Conciliación Laboral del Estado de Campeche.
 
 ### CAPÍTULO V. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN DEL CENTRO
 
@@ -584,3 +606,17 @@ OCTAVO. Se derogan todas las disposiciones legales y reglamentarias de igual o m
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los veinticinco días del mes de marzo del año dos mil veinte
 
 C. Merck Lenin Estrada Mendoza. Diputado Presidente. C. María del C. Guadalupe Torres Arango. Diputada Secretaria. C. Etelvina Correa Damián. Diputada Secretaria. RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 136 POR EL QUE "SE REFORMA EL ARTÍCULO 3; LA FRACCIÓN III DEL ARTÍCULO 8; LA FRACCIÓN I Y LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN II DEL ARTÍCULO 10; EL ARTÍCULO 13; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14; EL ARTÍCULO 15 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 49 Y, SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 2, TODOS DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo no mayor a 60 días contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las modificaciones pertinentes al Reglamento Interior del Centro de Conciliación Laboral del Estado de Campeche.
+
+Asimismo, el Ejecutivo Estatal deberá realizar los cambios que considere pertinentes en los instrumentos jurídicos del marco normativo administrativo.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto
