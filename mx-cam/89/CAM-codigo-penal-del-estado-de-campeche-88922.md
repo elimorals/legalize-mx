@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2022-10-19"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2089,17 +2089,17 @@ b) Serán considerados instrumentos del delito de abigeato las cabalgaduras o ve
 
 c) Este delito se sancionará de la forma siguiente:
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-I.- Con prisión de dos a cinco años y multa de trescientas a cuatrocientas unidades de medida y actualización diarias vigentes cuando se cometa en una cabeza de ganado o una colonia de abejas;
+I.- Con prisión de tres a cinco años y multa de trescientas a cuatrocientas unidades de medida y actualización diarias vigentes cuando se cometa en una cabeza de ganado o una colonia de abejas.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-II.- Con prisión de cinco a siete años y multa de cuatrocientas a quinientas unidades de medida y actualización diarias vigentes cuando se cometa en hasta tres cabezas de ganado o el mismo número de colonias de abejas;
+II.- Con prisión de cinco a ocho años y multa de cuatrocientas a quinientas unidades de medida y actualización diarias vigentes cuando se cometa en hasta tres cabezas de ganado o el mismo número de colonias de abejas.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-III.- Con prisión de siete a diez años y multa de quinientas a mil unidades de medida y actualización diarias vigentes cuando se cometa en más de tres cabezas de ganado o el mismo número de colonias de abejas.
+III.- Con prisión de ocho a once años y multa de quinientas a mil unidades de medida y actualización diarias vigentes cuando se cometa en más de tres cabezas de ganado o el mismo número de colonias de abejas.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -4872,3 +4872,13 @@ Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del 
 Tercero.- La modificación o reubicación de los tipos penales a que se refiere este decreto, no implicará la libertad de los responsables por los delitos cometidos con anterioridad a su vigencia, siempre que los hechos se comprendan en los tipos penales modificados.
 
 Cuarto.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 136 POR EL QUE “SE REFORMAN LAS FRACCIONES I, II Y III DEL INCISO C) DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 196 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+Tercero.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
