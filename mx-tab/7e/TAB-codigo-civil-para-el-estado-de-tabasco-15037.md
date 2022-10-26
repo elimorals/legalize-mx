@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2022-08-31"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -923,9 +923,9 @@ Documentos
 
 Al escrito a que se refiere el artículo anterior se acompañará:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-I.- Copias certificadas de las actas de nacimiento y, en su defecto, un dictamen médico que compruebe su edad cuando por su aspecto no sea notorio que el varón y la mujer son mayores de dieciocho años;
+I.- Copias certificadas de las actas de nacimiento y, en su defecto, un dictamen médico que compruebe su edad cuando por su aspecto no sea notorio que las personas son mayores de dieciocho años;
 
 II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
@@ -1281,17 +1281,17 @@ Formalidades
 
 El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las solemnidades que ella exige. El Estado procurará, por todos los medios que estén a su alcance, que las personas que vivan en concubinato contraigan matrimonio. Para la realización de este fin, que es de orden público, se efectuarán campañas periódicas de convencimiento en las que colaboren los servidores públicos y maestros del Estado.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-Habrá concubinato cuando una pareja de hombre y mujer, sin impedimento para contraer matrimonio vivan juntos públicamente como si fueran marido y mujer, durante un año, o menos si hubiere hijos.
+Habrá concubinato cuando dos personas, sin impedimento para contraer matrimonio vivan juntos públicamente como pareja durante un año, o menos si hubiere hijos.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 154.
 
-Quiénes pueden contraerlo.
+Concepto y quiénes pueden contraerlo
 
-Pueden contraer matrimonio: el hombre y la mujer que hayan cumplido dieciocho años de edad.
+El matrimonio, es la unión de dos personas, mayores de dieciocho años de edad, indistintamente del género, para realizar la comunidad de vida, en donde ambos se procuran respeto, igualdad y ayuda mutua.
 
 ###### ARTICULO 155.
 
@@ -1725,19 +1725,21 @@ Cuando ambos adquieran
 
 Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en ese caso el que administre será considerado como mandatario.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 216.
 
 Responsabilidad por daños
 
-El marido responde a la mujer y ésta a aquél de los daños y perjuicios que se causaren por dolo, culpa o negligencia.
+Las personas cónyuges responderán mutuamente entre sí de los daños y perjuicios que se causaren por dolo, culpa o negligencia.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 217.
 
 Servicios entre cónyuges
 
-> <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
-
-En ninguno de los regímenes matrimoniales el marido podrá cobrar a la mujer ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestaren o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro no originado por enfermedad, se encargare temporalmente de la administración de los bienes del impedido, tendrá derecho a que se le retribuya por este servicio en proporción a su importancia y al resultado que produjere.
+En ninguno de los regímenes matrimoniales las personas cónyuges podrán cobrarse el uno al otro retribución u honorario alguno por los servicios personales que le prestaren o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente, de la administración de los bienes del impedido, tendrá derecho a que se le retribuya por este servicio en proporción a su importancia y al resultado que produjere.
 
 #### SECCION CUARTA. DE LAS DONACIONES ANTENUPCIALES
 
@@ -2139,7 +2141,9 @@ I.- Designación de persona a quien sean confiados los hijos del matrimonio, tan
 
 II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento; en su caso, el Juez ordenará que la mujer y los hijos continúen en el domicilio conyugal durante la tramitación del juicio;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento; en su caso, el Juez ordenará a la persona cónyuge que quede a cargo de los hijos, que estos dos últimos continúen en el domicilio conyugal durante la tramitación del juicio;
 
 IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, así como la forma de hacer el pago y la garantía que debe otorgarse para asegurarlo; y
 
@@ -2361,11 +2365,11 @@ La división de bienes comunes, si los hubiere, se efectuará con arreglo a lo p
 
 Derecho del cónyuge a alimentos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-La mujer inocente que carezca de bienes y durante el matrimonio se haya dedicado a las labores del hogar o al cuidado de los hijos, o que esté imposibilitada para trabajar, tendrá derecho a alimentos.
+La persona cónyuge que carezca de bienes y durante el matrimonio se haya dedicado a las labores del hogar o al cuidado de los hijos, o que esté imposibilitada o imposibilitado para trabajar, tendrá derecho a alimentos.
 
-El marido inocente sólo tendrá derecho a alimentos cuando carezca de bienes y esté imposibilitado para trabajar.
+> <small>(DEROGADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 El excónyuge inocente tiene derecho, además, a que el culpable lo indemnice por los daños y perjuicios que el divorcio le haya causado. Los daños y perjuicios y la indemnización a que se refiere este artículo, se rigen por lo dispuesto en este Código para los hechos ilícitos.
 
@@ -2401,11 +2405,13 @@ Por consanguinidad
 
 El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 289.
 
 Por afinidad
 
-El parentesco de afinidad es el que se contrae por el matrimonio entre el varón y los parientes de la mujer y entre la mujer y los parientes del varón. Disuelto el matrimonio desaparece el parentesco por afinidad en la línea colateral, pero subsiste en la línea recta, en todos los casos en que esta ley se refiere a tal parentesco.
+El parentesco de afinidad es el que se contrae por el matrimonio entre los parientes de las personas cónyuges. Disuelto el matrimonio desaparece el parentesco por afinidad en la línea colateral, pero subsiste en la línea recta, en todos los casos en que esta ley se refiere a tal parentesco.
 
 ###### ARTICULO 290.
 
@@ -25651,11 +25657,13 @@ Prohibición
 
 No se puede someter a árbitros los asuntos en que está prohibido transigir.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 3275.
 
 Negocios comunes de los esposos
 
-El marido no puede sin el consentimiento de la mujer, ni ésta sin el de aquél, comprometer en árbitros los negocios que afecten bienes comunes.
+Queda prohibido a las personas cónyuges, comprometer en árbitros los negocios que afecten bienes comunes del matrimonio, sin el consentimiento de una de las partes.
 
 ###### ARTICULO 3276.
 
@@ -25884,3 +25892,11 @@ P.O. 31 DE AGOSTO DE 2022.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 079.- POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
