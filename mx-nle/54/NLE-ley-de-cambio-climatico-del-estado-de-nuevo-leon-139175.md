@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-cambio-climatico-del-estado-de-nuevo-leon-139175"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-20"
-last_updated: "2020-12-30"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Número 143 del Periódico Oficial del Estado de Nuevo León, el miércoles 20 de noviembre de 2019.
 
@@ -615,9 +615,17 @@ II. Crear proyectos que contribuyan a incrementar y preservar los recursos natur
 
 III. Diseñar e implementar programas de educación, concientización y difusión de información respecto a los efectos del cambio climático, así como las medidas de mitigación y adaptación al mismo;
 
-IV. Desarrollar estudios e investigaciones en materia de mitigación y adaptación del cambio climático; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-V. Los demás proyectos y acciones en materia de cambio climático relacionadas con la adaptación a los efectos y mitigación de Emisiones de Gases y Compuestos de Efecto Invernadero.
+IV. Desarrollar estudios e investigaciones en materia de mitigación y adaptación del cambio climático;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+V. Desarrollar tecnología relacionada a la mitigación de Emisiones de Gases y Compuestos de Efecto Invernadero; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+VI. Los demás proyectos y acciones en materia de cambio climático relacionadas con la adaptación a los efectos y mitigación de Emisiones de Gases y Compuestos de Efecto Invernadero.
 
 #### SECCIÓN III. DEL INVENTARIO Y REGISTRO ESTATAL DE EMISIONES DE GASES Y COMPUESTOS DE EFECTO INVERNADERO
 
@@ -918,3 +926,9 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 421. SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 171. SE REFORMAN LAS FRACCIONES IV Y V, Y SE ADICIONA LA FRACCIÓN VI, TODAS DEL ARTÍCULO 31, DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
