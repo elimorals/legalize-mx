@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-la-obesidad-y-el-sobrepeso-en-el-estado-y-105
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-23"
-last_updated: "2018-01-08"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR LA OBESIDAD Y EL SOBREPESO EN EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 23 de enero de 2015.
 
@@ -319,7 +319,11 @@ II. Llevar a cabo acciones específicas de orientación alimentaria, promoviendo
 
 III. Cumplir con los lineamientos federales y estatales de los programas de salud escolar, así como a lo establecido en las Normas Oficiales en materia de salud que sean aplicables, tanto en lo referente a los establecimientos de consumo, como de venta y acceso para los escolares; así como en los menús que se ofrezcan a las niñas, niños y adolescentes en las escuelas de tiempo completo;
 
-IV. Llevar a cabo las acciones conducentes para que durante la jornada escolar de los planteles adscritos a la Secretaría de Educación, se contribuya a la realización de 30 minutos mínimos de activación física en los escolares, sus docentes y directivos;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+IV. Llevar a cabo las acciones conducentes para que, durante la jornada escolar de los planteles adscritos a la Secretaría de Educación, se contribuya a la realización de por lo menos 30 minutos mínimos de activación física en los escolares, sus docentes y directivos.
+
+Para cumplir con lo establecido en el párrafo anterior, los planteles promoverán la participación de estudiantes de las licenciaturas en Educación Física, en ciencias del ejercicio o similares, mediante la promoción de convenios con Universidades públicas y privadas con el fin de que presten su servicio social.
 
 V. Realizar campañas de difusión masiva para la adquisición de hábitos alimentarios correctos y la activación física diaria en los planteles de educación básica del Estado;
 
@@ -520,3 +524,9 @@ En caso de que los recursos aportados al fondo no sean suficientes para garantiz
 Para efecto de los cálculos señalados en los párrafos que anteceden se utilizará la información más reciente con que cuente el Instituto Nacional de Estadística y Geografía.
 
 El Ejecutivo del Estado fijará los lineamientos y las reglas de operación de fondo antes descrito antes del 1 de febrero del 2018.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 187. SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 20 DE LA LEY PARA PREVENIR LA OBESIDAD Y EL SOBREPESO EN EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
