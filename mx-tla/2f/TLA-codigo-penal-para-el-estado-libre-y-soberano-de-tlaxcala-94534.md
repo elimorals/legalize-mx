@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2022-10-10"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -3021,8 +3021,6 @@ XI. Existe odio cuando el sujeto activo lo comete por prejuicio, por uno o más 
 
 El aborto es la expulsión del producto de la preñez antes del tiempo en que el feto puede vivir.
 
-(NOTA: EL 2 DE DICIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 11 DE OCTUBRE DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 116 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 242.
@@ -3475,9 +3473,25 @@ III. Por quien desempeñe un cargo o empleo público o ejerza su profesión, uti
 
 IV. Por la persona que tenga a la víctima bajo su custodia, guarda o educación o aproveche la confianza en ella depositada;
 
-V. Fuere cometido al encontrarse la víctima a bordo de un vehículo de servicio público, y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-VI. Fuere cometido en despoblado o en lugar solitario.
+V. Al encontrarse la víctima a bordo de un vehículo de servicio público;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+VI. En despoblado o en lugar solitario;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+VII. Posterior al suministro de alguna sustancia que afecte su comportamiento y habilidades motoras;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+VIII. En el interior de centros educativos, culturales, deportivos, religiosos, de trabajo, o de cualquier otro lugar de naturaleza social o pública, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+IX. En contra de la víctima por su condición de género, preferencia sexual, y/o identidad sexual.
 
 ### CAPÍTULO III. ESTUPRO
 
@@ -5562,6 +5576,18 @@ Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente
 P.O. 10 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 116.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 120.- SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONAN LAS FRACCIONES VII, VIII Y IX AL ARTÍCULO 292 DEL CÓDIGO PENAL PARA EL ESTADO DE TLAXCALA”.]
 
 ###### ARTÍCULO PRIMERO.
 
