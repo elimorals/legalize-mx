@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2022-06-10"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -109,11 +109,19 @@ VII. Respeto: reconocimiento a la diversidad cultural y de pensamiento;
 
 VIII. Solidaridad: deberá fomentarse el apoyo y la colaboración entre los jóvenes y en sus relaciones con otros grupos sociales, con la finalidad de fortalecer los vínculos de unidad y de desarrollo;
 
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 IX. Transversalidad: que consiste en la elaboración y ejecución de estrategias, programas y acciones coordinadas o conjuntas en materia de juventud, entre dependencias y entidades de la Administración Pública Federal, órganos constitucionales autónomos, órganos con autonomía legal, gobierno del Estado, y de los Municipios, en el ámbito de sus respectivas competencias.
 
-En el ejercicio de la transversalidad además del Estado y los Municipios, se buscará la participación de los sectores privado y social; y
+En el ejercicio de la transversalidad además del Estado y los Municipios, se buscara la participación de los sectores privado y social;
 
-X. Universalidad: Todos los jóvenes gozan de los mismos derechos. Se buscará invariablemente el beneficio de la generalidad de los jóvenes, sin exclusión ni discriminación alguna motivada por cualquiera de los actos a que se refiere este artículo;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+X. Universalidad: Todos los jóvenes gozan de los mismos derechos. Se buscará invariablemente el beneficio de la generalidad de los jóvenes, sin exclusión ni discriminación alguna motivada por cualquiera de los actos a que se refiere este artículo; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XI. Cultura de la Paz: Conjunto de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos, tratando de atacar sus causas para solucionar problemas mediante el diálogo y la negociación entre las personas y los grupos sociales.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES
 
@@ -567,7 +575,9 @@ Las jóvenes en estado de embarazo tendrán derecho a asistir a la escuela y no 
 
 Asimismo, se les otorgará la información necesaria para evitar subsecuentes embarazos no deseados, mediante las medidas preventivas que le resulten más convenientes facilitándoles el acceso a ellas.
 
-### CAPÍTULO IV. DE LAS POLÍTICAS DE PROMOCIÓN DE LA EQUIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO IV. DE LAS POLÍTICAS DE PROMOCIÓN DE LA EQUIDAD Y DE LA CULTURA DE LA PAZ
 
 ### CAPÍTULO V. DEL PROGRAMA ESTATAL DE LA JUVENTUD
 
@@ -584,6 +594,22 @@ III. La superación de la exclusión cultural o étnica;
 IV. Los jóvenes con discapacidades; y
 
 V. Los jóvenes con Síndrome de Inmunodeficiencia Adquirida.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 35 Bis.
+
+Las políticas de promoción de la cultura de la paz buscarán impulsar el desarrollo de la juventud bajo las siguientes finalidades:
+
+I. Difundir el derecho a la paz, a una vida sin violencia y a la fraternidad;
+
+II. Motivar la creatividad, el espíritu emprendedor, la formación en valores inherentes al respeto de los Derechos Humanos y Libertades Fundamentales, favoreciendo en todo caso la comprensión, la tolerancia, la amistad, la solidaridad, la justicia y la democracia;
+
+III. Alentar programas e iniciativas que canalicen las relaciones solidarias y de cooperación de las personas jóvenes;
+
+IV. El reconocimiento de la dignidad humana y el valor inherente a los derechos iguales e inalienables de todas las personas jóvenes; y
+
+V. Promover mecanismos de resolución de controversias mediante negociación y mediación ante alguna problemática social.
 
 ### CAPÍTULO VI. DE LOS INSTITUTOS MUNICIPALES DE LA JUVENTUD
 
@@ -619,9 +645,13 @@ b) Consolidar su incorporación a la actividad económica mediante una ocupació
 
 c) Establecer mecanismos para garantizar los derechos de los jóvenes en el área laboral, sin menospreciar su condición social o económica;
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-d) Fomentar la contratación de jóvenes a fin de que adquieran conocimientos prácticos y experiencia profesional;
+d) Fomentar la contratación de jóvenes a fin de que adquieran conocimientos prácticos y experiencia profesional, mediante el fortalecimiento de convenios para la creacion de nuevos empleos con Instituciones públicas y privadas, conforme lo establece la Ley de Fomento a la Inversión y al Empleo para el Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+e) Fomentar la no discriminación de las y los jóvenes en áreas laborales.
 
 VII. Sistema de becas e intercambios académicos nacionales y extranjeros que promuevan, apoyen y fortalezcan el desarrollo educativo de los jóvenes;
 
@@ -644,6 +674,10 @@ XIII. Mecanismos para el acceso de los jóvenes a actividades físicas y al disf
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XIV. Acciones afirmativas para los sectores de los jóvenes en zonas de marginación socioeconómica rural o urbana y de atención prioritaria, así como en desventaja social;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XIV Bis. Mecanismos para impulsar la inclusión y continuidad en la educación a los jóvenes de atención prioritaria, en desventaja social, en zonas de marginación socioeconómica, así como a la juventud migrante.
 
 XV. Definición e implementación de programas y proyectos juveniles que incluyan las verdaderas aspiraciones, intereses y prioridades de los jóvenes del Estado;
 
@@ -782,3 +816,21 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 157. SE REFORMAN POR MODIFICACIÓN LAS FRACCIONES VI Y VII Y POR ADICIÓN DE UNA FRACCIÓN VIII AL ARTÍCULO 15 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 167. SE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 37 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 168. SE REFORMAN POR MODIFICACIÓN LAS FRACCIONES IX Y X DEL ARTÍCULO 3 Y LA DENOMINACIÓN DEL CAPÍTULO IV “DE LAS POLÍTICAS DE PROMOCIÓN DE LA EQUIDAD”, Y POR ADICIÓN DE LA FRACCIÓN XI DEL ARTÍCULO 3 Y EL ARTÍCULO 35 BIS, DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 169. SE REFORMA POR MODIFICACIÓN EL INCISO D) Y POR ADICIÓN DE UN INCISO E) A LA FRACCIÓN VI DEL ARTÍCULO 37 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
