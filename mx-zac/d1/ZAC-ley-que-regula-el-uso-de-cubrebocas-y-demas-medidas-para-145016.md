@@ -4,7 +4,7 @@ identifier: "ZAC-ley-que-regula-el-uso-de-cubrebocas-y-demas-medidas-para-145016
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-21"
-last_updated: "2020-12-02"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRASMISIÓN DE LA ENFERMEDAD COVID-19 EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE DICIEMBRE DE 2020.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Ley publicada en el Suplemento 2 al Número 94 del Periódico Oficial del Estado de Zacatecas, el sábado 21 de noviembre de 2020.
 
@@ -53,11 +51,13 @@ LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRASMISIÓ
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-Objeto de la ley
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-Artículo 1
+Objeto de la Ley
 
-1. La presente ley es de orden público, interés social y observancia general en el estado de Zacatecas. Tiene por objeto establecer, como medidas de prevención y cuidado de la salud pública, el uso obligatorio de cubrebocas en las personas, entre otras, para prevenir la trasmisión y riesgos de contagio de la enfermedad COVID-19.
+###### Artículo 1.
+
+1. La presente ley es de orden público, interés social y observancia general en el estado de Zacatecas. Tiene por objeto establecer, como medidas de prevención y cuidado de la salud pública, el uso de cubrebocas en las personas, entre otras, para prevenir la trasmisión y riesgos de contagio de la enfermedad COVID-19.
 
 De la supletoriedad
 
@@ -105,25 +105,51 @@ De los lugares de uso obligatorio
 
 Artículo 6
 
-1. El uso de cubrebocas será obligatorio en los lugares siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-I. En vías y espacios públicos o de uso común, cerrados o al aire libre;
+1. El uso de cubrebocas no será obligatorio en los lugares siguientes:
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+I. En vías y espacios públicos o de uso común y al aire libre;
 
 II. En el interior de establecimientos ya sea de comercio, industria o servicios;
 
-III. En los centros laborales públicos o privados;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-IV. En los lugares de culto religioso;
+III. En los centros laborales públicos o privados, en aquellos espacios donde no se no comparta el lugar físico de trabajo, y
 
-V. En los medios de transporte de pasajeros, ya sea como usuario, operador o conductor;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-VI. En los establecimientos que elaboren o manipulen alimentos;
+IV. En los lugares de culto religioso donde sea posible mantener una sana distancia.
 
-VII. En consultorios, hospitales o centros de salud, públicos o privados; y
+V. (DEROGADA, P.O. 26 DE OCTUBRE DE 2022)
 
-VIII. Los demás que determinen las autoridades sanitarias.
+VI. (DEROGADA, P.O. 26 DE OCTUBRE DE 2022)
 
-2. La obligatoriedad de usar cubrebocas no sustituye las medidas adicionales decretadas por las autoridades sanitarias.
+VII. (DEROGADA, P.O. 26 DE OCTUBRE DE 2022)
+
+VIII. (DEROGADA, P.O. 26 DE OCTUBRE DE 2022)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+2. El uso de cubrebocas será obligatorio en los lugares siguientes:
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+I. En los medios de transporte de pasajeros, ya sea como usuario, operador o conductor;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+II. En los establecimientos donde se elaboren o manipulen alimentos;
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+III. En consultorios, hospitales o centros de salud, públicos o privados, y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+IV. Los demás que determinen las autoridades de salud.
 
 Clasificación de los cubrebocas
 
@@ -221,9 +247,11 @@ Artículo 13
 
 Vigilancia sanitaria
 
-Artículo 14
+###### Artículo 14.
 
-1. Corresponde a la Secretaría, en coordinación con los Servicios de Salud, la vigilancia sanitaria e imposición de sanciones y medidas cautelares que deriven de esta ley.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+1. Corresponde a la Secretaría, en coordinación con las demás autoridades competentes, la vigilancia sanitaria que derive de esta ley.
 
 2. La participación de las autoridades municipales estará determinada por los convenios que celebren con la Secretaría.
 
@@ -325,19 +353,9 @@ Artículo 23
 
 2. Los recursos obtenidos por la aplicación de sanciones económicas previstas en esta ley, serán transferidos a los Servicios de Salud para destinarlos en la compra de insumos y suministros médicos para las áreas de atención COVID-19.
 
-Imposición del arresto
+###### Artículo 24.
 
-Artículo 24
-
-> <small>(F. DE E., P.O. 2 DE DICIEMBRE DE 2020)</small>
-
-1. Se sancionará con arresto de hasta doce horas:
-
-I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
-
-II. A la persona que, en rebeldía, se niegue a cumplir con los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
-
-2. Sólo procederá esta sanción, si previamente se aplicó cualquiera otra de las sanciones a que se refiere este Capítulo o bien, si la persona ejerce violencia física o verbal sobre el personal que intervenga en la verificación.
+(DEROGADO, P.O. 26 DE OCTUBRE DE 2022)
 
 Del procedimiento de aplicación de sanciones
 
@@ -362,3 +380,13 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Tercera Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los veinte días del mes de noviembre del año dos mil veinte. GOBERNADOR DEL ESTADO.- ALEJANDRO TELLO CRISTERNA. SECRETARIO GENERAL DE GOBIERNO.- JEHÚ EDUÍ SALAS DÁVILA. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 144.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRASMISIÓN DE LA ENFERMEDAD COVID-19 EN EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
