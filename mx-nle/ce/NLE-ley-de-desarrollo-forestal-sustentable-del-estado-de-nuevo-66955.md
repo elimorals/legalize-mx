@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-forestal-sustentable-del-estado-de-nuevo-6695
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-07"
-last_updated: "2020-12-30"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 7 de febrero de 2009.
 
@@ -67,7 +67,9 @@ VII. Regular la silvicultura y el aprovechamiento sustentable de los recursos fo
 
 VIII. Estimular las certificaciones forestales de bienes y servicios ambientales adecuados a las necesidades locales;
 
-IX. Regular las acciones que tengan como finalidad la prevención, combate y control de incendios así como de plagas y enfermedades forestales;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+IX. Regular las acciones que tengan como finalidad la prevención, combate y control de Incendios Forestales así como de plagas y enfermedades forestales;
 
 X. Promover el desarrollo de la infraestructura forestal sin perjuicio de la conservación de los recursos forestales;
 
@@ -129,181 +131,385 @@ XV. Cambio de uso del suelo en terreno forestal: La remoción total o parcial de
 
 XVI. Centro de almacenamiento: Lugar donde se depositan temporalmente materias primas forestales para su conservación y posterior traslado;
 
-XVII. Centro de transformación: Instalación industrial o artesanal, fija o móvil, donde por procesos físicos, mecánicos o químicos se elaboran productos derivados de materias primas forestales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XVIII. Certificación forestal: Acreditación de un manejo forestal sustentable;
+XVII. Centros de Manejo del Fuego: Se refiere a los centros Regiones, Estales, Municipales o Intermunicipales de Manejo del Fuego, según corresponda, que sean establecidos de conformidad con las disposiciones de esta Ley o de la Ley General, para ejecutar y llevar a cabo las tareas de prevención, combate y control de Incendios Forestales.
 
-XIX. Código de identificación: Clave alfanumérica que otorga de oficio la SEMARNAT para efectos de identificar la procedencia de las materias primas forestales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XX. Colecta biotecnológica con fines comerciales: Obtención o remoción de recursos biológicos forestales para la generación de compuestos químicos, genes, proteínas, compuestos secundarios, estructuras moleculares, procesos metabólicos y otros resultados, con propósitos lucrativos;
+XVIII. Centro de transformación: Instalación industrial o artesanal, fija o móvil, donde por procesos físicos, mecánicos o químicos se elaboran productos derivados de materias primas forestales;
 
-XXI. Colecta científica: Obtención o remoción de recursos biológicos forestales para la generación de información científica básica y para la investigación biotecnológica sin fines comerciales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XXII. CONAFOR: Comisión Nacional Forestal;
+XIX. Certificación forestal: Acreditación de un manejo forestal sustentable;
 
-XXIII. Conjunto de predios: Grupo de predios adyacentes con las mismas características ecológicas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XXIV. Consejo: El Consejo Forestal del Estado de Nuevo León;
+XX. Código de identificación: Clave alfanumérica que otorga de oficio la SEMARNAT para efectos de identificar la procedencia de las materias primas forestales;
 
-XXV. Consejo Nacional: El Consejo Nacional Forestal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XXVI. Conservación de suelos: Conjunto de prácticas y obras para controlar los procesos de degradación de suelos y mantener su productividad;
+XXI. Colecta biotecnológica con fines comerciales: Obtención o remoción de recursos biológicos forestales para la generación de compuestos químicos, genes, proteínas, compuestos secundarios, estructuras moleculares, procesos metabólicos y otros resultados, con propósitos lucrativos;
 
-XXVII. Conservación forestal: El mantenimiento de las condiciones que propician la persistencia y evolución de un ecosistema forestal natural o inducido, sin degradación del mismo ni pérdida de sus funciones;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XXVIII. Control: La inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento y en su Reglamento;
+XXII. Colecta científica: Obtención o remoción de recursos biológicos forestales para la generación de información científica básica y para la investigación biotecnológica sin fines comerciales;
 
-XXIX. Convenio: Instrumento jurídico por medio del cual la Federación, el Estado y/o los municipios acuerdan la realización de acciones para cumplir con las obligaciones y atribuciones establecidas en diversos ordenamientos que en materia forestal se encuentren vigentes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XXX. Corporación: La Corporación para el Desarrollo Agropecuario de Nuevo León a través de la Dirección de Gestión Forestal;
+XXIII. CONAFOR: Comisión Nacional Forestal;
 
-XXXI. Cuenca hidrológico-forestal: La unidad de espacio físico de planeación y desarrollo, que comprende el territorio donde se encuentran los ecosistemas forestales y donde el agua fluye por diversos cauces y converge en un cauce común, constituyendo el componente básico de la región forestal, que a su vez se divide en subcuencas y microcuencas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XXXII. Cultura forestal: El conjunto de conocimientos básicos, hábitos y actitudes en relación a la preservación de la biodiversidad florística, faunística y de especies forestales, así como de los satisfactores que le proporcionan a la sociedad, adquiridos por cualquier medio;
+XIV. CONANP: Comisión Nacional de Áreas Naturales Protegidas;
 
-XXXIII. Degradación de suelos: El proceso que describe el fenómeno causado por el ser humano o en forma natural, que consiste en la disminución de la capacidad presente o futura de los suelos para sustentar vida vegetal, animal o humana;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XXXIV. Degradación de tierras: Disminución de la capacidad presente o futura de los suelos, de la vegetación o de los recursos hídricos;
+XXV. Conjunto de predios: Grupo de predios adyacentes con las mismas características ecológicas;
 
-XXXV. Desertificación: Pérdida de la capacidad productiva de las tierras causada por la naturaleza o por el hombre en cualquiera de los ecosistemas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XXXVI. Ecosistema Forestal: La unidad funcional básica de interacción de los recursos forestales entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+XXVI. Consejo: El Consejo Forestal del Estado de Nuevo León;
 
-XXXVII. Embalaje de madera: Madera o productos de madera, utilizados para sujetar, contener, proteger o transportar bienes, excluidos aquéllos que sean de papel;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XXXVIII. Empresa Social Forestal: Organización productiva de comunidades o ejidos con áreas forestales permanentes y bajo programa de manejo forestal, para la producción, diversificación y transformación con capacidad agraria y empresarial;
+XXVII. Consejo Nacional: El Consejo Nacional Forestal;
 
-XXXIX. Erosión del suelo: Desprendimiento, arrastre y depósito de las partículas del suelo por acción del agua, viento u otro elemento;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XL. Estudio regional: Zonal (sic) forestal o de ordenación forestal, instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal relativos a las unidades de manejo forestal a que se refieren los artículos 62, fracción II, 83, fracción II, y 112, fracción III, de la Ley General de Desarrollo Forestal Sustentable para apoyar el manejo de los predios que las integran;
+XXVIII. Conservación de suelos: Conjunto de prácticas y obras para controlar los procesos de degradación de suelos y mantener su productividad;
 
-XLI. Fondo: El Fondo Estatal Forestal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XLII. Forestación: El establecimiento y desarrollo de vegetación forestal en terrenos preferentemente forestales o temporalmente forestales con propósitos de conservación, restauración o producción comercial;
+XIX. Conservación forestal: El mantenimiento de las condiciones que propician la persistencia y evolución de un ecosistema forestal natural o inducido, sin degradación del mismo ni pérdida de sus funciones;
 
-XLIII. Impacto ambiental: La modificación del ambiente ocasionada por la acción del ser humano o de la naturaleza;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XLIV. Incendio forestal: El siniestro causado intencional, accidental o fortuitamente por el fuego, que se presenta en áreas cubiertas de vegetación, árboles, pastizales, maleza, matorrales y, en general, en cualquiera de los diferentes tipos de asociaciones vegetales en terrenos forestales o preferentemente forestales;
+XXX. Control: La inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento y en su Reglamento;
 
-XLV. Inventario: El Inventario Estatal Forestal y de Suelos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XLVI. Leña: Materia prima en rollo o en raja proveniente de vegetación forestal maderable que se utiliza como combustible o celulosa, así como para hacer tableros y obtener carbón;
+XXXI. Convenio: Instrumento jurídico por medio del cual la Federación, el Estado y/o los municipios acuerdan la realización de acciones para cumplir con las obligaciones y atribuciones establecidas en diversos ordenamientos que en materia forestal se encuentren vigentes;
 
-XLVII. Ley General: La Ley General de Desarrollo Forestal Sustentable;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XLVIII. Madera con escuadría: Materia prima en cortes angulares proveniente de vegetación forestal maderable, en cuya elaboración se utilizan equipos mecánicos;
+XXXII. Corporación: La Corporación para el Desarrollo Agropecuario de Nuevo León a través de la Dirección de Gestión Forestal y de Acuacultura de la Corporación para el Desarrollo Agropecuario de Nuevo León;
 
-XLIX. Madera en rollo: Troncos de árboles derribados o seccionados con diámetro mayor a diez centímetros en cualquiera de sus extremos, sin incluir la corteza y sin importar su longitud;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-L. Madera labrada: Materia prima con cortes angulares proveniente de vegetación forestal maderable, en cuya elaboración se utilizan equipos manuales o motosierras;
+XXXIII. Cuenca hidrológico-forestal: La unidad de espacio físico de planeación y desarrollo, que comprende el territorio donde se encuentran los ecosistemas forestales y donde el agua fluye por diversos cauces y converge en un cauce común, constituyendo el componente básico de la región forestal, que a su vez se divide en subcuencas y microcuencas;
 
-LI. Manejo forestal: El proceso que comprende el conjunto de acciones y procedimientos que tienen por objeto la ordenación, cultivo, protección, conservación, restauración y aprovechamiento de los recursos forestales de un ecosistema forestal, teniendo en cuenta los principios ecológicos, el funcionamiento integral y la interdependencia de recursos y sin que merme la capacidad productiva de los ecosistemas y recursos existentes en la misma;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LII. Manejo integral de cuencas: Planeación y ejecución de actividades dentro del ámbito de las cuencas hidrológico-forestales que incluyen todos los componentes ambientales, sociales y productivos relativos a las mismas;
+XXXIV. Cultura forestal: El conjunto de conocimientos básicos, hábitos y actitudes en relación a la preservación de la biodiversidad florística, faunística y de especies forestales, así como de los satisfactores que le proporcionan a la sociedad, adquiridos por cualquier medio;
 
-LIII. Materias primas forestales: Los productos del aprovechamiento de los recursos forestales que no han sufrido procesos de transformación hasta el segundo grado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LIV. Medida fitosanitaria: Cualquier disposición oficial que tenga el propósito de prevenir la introducción o diseminación de plagas o enfermedades;
+XXXV. Degradación de suelos: El proceso que describe el fenómeno causado por el ser humano o en forma natural, que consiste en la disminución de la capacidad presente o futura de los suelos para sustentar vida vegetal, animal o humana;
 
-LV. Monitoreo: Proceso sistemático y periódico de evaluación para determinar los efectos causados por el manejo de recursos forestales e identificar cambios en el sistema natural o ecosistema;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LVI. Ordenación forestal: La organización económica de un área forestal tomando en cuenta sus características silvícolas, que implica la división espacial y temporal de las actividades del manejo forestal;
+XXXVI. Degradación de tierras: Disminución de la capacidad presente o futura de los suelos, de la vegetación o de los recursos hídricos;
 
-LVII. Ordenamiento forestal: Es el instrumento en el cual se identifican, agrupan y ordenan los terrenos forestales y preferentemente forestales por funciones y subfunciones biológicas ambientales, socioeconómicas, recreativas, protectoras y restauradoras, con fines de manejo y con el objeto de propiciar una mejor administración y contribuir al desarrollo forestal sustentable;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LVIII. Organismos Auxiliares: Agrupaciones de silvicultores con representación sectorial, capacidad cooperativa y de gestión, que estando legalmente constituidas y validadas por el Consejo Estatal Forestal, podrá ejecutar acciones y programas sanitarios mediante convenios de colaboración o coordinación con los gobiernos federal, estatal y municipal;
+XXXVII. Desertificación: Pérdida de la capacidad productiva de las tierras causada por la naturaleza o por el hombre en cualquiera de los ecosistemas;
 
-LIX. Plaga: Cualquier especie, raza, biotipo vegetal o animal o agente patógeno dañino que ponga en riesgo los recursos forestales, el medio ambiente, los ecosistemas o sus componentes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LX. Plano georeferenciado: Aquél que se presenta en coordenadas UTM o geográficas, con precisión a décimas de segundo de cada punto de la poligonal de los predios, ubicándolos dentro de su respectiva cuenca y subcuenca hidrológico-forestal, con una escala mínima de 1:50,000, a fin de identificar su localización;
+XXXVIII. Ecosistema Forestal: La unidad funcional básica de interacción de los recursos forestales entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-LXI. Plantación forestal comercial: El establecimiento, cultivo y manejo de vegetación forestal en terrenos temporalmente forestales o preferentemente forestales, cuyo objetivo principal es la producción de materias primas forestales destinadas a su industrialización y/o comercialización;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXII. Prevención: El conjunto de disposiciones y medidas anticipadas, para evitar el deterioro del ambiente;
+XXXIX. Embalaje de madera: Madera o productos de madera, utilizados para sujetar, contener, proteger o transportar bienes, excluidos aquéllos que sean de papel;
 
-LXIII. Procuraduría: Procuraduría Federal de Protección al Ambiente;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXIV. Producto forestal maderable: El bien obtenido del resultado de un proceso de transformación de materias primas maderables, con otra denominación, nuevas características y un uso final distinto;
+XL. Empresa Social Forestal: Organización productiva de comunidades o ejidos con áreas forestales permanentes y bajo programa de manejo forestal, para la producción, diversificación y transformación con capacidad agraria y empresarial;
 
-LXV. Programa de manejo: El componente orientado hacia la ejecución de un plan de acciones que identifica necesidades, establece prioridades y organiza acciones a corto, mediano y largo plazo, para la conservación de la biodiversidad y el aprovechamiento sustentable de los recursos naturales de un área determinada;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXVI. Programa de manejo de plantación forestal comercial: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal relativo a la plantación forestal comercial;
+XLI. Erosión del suelo: Desprendimiento, arrastre y depósito de las partículas del suelo por acción del agua, viento u otro elemento;
 
-LXVII. Programa de manejo forestal: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal sustentable;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXVIII. Protección de suelos: Conjunto de acciones encaminadas a evitar la degradación de los suelos y mantener las condiciones naturales de la vegetación forestal en buen estado;
+XLII. Estudio regional: Zonal (sic) forestal o de ordenación forestal, instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal relativos a las unidades de manejo forestal a que se refieren los artículos 62, fracción II, 83, fracción II, y 112, fracción III, de la Ley General de Desarrollo Forestal Sustentable para apoyar el manejo de los predios que las integran;
 
-LXIX. Protección forestal: Conjunto de disposiciones legales y medidas y de prevención y corrección que tienen por objeto evitar calamidades o catástrofes forestales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXX. Puntas: Material leñoso de hasta diez centímetros de diámetro, proveniente de la parte terminal del tronco principal de un árbol;
+XLIII. Fondo: El Fondo Estatal Forestal;
 
-LXXI. Recursos asociados: Las especies silvestres animales y vegetales, así como el agua, que coexisten en relación de interdependencia con los recursos forestales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXXII. Recursos biológicos forestales: Comprende las especies y variedades de plantas, animales y microorganismos de los ecosistemas forestales y su biodiversidad y en especial aquéllas de interés científico, biotecnológico o comercial;
+XLIV. Forestación: El establecimiento y desarrollo de vegetación forestal en terrenos preferentemente forestales o temporalmente forestales con propósitos de conservación, restauración o producción comercial;
 
-LXXIII. Recursos forestales: La vegetación de los ecosistemas forestales, sus servicios, productos y residuos, así como los suelos de los terrenos forestales y preferentemente forestales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-(SIC) Recursos forestales maderables: Los constituidos por vegetación leñosa susceptibles de aprovechamiento o uso;
+XLV. Grupo Técnico Operativo: Es el grupo de técnicos especialistas en materia de incendios forestales que forman parte de las dependencias del Grupo Directivo, encargados del Centro Estatal de Manejo del Fuego. Son designados oficialmente por el Grupo Directivo.
 
-LXXIV. Recursos forestales no maderables: La parte no leñosa de la vegetación de un ecosistema forestal, y son susceptibles de aprovechamiento o uso, incluyendo líquenes, musgos, hongos y resinas, así como los suelos de terrenos forestales y preferentemente forestales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXXV. Recursos genéticos forestales: Semillas y órganos de la vegetación forestal que existen en los diferentes ecosistemas y de los cuales dependen los factores hereditarios y la reproducción y que reciben el nombre genérico de germoplasma forestal;
+XLVI. Grupo Directivo: órgano conformado por las dependencias que establece la ley y encargado de proporcionar elementos para el establecimiento de los Grupos Técnicos Operativos, observar el cumplimiento de los Programas de Manejo del Fuego, además de operar a través de los Grupos Técnicos Operativos el Centro Estatal de Manejo del Fuego.
 
-LXXVI. Reforestación: Establecimiento inducido de vegetación forestal en terrenos forestales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXXVII. Registro: El Registro Estatal Forestal;
+XLVI (SIC). Impacto ambiental: La modificación del ambiente ocasionada por la acción del ser humano o de la naturaleza;
 
-LXXVIII. Reglamento: El Reglamento de la presente Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXXIX. Rendimiento sostenido: La producción que puede generar un área forestal en forma persistente, sin merma de su capacidad productiva;
+XLVIII. Incendio forestal: El siniestro causado intencional, accidental o fortuitamente por el fuego, que se presenta en áreas cubiertas de vegetación, árboles, pastizales, maleza, matorrales y, en general, en cualquiera de los diferentes tipos de asociaciones vegetales en terrenos forestales o preferentemente forestales;
 
-LXXX. Restauración forestal: El conjunto de actividades tendentes a la rehabilitación de un ecosistema forestal degradado, para recuperar parcial o totalmente las funciones originales del mismo y mantener las condiciones que propicien su persistencia y evolución;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXXXI. Saneamiento forestal: Las acciones técnicas encaminadas a combatir y controlar plagas y enfermedades forestales;
+XLIX. Inventario: El Inventario Estatal Forestal y de Suelos;
 
-LXXXII. Sanidad forestal: Lineamientos, medidas y restricciones para la detección, control y combate de plagas y enfermedades forestales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXXXIII. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales del Gobierno Federal;
+L. Leña: Materia prima en rollo o en raja proveniente de vegetación forestal maderable que se utiliza como combustible o celulosa, así como para hacer tableros y obtener carbón;
 
-LXXXIV. Servicios ambientales: Los que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales, tales como: la provisión del agua en calidad y cantidad; la captura de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, de los ecosistemas y formas de vida; la protección y recuperación de suelos; el paisaje y la recreación, entre otros;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXXXV. Servicios técnicos forestales: Las actividades realizadas para la planificación y ejecución de la silvicultura, el manejo forestal y la asesoría y capacitación a los propietarios o poseedores de recursos forestales para su gestión;
+LI. Ley General: La Ley General de Desarrollo Forestal Sustentable;
 
-LXXXVI. SIEM: El Sistema de Información Empresarial Mexicano establecido en la Ley de Cámaras Empresariales y sus Confederaciones;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXXXVII. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
+LII. Madera con escuadría: Materia prima en cortes angulares proveniente de vegetación forestal maderable, en cuya elaboración se utilizan equipos mecánicos;
 
-LXXXVIII. Terreno forestal: El que está cubierto por vegetación forestal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-LXXXIX. Terreno preferentemente forestal: Aquel que habiendo estado, en la actualidad no se encuentra cubierto por vegetación forestal, pero por sus condiciones de clima, suelo y topografía resulte más apto para el uso forestal que para otros usos alternativos, excluyendo aquéllos ya urbanizados;
+LIII. Madera en rollo: Troncos de árboles derribados o seccionados con diámetro mayor a diez centímetros en cualquiera de sus extremos, sin incluir la corteza y sin importar su longitud;
 
-XC. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales. La consideración de terreno forestal temporal se mantendrá durante un periodo de tiempo no inferior al turno de la plantación;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XCI. Tierra de hoja: Producto forestal no maderable compuesto de material que se origina en la parte superficial de los terrenos forestales o preferentemente forestales y que proviene de la acumulación de material orgánico de vegetación forestal en proceso de descomposición;
+LIV. Madera labrada: Materia prima con cortes angulares proveniente de vegetación forestal maderable, en cuya elaboración se utilizan equipos manuales o motosierras;
 
-XCII. Tierra de monte: Producto forestal no maderable compuesto por material de origen mineral y orgánico que se acumula sobre terrenos forestales o preferentemente forestales;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XCIII. Tierras frágiles: Aquéllas ubicadas en terrenos forestales o preferentemente forestales que son propensas a la degradación y pérdida de su capacidad productiva natural como consecuencia de la eliminación o reducción de su cobertura vegetal natural;
+LV. Mando Unificado: Es un concepto del Sistema de Comando de Incidentes que consiste en el esfuerzo unificado de un equipo interinstitucional del Gobierno del Estado, Protección Civil, la Comisión Nacional Forestal, la Comisión Nacional de Áreas Naturales Protegidas, El Grupo Directivo, el Grupo Técnico Operativo y otros, que permite a las instituciones con responsabilidad jurisdiccional, geográfica o funcional, manejar los Incendios Forestales estableciendo objetivos y estrategias comunes sin perder o abdicar su autoridad o responsabilidad institucional.
 
-XCIV. Titular del aprovechamiento: Persona con derecho a aprovechar recursos forestales por virtud de la presentación de un aviso o la autorización expedida por la SEMARNAT, de conformidad con lo dispuesto en la Ley y el Reglamento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XCV. Turno: Periodo de regeneración de los recursos forestales que comprende desde su extracción hasta el momento en que éstos son susceptibles de nuevo aprovechamiento;
+LVI. Manejo del Fuego: Es el proceso que comprende el conjunto de acciones y procedimientos que tiene por objeto evaluar y manejar los riesgos planteados por el uso del fuego, su rol ecológico, los beneficios económicos, sociales y ambientales en los ecosistemas forestales en los que ocurre;
 
-XCVI. Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XCVII. Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de sus necesidades básicas en el medio rural;
+LVII. Manejo forestal: El proceso que comprende el conjunto de acciones y procedimientos que tienen por objeto la ordenación, cultivo, protección, conservación, restauración y aprovechamiento de los recursos forestales de un ecosistema forestal, teniendo en cuenta los principios ecológicos, el funcionamiento integral y la interdependencia de recursos y sin que merme la capacidad productiva de los ecosistemas y recursos existentes en la misma;
 
-XCVIII. UTM: Proyección Trasversal Universal de Mercator, sistema utilizado para convertir coordenadas geográficas esféricas en coordenadas cartesianas planas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XCIX. Veda forestal: Restricción total o parcial de carácter temporal del aprovechamiento de uno o varios recursos forestales en una superficie determinada, establecida mediante decreto expedido por el Titular del Poder Ejecutivo Federal;
+LVIII. Manejo integral de cuencas: Planeación y ejecución de actividades dentro del ámbito de las cuencas hidrológico-forestales que incluyen todos los componentes ambientales, sociales y productivos relativos a las mismas;
 
-C. Vegetación exótica: Conjunto de plantas arbóreas, arbustivas o crasas ajenas a los ecosistemas naturales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-CI. Vegetación forestal: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando bosques, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
+LIX. Materias primas forestales: Los productos del aprovechamiento de los recursos forestales que no han sufrido procesos de transformación hasta el segundo grado;
 
-CII. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
 
-CIII. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables.
+LX. Medida fitosanitaria: Cualquier disposición oficial que tenga el propósito de prevenir la introducción o diseminación de plagas o enfermedades;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXI. Monitoreo: Proceso sistemático y periódico de evaluación para determinar los efectos causados por el manejo de recursos forestales e identificar cambios en el sistema natural o ecosistema;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXII. Ordenación forestal: La organización económica de un área forestal tomando en cuenta sus características silvícolas, que implica la división espacial y temporal de las actividades del manejo forestal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXIII. Ordenamiento forestal: Es el instrumento en el cual se identifican, agrupan y ordenan los terrenos forestales y preferentemente forestales por funciones y subfunciones biológicas ambientales, socioeconómicas, recreativas, protectoras y restauradoras, con fines de manejo y con el objeto de propiciar una mejor administración y contribuir al desarrollo forestal sustentable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXIV. Organismos Auxiliares: Agrupaciones de silvicultores con representación sectorial, capacidad cooperativa y de gestión, que estando legalmente constituidas y validadas por el Consejo Estatal Forestal, podrá ejecutar acciones y programas sanitarios mediante convenios de colaboración o coordinación con los gobiernos federal, estatal y municipal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXV. Plaga: Cualquier especie, raza, biotipo vegetal o animal o agente patógeno dañino que ponga en riesgo los recursos forestales, el medio ambiente, los ecosistemas o sus componentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXVI. Plano georeferenciado: Aquél que se presenta en coordenadas UTM o geográficas, con precisión a décimas de segundo de cada punto de la poligonal de los predios, ubicándolos dentro de su respectiva cuenca y subcuenca hidrológico-forestal, con una escala mínima de 1:50,000, a fin de identificar su localización;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXVII. Plantación forestal comercial: El establecimiento, cultivo y manejo de vegetación forestal en terrenos temporalmente forestales o preferentemente forestales, cuyo objetivo principal es la producción de materias primas forestales destinadas a su industrialización y/o comercialización;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXVIII. Prevención: El conjunto de disposiciones y medidas anticipadas, para evitar el deterioro del ambiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXIX. Procuraduría: Procuraduría Federal de Protección al Ambiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXX. Producto forestal maderable: El bien obtenido del resultado de un proceso de transformación de materias primas maderables, con otra denominación, nuevas características y un uso final distinto;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXI. Programa de manejo: El componente orientado hacia la ejecución de un plan de acciones que identifica necesidades, establece prioridades y organiza acciones a corto, mediano y largo plazo, para la conservación de la biodiversidad y el aprovechamiento sustentable de los recursos naturales de un área determinada;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXII. Programa de manejo de plantación forestal comercial: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal relativo a la plantación forestal comercial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXIII. Programa de manejo forestal: El instrumento técnico de planeación y seguimiento que describe las acciones y procedimientos de manejo forestal sustentable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXIV. Protección de suelos: Conjunto de acciones encaminadas a evitar la degradación de los suelos y mantener las condiciones naturales de la vegetación forestal en buen estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXV. Protección forestal: Conjunto de disposiciones legales y medidas y (sic) de prevención y corrección que tienen por objeto evitar calamidades o catástrofes forestales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXVI. Puntas: Material leñoso de hasta diez centímetros de diámetro, proveniente de la parte terminal del tronco principal de un árbol;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXVII. Recursos asociados: Las especies silvestres animales y vegetales, así como el agua, que coexisten en relación de interdependencia con los recursos forestales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXVIII. Recursos biológicos forestales: Comprende las especies y variedades de plantas, animales y microorganismos de los ecosistemas forestales y su biodiversidad y en especial aquéllas de interés científico, biotecnológico o comercial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXIX. Recursos forestales: La vegetación de los ecosistemas forestales, sus servicios, productos y residuos, así como los suelos de los terrenos forestales y preferentemente forestales;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXX. Recursos forestales maderables: Los constituidos por vegetación leñosa susceptibles de aprovechamiento o uso;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXXI. Recursos forestales no maderables: La parte no leñosa de la vegetación de un ecosistema forestal, y son susceptibles de aprovechamiento o uso, incluyendo líquenes, musgos, hongos y resinas, así como los suelos de terrenos forestales y preferentemente forestales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXXII. Recursos genéticos forestales: Semillas y órganos de la vegetación forestal que existen en los diferentes ecosistemas y de los cuales dependen los factores hereditarios y la reproducción y que reciben el nombre genérico de germoplasma forestal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXXIII. Reforestación: Establecimiento inducido de vegetación forestal en terrenos forestales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXXIV. Registro: El Registro Estatal Forestal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXXV. Reglamento: El Reglamento de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXXVI. Rendimiento sostenido: La producción que puede generar un área forestal en forma persistente, sin merma de su capacidad productiva;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXXVII. Restauración forestal: El conjunto de actividades tendentes a la rehabilitación de un ecosistema forestal degradado, para recuperar parcial o totalmente las funciones originales del mismo y mantener las condiciones que propicien su persistencia y evolución;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXXVIII. Saneamiento forestal: Las acciones técnicas encaminadas a combatir y controlar plagas y enfermedades forestales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+LXXXIX. Sanidad forestal: Lineamientos, medidas y restricciones para la detección, control y combate de plagas y enfermedades forestales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XC. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales del Gobierno Federal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XCI. Servicios ambientales: Los que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los recursos forestales, tales como: la provisión del agua en calidad y cantidad; la captura de carbono, de contaminantes y componentes naturales; la generación de oxígeno; el amortiguamiento del impacto de los fenómenos naturales; la modulación o regulación climática; la protección de la biodiversidad, de los ecosistemas y formas de vida; la protección y recuperación de suelos; el paisaje y la recreación, entre otros;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XCII. Servicios técnicos forestales: Las actividades realizadas para la planificación y ejecución de la silvicultura, el manejo forestal y la asesoría y capacitación a los propietarios o poseedores de recursos forestales para su gestión;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XCIII. SIEM: El Sistema de Información Empresarial Mexicano establecido en la Ley de Cámaras Empresariales y sus Confederaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XCIV. Sistema de Comando de Incidentes: Es la combinación de instalaciones, equipamiento, personal, protocolos, procedimientos y comunicaciones operando en una estructura organizacional común, con la responsabilidad de administrar los recursos asignados para lograr efectivamente los objetivos operacionales pertinentes en un incidente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XCV. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XCVI. Terreno forestal: El que está cubierto por vegetación forestal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XCVII. Terreno preferentemente forestal: Aquel que habiendo estado, en la actualidad no se encuentra cubierto por vegetación forestal, pero por sus condiciones de clima, suelo y topografía resulte más apto para el uso forestal que para otros usos alternativos, excluyendo aquéllos ya urbanizados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XCVIII. Terreno temporalmente forestal: Las superficies agropecuarias que se dediquen temporalmente al cultivo forestal mediante plantaciones forestales comerciales. La consideración de terreno forestal temporal se mantendrá durante un periodo de tiempo no inferior al turno de la plantación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XCIX. Tierra de hoja: Producto forestal no maderable compuesto de material que se origina en la parte superficial de los terrenos forestales o preferentemente forestales y que proviene de la acumulación de material orgánico de vegetación forestal en proceso de descomposición;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+C. Tierra de monte: Producto forestal no maderable compuesto por material de origen mineral y orgánico que se acumula sobre terrenos forestales o preferentemente forestales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+CI. Tierras frágiles: Aquéllas ubicadas en terrenos forestales o preferentemente forestales que son propensas a la degradación y pérdida de su capacidad productiva natural como consecuencia de la eliminación o reducción de su cobertura vegetal natural;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+CII. Titular del aprovechamiento: Persona con derecho a aprovechar recursos forestales por virtud de la presentación de un aviso o la autorización expedida por la SEMARNAT, de conformidad con lo dispuesto en la Ley y el Reglamento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+CIII. Turno: Periodo de regeneración de los recursos forestales que comprende desde su extracción hasta el momento en que éstos son susceptibles de nuevo aprovechamiento;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+CIV. Unidad de manejo forestal: Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XCV (SIC). Uso doméstico: El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de sus necesidades básicas en el medio rural;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+CVI. UTM: Proyección Trasversal Universal de Mercator, sistema utilizado para convertir coordenadas geográficas esféricas en coordenadas cartesianas planas;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+CVII. Veda forestal: Restricción total o parcial de carácter temporal del aprovechamiento de uno o varios recursos forestales en una superficie determinada, establecida mediante decreto expedido por el Titular del Poder Ejecutivo Federal;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+CVIII. Vegetación exótica: Conjunto de plantas arbóreas, arbustivas o crasas ajenas a los ecosistemas naturales;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+CIX. Vegetación forestal: El conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando bosques, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+CX. Ventanilla única: El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público forestal, tanto federal, estatal como municipal, para la atención integral de los distintos usuarios del sector; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+CXI. Visita de Inspección: La supervisión que realiza el personal autorizado para verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de recursos forestales, se ajuste a la Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 5.
 
@@ -331,7 +537,9 @@ El Gobierno del Estado y los municipios ejercerán sus atribuciones y obligacion
 
 Son autoridades competentes para la aplicación de esta Ley:
 
-I. El titular del Poder Ejecutivo del Estado, a través del Servicio Estatal Forestal quien coordinará cada una de las dependencias relacionadas a la materia forestal;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+I. El titular del Poder Ejecutivo del Estado, a través de la Corporación, quien coordinará cada una de las dependencias relacionadas a la materia forestal;
 
 II. La Corporación para el Desarrollo Agropecuario de Nuevo León, a través de la Dirección de Gestión Forestal; y
 
@@ -369,7 +577,7 @@ VI. Integrar el Sistema Estatal de Información Forestal e incorporar su conteni
 
 VII. Promover los bienes y servicios ambientales de los ecosistemas forestales;
 
-VIII. Regular el uso del fuego en las actividades relacionadas con las acciones agropecuarias o de otra índole, que pudieran afectar los ecosistemas forestales;
+VIII. (DEROGADA, P.O. 26 DE OCTUBRE DE 2022)
 
 IX. Promover y participar en la restauración de los ecosistemas forestales afectados por incendio;
 
@@ -419,35 +627,21 @@ Se procurará la opinión del Consejo Estatal Forestal, en el seguimiento y eval
 
 Los municipios, informarán a la Corporación, los avances y resultados, en términos de los convenios o acuerdos de coordinación celebrados, debiendo incluir además en su informe de actividades, el estado que guarda el sector forestal.
 
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 #### SECCIÓN SEGUNDA. DEL SERVICIO ESTATAL FORESTAL
 
 ###### Artículo 15.
 
-El Estado a través de sus representaciones en el sector forestal, y los Municipios establecerán las bases de coordinación para la integración y funcionamiento del Servicio Estatal Forestal, el cual tiene por objeto la conjunción de esfuerzos, instancias e instrumentos institucionales para conservación eficiente y concertada del sector forestal. El objeto del Servicio Estatal Forestal se cumplirá con estricto apego a las disposiciones constitucionales o legales que regulen las atribuciones y facultades de las autoridades que lo integren, por ello, la coordinación se llevará a cabo mediante convenios generales y específicos.
+(DEROGADO, P.O. 26 DE OCTUBRE DE 2022)
 
 ###### Artículo 16.
 
-El Servicio Estatal Forestal se conformará por:
+(DEROGADO, P.O. 26 DE OCTUBRE DE 2022)
 
-I. Secretario General de Gobierno, quien lo coordina;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-II. El Titular de la Corporación para el Desarrollo Agropecuario;
-
-III. El Titular de Parques y Vida Silvestre;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-IV. El Secretario de Desarrollo Sustentable;
-
-V. El Titular de la Policía de Caminos y Medio Ambiente;
-
-VI. El Titular de la (sic) Protección Civil del Estado;
-
-VII. El Titular de la Dirección de Gestión Forestal; y
-
-VIII. Los Presidentes Municipales y los titulares de las instancias municipales involucradas con el sector forestal que tengan a su cargo la atención de las distintas actividades o materias relacionadas con el sector forestal.
-
-### CAPÍTULO CUARTO. DE LA CORPORACIÓN PARA EL DESARROLLO AGRUPECUARIO (SIC) A TRAVES DE LA DIRECCIÓN DE GESTIÓN FORESTAL
+### CAPÍTULO CUARTO. DE LA CORPORACIÓN PARA EL DESARROLLO AGRUPECUARIO (SIC) A TRAVES DE LA DIRECCIÓN DE GESTIÓN FORESTAL Y DE ACUACULTURA
 
 ###### Artículo 17.
 
@@ -549,9 +743,17 @@ II. Analizar el programa estatal forestal y remitirlo para su aprobación al Gob
 
 III. Aprobar su anteproyecto de Reglamento Interior y someterlo a la consideración del Gobernador del Estado;
 
-IV. Emitir opinión sobre los programas de manejo forestal y cambio de usos de suelo en terrenos forestales y preferentemente forestales; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-V. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de la presente Ley.
+IV. Emitir opinión sobre los programas de manejo forestal y cambio de usos de suelo en terrenos forestales y preferentemente forestales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+V. Velar por la operatividad del Comité Estatal de Manejo del Fuego; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+VI. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de la presente Ley.
 
 El Consejo Estatal Forestal tendrá entre sus atribuciones el ser un órgano de consulta, asesoramiento para las dependencias federales y estatales responsables de la administración del sector forestal, en las materias que le señala la Ley y en las que se les solicite su opinión. Además, tendrá la atribución de fungir como órgano de asesoría, supervisión, vigilancia, evaluación y seguimiento en la aplicación de los criterios e instrumentos de política forestal, previstos en esta Ley y su reglamento, así mismo tendrá la función de órgano de concertación.
 
@@ -566,6 +768,12 @@ II. El secretario técnico, quién será el Representante de la Comisión Nacion
 ###### Artículo 23.
 
 Serán miembros invitados del Consejo Estatal Forestal las comisiones del Congreso del Estado, relacionadas con la materia forestal además de los acordados en el Pleno del Consejo; quienes podrán participar con derecho a voz pero sin voto, convocados para el tratamiento de un asunto específico.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 23 Bis.
+
+El Consejo Estatal Forestal deberá sesionar por lo menos, cada tres meses, para efecto de evaluar el cumplimiento de los Programas de Manejo del Fuego, y en general, para dar seguimiento a la política forestal de la entidad.
 
 ###### Artículo 24.
 
@@ -583,7 +791,9 @@ II. Aplicar los criterios de política forestal previstos en esta Ley, su reglam
 
 III. Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
 
-IV. Apoyar a la Federación y al Estado, en la adopción y consolidación del Servicio Nacional Forestal y el Servicio Estatal Forestal;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+IV. Apoyar a la Federación y al Estado, en la adopción y consolidación del (sic) Política Forestal Nacional;
 
 V. Diseñar y desarrollar acciones para promover el desarrollo forestal, de conformidad con esta Ley y los lineamientos de la política forestal del país;
 
@@ -607,9 +817,17 @@ XIV. Promover la participación de organismos públicos, privados y no gubername
 
 XV. Participar, de conformidad con los acuerdos y convenios que se celebren con la Federación y el Estado, en la vigilancia forestal dentro de su territorio;
 
-XVI. Hacer del conocimiento de las autoridades competentes, y en su caso denunciar, las infracciones, faltas administrativas, o delitos que se cometan en materia forestal; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XVII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable establezca la presente Ley y otras disposiciones aplicables.
+XVI. Hacer del conocimiento de las autoridades competentes, y en su caso denunciar, las infracciones, faltas administrativas, o delitos que se cometan en materia forestal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XVII. Asignar recursos humanos y financieros para el establecimiento y operación de los Centros Municipales o Intermunicipales que establezca el Programa Estatal de Manejo del Fuego; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XVIII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable establezca la presente Ley y otras disposiciones aplicables.
 
 ## TÍTULO TERCERO. DE LA POLÍTICA ESTATAL EN MATERIA FORESTAL
 
@@ -659,9 +877,11 @@ XVI. El apoyo, estímulo y compensación de los efectos económicos del largo pl
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE LA POLÍTICA FORESTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 28.
 
-Son instrumentos de la política estatal en materia forestal, los siguientes:
+Son instrumentos de la política estatal en materia forestal, los siguientes, los cuales deberán publicarse una vez aprobados en el Periódico Oficial del Estado:
 
 I. El Plan Estatal de Desarrollo;
 
@@ -669,7 +889,13 @@ II. El Programa Estatal Forestal;
 
 III. El Sistema Estatal de Información Forestal; y
 
-IV. El Inventario Estatal Forestal y de Suelos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+IV. El Programa Estatal de Manejo del Fuego, así como los Programas Municipales e Intermunicipales que lo conformen; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+V. El Inventario Estatal Forestal y de Suelos.
 
 En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de política forestal, se deberán observar los objetivos y criterios de política forestal y demás disposiciones previstas en esta Ley y su Reglamento.
 
@@ -827,9 +1053,17 @@ VII. Hacer del conocimiento de la autoridad competente, de cualquier irregularid
 
 VIII. Elaborar los estudios técnicos justificativos de cambio de uso de suelo de terrenos forestales;
 
-IX. Planear y organizar las tareas de zonificación forestal, reforestación, restauración, prevención y combate de incendios, plagas y enfermedades forestales así como de compatibilidad de usos agropecuarios con los forestales, así como de compatibilidad de usos agropecuarios con los forestales; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-X. Los demás que fije el reglamento de la presente Ley.
+IX. Planear y organizar las tareas de zonificación forestal, reforestación, restauración, prevención y combate de incendios, plagas y enfermedades forestales así como de compatibilidad de usos agropecuarios con los forestales, así como de compatibilidad de usos agropecuarios con los forestales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+X. Las tareas relaciones con la prevención, combate y control de Incendios Forestales y aquellas relacionadas con el Manejo del Fuego en General; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XI. Los demás que fije el reglamento de la presente Ley.
 
 #### SECCIÓN SEGUNDA. DE LAS UNIDADES DE MANEJO FORESTAL
 
@@ -837,9 +1071,11 @@ X. Los demás que fije el reglamento de la presente Ley.
 
 La Corporación participará junto con la CONAFOR en la delimitación de las Unidades de Manejo Forestal con el propósito de lograr una ordenación forestal sustentable, una planeación ordenada de las actividades de protección, conservación, restauración y en general, el manejo eficiente de los recursos forestales.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 46.
 
-Los titulares de los terrenos que integren Unidades de Manejo Forestal realizarán las actividades señaladas en el artículo 112 de la Ley General de Desarrollo Forestal Sustentable.
+Los titulares de los terrenos que integren Unidades de Manejo Forestal realizarán sus actividades con base en el artículo 106 de la Ley General de Desarrollo Forestal Sustentable.
 
 #### SECCIÓN TERCERA. DE LA CERTIFICACIÓN FORESTAL
 
@@ -881,9 +1117,17 @@ III. Ejecutar las acciones de conformidad con lo previsto en el programa de mane
 
 IV. Aprovechar los recursos forestales de acuerdo con lo establecido en la autorización;
 
-V. Inducir la recuperación natural y, en caso de que no se establezca ésta, reforestar las áreas aprovechadas de conformidad con lo señalado en el programa de manejo; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-VI. Solicitar autorización para modificar el programa técnico de manejo.
+V. Inducir la recuperación natural y, en caso de que no se establezca ésta, reforestar las áreas aprovechadas de conformidad con lo señalado en el programa de manejo;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+VI. Solicitar autorización para modificar el programa técnico de manejo; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+VII. Fungir como primeros respondientes frente al ataque inicial de Incendios Forestales.
 
 ###### Artículo 51.
 
@@ -1063,49 +1307,405 @@ Con el objeto de verificar el debido uso de la documentación oficial de transpo
 
 ### CAPÍTULO TERCERO. DE LA PREVENCIÓN, COMBATE Y CONTROL DE INCENDIOS FORESTALES
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 78.
 
-La Corporación, en coordinación con las Dependencias y Entidades Federales, Estatales y Municipales, así como con las Asociaciones Regionales de Silvicultores, elaborará el Programa Estatal de Prevención, Control y Combate de Incendios Forestales. En este programa se considerará la restauración de áreas afectadas por estos siniestros.
+La prevención, combate y control de Incendios Forestales representa una obligación concurrente de municipios y Estado, en coordinación con la federación, así como de propietarios y poseedores de terrenos forestales, de conformidad con lo dispuesto por la Ley General y los Programas de Manejo del Fuego, Nacional, Estatal, Municipales y/o Intermunicipales.
+
+Para lo establecido en el párrafo anterior las autoridades competentes realizarán campañas de difusión permanentes para informar a la población sobre las medidas de prevención que deben tomarse para evitar incendios en zonas forestales, así como las acciones que se deben realizar para combatir y reducir el impacto de los incendios forestales.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 79.
 
-Los propietarios y poseedores de terrenos forestales o de aptitud preferentemente forestal, así como sus colindantes y quienes realicen el aprovechamiento o la transformación de recursos forestales maderables y no maderables, tienen obligación de realizar trabajos para la prevención y control de incendios forestales, en los términos de las Normas Oficiales Mexicanas aplicables y las demás que establezca esta Ley, la Ley General y sus Reglamentos.
+Para cumplir con la política estatal de Manejo del Fuego, se establecerá el Comité Estatal de Manejo del Fuego, El Grupo Directivo y el Grupo Técnico Operativo, los cuales realizarán sus tareas bajo el concepto de Mando Unificado del Sistema de Comando de Incidentes.
 
-Asimismo, todas las autoridades y las empresas o personas relacionadas con la extracción, transporte y transformación, están obligadas a reportar a la Corporación, a la Comisión Nacional Forestal y a la Dirección de Protección Civil la existencia de los conatos o incendios forestales que se detecten.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 80.
 
-La Corporación podrá contratar o celebrar convenios con las Asociaciones Regionales de Silvicultores, los municipios, dueños y poseedores legales de tierras forestales, para prevenir, controlar y combatir los incendios forestales en el ámbito de su jurisdicción territorial.
+Los propietarios y poseedores de los terrenos forestales y sus colindantes, que realicen el aprovechamiento de recursos forestales, la forestación o plantaciones forestales comerciales y reforestación, así como los prestadores de servicios forestales responsables de los mismos y los encargados de la administración de las áreas naturales protegidas, estarán obligados a ejecutar trabajos de manejo de combustibles, y prevención cultural y realizar el ataque inicial de los Incendios Forestales en los términos de las Normas Oficiales Mexicanas aplicables.
+
+Como primeros respondientes, los Propietarios o Poseedores de terrenos forestales serán apoyados en su caso por la autoridad municipal, siguiendo los protocolos y procedimientos establecidos por el Centro Municipal o Intermunicipal de Manejo del Fuego, si los hubiere; y en el caso de que éstos superen su capacidad operativa de respuesta, acudirá a la instancia estatal. Si ésta resultase insuficiente, se procederá a informar a la Comisión Nacional Forestal, la cual actuará de acuerdo con los programas y procedimientos respectivos
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 81.
 
-El Gobernador del Estado podrá establecer vedas para el uso del fuego en determinadas áreas forestales.
+El Gobernador del Estado, con apoyo del Comité Estatal de Manejo del Fuego, podrá establecer vedas para el uso del fuego en determinadas áreas forestales.
 
 ###### Artículo 82.
 
 Queda sujeta a la autorización de la Corporación quien de acuerdo a las Normas Oficiales Mexicanas, otorgará el permiso de las quemas en terrenos colindantes con poblaciones urbanas o suburbanas que por su ubicación pongan en riesgo la vegetación forestal.
 
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+#### SECCIÓN PRIMERA. DEL COMITÉ ESTATAL DE MANEJO DEL FUEGO
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 83.
 
-Los municipios, con el apoyo técnico del Servicio Estatal Forestal deberán integrar, constituir, operar y mantener permanentemente, durante la época de estiaje, brigadas para el combate y control de incendios, así como la integración de grupos voluntarios para la prevención, combate y control de los mismos, proveyendo a estos de los recursos materiales y del apoyo económico necesario para su operación.
+Como mecanismo de coordinación para la prevención, combate y control de incendios forestales, así como órgano de creación de la política estatal en materia de Manejo del Fuego, se establece el Comité Estatal de Manejo del Fuego.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 84.
 
-Los titulares de aprovechamientos de recursos forestales y los prestadores de servicios técnicos forestales, tendrán la obligación de establecer brigadas de prevención y combate de incendios forestales, que podrán ser operadas por las Asociaciones Regionales de Silvicultores, debiendo realizar durante el periodo que contemple el programa de manejo las acciones que se precisen en el Reglamento de la presente Ley.
+El Comité Estatal de Manejo del Fuego está conformado por las siguientes dependencias y órganos:
+
+I. El Titular del Poder Ejecutivo del Estado quien lo presidirá;
+
+II. El Titular de la Corporación para el Desarrollo Agropecuario;
+
+III. El Titular de Parques y Vida Silvestre;
+
+IV. El Secretario de Medio Ambiente;
+
+V. El Titular de la Secretaría de Seguridad Pública
+
+VI. El Titular de la Protección Civil del Estado;
+
+VII. El Titular de la Dirección de Gestión Forestal;
+
+VIII. Los Presidentes Municipales involucradas (sic) con el sector forestal que tengan a su cargo la atención de las distintas actividades o materias relacionadas con el sector forestal.
+
+IX. Un representante en general (sic) las universidades públicas y privadas con presencia en la entidad que cuenten con una facultad dedicada al estudio de ciencias forestales; y
+
+X. Aquellos representantes de las Secretarias del Ejecutivo Federal que deban conforman (sic) el Comité Estatal de Manejo del Fuego según determine el Programa Nacional de Manejo del Fuego.
+
+XI. Representantes de los dueños de tierras privadas y de propiedad comunal en las que se encuentren zonas susceptibles de ser afectadas por incendios forestales.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 85.
 
-En todas las áreas forestales afectadas por incendios en las que resulte arbolado muerto, este podrá ser susceptible de extracción y comercialización, mediante su autorización, siempre y cuando se justifique que no hubo intencionalidad en el siniestro y se establezca un convenio entre el propietario y el poseedor con el organismo referido, para la restauración y protección del área siniestrada. Para tal efecto, la Corporación notificará al dueño o poseedor del área afectada, en la que se establecerá un plazo de dos años para su restauración obligatoria.
+Los miembros a quienes se refiere la fracción VIII del artículo anterior, durarán en su encargo hasta la conclusión de sus periodos de gobierno.
 
-Si al vencimiento de la vigencia de la notificación, no se han realizado los trabajos mencionados, la Corporación en acuerdo con los dueños o poseedores de los terrenos, tendrá la facultad de realizar la extracción y comercialización del arbolado muerto, comprometiéndose el producto de esto último, a la protección y restauración del área siniestrada.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 86.
 
-Los propietarios, poseedores legales y usufructuarios de terrenos de uso forestal están obligados a llevar a cabo, en caso de incendio, la restauración de la superficie afectada en el plazo máximo de dos años, debiendo ser restaurada la cubierta vegetal afectada hasta su total restablecimiento, mediante la reforestación, cuando la regeneración natural no sea posible, poniendo especial atención en la prevención, control y combate de plagas y enfermedades, así como en las prácticas de conservación y restauración de suelos.
+El miembro a quien se refiere la fracción IX del artículo 84 de esta ley, deberá contar con comprobada experiencia en materia de Manejo del Fuego y será propuestos (sic) por las respectivas instituciones educativas. Además, podrá ser sustituido y removido libremente por aquellas. Las disposiciones para su elección serán establecidas en el Reglamento de la Ley.
 
-Cuando los dueños o poseedores legales de los predios dañados demuestren su imposibilidad para cumplirlo directamente, podrán solicitar fundadamente a las autoridades municipales, estatales o federales, el apoyo para realizar dichos trabajos.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 87.
+
+Corresponde al Comité Estatal de Manejo del Fuego lo siguiente:
+
+I. Validar el Programa Estatal de Manejo del Fuego, con apoyo del Grupo Técnico Operativo;
+
+II. Llevar a cabo la planeación, combate y prevención de Incendios Forestales de acuerdo con el Sistema de Comando de Incidentes;
+
+III. Regular el uso del fuego en las actividades relacionadas con las acciones agropecuarias o de otra índole, que pudieran afectar los ecosistemas forestales;
+
+IV. Mantener un inventario de recursos humanos y materiales para solventar posibles necesidades o coadyuvar en las tareas de prevención, combate y control de Incendios Forestales. Dicho inventario será actualizado y resguardado según lo determine el propio Comité;
+
+V. Mantener un padrón de asociaciones civiles, individuos o entidades privadas que cuenten con recursos disponibles para coadyuvar en las tareas de prevención, combate y control de Incendios Forestales; y
+
+VI. La demás que determine la Ley General, su reglamento, el Programa Nacional de Manejo del Fuego y el reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+Artículo 87 bis.- En el Reglamento de la presente Ley se establecerán las disposiciones internas de funcionamiento del Comité Estatal de Manejo del Fuego.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+#### SECCIÓN SEGUNDA
+
+DEL PROGRAMA ESTATAL DE MANEJO DEL FUEGO.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 1.
+
+El Programa Estatal de Manejo del Fuego es aquel instrumento de planeación, vinculante para todas las autoridades que les corresponda la protección de la ciudadanía, así como el combate de Incendios Forestales, que define los objetivos y alcances de la prevención, detección, combate, e información relacionada con los Incendios Forestales del Estado, que considera la coordinación y concertación de las entidades públicas de los gobiernos estatal y de los Municipios, de los propietarios y poseedores de terrenos forestales y sociedad civil organizada en conjunto con los órganos correspondientes de la federación.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 2.
+
+El Programa Estatal de Manejo del Fuego deberá de ser validado por el Comité Estatal de Manejo del fuego de acuerdo con las disposiciones del Reglamento de esta ley.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 3.
+
+Para su elaboración, el Grupo Técnico Operativo apoyará al Comité Estatal de Manejo del Fuego como órgano especializado de manejo de Incendios Forestales. Además, se podrá consultar al Centro Regional de Manejo del Fuego por conducto de la Comisión Nacional Forestal como órgano especializado de consulta.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 4.
+
+El Comité Estatal de Manejo del Fuego, podrá invitar a universidades, entidades privadas y en general, a cualquier persona física o moral con reconocida experiencia en materia de Incendios Forestales para coadyuvar en la elaboración del Programa Estatal de Manejo del Fuego.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 5.
+
+El Programa Estatal de Manejo del Fuego contendrá por lo menos, lo siguiente:
+
+I. El Establecimiento del Centro Estatal de Manejo del Fuego que tendrá carácter permanente, así como de Centros Municipales o Intermunicipales de Manejo del Fuego que podrán establecerse de forma temporal o permanente, según las necesidades y la situación de la entidad.
+
+II. Periodos de capacitación en materia de Sistema de Comando de Incidentes para los Centros Estatal, Municipales o Intermunicipales, los Grupos Técnicos Operativos, sociedad civil y demás actores relevantes.
+
+III. Contemplará acciones de prevención cultural, legal, manejo de combustibles y combate de incendios forestales, con la participación de las instancias facultadas a nivel nacional, regional, estatal, municipal y predial. La prevención incluirá universidades; ONGS, centros de investigación y academia.
+
+IV. Establecerá calendarios de quemas prescritas que serán llevadas a cabo por el Grupo Técnico Operativo para reducir los riesgos de incendios, promover los procesos de conservación y restauración de ecosistemas forestales, eliminación de especies invasoras, investigación, entre otros.
+
+V. Difundir el conocimiento y aplicación de las normas oficiales mexicanas en materia de técnicas de uso del fuego en terrenos forestales, así como del Sistema de Comando de Incidentes.
+
+VI. Determinar estrategias para el manejo del fuego agropecuario.
+
+VII. Determinará la distribución de competencias correspondientes de los actores y dependencias involucrados en el Manejo del Fuego.
+
+VIII. Una metodología de diagnóstico de capacidades y recursos, líneas estratégicas encaminadas al Manejo del Fuego que deberán incluir a municipios y dueños de terrenos forestales, prestadores de servicios técnicos, academia e indicadores.
+
+IX. Evaluaciones sobre la aplicación y efectividad del Programa Estatal que deberán practicarse de forma anual y sexenal, por lo menos.
+
+X. Implementación de mecanismos para el fortalecimiento de plataformas o sistemas para la generación de alertas tempranas y boletines técnicos para la toma de decisiones en la supresión y Manejo del Fuego a nivel estatal y municipal.
+
+XI. Contendrá un directorio de las dependencias, entidades y dirección encargadas de la aplicación de las disposiciones de la ley.
+
+XII. Las demás que establezcan la normatividad aplicable en materia de Manejo del Fuego.
+
+XIII. Los mecanismos y fuentes de financiamiento requeridos para su implementación y actualización.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 6.
+
+Para la elaboración del Programa Estatal de Manejo del Fuego, se deberán (sic) de tomar en cuenta lo siguiente:
+
+I. Las disposiciones del Programa Nacional de Manejo del Fuego, para que el programa estatal sea elaborado congruentemente.
+
+II. La información disponible en el Sistema Estatal de Información Forestal y del Sistema Nacional de Información y Gestión Forestal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+#### SECCIÓN TERCERA
+
+DE LOS PROGRAMAS MUNICIPALES E INTERMUNICIAPLES (SIC) DE MANEJO DEL FUEGO.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 7.
+
+El Comité Estatal de Manejo del Fuego, propondrá la creación ya sea de planes Municipales o Intermunicipales de Manejo del Fuego para las distintas regiones del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 8.
+
+Para la elaboración de los correspondientes planes municipales e intermunicipales, se solicitará a los municipios involucrados lleven a cabo la propuesta del programa respectivo, el cual será validado por el Comité Estatal de Manejo del Fuego de acuerdo con las disposiciones de esta Ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 9.
+
+El Comité Estatal de Manejo del Fuego podrá solicitar el apoyo del Grupo Técnico Operativo y del Centro Regional de Manejo del Fuego para la revisión de los programas municipales e intermunicipales de Manejo del Fuego.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 10.
+
+Los correspondiente Programas Municipales e Intermunicipales de Manejo del Fuego determinarán el establecimiento de Centros Municipales o Intermunicipales de Manejo del Fuego, los cuales podrán tener un carácter temporal o permanente y serán coordinados por el Centro Estatal de Manejo del Fuego.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 11.
+
+Los Planes Municipales e Intermunicipales de Manejo del Fuego habrán de elaborarse, en lo conducente, observando los mismos lineamientos y disposiciones del Programa Estatal de Manejo del Fuego.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+#### SECCIÓN CUARTA. DEL CENTRO ESTATAL DE MANEJO DEL FUEGO
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 12.
+
+De conformidad con lo establecido por el Comité Estatal de Manejo del Fuego en el Programa Estatal, se establecerá un Centro Estatal de Manejo del Fuego que tendrá carácter permanente.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 13.
+
+El Centro Estatal de Manejo del Fuego contará con los recursos humanos, técnicos y económicos que determine el Comité Estatal de Manejo del Fuego, ya sea en el Programa Estatal o mediante minuta. Los recursos económicos necesarios deberán de contemplarse en el presupuesto de egresos correspondiente y entregados por medio de la Secretaría de Finanzas al Grupo Directivo para la administración y manejo del Centro Estatal de Manejo del Fuego. La forma de administrar los recursos que reciba el Grupo Directivo por este concepto se establecerá en el Reglamento de la Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 14.
+
+En el Centro Estatal de Manejo del Fuego deberá de mantener un inventario de recursos humanos y materiales para solventar posibles necesidades o coadyuvar en las tareas de prevención, combate y control de Incendios Forestales. Dicho inventario será actualizado y resguardado según lo determine el Comité Estatal de Manejo del Fuego;
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 15.
+
+El Grupo Técnico Operativo estará a cargo del Centro Estatal de Manejo del Fuego y coordinará los demás centros municipales e intermunicipales que se establezcan temporal o permanentemente.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 16.
+
+El Grupo Directivo designará mediante minuta a la persona encargada del Centro Estatal de Manejo del Fuego, quien deberá contar con probada experiencia en materia de Incendios Forestales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 17.
+
+En el Centro Estatal de Manejo del Fuego se brindarán capacitaciones en materia de Incendios Forestales a los miembros del Grupo Técnico Operativo, a propietarios y poseedores de terrenos forestales, servidores públicos de dependencias de protección civil y policía de los distintos municipios del Estado, organizaciones de la sociedad civil, grupos de voluntarios, y en general, a toda persona que el encargado del Centro Estatal de Manejo del Fuego determine como relevante para la prevención, combate y control de Incendios Forestales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 18.
+
+En el Centro Estatal de Manejo se levantará un registro de grupos de voluntarios y organizaciones de la sociedad civil, que estén dispuestas en coadyuvar en las tareas de prevención, combate y control de Incendios Forestales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 19.
+
+La operación del Centro Estatal de Manejo del Fuego se llevará a cabo en coordinación con el titular de la CONAFOR en la entidad y se regirá por la metodología del Sistema de Comando de Incidentes y Mando Unificado, según se establezca en las normas oficiales mexicanas.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+#### SECCIÓN QUINTA. DE LOS CENTROS MUNICIPALES E INTERMUNICIPALES DE MANEJO DEL FUEGO
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 20.
+
+De conformidad con el Programa Estatal de Manejo del Fuego, El Comité Estatal de Manejo del Fuego determinará el establecimiento temporal o permanente de centros municipales o intermunicipales de Manejo del Fuego que habrán de operar y en que periodos.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 21.
+
+El Grupo Directivo asignará, con el presupuesto aprobado y disponible, recursos suficientes para el establecimiento de los Centros Municipales e Intermunicipales de Manejo del Fuego, sin menoscabo de aquellos recursos que los municipios involucrados destinen para este rubro.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 22.
+
+Los Centros Municipales y/o Intermunicipales estarán encabezados por la persona que designe el Grupo Directivo, tomando en consideración las propuestas y opiniones de los presidentes municipales de los municipios en cuestión, así como las de los poseedores o propietarios de las tierras susceptibles de afectación por incendios forestales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 23.
+
+En materia de prevención, combate y control de Incendios Forestales, los Centros Municipales de Manejo del Fuego fungirán como centros de capacitación para los miembros del Grupo Técnico Operativo, propietarios y poseedores de terrenos forestales en su rol como primeros respondientes, servidores públicos de dependencias de protección civil y policía de los distintos municipios donde se ubiquen, grupos de voluntarios, y en general, a toda persona que el encargado del Centro Municipal o Intermunicipal que corresponda determine como relevante para la prevención, combate y control de Incendios Forestales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+Artículo 89 (SIC) Bis 24.- La operación y administración de los Centros Municipales e Intermunicipales de Manejo del Fuego, se regirá por la metodología del Sistema de Comando de Incidentes y Mando Unificado, según se establezca en las normas oficiales mexicanas.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 25.
+
+En los Centros Municipales e Intermunicipales de Manejo del Fuego se deberá de mantener un inventario de recursos humanos y materiales para solventar posibles necesidades o coadyuvar en las tareas de prevención, combate y control de Incendios Forestales. Dicho inventario será actualizado y resguardado según lo determine el Comité Estatal de Manejo del Fuego;
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+#### SECCIÓN SEXTA. DEL GRUPO DIRECTIVO Y DEL GRUPO TÉCNICO OPERATIVO
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 26.
+
+El Grupo Directivo será el órgano intersecretarial que tiene como función coadyuvar al Comité Estatal de Manejo del Fuego en la implementación y ejecución de la política pública en materia de prevención, combate y control de Incendios Forestal (sic) y Manejo del Fuego en la Entidad. Además, tendrá a su cargo la coordinación del Comité Estatal de Manejo del Fuego y la dirección política e institucional en materia de Incendios forestales. Se auxilia del Grupo Técnico Operativo y actúa bajo el concepto de Mando Unificado del Sistema de Comando de Incidentes.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 27.
+
+El Grupo Directivo estará integrado por:
+
+I. El titular de la Secretaría de Medio Ambiente.
+
+II. El Director de la Corporación para el Desarrollo Agropecuario de Nuevo León.
+
+IV (SIC). El Titular de Parques y Vida Silvestre.
+
+V. El Director de Protección Civil del Estado.
+
+VI. El representante facultado de la Gerencia de la CONAFOR en el Estado.
+
+VII. El Director Regional o el representante facultado de la CONANP.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 28.
+
+Corresponde al Grupo Directivo lo siguiente:
+
+I. Operar el Centro Estatal de Manejo del Fuego designando para tal efecto lo (sic) recursos suficientes, de acuerdo con el presupuesto disponible.
+
+II. Coordinar los Centros Municipales e Intermunicipales de Manejo del Fuego, designando para tal efecto los recursos suficientes para su operación.
+
+IV (SIC). Designar a los elementos del Grupo Técnico Operativo que habrán de operar el Centro Estatal de Manejo del Fuego.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 29.
+
+El Grupo Directivo, asignará a los elementos que habrán de integrar el Grupo Técnico Operativo, que tiene como funciones principales la toma de decisiones técnicas para la planeación estratégica, la coordinación de recursos asignados por el Comité Estatal de Manejo del Fuego y el Grupo Directivo para la prevención, detección, el combate de Incendios Forestales, el manejo de combustibles en zonas prioritarias y la Protección Civil.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+#### SECCIÓN SÉPTIMA. DE LOS PROPIETARIOS Y POSEEDORES DE TERRENOS FORESTALES
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 30.
+
+Corresponde a los Propietarios y Poseedores de terrenos forestales, la participación activa en las actividades relaciones (sic) con la conservación y mantenimiento de los recursos forestales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 31.
+
+Como primer recurso de respuesta, los propietarios y poseedores de terrenos forestales, serán los primeros respondientes de Incendios Forestales, recibiendo en la medida de lo posible, apoyo del Centro de Manejo del Fuego para cercano a su localidad.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 32.
+
+Los propietarios y poseedores de terrenos forestales están obligados a realizar las acciones de restauración y conservación pertinentes y aquellas que para tal caso dicte la CONAFOR en un plazo de dos años, debiendo restaurar la cubierta vegetal afectada hasta su total restablecimiento. Lo anterior mediante la reforestación, cuando la regeneración natural no sea posible, poniendo especial atención en la prevención, control y combate de plagas y enfermedades, así como en las prácticas de conservación y restauración de suelos.
+
+Cuando los dueños o poseedores legales de los predios dañados por incendio, demuestren su imposibilidad para cumplirlo directamente, podrán solicitar fundadamente a las autoridades municipales, estatales o federal, el apoyo para realizar dichos trabajos.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 33.
+
+Podrán solicitar al Comité Estatal de Manejo del Fuego y al Grupo Directivo, sea recibida su opinión no vinculante en temas relacionados con el manejo de los predios forestales que les corresponden.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 34.
+
+Cuando la (sic) Comité Estatal de Manejo del Fuego, con base en estudios técnicos, determine la existencia de un riesgo a los ecosistemas forestales, notificará a los propietarios y poseedores de terrenos forestales, o aquellos que resultaren afectados, la ejecución de las actividades necesarias para evitar o reducir la situación de riesgo, con el apercibimiento de que en caso de no realizarlas en el término que se conceda para ello, el Estado realizará los trabajos correspondientes con cargo a los obligados. El monto de las erogaciones que se realicen será considerado como crédito fiscal y su recuperación será mediante el procedimiento económico coactivo correspondiente.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 35.
+
+Como primeros respondientes ante la ocurrencia de un Incendio Forestal, los propietarios y poseedores de predios forestales, podrán solicitar que se les brinde capacitación en los Centros de Manejo del Fuego en materia de prevención, combate y control de Incendios Forestales, así como del Mando Unificado y del Sistema de Comando de Incidentes.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 36.
+
+Podrán también formar brigadas de combate del fuego e inscribirlas en los Centros de Manejo del Fuego.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 87 Bis 37.
 
 Quienes hagan uso del fuego en contravención de las disposiciones de las Normas Oficiales Mexicanas, recibirán las sanciones que prevé la presente Ley y su Reglamento, sin perjuicio de las establecidas en las Leyes penales.
 
@@ -1119,9 +1719,11 @@ La reforestación que se realice con propósitos de conservación y restauració
 
 Las acciones de reforestación que se lleven a cabo en los terrenos forestales sujetos al aprovechamiento deberán incluirse en el programa de manejo forestal correspondiente. El prestador de servicios técnicos forestales que, en su caso, funja como encargado técnico será responsable solidario junto con el titular, de la ejecución del programa en este aspecto. La reforestación o forestación de las áreas degradadas será una acción prioritaria en los programas de manejo prediales, zonales o regionales. Para los efectos del presente capítulo, se consideran prioritarias las zonas incendiadas, especialmente las que hayan sufrido incendios reiterados.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 90.
 
-La Corporación así como los municipios, con el apoyo de los integrantes del Servicio Estatal Forestal, en ámbito de su competencia, promoverán programas tendentes a la forestación y reforestación de los terrenos forestales y preferentemente forestales. Para tal efecto la Corporación, así como los ayuntamientos podrán celebrar convenios y contratos con instituciones públicas y privadas, Asociaciones Regionales de Silvicultores, así como las Dependencias y Entidades Federales.
+La Corporación así como los Municipios, con el apoyo de los integrantes del Comité Estatal de Manejo del Fuego, en ámbito de su competencia, promoverán programas tendentes a la forestación y reforestación de los terrenos forestales y preferentemente forestales. Para tal efecto la Corporación, así como los ayuntamientos podrán celebrar convenios y contratos con instituciones públicas y privadas, Asociaciones Regionales de Silvicultores, así como las Dependencias y Entidades Federales.
 
 ###### Artículo 91.
 
@@ -1159,7 +1761,7 @@ II. Restaurar terrenos forestales degradados;
 
 III. Apoyar la valoración y producción de bienes y servicios ambientales;
 
-IV. La ejecución de acciones de prevención y combate de incendios y saneamiento forestal por parte de los dueños y poseedores legales de terrenos forestales;
+IV. (DEROGADA, P.O. 26 DE OCTUBRE DE 2022)
 
 V. En las reforestaciones y forestaciones, mejorar la calidad y elevar la supervivencia de la planta en el terreno;
 
@@ -1680,3 +2282,17 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 132. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DE DESARROLLO FORESTAL SUSTENTABLE”.]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la publicación de la presente iniciativa de ley en el Periódico Oficial del Estado, el Ejecutivo Estatal en un plazo de 180 días hábiles siguientes a la entrada en vigor del presente Decreto, deberá adecuar el Reglamento de la Ley de conformidad con el presente Decreto.
+
+TERCERO.- El Ejecutivo Estatal, como presidente del Consejo Estatal Forestal, deberá convocar a dicho órgano dentro un plazo de 90 días hábiles siguientes a la entrada en vigor del presente Decreto, para efecto de constituir formalmente el Comité Estatal de Manejo del Fuego.
+
+CUARTO.- Una vez establecido formalmente el Comité Estatal de Manejo del Fuego, este deberá de llevar a cabo las acciones conducentes para la elaboración y validación del Primer Programa Estatal de Manejo del Fuego en un plazo de 180 días hábiles siguientes a la entrada en vigor del presente Decreto, el cual deberá de publicarse en el Periódico Oficial del Estado.
+
+QUINTO.- El Congreso del Estado contemplará en el Presupuesto de Egresos para el ejercicio fiscal 2023, la asignación y garantía de la suficiencia presupuestal para cumplir con las disposiciones previstas en el presente Decreto.
