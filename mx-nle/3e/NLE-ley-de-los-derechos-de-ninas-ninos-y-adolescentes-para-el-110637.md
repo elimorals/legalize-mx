@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2021-07-23"
+last_updated: "2022-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -147,6 +147,10 @@ XXV. Parentalidad Asistida: Proceso en el que se propician y fortalecen en quien
 
 XXV Bis. Paz: Conjunto de valores, actitudes y comportamientos que rechazan la violencia y previenen los conflictos, tratando de atacar sus causas para solucionar problemas mediante el diálogo y la negociación entre las personas, los grupos o las naciones;
 
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XXV Bis 1. Primera infancia: Periodo de vida de las niñas y niños que comprende de los 0 a los 6 años y en el que se sientan las bases para su desarrollo en el que adquieren forma y complejidad en sus habilidades, capacidades y potencialidades, al ser el ciclo del desarrollo cognitivo, físico, emocional, social, afectivo y lingüístico de niñas y niños;
+
 XXVI. Procuraduría de Protección: la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León;
 
 XXVII. Programa Estatal: el Programa Estatal de Protección de Niñas, Niños y Adolescentes;
@@ -193,7 +197,9 @@ Para efectos del artículo 2 de esta Ley, son principios rectores, los siguiente
 
 I. El interés superior de la niñez;
 
-II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1º. y 4º. de la Constitución Política de los Estados Unidos Mexicanos así como en los tratados internacionales;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de la primera infancia, niñas, niños y adolescentes; conforme a lo dispuesto en los artículos 1o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos así como en los tratados internacionales;
 
 III. La igualdad;
 
@@ -229,15 +235,19 @@ XIV. La accesibilidad, y
 
 XV. El derecho al adecuado desarrollo de la autonomía evolutiva de la personalidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 7.
 
-La legislación estatal en materia de derechos de niñas, niños y adolescentes garantizará el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes; así como prever, primordialmente, las acciones y mecanismos que les permitan un crecimiento y desarrollo integral pleno.
+La legislación estatal en materia de derechos de niñas, niños y adolescentes garantizará el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, incluyendo a los que se encuentran en primera infancia; así como prever, primordialmente, las acciones y mecanismos que les permitan un crecimiento y desarrollo integral pleno.
 
 En el Estado se tomarán las medidas legislativas y administrativas que esta Ley indica, además de aquellas que sean necesarias a fin de que se atienda a lo establecido en ella, en la Constitución Estatal y en la Convención sobre los Derechos del Niño y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 8.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de la primera infancia, niñas, niños y adolescentes, basada en los principios rectores de esta Ley.
 
 ###### Artículo 9.
 
@@ -309,9 +319,17 @@ XX. Derechos de niñas, niños y adolescentes migrantes;
 
 XXI. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones;
 
-XXII. Derecho de niñas, niños y adolescentes refugiados no acompañados; y
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
 
-XXIII. Derecho a revisión de la medida.
+XXII. Derecho de niñas, niños y adolescentes refugiados no acompañados;
+
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XXIII. Derecho a revisión de la medida; y
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+XXIV. Derechos para la Protección de niñas y niños en primera infancia.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -1671,11 +1689,39 @@ Niñas, niños y adolescentes tienen derecho de acceso a las tecnologías de la 
 
 Artículo 119 BIS. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a garantizar que niñas, niños y adolescentes, tengan el derecho al acceso y uso seguro del internet como medio efectivo paro (sic) ejercer su derecho o la no discriminación, información, comunicación, educación, salud, esparcimiento, entre otros, acorde a los fines dispuestos en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Nuevo León y los Tratados Internacionales, así como su integración a la sociedad de la información y el conocimiento conforme con los principios de interdependencia y demás términos en las disposiciones aplicables.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO XXV. DERECHOS PARA LA PROTECCIÓN DE NIÑAS Y NIÑOS EN PRIMERA INFANCIA
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 119 Ter.
+
+Las Niñas y niños en primera infancia gozarán de los derechos que establece la presente Ley y demás leyes que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 119 Ter 1.
+
+Para efectos de este Capítulo, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán diseñar e implementar políticas públicas que contengan, al menos los elementos correspondientes al desarrollo prenatal, una alimentación adecuada, saludable, equilibrada para su nutrición, lactancia materna, y una salud preventiva materno infantil, para el debido desarrollo físico y psicológico de las niñas y niños en primera infancia.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 119 Ter 2.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a realizar lo necesario para el desarrollo psicológico, a través de capacitación, asesoría continua y especializada al padre, madre o quienes ejerzan la tutela, guarda o custodia.
+
+Lo anterior, a fin de hacer posible una adecuada y oportuna estimulación temprana de niñas y niños durante la primera infancia, para un desarrollo integral, encaminada a optimizar sus capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 119 Ter 3.
+
+Es deber de las autoridades competentes, los padres, madres o quienes ejerzan la tutela, guarda o custodia; respetar y garantizar el ejercicio pleno de los derechos de niñas y niños en primera infancia, en un entorno saludable, seguro, afectivo y libre de violencia o conductas nocivas de conformidad con las leyes vigentes en el Estado.
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO ÚNICO. DE LAS INSTITUCIONES ASISTENCIALES
+### CAPÍTULO ÚNICO
 
 ###### Artículo 120.
 
@@ -1751,7 +1797,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO IV. DE LOS CUIDADOS ALTERNATIVOS FAMILIARES O RESIDENCIALES
 
-### CAPÍTULO I. DE LAS AUTORIDADES
+### CAPÍTULO ÚNICO. DE LAS INSTITUCIONES ASISTENCIALES
 
 ###### Artículo 125.
 
@@ -1919,7 +1965,7 @@ La Procuraduría de Protección coadyuvará con la Procuraduría de Protección 
 
 ## TÍTULO V. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO II. DE LA PROCURADURÍA DE PROTECCIÓN
+### CAPÍTULO I. DE LAS AUTORIDADES
 
 ###### Artículo 134.
 
@@ -2021,7 +2067,7 @@ V. Prestar apoyo y colaboración técnica y administrativa en las materias regul
 
 VI. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO II. DE LA PROCURADURÍA DE PROTECCIÓN
 
 ###### Artículo 138.
 
@@ -2285,13 +2331,13 @@ g) La presión, que es la constante exigencia para lograr un desarrollo rápido 
 
 h) El generar sentimientos negativos, de odio, desprecio, rencor o rechazo hacia uno de los progenitores, figuras de apego o quien detente su custodia.
 
-### CAPITULO II. DE LOS SISTEMAS MUNICIPALES DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO I. DEL SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO III. DEL PROGRAMA ESTATAL
+### CAPITULO II. DE LOS SISTEMAS MUNICIPALES DE PROTECCIÓN INTEGRAL DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
 ## TITULO VI
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. DEL PROGRAMA ESTATAL
 
 ###### Artículo 151.
 
@@ -2610,6 +2656,8 @@ El Estado garantizará las previsiones presupuestales para la aplicación de pro
 En caso de incumplimiento a lo dispuesto por la presente Ley por un servidor público se tendrá a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios del Estado de Nuevo León sin prejuicio de la responsabilidad civil o penal que de dicho incumplimiento pudiese devenir.
 
 En caso de que el incumplimiento fuese por un particular, se estará a lo dispuesto por la legislación civil y penal del Estado.
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 164.
 
@@ -3158,3 +3206,9 @@ P.O. 23 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 510. SE ADICIONA EL PÁRRAFO CUARTO, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 124 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 189. SE REFORMAN, LA FRACCIÓN II DEL ARTÍCULO 6, EL ARTÍCULO 7 PRIMER PÁRRAFO Y 8; FRACCIÓN XXII Y XXIII AL ARTÍCULO 13; SE ADICIONAN, LA FRACCIÓN XXV BIS I AL ARTÍCULO 4; LA FRACCIÓN XXIV AL ARTÍCULO 13; EL CAPÍTULO VIGÉSIMO QUINTO AL TÍTULO SEGUNDO DENOMINADO “DERECHOS PARA LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES” Y LOS ARTÍCULOS 119 TER, 119 TER 1, 119 TER 2 Y 119 TER 3, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
