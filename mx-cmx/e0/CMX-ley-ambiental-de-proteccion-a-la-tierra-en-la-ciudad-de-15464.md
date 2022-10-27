@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2021-04-23"
+last_updated: "2022-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -234,9 +234,9 @@ APROVECHAMIENTO SUSTENTABLE DE LA ENERGÍA: El uso y aprovechamiento óptimo de 
 
 ÁREAS NATURALES PROTEGIDAS: Los espacios físicos naturales en donde los ambientes originales no han sido significativamente alterados por actividades antropogénicas, o que requieren ser preservadas y restauradas, por su estructura y función para la recarga del acuífero y la preservación de la biodiversidad. Son áreas que por sus características ecogeográficas, contenido de especies, bienes y servicios ambientales y culturales que proporcionan a la población, hacen imprescindible su preservación;
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-ÁREAS DE VALOR AMBIENTAL: Las áreas verdes en donde los ambientes originales han sido modificados por las actividades antropogénicas y que requieren ser restauradas o preservadas, en función de que aún mantienen ciertas características biofísicas y escénicas, las cuales les permiten contribuir a mantener la calidad ambiental de la Ciudad;
+AREAS DE VALOR AMBIENTAL: Las áreas verdes y los cuerpos de agua dentro del territorio y bajo las competencias de la Ciudad de México, en donde los ambientes originales han sido modificados por las actividades antropogénicas y que requieren ser restauradas o preservadas, en función de que aún mantienen ciertas características biofísicas y escénicas, las cuales les permiten contribuir a mantener la calidad ambiental de la Ciudad.
 
 ÁREA VERDE: Toda superficie cubierta de vegetación, natural o inducida que se localice en el Distrito Federal;
 
@@ -291,6 +291,10 @@ COSMOVISIÓN DE LOS GRUPOS INDÍGENAS: Es la manera de ver e interpretar a la Ti
 CUENCA DE MÉXICO: El ámbito geográfico comprendido por los estados de México, Puebla, Tlaxcala, Hidalgo y el Distrito Federal en la que tienen lugar los ciclos naturales del agua, aire, suelo y especies vivas que determinan las condiciones ambientales del Distrito Federal;
 
 CUERPO RECEPTOR: La corriente, depósito de agua, el cauce o bien del dominio público del Distrito Federal en donde se descargan, infiltran o inyectan aguas residuales;
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+CUERPOS DE AGUA: Masa o extensión de agua que en asociación con el terreno circundante genera nichos ecosistémicos con funciones únicas e imprescindibles para la vida humana.
 
 DAÑO AMBIENTAL: Toda pérdida, disminución, detrimento o menoscabo significativo inferido al ambiente o a uno o más de sus componentes;
 
@@ -2602,6 +2606,12 @@ VI. Colaborar con las autoridades en la persecución de fondos y/o financiamient
 
 VII. Las demás que determine el Acuerdo que expida el Jefe de Gobierno.
 
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 90 Bis 8.
+
+Los cuerpos de agua naturales y artificiales dentro del territorio y bajo las competencias de la Ciudad de México, cuya extensión y características contribuyen a mantener la calidad del ambiente de la entidad, son áreas de valor ambiental.
+
 ### CAPÍTULO III. ÁREAS NATURALES PROTEGIDAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -3056,37 +3066,61 @@ IV. La modificación o revocación de concesiones, permisos y, en general, de to
 
 Dentro del territorio del Distrito Federal, la Secretaría coadyuvará con las autoridades federales para la prevención y erradicación del tráfico de especies de flora y fauna silvestre, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-###### ARTÍCULO 118.
+###### Artículo 118.
 
-Para realizar la poda, derribo o trasplante de árboles se requiere de autorización previa de la Delegación respectiva.
+Las Alcaldías, en coordinación con la Secretaría del Medio Ambiente, tendrán a su cargo la conservación, mantenimiento, protección, restitución y desarrollo de los árboles que se encuentren dentro de su territorio.
 
-La delegación podrá autorizar el derribo, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares, cuando se requiera para la salvaguarda de la integridad de las personas o sus bienes, solamente en los siguientes casos:
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE OCTUBRE DE 2022)</small>
+
+Para realizar la poda, derribo, desmoche o trasplante de árboles únicamente en los que (sic) casos que se señalan más adelante, se requiere contar con autorización previa de la Alcaldía respectiva, la cual deberá remitirse en un plazo no mayor a 20 días hábiles, contados a partir de que se haga la solicitud.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 27 DE OCTUBRE DE 2022)</small>
+
+La Alcaldía podrá autorizar el derribo, poda o trasplante de árboles ubicados en bienes de dominio público o en propiedades particulares, únicamente cuando se requiere para salvaguarda de la integridad de las personas o sus bienes, en los siguientes casos:
+
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 I. Cuando exista riesgo real y presente para las personas o para sus bienes inmuebles;
 
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 II. Cuando exista riesgo real y presente para el patrimonio urbanístico o arquitectónico del Distrito Federal;
+
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 III. Cuando sean necesarias para el saneamiento del árbol; y
 
+> <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
+
 IV. Cuando deban ejecutarse para evitar afectaciones significativas en la infraestructura del lugar donde se encuentren.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-Cuando el derribo, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares se realice en contravención a lo establecido en las fracciones anteriores, se estará a lo dispuesto en los artículos 345 bis, 349, 349 bis y 349 ter del Código Penal para el Distrito Federal.
+En todos los demás casos distintos a los que se señalan en las fracciones anteriores, será la Secretaría quien resuelva en el ámbito de su competencia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 24 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-Cuando en el derribo, tala, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, se estará a lo dispuesto en el artículo 350 del Código Penal para el Distrito Federal.
+La autorización a que se refiere el presente artículo deberá estar sustentada mediante un dictamen técnico emitido por la Alcaldía correspondiente que avale la factibilidad del derribo, poda o trasplante de árboles.
 
-La autorización a que se refiere el presente artículo deberá estar sustentada mediante un dictamen técnico emitido por la delegación correspondiente que avale la factibilidad del derribo, poda o trasplante de árboles.
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+Los trabajos que se deriven de la autorización que al efecto concede la Alcaldía de los que se señalan en las fracciones I a IV del presente artículo, deberán ser ejecutados en un plazo no mayor a 20 días hábiles contados a partir de la fecha en que se emita la misma, conforme a los parámetros y especificaciones establecidas en las Normas Ambientales aplicables para la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 Asimismo, la poda será procedente cuando se requiera para mejorar o restaurar la estructura de los árboles.
 
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+
 En todo caso, el derribo de árboles sólo será procedente cuando no exista otra alternativa viable.
 
-La Secretaría expedirá conforme a las disposiciones previstas en esta Ley, las normas ambientales en las que se establezcan los requisitos y especificaciones técnicas que deberán cumplir las personas físicas o morales, tanto públicas como privadas, que realicen la poda, derribo y trasplante de árboles en el Distrito Federal.
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+La Secretaría expedirá conforme a las disposiciones previstas en esta ley, las normas ambientales en las que se establecen los requisitos y especificaciones técnicas que deberán cumplir las personas físicas o morales, tanto públicas como privadas, que realicen la poda, derribo y trasplante de árboles en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
 
 Lo dispuesto en este capítulo, así como en el Reglamento de la presente Ley y en las normas ambientales conducentes, serán aplicable a las actividades relacionadas con la poda, derribo o trasplante de árboles, siempre que dichas actividades no se realicen en terrenos forestales o de aptitud preferentemente forestal.
 
@@ -4877,3 +4911,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día natural siguiente de su p
 TERCERO. Dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, el Gobierno de la Ciudad de México expedirá las disposiciones necesarias para armonizar los instrumentos administrativos de su competencia al contenido del presente decreto, en función de la suficiencia presupuestal.
 
 CUARTO. La Jefatura de Gobierno de la Ciudad de México deberá elaborar las disposiciones reglamentarias a las que se refiere el Título Quinto de la presente Ley de la Prevención, Control y Acciones Contra la Contaminación Ambiental, dentro de los noventa días siguientes a la publicación del presente Decreto.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
