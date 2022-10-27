@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2022-06-15"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de abril de 2014.
 
@@ -209,7 +209,13 @@ IX. Violencia política contra las mujeres en razón de género: es toda acción
 
 X. Violencia vicaria: Todo acto u omisión intencional cometido contra una mujer, que ejerce la persona que mantenga o haya mantenido una relación con ella, ya sea de hecho, de pareja o similares de afectividad, aún sin convivencia y que por sí misma o por interpósita persona, utilice como medio a las hijas e hijos, familiares, personas mayores de sesenta años de edad, con discapacidad, mascotas o bienes de la víctima, para causarle algún tipo de daño o afectación psicoemocional, física, económica, patrimonial o de cualquier tipo tanto a la víctima como a quienes fungieran como medio.
 
-XI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres
+> <small>(ADICIONADA, D.O. 27 DE OCTUBRE DE 2022)</small>
+
+XI. Violencia simbólica: es cualquier acción u omisión que ejerce una persona sobre otra, a través de patrones estereotipados, mensajes, valores, ideas, íconos o signos que transmiten, justifican y reproducen dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad.
+
+> <small>(REFORMADA, D.O. 27 DE OCTUBRE DE 2022)</small>
+
+XII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -265,9 +271,15 @@ Este tipo de acciones u omisiones se basan en elementos de género, cuando se di
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-> <small>(ADICIONADA, D.O. 3 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O. 27 DE OCTUBRE DE 2022)</small>
 
-VII. Violencia digital: es cualquier acto realizado a través del uso de la tecnología de la información y comunicación (TIC), medio digital, redes sociales, u otra tecnología de transmisión de datos que de manera directa o indirecta facilite el intercambio de información entre personas, mediante conductas como el acoso, hostigamiento, amenazas, divulgación sin consentimiento de información privada, así como fotografías, textos, videos, datos personales sensibles, impresiones gráficas o sonoras con independencia de si son verdaderas o apócrifas, atentando en contra de la dignidad humana, imagen, integridad, intimidad, libertad, honor, seguridad u otro derecho y causando sufrimiento psicológico, físico, económico o sexual tanto a las mujeres como a su familia, dentro de cualquier ámbito público o privado.
+VII. Violencia digital: es toda acción dolosa realizada a través del uso de las tecnologías de la información y comunicación (TIC), medio digital, redes sociales, u otra tecnología de transmisión de datos que de manera directa o indirecta facilite, exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, fotografías, textos, audios videos, datos personales sensibles, impresiones gráficas o sonoras con independencia de si son verdaderas o apócrifas, de una persona sin su consentimiento, sin su aprobación o sin su autorización. Lo anterior, mediante conductas como el acoso, las expresiones discriminatorias, la suplantación de identidad, el hostigamiento, las amenazas, la divulgación sin consentimiento de información privada, y cualquier tipo de acto doloso que atente en contra de la dignidad humana, imagen, integridad, intimidad, libertad, honor, seguridad u otro derecho y cause sufrimiento psicológico, físico, económico o sexual tanto a las mujeres como a su familia, dentro de cualquier ámbito.
+
+> <small>(ADICIONADA, D.O. 27 DE OCTUBRE DE 2022)</small>
+
+VIII. Violencia mediática: es todo acto realizado a través de cualquier medio de comunicación, que de manera directa o indirecta promueva, genere o incentive estereotipos de género, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+
+La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra su dignidad.
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2020)</small>
 
@@ -687,7 +699,11 @@ XIV. En materia del delito de feminicidio, informar a las personas ofendidas sob
 
 XV. Proponer, elaborar, promover e implementar programas y protocolos para prevenir, atender, sancionar y erradicar la violencia digital en todas sus formas y manifestaciones.
 
-XVI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 27 DE OCTUBRE DE 2022)</small>
+
+XVI. Implementar campañas, programas y estrategias que incentiven a los medios de comunicación y a la sociedad, a generar contenidos e información libres de estereotipos de género que contribuyan a la concientización, sensibilización, prevención, detección, atención, protección, sanción y reeducación de la violencia contra las mujeres.
+
+XVII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 22.
 
@@ -781,9 +797,9 @@ VIII. Implementar lactarios para garantizar a las madres la protección adecuada
 
 IX. Crear instancias de las mujeres.
 
-> <small>(ADICIONADA, D.O. 23 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, D.O. 27 DE OCTUBRE DE 2022)</small>
 
-X. Implementar programas para prevenir, atender y sancionar la violencia digital en todas sus formas y manifestaciones.
+X. Implementar programas para prevenir, detectar, atender y sancionar la violencia digital y la mediática en todas sus formas y manifestaciones.
 
 XI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
@@ -967,7 +983,9 @@ II. Transformar los modelos socioculturales de conducta de mujeres y hombres, a 
 
 III. Impulsar la capacitación en materia de derechos humanos de las mujeres al personal encargado de la procuración de justicia, policías y demás servidores públicos encargados de las políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-IV. Promover entre los medios de comunicación, la erradicación de todos los tipos de violencia para fortalecer el respeto a los derechos humanos de las mujeres.
+> <small>(REFORMADA, D.O. 27 DE OCTUBRE DE 2022)</small>
+
+IV. Promover entre los medios de comunicación, la erradicación de todos los tipos de violencia para fortalecer el respeto a los derechos humanos de las mujeres. Así como fomentar la objetividad informativa con perspectiva de género, que privilegie la libertad y la dignidad de las mujeres.
 
 V. Implementar medidas de sensibilización a fin de concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres.
 
@@ -1124,6 +1142,22 @@ XIV. La entrega de alimentos provisionales en su favor y de sus hijos.
 > <small>(ADICIONADO, D.O. 3 DE JULIO DE 2019)</small>
 
 Además, el juzgador podrá ordenar al agresor, la cesación inmediata y definitiva de continuar realizando cualquier acto que constituya violencia digital.
+
+> <small>(ADICIONADO, D.O. 27 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 45 Bis.
+
+Órdenes de protección relativas a la violencia digital o mediática
+
+Cuando se trate de violencia digital o mediática para garantizar la integridad de la víctima, el Ministerio Público, la jueza o el juez, emitirán de manera inmediata, las órdenes de protección necesarias, solicitando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación definitiva de imágenes, audios o videos relacionados con la investigación, previa satisfacción de los requisitos de ley.
+
+En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de internet en donde se encuentre alojado el contenido y la localización precisa del contenido en internet, señalando el Localizador Uniforme de Recursos.
+
+La autoridad que emita las órdenes de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo con las características de éste.
+
+Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
+
+Dentro de los cinco días siguientes a la imposición de las órdenes de protección previstas en este artículo deberá celebrarse la audiencia en la que la o el juez de control podrá cancelarlas, ratificarlas o modificarlas considerando la información disponible, así como la irreparabilidad del daño.
 
 ###### Artículo 46.
 
@@ -1778,3 +1812,15 @@ Este Decreto entrará en vigor al día siguiente al de su publicación en el Dia
 Artículo Segundo. Cláusula derogatoria.
 
 Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto.
+
+D.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 564/2022 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA DIGITAL Y VIOLACIÓN A LA INTIMIDAD SEXUAL".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
