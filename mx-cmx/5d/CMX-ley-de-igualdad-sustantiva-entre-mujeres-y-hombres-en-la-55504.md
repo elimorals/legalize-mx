@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2022-06-02"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-02"
 
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -74,11 +74,13 @@ Para los efectos de esta Ley serán principios rectores la igualdad sustantiva, 
 
 Son sujetas de los derechos que establece esta Ley, todas aquellas personas que se encuentren en el territorio de la Ciudad de México, que estén en una situación o con algún tipo de desventaja, ante la violación del principio de igualdad que esta ley tutela.
 
-> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 4.
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones del artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, las disposiciones contenidas en la Constitución Política de la Ciudad de México, la Ley para Prevenir y Eliminar la Discriminación, la Ley de la Comisión de los Derechos Humanos del Distrito Federal, así como tratados e instrumentos internacionales de los que el Estado mexicano sea parte y demás ordenamientos aplicables en la materia.
+En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones del artículo 1° de la Constitución Política de los Estados Unidos Mexicanos, las disposiciones contenidas en la Constitución Política de la Ciudad de México, la Ley para Prevenir y Eliminar la Discriminación, la Ley Orgánica de la Comisión de Derechos Humanos de la Ciudad de México, así como tratados e instrumentos internacionales de los que el Estado mexicano sea parte y demás ordenamientos aplicables en la materia.
+
+> <small>(REFORMADO, G.O. 8 DE MARZO DE 2019)</small>
 
 La interpretación de esta Ley será conforme con los principios de universalidad, interdependencia, indivisibilidad, complementariedad, integralidad, progresividad y no regresividad, así como favoreciendo en todo tiempo la protección más amplia para las personas, debiendo siempre de optar por la regla de preferencia interpretativa más protectora y garantista, dejando de aplicar aquellas normas que menoscaben derechos y garantías.
 
@@ -212,9 +214,9 @@ Corresponde a las personas titulares de las Alcaldías:
 
 I. Implementar las acciones, políticas, programas, proyectos e instrumentos que garanticen la adopción de acciones afirmativas en las unidades administrativas de las alcaldías;
 
-> <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-II. En coordinación con la persona Titular de la Jefatura de Gobierno de la Ciudad de México, implementar y fortalecer los mecanismos institucionales de promoción y cumplimiento de la política de igualdad sustantiva en la Ciudad de México, mediante la aplicación del principio de transversalidad, a través de la Secretaría de las Mujeres y de la Comisión de Derechos Humanos del Distrito Federal.
+II. En coordinación con la persona Titular de la Jefatura de Gobierno de la Ciudad de México, implementar y fortalecer los mecanismos institucionales de promoción y cumplimiento de la política de igualdad sustantiva en la Ciudad de México, mediante la aplicación del principio de transversalidad, a través de la Secretaría de las Mujeres y de la Comisión de Derechos Humanos de la Ciudad de México.
 
 > <small>(REFORMADA, G.O. 8 DE MARZO DE 2019)</small>
 
@@ -742,11 +744,11 @@ V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES
 
-> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 38.
 
-La violación a los principios y programas, así como la omisión o negación de las acciones necesarias para el acceso de las mujeres al goce de la protección de la justicia que esta Ley prevé, por parte de los entes públicos de la Ciudad de México, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades Administrativas de la Ciudad de México y, en su caso, por las Leyes aplicables en la Ciudad de México, que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Distrito Federal.
+La violación a los principios y programas, así como la omisión o negación de las acciones necesarias para el acceso de las mujeres al goce de la protección de la justicia que esta Ley prevé, por parte de los entes públicos de la Ciudad de México, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades Administrativas de la Ciudad de México y, en su caso, por las Leyes aplicables en la Ciudad de México, que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal vigente en la Ciudad de México.
 
 ## TRANSITORIOS
 
@@ -863,6 +865,14 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su public
 G.O. 2 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 38 DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4, LA FRACCIÓN II DEL ARTÍCULO 9 BIS, Y EL ARTÍCULO 38 DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
