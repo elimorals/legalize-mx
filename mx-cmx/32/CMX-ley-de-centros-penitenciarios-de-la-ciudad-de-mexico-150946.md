@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-centros-penitenciarios-de-la-ciudad-de-mexico-150946"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-02"
-last_updated: "2021-09-02"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150946&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-08-31"
 
 LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE LA CIUDAD DE MÉXICO: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 675 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 2 de septiembre de 2021.
 
@@ -512,7 +512,9 @@ III. Contar con una persona encargada de su defensa;
 
 IV. Recibir las pruebas que presenten para su defensa;
 
-V. Disponer de una persona traductora o intérprete, en caso que lo requieran (sic); y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+V. Disponer de una persona traductora o intérprete, en caso de que la persona privada de la libertad pertenezca a un grupo o comunidad de origen étnico nacional. Cuando la persona privada de la libertad sea extranjera, se podrá coordinar para tal efecto con la representación diplomática o consular de la nacionalidad de procedencia; y
 
 VI. Los demás que determiné el Comité.
 
@@ -530,13 +532,15 @@ El funcionamiento y operación del Comité Técnico será establecido en el Manu
 
 Las autoridades del Sistema Penitenciario respetarán los derechos humanos y libertades fundamentales de las personas privadas de la libertad, garantizando su libre y pleno ejercicio, salvo aquellos que les son suspendidos por resolución judicial y los límites estrictamente necesarios para la seguridad y disciplina interna en los Centros Penitenciarios, así como los demás establecidos en las leyes y en los tratados internacionales.
 
-(NOTA: EL 11 DE JULIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2021, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 3 DE SEPTIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 ###### Artículo 22.
 
 Toda persona privada de la libertad en los Centros Penitenciarios, así como en la Casa de Medio Camino, gozará del mismo trato y oportunidades para el reconocimiento, goce o ejercicio de sus derechos humanos y las libertades fundamentales. Asimismo, podrá solicitar y disponer de una persona traductora o intérprete en caso de que lo requiera.
 
 Queda prohibida toda discriminación por origen étnico o nacional, edad, discapacidad, condición social, condiciones de salud, situación jurídica, religión, opiniones o cualquier otro motivo que atente contra la dignidad humana.
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+Las personas privadas de la libertad pertenecientes a un grupo o comunidad étnica residentes en la Ciudad de México, tendrán derecho a ser reconocidas como tales y gozar de la protección de la Ley en la materia sin que medie autorización especial por parte de la autoridad.
 
 Podrá solicitar y obtener facilidades para comunicarse con los organismos públicos de protección de derechos humanos y demás entidades públicas de naturaleza similar. En ningún caso se inhibirá, restringirá o será motivo de interferencias esta comunicación.
 
@@ -1687,3 +1691,13 @@ El Instituto de Capacitación Penitenciaria continuará en funciones hasta en ta
 Palacio Legislativo del Congreso de la Ciudad de México, a los treinta días del mes de agosto del año dos mil veintiuno.- POR LA MESA DIRECTIVA, DIPUTADA ANA PATRICIA BAEZ GUERRERO, PRESIDENTA, DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARIA, DIPUTADO PABLO MONTES DE OCA DEL OLMO (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los treinta y un días del mes de agosto del año dos mil veintiuno.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DE LAS MUJERES, INGRID GÓMEZ SARACÍBAR.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 19 Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 22, RECORRIÉNDOSE EN SU ÓRDEN EL SUBSECUENTE, AMBOS DE LA LEY DE CENTROS PENITENCIARIOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
