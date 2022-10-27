@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2021-05-10"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -39,7 +39,7 @@ QUE CONTIENE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
 El Honorable Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II, de la Constitución Política del Estado; D E C R E T A:
 
-.
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -221,7 +221,9 @@ V. Celebrar convenios con Instituciones de Educación Superior o inversionistas,
 
 VI. Celebrar acuerdos de coordinación con los Municipios;
 
-VII. Elaborar el anteproyecto de cuotas y tarifas, cuando preste los servicios públicos, de conformidad con las fórmulas previstas en esta Ley y enviarlo para su aprobación al Congreso del Estado y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+VII. Elaborar el anteproyecto de cuotas y tarifas, incluyendo la información y documentación técnica y normativa que lo sustente, cuando preste los servicios públicos, de conformidad con las fórmulas previstas en esta Ley y remitirlo, para su aprobación al Congreso del Estado; y
 
 VIII. Las demás que señale esta Ley, su Reglamento y otras disposiciones aplicables.
 
@@ -651,7 +653,9 @@ El Organismo Operador Municipal tendrá a su cargo:
 
 I. Las atribuciones a que se refiere el artículo 25 de la presente Ley;
 
-II. Elaborar el anteproyecto de las cuotas y tarifas de conformidad con lo establecido en la presente Ley, debiéndolas enviar para su revisión, análisis y opinión a su Junta de Gobierno y posteriormente al Congreso del Estado para su aprobación y publicación en el Periódico Oficial del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+II. Elaborar el anteproyecto de las cuotas y tarifas de conformidad con lo establecido en la presente Ley, incorporando la información y documentación técnica y normativa que lo sustente, debiéndolas enviar para su revisión, análisis y opinión a su Junta de Gobierno y, posteriormente remitirlo al Congreso del Estado para su aprobación y publicación en el Periódico Oficial del Gobierno del Estado;
 
 III. Establecer las oficinas necesarias dentro de su competencia;
 
@@ -1361,9 +1365,13 @@ V.- Promover planes y programas coordinados con los organismos públicos y priva
 
 VI.- Coadyuvar con las autoridades educativas en la aplicación de una educación ambiental en torno a la cultura del agua;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
 
-VII.- Promover el derecho humano al agua.
+VII.- Promover la utilización de sistemas, mecanismos o dispositivos de control e infiltración de agua pluvial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+VIII.- Promover el derecho humano al agua.
 
 ### CAPITULO IV. DEL SERVICIO PUBLICO DE TRATAMIENTO DE AGUAS VERTIDAS AL SISTEMA DE ALCANTARILLADO
 
@@ -1471,9 +1479,23 @@ La concesión será intransferible y su asignación se llevará a cabo en los t�
 
 La Comisión, tratándose de aguas estatales y con base en los estudios, los planes generales sobre aprovechamiento de los recursos hidráulicos del Estado y la programación hidráulica a que se refiere la presente Ley, en los volúmenes de agua disponibles, otorgará el título de concesión de agua a favor de la Comisión Federal de Electricidad, en el cual se determinará el volumen destinado a la generación de energía eléctrica y enfriamiento de plantas, así como las causas por las cuales podrá terminar la concesión.
 
-### CAPITULO VI. DEL USO EN OTRAS ACTIVIDADES PRODUCTIVAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-### CAPITULO VII. REGLAS PARA LA PRESTACION DE LOS SERVICIOS
+### CAPITULO V BIS. DEL CONTROL E INFILTRACION DE AGUA PLUVIAL
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 103 Bis.
+
+El Ejecutivo del Estado y los Municipios, en el ámbito de sus atribuciones promoverán que, en la construcción de obras que generen superficies impermeables, se utilicen y/o instalen mecanismos, sistemas o dispositivos de control e infiltración de agua pluvial.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 103 Ter.
+
+Los usuarios, previo a la construcción y/o instalación de un mecanismo, sistema o dispositivo de control e infiltración de agua pluvial, deben cumplir con la normativa que al efecto emitan las autoridades municipales y/o estatales en la materia.
+
+### CAPITULO VI. DEL USO EN OTRAS ACTIVIDADES PRODUCTIVAS
 
 ###### Artículo 104.
 
@@ -1483,7 +1505,7 @@ La Comisión en coordinación con las dependencias federales, estatales y munici
 
 Las actividades de acuacultura efectuadas en aguas estatales, en tanto no se desvíen los cauces y siempre que no se afecten la calidad del agua, y otros usos permitidos y los derechos de terceros, no requerirán de concesión.
 
-### CAPITULO I. DE LAS INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
+### CAPITULO VII. REGLAS PARA LA PRESTACION DE LOS SERVICIOS
 
 #### SECCION PRIMERA. CONTRATACION DE LOS SERVICIOS PUBLICOS
 
@@ -1638,6 +1660,22 @@ Todo lo relacionado con los predios o establecimientos, la forma en que otras au
 ###### Artículo 124.
 
 Todo usuario, tanto del sector público como del sector social o privado, está obligado al pago de los servicios públicos relacionados con el agua que se le presten, con base en las cuotas y tarifas fijadas en la Ley. Las personas adultas mayores, con discapacidad y/o jubiladas, que acrediten con estudio socioeconómico y demás elementos que fehacientemente y a satisfacción de los prestadores del servicio, no tener otros ingresos o depender económicamente de otra u otras personas, se les aplicará el subsidio correspondiente en la tarifa de servicio doméstico, que otorga el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Para los casos de cambio de situación económica en los que el usuario deje de ser dependiente económico, se aplicará la tarifa general de acuerdo a sus consumos, eliminándose el subsidio otorgado.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Las escuelas oficiales podrán gozar del beneficio del subsidio en el servicio, cuando su consumo sea menor de 50 metros cúbicos mensuales, aplicándose la cuota mínima al volumen anterior; rebasando los 50 metros cúbicos, al excedente se aplicará la tarifa general vigente.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Este beneficio no será aplicable a las escuelas particulares, quienes deberán pagar la tarifa de uso comercial correspondiente.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+A los hospitales, clínicas, y centros de salud del sector público, se aplicará el beneficio señalado en el párrafo tercero del presente artículo; quedan excluidos de este beneficio los hospitales y clínicas particulares.
 
 ###### Artículo 125.
 
@@ -2019,6 +2057,8 @@ En caso de que exista controversia entre los Municipios, Organismos Operadores M
 
 ## TITULO CUARTO
 
+### CAPITULO I. DE LAS INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
+
 #### SECCION PRIMERA. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 164.
@@ -2272,3 +2312,15 @@ P.O. 10 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 702 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 263 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 271 QUE REFORMAN LA FRACCIÓN VII, DEL ARTÍCULO 9, Y LA FRACCIÓN II, DEL ARTÍCULO 33; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO, AL ARTÍCULO 124, DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
