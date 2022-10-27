@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-patrimonio-cultural-natural-y-biocultural-de-la-144816"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-29"
-last_updated: "2021-05-21"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144816&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-10-28"
 
 LEY DE PATRIMONIO CULTURAL, NATURAL Y BIOCULTURAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 21 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 462 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 29 de octubre de 2020.
 
@@ -124,11 +124,21 @@ El Gobierno de la Ciudad, coadyuvará en términos de la Legislación Federal de
 
 Para la aplicación e interpretación de la presente Ley, se atenderán de manera enunciativa y no limitativa, los principios que a continuación se enlistan:
 
-I. Accesibilidad;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+I. Accesibilidad universal;
 
 II. Corresponsabilidad;
 
 III. Igualdad Sustantiva;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+III BIS. Igualdad y no discriminación;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+III TER. Equidad;
 
 IV. Interdependencia;
 
@@ -136,15 +146,39 @@ V. Indivisibilidad;
 
 VI. Paridad de Género;
 
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VI BIS. Perspectiva de género;
+
 VII. Participación;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VII BIS. Inclusión;
 
 VIII. Pro persona;
 
 IX. Progresividad;
 
-X. Transparencia y rendición de cuentas; y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-XI. Universalidad.
+X. Transparencia y rendición de cuentas;
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XI. Universalidad;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XII. Interculturalidad y pluriculturalidad;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XIII. Interés superior de la niñez; y
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XIV. Sostenibilidad.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -1045,3 +1079,11 @@ G.O. 21 DE MAYO DE 2021.
 PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PATRIMONIO CULTURAL, NATURAL Y BIOCULTURAL DE LA CIUDAD DE MÉXICO Y DE LA LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
