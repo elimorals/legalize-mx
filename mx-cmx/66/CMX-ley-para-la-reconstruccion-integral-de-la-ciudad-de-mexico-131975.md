@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-reconstruccion-integral-de-la-ciudad-de-mexico-1319
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-07"
-last_updated: "2020-06-22"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131975&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-07"
 
 LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 7 de diciembre de 2018.
 
@@ -422,39 +422,41 @@ La Comisión dará máxima publicidad a las acciones del proceso de Reconstrucci
 
 ## TÍTULO VII. SUPLETORIEDAD
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 40.
 
-Serán de aplicación supletoria a lo no previsto en la presente Ley, los siguientes ordenamientos:
+Serán de aplicación supletoria a lo no previsto en la presente Ley, los siguientes ordenamientos vigentes en la Ciudad de México;
 
-I. Código Civil para la Ciudad de México;
+I. Código Civil;
 
-II. Código Penal del Distrito Federal;
+II. Código Penal;
 
-III. Ley de Atención a Víctimas del Distrito Federal
+III. Ley de Victimas;
 
-IV. Ley de Desarrollo Urbano del Distrito Federal;
+IV. Ley de Desarrollo Urbano;
 
-V. Ley de Gobierno Electrónico del Distrito Federal;
+V. Ley de Ciudadanía Digital;
 
-VI. Ley del Instituto para la Seguridad (sic) las Construcciones;
+VI. Ley del Instituto para la Seguridad de las Construcciones;
 
-VII. Ley de Obras Públicas del Distrito Federal;
+VII. Ley de Obras Públicas;
 
-VIII. Ley de Procedimiento Administrativo de la Ciudad de México;
+VIII. Ley de Procedimiento Administrativo;
 
-IX. Ley de Propiedad en Condominios de Inmuebles para el Distrito Federal;
+IX. Ley de Propiedad en Condominio de Inmuebles;
 
-X. Ley de Salvaguarda del Patrimonio Urbanístico Arquitectónico del Distrito Federal;
+X. Ley de Patrimonio Cultural, Natural y Biocultural;
 
-XI. Ley del Sistema de Protección Civil del Distrito Federal;
+XI. Ley de Gestión Integral de Riesgos y Protección Civil;
 
-XII. Ley de Vivienda de la Ciudad de México;
+XII. Ley de Vivienda;
 
-XIII. Reglamento de Construcciones para el Distrito Federal;
+XIII. Reglamento de Construcciones;
 
-XIV. Reglamento de Obras del Distrito Federal;
+XIV. Reglamento de Obras;
 
-Así como demás ordenamientos legales relacionados con la materia de Reconstrucción de la Ciudad.
+Así como demás ordenamientos legales relacionados con la materia de Reconstrucción de la Ciudad México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE JUNIO DE 2020)</small>
 
@@ -521,3 +523,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La persona Titular de la Jefatura de Gobierno, emitirá las disposiciones jurídicas necesarias para proveer en la esfera administrativa la aplicación de este Decreto.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 40 DE LA LEY PARA LA RECONSTRUCCIÓN INTEGRAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
