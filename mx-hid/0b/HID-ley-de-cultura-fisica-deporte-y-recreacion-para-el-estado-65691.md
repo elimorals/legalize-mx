@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2022-10-21"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -83,9 +83,11 @@ X.- Operar e implementar programas integrales que vayan dirigidos a disminuir la
 
 Objeto que tienen (sic) el propósito de coadyuvar en la formación y desarrollo integral de las y de los habitantes del Estado de Hidalgo, en las actividades relacionadas con la cultura física, el deporte y la recreación.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 2.
 
-La función social del deporte, es la de fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas y fomentar la solidaridad y respeto como normas del deporte.
+La función del deporte, es la de fortalecer la interacción de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas y fomentar la solidaridad y respeto como normas del deporte.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2016)</small>
 
@@ -128,6 +130,10 @@ VI.- Cultura Física.- Conjunto de costumbres, conocimientos, ideas, valores y e
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2022)</small>
 
 VII.- Deporte.- Actividad y ejercicio físicos individuales o de conjunto institucionalizada y reglamentada, que con fines competitivos o recreativos se sujetan a reglas previamente establecidas y coadyuvan a la formación integral de la persona y al desarrollo y conservación de sus facultades físicas y mentales;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+VII Bis.- Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
 
 VIII.- Educación Física.- Actividad programada en el sistema educativo, por medio de la cual se adquiere, transmite y acrecienta la cultura física que contribuya al mejoramiento de la salud y de los procesos formativos;
 
@@ -225,9 +231,11 @@ DE LA CULTURA FÍSICA, DEPORTE Y RECREACIÓN.
 
 FOMENTO Y PROMOCIÓN DE LA CULTURA FÍSICA, DEPORTE Y RECREACIÓN.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 10.
 
-El Instituto Hidalguense del Deporte y los ayuntamientos en el ámbito de su competencia, promoverán el desarrollo deportivo para fortalecer la interacción e integración de la sociedad hidalguense, con la finalidad de desarrollar de manera armónica, las aptitudes físicas e intelectuales de las personas, así como su sano esparcimiento, destinando lugares apropiados para la práctica de las diferentes disciplinas deportivas.
+El Instituto Hidalguense del Deporte y los ayuntamientos en el ámbito de su competencia, promoverán el desarrollo deportivo y el deporte social para fortalecer la interacción e integración de la sociedad hidalguense, con la finalidad de desarrollar de manera armónica, las aptitudes físicas e intelectuales de las personas, así como su sano esparcimiento, destinando lugares apropiados para la práctica de las diferentes disciplinas deportivas.
 
 ###### Artículo 11.
 
@@ -269,9 +277,11 @@ El Instituto Hidalguense del Deporte, promoverá la participación activa y sist
 
 Se entiende por cultura del deporte, la manifestación social producto de valores, conocimientos y recursos generados en su desarrollo, orientada a realizar acciones permanentes fundadas en la investigación, en los requerimientos y en las posibilidades sociales, para extender sus beneficios a todos los sectores de la población.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 17.
 
-En el Programa Estatal de la Cultura Física, Deporte y Recreación, se establecerán acciones que promuevan su cultura, impulsen la investigación y capacitación de las disciplinas y ciencias aplicadas, y que fomenten el deporte popular.
+En el Programa Estatal de la Cultura Física, Deporte y Recreación, se establecerán acciones que promuevan su cultura, impulsen la investigación y capacitación de las disciplinas y ciencias aplicadas, y que fomenten el deporte social.
 
 ###### Artículo 18.
 
@@ -501,9 +511,11 @@ Las Autoridades Municipales, administrarán con transparencia y legalidad de man
 
 Los Ayuntamientos podrán expedir sus respectivos Reglamentos, sin contravenir las disposiciones de esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 38.
 
-El Municipio como célula básica de la Nación, deberá recibir el apoyo de las Entidades públicas y privadas para cumplir con su cometido en materia deportiva, haciéndose responsable del deporte popular y de las instalaciones deportivas.
+El Municipio como célula básica de la Nación, deberá recibir el apoyo de las Entidades públicas y privadas para cumplir con su cometido en materia deportiva, haciéndose responsable del deporte social y de las instalaciones deportivas.
 
 ###### Artículo 39.
 
@@ -767,7 +779,9 @@ III.- Deporte asociado;
 
 IV.- Deporte adaptado;
 
-V.- Deporte popular;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+V.- Deporte social;
 
 VI.- Deporte estudiantil;
 
@@ -1029,7 +1043,9 @@ La asignación de recursos económicos tendrá prioridad para aquella rama depor
 
 Los recursos económicos que se destinen para actividades deportivas, se emplearán en el siguiente orden de prelación:
 
-I.- Deporte popular recreativo o de convivencia;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+I.- Deporte social;
 
 II.- Deporte estudiantil, educativo o formativo, en la creación de escuelas de iniciación deportiva; y
 
@@ -1732,5 +1748,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 278 POR EL QUE SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 9 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 288 QUE REFORMA LOS ARTÍCULOS 2, 10, 17, 38, 65, 93 Y ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 6 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
