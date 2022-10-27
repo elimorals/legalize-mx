@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-fomento-al-empleo-para-la-ciudad-de-63499"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-08"
-last_updated: "2022-06-15"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63499&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2008-09-30"
 ---
 # LEY DE PROTECCION Y FOMENTO AL EMPLEO PARA LA CIUDAD DE MEXICO --ANTES LEY DE PROTECCION Y FOMENTO AL EMPLEO PARA EL DISTRITO FEDERAL--
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2023 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 8 de octubre de 2008.
 
@@ -42,61 +44,87 @@ LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA EL DISTRITO FEDERAL
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Distrito Federal y tiene por objeto establecer las bases de protección, promoción y fomento del empleo con el propósito de procurar el desarrollo económico y social integral.
+La presente Ley es de orden público, interés social y observancia general en la Ciudad de México y tiene por objeto establecer las bases de protección, promoción y fomento del empleo con el propósito de procurar el desarrollo económico y social integral.
 
-Asimismo, instituir y normar, como política pública, la programación del Seguro de Desempleo en beneficio de las y los trabajadores que involuntariamente pierdan su empleo formal en el Distrito Federal.
+Asimismo, instituir y normar, como política pública, la programación del Seguro de Desempleo en beneficio de las y los trabajadores que involuntariamente pierdan su empleo formal en la Ciudad de México.
 
 ###### Artículo 2.
 
 El desempleo para efectos de esta Ley, se tomará en cuenta cuando el trabajador por causas ajenas a su voluntad, deje o sea separado de su empleo formal con carácter temporal o definitivo, en la actividad que venía desarrollando y sea privado de su salario.
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 3.
 
-La aplicación de esta Ley corresponde al Jefe de Gobierno del Distrito Federal por conducto de la Secretaría de Trabajo y Fomento al Empleo y la Secretaría de Desarrollo Económico, ambas del Distrito Federal, así como de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, de conformidad con sus atribuciones y dentro del ámbito de sus respectivas competencias.
+La aplicación de esta Ley corresponde a la persona titular de la Jefatura de Gobierno por conducto de la Secretaría de Trabajo y Fomento al Empleo y la Secretaría de Desarrollo Económico, ambas de la Ciudad de México, así como de los órganos político-administrativos de las demarcaciones territoriales de la Ciudad de México de conformidad con sus atribuciones y dentro del ámbito de sus respectivas competencias.
 
 ###### Artículo 4.
 
 Para los efectos de lo establecido en esta Ley, se entenderá por:
 
-I. Beneficiario: Todo ciudadano asalariado mayor de 18 años que haya perdido su empleo por causas ajenas a su voluntad, resida en el territorio del Distrito Federal, y cumpla con los requisitos previstos en esta ley, para acceder a los beneficios del Seguro de Desempleo.
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-II. Consejo.- Al Consejo Consultivo para el Fomento y Protección al Empleo del Distrito Federal;
+I. Beneficiario: Todo ciudadano asalariado mayor de 18 años que haya perdido su empleo por causas ajenas a su voluntad, resida en el territorio de la Ciudad de México, y cumpla con los requisitos previstos en esta ley, para acceder a los beneficios del Seguro de Desempleo.
 
-III. Delegaciones.- A los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+II. Consejo.- Al Consejo Consultivo para el Fomento y Protección al Empleo de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+III. Alcaldías.- A los órganos político-administrativos de las demarcaciones territoriales de la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 IV. Acoso laboral.- Aquellas acciones realizadas de manera cotidiana contra determinada persona de su mismo entorno laboral, bien sea por su superior jerárquico o de igual nivel, tales como persecuciones tendientes a provocarle aislamiento, pérdida de la autoestima, desmerecimiento, violación de la intimidad, falsa denuncia, afectación en sus tareas laborales, intromisión en la computadora, utilización de influencias e indiferencia a sus reclamos.
 
-V. Jefe de Gobierno.- Al Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-VI. Ley.- A la Ley de Protección y Fomento al Empleo para el Distrito Federal;
+V. Persona titular de la Jefatura de Gobierno.- La persona titular de la Jefatura de Gobierno de la Ciudad de México;
 
-VII. Reglamento.- Al Reglamento de la Ley de Protección y Fomento al Empleo para el Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-VIII. Secretaría.- A la Secretaría de Trabajo y Fomento al Empleo del Gobierno del Distrito Federal;
+VI. Ley.- A la Ley de Protección y Fomento al Empleo para la Ciudad de México;
 
-IX. Secretaría de Desarrollo Económico.- A la Secretaría de Desarrollo Económico del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-X. Secretaría de Finanzas.- A la Secretaría de Finanzas del Gobierno del Distrito Federal; y
+VII. Reglamento.- Al Reglamento de la Ley de Protección y Fomento al Empleo para la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VIII. Secretaría.- A la Secretaría de Trabajo y Fomento al Empleo de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+IX. Secretaría de Desarrollo Económico.- A la Secretaría de Desarrollo Económico de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+X. Secretaría de Administración y Finanzas.- A la Secretaría de Administración y Finanzas de la Ciudad de México; y
 
 XI. Seguro: Al Seguro de Desempleo.
 
 ### Capítulo II. De las Facultades y Obligaciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 5.
 
-La persona titular de la Jefatura de Gobierno de la Ciudad de México, por conducto de la Secretaría, será responsable del cumplimiento de esta Ley y de sus disposiciones complementarias:
+La persona titular de la Jefatura de Gobierno, por conducto de la Secretaría, será responsable del cumplimiento de esta Ley y de sus disposiciones complementarias:
 
 I. Programar, dirigir y ejecutar el Seguro de Desempleo en la Ciudad de México;
 
-II. Promover la generación de nuevas fuentes de empleo y consolidar las existentes en el Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-III. Promover y observar que los programas y acciones de capacitación local y/o de regulación federal fortalezcan y eleven la calidad y productividad de la fuerza de trabajo y economía del Distrito Federal;
+II. Promover la generación de nuevas fuentes de empleo y consolidar las existentes en la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+III. Promover y observar que los programas y acciones de capacitación local y/o de regulación federal fortalezcan y eleven la calidad y productividad de la fuerza de trabajo y economía de la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2022)</small>
 
@@ -108,7 +136,9 @@ IV. Coordinar con la Secretaría de Desarrollo Económico, autoridades federales
 
 V. Fomentar una cultura emprendedora entre las clases, grupos y personas más desprotegidos y vulnerables de la sociedad a fin de que accedan a mejores niveles de bienestar, a través de programas y acciones de carácter laboral, económico y educativo de contenido social;
 
-VI. Propiciar de manera coordinada con la Secretaría de Desarrollo Económico, autoridades federales y las demás áreas competentes para atraer al Distrito Federal, inversiones nacionales y extranjeras, a través de una política competitiva de incentivos para la inversión, que promueva la generación de empleos;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VI. Propiciar de manera coordinada con la Secretaría de Desarrollo Económico, autoridades federales y las demás áreas competentes para atraer a la Ciudad de México, inversiones nacionales y extranjeras, a través de una política competitiva de incentivos para la inversión, que promueva la generación de empleos;
 
 VII. Fortalecer a los sectores público, privado y social, así como el fomento cooperativo, generadores de empleo, mediante el establecimiento de programas y acciones de apoyo empresarial, vinculación, distribución y comercialización de los bienes y servicios que produzcan, así como la proveeduría de sus productos a la administración pública local;
 
@@ -116,7 +146,9 @@ VIII. Contar con un sistema de información estadística, que contenga variables
 
 IX. Promover y realizar investigaciones para obtener el conocimiento exacto de:
 
-a) Las características fundamentales de la fuerza de trabajo, del desempleo y del subempleo en el Distrito Federal;
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+a) Las características fundamentales de la fuerza de trabajo, del desempleo y del subempleo en la Ciudad de México;
 
 b) De la oferta y demanda de trabajo, según las calificaciones requeridas y disponibles;
 
@@ -152,13 +184,17 @@ XXI. Promover y celebrar convenios de cooperación técnica y/o financiera con o
 
 XXII. Dirigir y orientar a los solicitantes más adecuados por su preparación y aptitudes, hacia los empleos vacantes.
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 6.
 
-En el marco del diseño de los planes y programas de política de empleo y del análisis del funcionamiento del mercado de trabajo, el Jefe de Gobierno deberá evaluar las condiciones existentes para determinar, en su caso, las modificaciones pertinentes que procedan a efecto de estimular el empleo en el Distrito Federal.
+En el marco del diseño de los planes y programas de política de empleo y del análisis del funcionamiento del mercado de trabajo, la persona titular de la Jefatura de Gobierno deberá evaluar las condiciones existentes para determinar, en su caso, las modificaciones pertinentes que procedan a efecto de estimular el empleo en la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 7.
 
-Corresponde a los Jefes Delegacionales:
+Corresponde a las personas titulares de las Alcaldías:
 
 I. Promover y fomentar el empleo en sus demarcaciones territoriales así como, coadyuvar con la Secretaría en el estudio, planeación y ejecución de los programas y acciones que en materia de empleo se determinen, de conformidad con esta Ley, el Reglamento y reglas de operación que al efecto expida la Secretaría;
 
@@ -172,9 +208,11 @@ IV. Las demás que le confiera esta Ley y su Reglamento.
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 8.
 
-El Seguro de Desempleo es un sistema de protección social para las personas desempleadas, residentes del Distrito Federal, tendiente a crear las condiciones para su incorporación al mercado de trabajo y al goce del derecho constitucional de empleo digno y socialmente útil.
+El Seguro de Desempleo es un sistema de protección social para las personas desempleadas, residentes de la Ciudad de México, tendiente a crear las condiciones para su incorporación al mercado de trabajo y al goce del derecho constitucional de empleo digno y socialmente útil.
 
 ###### Artículo 9.
 
@@ -194,9 +232,13 @@ Los objetivos específicos del Seguro son:
 
 I. Otorgar un derecho económico a los beneficiarios, bajo las condiciones establecidas en esta Ley;
 
-II. Estimular y promover la incorporación de las y los beneficiarios del Seguro a un empleo en el sector formal de la economía en el Distrito Federal, y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-III. Impulsar la capacitación de los beneficiarios en el desarrollo de nuevas habilidades que les permitan fortalecer su potencial laboral y orientarlos hacia la organización social del trabajo, a través de acciones complementarias implementadas por la Administración Pública del Distrito Federal en sus programas sociales.
+II. Estimular y promover la incorporación de las y los beneficiarios del Seguro a un empleo en el sector formal de la economía en la Ciudad de México, y
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+III. Impulsar la capacitación de los beneficiarios en el desarrollo de nuevas habilidades que les permitan fortalecer su potencial laboral y orientarlos hacia la organización social del trabajo, a través de acciones complementarias implementadas por la Administración Pública de la Ciudad de México en sus programas sociales.
 
 ###### Artículo 11.
 
@@ -204,19 +246,25 @@ El derecho a los beneficios del Seguro es de carácter personal e intransferible
 
 I. Sean mayores de 18 años;
 
-II. Residan en el Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+II. Residan en la Ciudad de México;
 
 III. Hayan laborado previamente a la pérdida del empleo, para una persona moral o física, con domicilio fiscal en la Ciudad de México, al menos durante seis meses;
 
 IV. No perciban otros ingresos económicos por concepto de jubilación, pensión, subsidio o relación laboral diversa;
 
-V. Se encuentren inscritas en las oficinas de empleo ya sea de manera directa en la Secretaría o en su caso en las Delegaciones;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+V. Se encuentren inscritas en las oficinas de empleo ya sea de manera directa en la Secretaría o en su caso en las Alcaldías;
 
 VI. Sean demandantes activas de empleo, y
 
 VII. Cumplan con el resto de los requisitos establecidos en esta Ley y demás disposiciones reglamentarias aplicables.
 
-### Capítulo III. De las obligaciones de la Secretaría, los beneficiarios y el Jefe de Gobierno
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+### Capítulo III. De las obligaciones de la Secretaría, los beneficiarios y la persona titular de la Jefatura de Gobierno
 
 ###### Artículo 12.
 
@@ -234,9 +282,11 @@ V. El domicilio de las oficinas y módulos a los que habrán de acudir los inter
 
 VI. Las demás que determine la Secretaría y el Reglamento.
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 13.
 
-La Secretaría deberá dar respuesta a las solicitudes presentadas por las personas interesadas en obtener el Seguro, en un plazo máximo de 10 días hábiles contados a partir de la recepción de las mismas; así como a publicar en la Gaceta Oficial del Distrito Federal y en su página de internet la lista de quienes, en su caso, accedan a dicho beneficio, salvaguardando las previsiones que en estos casos plantea la Ley de Transparencia y Acceso a la Información del Distrito Federal.
+La Secretaría deberá dar respuesta a las solicitudes presentadas por las personas interesadas en obtener el Seguro, en un plazo máximo de 10 días hábiles contados a partir de la recepción de las mismas; así como a publicar en la Gaceta Oficial de la Ciudad de México y en su página de internet la lista de quienes, en su caso, accedan a dicho beneficio, salvaguardando las previsiones que en estos casos plantea la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México.
 
 ###### Artículo 14.
 
@@ -268,15 +318,19 @@ IV. Cuando se esté cumpliendo condena que implique privación de la libertad;
 
 V. Realización de un trabajo por cuenta ajena de duración igual o superior a doce meses, o realización de un trabajo por cuenta propia, por tiempo igual o superior a veinticuatro meses;
 
-VI. Ser beneficiario de algún otro programa del Gobierno del Distrito Federal con ayuda económica;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VI. Ser beneficiario de algún otro programa del Gobierno de la Ciudad de México con ayuda económica;
 
 VII. Cambiarse de residencia al extranjero o algún otro Estado de la República Mexicana, y
 
 VIII. Renuncia voluntaria al derecho.
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 16.
 
-El Jefe de Gobierno, deberá incluir en el Proyecto de Presupuesto de Egresos del Distrito Federal, la asignación que garantice, efectivamente, el derecho al Seguro que se regula en la presente Ley, a favor de todas las personas desempleadas que cumplan los requisitos establecidos en la misma y los demás que señale la Secretaría para tal efecto.
+La persona titular de la Jefatura de Gobierno, deberá incluir en el Proyecto de Presupuesto de Egresos de la Ciudad de México, la asignación que garantice, efectivamente, el derecho al Seguro que se regula en la presente Ley, a favor de todas las personas desempleadas que cumplan los requisitos establecidos en la misma y los demás que señale la Secretaría para tal efecto.
 
 ### Capítulo IV. Disposiciones Complementarias
 
@@ -292,17 +346,23 @@ El beneficio del Seguro será entregado por la Secretaría, a través de una tar
 
 ### Capítulo I. De los Estímulos Fiscales
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 19.
 
-El Jefe de Gobierno a través de la Secretaría de Finanzas estimulará, apoyará, fomentará y promoverá acciones que eleven la productividad de las empresas, de tal manera que el crecimiento del empleo se traduzca en mayores niveles de bienestar para los habitantes del Distrito Federal.
+La persona titular de la Jefatura de Gobierno a través de la Secretaría de Administración y Finanzas estimulará, apoyará, fomentará y promoverá acciones que eleven la productividad de las empresas, de tal manera que el crecimiento del empleo se traduzca en mayores niveles de bienestar para los habitantes de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 20.
 
-La Secretaría de Finanzas podrá determinar el método o los métodos de protección mediante los cuales se proponen dar efecto a las disposiciones de esta Ley.
+La Secretaría de Administración y Finanzas podrá determinar el método o los métodos de protección mediante los cuales se proponen dar efecto a las disposiciones de esta Ley.
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 21.
 
-Podrán acogerse a los estímulos fiscales establecidos en la presente Ley y en el Reglamento, de acuerdo con los requisitos y condiciones que señale la Secretaría de Finanzas, las empresas que generen fuentes formales y permanentes de empleo.
+Podrán acogerse a los estímulos fiscales establecidos en la presente Ley y en el Reglamento, de acuerdo con los requisitos y condiciones que señale la Secretaría de Administración y Finanzas, las empresas que generen fuentes formales y permanentes de empleo.
 
 ###### Artículo 22.
 
@@ -316,7 +376,9 @@ Podrán tener acceso a los estímulos fiscales que se establecen en el presente 
 
 Las empresas que contraten indefinidamente desempleados en situación de exclusión social, podrán acogerse a los estímulos fiscales previstos en este capítulo. La situación de exclusión social se acreditará por los servicios sociales competentes y quedará determinada por alguno de los siguientes casos:
 
-I. Perceptores de cualquier prestación menor al salario mínimo general vigente para el Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+I. Perceptores de cualquier prestación menor al salario mínimo general vigente para la Ciudad de México;
 
 II. Personas que no puedan acceder a las prestaciones referidas en la presente Ley;
 
@@ -332,9 +394,11 @@ Las empresas beneficiadas por los estímulos fiscales, deberán hallarse al corr
 
 ### Capítulo II. Del Consejo
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 26.
 
-El Consejo Consultivo para el Fomento y Protección al Empleo del Distrito Federal, es un órgano colegiado de consulta en materia de protección al empleo para las instancias correspondientes, mismo que coordinará sus acciones con las demás dependencias encargadas de la protección y fomento al empleo.
+El Consejo Consultivo para el Fomento y Protección al Empleo de la Ciudad de México, es un órgano colegiado de consulta en materia de protección al empleo para las instancias correspondientes, mismo que coordinará sus acciones con las demás dependencias encargadas de la protección y fomento al empleo.
 
 ###### Artículo 27.
 
@@ -344,7 +408,9 @@ I. Proponer estrategias de trabajo que coadyuven a mejorar la orientación de la
 
 II. Crear los Comités necesarios para analizar la problemática de las diferentes áreas y, en su caso, plantear las propuestas de solución correspondiente;
 
-III. Formular las propuestas de incentivos a la inversión, analizando previamente las actividades estratégicas contenidas en los planes de fomento y protección al empleo de cada una de las delegaciones;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+III. Formular las propuestas de incentivos a la inversión, analizando previamente las actividades estratégicas contenidas en los planes de fomento y protección al empleo de cada una de las alcaldías;
 
 > <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -360,17 +426,27 @@ VII. Evaluar cada seis meses los efectos de las políticas de fomento y protecci
 
 El Consejo se integra por:
 
-I. Un Presidente, que será el Secretario del Trabajo y Fomento al Empleo;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-II. Un Vicepresidente, que será el titular de la Secretaría de Desarrollo Económico, y
+I. Una Presidencia, que estará a cargo de la persona titular de la Secretaría.
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+II. Una Vicepresidencia, que estará a cargo de la persona titular de la Secretaría de Desarrollo Económico, y
 
 III. Vocales:
 
-a) El Secretario de Gobierno del Distrito Federal;
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-b) El Secretario de Finanzas del Gobierno del Distrito Federal;
+a) La persona titular de la Secretaría de Gobierno de la Ciudad de México;
 
-c) El Secretario de Desarrollo Social del Gobierno del Distrito Federal;
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+b) La persona titular de la Secretaría de Administración y Finanzas;
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+c) La persona titular de la Secretaría de Inclusión y Bienestar Social de la Ciudad de México;
 
 d) Cinco representantes del sector privado relacionados con el tema del empleo, podrán ser de los sectores industrial, comercial y social, los cuales serán a invitación por el Presidente del Consejo; y
 
@@ -378,7 +454,9 @@ e) Tres representantes de organizaciones sociales afines con el tema.
 
 Los miembros del Consejo tendrán voz y voto en las sesiones que celebren, en caso de empate, el Presidente tendrá voto de calidad.
 
-Asimismo, podrán asistir como invitados, con voz pero sin voto, los Presidentes de las Comisiones de Asuntos Laborales y Previsión Social, de Fomento Económico y de Administración Pública Local de la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+Asimismo, podrán asistir como invitados, con voz pero sin voto, las presidencias de las Comisiones de Asuntos Laborales, Trabajo y Previsión Social, de Desarrollo Económico y de Administración Pública Local del Congreso de la Ciudad de México.
 
 ###### Artículo 29.
 
@@ -390,27 +468,35 @@ Los titulares que conforman el Consejo podrán nombrar a un representante suplen
 
 ### Capítulo III. Del padrón de personas que soliciten empleo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 31.
 
-La Secretaría elaborará en coordinación con las delegaciones, un padrón de las personas que soliciten empleo, según aptitudes, aspiraciones o profesión y de las empresas que manifiesten tener puestos vacantes.
+La Secretaría elaborará en coordinación con las alcaldías, un padrón de las personas que soliciten empleo, según aptitudes, aspiraciones o profesión y de las empresas que manifiesten tener puestos vacantes.
 
 El Reglamento determinará los datos personales, laborales y demás que considere la Secretaría para el padrón.
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 32.
 
-El padrón de las personas que soliciten empleo será regulado por la Secretaría y ésta deberá informar al Consejo y al Jefe de Gobierno para que, en el marco de sus atribuciones, tomen las medidas pertinentes para llevar a cabo los programas o en su caso, realizar las modificaciones o ajustes al mismo, con el objeto de propiciar una mayor estabilidad laboral.
+El padrón de las personas que soliciten empleo será regulado por la Secretaría y ésta deberá informar al Consejo y a la persona titular de la Jefatura de Gobierno para que, en el marco de sus atribuciones, tomen las medidas pertinentes para llevar a cabo los programas o en su caso, realizar las modificaciones o ajustes al mismo, con el objeto de propiciar una mayor estabilidad laboral.
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 33.
 
-La Secretaría deberá informar anualmente a la Asamblea Legislativa del Distrito Federal sobre los resultados del programa y contenidos del padrón para que en su caso, ésta en la esfera de sus atribuciones, oriente o coadyuve en la determinación de medidas complementarias para mejorar la protección al empleo.
+La Secretaría deberá informar anualmente al Congreso de la Ciudad de México sobre los resultados del programa y contenidos del padrón para que, en su caso, ésta en la esfera de sus atribuciones, oriente o coadyuve en la determinación de medidas complementarias para mejorar la protección al empleo.
 
 ## TÍTULO CUARTO. DEL RECURSO DE INCONFORMIDAD
 
 ### Capítulo Único. Del Recurso de Inconformidad
 
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 34.
 
-En contra de las resoluciones de las autoridades de fomento y protección al empleo, dictadas con fundamento en las disposiciones de esta Ley y demás reglamentarias, podrá interponerse recurso de inconformidad en la vía administrativa, en términos de lo dispuesto en la Ley de Procedimiento Administrativo del Distrito Federal.
+En contra de las resoluciones de las autoridades de fomento y protección al empleo, dictadas con fundamento en las disposiciones de esta Ley y demás reglamentarias, podrá interponerse recurso de inconformidad en la vía administrativa, en términos de lo dispuesto en la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ## TRANSITORIOS
 
@@ -463,3 +549,11 @@ G.O. 15 DE JUNIO DE 2022.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA LEY Y DEL CAPÍTULO TERCERO DEL TÍTULO SEGUNDO; SE REFORMAN LOS ARTÍCULOS 1, 3, 4, FRACCIONES I, II Y III, V, VI, VII, VIII, IX Y .X; 5 FRACCIONES II, III, VI Y IX INCISO A); 6, 7, 8, 10 FRACCIONES II Y III; 11 FRACCIONES II Y V; 13, 15 FRACCIÓN VI; 16, 19, 20, 21, 24 FRACCIÓN I; 26, 27 FRACCIÓN III; 28 FRACCIONES I, II, III, INCISOS A), B) Y C) Y ÚLTIMO PÁRRAFO; 31, 32, 33 Y 34; TODOS DE LA LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
