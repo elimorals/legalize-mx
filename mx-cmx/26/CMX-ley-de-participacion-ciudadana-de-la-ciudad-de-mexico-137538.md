@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-de-la-ciudad-de-mexico-137538"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-12"
-last_updated: "2021-08-18"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137538&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-08-12"
 
 LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 154 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 12 de agosto de 2019.
 
@@ -239,6 +239,18 @@ V. Recorridos Barriales;
 VI. Red de Contralorías Ciudadanas, y
 
 VII. Silla Ciudadana.
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VI. Red de Contralorías Ciudadanas;
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VII. Silla Ciudadana, y
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VIII. Parlamento abierto.
 
 ###### Artículo 8.
 
@@ -1620,7 +1632,9 @@ Los medios de impugnación en materia de participación ciudadana a que se refie
 
 La Defensoría Pública de Participación Ciudadana y Procesos Democráticos proporcionará asesoría y defensa de manera gratuita, para promover los medios de impugnación en materia de participación ciudadana previstos en esta ley y la normatividad aplicable.
 
-## TÍTULO OCTAVO. DE LOS INSTRUMENTOS DE GESTIÓN, EVALUACIÓN Y CONTROL DE LA FUNCIÓN PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+## TÍTULO OCTAVO. DE LOS INSTRUMENTOS DE GESTIÓN EVALUACIÓN Y CONTROL DE LA FUNCIÓN PÚBLICA
 
 ### CAPÍTULO I. DE LA AUDIENCIA PÚBLICA
 
@@ -2046,11 +2060,29 @@ En caso de ser varias las solicitudes, en función de la naturaleza de la agenda
 
 El reglamento del Cabildo de la Ciudad y de las Alcaldías regulará lo relativo a la Silla Ciudadana.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO IX. DEL PARLAMENTO ABIERTO
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+Artículo 183 bis. Para efectos de la presente Ley, se entenderá por Parlamento Abierto a la serie de acciones legislativas orientadas a la habilitación de espacios de interacción entre la ciudadanía y el Congreso de la Ciudad de México para que el ejercicio de su función sea evaluado, fiscalizado y sometido al escrutinio público conforme a los siguientes preceptos:
+
+I. Cultura de transparencia;
+
+II. Transparencia parlamentaria;
+
+III. Acceso a la información legislativa; y,
+
+IV. Uso de la tecnología y datos abiertos.
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+Artículo 183 ter. Las personas ciudadanas, vecinas y habitantes de la Ciudad de México tendrán derecho a monitorear las acciones legislativas del Congreso de la Ciudad de México.
 
 ## TÍTULO NOVENO. DE LA CONSTRUCCIÓN DE CIUDADANÍA
 
-### CAPÍTULO I. DE LAS CARACTERÍSTICAS COMUNES DE LAS PLATAFORMAS
+### CAPÍTULO ÚNICO
 
 ###### Artículo 184.
 
@@ -2090,7 +2122,7 @@ El Instituto garantizará el derecho de las niñas, niños, adolescentes y perso
 
 ## TÍTULO DÉCIMO. DE LAS PLATAFORMAS DE PARTICIPACIÓN
 
-### CAPÍTULO II. DE LA PLATAFORMA DE PARTICIPACIÓN DEL INSTITUTO
+### CAPÍTULO I. DE LAS CARACTERÍSTICAS COMUNES DE LAS PLATAFORMAS
 
 ###### Artículo 188.
 
@@ -2134,7 +2166,7 @@ Dichas autoridades podrán donar plataformas existentes de participación digita
 
 Las plataformas deberán ser desarrolladas con tecnologías que respeten los principios de austeridad y eficiencia en el ejercicio de recursos públicos y los mecanismos e instrumentos que se lleven a cabo en las plataformas, y que tengan un componente de votación, deberán permitir la auditoría del proceso de votación por parte del Comité Técnico referido en el Artículo 192 de esta Ley. Asimismo el Comité podrá publicar reportes de dichas auditorías.
 
-### CAPÍTULO III. DE LA PLATAFORMA DE PARTICIPACIÓN DEL GOBIERNO DE LA CIUDAD DE MÉXICO
+### CAPÍTULO II. DE LA PLATAFORMA DE PARTICIPACIÓN DEL INSTITUTO
 
 ###### Artículo 194.
 
@@ -2151,6 +2183,8 @@ El Instituto Electoral deberá de proveer la infraestructura tecnológica para e
 ###### Artículo 197.
 
 El Instituto Electoral garantizará a las autoridades responsables establecidas en esta Ley el acceso y permisos correspondientes para el cumplimiento de sus obligaciones.
+
+### CAPÍTULO III. DE LA PLATAFORMA DE PARTICIPACIÓN DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
 ###### Artículo 198.
 
@@ -2325,3 +2359,11 @@ Cuarto. La Secretaría de Administración y Finanzas de la Ciudad de México deb
 Quinto. La Secretaría de Administración y Finanzas de la Ciudad de México deberá realizar las acciones necesarias a fin de dar cumplimiento al presente Decreto.
 
 Sexto. A más tardar el 5 de septiembre de 2021, el Instituto Electoral de la Ciudad de México deberá publicar en la Gaceta Oficial de la Ciudad de México, el porcentaje de avance de la celebración de las asambleas de información y selección, así como la constitución de los comités de Ejecución y de Vigilancia.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII AL INCISO C DEL ARTÍCULO 7; ASÍ COMO UN CAPÍTULO IX AL TÍTULO OCTAVO; TODOS DE LA LEY DE PARTICIPACIÓN CIUDADANA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México;
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
