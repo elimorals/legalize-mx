@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2022-07-15"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -152,6 +152,10 @@ Además de impartir educación en los términos establecidos en la Constitución
 La Secretaría y las autoridades educativas municipales buscarán la equidad, la excelencia y la mejora continua en la educación, para lo cual colocarán al centro de la acción pública a las niñas, niños, adolescentes y jóvenes, salvaguardando en todo momento el interés superior de la niñez.
 
 Las acciones que realicen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+La Secretaría y autoridades educativas municipales, en coordinación con la Secretaría de Salud, implementarán programas de capacitación dirigidos al personal docente, en materia de detección de situaciones o factores de riesgo relacionados con la salud mental de los educandos. Los docentes deben informar de inmediato a las autoridades correspondientes si detectan algún caso de riesgo.
 
 ###### Artículo 11.
 
@@ -851,9 +855,11 @@ El calendario que la Autoridad Educativa Federal determine para cada ciclo lecti
 
 Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo. Además de conocer y acatar los lineamientos y protocolos expedidos por la Secretaría para la atención oportuna de situaciones en las que se vean vulnerados los derechos de las niñas, niños, adolescentes y jóvenes.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 78.
 
-La Secretaría desarrollará actividades de información y orientación como pláticas, conferencias, talleres, cápsulas informativas a través de los medios digitales e impresos para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, la cultura de la paz, buenos hábitos de salud, educación sexual integral y reproductiva, perspectiva de género, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+La Secretaría desarrollará actividades de información y orientación como pláticas, conferencias, talleres, cápsulas informativas a través de los medios digitales e impresos para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, la cultura de la paz, buenos hábitos de salud, educación sexual integral y reproductiva, perspectiva de género, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, la adopción de estilos de vida sustentables, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 ### CAPÍTULO VII. DE OTROS COMPLEMENTOS DEL PROCESO EDUCATIVO
 
@@ -1047,7 +1053,9 @@ En el caso de los docentes de educación indígena que no tengan licenciatura co
 
 La Secretaría constituirá el Sistema Integral de Formación, Capacitación y Actualización del Estado de Hidalgo, para que las maestras y los maestros ejerzan su derecho de acceder a éste, en términos de lo establecido en la Ley Reglamentaria del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación.
 
-Las opciones de formación, capacitación y actualización tendrán contenidos con perspectiva de género, enfoque de derechos humanos, además de tomar en cuenta los contextos locales y regionales de la prestación de los servicios educativos, así como las condiciones de vulnerabilidad social.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Las opciones de formación, capacitación y actualización tendrán contenidos con perspectiva de género, enfoque de derechos humanos, así como desarrollo sustentable, además de tomar en cuenta los contextos locales y regionales de la prestación de los servicios educativos, así como las condiciones de vulnerabilidad social.
 
 ###### Artículo 99.
 
@@ -1061,7 +1069,9 @@ III. La promoción de programas de especialización, maestría y doctorado para 
 
 IV. La realización de programas de inducción, actualización, capacitación y superación profesional para las maestras y maestros;
 
-V. La promoción del enfoque de derechos humanos, de igualdad sustantiva, la cultura de la paz y la integridad en la práctica de las funciones de las maestras y los maestros; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+V. La promoción del enfoque de derechos humanos, de igualdad sustantiva, la cultura de la paz, el desarrollo sustentable y la integridad en la práctica de las funciones de las maestras y los maestros; y
 
 VI. El desarrollo de la investigación pedagógica y la difusión de la cultura educativa.
 
@@ -2148,5 +2158,17 @@ P.O. 9 DE JUNIO DE 2022.
 P.O. 15 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 219 POR EL QUE SE ADICIONA EL ARTÍCULO 8 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 248 POR EL QUE SE REFORMAN LOS ARTÍCULOS 78, 98 Y 99 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 287 REFORMA LA FRACCIÓN I DEL ARTÍCULO 142 QUINQUIES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
