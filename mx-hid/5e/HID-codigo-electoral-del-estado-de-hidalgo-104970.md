@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2021-09-15"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -631,21 +631,17 @@ c. Las cantidades que, en su caso, se determinen para cada partido, serán entre
 
 d. PARA EL DESARROLLO DE LAS ACTIVIDADES ESPECÍFICAS, A QUE SE REFIERE LA FRACCIÓN IV DE ESTE ARTÍCULO, CADA PARTIDO POLÍTICO ADICIONALMENTE DEBERÁ DESTINAR ANUALMENTE POR LO MENOS EL DOS POR CIENTO DEL FINANCIAMIENTO PÚBLICO ORDINARIO QUE RECIBA;
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL PÁRRAFO PRIMERO DEL INCISO E DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+e. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente al menos, el ocho por ciento del financiamiento público ordinario;
 
-e. PARA LA CAPACITACIÓN, PROMOCIÓN Y EL DESARROLLO DEL LIDERAZGO POLÍTICO DE LAS MUJERES, CADA PARTIDO POLÍTICO DEBERÁ DESTINAR ANUALMENTE AL MENOS, EL OCHO POR CIENTO DEL FINANCIAMIENTO PÚBLICO ORDINARIO;
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+e Bis. Para la capacitación, promoción y el desarrollo del liderazgo político de los jóvenes, cada partido político deberá destinar anualmente al menos, el tres por ciento del financiamiento público ordinario.
 
-Para efectos del párrafo anterior deberá informar trimestralmente y en términos cualitativos su aplicación a efecto de que, conforme a la Ley General de Partidos Políticos, así como las demás disposiciones aplicables, el Instituto Estatal Electoral verifique su cumplimiento.
+Para efectos de los incisos e y e Bis deberá informar trimestralmente y en términos cualitativos su aplicación a efecto de que, conforme a la Ley General de Partidos Políticos, así como las demás disposiciones aplicables, el Instituto Estatal Electoral verifique su cumplimiento.
 
-(NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2019)</small>
-
-EN CASO DE INCUMPLIMIENTO, LAS AUTORIDADES COMPETENTES DETERMINARÁN LAS SANCIONES CORRESPONDIENTES; Y
+En caso de incumplimiento, las autoridades competentes determinarán las sanciones correspondientes; y
 
 (NOTA: EL 5 DE DICIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 108/2019 Y SU ACUMULADA 118/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 203 QUE ADICIONA EL INCISO F DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN EL QUE CONCLUYA EL PRÓXIMO PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1369,9 +1365,15 @@ XLV. Verificar el cumplimiento de los criterios generales que emita el Instituto
 
 XLVI. Vigilar que las actividades de los partidos políticos, asociaciones políticas y candidatos se desarrollen con apego a este Código, la Ley General de Instituciones y Procedimientos Electorales, así como a la Ley General de Partidos Políticos, y cumplan con las obligaciones a que están sujetos;
 
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+XLVI Bis. Promover, con fundamento en las disposiciones normativas de la materia, los mecanismos de transparencia, anticorrupción, control y confianza que deban atender las candidatas y los candidatos; a fin de que la ciudadanía pueda emitir un voto informado;
+
 XLVII. Aprobar el calendario integral del proceso electoral, a propuesta de la Junta Estatal Ejecutiva;
 
-XLVIII. Aprobar la celebración de debates entre candidatos expidiendo los lineamientos generales que deberán aplicarse; y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+XLVIII. Aprobar la celebración de los debates entre candidatas y/o candidatos expidiendo los lineamientos generales que deberán aplicarse, con un amplio sentido de igualdad e inclusión.
 
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -6470,3 +6472,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La reglamentación y normatividad afectada por este Decreto, deberá adecuarse en un plazo no mayor a 45 días, una vez publicado el presente.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 228 QUE SE ADICIONA LA FRACCIÓN XLVI BIS AL ARTÍCULO 66 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 286 REFORMA EL INCISO E Y ADICIONA EL INCISO E BIS A LA FRACCIÓN I DEL ARTÍCULO 30 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 293 POR EL QUE SE REFORMA LA FRACCIÓN XLVIII DEL ARTÍCULO 66 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
