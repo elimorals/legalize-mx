@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-operacion-e-innovacion-digital-para-la-ciudad-de-132083"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2020-01-09"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132083&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el 31 de diciembre de 2018.
 
@@ -124,7 +124,7 @@ V. Acceso abierto: La posibilidad de que terceros utilicen una infraestructura d
 
 VI. Acceso a la información: Es el Derecho Humano a solicitar, investigar, difundir, buscar y recibir información conforme lo establecido en el Artículo 6º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información, los derechos correlativos previstos en la Constitución Política de la Ciudad de México, y la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México;
 
-VII. Beneficiarios finales: Son los destinatarios finales, —en caso de que la titularidad o control se ejerza mediante una cadena de titularidad o a partir de otros medios— que poseen o controlan las personas físicas o morales en cuyo nombre se realiza una transacción. Incluye también a las personas que ejercen el control efectivo final sobre una persona jurídica u otra estructura jurídica;
+VII. Beneficiarios finales: Son los destinatarios finales, en caso de que la titularidad o control se ejerza mediante una cadena de titularidad o a partir de otros medios— que poseen o controlan las personas físicas o morales en cuyo nombre se realiza una transacción. Incluye también a las personas que ejercen el control efectivo final sobre una persona jurídica u otra estructura jurídica;
 
 VIII. Ciudad. La Ciudad de México;
 
@@ -234,7 +234,9 @@ L. Oportunidad: Obligación de las autoridades para que los datos abiertos en po
 
 LI. Participación: Promover y garantizar el máximo nivel de involucramiento y retroalimentación de la población y organizaciones de la sociedad civil, además de los beneficiarios, en las decisiones, procesos y acciones de gobierno, así como en la formulación, ejecución y evaluación de sus políticas y programas;
 
-LII. Permanencia: Los datos generados o en posesión de la Administración Pública de la Ciudad de México deberán conservarse en el tiempo, para lo cual, las versiones históricas relevantes para uso público se mantendrán disponibles con identificadores adecuados al efecto, de conformidad con lo dispuesto en la Ley de Archivos del Distrito Federal y demás normativa en la materia;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+LII. Permanencia: Los datos generados o en posesión de la Administración Pública de la Ciudad de México deberán conservarse en el tiempo, para lo cual, las versiones históricas relevantes para uso público se mantendrán disponibles con identificadores adecuados al efecto, de conformidad con lo dispuesto en la Ley de Archivos de la Ciudad de México y demás normativa en la materia;
 
 LIII. Plataforma de Interoperabilidad Gubernamental: La Plataforma de intercambio de información que permite a las distintas entidades y dependencias de la Ciudad de México intercambiar información de manera segura al proporcionar un servicio estandarizado y encriptado para producir y consumir servicios de información asegurando la confidencialidad, integridad e interoperabilidad entre usuarios del sistema;
 
@@ -1121,3 +1123,11 @@ Las facultades conferidas en esta Ley a la Fiscalía General de Justicia de la C
 ###### ARTÍCULO DÉCIMO.
 
 Todas las referencias realizadas en otras disposiciones normativas al Identificador Digital Único se entenderán por el Autenticador Digital Único.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 6, FRACCIÓN LII DE LA LEY DE OPERACIÓN E INNOVACIÓN DIGITAL PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
