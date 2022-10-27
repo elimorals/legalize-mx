@@ -4,7 +4,7 @@ identifier: "LGIPD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-05-30"
-last_updated: "2022-04-29"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81490&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGIPD"
 
 LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de mayo de 2011.
 
@@ -272,17 +272,27 @@ El Sector Salud expedirá a las personas con discapacidad un certificado de reco
 
 ### Capítulo II. Trabajo y Empleo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 11.
 
-La Secretaría del Trabajo y Previsión Social promoverá el derecho al trabajo y empleo de las personas con discapacidad en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral. Para tal efecto, realizará las siguientes acciones:
+La Secretaría del Trabajo y Previsión Social promoverá el derecho de las personas con discapacidad al trabajo digno y al empleo, en igualdad de oportunidades y equidad, de manera que se les otorgue certeza en su desarrollo personal, social y laboral. Para tal efecto, realizará las siguientes acciones:
 
-I. Prohibir cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral, promoción profesional y asegurar condiciones de trabajo accesibles, seguras y saludables;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2022)</small>
 
-II. Diseñar, ejecutar, evaluar y promover políticas públicas para la inclusión laboral de las personas con discapacidad atendiendo a su clasificación, en el sector público o privado, que protejan la capacitación, empleo, contratación y derechos sindicales, en su caso, de las personas con discapacidad;
+I. Prohibir cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral y promoción profesional; asegurando condiciones de trabajo accesibles, seguras y saludables;
 
-III. Elaborar e instrumentar el programa nacional de trabajo y empleo para las personas con discapacidad, que comprenda la capacitación, creación de agencias de integración laboral, acceso a bolsas de trabajo públicas o privadas, centros de trabajo protegido, talleres, asistencia técnica, formación vocacional o profesional, becas en cualquiera de sus modalidades, inserción laboral de las personas con discapacidad en la administración pública de los tres órdenes de gobierno, a través de convenios con los sectores público, social y privado;
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2022)</small>
 
-IV. Proporcionar asistencia técnica y legal a los sectores productivos, social y privado, en materia laboral de discapacidad, que así lo soliciten;
+II. Diseñar, ejecutar, evaluar y promover políticas públicas para la inclusión laboral de las personas con discapacidad atendiendo a sus competencias laborales, tanto en el sector público como en el privado, de modo que se proteja la capacitación, el empleo digno, la contratación y los derechos laborales, en su caso, de las personas con discapacidad;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2022)</small>
+
+III. Elaborar e instrumentar el programa nacional de trabajo y empleo para las personas con discapacidad, que comprenda la capacitación, creación de agencias de inclusión laboral, acceso a bolsas de trabajo públicas o privadas, centros de trabajo con infraestructura, talleres, asistencia técnica, formación vocacional o profesional, becas en cualquiera de sus modalidades, inserción laboral de las personas con discapacidad en la administración pública de los tres órdenes de gobierno, a través de convenios con los sectores público, social y privado;
+
+> <small>(REFORMADA, D.O.F. 27 DE OCTUBRE DE 2022)</small>
+
+IV. Proporcionar asistencia técnica y legal a los sectores productivos que así lo soliciten, tanto sociales como privados, en materia de derechos e inclusión laboral para personas con discapacidad;
 
 V. Revisar las Normas Oficiales Mexicanas a efecto de permitir el pleno acceso y goce de los derechos en materia laboral establecidos por la presente Ley y demás disposiciones aplicables;
 
@@ -915,3 +925,9 @@ D.O.F. 29 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 4 DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 11 DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
