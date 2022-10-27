@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2022-10-26"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2022.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -2821,11 +2821,9 @@ Las áreas administrativas brindarán el apoyo necesario al Instituto de la Judi
 
 El Instituto de la Judicatura podrá auxiliar al Instituto Federal de Defensoría Pública en la ejecución de su Plan Anual de Capacitación y Estímulo.
 
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
-
 ###### Artículo 109 Bis.
 
-El Instituto de la Judicatura evaluará periódicamente y propondrá mejoras a los programas de becas; y tramitará el otorgamiento de las mismas, con la participación que, en su caso, corresponda a otras áreas administrativas.
+(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE RECURSOS HUMANOS, D.O.F. 27 DE OCTUBRE DE 2022)
 
 ###### Artículo 110.
 
@@ -4359,13 +4357,25 @@ XXXVII. Realizar el entero a los terceros institucionales del personal a cargo d
 
 XXXVIII. Validar las propuestas de movimientos e incidencias del personal a cargo del Consejo, conforme a las disposiciones aplicables;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE RECURSOS HUMANOS, D.O.F. 27 DE OCTUBRE DE 2022)</small>
 
-XXXIX. Refrendar las credenciales de los servidores públicos, niveles 2 a 33 del Catálogo General de Puestos, en la Ciudad de México y Zona Conurbada; y
+XXXIX. Refrendar las credenciales de las personas servidoras públicas, niveles 2 a 33 del Catálogo General de Puestos, en la Ciudad de México y Zona Conurbada;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE RECURSOS HUMANOS, D.O.F. 27 DE OCTUBRE DE 2022)</small>
 
-XL. Las demás que establezcan el Pleno y las Comisiones.
+XL. Elaborar los Lineamientos del Programa de Becas para las personas servidoras públicas a cargo del Consejo de la Judicatura Federal que ocupan puestos administrativos; tramitar y llevar a cabo el reembolso de los recursos autorizados para el otorgamiento de becas; y realizar cualquier otro trámite relacionado con dicho Programa, con la participación que, en su caso, corresponda a otras áreas administrativas;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE RECURSOS HUMANOS, D.O.F. 27 DE OCTUBRE DE 2022)</small>
+
+XLI. Llevar a cabo el trámite y el reembolso de los recursos autorizados para el otorgamiento de apoyos económicos (becas) para realizar estudios de posgrado a personas servidoras públicas de la Carrera Judicial, así como a los secretarios técnicos del Consejo de la Judicatura Federal; evaluar periódicamente, proponer mejoras a los programas de becas y cualquier otro trámite relacionado con dicho Programa con la participación que, en su caso, corresponda a otras áreas administrativas;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE RECURSOS HUMANOS, D.O.F. 27 DE OCTUBRE DE 2022)</small>
+
+XLII. Elaborar las reglas operativas, la implementación y coordinación del Programa de Prácticas Judiciales en órganos jurisdiccionales, a partir del reclutamiento de las personas, la recepción de informes, la celebración de convenios, el pago de la contraprestación correspondiente, hasta el fin de su estancia, teniendo en cuenta para ello, el diseño de la política académica elaborada por la Escuela Federal de Formación Judicial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE RECURSOS HUMANOS, D.O.F. 27 DE OCTUBRE DE 2022)</small>
+
+XLIII. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 171.
 
@@ -6864,3 +6874,11 @@ La Secretaría Ejecutiva de Administración, por conducto de las áreas administ
 DÉCIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del tribunal de apelación o, en su caso, en la oficina de correspondencia común que preste sus servicios o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
 
 DÉCIMO PRIMERO. La Visitaduría Judicial ajustará a los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Tribunales Colegiados de Apelación. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
+
+D.O.F. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE RECURSOS HUMANOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal del Consejo de la Judicatura Federal en Intranet e Internet.
