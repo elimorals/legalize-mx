@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cooperativo-para-la-ciudad-de-mexico-antes-47952
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-20"
-last_updated: "2021-03-19"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47952&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2006-01-06"
 
 LEY DE FOMENTO COOPERATIVO PARA LA CIUDAD DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MARZO DE 2021.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de enero de 2006.
 
@@ -172,9 +172,17 @@ VII. Protección, conservación, consolidación y uso racional del patrimonio so
 
 VIII. Organización social para el trabajo mediante el reconocimiento de las sociedades cooperativas como organismos de utilidad pública para el bienestar común y sujetas al fin social que establecen nuestras leyes;
 
-IX. Simplificación, agilidad, información, precisión, legalidad, transparencia e imparcialidad en los actos y procedimientos administrativos; y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-X. Otorgar estímulos fiscales y apoyo económico en los términos que establezca esta Ley, las autoridades y el Código Fiscal de la Ciudad de México.
+IX. Simplificación, agilidad, información, precisión, legalidad, transparencia e imparcialidad en los actos y procedimientos administrativos;
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+X. Otorgar estímulos fiscales y apoyo económico en los términos que establezca esta Ley, las autoridades y el Código Fiscal de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XI. Fomentar la creación y adecuado desarrollo de sociedades cooperativas de vivienda, como canales sociales para garantizar el cumplimiento del derecho humano a una habitación digna y accesible. En el otorgamiento de estímulos fiscales y apoyos económicos tendrán prioridad aquellas que atiendan sectores vulnerables y contribuyan a la adquisición de vivienda de interés social.
 
 > <small>(REFORMADO, G.O. 19 DE MARZO DE 2021)</small>
 
@@ -519,3 +527,11 @@ G.O. 19 DE MARZO DE 2021.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES IX Y X, Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 5 DE LA LEY DE FOMENTO COOPERATIVO PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
