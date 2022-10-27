@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-07-27"
+last_updated: "2022-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -83,13 +83,17 @@ VIII.- Programa.- Programa Estatal de Atención a la Juventud;
 
 IX.- Ley.- Ley de la Juventud del Estado de Hidalgo;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-X.- Consejo.- El Consejo Consultivo de la Juventud; y
+X.- Consejo. El Consejo Consultivo de la Juventud;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-XI.- Instancias.- Instancias Municipales de Juventud.
+XI.- Instancias. Instancias Municipales de Juventud; y
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+XII.- Violencia contra las personas jóvenes: Cualquier acción u omisión que, a través del uso o abuso de la fuerza física o del poder ejercido sobre una persona joven, tiene por objeto, fin o resultado causar daño físico, psicológico, patrimonial, económico, o sexual o su mal desarrollo, generado en cualquiera de sus modalidades o manifestaciones.
 
 ###### Artículo 3.
 
@@ -137,7 +141,9 @@ I.- Una vida digna;
 
 II.- La no discriminación;
 
-III.- Ser protegidos y respetados en su integridad física y mental;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+III.- Una vida libre de violencia, a ser protegidos y respetados en su integridad física y mental;
 
 IV.- La salud y asistencia social;
 
@@ -187,15 +193,25 @@ Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos P�
 
 Los jóvenes tienen reconocidos sus derechos y no deberá hacerse ningún tipo de discriminación en razón de género, religión, lengua, estado civil, preferencia sexual, afiliación política, origen étnico o nacional, condición social o económica, condiciones de salud, discapacidad, o cualquiera otra condición.
 
-#### SECCIÓN TERCERA. DEL DERECHO A SER PROTEGIDOS Y RESPETADOS EN SU INTEGRIDAD FÍSICA Y MENTAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+#### SECCIÓN TERCERA. DEL DERECHO A UNA VIDA LIBRE DE VIOLENCIA, A SER PROTEGIDOS Y RESPETADOS EN SU INTEGRIDAD FÍSICA Y MENTAL
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 12.
 
-Los jóvenes tienen derecho a ser protegidos y respetados en su integridad física y mental, libre de cualquier tipo de violencia o abuso.
+Los jóvenes tienen derecho a vivir una vida libre de violencia, a ser protegidos y respetados en su integridad física y mental, libre de cualquier tipo de violencia o abuso.
 
 ###### Artículo 13.
 
 En caso de que algún joven se encuentre en riesgo de sufrir algún tipo de violencia o abuso, quienes estén en condiciones de hacerlo darán aviso a las instancias competentes proporcionándoles la información necesaria para que éstas intervengan de inmediato en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 13 Bis.
+
+Las personas jóvenes tendrán derecho a recibir orientación, apoyo y protección de las autoridades estatales y municipales, cuando su integridad se encuentre en riesgo y/o sufran algún tipo de violencia.
 
 ###### Artículo 14.
 
@@ -285,7 +301,9 @@ I.- Fomentar una educación basada en valores que propicien una adecuada convive
 
 II.- Fomentar la comprensión mutua y los ideales de paz, democracia, solidaridad, respeto y tolerancia entre los jóvenes;
 
-III.- Fomentar una cultura de no violencia;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+III.- Fomentar una cultura de no violencia, protección y respeto de las personas jóvenes;
 
 IV.- Dar especial énfasis a la información y prevención con relación a las diferentes temáticas y problemáticas de la juventud del Estado de Hidalgo;
 
@@ -601,7 +619,9 @@ XIX.- Recibir y canalizar propuestas, sugerencias e inquietudes de la juventud;
 
 XX.- Auxiliar a las Dependencias y Entidades de la Administración pública Estatal, así como a los Municipios cuando así lo requieran en la difusión y promoción de los servicios dirigidos a la juventud;
 
-XXI.- Gestionar ante las autoridades competentes, en beneficio de los jóvenes, servicios de medicina en general y especializada para preservar su salud;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+XXI.- Gestionar ante las autoridades competentes, en beneficio de los jóvenes, servicios de medicina en general y especializada para preservar su salud; así como para atender a las personas jóvenes víctimas de cualquier tipo de violencia;
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
@@ -1216,5 +1236,11 @@ P.O. 23 DE MAYO DE 2022.
 P.O. 27 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 229, QUE ADICIONA UN TÍTULO SEXTO, DENOMINADO, DEL PREMIO ESTATAL DE LA JUVENTUD; INTEGRADO POR UN CAPÍTULO ÚNICO, DENOMINADO, DEL PERMIO; QUE CONTIENEN LOS ARTÍCULOS 81, 82 Y 83 DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 291 QUE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 2 Y ARTÍCULO 13 BIS, ASÍ COMO TAMBIÉN SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 8, LA DENOMINACIÓN DE LA SECCIÓN TERCERA, LA FRACCIÓN III DEL ARTÍCULO 22 Y LA FRACCIÓN XXI DEL ARTÍCULO 58 DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
