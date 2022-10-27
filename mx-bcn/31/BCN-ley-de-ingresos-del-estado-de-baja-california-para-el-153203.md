@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-153203"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-31"
-last_updated: "2021-12-31"
+last_updated: "2022-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2022
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección I del Número 109 del Periódico Oficial del Estado de Baja California, el viernes 31 de diciembre de 2021.
 
@@ -629,21 +631,39 @@ Adicional al porcentaje anterior, se establece una sobretasa del Impuesto Sobre 
 
 Los recursos que se recauden por esta sobretasa se destinarán por el Poder Ejecutivo del Estado exclusivamente a la Educación Superior y su fortalecimiento en la Entidad.
 
-Esta sobretasa no se considerará para la determinación de las participaciones a que se refiere el artículo 7° de la Ley de Coordinación Fiscal del Estado de Baja California, ni para el fondo compensatorio a que se refiere el artículo 7° BIS de la citada ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Además de lo anterior, se establece una sobretasa del 1.25% sobre la base establecida en el artículo 151-14 de la Ley de Hacienda del Estado de Baja California. Los recursos que se recauden se ejercerán de manera directa e indirecta, al fortalecimiento de la seguridad pública y la infraestructura en el Estado.
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Los ingresos derivados de las sobretasas no se considerarán para la determinación de las participaciones señaladas en el artículo 7º de la Ley de Coordinación Fiscal del Estado de Baja California, ni para el fondo compensatorio previsto en el artículo 7º BIS de la citada ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Asimismo, los ingresos obtenidos producto de las sobretasas no se considerarán para el cálculo del porcentaje destinado al fideicomiso empresarial mencionado en este precepto.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO CON SUS INCISOS], P.O. 27 DE OCTUBRE DE 2022)</small>
 
 De los ingresos estatales que se obtengan por este impuesto se destinará el 5% a un fideicomiso empresarial que tendrá los siguientes objetivos:
 
 a).- Fortalecimiento de empresas instaladas en Baja California mediante instrumentos de financiamiento y asistencia técnica, priorizando el beneficio para empresas locales que hayan sido constituidas en la entidad y tengan su domicilio fiscal en Baja California, en los términos de las reglas que se emitan para tal efecto.
 
-b).- Realización de programas de promoción de la inversión y las exportaciones de bienes y servicios. Los gastos que se eroguen por concepto de viáticos para la ejecución de los proyectos susceptibles de apoyo del fideicomiso se encontrarán limitados de acuerdo a las Reglas de Operación que se emitan para tal efecto.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+b).- Realización de programas de promoción de la inversión y las exportaciones de bienes y servicios. Los gastos que se eroguen por concepto de viáticos para la ejecución de los proyectos susceptibles de apoyo del fideicomiso se encontraran limitados de acuerdo a las Reglas de Operación que se emitan para tal efecto.
 
 c).- Realización de proyectos estratégicos en alineación con la Política de Desarrollo Empresarial y los Planes Estratégicos Municipales.
 
-Los recursos que se obtengan por la aplicación de esta sobretasa tampoco se considerarán ni serán participables para el fideicomiso empresarial de referencia.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE OCTUBRE DE 2022)</small>
 
 No se incluyen en dicha recaudación, los ingresos que se obtengan derivados del ejercicio de las facultades de cobro y/o de comprobación por parte de las autoridades fiscales.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE OCTUBRE DE 2022)</small>
+
 La Secretaría de Economía e Innovación en coordinación con la Secretaría de Hacienda del Estado podrán emitir reglas específicas para la correcta administración y destino de los recursos en comento y los fideicomisos respectivos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE OCTUBRE DE 2022)</small>
 
 Con independencia de lo que establezcan otras leyes, se incluye dentro de los sujetos referidos en el artículo 151-15 de la Ley de Hacienda del Estado de Baja California, a cualquier ente público de la administración central o paraestatal de los gobiernos Federal y Municipal, que realice pagos por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo su dirección o dependencia de un tercero, incluidos las entidades paraestatales, paramunicipales y organismos autónomos, salvo aquellos entes públicos que directamente o a través de las participaciones referidas en la Ley de Coordinación Fiscal del Estado de Baja California, obtengan ingresos derivados de este impuesto. No serán sujetos de este impuesto, los Organismos autónomos estatales y las entidades descentralizadas de la administración pública municipal que posean bienes declarados como patrimonio cultural del estado, por el pago de remuneraciones que realicen al personal que presta sus servicios en dichos bienes.
 
@@ -807,17 +827,29 @@ T A R I F A:
 
 3.- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $ 6.23
 
-4.- Por el excedente de 15 y hasta 25 m3, por cada m3 consumido $ 7.23
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-5.- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $ 7.52
+4.- Por el excedente de 15 y hasta 25 m3, por cada m3 consumido $10.52
 
-6.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $ 9.21
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-7.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $ 15.84
+5.- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $10.94
 
-8.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $ 19.57
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-9.- Por el excedente de 60 m3 en adelante, por cada m3 consumido $ 28.40
+6.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $13.40
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $21.71
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $26.83
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9.- Por el excedente de 60 m3 en adelante, por cada m3 consumido $38.80
 
 b).- Los usuarios que tengan medidor en los poblados Guadalupe Victoria, Ciudad Morelos, así como los ejidos o polos de desarrollo que pertenezcan a dichos poblados en administración, operación y mantenimiento, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente tarifa:
 
@@ -831,23 +863,41 @@ Y CD. MORELOS
 
 3.- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $ 5.07
 
-4.- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $ 5.32
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-5.- Por el excedente de 20 y hasta 25 m3, por cada m3 consumido $ 6.27
+4.- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $7.74
 
-6.- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $ 6.52
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-7.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $ 7.21
+5.- Por el excedente de 20 y hasta 25 m3, por cada m3 consumido $9.12
 
-8.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $ 12.42
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-9.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $ 12.42
+6.- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $9.49
 
-10.- Por el excedente de 60 y hasta 150 m3, por cada m3 consumido $ 12.42
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-11.- Por el excedente de 150 y hasta 300 m3, por cada m3 consumido $ 14.75
+7.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $9.88
 
-12.- Por el excedente de 300 m3 en adelante, por cada m3 consumido $ 21.59
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $17.03
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $16.97
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+10.- Por el excedente de 60 y hasta 150 m3, por cada m3 consumido $16.97
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+11.- Por el excedente de 150 y hasta 300 m3, por cada m3 consumido $20.15
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+12.- Por el excedente de 300 m3 en adelante, por cada m3 consumido $29.50
 
 A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último, sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
 
@@ -859,29 +909,57 @@ Para continuar gozando de este descuento, además de seguir cumpliendo con lo di
 
 a).- Los usuarios que tengan medidor en la Ciudad de Mexicali, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente tarifa:
 
-1.- De 0 hasta 5 m3, cuota mínima $ 330.49
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-2.- Por el excedente de 5 y hasta 10 m3, por cada m3 consumido $ 58.43
+1.- De 0 hasta 5 m3, cuota mínima $479.94
 
-3.- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $ 58.43
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-4.- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $ 58.43
+2.- Por el excedente de 5 y hasta 10 m3, por cada m3 consumido $84.85
 
-5.- Por el excedente de 20 y hasta 30 m3, por cada m3 consumido $ 58.43
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-6.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $ 58.43
+3.- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $84.85
 
-7.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $ 68.57
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-8.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $ 68.57
+4.- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $84.85
 
-9.- Por el excedente de 60 y hasta 100 m3, por cada m3 consumido $ 68.57
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-10.- Por el excedente de 100 y hasta 500 m3, por cada m3 consumido $ 71. 02
+5.- Por el excedente de 20 y hasta 30 m3, por cada m3 consumido $84.85
 
-11.- Por el excedente de 500 y hasta 10,000 m3, por cada m3 consumido $ 71. 03
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-12.- Por el excedente de 10,000 m3 en adelante, por cada m3 consumido $ 83.28
+6.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $84.85
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $99.58
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $99.58
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9.- Por el excedente de 60 y hasta 100 m3, por cada m3 consumido $99.58
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+10.- Por el excedente de 100 y hasta 500 m3, por cada m3 consumido $103.14
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+11.- Por el excedente de 500 y hasta 10,000 m3, por
+
+cada m3 consumido $103.14
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+12.- Por el excedente de 10,000 m3 en adelante, por
+
+cada m3 consumido $120.94
 
 b).- Los usuarios que tengan medidor, en los Poblados Guadalupe Victoria, Cd. Morelos, así como los ejidos o polos de desarrollo que pertenezcan a dichos poblados en administración, operación y mantenimiento, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente tarifa:
 
@@ -889,29 +967,57 @@ GPE. VICTORIA
 
 Y CD. MORELOS
 
-1.- De 0 hasta 5 m3, cuota mínima $ 237.84
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-2.- Por el excedente de 5 y hasta 10 m3, por cada m3 consumido $ 10.16
+1.- De 0 hasta 5 m3, cuota mínima $345.39
 
-3.- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $ 10.16
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-4.- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $ 10.16
+2.- Por el excedente de 5 y hasta 10 m3, por cada m3 consumido $14.75
 
-5.- Por el excedente de 20 y hasta 30 m3, por cada m3 consumido $ 10.81
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-6.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $ 14.53
+3.- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $14.75
 
-7.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $ 22.00
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-8.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $ 27.27
+4.- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $14.75
 
-9.- Por el excedente de 60 y hasta 100 m3, por cada m3 consumido $ 33.40
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-10.- Por el excedente de 100 y hasta 500 m3, por cada m3 consumido $ 39.59
+5.- Por el excedente de 20 y hasta 30 m3, por cada m3 consumido $15.70
 
-11.- Por el excedente de 500 y hasta 10,000 m3, por cada m3 consumido $ 42.77
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-12.- Por el excedente de 10,000 m3 en adelante, por cada m3 consumido $ 44.45
+6.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $21.10
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $31.95
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $39.60
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9.- Por el excedente de 60 y hasta 100 m3, por cada m3 consumido $48.50
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+10.- Por el excedente de 100 y hasta 500 m3, por cada m3 consumido $57.49
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+11.- Por el excedente de 500 y hasta 10,000 m3, por
+
+cada m3 consumido $62.11
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+12.- Por el excedente de 10,000 m3 en adelante, por
+
+cada m3 consumido $64.55
 
 El 5 por ciento de la tarifa prevista en este numeral se destinará al proyecto Plan de Pluviales en Mexicali, a través del fideicomiso público o instrumento jurídico que para tal efecto determine la Secretaría de Hacienda.
 
@@ -1205,17 +1311,29 @@ T A R I F A:
 
 3.- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $ 6.23
 
-4.- Por el excedente de 15 y hasta 25 m3, por cada m3 consumido $ 7.23
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-5.- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $ 7.52
+4.- Por el excedente de 15 y hasta 25 m3, por cada m3 consumido $10.52
 
-6.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $ 9.21
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-7.- Por el excedente de 40 y hasta 50 m3, por cada m3, consumido $ 15.84
+5.- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $10.94
 
-8.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $ 19.57
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-9.- Por el excedente de 60 m3 en adelante, por cada m3 consumido $ 28.40
+6.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $13.40
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $21.71
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $26.83
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9.- Por el excedente de 60 m3 en adelante, por cada m3 consumido $38.80
 
 A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último, sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
 
@@ -1227,29 +1345,57 @@ Para continuar gozando de este descuento, además de seguir cumpliendo con lo di
 
 Los usuarios que tengan medidor en la Ciudad de San Felipe, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente tarifa:
 
-1.- De 0 hasta 5 m3, cuota mínima $ 237.84
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-2.- Por el excedente de 5 y hasta 10 m3, por cada m3 consumido $ 17.71
+1.- De 0 hasta 5 m3, cuota mínima $345.39
 
-3.- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $ 17.71
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-4.- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $ 17.71
+2.- Por el excedente de 5 y hasta 10 m3, por cada m3 consumido $25.72
 
-5.- Por el excedente de 20 y hasta 30 m3, por cada m3 consumido $ 26.71
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-6.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $ 29.85
+3.- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $25.72
 
-7.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $ 34.29
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-8.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $ 40.85
+4.- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $25.72
 
-9.- Por el excedente de 60 y hasta 100 m3, por cada m3 consumido $ 58.85
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-10.- Por el excedente de 100 y hasta 500 m3, por cada m3 Consumido $ 59.38
+5.- Por el excedente de 20 y hasta 30 m3, por cada m3 consumido $38.79
 
-11.- Por el excedente de 500 y hasta 10,000 m3, por cada m3 consumido $ 59.77
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-12.- Por el excedente de 10,000 m3 en adelante, por cada m3 consumido $ 71.04
+6.- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $43.35
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7.- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $49.80
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8.- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $59.32
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9.- Por el excedente de 60 y hasta 100 m3, por cada m3 consumido $85.46
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+10.- Por el excedente de 100 y hasta 500 m3, por cada m3 Consumido $86.23
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+11.- Por el excedente de 500 y hasta 10,000 m3,
+
+por cada m3 consumido $86.80
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+12.- Por el excedente de 10,000 m3 en adelante,
+
+por cada m3 consumido $103.16
 
 Para desarrolladores, fraccionadores, centros comerciales u otros no domésticos en donde el organismo determina la instalación de medidor control y cuyas redes aún no se encuentran entregadas al organismo, el desarrollador estará obligado a incluir en los proyectos de cada etapa de construcción la instalación de un medidor control, el cual servirá para registrar la diferencia que existe entre el volumen total suministrado al fraccionamiento o desarrollo y el consumo total registrado por los medidores individuales (la micro medición).
 
@@ -1535,19 +1681,33 @@ T A R I F A:
 
 3).- Por el excedente de 10 y hasta 15 m3 $ 23.41
 
-4).- Por el excedente de 15 y hasta 20 m3 $ 27.21
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-5).- Por el excedente de 20 y hasta 25 m3 $ 41.60
+4).- Por el excedente de 15 y hasta 20 m3 $44.11
 
-6).- Por el excedente de 25 y hasta 30 m3 $ 44.87
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-7).- Por el excedente de 30 y hasta 40 m3 $ 77.77
+5).- Por el excedente de 20 y hasta 25 m3 $67.44
 
-8).- Por el excedente de 40 y hasta 50 m3 $ 83.90
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-9).- Por el excedente de 50 y hasta 60 m3 $ 87.70
+6).- Por el excedente de 25 y hasta 30 m3 $81.47
 
-10).- Por el excedente de 60 m3 $ 88.79
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7).- Por el excedente de 30 y hasta 40 m3 $103.38
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8).- Por el excedente de 40 y hasta 50 m3 $111.53
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9).- Por el excedente de 50 y hasta 60 m3 $116.58
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+10).- Por el excedente de 60 m3 $118.03
 
 b).- Los usuarios que tengan medidor en los poblados no contemplados en el inciso a), así como los ejidos o polos de desarrollo que pertenezcan a dichos poblados en administración, operación y mantenimiento, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente
 
@@ -1559,19 +1719,33 @@ T A R I F A:
 
 3).- Por el excedente de 10 y hasta 15 m3 $ 14.04
 
-4).- Por el excedente de 15 y hasta 20 m3 $ 16.37
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-5).- Por el excedente de 20 y hasta 25 m3 $ 24.85
+4).- Por el excedente de 15 y hasta 20 m3 $26.54
 
-6).- Por el excedente de 25 y hasta 30 m3 $ 26.93
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-7).- Por el excedente de 30 y hasta 40 m3 $ 46.65
+5).- Por el excedente de 20 y hasta 25 m3 $40.28
 
-8).- Por el excedente de 40 y hasta 50 m3 $ 50.38
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-9).- Por el excedente de 50 y hasta 60 m3 $ 52.62
+6).- Por el excedente de 25 y hasta 30 m3 $48.90
 
-10).- Por el excedente de 60 m3 $ 53.28
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7).- Por el excedente de 30 y hasta 40 m3 $62.01
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8).- Por el excedente de 40 y hasta 50 m3 $66.97
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9).- Por el excedente de 50 y hasta 60 m3 $69.95
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+10).- Por el excedente de 60 m3 $70.83
 
 A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último; sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
 
@@ -1585,49 +1759,89 @@ a).- Los usuarios que tengan medidor en la Ciudad de Ensenada y áreas conurbada
 
 TARIFA:
 
-1).- De 0 hasta 5 m3, cuota mínima $ 635.41
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-2).- Por el excedente de 5 y hasta 10 m3 $ 64.67
+1).- De 0 hasta 5 m3, cuota mínima $913.94
 
-3).- Por el excedente de 10 y hasta 15 m3 $ 88.19
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-4).- Por el excedente de 15 y hasta 20 m3 $ 103.90
+2).- Por el excedente de 5 y hasta 10 m3 $93.02
 
-5).- Por el excedente de 20 y hasta 30 m3 $ 121.91
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-6).- Por el excedente de 30 y hasta 40 m3 $ 124.18
+3).- Por el excedente de 10 y hasta 15 m3 $126.85
 
-7).- Por el excedente de 40 y hasta 50 m3 $ 130.39
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-8).- Por el excedente de 50 y hasta 60 m3 $ 132.99
+4).- Por el excedente de 15 y hasta 20 m3 $149.44
 
-9).- Por el excedente de 60 y hasta 10, 000 m3 $ 139.37
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-10).- Por el excedente de 10,000 m3 por cada m3 $ 91.42
+5).- Por el excedente de 20 y hasta 30 m3 $175.35
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+6).- Por el excedente de 30 y hasta 40 m3 $178.61
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7).- Por el excedente de 40 y hasta 50 m3 $187.55
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8).- Por el excedente de 50 y hasta 60 m3 $191.29
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9).- Por el excedente de 60 y hasta 10,000 m3 $200.46
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+10).- Por el excedente de 10,000 m3 por cada m3 $ 131.49
 
 b).- Los usuarios que tengan medidor en los poblados no contemplados en el inciso a), así como los ejidos o polos de desarrollo que pertenezcan a dichos poblados en administración, operación y mantenimiento, causarán mensualmente por cada metro cúbico consumido, en forma escalonada y por cada uno de los rangos, la siguiente
 
 TARIFA:
 
-1).- De 0 hasta 5 m3, cuota mínima $ 380.75
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-2).- Por el excedente de 5 y hasta 10 m3 $ 38.66
+1).- De 0 hasta 5 m3, cuota mínima $547.65
 
-3).- Por el excedente de 10 y hasta 15 m3 $ 52. 96
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-4).- Por el excedente de 15 y hasta 20 m3 $ 62.34
+2).- Por el excedente de 5 y hasta 10 m3 $55.61
 
-5).- Por el excedente de 20 y hasta 30 m3 $ 73.18
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-6).- Por el excedente de 30 y hasta 40 m3 $ 74.50
+3).- Por el excedente de 10 y hasta 15 m3 $76.17
 
-7).- Por el excedente de 40 y hasta 50 m3 $ 78.18
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-8).- Por el excedente de 50 y hasta 60 m3 $ 79.78
+4).- Por el excedente de 15 y hasta 20 m3 $89.67
 
-9).- Por el excedente de 60 y hasta 10,000 m3 $ 83.64
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-10).- Por el excedente de 10,000 m3 por cada m3 $ 54.81
+5).- Por el excedente de 20 y hasta 30 m3 $105.26
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+6).- Por el excedente de 30 y hasta 40 m3 $107.16
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7).- Por el excedente de 40 y hasta 50 m3 $112.45
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8).- Por el excedente de 50 y hasta 60 m3 $114.75
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9).- Por el excedente de 60 y hasta 10,000 m3 $120.30
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+10).-Por el excedente de 10,000 m3 por cada m3 $78.84
 
 Para desarrolladores, fraccionadores, centros comerciales u otros no domésticos en donde el organismo determina la instalación de medidor control y cuyas redes aún no se encuentran entregadas al organismo, el desarrollador estará obligado a incluir en los proyectos de cada etapa de construcción la instalación de un medidor control, el cual servirá para registrar la diferencia que existe entre el volumen total suministrado al fraccionamiento o desarrollo y el consumo total registrado por los medidores individuales (la micro medición).
 
@@ -1973,19 +2187,33 @@ T A R I F A:
 
 3).- Por el excedente de 10 y hasta 15 m3 $ 13.98
 
-4).- Por el excedente de 15 y hasta 20 m3 $ 16.31
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-5).- Por el excedente de 20 y hasta 25 m3 $ 24.76
+4).- Por el excedente de 15 y hasta 20 m3 $25.16
 
-6).- Por el excedente de 25 y hasta 30 m3 $ 26.83
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-7).- Por el excedente de 30 y hasta 40 m3 $ 46.48
+5).- Por el excedente de 20 y hasta 25 m3 $38.19
 
-8).-Por el excedente de 40 y hasta 50 m3 $ 50.19
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-9).-Por el excedente de 50 y hasta 60 m3 $ 52.43
+6).- Por el excedente de 25 y hasta 30 m3 $46.36
 
-10).- Por el excedente de 60 m3 $ 53.09
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7).- Por el excedente de 30 y hasta 40 m3 $58.79
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8).- Por el excedente de 40 y hasta 50 m3 $ 63.49
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9).- Por el excedente de 50 y hasta 60 m3 $ 66.32
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+10).- Por el excedente de 60 m3 $ 67.16
 
 A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último; sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
 
@@ -1999,25 +2227,45 @@ a).- Los usuarios que tengan medidor en el municipio de San Quintín y áreas co
 
 TARIFA:
 
-1).- De 0 hasta 5 m3, cuota mínima $ 379.35
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-2).- Por el excedente de 5 y hasta 10 m3 $ 38.51
+1).- De 0 hasta 5 m3, cuota mínima $519.22
 
-3).- Por el excedente de 10 y hasta 15 m3 $ 52.76
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-4).- Por el excedente de 15 y hasta 20 m3 $ 62.11
+2).- Por el excedente de 5 y hasta 10 m3 $52.71
 
-5).- Por el excedente de 20 y hasta 30 m3 $ 72.91
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-6).- Por el excedente de 30 y hasta 40 m3 $ 74.24
+3).- Por el excedente de 10 y hasta 15 m3 $72.21
 
-7).- Por el excedente de 40 y hasta 50 m3 $ 77.89
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-8).- Por el excedente de 50 y hasta 60 m3 $ 79.48
+4).- Por el excedente de 15 y hasta 20 m3 $85.01
 
-9).- Por el excedente de 60 y hasta 10,000 m3 $ 83.34
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-10).- Por el excedente de 10,000 m3 por cada m3 $ 54.61
+5).- Por el excedente de 20 y hasta 30 m3 $99.79
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+6).- Por el excedente de 30 y hasta 40 m3 $101.61
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+7).- Por el excedente de 40 y hasta 50 m3 $ 106.61
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+8).- Por el excedente de 50 y hasta 60 m3 $ 108.78
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+9).- Por el excedente de 60 y hasta 10,000 m3 $114.07
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+10).- Por el excedente de 10,000 m3 por cada m3 $ 74.75
 
 Para desarrolladores, fraccionadores, centros comerciales u otros no domésticos en donde el organismo determina la instalación de medidor control y cuyas redes aún no se encuentran entregadas al organismo, el desarrollador estará obligado a incluir en los proyectos de cada etapa de construcción la instalación de un medidor control, el cual servirá para registrar la diferencia que existe entre el volumen total suministrado al fraccionamiento o desarrollo y el consumo total registrado por los medidores individuales (la micro medición).
 
@@ -2219,23 +2467,41 @@ b).- Por el excedente de 5 y hasta 10 m3, por cada m3 consumido $ 22.04
 
 c).- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $ 22.51
 
-d) - Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $ 26.92
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-e).- Por el excedente de 20 y hasta 25 m3, por cada m3 consumido $ 45.14
+d).- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $35.60
 
-f).- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $ 46.67
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-g).- Por el excedente de 30 y hasta 35 m3, por cada m3 consumido $ 58.99
+e).- Por el excedente de 20 y hasta 25 m3, por cada m3 consumido $59.70
 
-h).- Por el excedente de 35 y hasta 40 m3, por cada m3 consumido $ 59.49
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-i).- Por el excedente de 40 y hasta 45 m3, por cada m3 consumido $ 67.25
+f).- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $61.72
 
-j).- Por el excedente de 45 y hasta 50 m3, por cada m3 consumido $ 67.50
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-k).- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $ 78.59
+g).- Por el excedente de 30 y hasta 35 m3, por cada m3 consumido $78.01
 
-l).- Por el excedente de 60 m3 en adelante, por cada m3 consumido $ 79.15
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+h).- Por el excedente de 35 y hasta 40 m3 , por cada m3 consumido $78.67
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+i).- Por el excedente de 40 y hasta 45 m3 , por cada m3 consumido $88.94
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+j).- Por el excedente de 45 y hasta 50 m3 , por cada m3 consumido $89.26
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+k).- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $103.93
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+l).- Por el excedente de 60 m3 en adelante, por cada m3 consumido $104.67
 
 A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último; sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
 
@@ -2249,19 +2515,45 @@ Los usuarios que tengan medidor en el Municipio de Tijuana, causarán mensualmen
 
 TARIFA:
 
-a).- De 0 hasta 5 m3, cuota mínima $ 392.56
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-b).- Por el excedente de 5 y hasta 30 m3, por cada m3 consumido $ 96.49
+a).- De 0 hasta 5 m3, cuota mínima $548.24
 
-c).- Por el excedente de 30 y hasta 100 m3, por cada m3 consumido $ 99.82
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-d).-Por el excedente de 100 y hasta 500 m3, por cada m3 consumido $ 99.82
+b).- Por el excedente de 5 y hasta 30 m3,
 
-e).-Por el excedente de 500 y hasta 1,000 m3, por cada m3 consumido $ 99.82
+por cada m3 consumido $134.76
 
-f).- Por el excedente de 1,000 y hasta 2,000 m3, por cada m3 consumido $ 101.78
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-g).- Por el excedente de 2,000 m3 en adelante, por cada m3 consumido $ 101. 78
+c).- Por el excedente de 30 y hasta 100 m3,
+
+por cada m3 consumido $139.41
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+d).- Por el excedente de 100 y hasta 500 m3, por cada
+
+m3 consumido $139.41
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+e).- Por el excedente de 500 y hasta 1,000 m3, por cada
+
+m3 consumido $139.41
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+f).- Por el excedente de 1,000 y hasta 2,000 m3,
+
+por cada m3 consumido $142.14
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+g).- Por el excedente de 2,000 m3 en adelante,
+
+por cada m3 consumido $142.14
 
 Para desarrolladores, fraccionadores, centros comerciales u otros no domésticos en donde el organismo determina la instalación de medidor control y cuyas redes aún no se encuentran entregadas al organismo, el desarrollador estará obligado a incluir en los proyectos de cada etapa de construcción la instalación de un medidor control, el cual servirá para registrar la diferencia que existe entre el volumen total suministrado al fraccionamiento o desarrollo y el consumo total registrado por los medidores individuales (la micro medición).
 
@@ -2593,23 +2885,41 @@ b).- Por el excedente de 5 y hasta 10 m3, por cada m3 consumido $ 22.04
 
 c).- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $ 22.51
 
-d).- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $ 26.92
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-e).- Por el excedente de 20 y hasta 25 m3, por cada m3 consumido $ 45.14
+d).- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $35.60
 
-f).- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $ 46.67
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-g).- Por el excedente de 30 y hasta 35 m3, por cada m 3 consumido $ 58.99
+e).- Por el excedente de 20 y hasta 25 m3, por cada m3 consumido $59.70
 
-h).- Por el excedente de 35 y hasta 40 m3, por cada m3 consumido $ 59.49
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-i).- Por el excedente de 40 y hasta 45 m3, por cada m3 consumido $ 67.25
+f).- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $61.72
 
-j).- Por el excedente de 45 y hasta 50 m3, por cada m3 consumido $ 67.50
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-k) - Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $ 78.59
+g).- Por el excedente de 30 y hasta 35 m3, por cada m3 consumido $78.01
 
-l).- Por el excedente de 60 m3, en adelante, por cada m 3 consumido $ 79.15
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+h).- Por el excedente de 35 y hasta 40 m3, por cada m3 consumido $78.67
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+i).- Por el excedente de 40 y hasta 45 m3, por cada m3 consumido $88.94
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+j).- Por el excedente de 45 y hasta 50 m3, por cada m3 consumido $89.26
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+k).- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $103.93
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+l).- Por el excedente de 60 m3 en adelante, por cada m3 consumido $104.67
 
 A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último; sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
 
@@ -2623,19 +2933,45 @@ Los usuarios que tengan medidor en el Municipio de Playas de Rosarito, causarán
 
 TARIFA:
 
-a).- De 0 hasta 5 m3, cuota mínima $ 392.56
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-b).- Por el excedente de 5 y hasta 30 m3, por cada m3 consumido $ 96.49
+a).- De 0 hasta 5 m3, cuota mínima $548.24
 
-c).- Por e l excedente de 30 y hasta 100 m3, por cada m3 consumido $ 99.82
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-d).- Por el excedente de 100 y hasta 500 m3, por cada m3 consumido $ 99.82
+b).- Por el excedente de 5 y hasta 30 m3,
 
-e).-Por el excedente de 500 y hasta 1,000 m3, por cada m3 consumido $ 99.82
+por cada m3 consumido $134.76
 
-f).- Por el excedente de 1,000 y hasta 2,000 m3, por cada m3 consumido $ 101.78
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-g).- Por el excedente de 2,000 m3 en adelante, por cada m3 consumido $ 101. 78
+c).- Por el excedente de 30 y hasta 100 m3,
+
+por cada m3 consumido $139.41
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+d).- Por el excedente de 100 y hasta 500 m3,
+
+por cada m3 consumido $139.41
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+e).- Por el excedente de 500 y hasta 1,000 m3,
+
+por cada m3 consumido $139.41
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+f).- Por el excedente de 1,000 y hasta 2,000 m3,
+
+por cada m3 consumido $142.14
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+g).- Por el excedente de 2,000 m3 en adelante,
+
+por cada m3 consumido $142.14
 
 Para desarrolladores, fraccionadores, centros comerciales u otros no domésticos en donde el organismo determina la instalación de medidor control y cuyas redes aún no se encuentran entregadas al organismo, el desarrollador estará obligado a incluir en los proyectos de cada etapa de construcción la instalación de un medidor control, el cual servirá para registrar la diferencia que existe entre el volumen total suministrado al fraccionamiento o desarrollo y el consumo total registrado por los medidores individuales (la micro medición).
 
@@ -2967,19 +3303,33 @@ b).- Por el excedente de 5 y hasta 10 m3, por cada m3 consumido $ 15.94
 
 c).- Por el excedente de 10 y hasta 15 m3, por cada m3 consumido $ 16.27
 
-d).-Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $ 16.54
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-e).- Por el excedente de 20 y hasta 25 m3, por cada m3 consumido $ 22.87
+d).- Por el excedente de 15 y hasta 20 m3, por cada m3 consumido $23.10
 
-f).- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $ 32.61
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-g).- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $ 44.67
+e).- Por el excedente de 20 y hasta 25 m3, por cada m3 consumido $31.94
 
-h).- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido 57.54
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-i).- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $ 63.65
+f).- Por el excedente de 25 y hasta 30 m3, por cada m3 consumido $41.92
 
-j).- Por el excedente de 60 m3 en adelante, por cada m3 consumido $ 67.83
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+g).- Por el excedente de 30 y hasta 40 m3, por cada m3 consumido $57.42
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+h).- Por el excedente de 40 y hasta 50 m3, por cada m3 consumido $73.96
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+i).- Por el excedente de 50 y hasta 60 m3, por cada m3 consumido $81.82
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+j).- Por el excedente de 60 m3 en adelante, por cada m3 consumido $87.19
 
 A los usuarios domésticos que efectúen su pago mensual y lo hagan antes de la fecha de vencimiento durante tres meses consecutivos, en el cuarto pago oportuno gozarán de un descuento del 15% sobre el importe de este último; sin que se interrumpa la consecutividad de los pagos mensuales cuando éstos comprendan dos ejercicios fiscales.
 
@@ -2993,19 +3343,35 @@ Los usuarios que tengan medidor en el Municipio de Tecate, causarán mensualment
 
 TARIFA:
 
-a).- De 0 hasta 5 m3, cuota mínima $ 536.40
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-b).- Por el excedente de 5 y hasta 30 m3, por cada m3 consumido $ 47.86
+a).- De 0 hasta 5 m3, cuota mínima $729.27
 
-c).- Por el excedente de 30 y hasta 100 m3, por cada m3 consumido $ 80.13
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-d).- Por el excedente de 100 y hasta 500 m3, por cada m3 consumido $ 80. 13
+b).- Por el excedente de 5 y hasta 30 m3, por cada m3 consumido $65.07
 
-e).- Por el excedente de 500 y hasta 1,000 m3, por cada m3 consumido $ 80.13
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-f).- Por el excedente de 1,000 y hasta 2,000 m3, por cada m3 consumido $ 84.95
+c).- Por el excedente de 30 y hasta 100 m3, por cada m3 consumido $108.94
 
-g).- Por el excedente de 2, 000 m3, por cada m3 consumido $ 85.71
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+d).- Por el excedente de 100 y hasta 500 m3, por cada m3 consumido $108.94
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+e).- Por el excedente de 500 y hasta 1,000 m3, por cada m3 consumido $108.94
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+f).- Por el excedente de 1,000 y hasta 2,000 m3, por
+
+cada m3 consumido $115.50
+
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+g).- Por el excedente de 2,000 m3, por cada m3 consumido $116.53
 
 Para desarrolladores, fraccionadores, centros comerciales u otros no domésticos en donde el organismo determina la instalación de medidor control y cuyas redes aún no se encuentran entregadas al obligado a incluir en organismo, el desarrollador estará los proyectos de cada etapa de construcción la instalación de un medidor control, el cual servirá para registrar la diferencia que existe entre el volumen total suministrado al fraccionamiento o desarrollo y el consumo total registrado por los medidores individuales (la micro medición).
 
@@ -4751,7 +5117,9 @@ F).- Por el estudio y evaluación de factibilidad por cambio de:
 
 III.- PROTECCIÓN PERSONAL A PARTICULARES.
 
-A).- Por el servicio de escolta, por mes, por agente $ 27,610.00
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+A).- Por servicio de escolta, por día de servicio, por agente será 15.6 veces
 
 El costo del servicio será de conformidad con los tiempos y condiciones que establezca el contrato respectivo, pudiendo considerarse costos adicionales según las necesidades de la prestación del servicio en tiempos y horas extraordinarias.
 
@@ -5360,3 +5728,25 @@ GOBERNADORA DEL ESTADO
 CATALINO ZAVALA MÁRQUEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 165 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO DEL AÑO 2022”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, excepto lo relativo a las reformas de los artículos 3 y 9 que entrarán en vigor al primer día del mes siguiente al de dicha publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los contribuyentes obligados al pago del Impuesto sobre Remuneraciones al Trabajo Personal, deberán considerar en su cálculo para el ejercicio fiscal de 2022, ya sea en forma mensual o trimestral, lo previsto en el presente Decreto a partir de la vigencia del artículo 3 de esta Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las tarifas establecidas en la presente reforma al Artículo 9 de la Ley de Ingresos del Estado de Baja California para el Ejercicio Fiscal del año 2022, entrarán en vigor al primer día hábil del mes siguiente en que se publiquen las mismas.
+
+###### ARTÍCULO CUARTO.
+
+Aquellos usuarios con servicios asignados por la Secretaría de Seguridad Ciudadana relativos a los servicios de escolta; para el cálculo sobre los derechos que les corresponda cubrir, tomarán como base la cuota aprobada por la presente reforma.
