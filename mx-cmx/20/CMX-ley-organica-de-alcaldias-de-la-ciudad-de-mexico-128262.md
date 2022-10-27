@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-alcaldias-de-la-ciudad-de-mexico-128262"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2022-10-21"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128262&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Tomo I del Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -460,7 +460,9 @@ XII. Establecer la Unidad de Igualdad Sustantiva como parte de la estructura de 
 
 XIII. Designar a las personas servidoras públicas de la Alcaldía, sujetándose a las disposiciones del servicio profesional de carrera, procurando la inclusión de las personas jóvenes que residan en la demarcación. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por la Alcaldesa o el Alcalde;
 
-XIV. Verificar que, de manera progresiva, la asignación de cargos correspondientes a la administración pública de la Alcaldía, responda a criterios de igualdad y paridad;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XIV. Verificar que, la asignación de cargos correspondientes a los mandos medios y superiores de la administración pública de la Alcaldía respete los criterios de igualdad y paridad de género, considerando que las eventuales sustituciones no rompan estos principios;
 
 XV. Legalizar las firmas de sus subalternos, y certificar y expedir copias y constancias de los documentos que obren en los archivos de la demarcación territorial;
 
@@ -1334,13 +1336,21 @@ I. Asistir a las sesiones del Concejo, debiendo justificar por escrito las ausen
 
 II. Emitir voz y voto en cada sesión del Concejo, asentando en el acta los argumentos en favor o en contra y anexando, en su caso, las pruebas documentales que considere pertinentes;
 
-> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-III. Presentar el informe anual de sus actividades que será difundido y publicado para conocimiento de las y los ciudadanos, que deberá ser incluido en el informe anual del Concejo, en términos del reglamento del Concejo, y
+III. Presentar el informe anual de sus actividades que será difundido y publicado para conocimiento de las y los ciudadanos, que deberá ser incluido en el informe anual del Concejo, en términos del reglamento del Concejo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-IV. Asistir a los cursos, talleres y seminarios básicos de formación, actualización y profesionalización que imparta la Escuela de Administración Pública de la Ciudad de México u otras instituciones académicas con validez oficial.
+IV. Asistir a los cursos, talleres y seminarios básicos de formación, actualización y profesionalización que imparta la Escuela de Administración Pública de la Ciudad de México u otras instituciones académicas con validez oficial;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+V. Mantener un vínculo próximo y permanente con las personas habitantes de las demarcaciones territoriales; y
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VI. Dar respuesta a las solicitudes que las personas habitantes de la demarcación territorial les formulen y realizar las gestiones que se requieran dentro del ámbito de su competencia ante las distintas autoridades.
 
 ###### Artículo 104.
 
@@ -2471,6 +2481,22 @@ SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicac
 G.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII BIS AL ARTÍCULO 42 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 3º; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 34, AMBOS DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN LAS FRACCIONES III Y IV; Y SE ADICIONAN LAS FRACCIONES V Y VI, TODAS DEL ARTÍCULO 103 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrara´ en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
