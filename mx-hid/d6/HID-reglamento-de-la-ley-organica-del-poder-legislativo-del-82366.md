@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2022-05-23"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -45,7 +45,9 @@ SEGUNDO.- El asunto de cuenta, se registró en el Libro de Gobierno de la Primer
 
 Por lo que, en mérito de lo expuesto; y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -756,6 +758,10 @@ Cuando se declare algún receso, para reiniciar la sesión, el Presidente de la 
 ###### ARTÍCULO 65.
 
 Las iniciativas que se presenten ante el Congreso, deberán ingresarse a través de la Oficialía de Partes o directamente en la Secretaría de Servicios Legislativos, las cuales deberán presentarse por escrito y en medio magnético, además deberán reunir los requisitos que establece el Artículo 125 de la Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 65 BIS.- Para la presentación de iniciativas en tribuna, las diputadas y diputados podrán hacer uso de la palabra por un tiempo máximo de diez minutos, con el objeto exclusivo de informar de manera clara y concisa, los principales aspectos de la misma, así como su motivación y sentido.
 
 ###### ARTÍCULO 66.
 
@@ -1616,3 +1622,9 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 192 QUE REFORMA LA FRACCIÓN XXVIII DEL ARTÍCULO 77 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO; ASÍ COMO, EL PRIMER PÁRRAFO Y, LA FRACCIÓN I, DEL ARTÍCULO 53 Y, LA FRACCIÓN I, DEL ARTÍCULO 54, AMBOS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 262 QUE ADICIONA EL ARTÍCULO 65 BIS AL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
