@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-de-la-ciudad-de-mexico-147739"
 country: "mx"
 rank: "ley"
 publication_date: "2021-02-16"
-last_updated: "2022-05-27"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147739&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-02-15"
 
 LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 536 Bis de la Gaceta Oficial de la Ciudad de México, el martes 16 de febrero de 2021.
 
@@ -66,25 +66,65 @@ I. Accesibilidad universal;
 
 II. Cultura de Paz;
 
-III. Fomento a la cultura con un sentido distributivo, equitativo, plural y popular;
+III. (DEROGADA, G.O. 27 DE OCTUBRE DE 2022)
 
 IV. Igualdad y no discriminación;
 
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+IV BIS. Igualdad Sustantiva;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+IV TER. Equidad;
+
 V. Inclusión;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+V BIS. Participación;
 
 VI. Interés superior de la niñez;
 
-VII. Interculturalidad;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-VIII. Libertad de expresión, investigación, creación y asociación
+VII. Interculturalidad y pluriculturalidad;
+
+VIII. (DEROGADA, G.O. 27 DE OCTUBRE DE 2022)
 
 IX. Perspectiva de Género;
 
 X. Progresividad;
 
-XI. Reconocimiento y respeto a la diversidad e identidad culturales, y
+XI. (DEROGADA, G.O. 27 DE OCTUBRE DE 2022)
 
-XII. Sostenibilidad.
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XII. Sostenibilidad;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XIII. Corresponsabilidad;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XIV. Indivisibilidad;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XV. Interdependencia;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XVI. Pro Persona;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XVII. Transparencia y rendición de cuentas; y
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XVIII. Universalidad.
 
 ###### Artículo 4.
 
@@ -157,6 +197,10 @@ V. Otorgar estímulos, premios y reconocimientos a personas morales o físicas p
 VI. Promover o gestionar, de acuerdo al ámbito de su competencia, becas a personas estudiantes, artistas y promotoras culturales;
 
 VII. Otorgar capacitación sobre igualdad de género y no discriminación, en coordinación con dependencias especializadas en la materia a las y los artistas, personas integrantes de los colectivos y personas gestoras culturales;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VII BIS. Elaborar protocolos, lineamientos, guías, y cualquier otro instrumento orientado a garantizar la igualdad de género y no discriminación en los proyectos, programas y recintos que se encuentren a cargo de las autoridades en materia cultural;
 
 VIII. Reconocer a las agrupaciones culturales provenientes de la sociedad civil y apoyar su participación en programas gubernamentales en el uso y acceso a establecimientos culturales públicos o comunitarios;
 
@@ -394,9 +438,13 @@ XI. Procurar la creación de bibliotecas, hemerotecas, casas de cultura, museos,
 
 XII. Proporcionar a las Casas de Cultura de su demarcación los recursos materiales y humanos suficientes para su óptimo funcionamiento, así como normar el uso adecuado de sus espacios e instalaciones, para ofrecer bienes y servicios culturales de calidad, según las necesidades de sus usuarios;
 
-> <small>(REFORMADA, G.O. 27 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-XIII. Establecer lineamientos públicos y accesibles para que las personas físicas o morales que lo soliciten y utilicen los espacios públicos con que cuenta la Alcaldía para el desarrollo de manifestaciones y expresiones culturales, y
+XIII. Establecer lineamientos públicos y accesibles para que las personas físicas o morales que lo soliciten y utilicen los espacios públicos con que cuenta la Alcaldía para el desarrollo de actividades culturales;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XIII BIS. Integrar indicadores de género y no discriminación en el Programa de Fomento y Desarrollo Cultural, con el apoyo del Instituto de Planeación Democrática y Prospectiva de la Ciudad de México, de manera que se tenga un registro cuantitativo y cualitativo de lo que se realiza en materia de cultura con perspectiva de género, y
 
 XIV. Las demás que esta Ley y otros ordenamientos jurídicos le confieran.
 
@@ -528,7 +576,13 @@ VI. Emitir observaciones a la autoridad de la Alcaldía, cuando considere que é
 
 VI BIS. Con el apoyo de la Comisión de la Memoria Histórica de la Ciudad proponer al Consejo un catálogo de manifestaciones y expresiones culturales en la Ciudad de México, que deberá ser actualizado, en su caso, en coordinación con los representantes de los pueblos y barrios originarios y de las colonias de cada demarcación territorial;
 
-VII. Proponer acciones conducentes para el fomento de la cultura de paz y desarrollo cultural en su demarcación, y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VII. Proponer acciones conducentes para el fomento de la cultura de paz y desarrollo cultural en su demarcación;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VII BIS. Analizar y emitir observaciones de manera anual, sobre los informes en materia cultural, así como de los indicadores utilizados para implementar una perspectiva de género y no discriminación, y
 
 VIII. Las demás que esta Ley y otros ordenamientos jurídicos le confieran.
 
@@ -671,3 +725,19 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Las Alcaldías como primera fase, tendrán un lapso de un año a partir de la entrada en vigor del presente decreto para implementar el registro previsto en la fracción X BIS. del artículo 20 de la Ley de Fomento Cultural de la Ciudad de México.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PATRIMONIO CULTURAL, NATURAL Y BIOCULTURAL DE LA CIUDAD DE MÉXICO Y DE LA LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES XIII DEL ARTÍCULO 20 Y VII DEL ARTÍCULO 29 Y SE ADICIONAN LAS FRACCIONES VII BIS AL ARTÍCULO 5; XIII BIS AL ARTÍCULO 20; Y VII BIS AL ARTÍCULO 29, TODOS DE LA LEY DE FOMENTO CULTURAL DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
