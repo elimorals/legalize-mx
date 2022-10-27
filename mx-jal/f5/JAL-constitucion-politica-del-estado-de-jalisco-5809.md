@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2022-06-16"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -883,17 +883,13 @@ II. Para que un partido político estatal mantenga su registro deberá obtener l
 
 III. (DEROGADA, P.O. 5 DE JULIO DE 2008)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2017)</small>
 
 IV. La ley establecerá las condiciones y mecanismos para que los partidos políticos estatales y nacionales tengan acceso al financiamiento público local destinado al cumplimiento de sus fines. El financiamiento público estatal para los partidos políticos nacionales o estatales que mantengan su registro después de cada elección, se compondrán de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto en año de elecciones, así como para actividades específicas de conformidad a las siguientes bases:
 
-(NOTA: EL 29 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, TEMA 3.1, DÉCIMO PRIMERO, DÉCIMO CUARTO Y DÉCIMO QUINTO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 165/2020 Y SUS ACUMULADAS 166/2020 Y 234/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO a) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 30 DE SEPTIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “a) El financiamiento público para partidos políticos locales que mantengan su registro después de cada elección, se otorgará conforme a lo establecido en el artículo 51 de la Ley General de Partidos Políticos. Los partidos políticos nacionales que mantengan su acreditación en el estado después de cada elección, tendrán derecho a recibir financiamiento público estatal para financiar los gastos de las actividades ordinarias por lo que en los años que no se celebren elecciones en el estado, se fijará anualmente multiplicando el padrón electoral local, por el veinte por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. En años electorales el financiamiento para actividades ordinarias se fijará anualmente, multiplicando el número total de los votos válidos obtenidos en la elección a diputados, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior."] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
-
-a) Los partidos políticos ESTATALES QUE MANTENGAN SU REGISTRO, ASÍ COMO LOS nacionales que mantengan su acreditación en el estado, después de cada elección, tendrán derecho a recibir financiamiento público estatal para financiar los gastos de las actividades ordinarias por lo que en los años que no se celebren elecciones en el estado, se fijara anualmente multiplicando el padrón electoral local, por el veinte por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior. En años electorales el financiamiento para actividades ordinarias se fijará anualmente, multiplicando el número total de los votos válidos obtenidos en la elección a diputados, por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+a) El financiamiento público para partidos políticos locales y nacionales que hayan obtenido el tres por ciento de la votación válida emitida en el proceso electoral local anterior, se otorgará conforme a lo establecido en el artículo 51 de la Ley General de Partidos Políticos. El 30% de la cantidad que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el 70% restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2017)</small>
 
@@ -1175,29 +1171,53 @@ VII. Las candidatas y candidatos independientes no tendrán derecho a participar
 
 Para ser diputada o diputado se requiere:
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos;
+I. Tener ciudadanía mexicana por nacimiento, en ejercicio de sus derechos; así como estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
 II. Tener cuando menos veintiún años de edad el día de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-III. Ser persona nacida en el Estado o avecindada cuando menos los dos años anteriores al día de la elección;
+III. Ser persona nativa de Jalisco o avecindada legalmente en él, cuando menos los dos años inmediatos anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-IV. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, ni consejera o consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y
+IV. No ser Consejera o Consejero Electoral, o Secretariado Ejecutivo del Consejo General del Instituto Electoral; Magistrada o Magistrado del Tribunal Electoral, ni pertenecer al Servicio Profesional Electoral Nacional, a menos que se separe de sus funciones dos años antes del día de la elección;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-V. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios; y
+V. No poseer cargo de Dirección, Presidencia, Secretaría o Consejería de los Consejos Distritales o Municipales Electorales del Instituto Electoral, a menos que se separe de sus funciones ciento ochenta días antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-VI. No ser servidora o servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección.
+VI. No poseer cargo de Presidencia o Consejería ciudadana de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes del día de la elección;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+VII. No poseer cargo de Presidencia o comisionado del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, a menos que se separe de sus funciones noventa días antes del día de la elección;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+VIII. No estar en servicio activo en el Ejército Nacional, ni tener mando en la policía o en cuerpos de seguridad pública en el distrito en que se pretenda su elección, cuando menos sesenta días antes de ella;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+IX. No ser titular de la Secretaría General de Gobierno o quien haga sus veces, de Secretaría del Despacho del Poder Ejecutivo, de la Fiscalía General del Estado, de la Fiscalía Especial en materia de Delitos Electorales, ni de la Procuraduría Social; Magistrada o Magistrado del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa, Consejera o Consejero del Consejo de la Judicatura del Estado, Magistrada o Magistrado del Tribunal de Arbitraje y Escalafón; a no ser que se separe del cargo noventa días antes del día de la elección;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+X. No ser Juez o Jueza, Secretario o Secretaria de Juzgado, Secretario o Secretaria del Consejo de la Judicatura del Estado, Presidente o Presidenta Municipal, Regidor o Regidora, Síndico o Síndica, Secretario o Secretaria de Ayuntamiento o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+XI. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Las y los servidores públicos que hubiesen solicitado licencia para contender por una Diputación, podrán regresar a su cargo un día después del día de la elección.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -2515,9 +2535,33 @@ II. Ser persona nacida en el municipio o área metropolitana correspondiente o a
 
 III. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios;
 
-IV. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, ni consejera o consejero electoral del instituto Electoral y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elcción; (sic) y
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-V. No ser servidora o servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección. Si se trata de funcionaria o funcionario encargado de la Hacienda Municipal, es necesario que haya presentado sus cuentas públicas.
+IV. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, consejera o consejero electoral del Instituto Electoral y de Participación Ciudadana del Estado, Procurador Social, Presidente o Presidenta de la Comisión Estatal de Derechos Humanos, titular de la Fiscalía General, titular de la Fiscalía Especial de Delitos Electorales, a menos que se separe de sus funciones dos años antes de la elección;
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+V. No tener Consejería Ciudadana de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes de la elección;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+VI. No estar en servicio activo en el Ejército Nacional ni tener mando en la policía o en cuerpo de seguridad pública en el municipio en que se pretenda su elección, cuando menos noventa días antes de ella;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+VII. No ser titular de la Secretaría General de Gobierno o quien haga sus veces, Secretaria o Secretario del Despacho del Poder Ejecutivo, Magistrada o Magistrado del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa, del Tribunal de Arbitraje y Escalafón, miembro del Consejo de la Judicatura, ni comisionada o comisionado del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, a menos que se separe de sus funciones noventa días antes de la elección;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+VIII. No ser Juez o Jueza, Secretario o Secretaria de Juzgado o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el municipio en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+IX. No ser servidor público del municipio de que se trate, a no ser que se separe temporal o definitivamente del cargo noventa días antes de la elección. Si se trata de la funcionaria o funcionario encargado de las finanzas municipales, es preciso que haya rendido sus cuentas al Congreso del Estado por conducto de la Auditoría Superior del Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Las y los servidores públicos que hubiesen solicitado licencia para contender para (sic) munícipe, podrán regresar a su cargo un día después del día de la elección.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -4332,3 +4376,19 @@ SEGUNDO. Para efectos de lo dispuesto en el artículo 50 fracción XXVII de la C
 TERCERO. El Congreso del Estado deberá crear el marco normativo que regirá el Sistema Tributario Estatal dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto.
 
 CUARTO. A efecto de establecer condiciones más equitativas en las participaciones que les correspondan a los municipios, a partir del primero de enero de 2024 el porcentaje a distribuir será el 23% del total de las percepciones que obtenga el Estado correspondiente al fondo general de participaciones y respecto del 1% que se adicione se priorizarán como parámetros para su distribución los principios resarcitorios relativos al índice de marginación y combate a la pobreza. El Congreso del Estado contará con el término de noventa días para resolver las iniciativas y hacer las adecuaciones legales que correspondan a la Ley de Coordinación Fiscal del Estado de Jalisco y sus Municipios que deriven en esta disposición.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28826/LXIII/22 QUE REFORMA EL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se autoriza al titular del Poder Ejecutivo del Estado para hacer los ajustes presupuestales necesarios para el cumplimiento del presente decreto.
+
+TERCERO. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco debe realizar las adecuaciones y ajustes presupuestales correspondientes en las prerrogativas para los partidos políticos emitiendo Acuerdo General que se ajuste al presente decreto.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28827/LXIII/22 QUE REFORMA LOS ARTÍCULOS 21 Y 74 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO”.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
