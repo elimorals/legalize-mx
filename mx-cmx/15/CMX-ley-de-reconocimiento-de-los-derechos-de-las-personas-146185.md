@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-reconocimiento-de-los-derechos-de-las-personas-146185"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-15"
-last_updated: "2022-03-23"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146185&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-01-14"
 
 LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Número 515 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 15 de enero de 2021.
 
@@ -350,7 +350,13 @@ III. La violencia patrimonial. Es cualquier acto u omisión que afecta la superv
 
 IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la persona víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la persona víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la persona víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+V Bis. La violencia institucional. Son todos aquellos actos u omisiones de personas servidoras públicas que ejerzan maltrato, daño, sufrimiento, abuso o discriminación, en contra de personas mayores, vulnerando, dilatando, obstaculizando o impidiendo, el goce o ejercicio de sus derechos humanos y libertades fundamentales, y
 
 VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas mayores.
 
@@ -366,9 +372,17 @@ b) Implementar medidas para eliminar prácticas que revictimicen o burocraticen 
 
 c) Diseñar mecanismos para identificar situaciones de alto riesgo para la integridad de las personas mayores y celebrar convenios de colaboración con diversas autoridades que permitan su atención y canalización pronta y eficaz a las instancias que sean competentes para su atención;
 
-d) Establecer en lugares o espacios visibles, números o aparatos telefónicos para la denuncia ante el órgano interno de control, por el maltrato en que incurran las personas servidoras públicas que atiendan a personas mayores, y
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-e) Registrar en forma diferenciada aquellos servicios y trámites de los que tengan conocimiento, de conformidad al desarrollo de sus funciones, relacionados con actos de violencia, abuso, maltrato o abandono, en los que se encuentre involucrada una persona mayor, con el objetivo de generar diagnósticos de riesgos, posibles situaciones de violencia y posibilitar el desarrollo de políticas adecuadas de prevención;
+d) Establecer en lugares o espacios visibles, números o aparatos telefónicos para la denuncia ante el órgano interno de control, por el maltrato en que incurran las personas servidoras públicas que atiendan a personas mayores;
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+e) Registrar en forma diferenciada aquellos servicios y trámites de los que tengan conocimiento, de conformidad al desarrollo de sus funciones, relacionados con actos de violencia, abuso, maltrato o abandono, en los que se encuentre involucrada una persona mayor, con el objetivo de generar diagnósticos de riesgos, posibles situaciones de violencia y posibilitar el desarrollo de políticas adecuadas de prevención, y
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+f) Garantizar que las personas servidoras públicas otorguen un trato digno y libre de violencia institucional a las personas mayores.
 
 II. A la administración pública y alcaldías les corresponde:
 
@@ -384,15 +398,31 @@ e) Generar áreas de alojamiento temporal y protegido en caso de personas mayore
 
 f) Desarrollar talleres y actividades orientadas a revertir los efectos ocasionados por la generación de violencia o maltrato en contra de personas mayores;
 
-g) Incluir en sus manuales administrativos procedimientos de atención preferencial, así como aquellos relativos a la prevención y eliminación de las barreras burocráticas en los diversos trámites y servicios que se proporcionen a las personas mayores, y
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-h) Diseñar dispositivos de prevención de la violencia, en cualquiera de sus manifestaciones, dentro de la familia, la comunidad o la sociedad; así como en espacios donde reciba servicios de cuidado.
+g) Incluir en sus manuales administrativos procedimientos de atención preferencial, así como aquellos relativos a la prevención y eliminación de las barreras burocráticas en los diversos trámites y servicios que se proporcionen a las personas mayores;
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+h) Diseñar dispositivos de prevención de la violencia, en cualquiera de sus manifestaciones, dentro de la familia, la comunidad o la sociedad; así como en espacios donde reciba servicios de cuidado, e
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+i) Garantizar que las personas servidoras públicas otorguen un trato digno, respetuoso, preferencial y libre de violencia institucional a las personas mayores.
 
 III. Al Poder Judicial le corresponde:
 
-a) Implementar criterios homologados para agilizar procedimientos judiciales relacionados con conductas de violencia (sic) contra de personas mayores, así como para el otorgamiento de medidas cautelares, y
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-b) Establecer un programa informático para que las personas juzgadoras puedan obtener datos sobre antecedentes de otros procedimientos relacionados con sujetos con conductas de violencia contra personas mayores.
+a) Implementar criterios homologados para agilizar procedimientos judiciales relacionados con conductas de violencia (sic) contra de personas mayores, así como para el otorgamiento de medidas cautelares;
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+b) Establecer un programa informático para que las personas juzgadoras puedan obtener datos sobre antecedentes de otros procedimientos relacionados con sujetos con conductas de violencia contra personas mayores, y
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+c) Garantizar que las personas mayores gocen del acceso a la justicia de manera eficaz, sin que se dificulten o dilaten innecesariamente los procedimientos para tal fin.
 
 IV. A la Fiscalía General de Justicia le corresponde:
 
@@ -406,9 +436,17 @@ d) Emitir un protocolo de atención a las personas mayores con una perspectiva p
 
 (sic) compensatoria, libre de estereotipos y discriminaciones;
 
-e) Desarrollar mecanismos adecuados y eficaces, libre de estereotipos y discriminaciones para la presentación de denuncias y seguimiento de las actuaciones, en casos de conductas delictivas cometidas en contra de las personas mayores, y
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-f) Generar canales accesibles y ágiles para la radicación de denuncias por parte de personas servidoras públicas, en los casos en que exista obligación de denunciar.
+e) Desarrollar mecanismos adecuados y eficaces, libre de estereotipos y discriminaciones para la presentación de denuncias y seguimiento de las actuaciones, en casos de conductas delictivas cometidas en contra de las personas mayores;
+
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+f) Generar canales accesibles y ágiles para la radicación de denuncias por parte de personas servidoras públicas, en los casos en que exista obligación de denunciar, y
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+g) Garantizar que las personas servidoras públicas otorguen un trato digno, respetuoso y libre de violencia institucional a las personas mayores.
 
 #### Sección VII. Derecho a recibir servicios de cuidado a largo plazo
 
@@ -442,9 +480,17 @@ IV. Evitar las injerencias arbitrarias o ilegales en su vida privada, familiar, 
 
 V. Promover y facilitar la interacción de la persona mayor con su familia comunidad y sociedad;
 
-VI. Proteger la seguridad personal y el ejercicio de la libertad y movilidad de la persona mayor, y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
 
-VII. Proporcionar cuidados paliativos conforme a la legislación aplicable.
+VI. Proteger la seguridad personal y el ejercicio de la libertad y movilidad de la persona mayor;
+
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VII. Proporcionar cuidados paliativos conforme a la legislación aplicable, y
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VIII. Garantizar un entorno libre de todo tipo de violencia.
 
 #### Sección VIII. Derecho a la libertad de expresión, opinión y acceso a la información
 
@@ -1094,6 +1140,10 @@ Los servicios señalados anteriormente deberán proporcionarse en establecimient
 
 De igual forma, impulsarán la creación de espacios y mecanismos de vinculación para la atención de las propias instituciones que ofrecen estos servicios para favorecer su funcionamiento, retroalimentación y participación.
 
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+En los espacios y mecanismos de vinculación antes mencionados, se establecerán las condiciones necesarias para garantizar un entorno libre de todo tipo de violencia y se protegerá el ejercicio de los derechos humanos de las personas mayores, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+
 ###### Artículo 110.
 
 Se establece el Registro Único y Obligatorio de Establecimientos para para (sic) la atención y cuidado (sic) personas mayores el cual será de acceso público y gratuito. Todos los establecimientos deberán inscribirse en el Registro, sin el cual no podrán iniciar actividades.
@@ -1112,7 +1162,9 @@ IV. A disfrutar de instalaciones higiénicas adaptadas a sus condiciones de movi
 
 V. A que se resguarde su dignidad, tanto por el personal que labora para el establecimiento como por los demás residentes;
 
-VI. A no sufrir violencia o maltrato en el centro o establecimiento;
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+VI. A no sufrir violencia de cualquier tipo o maltrato en el centro o establecimiento;
 
 VII. A recibir una alimentación nutricional y adecuada a su salud;
 
@@ -1140,7 +1192,9 @@ Respecto al derecho señalado en la fracción I, la Secretaría, desarrollará l
 
 Las personas responsables o administradoras de los establecimientos que proporcionen servicios de cuidados y atención institucional deberán observar y hacer observar al personal a su cargo, de manera rigurosa, los derechos de las personas mayores a que se refiere la presente ley, así como la demás legislación aplicable.
 
-De igual forma, deberán realizar acciones de formación y capacitación permanente para su personal operativo y administrativo en materia de derechos humanos, desarrollo de habilidades técnicas y demás temas que favorezcan el adecuado desempeño de sus funciones.
+> <small>(REFORMADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+De igual forma, deberán realizar acciones de formación y capacitación permanente para su personal operativo y administrativo en materia de derechos humanos, desarrollo de habilidades técnicas y demás temas que favorezcan el adecuado desempeño de sus funciones, para otorgar, en todo momento, un trato digno y libre de todo tipo violencia o maltrato a las personas mayores.
 
 ###### Artículo 113.
 
@@ -1340,7 +1394,13 @@ XI. Establecer mecanismos para generar canales de comunicación que favorezcan l
 
 XII. Impulsar que en los Instrumentos de planeación del desarrollo de la Ciudad se incorpore los enfoques de curso de vida, diferencial e interseccional en el impulso de acciones en favor de un envejecimiento saludable y una vejez digna;
 
-XIII. Elaborar y aprobar el Estatuto Interno del Sistema, y
+> <small>(REFORMADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XIII. Elaborar y aprobar el Estatuto Interno del Sistema;
+
+> <small>(ADICIONADA, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+XIII Bis. Capacitar a las personas servidoras públicas en materia de derechos humanos de las personas mayores, para garantizar un trato digno y libre de violencia institucional, y
 
 XIV. Las demás que sean necesarias para el cumplimiento de esta ley.
 
@@ -1507,3 +1567,11 @@ G.O. 23 DE MARZO DE 2022.
 PRIMERO. - Remítase el presente Decreto a la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. - El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 27; SE ADICIONA EL INCISO F) A LA FRACCIÓN I; EL INCISO I) A LA FRACCIÓN II; EL INCISO C) A LA FRACCIÓN III, Y EL INCISO G) A LA FRACCIÓN IV, AL ARTÍCULO 28; SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 32; SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 109; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 111; SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 112; SE ADICIONA LA FRACCIÓN XIII BIS AL ARTÍCULO 128; TODOS DE LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
