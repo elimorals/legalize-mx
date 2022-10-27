@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2022-10-21"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -57,9 +57,11 @@ QUE CONTIENE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO D
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, de interés social y de observancia general en el Estado de Hidalgo, tiene por objeto proteger los derechos de los adultos mayores a partir de los sesenta años de edad sin distinción alguna, para proporcionarles una mejor calidad de vida y garantizarles su plena integración al desarrollo social, económico y cultural.
+La presente Ley es de orden público de interés social y de observancia general en el Estado de Hidalgo, tiene por objeto proteger y garantizar los derechos de las personas adultas mayores, en condiciones de igualdad y no discriminación, para proporcionarles una mejor calidad de vida y contribuir a su plena inclusión, y participación en el desarrollo social, económico y cultural, así como generar las condiciones para lograr un envejecimiento saludable.
 
 ###### Artículo 2.
 
@@ -122,6 +124,10 @@ XIII.- Cuidados paliativos.- La atención y cuidado activo, integral e interdisc
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
 
 XIV.- Envejecimiento.- Proceso gradual que se desarrolla durante el curso de vida y que conlleva cambios biológicos, fisiológicos, psico-sociales y funcionales de variadas consecuencias, las cuales se asocian con interacciones dinámicas y permanentes entre el sujeto y su medio;
+
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+XIV Bis.- Envejecimiento Saludable. Proceso de fomentar la capacidad funcional que permite el bienestar en la vejez.
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -1004,5 +1010,11 @@ P.O. 12 DE ABRIL DE 2022.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 281 QUE ADICIONA EL ARTÍCULO 22 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 240 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
