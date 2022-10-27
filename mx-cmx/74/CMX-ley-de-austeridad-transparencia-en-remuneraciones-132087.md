@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-austeridad-transparencia-en-remuneraciones-132087"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2021-11-11"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132087&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-28"
 
 LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -790,6 +790,10 @@ La Secretaría podrá efectuar las modificaciones que considere necesarias a los
 
 Para el caso de las Alcaldías, la Secretaría se coordinará con éstas a efecto de acordar los ajustes planteados durante los primeros 15 días naturales del mes de enero de cada ejercicio, a efecto de respetar la congruencia entre los objetivos del programa de Gobierno de la Alcaldía y la aplicación del marco normativo y procedimental.
 
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+Una vez aprobado el Presupuesto de Egresos y publicado en la Gaceta Oficial, las Unidades Responsables del Gasto deberán realizar los ajustes necesarios en la programación del gasto informada por la Secretaría, con el objeto de que ésta integre el Programa Operativo Anual, mismo que deberá ser publicado en la Gaceta Oficial, en su página de internet y remitido a la Comisión de Presupuesto y Cuenta Pública del Congreso Local, a más tardar el 1 de marzo del año respectivo.
+
 ###### Artículo 33.
 
 Las asignaciones presupuestales para las Alcaldías se integrarán tomando en cuenta los siguientes criterios:
@@ -1473,6 +1477,10 @@ Dichas adecuaciones, deberán ser informadas a la persona titular de la Jefatura
 Las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, así como el Poder Legislativo, Poder Judicial y Organismos Autónomos, sin menoscabo de su autonomía, en el ejercicio de sus respectivos presupuestos, deberán tomar medidas para racionalizar el gasto destinado a las actividades administrativas y de apoyo, sin afectar el cumplimiento de las metas de las funciones aprobadas en el Decreto de Presupuesto de Egresos.
 
 Los recursos generados como resultado de la aplicación de dichas medidas deberán destinarse, en primer lugar, a mitigar, en su caso, el déficit presupuestal de origen y, en segundo lugar, las funciones prioritarias del ejecutor de gasto que los genere, previa autorización de la Secretaría o de la instancia competente, tratándose del Poder Legislativo, Poder Judicial y Organismos Autónomos.
+
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2022)</small>
+
+En la integración de la Cuenta Pública, la Secretaría diseñará un formato específico de austeridad, donde las Unidades Responsables del Gasto informarán respecto de los recursos mencionados en el párrafo anterior, a nivel de Capítulo y Concepto del Gasto y, en su caso, del destino de dichos recursos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2021)</small>
 
@@ -2737,3 +2745,11 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su debid
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México, y
 
 TERCERO. La Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México deberá realizar las modificaciones pertinentes a las disposiciones relacionadas con el cierre del ejercicio presupuestal 2021.
+
+G.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 32, Y UN PÁRRAFO TERCERO AL ARTÍCULO 90, AMBOS DE LA LEY DE AUSTERIDAD, TRANSPARENCIA EN REMUNERACIONES, PRESTACIONES Y EJERCICIO DE RECURSOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México, y
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México y será aplicable en la integración de la Cuenta Pública del Ejercicio Fiscal 2022.
