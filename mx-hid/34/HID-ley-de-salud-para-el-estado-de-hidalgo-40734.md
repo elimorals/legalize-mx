@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2022-07-15"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -1545,7 +1545,9 @@ El personal encargado de los programas de salud mental deben estar debidamente a
 
 La prevención, atención y tratamiento de la salud mental, así como los trastornos mentales tienen el carácter de prioritarios, contando con las siguientes acciones:
 
-I.- Atención de la salud mental;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+I.- Atención de la salud mental, privilegiando la atención de depresión y ansiedad en niños, niñas, adolescentes y jóvenes, así como otros grupos de riesgo para la prevención de suicidio.
 
 II.- Elaboración de estudios que determinen los factores que afectan la salud mental;
 
@@ -2434,5 +2436,11 @@ P.O. 27 DE JUNIO DE 2022.
 P.O. 15 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 221 QUE REFORMA LA FRACCIÓN IV, DEL ARTÍCULO 142 UNDECIES 6 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 287 REFORMA LA FRACCIÓN I DEL ARTÍCULO 142 QUINQUIES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
