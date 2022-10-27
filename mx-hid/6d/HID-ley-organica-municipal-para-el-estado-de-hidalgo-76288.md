@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2022-10-21"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -2519,9 +2519,9 @@ II.- Conservar en buen estado las calles, plazas, jardines y establecimientos p�
 
 III.- Administrar, conservar y dar mantenimiento a los transportes colectores de residuos sólidos urbanos garantizando se conserve la separación de éstos, desde su fuente de generación hasta la disposición final;
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-III BIS.- Coordinar y administrar el manejo integral de los residuos sólidos urbanos, en sus diferentes etapas: recolección, transporte, tratamiento, aprovechamiento y disposición final de residuos sólidos urbanos, mediante la instalación y conservación de plantas tratadoras;
+III BIS.- Coordinar y administrar el manejo integral de los residuos sólidos urbanos, en sus diferentes etapas: recolección, transporte, tratamiento, aprovechamiento y disposición final de residuos sólidos urbanos, mediante la instalación y conservación de plantas tratadoras, en las cuales se contemple el composteo, la reutilización o reciclaje, y el tratamiento térmico en los términos autorizados por la Federación, la Ley General, las Normas Oficiales Mexicanas y demás ordenamientos aplicables;
 
 IV.- Instalar y conservar plantas tratadoras, rellenos sanitarios y basureros;
 
@@ -2711,11 +2711,9 @@ ARTÍCULO 129 QUATER.- Las autoridades municipales competentes, recabarán, regi
 
 ARTÍCULO 129 QUINQUIES.- Las autoridades municipales, en el marco de sus respectivas competencias, instrumentarán sistemas de separación de los residuos sólidos urbanos y de manejo especial, distinguiendo entre orgánicos e inorgánicos, conforme a las disposiciones de la Ley de Prevención y Gestión Integral de Residuos del Estado de Hidalgo, y el Programa Municipal de Prevención y Gestión Integral de Residuos Sólidos Urbanos.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
-ARTÍCULO 129 SEXIES.- Los Municipios podrán implementar mecanismos de selección de los residuos sólidos urbanos.
-
-Los residuos sólidos que hayan sido seleccionados para su aprovechamiento mediante reutilización y reciclaje, y no puedan ser procesados, para tal fin, por los organismos municipales encargados de los servicios de limpia deberán ser puestos a disposición de los mercados de reciclaje. La separación de este tipo de residuos, solo se realizará cuando previamente se hayan establecido los contratos respectivos con empresas recicladoras y fijado los volúmenes que éstas procesarán, para evitar la saturación de las áreas de almacenamiento temporal de residuos en las plantas de selección.
+Artículo 129 SEXIES.- Los Municipios podrán implementar mecanismos de selección de los residuos sólidos urbanos. Los residuos sólidos que hayan sido seleccionados para su aprovechamiento mediante reutilización, reciclaje y composteo, y no puedan ser procesados, para tal fin, por los organismos municipales encargados de los servicios de limpia deberán ser puestos a disposición de los mercados de reciclaje. La separación de este tipo de residuos, solo se realizará cuando previamente se hayan establecido los contratos respectivos con empresas recicladoras y fijado los volúmenes que éstas procesarán, para evitar la saturación de las áreas de almacenamiento temporal de residuos en las plantas de selección.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -2732,6 +2730,22 @@ d. Recolección Selectiva: Consiste en la captación diferenciada, desde su orig
 e. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos para su aprovechamiento y/o valorización y se reduzca su volumen; y
 
 f. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+g.- Aprovechamiento de los residuos: conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante el composteo, reutilización, reciclaje, remanufactura, rediseño y recuperación de materiales secundados o de energía; y
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+h.- Composteo: Tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Artículo 129 OCTIES.- El aprovechamiento de los residuos sólidos y de manejo especial comprende los procesos de composta, reutilización, reciclaje, tratamiento térmico con o sin recuperación de energía y otras modalidades que se consideren pertinentes, observando lo establecido en las leyes específicas y reglamentarias, así como en las Normas Oficiales y técnicas emitidas, para prevenir riesgos a la salud humana y al ambiente.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+
+Artículo 129 NONIES.- La disposición de residuos sólidos urbanos o de manejo especial en rellenos sanitarios, será considerada como la última opción, una vez que se hayan agotado las posibilidades de aprovechar o tratar los residuos por otros medios, con la finalidad de alinear el manejo de residuos con el enfoque de los principios de economía circular.
 
 ###### ARTÍCULO 127.
 
@@ -4056,5 +4070,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 244 ADICIONA EL CAPÍTULO DÉCIMO SEXIES, DENOMINADO, DEL CONSEJO CONSULTIVO MUNICIPAL DE TURISMO SUSTENTABLE, E INTEGRADO POR LOS ARTÍCULOS 145 QUINDECIES, 145 SEXDECIES Y 145 SEPTDECIES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 292 QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
