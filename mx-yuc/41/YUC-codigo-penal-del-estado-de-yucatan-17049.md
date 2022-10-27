@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2022-10-13"
+last_updated: "2022-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE OCTUBRE DE 2022.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2579,7 +2579,7 @@ IV.- (DEROGADA, D.O. 22 DE JUNIO DE 2018)
 
 Si la información obtenida por cualquiera de los medios establecidos en las fracciones I, II y III de este artículo se hace del conocimiento de terceros la sanción se incrementará en un tercio de la que le corresponda.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 22 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 27 DE OCTUBRE DE 2022)</small>
 
 ###### ARTÍCULO 241.
 
@@ -2609,21 +2609,29 @@ ARTÍCULO 243 BIS 1. Este Capítulo, es aplicable en todo lo que no contravenga 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE JULIO DE 2008)</small>
 
-### CAPÍTULO V BIS. DELITOS CONTRA LA IMAGEN PERSONAL
+### CAPÍTULO V BIS. VIOLACIÓN A LA INTIMIDAD SEXUAL
 
-> <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, D.O. 27 DE OCTUBRE DE 2022)</small>
 
-ARTÍCULO 243 BIS 3.- A quien hubiera obtenido con la anuencia de otra persona imágenes, textos o grabaciones de voz o audiovisuales de contenido erótico, sexual o pornográfico de aquella y las revele, publique, difunda o exhiba sin su consentimiento, a través de mensajes telefónicos, publicaciones en redes sociales, correo electrónico o por cualquier otro medio, se le impondrá de un año a cinco años de prisión y multa de doscientas a quinientas unidades de medida y actualización.
+ARTÍCULO 243 BIS 3.- Comete el delito de violación a la intimidad sexual la persona que divulgue, comparta, distribuya o publique imágenes, videos o audios de contenido íntimo sexual de una persona que tenga la mayoría de edad, sin su consentimiento, su aprobación o su autorización; así como a quien videograbe, audiograbe, fotografíe, imprima o elabore, imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización. A quien cometa este delito, se le impondrá una pena de tres a seis años de prisión y una multa de quinientas a mil Unidades de Medida y Actualización.
 
-Las penas y sanciones a que se refiere el párrafo anterior, se aumentarán hasta en una mitad cuando el sujeto activo sea el cónyuge, concubina o concubinario, o la persona que mantenga o haya mantenido una relación sentimental, afectiva o de confianza con la víctima, aún sin convivencia, o haya cometido la conducta con fines lucrativos.
+Se impondrán las mismas sanciones previstas en el artículo anterior cuando las imágenes, videos o audios de contenido íntimo sexual que se divulguen, compartan, distribuyan o publiquen no correspondan con la persona que es señalada o identificada en los mismos.
 
-A quien cometa la conducta prevista en el párrafo primero, sin anuencia del sujeto pasivo y sin conocerlo, se le impondrá una pena de tres meses a un año de prisión y multa de cincuenta a doscientas unidades de medida y actualización.
+El mínimo y el máximo de la pena se aumentará hasta en una mitad:
 
-Las penas y sanciones previstas en el párrafo anterior de este artículo se aumentarán al triple cuando el sujeto activo tenga una relación de confianza, de amistad o de vecindad con la víctima o comparta el uso de espacios, educativos o laborales, culturales, deportivos o sociales comunes con ella y, con conocimiento de dichas circunstancias, cometa la conducta punible.
+I. Cuando el delito sea cometido por el cónyuge, concubinario o concubina, pareja de hecho o por cualquier persona con la que la víctima tenga o haya tenido una relación sentimental, afectiva o de confianza.
 
-Cuando el delito previsto en este artículo sea cometido contra un menor de dieciocho años, se estará a lo establecido en el artículo 211 de este código.
+II. Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones.
 
-Este delito se perseguirá por querella de la parte ofendida.
+III. Cuando se cometa contra una persona que no pueda comprender el significado del hecho o no tenga la capacidad para resistirlo.
+
+IV. Cuando se obtenga algún tipo de beneficio no lucrativo.
+
+V. Cuando se haga con fines lucrativos.
+
+VI. Cuando a consecuencia de los efectos o impactos del delito, la víctima atente contra su integridad o contra su propia vida.
+
+Cuando el delito previsto en este artículo sea cometido contra una persona menor de dieciocho años de edad, se estará a lo establecido en el artículo 211 de este código.
 
 > <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2018)</small>
 
@@ -5806,3 +5814,15 @@ D.O. 13 DE OCTUBRE DE 2022.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor al momento de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 564/2022 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE VIOLENCIA DIGITAL Y VIOLACIÓN A LA INTIMIDAD SEXUAL”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan a este decreto.
