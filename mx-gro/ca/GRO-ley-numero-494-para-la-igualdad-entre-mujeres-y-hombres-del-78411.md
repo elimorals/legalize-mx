@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-494-para-la-igualdad-entre-mujeres-y-hombres-del-784
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-28"
-last_updated: "2017-05-09"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 28 de diciembre de 2010.
 
@@ -71,9 +71,17 @@ I. La igualdad;
 
 II. La no discriminación por razón de sexo;
 
-III. La equidad; y
+> <small>(REFORMADA, P.O 28 DE OCTUBRE DE 2022)</small>
 
-IV. Todos aquéllos análogos que estén contenidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales suscritos por el Estado Mexicano, en la Constitución Política del Estado Libre y Soberano de Guerrero, y en las demás leyes y disposiciones de carácter general y especial, federales o estatales.
+III. La equidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O 28 DE OCTUBRE DE 2022)</small>
+
+IV. La paridad de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O 28 DE OCTUBRE DE 2022)</small>
+
+V. Todos aquéllos análogos que estén contenidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales suscritos por el Estado Mexicano, en la Constitución Política del Estado Libre y Soberano de Guerrero, y en las demás leyes y disposiciones de carácter general y especial, federales o estatales.
 
 La igualdad entre mujeres y hombres implica la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo.
 
@@ -191,7 +199,9 @@ II. Integrar el principio de igualdad de trato y oportunidades en el conjunto de
 
 III. Diseñar, implementar y evaluar mecanismos que permitan la colaboración y cooperación entre los órganos que integran el poder público, en la aplicación efectiva del derecho de igualdad entre mujeres y hombres;
 
-IV. Promover la participación equilibrada de mujeres y hombres en las candidaturas electorales y en los puestos de toma de decisiones;
+> <small>(REFORMADA, P.O 28 DE OCTUBRE DE 2022)</small>
+
+IV. Garantizar la participación y representación paritaria de mujeres y hombres en las candidaturas electorales y en los puestos de toma de decisiones.
 
 V. Desarrollar, implementar y evaluar mecanismos que permitan la erradicación de la violencia de género, así como la discriminación por razón de sexo;
 
@@ -203,7 +213,9 @@ VIII. Asegurar el uso de un lenguaje no sexista en el ámbito administrativo y s
 
 IX. Transversalizar el principio de igualdad de trato y de no discriminación por razón de sexo en todas las relaciones sociales;
 
-X. Atender al principio de presencia equilibrada de mujeres y hombres en los nombramientos y designaciones de los cargos de responsabilidad que les correspondan; y
+> <small>(REFORMADA, P.O 28 DE OCTUBRE DE 2022)</small>
+
+X. Garantizar el principio de paridad de género de mujeres y hombres en los nombramientos y designaciones de los cargos de responsabilidad que les correspondan; y
 
 XI. Mantener y preservar los derechos adquiridos a favor de las mujeres en el Estado.
 
@@ -323,7 +335,9 @@ I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida
 
 II. Garantizar que la planeación presupuestal incorpore acciones afirmativas que aseguren la progresividad con perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad entre mujeres y hombres;
 
-III. Generar los mecanismos que fomenten la participación y representación política equilibrada entre mujeres y hombres;
+> <small>(REFORMADA, P.O 28 DE OCTUBRE DE 2022)</small>
+
+III. Generar los mecanismos que garanticen la participación y representación política paritaria entre mujeres y hombres;
 
 IV. Implementar y promover acciones para garantizar la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
@@ -601,7 +615,9 @@ VI. Garantizar que en su programa operativo anual se especifique una partida pre
 
 VII. Establecer los mecanismos necesarios para identificar todas las partidas presupuestarias destinadas al desarrollo de las mujeres y gestar los mecanismos de vinculación entre ellas, a efecto de incrementar su potencial;
 
-VIII. Implementar campañas que fomenten la contratación de mujeres y promuevan la igualdad en el mercado laboral, en los ámbitos público y privado;
+> <small>(REFORMADA, P.O 28 DE OCTUBRE DE 2022)</small>
+
+VIII. Implementar campañas que fomenten la contratación de mujeres y promuevan la igualdad en el mercado laboral, en los ámbitos públicos y privado, así como la participación paritaria de mujeres y hombres en puestos de toma de decisiones;
 
 IX. Fomentar la adopción voluntaria de programas de igualdad entre mujeres y hombres por parte del sector privado, generando diagnósticos de los que se desprendan las carencias y posibles mejoras en torno a la igualdad entre mujeres y hombres;
 
@@ -617,9 +633,11 @@ XIV. Establecer estímulos y certificados de igualdad que se concederán anualme
 
 ### CAPÍTULO IV. De la participación y representación política equilibrada de las mujeres y los hombres
 
+> <small>(REFORMADO, P.O 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 52.
 
-La política estatal generará los mecanismos que garanticen la participación equitativa entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
+La política estatal generará los mecanismos que garanticen la participación paritaria entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
 
 ###### Artículo 53.
 
@@ -627,15 +645,23 @@ Para los efectos de lo previsto en el artículo anterior, las autoridades y ente
 
 I. Fomentar que el trabajo legislativo incorpore la perspectiva de género de forma progresiva;
 
-II. Garantizar la implantación de mecanismos que promuevan la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
+> <small>(REFORMADA, P.O 28 DE OCTUBRE DE 2022)</small>
 
-III. Promover la participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos y agrupaciones políticas locales;
+II. Garantizar la implantación de mecanismos que promuevan la participación paritaria entre mujeres y hombres en los cargos de elección popular;
 
-IV. Garantizar la participación equitativa de mujeres y hombres en altos cargos públicos;
+> <small>(REFORMADA, P.O 28 DE OCTUBRE DE 2022)</small>
+
+III. Promover la participación y representación paritaria entre mujeres y hombres dentro de las estructuras de los partidos y agrupaciones políticas locales;
+
+> <small>(REFORMADA, P.O 28 DE OCTUBRE DE 2022)</small>
+
+IV. Garantizar la participación paritaria de mujeres y hombres en altos cargos públicos:
 
 V. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil; y
 
-VI. Garantizar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Legislativo, Ejecutivo y Judicial del Estado, así como en los Organismos Públicos Autónomos del Estado.
+> <small>(REFORMADA, P.O 28 DE OCTUBRE DE 2022)</small>
+
+VI. Garantizar la participación paritaria y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Legislativo, Ejecutivo y Judicial del Estado, así como en los Organismos Públicos Autónomos del Estado.
 
 ### CAPÍTULO V. De la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres
 
@@ -976,3 +1002,13 @@ SEGUNDO. Dentro de los 90 días naturales a partir de la entrada en vigor del pr
 TERCERO. Dentro de los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Poderes del Estado y los municipios, deberán adecuar sus políticas públicas en materia de igualdad entre mujeres y hombres, contemplando los criterios establecidos en la presente Ley, principalmente, políticas públicas diferenciadas para las mujeres que se encuentren embarazadas, con alguna discapacidad o que sean menores de edad, migrantes, entre otros factores de vulnerabilidad.
 
 CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232 POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 4; LAS FRACCIONES IV Y X DEL ARTÍCULO 14; LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 24; LA FRACCIÓN VIII DEL ARTÍCULO 51; EL ARTÍCULO 52; LAS FRACCIONES II, III, IV Y VI DEL ARTÍCULO 53 Y SE RECORRE EL TEXTO QUE CONTENÍA LA FRACCIÓN IV PARA QUEDAR ASENTADO EN LA FRACCIÓN V QUE SE ADICIONA AL ARTÍCULO 4, TODOS DE LA LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
