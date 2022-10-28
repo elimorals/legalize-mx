@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-124176"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-11-03"
-last_updated: "2022-10-26"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124176&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-10-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ASIGNACIÓN DE AUDIENCIAS Y ASUNTOS, LA RENDICIÓN DE ESTADÍSTICA Y LOS LIBROS ELECTRÓNICOS DE CONTROL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2022.
 
 Acuerdo publicado al Número 3 del Diario Oficial de la Federación, el viernes 3 de noviembre de 2017.
 
@@ -193,1779 +193,145 @@ El ingreso y envío de los reportes estadísticos deberá realizarse a más tard
 
 ###### Artículo 11.
 
-Los libros de control en los Centros de Justicia Penal Federal se generarán de manera automática en el Sistema Integral de Seguimiento de Expedientes a partir de la captura de datos de los asuntos.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 12.
 
-Los libros de control obligatorios para el registro de las actuaciones de los jueces de control de los Centros de Justicia Penal Federal, son los siguientes:
-
-I. Libro uno: de causas penales ante juez de control;
-
-II. Libro dos: de actos de investigación con control judicial;
-
-III. Libro tres: de providencias precautorias;
-
-IV. Libro cuatro: de comunicaciones de ingreso a lugar sin autorización judicial con consentimiento de quien se encuentre facultado;
-
-V. Libro cinco: de medidas cautelares;
-
-VI. Libro seis: de declaratorias de abandono de bienes;
-
-VII. Libro siete: de impugnaciones contra determinaciones del ministerio público;
-
-VIII. Libro ocho: de acuerdos reparatorios en etapa de investigación complementaria;
-
-IX. Libro nueve: de pruebas anticipadas;
-
-X. Libro diez: de solicitudes de reserva de información;
-
-XI. Libro once: de solicitudes de restablecimiento de cosas al estado previo; y
-
-XII. Libro doce: de procedimientos de extradición.
-
-De los libros de control a que se refiere este artículo, los jueces de control del Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones sólo llevarán el libro dos.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 13.
 
-El libro de causas penales constará de las siguientes columnas, en las que deberán registrarse los datos que se indican, por imputado, independientemente de que corresponda o no a una misma causa penal:
-
-I. Causa Penal: se registrará el número asignado al asunto, en atención rigurosa a la fecha y hora de su ingreso al Centro de Justicia Penal Federal. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Recepción: se anotará la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
-
-III. Juez de Control: se asentará el nombre del Juez de Control a quien correspondió conocer de la causa;
-
-IV. Solicitante: se registrará la denominación de la autoridad que formula la judicialización, o bien, el nombre de la víctima u ofendido en caso de ser el solicitante de la acción penal;
-
-V. Imputado: se anotarán, por cada imputado:
-
-a) El nombre completo de la persona contra la que se ejerce la acción penal. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-b) En su caso, el alias o apodo correspondiente; y
-
-c) La forma de conducción del imputado, asentando las expresiones “Sin detenido”, “Con detenido”, “En libertad”, según sea el caso;
-
-VI. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VII. Delito: se registrarán, por imputado y en forma separada, cada uno de los delitos por los cuales se ejercitó acción penal;
-
-VIII. Órdenes solicitadas: se anotarán, por cada imputado:
-
-a) La fecha y sentido de la resolución;
-
-b) La forma de resolver, asentando las expresiones “En audiencia”, “Por escrito”, “Medio electrónico”;
-
-c) La fecha de notificación al Ministerio Público; y
-
-d) Los datos de la apelación o amparo, según sea el caso;
-
-IX. Suspensión del procedimiento: se registrarán, por cada imputado:
-
-a) La fecha del auto que ordene la suspensión del procedimiento y que dé lugar al archivo provisional;
-
-b) El motivo de la suspensión; y
-
-c) La fecha en que se reanuda el proceso, seguida de la leyenda "Fecha del levantamiento de la suspensión";
-
-X. Audiencia inicial: se registrarán, por cada imputado, la fecha y hora de celebración de la audiencia;
-
-XI. Medidas cautelares: se asentarán, por cada imputado, en su caso:
-
-a) El tipo de medida cautelar solicitada;
-
-b) La denominación de la autoridad que formula la solicitud, o bien, el nombre de la víctima u ofendido en caso de ser el solicitante, seguido de la leyenda “Ministerio Público” o “Víctima u ofendido”, según sea el caso;
-
-c) Fecha y sentido de la resolución respecto a la medida cautelar solicitada;
-
-d) En su caso, tipo de medida cautelar otorgada;
-
-e) En caso de que se haya solicitado revisión, se anotará la fecha y sentido de la resolución de la revisión; y
-
-f) La fecha y motivo de cancelación de la medida cautelar;
-
-XII. Resoluciones en audiencia inicial: se anotarán, por cada imputado, en su caso:
-
-a) Respecto del control de legalidad de la detención:
-
-1. La fecha de la resolución;
-
-2. El sentido de la resolución; y
-
-3. Los datos del amparo;
-
-b) Respecto a la vinculación a proceso:
-
-1. La fecha de la resolución;
-
-2. El sentido de la resolución; y
-
-3. Los datos de la apelación o amparo, según sea el caso;
-
-XIII. Soluciones alternas: se registrarán, por cada imputado, en su caso:
-
-a) La fecha de presentación de la solicitud de aprobación de la solución alterna, seguida de la leyenda "Solicitud";
-
-b) El tipo de solución alterna;
-
-c) La fecha y sentido de la resolución dictada; y
-
-d) La fecha de extinción de la acción penal, seguida de la leyenda "Extinción de la acción";
-
-XIV. Terminación anticipada o terminación de la investigación: se asentarán, por cada imputado, en su caso:
-
-a) Terminación de la investigación:
-
-1. La fecha en que el Ministerio Público notifique la determinación;
-
-2. La forma de terminación; y
-
-b) Procedimiento abreviado:
-
-1. La fecha de presentación de la solicitud, seguida de la leyenda "Solicitud";
-
-2. La fecha de la audiencia en la que se resolvió la solicitud, seguida de la leyenda "Audiencia";
-
-3. El sentido de la resolución dictada; y
-
-4. En su caso, la fecha de extinción de la acción penal, seguida de la leyenda "Extinción de la acción";
-
-XV. Cierre de investigación: se anotarán, por cada imputado, en su caso:
-
-a) La fecha señalada para el cierre de la investigación complementaria
-
-b) En caso de solicitud de prórroga del plazo, la parte que la solicitó.
-
-c) La fecha en que se declara el cierre de la investigación; y
-
-d) El sentido de las conclusiones formuladas por el Ministerio Público;
-
-e) En caso de que se ordene reapertura de la investigación, la fecha de ésta, y la fecha en que se cierre.
-
-XVI. Audiencia intermedia: se registrarán, por cada imputado, en su caso:
-
-a) La fecha y hora de celebración de la audiencia;
-
-b) Dictado del auto de apertura de juicio;
-
-c) El tribunal señalado para celebrar la audiencia de juicio; y
-
-d) La fecha y hora fijadas para la audiencia de juicio;
-
-XVII. Sobreseimiento: se asentará por cada imputado, la fecha de éste;
-
-XVIII. Ejecución: se anotará la fecha de remisión de la sentencia firme al Juez de ejecución;
-
-XIX. Nulidad de actos procedimentales: se registrarán, por cada solicitud:
-
-a) El carácter del solicitante;
-
-b) La fecha de recepción de la solicitud;
-
-c) Tipo de solicitud (nulidad, saneamiento, convalidación);
-
-d) Acto procedimental sobre el que versa la solicitud;
-
-e) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-f) El sentido de la resolución;
-
-XX. Revocación: se registrarán, por cada recurso interpuesto contra resoluciones de mero trámite que se resuelvan sin sustanciación:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) Acto impugnado;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XXI. Queja: se registrarán, por cada recurso interpuesto en contra del juzgador de primera instancia por no realizar un acto procesal dentro del plazo señalado:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) Acto impugnado;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XXII. Apelación: se registrarán, por cada recurso interpuesto contra la resolución definitiva derivada de una solución alterna o procedimiento abreviado:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) La fecha de remisión del asunto, seguida de la leyenda “Remisión”;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XXIII. Archivo: se asentarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XXIV. Observaciones: deberán anotarse los datos relativos a los siguientes supuestos:
-
-a) En caso de que el Juez se declare legalmente incompetente o impedido, se deberá indicar el tipo, ya sea declinatoria o inhibitoria para el primero, o bien, excusa o recusación, en el segundo;
-
-b) Si se tramita acumulación de procesos;
-
-c) Si se tramita separación de procesos; y
-
-d) Cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número uno del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 14.
 
-El libro de actos de investigación con control judicial constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrará el número asignado a la solicitud, en atención rigurosa a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud de autorización previa del Juez de Control;
-
-III. Recepción: se anotarán:
-
-a) La fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-b) La forma de presentación, asentando las expresiones “En audiencia”, “Por escrito”, “Medio electrónico”;
-
-IV. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la solicitud;
-
-V. Solicitante: se asentará la denominación de la autoridad que formula la solicitud de autorización del acto de investigación;
-
-VI. Delito: se anotarán cada uno de los delitos por los cuales se realizó la solicitud;
-
-VII. Acto de investigación: se registrará el tipo de acto de investigación solicitado;
-
-VIII. Audiencia: se asentará la fecha de la audiencia en la que se resolvió la solicitud;
-
-IX. Resolución: se anotarán:
-
-a) La fecha y sentido de la resolución; y
-
-b) La fecha de notificación al Ministerio Público de la Federación;
-
-X. Prórroga: en caso de que se haya solicitado la prórroga del acto de investigación, se registrará el plazo por el que se prorroga;
-
-XI. Apelación: se asentarán:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XII. Amparo: se anotarán:
-
-a) El tipo de amparo promovido;
-
-b) El promovente;
-
-c) La fecha de presentación del amparo;
-
-d) La fecha de resolución; y
-
-e) El sentido de la ejecutoria del juicio de amparo;
-
-XIII. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XIV. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número dos del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 15.
 
-El libro de providencias precautorias constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrarán el número asignado a la providencia precautoria en atención rigurosa a la fecha y hora de su ingreso; y, en su caso, el número de causa penal relacionada con la solicitud. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud de la providencia precautoria;
-
-III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la solicitud;
-
-V. Solicitante: se registrará la denominación de la autoridad que formula la solicitud, o bien, el nombre de la víctima u ofendido en caso de ser el solicitante, seguido de la leyenda “Ministerio Público” o “Víctima u ofendido”, según sea el caso;
-
-VI. Imputado: se anotarán, por cada solicitud:
-
-a) El nombre completo de la persona contra la que se ejerce la providencia. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
-
-b) En su caso, el alias o apodo correspondiente;
-
-VII. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VIII. Delito: se anotarán cada uno de los delitos por los cuales se realizó la solicitud;
-
-IX. Providencia Precautoria: se registrará el tipo de providencia precautoria solicitada;
-
-X. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la solicitud;
-
-XI. Resolución: se anotarán:
-
-a) La fecha y sentido de la resolución; y
-
-b) La fecha de notificación al Ministerio Público de la Federación, al imputado, y, en su caso, a la víctima u ofendido;
-
-XII. Prórroga: en caso de que se haya solicitado la prórroga de la providencia precautoria, se registrará el plazo por el que se prorroga;
-
-XIII. Revisión: en caso de que se haya solicitado revisión, se anotará la fecha y sentido de la resolución de la revisión;
-
-XIV. Apelación: se asentarán:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XV. Amparo: se anotarán:
-
-a) El tipo de amparo promovido;
-
-b) El promovente;
-
-c) La fecha de presentación del amparo;
-
-d) La fecha de resolución; y
-
-e) El sentido de la ejecutoria del juicio de amparo;
-
-XVI. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XVII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número tres del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 16.
 
-El libro de comunicaciones de ingreso a lugar sin autorización judicial con consentimiento de quien se encuentre facultado constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrará el número asignado a la solicitud, en atención rigurosa a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud de la ratificación;
-
-III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la solicitud;
-
-V. Autoridad: se registrará la denominación de la autoridad que practicó el ingreso a lugar cerrado sin orden judicial;
-
-VI. Facultado: se asentará el nombre de la persona que otorgó su consentimiento para el ingreso;
-
-VII. Delito: se anotarán cada uno de los delitos por los cuales se realizó el ingreso;
-
-VIII. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la solicitud de ratificación;
-
-IX. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-X. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número cuatro del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 17.
 
-El libro de medidas cautelares constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrarán el número asignado a la medida cautelar en atención rigurosa a la fecha y hora de su ingreso; y, en su caso, el número de causa penal relacionada con la solicitud. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud de la medida cautelar;
-
-III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la solicitud;
-
-V. Solicitante: se registrará la denominación de la autoridad que formula la solicitud, o bien, el nombre de la víctima u ofendido en caso de ser el solicitante, seguido de la leyenda “Ministerio Público” o “Víctima u ofendido”, según sea el caso;
-
-VI. Imputado: se anotarán, por cada medida:
-
-a) El nombre completo de la persona contra la que se ejerce la medida. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
-
-b) En su caso, el alias o apodo correspondiente;
-
-VII. Delito: se anotarán cada uno de los delitos por los cuales se realizó la solicitud;
-
-VIII. Medida Cautelar: se registrará el tipo de medida cautelar solicitada, o bien, de la medida de protección impuesta por el Ministerio Público sujeta a revisión, según sea el caso;
-
-IX. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la solicitud;
-
-X. Resolución: se anotarán:
-
-a) Sentido de la resolución respecto a la medida cautelar solicitada; y
-
-b) En su caso, tipo de medida cautelar otorgada;
-
-c) Autoridad a quien corresponde vigilar la medida cautelar;
-
-d) Duración;
-
-XI. Revisión: en caso de que se haya solicitado revisión, se anotará la fecha y sentido de la resolución de la revisión;
-
-XII. Apelación: se asentarán:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XIII. Amparo: se anotarán:
-
-a) El tipo de amparo promovido;
-
-b) El promovente;
-
-c) La fecha de presentación del amparo;
-
-d) La fecha de resolución; y
-
-e) El sentido de la ejecutoria del juicio de amparo;
-
-XIV. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XV. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número cinco del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 18.
 
-El libro de declaratorias de abandono de bienes constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrarán el número asignado a la declaratoria de abandono en atención rigurosa a la fecha y hora de su ingreso; y, en su caso, el número de causa penal relacionada con la solicitud. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud de la declaratoria de abandono de bienes;
-
-III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Solicitante: se registrará la denominación de la autoridad que formula la solicitud;
-
-V. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la solicitud;
-
-VI. Interesado: se asentará el nombre de la persona relacionada con el bien materia de la declaratoria de abandono de bienes. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado, en caso de que se desconozca su identidad, se deberá registrar la leyenda "Se desconoce";
-
-VII. Descripción: se anotarán los datos relativos al tipo y descripción de los bienes asegurados durante la investigación;
-
-VIII. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la declaratoria de abandono de bienes;
-
-IX. Resolución: se anotarán:
-
-a) El sentido de la resolución sobre la declaratoria de abandono de bienes; y
-
-b) La fecha de notificación a la autoridad que tiene los bienes bajo administración;
-
-X. Amparo: se anotarán:
-
-a) El tipo de amparo promovido;
-
-b) El promovente;
-
-c) La fecha de presentación del amparo;
-
-d) La fecha de resolución; y
-
-e) El sentido de la ejecutoria del juicio de amparo;
-
-XI. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número seis del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 19.
 
-El libro de impugnaciones contra determinaciones del Ministerio Público constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrará el número asignado a la solicitud, en atención rigurosa a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la impugnación;
-
-III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la impugnación;
-
-V. Solicitante: se registrará el nombre de la persona que impugna la determinación del Ministerio Público. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VI. Imputado: se anotarán:
-
-a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
-
-b) En su caso, el alias o apodo correspondiente;
-
-VII. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VIII. Delito: se anotarán cada uno de los delitos materia de la impugnación;
-
-IX. Determinación Impugnada: se anotará el tipo de determinación en contra de la cual se interpuso la impugnación;
-
-X. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la impugnación;
-
-XI. Resolución: se anotarán la fecha y sentido de la resolución;
-
-XII. Amparo: se utilizará únicamente cuando se promueva juicio de amparo en contra del fallo pronunciado por el juez de control, y en el que se anotarán:
-
-a) El tipo de amparo promovido;
-
-b) El promovente;
-
-c) La fecha de presentación del amparo;
-
-d) La fecha de resolución; y
-
-e) El sentido de la ejecutoria del juicio de amparo;
-
-XIII. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XIV. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número siete del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 20.
 
-El libro de acuerdos reparatorios en etapa de investigación complementaria constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrará el número de causa penal relacionada con la solicitud;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud;
-
-III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la solicitud;
-
-V. Solicitante: se registrará el nombre de la persona que solicite el acuerdo reparatorio. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VI. Imputado: se anotarán:
-
-a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
-
-b) En su caso, el alias o apodo correspondiente;
-
-VII. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VIII. Delito: se anotarán cada uno de los delitos materia del acuerdo reparatorio;
-
-IX. Audiencia: se asentarán:
-
-a) La fecha y hora de la audiencia en la que se resolvió la solicitud; y
-
-b) Sentido de la resolución;
-
-X. Conclusión: se registrará la fecha en que se decreta la extinción de la acción penal;
-
-XI. Medio de Impugnación: se asentarán, en su caso:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XII. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número ocho del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 21.
 
-El libro de pruebas anticipadas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrarán el número asignado a la prueba anticipada en atención rigurosa a la fecha y hora de su ingreso; y, en su caso, el número de causa penal relacionada con la solicitud. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud;
-
-III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la solicitud;
-
-V. Solicitante: se registrará el nombre de la persona que solicite el desahogo de la prueba anticipada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VI. Imputado: se anotarán:
-
-a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
-
-b) En su caso, el alias o apodo correspondiente;
-
-VII. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VIII. Delito: se anotarán cada uno de los delitos materia de la prueba;
-
-IX. Prueba Anticipada: se anotará el medio de prueba a desahogar anticipadamente;
-
-X. Audiencia: se asentarán:
-
-a) La fecha y hora de la audiencia en la que se resolvió la solicitud; y
-
-b) Sentido de la resolución;
-
-XI. Medio de Impugnación: se asentarán, en su caso:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XII. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número nueve del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 22.
 
-El libro de solicitudes de reserva de información constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrará el número de causa penal relacionada con la solicitud;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud;
-
-III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la solicitud;
-
-V. Solicitante: se asentará la denominación de la autoridad que formula la solicitud de reserva de información;
-
-VI. Imputado: se anotarán:
-
-a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
-
-b) En su caso, el alias o apodo correspondiente;
-
-VII. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VIII. Delito: se anotarán cada uno de los delitos materia de la solicitud;
-
-IX. Audiencia: se asentarán:
-
-a) La fecha y hora de la audiencia en la que se resolvió la solicitud; y
-
-b) Sentido de la resolución;
-
-X. Prórroga: en caso de que se haya solicitado la prórroga de la reserva, se registrará la fecha en la que vence;
-
-XI. Medio de Impugnación: se asentarán, en su caso:
-
-a) El tipo de impugnación;
-
-b) El carácter del recurrente;
-
-c) La fecha de recepción del recurso;
-
-d) La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
-
-e) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-f) El sentido de la resolución;
-
-XII. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número diez del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 23.
 
-El libro de solicitudes de restablecimiento de cosas al estado previo constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrará el número de causa penal relacionada con la solicitud;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud;
-
-III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la solicitud;
-
-V. Solicitante: se registrará el nombre de la persona que solicite el restablecimiento. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VI. Imputado: se anotarán:
-
-a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
-
-b) En su caso, el alias o apodo correspondiente;
-
-VII. Delito: se anotarán cada uno de los delitos materia del restablecimiento;
-
-VIII. Audiencia: se asentarán:
-
-a) La fecha y hora de la audiencia en la que se resolvió la solicitud; y
-
-b) Sentido de la resolución;
-
-IX. Medio de Impugnación: se asentarán:
-
-a) El tipo de amparo promovido;
-
-b) El promovente;
-
-c) La fecha de presentación del amparo;
-
-d) La fecha de resolución; y
-
-e) El sentido de la ejecutoria del juicio de amparo;
-
-X. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número once del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 24.
 
-El libro de procedimientos de extradición constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrará el número asignado a la solicitud, en atención rigurosa a la fecha y hora de su ingreso al Centro de Justicia Penal Federal. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud;
-
-III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Persona requerida: se anotará el nombre de la persona respecto de la cual se solicite la extradición;
-
-V. Juez de Control: se registrará el nombre del Juez de Control a quien correspondió conocer de la solicitud;
-
-VI. Resolución Inicial: se anotarán:
-
-a) Fecha y sentido del acuerdo inicial; y
-
-b) En su caso, fecha y sentido de la determinación que puso fin al procedimiento distinta a la opinión jurídica del juez;
-
-VII. Detención Provisional: se anotará la fecha del auto que ordena la detención provisional con fines de extradición;
-
-VIII. Cumplimiento de Detención Provisional: se asentará la fecha en que se dé cumplimiento a la orden de detención provisional;
-
-IX. Petición Formal de Extradición: se anotará la fecha en que se reciba la promoción del Procurador General de la República en la que solicite al Juez de Control, auto mandando cumplir la requisitoria de la Secretaría de Relaciones Exteriores y se ordene la detención de la persona requerida y, en su caso, el secuestro de papeles, dinero u otros objetos que se hallen en su poder, relacionados con el delito imputado o que puedan ser elementos de prueba, cuando así lo hubiere pedido el Estado solicitante;
-
-X. Opinión jurídica: se anotará el sentido de la opinión jurídica que emita el Juez, utilizando la palabra “Procedente”, en el supuesto en que se considere de esta manera la petición formal de extradición, e “Improcedente”, en caso contrario, seguida de la fecha en que se pronuncie la resolución respectiva;
-
-XI. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número doce del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 25.
 
-El libro de control obligatorio para el registro de las actuaciones del tribunal de enjuiciamiento, es el libro uno de causas penales en tribunal de enjuiciamiento.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 26.
 
-El libro de causas penales en tribunal de enjuiciamiento constará de las siguientes columnas, en las que deberán registrarse los datos que se indican, por imputado, independientemente de que corresponda o no a una misma causa penal:
-
-I. Causa Penal: se registrará el número de la causa penal correspondiente;
-
-II. Tribunal de Enjuiciamiento: se asentará el nombre del Juez a quien correspondió conocer de la causa en esa etapa;
-
-III. Imputado: se anotarán, por cada imputado:
-
-a) El nombre completo de la persona contra la que se ejerce la acción penal. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
-
-b) En su caso, el alias o apodo correspondiente;
-
-IV. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-V. Delito: se registrarán, por imputado y en forma separada, cada uno de los delitos por los cuales se formalizó acusación;
-
-VI. Suspensión del procedimiento: se registrarán, por cada imputado:
-
-a) La fecha en que se ordene suspender la audiencia de juicio;
-
-b) El fundamento de la suspensión; y
-
-c) La fecha en que se reanuda la audiencia, seguida de la leyenda "Fecha del levantamiento de la suspensión";
-
-VII. Sobreseimiento: se asentará por cada imputado, la fecha de éste;
-
-VIII. Audiencia de juicio: se registrarán, por cada imputado, la fecha y hora de celebración de la audiencia;
-
-IX. Fallo: se anotarán, por cada imputado, el sentido de la resolución;
-
-X. Audiencia de individualización y reparación del daño: se registrarán, por cada imputado, la fecha y hora de celebración de la audiencia;
-
-XI. Sentencia: se registrarán, por cada imputado, la fecha de la versión escrita de ésta;
-
-XII. Audiencia explicación de sentencia: se registrarán, por cada imputado, la fecha y hora de celebración de la audiencia;
-
-XIII. Ejecución: se anotará la fecha de remisión de la sentencia firme al Juez de Ejecución;
-
-XIV. Nulidad de actos procedimentales: se registrarán, por cada solicitud:
-
-a) El carácter del solicitante;
-
-b) La fecha de recepción de la solicitud;
-
-c) Tipo de solicitud (nulidad, saneamiento, convalidación);
-
-d) Acto procedimental sobre el que versa la solicitud;
-
-e) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-f) El sentido de la resolución;
-
-XV. Revocación: se registrarán, por cada recurso interpuesto contra resoluciones de mero trámite que se resuelvan sin sustanciación:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) Acto impugnado;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XVI. Queja: se registrarán, por cada recurso interpuesto en contra del juzgador de primera instancia por no realizar un acto procesal dentro del plazo señalado:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) Acto impugnado;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XVII. Apelación: se registrarán, por cada recurso interpuesto contra la sentencia:
-
-a) El carácter del recurrente;
-
-b) La fecha de recepción del recurso;
-
-c) La fecha de remisión del asunto, seguida de la leyenda “Remisión”;
-
-d) La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-e) El sentido de la resolución;
-
-XVIII. Amparo: se anotarán:
-
-a) El tipo de amparo promovido;
-
-b) El promovente;
-
-c) La fecha de presentación del amparo;
-
-d) La fecha de resolución; y
-
-e) El sentido de la ejecutoria del juicio de amparo;
-
-XIX. Archivo: se asentarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XX. Observaciones: deberán anotarse los datos relativos a los siguientes supuestos:
-
-a) En caso de que el Juez se declare legalmente incompetente o impedido, se deberá indicar el tipo, ya sea declinatoria o inhibitoria para el primero, o bien, excusa o recusación, en el segundo;
-
-b) Cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número trece del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 27.
 
-El libro de solicitudes relacionadas con la Ejecución de Penas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican, por procesado o sentenciado, independientemente de que corresponda o no a una misma causa penal:
-
-I. Expediente: se registrará el número asignado a la solicitud, en atención rigurosa a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Tipo de Solicitud: deberá anotarse el tipo de solicitud de que se trate: SIPE, SM, SD, SE, SEMC, ST y C, que corresponden, en su orden, a solicitudes de inicio de procedimiento de ejecución, modificación, duración y extinción de las penas, ejecución de medida cautelar, solicitudes de traslado y controversias.
-
-Las solicitudes de inicio del procedimiento de ejecución serán todas aquellas que se aperturen con motivo de la recepción de la sentencia y el auto que la declare ejecutoriada.
-
-Las solicitudes de modificación de las penas serán aquellas referentes al conocimiento y resolución, en su caso, de beneficios que deriven de la modificación a la ley, como la aplicación retroactiva de la ley en beneficio, la traslación del tipo penal u otros análogos.
-
-Las solicitudes relativas a la duración de las penas incluirán lo relativo a la aplicación del indulto, la amnistía, la compurga simultánea de penas, la libertad anticipada, la remisión parcial de la pena, el tratamiento preliberacional, la aplicación de la ley más favorable, la determinación de inimputabilidad, y otras semejantes que se vinculen con la medición del tiempo que deba transcurrir para tener por cumplida la pena.
-
-Las solicitudes referentes a la extinción de las penas comprenderán lo relativo a la declaratoria formal de extinción de la pena privativa de libertad, la condena condicional y la substitución de las penas.
-
-Las solicitudes de ejecución de medida cautelar serán todas aquellas que se aperturen con motivo de la recepción del auto por el que se impone la medida cautelar.
-
-Las solicitudes referentes a los traslados incluirán lo relativo a los traslados voluntarios e involuntarios.
-
-Finalmente, las controversias serán todas aquellas que versen sobre las condiciones de internamiento y cuestiones relacionadas con las mismas; el plan de actividades de la persona privada de la libertad y cuestiones relacionadas con el mismo, que impliquen violación de derechos fundamentales; los derechos propios de quienes soliciten ingresar o hayan ingresado al Centro como visitantes, defensores públicos y privados, defensores en los tribunales de amparo, y observadores por parte de organizaciones de la sociedad civil; y, de la duración, modificación y extinción de las medidas de seguridad;
-
-III. Recepción: se anotarán la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Juez de Ejecución: se registrará el nombre del Juez de Ejecución a quien correspondió conocer de la solicitud;
-
-V. Solicitante: se asentará la denominación de la autoridad, o bien, el nombre del procesado o sentenciado que formula la solicitud;
-
-VI. Datos de Origen: se asentarán:
-
-a) Órgano jurisdiccional de origen;
-
-b) Número de causa penal de la que deriva la solicitud;
-
-c) La fecha en que se dictó la sentencia, o en su caso, la fecha del auto de imposición de la medida cautelar; y
-
-d) En su caso, la fecha en que causó ejecutoria la sentencia;
-
-VII. Resolución Inicial: se registrarán la fecha y sentido del acuerdo de inicio;
-
-VIII. Audiencia: se asentará la fecha de la audiencia en la que se resolvió la solicitud;
-
-IX. Resolución: se anotarán, según sea el caso:
-
-a) La fecha y motivo de la extinción de la pena; y
-
-b) La fecha y sentido de resolución;
-
-X. Impugnación: se asentarán, en su caso:
-
-a) Apelación:
-
-1. El carácter del recurrente;
-
-2. La fecha de recepción del recurso;
-
-3. La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
-
-4. La fecha de resolución, seguida de la leyenda "Resolución"; y
-
-5. El sentido de la resolución;
-
-b) Amparo:
-
-1. El tipo de amparo promovido;
-
-2. El promovente;
-
-3. La fecha de presentación del amparo;
-
-4. La fecha de resolución; y
-
-5. El sentido de la ejecutoria del juicio de amparo;
-
-XI. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número catorce del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 28.
 
-Son libros de control obligatorios para el registro de las actuaciones del tribunal de alzada, los siguientes:
-
-I. Libro uno: Registro de apelaciones;
-
-II. Libro dos: Registro de quejas;
-
-III. Libro tres: Registro de conflictos competenciales y excepciones de incompetencia;
-
-IV. Libro cuatro: Registro de excusas y recusaciones; y
-
-V. Libro cinco: Registro de reconocimiento de inocencia y anulación de sentencia;
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 29.
 
-El libro de registro de apelaciones constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Toca: se registrará el número asignado a la apelación, en atención a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Recepción: se anotarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
-
-III. Tribunal de Alzada: se asentará la denominación del tribunal de alzada al que se asignó el toca;
-
-IV. Apelante: se registrarán:
-
-a) El carácter del apelante en el expediente de origen, en su caso, del adherente; y
-
-b) El nombre o nombres de los apelantes, en su caso, del adherente;
-
-V. Datos de origen: se anotarán:
-
-a) El número de expediente que corresponda al proceso de primera instancia dentro del cual se haya interpuesto el recurso;
-
-b) El tipo de asunto; y
-
-c) El órgano jurisdiccional de origen;
-
-VI. Resolución apelada: se asentarán:
-
-a) La fecha de la resolución apelada; y
-
-b) El tipo de resolución que se haya impugnado a través del recurso;
-
-VII. Resolución inicial: se registrarán:
-
-a) La fecha del primer acuerdo; y
-
-b) El sentido del primer acuerdo;
-
-VIII. Suspensión del procedimiento: se anotarán:
-
-a) La fecha del auto que ordene la suspensión del procedimiento; y
-
-b) La fecha en que se reanuda el proceso, seguida de la leyenda "Fecha del levantamiento de la suspensión";
-
-IX. Audiencia de alegatos aclaratorios: se asentarán la fecha y hora de celebración de la audiencia;
-
-X. Resolución definitiva: se registrarán:
-
-a) La fecha de resolución; y
-
-b) El sentido de la resolución, utilizando a manera de ejemplo las expresiones "Confirma", "Modifica", "Revoca", "Desierto", “Repone procedimiento”, “Sobreseimiento”, “Sin materia”, “Mal admitido”, “Impedimento”, según sea el caso, etcétera;
-
-XI. Amparo: se anotarán:
-
-a) El tipo de amparo promovido;
-
-b) El promovente;
-
-c) La fecha de presentación del amparo;
-
-d) La fecha de resolución; y
-
-e) El sentido de la ejecutoria del juicio de amparo;
-
-XII. Archivo: se asentarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número quince del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 30.
 
-El libro de registro de quejas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Toca: se registrará el número asignado a la queja, en atención a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Recepción: se anotarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
-
-III. Tribunal de Alzada: se asentará la denominación del tribunal de alzada al que se asignó el toca;
-
-IV. Quejoso: se registrarán:
-
-a) El carácter del quejoso en el expediente de origen; y
-
-b) El nombre del quejoso;
-
-V. Datos de origen: se anotarán:
-
-a) El número de expediente que corresponda al proceso de primera instancia dentro del cual se haya interpuesto el recurso;
-
-b) El tipo de asunto; y
-
-c) El nombre del Juez de Control contra quien se promovió la queja;
-
-VI. Acto procesal impugnado: se asentará el tipo de resolución que se haya impugnado a través del recurso;
-
-VII. Resolución inicial: se registrarán:
-
-a) La fecha del primer acuerdo; y
-
-b) El sentido del primer acuerdo;
-
-VIII. Resolución definitiva: se registrarán:
-
-a) La fecha de resolución; y
-
-b) El sentido de la resolución, utilizando a manera de ejemplo las expresiones "Procedente", "Improcedente", “Sin materia”, según sea el caso, etcétera;
-
-IX. Archivo: se asentarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-X. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número dieciséis del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 31.
 
-El libro de registro conflictos competenciales constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrará el número asignado al asunto, en atención rigurosa a la fecha de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Recepción: se anotarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
-
-III. Tribunal de Alzada: se asentará la denominación del tribunal de alzada al que se asignó el asunto;
-
-IV. Tipo: se registrará el tipo de incompetencia;
-
-V. Promovente: se anotará:
-
-a) En el caso de los conflictos competenciales, la denominación del juez que remitió las actuaciones; y
-
-b) En caso de excepciones de incompetencia, el nombre del promovente;
-
-VI. Órganos jurisdiccionales contendientes: se asentará con claridad la denominación de los centros que intervengan en el conflicto competencial, o bien, el nombre de los jueces contendientes;
-
-VII. Datos de origen: se registrará el número del expediente que corresponda a aquél en el cual se hubiese planteado el conflicto competencial o en el que se hizo valer la excepción de incompetencia;
-
-VIII. Resolución inicial: se anotarán:
-
-a) La fecha del primer acuerdo; y
-
-b) El sentido del primer acuerdo;
-
-IX. Resolución definitiva: se asentarán:
-
-a) La fecha de resolución; y
-
-b) El sentido de la resolución, utilizando a manera de ejemplo las expresiones “Competente el requerido”, “Competente el requirente”, “Competente otro órgano diferente”, “No existe conflicto”, etcétera, según sea el caso;
-
-X. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número diecisiete del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 32.
 
-El libro de registro excusas y recusaciones constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrará el número asignado al asunto, en atención rigurosa a la fecha de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Recepción: se anotarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
-
-III. Tribunal de Alzada: se asentará la denominación del tribunal de alzada al que se asignó el asunto;
-
-IV. Tipo: se registrará el tipo de procedimiento;
-
-V. Promovente: se anotará:
-
-a) En el caso de excusa, la denominación del juez que remitió las actuaciones; y
-
-b) En caso de recusación, el nombre del promovente;
-
-VI. Datos de origen: se asentarán:
-
-a) La denominación del Juez de donde provenga la excusa o recusación;
-
-b) Número de expediente dentro del cual se haya presentado la excusa o promovido la recusación; y
-
-c) El tipo de asunto dentro del cual se haya presentado la excusa o promovido la recusación;
-
-VII. Causa: se registrará el motivo de la excusa o recusación;
-
-VIII. Resolución inicial: se anotarán:
-
-a) La fecha del primer acuerdo; y
-
-b) El sentido del primer acuerdo;
-
-IX. Resolución definitiva: se asentarán:
-
-a) La fecha de resolución; y
-
-b) El sentido de la resolución, utilizando, entre otras, las expresiones: "Procedente", "Improcedente", “Se califica de legal”, “No se califica de legal”, etcétera, según sea el caso;
-
-X. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número dieciocho del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 33.
 
-El libro de registro de reconocimiento de inocencia y anulación de sentencia constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Expediente: se registrará el número asignado al asunto, en atención rigurosa a la fecha de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Recepción: se anotarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
-
-III. Tribunal de Alzada: se asentará la denominación del tribunal de alzada al que se asignó el asunto;
-
-IV. Solicitante: se registrará el nombre de la persona que formula la solicitud. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-V. Datos de Origen: se asentarán:
-
-a) Órgano jurisdiccional de origen;
-
-b) Número de causa penal de la que deriva la solicitud;
-
-c) La fecha en que se dictó la sentencia; y
-
-d) La fecha en que causó ejecutoria la sentencia;
-
-VI. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-VII. Delito: se anotarán cada uno de los delitos por los cuales se realizó la solicitud;
-
-VIII. Tipo: se registrará el tipo de procedimiento;
-
-IX. Causa: se registrará el motivo por el que se promueve el procedimiento;
-
-X. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la solicitud;
-
-XI. Resolución definitiva: se registrarán:
-
-a) La fecha de resolución; y
-
-b) El sentido de la resolución;
-
-XII. Archivo: se registrarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente; y
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
-
-XIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número diecinueve del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 34.
 
-Son libros de control obligatorios para el registro de las actuaciones comunes del Centro de Justicia Penal Federal, los siguientes:
-
-I. Libro de comunicaciones oficiales enviadas;
-
-II. Libro de comunicaciones oficiales recibidas;
-
-III. Libro de certificados de depósito;
-
-IV. Libro de pólizas de fianza y otras garantías;
-
-V. Libro de documentos importantes;
-
-VI. Libro de armas de fuego;
-
-VII. Libro de vehículos;
-
-VIII. Libro de objetos que pueden ser producto, instrumento u objeto de delitos;
-
-IX. Libro de drogas;
-
-X. Libro de presentaciones;
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 35.
 
-El libro de registro de comunicaciones oficiales enviadas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Número de orden: se registrará el número asignado a la comunicación oficial enviada, en atención rigurosa a la fecha en que se ordena. El número será progresivo. La numeración de las comunicaciones iniciará cada año;
-
-II. Tipo de comunicación: se anotará el tipo de comunicación oficial enviada asentando las expresiones “Exhorto”, “Carta rogatoria”, “Despacho” o “Requisitoria”;
-
-III. Envío: se asentará la fecha en que se envía la comunicación oficial;
-
-IV. Expediente: se registrarán:
-
-a) El número del expediente del que deriva la comunicación enviada;
-
-b) El tipo del asunto del que deriva la comunicación;
-
-V. Órgano jurisdiccional: se anotará el nombre del Juez o Magistrado que envía la comunicación oficial;
-
-VI. Objetivo: se señalará de manera breve, el objetivo de la diligencia encomendada en la comunicación de que se trate, utilizando enunciativamente las palabras “Emplazamiento”, si éste fue el fin para el que se libró; “Citación”, si fuere el caso o “Desahogo de prueba”, en este último supuesto, etcétera;
-
-VII. Autoridad requerida: se registrarán:
-
-a) La denominación oficial del órgano jurisdiccional que hubiese recibido la comunicación para su diligenciación;
-
-b) El número de comunicación asignado por el órgano que hubiese recibido la comunicación;
-
-VIII. Diligenciación: se anotará:
-
-a) En caso de haberse diligenciado la fecha de la diligencia;
-
-b) En caso de haberse diligenciado parcialmente, la fecha de la diligencia, seguida de la leyenda “Parcialmente”;
-
-c) En caso de que no se haya diligenciado, la fecha del acuerdo en que se ordena la devolución, seguido de la leyenda “Sin diligenciar”;
-
-IX. Devolución: se asentará la fecha en que se recibió por devolución la comunicación en la oficialía de partes del órgano requirente;
-
-X. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número veinte del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 36.
 
-El libro de registro de comunicaciones oficiales recibidas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Número de orden: se registrará el número asignado al asunto, en atención rigurosa a la fecha y hora de su ingreso al Centro de Justicia Penal Federal. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
-
-II. Tipo de comunicación: se anotará el tipo de comunicación oficial recibida, asentando las expresiones “Exhorto”, “Carta rogatoria”, “Despacho” o “Requisitoria”;
-
-III. Recepción: se asentarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
-
-IV. Datos de origen: se registrarán:
-
-a) El número de comunicación oficial, en su caso;
-
-b) El número de expediente del que deriva la comunicación oficial recibida;
-
-c) La autoridad remitente de la comunicación oficial recibida;
-
-V. Órgano jurisdiccional: se anotará el nombre del Juez o Magistrado al que se asignó el expediente;
-
-VI. Objetivo: se señalará de manera breve, el objetivo de la diligencia encomendada en la comunicación de que se trate, utilizando enunciativamente las palabras “Emplazamiento”, si éste fue el fin para el que se libró; “Citación”, si fuere el caso o “Desahogo de prueba”, en este último supuesto, etcétera;
-
-VII. Resolución inicial: se asentará la fecha en que se ordenó la diligenciación;
-
-VIII. Diligenciación: se registrará:
-
-a) En caso de haberse diligenciado la fecha de la diligencia;
-
-b) En caso de haberse diligenciado parcialmente, la fecha de la diligencia, seguida de la leyenda “Parcialmente”;
-
-c) En caso de que no se haya diligenciado, la fecha del acuerdo en que se ordena la devolución, seguido de la leyenda “Sin diligenciar”;
-
-IX. Devolución: se anotará la fecha en que se devuelve materialmente la comunicación;
-
-X. Archivo: se asentarán:
-
-a) La fecha en que materialmente se remita el expediente al archivo;
-
-b) El resultado de la valoración documental del expediente;
-
-c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”;
-
-XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número veintiuno del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 37.
 
-El libro de registro de certificados de depósito constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Número de orden: se registrarán con numeración progresiva y ascendente, en atención rigurosa a la fecha de su recepción, los certificados de depósito exhibidos como garantía; el año se indicará con cuatro dígitos después de una diagonal y la numeración iniciará cada año
-
-II. Expediente: se anotará el número y tipo de asunto en el que se exhiba;
-
-III. Recepción: se asentará la fecha y hora en que se reciba en la oficialía de partes del Centro de Justicia Penal Federal el certificado de depósito;
-
-IV. Órgano jurisdiccional: se registrará el nombre del Juez o Magistrado al que se le deje a disposición el certificado de depósito;
-
-V. Depositante: se anotará:
-
-a) El nombre de la persona a cuyo favor se otorgó la garantía, seguido de su carácter procesal;
-
-b) En su caso, el nombre del tercero que haya constituido la garantía;
-
-VI. Certificado: se asentarán:
-
-a) La fecha de expedición del certificado de depósito;
-
-b) La serie y número del certificado;
-
-c) La cantidad que ampare el documento;
-
-d) El concepto por el cual se constituye la garantía, conforme al catálogo;
-
-VII. Acuerdo: se registrará:
-
-a) La fecha del acuerdo que recaiga a la presentación de la garantía;
-
-b) El sentido del acuerdo;
-
-VIII. Destino: se asentará:
-
-a) La fecha del acuerdo que determine el destino del certificado, seguida de la leyenda “Acuerdo”;
-
-b) El sentido del acuerdo de destino;
-
-c) En caso de acordarse la devolución o endoso del certificado sin que éste se haya entregado, la fecha del acuerdo que determine la prescripción, seguida de la leyenda “Prescripción”;
-
-d) La fecha de cumplimiento del acuerdo de destino o prescripción, seguida de la leyenda “Cumplimiento”;
-
-IX. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número veintidós del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 38.
 
-El libro de registro de pólizas de fianza y otras garantías constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Número de orden: se registrará el número asignado a la garantía otorgada en forma diversa a los certificados de depósito, incluso el dinero en efectivo que se reciba en cualquier etapa del procedimiento, en atención rigurosa a la fecha de su recepción. El número será progresivo, el año se indicará con cuatro dígitos después de una diagonal y la numeración iniciará cada año;
-
-II. Expediente: se anotará el número y tipo de asunto en el que se exhiba;
-
-III. Recepción: se asentará la fecha y hora en que se reciba en la oficialía de partes del Centro de Justicia Penal Federal la póliza o garantía diversa a los certificados de depósito;
-
-IV. Órgano jurisdiccional: se registrará el nombre del Juez o Magistrado al que se le deje a disposición la póliza o garantía diversa a los certificados de depósito;
-
-V. Parte: se anotará:
-
-a) El nombre de la persona a cuyo favor se otorgó la póliza o garantía diversa, seguido de su carácter procesal;
-
-b) En su caso, el nombre del tercero que haya constituido la garantía
-
-c) En el caso de que la garantía se exhiba en efectivo o en especie, el nombre de la persona que la deposite;
-
-VI. Garantía: se asentará:
-
-a) El tipo de garantía que se exhiba, anotando, enunciativamente las expresiones “Póliza de fianza”, “Prenda”, “Hipoteca”, “Fideicomiso”, etcétera;
-
-b) En su caso, el número de documento que identifique a la garantía;
-
-c) La cantidad que ampare la garantía;
-
-d) El concepto por el cual se constituye la garantía;
-
-VII. Acuerdo: se registrará:
-
-a) La fecha del acuerdo que recaiga a la presentación de la póliza o garantía diversa;
-
-b) El sentido del acuerdo;
-
-VIII. Destino: se anotará:
-
-a) La fecha del acuerdo que determine el destino de la póliza o garantía diversa;
-
-b) El sentido del acuerdo de destino;
-
-c) En caso de acordarse la devolución de la póliza o garantía prendaria sin que se cumpla, la fecha del acuerdo que determine su destino final, seguida de la leyenda “Se hace efectivo el apercibimiento”:
-
-d) La fecha de cumplimiento del acuerdo de destino, seguida de la leyenda “Cumplimiento”;
-
-IX. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número veintitrés del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 39.
 
-El libro de registro de documentos importantes constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Número de orden: se registrará el número asignado al documento exhibido con finalidad diversa a garantía en atención rigurosa a la fecha de su recepción. El número será progresivo, el año se indicará con cuatro dígitos después de una diagonal y la numeración iniciará cada año;
-
-II. Expediente: se anotará el número y tipo de asunto en el que se exhiba;
-
-III. Recepción: se asentará la fecha y hora en que se reciba en la oficialía de partes del Centro de Justicia Penal Federal el documento importante;
-
-IV. Órgano jurisdiccional: se registrará el nombre del Juez o Magistrado al que se le deje a disposición el documento importante;
-
-V. Documento: se asentará:
-
-a) El tipo de documento que se exhiba;
-
-b) En su caso, el número que identifique al documento;
-
-c) En su caso, la cantidad que ampare el documento;
-
-VI. Acuerdo: se registrará:
-
-a) La fecha del acuerdo que recaiga a la presentación del documento;
-
-b) El sentido del acuerdo;
-
-VII. Destino: se anotará:
-
-a) La fecha del acuerdo que determine el destino del documento;
-
-b) El sentido del acuerdo de destino;
-
-c) En caso de acordarse la devolución del documento sin que se cumpla, la fecha del acuerdo que determine su destino final, seguida de la leyenda “Se hace efectivo el apercibimiento”;
-
-d) La fecha de cumplimiento del acuerdo de destino, seguida de la leyenda “Cumplimiento”;
-
-VIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número veinticuatro del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 40.
 
-El libro de registro de armas de fuego constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Número de orden: se registrarán todas las armas de fuego que se pongan a disposición física o virtual del Centro de Justicia Penal Federal con numeración progresiva y ascendente, atendiendo a la fecha de recepción en la oficialía de partes, con independencia del lugar en que dichas armas se encuentren. Si en una sola causa, fueren puestas a disposición varias armas, éstas se anotarán bajo un mismo registro. Si hubiera aseguramientos posteriores, se anotarán en un nuevo registro;
-
-II. Expediente: se señalará el número de la causa penal en la que se deje a disposición del Centro de Justicia Penal Federal el o las armas de fuego de que se trate;
-
-III. Recepción: se anotará la fecha y hora en que se reciba en la oficialía de partes del Centro de Justicia Penal Federal el arma o que se ponga a disposición del Juez o tribunal, ya sea en forma física o virtual;
-
-IV. Órgano jurisdiccional: se registrará el nombre del Juez o Magistrado al que se le deje a disposición el arma;
-
-V. Descripción: se describirá el tipo de arma de fuego de que se trate, asentando características tales como: calibre, número de serie, marca, etcétera;
-
-VI. Acuerdo: se anotará la fecha en que se pronuncie el acuerdo por medio del cual se tenga por puesta a disposición del Centro de Justicia Penal Federal el arma de que se trate;
-
-VII. Depósito: se registrará el lugar y la denominación del depositario. En caso de existir más de un depositario, la denominación de cada uno de ellos. En caso de cambio de depositario, actualizar la denominación;
-
-VIII. Destino: se anotará:
-
-a) La fecha de la resolución que determine el destino;
-
-b) El sentido del acuerdo de destino;
-
-c) La fecha de devolución material o de notificación de la resolución que determine el destino;
-
-d) En caso de abandono:
-
-1) La leyenda "Abandono";
-
-2) La fecha de entrega o notificación a la autoridad correspondiente;
-
-IX. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Se deberá observar, al realizar las anotaciones en este libro, que la expresión "arma" o "armas de fuego", implica el registro de cartuchos, municiones, bayonetas, sables, lanzas y todo objeto que sea necesario para el uso, complemento o percusión de éstas, siempre que se trate de objetos regulados específicamente en la Ley Federal de Armas de Fuego y Explosivos.
-
-Este libro se llevará conforme a la tabla número veinticinco del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 41.
 
-El libro de registro de vehículos constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Número de orden: se registrarán todos los vehículos que se pongan a disposición física o virtual del Centro de Justicia Penal Federal con numeración progresiva y ascendente, atendiendo a la fecha de recepción en la oficialía de partes del centro de justicia, con independencia del lugar en que se encuentren. Si en una sola causa, fueren puestos a disposición varios vehículos, éstos se anotarán bajo un mismo registro. Si hubiera aseguramientos posteriores, se anotarán en un nuevo registro;
-
-II. Expediente: se señalará el número de la causa penal en la que se deje a disposición del Centro de Justicia Penal Federal el o los vehículos de que se trate;
-
-III. Recepción: se registrará la fecha en que se haya decretado el aseguramiento;
-
-IV. Órgano jurisdiccional: se anotará el nombre del Juez o Magistrado al que se le deje a disposición el vehículo;
-
-V. Descripción: se describirá el tipo de vehículo asegurado y las características que permitan su identificación;
-
-VI. Acuerdo: se anotará la fecha en que se pronuncie el acuerdo por medio del cual se tenga por puesta a disposición del Centro de Justicia Penal Federal el vehículo de que se trate;
-
-VII. Depósito: se registrará el lugar y la denominación del depositario. En caso de existir más de un depositario, la denominación de cada uno de ellos. En caso de cambio de depositario, actualizar la denominación;
-
-VIII. Destino: se anotará:
-
-a) La fecha de la resolución que determine el destino;
-
-b) El sentido del acuerdo de destino;
-
-c) La fecha de devolución material o de notificación de la resolución que determine el destino;
-
-d) En caso de abandono:
-
-1) La leyenda "Abandono";
-
-2) La fecha de entrega o notificación a la autoridad correspondiente;
-
-IX. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número veintiséis del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 42.
 
-El libro de registro de objetos que pueden ser producto, instrumento u objeto de delitos constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Número de orden: se registrarán los objetos denominados como bienes en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público que sean puestos a disposición física o virtual del Juez o tribunal, con numeración progresiva y ascendente, atendiendo a la fecha de recepción en la oficialía de partes del Centro de Justicia Penal Federal, con independencia del lugar en que se encuentren. Si en una sola causa fueran puestos a disposición varios objetos, se anotarán bajo un mismo registro. Si hubiera aseguramientos posteriores, se anotarán en un nuevo registro;
-
-II. Expediente: se señalará el número de la causa penal en la que se deje a disposición del Centro de Justicia Penal Federal el o los objetos de que se trate;
-
-III. Recepción: se registrará la fecha en que se haya decretado el aseguramiento;
-
-IV. Órgano jurisdiccional: se anotará el nombre del Juez o Magistrado al que se le deje a disposición el objeto;
-
-V. Descripción: se describirá el tipo de objeto y las características que permitan su identificación;
-
-VI. Acuerdo: se anotará la fecha en que se pronuncie el acuerdo por medio del cual se tenga por puesta a disposición del Centro de Justicia Penal Federal el objeto de que se trate;
-
-VII. Depósito: se registrará el lugar y la denominación del depositario. En caso de existir más de un depositario, la denominación de cada uno de ellos. En caso de cambio de depositario, actualizar la denominación;
-
-VIII. Destino: se anotará:
-
-a) La fecha de la resolución que determine el destino;
-
-b) El sentido del acuerdo de destino;
-
-c) La fecha de devolución material o de notificación de la resolución que determine el destino;
-
-d) En caso de abandono:
-
-1) La leyenda "Abandono";
-
-2) La fecha de entrega o notificación a la autoridad correspondiente;
-
-IX. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número veintisiete del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 43.
 
-El libro de registro de drogas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Número de orden: se registrarán con numeración progresiva y ascendente, todos los narcóticos que se pongan a disposición del Centro de Justicia Penal Federal, con independencia del lugar en que se encuentren, atendiendo a la fecha de recepción en la oficialía de partes. Si en una misma causa se encontraren relacionados varios tipos de narcóticos o se hubiese remitido una muestra y el resto se haya dejado a disposición del centro de justicia en un lugar diverso, a todos deberá asignarse un mismo número de registro;
-
-II. Expediente: se señalará el número de la causa penal en la que se deje a disposición del Centro de Justicia Penal Federal el o los narcóticos de que se trate;
-
-III. Recepción: se registrará la fecha en que se haya decretado el aseguramiento;
-
-IV. Órgano jurisdiccional: se anotará el nombre del Juez o Magistrado al que se le deje a disposición el narcótico;
-
-V. Descripción en el Centro de Justicia Penal Federal: se describirá:
-
-a) El tipo o la clase de narcótico de que se trate, utilizando, a manera de ejemplo las expresiones “Marihuana”, “Cocaína”, “Morfina”, “Pastillas psicotrópicas”, según se trate;
-
-b) La cantidad del narcótico que se haya puesto a disposición física del Centro de Justicia Penal Federal;
-
-VI. Descripción fuera del Centro de Justicia Penal Federal: se anotarán los datos asentados en la fracción V de este artículo, cuando además se hubiese dejado a disposición del Centro de Justicia Penal Federal cierta cantidad de narcótico en un sitio diverso;
-
-VII. Acuerdo: se anotará la fecha en que se pronuncie el acuerdo por medio del cual se tenga por puesta a disposición del Centro de Justicia Penal Federal el narcótico de que se trate;
-
-VIII. Depósito: se utilizará cuando además del recibido físicamente en el Centro de Justicia Penal Federal, se deje a disposición otra cantidad de narcótico en un lugar diverso, se registrará el lugar y la denominación del depositario. En caso de existir más de un depositario, la denominación de cada uno de ellos. En caso de cambio de depositario, actualizar la denominación;
-
-IX. Destino de la droga en el Centro de Justicia Penal Federal: se anotará:
-
-a) El destino final que se haya dado al narcótico que estuvo en forma real en el Centro de Justicia Penal Federal, utilizando las expresiones “Decomiso”, si ésta hubiere sido la determinación tomada o bien, “Remisión”, si se hubiere determinado su envío a la autoridad sanitaria;
-
-b) El número de oficio y la fecha en que la autoridad sanitaria, reciba físicamente el narcótico que se encontraba en el centro de justicia;
-
-X. Destino de la droga fuera del Centro de Justicia Penal Federal: se anotará:
-
-a) Cuando además del narcótico recibido físicamente en el Centro de Justicia Penal Federal, se hubiese dejado a disposición otra cantidad en un lugar diverso, se referirá al destino final de este narcótico, y se asentarán las palabras “Decomiso” o “Remisión”, según se haya determinado;
-
-b) La fecha en que la autoridad que tenga físicamente el narcótico, reciba el oficio que le comunica el decomiso y que queda en libertad de realizar su destrucción o bien, proceder a su aprovechamiento; y
-
-XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número veintiocho del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 44.
 
-El libro de registro de presentaciones constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
-
-I. Número de orden: se registrará el número asignado en atención rigurosa a la fecha de registro. El número será progresivo, el año se indicará con cuatro dígitos después de una diagonal y la numeración iniciará cada año;
-
-II. Expediente: se anotará el número de la causa penal o expediente en que se haya impuesto la medida cautelar;
-
-III. Órgano jurisdiccional: se asentará el nombre del Juez o Magistrado ante el que se deba presentar;
-
-IV. Alta: se registrará la fecha en que deba realizarse la primera presentación;
-
-V. Imputado: se anotarán:
-
-a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
-
-b) En su caso, el alias o apodo correspondiente;
-
-VI. Periodicidad: se asentará la periodicidad con que deba presentarse el imputado ante el juez o tribunal, que podría ser semanal, quincenal, mensual, así como el día de la semana en que deba ocurrir, etcétera;
-
-VII. Fecha: se registrará la fecha cada vez que se presente el imputado ante el juez o tribunal;
-
-VIII. Presentación: se asentará cada toma de asistencia;
-
-IX. Incidencias: se anotarán las incidencias que se presenten en el seguimiento de esta medida cautelar;
-
-X. Baja: se registrará la fecha de la resolución y motivo por el que causa baja el imputado en el seguimiento de esta medida;
-
-XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número veintinueve del anexo de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ANEXO
 
 > <small>[N. DE E. VÉASE TABLAS EN EL D.O.F. DE 3 DE NOVIEMBRE DE 2017, PAGINAS DE LA 83 A LA 87.]</small>
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ANEXO SE DEROGÓ POR EL ARTÍCULO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022) MISMO QUE A LA LETRA ESTABLECE “SÉPTIMO. Se derogan los artículos 11 a 44; y el Anexo del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la asignación de audiencias y asuntos, la rendición de estadística y los libros electrónicos de control en los Centros de Justicia Penal Federal”. VÉASE PAGINAS 269 Y 270 DEL REFERIDO ACUERDO.]</small>
 
 ## TRANSITORIOS
 
@@ -2122,3 +488,57 @@ La Secretaría Ejecutiva de Administración, por conducto de las áreas administ
 DÉCIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del tribunal de apelación o, en su caso, en la oficina de correspondencia común que preste sus servicios o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
 
 DÉCIMO PRIMERO. La Visitaduría Judicial ajustará a los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Tribunales Colegiados de Apelación. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
+
+D.O.F. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 7 de noviembre de 2022.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se reanudan las labores de forma regular en los órganos jurisdiccionales del Consejo de la Judicatura Federal y las áreas administrativas del Consejo de la Judicatura Federal. Por lo tanto, se concluye el esquema establecido en los Acuerdos Generales emitidos con motivo de la contingencia sanitaria ocasionada por el virus COVID-19.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+QUINTO. Las Oficialías de Partes Comunes habilitadas en cada edificio sede de órganos jurisdiccionales para la recepción de promociones presentadas físicamente durante la contingencia sanitaria generada por el virus Covid-19, dejarán de operar a partir de la entrada en vigor del presente Acuerdo.
+
+SEXTO. Los órganos jurisdiccionales deberán garantizar la integridad del expediente electrónico. A partir del 1 de diciembre de 2022, los expedientes físicos deberán contener únicamente aquellos documentos recibidos por esa vía.
+
+SÉPTIMO. Las administraciones de los edificios sede del Poder Judicial de la Federación procurarán instalar espacios con dispositivos electrónicos que permitan la consulta de expedientes y la actuación desde el Portal de Servicios en Línea, en un plazo de cuatro meses, salvo cuando no exista disponibilidad de espacios y equipos.
+
+OCTAVO. Las referencias hechas a los Plenos Regionales y a los Tribunales Colegiados de Apelación se entenderán aplicables a los Plenos de Circuito y Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
+
+NOVENO. Se reanudan las visitas ordinarias de inspección en su modalidad presencial, por lo que éstas se llevarán a cabo físicamente en las instalaciones de los órganos jurisdiccionales, de conformidad con lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, con las excepciones que se precisarán en los transitorios siguientes. Al respecto, se considerarán las bases siguientes:
+
+I. Las visitas ordinarias que a la fecha de entrada en vigor del presente Acuerdo se encuentren pendientes de practicar conforme al calendario de inspecciones 2022, se llevarán a cabo bajo la recalendarización que al respecto realice la Visitaduría. Para llevar a cabo dichas inspecciones, de manera excepcional, se tomará en cuenta el informe especial que fue considerado en el mencionado calendario, el cual se rendirá conforme a lo señalado en el Acuerdo General 22/2020 del Pleno.
+
+II. La Visitaduría Judicial emitirá una circular en la que informará la recalendarización de las visitas que a la entrada en vigor del presente Acuerdo estén pendientes de practicarse, en donde precisará si éstas se llevarán a cabo en su modalidad a distancia o física en el recinto del órgano jurisdiccional. Dicha circular indicará los plazos para la rendición de informes especiales, los formatos autorizados por la Comisión de Vigilancia para tales efectos y la duración de las visitas, en el supuesto de que la inspección sea a distancia, se señalarán las fechas para las videoconferencias respectivas con la visitadora o visitador judicial asignado para ello.
+
+III. La Visitaduría Judicial contará con un plazo de hasta 10 días hábiles contados a partir de la entrada en vigor del presente Acuerdo para emitir y notificar la circular referente a la recalendarización de las visitas contempladas para 2022 que se encuentren pendientes de practicar, la cual se publicará en las páginas de Internet e Intranet del Consejo, y se remitirá a través del Sistema Integral de Seguimiento de Expedientes. En los mismos términos, comunicará lo relativo a la reanudación de la obligación de los órganos para rendir sus informes circunstanciados.
+
+IV. El esquema de visitas físicas se reanudará a partir del 15 de noviembre de 2022.
+
+V. Con el objeto de dar cabal cumplimiento al Calendario Anual de Visitas de este año, se faculta al Visitador General para que, de ser necesario, habilite a las y los Secretarios Técnicos "A" de la Visitaduría que estime necesarios para que funjan como Visitadores Judiciales "B" y auxilien en la práctica de las visitas.
+
+DÉCIMO. A partir de dos mil veintitrés, todas las visitas se realizarán de manera física, aun cuando algunos componentes se lleven a cabo de manera remota, con independencia de que algunas de acuerdo con lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas; por tanto, se reanuda la obligación de los órganos jurisdiccionales de rendir sus informes circunstanciados conforme a la calendarización que realice la Visitaduría.
+
+DÉCIMO PRIMERO. Los reportes e informes generados automáticamente a partir de los sistemas de gestión judicial para las visitas ordinarias, para estadística y para cualquier fin oficial ante el Consejo a que se refiere el último párrafo del artículo 265 de este Acuerdo, entrarán en vigor a partir del 15 de noviembre de 2022 y serán de cumplimiento progresivo conforme al calendario que para tal efecto expida la Visitaduría Judicial.
+
+Previo al 15 de noviembre de 2022, la Visitaduría Judicial deberá someter a consideración de la Comisión de Vigilancia los ajustes a los Listados que deberán prepararse para rendir el informe especial, disponible para los Juzgados de Distrito. Posteriormente, conforme al calendario de cumplimiento progresivo, deberá presentar los ajustes correspondientes para el resto de los órganos jurisdiccionales.
+
+DÉCIMO SEGUNDO. La Secretaría Ejecutiva de Creación de Nuevos Órganos deberá actualizar y armonizar el "Protocolo para el uso de la videoconferencia en los Juzgados de distrito en materia penal y de procesos penales federales" y la documentación relacionada conforme a lo desarrollado en el presente Acuerdo General.
+
+DÉCIMO TERCERO. La Dirección General de Gestión Judicial, en coordinación con las de Tecnologías de la Información y Estrategia y Transformación Digital, deberán, en un plazo de 6 meses, realizar los ajustes correspondientes a los sistemas de gestión judicial para garantizar la implementación del presente Acuerdo.
+
+DÉCIMO CUARTO. Las Secretarías Ejecutivas de Creación de Nuevos Órganos, Vigilancia, Visitaduría Judicial, con apoyo de la Dirección General de Gestión Judicial, deberán realizar un análisis integral de los Libros de Control con el objetivo de determinar la estrategia de transición de los Libros Electrónicos en un plazo de 6 meses.
+
+DÉCIMO QUINTO. Se derogan las disposiciones normativas que sean contrarias al presente Acuerdo y, se abrogan los Acuerdos Generales 21/2020 del Pleno del Consejo de la Judicatura Federal, relativo a la reanudación de plazos y al regreso escalonado en los Órganos Jurisdiccionales ante la contingencia por el virus COVID-19, y 22/2020 del Pleno del Consejo de la Judicatura Federal, relativo a las medidas necesarias para reactivar la totalidad de las actividades del Consejo en el contexto de la contingencia por el virus COVID-19, en relación con el periodo de vigencia.
+
+DÉCIMO SEXTO. Se instruye a la Unidad de Transparencia, en conjunto con las direcciones generales de Gestión Judicial y de Estrategia de Transformación Digital, en el ámbito de sus atribuciones, para generar y presentar a aprobación del Comité de Gobernanza Digital los lineamientos referidos en el artículo 213 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+DÉCIMO SÉPTIMO. Se instruye a la Dirección General de Archivo y Documentación, con apoyo de las direcciones generales de Estrategia y Transformación Digital y de Gestion Judicial, a presentar ante el Comité de Gobernanza Digital y la Comisión de Administración, dentro de los seis meses siguientes a la aprobación de este Acuerdo General, los proyectos o reformas que den cumplimiento a las políticas institucionales de Gobierno de Datos, Gobernanza Digital, Transformación Digital y e-Justicia, para el resguardo y preservación de los documentos o expedientes electrónicos, administrativos y jurisdiccionales, respectivamente.
+
+DÉCIMO OCTAVO. La Comisión Especial se integrará por la o el Presidente del Consejo de la Judicatura Federal y las personas Consejeras que presidan las Comisiones de Administración y de Vigilancia, conforme a lo señalado en el artículo 58 Sexies del presente Acuerdo General, a partir del 16 de enero de 2023.
+
+DÉCIMO NOVENO. La Secretaría Ejecutiva de Carrera Judicial, en coordinación con la Dirección General de Asuntos Jurídicos, deberá presentar a consideración del Pleno del Consejo, con el visto bueno de la Comisión de Carrera Judicial, la propuesta de armonización al Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, publicado en el Diario Oficial de la Federación el 3 de noviembre de 2021.
