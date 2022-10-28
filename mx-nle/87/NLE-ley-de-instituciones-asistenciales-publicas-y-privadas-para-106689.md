@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-instituciones-asistenciales-publicas-y-privadas-para-106
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-20"
-last_updated: "2019-05-10"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de marzo de 2015.
 
@@ -196,6 +196,10 @@ XI. Contar con asesoría profesional en materia psicológica, de sanidad, y de t
 XII. Proporcionar a las Personas Adultas Mayores ingresadas la protección, atención y cuidado que sean necesarios para su bienestar;
 
 XIII. Proporcionar a las Personas Adultas Mayores ingresadas actividades recreativas, culturales y deportivas, así como programas de integración familiar o social;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+XIII Bis. Procurar que se proporcione a las Personas Adultas Mayores ingresadas el acceso y capacitación a las Tecnologías de la Información y Comunicación.
 
 XIV. Proporcionar atención médica inmediata a las Personas Adultas Mayores en cumplimiento a las Normas Oficiales Mexicanas en materia de salud;
 
@@ -514,3 +518,9 @@ P.O. 10 DE MAYO DE 2019.
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los municipios que correspondan para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 253. SE REFORMA EL INCISO H) DE LA FRACCIÓN IV DEL ARTÍCULO 5°; LA FRACCIÓN XVIII, FRACCIÓN XIX DEL ARTÍCULO 24; Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 24, TODAS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE ADICIONA LA FRACCIÓN XIII BIS AL ARTÍCULO 10 DE LA LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
