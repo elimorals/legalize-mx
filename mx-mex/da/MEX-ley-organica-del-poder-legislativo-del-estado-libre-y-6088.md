@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2022-09-30"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -314,6 +314,10 @@ Conforme a lo previsto en la Constitución Política del Estado Libre y Soberano
 Dicho procedimiento se sustanciará bajo los principios de publicidad y transparencia, mediante la expedición de la Convocatoria respectiva misma que contendrá los lineamientos y plazos para tal efecto.
 
 La Convocatoria será aprobada por el Pleno de la Legislatura a propuesta de la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2022)</small>
+
+Asimismo, los titulares de los órganos internos de control designados a que se refiere el primer párrafo del presente artículo, rendirán un informe de actividades ante la Legislatura, que contenga las acciones llevadas a cabo para prevenir, corregir e investigar actos y omisiones que pudieran constituir responsabilidades administrativas, así como los resultados relativos y del ejercicio dado a los recursos asignados del Presupuesto de Egresos del Estado. Dicho informe se rendirá anualmente a más tardar el 31 de diciembre del año que corresponda.
 
 > <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2014)</small>
 
@@ -2548,6 +2552,14 @@ TERCERO.- Notifíquese a la Secretaría de Administración y Finanzas del Poder 
 G.G. 30 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89.- POR EL QUE SE REFORMA LA FRACCIÓN XXXI DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; ASÍ COMO LA FRACCIÓN XXXI DEL ARTÍCULO 13 A, Y EL INCISO B) DE LA MISMA FRACCIÓN XXXI DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 102.- POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 33 TER DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
