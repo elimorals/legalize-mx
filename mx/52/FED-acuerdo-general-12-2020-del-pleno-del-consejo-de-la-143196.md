@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-12-2020-del-pleno-del-consejo-de-la-143196"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-06-12"
-last_updated: "2022-10-26"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143196&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2020-06-08"
 ---
 # ACUERDO GENERAL 12/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LA INTEGRACION Y TRAMITE DE EXPEDIENTE ELECTRONICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ORGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO]
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REGULA LA INTEGRACIÓN Y TRÁMITE DEL EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL ÓRGANO, PUBLICADO EN EL D.O.F. DE 17 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ACUERDO GENERAL 12/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de junio de 2020.
 
@@ -123,7 +123,9 @@ Para los efectos de este Acuerdo General se entenderá por:
 
 I. Anexo Técnico: Anexo Técnico del presente Acuerdo General.
 
-II. Áreas Técnicas: la Dirección General de Gestión Judicial y la Dirección General de Tecnologías de la Información, ambas del Consejo de la Judicatura Federal.
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+II. Áreas Técnicas: la Dirección General de Gestión Judicial, la Dirección General de Tecnologías de la Información, y la Dirección General de Estrategia y Transformación Digital, todas del Consejo de la Judicatura Federal;
 
 III. Asuntos competencia del PJF: todos los que corresponde resolver a los órganos jurisdiccionales a cargo por el Consejo de la Judicatura Federal conforme a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y en las leyes respectivas, en las materias de amparo, penal (sistemas mixto y acusatorio-adversarial), laboral, revisión fiscal, contenciosa-administrativa, mercantil (concursal y en juicios ordinarios y de oralidad), extradición, extinción de dominio, civil y administrativa. Lo anterior incluye todas las solicitudes, medidas, demandas, promociones, incidentes o recursos previstos por las leyes adjetivas aplicables.
 
@@ -132,6 +134,10 @@ IV. Carpeta digital: la integración de las actuaciones del expediente electrón
 V. CNPP: Código Nacional de Procedimientos Penales.
 
 VI. Constancia de notificación: documento generado por el Sistema Electrónico del Poder Judicial de la Federación en el que se hace constar que una parte consultó en el expediente electrónico un proveído, o que transcurrió el plazo respectivo sin que ésta lo hubiese consultado.
+
+> <small>(ADICIONADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+VI. Bis. Comité de Gobernanza Digital: cuerpo multidisciplinario dedicado específicamente a coadyuvar en la formulación, integración, implementación, seguimiento y supervisión de las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia del Consejo; que rigen la priorización de proyectos en materia de tecnologías de la información desde la perspectiva de las estrategias en los rubros antes mencionados, así como de los contenidos de las políticas, lineamientos y disposiciones técnicas correspondientes a estos rubros;
 
 VII. Constitución: Constitución Política de los Estados Unidos Mexicanos.
 
@@ -143,11 +149,21 @@ X. DGGJ: Dirección General de Gestión Judicial.
 
 XI. DGTI: Dirección General de Tecnologías de la Información del Consejo de la Judicatura Federal.
 
-XII. Documento digitalizado: versión electrónica de un documento impreso que se reproduce mediante un procedimiento de escaneo u otro análogo;
+> <small>(ADICIONADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-XIII. Documento electrónico: el generado, consultado, modificado o procesado por Medios Electrónicos.
+XI. Bis. DGETD: Dirección General de Estrategia y Transformación Digital;
 
-XIV. Expediente electrónico: conjunto de Documentos electrónicos que coinciden integralmente con las actuaciones judiciales, promociones y demás constancias que obren en los expedientes correspondientes a los Asuntos competencia del PJF.
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XII. Documento digitalizado: versión electrónica de un documento físico o impreso que se reproduce mediante un procedimiento de escaneo u otro análogo;
+
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XIII. Documento electrónico: el generado, consultado, modificado o procesado por medios tecnológicos o soluciones digitales;
+
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XIV. Expediente electrónico: conjunto de documentos electrónicos y digitalizados que integran el contenido de la totalidad de actuaciones judiciales, entre ellas, promociones, acuerdos, notificaciones, resoluciones o sentencias y los correspondientes registros administrativos;
 
 XV. FIREL: Firma Electrónica Certificada del Poder Judicial de la Federación.
 
@@ -159,7 +175,13 @@ XVIII. Ley de Amparo: la Ley Reglamentaria de los artículos 103 y 107 de la Con
 
 XIX. Ley Orgánica del PJF: Ley Orgánica del Poder Judicial de la Federación.
 
-XX. Medios electrónicos: la herramienta tecnológica relacionada con el procesamiento, impresión, despliegue, traslado, conservación y modificación de información.
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XX. Medio electrónico: mecanismo, sistema, equipo o tecnología que permite el procesamiento, almacenamiento, transmisión, despliegue, traslado, conservación y modificación de información, datos y documentos de manera electrónica;
+
+> <small>(ADICIONADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XX. Bis. Medios de e-Justicia: sistemas, modelos, componentes, herramientas, sitios, servicios, productos y/o aplicaciones de e-Justicia;
 
 XXI. MINTERSCJN: el Módulo de Intercomunicación de la SCJN.
 
@@ -169,7 +191,9 @@ XXIII. PJF: Poder Judicial de la Federación.
 
 XXIV. Personal de apoyo: personal de la DGTI y de la Coordinación de Administración Regional que, según les corresponda y junto con el personal del órgano jurisdiccional, llevará las acciones necesarias para brindar el apoyo técnico que permita el óptimo funcionamiento de la videoconferencia.
 
-XXV. Plataforma tecnológica: la conformada por el hardware, el software y los enlaces de telecomunicaciones desarrollados internamente o adquiridos, que opera y supervisa la DGTI del CJF.
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XXV. Plataforma tecnológica: la conformada por el hardware, el software y los enlaces de telecomunicaciones desarrollados internamente o adquiridos, que opera y supervisa la DGTI, en coordinación con la DGETD conforme a lo definido por el Comité de Gobernanza Digital del CJF;
 
 XXVI. Portal de Servicios en Línea o Portal: Portal de Servicios en Línea del Poder Judicial de la Federación.
 
@@ -185,43 +209,57 @@ XXX. SISE: Sistema Integral de Seguimiento de Expedientes.
 
 XXX. Bis. SIGE: Sistema Integral de Gestión de Expedientes;
 
-XXXI. Sistema Electrónico del PJF: conjunto de sistemas informáticos de gestión, operación, información, interconexión y comunicación que se desarrollen o implementen en el PJF por el CJF, entre los que se identifican, enunciativamente: Portal de Servicios en Línea del Poder Judicial de la Federación; Sistema de recepción, registro, turno y envío de asuntos utilizado por las OCC; Sistemas de gestión, operación e información que acompañen el trámite de los asuntos órganos o unidades administrativas; SISE; Plataforma Electrónica; y Buzón electrónico.
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XXXI. Sistema Electrónico del CJF: conjunto de aplicaciones, tanto de medios tecnológicos de e-Justicia como de soluciones digitales, que se desarrollen o implementen en el Poder Judicial de la Federación por el CJF para realizar sus funciones, entre los que se identifican, enunciativamente: Portal de Servicios en Línea del Poder Judicial de la Federación; Sistema Automatizado de Turno; Sistemas de gestión, operación e información que acompañen el trámite de los asuntos órganos o unidades administrativas; SISE; SIGE, Sistema de Monitoreo de Notificaciones, Plataforma Electrónica; Buscadores de información, Plataforma de Acceso a la Información Institucional, Plataformas o tableros de estadística, Sistema de Gestión Interna y Buzón de Quejas y Denuncias;
+
+> <small>(ADICIONADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XXXI. Bis. Soluciones digitales: sistemas, modelos, componentes, herramientas, sitios, servicios, productos y/o aplicaciones para llevar a cabo los procesos administrativos institucionales en formato digital;
 
 XXXII. Unidad: la Unidad para el Control de Certificación de Firmas del Consejo de la Judicatura Federal.
 
 XXXIII. Videoconferencia: método de comunicación virtual alternativo multidireccional que tiene por objeto reproducir imágenes y audios en tiempo real a través de una infraestructura de telecomunicaciones, utilizando como vía las conexiones entre los diversos dispositivos dedicados a esos fines (códec de videoconferencia, computadoras, tabletas, teléfonos inteligentes, entre otros) que permite a varios usuarios mantener una conversación virtual por medio de la transmisión de video, audio y datos a través de internet.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 3.
 
 La integración y consulta de los expedientes electrónicos regulados en el presente Acuerdo General se regirán por las siguientes bases:
 
-I. Todo documento que ingrese a un expediente electrónico deberá ser firmado con una Firma Electrónica que cuente con los permisos necesarios.
+I. Todo documento electrónico o digitalizado que ingrese a un expediente electrónico deberá ser firmado con una Firma Electrónica que cuente con los permisos necesarios;
 
-II. El expediente electrónico se integrará cronológicamente con las actuaciones judiciales, promociones y demás constancias que obren en el expediente respectivo.
+II. El expediente electrónico se integrará cronológicamente con las actuaciones judiciales, promociones y demás constancias que obren en el expediente respectivo. El expediente electrónico permitirá distinguir las constancias digitalizadas de generadas electrónicamente para efecto de poder comparar las primeras con las integradas físicamente;
 
-III. La servidora o servidor público fedatario responsable de verificar la coincidencia de contenidos del expediente impreso y del electrónico deberá validar que: (i) toda documentación recibida por vía electrónica se imprima y agregue al expediente impreso, en su caso, con la evidencia criptográfica de la firma respectiva y sin necesidad de certificación o actuación judicial; y (ii) la documentación recibida en formato impreso se digitalice e ingrese al expediente electrónico respectivo mediante el uso de la FIREL, ya sea por parte de la OCC, de la Oficialía de Partes o de la servidora o servidor adscrito al órgano jurisdiccional a quien se haya designado para tal efecto.
+III. La documentación recibida por vía electrónica o generada electrónicamente constará únicamente en el expediente electrónico, sin que deba imprimirse ni agregarse al expediente impreso. En caso de que una actuación deba imprimirse para efectos de practicar una notificación, la evidencia criptográfica de la firma respectiva será suficiente, sin necesidad de certificación alguna. La persona servidora pública a quien corresponda iniciar el trámite en el órgano jurisdiccional de un asunto turnado por la OCC, deberá validar que la documentación recibida en formato impreso se haya digitalizado por parte del personal de dicha oficina mediante el uso de la FIREL para integrarla al expediente electrónico respectivo. Tratándose de promociones recibidas por escrito directamente en el órgano jurisdiccional, la digitalización deberá realizarse por parte del personal de la Oficialía de Partes;
 
-IV. En el caso de los medios de control de constitucionalidad promovidos contra lo resuelto en juicios seguidos ante tribunales que no pertenezcan al PJF, se procurará que la digitalización de los expedientes relativos a dichos juicios se realice por las propias autoridades responsables, particularmente mediante la celebración de convenios de interconexión. En caso de que lo anterior no sea posible, dicha digitalización se realizará conforme a las cargas de trabajo lo permitan por el personal de las OCC o por el adscrito a los órganos jurisdiccionales que eventualmente conozcan de dichos medios de control.
+IV. En el caso de los medios de control de constitucionalidad promovidos contra lo resuelto en juicios seguidos ante tribunales que no pertenezcan al PJF, se procurará que la digitalización de los expedientes relativos a dichos juicios se realice por las propias autoridades responsables, particularmente mediante la celebración de convenios de interconexión. En caso de que lo anterior no sea posible, el órgano jurisdiccional que conozca de dichos medios de control deberá digitalizarlo. Las OCC, conforme lo permita su carga de trabajo, podrán auxiliar en la digitalización;
 
-V. Los documentos electrónicos o digitalizados ingresados por las partes a los sistemas electrónicos mediante el uso de certificados digitales de Firma Electrónica producirán los mismos efectos que los presentados con firma autógrafa.
+V. Los documentos electrónicos o digitalizados ingresados por las partes al Sistema Electrónico del CJF mediante el uso de certificados digitales de Firma Electrónica producirán los mismos efectos que los presentados con firma autógrafa;
 
-VI. Los documentos públicos que se ingresen a un expediente electrónico mediante el uso de Firma Electrónica conservarán el valor probatorio que les corresponde conforme a la legislación aplicable, siempre y cuando al presentarse por vía electrónica se manifieste bajo protesta de decir verdad que el documento digitalizado respectivo es copia íntegra e inalterada del documento impreso. Al respecto, la juzgadora o juzgador que conozca del asunto podrá solicitar, de manera oficiosa o a petición de algunas de las partes legitimadas para tal efecto, el cotejo con el documento original, o su incorporación al expediente hasta el momento procesal oportuno.
+VI. Los documentos públicos que se ingresen a un expediente electrónico mediante el uso de Firma Electrónica conservarán el valor probatorio que les corresponde conforme a la legislación aplicable, siempre y cuando al presentarse por vía electrónica se manifieste bajo protesta de decir verdad que el documento digitalizado respectivo es copia íntegra e inalterada del documento físico. Al respecto, la juzgadora o juzgador que conozca del asunto podrá solicitar, de manera oficiosa o a petición de algunas de las partes legitimadas para tal efecto, el cotejo con el documento original, o su incorporación al expediente hasta el momento procesal oportuno;
 
-VII. Los documentos digitalizados ingresados a los sistemas electrónicos por las y los servidores públicos de los órganos del PJF mediante el uso de FIREL tendrán el mismo valor que los impresos.
+VII. Los documentos digitalizados ingresados a los sistemas electrónicos por las y los servidores públicos de los órganos del PJF mediante el uso de FIREL tendrán el mismo valor probatorio que los físicos;
 
-VIII. Las características de los documentos que podrán ingresarse a un expediente electrónico se sujetarán a los lineamientos que emita la DGGJ, con opinión de DGTI, sobre el formato y tamaño de aquéllos.
+VIII. Las características de los documentos que podrán ingresarse a un expediente electrónico se sujetarán a los lineamientos que emita la DGGJ, en coordinación con la DGETD, con opinión de la DGTI, sobre el formato y tamaño de aquéllos;
 
-IX. La información relativa a los expedientes electrónicos que se encuentren bajo el resguardo del CJF se alojará dentro de su infraestructura de almacenamiento y procesamiento de datos.
+IX. La información relativa a los expedientes electrónicos que se encuentren bajo el resguardo del CJF se alojará dentro de su infraestructura de almacenamiento y procesamiento de datos, garantizando la seguridad informática;
 
-X. El Sistema Electrónico del PJF llevará un registro puntual de los certificados digitales de Firma Electrónica mediante los cuales se ingrese o consulte cualquier documento de un expediente electrónico, así como de toda incidencia que resulte relevante para el mejor funcionamiento de los sistemas correspondientes.
+X. El Sistema Electrónico del CJF llevará un registro puntual de los certificados digitales de Firma Electrónica mediante los cuales se ingrese o consulte cualquier documento de un expediente electrónico, así como de toda incidencia que resulte relevante para el mejor funcionamiento de los sistemas correspondientes;
+
+XI. En el proceso de firmado electrónico, incorporado a los sistemas de gestión judicial, la o las personas titulares del órgano jurisdiccional cierran el proceso de firmado, autorizando las determinaciones. Con su firma se encripta el documento y no permite su alteración ni su eliminación, garantizando su integridad y validando con ello, la certificación de la persona secretaria; y
+
+XII. Los expedientes físicos servirán únicamente como referencia de los documentos recibidos físicamente, en el entendido de que serán los expedientes electrónicos los que tengan validez para consulta de las partes como para efectos de todos los procesos de estadística, visitas, vigilancia y demás trámites y procesos ante el CJF. Al respecto, las constancias integradas en los expedientes físicos tendrán validez respecto de las constancias recibidas por esa vía, a pesar de que no integren la totalidad de las constancias del expediente electrónico.
 
 ### CAPÍTULO SEGUNDO. Del Sistema Electrónico del Poder Judicial de la Federación
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 4.
 
-El CJF promoverá el uso y validez legal del expediente electrónico. Para este objetivo, la DGGJ, la Visitaduría Judicial y la Comisión de Vigilancia, en el ámbito de sus competencias, supervisarán la adecuada integración de los expedientes impreso y electrónico.
+El CJF promoverá el uso y validez legal del expediente electrónico. Para este objetivo, la DGGJ, la Visitaduría Judicial y la Comisión de Vigilancia, en el ámbito de sus competencias, supervisarán la adecuada integración del expediente electrónico.
 
-La DGTI será la responsable de velar por el adecuado funcionamiento del Sistema Electrónico del PJF.
+La DGTI, en coordinación con la DGETD, será la responsable de velar por el adecuado funcionamiento y respaldo del Sistema Electrónico del CJF.
 
 ###### Artículo 5.
 
@@ -251,15 +289,19 @@ Los órganos competentes del CJF actuarán en términos de lo previsto en el art
 
 ### CAPÍTULO TERCERO. De los servicios electrónicos del Consejo de la Judicatura Federal
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 9.
 
-En los órganos jurisdiccionales a cargo del CJF, la presentación de demandas, solicitudes, recursos, incidentes y promociones, así como la consulta del expediente electrónico y la práctica de notificaciones electrónicas con independencia del tipo de asunto o materia de que se trate, se realizarán a través del Sistema Electrónico del PJF, conforme a las disposiciones del presente Acuerdo General y atendiendo a la normatividad aplicable en cada materia.
+En los órganos jurisdiccionales a cargo del CJF, la presentación de demandas, solicitudes, recursos, incidentes y promociones, así como la consulta del expediente electrónico y la práctica de notificaciones electrónicas con independencia del tipo de asunto o materia de que se trate, se realizarán a través del Sistema Electrónico del CJF conforme a las disposiciones del presente Acuerdo General, las políticas de transformación digital, la Estrategia Digital del Consejo de la Judicatura Federal y demás normatividad aplicable en cada materia.
 
 #### Sección Primera. Del Sistema Electrónico del PJF
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 10.
 
-Las disposiciones contenidas en este Capítulo son aplicables a todos los asuntos que tramiten los Juzgados de Distrito, Tribunales de Circuito, Centros de Justicia Penal Federal y en los órganos jurisdiccionales federales del nuevo modelo de justicia laboral, con independencia de que en los Capítulos finales del presente Acuerdo se precisan algunos alcances para cada materia, de acuerdo con la legislación adjetiva que la rige.
+Las disposiciones contenidas en este Capítulo son aplicables a todos los asuntos que tramiten los Juzgados de Distrito, Tribunales Colegiados de Circuito o de Apelación, Centros de Justicia Penal Federal, en los Tribunales Laborales Federales y en los Plenos Regionales, con independencia de que en los Capítulos finales del presente Acuerdo se precisan algunos alcances para cada materia, de acuerdo con la legislación adjetiva que la rige, así como en cumplimiento a los lineamientos y políticas emitidas por el Comité de Gobernanza Digital.
 
 En todos los servicios en línea que presta el CJF se utilizará la Firma Electrónica, salvo para la promoción de demandas electrónicas en términos del artículo 15 de la Ley de Amparo.
 
@@ -267,9 +309,11 @@ En todos los servicios en línea que presta el CJF se utilizará la Firma Electr
 
 A través del Sistema Electrónico del PJF, el CJF implementará la tramitación electrónica del juicio de amparo y, en general, de todos los asuntos competencia del PJF, así como de las comunicaciones oficiales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-Las Áreas Técnicas del CJF serán las unidades administrativas encargadas de velar por el adecuado funcionamiento de los servicios tecnológicos que se prestan en el Portal de Servicios en Línea del PJF, Sistema de recepción, registro, turno y envío de asuntos utilizado por las OCC, Sistemas de gestión, operación e información que acompañen el trámite de los asuntos en órganos jurisdiccionales y SISE. Al respecto, DGTI supervisará lo referente al funcionamiento técnico, mientras que la DGGJ se encargará de los procesos y las propuestas para mejorar a su operatividad.
+Las Áreas Técnicas del CJF serán las unidades administrativas encargadas de velar por el adecuado funcionamiento de los servicios tecnológicos que se prestan en el Sistema Electrónico del CJF, entre ellos, el Portal de Servicios en Línea del PJF, Sistema Automatizado de Turno, Sistemas de gestión, operación e información que acompañen el trámite de los asuntos en órganos jurisdiccionales, SIGE, Sistema de Monitoreo de Notificaciones, Buscadores de Información, Plataforma de Acceso a la Información Institucional, Sistema de Gestión Interna y SISE. Al respecto, DGTI supervisará lo referente al funcionamiento técnico, mientras que las DGGJ y la DGETD se encargarán de los procesos y las propuestas para mejorar a su operatividad. La DGTI, en coordinación con las áreas técnicas, deberá garantizar que el Sistema Electrónico del CJF incluya soporte y respaldo que certifique la seguridad y confianza de todas sus aplicaciones y contenidos.
 
 Además, serán responsables de coordinarse para enviar un reporte a los órganos jurisdiccionales y a las áreas administrativas del CJF cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el servicio. En éste se señalará el tiempo y las causas de la interrupción.
 
@@ -294,6 +338,10 @@ Las promociones de las partes recibidas en el Portal recibirán el mismo tratami
 El Portal de Servicios en Línea cuenta con los módulos para presentación de demandas, solicitudes y escritos iniciales, envío de promociones y recursos, acceso y consulta de expediente electrónico, generación de notificaciones, consulta de expedientes y lista de acuerdos. Los módulos del Sistema Electrónico del PJF deberán alojarse dentro de la infraestructura de almacenamiento y procesamiento de datos propiedad del CJF.
 
 Adicionalmente, en el Portal se establecerán los vínculos necesarios para que las personas justiciables tramiten su FIREL y tengan acceso a la normativa que rige el sistema. También se podrá acceder al listado de las firmas electrónicas o certificados digitales emitidos por otros órganos del Estado con los cuales el PJF haya celebrado convenio de coordinación para el reconocimiento de certificados digitales homologados, en términos del artículo 5, párrafo segundo, del Acuerdo General Conjunto Número 1/2013.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Finalmente, a través del Portal se publicará información y funcionalidades relevantes como (i) agenda de citas para consulta de expedientes; (ii) acceso a las listas de sesión y a las de acuerdos; (iii) consulta del directorio e información de contacto de cada órgano jurisdiccional; (iv) consulta de las boletas de turno de los asuntos depositados en buzones judiciales; (v) difusión de avisos de visita de inspección y de inicio de procedimientos de ratificación; y (vi) accesos a todos los sistemas de búsqueda de información disponibles en el CJF.
 
 ###### Artículo 15.
 
@@ -339,15 +387,21 @@ En el caso que los órganos del Estado figuren como partes en los procedimientos
 
 En el Sistema Electrónico del PJF, el personal de los órganos jurisdiccionales, conforme a sus atribuciones, recibirá las solicitudes, incidentes, demandas, recursos y, en general, todas las promociones electrónicas, junto con sus anexos, acuses de recibo y boletas de turno electrónicas, tras lo cual integrarán el expediente electrónico, otorgarán los accesos para su consulta y los permisos para notificarse electrónicamente, y ordenarán la práctica de este tipo de notificaciones.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 22.
 
-Al integrar los expedientes electrónicos, los órganos jurisdiccionales los registrarán dentro de la misma numeración consecutiva que la empleada para los expedientes derivados de promociones que se presenten de manera impresa, y en ambos casos se dará el trámite correspondiente. Las constancias firmadas electrónicamente tienen validez legal suficiente, por lo que no será necesaria su posterior firma autógrafa ni una certificación para ser agregadas al expediente impreso respectivo, sino que bastará con que conste en ellas su evidencia criptográfica.
+Al integrar los expedientes electrónicos, los órganos jurisdiccionales los registrarán dentro de la misma numeración consecutiva que la empleada para los expedientes derivados de promociones que se presenten de manera impresa, y en ambos casos se dará el trámite correspondiente. Las constancias firmadas electrónicamente tienen validez legal suficiente y no deberán agregarse al expediente físico, el cual contendrá únicamente las promociones recibidas físicamente y las constancias de notificación que se generen de la misma manera.
+
+Las constancias que integran el expediente electrónico, cuando incluyen la evidencia criptográfica, se considerarán como copias certificadas electrónicamente, ya que el proceso de firmado electrónico les da la característica de inalterables.
+
+En casos excepcionales que se requieran certificaciones de documentos electrónicos impresos, aplicará el proceso de certificación para documentos físicos, es decir, se deberá incorporar el texto de certificación y firma autógrafa correspondiente.
 
 Las y los servidores públicos autorizados para tal efecto, podrán emitir acuerdos mediante el uso de su FIREL para generar copias certificadas de lo que obra en un expediente y agregarlas en otro.
 
 Por su parte, las promociones recibidas físicamente deberán integrarse a un expediente electrónico mediante la utilización de la FIREL, atendiendo a lo dispuesto en el siguiente artículo.
 
-El expediente físico y el electrónico deberán contener las mismas constancias y documentos, guardando idéntico orden cronológico. Los documentos presentados en físico con los que se formen cuadernos auxiliares y que no se agreguen al expediente principal físico, tampoco deberán integrarse al expediente electrónico. Se trata de los siguientes:
+Todas las constancias y documentos del expediente físico deberán digitalizarse e incorporarse al expediente electrónico; en cambio, las constancias y documentos electrónicos no se incorporarán al expediente físico. Los documentos presentados en formato físico con los que se formen cuadernos auxiliares y que no se agreguen al expediente principal físico, tampoco deberán integrarse al expediente electrónico. Se trata de los siguientes:
 
 I. Copias de traslado.
 
@@ -357,31 +411,59 @@ III. Copias presentadas como “anexos” y que correspondan a actuaciones del p
 
 Los cuadernos auxiliares podrán consultarse físicamente por las partes en los órganos jurisdiccionales con las salvaguardas respectivas tratándose de la información reservada o confidencial.
 
-Asimismo, la digitalización de pruebas, poderes, valores y garantías diversas quedará al arbitrio de la juzgadora o juzgador, pudiéndose, en su caso, incluir una certificación en el expediente electrónico que dé cuenta de éstas e incluya una fotografía o imagen del objeto en cuestión.
+Asimismo, la digitalización de pruebas, poderes, valores y garantías diversas quedará al arbitrio de la juzgadora o juzgador, pudiéndose, en su caso, incluir una certificación en el expediente electrónico que dé cuenta de éstas e incluya una fotografía o imagen del objeto en cuestión. Los órganos jurisdiccionales deberán digitalizar los anexos. Las OCC, conforme lo permita su carga de trabajo, podrán auxiliar en la digitalización de anexos previo a su turno. En casos excepcionales, el personal de la mesa de trabajo a la que se haya turnado el asunto podrá solicitar el auxilio de la administración de cada edificio para contar con el apoyo de las jornadas de digitalización.
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 23.
 
-En caso de que exista imposibilidad material para la digitalización de determinadas constancias aportadas por las partes, las y los titulares de los órganos jurisdiccionales acordarán lo conducente y valorarán si hacen del conocimiento de las partes tal situación mediante proveído y si las constancias se integran únicamente al expediente impreso, o bien, ordenarán la integración de cuadernos auxiliares previstos en el artículo 22, último párrafo.
+En caso de que exista imposibilidad material para la digitalización de determinadas constancias aportadas por las partes, las y los titulares de los órganos jurisdiccionales acordarán lo conducente y valorarán si hacen del conocimiento de las partes tal situación mediante proveído y si las constancias se integran únicamente al expediente físico, o bien, ordenarán la integración de cuadernos auxiliares previstos en el artículo 22, último párrafo de este Acuerdo.
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 24.
 
-Los órganos jurisdiccionales integrarán los expedientes electrónicos en el Sistema Electrónico del PJF. El personal designado para tal efecto deberá digitalizar oportunamente y de manera legible las constancias de los juicios que se presenten de manera impresa y que no hayan sido digitalizados por las propias autoridades responsables ni por el personal de la OCC, así como garantizar su gestión electrónica eficiente.
+Los órganos jurisdiccionales integrarán los expedientes electrónicos en el Sistema Electrónico del CJF. El personal designado para tal efecto deberá digitalizar oportunamente y de manera legible las constancias de los juicios que se presenten de manera física y que no hayan sido digitalizados por las propias autoridades responsables ni por el personal de la OCC, así como garantizar su gestión electrónica eficiente.
 
-En última instancia, será responsabilidad de las y los titulares vigilar la correcta integración de ambos expedientes.
+En última instancia, será responsabilidad de las y los titulares vigilar la correcta integración de ambos expedientes conforme a lo establecido en el artículo 22, párrafo cuarto de este Acuerdo.
 
 ###### Artículo 25.
 
 Al integrar el expediente electrónico, los órganos jurisdiccionales determinarán sobre qué promociones o constancias deberán guardar sigilo en relación a una o varias partes y, consecuentemente, si deben restringir el acceso a esa porción del expediente electrónico. En este supuesto, el sistema impedirá su visualización electrónica a la parte respectiva y a sus representantes, de conformidad con el artículo 16, segundo párrafo, del Acuerdo General Conjunto Número 1/2013.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 26.
 
-Cuando el órgano jurisdiccional que conozca de un asunto estime necesario consultar las constancias que obren ante uno diverso y que no hayan sido digitalizadas, lo solicitará al diverso juzgado de Distrito o tribunal de Circuito y, en caso de que exista imposibilidad material para dicho proceder, requerirá las constancias de manera impresa o la remisión del cuaderno auxiliar cuando se haya determinado integrarlo.
+Cuando el órgano jurisdiccional que conozca de un asunto estime necesario consultar las constancias que obren ante uno diverso, deberá privilegiar el expediente electrónico.
+
+En caso de que no hayan sido digitalizadas, el órgano jurisdiccional deberá integrar el expediente electrónico. Excepcionalmente, previa justificación, se podrán enviar las constancias de manera física o la remisión del cuaderno auxiliar cuando se haya determinado integrarlo.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 26 Bis.
+
+Cuando se integre al expediente electrónico el acta donde conste la celebración de alguna audiencia, al calce de ésta se asentará si, por alguna circunstancia, la hora de la evidencia criptográfica no coincide con la hora del cierre de la audiencia. En el mismo sentido, cuando se integre al expediente electrónico alguna resolución que deba emitirse en continuidad de una audiencia, y la sentencia se autoriza en una fecha distinta a la de la celebración de la audiencia, se asentará esta circunstancia al calce de la resolución.
+
+Cuando se integre al expediente electrónico el engrose de alguna resolución emitida de manera colegiada, al calce se asentará la fecha en que se aprobó el asunto, sin perjuicio de que, conforme a la evidencia criptográfica, el engrose se firme en fecha diversa por las y los integrantes del órgano.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 26 Ter.
+
+Derivado de su naturaleza e integridad, el proceso electrónico implementado de firmado en los sistemas de gestión, a diferencia de un procedimiento físico, garantiza que el único acto que sigue a la firma de la persona secretaria es la firma del juez o jueza, o de las personas titulares del tribunal colegiado, con lo que se culmina el proceso de aprobación de la actuación judicial o resolución correspondiente.
+
+Lo anterior es así, pues una vez concluido el señalado proceso electrónico de firmado, dicho documento digital será inmodificable.
+
+Este proceso garantiza, simultáneamente, tanto la autorización de quien estampa su firma electrónica, como la fecha y hora de su emisión.
 
 #### Sección Segunda. De las videoconferencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 27.
 
-Las y los titulares de los órganos jurisdiccionales ordenarán la celebración de audiencias, sesiones y diligencias judiciales a través de videoconferencias en los casos que se encuentre debidamente justificado, conforme a los siguientes supuestos:
+Las y los titulares de los órganos jurisdiccionales procurarán celebrar y practicar audiencias, sesiones y diligencias judiciales a través de videoconferencias, debiendo hacerlo en los siguientes supuestos:
 
 I. Por disposición de ley.
 
@@ -393,7 +475,9 @@ IV. Ante situaciones de contingencia o emergencia generalizada, previa declarato
 
 El uso de videoconferencia podrá realizarse en todas aquellas audiencias, sesiones o diligencias en que se estime total o parcialmente procedente, sin ninguna limitación sobre la materia o la naturaleza del asunto, siempre que la o el titular determine que se cumplen las condiciones para la utilización de este método de comunicación y que se cumplen los principios rectores del procedimiento que corresponda.
 
-En los casos en que se solicite la intervención de las y los titulares de un órgano jurisdiccional diverso para el desahogo de una audiencia, sesión o diligencia judicial a través de una videoconferencia, la participación de este último se limita a prestar auxilio operativo para su desarrollo, por lo que las y los titulares de los órganos jurisdiccionales que ordenen la celebración de la audiencia deberán desahogar la videoconferencia personalmente y, en su caso, resolver lo conducente, sin delegar esa facultad.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Salvo que resulte estrictamente necesario, no se solicitará la intervención de las y los titulares de un órgano jurisdiccional diverso para el desahogo de una audiencia, sesión o diligencia judicial a través de una videoconferencia, pues ésta podrá llevarse a cabo directamente por quien tenga radicado el asunto ante sí. En caso de que la logística de la diligencia haga necesario solicitar dicho apoyo, la participación del órgano exhortado se limitará a prestar auxilio operativo para su desarrollo, por lo que las y los titulares de los órganos jurisdiccionales que ordenen la celebración de la audiencia deberán desahogar la videoconferencia directamente y, en su caso, resolver lo conducente, sin delegar esa facultad.
 
 ###### Artículo 28.
 
@@ -423,11 +507,13 @@ IX. Cuando en una audiencia deba escucharse a niñas, niños o adolescentes, las
 
 X. Al concluir la sesión se levantará un acta en la que se harán constar las actuaciones realizadas, las personas que intervinieron y las incidencias que pudieran haberse presentado, salvo en aquéllos procedimientos en los que el registro mismo de la audiencia cumpla con dicha finalidad conforme a la legislación aplicable.
 
-XI. Las audiencias, sesiones y diligencias judiciales se registrarán y el personal facultado para ello deberá relacionarla con el expediente electrónico respectivo, siguiendo para ambos aspectos las pautas establecidas en el punto 3 del Anexo Técnico. El registro de las diligencias, audiencias y, tratándose de sesiones, de la porción respectiva al asunto del que se trate, será parte del expediente electrónico.
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XI. Salvo que se diseñe una herramienta específica para tal efecto, las audiencias, sesiones y diligencias judiciales se registrarán y el personal facultado para ello deberá relacionarla con el expediente electrónico respectivo, siguiendo para ambos aspectos las pautas establecidas en el punto 3 del Anexo Técnico. El registro de las diligencias, audiencias y, tratándose de sesiones, de la porción respectiva al asunto del que se trate, será parte del expediente electrónico.
 
 La participación de las partes por este medio generará los mismos efectos y alcances jurídicos de la audiencia que se realice con presencia física en los órganos jurisdiccionales conforme a la normativa aplicable.
 
-Lo dispuesto en el presente precepto no es aplicable para rendir alegatos orales que no se encuentren previstos en las legislaciones adjetivas que rijan los procedimientos respectivos, ni para solicitar entrevistas con servidoras o servidores públicos del PJF.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 29.
 
@@ -437,17 +523,19 @@ I. Verificar dicha separación física y la ausencia de influencias o injerencia
 
 II. “Enviar” a dichos intervinientes a “salas de espera” virtuales, utilizando para ello las funcionalidades previstas en la herramienta tecnológica implementada por el CJF para la práctica de estas diligencias.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 30.
 
-Los Tribunales Colegiados de Circuito y los Plenos de Circuito podrán celebrar sesiones utilizando la plataforma tecnológica que permita la celebración de videoconferencias, para lo cual deberán atender en lo que corresponda a lo previsto en el presente Acuerdo y en el Anexo Técnico. Con independencia del método de comunicación utilizado, en lo relativo a los lineamientos que regulan las sesiones resulta aplicable lo señalado en los Acuerdos Generales 16/2009 y 8/2015, salvo por lo que hace a la presencia física de sus participantes y del público, quienes participarán virtualmente en la sesión, de conformidad con lo dispuesto en el presente Acuerdo y su Anexo.
+Los Tribunales Colegiados y los Plenos Regionales podrán celebrar sesiones utilizando el Sistema Electrónico del CJF que permita la celebración de videoconferencias, para lo cual deberán atender en lo que corresponda a lo previsto en el presente Acuerdo y en el Anexo Técnico. Con independencia de la solución digital utilizada, en lo relativo a los lineamientos que regulan las sesiones resulta aplicable lo señalado en los Acuerdos Generales 16/2009 y 8/2015; salvo por lo que hace a la presencia física de sus participantes y del público quienes participarán virtualmente en la sesión de conformidad con lo dispuesto en el presente Acuerdo y su Anexo.
 
-> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
+En el caso de las audiencias y sesiones regidas por el principio de publicidad, se garantizará la posibilidad de que las partes y el público en general tengan acceso en las sesiones mediante su transmisión en vivo desde la plataforma que para tal efecto se habilite de acuerdo con las reglas que se generen al respecto. Con independencia de lo anterior, cualquier persona tendrá acceso a los registros desde la Biblioteca Virtual de Sesiones.
 
-En el caso de las audiencias y sesiones regidas por el principio de publicidad, se garantizará la posibilidad de que las partes y el público en general tengan acceso en las sesiones mediante su transmisión en vivo desde la plataforma que para tal efecto se habilite, de acuerdo con las reglas que se generen al respecto. Con independencia de lo anterior, cualquier persona tendrá acceso a los registros de la misma desde la Biblioteca Virtual de Sesiones.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 31.
 
-La DGTI implementará las acciones necesarias a fin de garantizar la óptima comunicación entre las partes intervinientes en los procesos que se desahoguen por videoconferencia en los recintos judiciales o bien, en sedes remotas.
+La DGTI, en coordinación con las áreas técnicas, DGGJ y DGETD conforme a lo establecido por el Comité de Gobernanza Digital, implementará las acciones necesarias a fin de garantizar la óptima comunicación entre las partes intervinientes en los procesos que se desahoguen por videoconferencia en los recintos judiciales o bien, en sedes remotas.
 
 Para efectos de lo anterior, podrá utilizarse el equipo de videoconferencia o bien los tipos de dispositivos, desarrollos o aplicaciones a través de los cuales se puede llevar a cabo este método de comunicación. En todo caso, las videoconferencias se desahogarán, registrarán e incorporarán a los expedientes judiciales respectivos, conforme a las pautas establecidas en el Anexo Técnico.
 
@@ -455,7 +543,9 @@ Por su parte, cada órgano jurisdiccional adoptará las acciones tendientes a ga
 
 La persona que en cada órgano jurisdiccional funja como responsable técnico se encargará de atender a las personas justiciables que soliciten ayuda para utilizar dispositivos propios para participar en videoconferencias que se desahoguen por dicho órgano, ya sea que se encuentren en la sede jurisdiccional respectiva o en una localidad distinta. Para lo anterior, el responsable técnico podrá solicitar el auxilio del personal de apoyo.
 
-Asimismo, los órganos jurisdiccionales, con apoyo de la DGTI, tendrán a disposición un equipo que pueda ser utilizado por las personas justiciables que no cuenten con un dispositivo electrónico propio, para participar en las videoconferencias haciendo uso del mismo desde el propio recinto judicial.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Asimismo, los órganos jurisdiccionales, con apoyo de la DGTI, en coordinación con las áreas técnicas, DGGJ y DGETD conforme a lo establecido por el Comité de Gobernanza Digital, tendrán a disposición un equipo o equipos, conforme a disponibilidad y espacios, que pueda ser utilizado por las personas justiciables que no cuenten con un dispositivo electrónico propio, para participar en las videoconferencias. El equipo o equipos se usarán desde el propio recinto judicial.
 
 Será posible el desahogo de audiencias, sesiones o diligencias judiciales que cuenten con intervinientes presenciales en sede judicial y en sedes virtuales, siempre que todos se encuentren en igualdad de condiciones para su participación en la audiencia o diligencia judicial respectiva.
 
@@ -463,9 +553,11 @@ Será posible el desahogo de audiencias, sesiones o diligencias judiciales que c
 
 Las y los titulares de los órganos jurisdiccionales garantizarán la protección de los datos personales de las partes, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública y el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de transparencia y acceso a la información pública en el Consejo.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 33.
 
-A propuesta de la DGGJ o de la Secretaría Ejecutiva de Vigilancia, la Comisión de Vigilancia aprobará los procedimientos específicos, manuales y requerimientos técnicos que fuesen necesarios para mejorar el uso de videoconferencias para el desahogo de audiencias, sesiones o diligencias judiciales en los órganos jurisdiccionales. Para lo anterior se obtendrán, en su caso, las opiniones técnicas de las Unidades administrativas especializadas.
+A propuesta de la DGGJ, la DGETD o de la Secretaría Ejecutiva de Vigilancia, la Comisión de Vigilancia aprobará los procedimientos específicos, manuales y requerimientos técnicos que fuesen necesarios para mejorar el uso de videoconferencias para el desahogo de audiencias, sesiones o diligencias judiciales en los órganos jurisdiccionales. Para lo anterior se obtendrán, en su caso, las opiniones técnicas de las unidades administrativas especializadas.
 
 #### Sección Tercera. Del acceso y consulta al expediente electrónico
 
@@ -483,17 +575,23 @@ La solicitud respectiva podrá formularse directamente por las partes o sus repr
 
 Las juezas, jueces, magistradas y magistrados otorgarán a las partes, a sus representantes y a los autorizados facultados conforme al segundo párrafo del artículo precedente, que así lo soliciten, los permisos necesarios para la consulta de los expedientes electrónicos o, en su caso, la revocación de los concedidos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 Las personas autorizadas para consultar un Expediente electrónico en los asuntos de la competencia del PJF podrán descargar en sus equipos de cómputo copia de las constancias que obren en aquél. Cuando éstas incluyan la evidencia criptográfica, se considerarán como copias certificadas electrónicamente.
 
-Las y los titulares verificarán si quien autoriza cuenta con la capacidad procesal necesaria. Se acordará favorablemente la solicitud únicamente respecto de quienes cumplan los requisitos respectivos, a través de una promoción electrónica o impresa. La autorización respectiva estará en todo momento condicionada a que la Firma Electrónica se mantenga vigente.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Las y los titulares verificarán si quien autoriza cuenta con la capacidad procesal necesaria. Se acordará favorablemente la solicitud únicamente respecto de quienes cumplan los requisitos respectivos, a través de una promoción electrónica o física. La autorización respectiva estará en todo momento condicionada a que la Firma Electrónica se mantenga vigente.
 
 La autorización se puede realizar respecto de uno o varios expedientes. En el segundo supuesto, la persona autorizada tendrá acceso al módulo de Consulta de Expedientes, cuyos submódulos le permitirán revisar cada expediente de manera individual, o los correspondientes a todos los asuntos en los que haya recibido la autorización respectiva, ya sea mediante una vista global o dentro de cada órgano jurisdiccional.
 
 Los permisos otorgados para la consulta de expedientes electrónicos y para la práctica de notificaciones se conservarán para cualquier instancia o incidente.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 37.
 
-La autorización para acceder a los expedientes electrónicos sólo será otorgada o revocada por las y los titulares. En todo caso, se atenderá a la situación jurídica de cada usuario en los asuntos en los que se solicite, de conformidad con su capacidad procesal y la vigencia de su firma electrónica.
+La autorización para acceder a los expedientes electrónicos sólo será otorgada o revocada por las y los titulares. En todo caso, se atenderá a la situación jurídica de cada persona usuaria en los asuntos en los que se solicite, de conformidad con su capacidad procesal y la vigencia de su firma electrónica.
 
 ###### Artículo 38.
 
@@ -505,13 +603,21 @@ El acceso otorgado a las partes o sus representantes y autorizados en los juicio
 
 De conformidad con lo anterior, cuando no esté autorizada la realización de notificaciones electrónicas, la persona específicamente carezca de dicha autorización, o si la misma ha sido revocada, la usuaria o usuario podrá consultar los acuerdos y las constancias relacionadas con éste, con posterioridad a que se haya practicado la notificación respectiva.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 40.
 
-Con independencia de que la demanda se presente por vía impresa o electrónica, la parte en el procedimiento jurisdiccional, por sí, por conducto de su representante legal o, excepcionalmente, por conducto del autorizado que cuente con facultades expresas para ello conforme al segundo párrafo del artículo 35, podrá solicitar en cualquier momento autorización para ingresar al expediente electrónico. Sólo las partes y sus representantes legales pueden solicitar dicha autorización para terceras personas.
+Con independencia de que la demanda se presente por vía física o electrónica, la parte en el procedimiento jurisdiccional, por sí, por conducto de su representante legal o, excepcionalmente, por conducto de la persona autorizada que cuente con facultades expresas para ello conforme al segundo párrafo del artículo 35 de este Acuerdo, podrá solicitar en cualquier momento autorización para ingresar al expediente electrónico. Sólo las partes y sus representantes legales pueden solicitar dicha autorización para terceras personas.
 
 ###### Artículo 41.
 
 En los expedientes electrónicos podrá generarse una bitácora en la que se indique el nombre o los nombres de las personas autorizadas para ingresar a los Expedientes electrónicos, la cual se actualizará automáticamente con base en los datos ingresados por la o por el servidor público responsable de aquélla, una vez que se dicte el proveído que recaiga a la promoción en la que se otorgue o revoque la autorización respectiva.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 41 Bis.
+
+Todas las personas autorizadas para acceder a los expedientes judiciales, incluidas quienes actúen bajo el esquema físico, deberán consultarlo en su versión electrónica. Quienes carezcan de acceso al Portal o quienes no hayan solicitado esta modalidad de acceso conforme a lo previsto en los artículos precedentes, podrán hacerlo al acudir presencialmente al órgano jurisdiccional respectivo, donde se pondrá un equipo a su disposición y asesoría para que puedan llevar a cabo la consulta respectiva, desde una clave de usuario habilitado para ello.
 
 ### CAPÍTULO QUINTO. De la presentación de solicitudes, demandas, incidentes, promociones y recursos por vía electrónica
 
@@ -649,13 +755,19 @@ Aunque existan múltiples personas autorizadas para recibir notificaciones elect
 
 Al seleccionar la resolución o resoluciones judiciales correspondientes, las partes se notificarán electrónicamente, con lo que se generará una constancia de consulta de conformidad con lo dispuesto en el artículo 31, fracción III, de la Ley de Amparo. Esta constancia contendrá los datos del asunto y de la resolución judicial, el nombre de la persona que se notifica, así como la fecha y hora en que se realizó la consulta, y se visualizará automáticamente en el expediente electrónico.
 
-Las constancias de consulta que genere el sistema servirán como constancia de notificación, en términos de lo previsto en la parte final de la disposición normativa antes citada. Esta constancia será válida y no necesitará de certificación por parte de Actuario, Secretario o funcionario. Lo mismo vale para su inclusión en el expediente físico, para lo cual únicamente deberá imprimirse con la evidencia criptográfica de la Firma Electrónica.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Las constancias de consulta que genere el sistema servirán como constancia de notificación, en términos de lo previsto en la parte final de la disposición normativa antes citada. Esta constancia será válida y no necesitará de certificación por parte de Actuario, Secretario o funcionario. Las constancias de notificación, realizadas por el sistema, se integrarán únicamente en el expediente electrónico, sin que sea necesaria la impresión e integración en el expediente físico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 62.
 
-La falta de ingreso al Portal por parte de quien deber ser notificado electrónicamente dará lugar a lo siguiente:
+La falta de ingreso al Portal por parte de quien debe ser notificado electrónicamente dará lugar a lo siguiente:
 
-I. Por regla general, las partes contarán con un plazo máximo de dos días a partir del envío de la resolución para notificarse.
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+I. Por regla general, las partes contarán con un plazo máximo de dos días a partir del día siguiente de la publicación de la resolución para notificarse;
 
 II. Como regla excepcional, las determinaciones dictadas en el incidente de suspensión en amparo otorgarán a las partes un plazo de veinticuatro horas para notificarse.
 
@@ -673,7 +785,9 @@ Cuando estimen que no resulte posible consultar el texto del documento remitido,
 
 Si se advierte que el acuerdo materia de notificación sí es consultable en el Sistema Electrónico del PJF, se dictará el proveído en virtud del cual, transcurridos los plazos previstos en el artículo 62, se tenga por hecha la notificación correspondiente.
 
-Si se corrobora la existencia de la falla, es decir, la imposibilidad técnica de consultar el texto íntegro del acuerdo correspondiente, además de comunicar la falla respectiva en términos de lo señalado en el artículo 13 del presente Acuerdo General, se ordenará que la notificación del proveído de que se trate se realice nuevamente de manera personal, por lista o por oficio, según corresponda.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Si se corrobora la existencia de la falla, es decir, la imposibilidad técnica de consultar el texto íntegro del acuerdo correspondiente, además de comunicar la falla respectiva en términos de lo señalado en el artículo 13 del presente Acuerdo General, y de no advertirse la constancia electrónica de notificación correspondiente, se ordenará que la notificación del proveído de que se trate se realice nuevamente de manera, personal, por lista o por oficio, según corresponda.
 
 Las notificaciones realizadas en términos de lo señalado en los párrafos precedentes se documentarán con la constancia que se genere automáticamente por el Sistema Electrónico del PJF, una vez que la parte de que se trate o cualquiera de las personas que haya autorizado para consultar el respectivo expediente electrónico, ingresen a éste y hayan tenido la posibilidad técnica de consultar el texto íntegro del acuerdo respectivo dentro de los plazos legales. Dicha constancia contendrá los requisitos previstos en el artículo 63.
 
@@ -695,23 +809,31 @@ El Sistema Electrónico del PJF contendrá reportes para el control de las notif
 
 Tratándose de asuntos tramitados a través del Portal de Servicios en Línea, el supuesto de excepcionalidad previsto en la parte final del artículo 30, fracción I, primer párrafo, de la Ley de Amparo y que autoriza la práctica de las primeras notificaciones a las autoridades señaladas como responsables o terceras interesadas que no estén interconectadas, mediante oficio digitalizado, en situaciones urgencia o emergencia a juicio de las y los titulares, o decretadas previamente por el CJF, podrá permitir que el envío respectivo se realice mediante correo electrónico institucional con oficio generado electrónicamente o uno digitalizado con FIREL. En estos casos, deberá obtenerse la confirmación de la recepción del correo, la cual se certificará por la servidora o el servidor público facultado para tal efecto.
 
-### CAPÍTULO SÉPTIMO. Del sistema de recepción, registro, turno y envío de asuntos utilizado por las Oficinas de Correspondencia Común en el procedimiento jurisdiccional electrónico
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO SÉPTIMO. Sistema Automatizado de Turno de asuntos utilizado por las Oficinas de Correspondencia Común en el procedimiento jurisdiccional electrónico
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 68.
 
-Las demandas y promociones presentadas en el Portal, junto con el acuse de recibo correspondiente, serán recibidas electrónicamente en la OCC a través del Sistema de recepción, registro, turno y envío de asuntos utilizado por esas oficinas.
+Las demandas presentadas en el Portal, junto con el acuse de recibo correspondiente, serán recibidas electrónicamente en la OCC a través del Sistema Automatizado de Turno.
 
 En el caso de los Centros de Justicia Penal Federal, dichas funciones se realizarán por la administración de cada Centro.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 69.
 
-Las OCC contarán con un Sistema electrónico de recepción, registro, turno automatizado y envío de asuntos. El sistema generará una constancia de envío y recepción electrónica (boleta de turno) de demandas y, en general, de todo tipo de promociones. Para ello, mostrará los archivos que se reciban con sus anexos, les clasificará conforme a su contenido y les turnará de acuerdo a la normativa vigente, en términos del modelo automatizado del propio Sistema.
+Las OCC contarán con un Sistema Automatizado de Turno. El sistema generará una constancia de envío y recepción electrónica de demandas. Para ello, mostrará los archivos que se reciban con sus anexos, las personas servidoras públicas los clasificarán conforme a su contenido y los turnarán de acuerdo a la normativa vigente, en términos del modelo automatizado del propio sistema.
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 70.
 
-Una vez turnadas las demandas y promociones que se presenten de manera electrónica, serán enviadas de la misma manera por el Sistema Electrónico utilizado por las OCC, junto con la boleta de turno electrónica a los órganos jurisdiccionales correspondientes a través del Sistema Electrónico del PJF.
+Una vez turnadas las demandas que se presenten de manera electrónica, serán enviadas de la misma manera por el Sistema Automatizado de Turno utilizado por las OCC, junto con la boleta de turno electrónica a los órganos jurisdiccionales correspondientes a través del Sistema Electrónico del CJF.
 
-Incluso tratándose de demandas, solicitudes, promociones y recursos presentados físicamente, el personal de las OCC se coordinará con las oficialías de partes de los órganos jurisdiccionales para auxiliar, conforme las cargas de trabajo lo permitan, en la digitalización con FIREL de las constancias que se reciban, en aras de facilitar la integración del Expediente Electrónico respectivo.
+Incluso tratándose de demandas, solicitudes, y recursos presentados físicamente, junto con los anexos respectivos, el personal de las OCC auxiliará, conforme las cargas de trabajo lo permitan, en la digitalización con FIREL de las constancias que se reciban, en aras de facilitar la integración del Expediente Electrónico respectivo.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEXTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
@@ -719,15 +841,33 @@ Incluso tratándose de demandas, solicitudes, promociones y recursos presentados
 
 A propuesta de la DGGJ o de la Secretaría Ejecutiva de Creación de Nuevos Órganos, la Comisión de Nuevos Órganos interpretará las cuestiones administrativas que se susciten con motivo de la interpretación de este Capítulo.
 
-### CAPÍTULO OCTAVO. De los convenios de interconexión e intercomunicación
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO OCTAVO. Convenios de interconexión, intercomunicación y colaboración
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 71.
 
-El CJF podrá celebrar convenios de interconexión, intercomunicación o para compartir desarrollos tecnológicos, con otros órganos jurisdiccionales y autoridades públicas para el trámite de todos los asuntos competencia del PJF, así como para la consulta de expedientes y notificaciones de manera electrónica.
+El CJF podrá celebrar convenios de interconexión, intercomunicación, colaboración o para compartir desarrollos tecnológicos, con otros órganos jurisdiccionales y autoridades públicas para el trámite de todos los asuntos competencia del PJF, para la consulta de expedientes y notificaciones de manera electrónica, así como para la colaboración relacionada con las estrategias de gobierno de datos, gobernanza digital, transformación digital y e-Justicia.
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 72.
 
-Mediante declaratoria publicada en el Diario Oficial de la Federación, el CJF hará del conocimiento de las y los justiciables que pueden presentar promociones y recursos por vía electrónica en los órganos jurisdiccionales con los que se hayan celebrado los convenios previstos en el artículo precedente. Adicionalmente, el listado de órganos estatales con los que se tengan celebrados estos convenios estará disponible en el Portal de Servicios en Línea.
+Mediante declaratoria publicada en el Diario Oficial de la Federación, el CJF hará del conocimiento de las y los justiciables que pueden presentar promociones y recursos por vía electrónica en los órganos jurisdiccionales con los que se hayan celebrado los convenios de interconexión e intercomunicación previstos en el artículo precedente. Adicionalmente, el listado de órganos estatales con los que se tengan celebrados estos convenios estará disponible en el Portal de Servicios en Línea.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 72 Bis.
+
+Los servicios tecnológicos a que se refiere este Acuerdo, otorgan reconocimiento y validez a la FIREL, o bien, a los certificados digitales emitidos por otros órganos u organismos del Estado con los cuales el PJF haya celebrado convenio de coordinación para el reconocimiento de certificados digitales homologados en términos del artículo 5, párrafo segundo, del Acuerdo General Conjunto Número 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 72 Ter.
+
+Los documentos electrónicos y anexos que se envíen a través de los servicios de interconexión tecnológica materia del presente Acuerdo, mediante el uso de certificados digitales a que se refiere el artículo 5 del Acuerdo General Conjunto Número 1/2013, de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico, producirán los mismos efectos que los presentados con firma autógrafa, sin que sea necesario que cuenten con ésta, de conformidad con los artículos 3, 10, 12, inciso f) y 13, inciso d), del Acuerdo General Conjunto Número 1/2013 de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del Consejo de la Judicatura Federal, relativo a la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) y al expediente electrónico.
 
 ###### Artículo 73.
 
@@ -753,15 +893,43 @@ El CJF podrá celebrar convenio de interconexión o intercomunicación con diver
 
 En estos casos, los órganos del Estado podrán solicitar por vía electrónica la recepción de notificaciones y envío de promociones por vía electrónica o por escrito. Asimismo, podrán designar a una o varias personas para acceder al expediente electrónico indicando su “Nombre de Usuario” y Firma Electrónica. Si en posterior promoción alguna de aquéllas pretende designar como delegado a una diversa persona para que tenga acceso al expediente electrónico, bastará que lo solicite por vía impresa o electrónica, indicando los datos antes señalados.
 
-Cuando el CJF envíe a través del Sistema Electrónico del PJF, oficios, constancias y otras comunicaciones a los sistemas de gestión tecnológica de las autoridades públicas interconectadas, su recepción generará un acuse que contendrá la denominación de la autoridad emisora y receptora, fecha y hora de recepción, el número de expediente asignado, así como el nombre de los archivos electrónicos y si cuentan con evidencia criptográfica. El acuse de recepción generado en el Sistema Electrónico del CJF servirá como constancia de notificación y no se requerirá su posterior certificación por servidora o servidor público alguno. La notificación se tendrá por realizada cuando se genere la constancia respectiva, o bien, cuando transcurran los plazos de cuarenta y ocho o veinticuatro horas previstos en el artículo 62, según corresponda.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Cuando el CJF envíe a través del Sistema Electrónico del CJF, oficios, constancias y otras comunicaciones a los sistemas de gestión tecnológica de las autoridades públicas interconectadas, su recepción generará un acuse que contendrá la denominación de la autoridad emisora y receptora, fecha y hora de recepción, el número de expediente asignado, así como el nombre de los archivos electrónicos y si cuentan con evidencia criptográfica. El acuse de recepción generado en el Sistema Electrónico del CJF servirá como constancia de notificación y no se requerirá su posterior certificación por servidora o servidor público alguno. La notificación se tendrá por realizada cuando se genere la constancia respectiva, o bien, cuando transcurran los plazos de cuarenta y ocho o veinticuatro horas previstas en el artículo 62, según corresponda.
 
 ###### Artículo 77.
 
 Los órganos del Estado interconectados que sean señalados como autoridades responsables estarán obligadas a remitir las constancias digitalizadas con Firma Electrónica de los expedientes y demás anexos relevantes para la tramitación de la demanda, recurso o asunto correspondiente.
 
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 77 Bis.
+
+Cuando la DGTI tenga noticia de que por caso fortuito, fuerza mayor o por fallas técnicas se han interrumpido los servicios de interconexión con alguna Institución Pública Interconectada, haciendo imposible el envío y recepción de cualquier tipo de documento y la consulta de los expedientes electrónicos de origen o carpeta digital, rendirá un informe dentro de las veinticuatro horas siguientes por vía electrónica mediante el uso de su firma electrónica a las y los titulares de los juzgados de Distrito y tribunales Colegiados, a los Centros de Justicia Penal Federal y a los tribunales laborales federales.
+
+En dicho informe deberá precisarse la existencia o no de la suspensión de los servicios y, en su caso, tanto la causa de ésta y el momento a partir del cual se suscitó, como el día y la hora en que se subsanó.
+
+Los titulares de los juzgados de Distrito, tribunales Colegiados, Centros de Justicia Penal Federal y tribunales laborales federales, ante la suspensión de los servicios de interconexión con alguna Institución Pública Interconectada podrán ordenar, cuando así lo estimen pertinente y mientras subsista la referida suspensión, notificar a esas autoridades por vías distintas a la electrónica.
+
 ###### Artículo 78.
 
 En caso de no existir interconexión o intercomunicación, el Portal de Servicios en Línea podrá ofrecer el acceso bajo las siguientes modalidades: persona física, persona jurídica pública y persona jurídica privada. Estas modalidades habilitarán módulos de acceso al expediente electrónico, promoción y notificación de asuntos de forma individual o, en caso de tener varios, de forma conjunta o global. Las notificaciones y el envío de promociones o recursos podrán realizarse de manera individual o global y aplicarán las reglas establecidas en el Capítulo Sexto.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 78 Bis.
+
+Los Convenios de colaboración o para compartir desarrollos tecnológicos pueden ser celebrados con órganos estatales, instituciones académicas o de investigación, organizaciones de la sociedad civil o personas que cumplan con los requisitos establecidos en este Capítulo.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 78 Ter.
+
+La celebración de los convenios de colaboración del CJF con otras instituciones públicas, dependerá de que la contraparte tenga la capacidad tecnológica, de gestión, técnica y de recursos. Tratándose de instituciones académicas o de investigación, así como organizaciones de la sociedad civil, dependerá a que estén constituidas y reconocidas en términos de las disposiciones jurídicas aplicables.
+
+Los convenios podrán ser celebrados por iniciativa de las entidades mencionadas o de las áreas administrativas u órganos jurisdiccionales. Las propuestas serán recibidas y analizadas por la DGETD, en coordinación con la DGTI y la DGGJ, para identificar su conveniencia estratégica, posible impacto y viabilidad.
+
+La celebración de los convenios será evaluada y, en su caso, aprobada por el Pleno del Consejo de la Judicatura Federal, previo visto bueno del Comité de Gobernanza Digital y opinión de la Dirección General de Asuntos Jurídicos. La DGETD coordinará las acciones, mecanismos y herramientas, conforme a sus facultades, en términos de lo dispuesto en las políticas y lineamientos emitidos por el Comité de Gobernanza Digital.
 
 ### CAPÍTULO NOVENO. De las comunicaciones oficiales electrónicas
 
@@ -769,19 +937,25 @@ En caso de no existir interconexión o intercomunicación, el Portal de Servicio
 
 A través del Sistema Electrónico del PJF, los órganos jurisdiccionales a cargo del CJF podrán enviarse entre ellos comunicaciones oficiales electrónicas firmadas con la Firma Electrónica, para lo cual tendrán acceso a todas las OCC y Oficialías de Partes correspondientes.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 80.
 
-Las OCC recibirán las comunicaciones oficiales electrónicas en el Sistema centralizado de recepción, registro, turno y envío de asuntos que remitan los órganos jurisdiccionales, las registrarán y enviarán al órgano jurisdiccional que por turno deba tramitarlas conforme a la normativa vigente.
+Las OCC recibirán las comunicaciones oficiales electrónicas en el Sistema Automatizado de Turno de asuntos que remitan los órganos jurisdiccionales, las registrarán y enviarán al órgano jurisdiccional que por turno deba tramitarlas conforme a la normativa vigente.
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 81.
 
-Una vez turnadas las comunicaciones oficiales electrónicas en el Sistema centralizado de recepción, registro, turno y envío de asuntos, se remitirán de manera electrónica al órgano jurisdiccional correspondiente, el que las recibirá a través del módulo de Oficialía de Partes del Sistema Electrónico del PJF. Lo anterior se entiende con independencia de que las comunicaciones respectivas se integren en formato impreso, tanto en el órgano jurisdiccional requirente como en el requerido.
+Una vez turnadas las comunicaciones oficiales electrónicas en el Sistema Automatizado de Turno de asuntos, se remitirán de manera electrónica al órgano jurisdiccional correspondiente, el que las recibirá a través del módulo de Oficialía de Partes del Sistema Electrónico del CJF. Lo anterior se entiende con independencia de que las comunicaciones respectivas se integren en formato impreso, tanto en el órgano jurisdiccional requirente como en el requerido.
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 82.
 
-El resultado del trámite de las comunicaciones oficiales electrónicas será enviado de la misma manera al órgano jurisdiccional que la libró a través del Sistema Electrónico del PJF.
+El resultado del trámite de las comunicaciones oficiales electrónicas será enviado de la misma manera al órgano jurisdiccional que la libró a través del Sistema Electrónico del CJF.
 
-Tratándose de órganos jurisdiccionales que no cuenten con OCC, las comunicaciones oficiales electrónicas se enviarán directamente a las Oficialías de Partes a través del Sistema Electrónico del PJF.
+Tratándose de órganos jurisdiccionales que no cuenten con OCC, las comunicaciones oficiales electrónicas se enviarán directamente a las Oficialías de Partes a través del Sistema Electrónico del CJF.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEXTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
@@ -801,11 +975,15 @@ Consecuentemente, el acceso a los servicios en línea mediante Firma Electrónic
 
 En los Centros de Justicia Penal Federal se hará uso del Portal de Servicios en Línea para la tramitación de los asuntos de su conocimiento, lo cual incluye, enunciativamente, la presentación de solicitudes, recursos, incidentes y promociones, integración y consulta de carpetas digitales, así como la práctica de notificaciones electrónicas. Asimismo, se podrán celebrar audiencias mediante videoconferencia, conforme la normativa aplicable emitida por el CJF y a la legislación de la materia.
 
-Para la consulta de carpetas digitales y la práctica de notificaciones electrónicas, las partes deberán formular expresamente la solicitud respectiva, en términos de la regulación contenida en el Capítulo Sexto, o, tratándose de órganos estatales, contar con un convenio de interconexión, de conformidad con la regulación contenida en el Capítulo Octavo.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Para la consulta de carpetas digitales y la práctica de notificaciones electrónicas, las partes deberán formular expresamente la solicitud respectiva, en términos de la regulación contenida en el Capítulo Sexto, o, tratándose de órganos estatales, contar con un convenio de interconexión o colaboración, de conformidad con la regulación contenida en el Capítulo Octavo.
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 85.
 
-La presentación de solicitudes, recursos, incidentes y promociones de manera electrónica, no impide a las partes exhibir de manera impresa tales documentos ante los Centros de Justicia Penal Federal.
+La presentación de solicitudes, recursos, incidentes y promociones de manera electrónica no impide a las partes exhibir de manera física tales documentos ante los Centros de Justicia Penal Federal.
 
 ###### Artículo 86.
 
@@ -825,7 +1003,9 @@ Para la presentación de solicitudes se ingresará a la opción para presentar s
 
 Una vez enviada la solicitud o promoción, el sistema generará un acuse de recepción electrónica en el que se señalarán los datos de identificación del promovente, el nombre del archivo electrónico que contenga los documentos, la fecha y hora de envío y recepción, así como un folio electrónico. En los casos en que se proporcione una cuenta de correo electrónico al momento de enviar la solicitud, el acuse de recepción electrónica se remitirá automáticamente al correo.
 
-Cada documento electrónico que se reciba contendrá en la parte final una evidencia criptográfica de la Firma Electrónica que mostrará, entre otros datos, si el certificado con el que se firmó se encuentra vigente a la fecha de su incorporación al sistema. La incorporación de la promoción respectiva al expediente físico deberá incluir la evidencia criptográfica de la firma.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Cada documento electrónico que se reciba contendrá en la parte final una evidencia criptográfica de la Firma Electrónica que mostrará, entre otros datos, si el certificado con el que se firmó se encuentra vigente a la fecha de su incorporación al sistema. Los documentos recibidos de manera electrónica se integrarán únicamente en la carpeta digital, sin la necesidad de su integración en el expediente físico.
 
 ###### Artículo 90.
 
@@ -835,13 +1015,17 @@ Tratándose de las notificaciones que practiquen los Centros de Justicia Penal F
 
 A través del Portal los Centros de Justicia Penal Federal recibirán las solicitudes y promociones electrónicas de las partes, junto con sus anexos, integrarán las carpetas digitales, otorgarán los accesos para su consulta y los permisos para notificarse electrónicamente, y ordenarán la práctica de este tipo de notificaciones.
 
-Al respecto, las solicitudes y promociones se registrarán en el módulo de Oficialía de Partes del Sistema Electrónico del PJF, conjuntamente con las que se presenten de manera impresa, y se dará el trámite correspondiente.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Al respecto, las solicitudes y promociones se registrarán en el módulo de Oficialía de Partes del Sistema Electrónico del CJF, conjuntamente con las que se presenten de manera física, las cuales deberán digitalizarse, y se dará el trámite correspondiente.
 
 ###### Artículo 92.
 
 La Administración de cada Centro estará facultada para realizar los ajustes logísticos (de agenda, de disponibilidad de salas, de recursos humanos y materiales) que hagan compatible la realización ordinaria de audiencias presenciales con las practicadas mediante videoconferencias, optimizando los recursos institucionales y garantizando el adecuado desahogo de las mismas.
 
-Asimismo, dicha Administración será la responsable de vigilar que los registros de las audiencias se resguarden y vinculen con la carpeta digital respectiva, y que se digitalicen oportunamente y de manera legible las constancias complementarias impresas.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Asimismo, dicha Administración será la responsable de vigilar que los registros de las audiencias se resguarden y vinculen con la carpeta digital respectiva, y que se digitalicen oportunamente y de manera legible las constancias complementarias físicas.
 
 En caso de que exista imposibilidad material para la digitalización de determinadas constancias complementarias aportadas por las partes, se hará de su conocimiento tal situación y se informará que las mismas se encuentran físicamente para su consulta en el Centro de Justicia Penal Federal.
 
@@ -859,9 +1043,13 @@ Al notificarse electrónicamente las partes de las resoluciones judiciales en qu
 
 Cuando se presenten demandas de amparo o se interpongan recursos, los Centros de Justicia Penal Federal pondrán a disposición del órgano jurisdiccional que corresponda, la consulta de las carpetas digitales a través del Sistema Electrónico del PJF, a reserva de que se remitan los registros electrónicos respectivos al tribunal de alzada o al juzgado de amparo.
 
-Cuando el órgano jurisdiccional que conozca del recurso o procedimiento jurisdiccional estime necesario consultar las constancias que no fueron digitalizadas, requerirá dichas constancias de manera impresa.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO. Del resto de los asuntos competencia del PJF
+Cuando el órgano jurisdiccional que conozca del recurso o procedimiento jurisdiccional estime necesario consultar constancias que no fueron digitalizadas, el Centro de Justicia Penal Federal deberá integrar el expediente electrónico. Excepcionalmente, previa justificación, podrá enviar las constancias de manera física.
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. Resto de asuntos competencia del CJF
 
 ###### Artículo 96.
 
@@ -893,9 +1081,11 @@ Asimismo, el CJF procurará la celebración de convenios de interconexión con l
 
 Finalmente, las juezas y jueces que conozcan de las solicitudes de extradición y de las medidas precautorias respectivas, garantizarán que los expedientes electrónicos que tengan radicados se encuentren debidamente integrados, para los efectos previstos en el artículo 95 del presente Acuerdo General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 101.
 
-En los procesos penales federales tramitados conforme al sistema mixto, tanto en el proceso como en la etapa de ejecución de sentencia, será posible utilizar videoconferencias para la celebración de audiencias y la práctica de las diligencias cuya naturaleza lo permita.
+En los procesos penales federales tramitados conforme al sistema mixto, tanto en el proceso como en la etapa de ejecución de sentencia, deberá procurarse la utilización de videoconferencias para la celebración de audiencias y la práctica de las diligencias cuya naturaleza lo permita.
 
 Adicionalmente, será posible recibir y tramitar promociones electrónicas, así como realizar notificaciones electrónicas. No obstante, la integración de las constancias generadas con anterioridad a la entrada en vigor del presente Acuerdo General, a los expedientes electrónicos que al efecto se formen, estará sujeta a las cargas de trabajo, atendiendo al volumen y antigüedad de las causas tramitadas.
 
@@ -969,11 +1159,13 @@ La tramitación electrónica de pedimentos ante el Centro Nacional de Justicia E
 
 Salvo disposición expresa en el presente apartado, resultan aplicables a la materia laboral las reglas previstas en los capítulos precedentes.
 
-> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 107.
 
-En los Tribunales Laborales Federales se hará uso del Portal de Servicios en Línea para la tramitación de los asuntos de su conocimiento, lo cual incluye, enunciativamente, la presentación de demandas, recursos, incidentes y promociones, integración y consulta de expedientes digitales, así como la práctica de notificaciones electrónicas. Asimismo, se podrán celebrar audiencias mediante videoconferencia, conforme la normativa aplicable emitida por el CJF y la Ley Federal del Trabajo.
+En los Tribunales Laborales Federales se hará uso del Portal de Servicios en Línea para la tramitación de los asuntos de su conocimiento, lo cual incluye, enunciativamente, la presentación de demandas, recursos, incidentes y promociones, integración y consulta de expedientes digitales, así como la práctica de notificaciones electrónicas. Asimismo, deberá procurarse la celebración de audiencias mediante videoconferencia, conforme la normativa aplicable emitida por el CJF y la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 En términos de lo dispuesto en los artículos 739, 739 Ter, 742 Bis, 742 Ter, 744 y demás relativos aplicables de la Ley Federal del Trabajo, para la consulta del expediente electrónico y para la práctica de notificaciones electrónicas, el usuario del Portal de Servicios en Línea servirá como buzón electrónico ante el órgano jurisdiccional. Para actuar desde dicho Portal, las partes deberán contar con Firma Electrónica.
 
@@ -983,15 +1175,15 @@ En términos de lo dispuesto en los artículos 739, 739 Ter, 742 Bis, 742 Ter, 7
 
 Para la presentación de demandas y promociones electrónicas ante los Tribunales Federales de Justicia Laboral, las usuarias y usuarios deberán acceder al módulo de “Ingresa al Portal”, seleccionar la opción “Tribunales Laborales Federales”, ingresar a través de la Firma Electrónica vigente que se vinculó al registrarse en el Portal, anotar la información solicitada y seleccionar el Tribunal que corresponda. Dentro del módulo, deberán ingresar el archivo electrónico que contenga la demanda o promoción, o bien, utilizarán el cuadro de texto en blanco que se encontrará a su disposición. A continuación, agregarán su firma electrónica vigente, capturarán un código de seguridad y enviarán su archivo. Asimismo, podrán enviar los archivos electrónicos que contengan documentos anexos a la solicitud.
 
-> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 109.
 
-Una vez enviada la demanda o promoción, el sistema generará un acuse de recepción electrónica en el que se señalarán los datos de identificación del promovente, el nombre del archivo electrónico que contenga los documentos, la fecha y hora de envío y recepción, así como un folio electrónico. En los casos en que se proporcione una cuenta de correo electrónico al momento de enviar la solicitud, el acuse de recepción electrónica se remitirá automáticamente al correo.
+Una vez enviada la demanda o promoción, el sistema generará un acuse de recepción electrónica en el que se señalarán los datos de identificación del promovente, el nombre del archivo electrónico que contenga los documentos, la fecha y hora de envío y recepción, así como un folio electrónico.
 
-Cada documento electrónico que se reciba contendrá en la parte final una evidencia criptográfica de la Firma Electrónica que mostrará, entre otros datos, si el certificado con el que se firmó se encuentra vigente a la fecha de su incorporación al sistema. La incorporación de la promoción respectiva al expediente físico deberá incluir la evidencia criptográfica de la firma.
+Cada documento electrónico que se reciba contendrá en la parte final una evidencia criptográfica de la Firma Electrónica que mostrará, entre otros datos, si el certificado con el que se firmó se encuentra vigente a la fecha de su incorporación al sistema. Los documentos recibidos de manera electrónica se integrarán únicamente en el expediente electrónico, sin la necesidad de su integración en el expediente físico.
 
-Al respecto, las demandas y promociones se registrarán en el módulo de Oficialía de Partes del Sistema Electrónico del Poder Judicial de la Federación, conjuntamente con las que se presenten de manera impresa, y se dará el trámite correspondiente.
+Al respecto, las demandas y promociones se registrarán en el módulo de Oficialía de Partes del Sistema Electrónico del Poder Judicial de la Federación, conjuntamente con las que se presenten de manera física, y se dará el trámite correspondiente.
 
 > <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
@@ -1005,7 +1197,9 @@ De conformidad con lo dispuesto en el artículo 745 Ter de la Ley Federal del Tr
 
 Los Tribunales, apoyados por las áreas administrativas correspondientes, deberán realizar los ajustes logísticos, de agenda, de disponibilidad de salas, de recursos humanos y materiales, que hagan compatible la realización ordinaria de audiencias presenciales con las practicadas mediante videoconferencias, optimizando los recursos institucionales y garantizando el adecuado desahogo de las mismas.
 
-Asimismo, cada Tribunal será responsable de vigilar que los registros de las audiencias se resguarden y vinculen con el expediente electrónico respectivo, y que se digitalicen oportunamente y de manera legible las constancias complementarias impresas.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Asimismo, cada Tribunal será responsable de vigilar que los registros de las audiencias se resguarden y vinculen con el expediente electrónico respectivo, y que se digitalicen oportunamente y de manera legible las constancias complementarias físicas.
 
 En caso de que exista imposibilidad material para la digitalización de determinadas constancias complementarias aportadas por las partes, se hará de su conocimiento tal situación y se informará que las mismas se encuentran físicamente para su consulta en el Tribunal que corresponda.
 
@@ -1015,13 +1209,13 @@ En caso de que exista imposibilidad material para la digitalización de determin
 
 Al integrar los expedientes electrónicos, los Tribunales determinarán sobre qué promociones o constancias deberá guardarse sigilo en relación a una o varias partes, lo que les impedirá su visualización electrónica.
 
-> <small>(ADICIONADO POR EL PUNTO DÉCIMO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 113.
 
-Cuando se presenten demandas de amparo o se interpongan recursos o incidentes cuya tramitación deba hacerla un Tribunal u órgano jurisdiccional distinto al que conoce del asunto, los Tribunales pondrán a disposición de tal órgano la consulta del expediente electrónico a través de la plataforma correspondiente, a reserva de que se remitan los registros electrónicos respectivos.
+Cuando se presenten demandas de amparo o se interpongan recursos o incidentes cuya tramitación deba hacerla un Tribunal u órgano jurisdiccional distinto al que conoce del asunto, los Tribunales pondrán a disposición de tal órgano la consulta del expediente electrónico a través de la plataforma correspondiente.
 
-Cuando el órgano jurisdiccional que conozca del recurso o procedimiento jurisdiccional estime necesario consultar las constancias que no fueron digitalizadas, requerirá dichas constancias de manera impresa.
+Cuando el órgano jurisdiccional que conozca del recurso o procedimiento jurisdiccional estime necesario consultar constancias que no fueron digitalizadas, el Tribunal Laboral Federal deberá integrar el expediente electrónico. Excepcionalmente, previa justificación, podrá enviar las constancias de manera física.
 
 ## TRANSITORIOS
 
@@ -1318,3 +1512,57 @@ La Secretaría Ejecutiva de Administración, por conducto de las áreas administ
 DÉCIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del tribunal de apelación o, en su caso, en la oficina de correspondencia común que preste sus servicios o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
 
 DÉCIMO PRIMERO. La Visitaduría Judicial ajustará a los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Tribunales Colegiados de Apelación. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
+
+D.O.F. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 7 de noviembre de 2022.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se reanudan las labores de forma regular en los órganos jurisdiccionales del Consejo de la Judicatura Federal y las áreas administrativas del Consejo de la Judicatura Federal. Por lo tanto, se concluye el esquema establecido en los Acuerdos Generales emitidos con motivo de la contingencia sanitaria ocasionada por el virus COVID-19.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+QUINTO. Las Oficialías de Partes Comunes habilitadas en cada edificio sede de órganos jurisdiccionales para la recepción de promociones presentadas físicamente durante la contingencia sanitaria generada por el virus Covid-19, dejarán de operar a partir de la entrada en vigor del presente Acuerdo.
+
+SEXTO. Los órganos jurisdiccionales deberán garantizar la integridad del expediente electrónico. A partir del 1 de diciembre de 2022, los expedientes físicos deberán contener únicamente aquellos documentos recibidos por esa vía.
+
+SÉPTIMO. Las administraciones de los edificios sede del Poder Judicial de la Federación procurarán instalar espacios con dispositivos electrónicos que permitan la consulta de expedientes y la actuación desde el Portal de Servicios en Línea, en un plazo de cuatro meses, salvo cuando no exista disponibilidad de espacios y equipos.
+
+OCTAVO. Las referencias hechas a los Plenos Regionales y a los Tribunales Colegiados de Apelación se entenderán aplicables a los Plenos de Circuito y Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
+
+NOVENO. Se reanudan las visitas ordinarias de inspección en su modalidad presencial, por lo que éstas se llevarán a cabo físicamente en las instalaciones de los órganos jurisdiccionales, de conformidad con lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, con las excepciones que se precisarán en los transitorios siguientes. Al respecto, se considerarán las bases siguientes:
+
+I. Las visitas ordinarias que a la fecha de entrada en vigor del presente Acuerdo se encuentren pendientes de practicar conforme al calendario de inspecciones 2022, se llevarán a cabo bajo la recalendarización que al respecto realice la Visitaduría. Para llevar a cabo dichas inspecciones, de manera excepcional, se tomará en cuenta el informe especial que fue considerado en el mencionado calendario, el cual se rendirá conforme a lo señalado en el Acuerdo General 22/2020 del Pleno.
+
+II. La Visitaduría Judicial emitirá una circular en la que informará la recalendarización de las visitas que a la entrada en vigor del presente Acuerdo estén pendientes de practicarse, en donde precisará si éstas se llevarán a cabo en su modalidad a distancia o física en el recinto del órgano jurisdiccional. Dicha circular indicará los plazos para la rendición de informes especiales, los formatos autorizados por la Comisión de Vigilancia para tales efectos y la duración de las visitas, en el supuesto de que la inspección sea a distancia, se señalarán las fechas para las videoconferencias respectivas con la visitadora o visitador judicial asignado para ello.
+
+III. La Visitaduría Judicial contará con un plazo de hasta 10 días hábiles contados a partir de la entrada en vigor del presente Acuerdo para emitir y notificar la circular referente a la recalendarización de las visitas contempladas para 2022 que se encuentren pendientes de practicar, la cual se publicará en las páginas de Internet e Intranet del Consejo, y se remitirá a través del Sistema Integral de Seguimiento de Expedientes. En los mismos términos, comunicará lo relativo a la reanudación de la obligación de los órganos para rendir sus informes circunstanciados.
+
+IV. El esquema de visitas físicas se reanudará a partir del 15 de noviembre de 2022.
+
+V. Con el objeto de dar cabal cumplimiento al Calendario Anual de Visitas de este año, se faculta al Visitador General para que, de ser necesario, habilite a las y los Secretarios Técnicos “A” de la Visitaduría que estime necesarios para que funjan como Visitadores Judiciales “B” y auxilien en la práctica de las visitas.
+
+DÉCIMO. A partir de dos mil veintitrés, todas las visitas se realizarán de manera física, aun cuando algunos componentes se lleven a cabo de manera remota, con independencia de que algunas de acuerdo con lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas; por tanto, se reanuda la obligación de los órganos jurisdiccionales de rendir sus informes circunstanciados conforme a la calendarización que realice la Visitaduría.
+
+DÉCIMO PRIMERO. Los reportes e informes generados automáticamente a partir de los sistemas de gestión judicial para las visitas ordinarias, para estadística y para cualquier fin oficial ante el Consejo a que se refiere el último párrafo del artículo 265 de este Acuerdo, entrarán en vigor a partir del 15 de noviembre de 2022 y serán de cumplimiento progresivo conforme al calendario que para tal efecto expida la Visitaduría Judicial.
+
+Previo al 15 de noviembre de 2022, la Visitaduría Judicial deberá someter a consideración de la Comisión de Vigilancia los ajustes a los Listados que deberán prepararse para rendir el informe especial, disponible para los Juzgados de Distrito. Posteriormente, conforme al calendario de cumplimiento progresivo, deberá presentar los ajustes correspondientes para el resto de los órganos jurisdiccionales.
+
+DÉCIMO SEGUNDO. La Secretaría Ejecutiva de Creación de Nuevos Órganos deberá actualizar y armonizar el “Protocolo para el uso de la videoconferencia en los Juzgados de distrito en materia penal y de procesos penales federales” y la documentación relacionada conforme a lo desarrollado en el presente Acuerdo General.
+
+DÉCIMO TERCERO. La Dirección General de Gestión Judicial, en coordinación con las de Tecnologías de la Información y Estrategia y Transformación Digital, deberán, en un plazo de 6 meses, realizar los ajustes correspondientes a los sistemas de gestión judicial para garantizar la implementación del presente Acuerdo.
+
+DÉCIMO CUARTO. Las Secretarías Ejecutivas de Creación de Nuevos Órganos, Vigilancia, Visitaduría Judicial, con apoyo de la Dirección General de Gestión Judicial, deberán realizar un análisis integral de los Libros de Control con el objetivo de determinar la estrategia de transición de los Libros Electrónicos en un plazo de 6 meses.
+
+DÉCIMO QUINTO. Se derogan las disposiciones normativas que sean contrarias al presente Acuerdo y, se abrogan los Acuerdos Generales 21/2020 del Pleno del Consejo de la Judicatura Federal, relativo a la reanudación de plazos y al regreso escalonado en los Órganos Jurisdiccionales ante la contingencia por el virus COVID-19, y 22/2020 del Pleno del Consejo de la Judicatura Federal, relativo a las medidas necesarias para reactivar la totalidad de las actividades del Consejo en el contexto de la contingencia por el virus COVID-19, en relación con el periodo de vigencia.
+
+DÉCIMO SEXTO. Se instruye a la Unidad de Transparencia, en conjunto con las direcciones generales de Gestión Judicial y de Estrategia de Transformación Digital, en el ámbito de sus atribuciones, para generar y presentar a aprobación del Comité de Gobernanza Digital los lineamientos referidos en el artículo 213 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+DÉCIMO SÉPTIMO. Se instruye a la Dirección General de Archivo y Documentación, con apoyo de las direcciones generales de Estrategia y Transformación Digital y de Gestion Judicial, a presentar ante el Comité de Gobernanza Digital y la Comisión de Administración, dentro de los seis meses siguientes a la aprobación de este Acuerdo General, los proyectos o reformas que den cumplimiento a las políticas institucionales de Gobierno de Datos, Gobernanza Digital, Transformación Digital y e-Justicia, para el resguardo y preservación de los documentos o expedientes electrónicos, administrativos y jurisdiccionales, respectivamente.
+
+DÉCIMO OCTAVO. La Comisión Especial se integrará por la o el Presidente del Consejo de la Judicatura Federal y las personas Consejeras que presidan las Comisiones de Administración y de Vigilancia, conforme a lo señalado en el artículo 58 Sexies del presente Acuerdo General, a partir del 16 de enero de 2023.
+
+DÉCIMO NOVENO. La Secretaría Ejecutiva de Carrera Judicial, en coordinación con la Dirección General de Asuntos Jurídicos, deberá presentar a consideración del Pleno del Consejo, con el visto bueno de la Comisión de Carrera Judicial, la propuesta de armonización al Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, publicado en el Diario Oficial de la Federación el 3 de noviembre de 2021.
