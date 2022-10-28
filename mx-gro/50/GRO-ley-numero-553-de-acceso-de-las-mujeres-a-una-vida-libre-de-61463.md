@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2022-09-09"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -535,9 +535,17 @@ Asimismo deberán sumarse las quejas anteriores o que se hagan evidentes sobre e
 
 V. Proporcionar atención psicológica a quien viva eventos de hostigamiento o acoso sexual. La impresión diagnóstica o dictamen victimal correspondiente se aportará como prueba en los procedimientos correspondientes;
 
-VI. Implementar las sanciones administrativas respectivas para los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y dar curso a una queja de este tipo, o favorezcan el desistimiento de dicha queja; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
 
-VII. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos.
+VI. Implementar las sanciones administrativas respectivas para los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y dar curso a una queja de este tipo, o favorezcan el desistimiento de dicha queja;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+VII. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos; y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+VIII. Promover la realización de capacitaciones, talleres y cursos dirigidos a identificar conductas que constituyan todo tipo de violencia en contra de las mujeres, especialmente en el ámbito laboral y escolar; fomentando el desarrollo económico que propicie el acceso a un empleo y educación libre de violencia y hostigamiento y/o acoso sexual.
 
 ### CAPÍTULO IV. DE LA VIOLENCIA EN LA COMUNIDAD
 
@@ -903,7 +911,13 @@ V. Educar en los derechos humanos a las mujeres en su lengua materna;
 
 VI. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural del Estado;
 
-VII. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+VII. Garantizar que los usos y costumbres de las comunidades indígenas, así como las de toda la sociedad, no socaven, limiten o violen los derechos humanos de las mujeres y niñas;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+VII BIS. Erradicar cualquier acto o práctica, que denigre, menoscabe la dignidad y los derechos humanos de las niñas y mujeres, incluidas las basadas en tradiciones y usos o costumbres, que tenga como resultado final la venta de niñas y mujeres, matrimonios forzados y explotación en cualquiera de sus formas;
 
 VIII. Promover, en coordinación con la federación, la creación de Programas de reeducación e inserción social, con perspectiva de género, para agresores de mujeres;
 
@@ -1620,5 +1634,25 @@ P.O. 9 DE SEPTIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 230 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII Y SE LE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 25 DE LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231 POR EL QUE SE REFORMA LA FRACCIÓN VII Y SE LE ADICIONA UNA FRACCIÓN VII BIS AL ARTÍCULO 44 DE LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
