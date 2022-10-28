@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-indigenas-y-88483"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-22"
-last_updated: "2020-02-12"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS INDÍGENAS Y AFROMEXICANAS EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de junio de 2012.
 
@@ -115,7 +115,9 @@ VII. Municipios: Los Municipios del Estado Libre y Soberano de Nuevo León;
 
 VIII. Representantes indígenas o afromexicanos: Personas designadas por sus agrupaciones indígenas o afromexicanos, de acuerdo a sus sistemas normativos internos derivados de Usos y costumbres;
 
-IX. Secretaría: La Secretaría de Desarrollo Social del Gobierno del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+IX. Secretaría: La Secretaría de Igualdad e Inclusión.
 
 X. Sistemas normativos internos: Conjunto de normas jurídicas, escritas y orales de carácter consuetudinario que los indígenas o afromexicanos utilizan para regular su organización, actividades y la resolución de conflictos, siempre que con ello no se contravengan los derechos de las personas y pueblos indígenas o afromexicanos; y
 
@@ -349,7 +351,7 @@ Las autoridades estatales y municipales dentro del ámbito de sus respectivas co
 
 ###### Artículo 18.
 
-Los indígenas y afromexicanos tienen derecho al acceso efectivo a los servicios de salud física y mental, así como al acceso a asistencia social sin discriminación alguna.
+Los indígenas y afromexicanos tienen derecho al acceso efectivo a los servicios de salud física y mental, así como al acceso a asistencia social sin discriminación alguna y preferentemente serán proporcionados en su lengua y con asesoría adecuada, dichas (sic) asesoría podrá ser realizada mediante el uso de herramientas digitales.
 
 (NOTA: EL 23 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 123/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 265, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
 
@@ -423,9 +425,7 @@ Los indígenas y afromexicanos tienen derecho a establecer medios de comunicaci�
 
 ### Capítulo IV. Del derecho a la salud
 
-(NOTA: EL 23 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 123/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 265, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
-
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 27.
 
@@ -485,7 +485,7 @@ El Estado, en coordinación con las Entidades de origen de los indígenas y afro
 
 ###### Artículo 31.
 
-En los procesos penales, civiles, administrativos o cualquier procedimiento desarrollado en forma de juicio, que sea competencia de las autoridades del Estado y donde intervenga un indígena o afromexicano, éste contará con un abogado o defensor público y un traductor que conozca su lengua y cultura.
+En los procesos penales, civiles, administrativos o cualquier procedimiento desarrollado en forma de juicio, que sea competencia de las autoridades del Estado y donde intervenga un indígena o afromexicano, éste contará con un abogado o defensor público y un traductor que conozca su lengua y cultura. Dicho traductor podrá apoyar mediante el uso de herramientas digitales, para garantizar plenamente el derecho de acceso a la justicia.
 
 Los jueces y tribunales deberán tomar en consideración, la condición indígena del acusado.
 
@@ -571,9 +571,7 @@ En la operación de dicho sistema, la Secretaría deberá observar las disposici
 
 ### Capítulo único
 
-(NOTA: EL 23 DE FEBRERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 123/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 265, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NUEVO LEÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
-
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
 
 ## Título Cuarto. Del Sistema de información Indígena y Afromexicano
 
@@ -638,3 +636,11 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- La referencia a los pueblos indígenas y a las personas indígenas en cualquier ordenamiento jurídico del Estado y los Municipios de Nuevo León se entenderá hecha también a los pueblos afromexicanos y a las personas afromexicanas.
 
 Tercero.- En un plazo perentorio de 180 días naturales, contados a partir de la publicación de este Decreto, el Ejecutivo del Estado y los Municipios deberán adecuar los ordenamientos jurídicos necesarios en términos de lo dispuesto en el presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 250. SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 3, EL ARTÍCULO18 Y 31, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS INDÍGENAS Y AFROMEXICANAS EN EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para dar cumplimiento a las obligaciones financieras y económicas emanadas del presente Decreto, durante el ejercicio fiscal presente, estas se realizarán acorde a las capacidades financieras del Estado.
