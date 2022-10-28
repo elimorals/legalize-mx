@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-una-convivencia-libre-de-violencia-en-el-entorno-95029
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-02"
-last_updated: "2020-07-22"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA UNA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 2 de julio de 2013.
 
@@ -349,7 +349,11 @@ IV. Realizar acciones de capacitación y sensibilización a su personal en el te
 
 V. Informar a la Secretaría sobre casos que puedan constituir violencia escolar que detecte en los servicios que preste como parte de sus actividades; y
 
-VI. Las demás que le señalen las disposiciones legales aplicables a esta Ley.
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+VI. Desarrollar en conjunto con la Secretaría la impartición de programas de educación que promuevan la crianza positiva, en términos de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, y
+
+VII. Las demás que le señalen las disposiciones legales aplicables a esta Ley.
 
 Atribuciones de la Procuraduría de los Derechos Humanos
 
@@ -892,3 +896,9 @@ En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y A
 Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 103 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VI, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 20 DE LA LEY PARA UNA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
