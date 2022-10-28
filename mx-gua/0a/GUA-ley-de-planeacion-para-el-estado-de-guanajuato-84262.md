@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-planeacion-para-el-estado-de-guanajuato-84262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-27"
-last_updated: "2018-10-10"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 10 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, martes 27 de diciembre de 2011.
 
@@ -355,6 +353,10 @@ a) Programas derivados del programa de gobierno municipal.
 
 Artículo 24 bis. Los instrumentos del sistema de planeación deberán contener, por lo menos, un diagnóstico general sobre la problemática que buscan atender, los objetivos específicos y su contribución al logro de las metas del Plan Estatal o Municipal de Desarrollo, las estrategias y líneas de acción que permitan alcanzar los objetivos del programa, así como los indicadores de desempeño que permitan su monitoreo, evaluación y actualización.
 
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+En todos los casos, los instrumentos del sistema de planeación establecerán los mecanismos para incorporar de forma transversal la perspectiva de género.
+
 > <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 25.
@@ -612,3 +614,9 @@ Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 100 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 24 BIS DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
