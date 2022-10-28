@@ -4,7 +4,7 @@ identifier: "FED-ley-del-sistema-de-horario-en-los-estados-unidos-mexicanos-2268
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-29"
-last_updated: "2015-01-31"
+last_updated: "2022-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22685&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-12-28"
 ---
 # LEY DEL SISTEMA DE HORARIO EN LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE 28 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA DE HORARIO EN LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2022 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el sábado 29 de diciembre de 2001.
 
@@ -108,3 +110,15 @@ D.O.F. 6 DE ENERO DE 2010.
 D.O.F. 31 DE ENERO DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero.- La presente Ley entrará en vigor el 30 de octubre de 2022.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto, se abroga la Ley del Sistema de Horario en los Estados Unidos Mexicanos, publicada el 29 de diciembre de 2001 en el Diario Oficial de la Federación.
+
+Tercero.- A partir de la entrada en vigor de la presente Ley, queda abrogado el Decreto por el que se Establece el Horario Estacional que se Aplicará en los Estados Unidos Mexicanos, publicado el 1 de marzo de 2002 en el Diario Oficial de la Federación, y sus subsecuentes reformas.
+
+Cuarto.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
