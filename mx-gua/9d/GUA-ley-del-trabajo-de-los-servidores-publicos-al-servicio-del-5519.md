@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-trabajo-de-los-servidores-publicos-al-servicio-del-5519
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-04"
-last_updated: "2021-09-24"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de diciembre de 1992.
 
@@ -212,6 +212,12 @@ POR CADA SEIS DIAS DE TRABAJO, DISFRUTARA EL TRABAJADOR, POR LO MENOS, DE UN DIA
 SE PROCURARA QUE EL DIA DE DESCANSO SEMANAL SEA EL DOMINGO.
 
 LOS TRABAJADORES QUE PRESTEN SUS SERVICIOS DURANTE EL DIA DOMINGO, TENDRAN DERECHO A UNA PRIMA DOMINICAL DE POR LO MENOS EL VEINTICINCO POR CIENTO, SOBRE EL MONTO DE SU SUELDO O SALARIO DE LOS DIAS ORDINARIOS DE TRABAJO.
+
+> <small>(ADICIONADO, P. O. 28 DE OCTUBRE DE 2022)</small>
+
+ARTICULO 22 BIS. LOS TRABAJADORES DEL ESTADO Y DE LOS MUNICIPIOS QUE HAYAN LABORADO NOVENTA DIAS CONSECUTIVOS TENDRAN DERECHO A UN DIA DE LICENCIA AL AÑO CON GOCE INTEGRO DE SUELDO, PARA SOMETERSE A LA REALIZACION DE EXAMENES MEDICOS PREVENTIVOS. SE DEBERA PRESENTAR EL CERTIFICADO MEDICO EXPEDIDO POR UNA INSTITUCION PUBLICA O PRIVADA DE SALUD.
+
+SE DEBERA DAR AVISO QUINCE DIAS PREVIOS A LA REALIZACION DE LOS EXAMENES.
 
 ###### ARTICULO 23.
 
@@ -507,11 +513,17 @@ C) PARA DESEMPEÑAR CARGOS DE ELECCION POPULAR;
 
 D) A LOS TRABAJADORES QUE SUFRAN ENFERMEDADES O ACCIDENTES NO PROFESIONALES, EN LOS TERMINOS DEL ARTICULO 75 DE LA PRESENTE LEY; Y
 
-E) POR RAZONES DE CARACTER PERSONAL DEL TRABAJADOR.
+> <small>(REFORMADO, P. O. 28 DE OCTUBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+E) POR RAZONES DE CARACTER PERSONAL DEL TRABAJADOR,
 
-F) EN LOS CASOS DE LOS SUPUESTOS COMPRENDIDOS EN EL ARTÍCULO 23 BIS DE ESTA LEY.
+> <small>(REFORMADO, P. O. 28 DE OCTUBRE DE 2022)</small>
+
+F) EN LOS CASOS DE LOS SUPUESTOS COMPRENDIDOS EN EL ARTICULO 23 BIS DE ESTA LEY, Y
+
+> <small>(ADICIONADO, P. O. 28 DE OCTUBRE DE 2022)</small>
+
+G) PARA SOMETERSE A LA REALIZACION DE EXAMENES MEDICOS PREVENTIVOS, EN LOS TERMINOS DEL ARTICULO 22 BIS DE ESTA LEY.
 
 VII.- HACER LAS DEDUCCIONES, EN LOS SALARIOS, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO 34 DE ESTA LEY;
 
@@ -1614,3 +1626,11 @@ P.O. 24 DE SEPTIEMBRE DE 2021.
 Artículo primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo segundo. Las dependencias de los poderes Ejecutivo, Legislativo y Judicial, de los organismos autónomos, de los municipios, así como los organismos que brinden seguridad social a los trabajadores al servicio del estado de Guanajuato y de sus municipios, en el ámbito de sus respectivas competencias, deberán realizar los ajustes a los reglamentos para el cumplimiento del presente decreto, en un plazo de noventa días contados a partir de que este inicie su vigencia.
+
+P. O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 101 MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 22 BIS Y 46, FRACCIÓN VI CON UN INCISO G) A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los poderes Ejecutivo, Legislativo, Judicial, organismos autónomos y los municipios, en el ámbito de sus respectivas competencias deberán adecuar su normativa interna en un plazo de noventa días posteriores a la entrada en vigor del presente Decreto.
