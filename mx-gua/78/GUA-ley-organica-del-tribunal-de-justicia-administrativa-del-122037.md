@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-tribunal-de-justicia-administrativa-del-122037
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-20"
-last_updated: "2020-11-03"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -138,6 +138,10 @@ El Tribunal de Justicia Administrativa del Estado de Guanajuato tendrá competen
 ###### Artículo 10.
 
 El Tribunal de Justicia Administrativa del Estado de Guanajuato se integrará por los Magistrados Propietarios y, en su caso, por magistrados supernumerarios, designados en los términos del artículo 63 fracción XXI de la Constitución Política para el Estado de Guanajuato y funcionará en Pleno o en Salas.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+Para dar cumplimiento al principio de paridad de género establecido en el segundo párrafo del artículo 81 de la Constitución Política para el Estado de Guanajuato el Tribunal deberá estar integrado de manera que en ningún caso podrán ser más personas magistrados de un mismo género.
 
 Contará además, con las unidades que prevean esta Ley y su reglamento interior.
 
@@ -894,3 +898,9 @@ P.O. 3 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVOS (SIC) NÚMERO 224 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS A LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO Y A LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 98 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 170 Y 175 EN SU PRIMER PÁRRAFO RESPECTIVAMENTE Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 170 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 RECORRIÉNDOSE LOS SUBSECUENTES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
