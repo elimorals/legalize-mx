@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2009-del-pleno-del-consejo-de-la-68556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-27"
-last_updated: "2022-10-26"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-15"
 
 ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de mayo de 2009.
 
@@ -55,7 +55,9 @@ Las sesiones de los tribunales colegiados de Circuito serán ordinarias y extrao
 
 Ambas sesiones podrán celebrarse de manera presencial o a través de videoconferencia, utilizando la plataforma tecnológica prevista en el Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo y su Anexo Técnico.
 
-Cuando las sesiones se lleven a cabo por videoconferencia, el Presidente del Tribunal, deberá establecer las razones o causas que justifiquen y motiven la celebración de la sesión por este método, lo cual será asentado en el acta correspondiente.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Se deberá señalar si la sesión respectiva se celebrará presencialmente, por videoconferencia o en un esquema híbrido.
 
 > <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
 
@@ -111,11 +113,11 @@ IV. El orden en que corresponderá la discusión de los asuntos de cada ponencia
 
 V. El número mínimo de asuntos que cada magistrado procurará listar en cada sesión, así como un límite máximo, en el entendido de que previo acuerdo, éste podrá variar atendiendo a la carga de trabajo que presente el tribunal o a causas extraordinarias, lo que deberá asentarse en el acta de la sesión respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LOS SIMILARES 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO; Y 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, EN RELACIÓN CON LAS VIDEOCONFERENCIAS, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 6.
 
-Cada ponencia entregará o enviará por correo electrónico institucional, según corresponda a las otras dos, la lista de los asuntos que deban verse en cada sesión y los proyectos respectivos, a más tardar el día de la publicación a la que se refiere el artículo 184, párrafo primero, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+Cada ponencia consultará en el Sistema Electrónico del CJF la lista de los asuntos que deban verse en cada sesión y los proyectos respectivos, a más tardar el día de la publicación a la que se refiere el artículo 184, párrafo primero, de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Este listado se fijará en los estrados del tribunal, identificando los asuntos, el día y la hora de inicio de la sesión, y el orden en que se discutirán de conformidad con el acuerdo al que hace referencia el artículo 5, fracción IV, de este Acuerdo.
 
@@ -136,6 +138,10 @@ Las sesiones se llevarán a cabo en la sala habilitada para tal efecto o a trav�
 En el acta de sesión se asentará lo siguiente:
 
 I. La fecha en que se lleva a cabo;
+
+> <small>(ADICIONADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+I. Bis. La modalidad en que se celebrará la sesión, presencial o por videoconferencia;
 
 II. La hora de apertura y conclusión;
 
@@ -249,23 +255,15 @@ La instalación del equipo de grabación referido, tendrá como finalidad videog
 
 El sistema de grabación, desde el punto de vista técnico, deberá ser instalado de tal manera que permita ubicar con facilidad, dentro de cada una de las sesiones, el debate de aquellos asuntos que deberán ser difundidos conforme a los lineamientos del presente Acuerdo.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, D.O.F. 28 DE ENERO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 20.
 
-Se generará un archivo digital por cada sesión videograbada, el cual será guardado en un dispositivo de almacenamiento de datos.
-
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
-
-Las sesiones de los Tribunales Colegiados de Circuito que hayan sido videograbadas, se incorporarán a una biblioteca virtual que estará a disposición del público en general; en aquellos casos en que no sea factible incorporar la videograbación, se deberá integrar el acta de la sesión a la biblioteca virtual, lo que deberá encontrar justificación en un acuerdo del Tribunal debidamente fundado y motivado, el cual deberá ser remitido a la Unidad de Transparencia, cuyo titular determinará lo conducente.
-
-Previo a remitir el video o acta respectiva para ser integrada a la Biblioteca Virtual de Sesiones, el Secretario de Acuerdos corroborará que en su contenido se encuentre garantizada la protección de datos personales, por lo que en caso de advertir la mención de alguno, deberá proceder a su supresión.
-
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+Las sesiones de los Tribunales Colegiados de Circuito que hayan sido videograbadas, previa verificación de la protección de los datos personales a cargo de los órganos jurisdiccionales, se incorporarán a una biblioteca virtual que estará a disposición del público en general. En aquellos casos en que no sea factible incorporar la videograbación, se deberá integrar el acta de la sesión a la biblioteca virtual, lo que deberá encontrar justificación en un acuerdo del Tribunal debidamente fundado y motivado, el cual deberá ser remitido a la Unidad de Transparencia, cuya persona titular determinará lo conducente.
 
 ###### Artículo 21.
 
-El Secretario de Acuerdos del órgano jurisdiccional o la persona que al efecto se designe, bajo su responsabilidad, tendrá el resguardo de la videograbación de las sesiones en estricto orden cronológico.
+(DEROGADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 22.
 
@@ -275,15 +273,13 @@ La videograbación de la sesión no deberá interrumpirse, sino sólo en caso fo
 
 Al inicio de cada receso, el Presidente deberá indicar la hora en que comienza y el tiempo de duración, con el fin de que se pause temporalmente la grabación; asimismo, al regreso de éste, indicará la hora en que se retoma la sesión, con el objeto de evitar que en la videograbación aparezcan espacios sin actividad por parte de los magistrados.
 
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 23.
 
-El dispositivo de almacenamiento de datos en donde se guarde el archivo digital de imagen y video de las sesiones deberá conservarse en el tribunal colegiado, en el espacio que al efecto se habilite.
+La persona servidora pública que haga uso indebido de los archivos digitales de las videograbaciones, será sancionado (sic) administrativamente en términos de la Ley Orgánica del Poder Judicial de la Federación.
 
-El servidor público que haga uso indebido de los archivos digitales de las videograbaciones, será sancionado administrativamente en términos de la Ley Orgánica del Poder Judicial de la Federación.
-
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
-
-La unidad administrativa competente en materia informática emitirá los lineamientos para incorporar el video y, en su caso, el acta respectiva a la Biblioteca Virtual de Sesiones.
+La DGTI y la DGETD en los términos que determine el Comité de Gobernanza Digital, en coordinación con la Unidad de Transparencia, deben emitir los lineamientos para incorporar el video y, en su caso, el acta respectiva a la Biblioteca Virtual de Sesiones.
 
 ###### Artículo 24.
 
@@ -307,7 +303,7 @@ La unidad administrativa competente en materia informática emitirá los lineami
 
 ###### Artículo 29.
 
-La Comisión de Administración de este Consejo, en el ámbito de sus atribuciones proveerá lo necesario a fin de que se dote a cada tribunal colegiado con el mobiliario adecuado que permita la guarda y custodia de los dispositivos de almacenamiento de datos que contengan los archivos digitales de las sesiones.
+(DEROGADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 30.
 
@@ -480,3 +476,57 @@ La Secretaría Ejecutiva de Administración, por conducto de las áreas administ
 DÉCIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del tribunal de apelación o, en su caso, en la oficina de correspondencia común que preste sus servicios o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
 
 DÉCIMO PRIMERO. La Visitaduría Judicial ajustará a los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Tribunales Colegiados de Apelación. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
+
+D.O.F. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 7 de noviembre de 2022.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se reanudan las labores de forma regular en los órganos jurisdiccionales del Consejo de la Judicatura Federal y las áreas administrativas del Consejo de la Judicatura Federal. Por lo tanto, se concluye el esquema establecido en los Acuerdos Generales emitidos con motivo de la contingencia sanitaria ocasionada por el virus COVID-19.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+QUINTO. Las Oficialías de Partes Comunes habilitadas en cada edificio sede de órganos jurisdiccionales para la recepción de promociones presentadas físicamente durante la contingencia sanitaria generada por el virus Covid-19, dejarán de operar a partir de la entrada en vigor del presente Acuerdo.
+
+SEXTO. Los órganos jurisdiccionales deberán garantizar la integridad del expediente electrónico. A partir del 1 de diciembre de 2022, los expedientes físicos deberán contener únicamente aquellos documentos recibidos por esa vía.
+
+SÉPTIMO. Las administraciones de los edificios sede del Poder Judicial de la Federación procurarán instalar espacios con dispositivos electrónicos que permitan la consulta de expedientes y la actuación desde el Portal de Servicios en Línea, en un plazo de cuatro meses, salvo cuando no exista disponibilidad de espacios y equipos.
+
+OCTAVO. Las referencias hechas a los Plenos Regionales y a los Tribunales Colegiados de Apelación se entenderán aplicables a los Plenos de Circuito y Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
+
+NOVENO. Se reanudan las visitas ordinarias de inspección en su modalidad presencial, por lo que éstas se llevarán a cabo físicamente en las instalaciones de los órganos jurisdiccionales, de conformidad con lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, con las excepciones que se precisarán en los transitorios siguientes. Al respecto, se considerarán las bases siguientes:
+
+I. Las visitas ordinarias que a la fecha de entrada en vigor del presente Acuerdo se encuentren pendientes de practicar conforme al calendario de inspecciones 2022, se llevarán a cabo bajo la recalendarización que al respecto realice la Visitaduría. Para llevar a cabo dichas inspecciones, de manera excepcional, se tomará en cuenta el informe especial que fue considerado en el mencionado calendario, el cual se rendirá conforme a lo señalado en el Acuerdo General 22/2020 del Pleno.
+
+II. La Visitaduría Judicial emitirá una circular en la que informará la recalendarización de las visitas que a la entrada en vigor del presente Acuerdo estén pendientes de practicarse, en donde precisará si éstas se llevarán a cabo en su modalidad a distancia o física en el recinto del órgano jurisdiccional. Dicha circular indicará los plazos para la rendición de informes especiales, los formatos autorizados por la Comisión de Vigilancia para tales efectos y la duración de las visitas, en el supuesto de que la inspección sea a distancia, se señalarán las fechas para las videoconferencias respectivas con la visitadora o visitador judicial asignado para ello.
+
+III. La Visitaduría Judicial contará con un plazo de hasta 10 días hábiles contados a partir de la entrada en vigor del presente Acuerdo para emitir y notificar la circular referente a la recalendarización de las visitas contempladas para 2022 que se encuentren pendientes de practicar, la cual se publicará en las páginas de Internet e Intranet del Consejo, y se remitirá a través del Sistema Integral de Seguimiento de Expedientes. En los mismos términos, comunicará lo relativo a la reanudación de la obligación de los órganos para rendir sus informes circunstanciados.
+
+IV. El esquema de visitas físicas se reanudará a partir del 15 de noviembre de 2022.
+
+V. Con el objeto de dar cabal cumplimiento al Calendario Anual de Visitas de este año, se faculta al Visitador General para que, de ser necesario, habilite a las y los Secretarios Técnicos “A” de la Visitaduría que estime necesarios para que funjan como Visitadores Judiciales “B” y auxilien en la práctica de las visitas.
+
+DÉCIMO. A partir de dos mil veintitrés, todas las visitas se realizarán de manera física, aun cuando algunos componentes se lleven a cabo de manera remota, con independencia de que algunas de acuerdo con lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas; por tanto, se reanuda la obligación de los órganos jurisdiccionales de rendir sus informes circunstanciados conforme a la calendarización que realice la Visitaduría.
+
+DÉCIMO PRIMERO. Los reportes e informes generados automáticamente a partir de los sistemas de gestión judicial para las visitas ordinarias, para estadística y para cualquier fin oficial ante el Consejo a que se refiere el último párrafo del artículo 265 de este Acuerdo, entrarán en vigor a partir del 15 de noviembre de 2022 y serán de cumplimiento progresivo conforme al calendario que para tal efecto expida la Visitaduría Judicial.
+
+Previo al 15 de noviembre de 2022, la Visitaduría Judicial deberá someter a consideración de la Comisión de Vigilancia los ajustes a los Listados que deberán prepararse para rendir el informe especial, disponible para los Juzgados de Distrito. Posteriormente, conforme al calendario de cumplimiento progresivo, deberá presentar los ajustes correspondientes para el resto de los órganos jurisdiccionales.
+
+DÉCIMO SEGUNDO. La Secretaría Ejecutiva de Creación de Nuevos Órganos deberá actualizar y armonizar el “Protocolo para el uso de la videoconferencia en los Juzgados de distrito en materia penal y de procesos penales federales” y la documentación relacionada conforme a lo desarrollado en el presente Acuerdo General.
+
+DÉCIMO TERCERO. La Dirección General de Gestión Judicial, en coordinación con las de Tecnologías de la Información y Estrategia y Transformación Digital, deberán, en un plazo de 6 meses, realizar los ajustes correspondientes a los sistemas de gestión judicial para garantizar la implementación del presente Acuerdo.
+
+DÉCIMO CUARTO. Las Secretarías Ejecutivas de Creación de Nuevos Órganos, Vigilancia, Visitaduría Judicial, con apoyo de la Dirección General de Gestión Judicial, deberán realizar un análisis integral de los Libros de Control con el objetivo de determinar la estrategia de transición de los Libros Electrónicos en un plazo de 6 meses.
+
+DÉCIMO QUINTO. Se derogan las disposiciones normativas que sean contrarias al presente Acuerdo y, se abrogan los Acuerdos Generales 21/2020 del Pleno del Consejo de la Judicatura Federal, relativo a la reanudación de plazos y al regreso escalonado en los Órganos Jurisdiccionales ante la contingencia por el virus COVID-19, y 22/2020 del Pleno del Consejo de la Judicatura Federal, relativo a las medidas necesarias para reactivar la totalidad de las actividades del Consejo en el contexto de la contingencia por el virus COVID-19, en relación con el periodo de vigencia.
+
+DÉCIMO SEXTO. Se instruye a la Unidad de Transparencia, en conjunto con las direcciones generales de Gestión Judicial y de Estrategia de Transformación Digital, en el ámbito de sus atribuciones, para generar y presentar a aprobación del Comité de Gobernanza Digital los lineamientos referidos en el artículo 213 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+DÉCIMO SÉPTIMO. Se instruye a la Dirección General de Archivo y Documentación, con apoyo de las direcciones generales de Estrategia y Transformación Digital y de Gestion Judicial, a presentar ante el Comité de Gobernanza Digital y la Comisión de Administración, dentro de los seis meses siguientes a la aprobación de este Acuerdo General, los proyectos o reformas que den cumplimiento a las políticas institucionales de Gobierno de Datos, Gobernanza Digital, Transformación Digital y e-Justicia, para el resguardo y preservación de los documentos o expedientes electrónicos, administrativos y jurisdiccionales, respectivamente.
+
+DÉCIMO OCTAVO. La Comisión Especial se integrará por la o el Presidente del Consejo de la Judicatura Federal y las personas Consejeras que presidan las Comisiones de Administración y de Vigilancia, conforme a lo señalado en el artículo 58 Sexies del presente Acuerdo General, a partir del 16 de enero de 2023.
+
+DÉCIMO NOVENO. La Secretaría Ejecutiva de Carrera Judicial, en coordinación con la Dirección General de Asuntos Jurídicos, deberá presentar a consideración del Pleno del Consejo, con el visto bueno de la Comisión de Carrera Judicial, la propuesta de armonización al Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, publicado en el Diario Oficial de la Federación el 3 de noviembre de 2021.
