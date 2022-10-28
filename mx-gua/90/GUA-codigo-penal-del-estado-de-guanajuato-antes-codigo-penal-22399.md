@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2022-06-14"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -2255,7 +2255,9 @@ V.- Se realice aprovechando la falta de vigilancia, el desorden o confusión der
 
 VI.- Se ejecute con participación de dos o más personas.
 
-VII.- El objeto robado sea un expediente, documento o valores que obren en dependencia pública.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+VII.- El objeto robado sea un expediente, documento o valores que obren en institución pública, o bienes que pertenezcan o estén al servicio de la misma.
 
 VIII.- El objeto robado sea un vehículo de motor.
 
@@ -4408,6 +4410,14 @@ Artículo Segundo. Los procedimientos penales que se estén substanciando a la e
 P.O. 14 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 77, MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y V; Y SE ADICIONA UN PÁRRAFO CUARTO, TODOS DEL ARTÍCULO 153-A DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 102 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 194 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
