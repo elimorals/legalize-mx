@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2022-05-27"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -1471,11 +1471,7 @@ VII. La fuerza o miedo graves. En caso de rapto subsiste el impedimento entre el
 
 VIII. La embriaguez habitual, la morfinomanía, eteromanía y el uso indebido y persistente de las demás drogas enervantes. Las enfermedades o conformaciones especiales que sean contrarias a los fines del matrimonio, bien porque impidan las funciones relativas, bien porque sean contagiosas e incurables o bien porque científicamente hagan prever algún perjuicio grave o degeneración para los descendientes en ese matrimonio. La impotencia no será impedimento cuando exista por la edad o por otra causa cualquiera, en alguno o en ambos contrayentes y sea conocida de ellos;
 
-(NOTA: EL 30 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
-
-IX. LA DISCAPACIDAD INTELECTUAL;
+IX. (DEROGADA, P.O. 28 DE OCTUBRE DE 2022)
 
 X. El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
@@ -3861,11 +3857,7 @@ Tienen incapacidad natural y legal:
 
 I. Los menores de edad;
 
-(NOTA: EL 30 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
-
-II. LOS MAYORES DE EDAD CON DISCAPACIDAD INTELECTUAL, AUN CUANDO TENGAN INTERVALOS LÚCIDOS;
+II. (DEROGADA, P.O. 28 DE OCTUBRE DE 2022)
 
 III. Los sordomudos que no sepan leer ni escribir;
 
@@ -17660,3 +17652,9 @@ P.O. 27 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 72 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 99 MEDIANTE EL CUAL SE DEROGAN LA FRACCIÓN IX DEL ARTÍCULO 153 Y LA FRACCIÓN II DEL ARTÍCULO 503 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
