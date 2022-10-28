@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2022-04-22"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -1943,9 +1943,21 @@ e) Un representante de los Gobiernos Municipales de la Región- Centro Periféri
 
 Lo anterior, de conformidad con el criterio del Instituto Nacional para el Federalismo y el Desarrollo Municipal.
 
-III. Representantes de las organizaciones de la sociedad civil; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
 
-IV. Representantes de los sectores productivos.
+III. Representantes de las organizaciones de la sociedad civil;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+IV. Representantes de los sectores productivos;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+V. Un representante del Congreso del Estado de Nuevo León, que será un integrante de la Comisión de Medio Ambiente y Desarrollo Sustentable; y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+VI. Un representante del Consejo Ciudadano de Protección y Bienestar Animal, que será quien tenga el carácter de Presidente del mismo.
 
 Lo anterior, con la finalidad de garantizar la total transparencia en el manejo y uso de los recursos que se administren por la fiduciaria para la protección y el bienestar animal integral y sostenible.
 
@@ -2088,3 +2100,9 @@ P.O. 22 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 122. SE REFORMAN LA FRACCIÓN XLIII DEL ARTÍCULO 3, Y PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 27 Y SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 27 TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 242. SE REFORMAN LAS FRACCIONES III Y IV Y SE ADICIONAN LAS FRACCIONES V Y VI DEL ARTÍCULO 148 DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
