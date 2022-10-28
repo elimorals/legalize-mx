@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2022-10-26"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -71,7 +71,9 @@ I. Las jornadas de trabajo, períodos vacacionales; el Sistema de Registro y Con
 
 II. La creación, estructura y funcionamiento de las unidades de notificadores comunes que auxilien en las labores de actuaría de los órganos jurisdiccionales;
 
-III. El contenido y registro de los libros de control que los juzgados de Distrito, tribunales Unitarios y Colegiados de Circuito, con excepción de los que formen parte de un Centro de Justicia Penal, están obligados a llevar oficialmente a manera de mecanismos de control de los asuntos de sus respectivas competencias, como auxiliares en su supervisión por parte de los propios titulares; para los efectos de la rendición de estadística y, finalmente, a fin de facilitar los procedimientos de las visitas de inspección que se lleven a cabo;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+III. El contenido y registro de los libros de control electrónicos que los órganos jurisdiccionales, están obligados a llevar oficialmente a manera de mecanismos de control de los asuntos de sus respectivas competencias, como auxiliares en su supervisión por parte de las y los propios titulares a fin de facilitar los procedimientos de las visitas de inspección que se lleven a cabo;
 
 > <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
@@ -84,6 +86,10 @@ V. Los lineamientos para la atención de solicitudes para la publicación de edi
 Para los efectos de este Acuerdo se entenderá por:
 
 I. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales;
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+I. Bis. AG 12/2020: Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo;
 
 II. Áreas administrativas: Las señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
 
@@ -105,6 +111,18 @@ V. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
 V. Bis. Coordinación de Asesores: Coordinación de Asesores de la Presidencia;
 
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+V. Ter. DGGJ: Dirección General de Gestión Judicial;
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+V. Quater. DGETD: Dirección General de Estrategia y Transformación Digital;
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+V. Quinquies. DGTI: Dirección General de Tecnologías de la Información;
+
 VI. Exhorto: Comunicación oficial de un órgano jurisdiccional a otro de igual jerarquía;
 
 VII. Exhorto Internacional o Carta Rogatoria: Comunicación oficial que se remita al extranjero o que se reciba de él;
@@ -119,11 +137,17 @@ IX. Ley de Amparo: Ley de Amparo, Reglamentaria de los artículos 103 y 107 de l
 
 X. Ley Orgánica: Ley Orgánica del Poder Judicial de la Federación;
 
-XI. Libros de control: Los Libros de Gobierno que deberán llevar los órganos jurisdiccionales, con excepción de los que formen parte de un Centro de Justicia Penal, como mecanismo de control de los asuntos que conozcan;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+XI. Libros de control electrónico: Los Libros de Gobierno electrónicos que deberán llevar los órganos jurisdiccionales, como mecanismo de control de los asuntos que conozcan;
 
-XII. Órganos Jurisdiccionales: Tribunales de Circuito, juzgados de Distrito y Tribunales Laborales Federales;
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XI. Bis. OCC: Oficina de Correspondencia Común;
+
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XII. Órganos Jurisdiccionales: Tribunales de Circuito, juzgados de Distrito, Centros de Justicia Penal Federal y Tribunales Laborales Federales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
@@ -137,21 +161,29 @@ XIII. Pleno: Pleno del Consejo;
 
 XIV. Poder Judicial de la Federación: Los órganos señalados en el artículo 94 de la Constitución, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
 
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XIV. Bis. Portal de Servicios en Línea o Portal: Portal de Servicios en Línea del Poder Judicial de la Federación;
+
 XV. Requisitoria: Comunicación de la misma naturaleza que el despacho, pero que se utiliza únicamente en un proceso penal;
 
 XVI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)
 
-> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-XVII. SISE: Sistema Integral de Seguimiento de Expedientes;
+XVII. Sistema Electrónico del Consejo de la Judicatura Federal: Conjunto de aplicaciones, tanto de medios tecnológicos de e-Justicia como de soluciones digitales, que se desarrollen e implementen por el Consejo de la Judicatura Federal para realizar sus funciones, entre los que se identifican, enunciativamente: Portal de Servicios en Línea del Poder Judicial de la Federación; Sistema Automatizado de Turno; Sistemas de gestión, operación e información que acompañen el trámite de los asuntos de órganos jurisdiccionales o unidades administrativas; SISE; SIGE; Sistema de Monitoreo de Notificaciones; Plataforma Electrónica; Buscadores de información; Plataforma de Acceso a la Información Institucional, Plataformas o tableros de estadística, Sistema de Gestión Interna, Sistema de Gestión Documental (SIGDOC), Sistema de Seguimiento de Acuerdos de Comisiones (SISAC), Buzón de Quejas y Denuncias, entre otros;
 
-> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-XVII. Bis. SIGE: Sistema Integral de Gestión de Expedientes;
+XVII. Bis. SISE: Sistema Integral de Seguimiento de Expedientes;
 
-> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-XVII Ter. UNC: Unidades de Notificadores Comunes; y
+XVII. Ter. SIGE: Sistema Integral de Gestión de Expedientes;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XVII. Quáter. UNC: Unidades de Notificadores Comunes; y
 
 XVIII. Unidades Administrativas: Las señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
 
@@ -173,9 +205,9 @@ Cada persona titular de juzgado de Distrito, presidenta o presidente de Tribunal
 
 De manera excepcional, la jornada de trabajo podrá extenderse considerando en todo caso, las necesidades del servicio y las guardias, sin que ello implique exceder de un horario prudente y en ningún caso generar una práctica reiterada.
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-Tratándose de los tribunales laborales federales la jornada de trabajo será de lunes a viernes de las nueve a las diecinueve horas, con dos horas intermedias para la ingesta de alimentos, las cuales serán asignadas al personal por los titulares de dichos tribunales, procurando que en todo momento exista el personal necesario para estar presente en las salas de juicio. Dichos horarios no resultarán aplicables al personal de los tribunales laborales de asuntos colectivos, en los cuales se implementarán los esquemas de guardias que permitan el funcionamiento continuo las veinticuatro horas del día para atender los asuntos relacionados con procedimientos de huelga.
+Tratándose de los tribunales laborales federales la jornada de trabajo será de lunes a viernes de las nueve a las diecinueve horas, con dos horas intermedias para la ingesta de alimentos, las cuales serán asignadas al personal por las personas titulares de dichos tribunales, procurando que en todo momento exista el personal necesario para el desarrollo de las sesiones en las salas de juicio. Dichos horarios no resultarán aplicables al personal de los tribunales laborales federales de asuntos colectivos, en los cuales se implementarán los esquemas de guardias que permitan el funcionamiento continuo las veinticuatro horas del día para atender los asuntos relacionados con procedimientos de huelga.
 
 > <small>(REFORMADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
@@ -183,37 +215,41 @@ Tratándose de los tribunales laborales federales la jornada de trabajo será de
 
 En caso de que se registren jornadas de trabajo extraordinarias en los órganos jurisdiccionales y Centros de Justicia Penal Federal, los titulares de los primeros y los Administradores de los referidos Centros, deberán observar lo previsto en el Capítulo Octavo, del Título Primero, del Libro Segundo del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 5.
 
-Dependiendo de las necesidades del servicio que presente cada órgano jurisdiccional y conforme a su prudente arbitrio, cada titular de juzgado de Distrito, tribunal Unitario de Circuito, tribunal laboral federal, presidente de tribunal Colegiado de Circuito y titular de ponencia de tribunal Colegiado de Circuito, podrá implementar por las tardes y cuando sea posible, el trabajo a distancia, en sus diversas modalidades, mediante el uso y acceso de tecnologías de la información, a través de las cuales los titulares referidos y el personal a su cargo establecerán y mantendrán la comunicación necesaria, que coadyuve en el trámite y resolución de los asuntos, de conformidad con la organización que al efecto determinen.
+Dependiendo de las necesidades del servicio que presente cada órgano jurisdiccional, conforme a la norma aplicable y a los resultados obtenidos, cada titular de juzgado de Distrito, tribunal Colegiado de Apelación, tribunal laboral federal, y tribunal Colegiado de Circuito, podrá implementar, de ser aplicable, el trabajo a distancia, mediante el uso y acceso del Sistema Electrónico del Consejo de la Judicatura Federal. A través del sistema, las personas titulares y el personal a su cargo establecerán y mantendrán la comunicación correspondiente al desarrollo de sus funciones, a fin de coadyuvar en el trámite y resolución de los asuntos, de conformidad con la organización que al efecto determinen.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 6.
 
-El horario de atención al público en los órganos jurisdiccionales, será de lunes a viernes de las nueve a las quince horas, conforme al cual, todos los integrantes de dichos órganos jurisdiccionales, incluidos los titulares, deberán permanecer en éstos, a efecto de realizar la debida prestación del servicio público de justicia.
+El horario de atención al público en los órganos jurisdiccionales será de lunes a viernes de las nueve horas con treinta minutos a las catorce horas con treinta minutos. Los órganos jurisdiccionales deberán contar con el personal suficiente para la debida atención a las personas que asistan.
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+El horario antes descrito se aplicará también a los tribunales laborales federales, con excepción de los tribunales laborales federales de asuntos colectivos que funcionarán las veinticuatro horas del día mediante el esquema de guardias para atender los procedimientos de huelga. Durante la jornada y el horario de labores del personal de ambos tribunales se establecerán esquemas escalonados que permitan mantener la atención al público y a la vez garantizar los periodos de ingesta de alimentos del personal, así como el resto de las actividades del órgano, conforme a la normativa aplicable del propio Consejo.
 
-Tratándose de los tribunales laborales federales, el horario de atención al público será de las nueve a las diecinueve horas, con excepción de los tribunales laborales federales de asuntos colectivos que funcionarán las veinticuatro horas al día mediante el esquema de guardias para atender los procedimientos de huelga. Durante la jornada y el horario de labores del personal de ambos tribunales se establecerán esquemas escalonados que permitan mantener la atención al público y a la vez garantizar los periodos de ingesta de alimentos del personal, así como el resto de las actividades del órgano, conforme a la normativa aplicable del propio Consejo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 7.
 
-Los servidores públicos adscritos a los órganos jurisdiccionales que ocupen puestos de los niveles salariales del 11 al 33, deberán registrar su entrada y salida. Lo anterior salvo el secretario de juzgado o tribunal, el actuario judicial, el secretario particular de magistrados de Circuito o juez de Distrito, y el chofer de funcionario, cuando el titular, en su caso, ordene que sean exceptuados del registro automatizado de entrada y salida.
+En los accesos principales de los inmuebles, la entrada y salida del personal de los órganos jurisdiccionales se controlará con un sistema de emisión de Códigos QR, que se vinculará a los expedientes personales bajo resguardo de la Dirección General de Recursos Humanos. A través del sistema las y los servidores públicos podrán tramitar un código vinculado a su expediente personal, que deberá ser utilizado para el acceso o salida de su lugar de trabajo. En casos excepcionales, se podrá utilizar la credencial institucional.
 
-Para la operación y funcionamiento del registro automatizado de entrada y salida, los servidores públicos adscritos a los órganos jurisdiccionales deberán proporcionar los datos que sean necesarios.
+El Código QR deberá presentarse electrónicamente en un dispositivo móvil, y excepcionalmente podrá mostrarse impreso.
 
-En la implementación, operación y funcionamiento del registro automatizado deberán observarse los lineamientos generales que al efecto emita el Pleno y las disposiciones aplicables en materia de transparencia, acceso a la información, resguardo de la misma y protección de datos personales.
+Adicionalmente, para la operación y funcionamiento del registro automatizado de inicio y conclusión de labores, las personas servidoras públicas adscritas a los órganos jurisdiccionales deberán proporcionar los datos que sean necesarios.
 
-Los titulares de los órganos jurisdiccionales y, en su caso, el Presidente del órgano colegiado tratándose de áreas comunes cuando corresponda de conformidad con la norma aplicable, serán los únicos que podrán llevar a cabo la justificación por omisión de registro de entrada, salida, así como retardos y faltas de los servidores públicos a su cargo, en los términos de los lineamientos generales a que se refiere el párrafo anterior.
+Las personas servidoras públicas adscritas a los órganos jurisdiccionales que ocupen puestos de los niveles salariales del 11 al 33, deberán registrar su inicio y conclusión de labores a través del Sistema de Control de Asistencia. En su caso, la persona o personas titulares del órgano jurisdiccional podrán exceptuar a las y los secretarios de juzgado o tribunal, actuarios judiciales, secretario particular de persona magistrada de Circuito o jueza de Distrito, y persona conductora de funcionario, del registro automatizado de inicio y conclusión de labores.
 
-En su calidad de patrón equiparado, los titulares de los órganos jurisdiccionales y de cada ponencia en el caso de los tribunales colegiados, deberán asegurarse:
+En la implementación, operación y funcionamiento del registro automatizado deberán observarse las políticas y lineamientos generales que al efecto emita el Comité de Gobernanza Digital y la Comisión de Administración, el Pleno y las disposiciones aplicables en materia de transparencia, acceso a la información, resguardo y protección de datos personales.
 
-I. Que se devengue efectivamente la contraprestación que recibe el servidor público por la función que realiza; y
+Las personas titulares de los órganos jurisdiccionales y, en su caso, la o el Presidente del órgano colegiado tratándose de áreas comunes cuando corresponda, de conformidad con la norma aplicable, serán los únicos que podrán llevar a cabo la justificación por omisión de registro de inicio y conclusión de labores, así como retardos y faltas de las personas servidoras públicas a su cargo, en los términos de los lineamientos generales a que se refiere el párrafo anterior.
 
-II. Que las justificaciones por omisiones de registro de entrada, salida, así como de retardos y faltas del personal de su adscripción, únicamente se efectúen cuando haya existido causa justificada que se acredite en términos de los lineamientos a que alude este artículo.
+En su calidad de patrón equiparado, los titulares de órganos jurisdiccionales y de cada ponencia en el caso de los tribunales colegiados, deberán asegurarse:
+
+I. Que se devengue efectivamente la contraprestación que recibe la persona servidora pública por la función que realiza; y
+
+II. Que las justificaciones por omisiones de registro de inicio y conclusión de labores, así como de retardos y faltas del personal de su adscripción, únicamente se efectúen cuando haya existido causa justificada que se acredite en términos de los lineamientos a que alude este artículo.
 
 > <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
 
@@ -331,13 +367,43 @@ Los recursos de queja a que se refiere el párrafo anterior que sean presentados
 
 Lo no previsto en este Capítulo será resuelto por la Comisión de Carrera Judicial o, en su caso, por la Comisión de Receso.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO TERCERO BIS. PERÍODOS VACACIONALES DE TRIBUNALES LABORALES FEDERALES
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 16 Bis.
+
+Los periodos vacacionales de los tribunales laborales federales de asuntos individuales, de conformidad con los artículos 140 y 141 de la Ley Orgánica, son los siguientes:
+
+I. La segunda quincena de julio; y
+
+II. La segunda quincena de diciembre.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 16 Ter.
+
+Para garantizar los derechos de las y los justiciables en los procesos laborales de asuntos individuales durante los períodos vacacionales se suspenderán plazos y términos procesales.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 16 Quater.
+
+Las y los titulares de los tribunales laborales federales de asuntos individuales deberán notificar a la Comisión de Carrera Judicial, por conducto de la Secretaría Técnica de Carrera Judicial, del goce del período vacacional y nombrar al menos una persona secretaria de instrucción y al menos una persona actuaria que quedarán a cargo de las gestiones de trámite urgente.
+
+Los tribunales laborales federales de asuntos individuales suspenderán las guardias para días y horas inhábiles aprobadas por la Comisión de Creación de Nuevos Órganos el primer día del período vacacional y deberán reanudarlas al día siguiente al que concluya dicho período vacacional.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 16 Quinquies.
+
+El tribunal laboral federal de asuntos colectivos funcionará las veinticuatro horas de todos los días del año para atender los procedimientos de huelga, por lo que las y los titulares de dicho órgano jurisdiccional deberán notificar a la Comisión de Carrera Judicial, por conducto de la Secretaría Técnica de Carrera Judicial, la persona titular que gozará de las vacaciones y el período correspondiente.
+
 ### CAPÍTULO CUARTO. SISTEMA DE REGISTRO Y CONTROL DE GUARDIAS
 
 ### CAPÍTULO QUINTO. OFICINAS DE CORRESPONDENCIA COMÚN
-
-### CAPÍTULO SEXTO. UNIDADES DE NOTIFICADORES COMUNES
-
-> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 ###### Artículo 17.
 
@@ -375,9 +441,9 @@ Lo no previsto en este Capítulo, así como cualquier consulta, será resuelto p
 
 > <small>N. DE E. EL ACUERDO, EXPEDIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 21 DE MAYO DE 2015, MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE CAPÍTULO.</small>
 
-### CAPÍTULO SÉPTIMO. DEL COORDINADOR TÉCNICO ADMINISTRATIVO
+### CAPÍTULO SEXTO. UNIDADES DE NOTIFICADORES COMUNES
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
 #### SECCIÓN PRIMERA. NATURALEZA Y FUNCIONES
 
@@ -386,6 +452,10 @@ Lo no previsto en este Capítulo, así como cualquier consulta, será resuelto p
 ###### Artículo 24.
 
 Las oficinas de correspondencia común son unidades administrativas encargadas de la recepción, registro y turno de los asuntos y promociones de la competencia de los órganos jurisdiccionales, que dependen administrativamente de la Dirección General de Gestión Judicial.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Los asuntos podrán ser presentados de manera electrónica a través del Portal de Servicios en Línea y de manera física a través de buzones judiciales, así como en la ventanilla de las Oficinas de Correspondencia Común.
 
 ###### Artículo 25.
 
@@ -420,6 +490,14 @@ El personal de las oficinas de correspondencia común, para ingresar al sistema 
 El personal adscrito a las oficinas de correspondencia común desempeñará con eficiencia las funciones y actividades propias a su cargo y conforme a las instrucciones que, de acuerdo con las disposiciones aplicables, emita el jefe de la oficina o la autoridad administrativa competente para ello.
 
 Con el fin de evitar poner en riesgo la integridad física de los servidores públicos que prestan servicio en las oficinas de correspondencia común, así como el de las instalaciones, además de cuidar la confidencialidad de la información y documentación que obre en ellas, queda prohibido el acceso de personas ajenas al interior de dichas unidades administrativas.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+El personal adscrito a las Oficinas de Correspondencia Común realizará labores presenciales y, excepcionalmente, remotas.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+El personal que, en su caso, realice labores a distancia, se dedicará al turno de los asuntos, recibidos a través del Portal de Servicios en Línea y digitalizados, mientras que quienes se encuentren físicamente en la Oficina de Correspondencia Común, privilegiarán las labores de digitalización y firmado, y colaborarán con el turno de los asuntos.
 
 #### SECCIÓN SEGUNDA. AUXILIO A LOS ÓRGANOS JURISDICCIONALES EN LA RECEPCIÓN DE ESCRITOS DE TÉRMINO
 
@@ -459,6 +537,18 @@ Sólo se recibirán en las oficinas de correspondencia común los escritos de al
 
 El horario de las oficinas de correspondencia común será de las ocho horas con treinta minutos a las veinte horas, en días hábiles, con las excepciones previstas en este Capítulo.
 
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+En casos excepcionales, en los que, derivado de la propia integración de la oficina, no haya personal suficiente por ausencias u otorgamiento de licencias médicas, se habilitará únicamente un turno matutino.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+La recepción de todos los escritos iniciales que se presenten físicamente se hará mediante su depósito en los buzones judiciales colocados en todas las Oficinas de Correspondencia Común del país.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+En caso de que se trate de asuntos presentados por órganos jurisdiccionales que se encuentren en la misma sede o por necesidades del servicio, podrá habilitarse la recepción por ventanilla. Lo mismo podrá implementarse cuando no existan labores de digitalización y turno pendientes, en aras de agilizar la labor de la Oficina correspondiente.
+
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 Las oficinas de correspondencia común no laborarán durante los días de descanso o aquéllos en que los órganos jurisdiccionales a los que presta servicio suspendan sus labores, en este último supuesto la o el jefe de la oficina lo informará de inmediato a la Dirección General de Gestión Judicial.
@@ -479,29 +569,49 @@ En el supuesto de que se presenten demandas en forma masiva, el personal adscrit
 
 Para no afectar la recepción, registro y turno de los diversos asuntos y promociones que se presenten en dichas oficinas, por excepción a lo dispuesto en el primer párrafo del artículo 37 del presente Acuerdo, las demandas presentadas en forma masiva se registrarán y turnarán conforme las cargas de trabajo lo permitan.
 
-> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 32.
 
-Para el turno de los nuevos asuntos de los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México, las Oficinas de Correspondencia Común que les presten servicio funcionarán durante dos semanas en cada uno de los reclusorios preventivos en los que se encuentren ubicados esos órganos jurisdiccionales, alternando su operación, entre el reclusorio norte, oriente y sur, continuando en ese orden sucesivamente, con los lineamientos y horario que se indican en los siguientes párrafos.
+Para el turno de los nuevos asuntos de los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México, las Oficinas de Correspondencia Común que les presten servicio funcionarán durante dos semanas en cada uno de los reclusorios preventivos en los que se encuentren ubicados esos órganos jurisdiccionales, alternando su operación, entre el reclusorio norte y el reclusorio oriente, continuando en ese orden sucesivamente, con los lineamientos y horario que se indican en los siguientes párrafos.
+
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
 
 Todos los asuntos urgentes y no urgentes que se presenten de lunes a jueves de 8:30 a 14:30 horas serán turnados de forma aleatoria o relacionada, según sea procedente, entre los 3 juzgados de Distrito de Procesos Penales Federales con residencia en el reclusorio correspondiente.
 
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
+
 En las dos semanas en que funcione la Oficina de Correspondencia Común en cada uno de los reclusorios preventivos, los Juzgados de Distrito correspondientes deberán establecer una guardia de 1 juzgado por semana, con la finalidad de recibir todo tipo de asuntos en días y horario inhábil e igualmente asuntos urgentes el día viernes, así como sábado y domingo.
+
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
 
 En la primera semana la guardia se integrará por 1 Juzgado de Distrito, en la segunda por otro de ellos, y en cada periodo de guardia, uno de los tres órganos jurisdiccionales por sede se irá alternando para no recibir asuntos en ese periodo y así sucesivamente.
 
-Para los efectos del párrafo anterior, los Juzgados de Distrito continuarán con el rol de guardias que actualmente tienen, conforme al Acuerdo General 19/2019 del Pleno del Consejo de la Judicatura Federal, el cual, en caso de ser necesario, podrán modificarlo con el consenso mayoritario de todos los titulares de dichos órganos jurisdiccionales.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-El secretario autorizado por los titulares de los órganos jurisdiccionales a los que corresponda la guardia semanal recibirá los asuntos conforme a lo siguiente:
+Para los efectos del párrafo anterior, los Juzgados de Distrito seguirán el rol de guardias, establecido en el Acuerdo General 23/2022 del Pleno del Consejo de la Judicatura Federal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+La secretaria o el secretario autorizado por las personas titulares de los órganos jurisdiccionales a los que corresponda la guardia semanal recibirá los asuntos conforme a lo siguiente:
+
+> <small>(REFORMADA POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
 
 I. De lunes a jueves entre las 14:31 horas y 8:29 horas del día siguiente, recibirá los asuntos urgentes y no urgentes;
 
+> <small>(REFORMADA POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
+
 II. De las 8:30 horas a las 14:30 horas de cada viernes hábil, exclusivamente los asuntos urgentes. En ese mismo horario la Oficina de Correspondencia Común, recibirá aquéllos que no sean urgentes para el turno correspondiente; y
+
+> <small>(REFORMADA POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
 
 III. De las 14:31 horas del viernes a las 8:29 horas del lunes siguiente, dicho secretario continuará recibiendo los asuntos urgentes y no urgentes.
 
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
+
 Si son asuntos urgentes lo recibirá el juzgado que están (sic) de guardia.
+
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
 
 Si no son asuntos urgentes, esperará al día hábil siguiente para remitirlos a la Oficina de Correspondencia Común, donde se turnarán de forma aleatoria o relacionada, según sea procedente, entre los 3 juzgados del reclusorio.
 
@@ -521,7 +631,9 @@ La Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Pen
 
 El registro y turno de asuntos se hará mediante el sistema automatizado de turno que administra la Dirección General de Gestión Judicial.
 
-Durante los periodos vacacionales, en los casos de licencias, renuncia o cualquier tipo de ausencia del personal de las oficinas de correspondencia común, la o el jefe de dicha unidad administrativa deberá comunicarlo a la Dirección General de Gestión Judicial, para que se proporcione la clave de acceso a la persona que ocupe el cargo, sin que en ningún caso pueda entregarse la clave personalizada de acceso a persona diferente al usuario.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Durante los periodos vacacionales, en los casos de licencias, renuncia o cualquier tipo de ausencia del personal de las oficinas de correspondencia común, la o el jefe de dicha unidad administrativa deberá comunicarlo a la Dirección General de Gestión Judicial, para que con apoyo de la DGTI se cambie el rol a la persona que ocupe el cargo de encargado, sin que en ningún caso pueda entregarse la clave personalizada de acceso a persona diferente a la usuaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
@@ -547,19 +659,25 @@ Con el objetivo de establecer un parámetro uniforme para efecto de la distribuc
 
 #### SECCIÓN QUINTA. RECEPCIÓN DE LOS DOCUMENTOS
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 37.
 
-Previa verificación por parte del personal de la oficina de correspondencia común de que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio, la recibirá junto con las copias y anexos, imprimiendo el sello respectivo en la primera hoja, que contendrá fecha y hora de presentación y asentará el número de copias y anexos, además se precisará si obra firma, registrándola para ser turnada de inmediato al órgano jurisdiccional correspondiente.
+En el supuesto de que la recepción se realice por ventanilla, previa verificación por parte del personal de la oficina de correspondencia común de que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio, la recibirá junto con las copias y anexos, imprimiendo el sello respectivo en la primera hoja, que contendrá fecha y hora de presentación y asentará el número de copias y anexos, además se precisará si obra firma, registrándola para ser turnada al órgano jurisdiccional correspondiente.
 
-En la copia que se entregará al interesado, así como en los comprobantes de registro, se deberá anotar el número de copias y anexos, si los hubiere, asentando el nombre y firma o rúbrica de la persona que haya recibido la documentación, proporcionando la información relativa al turno del asunto y el número de registro que le fue asignado.
+En las Oficinas de Correspondencia Común con altas cargas de trabajo, el registro, turno y entrega de los asuntos físicos no urgentes, podrá extenderse hasta tres días hábiles a partir de su recepción por ventanilla. Los asuntos urgentes deberán ser registrados, turnados y entregados al órgano jurisdiccional el mismo día de su entrega.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+En la copia que se entregará a la persona interesada, así como en los comprobantes de registro, se deberá anotar el número de copias y anexos, si los hubiere, asentando el nombre y firma o rúbrica de quien haya recibido la documentación, proporcionando la información necesaria para que la promovente pueda consultar su boleta de turno.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 38.
 
-Una vez registrado el asunto de manera consecutiva, se obtendrá del sistema la impresión por triplicado de la boleta de turno, tantos que serán sellados y firmados por la persona que haya recibido el asunto. Un ejemplar de dicha boleta se entregará al interesado, otro al órgano jurisdiccional al que se turne y, el último lo conservará la oficina de correspondencia común como acuse de recibo y soporte documental en el cual se asentará el nombre y firma del servidor público que entrega y del que recibe, así como la fecha y hora, lo anterior, para efectos de consulta, inspección y archivo.
+La boleta correspondiente podrá ser consultada a través del Portal de Servicios en Línea del Poder Judicial de la Federación.
+
+Como soporte documental o acuse de recibo, podrán imprimirse únicamente, un ejemplar de la boleta de turno para el órgano jurisdiccional al que, en su caso, se turne el asunto y otro para la oficina de correspondencia común, para efectos de consulta, inspección y archivo. En ambos se asentará el nombre y firma de la persona servidora pública que entrega y de quien recibe, así como la fecha y hora.
+
+En caso de que la persona promovente solicite la impresión de la boleta de turno, la Oficina de Correspondencia Común le hará entrega de un ejemplar de ésta.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -607,11 +725,11 @@ XVI. El asunto o asuntos con el cual el sistema de turno relaciona, en los casos
 
 XVII. Nombre y firma del servidor público que recibió el asunto y del que lo entregue al órgano jurisdiccional.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 41.
 
-Cuando encontrándose próximo a concluir el horario de actividades de la oficina de correspondencia común se presentasen varios interesados solicitando la recepción de sus asuntos, el personal de la citada oficina les entregará comprobantes o contraseñas a todos aquéllos que acudan hasta el término del horario, con el objeto de atenderles y recibir los documentos que exhibiesen y de justificar su recepción fuera del horario establecido.
+Cuando encontrándose próximo a concluir el horario de actividades de la Oficina de Correspondencia Común se presentasen varias interesadas solicitando la recepción de sus asuntos y la recepción que se realice en ventanilla, el personal de la citada oficina les entregará comprobantes o contraseñas a todos aquéllos que acudan hasta el término del horario, con el objeto de atenderles y recibir los documentos que exhibiesen y de justificar su recepción fuera del horario establecido.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
@@ -633,11 +751,11 @@ Al reanudarse el sistema automatizado de turno deberán ingresarse los datos ase
 
 #### SECCIÓN SÉPTIMA. MOVIMIENTOS CORRECTIVOS EN EL REGISTRO Y TURNO DE ASUNTOS
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 43.
 
-En caso de error en la captura de los asuntos, la jefa o el jefe de la oficina de correspondencia común contará con una clave de acceso para uso exclusivo de corrección, proporcionada por la Dirección General de Gestión Judicial, y con ella realizará los movimientos correctivos en el registro de los asuntos, bajo su estricta responsabilidad, haciendo la anotación en la bitácora respectiva.
+En caso de error en la captura de los asuntos, la jefa o el jefe o encargada o encargado de la OCC deberá autorizar o realizar los movimientos correctivos en el registro de los asuntos, bajo su estricta responsabilidad, haciendo la anotación en la bitácora respectiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
@@ -875,11 +993,21 @@ IX. Demandas de amparo contra actos que importen peligro de privación de la vid
 
 X. Declaración de inexistencia de huelga;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LAS ÓRDENES DE TRASLADO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-XI. Incorporación forzosa al Ejército, Armada o Fuerza Aérea Nacionales; y
+XI. Incorporación forzosa al Ejército, Armada o Fuerza Aérea Nacionales;
 
-XII. Aquellos que revistan tal carácter, conforme a las leyes que los rijan.
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XII. Aquellos que revistan tal carácter, conforme a las leyes que los rijan; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XIII. Los asuntos que revistan carácter de urgencia conforme a las leyes que las rijan. Al respecto es importante considerar:
+
+a) Los derechos humanos que pudieran verse afectados, la trascendencia de su eventual trasgresión y las consecuencias que pudiera traer la demora en su atención; y
+
+b) Los posibles impactos diferenciados e interseccionales sobre el acceso a derechos económicos y sociales para colectivos y poblaciones en especial situación de vulnerabilidad, destacando enunciativamente los relacionados con su salud.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
@@ -927,21 +1055,23 @@ Al hacer uso de dicha herramienta se deberá capturar la hora y fecha de recepci
 
 #### SECCIÓN DÉCIMA PRIMERA. BUZONES JUDICIALES
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 50.
 
 Fuera del horario de las oficinas de correspondencia común, la recepción de los asuntos nuevos y promociones de término que no tengan carácter de urgente se realizará a través de buzones judiciales.
 
-Los buzones judiciales funcionarán de las veinte horas con un minuto a las veintitrés horas con cincuenta y nueve minutos en días hábiles y no operarán durante las vacaciones, ni aquellos días en los que las oficinas de correspondencia común suspendan sus labores.
+Los buzones judiciales funcionarán de las ocho horas con treinta minutos a las veintitrés horas con cincuenta y nueve minutos en días hábiles para recibir asuntos no urgentes. Los urgentes se deberán depositar en el buzón judicial de lunes a jueves hasta las catorce horas con treinta minutos, y a partir de las catorce horas con treinta y un minutos, los viernes y fines de semana, deberán presentarse directamente ante el órgano jurisdiccional de guardia.
 
-La Dirección General de Gestión Judicial, en coordinación con la Secretaría Ejecutiva de Creación de Nuevos Órganos, podrá autorizar la modificación de los horarios de funcionamiento de las oficinas de correspondencia común y de los buzones judiciales atendiendo a las necesidades del servicio.
+Al realizar el depósito, la propia persona promovente generará su acuse con el reloj fechador que se encuentra integrado al buzón.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+La DGGJ, en coordinación con la Secretaría Ejecutiva de Creación de Nuevos Órganos, podrá autorizar la modificación de los horarios de funcionamiento de las OCC y de los buzones judiciales atendiendo a las necesidades del servicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 51.
 
-Los documentos depositados en los buzones judiciales se turnarán, según corresponda, al órgano jurisdiccional al día hábil siguiente a su depósito, en orden cronológico. El personal designado por el órgano jurisdiccional acudirá a la oficina de correspondencia común para recibirlos.
+Los documentos depositados en los buzones judiciales se turnarán en orden cronológico. El personal designado por el órgano jurisdiccional acudirá a la OCC para recibirlos.
 
 Los buzones judiciales no operarán durante las vacaciones ni aquellos días en los que las oficinas de correspondencia común suspendan sus labores.
 
@@ -953,27 +1083,31 @@ La Comisión de Creación de Nuevos Órganos podrá autorizar la modificación d
 
 Es responsabilidad exclusiva de los usuarios verificar que los asuntos y promociones que depositen en los buzones judiciales estén debidamente firmados, integrados y dirigidos a los tribunales de Circuito o juzgados de Distrito a los que presta servicio la oficina de correspondencia común de que se trate.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 53.
 
-El personal de la oficina de correspondencia común, después de revisar que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio o auxilia, procederá a su registro y turno a través del sistema automatizado de turno.
+El personal de la OCC, después de revisar que la documentación presentada se encuentra dirigida a los órganos jurisdiccionales a los que presta servicio o auxilia, procederá a su registro y turno a través del sistema automatizado de turno.
 
-Cuando por error o desconocimiento se deposite en el buzón judicial, algún asunto de los considerados como urgentes, éste deberá turnarse el mismo día, de acuerdo con la normativa atendiendo al horario en el que se advierta dicha circunstancia. Asimismo, cuando ello suceda fuera del horario de labores de la oficina de correspondencia común, se registrará y turnará con prioridad al día siguiente hábil con ese carácter, de manera aleatoria entre los órganos jurisdiccionales a los que proporciona servicio la oficina de correspondencia común.
+En las OCC con altas cargas de trabajo, el registro, turno y entrega de los asuntos físicos no urgentes, podrá extenderse hasta tres días hábiles a partir de su depósito en el buzón judicial. Los asuntos urgentes deberán ser registrados, turnados y entregados al órgano jurisdiccional el mismo día de su depósito.
 
-Si la documentación que se presente en el buzón judicial se encuentra dirigida a diverso órgano jurisdiccional de los que brinda servicio la unidad administrativa, a la brevedad posible, mediante oficio, se enviará a su destinatario, por la vía más expedita, sin responsabilidad para el personal de la oficina de correspondencia común.
+Cuando por error o desconocimiento se deposite en el buzón judicial, algún asunto de los considerados como urgentes, éste deberá turnarse el mismo día, de acuerdo con la normativa atendiendo al horario en el que se advierta dicha circunstancia. Asimismo, cuando ello suceda fuera del horario de labores de la OCC, se registrará y turnará con prioridad al día siguiente hábil con ese carácter, de manera aleatoria entre los órganos jurisdiccionales a los que proporciona servicio la OCC.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+Si la documentación que se presente en el buzón judicial se encuentra dirigida a diverso órgano jurisdiccional de los que brinda servicio la unidad administrativa, a la brevedad posible, se enviará a su destinatario, por la vía más expedita, sin responsabilidad para el personal de la OCC.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 54.
 
-Para no interrumpir el servicio de los buzones judiciales en caso de desabasto o fallas en los insumos, el personal de la oficina de correspondencia común de que se trate deberá vigilar que se cuente con los insumos indispensables; en caso de no contar con el material necesario para el funcionamiento de los buzones, dicha oficina deberá realizar la recepción de los asuntos ordinariamente, hasta en tanto se solucione la problemática.
+Para no interrumpir el servicio de los buzones judiciales en caso de desabasto o fallas en los insumos, el personal de la OCC de que se trate deberá vigilar que se cuente con los insumos indispensables; en caso de no contar con el material necesario para el funcionamiento de los buzones, dicha oficina deberá realizar la recepción de los asuntos por ventanilla, hasta en tanto se solucione la problemática.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 55.
 
-Para los asuntos depositados en los buzones judiciales, de los que genere un folio electrónico para posibilitar el turno, la boleta correspondiente podrá ser consultada a través del Portal de Servicios en Línea del Poder Judicial de la Federación. Para ello, como soporte documental o acuse de recibo, podrán imprimirse únicamente, un ejemplar de la boleta de turno para el órgano jurisdiccional al que, en su caso, se turne el asunto y otro para la oficina de correspondencia común, para efectos de consulta, inspección y archivo.
+Para los asuntos depositados en los buzones judiciales, de los que genere un folio electrónico para posibilitar el turno, la boleta correspondiente podrá ser consultada a través del Portal de Servicios en Línea del Poder Judicial de la Federación. Para ello, como soporte documental o acuse de recibo, podrán imprimirse únicamente, un ejemplar de la boleta de turno para el órgano jurisdiccional al que, en su caso, se turne el asunto y otro para la OCC, para efectos de consulta, inspección y archivo. En ambos se asentará el nombre y firma de la persona servidora pública que entrega y de quien recibe, así como la fecha y hora
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 En caso de que el promovente solicite la impresión de la boleta de turno, la oficina de correspondencia común le hará entrega de un ejemplar de ésta.
 
@@ -1233,7 +1367,9 @@ El personal de las oficialías de partes de los tribunales laborales federales q
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS UNIDADES DE NOTIFICADORES COMUNES, D.O.F. 25 DE ENERO DE 2022)</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SÉPTIMO. DEL COORDINADOR TÉCNICO ADMINISTRATIVO
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
 
 #### SECCIÓN PRIMERA. CREACIÓN, NATURALEZA Y FUNCIONAMIENTO
 
@@ -1547,9 +1683,9 @@ La remoción de las servidoras y los servidores públicos de las UNC corresponde
 
 Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión de Administración, la que, de estimarlo conveniente, podrá someter el asunto a la consideración del Pleno.”
 
-### CAPÍTULO SEGUNDO. LIBROS PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 93.
 
@@ -1603,17 +1739,17 @@ I. Brindará apoyo al órgano jurisdiccional en la operación y supervisión de 
 
 II. Servirá de enlace entre el propio órgano jurisdiccional al que está adscrito y las áreas administrativas en la gestión y desahogo de trámites administrativos, estadísticos e informáticos;
 
-> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-III. Atenderá las instrucciones que le encomiende el o los titulares del órgano jurisdiccional según corresponda que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SISE CB, y videoconferencias. En ese último caso deberán coordinarse con la Dirección General de Tecnologías de la Información;
+III. Atenderá las instrucciones que le encomiende la o las personas titulares del órgano jurisdiccional según corresponda que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SISE CB, fungir como agentes certificadores de la FIREL y colaborar en el desarrollo de videoconferencias. Para ello, deberán coordinarse con la DGGJ, DGTI y DGETD;
 
 > <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 IV. Fungirá como agente certificador para tramitar la emisión, renovación y revocación de Certificados Digitales de la Firma Electrónica Certificada del Poder Judicial de la Federación, de conformidad con el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo y demás disposiciones aplicables, cumpliendo con el rol establecido por la Dirección General de Gestión Judicial; y
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES, D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-V. Cumplirá con las funciones establecidas en los manuales, lineamientos, directrices o instrucciones que determine el Pleno o las Comisiones.
+V. Cumplirá con las funciones establecidas en los manuales, lineamientos, directrices o instrucciones que determine el Pleno, las Comisiones o el Comité de Gobernanza Digital.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
 
@@ -1625,19 +1761,45 @@ Los titulares de los órganos jurisdiccionales serán los responsables de superv
 
 En caso de que el o los titulares del órgano jurisdiccional detecten deficiencia en el desempeño del Coordinador Técnico Administrativo, lo conminarán al cumplimiento de las funciones encomendadas, con independencia de las responsabilidades a que haya lugar.
 
-## TÍTULO TERCERO. LIBROS DE CONTROL
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO TERCERO. LIBROS PARA LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y SUS CARACTERÍSTICAS
+## TÍTULO TERCERO. LIBROS DE CONTROL ELECTRÓNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO SEGUNDO. LIBROS PARA JUZGADOS DE DISTRITO Y TRIBUNALES LABORALES FEDERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 99.
 
-Los libros de control serán para uso exclusivo de los órganos jurisdiccionales, así como del Consejo, y su manejo deberá realizarse estrictamente por el personal de los mismos, sin que por ningún motivo puedan ser consultados por abogados postulantes, ni público en general.
+Los libros de control solo serán electrónicos y para uso exclusivo de los órganos jurisdiccionales, así como del Consejo, y su manejo deberá realizarse estrictamente por el personal de los mismos, sin que por ningún motivo puedan ser consultados por abogados postulantes, ni público en general.
+
+Los órganos jurisdiccionales deberán llevar libros electrónicos de registro, a través del módulo “Libros de control” del SISE y SIGE, según corresponda.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 99 Bis.
+
+Los libros de control electrónicos contendrán los campos, rubros y columnas que prevé este Acuerdo, y los que, en su caso, se estimen necesarios en virtud de la creación de nuevos órganos jurisdiccionales auxiliares o especializados y de la implementación de nuevas técnicas en informática.
+
+El llenado de los libros electrónicos se realizará en forma automática mediante la captura de los datos correspondientes en el SISE y el SIGE.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 99 Ter.
+
+Durante la práctica de las visitas de inspección que se desarrollen físicamente en la sede de los órganos jurisdiccionales, la Visitaduría Judicial deberá verificar, mediante el método comparativo y de forma aleatoria, la coincidencia entre los datos asentados en los libros de control electrónico con las constancias de los expedientes de que se trate.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 99 Quater.
+
+La Comisión de Creación de Nuevos Órganos resolverá las cuestiones que se susciten con motivo de la aplicación de este Título.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 100.
 
-En el manejo cotidiano de los libros de control, los titulares de los órganos jurisdiccionales deberán tener en consideración, lo siguiente:
+En el manejo cotidiano de los libros de control, las personas titulares de los órganos jurisdiccionales deberán tener en consideración, las disposiciones que al efecto emita la Comisión de Creación de Nuevos Órganos; asimismo, deberán disponer lo necesario para garantizar su constante actualización y la corrección de errores.
 
 > <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
@@ -1651,7 +1813,7 @@ IV. Mantener en buen estado los libros en general, lo que incluye que las anotac
 
 V. Los registros que se realicen se harán destinando el espacio vertical que se estime necesario, cuando se pueda prever que los datos que contendrán algunas de las columnas o todas, serán extensos, ya sea por el número de quejosos; de actos reclamados, etcétera, de acuerdo con el libro de que se trate.
 
-Además de los libros previstos en este Acuerdo, los jueces y magistrados quedan facultados para llevar los demás Libros de control que estimen pertinentes para uso exclusivamente interno.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 101.
 
@@ -1659,7 +1821,9 @@ El incumplimiento de lo previsto en este Título será sancionado en los términ
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
-### CAPÍTULO CUARTO. LIBROS PARA LOS TRIBUNALES COLEGIADOS Y SUS CARACTERÍSTICAS
+### CAPÍTULO TERCERO. LIBROS PARA LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y SUS CARACTERÍSTICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 102.
 
@@ -1717,11 +1881,11 @@ Los tribunales laborales federales, deberán llevar únicamente los libros que e
 
 #### SECCIÓN PRIMERA. LIBRO UNO DE JUICIOS DE AMPARO
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 104.
 
 El libro de juicios de amparo constará de tres apartados que serán: Demanda, Suspensión de plano o definitiva y Expediente principal, los cuales contendrán columnas con diversos rubros.
-
-En cada una de sus páginas se deberán anotar únicamente dos registros.
 
 ###### Artículo 105.
 
@@ -1751,7 +1915,9 @@ VIII. Incompetencia: se utilizará únicamente en el supuesto de que el órgano 
 
 IX. Prevención: sólo se empleará cuando en el auto inicial se prevenga al promovente, con motivo de alguna irregularidad; para que llene alguno de los requisitos de la demanda que hubiere omitido; cuando no haya señalado con precisión el acto reclamado o bien cuando no hubiere exhibido las copias necesarias. En ella se anotará la fecha en que se pronuncie tal auto;
 
-X. Desechamiento o por no presentada: se utilizará en los casos siguientes: Cuando se haya dictado acuerdo de prevención y éste no se haya cumplido, se anotará la expresión "por no presentada" y la fecha del auto que así lo declare; o bien la expresión "desechada" ya sea que se deseche la demanda en la forma prevenida por el artículo 112 o en términos de lo dispuesto por el artículo 113, ambos de la Ley de Amparo; en el último de estos casos, la anotación se hará aun cuando alguna prevención ya hubiese sido cumplida y la anotación correspondiente hubiese sido realizada, en este caso, se utilizarán los renglones subsiguientes; y
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+X. Desechamiento o por no presentada: se utilizará en los casos siguientes: Cuando se haya dictado acuerdo de prevención y éste no se haya cumplido, se anotará la expresión “por no presentada” y la fecha del auto que así lo declare; o bien la expresión “desechada” ya sea que se deseche la demanda en la forma prevenida por el artículo 112 o en términos de lo dispuesto por el artículo 113, ambos de la Ley de Amparo; en el último de estos casos, la anotación se hará aun cuando alguna prevención ya hubiese sido cumplida; y
 
 XI. Admisión: se utilizará en el supuesto de que se admita la demanda; es decir, cuando no se haya hecho prevención alguna o cuando habiéndose hecho, ésta fuere cumplida, caso en el que se anotará la palabra "admitida" y la fecha del auto que así lo declare.
 
@@ -1785,7 +1951,11 @@ c) Resolución: se anotará el sentido de la resolución que se pronuncie, utili
 
 III. Archivo: se asentará la fecha en que se envíe físicamente al expediente; y
 
-IV. Observaciones: deberán anotarse los datos relativos al supuesto en que se hubiera admitido la demanda y con motivo del recurso de queja, el tribunal Colegiado revocara el auto admisorio; si el juez se declara impedido para conocer del expediente; si el asunto se acumula a un juicio radicado ante otro juez de Distrito; si al que se tramita en el juzgado se acumula otro diverso; si en la sentencia que se pronuncie en el recurso de revisión que se promueva en contra de la resolución dictada, se ordena la reposición del procedimiento, supuesto en el cual, se recomienda dejar espacio suficiente para asentar las posteriores anotaciones que habrán de realizarse, tomando en cuenta que no debe ser considerado como un nuevo ingreso, sino que debe volverse a las columnas que le correspondan en su registro inicial.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+IV. Observaciones: deberán anotarse los datos relativos al supuesto en que se hubiera admitido la demanda y con motivo del recurso de queja, el tribunal Colegiado revocara el auto admisorio; si la o el juez se declara impedido para conocer del expediente; si el asunto se acumula a un juicio radicado ante otra u otro juez de Distrito; si al que se tramita en el juzgado se acumula otro diverso; si en la sentencia que se pronuncie en el recurso de revisión que se promueva en contra de la resolución dictada, se ordena la reposición del procedimiento, supuesto en el cual no debe ser considerado como un nuevo ingreso, sino que debe volverse a las columnas que le correspondan en su registro inicial.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV.]</small>
 
 Finalmente, también podrán anotarse los datos relativos al supuesto en que la sentencia pronunciada cause ejecutoria; si se promueve queja por defecto o exceso en la ejecución de la sentencia de amparo o incidente de inejecución de la misma, en cuyo caso no deberá dársele un número de ingreso distinto a estos asuntos, así también, cualquier otro dato que sin estar contenido en los apartados anteriores resulte necesario para un mejor control de los juicios de amparo.
 
@@ -1793,11 +1963,11 @@ Este libro se llevará conforme a la tabla número uno del anexo de este Acuerdo
 
 #### SECCIÓN SEGUNDA. LIBRO DOS DE CAUSAS PENALES
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 108.
 
 El libro de causas penales constará de catorce columnas, con los rubros siguientes: Número de expediente, Tipo de consignación, Recepción, Autoridad remitente, Delito, Inculpado, Orden, Prescripción, Ratificación de detención o libertad, Término constitucional, Sentencia o resolución que pone fin a la causa, Apelación, Archivo y Observaciones.
-
-Cada una de sus páginas se divide en tres secciones de doce renglones cada una, con el fin de que cada sección sea ocupada por un solo inculpado, independientemente de que corresponda o no a una misma causa penal.
 
 ###### Artículo 109.
 
@@ -1847,15 +2017,21 @@ c) Resolución: se anotará el sentido en el que se haya resuelto el recurso, ut
 
 XIII. Archivo: se anotará la fecha en que se remita físicamente el expediente al archivo, por haber concluido definitivamente su trámite; y
 
-XIV. Observaciones: deberán anotarse los supuestos en que por motivo de una apelación se revoque el auto de formal prisión dictado y la orden de aprehensión. Asimismo, el caso en que esas resoluciones queden sin efecto con motivo de la concesión de un amparo. De igual manera, deberá anotarse el dato relativo cuando durante el trámite del asunto, se decrete una orden de reaprehensión, su fecha y la de su ejecución, en su caso; los relativos a las resoluciones de incompetencia o impedimento; si en la sentencia que se dicte en el amparo directo se ordena la reposición del procedimiento, se recomienda dejar espacio suficiente para asentar las posteriores anotaciones que habrán de realizarse, tomando en cuenta que no debe ser considerado como un nuevo ingreso, sino que debe volverse a las columnas que le correspondan en su registro inicial.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XIV. Observaciones: deberán anotarse los supuestos en que por motivo de una apelación se revoque el auto de formal prisión dictado y la orden de aprehensión. Asimismo, el caso en que esas resoluciones queden sin efecto con motivo de la concesión de un amparo. De igual manera, deberá anotarse el dato relativo cuando durante el trámite del asunto, se decrete una orden de reaprehensión, su fecha y la de su ejecución, en su caso; los relativos a las resoluciones de incompetencia o impedimento; si en la sentencia que se dicte en el amparo directo se ordena la reposición del procedimiento, no debe ser considerado como un nuevo ingreso, sino que debe volverse a las columnas que le correspondan en su registro inicial.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIV.]</small>
 
 Finalmente, también podrán anotarse los datos relativos al supuesto en que al resolver la situación jurídica del inculpado, se le recluya provisionalmente en algún departamento especial; los incidentes especificados o no especificados que se promuevan, como pudieran ser, a manera de ejemplo: “de libertad”, “de acumulación”, etcétera, así como su resultado, anotando en forma ejemplificativa las expresiones “fundado”, “infundado”, “procedente”, “improcedente”, etcétera; los datos relativos al amparo directo que se llegase a promover, así como su resultado, anotando, a manera de ejemplo las expresiones: “ampara”, “niega”, “sobresee”, “desecha”, “por no interpuesto”, etcétera; cuando se niegue el mandamiento de captura solicitado y en contra de la determinación se promueva el recurso de apelación, así como el resultado de ésta, anotando a manera de ejemplo las expresiones: “confirma”, “revoca”, “revoca y gira orden”, “modifica”, “sin materia” y “mal admitida”; los datos que correspondan a la devolución de los autos al Ministerio Público en el caso de que no se obsequie la orden solicitada; y cualquier otro dato que sin estar contenido en los apartados anteriores resulte necesario para un mejor control de las causas penales.
 
 Este libro se llevará conforme a la tabla número dos del anexo de este Acuerdo.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 110.
 
-Cuando se trate de averiguaciones con dos o más inculpados, las columnas previstas en las fracciones I a IV del artículo anterior, es decir, las concernientes a Número de expediente, Tipo de consignación, Recepción y Autoridad remitente, se llenarán únicamente en la sección correspondiente al primero de los inculpados que se registre, considerando que esos datos serán siempre los mismos para cada inculpado.
+Cuando se trate de averiguaciones con dos o más inculpados, las columnas previstas en las fracciones I a IV del artículo anterior, es decir, las concernientes a Número de expediente, Tipo de consignación, Recepción y Autoridad remitente, se llenarán para todos las personas inculpadas que se registren.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
@@ -1913,7 +2089,11 @@ b) Resolución, existirán dos subrubros: Fecha y Sentido, en los que se harán 
 
 V. Archivo: deberá registrarse el dato relativo a la fecha en que materialmente se remita el expediente al archivo; y
 
-VI. Observaciones: deberá anotarse el supuesto en que en la sentencia que se dicte en el juicio de amparo directo se ordene la reposición del procedimiento, caso en el cual se recomienda dejar espacio suficiente para asentar las posteriores anotaciones que habrán de realizarse, tomando en cuenta que no debe ser considerado como un nuevo ingreso, sino que debe volverse a las columnas que le correspondan en su registro inicial.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+VI. Observaciones: deberá anotarse el supuesto en que en la sentencia que se dicte en el juicio de amparo directo se ordene la reposición del procedimiento, tomando en cuenta que no debe ser considerado como un nuevo ingreso, sino que debe volverse a las columnas que le correspondan en su registro inicial.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI.]</small>
 
 También podrán anotarse los datos relativos al amparo directo que se llegase a promover, así como su resultado, anotando, a manera de ejemplo las expresiones: "ampara", "niega", "sobresee", "desecha", "por no interpuesto", etcétera y cualquier otro dato que se estime necesario para el debido control de los asuntos y que no se encuentre consignado en ninguno de los apartados anteriores.
 
@@ -2047,9 +2227,11 @@ Este libro se llevará conforme a la tabla número seis del anexo de este Acuerd
 
 #### SECCIÓN OCTAVA. LIBRO OCHO DE CERTIFICADOS DE DEPÓSITO
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 118.
 
-En el libro de certificados de depósito se registrarán todos los certificados de depósito que sean recibidos en el juzgado, incluso los exhibidos ante el Agente del Ministerio Público que tengan orden de transferencia, con excepción de aquellos a los que hace referencia la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados.
+En el libro de control electrónico de certificados de depósito se registrarán todos los certificados de depósito que sean recibidos en el juzgado, incluso los exhibidos ante la o el Agente del Ministerio Público que tengan orden de transferencia, con excepción de aquellos a los que hace referencia la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE JULIO DE 2015)</small>
 
@@ -2133,9 +2315,11 @@ En el libro de objetos que pueden ser producto, instrumento u objeto de delitos,
 
 Para los efectos de este Acuerdo, por “objetos” se entenderán los que denomina como “bienes” la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 122.
 
-Constará de siete columnas con los siguientes rubros: Número de orden, Expediente, Descripción del objeto, Aseguramiento, Entrega al SAE, Destino final y Observaciones, las cuales se utilizarán de la siguiente forma:
+Constará de siete columnas con los siguientes rubros: Número de orden, Expediente, Descripción del objeto, Aseguramiento, Entrega al INDEP (Instituto para Devolver al Pueblo lo Robado), Destino final y Observaciones, las cuales se utilizarán de la siguiente forma:
 
 I. Número de orden: se registrarán con numeración progresiva y ascendente, todos los objetos a que se refiere el precepto anterior, que sean puestos a disposición del juzgado de Distrito, ya sea en forma real o virtual, dentro de los que deberán incluirse tanto los que se aseguren durante la averiguación, como cuando esto suceda durante el proceso mismo, con independencia del lugar en que se encuentren.
 
@@ -2149,29 +2333,33 @@ III. Descripción del objeto: se asentará una descripción del objeto u objetos
 
 IV. Aseguramiento: se anotará la autoridad que haya decretado el aseguramiento, asentando las expresiones: “Ministerio Público” o “Juez de Distrito” y la fecha en que ello haya ocurrido;
 
-V. Entrega al SAE (real o virtual): se anotará la fecha en que se comunique al Servicio de Administración y Enajenación de Bienes, organismos descentralizados de la Administración Pública Federal, por sus siglas SAE, el auto que ordene la entrega de los objetos asegurados, seguida de la abreviatura “M.P.”, o de las palabras “Juez de distrito”, según la autoridad que lo hubiese realizado;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+V. Entrega al INDEP (real o virtual): se anotará la fecha en que se comunique al INDEP, organismos descentralizados de la Administración Pública Federal, el auto que ordene la entrega de los objetos asegurados, seguida de la abreviatura “M.P.”, o de las palabras “Juez (a) de distrito”, según la autoridad que lo hubiese realizado;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 VI. Destino final: se dividirá por los rubros Decomiso, Devolución y Procedimiento de abandono, los cuales se utilizarán de la siguiente manera:
 
-a) Decomiso: constará de dos sub rubros: Fecha de resolución y Notificación al SAE, en los que se deberán anotar los siguientes datos:
+a) Decomiso: constará de dos sub rubros: Fecha de resolución y Notificación al INDEP, en los que se deberán anotar los siguientes datos:
 
 1. Fecha de resolución: se deberá anotar precisamente, el día, mes y año en que se hubiera decretado en resolución definitiva el decomiso de los bienes asegurados; y
 
-2. Notificación al SAE: se anotará la fecha y el número de oficio mediante el cual se hubiera hecho saber la determinación de decomiso al SAE;
+2. Notificación al INDEP: se anotará la fecha y el número de oficio mediante el cual se hubiera hecho saber la determinación de decomiso al INDEP;
 
-b) Devolución: constará de dos sub rubros: Determinación judicial y Notificación al SAE, los que deberán contener los siguientes datos:
+b) Devolución: constará de dos sub rubros: Determinación judicial y Notificación al INDEP, los que deberán contener los siguientes datos:
 
-1. Determinación judicial: se anotará la fecha en que el juez hubiera decretado la devolución como destino final del objeto; y
+1. Determinación judicial: se anotará la fecha en que la jueza o el juez hubiera decretado la devolución como destino final del objeto; y
 
-2. Notificación al SAE: se anotará la fecha del oficio mediante el cual se le haga saber la determinación de la devolución del objeto;
+2. Notificación al INDEP: se anotará la fecha del oficio mediante el cual se le haga saber la determinación de la devolución del objeto;
 
-c) Procedimiento de abandono: se utilizará cuando el SAE, solicite la ratificación de abandono del objeto, constará a su vez de dos sub rubros: Solicitud de ratificación y Resolución, que deberán llenarse de la siguiente forma:
+c) Procedimiento de abandono: se utilizará cuando el INDEP solicite la ratificación de abandono del objeto, constará a su vez de dos sub rubros: Solicitud de ratificación y Resolución, que deberán llenarse de la siguiente forma:
 
-1. Solicitud de ratificación: deberá asentarse la fecha y el número de oficio en que el SAE solicite al órgano jurisdiccional la ratificación de la declaración de abandono en términos de las disposiciones aplicables; y
+1. Solicitud de ratificación: deberá asentarse la fecha y el número de oficio en que el INDEP solicite al órgano jurisdiccional la ratificación de la declaración de abandono en términos de las disposiciones aplicables; y
 
-2. Resolución: deberá asentarse la determinación que al respecto tome el juzgado, utilizando para ello las palabras “ratifica” o “repone procedimiento”, según sea el caso, la fecha y número de oficio en que se dé a conocer al SAE la decisión.
+2. Resolución: deberá asentarse la determinación que al respecto tome el juzgado, utilizando para ello las palabras “ratifica” o “repone procedimiento”, según sea el caso, la fecha y número de oficio en que se dé a conocer al INDEP la decisión.
 
-En caso de que se reponga el procedimiento de declaración de abandono, las nuevas anotaciones, tanto para el rubro Solicitud de ratificación, como para el de Resolución, se anotarán en los renglones subsecuentes de la correspondiente columna;
+En caso de que se reponga el procedimiento de declaración de abandono, las nuevas anotaciones, tanto para el rubro Solicitud de ratificación, como para el de Resolución, se anotarán dentro de la misma columna;
 
 VII. Observaciones: se asentarán aquellos datos que sin estar comprendidos en los anteriores apartados, resulten necesarios para un mejor control de los objetos.
 
@@ -2249,11 +2437,15 @@ Este libro se llevará conforme a la tabla número once del anexo de este Acuerd
 
 #### SECCIÓN DÉCIMA TERCERA. LIBRO TRECE DE FIRMAS DE PROCESADOS EN LIBERTAD PROVISIONAL BAJO CAUCIÓN
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 127.
 
 Mediante el libro de firmas de procesados en libertad provisional bajo caución se llevará el control y vigilancia de los mismos.
 
-El libro será único para todo el juzgado y en él se asentarán las firmas que estampen de puño y letra dichos procesados.
+Para tal efecto, el llenado de este libro se realizará de manera automática mediante la captura de los datos correspondientes en el módulo SISE CB.
+
+El libro será único para todo el juzgado y se llevará conforme a la tabla doce del anexo de este Acuerdo.
 
 ###### Artículo 128.
 
@@ -2261,9 +2453,9 @@ Este libro constará de dos secciones: Índice y Control de firmas:
 
 I. Índice: se anotarán por orden alfabético, los nombres de los procesados que disfruten de ese beneficio, seguidos de los números de fojas relativas a la sección de “control de firmas”; y
 
-II. Control de firmas: constará de un apartado, en el que se contendrán consecutivamente y de manera vertical los rubros: Número de la causa, Nombre del inculpado y Periodicidad con la que debe firmar y, de cuatro columnas con los subrubros: Fecha de la firma, Firma del procesado, Certificación y Observaciones, las que se utilizarán de la siguiente manera.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-Para lo anterior, deberán destinarse por lo menos cinco páginas por procesado, cuidando que cada comparecencia y firmas o huellas ocupen un solo renglón. En el caso de que las cinco páginas destinadas resulten insuficientes después de algún tiempo de usarse, se habilitará un nuevo conjunto de cinco páginas, debiendo hacerse la observación respectiva, tanto en la columna de observaciones como en la sección del índice de nombres.
+II. Control de firmas: constará de un apartado, en el que se contendrán consecutivamente y de manera vertical los rubros: Número de la causa, Nombre del inculpado y Periodicidad con la que debe firmar y, de cuatro columnas con los subrubros: Fecha de la firma, Firma del procesado, Certificación y Observaciones, las que se utilizarán de la siguiente manera.
 
 Los rubros y subrubros se llenarán de la forma siguiente:
 
@@ -2275,11 +2467,13 @@ c) Periodicidad con la que deba firmar: se asentará la periodicidad con la que 
 
 1. Fecha de la firma: se anotará el día, el mes y el año en que el inculpado que disfrute del beneficio de la libertad provisional bajo caución, comparezca al tribunal a realizar su presentación;
 
-2. Firma del procesado: éste estampará su firma de puño y letra o bien la huella digital que asiente en el caso en que no supiere firmar;
+2. Firma del procesado: se registrará la información asociada a la toma de asistencia en el SISE CB;
 
-3. Certificación: se establecerá el nombre y la firma del servidor público facultado que certifique la comparecencia del inculpado; y
+3. Certificación: se establecerá el nombre de la persona servidora pública facultada que certifique la comparecencia de la personal inculpada; y
 
-4. Observaciones: se deberá anotar el caso en que el órgano jurisdiccional declare su incompetencia; cuando se autorice al reo a firmar con diversa periodicidad de aquella con la que inició; cuando no se presente a firmar en la fecha en que le corresponda hacer sus presentaciones; cuando se tome alguna medida en su contra por ese motivo; o los datos relativos a la conclusión de la obligación de firmar en el libro respectivo y la fecha correspondiente y, además, en el caso en que se hayan tenido que habilitar páginas por insuficiencia de las destinadas inicialmente.
+4. Observaciones: se deberá anotar el caso en que el órgano jurisdiccional declare su incompetencia; cuando se autorice al reo a firmar con diversa periodicidad de aquella con la que inició; cuando no se presente a firmar en la fecha en que le corresponda hacer sus presentaciones; cuando se tome alguna medida en su contra por ese motivo; o los datos relativos a la conclusión de la obligación de firmar y la fecha correspondiente.
+
+> <small>[N. DE E. PERTENECE AL NUMERAL 4, D.O.F. 28 DE OCTUBRE DE 2022.]</small>
 
 También se podrán anotar los datos relativos al supuesto en que se conceda algún permiso al inculpado y todos aquellos que, sin estar comprendidos en las columnas anteriores, resulten necesarios para un mejor control de las obligaciones de los inculpados que disfrutan del beneficio de la libertad provisional bajo caución.
 
@@ -2345,83 +2539,29 @@ IX. Observaciones: deberá anotarse cualquier dato que se juzgue conveniente que
 
 Este libro se llevará conforme a la tabla número catorce del anexo de este Acuerdo.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 #### SECCIÓN DÉCIMA SEXTA. LIBRO DIECISÉIS DE ASUNTOS EN REVISIÓN
 
 ###### Artículo 131.
 
-El libro de asuntos en revisión constará de cinco apartados: Procedimiento de Revisión, Resolución impugnada, Amparo, Archivo y Observaciones, los cuales contendrán columnas con diversos rubros, conforme se indica:
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
-I. Procedimiento de Revisión: se dividirá en nueve columnas con los rubros: Número de expediente, Recepción, Número de origen, Autoridad remitente, Delito, Nombre del sentenciado, Recurrente, Resolución recurrida y Fecha de vista, en las cuales se anotarán los siguientes datos:
-
-a) Número de expediente: se anotarán con numeración progresiva y ascendente todos los recursos de revisión que se reciban en el juzgado, atendiendo rigurosamente a la fecha de su recepción;
-
-b) Recepción: se anotará la fecha en que se reciba el recurso en la oficina de correspondencia del propio juzgado;
-
-c) Número de origen: se anotará el número del expediente que corresponda al proceso administrativo de primera instancia dentro del cual se haya interpuesto el recurso;
-
-d) Autoridad remitente: se asentará la denominación de la autoridad que hubiese emitido la resolución recurrida;
-
-e) Delito: se asentará el delito o delitos por los que se dictó sentencia al reo;
-
-f) Nombre: se anotarán el nombre o los nombres de los sentenciados, que se encuentren relacionados con la revisión, según sea el caso;
-
-g) Recurrente: se asentará la calidad que guarde en el proceso de naturaleza administrativa la parte que hubiese interpuesto el recurso, utilizando las expresiones: "sentenciado", "defensor particular" o "defensor de oficio", según sea el caso;
-
-h) Resolución recurrida: se anotará el tipo de resolución que se haya impugnado a través del recurso mencionado, utilizando, enunciativamente, las expresiones "acuerdo", "omisión" o "deficiencia", según se trate; y
-
-i) Fecha de vista: se asentará la fecha que el juzgado haya fijado para celebrar la audiencia de vista;
-
-II. Sentencia de revisión: se dividirá en dos columnas con los rubros Fecha y Sentido, los cuales se utilizarán de la siguiente manera:
-
-a) Fecha: se anotará la fecha en que se emita la resolución que resuelva o ponga fin al recurso intentado; y
-
-b) Sentido: se asentará el sentido de esa sentencia o resolución, utilizando a manera de ejemplo las expresiones "confirma", "modifica", "revoca", "desierto", “repone procedimiento”, “sobreseimiento”, “sin materia”, según sea el caso, etcétera;
-
-III. Archivo: se anotará la fecha en la cual se remita físicamente a éste el toca respectivo; y
-
-IV. Observaciones: se podrán anotar todos los datos que sin estar contenidos en los apartados anteriores, resulten necesarios para un mejor control del asunto.
-
-Este libro se llevará conforme a la tabla número quince del anexo de este Acuerdo.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 #### SECCIÓN DÉCIMA SÉPTIMA. LIBRO DIECISIETE DE FIRMAS DE SENTENCIADOS QUE DISFRUTAN DE ALGÚN BENEFICIO O SUSTITUTIVO DE LA PENA
 
 ###### Artículo 132.
 
-En el libro de firmas de sentenciados que disfrutan de algún beneficio o sustitutivo de la pena, se asentarán las firmas autógrafas de dichos sentenciados. El control y vigilancia de dichos sentenciados se llevará mediante un libro único para todo el juzgado.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 ###### Artículo 133.
 
-Este libro constará de dos secciones: Índice y Control de firmas, los cuales se utilizarán de la siguiente manera:
-
-I. Índice: deberán anotarse por orden alfabético, los nombres de los sentenciados que disfruten de algún beneficio o del sustitutivo, seguidos de los números de fojas relativas a la sección de “control de firmas”; y
-
-II. Control de firmas: constará de un apartado que contendrá consecutivamente y de manera vertical los rubros: Número de la causa, Nombre del sentenciado y Periodicidad con la que debe firmar y, de cuatro columnas con los subrubros: Fecha de la firma, Firma del sentenciado, Certificación y Observaciones.
-
-Para lo anterior deberán destinarse, por lo menos, cinco páginas por sentenciado, cuidando que cada comparecencia y firmas o huellas ocupen un solo renglón. En el caso de que las cinco páginas destinadas se agoten y subsista la obligación para el sentenciado de presentarse al juzgado, se habilitará un nuevo conjunto de cinco páginas, debiendo hacerse la observación respectiva tanto en la columna de observaciones, como en la sección del índice de nombres.
-
-Los rubros y subrubros se llenarán de la forma siguiente:
-
-a) Número de la causa: se señalará el número de la causa en la que se hubiese concedido al sentenciado algún beneficio o sustitutivo de la pena;
-
-b) Nombre del sentenciado: se anotará el nombre del sentenciado a quien se hubiese concedido el beneficio o el sustitutivo de la pena; y
-
-c) Periodicidad con la que deba firmar: se asentará la periodicidad con la que el sentenciado deba firmar, anotando las expresiones: “quincenal”, “mensual”, “bimestral” o la que corresponda, según cada caso:
-
-1. Fecha de la firma: se anotará el día, el mes y el año en que el sentenciado que disfrute del beneficio o sustitutivo penal, comparezca al juzgado a realizar su presentación;
-
-2. Firma del sentenciado: el sentenciado estampará su firma de puño y letra o bien la huella digital que asiente, en el caso en que no supiere firmar;
-
-3. Certificación se establecerá el nombre y la firma del servidor público facultado para ello, quien certificará la comparecencia del sentenciado; y
-
-4. Observaciones: se deberá anotar cuando se autorice al reo a firmar con diversa periodicidad de aquella con la que inició; cuando no se presente a firmar en la fecha en que le corresponda hacer sus presentaciones; cuando se tome alguna medida en su contra por ese motivo; o los datos relativos a la conclusión de la obligación de firmar en el libro respectivo y la fecha correspondiente y, además, en el caso en que se hayan tenido que habilitar páginas por insuficiencia de las destinadas inicialmente.
-
-También se podrán anotar los datos relativos al supuesto en que se conceda algún permiso al sentenciado y, todos aquellos que sin estar comprendidos en las columnas anteriores, resulten necesarios para un mejor control de las obligaciones de los sentenciados que disfrutan de algún beneficio o sustitutivo de la pena.
-
-Este libro se llevará conforme a la tabla número dieciséis del anexo de este Acuerdo.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO QUINTO. LIBROS ELECTRÓNICOS DE REGISTRO
+### CAPÍTULO CUARTO. LIBROS PARA LOS TRIBUNALES COLEGIADOS Y SUS CARACTERÍSTICAS
 
 ###### Artículo 134.
 
@@ -2763,9 +2903,9 @@ En el libro de firmas de procesados en libertad provisional bajo caución conced
 
 Este libro se llevará conforme a la tabla número doce del anexo de este Acuerdo.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO QUINTO. LIBROS PARA CENTROS DE JUSTICIA PENAL FEDERAL
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 149.
 
@@ -2831,7 +2971,9 @@ VIII. Incompetencia: se utilizará únicamente en el supuesto de que el órgano 
 
 IX. Prevención: se utilizará solamente en los siguientes dos casos: Cuando la autoridad responsable haya prevenido al quejoso por la presentación de copias; en este caso se asentará la expresión "autoridad responsable" y la fecha en que se hubiese hecho la prevención; y, cuando el propio tribunal Colegiado haya prevenido al quejoso para que satisfaga alguno de los requisitos que establece el artículo 175 de la Ley de Amparo que hubiere omitido; en tal caso, se asentará la palabra "tribunal" y la fecha en que éste hubiese hecho la citada prevención;
 
-X. Desechamiento o por no presentada: se utilizará en los casos siguientes: Cuando se haya dictado acuerdo de requerimiento y éste no se haya cumplido, se anotará la expresión "por no presentada" y la fecha del auto que así lo declare; o bien la expresión "Desechada", cuando se deseche la demanda en la forma prevenida por el artículo 179 de la Ley de Amparo; en este caso, la anotación se hará aun cuando alguna prevención ya hubiese sido cumplida y la anotación correspondiente hubiese sido realizada, en este caso, se utilizarán los renglones subsiguientes;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+X. Desechamiento o por no presentada: se utilizará en los casos siguientes: Cuando se haya dictado acuerdo de requerimiento y éste no se haya cumplido, se anotará la expresión “por no presentada” y la fecha del auto que así lo declare; o bien la expresión “Desechada”, cuando se deseche la demanda en la forma prevenida por el artículo 179 de la Ley de Amparo; en este caso, la anotación se hará aun cuando alguna prevención ya hubiese sido cumplida y la anotación correspondiente hubiese sido realizada;
 
 XI. Admisión: se utilizará en el supuesto de que se admita la demanda, es decir, cuando no se haya hecho prevención alguna o cuando habiéndose hecho, ésta fuere cumplida, caso en el que se anotará la palabra "admitida" y la fecha del auto que así lo declare;
 
@@ -3025,9 +3167,11 @@ Este libro se llevará conforme a la tabla número veintisiete del anexo de este
 
 #### SECCIÓN OCTAVA. LIBRO OCHO DE CONFLICTOS COMPETENCIALES
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 163.
 
-En el libro de conflictos competenciales se registrarán los conflictos que se susciten entre tribunales Unitarios de Circuito o jueces de distrito de su jurisdicción en juicios de amparo a que se refiere el artículo 37, fracción VI, de la Ley Orgánica; de las cuestiones de acumulación que menciona el párrafo II del artículo 13 de la Ley de Amparo y, además, de los conflictos que se mencionan en la fracción II, del artículo cuarto del Acuerdo General número 5/2013, de trece de mayo de dos mil trece, del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, relativo a la determinación de los asuntos que el Pleno conservará para su resolución, y el envío de los de su competencia originaria a las Salas y a los Tribunales Colegiados de Circuito.
+En el libro de conflictos competenciales se registrarán los conflictos que se susciten entre Tribunales Colegiados de Apelación o jueces de distrito de su jurisdicción en juicios de amparo a que se refiere el artículo 38, fracción IX, de la Ley Orgánica; y, además, de los conflictos que se mencionan en el punto II, del artículo cuarto del Acuerdo General número 5/2013, de trece de mayo de dos mil trece, del Tribunal Pleno de la Suprema Corte de Justicia de la Nación, relativo a la determinación de los asuntos que el Pleno conservará para su resolución, y el envío de los de su competencia originaria a las Salas y a los Tribunales Colegiados de Circuito.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
@@ -3077,9 +3221,11 @@ Este libro se llevará conforme a la tabla número veintiocho del anexo de este 
 
 #### SECCIÓN DÉCIMA. LIBRO DIEZ DE RECURSO DE REVISIÓN CONTENCIOSO-ADMINISTRATIVA
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 167.
 
-En el libro de recurso de revisión contencioso-administrativa se registrarán los que interpongan autoridades contra las resoluciones dictadas por los tribunales de lo contencioso-administrativo a que se refieren la fracción XXIX-H del artículo 73 y Base Quinta del artículo 122 de la Constitución.
+En el libro de recurso de revisión contencioso-administrativa se registrarán los que interpongan autoridades contra las resoluciones dictadas por los tribunales de justicia administrativa a que se refieren la fracción XXIX-H del artículo 73, 116, fracción V y 122, apartado A, fracción VIII de la Constitución.
 
 ###### Artículo 168.
 
@@ -3111,55 +3257,1815 @@ X. Observaciones. En esta columna deberán anotarse los supuestos en que se dese
 
 También podrán anotarse la letra o el número con los que se identifique internamente la ponencia a la que se turnó el expediente; la fecha en que se turnó; la fecha en que el asunto se liste y todos los datos que sin estar comprendidos en los apartados anteriores, resulten necesarios para un mejor control de los asuntos.
 
-### CAPÍTULO SEGUNDO. OFICIAL JUDICIAL ENCARGADO DEL SISE
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 169.
 
-Los juzgados de Distrito y tribunales de Circuito deberán llevar libros electrónicos de registro, a través del módulo “Libros de control” del SISE.
+Los libros de control obligatorios para el registro de las actuaciones de las y los jueces de control de los Centros de Justicia Penal Federal, son los siguientes:
+
+I. Libro uno: de causas penales ante jueza o juez de control;
+
+II. Libro dos: de actos de investigación con control judicial;
+
+III. Libro tres: de providencias precautorias;
+
+IV. Libro cuatro: de comunicaciones de ingreso a lugar sin autorización judicial con consentimiento de quien se encuentre facultado;
+
+V. Libro cinco: de medidas cautelares;
+
+VI. Libro seis: de declaratorias de abandono de bienes;
+
+VII. Libro siete: de impugnaciones contra determinaciones del ministerio público;
+
+VIII. Libro ocho: de acuerdos reparatorios en etapa de investigación complementaria;
+
+IX. Libro nueve: de pruebas anticipadas;
+
+X. Libro diez: de solicitudes de reserva de información;
+
+XI. Libro once: de solicitudes de restablecimiento de cosas al estado previo; y
+
+XII. Libro doce: de procedimientos de extradición.
+
+De los libros de control a que se refiere este artículo, las y los jueces de control del Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones sólo llevarán el libro dos.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 170.
 
-Los libros electrónicos de registro, del módulo “Libros de control” del SISE, deberán tener los mismos campos, rubros y columnas que prevé este Acuerdo para los Libros tradicionales, y los que, en su caso, se estimen necesarios en virtud de la creación de nuevos órganos jurisdiccionales auxiliares o especializados y de la implementación de nuevas técnicas en informática.
+El libro de causas penales constará de las siguientes columnas, en las que deberán registrarse los datos que se indican, por persona imputada, independientemente de que corresponda o no a una misma causa penal:
 
-El llenado de los libros electrónicos, se realizará en forma automática mediante la captura de los datos correspondientes en el SISE.
+I. Causa Penal: se registrará el número asignado al asunto, en atención rigurosa a la fecha y hora de su ingreso al Centro de Justicia Penal Federal. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+II. Recepción: se anotará la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
+
+III. Juez de Control: se asentará el nombre de la o el Juez de Control a quien correspondió conocer de la causa;
+
+IV. Solicitante: se registrará la denominación de la autoridad que formula la judicialización, o bien, el nombre de la persona víctima u ofendida en caso de ser la persona solicitante de la acción penal;
+
+V. Imputado: se anotarán, por cada persona imputada:
+
+a) El nombre completo de la persona contra la que se ejerce la acción penal. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+b) En su caso, el alias o apodo correspondiente; y
+
+c) La forma de conducción de la persona imputada, asentando las expresiones "Sin detenido", "Con detenido", "En libertad", según sea el caso;
+
+VI. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VII. Delito: se registrarán, por persona imputada y en forma separada, cada uno de los delitos por los cuales se ejercitó acción penal;
+
+VIII. Órdenes solicitadas: se anotarán, por cada persona imputada:
+
+a) La fecha y sentido de la resolución;
+
+b) La forma de resolver, asentando las expresiones "En audiencia", "Por escrito", "Medio electrónico";
+
+c) La fecha de notificación al Ministerio Público; y
+
+d) Los datos de la apelación o amparo, según sea el caso;
+
+IX. Suspensión del procedimiento: se registrarán, por cada persona imputada:
+
+a) La fecha del auto que ordene la suspensión del procedimiento y que dé lugar al archivo provisional;
+
+b) El motivo de la suspensión; y
+
+c) La fecha en que se reanuda el proceso, seguida de la leyenda "Fecha del levantamiento de la suspensión";
+
+X. Audiencia inicial: se registrarán, por cada persona imputada, la fecha y hora de celebración de la audiencia;
+
+XI. Medidas cautelares: se asentarán, por cada persona imputada, en su caso:
+
+a) El tipo de medida cautelar solicitada;
+
+b) La denominación de la autoridad que formula la solicitud, o bien, el nombre de la víctima u ofendido en caso de ser el solicitante, seguido de la leyenda "Ministerio Público" o "Víctima u ofendido", según sea el caso;
+
+c) Fecha y sentido de la resolución respecto a la medida cautelar solicitada;
+
+d) En su caso, tipo de medida cautelar otorgada;
+
+e) En caso de que se haya solicitado revisión, se anotará la fecha y sentido de la resolución de la revisión; y
+
+f) La fecha y motivo de cancelación de la medida cautelar;
+
+XII. Resoluciones en audiencia inicial: se anotarán, por cada persona imputada, en su caso:
+
+a) Respecto del control de legalidad de la detención:
+
+1. La fecha de la resolución;
+
+2. El sentido de la resolución; y
+
+3. Los datos del amparo;
+
+b) Respecto a la vinculación a proceso:
+
+1. La fecha de la resolución;
+
+2. El sentido de la resolución; y
+
+3. Los datos de la apelación o amparo, según sea el caso;
+
+XIII. Soluciones alternas: se registrarán, por cada persona imputada, en su caso:
+
+a) La fecha de presentación de la solicitud de aprobación de la solución alterna, seguida de la leyenda "Solicitud";
+
+b) El tipo de solución alterna;
+
+c) La fecha y sentido de la resolución dictada; y
+
+d) La fecha de extinción de la acción penal, seguida de la leyenda "Extinción de la acción";
+
+XIV. Terminación anticipada o terminación de la investigación: se asentarán, por cada persona imputada, en su caso:
+
+a) Terminación de la investigación:
+
+1. La fecha en que la o el Ministerio Público notifique la determinación;
+
+2. La forma de terminación; y
+
+b) Procedimiento abreviado:
+
+1. La fecha de presentación de la solicitud, seguida de la leyenda "Solicitud";
+
+2. La fecha de la audiencia en la que se resolvió la solicitud, seguida de la leyenda "Audiencia";
+
+3. El sentido de la resolución dictada; y
+
+4. En su caso, la fecha de extinción de la acción penal, seguida de la leyenda "Extinción de la acción";
+
+XV. Cierre de investigación: se anotarán, por cada persona imputada, en su caso:
+
+a) La fecha señalada para el cierre de la investigación complementaria
+
+b) En caso de solicitud de prórroga del plazo, la parte que la solicitó.
+
+c) La fecha en que se declara el cierre de la investigación; y
+
+d) El sentido de las conclusiones formuladas por la o el Ministerio Público;
+
+e) En caso de que se ordene reapertura de la investigación, la fecha de ésta, y la fecha en que se cierre.
+
+XVI. Audiencia intermedia: se registrarán, por cada persona imputada, en su caso:
+
+a) La fecha y hora de celebración de la audiencia;
+
+b) Dictado del auto de apertura de juicio;
+
+c) El tribunal señalado para celebrar la audiencia de juicio; y
+
+d) La fecha y hora fijadas para la audiencia de juicio;
+
+XVII. Sobreseimiento: se asentará por cada persona imputada, la fecha de éste;
+
+XVIII. Ejecución: se anotará la fecha de remisión de la sentencia firme a la o el Juez de ejecución;
+
+XIX. Nulidad de actos procedimentales: se registrarán, por cada solicitud:
+
+a) El carácter de la persona solicitante;
+
+b) La fecha de recepción de la solicitud;
+
+c) Tipo de solicitud (nulidad, saneamiento, convalidación);
+
+d) Acto procedimental sobre el que versa la solicitud;
+
+e) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+f) El sentido de la resolución;
+
+XX. Revocación: se registrarán, por cada recurso interpuesto contra resoluciones de mero trámite que se resuelvan sin sustanciación:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) Acto impugnado;
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XXI. Queja: se registrarán, por cada recurso interpuesto en contra de la persona juzgadora de primera instancia por no realizar un acto procesal dentro del plazo señalado:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) Acto impugnado;
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XXII. Apelación: se registrarán, por cada recurso interpuesto contra la resolución definitiva derivada de una solución alterna o procedimiento abreviado:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) La fecha de remisión del asunto, seguida de la leyenda "Remisión";
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XXIII. Archivo: se asentarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda "Centro de Concentración"; y
+
+XXIV. Observaciones: deberán anotarse los datos relativos a los siguientes supuestos:
+
+a) En caso de que la o el Juez se declare legalmente incompetente o impedido, se deberá indicar el tipo, ya sea declinatoria o inhibitoria para el primero, o bien, excusa o recusación, en el segundo;
+
+b) Si se tramita acumulación de procesos;
+
+c) Si se tramita separación de procesos; y
+
+d) Cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número veintinueve del anexo de este Acuerdo.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 171.
 
-La Dirección General de Gestión Judicial otorgará la correspondiente clave de acceso para la consulta de libros electrónicos, únicamente:
+El libro de actos de investigación con control judicial constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
 
-I. A la o el titular o magistradas y magistrados integrantes del órgano jurisdiccional de que se trate, así como a la persona o personas que éstos designen;
+I. Expediente: se registrará el número asignado a la solicitud, en atención rigurosa a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
 
-II. A la o el titular de la Visitaduría General y a las y los Visitadores Judiciales “A” y “B”, así como a la persona o personas que designe el primero;
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud de autorización previa de la o el Juez de Control;
 
-III. Al personal de la propia Dirección General de Gestión Judicial que designe su titular; y
+III. Recepción: se anotarán:
 
-IV. A la persona o personas que determine el Pleno o alguna de las Comisiones.
+a) La fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+b) La forma de presentación, asentando las expresiones "En audiencia", "Por escrito", "Medio electrónico";
+
+IV. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la solicitud;
+
+V. Solicitante: se asentará la denominación de la autoridad que formula la solicitud de autorización del acto de investigación;
+
+VI. Delito: se anotarán cada uno de los delitos por los cuales se realizó la solicitud;
+
+VII. Acto de investigación: se registrará el tipo de acto de investigación solicitado;
+
+VIII. Audiencia: se asentará la fecha de la audiencia en la que se resolvió la solicitud;
+
+IX. Resolución: se anotarán:
+
+a) La fecha y sentido de la resolución; y
+
+b) La fecha de notificación al Ministerio Público de la Federación;
+
+X. Prórroga: en caso de que se haya solicitado la prórroga del acto de investigación, se registrará el plazo por el que se prorroga;
+
+XI. Apelación: se asentarán:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) La fecha de remisión del recurso, seguida de la leyenda "Remisión";
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XII. Amparo: se anotarán:
+
+a) El tipo de amparo promovido;
+
+b) El promovente;
+
+c) La fecha de presentación del amparo;
+
+d) La fecha de resolución; y
+
+e) El sentido de la ejecutoria del juicio de amparo;
+
+XIII. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda "Centro de Concentración"; y
+
+XIV. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número treinta del anexo de este Acuerdo.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 172.
 
-Durante la práctica de las visitas de inspección que se desarrollen físicamente en la sede de los órganos jurisdiccionales, la Visitaduría Judicial deberá verificar, mediante el método comparativo y de forma aleatoria, la coincidencia entre los datos asentados en los Libros de control electrónico con las constancias de los expedientes de que se trate.
+El libro de providencias precautorias constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrarán el número asignado a la providencia precautoria en atención rigurosa a la fecha y hora de su ingreso; y, en su caso, el número de causa penal relacionada con la solicitud. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud de la providencia precautoria;
+
+III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la solicitud;
+
+V. Solicitante: se registrará la denominación de la autoridad que formula la solicitud, o bien, el nombre de la víctima u ofendido en caso de ser el solicitante, seguido de la leyenda “Ministerio Público” o “Víctima u ofendido”, según sea el caso;
+
+VI. Imputado: se anotarán, por cada solicitud:
+
+a) El nombre completo de la persona contra la que se ejerce la providencia. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
+
+b) En su caso, el alias o apodo correspondiente;
+
+VII. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VIII. Delito: se anotarán cada uno de los delitos por los cuales se realizó la solicitud;
+
+IX. Providencia Precautoria: se registrará el tipo de providencia precautoria solicitada;
+
+X. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la solicitud;
+
+XI. Resolución: se anotarán:
+
+a) La fecha y sentido de la resolución; y
+
+b) La fecha de notificación al Ministerio Público de la Federación, a la persona imputada, y, en su caso, a la víctima u ofendido;
+
+XII. Prórroga: en caso de que se haya solicitado la prórroga de la providencia precautoria, se registrará el plazo por el que se prorroga;
+
+XIII. Revisión: en caso de que se haya solicitado revisión, se anotará la fecha y sentido de la resolución de la revisión;
+
+XIV. Apelación: se asentarán:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XV. Amparo: se anotarán:
+
+a) El tipo de amparo promovido;
+
+b) El promovente;
+
+c) La fecha de presentación del amparo;
+
+d) La fecha de resolución; y
+
+e) El sentido de la ejecutoria del juicio de amparo;
+
+XVI. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XVII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número treinta y uno del anexo de este Acuerdo.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 173.
 
-La Comisión de Creación de Nuevos Órganos resolverá las cuestiones que se susciten con motivo de la aplicación de este Capítulo.
+El libro de comunicaciones de ingreso a lugar sin autorización judicial con consentimiento de quien se encuentre facultado constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+I. Expediente: se registrará el número asignado a la solicitud, en atención rigurosa a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
 
-En los casos relacionados con la aplicación del artículo 170 de este Acuerdo, la resolución se emitirá previo dictamen de la Dirección General de Gestión Judicial.
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud de la ratificación;
+
+III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la solicitud;
+
+V. Autoridad: se registrará la denominación de la autoridad que practicó el ingreso a lugar cerrado sin orden judicial;
+
+VI. Facultado: se asentará el nombre de la persona que otorgó su consentimiento para el ingreso;
+
+VII. Delito: se anotarán cada uno de los delitos por los cuales se realizó el ingreso;
+
+VIII. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la solicitud de ratificación;
+
+IX. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+X. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número treinta y dos del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 173 Bis.
+
+El libro de medidas cautelares constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrarán el número asignado a la medida cautelar en atención rigurosa a la fecha y hora de su ingreso; y, en su caso, el número de causa penal relacionada con la solicitud. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud de la medida cautelar;
+
+III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la solicitud;
+
+V. Solicitante: se registrará la denominación de la autoridad que formula la solicitud, o bien, el nombre de la víctima u ofendido en caso de ser el solicitante, seguido de la leyenda “Ministerio Público” o “Víctima u ofendido”, según sea el caso;
+
+VI. Imputado: se anotarán, por cada medida:
+
+a) El nombre completo de la persona contra la que se ejerce la medida. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
+
+b) En su caso, el alias o apodo correspondiente;
+
+VII. Delito: se anotarán cada uno de los delitos por los cuales se realizó la solicitud;
+
+VIII. Medida Cautelar: se registrará el tipo de medida cautelar solicitada, o bien, de la medida de protección impuesta por la o el Ministerio Público sujeta a revisión, según sea el caso;
+
+IX. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la solicitud;
+
+X. Resolución: se anotarán:
+
+a) Sentido de la resolución respecto a la medida cautelar solicitada; y
+
+b) En su caso, tipo de medida cautelar otorgada;
+
+c) Autoridad a quien corresponde vigilar la medida cautelar;
+
+d) Duración;
+
+XI. Revisión: en caso de que se haya solicitado revisión, se anotará la fecha y sentido de la resolución de la revisión;
+
+XII. Apelación: se asentarán:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XIII. Amparo: se anotarán:
+
+a) El tipo de amparo promovido;
+
+b) El promovente;
+
+c) La fecha de presentación del amparo;
+
+d) La fecha de resolución; y
+
+e) El sentido de la ejecutoria del juicio de amparo;
+
+XIV. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XV. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número treinta y tres del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 173 Ter.
+
+El libro de declaratorias de abandono de bienes constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrarán el número asignado a la declaratoria de abandono en atención rigurosa a la fecha y hora de su ingreso; y, en su caso, el número de causa penal relacionada con la solicitud. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud de la declaratoria de abandono de bienes;
+
+III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Solicitante: se registrará la denominación de la autoridad que formula la solicitud;
+
+V. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la solicitud;
+
+VI. Interesado: se asentará el nombre de la persona relacionada con el bien materia de la declaratoria de abandono de bienes. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado, en caso de que se desconozca su identidad, se deberá registrar la leyenda "Se desconoce";
+
+VII. Descripción: se anotarán los datos relativos al tipo y descripción de los bienes asegurados durante la investigación;
+
+VIII. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la declaratoria de abandono de bienes;
+
+IX. Resolución: se anotarán:
+
+a) El sentido de la resolución sobre la declaratoria de abandono de bienes; y
+
+b) La fecha de notificación a la autoridad que tiene los bienes bajo administración;
+
+X. Amparo: se anotarán:
+
+a) El tipo de amparo promovido;
+
+b) El promovente;
+
+c) La fecha de presentación del amparo;
+
+d) La fecha de resolución; y
+
+e) El sentido de la ejecutoria del juicio de amparo;
+
+XI. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número treinta y cuatro del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 173 Quater.
+
+El libro de impugnaciones contra determinaciones del Ministerio Público constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrará el número asignado a la solicitud, en atención rigurosa a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la impugnación;
+
+III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la impugnación;
+
+V. Solicitante: se registrará el nombre de la persona que impugna la determinación del Ministerio Público. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VI. Imputado: se anotarán:
+
+a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
+
+b) En su caso, el alias o apodo correspondiente;
+
+VII. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VIII. Delito: se anotarán cada uno de los delitos materia de la impugnación;
+
+IX. Determinación Impugnada: se anotará el tipo de determinación en contra de la cual se interpuso la impugnación;
+
+X. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la impugnación;
+
+XI. Resolución: se anotarán la fecha y sentido de la resolución;
+
+XII. Amparo: se utilizará únicamente cuando se promueva juicio de amparo en contra del fallo pronunciado por la o el juez de control, y en el que se anotarán:
+
+a) El tipo de amparo promovido;
+
+b) El promovente;
+
+c) La fecha de presentación del amparo;
+
+d) La fecha de resolución; y
+
+e) El sentido de la ejecutoria del juicio de amparo;
+
+XIII. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XIV. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número treinta y cinco del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 173 Quinquies.
+
+El libro de acuerdos reparatorios en etapa de investigación complementaria constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrará el número de causa penal relacionada con la solicitud;
+
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud;
+
+III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la solicitud;
+
+V. Solicitante: se registrará el nombre de la persona que solicite el acuerdo reparatorio. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VI. Imputado: se anotarán:
+
+a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
+
+b) En su caso, el alias o apodo correspondiente;
+
+VII. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VIII. Delito: se anotarán cada uno de los delitos materia del acuerdo reparatorio;
+
+IX. Audiencia: se asentarán:
+
+a) La fecha y hora de la audiencia en la que se resolvió la solicitud; y
+
+b) Sentido de la resolución;
+
+X. Conclusión: se registrará la fecha en que se decreta la extinción de la acción penal;
+
+XI. Medio de Impugnación: se asentarán, en su caso:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XII. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número treinta y seis del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 173 Sexies.
+
+El libro de pruebas anticipadas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrarán el número asignado a la prueba anticipada en atención rigurosa a la fecha y hora de su ingreso; y, en su caso, el número de causa penal relacionada con la solicitud. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud;
+
+III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la solicitud;
+
+V. Solicitante: se registrará el nombre de la persona que solicite el desahogo de la prueba anticipada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VI. Imputado: se anotarán:
+
+a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
+
+b) En su caso, el alias o apodo correspondiente;
+
+VII. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VIII. Delito: se anotarán cada uno de los delitos materia de la prueba;
+
+IX. Prueba Anticipada: se anotará el medio de prueba a desahogar anticipadamente;
+
+X. Audiencia: se asentarán:
+
+a) La fecha y hora de la audiencia en la que se resolvió la solicitud; y
+
+b) Sentido de la resolución;
+
+XI. Medio de Impugnación: se asentarán, en su caso:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) La fecha de remisión del recurso, seguida de la leyenda "Remisión";
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XII. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda "Centro de Concentración"; y
+
+XIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número treinta y siete del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 173 Septies.
+
+El libro de solicitudes de reserva de información constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrará el número de causa penal relacionada con la solicitud;
+
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud;
+
+III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la solicitud;
+
+V. Solicitante: se asentará la denominación de la autoridad que formula la solicitud de reserva de información;
+
+VI. Imputado: se anotarán:
+
+a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
+
+b) En su caso, el alias o apodo correspondiente;
+
+VII. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VIII. Delito: se anotarán cada uno de los delitos materia de la solicitud;
+
+IX. Audiencia: se asentarán:
+
+a) La fecha y hora de la audiencia en la que se resolvió la solicitud; y
+
+b) Sentido de la resolución;
+
+X. Prórroga: en caso de que se haya solicitado la prórroga de la reserva, se registrará la fecha en la que vence;
+
+XI. Medio de Impugnación: se asentarán, en su caso:
+
+a) El tipo de impugnación;
+
+b) El carácter de la persona recurrente;
+
+c) La fecha de recepción del recurso;
+
+d) La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
+
+e) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+f) El sentido de la resolución;
+
+XII. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número treinta y ocho del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 173 Octies.
+
+El libro de solicitudes de restablecimiento de cosas al estado previo constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrará el número de causa penal relacionada con la solicitud;
+
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud;
+
+III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la solicitud;
+
+V. Solicitante: se registrará el nombre de la persona que solicite el restablecimiento. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VI. Imputado: se anotarán:
+
+a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
+
+b) En su caso, el alias o apodo correspondiente;
+
+VII. Delito: se anotarán cada uno de los delitos materia del restablecimiento;
+
+VIII. Audiencia: se asentarán:
+
+a) La fecha y hora de la audiencia en la que se resolvió la solicitud; y
+
+b) Sentido de la resolución;
+
+IX. Medio de Impugnación: se asentarán:
+
+a) El tipo de amparo promovido;
+
+b) El promovente;
+
+c) La fecha de presentación del amparo;
+
+d) La fecha de resolución; y
+
+e) El sentido de la ejecutoria del juicio de amparo;
+
+X. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número treinta y nueve del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 173 Nonies.
+
+El libro de procedimientos de extradición constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrará el número asignado a la solicitud, en atención rigurosa a la fecha y hora de su ingreso al Centro de Justicia Penal Federal. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Carpeta: se asentará el número de la carpeta de investigación de la que derive la solicitud;
+
+III. Recepción: se anotará la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Persona requerida: se anotará el nombre de la persona respecto de la cual se solicite la extradición;
+
+V. Juez de Control: se registrará el nombre de la o el Juez de Control a quien correspondió conocer de la solicitud;
+
+VI. Resolución Inicial: se anotarán:
+
+a) Fecha y sentido del acuerdo inicial; y
+
+b) En su caso, fecha y sentido de la determinación que puso fin al procedimiento distinta a la opinión jurídica de la o el juez;
+
+VII. Detención Provisional: se anotará la fecha del auto que ordena la detención provisional con fines de extradición;
+
+VIII. Cumplimiento de Detención Provisional: se asentará la fecha en que se dé cumplimiento a la orden de detención provisional;
+
+IX. Petición Formal de Extradición: se anotará la fecha en que se reciba la promoción de la Fiscalía General de la República en la que solicite a la Jueza o Juez de Control, auto mandando cumplir la requisitoria de la Secretaría de Relaciones Exteriores y se ordene la detención de la persona requerida y, en su caso, el secuestro de papeles, dinero u otros objetos que se hallen en su poder, relacionados con el delito imputado o que puedan ser elementos de prueba, cuando así lo hubiere pedido el Estado solicitante;
+
+X. Opinión jurídica: se anotará el sentido de la opinión jurídica que emita la o el Juez, utilizando la palabra “Procedente”, en el supuesto en que se considere de esta manera la petición formal de extradición, e “Improcedente”, en caso contrario, seguida de la fecha en que se pronuncie la resolución respectiva;
+
+XI. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cuarenta del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 173 Decies.
+
+El libro de control obligatorio para el registro de las actuaciones del tribunal de enjuiciamiento, es el libro uno de causas penales en tribunal de enjuiciamiento.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Undecies. El libro de causas penales en tribunal de enjuiciamiento constará de las siguientes columnas, en las que deberán registrarse los datos que se indican, por persona imputada, independientemente de que corresponda o no a una misma causa penal:
+
+I. Causa Penal: se registrará el número de la causa penal correspondiente;
+
+II. Tribunal de Enjuiciamiento: se asentará el nombre de la o el Juez a quien correspondió conocer de la causa en esa etapa;
+
+III. Imputado: se anotarán, por cada persona imputada:
+
+a) El nombre completo de la persona contra la que se ejerce la acción penal. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado; y
+
+b) En su caso, el alias o apodo correspondiente;
+
+IV. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+V. Delito: se registrarán, por persona imputada y en forma separada, cada uno de los delitos por los cuales se formalizó acusación;
+
+VI. Suspensión del procedimiento: se registrarán, por cada persona imputada:
+
+a) La fecha en que se ordene suspender la audiencia de juicio;
+
+b) El fundamento de la suspensión; y
+
+c) La fecha en que se reanuda la audiencia, seguida de la leyenda "Fecha del levantamiento de la suspensión";
+
+VII. Sobreseimiento: se asentará por cada persona imputada, la fecha de éste;
+
+VIII. Audiencia de juicio: se registrarán, por cada persona imputada, la fecha y hora de celebración de la audiencia;
+
+IX. Fallo: se anotarán, por cada persona imputada, el sentido de la resolución;
+
+X. Audiencia de individualización y reparación del daño: se registrarán, por cada persona imputada, la fecha y hora de celebración de la audiencia;
+
+XI. Sentencia: se registrarán, por cada persona imputada, la fecha de la versión escrita de ésta;
+
+XII. Audiencia explicación de sentencia: se registrarán, por cada persona imputada, la fecha y hora de celebración de la audiencia;
+
+XIII. Ejecución: se anotará la fecha de remisión de la sentencia firme a la o el Juez de Ejecución;
+
+XIV. Nulidad de actos procedimentales: se registrarán, por cada solicitud:
+
+a) El carácter del solicitante;
+
+b) La fecha de recepción de la solicitud;
+
+c) Tipo de solicitud (nulidad, saneamiento, convalidación);
+
+d) Acto procedimental sobre el que versa la solicitud;
+
+e) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+f) El sentido de la resolución;
+
+XV. Revocación: se registrarán, por cada recurso interpuesto contra resoluciones de mero trámite que se resuelvan sin sustanciación:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) Acto impugnado;
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XVI. Queja: se registrarán, por cada recurso interpuesto en contra de la persona juzgadora de primera instancia por no realizar un acto procesal dentro del plazo señalado:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) Acto impugnado;
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XVII. Apelación: se registrarán, por cada recurso interpuesto contra la sentencia:
+
+a) El carácter de la persona recurrente;
+
+b) La fecha de recepción del recurso;
+
+c) La fecha de remisión del asunto, seguida de la leyenda “Remisión”;
+
+d) La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+e) El sentido de la resolución;
+
+XVIII. Amparo: se anotarán:
+
+a) El tipo de amparo promovido;
+
+b) El promovente;
+
+c) La fecha de presentación del amparo;
+
+d) La fecha de resolución; y
+
+e) El sentido de la ejecutoria del juicio de amparo;
+
+XIX. Archivo: se asentarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XX. Observaciones: deberán anotarse los datos relativos a los siguientes supuestos:
+
+a) En caso de que la o el Juez se declare legalmente incompetente o impedido, se deberá indicar el tipo, ya sea declinatoria o inhibitoria para el primero, o bien, excusa o recusación, en el segundo;
+
+b) Cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cuarenta y uno del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Duodecies. El libro de solicitudes relacionadas con la Ejecución de Penas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican, por procesado o sentenciado, independientemente de que corresponda o no a una misma causa penal:
+
+I. Expediente: se registrará el número asignado a la solicitud, en atención rigurosa a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Tipo de Solicitud: deberá anotarse el tipo de solicitud de que se trate: SIPE, SM, SD, SE, SEMC, ST y C, que corresponden, en su orden, a solicitudes de inicio de procedimiento de ejecución, modificación, duración y extinción de las penas, ejecución de medida cautelar, solicitudes de traslado y controversias.
+
+Las solicitudes de inicio del procedimiento de ejecución serán todas aquellas que se aperturen con motivo de la recepción de la sentencia y el auto que la declare ejecutoriada.
+
+Las solicitudes de modificación de las penas serán aquellas referentes al conocimiento y resolución, en su caso, de beneficios que deriven de la modificación a la ley, como la aplicación retroactiva de la ley en beneficio, la traslación del tipo penal u otros análogos.
+
+Las solicitudes relativas a la duración de las penas incluirán lo relativo a la aplicación del indulto, la amnistía, la compurga simultánea de penas, la libertad anticipada, la remisión parcial de la pena, el tratamiento preliberacional, la aplicación de la ley más favorable, la determinación de inimputabilidad, y otras semejantes que se vinculen con la medición del tiempo que deba transcurrir para tener por cumplida la pena.
+
+Las solicitudes referentes a la extinción de las penas comprenderán lo relativo a la declaratoria formal de extinción de la pena privativa de libertad, la condena condicional y la substitución de las penas.
+
+Las solicitudes de ejecución de medida cautelar serán todas aquellas que se aperturen con motivo de la recepción del auto por el que se impone la medida cautelar.
+
+Las solicitudes referentes a los traslados incluirán lo relativo a los traslados voluntarios e involuntarios.
+
+Finalmente, las controversias serán todas aquellas que versen sobre las condiciones de internamiento y cuestiones relacionadas con las mismas; el plan de actividades de la persona privada de la libertad y cuestiones relacionadas con el mismo, que impliquen violación de derechos fundamentales; los derechos propios de quienes soliciten ingresar o hayan ingresado al Centro como visitantes, defensores públicos y privados, defensores en los tribunales de amparo, y observadores por parte de organizaciones de la sociedad civil; y, de la duración, modificación y extinción de las medidas de seguridad;
+
+III. Recepción: se anotarán la fecha y hora en que se presentó la solicitud en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Juez de Ejecución: se registrará el nombre de la o el Juez de Ejecución a quien correspondió conocer de la solicitud;
+
+V. Solicitante: se asentará la denominación de la autoridad, o bien, el nombre del procesado o sentenciado que formula la solicitud;
+
+VI. Datos de Origen: se asentarán:
+
+a) Órgano jurisdiccional de origen;
+
+b) Número de causa penal de la que deriva la solicitud;
+
+c) La fecha en que se dictó la sentencia, o en su caso, la fecha del auto de imposición de la medida cautelar; y
+
+d) En su caso, la fecha en que causó ejecutoria la sentencia;
+
+VII. Resolución Inicial: se registrarán la fecha y sentido del acuerdo de inicio;
+
+VIII. Audiencia: se asentará la fecha de la audiencia en la que se resolvió la solicitud;
+
+IX. Resolución: se anotarán, según sea el caso:
+
+a) La fecha y motivo de la extinción de la pena; y
+
+b) La fecha y sentido de resolución;
+
+X. Impugnación: se asentarán, en su caso:
+
+a) Apelación:
+
+1. El carácter de la persona recurrente;
+
+2. La fecha de recepción del recurso;
+
+3. La fecha de remisión del recurso, seguida de la leyenda “Remisión”;
+
+4. La fecha de resolución, seguida de la leyenda "Resolución"; y
+
+5. El sentido de la resolución;
+
+b) Amparo:
+
+1. El tipo de amparo promovido;
+
+2. El promovente;
+
+3. La fecha de presentación del amparo;
+
+4. La fecha de resolución; y
+
+5. El sentido de la ejecutoria del juicio de amparo;
+
+XI. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cuarenta y dos del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Terdecies. Son libros de control obligatorios para el registro de las actuaciones del tribunal de alzada, los siguientes:
+
+I. Libro uno: Registro de apelaciones;
+
+II. Libro dos: Registro de quejas;
+
+III. Libro tres: Registro de conflictos competenciales y excepciones de incompetencia;
+
+IV. Libro cuatro: Registro de excusas y recusaciones; y
+
+V. Libro cinco: Registro de reconocimiento de inocencia y anulación de sentencia.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Quaterdecies. El libro de registro de apelaciones constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Toca: se registrará el número asignado a la apelación, en atención a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Recepción: se anotarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
+
+III. Tribunal de Alzada: se asentará la denominación del tribunal de alzada al que se asignó el toca;
+
+IV. Apelante: se registrarán:
+
+a) El carácter del apelante en el expediente de origen, en su caso, de la adherente; y
+
+b) El nombre, nombres o alias de las y los apelantes, en su caso, de la adherente;
+
+V. Datos de origen: se anotarán:
+
+a) El número de expediente que corresponda al proceso de primera instancia dentro del cual se haya interpuesto el recurso;
+
+b) El tipo de asunto; y
+
+c) El órgano jurisdiccional de origen;
+
+VI. Resolución apelada: se asentarán:
+
+a) La fecha de la resolución apelada; y
+
+b) El tipo de resolución que se haya impugnado a través del recurso;
+
+VII. Resolución inicial: se registrarán:
+
+a) La fecha del primer acuerdo; y
+
+b) El sentido del primer acuerdo;
+
+VIII. Suspensión del procedimiento: se anotarán:
+
+a) La fecha del auto que ordene la suspensión del procedimiento; y
+
+b) La fecha en que se reanuda el proceso, seguida de la leyenda "Fecha del levantamiento de la suspensión";
+
+IX. Audiencia de alegatos aclaratorios: se asentarán la fecha y hora de celebración de la audiencia;
+
+X. Resolución definitiva: se registrarán:
+
+a) La fecha de resolución; y
+
+b) El sentido de la resolución, utilizando a manera de ejemplo las expresiones "Confirma", "Modifica", "Revoca", "Desierto", “Repone procedimiento”, “Sobreseimiento”, “Sin materia”, “Mal admitido”, “Impedimento”, según sea el caso, etcétera;
+
+XI. Amparo: se anotarán:
+
+a) El tipo de amparo promovido;
+
+b) El promovente o alias;
+
+c) La fecha de presentación del amparo;
+
+d) La fecha de resolución; y
+
+e) El sentido de la ejecutoria del juicio de amparo;
+
+XII. Archivo: se asentarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cuarenta y tres del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Quindecies. El libro de registro de quejas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Toca: se registrará el número asignado a la queja, en atención a la fecha y hora de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Recepción: se anotarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
+
+III. Tribunal de Alzada: se asentará la denominación del tribunal de alzada al que se asignó el toca;
+
+IV. Quejoso: se registrarán:
+
+a) El carácter de la persona quejosa en el expediente de origen; y
+
+b) El nombre de la persona quejosa
+
+V. Datos de origen: se anotarán:
+
+a) El número de expediente que corresponda al proceso de primera instancia dentro del cual se haya interpuesto el recurso;
+
+b) El tipo de asunto; y
+
+c) El nombre de la o el Juez de Control contra quien se promovió la queja;
+
+VI. Acto procesal impugnado: se asentará el tipo de resolución que se haya impugnado a través del recurso;
+
+VII. Resolución inicial: se registrarán:
+
+a) La fecha del primer acuerdo; y
+
+b) El sentido del primer acuerdo;
+
+VIII. Resolución definitiva: se registrarán:
+
+a) La fecha de resolución; y
+
+b) El sentido de la resolución, utilizando a manera de ejemplo las expresiones "Procedente", "Improcedente", “Sin materia”, según sea el caso, etcétera;
+
+IX. Archivo: se asentarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+X. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cuarenta y cuatro del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Sexdecies. El libro de registro conflictos competenciales constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrará el número asignado al asunto, en atención rigurosa a la fecha de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Recepción: se anotarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
+
+III. Tribunal de Alzada: se asentará la denominación del tribunal de alzada al que se asignó el asunto;
+
+IV. Tipo: se registrará el tipo de incompetencia;
+
+V. Promovente: se anotará:
+
+a) En el caso de los conflictos competenciales, la denominación de la o el juez que remitió las actuaciones; y
+
+b) En caso de excepciones de incompetencia, el nombre del promovente;
+
+VI. Órganos jurisdiccionales contendientes: se asentará con claridad la denominación de los centros que intervengan en el conflicto competencial, o bien, el nombre de las y los jueces contendientes;
+
+VII. Datos de origen: se registrará el número del expediente que corresponda a aquél en el cual se hubiese planteado el conflicto competencial o en el que se hizo valer la excepción de incompetencia;
+
+VIII. Resolución inicial: se anotarán:
+
+a) La fecha del primer acuerdo; y
+
+b) El sentido del primer acuerdo;
+
+IX. Resolución definitiva: se asentarán:
+
+a) La fecha de resolución; y
+
+b) El sentido de la resolución, utilizando a manera de ejemplo las expresiones “Competente el requerido”, “Competente el requirente”, “Competente otro órgano diferente”, “No existe conflicto”, etcétera, según sea el caso;
+
+X. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cuarenta y cinco del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Septdecies. El libro de registro excusas y recusaciones constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrará el número asignado al asunto, en atención rigurosa a la fecha de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Recepción: se anotarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
+
+III. Tribunal de Alzada: se asentará la denominación del tribunal de alzada al que se asignó el asunto;
+
+IV. Tipo: se registrará el tipo de procedimiento;
+
+V. Promovente: se anotará:
+
+a) En el caso de excusa, la denominación de la o el juez que remitió las actuaciones; y
+
+b) En caso de recusación, el nombre del promovente;
+
+VI. Datos de origen: se asentarán:
+
+a) La denominación de la o el Juez de donde provenga la excusa o recusación;
+
+b) Número de expediente dentro del cual se haya presentado la excusa o promovido la recusación; y
+
+c) El tipo de asunto dentro del cual se haya presentado la excusa o promovido la recusación;
+
+VII. Causa: se registrará el motivo de la excusa o recusación;
+
+VIII. Resolución inicial: se anotarán:
+
+a) La fecha del primer acuerdo; y
+
+b) El sentido del primer acuerdo;
+
+IX. Resolución definitiva: se asentarán:
+
+a) La fecha de resolución; y
+
+b) El sentido de la resolución, utilizando, entre otras, las expresiones: "Procedente", "Improcedente", “Se califica de legal”, “No se califica de legal”, etcétera, según sea el caso;
+
+X. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cuarenta y seis del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Octodecies. El libro de registro de reconocimiento de inocencia y anulación de sentencia constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Expediente: se registrará el número asignado al asunto, en atención rigurosa a la fecha de su ingreso. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Recepción: se anotarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
+
+III. Tribunal de Alzada: se asentará la denominación del tribunal de alzada al que se asignó el asunto;
+
+IV. Solicitante: se registrará el nombre de la persona que formula la solicitud. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+V. Datos de Origen: se asentarán:
+
+a) Órgano jurisdiccional de origen;
+
+b) Número de causa penal de la que deriva la solicitud;
+
+c) La fecha en que se dictó la sentencia; y
+
+d) La fecha en que causó ejecutoria la sentencia;
+
+VI. Víctima u ofendido: se asentará el nombre completo de cada persona que intervenga en el expediente con tal carácter. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+VII. Delito: se anotarán cada uno de los delitos por los cuales se realizó la solicitud;
+
+VIII. Tipo: se registrará el tipo de procedimiento;
+
+IX. Causa: se registrará el motivo por el que se promueve el procedimiento;
+
+X. Audiencia: se asentará la fecha y hora de la audiencia en la que se resolvió la solicitud;
+
+XI. Resolución definitiva: se registrarán:
+
+a) La fecha de resolución; y
+
+b) El sentido de la resolución;
+
+XII. Archivo: se registrarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”; y
+
+XIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cuarenta y siete del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Novodecies. Son libros de control obligatorios para el registro de las actuaciones comunes del Centro de Justicia Penal Federal, los siguientes:
+
+I. Libro de comunicaciones oficiales enviadas;
+
+II. Libro de comunicaciones oficiales recibidas;
+
+III. Libro de certificados de depósito;
+
+IV. Libro de pólizas de fianza y otras garantías;
+
+V. Libro de documentos importantes;
+
+VI. Libro de armas de fuego;
+
+VII. Libro de vehículos;
+
+VIII. Libro de objetos que pueden ser producto, instrumento u objeto de delitos;
+
+IX. Libro de drogas; y
+
+X. Libro de presentaciones.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Vicies. El libro de registro de comunicaciones oficiales enviadas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Número de orden: se registrará el número asignado a la comunicación oficial enviada, en atención rigurosa a la fecha en que se ordena. El número será progresivo. La numeración de las comunicaciones iniciará cada año;
+
+II. Tipo de comunicación: se anotará el tipo de comunicación oficial enviada asentando las expresiones “Exhorto”, “Carta rogatoria”, “Despacho” o “Requisitoria”;
+
+III. Envío: se asentará la fecha en que se envía la comunicación oficial;
+
+IV. Expediente: se registrarán:
+
+a) El número del expediente del que deriva la comunicación enviada;
+
+b) El tipo del asunto del que deriva la comunicación;
+
+V. Órgano jurisdiccional: se anotará el nombre de la o el Juez o Magistrado que envía la comunicación oficial;
+
+VI. Objetivo: se señalará de manera breve, el objetivo de la diligencia encomendada en la comunicación de que se trate, utilizando enunciativamente las palabras “Emplazamiento”, si éste fue el fin para el que se libró; “Citación”, si fuere el caso o “Desahogo de prueba”, en este último supuesto, etcétera;
+
+VII. Autoridad requerida: se registrarán:
+
+a) La denominación oficial del órgano jurisdiccional que hubiese recibido la comunicación para su diligenciación;
+
+b) El número de comunicación asignado por el órgano que hubiese recibido la comunicación;
+
+VIII. Diligenciación: se anotará:
+
+a) En caso de haberse diligenciado la fecha de la diligencia;
+
+b) En caso de haberse diligenciado parcialmente, la fecha de la diligencia, seguida de la leyenda “Parcialmente”;
+
+c) En caso de que no se haya diligenciado, la fecha del acuerdo en que se ordena la devolución, seguido de la leyenda “Sin diligenciar”;
+
+IX. Devolución: se asentará la fecha en que se recibió por devolución la comunicación en la oficialía de partes del órgano requirente; y
+
+X. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cuarenta y ocho del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Unvicies. El libro de registro de comunicaciones oficiales recibidas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Número de orden: se registrará el número asignado al asunto, en atención rigurosa a la fecha y hora de su ingreso al Centro de Justicia Penal Federal. El número será progresivo y el año se indicará con cuatro dígitos después de una diagonal. La numeración iniciará cada año;
+
+II. Tipo de comunicación: se anotará el tipo de comunicación oficial recibida, asentando las expresiones “Exhorto”, “Carta rogatoria”, “Despacho” o “Requisitoria”;
+
+III. Recepción: se asentarán la fecha y hora en que se presentó el asunto en la oficialía de partes del Centro de Justicia Penal Federal;
+
+IV. Datos de origen: se registrarán:
+
+a) El número de comunicación oficial, en su caso;
+
+b) El número de expediente del que deriva la comunicación oficial recibida;
+
+c) La autoridad remitente de la comunicación oficial recibida;
+
+V. Órgano jurisdiccional: se anotará el nombre de la o el Juez o Magistrado al que se asignó el expediente;
+
+VI. Objetivo: se señalará de manera breve, el objetivo de la diligencia encomendada en la comunicación de que se trate, utilizando enunciativamente las palabras “Emplazamiento”, si éste fue el fin para el que se libró; “Citación”, si fuere el caso o “Desahogo de prueba”, en este último supuesto, etcétera;
+
+VII. Resolución inicial: se asentará la fecha en que se ordenó la diligenciación;
+
+VIII. Diligenciación: se registrará:
+
+a) En caso de haberse diligenciado la fecha de la diligencia;
+
+b) En caso de haberse diligenciado parcialmente, la fecha de la diligencia, seguida de la leyenda “Parcialmente”;
+
+c) En caso de que no se haya diligenciado, la fecha del acuerdo en que se ordena la devolución, seguido de la leyenda “Sin diligenciar”;
+
+IX. Devolución: se anotará la fecha en que se devuelve materialmente la comunicación;
+
+X. Archivo: se asentarán:
+
+a) La fecha en que materialmente se remita el expediente al archivo;
+
+b) El resultado de la valoración documental del expediente; y
+
+c) La fecha de transferencia al centro de concentración, seguida de la leyenda “Centro de Concentración”;
+
+XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cuarenta y nueve del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Duovicies. El libro de registro de certificados de depósito constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Número de orden: se registrarán con numeración progresiva y ascendente, en atención rigurosa a la fecha de su recepción, los certificados de depósito exhibidos como garantía; el año se indicará con cuatro dígitos después de una diagonal y la numeración iniciará cada año;
+
+II. Expediente: se anotará el número y tipo de asunto en el que se exhiba;
+
+III. Recepción: se asentará la fecha y hora en que se reciba en la oficialía de partes del Centro de Justicia Penal Federal el certificado de depósito;
+
+IV. Órgano jurisdiccional: se registrará el nombre de la o el Juez o Magistrado al que se le deje a disposición el certificado de depósito;
+
+V. Depositante: se anotará:
+
+a) El nombre de la persona a cuyo favor se otorgó la garantía, seguido de su carácter procesal;
+
+b) En su caso, el nombre del tercero que haya constituido la garantía;
+
+VI. Certificado: se asentarán:
+
+a) La fecha de expedición del certificado de depósito;
+
+b) La serie y número del certificado;
+
+c) La cantidad que ampare el documento;
+
+d) El concepto por el cual se constituye la garantía, conforme al catálogo;
+
+VII. Acuerdo: se registrará:
+
+a) La fecha del acuerdo que recaiga a la presentación de la garantía;
+
+b) El sentido del acuerdo;
+
+VIII. Destino: se asentará:
+
+a) La fecha del acuerdo que determine el destino del certificado, seguida de la leyenda “Acuerdo”;
+
+b) El sentido del acuerdo de destino;
+
+c) En caso de acordarse la devolución o endoso del certificado sin que éste se haya entregado, la fecha del acuerdo que determine la prescripción, seguida de la leyenda “Prescripción”;
+
+d) La fecha de cumplimiento del acuerdo de destino o prescripción, seguida de la leyenda “Cumplimiento”;
+
+IX. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cincuenta del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Tervicies. El libro de registro de pólizas de fianza y otras garantías constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Número de orden: se registrará el número asignado a la garantía otorgada en forma diversa a los certificados de depósito, incluso el dinero en efectivo que se reciba en cualquier etapa del procedimiento, en atención rigurosa a la fecha de su recepción. El número será progresivo, el año se indicará con cuatro dígitos después de una diagonal y la numeración iniciará cada año;
+
+II. Expediente: se anotará el número y tipo de asunto en el que se exhiba;
+
+III. Recepción: se asentará la fecha y hora en que se reciba en la oficialía de partes del Centro de Justicia Penal Federal la póliza o garantía diversa a los certificados de depósito;
+
+IV. Órgano jurisdiccional: se registrará el nombre de la o el Juez o Magistrado al que se le deje a disposición la póliza o garantía diversa a los certificados de depósito;
+
+V. Parte: se anotará:
+
+a) El nombre de la persona a cuyo favor se otorgó la póliza o garantía diversa, seguido de su carácter procesal;
+
+b) En su caso, el nombre de la o el tercero que haya constituido la garantía
+
+c) En el caso de que la garantía se exhiba en efectivo o en especie, el nombre de la persona que la deposite;
+
+VI. Garantía: se asentará:
+
+a) El tipo de garantía que se exhiba, anotando, enunciativamente las expresiones “Póliza de fianza”, “Prenda”, “Hipoteca”, “Fideicomiso”, etcétera;
+
+b) En su caso, el número de documento que identifique a la garantía;
+
+c) La cantidad que ampare la garantía;
+
+d) El concepto por el cual se constituye la garantía;
+
+VII. Acuerdo: se registrará:
+
+a) La fecha del acuerdo que recaiga a la presentación de la póliza o garantía diversa;
+
+b) El sentido del acuerdo;
+
+VIII. Destino: se anotará:
+
+a) La fecha del acuerdo que determine el destino de la póliza o garantía diversa;
+
+b) El sentido del acuerdo de destino;
+
+c) En caso de acordarse la devolución de la póliza o garantía prendaria sin que se cumpla, la fecha del acuerdo que determine su destino final, seguida de la leyenda “Se hace efectivo el apercibimiento”:
+
+d) La fecha de cumplimiento del acuerdo de destino, seguida de la leyenda “Cumplimiento”;
+
+IX. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cincuenta y uno del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Quatervicies. El libro de registro de documentos importantes constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Número de orden: se registrará el número asignado al documento exhibido con finalidad diversa a garantía en atención rigurosa a la fecha de su recepción. El número será progresivo, el año se indicará con cuatro dígitos después de una diagonal y la numeración iniciará cada año;
+
+II. Expediente: se anotará el número y tipo de asunto en el que se exhiba;
+
+III. Recepción: se asentará la fecha y hora en que se reciba en la oficialía de partes del Centro de Justicia Penal Federal el documento importante;
+
+IV. Órgano jurisdiccional: se registrará el nombre de la o el Juez o Magistrado al que se le deje a disposición el documento importante;
+
+V. Documento: se asentará:
+
+a) El tipo de documento que se exhiba;
+
+b) En su caso, el número que identifique al documento;
+
+c) En su caso, la cantidad que ampare el documento;
+
+VI. Acuerdo: se registrará:
+
+a) La fecha del acuerdo que recaiga a la presentación del documento;
+
+b) El sentido del acuerdo;
+
+VII. Destino: se anotará:
+
+a) La fecha del acuerdo que determine el destino del documento;
+
+b) El sentido del acuerdo de destino;
+
+c) En caso de acordarse la devolución del documento sin que se cumpla, la fecha del acuerdo que determine su destino final, seguida de la leyenda “Se hace efectivo el apercibimiento”;
+
+d) La fecha de cumplimiento del acuerdo de destino, seguida de la leyenda “Cumplimiento”;
+
+VIII. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cincuenta y dos del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Quinvicies. El libro de registro de armas de fuego constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Número de orden: se registrarán todas las armas de fuego que se pongan a disposición física o virtual del Centro de Justicia Penal Federal con numeración progresiva y ascendente, atendiendo a la fecha de recepción en la oficialía de partes, con independencia del lugar en que dichas armas se encuentren. Si en una sola causa, fueren puestas a disposición varias armas, éstas se anotarán bajo un mismo registro. Si hubiera aseguramientos posteriores, se anotarán en un nuevo registro;
+
+II. Expediente: se señalará el número de la causa penal en la que se deje a disposición del Centro de Justicia Penal Federal el o las armas de fuego de que se trate;
+
+III. Recepción: se anotará la fecha y hora en que se reciba en la oficialía de partes del Centro de Justicia Penal Federal el arma o que se ponga a disposición de la o el Juez o tribunal, ya sea en forma física o virtual;
+
+IV. Órgano jurisdiccional: se registrará el nombre de la o el Juez o Magistrado al que se le deje a disposición el arma;
+
+V. Descripción: se describirá el tipo de arma de fuego de que se trate, asentando características tales como: calibre, número de serie, marca, etcétera;
+
+VI. Acuerdo: se anotará la fecha en que se pronuncie el acuerdo por medio del cual se tenga por puesta a disposición del Centro de Justicia Penal Federal el arma de que se trate;
+
+VII. Depósito: se registrará el lugar y la denominación del depositario. En caso de existir más de un depositario, la denominación de cada uno de ellos. En caso de cambio de depositario, actualizar la denominación;
+
+VIII. Destino: se anotará:
+
+a) La fecha de la resolución que determine el destino;
+
+b) El sentido del acuerdo de destino;
+
+c) La fecha de devolución material o de notificación de la resolución que determine el destino;
+
+d) En caso de abandono:
+
+1) La leyenda "Abandono";
+
+2) La fecha de entrega o notificación a la autoridad correspondiente;
+
+IX. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Se deberá observar, al realizar las anotaciones en este libro, que la expresión "arma" o "armas de fuego", implica el registro de cartuchos, municiones, bayonetas, sables, lanzas y todo objeto que sea necesario para el uso, complemento o percusión de éstas, siempre que se trate de objetos regulados específicamente en la Ley Federal de Armas de Fuego y Explosivos.
+
+Este libro se llevará conforme a la tabla número cincuenta y tres del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Sexvicies. El libro de registro de vehículos constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Número de orden: se registrarán todos los vehículos que se pongan a disposición física o virtual del Centro de Justicia Penal Federal con numeración progresiva y ascendente, atendiendo a la fecha de recepción en la oficialía de partes del centro de justicia, con independencia del lugar en que se encuentren. Si en una sola causa, fueren puestos a disposición varios vehículos, éstos se anotarán bajo un mismo registro. Si hubiera aseguramientos posteriores, se anotarán en un nuevo registro;
+
+II. Expediente: se señalará el número de la causa penal en la que se deje a disposición del Centro de Justicia Penal Federal el o los vehículos de que se trate;
+
+III. Recepción: se registrará la fecha en que se haya decretado el aseguramiento;
+
+IV. Órgano jurisdiccional: se anotará el nombre de la o el Juez o Magistrado al que se le deje a disposición el vehículo;
+
+V. Descripción: se describirá el tipo de vehículo asegurado y las características que permitan su identificación;
+
+VI. Acuerdo: se anotará la fecha en que se pronuncie el acuerdo por medio del cual se tenga por puesta a disposición del Centro de Justicia Penal Federal el vehículo de que se trate;
+
+VII. Depósito: se registrará el lugar y la denominación del depositario. En caso de existir más de un depositario, la denominación de cada uno de ellos. En caso de cambio de depositario, actualizar la denominación;
+
+VIII. Destino: se anotará:
+
+a) La fecha de la resolución que determine el destino;
+
+b) El sentido del acuerdo de destino;
+
+c) La fecha de devolución material o de notificación de la resolución que determine el destino;
+
+d) En caso de abandono:
+
+1) La leyenda "Abandono";
+
+2) La fecha de entrega o notificación a la autoridad correspondiente;
+
+IX. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cincuenta y cuatro del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Septvicies. El libro de registro de objetos que pueden ser producto, instrumento u objeto de delitos constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Número de orden: se registrarán los objetos denominados como bienes en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público que sean puestos a disposición física o virtual de la o el Juez o tribunal, con numeración progresiva y ascendente, atendiendo a la fecha de recepción en la oficialía de partes del Centro de Justicia Penal Federal, con independencia del lugar en que se encuentren. Si en una sola causa fueran puestos a disposición varios objetos, se anotarán bajo un mismo registro. Si hubiera aseguramientos posteriores, se anotarán en un nuevo registro;
+
+II. Expediente: se señalará el número de la causa penal en la que se deje a disposición del Centro de Justicia Penal Federal el o los objetos de que se trate;
+
+III. Recepción: se registrará la fecha en que se haya decretado el aseguramiento;
+
+IV. Órgano jurisdiccional: se anotará el nombre de la o el Juez o Magistrado al que se le deje a disposición el objeto;
+
+V. Descripción: se describirá el tipo de objeto y las características que permitan su identificación;
+
+VI. Acuerdo: se anotará la fecha en que se pronuncie el acuerdo por medio del cual se tenga por puesta a disposición del Centro de Justicia Penal Federal el objeto de que se trate;
+
+VII. Depósito: se registrará el lugar y la denominación del depositario. En caso de existir más de un depositario, la denominación de cada uno de ellos. En caso de cambio de depositario, actualizar la denominación;
+
+VIII. Destino: se anotará:
+
+a) La fecha de la resolución que determine el destino;
+
+b) El sentido del acuerdo de destino;
+
+c) La fecha de devolución material o de notificación de la resolución que determine el destino;
+
+d) En caso de abandono:
+
+1) La leyenda "Abandono";
+
+2) La fecha de entrega o notificación a la autoridad correspondiente;
+
+IX. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cincuenta y cinco del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Octovicies. El libro de registro de drogas constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Número de orden: se registrarán con numeración progresiva y ascendente, todos los narcóticos que se pongan a disposición del Centro de Justicia Penal Federal, con independencia del lugar en que se encuentren, atendiendo a la fecha de recepción en la oficialía de partes. Si en una misma causa se encontraren relacionados varios tipos de narcóticos o se hubiese remitido una muestra y el resto se haya dejado a disposición del centro de justicia en un lugar diverso, a todos deberá asignarse un mismo número de registro;
+
+II. Expediente: se señalará el número de la causa penal en la que se deje a disposición del Centro de Justicia Penal Federal el o los narcóticos de que se trate;
+
+III. Recepción: se registrará la fecha en que se haya decretado el aseguramiento;
+
+IV. Órgano jurisdiccional: se anotará el nombre de la o el Juez o Magistrado al que se le deje a disposición el narcótico;
+
+V. Descripción en el Centro de Justicia Penal Federal: se describirá:
+
+a) El tipo o la clase de narcótico de que se trate, utilizando, a manera de ejemplo las expresiones “Marihuana”, “Cocaína”, “Morfina”, “Pastillas psicotrópicas”, según se trate;
+
+b) La cantidad del narcótico que se haya puesto a disposición física del Centro de Justicia Penal Federal;
+
+VI. Descripción fuera del Centro de Justicia Penal Federal: se anotarán los datos asentados en la fracción V de este artículo, cuando además se hubiese dejado a disposición del Centro de Justicia Penal Federal cierta cantidad de narcótico en un sitio diverso;
+
+VII. Acuerdo: se anotará la fecha en que se pronuncie el acuerdo por medio del cual se tenga por puesta a disposición del Centro de Justicia Penal Federal el narcótico de que se trate;
+
+VIII. Depósito: se utilizará cuando además del recibido físicamente en el Centro de Justicia Penal Federal, se deje a disposición otra cantidad de narcótico en un lugar diverso, se registrará el lugar y la denominación del depositario. En caso de existir más de un depositario, la denominación de cada uno de ellos. En caso de cambio de depositario, actualizar la denominación;
+
+IX. Destino de la droga en el Centro de Justicia Penal Federal: se anotará:
+
+a) El destino final que se haya dado al narcótico que estuvo en forma real en el Centro de Justicia Penal Federal, utilizando las expresiones “Decomiso”, si ésta hubiere sido la determinación tomada o bien, “Remisión”, si se hubiere determinado su envío a la autoridad sanitaria;
+
+b) El número de oficio y la fecha en que la autoridad sanitaria, reciba físicamente el narcótico que se encontraba en el centro de justicia;
+
+X. Destino de la droga fuera del Centro de Justicia Penal Federal: se anotará:
+
+a) Cuando además del narcótico recibido físicamente en el Centro de Justicia Penal Federal, se hubiese dejado a disposición otra cantidad en un lugar diverso, se referirá al destino final de este narcótico, y se asentarán las palabras “Decomiso” o “Remisión”, según se haya determinado;
+
+b) La fecha en que la autoridad que tenga físicamente el narcótico, reciba el oficio que le comunica el decomiso y que queda en libertad de realizar su destrucción o bien, proceder a su aprovechamiento; y
+
+XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cincuenta y seis del anexo de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+Artículo 173 Novovicies. El libro de registro de presentaciones constará de las siguientes columnas, en las que deberán registrarse los datos que se indican:
+
+I. Número de orden: se registrará el número asignado en atención rigurosa a la fecha de registro. El número será progresivo, el año se indicará con cuatro dígitos después de una diagonal y la numeración iniciará cada año;
+
+II. Expediente: se anotará el número de la causa penal o expediente en que se haya impuesto la medida cautelar;
+
+III. Órgano jurisdiccional: se asentará el nombre de la o el Juez o Magistrado ante el que se deba presentar;
+
+IV. Alta: se registrará la fecha en que deba realizarse la primera presentación;
+
+V. Imputado: se anotarán:
+
+a) El nombre completo de la persona imputada. En caso de ser persona jurídica se anotará su denominación y no la de su representante o apoderado;
+
+b) En su caso, el alias o apodo correspondiente;
+
+VI. Periodicidad: se asentará la periodicidad con que deba presentarse la persona imputada ante la o el juez o tribunal, que podría ser semanal, quincenal, mensual, así como el día de la semana en que deba ocurrir, etcétera;
+
+VII. Fecha: se registrará la fecha cada vez que se presente la persona imputada ante el juzgado o tribunal;
+
+VIII. Presentación: se asentará cada toma de asistencia;
+
+IX. Incidencias: se anotarán las incidencias que se presenten en el seguimiento de esta medida cautelar;
+
+X. Baja: se registrará la fecha de la resolución y motivo por el que causa baja la persona imputada en el seguimiento de esta medida;
+
+XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas anteriores y que resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cincuenta y siete del anexo de este Acuerdo.
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-### CAPÍTULO TERCERO. REPORTES ESTADÍSTICOS
+### CAPÍTULO SEGUNDO. DEL PERSONAL ADSCRITO A LOS ÓRGANOS JURISDICICONALES (SIC) ENCARGADO DEL SISE Y DEMÁS SISTEMAS DE GESTIÓN JUDICIAL
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 #### SECCIÓN PRIMERA. INFORMACIÓN ESTADÍSTICA
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 #### SECCIÓN SEGUNDA. CAPTACIÓN DE INFORMACIÓN JUDICIAL FEDERAL
 
@@ -3169,7 +5075,7 @@ En los casos relacionados con la aplicación del artículo 170 de este Acuerdo, 
 
 ## TÍTULO CUARTO. SISTEMAS DE GESTIÓN JUDICIAL
 
-### CAPÍTULO CUARTO. SENTENCIAS Y TESIS
+### CAPÍTULO TERCERO. REPORTES ESTADÍSTICOS
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
@@ -3185,7 +5091,9 @@ El SIGE es un sistema de gestión judicial de los asuntos del conocimiento de lo
 
 Es obligación de las y los titulares de los órganos jurisdiccionales, así como del personal a su cargo, el empleo del SISE o SIGE, el Sistema de Monitoreo de Notificaciones y demás sistemas de gestión judicial, para el registro de los movimientos de los juicios de amparo, procesos y recursos que ante ellos se tramiten; de igual manera, bajo la supervisión de la o el secretario que al efecto designen dichos titulares, deberá realizarse la captura diaria de datos que asegure la permanente actualización y veracidad de la información contenida en dichas plataformas.
 
-La información obtenida de cada uno de los órganos jurisdiccionales, podrá ser utilizada para efectos de control, gestión y administración interna, así como para responder a las consultas que de manera ordinaria o extraordinaria formulen los órganos y áreas competentes del Poder Judicial de la Federación.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+La información obtenida de cada uno de los órganos jurisdiccionales, será utilizada para efectos de seguimiento, control, gestión, verificación y administración interna del Consejo, uso y generación de información que será disponible para las áreas administrativas, para efecto de la generación de políticas judiciales y toma de decisiones, así como para cumplir con los requerimientos de transparencia y atender las consultas que, de manera ordinaria o extraordinaria, formulen los órganos y áreas competentes del Consejo.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
@@ -3199,29 +5107,39 @@ Los datos capturados en los sistemas de gestión judicial serán almacenados cum
 
 Las características de la información requerida, así como la normatividad para registrar los datos que exigen los sistemas de gestión judicial, podrán adecuarse conforme lo determine la experiencia de su operación y los avances tecnológicos que aporten nuevas herramientas para facilitar y optimizar la extracción, concentración y explotación de la información disponible, para control interno de los órganos jurisdiccionales y, en un aspecto general, por los órganos de gobierno del Consejo.
 
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+La DGTI, DGGJ, y DGETD, deberán incorporar a los sistemas de gestión funcionalidades, formularios de captura y validaciones para garantizar el adecuado registro de datos.
+
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 178.
 
 La Visitaduría Judicial, con motivo de las visitas de inspección que realice a los órganos jurisdiccionales, supervisará que el registro de expedientes en los sistemas de gestión judicial se realice de manera diaria y que la información almacenada corresponda fielmente con lo actuado; en caso de omisión, será materia de recomendación, de la que se anexará copia al expediente personal de la o el titular del órgano jurisdiccional que infrinja las disposiciones contenidas en este Capítulo.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 179.
 
-Corresponde a la Dirección General de Tecnologías de la Información solucionar los problemas técnicos que surjan con motivo de la operación de los sistemas de gestión judicial, de la red de comunicaciones y del equipo de cómputo destinado a la captura de datos y, en caso de estimar que se trata de un asunto que no es de su competencia, lo comunicará a la Dirección General de Gestión Judicial, con independencia de que promueva lo conducente, en el área administrativa respectiva, para resolverlo.
+Corresponde a la DGTI solucionar los problemas técnicos que surjan con motivo de la operación de los sistemas de gestión judicial, de la red de comunicaciones y del equipo de cómputo destinado a la captura de datos y, en caso de estimar que se trata de un asunto que no es de su competencia, lo comunicará a la DGGJ y DGETD, con independencia de que promueva lo conducente, en el área administrativa respectiva, para resolverlo.
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO QUINTO. SISE CONTROL BIOMÉTRICO
+### CAPÍTULO CUARTO. SENTENCIAS Y TESIS
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 180.
 
-La o el oficial judicial encargado de la captura y actualización de datos de los distintos asuntos del conocimiento de los órganos jurisdiccionales, tendrá las siguientes funciones:
+Salvo en los órganos en que funcione el SIGE, la persona titular del órgano jurisdiccional podrá determinar si la captura y actualización de datos de los asuntos de conocimiento del órgano será llevada a cabo de forma centralizada o distribuida. En el caso de la forma centralizada será la persona oficial judicial A y en la forma distribuida podrá asignar las funciones en esta materia a varias personas servidoras públicas de Carrera Judicial, incluyendo al oficial judicial A, adscritas al órgano jurisdiccional.
 
-I. Capturar y registrar en el SISE, cada uno de los asuntos que ingresen al órgano jurisdiccional;
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+En cualquiera de las modalidades, la persona o personas encargadas del SISE y de los sistemas de gestión, tendrán las siguientes funciones:
+
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+I. Capturar y registrar en el sistema cada uno de los asuntos que ingresen al órgano jurisdiccional;
 
 II. Mantener actualizada diariamente la captura de datos conforme a los acuerdos que emita el titular o presidente del órgano jurisdiccional, sin perjuicio de que la síntesis de acuerdos para publicarse en la lista correspondiente, vía Internet, estará a cargo de los actuarios judiciales;
 
@@ -3243,29 +5161,45 @@ VII. Enviar mensualmente los reportes estadísticos a la Dirección General de E
 
 VIII. Asesorar a la persona que designe el titular del órgano jurisdiccional, a efecto de que exista quien pueda suplirlo en sus ausencias temporales o definitivas;
 
-IX. Apoyar al titular o presidente del órgano jurisdiccional con los listados o reportes de asuntos, necesarios para preparar la visita de inspección o aquellos que se requieran durante la misma, así como en la elaboración del informe circunstanciado correspondiente; y
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-X. Las que determine el titular o presidente del órgano jurisdiccional al que se encuentre adscrito, en relación con el SISE.
+IX. Apoyar al titular o presidente del órgano jurisdiccional con los listados o reportes de asuntos, necesarios para preparar la visita de inspección o aquellos que se requieran durante la misma, así como en la elaboración del informe circunstanciado correspondiente;
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+X. Garantizar que los campos relacionados con las obligaciones de transparencia se encuentren debidamente registrados y actualizados;
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XI. Fungir como vínculos de transformación digital conforme a las políticas y lineamientos emitidos por el Comité de Gobernanza Digital; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+XII. Las que determine la persona titular o presidente del órgano jurisdiccional al que se encuentre adscrito, en relación con el SISE.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 181.
 
-Para el debido y puntual desempeño de sus funciones, la o el oficial judicial encargado del SISE, tendrá la facultad de solicitar y recabar los expedientes, una vez publicados en la lista de acuerdos correspondiente, para llevar a cabo la captura inmediata de datos en el SISE.
+Para el debido desempeño de sus funciones, en el caso del esquema distribuido, las personas servidoras encargadas del SISE y los demás sistemas de gestión judicial deberán registrar los datos y la información relacionada con el seguimiento procesal conforme al trámite del asunto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+En el supuesto del esquema centralizado, la persona oficial judicial A, tendrá la facultad de solicitar y recabar los expedientes, una vez publicados en la lista de acuerdos correspondiente, para llevar a cabo la captura inmediata de datos en el SISE.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 182.
 
-La o el oficial judicial encargado del SISE tendrá la responsabilidad de:
+Las personas titulares de los órganos jurisdiccionales deberán supervisar que la o las personas servidoras públicas encargadas del SISE o los demás sistemas de gestión judicial, cumplan con las siguientes obligaciones:
 
 I. Aplicar las disposiciones respectivas para cada uno de los diversos tipos de asuntos del conocimiento de los órganos jurisdiccionales;
 
-II. Realizar el seguimiento y actualización de la captura de datos, de manera que asegure la permanente actualización y veracidad de la información contenida en el SISE;
+II. Realizar el seguimiento y actualización de la captura de datos, de manera que asegure la permanente actualización y veracidad de la información contenida en el SISE y en los demás sistemas de gestión;
 
-III. Mantener y guardar discreción de los asuntos o información a la que tenga acceso por el ejercicio de sus funciones; y
+III. Mantener y guardar discreción de los asuntos o información a la que tenga acceso por el ejercicio de sus funciones;
 
-IV. Observar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de su actividad.
+IV. Garantizar que los campos se encuentren debidamente registrados y actualizados; y
+
+V. Observar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de su actividad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
@@ -3277,7 +5211,9 @@ I. Contar con título de licenciado en derecho;
 
 II. Experiencia mínima de tres meses como oficial judicial o, en su caso, como oficial judicial SISE o analista jurídico SISE;
 
-III. Comprobar conocimientos mínimos del sistema operativo windows con manejo de paquetería word y excel, mediante el examen técnico correspondiente que se aplique respecto del conocimiento y operación del SISE; y
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+III. Comprobar conocimientos mínimos del sistema operativo que sea utilizado en los órganos jurisdiccionales, así como las herramientas que sean determinadas por el Consejo para el cumplimiento de sus funciones, mediante el examen técnico correspondiente que se aplique respecto del conocimiento y operación del SISE; y
 
 IV. Aprobar examen psicométrico a fin de evaluar rasgos de personalidad, inteligencia, trabajo bajo presión, relaciones interpersonales y capacidad de respuesta.
 
@@ -3291,23 +5227,27 @@ En el caso de los órganos jurisdiccionales con residencia fuera del Distrito Fe
 
 La Dirección General de Recursos Humanos conservará, para consulta de la Dirección General de Gestión Judicial, la documentación relativa al expediente que para el efecto se integre.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 184.
 
-La designación de la o el oficial judicial encargado del SISE, así como de la servidora pública o el servidor público que, en su caso, deberá sustituirlo, se realizará por la persona titular o presidenta del órgano jurisdiccional, previo cumplimiento de los requisitos antes señalados, quien suscribirá y tramitará el nombramiento correspondiente ante la Dirección General de Recursos Humanos, o en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la Dirección General de Gestión Judicial.
+La designación de la persona o personas encargadas del SISE y demás sistemas de gestión judicial, así como de la persona servidora pública que, en su caso, deberá sustituirla, se realizará por la persona titular o presidenta del órgano jurisdiccional, previo cumplimiento de los requisitos antes señalados, quien suscribirá y tramitará el nombramiento correspondiente ante la Dirección General de Recursos Humanos, o en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la DGGJ.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 185.
 
-La supervisión del registro diario de movimientos de los juicios de amparo, procesos federales y recursos que se tramiten ante los órganos jurisdiccionales, que asegure la permanente actualización y veracidad de la información, estará a cargo del secretario que al efecto designen los titulares o presidentes de los órganos jurisdiccionales.
+La supervisión del registro diario de movimientos de los juicios de amparo, procesos federales y recursos que se tramiten ante los órganos jurisdiccionales, que asegure la permanente actualización y veracidad de la información, estará a cargo de la persona secretaria o persona servidora pública que al efecto designen las y los titulares o presidentes de los órganos jurisdiccionales.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 186.
 
-La o el oficial judicial que no cumpla con las funciones encomendadas, será removido de su cargo, por la persona titular o presidenta del órgano jurisdiccional de que se trate, quien suscribirá y tramitará el aviso de baja correspondiente ante la Dirección General de Recursos Humanos o, en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la Dirección General de Gestión Judicial.
+La o las personas servidoras públicas que no cumplan con las funciones encomendadas, serán removidas de su cargo, bajo el procedimiento de separación del cargo previsto en la normativa correspondiente, por la persona titular o presidenta del órgano jurisdiccional de que se trate, quien suscribirá y tramitará el aviso de baja correspondiente ante la Dirección General de Recursos Humanos o, en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la DGGJ.
 
-### CAPÍTULO SEXTO. PUBLICACIÓN DE LISTAS DE ACUERDOS
+### CAPÍTULO QUINTO. SISE CONTROL BIOMÉTRICO
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 187.
 
@@ -3327,7 +5267,7 @@ Los órganos jurisdiccionales que no cuenten con el módulo “Reportes Estadís
 
 La Visitaduría Judicial, con motivo de las visitas de inspección que se realicen a los órganos jurisdiccionales, supervisará que el envío de los informes estadísticos mensuales, relativos a los movimientos de los asuntos del conocimiento de los órganos jurisdiccionales, se haga de manera oportuna y verificará, en su caso, por muestreo que la información almacenada corresponda fielmente con su contenido.
 
-### CAPÍTULO SÉPTIMO. PUBLICACIÓN DEL LISTADO DE CAPTURA DE DATOS
+### CAPÍTULO SEXTO. PUBLICACIÓN DE LISTAS DE ACUERDOS
 
 ###### Artículo 191.
 
@@ -3359,9 +5299,9 @@ La Dirección General de Gestión Judicial será la responsable de vigilar el co
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
-### CAPÍTULO OCTAVO. INFORMACIÓN ESTADÍSTICA JUDICIAL Y GEOREFERENCIADA
+### CAPÍTULO SÉPTIMO. PUBLICACIÓN DEL LISTADO DE CAPTURA DE DATOS
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 197.
 
@@ -3379,9 +5319,9 @@ La Dirección General de Gestión Judicial será la encargada de coordinar las t
 
 El SISE CB se desarrollará bajo los más altos estándares de calidad y seguridad que las tecnologías de la información permitan, en el que se considerarán los aspectos siguientes:
 
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-I. Índice: se anotarán por orden alfabético los nombres de los procesados que disfruten del beneficio de libertad provisional, y de aquellas personas que determine el Pleno; y
+I. Índice: se anotarán por orden alfabético los nombres de las y los procesados que disfruten del beneficio de libertad provisional, de las y los sentenciados que disfrutan de algún beneficio o sustitutivo de la pena, y de aquellas personas que determine el Pleno; y
 
 II. Control de identificación personal: contendrá, entre otros, los rubros siguientes:
 
@@ -3391,9 +5331,9 @@ a) Nombre del órgano jurisdiccional correspondiente;
 
 b) Número de causa, juicio, proceso, procedimiento, o toca penal;
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-c) Nombre del procesado, quejoso, recurrente o de las personas que determine el Pleno;
+c) Nombre del procesado, sentenciado, quejoso, recurrente o de las personas que determine el Pleno;
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
@@ -3457,7 +5397,9 @@ La Secretaría Ejecutiva de Vigilancia, en el ámbito de su competencia, verific
 
 El Pleno resolverá cualquier cuestión que pudiera suscitarse con motivo de la aplicación de este Capítulo.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO OCTAVO. INFORMACIÓN ESTADÍSTICA JUDICIAL Y GEOREFERENCIADA
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 207.
 
@@ -3469,13 +5411,21 @@ Las listas de acuerdos de los órganos jurisdiccionales, se publicarán en Inter
 
 Los órganos jurisdiccionales, deberán ingresar las listas de acuerdos al SISE o al SIGE, según corresponda, a más tardar, a las nueve horas del día siguiente al en que se emitan.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 209.
 
-Las listas de acuerdos quedarán a disposición del público usuario para su consulta en la página de Internet del Consejo.
+Las listas de acuerdos quedarán a disposición del público usuario para su consulta en la página de Internet del Consejo a través del Sistema Electrónico del Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 209 Bis.
+
+Las listas de acuerdos publicadas electrónicamente tienen validez legal suficiente, al ser las mismas que se encuentran en los Estrados de los Juzgados y Tribunales Federales. Por ello, no es necesaria su posterior certificación para ser agregadas al expediente respectivo.
 
 ###### Artículo 210.
 
-Los órganos jurisdiccionales que no cuenten con el SISE, quedarán exentos de la publicación de la lista de acuerdos en Internet, hasta en tanto cuenten con el SISE.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)
 
 > <small>(REFORMADO, POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -3485,25 +5435,31 @@ La Comisión de Vigilancia y la Visitaduría Judicial, en el ámbito de sus resp
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2017)</small>
-
 ###### Artículo 212.
 
-Los listados de captura de datos de los asuntos del conocimiento de los órganos jurisdiccionales, con excepción de los que formen parte de los Centros de Justicia Penal, se publicarán para su consulta en Internet.
+Los listados de captura de datos de los asuntos del conocimiento de los órganos jurisdiccionales, con excepción de los que formen parte de los Centros de Justicia Penal, se publicarán para su consulta en Internet conforme a las políticas y lineamientos emitidos por el Comité de Gobernanza Digital.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 213.
 
-Tratándose de la materia de procesos penales federales, el listado de captura comprenderá a partir de la declaración preparatoria y se excluirán los datos personales del inculpado; así como los acuerdos asociados y todos aquellos expedientes que se encuentren en archivo provisional, con motivo del sigilo que se debe guardar al respecto.
+Tratándose de la materia de procesos penales federales, el listado de captura comprenderá a partir de la declaración preparatoria y se excluirán los datos personales de la persona inculpada; así como los acuerdos asociados y todos aquellos expedientes que se encuentren en archivo provisional, con motivo del sigilo que se debe guardar al respecto. En el resto de los elementos del listado, se estará a lo dispuesto en las políticas y lineamientos emitidos por el Comité de Gobernanza Digital.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 214.
 
-Los listados de captura a que se refieren los artículos anteriores, quedarán a disposición del público usuario para su consulta en la página de Internet del Consejo.
+Los listados de captura a que se refieren los artículos anteriores, quedarán a disposición del público usuario para su consulta en el Sistema Electrónico del Consejo de la Judicatura Federal.
 
 > <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 215.
 
 Los órganos jurisdiccionales, deberán mantener actualizados los registros de datos de los expedientes a su cargo en el SISE o SIGE, según corresponda.
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 216.
 
@@ -3545,27 +5501,27 @@ La Dirección General de Estadística Judicial colaborará y se coordinará con 
 
 ###### Artículo 220.
 
-El Consejo contará con información estadística que esté al acceso del público en general relacionada con temas de interés público o trascendencia social.
+El Consejo contará con estadística que esté al acceso del público en general, conforme al principio de transparencia proactiva, y relacionada con temas de interés público o trascendencia social.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+La estadística institucional será puesta a disposición del público en general mediante el Sistema Electrónico del Consejo de la Judicatura Federal, en los formatos y medios electrónicos que faciliten su aprovechamiento y, en su caso, el formato físico para su divulgación.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 221.
 
-Para mantener actualizada la información estadística, la Dirección General de Estadística Judicial utilizará la información remitida por los órganos jurisdiccionales o capturada en los sistemas de gestión institucionales.
+La Dirección General de Estadística Judicial generará y mantendrá actualizada la estadística institucional, en términos del artículo 220 del presente Acuerdo, y de conformidad con las disposiciones aplicables en materia de gobierno de datos emitidas por el Comité de Gobernanza Digital.
 
-La información estadística generada por el Consejo será puesta a disposición del público en general, mediante la divulgación impresa, o a través de plataformas o medios electrónicos.
-
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 222.
 
-La Dirección General de Estadística Judicial generará estadística judicial, en términos del artículo 220 del presente Acuerdo, en los formatos físicos o electrónicos que faciliten su divulgación.
+Para generar y mantener actualizada la estadística institucional, la Dirección General de Estadística Judicial utilizará la información disponible en los sistemas de gestión institucional. En caso de ser estrictamente necesario, se podrá requerir a los órganos jurisdiccionales la actualización de los registros. De manera excepcional y por motivos justificados, podrá complementarla con la remitida por los órganos jurisdiccionales.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 223.
 
-Con la finalidad de promover la mejora constante en la información estadística publicada por el Consejo, la Dirección General de Estadística Judicial, con apoyo de la Dirección General de Tecnologías de la Información podrá establecer un control numérico de las consultas a las plataformas o medios electrónicos puestos a disposición del público en general.
+Con la finalidad de promover la mejora constante de la estadística publicada por el Consejo, la Dirección General de Estadística Judicial propondrá al Comité de Gobernanza Digital los proyectos que determine del análisis, entre otros factores, de los requerimientos de estadística recibidos, así como de la información disponible en los sistemas de gestión institucionales.
 
 ###### Artículo 224.
 
@@ -3648,6 +5604,10 @@ La divulgación de la información estadística judicial y georeferenciada que r
 Las situaciones no previstas en este Capítulo, serán resueltas por el Pleno, sin perjuicio de lo dispuesto en el artículo 229 de este Acuerdo
 
 ## TÍTULO QUINTO. PUBLICACIÓN DE EDICTOS Y OTRO TIPO DE PUBLICACIONES SOLICITADAS POR ÓRGANOS JURISDICCIONALES
+
+### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS RECTORES, DEL EXPEDIENTE ELECTRÓNICO Y OTRAS SOLUCIONES DIGITALES
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 239.
 
@@ -3751,6 +5711,10 @@ La Coordinación de Administración Regional y la Dirección General de Comunica
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE JUNIO DE 2017)</small>
 
+### CAPÍTULO SEGUNDO. DE LA ATENCIÓN A TRAVÉS DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 248.
 
 En los proyectos de resolución de amparos indirectos en revisión y de amparos directos de la competencia de los Tribunales Colegiados de Circuito en los que se proponga abordar el estudio de constitucionalidad o convencionalidad de una norma general, y amparos colectivos, con independencia de que el planteamiento respectivo se hubiere formulado en la demanda o se introduzca con posterioridad, se observará lo previsto en el artículo 73, párrafos segundo y tercero de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos. Salvo cuando los proyectos de que se trate, únicamente propongan la inoperancia de los agravios respectivos.
@@ -3766,6 +5730,156 @@ La publicación de los proyectos de resolución, mencionados en el artículo ant
 ###### Artículo 250.
 
 La versión pública del proyecto de resolución de que se trate será generada por el secretario de Tribunal de Circuito que elaboró el proyecto de resolución, quien la remitirá a la secretaría de acuerdos, a efecto de que ésta sin mayor trámite la ingrese al vínculo relativo del SISE."
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+## TÍTULO SÉPTIMO. DE LA UTILIZACIÓN PREFERENTE DE MEDIOS TECNOLÓGICOS Y SOLUCIONES DIGITALES EN EL TRABAJO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO TERCERO. TRAMITACIÓN ELECTRÓNICA EN EL JUICIO EN LÍNEA
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 251.
+
+El trabajo de los órganos jurisdiccionales a través del Sistema Electrónico del Consejo de la Judicatura Federal deberá apegarse a los siguientes principios:
+
+a) Impulso tecnológico: por regla general, se debe optar por documentos, servicios y procesos digitales de forma preferente a aquellos realizados en papel, salvo en aquellos casos cuya excepción sea debidamente justificada;
+
+b) Acceso a la justicia: remover obstáculos en los servicios judiciales para garantizar el acceso para toda la ciudadanía y las personas usuarias, así como disminuir la complejidad de los procesos y servicios de impartición de justicia;
+
+c) Inclusión y accesibilidad: la participación digital en los servicios de impartición de justicia debe garantizarse a todas las personas, sin ninguna discriminación conforme a sus necesidades;
+
+d) Interoperabilidad: fortalecer el uso de medios electrónicos y servicios digitales que se conecten entre sí;
+
+e) Orientación al valor público: los procesos, herramientas y técnicas que utilicen deben mejorar la provisión de los servicios que se imparten;
+
+f) Eficiencia y eficacia: privilegiar el uso de medios electrónicos y servicios digitales para fortalecer el entendimiento y las capacidades de las personas servidoras públicas para garantizar la simplificación de procesos y servicios, la existencia de mecanismos de consulta dirigidos a personas usuarias para su mejora constante, así como la disminución de tiempos para llevar a cabo un proceso o tarea y el uso óptimo de recursos;
+
+g) Adaptación tecnológica: impulsar el uso de medios electrónicos y servicios digitales para fortalecer la Estrategia de Transformación Digital del Consejo de la Judicatura Federal; y
+
+h) Validez y certeza jurídica, así como protección de los derechos humanos: privilegiar el uso de medios electrónicos, servicios digitales y la tramitación electrónica que garantiza que se provean los elementos requeridos por el marco jurídico aplicable, así como la protección de los derechos humanos.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 252.
+
+Los órganos jurisdiccionales tramitarán e integrarán los asuntos de su competencia a través de medios tecnológicos y soluciones digitales. La firma electrónica FIREL, e.firma dará certeza y validez jurídica a la integridad del expediente electrónico.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 253.
+
+Los órganos jurisdiccionales deberán asegurar la integridad del expediente electrónico. Para ello, se procurará que el contenido de las promociones, los acuerdos, resoluciones o sentencias y los correspondientes registros administrativos, se generen de manera electrónica, utilizando los medios tecnológicos y soluciones digitales. En los casos en que un asunto se inicie y se tramite a través de documentos físicos, los órganos jurisdiccionales deberán digitalizar las constancias e incorporarlas al expediente electrónico correspondiente a través del uso de firma electrónica, generando sus actuaciones en versión electrónica e imprimiendo únicamente lo que resulte indispensable para el impulso del asunto, como puede ser el caso de las constancias de notificación.
+
+Bajo ninguna circunstancia se obstaculizará la posibilidad de que las partes actúen y presenten promociones por medios impresos.
+
+Adicionalmente y para dar cumplimiento a lo previsto en el artículo 3, párrafo sexto de la Ley de Amparo, podrán consultar su expediente haciendo uso de los dispositivos electrónicos disponibles para tal efecto.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 254.
+
+Los órganos jurisdiccionales privilegiarán la generación y circulación de documentos de trabajo mediante el uso de medios tecnológicos o soluciones digitales, utilizando aquellas que otorgue la DGTI, en coordinación con la DGETD, de conformidad con las políticas y lineamientos en la materia.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 255.
+
+Para el resguardo y preservación de los documentos electrónicos que generan o reciban, los órganos jurisdiccionales deberán observar las disposiciones aplicables en materia de archivo judicial. Dichas disposiciones deberán cumplir con las políticas institucionales de Gobierno de Datos, Gobernanza Digital, Transformación Digital y e-Justicia.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 256.
+
+Todas las comunicaciones que se establezcan por escrito con las áreas administrativas del Consejo se realizarán a través de medios tecnológicos y soluciones digitales del Sistema Electrónico del Consejo de la Judicatura Federal, tales como el SIGDOC. En caso de que se trate para gestiones no previstas expresamente dentro de los cauces institucionales ordinarios, se podrá hacer uso del correo electrónico institucional.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 257.
+
+Los órganos jurisdiccionales procurarán utilizar el Sistema Electrónico del Consejo de la Judicatura Federal para la atención a personas justiciables, conforme a lo siguiente:
+
+I. Tratándose de comunicaciones no procesales, se puede brindar atención a las personas justiciables vía telefónica y mediante el uso de medios tecnológicos convenidos para tal efecto. En estos casos, el personal del órgano jurisdiccional deberá conservar el registro de las comunicaciones hasta la conclusión del trámite. En casos excepcionales, podrá emplearse esta opción para comunicaciones procesales, siempre que la parte respectiva no tenga acceso a actuar desde el Portal, debiendo en estos casos certificarse la confirmación de recepción de la comunicación respectiva; y
+
+II. Tratándose de la práctica de diligencias, audiencias y demás comparecencias, que suelan requerir la presencia física de las partes o de otros intervinientes, se procurarán practicar mediante el uso de medios tecnológicos y soluciones digitales como las videoconferencias. Tratándose de audiencias constitucionales o incidentales, se podrán realizar a partir de los escritos presentados física o electrónicamente por las partes.
+
+En los supuestos anteriores, será indispensable que, solo en caso de estimarse necesario y salvo que el Consejo desarrolle un esquema de comunicación y almacenamiento centralizado, el órgano jurisdiccional conserve los registros de las comunicaciones y las incorpore al expediente electrónico respectivo. Lo anterior también es aplicable en los casos en los que la tramitación del asunto se realice bajo el esquema físico y no mediante tramitación electrónica.
+
+En el caso de que, aun cuando los citados medios tecnológicos estén disponibles, sea indispensable que las partes acudan físicamente al órgano jurisdiccional o cuando éstas deseen asistir personalmente a consultar los expedientes ante la imposibilidad de hacerlo por otros medios resultará aplicable lo dispuesto en los artículos 260 y 261 de este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 258.
+
+Se pondrá a disposición de las personas la información de contacto de todos los órganos jurisdiccionales, la lista para sesión y de acuerdos, el sistema para generar citas, así como las distintas soluciones digitales del Sistema Electrónico del Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 259.
+
+Las personas servidoras públicas deben ser consideradas un elemento central en la transformación digital y de cambio cultural del Consejo. Por ello, se canalizarán sus propuestas a las áreas que administran los medios tecnológicos y soluciones digitales que integran el Sistema Electrónico del Consejo de la Judicatura Federal y, de ser procedentes, deberán incluirlo en las estrategias, políticas y acciones relacionadas con los pilares y lineamientos emitidos por el Comité de Gobernanza Digital.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 260.
+
+Las personas servidoras públicas, adscritas a órganos jurisdiccionales, deberán registrar los datos y la información que deriven de sus funciones en los medios tecnológicos y soluciones digitales, así como garantizar su integridad para el aprovechamiento institucional.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO CUARTO. DE LA FORMACIÓN DEL DUPLICADO DE LOS INCIDENTES DE SUSPENSIÓN
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 261.
+
+Las personas que acudan a los órganos jurisdiccionales podrán hacer uso de los equipos de cómputo que en cada órgano jurisdiccional se dispondrán para tal efecto, los cuales podrán destinarse a la consulta de expedientes electrónicos, a la actuación en el Portal de Servicios en Línea, o a la participación en videoconferencias con el personal del órgano cuyo equipo se esté utilizando.
+
+Asimismo, se colocará en el área de atención al público de cada órgano jurisdiccional un teléfono con la señalización de las extensiones del personal que acuda, a efecto de que cualquier persona pueda contactar al personal del órgano jurisdiccional para la atención correspondiente.
+
+Los equipos de cómputo se mantendrán, preferentemente, dentro del órgano jurisdiccional, de modo que su resguardo corresponderá a la o las personas encargadas de atender las citas para consulta de expedientes.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 262.
+
+Las administraciones de los edificios sede del Poder Judicial de la Federación procurarán la instalación de espacios con dispositivos electrónicos que permitan la consulta de expedientes y la actuación desde el Portal de Servicios en Línea, sin necesidad de ingresar a los órganos jurisdiccionales.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 263.
+
+Con independencia del esquema tradicional, híbrido o en línea con el que intervengan las partes en un asunto, los órganos jurisdiccionales adoptarán como eje rector de su actividad la actuación desde las aplicaciones del Sistema Electrónico del Consejo de la Judicatura Federal, específicamente, en el SISE, en el SIGE y en los demás sistemas de gestión judicial que se utilicen en los órganos jurisdiccionales, en atención a las siguientes bases:
+
+I. Todas las actuaciones judiciales que deban constar por escrito se plasmarán en documentos generados y firmados electrónicamente.
+
+II. Sólo se digitalizarán los documentos remitidos físicamente por las partes, testigos, peritos, otras personas intervinientes y autoridades ajenas al Poder Judicial de la Federación. La digitalización de documentos requerirá la firma electrónica de quien la lleve a cabo.
+
+Adicionalmente, los órganos jurisdiccionales procurarán exhortar a las partes para que, cuando les sea posible, transiten hacia la actuación desde el Portal de Servicios en Línea;
+
+III. La única excepción a lo dispuesto en las fracciones I y II del presente artículo será la generación de constancias y documentos necesarios para la práctica de notificaciones que deban realizarse físicamente, así como digitalización de las razones, constancias y acuses que deriven de las mismas;
+
+IV. Las partes autorizadas para ello podrán consultar su expediente desde el Portal de Servicios en Línea. Quienes no tengan habilitada esta modalidad, podrán acudir físicamente para consultar el expediente electrónico en los equipos dispuestos para tal efecto; y
+
+V. Las constancias recibidas físicamente deberán coincidir con las incorporadas al expediente electrónico mediante digitalización.
+
+Los reportes e informes para las visitas, para estadística y para cualquier fin oficial ante el Consejo se generarán de manera automática a partir de los registros y de los datos que contienen los sistemas de gestión judicial que operan en los órganos jurisdiccionales. Para estos fines, cualquier documento o registro físico de seguimiento implementado por el órgano jurisdiccional, así como los sistemas diversos a los institucionalmente establecidos no se considerarán como información oficial.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 264.
+
+En el juicio de amparo indirecto, por regla general, no será necesaria la formación del duplicado físico del incidente de suspensión.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 265.
+
+Para el trámite del recurso de queja en contra de las resoluciones dictadas en el incidente que resuelva la suspensión provisional, en el supuesto de que no se hubiere promovido electrónicamente, las constancias necesarias podrán ser extraídas del cuaderno correspondiente del SISE, con motivo de su digitalización.
+
+Tratándose del recurso de revisión promovido, por escrito, contra la resolución incidental que resuelve la suspensión definitiva, atendiendo a la urgencia, queda al libre arbitrio de la persona juzgadora sustituir la formación del duplicado físico con el electrónico existente, a partir de las constancias digitalizadas del incidente de suspensión que deberán obrar en el SISE. Para efectos de lo dispuesto en este párrafo, el secretario de acuerdos o el secretario encargado del trámite del incidente cuya resolución ha sido recurrida, dará fe de la debida integración del expediente electrónico.
 
 ## TRANSITORIOS
 
@@ -4352,3 +6466,59 @@ La Secretaría Ejecutiva de Administración, por conducto de las áreas administ
 DÉCIMO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del tribunal de apelación o, en su caso, en la oficina de correspondencia común que preste sus servicios o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
 
 DÉCIMO PRIMERO. La Visitaduría Judicial ajustará a los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Tribunales Colegiados de Apelación. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
+
+D.O.F. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 7 de noviembre de 2022.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+TERCERO. Se reanudan las labores de forma regular en los órganos jurisdiccionales del Consejo de la Judicatura Federal y las áreas administrativas del Consejo de la Judicatura Federal. Por lo tanto, se concluye el esquema establecido en los Acuerdos Generales emitidos con motivo de la contingencia sanitaria ocasionada por el virus COVID-19.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas competentes que le están adscritas, deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+QUINTO. Las Oficialías de Partes Comunes habilitadas en cada edificio sede de órganos jurisdiccionales para la recepción de promociones presentadas físicamente durante la contingencia sanitaria generada por el virus Covid-19, dejarán de operar a partir de la entrada en vigor del presente Acuerdo.
+
+SEXTO. Los órganos jurisdiccionales deberán garantizar la integridad del expediente electrónico. A partir del 1 de diciembre de 2022, los expedientes físicos deberán contener únicamente aquellos documentos recibidos por esa vía.
+
+SÉPTIMO. Las administraciones de los edificios sede del Poder Judicial de la Federación procurarán instalar espacios con dispositivos electrónicos que permitan la consulta de expedientes y la actuación desde el Portal de Servicios en Línea, en un plazo de cuatro meses, salvo cuando no exista disponibilidad de espacios y equipos.
+
+OCTAVO. Las referencias hechas a los Plenos Regionales y a los Tribunales Colegiados de Apelación se entenderán aplicables a los Plenos de Circuito y Tribunales Unitarios de Circuito, hasta en tanto aquéllos entren en operación.
+
+NOVENO. Se reanudan las visitas ordinarias de inspección en su modalidad presencial, por lo que éstas se llevarán a cabo físicamente en las instalaciones de los órganos jurisdiccionales, de conformidad con lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, con las excepciones que se precisarán en los transitorios siguientes. Al respecto, se considerarán las bases siguientes:
+
+I. Las visitas ordinarias que a la fecha de entrada en vigor del presente Acuerdo se encuentren pendientes de practicar conforme al calendario de inspecciones 2022, se llevarán a cabo bajo la recalendarización que al respecto realice la Visitaduría. Para llevar a cabo dichas inspecciones, de manera excepcional, se tomará en cuenta el informe especial que fue considerado en el mencionado calendario, el cual se rendirá conforme a lo señalado en el Acuerdo General 22/2020 del Pleno.
+
+II. La Visitaduría Judicial emitirá una circular en la que informará la recalendarización de las visitas que a la entrada en vigor del presente Acuerdo estén pendientes de practicarse, en donde precisará si éstas se llevarán a cabo en su modalidad a distancia o física en el recinto del órgano jurisdiccional. Dicha circular indicará los plazos para la rendición de informes especiales, los formatos autorizados por la Comisión de Vigilancia para tales efectos y la duración de las visitas, en el supuesto de que la inspección sea a distancia, se señalarán las fechas para las videoconferencias respectivas con la visitadora o visitador judicial asignado para ello.
+
+III. La Visitaduría Judicial contará con un plazo de hasta 10 días hábiles contados a partir de la entrada en vigor del presente Acuerdo para emitir y notificar la circular referente a la recalendarización de las visitas contempladas para 2022 que se encuentren pendientes de practicar, la cual se publicará en las páginas de Internet e Intranet del Consejo, y se remitirá a través del Sistema Integral de Seguimiento de Expedientes. En los mismos términos, comunicará lo relativo a la reanudación de la obligación de los órganos para rendir sus informes circunstanciados.
+
+IV. El esquema de visitas físicas se reanudará a partir del 15 de noviembre de 2022.
+
+V. Con el objeto de dar cabal cumplimiento al Calendario Anual de Visitas de este año, se faculta al Visitador General para que, de ser necesario, habilite a las y los Secretarios Técnicos “A” de la Visitaduría que estime necesarios para que funjan como Visitadores Judiciales “B” y auxilien en la práctica de las visitas.
+
+DÉCIMO. A partir de dos mil veintitrés, todas las visitas se realizarán de manera física, aun cuando algunos componentes se lleven a cabo de manera remota, con independencia de que (sic) algunas de acuerdo con lo dispuesto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas; por tanto, se reanuda la obligación de los órganos jurisdiccionales de rendir sus informes circunstanciados conforme a la calendarización que realice la Visitaduría.
+
+DÉCIMO PRIMERO. Los reportes e informes generados automáticamente a partir de los sistemas de gestión judicial para las visitas ordinarias, para estadística y para cualquier fin oficial ante el Consejo a que se refiere el último párrafo del artículo 265 de este Acuerdo, entrarán en vigor a partir del 15 de noviembre de 2022 y serán de cumplimiento progresivo conforme al calendario que para tal efecto expida la Visitaduría Judicial.
+
+Previo al 15 de noviembre de 2022, la Visitaduría Judicial deberá someter a consideración de la Comisión de Vigilancia los ajustes a los Listados que deberán prepararse para rendir el informe especial, disponible para los Juzgados de Distrito. Posteriormente, conforme al calendario de cumplimiento progresivo, deberá presentar los ajustes correspondientes para el resto de los órganos jurisdiccionales.
+
+DÉCIMO SEGUNDO. La Secretaría Ejecutiva de Creación de Nuevos Órganos deberá actualizar y armonizar el “Protocolo para el uso de la videoconferencia en los Juzgados de distrito en materia penal y de procesos penales federales” y la documentación relacionada conforme a lo desarrollado en el presente Acuerdo General.
+
+DÉCIMO TERCERO. La Dirección General de Gestión Judicial, en coordinación con las de Tecnologías de la Información y Estrategia y Transformación Digital, deberán, en un plazo de 6 meses, realizar los ajustes correspondientes a los sistemas de gestión judicial para garantizar la implementación del presente Acuerdo.
+
+DÉCIMO CUARTO. Las Secretarías Ejecutivas de Creación de Nuevos Órganos, Vigilancia, Visitaduría Judicial, con apoyo de la Dirección General de Gestión Judicial, deberán realizar un análisis integral de los Libros de Control con el objetivo de determinar la estrategia de transición de los Libros Electrónicos en un plazo de 6 meses.
+
+DÉCIMO QUINTO. Se derogan las disposiciones normativas que sean contrarias al presente Acuerdo y, se abrogan los Acuerdos Generales 21/2020 del Pleno del Consejo de la Judicatura Federal, relativo a la reanudación de plazos y al regreso escalonado en los Órganos Jurisdiccionales ante la contingencia por el virus COVID-19, y 22/2020 del Pleno del Consejo de la Judicatura Federal, relativo a las medidas necesarias para reactivar la totalidad de las actividades del Consejo en el contexto de la contingencia por el virus COVID-19, en relación con el periodo de vigencia.
+
+DÉCIMO SEXTO. Se instruye a la Unidad de Transparencia, en conjunto con las direcciones generales de Gestión Judicial y de Estrategia de Transformación Digital, en el ámbito de sus atribuciones, para generar y presentar a aprobación del Comité de Gobernanza Digital los lineamientos referidos en el artículo 213 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+DÉCIMO SÉPTIMO. Se instruye a la Dirección General de Archivo y Documentación, con apoyo de las direcciones generales de Estrategia y Transformación Digital y de Gestion Judicial, a presentar ante el Comité de Gobernanza Digital y la Comisión de Administración, dentro de los seis meses siguientes a la aprobación de este Acuerdo General, los proyectos o reformas que den cumplimiento a las políticas institucionales de Gobierno de Datos, Gobernanza Digital, Transformación Digital y e-Justicia, para el resguardo y preservación de los documentos o expedientes electrónicos, administrativos y jurisdiccionales, respectivamente.
+
+DÉCIMO OCTAVO. La Comisión Especial se integrará por la o el Presidente del Consejo de la Judicatura Federal y las personas Consejeras que presidan las Comisiones de Administración y de Vigilancia, conforme a lo señalado en el artículo 58 Sexies del presente Acuerdo General, a partir del 16 de enero de 2023.
+
+DÉCIMO NOVENO. La Secretaría Ejecutiva de Carrera Judicial, en coordinación con la Dirección General de Asuntos Jurídicos, deberá presentar a consideración del Pleno del Consejo, con el visto bueno de la Comisión de Carrera Judicial, la propuesta de armonización al Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, publicado en el Diario Oficial de la Federación el 3 de noviembre de 2021.
+
+> <small>[N. DE E. VÉASE ANEXO TÉCNICO DEL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL EN EL D.O.F. DE 28 DE OCTUBRE DE 2022, PÁGINAS DE LA 272 A LA 280.]</small>
