@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2022-04-20"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -259,9 +259,9 @@ f) Participar en los procesos productivos, de educación y capacitación de su c
 
 g) Formar parte de los diversos órganos de representación y consulta ciudadana; y
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
 
-h) A recibir capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación.
+h) Al acceso a las tecnologías de la información y comunicación, así como la capacitación para su uso.
 
 V. El trabajo, que comprende:
 
@@ -635,13 +635,17 @@ XVI. Impulsar y promover en el Estado la creación de centros de atención Geron
 
 XVII. Celebrar convenios, contratos, acuerdos y todo tipo de actos jurídicos que sean necesarios para el cumplimiento de su objeto;
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
 
-XVIII. Impulsar y promover la capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación. Para lo anterior, el Instituto podrá crear la Academia Digital para el Adulto Mayor así como la realización de convenios con otras secretarías e instituciones para que dicha capacitación tenga validez oficial; y
+XVIII. Impulsar y promover la capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación. Para lo anterior, el Instituto podrá crear la Academia Digital para el Adulto Mayor así como la realización de convenios con otras secretarías e instituciones para que dicha capacitación tenga validez oficial;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2022)</small>
 
-XIV. Las demás que establezca esta ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
+XIX. Promover e impulsar el acceso de las Personas Adultas Mayores a las Tecnologías de la Información y Comunicación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2022)</small>
+
+XX. Las demás que establezca esta ley o que sean necesarias para el cumplimiento del objeto del Instituto, y las que establezcan otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2018)</small>
 
@@ -1286,3 +1290,9 @@ P.O. 20 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 111. SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 3o, LAS FRACCIONES I, II, III, IV Y V DEL ARTÍCULO 3o BIS, LAS FRACCIONES II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII Y XIX DEL ARTÍCULO 24, EL ARTICULO 35 Y 41; Y POR ADICCIÓN (SIC) LAS FRACCIONES XV, XVI, XVII, XVIII Y XIX DEL ARTÍCULO 24, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 253. SE REFORMA EL INCISO H) DE LA FRACCIÓN IV DEL ARTÍCULO 5°; LA FRACCIÓN XVIII, FRACCIÓN XIX DEL ARTÍCULO 24; Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 24, TODAS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE ADICIONA LA FRACCIÓN XIII BIS AL ARTÍCULO 10 DE LA LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
