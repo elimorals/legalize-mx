@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2022-09-07"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1433,6 +1433,8 @@ II.- (DEROGADA, P.O. 20 DE OCTUBRE DE 2006)
 
 ### CAPITULO III. ABORTO
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
+
 ###### ARTICULO 91.
 
 Al que instigue o ayude a otro para que se prive de la vida, se le impondrá prisión de uno a siete años si el suicidio se consumare. Si el suicidio no se consuma por causas ajenas a su voluntad, pero se causen lesiones, se le impondrá hasta las dos terceras partes del máximo de la pena anterior, y si no se causan éstas, hasta la mitad.
@@ -1445,35 +1447,53 @@ Si la persona a quien se instiga o ayuda al suicidio fuere menor de dieciocho a�
 
 ###### ARTICULO 92.
 
-Para los efectos de este Código, aborto es la muerte del producto de la concepción en cualquier momento del embarazo intrauterino.
+Para los efectos de este Código, aborto es la interrupción del embarazo después de la décima segunda semana de gestación.
+
+Para los efectos de este Código, el embarazo es el proceso de la reproducción humana que comienza con la implantación del embrión.
+
+Para los efectos de este Código, se entiende por persona gestante cualquier persona con aparato reproductor femenino y con capacidad de gestar, independientemente de su edad, apariencia física u orientación sexual.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 93.
 
-A la mujer que se le procure el aborto o consienta en que otro la haga abortar, se le impondrá de seis meses a dos años de prisión. Igual pena se aplicará al que haga abortar a la mujer con consentimiento de ésta.
+A la persona gestante que se le procure el aborto o consienta en que otro la haga abortar, se le impondrá de seis meses a dos años de prisión. Igual pena se le aplicará al que haga abortar a la persona gestante con su consentimiento.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 94.
 
-Al que haga abortar a una mujer sin el consentimiento de ésta, se le aplicará de tres a ocho años de prisión, y si mediare violencia, de cuatro a nueve años.
+Aborto forzado es la interrupción del embarazo, en cualquier momento, sin el consentimiento de la persona gestante.
+
+Al que realice aborto forzado, se le impondrá de tres a ocho años de prisión; y si mediare violencia, de cuatro a nueve años.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 95.
 
-Si en el aborto punible interviniere un médico, partero o enfermero, se le suspenderá, además, en el ejercicio de su profesión, de dos a cinco años.
+Si en el aborto punible o forzado interviniere personal médico, personas parteras o personas enfermeras, se le suspenderá, además, en el ejercicio de su profesión, de dos a cinco años.
 
 ###### ARTICULO 96.
 
-Tratándose de la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, el juez podrá aplicar hasta una tercera parte del máximo de la pena prevista en el artículo 93, cuando sea equitativo hacerlo, considerando lo dispuesto en el artículo 52, y específicamente, en su caso, el estado de salud de la madre, su instrucción o condiciones personales, su situación económica, su edad, las circunstancias en que se produjo la concepción, el tiempo que hubiese durado el embarazo, el desarrollo y características del producto, el consentimiento otorgado por el otro progenitor, cuando éste viva con la madre y cumpla las obligaciones inherentes a la unión, y, en general, todos los elementos conducentes a resolver equitativamente el caso de que se trate.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2022).
 
 ###### ARTICULO 97.
 
 El aborto no será punible:
 
-I.- Cuando sea resultado de una conducta culposa de la mujer embarazada.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
 
-II.- Cuando el embarazo sea resultado de una violación, que haya sido denunciada ante el Ministerio Público, y siempre que el aborto se practique dentro del término de 90 días de la gestación.
+I. Cuando sea resultado de una conducta culposa de la persona gestante.
 
-III.- Cuando a juicio de cuando menos dos médicos exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves, o
+II. (DEROGADA, P.O. 28 DE OCTUBRE DE 2022).
 
-IV.- Cuando a juicio del médico que atienda a la mujer embarazada, sea necesario para evitar un grave peligro para la vida.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+III. Cuando a juicio de un médico o una médica exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves, o
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+IV. Cuando a juicio del médico o la médica que la asista, de no interrumpirse el embarazo, la persona gestante, se encuentre en peligro de muerte o en riesgo de una afectación a su salud.
 
 ### CAPITULO V. DISPOSICIONES COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
@@ -5148,3 +5168,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Seguridad Pública contará con un plazo de noventa días hábiles para la implementación de las disposiciones del presente decreto y la creación del Reglamento del Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo. La Secretaría de Seguridad Publica realizará las adecuaciones correspondientes a su actual presupuesto para la implementación del Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 004, POR EL QUE SE REFORMAN LOS ARTÍCULOS 92, 93, 94, 95 Y 97, EN SUS FRACCIONES I, III Y IV; Y SE DEROGA EL ARTÍCULO 96 Y LA FRACCIÓN II DEL ARTÍCULO 97, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
