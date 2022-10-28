@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2022-08-15"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -749,9 +749,9 @@ XXXV.- Coordinar y evaluar por medio de la Comisión de Vigilancia, sin perjuici
 
 XXXVI.- Expedir leyes que instituyan la justicia de lo contencioso - administrativo dotando de plena autonomía para dictar sus fallos, y que tenga a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal, con los particulares; estableciendo las normas para su organización, su funcionamiento, los procedimientos y los recursos contra sus resoluciones;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2022)</small>
 
-XXXVII.- Elegir a los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, mediante el voto de las dos terceras partes de los diputados presentes en el Pleno, previa convocatoria que emita la Junta de Coordinación Política a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos;
+XXXVII.- Elegir a los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, mediante el voto de las dos terceras partes de los diputados presentes en el Pleno, previa convocatoria que emita la Comisión Legislativa de Transparencia y Anticorrupción a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos;
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2022)</small>
 
@@ -3616,3 +3616,11 @@ Tratándose de las reformas y adiciones realizadas a la Ley del Sistema Estatal 
 ###### ARTICULO TERCERO.
 
 El Consejo del Sistema Estatal de Seguridad Publica deberá emitir, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la normatividad necesaria para dar cumplimiento al mismo.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 169. SE REFORMA LA FRACCIÓN XXXVII DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
