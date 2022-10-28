@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-12799
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-20"
-last_updated: "2022-07-21"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en la Cuarta Parte al Número 80 del Periódico Oficial del Estado de Guanajuato, el viernes 20 de abril de 2018.
 
@@ -1677,7 +1677,9 @@ Las estimaciones por trabajos ejecutados previamente autorizadas por la supervis
 
 Las estimaciones por trabajos ejecutados son independientes entre sí y, por lo tanto, cualquier tipo y secuencia será sólo para efecto de control administrativo.
 
-Se prohíbe la cesión total o parcial de los derechos y obligaciones que se deriven de los contratos de obra pública a favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados o facturas, que se podrán ceder a favor de instituciones financieras en cuyo caso se deberá contar con el consentimiento del ente público contratante y de la Secretaría de Finanzas, Inversión y Administración, de la Tesorería Municipal o del ente público que administre los recursos, según corresponda.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+Se prohíbe la cesión total o parcial de los derechos y obligaciones que se deriven de los contratos de obra pública a favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados o facturas, que se podrán ceder con el consentimiento del ente público contratante y de la Secretaría de Finanzas, Inversión y Administración, de la Tesorería Municipal o del ente público que administre los recursos, según corresponda.
 
 Consecuencias de la no liquidación de las estimaciones
 
@@ -2192,3 +2194,11 @@ Artículo Primero. El presente decreto entrará en vigor al día siguiente de su
 Reglamentación
 
 Artículo Segundo. El titular del Poder Ejecutivo deberá actualizar los reglamentos y demás disposiciones a que se refiere el presente Decreto, dentro de los ciento ochenta días posteriores a su entrada en vigor.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 104 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 104 DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
