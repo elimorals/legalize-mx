@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-13"
-last_updated: "2020-11-03"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de mayo de 2016.
 
@@ -2593,9 +2593,15 @@ El Instituto contará con un Consejo Consultivo como órgano de apoyo en materia
 
 Integración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 170.
 
-El Consejo Consultivo del Instituto se integrará por cinco personas preferentemente guanajuatenses con experiencia en la materia de esta Ley y en derechos humanos, en el que exista igualdad de género, provenientes de organizaciones de la sociedad civil y de la academia, en pleno ejercicio de sus derechos civiles y políticos, elegidos por convocatoria pública que realizará el Instituto, para que se ocupen los cargos de un presidente, un secretario técnico y tres vocales, la cual deberá apegarse a los principios de certeza, eficacia, imparcialidad, Independencia, legalidad, objetividad, profesionalismo, transparencia y máxima publicidad.
+El Consejo Consultivo del Instituto se integrará por cinco personas preferentemente guanajuatenses con experiencia en la materia de esta Ley y en derechos humanos, en el que exista paridad de género, provenientes de organizaciones de la sociedad civil y de la academia, en pleno ejercicio de sus derechos civiles y políticos, elegidas por convocatoria pública que realizará el Instituto, para que se ocupen los cargos de una presidencia, una secretaría técnica y tres vocalías, la cual deberá apegarse a los principios de certeza, eficacia, imparcialidad, Independencia, legalidad, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2022)</small>
+
+El Consejo Consultivo deberá de estar integrado de manera de que en ningún caso podrán ser más de tres personas de un mismo género.
 
 Contenido de la convocatoria para integrar el consejo consultivo del instituto
 
@@ -2645,9 +2651,11 @@ Se podrá invitar a participar a las sesiones del Consejo Consultivo a personas 
 
 Suplente
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 175.
 
-Cada persona integrante del Consejo Consultivo, deberá contar con un suplente, el cual deberá de ser designado por el Pleno del Instituto, conforme a la convocatoria pública, con la finalidad de que éste asista en su lugar a las sesiones, cuando le sea imposible asistir a la persona integrante propietario, teniendo derecho a voz y voto.
+Cada persona integrante del Consejo Consultivo contará con una persona suplente, quien deberá ser del mismo género que la persona propietaria y será designada por el Pleno del Instituto, conforme a la convocatoria pública, con la finalidad de que éste asista en su lugar a las sesiones, cuando le sea imposible asistir a la persona integrante propietaria, teniendo derecho a voz y voto.
 
 Sesiones del Consejo Directivo
 
@@ -3140,3 +3148,9 @@ P.O. 3 DE NOVIEMBRE DE 2020.
 Artículo Primero. El presente decreto entrará en vigor el 9 de febrero de 2021, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 Artículo Segundo. El Poder Judicial iniciará la publicación de las versiones públicas de las sentencias emitidas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente decreto.
+
+P.O. 28 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 98 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULO 170 Y 175 EN SU PRIMER PÁRRAFO RESPECTIVAMENTE Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 170 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 RECORRIÉNDOSE LOS SUBSECUENTES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
