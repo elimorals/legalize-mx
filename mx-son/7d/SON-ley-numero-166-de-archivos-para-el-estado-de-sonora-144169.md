@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-166-de-archivos-para-el-estado-de-sonora-144169"
 country: "mx"
 rank: "ley"
 publication_date: "2020-09-17"
-last_updated: "2020-09-17"
+last_updated: "2022-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE OCTUBRE DE 2022.
 
 Ley publicada la Sección II al Número 23 del Boletín Oficial del Estado de Sonora, el jueves 17 de septiembre de 2020.
 
@@ -97,9 +97,9 @@ V.- Archivo de trámite: Al integrado por documentos de archivo de uso cotidiano
 
 VI.- Archivo General: Al Archivo General de la Nación;
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, B.O. 28 DE OCTUBRE DE 2022)</small>
 
-VII.- Archivo General del Estado: Organismo descentralizado Y SECTORIZADO A LA SECRETARÍA DE GOBIERNO, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, que tiene por objeto promover la administración homogénea de los archivos, preservar, incrementar y difundir el patrimonio documental del Estado de Sonora, con el fin de salvaguardar su memoria de corto, mediano y largo plazo, así como contribuir a la transparencia y rendición de cuentas;
+VII.- Archivo General del Estado: Organismo descentralizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, que tiene por objeto promover la administración homogénea de los archivos, preservar, incrementar y difundir el patrimonio documental del Estado de Sonora, con el fin de salvaguardar su memoria de corto, mediano y largo plazo, así como contribuir a la transparencia y rendición de cuentas;
 
 VIII.- Archivo histórico: Unidad responsable de la administración de archivos de conservación permanente, integrado por documentos de relevancia para la memoria nacional, regional o local, de carácter público;
 
@@ -181,9 +181,7 @@ XLVI.- Plazo de conservación: Periodo de guarda de las series documentales en l
 
 XLVII.- Programa anual: Programa anual de desarrollo archivístico;
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XLVIII.- REGISTRO ESTATAL: REGISTRO DE ARCHIVOS DEL ESTADO DE SONORA;
+XLVIII.- (DEROGADA, B.O. 28 DE OCTUBRE DE 2022).
 
 XLIX.- Sección: Cada una de las divisiones del fondo documental basada en las atribuciones de cada sujeto obligado de conformidad con las disposiciones legales aplicables;
 
@@ -269,9 +267,9 @@ II.- Establecer un sistema institucional para la administración de sus archivos
 
 III.- Integrar los documentos en expedientes;
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, B.O. 28 DE OCTUBRE DE 2022)</small>
 
-IV.- Inscribir EN EL REGISTRO ESTATAL Y en el Registro Nacional de acuerdo con las disposiciones que se emitan en la materia, la existencia y ubicación de archivos bajo su resguardo;
+IV.- Inscribir en el Registro Nacional de acuerdo con las disposiciones que se emitan en la materia, la existencia y ubicación de archivos bajo su resguardo;
 
 V.- Conformar un grupo interdisciplinario en términos de las disposiciones reglamentarias, que coadyuve en la valoración documental;
 
@@ -489,13 +487,9 @@ Los responsables de los archivos de concentración deben contar con los conocimi
 
 El sujeto obligado deberá asegurar que se cumplan los plazos de conservación establecidos en el catálogo de disposición documental y que los mismos no excedan el tiempo determinado en la normatividad específica aplicable al sujeto obligado, o en su caso, considerar el uso, consulta y utilidad que tenga su información. En ningún caso el plazo podrá exceder de 25 años.
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 33.
 
-El Instituto Sonorense de Transparencia, Acceso a la Información y Protección de Datos Personales, de acuerdo con la legislación en materia de transparencia y acceso a la información pública, determinarán el procedimiento para permitir el acceso a la información de documentos con valores históricos, que no hayan sido transferidos a un archivo histórico y que contengan datos personales sensibles, de manera excepcional en los casos establecidos en el artículo 120 de la Ley General de Transparencia y acceso a la información Pública.
-
-Los particulares podrán impugnar las determinaciones o resoluciones que dicte el organismo garante al que se refiere el presente artículo, ante el Poder Judicial de la Federación, de conformidad con lo dispuesto en el artículo 38, segundo párrafo, de la Ley General.
+(DEROGADO, B.O. 28 DE OCTUBRE DE 2022).
 
 ### CAPÍTULO VIII. DE LOS ARCHIVOS HISTÓRICOS Y SUS DOCUMENTOS
 
@@ -887,31 +881,21 @@ IV.- Promover la digitalización de la información generada con motivo del ejer
 
 ### CAPÍTULO III. DEL REGISTRO ESTATAL DE ARCHIVOS
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 72.
 
-El Sistema Estatal contará con el Registro Estatal, cuyo objeto es obtener y concentrar información sobre los sistemas institucionales, así como difundir el patrimonio documental del Estado resguardado en sus archivos, el cual será administrado por el Archivo General del Estado. La eficacia del mismo está estrechamente vinculada con la coincidencia en su contenido con el Registro Nacional de Archivos.
-
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, B.O. 28 DE OCTUBRE DE 2022).
 
 ###### Artículo 73.
 
-La inscripción al Registro Estatal es obligatoria para los sujetos obligados, quienes deberán actualizar anualmente la información requerida en dicho Registro Estatal, de conformidad con las disposiciones que para tal efecto emita el Consejo Nacional y el Consejo Estatal.
-
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, B.O. 28 DE OCTUBRE DE 2022).
 
 ###### Artículo 74.
 
-El Registro Estatal será administrado por el Archivo General del Estado, su organización y funcionamiento será conforme a las disposiciones que emita el propio Consejo Estatal.
-
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, B.O. 28 DE OCTUBRE DE 2022).
 
 ###### Artículo 75.
 
-Para la operación del Registro Estatal, el Archivo General del Estado pondrá a disposición de los sujetos obligados una aplicación informática que les permita registrar y mantener actualizada la información, la cual deberá prever la interoperabilidad con el Registro Nacional de Archivos y considerar las disposiciones que para tal efecto emita el Consejo Nacional.
-
-La información del Registro Estatal será de acceso público y de consulta gratuita, disponible a través del portal electrónico del Archivo General del Estado.
+(DEROGADO, B.O. 28 DE OCTUBRE DE 2022).
 
 ### CAPÍTULO IV. DE LOS FONDOS DE APOYO ECONÓMICO PARA LOS ARCHIVOS
 
@@ -1025,11 +1009,11 @@ Los usuarios de los archivos deberán respetar las disposiciones aplicables para
 
 ### CAPÍTULO I. DE LA ORGANIZACIÓN
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 96.
 
-El Archivo General del Estado es un organismo descentralizado Y SECTORIZADO A LA SECRETARÍA DE GOBIERNO con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines, su domicilio legal es en la ciudad de Hermosillo en el Estado de Sonora.
+El Archivo General del Estado es un organismo descentralizado con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines, su domicilio legal es en la ciudad de Hermosillo en el Estado de Sonora.
 
 ###### Artículo 97.
 
@@ -1141,17 +1125,13 @@ II.- La Secretaría de Hacienda;
 
 III.- La Secretaría de Educación y Cultura;
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-IV.- INSTITUTO SUPERIOR DE AUDITORÍA Y FISCALIZACIÓN;
+IV.- (DEROGADA, B.O. 28 DE OCTUBRE DE 2022).
 
 V.- La Secretaría de la Contraloría General;
 
 VI.- El Consejo Estatal de Ciencia y Tecnología; y
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-VII.- EL DIRECTOR GENERAL DEL ARCHIVO GENERAL DEL ESTADO.
+VII.- (DEROGADA, B.O. 28 DE OCTUBRE DE 2022).
 
 Los integrantes del Órgano de Gobierno deberán tener, por lo menos, nivel de Subsecretario o su equivalente. Por cada miembro propietario habrá un suplente que deberá tener nivel, por lo menos, de director general o su equivalente.
 
@@ -1185,9 +1165,7 @@ El Director General, además de lo previsto en la Ley Orgánica del Poder Ejecut
 
 I.- Supervisar que la actividad del Archivo General del Estado cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-II.- FUNGIR COMO SECRETARIO EJECUTIVO DEL ÓRGANO DE GOBIERNO
+II.- (DEROGADA, B.O. 28 DE OCTUBRE DE 2022).
 
 III.- Proponer al Órgano de Gobierno las medidas necesarias para el funcionamiento del Archivo General;
 
@@ -1297,15 +1275,15 @@ Artículo Segundo.- A partir de la entrada en vigor de la presente Ley se abroga
 
 Artículo Tercero.- En tanto se expidan las normas archivísticas correspondientes, se continuará aplicando lo dispuesto en las disposiciones reglamentarias referidas en los lineamentos Generales para la Administración Documental en el Estado de Sonora emitidos por el Instituto de Transparencia Informativa del Estado de Sonora actualmente Instituto Sonorense de Transparencia y Acceso a la Información Pública y Protección de Datos Personales, publicados en el B.O. 13 sección IV el día 13 de febrero del 2014, en tanto no se contraponga con lo establecido en la Ley General de Archivos y esta Ley.
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL TRANSITORIO CUARTO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 28 DE OCTUBRE DE 2022)</small>
 
-Artículo Cuarto.- En un plazo de 365 días naturales a partir de la entrada en vigor de la presente Ley, se deberá crear el Archivo General del Estado, como un organismo descentralizado Y SECTORIZADO A LA SECRETARÍA DE GOBIERNO. Las Secretarías de Gobierno, de Hacienda y de la Contraloría General, en el ámbito de sus atribuciones, deberán llevar a cabo las gestiones correspondientes para que se autorice, conforme a las disposiciones aplicables, la estructura orgánica y funcional del Archivo General del Estado.
+Artículo Cuarto.- En un plazo de 365 días naturales a partir de la entrada en vigor de la presente Ley, se deberá crear el Archivo General del Estado, como un organismo descentralizado. Las Secretarías de Gobierno, de Hacienda y de la Contraloría General, en el ámbito de sus atribuciones, deberán llevar a cabo las gestiones correspondientes para que se autorice, conforme a las disposiciones aplicables, la estructura orgánica y funcional del Archivo General del Estado.
 
 Artículo Quinto.- La Secretaría de Gobierno, con cargo a su presupuesto, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera "El Archivo del Estado", mientras esté subordinado a la Dirección General del Boletín Oficial y Archivo del Estado para el cumplimiento del presente ordenamiento, hasta la creación del Archivo General del Estado.
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL TRANSITORIO SEXTO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 28 DE OCTUBRE DE 2022)</small>
 
-Artículo Sexto.- El monto del fondo de apoyo económico para archivos, establecido EN EL ARTÍCULO 79 en la presente Ley, se constituirá por lo menos con el importe correspondiente al 0.0005% del total de ingresos a recibir en cada ejercicio fiscal.
+Artículo Sexto.- El monto del fondo de apoyo económico para archivos, establecido en la presente Ley, se constituirá por lo menos con el importe correspondiente al 0.0005% del total de ingresos a recibir en cada ejercicio fiscal.
 
 Artículo Séptimo.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a un presupuesto asignado con base en un dictamen de viabilidad otorgado por la Secretaría de Hacienda en el ámbito de su competencia, para el presente ejercicio fiscal y en el caso de los subsecuentes será a cargo de sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
 
@@ -1323,9 +1301,7 @@ Artículo Décimo Primero.- Los sujetos obligados deberán iniciar la implementa
 
 Artículo Décimo Segundo.- En un plazo de 90 días naturales, contado a partir de la entrada en vigor de la presente Ley, los sujetos obligados deberán establecer programas de capacitación en materia de administración de archivos y gestión documental.
 
-(NOTA: EL 24 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO SEGUNDO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 276/2020, DECLARÓ LA INVALIDEZ DEL TRANSITORIO DÉCIMO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-Artículo Décimo Tercero.- DENTRO DE LOS 365 DÍAS NATURALES SIGUIENTES A LA ENTRADA EN VIGOR DE LA PRESENTE LEY, EL ARCHIVO GENERAL DEL ESTADO INICIARÁ EL PROCESO DE IMPLEMENTACIÓN DE LA PLATAFORMA DEL REGISTRO ESTATAL DE ARCHIVOS.
+Artículo Décimo Tercero.- (DEROGADO, B.O. 28 DE OCTUBRE DE 2022).
 
 Artículo Décimo Cuarto.- Aquellos documentos que se encuentren en los archivos de concentración y que antes de la entrada en vigor de la presente Ley no hayan sido organizados y valorados, se les deberán aplicar los procesos técnicos archivísticos correspondientes, con el objetivo de identificar el contenido y carácter de la información, así como determinar su disposición documental.
 
@@ -1342,3 +1318,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veinticinco días del mes de agosto del año dos mil veinte.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 28 DE OCTUBRE DE 2022.
+
+> <small>[N. DE E. TRANSITORIO "DECRETO NÚMERO 52, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ARCHIVOS PARA EL ESTADO DE SONORA".]</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
