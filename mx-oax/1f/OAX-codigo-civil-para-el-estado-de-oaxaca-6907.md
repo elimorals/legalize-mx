@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2022-10-22"
+last_updated: "2022-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1199,29 +1199,45 @@ Cuando se recupere la capacidad legal para administrar bienes y la patria potest
 
 ### CAPITULO XI. De la rectificación, modificación y aclaración de las actas del registro civil
 
-> <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 136.
 
-La rectificación o modificación de una Acta del Estado Civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste.
+La rectificación o modificación de un Acta del Estado Civil podrá hacerse en la vía administrativa o en la judicial.
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
 
 En materia de reconocimiento de identidad de género, el procedimiento será por la vía administrativa, pudiendo realizarse ante la Oficialía del Registro Civil que corresponda en los términos del Reglamento Interno.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2022)</small>
+
+Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 137.
 
-Ha lugar a pedir la rectificación o modificación:
+Ha lugar a pedir la rectificación o modificación por la vía administrativa:
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1982)</small>
 
 I. Por error de los datos contenidos en el acta respectiva;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1982)</small>
 
 II. Por enmienda, cuando se solicite variar, agregar o suprimir un nombre o alguna otra circunstancia esencial del acto registrado.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE OCTUBRE DE 2019)</small>
 
 III. Cuando una persona solicite el reconocimiento de su identidad de género, en el ejercicio al libre desarrollo de la personalidad.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2022)</small>
+
+IV. Para la corrección de las actas del estado civil de los descendientes, cuando sus ascendientes hayan rectificado o aclarado sus actas respectivas, así como de aquellas actas que tengan relación directa con las originalmente modificadas.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2022)</small>
+
+Ha lugar a pedir la rectificación o modificación por la vía judicial, en los casos que implique cambio de derechos y obligaciones relacionadas con la filiación y el parentesco, en caso de negarse la rectificación administrativa por falta de elementos suficientes.
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
 
@@ -1307,11 +1323,25 @@ III. Los herederos de las personas comprendidas en las dos fracciones anteriores
 
 IV. Las que según los artículos 361, 362 y 363 de este Código puedan continuar o intentar la acción de que en ellos se trata.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 139.
 
-El juicio de rectificación o modificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+La rectificación o modificación de acta por la vía jurisdiccional se seguirá en la forma que se establezca en el Código de Procedimientos Civiles
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 139 Bis.
+
+La rectificación o modificación por la vía administrativa se llevará a cabo bajo el procedimiento siguiente:
+
+I. El interesado o su representante legal deberá presentar su solicitud por escrito a la Dirección General del Registro Civil con la copia certificada del Acta que se pretenda corregir e identificación oficial con fotografía del solicitante.
+
+II. La Dirección General del Registro Civil desahogará las pruebas y dictará resolución en un plazo de doce días hábiles.
+
+Una vez resuelta y asentada la rectificación, el dato que corresponda no podrá ser objeto de rectificación posterior. Tampoco podrá modificarse si la rectificación tuvo su origen en sentencia judicial.
+
+No se dará entrada a solicitud de rectificación administrativa que verse sobre la misma materia de otra que ya hubiere sido resuelta.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -15732,3 +15762,11 @@ P.O. 22 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 29 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 694.- MEDIANTE EL CUAL REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 136; EL PRIMER PÁRRAFO DEL ARTÍCULO 137 Y EL ARTÍCULO 139; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 136; LA FRACCIÓN IV Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 137 Y EL ARTÍCULO 139 BIS, TODO DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
