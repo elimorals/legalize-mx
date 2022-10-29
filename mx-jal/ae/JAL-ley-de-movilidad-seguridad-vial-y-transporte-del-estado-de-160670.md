@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-seguridad-vial-y-transporte-del-estado-de-1606
 country: "mx"
 rank: "ley"
 publication_date: "2022-10-19"
-last_updated: "2022-10-19"
+last_updated: "2022-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE JUNIO DE 2023 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2022.
 
 Ley publicada en la Edición Especial 30 Bis del Periódico Oficial del Estado de Jalisco, el miércoles 19 de octubre de 2022.
 
@@ -3501,7 +3503,9 @@ I. Por resolución judicial ejecutoriada, durante el tiempo que la misma señale
 
 II. Por resolución administrativa y cuando las instancias encargadas en el Estado de la valoración y certificación de las personas con discapacidad comprueben que el grado de discapacidad física, mental, intelectual o sensorial de la persona titular del documento no le permite manejar incluso con el apoyo de adaptaciones especiales o ayudas técnicas, o en los casos previstos en los artículos 381 y 382 de esta Ley;
 
-III. Por resolución administrativa hasta por seis meses cuando incurra dentro del término de sesenta días dos ocasiones o más, en cualquiera de las sanciones previstas en los artículos 363 numeral 1 fracciones III a la VII, IX, X, XI, XIX a la XXIX, XXXI a la XXXIV y XXXVI, 364 fracción VII, 366 fracción III, 367 fracción VI, 376 y 385 fracción XV;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2022)</small>
+
+III. Por resolución administrativa hasta por seis meses cuando incurra dentro del término de sesenta días dos ocasiones o más, en cualquiera de las sanciones previstas en los artículos 363 numeral 1. fracciones III, IV, V, VI, VII, VIII, IX, X, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXX, XXXI, XXXII, XXXIII y XXXV, 364 numeral 1. fracción VII, 366 numeral 1. fracción II, 367 numeral 1. fracción VI, 376 y 385 numeral 1. fracción XV;
 
 IV. A la persona operadora del servicio público del transporte que participe en un siniestro de tránsito donde se hayan producido u ocasionado lesiones en personas, de las que tardan más de quince días en sanar y en las cuales se acredite su responsabilidad. Se suspenderá por el término de un año a partir de su notificación a la persona conductora operadora; o
 
@@ -5827,7 +5831,9 @@ XXVIII. No manifestar la baja del vehículo o el cambio de domicilio del propiet
 
 XXIX. Transportar personas en vehículos de carga liviana o pesada, sin protección debida; o
 
-XXX. Conducir con cualquier producto encendido de tabaco o sustancias nocivas para la salud en el interior del vehículo.
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXX. Conducir vehículos del servicio de transporte público en todos sus modos, con cualquier producto encendido de tabaco o sustancias nocivas para la salud en el interior del vehículo.
 
 ###### Artículo 361.
 
@@ -5879,6 +5885,8 @@ VIII. Circular sobre la banqueta o estacionarse en la misma, en forma tal, o en 
 
 2. Por la reincidencia en la infracción prevista en el numeral 1 fracción I del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio público de transporte de personas pasajeras, de taxi en sus diversos modos, así como de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se duplicará el importe de la multa correspondiente.
 
+> <small>[N. DE E. VEÁSE LA LITERALIDAD DEL ARTÍCULO, P.O. 29 DE OCTUBRE DEL 2022, DE LA PÁG. 3 A LA 6.]</small>
+
 ###### Artículo 363.
 
 De diez a treinta UMA.
@@ -5899,71 +5907,129 @@ VI. A la persona conductora que circulé en doble y tercer fila para dar vuelta 
 
 VII. No utilizar el cinturón de seguridad o hacerlo inadecuadamente, tanto la persona conductora como todas las personas acompañantes;
 
-VIII. Cuando excedan la velocidad, de once hasta veinte kilómetros por hora y que sean detectadas mediante fotoinfracción u otro dispositivo de control automatizado;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN IX], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-IX. A la persona conductora de un vehículo que exceda en más de diez kilómetros por hora el límite de velocidad máximo permitido, siempre que existan señalamientos en donde se anuncie el citado límite de velocidad. En aquellas zonas en que expresamente se restrinja el límite máximo de velocidad, como son las próximas a centros escolares y hospitales, el reglamento señalará tanto la velocidad máxima permitida en ellas como qué otras zonas se considerarán con velocidad restringida. En estos casos no habrá tolerancia alguna y, en consecuencia, no se deberá, por ningún motivo, rebasar la velocidad permitida;
+VIII. A la persona conductora de un vehículo que exceda en más de diez kilómetros por hora el límite de velocidad máximo permitido, siempre que existan señalamientos en donde se anuncie el citado límite de velocidad. En aquellas zonas en que expresamente se restrinja el límite máximo de velocidad, como son las próximas a centros escolares y hospitales, el reglamento señalará tanto la velocidad máxima permitida en ellas como qué otras zonas se considerarán con velocidad restringida. En estos casos no habrá tolerancia alguna y, en consecuencia, no se deberá, por ningún motivo, rebasar la velocidad permitida;
 
-X. A la persona que conduzca un vehículo de motor en ciclovías, zonas peatonales, jardines, plazas y pistas para uso exclusivo de peatones, a no ser que cuente con la autorización respectiva de la autoridad competente para circular por dichas zonas;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN X], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XI. Las personas conductoras que circulen o se estacionen sin causa justificada por el carril de acotamiento;
+IX. A la persona que conduzca un vehículo de motor en ciclovías, zonas peatonales, jardines, plazas y pistas para uso exclusivo de peatones, a no ser que cuente con la autorización respectiva de la autoridad competente para circular por dichas zonas;
 
-XII. A la persona motociclista que no porte, debidamente colocado y ajustado con las correas de seguridad, casco protector para motociclista y, en su caso, también su acompañante;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XI], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XIII. A la persona motociclista que no circule conforme lo establece el reglamento de la presente Ley;
+X. Las personas conductoras que circulen o se estacionen sin causa justificada por el carril de acotamiento;
 
-XIV. A la persona motociclista que circule en forma paralela o entre carriles que correspondan a otros vehículos;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XII], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XV. A la persona motociclista que no circule con las luces encendidas todo el tiempo;
+XI. A la persona motociclista que no porte, debidamente colocado y ajustado con las correas de seguridad, casco protector para motociclista y, en su caso, también su acompañante;
 
-XVI. A la persona motociclista que no porte debidamente los elementos de seguridad que establece el reglamento de esta Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XIII], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XVII. A la persona motociclista que transporte carga peligrosa para sí mismo o para terceros;
+XII. A la persona motociclista que no circule conforme lo establece el reglamento de la presente Ley;
 
-XVIII. A la persona conductora del servicio de transporte público colectivo de personas pasajeras, por no contar o no presentar licencia de conductor de servicio de transporte público vigente, expedida por la Secretaría;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XIV], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XIX. Tratándose de vehículos de transporte público, realizar viajes especiales fuera de ruta, sin la autorización de excursión;
+XIII. A la persona motociclista que circule en forma paralela o entre carriles que correspondan a otros vehículos;
 
-XX. Omitir los despachadores, los controles, o no proporcionar la información que determine el reglamento de esta Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XV], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XXI. Los vehículos de itinerario fijo, circular fuera de la ruta autorizada;
+XIV. A la persona motociclista que no circule con las luces encendidas todo el tiempo;
 
-XXII. Negarse injustificadamente a recibir o bajar carga o a subir o bajar pasaje en los lugares autorizados;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XVI], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XXIII. No usar taxímetro o cobrar una cuota mayor a la que resulte de aplicar la tarifa correspondiente;
+XV. A la persona motociclista que no porte debidamente los elementos de seguridad que establece el reglamento de esta Ley;
 
-XXIV. Aplicar condiciones diferentes de las autorizadas en la prestación del servicio, previamente establecidas en el reglamento de la presente Ley, y la norma de carácter técnica correspondiente;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XVII], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XXV. Incumplir lo establecido en el artículo 242 numeral 1 fracción II, de esta Ley;
+XVI. A la persona motociclista que transporte carga peligrosa para sí mismo o para terceros;
 
-XXVI. Brinde servicio deficiente, maltrate o falte al respeto a cualquier ciudadano. Para efectos de la presente fracción existe maltrato cuando a la persona usuaria se le niega el servicio sin causa justificada o sea víctima de actos violentos, discriminatorios o humillantes;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XVIII], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XXVII. Nieguen, impidan u obstaculicen el uso del servicio público a las personas con discapacidad;
+XVII. A la persona conductora del servicio de transporte público colectivo de personas pasajeras, por no contar o no presentar licencia de conductor de servicio de transporte público vigente, expedida por la Secretaría;
 
-XXVIII. Llevar exceso de pasaje en vehículo de servicio público, conforme a las especificaciones del mismo y a lo establecido en la norma de carácter técnico respectiva;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XIX], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XXIX. Estacionarse en rampas o en lugares reservados para vehículos de personas con discapacidad;
+XVIII. Tratándose de vehículos de transporte público, realizar viajes especiales fuera de ruta, sin la autorización de excursión;
 
-XXX. Preste el servicio mediante el uso de vehículos que contravengan las disposiciones de esta Ley, en su reglamento o cualquier otra disposición técnico-administrativa;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XX], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XXXI. A los vehículos de transporte público de personas pasajeras que no circulen con las luces principales e interiores encendidas en los términos del reglamento;
+XIX. Omitir los despachadores, los controles, o no proporcionar la información que determine el reglamento de esta Ley;
 
-XXXII. A los vehículos de transporte público colectivo de personas pasajeras que no circulen con cristales que sean transparentes en su totalidad, en los términos de la norma técnica correspondiente;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXI], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XXXIII. Conduzca durante la prestación del servicio, utilizando equipos de sonido, radios, telefonía, equipos de comunicación diversa o luces que distraigan y provoquen molestias a las personas conductoras, usuarias o terceras, salvo los autorizados expresamente en virtud a sus características;
+XX. Los vehículos de itinerario fijo, circular fuera de la ruta autorizada;
 
-XXXIV. A los vehículos o rutas de transporte público masivo y colectivo de personas pasajeras, que presten el servicio sin el equipamiento previsto en el artículo 267;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXII], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-XXXV. Prestar un servicio público en vehículos distintos a los autorizados;
+XXI. Negarse injustificadamente a recibir o bajar carga o a subir o bajar pasaje en los lugares autorizados;
 
-XXXVI. No disponer de un seguro que cubra daños a terceros. Dicha sanción quedará condonada, si el infractor presenta dentro de los veinte días hábiles siguientes la constancia o póliza de seguro contra daños a terceros a la Secretaría o dependencia del Ejecutivo que señale el reglamento de esta Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXIII], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXII. No usar taxímetro o cobrar una cuota mayor a la que resulte de aplicar la tarifa correspondiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXIV], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXIII. Aplicar condiciones diferentes de las autorizadas en la prestación del servicio, previamente establecidas en el reglamento de la presente Ley, y la norma de carácter técnica correspondiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXV], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXIV. Incumplir lo establecido en el artículo 242 numeral 1 fracción II, de esta Ley;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXVI], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXV. Brinde servicio deficiente, maltrate o falte al respeto a cualquier ciudadano. Para efectos de la presente fracción existe maltrato cuando a la persona usuaria se le niega el servicio sin causa justificada o sea víctima de actos violentos, discriminatorios o humillantes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXVII], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXVI. Nieguen, impidan u obstaculicen el uso del servicio público a las personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXVIII], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXVII. Llevar exceso de pasaje en vehículo de servicio público, conforme a las especificaciones del mismo y a lo establecido en la norma de carácter técnico respectiva;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXIX], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXVIII. Estacionarse en rampas o en lugares reservados para vehículos de personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXX], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXIX. Preste el servicio mediante el uso de vehículos que contravengan las disposiciones de esta Ley, en su reglamento o cualquier otra disposición técnico-administrativa;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXXI], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXX. A los vehículos de transporte público de personas pasajeras que no circulen con las luces principales e interiores encendidas en los términos del reglamento;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXXII], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXXI. A los vehículos de transporte público colectivo de personas pasajeras que no circulen con cristales que sean transparentes en su totalidad, en los términos de la norma técnica correspondiente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXXIII], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXXII. Conduzca durante la prestación del servicio, utilizando equipos de sonido, radios, telefonía, equipos de comunicación diversa o luces que distraigan y provoquen molestias a las personas conductoras, usuarias o terceras, salvo los autorizados expresamente en virtud a sus características;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXXIV], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXXIII. A los vehículos o rutas de transporte público masivo y colectivo de personas pasajeras, que presten el servicio sin el equipamiento previsto en el artículo 267;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXXV], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXXIV. Prestar un servicio público en vehículos distintos a los autorizados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXXVI], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXXV. No disponer de un seguro que cubra daños a terceros. Dicha sanción quedará condonada, si el infractor presenta dentro de los veinte días hábiles siguientes la constancia o póliza de seguro contra daños a terceros a la Secretaría o dependencia del Ejecutivo que señale el reglamento de esta Ley;
 
 Los vehículos de transporte público colectivo y masivo, y los de transporte especializado en los modos contemplados en esta Ley, para que puedan prestar dicho servicio, además del seguro de daños a terceros, deben contar con un seguro de vida para las personas pasajeras y que además garantice las posibles lesiones que puedan sufrir las personas usuarias en los casos de los que transporten personas pasajeras, considerando las reglas y consideraciones de calidad en el servicio; o
 
-XXXVII. Abastecer combustible con pasaje a bordo o con motor encendido, en caso de vehículos del servicio público de transporte.
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XXXVII], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+XXXVI. Abastecer combustible con pasaje a bordo o con motor encendido, en caso de vehículos del servicio público de transporte.
 
 2. En caso de reincidencia en las infracciones previstas en el numeral 1 fracciones IV y VI del presente artículo, cometidas dentro de los treinta días siguientes, se sancionará a elección del infractor, con arresto de doce horas, o dos jornadas de trabajo en favor de la comunidad en materia de movilidad y transporte.
 
-3. Por la reincidencia en la infracción prevista en el numeral 1 fracción XXXV del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio público de transporte colectivo de personas pasajeras, de taxi en sus diversos modos, así como de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se duplicará el importe de la multa correspondiente.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2022)</small>
+
+3. Por la reincidencia en la infracción prevista en el numeral 1 fracción XXXIV del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio de transporte público colectivo de personas pasajeras, de taxi en sus diversos modos, así como de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se duplicará el importe de la multa correspondiente.
 
 ###### Artículo 364.
 
@@ -6001,6 +6067,8 @@ III. A la persona conductora del vehículo que porte algún comprobante del prog
 
 2. En los supuestos establecidos por el numeral 1 fracciones I y II, la sanción que se imponga podrá ser condonada si el vehículo que la motivó es verificado con resultado aprobatorio, dentro de los treinta días naturales siguientes al de la notificación de la sanción.
 
+> <small>[N. DE E. VEÁSE LA LITERALIDAD DEL ARTÍCULO, P.O. 29 DE OCTUBRE DE 2022, PÁG. 7.]</small>
+
 ###### Artículo 366.
 
 De veinte a treinta UMA.
@@ -6009,17 +6077,19 @@ De veinte a treinta UMA.
 
 I. A la persona conductora que circule en el Estado de Jalisco, en un vehículo que con independencia de que cuente con su comprobante vigente, de acuerdo al programa de verificación vehicular de la Secretaría de Medio Ambiente y Desarrollo Territorial, que al circular sea inspeccionado por la autoridad que determine técnicamente que emite gases contaminantes a la atmósfera que exceden los límites permisibles establecidos por las Normas Oficiales Mexicanas;
 
-II. Cuando excedan la velocidad más de veinte kilómetros por hora y que sean detectadas mediante foto infracción u otro dispositivo de control automatizado;
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN III], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-III. Las personas conductoras de vehículos de carga pesada que circulen, por carriles centrales o de alta velocidad o por circular en zona prohibida; o
+II. Las personas conductoras de vehículos de carga pesada que circulen, por carriles centrales o de alta velocidad o por no circular en zona prohibida; o
 
-IV. Proporcionar servicio público en cualquiera de sus modos en localidad distinta de la autorizada.
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN IV], P.O. 29 DE OCTUBRE DE 2022)</small>
+
+III. Proporcionar servicio de transporte público en cualquiera de sus modos en localidad distinta de la autorizada.
 
 2. La multa correspondiente al numeral 1 fracción I de este artículo, será reducida al mínimo si es que el problema de contaminación es corregido y lo acredita con el comprobante vigente fechado dentro de los treinta días naturales siguientes a la liberación del vehículo.
 
-3. La sanción pecuniaria prevista en el numeral 1 fracción II del presente artículo, se conmutará al cincuenta por ciento, siempre y cuando se acredite la asistencia al curso de sensibilización sobre los riesgos de circular a exceso de velocidad que al efecto imparta la Secretaría o las autoridades competentes en materia de movilidad, seguridad vial y transporte.
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES NUMERAL 4], P.O. 29 DE OCTUBRE DE 2022)</small>
 
-4. Por la reincidencia en la infracción prevista en el numeral 1 fracción IV del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio público de transporte colectivo de personas pasajeras, de taxi en sus diversos modos, así como de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se duplicará el importe de la multa correspondiente.
+3. Por la reincidencia en la infracción prevista en el numeral 1 fracción III del presente artículo cometida dentro de los treinta días siguientes, por personas conductoras operadoras del servicio de transporte público colectivo de personas pasajeras, de taxi en sus diversos modos, así como de transporte de personas pasajeras bajo demanda mediante aplicaciones móviles, se duplicará el importe de la multa correspondiente.
 
 ###### Artículo 367.
 
@@ -6029,7 +6099,9 @@ De veinte a sesenta UMA.
 
 I. Circular o estacionarse en ciclovías o en los lugares específicamente destinados al estacionamiento de bicicletas, aún cuando se trate de personas conductoras de motocicletas;
 
-II. Alcanzar o rebasar a una persona ciclista sin respetar las distancias a que se refiere el artículo 232 de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2022)</small>
+
+II. Alcanzar o rebasar a una persona ciclista sin respetar las distancias a que se refiere el artículo 119 numeral 6 de esta Ley;
 
 III. No respetar los derechos de preferencia de las personas ciclistas a que se refiere el artículo 31 de esta Ley;
 
@@ -6782,3 +6854,11 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28864/LXIII/22 QUE REFORMA LOS ARTÍCULO 189, 360, 363 Y 367 DE LA LEY DE MOVILIDAD, SEGURIDAD VIAL Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
