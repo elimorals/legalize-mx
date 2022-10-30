@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2022-06-02"
+last_updated: "2022-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -203,23 +203,7 @@ Los ayuntamientos residirán en las cabeceras de los municipios y su cambio de r
 
 ###### Artículo 7.
 
-El Congreso del Estado podrá decretar la creación de nuevos municipios conforme a los siguientes requisitos:
-
-I. Que la superficie territorial en que se pretenda constituir no sea menor de mil quinientos kilómetros cuadrados.
-
-II. Que la población que habite en esa superficie sea mayor de doce mil habitantes.
-
-III. Que lo soliciten cuando menos la mitad de los ciudadanos que radiquen en ese territorio.
-
-IV. Que el centro de población que se designe como cabecera municipal, tenga no menos de seis mil habitantes; además de que cuente con los servicios públicos municipales indispensables.
-
-V. Que los estudios económicos y fiscales que se practiquen, demuestren que los probables ingresos serán suficientes para atender los requerimientos de la administración municipal.
-
-VI. Que se solicite a los ayuntamientos que se sientan afectados, externen su opinión y argumenten lo que a sus intereses convenga.
-
-VII. Que se solicite la opinión del Poder Ejecutivo del Estado.
-
-VIII. Que como resultado del estudio que se realice por el Congreso del Estado, se desprenda que la creación del nuevo municipio no afecta los intereses del Estado.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2022)
 
 ###### Artículo 8.
 
@@ -2642,3 +2626,15 @@ P.O. 2 DE JUNIO DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 155.- QUE CONTIENE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el artículo 7 de la Ley Orgánica del Municipio Libre del Estado de Durango y demás disposiciones que se opongan al presente Decreto.
