@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2022-10-09"
+last_updated: "2022-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -437,7 +437,9 @@ Las personas o instituciones que presten servicios públicos deberán incorporar
 
 ###### Artículo 28.
 
-Toda persona tiene derecho a la cultura y a participar de la vida cultural de su comunidad. El Estado garantizará la conservación y promoción del patrimonio histórico, cultural y artístico de Durango; protegerá y promoverá la diversidad cultural existente en la entidad, y fortalecerá su identidad duranguense.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2022)</small>
+
+Toda persona tiene derecho a la cultura y a participar de la vida cultural de su comunidad. El Estado garantizará la conservación y promoción del patrimonio histórico, cultural y artístico de Durango; protegerá y promoverá en todas sus manifestaciones y expresiones, la diversidad cultural existente en la entidad, la libertad creativa y fortalecerá su identidad duranguense.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
 
@@ -975,9 +977,9 @@ El Escudo e Himno de Durango deben estar vinculados a la identidad duranguense, 
 
 ###### Artículo 63.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-Las elecciones de Gobernador o Gobernadora del Estado, diputados y diputadas, e integrantes de los ayuntamientos se realizarán mediante sufragio universal, libre, secreto y directo. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda.
+Las elecciones de Gobernador del Estado, diputados, e integrantes de los ayuntamientos se realizarán mediante sufragio universal, libre, secreto y directo. La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda. En la postulación de las candidaturas de los partidos políticos a los distintos cargos de elección popular, se observará el principio de paridad de género, de acuerdo con las reglas que para tal efecto determinen las leyes electorales.
 
 Los tiempos de campañas no deberán exceder de sesenta días, la ley fijará su duración; las precampañas no podrán prolongarse más de las dos terceras partes de las respectivas campañas electorales.
 
@@ -1057,9 +1059,9 @@ La determinación de los distritos electorales locales y su división en seccion
 
 ###### Artículo 68.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2022)</small>
 
-La elección de las y los diputadas y diputados de representación proporcional, se llevará a cabo mediante el sistema de listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado; la cual deberá sujetarse a lo que disponga la legislación electoral, de conformidad con las siguientes bases:
+La elección de los diputados de representación proporcional, se llevará a cabo mediante el sistema de listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado; conformadas de acuerdo con el principio de paridad de género y encabezadas alternadamente entre mujeres y hombres cada período electivo; y las cuales deberán sujetarse a lo que disponga la legislación electoral, de conformidad con las siguientes bases:
 
 I. Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro y que participa con candidatos a diputados por mayoría relativa en por lo menos once distritos electorales uninominales.
 
@@ -1353,7 +1355,9 @@ g) Nombrar Gobernadora o Gobernador del Estado Provisional, Interino o Substitut
 
 IV. En materia municipal:
 
-a) Crear municipios, en los términos dispuestos por la ley.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2022)</small>
+
+a) Crear municipios, en los términos dispuestos por esta Constitución y la Legislación aplicable.
 
 b) Autorizar, en su caso, a los ayuntamientos:
 
@@ -1775,9 +1779,9 @@ XXXVIII. Las demás que señale esta Constitución, la Constitución Política d
 
 ###### Artículo 99.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-Para el despacho de los asuntos que le compete al Ejecutivo Estatal, contará con las dependencias, entidades y organismos que determine la ley; en el nombramiento de titulares de las Secretarías de Despacho deberá garantizarse la observancia del principio de paridad de género.
+Para el despacho de los asuntos que le compete al Ejecutivo Estatal, contará con las dependencias, entidades y organismos que determine la ley; en el nombramiento de los titulares de las Secretarías de Despacho, dependencias y entidades deberá garantizarse la observancia del principio de paridad de género.
 
 La administración pública del Estado será centralizada y paraestatal.
 
@@ -1833,13 +1837,11 @@ Las funciones de procuración de justicia que se realicen en el Estado, se hará
 
 Asimismo, el Estado está obligado a entregar sin demora a los imputados o sentenciados, así como a practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra que los requiera. Estas diligencias se practicarán, con intervención de los respectivos órganos de procuración de justicia, en los términos de los convenios de colaboración que, al efecto, celebren las entidades federativas. Para los mismos fines, las autoridades locales podrán celebrar convenios de colaboración con la Fiscalía General de la República.
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-Sin perjuicio de crear fiscalías especializadas a través de la ley o por acuerdo, habrá una Fiscalía Especializada en Combate a la Corrupción, la que tendrá las atribuciones que se le señalen en las leyes aplicables. El titular de esta Fiscalía será propuesto por el Titular del Poder Ejecutivo y ratificado por el Congreso del Estado, en los términos que dispone esta Constitución.
+Así mismo, se podrán crear fiscalías especializadas a través de la ley o por acuerdo.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2021)</small>
-
-La Fiscalía Especializada en Combate a la Corrupción, contará con autonomía técnica y operativa para investigar y perseguir los hechos que sean materia de actos de corrupción que la ley considera como delitos; su titular deberá comparecer y presentar ante el Congreso del Estado un informe anual sobre el estado que guardan los asuntos a su cargo y los resultados alcanzados en materia de combate a la corrupción, de igual forma lo hará cuando sea requerido para informar sobre asuntos a su cargo.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE OCTUBRE DE 2022)</small>
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2071,35 +2073,21 @@ VIII. Las demás que le confieren esta Constitución y las leyes.
 
 El Pleno del Tribunal Superior está facultado para expedir los acuerdos generales y los particulares que requiera el régimen interno del Poder Judicial para su adecuado funcionamiento; sus decisiones serán definitivas e inatacables.
 
-> <small>[N. DE E. SE SUGIERE CONSULTAR LAS CONSIDERACIONES DEL DECRETO NO. 119, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2017.]</small>
-
-> <small>(REFORMADO [N. DE E. ANTES SECCIÓN TERCERA DENOMINADA “DEL TRIBUNAL DE JUSTICIA FISCAL Y ADMINISTRATIVA", QUE SE ENCONTRABA DENTRO DEL CAPÍTULO VI DENOMINADO “DEL PODER JUDICIAL”], P.O. 16 DE MARZO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE OCTUBRE DE 2022)</small>
 
 ### Capítulo VII. Del Tribunal de Justicia Administrativa
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+###### Articulo 114.
 
-###### Artículo 114.
-
-El Tribunal de Justicia Administrativa es la autoridad jurisdiccional dotada de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones; tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos del Estado y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con las faltas administrativas graves; así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos.
-
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2022)
 
 ###### Artículo 115.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE MAYO DE 2022)</small>
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2022)
 
-El Tribunal de Justicia Administrativa, se integrará con tres magistrados numerarios y tres magistrados supernumerarios, quienes suplirán a los propietarios en sus ausencias.
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
-
-Las magistradas y los magistrados serán designados por el Ejecutivo del Estado y ratificados por el voto de las dos terceras partes de los integrantes presentes del Congreso. Durarán en su encargo 6 años improrrogables. Los magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
-
-Los requisitos para ocupar el cargo y la forma de elección, así como los casos de renuncia y terminación del encargo, serán los mismos que establecen esta Constitución y la Ley, para los Magistrados del Tribunal Superior de Justicia.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MAYO DE 2020)</small>
-
-#### Sección cuarta (SIC). Del Tribunal Laboral Burocrático y del Tribunal de Justicia Laboral
+#### Sección Tercera. Del Tribunal Laboral Burocrático y del Tribunal de Justicia Laboral
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2123,9 +2111,9 @@ Las y los jueces del Tribunal de Justicia Laboral deberán contar con capacidad 
 
 La ley establecerá el número de jueces integrantes del Tribunal de Justicia Laboral, así como las normas para su organización y funcionamiento de conformidad con la legislación aplicable.
 
-(REUBICADA [N. DE E. ANTES SECCIÓN SEXTA], P.O. 24 DE JUNIO DE 2014)
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-#### Sección quinta. Del Tribunal para Menores Infractores
+#### Sección Cuarta. Del Tribunal para Menores Infractores
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2149,9 +2137,9 @@ En caso de renuncia o terminación del encargo después del transcurso de cuatro
 
 Las y los jueces en materia de menores, serán nombrados previo examen por oposición y en base a lo dispuesto por la ley, la cual además establecerá las bases para la organización y funcionamiento del Tribunal.
 
-(REUBICADA [N. DE E. ANTES SECCIÓN SÉPTIMA], P.O. 24 DE JUNIO DE 2014)
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-#### Sección sexta. Del Control Constitucional
+#### Sección Quinta. Del Control Constitucional
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2219,9 +2207,9 @@ Las sentencias dictadas por la Sala de Control de Constitucional, que declaren i
 
 Las resoluciones que fueren aprobadas por dos votos, únicamente tendrán efectos particulares.
 
-(REUBICADA [N. DE E. ANTES SECCIÓN OCTAVA], P.O. 24 DE JUNIO DE 2014)
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-#### Sección séptima. De los jueces
+#### Sección Sexta. De los Jueces
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2263,9 +2251,9 @@ La readscripción de las y los jueces la hará el Consejo de la Judicatura media
 
 Las decisiones del Consejo en materia de designación y readscripción de jueces podrán ser impugnadas por los interesados ante el Tribunal Superior de Justicia.
 
-(REUBICADA [N. DE E. ANTES SECCIÓN NOVENA], P.O. 24 DE JUNIO DE 2014)
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-#### Sección octava. Del Consejo de la Judicatura
+#### Sección Séptima. Del Consejo de la Judicatura
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2329,9 +2317,9 @@ El servicio de defensoría pública será gratuito, se prestará bajo los princi
 
 La organización y funcionamiento del instituto de defensoría se determinará en la ley.
 
-(REUBICADA [N. DE E. ANTES SECCIÓN DÉCIMA], P.O. 24 DE JUNIO DE 2014)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-#### Sección novena. Del Centro Estatal de Justicia Alternativa
+#### Sección Octava. Del Centro Estatal de Justicia Alternativa
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2349,7 +2337,7 @@ Los procedimientos alternativos para la resolución de controversias se regirán
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
-## Título quinto. De los órganos constitucionales autónomos
+## Titulo quinto. De los órganos constitucionales autónomos
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2361,9 +2349,9 @@ Los procedimientos alternativos para la resolución de controversias se regirán
 
 Los órganos constitucionales autónomos tendrán personalidad jurídica y patrimonio propios, gozarán de autonomía técnica, operativa, presupuestaria y de gestión en el ejercicio de sus atribuciones; las leyes de su creación determinarán la integración y funciones de sus consejos, órganos directivos, consultivos o de gobierno, así como su estructura orgánica y funcionamiento. El Congreso del Estado, designará con el voto de las dos terceras partes de sus integrantes presentes, a los titulares de sus órganos internos de control, mismos que no serán reelectos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2022)</small>
 
-Los órganos constitucionales autónomos serán: La Comisión Estatal de Derechos Humanos, el Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, el Instituto Electoral y de Participación Ciudadana y el Instituto de Evaluación de Políticas Públicas, los cuales tendrán las facultades y obligaciones que expresamente les otorga esta Constitución y las leyes; así como las siguientes:
+Los órganos constitucionales autónomos serán: La Comisión Estatal de Derechos Humanos, el Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales, el Instituto Electoral y de Participación Ciudadana, el Tribunal Electoral del Estado de Durango, el Instituto de Evaluación de Políticas Públicas, el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción, los cuales tendrán las facultades y obligaciones que expresamente les otorga esta Constitución y las leyes; así como las siguientes:
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2385,9 +2373,9 @@ IV. Rendir ante el Congreso del Estado un informe anual por escrito de labores y
 
 ###### Artículo 131.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-Las y los titulares y los integrantes de sus consejos, comisiones u órganos directivos, consultivos o de gobierno serán designados, en forma escalonada, conforme a las reglas y procedimientos señalados por la ley, mediante el voto de las dos terceras partes de los miembros del Congreso del Estado presentes, atendiendo a la paridad de género. Para tal efecto, se deberá realizar un procedimiento de convocatoria pública amplia y transparente, en los términos de la ley.
+Las y los titulares y los integrantes de sus consejos, comisiones u órganos directivos, consultivos o de gobierno serán designados, con excepción de aquellos cuyo nombramiento no sea atribución del Congreso del Estado, en forma escalonada, conforme a las reglas y procedimientos señalados por la ley, mediante el voto de las dos terceras partes de los miembros del Congreso del Estado presentes, atendiendo a la paridad de género. Para tal efecto, se deberá realizar un procedimiento de convocatoria pública amplia y transparente, en los términos de la ley.
 
 Durante el ejercicio de su cargo sólo podrán ser removidos en los términos del Título séptimo de esta Constitución.
 
@@ -2579,9 +2567,9 @@ El Instituto tendrá un Consejo General, será el órgano máximo de autoridad y
 
 La organización y funcionamiento del Instituto se realizará en los términos establecidos en su ley.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-### Capítulo VII
+### Capítulo VII. Del Tribunal de Justicia Administrativa
 
 ###### Artículo 144.
 
@@ -2595,25 +2583,45 @@ La organización y funcionamiento del Instituto se realizará en los términos e
 
 (DEROGADO, P.O. 16 DE MARZO DE 2017)
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 146 Bis.
+
+El Tribunal de Justicia Administrativa es la autoridad jurisdiccional dotada de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones; tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos del Estado y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con las faltas administrativas graves; así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos.
+
+El Tribunal de Justicia Administrativa, se integrará con tres magistrados numerarios y tres magistrados supernumerarios, quienes suplirán a los propietarios en sus ausencias.
+
+Los magistrados serán designados por el Ejecutivo del Estado y ratificados por el voto de las dos terceras partes de los integrantes presentes del Congreso. Durarán en su encargo 6 años improrrogables. Los magistrados solo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
+
+Los requisitos para ocupar el cargo y la forma de elección, así como los casos de renuncia y terminación del encargo, serán los mismos que establecen esta Constitución y la Ley, para los Magistrados del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2022)</small>
+
+### Capítulo VIII. De la Fiscalía Especializada en Combate a la Corrupción
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 146 Ter.
+
+La Fiscalía Especializada en Combate a la Corrupción, tendrá las atribuciones que se le señalen en las leyes aplicables. El titular de esta Fiscalía será propuesto por el Titular del Poder Ejecutivo y ratificado por el Congreso del Estado, en los términos que dispone esta Constitución.
+
+La Fiscalía Especializada en Combate a la Corrupción, contará con autonomía técnica, operativa, financiera y de gestión para investigar y perseguir los hechos que sean materia de actos de corrupción que la ley considera como delitos; su titular deberá comparecer y presentar ante el Congreso del Estado un informe anual sobre el estado que guardan los asuntos a su cargo y los resultados alcanzados en materia de combate a la corrupción, de igual forma lo hará cuando sea requerido para informar sobre asuntos a su cargo.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
+## Título sexto. Del Municipio
+
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ### Capítulo I. Del gobierno municipal
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
-## Título sexto. Del Municipio
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
-### Capítulo II. De las facultades y obligaciones de los municipios
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 147.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2022)</small>
 
-Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidenta o Presidente Municipal y el número de regidores y síndicos que la ley determine. Para el Presidente Municipal, Síndico y Regidor propietario, se elegirá un suplente. Todos los regidores propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones. En la elección de los ayuntamientos se contemplará el principio de la representación proporcional.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de regidores y síndicos que la ley determine, observando el principio de paridad de género, este principio se aplicará igualmente para la integración de las y los titulares de las secretarías, direcciones o equivalentes de la administración pública municipal. Para el Presidente Municipal, Síndico y Regidor propietario, se elegirá un suplente. Todos los regidores propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones. En la elección de los ayuntamientos se contemplará el principio de la representación proporcional.
 
 El Ayuntamiento se renovará en su totalidad cada tres años e iniciará sus funciones el primero de septiembre posterior a la elección.
 
@@ -2642,6 +2650,10 @@ III. En el caso de ser Secretaria, Secretario o Subsecretaria, Subsecretario, Di
 IV. No ser Ministro d e (sic) algún culto religioso.
 
 V. No haya sido condenado por la comisión de delito doloso.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2022)</small>
+
+Para el caso de los funcionarios municipales de mando superior que opten por la elección consecutiva, no será aplicable el periodo de separación del cargo establecido en la fracción III del presente artículo.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -2679,9 +2691,33 @@ Son propiedad del municipio los bienes inmuebles ubicados dentro de su jurisdicc
 
 En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará de entre los vecinos al Concejo Municipal que concluirá el período respectivo; cada concejo estará integrado por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos en el artículo 148 de esta Constitución.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2022)</small>
+
+###### Artículo 151 Bis.
+
+El Congreso del Estado podrá decretar la creación de municipios, cuando cumplan los siguientes requisitos:
+
+I. Que la superficie territorial en que se pretenda constituir no sea menor de mil quinientos kilómetros cuadrados;
+
+II. Que la población que habite en esa superficie sea mayor de doce mil habitantes;
+
+III. Que lo soliciten cuando menos la mitad de los ciudadanos que radiquen en ese territorio;
+
+IV. Que el centro de población que se designe como cabecera municipal, tenga no menos de seis mil habitantes; además de que cuente con los servicios públicos municipales indispensables;
+
+V. Que los estudios económicos y fiscales que se practiquen, demuestren que los probables ingresos serán suficientes para atender los requerimientos de la administración municipal;
+
+VI. Que se solicite a los ayuntamientos que se sientan afectados, externen su opinión y argumenten lo que a sus intereses convenga;
+
+VII. Que se solicite la opinión del Poder Ejecutivo del Estado. Esta opinión deberá contener la viabilidad de los servicios públicos municipales básicos;
+
+VIII. Que como resultado del estudio que se realice por el Congreso del Estado, se desprenda que la creación del nuevo municipio no afecta los intereses del Estado, y
+
+IX. Deberá aprobarse por lo menos, por las dos terceras partes del total de los integrantes del Poder Legislativo.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo III. De la colaboración entre municipios y otras entidades públicas
+### Capítulo II. De las facultades y obligaciones de los municipios
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2731,7 +2767,7 @@ Los miembros del Ayuntamiento deberán concurrir al Congreso del Estado a solici
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo I. Del manejo de los recursos públicos
+### Capítulo III. De la colaboración entre municipios y otras entidades públicas
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2755,7 +2791,7 @@ Cuando dos o más centros urbanos situados en territorios municipales de dos o m
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo II. Del Sistema Estatal de Rendición de Cuentas Y el Sistema Local Anticorrupción
+### Capítulo I. Del manejo de los recursos públicos
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2837,7 +2873,9 @@ Los servidores públicos están obligados a pagar los daños y perjuicios que ca
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2017)</small>
 
-### Capítulo III. De las responsabilidades de los servidores públicos
+### Capítulo II. Del Sistema Estatal de Rendición de Cuentas Y el Sistema Local Anticorrupción
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 163.
 
@@ -3019,9 +3057,7 @@ En el caso de la Cuenta Pública que remita el Ejecutivo sólo se podrá ampliar
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo I. De la reforma de la Constitución
-
-> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
+### Capítulo III. De las responsabilidades de los servidores públicos
 
 ###### Artículo 173.
 
@@ -3147,7 +3183,7 @@ La ley garantizará el estricto cumplimiento de lo previsto en el presente artí
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2013)</small>
 
-### Capítulo II. De la inviolabilidad de la Constitución
+### Capítulo I. De la reforma de la Constitución
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -3166,6 +3202,10 @@ Para la aprobación de la reforma constitucional se requiere el voto favorable d
 Cuando el Congreso del Estado considere necesario llevar a cabo una reforma en todo o proponer una nueva Constitución, ésta deberá ser aprobada en Referéndum.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE AGOSTO DE 2013)</small>
+
+### Capítulo II. De la inviolabilidad de la Constitución
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 183.
 
@@ -4525,7 +4565,7 @@ El Congreso del Estado deberá realizar los ajustes legales correspondientes par
 
 P.O. 15 DE SEPTIEMBRE DE 2022.
 
-[N. DE. E TRANSITORIOS DEL "DECRETO NO. 523.- QUE CONTIENE ADICIÓN A LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+[N. DE. E TRANSITORIOS DEL “DECRETO NO. 523.- QUE CONTIENE ADICIÓN A LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4550,3 +4590,59 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El ejercicio de las garantías contenidas en este decreto se ejercitarán conforme a las disposiciones de la Ley General de la materia.
+
+P.O. 30 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 132.- QUE CONTIENE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. La adición realizada al artículo 148 de la Constitución Política del Estado Libre y Soberano de Durango, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango, cobrará vigencia al día siguiente del término del proceso electoral local 2021-2022, en el que se eligen Ayuntamientos y Gobernador en el Estado de Durango.
+
+TERCERO. Se reserva para su estudio y dictaminación lo determinado en el considerando cuarto del presente dictamen.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 139.- QUE CONTIENE REFORMAS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 154.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El cumplimiento al principio de paridad de género establecido mediante la presente reforma deberá observarse, respecto a las autoridades que se renuevan mediante procesos electorales, a partir del proceso electoral siguiente a la entrada en vigor del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Por lo que hace a las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 30 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 155.- QUE CONTIENE REFORMAS Y ADICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el artículo 7 de la Ley Orgánica del Municipio Libre del Estado de Durango y demás disposiciones que se opongan al presente Decreto.
