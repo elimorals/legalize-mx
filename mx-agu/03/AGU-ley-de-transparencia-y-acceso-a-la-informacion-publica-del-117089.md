@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2022-06-13"
+last_updated: "2022-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -275,15 +275,25 @@ Para ser Comisionado se requiere:
 
 I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener al menos treinta y cinco años cumplidos al día de la designación;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+II. Tener al menos veinticinco años cumplidos al día de la designación;
 
 III. Contar con título profesional de licenciatura;
 
 IV. No haber sido condenado por delito doloso;
 
-V. Haber residido en el Estado durante los dos años anteriores al día de la designación; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-VI. Durante el año previo al día de su nombramiento, no haber tenido cargo de elección popular ni de dirección nacional, estatal o municipal en algún partido político; de Secretario, Subsecretario o su equivalente en la administración pública estatal o municipal; de Director General de alguna entidad paraestatal o paramunicipal; de Magistrado o Juez del Poder Judicial del Estado; y no haber sido titular o miembro del máximo órgano de dirección de otro organismo autónomo del Estado.
+V. Haber residido en el Estado durante los dos años anteriores al día de la designación;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VI. Durante el año previo al día de su nombramiento, no haber tenido cargo de elección popular ni de dirección nacional, estatal o municipal en algún partido político; de Secretario, Subsecretario o su equivalente en la administración pública estatal o municipal; de Director General de alguna entidad paraestatal o paramunicipal; de Magistrado o Juez del Poder Judicial del Estado; y no haber sido titular o miembro del máximo órgano de dirección de otro organismo autónomo del Estado; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VII. Acreditar experiencia profesional y un destacado prestigio en materia del derecho humano de acceso a la información, o actividades afines reconocidas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2022)</small>
 
@@ -291,9 +301,9 @@ VI. Durante el año previo al día de su nombramiento, no haber tenido cargo de 
 
 Los Comisionados serán electos por el Congreso del Estado mediante el siguiente procedimiento:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2022)</small>
 
-I. La Junta de Coordinación Política, sesenta días antes de que concluya su encargo alguno de los comisionados, emitirá convocatoria a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos. La convocatoria deberá difundirse en el Periódico Oficial del Estado, en un diario local de mayor circulación y en el portal de internet del Congreso del Estado.
+I. La Comisión Legislativa de Transparencia y Anticorrupción, sesenta días antes de que concluya su encargo alguno de los comisionados, emitirá convocatoria a fin de realizar una amplia consulta a la sociedad para recibir propuestas de candidatos. La convocatoria deberá difundirse en el Periódico Oficial del Estado, en un diario local de mayor circulación y en el portal de internet del Congreso del Estado.
 
 Toda propuesta deberá acompañarse con la documentación que acredite que el candidato cumple con los requisitos de Ley;
 
@@ -315,9 +325,9 @@ V. Una vez que el nombramiento haya quedado firme por haberse superado la objeci
 
 El nombramiento de algún Comisionado podrá ser objetado por el Gobernador del Estado en un plazo de 10 días hábiles contados a partir de que el Congreso del Estado le comunique la designación; si no lo objeta dentro de dicho plazo, ocupará el cargo el Comisionado nombrado.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-En caso de que el Gobernador del Estado objete el nombramiento, la Junta de Coordinación Política incluirá tal objeción en su informe y el Pleno Legislativo elegirá nuevamente al Comisionado, conforme a lo dispuesto en el Artículo 18 Fracción IV de esta Ley.
+En caso de que el Gobernador del Estado objete el nombramiento, la Comisión Legislativa de Transparencia y Anticorrupción incluirá tal objeción en su informe y el Pleno legislativo elegirá nuevamente al Comisionado, conforme a lo dispuesto en el artículo 18 Fracción IV de esta ley.
 
 Si el segundo nombramiento es objetado se procederá en términos del párrafo anterior, pero una vez logrado un tercer nombramiento ya no podrá presentarse objeción y el elegido ocupará la vacante.
 
@@ -485,7 +495,9 @@ XIV. Presentar ante el Congreso del Estado el informe a que se refiere el Artíc
 
 El ITEA contará con un Consejo Consultivo que será una instancia plural que deberá velar por la transparencia, rendición de cuentas, participación ciudadana y uso de la tecnología para garantizar el Derecho de Acceso a la Información, por el aprovechamiento de la Información pública para potenciar su impacto social, por la promoción de la colaboración ciudadana, y por el seguimiento y evaluación de los resultados de las acciones emprendidas por los Sujetos Obligados.
 
-Dicho consejo estará integrado por cinco consejeros cuyo cargo durará siete años y será honorífico; funcionará válidamente con la presencia de tres de sus miembros y tomará sus acuerdos por mayoría de votos. Sesionará de manera ordinaria una vez cada dos meses y de manera extraordinaria cuantas veces estime necesarias el Presidente o la mayoría de sus integrantes. La citación a las sesiones y su desarrollo, se regulará en el Reglamento Interior que expida el ITEA.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+Dicho consejo estará integrado por cinco consejeros cuyo cargo durará tres años con posibilidad de reelección hasta por el mismo periodo y será honorífico; funcionará válidamente con la presencia de tres de sus miembros y tomará sus acuerdos por mayoría de votos. Sesionará de manera ordinaria una vez cada dos meses y de manera extraordinaria cuantas veces estime necesarias el Presidente o la mayoría de sus integrantes. La citación a las sesiones y su desarrollo, se regulará en el Reglamento Interior que expida el ITEA.
 
 El Presidente del Consejo Consultivo será nombrado por la mayoría de los Consejeros; durará en el cargo un año pudiendo ser reelecto por un periodo más.
 
@@ -1894,3 +1906,19 @@ P.O. 13 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 170.- SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Aquellos Consejeros que hayan tomado protesta por 7 años de encargo, concluirán su periodo conforme a su designación.
