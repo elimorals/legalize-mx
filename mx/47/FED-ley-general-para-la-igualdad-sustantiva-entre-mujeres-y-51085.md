@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2022-05-18"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -453,6 +453,10 @@ IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación
 
 X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
 
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2022)</small>
+
+X Bis. Diseñar políticas y programas de desarrollo empresarial, industrial y comercial en favor del empoderamiento igualitario entre mujeres y hombres;
+
 > <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
 
 XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
@@ -762,3 +766,11 @@ D.O.F. 18 DE MAYO DE 2022.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+D.O.F. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN X BIS AL ARTÍCULO 34 DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes.
