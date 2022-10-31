@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-145523"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-04"
-last_updated: "2021-09-03"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Segunda al Número 146 del Periódico Oficial del Estado de Sinaloa, el viernes 4 de diciembre de 2020.
 
@@ -1493,13 +1493,13 @@ XXXI. Realizar acciones en el nivel de educación básica y media superior para 
 
 XXXII. Respetar íntegramente los derechos adquiridos de los trabajadores de la educación, así como reconocer aquellos adquiridos mediante acuerdos alcanzados a través de convenios, minutas y acuerdos celebrados por el Gobierno del Estado, a través de las instancias respectivas y su organización sindical, que estipulan beneficios laborales, profesionales, salariales y sociales, que no contravengan esta Ley y las Leyes Generales de la materia.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-En atención a lo previsto en el párrafo anterior, al Acuerdo Nacional para la Modernización de la Educación Básica y al Decreto de creación del organismo Servicios de Educación Pública Descentralizada del Estado, los trabajadores de la educación jubilados y pensionados federalizados, afiliados al Sindicato Nacional de Trabajadores de la Educación, Sección 27, así como, los trabajadores jubilados y pensionados homologados de educación media superior y superior en la entidad, tienen derecho a percibir un aguinaldo de 65 días de salario de la respectiva cuota diaria de pensión. En virtud de que los trabajadores reciben una parte del aguinaldo a través del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Gobierno del Estado por conducto de los Servicios de Educación Pública Descentralizada del Estado, cubrirá la diferencia que resulte.
+En atención a lo previsto en el párrafo anterior, al Acuerdo Nacional para la Modernización de la Educación Básica y al Decreto de creación del organismo Servicios de Educación Pública Descentralizada del Estado, los trabajadores de la educación jubilados y pensionados de dichos servicios, así como los Trabajadores de la Educación Jubilados y Pensionados Homologados de Educación Media Superior y Superior en la entidad, tienen derecho a percibir un aguinaldo de 65 días de salario de la respectiva cuota diaria de pensión. En virtud de que dichos trabajadores reciben una parte del aguinaldo a través del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Gobierno del Estado, por conducto de los Servicios de Educación Pública Descentralizada del Estado de Sinaloa, cubrirá la diferencia que resulte.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-También los trabajadores de la educación federalizados pertenecientes a la Sección 27 del Sindicato Nacional de los Trabajadores de la Educación jubilados y pensionados que se encuentran dentro del régimen de cuentas individuales, recibirán 25 días de aguinaldo por parte del Gobierno del Estado.
+Los Trabajadores de la Educación referidos en el párrafo anterior que se hayan pensionado conforme al régimen de cuentas individuales, recibirán 25 días de aguinaldo por parte del Gobierno del Estado.
 
 XXXIII. Emitir la Guía Operativa para la Organización y Funcionamiento de los Servicios de Educación que prestan en términos de esta Ley;
 
@@ -2264,3 +2264,15 @@ P.O. 3 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 278 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DE LA FRACCIÓN XXXII DEL ARTÍCULO 145 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se dejan sin efecto todas las actuaciones realizadas previo al inicio de vigencia del presente Decreto.
+
+TERCERO. Para efectos de lo dispuesto en el artículo transitorio anterior el Titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
