@@ -4,7 +4,7 @@ identifier: "QUE-codigo-ambiental-del-estado-de-queretaro-152813"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-03"
-last_updated: "2022-03-04"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO AMBIENTAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 3 de diciembre de 2021.
 
@@ -81,7 +81,9 @@ XII. Promover la conservación de la diversidad biológica, el aprovechamiento s
 
 XIII. Establecer los mecanismos de control, las medidas de seguridad, el régimen sancionador por el incumplimiento a las disposiciones contenidas en el presente código, y la reparación del daño en materia ambiental; y
 
-XIV. Regular la producción forestal, el cultivo, manejo y aprovechamiento de los ecosistemas forestales; y fomentar la conservación, la protección, la restauración y el sostenimiento de los servicios ambientales de los ecosistemas del Estado de Querétaro y de sus municipios, así como distribuir las competencias que en materia forestal les correspondan
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIV. Fomentar la producción forestal, el cultivo, manejo y aprovechamiento de los ecosistemas forestales; la conservación, la protección, la restauración y el sostenimiento de los servicios ambientales de los ecosistemas del Estado de Querétaro y de sus municipios, así como distribuir las competencias que en materia forestal les correspondan.
 
 ###### Artículo 3.
 
@@ -113,9 +115,21 @@ IX. El establecimiento de medidas y la realización de acciones para prevenir y 
 
 X. La conservación, la protección y la restauración de los ecosistemas forestales y sus elementos para el sostenimiento de los servicios ambientales, así como la conservación de las cuencas hidrológico forestales;
 
-XI. La ejecución de obras destinadas a la conservación, la protección o la generación de bienes y servicios ambientales, así como para proteger los ecosistemas; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-XII. Las demás acciones que se requieran para cumplir los objetivos de este ordenamiento, conforme a las normas jurídicas aplicables.
+XI. La ejecución de obras destinadas a la conservación, la protección o la generación de bienes y servicios ambientales, así como para proteger los ecosistemas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XII. La prevención, el combate y el control de los incendios forestales;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIII. El diagnóstico, la detección y el combate de plagas y enfermedades forestales en los términos de los acuerdos y convenios que se celebren; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIV. Las demás acciones que se requieran para cumplir los objetivos de este Ordenamiento, conforme a las normas jurídicas aplicables.
 
 ###### Artículo 5.
 
@@ -123,9 +137,13 @@ Para los efectos del presente Código, se entiende por:
 
 I. Actividad riesgosa: aquélla de la que puede derivarse algún daño a la salud o al ambiente y que no es considerada altamente riesgosa por la legislación federal, consistente en el manejo, almacenamiento o procesamiento de sustancias riesgosas, y que se encuentren contempladas en el listado de actividades y sustancias riesgosas;
 
-II. Ambiente: el conjunto de elementos naturales o inducidos por el ser humano, que hacen posible la existencia y desarrollo de los seres vivos que interactúan en un espacio y tiempo determinados;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-III. Aprovechamiento sustentable: la utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte;
+II. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre, que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+III. Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
 
 IV. Animales domésticos, de compañía o mascotas: los que dependan de un ser humano para subsistir y habiten con éste en forma regular, sin que exista actividad lucrativa de por medio;
 
@@ -167,11 +185,15 @@ XXII. Desarrollo sustentable: El proceso evaluable mediante criterios e indicado
 
 XXIII. Desmonte de arbolado: El retiro total o parcial del arbolado, que por exclusión, no es de competencia federal al no caracterizarse el terreno como forestal;
 
-XXIV. Educación ambiental: El proceso permanente y sistematizado de enseñanza-aprendizaje, mediante el cual el individuo adquiere conciencia de ser parte integrante de la naturaleza, para actuar positivamente hacia ella;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXIV. Educación ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del medio ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
 XXV. Emergencia ambiental: La situación derivada de actividades humanas o fenómenos naturales que, debido a su severidad, ponen en peligro la integridad de uno o varios ecosistemas ambientales;
 
-XXVI. Fauna silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentren bajo el control del hombre, así como los ferales;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXVI. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y que por ello sean susceptibles de captura y apropiación;
 
 XXVII. Gestión ambiental: Las acciones de las dependencias o entidades de la administración pública y de los particulares, que se realizan o tienen efectos sobre el ambiente y la biodiversidad;
 
@@ -211,17 +233,21 @@ XLIV. Riesgo ambiental: Probabilidad de que ocurran accidentes por el manejo, al
 
 XLV. Secretaría: la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Querétaro;
 
-XLVI. Servicios ambientales: el conjunto de componentes, condiciones y procesos naturales, incluyendo especies y genes, que la sociedad puede utilizar y que ofrecen las áreas naturales protegidas por su simple existencia, tales como la biodiversidad, el mantenimiento del germoplasma con uso potencial para el beneficio humano, el mantenimiento de valores estéticos y filosóficos, la estabilidad climática, la contribución a ciclos básicos del agua, carbono y otros nutrientes y la conservación de suelos, entre otros;
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-XLVII. Sistemas de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de una organización, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta, con sus políticas de adquisiciones, la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
+XLVI. SEDEA: La Secretaría de Desarrollo Agropecuario del Poder Ejecutivo del Estado de Querétaro;
 
-XLVIII. Unidad de Gestión Ambiental: Unidad administrativa mínima del territorio definida por el ordenamiento ecológico, a la que se asigna una modalidad de política ambiental, lineamientos ecológicos, estrategias, usos de suelo compatibles e incompatibles y criterios de regulación ambiental;
+XLVII. Servicios ambientales: el conjunto de componentes, condiciones y procesos naturales, incluyendo especies y genes, que la sociedad puede utilizar y que ofrecen las áreas naturales protegidas por su simple existencia, tales como la biodiversidad, el mantenimiento del germoplasma con uso potencial para el beneficio humano, el mantenimiento de valores estéticos y filosóficos, la estabilidad climática, la contribución a ciclos básicos del agua, carbono y otros nutrientes y la conservación de suelos, entre otros;
 
-XLIX. Vegetación en zonas urbanas y urbanizables. Conjunto de plantas que crecen de manera natural o inducida que se localicen dentro de los límites de los centros de población, terrenos baldíos, parques, jardines, camellones y áreas verdes en términos de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
+XLVIII. Sistemas de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de una organización, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta, con sus políticas de adquisiciones, la prevención de la generación de residuos, su aprovechamiento y su manejo integral;
 
-L. Visita de inspección: la supervisión que realiza la autoridad competente para constatar el cumplimiento de los preceptos del presente Código y su normativa complementaria; y
+XLIX. Unidad de Gestión Ambiental: Unidad administrativa mínima del territorio definida por el ordenamiento ecológico, a la que se asigna una modalidad de política ambiental, lineamientos ecológicos, estrategias, usos de suelo compatibles e incompatibles y criterios de regulación ambiental;
 
-LI. Visita de verificación: la supervisión para circunstanciar el grado de cumplimiento de medidas, condicionantes u otras obligaciones a cargo del visitado, establecidas en el acto administrativo correspondiente, así como medidas correctivas o de urgente aplicación ordenadas mediante acuerdo o resolución administrativa.
+L. Vegetación en zonas urbanas y urbanizables: Conjunto de plantas que crecen de manera natural o inducida que se localicen dentro de los límites de los centros de población, terrenos baldíos, parques, jardines, camellones y áreas verdes en términos de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
+
+LI. Visita de inspección: la supervisión que realiza la autoridad competente para constatar el cumplimiento de los preceptos del presente Código y su normativa complementaria; y
+
+LII. Visita de verificación: la supervisión para circunstanciar el grado de cumplimiento de medidas, condicionantes u otras obligaciones a cargo del visitado, establecidas en el acto administrativo correspondiente, así como medidas correctivas o de urgente aplicación ordenadas mediante acuerdo o resolución administrativa.
 
 ## Título II. De la gestión ambiental
 
@@ -233,9 +259,15 @@ Son autoridades en materia ambiental y responsables de aplicar el presente Códi
 
 I. La Secretaría;
 
-II. La Procuraduría; y
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-III. Los Municipios.
+II. SEDEA;
+
+III. La Procuraduría; y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+IV. Los municipios.
 
 ###### Artículo 7.
 
@@ -309,13 +341,17 @@ XVII. Solicitar a las autoridades competentes, la realización de estudios de ev
 
 XVIII. Conducir la política estatal de información y difusión en materia ambiental, promoviendo la cultura de protección al medio ambiente y sobre el valor e importancia de la biodiversidad;
 
-XIX. Regular la conservación y el aprovechamiento sustentable de los recursos naturales, desde su extracción hasta su transformación en materias primas y productos, promoviendo, además, la utilización de los subproductos;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIX. En coordinación con la SEDEA, fomentar la conservación y el aprovechamiento sustentable de los recursos naturales, desde su extracción hasta su transformación en materias primas y productos, promoviendo, además, la utilización de los subproductos, de conformidad con las disposiciones aplicables;
 
 XX. Otorgar la autorización a los centros de verificación de fuentes móviles de contaminación que sean competencia del Estado;
 
 XXI. Elaborar el registro de laboratorios ambientales y prestadores de servicios ambientales;
 
-XXII. Ejecutar y dar cumplimiento a las actividades que expresamente le transfiera la Federación al Estado, respecto de las siguientes materias:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXII. En coordinación con la SEDEA, ejecutar y dar cumplimiento a las actividades que expresamente le transfiera la Federación al Estado, respecto de las siguientes materias:
 
 a) Áreas naturales protegidas.
 
@@ -365,9 +401,39 @@ XXXVI. Fomentar la participación de la sociedad en materia ambiental conforme a
 
 XXXVII. Establecer programas y proyectos de educación ambiental;
 
-XXXVIII. Expedir las disposiciones reglamentarias, lineamientos y demás instrumentos normativos que faciliten el cumplimiento del presente Código; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-XXXIX. Las demás atribuciones que le señala el presente Código y otras disposiciones legales aplicables.
+XXXVIII. Expedir lineamientos y demás instrumentos normativos que faciliten el cumplimiento del presente Código;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXXIX. Determinar los recursos económicos que los beneficiarios de una obra autorizada en materia de impacto ambiental de carácter estatal, deberán aportar al instrumento denominado Capital Climático como medida de compensación; y
+
+XL. Las demás atribuciones que le señala el presente Código y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+Artículo 7 bis. Son facultades y atribuciones de SEDEA:
+
+I. Presidir en representación del Gobernador, el Consejo Estatal Forestal, a través de la persona Titular de la SEDEA, de conformidad a la ley de la materia y su reglamento;
+
+II. Contribuir con los principios e instrumentos rectores de la Política Ambiental Estatal;
+
+III. Promover, desde su ámbito de competencia, la participación ciudadana en los procesos tendientes a la mejora del medio ambiente, para contribuir en la restauración del equilibrio ecológico y el desarrollo sustentable;
+
+IV. Coadyuvar con las instancias federales y estatales en los asuntos que, en materia ambiental, afecten el equilibrio ecológico, así como las acciones de mitigación y adaptación en materia de Cambio Climático;
+
+V. Dentro de su ámbito de competencia, celebrar convenios en las materias a que refiere el presente ordenamiento, de conformidad con las disposiciones aplicables;
+
+VI. Fomentar la conservación, la protección, la restauración y el sostenimiento de los servicios ambientales de los ecosistemas del Estado de Querétaro y de sus municipios;
+
+VII. En coordinación con las instancias federales y municipales, programar y ejecutar actividades de prevención, combate y control de incendios forestales;
+
+VIII. En coordinación con las instancias federales y municipales, atender actividades de diagnóstico, detección y control de plagas y enfermedades forestales;
+
+IX. Contribuir en la creación de un medio ambiente propicio para los habitantes del Estado de Querétaro, para vivir en un medio de bienestar y salud; y
+
+X. Las demás atribuciones que le señale el presente ordenamiento y demás disposiciones aplicables.
 
 ###### Artículo 8.
 
@@ -431,7 +497,9 @@ a) La contaminación atmosférica generada por fuentes fijas que operen como est
 
 b) Las medidas de tránsito y vialidad que correspondan, de conformidad con la legislación aplicable, para evitar que los niveles de concentración de contaminantes en la atmósfera emitidos por los vehículos automotores, rebasen los límites máximos permisibles por las normas oficiales mexicanas y las técnicas estatales;
 
-c) La contaminación acústica o sonora de fuentes fijas; y elaborar conjuntamente con otras dependencias estatales el mapa de ruido, para correlacionarlo con los usos de suelo, que permita mitigar el ruido;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+c) La contaminación acústica o sonora de fuentes fijas; y elaborar conjuntamente con otras dependencias estatales el mapa de ruido, para correlacionarlo con los usos de suelo, que permita mitigar el ruido. Lo anterior sin detrimento a las normas técnicas ambientales que, de la materia, emitan los municipios;
 
 d) Las emergencias y contingencias ambientales, dentro de su demarcación territorial; y
 
@@ -465,13 +533,17 @@ XVII. Expedir, suspender, negar, condicionar o revocar las licencias, permisos y
 
 XVIII. Expedir, en coordinación con la Secretaría y demás autoridades competentes, los permisos y autorizaciones en materia de desmonte y limpieza de terrenos que, por exclusión, no sean terrenos con vegetación forestal de competencia federal. La norma técnica ambiental estatal en la materia fijará las bases para su aplicación;
 
-XIX. Aplicar las sanciones administrativas y medidas de seguridad que correspondan, en su ámbito de competencia, por violaciones al presente Código y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIX. Aplicar las sanciones administrativas y medidas preventivas de seguridad que correspondan, en su ámbito de competencia, por violaciones al presente Código y demás disposiciones legales aplicables;
 
 XX. Coadyuvar con la Secretaría, en la integración y actualización del Registro de Emisiones y Transferencia de Contaminantes;
 
 XXI. Brindar asesoría técnica y jurídica a las personas interesadas, para el eficaz y eficiente desempeño de su gestión ambiental y procurar el cumplimiento de la normativa;
 
-XXII. Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en el ámbito de su competencia y, en su caso, imponer las sanciones que correspondan;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXII. Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en el ámbito de su competencia, dictar las medidas necesarias durante este proceso y, en su caso, imponer las sanciones que deriven del mismo;
 
 XXIII. Elaborar y aplicar instrumentos económicos ambientales como descuentos, condonaciones o subsidios en los pagos de derechos correspondientes a la emisión de licencias o permisos municipales; y
 
@@ -519,7 +591,9 @@ IV. Los plazos, mecanismos, indicadores y autoridades para su ejecución, evalua
 
 Para la formulación y conducción de la política ambiental y la expedición de los instrumentos previstos en este Código, se observarán los siguientes principios:
 
-I. Los ecosistemas y la atmósfera, son patrimonio mundial natural y de su equilibrio dependen la vida y el desarrollo sustentable del país y la entidad;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+I. Los ecosistemas y la atmósfera, son patrimonio natural común del Estado y de la humanidad y de su equilibrio dependen la vida y el desarrollo sustentable del País y la Entidad;
 
 II. Toda persona tiene derecho a disfrutar de un ambiente propicio para su desarrollo integral, salud y bienestar. Las autoridades, en los términos de este Código y otras leyes, tomarán las medidas para preservar ese derecho;
 
@@ -587,7 +661,9 @@ c) La protección, teniendo en cuenta en toda acción y en todo momento, el bien
 
 Las autoridades ambientales promoverán la participación social más amplia posible, para respetar, conservar y usar sosteniblemente la biodiversidad del Estado, así como para proteger la integridad de los ecosistemas, sus funciones, ciclos y procesos.
 
-La sociedad podrá organizarse en Comités para promover, conservar y usar sosteniblemente la biodiversidad de su localidad, comunidad y municipio.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+La sociedad podrá organizarse en Comités para promover, conservar y usar sosteniblemente la biodiversidad y medio ambiente de su localidad, comunidad y municipio.
 
 ###### Artículo 17.
 
@@ -623,13 +699,23 @@ VII. Concertará proyectos e inversiones con los sectores público y privado, pa
 
 VIII. Impulsará el fortalecimiento de la conciencia ecológica y la educación ambiental, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de residuos;
 
-IX. Promoverá la formación de comités de vigilancia social y monitoreo del cumplimiento de la legislación ambiental estatal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+IX. Promoverá la formación de comités de vigilancia social y monitoreo del cumplimiento de la legislación ambiental estatal y municipal;
 
 X. Impulsará la consulta pública en materia de impacto ambiental respecto de la obra pública;
 
-XI. Promoverá la denuncia ciudadana para la debida observancia de este Código y demás disposiciones legales aplicables en la materia; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-XII. Fomentará la evaluación de los resultados de la política ambiental.
+XI. Promoverá la denuncia ciudadana para la debida observancia de este Código y demás disposiciones legales aplicables en la materia;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XII. Fomentará la evaluación de los resultados de la política ambiental; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIII. Promoverá la participación de los Consejos Ciudadanos en materia ambiental, con la finalidad de que, por su conducto, se revisen las propuestas ciudadanas.
 
 ###### Artículo 19.
 
@@ -790,6 +876,10 @@ V. Recursos derivados de los instrumentos fiscales, financieros y de mercado cor
 VI. Las aportaciones que efectúen gobiernos de otros países y organismos internacionales; y
 
 VII. Los demás recursos que se generen por cualquier otro concepto, previa firma del convenio de colaboración o coordinación que corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+Los municipios en el ámbito de su competencia podrán constituir Fondos Ambientales.
 
 ###### Artículo 32.
 
@@ -1263,7 +1353,11 @@ IV. Diseñar y elaborar una estrategia de comunicación ambiental con objeto de 
 
 V. Fomentar la transversalidad de la educación ambiental, entre las instancias de gobierno con el fin de impulsar y fortalecer las acciones que realizan de protección, conservación y uso sustentable de los recursos naturales; y
 
-VI. Realizar eventos de carácter ambiental en los que se impulse la sensibilización, conocimiento y conservación del medio ambiente.
+.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VI. Realizar eventos, foros, ferias, concursos y demás actividades de carácter ambiental en los que se impulse la sensibilización, conocimiento y conservación del medio ambiente.
 
 ###### Artículo 65.
 
@@ -1349,9 +1443,11 @@ La Secretaría formulará, ejecutará, expedirá y en su caso modificará, los p
 
 La coordinación de la ejecución y evaluación de dichos programas corresponde a la Secretaría.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 72.
 
-Los ayuntamientos formularán, expedirán, ejecutarán, evaluarán y en su caso modificarán los programas de ordenamiento ecológico local. Para tal efecto podrán contar con el apoyo de la Secretaría, conforme a lo establecido en el presente Código.
+Los ayuntamientos formularán, expedirán, ejecutarán, evaluarán, actualizarán y en su caso modificarán los programas de ordenamiento ecológico regional. Para tal efecto, podrá celebrar acuerdos o convenios de coordinación con las dependencias y entidades de los tres órdenes de gobierno.
 
 ###### Artículo 73.
 
@@ -2141,9 +2237,17 @@ IV. Coadyuvar con la Procuraduría, en la vigilancia y el cumplimiento de este C
 
 V. Vigilar el cumplimiento de las disposiciones del presente Código, así como de sus disposiciones municipales, en su ámbito de competencia;
 
-VI. Proponer al Poder Ejecutivo del Estado, medidas para proteger y conservar especies o procesos ecológicos por su valor ambiental, su uso o significado cultural; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-VII. Elaborar su programa municipal de biodiversidad.
+VI. Proponer al Poder Ejecutivo del Estado, medidas para proteger y conservar especies o procesos ecológicos por su valor ambiental, su uso o significado cultural;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VII. Elaborar su programa municipal de biodiversidad; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VIII. Promover la creación de fragmentos de conservación de la biodiversidad urbana para restaurar las especies nativas de los ecosistemas naturales.
 
 ### Capítulo II. De la protección de la biodiversidad
 
@@ -2165,7 +2269,9 @@ IV. El Bosque Tropical Caducifolio del Bajío Queretano;
 
 V. El Semidesierto;
 
-VI. Los bosques de coníferas y encinares, principalmente los enclaves de bosque de Abies y bosque mesófilo de montaña;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VI. Los bosques de coníferas y encinares, principalmente los enclaves de bosque de Abies, Pseudotsuga, Pinceana y bosque mesófilo de montaña;
 
 VII. Los bosques espinosos de Prosopis y Acacia;
 
@@ -2203,7 +2309,9 @@ X. Priorizar la transferencia de conocimientos y saberes, tecnológicos y tradic
 
 XI. Promover el consumo de productos locales y cocina de proximidad a partir de la diversidad agroecológica del Estado y cultivos autóctonos, que genere impactos económicos en la cadena de proveeduría, difunda la cultura culinaria y las tradiciones indígenas, e incremente el atractivo gastronómico del Estado;
 
-XII. Fomentar el turismo sustentable que apoye a la economía de las comunidades locales; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XII. Fomentar el turismo sustentable con apego a los Programas de Manejo previstos en el presente Código, apoyando la economía de las comunidades locales; y
 
 XIII. Elaborar el Estudio de Estado y la Estrategia para la Conservación y Uso Sustentable de la Biodiversidad del Estado de Querétaro, en coordinación con la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.
 
@@ -2441,9 +2549,25 @@ VIII. Preservar campos propicios para el estudio, investigación científica y m
 
 IX. Proteger las cuencas, subcuencas y microcuencas que se encuentren dentro de la jurisdicción del Estado;
 
-X. Generar, rescatar y divulgar conocimientos y tecnologías que permitan el uso múltiple y el aprovechamiento sustentable de los recursos naturales en el territorio del Estado; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-XI. Funcionar como corredores biológicos entre áreas bien conservadas, para mantener los flujos de los ecosistemas.
+X. Generar, rescatar y divulgar conocimientos y tecnologías que permitan el uso múltiple y el aprovechamiento sustentable de los recursos naturales en el territorio del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XI. Funcionar como corredores biológicos entre áreas bien conservadas, para mantener los flujos de los ecosistemas;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XII. Preservar ambientes naturales y los ecosistemas frágiles para asegurar el equilibrio ecológico;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIII. Promover la preservación y aprovechamiento sustentable de la biodiversidad; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIV. Preservar especies endémicas que se encuentren en alguna categoría de riesgo.
 
 ###### Artículo 173.
 
@@ -2483,9 +2607,17 @@ III. Zonas Naturales Privadas o Comunitarias;
 
 IV. Paisajes Protegidos;
 
-V. Zonas de Protección Ecológica; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-VI. Zonas de Preservación Ecológica de Centros de Población.
+V. Zonas de Protección Ecológica;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VI. Zonas de Preservación Ecológica de Centros de Población; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VII. Áreas destinadas voluntariamente a la conservación.
 
 ###### Artículo 176.
 
@@ -2530,6 +2662,10 @@ I. Parques Intraurbanos, serán áreas superiores a una hectárea, en las cuales
 II. Parques Periurbanos, serán cinturones periféricos o cuasi periféricos, con un promedio de cuando menos un kilómetro de ancho, en los que se mantiene la cubierta vegetal nativa, o se restauren, o establezcan ambientes vegetados o zonas agrícolas, con el propósito de amortiguar los efectos ambientales adversos producidos por los centros de población.
 
 En estas subcategorías se podrá establecer usos mixtos, destinados al uso de servicios y comercio, bajo criterios sustentables, hasta un máximo de cinco por ciento del total de la superficie, quedando a criterio de la autoridad, con base en el dictamen técnico, la determinación de la localización, su superficie, condicionantes y aprobación del reglamento interior, siempre y cuando no afecte la estructura, conectividad y funciones ecosistémicas dentro de la zona de preservación ecológica de los centros de población que corresponda.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+Las Áreas destinadas voluntariamente a la conservación serán aquellas que presenten cualquiera de las características biológicas y ecológicas similares a reservas de biosfera, parques y demás áreas de protección de recursos naturales cuya propiedad recaiga en una persona interesada en destinar voluntariamente el inmueble a la conservación.
 
 #### Sección III. Del establecimiento, conservación, administración, desarrollo y vigilancia de las áreas naturales protegidas estatales
 
@@ -2769,9 +2905,11 @@ La Secretaría y la Procuraduría podrán, tomando como base estudios técnicos 
 
 Las autoridades podrán otorgar estímulos fiscales o retribuciones económicas a los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas, a través de la aplicación de los instrumentos económicos descritos en el presente Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 205.
 
-La Secretaría en coordinación con la Secretaría de Planeación y Finanzas y los gobiernos municipales, en el ámbito de sus respectivas competencias, podrán:
+La Secretaría en coordinación con la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro y los gobiernos municipales, en el ámbito de sus respectivas competencias, podrán:
 
 I. Promover inversiones públicas y privadas para el establecimiento y manejo de las áreas naturales protegidas;
 
@@ -2967,9 +3105,11 @@ VII. Reforestar y regenerar las estructuras geomorfológicas dañadas, en los t�
 
 Los propietarios o poseedores de terrenos erosionados, en proceso de erosión o desprovistos de vegetación o destinados a la producción agrícola o pecuaria, en concertación con las autoridades ambientales, ejecutarán las medidas necesarias para evitar la degradación del suelo y el daño a sus recursos y ecosistemas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 221.
 
-La Secretaría podrá promover, en coordinación con otras dependencias estatales o municipales:
+La Secretaría en coordinación con la SEDEA, podrán promover, en coordinación con otras dependencias federales, estatales o municipales:
 
 I. La elaboración de proyectos, diagnósticos o estudios tendentes a recuperar, regenerar o desarrollar vegetación en terrenos preferentemente forestales, para que cumplan con la función de conservar suelos y los demás servicios ambientales que proporcionan;
 
@@ -4031,9 +4171,11 @@ Si nadie reclamase el animal o la resolución de retenerlo causara estado, podr�
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 346.
 
-La propiedad de los recursos forestales, comprendidos dentro del territorio estatal, corresponde a los ejidos, a las comunidades, a las personas físicas o jurídicas y a los municipios que sean propietarios de los terrenos donde aquellos se ubiquen. Los procedimientos establecidos por este Código, no alterarán el régimen de propiedad de dichos terrenos.
+La propiedad de los recursos forestales, comprendidos dentro del territorio estatal, corresponde a los ejidos, a las comunidades, a las personas físicas o jurídicas y a la Federación, los Estados y los municipios, que sean propietarios de los terrenos donde aquellos se ubiquen. Los procedimientos establecidos por este Código, no alterarán el régimen de propiedad de dichos terrenos.
 
 ###### Artículo 347.
 
@@ -4043,13 +4185,21 @@ I. Promover la organización, capacidad operativa, integralidad y profesionaliza
 
 II. Respetar el derecho al uso y disfrute preferente de los recursos forestales de los lugares que ocupan y habitan las comunidades indígenas, en los términos del artículo 2, fracción VI, de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables;
 
-III. Regular la protección, conservación y restauración de los ecosistemas y de los sistemas forestales, tanto estatales como municipales, así como la ordenación y el manejo forestal sustentable;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-IV. Recuperar y desarrollar bosques en terrenos preferentemente forestales, para que cumplan con la función de conservar suelos, aguas y servicios ambientales, además de dinamizar el desarrollo rural;
+III. Fomentar la protección, conservación y restauración de los ecosistemas y de los sistemas forestales, tanto estatales como municipales, así como la ordenación y el manejo forestal sustentable;
 
-V. Promover y consolidar las áreas forestales permanentes, impulsando su delimitación y manejo sostenible, impidiendo que el cambio de uso de suelo con fines agropecuarios o de cualquier otra índole afecten su integridad física, su permanencia y potencialidad;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-VI. Regular las auditorías técnicas preventivas forestales;
+IV. Fomentar la recuperación y desarrollo de bosques en terrenos preferentemente forestales, para que cumplan con la función de conservar suelos, aguas y servicios ambientales, además de dinamizar el desarrollo rural;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+V. Promover la consolidación de las áreas forestales permanentes, impulsando su delimitación y manejo sostenible, impidiendo que el cambio de uso de suelo con fines agropecuarios o de cualquier otra índole afecten su integridad física, su permanencia y potencialidad;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VI. Fomentar las auditorías técnicas preventivas forestales;
 
 VII. Estimular las certificaciones forestales, de bienes y de servicios ambientales;
 
@@ -4059,7 +4209,9 @@ IX. Promover acciones con fines de conservación, restauración de suelos y prot
 
 X. Promover la cultura, la educación, la investigación y la capacitación para el manejo sustentable de los recursos forestales;
 
-XI. Implementar y promover la ventanilla única de atención institucional en el Poder Ejecutivo del Estado, así como en los municipios, para los usuarios del sector forestal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XI. Promover la ventanilla única de atención institucional en el Poder Ejecutivo del Estado, así como en los municipios, para los usuarios del sector forestal;
 
 XII. Dotar de mecanismos de coordinación, concertación y cooperación a las instituciones estatales y municipales del sector forestal, así como con otras instancias afines;
 
@@ -4097,9 +4249,21 @@ IV. Cambio de uso de suelo de terrenos forestales;
 
 V. Planeación e inversión forestal;
 
-VI. Aprovechamientos forestales maderables y no maderables; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-VII. Evaluación de los servicios técnicos forestales.
+VI. Aprovechamientos forestales maderables y no maderables;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VII. Evaluación de los servicios técnicos forestales;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VIII. Sanidad de los ecosistemas forestales; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+IX. Los demás que así determine el Consejo Estatal Forestal.
 
 ###### Artículo 351.
 
@@ -4111,9 +4275,11 @@ Los recursos humanos, financieros y materiales que se requieran para el cumplimi
 
 El titular del Poder Ejecutivo del Estado, a través de las autoridades competentes y los municipios, ejercerá sus atribuciones y obligaciones en materia forestal, de conformidad con la distribución de competencias prevista en este Código y en otros ordenamientos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 353.
 
-Corresponde al titular del Poder Ejecutivo del Estado a través de la Secretaría:
+Corresponde al titular del Poder Ejecutivo del Estado a través de la SEDEA:
 
 I. Diseñar, formular, aplicar y vigilar, en concordancia con la política forestal nacional, la política forestal en el Estado;
 
@@ -4123,7 +4289,9 @@ III. Impulsar el establecimiento de sistemas y esquemas de ventanilla única par
 
 IV. Proteger y promover la conservación de los bienes y servicios ambientales de los ecosistemas forestales;
 
-V. Organizar la participación directa de los propietarios y poseedores de los terrenos donde se encuentren recursos forestales, en la protección, la conservación, la restauración y la vigilancia de los ecosistemas, así como en el ordenamiento, el aprovechamiento, el cultivo, la transformación y la comercialización de los recursos forestales;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+V. Fomentar la participación directa de los propietarios y poseedores de los terrenos donde se encuentren recursos forestales, en la protección, la conservación, la restauración y la vigilancia de los ecosistemas, así como en el ordenamiento y el cultivo de los recursos forestales;
 
 VI. Participar en la elaboración de los programas forestales regionales de largo plazo, de ámbito interestatal o por cuencas hidrológico forestales;
 
@@ -4141,11 +4309,15 @@ XII. Coordinarse con la Federación, para la realización de acciones de saneami
 
 XIII. Prestar asesoría y capacitación en prácticas y métodos que conlleven un manejo forestal sustentable;
 
-XIV. Asesorar y capacitar a los propietarios y poseedores de terrenos donde se encuentren recursos forestales, en la elaboración y ejecución de programas de manejo forestal y de plantaciones forestales comerciales, así como en la diversificación de las actividades forestales;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIV. Impulsar la asesoría y capacitación a los propietarios y poseedores de terrenos donde se encuentren recursos forestales, en la elaboración y ejecución de programas de manejo forestal y de plantaciones forestales comerciales, así como en la diversificación de las actividades forestales;
 
 XV. Asesorar y orientar a ejidatarios, comuneros, pequeños propietarios y otros productores forestales en el desarrollo de su organización, así como en la creación de empresas sociales forestales, propiciando la integración de cadenas productivas sustentables;
 
-XVI. Participar, de conformidad con los acuerdos y convenios que se celebren con la Federación, en la inspección y vigilancia forestal en la Entidad; en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales; autorizaciones de cambio de uso de suelo forestal; aprovechamiento de recursos forestales maderables y no maderables; y de plantaciones forestales comerciales;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XVI. Participar, de conformidad con los acuerdos y convenios que se celebren con la Federación, en la inspección y vigilancia forestal en la Entidad; en las acciones de prevención y combate a la extracción ilegal y la tala clandestina de los recursos forestales; en la atención de solicitudes de cambio de uso de suelo forestal; aprovechamiento de recursos forestales maderables y no maderables; y de plantaciones forestales comerciales;
 
 XVII. Elaborar estudios técnicos para, en su caso, recomendar al Poder Ejecutivo Federal, a través de la Secretaría de Medio Ambiente y Recursos Naturales, el establecimiento, la modificación o el levantamiento de vedas, así como para la protección de ecosistemas y cuencas hidrológicas forestales;
 
@@ -4157,11 +4329,15 @@ XX. Elaborar, monitorear, difundir y mantener actualizado el Inventario Estatal 
 
 XXI. Integrar el Sistema Estatal de Información Forestal e incorporar su contenido al Sistema Nacional de Información Forestal;
 
-XXII. Compilar y procesar la información sobre uso doméstico de los recursos forestales e incorporarla al Sistema Estatal de Información Forestal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXII. Compilar y procesar de forma coordinada con la Secretaría y los Municipios, la información sobre uso doméstico de los recursos forestales e incorporarla al Sistema Estatal de Información Forestal;
 
 XXIII. Coadyuvar y participar, de conformidad con la Ley General de Desarrollo Forestal Sustentable, en la adopción y consolidación del Servicio Nacional Forestal;
 
-XXIV. Regular el uso del fuego en las actividades relacionadas con las actividades agrícolas o de otra índole, que pudieran afectar los ecosistemas forestales;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXIV. Promover la regulación del uso del fuego en las actividades relacionadas con las actividades agrícolas o de otra índole, que pudieran afectar los ecosistemas forestales;
 
 XXV. Promover y participar en la restauración de los ecosistemas forestales afectados por incendio o cualquier otro desastre natural;
 
@@ -4177,11 +4353,17 @@ XXX. Fortalecer y ampliar la participación de la producción forestal sustentab
 
 XXXI. Atender los demás asuntos que en materia de desarrollo forestal sustentable le conceda este Código y otros ordenamientos aplicables, y que no estén expresamente reservados a la Federación o a los municipios;
 
-XXXII. Autorizar el aprovechamiento de recursos forestales en terrenos ubicados fuera de los ecosistemas forestales naturales, determinados por el Inventario Nacional y Estatal Forestal y de Suelos, el Programa de Ordenamiento Ecológico y en predios con uso de suelo distinto al forestal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-XXXIII. Autorizar la remoción de vegetación en terrenos distintos a los forestales e imponer medidas de compensación ambiental;
+XXXII. Presidir en representación del Gobernador, el Consejo Estatal Forestal, de conformidad con las disposiciones aplicables;
 
-XXXIV. Determinar los recursos económicos que los beneficiarios de una obra autorizada en materia de impacto ambiental de carácter estatal, deberán aportar al instrumento denominado Capital Climático como medida de compensación;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXXIII. Desarrollar y apoyar viveros y programas de producción de plantas nativas;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXXIV. Programar y atender en coordinación con la federación y los municipios, actividades de prevención, detección y combate de incendios forestales en la entidad, así como de control de plagas y enfermedades;
 
 XXXV. Evaluar las actividades de las Unidades de Manejo Forestal y emitir recomendaciones que permitan mejorar la eficacia en materia forestal; y
 
@@ -4209,7 +4391,9 @@ VIII. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo for
 
 IX. Participar en la planeación y en la ejecución de la reforestación, forestación, restauración de suelos, conservación de los ecosistemas y protección de bienes y servicios ambientales forestales, dentro de su ámbito territorial de competencia;
 
-X. Llevar a cabo, en coordinación con el Poder Ejecutivo del Estado, acciones de saneamiento y restauración en los ecosistemas forestales, dentro de su ámbito de competencia;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+X. Llevar a cabo, en coordinación con la Federación y con el Poder Ejecutivo del Estado, acciones de saneamiento y restauración en los ecosistemas forestales, dentro de su ámbito de competencia;
 
 XI. Promover la construcción y mantenimiento de la infraestructura en las áreas forestales del municipio, de conformidad con la normativa aplicable;
 
@@ -4239,9 +4423,11 @@ XXIII. Atender los demás asuntos que en materia de desarrollo forestal sustenta
 
 ### Capítulo III. De la coordinación institucional
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 355.
 
-El Estado podrá suscribir convenios o acuerdos de coordinación con la Federación, con el objeto de, en el ámbito territorial de su competencia, asumir las siguientes funciones:
+La SEDEA podrá suscribir convenios o acuerdos de coordinación con la Federación, con el objeto de, en el ámbito territorial de su competencia, asumir las siguientes funciones:
 
 I. Programar y operar las tareas de prevención, detección y combate de incendios forestales en la entidad, así como los de control de plagas y enfermedades;
 
@@ -4265,9 +4451,11 @@ X. Evaluar el impacto ambiental de las obras o actividades forestales a que se r
 
 XI. Expedir la documentación que acredite la legal procedencia de materias primas forestales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 356.
 
-En la celebración de convenios o acuerdos de coordinación, se tomará en consideración que los municipios, en su caso, cuenten con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las funciones que soliciten asumir.
+En la celebración de convenios o acuerdos de coordinación, se tomará en consideración que el estado y los municipios, en su caso, cuenten con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las funciones que soliciten asumir.
 
 Asimismo, los convenios y acuerdos deberán ajustarse, en lo conducente, a las bases previstas en la Ley General de Desarrollo Forestal Sustentable y demás disposiciones legales aplicables y se basarán en los principios de congruencia del Servicio Estatal Forestal.
 
@@ -4325,7 +4513,9 @@ II. De proyección de largo plazo, por veinticinco años o más, que se expresar
 
 Dichos programas indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la política nacional forestal, debiendo ser congruentes con los programas nacionales y el Plan Estatal de Desarrollo.
 
-El Programa Estratégico Forestal Estatal de largo plazo, deberá ser elaborado, monitoreado, evaluado y revisado por la Secretaría y, en su caso, actualizado cada dos años.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+El Programa Estratégico Forestal Estatal de largo plazo, deberá ser elaborado, monitoreado, evaluado y revisado por la SEDEA en Coordinación con la Federación, en términos del instrumento jurídico al efecto celebrado y, en su caso, actualizado de conformidad con las disposiciones aplicables.
 
 ###### Artículo 363.
 
@@ -4337,17 +4527,23 @@ El gobernador del Estado y los presidentes municipales incorporarán en sus info
 
 #### Sección III. Del Sistema Estatal de Información Forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 365.
 
-El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir los indicadores y la información relacionada con la materia forestal que servirá como base estratégica para la planeación y la evaluación del desarrollo forestal sustentable, misma que estará disponible al público para su consulta a través de la Secretaría.
+El Sistema Estatal de Información Forestal tendrá por objeto registrar, integrar, organizar, actualizar y difundir los indicadores y la información relacionada con la materia forestal que servirá como base estratégica para la planeación y la evaluación del desarrollo forestal sustentable, mismo que estará disponible al público para su consulta a través de la SEDEA.
 
-La Secretaría integrará el Sistema Estatal de Información Forestal, conforme a las normas, criterios, procedimientos y metodología emitidas por la Secretaría de Medio Ambiente y Recursos Naturales.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+La SEDEA integrará el Sistema Estatal de Información Forestal, conforme a las normas, criterios, procedimientos y metodología emitidas por la Secretaría de Medio Ambiente y Recursos Naturales.
 
 El Sistema Estatal de Información Forestal se incluirá en el Sistema Estatal de Información Ambiental.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 366.
 
-La autoridad municipal proporcionará a la Secretaría, en los términos que prevea el reglamento de este Código, la información que recabe en el cumplimiento de sus atribuciones, para que sea integrada al Sistema Estatal de Información Forestal.
+La autoridad municipal proporcionará a la SEDEA, en los términos de las disposiciones aplicables, la información que recabe en el cumplimiento de sus atribuciones, para que sea integrada al Sistema Estatal de Información Forestal.
 
 ###### Artículo 367.
 
@@ -4375,9 +4571,11 @@ X. La demás que se considere estratégica para la planeación, monitoreo, conse
 
 #### Sección IV. Del Inventario Estatal Forestal y de Suelos
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 368.
 
-El Inventario Estatal Forestal y de Suelos será integrado por la Secretaría, de acuerdo con lo dispuesto en el Reglamento de este Código y en la Ley General de Desarrollo Forestal Sustentable, el cual deberá relacionar, de manera organizada y sistemática, los datos estadísticos y contables de los bienes y servicios forestales.
+El Inventario Estatal Forestal y de Suelos será integrado por la SEDEA en Coordinación con la Federación, de acuerdo con lo dispuesto en el Reglamento de este Código y en la Ley General de Desarrollo Forestal Sustentable, el cual deberá relacionar, de manera organizada y sistemática, los datos estadísticos y contables de los bienes y servicios forestales.
 
 ###### Artículo 369.
 
@@ -4385,7 +4583,9 @@ El Inventario Estatal Forestal y de Suelos, comprenderá la siguiente informaci�
 
 I. La superficie y localización de terrenos forestales y preferentemente forestales con que cuenta el Estado y sus municipios, con el propósito de integrar su información estadística y elaborar su cartografía, en sus distintos niveles de ordenación y manejo;
 
-II. Los terrenos forestales temporales, su superficie y localización, así como los datos de sus legítimos propietarios;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+II. Los terrenos forestales temporales, su superficie y localización;
 
 III. Los tipos de vegetación forestal y de suelos, su localización, formaciones, clases y superficies, con tendencias y proyecciones que permitan clasificar y delimitar su extensión, así como el estado actual de la degradación, tanto en las zonas de conservación, protección y restauración como en las zonas de producción forestal, en relación con las cuencas hidrológicas forestales, las regiones ecológicas, las áreas forestales que serán permanentes y las áreas naturales protegidas;
 
@@ -4431,9 +4631,11 @@ IV. Los desequilibrios existentes en los ecosistemas por efecto de las actividad
 
 La ordenación forestal es el instrumento en el cual se identifican, agrupan y ordenan los terrenos forestales dentro del territorio y de las cuencas, subcuencas y microcuencas hidrológico forestales, por funciones y subfunciones biológicas, ecológicas y ambientales, por biorregiones, por actividades socioeconómicas, recreativas, productivas para un aprovechamiento sustentable o para la protección y restauración de los ecosistemas, con el objeto de propiciar una mejor administración y contribuir al desarrollo forestal sustentable.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 373.
 
-La Secretaría deberá llevar a cabo la ordenación, con base en el Inventario Estatal Forestal y de Suelos.
+La SEDEA deberá llevar a cabo la ordenación, con base en el Inventario Estatal Forestal y de Suelos.
 
 ###### Artículo 374.
 
@@ -4445,9 +4647,11 @@ Para llevar a cabo la ordenación, el titular del Poder Ejecutivo del Estado exp
 
 #### Sección VI. De las unidades de manejo forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 376.
 
-La Secretaría en coordinación con la Comisión Nacional Forestal, delimitará las Unidades de Manejo Forestal, con el propósito de lograr la ordenación forestal sustentable, la planeación ordenada de las actividades forestales y el manejo eficiente de los recursos forestales.
+La SEDEA en coordinación con la Comisión Nacional Forestal, delimitará las Unidades de Manejo Forestal, con el propósito de lograr la ordenación forestal sustentable, la planeación ordenada de las actividades forestales y el manejo eficiente de los recursos forestales.
 
 Las Unidades de Manejo Forestal contarán con las funciones que para el efecto le confiera el Reglamento de este Código y en su constitución deberán participar los dueños de terrenos forestales.
 
@@ -4517,9 +4721,11 @@ El Poder Ejecutivo del Estado fomentará y promoverá la investigación relativa
 
 El aprovechamiento de los recursos forestales maderables y no maderables para usos domésticos y colecta para fines de investigación en áreas que sean el hábitat de especies de flora o fauna silvestres enlistadas en la NOM-059-SEMARNAT-2001 deberá hacerse de manera que no se alteren las condiciones necesarias para la subsistencia, desarrollo y evolución de dichas especies sujetándose a los ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 390.
 
-La Secretaría promoverá el desarrollo de un sistema de mejoramiento genético forestal de vegetación nativa con la evaluación y registro de progenitores, la creación de áreas y huertos, semilleros, viveros forestales de maderables y no maderables y bancos de germoplasma.
+La SEDEA en coordinación con la Federación, promoverá el desarrollo de un sistema de mejoramiento genético forestal de vegetación nativa con la evaluación y registro de progenitores, la creación de áreas y huertos, semilleros, viveros forestales de maderables y no maderables y bancos de germoplasma.
 
 ###### Artículo 391.
 
@@ -4527,9 +4733,11 @@ Si como resultado de la investigación se detecta una plaga o enfermedad foresta
 
 #### Sección IV. De la sanidad forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 392.
 
-La Secretaría establecerá un sistema permanente de inspección y evaluación de la condición sanitaria de los terrenos forestales y difundirá con la mayor amplitud y oportunidad sus resultados; promoverá y apoyará los programas de investigación necesarios para resolver los problemas fitosanitarios forestales.
+La SEDEA coadyuvará con la Federación para establecer en el estado un Sistema Permanente de Evaluación y Alerta Temprana de la condición fitosanitaria de los terrenos forestales y temporalmente forestales y difundirá con la mayor amplitud y oportunidad sus resultados; así mismo promoverá y apoyará los programas de investigación necesarios para resolver los problemas fitosanitarios forestales.
 
 Las dependencias y entidades del Poder Ejecutivo del Estado y, en su caso, las de los gobiernos municipales, en los términos de los acuerdos y convenios que celebren, realizarán, en forma coordinada, las inspecciones y evaluaciones citadas, para detectar, diagnosticar, prevenir, controlar y combatir plagas y enfermedades forestales.
 
@@ -4537,11 +4745,13 @@ Cuando por motivos de sanidad forestal sea necesario realizar un aprovechamiento
 
 En términos del párrafo precedente, los propietarios, poseedores o usufructuarios están obligados a realizar las acciones anteriores.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 393.
 
-Los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestales, así como los titulares de autorizaciones de aprovechamiento de recursos forestales, quienes realicen actividades de forestación o plantaciones forestales comerciales y de reforestación, los prestadores de servicios técnicos forestales responsables de los mismos y los responsables de la administración de las áreas naturales protegidas, en forma inmediata a la detección de plagas o enfermedades, estarán obligados a dar aviso de ello a la Secretaría.
+Los ejidatarios, comuneros y demás propietarios o poseedores de terrenos forestales o preferentemente forestales, así como los titulares de autorizaciones de aprovechamiento de recursos forestales, quienes realicen actividades de forestación o plantaciones forestales comerciales y de reforestación, los prestadores de servicios técnicos forestales responsables de los mismos y los responsables de la administración de las áreas naturales protegidas, en forma inmediata a la detección de plagas o enfermedades, estarán obligados a dar aviso de ello a la Federación, en termino de las disposiciones aplicables.
 
-Quienes detenten autorizaciones de aprovechamiento forestal y sus responsables técnicos forestales, estarán obligados a ejecutar los trabajos de sanidad forestal, conforme a los tratamientos contemplados en los programas de manejo y a los lineamientos que les proporcione la Secretaría, en los términos de las disposiciones aplicables.
+Los propietarios y legítimos poseedores de terrenos forestales y los titulares de los aprovechamientos, están obligados a ejecutar los trabajos de sanidad forestal; y los responsables de la administración de las Áreas Naturales Protegidas, de conformidad con la normatividad aplicable.
 
 ###### Artículo 394.
 
@@ -4553,9 +4763,11 @@ Si el particular no actuara en tiempo y forma, la Secretaría intervendrá a fin
 
 #### Sección V. De la declaración de emergencia sanitaria forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 395.
 
-La Secretaría podrá realizar la declaratoria de emergencia sanitaria en los terrenos forestales y preferentemente forestales cuando:
+La SEDEA en coordinación con la Federación y con la opinión del Consejo Estatal Forestal, podrá realizar la declaratoria de emergencia sanitaria en los terrenos forestales y preferentemente forestales cuando:
 
 I. El terreno se encuentre invadido por una plaga o enfermedad forestal;
 
@@ -4565,9 +4777,11 @@ III. A pesar de las acciones instauradas en el terreno afectado y después de at
 
 #### Sección VI. De las quemas con fines agropecuarios
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 396.
 
-Compete a la Secretaría, en coordinación con la Secretaría de Desarrollo Agropecuario, la planificación, coordinación, vigilancia y ejecución de las medidas precisas para la regulación de las quemas con fines agropecuarios.
+La planificación, coordinación, vigilancia y ejecución de las medidas precisas para la regulación de las quemas con fines agropecuarios será en términos de la Norma Oficial Mexicana 015-SEMARNAT/SAGARPA-2007 o la Norma Oficial Mexicana que se emita para tal efecto.
 
 ###### Artículo 397.
 
@@ -4579,9 +4793,17 @@ II. No deberá efectuarse de manera simultánea con predios colindantes;
 
 III. Se debe circular con línea cortafuegos o guardarrayas;
 
-IV. Deberá iniciarse de arriba hacia abajo en los terrenos con pendientes de menos de quince grados y en los planos en sentido contrario al de la dirección dominante del viento; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-V. Deberá efectuarse en el período establecido en el calendario que expida el Poder Ejecutivo del Estado, a más tardar el 30 de noviembre de cada año, mismo que se difundirá para tal fin en diversos medios de comunicación.
+IV. Deberá iniciarse de arriba hacia abajo en los terrenos con pendientes de menos de quince grados y en los planos en sentido contrario al de la dirección dominante del viento;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+V. Deberá efectuarse en el período establecido en el calendario que expida el Poder Ejecutivo del Estado, a más tardar el 30 de noviembre de cada año, mismo que se difundirá para tal fin en diversos medios de comunicación; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VI. Deberá realizarse conforme a las normas oficiales mexicanas aplicables.
 
 ###### Artículo 398.
 
@@ -4589,19 +4811,25 @@ Quedan prohibidas las quemas en terrenos que estén a una distancia menor a un k
 
 #### Sección VII. De la prevención, combate y control de incendios forestales
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 399.
 
-La Secretaría promoverá, conjuntamente con los ayuntamientos, organizaciones sociales y asociaciones civiles en las regiones que así se requiera, la constitución de agrupaciones de defensa forestal que tendrán por objeto planear, dirigir y difundir programas y acciones de prevención y combate a incendios forestales.
+La SEDEA promoverá, conjuntamente con los ayuntamientos, organizaciones sociales y asociaciones civiles en las regiones que así se requiera, la constitución de agrupaciones de defensa forestal que tendrán por objeto planear, dirigir y difundir programas y acciones de prevención y combate a incendios forestales.
 
-Las organizaciones de defensa forestal serán capacitadas y, en su caso, certificadas por la Secretaría y se regirán conforme a lo establecido en el reglamento de este Código.
+Las organizaciones de defensa forestal serán capacitadas, por la SEDEA y se regirán conforme a lo establecido en el reglamento de este Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 400.
 
-La Secretaría, en el marco de la coordinación institucional prevista en la Ley General de Desarrollo Forestal Sustentable, en concordancia con las normas oficiales mexicanas, dictará los lineamientos que deberán observarse en la prevención, combate y control de incendios forestales, para evaluar los daños, restaurar la zona afectada y establecer los procesos de seguimiento, así como los métodos y formas de uso del fuego en los terrenos forestales y agropecuarios colindantes.
+La SEDEA, en el marco de la coordinación institucional prevista en la Ley General de Desarrollo Forestal Sustentable, en concordancia con las normas oficiales mexicanas, dictará los lineamientos que deberán observarse en la prevención, combate y control de incendios forestales, para evaluar los daños, restaurar la zona afectada y establecer los procesos de seguimiento, así como los métodos y formas de uso del fuego en los terrenos forestales y agropecuarios colindantes.
 
 Quienes hagan uso del fuego en contravención de las disposiciones de las normas mencionadas, se harán acreedores a las sanciones que prevé este Código, sin perjuicio de las establecidas en las leyes penales y demás que resulten aplicables.
 
-La autoridad municipal deberá atender el combate y control de incendios y, en el caso de que los mismos superen su capacidad financiera y operativa de respuesta, acudirá a la instancia estatal correspondiente. Si ésta resultare insuficiente, se procederá a informar a la Comisión Nacional Forestal, la cual actuará de acuerdo con los programas y procedimientos respectivos.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+La autoridad municipal en coordinación con los dueños y/o poseedores de los terrenos forestales, deberá atender el combate y control de incendios y, en el caso de que los mismos superen su capacidad financiera y operativa de respuesta, acudirá a la instancia estatal correspondiente. Si ésta resultare insuficiente, se procederá a informar a la Comisión Nacional Forestal, la cual actuará de acuerdo con los programas y procedimientos respectivos.
 
 El Poder Ejecutivo del Estado y los municipios, procurarán la participación de los organismos de los sectores social y privado, para los efectos señalados en el párrafo que antecede y organizará campañas permanentes de educación, capacitación y difusión de las medidas para prevenir, combatir y controlar los incendios forestales.
 
@@ -4631,19 +4859,23 @@ El prestador de servicios técnicos forestales que, en su caso, funja como encar
 
 La reforestación o forestación de las áreas taladas será una acción prioritaria en los programas de manejo prediales, zonales o regionales. Para este efecto, se consideran prioritarias las zonas incendiadas, especialmente las que hayan sufrido incendios reiterados.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 405.
 
-La Secretaría y los municipios, en el ámbito de su competencia, promoverán programas tendientes a la forestación y reforestación de los terrenos idóneos en el Estado y municipios.
+El Poder Ejecutivo del Estado de Querétaro y los Municipios, en el ámbito de su competencia, promoverán programas tendientes a la forestación y reforestación de los terrenos idóneos en el Estado y municipios.
 
-Para tal efecto, la Secretaría y los municipios podrán celebrar convenios con instituciones públicas y privadas.
+Para tal efecto, se podrán celebrar instrumentos jurídicos con instituciones públicas y privadas.
 
 ###### Artículo 406.
 
 Será obligatorio para las autoridades estatales y municipales, incluir en sus Planes de Desarrollo respectivos, programas tendientes a la reforestación y forestación del Estado y municipios.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 407.
 
-Cuando por causa de utilidad pública sea necesario reforestar en predios de propiedad particular, la Secretaría realizará la declaratoria correspondiente, coordinándose con el propietario o poseedor, instrumentando lo necesario a fin de llevarlo a cabo, de acuerdo a lo establecido en el reglamento de este Código.
+Cuando por causa de utilidad pública sea necesario reforestar en predios de propiedad particular, el Poder Ejecutivo del Estado de Querétaro, realizará la declaratoria correspondiente, coordinándose con el propietario o poseedor, instrumentando lo necesario a fin de llevarlo a cabo, de acuerdo a lo establecido en el reglamento de este Código.
 
 ###### Artículo 408.
 
@@ -4705,9 +4937,11 @@ VIII. Los demás recursos que obtenga por cualquier título legal.
 
 #### Sección II. De la cultura, la educación y la capacitación forestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 415.
 
-La Secretaría, en coordinación con las dependencias competentes de la administración pública federal, estatal y municipal, así como con las organizaciones e instituciones privadas y sociales, realizará, en materia de cultura forestal, las siguientes acciones:
+La SEDEA en coordinación con la Secretaría y con las dependencias competentes de la administración pública federal, estatal y municipal, así como con las organizaciones e instituciones privadas y sociales, realizará, en materia de cultura forestal, las siguientes acciones:
 
 I. Promover y realizar campañas permanentes de difusión y eventos especiales, orientados al logro de la participación organizada de la sociedad en programas inherentes al desarrollo forestal sustentable;
 
@@ -4770,6 +5004,10 @@ El Poder Ejecutivo del Estado, los municipios y las Unidades de Manejo Forestal,
 El reglamento interno del Consejo establecerá la composición y funcionamiento del mismo, así como sus atribuciones. En el Consejo deberán participar representantes de las dependencias y entidades del Poder Ejecutivo Federal, del Poder Ejecutivo del Estado, de los municipios, de los ejidos, comunidades, pequeños propietarios, asociaciones de silvicultores, representantes de los colegios o asociaciones de prestadores de servicios técnicos forestales que estén debidamente constituidos en el Estado, industriales forestales, instituciones de investigación y organizaciones ciudadanas no gubernamentales relacionadas con el sector forestal.
 
 En la constitución de este Consejo se tendrá una representación proporcional y equitativa de sus integrantes y sus normas de operación interna responderán a las necesidades, demandas, costumbres e intereses de cada territorio o demarcación y en todo momento, al interés público.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+La Diputada o el Diputado que preside la Comisión de Medio Ambiente y Cambio Climático de la Legislatura del Estado de Querétaro, formará parte del Consejo Estatal Forestal.
 
 ### Capítulo VII. De los medios de control, vigilancia y sanción forestal
 
@@ -5455,9 +5693,7 @@ Artículo Décimo Primero. Las guías de impacto ambiental; de estudio de riesgo
 
 Artículo Décimo Segundo. La Secretaría de Desarrollo Sustentable deberá implementar la plataforma electrónica referida en el artículo 115, en un plazo de 180 días.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2022)</small>
-
-Artículo Décimo Tercero. La Secretaría de Desarrollo Sustentable y la Secretaría de Desarrollo Agropecuario, ambas del Poder Ejecutivo del Estado de Querétaro, tendrán hasta el 31 de octubre de 2022, para llevar a cabo el traslado programado de los recursos humanos, financieros y materiales, así como de la estructura orgánica, que actualmente atiende los asuntos y trámites en materia forestal, respetando los derechos laborales de los servidores públicos.
+Artículo Décimo Tercero. (DEROGADO, P.O. 31 DE OCTUBRE DE 2022)
 
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE. DADO EN EL SALÓN DE SESIONES “CONSTITUYENTES 1916-1917” RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTIDÓS DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL VEINTIUNO.
 
@@ -5512,3 +5748,15 @@ Se derogan todas aquellas disposiciones de igual o menor jerarquía que contrave
 ###### ARTÍCULO TERCERO.
 
 Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO AMBIENTAL DEL ESTADO DE QUERÉTARO Y DE LA LEY DEL CENTRO DE PREVENCIÓN SOCIAL DEL DELITO Y LA VIOLENCIA EN EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Los asuntos que en materia forestal se encuentren en trámite por parte de la Secretaría de Desarrollo Sustentable del Poder Ejecutivo, así como de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo, al momento de la entrada en vigor de la presente ley, continuarán sustanciándose hasta su total conclusión.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro la (sic) "La Sombra de Arteaga".
