@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-privada-del-estado-de-aguascalientes-31499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-26"
-last_updated: "2019-07-08"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de mayo de 2003.
 
@@ -429,35 +429,67 @@ Esta credencial deberá ser portada durante la prestación del servicio, de modo
 
 El personal operativo se regirá en lo conducente por los principios de actuación y deberes previstos para los integrantes de los cuerpos de seguridad pública en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, la Ley Estatal de Seguridad Pública y demás leyes y reglamentos aplicables.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+Los servicios se prestarán tomando en cuenta los principios de integridad y dignidad; protección y trato correcto a las personas, evitando en todo momento arbitrariedades y violencia, actuando en congruencia y proporcionalidad en el uso de sus facultades y medios disponibles.
+
 ### CAPITULO QUINTO. De las Obligaciones de los Prestadores del Servicio
 
 ###### Artículo 20.
 
 En la prestación de los servicios de seguridad privada, los prestadores del servicio se sujetarán a lo siguiente:
 
-I. Bajo ningún supuesto realizarán funciones que están reservadas a los cuerpos e instituciones de seguridad pública o a las fuerzas armadas;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-II. Se abstendrán de usar en su denominación, razón social o nombre, papelería, identificaciones, documentación y demás bienes de la negociación, las palabras de "Policía", "Agentes", "Investigadores" o cualquier otra similar que pueda dar a entender una relación con los cuerpos de seguridad pública, las fuerzas armadas u otras autoridades;
+I. Prestar los servicios de seguridad privada en los términos y condiciones establecidos en la autorización que les haya sido otorgada o, en su caso, en su revalidación o modificación;
 
-III. El término "seguridad" e "investigador" solamente podrán utilizarlo acompañado del adjetivo "privada";
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2022)</small>
 
-IV. En sus documentos, bienes muebles e inmuebles, insignias e identificaciones no podrán usar logotipos, emblemas nacionales u oficiales o de otros países. Queda prohibido el uso de todo tipo de placas metálicas de identidad;
+II. Abstenerse de prestar los servicios de seguridad privada sin contar con la autorización o revalidación correspondiente;
 
-V. Los vehículos a su servicio deberán ostentar visiblemente su denominación, logotipo y número que los identifique plenamente; en ningún caso tendrán torretas que permita confundirlos con las patrullas de los cuerpos de seguridad pública;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2022)</small>
 
-VI. Los vehículos, el uniforme, insignias y divisas que utilice el personal operativo de los prestadores del servicio, deberán ser diferentes de los que reglamentariamente corresponde usar a los cuerpos de seguridad pública o a las Fuerzas Armadas evitando que, a simple vista, exista la posibilidad de confusión;
+III. Informar sobre el cambio de domicilio fiscal o legal de la matriz, así como el de sus sucursales;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2022)</small>
 
-VII. El personal operativo usará el uniforme, equipo y armamento autorizado, únicamente en los lugares y horarios de prestación de servicios;
+IV. Aplicar anualmente exámenes médicos, psicológicos y toxicológicos al personal operativo en las instituciones autorizadas, en los términos que establece el reglamento;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2022)</small>
 
-VIII. El personal operativo observará los principios de actuación y las obligaciones que rijan para los cuerpos de seguridad pública en lo que sea aplicable; y
+V. Coadyuvar con las autoridades y las instituciones de seguridad pública en situaciones de urgencia, desastre o en cualquier otro caso, previa solicitud de la autoridad competente;
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-IX. Permitir que su personal, sea sometido a procedimientos de evaluación y control de confianza.
+VI. Abstenerse de utilizar en su denominación, razón social, papelería, documentación, vehículos y demás elementos de identificación, colores o insignias que pudieran causar confusión con los utilizados por los cuerpos de seguridad pública, las Fuerzas Armadas u otras autoridades. Queda prohibido el uso de todo tipo de placas metálicas de identidad;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VII. Abstenerse de realizar funciones que están reservadas a los cuerpos e instituciones de seguridad pública o a las Fuerzas Armadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VIII. Evitar en todo momento aplicar, tolerar o permitir actos de tortura, malos tratos, actos crueles, inhumanos o degradantes, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenazas a la seguridad pública;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+IX. Utilizar el término "seguridad" e “investigador" siempre acompañado de la palabra "privada";
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+X. Los vehículos que utilicen, deberán presentar una cromática uniforme, atendiendo a las especificaciones que al efecto señale el Reglamento, además de ostentar en forma visible, en los vehículos que utilicen, la denominación, logotipo y número de registro. Bajo ninguna circunstancia podrán llevar elementos que los confundan con aquellos vehículos utilizados por las instituciones de seguridad pública o las Fuerzas Armadas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XI. Utilizar uniformes y elementos de identificación del personal operativo que se distingan de los utilizados por las instituciones de seguridad pública y las Fuerzas Armadas; ajustando el modelo, colores o insignias de los uniformes que utilicen sus elementos operativos, a las especificaciones que señale el Reglamento;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XII. El personal operativo de las empresas únicamente utilizará el uniforme, armamento y equipo en los lugares y horarios de prestación del servicio; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIII. Permitir que su personal, sea sometido a procedimientos de evaluación y control de confianza.
 
 ###### Artículo 21.
 
@@ -509,9 +541,11 @@ Para las personas físicas o morales, locales o foráneas que presten servicios 
 
 ### CAPITULO SEXTO. De las Visitas de Verificación
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 23.
 
-La Secretaría, con el objeto de comprobar el cumplimiento de esta Ley y ordenamientos jurídicos aplicables, podrá llevar a cabo visitas de verificación, las que serán ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles y las segundas, en cualquier tiempo. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia e imparcialidad.
+La Secretaría, con el objeto de comprobar el cumplimiento de esta Ley y ordenamientos jurídicos aplicables, podrá llevar a cabo visitas de verificación y vigilancia, a los prestadores de servicios que se dediquen a las actividades que regula la presente Ley, las que serán ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles y las segundas, en cualquier tiempo. Dichas visitas se sujetarán a los principios de unidad, funcionalidad, coordinación, profesionalización, simplificación, agilidad, precisión, legalidad, transparencia e imparcialidad.
 
 ###### Artículo 24.
 
@@ -760,3 +794,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 207.- SE REFORMA LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
