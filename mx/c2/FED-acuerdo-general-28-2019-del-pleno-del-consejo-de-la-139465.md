@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2019-del-pleno-del-consejo-de-la-139465"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-12-10"
-last_updated: "2019-12-10"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139465&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2019-11-29"
 
 ACUERDO GENERAL 28/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y LA DE LOS TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; Y AL INICIO DE FUNCIONES DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES Y TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; CON SEDE EN LOS RECLUSORIOS NORTE, SUR Y ORIENTE EN LA CIUDAD DE MÉXICO; Y QUE REFORMA EL SIMILAR 3/2016, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE Y EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 10 de diciembre de 2019.
 
@@ -59,7 +59,9 @@ A partir de la entrada en vigor del presente acuerdo, concluye funciones la Ofic
 
 a) Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales y de los Tribunales Unitarios en Materia Penal del Primer Circuito, con sede en el Reclusorio Norte;
 
-b) Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales y de los Tribunales Unitarios en Materia Penal del Primer Circuito, con sede en el Reclusorio Sur; y
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 23/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2022)</small>
+
+b) Oficina de Correspondencia Común de los Tribunales Unitarios en Materia Penal del Primer Circuito, con sede en el Reclusorio Sur; y
 
 c) Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales y de los Tribunales Unitarios en Materia Penal del Primer Circuito, con sede en el Reclusorio Oriente.
 
@@ -154,3 +156,19 @@ CUARTO. Desde la fecha de aprobación del presente acuerdo hasta el inicio de su
 QUINTO. Las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos entre las Oficinas de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales y los Tribunales Unitarios en Materia Penal del Primer Circuito habilitados como tribunal de alzada, para, en su caso, compensar entre ellos la carga de trabajo en su doble función, prevista en el artículo 17, penúltimo párrafo y el Transitorio SEGUNDO del Acuerdo General 3/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en la Ciudad de México, con sede en los Reclusorios Oriente, Sur y Norte.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 28/2019, del Pleno del Consejo de la Judicatura Federal, relativo a la conclusión de funciones de la oficina de correspondencia común de los Juzgados de Distrito de Procesos Penales Federales con residencia en la Ciudad de México y la de los Tribunales Unitarios en Materia Penal del Primer Circuito; y al inicio de funciones de las oficinas de correspondencia común de los Juzgados de Distrito de Procesos Penales Federales y Tribunales Unitarios en Materia Penal del Primer Circuito; con sede en los reclusorios norte, sur y oriente en la Ciudad de México; y que reforma el similar 3/2016, que crea los centros de justicia penal federal en la Ciudad de México, con sede en los reclusorios oriente, sur y norte y el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 13 de noviembre de 2019, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Jorge Antonio Cruz Ramos, Alejandro Sergio González Bernabé, Rosa Elena González Tirado y Martha María del Carmen Hernández Álvarez.- Ciudad de México, a 29 de noviembre de 2019.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 23/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS SÉPTIMO Y DECIMOCUARTO DE DISTRITO DE PROCESOS PENALES FEDERALES EN LA CIUDAD DE MÉXICO, CON RESIDENCIA EN EL RECLUSORIO SUR DE ESTA CIUDAD; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DE LOS CITADOS ÓRGANOS JURISDICCIONALES; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA MATERIA Y LAS SEDES INDICADAS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración y Creación de Nuevos órganos y la Dirección General de Gestión Judicial llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+QUINTO. Las Oficinas de Correspondencia Común que dan servicio a los órganos que concluyen funciones fijarán en un lugar visible un aviso que contenga el origen y destino de los asuntos reasignados, para consulta de las personas interesadas.
