@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2022-05-16"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -469,9 +469,11 @@ II. Quienes propongan algún aspirante deberán anexar la documentación necesar
 
 III. Recibidas las propuestas, la Comisión Legislativa analizará los documentos de los aspirantes para determinar quienes cumplen con los requisitos para ocupar el cargo y con base en ello elaborará una lista de candidatos;
 
-IV. La Comisión Legislativa emitirá un dictamen en el que se informe al Pleno del Congreso del Estado qué candidatos cumplen con los requisitos, a fin de que dicho órgano soberano elija a los Consejeros con el voto de la mayoría de los Diputados que integran el Congreso del Estado;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-El dictamen será sometido a la consideración del Pleno del Congreso del Estado en la sesión ordinaria siguiente a la fecha en que haya sido emitido por la Comisión Legislativa y en caso de que esté en receso, se convocará inmediatamente a un período extraordinario; y
+IV. La Comisión Legislativa emitirá un dictamen en el que se informe al Pleno del Congreso del Estado que candidatos cumplen con los requisitos, a fin de que dicho órgano soberano elija a los Consejeros con el voto de la mayoría de los Diputados que integran el Congreso del Estado. En caso de que el dictamen plantee una propuesta de integración, ésta deberá en atención a las propuestas recibidas, respetar el principio de paridad de género;
+
+El dictamen será sometido a la consideración del Pleno del Congreso del Estado en la sesión ordinaria siguiente a la fecha en que haya sido emitido por la Comisión Legislativa y en caso de que este en receso, se convocara inmediatamente a un periodo extraordinario; la elección deberá en atención a las propuestas recibidas, respetar el principio de paridad de género; y
 
 V. Una vez electos los Consejeros, éstos rendirán la protesta de Ley ante el Congreso del Estado.
 
@@ -1264,3 +1266,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 La Comisión de Derechos Humanos del Estado de Aguascalientes contará con un plazo de quince días naturales contados a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a su normatividad reglamentaria e interna a fin de adecuarla con las modificaciones legales aprobadas.
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 209.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
