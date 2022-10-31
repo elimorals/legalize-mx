@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-22736"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-19"
-last_updated: "2021-03-01"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 19 de noviembre de 2001.
 
@@ -123,7 +123,9 @@ XIII.- Capacitar a mujeres de los distintos ámbitos para contribuir a la genera
 
 XIV.- Promover el acceso de las mujeres a servicios integrales de atención a la salud, en condiciones de calidad y tomando en cuenta las características particulares de su ciclo de vida, su condición social y su ubicación geográfica;
 
-XV.- Impulsar, en coordinación con los órganos de gobierno y sociales, la conformación y consolidación del sistema de Centros Integrales de Apoyo a la Mujer; dar seguimiento y evaluar sus programas, proyectos y acciones, emitir opiniones al respecto; así como promover la profesionalización y formación permanente de su personal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XV.- Impulsar, en coordinación con los órganos de gobierno y sociales, la conformación y consolidación de la Casa de Medio Camino y de los Centros de Atención y Prevención Integral de la Violencia de Genero; dar seguimiento y evaluar sus programas, proyectos y acciones, emitir opiniones al respecto; así como promover la profesionalización y formación permanente de su personal;
 
 XVI.- Impulsar acciones que contribuyan a resolver el problema de la violencia contra las mujeres, en todas sus modalidades, priorizando su prevención, promoviendo la defensa y la protección de los derechos humanos de la mujer, en todas las etapas de su vida y ámbito de desarrollo;
 
@@ -141,11 +143,13 @@ XXI.- Promover, difundir y publicar obras relacionadas con las materias objeto d
 
 XXII.- Promover las aportaciones de recursos provenientes de dependencias e instituciones públicas; organizaciones privadas y sociales; organismos internacionales y regionales y particulares interesados en apoyar el logro de los objetivos y atribuciones del Instituto, la aceptación de recursos internacionales deberá contar con la aprobación unánime de la Junta de Gobierno;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-XXIII.- Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres;
+XXIII.- Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes;
 
-XXIV.- Elaborar el Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres y someterlo a aprobación del titular del Poder Ejecutivo, así como actualizar periódicamente el diagnóstico sobre la situación de las mujeres y los hombres, en relación con los avances y la operatividad del mismo;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXIV.- Elaborar el Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes, de conformidad con los lineamientos que expida el Sistema para la Igualdad y someterlo a aprobación del titular del Poder Ejecutivo, así como actualizar diagnóstico sobre la situación de las mujeres y los hombres, en relación con los avances y la operatividad del mismo;
 
 XXV.- Promover e incentivar investigaciones y estudios que contribuyan a profundizar en el conocimiento de la problemática de la mujer en los diversos campos de la realidad social, así como la adecuada recopilación, sistematización y difusión de la información;
 
@@ -155,15 +159,11 @@ XXVII.- Emitir los lineamientos normativos que orienten su quehacer; y
 
 XXVIII.- Las demás que le señale éste y otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
-
-###### ARTICULO 7°.
-
-El Instituto constituirá un sistema de planeación y debida ejecución acorde con el Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres, con las dependencias públicas federales, estatales y municipales, así como con instituciones del sector privado y con los diferentes grupos sociales del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 7º.
 
-El Instituto constituirá un sistema de planeación y debida ejecución acorde con el Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres, con las dependencias públicas federales, estatales y municipales, así como con instituciones del sector privado y con los diferentes grupos sociales del Estado de Aguascalientes.
+El Instituto constituirá un sistema de planeación y debida ejecución acorde con el Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes, con las dependencias públicas federales, estatales y municipales, así como con instituciones del sector privado y con los diferentes grupos sociales del Estado de Aguascalientes.
 
 ### CAPITULO SEGUNDO. De los Organos de Administración
 
@@ -177,11 +177,11 @@ II.- La Directora General.
 
 #### SECCION I. De la Junta de Gobierno
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 9º.
 
-La Junta de Gobierno es el órgano de administración de mayor jerarquía del Instituto y se integrará con quince miembros propietarios que serán los siguientes:
+La Junta de Gobierno es el órgano de administración de mayor jerarquía del Instituto y se integrará con trece miembros propietarios que serán los siguientes:
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
 
@@ -197,7 +197,7 @@ b).- Secretaría de Desarrollo Social;
 
 c).- Secretaría de Finanzas;
 
-d).- Secretaría de Desarrollo Económico;
+d).- (DEROGADO, P.O. 31 DE OCTUBRE DE 2022)
 
 > <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
 
@@ -207,13 +207,11 @@ e).- Secretaría de Salud;
 
 f).- Instituto de Educación de Aguascalientes;
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+g).- (DEROGADO, P.O. 31 DE OCTUBRE DE 2022)
 
-g).- Secretaría para el Desarrollo Rural y Agroempresarial;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
-
-h).- Coordinación General de Planeación y Proyectos;
+h).- Secretaría de Planeación, Participación y Desarrollo;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -223,9 +221,9 @@ III.- (DEROGADA, P.O. 10 DE FEBRERO DE 2003)
 
 IV.- Cuatro mujeres ciudadanas mexicanas en pleno ejercicio de sus derechos, que provengan de organizaciones sindicales, campesinas, no gubernamentales, empresariales, asociaciones o sociedades civiles o mercantiles, o bien, profesoras e investigadoras, representativas en la docencia, investigación, de instituciones públicas, profesionistas, empleadas y en general, mujeres representativas de los diferentes sectores de la sociedad que hayan realizado trabajos a favor de las mujeres y que garanticen la pluralidad de ideas.
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-V.- Un integrante de la Comisión de Equidad de Género del H. Congreso del Estado, el cual será designado por la propia Comisión y aprobado por el Pleno.
+V.- Un integrante de la Comisión de Igualdad Sustantiva y Equidad de Género del H. Congreso del Estado, el cual será designado por la propia Comisión y aprobado por el Pleno.
 
 Salvo el titular del Poder Ejecutivo, los demás integrantes actuarán como vocales.
 
@@ -237,9 +235,9 @@ Los integrantes de la Junta de Gobierno no gozarán de alguna compensación econ
 
 La Junta de Gobierno, con la aprobación de la mayoría de sus asistentes, podrá invitar a representantes de otras dependencias e instituciones públicas federales, estatales o municipales, así como organizaciones privadas y sociales, no comprendidas en este artículo, con el fin de tratar temas específicos que requieren de conocimientos más precisos. Estos invitados podrán participar con voz pero sin voto.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-Las mujeres vocales propietarias señaladas en la fracción IV de este artículo se elegirán por mayoría calificada de los miembros del H. Congreso del Estado, previa convocatoria publicada por parte de la Comisión de Equidad de Género del Congreso del Estado, con aquellas propuestas presentadas por sus integrantes y por organismos sociales, científicos, culturales, empresariales y académicos. Por cada propietaria se nombrará su respectiva suplente. Durarán en su encargo tres años, y en su caso, podrán ser reelectas para un período más.
+Las mujeres vocales propietarias señaladas en la fracción IV de este artículo se elegirán por mayoría calificada de los miembros del H. Congreso del Estado, previa convocatoria publicada por parte de la Comisión de Igualdad Sustantiva y Equidad de Género del Congreso del Estado, con aquellas propuestas presentadas por sus integrantes y por organismos sociales, científicos, culturales, empresariales y académicos. Por cada propietaria se nombrará su respectiva suplente. Durarán en su encargo tres años, y en su caso, podrán ser reelectas para un periodo más.
 
 ###### ARTICULO 10.
 
@@ -251,9 +249,9 @@ Podrá convocarse a sesión extraordinaria por acuerdo de su Presidente o a peti
 
 La Junta de Gobierno tendrá las siguientes facultades indelegables:
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-I.- Designar a la Directora General del Instituto;
+I.- Ratificar la designación de la Directora General del Instituto, realizada por la persona Titular del Poder Ejecutivo.
 
 II.- Establecer, en congruencia con el Plan Estatal de Desarrollo y los programas sectoriales, las políticas generales, los planes estratégicos de mediano y largo plazo, los planes operativos anuales, los lineamientos y prioridades a las que deberá sujetarse el Instituto;
 
@@ -289,11 +287,11 @@ XIV.- Las demás que le señale ésta y otros ordenamientos legales.
 
 #### SECCION II. De la Directora General
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 12.
 
-La Directora General del Instituto será nombrada por mayoría calificada del Pleno de la Junta de Gobierno; durará en su encargo tres años y podrá ser reelecta por una sola vez.
+La Directora General del Instituto será nombrada por la persona Titular del Poder Ejecutivo; y será ratificada por mayoría calificada del Pleno de la Junta de Gobierno, durará en su encargo tres años y podrá ser reelecta por una sola vez.
 
 ###### ARTICULO 13.
 
@@ -301,11 +299,31 @@ Para ser designada Directora General del Instituto se deberá cumplir con los si
 
 I.- Ser ciudadana mexicana en pleno ejercicio de sus derechos y comprobar una residencia continua mínima de cinco años en el Estado;
 
-II.- Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiere conocimiento y experiencia en materia administrativa;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+II.- Haber desempeñado cargos cuyo ejercicio requiera conocimiento y experiencia en materia administrativa;
 
 III.- Haber realizado acciones en favor de las mujeres o en actividades relacionadas con la promoción de la igualdad de oportunidades para las mujeres y demás materias objeto de esta Ley; y
 
-IV.- Los demás que prevé el Artículo 14 de la Ley del Control de Entidades Paraestatales del Estado de Aguascalientes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+IV.- Haber recibido título nivel licenciatura debidamente acreditado por alguna de las instituciones de educación superior, con reconocimiento y validez oficial conforme a la Ley de Profesiones del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+V.- No ostentar cargo de Presidencia o Secretaria en algún Partido Político;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VI.- Contar con conocimientos bastos y acreditables en materia de Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VII.- No encontrarse inhabilitada para ejercer cargos públicos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VIII.- Los demás que prevé el Articulo 14 de la Ley del Control de Entidades Paraestatales del Estado de Aguascalientes.
 
 ###### ARTICULO 14.
 
@@ -355,9 +373,9 @@ XVII.- Establecer enlaces nacionales e internacionales de acuerdo con los intere
 
 XVIII.- Promover y suscribir convenios de coordinación y colaboración con las dependencias de las Administraciones Públicas Federal, Estatal y Municipales, instituciones de educación superior públicas y privadas, así como con otras organizaciones nacionales e internacionales que no sean facultad exclusiva del Gobernador del Estado, para los fines del Instituto;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-XIX.- Mantener un enlace continuo con la Comisión de Equidad de Género del H. Congreso del Estado;
+XIX.- Mantener un enlace continuo con la Comisión de Igualdad Sustantiva y Equidad de Género del H. Congreso del Estado;
 
 XX.- Proporcionar la información solicitada por los órganos de la Contraloría del Estado;
 
@@ -567,15 +585,15 @@ Para el mejor cumplimiento del objeto del Instituto y con el fin de lograr la pa
 
 El Consejo estará integrado por una Presidenta que será la Directora General del Instituto, un Secretario Técnico que será el responsable de la Dirección de Relaciones Interinstitucionales y un Secretario de Actas que será electo por los integrantes del Consejo, así como vocales que serán representantes de las siguientes instancias:
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-a) La Comisión de Equidad de Género del H. Congreso del Estado.
+a) La Comisión de Igualdad Sustantiva y Equidad de Género del H. Congreso del Estado.
 
 b) La Dirección de Desarrollo Familiar del Sistema del Desarrollo Integral de la Familia del Estado de Aguascalientes.
 
 c) La Secretaría de Desarrollo Social.
 
-d) La Secretaría de Desarrollo Económico.
+d) (DEROGADO, P.O. 31 DE OCTUBRE DE 2022)
 
 e) El Instituto Cultural de Aguascalientes.
 
@@ -639,21 +657,23 @@ VII.- Las demás que le señalen esta Ley y demás disposiciones aplicables.
 
 El Consejo Consultivo funcionará en los términos del reglamento que para tal efecto él mismo expida y sus decisiones serán tomadas por la mayoría de sus integrantes.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-### CAPITULO CUARTO. Del Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres
+### CAPITULO CUARTO. Del Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 26.
 
-El Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres es el conjunto de políticas y acciones tendientes a conocer la situación de las mujeres en relación con los hombres, a través de información y estadísticas desagregadas, que permitan establecer soluciones para que las mujeres participen en todos los ámbitos de la vida pública, social, cultural y política sin discriminación y en igualdad de oportunidades, así como para apoyar para que los hombres puedan participar más igualitariamente en la vida familiar; las cuales deberán ser incorporada y ejecutadas por las dependencias y entidades de las Administraciones Públicas Estatal y Municipales, los órganos de impartición de justicia, así como el H. Congreso del Estado, en el ejercicio de sus atribuciones y funciones.
+El Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes es el conjunto de políticas y acciones tendientes a conocer la situación de las mujeres en relación con los hombres, a través de información y estadísticas desagregadas, que permitan establecer soluciones para que las mujeres participen en todos los ámbitos de la vida pública, social, cultural y política sin discriminación y en igualdad de oportunidades, así como para apoyar para que los hombres puedan participar más igualitariamente en la vida familiar, las cuales deberán ser incorporada y ejecutadas por las dependencias y entidades de las Administraciones Publicas Estatal y Municipales, los órganos de impartición de justicia, así como el H. Congreso del Estado, en el ejercicio de sus atribuciones y funciones.
 
-Como resultado de la evaluación del Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres, el Instituto podrá emitir opiniones y propuestas dirigidas a los legisladores, autoridades y servidores públicos a que se refiere el párrafo anterior, relacionadas con la ejecución del citado Programa.
+Como resultado de la evaluación del Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes, el Instituto podrá emitir opiniones y propuestas dirigidas a los legisladores, autoridades y servidores públicos a que se refiere el párrafo anterior, relacionadas con la ejecución del citado Programa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 27.
 
-El Programa Estatal para la No Discriminación y la Equidad entre Hombres y Mujeres deberá establecer por lo menos:
+El Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes deberá establecer por lo menos:
 
 I.- Los objetivos, estrategias, líneas de acción y acciones particulares para alcanzar el desarrollo integral y democrático de las mujeres, así como la mayor incorporación de los hombres en la vida familiar; y
 
@@ -661,11 +681,11 @@ II.- La participación que corresponderá a las dependencias y entidades del Est
 
 El Programa deberá ser congruente con las directrices fundamentales del Plan Estatal de Desarrollo. El avance en sus metas, líneas estratégicas, acciones, su incidencia y resultados de ejecución, se evaluarán de manera permanente y periódica por la Junta de Gobierno.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 28.
 
-Para la elaboración del Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres se observará lo siguiente:
+Para la elaboración del Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes se observará lo siguiente:
 
 I.- La Directora General convocará con toda oportunidad a todas las dependencias y entidades del Estado, para que hagan llegar al Instituto informes sobre los objetivos, estrategias, líneas de acción y acciones particulares que cada institución ejecutará de acuerdo con su programación y presupuestación anual en relación con las materias objeto del Instituto;
 
@@ -673,21 +693,21 @@ I.- La Directora General convocará con toda oportunidad a todas las dependencia
 
 II.- La Junta de Gobierno pedirá la opinión del Consejo Consultivo, sobre los objetivos, estrategias, líneas de acción y acciones particulares que se requieran para avanzar en la igualdad sustantiva entre hombres y mujeres;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-III.- La Junta de Gobierno, con la información recabada, aprobará el Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres y lo remitirá para su aprobación al titular del Ejecutivo Estatal;
+III.- La Junta de Gobierno, con la información recabada, aprobará el Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes y lo remitirá para su aprobación al titular del Ejecutivo Estatal;
 
 IV.- La Junta de Gobierno podrá realizar foros, consultas o cualquier otro instrumento democrático para garantizar la participación ciudadana en la elaboración del Programa; y
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-V.- El Programa Estatal para la No Discriminación y la igualdad Sustantiva entre Hombres y Mujeres una vez aprobado tendrá una vigencia anual, sin perjuicio de ser modificado, actualizado, corregido y reformado por la Junta de Gobierno. El texto del mismo, así como sus reformas, deberán ser publicados en el Periódico Oficial del Estado.
+V.- El Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes una vez aprobado tendrá una vigencia anual, sin perjuicio de ser modificado, actualizado, corregido y reformado por la Junta de Gobierno. El texto del mismo, así como sus reformas, deberán ser publicados en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### ARTICULO 29.
 
-El Programa Estatal para la No Discriminación y la Igualdad Sustantiva entre Hombres y Mujeres propiciará la colaboración y participación activa de las autoridades federales, estatales y municipales y de la sociedad en su conjunto.
+El Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes propiciara la colaboración y participación activa de las autoridades federales, estatales y municipales y de la sociedad en su conjunto.
 
 ### CAPITULO QUINTO. De la Ejecución de las Decisiones del Instituto
 
@@ -914,3 +934,15 @@ Con la entrada en vigor del presente Decreto, quedan sin efectos las disposicion
 ###### ARTÍCULO TERCERO.
 
 Dentro de los ciento ochenta días siguientes a la publicación del presente Decreto se deberán expedir todas aquellas disposiciones normativas y reglamentarias necesarias para su cumplimiento.
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 211.- SE REFORMA LA LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede a partir de la entrada en vigor del presente Decreto un término de 60 días hábiles, a efecto de que el Instituto Aguascalentense de las Mujeres realice las modificaciones a su Reglamento Interior, en las cuales deberá incluir la definición de “Casa de Medio Camino”.
