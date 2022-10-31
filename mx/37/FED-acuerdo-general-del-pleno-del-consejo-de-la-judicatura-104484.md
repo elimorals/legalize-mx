@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2022-10-28"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -569,11 +569,11 @@ En el supuesto de que se presenten demandas en forma masiva, el personal adscrit
 
 Para no afectar la recepción, registro y turno de los diversos asuntos y promociones que se presenten en dichas oficinas, por excepción a lo dispuesto en el primer párrafo del artículo 37 del presente Acuerdo, las demandas presentadas en forma masiva se registrarán y turnarán conforme las cargas de trabajo lo permitan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 16 DEL ACUERDO GENERAL 23/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 32.
 
-Para el turno de los nuevos asuntos de los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México, las Oficinas de Correspondencia Común que les presten servicio funcionarán durante dos semanas en cada uno de los reclusorios preventivos en los que se encuentren ubicados esos órganos jurisdiccionales, alternando su operación, entre el reclusorio norte y el reclusorio oriente, continuando en ese orden sucesivamente, con los lineamientos y horario que se indican en los siguientes párrafos.
+Para el turno de los nuevos asuntos de los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México, las Oficinas de Correspondencia Común que les presten servicio funcionarán durante dos semanas en cada uno de los reclusorios preventivos en los que se encuentren ubicados esos órganos jurisdiccionales, alternando su operación entre el reclusorio norte y el reclusorio oriente, continuando en ese orden sucesivamente, con los lineamientos y horario que se indican en los siguientes párrafos.
 
 > <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -587,9 +587,9 @@ En las dos semanas en que funcione la Oficina de Correspondencia Común en cada 
 
 En la primera semana la guardia se integrará por 1 Juzgado de Distrito, en la segunda por otro de ellos, y en cada periodo de guardia, uno de los tres órganos jurisdiccionales por sede se irá alternando para no recibir asuntos en ese periodo y así sucesivamente.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO POR ACUERDO GENERAL 23/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2022)</small>
 
-Para los efectos del párrafo anterior, los Juzgados de Distrito seguirán el rol de guardias, establecido en el Acuerdo General 23/2022 del Pleno del Consejo de la Judicatura Federal.
+Para los efectos del párrafo anterior, los Juzgados de Distrito seguirán el rol de guardias establecido en el Acuerdo General 23/2022 del Pleno del Consejo de la Judicatura Federal.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
@@ -6522,3 +6522,17 @@ DÉCIMO OCTAVO. La Comisión Especial se integrará por la o el Presidente del C
 DÉCIMO NOVENO. La Secretaría Ejecutiva de Carrera Judicial, en coordinación con la Dirección General de Asuntos Jurídicos, deberá presentar a consideración del Pleno del Consejo, con el visto bueno de la Comisión de Carrera Judicial, la propuesta de armonización al Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, publicado en el Diario Oficial de la Federación el 3 de noviembre de 2021.
 
 > <small>[N. DE E. VÉASE ANEXO TÉCNICO DEL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL EN EL D.O.F. DE 28 DE OCTUBRE DE 2022, PÁGINAS DE LA 272 A LA 280.]</small>
+
+D.O.F. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 23/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS SÉPTIMO Y DECIMOCUARTO DE DISTRITO DE PROCESOS PENALES FEDERALES EN LA CIUDAD DE MÉXICO, CON RESIDENCIA EN EL RECLUSORIO SUR DE ESTA CIUDAD; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DE LOS CITADOS ÓRGANOS JURISDICCIONALES; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA MATERIA Y LAS SEDES INDICADAS; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración y Creación de Nuevos órganos y la Dirección General de Gestión Judicial llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+QUINTO. Las Oficinas de Correspondencia Común que dan servicio a los órganos que concluyen funciones fijarán en un lugar visible un aviso que contenga el origen y destino de los asuntos reasignados, para consulta de las personas interesadas.
