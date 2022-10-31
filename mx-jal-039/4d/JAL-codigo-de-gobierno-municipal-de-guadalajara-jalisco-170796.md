@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-09-22"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 22 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 31 DE OCTUBRE DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -2588,6 +2588,10 @@ XXVII. Establecer, implementar y operar una política permanente de verificació
 XXVIII. Llevar a cabo el desalojo de locatarios de mercados municipales o centrales de abastos, ordenado por autoridad administrativa o judicial; y en los casos que así proceda, asegurar precautoriamente los bienes y mercancías hasta en tanto se garantice el pago de las sanciones impuestas por infringir las disposiciones aplicables; y
 
 XXIX. Rendir los informes previos y justificados en los términos requeridos por la Sindicatura, cuando se señalen como autoridades responsables a la Dirección de Inspección y Vigilancia o a sus direcciones dependientes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 31 DE OCTUBRE DE 2022)</small>
+
+XXX. Realizar visitas de inspección o verificación de conformidad con las disposiciones correspondientes, con el objeto de comprobar el estricto cumplimiento de la reglamentación municipal aplicable a la construcción, instalación, uso, mantenimiento o reparación de estructuras para sistemas de telecomunicaciones.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -8148,3 +8152,13 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Las presentes reformas entrarán en vigor el día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO DE ESTRUCTURAS PARA SISTEMAS DE TELECOMUNICACIONES DEL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
