@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-138316
 country: "mx"
 rank: "ley"
 publication_date: "2019-09-30"
-last_updated: "2020-05-18"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de septiembre de 2019.
 
@@ -69,9 +69,11 @@ LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE AGUASC
 
 La presente Ley es de orden público, interés social y de observancia general en todo el Estado de Aguascalientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 2°.
 
-La presente Ley tiene por objeto:
+La presente Ley tiene por objeto, además de proteger los derechos de los no fumadores, a vivir y convivir en espacios cien por ciento libres de humo de tabaco y emisiones, lo siguiente:
 
 I. La protección eficaz de la población a la exposición al humo de tabaco, basada en evidencia científica que promueve el derecho a la vida, la salud, la integridad física, la seguridad y ambientes saludables, misma protección que se aplicará al consumo de sustancias en los cigarrillos o dispositivos electrónicos que expiden vapores con o sin nicotina en esencias o saborizantes;
 
@@ -83,15 +85,31 @@ IV. Implementar políticas públicas encaminadas a prevenir la morbimortalidad y
 
 V. Generar mecanismos de colaboración con asociaciones públicas y privadas involucradas en el control del tabaco, a fin de establecer programas de prevención que permitan disminuir la incidencia de enfermedades derivadas al consumo, inhalación y combustión del humo de tabaco en cualquiera de sus formas;
 
-VI. Crear los mecanismos de coordinación con instancias y dependencias para el cabal cumplimiento de normas, leyes y reglamentos relacionados con el control del tabaco, así como facilitar la participación y denuncia ciudadana; y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-VII. Establecer las sanciones para quienes incumplan con lo previsto en este ordenamiento.
+VI. Crear los mecanismos de coordinación con instancias y dependencias para el cabal cumplimiento de normas, leyes y reglamentos relacionados con el control del tabaco, así como facilitar la participación y denuncia ciudadana;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VII. Establecer las sanciones para quienes incumplan con lo previsto en este ordenamiento; y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VIII. Instituir medidas para reducir el consumo de tabaco, particularmente en los menores.
 
 ###### Artículo 3°.
 
 Para los efectos de la presente Ley se entenderá por:
 
 I. Área Física Cerrada: Todo espacio con acceso al público, cubierto por un techo o que tenga más de una pared, independientemente del material utilizado para su construcción, y de que la estructura sea permanente o temporal;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+I Bis. Cigarrillo: Cigarro pequeño de picadura envuelta en un papel de fumar;
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+I Ter. Cigarro o Puro: Rollo de hojas de tabaco, que enciende por un extremo y se fuma por el opuesto;
 
 II. Denuncia Ciudadana: Hacer del conocimiento a la autoridad competente respecto a los hechos que constituyan una infracción a las disposiciones contenidas en esta Ley, puede ser de manera personal, telefónica o electrónica;
 
@@ -119,7 +137,9 @@ XII. Ley de Salud: A la Ley de Salud del Estado de Aguascalientes;
 
 XIII. Ley General: A la Ley General para el Control del Tabaco;
 
-XIV. Lugar de Trabajo: A todo espacio utilizado por las personas durante su empleo, jornada laboral, trabajo o comisión, temporal o permanente, incluye además los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo, cargo o comisión entre ellos, con carácter enunciativo pero no limitativo, ascensores, baños, cafeterías, cobertizos, comedores, cubos de escalera, estacionamientos, naves industriales, instalaciones conjuntas, lavabos, pasillos, salones, vestíbulos y edificaciones anexas tales como: casa
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIV. Lugar de Trabajo: A todo espacio utilizado por las personas durante su empleo, jornada laboral, trabajo o comisión, temporal o permanente, incluye además los vehículos oficiales que los servidores públicos utilizan para realizar el trabajo, los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de su empleo, cargo o comisión entre ellos, con carácter enunciativo pero no limitativo, ascensores, baños, cafeterías, cobertizos, comedores, cubos de escalera, estacionamientos, naves industriales, instalaciones conjuntas, lavabos, pasillos, salones, vestíbulos y edificaciones anexas tales como: casa
 
 XV. Municipio: A la división territorial administrativa en que se organiza el estado de Aguascalientes y está regido por un Ayuntamiento;
 
@@ -187,7 +207,9 @@ XI. Sitios donde se almacene o expenda gasolina, gas licuado de petróleo, gas c
 
 XII. En las áreas físicas cerradas de los Centros de trabajo, empresas e industrias o cualquier otro establecimiento o lugar que sean utilizados por las personas durante su empleo, jornada laboral, trabajo o comisión;
 
-XIII. Vehículos destinados al transporte público de pasajeros, de transporte escolar, de transporte de personal y en taxis, los conductores de los vehículos referidos, se abstendrán de fumar, consumir o tener encendido cualquier producto del tabaco, además serán responsables de vigilar que los pasajeros acaten dicha prohibición, con la estricta vigilancia de los permisionarios o concesionarios, propietarios y/o inspectores de los medios de transporte, mismos que deberán colocar señalización clara y visible al respecto;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XIII. Vehículos destinados al transporte público de pasajeros, de transporte escolar, de transporte de personal, taxis y vehículos oficiales utilizados por las dependencias y entidades de los Gobiernos Estatal y Municipales, los Poderes Legislativo y Judicial del Estado, así como de los Órganos Constitucionales Autónomos; los conductores de los vehículos referidos, se abstendrán de fumar, consumir o tener encendido cualquier producto del tabaco, además serán responsables de vigilar que los pasajeros acaten dicha prohibición, con la estricta vigilancia de los permisionarios o concesionarios, propietarios y/o inspectores de los medios de transporte, mismos que deberán colocar señalización clara y visible al respecto;
 
 XIV. Los paraderos y terminales de vehículos del servicio de transporte público;
 
@@ -455,7 +477,9 @@ VII. Las acciones implementadas se realizarán con absoluto respeto a los derech
 
 El ISSEA, promoverá la participación ciudadana en la presente materia de prevención del tabaquismo y el control de los productos del tabaco, mediante las siguientes acciones:
 
-I. Promoción de los espacios que protegen la salud contra la exposición al humo de tabaco;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+I. Promoción de los espacios cien por ciento libres de humo de tabaco y emisiones de dispositivos o cigarrillos electrónicos que expiden vapores con o sin nicotina y esencias o saborizantes y de los espacios que protegen la salud contra la exposición al humo de tabaco.
 
 II. Promoción de la salud comunitaria;
 
@@ -640,3 +664,9 @@ P.O. 18 DE MAYO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 210.- SE REFORMA LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE AGUASCALIENTES".]
+
+Artículo Único. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
