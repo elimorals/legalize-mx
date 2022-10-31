@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-profesiones-del-estado-de-aguascalientes-16091"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-25"
-last_updated: "2017-07-03"
+last_updated: "2022-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE PROFESIONES DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROFESIONES DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 31 DE OCTUBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROFESIONES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022 (ABROGADO).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 25 de julio de 1999.
 
@@ -746,3 +748,19 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PROFESIONES DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Se abroga la Ley de Profesiones del Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 25 de julio de 1999.
+
+TERCERO. Se reconoce la vigencia y validez de las cédulas profesionales expedidas por la Dirección General de Profesiones de la Secretaría de Educación Pública, y por las Autoridades competentes en otras Entidades Federativas, con apago a sus Leyes.
+
+CUARTO. La Autoridad Educativa Estatal deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a sesenta días naturales contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellas en lo que no contravengan a este Decreto.
+
+QUINTO. La Autoridad Educativa Estatal deberá aprobar y publicar un primer listado de las profesiones a que se refiere el Artículo 6° de esta Ley, en un término no mayor de sesenta días naturales a partir de la entrada, en vigor de este Decreto.
+
+SEXTO. Se derogan todas las disposiciones contrarias a la presente Ley.
