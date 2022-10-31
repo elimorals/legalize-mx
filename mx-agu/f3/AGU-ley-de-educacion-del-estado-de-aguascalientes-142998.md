@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2022-04-11"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -179,9 +179,13 @@ LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
 ### Capítulo I. Generalidades
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 1°.
 
-La presente Ley garantiza el derecho a la educación consagrado en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado Mexicano sea parte regula la Educación que impartan, promuevan y atiendan los Gobiernos Estatal y Municipal, los Organismos Descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios en el Estado de Aguascalientes, de conformidad con los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Aguascalientes, en la Ley General de Educación y normatividad que de ellas emane.
+La presente Ley garantiza el derecho a la educación, conforme a lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado Mexicano sea parte.
+
+Tiene por objeto regular la educación que impartan el Estado y sus Municipios, Organismos Descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios en el Estado de Aguascalientes, de conformidad con los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Aguascalientes, en la Ley General de Educación y normatividad que de ellas emane.
 
 ###### Artículo 2°.
 
@@ -189,13 +193,19 @@ El Estado priorizará el interés superior de niñas, niños, adolescentes y jó
 
 El Estado fomentará la participación activa de los educandos, madres y padres de familia o tutores, maestras y maestros, así como los distintos actores involucrados en el proceso educativo y, en general, de todo el sistema educativo del Estado, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regionales del Estado de Aguascalientes, a fin de contribuir al desarrollo económico, social y cultural de sus habitantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 3°.
 
-La aplicación y vigilancia del cumplimiento de esta Ley le compete a la Autoridad Educativa Estatal en forma concurrente con la Secretaría de Educación Pública, en (sic) base a las disposiciones aplicables en la materia educativa. A los Ayuntamientos de los municipios les corresponde esta obligación en los términos de su competencia según los Artículos 3° y 115 Constitucionales, y el Artículo 4 de la Ley General de Educación.
+La aplicación y vigilancia del cumplimiento de esta Ley le compete a la Autoridad Educativa Estatal en forma concurrente con la Secretaría, con base en las disposiciones aplicables en la materia educativa. A los Ayuntamientos de los municipios del Estado, les corresponde esta obligación en los términos de su competencia según los Artículos 3° y 115 de la Constitución Política de los Estados Unidos Mexicanos, y el Artículo 4° de la Ley General de Educación.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2022)</small>
 
 Para efectos de esta Ley se entiende por:
 
-I. Autoridad Educativa Federal, o SEP: a la Secretaría de Educación Pública de la Administración Pública Federal;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+I. Autoridad Educativa Federal, o Secretaría: a la Secretaría de Educación Pública de la Administración Pública Federal;
 
 II. Autoridad Educativa del Estado de Aguascalientes: al titular del Poder Ejecutivo Estatal y al Organismo Público responsable de la Dirección de la Educación en el Estado: el Instituto de Educación de Aguascalientes;
 
@@ -341,7 +351,9 @@ XXVIII. Proporcionar programas complementarios en materia de educación afectiva
 
 XXIX. Coadyuvar en la elaboración y cumplimiento de programas que tengan por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, en términos de lo dispuesto por la normatividad aplicable;
 
-XXX. Adoptar las medidas para que, con independencia de su nacionalidad o condición migratoria, las niñas, niños, adolescentes o jóvenes que utilicen los servicios educativos públicos, ejerzan los derechos y gocen de los beneficios con los que cuentan los educandos nacionales, instrumentando estrategias para facilitar su incorporación y permanencia en el Sistema Educativo Nacional;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXX. Adoptar las medidas para que, con independencia de su nacionalidad o condición migratoria, las niñas, niños, adolescentes o jóvenes que utilicen los servicios educativos públicos, ejerzan los derechos y gocen de los beneficios con los que cuentan los educandos nacionales, instrumentando estrategias para facilitar su incorporación y permanencia en el Sistema Educativo Estatal;
 
 XXXI. Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
 
@@ -367,9 +379,11 @@ III. Otros organismos que las autoridades estatales o municipales decidan crear 
 
 ### Capítulo I. De la Función de la Nueva Escuela Mexicana
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 11.
 
-El Estado, a través de la nueva escuela mexicana, buscará la equidad, la excelencia y la mejora continua en la educación, para lo cual colocará al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Tendrá como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Nacional, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
+El Estado, a través de la nueva escuela mexicana, buscará la equidad, la excelencia y la mejora continua en la educación, para lo cual colocará al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Tendrá como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
 
 ###### Artículo 12.
 
@@ -381,7 +395,9 @@ II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia,
 
 III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
-IV. Combatir las causas de discriminación y violencia en las diferentes regiones del país y el Estado de Aguascalientes, especialmente la que se ejerce contra la niñez y las mujeres y personas en situación vulnerable;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+IV. Combatir las causas de discriminación y violencia en las diferentes regiones del Estado, especialmente la que se ejerce contra los niños, niñas, adolescentes y las mujeres y personas en situación vulnerable; y
 
 V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
 
@@ -565,9 +581,11 @@ XXII. Las necesarias para garantizar el carácter nacional de la educación bás
 
 #### Sección Segunda. De las Facultades Concurrentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 21.
 
-La Autoridad Educativa Estatal tendrá las siguientes atribuciones de manera concurrentes (sic) con la Autoridad Educativa Federal:
+La Autoridad Educativa Estatal, de conformidad con la Ley General, tendrá las siguientes atribuciones de manera concurrente con la Autoridad Educativa Federal:
 
 I. Promover y prestar servicios educativos, distintos de los previstos en las fracciones I y V del artículo 114 de la Ley General de Educación, de acuerdo con las necesidades nacionales, regionales y estatales;
 
@@ -899,15 +917,21 @@ La obligatoriedad de la educación superior corresponde al Estado, el cual la ga
 
 Las políticas y directrices para este tipo educativo y sus instituciones se realizarán con base a lo establecido en la Ley General de Educación Superior.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 42.
 
-En el ámbito de su competencia, las autoridades educativas estatal y de los municipios concurrirán con la Autoridad Educativa Federal para garantizar la gratuidad de la educación en este tipo educativo de manera gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos indígenas y los grupos sociales más desfavorecidos para proporcionar la prestación de este servicio educativo en todo el territorio nacional. En todo momento se respetará el carácter de las instituciones a las que la ley otorga autonomía.
+En el ámbito de su competencia, las autoridades educativas estatal y de los municipios concurrirán con la Autoridad Educativa Federal para garantizar la gratuidad de la educación en este tipo educativo de manera gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos indígenas y los grupos sociales más desfavorecidos para proporcionar la prestación de este servicio educativo en todo el territorio del Estado. En todo momento se respetará el carácter de las instituciones a las que la ley otorga autonomía.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 43.
 
-La Autoridad Educativa Estatal establecerá el Registro Estatal de Opciones para Educación Superior, el cual tendrá por objetivo dar a conocer a la población los espacios disponibles en las instituciones de educación superior públicas y privadas de la entidad federativa, así como los requisitos para su acceso.
+La autoridad educativa estatal establecerá el Registro Estatal de Opciones para Educación Superior, el cual tendrá por objetivo dar a conocer a la población los espacios disponibles en las instituciones públicas de educación superior, así como los requisitos para su ingreso.
 
-Para tal efecto, la Autoridad Educativa Estatal dispondrá las medidas para que las instituciones de educación superior públicas y privadas de la entidad federativa proporcionen los datos para alimentar el Registro Estatal de Opciones para Educación Superior.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+Para tal efecto, la autoridad educativa estatal dispondrá las medidas para que las instituciones de educación superior públicas del Estado, proporcionen los datos para alimentar el Registro Estatal de Opciones para Educación Superior.
 
 La información del registro al que se refiere este artículo será pública y difundida de manera electrónica e impresa, a través de los medios de comunicación determinados por la Autoridad Educativa Estatal.
 
@@ -995,9 +1019,11 @@ VI. Fomentarán y apoyarán la celebración de eventos deportivos y la participa
 
 VII. Fomentar la participación de los educandos en actividades y talleres para desarrollar la cultura de la alimentación saludable en base a la actividad física que desarrollan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 54.
 
-La educación física tendrá los propósitos los siguientes:
+La educación física tendrá los propósitos siguientes:
 
 I. Propiciar la manifestación de habilidades motrices a partir de la práctica de actividades físico deportivas;
 
@@ -1195,6 +1221,8 @@ La Autoridad Educativa Estatal, en el ámbito de su competencia, promoverá la f
 
 #### Sección Primera. Del fomento de estilos de vida saludables en el entorno escolar
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ## TITULO QUINTO. DE LOS ACTORES DEL SISTEMA EDUCATIVO ESTATAL
 
 ### Capítulo I. Del Educando como Prioridad en el Sistema Educativo Estatal
@@ -1247,7 +1275,7 @@ La Autoridad Educativa Estatal ofrecerá servicios de orientación educativa, de
 
 ###### Artículo 74.
 
-La Autoridad Educativa Estatal, en el ámbito de su competencia, aplicará y vigilará el cumplimiento de los lineamientos que emita la Autoridad Educativa Federal sobre la distribución de los alimentos y bebidas preparados y procesados dentro de toda escuela y realizará acciones de vigilancia para que en los alimentos y bebidas que se preparen y procesen al interior de las escuelas cumplan con el valor nutritivo para la salud de los educandos.
+La Autoridad Educativa Estatal, en el ámbito de su competencia, aplicará y vigilará el cumplimiento de los lineamientos que emita la Autoridad Educativa Federal sobre la distribución de los alimentos y bebidas preparados y procesados dentro de toda escuela, en términos del artículo 75 de la Ley General de Educación.
 
 ###### Artículo 75.
 
@@ -1345,7 +1373,9 @@ VI. Promover su formación, capacitación y actualización de acuerdo con su eva
 
 VII. Impulsar su capacidad para la toma de decisiones cotidianas respecto a la planeación educativa;
 
-VIII. Otorgar, en términos de las disposiciones aplicables, un salario profesional digno, que permita a las maestras y los maestros de los planteles del Estado alcanzar un nivel de vida decoroso para ellos y su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y realizar actividades destinadas a su desarrollo personal y profesional, y
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+VIII. Otorgar, en términos de las disposiciones aplicables, un salario profesional digno, que permita a las maestras y los maestros de los planteles públicos del Estado alcanzar un nivel de vida decoroso para ellos y su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y realizar actividades destinadas a su desarrollo personal y profesional, y
 
 IX. Respetar sus derechos reconocidos en las disposiciones legales aplicables.
 
@@ -1471,9 +1501,11 @@ Todos los planteles educativos, públicos o privados, deben cumplir con las norm
 
 En la educación que impartan los particulares con autorización o con reconocimiento de validez oficial de estudios, debe demostrarse además el cumplimiento de las obligaciones señaladas en el artículo 147, fracción II de la Ley General de Educación.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 97.
 
-Las autoridades educativas estatal y municipales atenderán de manera prioritaria las escuelas que tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades y realizaran acciones, garantizará la existencia de baños y de agua potable para consumo humano con suministro continuo en cada inmueble de uso escolar público conforme lo establecido en el artículo 102 de la Ley General De Educación.
+Las autoridades educativas estatal y municipales, en el ámbito de su competencia atenderán de manera prioritaria las escuelas que tengan mayor posibilidad de rezago o abandono escolar, estableciendo condiciones físicas y de equipamiento que permitan proporcionar educación con equidad e inclusión en dichas localidades y realizaran acciones para garantizar la existencia de baños y de agua potable para consumo humano con suministro continuo en cada inmueble de uso escolar público conforme lo establecido en el artículo 102 de la Ley General de Educación.
 
 ###### Artículo 98.
 
@@ -1643,7 +1675,9 @@ Los contenidos de los planes y programas de estudio de la educación que imparta
 
 La Autoridad Educativa Federal determinará el calendario escolar aplicable a toda la República, para cada ciclo lectivo de la educación básica y normal y demás para la formación de maestras y maestros de educación básica, necesarios para cubrir los planes y programas aplicables. El calendario deberá contener un mínimo de ciento ochenta y cinco días y un máximo de doscientos días efectivos de clase para los educandos y deberá ser publicado en el Diario Oficial de la Federación.
 
-Las autoridades escolares, previa autorización de la Autoridad Educativa Estatal y de conformidad con los lineamientos que expida la Autoridad Educativa Federal, podrán ajustar el calendario escolar al que se refiere el párrafo anterior. Dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables. La Autoridad Educativa Estatal Periódico Oficial del Estado, las autorizaciones de ajustes al calendario escolar determinado por la Autoridad Educativa Federal.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+Las autoridades escolares, previa autorización de la Autoridad Educativa Estatal y de conformidad con los lineamientos que expida la Autoridad Educativa Federal, podrán ajustar el calendario escolar al que se refiere el párrafo anterior. Dichos ajustes deberán prever las medidas para cubrir los planes y programas aplicables. La Autoridad Educativa Estatal publicará en el Periódico Oficial del Estado, las autorizaciones de ajustes al calendario escolar.
 
 ###### Artículo 118.
 
@@ -1699,11 +1733,11 @@ En el ámbito de sus respectivas competencias, las autoridades educativas desarr
 
 ### Capítulo I. De los Derechos de las Madres y Padres de Familia o Tutores
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 124.
 
-Son derechos de quienes ejercen la patria potestad o la tutela, y de quienes tengan la guarda y custodia:
+Son derechos de quienes ejercen la patria potestad o la tutela:
 
 I. Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de dieciocho años, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria, la secundaria, la media superior y, en su caso, la educación inicial, en concordancia con los espacios disponibles para cada tipo educativo;
 
@@ -1721,7 +1755,9 @@ VII. Conocer los criterios y resultados de las evaluaciones de la escuela a la q
 
 VIII. Conocer de los planes y programas de estudio proporcionados por el plantel educativo, sobre los cuales podrán emitir su opinión;
 
-IX. Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+IX. Conocer el presupuesto asignado a cada escuela pública, así como su aplicación y los resultados de su ejecución;
 
 X. Conocer la situación académica y conducta de sus hijas, hijos o pupilos en la vida escolar;
 
@@ -1885,9 +1921,11 @@ El Ejecutivo estatal promoverá la contribución de los medios de comunicación 
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
 ###### Artículo 136.
 
-Los particulares podrán impartir educación considerada como servicio público en términos de esta Ley, en todos sus tipos y modalidades, con la autorización o reconocimiento de validez oficial de estudios que otorgue el Estado, conforme a lo dispuestos por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, esta Ley y demás disposiciones jurídicas aplicables.
+Los particulares podrán impartir educación considerada como servicio público en términos de esta Ley, en todos sus tipos, niveles y modalidades, con la autorización o reconocimiento de validez oficial de estudios que otorgue el Estado, conforme a lo dispuesto por el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, esta Ley y demás disposiciones jurídicas aplicables.
 
 Por lo que concierne a la educación inicial, preescolar, la primaria, la secundaria, la normal y demás para la formación de maestras y maestros de educación básica, deberán obtener previamente, en cada caso, la autorización expresa del Estado, tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
 
@@ -1897,7 +1935,9 @@ En el tipo de educación superior, se estará a lo dispuesto en la Ley General d
 
 La autorización y el reconocimiento incorporan a las instituciones que los obtengan, respecto de los estudios a que la propia autorización o dicho reconocimiento se refieren al Sistema Educativo Estatal.
 
-Los reconocimientos tendrán una vigencia de cinco años, después de la cual, para poder renovarse, se deberán evaluar la calidad y pertinencia de los servicios ofrecidos, así como el cumpliendo de las disposiciones contenidas en la presente Ley.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+Los reconocimientos tendrán una vigencia de cinco años, después de la cual, para poder renovarse, se deberán evaluar la calidad y pertinencia de los servicios ofrecidos, así como el cumplimiento de las disposiciones contenidas en la presente Ley.
 
 Los Particulares podrán suspender el servicio educativo por una sola ocasión y hasta por tres ciclos escolares continuos, los cuales deberán renovarse anualmente, debiendo justificar dicha situación ante la Autoridad Educativa del Estado, mediante aviso que presente en escrito libre, dentro de los diez días hábiles posteriores a la fecha de inicio del ciclo escolar que corresponda, quien en un plazo no mayor a quince días hábiles posteriores a la recepción del citado aviso, emitirá la procedencia o improcedencia de la suspensión.
 
@@ -2232,3 +2272,11 @@ P.O. 11 DE ABRIL DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 208.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO UNICO.
+
+La presente reforma iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
