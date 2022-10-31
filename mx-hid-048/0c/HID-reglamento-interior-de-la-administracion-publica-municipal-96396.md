@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2022-03-28"
+last_updated: "2022-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -2917,7 +2917,13 @@ XXXI. Proponer y en su caso elaborar convenios de colaboración, intercambio y a
 
 XXXII. Suplir las ausencias de la o del Presidente Municipal en las sesiones del Consejo Consultivo Turístico de Pachuca; y
 
-XXXIII. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y el Presidente Municipal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXXIII. Autorizar, según sea el caso, mediante firma electrónica o autógrafa las licencias de funcionamiento de apertura o renovación, conforme a los ordenamientos aplicables en la materia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XXXIV. Las demás que le asignen las Leyes, Reglamentos y demás normatividad Federal y Estatal, aplicable a su ámbito de competencia y el Presidente Municipal.
 
 #### SECCIÓN SEGUNDA. DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
 
@@ -2928,6 +2934,10 @@ Para el cumplimiento de su objeto, estudio, planeación, operación y despacho d
 I. Dirección de Desarrollo Económico; y
 
 II. Dirección de Desarrollo Turístico.
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+III. Dirección de Mejora Regulatoria y Sistema de Apertura Rápida de Empresas.
 
 ###### ARTÍCULO 93.
 
@@ -2969,9 +2979,9 @@ XVI. Promover la simplificación de normas y trámites que inhiban el desarrollo
 
 XVII. Operar, organizar y actualizar el Sistema Municipal de Información Económica y de Registro Estadístico Empresarial, así como el Sistema de Apertura Rápida de Empresas;
 
-> <small>(REFORMADA, P.O. 28 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2022)</small>
 
-XVIII. Autorizar las Licencias de funcionamiento para los establecimientos mercantiles que operen giros especiales;
+XVIII. Dar orientación y asesoría a los empresarios que solicitan una renovación o apertura de licencia de funcionamiento y ejecutar el proceso correspondiente a la renovación de cada solicitud, siempre y cuando se cumpla con lo establecido en los ordenamientos aplicables para su emisión.
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -2981,9 +2991,9 @@ XIX. Gestionar de las autoridades municipales competentes las autorizaciones nec
 
 XX. Coordinar la integración de información estadística económica básica de los establecimientos mercantiles que operen en el Municipio; así como ordenar la ejecución de estrategias para la elaboración, digitalización, conservación y actualización de las bases datos recurrentes; y
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE OCTUBRE DE 2022)</small>
 
-XXI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jera quico (sic).
+XIX (SIC). Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior.
 
 ###### ARTÍCULO 94.
 
@@ -3019,7 +3029,59 @@ XIV. Dirigir las estrategias y acciones mediante las cuales se difunda la inform
 
 XV. Organizar y coordinar con otras secretarías y entidades, ferias, exposiciones y certámenes en las materias que sean de su competencia, así como participar en congresos, seminarios y reuniones de trabajo que se realicen dentro y fuera del Municipio; y
 
-XVI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XVI. Dirigir, instrumentar y operar el Museo Virtual de Pachuca (MUVIPA).
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE OCTUBRE DE 2022)</small>
+
+XVII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2022)</small>
+
+ARTÍCULO 94 BIS.- A la Dirección de Mejora Regulatoria y Sistema de Apertura Rápida de Empresas, le corresponderá el ejercicio de las siguientes atribuciones:
+
+I. Implementar el procedimiento para la expedición de aperturas de licencias para el funcionamiento de establecimientos mercantiles, de conformidad con las disposiciones reglamentarias en la materia, sometiéndolas a la validación de la o el Titular de la Secretaría para su autorización;
+
+II. Autorizar, negar o cancelar los procedimientos reglamentarios correspondientes que le faculte el Reglamento aplicable en la materia;
+
+III. Dirigir, técnica y administrativamente a la Comisión Municipal de Mejora Regulatoria, a efecto de dar cumplimiento a los objetivos de la misma, de acuerdo con lo establecido en las normas legales aplicables;
+
+IV. Proponer los objetivos, metas y prioridades del Programa Anual de Mejora Regulatoria y someterlo a la aprobación de la Comisión Municipal de Mejora Regulatoria;
+
+V. Proponer lineamientos, esquemas e indicadores del Programa de Mejora Regulatoria para su implementación;
+
+VI. Formular propuestas respecto de los proyectos de diagnósticos, planes y acciones que pretenda implementar la Comisión Municipal de Mejora Regulatoria;
+
+VII. Vigilar que el Catálogo Municipal de Actividades Económicas, cumpla con la interoperabilidad en plataformas estatales y nacionales de acuerdo con los lineamientos establecidos y la información recibida de trámites y servicios de las dependencias y entidades de la Administración Municipal;
+
+VIII. Ejecutar los acuerdos y disposiciones de la Comisión Municipal de Mejora Regulatoria, implementando las medidas necesarias para su cumplimiento;
+
+IX. Diseñar los lineamientos para la recepción, integración y seguimiento de la información de los Programas Anuales, así como presentar informes y avances a la comisión Municipal de Mejora Regulatoria;
+
+X. Someter a los procesos establecidos en el Reglamento Municipal de Mejora Regulatoria los proyectos regulatorios y sus correspondientes análisis;
+
+XI. Coordinar la ejecución de las acciones derivadas del Programa Anual de Mejora Regulatoria;
+
+XII. Fungir como enlace oficial de coordinación con los órganos públicos de los tres órdenes de gobierno, en el ámbito que corresponda, para asegurar la ejecución del Programa de Mejora Regulatoria y de la Agenda Común, según sea el caso;
+
+XIII. Promover convenios de coordinación con la Federación y con el Estado, en el ámbito que corresponda, para desarrollar acciones y programas en la materia;
+
+XIV. Establecer los mecanismos para brindar asesoría técnica y capacitación en materia de mejora regulatoria a los Sujetos Obligados;
+
+XV. Proporcionar a los particulares los servicios de orientación, gestoría y resolución de los trámites para la obtención de una apertura de Licencia de Funcionamiento;
+
+XVI. Establecer la coordinación de acciones con otras dependencias y entidades del municipio relacionadas con la operación del SARE;
+
+XVII. Verificar la documentación entregada por el particular y orientarle en caso de presentar información incompleta;
+
+XVIII. Administrar, mantener, actualizar y conservar las bases de datos relacionadas con las Licencias de apertura para el funcionamiento de establecimientos mercantiles;
+
+XIX. Establecer, previo acuerdo del Presidente Municipal, por conducto del titular de la Secretaría; la coordinación con los órdenes federal y estatal, así como con los sectores social y privado del municipio para el adecuado funcionamiento del SARE;
+
+XX. Implementar las acciones necesarias para el fortalecimiento del Sector Empresarial, mediante la simplificación a través de ventanillas únicas de atención; y
+
+XXI. Las demás que le otorguen este Reglamento y otras disposiciones aplicables.
 
 ### CAPÍTULO XII. DE LA SECRETARÍA DE ADMINISTRACIÓN
 
@@ -3998,3 +4060,11 @@ P.O. 28 DE MARZO DE 2022.
 PRIMERO.- El presente decreto entrara en vigor, al día siguiente al de su publicación, tanto en el Periódico Oficial del Estado de Hidalgo, así como en la Gaceta Oficial del Municipio de Pachuca de Soto, Hidalgo.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto y autorizado en el presente decreto.
+
+P.O. 31 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO VEINTIOCHO POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN XXXIII Y ADICIONA LA FRACCIÓN XXXIV DEL ARTÍCULO 91, ADICIONA LA FRACCIÓN III DEL ARTÍCULO 92, REFORMA LA FRACCIÓN XVIII Y ADICIONA LA FRACCIÓN XIX DEL ARTÍCULO 93, SE REFORMA LA FRACCIÓN XVI Y SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 94, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 94 BIS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO”.]
+
+PRIMERO.- Una vez reformado el Reglamento de Mejora Regulatoria para el Municipio de Pachuca de Soto, Hidalgo; asi como el Decreto de Creación del Sistema de Aperetura (sic) Rapida de Empresas, en armonia juridica con el presente Resolutivo, este se enviara al Periodico Oficial para su debida publicación.
+
+SEGUNDO.- El presente DICTAMEN RESOLUTIVO en vía de DECRETO, entrará en vigor al día siguiente de su publicación, tanto en el Periódico Oficial del Estado de Hidalgo; así como en la Gaceta Municipal de Pachuca de Soto, Estado de Hidalgo.
