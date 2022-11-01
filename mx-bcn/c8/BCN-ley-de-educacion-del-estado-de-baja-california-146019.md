@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2021-08-06"
+last_updated: "2022-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -131,7 +131,9 @@ XVII. Proporcionar a los educandos los libros de texto gratuitos y materiales ed
 
 XVIII. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia, y
 
-XIX. Promoverá el desarrollo de programas asistenciales, de prevención de riesgos y accidentes, la educación vial, campañas de salubridad.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+XIX. Promoverá el desarrollo de programas asistenciales, de prevención de riesgos y accidentes, la educación vial, campañas de salubridad, así como programas de seguridad escolar; los cuales, incluso, pueden implicar revisiones a las pertenencias de los educandos, siempre y cuando dichos esquemas respeten sus derechos, justificándose las respectivas medidas proporcionales que deban considerarse a fin de salvaguardarlos y, en general, a la comunidad educativa a la que pertenecen.
 
 ## TÍTULO SEGUNDO. Del Sistema Educativo Estatal
 
@@ -1686,3 +1688,11 @@ P.O. 6 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 263 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN ARTÍCULO 73 BIS A LA LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 154 MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 6 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. En un plazo de ciento ochenta días siguientes a la entrada en vigor del presente Decreto, la autoridad educativa deberá armonizar los lineamientos y protocolos respectivos a la seguridad escolar.
