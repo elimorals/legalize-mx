@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2022-10-07"
+last_updated: "2022-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1095,15 +1095,13 @@ Es deber de los miembros de la familia observar entre ellos consideración, soli
 
 ### CAPITULO I BIS. De los Requisitos para contraer Matrimonio
 
-> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2022)</small>
 
 Concepto de matrimonio
 
-> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
-
 ###### Artículo 4.
 
-1 Bis.- El matrimonio es una institución de carácter público e interés social, por medio de la cual un hombre y una mujer voluntariamente deciden compartir un estado de vida para la búsqueda de su realización personal y la fundación de una familia.
+1 Bis.- El matrimonio es una institución de carácter público e interés social, por medio de la cual dos personas de manera libre y voluntaria deciden compartir un estado de vida para la búsqueda de su realización personal y conyugal, bajo las formalidades y solemnidades que establezca el presente Código.
 
 Solemnidades para la celebración del matrimonio
 
@@ -1143,17 +1141,13 @@ Irrenunciables los fines del matrimonio
 
 3.- Cualquier estipulación contraria a los fines esenciales del matrimonio, se tendrá por no puesta.
 
-Edad para contraer matrimonio
+> <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2022)</small>
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)
+Edad para contraer matrimonio
 
 ###### Artículo 4.
 
-4.- Para contraer matrimonio, la mujer y el hombre necesitan haber cumplido dieciocho años.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
+4.- Para contraer matrimonio, es necesario que ambas personas hayan cumplido dieciocho años.
 
 ###### Artículo 4.
 
@@ -1191,9 +1185,9 @@ VII. La violencia para obtener el consentimiento para celebrar el matrimonio;
 
 VIII. La embriaguez habitual y el uso indebido y persistente de estupefacientes, psicotrópicos o de cualquier otra sustancia que altere la conducta y produzca dependencia;
 
-> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, G.G. 1 DE NOVIEMBRE DE 2022)</small>
 
-IX. La impotencia incurable para la cópula o la bisexualidad; las enfermedades crónicas e incurables que sean contagiosas o hereditarias. No serán impedimentos cuando por escrito sean aceptadas por el otro contrayente.
+IX. Las enfermedades crónicas e incurables que sean contagiosas o hereditarias. Salvo cuando por escrito sean aceptadas por el otro contrayente.
 
 X. Trastornos mentales, aunque haya espacios de lucidez;
 
@@ -1699,11 +1693,13 @@ Legitimación y plazo para deducir la nulidad por violencia
 
 71.- La acción de nulidad del matrimonio por violencia, sólo puede deducirse por el cónyuge agraviado, dentro de los sesenta días desde que cesó la misma.
 
-Legitimación y plazo para pedir la nulidad por embriaguez o uso de drogas y bisexualidad
+> <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2022)</small>
+
+Legitimación y plazo para pedir la nulidad por embriaguez y uso de drogas
 
 ###### Artículo 4.
 
-72.- La nulidad por embriaguez, uso de estupefacientes, psicotrópicos o de cualquier otra sustancia que altere la conducta y produzca dependencia, bisexualidad que como impedimento para contraer matrimonio señala la ley, sólo puede ser pedida por el cónyuge agraviado, dentro del plazo de seis meses contados desde que se celebró el matrimonio.
+72.- La nulidad por embriaguez, uso de estupefacientes, psicotrópicos o de cualquier otra sustancia que altere la conducta y produzca dependencia, sólo puede ser pedida por el cónyuge agraviado, dentro del plazo de seis meses contados desde que se celebró el matrimonio.
 
 Legitimación para pedir la nulidad por trastornos mentales
 
@@ -4547,25 +4543,21 @@ La duración de las medidas de protección será de acuerdo con las necesidades 
 
 ###### Artículo 4.
 
-403.- Se considera concubinato la relación de hecho que tienen un hombre y una mujer, que sin estar casados y sin impedimentos legales para contraer matrimonio, viven juntos, haciendo una vida en común por un período mínimo de un año; no se requerirá para la existencia del concubinato el periodo antes señalado, cuando reunidos los demás requisitos, se hayan procreado hijos en común.
+403.- Se considera concubinato la relación de hecho que tienen dos personas, que sin estar casadas y sin impedimentos legales para contraer matrimonio, viven juntas, haciendo una vida en común por un período mínimo de un año; no se requerirá para la existencia del concubinato el periodo antes señalado, cuando reunidos los demás requisitos, tengan hijos o hijas en común.
 
-> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2022)</small>
 
 Derechos y obligaciones que nacen del concubinato
 
-> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
-
 ###### Artículo 4.
 
-404.- La concubina y el concubinario tienen los derechos y obligaciones alimentarias, de familia, hereditarios y de protección contra la violencia familiar reconocidos en el presente Código y en otras disposiciones legales, así como los establecidos para los cónyuges, en todo aquello que les sea aplicable, sobre todo los dirigidos a la protección de la mujer y los hijos.
+404.- Las personas en concubinato tienen los derechos y obligaciones alimentarias, de familia, hereditarios y de protección contra la violencia familiar reconocidos en el presente Código y en otras disposiciones legales, así como los establecidos para los cónyuges, en todo aquello que les sea aplicable, sobre todo los dirigidos a la protección de las mujeres de las hijas y los hijos.
 
 ## TITULO DECIMO TERCERO. Del Concubinato
 
-> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2022)</small>
 
 Definición del concubinato
-
-> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
 # LIBRO QUINTO. De los Bienes
 
@@ -18682,3 +18674,13 @@ G.G. 7 DE OCTUBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 1 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 103.- POR EL QUE SE REFORMA EL ARTÍCULO 4.1 BIS, EL ARTÍCULO 4.4, LA FRACCIÓN IX DEL ARTÍCULO 4.7, EL ARTÍCULO 4.72, EL ARTÍCULO 4.403 Y ARTÍCULO 4.404 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
