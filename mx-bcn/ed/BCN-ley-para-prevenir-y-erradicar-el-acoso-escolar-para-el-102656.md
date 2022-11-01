@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-el-acoso-escolar-para-el-102656"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-19"
-last_updated: "2018-11-30"
+last_updated: "2022-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de septiembre de 2014.
 
@@ -43,11 +43,15 @@ Las disposiciones de esta Ley son de orden público, interés social y observanc
 
 I. Establecer las atribuciones y obligaciones correspondientes a las autoridades estatales y municipales en materia de prevención, detección, atención y erradicación del acoso escolar en los niveles básico y medio superior que se impartan en centros educativos públicos y privados;
 
-II. Determinar los principios y criterios en que se basará el modelo, instrumentación, operación y evaluación de políticas públicas tendientes a la prevención, detección, atención y erradicación de todo tipo de acoso escolar;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+II. Determinar, con perspectiva de género, los principios y criterios en que se basará el modelo, instrumentación, operación y evaluación de políticas públicas tendientes a la prevención, detección, atención y erradicación de todo tipo de acoso escolar;
 
 III. Propiciar la participación de la comunidad escolar y de la sociedad civil para lograr que se cumpla el objeto y principios de esta Ley;
 
-IV. Garantizar a los estudiantes el pleno respeto a sus derechos humanos, su dignidad, integridad física y moral dentro de la convivencia escolar a través del respeto al derecho a una vida libre de violencia en el entorno escolar promoviendo su convivencia pacífica;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+IV. Garantizar a las y los estudiantes el pleno respeto a sus derechos humanos, su dignidad, integridad física y moral dentro de la convivencia escolar a través del respeto al derecho a una vida libre de violencia en el entorno escolar promoviendo su convivencia pacífica;
 
 V. Impulsar programas estatales de coordinación interinstitucional para prevenir, detectar, atender y erradicar el acoso escolar; y
 
@@ -59,13 +63,17 @@ Los principios rectores de esta Ley, son:
 
 I. Respeto de los Derechos Humanos;
 
-II. Respeto a los Derechos de los Niños y de los Adolescentes;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+II. Respeto a los Derechos de las niñas, niños y Adolescentes;
 
 III. No Violencia;
 
 IV. No Discriminación;
 
-V. Igualdad;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+V. Igualdad de género;
 
 VI. Cultura de la Paz;
 
@@ -75,13 +83,17 @@ VIII. Tolerancia.
 
 Las políticas públicas que realicen las autoridades del gobierno estatal y de los gobiernos municipales, así como todas las acciones que lleven a cabo los sectores privado y social, tendrán como base los principios de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 3.
 
 Para efectos de esta Ley serán aplicables los conceptos de la Ley de Seguridad Escolar del Estado de Baja California, así como los siguientes:
 
 I. Cómplice: Quien, sin ser autor, coopere en la ejecución del acoso escolar;
 
-II. Generador de acoso escolar: Quien planea, ejecuta o participa en el acoso escolar;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+II. Persona generadora de acoso escolar: Quien planea, ejecuta o participa en el acoso escolar;
 
 III. Ley: La presente Ley;
 
@@ -93,9 +105,13 @@ VI. Programa: Programa Estatal de Seguridad Escolar previsto en la Ley de Seguri
 
 VII. Protocolo: Protocolo para Prevenir, Detectar Atender y Erradicar el Acoso Escolar;
 
-VIII. Receptor de acoso escolar: Estudiante contra quien se efectúa el acoso escolar; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-IX. Secretaría: Secretaría de Educación y Bienestar Social.
+VIII. Persona receptora de acoso escolar: Estudiante contra quien se efectúa el acoso escolar; y,
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+IX. Secretaría: Secretaría de Educación.
 
 ### Capítulo II. Autoridades
 
@@ -103,13 +119,19 @@ IX. Secretaría: Secretaría de Educación y Bienestar Social.
 
 Son autoridades del Estado competentes para la aplicación de esta Ley:
 
-I. Gobernador del Estado;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-II. Secretaría de Educación y Bienestar Social;
+I. La persona que ocupa la Gobernatura del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+II. Secretaría de Educación;
 
 III. Ayuntamientos, y
 
-IV. Directores de cada centro escolar.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+IV. La persona a cargo de la Dirección de cada centro escolar.
 
 ###### Artículo 5.
 
@@ -117,17 +139,35 @@ Cuando así consideren necesario las autoridades establecidas en el artículo an
 
 I. Secretaría de Salud;
 
-II. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-III. Secretaría de Seguridad Pública;
+II. Secretaría de Bienestar;
 
-IV. Procuraduría General de Justicia del Estado; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-V. Sistema para el Desarrollo Integral de la Familia.
+III. Secretaría de Inclusión Social e Igualdad de Género;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+IV. Secretaría de Seguridad Ciudadana;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+V. Fiscalía General del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+VI. Instituto de la Mujer de Baja California; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+VII. Sistema para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 6.
 
-El Gobernador del Estado tendrá la facultad de suscribir convenios de colaboración con instancias estatales, nacionales y extranjeras a fin de cumplir los objetivos de la presente Ley.
+La persona titular del Poder Ejecutivo del Estado tendrá la facultad de expedir los reglamentos necesarios para la aplicación de esta Ley, suscribir convenios de colaboración con instancias estatales, nacionales y extranjeras a fin de cumplir los objetivos de la presente Ley, así como promover e implementar políticas públicas para la prevención y atención de la violencia escolar.
 
 ###### Artículo 7.
 
@@ -135,11 +175,15 @@ Corresponde a la Secretaría:
 
 I. Expedir el Protocolo, instrumento rector en materia de acoso escolar para los centros escolares;
 
-II. Elaborar y difundir material educativo para la prevención y atención del acoso escolar, así como coordinar campañas de información sobre dicho tema;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+II. Elaborar y difundir material educativo para la prevención y atención del acoso escolar, así como coordinar campañas de información sobre dicho tema, con perspectiva de género y derechos humanos.
 
 III. Realizar estudios, investigaciones, informes y diagnósticos que permitan conocer la incidencia del fenómeno de acoso escolar;
 
-IV. Realizar una encuesta anual entre estudiantes, personal escolar y padres de familia para identificar los centros educativos con mayor incidencia de acoso escolar, la cual servirá como apoyo en la instrumentación de acciones en contra del acoso escolar;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+IV. Realizar una encuesta anual entre las y los estudiantes, personal escolar y madres y padres de familia para identificar los centros educativos con mayor incidencia de acoso escolar, la cual servirá como apoyo en la instrumentación de acciones en contra del acoso escolar;
 
 V. Instrumentar una estrategia de participación en las redes sociales de Internet, encaminada a difundir el Plan y recibir propuestas y denuncias de acoso escolar;
 
@@ -149,17 +193,25 @@ VII. Establecer mecanismos gratuitos de asesoría, orientación, reporte de caso
 
 VIII. Hacer del conocimiento de las autoridades competentes los casos de acoso escolar que puedan resultar constitutivas de infracciones o delitos;
 
-IX. Fomentar la participación de organizaciones de la sociedad civil, asociaciones de padres de familia, y vecinales con el objeto de fomentar su participación en acciones contra el acoso escolar;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-X. Capacitar a docentes y alumnos en materia de mecanismos alternativos de solución de conflictos, como la mediación de conformidad con lo estipulado en el protocolo; y
+IX. Fomentar la participación de organizaciones de la sociedad civil, asociaciones de madres y padres de familia, y vecinales con el objeto de fomentar su participación en acciones contra el acoso escolar;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+X. Capacitar con perspectiva de género a docentes y al alumnado en materia de mecanismos alternativos de solución de conflictos, como la mediación de conformidad con lo estipulado en el protocolo;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
 XI. Coordinar esfuerzos con la Secretaría de Salud, para que los planteles educativos de nivel básico y medio superior cuenten con personal especializado, o bien que haya sido capacitado, en la detección de trastornos emocionales de las niñas, niños y adolescentes, y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-XII. Las demás que señalen las disposiciones aplicables.
+XII. Promover políticas públicas para facilitar el acceso a una vida libre de violencia en el entorno escolar para todas las personas educandas en el nivel básico y medio superior; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Las demás que señalen las disposiciones aplicables.
 
 ###### Artículo 8.
 
@@ -167,43 +219,65 @@ Corresponde a los Ayuntamientos:
 
 I. Coordinarse con las autoridades correspondientes para enfrentar el acoso escolar en su entorno;
 
-II. Instrumentar programas de asesoría jurídica y psicológica a los receptores de acoso escolar;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-III. Impulsar campañas de difusión que transmitan la importancia de una convivencia libre de violencia en los ámbitos familiar, educativo, comunitario, social y familiar;
+II. Instrumentar programas de asesoría jurídica y psicológica a las o los receptores de acoso escolar;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+III. Impulsar campañas de difusión, con perspectiva de género, que transmitan la importancia de una convivencia libre de violencia en los ámbitos familiar, educativo, comunitario, social y familiar;
 
 IV. Capacitar y sensibilizar a su personal en el tema de prevención, detección, atención y erradicación del acoso escolar, con base en los principios contenidos en esta Ley; y
 
 V. Las demás que le señalen las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 9.
 
-Corresponde al Director de cada centro escolar:
+Corresponde a la persona que ocupe la Dirección de cada centro escolar:
 
-I. Implementar y vigilar el cumplimiento del Reglamento interno en materia de seguridad escolar del centro escolar, respecto a la prevención, detección, atención y erradicación del acoso escolar;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+I. Implementar y vigilar el cumplimiento del Reglamento interno en materia de seguridad escolar del centro escolar, respecto a la prevención, detección, atención y erradicación del acoso escolar, lo cual deberá realizar con estricto apego a los derechos humanos de niñas, niños y adolescentes, bajo los principios de igualdad de género, no discriminación, no violencia y educación por la paz.
 
 II. Promover y verificar la capacitación del personal a su cargo en la atención del acoso escolar;
 
 III. Dar a conocer a la Secretaría de los actos constitutivos de acoso escolar cuando se requiera la intervención de otra dependencia u organismo para la atención de la situación;
 
-IV. Denunciar ante el Ministerio Público conductas de acoso escolar que den lugar a la comisión de delito o, en su caso, así como hacer del conocimiento de los hechos a la Secretaría;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+IV. Denunciar ante el Ministerio Público conductas de acoso escolar que den lugar a la comisión de delito o, en su caso, a las autoridades municipales en el caso de una posible infracción, así como hacer del conocimiento de los hechos a la Secretaría y a la madre, padre de familia o tutor de la persona receptora del acoso escolar.
 
 V. Remitir a la Secretaría un informe de las incidencias de acoso escolar en términos del artículo 19 de esta Ley;
 
-VI. Intervenir en la investigación y sanción de los casos de acoso escolar suscitados en su centro escolar;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-VII. Notificar a los padres o tutores de los generadores o receptores de acoso escolar;
+VI. Intervenir en la investigación y sanción de los casos de acoso escolar suscitados en su centro escolar, con perspectiva de género y de derechos humanos;
 
-VIII.- Autorizar el uso de recursos tecnológicos para la vigilancia e investigación de casos de acoso escolar en cada centro escolar, respetando siempre la privacidad y la dignidad de alumnos y personal escolar; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-IX.- Promover entre docentes y alumnos el uso de mecanismos alternativos de solución de conflictos, como la mediación; en términos de lo señalado por el protocolo.
+VII. Notificar a las madres, padres o tutores de las personas generadoras o receptoras de acoso escolar;
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Autorizar el uso de recursos tecnológicos para la vigilancia e investigación de casos de acoso escolar en cada centro escolar, respetando siempre la privacidad y la dignidad de las y los alumnos y personal escolar; y,
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+IX. Promover entre docentes y alumnado el uso de mecanismos alternativos de solución de conflictos, como la mediación, en términos de lo señalado por el protocolo.
 
 ###### Artículo 10.
 
 Los Consejos Escolares a que refiere la Ley de Educación del Estado y la Ley de Seguridad Escolar, tendrán las atribuciones siguientes en materia de acoso escolar:
 
-I. Aplicar el Protocolo en el centro escolar al cual pertenecen y coadyuvar con el Directivo o encargado del centro escolar en prevenir, detectar, atender y erradicar el acoso escolar; y
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-II. Entregar, cuando culmine el ciclo escolar, al Directivo o encargado del centro escolar un informe sobre la incidencia de acoso escolar.
+I. Aplicar el Protocolo, con perspectiva de género, en el centro escolar al cual pertenecen y coadyuvar con la persona encargada de la Dirección del centro escolar en prevenir, detectar, atender y erradicar el acoso escolar, a fin de que prevalezca una cultura libre de violencia en su entorno escolar; y,
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+II. Entregar, cuando culmine el ciclo escolar, a la persona a cargo de la Dirección del centro escolar un informe sobre la incidencia de acoso escolar.
 
 ###### Artículo 11.
 
@@ -227,9 +301,13 @@ Igualmente se considera acoso escolar el suscitado entre miembros de la comunida
 
 El acoso escolar se identificará por:
 
-I. Presencia de comportamiento intencional, dañino y persistente, provocando presión hacia el receptor, quien se encuentra en situación de indefensión, aún cuando éstos no sean denunciados.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-II. Predominio de un desequilibrio de poder entre los que participan, lo cual deriva en que, a través del abuso, uno domine e intimide al otro.
+I. Presencia de comportamiento intencional, dañino y persistente, provocando presión hacia la persona receptora, quien se encuentra en situación de indefensión, aún cuando éstos no sean denunciados.
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+II. Predominio de un desequilibrio de poder entre las o los alumnos que participan, lo cual deriva en que, a través del abuso, un alumno o alumna, domine e intimide a otra u otro estudiante.
 
 ###### Artículo 14.
 
@@ -239,11 +317,17 @@ I. Se entiende por acoso psicológico toda acción u omisión dirigida a desvalo
 
 II. Se entiende por acoso físico toda acción que de manera intencional infrinja daño corporal.
 
-III. Se entiende por acoso físico indirecto toda acción u omisión que ocasiona daño o menoscabo en las pertenencias del estudiante.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-IV. Se entiende por acoso verbal toda acción no corporal en la que se emplea el lenguaje, que de manera intencional o no, transgrede la dignidad del receptor.
+III. Se entiende por acoso físico indirecto toda acción u omisión que ocasiona daño o menoscabo en las pertenencias del o la estudiante.
 
-V. Se entiende por acoso escolar cibernético el que se produce mediante plataformas virtuales y herramientas tecnológicas para exponer la intimidad del menor hacia otras personas con la finalidad de propinar un daño.
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+IV. Se entiende por acoso verbal toda acción no corporal en la que se emplea el lenguaje, que de manera intencional o no, transgrede la dignidad del o la receptora.
+
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+V. Se entiende por acoso escolar cibernético el que se produce mediante plataformas virtuales y herramientas tecnológicas para exponer la intimidad del o la menor hacia otras personas con la finalidad de propinar un daño.
 
 ###### Artículo 15.
 
@@ -263,31 +347,43 @@ El Protocolo es el instrumento rector en materia de acoso escolar para los centr
 
 El Protocolo servirá como base para que en cada centro escolar se cuente con un Plan Escolar que será autorizado por la Secretaría. En la elaboración de dicho Plan, los Consejos Escolares se coordinarán con el Directivo o encargado del centro escolar y se podrá invitar a la comunidad escolar a que participe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 17.
 
-El Protocolo debe diseñarse para que sea aplicado en todos los grados escolares. El contenido del Protocolo tendrá como base las acciones previstas en el Programa, de conformidad con el artículo 26 de la Ley de Seguridad Escolar y lo siguiente:
+El Protocolo debe diseñarse con perspectiva de género y de derechos humanos, para que sea aplicado en todos los grados escolares. El contenido del Protocolo tendrá como base las acciones previstas en el Programa, de conformidad con el artículo 26 de la Ley de Seguridad Escolar y lo siguiente:
 
 I. Prevención.-
 
-a) Declaratoria que prohíbe el acoso escolar hacia cualquier alumno;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+a) Declaratoria que prohíbe el acoso escolar hacia cualquier alumna o alumno;
 
 b) Declaratoria donde se prohíbe cualquier acto de represalia o venganza en contra de cualquier persona que denuncie un caso de acoso escolar;
 
-c) Descripción clara sobre el tipo de conducta que es esperada de cada alumno y docente;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-d) Procedimiento para proporcionar instrucción a estudiantes, padres de familia, docentes, administradores, directivos escolares y a la comunidad escolar en general en la identificación, prevención y como responder a actos de acoso escolar;
+c) Descripción clara sobre el tipo de conducta que es esperada del alumnado y docentes;
 
-e) Procedimiento para informar de manera periódica y constante a los padres del receptor del acoso escolar, sobre las medidas tomadas para evitar que nuevamente sea víctima del mismo;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-f) Información sobre el tipo de servicios de apoyo para receptor y generador de acoso escolar, así como terceros afectados;
+d) Procedimiento para proporcionar instrucción a estudiantes, madres y padres de familia, docentes, administradores, directivos escolares y a la comunidad escolar en general en la identificación, prevención y como responder a actos de acoso escolar;
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-g) Ofrecer a los alumnos una formación basada en el respeto y fomento de los valores de la dignidad, los derechos humanos, ser incluyentes y aceptar a todas las personas entre ellas a quienes cuentan con alguna discapacidad.
+e) Procedimiento para informar de manera periódica y constante a las madres o los padres de la persona receptora del acoso escolar, sobre las medidas tomadas para evitar que nuevamente sea víctima del mismo;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-h) Capacitar al personal que tiene contacto directo con los alumnos para identificar algún trastorno emocional previo a sufrir o realizar acciones constitutivas de acoso escolar;
+f) Información sobre el tipo de servicios de apoyo para las personas receptora y generadora de acoso escolar, así como terceros afectados;
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+g) Ofrecer a los alumnos una formación basada en el respeto y fomento de los valores de la dignidad, los derechos humanos, ser incluyentes y no discriminar a ninguna persona por razones de origen étnico, nacional o regional, raza, color de piel, identidad de género, preferencia sexual, condición de discapacidad, condición social o cultural, económica, de salud, religión, de apariencia física, situación migratoria, embarazo o situación familiar;
+
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+h) Capacitar al personal que tiene contacto directo con las y los alumnos para identificar algún trastorno emocional previo a sufrir o realizar acciones constitutivas de acoso escolar;
 
 II. Detección.-
 
@@ -297,27 +393,33 @@ b) Observación en la práctica docente, entendiéndose esta como la participaci
 
 III. Atención.-
 
-a) Acciones específicas para proteger al receptor de acoso escolar de cualquier represalia que pueda sufrir a consecuencia de denunciar;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+a) Acciones específicas para proteger a la persona receptora de acoso escolar de cualquier represalia que pueda sufrir a consecuencia de denunciar;
 
 b) Procedimiento de respuesta por parte del centro escolar ante cualquier caso de acoso;
 
 c) Procedimiento para la aplicación de mecanismos alternativos de solución de conflictos, como la mediación;
 
-d) Procedimiento para canalizar a receptores y generadores de acoso escolar a tratamientos psicológicos especializados;
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+d) Procedimiento para canalizar a personas receptoras y generadoras de acoso escolar a tratamientos psicológicos especializados;
 
 e) Determinar si el acto de acoso puede ser atendido por el centro escolar y, si no, determinar un proceso de remisión de dicho acto a la autoridad competente;
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-f) Acciones para acercarse a los padres del generador y receptor de acoso escolar, celebrando reuniones periódicas y registrar los avances existentes; asimismo, sostener reuniones informativas con los Psicólogos encargados de dar tratamiento a las partes afectadas, con el propósito de dar seguimiento, y
+f) Acciones para acercarse a las madres o padres de quien genera y recibe el acoso escolar, celebrando reuniones periódicas y registrar los avances existentes; asimismo, sostener reuniones informativas con los Psicólogos encargados de dar tratamiento a las partes afectadas, con el propósito de dar seguimiento; y,
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
 
-g) Acciones de capacitación y orientación a los padres del generador con la finalidad de que ellos promuevan en su hijo actitudes incluyentes y amigables en el centro escolar.
+g) Acciones de capacitación y orientación a la madre o padre de la persona generadora con la finalidad de que ellos promuevan en su hija o hijo actitudes incluyentes y amigables en el centro escolar.
 
 IV. Erradicación.-
 
-a) Consecuencias y acciones que se deben de llevar a cabo por parte de los directivos escolares o autoridad educativa responsable, en contra de aquella persona que acose a un alumno.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+a) Consecuencias y acciones que se deben de llevar a cabo por parte de los directivos escolares o autoridad educativa responsable, en contra de aquella persona que acose a un alumno o alumna.
 
 b) Descripción de consecuencias y acciones en contra de aquella persona que haya presentado una acusación falsa de manera intencional;
 
@@ -327,7 +429,9 @@ d) Procedimiento de investigación de un acto de acoso escolar.
 
 e) Procedimiento para documentar cualquier incidente de acoso escolar, el cual será incluido en el informe sobre acoso escolar que presentará cada centro escolar al final del ciclo escolar a la Secretaría;
 
-f) Acciones para acercarse a los padres del generador de acoso escolar, celebrando reuniones periódicas y registrar los avances existentes; asimismo, Sostener reuniones informativas con los Psicólogos encargados de dar tratamiento a las partes afectadas, con el propósito de estar al día con los avances en los casos de tratamiento.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
+f) Acciones para acercarse a la madre, padre o tutor de la persona generadora de acoso escolar, celebrando reuniones periódicas y registrar los avances existentes; asimismo, sostener reuniones informativas con los Psicólogos encargados de dar tratamiento a las partes afectadas, con el propósito de estar al día con los avances en los casos de tratamiento.
 
 Sin detrimento de lo anterior, la Secretaría podrá incluir otras acciones o procedimientos a seguir cuando lo estime necesario y conveniente para prevenir, detectar, atender y erradicar el acoso escolar.
 
@@ -339,25 +443,31 @@ En los centros escolares se deberá proporcionar capacitación y adiestramiento 
 
 Al final de cada ciclo escolar, los centros escolares deberán remitir un informe ante la Secretaría donde contenga un sumario de las denuncias recibidas y las acciones tomadas y se anexarán las copias de las denuncias recibidas y toda la documentación que respalde el actuar de la autoridad escolar correspondiente en la resolución de los incidentes. Esta información será la base para que la Secretaría integre un Registro Estatal de Incidencia de Acoso Escolar de forma anual.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 20.
 
-Los centros escolares ofrecerán el servicio de apoyo psicológico, en términos del artículo 35 tercer párrafo de la Ley de Educación del Estado, a aquellas personas que lo soliciten o requieran, a consecuencia de ser receptoras o generadoras de acoso escolar.
+Los centros escolares ofrecerán el servicio de apoyo psicológico, en términos de la Ley de Educación del Estado, a aquellas personas que lo soliciten o requieran, a consecuencia de ser receptoras o generadoras de acoso escolar.
 
 ###### Artículo 21.
 
 Cuando el centro escolar le solicita su intervención, la Secretaría deberá determinar en cada caso concreto, hacia qué autoridad u organismo público o privado canaliza la atención del mismo, lo cual hará del conocimiento al directivo del centro escolar que corresponda, y éste, a su vez, lo informará internamente al Consejo escolar.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 22.
 
-Toda medida contra el acoso escolar tendrá como finalidad su prevención, detección, atención y erradicación. Los centros escolares tendrán la obligación de garantizar a los estudiantes el pleno respeto a su dignidad e integridad física y moral dentro de la convivencia escolar, en la aplicación de cualquiera de este tipo de medidas.
+Toda medida contra el acoso escolar tendrá como finalidad su prevención, detección, atención y erradicación. Los centros escolares tendrán la obligación de garantizar a la comunidad estudiantil el pleno respeto a su dignidad e integridad física y moral dentro de la convivencia escolar, en la aplicación de cualquiera de este tipo de medidas.
 
 ###### Artículo 23.
 
 Cada centro escolar deberá proporcionar capacitación al personal que tenga contacto directo con los estudiantes sobre la prevención, detección, atención y erradicación del acoso escolar.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 24.
 
-Los alumnos, personal directivo, docente, administrativo y de apoyo, así como los padres de familia que durante el ciclo escolar se destaquen por su comportamiento para prevenir, detectar, atender y erradicar el acoso escolar, serán reconocidos puntalmente (sic) por las autoridades del centro escolar.
+Las y los alumnos, personal directivo, docente, administrativo y de apoyo, así como los padres de familia que durante el ciclo escolar se destaquen por su comportamiento para prevenir, detectar, atender y erradicar el acoso escolar, serán reconocidos puntalmente (sic) por las autoridades del centro escolar.
 
 ### Capítulo V. Derechos, Prohibiciones y Obligaciones de la Comunidad Escolar
 
@@ -385,9 +495,11 @@ En cada centro escolar existirá un responsable, dependiente del Consejo Escolar
 
 El incumplimiento a las normas previstas en la presente Ley será sancionado conforme a este capítulo y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 30.
 
-Las sanciones o medidas disciplinarias para los generadores de acoso escolar en las modalidades establecidas en esta Ley serán las siguientes:
+Las sanciones o medidas disciplinarias para las y los generadores de acoso escolar en las modalidades establecidas en esta Ley serán las siguientes:
 
 I. Amonestación privada: Advertencia verbal y mediante un reporte escrito de manera preventiva que se hace al generador sobre las consecuencias de su conducta, y de las medidas aplicables frente a una futura reincidencia.
 
@@ -397,17 +509,21 @@ III. Suspensión de clases: Cese temporal de asistencia a clases, acompañada de
 
 IV. Transferencia a otra escuela: Baja definitiva de la escuela donde se encuentre el generador, cuando hayan sido agotadas las sanciones anteriores y exista reincidencia en su conducta. Se canalizará al Sistema Educativo para su reubicación.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 31.
 
-Los padres de familia o tutores de los generadores, deberán asistir a los tratamientos que sean indicados por los directores escolares y atiendan la problemática del acoso escolar.
+Las madres o padres de familia o tutores de las personas generadoras, deberán asistir a los tratamientos que sean indicados por los directores escolares y atiendan la problemática del acoso escolar.
 
 ###### Artículo 32.
 
 Los directores escolares o su designado serán los responsables de aplicar, previa investigación, la sanción correspondiente.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 33.
 
-Cuando la gravedad de la conducta de acoso escolar tenga consecuencias penales se procederá dando parte a la autoridad competente.
+Cuando la conducta de acoso escolar constituya un delito, se procederá inmediatamente a hacer del conocimiento de la autoridad competente.
 
 ###### Artículo 34.
 
@@ -439,9 +555,11 @@ IV.- Inhabilitación para desempeñarse en cualquier cargo del personal escolar 
 
 Al personal escolar de instituciones privadas, solo le podrán ser aplicadas las sanciones señaladas en las fracciones I, II y III de este artículo.
 
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 36.
 
-En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y que recaigan contra los generadores o personal escolar de instituciones privadas, podrá interponerse el recurso administrativo de revisión previsto en el artículo 91 de la Ley de Educación del Estado de Baja California.
+En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y que recaigan contra los generadores o personal escolar de instituciones privadas, podrá interponerse el recurso administrativo de revisión previsto en la Ley de Educación del Estado de Baja California.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -486,3 +604,9 @@ P.O. 30 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 271 MEDIANTE EL CUAL SE APRUEBA REFORMA A LOS ARTÍCULOS 7 Y 17 DE LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 1 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 153 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
