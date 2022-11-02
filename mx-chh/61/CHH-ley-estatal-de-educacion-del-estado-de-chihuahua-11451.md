@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2022-06-11"
+last_updated: "2022-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -191,9 +191,9 @@ III. Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio 
 
 IV. Promover el conocimiento de la pluralidad lingüística del Estado y el respeto a los derechos lingüísticos de los pueblos indígenas y las minorías étnicas y culturales;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
-V. Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad.
+V. Infundir el conocimiento y la práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad. Para esto, será preponderante incentivar desde el ámbito escolar la participación de las y los educandos en todos los aspectos de la vida pública, aportando elementos para ejercer modelos de participación social y deliberación, en el criterio democrático que orienta a la educación, en los términos que señala la ley aplicable.
 
 VI. Fomentar e implementar en los planteles educativos la Cultura de la Legalidad, promoviendo el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos;
 
@@ -213,11 +213,11 @@ XI. Fomentar el conocimiento de la Constitución Política de los Estados Unidos
 
 XII. Impulsar el desarrollo armónico del educando para la formación de sus conocimientos, habilidades, destrezas y actitudes que contribuyan a crear las condiciones que le permitan tener acceso a otro nivel educativo, así como lograr una mejor calidad de vida;
 
-XIII. Crear conciencia de la preservación de la salud a través de la alimentación saludable, el ejercicio físico y estimular la práctica del deporte;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Crear conciencia de la preservación de la salud a través de la alimentación saludable, el ejercicio físico, estimular la práctica del deporte, así como brindar capacitación, según el nivel educativo, en materia de primeros auxilios y prevención de accidentes;
 
 XIV. Desarrollar e implementar las estrategias preventivas para la sensibilización y toma de conciencia a los educandos sobre los perjuicios que ocasionan las sustancias nocivas y tóxicas como los narcóticos, estupefacientes, sicotrópicos, alcohol, tabaco, entre otras que determina la Ley General de Salud;
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
 XV. Formar personas responsables y respetuosas de la ley, con actitudes favorables a la participación comunitaria, la cooperación y la convivencia civilizada; procurar el aprecio y la práctica de la conducta ética;
 
@@ -249,17 +249,25 @@ XXIII. Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y e
 
 XXIV. Promover, en conjunto con organismos especializados, programas que contengan estrategias de intervención para atender educativamente a la población infanto-adolescente desescolarizada y de alta vulnerabilidad socioeducativa, así como poner en marcha procesos pedagógicos que permitan a esta población nivelar y certificar estudios.
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+XXV. Promover la educación intercultural en pro de la paz y el entendimiento entre las expresiones culturales compartidas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
 ###### ARTÍCULO 9.
 
 El criterio que orientará a la educación que impartan el Estado y sus organismos descentralizados, así como los particulares, se basará en los resultados del progreso científico, luchará contra la ignorancia y sus causas y sus efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra las mujeres, jóvenes, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en todos los órdenes de gobierno, y asimismo:
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 401/2014 II P.O., PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2014, SE DEROGA EL PRESENTE PÁRRAFO SIN SUS FRACCIONES. VÉASE PÁGINA 2.]</small>
 
-Además:
+> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MARZO DE 2014)</small>
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 I. Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 II. Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura y el amor a la patria;
 
@@ -639,15 +647,27 @@ LV. Emitir, actualizar, ejecutar y evaluar un Marco Local de Convivencia Escolar
 
 LVI. Generar, sostener y evaluar políticas públicas tendientes a evitar el acoso escolar o "bullying", en los términos del Marco Local de Convivencia Escolar, de las leyes o acuerdos nacionales aplicables, de tratados internacionales relativos y válidos en nuestro país, y de los protocolos de actuación que para tales efectos se expidan y sean aplicados por las instancias administrativas especializadas y competentes.
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+LVII. Implementar programas con el objeto de identificar al alumnado sobresaliente, con la finalidad de incentivar y maximizar sus capacidades con la atención adecuada para procurar dichos fines.
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+LVIII. En materia de participación social, propiciar modelos para la práctica de la democracia participativa y deliberativa.
+
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
 ###### ARTÍCULO 14.
 
 La Autoridad Educativa Estatal procurará, en forma permanente, ampliar, mejorar y modernizar los servicios educativos que, por disposición de la Ley, queden bajo su jurisdicción y competencia, según los objetivos establecidos en el Programa Estatal de Educación, así como los que se desprendan de las distintas evaluaciones que se realicen al Sistema Educativo Estatal.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
-Las escuelas de educación básica y media del Sistema Educativo Estatal, podrán contar con un área especializada en psicología clínica y educativa con el objetivo de tratar, cuidar, atender y orientar a los educandos a fin de permitirles el pleno desarrollo de su vida, habilidades intelectuales, emocionales y sociales. De igual manera el área especializada en psicología ofrecerá asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los alumnos, de la manera más integral posible, según su ámbito de competencia y posibilidad operativa.
+Las escuelas de educación básica y media del Sistema Educativo Estatal, podrán contar con un área especializada en psicología clínica y educativa con el objetivo de tratar, cuidar, atender y orientar a los educandos a fin de permitirles el pleno desarrollo de su vida, habilidades intelectuales, emocionales y socioemocionales. De igual manera el área especializada en psicología ofrecerá asesoría y apoyo a maestros y padres de familia para la oportuna y acertada atención a los alumnos, de la manera más integral posible, según su ámbito de competencia y posibilidad operativa.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+Igualmente procurará, en todos los tipos, niveles y modalidades, desarrollar habilidades emocionales y socioemocionales que permitan a los educandos y al profesorado, adquirir conocimientos, prácticas y competencias emocionales que contribuyan a un desarrollo integral de la personalidad. Por educación emocional se entenderá el proceso educativo, continuo y permanente que pretende potenciar el desarrollo como complemento indispensable del crecimiento cognitivo, constituyendo ambos los elementos esenciales del desarrollo de la personalidad integral. En tanto que, por habilidades socioemocionales, se entiende el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1125,9 +1145,15 @@ II. Estimular, incrementar y orientar la curiosidad de las niñas y de los niño
 
 III. Lograr que los padres, las madres de familia y los tutores participen en la educación de sus hijas, hijos o pupilos, e incrementar el capital cultural en relación con las prácticas dirigidas a la adquisición de las competencias básicas de desarrollo de las (sic) población infantil en un proceso de colaboración y complementariedad entre los centros de aprendizaje y la institución familiar;
 
-IV. Brindar a la niñez los servicios médicos, sicológicos, de trabajo social, pedagógicos, de nutrición y generales a través de personal especializado con una perspectiva interdisciplinaria; y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+IV. Brindar a la niñez los servicios médicos, psicológicos, de trabajo social, pedagógicos, de nutrición y generales a través de personal especializado con una perspectiva interdisciplinaria;
 
 V. Desarrollar propuestas de interacción en la familia y en la comunidad basadas en el respeto a los derechos humanos, que contribuyan a eliminar el uso de castigos físicos y sicológicos hacia los niños y las niñas.
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+VI. Diagnosticar de manera temprana aptitudes sobresalientes con la finalidad de brindar a las niñas y niños las herramientas correspondientes para estimular e impulsar sus habilidades.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1151,9 +1177,15 @@ I. Brindar a las niñas y a los niños los servicios médicos, sicológicos, de 
 
 II. Promover, extracurricularmente, el aprendizaje de una lengua extranjera, preferentemente el idioma inglés;
 
-III. Utilizar la informática y los avances científicos y tecnológicos como herramientas para facilitar el aprendizaje de las y los niños; y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+III. Utilizar la informática y los avances científicos y tecnológicos como herramientas para facilitar el aprendizaje de las y los niños;
 
 IV. Alcanzar los propósitos que señala el programa vigente.
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+V. Identificar y dar seguimiento a las niñas y niños que demuestren aptitudes sobresalientes dentro del desempeño escolar, a efecto de que el personal educativo brinde una atención acorde a las habilidades presentadas por el menor a fin de promover su desarrollo.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1175,9 +1207,15 @@ III. Promover e impulsar el aprendizaje de una lengua extranjera, preferentement
 
 IV. Proporcionar a las y los educandos las bases para el ejercicio de sus derechos y el cumplimiento de sus deberes con una perspectiva de género;
 
-V. Está dirigida a niñas y niños a partir de los seis años de edad al día treinta y uno de diciembre del año de inicio del ciclo escolar de su inscripción y que hayan acreditado la educación preescolar; y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+V. Está dirigida a niñas y niños a partir de los seis años de edad al día treinta y uno de diciembre del año de inicio del ciclo escolar de su inscripción y que hayan acreditado la educación preescolar;
 
 VI. Fomentar el conocimiento de las etnias para propiciar el respeto a su cultura, impulsar un trato de equidad y combatir su marginación;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+VII. Estimular el conocimiento y las habilidades de las niñas y niños en los cuales se detecten aptitudes sobresalientes, para que continúen potenciando las mismas, dando seguimiento a quienes hayan sido identificados en niveles educativos anteriores.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1463,7 +1501,9 @@ La Autoridad Educativa Estatal fomentará la investigación en la educación fí
 
 ARTÍCULO 62 BIS.- La educación física promoverá, fomentará y difundirá la cultura física en todas sus manifestaciones, a favor de la formación integral y con calidad, de todos los escolares de la educación básica, para lo cual:
 
-I. Estimulará la competencia motriz, la alfabetización física, el ejercicio físico y las disciplinas deportivas y de recreación en las instituciones de educación básica, así como su práctica recomendablemente:
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+I. Estimulará la competencia motriz, la alfabetización física, el ejercicio físico y las disciplinas deportivas y de recreación en las instituciones de educación básica, así como su práctica puntual:
 
 a) En educación preescolar, 30 minutos diarios semanalmente.
 
@@ -2369,9 +2409,9 @@ El Consejo Estatal de Participación Social estará constituido por padres y mad
 
 I. Promover y apoyar actividades extraescolares de carácter cívico, cultural, deportivo, de seguridad, salud, protección al ambiente y bienestar social;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
-II. Coadyuvar a nivel estatal en actividades de seguridad escolar, protección civil y emergencia escolar;
+II. Coadyuvar a nivel estatal en actividades de seguridad escolar, protección civil, emergencia escolar y primeros auxilios. La autoridad educativa fomentará la capacitación para tales efectos, y realizará la previsión relativa en el Marco Local de Convivencia Escolar.
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2016)</small>
 
@@ -2421,7 +2461,9 @@ VI. Realizar aportaciones relativas a las particularidades geográficas, cultura
 
 VII. Opinar en asuntos pedagógicos y conocer las demandas y necesidades de las escuelas pertenecientes al municipio para gestionar apoyos ante las instancias correspondientes;
 
-VIII. Coadyuvar a nivel municipal en actividades de protección civil, seguridad y emergencia escolar;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Coadyuvar a nivel municipal en actividades de protección civil, seguridad, emergencia escolar y primeros auxilios. La autoridad educativa fomentará la capacitación para tales efectos, y realizará la previsión relativa en el Marco Local de Convivencia Escolar.
 
 IX. Promover actividades de orientación, capacitación y difusión dirigidas a padres, madres de familia y tutores para favorecer la interacción entre la escuela y la familia;
 
@@ -2449,7 +2491,9 @@ IV. Proponer estímulos, reconocimientos y distinciones de carácter social a lo
 
 V. Estimular, promover y apoyar actividades extraescolares que complementen y respalden la formación de las y los educandos;
 
-VI. Llevar a cabo las acciones necesarias de participación, de coordinación y de difusión necesarias para la protección civil, seguridad y emergencia escolar;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+VI. Llevar a cabo las acciones necesarias de participación, de coordinación y de difusión necesarias para la protección civil, seguridad, emergencia escolar y primeros auxilios. La autoridad educativa fomentará la capacitación para tales efectos, y realizará la previsión relativa en el Marco Local de Convivencia Escolar.
 
 VII. Podrá opinar sobre asuntos pedagógicos y desarrollar acciones que contribuyan a reducir las condiciones sociales adversas que influyan en la educación; y
 
@@ -4504,6 +4548,54 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 11 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/2013/2022 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE EDUCACIÓN, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y A LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0295/2022 I P.O., MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO, Y SE ADICIONA UN PÁRRAFO TERCERO, DEL ARTÍCULO 14 DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0296/2022 I P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 35, FRACCIÓN IV; 37, PÁRRAFO SEGUNDO, FRACCIÓN III; 38, PÁRRAFO SEGUNDO, FRACCIÓN V; Y SE ADICIONAN A LOS ARTÍCULOS 13, UNA FRACCIÓN LVII; 35, UNA FRACCIÓN VI; 37, PÁRRAFO SEGUNDO, UNA FRACCIÓN V; Y 38, PÁRRAFO SEGUNDO, UNA FRACCIÓN VII; TODOS DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0297/2022 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8, FRACCIÓN V; Y SE ADICIONA AL ARTÍCULO 13, LA FRACCIÓN LVIII; AMBOS DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0298/2022 I P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 8, FRACCIÓN XIII; 136, FRACCIÓN II; 137, PÁRRAFO SEGUNDO, FRACCIÓN VIII; Y 138, PÁRRAFO SEGUNDO, FRACCIÓN VI; TODOS DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0304/2022 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 62 BIS, FRACCIÓN I, DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0305/2022 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 8 DE LA LEY ESTATAL DE EDUCACIÓN, UNA FRACCIÓN XXV".]
 
 ###### ARTÍCULO ÚNICO.
 
