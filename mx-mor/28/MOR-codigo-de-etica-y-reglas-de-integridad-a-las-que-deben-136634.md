@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-etica-y-reglas-de-integridad-a-las-que-deben-136634"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-08"
-last_updated: "2021-03-31"
+last_updated: "2022-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE ETICA Y REGLAS DE INTEGRIDAD A LAS QUE DEBEN SUJETARSE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA ESTATAL DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL PERIÓDICO OFICIAL DE 2 DE NOVIEMBRE DE 2022, EL PRESENTE CÓDIGO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD A LAS QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2022 (ABROGADO)
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el viernes 8 de febrero de 2019.
 
@@ -596,3 +598,13 @@ PRIMERA. El presente decreto entrará en vigor a partir del día siguiente de su
 SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente decreto.
 
 TERCERA. A partir de que entre en vigor el presente decreto, y una vez que se generen asuntos que involucren a un trabajador de base, los Comités de Ética de cada una de las secretarías, dependencias o entidades de la Administración pública estatal darán la intervención que corresponda al representante sindical, en términos del artículo 24, fracción VI, del Código de Ética y Reglas de Integridad a las que deben sujetarse los servidores públicos de la Administración pública estatal, para cuyo efecto deberán con la anticipación debida solicitar al sindicato correspondiente la designación del representante, a fin de que pueda ser debidamente convocado.
+
+P.O. 2 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ABROGA EL CÓDIGO DE ÉTICA Y REGLAS DE INTEGRIDAD A LAS QUE DEBEN SUJETARSE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al contenido del presente decreto.
+
+TERCERA. De conformidad con lo dispuesto por el artículo 30, fracción XX de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, la persona titular de la Secretaría de la Contraloría del Poder Ejecutivo estatal expedirá de manera inmediata, el nuevo Código de Ética de la Administración Pública Estatal, con las Reglas de Integridad para el ejercicio del servicio público.
