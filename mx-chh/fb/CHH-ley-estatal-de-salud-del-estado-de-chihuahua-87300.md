@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2022-01-26"
+last_updated: "2022-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -3339,9 +3339,13 @@ III.- La observación personal.
 
 IV.- La vacunación de personas.
 
-V.- La vacunación de animales.
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
-VI.- La destrucción o control de insectos u otra fauna transmisora y nociva.
+V.- La vacunación de animales, en colaboración con las autoridades en materia de ecología y medio ambiente.
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+VI.- La destrucción o control de insectos u otra fauna transmisora y nociva, esto con observancia de la Ley de Bienestar Animal para el Estado de Chihuahua, la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Chihuahua, así como de las normas en la materia.
 
 VII.- La suspensión de trabajos o servicios.
 
@@ -3383,9 +3387,11 @@ II.- En caso de epidemia grave.
 
 III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 367.
 
-El Ejecutivo del Estado podrá ordenar o proceder a la vacunación de animales, que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+El Ejecutivo del Estado podrá ordenar o proceder a la vacunación de animales, que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas del bienestar y protección animal.
 
 ###### Artículo 368.
 
@@ -3984,3 +3990,19 @@ Se derogan todas las disposiciones reglamentarias y administrativas en lo que se
 ###### ARTÍCULO TERCERO.
 
 Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, se deberán efectuar las adecuaciones respectivas al Reglamento Interior del Consejo Estatal de Salud.
+
+P.O. 2 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0300/2022 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 6, FRACCIONES V Y IX; Y SE ADICIONAN AL ARTÍCULO 35, LAS FRACCIONES XX Y XXI, AMBOS DE LA LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA; Y SE REFORMAN LOS ARTÍCULOS 362, FRACCIONES V Y VI; Y 367, AMBOS DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado incluirá, dentro de su presupuesto anual a partir del ejercicio fiscal 2023 y en los subsecuentes, recursos suficientes para la implementación de las disposiciones contempladas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal deberá emitir las disposiciones reglamentarias y Normas Técnicas Estatales necesarias de la presente reforma.
