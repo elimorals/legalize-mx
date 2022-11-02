@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-bienestar-animal-para-el-estado-de-chihuahua-77485"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2017-06-17"
+last_updated: "2022-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de noviembre de 2010
 
@@ -177,7 +177,9 @@ III. Expedir y, en su caso, revocar las autorizaciones, licencias y/o permisos q
 
 IV. Promover campañas permanentes de difusión en materia de protección y respeto a los animales, así como campañas que promuevan la reproducción responsable y esterilización de animales de compañía;
 
-V. Promover la creación de Centros de Control Animal ante los ayuntamientos del Estado;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+V. Promover la creación de Centros de Control Animal, por acto propio o por colaboración con los ayuntamientos del Estado. Para efectos, los antirrábicos deberán ser convertidos y funcionar como Centros de Control Animal.
 
 VI. Celebrar convenios con la Federación, los municipios, otras Entidades Federativas, así como con organismos e instituciones de los sectores social, académico y privado, relacionados con la materia de la presente Ley;
 
@@ -185,7 +187,9 @@ VII. Coadyuvar, con la autoridad competente, en la ejecución de las medidas zoo
 
 VIII. Crear los instrumentos económicos adecuados para incentivar a las organizaciones de la sociedad civil dedicadas a la protección de los animales, y para el desarrollo de programas de educación y difusión en la materia;
 
-IX. Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la Federación, en las materias de su competencia;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+IX. Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la Federación, observando los principios y objetivos de la presente Ley, creando por consecuencia las Normas Técnicas para el Estado y sus reglamentos.
 
 X. Ordenar la práctica de visitas de inspección y vigilancia, con el objeto de verificar que las condiciones en que se encuentran los animales sean las establecidas por la Ley y sus disposiciones reglamentarias;
 
@@ -654,6 +658,14 @@ XVIII. Hacer del conocimiento de los habitantes en las localidades de su compete
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
 XIX. Retirar de la vía pública y áreas de uso común de unidades habitacionales, a perros y gatos visiblemente enfermos o gravemente lesionados, cuyo bienestar se encuentre comprometido ante la ausencia de una persona responsable de su tutela.
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+XX. Aplicar las Normas Oficiales Mexicanas, así como la promoción y aplicación de las Normas Técnicas del Estado, conforme a los principios y objetivos de esta Ley.
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
+
+XXI. Asumir las funciones y facultades de los antirrábicos, en coordinación con las autoridades sanitarias, para la atención de la zoonosis, tratamiento y destino de animales muertos y la detección de lugares que representen un peligro para la salud pública.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2016)</small>
 
@@ -1312,3 +1324,19 @@ P.O. 17 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLEY/0300/2022 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 6, FRACCIONES V Y IX; Y SE ADICIONAN AL ARTÍCULO 35, LAS FRACCIONES XX Y XXI, AMBOS DE LA LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA; Y SE REFORMAN LOS ARTÍCULOS 362, FRACCIONES V Y VI; Y 367, AMBOS DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado incluirá, dentro de su presupuesto anual a partir del ejercicio fiscal 2023 y en los subsecuentes, recursos suficientes para la implementación de las disposiciones contempladas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo Estatal deberá emitir las disposiciones reglamentarias y Normas Técnicas Estatales necesarias de la presente reforma.
