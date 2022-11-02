@@ -4,7 +4,7 @@ identifier: "LHHEUM"
 country: "mx"
 rank: "ley"
 publication_date: "2022-10-28"
-last_updated: "2022-10-28"
+last_updated: "2022-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160795&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LHHEUM"
 ---
 # LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE NOVIEMBRE DE 2022 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-LEY DE LOS HUSOS HORARIOS EN LOS ES8TADOS UNIDOS MEXICANOS
+LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 2 DE NOVIEMBRE DE 2022.]</small>
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el viernes 28 de octubre de 2022.
 
@@ -112,4 +112,6 @@ Cuarto.- Se derogan todas las disposiciones que se opongan al presente ordenamie
 
 Ciudad de México, a 25 de octubre de 2022.- Dip. Santiago Creel Miranda, Presidente.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas."
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+> <small>(F. DE E., D.O.F. 2 DE NOVIEMBRE DE 2022)</small>
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
