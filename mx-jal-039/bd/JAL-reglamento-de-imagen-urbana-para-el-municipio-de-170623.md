@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2022-06-01"
+last_updated: "2022-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 1 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 3 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -115,9 +115,17 @@ XVII. Reglamento: El presente Reglamento de Imagen Urbana;
 
 XVIII. Traza Urbana: Es el padrón de organización espacial del asentamiento, y está conformada por parámetros, vialidades y espacios abiertos, como legado histórico constituye un patrimonio cultural de la localidad;
 
-XIX. Vialidad. Es el espacio público destinado a la circulación o desplazamiento de vehículos y peatones, considerándose tres tipos de vialidad, la vehicular, la peatonal y la mixta; y
+> <small>(REFORMADA, G.M. 3 DE NOVIEMBRE DE 2022)</small>
 
-XX. Vías Peatonales o Andadores: Son las vías para uso exclusivo de peatones con acceso estrictamente controlado para vehículos de servicios o emergencias.
+XIX. Vialidad. Es el espacio público destinado a la circulación o desplazamiento de vehículos y peatones, considerándose tres tipos de vialidad, la vehicular, la peatonal y la mixta;
+
+> <small>(REFORMADA, G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
+XX. Vías Peatonales o Andadores: Son las vías para uso exclusivo de peatones con acceso estrictamente controlado para vehículos de servicios o emergencias; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
+XXI. Infraestructura Básica: Redes generales que permiten suministrar en las distintas unidades territoriales y áreas que integran el Centro de Población, los servicios públicos de vialidad municipal, agua potable, drenaje sanitario y pluvial, energéticos y telecomunicaciones.
 
 ### Capítulo II. De la Ciudad de Guadalajara y sus Zonas
 
@@ -229,9 +237,17 @@ En áreas de protección del perímetro A y B correspondientes a las áreas de p
 
 La infraestructura y servicios se regirán mediante las siguientes disposiciones:
 
-I. No se permitirá la instalación de nuevas estructuras tales como tanques elevados, torres de comunicaciones, subestaciones eléctricas, que afecten la imagen urbana de la zona centro metropolitano; y
+> <small>(REFORMADA, G.M. 3 DE NOVIEMBRE DE 2022)</small>
 
-II. Cuando se excave en la vía pública para la realización de obras de drenaje, agua, alcantarillado, electrificación, teléfonos, u otros, los elementos patrimoniales eventualmente afectados, deberán sustituirse con otros de características iguales a los originales.
+I. No se permitirá la instalación de nuevas estructuras tales como tanques elevados, torres de comunicaciones, subestaciones eléctricas, que afecten la imagen urbana de la zona centro metropolitano;
+
+> <small>(REFORMADA, G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
+II. Cuando se excave en la vía pública para la realización de obras de drenaje, agua, alcantarillado, electrificación, teléfonos, u otros, los elementos patrimoniales eventualmente afectados, deberán sustituirse con otros de características iguales a los originales; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
+III. Estará restringida la instalación de infraestructura básica para uso en servicios de telecomunicaciones en zonas donde la infraestructura existente se encuentre de manera subterránea, por lo que su instalación deberá adecuarse al tipo de infraestructura de la zona.
 
 ## TÍTULO TERCERO. De la Vialidad Peatonal y Vehicular
 
@@ -359,9 +375,13 @@ I. Para cualquier obra de pavimentación, se requerirá la evaluación y soluci�
 
 II. Las obras de mantenimiento y conservación de las carpetas, y recubrimientos en vialidades, serán permitidas en horarios que no interfieran con las actividades de las poblaciones y el turismo;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
 III. Se prohíbe la sustitución de materiales históricos o tradicionales por contemporáneos, ya sea pavimentos rígidos o flexibles; y
 
-IV. Las instalaciones y cableados en general deberán ser de acuerdo a las normas técnicas específicas.
+> <small>(REFORMADA, G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
+IV. Las instalaciones y cableados en general deberán ser de acuerdo a las normas técnicas específicas, y en caso de ser viable se deberá construir nueva infraestructura subterránea para tal efecto.
 
 ## TÍTULO NOVENO. De las Obligaciones de los Habitantes
 
@@ -401,13 +421,17 @@ III. Retirar el anuncio al término de la vigencia de su autorización, permiso 
 
 IV. Barrer o limpiar el pasillo o andador correspondiente a su área diariamente;
 
-> <small>(REFORMADA, G.M. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, G.M. 3 DE NOVIEMBRE DE 2022)</small>
 
-V. Ejecutar las labores propias de sus negocios únicamente en el interior de sus establecimientos, a excepción de restaurantes y cafés al aire libre y otros giros que se especifican en el artículo 21 bis del Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara, y que cuenten con previa autorización por parte del área municipal correspondiente; y
+V. Ejecutar las labores propias de sus negocios únicamente en el interior de sus establecimientos, a excepción de restaurantes y cafés al aire libre y otros giros que se especifican en el artículo 21 bis del Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara, y que cuenten con previa autorización por parte del área municipal correspondiente;
 
-> <small>(ADICIONADA, G.M. 1 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 3 DE NOVIEMBRE DE 2022)</small>
 
-VI. Retirar los objetos previamente autorizados que de manera temporal se coloquen en espacios públicos.
+VI. Retirar los objetos previamente autorizados que de manera temporal se coloquen en espacios públicos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
+VII. Mantener en buen estado físico y en condiciones de seguridad las instalaciones e infraestructura básica colocada por los comerciantes, prestadores de servicios o empresarios, así como retirar a su costa la infraestructura obsoleta que se encuentre en la vía pública.
 
 ###### Artículo 37.
 
@@ -608,3 +632,13 @@ Cuarto. Se instruye a las Coordinaciones Generales de Desarrollo Económico y a 
 Quinto. Notifíquense las presentes reformas a las Coordinaciones Generales de Desarrollo Económico y a la de Combate a la Desigualdad, a la Superintendencia del Centro Histórico, a la Dirección de Movilidad y Transporte, a la Consejería Jurídica y a la Tesorería, para su conocimiento y efectos conducentes.
 
 Sexto. Se faculta al Secretario General del Ayuntamiento, para que realice las acciones administrativas necesarias para el cumplimiento del presente ordenamiento.
+
+G.M. 3 DE NOVIEMBRE DE 2022.
+
+[TRANSITORIOS DEL DECRETO D 24/33/22 DE “REFORMAS AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA, AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas remítanse un tanto de las mismas al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
