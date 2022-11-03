@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2022-08-30"
+last_updated: "2022-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "YUC"
 ---
 # REGLAMENTO DEL CODIGO DE LA ADMINISTRACION PUBLICA DE YUCATAN
 
+> <small>[N. DE E.: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 [NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 7/2018 PUBLICADO EN EL D.O. DE 27 DE NOVIEMBRE DE 2018 SE ABROGA EL DECRETO 661/2018 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE LA CONTRALORÍA GENERAL PUBLICADO EN EL D.O. EL 28 DE SEPTIEMBRE DE 2018.]
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -3295,7 +3297,9 @@ XXXVI. Aplicar los medios de apremio previstos en la Ley del Notariado del Estad
 
 XXXVII. Emitir el acuerdo de admisión, desechamiento o prevención de quien interponga la queja, en términos de la Ley del Notariado del Estado de Yucatán;
 
-XXXVIII. Emitir la orden de visita especial a una notaría pública en términos de la Ley del Notariado del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 3 DE NOVIEMBRE DE 2022)</small>
+
+XXXVIII. Emitir la orden de visita para la realización de las visitas ordinarias y especiales, según corresponda, en términos de los artículos 128, 130 y 135 de la Ley del Notariado del Estado de Yucatán y su reglamento;
 
 XXXIX. Emitir el acuerdo de suspensión o reanudación del procedimiento de trámite de la queja a que se refiere la Ley del Notariado del Estado de Yucatán;
 
@@ -3861,9 +3865,9 @@ XLV. Restaurar la información que se haya perdido con motivo de la posible vuln
 
 XLVI. Elaborar la propuesta del programa anual de visitas de inspección ordinarias a las notarías públicas del estado;
 
-> <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, D.O. 3 DE NOVIEMBRE DE 2022)</small>
 
-XLVII. Instruir a los visitadores adscritos a su dirección la realización de las visitas ordinarias conforme al programa anual de visitas de inspección ordinarias aprobado, así como las especiales que ordene el consejero jurídico;
+XLVII. Emitir la orden de visita para la realización de las visitas ordinarias, en términos del artículo 128 de la Ley del Notariado del Estado de Yucatán y su reglamento;
 
 > <small>(ADICIONADA, D.O. 21 DE JULIO DE 2022)</small>
 
@@ -15752,3 +15756,25 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Adecuaciones presupuestales y administrativas
 
 La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas como resultado de este decreto.
+
+D.O. 3 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 565/2022 POR EL QUE SE MODIFICAN EL REGLAMENTO DE LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inicio del procedimiento de recertificación
+
+El procedimiento de actualización y recertificación de Notarios Públicos y de Aspirantes a Notario Público a cargo de la Consejería Jurídica iniciará, a más tardar, el 31 de enero de 2023, mediante la expedición de la convocatoria respectiva.
+
+Las consecuencias jurídicas de no contar con la constancia de actualización y recertificación comenzarán a aplicarse después del mes de marzo de 2024.
+
+Tercero. Plazo para la actualización de convenios de suplencia
+
+Para efectos de la modificación del artículo 51 Bis, los Notarios Públicos deberán modificar sus convenios de suplencia para ajustarlos a lo previsto en este decreto, dentro del plazo de noventa días naturales, contado a partir de su entrada en vigor.
+
+Cuarto. Disposiciones relativas a los escribanos públicos
+
+Las disposiciones del reglamento de la Ley del Notariado del Estado de Yucatán derogadas o reformadas conforme a este decreto que regían la actuación de los escribanos públicos seguirán aplicando únicamente para aquellos escribanos públicos que, a la entrada en vigor de este decreto, se encuentren en funciones hasta que concluya la vigencia de su nombramiento, conforme a lo previsto en el artículo transitorio noveno del Decreto 505/2022 por el que se modifican la Ley del Notariado del Estado de Yucatán, el Código de Familia para el Estado de Yucatán, la Ley General de Hacienda del Estado de Yucatán, el Código Civil del Estado de Yucatán, el Código de la Administración Pública de Yucatán, la Ley del Catastro del Estado de Yucatán, la Ley Orgánica de la Junta de Agua Potable y Alcantarillado del Estado de Yucatán, la Ley de Fraccionamientos del Estado de Yucatán, la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán, la Ley de Partidos Políticos del Estado de Yucatán, la Ley del Instituto de Vivienda del Estado de Yucatán, la Ley para la Donación y Trasplantes de Órganos, Tejidos y Células en el Estado de Yucatán y la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 7 de junio de 2022.
