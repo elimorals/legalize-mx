@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2021-09-30"
+last_updated: "2022-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 3 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -3621,6 +3621,22 @@ Para las instalaciones subterráneas, uso de la infraestructura de penetración,
 
 Para llevar a cabo cualquier instalación aérea, tales como elementos de telecomunicación, postes, contra postes, puntales, postes de refuerzo, sostenes para apoyo, antenas, cables, tensores, cámaras de video, o cualquier otro elemento similar, deberán observarse las normas técnicas en materia de diseño de cada especialidad de ingeniería e imagen urbana.
 
+> <small>(ADICIONADO, G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 218 Bis.
+
+Estará restringida la instalación de infraestructura básica para uso en servicios de telecomunicaciones en zonas donde la infraestructura existente se encuentre de manera subterránea, por lo que su instalación deberá adecuarse al tipo de infraestructura de la zona.
+
+> <small>(ADICIONADO, G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 218 Ter.
+
+En caso que el promovente haga uso de postes de propiedad municipal para la instalación de nueva infraestructura de servicios de telecomunicaciones, deberá contar con una póliza de seguro que cubra la responsabilidad civil con respecto a los daños ocasionados a terceros en sus bienes o en su persona, durante todo el tiempo que haga uso de bienes de propiedad municipal.
+
+La póliza deberá ser actualizada anualmente por el promovente y deberá presentarla ante la Dirección de Licencias de Construcción.
+
+La cancelación de la póliza solo procederá cuando sea retirado el elemento instalado o construido, con la autorización de la Dirección de Licencias de Construcción.
+
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 219.
@@ -5740,3 +5756,13 @@ Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicació
 Tercero. Se instruye a la Coordinación General de Gestión Integral de la Ciudad, en esta única ocasión presente en el mes de octubre del año 2021, el Programa Anual con reglas de operación de Intervención para predios generadores, en el que, los que ejercieron transferencias se consideren prioridad, reglas de operación que deberán prever, los procesos, procedimientos, criterios administrativos, técnicos y financieros para la correcta y eficaz gestión de la transferencia de derechos de desarrollo urbano.
 
 Cuarto. Una vez publicado el presente ordenamiento, remítase una copia de él al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 3 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE ”REFORMAS AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA, AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas remítanse un tanto de las mismas al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
