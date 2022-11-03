@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-10-31"
+last_updated: "2022-11-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 3 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -6695,9 +6695,17 @@ XVI. Preparar los manuales de organización y de procedimientos de la dirección
 
 XVII. Resolver, de conformidad con la normatividad aplicable y el dictamen correspondiente, los trámites administrativos relativos a las solicitudes de subdivisiones, re lotificaciones, régimen de condominio y regularización de predios enclavados en el Municipio;
 
-XVIII. Emitir los protocolos de medidas de seguridad y atención a emergencias para edificaciones, remodelaciones y demoliciones; y
+> <small>(REFORMADA, G.M. 3 DE NOVIEMBRE DE 2022)</small>
 
-XIX. Otorgar los vistos buenos para proyectos de edificaciones, remodelaciones y demoliciones previamente avalados por un Director o Directora Responsable de Obra, con registro municipal vigente, y que cumplan con los estudios y requerimientos técnicos aplicables en materia de seguridad estructural.
+XVIII. Emitir los protocolos de medidas de seguridad y atención a emergencias para edificaciones, remodelaciones y demoliciones;
+
+> <small>(REFORMADA, G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
+XIX. Otorgar los vistos buenos para proyectos de edificaciones, remodelaciones y demoliciones previamente avalados por un Director o Directora Responsable de Obra, con registro municipal vigente, y que cumplan con los estudios y requerimientos técnicos aplicables en materia de seguridad estructural; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 3 DE NOVIEMBRE DE 2022)</small>
+
+XX. Supervisar de conformidad con las disposiciones correspondientes, el estricto cumplimiento de la reglamentación municipal aplicable al uso de postes o de cualquier infraestructura propiedad municipal.
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN SÉPTIMA], G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -8162,3 +8170,13 @@ Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Munici
 Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 3 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REFORMAS AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA, AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas remítanse un tanto de las mismas al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
