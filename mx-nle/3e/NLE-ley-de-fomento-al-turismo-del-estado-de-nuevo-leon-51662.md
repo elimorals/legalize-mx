@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-al-turismo-del-estado-de-nuevo-leon-51662"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-04"
-last_updated: "2020-06-05"
+last_updated: "2022-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE FOMENTO AL TURISMO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 4 de septiembre de 2006.
 
@@ -85,9 +85,21 @@ VI. Prestador de Servicios Turísticos: La persona física o moral que habitualm
 
 VII. Turista: La persona que viaja trasladándose temporalmente fuera de su lugar de residencia habitual y que utiliza alguno de los servicios a que se refiere esta Ley, sin perjuicio de lo dispuesto por la Ley General de Población para los efectos migratorios;
 
-VIII. Normas Oficiales Mexicanas: La regulación técnica de observancia obligatoria expedida por las dependencias competentes conforme a las finalidades que establecen las reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio, método de producción u operación, así como aquéllas relativas a terminología, simbología, embalaje, marcando o etiquetando y las que se refieran a su cumplimiento o aplicación; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
-IX. Zona Turística: El área destinada o desarrollada principalmente para la actividad turística y en la que se prestan servicios turísticos, incluyendo zonas afines y arqueológicas.
+VIII. Normas Oficiales Mexicanas: La regulación técnica de observancia obligatoria expedida por las dependencias competentes conforme a las finalidades que establecen las reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio, método de producción u operación, así como aquellas relativas a terminología, simbología, embalaje, marcando o etiquetando y las que se refieran a su cumplimiento o aplicación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+IX. Pueblo Mágico: Localidad que le ha sido otorgado dicho nombramiento por la Dependencia Federal en materia de turismo, dado que cumple con los lineamientos establecidos para obtener y conservar esta distinción que se otorga a aquellas localidades que, a través del tiempo y ante la modernidad, han conservado, valorado y defendido su herencia histórica, cultural y natural; y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible irremplazable;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+X. Rutas Turísticas: Recorridos autorizados por la Secretaría de Turismo organizadas por el sector público o privado que permite conocer los atractivos turísticos, culturales, históricos y sociales que ofrece la Entidad, así como la cultura gastronómica de las regiones que integran el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+XI. Zona Turística: El área destinada o desarrollada principalmente para la actividad turística y en la que se prestan servicios turísticos, incluyendo zonas afines y arqueológicas.
 
 ###### Artículo 3.
 
@@ -245,11 +257,173 @@ La Corporación apoyará y coordinará, conjuntamente con las dependencias y org
 
 Las dependencias estatales y autoridades municipales, con estricta observancia a su competencia legal, coadyuvarán con la Corporación en las actividades de promoción al turismo.
 
-### CAPÍTULO IV (SIC). Del Fomento al Turismo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+### CAPÍTULO IV (SIC). Del Fomento al Turismo y fortalecimiento de los Pueblos Mágicos
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+#### SECCIÓN PRIMERA. Del Fomento al Turismo
 
 ###### Artículo 22.
 
 El Gobierno del Estado, a través de sus dependencias y entidades competentes, apoyará la obtención de financiamientos para el desarrollo de proyectos turísticos, así mismo, gestionará ante las autoridades correspondientes el otorgamiento de facilidades, beneficios e incentivos a los inversionistas en actividades turísticas.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+En caso de declaratoria de desastre natural o declaratoria de emergencia emitida por la autoridad competente, el Gobierno del Estado, a través de sus dependencias y entidades correspondientes, gestionará el otorgamiento de beneficios y apoyos, de acuerdo a las disposiciones legales aplicables, para los prestadores de servicios turísticos de la zona afectada, debidamente acreditados en los términos de Ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. Del Fortalecimiento de los Pueblos Mágicos
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis.
+
+Corresponde al Titular del Poder Ejecutivo por conducto de la Secretaría de Turismo y la Corporación para el Desarrollo Turístico de Nuevo León, sin perjuicio de las atribuciones que en la materia otorga el artículo 3 de la presente Ley u otros ordenamientos legales:
+
+I. Promover el aprovechamiento de los principales atractivos turísticos, culturales e históricos de los Municipios que sean catalogados como Pueblos Mágicos dentro del Estado, con finalidad de que sean difundidos a nivel local, nacional e internacional;
+
+II. Ofrecer información especializada y oportuna encaminada a promover la visita a los Pueblos Mágicos del Estado;
+
+III. Impulsar programas para mejorar la calidad y competitividad de los servicios turísticos que se brindan en los Pueblos mágicos del Estado;
+
+IV. Brindar asesoría y apoyo técnico a los Pueblos Mágicos para que conserven dicha denominación;
+
+V. Promover acciones tendientes al reconocimiento de nuevos Pueblos Mágicos;
+
+VI. Dar acompañamiento permanente a los Municipios que aspiren a convertirse en Pueblo Mágico durante el proceso que al efecto establezca la Dependencia Federal encargada de otorgar dicha denominación; y
+
+VII. Promover e impulsar las acciones necesarias en materia presupuestal, que permitan la permanencia y el fortalecimiento de los denominados Pueblos Mágicos en el Estado.
+
+Para efectos de lo establecido en el párrafo anterior, el Ejecutivo del Estado deberá incluir en su proyecto de presupuesto de egresos para cada ejercicio fiscal, una o varias partidas destinadas al apoyo de los Pueblos Mágicos del Estado, las cuales serán adicionales a los recursos que en su caso el Gobierno Federal destine para dichos fines.
+
+Los Municipios que apliquen y accedan a la implementación de estos recursos podrán publicar dentro de sus páginas de internet oficiales un desglose de las actividades u obras a las que se aplicaron dichos recursos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+#### SECCIÓN TERCERA. De los Comités Municipales para el Desarrollo de los Pueblos Mágicos
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis 1.
+
+El Municipio que sea catalogado como Pueblo Mágico promoverá y convocará la participación de la ciudadanía para coadyuvar en los fines y funciones de la actividad turística, mediante los Comités Municipales para el desarrollo de los Pueblos Mágicos.
+
+Se considera Comité Municipal para el desarrollo del Pueblo Mágico al grupo de representantes de los sectores público, privado y social que tiene el objetivo de representar la voz de la comunidad ante autoridades e instancias gubernamentales. Su función es fungir como instancia de consulta y análisis de los proyectos turísticos que pretendan llevarse a cabo en el Pueblo Mágico y coadyuvar en el en desarrollo de dichos proyectos.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis 2.
+
+El Comité Municipal para el desarrollo del Pueblo Mágico deberá contar con un programa de trabajo, de acuerdo a los lineamientos establecidos por la Secretaría de Turismo, así como por la Corporación para el Desarrollo Turístico del Estado, bajo las siguientes acciones:
+
+I. Contar con un inventario turístico completo de la localidad, que incluya los productos, festivales y tradiciones que forman parte del patrimonio histórico, cultural, arquitectónico con el que cuenta el Pueblo Mágico;
+
+II. Acciones que fomenten la conservación del patrimonio tangible e intangible de la localidad;
+
+III. Acciones que fomenten la preservación y conservación de los atractivos con los que cuenta la localidad;
+
+IV. Acciones que fomenten la promoción y difusión de la localidad;
+
+V. Acciones que promuevan el trabajo conjunto de los prestadores de servicios turísticos; y
+
+VI. Programas de sensibilización a la ciudadanía para preservar, cuidar y conservar de los atractivos turísticos del Pueblo Mágico.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis 3.
+
+El Comité Municipal para el desarrollo del Pueblo Mágico no tendrá acceso a la administración de los recursos que son canalizados a través de los Convenios de Coordinación en Materia de Reasignación de Recursos, ya sean otorgados por el Estado o la Federación.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis 4.
+
+Atendiendo al objeto y de acuerdo con la sectorización que determine la Autoridad Municipal, el Comité Municipal para el Desarrollo del Pueblo Mágico se integrará mediante el siguiente procedimiento:
+
+I. El Ayuntamiento a través de su Presidente Municipal convocará mediante los medios que considere pertinentes, a los representantes de los diferentes sectores de la comunidad a fin de constituir el Comité Municipal para el Desarrollo del Pueblo Mágico.
+
+II. El Comité Municipal para el Desarrollo del Pueblo Mágico deberá estar formado como máximo por siete personas de los siguientes sectores de la población:
+
+a). El titular de la Secretaría de Turismo o su equivalente del Municipio;
+
+b). Un integrante del Ayuntamiento;
+
+c). Un representante de los Comerciantes Establecidos en el Municipio;
+
+d). Un representante de los Artesanos establecidos en el Municipio;
+
+e). Un Líder de opinión;
+
+f). Un representante de los Restauranteros del Municipio; y
+
+g). Un representante de los Hoteleros del Municipio.
+
+Todos los integrantes contarán con voz y voto y desempeñarán su función en forma honorífica.
+
+III. En la convocatoria se indicarán los requisitos para poder formar parte del Comité Municipal para el Desarrollo del Pueblo Mágico, así como el lugar, fecha y hora para la recepción de la documentación correspondiente.
+
+IV. Las propuestas recibidas serán analizadas por la Comisión de Turismo del Ayuntamiento o su equivalente, la cual elaborará un dictamen que contendrá la propuesta de como máximo las 7 personas que reúnan todos los requisitos. Dicho dictamen será remitido al Ayuntamiento para que en Sesión Ordinaria sea sometido a consideración y en su caso aprobación por las dos terceras partes de sus integrantes.
+
+V. Una vez concluido lo señalado en la fracción anterior, se citará a los integrantes que formarán parte del Comité Municipal para el Desarrollo del Pueblo Mágico a fin de que rindan su toma de protesta.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis 5.
+
+Dentro del Comité Municipal para el Desarrollo del Pueblo Mágico deberá de ser nombrado un Presidente y un Secretario, los cuales no deberán estar desempeñando cargo alguno en el gobierno federal, estatal y/o municipal. Estos serán elegidos por votación en mayoría simple de los miembros del mismo Comité en la primera sesión.
+
+Los cargos de Presidente y Secretario durarán un año, no existiendo impedimento para que quien los ocupe puedan ser reelegidos.
+
+Una vez hecha la elección, se deberá de redactar el acta en donde se les acredite como tal. Dicha acta deberá ser ratificada por todo el Comité.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis 6.
+
+El Presidente del Comité Municipal para el Desarrollo del Pueblo Mágico contará con las siguientes funciones:
+
+I. Proporcionar las facilidades necesarias para que el Programa de Trabajo de este Comité Municipal para el Desarrollo del Pueblo Mágico se lleve a cabo correctamente;
+
+II. Ser el interlocutor entre el Comité Municipal para el Desarrollo del Pueblo Mágico y los diferentes niveles de Gobierno; y
+
+III. Ser el representante del Comité Municipal para el Desarrollo del Pueblo Mágico en las reuniones de trabajo que así lo requieran.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis 7.
+
+El Secretario del Comité Municipal para el Desarrollo del Pueblo Mágico contará con las siguientes funciones:
+
+I. Convocar con un mínimo de cinco días hábiles de anticipación, a las reuniones de trabajo a los integrantes del Comité Municipal para el Desarrollo del Pueblo Mágico, especificando lugar, fecha y hora en donde se llevará a cabo la misma;
+
+II. Redactar las minutas de todas las reuniones y presentarlas ante los integrantes para recabar sus firmas;
+
+III. Resguardar todas las minutas; y
+
+IV. Dar seguimiento a los acuerdos.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis 8.
+
+El Comité Municipal para el Desarrollo del Pueblo Mágico deberá establecer un calendario en donde se establecerá la periodicidad de las reuniones, debiendo programarse al menos cuatro al año. En dichas reuniones se discutirán los avances del Plan de Trabajo del Comité y el avance de los proyectos que se realicen en la localidad como parte del apoyo al desarrollo del Programa Pueblos Mágicos.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis 9.
+
+Para que el Comité Municipal para el Desarrollo del Pueblo Mágico pueda sesionar será necesario contar con la presencia de la mayoría de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 22 Bis 10.
+
+En las Sesiones del Comité Municipal para el Desarrollo del Pueblo Mágico podrán participar ciudadanos, mismos que serán considerados como invitados, siempre y cuando se notifique a todos los miembros del Comité.
+
+Los invitados tendrán voz, pero no voto y no deberá de exceder a cinco invitados por sesión.
 
 ## TÍTULO CUARTO. Desarrollo Turístico
 
@@ -393,9 +567,41 @@ El objetivo de la actividad turística sustentable es la preservación, conserva
 
 La práctica de la actividad turística sustentable será fomentada a través de los convenios que sean celebrados entre los distintos actores involucrados en el sector, promoviéndose de manera especial la educación ecológica del turista y de los residentes de las áreas donde se tenga este tipo de turismo.
 
-### CAPÍTULO V. De la Capacitación Turística
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
-### CAPÍTULO VI. De la Protección al Turista
+### CAPÍTULO IV BIS. Del Turismo Gastronómico
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 38 Bis.
+
+La Corporación para el Desarrollo Turístico promoverá en conjunto con los diversos integrantes del sector turístico acciones que difundan la Gastronomía típica de la Entidad a nivel nacional e internacional como parte de los elementos turísticos que ofrece el Estado de Nuevo León.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+### CAPÍTULO IV BIS I. Del Turismo de la Salud
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 38 Bis 1.
+
+La Corporación para el Desarrollo Turístico de Nuevo León, en coordinación con la Secretaría de Salud y con el sector turístico, promocionarán e impulsarán acciones que tengan como objeto ofertar el turismo de la salud que se ofrece en nuestra Entidad en el ámbito público y privado para la recuperación, atención, rehabilitación o relajación del bienestar físico, mental o emocional de una persona.
+
+Para este caso, los prestadores del turismo de la salud deberán respetar los criterios y lineamientos que señala la Ley General de Salud y demás legislación del ámbito local y federal aplicada en esta materia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+### CAPÍTULO IV BIS II. Del Turismo Deportivo
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 38 Bis 2.
+
+La Corporación para el Desarrollo Turístico de Nuevo León realizará acciones tendientes a organizar y promocionar las atracciones, eventos, competencias y justas deportivas, que se realizan en la Entidad.
+
+Los promotores para la organización de eventos deberán tramitar los permisos, licencias y autorizaciones que se requieran de conformidad a las Leyes, reglamentos y demás disposiciones aplicables de la materia.
+
+### CAPÍTULO V. De la Capacitación Turística
 
 ###### Artículo 39.
 
@@ -408,6 +614,8 @@ La Corporación establecerá los mecanismos de coordinación con la Secretaría,
 ###### Artículo 41.
 
 La Corporación llevará un registro de los centros de enseñanza dedicados a la especialidad del turismo reconocidos oficialmente por la Secretaría de Educación Pública y la Secretaría de Educación en el Estado, con el objeto de dar a conocer a los prestadores de servicios turísticos que lo soliciten, la validez oficial y el nivel académico de estos planteles educativos.
+
+### CAPÍTULO VI. De la Protección al Turista
 
 ###### Artículo 42.
 
@@ -474,6 +682,112 @@ En caso de que el turista resida en el extranjero podrá enviar su denuncia a la
 ###### Artículo 47.
 
 Los servidores públicos que incumplan lo dispuesto por esta Ley se encontrarán sujetos a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Nuevo León, independientemente de las responsabilidades a las que se hagan acreedores.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+### CAPÍTULO VII. De los Consejos Consultivos Municipales y Regionales de Turismo
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 48.
+
+Los Municipios del Estado que no cuenten con la denominación de Pueblo Mágico podrán integrar Consejos Consultivos Municipales de Turismo, los cuales serán órganos de consulta, asesoría y apoyo técnico de los Municipios, y que tienen por objeto integrar estrategias y mecanismos que impulsen el desarrollo del turismo sostenible y de la actividad artesanal en el Municipio.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 49.
+
+Los Consejos Municipales serán conformados por:
+
+I. La o el Presidente Municipal, quien lo presidirá;
+
+II. El Director de Turismo o el funcionario municipal homólogo a cargo del sector turístico;
+
+III. Dos representantes de las y los prestadores de servicios turísticos;
+
+IV. Dos representantes de las y los artesanos del Municipio;
+
+V. Un representante de los hoteleros y restauranteros del Municipio; y
+
+VI. Un representante de la ciudadanía que sea habitante del Municipio.
+
+La elección de las y los representantes de las fracciones III, IV, V y VI será mediante convocatoria emitida por el Ayuntamiento, cuyo cargo será honorifico, con duración de un año, con la posibilidad de ser reelecto para el periodo inmediato, y hasta por un periodo más.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 50.
+
+Una vez realizada la elección mencionada, el Director de Turismo o el funcionario municipal a cargo del sector turístico, llevará a cabo la instalación del Consejo Municipal en los próximos cinco días hábiles a ésta, debiendo convocar a cada uno de los miembros para la toma de protesta respectiva.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 51.
+
+Los requisitos que deberá contemplar la Convocatoria para las y los representantes señalados en las fracciones III, IV, V y VI, del artículo 49, serán:
+
+I. Ser vecino del Municipio con una residencia mínima de cinco años;
+
+II. Estar al corriente en la declaración y pago de sus obligaciones y contribuciones, de conformidad con lo que establezcan las autoridades fiscales correspondientes;
+
+III. Ser de reconocida honorabilidad;
+
+IV. Ser de reconocido trabajo en pro de su gremio; y
+
+V. Presentar un proyecto de trabajo que promueva el desarrollo y progreso, en su caso del sector turístico, hotelero, restaurantero o bien para el sector artesanal.
+
+Tratándose del representante ciudadano, deberá cubrir los requisitos señalados en las fracciones I, II, III y V anteriormente descritas.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 52.
+
+El Director de Turismo o el funcionario municipal a cargo del sector turístico tendrá a su cargo las siguientes funciones:
+
+I. Apoyar al Presidente en todas las actividades inherentes al desarrollo de las sesiones;
+
+II. Dar seguimiento de los acuerdos tomados en el seno del Consejo Municipal;
+
+III. Verificar el proceso de asignación de los representantes en el Consejo; y
+
+IV. Emitir las Convocatorias para las reuniones del Consejo.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 53.
+
+El Consejo Municipal sesionará mínimo cada dos meses, teniendo todos sus integrantes voz y voto. En caso de empate, el Presidente contará con voto de calidad.
+
+El Consejo Municipal podrá invitar a instituciones y entidades públicas, locales y municipales, privadas y sociales que se determinen y, además, a personas relacionadas con el turismo en el Estado, con participación única y exclusivamente con derecho a voz.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 54.
+
+El Consejo Municipal podrá solicitar asesoría técnica a las Dependencias Estatales, así como de los sectores sociales y privados, para la ejecución de proyectos productivos, de infraestructura y de mantenimiento en materia turística.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 55.
+
+El Consejo Municipal podrá colaborar y participar en los esfuerzos que realice el Gobierno Estatal, los gobiernos municipales, así como los sectores social y privado, dentro del proceso integral de la planeación turística sostenible de cada Municipio.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 56.
+
+Los Municipios podrán formar Consejos Regionales de Turismo, con el objetivo de integrar estrategias y mecanismos que impulsen el desarrollo del turismo sostenible en la región integrada por los Municipios o bien por donde sea autorizada una ruta de turismo.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 57.
+
+Los Consejos Regionales serán integrados por las o los Presidentes Municipales, quienes velarán por los intereses de sus representados.
+
+En caso de ausencia podrán ser sustituidos por el Director de Turismo o el funcionario municipal a cargo del sector turístico.
+
+Los Consejos Regionales tendrán las mismas facultades que los Consejos Municipales, establecidas en los artículos 53, 54 y 55 de la presente Ley.
+
+Para la organización del Consejo Regional se nombrará a un integrante como representante, el cual estará a cargo de que se realicen las reuniones.
 
 T R A N S I T O R I O S
 
@@ -546,3 +860,15 @@ P.O. 5 DE JUNIO DE 2020.
 PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- En un plazo de 120 días naturales contado a partir de la entrada en vigor del presente Decreto, el Gobierno del Estado de Nuevo León, deberá reglamentar las disposiciones relacionadas con el contenido de este instrumento.
+
+P.O. 4 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 225. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO AL TURISMO DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las obligaciones emanadas del Presente Decreto se llevarán a cabo con la partida presupuestal con la clave 79901 y concepto "Otras Erogaciones Especiales" que en el ejercicio fiscal 2022 se le designo una cantidad de $30,000,000.00 (Treinta Millones de pesos 00/100 M.N.). Sin menoscabo de lo anterior, en ejercicios fiscales posteriores a su entrada en vigor deberán ser aprobadas una o varias partidas presupuestales específicas destinadas a atender las obligaciones establecidas en el artículo 22 Bis del presente Decreto, para lo cual el Ejecutivo Estatal propondrá en el proyecto de Presupuesto de Egresos del Estado, para el ejercicio fiscal correspondiente, las partidas presupuestarias necesarias para garantizar el apoyo de los Pueblos Mágicos del Estado. Lo anterior debiéndose sujetar a la suficiencia presupuestal.
+
+TERCERO.- Los Municipios que sean catalogados como Pueblos Mágicos en el Estado, una vez entrado en vigor el presente Decreto, contarán con 60 días naturales para realizar las adecuaciones correspondientes a sus reglamentos respectivos.
+
+CUARTO.- Los Municipios que sean catalogados como Pueblos Mágicos en el Estado, una vez entrado en vigor el presente Decreto, contarán con 90 días naturales para integrar sus respectivos Comités Municipales para el Desarrollo de los Pueblos Mágicos.
