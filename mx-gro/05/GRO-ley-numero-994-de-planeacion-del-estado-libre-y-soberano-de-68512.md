@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-994-de-planeacion-del-estado-libre-y-soberano-de-685
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-26"
-last_updated: "2019-11-29"
+last_updated: "2022-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2008.
 
@@ -503,9 +503,11 @@ Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan 
 
 Los programas institucionales que deban elaborar las entidades paraestatales y paramunicipales, se sujetarán a las previsiones contenidas en el Plan Estatal, en los planes municipales y en el programa sectorial correspondiente. Su vigencia será de seis años y su revisión, y en su caso, modificación o actualización será trienal.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 17.
 
-Los programas regionales serán formulados al interior del Comité de Planeación para el Desarrollo del Estado, con la participación de las entidades, dependencias y, en su caso, los municipios que se encuentren involucrados. La vigencia de los programas será determinada por las autoridades de planeación y la evaluación será, al menos, trienal. Las regiones que comprende el estado son:
+Los programas regionales serán formulados al interior del Comité de Planeación para el Desarrollo del Estado, focalizándolos a las comunidades con mayores índices de desigualdad, inseguridad, marginación, pobreza y falta de infraestructura, con la participación de las secretarías, dependencias, entidades paraestatales, y en su caso, los municipios que se encuentren involucrados. La vigencia de los programas será determinada por las autoridades de planeación y la evaluación será, al menos, trienal. Las regiones que comprende el estado son:
 
 1. Acapulco
 
@@ -520,6 +522,8 @@ Los programas regionales serán formulados al interior del Comité de Planeació
 6. Montaña
 
 7. Tierra Caliente
+
+8. Sierra
 
 ###### ARTÍCULO 18.
 
@@ -931,7 +935,7 @@ En su caso, explicará las desviaciones ocurridas y las medidas que se adopten p
 
 Dentro de los Sistemas Estatales y Municipales de Planeación Democrática tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del Plan Estatal, de los Planes Municipales y de los Programas a que se refiere esta Ley.
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 Las actividades de participación y consulta a las que se refiere la Ley número 878 del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero, en materia de Evaluación Ambiental Estratégica, formarán parte de las establecidas en el presente artículo.
 
@@ -1052,3 +1056,15 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
 
 TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 4 DE NOVIEMBRE DE 2022.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO 240, POR EL QUE SE REFORMA EL ARTÍCULO 17 DE LA LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- La Titular del Poder Ejecutivo, expedirá los Decretos de creación de las Unidades Administrativas necesarias en la Región Sierra, en un plazo que no exceda de los ciento veinte días contados a partir de la entrada en vigor del presente Decreto, mismas que se integrarán a través de una reestructuración interna de las Secretarías y Dependencias involucradas, por lo que no representarán erogaciones extraordinarias.
+
+TERCERO.- Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
+
+CUARTO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
