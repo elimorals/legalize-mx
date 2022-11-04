@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2022-10-28"
+last_updated: "2022-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -422,6 +422,18 @@ Corresponde a la Secretaría de Salud del Estado, de conformidad con las disposi
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2021)</small>
 
 I. Garantizar el derecho al acceso a la atención médica en las clínicas y hospitales públicos o privados, con una orientación especializada para las Personas Adultas Mayores. Las especialidades médicas encargadas de la atención de la salud de las personas adultas mayores, son la Gerontología y la Geriatría;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+I BIS. Impulsar la contratación en el sector público y privado, de médicos geriatras y personal especializado en gerontología a fin de satisfacer la demanda de estos servicios;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+I TER. Ofrecer información y capacitación en materia de gerontología a los servidores públicos que lo requieran por sus funciones, a las familias de las personas adultas mayores y a la población en general que así lo solicite;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+I QUATER. Fomentar que las instalaciones educativas y de seguridad social establezcan la formación en las disciplinas de geriatría y gerontología;
 
 II. Proporcionar a las Personas Adultas Mayores una cartilla médica de autocuidado, que será utilizada indistintamente en las instituciones públicas y privadas. En esta se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos administrados, reacciones secundarias e implementos para aplicarlos, tipo de dieta suministrada, consultas médicas y asistencias a grupos de autocuidado;
 
@@ -1296,3 +1308,11 @@ P.O. 28 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 253. SE REFORMA EL INCISO H) DE LA FRACCIÓN IV DEL ARTÍCULO 5°; LA FRACCIÓN XVIII, FRACCIÓN XIX DEL ARTÍCULO 24; Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 24, TODAS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE ADICIONA LA FRACCIÓN XIII BIS AL ARTÍCULO 10 DE LA LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 117. SE ADICIONAN LAS FRACCIONES I BIS, I TER, I QUATER, AL ARTÍCULO 12 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las erogaciones que por motivo de la entrada en vigor del presente Decreto se generen, se harán con cargo a los recursos presupuestados para el ejercicio fiscal vigente para la Secretaría de Salud y en su caso, con cargo a los recursos excedentes que perciba el Estado en términos de lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
