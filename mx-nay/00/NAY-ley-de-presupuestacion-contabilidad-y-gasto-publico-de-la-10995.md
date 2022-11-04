@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-presupuestacion-contabilidad-y-gasto-publico-de-la-10995
 country: "mx"
 rank: "ley"
 publication_date: "1989-11-29"
-last_updated: "2016-10-21"
+last_updated: "2022-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10995&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PRESUPUESTACIÓN, CONTABILIDAD Y GASTO PÚBLICO DE LA ADMINISTRACIÓN DEL GOBIERNO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 1989.
 
@@ -65,9 +65,9 @@ B).- Los Organismos Descentralizados, las Empresas de participación Estatal may
 
 IV. Órganos Autónomos del Estado.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
-Dichos entes administrarán sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+Dichos entes administrarán sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y perspectiva de género, para satisfacer los objetivos propios de su finalidad, considerando además su misión y visión institucional.
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -155,11 +155,11 @@ La Presupuestación del Gasto Público Estatal se basará en las orientaciones, 
 
 Las Dependencias Coordinadoras de Sector, en los términos de las disposiciones aplicables, coordinarán la programación y la presupuestación de las Entidades agrupadas en su Sector.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 6o.
 
-En el Poder Ejecutivo, las actividades objeto del presente ordenamiento se ajustarán a las bases, procedimientos y requisitos que establece esta Ley, su Reglamento y a las disposiciones administrativas que en el ámbito de sus respectivas competencias, expidan las Secretarías de Administración y de la Contraloría General del Estado.
+En el Poder Ejecutivo, las actividades objeto del presente ordenamiento se ajustarán a las bases, procedimientos y requisitos que establece esta Ley, su Reglamento y a las disposiciones administrativas que en el ámbito de sus respectivas competencias, expidan las Secretarías de Administración y Finanzas y la Secretaría para la Honestidad y Buena Gobernanza.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -171,11 +171,11 @@ En el Poder Ejecutivo, las actividades objeto del presente ordenamiento se ajust
 
 El Gasto Público Estatal se basará en presupuestos que se formularán con apoyo en programas que señalen objetivos, metas y unidades responsables de su ejecución.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 8o.
 
-La Secretaría de Administración, al examinar los Presupuestos cuidará que simultáneamente se defina el tiempo y fuente de recursos para su financiamiento.
+La Secretaría de Administración y Finanzas, al examinar los Presupuestos cuidará que simultáneamente se defina el tiempo y fuente de recursos para su financiamiento.
 
 ###### ARTICULO 9o.
 
@@ -231,9 +231,9 @@ III. Se tenga la necesidad de prever un costo mayor al 2 por ciento del Gasto no
 
 Para la formulación del Proyecto del Presupuesto de Egresos, los entes públicos que deban quedar incluidos en el mismo, elaborarán sus Anteproyectos con base en los programas respectivos.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
-Los entes públicos, con excepción de los Poderes Legislativo y Judicial, remitirán su respectivo Anteproyecto a la Secretaría de Administración, con sujeción a las normas, montos y plazos que el Titular del Poder Ejecutivo establezca por medio de la propia Secretaría.
+Los entes públicos, con excepción de los Poderes Legislativo y Judicial, remitirán su respectivo Anteproyecto a la Secretaría de Administración y Finanzas, con sujeción a las normas, montos y plazos que el Titular del Poder Ejecutivo establezca por medio de la propia Secretaría.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -277,11 +277,11 @@ ARTICULO 10 D.- Se deberá considerar en el Presupuesto de Egresos, las previsio
 
 Para el caso de Asociaciones Público Privadas con recursos federales, se observará lo dispuesto en el artículo 4, fracción IV de la Ley de Asociaciones Público Privadas del Estado de Nayarit.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 11.
 
-La Secretaría de Administración queda facultada para formular el proyecto de Presupuesto de los entes públicos cuando no le sea presentado en los plazos que al efecto se les hubiera señalado.
+La Secretaría de Administración y Finanzas queda facultada para formular el proyecto de Presupuesto de los entes públicos cuando no le sea presentado en los plazos que al efecto se les hubiera señalado.
 
 Cuando la situación señalada en el párrafo que antecede se presente en los Poderes Legislativo y Judicial, se establecerá como propuesta de Presupuesto la del ejercicio inmediato anterior.
 
@@ -311,13 +311,13 @@ IX. En general, toda información que se considere útil para mostrar la proposi
 
 ARTICULO 12 BIS.- Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el proyecto de Presupuesto de Egresos, podrán ser hasta por el 2 por ciento de los Ingresos totales del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 13.
 
-El Proyecto de Presupuesto de Egresos deberá ser presentado al Titular del Ejecutivo Estatal por la Secretaría de Administración a más tardar el día 15 de octubre de cada año, para ser enviado al Congreso del Estado a más tardar el día 31 de octubre del año inmediato anterior al que corresponde.
+El Proyecto de Presupuesto de Egresos deberá ser presentado al Titular del Ejecutivo Estatal por la Secretaría de Administración y Finanzas a más tardar el día 15 de octubre de cada año, para ser enviado al Congreso del Estado a más tardar el día 31 de octubre del año inmediato anterior al que corresponde.
 
-Cuando se trate del año en que el titular del Ejecutivo inicie su encargo en los términos del artículo 63 de la Constitución Política del Estado Libre y Soberano de Nayarit, o en su caso se trate de aquel en que entra en funciones el titular del Poder Ejecutivo federal en los términos del artículo 83 de la Constitución Política de los Estados Unidos Mexicanos, la presentación a la que se alude deberá realizarse a más tardar el 15 de diciembre.
+Cuando se trate del año en que el titular del Ejecutivo inicie su encargo en los términos del artículo 63 de la Constitución Política del Estado Libre y Soberano de Nayarit, o en su caso se trate de aquel en que entra en funciones el titular del Poder Ejecutivo federal en los términos del artículo 83 de la Constitución Política de los Estados Unidos Mexicanos, la presentación a la que se alude deberá realizarse a más tardar el treinta de noviembre.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -335,7 +335,9 @@ Tratándose de proyectos de Inversión pública productiva que se pretendan cont
 
 Dichas evaluaciones deberán ser públicas a través de la página oficial de Internet de la Secretaría de Administración y Finanzas;
 
-IV. Sólo procederá hacer pagos con base en el Presupuesto de Egresos autorizado, y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+IV. Solo procederá hacer pagos con base en el Presupuesto de Egresos autorizado, y por los conceptos efectivamente comprometidos o devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste;
 
 V. La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior, exceptuando el pago de sentencias laborales definitivas emitidas por la autoridad competente. La Secretaría de Administración y Finanzas contará con un sistema de registro y control de las erogaciones de servicios personales;
 
@@ -347,7 +349,9 @@ VII. En materia de subsidios se deberá identificar la población objetivo, el p
 
 La información señalada en el párrafo anterior deberá hacerse pública a través de la página oficial de Internet de la Secretaría de Administración y Finanzas, y
 
-VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio. En el caso de las Transferencias federales etiquetadas se estará a lo dispuesto en el artículo 29 BIS de esta Ley.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente comprometidos o devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio. En el caso de las transferencias federales etiquetadas e inversión pública estatal se estará a lo dispuesto en el artículo 29 BIS de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -363,17 +367,17 @@ No procederá pago alguno que no esté comprendido en el Presupuesto de Egresos,
 
 DEL EJERCICIO Y DE LOS REGISTROS PRESUPUESTALES.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 15.
 
-La Secretaría Hacienda (sic) del Estado o las instituciones autorizadas por la misma, con base en las disposiciones jurídicas aplicables, serán las encargadas de recaudar los ingresos correspondientes a fin de solventar el ejercicio del gasto establecido en el Presupuesto de Egresos del Estado.
+La Secretaría de Administración y Finanzas o las instituciones autorizadas por la misma, con base en las disposiciones jurídicas aplicables, serán las encargadas de recaudar los ingresos correspondientes a fin de solventar el ejercicio del gasto establecido en el Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 16.
 
-Será facultad del Titular del Ejecutivo y por conducto de la Secretaría de Administración, realizar la apertura del Presupuesto de Egresos del Estado, previa aprobación que del mismo haya efectuado el Congreso Local.
+Será facultad del Titular del Ejecutivo, por conducto de la Secretaría de Administración y Finanzas, realizar la apertura del Presupuesto de Egresos del Estado, previa aprobación que del mismo haya efectuado el Congreso Local.
 
 ###### ARTICULO 17.
 
@@ -421,17 +425,17 @@ La aprobación y ejecución de nuevas obligaciones financieras derivadas de la l
 
 Los montos asignados a los programas que integran el Presupuesto de Egresos, establecen el límite máximo de su ejercicio; por tanto, no podrán suministrarse recursos presupuestales mayores, salvo que de conformidad con las disposiciones aplicables, se efectúen transferencias o se otorguen ampliaciones, autorizadas por el Titular del Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 20.
 
-La Secretaría de Administración efectuará los pagos correspondientes a las erogaciones que efectúe la Administración Pública Centralizada, de conformidad con el Presupuesto de Egresos aprobado por el Congreso del Estado.
+La Secretaría de Administración y Finanzas efectuará los pagos correspondientes a las erogaciones que efectúe la Administración Pública Centralizada, de conformidad con el Presupuesto de Egresos aprobado por el Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 21.
 
-Las Entidades de la Administración Pública Paraestatal, dispondrán por conducto de sus Órganos de Administración de los recursos Presupuestales que se les asignen, debiendo en toda caso justificar trimestralmente ante la Secretaría de Administración su correcta aplicación.
+Las Entidades de la Administración Pública Paraestatal, dispondrán por conducto de sus Órganos de Administración, de los recursos Presupuestales que se les asignen, debiendo en todo caso, justificar trimestralmente ante la Secretaría de Administración y Finanzas su correcta aplicación.
 
 Los pagos correspondientes a los Poderes Legislativo y Judicial, se efectuarán por conducto de sus respectivas áreas administrativas.
 
@@ -455,11 +459,11 @@ El Titular del Ejecutivo, en casos excepcionales y debidamente justificados, pod
 
 Cuando se trate de programas cuyos presupuestos se incluyan en el Presupuesto de Egresos, se hará mención especial de estos casos al presentar el siguiente o subsecuente Proyecto de Presupuesto al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 24.
 
-Salvo lo previsto en las leyes, el Ejecutivo Estatal, por conducto de la Secretaría de la Contraloría General del Estado, determinará en forma expresa y general cuándo procederá aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo al Presupuesto de Egresos, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan, en todo caso los interesados podrán optar por el empleo o comisión que les convenga.
+Salvo lo previsto en las leyes, el Ejecutivo Estatal, por conducto de la Secretaría para la Honestidad y Buena Gobernanza del Estado, determinará en forma expresa y general cuándo procederá aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo al Presupuesto de Egresos, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan, en todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
 
 ###### ARTICULO 25.
 
@@ -471,23 +475,23 @@ La prescripción solo se interrumpe por gestión de cobro hecha por escrito. Cua
 
 Cuando algún Servidor Público de Confianza, perteneciente a la Administración Pública Centralizada, falleciere y tuviere cuando menos una antigüedad de seis meses en el servicio, sus familiares o quienes hayan vivido con él en la fecha de fallecimiento, percibirán hasta el importe de cuatro meses de percepciones mensuales, si es que ellos se hicieron cargo de los gastos de inhumación.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 27.
 
-Quienes efectúen Gasto Público Estatal estarán obligados a proporcionar a la Secretaría de la Contraloría General del Estado la información que les solicite y a permitirle a su personal la práctica de visitas y Auditorias para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
+Quienes efectúen Gasto Público Estatal estarán obligados a proporcionar a la Secretaría para la Honestidad y Buena Gobernanza del Estado la información que les solicite y a permitirle a su personal la práctica de visitas y Auditorias para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 28.
 
-Para la ejecución del Gasto Público Estatal, la Administración Pública Centralizada y Paraestatal deberá sujetarse a las previsiones de esta Ley y con exclusión de los Poderes Legislativo y Judicial, observar las disposiciones que al efecto expida la Secretaría de Administración.
+Para la ejecución del Gasto Público Estatal, la Administración Pública Centralizada y Paraestatal deberá sujetarse a las previsiones de esta Ley y con exclusión de los Poderes Legislativo y Judicial, observar las disposiciones que al efecto expida la Secretaría de Administración y Finanzas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 29.
 
-Los beneficiarios de subsidios, aportaciones o transferencias, otorgados con cargo al Presupuesto de Egresos del Estado, deberán rendir cuenta detallada de la aplicación de los fondos relativos a las Secretarías de Administración y de la Contraloría General del Estado, así como la información y justificación correspondiente, en la forma y plazos en que las mismas Dependencias lo requieran, exceptuándose de esta obligación las Instituciones y Entidades dotadas de autonomía que, por determinación expresa de la Ley deban hacerla ante el Congreso del Estado.
+Los beneficiarios de subsidios, aportaciones o transferencias, otorgados con cargo al Presupuesto de Egresos del Estado, deberán rendir cuenta detallada de la aplicación de los fondos relativos a las Secretarías de Administración y Finanzas y para la Honestidad y Buena Gobernanza del Estado, así como la información y justificación correspondiente, en la forma y plazos en que las mismas Dependencias lo requieran, exceptuándose de esta obligación las Instituciones y Entidades dotadas de autonomía que, por determinación expresa de la Ley deban hacerla ante el Congreso del Estado.
 
 El incumplimiento en la rendición de la cuenta comprobada motivará, en su caso, la inmediata suspensión de las subsecuentes ministraciones de fondos que por el mismo concepto se hubieren autorizado, así como el reintegro de lo que se haya suministrado.
 
@@ -503,37 +507,43 @@ Sin perjuicio de lo anterior, las Transferencias federales etiquetadas que, al 3
 
 Los reintegros deberán incluir los rendimientos financieros generados.
 
-Para los efectos de este artículo, se entenderá que el Estado ha devengado o comprometido las Transferencias federales etiquetadas, en los términos previstos en el artículo 4, fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+Tratándose de inversión pública estatal, aquellas obras, acciones, proyectos o programas que al 31 de diciembre del ejercicio fiscal del que se trate se hayan comprometido y aquellas devengadas pero que no hayan sido pagadas, deberán cubrirse los pagos durante el primer trimestre del ejercicio fiscal siguiente o de conformidad con el calendario establecido en el contrato, convenio o instrumento jurídico correspondiente; una vez cumplido el plazo referido, los recursos remanentes, deberán reintegrarse a la Secretaría de Administración y Finanzas, a más tardar, dentro de los 15 días naturales siguientes. Los reintegros deberán incluir los rendimientos financieros generados.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+Para los efectos de este artículo, se entenderá que el Estado ha comprometido o devengado las transferencias federales etiquetadas y la inversión pública estatal, en los términos previstos en el artículo 4, fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 30.
 
-El Ejecutivo a través de la Secretaría de Administración, coordinará el establecimiento de los criterios de Contabilidad y Registro del Gasto con los Poderes Legislativo y Judicial, con la finalidad de unificarlos para los efectos de la elaboración de la Cuenta Pública.
+El Ejecutivo a través de la Secretaría de Administración y Finanzas, coordinará el establecimiento de los criterios de Contabilidad y Registro del Gasto con los Poderes Legislativo y Judicial, con la finalidad de unificarlos para los efectos de la elaboración de la Cuenta Pública.
 
-La Secretaría de Administración girará las instrucciones sobre la forma y términos en que los entes públicos especificados en el Artículo 2o., fracción III de esta Ley deban llevar su control y en su caso, rendirle sus informes para efectos de contabilización y consolidación.
+La Secretaría de Administración y Finanzas girará las instrucciones sobre la forma y términos en que los entes públicos especificados en el Artículo 2o., fracción III de esta Ley deban llevar su control y en su caso, rendirle sus informes para efectos de contabilización y consolidación.
 
 ### CAPITULO IV. DE LA CONTABILIDAD
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 31.
 
-La Secretaría de Administración, tendrá a su cargo la Contabilidad General del Gobierno del Estado, la cual se llevará con base acumulativa en cuanto al gasto y con base en efectivo en cuanto al Ingreso, para obtener la información financiera y facilitar la evaluación de los Presupuestos.
+La Secretaría de Administración y Finanzas, tendrá a su cargo la Contabilidad General del Gobierno del Estado, la cual se llevará con base acumulativa en cuanto al gasto y con base en efectivo en cuanto al Ingreso, para obtener la información financiera y facilitar la evaluación de los Presupuestos.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 32.
 
-Será competencia de la Secretaría de Administración, el diseño y la instrumentación de los sistemas contables que permitan el control de las operaciones Presupuestales y Financieras de los entes públicos a que se refiere la fracción III del Articulo 2o., de esta Ley. Los establecidos en las Fracciones I y II del citado Artículo, procurarán coordinar sus criterios al respecto, con los que establezca la Secretaría de Administración.
+Será competencia de la Secretaría de Administración y Finanzas, el diseño y la instrumentación de los sistemas contables que permitan el control de las operaciones Presupuestales y Financieras de los entes públicos a que se refiere la fracción III del Artículo 2o., de esta Ley. Los establecidos en las Fracciones I y II del citado Artículo, procurarán coordinar sus criterios al respecto, con los que establezca la Secretaría de Administración y Finanzas.
 
-Los catálogos de cuentas que utilizarán los Organismos Descentralizados, las Empresas de participación Estatal mayoritaria y los Fideicomisos Públicos, serán autorizados expresamente por la Secretaría de Administración, cuando sus prevenciones de gasto hayan sido incorporados al Presupuesto de Egresos del Estado.
+Los catálogos de cuentas que utilizarán los Organismos Descentralizados, las Empresas de participación Estatal mayoritaria y los Fideicomisos Públicos, serán autorizados expresamente por la Secretaría de Administración y Finanzas, cuando sus prevenciones de gasto hayan sido incorporadas al Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 33.
 
-Los estados financieros y demás información presupuestal que emane de la Contabilidad General, serán utilizados por la Secretaría de Administración, para la formulación de la Cuenta Pública Anual, la cual se someterá a consideración del Gobernador del Estado para su análisis y aprobación en su caso por la Legislatura del Estado.
+Los estados financieros y demás información presupuestal que emane de la Contabilidad General, serán utilizados por la Secretaría de Administración y Finanzas, para la formulación de la Cuenta Pública Anual, la cual se someterá a consideración del Gobernador del Estado para su análisis y aprobación en su caso por la Legislatura del Estado.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 1994)</small>
 
@@ -541,11 +551,11 @@ Los estados financieros y demás información presupuestal que emane de la Conta
 
 ELABORACION Y PRESENTACION DE LA CUENTA PUBLICA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 34.
 
-La Secretaría de Administración tendrá bajo su responsabilidad la contabilidad del Gobierno del Estado, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del presupuesto del Gobierno del Estado.
+La Secretaría de Administración y Finanzas tendrá bajo su responsabilidad la contabilidad del Gobierno del Estado, la cual incluirá las cuentas para registrar tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, así como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas del presupuesto del Gobierno del Estado.
 
 El catálogo de cuentas que se utilizará, será emitido y autorizado por dicha Secretaría.
 
@@ -569,25 +579,23 @@ Cada una de las dependencias llevará su propia contabilidad que se sujetará a 
 
 Cada una de las entidades llevará su propia contabilidad, la cual incluirá las cuentas para registrar los activos, pasivos, capital o patrimonio, ingresos, costos correspondientes a los programas y partidas de su propio presupuesto.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 38.
 
-Las dependencias y entidades suministrarán a la Secretaría de Administración, con la periodicidad que éste determine, la información presupuestal, contable, financiera y de otra índole que requiera.
+Las dependencias y entidades suministrarán a la Secretaría de Administración y Finanzas, con la periodicidad que éste determine, la información presupuestal, contable, financiera y de otra índole que requiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 39.
 
-Los estados financieros y demás información que emane de las contabilidades de las Dependencias y Entidades comprendidas en el Presupuesto de Egresos, serán consolidados por la Secretaría de Administración, la cual será responsable de la formulación de la Cuenta de la Hacienda Pública Estatal y someterá a la consideración del Gobernador del Estado para su presentación trimestral, ante el Congreso del Estado, a más tardar cuarenta y cinco días posteriores a la terminación del trimestre que se informe. Además, el Ejecutivo Estatal, informará de igual manera, el monto de las Participaciones Federales recibidas y la forma de distribución hacia los Municipios.
+Los estados financieros y demás información que emane de las contabilidades de las Dependencias y Entidades comprendidas en el Presupuesto de Egresos, serán consolidados por la Secretaría de Administración y Finanzas, la cual será responsable de la formulación de la Cuenta de la Hacienda Pública Estatal y someterá a la consideración del Gobernador del Estado para su presentación en los términos y plazos establecidos en la Ley de Fiscalización y Rendición de Cuentas del Estado de Nayarit, ante el Congreso del Estado. Además, el Ejecutivo Estatal, informará de igual manera, el monto de las Participaciones Federales recibidas y la forma de distribución hacia los Municipios.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1995)</small>
 
 Una vez aprobada la Cuenta Pública, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, los principales resultados alcanzados con los recursos ejercidos.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1995)</small>
-
-Cuando por motivos específicos de la transición del Poder Ejecutivo, relativos al último año de gestión gubernamental, la remisión de la última Cuenta Pública, se hará de manera bimestral por los meses de Julio-Agosto; y las dos primeras remisiones de la Administración del Poder Ejecutivo entrante, se efectuarán de igual manera bimestral, y comprenderán los períodos de Septiembre-Octubre y Noviembre-Diciembre.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 (REUBICADO, REFORMADA SU NUMERACIÓN, P.O. 4 DE MAYO DE 1994)
 
@@ -595,49 +603,99 @@ Cuando por motivos específicos de la transición del Poder Ejecutivo, relativos
 
 DEL EXAMEN, VIGILANCIA Y EVALUACION DEL EJERCICIO DEL GASTO PUBLICO.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 34], P.O. 4 DE MAYO DE 1994)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 40.
 
-La Secretaría de la Contraloría General del Estado examinará y verificará el ejercicio del Gasto Público Estatal y su congruencia con los Presupuestos de Egresos.
+La Secretaría para la Honestidad y Buena Gobernanza del Estado examinará y verificará el ejercicio del Gasto Público Estatal y su congruencia con los Presupuestos de Egresos.
+
+(REUBICADO [N. DE E. ANTES ARTICULO 34], P.O. 4 DE MAYO DE 1994)
 
 Las actividades antes señaladas tendrán por objeto, sin perjuicio de lo que establezcan otras disposiciones jurídicas aplicables, promover la eficiencia en las operaciones de los antes públicos especificados en el Artículo 2º Fracción III, de esta Ley, y comprobar si en el ejercicio del Gasto, se ha cumplido con las disposiciones legales vigentes y se han alcanzado los objetivos contenidos en los programas relativos.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 35], P.O. 4 DE MAYO DE 1994)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 41.
 
-El examen, la verificación y la comprobación a que se refiere el Artículo anterior, se llevarán a cabo por la Secretaría de la Contraloría General del Estado, según corresponda en cada caso, a través de:
+El examen, la verificación y la comprobación a que se refiere el Artículo anterior, se llevarán a cabo por la Secretaría para la Honestidad y Buena Gobernanza del Estado, según corresponda en cada caso, a través de:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 I.- Los Órganos de Control Interno.
 
+(REUBICADA [N. DE E. ANTES ARTICULO 35], P.O. 4 DE MAYO DE 1994)
+
 II.- La Auditoría Gubernamental.
+
+(REUBICADA [N. DE E. ANTES ARTICULO 35], P.O. 4 DE MAYO DE 1994)
 
 III.- La Auditoría Externa.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 36], P.O. 4 DE MAYO DE 1994)
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+Para lo cual y con objeto de inspeccionar y vigilar el adecuado cumplimiento de la Ley, y demás disposiciones que de ella emanen, podrán realizar auditorías y visitas a las dependencias y entidades.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+Las auditorías al gasto público estatal serán un mecanismo coadyuvante para controlar, examinar y evaluar las operaciones, que realicen las dependencias y entidades, cualesquiera que sea su naturaleza, con el propósito de verificar si los estados financieros presentan razonablemente la situación financiera; si la utilización de los recursos se ha realizado en forma eficiente; si los objetivos y metas se lograron de manera eficaz y congruente, y si en el desarrollo de las actividades se han cumplido las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+Las revisiones y auditorías correspondientes, se realizarán de acuerdo con la normatividad, políticas, guías y procedimientos que en materia de auditoría emita la Secretaría para la Honestidad y Buena Gobernanza.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 41 BIS.- Las dependencias y entidades deberán proporcionar en los plazos en que les sean solicitados, los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías, que determine efectuar la Secretaría para la Honestidad y Buena Gobernanza, por sí o a través de los órganos internos de control, auditorías externas, o a solicitud de la Secretaría de Administración y Finanzas o de la dependencia coordinadora de sector respectiva, así como de la información complementaria que se requiera para el apoyo de las atribuciones de la Secretaría para la Honestidad y Buena Gobernanza en materia de control de gestión y auditoría. Las dependencias y entidades serán responsables de la calidad y oportunidad de la información reportada a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 41 TER.- Para la realización de las auditorías y visitas se deberán observar las siguientes reglas:
+
+I. Se practicarán mediante mandamiento escrito emitido por autoridad competente, el cual contendrá como mínimo:
+
+a) El nombre de la dependencia o entidad a la que se le practicará la auditoría o visita;
+
+b) El nombre del servidor público con quien se entenderá la auditoría o visita;
+
+c) El nombre de la persona o personas que la practicarán, las que podrán ser sustituidas haciendo, en su caso, del conocimiento de esta situación al servidor público de la dependencia o entidad respectiva;
+
+II. Antes de realizarse la auditoría o visita, la orden para su ejecución se entregará a la persona referida en el inciso b) de la fracción anterior, o a quien lo supla en su ausencia, recabándose el acuse de recibo correspondiente, previa identificación de la persona o personas que la practicarán;
+
+III. Se especificarán en la orden los aspectos que deberá cubrir la auditoría o visita, tales como el objeto y el periodo que se revisará;
+
+IV. Se levantará acta de inicio en la que se harán constar los hechos;
+
+V. Se formulará acta o informe en el que se harán constar los hechos, omisiones y observaciones que resulten con motivo de la auditoría o visita para que, en su caso, se acuerde la adopción de medidas tendientes a mejorar la gestión y el control interno del auditado, así como a corregir las desviaciones y deficiencias que se hubieren encontrado, y
+
+VI. Las observaciones resultantes deberán solventarse por las dependencias y entidades dentro del plazo de veinte días naturales contados a partir del día siguiente de la fecha que le sea notificada el acta o informe; debiendo remitir los argumentos, documentos y comentarios que se estimen pertinentes.
+
+Las personas que practiquen la visita o auditoría, al levantar el acta respectiva, deberán recabar las firmas de las personas que en ella intervinieron y entregarán un ejemplar de la misma al servidor público con quien entendieron la visita o auditoría. Si se negaren a firmar, se hará constar en el acta, sin que esta circunstancia afecte el valor probatorio del documento.
+
+Si como resultado de las auditorías se detectan irregularidades que afecten a la Hacienda Pública Estatal o al patrimonio de las entidades, se procederá en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 42.
 
-La Secretaría de la Contraloría General del Estado, en los términos de las disposiciones legales correspondientes, expedirá las normas que regularán los instrumentos y mecanismos coadyuvantes del control del Gasto Público.
+La Secretaría para la Honestidad y Buena Gobernanza del Estado, en los términos de las disposiciones legales correspondientes, expedirá las normas que regularán los instrumentos y mecanismos coadyuvantes del control del Gasto Público.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 37], P.O. 4 DE MAYO DE 1994)
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 43.
 
-Quienes ejerzan Gasto Público Estatal en cualquier monto, estarán obligados a proporcionar toda las facilidades necesarias, a fin de que la Secretaría de la Contraloría General del Estado pueda realizar las funciones señaladas en este Capítulo.
+Quienes ejerzan Gasto Público Estatal en cualquier monto, estarán obligados a proporcionar todas las facilidades necesarias, a fin de que la Secretaría para la Honestidad y Buena Gobernanza del Estado pueda realizar las funciones señaladas en este Capítulo.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 38], P.O. 4 DE MAYO DE 1994)
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 44.
 
-La Secretaría de la Contraloría General, realizará periódicamente la evaluación del ejercicio del gasto, en función de los objetivos y metas de los programas aprobados.
+La Secretaría para la Honestidad y Buena Gobernanza, realizará periódicamente la evaluación del ejercicio del gasto, en función de los objetivos y metas de los programas aprobados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 45.
 
-Con base en los informes que se deriven de las evaluaciones que efectúe la Secretaría de la Contraloría, la Secretaría de Administración, conjuntamente con las Dependencias involucradas, efectuará las siguientes actividades:
+Con base en los informes que se deriven de las evaluaciones que efectúe la Secretaría para la Honestidad y Buena Gobernanza, la Secretaría de Administración y Finanzas, conjuntamente con las Dependencias involucradas, efectuará las siguientes actividades:
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 1994)</small>
 
@@ -651,11 +709,11 @@ II.- Determinación de las previsiones que constituyan una de las bases para el 
 
 III.- Las demás que señalen los ordenamientos jurídicos aplicables.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 40], P.O. 4 DE MAYO DE 1994)
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 46.
 
-Los entes públicos señalados en la Fracción III del Artículo 2º. de esta Ley, deberán proporcionar a la Secretaría de la Contraloría la información que les requiera, a efecto de realizar las funciones previstas en este Capítulo.
+Los entes públicos señalados en la Fracción III del Artículo 2°. de esta Ley, deberán proporcionar a la Secretaría para la Honestidad y Buena Gobernanza la información que les requiera, a efecto de realizar las funciones previstas en este Capítulo.
 
 (REUBICADO, REFORMADA SU NUMERACION, P.O. 4 DE MAYO DE 1994)
 
@@ -790,3 +848,11 @@ Lo anterior de conformidad con lo establecido en la Ley de Disciplina Financiera
 OCTAVO. En el caso de los Entes Públicos que, a la entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, se ubiquen en un endeudamiento elevado conforme a la evaluación inicial del Sistema de Alertas, los convenios a que hacen referencia los artículos 34 y 47 de dicha Ley, podrán establecer un Techo de Financiamiento Neto distinto al señalado en el artículo 46 de la misma, y de conformidad con lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 NOVENO. Los recursos que sean otorgados a los Entes Públicos a través del esquema de los certificados de infraestructura educativa nacional, pertenecientes al Programa Escuelas al CIEN, quedarán exentos del reintegro que deba realizarse a la Tesorería de la Federación, señalado por el artículo 29 BIS de la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit, y estarán a lo dispuesto en dicho programa, y de conformidad con lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+P.O. 4 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE PRESUPUESTACIÓN, CONTABILIDAD Y GASTO PÚBLICO DE LA ADMINISTRACIÓN DEL GOBIERNO DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas aquellas disposiciones normativas que contravengan lo dispuesto en el presente Decreto.
