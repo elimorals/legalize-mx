@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2022-10-14"
+last_updated: "2022-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -1197,9 +1197,15 @@ XII. Integrar las comisiones y grupos de trabajo que sean necesarios para el eje
 
 XIII. Evaluar a través de indicadores periódicos de gestión, que deberán hacerse públicos, el trabajo, desempeño y los resultados del Instituto Municipal de Planeación cuando éste se encuentre constituido;
 
-XIV. Expedir su Reglamento Interno, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
-XV. Las demás que sean necesarias para el cumplimiento de su objeto.
+XIV. Expedir su Reglamento Interno;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+XV. Manifestar, en coordinación con el Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, ante el propio Cabildo, los órganos y dependencias municipales, o cuando le sea solicitada por alguna autoridad estatal o federal, su opinión como instancia de consulta, sobre los impactos ambientales de las acciones y políticas en materia de ordenamiento territorial y planeación del desarrollo urbano en la circunscripción territorial del municipio correspondiente. Esta opinión es independiente del dictamen de impacto ambiental que emitan las autoridades competentes, y no tendrá efectos vinculantes, y
+
+XVI. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 ### Capítulo V. Instituto Estatal; Institutos Municipales; e Institutos Metropolitanos de Planeación Urbana
 
@@ -6984,3 +6990,11 @@ PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su public
 SEGUNDO. Los ayuntamientos del Estado deberán hacer las modificaciones necesarias en sus leyes de ingresos para establecer las multas, así como las modificaciones que correspondan en sus reglamentos, dentro del término de cuarenta y cinco días contados a partir del inicio de vigencia de este decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 4 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0416.- SE REFORMA EL ARTÍCULO 33 EN SU FRACCIÓN XIV; Y ADICIONA AL MISMO ARTÍCULO 33 UNA FRACCIÓN, ÉSTA COMO XV, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
