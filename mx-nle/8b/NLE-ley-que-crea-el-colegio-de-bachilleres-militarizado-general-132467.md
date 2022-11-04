@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-colegio-de-bachilleres-militarizado-general-132
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-16"
-last_updated: "2019-01-16"
+last_updated: "2022-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY QUE CREA EL COLEGIO DE BACHILLERES MILITARIZADO "GENERAL MARIANO ESCOBEDO" DEL ESTADO DE NUEVO LEON
 
-LEY QUE CREA EL COLEGIO DE BACHILLERES MILITARIZADO GENERAL MARIANO ESCOBEDO DEL ESTADO DE NUEVO LEÓN
+LEY QUE CREA EL COLEGIO MILITARIZADO "GENERAL MARIANO ESCOBEDO" DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera al Número 7 del Periódico Oficial del Estado de Nuevo León, el miércoles 16 de enero de 2019.
 
@@ -35,15 +35,19 @@ NÚM…… 076
 
 Articulo Único.- Se expide la Ley que crea el Colegio de Bachilleres Militarizado “General Mariano Escobedo” del Estado de Nuevo León, para quedar como sigue:
 
-LEY QUE CREA EL COLEGIO DE BACHILLERES MILITARIZADO “GENERAL MARIANO ESCOBEDO” DEL ESTADO DE NUEVO LEÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+LEY QUE CREA EL COLEGIO MILITARIZADO "GENERAL MARIANO ESCOBEDO" DEL ESTADO DE NUEVO LEÓN
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO ÚNICO. De la Naturaleza y Objeto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-Se crea el Organismo Público Descentralizado de la Administración Pública del Estado de Nuevo León, denominado Colegio de Bachilleres Militarizado “General Mariano Escobedo” del Estado de Nuevo León, dotado de personalidad jurídica y patrimonio propio, con domicilio en el Municipio de Monterrey, Nuevo León, sin perjuicio del establecimiento de planteles en los demás municipios del Estado.
+Se crea el Organismo Público Descentralizado de la Administración Pública del Estado de Nuevo León, denominado Colegio Militarizado "General Mariano Escobedo" del Estado de Nuevo León, dotado de personalidad jurídica y patrimonio propio, con domicilio en el Municipio de Monterrey, Nuevo León, sin perjuicio del establecimiento de planteles en los demás municipios del Estado.
 
 El Colegio es integrante del Sistema Educativo del Estado de Nuevo León y estará sectorizado a la Secretaría de Educación.
 
@@ -51,21 +55,35 @@ El Colegio es integrante del Sistema Educativo del Estado de Nuevo León y estar
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Colegio: El Colegio de Bachilleres Militarizado “General Mariano Escobedo” del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
-II. Junta Directiva: La Junta Directiva del Colegio de Bachilleres Militarizado “General Escobedo” del Estado de Nuevo León;
+I. Colegio: El Colegio Militarizado "General Mariano Escobedo" del Estado de Nuevo León;
 
-III. Ley: La Ley que crea el Colegio de Bachilleres Militarizado “General Escobedo” del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
-IV. Director: El Director General del Colegio de Bachilleres Militarizado “General Escobedo” del Estado de Nuevo León; y
+II. Junta Directiva: La Junta Directiva del Colegio Militarizado "General Mariano Escobedo" del Estado de Nuevo León;
 
-V. Reglamento Interior: El Reglamento Interior del Colegio de Bachilleres Militarizado “General Escobedo” del Estado de Nuevo León.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+III. Ley: La Ley que crea el Colegio Militarizado "General Mariano Escobedo" del Estado de Nuevo León;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+IV. Director: El Director General del Colegio Militarizado "General Mariano Escobedo" del Estado de Nuevo León; y
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+V. Reglamento Interior: El Reglamento Interior del Colegio Militarizado “General Mariano Escobedo" del Estado de Nuevo León.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 3.
 
-El Colegio de Bachilleres Militarizado “General Escobedo” del Estado de Nuevo León, tendrá por objeto impartir e impulsar la educación media superior correspondiente al bachillerato, en sus características propedéuticas y terminal, con las finalidades siguientes:
+El Colegio Militarizado "General Mariano Escobedo" del Estado de Nuevo León, tendrá por objeto impartir e impulsar la educación media superior correspondiente al bachillerato tecnológico, así como a nivel superior en la modalidad educativa escolarizada con las finalidades siguientes:
 
-I. Impartir la educación media superior, formando alumnos bajo un régimen militar, inculcándoles el amor a la patria, la lealtad institucional, la honestidad, la conciencia de servicio y superación;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+I. Impartir la educación media superior y superior, formando alumnos bajo un régimen militar, inculcándoles el amor a la patria, la lealtad institucional, la honestidad, la conciencia de servicio y superación;
 
 II. Proporcionar una educación tipo militar basada en sólidos valores como el liderazgo, responsabilidad, disciplina, combinando la formación académica y física, que ayudará a los alumnos a desarrollarse como buenos ciudadanos en el futuro, detonando e impulsando el sector económico, mediante su inclusión en el sector empresarial, docencia, difusión de la cultura e investigación para el ejército y fuerza aérea mexicanos;
 
@@ -85,7 +103,9 @@ Para el cumplimiento de su objeto, el Colegio tendrá las siguientes atribucione
 
 I. Establecer, organizar, administrar y sostener planteles en los municipios del Estado;
 
-II. Planear, diseñar e impartir planes y programas académicos de bachillerato militarizado, capacitación para el trabajo y cursos de reconocida calidad nacional e internacional;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+II. Planear, diseñar e impartir planes y programas académicos del nivel medio superior y superior, capacitación para el trabajo y cursos de reconocida calidad nacional e internacional;
 
 III. Promover y llevar a cabo programas, proyectos y actividades educativos, cívicos y militarizados, que se relacionen con la mejora sistemática de la calidad en el aprendizaje;
 
@@ -103,7 +123,9 @@ IX. Impulsar la certificación de programas académicos, administrativos y proce
 
 X. Expedir constancias, certificados de estudios y de competencias y otorgar diplomas y grados académicos, con apego a las leyes de la materia;
 
-XI. Establecer equivalencias de estudios y de trayectos formativos para las diferentes modalidades educativas de nivel medio superior y otorgar revalidación de estudios realizados en instituciones nacionales o extranjeras, siempre y cuando los estudiantes hayan iniciado sus estudios en el Colegio y dichos trámites se efectúen como consecuencia del intercambio académico del alumno a alguna institución militarizada en otra entidad o en el extranjero;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+XI. Establecer equivalencias de estudios y de trayectos formativos para las diferentes modalidades educativas de nivel medio superior y superior, así como otorgar revalidación de estudios realizados en instituciones nacionales o extranjeras, siempre y cuando los estudiantes hayan iniciado sus estudios en el Colegio y dichos trámites se efectúen como consecuencia del intercambio académico del alumno a alguna institución militarizada en otra entidad o en el extranjero;
 
 XII. Reglamentar y administrar el ingreso, promoción, permanencia y egreso de los estudiantes del Colegio;
 
@@ -125,9 +147,17 @@ XX. Evaluar en forma permanente la calidad y pertinencia de sus programas y en s
 
 XXI. Realizar toda clase de actos jurídicos que requiera para el cumplimiento de su objeto;
 
-XXII. Emitir las demás normas reglamentarias necesarias para la consecución del objeto; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2022)</small>
 
-XXIII. Las demás que le confieran otros ordenamientos legales aplicables.
+XXII. Emitir las demás normas reglamentarias necesarias para la consecución del objeto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+XXIII. Establecer centros o brigadas formativas militarizadas, para el cumplimiento de su objeto, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA]. P.O. 4 DE NOVIEMBRE DE 2022)</small>
+
+XXIV. Las demás que le confieran otros ordenamientos legales aplicables.
 
 ## TÍTULO SEGUNDO. DE LOS ÓRGANOS DE GOBIERNO, ADMINISTRACIÓN Y FISCALIZACIÓN
 
@@ -572,3 +602,15 @@ LA C. SECRETARIA DE EDUCACIÓN
 MARÍA DE LOS ÁNGELES ERRISÚRIZ ALARCÓN
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE A LA PROMULGACIÓN DEL DECRETO NÚM. 076 EXPEDIDO POR EL H. CONGRESO DEL ESTADO, LXXV LEGISLATURA, EN FECHA 21 DE DICIEMBRE DE 2018, REMITIDO AL PODER EJECUTIVO EL DÍA 24 DE DICIEMBRE DE 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 258. LEY QUE CREA EL COLEGIO MILITARIZADO “GENERAL MARIANO ESCOBEDO” DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todas (sic) los actos celebrados y obligaciones conferidas al Organismo Público Descentralizado denominado Colegio de Bachilleres Militarizado "General Mariano Escobedo" del Estado de Nuevo León, se entenderán conferidos al Colegio Militarizado "General Mariano Escobedo" del Estado de Nuevo León, cuya denominación se modifica mediante el presente Decreto, atendiendo a la modificación del objeto del Organismo.
+
+TERCERO. Todas las referencias al Organismo Público Descentralizado denominado Colegio de Bachilleres Militarizado "General Mariano Escobedo" del Estado de Nuevo León insertas en instrumentos jurídicos se entenderá que corresponden al Organismo Público descentralizado denominado Colegio Militarizado "General Mariano Escobedo" del Estado de Nuevo León.
