@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-sala-superior-del-tribunal-electoral-6079
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-05-08"
-last_updated: "2008-05-08"
+last_updated: "2022-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60795&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-04-30"
 ---
 # ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PJF NO. 3/2008, DE 30 DE ABRIL DE 2008, RELATIVO A LA DETERMINACION DE LOS DIAS INHABILES, PARA LOS EFECTOS DEL COMPUTO DE LOS PLAZOS PROCESALES EN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL 6/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS DÍAS HÁBILES E INHÁBILES, PARA LOS EFECTOS DEL CÓMPUTO DE LOS PLAZOS PROCESALES EN LOS ASUNTOS JURISDICCIONALES COMPETENCIA DE ESTE TRIBUNAL ELECTORAL, ASÍ COMO DE LOS DE DESCANSO PARA SU PERSONAL, PUBLICADO EN EL D.O.F. DE 4 DE NOVIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION NUMERO 3/2008, DE TREINTA DE ABRIL DE DOS MIL OCHO, RELATIVO A LA DETERMINACION DE LOS DIAS INHABILES, PARA LOS EFECTOS DEL COMPUTO DE LOS PLAZOS PROCESALES EN LOS ASUNTOS JURISDICCIONALES COMPETENCIA DEL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE NOVIEMBRE DE 2022 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de mayo de 2008.
 
@@ -98,3 +100,21 @@ SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en la 
 Así lo acordaron por UNANIMIDAD de votos, los Magistrados que integran la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en ausencia del Magistrado Flavio Galván Rivera, ante el Secretario General de Acuerdos que autoriza y da fe.- La Magistrada Presidenta, María del Carmen Alanis Figueroa.- Rúbrica.- Los Magistrados: Constancio Carrasco Daza, Manuel González Oropeza, José Alejandro Luna Ramos, Salvador Olimpo Nava Gomar, Pedro Esteban Penagos López.- Rúbricas.- El Secretario General de Acuerdos, Marco Antonio Zavala Arredondo.- Rúbrica.
 
 EL SUSCRITO MARCO ANTONIO ZAVALA ARREDONDO, SECRETARIO GENERAL DE ACUERDOS DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION, CERTIFICA: Que la presente copia, en siete folios, debidamente cotejados y sellados, corresponde al acuerdo de treinta de abril de dos mil ocho, emitido por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, cuyo original se anexó al acta de la respectiva sesión privada, levantada conforme a la previsto en el artículo 201, fracción II, de la Ley Orgánica del Poder Judicial de la Federación. Lo que certifico, en ejercicio de las facultades previstas en el artículo 201, fracción X, de la Ley Orgánica del Poder Judicial de la Federación.- DOY FE.- México, Distrito Federal, a treinta de abril de dos mil ocho.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 6/2022 DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS DÍAS HÁBILES E INHÁBILES, PARA LOS EFECTOS DEL CÓMPUTO DE LOS PLAZOS PROCESALES EN LOS ASUNTOS JURISDICCIONALES COMPETENCIA DE ESTE TRIBUNAL ELECTORAL, ASÍ COMO DE LOS DE DESCANSO PARA SU PERSONAL”.]
+
+PRIMERO. El presente acuerdo entra en vigor en la fecha de su aprobación.
+
+SEGUNDO. Se abroga el acuerdo general de la Sala Superior 3/2008.
+
+TERCERO. Para su mayor difusión, notifíquese a las salas regionales, así como a las demás áreas de este Tribunal.
+
+Publíquese en el Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis en Materia Electoral del Tribunal Electoral del Poder Judicial de la Federación, en los estrados de esta Sala Superior y de las salas regionales, así como en los portales de intranet e internet de este órgano jurisdiccional.
+
+Las magistraturas que integran la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación aprobaron el presente acuerdo general el veintisiete de octubre de dos mil veintidós, por unanimidad de votos, con la ausencia de la magistrada Janine M. Otálora Malassis, quien se encuentra en periodo vacacional, ante el secretario general de acuerdos que da fe.
+
+Este documento es una representación gráfica autorizada mediante firmas electrónicas certificadas, el cual tiene plena validez jurídica de conformidad con los numerales segundo y cuarto del Acuerdo General de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación 3/2020, por el que se implementa la firma electrónica certificada del Poder Judicial de la Federación en los acuerdos, resoluciones y sentencias que se dicten con motivo del trámite, turno, sustanciación y resolución de los medios de impugnación en materia electoral.
