@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-prevenir-sancionar-y-erradicar-los-delitos-en-129365"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-12"
-last_updated: "2021-10-23"
+last_updated: "2022-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Décima Octava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -196,6 +196,30 @@ V. Las policías, el Ministerio Público y la autoridad jurisdiccional adoptará
 ###### Artículo 8o.
 
 Las policías, Ministerio Público y autoridades jurisdiccionales harán una consideración especial en el desarrollo de sus actividades, cuando la víctima se encuentre en una situación de vulnerabilidad por haber sufrido algún daño físico o emocional que requieran tomar medidas especiales.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+Se entiende por situación de vulnerabilidad la condición particular de la víctima derivada de uno (sic) o más de las siguientes circunstancias que puedan derivar en que el sujeto pasivo realice la actividad, servicio o labor que se le pida o exija por el sujeto activo del delito:
+
+I. Su origen, condición socioeconómica precaria, sexo, orientación sexual e identidad de género;
+
+II. Nivel educativo, falta de oportunidades, embarazo, violencia o discriminación sufridas previas a la trata y delitos relacionados;
+
+III. Situación migratoria, trastorno físico o mental o discapacidad;
+
+IV. Personas adultas mayores;
+
+V. Cualquier tipo de adicción;
+
+VI. Menores de dieciocho años de edad;
+
+VII Pertenecer o ser originario de una comunidad indígena o afromexicana;
+
+VIII. Jefa de familia o jefe de familia;
+
+IX. Mujeres embarazadas; y
+
+X. Cualquier otra característica que sea aprovechada por el sujeto activo del delito.
 
 ###### Artículo 9o.
 
@@ -1240,3 +1264,13 @@ P.O. 23 DE OCTUBRE DE 2021.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 708.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO Y LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX Y X, AL ARTÍCULO 8 DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
