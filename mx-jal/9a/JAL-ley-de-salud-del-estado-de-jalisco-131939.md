@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2022-09-10"
+last_updated: "2022-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -497,7 +497,7 @@ Servicios de Salud. Cobertura.
 
 2. La Secretaría de Salud podrá ofrecer atención domiciliaria de conformidad al reglamento cuando, por imposibilidad psíquica o física, los pacientes no puedan acudir a los servicios de salud pública y atención médica o se trate de campañas de medicina preventiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 34.
 
@@ -537,11 +537,17 @@ XII. El tratamiento de reconstrucción mamaria;
 
 XIII. De la prevención, tratamiento y control de las adicciones;
 
-(ADICONADA, P.O. 10 DE SEPTIEMBRE DE 2022)
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XIV. La orientación, prevención y atención del síndrome del desgaste ocupacional, y
+XIV. La orientación, prevención y atención del síndrome del desgaste ocupacional;
 
-XV. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XV. La salud visual; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Las demás que establezcan esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 35.
 
@@ -637,13 +643,13 @@ De la Prestación de Servicios en la Infancia y Adolescencia.
 
 1. La atención infantil abarca los servicios de salud prestados al individuo desde su nacimiento y desarrollo hasta la mayoría de edad, con especial énfasis en la prevención de enfermedades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 45.
 
 Obligaciones de la Secretaría.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
 1. Es obligación de la Secretaría de Salud, en materia de salud infantil:
 
@@ -655,13 +661,21 @@ II. Proporcionar atención a las enfermedades hereditarias y congénitas, con de
 
 III. Realizar acciones para diagnosticar y ayudar a resolver el problema de salud de los niños en las escuelas públicas y privadas, en coordinación con la Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-IV. Promover la integración y el bienestar familiar; y
+IV. Promover la integración y el bienestar familiar;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-V. Coadyuvar con la Secretaría de Educación para otorgar en las escuelas públicas pertenecientes al sistema educativo estatal productos para la gestión menstrual a niñas, jóvenes y personas menstruantes, priorizando aquellos centros educativos que se encuentren en zonas de escasos recursos.
+V. Coadyuvar con la Secretaría de Educación para otorgar en las escuelas públicas pertenecientes al sistema educativo estatal productos para la gestión menstrual a niñas, jóvenes y personas menstruantes, priorizando aquellos centros educativos que se encuentren en zonas de escasos recursos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+VI. Elaborar e implementar, en coordinación con las autoridades competentes, programas de educación para la salud para Niñas, Niños y Adolescentes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+VII. Coadyuvar con las autoridades correspondientes en las acciones establecidas en este y otros ordenamientos.
 
 ###### Artículo 46.
 
@@ -739,9 +753,19 @@ III. Coadyuvar en la ejecución del Programa de Salud Bucal que propone la Feder
 
 IV. Las demás que contemple la normatividad aplicable en materia de salud bucodental.
 
-### CAPÍTULO V. DE LOS CUIDADOS PALIATIVOS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO IV BIS. SALUD VISUAL
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 53 Bis.
+
+Salud Visual. Objetivos
+
+La salud visual tiene por objeto la prevención de enfermedades oculares, así como la realización de acciones para la promoción de la salud visual.
+
+### CAPÍTULO V. DE LOS CUIDADOS PALIATIVOS
 
 ###### Artículo 54.
 
@@ -1183,7 +1207,7 @@ Directrices Anticipadas. Confidencialidad.
 
 ## TÍTULO TERCERO. DE LA ATENCIÓN MÉDICA
 
-### CAPÍTULO II. DE LA ATENCIÓN INTEGRAL A LA SALUD DE LA MUJER
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 86.
 
@@ -1217,9 +1241,9 @@ III. De habilitación y rehabilitación, que incluyen acciones tendientes a corr
 
 IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos, psicológicos, sociales y espirituales por parte de un equipo profesional multidisciplinario.
 
-### CAPÍTULO III. DE LA ATENCIÓN MATERNO-INFANTIL
+### CAPÍTULO II. DE LA ATENCIÓN INTEGRAL A LA SALUD DE LA MUJER
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LA ATENCIÓN MATERNO-INFANTIL
 
 ###### Artículo 88.
 
@@ -1333,7 +1357,7 @@ Atención Integral de la Salud de la Mujer. Cartilla Nacional de Salud.
 
 1. Los prestadores de los servicios de salud del sector público y privado, entregarán la cartilla Nacional de Salud de las Mujeres, la cual solicitarán cuando acuda a un servicio; en caso de extravío, pérdida o robo, deberán proporcionarle el servicio, otorgándoles una nueva cartilla, exhortándoles al buen uso y cuidado de la misma, presentándola en cada consulta.
 
-### CAPÍTULO II. DE LA PROMOCIÓN DE LA SALUD
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 100.
 
@@ -1433,7 +1457,7 @@ IV. Propondrá a las autoridades sanitarias las acciones de promoción de la sal
 
 ## TÍTULO CUARTO. DE LA SALUD PÚBLICA
 
-### CAPÍTULO III. DE LOS EFECTOS DEL MEDIO AMBIENTE EN LA SALUD
+### CAPÍTULO II. DE LA PROMOCIÓN DE LA SALUD
 
 ###### Artículo 107.
 
@@ -1503,7 +1527,7 @@ Salud Pública. Costos de la Atención Médica de Urgencia.
 
 2. Los convenios que se suscriban en los términos del párrafo anterior podrán estipular el pago en efectivo, en especie o en servicios.
 
-### CAPÍTULO IV. DE LA PARTICIPACIÓN DE LA COMUNIDAD Y LOS CONSEJOS MUNICIPALES
+### CAPÍTULO III. DE LOS EFECTOS DEL MEDIO AMBIENTE EN LA SALUD
 
 #### SECCIÓN PRIMERA. CLASIFICACIÓN
 
@@ -1531,7 +1555,7 @@ V. De la prestación del servicio de cuidados paliativos.
 
 #### SECCIÓN SEGUNDA. DE LA EDUCACIÓN PARA LA SALUD
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 113.
 
@@ -1547,9 +1571,9 @@ II. Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 III. Proporcionar a la población información sobre los riesgos del uso de medicamentos fuera de lo prescrito y sus efectos en el abuso de los mismos;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-IV. Orientar y capacitar a la población, preferentemente, en materia de nutrición y combate a la obesidad, salud mental, salud bucal, educación menstrual, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, riesgos del consumo de alcohol durante el embarazo, alcoholismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención, habilitación y rehabilitación de la discapacidad y detección oportuna de enfermedades, enfermedades raras y, catastróficas; y
+IV. Orientar y capacitar a la población, preferentemente, en materia de nutrición y combate a la obesidad, salud mental, salud bucal, salud visual, educación sexual, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, riesgos del consumo de alcohol durante el embarazo, alcoholismo, inhalantes y otras substancias tóxicas, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención, habilitación y rehabilitación de la discapacidad y detección oportuna de enfermedades, enfermedades raras y, catastróficas; y
 
 V. Fomentar en la población la cultura de la donación de sangre, órganos y tejidos.
 
@@ -1761,6 +1785,52 @@ De la Diabetes. Autoanálisis de Glucosa.
 
 1. El Sistema de Salud fomentará y apoyará la práctica regular del autoanálisis de la glucosa capilar por el paciente con Diabetes, implementará campañas de información sobre el manejo y conveniencia del uso del glucómetro portátil y desarrollará mecanismos para facilitar la adquisición de medidores portátiles de glucosa y sus consumibles, a un costo accesible, por parte del usuario.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 128 Bis.
+
+De la Diabetes. Diagnóstico y atención.
+
+1. Los integrantes del Sistema Estatal de Salud, diferenciarán el diagnóstico y atención de la diabetes mellitus, en sus tipos, subtipos y la gestacional.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 128 Ter.
+
+De la Diabetes. Atención.
+
+1.Los integrantes del Sistema Estatal de Salud, realizarán las acciones necesarias y coordinadas tendientes a brindar atención a los diferentes tipos de diabetes, considerando la atención oportuna y adecuada, así como el derecho a la insulina, lo anterior sujeto a la disponibilidad presupuestal y en apego a las normas, programas, lineamientos o protocolos vigentes, incluyendo las siguientes etapas:
+
+I. Detección;
+
+II. Diagnóstico;
+
+III. Tratamiento;
+
+IV. Control;
+
+V. Vigilancia; y
+
+VI. Educación terapéutica en diabetes.
+
+2. La educación terapéutica en diabetes es indispensable en el manejo de la enfermedad de las personas con diabetes mellitus tipo 1.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 128 Quáter.
+
+De la Diabetes. De la Coordinación.
+
+1. La Secretaría de Salud a través de sus órganos auxiliares, coordinará las políticas públicas tendientes a garantizar el acceso a los servicios de salud para la atención de personas con diabetes, en sus diferentes tipos y subtipos.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 128 Quinquíes. De la Diabetes. Registro Nominal Estatal.
+
+1. La Secretaría de Salud deberá conformar y administrar el Registro Nominal Estatal de personas con diabetes en sus diferentes tipos y subtipos, con el objetivo de contar con información veraz, precisa, oportuna, completa, fidedigna y verificable, procurando la celebración de convenios con las diversas instancias y prestadores de salud, concentrando la información.
+
+2. La Secretaría de Salud deberá observar y resguardar la información del Registro Nominal Estatal de Personas con Diabetes en sus Diferentes Tipos y Subtipos, conforme a lo establecido en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, así como la propia del Estado de Jalisco y demás aplicables en la materia.
+
 #### SECCIÓN CUARTA. DE LA SALUD OCUPACIONAL
 
 ###### Artículo 129.
@@ -1775,7 +1845,7 @@ De la salud Ocupacional. Prevención.
 
 1. El Gobierno del Estado, por conducto de la Secretaría de Trabajo y Previsión Social, en coordinación con las autoridades federales e instituciones competentes, promoverá y desarrollará investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales; así como estudios para adecuar los instrumentos y equipos de trabajo a las características de la persona que los utiliza.
 
-### CAPÍTULO I. DE LAS ENFERMEDADES TRANSMISIBLES
+### CAPÍTULO IV. DE LA PARTICIPACIÓN DE LA COMUNIDAD Y LOS CONSEJOS MUNICIPALES
 
 ###### Artículo 131.
 
@@ -1809,7 +1879,7 @@ De los Efectos del Ambiente en la Salud. Convenios.
 
 1. Los municipios en el ámbito de su competencia, y conforme a los convenios celebrados, vigilarán las condiciones ambientales de su jurisdicción.
 
-### CAPÍTULO II. DE LAS ENFERMEDADES NO TRANSMISIBLES
+### CAPÍTULO I. DE LAS ENFERMEDADES TRANSMISIBLES
 
 #### SECCIÓN PRIMERA. DE LA PARTICIPACIÓN DE LA COMUNIDAD
 
@@ -1883,7 +1953,7 @@ IV. Apoyar la integración y vigilar el funcionamiento de los consejos de salud 
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPÍTULO III. DE LOS ACCIDENTES
+### CAPÍTULO II. DE LAS ENFERMEDADES NO TRANSMISIBLES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2055,7 +2125,7 @@ Enfermedades Transmisibles. De los Comités Municipales.
 
 1. Para el apoyo directo a los municipios por parte del Estado, a través del Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida, se constituirán los Comités Municipales para la Prevención del Síndrome de Inmunodeficiencia Adquirida, a quienes el propio Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida podrá, cuando así lo disponga su presupuesto anual, otorgar mediante los documentos jurídicos aplicables, bienes muebles para la realización de las tareas propias del programa en los municipios.
 
-### CAPÍTULO ÚNICO. DE LA DISPOSICIÓN Y GARANTÍA DEL USO RACIONAL DE MEDICAMENTOS Y OTROS INSUMOS
+### CAPÍTULO III. DE LOS ACCIDENTES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2387,7 +2457,7 @@ Usuarios de Sustancias Psicoactivas Sentenciados. De la Justicia Terapéutica.
 
 1. La Secretaría y las autoridades competentes deberán establecer los programas de justicia terapéutica como un beneficio de sustitución de la pena en los términos establecidos en la legislación aplicable.
 
-### CAPÍTULO I. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPÍTULO ÚNICO. DE LA DISPOSICIÓN Y GARANTÍA DEL USO RACIONAL DE MEDICAMENTOS Y OTROS INSUMOS
 
 ###### Artículo 172.
 
@@ -2435,7 +2505,7 @@ III. De tránsito.
 
 ## TÍTULO SEXTO. DE LOS MEDICAMENTOS Y OTROS INSUMOS MÉDICOS
 
-### CAPÍTULO II. PROFESIONALES, TÉCNICOS Y AUXILIARES
+### CAPÍTULO I. DEL SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### Artículo 175.
 
@@ -2479,7 +2549,7 @@ II. En el caso de los que no estén incluidos en el catálogo referido en la fra
 
 ## TÍTULO SÉPTIMO. DE LOS RECURSOS HUMANOS PARA LA SALUD
 
-### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+### CAPÍTULO II. PROFESIONALES, TÉCNICOS Y AUXILIARES
 
 #### SECCIÓN PRIMERA. SERVICIO SOCIAL DE LOS PASANTES
 
@@ -2523,7 +2593,7 @@ Servicio Social Profesional.
 
 1. Las autoridades sanitarias estatales, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO IV. DE LA COMISIÓN ESTATAL DE BIOÉTICA E INVESTIGACIÓN DE JALISCO
+### CAPÍTULO III. DE LA FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### Artículo 185.
 
@@ -2639,7 +2709,7 @@ VII. Premio al mérito del auxiliar en las ciencias de la salud.
 
 4. La asignación de los premios será determinada por la votación de jurados que examinarán las propuestas presentadas. La integración del jurado y el procedimiento para la convocatoria, recepción de propuestas y calificación de las mismas serán determinados en el Reglamento que al efecto se expida.
 
-### CAPITULO V. DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE JALISCO
+### CAPITULO IV. DE LA COMISIÓN ESTATAL DE BIOÉTICA E INVESTIGACIÓN DE JALISCO
 
 ###### Artículo 194.
 
@@ -2691,7 +2761,7 @@ Formación, Capacitación y Actualización del Personal. Regulación.
 
 2. La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
 
-### CAPÍTULO I. DISPOSICIÓN DE ÓRGANOS Y TEJIDOS DE SERES HUMANOS
+### CAPITULO V. DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE JALISCO
 
 ###### Artículo 199.
 
@@ -2833,7 +2903,7 @@ Comisión Estatal de Bioética. Comités Hospitalarios.
 
 4. Los integrantes del Comité Hospitalario correspondiente elaborarán los lineamientos para su funcionamiento y deberán dar aviso, semestralmente, a la Secretaría de Salud a través de la Comisión Estatal de Bioética e Investigación de Jalisco, de las opiniones que emitan, a fin de que ésta elabore criterios y guías éticas para la atención médica.
 
-### CAPÍTULO II. DISPOSICIÓN DE SANGRE, COMPONENTES SANGUÍNEOS, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS Y HEMODERIVADOS
+### CAPÍTULO I. DISPOSICIÓN DE ÓRGANOS Y TEJIDOS DE SERES HUMANOS
 
 ###### Artículo 207.
 
@@ -3079,7 +3149,7 @@ Comisión de Arbitraje Médico. Estructura Orgánica.
 
 ## TÍTULO OCTAVO. DE LA DISPOSICIÓN DE ÓRGANOS, TEJIDOS, SANGRE, CÉLULAS TRONCALES Y HEMODERIVADOS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. DISPOSICIÓN DE SANGRE, COMPONENTES SANGUÍNEOS, CÉLULAS PROGENITORAS HEMATOPOYÉTICAS Y HEMODERIVADOS
 
 ###### Artículo 219.
 
@@ -3337,7 +3407,7 @@ Participación Social en la Realización de Trasplantes.
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)
 
-### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
+### CAPÍTULO ÚNICO
 
 ###### Artículo 241.
 
@@ -3375,6 +3445,10 @@ XI. Promover la certificación de los bancos de sangre en la Entidad y del perso
 
 XII. Capacitar al personal médico, paramédico, técnico y auxiliar en materia de medicina transfusional, extracción y fraccionamiento de sangre, bioseguridad en su manejo y, en general, en todos los aspectos relacionados con la sangre y los productos sanguíneos.
 
+### CAPÍTULO ÚNICO. DE LAS ACCIONES Y BASES PARA LA INVESTIGACIÓN
+
+## TÍTULO NOVENO. DE LA INFRAESTRUCTURA EN SALUD
+
 ### CAPÍTULO ÚNICO
 
 Artículo. 252. Expendios de Alimentos Bebidas no Alcohólicas y Alcohólicas. Autorización.
@@ -3384,10 +3458,6 @@ Artículo. 252. Expendios de Alimentos Bebidas no Alcohólicas y Alcohólicas. A
 2. En el caso de los establecimientos que expendan o suministren al público bebidas alcohólicas en estado natural, mezcladas, preparadas o adicionadas, deberán cumplir con todas las medidas específicas impuestas por la Secretaría de Salud en el acuerdo que emita, cuya observación será motivo de verificación constante por parte de las autoridades sanitarias competentes.
 
 3. La Secretaría de Salud podrá efectuar visitas de verificación a establecimientos de conformidad a lo dispuesto por la Ley General de Salud, efectuando revisión de los envases o empaques que contenían las bebidas a fin de corroborar si los sellos de seguridad con que cuentan presentan o no huellas de haber sido quebrantados y su contenido alterado substituido o mezclado, así como pruebas químicas a fin de comprobar la calidad y contenido de las mismas con muestreos para pruebas de laboratorio en cantidades estrictamente necesarias y que puedan ocasionar un daño a la salud.
-
-## TÍTULO NOVENO. DE LA INFRAESTRUCTURA EN SALUD
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 243.
 
@@ -3421,7 +3491,7 @@ Infraestructura en Salud. Centros de Recreo.
 
 ## TÍTULO DÉCIMO. INVESTIGACIÓN EN SALUD
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 246.
 
@@ -3489,7 +3559,7 @@ Investigación de la Salud. Sanciones.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO III. DE LA INGENIERÍA SANITARIA
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 253.
 
@@ -3505,7 +3575,7 @@ Expendios de Alimentos Bebidas no Alcohólicas y Alcohólicas. Distancias.
 
 ## TÍTULO DÉCIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
+### CAPÍTULO III. DE LA INGENIERÍA SANITARIA
 
 ###### Artículo 255.
 
@@ -3609,7 +3679,7 @@ Salubridad Local. Supletoriedad.
 
 1. En todo lo no previsto por este Capítulo se estará a lo que dispongan esta Ley y sus reglamentos respectivos, disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, así como los criterios y lineamientos de carácter técnico que se llegaran a expedir.
 
-### CAPÍTULO V. DE LOS RECLUSORIOS
+### CAPÍTULO IV. DE LOS CEMENTERIOS, CREMATORIOS, FUNERARIAS Y CRIPTAS
 
 ###### Artículo 264.
 
@@ -3629,7 +3699,7 @@ Mercados y Centros de Abasto. Condiciones Higiénicas.
 
 1. Los vendedores, locatarios y personal cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar en esos lugares las condiciones higiénicas indispensables para el debido mantenimiento de sus locales.
 
-### CAPÍTULO VI. DE LAS ALBERCAS, BAÑOS Y SANITARIOS PÚBLICOS
+### CAPÍTULO V. DE LOS RECLUSORIOS
 
 ###### Artículo 267.
 
@@ -3701,7 +3771,7 @@ Edificaciones. Suspensión y Demolición.
 
 1. Cuando se contravengan algunas de las disposiciones anteriores o las del Reglamento respectivo, la autoridad sanitaria competente podrá, previo el cumplimiento de los requisitos legales respectivos, ordenar la suspensión de las obras o su demolición apoyándose en las demás autoridades competentes.
 
-### CAPÍTULO VII. DE LOS CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPÍTULO VI. DE LAS ALBERCAS, BAÑOS Y SANITARIOS PÚBLICOS
 
 ###### Artículo 278.
 
@@ -3739,7 +3809,7 @@ I. Cuando se trate de cadáveres de personas que hubieren padecido enfermedades 
 
 II. Cuando el traslado se pretenda realizar después de las cuarenta y ocho horas posteriores a la muerte de que se trata.
 
-### CAPÍTULO VIII. DE LOS CENTROS DE HOSPEDAJE
+### CAPÍTULO VII. DE LOS CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### Artículo 282.
 
@@ -3759,7 +3829,7 @@ Reclusorios. Baños y Área de Enfermería.
 
 1. Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas oficiales mexicanas correspondientes, con un departamento de baños y otro de enfermería, este último para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el traslado de éstos a un hospital.
 
-### CAPÍTULO I. DE LAS AUTORIZACIONES
+### CAPÍTULO VIII. DE LOS CENTROS DE HOSPEDAJE
 
 ###### Artículo 285.
 
@@ -3779,7 +3849,7 @@ Baños Públicos. Apertura.
 
 1. Para abrir al servicio público estos establecimientos deberá notificarse sin excepción a la autoridad sanitaria competente.
 
-### CAPÍTULO II. DE LA REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. DE LAS AUTORIZACIONES
 
 ###### Artículo 287.
 
@@ -3799,7 +3869,7 @@ Centros de Reunión y Espectáculos. Normativa.
 
 1. El funcionamiento de los establecimientos a que se refiere el artículo 287 deberá ajustarse a lo dispuesto por las disposiciones legales aplicables, y contará con los servicios de seguridad e higiene que establezcan las normas correspondientes.
 
-### CAPÍTULO III. DE LOS CERTIFICADOS
+### CAPÍTULO II. DE LA REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 290.
 
@@ -3823,7 +3893,7 @@ Hoteles, Moteles, Pensiones y Casas de Huéspedes. Normatividad.
 
 ## TÍTULO DÉCIMO TERCERO. AUTORIZACIONES Y CERTIFICACIONES
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO III. DE LOS CERTIFICADOS
 
 ###### Artículo 292.
 
@@ -3911,7 +3981,7 @@ Autorizaciones Sanitarias. Revocación.
 
 1. Las autorizaciones a que se refiere esta Ley podrán ser revocadas por la autoridad sanitaria competente en los términos de las disposiciones legales aplicables.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 #### SECCIÓN PRIMERA. CAUSAS DE REVOCACIÓN
 
@@ -3985,7 +4055,7 @@ Revocación. Efectos.
 
 1. La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, de prohibición de uso o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO I. DE LA VIGILANCIA SANITARIA
+### CAPÍTULO II. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 308.
 
@@ -4031,7 +4101,7 @@ Certificados. Expedición en Formatos Aprobados.
 
 ## TÍTULO DÉCIMO CUARTO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
-### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. DE LA VIGILANCIA SANITARIA
 
 ###### Artículo 313.
 
@@ -4141,7 +4211,7 @@ Medidas de Seguridad. Desocupación de Inmuebles.
 
 1. La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y del dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPÍTULO III. DEL RECURSO DE REVISIÓN
+### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 325.
 
@@ -4237,7 +4307,7 @@ Procedimientos Administrativos. Posible Comisión del Delito.
 
 ## TÍTULO DÉCIMO QUINTO. VIGILANCIA SANITARIA, SANCIONES Y RECURSO DE REVISIÓN
 
-### CAPÍTULO IV. DE LA PRESCRIPCIÓN
+### CAPÍTULO III. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 335.
 
@@ -4312,6 +4382,8 @@ III. En el acta que se levante con motivo de la verificación, se asentarán las
 IV. Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento del que se le entregará una copia.
 
 La negativa a firmar el acta o recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada.
+
+### CAPÍTULO IV. DE LA PRESCRIPCIÓN
 
 ###### Artículo 344.
 
@@ -4730,3 +4802,53 @@ P.O. 10 DE SEPTIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Ejecutivo del Estado tendrá un término de 120 días contados a partir de la publicación del presente decreto para emitir el Reglamento y protocolo de atención respectivo.
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28856/LXIII/22 DEL CONGRESO DEL ESTADO, QUE MODIFICA LA FRACCIÓN XIV; SE ADICIONA LA FRACCIÓN XV RECORRIENDO LA SUBSECUENTE PARA QUEDAR COMO XVI AL ARTÍCULO 34; SE REFORMA EL ARTÍCULO 113; SE ADICIONA EL CAPÍTULO IV BIS Y EL ARTÍCULO 53 BIS DE LA LEY DE SALUD DEL ESTADO DE JALISCO Y SE REFORMA EL ARTÍCULO 60 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Con la finalidad de diagnosticar y tratar de manera oportuna e integral a las personas con debilidad visual, la Secretaría de Salud de Jalisco deberá crear un programa coordinado con la Secretaría de Educación Pública de Jalisco, de conformidad con su viabilidad presupuestal.
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28861/LXIII/22 DEL CONGRESO DEL ESTADO, QUE ADICIONAN LOS ARTÍCULOS 128 BIS, 128 TER, 128 QUATER Y 128 QUINQUIES A LA LEY DE SALUD, ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 37 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL Y ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, LOS ANTERIORES ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. La Secretaría de Salud del Estado de Jalisco para el correcto funcionamiento del Registro Nominal de Personas con Diabetes en sus diferentes tipos y subtipos que se establece en el presente Decreto, en un plazo deciento veinte días posteriores a la entrada en vigor, deberá iniciar las acciones encaminadas a recolectar, registrar, capturar, validar y analizar los datos proporcionados por los prestadores de salud, así como llevar a cabo campañas de difusión, información, orientación y detección.
+
+Tercero. Se autoriza al Titular del Poder Ejecutivo para que, a través de la Secretaría de Hacienda del Estado de Jalisco, realice las adecuaciones y modificaciones presupuestales y programáticas necesarias para la creación y funcionamiento del Registro Nominal de Personas con Diabetes en sus Diferentes Tipos y Subtipos.
+
+Cuarto. La Secretaría de Salud del Estado de Jalisco una vez que implemente el Registro nominal a que hace referencia el artículo 128 Quinquíes de la Ley de Salud del Estado de Jalisco, contará con un plazo de ciento ochenta días para efectuar las adecuaciones presupuestales en coordinación con la Secretaría de la Hacienda Pública del Estado de Jalisco, que permitan el cumplimiento del presente decreto de manera gradual, paulatina y progresiva materializar el Registro Nominal Estatal de Personas con Diabetes y el derecho a la insulina previsto en el presente decreto, sujeto a los presupuestos federales y estatales con que cuenten los integrantes del Sistema Estatal de Salud del Estado de Jalisco, en apego a la legislación y normatividad aplicable.
+
+Quinto. En un plazo de ciento veinte días posteriores a la entrada en vigor del presente decreto, la mesa de trabajo convocada por el Consejo Estatal de Salud deberá iniciar las adecuaciones y modificaciones pertinentes en los programas y guías de atención que se encuentren vigentes sobre diabetes en sus diferentes tipos y subtipos, con relación a la detección, diagnóstico, tratamiento, control y vigilancia.
+
+Sexto. La Secretaría de Educación del Estado de Jalisco en coadyuvancia con la Secretaría de Salud estatal, elaborará una Guía práctica de comunicación para el abordaje de las personas con diabetes, sobre el debido cuidado y no discriminación de niñas, niños y adolescentes con diabetes mellitus en sus tipos y subtipos en los planteles escolares.
+
+Séptimo. Los prestadores de servicios de salud en atención directa con pacientes con diagnóstico de diabetes en sus diferentes tipos y subtipos, podrán establecer mecanismos para fomentar la corresponsabilidad de las personas con diabetes en sus diferentes tipos y subtipos, respecto de la importancia y trascendencia del uso y aplicación adecuada de los insumos, así como de la educación terapéutica en diabetes recibida.
+
+Octavo. Dentro de los trescientos sesenta y cinco días posteriores a la entrada en vigor del presente decreto y sucesivamente de forma anual, las autoridades en materia de salud responsables en la aplicación de la norma, deberán remitir un informe a esta H. Soberanía, que incluya los avances de la aplicación del presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28852/LXIII/22 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 4 Y 25 DEL CÓDIGO DE ASISTENCIA SOCIAL, LOS ARTÍCULOS 3, 8, 14, 37, 38, 42, 72, 74, 76, 77, 93, 95, 98, Y 100, SE ADICIONAN LOS ARTÍCULOS 8 BIS, 103 BIS Y 103 TER DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EL ARTÍCULO 45 DE LA LEY DE SALUD Y LOS ARTÍCULOS 8, 25, 57 Y 69 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes (SIPINNA) a través de su Secretaría Ejecutiva, deberá de diseñar la Estrategia Estatal para la Atención Integral en Primera Infancia de conformidad con lo establecido en este decreto, dentro de los 120 días posteriores a la entrada en vigor del presente decreto, la cual podrá contar con el apoyo de las dependencias que están sectorizadas a la Coordinación General Estratégica de Desarrollo Social.
+
+Asimismo, la Secretaría Ejecutiva del Sistema, deberá acompañar el proceso de Planeación, Programación y Presupuestación, con la finalidad de orientar el gasto público a la atención de la Estrategia Estatal para la Atención Integral de Primera Infancia.
+
+En la elaboración de la Estrategia se considerará la opinión de las dependencias para el establecimiento del cumplimiento de metas.
+
+TERCERO. La Secretaría de Planeación y Participación Ciudadana del Estado de Jalisco, elaborará los estudios de campo y diagnósticos correspondientes para determinar la demanda en los sectores públicos y privados del Estado que presten servicios con horarios no convencionales, con la oportunidad de proyectar la necesidad del servicio de los Centros de Desarrollo Infantil al área donde pueda aplicar.
+
+CUARTO. La Secretaría de Salud del Estado de Jalisco en coordinación con el Organismo Público Descentralizado de Servicios de Salud Jalisco, incluirá como un proyecto prioritario la implementación de más Bancos de Leche Humana a lo largo del Estado de Jalisco y fortalecerá el existente tomando en consideración los puntos que establece la PROY-NOM-050-SSA2-2018.
+
+QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, de acuerdo con lo dispuesto en la Ley del Presupuesto, Contabilidad y Gasto Publico del Estado de Jalisco, determinará los recursos suficientes para la implementación y ejecución del Programa y acciones generados por la Estrategia Estatal para la Atención Integral en Primera Infancia, con el presupuesto previamente asignado.
+
+SEXTO. El Titular del Poder Ejecutivo identificará dentro del Anexo Transversal de Desarrollo integral de las niñas, niños y adolescentes las acciones y, o componentes a favor de la Primera Infancia como parte de la iniciativa de Presupuesto de Egresos para el ejercicio fiscal 2023.
+
+SÉPTIMO. Los gobiernos municipales, con base en su autonomía y libertad de administración presupuestal, podrán incluir en sus respectivos presupuestos de egresos, los recursos suficientes para la implementación y ejecución de los Programas y acciones generadas por la Estrategia Estatal para la Atención Integral en Primera Infancia.
