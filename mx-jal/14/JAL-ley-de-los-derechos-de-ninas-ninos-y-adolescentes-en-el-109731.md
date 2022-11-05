@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2022-04-07"
+last_updated: "2022-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -67,65 +67,101 @@ VI. Establecer las facultades, atribuciones, competencias y bases para la coordi
 
 VII. Promover y establecer las bases para la participación de los sectores privado, social y académico en las políticas, acciones y programas gubernamentales tendientes a garantizar el respeto, protección, promoción y ejercicio de los derechos de niñas, niños y adolescentes.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 5 DE NOVIEMBRE DE 2022, PÁGINAS DE LA 25 A LA 27.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley se entiende por:
 
-I. Albergue o centro de asistencia social: El establecimiento, lugar o espacio, ya sea público o privado, donde se proporciona el servicio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes que se encuentran sin cuidado parental o familiar, o están en riesgo de perderlo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-II. Autoridades: Las autoridades y los servidores públicos de las dependencias y entidades del Poder Ejecutivo del Estado y de los Gobiernos Municipales, así como a los organismos constitucionales autónomos;
+I. Abandono: situación en que se encuentran y/o viven las niñas, niños o adolescentes cuando sus padres, madres, tutores o aquellas personas mayores de edad responsables de su cuidado no les proporcionan los medios básicos de subsistencia ni los cuidados necesarios para su desarrollo integral;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-III. Castigo corporal o físico: todo castigo en el que se utilice de manera severa o innecesaria la fuerza física y tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve;
+II. Albergue o centro de asistencia social: El establecimiento, lugar o espacio, ya sea público o privado, donde se proporciona el servicio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes que se encuentran sin cuidado parental o familiar, o están en riesgo de perderlo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-IV. Crianza positiva: la enseñanza de niñas, niños y adolescentes, la cual se basa en fijar las metas para aprender, darles información, apoyarles en su crecimiento y ayudarles a tener éxito, misma que se realiza de forma respetuosa, no violenta y de acuerdo a los principios del desarrollo infantil;
+III. Atención integral: Al conjunto de acciones preventivas, compensatorias y restitutivas que deben realizar las autoridades, familia y sociedad a favor de las niñas, niños y adolescentes que se encuentran en condiciones de desventaja social, y tienen por objeto garantizar el ejercicio de sus derechos, satisfacer sus necesidades básicas y propiciar su desarrollo integral;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-V. Discriminación múltiple: Es resultado de la interseccionalidad de condiciones de vulnerabilidad que afecta a niñas, niños y adolescentes, por medio de actos de discriminación por más de una razón o motivo en el respeto, protección, promoción y ejercicio de sus derechos y libertades fundamentales;
+IV. Autoridades: Las autoridades y los servidores públicos de las dependencias y entidades del Poder Ejecutivo del Estado y de los Gobiernos Municipales, Poder Judicial, así como a los organismos constitucionales autónomos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-VI. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+V. Cartilla de servicios: documento físico y digital que conjunte e identifique los servicios prestados en materia de primera infancia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-VII. Programa Estatal: El Programa Estatal de Protección de Niñas, Niños y Adolescentes;
+VI. Castigo corporal o físico: todo castigo en el que se utilice de manera severa o innecesaria la fuerza física y tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-VIII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, sin perjuicio de la intervención que corresponda a la representación social;
+VII. Crianza positiva y buen trato: es el conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos físicos ni a tratos crueles y humillantes, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos que deberán garantizar y llevar a cabo quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en la crianza o cuidado de niñas, niños y adolescentes.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-IX. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables;
+VIII. Discriminación múltiple: Es resultado de la interseccionalidad de condiciones de vulnerabilidad que afecta a niñas, niños y adolescentes, por medio de actos de discriminación por más de una razón o motivo en el respeto, protección, promoción y ejercicio de sus derechos y libertades fundamentales;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-X. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, sin perjuicio de la intervención que corresponda a la representación social;
+IX. Estrategia Estatal para la Atención Integral en Primera Infancia: el conjunto de acciones coordinadas y lineamientos estratégicos a seguir, en la atención integral para el desarrollo de la niñez en primera infancia del Estado de Jalisco, la cual en todo momento estará homologada a la Estrategia Nacional de Primera Infancia.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XI. Sistema Estatal DIF: El organismo público descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
+X. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XII. Sistema Estatal de Protección: Es el Sistema local para la protección integral de los derechos de niñas, niños y adolescentes;
+XI. Ludoteca: es el espacio en el que se desarrollan niñas y niños en primera infancia, en temas artísticos, culturales, físicas (sic) y mentales, mediante talleres de estimulación temprana, se fomentan las habilidades electrónicas dentro de un club de tareas impartido por personal cálido, humanizado y efectivo, a fin de desplegar su mente y minimizar los riesgos psicosociales a los que se ven expuestos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XIII. Sistema Municipal de Protección: El sistema organizado en cada municipio para la protección integral de los derechos de niñas, niños y adolescentes;
+XII. Primera infancia: el período que comprende desde el desarrollo prenatal hasta los cinco años seis meses de edad de las niñas y los niños; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XIV. Sistemas municipales DIF: Son los organismos públicos descentralizados de cada municipio denominados Sistema Municipal para el Desarrollo Integral de la Familia; y
+XIII. Programa Estatal: El Programa Estatal de Protección de Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XV. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia.
+XIV. Puerperio: el periodo que sigue al alumbramiento y tiene una duración de 6 semanas o 42 días.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, sin perjuicio de la intervención que corresponda a la representación social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XVII. Sistema Estatal DIF: El organismo público descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XVIII. Sistema Estatal de Protección: Es el Sistema local para la protección integral de los derechos de niñas, niños y adolescentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XIX. Sistema Municipal de Protección: El sistema organizado en cada municipio para la protección integral de los derechos de niñas, niños y adolescentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XX. Sistemas municipales DIF: Son los organismos públicos descentralizados de cada municipio denominados Sistema Municipal para el Desarrollo Integral de la Familia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XXI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XXII. Segunda infancia: son niños y niñas que se encuentran dentro del rango de edad de 6 a 11 años.
 
 ### CAPÍTULO II. De los Principios Rectores
 
@@ -219,7 +255,9 @@ XXII. A las visitas y convivencia con sus padres, salvo en los casos específico
 
 XXIII. A la crianza, y a recibir buen trato y consideración por parte de sus padres o personas de quienes reciben su guarda y custodia;
 
-XXIV. Los alimentos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XXIV. Los alimentos y nutrición adecuada;
 
 XXV. La protección y la asistencia social cuando se encuentren en condiciones de vulnerabilidad;
 
@@ -240,6 +278,24 @@ XXX. El derecho humano a la paz; y
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2021)</small>
 
 XXXI. Los demás derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano forme parte y en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 8 Bis.
+
+Los derechos de las niñas y niños en la primera infancia, además de los anteriores, consisten en:
+
+I. Recibir estimulación temprana, encaminada a conformar adecuadamente su sistema nervioso con el fin de desarrollar al máximo sus capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas;
+
+II. Recibir alimentación nutritiva durante las etapas de pre-gestación, embarazo y posterior al nacimiento;
+
+III. Recibir los beneficios de los programas y servicios que les permitan generar condiciones y oportunidades de igualdad para desarrollar sus capacidades;
+
+IV. Recibir como mecanismo de prevención, la información adecuada que promueva el autocuidado en especial atención al crecimiento y desarrollo;
+
+V. Contar con espacios adecuados dentro de los entornos laborales, educativos, institucionales, o cualquier otro para recibir la lactancia materna; y
+
+VI. Acceder a las ludotecas públicas.
 
 ### CAPÍTULO II. Del Derecho a la Vida, la Supervivencia, el Desarrollo y el Máximo Bienestar Integral Posible
 
@@ -280,6 +336,10 @@ Las autoridades deberán considerarles para el diseño y ejecución de las polí
 ###### Artículo 14.
 
 Los oficiales del Registro Civil, la Procuraduría Social y la Procuraduría de Protección de Niñas, Niños y Adolescentes, deberán coordinarse para la preservación y protección de los derechos de identidad de niñas, niños y adolescentes, conforme a la legislación estatal y general aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+Las autoridades, en el ámbito de su competencia deberán promover y facilitar la inscripción en el Registro Civil del Estado, priorizando a niñas, niños y adolescentes, a efecto de abatir el subregistro y garantizar y el derecho a gozar de identidad y personalidad jurídica.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
@@ -453,15 +513,33 @@ El Sistema Estatal de Protección emitirá los protocolos, los cuales atenderán
 
 ### CAPÍTULO IX. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 37.
 
 Las autoridades, en el ámbito de su respectiva competencia, deben desarrollar políticas para:
 
 I. Reducir la morbilidad y mortalidad;
 
-II. Fortalecer la salud materno-infantil; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-III. Aumentar la esperanza de vida de la población.
+II. Fortalecer la salud materno-infantil;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+III. Aumentar la esperanza de vida de la población;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+IV. La capacitación y sensibilización a las personas servidoras públicas correspondientes, en Atención Integral en Primera Infancia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+V. Dar respuesta a la información requerida por el Sistema Estatal de Protección en un plazo máximo (sic) 10 días hábiles; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+VI. Establecer medidas tendientes a favorecer la salud mental de niñas, niños y adolescentes.
 
 ###### Artículo 38.
 
@@ -469,15 +547,31 @@ Las autoridades de Salud del Estado deberán garantizar la protección, promoci�
 
 I. Asegurar la prestación de los servicios de asistencia médica y sanitaria que sean necesarios para la atención y tratamiento de las enfermedades que más les afecten, haciendo énfasis en la atención primaria;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 II. Promover en todos los grupos de la sociedad:
 
 a) La alimentación directa de la madre al recién nacido;
 
 b) Las ventajas de la lactancia materna; y
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 c) Promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a métodos anticonceptivos;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+d) Promover la atención perinatal tanto para mujeres, así como para niñas y niños garantizando la salud desde el embarazo, parto y puerperio, en caso de ser necesario; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+e) Asegurar la prestación de servicios de atención médica a la mujer de manera respetuosa, efectiva e integral durante el embarazo, parto y puerperio.
+
 III. Impulsar programas de prevención e información y combatir los trastornos de la conducta alimentaria mediante la promoción de una alimentación adecuada y equilibrada, el consumo de agua potable y el fomento del ejercicio físico, para prevenir la desnutrición y la obesidad infantil;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+III Bis. Brindar atención multidisciplinaria a niñas, niños y adolescentes con diabetes, procurando su acceso a la insulina, además de brindar educación terapéutica en diabetes, en sus diferentes tipos y subtipos, a pacientes y cuidadores cuando así corresponda, de conformidad con los lineamientos, disposiciones legales e instrumentos internacionales aplicables en la materia;
 
 IV. Atender de manera especial las enfermedades endémicas, epidémicas, de salud mental, así como infecciones de transmisión sexual;
 
@@ -495,7 +589,23 @@ X. Prestar asistencia médica gratuita a quienes se encuentren en condición de 
 
 XI. Atender, dar seguimiento e informar sobre el cumplimiento a los protocolos, acuerdos y las recomendaciones que al efecto dicten las autoridades en la materia; y
 
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XV.]</small>
+
 XII. Las demás contenidas en la Ley General y la legislación en materia de salud.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Promover el acondicionamiento de áreas en hospitales públicos, centros de salud y unidades de primer nivel para la atención perinatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Promover la instalación de bancos de leche humana en los establecimientos de salud en segundo y tercer nivel; y
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ÉSTA FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XII.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XV. Las demás contenidas en la Ley General y la legislación en materia de salud.
 
 Las niñas, los niños y adolescentes deberán ser atendidos por personal capacitado y deberán recibir información veraz y oportuna, relativa a su enfermedad, en los términos necesarios y comprensibles, acorde a su edad, desarrollo evolutivo cognoscitivo y madurez, acompañados por quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
@@ -561,9 +671,11 @@ VIII. Las demás que establezca la legislación aplicable.
 
 ### CAPÍTULO XI. Del Derecho a la Educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 42.
 
-Niñas, niños y adolescentes, en los términos del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, tienen derecho a una educación que vaya encaminada a:
+Niñas, niños y adolescentes, en los términos del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, tienen derecho a una educación que sea de acuerdo a las etapas de desarrollo y crecimiento en la que se encuentren, para que niñas, niños y adolescentes puedan a acceder a:
 
 I. Garantizar el respeto a su dignidad humana, basada en un enfoque de derechos humanos, de igualdad sustantiva y la no discriminación;
 
@@ -1005,13 +1117,29 @@ XII. Establecer programas que promuevan el desarrollo equitativo y la igualdad d
 
 XIII. Atender las medidas que sean dictadas por la Procuraduría de Protección de Niñas, Niños y Adolescentes; y
 
-XIV. Las demás contenidas en la Ley General y esta ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Adaptar las escuelas y parques públicos para que existan espacios recreativos para todas las etapas de la niñez y adolescencia con equipamiento adecuado a efecto de satisfacer las necesidades para quienes vivan con alguna discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XV. Las instituciones están obligadas a brindar información a la Secretaría Ejecutiva del Sistema de Protección Estatal sobre asuntos relacionados con niñas, niños y adolescentes, en los términos que la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, establezcan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Promover la dotación de herramientas teóricas y técnicas de autoconocimiento, autocuidado y habilidades sociales dentro de los planteles educativos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XVII. Las demás contenidas en la Ley General y esta ley.
 
 ###### Artículo 73.
 
 Las acciones y programas que emprendan las autoridades conforme al presente capítulo, deberán asegurar la asignación prioritaria de recursos de conformidad a la Ley General, la presente Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO II. Del Ejecutivo del Estado y los Gobiernos Municipales
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 74.
 
@@ -1051,17 +1179,27 @@ XVI. Apoyar, de conformidad con sus respectivos presupuestos, a niñas, niños y
 
 XVII. Implementar, en forma coordinada con la Federación, en el ámbito de sus respectivas atribuciones y conforme a la legislación aplicable, programas, mecanismos y protocolos de seguridad que tengan por objeto la búsqueda inmediata de niñas, niños y adolescentes desaparecidos para lo cual podrán solicitar la participación de la sociedad y de los medios masivos de comunicación para atender este tipo de casos y darles la difusión necesaria a fin de facilitar su localización;
 
-XVIII. Vigilar el cumplimiento de la normatividad prevista e implementar los mecanismos necesarios para que los centros públicos, privados y sociales que atienden a niñas, niños y adolescentes cumplan los requerimientos de infraestructura, recursos y funcionamiento, que garanticen su salud física y mental; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+XVIII. Vigilar el cumplimiento de la normatividad prevista e implementar los mecanismos necesarios para que los centros públicos, privados y sociales que atienden a niñas, niños y adolescentes cumplan los requerimientos de infraestructura, recursos y funcionamiento, que garanticen su salud física y mental;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XIX. Prevenir, solicitar la suspensión y sancionar toda información publicada por internet o cualquier otro medio de comunicación local que afecte los derechos humanos, o ponga en riesgo objetivamente el desarrollo integral o el interés superior de la niñez, conforme a lo previsto por esta Ley y las disposiciones legales aplicables.
+XIX. Prevenir, solicitar la suspensión y sancionar toda información publicada por internet o cualquier otro medio de comunicación local que afecte los derechos humanos, o ponga en riesgo objetivamente el desarrollo integral o el interés superior de la niñez, conforme a lo previsto por esta Ley y las disposiciones legales aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XX. Impulsar la instalación de ludotecas en todo el territorio del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XXI. Promover la instalación de centros de desarrollo infantil, con personal capacitado, condiciones y elementos suficientes y de calidad que brinden servicios educativos, formativos, médicos, psicológicos, nutricionales, de capacitación y de trabajo social, procurando que su operación sea con horarios ampliados de hasta 24 horas, con especial atención a la primera infancia.
 
 ###### Artículo 75.
 
 Se prohíbe a los municipios otorgar licencias municipales a los giros que presten servicios de internet y tecnologías de la información que no garanticen el acceso seguro de niñas, niños y adolescentes a información libre de riego (sic) para su desarrollo integral o el interés superior de la niñez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 76.
 
@@ -1091,11 +1229,25 @@ XI. Coordinarse con las autoridades de los órdenes de gobierno para la implemen
 
 XII. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
 
-XIII. Impulsar la participación de las organizaciones civiles dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XIV. Las demás que establezcan los ordenamientos estatales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General y la presente Ley, se asuman en el Sistema Nacional DIF y el Sistema Estatal de Protección.
+XIII. Impulsar la participación de las organizaciones civiles dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Coadyuvar en el diseño, seguimiento y monitoreo de la Estrategia Estatal para la Atención Integral en Primera Infancia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XV. Promover la instalación de centros de desarrollo infantil, con personal capacitado, condiciones y elementos suficientes y de calidad que brinden servicios educativos, formativos, médicos, psicológicos, nutricionales, de capacitación y de trabajo social, procurando que su operación sea con horarios ampliados de hasta 24 horas, con especial atención a la primera infancia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Las demás que establezcan los ordenamientos estatales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General y la presente Ley, se asuman en el Sistema Nacional DIF y el Sistema Estatal de Protección.
 
 ### CAPÍTULO III. Del Sistema Estatal DIF
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 77.
 
@@ -1115,9 +1267,21 @@ VI. Realizar, fomentar y apoyar estudios e investigaciones en la materia de prot
 
 VII. Prestar apoyo y colaboración técnica y administrativa, en el ámbito de su respectiva competencia, a los Sistemas DIF existentes en los municipios que integran el Estado;
 
-VIII. Registrar, capacitar, evaluar y certificar previamente a las familias de acogida y de acogimiento pre-adoptivo, considerando los requisitos de idoneidad señalados por la legislación estatal de la materia y la Ley General; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-IX. Las demás que establezcan esta Ley y otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
+VIII. Registrar, capacitar, evaluar y certificar previamente a las familias de acogida y de acogimiento pre-adoptivo, considerando los requisitos de idoneidad señalados por la legislación estatal de la materia y la Ley General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+IX. Ejecutar las acciones derivadas de la Estrategia Estatal para la Atención Integral en Primera Infancia en lo que corresponda a su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+X. Expedir la cartilla de servicios en materia de primera infancia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XI. Las demás que establezcan esta Ley y otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
 ### CAPÍTULO IV. De la Procuraduría de Protección de Niñas, Niños y Adolescentes
 
@@ -1357,6 +1521,8 @@ El Sistema Estatal, así como el Sistema Municipal de Protección, respectivamen
 
 El Sistema Estatal de Protección es una comisión interinstitucional en términos del artículo 46 de la Ley Orgánica del Poder Ejecutivo, la cual tendrá a su cargo las atribuciones que disponen esta Ley y la Ley General y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 93.
 
 El Sistema Estatal de Protección tendrá las siguientes atribuciones:
@@ -1415,13 +1581,31 @@ XXV. Dictar recomendaciones, emitir protocolos y acuerdos de aplicación a insti
 
 XXVI. Recibir de la Comisión Estatal de Derechos Humanos el informe especial anual que realice en los términos de esta Ley, y pronunciarse respecto del mismo;
 
-XXVII. Celebrar convenios de coordinación en la materia; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XXVIII. Las demás contenidas en la Ley General y esta Ley.
+XXVII. Celebrar convenios de coordinación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XXVIII. Administrar el sistema estatal de información y coadyuvar de manera obligatoria en la integración del sistema de información a nivel nacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XXIX. Requerir informes a instituciones públicas y privadas sobre asuntos relacionados con niñas, niños y adolescentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XXX. Diseñar la Estrategia Estatal para la Atención Integral en Primera Infancia, dictando las bases, directrices, lineamientos, estrategias y acciones; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XXXI. Las demás contenidas en la Ley General y esta Ley.
 
 ###### Artículo 94.
 
 Para el ejercicio de sus atribuciones, el Sistema Estatal de Protección se integrará con la comisión interinstitucional, que será presidida por el Gobernador del Estado; contará con una Vicepresidencia a cargo de la Presidencia del Sistema DIF Jalisco, y una Secretaría Ejecutiva que fungirá como representante del Sistema Estatal de Protección, y estará a cargo de la Secretaría General de Gobierno del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 95.
 
@@ -1467,13 +1651,25 @@ i) Procuraduría Social;
 
 V. Comisión Estatal de Derechos Humanos;
 
-VI. Los delegados de las siguientes secretarías federales en el Estado, previa invitación del Poder Ejecutivo Estatal a sus titulares y aceptación de parte de estos:
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-a) Secretaría de Relaciones Exteriores;
+VI. Las siguientes Secretarías Federales podrán nombrar un representante en la comisión:
 
-b) Secretaría de Comunicaciones y Transportes; y
+a) Secretaría de Gobernación. SEGOB;
 
-c) Secretaría de Desarrollo Social.
+b) Secretaría de Relaciones Exteriores. SER (SIC);
+
+c) Secretaría de Salud. SSA;
+
+d) Secretaría de Hacienda y Crédito Público. SHCP;
+
+e) Secretaría de Bienestar. BIENESTAR;
+
+f) Secretaría de Educación Pública. SEP;
+
+g) Secretaría del Trabajo y Previsión Social. STPS; Y
+
+h) Sistema Nacional para el Desarrollo Integral de la Familia. SNDIF
 
 VII. Representantes de universidades, medios de comunicación, organismos sociales y de sociedad civil, especializados en temáticas de la niñez, a invitación de la comisión interinstitucional, en los términos que establezca el Reglamento de la Ley;
 
@@ -1483,7 +1679,9 @@ IX. Los responsables operativos de las dependencias o instituciones públicas, r
 
 Los integrantes enunciados en las fracciones VI a la IX participarán con derecho a voz.
 
-Serán invitados permanentes a las sesiones del Sistema Estatal de Protección, el titular de la comisión legislativa que conozca sobre niñas, niños y adolescentes en el Congreso del Estado y un representante del Poder Judicial del Estado, quienes intervendrán con voz pero sin voto.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+Serán invitados permanentes a las sesiones del Sistema Estatal de Protección, la persona titular de la Coordinación General Estratégica de Desarrollo Social, la persona titular de la Coordinación General Estratégica de Seguridad así como la persona titular de la Coordinación General Estratégica de Crecimiento y Desarrollo Económico del Ejecutivo del Estado, la persona titular de la comisión legislativa que conozca sobre niñas, niños y adolescentes en el Congreso del Estado y un representante del Poder Judicial del Estado, quienes intervendrán con voz pero sin voto.
 
 ###### Artículo 96.
 
@@ -1531,6 +1729,8 @@ I. Los integrantes del Sistema Estatal de Protección proporcionarán a la Secre
 
 II. La Secretaría Ejecutiva informará en cada sesión ordinaria del seguimiento al cumplimiento a los acuerdos y recomendaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 98.
 
 Corresponde a la Secretaría Ejecutiva:
@@ -1539,7 +1739,9 @@ I. Coordinar las acciones entre las dependencias y las entidades competentes de 
 
 II. Elaborar el anteproyecto del Programa Estatal; para someterlo a consideración de la comisión interinstitucional del Sistema Estatal de Protección;
 
-III. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Estatal;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+III. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Estatal y la Estrategia Estatal para la Atención Integral en Primera Infancia;
 
 IV. Elaborar y proponer ante la comisión interinstitucional el anteproyecto de reglamento de la Ley, para su consideración posterior del Gobernador del Estado;
 
@@ -1551,9 +1753,17 @@ VII. Realizar y promover estudios e investigaciones para fortalecer las acciones
 
 VIII. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice;
 
-IX. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado en materia de respeto, protección, promoción y ejercicio de los derechos contenidos en esta ley; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-X. Las demás que le encomienden la comisión interinstitucional y el Sistema Estatal de Protección, así como las establecidas en la presente Ley y la Ley General.
+IX. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado en materia de respeto, protección, promoción y ejercicio de los derechos contenidos en esta ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+X. Llevar un registro actualizado de niñas y niños de primera infancia que requieran atención, asistencia, apoyos y servicios en el Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XI. Las demás que le encomienden la comisión interinstitucional y el Sistema Estatal de Protección, así como las establecidas en la presente Ley y la Ley General;
 
 ### CAPÍTULO III. De los Sistemas Municipales de Protección
 
@@ -1561,9 +1771,11 @@ X. Las demás que le encomienden la comisión interinstitucional y el Sistema Es
 
 Los Ayuntamientos expedirán la regulación municipal para la operación, en el ámbito de competencia del Gobierno Municipal, de un Sistema Municipal de Protección, el cual será la instancia encargada de establecer instrumentos, políticas públicas, programas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 100.
 
-La regulación municipal a la que refiere el artículo anterior, deberá establecer la obligación del Gobierno Municipal de contar con un programa de atención y los servidores públicos que fungirán como autoridad de primer contacto con niñas, niños y adolescentes; son facultades de la autoridad de primer contacto, las siguientes:
+La regulación municipal a la que refiere el artículo anterior deberá establecer la obligación del Gobierno Municipal de contar con un programa de atención y los servidores públicos que fungirán como autoridad de primer contacto con niñas, niños y adolescentes; son facultades de la autoridad de primer contacto, las siguientes:
 
 I. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes, y atenderles de manera directa, ágil y sin formalidades;
 
@@ -1577,9 +1789,17 @@ V. Promover y difundir los derechos de niñas, niños y adolescentes;
 
 VI. Escuchar a las organizaciones civiles promotoras y defensoras de los derechos de las niñas, niños y adolescentes;
 
-VII. Participar en el Sistema Municipal de Protección; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-VIII. Las demás que la regulación municipal establezca.
+VII. Participar en el Sistema Municipal de Protección;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Identificar los servicios que las y los niños de primera infancia deban recibir; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+IX. Las demás que la regulación municipal establezca.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2020)</small>
 
@@ -1605,7 +1825,9 @@ En lo conducente, los Sistemas Municipales de Protección se organizarán confor
 
 ## TÍTULO SEXTO. DEL PROGRAMA ESTATAL
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+### CAPÍTULO PRIMERO. PROGRAMA ESTATAL
 
 ###### Artículo 103.
 
@@ -1623,9 +1845,53 @@ El Programa Estatal deberá ser acorde con el Plan Estatal de Desarrollo, el Pro
 
 En la elaboración y ejecución del Programa Estatal al que se refiere el presente artículo, participarán las autoridades, a través del Sistema Estatal de Protección, así como los sectores privado y social, deberá escucharse la participación de niñas, niños y adolescentes.
 
-### CAPÍTULO ÚNICO. De las Infracciones, Sanciones Administrativas y Responsabilidades
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+### CAPÍTULO SEGUNDO. ESTRATEGIA ESTATAL PARA LA ATENCION INTEGRAL EN PRIMERA INFANCIA
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 103 Bis.
+
+La Estrategia Estatal para la Atención Integral en Primera Infancia contendrá los siguientes elementos:
+
+I. El Diagnóstico de las necesidades y características específicas, de la realidad de las niñas y los niños de Primera Infancia, en el Estado de Jalisco;
+
+II. Las políticas, objetivos, estrategias y líneas de acción prioritarias en materia de ejercicio, respeto, promoción y protección de los derechos, a las que se refiere la presente Ley;
+
+III. Acciones y programas de mediano y largo alcance en materia de atención integral en primera infancia a las que se refiere la presente Ley;
+
+IV. Los mecanismos transparentes que permitan su evaluación y seguimiento;
+
+VI (SIC). Las bases de coordinación e integración entre autoridades, representantes de las organizaciones de padres de familia, la iniciativa privada, la sociedad civil organizada y el sector académico, para llevar a cabo las acciones contempladas en la Estrategia Estatal para la Atención Integral en Primera Infancia de manera conjunta o por separado; y
+
+VII. La forma de operar la cartilla de servicios, que como mínimo deberá contener:
+
+a) Datos personales de la niña o niño y de su padre madre o tutor, nombres completos, fecha de nacimiento, domicilio, número de emergencia, grupo sanguíneo, alergias, CURP, nacionalidad, sexo, vigencia;
+
+b) La lista de servicios proporcionados por el Estado para la Primera Infancia; y
+
+c) Información acerca de la Primera Infancia, de los servicios contenidos en la misma y los medios para acceder a estos.
+
+d) Para su expedición se deberá cumplir con los requisitos siguientes:
+
+1) Tener entre cero a cinco años once meses de edad cumplidos;
+
+2) Que el niño o niña sea residente del Estado de Jalisco.
+
+La cartilla de servicios para la primera infancia será intransferible gratuita y será entregada por las autoridades del Sistema Estatal DIF y los sistemas municipales en sus oficinas correspondientes.
+
+En la elaboración y ejecución de la Estrategia Estatal para la Atención Integral en Primera Infancia participarán las autoridades del Estado, las autoridades municipales, así como los sectores privado y social.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 103 Ter.
+
+La Estrategia Estatal para la Atención Integral en Primera Infancia deberá estar armonizada con la Estrategia Nacional de Atención a la Primera Infancia, el Plan Estatal de Gobernanza y Desarrollo, y la presente Ley; y deberá ser publicada en el periódico oficial "El Estado de Jalisco".
 
 ## TÍTULO SÉPTIMO. DE LAS SANCIONES
+
+### CAPÍTULO ÚNICO. De las Infracciones, Sanciones Administrativas y Responsabilidades
 
 ###### Artículo 104.
 
@@ -1990,3 +2256,45 @@ P.O. 7 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28749/LXIII/22 QUE REFORMA EL ARTÍCULO 34 DE LA LEY PARA DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28861/LXIII/22 DEL CONGRESO DEL ESTADO, QUE ADICIONAN LOS ARTÍCULOS 128 BIS, 128 TER, 128 QUATER Y 128 QUINQUIES A LA LEY DE SALUD, ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 37 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL Y ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, LOS ANTERIORES ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. La Secretaría de Salud del Estado de Jalisco para el correcto funcionamiento del Registro Nominal de Personas con Diabetes en sus diferentes tipos y subtipos que se establece en el presente Decreto, en un plazo deciento (sic) veinte días posteriores a la entrada en vigor, deberá iniciar las acciones encaminadas a recolectar, registrar, capturar, validar y analizar los datos proporcionados por los prestadores de salud, así como llevar a cabo campañas de difusión, información, orientación y detección.
+
+Tercero. Se autoriza al Titular del Poder Ejecutivo para que, a través de la Secretaría de Hacienda del Estado de Jalisco, realice las adecuaciones y modificaciones presupuestales y programáticas necesarias para la creación y funcionamiento del Registro Nominal de Personas con Diabetes en sus Diferentes Tipos y Subtipos.
+
+Cuarto. La Secretaría de Salud del Estado de Jalisco una vez que implemente el Registro nominal a que hace referencia el artículo 128 Quinquíes de la Ley de Salud del Estado de Jalisco, contará con un plazo de ciento ochenta días para efectuar las adecuaciones presupuestales en coordinación con la Secretaría de la Hacienda Pública del Estado de Jalisco, que permitan el cumplimiento del presente decreto de manera gradual, paulatina y progresiva materializar el Registro Nominal Estatal de Personas con Diabetes y el derecho a la insulina previsto en el presente decreto, sujeto a los presupuestos federales y estatales con que cuenten los integrantes del Sistema Estatal de Salud del Estado de Jalisco, en apego a la legislación y normatividad aplicable.
+
+Quinto. En un plazo de ciento veinte días posteriores a la entrada en vigor del presente decreto, la mesa de trabajo convocada por el Consejo Estatal de Salud deberá iniciar las adecuaciones y modificaciones pertinentes en los programas y guías de atención que se encuentren vigentes sobre diabetes en sus diferentes tipos y subtipos, con relación a la detección, diagnóstico, tratamiento, control y vigilancia.
+
+Sexto. La Secretaría de Educación del Estado de Jalisco en coadyuvancia con la Secretaría de Salud estatal, elaborará una Guía práctica de comunicación para el abordaje de las personas con diabetes, sobre el debido cuidado y no discriminación de niñas, niños y adolescentes con diabetes mellitus en sus tipos y subtipos en los planteles escolares.
+
+Séptimo. Los prestadores de servicios de salud en atención directa con pacientes con diagnóstico de diabetes en sus diferentes tipos y subtipos, podrán establecer mecanismos para fomentar la corresponsabilidad de las personas con diabetes en sus diferentes tipos y subtipos, respecto de la importancia y trascendencia del uso y aplicación adecuada de los insumos, así como de la educación terapéutica en diabetes recibida.
+
+Octavo. Dentro de los trescientos sesenta y cinco días posteriores a la entrada en vigor del presente decreto y sucesivamente de forma anual, las autoridades en materia de salud responsables en la aplicación de la norma, deberán remitir un informe a esta H. Soberanía, que incluya los avances de la aplicación del presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28852/LXIII/22 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 4 Y 25 DEL CÓDIGO DE ASISTENCIA SOCIAL, LOS ARTÍCULOS 3, 8, 14, 37, 38, 42, 72, 74, 76, 77, 93, 95, 98, Y 100, SE ADICIONAN LOS ARTÍCULOS 8 BIS, 103 BIS Y 103 TER DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EL ARTÍCULO 45 DE LA LEY DE SALUD Y LOS ARTÍCULOS 8, 25, 57 Y 69 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes (SIPINNA) a través de su Secretaría Ejecutiva, deberá de diseñar la Estrategia Estatal para la Atención Integral en Primera Infancia de conformidad con lo establecido en este decreto, dentro de los 120 días posteriores a la entrada en vigor del presente decreto, la cual podrá contar con el apoyo de las dependencias que están sectorizadas a la Coordinación General Estratégica de Desarrollo Social.
+
+Asimismo, la Secretaría Ejecutiva del Sistema, deberá acompañar el proceso de Planeación, Programación y Presupuestación, con la finalidad de orientar el gasto público a la atención de la Estrategia Estatal para la Atención Integral de Primera Infancia.
+
+En la elaboración de la Estrategia se considerará la opinión de las dependencias para el establecimiento del cumplimiento de metas.
+
+TERCERO. La Secretaría de Planeación y Participación Ciudadana del Estado de Jalisco, elaborará los estudios de campo y diagnósticos correspondientes para determinar la demanda en los sectores públicos y privados del Estado que presten servicios con horarios no convencionales, con la oportunidad de proyectar la necesidad del servicio de los Centros de Desarrollo Infantil al área donde pueda aplicar.
+
+CUARTO. La Secretaría de Salud del Estado de Jalisco en coordinación con el Organismo Público Descentralizado de Servicios de Salud Jalisco, incluirá como un proyecto prioritario la implementación de más Bancos de Leche Humana a lo largo del Estado de Jalisco y fortalecerá el existente tomando en consideración los puntos que establece la PROY-NOM-050-SSA2-2018.
+
+QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, de acuerdo con lo dispuesto en la Ley del Presupuesto, Contabilidad y Gasto Publico del Estado de Jalisco, determinará los recursos suficientes para la implementación y ejecución del Programa y acciones generados por la Estrategia Estatal para la Atención Integral en Primera Infancia, con el presupuesto previamente asignado.
+
+SEXTO. El Titular del Poder Ejecutivo identificará dentro del Anexo Transversal de Desarrollo integral de las niñas, niños y adolescentes las acciones y, o componentes a favor de la Primera Infancia como parte de la iniciativa de Presupuesto de Egresos para el ejercicio fiscal 2023.
+
+SÉPTIMO. Los gobiernos municipales, con base en su autonomía y libertad de administración presupuestal, podrán incluir en sus respectivos presupuestos de egresos, los recursos suficientes para la implementación y ejecución de los Programas y acciones generadas por la Estrategia Estatal para la Atención Integral en Primera Infancia.
