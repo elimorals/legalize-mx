@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2022-07-26"
+last_updated: "2022-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -127,7 +127,13 @@ Todas las personas habitantes del estado de Jalisco deben cursar la educación p
 
 Es obligación de quienes ejerzan la patria potestad o la tutela de menores, que las niñas, niños y adolescentes asistan a las escuelas, para recibir educación obligatoria, en los términos que establezca la ley, así como participar en su proceso educativo, a revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo. La autoridad educativa estatal, a través de las Escuelas para Padres, les proveerá la asesoría necesaria para que puedan cumplir con ello.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 La educación inicial es un derecho de la niñez; es responsabilidad del Estado concientizar sobre su importancia y garantizarla conforme a lo dispuesto en la Ley General de Educación y esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+Se fomentará el desarrollo integral del sistema nervioso con el fin de conseguir el máximo de conexiones neuronales para desarrollar capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas desde la primera infancia.
 
 La obligatoriedad de la educación superior corresponde al Estado en los términos dispuestos por la fracción X del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y las leyes en la materia.
 
@@ -485,11 +491,17 @@ La edad mínima para ingresar a la educación básica en el nivel preescolar es 
 
 Educación inicial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 25.
 
-En educación inicial, el Estado, de manera progresiva, generará las condiciones para la prestación universal de ese servicio.
+En educación inicial, el Estado, de manera progresiva, generará las condiciones para la prestación de calidad y universal de ese servicio.
 
 Las autoridades educativas estatal y municipales impartirán educación inicial de conformidad con los principios rectores y objetivos que determine la autoridad educativa federal en términos de la Ley General de Educación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+Las autoridades educativas estatales y municipales implementarán programas, estrategias y acciones para que niñas y niños de la primera infancia reciban servicios de calidad de cuidados en la educación inicial.
 
 Además, fomentarán una cultura a favor de la educación inicial con base en programas, campañas, estrategias y acciones de difusión y orientación, con el apoyo de los sectores social y privado, organizaciones de la sociedad civil y organismos internacionales. Para tal efecto, promoverán diversas opciones educativas para ser impartidas, como las desarrolladas en el seno de las familias y a nivel comunitario, en las cuales se proporcionará orientación psicopedagógica y serán apoyadas por las instituciones encargadas de la protección y defensa de la niñez.
 
@@ -871,9 +883,11 @@ Las instituciones educativas deberán informar periódicamente a los educandos y
 
 Objetivo de los planes y programas de estudio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 57.
 
-Los planes y programas a los que se refieren en la Ley General de Educación favorecerán el desarrollo integral y gradual de los educandos en los niveles preescolar, primaria, secundaria, el tipo media superior y la educación normal, considerando la diversidad de saberes, con un carácter didáctico y curricular diferenciado, que responda a las condiciones personales, sociales, culturales, económicas de los estudiantes, docentes, planteles, comunidades y regiones del estado.
+Los planes y programas a los que se refieren en la Ley General de Educación favorecerán el desarrollo integral y gradual de los educandos en los niveles inicial, preescolar, primaria, secundaria, el tipo media superior y la educación normal, considerando la diversidad de saberes, con un carácter didáctico y curricular diferenciado, que responda a las condiciones personales, sociales, culturales, económicas de los estudiantes, docentes, planteles, comunidades y regiones del estado.
 
 Sus propósitos, contenidos, procesos y estrategias educativas, recursos didácticos y evaluación del aprendizaje y de acreditación, se establecerán de acuerdo con cada tipo, nivel, modalidad y opción educativa, así como a las condiciones territoriales, culturales, sociales, productivas y formativas de las instituciones educativas.
 
@@ -905,6 +919,8 @@ En el caso de los planes y programas para la educación media superior, podrán 
 
 Contenidos para opinión de los planes y programas de estudio
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 60.
 
 La opinión que se emita por la autoridad educativa estatal sobre el contenido de los planes y programas de estudio será basada en información científica, actualizada y laica, respecto a lo siguiente:
@@ -923,7 +939,9 @@ VI. El aprendizaje de las lenguas extranjeras;
 
 VII. El fomento de la activación física, la práctica del deporte y la educación física;
 
-VIII. La promoción de estilos de vida saludables, la promoción de la salud, la importancia de la donación de órganos, tejidos y sangre;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+VIII. La promoción de estilos de vida saludables, la promoción de la salud, difusión y prevención en riesgos y sintomatología de las enfermedades y la importancia de la donación de órganos, tejidos y sangre;
 
 IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
 
@@ -1029,9 +1047,11 @@ Las madres y padres de familia o tutores serán corresponsables en el proceso ed
 
 Orientación para las familias de los educandos
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 69.
 
-La autoridad educativa estatal desarrollará actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+La autoridad educativa estatal desarrollará actividades de información y orientación para las familias de los educandos en relación a prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de la hidratación saludable, la alimentación nutritiva, práctica de actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos, con primordial atención en primera infancia.
 
 ### Capítulo VII. De otros complementos del proceso educativo
 
@@ -1173,11 +1193,31 @@ Programas alimentarios en escuelas ubicadas en zonas de pobreza, alta marginaci�
 
 La autoridad educativa estatal, de acuerdo con la suficiencia presupuestal, impulsará programas alimentarios para los educandos a partir de microempresas locales, en escuelas ubicadas en zonas de pobreza, alta marginación y vulnerabilidad social.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+### Capítulo II bis. De la prevención en salud en el entorno escolar
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 80 bis. Autoridades y prevención de enfermedades
+
+Las autoridades educativas en coordinación con la autoridad sanitaria estatal calendarizarán acciones de medicina preventiva en las escuelas de la entidad.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 80 ter. Acciones preventivas
+
+La Secretaría en coordinación con la Secretaría de Salud y el Organismo Público Descentralizado Servicios de Salud Jalisco realizará tamizajes en educandos con factores de riesgo identificados mediante estudios epidemiológicos poblacionales, previa autorización de los padres o tutores, asimismo podrá realizar acciones de asesoramiento y formación necesarias para la detección oportuna de enfermedades.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 80 quáter. Asociaciones de padres de familia
+
+Las asociaciones de padres de familia podrán coadyuvar en la organización de estas acciones previstas en el presente capítulo.
+
 ### Capítulo III. De la cultura de la paz, convivencia democrática en las escuelas y entornos escolares libres de violencia
 
 Medidas para preservar la integridad física, psicológica y social del educando
-
-### Capítulo I. Del magisterio como agente fundamental en el proceso educativo
 
 ###### Artículo 81.
 
@@ -1315,9 +1355,7 @@ La autoridad educativa estatal deberá implementar el programa para fomentar la 
 
 ## Título Quinto. De la revalorización de las maestras y los maestros
 
-### Capítulo II. De los procesos de admisión, promoción y reconocimiento en educación básica y en educación media superior
-
-Procesos de admisión, promoción y reconocimiento
+### Capítulo I. Del magisterio como agente fundamental en el proceso educativo
 
 ###### Artículo 91.
 
@@ -1359,17 +1397,17 @@ La autoridad educativa estatal y los municipios que impartan educación básica,
 
 El sistema de administración de nómina deberá observar los criterios de control presupuestario de servicios personales, así como los principios de transparencia, publicidad y de rendición de cuentas, y para lo cual la autoridad educativa estatal, mediante los convenios respectivos, se coordinarán con la autoridad educativa federal y la Secretaría de Hacienda y Crédito Público. Los pagos se deberán realizar preferentemente mediante medios electrónicos.
 
-### Capítulo III. Del sistema integral de formación, capacitación y actualización
+### Capítulo II. De los procesos de admisión, promoción y reconocimiento en educación básica y en educación media superior
 
-Sistema integral de formación, capacitación y actualización
+Procesos de admisión, promoción y reconocimiento
 
 ###### Artículo 94.
 
 Para ejercer la docencia en instituciones establecidas por las autoridades educativas del estado de Jalisco en educación básica y media superior, las promociones en la función y en el servicio, así como para el otorgamiento de reconocimientos, se estará a lo dispuesto por (sic) Ley General del Sistema para la Carrera de las Maestras y los Maestros.
 
-### Capítulo IV. De la formación docente
+### Capítulo III. Del sistema integral de formación, capacitación y actualización
 
-Criterios de las personas egresadas de las instituciones formadoras de docencia
+Sistema integral de formación, capacitación y actualización
 
 ###### Artículo 95.
 
@@ -1415,9 +1453,9 @@ Los titulares de dichas instituciones podrán ser designados hasta por un period
 
 En el segundo año del cargo de los titulares de las instituciones oficiales precisadas en el artículo que antecede, la autoridad educativa estatal realizará una revisión del Plan de Desarrollo Institucional que corresponda para que, en conjunto con los titulares, se realicen los ajustes o adecuaciones pertinentes.
 
-### Capítulo Único. De las condiciones de los planteles educativos para garantizar su idoneidad y la seguridad de las niñas, niños, adolescentes y jóvenes
+### Capítulo IV. De la formación docente
 
-Importancia de los planteles educativos
+Criterios de las personas egresadas de las instituciones formadoras de docencia
 
 ###### Artículo 100.
 
@@ -1455,9 +1493,9 @@ La autoridad educativa estatal emitirá los lineamientos para proporcionar la fo
 
 ## Título Sexto. De los planteles educativos
 
-### Capítulo Único. Del proceso de mejora continua de la educación en Jalisco
+### Capítulo Único. De las condiciones de los planteles educativos para garantizar su idoneidad y la seguridad de las niñas, niños, adolescentes y jóvenes
 
-Del Sistema de Mejora Continua de la Educación en Jalisco
+Importancia de los planteles educativos
 
 ###### Artículo 103.
 
@@ -1539,9 +1577,9 @@ La autoridad educativa estatal será la facultada para establecer las denominaci
 
 ## Título Séptimo. De la mejora continua de la educación
 
-### Capítulo Único. De la distribución de la función social en educación en el estado de Jalisco
+### Capítulo Único. Del proceso de mejora continua de la educación en Jalisco
 
-Atribuciones exclusivas de la autoridad educativa estatal
+Del Sistema de Mejora Continua de la Educación en Jalisco
 
 ###### Artículo 112.
 
@@ -1649,9 +1687,9 @@ El Programa Educativo Estatal de Jalisco tendrá un carácter plurianual y conte
 
 ## Título Octavo. Del Federalismo Educativo
 
-### Capítulo Único. Del financiamiento a la educación
+### Capítulo Único. De la distribución de la función social en educación en el estado de Jalisco
 
-De la concurrencia en el financiamiento de la educación
+Atribuciones exclusivas de la autoridad educativa estatal
 
 ###### Artículo 115.
 
@@ -1829,9 +1867,9 @@ La autoridad educativa estatal participará en el Consejo Nacional de Autoridade
 
 ## Título Noveno. Del financiamiento a la educación
 
-### Capítulo I. De la participación de madres y padres de familia o tutores
+### Capítulo Único. Del financiamiento a la educación
 
-Derechos de quienes ejercen la patria potestad o tutela
+De la concurrencia en el financiamiento de la educación
 
 ###### Artículo 120.
 
@@ -1873,15 +1911,15 @@ Además de las actividades enumeradas en el artículo anterior, el Ejecutivo Fed
 
 ## Título Décimo. De la corresponsabilidad social en el proceso educativo
 
-### Capítulo II. De los Consejos de Participación Escolar
+### Capítulo I. De la participación de madres y padres de familia o tutores
 
-Participación de la sociedad para garantizar el derecho a la educación
+Derechos de quienes ejercen la patria potestad o tutela
 
 ## Título Décimo Primero. De la validez de estudios y certificación de conocimientos
 
-### Capítulo III. Del servicio social
+### Capítulo II. De los Consejos de Participación Escolar
 
-Obligatoriedad del servicio social
+Participación de la sociedad para garantizar el derecho a la educación
 
 ###### Artículo 125.
 
@@ -1963,9 +2001,9 @@ Las asociaciones de madres y padres de familia, se abstendrán de intervenir en 
 
 La organización y el funcionamiento de las asociaciones de madres y padres de familia, en lo concerniente a sus relaciones con las autoridades escolares, se sujetarán a las disposiciones que la autoridad educativa federal señale.
 
-### Capítulo IV. De la participación de los medios de comunicación
+### Capítulo III. Del servicio social
 
-Contribución de los medios de comunicación a los fines y criterios de la educación
+Obligatoriedad del servicio social
 
 ###### Artículo 128.
 
@@ -2037,9 +2075,9 @@ En el estado de Jalisco, operará un consejo estatal de participación escolar e
 
 Este consejo, podrá promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvar en actividades de protección civil y emergencia escolar; conocer las demandas y necesidades que emanen de los consejos escolares y municipales, gestionar ante las instancias competentes su resolución y apoyo, así como colaborar en actividades que influyan en la excelencia y la cobertura de la educación.
 
-### Capítulo Único. De las disposiciones aplicables a la validez de estudios y certificación de conocimientos
+### Capítulo IV. De la participación de los medios de comunicación
 
-Validez de los estudios
+Contribución de los medios de comunicación a los fines y criterios de la educación
 
 ###### Artículo 132.
 
@@ -2053,9 +2091,9 @@ Opciones para la prestación del servicio social
 
 La autoridad educativa estatal, en coordinación con las autoridades competentes, establecerá mecanismos para que cuente como prestación de servicio social, las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
 
-### Capítulo I. Disposiciones generales
+### Capítulo Único. De las disposiciones aplicables a la validez de estudios y certificación de conocimientos
 
-Educación impartida por particulares
+Validez de los estudios
 
 ###### Artículo 134.
 
@@ -2071,9 +2109,9 @@ El Ejecutivo estatal promoverá la contribución de los medios de comunicación 
 
 ## Título Décimo Segundo. De la educación impartida por particulares
 
-### Capítulo II. De los mecanismos para el cumplimiento de los fines de la educación impartida por los particulares
+### Capítulo I. Disposiciones generales
 
-Disposiciones para las acciones de vigilancia
+Educación impartida por particulares
 
 ###### Artículo 136.
 
@@ -2119,9 +2157,9 @@ La autoridad educativa estatal, por acuerdo de su titular y de conformidad con l
 
 Los acuerdos secretariales señalarán los requisitos específicos que deban cumplirse para la acreditación de los conocimientos adquiridos.
 
-### Capítulo III. Del recurso administrativo
+### Capítulo II. De los mecanismos para el cumplimiento de los fines de la educación impartida por los particulares
 
-Recurso administrativo
+Disposiciones para las acciones de vigilancia
 
 ###### Artículo 141.
 
@@ -2190,6 +2228,10 @@ Obligación de particulares que presten servicios educativos sin reconocimiento 
 ###### Artículo 145.
 
 Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
+
+### Capítulo III. Del recurso administrativo
+
+Recurso administrativo
 
 ###### Artículo 146.
 
@@ -2460,3 +2502,41 @@ P.O. 26 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28799/LXIII/22 QUE REFORMA EL ARTÍCULO 52 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28856/LXIII/22 DEL CONGRESO DEL ESTADO, QUE MODIFICA LA FRACCIÓN XIV; SE ADICIONA LA FRACCIÓN XV RECORRIENDO LA SUBSECUENTE PARA QUEDAR COMO XVI AL ARTÍCULO 34; SE REFORMA EL ARTÍCULO 113; SE ADICIONA EL CAPÍTULO IV BIS Y EL ARTÍCULO 53 BIS DE LA LEY DE SALUD DEL ESTADO DE JALISCO Y SE REFORMA EL ARTÍCULO 60 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. Con la finalidad de diagnosticar y tratar de manera oportuna e integral a las personas con debilidad visual, la Secretaría de Salud de Jalisco deberá crear un programa coordinado con la Secretaría de Educación Pública de Jalisco, de conformidad con su viabilidad presupuestal.
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28862/LXIII/22 DEL CONGRESO DEL ESTADO, QUE ADICIONA EL CAPÍTULO II BIS, AL TÍTULO CUARTO DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La implementación del presente decreto se realizará conforme a la disponibilidad presupuestal de la Secretaría de Educación y de la Secretaría de Salud.
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28852/LXIII/22 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 4 Y 25 DEL CÓDIGO DE ASISTENCIA SOCIAL, LOS ARTÍCULOS 3, 8, 14, 37, 38, 42, 72, 74, 76, 77, 93, 95, 98, Y 100, SE ADICIONAN LOS ARTÍCULOS 8 BIS, 103 BIS Y 103 TER DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EL ARTÍCULO 45 DE LA LEY DE SALUD Y LOS ARTÍCULOS 8, 25, 57 Y 69 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes (SIPINNA) a través de su Secretaría Ejecutiva, deberá de diseñar la Estrategia Estatal para la Atención Integral en Primera Infancia de conformidad con lo establecido en este decreto, dentro de los 120 días posteriores a la entrada en vigor del presente decreto, la cual podrá contar con el apoyo de las dependencias que están sectorizadas a la Coordinación General Estratégica de Desarrollo Social.
+
+Asimismo, la Secretaría Ejecutiva del Sistema, deberá acompañar el proceso de Planeación, Programación y Presupuestación, con la finalidad de orientar el gasto público a la atención de la Estrategia Estatal para la Atención Integral de Primera Infancia.
+
+En la elaboración de la Estrategia se considerará la opinión de las dependencias para el establecimiento del cumplimiento de metas.
+
+TERCERO. La Secretaría de Planeación y Participación Ciudadana del Estado de Jalisco, elaborará los estudios de campo y diagnósticos correspondientes para determinar la demanda en los sectores públicos y privados del Estado que presten servicios con horarios no convencionales, con la oportunidad de proyectar la necesidad del servicio de los Centros de Desarrollo Infantil al área donde pueda aplicar.
+
+CUARTO. La Secretaría de Salud del Estado de Jalisco en coordinación con el Organismo Público Descentralizado de Servicios de Salud Jalisco, incluirá como un proyecto prioritario la implementación de más Bancos de Leche Humana a lo largo del Estado de Jalisco y fortalecerá el existente tomando en consideración los puntos que establece la PROY-NOM-050-SSA2-2018.
+
+QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, de acuerdo con lo dispuesto en la Ley del Presupuesto, Contabilidad y Gasto Publico del Estado de Jalisco, determinará los recursos suficientes para la implementación y ejecución del Programa y acciones generados por la Estrategia Estatal para la Atención Integral en Primera Infancia, con el presupuesto previamente asignado.
+
+SEXTO. El Titular del Poder Ejecutivo identificará dentro del Anexo Transversal de Desarrollo integral de las niñas, niños y adolescentes las acciones y, o componentes a favor de la Primera Infancia como parte de la iniciativa de Presupuesto de Egresos para el ejercicio fiscal 2023.
+
+SÉPTIMO. Los gobiernos municipales, con base en su autonomía y libertad de administración presupuestal, podrán incluir en sus respectivos presupuestos de egresos, los recursos suficientes para la implementación y ejecución de los Programas y acciones generadas por la Estrategia Estatal para la Atención Integral en Primera Infancia.
