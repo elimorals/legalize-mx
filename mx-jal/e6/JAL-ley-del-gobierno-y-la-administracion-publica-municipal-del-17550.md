@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2021-10-30"
+last_updated: "2022-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -994,6 +994,10 @@ VI. Observar las disposiciones de las leyes federales y estatales en el desempe�
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 VII. Cumplir las disposiciones federales y estatales en materia de protección civil;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+VII Bis. Proteger los derechos de las niñas, niños y adolescentes, en coordinación con las autoridades federales, estatales y municipales en lo que respecta a la protección de su salud, procurando que reciban atención de manera oportuna y especializada para el tratamiento, registro, control y seguimiento, en los términos de las disposiciones legales, normativas y reglamentarias aplicables;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -3494,3 +3498,23 @@ TERCERO. En los estatutos orgánicos de las asociaciones intermunicipales se deb
 CUARTO. Las Asociaciones Intermunicipales, denominadas genéricamente como Juntas Intermunicipales o Asociaciones Intermunicipales, así como los Organismos Públicos Descentralizados que a la fecha de publicación de la presente Ley ya estuvieran constituidos tendrán un plazo de ciento cincuenta días para hacerlo del conocimiento de la Secretaría General de Gobierno y quedar incluidas en el Registro correspondiente.
 
 QUINTO. Dentro de los ciento ochenta días posteriores a la entrada en vigor del presente decreto, el titular del Poder Ejecutivo deberá convocar a la conformación de la Convención Estatal de Asociaciones Intermunicipales.
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28861/LXIII/22 DEL CONGRESO DEL ESTADO, QUE ADICIONAN LOS ARTÍCULOS 128 BIS, 128 TER, 128 QUATER Y 128 QUINQUIES A LA LEY DE SALUD, ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 37 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL Y ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, LOS ANTERIORES ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. La Secretaría de Salud del Estado de Jalisco para el correcto funcionamiento del Registro Nominal de Personas con Diabetes en sus diferentes tipos y subtipos que se establece en el presente Decreto, en un plazo deciento (sic) veinte días posteriores a la entrada en vigor, deberá iniciar las acciones encaminadas a recolectar, registrar, capturar, validar y analizar los datos proporcionados por los prestadores de salud, así como llevar a cabo campañas de difusión, información, orientación y detección.
+
+Tercero. Se autoriza al Titular del Poder Ejecutivo para que, a través de la Secretaría de Hacienda del Estado de Jalisco, realice las adecuaciones y modificaciones presupuestales y programáticas necesarias para la creación y funcionamiento del Registro Nominal de Personas con Diabetes en sus Diferentes Tipos y Subtipos.
+
+Cuarto. La Secretaría de Salud del Estado de Jalisco una vez que implemente el Registro nominal a que hace referencia el artículo 128 Quinquíes de la Ley de Salud del Estado de Jalisco, contará con un plazo de ciento ochenta días para efectuar las adecuaciones presupuestales en coordinación con la Secretaría de la Hacienda Pública del Estado de Jalisco, que permitan el cumplimiento del presente decreto de manera gradual, paulatina y progresiva materializar el Registro Nominal Estatal de Personas con Diabetes y el derecho a la insulina previsto en el presente decreto, sujeto a los presupuestos federales y estatales con que cuenten los integrantes del Sistema Estatal de Salud del Estado de Jalisco, en apego a la legislación y normatividad aplicable.
+
+Quinto. En un plazo de ciento veinte días posteriores a la entrada en vigor del presente decreto, la mesa de trabajo convocada por el Consejo Estatal de Salud deberá iniciar las adecuaciones y modificaciones pertinentes en los programas y guías de atención que se encuentren vigentes sobre diabetes en sus diferentes tipos y subtipos, con relación a la detección, diagnóstico, tratamiento, control y vigilancia.
+
+Sexto. La Secretaría de Educación del Estado de Jalisco en coadyuvancia con la Secretaría de Salud estatal, elaborará una Guía práctica de comunicación para el abordaje de las personas con diabetes, sobre el debido cuidado y no discriminación de niñas, niños y adolescentes con diabetes mellitus en sus tipos y subtipos en los planteles escolares.
+
+Séptimo. Los prestadores de servicios de salud en atención directa con pacientes con diagnóstico de diabetes en sus diferentes tipos y subtipos, podrán establecer mecanismos para fomentar la corresponsabilidad de las personas con diabetes en sus diferentes tipos y subtipos, respecto de la importancia y trascendencia del uso y aplicación adecuada de los insumos, así como de la educación terapéutica en diabetes recibida.
+
+Octavo. Dentro de los trescientos sesenta y cinco días posteriores a la entrada en vigor del presente decreto y sucesivamente de forma anual, las autoridades en materia de salud responsables en la aplicación de la norma, deberán remitir un informe a esta H. Soberanía, que incluya los avances de la aplicación del presente decreto.
