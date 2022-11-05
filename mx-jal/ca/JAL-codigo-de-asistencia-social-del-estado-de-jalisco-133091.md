@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-133091"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-01"
-last_updated: "2022-03-19"
+last_updated: "2022-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 1 de febrero de 2019.
 
@@ -131,9 +131,9 @@ XVII. Las acciones de apoyo a los migrantes en estado de vulnerabilidad, que tra
 
 XVIII. Los demás servicios que tiendan a atender y complementar el desarrollo de aquellas personas que por sí mismas no pueden satisfacer sus necesidades personales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-Los sujetos de asistencia social tendrán derecho a recibir los servicios a los que hace referencia el presente artículo sin discriminación alguna, por lo que, cualquier acto u omisión discriminatorio que genere negación, distinción, exclusión, rechazo, menoscabo, impedimento o restricción de sus derechos o libertades, será causa de responsabilidad que se sancionará conforme al presente Código, a la Ley Estatal para Promover la Igualdad, Prevenir y Eliminar la Discriminación en el Estado de Jalisco, y demás disposiciones legales aplicables.
+Los sujetos de asistencia social tendrán derecho a recibir los servicios a los que hace referencia el presente artículo sin discriminación alguna, por lo que, cualquier acto u omisión discriminatorio que genere negación, distinción, exclusión, rechazo, menoscabo, impedimento o restricción de sus derechos o libertades, será causa de responsabilidad que se sancionará conforme al presente Código, (sic) a la Ley Estatal para Promover la Igualdad, Prevenir y Eliminar la Discriminación.
 
 ###### Artículo 5.
 
@@ -429,9 +429,17 @@ XIX. Dictar las medidas cautelares y providencias precautorias para el caso de u
 
 XX. Aprobar recomendaciones y emitir protocolos y acuerdos de aplicación e instituciones públicas estatales y municipales, organismos e instituciones privadas, así como de observancia general en el Estado y sus municipios;
 
-XXI. Mandar publicar en el periódico oficial "El Estado de Jalisco" los protocolos, acuerdos y recomendaciones que sean de aplicación general en el Estado y sus municipios; y
+> <small>(REFORMADA, [N. DE E. ADICIONADA] P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
-XXII. Las demás que establezcan las leyes aplicables en la materia.
+XXI. Ejecutar las acciones y políticas necesarias para atender la primera infancia dentro del ámbito de su competencia;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXI] P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XXII. Mandar publicar en el periódico oficial "El Estado de Jalisco" los protocolos, acuerdos y recomendaciones que sean de aplicación general en el Estado y sus municipios; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXII] P.O. 5 DE NOVIEMBRE DE 2022)</small>
+
+XXIII. Las demás que establezcan las leyes aplicables en la materia.
 
 ###### Artículo 26.
 
@@ -1666,3 +1674,25 @@ P.O. 19 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28746/LXIII/22 QUE REFORMA EL ARTÍCULO 4 DEL CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE NOVIEMBRE DE 2022.
+
+[N DE E. TRANSITORIO DEL”DECRETO 28852/LXIII/22 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 4 Y 25 DEL CÓDIGO DE ASISTENCIA SOCIAL, LOS ARTÍCULOS 3, 8, 14, 37, 38, 42, 72, 74, 76, 77, 93, 95, 98, Y 100, SE ADICIONAN LOS ARTICULOS 8 BIS, 103 BIS Y 103 TER DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EL ARTÍCULO 45 DE LA LEY DE SALUD Y LOS ARTÍCULOS 8, 25, 57 Y 69 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Sistema de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes (SIPINNA) a través de su Secretaría Ejecutiva, deberá de diseñar la Estrategia Estatal para la Atención Integral en Primera Infancia de conformidad con lo establecido en este decreto, dentro de los 120 días posteriores a la entrada en vigor del presente decreto, la cual podrá contar con el apoyo de las dependencias que están sectorizadas a la Coordinación General Estratégica de Desarrollo Social.
+
+Asimismo, la Secretaría Ejecutiva del Sistema, deberá acompañar el proceso de Planeación, Programación y Presupuestación, con la finalidad de orientar el gasto público a la atención de la Estrategia Estatal para la Atención Integral de Primera Infancia.
+
+En la elaboración de la Estrategia se considerará la opinión de las dependencias para el establecimiento del cumplimiento de metas.
+
+TERCERO. La Secretaría de Planeación y Participación Ciudadana del Estado de Jalisco, elaborará los estudios de campo y diagnósticos correspondientes para determinar la demanda en los sectores públicos y privados del Estado que presten servicios con horarios no convencionales, con la oportunidad de proyectar la necesidad del servicio de los Centros de Desarrollo Infantil al área donde pueda aplicar.
+
+CUARTO. La Secretaría de Salud del Estado de Jalisco en coordinación con el Organismo Público Descentralizado de Servicios de Salud Jalisco, incluirá como un proyecto prioritario la implementación de más Bancos de Leche Humana a lo largo del Estado de Jalisco y fortalecerá el existente tomando en consideración los puntos que establece la PROY-NOM-050-SSA2-2018.
+
+QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, de acuerdo con lo dispuesto en la Ley del Presupuesto, Contabilidad y Gasto Publico del Estado de Jalisco, determinará los recursos suficientes para la implementación y ejecución del Programa y acciones generados por la Estrategia Estatal para la Atención Integral en Primera Infancia, con el presupuesto previamente asignado.
+
+SEXTO. El Titular del Poder Ejecutivo identificará dentro del Anexo Transversal de Desarrollo integral de las niñas, niños y adolescentes las acciones y, o componentes a favor de la Primera Infancia como parte de la iniciativa de Presupuesto de Egresos para el ejercicio fiscal 2023.
+
+SÉPTIMO. Los gobiernos municipales, con base en su autonomía y libertad de administración presupuestal, podrán incluir en sus respectivos presupuestos de egresos, los recursos suficientes para la implementación y ejecución de los Programas y acciones generadas por la Estrategia Estatal para la Atención Integral en Primera Infancia.
