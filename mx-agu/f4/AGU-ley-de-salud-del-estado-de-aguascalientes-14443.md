@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2022-10-31"
+last_updated: "2022-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. 31 DE OCTUBRE DE 2022 NO APLICA AL ARTICULADO DEL DECRETO 194 PUBLICADO EN EL P.O. DEL 17 DE OCTUBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1991,9 +1989,31 @@ Además el Consejo Estatal de Nutrición creará un listado de alimentos que deb
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO VI. De la Donación de Órganos
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 119 BIS.- Todo lo relacionado con la disposición de órganos, tejidos y células de seres humanos con fines terapéuticos se regirá conforme con lo establecido en la Ley General, sus disposiciones reglamentarias y las normas oficiales mexicanas en la materia, así como en los lineamientos que emita la autoridad sanitaria y demás instrumentos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 119 TER.- Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, para los fines y con los requisitos previstos en la Ley General y sus disposiciones reglamentarias. En todo momento deberá respetarse la decisión del donante. Las autoridades garantizarán el cumplimiento de esta voluntad.
+
+La donación se realizará mediante consentimiento expreso y consentimiento tácito. La donación por consentimiento expreso deberá constar por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
+
+El consentimiento tácito sólo aplicará para la donación de órganos, tejidos y células una vez que se confirme la pérdida de la vida del donante y sólo podrán extraerse estos cuando se requieran para fines de trasplantes. Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas: el o la cónyuge, la concubina, el concubinario, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, aplicando ese orden de prelación, en caso de que se encontrara una o más personas presentes de las señaladas.
+
+El escrito por el que la persona exprese no ser donador podrá ser privado o público y deberá estar firmado por éste; o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría en coordinación con las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 119 QUATER.- Está prohibido el comercio de órganos, tejidos y células de seres humanos. La donación de los mismos con fines de trasplantes se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad; por lo que su obtención y utilización serán estrictamente a título gratuito. Se considerará disposición ilícita de órganos, tejidos y células de seres humanos toda aquella que se efectúe sin estar autorizada por la Ley General, sus disposiciones reglamentarias y demás aplicables en la materia.
+
+Sólo en caso de que la pérdida de la vida del donante esté relacionada con la investigación de un hecho que la ley señale como delito, o se desconozca su identidad o forma de localizar a sus parientes, se dará intervención al Ministerio Público y a la autoridad judicial para la extracción de órganos, tejidos y células, de conformidad a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 119 QUINQUIES.- La cultura de donación de órganos, tejidos y células son de interés público. El Gobierno implementará programas permanentes destinados a fomentar la donación de órganos, tejidos y células, en coordinación con el Centro Nacional de Trasplantes. La Secretaría promoverá con las Dependencias, Órganos Desconcentrados y Entidades que integran la Administración Pública del Estado de Aguascalientes, los poderes legislativo y judicial, así como los órganos autónomos, en el ámbito de sus respectivas competencias, mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
 
 ###### ARTICULO 113.
 
@@ -2037,7 +2057,9 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 El Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO II. Enfermedades Transmisibles
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 118.
 
@@ -2049,21 +2071,21 @@ El Organismo tendrá a su cargo el control sanitario de los establecimientos en 
 
 El Gobierno del Estado, en coordinación con las dependencias y entidades municipales y federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre y la mujer.
 
-### CAPITULO III. Enfermedades no Transmisibles
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+### CAPITULO II. Enfermedades Transmisibles
 
 ## TITULO DECIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN ETAPA TERMINAL
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
 
-### CAPITULO IV. Accidentes
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 120.
 
 Corresponde al Organismo en coordinación con las autoridades federales y municipales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 121.
 
@@ -2177,7 +2199,9 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos u objetos.
 
-### CAPITULO I. De la Asistencia Social
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 135.
 
@@ -2201,7 +2225,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO II. De la Discapacidad
+### CAPITULO I. De la Asistencia Social
 
 ###### ARTICULO 138.
 
@@ -2229,9 +2253,7 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 ## TITULO DECIMO PRIMERO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
 
-### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO II. De la Discapacidad
 
 ###### ARTICULO 139 Bis.
 
@@ -2375,7 +2397,9 @@ En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
 ## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO II. Programa Contra el Tabaquismo
+### CAPITULO I. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 140.
 
@@ -2455,37 +2479,7 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 El patrimonio de la beneficencia pública será administrado por el organismo creado para ello, correspondiéndole entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
 
-### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-ARTICULO 161 A.- Para ejecutar el programa nacional para la prevención y tratamiento de la farmacodependencia, estupefacientes y psicotrópicos, la Secretaría de Salud se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General de Salud y demás disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
-
-ARTICULO 161 B.- La Secretaría de Salud, respetando los lineamientos de la Ley General de Salud y el programa nacional para la prevención y tratamiento de la farmacodependencia, elaborará el programa estatal contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos, el cual será de observancia obligatoria para los prestadores de servicios de salud en el Estado en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia, considerando los siguientes aspectos:
-
-I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
-
-II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales;
-
-III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento;
-
-IV.- La investigación de las causas de la farmacodependencia, así como del consumo de estupefacientes y psicotrópicos y de las acciones para controlarlas;
-
-V.- Campañas de información y sensibilización basadas en estudios científicos, alertando de manera adecuada sobre los efectos y daños físicos, así como psicológicos del consumo de estupefacientes y psicotrópicos; y
-
-VI.- La superación de la farmacodependencia, a través del fomento de la participación comunitaria y familiar, y el reconocimiento de la importancia de los grupos de ayuda mutua.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-La Secretaría de Salud contará con un Centro Estatal Especial para el tratamiento, atención y rehabilitación de los farmacodependientes, para la supervisión y coordinación de las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia de conformidad con la Ley General de Salud, esta Ley y las normas aplicables.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-ARTICULO 161 C.- El Centro Estatal Especial tendrá a su cargo el Registro Estatal de los Centros de Atención de tratamiento y rehabilitación de los farmacodependientes, que servirá como instrumento informativo y estadístico de los mismos y contendrá el padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención, rehabilitación y reinserción social en materia de farmacodependencia y en el que se describirán las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
+### CAPITULO II. Programa Contra el Tabaquismo
 
 ###### ARTICULO 153.
 
@@ -2525,23 +2519,37 @@ El Organismo en coordinación con otras instituciones públicas, promoverá que 
 
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO IV. Disposiciones Comunes
+### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+ARTICULO 161 A.- Para ejecutar el programa nacional para la prevención y tratamiento de la farmacodependencia, estupefacientes y psicotrópicos, la Secretaría de Salud se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General de Salud y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2021)</small>
+
+ARTICULO 161 B.- La Secretaría de Salud, respetando los lineamientos de la Ley General de Salud y el programa nacional para la prevención y tratamiento de la farmacodependencia, elaborará el programa estatal contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos, el cual será de observancia obligatoria para los prestadores de servicios de salud en el Estado en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia, considerando los siguientes aspectos:
+
+I.- La prevención y el tratamiento de la farmacodependencia y, en su caso, la rehabilitación de los farmacodependientes;
+
+II.- La educación sobre los efectos del uso de estupefacientes, substancias psicotrópicas y otras susceptibles de producir dependencia, así como sus consecuencias en las relaciones sociales;
+
+III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento;
+
+IV.- La investigación de las causas de la farmacodependencia, así como del consumo de estupefacientes y psicotrópicos y de las acciones para controlarlas;
+
+V.- Campañas de información y sensibilización basadas en estudios científicos, alertando de manera adecuada sobre los efectos y daños físicos, así como psicológicos del consumo de estupefacientes y psicotrópicos; y
+
+VI.- La superación de la farmacodependencia, a través del fomento de la participación comunitaria y familiar, y el reconocimiento de la importancia de los grupos de ayuda mutua.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
 
-ARTICULO 161 D.- Toda persona con problemas de adicciones, tendrá derecho a recibir tratamiento en una institución u organismo especializado avalado conforme a las leyes aplicables.
+La Secretaría de Salud contará con un Centro Estatal Especial para el tratamiento, atención y rehabilitación de los farmacodependientes, para la supervisión y coordinación de las instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia de conformidad con la Ley General de Salud, esta Ley y las normas aplicables.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
 
-ARTICULO 161 E.- El Programa Contra las Adicciones tiene como objetivo detener el uso y abuso del alcohol, tabaco, estupefacientes y sustancias psicoactivas o desórdenes relacionados, así como la disminución de sus riesgos.
+ARTICULO 161 C.- El Centro Estatal Especial tendrá a su cargo el Registro Estatal de los Centros de Atención de tratamiento y rehabilitación de los farmacodependientes, que servirá como instrumento informativo y estadístico de los mismos y contendrá el padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención, rehabilitación y reinserción social en materia de farmacodependencia y en el que se describirán las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen.
 
-La prestación de servicios en materia de adicciones comprenderá la prevención, tratamiento y control.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
-
-ARTICULO 161 F.- La prevención deberá estar dirigida a toda la sociedad, pero en especial a las poblaciones vulnerables y de alto riesgo, tomando en cuenta principalmente a las niñas, niños, adolescentes y jóvenes.
-
-El tratamiento contra las adicciones no deberá ser considerado un castigo para el usuario, sino que deberá ser tratado reconociéndose siempre su dignidad como persona y considerando que padece una enfermedad crónica, recurrente, progresiva y en ocasiones mortal.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 2021)</small>
 
 ###### ARTICULO 158.
 
@@ -2565,7 +2573,23 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO IV. Disposiciones Comunes
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+ARTICULO 161 D.- Toda persona con problemas de adicciones, tendrá derecho a recibir tratamiento en una institución u organismo especializado avalado conforme a las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+ARTICULO 161 E.- El Programa Contra las Adicciones tiene como objetivo detener el uso y abuso del alcohol, tabaco, estupefacientes y sustancias psicoactivas o desórdenes relacionados, así como la disminución de sus riesgos.
+
+La prestación de servicios en materia de adicciones comprenderá la prevención, tratamiento y control.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2021)</small>
+
+ARTICULO 161 F.- La prevención deberá estar dirigida a toda la sociedad, pero en especial a las poblaciones vulnerables y de alto riesgo, tomando en cuenta principalmente a las niñas, niños, adolescentes y jóvenes.
+
+El tratamiento contra las adicciones no deberá ser considerado un castigo para el usuario, sino que deberá ser tratado reconociéndose siempre su dignidad como persona y considerando que padece una enfermedad crónica, recurrente, progresiva y en ocasiones mortal.
 
 ###### ARTICULO 160.
 
@@ -2593,13 +2617,13 @@ IV. El tratamiento del tabaquismo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
 
-### CAPITULO II. Mercados y Centros de Abasto
+### CAPITULO I. Disposiciones Comunes
 
-### CAPITULO III. De las Construcciones
+### CAPITULO II. Mercados y Centros de Abasto
 
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO IV. Servicios Funerarios
+### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 162.
 
@@ -2651,7 +2675,7 @@ VI.- Número de cédula profesional, en su caso, del responsable sanitario.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-### CAPITULO V. Limpieza Pública
+### CAPITULO IV. Servicios Funerarios
 
 ###### ARTICULO 169.
 
@@ -2669,7 +2693,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 Los establecimientos ubicados dentro de los mercados o centros de abasto, catalogados como de salubridad general, serán verificados por la autoridad sanitaria competente.
 
-### CAPITULO VI. Agua Potable y Alcantarillado
+### CAPITULO V. Limpieza Pública
 
 ###### ARTICULO 172.
 
@@ -2705,9 +2729,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VII. Prostitución
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO VI. Agua Potable y Alcantarillado
 
 ###### ARTICULO 180.
 
@@ -2731,7 +2753,9 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
 
-### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
+### CAPITULO VII. Prostitución
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 184.
 
@@ -2769,7 +2793,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
-### CAPITULO IX. Baños Públicos
+### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 189.
 
@@ -2815,7 +2839,7 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños sean verti
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
-### CAPITULO X. Centros de Reunión y Espectáculos
+### CAPITULO IX. Baños Públicos
 
 ###### ARTICULO 199.
 
@@ -2841,9 +2865,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La Autoridad Municipal en coordinación con el Organismo, determinarán los lugares en donde se permitirá el ejercicio de la prostitución, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías y Salones de Belleza
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+### CAPITULO X. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 205.
 
@@ -2863,7 +2885,9 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 122 de esta Ley.
 
-### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
+### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías y Salones de Belleza
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 209.
 
@@ -2873,7 +2897,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 El agua que se utilice en los baños públicos deberá ser potable y cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPITULO XIII. Establecimientos para el Hospedaje
+### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
 
 ###### ARTICULO 211.
 
@@ -2885,7 +2909,7 @@ El funcionamiento de los establecimientos a que se refiere el artículo anterior
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2016)</small>
 
-### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
+### CAPITULO XIII. Establecimientos para el Hospedaje
 
 ###### ARTICULO 213.
 
@@ -2895,7 +2919,7 @@ Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza,
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO XV. Transporte Estatal y Municipal
+### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
 
 ###### ARTICULO 215.
 
@@ -2911,7 +2935,7 @@ III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independi
 
 Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
 
-### CAPITULO XVI. Prevención y Control de la Rabia en Animales
+### CAPITULO XV. Transporte Estatal y Municipal
 
 ###### ARTICULO 217.
 
@@ -2921,7 +2945,7 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
 
-### CAPITULO XVII. De la Medicina Alternativa
+### CAPITULO XVI. Prevención y Control de la Rabia en Animales
 
 ###### ARTICULO 219.
 
@@ -2931,17 +2955,15 @@ Para los efectos de esta Ley, se entiende por establecimientos destinados al alm
 
 Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO XVIII. Del Ejercicio Especializado de la Cirugía Plástica
-
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
+### CAPITULO XVII. De la Medicina Alternativa
 
 ###### ARTICULO 221.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XVIII. Del Ejercicio Especializado de la Cirugía Plástica
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 222.
 
@@ -2975,7 +2997,7 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -2985,7 +3007,9 @@ Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE AGOSTO DE 2016)</small>
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 226 Bis.
 
@@ -2993,7 +3017,7 @@ La realización de cualquier procedimiento médico o de cirugía plástica, est�
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 227.
 
@@ -3041,9 +3065,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO I
-
-Medidas de Seguridad Sanitaria.
+### CAPITULO UNICO
 
 ###### ARTICULO 236.
 
@@ -3105,7 +3127,9 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I
+
+Medidas de Seguridad Sanitaria.
 
 ###### ARTICULO 244.
 
@@ -3161,7 +3185,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 251.
 
@@ -3261,7 +3285,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 263.
 
@@ -3371,7 +3395,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 275.
 
@@ -3469,9 +3493,7 @@ II.- A la persona que en rebeldía se niegue a cumplir los requerimientos y disp
 
 La resolución que contenga la determinación de la sanción a que se refiere este artículo se comunicará a la autoridad correspondiente para que la lleve a cabo.
 
-### CAPITULO UNICO. Del Instituto de Beneficencia Pública del Estado de Aguascalientes
-
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 287.
 
@@ -3510,6 +3532,10 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 ###### ARTICULO 295.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO UNICO. Del Instituto de Beneficencia Pública del Estado de Aguascalientes
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTICULO 296.
 
@@ -4350,3 +4376,11 @@ P.O. 17 DE OCTUBRE DE 2022.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Los municipios contarán con un periodo de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones que consideren pertinentes a sus normas reglamentarias.
+
+P.O. 7 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 219.- SE ADICIONA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
