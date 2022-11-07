@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2022-06-27"
+last_updated: "2022-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -505,7 +505,9 @@ a) Superar la pobreza;
 
 b) Superar la marginación;
 
-c) Abatir el hambre;
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+c) Facilitar el acceso a la alimentación nutritiva y de calidad;
 
 d) Disminuir la desigualdad social.
 
@@ -517,7 +519,9 @@ V. Los programas y acciones públicas para asegurar la alimentación nutritiva, 
 
 VI. Los programas de abasto social de productos básicos;
 
-VII. Los programas de vivienda;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+VII. Los programas de vivienda y de medio ambiente sano y sustentable, que apoyen y fortalezcan la economía familiar;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
 
@@ -1272,6 +1276,22 @@ P.O. 7 DE JUNIO DE 2021.
 P.O. 27 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 146.- SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 1º; LA FRACCIÓN VIII DEL ARTÍCULO 35, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 80; ASÍ MISMO SE ADICIONAN LAS FRACCIONES VI, VII Y VIII DEL ARTÍCULO 25, A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 216.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 217.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
