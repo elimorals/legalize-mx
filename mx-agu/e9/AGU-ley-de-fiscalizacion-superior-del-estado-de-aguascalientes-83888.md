@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2022-10-17"
+last_updated: "2022-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -119,7 +119,9 @@ XXI. Proceso Concluido: Aquél que las Entidades Fiscalizadas reporten como tal,
 
 XXII. Programas: Los contenidos en los planes de desarrollo, en los programas operativos anuales y en los presupuestos aprobados a los que se sujeta la gestión o actividad de las Entidades Fiscalizadas para el cumplimiento de sus atribuciones y se presupuesta el gasto público;
 
-XXIII. Servidores Públicos: Los que se consideran como tales en la Constitución Política del Estado de Aguascalientes y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+XXIII. Servidores Públicos: Los que se consideran como tales en la Constitución Política del Estado de Aguascalientes y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -171,13 +173,11 @@ La Fiscalización Superior, se realizará conforme a las Normas Generales de Aud
 
 El objeto de las Revisiones Contemporáneas será el análisis tanto del contenido de los avances de gestión financiera como de la información mencionada en el Artículo 14 de esta Ley, y que para tales efectos remitan las Entidades Fiscalizadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
 
-###### ARTÍCULO 7°
+###### ARTÍCULO 7°.
 
-A falta de disposición expresa en esta Ley se aplicarán, en forma supletoria y en lo conducente, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, la Ley de Deuda Pública para el Estado de Aguascalientes, el Código Fiscal del Estado de Aguascalientes, la Ley del Procedimiento Administrativo del Estado de Aguascalientes, la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, esta última, únicamente en materia de procedimiento, la Ley del Procedimiento Contencioso Administrativo del Estado de Aguascalientes, así como la normatividad civil del Estado sustantiva y adjetiva, en lo que no contravengan las bases esenciales de esta Ley.
-
-El Órgano Superior de Fiscalización deberá emitir los criterios relativos a la ejecución de auditorías, mismos que deberán sujetarse a las disposiciones establecidas en la presente Ley y publicarse en el Periódico Oficial del Estado.
+A falta de disposición expresa en esta Ley se aplicarán, en forma supletoria y en lo conducente, la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, la Ley de Deuda Pública para el Estado de Aguascalientes, el Código Fiscal del Estado de Aguascalientes, la Ley del Procedimiento Administrativo del Estado de Aguascalientes, la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, esta última, únicamente en materia de procedimiento, la Ley del Procedimiento Contencioso Administrativo del Estado de Aguascalientes, así como la normatividad civil del Estado sustantiva y adjetiva, en lo que no contravengan las bases esenciales de esta Ley.
 
 ###### ARTÍCULO 8º.
 
@@ -999,25 +999,39 @@ II. La procedencia o improcedencia de iniciar el procedimiento resarcitorio deri
 
 III. La imposición o absolución de responsabilidades resarcitorias derivadas de las causales contempladas en la Ley.
 
-IV. Los demás supuestos contemplados en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+IV. Los demás supuestos contemplados en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 Las decisiones de la Instancia de Control Competente deberán justificarse en los motivos y fundamentos adecuados para cada caso, y las mismas serán definitivas tanto para las Entidades Fiscalizadas como para el Órgano Superior de Fiscalización.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
 
-ARTÍCULO 68 BIS.- La Contraloría interna del Congreso, procederá en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, a instaurar los procedimientos administrativos disciplinarios, aplicando las sanciones correspondientes, cuando los servidores públicos del Órgano Superior de Fiscalización, al revisar las Cuentas Públicas:
+ARTÍCULO 68 BIS.- La Contraloría interna del Congreso, procederá en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, a instaurar los procedimientos administrativos disciplinarios, aplicando las sanciones correspondientes, cuando los servidores públicos del Órgano Superior de Fiscalización, al revisar las Cuentas Públicas:
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
 
 I. No formulen las observaciones sobre las situaciones irregulares que detecten o debieron detectar;
 
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
 II. No guarden secreto y revelen los hechos, datos o circunstancias de que tengan conocimiento en el desempeño de su trabajo;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
 
 III. Desempeñen su trabajo con notoria negligencia;
 
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
+
 IV. Incumplan las Normas Generales de Auditoría Gubernamental; y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2015)</small>
 
 V. Realicen observaciones e rentes de motivos y fundamentos.
 
-Las conductas contenidas en este Artículo, serán sancionadas en los términos del Artículo 80 de la Ley de Responsabilidad de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+Las conductas contenidas en este Artículo, serán sancionadas en los términos del Artículo 61 de la Ley de Responsabilidad Administrativas del Estado de Aguascalientes.
 
 ### CAPÍTULO III. Del Procedimiento para el Fincamiento de Responsabilidades Resarcitorias
 
@@ -1589,11 +1603,13 @@ La relación jurídica de trabajo se entiende establecida entre el Órgano Super
 
 ### CAPÍTULO II. De la Evaluación y Control del Órgano Superior de Fiscalización
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 114.
 
-El Auditor Superior, los directores y los demás servidores públicos del Órgano Superior de Fiscalización en el desempeño de sus funciones, se sujetarán a la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y a las demás disposiciones legales aplicables.
+El Auditor Superior, los directores y los demás servidores públicos del Órgano Superior de Fiscalización en el desempeño de sus funciones, se sujetarán a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 La Comisión en caso de considerarlo necesario podrá constituir un grupo de trabajo con conocimiento en la materia para verificar que el Órgano Superior de Fiscalización dio cumplimiento al programa anual de actividades y al programa anual de auditorías, así como la aplicación de su presupuesto aprobado.
 
@@ -1739,7 +1755,9 @@ II. Abstenerse de involucrarse en intereses económicos o de especie con las Ent
 
 III. Abstenerse de intervenir, en los casos de que existan hechos, situaciones o relaciones que impidan su independencia y/o vulneren su imparcialidad, o bien, concurran circunstancias que influyan sobre su juicio, o en aquellos casos en que pueda existir duda razonable sobre su independencia y objetividad; debiendo excusarse cuando ocurra impedimento personal para ejercer sus funciones de manera imparcial; y
 
-IV. No infringir ninguno de los supuestos previstos en la Ley de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+IV. No infringir ninguno de los supuestos previstos en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
 
 Cuando el auditor se encuentre en alguno de los supuestos que señala esta fracción, se excusará y lo comunicará a su superior jerárquico, quien determinará lo conducente dentro de los tres días hábiles siguientes.
 
@@ -2086,3 +2104,11 @@ El presente Decreto entrará en vigor a los seis meses posteriores de su publica
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 215.- SE REFORMA LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
