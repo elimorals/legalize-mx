@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2022-10-17"
+last_updated: "2022-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2303,7 +2303,9 @@ II. Otorgar cualquier identificación que acredite a un particular como servidor
 
 III. Abandonar sin justa causa su empleo, cargo o comisión;
 
-IV. Sustraer, destruir, ocultar, utilizar o inutilizar ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2022)</small>
+
+IV. Sustraer, destruir, ocultar, difundir, utilizar o inutilizar ilícitamente imágenes, audios, videos, información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
 
 V. Otorgar empleo, cargo o comisión pública o contrato de prestación de servicios profesionales, que sean remunerados, sabiendo que no se prestará el servicio para el que se les nombra, o no se cumplirán los términos del contrato celebrado;
 
@@ -2715,9 +2717,9 @@ IV. Cometer actos de vilipendio sobre los mismos o violar el lugar donde éstos 
 
 V. Profanarlos con actos de necrofilia; o
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2022)</small>
 
-VI. Fotografiar o videograbar, así como difundir o permitir la difusión, por cualquier medio, de las imágenes o videos de uno o más cadáveres, restos humanos o datos que permitan su identificación, sin la autorización de los ofendidos o autoridad competente.
+VI. Fotografiar o videograbar, así como difundir o permitir la difusión o por cualquier medio, de las imágenes o videos de uno o más cadáveres, restos humanos, documentos o datos que permitan su identificación, sin la autorización de los ofendidos o autoridad competente.
 
 Al responsable de las conductas descritas en este Artículo, se le aplicarán de 6 meses a 3 años de prisión y de 15 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
@@ -3662,3 +3664,11 @@ P.O. 17 DE OCTUBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 221.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
