@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2022-04-11"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -839,6 +839,10 @@ XXVIII. Los lugares donde se tengan o instalen juegos inflables, brincolines y s
 
 XXIX. Otros establecimientos que por sus características y magnitud sean similares a los enunciados en las fracciones.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+De igual forma, las coordinaciones estatal y municipales, en su caso, verificarán que en los inmuebles a que se refieren las fracciones IV, V, VI, y XXII de este artículo, se encuentre disponible el protocolo de prevención y atención de violencia en contra de las mujeres a que se refiere la fracción XVIII del artículo 6º de la Ley del Instituto de las Mujeres del Estado de San Luis Potosí.
+
 ###### ARTÍCULO 63.
 
 Las verificaciones se sujetarán a las siguientes reglas:
@@ -1046,6 +1050,14 @@ SEGUDNO (SIC). Se derogan todas las disposiciones que se opongan al presente Dec
 P.O. 11 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0297.- SE REFORMA EL ARTÍCULO 62, EN SU FRACCIÓN I, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0417.- SE REFORMA EL ARTÍCULO 6º EN SU FRACCIÓN XVIII, DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO; SE ADICIONA AL ARTÍCULO 62, EL PÁRRAFO ÚLTIMO, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
