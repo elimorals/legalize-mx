@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2022-10-19"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1873,9 +1873,7 @@ Al que cometa un delito en contra de un servidor público en el acto de ejercer 
 
 Cuando el delito se cometa en contra de persona que desarrolle funciones de seguridad pública, impartición o procuración de justicia, o defensores de derechos humanos se regirá por las agravantes señaladas para el delito en específico.
 
-###### Art. 134.
-
-Se impondrán de quince días a seis meses de prisión al que, por medio de la injuria o la afrenta, ultraje a quien represente legítimamente a algún Poder del Estado, o Cuerpo Colegiado de la Administración Pública.
+Art 134. (DEROGADO, P.O. 8 DE NOVIEMBRE DE 2022).
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2012)</small>
 
@@ -7256,3 +7254,9 @@ VIGÉSIMO PRIMERO. Las personas que actualmente cuentan con concesiones, permiso
 VIGÉSIMO SEGUNDO. La autoridad competente, en un plazo no mayor a 180 días hábiles, contados a partir de la emisión de la norma técnica respectiva, deberá efectuar un censo de los vehículos afectos al transporte comunitario que actualmente prestan el servicio, considerando los vehículos motorizados de menor escala, con la finalidad de conformar un padrón de este modo de transporte, los cuales deben ser regulados en la norma técnica; otorgando en la convocatoria respectiva el derecho de preferencia como prestadores del servicio de transporte comunitario privilegiando a quienes utilicen tecnología sustentable.
 
 VIGESIMO TERCERO. En un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente decreto, en el Artículo Primero del presente decreto, el Ejecutivo del Estado, el Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara, así como el Consejo Ciudadano Metropolitano, en el ámbito de sus respectivas atribuciones, deberán establecer las bases de participación de los observatorios ciudadanos en materia de movilidad, seguridad vial y transporte, lo anterior de conformidad con la legislación aplicable en la materia.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28823/LXIII/22 (SIC) QUE SE DEROGA EL ARTÍCULO 134 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
