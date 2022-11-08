@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2022-07-16"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -67,9 +67,9 @@ II. Fijar las normas para ordenar, mediante la planeación, el asentamiento huma
 
 III. Definir los principios para determinar las provisiones, reservas, usos y destinos de áreas y predios que regulen la propiedad en las áreas que integran y delimitan los centros de población;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-IV. Precisar los derechos y obligaciones de los habitantes del Estado, al desarrollar acciones de aprovechamiento de predios y fincas, para hacer efectivos los derechos a la vivienda digna, accesible e incluyente;
+IV. Precisar los derechos y obligaciones de los habitantes del Estado, al desarrollar acciones de aprovechamiento de predios y fincas, para hacer efectivos los derechos a la vivienda adecuada, digna, decorosa e incluyente;
 
 V. Establecer las bases jurídicas para que el Gobierno del Estado y los Ayuntamientos, definan la regionalización del territorio y aseguren la congruencia de los planes o programas de desarrollo urbano, con los planes de desarrollo regional;
 
@@ -451,9 +451,9 @@ XIV. Promover la oferta de terrenos y edificaciones, especialmente los destinado
 
 XV. Promover programas y apoyar acciones de regularización de la tenencia de la tierra urbana, en coordinación con los gobiernos municipales y en su caso, con el Gobierno Federal;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-XVI. Promover obras para que los habitantes de la entidad cuenten con una vivienda digna, accesible e incluyente, que cumpla con la normatividad en materia de diseño urbano universal; espacios adecuados para el trabajo, áreas de esparcimiento y recreación; el equipamiento indispensable para la vida de la comunidad y los medios de comunicación y transporte que se requieran;
+XVI. Promover obras para que los habitantes de la entidad cuenten con una vivienda adecuada, digna, decorosa e incluyente, que cumpla con la normatividad en materia de diseño urbano universal; espacios adecuados para el trabajo, áreas de esparcimiento y recreación; el equipamiento indispensable para la vida de la comunidad y los medios de comunicación y transporte que se requieran;
 
 XVII. Promover la participación ciudadana y vecinal en la elaboración, ejecución, evaluación y revisión de los programas y planes de desarrollo urbano del Estado, haciendo efectiva la consulta pública;
 
@@ -739,9 +739,9 @@ XXX. Aplicar las medidas necesarias para desalentar la especulación respecto de
 
 XXXI. Promover inversiones y acciones que tiendan a conservar, mejorar y regular el crecimiento de los centros de población;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-XXXII. Promover obras para que los habitantes de sus respectivos municipios cuenten con una vivienda digna, accesible e incluyente; espacios adecuados para el trabajo, áreas y zonas de esparcimiento y recreación; el equipamiento indispensable para la vida de la comunidad, y los medios de comunicación y transporte que se requieran;
+XXXII. Promover obras para que los habitantes de sus respectivos municipios cuenten con una vivienda adecuada digna, decorosa e incluyente; espacios adecuados para el trabajo, áreas y zonas de esparcimiento y recreación; el equipamiento indispensable para la vida de la comunidad, y los medios de comunicación y transporte que se requieran;
 
 XXXIII. Otorgar las facilidades administrativas que estén a su alcance, a las acciones de vivienda;
 
@@ -6580,3 +6580,11 @@ P.O. 16 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28796/LXIII/22 QUE REFORMA LOS ARTÍCULOS 8 Y 16 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO Y ARTÍCULO 10 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28805/LXIII/22 QUE REFORMA LOS ARTÍCULOS 1, 2, 7 FRACCIÓN L, 9 Y 41 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO Y LOS ARTÍCULOS 3 FRACCIÓN LV (SIC), 8 FRACCIÓN XVI Y 10 FRACCIÓN XXXII DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Gobierno del Estado, así como los Ayuntamientos del Estado de Jalisco contarán con un plazo de noventa días naturales, siguientes a la entrada en vigor del presente decreto para realizar las modificaciones a los reglamentos, disposiciones administrativas y lineamientos generales que resulten aplicables y necesarios para el correcto cumplimiento de los artículos reformados en el presente decreto.
