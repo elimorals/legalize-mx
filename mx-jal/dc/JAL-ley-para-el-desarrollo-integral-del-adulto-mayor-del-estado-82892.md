@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2022-04-07"
+last_updated: "2022-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -414,6 +414,24 @@ El titular del Poder Ejecutivo del Estado de Jalisco deberá incluir en el Proye
 ###### Artículo 7.
 
 ° Toda persona podrá denunciar ante los órganos competentes todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con los adultos mayores.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 7.
+
+° Bis. Los tipos de violencia contra las Personas Adultas Mayores, son:
+
+I. La violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II. La violencia física. Es cualquier acto que inflige daño corporal, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III. La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
+
+IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física;
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
 
 ###### Artículo 8.
 
@@ -1031,9 +1049,17 @@ I. La gravedad de la infracción;
 
 II. Los daños que la misma haya producido o pueda producir;
 
-III. Las condiciones socioeconómicas del infractor, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-IV. Si la conducta del infractor implica reincidencia.
+III. Las condiciones socioeconómicas del infractor;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+IV. Si el agresor tiene o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+V. Si la conducta del infractor implica reincidencia.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
@@ -1302,3 +1328,9 @@ P.O. 7 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 28748/LXIII/22 SE REFORMA EL ARTÍCULO 6° DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación oficial “El Estado de Jalisco”.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28824/LXIII/22 QUE ADICIONA EL ARTÍCULO 7 BIS Y LA FRACCION IV AL ARTÍCULO 65 A LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
