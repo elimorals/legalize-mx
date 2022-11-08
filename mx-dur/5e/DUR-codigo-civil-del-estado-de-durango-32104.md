@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2022-10-09"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -123,7 +123,13 @@ IV.- Los sindicatos, las asociaciones profesionales y las demás a que se refier
 
 V.- Las sociedades cooperativas y mutualistas;
 
-VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la ley.
+> <small>(REFORMADA [N. DE E.ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+VI. Los condominios, cuando se opte por este régimen jurídico, de conformidad con la Ley de Condominios del Estado de Durango.
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+VII. Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquier otro fin lícito, siempre que no fuere (sic) desconocidas por la ley.
 
 ART. 26.- Las personas morales pueden ejercitar todos los derechos que sean necesarios para realizar el objeto de su institución.
 
@@ -4117,17 +4123,21 @@ ART. 935.- Cuando parte de la cosa perteneciere exclusivamente a un copropietari
 
 ART. 936.- Todo condueño tiene la plena propiedad de la parte alícuota que le corresponda y la de sus frutos y utilidades, pudiendo, en consecuencia, enajenarla, cederla o hipotecarla, y aun subsistir otro en su aprovechamiento, salvo si se tratare de derecho personal. Pero el efecto de la enajenación o de la hipoteca con relación a los condueños, estará limitada a la porción que se les adjudique en la división al cesar la comunidad. Los condueños gozan del derecho del tanto.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-ART. 937.- Cuando los diferentes departamentos, viviendas, casas ó locales de un inmueble, construídos en forma vertical, horizontal ó mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél ó a la vía pública, pertenecieran a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su departamento, vivienda, casa o local y, además, un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso o disfrute.
+ART. 937.- Cuando los diferentes departamentos, viviendas, casas ó locales de un inmueble, construidos en forma vertical, horizontal ó mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél ó a la vía pública, pertenecieran a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su departamento, vivienda, casa o local y, además, un derecho de copropiedad sobre los elementos y partes comunes del inmueble necesarios para su adecuado uso o disfrute.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1977)</small>
 
 Cada propietario podrá enajenar, hipotecar ó gravar en cualquier otra forma su departamento, vivienda, casa o local, sin necesidad de consentimiento de los demás condóminos. En la enajenación, gravamen o embargo de un departamento, vivienda, casa o local, se entenderán comprendidos invariablemente los derechos sobre los bienes comunes que le son anexos.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1977)</small>
+
 El derecho de copropiedad sobre los elementos comunes del inmueble, solo será enajenable, gravable ó embargable por terceros, conjuntamente con el departamento, vivienda, casa o local de propiedad exclusiva, respecto del cual se considere anexo inseparable. La copropiedad sobre los elementos comunes del inmueble no es susceptible de división.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que hubiere establecido el régimen de propiedad por las de compra-venta correspondiente, por el reglamento del condominio de que se trate, por la Ley General de Desarrollo Urbano para el Estado de Durango, por las disposiciones de este Código y las demás leyes que fueren aplicables.
+Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que hubiere establecido el régimen de propiedad por las de compra-venta correspondiente, por el reglamento del condominio de que se trate, por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Durango, por la Ley de Condominios del Estado de Durango, por las disposiciones de este Código y las demás leyes que fueren aplicables.
 
 ART. 938.- Cuando haya constancia que demuestre quién fabricó la pared que divide los predios, el que la costeó es dueño exclusivo de ella; si constan que se fabricó por los colindantes, o no consta quién la fabricó, es de propiedad común.
 
@@ -11018,3 +11028,11 @@ P.O. 9 DE OCTUBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 209.- POR EL QUE SE ADICIONA UNA FRACCIÓN VI RECORRIENDO LA SUBSECUENTE AL ARTÍCULO 25 Y SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 937, AMBOS DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
