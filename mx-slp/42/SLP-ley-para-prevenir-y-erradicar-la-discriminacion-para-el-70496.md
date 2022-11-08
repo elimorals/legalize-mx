@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-y-erradicar-la-discriminacion-para-el-70496"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2022-06-20"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -69,13 +69,15 @@ Queda prohibida toda forma de discriminación motivada por el origen étnico, na
 
 Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana, y un retroceso a su propia condición, que deben combatirse.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 7°.
 
-Para los efectos de esta Ley se entiende por discriminación, toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
+Para los efectos de esta Ley se entiende por discriminación, toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud física o mental, jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier motivo.
 
-Asimismo, se entenderá como discriminación la xenofobia y el antisemitismo en cualquiera de sus manifestaciones.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+También se entenderá como discriminación la homofobia, la misoginia, cualquier manifestación de xenofobia, la segregación racial, el antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia.
 
 De igual forma, se considerará discriminatoria toda ley y todo acto, que siendo de aplicación idéntica para todas las personas, produzca consecuencias que perjudiquen a las personas o grupos que se encuentren en situación de vulnerabilidad.
 
@@ -175,11 +177,23 @@ XXXVIII. Solicitar antecedentes penales como condicionante para el acceso o ejer
 
 XXXIX. Restringir o impedir el derecho de las mujeres a la lactancia materna en espacios públicos, y/o insultarlas o provocarles actos de molestia por hacerlo;
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-XL. Implementar políticas públicas, programas u otras acciones de gobierno, que tengan un impacto desventajoso en los derechos de las personas, y
+XL. Implementar políticas públicas, programas u otras acciones de gobierno, que tengan un impacto desventajoso en los derechos de las personas;
 
-XLI. En general, cualquier otra conducta que atente contra la dignidad de la persona.
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XLI. Difundir sin consentimiento de la persona agraviada información sobre su condición y antecedentes de salud física o mental, o sobre cualquier otro dato personal sensible;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XLII. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores o por motivo de la condición de salud física o mental;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XLIII. Estigmatizar y negar derechos a personas con VIH/SIDA, o cualquier condición o antecedentes de salud física o mental, y
+
+XLIV. En general, cualquier otra conducta que atente contra la dignidad de la persona.
 
 ## TITULO SEGUNDO (SIC). DE LAS ACCIONES DE PREVENCION Y LAS AUTORIDADES COMPETENTES
 
@@ -348,3 +362,11 @@ P.O. 20 DE JUNIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0418.- SE REFORMAN LOS ARTÍCULOS 7, EN SUS PÁRRAFOS PRIMERO Y SEGUNDO Y 8, EN SU FRACCIÓN XL; Y ADICIONA AL ARTÍCULO 8, TRES FRACCIONES, ÉSTAS COMO XLI, XLII Y XLIII, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
