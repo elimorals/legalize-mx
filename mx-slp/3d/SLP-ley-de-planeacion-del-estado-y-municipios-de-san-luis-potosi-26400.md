@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-planeacion-del-estado-y-municipios-de-san-luis-potosi-26
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-24"
-last_updated: "2022-04-18"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de noviembre de 2001.
 
@@ -35,7 +35,7 @@ DECRETO 191
 
 LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DE PLANEACION DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
@@ -150,6 +150,10 @@ V. El Comité de Planeación del Desarrollo Estatal (COPLADE);
 VI. Los Comités de Planeación del Desarrollo Municipal (COPLADEM), y
 
 VII. Las organizaciones sociales y privadas cuyas actividades deben ser consideradas en la Planeación del Desarrollo del Estado conforme a esta Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+En el Sistema Estatal de Planeación Democrática y Deliberativa, se observará una integración igualitaria con perspectiva de género, de conformidad con lo que establezcan las respectivas leyes orgánicas de cada una de las instituciones que lo conforman.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2015)</small>
 
@@ -782,3 +786,11 @@ P.O. 18 DE ABRIL DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0421.- SE ADICIONA AL ARTÍCULO 7°, EL PÁRRAFO ÚLTIMO, DE LA LEY DE PLANEACIÓN DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
