@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-vivienda-del-estado-de-jalisco-100675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-09"
-last_updated: "2022-07-16"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE VIVIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 9 de mayo de 2014.
 
@@ -39,13 +39,17 @@ LEY DE VIVIENDA DEL ESTADO DE JALISCO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es regulatoria en materia de vivienda y de observancia general en el Estado de Jalisco y sus Municipios. Sus disposiciones son de orden público e interés social y tiene por objeto establecer la política, los programas, los instrumentos y apoyos para que toda familia pueda disfrutar de vivienda digna y decorosa.
+La presente Ley es regulatoria en materia de vivienda y de observancia general en el Estado de Jalisco y sus Municipios. Sus disposiciones son de orden público e interés social y tiene por objeto establecer la política, los programas, los instrumentos y apoyos para que toda familia pueda disfrutar de vivienda adecuada, digna y decorosa.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 2.
 
-Se considera vivienda digna y decorosa, aquella que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, habitabilidad, salubridad, que cuente con los servicios básicos, con una buena distribución que garantice a quien la habite un disfrute cómodo de ésta, con una adecuada integración social y urbana, que brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
+Se considera vivienda adecuada, digna y decorosa, aquella que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos, construcción, habitabilidad, accesibilidad, asequibilidad, salubridad, que cuente con los servicios básicos, con una buena distribución que garantice a quien la habite un disfrute cómodo de ésta, con una adecuada ubicación, que propicie la integración social, cultural y urbana de los habitantes, que brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legitima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
 
 ###### Artículo 3.
 
@@ -69,7 +73,9 @@ Serán de aplicación supletoria a lo dispuesto por este ordenamiento, el Códig
 
 Esta Ley tiene por objeto:
 
-I. Establecer y regular las acciones, instrumentos y apoyos para que toda familia jalisciense pueda disfrutar de una vivienda digna y decorosa;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+I. Establecer y regular las acciones, instrumentos y apoyos para que toda familia jalisciense pueda disfrutar de una vivienda adecuada, digna y decorosa;
 
 II. Regular las acciones que en el rubro de la vivienda, realicen el sector público, privado y social, para garantizar que la población reclamante de este beneficio y derecho, que los reciba de manera puntual, en cantidad y calidad, pero además, que se cumplan los perfiles de seguridad en la construcción de ésta, que sea para un hábitat placentero de las familias que viven en el Estado de Jalisco, y que constituya así un patrimonio para la familia;
 
@@ -197,9 +203,11 @@ XXVIII. Vivienda popular: la vivienda cuyo valor al término de su edificación 
 
 XXIX. Vivienda terminada: la acción habitacional que se realiza en un proceso continuo y único de construcción.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 9.
 
-Las Políticas y los Programas Estatales de Vivienda, así como los instrumentos y apoyos a la vivienda, deberán considerar los distintos tipos de modalidades de producción habitacional, entre otras: la promovida empresarialmente y la autoproducida o autoconstruida, en propiedad, arrendamiento o en otras formas legítimas de tenencia; así como las diversas necesidades habitacionales: adquisición o habitación de suelo; lotes con servicios mínimos; parques de materiales; mejoramiento de vivienda; vivienda nueva; y la capacitación, asistencia integral e investigación de vivienda y suelo, propiciando que la oferta de vivienda digna refleje los costos de suelo, de infraestructura, servicios, edificación, financiamiento y titulación más bajos de los mercados respectivos, para lo cual incorporarán medidas de información, competencia, transparencia y las demás que sean convenientes para lograr este propósito.
+Las Políticas y los Programas Estatales de Vivienda, así como los instrumentos y apoyos a la vivienda, deberán considerar los distintos tipos de modalidades de producción habitacional, entre otras: la promovida empresarialmente y la autoproducida o autoconstruida, en propiedad, arrendamiento o en otras formas legítimas de tenencia; así como las diversas necesidades habitacionales: adquisición o habitación de suelo; lotes con servicios mínimos; parques de materiales; mejoramiento de vivienda; vivienda nueva; la ca acitación (sic) asistencia inte ral (sic) e investigación de vivienda y suelo, propiciando que la oferta de vivienda adecuada, digna y decorosa refleje los costos de suelo, de infraestructura, servicios, edificación, financiamiento y titulación más bajos de los mercados respectivos, para lo cual incorporarán medidas de información, competencia, transparencia y las demás que sean convenientes para lograr este propósito.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES
 
@@ -605,9 +613,11 @@ Los gobiernos de los municipios, la organización de los sectores social y priva
 
 ### CAPÍTULO SEXTO. DE LOS ADQUIRENTES Y BENEFICIARIOS
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 41.
 
-Por ser fin primordial el de proveer a los habitantes del Estado de terreno urbano o vivienda a los que de ella carezcan, para que construyan o establezcan su hogar en forma digna, decorosa y permanente, pudiendo de esta manera integrar un patrimonio familiar con las facilidades que su condición económica les permita, las operaciones a través de las cuales se transmita un bien inmueble, se realizarán con las personas que reúnan los requisitos señalados en la presente Ley y demás ordenamientos aplicables.
+Por ser fin primordial, el de proveer a los habitantes del Estado de terreno urbano o vivienda a los que de ella carezcan, para que construyan o establezcan su hogar en forma adecuada, digna, decorosa y permanente, pudiendo de esta manera integrar un patrimonio familiar con las facilidades que su condición económica les permita, las operaciones a través de las cuales se transmita un bien inmueble, se realizarán con las personas que reúnan los requisitos señalados en la presente Ley y demás ordenamientos aplicables.
 
 ###### Artículo 42.
 
@@ -1148,3 +1158,11 @@ P.O. 16 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28796/LXIII/22 QUE REFORMA LOS ARTÍCULOS 8 Y 16 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO Y ARTÍCULO 10 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28805/LXIII/22 QUE REFORMA LOS ARTÍCULOS 1, 2, 7 FRACCIÓN L (SIC), 9 Y 41 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO Y LOS ARTÍCULOS 3 FRACCIÓN LV, 8 FRACCIÓN XVI Y 10 FRACCIÓN XXXII DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Gobierno del Estado, así como los Ayuntamientos del Estado de Jalisco contarán con un plazo de noventa días naturales, siguientes a la entrada en vigor del presente decreto para realizar las modificaciones a los reglamentos, disposiciones administrativas y lineamientos generales que resulten aplicables y necesarios para el correcto cumplimiento de los artículos reformados en el presente decreto.
